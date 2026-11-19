@@ -196,8 +196,8 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
   *Child mode:* Listen to the card. Who gave the force? Cover it.
 - **s2 (8 min)**  
   *Parent does:* Play. After some cards, ask whether the force was a push or a pull.  
-  *Parent says:* A mango falls from the tree. Who gave the force? Was it a push or a pull?  
-  *Child mode:* Who gave the force? Push or pull?
+  *Parent says:* A mango falls from the tree. Who gave the force?  
+  *Child mode:* Say who gave the force. Then cover it on your board.
   - Ask: Was the Earth's force on the mango a push or a pull? (good: A pull. It pulled the mango down.; A pull, towards the ground.)
   - Note: Some cards can be argued either way, such as the ant moving a grain of rice. Accept a push or a pull if your child can say why. The stretched rubber band pushes the paper ball forward as it springs back. The clothes clip is a spring pushing the two sides together. Accept a good reason over a quick answer.
 - **s3 (2 min)**  
@@ -229,18 +229,18 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 - **question:** Can your hand feel a small packet of rice slipped into an empty bag? Can it feel the same packet slipped into a heavy bag?
 - **predict:** Guess first. Will you feel the packet in the empty bag? Will you feel it in the heavy bag? Why do you think so?
 - **fair test:** We use the same packet, the same bag and the same hand every time. Your eyes stay shut, so you can only feel, not see. A coin toss decides when the packet goes in, so you cannot guess a pattern. We try six times with each bag, because one right answer could be a lucky guess.
-- **record:** Draw the two bags. Under each, draw a tick for every right answer and a cross for every wrong one. Count the ticks.
+- **record:** Make two rows on your paper, one for each bag. Write a tick for every right answer and a cross for every wrong one. Count the ticks.
 - **results table:** Bag | My guess: will I feel it? | Right answers out of 6
 - **s1 (3 min)**  
   *Parent does:* 1. Tie 2 big spoons of rice in a hanky. 2. Let your child hold the empty bag, then the bag with two bottles. 3. Let them feel the packet in their hand.  
-  *Parent says:* This is our secret packet. Hold the empty bag. Now hold it with two bottles in it. Which bag pulls your hand down more?  
-  *Child mode:* Hold the empty bag. Now hold the heavy bag. Which pulls more?
+  *Parent says:* This is our secret packet. Hold the empty bag. Now hold it with two bottles in it.  
+  *Child mode:* Hold the empty bag. Then hold the bag with two bottles. Feel how each one pulls your hand.
   - Ask: Which bag pulls your hand down more? (good: The one with the bottles.; The heavy one pulls my fingers down a lot.)
   - Note: Your child should sit with the arm bent at the elbow and the bag hanging just above their lap. That way the arm does not get tired.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason for each bag. Write the guesses in the table.  
   *Parent says:* You will shut your eyes. Sometimes I will slip the packet in. Will you feel it in the empty bag? In the heavy bag? Why do you think so?  
-  *Child mode:* Will you feel the packet in the empty bag? In the heavy bag? Why?
+  *Child mode:* Guess if you will feel the packet in each bag.
   - Ask: Why do you think so? (good: I will feel it both times, because I can feel things in my hand.; Maybe not in the heavy bag, because it already pulls a lot.)
   - Note: Any guess is fine. Don't say what will happen.
 - **s3 (6 min)**  
@@ -257,20 +257,20 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 - **s5 (3 min)**  
   *Parent does:* Count the ticks together. Ask your child what they found, and why. Then ask the check question.  
   *Parent says:* How many did you get right with the empty bag? With the heavy bag? The packet was the same both times. Why do you think it was harder to feel in the heavy bag?  
-  *Child mode:* Count your ticks for each bag. Which bag was harder? Why?
+  *Child mode:* Count your ticks for each bag. Which bag gave you more right answers?
   - Ask: Why was the packet harder to feel in the heavy bag? (good: The bag was already pulling a lot, so a little more did not feel different.; The packet was tiny next to the bottles.)
   - Note: First let your child say what they found and why. Then say it plainly: the packet pulled down just as much both times. In the empty bag it was a big part of the pull, so the hand felt it. In the heavy bag it was a tiny part, so the hand missed it.
-  - Check: You hold a bag with two bottles in it, with your eyes shut. A packet is slipped in and you cannot tell it is there. Was the packet still pulling the bag down? → **Yes, just as much as in the empty bag**
+  - Check: You could not feel the packet in the bag with two bottles. Was the packet still pulling the bag down? → **Yes, just as much as in the empty bag**
 ### e2 · Push the Scale: how big is your push? (15 min)
 - **question:** Which push is biggest: one finger, one hand or two hands? Do two hands push twice as hard as one hand?
 - **predict:** Guess first. Which push will show the biggest number? Will two hands show twice as much as one hand? Why do you think so?
 - **fair test:** We use the same scale on the same floor every time. You kneel in the same place and push straight down. You hold each push steady for three seconds before we read the number, so the number can settle.
-- **record:** Write the number for each push. Draw a tall bar for a big number and a short bar for a small one.
+- **record:** Write the number for each push. Then write the three pushes in a list, biggest number first.
 - **results table:** Push | My guess | Number on the scale
 - **s1 (3 min)**  
   *Parent does:* 1. Put the scale on a hard, flat floor. 2. Show how the number goes to zero with nothing on it. 3. Ask for guesses and reasons.  
   *Parent says:* This scale shows how hard something pushes on it. Which push will show the biggest number? Will two hands show twice as much as one hand? Why?  
-  *Child mode:* Which push will be biggest? Will two hands show twice as much as one hand? Why?
+  *Child mode:* Guess which push will show the biggest number.
   - Note: Put the scale on a dry, flat, non-slip floor, and hold its edge with your foot so it does not slide. A digital scale may need a tap with your foot to switch on. Some will not show a number for a very small push. If the finger push shows zero, that is a result too. If the scale shows nothing at all, skip this experiment.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child kneels and pushes down with one finger as hard as they can, for three seconds. 2. Read the number. 3. Then one hand. 4. Then two hands. 5. Write each number.  
@@ -281,24 +281,24 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 - **s3 (4 min)**  
   *Parent does:* Compare the numbers. Ask whether two hands gave twice as much as one hand. Then ask the check question.  
   *Parent says:* Look at the numbers. Did two hands show twice as much as one hand? Why do you think so?  
-  *Child mode:* Did two hands show twice as much as one hand? Why?
+  *Child mode:* Look at your numbers. Is the two-hand number double the one-hand number?
   - Ask: Why might two hands not be twice as much? (good: My arms got tired.; I can only push as hard as my body can lean.)
   - Note: Two hands usually give a bigger number than one hand. Whether it is twice as much depends on how much of their body weight your child leans onto their hands.
   - Check: You push a scale with one finger, then with your whole hand. Which shows the bigger number? → **Your whole hand**
 
 ## Activities
 ### a1 · Who Is Pushing? A force hunt at home (12 min)
-- **record:** Draw each force in its column. Count how many are in each column.
+- **record:** Write a few words for each force in its column, for example 'fan pushes paper'. Count how many are in each column.
 - **s1 (2 min)**  
   *Parent does:* Show the two columns: one for forces given by people and other animals, and one for forces given by other things. Do one example together: drop a steel spoon on a mat.  
   *Parent says:* Every push and every pull is a force. Watch the spoon fall. Something pulled it down. Who gave that pull?  
-  *Child mode:* Watch the spoon fall. What pulled it down?
+  *Child mode:* Watch closely as the spoon falls.
   - Ask: What pulled the spoon down? (good: The Earth.; Gravity, the Earth's pull.)
   - Note: If your child says 'nothing', ask why the spoon went down and not up. Then say: the Earth pulls everything down. Scientists call that pull gravity.
 - **s2 (8 min)**  
-  *Parent does:* 1. Walk round the home together. 2. Find at least 8 forces. 3. For each one, ask: who or what gives the force? 4. Your child draws it in a column.  
-  *Parent says:* Let's find forces. Turn on the tap. Hold a paper near the fan. Put the magnet near the paper clip. Who or what is pushing or pulling each time?  
-  *Child mode:* Find a push or a pull. Who or what gave it? Draw it.
+  *Parent does:* 1. Walk round the home together. 2. Find at least 8 forces. 3. For each one, ask: who or what gives the force? 4. Your child writes a few words in a column, or says it and you write it.  
+  *Parent says:* Turn on the tap. Hold a paper near the fan. Put the magnet near the paper clip. Who or what is pushing or pulling each time?  
+  *Child mode:* Find a push or a pull. Tell who or what gave it. Then write it in a column.
   - Ask: Who gave the push when the fan blew the paper? (good: The wind from the fan.; The air pushed it.)
   - Note: Good ones to try: tap water pushing a cup, the fan's wind pushing a paper, a magnet pulling a paper clip, the Earth pulling a dropped ball, an ant pulling a crumb, and you pulling a drawer. Keep fingers away from the fan blades.
 - **s3 (2 min)**  
@@ -307,25 +307,25 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
   *Child mode:* Count each column. Which has more?
   - Check: Water from a tap pushes a paper boat along the sink. Who gives the push? → **The water**
 ### a2 · Eyes Shut: push or pull on your hand? (8 min)
-- **record:** Draw your hand. Add one arrow for a push you felt and one arrow for a pull you felt.
+- **record:** Tell your grown-up one push and one pull you felt, and say if each was big or small. They can write it down.
 - **s1 (5 min)**  
   *Parent does:* 1. Your child shuts their eyes and holds out one hand. 2. Gently push the palm, or gently pull the fingers. 3. Mix big and small. 4. After each one, your child says push or pull, big or small.  
   *Parent says:* Eyes shut. I am going to push or pull your hand. Tell me which one, and if it was big or small.  
-  *Child mode:* Eyes shut. Push or pull? Big or small?
+  *Child mode:* Keep your eyes shut. Feel which way your hand moves.
   - Ask: How did you know it was a pull? (good: My hand went towards you.; I felt my fingers being tugged.)
   - Note: Keep every push and pull gentle. Try a very light touch with one fingertip too. Can your child still feel it?
 - **s2 (3 min)**  
   *Parent does:* Swap: your child pushes and pulls your hand while your eyes are shut. Then ask the check question.  
   *Parent says:* Now you push or pull my hand, and I will guess. Could you see the force, or only feel it?  
-  *Child mode:* Now you push or pull. I will guess. Can we see a force?
+  *Child mode:* Now you push or pull your grown-up's hand. They will guess which one it was.
   - Check: With your eyes shut, how did you know a force was on your hand? → **I felt it**
 ### a3 · Kitchen Forces: make panakam and name every push and pull (15 min)
 - **safety:** A grown-up cuts the lemon with the knife.
-- **record:** Draw three kitchen forces you used. Write 'push' or 'pull' next to each.
+- **record:** Write three kitchen forces you used. Write 'push' or 'pull' next to each. A grown-up can write for you.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Pull open the drawer for the spoon. 2. Pour the water into the jug. 3. Add the jaggery and stir. 4. Cut the lemon (grown-up). 5. Your child squeezes it. 6. Add the cardamom and stir again.  
-  *Parent says:* Every time you push or pull, say it out loud. Opening the drawer: push or pull? Pouring water: who pulls the water down?  
-  *Child mode:* Say each push or pull out loud. Who pulls the water down?
+  *Parent says:* Every time you push or pull, say it out loud. Start with the drawer. Is opening it a push or a pull?  
+  *Child mode:* Say 'push' or 'pull' out loud each time you move something.
   - Ask: When you pour water, what pulls it down into the jug? (good: The Earth.; Gravity.)
   - Note: Squeezing the lemon is a push from your fingers. Stirring is pushes in a circle. Pouring is the Earth pulling the water down. Opening the drawer is a pull.
 - **s2 (5 min)**  
@@ -336,34 +336,34 @@ Ammamma smiled. 'That is why Lakshmamma uses a balance,' she said. 'Her hands ho
 
 ## Projects
 ### p1 · My Force Diary: three days, three forces a day (30 min, 3 days)
-- **record:** Nine drawings, each with the giver's name and a B for big or an S for small.
-- **schedule:** day 1: Draw three forces you noticed at home today. Write who gave each one. (10 min); day 2: Draw three forces you noticed outside, on the way somewhere or from the window. (10 min); day 3: Draw three forces you could feel but not see. Look back at all nine, and count the big and small ones. (10 min)
+- **record:** Nine entries, each with the giver's name and a B for big or an S for small. An entry can be a drawing, a few words or a photo.
+- **schedule:** day 1: Draw three forces you noticed at home today, or take photos. Write who gave each one. (10 min); day 2: Find three forces outside, on the way somewhere or from the window. Write a few words for each, or tell a grown-up who writes them. (10 min); day 3: Find three forces you can feel but not see. Say or write each one. Look back at all nine, and count the big and small ones. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* Day 1: help your child choose three forces from the home and draw them.  
+  *Parent does:* Day 1: help your child choose three forces from the home. They draw each one, or you take a photo.  
   *Parent says:* What three pushes or pulls did you see today? Who gave each one? Was it big or small?  
-  *Child mode:* Draw three forces from today. Who gave each one?
+  *Child mode:* Pick three pushes or pulls from today. Draw each one, or show it to your grown-up.
 - **s2 (10 min)**  
-  *Parent does:* Day 2: look for forces from a window or on a walk. Your child draws three more.  
+  *Parent does:* Day 2: look for forces from a window or on a walk. Your child finds three more and says or writes them.  
   *Parent says:* Look outside. Can you find a force that a person did not give?  
-  *Child mode:* Look outside. Draw three forces. Can you find one not made by a person?
+  *Child mode:* Look outside. Find three pushes or pulls. Tell your grown-up who gave each one.
   - Ask: Which force did a person not give? (good: The wind pushing the trees.; The Earth pulling the rain down.)
 - **s3 (10 min)**  
-  *Parent does:* Day 3: your child draws three forces they can feel but not see. Then look at all nine drawings and count the big forces and the small ones.  
-  *Parent says:* Draw three forces you can feel but not see, like your school bag pulling on your shoulders. Now count the big ones and the small ones.  
-  *Child mode:* Draw three forces you can feel. Count the big ones and the small ones.
+  *Parent does:* Day 3: your child names three forces they can feel but not see. Then look at all nine entries and count the big forces and the small ones.  
+  *Parent says:* Which three forces can you feel but not see? Think of your school bag pulling on your shoulders. Now count the big ones and the small ones.  
+  *Child mode:* Name three forces you can feel. Then count the big ones and the small ones.
   - Check: Your school bag pulls on your shoulders. Who gives that pull? → **The Earth, pulling the bag down**
 
 ## Challenges
 ### c1 · Catch the Secret Packet: build a hanger balance (20 min)
 - **problem:** In the Secret Packet test, your hand could not tell when the rice packet went into the heavy bag. Build something that shows it every time, without using your hand to feel.
-- **your turn:** Build your own packet-catcher. Does it show the packet in an empty bag? Does it still show it when each bag holds a small 500 ml water bottle? Draw your design.
+- **your turn:** Build your own packet-catcher. Does it show the packet in an empty bag? Does it still show it when each bag holds a small 500 ml water bottle? Show your design to your grown-up and tell how it works. A photo works too.
 - **constraints:** Use only things from home.; You may not look inside the bag to check.; It must work for an empty bag first. Then try it with heavy bags.
 - **general:** Vegetable sellers use a two-pan balance: weights on one side, vegetables on the other.; Shops use electronic scales that show the weight as a number.; Doctors weigh babies on a scale, not by holding them.
 - **creative:** Hang two bags of the same kind from the ends of a hanger. Mark where the ends rest on a paper behind it.; Hang a single bag from a rubber band, and mark how far it stretches.; Sit the bag on a kitchen sponge and watch whether the sponge squashes a little more.
 - **s1 (3 min)**  
   *Parent does:* Read the problem. Ask for ideas before showing any.  
   *Parent says:* In the Secret Packet test, your hand missed the packet in the heavy bag. What could you build that shows when the packet goes in?  
-  *Child mode:* In the Secret Packet test, your hand missed the packet. What could you build to catch it?
+  *Child mode:* Think of a way to catch the packet without using your hand.
   - Ask: What could you use? (good: A hanger with a bag on each end.; A scale.; A rubber band that stretches more.)
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. Help your child build their idea. 2. For a hanger balance, hang one bag on each end. 3. Move the bags until the hanger hangs level. 4. Mark where the ends are. 5. Drop the packet into one bag. 6. Then put a small 500 ml water bottle in each bag, make it level again, and drop the packet into one bag.  

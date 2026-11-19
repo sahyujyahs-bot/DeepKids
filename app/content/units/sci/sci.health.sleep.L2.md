@@ -181,13 +181,13 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
   *Child mode:* Read every card once. Then turn them all face down.
 - **s2 (10 min)**  
   *Parent does:* Take turns to turn over two cards. If they are a pair, keep them. If they are not a pair, turn them face down again in the same places.  
-  *Parent says:* Turn over two. Is this the bat and the bat's sleep card? If not, try to remember where they are.  
-  *Child mode:* Turn over two cards. Do they match? Remember where they were.
-  - Note: This game uses memory, just like the picture-pairs test. Say aloud where each card was when you turn it back. That helps everyone remember.
+  *Parent says:* Turn over two cards. If one names an animal and the other says how that animal sleeps, that is a pair. If not, remember where they are.  
+  *Child mode:* Find an animal card and its sleep card. Remember where the others are.
+  - Note: This game uses memory. Say aloud where each card was when you turn it back. That helps everyone remember.
 - **s3 (2 min)**  
-  *Parent does:* Count the pairs. Then ask how crows stay safe when they sleep.  
-  *Parent says:* A sleeping animal is easy for a hunter to catch. How do crows stay safe when they sleep?  
-  *Child mode:* Count your pairs. How do crows stay safe when they sleep?
+  *Parent does:* Count the pairs. Then ask why crows sleep together in one tree.  
+  *Parent says:* A sleeping animal is easy for a hunter to catch. Crows sleep together in one big tree.  
+  *Child mode:* Count your pairs. Who has the most?
   - Ask: Why might crows sleep together in one tree? (good: So many eyes can spot danger.; It is safer in a crowd.; They can find each other in the morning.)
   - Note: Good answers: many eyes can spot danger, and a crowd is safer than being alone. A sleeping animal cannot watch for hunters, so staying safe matters. Bats stay safe by hanging in dark places that hunters cannot easily reach.
 ### g2 · Sleepy or Wide Awake? A bedtime sorting game (15 min)
@@ -195,13 +195,13 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 - **Printable cards: 14 bedtime cards to cut out:** A warm wash or bath (back: Helps. A wash is calm, and the body cools down after it, which helps sleep.); Brushing teeth (back: Helps. It is a calm step that tells your body bedtime is near.); Putting on night clothes (back: Helps. Soft, loose clothes are comfortable to sleep in.); Reading a story with a dim lamp (back: Helps. Dim light and a calm story get you ready to sleep.); Lights off and curtains closed (back: Helps. A dark room tells your body it is night.); Going to bed at the same time every night (back: Helps. Your body clock learns the time and makes you sleepy then.); A slow, quiet song (back: Helps. Quiet, slow sounds calm the body.); Telling someone about your day (back: Helps. Talking about worries can calm you down.); Watching a phone in bed (back: Keeps you awake. Bright light and exciting shows push sleep later.); Racing round the house (back: Keeps you awake. Running makes your heart beat fast. Play hard earlier in the day.); A big plate of sweets at bedtime (back: Keeps you awake. A big meal just before bed can make sleep hard, and sugar on teeth at night is bad for them.); Bright tube light on in the bedroom (back: Keeps you awake. Bright light tells your body it is still day.); Loud TV in the next room (back: Keeps you awake. Noise can stop you falling asleep and wake you up.); A different bedtime every night (back: Keeps you awake. Your body clock cannot learn when to make you sleepy.)
 - **Printable board: Two sheets to draw on paper:** A dark blue sheet with a moon: 'Helps me sleep'; A bright yellow sheet with a lightning bolt: 'Keeps me awake'
 - **s1 (2 min)**  
-  *Parent does:* Cut out the cards and draw the two sheets. Mix the cards.  
+  *Parent does:* Cut out the cards. Put two sheets of paper on the floor, one for 'Helps me sleep' and one for 'Keeps me awake'. Mix the cards.  
   *Parent says:* Some things help us fall asleep. Some things keep us awake. Let's sort them.  
-  *Child mode:* Some things help you sleep. Some keep you awake. Let's sort them.
+  *Child mode:* Sort the cards on to the two sheets: helps you sleep, or keeps you awake.
 - **s2 (8 min)**  
   *Parent does:* Take turns to turn a card, guess where it goes and say why. Then read the back aloud and put the card on the correct sheet.  
-  *Parent says:* Where does this card go? Why do you think so? Now let's read the back.  
-  *Child mode:* Where does this card go? Say why. Then read the back.
+  *Parent says:* Which sheet does this card go on? Why do you think so? Now let's read the back.  
+  *Child mode:* Guess the sheet and say why. Then read the back.
   - Note: Watching a phone in bed is the card children argue about most. Many feel it relaxes them. Let them say so, then read the back. Studies find that children with screens in bed sleep later and less.
 - **s3 (5 min)**  
   *Parent does:* Your child picks five 'Helps me sleep' cards and lays them in order as a routine.  
@@ -214,18 +214,18 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 - **question:** Will you keep more picture pairs after a night of sleep, or after a day awake?
 - **predict:** You will learn one set in the morning and one set at bedtime. Which set will you remember better the next time you are tested? Why do you think so?
 - **fair test:** Both sets have eight pairs of simple things. We learn both sets the same way, going through them twice. We test each set straight after learning, and again about 11 hours later. Only one thing changes: whether those hours are spent awake or asleep. Two things are not quite fair. At bedtime you may be tired when tested. And one set may be a little easier than the other. So we also look at how many you knew straight after learning, and if you repeat the test, you swap the sets.
-- **record:** Fill in the table. Your child draws two rows of eight boxes, one for each set, and colours a box for every pair they remembered later.
+- **record:** Fill in the table. Then lay the cards of each set in a row, and your child puts a coin on every pair they remembered later.
 - **results table:** Set | My guess | Pairs right straight after learning | Pairs right about 11 hours later | Pairs lost
-- **schedule:** day 1: Morning: draw the cards, then learn the day set and test it straight away. (15 min); day 1: Bedtime: test the day set. Then learn the night set, test it straight away, and go to sleep. (10 min); day 2: Morning: test the night set. Compare the two sets. (7 min)
+- **schedule:** day 1: Morning: make the cards, then learn the day set and test it straight away. (15 min); day 1: Bedtime: test the day set. Then learn the night set, test it straight away, and go to sleep. (10 min); day 2: Morning: test the night set. Compare the two sets. (7 min)
 - **s1 (8 min)**  
-  *Parent does:* 1. Fold 16 pieces of paper in half. 2. On each one, draw a quick picture on the left half and a different picture on the right half. The two lists are in the parent note. 3. Share the drawing: your child draws as many as they like, and you draw the rest. 4. Keep the two sets of eight cards in separate envelopes.  
+  *Parent does:* 1. Fold 16 pieces of paper in half. 2. On each one, draw a quick picture on the left half and a different picture on the right half, or write the two words if you prefer. The two lists are in the parent note. 3. Share the work: your child makes as many as they like, and you draw the rest. 4. Keep the two sets of eight cards in separate envelopes.  
   *Parent says:* We are making two sets of picture pairs. The pictures in a pair do not belong together. That makes them a real test of memory.  
-  *Child mode:* Draw one picture on each half of a card. The two pictures are a pair.
+  *Child mode:* Draw or write one thing on each half of a card. The two things are a pair.
   - Note: Day set: elephant and umbrella, mango and bus, star and shoe, fish and chair, kite and spoon, tree and cup, auto and flower, drum and banana. Night set: cat and clock, boat and key, moon and bucket, parrot and ball, coconut and bell, house and leaf, lamp and frog, egg and ladder. Quick, simple drawings are fine. A pair of things that do not go together, like a mango and a bus, is harder to guess. So the test shows real memory, not good guessing.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason before you start.  
-  *Parent says:* You will learn the day set now and the night set at bedtime. Which set will you remember better later? Why do you think so?  
-  *Child mode:* Which set will you remember better? Why?
+  *Parent says:* You will learn the day set now and the night set at bedtime. Which set will you remember better later?  
+  *Child mode:* Guess which set you will remember better.
   - Ask: Why do you think so? (good: The day set, because I am fresh in the morning.; The night set, because I will sleep on it.; Both the same, because it is the same number of hours.)
   - Note: Write the guess in the table. Many children guess the day set, because they feel sharper in the morning. That is a good reason. Let the test answer it.
 - **s3 (5 min)**  
@@ -236,7 +236,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 - **s4 (5 min)**  
   *Parent does:* 1. At bedtime, before lights off, test the day set the same way as in the morning. Do not show the pairs first. 2. Fold each card so only the left picture shows, and mix the cards. 3. Ask for the partner of each, and write down how many are right.  
   *Parent says:* Do you remember the day set from this morning? I show the first picture. What was its partner?  
-  *Child mode:* Here is the first picture. What was its partner?
+  *Child mode:* Say the partner of each picture.
   - Note: Test in the same way as the morning: show the first picture and wait for the partner's name.
   - Wait: Do this at bedtime, about 11 hours after the morning test.
 - **s5 (5 min)**  
@@ -247,25 +247,25 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 - **s6 (4 min)**  
   *Parent does:* 1. In the morning, test the night set. 2. Write down how many are right. 3. Fill in the 'pairs lost' column for both sets.  
   *Parent says:* You slept on the night set. Let's see how many you kept. What was with the cat?  
-  *Child mode:* What was with the cat? Say each partner.
+  *Child mode:* Say the partner of each card.
   - Note: Most children lose a pair or two over a day awake, and lose fewer or none over a night of sleep. If both sets came out the same, that is a real result too. One child and one try is a small test. Do it again with new pairs on another day, and this time learn the night set in the morning and the day set at bedtime. Then add up both tries.
   - Wait: Do this the next morning, about 11 hours later.
 - **s7 (3 min)**  
   *Parent does:* Ask what your child thinks, what they saw, and why. Then tell them what scientists found.  
-  *Parent says:* Which set did you keep better? What tells you? Scientists find that sleep helps the brain keep what you learned that day.  
-  *Child mode:* Which set did you keep better? Sleep helps your brain keep what you learned.
+  *Parent says:* What do your two scores tell you? Scientists find that sleep helps the brain keep what you learned that day.  
+  *Child mode:* Look at your two scores. Which set did you keep better?
   - Note: A strong answer has a claim, evidence and a reason. For example: 'Sleep helped me keep the pairs. I lost 2 day pairs but no night pairs. My brain kept them while I slept.'
   - Check: In many studies, which set do children usually remember better? → **The set learned at bedtime, after a night of sleep**
 ### e2 · The Yawn Test: does seeing a yawn make you yawn? (15 min)
 - **question:** Will you yawn more while you watch someone yawn, or while you watch someone smile?
 - **predict:** Will you yawn more while watching yawns, or while watching smiles? Why do you think so?
 - **fair test:** Each watch lasts 3 minutes. The grown-up sits at the same distance, in the same room and the same light. Only one thing changes: yawning or smiling. We do the smiling watch first, so the yawns do not carry on into it.
-- **record:** Draw a tally mark for each yawn. Draw two faces, one smiling and one yawning, and write your count under each.
+- **record:** Make a tally mark for each yawn. Then write your count for the smiling watch and your count for the yawning watch.
 - **results table:** What I watched | My guess | How many times I yawned in 3 minutes
 - **s1 (2 min)**  
   *Parent does:* Ask for a guess and a reason.  
   *Parent says:* I am going to smile at you for 3 minutes, then yawn for 3 minutes. When will you yawn more? Why do you think so?  
-  *Child mode:* When will you yawn more? Why?
+  *Child mode:* Guess: will you yawn more at the smiles or at the yawns?
   - Ask: Why do you think so? (good: Yawns spread from one person to another.; Smiles make me smile, so yawns make me yawn.; No difference, I yawn when I am tired.)
 - **s2 (4 min)**  
   *Parent does:* 1. Sit facing your child. 2. Look at them with a gentle smile for 3 minutes, without yawning or talking. 3. Your child makes a tally mark each time they yawn.  
@@ -278,7 +278,7 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
 - **s4 (5 min)**  
   *Parent does:* Compare the two counts. Ask what your child thinks, what they saw, and why.  
   *Parent says:* When did you yawn more? What does that tell you about yawns?  
-  *Child mode:* When did you yawn more? What does that tell you?
+  *Child mode:* Compare your two counts.
   - Note: Many people, and many children of 6 and older, yawn after seeing a yawn. This is called contagious yawning. Some people do not, and that is a real result too. Nobody knows for sure why yawns spread. One idea is that it helps a group get sleepy, or wake up, at the same time. Your child may be a little more tired in the second watch. To check, do the test again another day with the yawns first.
   - Check: When do people usually yawn more? → **While watching someone yawn**
 
@@ -291,9 +291,9 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
   *Parent says:* What do you do before you sleep? Let's choose five calm steps, and do them in the same order every night.  
   *Child mode:* Choose five calm steps for bedtime. The last one is lights off.
 - **s2 (8 min)**  
-  *Parent does:* Your child draws one step in each box, then you stick the strip on the bedroom door.  
-  *Parent says:* Draw one step in each box. Then we will stick it where you can see it.  
-  *Child mode:* Draw one step in each box. Stick it on your door.
+  *Parent does:* Your child draws one step in each box, or writes it, or sticks in a picture cut from a magazine. Then you stick the strip on the bedroom door.  
+  *Parent says:* Show each step in a box, in any way you like. Then we will stick it where you can see it.  
+  *Child mode:* Draw or write one step in each box. Put the strip on your door.
   - Note: Agree on a bedtime too, such as 8:30. Children of 6 to 12 need about 9 to 12 hours of sleep. Count back from the time they must wake.
 - **s3 (3 min)**  
   *Parent does:* Follow the strip each night. Your child ticks each step as it is done.  
@@ -313,35 +313,35 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
   *Child mode:* Lie still in the dark. Count every light you can see.
 - **s2 (7 min)**  
   *Parent does:* 1. With a torch, go to each light. 2. Decide together how to block it. 3. Tape over a small glow, close the curtain, or shut the door to the hall.  
-  *Parent says:* This light is on the wifi box. How could we stop it shining on your bed?  
+  *Parent says:* Here is a light. How could we stop it shining on your bed?  
   *Child mode:* Find each light. How can you block it?
   - Note: Never cover anything that gets hot, like a lamp or a plug that warms up. Small indicator lights on chargers, fans and wifi boxes are safe to cover with paper tape.
 - **s3 (3 min)**  
   *Parent does:* Turn the lights off again. Count the lights your child can still see.  
-  *Parent says:* Now how many lights can you see? Why does a dark room help you sleep?  
-  *Child mode:* Count again. Why does the dark help you sleep?
+  *Parent says:* Now how many lights can you see?  
+  *Child mode:* Count again. Did the number go down?
   - Ask: Why does a dark room help you sleep? (good: Dark tells my body it is night.; Light can keep me awake.; Nothing blinks at me.)
 ### a3 · Crows Going to Bed: a window watch at dusk (15 min)
-- **record:** A tally of crows in five minutes, an arrow showing which way they flew, and the time.
+- **record:** A tally of crows in five minutes, which way they flew, and the time.
 - **s1 (10 min)**  
   *Parent does:* 1. About 20 minutes before sunset, stand at a window. 2. For 5 minutes, your child makes a mark for every crow flying past. 3. Note which way most of them fly.  
   *Parent says:* Watch for crows. Make a mark for each one. Which way are they going?  
-  *Child mode:* Watch the sky. Mark each crow. Which way are they flying?
+  *Child mode:* Watch the sky and mark each crow you see.
   - Note: House crows in many Indian cities gather in big groups to sleep in a few tall trees. Such a sleeping place is called a roost. If you see none, try another evening, or look for other birds settling into trees or ledges. Look at the sky away from the Sun, never straight at it.
 - **s2 (5 min)**  
   *Parent does:* Talk about what you saw.  
-  *Parent says:* Where do you think the crows are going? Why might they sleep all together?  
-  *Child mode:* Where are the crows going? Why sleep together?
+  *Parent says:* Where do you think the crows are going?  
+  *Child mode:* Point to where the crows are going.
   - Ask: Why might crows sleep together? (good: To be safe from owls and cats.; Many eyes can watch for danger.; To stay warm or find friends.)
 
 ## Projects
 ### p1 · Ask the Family: who sleeps how long? (30 min, 3 days)
-- **record:** A table of names, ages and hours slept, and a chart with a row of moons for each person.
+- **record:** A table of names, ages and hours slept, and a chart with a row of beans for each person. Take a photo of it.
 - **schedule:** day 1: Make the table. Ask two or three people at home. (10 min); day 2: Ask two or three more people, in person or on a call. (10 min); day 3: Draw a moon for each hour slept, and compare. (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Draw a table with three columns: name, age, hours slept last night. 2. Fill in the first row for your child. 3. Then your child asks you, and one or two more people at home. If few people live with you, ask a neighbour.  
   *Parent says:* Ask each person two questions. How old are you? What time did you sleep and wake up?  
-  *Child mode:* Ask: how old are you? How long did you sleep?
+  *Child mode:* Ask each person two questions. Write the answers in the table.
   - Note: Help your child count the hours from bedtime to waking. If someone napped in the day, add a note.
 - **s2 (10 min)**  
   *Parent does:* Your child asks two or three more people, at home or on a phone call.  
@@ -349,27 +349,27 @@ Nila thought about that. Then she ran to tell Sachin. 'Sachin! Your brain works 
   *Child mode:* Ask more people. Write their answers.
   - Wait: Do this the next day.
 - **s3 (10 min)**  
-  *Parent does:* 1. Your child draws one moon for every hour each person slept. 2. Line the rows up from youngest to oldest. 3. Talk about the pattern.  
-  *Parent says:* Who has the longest row of moons? Who has the shortest? What do you notice about their ages?  
-  *Child mode:* Draw a moon for each hour. Who slept longest?
-  - Ask: What do you notice? (good: Babies and children sleep longer.; Grown-ups sleep less.; An older person slept less at night but napped after lunch.)
+  *Parent does:* 1. Your child lays out one bean for every hour each person slept, in a row beside their name. 2. Line the rows up from youngest to oldest. 3. Talk about the pattern.  
+  *Parent says:* Whose row of beans is longest? Whose is shortest?  
+  *Child mode:* Put one bean down for each hour. Whose row is longest?
+  - Ask: What do you notice about the ages? (good: Babies and children sleep longer.; Grown-ups sleep less.; An older person slept less at night but napped after lunch.)
   - Note: Most families find that younger children sleep longest. Older people often sleep less at night and nap in the day. A child of 7 needs about 9 to 12 hours. If nobody in your list is a baby, the pattern may be weak. That is still a result.
   - Wait: Do this the day after.
 
 ## Challenges
 ### c1 · A Sleep Kit for the Overnight Train (20 min)
 - **problem:** Your family is taking an overnight train from Chennai to Kochi. The coach lights stay on for a while, people talk, and the train rattles. Plan a bag of things from home and a short routine that will help you fall asleep on a busy night train.
-- **your turn:** Now pack your own sleep kit. Draw what is in the bag, and tell a grown-up the three routine steps you will keep. The grown-up writes them down. Try it at home tonight with the lights on and the radio playing.
+- **your turn:** Now pack your own sleep kit. Put the things in the cloth bag, and tell a grown-up the three routine steps you will keep. The grown-up writes them down. Try it at home tonight with the lights on and the radio playing.
 - **constraints:** Use only things you already have at home.; The kit must fit in one small cloth bag.; Keep at least three steps of your home bedtime routine.
 - **general:** An eye cover made from a folded dupatta or a soft cloth, to block the light.; Night clothes or a soft T-shirt to change into.; A toothbrush, so the brushing step stays the same as at home.
 - **creative:** A favourite small pillow or soft toy from your own bed, so the smell and feel are like home.; A storybook from home, read at the same time as your usual bedtime.; A soft cap or scarf pulled over the ears to make the noise quieter.
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. List what makes sleep hard on a train.  
   *Parent says:* What could stop you sleeping on a night train?  
-  *Child mode:* What makes it hard to sleep on a train?
+  *Child mode:* Imagine the train coach at night. Think of what you would see and hear.
   - Ask: What makes it hard? (good: The lights stay on.; People talk and the train rattles.; The bed is not my own.)
 - **s2 (10 min)**  
-  *Parent does:* Your child chooses things for the kit and draws them. They also pick three routine steps to keep.  
+  *Parent does:* Your child chooses things for the kit and puts them in the cloth bag. They also pick three routine steps to keep.  
   *Parent says:* What will block the light? What will make the noise quieter? Which steps from home will you keep?  
   *Child mode:* Pick things to block light and noise. Pick three home steps.
   - Note: Do not put cotton or anything small inside the ears. A soft cap or scarf over the ears is safer. Tie the eye cover loosely, and never round the neck.

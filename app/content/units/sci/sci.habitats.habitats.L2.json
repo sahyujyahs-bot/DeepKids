@@ -271,7 +271,7 @@
    "title": "Wrong Home Rescue",
    "mins": 12,
    "players": "1 to 4 children and a grown-up",
-   "context": "This is a card game about habitats. Each card shows a living being in the wrong home, like a fish in the desert. You say what is wrong, and move them to a habitat that suits them.",
+   "context": "This is a card game about habitats. Each card shows a living being in the wrong home, like a fish in the desert. You will find out which habitat suits each one, and why. You say what is wrong, and move them to the right habitat.",
    "printables": [
     {
      "kind": "board",
@@ -354,14 +354,14 @@
      "mins": 3,
      "do": "1. Draw the 4 mats on paper, or cut them out. 2. Cut out the 10 cards. 3. Read the 4 mats aloud together.",
      "say": "Each of these mats is a habitat. Each card shows someone in the wrong home. Your job is to rescue them.",
-     "kid": "These are four habitats. Each card shows someone in the wrong home. Rescue them!"
+     "kid": "Read the name on each mat. Then get ready to rescue."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "Take turns. After each card is put on a mat, ask your child why before reading the back.",
-     "say": "A fish on desert sand! What is wrong here? Where should the fish go, and why?",
-     "kid": "Read the card. What is wrong? Where should they go? Say why.",
+     "say": "Here is a fish on desert sand. Where should the fish go?",
+     "kid": "Read your card. Put it on the mat where that living being belongs.",
      "ask": [
       {
        "q": "Why can a fish not live in the desert?",
@@ -387,7 +387,7 @@
      "mins": 2,
      "do": "Count the rescues. Look at all four mats with their cards.",
      "say": "Look at the desert mat. Who lives there now? What does the desert give them?",
-     "kid": "Count your rescues. Who lives in the desert now?",
+     "kid": "Count your rescues. Point to the cards on the desert mat.",
      "check": {
       "t": "mcq",
       "q": "Which mat has hot sand by day, cold nights and very little rain?",
@@ -407,7 +407,7 @@
    "title": "Guess My Habitat: a yes-or-no game",
    "mins": 10,
    "players": "2 or more: one picks a card, the others ask questions",
-   "context": "This is a guessing game. One player secretly picks an animal card. The others ask yes-or-no questions about the animal's habitat until they guess who the animal is.",
+   "context": "This is a guessing game. One player secretly picks an animal card. The others ask yes-or-no questions about the animal's habitat until they guess who the animal is. You will learn that where an animal lives tells you a lot about them.",
    "printables": [
     {
      "kind": "cards",
@@ -504,8 +504,8 @@
      "id": "s1",
      "mins": 2,
      "do": "Cut out the 8 cards. Read each one aloud once. Then the grown-up picks a card first, looks at the back and answers the questions, to show how to play.",
-     "say": "I have picked an animal. Ask me about the place where the animal lives. Is it wet? Is it hot? Are there trees? Then guess.",
-     "kid": "A grown-up has picked an animal. Ask about the place where the animal lives. Then guess."
+     "say": "I have picked an animal. Ask me yes-or-no questions about where the animal lives. Is it wet? Is it hot? Are there trees?",
+    "kid": "Ask questions to work out which animal the grown-up picked. Then guess."
     },
     {
      "id": "s2",
@@ -527,9 +527,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "End the game. Ask which two animals were hardest to tell apart.",
+     "do": "End the game. Put the two cards that were hardest to tell apart side by side.",
      "say": "Which two animals were hardest to tell apart? What question could tell them apart?",
-     "kid": "Which two animals were hard to tell apart? Why?",
+     "kid": "Pick the two cards that were hardest to tell apart.",
      "think": "The frog and the snail both like damp places. What else is different about their habitats?",
      "check": {
       "t": "mcq",
@@ -552,7 +552,7 @@
    "title": "The Diya and the Stone: can a seed live on a rock?",
    "mins": 25,
    "days": 3,
-   "context": "In this experiment you stand a clay diya and a smooth stone in a plate of water. You put 10 mustard seeds on top of each. Then you watch for two days to see where the seeds can grow.",
+   "context": "You will find out why moss grows on a damp old wall but not on shiny stone. You stand a clay diya and a smooth stone in a plate of water. You put 10 mustard seeds on top of each. Then you watch for two days to see where the seeds can grow.",
    "question": "A clay diya and a smooth stone stand in the same water. Can mustard seeds sprout on top of each of them?",
    "predict": "Guess first. On which top will the seeds sprout: the clay diya, the smooth stone, both or neither? Why do you think so?",
    "fair_test": "Both stand in the same plate, in the same water, in the same place, for the same time. Both get 10 seeds from the same jar. Only one thing is different: what the seeds sit on.",
@@ -605,7 +605,7 @@
      "what": "Count again. Say what you found, and why."
     }
    ],
-   "record": "Draw the diya and the stone in the plate. Draw the seeds on each top as they looked on day 3. Write the number that sprouted under each.",
+   "record": "On day 3, take a photo of each top, or draw them. Write the number that sprouted under each.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results from one family in Visakhapatnam",
@@ -653,8 +653,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Turn the diya upside down. 2. Let your child drop one spoon of water on the diya and one on the stone. 3. Watch both for a minute.",
-     "say": "Drop a spoon of water on each. Watch closely. Where does the water go on the diya? And on the stone?",
-     "kid": "Drop a spoon of water on each. Watch. Where does the water go?",
+     "say": "Let's see if the diya and the stone soak up water.",
+     "kid": "Drop a spoon of water on the diya and one on the stone. Watch both closely.",
      "ask": [
       {
        "q": "What happened to the water on the clay? And on the stone?",
@@ -670,8 +670,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Stand the diya, upside down, and the stone side by side in the plate. 2. Pour water into the plate until it is one finger deep. 3. Put 20 seeds in the small bowl with a spoon of water, to soak while you wait.",
-     "say": "Soon we will put mustard seeds on top of the diya and on top of the stone. On which top will they sprout? Why do you think so?",
-     "kid": "Mustard seeds will sit on the diya and on the stone. Where will they sprout? Why?",
+     "say": "Soon we will put mustard seeds on top of the diya and on top of the stone. Make a guess first.",
+     "kid": "Make your guess before we start.",
      "ask": [
       {
        "q": "Where do you think the seeds will sprout? Why?",
@@ -690,7 +690,7 @@
      "mins": 8,
      "do": "1. Look at the diya's colour. 2. Touch the top of the diya, then the top of the stone. 3. Put 10 soaked seeds on each top.",
      "say": "Look at the clay. The dark colour has climbed up. Touch both tops. Which one is wet? Now let's put 10 soaked seeds on each.",
-     "kid": "Look at the clay. Touch both tops. Which is wet? Put 10 seeds on each.",
+     "kid": "Touch the top of the diya and the top of the stone. Then put 10 seeds on each.",
      "ask": [
       {
        "q": "How did the water get to the top of the diya?",
@@ -708,7 +708,7 @@
      "id": "s4",
      "mins": 5,
      "do": "On day 2 and day 3, count the seeds with a tiny white root or green leaves. Count the seeds on the diya and the seeds on the stone separately. Write the numbers down.",
-     "say": "Let's count. How many seeds on the clay have sprouted? How many on the stone?",
+     "say": "Let's count together. A sprouted seed has a tiny white root coming out.",
      "kid": "Count the sprouted seeds on each top. Write the numbers.",
      "ask": [
       {
@@ -726,8 +726,8 @@
      "id": "s5",
      "mins": 5,
      "do": "Ask your child to say three things: what they found, what they saw, and why it happened. Then look back at their guess together.",
-     "say": "Tell me what you found. What did you see? Why do you think the seeds grew on one and not the other? Was your guess right?",
-     "kid": "Say what you found. What did you see? Why did it happen?",
+     "say": "Tell me what you found, what you saw, and why you think it happened. Was your guess right?",
+     "kid": "Tell your grown-up what you found out.",
      "think": "Where near your home might moss grow? Look for a damp, shady wall.",
      "check": {
       "t": "mcq",
@@ -749,7 +749,7 @@
    "id": "a1",
    "title": "Plant Homes in Our Flat",
    "mins": 15,
-   "context": "In this activity you look for plants growing in different places in and around your flat. For each one, you say what that place gives the plant.",
+   "context": "In this activity you look for plants growing in different places in and around your flat. For each one, you say what that place gives the plant. You will see that every plant has a home that suits them.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -776,7 +776,7 @@
      "mins": 10,
      "do": "Walk around the flat and the building with your child. Find at least three plants in different places: in water, in a sunny pot, in shade, in a crack.",
      "say": "Let's find plants that live in different places. Here is one. Is this place wet or dry? Sunny or shady?",
-     "kid": "Find plants in different places. Is each place wet or dry? Sunny or shady?",
+     "kid": "Find three plants in three different places.",
      "ask": [
       {
        "q": "What does this place give this plant?",
@@ -793,9 +793,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw each plant in the notebook. Next to each, write one word for the place: wet, dry, sunny or shady.",
+     "do": "In the notebook, write the name of each plant, or draw the plant. Next to each, write one word for the place: wet, dry, sunny or shady.",
      "say": "Which plant lives in the wettest place? Which in the driest? Would they be happy if they swapped?",
-     "kid": "Draw each plant. Write wet, dry, sunny or shady. Could they swap places?",
+     "kid": "Write or draw each plant. Add one word for its place: wet, dry, sunny or shady.",
      "check": {
       "t": "mcq",
       "q": "A money plant grows in a bottle of water. What is the bottle for the plant?",
@@ -852,8 +852,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Hold the two stones over the dark paper. Rub them hard together for one minute. Look at what falls.",
-     "say": "Rub the stones hard for one minute. What falls on the paper? Now look at a pinch of soil next to it.",
-     "kid": "Rub two stones hard for one minute. What falls on the paper?",
+     "say": "Rub the stones hard over the paper for one minute. Then look at a pinch of soil next to the dust.",
+     "kid": "Rub the two stones together hard for one minute.",
      "ask": [
       {
        "q": "How is the rock dust like the soil? How is it different?",
@@ -869,9 +869,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Look again at the dust and the soil. Ask your child whether rubbing stones could fill a whole pot with soil in one day.",
+     "do": "Look again at the dust and the soil. Then ask your child the question.",
      "say": "Your hands made only a pinch of dust in one minute. Could you fill a whole pot with soil in one day by rubbing stones? Why or why not?",
-     "kid": "A minute of rubbing made only a pinch. Could you fill a pot with soil in one day this way?",
+     "kid": "Think about how much dust it would take to fill a whole pot.",
      "parent": "The answer is no. A minute of rubbing gave only a pinch, so a whole pot would take far too long by hand. In nature, rain, sun and roots break rock much more slowly than your hands, but they keep going for hundreds of years. That is how real soil is made.",
      "check": {
       "t": "mcq",
@@ -936,7 +936,7 @@
      "mins": 5,
      "adult": true,
      "do": "In the evening, switch on a light near a wall or the balcony. Wait a few minutes, then look with the torch near the light.",
-     "say": "Look near the light. Is a gecko there? Why would a gecko wait by a light at night?",
+     "say": "Look near the light. Is a gecko there?",
      "kid": "With a grown-up, look near a light at night. Is a gecko there?",
      "ask": [
       {
@@ -952,9 +952,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Make a list: each animal, and what their spot gives them.",
+     "do": "Make a list of each animal and what their spot gives them. Your child can say it while you write.",
      "say": "So our flat is a habitat for many animals, not only for us. What does each spot give them?",
-     "kid": "Write each animal. What does their spot give them?",
+     "kid": "Say each animal you found and what their spot gives them.",
      "check": {
       "t": "mcq",
       "q": "A spider builds a web in a quiet corner by the window. What does that corner give the spider?",
@@ -976,7 +976,7 @@
    "title": "My Habitat Book",
    "days": 3,
    "mins": 30,
-   "context": "In this project you make a small book with one page for each habitat: a pond, a forest, a desert, the seashore and a rock. On each page you draw the habitat and who lives there.",
+   "context": "In this project you make a small book with one page for each habitat: a pond, a forest, a desert, the seashore and a rock. You will find out who lives in each place and what it gives them. On each page you draw or stick in the habitat and who lives there.",
    "materials": [
     {
      "item": "3 sheets of paper, folded in half and stapled or stitched into a book",
@@ -984,6 +984,10 @@
     },
     {
      "item": "colour pencils or crayons",
+     "qty": 1
+    },
+    {
+     "item": "glue or tape, and an old magazine or newspaper to cut pictures from (if you like)",
      "qty": 1
     }
    ],
@@ -996,12 +1000,12 @@
     {
      "day": 2,
      "mins": 10,
-     "what": "Draw the desert and the seashore pages."
+     "what": "Make the desert and the seashore pages."
     },
     {
      "day": 3,
      "mins": 10,
-     "what": "Draw the rock page and the cover. Read the book to someone at home."
+     "what": "Make the rock page and the cover. Read the book to someone at home."
     }
    ],
    "record": "The finished book, with one living being on each page and one word for what the habitat gives them.",
@@ -1012,7 +1016,7 @@
     },
     {
      "art": "An open page of the book with a drawn pond, a frog and lotus, and the word 'water' written below.",
-     "caption": "2. Draw one habitat on each page, with who lives there."
+     "caption": "2. Draw or stick in one habitat on each page, with who lives there."
     }
    ],
    "flow": [
@@ -1020,23 +1024,23 @@
      "id": "s1",
      "mins": 10,
      "do": "Help your child fold and staple the book. Then draw a pond on one page and a forest on the next.",
-     "say": "Draw the pond. Who lives there? What does the pond give them? Write one word for it.",
-     "kid": "Draw a pond and a forest. Draw who lives there. Write one word.",
+     "say": "Let's make the pond page first. Who lives in a pond? What does the pond give them?",
+     "kid": "Draw a pond and a forest, and who lives in each. Or tell your grown-up, who will write it. Add one word for what each gives.",
      "parent": "One word per page is enough at this age: water, shade, trees, sand. Spelling does not matter here."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "On day 2, draw the desert and the seashore pages.",
+     "do": "On day 2, help your child make the desert and the seashore pages. They can draw them, or cut pictures from an old magazine and stick them in.",
      "say": "Now the desert. It is hot and dry. Who can live there? And who lives by the salty sea?",
-     "kid": "Draw a desert and a seashore. Who lives in each?"
+     "kid": "Make a desert page and a seashore page. Put on each one animal and one plant that live there."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "On day 3, draw a rock page and a cover. Then your child reads the book aloud to someone at home.",
+     "do": "On day 3, help your child make a rock page and a cover. They can draw, or write the names of who lives there. Then your child reads the book aloud to someone at home.",
      "say": "Last page: a rock. Who lives on a rock, or under one, or in a crack? Now read your book to someone.",
-     "kid": "Draw a rock and who lives there. Read your book aloud.",
+     "kid": "Make the rock page. Then read your book aloud.",
      "check": {
       "t": "mcq",
       "q": "Which of these could live on a damp rock?",
@@ -1108,8 +1112,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem aloud. Ask your child to list what a frog needs before building anything.",
-     "say": "A frog has lost her pond. What does a frog need to live? Let's list it first.",
-     "kid": "A frog lost her pond. What does a frog need? Make a list.",
+     "say": "A frog has lost her pond. Before we build, let's think about her new home.",
+     "kid": "Say everything a frog needs. Your grown-up will write it down.",
      "ask": [
       {
        "q": "What does a frog need?",
@@ -1135,7 +1139,7 @@
      "mins": 5,
      "do": "Look at the finished model together. Check each need on the list.",
      "say": "Let's check our list. Water? Food? Shade? A hiding place? What would you add next?",
-     "kid": "Check your list. Is everything there? What will you add?",
+     "kid": "Point to each thing on your list in the model.",
      "check": {
       "t": "mcq",
       "q": "Why does a frog's habitat need shade and water?",

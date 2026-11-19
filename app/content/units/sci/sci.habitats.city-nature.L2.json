@@ -270,7 +270,7 @@
    "title": "Call Over the Traffic",
    "mins": 12,
    "players": "2 to 4: a bird, a friend bird and the traffic. With 2 players, the friend bird also plays the traffic. With 4, the fourth player keeps the score on paper.",
-   "context": "This is a calling game. One player is a bird who calls to a friend at the other end of the room. The traffic makes noise. The bird uses tricks to be heard, the way real city birds do. All the players are one team.",
+   "context": "This is a calling game. One player is a bird who calls to a friend at the other end of the room. The traffic makes noise. The bird uses tricks to be heard, the way real city birds do. All the players are one team. You will find out which trick helps a call get heard over noise.",
    "printables": [
     {
      "kind": "cards",
@@ -429,7 +429,7 @@
      "mins": 3,
      "do": "1. Cut out the cards. 2. Show where the bird, the friend bird and the traffic stand. 3. Read the rules aloud.",
      "say": "You are a bird on a busy road. Your friend is far away. I am the traffic. Can you make your friend hear you?",
-     "kid": "You are a bird. Your friend is far away. Can your friend hear you over the traffic?",
+     "kid": "Call to your friend across the room, even when the traffic is noisy.",
      "parent": "Bang the steel plate gently with the spoon for noise. Loud noise right next to the friend bird works best. Keep the noise short, so nobody's ears hurt."
     },
     {
@@ -437,10 +437,10 @@
      "mins": 6,
      "do": "Play rounds as the rules say. After each call, ask which trick the bird used.",
      "say": "Was the call heard? Which trick did you use? Did it work?",
-     "kid": "Call to your friend. Did your friend hear you? Try a trick.",
+     "kid": "Call to your friend. If your friend does not hear you, pick a trick card and call again.",
      "ask": [
       {
-       "q": "Which trick helped most when the bus went past?",
+       "q": "Which trick helped most over loud noise?",
        "good": [
         "Calling louder.",
         "Waiting for the quiet gap.",
@@ -453,8 +453,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Add up the points as a team. Then talk about which trick worked best, and why.",
-     "say": "Real birds on busy roads use these same tricks. Which trick would you use, if you were a koel?",
-     "kid": "Add up your team points. Which trick worked best for you?",
+     "say": "Real birds on busy roads use these same tricks. Which one worked best for you?",
+     "kid": "Add up your team points. Pick the trick that got your call heard most.",
      "check": {
       "t": "mcq",
       "q": "A koel wants another koel to hear him. A bus is going past. What is the best plan?",
@@ -474,7 +474,7 @@
    "title": "Who Uses the Tree? A memory game",
    "mins": 10,
    "players": "2 to 4 children, or a child and a grown-up",
-   "context": "This is a memory game about one street tree. Half the cards show a living being. The other half show something a tree gives. Turn over two cards that belong together to win them.",
+   "context": "This is a memory game about one street tree. Half the cards show a living being. The other half show something a tree gives. Turn over two cards that belong together to win them. You will find out how many different beings one tree helps.",
    "printables": [
     {
      "kind": "cards",
@@ -559,7 +559,7 @@
      "mins": 2,
      "do": "Cut out the 16 cards. Mix them and lay them face down.",
      "say": "Every card is about one big tree on a street. Some cards are beings, and some are gifts from the tree.",
-     "kid": "Lay the cards face down. Some are beings. Some are gifts from a tree."
+     "kid": "Lay all 16 cards face down in rows."
     },
     {
      "id": "s2",
@@ -583,8 +583,8 @@
      "id": "s3",
      "mins": 1,
      "do": "Count the pairs. Ask how many beings one tree helped.",
-     "say": "How many beings did one tree help in this game?",
-     "kid": "Count your pairs. How many beings did one tree help?",
+     "say": "Each pair is one being the tree helped. How many beings did this one tree help?",
+     "kid": "Count your pairs.",
      "check": {
       "t": "mcq",
       "q": "A street tree is cut down. Who loses a home or food?",
@@ -606,8 +606,8 @@
    "title": "Words in the Noise: can a soft voice be heard over traffic?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment a grown-up says 10 soft words across a room, and you say back what you heard. You do it three times: with no noise, with loud noise, and with loud noise and a loud voice. You count the words you heard each time.",
-   "question": "Five big steps away, how many soft words can you hear with no noise? How many with loud noise on? And how many when the speaker speaks loudly in the noise?",
+   "context": "In this experiment you find out whether a loud voice can get through traffic noise. A grown-up says 10 soft words across a room, and you say back what you heard. You do it three times: with no noise, with loud noise, and with loud noise and a loud voice. You count the words you heard each time.",
+   "question": "From five big steps away, how many words can you hear in quiet? How many in loud noise? And how many in loud noise when the voice is loud?",
    "predict": "Guess first. Out of 10 soft words, how many will you hear with no noise? How many with the noise on? Will a loud voice help in the noise? Why do you think so?",
    "fair_test": "The same person speaks every time, from the same place, five big steps away. The listener always faces the wall, so they cannot read the speaker's lips. Each round uses 10 new short words, so the listener cannot remember them from the round before. Only the noise and the loudness of the voice change.",
    "results_table": [
@@ -630,11 +630,15 @@
      "qty": 1
     },
     {
+     "item": "10 blocks or small cups for the towers",
+     "qty": 1
+    },
+    {
      "item": "a room or corridor where you can stand five big steps apart",
      "qty": 1
     }
    ],
-   "record": "Fill in the table with the words heard in each round. Then draw three towers of blocks, one for each round, as tall as the number of words heard.",
+   "record": "Fill in the table with the words heard in each round. Then build three towers of blocks or small cups, one for each round. Make each tower as tall as the number of words heard.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results from one family in Coimbatore",
@@ -696,8 +700,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Show the phone that will be the noise maker. It plays loud traffic sound. Ask for a guess and a reason, and write it down.",
-     "say": "Next, I will put this noise right beside you, like traffic. How many soft words will you hear then? And if I speak loudly? Why do you think so?",
-     "kid": "Guess. How many words will you hear in the noise? Why?",
+     "say": "Next, I will put this noise right beside you, like traffic. Then I will say soft words again. Make a guess before we start.",
+     "kid": "The noise will be right beside you. Make a guess before we start.",
      "ask": [
       {
        "q": "How many words do you think you will hear with the noise on? Why?",
@@ -731,7 +735,7 @@
      "mins": 4,
      "do": "Round 3: keep the noise on. Say list 3 in a loud, clear voice, from the same place. Tick the words heard. Then turn the noise off.",
      "say": "The noise is still on. This time I will speak loudly. Say back each word.",
-     "kid": "The noise is still on. Now I speak loudly. Say back each word.",
+     "kid": "The noise is still on. Your grown-up speaks loudly now. Say back each word.",
      "ask": [
       {
        "q": "Was it easier to hear this time? Why?",
@@ -747,11 +751,11 @@
      "mins": 6,
      "do": "Fill in the table together. Ask your child to say three things: what they found, what they saw that shows it, and why they think it happened. Then look back at their guess.",
      "say": "Look at the three numbers. What happened to the soft words when the noise was on? Why did the loud words get through? Was your guess right?",
-     "kid": "Look at your three numbers. What did you find? Why?",
+     "kid": "Look at your three numbers. Tell your grown-up what you found, and why.",
      "think": "A koel calls from a tree beside a busy road. What could the koel do, so that another koel hears him?",
      "check": {
       "t": "mcq",
-      "q": "In which round do most families hear the fewest words?",
+      "q": "Which round usually gives the fewest words heard?",
       "options": [
        "Round 2: soft words with the noise on",
        "Round 1: soft words with no noise",
@@ -768,7 +772,7 @@
    "title": "Sun or Shade: where does an ice cube last longer? (if your balcony or window gets sun)",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you put one ice cube on a plate in the sun, and one on a plate in the shade of a plant or a cloth roof. You check which one melts first.",
+   "context": "In this experiment you put one ice cube on a plate in the sun, and one on a plate in the shade of a plant or a cloth roof. You will find out whether shade keeps things cooler. You check which cube melts first.",
    "question": "Does an ice cube melt more slowly in the shade of leaves than in full sun?",
    "predict": "Guess first. Which ice cube will melt first: the one in the sun or the one in the shade? Why do you think so?",
    "fair_test": "Both ice cubes come from the same tray and are the same size. Both sit on the same kind of steel plate, at the same time, a short way apart. Only the shade is different.",
@@ -795,7 +799,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the two plates after 10 minutes. Write how many minutes each ice cube took to melt.",
+   "record": "After 10 minutes, take a photo of the two plates, or draw them. Write how many minutes each ice cube took to melt.",
    "setup": [
     {
      "art": "Two steel plates on a sunny balcony floor, one in bright sun and one under the shade of a leafy potted plant, each with an ice cube.",
@@ -811,8 +815,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Find a sunny spot and a shady spot close together. 2. Put one plate in each. 3. Put one ice cube on each plate at the same time.",
-     "say": "One ice cube is in the sun, and one is in the shade. Which will melt first? Why do you think so?",
-     "kid": "One ice cube is in the sun. One is in the shade. Which will melt first? Why?",
+     "say": "One ice cube is in the sun, and one is in the shade. We will see which one melts first.",
+     "kid": "Guess which ice cube will melt first. Why do you think so?",
      "parent": "Use shade from a leafy plant if you can. A towel over two chairs works too. Do this between 10 in the morning and 3 in the afternoon, when the sun is strong."
     },
     {
@@ -820,7 +824,7 @@
      "mins": 12,
      "do": "Look every 5 minutes. Note the time when each cube has melted away.",
      "say": "Let's look. Which cube is smaller now?",
-     "kid": "Look every 5 minutes. Which cube is smaller?",
+     "kid": "Look at both cubes every 5 minutes. Point to the one that is smaller.",
      "parent": "In strong sun, the sun cube usually melts much faster. The shade cube still melts, only more slowly, because the air is warm too. If the shade cube is still there after 12 minutes, write 'not melted yet' and compare the sizes of the two cubes. Do not let your child stare at the sun.",
      "ask": [
       {
@@ -836,8 +840,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Talk about what you saw. Ask where your child likes to sit on a hot day.",
-     "say": "The shade kept the ice cool for longer. On a hot afternoon, where do you like to sit: in the sun or in the shade?",
-     "kid": "Shade keeps things cool. Where do you like to sit on a hot day?",
+     "say": "The shade kept the ice cool for longer. Think about a hot afternoon.",
+     "kid": "Where do you sit on a hot day, sun or shade? Why?",
      "check": {
       "t": "mcq",
       "q": "Usually the ice cube in the sun melts first. What was the shade doing for the other cube?",
@@ -858,7 +862,7 @@
    "id": "a1",
    "title": "Window Watch: who shares our street?",
    "mins": 15,
-   "context": "In this activity you watch your street from a window or balcony for 10 minutes. You make a tally mark for every bird, animal and insect you see.",
+   "context": "In this activity you watch your street from a window or balcony for 10 minutes. A tally mark is one short line you make for each one you see. You will find out who shares your street, and who is most common.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -883,9 +887,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Draw a tally chart with six rows: crows, pigeons, other birds, dogs and cats, squirrels, insects.",
+     "do": "Write a tally chart on a page with six rows: crows, pigeons, other birds, dogs and cats, squirrels, insects.",
      "say": "We will be animal counters for 10 minutes. Every time you see someone, make one mark in their row.",
-     "kid": "Draw six rows. Make one mark for each animal you see."
+     "kid": "Read the six row names. Each time you see one, make a mark in its row."
     },
     {
      "id": "s2",
@@ -899,8 +903,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Count the marks in each row. Ask which row has the most, and why.",
-     "say": "Which row has the most marks? Why do you think so many of them live here?",
-     "kid": "Count each row. Which has the most? Why?",
+     "say": "Count the marks in each row. Which row has the most?",
+     "kid": "Count the marks in each row. Point to the row with the most.",
      "ask": [
       {
        "q": "Why do you think there were so many crows or pigeons?",
@@ -913,7 +917,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "Pigeons sat on many window ledges. Why do pigeons like ledges?",
+      "q": "Why do pigeons like window ledges?",
       "options": [
        "Ledges are like the cliff ledges where wild pigeons nest",
        "Ledges are warm like an oven",
@@ -929,7 +933,7 @@
    "id": "a2",
    "title": "Sun Road, Shade Road (on a walk with a grown-up)",
    "mins": 15,
-   "context": "In this activity you go for a short walk on a sunny day. You feel the ground in the sun and in the shade of a tree with the back of your hand. Then you look for who is resting in the shade.",
+   "context": "In this activity you go for a short walk on a sunny day. You feel the ground in the sun and in the shade of a tree with the back of your hand. Then you look for who is resting in the shade. You will find out why animals rest in the shade on a hot day.",
    "materials": [
     {
      "item": "a sunny day and a street or compound with at least one big tree",
@@ -979,7 +983,7 @@
      "adult": true,
      "do": "Look around you for animals resting in the shade: dogs, cows, cats, birds or people. Count them, from a distance.",
      "say": "Who is resting in the shade? Let's watch from here, without going close.",
-     "kid": "Who is resting in the shade? Watch from far away.",
+     "kid": "Count the animals resting in the shade. Stay far away from them.",
      "parent": "Watch street dogs, cows and monkeys from a distance. Do not touch or feed them on this walk.",
      "check": {
       "t": "mcq",
@@ -999,7 +1003,7 @@
    "id": "a3",
    "title": "A Map of Homes on Our Street",
    "mins": 15,
-   "context": "In this activity you draw your street from your window as a map. Then you mark where each being lives, eats or rests: the tree, the ledges, the lamp post, the drain and the wires.",
+   "context": "In this activity you draw your street from your window as a map. Then you put name slips on it to show where each being lives, eats or rests: the tree, the ledges, the lamp post, the drain and the wires. You will find out which place on your street is home to the most beings.",
    "materials": [
     {
      "item": "a big sheet of paper",
@@ -1007,6 +1011,10 @@
     },
     {
      "item": "colour pencils or crayons",
+     "qty": 1
+    },
+    {
+     "item": "small slips of paper, one for each being",
      "qty": 1
     }
    ],
@@ -1024,16 +1032,16 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Look out of the window together. Your child draws the main things: buildings, a tree, a lamp post, wires, a drain, a wall.",
+     "do": "Look out of the window together. Your child draws the main things: buildings, a tree, a lamp post, wires, a drain, a wall. A child who does not want to draw can tell you where each one is, and you draw it.",
      "say": "Draw our street like a map. What big things are there?",
-     "kid": "Draw your street. Draw the tree, the lamp post and the buildings."
+     "kid": "Draw the tree, the lamp post and the buildings. Or tell your grown-up where each one is, and they draw it."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "For each place, your child draws or writes who uses it, and what for.",
+     "do": "For each place, your child points to it and says who uses it, and what for. Write the being's name on a small paper slip and put the slip on that place.",
      "say": "Who uses the tree? Who uses the ledges? Who uses the lamp at night?",
-     "kid": "Who uses each place? Draw them there.",
+     "kid": "Point to a place on your map. Say who uses it. Put a name slip there.",
      "parent": "Use what your child has really seen if you can. Crows and squirrels in trees, pigeons on ledges, geckos and moths at the lights, ants and cockroaches near drains, dogs under cars."
     },
     {
@@ -1041,7 +1049,7 @@
      "mins": 3,
      "do": "Count the beings on the map. Ask which place has the most users.",
      "say": "Which place on our street is home to the most beings?",
-     "kid": "Which place has the most beings?",
+     "kid": "Count the name slips on each place. Point to the place with the most.",
      "ask": [
       {
        "q": "Which being on your map is busy at night?",
@@ -1062,7 +1070,7 @@
    "title": "My Street Nature Diary",
    "days": 5,
    "mins": 50,
-   "context": "In this project you look out at your street for 5 minutes a day, for five days. Each day you draw one being and write what they were doing.",
+   "context": "In this project you look out at your street for 5 minutes a day, for five days. Each day you pick one being and write what they were doing. You will find out who lives on your street, and when they come out.",
    "materials": [
     {
      "item": "a small notebook",
@@ -1077,22 +1085,22 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Make the diary cover. Watch for 5 minutes. Draw one bird."
+     "what": "Make the diary cover. Watch for 5 minutes. Draw one bird, or tell a grown-up what you saw."
     },
     {
      "day": 2,
      "mins": 10,
-     "what": "Watch for 5 minutes. Draw one animal who is not a bird."
+     "what": "Watch for 5 minutes. Pick one animal who is not a bird. Tell a grown-up who they are and what they did, and they write it down."
     },
     {
      "day": 3,
      "mins": 10,
-     "what": "Watch for 5 minutes. Draw one tree or plant, and who uses them."
+     "what": "Watch for 5 minutes. Pick one tree or plant. Make a tally mark each time someone visits, and write who came."
     },
     {
      "day": 4,
      "mins": 10,
-     "what": "Watch at dusk for 5 minutes, with a grown-up. Draw who comes out in the evening."
+     "what": "Watch at dusk for 5 minutes, with a grown-up. Make a list of who comes out in the evening."
     },
     {
      "day": 5,
@@ -1100,7 +1108,7 @@
      "what": "Watch for 5 minutes. Draw one insect. Then read the diary to someone at home."
     }
    ],
-   "record": "The diary, with five drawings and one sentence for each: who, where, and what they were doing.",
+   "record": "The diary, with five pages and one sentence for each: who, where, and what they were doing. Add a drawing or a photo where you made one.",
    "setup": [
     {
      "art": "A child at a window with a small notebook, drawing a crow on a wire.",
@@ -1115,25 +1123,25 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Make the cover together: My Street Nature Diary. Then watch for 5 minutes and draw one bird.",
+     "do": "Make the cover together: My Street Nature Diary. Then watch for 5 minutes and draw one bird, or tell your grown-up what you saw and they write it.",
      "say": "Who did you see? Where were they? What were they doing?",
-     "kid": "Watch for 5 minutes. Draw one bird. What were they doing?",
+     "kid": "Watch for 5 minutes. Pick one bird. Draw it, or tell your grown-up what you saw.",
      "parent": "One sentence a day is enough at this age. You can write it as your child says it."
     },
     {
      "id": "s2",
      "mins": 30,
-     "do": "On each of days 2 to 4, watch and draw as the schedule says.",
+     "do": "On each of days 2 to 4, watch and write as the schedule says.",
      "say": "Today we look for a different being. Who will you find?",
-     "kid": "Watch again. Draw a new being today.",
+     "kid": "Watch again. Pick a new being today.",
      "parent": "On day 4, watch at dusk from a window or balcony, with a grown-up. A gecko by a light, moths, bats and owlets may come out."
     },
     {
      "id": "s3",
      "mins": 10,
      "do": "On day 5, watch for 5 minutes and draw one insect. Then your child reads the whole diary to someone at home.",
-     "say": "Read your diary to someone at home. Then look at your five drawings together. Which beings used a tree? Which beings used a building or a wall?",
-     "kid": "Read your diary to someone. Which beings used a tree? Which used a building or a wall?",
+     "say": "Read your diary to someone at home. Then look at your five pages together. Which beings used a tree? Which beings used a building or a wall?",
+     "kid": "Read your diary to someone at home.",
      "parent": "Expect answers like these. A crow, a squirrel, a koel or a bee used the tree. A pigeon, a gecko or a myna used a building or a wall. The point is that one street gives many beings a place to nest, rest or find food.",
      "check": {
       "t": "mcq",
@@ -1196,7 +1204,7 @@
      "mins": 5,
      "do": "Read the problem aloud. Make a list together: who will live on the street, and what each one needs.",
      "say": "Who will live on our new street? What does each of them need?",
-     "kid": "Who will live on your street? What does each one need?",
+     "kid": "Name everyone who will live on your street: birds, insects, street animals and people.",
      "ask": [
       {
        "q": "What does a bird need on a street?",

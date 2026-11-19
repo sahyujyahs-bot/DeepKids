@@ -180,26 +180,26 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 - **s1 (3 min)**  
   *Parent does:* 1. Draw the 4 mats on paper, or cut them out. 2. Cut out the 10 cards. 3. Read the 4 mats aloud together.  
   *Parent says:* Each of these mats is a habitat. Each card shows someone in the wrong home. Your job is to rescue them.  
-  *Child mode:* These are four habitats. Each card shows someone in the wrong home. Rescue them!
+  *Child mode:* Read the name on each mat. Then get ready to rescue.
 - **s2 (7 min)**  
   *Parent does:* Take turns. After each card is put on a mat, ask your child why before reading the back.  
-  *Parent says:* A fish on desert sand! What is wrong here? Where should the fish go, and why?  
-  *Child mode:* Read the card. What is wrong? Where should they go? Say why.
+  *Parent says:* Here is a fish on desert sand. Where should the fish go?  
+  *Child mode:* Read your card. Put it on the mat where that living being belongs.
   - Ask: Why can a fish not live in the desert? (good: There is no water.; A fish breathes with gills, in water.; The fish would dry out.)
   - Ask: Why does a cactus not belong in a pond? (good: A cactus likes dry places.; The roots would rot in water.; The cactus stores water already.)
   - Note: Accept any habitat that really suits the living being, if your child gives a good reason. For example, moss also grows on wet walls in a city.
 - **s3 (2 min)**  
   *Parent does:* Count the rescues. Look at all four mats with their cards.  
   *Parent says:* Look at the desert mat. Who lives there now? What does the desert give them?  
-  *Child mode:* Count your rescues. Who lives in the desert now?
+  *Child mode:* Count your rescues. Point to the cards on the desert mat.
   - Check: Which mat has hot sand by day, cold nights and very little rain? → **Desert**
 ### g2 · Guess My Habitat: a yes-or-no game (10 min)
 - **rules:** One player picks a card and keeps it hidden. This player looks at the back of the card, so that they can answer truthfully.; The others ask yes-or-no questions about where the animal lives. For example: Is it wet? Is it hot? Are there trees?; You may ask one question about the animal's body, such as: Does the animal have fur? Does the animal have a shell?; The player with the card answers only yes or no.; When you think you know, say the animal's name. You may guess once.; If you guess right, you pick the next card. If not, the player with the card shows the card.; Play until everyone has picked a card once. Try to guess in 6 questions or fewer.
 - **Printable cards: 8 animal cards to cut out:** Camel (back: Habitat: the desert. Hot and dry, with sand and thorny plants.) [picture]; Frog (back: Habitat: a pond. Wet, with mud, water plants and insects to eat.) [picture]; Hornbill (back: Habitat: a forest. Tall trees with fruit, and holes in trunks for nests.) [picture]; Ghost crab (back: Habitat: the seashore. Wet sand, salty water and waves.) [picture]; Rock agama lizard (back: Habitat: rocky hills. Warm rocks to lie on and cracks to hide in.) [picture]; Fish (back: Habitat: a pond, a river or the sea. Always in water.) [picture]; Snail (back: Habitat: damp places, like wet walls, shady plants and old leaves.) [picture]; Squirrel (back: Habitat: trees, in towns and forests. High branches for a safe nest.) [picture]
 - **s1 (2 min)**  
   *Parent does:* Cut out the 8 cards. Read each one aloud once. Then the grown-up picks a card first, looks at the back and answers the questions, to show how to play.  
-  *Parent says:* I have picked an animal. Ask me about the place where the animal lives. Is it wet? Is it hot? Are there trees? Then guess.  
-  *Child mode:* A grown-up has picked an animal. Ask about the place where the animal lives. Then guess.
+  *Parent says:* I have picked an animal. Ask me yes-or-no questions about where the animal lives. Is it wet? Is it hot? Are there trees?  
+  *Child mode:* Ask questions to work out which animal the grown-up picked. Then guess.
 - **s2 (6 min)**  
   *Parent does:* Take turns picking and guessing. Count the questions on your fingers.  
   *Parent says:* Good question. Yes, it is wet. What else do you need to know?  
@@ -207,9 +207,9 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   - Ask: Which question helped you most? Why? (good: Is it wet? Because that splits pond and sea from desert and forest.; Is it salty? Because only the seashore is salty.)
   - Note: Good players ask questions that split the habitats into two groups, such as 'Is it wet?' This is how scientists narrow down a guess.
 - **s3 (2 min)**  
-  *Parent does:* End the game. Ask which two animals were hardest to tell apart.  
+  *Parent does:* End the game. Put the two cards that were hardest to tell apart side by side.  
   *Parent says:* Which two animals were hardest to tell apart? What question could tell them apart?  
-  *Child mode:* Which two animals were hard to tell apart? Why?
+  *Child mode:* Pick the two cards that were hardest to tell apart.
   - Check: Which question best tells the camel apart from the frog? → **Is it wet?**
   - Think: The frog and the snail both like damp places. What else is different about their habitats?
 
@@ -218,39 +218,39 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 - **question:** A clay diya and a smooth stone stand in the same water. Can mustard seeds sprout on top of each of them?
 - **predict:** Guess first. On which top will the seeds sprout: the clay diya, the smooth stone, both or neither? Why do you think so?
 - **fair test:** Both stand in the same plate, in the same water, in the same place, for the same time. Both get 10 seeds from the same jar. Only one thing is different: what the seeds sit on.
-- **record:** Draw the diya and the stone in the plate. Draw the seeds on each top as they looked on day 3. Write the number that sprouted under each.
+- **record:** On day 3, take a photo of each top, or draw them. Write the number that sprouted under each.
 - **results table:** What the seeds sat on | Top wet or dry after 15 minutes? | Seeds sprouted on day 2 (out of 10) | Seeds sprouted on day 3 (out of 10)
 - **schedule:** day 1: Drop water on the diya and the stone, stand them in the plate of water, wait 15 minutes, feel the tops, and put 10 seeds on each. (15 min); day 2: Top up the water. Count the sprouted seeds on each top. (5 min); day 3: Count again. Say what you found, and why. (5 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Turn the diya upside down. 2. Let your child drop one spoon of water on the diya and one on the stone. 3. Watch both for a minute.  
-  *Parent says:* Drop a spoon of water on each. Watch closely. Where does the water go on the diya? And on the stone?  
-  *Child mode:* Drop a spoon of water on each. Watch. Where does the water go?
+  *Parent says:* Let's see if the diya and the stone soak up water.  
+  *Child mode:* Drop a spoon of water on the diya and one on the stone. Watch both closely.
   - Ask: What happened to the water on the clay? And on the stone? (good: The clay drank it up and went dark.; The water sat on the stone, or ran off.)
   - Note: Unpainted clay soaks up water at once and turns dark. On a smooth stone the drop sits in a bead or runs down the side. If your diya is painted or shiny, use a piece of broken clay pot or brick instead.
 - **s2 (3 min)**  
   *Parent does:* 1. Stand the diya, upside down, and the stone side by side in the plate. 2. Pour water into the plate until it is one finger deep. 3. Put 20 seeds in the small bowl with a spoon of water, to soak while you wait.  
-  *Parent says:* Soon we will put mustard seeds on top of the diya and on top of the stone. On which top will they sprout? Why do you think so?  
-  *Child mode:* Mustard seeds will sit on the diya and on the stone. Where will they sprout? Why?
+  *Parent says:* Soon we will put mustard seeds on top of the diya and on top of the stone. Make a guess first.  
+  *Child mode:* Make your guess before we start.
   - Ask: Where do you think the seeds will sprout? Why? (good: On the diya, because the clay drinks water.; On both, because both are in water.; On neither, because there is no soil.)
   - Note: Write down your child's guess and their reason. Any guess is fine. The test will answer it.
   - Wait: Leave them for 15 minutes.
 - **s3 (8 min)**  
   *Parent does:* 1. Look at the diya's colour. 2. Touch the top of the diya, then the top of the stone. 3. Put 10 soaked seeds on each top.  
   *Parent says:* Look at the clay. The dark colour has climbed up. Touch both tops. Which one is wet? Now let's put 10 soaked seeds on each.  
-  *Child mode:* Look at the clay. Touch both tops. Which is wet? Put 10 seeds on each.
+  *Child mode:* Touch the top of the diya and the top of the stone. Then put 10 seeds on each.
   - Ask: How did the water get to the top of the diya? (good: The clay pulled it up.; It climbed up through the clay.; The clay has tiny holes that soak it up.)
   - Note: The water climbs through tiny holes in the clay, the way water climbs up a cloth dipped in a bucket. The stone's top stays dry. Put the plate in a bright place, but not in hot afternoon sun.
   - Wait: Leave the plate for two days. Each morning, top up the water so the plate stays one finger deep.
 - **s4 (5 min)**  
   *Parent does:* On day 2 and day 3, count the seeds with a tiny white root or green leaves. Count the seeds on the diya and the seeds on the stone separately. Write the numbers down.  
-  *Parent says:* Let's count. How many seeds on the clay have sprouted? How many on the stone?  
+  *Parent says:* Let's count together. A sprouted seed has a tiny white root coming out.  
   *Child mode:* Count the sprouted seeds on each top. Write the numbers.
   - Ask: What do the seeds on the stone look like? (good: Dry and hard.; The same as before.; They did not grow.)
   - Note: Usually most seeds on the clay sprout in one or two days, and the seeds on the stone dry out and do not sprout. In very damp monsoon weather, a few seeds on the stone may sprout. If that happens, compare how many sprouted on each top, and how fast. If no seeds sprout anywhere in three days, the seeds may be old: try methi seeds or a new packet. If the diya's top looks dry by day 2, the room is very hot or windy, so move the plate to a shadier spot.
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say three things: what they found, what they saw, and why it happened. Then look back at their guess together.  
-  *Parent says:* Tell me what you found. What did you see? Why do you think the seeds grew on one and not the other? Was your guess right?  
-  *Child mode:* Say what you found. What did you see? Why did it happen?
+  *Parent says:* Tell me what you found, what you saw, and why you think it happened. Was your guess right?  
+  *Child mode:* Tell your grown-up what you found out.
   - Check: Why did the seeds sprout on the clay diya, and not on the smooth stone? → **The clay soaked up water and kept the seeds wet**
   - Think: Where near your home might moss grow? Look for a damp, shady wall.
 
@@ -259,13 +259,13 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 - **s1 (10 min)**  
   *Parent does:* Walk around the flat and the building with your child. Find at least three plants in different places: in water, in a sunny pot, in shade, in a crack.  
   *Parent says:* Let's find plants that live in different places. Here is one. Is this place wet or dry? Sunny or shady?  
-  *Child mode:* Find plants in different places. Is each place wet or dry? Sunny or shady?
+  *Child mode:* Find three plants in three different places.
   - Ask: What does this place give this plant? (good: Water.; Sunlight.; Soil for the roots.; Shade.)
   - Note: Good places to look: a money plant in a bottle of water, tulsi or aloe in a sunny pot, a fern or moss near a dripping pipe, a weed in a crack in the steps.
 - **s2 (5 min)**  
-  *Parent does:* Draw each plant in the notebook. Next to each, write one word for the place: wet, dry, sunny or shady.  
+  *Parent does:* In the notebook, write the name of each plant, or draw the plant. Next to each, write one word for the place: wet, dry, sunny or shady.  
   *Parent says:* Which plant lives in the wettest place? Which in the driest? Would they be happy if they swapped?  
-  *Child mode:* Draw each plant. Write wet, dry, sunny or shady. Could they swap places?
+  *Child mode:* Write or draw each plant. Add one word for its place: wet, dry, sunny or shady.
   - Check: A money plant grows in a bottle of water. What is the bottle for the plant? → **A habitat that gives water and light**
 ### a2 · Rock Hunt at Home (15 min)
 - **s1 (7 min)**  
@@ -275,14 +275,14 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   - Note: Things made of rock: a granite counter, a floor of marble, Kota stone or granite, a grinding stone (ammikal, sil-batta or ammi), pebbles in a plant pot, and the sand in cement walls. Bricks and clay pots are made from clay, which is rock broken very small.
 - **s2 (5 min)**  
   *Parent does:* Hold the two stones over the dark paper. Rub them hard together for one minute. Look at what falls.  
-  *Parent says:* Rub the stones hard for one minute. What falls on the paper? Now look at a pinch of soil next to it.  
-  *Child mode:* Rub two stones hard for one minute. What falls on the paper?
+  *Parent says:* Rub the stones hard over the paper for one minute. Then look at a pinch of soil next to the dust.  
+  *Child mode:* Rub the two stones together hard for one minute.
   - Ask: How is the rock dust like the soil? How is it different? (good: Both are tiny bits.; The soil is darker.; The soil has bits of old leaves in it.)
   - Note: A little fine grey or brown dust falls. Bricks give the most dust, and hard stones give only a pinch. Tell your child not to blow the dust, and to wash their hands afterwards. Soil is made of rock grains like this, mixed with bits of dead plants. In nature, rain, sun and roots do this rubbing and breaking for hundreds of years.
 - **s3 (3 min)**  
-  *Parent does:* Look again at the dust and the soil. Ask your child whether rubbing stones could fill a whole pot with soil in one day.  
+  *Parent does:* Look again at the dust and the soil. Then ask your child the question.  
   *Parent says:* Your hands made only a pinch of dust in one minute. Could you fill a whole pot with soil in one day by rubbing stones? Why or why not?  
-  *Child mode:* A minute of rubbing made only a pinch. Could you fill a pot with soil in one day this way?
+  *Child mode:* Think about how much dust it would take to fill a whole pot.
   - Note: The answer is no. A minute of rubbing gave only a pinch, so a whole pot would take far too long by hand. In nature, rain, sun and roots break rock much more slowly than your hands, but they keep going for hundreds of years. That is how real soil is made.
   - Check: What fell on the paper when you rubbed the two stones? → **Tiny bits of rock, like dust**
 ### a3 · Who Shares Our Flat? (15 min)
@@ -294,33 +294,33 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
   - Note: Ants and spiders are found in almost every home. Crows, pigeons and mynas often sit on window ledges and air conditioner boxes.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* In the evening, switch on a light near a wall or the balcony. Wait a few minutes, then look with the torch near the light.  
-  *Parent says:* Look near the light. Is a gecko there? Why would a gecko wait by a light at night?  
+  *Parent says:* Look near the light. Is a gecko there?  
   *Child mode:* With a grown-up, look near a light at night. Is a gecko there?
   - Ask: Why does a gecko wait near a light? (good: Insects fly to the light.; The gecko eats the insects.)
   - Note: House geckos often wait near lights at night, because moths and other small insects fly to the light. If no gecko comes tonight, look again another evening.
 - **s3 (2 min)**  
-  *Parent does:* Make a list: each animal, and what their spot gives them.  
+  *Parent does:* Make a list of each animal and what their spot gives them. Your child can say it while you write.  
   *Parent says:* So our flat is a habitat for many animals, not only for us. What does each spot give them?  
-  *Child mode:* Write each animal. What does their spot give them?
+  *Child mode:* Say each animal you found and what their spot gives them.
   - Check: A spider builds a web in a quiet corner by the window. What does that corner give the spider? → **Insects flying past, and a quiet place**
 
 ## Projects
 ### p1 · My Habitat Book (30 min, 3 days)
 - **record:** The finished book, with one living being on each page and one word for what the habitat gives them.
-- **schedule:** day 1: Make the book. Draw the pond and the forest pages. (10 min); day 2: Draw the desert and the seashore pages. (10 min); day 3: Draw the rock page and the cover. Read the book to someone at home. (10 min)
+- **schedule:** day 1: Make the book. Draw the pond and the forest pages. (10 min); day 2: Make the desert and the seashore pages. (10 min); day 3: Make the rock page and the cover. Read the book to someone at home. (10 min)
 - **s1 (10 min)**  
   *Parent does:* Help your child fold and staple the book. Then draw a pond on one page and a forest on the next.  
-  *Parent says:* Draw the pond. Who lives there? What does the pond give them? Write one word for it.  
-  *Child mode:* Draw a pond and a forest. Draw who lives there. Write one word.
+  *Parent says:* Let's make the pond page first. Who lives in a pond? What does the pond give them?  
+  *Child mode:* Draw a pond and a forest, and who lives in each. Or tell your grown-up, who will write it. Add one word for what each gives.
   - Note: One word per page is enough at this age: water, shade, trees, sand. Spelling does not matter here.
 - **s2 (10 min)**  
-  *Parent does:* On day 2, draw the desert and the seashore pages.  
+  *Parent does:* On day 2, help your child make the desert and the seashore pages. They can draw them, or cut pictures from an old magazine and stick them in.  
   *Parent says:* Now the desert. It is hot and dry. Who can live there? And who lives by the salty sea?  
-  *Child mode:* Draw a desert and a seashore. Who lives in each?
+  *Child mode:* Make a desert page and a seashore page. Put on each one animal and one plant that live there.
 - **s3 (10 min)**  
-  *Parent does:* On day 3, draw a rock page and a cover. Then your child reads the book aloud to someone at home.  
+  *Parent does:* On day 3, help your child make a rock page and a cover. They can draw, or write the names of who lives there. Then your child reads the book aloud to someone at home.  
   *Parent says:* Last page: a rock. Who lives on a rock, or under one, or in a crack? Now read your book to someone.  
-  *Child mode:* Draw a rock and who lives there. Read your book aloud.
+  *Child mode:* Make the rock page. Then read your book aloud.
   - Check: Which of these could live on a damp rock? → **Moss**
 
 ## Challenges
@@ -332,8 +332,8 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 - **creative:** A slope of stones, so the frog can climb in and out of the water.; A wet cloth on the floor of the box, to keep it damp.; A water plant, like a money plant cutting, floating in the bowl.
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. Ask your child to list what a frog needs before building anything.  
-  *Parent says:* A frog has lost her pond. What does a frog need to live? Let's list it first.  
-  *Child mode:* A frog lost her pond. What does a frog need? Make a list.
+  *Parent says:* A frog has lost her pond. Before we build, let's think about her new home.  
+  *Child mode:* Say everything a frog needs. Your grown-up will write it down.
   - Ask: What does a frog need? (good: Water.; Insects to eat.; Shade.; A place to hide.; Water for her eggs.)
 - **s2 (15 min)**  
   *Parent does:* Build the model in the box. Your child decides where everything goes.  
@@ -342,7 +342,7 @@ Lakshmi smiled. "That," she said, "is a very good question. Shall we find out?"
 - **s3 (5 min)**  
   *Parent does:* Look at the finished model together. Check each need on the list.  
   *Parent says:* Let's check our list. Water? Food? Shade? A hiding place? What would you add next?  
-  *Child mode:* Check your list. Is everything there? What will you add?
+  *Child mode:* Point to each thing on your list in the model.
   - Check: Why does a frog's habitat need shade and water? → **A frog's skin must stay damp**
 
 ## Worksheets

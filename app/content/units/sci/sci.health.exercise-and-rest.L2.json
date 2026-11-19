@@ -286,7 +286,7 @@
    "title": "Who Sleeps How Long? A matching card game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a matching card game about how long humans and other animals sleep in a day. You turn cards face down and try to find the pairs: each sleeper and their hours of sleep.",
+   "context": "This is a matching card game. You find out who sleeps the longest and who sleeps the shortest in a day, among humans and other animals. You turn cards face down and find the pairs. A pair is a sleeper and their hours of sleep.",
    "printables": [
     {
      "kind": "cards",
@@ -361,7 +361,7 @@
     "If they are a sleeper and their sleep time, check the back. If the back says they are a pair, keep them and take another turn.",
     "If they are not a pair, turn them face down again. The next player has a turn.",
     "When all the pairs are found, the player with the most pairs wins.",
-    "At the end, everyone puts the 6 sleepers in a line, from the shortest sleeper to the longest.",
+    "At the end, everyone puts the 6 pairs in a line, from the shortest sleep to the longest.",
     "If two players have the same number of pairs, they both win."
    ],
    "setup": [
@@ -379,26 +379,26 @@
      "id": "s1",
      "mins": 2,
      "context": "This is the start of the sleep matching game. You get ready and guess.",
-     "do": "1. Cut out and mix the cards. 2. Ask your child to guess which sleeper sleeps the longest and which the shortest.",
+     "do": "1. Cut out the cards. Lay the six sleeper cards face up, and keep the sleep time cards aside. 2. Ask your child to guess which sleeper sleeps the longest and which the shortest.",
      "say": "Which of these sleepers do you think sleeps the longest in a day? Which the shortest? Why?",
-     "kid": "Which sleeper sleeps the longest? Which sleeps the shortest? Why?"
+     "kid": "Look at the six sleepers. Point to the one you think sleeps longest. Then point to the shortest."
     },
     {
      "id": "s2",
      "mins": 10,
      "context": "In this step you play the game.",
      "do": "1. Lay the cards face down. 2. Take turns to turn over two cards and read them aloud. 3. Keep the pairs.",
-     "say": "Read both cards aloud. Is that a sleeper and their sleep time?",
-     "kid": "Turn over two cards. Read them. Are they a pair?",
+     "say": "Your turn. Pick two cards and read them out loud for everyone.",
+     "kid": "Do these two cards go together as a pair?",
      "parent": "The elephant figure comes from a 2017 study of two wild elephant mothers in Botswana. Elephants in zoos often sleep longer."
     },
     {
      "id": "s3",
      "mins": 3,
      "context": "This is the last step of the game. You line up the sleepers.",
-     "do": "1. Put the six sleeper cards in a line, from shortest sleep to longest. 2. Ask the questions below.",
-     "say": "Where do you come in the line? Why do you think a baby sleeps so much more than a grown-up?",
-     "kid": "Put the sleepers in a line. Where are you? Why does a baby sleep so much?",
+     "do": "1. Put the six pairs in a line, from the shortest sleep to the longest. 2. Ask the questions below.",
+     "say": "Where do you come in the line? Who sleeps more than you, and who sleeps less?",
+     "kid": "Put the six pairs in a line, shortest sleep first. Find the card for a child of 7.",
      "check": {
       "t": "mcq",
       "q": "Which of these sleeps the shortest time in a day?",
@@ -427,7 +427,7 @@
    "title": "Healthy Day Ladders: a board game",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a board game like snakes and ladders. Ladders show things that help the body, like playing, sleeping and washing. Slides show things that make the body tired or ill. Every other square gives you a small thing to do. When you land on a ladder or a slide, you say why.",
+   "context": "This is a board game like snakes and ladders. Ladders show things that help the body, like playing, sleeping and washing. Slides show things that make the body tired or ill. Every other square gives you a small thing to do. When you land on a ladder or a slide, you say why. You find out what helps your body and what tires it.",
    "printables": [
     {
      "kind": "board",
@@ -499,21 +499,21 @@
     {
      "id": "s1",
      "mins": 5,
-     "context": "This is the start of the healthy day game. You draw the board.",
+     "context": "This is the start of the healthy day game. You get the board ready.",
      "do": "1. Print the board, or help your child draw 30 squares in 5 rows of 6. 2. Number them and write the words for each square. 3. Draw the ladders and slides.",
      "say": "Let's make the board together. Ladders are things that help the body. Slides are things that tire it out.",
-     "kid": "Draw 30 squares and number them. Draw the ladders and the slides."
+     "kid": "Make the board: 30 squares numbered 1 to 30, with the ladders and slides. Or use the printed board."
     },
     {
      "id": "s2",
      "mins": 13,
      "context": "In this step you play the game.",
      "do": "1. Take turns to roll and move. 2. Read the square you land on and do what it says. 3. On a ladder or a slide, give a reason.",
-     "say": "You landed on a ladder! Read it aloud. Why does that help your body?",
-     "kid": "Roll and move. Read your square and do it. On a ladder or a slide, say why.",
+     "say": "Read the square you land on out loud. If it is a ladder or a slide, say why it helps or harms the body.",
+     "kid": "Roll the dice, move, and do what your square says.",
      "ask": [
       {
-       "q": "Why did sitting on the sofa all day send you down?",
+       "q": "Why does sitting on the sofa all day send you down a slide?",
        "good": [
         "My muscles didn't work, so they don't get stronger.",
         "I didn't move, so I didn't get any exercise."
@@ -527,7 +527,7 @@
      "context": "This is the end of the game. You look at the ladders and choose one for tomorrow.",
      "do": "1. Look at the four ladders together. 2. Ask what they have in common, and which one the family can do tomorrow.",
      "say": "Look at the four ladders. What do they all have in common? Which one could we do tomorrow?",
-     "kid": "Look at the four ladders. What is the same about them? Which one can you do tomorrow?",
+     "kid": "Point to the ladder you want to do tomorrow.",
      "parent": "All four ladders help the body. Skipping and play make muscles, heart and bones stronger. Sleep lets the body grow and mend. Washing hands sends germs away. Good food gives muscles energy. Any ladder your child picks for tomorrow is fine, if they can say what it does for the body."
     }
    ]
@@ -578,7 +578,7 @@
      "what": "Guess what will happen. Sit still and count your breaths. Dance fast for one minute. Count again straight away, then every minute for five minutes. Say what you found."
     }
    ],
-   "record": "Write your guesses at the top. Fill in the table: sitting still, right after dancing, and after 1, 2, 3, 4 and 5 minutes of rest. Draw a tall or short tower of blocks for each count.",
+   "record": "Write your guesses at the top. Fill in the table: sitting still, right after dancing, and after 1, 2, 3, 4 and 5 minutes of rest. Show each count as a tower: draw squares, or stack real blocks or bottle caps.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results for one child",
@@ -642,7 +642,7 @@
      "context": "This is the first step of the puff count test. You guess what will happen.",
      "do": "1. Ask your child to sit still and put one hand on their tummy. 2. Ask the two questions below. 3. Write down both guesses and the reasons.",
      "say": "Feel your tummy go out and in. That is one breath. After a fast dance, will you take more breaths, fewer, or the same? How long will it take to calm down? Why do you think so?",
-     "kid": "Put your hand on your tummy. Feel it go out and in. After a fast dance, will you breathe more, or less? Why?",
+     "kid": "Put your hand on your tummy. Feel it go out and in. That is one breath. Now guess what dancing will do.",
      "ask": [
       {
        "q": "Why do you think that?",
@@ -683,7 +683,7 @@
      "kid": "Sit down at once. Hand on your tummy. A grown-up counts again.",
      "check": {
       "t": "mcq",
-      "q": "Right after the dance, how many breaths did you take, compared with sitting still?",
+      "q": "After the dance, did you take more breaths, fewer, or about the same as sitting still?",
       "options": [
        "Fewer",
        "About the same",
@@ -706,10 +706,10 @@
     {
      "id": "s6",
      "mins": 2,
-     "context": "In this step you draw your results as towers of blocks.",
-     "do": "1. Help your child draw a tower of small squares for each count. 2. Use one square for each breath, or one for every 2 breaths. 3. Ask which tower is tallest, and when the towers got back to the first height.",
+     "context": "In this step you show your results as towers, so you can see the change at a glance.",
+     "do": "1. Help your child make a tower for each count. They can draw small squares, or stack blocks or bottle caps. 2. Use one square or block for each breath, or one for every 2 breaths. 3. Ask which tower is tallest, and when the towers got back to the first height.",
      "say": "Which tower is the tallest? After how many minutes did your towers get as short as the first one?",
-     "kid": "Draw a tower for each count. Which is the tallest? When did they get short again?",
+     "kid": "Make a tower for each count. Use squares on paper, or real blocks.",
      "ask": [
       {
        "q": "When was your breathing back to normal?",
@@ -726,7 +726,7 @@
      "context": "This is the last step of the puff count test. You say what you think now, what you saw, and why.",
      "do": "1. Ask the three questions below, one at a time. 2. Write the answers down. 3. Only after your child has answered, read the card 'Why you breathe faster when you move'.",
      "say": "What do you think dancing does to your breathing now? What did you see that tells you so? Why do you think it happened?",
-     "kid": "What does dancing do to your breathing? What did you see? Why did it happen?",
+     "kid": "Think about your results. Tell your grown-up what you found out.",
      "ask": [
       {
        "q": "What do you think dancing does to your breathing now?",
@@ -785,10 +785,10 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Guess which move will make you breathe fastest. Count your breaths sitting still. Do each move for one minute and count after it, resting in between. Draw your results."
+     "what": "Guess which move will make you breathe fastest. Count your breaths sitting still. Do each move for one minute and count after it, resting in between. Show your results as towers."
     }
    ],
-   "record": "Fill in the table. Draw three towers of blocks, one for each move, and colour the tallest one.",
+   "record": "Fill in the table. Make three towers, one for each move, with drawn squares or real blocks or bottle caps. Mark the tallest one.",
    "setup": [
     {
      "art": "A boy slowly reaching up high and then bending down to touch his knees, on a mat.",
@@ -810,7 +810,7 @@
      "context": "This is the first step of the three moves test. You guess, then count your sitting breaths.",
      "do": "1. Show your child the three moves. 2. Ask for a guess and a reason. 3. Count their breaths sitting still for half a minute, and write it down.",
      "say": "Which move will make you breathe the fastest? Which the slowest? Why do you think so? Now sit still, and I will count your normal breathing.",
-     "kid": "Which move will make you puff most? Why? Now sit still while a grown-up counts.",
+     "kid": "Look at the three moves. Guess which will make you puff most. Then sit still while a grown-up counts.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -865,9 +865,9 @@
      "id": "s5",
      "mins": 4,
      "context": "This is the last step of the three moves test. You say what you found and why.",
-     "do": "1. Help your child draw three towers. 2. Ask the three questions below.",
-     "say": "Which move do you now think makes you breathe fastest? What did you see? Why do you think star jumps and stretching were so different?",
-     "kid": "Which move made you breathe fastest? What did you see? Why?",
+     "do": "1. Help your child make three towers, one for each move. They can draw squares, or stack blocks or bottle caps. 2. Ask the questions below.",
+     "say": "Which move made you breathe fastest? What did you see? Why do you think the moves were so different?",
+     "kid": "Look at your three towers. Tell your grown-up what they show.",
      "ask": [
       {
        "q": "Why do you think it happened?",
@@ -888,14 +888,14 @@
    "title": "Move Like Other Animals: crab, frog, elephant and cat",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you move like four other animals: a crab, a frog, an elephant and a cat. After each move, you say which part of your body worked hardest, and whether you are puffing.",
+   "context": "In this activity you move like four other animals: a crab, a frog, an elephant and a cat. After each move, you say which part of your body worked hardest. You find out which animal moves make you puff and which are gentle.",
    "materials": [
     {
      "item": "a mat or a clear space on the floor",
      "qty": 1
     }
    ],
-   "record": "Draw yourself doing your favourite animal move. Draw an arrow to the part of your body that worked hardest.",
+   "record": "Do your favourite animal move for your grown-up, or take a photo of it. Say which part of your body worked hardest.",
    "setup": [
     {
      "art": "A child doing a crab walk, tummy up, hands and feet on the floor, moving sideways.",
@@ -916,8 +916,8 @@
      "mins": 3,
      "context": "This is the first step of the animal moves. You walk like a crab.",
      "do": "1. Show your child how to sit, put hands and feet on the floor, and lift the tummy up. 2. Ask them to walk sideways across the room and back.",
-     "say": "Lift your tummy up like a table. Now walk sideways like a crab on a beach. Which part of you is working?",
-     "kid": "Lift your tummy up. Walk sideways like a crab. What part of you is working?",
+     "say": "Lift your tummy up like a table. Now walk sideways like a crab on a beach.",
+     "kid": "Walk sideways across the room and back. Notice which part of your body works.",
      "ask": [
       {
        "q": "Which part worked hardest?",
@@ -934,7 +934,7 @@
      "context": "In this step you jump like a frog.",
      "do": "1. Your child crouches low with hands on the floor. 2. They jump forward as far as they can, five times.",
      "say": "Crouch down low like a frog by a pond. Now jump forward! Five jumps.",
-     "kid": "Crouch low like a frog. Jump forward five times!",
+     "kid": "Count your five jumps. Can you feel your legs working?",
      "parent": "Use a mat or jump on your toes if people live below you."
     },
     {
@@ -943,15 +943,15 @@
      "context": "In this step you walk like an elephant, then stretch like a cat.",
      "do": "1. Your child walks slowly round the room with big, heavy steps, swinging their arms together like a trunk. 2. Then they kneel on hands and knees and slowly arch the back up high, then let it dip down, three times.",
      "say": "Walk slowly like an elephant. Now kneel like a cat. Push your back up high, then let it dip down.",
-     "kid": "Walk like a slow elephant. Then stretch your back like a cat."
+     "kid": "Feel how slow and heavy the elephant walk is. Then feel the cat stretch your back."
     },
     {
      "id": "s4",
      "mins": 3,
      "context": "This is the last step of the animal moves. You compare the four moves.",
      "do": "1. Ask the questions below. 2. Let your child put a hand on their tummy to feel their breathing.",
-     "say": "Which move made you puff the most? Which one was gentle, like a rest?",
-     "kid": "Which move made you puff most? Which one was gentle?",
+     "say": "Think back over all four moves. Which one was gentle, like a rest?",
+     "kid": "Put a hand on your tummy and feel your breathing. Think back over all four moves.",
      "ask": [
       {
        "q": "Which made you puff most?",
@@ -970,7 +970,7 @@
    "title": "My Bedtime Steps: put what you do before bed in order",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you draw the things you do before bed, on small cards. Then you put them in order, and find out which steps help your body get ready to sleep.",
+   "context": "In this activity you make a small card for each thing you do before bed. Then you put the cards in order, and find out which steps help your body get ready to sleep.",
    "materials": [
     {
      "item": "6 small pieces of paper, about the size of a playing card",
@@ -985,7 +985,7 @@
    "setup": [
     {
      "art": "A child drawing on six small cards: dinner, a bath, brushing teeth, a story, lights off, and a fan on.",
-     "caption": "1. Draw one bedtime step on each card."
+     "caption": "1. Write or draw one bedtime step on each card."
     },
     {
      "art": "The six cards in a line on the floor, with arrows between them.",
@@ -996,10 +996,10 @@
     {
      "id": "s1",
      "mins": 5,
-     "context": "This is the first step of the bedtime activity. You draw what you do before bed.",
-     "do": "1. Ask your child what they do each evening after dinner. 2. Help them draw one step on each card, such as eating dinner, washing, brushing teeth, a story, lights off.",
-     "say": "What do you do after dinner, until you fall asleep? Draw one thing on each card.",
-     "kid": "What do you do before bed? Draw one thing on each card."
+     "context": "This is the first step of the bedtime activity. You make a card for each thing you do before bed.",
+     "do": "1. Ask your child what they do each evening after dinner. 2. Help them write or draw one step on each card, such as eating dinner, washing, brushing teeth, a story, lights off. A grown-up can write the words.",
+     "say": "What do you do after dinner, until you fall asleep? Let's make a card for each thing.",
+     "kid": "Make one card for each thing you do before bed. Write it, or draw it."
     },
     {
      "id": "s2",
@@ -1007,7 +1007,7 @@
      "context": "In this step you put the cards in order and talk about them.",
      "do": "1. Your child lays the cards in order. 2. Ask which steps make them feel calm and sleepy, and which make them feel wide awake.",
      "say": "Which steps make you feel calm and sleepy? Which ones wake you up?",
-     "kid": "Put the cards in order. Which ones make you sleepy? Which wake you up?",
+     "kid": "Put your cards in the order you do them.",
      "ask": [
       {
        "q": "What helps you feel sleepy?",
@@ -1034,7 +1034,7 @@
      "context": "This is the last step of the bedtime activity. You count your sleep.",
      "do": "1. Look at a clock together. 2. Ask what time your child usually falls asleep and wakes up. 3. Count the hours together on the clock face.",
      "say": "Say you sleep at 9 and wake at 7. Count the hours on the clock: 10, 11, 12, 1, 2, 3, 4, 5, 6, 7. How many is that? Now count yours.",
-     "kid": "Find your bedtime and wake-up time on the clock. Count the hours in between.",
+     "kid": "Count the hours on the clock, one at a time. Then count the hours of your own sleep.",
      "check": {
       "t": "mcq",
       "q": "A child sleeps from 9 at night to 7 in the morning. How many hours is that?",
@@ -1054,7 +1054,7 @@
    "title": "Four Ways to Keep Healthy: my day chart",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make a chart of one day with four boxes: moving, sleeping and resting, eating, and keeping clean. You draw what you did in each box.",
+   "context": "In this activity you make a chart of one day with four boxes: moving, sleeping and resting, eating, and keeping clean. You fill each box with what you did today, in words or small drawings. You find out if your day had a bit of each.",
    "materials": [
     {
      "item": "a big sheet of paper folded into four boxes",
@@ -1065,7 +1065,7 @@
      "qty": 1
     }
    ],
-   "record": "The finished four-box chart for one day, with a drawing and a few words in each box.",
+   "record": "The finished four-box chart for one day, with a few words or a drawing in each box.",
    "setup": [
     {
      "art": "A sheet of paper folded into four boxes with the headings Move, Rest and sleep, Eat, Keep clean.",
@@ -1073,7 +1073,7 @@
     },
     {
      "art": "A child drawing herself skipping in the first box, a bed in the second, a plate of rice and sambar in the third, and a bucket bath in the fourth.",
-     "caption": "2. Draw what you did today in each box."
+     "caption": "2. Fill each box with what you did today."
     }
    ],
    "flow": [
@@ -1083,15 +1083,15 @@
      "context": "This is the first step of the day chart. You make the four boxes.",
      "do": "1. Fold the sheet in half, and in half again, to make four boxes. 2. Help your child write a heading in each box: Move, Rest and sleep, Eat, Keep clean.",
      "say": "There are four ways to keep healthy. Moving, resting and sleeping, eating good food, and keeping clean. Let's make a box for each.",
-     "kid": "Fold the paper into four boxes. Write Move, Rest, Eat and Clean."
+     "kid": "Fold the paper into four boxes. Write Move, Rest and sleep, Eat and Keep clean."
     },
     {
      "id": "s2",
      "mins": 8,
      "context": "In this step you fill each box with what you did today.",
-     "do": "1. Ask your child to draw what they did in each box today. 2. Help them write one or two words beside each drawing.",
+     "do": "1. Ask your child to show what they did in each box today. They can write a few words, draw, or tell you while you write. 2. Add one or two words beside each drawing.",
      "say": "How did you move today? When did you rest? What did you eat? How did you keep clean?",
-     "kid": "Draw how you moved, rested, ate and kept clean today.",
+     "kid": "Fill each box with how you moved, rested, ate and kept clean today. Write, draw or tell.",
      "parent": "Every family's day is different. The aim is noticing, not scoring. If a box is empty, ask what your child could add tomorrow."
     },
     {
@@ -1100,7 +1100,7 @@
      "context": "This is the last step of the day chart. You look for links between the boxes.",
      "do": "1. Ask the question below.",
      "say": "Look at your chart. Did something in one box lead to something in another box? For example, did a sweaty game mean you needed a wash?",
-     "kid": "Did one box lead to another? Did a sweaty game mean you needed a wash?",
+     "kid": "Look for two boxes that are linked.",
      "ask": [
       {
        "q": "How did one box lead to another?",
@@ -1119,7 +1119,7 @@
    "title": "Busy or Still? Watch another animal rest",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you watch another animal for 10 minutes and mark each minute: busy or still. You can watch a crow at the window, a pigeon on a ledge, a pet cat or dog, or a line of ants.",
+   "context": "In this activity you watch another animal for 10 minutes and mark each minute: busy or still. You find out how much of the time another animal rests. You can watch a crow at the window, a pigeon on a ledge, a pet cat or dog, or a line of ants.",
    "materials": [
     {
      "item": "a window where you can see a crow or a pigeon, or a pet, or a few ants near a crumb",
@@ -1134,7 +1134,7 @@
      "qty": 1
     }
    ],
-   "record": "Your 10 boxes, each marked B for busy or S for still, and a drawing of the animal you watched.",
+   "record": "Your 10 boxes, each marked B for busy or S for still, and a photo of the animal you watched, or a few words about what they did.",
    "setup": [
     {
      "art": "A child at a window with a pencil and a strip of 10 boxes, watching a crow sitting on a balcony railing.",
@@ -1152,7 +1152,7 @@
      "context": "This is the first step of the animal watch. You choose who to watch and guess.",
      "do": "1. Find a crow or a pigeon from a window, a pet, or ants near a crumb of sugar. 2. Ask for a guess.",
      "say": "We'll watch this animal for 10 minutes. Will they be busy most of the time, or still? Why do you think so?",
-     "kid": "Choose an animal to watch. Will they be busy or still most of the time? Why?",
+     "kid": "Pick an animal to watch from where you are.",
      "parent": "Crows and pigeons are around most city buildings. If none come, put a few sugar grains on a sill and watch ants instead."
     },
     {
@@ -1160,8 +1160,8 @@
      "mins": 10,
      "context": "In this step you watch and mark each minute.",
      "do": "1. Start the timer. 2. At the end of each minute, your child marks B for busy or S for still. 3. B means the animal moved a lot. S means they mostly stayed still.",
-     "say": "Watch closely. At the end of each minute, mark B for busy or S for still.",
-     "kid": "Watch closely. Each minute, mark B for busy or S for still.",
+     "say": "Watch closely. When the timer says a minute is up, mark B or S.",
+     "kid": "Watch the animal. B means they moved a lot. S means they stayed still.",
      "parent": "If the animal goes away, write a cross in that box and carry on watching for them or for another animal."
     },
     {
@@ -1169,11 +1169,11 @@
      "mins": 2,
      "context": "This is the last step of the animal watch. You count your marks.",
      "do": "1. Count the B boxes and the S boxes together. 2. Ask the question below.",
-     "say": "How many minutes were busy? How many were still? Why do you think the animal rested?",
-     "kid": "Count the B boxes and the S boxes. Why did the animal rest?",
+     "say": "How many minutes were busy? How many were still?",
+     "kid": "Count the B boxes and the S boxes.",
      "ask": [
       {
-       "q": "Why did the animal rest?",
+       "q": "Why do you think the animal was busy or still?",
        "good": [
         "The crow was resting after flying.",
         "The cat was sleepy.",
@@ -1238,25 +1238,25 @@
     {
      "day": 9,
      "mins": 5,
-     "what": "Look for the first two leaves opening. Water a little. Draw them in the daytime."
+     "what": "Look for the first two leaves opening. Water a little. Take a photo of them in the daytime, or draw them."
     },
     {
      "day": 12,
      "mins": 10,
-     "what": "Once the first two leaves are open, at about 8 at night, switch off the room light and shine a torch on the leaves for a moment. Draw them."
+     "what": "Once the first two leaves are open, at about 8 at night, switch off the room light and shine a torch on the leaves for a moment. Take a photo, or draw them."
     },
     {
      "day": 13,
      "mins": 15,
-     "what": "At about 8 in the morning, draw the leaves again. At about 8 that night, look with the torch and draw them again."
+     "what": "At about 8 in the morning, take a photo of the leaves again. At about 8 that night, look with the torch and take another photo."
     },
     {
      "day": 14,
      "mins": 5,
-     "what": "At about 8 in the morning, draw the leaves again. Compare your four drawings. Say what you found."
+     "what": "At about 8 in the morning, take a photo of the leaves again. Compare your four photos. Say what you found."
     }
    ],
-   "record": "Four drawings: two nights and two mornings, showing how the leaves are held. Write 'up', 'flat' or 'down' under each.",
+   "record": "Four photos or drawings: two nights and two mornings, showing how the leaves are held. Write 'up', 'flat' or 'down' under each.",
    "setup": [
     {
      "art": "A paper cup of soil on a sunny window sill, with a small bean plant with two leaves held out flat.",
@@ -1264,11 +1264,11 @@
     },
     {
      "art": "The same bean plant at night, lit by a torch, with the two leaves hanging down.",
-     "caption": "2. At night, with the room light off, shine a torch for a moment and draw the leaves."
+     "caption": "2. At night, with the room light off, shine a torch for a moment and take a photo or draw the leaves."
     },
     {
      "art": "The same bean plant in the morning sun, leaves held out flat again, beside a child's two drawings.",
-     "caption": "3. In the morning, draw them again. Compare."
+     "caption": "3. In the morning, take a photo or draw them again. Compare."
     }
    ],
    "flow": [
@@ -1287,16 +1287,16 @@
      "context": "This is about day 9. You check the first leaves.",
      "do": "1. Look at the plant. 2. Wait until the first two leaves have opened out fully.",
      "say": "Two leaves have opened. Tonight we'll see if they look the same in the dark.",
-     "kid": "Have two leaves opened? Draw them in the daytime.",
+     "kid": "Look at the two leaves. Are they held flat? Take a photo, or draw them.",
      "parent": "If no bean has come up by day 8, soak and plant new beans in a warmer place. Seeds sprout slowly in a cold room."
     },
     {
      "id": "s3",
      "mins": 15,
      "context": "This is days 12 to 14. You compare the leaves at night and in the morning.",
-     "do": "1. At about 8 at night, switch off the room light and shine the torch on the plant for a few seconds only. 2. Your child draws how the leaves are held. 3. Next morning, draw them again. 4. Do the same the next night and morning.",
+     "do": "1. At about 8 at night, switch off the room light and shine the torch on the plant for a few seconds only. 2. Your child takes a photo, or draws how the leaves are held, and writes up, flat or down. 3. Next morning, do the same. 4. Do the same the next night and morning.",
      "say": "Look quickly with the torch. Are the leaves held out flat, like in the day, or hanging down?",
-     "kid": "Shine the torch for a moment. Are the leaves up, flat or down? Draw them.",
+     "kid": "Shine the torch for a moment. Take a photo, or draw the leaves. Write up, flat or down.",
      "ask": [
       {
        "q": "What did the leaves do at night?",
@@ -1339,11 +1339,11 @@
     "A 'clap and stamp' song, where you clap on one word and stamp your feet on another.",
     "Pretending to row a boat on the backwaters of Kerala, pulling both arms in together."
    ],
-   "your_turn": "Draw your five moves as a strip of pictures. Try them yourself first. Then teach them to an older person, such as a grandparent, a neighbour or a grown-up at home, and ask which move they liked best.",
+   "your_turn": "Plan your five moves as a strip of pictures or a short list. Try them yourself first. Then teach them to an older person, such as a grandparent, a neighbour or a grown-up at home, and ask which move they liked best.",
    "setup": [
     {
      "art": "A girl drawing a strip of five pictures of a person doing exercises in a chair.",
-     "caption": "1. Plan and draw five chair moves."
+     "caption": "1. Plan five chair moves, in pictures or a list."
     },
     {
      "art": "The same girl standing in front of an older person sitting in a chair, both lifting their arms up, the older person smiling.",
@@ -1357,7 +1357,7 @@
      "context": "This is the first step of the chair challenge. You read the problem and think.",
      "do": "1. Read the problem and the rules aloud. 2. Ask the question below.",
      "say": "An older person may find it hard to stand for long. How could they still give their muscles some work, sitting down?",
-     "kid": "Plan exercise someone can do sitting in a chair. What could they move?",
+     "kid": "Think about exercise someone can do while sitting in a chair.",
      "ask": [
       {
        "q": "Which parts can move while you sit?",
@@ -1372,10 +1372,10 @@
     {
      "id": "s2",
      "mins": 8,
-     "context": "In this step you draw your moves and try them yourself.",
-     "do": "1. Your child draws five moves. 2. They try each one in a chair for one minute. 3. Check each rule together.",
+     "context": "In this step you plan your moves and try them yourself.",
+     "do": "1. Your child plans five moves, as pictures or a list. 2. They try each one in a chair for one minute. 3. Check each rule together.",
      "say": "Try each move yourself. Does it make a muscle work? Is it safe?",
-     "kid": "Draw five moves. Try each one in a chair. Is it safe?",
+     "kid": "Plan five moves, as a list or pictures. Try each one in a chair.",
      "parent": "Let your child choose the moves. If one is unsafe, ask a question rather than saying no: 'What if they felt dizzy?'"
     },
     {
@@ -1384,7 +1384,7 @@
      "context": "This is the last step of the chair challenge. You teach your moves.",
      "do": "1. Your child teaches the moves to an older person, or to you. 2. Afterwards, ask the questions below.",
      "say": "Did any move make them breathe a little faster? Which move, and why?",
-     "kid": "Teach your moves. Did any move make them breathe faster? Which one?",
+     "kid": "Teach your moves. Watch if their breathing gets faster.",
      "parent": "Moves that use big muscles for longer, such as lifting the knees or raising both arms, are the most likely to make breathing faster. This links back to the Puff Count, where working muscles used more oxygen. If no move made them puff, that is a fair result for gentle chair moves.",
      "ask": [
       {

@@ -217,9 +217,9 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   - Ask: Which clue helped you most? Why? (good: The one about the place they live.; The one about the body part, like spines or fins.)
   - Note: The hard cards are the koi fish, the mudskipper, the shark and the pigeon. When one comes up, stop and talk about how that living being's body suits their place.
 - **s3 (3 min)**  
-  *Parent does:* Add up the points. Then pick one card and ask which part of that living being's body suits their place.  
-  *Parent says:* Pick one card. Which part of that living being's body is suited to their place? What does that part do?  
-  *Child mode:* Count your points. Pick one card. Which body part helps that living being in their place?
+  *Parent does:* Add up the points. Then ask your child to pick one card.  
+  *Parent says:* Pick one card. Which part of that living being's body suits their place? What does that part do?  
+  *Child mode:* Count your points. Then pick one card and show the clue that helped you most.
   - Note: Any card works. For example, a cactus has spines instead of leaves, so she loses little water. A mudskipper breathes through her skin, so she can live on wet mud. A good answer names the body part and the problem of the place that it helps with.
   - Check: A shark has no swim bladder. What happens if she stops swimming? → **She slowly sinks**
 ### g2 · Air In, Air Out: a moving game (10 min)
@@ -228,16 +228,16 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Clear a space. 3. Read every card aloud once together.  
   *Parent says:* Let's learn the moves first. When I say air in, what do you do?  
-  *Child mode:* Learn the moves. Air in means stand tall.
+  *Child mode:* Learn the moves. Air in means rise up on your toes.
 - **s2 (6 min)**  
   *Parent does:* Play the game. Take turns being the caller.  
   *Parent says:* Air in! Air out! Hover! Shark!  
   *Child mode:* Listen to the caller. Do the move fast!
   - Note: Call the cards quickly once the moves are known. Mix fish and camel cards so children have to think.
 - **s3 (2 min)**  
-  *Parent does:* Sit down and ask one question.  
-  *Parent says:* When you were a shark, why did you have to keep moving?  
-  *Child mode:* Why did the shark keep moving?
+  *Parent does:* Sit down together and ask the question below.  
+  *Parent says:* Think back to when you were a shark. You had to keep moving.  
+  *Child mode:* Remember being the shark. What was hard about it?
   - Ask: Why did the shark have to keep moving? (good: Because a shark has no swim bladder.; Because she would sink if she stopped.)
 
 ## Experiments
@@ -246,7 +246,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 - **predict:** Guess first. Will the bottle need a lot of air to float, about half a bottle, or only a little? Why do you think so?
 - **fair test:** We use the same bottle, the same coins and the same bucket each time. The only change is how much air is inside. We test each amount twice, because a bubble stuck on the outside of the bottle can give a wrong result once.
 - **safety:** Wipe up spilled water at once, so nobody slips. Never leave a baby or a small child alone near a bucket of water.
-- **record:** Fill in the table. Draw the bottle fish on the bottom of the bucket, and again floating at the top. Write how many spoons of air it needed.
+- **record:** Fill in the table. Write how many spoons of air it needed. Take a photo of the bottle on the bottom and again floating, or draw it.
 - **results table:** Spoons of water poured out (spoons of air in) | Sinks or floats? | Test 2: sinks or floats?
 - **s1 (4 min)**  
   *Parent does:* 1. Put the coins into the empty bottle. 2. Hold the bottle under the water in the bucket. 3. Let it fill right to the top, until no more bubbles come out. 4. Close the cap under the water.  
@@ -260,31 +260,31 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   - Note: The bottle must sink to the bottom. If it floats, open it, add one more coin or stone, and fill it under water again.
 - **s3 (2 min)**  
   *Parent does:* Ask your child to guess and to say why. Write the guess at the top of the table.  
-  *Parent says:* We will swap some water for air, one spoon at a time. How many spoons until it floats? Why do you think so?  
-  *Child mode:* We will add air, one spoon at a time. How many spoons to float? Why?
+  *Parent says:* Next we pour water out of the bottle, one spoon at a time. The space it leaves fills with air. How many spoons until it floats? Why do you think so?  
+  *Child mode:* Make your guess. Say why you think so.
 - **s4 (6 min)**  
   *Parent does:* 1. Take the bottle out and open it. 2. Pour one tablespoon of water out of the bottle. 3. Close the cap. 4. Put the bottle under the water and let go. 5. Write sinks or floats in the table. 6. Test it once more.  
   *Parent says:* One spoon of water out means one spoon of air in. Now let go. Sink or float?  
-  *Child mode:* Pour out one spoon of water. Close it. Let go. Sink or float?
+  *Child mode:* Pour out one spoon of water. Close the cap. Put the bottle under the water and let go.
   - Note: Pour over the bucket. Tilt the bottle slowly to fill the spoon, then stand the bottle straight again. Each time, push the bottle to the middle of the water before you let go. Many 500 ml bottles with five coins float after two to four tablespoons of water are poured out.
 - **s5 (3 min)**  
   *Parent does:* 1. Keep going, one spoon at a time, until the bottle floats. 2. Then pour out three more spoons and test again. 3. Look at how high it floats now.  
-  *Parent says:* How many spoons did it need? Now let's add even more air. Does it float higher?  
+  *Parent says:* It floats! Now let's add even more air. Does it float higher?  
   *Child mode:* Keep going until it floats. Then pour out three more spoons.
   - Ask: How many spoons of air did the bottle need to float? (good: Only two or three spoons.; Just a little air, much less than half the bottle.)
 - **s6 (3 min)**  
-  *Parent does:* Ask your child three things. What do you think? What did you see? Why did it happen?  
-  *Parent says:* The bottle had coins and lots of water inside, but only a little air. Why did a little air help so much?  
-  *Child mode:* What did you see? Why did a little air help?
+  *Parent does:* Ask your child what they saw, and then ask the question below.  
+  *Parent says:* At the start our bottle sank. Now it floats, with only a little air inside.  
+  *Child mode:* Think about what changed from the start to now.
   - Ask: Why did a little air make the heavy bottle float? (good: Air is very light, so the bottle got lighter.; The air took the place of some heavy water.)
   - Note: A strong answer uses the result. With no air it sank, and with a little air it floated. Air is much lighter than water. Swapping a little water for air made the whole bottle light enough to float. Many fish have a bag of gas inside like this, called a swim bladder.
-  - Check: Many fish have a small bag of gas inside, called a swim bladder. What does it do for the fish? → **It stops the fish from sinking**
+  - Check: Many fish have a bag of gas inside called a swim bladder. What does it do? → **It stops the fish from sinking**
 ### e2 · Wrinkly Fingers: do they grip wet things better? (20 min)
 - **question:** Can you move wet marbles from one bowl to another faster with wrinkly fingertips than with smooth ones?
 - **predict:** Guess first. Will wrinkly fingers be faster, slower or the same? Why do you think so?
 - **fair test:** We use the same marbles, the same bowls and the same hand each time, for 30 seconds each. We practise twice first, because people get faster with practice, and we don't want practice to fool us.
 - **safety:** A grown-up checks that the soaking water is only bath-warm, never hot.
-- **record:** Write the number of marbles moved with smooth fingers and with wrinkly fingers. Draw a wrinkly fingertip.
+- **record:** Write the number of marbles moved with smooth fingers and with wrinkly fingers. Take a photo of your wrinkly fingertips.
 - **results table:** Fingers | Wet marbles moved in 30 seconds
 - **s1 (4 min)**  
   *Parent does:* 1. Put the marbles in the bowl of water. 2. Put the empty bowl next to it. 3. Your child uses one thumb and one finger to move marbles, one at a time, for 30 seconds. 4. Do this twice to practise.  
@@ -292,13 +292,13 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   *Child mode:* Move the wet marbles, one by one. Go!
   - Note: The two practice tries are only for getting used to it. Do not count them.
 - **s2 (2 min)**  
-  *Parent does:* Now do one real test with smooth fingers. Count the marbles moved in 30 seconds. Write the number down.  
+  *Parent does:* Put the marbles back in the bowl of water. Now do one real test with smooth fingers. Count the marbles moved in 30 seconds. Write the number down.  
   *Parent says:* This is the real test. Thirty seconds. Go!  
   *Child mode:* Real test. Move as many as you can!
 - **s3 (1 min)**  
   *Parent does:* Ask your child to guess and to say why.  
   *Parent says:* Soon your fingertips will go wrinkly. Will you be faster, slower or the same? Why?  
-  *Child mode:* Will wrinkly fingers be faster? Why do you think so?
+  *Child mode:* Make your guess. Say why you think so.
 - **s4 (8 min) · grown-up needed**  
   *Parent does:* 1. Check the warm water with your own hand first. 2. Your child soaks the same hand in it until the fingertips are wrinkly. 3. This takes about 5 to 10 minutes. 4. Read the story or tell jokes while you wait.  
   *Parent says:* Let's look at your fingers every few minutes. Are they wrinkly yet?  
@@ -310,91 +310,91 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   *Child mode:* Test again with wrinkly fingers. Go!
   - Note: Wrinkles fade after a few minutes in the air, so start this test straight away.
 - **s6 (3 min)**  
-  *Parent does:* Compare the two numbers. Ask your child what they think, what they saw, and why.  
-  *Parent says:* Were your wrinkly fingers faster? Scientists have found different answers. What did you find?  
-  *Child mode:* Which was faster? What do you think wrinkles are for?
+  *Parent does:* Put the two numbers side by side. Then ask the question below.  
+  *Parent says:* Scientists have found different answers to this question. Now you have your own numbers.  
+  *Child mode:* Look at your two numbers. Which one is bigger?
   - Ask: What did your test show? (good: My wrinkly fingers moved more marbles.; They were about the same.; One test is not enough to be sure.)
   - Note: Any result is a real result. In a test in 2013, wrinkled fingers moved wet things faster. In a test in 2014, they did not help. A strong answer says what happened, and that more tests, with more people, would help to decide.
   - Check: Two scientists did the wrinkly finger test and got different answers. What should scientists do next? → **Do more careful tests with more people**
 
 ## Activities
 ### a1 · The Paintbrush Gill: why a fish needs water (8 min)
-- **record:** Draw the brush in the water and out of the water.
+- **record:** Tell a grown-up what the hairs did in the water and what they did in the air. Or take a photo of each.
 - **s1 (2 min)**  
   *Parent does:* Look at the dry brush closely with your child.  
-  *Parent says:* Look at all these thin hairs. A fish's gills are made of many thin flaps. The flaps look a little like these hairs.  
-  *Child mode:* Look at the brush hairs. A fish's gills have thin flaps that look like these hairs.
+  *Parent says:* A fish breathes with gills. Gills are many thin flaps behind her head. They look a little like these hairs.  
+  *Child mode:* Look closely at the hairs. Touch them gently.
 - **s2 (3 min)**  
   *Parent does:* 1. Hold the brush in the glass of water. 2. Gently swish it. 3. Look at the hairs from the side of the glass.  
-  *Parent says:* What do the hairs do in the water?  
-  *Child mode:* Swish the brush in the water. Look at the hairs.
+  *Parent says:* Let's see what the hairs do in water.  
+  *Child mode:* Swish the brush. Watch the hairs.
   - Ask: What happened to the hairs in the water? (good: They spread out.; They floated apart, each one on its own.)
 - **s3 (3 min)**  
   *Parent does:* Lift the brush out of the water and look again.  
-  *Parent says:* Now what happens to the hairs out of the water? What would happen to a fish's gills in air?  
-  *Child mode:* Lift it out. What happened to the hairs?
+  *Parent says:* Now the hairs are in air, not in water.  
+  *Child mode:* Lift the brush out. What did the hairs do?
   - Ask: Why can't most fish breathe in air? (good: Their gills stick together, like the hairs.; The flaps clump, so there is no room for air to reach them.)
   - Note: In water, the gill flaps spread apart, so lots of their surface touches the water and takes in oxygen. In air, they stick together into a clump and dry out. That is why most fish cannot breathe for long out of water, even though air has more oxygen than water.
   - Check: Out of water, the brush hairs stuck together. What happens to a fish's gills in air? → **They stick together and dry out**
 ### a2 · Camel Close-up: find six desert adaptations (15 min)
-- **record:** A drawing of a camel with six labels.
+- **record:** Six paper slips, each with a camel part matched to its desert problem. Take a photo of them.
 - **s1 (5 min)**  
-  *Parent does:* 1. Look at the camel photo together. 2. Find the hump, the eyelashes, the nostrils, the fur on the back, the knee pads and the feet.  
-  *Parent says:* Let's be detectives. Can you find six parts of this camel that help her in the desert?  
-  *Child mode:* Find six desert parts on the camel. Point to each one.
+  *Parent does:* 1. Look at the camel photo together. 2. Name the parts one at a time: the hump, the eyelashes, the nostrils, the fur on the back, the knee pads and the feet. 3. Your child points to each one on the photo.  
+  *Parent says:* Let's be detectives. I will name a part, and you find it on the camel.  
+  *Child mode:* Point to each part your grown-up names.
 - **s2 (5 min)**  
   *Parent does:* For each part, ask your child what problem of the desert it helps with.  
-  *Parent says:* What is the hump for? Why do you think her eyelashes are so long?  
-  *Child mode:* What does each part help with? Say it out loud.
+  *Parent says:* What do you think the hump is for?  
+  *Child mode:* Guess what each part is for. Say it out loud.
   - Ask: Which desert problem do the long eyelashes help with? (good: Sand blowing in her eyes.; The sandstorm.)
   - Note: Hump: a store of fat for days with little food. Eyelashes: keep blowing sand out. Nostrils: close to slits in a sandstorm. Back fur: keeps the sun's heat off her skin. Knee and chest pads: let her kneel on hot sand. Wide feet: spread out so she does not sink into soft sand.
 - **s3 (5 min)**  
-  *Parent does:* 1. Your child tries to close their nostrils without using their fingers (most people cannot, but a camel can). 2. Then they draw the camel and label the six parts. Your child can say the labels and a grown-up writes them.  
-  *Parent says:* Can you close your nose without your fingers, like a camel? Most people cannot. A camel can, and it keeps sand out of her nose in a sandstorm. Now draw the camel.  
-  *Child mode:* Try to close your nose without your fingers. Then draw the camel.
+  *Parent does:* 1. Your child tries to close their nostrils without using their fingers (most people cannot, but a camel can). 2. Write the six part names on six paper slips. Write the six desert problems on six more slips: little food, blowing sand, sand in the nose, hot sun on her back, soft sand, hot ground. 3. Your child matches each part to its problem.  
+  *Parent says:* Can you close your nose without using your fingers, like a camel can? Most people cannot. Now match each camel part to the problem it helps with.  
+  *Child mode:* Try to close your nose without your fingers. Then match each part to its problem.
   - Check: What does a camel do with her nostrils in a sandstorm? → **She closes them to thin slits**
 ### a3 · Dry Home or Wet Home? Read a plant's leaves (15 min)
-- **record:** Draw each leaf. Write 'dry home' or 'wet home' under each one.
+- **record:** Take a photo of your two piles. Or write each plant's name under 'dry home' or 'wet home'.
 - **s1 (5 min)**  
-  *Parent does:* Put the plants or leaves side by side. Let your child look at and gently feel each one.  
-  *Parent says:* Feel each leaf. Is it thick or thin? Big or small? Waxy or soft?  
-  *Child mode:* Feel each leaf. Thick or thin? Waxy or soft?
+  *Parent does:* Put the plants or leaves side by side. Let your child look at and gently feel each one. Do not let them touch cactus spines.  
+  *Parent says:* Feel each leaf. Is it thick or thin? Big or small? Waxy, which means smooth and shiny like a candle, or soft?  
+  *Child mode:* Find the thickest leaf. Then find the thinnest.
 - **s2 (5 min)**  
-  *Parent does:* Ask your child to guess which plants come from dry places and which from wet places, and why.  
+  *Parent does:* Ask your child to sort the plants into two piles, dry place and wet place, and to say why.  
   *Parent says:* Which of these do you think comes from a dry place? What makes you think so?  
-  *Child mode:* Which plant comes from a dry place? Why?
+  *Child mode:* Make two piles: dry place and wet place.
   - Ask: Why might a plant from a dry place have thick leaves? (good: To keep water inside.; So the water does not dry out.)
 - **s3 (5 min)**  
   *Parent does:* Tell your child the answers and compare with the guesses.  
-  *Parent says:* Aloe and cactus come from dry places. The money plant comes from rainforests. Were you right? What do you think about the others?  
+  *Parent says:* Aloe and cactus come from dry places. The money plant comes from rainforests. Were you right?  
   *Child mode:* Check your guesses. How many were right?
   - Note: Aloe vera probably comes from dry lands in Arabia. Most cactus plants come from dry parts of the Americas. The money plant grew wild in a rainforest on an island in the Pacific Ocean, climbing up trees. Tulsi and curry leaves are from India. For these two, any guess with a reason is a good answer.
   - Check: A plant has very thick, juicy leaves. Where does the plant's family most likely come from? → **A dry place**
 ### a4 · Fish at the Market (if your family buys whole fish) (10 min)
-- **record:** Draw the fish with every fin, and write how many fins you counted.
+- **record:** Write how many fins you counted. Take a photo of the fish if you like.
 - **s1 (4 min)**  
   *Parent does:* Put the fish on a plate. Count the fins together: one on the back, one tail fin, two at the sides near the head, two under the belly and one underneath near the tail. A rohu or mathi has seven. Other fish can have a different number.  
-  *Parent says:* Let's count every fin. Point to each one as you count.  
-  *Child mode:* Count every fin on the fish.
+  *Parent says:* Let's count every fin together.  
+  *Child mode:* Point to each fin and count out loud.
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* Lift the flap behind the eye and show your child the gills.  
   *Parent says:* These red, feathery parts are the gills. This is how the fish took oxygen from the water.  
   *Child mode:* Look under the flap. Those red parts are gills.
+  - Check: What are the red, feathery parts under the flap behind a fish's eye? → **Gills**
 - **s3 (3 min)**  
   *Parent does:* Let your child gently feel the scales from head to tail, then tail to head. Wash hands after.  
-  *Parent says:* Feel the scales from head to tail. Now the other way. Which way is smoother? Why might that help a fish?  
-  *Child mode:* Feel the scales both ways. Which way is smooth?
+  *Parent says:* Feel the scales from head to tail. Now feel them from tail to head.  
+  *Child mode:* Which way feels smoother?
   - Ask: Why might the scales be smooth from head to tail? (good: So the fish slides forward through the water.; Because the fish swims head first.)
-  - Check: What are the red, feathery parts under the flap behind a fish's eye? → **Gills**
 
 ## Projects
 ### p1 · A Camel and a Fish from Waste (40 min, 2 days)
-- **record:** The two models, each with labels, and a photo or drawing of the fish floating.
+- **record:** The two models, each with labels, and a photo of the fish floating.
 - **schedule:** day 1: Make the camel. Add a hump, long legs and wide paper feet. Label the four parts. (20 min); day 2: Tape cardboard fins onto the bottle fish. Label the fins. Float the bottle and see how it sits in the water. (20 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Tape the legs to the box. 2. Tape a ball of newspaper on top as the hump. 3. Cut wide, round paper feet. 4. Draw long eyelashes. 5. Write a small label for each part.  
-  *Parent says:* What does our camel need for the desert? Let's give her every part we learned about.  
-  *Child mode:* Build the camel. Add a hump, long legs and wide feet. Label them.
+  *Parent does:* 1. Tape the legs to the box. 2. Tape a ball of newspaper on top as the hump. 3. Cut wide, round paper feet and tape them on. 4. Cut thin paper strips for long eyelashes and tape them on. 5. Write a small label for each part.  
+  *Parent says:* Let's build four parts a camel needs in the desert: a hump, long legs, wide feet and long eyelashes.  
+  *Child mode:* Build the camel's four parts. Write a small label for each.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. Cut a tail fin, a back fin and two side fins from cardboard. 2. Cover each with sticky tape so water does not soak it. 3. Tape them onto the bottle fish. 4. Label each fin.  
   *Parent says:* Where do the fins go on a real fish? What does each one do?  
@@ -402,7 +402,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   - Wait: Day 2
 - **s3 (5 min)**  
   *Parent does:* Put the bottle fish in a bucket of water, with the same amount of air inside that made it float in the Bottle Fish experiment. Push it gently and watch.  
-  *Parent says:* How does it sit in the water? Push it gently. Do the fins change how it moves?  
+  *Parent says:* How does it sit in the water? Push it gently and watch what it does.  
   *Child mode:* Float your fish. Push it gently. Watch the fins.
   - Ask: Which part of your camel would be no use to the fish? Why? (good: The wide feet, because the fish never walks on sand.; The hump, because the fish lives in water.)
   - Check: Why did you give the camel wide feet? → **So she does not sink into soft sand**
@@ -416,7 +416,7 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
 - **creative:** Tie a small plastic bag with a little air in it to the outside, like a swim bladder you can change.; Use a soft plastic bottle that only just floats. Squeeze it gently, and it sinks. Let go, and it rises. A fish changes the size of her swim bladder in a similar way, by adding gas or letting it out.
 - **s1 (3 min)**  
   *Parent does:* Read the challenge. Remind your child how the bottle sank with no air and floated with a little air.  
-  *Parent says:* In the Bottle Fish experiment, our bottle sank with no air and floated with a little air. Can you make it hang in the middle of the water, like a real fish?  
+  *Parent says:* In the Bottle Fish experiment, our bottle sank with no air and floated with a little air. A real fish can hang still in the middle of the water.  
   *Child mode:* Can you make the bottle hang in the middle?
 - **s2 (12 min)**  
   *Parent does:* Your child tries ideas and tests each one. Let them try, fail and change the plan.  
@@ -424,9 +424,9 @@ That night she drew Moti and the mathi side by side in her notebook. Under Moti 
   *Child mode:* Try one change. Did it hover? Try again.
   - Note: Hanging perfectly still is very hard. Sinking very slowly, or floating just under the top, counts as a win. Help only if your child is stuck after a few tries.
 - **s3 (5 min)**  
-  *Parent does:* Test the best try for a count of ten. Talk about why it was so hard.  
-  *Parent says:* Count to ten. Why was it so hard to get just right?  
-  *Child mode:* Count to ten. Why was it hard?
+  *Parent does:* Test the best try for a count of ten. Then ask the question below.  
+  *Parent says:* Let's see if it stays in the middle for a count of ten.  
+  *Child mode:* Count to ten out loud while the bottle hangs.
   - Ask: Why is it hard to make the bottle hover? (good: A tiny bit too much air and it floats.; A tiny bit too little and it sinks.)
   - Check: A fish wants to go a little deeper. What can she do with her swim bladder? → **Let a little gas out of it**
 

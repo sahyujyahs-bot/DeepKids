@@ -353,7 +353,7 @@
      "what": "Swirl the marble in a plate, build the card wall, guess the path, test two lengths of wall, and talk about why."
     }
    ],
-   "record": "Fill in the results table. Draw the wall from above. Then draw an arrow to show the path the marble really took.",
+   "record": "Fill in the results table. Take a photo of the paper with the dots where the marble went, or draw the wall from above and an arrow for the path the marble took.",
    "setup": [
     {
      "art": "A girl swirling a large steel plate with a rim in small circles on the floor, with a marble running round the inside of the rim.",
@@ -382,7 +382,7 @@
      "mins": 3,
      "do": "1. Put the marble in the steel plate on the floor. 2. Your child moves the plate in small circles until the marble runs round the rim. 3. Then hold the plate still and watch.",
      "say": "Swirl the plate gently. What is the marble doing? What keeps it from rolling away?",
-     "kid": "Swirl the plate gently. Watch the marble run round. What keeps it in?",
+     "kid": "Move the plate in small circles. Watch the marble run round the rim.",
      "ask": [
       {
        "q": "What keeps the marble going round?",
@@ -409,7 +409,7 @@
      "mins": 3,
      "do": "1. Mark a start dot at one end of the wall, on the inside. 2. At the far end, draw three paths with the sketch pen. 3. A keeps curving, B goes straight on, C swings out wide. 4. Ask for a guess and a reason.",
      "say": "The marble will run round the wall. Then the wall ends. Will it take path A, B or C? Why do you think so?",
-     "kid": "When the wall ends, will the marble go A, B or C? Why?",
+     "kid": "Pick A, B or C for where the marble goes when the wall ends.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -443,7 +443,7 @@
      "mins": 2,
      "do": "1. Your child holds the middle of the wall lightly from outside with one finger. 2. Roll the marble again. 3. Then talk about what they saw, and why.",
      "say": "Hold the wall lightly from outside. Did you feel the marble knock against it? So what was the wall doing to the marble all the way round?",
-     "kid": "Hold the wall lightly. Do you feel a little knock? What did the wall do?",
+     "kid": "Hold the wall lightly with one finger. Roll the marble. Can you feel a little knock?",
      "ask": [
       {
        "q": "Why did the marble go straight when the wall ended?",
@@ -544,8 +544,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Draw the results table. 2. Ask your child to guess which height will send the ball furthest, and why.",
-     "say": "We will roll a ball down a ramp, without pushing it. Which ramp will send it furthest: 1 book, 2 books or 3? Why do you think so?",
-     "kid": "Which ramp will send the ball furthest? Why do you think so?",
+     "say": "We will roll a ball down a ramp, without pushing it. Guess which ramp will send it furthest: 1 book, 2 books or 3.",
+     "kid": "Which ramp will send the ball furthest?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -570,15 +570,15 @@
      "mins": 7,
      "do": "1. Add a second book and do three tries. 2. Add a third book and do three tries. 3. Each time, count the hand-spans from the end of the ramp to the ball.",
      "say": "Now the ramp is steeper. Watch the ball at the bottom of the ramp. Is it going faster? Count your hand-spans.",
-     "kid": "Add a book. Let go again. Count the hand-spans.",
+     "kid": "Add a book. Let go again. Stretch your hand wide and count how many hand-spans the ball rolled.",
      "parent": "From 3 books the ball comes off the ramp faster and rolls further. Count in your child's hand-spans, so the numbers are theirs."
     },
     {
      "id": "s4",
      "mins": 5,
      "do": "Look at the table together. Ask your child which ramp sent the ball furthest, and why.",
-     "say": "Which ramp sent the ball furthest? Nobody pushed the ball. So what made it go faster?",
-     "kid": "Which ramp won? Nobody pushed the ball. What made it go?",
+     "say": "Look at the table. Which ramp sent the ball furthest? Nobody pushed the ball.",
+     "kid": "Look at your table. Which ramp won?",
      "ask": [
       {
        "q": "What made the ball go faster on the steep ramp?",
@@ -633,7 +633,7 @@
      "what": "Squash, bend, twist and stretch foil and a rubber band, and sort the changes."
     }
    ],
-   "record": "Draw your foil shape. Write or draw each change in the STAYS or SPRINGS BACK column.",
+   "record": "Your STAYS and SPRINGS BACK sheet, with a photo or a drawing of your favourite foil shape.",
    "setup": [
     {
      "art": "A child's hands squashing a sheet of kitchen foil into a ball on a table.",
@@ -673,9 +673,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Your child writes or draws each change in the STAYS or SPRINGS BACK column.",
+     "do": "Lay the paper flat. For each change, your child puts the foil or the band in the STAYS or SPRINGS BACK column. They say what they did to it.",
      "say": "Which shapes stayed? Which sprang back? Why do you think they are different?",
-     "kid": "Which shapes stayed? Which sprang back?",
+     "kid": "Sort each change: does the shape stay, or spring back?",
      "ask": [
       {
        "q": "What changed the shape each time?",
@@ -710,7 +710,7 @@
      "what": "Squeeze an empty bottle with the cap off, then with the cap on, and compare."
     }
    ],
-   "record": "Draw the bottle with the cap off and with the cap on, while you squeeze it. Write which was harder.",
+   "record": "Tell a grown-up which was harder to squeeze, cap on or cap off, and which sprang back. They write it down. Add a drawing of the bottle if you like.",
    "setup": [
     {
      "art": "A child squeezing an open empty plastic bottle near their cheek, with little lines showing air rushing out of the neck.",
@@ -727,7 +727,7 @@
      "mins": 3,
      "do": "1. Take the cap off. 2. Your child holds the neck near their cheek and squeezes the bottle hard. 3. Then they let go.",
      "say": "Squeeze the bottle with the cap off. What do you feel on your cheek? Now let go. Does it go back?",
-     "kid": "Cap off. Squeeze near your cheek. What do you feel?",
+     "kid": "Take the cap off. Hold the neck near your cheek and squeeze hard.",
      "parent": "Air rushes out of the neck onto the cheek. When your child lets go, the bottle may stay dented, or come back slowly with a crackle as air goes back in."
     },
     {
@@ -751,8 +751,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Talk about what your child felt.",
-     "say": "With the cap on, the air was trapped inside. Your squeeze pushed on the air, and the air pushed back. Which bottle sprang back to its shape?",
-     "kid": "The air was trapped. It pushed back. Which bottle sprang back?",
+     "say": "With the cap on, the air was trapped inside. Your squeeze pushed on the air, and the air pushed back.",
+     "kid": "Which sprang back to its shape: cap on or cap off?",
      "parent": "With the cap on, the squeezed air pushes outwards on the plastic, so the bottle springs back at once. Air is invisible, but it can push."
     }
    ]
@@ -788,7 +788,7 @@
      "what": "Roll a ball at a wall straight on and at a slant, mark the paths, then try to hit a target by bouncing off the wall."
     }
    ],
-   "record": "Draw the wall from above. Draw arrows for the ball's path before and after it hit the wall.",
+   "record": "Take a photo of the paper slips that mark the path in and the path out. Or draw the wall from above with an arrow in and an arrow out.",
    "setup": [
     {
      "art": "A top view of a child rolling a ball straight at a wall, with an arrow going to the wall and an arrow coming straight back.",
@@ -833,7 +833,7 @@
      "mins": 5,
      "do": "1. Put the tumbler on its side, a little away from the wall. 2. Your child tries to bounce the ball off the wall so it rolls into the tumbler. 3. Count the tries it takes.",
      "say": "Can you get the ball into the tumbler by bouncing it off the wall? Where on the wall should you aim?",
-     "kid": "Bounce the ball off the wall into the tumbler. Where will you aim?",
+     "kid": "Bounce the ball off the wall so it rolls into the tumbler.",
      "parent": "A ball that hits the wall at a slant comes off at about the same slant the other way. Spin and bumps on the floor change it a little, so it takes a few tries."
     },
     {
@@ -841,7 +841,7 @@
      "mins": 2,
      "do": "Talk about what pushed the ball.",
      "say": "The wall did not move. But the ball changed direction. What pushed the ball?",
-     "kid": "The wall did not move. What pushed the ball?",
+     "kid": "Tell your grown-up what you think pushed the ball.",
      "parent": "The wall pushed the ball. A wall pushes back on anything that pushes it."
     }
    ]
@@ -851,7 +851,7 @@
    "title": "Change Spotter: a tally from the window and the kitchen",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you watch from a window and in the kitchen for 10 minutes. You make a tally of every change of shape, speed or direction you see.",
+   "context": "In this activity you watch from a window and in the kitchen for 10 minutes. You make a tally of every change of shape, speed or direction you see. You find out which kind of change you see most.",
    "materials": [
     {
      "item": "a sheet of paper with three columns: SHAPE, SPEED, DIRECTION",
@@ -890,7 +890,7 @@
      "mins": 5,
      "do": "1. Stand at a window with the tally sheet. 2. For every change your child sees, they make a tally mark in the right column.",
      "say": "Watch the road. A bus slowing down is a change of speed. A scooter turning is a change of direction. Make a mark for each one.",
-     "kid": "Watch the road. Make a mark for every change you see.",
+     "kid": "Watch the road. Make a mark for each thing that speeds up, slows down or turns.",
      "parent": "Crows and pigeons landing count as speed changes. A bird swooping round counts as direction."
     },
     {
@@ -905,7 +905,7 @@
      "mins": 1,
      "do": "Count each column.",
      "say": "Which column has the most marks? What pushed or pulled each thing?",
-     "kid": "Count each column. Which has the most?"
+     "kid": "Count the marks in each column."
     }
    ]
   }
@@ -1045,7 +1045,7 @@
      "mins": 2,
      "do": "Count the points. Then ask your child to think of one thing they saw today that changed shape, speed or direction.",
      "say": "Think of something you saw today that changed shape, speed or direction. Which of the three was it? What pushed or pulled it?",
-     "kid": "Think of one thing you saw today that changed. Was it shape, speed or direction? What pushed or pulled it?",
+     "kid": "Pick one thing you saw today that changed.",
      "parent": "Any real example works. A good answer names the change and the push or pull, for example: a bus slowing down is a change of speed, and the brakes rub the wheels.",
      "check": {
       "t": "mcq",
@@ -1124,7 +1124,7 @@
      "mins": 3,
      "do": "Make the stick and the goal. Set up Course 1.",
      "say": "You can only push the ball with the stick. Where will you push it to make it go faster? To slow it down? To turn it?",
-     "kid": "Push only with the stick. Where do you push to turn the ball?",
+     "kid": "Push the ball with your stick. See what happens when you push from different sides.",
      "ask": [
       {
        "q": "Where should you push to turn the ball?",
@@ -1141,7 +1141,7 @@
      "mins": 10,
      "do": "Play the courses by the rules. Write the pushes on the score sheet.",
      "say": "Count your pushes out loud. Which push made the ball turn?",
-     "kid": "Play the course. Count your pushes out loud.",
+     "kid": "Play the course. Use as few pushes as you can.",
      "parent": "Gentle pushes work best. A push from behind speeds the ball up, from the front slows it, and from the side turns it."
     },
     {
@@ -1149,7 +1149,7 @@
      "mins": 2,
      "do": "Add up the scores. Talk about which course was hardest.",
      "say": "Which course needed the most pushes? Why was it hard?",
-     "kid": "Add up your pushes. Which course was hardest?",
+     "kid": "Add up your pushes on the score sheet.",
      "check": {
       "t": "mcq",
       "q": "A ball is rolling towards the goal but will miss it on the left. Where should you push it?",
@@ -1171,7 +1171,7 @@
    "title": "My Force Book: shape, speed and direction",
    "mins": 30,
    "days": 3,
-   "context": "In this project you make a small book with three pages: shape, speed and direction. Each day you find, try and draw one kind of change.",
+   "context": "In this project you make a small book with three pages: shape, speed and direction. Each day you find and try one kind of change, and put it in the book. At the end you read the book to someone.",
    "materials": [
     {
      "item": "2 sheets of paper folded in half and stapled or stitched into a small book",
@@ -1190,7 +1190,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Make the book. Shape page: change the shape of three things and draw them before and after."
+     "what": "Make the book. Shape page: change the shape of three things, write what you did, and draw one before and after."
     },
     {
      "day": 2,
@@ -1200,10 +1200,10 @@
     {
      "day": 3,
      "mins": 10,
-     "what": "Direction page: turn a ball three ways, and draw each path with arrows. Read the book to someone."
+     "what": "Direction page: turn a ball three ways, and write a line or add a photo for each. Read the book to someone."
     }
    ],
-   "record": "The finished book, with a before and after drawing on the shape page and arrows on the speed and direction pages.",
+   "record": "The finished book: what you did to three things on the shape page, arrows on the speed page, and a line or a photo for each way of turning the ball on the direction page.",
    "setup": [
     {
      "art": "Two sheets of paper folded in half and stapled into a small book, with the cover reading MY FORCE BOOK.",
@@ -1211,36 +1211,36 @@
     },
     {
      "art": "An open book page headed SHAPE with three before and after drawings: a ball of foil, a roti, a squeezed sponge.",
-     "caption": "2. Day 1: draw shape changes, before and after."
+     "caption": "2. Day 1: change three shapes and draw one, before and after."
     },
     {
      "art": "An open book page headed DIRECTION with a ball drawn with curved arrows bouncing off a wall and turning round a book.",
-     "caption": "3. Day 3: draw direction changes with arrows."
+     "caption": "3. Day 3: turn a ball three ways and write a line for each."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Fold and staple the book. 2. Your child writes MY FORCE BOOK on the cover. 3. On the SHAPE page, they change three things and draw each one before and after.",
-     "say": "Find three things you can change the shape of. Draw each one before you change it, and after.",
-     "kid": "Change the shape of three things. Draw before and after."
+     "do": "1. Fold and staple the book. 2. Your child writes MY FORCE BOOK on the cover. 3. On the SHAPE page, they change three things and write what they did to each (squashed, bent, stretched). They draw one of them before and after.",
+     "say": "Find three things you can change the shape of. Write what you did to each one. Draw one of them before and after.",
+     "kid": "Change the shape of three things. Write what you did to each."
     },
     {
      "id": "s2",
      "mins": 10,
      "wait": "Day 2",
-     "do": "1. On the SPEED page, your child rolls a ball. 2. They make it faster with a push from behind. 3. Then they make it slower with a push from the front. 4. They draw both pushes with arrows.",
-     "say": "Make the ball go faster. Now make it slower. Draw an arrow to show where you pushed each time.",
-     "kid": "Make the ball faster, then slower. Draw arrows for your pushes."
+     "do": "1. On the SPEED page, your child rolls a ball. 2. They make it faster with a push from behind. 3. Then they make it slower with a push from the front. 4. On the page they write FASTER and SLOWER. They show each push with an arrow, drawn or cut from paper.",
+     "say": "Make the ball go faster. Now make it slower. Where did you push each time?",
+     "kid": "Make the ball faster, then slower. Show each push with an arrow, drawn or cut from paper."
     },
     {
      "id": "s3",
      "mins": 10,
      "wait": "Day 3",
-     "do": "1. On the DIRECTION page, your child turns a ball three ways: with a side push, off a wall, and round a curve. 2. They draw each path with arrows. 3. They read the whole book to someone.",
-     "say": "Turn the ball three different ways. Draw each path. Then read your book to someone, and tell them what pushed each time.",
-     "kid": "Turn the ball three ways. Draw each path. Read your book to someone.",
+     "do": "1. On the DIRECTION page, your child turns a ball three ways: with a side push, off a wall, and round a curve. 2. They mark each path with paper slips on the floor. 3. On the page they write one line about each, or tape in a photo. 4. They read the whole book to someone.",
+     "say": "Turn the ball three different ways. Write one line about each. Then read your book to someone, and tell them what pushed each time.",
+     "kid": "Turn the ball three ways. Write one line about each. Read your book to someone.",
      "ask": [
       {
        "q": "What is the same about every page of your book?",
@@ -1305,7 +1305,7 @@
      "mins": 3,
      "do": "Set up the tumbler, the book and the start line. Read the challenge together.",
      "say": "The book is in the way, so the ball cannot go straight. How can you make it turn without touching it?",
-     "kid": "The book is in the way. How can walls turn the ball?"
+     "kid": "Look at the book in the way. Where could a wall go?"
     },
     {
      "id": "s2",
@@ -1320,7 +1320,7 @@
      "mins": 5,
      "do": "Talk about what worked.",
      "say": "Which wall did the turning? What did each wall do to the ball?",
-     "kid": "Which wall turned the ball? What did it do?",
+     "kid": "Point to the wall that turned the ball.",
      "check": {
       "t": "mcq",
       "q": "The ball leaves the last wall and misses the tumbler. Which way did it go after the wall?",

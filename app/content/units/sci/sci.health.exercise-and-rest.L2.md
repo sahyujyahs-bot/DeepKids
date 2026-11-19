@@ -181,21 +181,21 @@ Then they both laughed so much that they could not count anything.
 
 ## Games
 ### g1 · Who Sleeps How Long? A matching card game (15 min)
-- **rules:** Cut out the 12 cards. Mix them up and lay them face down in rows.; On your turn, turn over two cards and read them aloud.; If they are a sleeper and their sleep time, check the back. If the back says they are a pair, keep them and take another turn.; If they are not a pair, turn them face down again. The next player has a turn.; When all the pairs are found, the player with the most pairs wins.; At the end, everyone puts the 6 sleepers in a line, from the shortest sleeper to the longest.; If two players have the same number of pairs, they both win.
+- **rules:** Cut out the 12 cards. Mix them up and lay them face down in rows.; On your turn, turn over two cards and read them aloud.; If they are a sleeper and their sleep time, check the back. If the back says they are a pair, keep them and take another turn.; If they are not a pair, turn them face down again. The next player has a turn.; When all the pairs are found, the player with the most pairs wins.; At the end, everyone puts the 6 pairs in a line, from the shortest sleep to the longest.; If two players have the same number of pairs, they both win.
 - **Printable cards: 12 cards to cut out: 6 sleepers and 6 sleep times:** A wild African elephant (back: Pair: about 2 hours a day, mostly standing up) [picture]; About 2 hours a day, mostly standing up (back: Pair: a wild African elephant); A grown-up human (back: Pair: about 7 to 9 hours); About 7 to 9 hours (back: Pair: a grown-up human); A child of 7 (back: Pair: about 9 to 12 hours); About 9 to 12 hours (back: Pair: a child of 7); A house cat (back: Pair: about 12 to 15 hours, in many naps) [picture]; About 12 to 15 hours, in many naps (back: Pair: a house cat); A newborn baby (back: Pair: about 14 to 17 hours, waking often to feed); About 14 to 17 hours, waking often to feed (back: Pair: a newborn baby); A little brown bat (back: Pair: about 20 hours, hanging upside down) [picture]; About 20 hours, hanging upside down (back: Pair: a little brown bat)
 - **s1 (2 min)**  
-  *Parent does:* 1. Cut out and mix the cards. 2. Ask your child to guess which sleeper sleeps the longest and which the shortest.  
+  *Parent does:* 1. Cut out the cards. Lay the six sleeper cards face up, and keep the sleep time cards aside. 2. Ask your child to guess which sleeper sleeps the longest and which the shortest.  
   *Parent says:* Which of these sleepers do you think sleeps the longest in a day? Which the shortest? Why?  
-  *Child mode:* Which sleeper sleeps the longest? Which sleeps the shortest? Why?
+  *Child mode:* Look at the six sleepers. Point to the one you think sleeps longest. Then point to the shortest.
 - **s2 (10 min)**  
   *Parent does:* 1. Lay the cards face down. 2. Take turns to turn over two cards and read them aloud. 3. Keep the pairs.  
-  *Parent says:* Read both cards aloud. Is that a sleeper and their sleep time?  
-  *Child mode:* Turn over two cards. Read them. Are they a pair?
+  *Parent says:* Your turn. Pick two cards and read them out loud for everyone.  
+  *Child mode:* Do these two cards go together as a pair?
   - Note: The elephant figure comes from a 2017 study of two wild elephant mothers in Botswana. Elephants in zoos often sleep longer.
 - **s3 (3 min)**  
-  *Parent does:* 1. Put the six sleeper cards in a line, from shortest sleep to longest. 2. Ask the questions below.  
-  *Parent says:* Where do you come in the line? Why do you think a baby sleeps so much more than a grown-up?  
-  *Child mode:* Put the sleepers in a line. Where are you? Why does a baby sleep so much?
+  *Parent does:* 1. Put the six pairs in a line, from the shortest sleep to the longest. 2. Ask the questions below.  
+  *Parent says:* Where do you come in the line? Who sleeps more than you, and who sleeps less?  
+  *Child mode:* Put the six pairs in a line, shortest sleep first. Find the card for a child of 7.
   - Ask: Why does a baby sleep so much? (good: Because a baby is growing very fast.; Because a baby's body and brain do a lot of growing, and growing happens in sleep.)
   - Check: Which of these sleeps the shortest time in a day? → **A wild African elephant**
 ### g2 · Healthy Day Ladders: a board game (20 min)
@@ -205,16 +205,16 @@ Then they both laughed so much that they could not count anything.
 - **s1 (5 min)**  
   *Parent does:* 1. Print the board, or help your child draw 30 squares in 5 rows of 6. 2. Number them and write the words for each square. 3. Draw the ladders and slides.  
   *Parent says:* Let's make the board together. Ladders are things that help the body. Slides are things that tire it out.  
-  *Child mode:* Draw 30 squares and number them. Draw the ladders and the slides.
+  *Child mode:* Make the board: 30 squares numbered 1 to 30, with the ladders and slides. Or use the printed board.
 - **s2 (13 min)**  
   *Parent does:* 1. Take turns to roll and move. 2. Read the square you land on and do what it says. 3. On a ladder or a slide, give a reason.  
-  *Parent says:* You landed on a ladder! Read it aloud. Why does that help your body?  
-  *Child mode:* Roll and move. Read your square and do it. On a ladder or a slide, say why.
-  - Ask: Why did sitting on the sofa all day send you down? (good: My muscles didn't work, so they don't get stronger.; I didn't move, so I didn't get any exercise.)
+  *Parent says:* Read the square you land on out loud. If it is a ladder or a slide, say why it helps or harms the body.  
+  *Child mode:* Roll the dice, move, and do what your square says.
+  - Ask: Why does sitting on the sofa all day send you down a slide? (good: My muscles didn't work, so they don't get stronger.; I didn't move, so I didn't get any exercise.)
 - **s3 (2 min)**  
   *Parent does:* 1. Look at the four ladders together. 2. Ask what they have in common, and which one the family can do tomorrow.  
   *Parent says:* Look at the four ladders. What do they all have in common? Which one could we do tomorrow?  
-  *Child mode:* Look at the four ladders. What is the same about them? Which one can you do tomorrow?
+  *Child mode:* Point to the ladder you want to do tomorrow.
   - Note: All four ladders help the body. Skipping and play make muscles, heart and bones stronger. Sleep lets the body grow and mend. Washing hands sends germs away. Good food gives muscles energy. Any ladder your child picks for tomorrow is fine, if they can say what it does for the body.
 
 ## Experiments
@@ -223,12 +223,12 @@ Then they both laughed so much that they could not count anything.
 - **predict:** Sit still and feel your breathing. After one minute of fast dancing, will you take more breaths, fewer, or the same? How many minutes will it take to calm down? Why do you think so?
 - **fair test:** Every count lasts exactly half a minute, timed on a phone or a clock with a seconds hand. The same person counts each time, in the same way. You sit in the same place, in the same way, for every count. The first count, sitting still, shows your normal breathing, so you can compare.
 - **safety:** Dance with clear space around you, away from table corners. Stop if you feel dizzy or have pain in your chest. A child with asthma should keep their inhaler nearby and dance at an easier pace.
-- **record:** Write your guesses at the top. Fill in the table: sitting still, right after dancing, and after 1, 2, 3, 4 and 5 minutes of rest. Draw a tall or short tower of blocks for each count.
+- **record:** Write your guesses at the top. Fill in the table: sitting still, right after dancing, and after 1, 2, 3, 4 and 5 minutes of rest. Show each count as a tower: draw squares, or stack real blocks or bottle caps.
 - **results table:** When I counted | My guess | Breaths in half a minute
 - **s1 (2 min)**  
   *Parent does:* 1. Ask your child to sit still and put one hand on their tummy. 2. Ask the two questions below. 3. Write down both guesses and the reasons.  
   *Parent says:* Feel your tummy go out and in. That is one breath. After a fast dance, will you take more breaths, fewer, or the same? How long will it take to calm down? Why do you think so?  
-  *Child mode:* Put your hand on your tummy. Feel it go out and in. After a fast dance, will you breathe more, or less? Why?
+  *Child mode:* Put your hand on your tummy. Feel it go out and in. That is one breath. Now guess what dancing will do.
   - Ask: Why do you think that? (good: More, because when I run I puff.; The same, because breathing just happens.; It will calm down in one minute, because I get better fast.)
   - Note: Don't say if the guess is right. Many children say 'more'. Fewer children have a guess about how long the calm-down takes, so help them pick a number of minutes.
 - **s2 (3 min)**  
@@ -246,21 +246,21 @@ Then they both laughed so much that they could not count anything.
   *Parent says:* Sit down now, just like before. Hand on your tummy. I'm counting.  
   *Child mode:* Sit down at once. Hand on your tummy. A grown-up counts again.
   - Note: Breaths are often faster and bigger now, sometimes about twice as many as sitting still. Breaths can be hard to see when they come fast. Watch the shoulders and the tummy together.
-  - Check: Right after the dance, how many breaths did you take, compared with sitting still? → **More**
+  - Check: After the dance, did you take more breaths, fewer, or about the same as sitting still? → **More**
 - **s5 (6 min)**  
   *Parent does:* 1. Keep your child sitting still. 2. At 1, 2, 3, 4 and 5 minutes after the dance, count the breaths for half a minute. 3. Write each number. 4. Give a sip of water between counts.  
   *Parent says:* Stay sitting and rest. Every minute I will count again. Let's see how long your breathing takes to calm down.  
   *Child mode:* Stay sitting and rest. A grown-up counts every minute. When is your breathing back to normal?
   - Note: The counts usually drop a little each minute. Breathing often gets back near the first count within a few minutes, but every child is different. If it is not back after 5 minutes, carry on counting until it is.
 - **s6 (2 min)**  
-  *Parent does:* 1. Help your child draw a tower of small squares for each count. 2. Use one square for each breath, or one for every 2 breaths. 3. Ask which tower is tallest, and when the towers got back to the first height.  
+  *Parent does:* 1. Help your child make a tower for each count. They can draw small squares, or stack blocks or bottle caps. 2. Use one square or block for each breath, or one for every 2 breaths. 3. Ask which tower is tallest, and when the towers got back to the first height.  
   *Parent says:* Which tower is the tallest? After how many minutes did your towers get as short as the first one?  
-  *Child mode:* Draw a tower for each count. Which is the tallest? When did they get short again?
+  *Child mode:* Make a tower for each count. Use squares on paper, or real blocks.
   - Ask: When was your breathing back to normal? (good: After 3 minutes it was the same as at the start.; It took 4 minutes.)
 - **s7 (3 min)**  
   *Parent does:* 1. Ask the three questions below, one at a time. 2. Write the answers down. 3. Only after your child has answered, read the card 'Why you breathe faster when you move'.  
   *Parent says:* What do you think dancing does to your breathing now? What did you see that tells you so? Why do you think it happened?  
-  *Child mode:* What does dancing do to your breathing? What did you see? Why did it happen?
+  *Child mode:* Think about your results. Tell your grown-up what you found out.
   - Ask: What do you think dancing does to your breathing now? (good: Dancing makes me breathe faster.; It takes a few minutes for my breathing to calm down.)
   - Ask: What did you see? (good: I took 11 breaths sitting still and 22 after dancing. It took 4 minutes to get back to 11.)
   - Ask: Why do you think it happened? (good: My legs were working hard, so they needed more air.; My body needed more oxygen for dancing.)
@@ -269,12 +269,12 @@ Then they both laughed so much that they could not count anything.
 - **predict:** Look at the three moves. Which one will make you breathe the fastest, and which the slowest? Why do you think so?
 - **fair test:** Each move lasts exactly one minute. You count for half a minute straight after each move, sitting in the same place. You rest between moves until your breathing is back to your sitting count, so each move starts from the same calm breathing.
 - **safety:** Make sure there is clear space around you for star jumps. Stop if you feel dizzy or have pain in your chest. A child with asthma should keep their inhaler nearby and go at an easier pace.
-- **record:** Fill in the table. Draw three towers of blocks, one for each move, and colour the tallest one.
+- **record:** Fill in the table. Make three towers, one for each move, with drawn squares or real blocks or bottle caps. Mark the tallest one.
 - **results table:** Move | My guess: fast, middle or slow breathing? | Breaths in half a minute after the move
 - **s1 (2 min)**  
   *Parent does:* 1. Show your child the three moves. 2. Ask for a guess and a reason. 3. Count their breaths sitting still for half a minute, and write it down.  
   *Parent says:* Which move will make you breathe the fastest? Which the slowest? Why do you think so? Now sit still, and I will count your normal breathing.  
-  *Child mode:* Which move will make you puff most? Why? Now sit still while a grown-up counts.
+  *Child mode:* Look at the three moves. Guess which will make you puff most. Then sit still while a grown-up counts.
   - Ask: Why do you think so? (good: Star jumps, because I move my whole body fast.; Stretching, because it pulls my muscles hard.)
   - Note: Some children guess that stretching will be hardest, because it can feel hard. That is a good guess to test.
 - **s2 (3 min)**  
@@ -294,92 +294,92 @@ Then they both laughed so much that they could not count anything.
   - Note: If neighbours live below, do the jumps on a folded blanket or on your toes. The count is usually the highest after star jumps.
   - Check: After which move did you breathe the fastest? → **Star jumps**
 - **s5 (4 min)**  
-  *Parent does:* 1. Help your child draw three towers. 2. Ask the three questions below.  
-  *Parent says:* Which move do you now think makes you breathe fastest? What did you see? Why do you think star jumps and stretching were so different?  
-  *Child mode:* Which move made you breathe fastest? What did you see? Why?
+  *Parent does:* 1. Help your child make three towers, one for each move. They can draw squares, or stack blocks or bottle caps. 2. Ask the questions below.  
+  *Parent says:* Which move made you breathe fastest? What did you see? Why do you think the moves were so different?  
+  *Child mode:* Look at your three towers. Tell your grown-up what they show.
   - Ask: Why do you think it happened? (good: Star jumps make my legs and arms work really fast, so they need more air.; Stretching is slow, so my muscles don't need as much oxygen.)
   - Think: Which of the games you play make you breathe as fast as star jumps do? Which are more like stretching?
 
 ## Activities
 ### a1 · Move Like Other Animals: crab, frog, elephant and cat (12 min)
-- **record:** Draw yourself doing your favourite animal move. Draw an arrow to the part of your body that worked hardest.
+- **record:** Do your favourite animal move for your grown-up, or take a photo of it. Say which part of your body worked hardest.
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child how to sit, put hands and feet on the floor, and lift the tummy up. 2. Ask them to walk sideways across the room and back.  
-  *Parent says:* Lift your tummy up like a table. Now walk sideways like a crab on a beach. Which part of you is working?  
-  *Child mode:* Lift your tummy up. Walk sideways like a crab. What part of you is working?
+  *Parent says:* Lift your tummy up like a table. Now walk sideways like a crab on a beach.  
+  *Child mode:* Walk sideways across the room and back. Notice which part of your body works.
   - Ask: Which part worked hardest? (good: My arms.; My tummy, to hold it up.)
 - **s2 (3 min)**  
   *Parent does:* 1. Your child crouches low with hands on the floor. 2. They jump forward as far as they can, five times.  
   *Parent says:* Crouch down low like a frog by a pond. Now jump forward! Five jumps.  
-  *Child mode:* Crouch low like a frog. Jump forward five times!
+  *Child mode:* Count your five jumps. Can you feel your legs working?
   - Note: Use a mat or jump on your toes if people live below you.
 - **s3 (3 min)**  
   *Parent does:* 1. Your child walks slowly round the room with big, heavy steps, swinging their arms together like a trunk. 2. Then they kneel on hands and knees and slowly arch the back up high, then let it dip down, three times.  
   *Parent says:* Walk slowly like an elephant. Now kneel like a cat. Push your back up high, then let it dip down.  
-  *Child mode:* Walk like a slow elephant. Then stretch your back like a cat.
+  *Child mode:* Feel how slow and heavy the elephant walk is. Then feel the cat stretch your back.
 - **s4 (3 min)**  
   *Parent does:* 1. Ask the questions below. 2. Let your child put a hand on their tummy to feel their breathing.  
-  *Parent says:* Which move made you puff the most? Which one was gentle, like a rest?  
-  *Child mode:* Which move made you puff most? Which one was gentle?
+  *Parent says:* Think back over all four moves. Which one was gentle, like a rest?  
+  *Child mode:* Put a hand on your tummy and feel your breathing. Think back over all four moves.
   - Ask: Which made you puff most? (good: The frog jumps, because I jumped with my whole body.; The crab walk made my arms tired.)
   - Think: Working muscles use oxygen. A frog's muscles work hard when she jumps. What would you expect a frog to do with her breathing after many jumps?
 ### a2 · My Bedtime Steps: put what you do before bed in order (12 min)
 - **record:** Stick your bedtime cards in order on a sheet of paper. Put a star on the steps that help you feel sleepy.
 - **s1 (5 min)**  
-  *Parent does:* 1. Ask your child what they do each evening after dinner. 2. Help them draw one step on each card, such as eating dinner, washing, brushing teeth, a story, lights off.  
-  *Parent says:* What do you do after dinner, until you fall asleep? Draw one thing on each card.  
-  *Child mode:* What do you do before bed? Draw one thing on each card.
+  *Parent does:* 1. Ask your child what they do each evening after dinner. 2. Help them write or draw one step on each card, such as eating dinner, washing, brushing teeth, a story, lights off. A grown-up can write the words.  
+  *Parent says:* What do you do after dinner, until you fall asleep? Let's make a card for each thing.  
+  *Child mode:* Make one card for each thing you do before bed. Write it, or draw it.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child lays the cards in order. 2. Ask which steps make them feel calm and sleepy, and which make them feel wide awake.  
   *Parent says:* Which steps make you feel calm and sleepy? Which ones wake you up?  
-  *Child mode:* Put the cards in order. Which ones make you sleepy? Which wake you up?
+  *Child mode:* Put your cards in the order you do them.
   - Ask: What helps you feel sleepy? (good: A story in a quiet room.; When the lights go dim.; A warm bath.)
   - Ask: What keeps you awake? (good: Playing a game on the phone.; Loud TV.; Bright lights in the room.)
   - Note: Bright screens just before bed make it harder for many children to fall asleep. Let your child find this out by talking, not by being told off.
 - **s3 (3 min)**  
   *Parent does:* 1. Look at a clock together. 2. Ask what time your child usually falls asleep and wakes up. 3. Count the hours together on the clock face.  
   *Parent says:* Say you sleep at 9 and wake at 7. Count the hours on the clock: 10, 11, 12, 1, 2, 3, 4, 5, 6, 7. How many is that? Now count yours.  
-  *Child mode:* Find your bedtime and wake-up time on the clock. Count the hours in between.
+  *Child mode:* Count the hours on the clock, one at a time. Then count the hours of your own sleep.
   - Check: A child sleeps from 9 at night to 7 in the morning. How many hours is that? → **10 hours**
 ### a3 · Four Ways to Keep Healthy: my day chart (15 min)
-- **record:** The finished four-box chart for one day, with a drawing and a few words in each box.
+- **record:** The finished four-box chart for one day, with a few words or a drawing in each box.
 - **s1 (4 min)**  
   *Parent does:* 1. Fold the sheet in half, and in half again, to make four boxes. 2. Help your child write a heading in each box: Move, Rest and sleep, Eat, Keep clean.  
   *Parent says:* There are four ways to keep healthy. Moving, resting and sleeping, eating good food, and keeping clean. Let's make a box for each.  
-  *Child mode:* Fold the paper into four boxes. Write Move, Rest, Eat and Clean.
+  *Child mode:* Fold the paper into four boxes. Write Move, Rest and sleep, Eat and Keep clean.
 - **s2 (8 min)**  
-  *Parent does:* 1. Ask your child to draw what they did in each box today. 2. Help them write one or two words beside each drawing.  
+  *Parent does:* 1. Ask your child to show what they did in each box today. They can write a few words, draw, or tell you while you write. 2. Add one or two words beside each drawing.  
   *Parent says:* How did you move today? When did you rest? What did you eat? How did you keep clean?  
-  *Child mode:* Draw how you moved, rested, ate and kept clean today.
+  *Child mode:* Fill each box with how you moved, rested, ate and kept clean today. Write, draw or tell.
   - Note: Every family's day is different. The aim is noticing, not scoring. If a box is empty, ask what your child could add tomorrow.
 - **s3 (3 min)**  
   *Parent does:* 1. Ask the question below.  
   *Parent says:* Look at your chart. Did something in one box lead to something in another box? For example, did a sweaty game mean you needed a wash?  
-  *Child mode:* Did one box lead to another? Did a sweaty game mean you needed a wash?
+  *Child mode:* Look for two boxes that are linked.
   - Ask: How did one box lead to another? (good: After running I was hungry, so I ate.; I played a lot, so I slept well.; I got sweaty, so I had a bath.)
 ### a4 · Busy or Still? Watch another animal rest (15 min)
-- **record:** Your 10 boxes, each marked B for busy or S for still, and a drawing of the animal you watched.
+- **record:** Your 10 boxes, each marked B for busy or S for still, and a photo of the animal you watched, or a few words about what they did.
 - **s1 (3 min)**  
   *Parent does:* 1. Find a crow or a pigeon from a window, a pet, or ants near a crumb of sugar. 2. Ask for a guess.  
   *Parent says:* We'll watch this animal for 10 minutes. Will they be busy most of the time, or still? Why do you think so?  
-  *Child mode:* Choose an animal to watch. Will they be busy or still most of the time? Why?
+  *Child mode:* Pick an animal to watch from where you are.
   - Note: Crows and pigeons are around most city buildings. If none come, put a few sugar grains on a sill and watch ants instead.
 - **s2 (10 min)**  
   *Parent does:* 1. Start the timer. 2. At the end of each minute, your child marks B for busy or S for still. 3. B means the animal moved a lot. S means they mostly stayed still.  
-  *Parent says:* Watch closely. At the end of each minute, mark B for busy or S for still.  
-  *Child mode:* Watch closely. Each minute, mark B for busy or S for still.
+  *Parent says:* Watch closely. When the timer says a minute is up, mark B or S.  
+  *Child mode:* Watch the animal. B means they moved a lot. S means they stayed still.
   - Note: If the animal goes away, write a cross in that box and carry on watching for them or for another animal.
 - **s3 (2 min)**  
   *Parent does:* 1. Count the B boxes and the S boxes together. 2. Ask the question below.  
-  *Parent says:* How many minutes were busy? How many were still? Why do you think the animal rested?  
-  *Child mode:* Count the B boxes and the S boxes. Why did the animal rest?
-  - Ask: Why did the animal rest? (good: The crow was resting after flying.; The cat was sleepy.; The ants never stopped, so maybe ants rest at other times.)
+  *Parent says:* How many minutes were busy? How many were still?  
+  *Child mode:* Count the B boxes and the S boxes.
+  - Ask: Why do you think the animal was busy or still? (good: The crow was resting after flying.; The cat was sleepy.; The ants never stopped, so maybe ants rest at other times.)
 
 ## Projects
 ### p1 · Do Plants Rest at Night? A rajma leaf watch (60 min, 14 days)
 - **safety:** Raw rajma beans are harmful to eat. Plant them and wash your hands after. Keep them away from children under 5.
-- **record:** Four drawings: two nights and two mornings, showing how the leaves are held. Write 'up', 'flat' or 'down' under each.
-- **schedule:** day 1: Soak 4 rajma beans in water overnight. (10 min); day 2: Plant the beans in the cup, about one finger deep. Water them. Put the cup on a sunny sill. (10 min); day 5: Water a little. Look for the first shoot. (5 min); day 9: Look for the first two leaves opening. Water a little. Draw them in the daytime. (5 min); day 12: Once the first two leaves are open, at about 8 at night, switch off the room light and shine a torch on the leaves for a moment. Draw them. (10 min); day 13: At about 8 in the morning, draw the leaves again. At about 8 that night, look with the torch and draw them again. (15 min); day 14: At about 8 in the morning, draw the leaves again. Compare your four drawings. Say what you found. (5 min)
+- **record:** Four photos or drawings: two nights and two mornings, showing how the leaves are held. Write 'up', 'flat' or 'down' under each.
+- **schedule:** day 1: Soak 4 rajma beans in water overnight. (10 min); day 2: Plant the beans in the cup, about one finger deep. Water them. Put the cup on a sunny sill. (10 min); day 5: Water a little. Look for the first shoot. (5 min); day 9: Look for the first two leaves opening. Water a little. Take a photo of them in the daytime, or draw them. (5 min); day 12: Once the first two leaves are open, at about 8 at night, switch off the room light and shine a torch on the leaves for a moment. Take a photo, or draw them. (10 min); day 13: At about 8 in the morning, take a photo of the leaves again. At about 8 that night, look with the torch and take another photo. (15 min); day 14: At about 8 in the morning, take a photo of the leaves again. Compare your four photos. Say what you found. (5 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Soak 4 rajma beans in water overnight. 2. Next day, fill the cup with soil and plant them one finger deep. 3. Water well and put the cup on a sunny sill.  
   *Parent says:* Rajma plants sense day and night. Let's grow one and see what the leaves do in the dark.  
@@ -388,36 +388,36 @@ Then they both laughed so much that they could not count anything.
 - **s2 (5 min)**  
   *Parent does:* 1. Look at the plant. 2. Wait until the first two leaves have opened out fully.  
   *Parent says:* Two leaves have opened. Tonight we'll see if they look the same in the dark.  
-  *Child mode:* Have two leaves opened? Draw them in the daytime.
+  *Child mode:* Look at the two leaves. Are they held flat? Take a photo, or draw them.
   - Note: If no bean has come up by day 8, soak and plant new beans in a warmer place. Seeds sprout slowly in a cold room.
 - **s3 (15 min)**  
-  *Parent does:* 1. At about 8 at night, switch off the room light and shine the torch on the plant for a few seconds only. 2. Your child draws how the leaves are held. 3. Next morning, draw them again. 4. Do the same the next night and morning.  
+  *Parent does:* 1. At about 8 at night, switch off the room light and shine the torch on the plant for a few seconds only. 2. Your child takes a photo, or draws how the leaves are held, and writes up, flat or down. 3. Next morning, do the same. 4. Do the same the next night and morning.  
   *Parent says:* Look quickly with the torch. Are the leaves held out flat, like in the day, or hanging down?  
-  *Child mode:* Shine the torch for a moment. Are the leaves up, flat or down? Draw them.
+  *Child mode:* Shine the torch for a moment. Take a photo, or draw the leaves. Write up, flat or down.
   - Ask: What did the leaves do at night? (good: They hung down at night and were flat in the morning.; They didn't change much.)
   - Note: Many bean plants lower their leaves at night. The change is clearest about two hours after dark. The droop can be small. If the leaves look the same, that is a real result too: write it down. If the leaves have not opened by day 12, wait and start the night watch when they have.
 
 ## Challenges
 ### c1 · A Chair Workout: exercise for someone who cannot jump (20 min)
 - **problem:** Plan five minutes of exercise that an older person can do sitting in a chair. It must make their muscles work, and it must be safe and fun.
-- **your turn:** Draw your five moves as a strip of pictures. Try them yourself first. Then teach them to an older person, such as a grandparent, a neighbour or a grown-up at home, and ask which move they liked best.
+- **your turn:** Plan your five moves as a strip of pictures or a short list. Try them yourself first. Then teach them to an older person, such as a grandparent, a neighbour or a grown-up at home, and ask which move they liked best.
 - **constraints:** Every move is done sitting down on a steady chair with no wheels.; No move may hurt or make anyone dizzy.; Use at most 5 moves.; The person you plan it for must be happy to try it.
 - **general:** Lifting one knee up and down, then the other, like walking while sitting.; Raising both arms up high and down again, slowly.; Pressing the hands together hard in front of the chest for a count of five.
 - **creative:** A 'clap and stamp' song, where you clap on one word and stamp your feet on another.; Pretending to row a boat on the backwaters of Kerala, pulling both arms in together.
 - **s1 (5 min)**  
   *Parent does:* 1. Read the problem and the rules aloud. 2. Ask the question below.  
   *Parent says:* An older person may find it hard to stand for long. How could they still give their muscles some work, sitting down?  
-  *Child mode:* Plan exercise someone can do sitting in a chair. What could they move?
+  *Child mode:* Think about exercise someone can do while sitting in a chair.
   - Ask: Which parts can move while you sit? (good: Arms, by lifting them up.; Legs, by lifting the knees.; Feet, by stamping or making circles.)
 - **s2 (8 min)**  
-  *Parent does:* 1. Your child draws five moves. 2. They try each one in a chair for one minute. 3. Check each rule together.  
+  *Parent does:* 1. Your child plans five moves, as pictures or a list. 2. They try each one in a chair for one minute. 3. Check each rule together.  
   *Parent says:* Try each move yourself. Does it make a muscle work? Is it safe?  
-  *Child mode:* Draw five moves. Try each one in a chair. Is it safe?
+  *Child mode:* Plan five moves, as a list or pictures. Try each one in a chair.
   - Note: Let your child choose the moves. If one is unsafe, ask a question rather than saying no: 'What if they felt dizzy?'
 - **s3 (7 min)**  
   *Parent does:* 1. Your child teaches the moves to an older person, or to you. 2. Afterwards, ask the questions below.  
   *Parent says:* Did any move make them breathe a little faster? Which move, and why?  
-  *Child mode:* Teach your moves. Did any move make them breathe faster? Which one?
+  *Child mode:* Teach your moves. Watch if their breathing gets faster.
   - Ask: What would you change next time? (good: Add music.; Make the arm move slower.)
   - Note: Moves that use big muscles for longer, such as lifting the knees or raising both arms, are the most likely to make breathing faster. This links back to the Puff Count, where working muscles used more oxygen. If no move made them puff, that is a fair result for gentle chair moves.
 

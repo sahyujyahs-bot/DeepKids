@@ -269,7 +269,7 @@
    "title": "Who Sleeps How? A matching pairs game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a memory game about how humans and other animals sleep. Half the cards name an animal. The other half say how someone sleeps. Turn over two cards at a time and find the pairs.",
+   "context": "This is a memory game. You will find out how a bat, a crow, a jellyfish and a baby each sleep in a different way. Half the cards name an animal. The other half say how that animal sleeps. Turn over two cards at a time and find the pairs.",
    "printables": [
     {
      "kind": "cards",
@@ -366,16 +366,16 @@
      "id": "s2",
      "mins": 10,
      "do": "Take turns to turn over two cards. If they are a pair, keep them. If they are not a pair, turn them face down again in the same places.",
-     "say": "Turn over two. Is this the bat and the bat's sleep card? If not, try to remember where they are.",
-     "kid": "Turn over two cards. Do they match? Remember where they were.",
-     "parent": "This game uses memory, just like the picture-pairs test. Say aloud where each card was when you turn it back. That helps everyone remember."
+     "say": "Turn over two cards. If one names an animal and the other says how that animal sleeps, that is a pair. If not, remember where they are.",
+     "kid": "Find an animal card and its sleep card. Remember where the others are.",
+     "parent": "This game uses memory. Say aloud where each card was when you turn it back. That helps everyone remember."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the pairs. Then ask how crows stay safe when they sleep.",
-     "say": "A sleeping animal is easy for a hunter to catch. How do crows stay safe when they sleep?",
-     "kid": "Count your pairs. How do crows stay safe when they sleep?",
+     "do": "Count the pairs. Then ask why crows sleep together in one tree.",
+     "say": "A sleeping animal is easy for a hunter to catch. Crows sleep together in one big tree.",
+     "kid": "Count your pairs. Who has the most?",
      "parent": "Good answers: many eyes can spot danger, and a crowd is safer than being alone. A sleeping animal cannot watch for hunters, so staying safe matters. Bats stay safe by hanging in dark places that hunters cannot easily reach.",
      "ask": [
       {
@@ -395,7 +395,7 @@
    "title": "Sleepy or Wide Awake? A bedtime sorting game",
    "mins": 15,
    "players": "1 to 4 players",
-   "context": "This is a sorting game about bedtime. Some cards show things that help you fall asleep. Others show things that keep you awake. Sort them, then build a bedtime routine from the helpful ones.",
+   "context": "This is a sorting game about bedtime. You will find out which habits help you fall asleep and which keep you awake. Sort the cards, then build your own bedtime routine from the helpful ones.",
    "printables": [
     {
      "kind": "cards",
@@ -490,16 +490,16 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Cut out the cards and draw the two sheets. Mix the cards.",
+     "do": "Cut out the cards. Put two sheets of paper on the floor, one for 'Helps me sleep' and one for 'Keeps me awake'. Mix the cards.",
      "say": "Some things help us fall asleep. Some things keep us awake. Let's sort them.",
-     "kid": "Some things help you sleep. Some keep you awake. Let's sort them."
+     "kid": "Sort the cards on to the two sheets: helps you sleep, or keeps you awake."
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "Take turns to turn a card, guess where it goes and say why. Then read the back aloud and put the card on the correct sheet.",
-     "say": "Where does this card go? Why do you think so? Now let's read the back.",
-     "kid": "Where does this card go? Say why. Then read the back.",
+     "say": "Which sheet does this card go on? Why do you think so? Now let's read the back.",
+     "kid": "Guess the sheet and say why. Then read the back.",
      "parent": "Watching a phone in bed is the card children argue about most. Many feel it relaxes them. Let them say so, then read the back. Studies find that children with screens in bed sleep later and less."
     },
     {
@@ -519,7 +519,7 @@
    "title": "Sleep on It: does a night's sleep help you keep picture pairs?",
    "mins": 32,
    "days": 2,
-   "context": "In this experiment your child learns two sets of eight picture pairs. They learn the day set in the morning and are tested at bedtime, after a day awake. They learn the night set at bedtime and are tested the next morning, after a night of sleep. Then you compare how many pairs they kept.",
+   "context": "You will find out whether sleep helps you remember. Your child learns two sets of eight picture pairs. They learn the day set in the morning and are tested at bedtime, after a day awake. They learn the night set at bedtime and are tested the next morning, after a night of sleep. Then you compare how many pairs they kept.",
    "question": "Will you keep more picture pairs after a night of sleep, or after a day awake?",
    "predict": "You will learn one set in the morning and one set at bedtime. Which set will you remember better the next time you are tested? Why do you think so?",
    "fair_test": "Both sets have eight pairs of simple things. We learn both sets the same way, going through them twice. We test each set straight after learning, and again about 11 hours later. Only one thing changes: whether those hours are spent awake or asleep. Two things are not quite fair. At bedtime you may be tired when tested. And one set may be a little easier than the other. So we also look at how many you knew straight after learning, and if you repeat the test, you swap the sets.",
@@ -552,7 +552,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Morning: draw the cards, then learn the day set and test it straight away."
+     "what": "Morning: make the cards, then learn the day set and test it straight away."
     },
     {
      "day": 1,
@@ -565,7 +565,7 @@
      "what": "Morning: test the night set. Compare the two sets."
     }
    ],
-   "record": "Fill in the table. Your child draws two rows of eight boxes, one for each set, and colours a box for every pair they remembered later.",
+   "record": "Fill in the table. Then lay the cards of each set in a row, and your child puts a coin on every pair they remembered later.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -615,17 +615,17 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Fold 16 pieces of paper in half. 2. On each one, draw a quick picture on the left half and a different picture on the right half. The two lists are in the parent note. 3. Share the drawing: your child draws as many as they like, and you draw the rest. 4. Keep the two sets of eight cards in separate envelopes.",
+     "do": "1. Fold 16 pieces of paper in half. 2. On each one, draw a quick picture on the left half and a different picture on the right half, or write the two words if you prefer. The two lists are in the parent note. 3. Share the work: your child makes as many as they like, and you draw the rest. 4. Keep the two sets of eight cards in separate envelopes.",
      "say": "We are making two sets of picture pairs. The pictures in a pair do not belong together. That makes them a real test of memory.",
-     "kid": "Draw one picture on each half of a card. The two pictures are a pair.",
+     "kid": "Draw or write one thing on each half of a card. The two things are a pair.",
      "parent": "Day set: elephant and umbrella, mango and bus, star and shoe, fish and chair, kite and spoon, tree and cup, auto and flower, drum and banana. Night set: cat and clock, boat and key, moon and bucket, parrot and ball, coconut and bell, house and leaf, lamp and frog, egg and ladder. Quick, simple drawings are fine. A pair of things that do not go together, like a mango and a bus, is harder to guess. So the test shows real memory, not good guessing."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Ask for a guess and a reason before you start.",
-     "say": "You will learn the day set now and the night set at bedtime. Which set will you remember better later? Why do you think so?",
-     "kid": "Which set will you remember better? Why?",
+     "say": "You will learn the day set now and the night set at bedtime. Which set will you remember better later?",
+     "kid": "Guess which set you will remember better.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -652,7 +652,7 @@
      "wait": "Do this at bedtime, about 11 hours after the morning test.",
      "do": "1. At bedtime, before lights off, test the day set the same way as in the morning. Do not show the pairs first. 2. Fold each card so only the left picture shows, and mix the cards. 3. Ask for the partner of each, and write down how many are right.",
      "say": "Do you remember the day set from this morning? I show the first picture. What was its partner?",
-     "kid": "Here is the first picture. What was its partner?",
+     "kid": "Say the partner of each picture.",
      "parent": "Test in the same way as the morning: show the first picture and wait for the partner's name."
     },
     {
@@ -669,15 +669,15 @@
      "wait": "Do this the next morning, about 11 hours later.",
      "do": "1. In the morning, test the night set. 2. Write down how many are right. 3. Fill in the 'pairs lost' column for both sets.",
      "say": "You slept on the night set. Let's see how many you kept. What was with the cat?",
-     "kid": "What was with the cat? Say each partner.",
+     "kid": "Say the partner of each card.",
      "parent": "Most children lose a pair or two over a day awake, and lose fewer or none over a night of sleep. If both sets came out the same, that is a real result too. One child and one try is a small test. Do it again with new pairs on another day, and this time learn the night set in the morning and the day set at bedtime. Then add up both tries."
     },
     {
      "id": "s7",
      "mins": 3,
      "do": "Ask what your child thinks, what they saw, and why. Then tell them what scientists found.",
-     "say": "Which set did you keep better? What tells you? Scientists find that sleep helps the brain keep what you learned that day.",
-     "kid": "Which set did you keep better? Sleep helps your brain keep what you learned.",
+     "say": "What do your two scores tell you? Scientists find that sleep helps the brain keep what you learned that day.",
+     "kid": "Look at your two scores. Which set did you keep better?",
      "check": {
       "t": "mcq",
       "q": "In many studies, which set do children usually remember better?",
@@ -698,7 +698,7 @@
    "title": "The Yawn Test: does seeing a yawn make you yawn?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment a grown-up yawns again and again while your child watches. Another time, the grown-up smiles instead. Your child counts their own yawns each time.",
+   "context": "You will find out whether a yawn can make someone else yawn. A grown-up yawns again and again while your child watches. Another time, the grown-up smiles instead. Your child counts their own yawns each time.",
    "question": "Will you yawn more while you watch someone yawn, or while you watch someone smile?",
    "predict": "Will you yawn more while watching yawns, or while watching smiles? Why do you think so?",
    "fair_test": "Each watch lasts 3 minutes. The grown-up sits at the same distance, in the same room and the same light. Only one thing changes: yawning or smiling. We do the smiling watch first, so the yawns do not carry on into it.",
@@ -724,7 +724,7 @@
      "what": "Watch 3 minutes of smiles, then 3 minutes of yawns, and count."
     }
    ],
-   "record": "Draw a tally mark for each yawn. Draw two faces, one smiling and one yawning, and write your count under each.",
+   "record": "Make a tally mark for each yawn. Then write your count for the smiling watch and your count for the yawning watch.",
    "setup": [
     {
      "art": "A parent smiling at a girl sitting opposite her on the floor, with a phone timer between them.",
@@ -741,7 +741,7 @@
      "mins": 2,
      "do": "Ask for a guess and a reason.",
      "say": "I am going to smile at you for 3 minutes, then yawn for 3 minutes. When will you yawn more? Why do you think so?",
-     "kid": "When will you yawn more? Why?",
+     "kid": "Guess: will you yawn more at the smiles or at the yawns?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -772,7 +772,7 @@
      "mins": 5,
      "do": "Compare the two counts. Ask what your child thinks, what they saw, and why.",
      "say": "When did you yawn more? What does that tell you about yawns?",
-     "kid": "When did you yawn more? What does that tell you?",
+     "kid": "Compare your two counts.",
      "parent": "Many people, and many children of 6 and older, yawn after seeing a yawn. This is called contagious yawning. Some people do not, and that is a real result too. Nobody knows for sure why yawns spread. One idea is that it helps a group get sleepy, or wake up, at the same time. Your child may be a little more tired in the second watch. To check, do the test again another day with the yawns first.",
      "check": {
       "t": "mcq",
@@ -795,7 +795,7 @@
    "title": "My Bedtime Routine Strip: five steps, seven nights",
    "mins": 36,
    "days": 7,
-   "context": "In this activity your child draws their own bedtime routine as a strip of five pictures. They stick it on the bedroom door and tick each step every night for a week.",
+   "context": "You will make a bedtime plan so that falling asleep gets easier. Your child makes a strip with five boxes, one for each bedtime step. They stick it on the bedroom door and tick each step every night for a week.",
    "materials": [
     {
      "item": "a long strip of paper, or two sheets taped end to end",
@@ -851,7 +851,7 @@
    "setup": [
     {
      "art": "A long paper strip with five boxes: a bucket of water, a toothbrush, night clothes, a book under a dim lamp, and a moon.",
-     "caption": "1. Draw five bedtime steps in order."
+     "caption": "1. Show five bedtime steps in order."
     },
     {
      "art": "The strip taped on a bedroom door, with ticks in pencil under each box.",
@@ -869,9 +869,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child draws one step in each box, then you stick the strip on the bedroom door.",
-     "say": "Draw one step in each box. Then we will stick it where you can see it.",
-     "kid": "Draw one step in each box. Stick it on your door.",
+     "do": "Your child draws one step in each box, or writes it, or sticks in a picture cut from a magazine. Then you stick the strip on the bedroom door.",
+     "say": "Show each step in a box, in any way you like. Then we will stick it where you can see it.",
+     "kid": "Draw or write one step in each box. Put the strip on your door.",
      "parent": "Agree on a bedtime too, such as 8:30. Children of 6 to 12 need about 9 to 12 hours of sleep. Count back from the time they must wake."
     },
     {
@@ -906,7 +906,7 @@
    "title": "The Dark Room Hunt: find every light at bedtime",
    "mins": 15,
    "days": 1,
-   "context": "In this activity your child turns off the lights at bedtime and lies in bed. They count every light they can still see, then find a way to cover or block each one.",
+   "context": "You will find out how many lights are still on in a room you think is dark. Your child turns off the lights at bedtime and lies in bed. They count every light they can still see, then find a way to cover or block each one.",
    "materials": [
     {
      "item": "paper tape or a small piece of paper and tape",
@@ -944,7 +944,7 @@
      "id": "s2",
      "mins": 7,
      "do": "1. With a torch, go to each light. 2. Decide together how to block it. 3. Tape over a small glow, close the curtain, or shut the door to the hall.",
-     "say": "This light is on the wifi box. How could we stop it shining on your bed?",
+     "say": "Here is a light. How could we stop it shining on your bed?",
      "kid": "Find each light. How can you block it?",
      "parent": "Never cover anything that gets hot, like a lamp or a plug that warms up. Small indicator lights on chargers, fans and wifi boxes are safe to cover with paper tape."
     },
@@ -952,8 +952,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Turn the lights off again. Count the lights your child can still see.",
-     "say": "Now how many lights can you see? Why does a dark room help you sleep?",
-     "kid": "Count again. Why does the dark help you sleep?",
+     "say": "Now how many lights can you see?",
+     "kid": "Count again. Did the number go down?",
      "ask": [
       {
        "q": "Why does a dark room help you sleep?",
@@ -972,7 +972,7 @@
    "title": "Crows Going to Bed: a window watch at dusk",
    "mins": 15,
    "days": 1,
-   "context": "In this activity your child watches the sky from a window or balcony just before sunset. In many Indian cities, crows fly in lines to a few big trees to sleep together. Your child counts the crows that fly past in five minutes. Do this if you can see some sky from home.",
+   "context": "You will find out where crows go to sleep. Your child watches the sky from a window or balcony just before sunset. In many Indian cities, crows fly in lines to a few big trees to sleep together. Your child counts the crows that fly past in five minutes. Do this if you can see some sky from home.",
    "materials": [
     {
      "item": "a window or balcony with a view of the sky",
@@ -983,7 +983,7 @@
      "qty": 1
     }
    ],
-   "record": "A tally of crows in five minutes, an arrow showing which way they flew, and the time.",
+   "record": "A tally of crows in five minutes, which way they flew, and the time.",
    "setup": [
     {
      "art": "A girl at a flat window at sunset making tally marks, with a line of crows flying across an orange sky.",
@@ -1000,15 +1000,15 @@
      "mins": 10,
      "do": "1. About 20 minutes before sunset, stand at a window. 2. For 5 minutes, your child makes a mark for every crow flying past. 3. Note which way most of them fly.",
      "say": "Watch for crows. Make a mark for each one. Which way are they going?",
-     "kid": "Watch the sky. Mark each crow. Which way are they flying?",
+     "kid": "Watch the sky and mark each crow you see.",
      "parent": "House crows in many Indian cities gather in big groups to sleep in a few tall trees. Such a sleeping place is called a roost. If you see none, try another evening, or look for other birds settling into trees or ledges. Look at the sky away from the Sun, never straight at it."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Talk about what you saw.",
-     "say": "Where do you think the crows are going? Why might they sleep all together?",
-     "kid": "Where are the crows going? Why sleep together?",
+     "say": "Where do you think the crows are going?",
+     "kid": "Point to where the crows are going.",
      "ask": [
       {
        "q": "Why might crows sleep together?",
@@ -1029,7 +1029,7 @@
    "title": "Ask the Family: who sleeps how long?",
    "mins": 30,
    "days": 3,
-   "context": "In this project your child asks people in the family how long they slept last night, and their age. Then they draw a picture chart to see whether younger people sleep longer.",
+   "context": "You will find out whether younger people sleep longer. Your child asks people in the family their age and how long they slept last night. Then they make a chart with a row of beans for each person, one bean for every hour slept.",
    "materials": [
     {
      "item": "a notebook page with a table",
@@ -1040,7 +1040,7 @@
      "qty": 1
     },
     {
-     "item": "crayons and paper for the chart",
+     "item": "a handful of beans, buttons or coins, and a sheet of paper for the chart",
      "qty": 1
     }
    ],
@@ -1061,7 +1061,7 @@
      "what": "Draw a moon for each hour slept, and compare."
     }
    ],
-   "record": "A table of names, ages and hours slept, and a chart with a row of moons for each person.",
+   "record": "A table of names, ages and hours slept, and a chart with a row of beans for each person. Take a photo of it.",
    "setup": [
     {
      "art": "A girl with a notebook asking an older relative a question at the breakfast table.",
@@ -1069,7 +1069,7 @@
     },
     {
      "art": "A chart with a row of small moons next to each family member's name, a long row for a baby cousin and shorter rows for adults.",
-     "caption": "2. Draw one moon for every hour of sleep."
+     "caption": "2. Put one bean for every hour of sleep."
     }
    ],
    "flow": [
@@ -1078,7 +1078,7 @@
      "mins": 10,
      "do": "1. Draw a table with three columns: name, age, hours slept last night. 2. Fill in the first row for your child. 3. Then your child asks you, and one or two more people at home. If few people live with you, ask a neighbour.",
      "say": "Ask each person two questions. How old are you? What time did you sleep and wake up?",
-     "kid": "Ask: how old are you? How long did you sleep?",
+     "kid": "Ask each person two questions. Write the answers in the table.",
      "parent": "Help your child count the hours from bedtime to waking. If someone napped in the day, add a note."
     },
     {
@@ -1093,12 +1093,12 @@
      "id": "s3",
      "mins": 10,
      "wait": "Do this the day after.",
-     "do": "1. Your child draws one moon for every hour each person slept. 2. Line the rows up from youngest to oldest. 3. Talk about the pattern.",
-     "say": "Who has the longest row of moons? Who has the shortest? What do you notice about their ages?",
-     "kid": "Draw a moon for each hour. Who slept longest?",
+     "do": "1. Your child lays out one bean for every hour each person slept, in a row beside their name. 2. Line the rows up from youngest to oldest. 3. Talk about the pattern.",
+     "say": "Whose row of beans is longest? Whose is shortest?",
+     "kid": "Put one bean down for each hour. Whose row is longest?",
      "ask": [
       {
-       "q": "What do you notice?",
+       "q": "What do you notice about the ages?",
        "good": [
         "Babies and children sleep longer.",
         "Grown-ups sleep less.",
@@ -1116,7 +1116,7 @@
    "id": "c1",
    "title": "A Sleep Kit for the Overnight Train",
    "mins": 20,
-   "context": "This is a planning challenge. Your family is taking an overnight train from Chennai to Kochi. The coach lights stay on for a while, people talk, and the train rattles. Can you pack a sleep kit using things from home, and plan a bedtime routine that works on a train?",
+   "context": "This is a planning challenge. You will find out what helps you sleep in a place that is bright and noisy. Pack a sleep kit from things at home, and plan a bedtime routine for a night train.",
    "problem": "Your family is taking an overnight train from Chennai to Kochi. The coach lights stay on for a while, people talk, and the train rattles. Plan a bag of things from home and a short routine that will help you fall asleep on a busy night train.",
    "constraints": [
     "Use only things you already have at home.",
@@ -1124,7 +1124,7 @@
     "Keep at least three steps of your home bedtime routine."
    ],
    "materials": [
-    "paper and crayons",
+    "paper and a pencil",
     "a small cloth bag",
     "things from home to test, like a dupatta, a soft cap and a small book"
    ],
@@ -1138,7 +1138,7 @@
     "A storybook from home, read at the same time as your usual bedtime.",
     "A soft cap or scarf pulled over the ears to make the noise quieter."
    ],
-   "your_turn": "Now pack your own sleep kit. Draw what is in the bag, and tell a grown-up the three routine steps you will keep. The grown-up writes them down. Try it at home tonight with the lights on and the radio playing.",
+   "your_turn": "Now pack your own sleep kit. Put the things in the cloth bag, and tell a grown-up the three routine steps you will keep. The grown-up writes them down. Try it at home tonight with the lights on and the radio playing.",
    "setup": [
     {
      "art": "A child packing a small cloth bag with a folded dupatta, a toothbrush, a soft toy and a storybook.",
@@ -1155,7 +1155,7 @@
      "mins": 5,
      "do": "Read the problem aloud. List what makes sleep hard on a train.",
      "say": "What could stop you sleeping on a night train?",
-     "kid": "What makes it hard to sleep on a train?",
+     "kid": "Imagine the train coach at night. Think of what you would see and hear.",
      "ask": [
       {
        "q": "What makes it hard?",
@@ -1170,7 +1170,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child chooses things for the kit and draws them. They also pick three routine steps to keep.",
+     "do": "Your child chooses things for the kit and puts them in the cloth bag. They also pick three routine steps to keep.",
      "say": "What will block the light? What will make the noise quieter? Which steps from home will you keep?",
      "kid": "Pick things to block light and noise. Pick three home steps.",
      "parent": "Do not put cotton or anything small inside the ears. A soft cap or scarf over the ears is safer. Tie the eye cover loosely, and never round the neck."

@@ -188,17 +188,17 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Show where the bird, the friend bird and the traffic stand. 3. Read the rules aloud.  
   *Parent says:* You are a bird on a busy road. Your friend is far away. I am the traffic. Can you make your friend hear you?  
-  *Child mode:* You are a bird. Your friend is far away. Can your friend hear you over the traffic?
+  *Child mode:* Call to your friend across the room, even when the traffic is noisy.
   - Note: Bang the steel plate gently with the spoon for noise. Loud noise right next to the friend bird works best. Keep the noise short, so nobody's ears hurt.
 - **s2 (6 min)**  
   *Parent does:* Play rounds as the rules say. After each call, ask which trick the bird used.  
   *Parent says:* Was the call heard? Which trick did you use? Did it work?  
-  *Child mode:* Call to your friend. Did your friend hear you? Try a trick.
-  - Ask: Which trick helped most when the bus went past? (good: Calling louder.; Waiting for the quiet gap.; Calling in a high voice.)
+  *Child mode:* Call to your friend. If your friend does not hear you, pick a trick card and call again.
+  - Ask: Which trick helped most over loud noise? (good: Calling louder.; Waiting for the quiet gap.; Calling in a high voice.)
 - **s3 (3 min)**  
   *Parent does:* Add up the points as a team. Then talk about which trick worked best, and why.  
-  *Parent says:* Real birds on busy roads use these same tricks. Which trick would you use, if you were a koel?  
-  *Child mode:* Add up your team points. Which trick worked best for you?
+  *Parent says:* Real birds on busy roads use these same tricks. Which one worked best for you?  
+  *Child mode:* Add up your team points. Pick the trick that got your call heard most.
   - Check: A koel wants another koel to hear him. A bus is going past. What is the best plan? → **Wait for a quiet gap, then call**
 ### g2 · Who Uses the Tree? A memory game (10 min)
 - **rules:** Mix all 16 cards and lay them face down in rows.; Take turns to turn over two cards.; If one card is a being and the other is a gift that being uses, say why they go together. Keep both cards.; If they do not go together, turn them back face down.; Some gifts suit more than one being. Keep a pair if you can explain it truthfully.; The game ends when all the cards are gone, or when no two cards left go together (turn the left-over cards face up to check). The player with the most pairs wins. If you tie, you share the win.
@@ -207,7 +207,7 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 - **s1 (2 min)**  
   *Parent does:* Cut out the 16 cards. Mix them and lay them face down.  
   *Parent says:* Every card is about one big tree on a street. Some cards are beings, and some are gifts from the tree.  
-  *Child mode:* Lay the cards face down. Some are beings. Some are gifts from a tree.
+  *Child mode:* Lay all 16 cards face down in rows.
 - **s2 (7 min)**  
   *Parent does:* Play as the rules say. When a pair is found, ask the player to say why they go together.  
   *Parent says:* Why does the dog need the shade? Why does the bee need the flowers?  
@@ -216,16 +216,16 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
   - Note: Pairs need not match one exact answer. Accept any pair your child can explain truthfully. Fruit bats eat figs at night, and koels and parakeets eat them by day.
 - **s3 (1 min)**  
   *Parent does:* Count the pairs. Ask how many beings one tree helped.  
-  *Parent says:* How many beings did one tree help in this game?  
-  *Child mode:* Count your pairs. How many beings did one tree help?
+  *Parent says:* Each pair is one being the tree helped. How many beings did this one tree help?  
+  *Child mode:* Count your pairs.
   - Check: A street tree is cut down. Who loses a home or food? → **Many beings, like crows, bees, squirrels and bats**
 
 ## Experiments
 ### e1 · Words in the Noise: can a soft voice be heard over traffic? (25 min)
-- **question:** Five big steps away, how many soft words can you hear with no noise? How many with loud noise on? And how many when the speaker speaks loudly in the noise?
+- **question:** From five big steps away, how many words can you hear in quiet? How many in loud noise? And how many in loud noise when the voice is loud?
 - **predict:** Guess first. Out of 10 soft words, how many will you hear with no noise? How many with the noise on? Will a loud voice help in the noise? Why do you think so?
 - **fair test:** The same person speaks every time, from the same place, five big steps away. The listener always faces the wall, so they cannot read the speaker's lips. Each round uses 10 new short words, so the listener cannot remember them from the round before. Only the noise and the loudness of the voice change.
-- **record:** Fill in the table with the words heard in each round. Then draw three towers of blocks, one for each round, as tall as the number of words heard.
+- **record:** Fill in the table with the words heard in each round. Then build three towers of blocks or small cups, one for each round. Make each tower as tall as the number of words heard.
 - **results table:** Round | Noise on or off? | How the words were said | Words heard (out of 10)
 - **s1 (4 min)**  
   *Parent does:* 1. Stand five big steps apart. 2. Your child faces the wall. 3. Keep these lists hidden: list 1 is crow, tree, cat, leaf, ant, cow, bee, nest, dog, rain. List 2 is kite, bat, frog, moth, fig, bus, road, wall, pond, egg. List 3 is owl, rat, bird, seed, fly, lamp, roof, drain, wing, hen. List 4 is spare: fan, jug, pot, sun, goat, bell, hill, cup, ship, tail.  
@@ -234,8 +234,8 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
   - Note: Your child faces the wall so they cannot read your lips. Speak softly, as if a baby is asleep in the next room. Keep the same soft voice all through rounds 1 and 2.
 - **s2 (3 min)**  
   *Parent does:* Show the phone that will be the noise maker. It plays loud traffic sound. Ask for a guess and a reason, and write it down.  
-  *Parent says:* Next, I will put this noise right beside you, like traffic. How many soft words will you hear then? And if I speak loudly? Why do you think so?  
-  *Child mode:* Guess. How many words will you hear in the noise? Why?
+  *Parent says:* Next, I will put this noise right beside you, like traffic. Then I will say soft words again. Make a guess before we start.  
+  *Child mode:* The noise will be right beside you. Make a guess before we start.
   - Ask: How many words do you think you will hear with the noise on? Why? (good: Fewer, because the noise covers the words.; All of them, because I listen hard.; Some, if you speak in the gaps.)
   - Note: Any guess is fine. Write down the guess and the reason. The test will answer it.
 - **s3 (4 min)**  
@@ -251,43 +251,43 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 - **s5 (4 min)**  
   *Parent does:* Round 3: keep the noise on. Say list 3 in a loud, clear voice, from the same place. Tick the words heard. Then turn the noise off.  
   *Parent says:* The noise is still on. This time I will speak loudly. Say back each word.  
-  *Child mode:* The noise is still on. Now I speak loudly. Say back each word.
+  *Child mode:* The noise is still on. Your grown-up speaks loudly now. Say back each word.
   - Ask: Was it easier to hear this time? Why? (good: Yes, because your voice was louder than the noise.; The loud words got through the noise.)
 - **s6 (6 min)**  
   *Parent does:* Fill in the table together. Ask your child to say three things: what they found, what they saw that shows it, and why they think it happened. Then look back at their guess.  
   *Parent says:* Look at the three numbers. What happened to the soft words when the noise was on? Why did the loud words get through? Was your guess right?  
-  *Child mode:* Look at your three numbers. What did you find? Why?
-  - Check: In which round do most families hear the fewest words? → **Round 2: soft words with the noise on**
+  *Child mode:* Look at your three numbers. Tell your grown-up what you found, and why.
+  - Check: Which round usually gives the fewest words heard? → **Round 2: soft words with the noise on**
   - Think: A koel calls from a tree beside a busy road. What could the koel do, so that another koel hears him?
 ### e2 · Sun or Shade: where does an ice cube last longer? (if your balcony or window gets sun) (20 min)
 - **question:** Does an ice cube melt more slowly in the shade of leaves than in full sun?
 - **predict:** Guess first. Which ice cube will melt first: the one in the sun or the one in the shade? Why do you think so?
 - **fair test:** Both ice cubes come from the same tray and are the same size. Both sit on the same kind of steel plate, at the same time, a short way apart. Only the shade is different.
-- **record:** Draw the two plates after 10 minutes. Write how many minutes each ice cube took to melt.
+- **record:** After 10 minutes, take a photo of the two plates, or draw them. Write how many minutes each ice cube took to melt.
 - **results table:** Where the ice sat | What it looked like after 10 minutes | Minutes until all melted
 - **s1 (4 min)**  
   *Parent does:* 1. Find a sunny spot and a shady spot close together. 2. Put one plate in each. 3. Put one ice cube on each plate at the same time.  
-  *Parent says:* One ice cube is in the sun, and one is in the shade. Which will melt first? Why do you think so?  
-  *Child mode:* One ice cube is in the sun. One is in the shade. Which will melt first? Why?
+  *Parent says:* One ice cube is in the sun, and one is in the shade. We will see which one melts first.  
+  *Child mode:* Guess which ice cube will melt first. Why do you think so?
   - Note: Use shade from a leafy plant if you can. A towel over two chairs works too. Do this between 10 in the morning and 3 in the afternoon, when the sun is strong.
 - **s2 (12 min)**  
   *Parent does:* Look every 5 minutes. Note the time when each cube has melted away.  
   *Parent says:* Let's look. Which cube is smaller now?  
-  *Child mode:* Look every 5 minutes. Which cube is smaller?
+  *Child mode:* Look at both cubes every 5 minutes. Point to the one that is smaller.
   - Ask: What is the shade doing for the ice? (good: Keeping the sun off.; Keeping it cooler.)
   - Note: In strong sun, the sun cube usually melts much faster. The shade cube still melts, only more slowly, because the air is warm too. If the shade cube is still there after 12 minutes, write 'not melted yet' and compare the sizes of the two cubes. Do not let your child stare at the sun.
 - **s3 (4 min)**  
   *Parent does:* Talk about what you saw. Ask where your child likes to sit on a hot day.  
-  *Parent says:* The shade kept the ice cool for longer. On a hot afternoon, where do you like to sit: in the sun or in the shade?  
-  *Child mode:* Shade keeps things cool. Where do you like to sit on a hot day?
+  *Parent says:* The shade kept the ice cool for longer. Think about a hot afternoon.  
+  *Child mode:* Where do you sit on a hot day, sun or shade? Why?
   - Check: Usually the ice cube in the sun melts first. What was the shade doing for the other cube? → **Keeping the sunlight off it**
 
 ## Activities
 ### a1 · Window Watch: who shares our street? (15 min)
 - **s1 (2 min)**  
-  *Parent does:* Draw a tally chart with six rows: crows, pigeons, other birds, dogs and cats, squirrels, insects.  
+  *Parent does:* Write a tally chart on a page with six rows: crows, pigeons, other birds, dogs and cats, squirrels, insects.  
   *Parent says:* We will be animal counters for 10 minutes. Every time you see someone, make one mark in their row.  
-  *Child mode:* Draw six rows. Make one mark for each animal you see.
+  *Child mode:* Read the six row names. Each time you see one, make a mark in its row.
 - **s2 (10 min)**  
   *Parent does:* Watch for 10 minutes. Make one tally mark for each being. Do not count the same bird twice. Make a new mark only when a new bird comes.  
   *Parent says:* Who do you see? Where are they? What are they doing?  
@@ -295,10 +295,10 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
   - Note: Look high and low: roof edges, wires, ledges, tree tops, the road, under parked cars, and flowers. Don't forget people. Humans are animals too, so your child can add a row for people if they like.
 - **s3 (3 min)**  
   *Parent does:* Count the marks in each row. Ask which row has the most, and why.  
-  *Parent says:* Which row has the most marks? Why do you think so many of them live here?  
-  *Child mode:* Count each row. Which has the most? Why?
+  *Parent says:* Count the marks in each row. Which row has the most?  
+  *Child mode:* Count the marks in each row. Point to the row with the most.
   - Ask: Why do you think there were so many crows or pigeons? (good: They eat many kinds of food.; They can nest on buildings.; There is lots of food on the street.)
-  - Check: Pigeons sat on many window ledges. Why do pigeons like ledges? → **Ledges are like the cliff ledges where wild pigeons nest**
+  - Check: Why do pigeons like window ledges? → **Ledges are like the cliff ledges where wild pigeons nest**
 ### a2 · Sun Road, Shade Road (on a walk with a grown-up) (15 min)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Go out together in the late morning. Stop at a sunny patch of pavement or road edge, away from traffic. Your child touches the ground lightly with the back of one hand.  
@@ -313,43 +313,43 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* Look around you for animals resting in the shade: dogs, cows, cats, birds or people. Count them, from a distance.  
   *Parent says:* Who is resting in the shade? Let's watch from here, without going close.  
-  *Child mode:* Who is resting in the shade? Watch from far away.
+  *Child mode:* Count the animals resting in the shade. Stay far away from them.
   - Note: Watch street dogs, cows and monkeys from a distance. Do not touch or feed them on this walk.
   - Check: On a hot afternoon, where would a street dog most likely sleep? → **In the shade of a tree or a parked car**
 ### a3 · A Map of Homes on Our Street (15 min)
 - **s1 (6 min)**  
-  *Parent does:* Look out of the window together. Your child draws the main things: buildings, a tree, a lamp post, wires, a drain, a wall.  
+  *Parent does:* Look out of the window together. Your child draws the main things: buildings, a tree, a lamp post, wires, a drain, a wall. A child who does not want to draw can tell you where each one is, and you draw it.  
   *Parent says:* Draw our street like a map. What big things are there?  
-  *Child mode:* Draw your street. Draw the tree, the lamp post and the buildings.
+  *Child mode:* Draw the tree, the lamp post and the buildings. Or tell your grown-up where each one is, and they draw it.
 - **s2 (6 min)**  
-  *Parent does:* For each place, your child draws or writes who uses it, and what for.  
+  *Parent does:* For each place, your child points to it and says who uses it, and what for. Write the being's name on a small paper slip and put the slip on that place.  
   *Parent says:* Who uses the tree? Who uses the ledges? Who uses the lamp at night?  
-  *Child mode:* Who uses each place? Draw them there.
+  *Child mode:* Point to a place on your map. Say who uses it. Put a name slip there.
   - Note: Use what your child has really seen if you can. Crows and squirrels in trees, pigeons on ledges, geckos and moths at the lights, ants and cockroaches near drains, dogs under cars.
 - **s3 (3 min)**  
   *Parent does:* Count the beings on the map. Ask which place has the most users.  
   *Parent says:* Which place on our street is home to the most beings?  
-  *Child mode:* Which place has the most beings?
+  *Child mode:* Count the name slips on each place. Point to the place with the most.
   - Ask: Which being on your map is busy at night? (good: The gecko by the lamp.; The moths round the light.; A bat or an owlet, if you saw one.)
 
 ## Projects
 ### p1 · My Street Nature Diary (50 min, 5 days)
-- **record:** The diary, with five drawings and one sentence for each: who, where, and what they were doing.
-- **schedule:** day 1: Make the diary cover. Watch for 5 minutes. Draw one bird. (10 min); day 2: Watch for 5 minutes. Draw one animal who is not a bird. (10 min); day 3: Watch for 5 minutes. Draw one tree or plant, and who uses them. (10 min); day 4: Watch at dusk for 5 minutes, with a grown-up. Draw who comes out in the evening. (10 min); day 5: Watch for 5 minutes. Draw one insect. Then read the diary to someone at home. (10 min)
+- **record:** The diary, with five pages and one sentence for each: who, where, and what they were doing. Add a drawing or a photo where you made one.
+- **schedule:** day 1: Make the diary cover. Watch for 5 minutes. Draw one bird, or tell a grown-up what you saw. (10 min); day 2: Watch for 5 minutes. Pick one animal who is not a bird. Tell a grown-up who they are and what they did, and they write it down. (10 min); day 3: Watch for 5 minutes. Pick one tree or plant. Make a tally mark each time someone visits, and write who came. (10 min); day 4: Watch at dusk for 5 minutes, with a grown-up. Make a list of who comes out in the evening. (10 min); day 5: Watch for 5 minutes. Draw one insect. Then read the diary to someone at home. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* Make the cover together: My Street Nature Diary. Then watch for 5 minutes and draw one bird.  
+  *Parent does:* Make the cover together: My Street Nature Diary. Then watch for 5 minutes and draw one bird, or tell your grown-up what you saw and they write it.  
   *Parent says:* Who did you see? Where were they? What were they doing?  
-  *Child mode:* Watch for 5 minutes. Draw one bird. What were they doing?
+  *Child mode:* Watch for 5 minutes. Pick one bird. Draw it, or tell your grown-up what you saw.
   - Note: One sentence a day is enough at this age. You can write it as your child says it.
 - **s2 (30 min)**  
-  *Parent does:* On each of days 2 to 4, watch and draw as the schedule says.  
+  *Parent does:* On each of days 2 to 4, watch and write as the schedule says.  
   *Parent says:* Today we look for a different being. Who will you find?  
-  *Child mode:* Watch again. Draw a new being today.
+  *Child mode:* Watch again. Pick a new being today.
   - Note: On day 4, watch at dusk from a window or balcony, with a grown-up. A gecko by a light, moths, bats and owlets may come out.
 - **s3 (10 min)**  
   *Parent does:* On day 5, watch for 5 minutes and draw one insect. Then your child reads the whole diary to someone at home.  
-  *Parent says:* Read your diary to someone at home. Then look at your five drawings together. Which beings used a tree? Which beings used a building or a wall?  
-  *Child mode:* Read your diary to someone. Which beings used a tree? Which used a building or a wall?
+  *Parent says:* Read your diary to someone at home. Then look at your five pages together. Which beings used a tree? Which beings used a building or a wall?  
+  *Child mode:* Read your diary to someone at home.
   - Note: Expect answers like these. A crow, a squirrel, a koel or a bee used the tree. A pigeon, a gecko or a myna used a building or a wall. The point is that one street gives many beings a place to nest, rest or find food.
   - Check: Suppose you see a gecko by the light at dusk and a squirrel on the tree at noon. What does this show? → **Different beings use the street at different times**
 
@@ -363,7 +363,7 @@ Arjun drew a small black bird at the top of the tree, with his beak open. Then h
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. Make a list together: who will live on the street, and what each one needs.  
   *Parent says:* Who will live on our new street? What does each of them need?  
-  *Child mode:* Who will live on your street? What does each one need?
+  *Child mode:* Name everyone who will live on your street: birds, insects, street animals and people.
   - Ask: What does a bird need on a street? (good: A tree for a nest.; Food like fruit or insects.; Water in summer.; Quiet, so the songs can be heard.)
 - **s2 (15 min)**  
   *Parent does:* Your child draws or builds the street. They decide where each thing goes.  

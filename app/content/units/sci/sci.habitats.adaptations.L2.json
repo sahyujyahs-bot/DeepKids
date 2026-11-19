@@ -346,7 +346,7 @@
    "title": "Who Am I? A three-clue guessing game",
    "mins": 15,
    "players": "2 to 5 players",
-   "context": "This is a guessing game about living beings and their adaptations. Each card gives three clues, one at a time. The fewer clues you need, the more points you win.",
+   "context": "You will find out which clues about a body and a home give a living being away. Each card gives three clues, one at a time. The fewer clues you need, the more points you win.",
    "printables": [
     {
      "kind": "cards",
@@ -441,9 +441,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Add up the points. Then pick one card and ask which part of that living being's body suits their place.",
-     "say": "Pick one card. Which part of that living being's body is suited to their place? What does that part do?",
-     "kid": "Count your points. Pick one card. Which body part helps that living being in their place?",
+     "do": "Add up the points. Then ask your child to pick one card.",
+     "say": "Pick one card. Which part of that living being's body suits their place? What does that part do?",
+     "kid": "Count your points. Then pick one card and show the clue that helped you most.",
      "parent": "Any card works. For example, a cactus has spines instead of leaves, so she loses little water. A mudskipper breathes through her skin, so she can live on wet mud. A good answer names the body part and the problem of the place that it helps with.",
      "check": {
       "t": "mcq",
@@ -549,7 +549,7 @@
      "mins": 2,
      "do": "1. Cut out the 12 cards. 2. Clear a space. 3. Read every card aloud once together.",
      "say": "Let's learn the moves first. When I say air in, what do you do?",
-     "kid": "Learn the moves. Air in means stand tall."
+     "kid": "Learn the moves. Air in means rise up on your toes."
     },
     {
      "id": "s2",
@@ -562,9 +562,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Sit down and ask one question.",
-     "say": "When you were a shark, why did you have to keep moving?",
-     "kid": "Why did the shark keep moving?",
+     "do": "Sit down together and ask the question below.",
+     "say": "Think back to when you were a shark. You had to keep moving.",
+     "kid": "Remember being the shark. What was hard about it?",
      "ask": [
       {
        "q": "Why did the shark have to keep moving?",
@@ -633,7 +633,7 @@
      "what": "Make the bottle fish and fill the bottle under water. Swap water for air one spoon at a time, and test if it sinks or floats."
     }
    ],
-   "record": "Fill in the table. Draw the bottle fish on the bottom of the bucket, and again floating at the top. Write how many spoons of air it needed.",
+   "record": "Fill in the table. Write how many spoons of air it needed. Take a photo of the bottle on the bottom and again floating, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -655,22 +655,22 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask your child to guess and to say why. Write the guess at the top of the table.",
-     "say": "We will swap some water for air, one spoon at a time. How many spoons until it floats? Why do you think so?",
-     "kid": "We will add air, one spoon at a time. How many spoons to float? Why?"
+     "say": "Next we pour water out of the bottle, one spoon at a time. The space it leaves fills with air. How many spoons until it floats? Why do you think so?",
+     "kid": "Make your guess. Say why you think so."
     },
     {
      "id": "s4",
      "mins": 6,
      "do": "1. Take the bottle out and open it. 2. Pour one tablespoon of water out of the bottle. 3. Close the cap. 4. Put the bottle under the water and let go. 5. Write sinks or floats in the table. 6. Test it once more.",
      "say": "One spoon of water out means one spoon of air in. Now let go. Sink or float?",
-     "kid": "Pour out one spoon of water. Close it. Let go. Sink or float?",
+     "kid": "Pour out one spoon of water. Close the cap. Put the bottle under the water and let go.",
      "parent": "Pour over the bucket. Tilt the bottle slowly to fill the spoon, then stand the bottle straight again. Each time, push the bottle to the middle of the water before you let go. Many 500 ml bottles with five coins float after two to four tablespoons of water are poured out."
     },
     {
      "id": "s5",
      "mins": 3,
      "do": "1. Keep going, one spoon at a time, until the bottle floats. 2. Then pour out three more spoons and test again. 3. Look at how high it floats now.",
-     "say": "How many spoons did it need? Now let's add even more air. Does it float higher?",
+     "say": "It floats! Now let's add even more air. Does it float higher?",
      "kid": "Keep going until it floats. Then pour out three more spoons.",
      "ask": [
       {
@@ -685,9 +685,9 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child three things. What do you think? What did you see? Why did it happen?",
-     "say": "The bottle had coins and lots of water inside, but only a little air. Why did a little air help so much?",
-     "kid": "What did you see? Why did a little air help?",
+     "do": "Ask your child what they saw, and then ask the question below.",
+     "say": "At the start our bottle sank. Now it floats, with only a little air inside.",
+     "kid": "Think about what changed from the start to now.",
      "ask": [
       {
        "q": "Why did a little air make the heavy bottle float?",
@@ -700,7 +700,7 @@
      "parent": "A strong answer uses the result. With no air it sank, and with a little air it floated. Air is much lighter than water. Swapping a little water for air made the whole bottle light enough to float. Many fish have a bag of gas inside like this, called a swim bladder.",
      "check": {
       "t": "mcq",
-      "q": "Many fish have a small bag of gas inside, called a swim bladder. What does it do for the fish?",
+      "q": "Many fish have a bag of gas inside called a swim bladder. What does it do?",
       "options": [
        "It helps the fish see in the dark",
        "It stops the fish from sinking",
@@ -805,7 +805,7 @@
      "what": "Practise and test with smooth fingers. Soak your hand until the fingertips wrinkle. Test again."
     }
    ],
-   "record": "Write the number of marbles moved with smooth fingers and with wrinkly fingers. Draw a wrinkly fingertip.",
+   "record": "Write the number of marbles moved with smooth fingers and with wrinkly fingers. Take a photo of your wrinkly fingertips.",
    "flow": [
     {
      "id": "s1",
@@ -818,7 +818,7 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Now do one real test with smooth fingers. Count the marbles moved in 30 seconds. Write the number down.",
+     "do": "Put the marbles back in the bowl of water. Now do one real test with smooth fingers. Count the marbles moved in 30 seconds. Write the number down.",
      "say": "This is the real test. Thirty seconds. Go!",
      "kid": "Real test. Move as many as you can!"
     },
@@ -827,7 +827,7 @@
      "mins": 1,
      "do": "Ask your child to guess and to say why.",
      "say": "Soon your fingertips will go wrinkly. Will you be faster, slower or the same? Why?",
-     "kid": "Will wrinkly fingers be faster? Why do you think so?"
+     "kid": "Make your guess. Say why you think so."
     },
     {
      "id": "s4",
@@ -849,9 +849,9 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Compare the two numbers. Ask your child what they think, what they saw, and why.",
-     "say": "Were your wrinkly fingers faster? Scientists have found different answers. What did you find?",
-     "kid": "Which was faster? What do you think wrinkles are for?",
+     "do": "Put the two numbers side by side. Then ask the question below.",
+     "say": "Scientists have found different answers to this question. Now you have your own numbers.",
+     "kid": "Look at your two numbers. Which one is bigger?",
      "ask": [
       {
        "q": "What did your test show?",
@@ -916,7 +916,7 @@
    "title": "The Paintbrush Gill: why a fish needs water",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you dip a soft paintbrush in water and lift it out. The brush hairs behave like the thin flaps of a fish's gills.",
+   "context": "You will find out why most fish cannot breathe in air. You dip a soft paintbrush in water and lift it out. The brush hairs behave like the thin flaps of a fish's gills.",
    "materials": [
     {
      "item": "a soft paintbrush, or a make-up brush, or a bunch of thin threads tied at one end",
@@ -934,21 +934,21 @@
      "what": "Look at the dry brush. Dip it in water. Lift it out. Compare."
     }
    ],
-   "record": "Draw the brush in the water and out of the water.",
+   "record": "Tell a grown-up what the hairs did in the water and what they did in the air. Or take a photo of each.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "Look at the dry brush closely with your child.",
-     "say": "Look at all these thin hairs. A fish's gills are made of many thin flaps. The flaps look a little like these hairs.",
-     "kid": "Look at the brush hairs. A fish's gills have thin flaps that look like these hairs."
+     "say": "A fish breathes with gills. Gills are many thin flaps behind her head. They look a little like these hairs.",
+     "kid": "Look closely at the hairs. Touch them gently."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "1. Hold the brush in the glass of water. 2. Gently swish it. 3. Look at the hairs from the side of the glass.",
-     "say": "What do the hairs do in the water?",
-     "kid": "Swish the brush in the water. Look at the hairs.",
+     "say": "Let's see what the hairs do in water.",
+     "kid": "Swish the brush. Watch the hairs.",
      "ask": [
       {
        "q": "What happened to the hairs in the water?",
@@ -963,8 +963,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Lift the brush out of the water and look again.",
-     "say": "Now what happens to the hairs out of the water? What would happen to a fish's gills in air?",
-     "kid": "Lift it out. What happened to the hairs?",
+     "say": "Now the hairs are in air, not in water.",
+     "kid": "Lift the brush out. What did the hairs do?",
      "ask": [
       {
        "q": "Why can't most fish breathe in air?",
@@ -1004,14 +1004,14 @@
    "title": "Camel Close-up: find six desert adaptations",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look closely at a photo of a camel and find six parts of her body that help her in the desert. Then you try some of them with your own body.",
+   "context": "You will find out how a camel is built for the desert. You look closely at a photo of a camel and find six parts of her body that help her. Then you test whether your nose can do what hers does.",
    "materials": [
     {
-     "item": "a photo of a camel close up, on a phone or in a book",
+     "item": "a clear photo of a whole camel, on a phone or in a book",
      "qty": 1
     },
     {
-     "item": "paper and colour pencils",
+     "item": "paper, scissors and a pencil",
      "qty": 1
     }
    ],
@@ -1019,24 +1019,24 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Find six adaptations in a camel photo. Draw and label them. Try a few with your body."
+     "what": "Find six adaptations in a camel photo. Match each one to the problem it helps with. Try one with your body."
     }
    ],
-   "record": "A drawing of a camel with six labels.",
+   "record": "Six paper slips, each with a camel part matched to its desert problem. Take a photo of them.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Look at the camel photo together. 2. Find the hump, the eyelashes, the nostrils, the fur on the back, the knee pads and the feet.",
-     "say": "Let's be detectives. Can you find six parts of this camel that help her in the desert?",
-     "kid": "Find six desert parts on the camel. Point to each one."
+     "do": "1. Look at the camel photo together. 2. Name the parts one at a time: the hump, the eyelashes, the nostrils, the fur on the back, the knee pads and the feet. 3. Your child points to each one on the photo.",
+     "say": "Let's be detectives. I will name a part, and you find it on the camel.",
+     "kid": "Point to each part your grown-up names."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "For each part, ask your child what problem of the desert it helps with.",
-     "say": "What is the hump for? Why do you think her eyelashes are so long?",
-     "kid": "What does each part help with? Say it out loud.",
+     "say": "What do you think the hump is for?",
+     "kid": "Guess what each part is for. Say it out loud.",
      "ask": [
       {
        "q": "Which desert problem do the long eyelashes help with?",
@@ -1051,9 +1051,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Your child tries to close their nostrils without using their fingers (most people cannot, but a camel can). 2. Then they draw the camel and label the six parts. Your child can say the labels and a grown-up writes them.",
-     "say": "Can you close your nose without your fingers, like a camel? Most people cannot. A camel can, and it keeps sand out of her nose in a sandstorm. Now draw the camel.",
-     "kid": "Try to close your nose without your fingers. Then draw the camel.",
+     "do": "1. Your child tries to close their nostrils without using their fingers (most people cannot, but a camel can). 2. Write the six part names on six paper slips. Write the six desert problems on six more slips: little food, blowing sand, sand in the nose, hot sun on her back, soft sand, hot ground. 3. Your child matches each part to its problem.",
+     "say": "Can you close your nose without using your fingers, like a camel can? Most people cannot. Now match each camel part to the problem it helps with.",
+     "kid": "Try to close your nose without your fingers. Then match each part to its problem.",
      "check": {
       "t": "mcq",
       "q": "What does a camel do with her nostrils in a sandstorm?",
@@ -1074,7 +1074,7 @@
     },
     {
      "art": "A child's drawing of a camel with six arrows and labels: hump, eyelashes, nostrils, back fur, knee pads, wide feet.",
-     "caption": "2. Draw the camel and label six parts."
+     "caption": "2. Match each camel part to its desert problem."
     }
    ]
   },
@@ -1083,7 +1083,7 @@
    "title": "Dry Home or Wet Home? Read a plant's leaves",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look at plants in your home, on your balcony or in the kitchen. From their leaves and stems, you guess whether each plant's family comes from a dry place or a wet place.",
+   "context": "You will find out what a leaf can tell you about where its plant comes from. You look at plants in your home, on your balcony or in the kitchen. From their leaves and stems, you guess whether each plant's family comes from a dry place or a wet place.",
    "materials": [
     {
      "item": "3 or 4 plants or leaves, such as aloe vera, a money plant, a cactus, tulsi or curry leaves. If you have none, use photos.",
@@ -1101,21 +1101,21 @@
      "what": "Look at, feel and compare the leaves. Guess each plant's home. Check the answers."
     }
    ],
-   "record": "Draw each leaf. Write 'dry home' or 'wet home' under each one.",
+   "record": "Take a photo of your two piles. Or write each plant's name under 'dry home' or 'wet home'.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Put the plants or leaves side by side. Let your child look at and gently feel each one.",
-     "say": "Feel each leaf. Is it thick or thin? Big or small? Waxy or soft?",
-     "kid": "Feel each leaf. Thick or thin? Waxy or soft?"
+     "do": "Put the plants or leaves side by side. Let your child look at and gently feel each one. Do not let them touch cactus spines.",
+     "say": "Feel each leaf. Is it thick or thin? Big or small? Waxy, which means smooth and shiny like a candle, or soft?",
+     "kid": "Find the thickest leaf. Then find the thinnest."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Ask your child to guess which plants come from dry places and which from wet places, and why.",
+     "do": "Ask your child to sort the plants into two piles, dry place and wet place, and to say why.",
      "say": "Which of these do you think comes from a dry place? What makes you think so?",
-     "kid": "Which plant comes from a dry place? Why?",
+     "kid": "Make two piles: dry place and wet place.",
      "ask": [
       {
        "q": "Why might a plant from a dry place have thick leaves?",
@@ -1130,7 +1130,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Tell your child the answers and compare with the guesses.",
-     "say": "Aloe and cactus come from dry places. The money plant comes from rainforests. Were you right? What do you think about the others?",
+     "say": "Aloe and cactus come from dry places. The money plant comes from rainforests. Were you right?",
      "kid": "Check your guesses. How many were right?",
      "parent": "Aloe vera probably comes from dry lands in Arabia. Most cactus plants come from dry parts of the Americas. The money plant grew wild in a rainforest on an island in the Pacific Ocean, climbing up trees. Tulsi and curry leaves are from India. For these two, any guess with a reason is a good answer.",
      "check": {
@@ -1162,7 +1162,7 @@
    "title": "Fish at the Market (if your family buys whole fish)",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look closely at a whole fish from the market or the kitchen. You count her fins, look at her gills and feel her scales.",
+   "context": "You will find out which parts of a fish help her move, breathe and slide through water. You look closely at a whole fish from the market or the kitchen. You count her fins, look at her gills and feel her scales.",
    "materials": [
     {
      "item": "a whole fish, such as a mathi or rohu, bought for cooking, or a clear photo of a whole fish",
@@ -1180,14 +1180,14 @@
      "what": "Count the fins, look at the gills and feel the scales of a whole fish."
     }
    ],
-   "record": "Draw the fish with every fin, and write how many fins you counted.",
+   "record": "Write how many fins you counted. Take a photo of the fish if you like.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "Put the fish on a plate. Count the fins together: one on the back, one tail fin, two at the sides near the head, two under the belly and one underneath near the tail. A rohu or mathi has seven. Other fish can have a different number.",
-     "say": "Let's count every fin. Point to each one as you count.",
-     "kid": "Count every fin on the fish."
+     "say": "Let's count every fin together.",
+     "kid": "Point to each fin and count out loud."
     },
     {
      "id": "s2",
@@ -1195,23 +1195,7 @@
      "do": "Lift the flap behind the eye and show your child the gills.",
      "say": "These red, feathery parts are the gills. This is how the fish took oxygen from the water.",
      "kid": "Look under the flap. Those red parts are gills.",
-     "adult": true
-    },
-    {
-     "id": "s3",
-     "mins": 3,
-     "do": "Let your child gently feel the scales from head to tail, then tail to head. Wash hands after.",
-     "say": "Feel the scales from head to tail. Now the other way. Which way is smoother? Why might that help a fish?",
-     "kid": "Feel the scales both ways. Which way is smooth?",
-     "ask": [
-      {
-       "q": "Why might the scales be smooth from head to tail?",
-       "good": [
-        "So the fish slides forward through the water.",
-        "Because the fish swims head first."
-       ]
-      }
-     ],
+     "adult": true,
      "check": {
       "t": "mcq",
       "q": "What are the red, feathery parts under the flap behind a fish's eye?",
@@ -1223,6 +1207,22 @@
       "a": 0,
       "why": "These are the gills. Water flows over them and they take oxygen out of the water."
      }
+    },
+    {
+     "id": "s3",
+     "mins": 3,
+     "do": "Let your child gently feel the scales from head to tail, then tail to head. Wash hands after.",
+     "say": "Feel the scales from head to tail. Now feel them from tail to head.",
+     "kid": "Which way feels smoother?",
+     "ask": [
+      {
+       "q": "Why might the scales be smooth from head to tail?",
+       "good": [
+        "So the fish slides forward through the water.",
+        "Because the fish swims head first."
+       ]
+      }
+     ]
     }
    ],
    "setup": [
@@ -1243,7 +1243,7 @@
    "title": "A Camel and a Fish from Waste",
    "mins": 40,
    "days": 2,
-   "context": "In this two-day project you make a model camel and a model fish from things you would throw away. On each model you label the adaptations, and on day 2 your fish model goes in the water.",
+   "context": "You will see for yourself which parts suit a desert animal and which suit a water animal. In this two-day project you make a model camel and a model fish from things you would throw away. On each model you label the adaptations, and on day 2 your fish model goes in the water.",
    "materials": [
     {
      "item": "an empty small box or a toilet paper roll, for the camel's body",
@@ -1282,14 +1282,14 @@
      "what": "Tape cardboard fins onto the bottle fish. Label the fins. Float the bottle and see how it sits in the water."
     }
    ],
-   "record": "The two models, each with labels, and a photo or drawing of the fish floating.",
+   "record": "The two models, each with labels, and a photo of the fish floating.",
    "flow": [
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Tape the legs to the box. 2. Tape a ball of newspaper on top as the hump. 3. Cut wide, round paper feet. 4. Draw long eyelashes. 5. Write a small label for each part.",
-     "say": "What does our camel need for the desert? Let's give her every part we learned about.",
-     "kid": "Build the camel. Add a hump, long legs and wide feet. Label them."
+     "do": "1. Tape the legs to the box. 2. Tape a ball of newspaper on top as the hump. 3. Cut wide, round paper feet and tape them on. 4. Cut thin paper strips for long eyelashes and tape them on. 5. Write a small label for each part.",
+     "say": "Let's build four parts a camel needs in the desert: a hump, long legs, wide feet and long eyelashes.",
+     "kid": "Build the camel's four parts. Write a small label for each."
     },
     {
      "id": "s2",
@@ -1304,7 +1304,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Put the bottle fish in a bucket of water, with the same amount of air inside that made it float in the Bottle Fish experiment. Push it gently and watch.",
-     "say": "How does it sit in the water? Push it gently. Do the fins change how it moves?",
+     "say": "How does it sit in the water? Push it gently and watch what it does.",
      "kid": "Float your fish. Push it gently. Watch the fins.",
      "ask": [
       {
@@ -1374,7 +1374,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the challenge. Remind your child how the bottle sank with no air and floated with a little air.",
-     "say": "In the Bottle Fish experiment, our bottle sank with no air and floated with a little air. Can you make it hang in the middle of the water, like a real fish?",
+     "say": "In the Bottle Fish experiment, our bottle sank with no air and floated with a little air. A real fish can hang still in the middle of the water.",
      "kid": "Can you make the bottle hang in the middle?"
     },
     {
@@ -1388,9 +1388,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Test the best try for a count of ten. Talk about why it was so hard.",
-     "say": "Count to ten. Why was it so hard to get just right?",
-     "kid": "Count to ten. Why was it hard?",
+     "do": "Test the best try for a count of ten. Then ask the question below.",
+     "say": "Let's see if it stays in the middle for a count of ten.",
+     "kid": "Count to ten out loud while the bottle hangs.",
      "ask": [
       {
        "q": "Why is it hard to make the bottle hover?",

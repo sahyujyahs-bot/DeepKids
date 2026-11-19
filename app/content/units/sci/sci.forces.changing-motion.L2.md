@@ -213,7 +213,7 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 - **s3 (2 min)**  
   *Parent does:* Count the points. Then ask your child to think of one thing they saw today that changed shape, speed or direction.  
   *Parent says:* Think of something you saw today that changed shape, speed or direction. Which of the three was it? What pushed or pulled it?  
-  *Child mode:* Think of one thing you saw today that changed. Was it shape, speed or direction? What pushed or pulled it?
+  *Child mode:* Pick one thing you saw today that changed.
   - Note: Any real example works. A good answer names the change and the push or pull, for example: a bus slowing down is a change of speed, and the brakes rub the wheels.
   - Check: A scooter turns right at a corner. What did the force change? → **Its direction**
 ### g2 · Ball Hockey Round the Corner (15 min)
@@ -223,17 +223,17 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 - **s1 (3 min)**  
   *Parent does:* Make the stick and the goal. Set up Course 1.  
   *Parent says:* You can only push the ball with the stick. Where will you push it to make it go faster? To slow it down? To turn it?  
-  *Child mode:* Push only with the stick. Where do you push to turn the ball?
+  *Child mode:* Push the ball with your stick. See what happens when you push from different sides.
   - Ask: Where should you push to turn the ball? (good: From the side.; On the left side, to make it go right.; Not from behind.)
 - **s2 (10 min)**  
   *Parent does:* Play the courses by the rules. Write the pushes on the score sheet.  
   *Parent says:* Count your pushes out loud. Which push made the ball turn?  
-  *Child mode:* Play the course. Count your pushes out loud.
+  *Child mode:* Play the course. Use as few pushes as you can.
   - Note: Gentle pushes work best. A push from behind speeds the ball up, from the front slows it, and from the side turns it.
 - **s3 (2 min)**  
   *Parent does:* Add up the scores. Talk about which course was hardest.  
   *Parent says:* Which course needed the most pushes? Why was it hard?  
-  *Child mode:* Add up your pushes. Which course was hardest?
+  *Child mode:* Add up your pushes on the score sheet.
   - Check: A ball is rolling towards the goal but will miss it on the left. Where should you push it? → **From its left side, to send it right**
 
 ## Experiments
@@ -242,12 +242,12 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 - **predict:** Look at the three paths drawn on the paper. Path A keeps curving. Path B goes straight on. Path C swings out wide. Which path will the marble take when the wall ends? Why do you think so?
 - **fair test:** Start the marble from the same mark each time, with the same gentle push. Try each wall three times, because one try can go wrong. Change only how long the wall is.
 - **safety:** Marbles are a choking risk for children under 3. Keep them away from babies and toddlers, and pick them all up afterwards.
-- **record:** Fill in the results table. Draw the wall from above. Then draw an arrow to show the path the marble really took.
+- **record:** Fill in the results table. Take a photo of the paper with the dots where the marble went, or draw the wall from above and an arrow for the path the marble took.
 - **results table:** Wall | My guess: A, B or C | Try 1 | Try 2 | Try 3 | Was my guess right?
 - **s1 (3 min)**  
   *Parent does:* 1. Put the marble in the steel plate on the floor. 2. Your child moves the plate in small circles until the marble runs round the rim. 3. Then hold the plate still and watch.  
   *Parent says:* Swirl the plate gently. What is the marble doing? What keeps it from rolling away?  
-  *Child mode:* Swirl the plate gently. Watch the marble run round. What keeps it in?
+  *Child mode:* Move the plate in small circles. Watch the marble run round the rim.
   - Ask: What keeps the marble going round? (good: The edge of the plate.; The rim stops it going out.; The rim pushes it back in.)
   - Note: The marble runs round the rim many times. Do not explain yet. Just agree that the rim keeps it in.
 - **s2 (5 min) · grown-up needed**  
@@ -258,7 +258,7 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 - **s3 (3 min)**  
   *Parent does:* 1. Mark a start dot at one end of the wall, on the inside. 2. At the far end, draw three paths with the sketch pen. 3. A keeps curving, B goes straight on, C swings out wide. 4. Ask for a guess and a reason.  
   *Parent says:* The marble will run round the wall. Then the wall ends. Will it take path A, B or C? Why do you think so?  
-  *Child mode:* When the wall ends, will the marble go A, B or C? Why?
+  *Child mode:* Pick A, B or C for where the marble goes when the wall ends.
   - Ask: Why do you think so? (good: A, because it was going round, so it keeps going round.; B, because nothing is pushing it any more.; C, because it was going fast and flies out.)
   - Note: Every guess is fine if it has a reason. Many children, and many grown-ups, guess A. Write the guess in the table.
 - **s4 (4 min)**  
@@ -274,7 +274,7 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 - **s6 (2 min)**  
   *Parent does:* 1. Your child holds the middle of the wall lightly from outside with one finger. 2. Roll the marble again. 3. Then talk about what they saw, and why.  
   *Parent says:* Hold the wall lightly from outside. Did you feel the marble knock against it? So what was the wall doing to the marble all the way round?  
-  *Child mode:* Hold the wall lightly. Do you feel a little knock? What did the wall do?
+  *Child mode:* Hold the wall lightly with one finger. Roll the marble. Can you feel a little knock?
   - Ask: Why did the marble go straight when the wall ended? (good: Nothing was pushing it round any more.; The wall was pushing it, and then the push stopped.; It only turns when something pushes it sideways.)
   - Note: The knock is small with a marble. A heavier ball, such as a small rubber ball, gives a bigger knock. A strong answer says: 'I thought A. It went B. The wall was pushing it round, and when the wall ended, it went straight.' Then read the card called 'Going round a bend needs a push all the way round'.
   - Check: A marble runs round inside a curved wall. The wall ends. Which way does the marble go? → **Straight on, the way it was going**
@@ -286,8 +286,8 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 - **results table:** Books under the ramp | My guess | Try 1 (hand-spans) | Try 2 (hand-spans) | Try 3 (hand-spans)
 - **s1 (3 min)**  
   *Parent does:* 1. Draw the results table. 2. Ask your child to guess which height will send the ball furthest, and why.  
-  *Parent says:* We will roll a ball down a ramp, without pushing it. Which ramp will send it furthest: 1 book, 2 books or 3? Why do you think so?  
-  *Child mode:* Which ramp will send the ball furthest? Why do you think so?
+  *Parent says:* We will roll a ball down a ramp, without pushing it. Guess which ramp will send it furthest: 1 book, 2 books or 3.  
+  *Child mode:* Which ramp will send the ball furthest?
   - Ask: Why do you think so? (good: 3 books, because it is steeper.; 3 books, because the ball goes faster downhill.; They will be the same, because it is the same ball.)
 - **s2 (5 min)**  
   *Parent does:* 1. Put one end of the ramp on 1 book. 2. Spread the cloth flat at the bottom. 3. Mark the top of the ramp. 4. Your child holds the ball on the mark and lets go. 5. Mark where it stops. 6. Try three times.  
@@ -297,12 +297,12 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 - **s3 (7 min)**  
   *Parent does:* 1. Add a second book and do three tries. 2. Add a third book and do three tries. 3. Each time, count the hand-spans from the end of the ramp to the ball.  
   *Parent says:* Now the ramp is steeper. Watch the ball at the bottom of the ramp. Is it going faster? Count your hand-spans.  
-  *Child mode:* Add a book. Let go again. Count the hand-spans.
+  *Child mode:* Add a book. Let go again. Stretch your hand wide and count how many hand-spans the ball rolled.
   - Note: From 3 books the ball comes off the ramp faster and rolls further. Count in your child's hand-spans, so the numbers are theirs.
 - **s4 (5 min)**  
   *Parent does:* Look at the table together. Ask your child which ramp sent the ball furthest, and why.  
-  *Parent says:* Which ramp sent the ball furthest? Nobody pushed the ball. So what made it go faster?  
-  *Child mode:* Which ramp won? Nobody pushed the ball. What made it go?
+  *Parent says:* Look at the table. Which ramp sent the ball furthest? Nobody pushed the ball.  
+  *Child mode:* Look at your table. Which ramp won?
   - Ask: What made the ball go faster on the steep ramp? (good: The Earth pulled it down.; Gravity pulled it down the slope.; It was going downhill more steeply.)
   - Note: Gravity, the pull of the Earth, speeds the ball up as it rolls down. On a steeper ramp it speeds the ball up more. The cloth then slows it down. So one force sped it up and another slowed it.
   - Check: Nobody pushed the ball, but it went faster down the ramp. What pulled it? → **Gravity, the pull of the Earth**
@@ -310,7 +310,7 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 ## Activities
 ### a1 · Foil Shapes: squash, bend, twist and stretch (10 min)
 - **safety:** Let go of the stretched band with your hand pointing away from faces.
-- **record:** Draw your foil shape. Write or draw each change in the STAYS or SPRINGS BACK column.
+- **record:** Your STAYS and SPRINGS BACK sheet, with a photo or a drawing of your favourite foil shape.
 - **s1 (3 min)**  
   *Parent does:* 1. Give your child the foil. 2. Ask them to squash it into a ball. 3. Then ask them to open their hands and look.  
   *Parent says:* Squash the foil into a ball with both hands. Your hands are pushing. Now open your hands. Is it still a ball?  
@@ -324,17 +324,17 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
   *Parent says:* Stretch the band. That is a pull. Now let it go, with your hand pointing away from faces. What happens to its shape?  
   *Child mode:* Stretch the band. Let go gently. What happens?
 - **s4 (2 min)**  
-  *Parent does:* Your child writes or draws each change in the STAYS or SPRINGS BACK column.  
+  *Parent does:* Lay the paper flat. For each change, your child puts the foil or the band in the STAYS or SPRINGS BACK column. They say what they did to it.  
   *Parent says:* Which shapes stayed? Which sprang back? Why do you think they are different?  
-  *Child mode:* Which shapes stayed? Which sprang back?
+  *Child mode:* Sort each change: does the shape stay, or spring back?
   - Ask: What changed the shape each time? (good: My hands pushed it.; I pulled it.; A push or a pull.)
   - Note: Foil keeps its new shape. The rubber band springs back. Both changed shape because of a push or a pull.
 ### a2 · The Bottle Squeeze: cap on or cap off? (10 min)
-- **record:** Draw the bottle with the cap off and with the cap on, while you squeeze it. Write which was harder.
+- **record:** Tell a grown-up which was harder to squeeze, cap on or cap off, and which sprang back. They write it down. Add a drawing of the bottle if you like.
 - **s1 (3 min)**  
   *Parent does:* 1. Take the cap off. 2. Your child holds the neck near their cheek and squeezes the bottle hard. 3. Then they let go.  
   *Parent says:* Squeeze the bottle with the cap off. What do you feel on your cheek? Now let go. Does it go back?  
-  *Child mode:* Cap off. Squeeze near your cheek. What do you feel?
+  *Child mode:* Take the cap off. Hold the neck near your cheek and squeeze hard.
   - Note: Air rushes out of the neck onto the cheek. When your child lets go, the bottle may stay dented, or come back slowly with a crackle as air goes back in.
 - **s2 (4 min)**  
   *Parent does:* 1. Pull the bottle out to its old shape, so air goes back in. 2. Screw the cap on tight. 3. Your child squeezes as hard as before.  
@@ -343,11 +343,11 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
   - Ask: Why is it harder with the cap on? (good: The air cannot get out.; The air inside pushes back.; It is full of air.)
 - **s3 (3 min)**  
   *Parent does:* Talk about what your child felt.  
-  *Parent says:* With the cap on, the air was trapped inside. Your squeeze pushed on the air, and the air pushed back. Which bottle sprang back to its shape?  
-  *Child mode:* The air was trapped. It pushed back. Which bottle sprang back?
+  *Parent says:* With the cap on, the air was trapped inside. Your squeeze pushed on the air, and the air pushed back.  
+  *Child mode:* Which sprang back to its shape: cap on or cap off?
   - Note: With the cap on, the squeezed air pushes outwards on the plastic, so the bottle springs back at once. Air is invisible, but it can push.
 ### a3 · Bounce Off the Wall: which way does the ball go? (15 min)
-- **record:** Draw the wall from above. Draw arrows for the ball's path before and after it hit the wall.
+- **record:** Take a photo of the paper slips that mark the path in and the path out. Or draw the wall from above with an arrow in and an arrow out.
 - **s1 (3 min)**  
   *Parent does:* 1. Your child sits about two big steps from the wall. 2. They roll the ball straight at the wall. 3. Watch where it comes back.  
   *Parent says:* Roll the ball straight at the wall. Where does it go after it hits?  
@@ -360,19 +360,19 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 - **s3 (5 min)**  
   *Parent does:* 1. Put the tumbler on its side, a little away from the wall. 2. Your child tries to bounce the ball off the wall so it rolls into the tumbler. 3. Count the tries it takes.  
   *Parent says:* Can you get the ball into the tumbler by bouncing it off the wall? Where on the wall should you aim?  
-  *Child mode:* Bounce the ball off the wall into the tumbler. Where will you aim?
+  *Child mode:* Bounce the ball off the wall so it rolls into the tumbler.
   - Note: A ball that hits the wall at a slant comes off at about the same slant the other way. Spin and bumps on the floor change it a little, so it takes a few tries.
 - **s4 (2 min)**  
   *Parent does:* Talk about what pushed the ball.  
   *Parent says:* The wall did not move. But the ball changed direction. What pushed the ball?  
-  *Child mode:* The wall did not move. What pushed the ball?
+  *Child mode:* Tell your grown-up what you think pushed the ball.
   - Note: The wall pushed the ball. A wall pushes back on anything that pushes it.
 ### a4 · Change Spotter: a tally from the window and the kitchen (10 min)
 - **record:** Your tally chart, with the column that has the most marks circled.
 - **s1 (5 min)**  
   *Parent does:* 1. Stand at a window with the tally sheet. 2. For every change your child sees, they make a tally mark in the right column.  
   *Parent says:* Watch the road. A bus slowing down is a change of speed. A scooter turning is a change of direction. Make a mark for each one.  
-  *Child mode:* Watch the road. Make a mark for every change you see.
+  *Child mode:* Watch the road. Make a mark for each thing that speeds up, slows down or turns.
   - Note: Crows and pigeons landing count as speed changes. A bird swooping round counts as direction.
 - **s2 (4 min)**  
   *Parent does:* 1. Go to the kitchen. 2. Your child watches someone cook, or presses dough, squeezes a lemon or folds a cloth themselves. 3. Add tally marks.  
@@ -381,25 +381,25 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 - **s3 (1 min)**  
   *Parent does:* Count each column.  
   *Parent says:* Which column has the most marks? What pushed or pulled each thing?  
-  *Child mode:* Count each column. Which has the most?
+  *Child mode:* Count the marks in each column.
 
 ## Projects
 ### p1 · My Force Book: shape, speed and direction (30 min, 3 days)
-- **record:** The finished book, with a before and after drawing on the shape page and arrows on the speed and direction pages.
-- **schedule:** day 1: Make the book. Shape page: change the shape of three things and draw them before and after. (10 min); day 2: Speed page: make a ball speed up and slow down, and draw the push with an arrow. (10 min); day 3: Direction page: turn a ball three ways, and draw each path with arrows. Read the book to someone. (10 min)
+- **record:** The finished book: what you did to three things on the shape page, arrows on the speed page, and a line or a photo for each way of turning the ball on the direction page.
+- **schedule:** day 1: Make the book. Shape page: change the shape of three things, write what you did, and draw one before and after. (10 min); day 2: Speed page: make a ball speed up and slow down, and draw the push with an arrow. (10 min); day 3: Direction page: turn a ball three ways, and write a line or add a photo for each. Read the book to someone. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Fold and staple the book. 2. Your child writes MY FORCE BOOK on the cover. 3. On the SHAPE page, they change three things and draw each one before and after.  
-  *Parent says:* Find three things you can change the shape of. Draw each one before you change it, and after.  
-  *Child mode:* Change the shape of three things. Draw before and after.
+  *Parent does:* 1. Fold and staple the book. 2. Your child writes MY FORCE BOOK on the cover. 3. On the SHAPE page, they change three things and write what they did to each (squashed, bent, stretched). They draw one of them before and after.  
+  *Parent says:* Find three things you can change the shape of. Write what you did to each one. Draw one of them before and after.  
+  *Child mode:* Change the shape of three things. Write what you did to each.
 - **s2 (10 min)**  
-  *Parent does:* 1. On the SPEED page, your child rolls a ball. 2. They make it faster with a push from behind. 3. Then they make it slower with a push from the front. 4. They draw both pushes with arrows.  
-  *Parent says:* Make the ball go faster. Now make it slower. Draw an arrow to show where you pushed each time.  
-  *Child mode:* Make the ball faster, then slower. Draw arrows for your pushes.
+  *Parent does:* 1. On the SPEED page, your child rolls a ball. 2. They make it faster with a push from behind. 3. Then they make it slower with a push from the front. 4. On the page they write FASTER and SLOWER. They show each push with an arrow, drawn or cut from paper.  
+  *Parent says:* Make the ball go faster. Now make it slower. Where did you push each time?  
+  *Child mode:* Make the ball faster, then slower. Show each push with an arrow, drawn or cut from paper.
   - Wait: Day 2
 - **s3 (10 min)**  
-  *Parent does:* 1. On the DIRECTION page, your child turns a ball three ways: with a side push, off a wall, and round a curve. 2. They draw each path with arrows. 3. They read the whole book to someone.  
-  *Parent says:* Turn the ball three different ways. Draw each path. Then read your book to someone, and tell them what pushed each time.  
-  *Child mode:* Turn the ball three ways. Draw each path. Read your book to someone.
+  *Parent does:* 1. On the DIRECTION page, your child turns a ball three ways: with a side push, off a wall, and round a curve. 2. They mark each path with paper slips on the floor. 3. On the page they write one line about each, or tape in a photo. 4. They read the whole book to someone.  
+  *Parent says:* Turn the ball three different ways. Write one line about each. Then read your book to someone, and tell them what pushed each time.  
+  *Child mode:* Turn the ball three ways. Write one line about each. Read your book to someone.
   - Ask: What is the same about every page of your book? (good: A push or a pull made every change.; There is a force on every page.; Something pushed each thing.)
   - Wait: Day 3
 
@@ -413,7 +413,7 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 - **s1 (3 min)**  
   *Parent does:* Set up the tumbler, the book and the start line. Read the challenge together.  
   *Parent says:* The book is in the way, so the ball cannot go straight. How can you make it turn without touching it?  
-  *Child mode:* The book is in the way. How can walls turn the ball?
+  *Child mode:* Look at the book in the way. Where could a wall go?
 - **s2 (12 min)**  
   *Parent does:* Your child builds walls and tests them. Help hold walls while they tape.  
   *Parent says:* Try it. Where did the ball go after your last wall? What will you change?  
@@ -422,7 +422,7 @@ Kavya looked at the auto's front wheel, turned to the left. She looked at the ro
 - **s3 (5 min)**  
   *Parent does:* Talk about what worked.  
   *Parent says:* Which wall did the turning? What did each wall do to the ball?  
-  *Child mode:* Which wall turned the ball? What did it do?
+  *Child mode:* Point to the wall that turned the ball.
   - Check: The ball leaves the last wall and misses the tumbler. Which way did it go after the wall? → **Straight on, the way it was going**
 
 ## Worksheets
