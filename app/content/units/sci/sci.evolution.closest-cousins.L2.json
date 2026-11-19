@@ -420,7 +420,7 @@
      "what": "Make the tissue flag and test it by breathing on it. Guess which way the flag will move when you laugh. Each person laughs three times while someone counts the 'ha' sounds. Then laugh like a chimpanzee and compare."
     }
    ],
-   "record": "Fill in the results table for each person. Draw yourself laughing with the flag, and draw an arrow to show which way the air went. Then draw the flag when you laughed like a chimpanzee.",
+   "record": "Fill in the results table for each person. Then tell your grown-up which way the flag moved when you laughed, and when you laughed like a chimpanzee. Take a photo of the flag if you like.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -504,7 +504,7 @@
      "mins": 2,
      "do": "1. Ask for a guess and a reason. 2. Write the guesses at the top of the results table. 3. Don't say what will happen.",
      "say": "Soon you will laugh with the flag in front of your mouth. Will the flag blow away, move towards you, or both? How many 'ha' sounds will you make in one breath? Why do you think so?",
-     "kid": "Soon you will laugh with the flag near your mouth. Which way will the flag move? How many 'ha' sounds will you make in one breath? Say why you think so.",
+     "kid": "Soon you will laugh with the flag near your mouth. Which way will the flag move? How many 'ha' sounds will you make in one breath?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -557,7 +557,7 @@
      "mins": 3,
      "do": "1. Ask your child to say what they think, what they saw and why. 2. Then tell them about the real study.",
      "say": "Tell me three things. What did you find out about your laugh? What did you see that shows it? And how is a chimpanzee's laugh different? In 2009, a scientist named Marina Davila-Ross recorded tickled young apes and human babies. All of them laughed, each in their own way.",
-     "kid": "Say what you found out about your laugh. Say what the flag showed. Say how a chimpanzee's laugh is different.",
+     "kid": "Tell your grown-up what you found out about your laugh. Then say how a chimpanzee's laugh is different.",
      "check": {
       "t": "mcq",
       "q": "When you laughed, which way did the flag blow?",
@@ -577,8 +577,8 @@
    "title": "The Hands-Free Test: how should a mother carry a baby?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you carry a pretend baby in two ways: in your arm, and in a cloth sling. You count how much work you can do in one minute each way. Then you find out how ape babies solve the same problem.",
-   "problem": "A baby is heavy, and a mother needs both hands to work. A human mother can carry her baby in a cloth sling. A chimpanzee baby holds on to her mother's hair. In this test you carry a pretend baby in your arm, and then in a sling, and count how many things you can move in one minute.",
+   "context": "In this experiment you carry a pretend baby in two ways: in your arm, and in a cloth sling. You count how much work you can do in one minute each way. You will find out why free hands matter to a mother, and how ape babies solve the problem.",
+   "problem": "A baby is heavy, and a mother needs both hands to work. A human mother can carry her baby in a cloth sling. A chimpanzee baby holds on to their mother's hair. In this test you carry a pretend baby in your arm, and then in a sling, and count how many things you can move in one minute.",
    "question": "Which way of carrying a baby lets you get more work done: holding the baby in your arm, or carrying the baby in a cloth sling?",
    "predict": "You will move small things from one bowl to another for one minute while you carry a pretend baby. The first time, you hold the baby in your arm. The second time, the baby is in a sling. How many things do you think you will move each way? Why do you think so?",
    "fair_test": "We use the same baby, the same bowls and the same 20 things, for exactly one minute each time. You carry only one thing in each free hand at a time. You try each way twice, because the first try is often slower.",
@@ -616,7 +616,7 @@
      "what": "Make the pretend baby and the sling. Guess how many things you will move each way. Carry the baby in your arm, then in the sling, and count the things you move."
     }
    ],
-   "record": "Fill in the results table. Draw yourself carrying the baby both ways, and draw how a chimpanzee baby holds on.",
+   "record": "Fill in the results table. Then take a photo of yourself carrying the baby each way, or tell your grown-up how a chimpanzee baby holds on.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: things moved in one minute",
@@ -674,7 +674,7 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Tie the baby to your child's back or front with the dupatta, over one shoulder and round the waist. 2. Check that it feels firm and comfortable. 3. Start the timer. 4. They move things with both hands, one in each hand. 5. Count. Then try again.",
-     "say": "Now the baby is in a sling, like the way many mothers carry babies in a saree. Ready, go! You can use both hands now.",
+     "say": "Now the baby is in a sling. Many mothers in India carry their babies in a saree like this. Ready, go! You can use both hands now.",
      "kid": "Now the baby is tied on with a cloth. Use both hands. Move as many as you can in one minute. Count them.",
      "adult": true,
      "parent": "Tie the knot yourself and check it does not press on the neck. Most children move many more things with the sling."
@@ -741,7 +741,7 @@
      "what": "Guess why apes groom. Groom each other for 2 minutes each. Talk about how it felt and who grooms whom at home."
     }
    ],
-   "record": "Draw the two of you grooming. Under it, write or say one word for how it felt.",
+   "record": "Say one word for how it felt. Take a photo of the two of you if you like.",
    "setup": [
     {
      "art": "A grown-up sitting behind a girl on the floor, gently parting her hair with their fingers.",
@@ -762,7 +762,7 @@
      "mins": 2,
      "do": "Ask for a guess before you start.",
      "say": "Chimpanzees spend a lot of time picking through each other's hair with their fingers. It is called grooming. Why do you think they do it?",
-     "kid": "Chimpanzees pick through each other's hair. This is called grooming. Why do you think they do it?",
+     "kid": "Chimpanzees pick through each other's hair. This is called grooming.",
      "ask": [
       {
        "q": "Why do you think chimpanzees groom each other?",
@@ -796,7 +796,7 @@
      "mins": 4,
      "do": "1. Ask how it felt. 2. Ask who grooms whom at home. 3. Then explain why apes groom.",
      "say": "How did it feel to be groomed? And to groom me? Who in our family combs or oils someone's hair? Chimpanzees groom to get out dirt and tiny insects. Grooming also keeps them friends, and calms them down after a fight.",
-     "kid": "How did it feel? Who combs or oils hair in your home? Chimpanzees groom to stay clean. Grooming keeps them friends too.",
+     "kid": "Think about how it felt to groom and to be groomed. Then listen to why chimpanzees groom.",
      "ask": [
       {
        "q": "Who grooms whom in our home?",
@@ -848,7 +848,7 @@
      "what": "Pick up a handkerchief and a pencil with your toes. Count the seconds. Compare with your hand."
     }
    ],
-   "record": "Write how many seconds each try took. Draw your foot and a chimpanzee's foot side by side.",
+   "record": "Write how many seconds each try took. Then hold up your thumb and your big toe. Say which one can bend across to the others.",
    "setup": [
     {
      "art": "A child sitting on the floor, bare foot curling round a handkerchief to lift it.",
@@ -869,7 +869,7 @@
      "mins": 4,
      "do": "1. Your child sits on the floor with bare feet. 2. Put the handkerchief on the floor. 3. Time how many seconds it takes to lift it with the toes of one foot.",
      "say": "Can your foot grip like a hand? Pick up the handkerchief with your toes only. I'll count the seconds.",
-     "kid": "Sit on the floor with bare feet. Pick up the handkerchief with your toes. Count the seconds."
+     "kid": "Sit on the floor with bare feet. Pick up the handkerchief with your toes only. Your grown-up counts the seconds."
     },
     {
      "id": "s2",
@@ -904,7 +904,7 @@
    "title": "The Gibbon Duet: India's own ape",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you meet the hoolock gibbon, the only ape who lives wild in India. Then you sing a call-and-answer song together, the way gibbon pairs do in the morning.",
+   "context": "In this activity you meet the hoolock gibbon, the only ape who lives wild in India. Then you sing a call-and-answer song together, the way gibbon pairs do in the morning. You will find out why gibbons sing.",
    "materials": [
     {
      "item": "a map of India, in a school atlas or on a phone",
@@ -918,7 +918,7 @@
      "what": "Find the North-east of India on the map. Learn about hoolock gibbons. Sing a call-and-answer duet."
     }
    ],
-   "record": "Draw a hoolock gibbon pair singing in a tree. Mark Assam on a small map of India.",
+   "record": "Point to Assam on the map. Then sing the call and answer for a family member who was not there. Or draw the gibbon pair singing in a tree.",
    "setup": [
     {
      "art": "A map of India with the North-eastern states coloured green and a small gibbon drawn in Assam.",
@@ -946,7 +946,7 @@
      "mins": 3,
      "do": "Explain how gibbon families live and sing.",
      "say": "A hoolock gibbon family is small: a mother, a father and their young. In the morning, the pair sing together, very loudly. Grown-up males are black and grown-up females are a pale golden brown. Why might a family sing together every morning?",
-     "kid": "A gibbon family is a mother, a father and their young. In the morning, the pair sing together, very loudly. Why might they sing?",
+     "kid": "A gibbon family is a mother, a father and their young. In the morning, the pair sing together, very loudly.",
      "ask": [
       {
        "q": "Why might a gibbon family sing together every morning?",
@@ -976,7 +976,7 @@
    "title": "Which Ape Am I? A guessing game",
    "mins": 15,
    "players": "2 to 4 players, or 1 child with a grown-up",
-   "context": "This is a card game about how each ape lives. One player reads a clue, and the others guess which ape the clue is about.",
+   "context": "This is a card game about how each ape lives. One player reads a clue, and the others guess which ape the clue is about. You will find out where each ape lives and what each one does.",
    "printables": [
     {
      "kind": "cards",
@@ -1209,7 +1209,7 @@
    "title": "Where Apes Live: a map of ape homes",
    "mins": 40,
    "days": 2,
-   "context": "In this two-day project you make a map of the world that shows where each kind of ape lives in the wild. You also mark where you live.",
+   "context": "In this two-day project you make a map of the world that shows where each kind of ape lives in the wild. You also mark where you live. You will see how far away the apes are from your home.",
    "materials": [
     {
      "item": "a school atlas, or a world map on a phone to copy from",
@@ -1241,7 +1241,7 @@
     {
      "day": 2,
      "mins": 20,
-     "what": "Draw each ape in their home. Label them. Mark your own city."
+     "what": "Stick a name on each ape's forest. Mark your own city."
     }
    ],
    "record": "Keep your map. Take a photo of it or put it on the wall.",
@@ -1252,7 +1252,7 @@
     },
     {
      "art": "The finished map with green patches in Central and West Africa, Borneo, Sumatra and North-east India, a small ape drawn on each, and a red dot for the child's own city.",
-     "caption": "2. Draw each ape in their forest. Mark your city."
+     "caption": "2. Stick each ape's name on their forest. Mark your city."
     }
    ],
    "flow": [
@@ -1267,9 +1267,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Your child draws each ape in their forest. 2. They write a label for each. 3. They put a dot where your family lives.",
-     "say": "Now draw each ape at home. Then put a dot for our city. Measure with a ruler or a piece of string. Which ape lives nearest to us?",
-     "kid": "Draw each ape in their forest. Write their names. Put a dot for your city. Which ape lives nearest?",
+     "do": "1. Your child writes each ape's name on a paper slip and glues it on that ape's forest. 2. They put a dot where your family lives. 3. They measure from the dot to each forest with the string.",
+     "say": "Now put a name slip on each ape's forest. Then put a dot for our city. Measure from our dot to each forest with a ruler or a piece of string. Which ape lives nearest to us?",
+     "kid": "Stick each ape's name on their forest. Put a dot for your city. Measure from the dot to each forest.",
      "ask": [
       {
        "q": "Which ape lives nearest to us? Which lives farthest away?",
@@ -1347,7 +1347,7 @@
      "mins": 10,
      "do": "1. Your child rolls the sticks and builds a nest. 2. Help only when asked. 3. Test it with the toy and the notebooks for one minute.",
      "say": "Build your nest. When you are ready, put the toy and the notebooks on it. I'll count to sixty.",
-     "kid": "Roll the sticks. Build your nest. Put the toy and notebooks on it. Count to sixty."
+     "kid": "Roll the sticks. Build your nest. Put the toy and notebooks on it. Wait one minute."
     },
     {
      "id": "s3",

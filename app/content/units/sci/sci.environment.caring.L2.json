@@ -264,7 +264,7 @@
    "title": "The Wet Loop Test: which litter could a bird pull free from?",
    "mins": 27,
    "days": 1,
-   "context": "In this experiment you make loops from paper, cloth and plastic. You soak them in water, like litter in a lake or a puddle. Then you try to pull each loop apart, the way a trapped bird would.",
+   "context": "In this experiment you make loops from paper, cloth and plastic. You soak them in water, like litter in a lake or a puddle. Then you try to pull each loop apart, the way a trapped bird would. You will find out why a wet plastic loop can trap a bird, but a wet paper loop cannot.",
    "problem": "Litter can trap an animal when it forms a loop or a long string that the animal cannot break. In this test you make loops from paper, cloth and plastic and soak them in water. Then you pull each one gently. You find out which loops a bird could break, and which loops a bird could not break.",
    "question": "After a soak in water, which loops tear when you pull them gently: paper, cloth or plastic? Which loops stay whole?",
    "predict": "Guess first. Which wet loop will tear: paper, cloth or plastic? Which will stay whole? Why do you think so?",
@@ -302,7 +302,7 @@
     }
    ],
    "safety": "A grown-up cuts the strips. Pull gently with your fingers. Stop if a loop pinches or cuts into your fingers.",
-   "record": "Fill in the table. Then draw the four loops after the test, showing which ones tore.",
+   "record": "Fill in the table. Then take a photo of the four loops after the test, or draw them, showing which ones tore.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results from one family in Visakhapatnam",
@@ -358,7 +358,7 @@
      "mins": 5,
      "do": "1. Cut two newspaper strips, one cloth strip and one milk-packet strip, all the same size. 2. Help your child tie each strip into a loop with one knot.",
      "say": "These loops are like litter. A bird or a cow could get a foot or a neck caught in a loop. Let's find out which loops they could break.",
-     "kid": "A grown-up cuts four strips. Tie each one into a loop.",
+     "kid": "Tie each strip into a loop with one knot.",
      "parent": "Make the strips two fingers wide and about 30 centimetres long. Tie the paper loop loosely, so it does not tear while you knot it. Cut the milk packet smoothly, with no nicks in the edge, because a nick can make the plastic tear. Lift the wet paper loop out gently, so it does not tear before the test.",
      "adult": true
     },
@@ -384,9 +384,9 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Put the paper, cloth and plastic loops in the bowl. 2. Push them under the water. 3. Keep the second paper loop dry on the table. 4. Wait 10 minutes.",
-     "say": "While we wait, let's look. Which loop is soaking up water? Which one is floating? Draw the bowl.",
-     "kid": "Put three loops in the water. Wait 10 minutes. Keep one paper loop dry.",
-     "parent": "Use the 10 minutes to draw the bowl, or to read the story. The plastic strip may float, so push it under now and then.",
+     "say": "While we wait, let's watch the bowl. What is happening to each loop?",
+     "kid": "Watch the bowl. Point to the loop that floats.",
+     "parent": "Use the 10 minutes to read the story. The plastic strip may float, so push it under now and then.",
      "wait": "10 minutes"
     },
     {
@@ -401,8 +401,8 @@
      "id": "s5",
      "mins": 4,
      "do": "Fill in the table together. Then ask your child what they found, and why they think it happened.",
-     "say": "Which loop tore? Which loops stayed whole? Look at the two paper loops. What did the water do to the paper?",
-     "kid": "Look at your table. What did you find? Why?",
+     "say": "Look at the two paper loops, the dry one and the wet one. What did the water do to the paper?",
+     "kid": "Look at your table. Tell your grown-up what you found.",
      "think": "A pigeon gets a foot caught in a wet plastic loop in a puddle. Can she pull free?",
      "check": {
       "t": "mcq",
@@ -423,7 +423,7 @@
    "title": "Bag in the Bucket: does a floating plastic bag look like a living animal?",
    "mins": 15,
    "days": 1,
-   "context": "Some sea turtles eat jellyfish. Jellyfish are soft, see-through animals who float and drift in the sea. In this experiment you put a thin plastic bag in a bucket of water and watch how it moves. You compare it with paper and cloth.",
+   "context": "Some sea turtles eat jellyfish. Jellyfish are soft, see-through animals who float and drift in the sea. In this experiment you put a thin plastic bag in a bucket of water and watch how it moves. You compare it with paper and cloth. You will find out why a hungry turtle might mistake a floating bag for food.",
    "problem": "Some sea turtles eat jellyfish. Jellyfish are soft, pale animals that drift in the sea. A thin plastic bag in water can puff open and drift in the same way. In this test you look at how a bag moves in water. Then you can see why a hungry turtle might mistake a bag for food.",
    "question": "In water, does a thin plastic bag look and move like a floating jellyfish? Do paper and cloth look like that too?",
    "predict": "Guess first. Which one will look most like a floating jellyfish: the plastic bag, the paper or the cloth? Why do you think so?",
@@ -432,7 +432,7 @@
     "Thing in the water",
     "My guess: looks like a jellyfish?",
     "Does it float, sink or drift?",
-    "Does it look like a jellyfish? Draw it."
+    "Does it look like a jellyfish? Yes or no, and why."
    ],
    "materials": [
     {
@@ -460,7 +460,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw each thing in the water, and the jellyfish picture next to them.",
+   "record": "Fill in the table. Take a photo of each thing in the water, or draw the bag next to the jellyfish picture.",
    "setup": [
     {
      "art": "A bucket of water on a bathroom floor, with a thin white plastic bag, a newspaper sheet and a handkerchief beside it.",
@@ -481,7 +481,7 @@
      "mins": 3,
      "do": "Show a picture of a jellyfish, or draw one: a round soft dome with long thin arms hanging down. Ask for a guess and a reason.",
      "say": "Some sea turtles eat jellyfish. Which will look most like a jellyfish in water: the plastic bag, the paper or the cloth? Why do you think so?",
-     "kid": "Look at the jellyfish picture. Guess which thing will look like a jellyfish. Why?",
+     "kid": "Look at the jellyfish picture. Think about how a jellyfish floats and moves.",
      "ask": [
       {
        "q": "Which one will look like a jellyfish? Why?",
@@ -503,9 +503,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Compare your child's drawings with the jellyfish picture.",
-     "say": "Which one looked most like a jellyfish? What might a hungry turtle do if she saw the bag?",
-     "kid": "Which one looked most like a jellyfish? Why might a turtle eat the bag?",
+     "do": "Look at the table and the jellyfish picture together.",
+     "say": "Look at the jellyfish picture again. What might a hungry turtle do if she saw the bag?",
+     "kid": "Look at your table. Think about a hungry turtle in the sea.",
      "check": {
       "t": "mcq",
       "q": "Which one drifted and looked most like a jellyfish?",
@@ -528,7 +528,7 @@
    "title": "Loop Hunt: find the traps in our dry waste",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look through one day's dry waste for loops and strings that could trap an animal. Then you snip each loop open.",
+   "context": "In this activity you look through one day's dry waste for loops and strings that could trap an animal. Then you snip each loop open. You will find out how many traps one home throws away in a day.",
    "problem": "A loop of rubber, string or plastic can close round a bird's foot or a dog's nose and trap them. In this activity you look through one day's dry waste for loops. Then you snip each loop open, so it becomes a strip that cannot trap anyone.",
    "materials": [
     {
@@ -595,7 +595,7 @@
    "title": "Spot the Care: three places near home",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look at three places near your home, from a window or on a short walk with a grown-up. For each place, you say whether people have cared for it, and how it could be better.",
+   "context": "In this activity you look at three places near your home, from a window or on a short walk with a grown-up. For each place, you say whether people have cared for it, and how it could be better. You will find out which places near you need help.",
    "materials": [
     {
      "item": "a notebook and pencil",
@@ -604,7 +604,7 @@
    ],
    "safety": "Look at litter, but do not touch it. Stay with a grown-up outside.",
    "adult": true,
-   "record": "Draw a table with one row for each of the three places. In each row, write the place, draw a smiling or sad face, and write one way to make the place better.",
+   "record": "Make a table with one row for each of the three places. In each row, write the place, write cared for or needs care, and write one way to make the place better.",
    "setup": [
     {
      "art": "A girl at a window with a notebook, looking down at a parking area, a street and a small garden.",
@@ -612,7 +612,7 @@
     },
     {
      "art": "A notebook page with three rows: a parking area with a sad face, a street with a sad face, a garden with a smiling face, and ideas written beside each.",
-     "caption": "2. Give each place a face and one idea."
+     "caption": "2. Mark each place cared for or needs care, and add one idea."
     }
    ],
    "flow": [
@@ -621,14 +621,14 @@
      "mins": 3,
      "do": "Choose three places, such as the parking area, the street and a garden or the building's entrance.",
      "say": "Before we look, guess. Which place will be the cleanest? Why do you think so?",
-     "kid": "Choose three places. Guess which one is cared for best."
+     "kid": "Pick your three places. Point to the one you think is cleanest."
     },
     {
      "id": "s2",
      "mins": 9,
-     "do": "Look at each place for 2 or 3 minutes. Your child looks for litter, plants and animals, and draws a smiling or sad face for the place.",
+     "do": "Look at each place for 2 or 3 minutes. Your child looks for litter, plants and animals, and decides: thumbs up if the place is cared for, thumbs down if it needs care.",
      "say": "Is there litter here? Is there anything that could trap an animal? Do any plants or animals live here?",
-     "kid": "Look at each place. Is there litter? Are there plants and animals?",
+     "kid": "Look closely at each place. Then show thumbs up or thumbs down.",
      "adult": true
     },
     {
@@ -655,7 +655,7 @@
    "title": "Terrace String Sweep (after a kite festival, if you have a terrace)",
    "mins": 15,
    "days": 1,
-   "context": "After Sankranti, Uttarayan or any kite day, kite string is left on roofs, tanks and trees. In this activity you wind up the string you find, so birds cannot get caught in it.",
+   "context": "After Sankranti, Uttarayan or any kite day, kite string is left on roofs, tanks and trees. In this activity you wind up the string you find, so birds cannot get caught in it. You will count how many traps you take away.",
    "materials": [
     {
      "item": "a few sticks or empty cardboard tubes",
@@ -705,7 +705,7 @@
    "title": "Trap, Swallow or Safe? A card sorting game",
    "mins": 12,
    "players": "2 to 4 players",
-   "context": "This is a card game about litter. Each card names a piece of litter. You say whether that litter could trap an animal, be swallowed, cut an animal, or is safer. Then you turn the card over to check.",
+   "context": "This is a card game about litter. Each card names a piece of litter. You say whether that litter could trap an animal, be swallowed, cut an animal, or is safer. Then you turn the card over to check. You will find out which kinds of litter hurt animals, and how.",
    "printables": [
     {
      "kind": "cards",
@@ -803,10 +803,10 @@
      "mins": 8,
      "do": "Take turns turning over a card, sorting it and reading the back.",
      "say": "Why did you put the card there? Now let's read the back and check.",
-     "kid": "Take turns. Sort each card and say why. Check the back.",
+     "kid": "Take a card. Choose where it goes.",
      "check": {
       "t": "mcq",
-      "q": "A rubber band is lying on the road. How could the rubber band harm a bird?",
+      "q": "How could a rubber band on the road harm a bird?",
       "options": [
        "The band could close round the bird's foot and trap the bird",
        "The band could make the bird too heavy to fly",
@@ -821,7 +821,7 @@
      "mins": 2,
      "do": "Count the cards. Then each player says one way to stop one kind of harm.",
      "say": "How can we stop the trap cards from trapping anyone?",
-     "kid": "Count your cards. Say one way to stop each harm."
+     "kid": "Count your cards. Say one way to stop one kind of harm."
     }
    ]
   },
@@ -830,7 +830,7 @@
    "title": "Clean Lake: a team board game",
    "mins": 15,
    "players": "2 to 4 players, all on one team",
-   "context": "This is a team game. A lake has litter in it. All the players work together to pick up the litter before the monsoon rain washes more litter in. Everyone wins or loses together.",
+   "context": "This is a team game. A lake has litter in it. All the players work together to pick up the litter before the monsoon rain washes more litter in. Everyone wins or loses together. You will see how small things people do can clean a lake.",
    "printables": [
     {
      "kind": "board",
@@ -943,7 +943,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw or print the lake. Put a litter token on each spot and the raincloud at the start.",
+     "do": "Lay out the printed lake board and tokens. Put a litter token on each spot and the raincloud at the start.",
      "say": "This lake is home to ducks, frogs, fish and lotus plants. Let's clean it before the rain comes.",
      "kid": "Set up the lake. Put a litter token on every spot."
     },
@@ -951,8 +951,8 @@
      "id": "s2",
      "mins": 10,
      "do": "Take turns turning over cards and doing what they say.",
-     "say": "Which animal did you just help? Who could that piece of litter have harmed?",
-     "kid": "Take turns with the action cards. Name each animal you help.",
+     "say": "Who did that card help or hurt? Name an animal near the lake.",
+     "kid": "Take turns. Turn over a card and do what it says.",
      "check": {
       "t": "mcq",
       "q": "Why does the rain bring more litter into the lake?",
@@ -1027,7 +1027,7 @@
     {
      "day": 7,
      "mins": 10,
-     "what": "Add up the week. Draw a poster for neighbours."
+     "what": "Add up the week. Tell the neighbours what you found. A poster is fine too."
     }
    ],
    "setup": [
@@ -1037,7 +1037,7 @@
     },
     {
      "art": "A child showing family members a finished poster that says 'Snip the loop!' with drawings of rubber bands and a bird.",
-     "caption": "2. At the end of the week, add up and make a poster."
+     "caption": "2. At the end of the week, add up and tell your neighbours. A poster is fine too."
     }
    ],
    "flow": [
@@ -1059,9 +1059,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Add up the marks. Your child draws a poster that says how many loops your home snipped.",
+     "do": "Add up the marks. Your child tells a neighbour how many loops your home snipped. A poster is fine too.",
      "say": "If every home in our building snipped this many, how many traps would we stop?",
-     "kid": "Add up the week. Make a poster for your neighbours.",
+     "kid": "Add up the week. Tell a neighbour what you found.",
      "check": {
       "t": "mcq",
       "q": "Why do we snip loops before they go in the bin?",
@@ -1087,7 +1087,7 @@
    "constraints": [
     "Your plan must say what string to use, when to fly, and what to do after.",
     "It must still be fun to fly kites.",
-    "Draw your plan on one sheet of paper."
+    "Show your plan on one sheet of paper. You can draw it or write it."
    ],
    "materials": [
     {
@@ -1098,7 +1098,7 @@
    "setup": [
     {
      "art": "A child drawing a plan with a sun, a kite, a reel of cotton string and a clock.",
-     "caption": "1. Draw your kite-day plan."
+     "caption": "1. Make your kite-day plan, by drawing or writing."
     },
     {
      "art": "The finished plan showing cotton string, kites flown at midday, and children winding up string after.",
@@ -1122,7 +1122,7 @@
      "mins": 5,
      "do": "Read the problem aloud. List together what can hurt birds on a kite day.",
      "say": "What can hurt a bird on a kite day? Think of the pigeon in the story The String on the Balcony, whose foot was caught in kite string.",
-     "kid": "Read the problem. What hurts birds on a kite day?",
+     "kid": "Read the problem. Think about the pigeon in the story.",
      "ask": [
       {
        "q": "What hurts birds on a kite day?",
@@ -1137,9 +1137,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Your child draws the plan.",
+     "do": "Your child makes the plan on one sheet of paper, by drawing or writing.",
      "say": "What string will you use? When will you fly? What will you do when you finish?",
-     "kid": "Draw your plan. Show the string, the time and what you do after."
+     "kid": "Make your plan. Draw it or write it. Show the string, the time and what you do after."
     },
     {
      "id": "s3",

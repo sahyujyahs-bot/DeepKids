@@ -182,25 +182,25 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 - **s2 (8 min)**  
   *Parent does:* Take turns turning over a card, sorting it and reading the back.  
   *Parent says:* Why did you put the card there? Now let's read the back and check.  
-  *Child mode:* Take turns. Sort each card and say why. Check the back.
-  - Check: A rubber band is lying on the road. How could the rubber band harm a bird? → **The band could close round the bird's foot and trap the bird**
+  *Child mode:* Take a card. Choose where it goes.
+  - Check: How could a rubber band on the road harm a bird? → **The band could close round the bird's foot and trap the bird**
 - **s3 (2 min)**  
   *Parent does:* Count the cards. Then each player says one way to stop one kind of harm.  
   *Parent says:* How can we stop the trap cards from trapping anyone?  
-  *Child mode:* Count your cards. Say one way to stop each harm.
+  *Child mode:* Count your cards. Say one way to stop one kind of harm.
 ### g2 · Clean Lake: a team board game (15 min)
 - **rules:** Put one litter token on each of the 10 spots. Put the raincloud token on rain step 1.; Mix the action cards and put them face down in a pile.; Take turns. Turn over one action card and read both sides aloud. Do what the back says. If it says to take litter tokens, you choose which ones. If fewer are left, take what is left.; Put the used card face up beside the pile. When the pile is gone, shuffle the used cards and make a new pile.; After each card, say who it helped or hurt. If you took a litter token, name an animal that litter could have harmed. If the raincloud moved, name an animal near the lake who is now in danger.; If all 10 litter tokens are gone before the raincloud reaches rain step 8, the team wins.; If the raincloud reaches rain step 8 first, the rain washes more litter in and the team loses. Talk about what could stop it, then play again.
 - **Printable board: The lake board: a lake with 10 litter spots and a rain track of 8 steps:** Spot 1: kite string on a reed; Spot 2: a plastic bag in the water; Spot 3: a fishing net near the bank; Spot 4: a bottle cap on the mud; Spot 5: a chips packet by a duck; Spot 6: a rubber band near a frog; Spot 7: a plastic straw in the lotus leaves; Spot 8: a broken bottle on the path; Spot 9: a mask with loops on a bush; Spot 10: a milk packet floating; Rain step 1: a small cloud (the raincloud starts here); Rain step 2: a grey cloud; Rain step 3: a darker cloud; Rain step 4: a cloud with a few drops; Rain step 5: light rain; Rain step 6: heavy rain; Rain step 7: thunder; Rain step 8: a big storm cloud
 - **Printable tokens: 10 litter tokens and 1 raincloud token to cut out:** kite string; plastic bag; fishing net; bottle cap; chips packet; rubber band; plastic straw; broken bottle; mask; milk packet; raincloud
 - **Printable cards: 10 action cards to cut out:** A family picks up litter (back: Take 2 litter tokens off the lake.); Someone drops a wrapper (back: Move the raincloud 1 step along the rain track.); Neighbours snip their loops (back: Take 1 litter token off the lake.); A cloth bag for shopping (back: Take 1 litter token off the lake.); A drain full of plastic (back: Move the raincloud 2 steps along the rain track.); A school clean-up day (back: Take 3 litter tokens off the lake.); Kites flown with nylon string (back: Move the raincloud 1 step along the rain track.); Bins with lids by the lake (back: Take 1 litter token off the lake.); Waste thrown in the lake (back: Move the raincloud 2 steps along the rain track.); Cotton string for kites (back: Take 1 litter token off the lake.)
 - **s1 (3 min)**  
-  *Parent does:* Draw or print the lake. Put a litter token on each spot and the raincloud at the start.  
+  *Parent does:* Lay out the printed lake board and tokens. Put a litter token on each spot and the raincloud at the start.  
   *Parent says:* This lake is home to ducks, frogs, fish and lotus plants. Let's clean it before the rain comes.  
   *Child mode:* Set up the lake. Put a litter token on every spot.
 - **s2 (10 min)**  
   *Parent does:* Take turns turning over cards and doing what they say.  
-  *Parent says:* Which animal did you just help? Who could that piece of litter have harmed?  
-  *Child mode:* Take turns with the action cards. Name each animal you help.
+  *Parent says:* Who did that card help or hurt? Name an animal near the lake.  
+  *Child mode:* Take turns. Turn over a card and do what it says.
   - Check: Why does the rain bring more litter into the lake? → **Rain washes litter from the roads and drains into the lake**
 - **s3 (2 min)**  
   *Parent does:* Talk about which cards helped most and which hurt most.  
@@ -214,12 +214,12 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 - **predict:** Guess first. Which wet loop will tear: paper, cloth or plastic? Which will stay whole? Why do you think so?
 - **fair test:** Every strip is the same size: two fingers wide and as long as a school ruler. Every wet loop soaks for the same 10 minutes. You pull every loop the same gentle way, up to 5 pulls. We also keep one dry paper loop, so we can see what the water did to the paper.
 - **safety:** A grown-up cuts the strips. Pull gently with your fingers. Stop if a loop pinches or cuts into your fingers.
-- **record:** Fill in the table. Then draw the four loops after the test, showing which ones tore.
+- **record:** Fill in the table. Then take a photo of the four loops after the test, or draw them, showing which ones tore.
 - **results table:** Loop | My guess: tear or stay whole? | Number of pulls before it tore (stop at 5) | What it looked like at the end
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Cut two newspaper strips, one cloth strip and one milk-packet strip, all the same size. 2. Help your child tie each strip into a loop with one knot.  
   *Parent says:* These loops are like litter. A bird or a cow could get a foot or a neck caught in a loop. Let's find out which loops they could break.  
-  *Child mode:* A grown-up cuts four strips. Tie each one into a loop.
+  *Child mode:* Tie each strip into a loop with one knot.
   - Note: Make the strips two fingers wide and about 30 centimetres long. Tie the paper loop loosely, so it does not tear while you knot it. Cut the milk packet smoothly, with no nicks in the edge, because a nick can make the plastic tear. Lift the wet paper loop out gently, so it does not tear before the test.
 - **s2 (3 min)**  
   *Parent does:* Hold up each loop. Ask for a guess and a reason for each. Write the guesses in the table.  
@@ -229,9 +229,9 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   - Note: Any guess is fine. Write it down with the reason. The test will answer it.
 - **s3 (10 min)**  
   *Parent does:* 1. Put the paper, cloth and plastic loops in the bowl. 2. Push them under the water. 3. Keep the second paper loop dry on the table. 4. Wait 10 minutes.  
-  *Parent says:* While we wait, let's look. Which loop is soaking up water? Which one is floating? Draw the bowl.  
-  *Child mode:* Put three loops in the water. Wait 10 minutes. Keep one paper loop dry.
-  - Note: Use the 10 minutes to draw the bowl, or to read the story. The plastic strip may float, so push it under now and then.
+  *Parent says:* While we wait, let's watch the bowl. What is happening to each loop?  
+  *Child mode:* Watch the bowl. Point to the loop that floats.
+  - Note: Use the 10 minutes to read the story. The plastic strip may float, so push it under now and then.
   - Wait: 10 minutes
 - **s4 (5 min)**  
   *Parent does:* 1. Start with the dry paper loop. 2. Your child hooks the loop over two fingers of each hand. 3. They pull their hands apart gently, up to 5 times. 4. Do the same with each wet loop. 5. Write the number of pulls.  
@@ -240,8 +240,8 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   - Note: The wet paper usually tears at the first or second pull. The dry paper, the cloth and the plastic usually hold for all 5 pulls. The plastic stretches and goes thin, but stays whole. If the plastic pinches, stop.
 - **s5 (4 min)**  
   *Parent does:* Fill in the table together. Then ask your child what they found, and why they think it happened.  
-  *Parent says:* Which loop tore? Which loops stayed whole? Look at the two paper loops. What did the water do to the paper?  
-  *Child mode:* Look at your table. What did you find? Why?
+  *Parent says:* Look at the two paper loops, the dry one and the wet one. What did the water do to the paper?  
+  *Child mode:* Look at your table. Tell your grown-up what you found.
   - Check: Which wet loop tore when you pulled it? → **The paper loop**
   - Think: A pigeon gets a foot caught in a wet plastic loop in a puddle. Can she pull free?
 ### e2 · Bag in the Bucket: does a floating plastic bag look like a living animal? (15 min)
@@ -250,12 +250,12 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 - **predict:** Guess first. Which one will look most like a floating jellyfish: the plastic bag, the paper or the cloth? Why do you think so?
 - **fair test:** Each thing goes into the same bucket of water. You stir the water the same way, three slow turns with a spoon. You watch each one from the side for the same time, one minute.
 - **safety:** Stay with your child at the bucket. Keep the plastic bag away from faces, and away from babies and pets. Empty the bucket when you finish.
-- **record:** Draw each thing in the water, and the jellyfish picture next to them.
-- **results table:** Thing in the water | My guess: looks like a jellyfish? | Does it float, sink or drift? | Does it look like a jellyfish? Draw it.
+- **record:** Fill in the table. Take a photo of each thing in the water, or draw the bag next to the jellyfish picture.
+- **results table:** Thing in the water | My guess: looks like a jellyfish? | Does it float, sink or drift? | Does it look like a jellyfish? Yes or no, and why.
 - **s1 (3 min)**  
   *Parent does:* Show a picture of a jellyfish, or draw one: a round soft dome with long thin arms hanging down. Ask for a guess and a reason.  
   *Parent says:* Some sea turtles eat jellyfish. Which will look most like a jellyfish in water: the plastic bag, the paper or the cloth? Why do you think so?  
-  *Child mode:* Look at the jellyfish picture. Guess which thing will look like a jellyfish. Why?
+  *Child mode:* Look at the jellyfish picture. Think about how a jellyfish floats and moves.
   - Ask: Which one will look like a jellyfish? Why? (good: The plastic bag, because it is thin and see-through.; The cloth, because it is white and soft.)
 - **s2 (9 min)**  
   *Parent does:* 1. Put the plastic bag in the water. Push it under once. 2. Stir three slow turns. 3. Watch from the side for one minute. 4. Take it out. Do the same with the paper, then the cloth.  
@@ -263,9 +263,9 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   *Child mode:* Put in one thing at a time. Stir slowly. Watch from the side.
   - Note: A thin bag usually puffs open and drifts slowly in the middle of the water, much like a jellyfish. It may not do this every time. If the bag only lies flat on top, push it under with the spoon and let go. The newspaper goes soggy and sinks or tears. The handkerchief sinks or lies flat.
 - **s3 (3 min)**  
-  *Parent does:* Compare your child's drawings with the jellyfish picture.  
-  *Parent says:* Which one looked most like a jellyfish? What might a hungry turtle do if she saw the bag?  
-  *Child mode:* Which one looked most like a jellyfish? Why might a turtle eat the bag?
+  *Parent does:* Look at the table and the jellyfish picture together.  
+  *Parent says:* Look at the jellyfish picture again. What might a hungry turtle do if she saw the bag?  
+  *Child mode:* Look at your table. Think about a hungry turtle in the sea.
   - Check: Which one drifted and looked most like a jellyfish? → **The thin plastic bag**
 
 ## Activities
@@ -289,15 +289,15 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   *Child mode:* Count your marks. Put the waste back in the dry bin.
 ### a2 · Spot the Care: three places near home (15 min)
 - **safety:** Look at litter, but do not touch it. Stay with a grown-up outside.
-- **record:** Draw a table with one row for each of the three places. In each row, write the place, draw a smiling or sad face, and write one way to make the place better.
+- **record:** Make a table with one row for each of the three places. In each row, write the place, write cared for or needs care, and write one way to make the place better.
 - **s1 (3 min)**  
   *Parent does:* Choose three places, such as the parking area, the street and a garden or the building's entrance.  
   *Parent says:* Before we look, guess. Which place will be the cleanest? Why do you think so?  
-  *Child mode:* Choose three places. Guess which one is cared for best.
+  *Child mode:* Pick your three places. Point to the one you think is cleanest.
 - **s2 (9 min) · grown-up needed**  
-  *Parent does:* Look at each place for 2 or 3 minutes. Your child looks for litter, plants and animals, and draws a smiling or sad face for the place.  
+  *Parent does:* Look at each place for 2 or 3 minutes. Your child looks for litter, plants and animals, and decides: thumbs up if the place is cared for, thumbs down if it needs care.  
   *Parent says:* Is there litter here? Is there anything that could trap an animal? Do any plants or animals live here?  
-  *Child mode:* Look at each place. Is there litter? Are there plants and animals?
+  *Child mode:* Look closely at each place. Then show thumbs up or thumbs down.
 - **s3 (3 min)**  
   *Parent does:* For each place, your child says one way to make it better, and who could help.  
   *Parent says:* How could we make this place better? Who could help us?  
@@ -319,7 +319,7 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
 ## Projects
 ### p1 · Our Loop-Free Week (35 min, 7 days)
 - **record:** A tally sheet with one row for each day of the week, and a total at the end.
-- **schedule:** day 1: Put scissors and a tally sheet by the dry bin. Tell everyone at home the plan. (10 min); day 2: Snip and count today's loops. (3 min); day 3: Snip and count today's loops. (3 min); day 4: Snip and count today's loops. (3 min); day 5: Snip and count today's loops. (3 min); day 6: Snip and count today's loops. (3 min); day 7: Add up the week. Draw a poster for neighbours. (10 min)
+- **schedule:** day 1: Put scissors and a tally sheet by the dry bin. Tell everyone at home the plan. (10 min); day 2: Snip and count today's loops. (3 min); day 3: Snip and count today's loops. (3 min); day 4: Snip and count today's loops. (3 min); day 5: Snip and count today's loops. (3 min); day 6: Snip and count today's loops. (3 min); day 7: Add up the week. Tell the neighbours what you found. A poster is fine too. (10 min)
 - **s1 (10 min)**  
   *Parent does:* Hang child-safe scissors and a tally sheet by the dry waste bin. Your child tells each person at home the plan.  
   *Parent says:* This week, every loop gets snipped before it goes in the bin. You are in charge of the tally.  
@@ -330,27 +330,27 @@ On the railing, the grey pigeon was back, pecking at a few grains of rice. Both 
   *Child mode:* Every day, snip the loops and make a tally mark for each.
   - Wait: Do this every day for 5 days
 - **s3 (10 min)**  
-  *Parent does:* Add up the marks. Your child draws a poster that says how many loops your home snipped.  
+  *Parent does:* Add up the marks. Your child tells a neighbour how many loops your home snipped. A poster is fine too.  
   *Parent says:* If every home in our building snipped this many, how many traps would we stop?  
-  *Child mode:* Add up the week. Make a poster for your neighbours.
+  *Child mode:* Add up the week. Tell a neighbour what you found.
   - Check: Why do we snip loops before they go in the bin? → **So an animal at the dump cannot get trapped in them**
 
 ## Challenges
 ### c1 · A Kite Day That Is Safe for Birds (25 min)
 - **problem:** Your family wants to fly kites at Sankranti, or on any kite day. Plan the day so that no bird gets hurt.
 - **your turn:** What else could make your kite day safe for birds? Add one idea of your own.
-- **constraints:** Your plan must say what string to use, when to fly, and what to do after.; It must still be fun to fly kites.; Draw your plan on one sheet of paper.
+- **constraints:** Your plan must say what string to use, when to fly, and what to do after.; It must still be fun to fly kites.; Show your plan on one sheet of paper. You can draw it or write it.
 - **general:** Use cotton string, not nylon or glass-coated string.; Pick up and wind up every bit of string after flying.; Do not fly kites near trees, where string gets caught.
 - **creative:** Fly kites in the middle of the day. Bird groups ask people to avoid early morning and evening, when many birds fly to and from their roosts.; Make a string collection box for the whole building.; Make a poster with the phone number of a nearby bird rescue group.
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. List together what can hurt birds on a kite day.  
   *Parent says:* What can hurt a bird on a kite day? Think of the pigeon in the story The String on the Balcony, whose foot was caught in kite string.  
-  *Child mode:* Read the problem. What hurts birds on a kite day?
+  *Child mode:* Read the problem. Think about the pigeon in the story.
   - Ask: What hurts birds on a kite day? (good: Strong string they cannot break.; String left in trees and on roofs.; Flying kites when birds are flying.)
 - **s2 (15 min)**  
-  *Parent does:* Your child draws the plan.  
+  *Parent does:* Your child makes the plan on one sheet of paper, by drawing or writing.  
   *Parent says:* What string will you use? When will you fly? What will you do when you finish?  
-  *Child mode:* Draw your plan. Show the string, the time and what you do after.
+  *Child mode:* Make your plan. Draw it or write it. Show the string, the time and what you do after.
 - **s3 (5 min)**  
   *Parent does:* Check the plan against the list. Then ask your child what else could make the kite day safe for birds.  
   *Parent says:* Does your plan stop every danger on our list? What else could you add?  
