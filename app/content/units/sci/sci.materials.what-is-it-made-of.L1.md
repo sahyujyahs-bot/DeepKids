@@ -185,24 +185,24 @@ And some things, like her pencil, were made of more than one thing.
 
 ## Games
 ### g1 · Material Bingo: cover all six (15 min)
-- **rules:** Each player draws a board of six squares: wood, metal, plastic, glass, fabric and paper. Draw a small drawing in each square, so you can play without reading.; Each player has six beans or small stones.; The caller mixes the thing cards and reads one out loud.; Each player says what the thing is made of, then puts a bean on that square.; The caller reads the back of the card. A bean on the wrong square comes off. If the back names two materials, either one counts.; If a square already has a bean, wait for the next card.; If the cards run out before someone wins, mix them and use them again.; The first player to cover all six squares shouts 'Made of everything!' and wins. If two players finish on the same card, they both win.
-- **Printable board: 6 squares for each player's board:** WOOD (draw a brown plank with lines); METAL (draw a shiny tumbler); PLASTIC (draw a bucket); GLASS (draw a window); FABRIC (draw a shirt); PAPER (draw a book)
+- **rules:** Each player makes a board of six squares: wood, metal, plastic, glass, fabric and paper. Write the word in each square. A tiny drawing helps you play without reading.; Each player has six beans or small stones.; The caller mixes the thing cards and reads one out loud.; Each player says what the thing is made of, then puts a bean on that square.; The caller reads the back of the card. A bean on the wrong square comes off. If the back names two materials, either one counts.; If a square already has a bean, wait for the next card.; If the cards run out before someone wins, mix them and use them again.; The first player to cover all six squares shouts 'Made of everything!' and wins. If two players finish on the same card, they both win.
+- **Printable board: 6 squares for each player's board:** WOOD (a brown plank with lines); METAL (a shiny tumbler); PLASTIC (a bucket); GLASS (a window); FABRIC (a shirt); PAPER (a book)
 - **Printable cards: 24 thing cards for the caller:** A steel tumbler (back: Metal); A wooden belan for rolling chapatis (back: Wood); A lunch box, light and blue (back: Plastic); A window pane (back: Glass); A cotton towel (back: Fabric); A newspaper (back: Paper); A key (back: Metal); A chopping board with brown lines (back: Wood); A toothbrush handle (back: Plastic); A mirror (back: Glass); A saree (back: Fabric); A notebook (back: Paper); A one-rupee coin (back: Metal); A cricket bat (back: Wood); A milk packet (back: Plastic); A pickle jar you can see through (back: Glass); A school uniform shirt (back: Fabric); A train ticket (back: Paper); A pressure cooker (back: Metal (with a plastic handle and a rubber ring)); A wooden spinning top, a pambaram (back: Wood, with a metal tip); A plastic chair (back: Plastic); A glass bangle (back: Glass); A cloth shopping bag (back: Fabric); A kite (back: Paper, with thin sticks of bamboo)
 - **s1 (4 min)**  
-  *Parent does:* 1. Help each player fold a sheet into six squares. 2. Your child draws one material in each square. 3. Give each player six beans.  
-  *Parent says:* Draw a board with six squares. In each square, draw one material: wood, metal, plastic, glass, fabric and paper.  
-  *Child mode:* Fold your paper into six squares. Draw one material in each square.
-  - Note: A child who cannot write yet can draw: a brown plank for wood, a tumbler for metal, a bucket for plastic, a window for glass, a shirt for fabric and a book for paper.
+  *Parent does:* 1. Help each player fold a sheet into six squares. 2. Each player writes one material in each square, with a tiny drawing if they like. 3. Give each player six beans.  
+  *Parent says:* We are making a bingo board with six squares. Write one material in each square: wood, metal, plastic, glass, fabric and paper. Add a tiny drawing if you like.  
+  *Child mode:* Fold your paper into six squares. Write one material in each.
+  - Note: A child who cannot write yet can ask you to write the words, or can draw instead: a brown plank for wood, a tumbler for metal, a bucket for plastic, a window for glass, a shirt for fabric and a book for paper.
 - **s2 (9 min)**  
   *Parent does:* 1. Mix the thing cards. 2. Read one card at a time. 3. Each player puts a bean on a square. 4. Read the back.  
-  *Parent says:* A key. What is a key made of? Put your bean on that square.  
-  *Child mode:* Listen to the card. What is the thing made of? Put a bean on that square.
+  *Parent says:* Here is the first card: a key. What is it made of? Put your bean on that square.  
+  *Child mode:* Listen to the card. Put a bean on the square for its material.
   - Ask: How do you know a key is metal? (good: It is shiny.; It is hard and cold.; It rings when you drop it.)
   - Note: Some things are made of more than one material, like a pressure cooker with a plastic handle. Accept any answer that matches the back of the card. If your child says something else that could be true, ask 'How could we check?'
 - **s3 (2 min)**  
-  *Parent does:* Ask the check question. Then play again with a new caller.  
-  *Parent says:* A pressure cooker. Is it made of only one material?  
-  *Child mode:* Is a pressure cooker made of only one material?
+  *Parent does:* Read out the pressure cooker card. Ask the check question. Then play again with a new caller.  
+  *Parent says:* Here is a tricky card: a pressure cooker. What parts does it have?  
+  *Child mode:* Picture a pressure cooker. Name its parts, and think about what each part is made of.
   - Check: What is a pressure cooker made of? → **Metal, with a plastic handle and a rubber ring**
 ### g2 · Bring Me Something Made Of... (12 min)
 - **rules:** The caller picks a material card and reads it out.; The player finds something made of that material and brings it back before the caller counts to 20. With more than one player, everyone runs at once, and each player who brings back a right thing in time scores.; For glass, and for things too big to carry, like a door, the player does not carry anything. They run and touch it gently, and say what it is.; The player says how they know: what they saw, felt or heard.; One point for each right thing. Two points for a thing made of two materials, if the player names both.; The game ends when each material card has been called once. The player with the most points wins. If you play alone, try to beat your own score next time.
@@ -215,14 +215,14 @@ And some things, like her pencil, were made of more than one thing.
   - Note: Glass can break into sharp pieces, so glass things stay where they are.
 - **s2 (8 min)**  
   *Parent does:* 1. Read a card. 2. Count to 20 out loud. 3. When your child comes back, ask how they know.  
-  *Parent says:* Metal! One, two, three... What did you bring? How do you know it is metal?  
-  *Child mode:* Find something made of metal. Bring it back. Say how you know.
+  *Parent says:* Your material is metal! Ready, go! One, two, three...  
+  *Child mode:* Run and find something made of metal. Bring it back before 20.
   - Ask: How do you know it is metal? (good: It is shiny and cold.; It rings when I tap it.; It is heavy for its size.)
   - Note: The reason matters more than the speed. Praise a child who taps or lifts the thing to check.
 - **s3 (2 min)**  
   *Parent does:* Play one last round with a new rule. Your child must find a thing made of two materials.  
   *Parent says:* Last round. Find one thing made of two materials, and tell me both.  
-  *Child mode:* Find one thing made of two materials. Name them both.
+  *Child mode:* Look for a thing with two parts, like a handle and a body. Name both materials.
   - Check: Which of these is made of two materials? → **A knife with a plastic handle**
 
 ## Experiments
@@ -231,23 +231,23 @@ And some things, like her pencil, were made of more than one thing.
 - **predict:** Guess first. When we pour water into the newspaper cone, what will happen? What will happen in the paper cup? Why do you think so?
 - **fair test:** Both cups get the same amount of water, three spoonfuls each. Both are held over the same steel plate, and we watch both for the same time. Only the cup is different.
 - **safety:** Only a grown-up uses the scissors.
-- **record:** Draw the two cups side by side. Draw what the water did in each one. Then draw the inside of the cut-open paper cup, and colour the plastic skin a different colour from the paper.
+- **record:** Fill in the results table: what the water did in each cup, and what each cup is made of. Tape the torn strip of the paper cup next to the table, or take a photo of it. You can also draw the cut-open cup, with the plastic skin in a different colour.
 - **results table:** Cup | My guess | What happened to the water | What it is made of
 - **s1 (3 min)**  
   *Parent does:* 1. Put the paper cup and half a sheet of newspaper on the table. 2. Let your child hold and feel both.  
-  *Parent says:* Here is a paper cup and some newspaper. What is the cup made of? What is the newspaper made of?  
-  *Child mode:* Feel the paper cup. Feel the newspaper. What are they made of?
+  *Parent says:* Here is a paper cup and some newspaper. Hold them and feel them both.  
+  *Child mode:* Feel the cup and the newspaper. Look at both closely.
   - Ask: What is the cup made of? (good: Paper.; It says paper cup, so paper.)
   - Note: Most children say paper. That is the right first guess. Don't say yet that there is anything else.
 - **s2 (3 min)**  
   *Parent does:* 1. Roll the newspaper into a cone, about as big as the cup. 2. Tape or staple the side. 3. Fold the tip up so it is closed.  
-  *Parent says:* Let's make a newspaper cup too. Now we have two paper cups.  
-  *Child mode:* Watch the grown-up make a cup out of newspaper.
+  *Parent says:* Let's make a second cup, out of newspaper.  
+  *Child mode:* Help roll the newspaper into a cone. Hold it while the grown-up tapes it.
   - Note: The cone does not need to be neat. It only has to hold water for a few seconds.
 - **s3 (3 min)**  
-  *Parent does:* Ask your child to guess what will happen in each cup. Write or draw their guesses.  
-  *Parent says:* We will pour water into both. What will happen to the newspaper cup? What will happen to the paper cup? Why do you think so?  
-  *Child mode:* Guess. What will the water do in each cup? Why?
+  *Parent does:* Ask your child to guess what will happen in each cup. Write down their guesses.  
+  *Parent says:* We will pour water into both cups. What will happen in each one?  
+  *Child mode:* Guess what the water will do in each cup.
   - Ask: Why do you think so? (good: Paper gets wet, so both will leak.; The paper cup will hold it, because people drink tea from it.; The newspaper will go soft.)
   - Note: Wait for a reason as well as a guess. Any guess is fine.
 - **s4 (5 min)**  
@@ -258,19 +258,19 @@ And some things, like her pencil, were made of more than one thing.
   - Note: The newspaper darkens almost at once, and usually drips within a minute. The paper cup stays dry outside. If the cone has not dripped yet, wait one more minute and squeeze it gently.
 - **s5 (2 min)**  
   *Parent does:* Ask your child to explain what they saw.  
-  *Parent says:* Both cups are paper. So why did only one leak? What could be different about the paper cup?  
-  *Child mode:* Both cups are paper. Why did only one leak?
-  - Ask: What could be different? (good: The paper cup is thicker.; It has something on it.; Maybe there is something inside.)
+  *Parent says:* Both cups look like paper. But only the newspaper one leaked.  
+  *Child mode:* Think about why only one cup leaked.
+  - Ask: What could be different about the paper cup? (good: The paper cup is thicker.; It has something on it.; Maybe there is something inside.)
 - **s6 (5 min) · grown-up needed**  
   *Parent does:* 1. Pour the water out of the paper cup. 2. Cut it down one side with scissors and open it flat. 3. Your child feels the inside and the outside. 4. Tear a strip slowly from the cut edge, and look at the torn edge.  
   *Parent says:* Feel the outside, then feel the inside. Are they the same? Now watch the edge as I tear it slowly.  
-  *Child mode:* Feel the outside of the cup. Feel the inside. Watch the edge when it tears.
+  *Child mode:* Rub a finger on the outside, then the inside. Then watch the edge tear.
   - Ask: What did you find? (good: The inside is smoother and shinier.; There is a thin clear skin.; The skin stretches when the paper tears.)
   - Note: The inside of most paper cups has a very thin skin of plastic. When you tear slowly, the paper tears first, and the clear skin stretches before it breaks. If you can't see it, soak the strip in water for five minutes. Then rub the paper side with a thumbnail. The soft paper rubs off, and the clear skin is left.
 - **s7 (4 min)**  
-  *Parent does:* 1. Say together what you found. 2. Your child draws the results. 3. Ask the check question.  
-  *Parent says:* So what is a paper cup made of? How do you know?  
-  *Child mode:* What is a paper cup made of? How do you know?
+  *Parent does:* 1. Fill in the results table together, and let your child say each answer. 2. Tape the torn strip of the cup next to it. 3. Ask the check question.  
+  *Parent says:* Let's fill in our table. What did the water do in each cup?  
+  *Child mode:* Fill in the table with your grown-up. Tape the torn strip next to it.
   - Ask: What is a paper cup made of? (good: Paper and plastic.; Paper outside and a plastic skin inside.; The plastic keeps the water in, and the paper makes it stiff.)
   - Check: Why did the paper cup hold water, when the newspaper cone leaked? → **The paper cup has a thin plastic skin inside**
 
@@ -280,65 +280,66 @@ And some things, like her pencil, were made of more than one thing.
 - **record:** Under each material card, make one tally mark for each thing you found. Circle the material with the most marks.
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the six material cards on the kitchen floor. 2. Point to each one and name it.  
-  *Parent says:* These are six materials. In our kitchen, which material do you think the most things are made of? Why?  
-  *Child mode:* Look at the six cards. Which material is used most in our kitchen? Guess, and say why.
+  *Parent says:* These are six materials. Which one do you think we will find the most of in our kitchen?  
+  *Child mode:* Look at the six cards. Pick the one you think will win.
   - Ask: Why do you think so? (good: Metal, because we have lots of steel plates.; Plastic, because of all the dabbas.)
 - **s2 (9 min)**  
   *Parent does:* 1. Your child finds safe things and puts each one on its card. 2. For glass, they point, and you make a tally mark. 3. For big things like the fridge, they make a tally mark.  
-  *Parent says:* Find a thing. What is it made of? How do you know? Put it on that card.  
-  *Child mode:* Find a thing. Say what it is made of. Put it on the card.
+  *Parent says:* Pick a thing in the kitchen. What is it made of? Put it on that card.  
+  *Child mode:* Tap it, lift it and look at it. Then put it on the right card.
   - Ask: How do you know this is plastic? (good: It is light.; It went tock when I tapped it.; It is smooth and light.)
   - Note: Let your child tap, lift and look. If they are not sure, ask 'Is it shiny? Does it ring? Can you see through it?' A thing with two materials, like a knife with a plastic handle, goes between two cards.
 - **s3 (4 min)**  
   *Parent does:* 1. Count the things or marks on each card together. 2. Compare with the guess. 3. Put everything back.  
   *Parent says:* Let's count. Which card has the most? Was your guess right?  
-  *Child mode:* Count the things on each card. Which has the most?
+  *Child mode:* Count the things and the tally marks on each card.
   - Ask: What did you find? (good: Metal had the most.; Glass had the fewest.; My guess was wrong. It was plastic.)
   - Note: In many Indian kitchens, metal wins because of steel plates and vessels. In others, plastic wins. Either result is a real finding.
 ### a2 · Rubbing Rainbow: what does each material's surface show? (15 min)
-- **record:** Stick the rubbings on one page. Under each one, write or draw the material it came from.
+- **record:** Stick the rubbings on one page. Under each one, write the material it came from.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the paper over the wooden board. 2. Show your child how to rub with the flat side of a crayon.  
-  *Parent says:* Rub gently with the side of the crayon. Watch what comes up.  
-  *Child mode:* Rub the side of the crayon over the paper. What do you see?
+  *Parent says:* Watch me. I rub the side of the crayon over the paper.  
+  *Child mode:* Now you try. Rub gently with the side of the crayon.
   - Ask: What do you see? (good: Lines!; Wavy lines, like the wood.)
   - Note: These lines are the grain of the wood. They show how the tree grew. A painted or polished table may show nothing, so use an unpainted board.
 - **s2 (8 min)**  
   *Parent does:* Make a rubbing of the jute bag or towel, the steel plate and the plastic basket, each on new paper.  
-  *Parent says:* Before you rub, guess. Will the steel plate make a pattern? Why do you think so?  
-  *Child mode:* Guess first: will the steel plate make a pattern? Then rub the cloth, the plate and the basket.
+  *Parent says:* Before you rub, guess. Will the steel plate make a pattern?  
+  *Child mode:* Rub the cloth, the plate and the basket. Use a new sheet each time.
   - Ask: What did the steel plate make? (good: Nothing. Just colour.; It is too smooth to make a pattern.)
   - Note: Jute and coarse woven cloth show criss-cross threads. A towel shows soft bumps. Steel is so smooth that the rubbing is plain colour.
 - **s3 (4 min)**  
-  *Parent does:* Mix up the rubbings. Ask your child to say which material made each one.  
-  *Parent says:* Can you tell which material made each rubbing, just by looking?  
-  *Child mode:* Which material made each pattern?
+  *Parent does:* Mix up the rubbings. Lay out the wooden board, the cloth, the plate and the basket. Your child puts each rubbing next to the thing that made it.  
+  *Parent says:* I mixed up the rubbings. Can you tell which thing made each one?  
+  *Child mode:* Put each rubbing next to the thing that made it.
   - Check: A rubbing shows tiny lines going over and under each other. What made it? → **Fabric**
 ### a3 · Look Closer: the threads in paper and cloth (10 min)
-- **record:** Draw the torn edge of the paper and one thread from the cloth, as big as you can.
+- **record:** Stick the torn paper strip and the cloth thread on a page, and write one thing you saw under each. Or draw them as big as you can.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child tears the paper slowly. 2. Hold the torn edge up to a window or a lamp.  
-  *Parent says:* Look at the torn edge against the light. What do you see?  
-  *Child mode:* Tear the paper slowly. Hold the edge up to the light. What do you see?
+  *Parent says:* Tear the paper slowly. Then hold the torn edge up to the light.  
+  *Child mode:* Look closely at the torn edge. Use the magnifying glass if you have one.
   - Ask: What do you see? (good: Fuzzy bits.; Tiny hairs sticking out.)
   - Note: The fuzzy hairs are plant threads, called fibres. Paper is made of millions of them pressed together.
 - **s2 (4 min)**  
   *Parent does:* 1. Find a frayed edge on the old cloth. 2. Help your child pull out one thread. 3. Look at the hole and the thread.  
-  *Parent says:* Pull one thread out. Look where it came from. What is the cloth made of?  
-  *Child mode:* Pull one thread out. What is the cloth made of?
+  *Parent says:* Pull one thread out of the cloth. Look at the gap it leaves.  
+  *Child mode:* Pull out one thread and look at it up close.
   - Ask: What is the cloth made of? (good: Threads.; Lots of threads going over and under.)
   - Note: Cotton cloth is woven from cotton threads, and each thread is twisted from even thinner cotton fibres.
 - **s3 (2 min)**  
-  *Parent does:* Ask your child how paper and cloth are alike.  
-  *Parent says:* How are paper and cloth the same? How are they different?  
-  *Child mode:* How are paper and cloth the same?
-  - Ask: How are they alike? (good: Both are made of threads.; Cloth threads are woven, and paper threads are squashed together.)
+  *Parent does:* Put the torn paper and the thread side by side. Then ask how they are alike and different.  
+  *Parent says:* Look at the torn paper and the cloth thread again.  
+  *Child mode:* Put the paper strip and the thread side by side. Look at both.
+  - Ask: How are paper and cloth alike? How are they different? (good: Both are made of threads.; Cloth threads are woven, and paper threads are squashed together.)
 ### a4 · Foil or Not? The Scrunch Ball test (10 min)
-- **record:** Draw the two balls after one minute. Write or draw what each one is made of.
+- **record:** Write what each ball did and what it is made of. Take a photo of the two balls after one minute, or draw them.
 - **s1 (2 min)**  
   *Parent does:* Show your child the foil and the inside of the chips packet.  
-  *Parent says:* Both of these are shiny. Kitchen foil is a metal called aluminium. Is the chips packet metal too? What do you think, and why?  
-  *Child mode:* The foil and the chips packet are both shiny. Is the chips packet metal too? Why do you think so?
+  *Parent says:* Both of these are shiny. Kitchen foil is a metal called aluminium.  
+  *Child mode:* Look at the foil and the inside of the chips packet. Touch both.
+  - Ask: Is the chips packet metal too? Why do you think so? (good: Yes, because it is shiny like the foil.; No, because it feels like plastic.)
 - **s2 (5 min)**  
   *Parent does:* 1. Your child scrunches each one into a tight ball. 2. Put both balls on the table. 3. Watch for one minute.  
   *Parent says:* Squeeze each one into a tight ball. Put them down. Now watch them for a minute.  
@@ -346,63 +347,63 @@ And some things, like her pencil, were made of more than one thing.
   - Ask: What happened? (good: The foil stayed a ball.; The chips packet opened up again.)
   - Note: Kitchen foil stays scrunched, like most metal sheets. Most chips packets slowly open up, because they are mostly plastic. If your packet stays scrunched, it may have a real foil layer inside. That is a good find too.
 - **s3 (3 min)**  
-  *Parent does:* Tell your child what the chips packet is made of. Ask the check question.  
-  *Parent says:* A chips packet is mostly plastic. On the inside it has a very, very thin coat of metal, to keep air and light away from the chips.  
-  *Child mode:* A chips packet is mostly plastic, with a thin metal coat inside.
+  *Parent does:* Ask the check question. Then tell your child that a chips packet is mostly plastic. It has a very thin coat of metal inside, to keep air and light away.  
+  *Parent says:* Let's think about what we saw. The foil stayed scrunched. The chips packet opened up again.  
+  *Child mode:* Remember what the foil did, and what the packet did.
   - Check: The chips packet opened up again after scrunching. What does that tell you? → **It is mostly plastic, not metal like the foil**
 
 ## Projects
 ### p1 · A Shoebox Room: one material for each part (40 min, 2 days)
 - **safety:** A grown-up cuts the window hole.
 - **record:** The finished room, with a small paper label on each part naming its material.
-- **schedule:** day 1: Plan the room. Cut a window and fit the clear plastic. Make a bed or a table from ice-cream sticks. (20 min); day 2: Add a cloth bedsheet or curtain, a foil mirror or a bottle-cap plate, and paper pictures for the walls. Label every material and show the room to the family. (20 min)
+- **schedule:** day 1: Plan the room. Cut a window and fit the clear plastic. Make a bed or a table from ice-cream sticks. (20 min); day 2: Add a cloth bedsheet or curtain, a foil mirror or a bottle-cap plate, and calendar pictures for the walls. Label every material and show the room to the family. (20 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Lay out all the materials. 2. Ask your child what each part of the room could be made of.  
+  *Parent does:* 1. Lay out all the materials. 2. Ask your child what each part of the room could be made of. 3. Your child puts each material next to the part it could make.  
   *Parent says:* We are making a little room. What could the bed be made of? The window? The curtain?  
-  *Child mode:* Plan your room. What will each part be made of?
+  *Child mode:* Plan your room. Put each material next to the part it could make.
   - Ask: Why is a real window made of glass? (good: So we can see out.; So light can come in.; So rain stays out.)
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. Cut a window hole in the box and tape clear plastic over it. 2. Your child glues ice-cream sticks into a bed or a table.  
-  *Parent says:* Real windows are glass. Our window is clear plastic, because glass can break and cut. Now build the bed from wood.  
-  *Child mode:* Glue the sticks into a bed. The window is plastic, so it is safe.
-  - Note: Talk about why the model uses plastic for the window. It is see-through like glass, but it does not break into sharp pieces.
+  *Parent says:* Real windows are glass. Our window will be clear plastic. Think about why. Now build the bed from wood.  
+  *Child mode:* Glue the sticks into a bed or a table.
+  - Note: Don't explain why yet. The child answers in the last step: plastic is see-through like glass, but it does not break into sharp pieces.
 - **s3 (15 min)**  
-  *Parent does:* On day 2, your child adds a cloth sheet, a foil mirror or a bottle-cap plate, and paper pictures.  
+  *Parent does:* On day 2, your child adds a cloth sheet, a foil mirror or a bottle-cap plate, and pictures cut from the calendar.  
   *Parent says:* Now add fabric, metal and paper. Which part will be fabric?  
-  *Child mode:* Add a cloth sheet, a foil mirror and paper pictures.
+  *Child mode:* Add a cloth sheet, a foil mirror and calendar pictures.
   - Wait: Day 2
 - **s4 (5 min)**  
-  *Parent does:* 1. Your child draws a label for each part, and a grown-up writes the word on it. 2. They show the room and name every material.  
-  *Parent says:* Show us your room. Tell us what each part is made of.  
-  *Child mode:* Show your room. Name every material.
+  *Parent does:* 1. Your child makes a paper label for each part and sticks it on. A grown-up writes the word, or helps spell it. 2. They show the room and name every material.  
+  *Parent says:* Show us your room. What is each part made of?  
+  *Child mode:* Make a label for each part and stick it on.
   - Check: Why did we use clear plastic for the window in the model? → **It is see-through like glass, and safer**
 
 ## Challenges
 ### c1 · Make a Hand Fan That Works (20 min)
 - **problem:** The power has gone and the fan has stopped. You need a hand fan. Which material makes the best one: paper, cloth or plastic?
-- **your turn:** Make one fan from each material, all about the same size. Wave each one ten times at the paper strip from the same distance. Which one lifts the strip best? Draw your best fan and label its materials.
+- **your turn:** Make one fan from each material, all about the same size. Wave each one ten times at the paper strip from the same distance. Which one lifts the strip best? Put a paper label on your best fan that names its materials.
 - **constraints:** Use only things from home.; The fan must be light enough to wave for one minute.; It must move enough air to lift a small strip of paper from a hand-length away.
 - **general:** Fold a sheet of paper back and forth like a zigzag, then pinch one end. This is a folding fan.; Tape a flat piece of cardboard to a stick, like a small bat.; In South India, many families once used fans made of dried palm leaves.
 - **creative:** Stiffen the cloth by taping ice-cream sticks across it.; Fold the plastic folder into a zigzag. It springs back, so it moves air with each wave.; Make one fan from two materials: a paper fan with a stick handle.
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child. Show the paper, cloth and plastic.  
-  *Parent says:* The power is off and it is hot. Which material would make the best fan? Why do you think so?  
-  *Child mode:* It is hot. Which material makes the best fan? Why?
-  - Ask: Why? (good: Paper, because it is light and you can fold it.; Cloth is too floppy.; Plastic is strong.)
+  *Parent says:* The power is off and it is hot. We need a fan. Which material would make the best one: paper, cloth or plastic?  
+  *Child mode:* Look at the paper, the cloth and the plastic. Pick the one you think will make the best fan.
+  - Ask: Why do you think so? (good: Paper, because it is light and you can fold it.; Cloth is too floppy.; Plastic is strong.)
 - **s2 (10 min)**  
-  *Parent does:* 1. Help your child make one fan from each material, all about the same size. 2. Show the zigzag fold for the paper.  
-  *Parent says:* Fold the paper forward, then back, then forward. Pinch one end. That is your fan.  
-  *Child mode:* Make one fan from paper, one from cloth and one from plastic. Fold the paper back and forth.
+  *Parent does:* 1. Help your child make one fan from each material, all about the same size. 2. Show the zigzag fold for the paper. 3. Tape the cloth and the plastic to sticks.  
+  *Parent says:* Fold the paper forward, then back, then forward. Pinch one end. That is your paper fan. Tape the cloth and the plastic to sticks.  
+  *Child mode:* Make three fans, one from each material.
 - **s3 (5 min)**  
   *Parent does:* 1. Put a paper strip on the table, with half of it hanging over the edge and a book on the other half. 2. Your child waves each fan ten times from one hand-length away.  
-  *Parent says:* Wave each fan ten times from the same place. Which one lifts the strip best?  
-  *Child mode:* Wave each fan ten times at the strip. Which works best?
+  *Parent says:* Wave each fan ten times from the same place, one fan at a time. Watch the strip.  
+  *Child mode:* Wave each fan at the strip. Watch how high it lifts.
   - Ask: Which worked best? (good: The paper fan.; The cloth one was too floppy.; The plastic one worked well too.)
   - Note: A stiff fan pushes the most air. Floppy cloth or a thin plastic bag bends away. Whichever fan wins is a real result, so write it down.
 - **s4 (2 min)**  
-  *Parent does:* Ask the check question.  
-  *Parent says:* If the cloth fan pushed little air, why do you think that was?  
-  *Child mode:* Why did the floppy fan push so little air?
+  *Parent does:* Let your child bend the cloth fan and the paper fan. Then ask the check question.  
+  *Parent says:* Bend the cloth fan, then the paper fan. Which one bends more?  
+  *Child mode:* Bend each fan gently and feel which one is floppier.
   - Check: A floppy fan, like one made of cloth, pushes very little air. Why? → **Cloth is soft and bends too easily**
 
 ## Worksheets

@@ -245,18 +245,18 @@
    "title": "Material Bingo: cover all six",
    "mins": 15,
    "players": "1 to 3 players and one caller. A grown-up can be the caller.",
-   "context": "This is a board game. Each player has a board with six materials. The caller reads out a thing, and you put a bean on the material it is made of. The first to cover all six squares wins. With just a grown-up and a child, the grown-up calls and the child plays.",
+   "context": "This is a board game. You will test how fast you can tell what a thing is made of. Each player has a board with six materials. The caller reads out a thing, and you put a bean on the material it is made of. The first to cover all six squares wins. With just a grown-up and a child, the grown-up calls and the child plays.",
    "printables": [
     {
      "kind": "board",
      "title": "6 squares for each player's board",
      "items": [
-      "WOOD (draw a brown plank with lines)",
-      "METAL (draw a shiny tumbler)",
-      "PLASTIC (draw a bucket)",
-      "GLASS (draw a window)",
-      "FABRIC (draw a shirt)",
-      "PAPER (draw a book)"
+      "WOOD (a brown plank with lines)",
+      "METAL (a shiny tumbler)",
+      "PLASTIC (a bucket)",
+      "GLASS (a window)",
+      "FABRIC (a shirt)",
+      "PAPER (a book)"
      ]
     },
     {
@@ -363,7 +363,7 @@
     }
    ],
    "rules": [
-    "Each player draws a board of six squares: wood, metal, plastic, glass, fabric and paper. Draw a small drawing in each square, so you can play without reading.",
+    "Each player makes a board of six squares: wood, metal, plastic, glass, fabric and paper. Write the word in each square. A tiny drawing helps you play without reading.",
     "Each player has six beans or small stones.",
     "The caller mixes the thing cards and reads one out loud.",
     "Each player says what the thing is made of, then puts a bean on that square.",
@@ -386,17 +386,17 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Help each player fold a sheet into six squares. 2. Your child draws one material in each square. 3. Give each player six beans.",
-     "say": "Draw a board with six squares. In each square, draw one material: wood, metal, plastic, glass, fabric and paper.",
-     "kid": "Fold your paper into six squares. Draw one material in each square.",
-     "parent": "A child who cannot write yet can draw: a brown plank for wood, a tumbler for metal, a bucket for plastic, a window for glass, a shirt for fabric and a book for paper."
+     "do": "1. Help each player fold a sheet into six squares. 2. Each player writes one material in each square, with a tiny drawing if they like. 3. Give each player six beans.",
+     "say": "We are making a bingo board with six squares. Write one material in each square: wood, metal, plastic, glass, fabric and paper. Add a tiny drawing if you like.",
+     "kid": "Fold your paper into six squares. Write one material in each.",
+     "parent": "A child who cannot write yet can ask you to write the words, or can draw instead: a brown plank for wood, a tumbler for metal, a bucket for plastic, a window for glass, a shirt for fabric and a book for paper."
     },
     {
      "id": "s2",
      "mins": 9,
      "do": "1. Mix the thing cards. 2. Read one card at a time. 3. Each player puts a bean on a square. 4. Read the back.",
-     "say": "A key. What is a key made of? Put your bean on that square.",
-     "kid": "Listen to the card. What is the thing made of? Put a bean on that square.",
+     "say": "Here is the first card: a key. What is it made of? Put your bean on that square.",
+     "kid": "Listen to the card. Put a bean on the square for its material.",
      "ask": [
       {
        "q": "How do you know a key is metal?",
@@ -412,9 +412,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask the check question. Then play again with a new caller.",
-     "say": "A pressure cooker. Is it made of only one material?",
-     "kid": "Is a pressure cooker made of only one material?",
+     "do": "Read out the pressure cooker card. Ask the check question. Then play again with a new caller.",
+     "say": "Here is a tricky card: a pressure cooker. What parts does it have?",
+     "kid": "Picture a pressure cooker. Name its parts, and think about what each part is made of.",
      "check": {
       "t": "mcq",
       "q": "What is a pressure cooker made of?",
@@ -434,7 +434,7 @@
    "title": "Bring Me Something Made Of...",
    "mins": 12,
    "players": "1 or more players and one caller.",
-   "context": "This is a moving game. The caller names a material, and you race to find something in the room made of it, before the caller counts to 20.",
+   "context": "This is a moving game. You will find out how many materials are hiding in one room. The caller names a material, and you race to find something in the room made of it, before the caller counts to 20.",
    "printables": [
     {
      "kind": "cards",
@@ -508,8 +508,8 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Read a card. 2. Count to 20 out loud. 3. When your child comes back, ask how they know.",
-     "say": "Metal! One, two, three... What did you bring? How do you know it is metal?",
-     "kid": "Find something made of metal. Bring it back. Say how you know.",
+     "say": "Your material is metal! Ready, go! One, two, three...",
+     "kid": "Run and find something made of metal. Bring it back before 20.",
      "ask": [
       {
        "q": "How do you know it is metal?",
@@ -527,7 +527,7 @@
      "mins": 2,
      "do": "Play one last round with a new rule. Your child must find a thing made of two materials.",
      "say": "Last round. Find one thing made of two materials, and tell me both.",
-     "kid": "Find one thing made of two materials. Name them both.",
+     "kid": "Look for a thing with two parts, like a handle and a body. Name both materials.",
      "check": {
       "t": "mcq",
       "q": "Which of these is made of two materials?",
@@ -549,7 +549,7 @@
    "title": "The Paper Cup Puzzle: is it only paper?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you pour water into a paper cup and into a cone made of newspaper. You watch what happens to each. Then a grown-up cuts the paper cup open, and you look inside.",
+   "context": "You will find out why a paper cup does not go soggy. In this experiment you pour water into a paper cup and into a cone made of newspaper. You watch what happens to each. Then a grown-up cuts the paper cup open, and you look inside.",
    "question": "Paper goes soggy in water. So why does a paper cup hold water? Is a paper cup made only of paper?",
    "predict": "Guess first. When we pour water into the newspaper cone, what will happen? What will happen in the paper cup? Why do you think so?",
    "fair_test": "Both cups get the same amount of water, three spoonfuls each. Both are held over the same steel plate, and we watch both for the same time. Only the cup is different.",
@@ -586,7 +586,7 @@
      "qty": 1
     },
     {
-     "item": "paper and crayons for the results",
+     "item": "paper and a pencil for the results",
      "qty": 1
     }
    ],
@@ -598,7 +598,7 @@
      "what": "Guess, pour water into a newspaper cone and a paper cup, watch both, then cut the paper cup open and look inside."
     }
    ],
-   "record": "Draw the two cups side by side. Draw what the water did in each one. Then draw the inside of the cut-open paper cup, and colour the plastic skin a different colour from the paper.",
+   "record": "Fill in the results table: what the water did in each cup, and what each cup is made of. Tape the torn strip of the paper cup next to the table, or take a photo of it. You can also draw the cut-open cup, with the plastic skin in a different colour.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -643,8 +643,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Put the paper cup and half a sheet of newspaper on the table. 2. Let your child hold and feel both.",
-     "say": "Here is a paper cup and some newspaper. What is the cup made of? What is the newspaper made of?",
-     "kid": "Feel the paper cup. Feel the newspaper. What are they made of?",
+     "say": "Here is a paper cup and some newspaper. Hold them and feel them both.",
+     "kid": "Feel the cup and the newspaper. Look at both closely.",
      "ask": [
       {
        "q": "What is the cup made of?",
@@ -660,16 +660,16 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Roll the newspaper into a cone, about as big as the cup. 2. Tape or staple the side. 3. Fold the tip up so it is closed.",
-     "say": "Let's make a newspaper cup too. Now we have two paper cups.",
-     "kid": "Watch the grown-up make a cup out of newspaper.",
+     "say": "Let's make a second cup, out of newspaper.",
+     "kid": "Help roll the newspaper into a cone. Hold it while the grown-up tapes it.",
      "parent": "The cone does not need to be neat. It only has to hold water for a few seconds."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask your child to guess what will happen in each cup. Write or draw their guesses.",
-     "say": "We will pour water into both. What will happen to the newspaper cup? What will happen to the paper cup? Why do you think so?",
-     "kid": "Guess. What will the water do in each cup? Why?",
+     "do": "Ask your child to guess what will happen in each cup. Write down their guesses.",
+     "say": "We will pour water into both cups. What will happen in each one?",
+     "kid": "Guess what the water will do in each cup.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -704,11 +704,11 @@
      "id": "s5",
      "mins": 2,
      "do": "Ask your child to explain what they saw.",
-     "say": "Both cups are paper. So why did only one leak? What could be different about the paper cup?",
-     "kid": "Both cups are paper. Why did only one leak?",
+     "say": "Both cups look like paper. But only the newspaper one leaked.",
+     "kid": "Think about why only one cup leaked.",
      "ask": [
       {
-       "q": "What could be different?",
+       "q": "What could be different about the paper cup?",
        "good": [
         "The paper cup is thicker.",
         "It has something on it.",
@@ -722,7 +722,7 @@
      "mins": 5,
      "do": "1. Pour the water out of the paper cup. 2. Cut it down one side with scissors and open it flat. 3. Your child feels the inside and the outside. 4. Tear a strip slowly from the cut edge, and look at the torn edge.",
      "say": "Feel the outside, then feel the inside. Are they the same? Now watch the edge as I tear it slowly.",
-     "kid": "Feel the outside of the cup. Feel the inside. Watch the edge when it tears.",
+     "kid": "Rub a finger on the outside, then the inside. Then watch the edge tear.",
      "adult": true,
      "ask": [
       {
@@ -739,9 +739,9 @@
     {
      "id": "s7",
      "mins": 4,
-     "do": "1. Say together what you found. 2. Your child draws the results. 3. Ask the check question.",
-     "say": "So what is a paper cup made of? How do you know?",
-     "kid": "What is a paper cup made of? How do you know?",
+     "do": "1. Fill in the results table together, and let your child say each answer. 2. Tape the torn strip of the cup next to it. 3. Ask the check question.",
+     "say": "Let's fill in our table. What did the water do in each cup?",
+     "kid": "Fill in the table with your grown-up. Tape the torn strip next to it.",
      "ask": [
       {
        "q": "What is a paper cup made of?",
@@ -773,10 +773,10 @@
    "title": "The Material Hunt: which material is used most in our kitchen?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you hunt for things in the kitchen and sort them by material. You guess first which material you will find the most of, then you count.",
+   "context": "You will find out which material your kitchen has the most of. In this activity you hunt for things in the kitchen and sort them by material. You guess first which material you will find the most of, then you count.",
    "materials": [
     {
-     "item": "6 sheets of paper, each with one material drawn and written on it: wood, metal, plastic, glass, fabric, paper",
+     "item": "6 sheets of paper, each with one material written on it: wood, metal, plastic, glass, fabric, paper",
      "qty": 6
     },
     {
@@ -808,8 +808,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Lay the six material cards on the kitchen floor. 2. Point to each one and name it.",
-     "say": "These are six materials. In our kitchen, which material do you think the most things are made of? Why?",
-     "kid": "Look at the six cards. Which material is used most in our kitchen? Guess, and say why.",
+     "say": "These are six materials. Which one do you think we will find the most of in our kitchen?",
+     "kid": "Look at the six cards. Pick the one you think will win.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -824,8 +824,8 @@
      "id": "s2",
      "mins": 9,
      "do": "1. Your child finds safe things and puts each one on its card. 2. For glass, they point, and you make a tally mark. 3. For big things like the fridge, they make a tally mark.",
-     "say": "Find a thing. What is it made of? How do you know? Put it on that card.",
-     "kid": "Find a thing. Say what it is made of. Put it on the card.",
+     "say": "Pick a thing in the kitchen. What is it made of? Put it on that card.",
+     "kid": "Tap it, lift it and look at it. Then put it on the right card.",
      "ask": [
       {
        "q": "How do you know this is plastic?",
@@ -843,7 +843,7 @@
      "mins": 4,
      "do": "1. Count the things or marks on each card together. 2. Compare with the guess. 3. Put everything back.",
      "say": "Let's count. Which card has the most? Was your guess right?",
-     "kid": "Count the things on each card. Which has the most?",
+     "kid": "Count the things and the tally marks on each card.",
      "ask": [
       {
        "q": "What did you find?",
@@ -863,11 +863,15 @@
    "title": "Rubbing Rainbow: what does each material's surface show?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you put thin paper over different materials and rub with a crayon. Each material leaves its own pattern, or none at all.",
+   "context": "You will find out which materials leave a pattern when you rub over them. In this activity you put thin paper over different materials and rub with a crayon. Each material leaves its own pattern, or none at all.",
    "materials": [
     {
      "item": "thin paper, like printer paper or the back of an old calendar",
      "qty": 4
+    },
+    {
+     "item": "an unpainted wooden board, like a chopping board",
+     "qty": 1
     },
     {
      "item": "wax crayons, with the paper wrapper peeled off one",
@@ -890,7 +894,7 @@
      "qty": 1
     }
    ],
-   "record": "Stick the rubbings on one page. Under each one, write or draw the material it came from.",
+   "record": "Stick the rubbings on one page. Under each one, write the material it came from.",
    "setup": [
     {
      "art": "A sheet of paper laid over a wooden chopping board, and a child rubbing the side of a crayon across it.",
@@ -906,8 +910,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Lay the paper over the wooden board. 2. Show your child how to rub with the flat side of a crayon.",
-     "say": "Rub gently with the side of the crayon. Watch what comes up.",
-     "kid": "Rub the side of the crayon over the paper. What do you see?",
+     "say": "Watch me. I rub the side of the crayon over the paper.",
+     "kid": "Now you try. Rub gently with the side of the crayon.",
      "ask": [
       {
        "q": "What do you see?",
@@ -923,8 +927,8 @@
      "id": "s2",
      "mins": 8,
      "do": "Make a rubbing of the jute bag or towel, the steel plate and the plastic basket, each on new paper.",
-     "say": "Before you rub, guess. Will the steel plate make a pattern? Why do you think so?",
-     "kid": "Guess first: will the steel plate make a pattern? Then rub the cloth, the plate and the basket.",
+     "say": "Before you rub, guess. Will the steel plate make a pattern?",
+     "kid": "Rub the cloth, the plate and the basket. Use a new sheet each time.",
      "ask": [
       {
        "q": "What did the steel plate make?",
@@ -939,9 +943,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Mix up the rubbings. Ask your child to say which material made each one.",
-     "say": "Can you tell which material made each rubbing, just by looking?",
-     "kid": "Which material made each pattern?",
+     "do": "Mix up the rubbings. Lay out the wooden board, the cloth, the plate and the basket. Your child puts each rubbing next to the thing that made it.",
+     "say": "I mixed up the rubbings. Can you tell which thing made each one?",
+     "kid": "Put each rubbing next to the thing that made it.",
      "check": {
       "t": "mcq",
       "q": "A rubbing shows tiny lines going over and under each other. What made it?",
@@ -976,7 +980,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the torn edge of the paper and one thread from the cloth, as big as you can.",
+   "record": "Stick the torn paper strip and the cloth thread on a page, and write one thing you saw under each. Or draw them as big as you can.",
    "setup": [
     {
      "art": "A child tearing a strip of newspaper slowly and holding the torn edge up to a window.",
@@ -992,8 +996,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Your child tears the paper slowly. 2. Hold the torn edge up to a window or a lamp.",
-     "say": "Look at the torn edge against the light. What do you see?",
-     "kid": "Tear the paper slowly. Hold the edge up to the light. What do you see?",
+     "say": "Tear the paper slowly. Then hold the torn edge up to the light.",
+     "kid": "Look closely at the torn edge. Use the magnifying glass if you have one.",
      "ask": [
       {
        "q": "What do you see?",
@@ -1009,8 +1013,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Find a frayed edge on the old cloth. 2. Help your child pull out one thread. 3. Look at the hole and the thread.",
-     "say": "Pull one thread out. Look where it came from. What is the cloth made of?",
-     "kid": "Pull one thread out. What is the cloth made of?",
+     "say": "Pull one thread out of the cloth. Look at the gap it leaves.",
+     "kid": "Pull out one thread and look at it up close.",
      "ask": [
       {
        "q": "What is the cloth made of?",
@@ -1025,12 +1029,12 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask your child how paper and cloth are alike.",
-     "say": "How are paper and cloth the same? How are they different?",
-     "kid": "How are paper and cloth the same?",
+     "do": "Put the torn paper and the thread side by side. Then ask how they are alike and different.",
+     "say": "Look at the torn paper and the cloth thread again.",
+     "kid": "Put the paper strip and the thread side by side. Look at both.",
      "ask": [
       {
-       "q": "How are they alike?",
+       "q": "How are paper and cloth alike? How are they different?",
        "good": [
         "Both are made of threads.",
         "Cloth threads are woven, and paper threads are squashed together."
@@ -1045,7 +1049,7 @@
    "title": "Foil or Not? The Scrunch Ball test",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you scrunch kitchen foil and an empty chips packet into balls, and watch what each one does. Both are shiny inside. Are they the same material?",
+   "context": "In this activity you scrunch kitchen foil and an empty chips packet into balls, and watch what each one does. Both are shiny inside. Are they the same material? You will find out if shiny always means metal.",
    "materials": [
     {
      "item": "a piece of kitchen foil, about the size of your hand (or the foil back of an empty medicine strip)",
@@ -1056,7 +1060,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the two balls after one minute. Write or draw what each one is made of.",
+   "record": "Write what each ball did and what it is made of. Take a photo of the two balls after one minute, or draw them.",
    "setup": [
     {
      "art": "A child's two hands, one holding a piece of kitchen foil and the other an empty shiny chips packet.",
@@ -1072,8 +1076,17 @@
      "id": "s1",
      "mins": 2,
      "do": "Show your child the foil and the inside of the chips packet.",
-     "say": "Both of these are shiny. Kitchen foil is a metal called aluminium. Is the chips packet metal too? What do you think, and why?",
-     "kid": "The foil and the chips packet are both shiny. Is the chips packet metal too? Why do you think so?"
+     "say": "Both of these are shiny. Kitchen foil is a metal called aluminium.",
+     "kid": "Look at the foil and the inside of the chips packet. Touch both.",
+     "ask": [
+      {
+       "q": "Is the chips packet metal too? Why do you think so?",
+       "good": [
+        "Yes, because it is shiny like the foil.",
+        "No, because it feels like plastic."
+       ]
+      }
+     ]
     },
     {
      "id": "s2",
@@ -1095,9 +1108,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Tell your child what the chips packet is made of. Ask the check question.",
-     "say": "A chips packet is mostly plastic. On the inside it has a very, very thin coat of metal, to keep air and light away from the chips.",
-     "kid": "A chips packet is mostly plastic, with a thin metal coat inside.",
+     "do": "Ask the check question. Then tell your child that a chips packet is mostly plastic. It has a very thin coat of metal inside, to keep air and light away.",
+     "say": "Let's think about what we saw. The foil stayed scrunched. The chips packet opened up again.",
+     "kid": "Remember what the foil did, and what the packet did.",
      "check": {
       "t": "mcq",
       "q": "The chips packet opened up again after scrunching. What does that tell you?",
@@ -1119,7 +1132,7 @@
    "title": "A Shoebox Room: one material for each part",
    "mins": 40,
    "days": 2,
-   "context": "In this project you make a little room inside a shoebox or a carton. You use a different material for each part, and label them all.",
+   "context": "In this project you make a little room inside a shoebox or a carton. You will choose the best material for each part, and label them all.",
    "materials": [
     {
      "item": "a shoebox or a small carton",
@@ -1142,7 +1155,7 @@
      "qty": 1
     },
     {
-     "item": "paper, glue, crayons and sticky tape",
+     "item": "paper, an old calendar, glue, a pencil and sticky tape",
      "qty": 1
     }
    ],
@@ -1156,7 +1169,7 @@
     {
      "day": 2,
      "mins": 20,
-     "what": "Add a cloth bedsheet or curtain, a foil mirror or a bottle-cap plate, and paper pictures for the walls. Label every material and show the room to the family."
+     "what": "Add a cloth bedsheet or curtain, a foil mirror or a bottle-cap plate, and calendar pictures for the walls. Label every material and show the room to the family."
     }
    ],
    "record": "The finished room, with a small paper label on each part naming its material.",
@@ -1174,9 +1187,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Lay out all the materials. 2. Ask your child what each part of the room could be made of.",
+     "do": "1. Lay out all the materials. 2. Ask your child what each part of the room could be made of. 3. Your child puts each material next to the part it could make.",
      "say": "We are making a little room. What could the bed be made of? The window? The curtain?",
-     "kid": "Plan your room. What will each part be made of?",
+     "kid": "Plan your room. Put each material next to the part it could make.",
      "ask": [
       {
        "q": "Why is a real window made of glass?",
@@ -1192,25 +1205,25 @@
      "id": "s2",
      "mins": 15,
      "do": "1. Cut a window hole in the box and tape clear plastic over it. 2. Your child glues ice-cream sticks into a bed or a table.",
-     "say": "Real windows are glass. Our window is clear plastic, because glass can break and cut. Now build the bed from wood.",
-     "kid": "Glue the sticks into a bed. The window is plastic, so it is safe.",
+     "say": "Real windows are glass. Our window will be clear plastic. Think about why. Now build the bed from wood.",
+     "kid": "Glue the sticks into a bed or a table.",
      "adult": true,
-     "parent": "Talk about why the model uses plastic for the window. It is see-through like glass, but it does not break into sharp pieces."
+     "parent": "Don't explain why yet. The child answers in the last step: plastic is see-through like glass, but it does not break into sharp pieces."
     },
     {
      "id": "s3",
      "mins": 15,
-     "do": "On day 2, your child adds a cloth sheet, a foil mirror or a bottle-cap plate, and paper pictures.",
+     "do": "On day 2, your child adds a cloth sheet, a foil mirror or a bottle-cap plate, and pictures cut from the calendar.",
      "say": "Now add fabric, metal and paper. Which part will be fabric?",
-     "kid": "Add a cloth sheet, a foil mirror and paper pictures.",
+     "kid": "Add a cloth sheet, a foil mirror and calendar pictures.",
      "wait": "Day 2"
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Your child draws a label for each part, and a grown-up writes the word on it. 2. They show the room and name every material.",
-     "say": "Show us your room. Tell us what each part is made of.",
-     "kid": "Show your room. Name every material.",
+     "do": "1. Your child makes a paper label for each part and sticks it on. A grown-up writes the word, or helps spell it. 2. They show the room and name every material.",
+     "say": "Show us your room. What is each part made of?",
+     "kid": "Make a label for each part and stick it on.",
      "check": {
       "t": "mcq",
       "q": "Why did we use clear plastic for the window in the model?",
@@ -1257,7 +1270,7 @@
     "Fold the plastic folder into a zigzag. It springs back, so it moves air with each wave.",
     "Make one fan from two materials: a paper fan with a stick handle."
    ],
-   "your_turn": "Make one fan from each material, all about the same size. Wave each one ten times at the paper strip from the same distance. Which one lifts the strip best? Draw your best fan and label its materials.",
+   "your_turn": "Make one fan from each material, all about the same size. Wave each one ten times at the paper strip from the same distance. Which one lifts the strip best? Put a paper label on your best fan that names its materials.",
    "setup": [
     {
      "art": "Three home-made fans on a table: a zigzag paper fan, a floppy handkerchief taped to a stick, and a zigzag plastic folder fan.",
@@ -1273,11 +1286,11 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem to your child. Show the paper, cloth and plastic.",
-     "say": "The power is off and it is hot. Which material would make the best fan? Why do you think so?",
-     "kid": "It is hot. Which material makes the best fan? Why?",
+     "say": "The power is off and it is hot. We need a fan. Which material would make the best one: paper, cloth or plastic?",
+     "kid": "Look at the paper, the cloth and the plastic. Pick the one you think will make the best fan.",
      "ask": [
       {
-       "q": "Why?",
+       "q": "Why do you think so?",
        "good": [
         "Paper, because it is light and you can fold it.",
         "Cloth is too floppy.",
@@ -1289,16 +1302,16 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Help your child make one fan from each material, all about the same size. 2. Show the zigzag fold for the paper.",
-     "say": "Fold the paper forward, then back, then forward. Pinch one end. That is your fan.",
-     "kid": "Make one fan from paper, one from cloth and one from plastic. Fold the paper back and forth."
+     "do": "1. Help your child make one fan from each material, all about the same size. 2. Show the zigzag fold for the paper. 3. Tape the cloth and the plastic to sticks.",
+     "say": "Fold the paper forward, then back, then forward. Pinch one end. That is your paper fan. Tape the cloth and the plastic to sticks.",
+     "kid": "Make three fans, one from each material."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "1. Put a paper strip on the table, with half of it hanging over the edge and a book on the other half. 2. Your child waves each fan ten times from one hand-length away.",
-     "say": "Wave each fan ten times from the same place. Which one lifts the strip best?",
-     "kid": "Wave each fan ten times at the strip. Which works best?",
+     "say": "Wave each fan ten times from the same place, one fan at a time. Watch the strip.",
+     "kid": "Wave each fan at the strip. Watch how high it lifts.",
      "ask": [
       {
        "q": "Which worked best?",
@@ -1314,9 +1327,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask the check question.",
-     "say": "If the cloth fan pushed little air, why do you think that was?",
-     "kid": "Why did the floppy fan push so little air?",
+     "do": "Let your child bend the cloth fan and the paper fan. Then ask the check question.",
+     "say": "Bend the cloth fan, then the paper fan. Which one bends more?",
+     "kid": "Bend each fan gently and feel which one is floppier.",
      "check": {
       "t": "mcq",
       "q": "A floppy fan, like one made of cloth, pushes very little air. Why?",

@@ -274,7 +274,7 @@
    "title": "Six Parts, One Plant: a card-collecting game",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a card game about the six parts of a plant. Players collect all six parts of one plant: roots, stem, leaves, flowers, fruit and seeds. The back of each card says that part's job.",
+   "context": "This is a card game about the six parts of a plant. Players collect all six parts of one plant: roots, stem, leaves, flowers, fruit and seeds. You will learn the job of each part, because the back of each card says it.",
    "printables": [
     {
      "kind": "cards",
@@ -428,7 +428,7 @@
     }
    ],
    "rules": [
-    "Cards with a photo are ready. Before you play, draw a small picture under the words on each card with no photo (a mango, a brinjal, a root), so a child who cannot read can play.",
+    "Cards with a photo are ready. Before you play, put a small picture on each card with no photo (a mango, a brinjal, a root), so a child who cannot read can play. Draw it, or stick on a picture cut from a newspaper or magazine.",
     "Mix the cards. Give each player 5 cards. Put the rest face down in a pile.",
     "On your turn, ask one player for a card you need, by plant and part: 'Do you have the lotus stem?'",
     "If they have the card, they give it to you, and you ask again. If not, take one card from the pile, and your turn ends. If you have no cards on your turn, take one from the pile.",
@@ -439,9 +439,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Read each card to your child. 2. Draw a small picture on each card that has no photo: you do the roots and stems, your child does the rest. 3. Mix the cards and deal 5 to each player.",
-     "say": "Each card is one part of a plant. Let's draw the ones with no picture. You draw the coconut, I'll draw the roots.",
-     "kid": "Draw the plant part on each card with no photo, like a mango or a brinjal seed."
+     "do": "1. Read each card to your child. 2. Put a picture on each card that has no photo. Draw it, or stick on a picture cut from a newspaper or magazine. 3. Mix the cards and deal 5 to each player.",
+     "say": "Each card is one part of a plant. Some cards have no picture yet. Let's add one to each of them.",
+     "kid": "Add a picture to each card with no photo. Draw it, or stick one on."
     },
     {
      "id": "s2",
@@ -462,7 +462,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Count the plants each player has laid down. Then ask the check question.",
-     "say": "Who has the most plants? Now a question about the coconut palm.",
+     "say": "Let's count the plants. Then one question about the coconut palm.",
      "kid": "Count your plants. Who has the most?",
      "check": {
       "t": "mcq",
@@ -480,7 +480,7 @@
    "setup": [
     {
      "art": "Twenty-four small cards on a floor mat, each with words and a child's drawing: a mango stone, a lotus flower, a coconut, a brinjal leaf.",
-     "caption": "1. Draw a part on each card. Deal 5 cards to each player."
+     "caption": "1. Add a picture to each card. Deal 5 cards to each player."
     },
     {
      "art": "Six cards laid in a line from bottom to top: coconut roots, trunk, leaves, flowers, coconut, seed.",
@@ -493,7 +493,7 @@
    "title": "Point to the Part: a clue game",
    "mins": 12,
    "players": "1 or more players and a reader",
-   "context": "This is a game about what each part of a plant does. The reader reads a clue about a part's job. The player puts a bean on the part of the plant that does that job.",
+   "context": "This is a game about what each part of a plant does. You will learn the job of each part. The reader reads a clue about a part's job. The player puts a bean on the part of the plant that does that job.",
    "printables": [
     {
      "kind": "board",
@@ -563,7 +563,7 @@
     }
    ],
    "rules": [
-    "Before you play, the child draws each part in its square on the board: roots, a stem, leaves, a flower, a fruit and seeds.",
+    "Before you play, read the name on each square of the board together: roots, stem, leaves, flower, fruit and seeds.",
     "Lay the six squares in a line on the floor, from roots at the bottom to seeds at the top.",
     "Mix the clue cards. One person is the reader and reads one clue out loud.",
     "The player puts a bean or a button on the square that matches the clue. With 2 players, the parent reads and the child plays. With 3 or 4, the reader job passes to the next person after each card, and the player is the person on the reader's left.",
@@ -574,16 +574,16 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Your child draws a part in each of the six squares. 2. Lay the squares in a line on the floor, roots nearest to you. 3. Give your child a handful of rajma beans or buttons.",
+     "do": "1. Lay the six squares in a line on the floor, roots nearest to you. 2. Read the six names together. 3. Give your child a handful of rajma beans or buttons.",
      "say": "Let's make a plant on the floor. Roots go at the bottom, under the soil. What goes next?",
-     "kid": "Draw each part in a square. Put the roots at the bottom."
+     "kid": "Put the squares in order. Roots go at the bottom. Say each name."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "1. Read the clue cards one at a time. 2. Your child puts a bean on the matching square. 3. Turn the card over and read the answer.",
-     "say": "Listen to the clue. Which part does this job? Put a bean on that part.",
-     "kid": "Listen to the clue. Put a bean on the right part.",
+     "say": "Here is a clue. Which part of the plant does this job?",
+     "kid": "Listen to the clue. Put a bean on the right square.",
      "ask": [
       {
        "q": "Two clues were about the roots. What are the two jobs of roots?",
@@ -617,7 +617,7 @@
    "setup": [
     {
      "art": "Six paper squares in a line on a floor, from bottom to top: roots, stem, leaves, flower, fruit, seeds, each with a child's drawing.",
-     "caption": "1. Draw each part. Lay the squares in a line, roots at the bottom."
+     "caption": "1. Lay the squares in a line, roots at the bottom."
     },
     {
      "art": "A child placing a red rajma bean on the leaves square while a parent holds up a clue card.",
@@ -632,7 +632,7 @@
    "title": "Sprouts Hold On: can roots grip?",
    "mins": 25,
    "days": 4,
-   "context": "In this experiment you grow moong sprouts on a cotton cloth and on a smooth steel plate. After two days you turn both upside down and count which sprouts hold on.",
+   "context": "In this experiment you grow moong sprouts on a cotton cloth and on a smooth steel plate. You will find out whether roots can grip a cloth. After two days you turn both upside down and count which sprouts hold on.",
    "question": "Moong sprouts grow on a cloth and on a steel plate. When we turn them upside down, which sprouts will hold on?",
    "predict": "Guess first. We will turn the cloth and the plate upside down. Will the sprouts on the cloth hold on, or fall off? What about the sprouts on the plate? Why do you think so?",
    "fair_test": "The cloth and the plate both get the same moong, soaked on the same night, the same water and the same place in the kitchen. Only the thing under the seeds is different: a cotton cloth or a bare steel plate.",
@@ -689,7 +689,7 @@
      "what": "Turn the cloth and the bare plate upside down over a bowl. Count the sprouts that hold on. Look under the cloth. Say what you saw."
     }
    ],
-   "record": "Draw the cloth and the plate after you turned them over. Draw the sprouts that held on. Write or say how many sprouts held on to the cloth, and how many held on to the plate.",
+   "record": "Take a photo of the cloth and the plate after you turned them over, or draw them. Write or say how many sprouts held on to the cloth, and how many held on to the plate.",
    "flow": [
     {
      "id": "s1",
@@ -711,9 +711,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask your child to guess, and to say why. Write the guess down, or draw it.",
+     "do": "Ask your child to guess, and to say why. Write the guess down.",
      "say": "In two days we will turn the cloth and the plate upside down. Which sprouts will hold on? Why do you think so?",
-     "kid": "Guess. Which sprouts will hold on? Why?",
+     "kid": "Guess which sprouts will hold on: the cloth ones or the plate ones.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -739,7 +739,7 @@
      "mins": 6,
      "do": "1. Lift off the covers. 2. Tip any extra water off the bare plate into the sink. 3. Hold the plate with the cloth over a big bowl. 4. Turn the cloth and plate upside down, slowly, and tap the plate edge once. 5. Do the same with the bare plate. 6. Count how many sprouts stayed on each.",
      "say": "Now we turn them over. Watch closely. Count how many sprouts hold on.",
-     "kid": "Turn the cloth and the plate over. Count the sprouts that hold on.",
+     "kid": "Turn the cloth and the plate over slowly. Watch the sprouts.",
      "adult": false,
      "ask": [
       {
@@ -760,10 +760,10 @@
      "kid": "Look under the cloth. Pull one sprout gently. What do you feel?",
      "ask": [
       {
-       "q": "Why did the cloth sprouts hold on?",
+       "q": "What did you see under the cloth, and what did you feel?",
        "good": [
-        "The roots grew into the cloth and held on to the threads.",
-        "I could see root tips poking through the cloth."
+        "I could see root tips poking through the cloth.",
+        "The sprout tugged back when I pulled."
        ]
       }
      ],
@@ -828,7 +828,7 @@
    "title": "Meet a Whole Plant: a coriander bunch from root to tip",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you look closely at a whole plant from the market, from the roots up to the leaves. You find each part, touch it, smell it and draw it.",
+   "context": "In this activity you look closely at a whole plant from the market, from the roots up to the leaves. You find each part, touch it and smell it. You will see the part of a plant that is hidden under the soil.",
    "materials": [
     {
      "item": "a bunch of coriander (kothamalli, dhania) with the roots still on. Methi, palak or spring onions with roots also work",
@@ -843,7 +843,7 @@
      "qty": 1
     },
     {
-     "item": "paper and crayons",
+     "item": "paper, tape and crayons",
      "qty": 1
     }
    ],
@@ -851,24 +851,24 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Lay out a coriander bunch with roots. Find the roots, the stems and the leaves. Shake the roots. Draw the plant."
+     "what": "Lay out a coriander bunch with roots. Find the roots, the stems and the leaves. Shake the roots. Show the plant on paper."
     }
    ],
-   "record": "Draw one coriander plant, from the roots to the leaves. A grown-up helps write the names of the parts.",
+   "record": "Draw one coriander plant from the roots to the leaves, or tape one plant down on paper. A grown-up writes the names of the parts.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Spread the newspaper on the floor. 2. Take one coriander plant out of the bunch. 3. Lay the plant down on the paper.",
      "say": "This is one whole coriander plant. Which end of the plant do you think was in the soil?",
-     "kid": "Look at this whole plant. Which end was in the soil?",
+     "kid": "Look at the whole plant. Point to the end you think was in the soil.",
      "parent": "Many markets sell coriander with the roots on. If the roots are cut off, use methi, palak or spring onions with roots. A small weed from a pot crack also works."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "1. Point to the roots together. 2. Let your child hold the plant by the leaves and shake the roots gently over the paper. 3. Look at the roots closely, with a magnifying glass if you have one.",
-     "say": "These are the roots. Shake the plant gently. Does all the soil fall off?",
+     "say": "These are the roots. Shake the plant gently over the paper. Watch the soil.",
      "kid": "Find the roots. Shake gently. Does the soil fall off?",
      "ask": [
       {
@@ -907,9 +907,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Your child draws the plant. You write the names: roots, stem, leaves.",
-     "say": "Draw the whole plant, from the roots to the leaves. I'll write the names.",
-     "kid": "Draw the plant. Roots at the bottom. Leaves at the top.",
+     "do": "Your child draws the plant, or tapes the real plant down on paper. You write the names: roots, stem, leaves.",
+     "say": "Show the whole plant on paper, from the roots to the leaves. You can draw the plant, or tape the real plant down. I'll write the names.",
+     "kid": "Draw the plant, or tape the plant down. Roots at the bottom. Leaves at the top.",
      "parent": "Wash the coriander afterwards and use the leaves for cooking. Roots can go in the compost or the bin."
     }
    ],
@@ -933,7 +933,7 @@
    "title": "Hold a Leaf to the Light: find the veins",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hold a leaf up to a bright window and see the lines inside it, called veins. Then you make a crayon rubbing of the veins.",
+   "context": "In this activity you hold a leaf up to a bright window and see the lines inside it, called veins. You will find out what the lines are for. Then you make a crayon rubbing of the veins.",
    "materials": [
     {
      "item": "two or three fresh leaves: palak, cabbage, money plant, or a fallen peepal or mango leaf",
@@ -956,13 +956,13 @@
      "what": "Hold leaves up to a bright window. Find the veins. Make a crayon rubbing of one leaf."
     }
    ],
-   "record": "Keep the crayon rubbing. Draw an arrow on one vein, to show water coming into the leaf.",
+   "record": "Keep the crayon rubbing. Point to one vein and tell a grown-up how water gets into the leaf.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Stand at a bright window together, out of direct sun. 2. Hold a leaf flat against the glass. 3. Look at the lines in the leaf.",
-     "say": "Hold the leaf against the window. Look through the leaf. What can you see?",
+     "say": "Hold the leaf flat against the window. Look through the leaf.",
      "kid": "Hold the leaf to the window. What lines can you see?",
      "ask": [
       {
@@ -980,14 +980,14 @@
      "mins": 2,
      "do": "Tell your child what veins do.",
      "say": "These lines are called veins. Water comes up the stem and travels into the leaf along the veins. Food made in the leaf goes out along the veins too.",
-     "kid": "These lines are veins. Water travels along them into the leaf."
+     "kid": "Trace one vein with your finger, from the middle to the edge."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "1. Put a leaf on the table, underside up (the paler side, where the veins stick out). 2. Lay thin paper over the leaf. 3. Your child rubs the side of the crayon over the paper, gently.",
-     "say": "Rub the crayon over the paper. Watch the veins appear.",
-     "kid": "Rub the crayon gently. Watch the veins appear.",
+     "say": "Put the paper over the leaf. Rub the side of the crayon on the paper.",
+     "kid": "Rub gently. What shows up on the paper?",
      "ask": [
       {
        "q": "Why do you think the veins go to every part of the leaf?",
@@ -1015,7 +1015,7 @@
    "title": "Bhindi Star Stamps: find the seeds inside a fruit",
    "mins": 15,
    "days": 1,
-   "context": "In this activity a grown-up cuts a bhindi open, and you find the seeds inside. A bhindi is a fruit, because a fruit holds the seeds. Then you use the cut bhindi to stamp star shapes with paint.",
+   "context": "In this activity you find out what is inside a bhindi, and why a bhindi is a fruit. A grown-up cuts it open. A fruit holds the seeds. Then you use the cut bhindi to stamp star shapes with paint.",
    "materials": [
     {
      "item": "bhindi (ladies' finger)",
@@ -1042,14 +1042,14 @@
      "what": "A grown-up cuts a bhindi across and along. Count the seed rows. Stamp star shapes with the cut ends."
     }
    ],
-   "record": "Keep the stamp paper. Draw one bhindi slice next to the stamps and colour the seeds.",
+   "record": "Keep the stamp paper. Take a photo of one bhindi slice, and tell a grown-up how many rows of seeds it has.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "Show your child a whole bhindi.",
      "say": "A bhindi grows from a flower on the bhindi plant. What do you think is inside?",
-     "kid": "Look at this bhindi. What do you think is inside?",
+     "kid": "Look at this bhindi. Feel the outside.",
      "adult": true,
      "ask": [
       {
@@ -1066,7 +1066,7 @@
      "mins": 5,
      "do": "1. Cut one bhindi across into rounds. 2. Cut the other along its length. 3. Put the pieces on a plate. 4. Your child looks closely and counts the rows of seeds in one round.",
      "say": "Look at the round piece. Can you see a star? Count the rows of seeds.",
-     "kid": "Look at the round piece. Count the rows of seeds.",
+     "kid": "Look at the round piece. Find the star.",
      "adult": true,
      "ask": [
       {
@@ -1112,7 +1112,7 @@
    "title": "Roots in a Clear Cup: watch roots grow and hold",
    "mins": 25,
    "days": 14,
-   "context": "In this two-week project you grow moong in soil in a clear cup, so you can see the roots grow along the side. At the end you tip the soil out and see what the roots have done.",
+   "context": "In this two-week project you grow moong in soil in a clear cup, so you can see the roots grow along the side. You will find out whether roots can hold soil together. At the end you tip the soil out and see what the roots have done.",
    "materials": [
     {
      "item": "two clear plastic cups or two small paper cups, with a small hole poked in the bottom of each by a grown-up",
@@ -1145,7 +1145,7 @@
     {
      "day": 8,
      "mins": 4,
-     "what": "Look at the roots and the leaves. Draw the cup. Water both the same."
+     "what": "Look at the roots and the leaves. Take a photo of the cup, or draw it. Water both the same."
     },
     {
      "day": 14,
@@ -1153,7 +1153,7 @@
      "what": "Do not water today. Tip each cup out gently onto newspaper. Compare the two lumps of soil."
     }
    ],
-   "record": "Draw the moong cup on day 4, day 8 and day 14. On day 14, draw both lumps of soil.",
+   "record": "Take a photo of the moong cup on day 4, day 8 and day 14, or draw it. On day 14, photograph both lumps of soil.",
    "flow": [
     {
      "id": "s1",
@@ -1169,8 +1169,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Look at the side of the clear cup together.",
-     "say": "Can you see any roots against the side of the cup? Which way are they growing?",
-     "kid": "Look at the side of the cup. Can you see roots?",
+     "say": "Let's look at the cup from the side. Do you see anything white?",
+     "kid": "Find a white root against the side of the cup.",
      "wait": "Leave the cups for 4 more days. Water both the same when the soil feels dry.",
      "ask": [
       {
@@ -1185,9 +1185,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Look at the roots and the new leaves. 2. Your child draws the cup.",
-     "say": "Look how many roots there are now. Draw what you see.",
-     "kid": "Look at the roots now. Draw the cup.",
+     "do": "1. Look at the roots and the new leaves. 2. Your child takes a photo of the cup, or draws it.",
+     "say": "Look how many roots there are now. Take a photo of the cup, or draw it.",
+     "kid": "Look at the roots now. Photograph or draw the cup.",
      "wait": "Leave the cups for 6 more days. Do not water on the last day.",
      "ask": [
       {
@@ -1309,8 +1309,8 @@
      "id": "c1s4",
      "mins": 4,
      "do": "Look at the best plant together. Talk about real roots.",
-     "say": "Real roots grow into the soil, spread out, and hold on to lots of it. Which of your roots held best?",
-     "kid": "Which roots held best? Why do you think so?",
+     "say": "Real roots grow into the soil, spread out, and hold on to lots of it. Do your paper roots do the same?",
+     "kid": "Look at your plants. Which roots held the most rice?",
      "check": {
       "t": "mcq",
       "q": "Which paper plant is hardest to pull out?",

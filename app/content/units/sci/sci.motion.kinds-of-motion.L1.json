@@ -224,7 +224,7 @@
    "title": "The Roll or Slide Test: does a dabba go further rolling or sliding?",
    "mins": 20,
    "days": 1,
-   "context": "This is the main experiment of the unit. You give the same round dabba the same push twice: once lying on its side, and once standing flat. Which way does it go further?",
+   "context": "This is the main experiment of the unit. You give the same round dabba the same push twice: once lying on its side, and once standing flat. Which way does it go further? You will find out why wheels make heavy things easier to move.",
    "question": "With the same push, does a round dabba go further when it rolls on its side or when it slides standing flat?",
    "predict": "Guess first. Will the dabba go further lying on its side or standing flat? Or the same? Why do you think so?",
    "fair_test": "We use the same dabba, the same book and the same push every time. The book always moves from the start line to the stop line, then stops. Only the way the dabba sits changes. We try each way 3 times, because one try can be a fluke.",
@@ -262,7 +262,7 @@
      "what": "Guess, push the dabba 3 times on its side and 3 times standing flat, mark where it stops, and count the tiles."
     }
    ],
-   "record": "Draw the dabba on its side and standing flat. Next to each, draw a line that shows how far it went.",
+   "record": "Draw the dabba on its side and standing flat. Next to each, draw a line that shows how far it went. Or tell your grown-up what you found, using your tile numbers.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -310,7 +310,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Hold the dabba on its side, then standing flat. 2. Ask for a guess and a reason. 3. Write or draw the guess.",
+     "do": "1. Hold the dabba on its side, then standing flat. 2. Ask for a guess and a reason. 3. Write down the guess.",
      "say": "First we lay the dabba on its side. Then we stand it flat. Which way will it go further? Why do you think so?",
      "kid": "Which way will the dabba go further? On its side or standing flat? Why?",
      "ask": [
@@ -355,8 +355,8 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Count the tiles to each slip together, or count hand-widths if your floor has no tiles. 2. Fill in the table. 3. Ask what your child saw and why.",
-     "say": "Let us count the tiles. Which way went further? What did you see? Why do you think it went further that way?",
-     "kid": "Count the tiles. Which way went further? Why, do you think?",
+     "say": "Let us count the tiles from the start line to each slip. Which way went further?",
+     "kid": "Count the tiles from the start line to each slip. Write each number in the table.",
      "ask": [
       {
        "q": "Why did it go further on its side?",
@@ -388,7 +388,7 @@
    "title": "The Bounce Test: which balls bounce back up?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you drop five kinds of ball from the same height. You watch which ones bounce back up and which do not.",
+   "context": "In this experiment you drop five kinds of ball from the same height. You watch which ones bounce back up and which do not. You will find out what a thing needs to bounce.",
    "question": "Which of these bounce back up: a rubber ball, a ball of socks, a paper ball, a ball of atta dough, and an empty plastic bottle?",
    "predict": "Guess first. Which ones will bounce high, which a little, and which not at all? Why do you think so?",
    "fair_test": "We drop every ball from the same height, the top of a table, onto the same floor. We let go without throwing. We drop each one 2 times.",
@@ -430,7 +430,7 @@
      "what": "Guess, drop each of the five balls twice from table height, and sort them into high, a little and no bounce."
     }
    ],
-   "record": "Draw each thing and a curved line showing how high it bounced. Draw no line for things that did not bounce.",
+   "record": "Sort the five things into three piles: bounced high, bounced a little, did not bounce. Take a photo of your piles, or tell your grown-up why each one is in its pile.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -485,7 +485,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Line up the five things. 2. Ask for a guess and a reason for each. 3. Write or draw the guesses.",
+     "do": "1. Line up the five things. 2. Ask for a guess and a reason for each. 3. Write down the guesses.",
      "say": "Here are five things to drop. Which will bounce high, which a little, and which not at all? Why do you think so?",
      "kid": "Look at the five things. Which will bounce? Which will not? Why?",
      "ask": [
@@ -529,7 +529,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "1. Squeeze the rubber ball, then the dough, in your child's hand. 2. Let go and watch.",
+     "do": "1. Give your child the rubber ball to squeeze, then the dough. 2. Ask them to let go each time and watch.",
      "say": "Squeeze the rubber ball, then let go. Now squeeze the dough. Which one springs back?",
      "kid": "Squeeze the ball. Let go. Now squeeze the dough. Which springs back?",
      "check": {
@@ -554,7 +554,7 @@
    "title": "Five Ways With My Body: roll, slide, spin, swing, bounce",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you move your own body in the five ways: roll, slide, spin, swing and bounce. You feel how each one is different.",
+   "context": "In this activity you move your own body in the five ways: roll, slide, spin, swing and bounce. You will find out how each one feels different.",
    "materials": [
     {
      "item": "a mat, a dari or a bed with a sheet",
@@ -577,7 +577,7 @@
      "what": "Roll on a mat, slide in socks, spin, swing your arms and bounce on the spot."
     }
    ],
-   "record": "Draw yourself doing your favourite one of the five.",
+   "record": "Tell your grown-up which of the five was your favourite, and show it once more.",
    "setup": [
     {
      "art": "A girl lying on a dari, rolling sideways like a log, her arms above her head.",
@@ -642,7 +642,7 @@
      "kid": "Bounce on your toes five times. Feel your knees bend, then spring back.",
      "check": {
       "t": "mcq",
-      "q": "You turned round and round in one place. Which way of moving was that?",
+      "q": "Which way of moving is turning round and round in one place?",
       "options": [
        "Spinning",
        "Sliding",
@@ -659,10 +659,10 @@
    "title": "The Kitchen Motion Hunt",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hunt in the kitchen for things that roll, slide, spin, swing or bounce, and sort them into five groups.",
+   "context": "In this activity you hunt in the kitchen for things that roll, slide, spin, swing or bounce, and sort them into five groups. You will find out that many ordinary things move in more than one way.",
    "materials": [
     {
-     "item": "5 paper slips with ROLL, SLIDE, SPIN, SWING and BOUNCE, or a drawing for each",
+     "item": "5 paper slips with the words ROLL, SLIDE, SPIN, SWING and BOUNCE written on them",
      "qty": 5
     },
     {
@@ -678,7 +678,7 @@
      "what": "Find kitchen things that move in each of the five ways and sort them onto the five slips."
     }
    ],
-   "record": "Draw one kitchen thing on each of the five slips.",
+   "record": "Take a photo of each slip with its things on it, or tell your grown-up the things on each slip.",
    "setup": [
     {
      "art": "Five paper slips on a kitchen floor saying ROLL, SLIDE, SPIN, SWING and BOUNCE, with a small drawing on each.",
@@ -740,7 +740,7 @@
    "title": "Swing It: the bag on the door handle",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you hang a cloth bag on a door handle and give it one push. You watch how it swings back and forth, and count the swings until it stops.",
+   "context": "In this activity you hang a cloth bag on a door handle and give it one push. You watch how it swings back and forth, and count the swings until it stops. You will find out which part of a swing stays still.",
    "materials": [
     {
      "item": "a cloth bag with handles, such as a jhola",
@@ -762,7 +762,7 @@
      "what": "Hang the bag, give it one push, count the swings, and find the still point it swings from."
     }
    ],
-   "record": "Draw the bag and the door handle. Draw a curved arrow going both ways under the handle.",
+   "record": "Draw the bag and the door handle, with a curved arrow going both ways under the handle. Or show your grown-up with your hands how the bag swung.",
    "setup": [
     {
      "art": "A cloth jhola with an orange inside hanging from a door handle.",
@@ -802,8 +802,8 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Point to the handle. 2. Ask your child to show the still point and the moving part.",
-     "say": "Show me the part that stayed still. Show me the part that swung. When you walk, which part of you swings from your shoulder?",
-     "kid": "Point to the still part. Point to the part that swung. What swings from your shoulder when you walk?",
+     "say": "Show me the part that stayed still. Now show me the part that swung.",
+     "kid": "Point to the still part. Point to the part that swung.",
      "check": {
       "t": "mcq",
       "q": "What stayed still while the bag swung?",
@@ -824,7 +824,7 @@
    "title": "Spin It: what spins, and where is its middle?",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you try to spin a steel plate, a bottle cap, a pencil and a book on the floor. You look for the middle point each one turns round.",
+   "context": "In this activity you try to spin a steel plate, a bottle cap, a pencil and a book on the floor. You look for the middle point each one turns round. You will find out that a spinning thing turns round a middle that stays still.",
    "materials": [
     {
      "item": "a steel plate",
@@ -854,7 +854,7 @@
      "what": "Spin four things on the floor and put a finger on the middle each one turns round."
     }
    ],
-   "record": "Draw each thing with a dot at the middle and a curved arrow round it.",
+   "record": "Line the four things up, from the one that spun longest to the one that spun shortest. Tell your grown-up where each one's still middle is.",
    "setup": [
     {
      "art": "A steel plate, a bottle cap, a pencil and a thin book lying on a tiled floor.",
@@ -894,8 +894,8 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Ask which thing spun the longest. 2. Ask what made it stop.",
-     "say": "Which one spun the longest? Why did they all stop in the end?",
-     "kid": "Which spun the longest? Why did they stop?",
+     "say": "Spin them all again. Which one spun the longest?",
+     "kid": "Spin each one again. Which spins the longest?",
      "check": {
       "t": "mcq",
       "q": "A pencil spins on the floor. Which part moves round in the biggest circle?",
@@ -928,7 +928,7 @@
    "title": "Five Ways: the sorting card game",
    "mins": 10,
    "players": "A child and a grown-up who reads the cards. More children can join and take turns.",
-   "context": "This is a card game. Each card names something that moves. The player puts it on the right mat: roll, slide, spin, swing or bounce.",
+   "context": "This is a card game. Each card names something that moves. The player puts it on the right mat: roll, slide, spin, swing or bounce. You will find out how many things at home move in each way.",
    "printables": [
     {
      "kind": "cards",
@@ -1031,10 +1031,10 @@
      "kid": "Listen. Show it with your hands. Put it on a mat.",
      "ask": [
       {
-       "q": "Why did you put the auto wheels on ROLL?",
+       "q": "Why did you choose that mat?",
        "good": [
-        "They go round and round along the road.",
-        "They turn as the auto moves."
+        "It turns over and over along the floor.",
+        "The same part keeps rubbing the floor."
        ]
       }
      ],
@@ -1065,7 +1065,7 @@
    "title": "Find It Fast: the motion slip game",
    "mins": 10,
    "players": "A child and a grown-up who counts. More children can join and take turns.",
-   "context": "This is a quick hunting game. You pick a slip, and you have until the count of 10 to find something in the room that moves that way and show it.",
+   "context": "This is a quick hunting game. You pick a slip, and you have until the count of 10 to find something in the room that moves that way and show it. You will find out how many ways of moving you can spot at home.",
    "printables": [
     {
      "kind": "cards",
@@ -1123,7 +1123,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Your child picks slips and hunts. 2. Count slowly to 10 each time. 3. Tick the score sheet. 4. Stop after 5 turns each.",
-     "say": "Swing! One, two, three... What did you find? Show me how it swings.",
+     "say": "Spin! One, two, three... What did you find? Show me how it spins.",
      "kid": "Find it. Show how it moves. Get a tick!",
      "ask": [
       {
@@ -1164,7 +1164,7 @@
    "title": "A Swing for a Toy",
    "mins": 20,
    "days": 1,
-   "context": "In this project you make a small swing for a soft toy, from a box, string and a broom handle across two chairs. Then you push it and watch it swing.",
+   "context": "In this project you make a small swing for a soft toy, from a box, string and a broom handle across two chairs. Then you push it and watch it swing. You will see that a swing hangs from a point that does not move.",
    "materials": [
     {
      "item": "a small cardboard box, such as a sweet box or a shoebox lid, for the seat",
@@ -1199,7 +1199,7 @@
      "what": "Make the seat, tie the strings, hang it from the stick across two chairs, and swing the toy."
     }
    ],
-   "record": "Draw your toy on the swing, with a curved arrow going both ways.",
+   "record": "Take a photo of your toy on the swing, or draw it with a curved arrow going both ways.",
    "setup": [
     {
      "art": "Two chairs back to back with a broom handle resting across their backs.",
@@ -1236,14 +1236,14 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Sit the toy in the box. 2. Your child gives one gentle push. 3. Watch it swing back and forth.",
-     "say": "Sit the toy in the swing. Give one gentle push. Where is the still point the swing hangs from?",
+     "say": "Sit the toy in the swing. Give one gentle push. Watch it go back and forth.",
      "kid": "Sit the toy in. Push gently. Watch the toy swing!",
      "ask": [
       {
-       "q": "Why does the swing come back to you?",
+       "q": "Which part of the swing stays still?",
        "good": [
-        "It hangs from the stick, so it goes back and forth.",
-        "It goes up, then comes back down."
+        "The stick.",
+        "The strings hang from it, and it does not move."
        ]
       }
      ],
@@ -1252,9 +1252,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask how to make it swing again after it stops.",
-     "say": "The swing has stopped. How can you make it swing again?",
-     "kid": "It stopped. How can you make it swing again?",
+     "do": "Wait until the swing stops. Then ask how to make it swing again.",
+     "say": "Look, the swing has stopped.",
+     "kid": "Watch the swing slow down and stop. Think about how to start it again.",
      "check": {
       "t": "mcq",
       "q": "The toy's swing slows down and stops. How do you make it swing again?",

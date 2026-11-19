@@ -218,7 +218,7 @@
    "title": "The Torch Spot Test: which things are shiny, and why?",
    "mins": 22,
    "days": 1,
-   "context": "In this experiment you shine a torch on things from home, in a dim room. A shiny thing throws a bright spot of light onto the wall. Then you try to make a shiny thing dull, and a dull-looking thing shine.",
+   "context": "In this experiment you shine a torch on things from home, in a dim room. A shiny thing throws a bright spot of light onto the wall. Then you try to make a shiny thing dull, and a dull-looking thing shine. You will find out what the shiny things have in common.",
    "question": "Which of these things will throw a bright spot of torch light onto the wall? What is the same about the ones that do?",
    "predict": "Guess first. For each thing, say: shiny or dull? Will it make a bright spot on the wall? Why do you think so?",
    "fair_test": "Each thing gets the same torch, held at the same slant, about one ruler away. The room stays equally dim. We touch each thing in the same way, with one finger.",
@@ -269,7 +269,7 @@
      "what": "Guess, shine the torch on each thing, touch each one, then breathe on the cold plate and look at still water."
     }
    ],
-   "record": "Draw each thing. Draw a little sun next to the ones that made a bright spot. Draw a wavy line next to the ones that felt rough.",
+   "record": "Fill in the table. Put a tick by each thing that made a bright spot, and write smooth or rough. A grown-up can write for you. You can also take a photo of each spot.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -351,8 +351,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Hold up each thing, one at a time. The steel plate stays in the fridge, so just say its name. You will show it in step 4. 2. Ask your child to guess. 3. Write their guesses in the table.",
-     "say": "Here are a mirror, foil, newspaper, a hanky, a wooden spoon, a steel plate and a bowl of water. For each one, is it shiny or dull? Will it make a bright spot on the wall? Why do you think so?",
-     "kid": "Look at each thing. Shiny or dull? Will it make a bright spot? Why?",
+     "say": "Here are a mirror, foil, newspaper, a hanky, a wooden spoon, a steel plate and a bowl of water. For each one, is it shiny or dull? Will it make a bright spot on the wall?",
+         "kid": "Look at each thing. Guess which ones will make a bright spot.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -369,8 +369,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Lay the mirror, foil, newspaper, hanky and wooden spoon flat on the table, one at a time, near the wall. 2. Hold the torch at a slant, about one ruler away. 3. Look for a bright spot on the wall or ceiling. 4. Your child strokes each thing with one finger. The steel plate waits for the next step.",
-     "say": "Let's shine the torch on the mirror. Look at the wall. Do you see a bright spot? Now touch the mirror. Is it smooth or rough?",
-     "kid": "Look at the wall. Do you see a bright spot? Now touch the thing. Smooth or rough?",
+     "say": "Let's shine the torch on the mirror. Look at the wall. Do you see a bright spot? Now touch the mirror. Is it smooth or rough? Do the same for each thing.",
+         "kid": "Watch the wall for a bright spot. Then stroke the thing with one finger.",
      "ask": [
       {
        "q": "Which things made a bright spot?",
@@ -386,8 +386,8 @@
      "id": "s4",
      "mins": 4,
      "do": "1. Take the cold steel plate from the fridge. 2. Shine the torch on it and find the spot. Your child strokes the plate with one finger. 3. Your child breathes 'haaa' onto the plate. 4. Watch the spot, then watch the plate for a few seconds.",
-     "say": "Here is the cold steel plate. See its bright spot? Now breathe on the plate, 'haaa'. What happens to the spot? Keep watching.",
-     "kid": "Breathe 'haaa' on the cold plate. Watch the spot on the wall. Keep watching.",
+     "say": "Here is the cold steel plate. See its bright spot? Now breathe on the plate, 'haaa'. Keep watching the spot.",
+         "kid": "Breathe 'haaa' on the cold plate. Watch the spot on the wall.",
      "ask": [
       {
        "q": "What happened?",
@@ -421,7 +421,7 @@
      "mins": 2,
      "do": "Ask your child what was the same about each thing that made a spot. Then ask the check question.",
      "say": "Think about the mirror, the cold plate and the still water. What was the same about each thing that made a bright spot?",
-     "kid": "What was the same about all the things that made a spot?",
+         "kid": "Look at the things that made a spot. Feel them again.",
      "ask": [
       {
        "q": "What was the same?",
@@ -451,7 +451,7 @@
    "title": "The Paper Bridge: can a fold make paper stiff?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you make a bridge from one sheet of paper, between two piles of books. You count how many coins the bridge holds. Then you fold the same kind of paper into a zigzag and test again.",
+   "context": "In this experiment you make a bridge from one sheet of paper, between two piles of books. You count how many coins the bridge holds. Then you fold the same kind of paper into a zigzag and test again. You will find out if a fold can make paper stiff.",
    "question": "Paper is bendy. Can we make the same paper stiff, just by folding it?",
    "predict": "Guess first. How many coins will a flat paper bridge hold? How many will a zigzag bridge hold? Why do you think so?",
    "fair_test": "Both bridges use the same kind of paper, the same size. The book piles stay the same distance apart. We use the same coins, and put them gently in the middle each time.",
@@ -481,7 +481,7 @@
      "what": "Make a flat bridge and a zigzag bridge, and count the coins each holds."
     }
    ],
-   "record": "Draw the flat bridge and the zigzag bridge. Under each, write or draw how many coins it held.",
+   "record": "Write how many coins each bridge held. You can also take a photo of each bridge.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results",
@@ -519,8 +519,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Make two piles of books, the same height, a hand-width apart. 2. Lay one flat sheet across them. 3. Ask your child to guess.",
-     "say": "This paper is our bridge. How many coins will it hold before it sags down? Why do you think so?",
-     "kid": "Look at the paper bridge. How many coins will it hold? Why?",
+     "say": "This paper is our bridge. How many coins will it hold before it sags down?",
+           "kid": "Look at the paper bridge. Guess how many coins it will hold.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -536,7 +536,7 @@
      "mins": 3,
      "do": "Your child puts coins gently on the middle of the flat bridge, one at a time. Count until it sags down.",
      "say": "Put one coin in the middle, gently. And another. Count with me. When does it sag down?",
-     "kid": "Put coins in the middle, one at a time. Count. When does it sag?",
+     "kid": "Add coins one at a time and count them. Stop when the paper sags.",
      "parent": "A flat sheet usually sags under one or two coins, or even under none."
     },
     {
@@ -544,7 +544,7 @@
      "mins": 4,
      "do": "1. Fold the second sheet back and forth into a zigzag, like a hand fan. Make the folds about two fingers wide. 2. Lay it across the books, with the folds running from one pile to the other.",
      "say": "Now we fold this paper into a zigzag, back and forth. It is the same paper. How many coins will it hold now? Why?",
-     "kid": "Fold the paper back and forth, like a fan. Guess again. How many coins now?",
+     "kid": "Fold the paper back and forth, like a fan. Guess how many coins it will hold.",
      "parent": "Help with the folds. The folds must go from one pile of books to the other, not across."
     },
     {
@@ -559,8 +559,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Ask your child what changed, and then the check question.",
-     "say": "We used the same paper. What was different? Why do you think the zigzag held more?",
-     "kid": "Same paper. What was different? Why did the zigzag hold more?",
+     "say": "We used the same paper. Look at the two bridges. What was different?",
+           "kid": "Look at the flat bridge and the zigzag bridge. How many coins did each hold?",
      "ask": [
       {
        "q": "What was different?",
@@ -591,14 +591,14 @@
    "title": "The Touch Hunt: find a hard, soft, rough and smooth thing",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hunt around your home. You press things to find hard and soft ones, and stroke things to find rough and smooth ones.",
+   "context": "In this activity you hunt around your home. You press things to find hard and soft ones, and stroke things to find rough and smooth ones. You will find out how to tell these apart with your hands.",
    "materials": [
     {
      "item": "a basket, a bag or a steel plate to collect things in",
      "qty": 1
     },
     {
-     "item": "4 small paper slips with the words HARD, SOFT, ROUGH and SMOOTH, or 4 drawings: a stone, a pillow, a coconut and a glass",
+     "item": "4 small paper slips for the words HARD, SOFT, ROUGH and SMOOTH",
      "qty": 4
     }
    ],
@@ -609,7 +609,7 @@
      "what": "Hunt for things, press and stroke them, and put each one by the right slip."
     }
    ],
-   "record": "Draw one hard thing, one soft thing, one rough thing and one smooth thing.",
+   "record": "Take a photo of one hard thing, one soft thing, one rough thing and one smooth thing. Or tell a grown-up why each one fits.",
    "setup": [
     {
      "art": "Four paper slips on the floor reading HARD, SOFT, ROUGH and SMOOTH, each with a tiny drawing.",
@@ -626,14 +626,14 @@
      "mins": 2,
      "do": "1. Write HARD, SOFT, ROUGH and SMOOTH on the four slips, and lay them on the floor. 2. Show your child how to press with a thumb and how to stroke with a finger.",
      "say": "We are hunting for things. Press with your thumb. Does it squash? Then it is soft. Stroke it with your finger. Can you feel bumps? Then it is rough.",
-     "kid": "Press with your thumb. Does it squash? Stroke with your finger. Can you feel bumps?"
+     "kid": "Try pressing and stroking something near you."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "Your child brings things from around the home, presses and strokes each one, and puts it by a slip.",
-     "say": "Find a hard thing. Now a soft thing. Now find something rough, and something smooth. How do you know?",
-     "kid": "Find a hard thing, a soft thing, a rough thing and a smooth thing. How do you know?",
+     "say": "Find a hard thing. Now a soft thing. Now find something rough, and something smooth.",
+           "kid": "Find one thing for each slip. Press or stroke it, then put it by its slip.",
      "ask": [
       {
        "q": "How do you know the cushion is soft?",
@@ -649,8 +649,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Pick up a pillow or cushion and ask the check question.",
-     "say": "Here is a pillow. Press it with your thumb. What is it like?",
-     "kid": "Press the pillow. What is it like?",
+     "say": "Here is a pillow. Press it with your thumb. Does it squash?",
+           "kid": "Press the pillow with your thumb.",
      "check": {
       "t": "mcq",
       "q": "You press a pillow and it squashes. What is the pillow like?",
@@ -670,7 +670,7 @@
    "title": "Crayon Rubbings: catch the bumps on paper",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you put thin paper on top of a surface and rub over it with the side of a crayon. Rough surfaces leave a pattern on the paper. Smooth ones leave a plain patch.",
+   "context": "In this activity you put thin paper on top of a surface and rub over it with the side of a crayon. Rough surfaces leave a pattern on the paper. Smooth ones leave a plain patch. You will find out which surfaces have bumps.",
    "materials": [
     {
      "item": "thin paper, such as old notebook pages or printer paper",
@@ -692,7 +692,7 @@
      "what": "Make rubbings of rough and smooth surfaces, then guess which rubbing came from which thing."
     }
    ],
-   "record": "Keep the rubbings. Write or draw under each one what it came from.",
+   "record": "Keep the rubbings. Write under each one what it came from. A grown-up can write for you.",
    "setup": [
     {
      "art": "A sheet of thin paper laid over a leaf on a table, and a child rubbing over it with the side of a green crayon, the leaf's veins showing through.",
@@ -709,17 +709,17 @@
      "mins": 2,
      "do": "1. Take the wrapper off the crayon. 2. Show your child how to hold the crayon on its side.",
      "say": "We are going to make the bumps on things show up on paper. Hold the crayon on its side, like this.",
-     "kid": "Hold the crayon on its side. You will make the bumps on things show up on paper."
+     "kid": "Hold the crayon on its side, the way your grown-up showed you."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "Your child lays paper on each thing and rubs over it gently. Do at least one rough thing and one smooth thing.",
-     "say": "Before you rub the steel plate, guess. Will you see a pattern? Why? Now rub and see.",
-     "kid": "Put the paper on top. Guess: will a pattern show? Why? Now rub.",
+     "do": "Your child lays paper on each thing and rubs over it gently. Make sure they rub the doormat and the steel plate.",
+           "say": "Before you rub the steel plate, guess if a pattern will show. Now rub and see.",
+           "kid": "Put the paper on top of the thing. Rub gently with the side of the crayon.",
      "ask": [
       {
-       "q": "Why did the doormat make a pattern, and the steel plate did not?",
+       "q": "Why did the doormat show a pattern but the plate did not?",
        "good": [
         "The doormat is bumpy. The bumps push up into the crayon.",
         "The plate is smooth, so the colour is all the same."
@@ -733,7 +733,7 @@
      "mins": 3,
      "do": "Mix the rubbings up. Your child guesses which thing made each one.",
      "say": "Here are your rubbings, all mixed up. Which one came from the leaf? How can you tell?",
-     "kid": "Look at a rubbing. Which thing made it? How can you tell?",
+     "kid": "Pick a rubbing and point to the thing that made it.",
      "check": {
       "t": "mcq",
       "q": "Which surface would leave the plainest rubbing?",
@@ -753,7 +753,7 @@
    "title": "The Gentle Bend: bendy or stiff?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you try to bend things gently with your hands. Bendy things bend easily. Stiff things keep their shape.",
+   "context": "In this activity you try to bend things gently with your hands. Bendy things bend easily. Stiff things keep their shape. You will sort the things into a bendy pile and a stiff pile.",
    "materials": [
     {
      "item": "things to bend: a dupatta or hanky, a sheet of paper, a plastic ruler, a steel spoon, a pencil, a rubber chappal, a curry leaf or any leaf",
@@ -767,7 +767,7 @@
      "what": "Bend each thing gently and sort the bendy from the stiff."
     }
    ],
-   "record": "Draw a bendy thing bending, and a stiff thing staying straight.",
+   "record": "Take a photo of your bendy pile and your stiff pile. Or tell a grown-up what is in each pile.",
    "setup": [
     {
      "art": "A row of things on a mat: a hanky, a sheet of paper, a plastic ruler, a steel spoon, a pencil and a rubber chappal.",
@@ -784,7 +784,7 @@
      "mins": 2,
      "do": "Show your child how to bend gently with two hands. Agree that we never push hard enough to break anything.",
      "say": "We bend gently, like this. If it bends easily, it is bendy. If it stays straight, it is stiff. We never push so hard that it breaks.",
-     "kid": "Bend each thing gently. Bendy or stiff? Never push hard."
+     "kid": "Bend gently with two hands. Never push hard."
     },
     {
      "id": "s2",
@@ -807,8 +807,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "A steel spoon is stiff. But a thin steel wire bends easily. Both are made of steel. Why do you think the wire bends?",
-     "kid": "A steel spoon is stiff. A thin steel wire bends. Both are steel. Why?",
+     "say": "A steel spoon is stiff. But a thin steel wire bends easily. Both are made of steel.",
+           "kid": "Think about a thick steel spoon and a thin steel wire.",
      "check": {
       "t": "mcq",
       "q": "A steel spoon is stiff. A thin steel wire bends easily. Why?",
@@ -830,7 +830,7 @@
    "title": "Run and Touch: find it fast",
    "mins": 10,
    "players": "1 or more players and one caller.",
-   "context": "This is a moving game. The caller reads a property card, and you run to touch something in the room that has that property.",
+   "context": "This is a moving game. The caller reads a property card, and you run to touch something in the room that has that property. You get points for saying how you know.",
    "printables": [
     {
      "kind": "cards",
@@ -894,17 +894,17 @@
      "mins": 2,
      "do": "1. Clear a space. 2. Mix the cards. 3. Read the rules to your child.",
      "say": "I will read a word. You run and touch something that is like that word. Then tell me how you know.",
-     "kid": "Listen to the word. Run and touch something like it. Say how you know."
+     "kid": "Wait for the word, then run."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "Read the cards one at a time. Your child runs, touches and explains.",
-     "say": "Shiny! Run and touch something shiny. How do you know it is shiny?",
-     "kid": "Run and touch it. How do you know?",
+     "say": "Shiny! Run and touch something shiny.",
+           "kid": "Run to something shiny and touch it.",
      "ask": [
       {
-       "q": "How do you know the tumbler is shiny?",
+       "q": "How do you know it is shiny?",
        "good": [
         "I can see light on it.",
         "I can see my face in it."
@@ -918,7 +918,7 @@
      "mins": 2,
      "do": "Ask the check question. Then your child is the caller.",
      "say": "Now you be the caller, and I will run.",
-     "kid": "Now you read the cards. A grown-up runs.",
+     "kid": "Read the next card out loud.",
      "check": {
       "t": "mcq",
       "q": "Which test tells you if a thing is rough?",
@@ -938,7 +938,7 @@
    "title": "Guess My Thing: clues from properties",
    "mins": 12,
    "players": "2 or more players.",
-   "context": "This is a guessing game. One player picks a secret thing from the home and gives clues using only property words. The others guess the thing.",
+   "context": "This is a guessing game. One player picks a secret thing from the home and gives clues using only property words. The others guess the thing. You practise describing things with property words.",
    "printables": [
     {
      "kind": "cards",
@@ -1030,8 +1030,8 @@
      "id": "s2",
      "mins": 8,
      "do": "Take turns. Your child picks a card and gives clues. Help with words if they get stuck.",
-     "say": "Your turn. Look at your secret card. Give me one clue. Is it hard or soft?",
-     "kid": "Look at your card. Give one clue. Is it hard or soft?",
+     "say": "Your turn. Pick a card and keep it secret. Give me your first clue.",
+           "kid": "Look at your card. Give one clue at a time.",
      "ask": [
       {
        "q": "Which clue helped you most?",
@@ -1047,8 +1047,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "Here are three clues: hard, smooth and shiny. Which thing could it be?",
-     "kid": "The clues are hard, smooth and shiny. Which thing could it be?",
+     "say": "Here are three clues: hard, smooth and shiny.",
+           "kid": "Think of things at home that are hard, smooth and shiny.",
      "check": {
       "t": "mcq",
       "q": "The clues are: hard, smooth, shiny. Which thing could it be?",
@@ -1070,7 +1070,7 @@
    "title": "My Feel Book: one property a day",
    "mins": 25,
    "days": 4,
-   "context": "In this project you make a small book. Each day you find two things that are opposites, like hard and soft, and stick a small piece or a drawing of each on the pages.",
+   "context": "In this project you make a small book. Each day you find two things that are opposites, like hard and soft, and stick a small piece of each on the pages. You will end up with a book of real things to feel and show someone.",
    "materials": [
     {
      "item": "4 sheets of paper, folded in half and tied with thread into a little book",
@@ -1085,9 +1085,9 @@
      "qty": 1
     },
     {
-     "item": "crayons",
-     "qty": 1
-    }
+          "item": "a pencil or pen",
+          "qty": 1
+         }
    ],
    "schedule": [
     {
@@ -1126,10 +1126,10 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Make the book. 2. Write HARD and SOFT on the first two pages. 3. Your child finds something for each, and sticks a small piece or draws it.",
-     "say": "This book will be full of things to feel. Today, find something hard and something soft. Can you stick a little piece on, or draw it?",
-     "kid": "Find something hard and something soft. Stick a bit on, or draw it.",
-     "parent": "A hard thing is often too big to stick, so a drawing is fine. A cotton ball or cloth scrap works well for soft."
+     "do": "1. Make the book. 2. Write HARD and SOFT on the first two pages. 3. Your child finds something for each, and sticks a small piece on. If it is too big, they write its name.",
+           "say": "This book will be full of things to feel. Today, find something hard and something soft. Can you stick a little piece on? If it is too big, write its name.",
+           "kid": "Find something hard and something soft. Stick a bit on, or write its name.",
+           "parent": "A hard thing is often too big to stick, so writing its name is fine. A cotton ball or cloth scrap works well for soft."
     },
     {
      "id": "s2",
@@ -1151,7 +1151,7 @@
      "id": "s4",
      "mins": 6,
      "do": "Write SHINY and DULL on the last pages. Your child sticks on foil for shiny and newspaper for dull. Then they show the book to someone and tell them about each page.",
-     "say": "The last pages are for shiny and dull things. Then show your whole book to someone at home, or on a call. Tell them about each page, and let them touch every page they can.",
+     "say": "The last pages are for shiny and dull things. Then show your whole book to someone at home. Tell them about each page, and let them touch every page.",
      "kid": "Stick on something shiny and something dull. Show your book to someone and tell them about it.",
      "wait": "The next day."
     }
@@ -1204,7 +1204,7 @@
      "mins": 3,
      "do": "Read the problem to your child.",
      "say": "The doll has no mirror. Can we make one? What does a mirror need to be like, so we can see a face in it?",
-     "kid": "The doll needs a mirror. What must a mirror be like?",
+     "kid": "Think of a mirror you have seen.",
      "ask": [
       {
        "q": "What must a mirror be like?",
@@ -1220,7 +1220,7 @@
      "mins": 10,
      "do": "Your child makes two mirrors from the materials. Help smooth the foil.",
      "say": "Smooth the foil very flat on the card. Rub it gently with your palm. Can you see your face? Now crumple a bit of it. What happens?",
-     "kid": "Make a mirror. Smooth the foil flat. Can you see your face?",
+     "kid": "Smooth the foil flat on the card. Then crumple a bit and look again.",
      "parent": "Flat foil shows a blurry face. Crumpled foil shows none. The Torch Spot Test showed the same thing: smooth things shine, and bumpy things do not."
     },
     {
@@ -1228,7 +1228,7 @@
      "mins": 7,
      "do": "Compare the mirrors. Your child picks the best one and gives a reason.",
      "say": "Which mirror shows your face best? Why do you think that one works best?",
-     "kid": "Which mirror is best? Why?"
+     "kid": "Look at your face in each mirror, one after the other."
     }
    ]
   }

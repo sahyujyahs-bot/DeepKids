@@ -192,12 +192,12 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 
 ## Games
 ### g1 · Six Parts, One Plant: a card-collecting game (20 min)
-- **rules:** Cards with a photo are ready. Before you play, draw a small picture under the words on each card with no photo (a mango, a brinjal, a root), so a child who cannot read can play.; Mix the cards. Give each player 5 cards. Put the rest face down in a pile.; On your turn, ask one player for a card you need, by plant and part: 'Do you have the lotus stem?'; If they have the card, they give it to you, and you ask again. If not, take one card from the pile, and your turn ends. If you have no cards on your turn, take one from the pile.; When you have all six parts of one plant, lay them down in a line, from the roots at the bottom to the seeds at the top. Someone reads out the back of each card.; If the pile runs out, keep asking for cards. If the other player does not have the card, your turn ends. The game ends when all four plants are laid down. The player with the most plants wins. If players have the same number of plants, they all win.
+- **rules:** Cards with a photo are ready. Before you play, put a small picture on each card with no photo (a mango, a brinjal, a root), so a child who cannot read can play. Draw it, or stick on a picture cut from a newspaper or magazine.; Mix the cards. Give each player 5 cards. Put the rest face down in a pile.; On your turn, ask one player for a card you need, by plant and part: 'Do you have the lotus stem?'; If they have the card, they give it to you, and you ask again. If not, take one card from the pile, and your turn ends. If you have no cards on your turn, take one from the pile.; When you have all six parts of one plant, lay them down in a line, from the roots at the bottom to the seeds at the top. Someone reads out the back of each card.; If the pile runs out, keep asking for cards. If the other player does not have the card, your turn ends. The game ends when all four plants are laid down. The player with the most plants wins. If players have the same number of plants, they all win.
 - **Printable cards: 24 plant part cards: 6 parts of 4 plants:** Mango tree: roots (back: Roots. They hold the mango tree in the ground and drink water.); Mango tree: stem (back: Stem. The thick trunk holds the tree up and carries water to the leaves.) [picture]; Mango tree: leaves (back: Leaves. They catch sunlight and make food for the whole tree.) [picture]; Mango tree: flowers (back: Flowers. Tiny flowers grow in big bunches. A few of them grow into mangoes.) [picture]; Mango tree: fruit (back: Fruit. The mango holds the seed and keeps the seed safe.); Mango tree: seed (back: Seed. The big stone inside the mango holds the seed. Put the stone in soil, and a new mango tree can grow.); Brinjal plant: roots (back: Roots. Thin roots spread through the soil, hold on and drink.); Brinjal plant: stem (back: Stem. The stem holds up the leaves and the brinjals, and carries water.) [picture]; Brinjal plant: leaves (back: Leaves. Big soft leaves catch sunlight and make food.) [picture]; Brinjal plant: flower (back: Flower. A purple flower. Part of the flower grows into a brinjal.) [picture]; Brinjal plant: fruit (back: Fruit. The brinjal holds the seeds inside.) [picture]; Brinjal plant: seeds (back: Seeds. Tiny flat seeds inside the brinjal. Each one can grow into a new plant.); Lotus: roots (back: Roots. Thin roots hold the lotus in the mud at the bottom of a pond.); Lotus: stem (back: Stem. Lotus stems grow along the mud under the water. People cook them and call them lotus root, but they are stems.); Lotus: leaves (back: Leaves. Big round leaves float on the water and catch sunlight.) [picture]; Lotus: flower (back: Flower. A big pink or white flower that opens in the day.) [picture]; Lotus: fruit (back: Fruit. The lotus fruit is a flat seed head with many holes. Each hole holds one seed.); Lotus: seeds (back: Seeds. Lotus seeds have a hard coat. Some stay alive for hundreds of years.); Coconut palm: roots (back: Roots. Thousands of thin roots hold the tall palm up in the wind.); Coconut palm: stem (back: Stem. The tall trunk holds the leaves up high in the sun.) [picture]; Coconut palm: leaves (back: Leaves. Long leaves at the top catch sunlight and make food.) [picture]; Coconut palm: flowers (back: Flowers. Small cream flowers on a long bunch. Some grow into coconuts.); Coconut palm: fruit (back: Fruit. The coconut, with a thick husk. The husk lets the coconut float on the sea.) [picture]; Coconut palm: seed (back: Seed. Inside the hard shell is the seed: the white coconut and the coconut water. A new palm can grow from it.)
 - **s1 (6 min)**  
-  *Parent does:* 1. Read each card to your child. 2. Draw a small picture on each card that has no photo: you do the roots and stems, your child does the rest. 3. Mix the cards and deal 5 to each player.  
-  *Parent says:* Each card is one part of a plant. Let's draw the ones with no picture. You draw the coconut, I'll draw the roots.  
-  *Child mode:* Draw the plant part on each card with no photo, like a mango or a brinjal seed.
+  *Parent does:* 1. Read each card to your child. 2. Put a picture on each card that has no photo. Draw it, or stick on a picture cut from a newspaper or magazine. 3. Mix the cards and deal 5 to each player.  
+  *Parent says:* Each card is one part of a plant. Some cards have no picture yet. Let's add one to each of them.  
+  *Child mode:* Add a picture to each card with no photo. Draw it, or stick one on.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns asking for cards. 2. Read the card names aloud for your child. 3. Each time a whole plant is laid down, read out the backs of the cards.  
   *Parent says:* Do you have the brinjal flower? No? Then I take a card from the pile.  
@@ -205,21 +205,21 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
   - Ask: You laid down the whole lotus. Which lotus parts are under the water, in the mud? (good: The roots, and the stem too. The lotus stem grows along the mud.)
 - **s3 (4 min)**  
   *Parent does:* Count the plants each player has laid down. Then ask the check question.  
-  *Parent says:* Who has the most plants? Now a question about the coconut palm.  
+  *Parent says:* Let's count the plants. Then one question about the coconut palm.  
   *Child mode:* Count your plants. Who has the most?
   - Check: A storm blows on a tall coconut palm. Which part keeps the palm from falling over? → **The roots**
 ### g2 · Point to the Part: a clue game (12 min)
-- **rules:** Before you play, the child draws each part in its square on the board: roots, a stem, leaves, a flower, a fruit and seeds.; Lay the six squares in a line on the floor, from roots at the bottom to seeds at the top.; Mix the clue cards. One person is the reader and reads one clue out loud.; The player puts a bean or a button on the square that matches the clue. With 2 players, the parent reads and the child plays. With 3 or 4, the reader job passes to the next person after each card, and the player is the person on the reader's left.; The reader turns the card over and reads the answer. If the player is right, the player keeps the card.; When all 12 cards are read, count the cards each player kept. Play together and try to keep all 12.
+- **rules:** Before you play, read the name on each square of the board together: roots, stem, leaves, flower, fruit and seeds.; Lay the six squares in a line on the floor, from roots at the bottom to seeds at the top.; Mix the clue cards. One person is the reader and reads one clue out loud.; The player puts a bean or a button on the square that matches the clue. With 2 players, the parent reads and the child plays. With 3 or 4, the reader job passes to the next person after each card, and the player is the person on the reader's left.; The reader turns the card over and reads the answer. If the player is right, the player keeps the card.; When all 12 cards are read, count the cards each player kept. Play together and try to keep all 12.
 - **Printable board: 6 squares for the plant board:** Roots; Stem; Leaves; Flower; Fruit; Seeds
 - **Printable cards: 12 clue cards:** I am under the soil. I drink water for the whole plant. (back: Roots); I hold on to the soil, so the wind cannot push the plant over. (back: Roots); I hold the plant up tall. (back: Stem); Water travels up through me, from the roots to the leaves. (back: Stem); I am flat and green. I catch the sunlight. (back: Leaves); I make food for the whole plant, from sunlight, air and water. (back: Leaves); Bees come to visit me for a sweet drink. (back: Flower); I am often bright and colourful. Later, part of me grows into a fruit. (back: Flower); I grow from a flower. I keep the seeds safe inside me. (back: Fruit); A mango, a tomato and a bhindi are each one of me. (back: Fruit); I am small and hard. Inside me is a tiny new plant. (back: Seeds); Put me in wet soil, and I grow into a new plant. (back: Seeds)
 - **s1 (4 min)**  
-  *Parent does:* 1. Your child draws a part in each of the six squares. 2. Lay the squares in a line on the floor, roots nearest to you. 3. Give your child a handful of rajma beans or buttons.  
+  *Parent does:* 1. Lay the six squares in a line on the floor, roots nearest to you. 2. Read the six names together. 3. Give your child a handful of rajma beans or buttons.  
   *Parent says:* Let's make a plant on the floor. Roots go at the bottom, under the soil. What goes next?  
-  *Child mode:* Draw each part in a square. Put the roots at the bottom.
+  *Child mode:* Put the squares in order. Roots go at the bottom. Say each name.
 - **s2 (6 min)**  
   *Parent does:* 1. Read the clue cards one at a time. 2. Your child puts a bean on the matching square. 3. Turn the card over and read the answer.  
-  *Parent says:* Listen to the clue. Which part does this job? Put a bean on that part.  
-  *Child mode:* Listen to the clue. Put a bean on the right part.
+  *Parent says:* Here is a clue. Which part of the plant does this job?  
+  *Child mode:* Listen to the clue. Put a bean on the right square.
   - Ask: Two clues were about the roots. What are the two jobs of roots? (good: Roots hold on to the soil.; Roots drink water for the whole plant.)
   - Note: If your child puts the bean on the wrong part, read the clue again slowly and ask, 'Which part is under the soil?' or 'Which part is green and flat?'
 - **s3 (2 min)**  
@@ -233,7 +233,7 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 - **question:** Moong sprouts grow on a cloth and on a steel plate. When we turn them upside down, which sprouts will hold on?
 - **predict:** Guess first. We will turn the cloth and the plate upside down. Will the sprouts on the cloth hold on, or fall off? What about the sprouts on the plate? Why do you think so?
 - **fair test:** The cloth and the plate both get the same moong, soaked on the same night, the same water and the same place in the kitchen. Only the thing under the seeds is different: a cotton cloth or a bare steel plate.
-- **record:** Draw the cloth and the plate after you turned them over. Draw the sprouts that held on. Write or say how many sprouts held on to the cloth, and how many held on to the plate.
+- **record:** Take a photo of the cloth and the plate after you turned them over, or draw them. Write or say how many sprouts held on to the cloth, and how many held on to the plate.
 - **results table:** Where the sprouts grew | How many sprouts | How many held on
 - **schedule:** day 1: At night, soak 20 moong seeds in a bowl of water. (3 min); day 2: Wet the cloth and lay it on a plate. Put 10 soaked seeds on the cloth and 10 on a bare wet plate. Guess what will happen. Cover both. (10 min); day 3: Sprinkle a few drops of water on the cloth and on the bare plate, morning and evening. Peep at the roots. (1 min); day 4: Turn the cloth and the bare plate upside down over a bowl. Count the sprouts that hold on. Look under the cloth. Say what you saw. (11 min)
 - **s1 (3 min)**  
@@ -248,9 +248,9 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
   *Child mode:* Put ten seeds on the cloth. Put ten seeds on the bare plate. Cover them both.
   - Note: A thin cloth with a loose weave works best. A thick towel does not. Keep both plates in the same warm spot in the kitchen, out of hot sun.
 - **s3 (4 min)**  
-  *Parent does:* Ask your child to guess, and to say why. Write the guess down, or draw it.  
+  *Parent does:* Ask your child to guess, and to say why. Write the guess down.  
   *Parent says:* In two days we will turn the cloth and the plate upside down. Which sprouts will hold on? Why do you think so?  
-  *Child mode:* Guess. Which sprouts will hold on? Why?
+  *Child mode:* Guess which sprouts will hold on: the cloth ones or the plate ones.
   - Ask: Why do you think so? (good: The cloth ones will hold on, because the roots can hold the cloth.; They will all fall off, because sprouts have no hands.)
   - Note: Any guess with a reason is a good guess. Do not say which is right. The test will show.
 - **s4 (1 min)**  
@@ -262,28 +262,28 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 - **s5 (6 min)**  
   *Parent does:* 1. Lift off the covers. 2. Tip any extra water off the bare plate into the sink. 3. Hold the plate with the cloth over a big bowl. 4. Turn the cloth and plate upside down, slowly, and tap the plate edge once. 5. Do the same with the bare plate. 6. Count how many sprouts stayed on each.  
   *Parent says:* Now we turn them over. Watch closely. Count how many sprouts hold on.  
-  *Child mode:* Turn the cloth and the plate over. Count the sprouts that hold on.
+  *Child mode:* Turn the cloth and the plate over slowly. Watch the sprouts.
   - Ask: How many sprouts held on to the cloth? How many held on to the plate? (good: Most of the cloth sprouts held on.; Most of the plate sprouts fell into the bowl.)
   - Note: Usually most sprouts on the cloth hold on and most on the bare plate fall. A few wet plate sprouts may stick for a moment. That is why we tap once. If few cloth sprouts hold on, the roots may be too short. Wait one more day and try again.
 - **s6 (5 min)**  
   *Parent does:* 1. Turn the cloth over and look at the underside together. 2. Let your child gently pull one sprout off the cloth. 3. Ask your child what they saw, and why they think it happened.  
   *Parent says:* Look under the cloth. What can you see? Now pull one sprout very gently. What do you feel?  
   *Child mode:* Look under the cloth. Pull one sprout gently. What do you feel?
-  - Ask: Why did the cloth sprouts hold on? (good: The roots grew into the cloth and held on to the threads.; I could see root tips poking through the cloth.)
+  - Ask: What did you see under the cloth, and what did you feel? (good: I could see root tips poking through the cloth.; The sprout tugged back when I pulled.)
   - Note: Under the cloth you can often see white root tips poking through. When your child pulls a sprout, the cloth tugs back. The roots grew down into the gaps between the threads and wrapped round them. On the smooth plate there were no gaps, so the roots only lay on top.
   - Check: The sprouts on the cloth held on, but the sprouts on the bare plate fell off. Why? → **The roots grew into the gaps in the cloth and held on**
 
 ## Activities
 ### a1 · Meet a Whole Plant: a coriander bunch from root to tip (12 min)
-- **record:** Draw one coriander plant, from the roots to the leaves. A grown-up helps write the names of the parts.
+- **record:** Draw one coriander plant from the roots to the leaves, or tape one plant down on paper. A grown-up writes the names of the parts.
 - **s1 (3 min)**  
   *Parent does:* 1. Spread the newspaper on the floor. 2. Take one coriander plant out of the bunch. 3. Lay the plant down on the paper.  
   *Parent says:* This is one whole coriander plant. Which end of the plant do you think was in the soil?  
-  *Child mode:* Look at this whole plant. Which end was in the soil?
+  *Child mode:* Look at the whole plant. Point to the end you think was in the soil.
   - Note: Many markets sell coriander with the roots on. If the roots are cut off, use methi, palak or spring onions with roots. A small weed from a pot crack also works.
 - **s2 (4 min)**  
   *Parent does:* 1. Point to the roots together. 2. Let your child hold the plant by the leaves and shake the roots gently over the paper. 3. Look at the roots closely, with a magnifying glass if you have one.  
-  *Parent says:* These are the roots. Shake the plant gently. Does all the soil fall off?  
+  *Parent says:* These are the roots. Shake the plant gently over the paper. Watch the soil.  
   *Child mode:* Find the roots. Shake gently. Does the soil fall off?
   - Ask: What do you notice about the soil and the roots? (good: Some soil stays stuck to the roots.; The roots are thin and white, and they branch.)
   - Ask: What do you wonder? (good: Why does the soil stay on the roots?; How do the roots hold the soil?)
@@ -295,40 +295,40 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
   - Ask: Which part do we usually cook with? (good: The leaves and the stems.)
   - Note: Coriander plants from the market usually have no flowers yet. If a stalk has tiny white flowers, show them. Coriander seeds, the round dhania in the spice box, grow from those flowers.
 - **s4 (2 min)**  
-  *Parent does:* Your child draws the plant. You write the names: roots, stem, leaves.  
-  *Parent says:* Draw the whole plant, from the roots to the leaves. I'll write the names.  
-  *Child mode:* Draw the plant. Roots at the bottom. Leaves at the top.
+  *Parent does:* Your child draws the plant, or tapes the real plant down on paper. You write the names: roots, stem, leaves.  
+  *Parent says:* Show the whole plant on paper, from the roots to the leaves. You can draw the plant, or tape the real plant down. I'll write the names.  
+  *Child mode:* Draw the plant, or tape the plant down. Roots at the bottom. Leaves at the top.
   - Note: Wash the coriander afterwards and use the leaves for cooking. Roots can go in the compost or the bin.
 ### a2 · Hold a Leaf to the Light: find the veins (10 min)
 - **safety:** Hold the leaf against a bright sky or a lamp. Never look straight at the Sun.
-- **record:** Keep the crayon rubbing. Draw an arrow on one vein, to show water coming into the leaf.
+- **record:** Keep the crayon rubbing. Point to one vein and tell a grown-up how water gets into the leaf.
 - **s1 (4 min)**  
   *Parent does:* 1. Stand at a bright window together, out of direct sun. 2. Hold a leaf flat against the glass. 3. Look at the lines in the leaf.  
-  *Parent says:* Hold the leaf against the window. Look through the leaf. What can you see?  
+  *Parent says:* Hold the leaf flat against the window. Look through the leaf.  
   *Child mode:* Hold the leaf to the window. What lines can you see?
   - Ask: What do the lines look like? (good: One big line in the middle, with smaller lines branching off.; Like the branches of a tree, or a river with streams.)
   - Note: The lines are veins. Thick veins branch into thinner and thinner ones, reaching every part of the leaf. Palak and cabbage leaves show this well.
 - **s2 (2 min)**  
   *Parent does:* Tell your child what veins do.  
   *Parent says:* These lines are called veins. Water comes up the stem and travels into the leaf along the veins. Food made in the leaf goes out along the veins too.  
-  *Child mode:* These lines are veins. Water travels along them into the leaf.
+  *Child mode:* Trace one vein with your finger, from the middle to the edge.
 - **s3 (4 min)**  
   *Parent does:* 1. Put a leaf on the table, underside up (the paler side, where the veins stick out). 2. Lay thin paper over the leaf. 3. Your child rubs the side of the crayon over the paper, gently.  
-  *Parent says:* Rub the crayon over the paper. Watch the veins appear.  
-  *Child mode:* Rub the crayon gently. Watch the veins appear.
+  *Parent says:* Put the paper over the leaf. Rub the side of the crayon on the paper.  
+  *Child mode:* Rub gently. What shows up on the paper?
   - Ask: Why do you think the veins go to every part of the leaf? (good: So every part of the leaf gets water.; So the food can go out from every part.)
 ### a3 · Bhindi Star Stamps: find the seeds inside a fruit (15 min)
 - **safety:** A grown-up does all the cutting.
-- **record:** Keep the stamp paper. Draw one bhindi slice next to the stamps and colour the seeds.
+- **record:** Keep the stamp paper. Take a photo of one bhindi slice, and tell a grown-up how many rows of seeds it has.
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* Show your child a whole bhindi.  
   *Parent says:* A bhindi grows from a flower on the bhindi plant. What do you think is inside?  
-  *Child mode:* Look at this bhindi. What do you think is inside?
+  *Child mode:* Look at this bhindi. Feel the outside.
   - Ask: What do you think is inside? (good: Seeds.; Something slimy and white.)
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Cut one bhindi across into rounds. 2. Cut the other along its length. 3. Put the pieces on a plate. 4. Your child looks closely and counts the rows of seeds in one round.  
   *Parent says:* Look at the round piece. Can you see a star? Count the rows of seeds.  
-  *Child mode:* Look at the round piece. Count the rows of seeds.
+  *Child mode:* Look at the round piece. Find the star.
   - Ask: How many rows of seeds can you count? (good: Five.; Five or more, in a star shape.)
   - Ask: Why does a bhindi have seeds inside? (good: Because a bhindi is a fruit, and fruits hold seeds.; So the seeds can grow into new bhindi plants.)
   - Note: Most bhindi have five rows of seeds, in a star. Some kinds have more. Seeds from a young market bhindi are not ripe. Ripe seeds come from a bhindi left on the plant until the bhindi goes dry and brown.
@@ -339,8 +339,8 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
 
 ## Projects
 ### p1 · Roots in a Clear Cup: watch roots grow and hold (25 min, 14 days)
-- **record:** Draw the moong cup on day 4, day 8 and day 14. On day 14, draw both lumps of soil.
-- **schedule:** day 1: Fill both cups with soil. Push 15 moong seeds into one cup. Leave the other cup with only soil. Water both the same. Put them on a bright windowsill. (6 min); day 4: Look at the side of the clear cup for white roots. Water both cups the same. (3 min); day 8: Look at the roots and the leaves. Draw the cup. Water both the same. (4 min); day 14: Do not water today. Tip each cup out gently onto newspaper. Compare the two lumps of soil. (12 min)
+- **record:** Take a photo of the moong cup on day 4, day 8 and day 14, or draw it. On day 14, photograph both lumps of soil.
+- **schedule:** day 1: Fill both cups with soil. Push 15 moong seeds into one cup. Leave the other cup with only soil. Water both the same. Put them on a bright windowsill. (6 min); day 4: Look at the side of the clear cup for white roots. Water both cups the same. (3 min); day 8: Look at the roots and the leaves. Take a photo of the cup, or draw it. Water both the same. (4 min); day 14: Do not water today. Tip each cup out gently onto newspaper. Compare the two lumps of soil. (12 min)
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up pokes a small hole in the bottom of each cup. 2. Your child fills both cups with soil. 3. Push 15 moong seeds just under the soil in one cup, some near the side. 4. Water both cups with the same amount, enough to make the soil damp all through. 5. Put both on a bright windowsill.  
   *Parent says:* One cup gets moong seeds. The other cup gets only soil. Both get the same water, in the same place.  
@@ -349,14 +349,14 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
   - Wait: Leave the cups for 3 days. Water both the same when the soil feels dry.
 - **s2 (3 min)**  
   *Parent does:* Look at the side of the clear cup together.  
-  *Parent says:* Can you see any roots against the side of the cup? Which way are they growing?  
-  *Child mode:* Look at the side of the cup. Can you see roots?
+  *Parent says:* Let's look at the cup from the side. Do you see anything white?  
+  *Child mode:* Find a white root against the side of the cup.
   - Ask: Which way are the roots growing? (good: Down.; Down and out to the sides.)
   - Wait: Leave the cups for 4 more days. Water both the same when the soil feels dry.
 - **s3 (4 min)**  
-  *Parent does:* 1. Look at the roots and the new leaves. 2. Your child draws the cup.  
-  *Parent says:* Look how many roots there are now. Draw what you see.  
-  *Child mode:* Look at the roots now. Draw the cup.
+  *Parent does:* 1. Look at the roots and the new leaves. 2. Your child takes a photo of the cup, or draws it.  
+  *Parent says:* Look how many roots there are now. Take a photo of the cup, or draw it.  
+  *Child mode:* Look at the roots now. Photograph or draw the cup.
   - Ask: Which grew first, the roots or the leaves? (good: The roots grew first.; The roots came out of the seed before the leaves.)
   - Wait: Leave the cups for 6 more days. Do not water on the last day.
 - **s4 (12 min)**  
@@ -389,8 +389,8 @@ Outside, in the corner of the balcony, the brinjal plant stood tall, holding on 
   - Ask: Which roots were hardest to pull out? (good: Lots of roots spread out.; Long roots that went down deep.)
 - **c1s4 (4 min)**  
   *Parent does:* Look at the best plant together. Talk about real roots.  
-  *Parent says:* Real roots grow into the soil, spread out, and hold on to lots of it. Which of your roots held best?  
-  *Child mode:* Which roots held best? Why do you think so?
+  *Parent says:* Real roots grow into the soil, spread out, and hold on to lots of it. Do your paper roots do the same?  
+  *Child mode:* Look at your plants. Which roots held the most rice?
   - Check: Which paper plant is hardest to pull out? → **One with many roots spread out in the rice**
 
 ## Worksheets

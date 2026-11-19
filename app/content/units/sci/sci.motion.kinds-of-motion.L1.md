@@ -161,7 +161,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   *Parent does:* 1. Read the cards one by one. 2. Your child acts out the motion and puts the card on a mat. 3. Turn the card over and read the back.  
   *Parent says:* A ceiling fan. Show me with your hands how it moves. Which mat does it go on?  
   *Child mode:* Listen. Show it with your hands. Put it on a mat.
-  - Ask: Why did you put the auto wheels on ROLL? (good: They go round and round along the road.; They turn as the auto moves.)
+  - Ask: Why did you choose that mat? (good: It turns over and over along the floor.; The same part keeps rubbing the floor.)
   - Note: Some cards fit two mats. Wheels roll along the road, and each wheel spins round its middle. Praise a good reason.
 - **s3 (1 min)**  
   *Parent does:* Count the cards on each mat.  
@@ -178,7 +178,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   *Child mode:* Pick a slip. Find something that moves that way. Be quick!
 - **s2 (8 min)**  
   *Parent does:* 1. Your child picks slips and hunts. 2. Count slowly to 10 each time. 3. Tick the score sheet. 4. Stop after 5 turns each.  
-  *Parent says:* Swing! One, two, three... What did you find? Show me how it swings.  
+  *Parent says:* Spin! One, two, three... What did you find? Show me how it spins.  
   *Child mode:* Find it. Show how it moves. Get a tick!
   - Ask: What did you find for SPIN? (good: The ceiling fan.; A bottle cap I twisted.; Me!)
   - Note: Your child's own body always counts. That helps when there is nothing left in the room to find.
@@ -193,7 +193,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 - **question:** With the same push, does a round dabba go further when it rolls on its side or when it slides standing flat?
 - **predict:** Guess first. Will the dabba go further lying on its side or standing flat? Or the same? Why do you think so?
 - **fair test:** We use the same dabba, the same book and the same push every time. The book always moves from the start line to the stop line, then stops. Only the way the dabba sits changes. We try each way 3 times, because one try can be a fluke.
-- **record:** Draw the dabba on its side and standing flat. Next to each, draw a line that shows how far it went.
+- **record:** Draw the dabba on its side and standing flat. Next to each, draw a line that shows how far it went. Or tell your grown-up what you found, using your tile numbers.
 - **results table:** How the dabba sat | My guess | How many tiles it went
 - **s1 (3 min)**  
   *Parent does:* 1. Stick two tape lines on the floor, one hand-width apart. 2. Show your child the dabba and the book.  
@@ -201,7 +201,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   *Child mode:* This book is your pusher. Slide it from one line to the next. Then stop.
   - Note: Stopping the book at the second line keeps every push about the same. A short, wide dabba stands flat without tipping over. Close it tight. A roll of cello tape works just as well.
 - **s2 (3 min)**  
-  *Parent does:* 1. Hold the dabba on its side, then standing flat. 2. Ask for a guess and a reason. 3. Write or draw the guess.  
+  *Parent does:* 1. Hold the dabba on its side, then standing flat. 2. Ask for a guess and a reason. 3. Write down the guess.  
   *Parent says:* First we lay the dabba on its side. Then we stand it flat. Which way will it go further? Why do you think so?  
   *Child mode:* Which way will the dabba go further? On its side or standing flat? Why?
   - Ask: Why do you think so? (good: On its side it can roll.; Standing up it is flat, so it will stop.; It is the same dabba, so the same.)
@@ -219,8 +219,8 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   - Note: Standing flat, the dabba usually slides only a short way, often less than two tiles. Let your child hear the scrape.
 - **s5 (4 min)**  
   *Parent does:* 1. Count the tiles to each slip together, or count hand-widths if your floor has no tiles. 2. Fill in the table. 3. Ask what your child saw and why.  
-  *Parent says:* Let us count the tiles. Which way went further? What did you see? Why do you think it went further that way?  
-  *Child mode:* Count the tiles. Which way went further? Why, do you think?
+  *Parent says:* Let us count the tiles from the start line to each slip. Which way went further?  
+  *Child mode:* Count the tiles from the start line to each slip. Write each number in the table.
   - Ask: Why did it go further on its side? (good: It rolled.; Standing up, it rubbed on the floor.; Rolling only touches a little bit of the floor.)
   - Note: Now you can explain. Sliding rubs the whole bottom along the floor, and the rubbing stops the dabba. When the dabba rolls, each bit of it touches the floor and lifts off again, so it hardly rubs. Scientists call the rubbing friction.
   - Check: The same dabba got the same push. Which way did it go further? → **Lying on its side, rolling**
@@ -229,10 +229,10 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 - **question:** Which of these bounce back up: a rubber ball, a ball of socks, a paper ball, a ball of atta dough, and an empty plastic bottle?
 - **predict:** Guess first. Which ones will bounce high, which a little, and which not at all? Why do you think so?
 - **fair test:** We drop every ball from the same height, the top of a table, onto the same floor. We let go without throwing. We drop each one 2 times.
-- **record:** Draw each thing and a curved line showing how high it bounced. Draw no line for things that did not bounce.
+- **record:** Sort the five things into three piles: bounced high, bounced a little, did not bounce. Take a photo of your piles, or tell your grown-up why each one is in its pile.
 - **results table:** What I dropped | My guess | What it did: high, a little, or no bounce
 - **s1 (3 min)**  
-  *Parent does:* 1. Line up the five things. 2. Ask for a guess and a reason for each. 3. Write or draw the guesses.  
+  *Parent does:* 1. Line up the five things. 2. Ask for a guess and a reason for each. 3. Write down the guesses.  
   *Parent says:* Here are five things to drop. Which will bounce high, which a little, and which not at all? Why do you think so?  
   *Child mode:* Look at the five things. Which will bounce? Which will not? Why?
   - Ask: What do you think will happen to the dough ball when it lands? Why? (good: It will go flat, because it is soft.; It will stick, because it is sticky.; It will squash, because it is squishy.)
@@ -249,7 +249,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   - Ask: What happened to the dough? (good: It went flat.; It stayed squashed.; It did not go back to round.)
   - Note: Now explain. Both squash when they hit the floor. The rubber ball springs straight back to round, and that pushes it up. The dough stays squashed, so it does not bounce.
 - **s4 (2 min)**  
-  *Parent does:* 1. Squeeze the rubber ball, then the dough, in your child's hand. 2. Let go and watch.  
+  *Parent does:* 1. Give your child the rubber ball to squeeze, then the dough. 2. Ask them to let go each time and watch.  
   *Parent says:* Squeeze the rubber ball, then let go. Now squeeze the dough. Which one springs back?  
   *Child mode:* Squeeze the ball. Let go. Now squeeze the dough. Which springs back?
   - Check: Why did the rubber ball bounce and the dough did not? → **The ball springs back to its shape, and the dough stays squashed**
@@ -258,7 +258,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 ## Activities
 ### a1 · Five Ways With My Body: roll, slide, spin, swing, bounce (8 min)
 - **safety:** Move furniture with corners out of the way. Slide slowly in socks, holding a grown-up's hand.
-- **record:** Draw yourself doing your favourite one of the five.
+- **record:** Tell your grown-up which of the five was your favourite, and show it once more.
 - **s1 (2 min)**  
   *Parent does:* 1. Lay out the mat. 2. Show your child how to lie down and roll sideways like a log.  
   *Parent says:* Lie down on the mat. Now roll over and over, like a log. That is rolling.  
@@ -278,10 +278,10 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   *Parent does:* 1. Your child bounces on the spot on their toes 5 times. 2. Say that the knees bend and spring back up, and that is what bouncing is.  
   *Parent says:* Now bounce on your toes, five times. Feel your knees bend and spring back up. That is bouncing.  
   *Child mode:* Bounce on your toes five times. Feel your knees bend, then spring back.
-  - Check: You turned round and round in one place. Which way of moving was that? → **Spinning**
+  - Check: Which way of moving is turning round and round in one place? → **Spinning**
 ### a2 · The Kitchen Motion Hunt (10 min)
 - **safety:** Use only safe, unbreakable things. Keep away from the stove, knives and the mixie.
-- **record:** Draw one kitchen thing on each of the five slips.
+- **record:** Take a photo of each slip with its things on it, or tell your grown-up the things on each slip.
 - **s1 (2 min)**  
   *Parent does:* 1. Lay out the five slips. 2. Read each word with your child.  
   *Parent says:* Here are five slips: roll, slide, spin, swing and bounce. Let us find kitchen things for each one.  
@@ -300,7 +300,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   - Check: A ladle hangs on a hook. You tap it. Which way does it move? → **It swings**
 ### a3 · Swing It: the bag on the door handle (8 min)
 - **problem:** A swinging thing hangs from one point that stays still. The rest of it goes back and forth below that point. In this activity you hang a bag from a door handle, push it once, and find which part stays still and which part swings.
-- **record:** Draw the bag and the door handle. Draw a curved arrow going both ways under the handle.
+- **record:** Draw the bag and the door handle, with a curved arrow going both ways under the handle. Or show your grown-up with your hands how the bag swung.
 - **s1 (2 min)**  
   *Parent does:* 1. Put the orange in the bag. 2. Hang the bag on the door handle so it hangs freely.  
   *Parent says:* Let us hang the bag on the handle. Which part do you think will move when we push it? Which part will stay still?  
@@ -313,12 +313,12 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   - Note: It usually swings 10 to 20 times before it nearly stops. The air and the rubbing at the handle slow it down.
 - **s3 (2 min)**  
   *Parent does:* 1. Point to the handle. 2. Ask your child to show the still point and the moving part.  
-  *Parent says:* Show me the part that stayed still. Show me the part that swung. When you walk, which part of you swings from your shoulder?  
-  *Child mode:* Point to the still part. Point to the part that swung. What swings from your shoulder when you walk?
+  *Parent says:* Show me the part that stayed still. Now show me the part that swung.  
+  *Child mode:* Point to the still part. Point to the part that swung.
   - Check: What stayed still while the bag swung? → **The door handle**
 ### a4 · Spin It: what spins, and where is its middle? (8 min)
 - **problem:** A spinning thing turns round its middle. The middle stays in one place, and the rest of the thing goes round it. In this activity you spin four things and find the middle of each one.
-- **record:** Draw each thing with a dot at the middle and a curved arrow round it.
+- **record:** Line the four things up, from the one that spun longest to the one that spun shortest. Tell your grown-up where each one's still middle is.
 - **s1 (2 min)**  
   *Parent does:* 1. Show your child how to twist the plate flat on the floor so it spins.  
   *Parent says:* Twist the plate with your fingers and let go. Watch it spin round and round in one place.  
@@ -331,8 +331,8 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   - Ask: Where is the still middle of the pencil? (good: In the middle of the pencil.; The ends go round, the middle stays.)
 - **s3 (2 min)**  
   *Parent does:* 1. Ask which thing spun the longest. 2. Ask what made it stop.  
-  *Parent says:* Which one spun the longest? Why did they all stop in the end?  
-  *Child mode:* Which spun the longest? Why did they stop?
+  *Parent says:* Spin them all again. Which one spun the longest?  
+  *Child mode:* Spin each one again. Which spins the longest?
   - Ask: Why did they all stop in the end? (good: The floor rubbed them.; Rubbing slows things down.)
   - Note: Rubbing on the floor slows each one down. A plate or a top on its point often spins longest.
   - Check: A pencil spins on the floor. Which part moves round in the biggest circle? → **Its two ends**
@@ -340,7 +340,7 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
 ## Projects
 ### p1 · A Swing for a Toy (20 min)
 - **safety:** A grown-up makes the holes in the box, because a pencil point can slip.
-- **record:** Draw your toy on the swing, with a curved arrow going both ways.
+- **record:** Take a photo of your toy on the swing, or draw it with a curved arrow going both ways.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Put two chairs a little apart with their backs facing. 2. Lay the broom handle across the two backs, and tape it down so it cannot roll off.  
   *Parent says:* This stick is the top of our swing. The swing will hang from it.  
@@ -352,14 +352,14 @@ That night, Kanmani lay in bed and rolled over. "I can roll," she thought. "I ca
   - Note: Two strings at the front and two at the back work best. Tape can hold them if knots are hard.
 - **s3 (6 min)**  
   *Parent does:* 1. Sit the toy in the box. 2. Your child gives one gentle push. 3. Watch it swing back and forth.  
-  *Parent says:* Sit the toy in the swing. Give one gentle push. Where is the still point the swing hangs from?  
+  *Parent says:* Sit the toy in the swing. Give one gentle push. Watch it go back and forth.  
   *Child mode:* Sit the toy in. Push gently. Watch the toy swing!
-  - Ask: Why does the swing come back to you? (good: It hangs from the stick, so it goes back and forth.; It goes up, then comes back down.)
+  - Ask: Which part of the swing stays still? (good: The stick.; The strings hang from it, and it does not move.)
   - Note: The still point is the stick. The stick stays still, and the toy goes back and forth below it.
 - **s4 (2 min)**  
-  *Parent does:* Ask how to make it swing again after it stops.  
-  *Parent says:* The swing has stopped. How can you make it swing again?  
-  *Child mode:* It stopped. How can you make it swing again?
+  *Parent does:* Wait until the swing stops. Then ask how to make it swing again.  
+  *Parent says:* Look, the swing has stopped.  
+  *Child mode:* Watch the swing slow down and stop. Think about how to start it again.
   - Check: The toy's swing slows down and stops. How do you make it swing again? → **Give it another push**
 
 ## Challenges

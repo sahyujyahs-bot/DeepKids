@@ -153,23 +153,23 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 
 ## Games
 ### g1 · Job and Material Pairs (15 min)
-- **rules:** Print the 16 cards and cut them out. On each card, draw what the brackets say, so you can play without reading.; Mix the cards and lay them face down in 4 rows of 4.; On your turn, turn over two cards.; If they are a job and its material, say why that material suits the job. If you can say why, keep the pair.; If they do not match, turn them face down again. The next player has a turn.; When all the cards are gone, the player with the most pairs wins. If you have the same number, you both win.; With 2 players, a parent and a child take turns. With 4, everyone takes turns in a circle.
+- **rules:** Print the 16 cards and cut them out. If you like, draw on each card what the brackets say. Or just play with the words.; Mix the cards and lay them face down in 4 rows of 4.; On your turn, turn over two cards.; If they are a job and its material, say why that material suits the job. If you can say why, keep the pair.; If they do not match, turn them face down again. The next player has a turn.; When all the cards are gone, the player with the most pairs wins. If you have the same number, you both win.; With 2 players, a parent and a child take turns. With 4, everyone takes turns in a circle.
 - **Printable cards: 16 cards: 8 job cards and 8 material cards:** JOB: Keep the rain off you (draw rain falling on a child); MATERIAL: Plastic raincoat (draw a yellow raincoat); JOB: Eat hot rasam rice (draw a bowl with steam); MATERIAL: Steel spoon (draw a shiny spoon); JOB: Dry your wet hands (draw dripping hands); MATERIAL: Cotton towel (draw a towel); JOB: See the birds outside (draw a crow on a ledge); MATERIAL: Glass window (draw a window); JOB: Draw a picture (draw a crayon); MATERIAL: Paper (draw a sheet of paper); JOB: Carry water from the tap (draw a tap); MATERIAL: Plastic or steel bucket (draw a bucket); JOB: Hold rice and sambar at a feast (draw rice); MATERIAL: Banana leaf (draw a green leaf); JOB: Keep you warm on a cold night (draw the moon); MATERIAL: Woollen blanket (draw a blanket)
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the cards face up. 2. Read each job and each material together.  
-  *Parent says:* Each job card has a partner. The partner is the material for that job. Can you find the partner for 'Keep the rain off you'?  
-  *Child mode:* Look at the cards. Find the partner for the rain card.
+  *Parent says:* Each job card has a partner card. The partner is the material for that job. Look at the card 'Keep the rain off you'.  
+  *Child mode:* Read the cards. Find the rain card.
   - Ask: Which material keeps the rain off? (good: The plastic raincoat.; Plastic, because water cannot get through.)
 - **s2 (10 min)**  
   *Parent does:* 1. Mix the cards and lay them face down. 2. Take turns. 3. Before a pair is kept, the player says why.  
-  *Parent says:* You found the steel spoon and the hot rasam rice. Why is steel good for hot rasam?  
+  *Parent says:* Take turns. When you turn a job and its material, tell me why the material suits the job.  
   *Child mode:* Turn two cards. Is it a pair? Say why.
   - Ask: Why is steel good for hot rasam? (good: It stays stiff in hot food.; It does not go soft in water.)
   - Note: Accept any true reason. If a reason is wrong, ask a question that leads to the right one, such as 'What would a paper spoon do in hot rasam?'
 - **s3 (2 min)**  
   *Parent does:* Count the pairs. Then ask the question below.  
-  *Parent says:* Let's count the pairs. Then I have one question about drying hands.  
-  *Child mode:* Count your pairs. Then answer the question about wet hands.
+  *Parent says:* Let's count the pairs. Then I have one question.  
+  *Child mode:* Count your pairs.
   - Check: Which material is right for drying wet hands? → **A cotton towel**
 ### g2 · Raindrop Hop (10 min)
 - **rules:** Print the four signs and lay them on the floor, a big step apart.; Print the 12 job cards. One player is the caller and holds them. The other players stand in the middle.; The caller reads a job card out loud.; The other players each hop to the material that suits the job, and say why.; The caller reads the back of the card. A player with a good reason gets one point.; Some jobs have two right answers. If you can say why, you get the point.; After 6 cards, swap: a new player becomes the caller and reads the other 6 cards.; When the last card is done, add up the points. The player with the most points wins. If you have the same number, you both win.
@@ -181,14 +181,14 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   *Child mode:* Listen to the job. Hop to the right material. Say why.
 - **s2 (7 min)**  
   *Parent does:* Read the job cards one by one. After each hop, ask why, then read the back.  
-  *Parent says:* Wipe up spilt milk! Where did you hop? Why that one?  
-  *Child mode:* Hop! Why did you choose that one?
+  *Parent says:* Here is the first job: wipe up spilt milk. Hop to the material you would use.  
+  *Child mode:* Hop to a sign. Tell why you chose it.
   - Ask: Why cloth for spilt milk? (good: Cloth soaks it up.; It absorbs the milk.)
   - Note: For 'Carry water to the plants', both steel and plastic are right. Ask your child why either works.
 - **s3 (1 min)**  
   *Parent does:* Count the points together.  
-  *Parent says:* One job had two right answers. Which job was it? Why did two materials work?  
-  *Child mode:* Count your points. Which job had two right answers?
+  *Parent says:* Let's count the points. One job had two right answers.  
+  *Child mode:* Count your points. Think back to the job with two right answers.
   - Ask: Which job had two right answers? (good: Carry water to the plants.; Steel and plastic both keep water in.)
 
 ## Experiments
@@ -197,24 +197,24 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 - **predict:** Guess first. After three minutes in water, which spoon will still stir thick curd? Why do you think so?
 - **fair test:** All three spoons are about the same length. Each one carries five scoops of water. Then all three sit in the same bowl of water for the same time. If you leave them in for two more minutes, leave all three in. Only the material is different.
 - **safety:** Only a grown-up uses the scissors.
-- **record:** Draw the three spoons after their bath, side by side. Draw a tick next to each spoon that could still stir the curd, and a cross next to each one that could not.
+- **record:** Put the three spoons side by side after their bath and take a photo, or draw them. Put a tick next to each spoon that could still stir the curd, and a cross next to each one that could not.
 - **results table:** Spoon | My guess | After 5 scoops of water | After 3 minutes in water: can it stir curd?
 - **s1 (4 min)**  
   *Parent does:* 1. Fold the newspaper four times into a thick strip. 2. Bend one end up and tape it into a small scoop. 3. You, the grown-up, cut a strip of card. 4. Bend its end up the same way and tape it.  
-  *Parent says:* We are making two new spoons. One is newspaper and one is card. What are they made of? What is our steel spoon made of?  
-  *Child mode:* Watch the spoons being made. One is newspaper. One is card.
+  *Parent says:* We are making two new spoons, one from newspaper and one from card. We also have a steel spoon.  
+  *Child mode:* Help make the spoons. Look at what each one is made of.
   - Ask: What is each spoon made of? (good: Newspaper, card and steel.; Two are paper and one is metal.)
   - Note: The spoons need not be neat. Make each one about as long as the steel spoon.
 - **s2 (3 min)**  
-  *Parent does:* 1. Put the three spoons in a row. 2. Ask your child to guess. 3. Draw each guess in the table, or write it for them.  
-  *Parent says:* Soon all three spoons will sit in water for three minutes. Then we will stir thick curd. Which spoons will still stir it? Why do you think so?  
-  *Child mode:* Guess. Which spoon will still stir curd after a bath in water? Why?
+  *Parent does:* 1. Put the three spoons in a row. 2. Ask your child to guess. 3. Write each guess in the table, or let your child write it.  
+  *Parent says:* Soon all three spoons will sit in water for three minutes. Then we will stir thick curd.  
+  *Child mode:* Look at the three spoons. Think about what each one is made of.
   - Ask: Which spoon will still stir the curd, and why? (good: Steel, because it is hard.; The paper ones will go soggy.; The card is thick, so it might work.)
   - Note: Wait for a reason as well as a guess. Any guess is fine. Do not say the answer.
 - **s3 (4 min)**  
-  *Parent does:* 1. Your child carries five scoops of water from the full bowl to the empty bowl, with each spoon. 2. After each spoon, look at it and feel it.  
-  *Parent says:* Carry five scoops with each spoon. Count with me. Now feel the spoon. Is it the same as before?  
-  *Child mode:* Carry five scoops of water with each spoon. Feel each spoon. Is it the same?
+  *Parent does:* 1. Your child carries five scoops of water from the bowl of water to the empty bowl, with each spoon. 2. After each spoon, look at it and feel it.  
+  *Parent says:* Carry five scoops with each spoon. Count with me.  
+  *Child mode:* Carry the water. Then feel each spoon.
   - Ask: What happened to each spoon? (good: The newspaper one dripped and went soft.; The card one got a bit wet.; The steel one is the same.)
   - Note: The newspaper spoon drips and darkens at once. The card spoon usually still works for five scoops, with damp edges. The steel spoon does not change.
 - **s4 (4 min)**  
@@ -224,14 +224,14 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   - Note: Push the paper spoons down so their scoops stay under the water.
 - **s5 (3 min)**  
   *Parent does:* 1. Take out each spoon. 2. Your child tries to stir the thick curd with each one. 3. Mark a tick or a cross in the table.  
-  *Parent says:* Now stir the curd with each spoon. Which one still works?  
+  *Parent says:* Take out the spoons. Now stir the curd with each one.  
   *Child mode:* Stir the curd with each spoon. Which one still works?
   - Ask: What happened? (good: The steel spoon stirred the curd.; The card spoon bent over.; The newspaper spoon folded up.)
   - Note: The card should now be soft and bend in the curd. A thin newspaper strip folded four times may take longer than card to go soft. If either paper spoon is still stiff, put all three spoons back in the water for two more minutes, the steel spoon too so it stays fair, and try again. Shiny card with a plastic coating stays stiff much longer, so use plain card. If you have a plastic spoon, test it too. It works like the steel spoon.
 - **s6 (2 min)**  
   *Parent does:* 1. Tear the edge of the soft card spoon. 2. Look at the torn edge together.  
-  *Parent says:* Look at the torn edge. Can you see tiny hairs? Why do you think the card went soft, and the steel did not?  
-  *Child mode:* Look at the torn edge. Can you see tiny hairs? Why did the card go soft?
+  *Parent says:* Look at the torn edge of the soft card. Can you see tiny hairs?  
+  *Child mode:* Look closely at the torn edge. Point to the tiny hairs.
   - Ask: Why did the card go soft? (good: It drank the water.; Water went inside it.; The steel does not drink water.)
   - Note: Only after your child has given a reason, read the card 'Why water makes paper soft'. Card is made of tiny plant threads called fibres. Water gets between them, and they loosen their hold.
   - Check: Which spoon could still stir the curd after three minutes in water? → **The steel spoon**
@@ -239,17 +239,17 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 ## Activities
 ### a1 · The Biscuit in the Rain: which wrapper keeps it dry? (15 min)
 - **safety:** Keep the plastic bag away from faces.
-- **record:** Draw the four biscuits after the rain. Colour the wet parts blue. Draw a smiley face on the biscuit that stayed driest.
+- **record:** Line up the four biscuits from driest to wettest and take a photo. Or draw them, and put a smiley face on the driest one.
 - **s1 (3 min)**  
   *Parent does:* 1. Wrap one biscuit in the plastic bag, one in the paper napkin and one in the cotton hanky. 2. Tuck the edges underneath. 3. Leave the fourth biscuit bare.  
-  *Parent says:* Each biscuit has a coat on. One coat is plastic, one is paper and one is cloth. One biscuit has no coat. Which biscuit will stay dry in the rain? Why do you think so?  
-  *Child mode:* Each biscuit has a coat. Which one will stay dry? Why?
+  *Parent says:* Each biscuit has a coat on. One coat is plastic, one is paper and one is cloth. One biscuit has no coat.  
+  *Child mode:* Look at the four biscuits and their coats. Think about the rain.
   - Ask: Which biscuit will stay dry, and why? (good: The plastic one, because water slides off plastic.; The cloth one, because it is thick.)
   - Note: Wait for a guess and a reason before you start the rain.
 - **s2 (4 min)**  
   *Parent does:* 1. Stand the four biscuits on the plate. 2. Your child sprinkles three spoonfuls of water, slowly, over each biscuit. 3. Wait two minutes.  
   *Parent says:* Now it is raining! Three spoonfuls for each biscuit. Let's count.  
-  *Child mode:* Make it rain! Sprinkle three spoonfuls of water on each biscuit.
+  *Child mode:* Make it rain. Count each spoonful out loud.
   - Note: Give each biscuit the same rain, from the same height. That way, only the coat is different.
 - **s3 (5 min)**  
   *Parent does:* 1. Wipe the water off each wrapper. 2. Unwrap each biscuit. 3. Your child touches each one and says if it is dry, damp or soggy.  
@@ -259,16 +259,16 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   - Note: The biscuit in plastic should be the driest. The paper and the hanky let some water through, so those biscuits are usually damp, and the paper one is often the softest. The bare one has wet, soft patches. How wet each one gets depends on how much water went on, so compare the biscuits with each other. If the plastic has a gap, water runs in.
 - **s4 (3 min)**  
   *Parent does:* Talk about raincoats. Then eat the driest biscuit, if it is dry and clean, and put the wet ones in the bin.  
-  *Parent says:* Which coat would you want in the rain? Why is a raincoat made of plastic?  
-  *Child mode:* Which coat would you wear in the rain? Why?
+  *Parent says:* Imagine you need a coat for the rain. Which of these coats would you wear?  
+  *Child mode:* Pick the coat you would wear in the rain.
   - Ask: Why is a raincoat made of plastic? (good: Plastic keeps the water out.; It is waterproof.; Paper and cloth let the water in.)
   - Check: Which wrapper kept the biscuit driest? → **The plastic**
 ### a2 · Mop the Spill: which material soaks up water? (10 min)
-- **record:** Draw the four materials in a row. Under each one, draw a full drop if it soaked up the water, and an empty circle if it did not.
+- **record:** Sort the four materials into two piles: soaked up the water, and did not. Take a photo of the piles, or tell a grown-up what is in each pile.
 - **s1 (2 min)**  
   *Parent does:* 1. Pour one spoon of water onto the plate. 2. Show the four materials.  
-  *Parent says:* Oh no, a spill! Which of these will wipe it up best? Why do you think so?  
-  *Child mode:* Which one will wipe up the water best? Why?
+  *Parent says:* Oh no, a spill! Here are four things to wipe it up with.  
+  *Child mode:* Look at the four materials. Think about which one will soak up water.
   - Ask: Which material will wipe up the water best, and why? (good: The cloth, because towels are cloth.; The paper, because paper gets wet.)
 - **s2 (6 min)**  
   *Parent does:* 1. Your child presses one material on the spill and lifts it. 2. Look at the plate. 3. Wipe the plate dry, pour a new spoon of water, and try the next material.  
@@ -278,13 +278,13 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   - Note: Plastic and foil only push the water around. Cloth and paper absorb it. Cloth usually holds more without tearing.
 - **s3 (2 min)**  
   *Parent does:* Ask the question below.  
-  *Parent says:* In the Biscuit in the Rain activity, plastic kept the biscuit dry. Here, plastic could not mop up the water. Why?  
-  *Child mode:* In the Biscuit in the Rain activity, plastic kept the biscuit dry. But it could not mop up the water. Why?
-  - Ask: Why? (good: Plastic does not soak up water.; A raincoat must keep water out, but a towel must soak it up.)
+  *Parent says:* Plastic kept the biscuit dry in the rain. But here, plastic could not mop up the water.  
+  *Child mode:* Think about the two jobs: keeping rain out, and mopping up water.
+  - Ask: Why was plastic good for the biscuit but not for the spill? (good: Plastic does not soak up water.; A raincoat must keep water out, but a towel must soak it up.)
   - Note: This is the key idea. Being waterproof is right for a raincoat and wrong for a towel. The job decides which material is right.
 ### a3 · Hold Hands Like Paper (8 min)
 - **problem:** Paper is made of tiny plant threads called fibres. Dry fibres hold on to each other tightly, so dry paper is stiff. Water gets in between the fibres and loosens their hold, so wet paper goes soft. In this game you and your family act out the fibres, to see how water pulls them apart.
-- **record:** Draw yourselves holding hands as dry paper threads, and again as wet paper threads.
+- **record:** Tell a grown-up what the threads did when they were dry, and what they did when they were wet. The grown-up writes it down.
 - **s1 (2 min)**  
   *Parent does:* 1. Stand in a line with your child and anyone else at home. 2. Hold hands tightly.  
   *Parent says:* We are the tiny threads inside a piece of paper. Dry threads hold on to each other tightly. Can anyone pull us apart?  
@@ -293,7 +293,7 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 - **s2 (3 min)**  
   *Parent does:* 1. Flick a few drops of water on everyone's hands. 2. Now hold on with fingertips only. 3. Your child gives the line a gentle push.  
   *Parent says:* Water is coming in between us! Now we can only hold with our fingertips. Push gently. What happens?  
-  *Child mode:* Water came in! Hold with your fingertips. Push. What happens?
+  *Child mode:* Hold on with your fingertips only. Feel the push.
   - Ask: What happened? (good: The line came apart.; It was easy to break.)
   - Note: This is what happens inside the card spoon in the Spoon Test, and inside a paper boat in a puddle.
 - **s3 (3 min)**  
@@ -305,23 +305,23 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 ## Projects
 ### p1 · My Book of Right Materials (30 min, 3 days)
 - **safety:** A grown-up does the stapling or sewing.
-- **record:** A small book with a drawing on each page. Each drawing has the thing, its job, and its material. The last page has a silly swap.
+- **record:** A small book with a page for each thing. Each page has a picture or the name of the thing, its job, and its material. The last page has a silly swap.
 - **schedule:** day 1: Make the book. Draw two things from the kitchen, with their job and their material. (10 min); day 2: Draw two things from the bathroom or the bedroom, with their job and their material. (10 min); day 3: Draw a silly swap: a thing made of the wrong material. Show the book to the family. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Fold and staple the book. 2. Your child chooses two things in the kitchen. 3. They draw each one on its own page.  
+  *Parent does:* 1. Fold and staple the book. 2. Your child chooses two things in the kitchen. 3. They draw each one on its own page, or write its name.  
   *Parent says:* What does this thing do? What is it made of? Why is that the right material for its job?  
-  *Child mode:* Draw a thing from the kitchen. What job does it do? What is it made of?
+  *Child mode:* Pick a thing from the kitchen. Draw it, or write its name. Then tell its job and its material.
   - Ask: Why is a tumbler made of steel? (good: It holds water and does not break.; It does not soak up water.)
   - Note: Write the job and the material under each drawing, in your child's words.
 - **s2 (10 min)**  
-  *Parent does:* Your child chooses two more things, from the bathroom or the bedroom, and draws them.  
+  *Parent does:* Your child chooses two more things, from the bathroom or the bedroom. They draw them, or write their names.  
   *Parent says:* Look at a bucket and a towel. Why is the bucket plastic and the towel cloth?  
-  *Child mode:* Draw two more things. Why is each one made of its material?
+  *Child mode:* Pick two more things. Draw them, or write their names. Tell the material of each.
   - Wait: Do this on the next day.
 - **s3 (10 min)**  
-  *Parent does:* 1. Your child draws a silly swap on the last page, such as a glass pillow or a woollen spoon. 2. They show the whole book to the family.  
-  *Parent says:* Draw something made of the wrong material. What would go wrong?  
-  *Child mode:* Draw a silly swap. What goes wrong?
+  *Parent does:* 1. Your child makes up a silly swap for the last page, such as a glass pillow or a woollen spoon. They draw it, or say it and you write it. 2. They show the whole book to the family.  
+  *Parent says:* Make up a silly swap: a thing made of the wrong material.  
+  *Child mode:* Draw your swap, or tell it. Then show your book.
   - Ask: What would go wrong with a glass pillow? (good: It would be hard and hurt your head.; It could break.)
   - Note: Write the swap and what goes wrong under the drawing, in your child's words.
   - Wait: Do this on the third day.
@@ -329,14 +329,14 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
 ## Challenges
 ### c1 · Make a Spoon That Works (20 min)
 - **problem:** All the spoons are in the wash! Can you make a spoon that carries five scoops of water and does not go soft?
-- **your turn:** Make your spoon and test it with five scoops of water. Did it go soft? Draw your spoon. A grown-up writes the label for each material and its job.
+- **your turn:** Make your spoon and test it with five scoops of water. Did it go soft? Take a photo of your spoon, or draw it. A grown-up writes the label for each material and its job.
 - **constraints:** Do not use a metal or plastic spoon.; The spoon must carry five scoops of water from one bowl to another.; It must not go soft or bend while you use it.
 - **general:** Tape a bottle cap to an ice-cream stick. The cap holds water and keeps it in.; In Kerala and other coastal parts of India, people have long made ladles from half a coconut shell, fixed to a wooden or bamboo handle.; If you have a big waxy leaf, such as a banana leaf, fold it into a scoop. Waxy leaves are waterproof, so water rolls off.
 - **creative:** Wrap the card spoon tightly in foil, so the water cannot reach the card.; Use two ice-cream sticks for a stronger handle.; Make a spoon from two materials: a foil scoop on a stick handle.
 - **s1 (3 min)**  
   *Parent does:* Read the problem. Show the materials.  
-  *Parent says:* We need a spoon that does not go soft in water. Which of these things would you use? Why?  
-  *Child mode:* Make a spoon that does not go soft. What will you use? Why?
+  *Parent says:* All the spoons are in the wash. We need a spoon that does not go soft in water.  
+  *Child mode:* Look at the things on the table. Pick what you will use.
   - Ask: Which material will you use, and why? (good: The bottle cap, because it is plastic and keeps water in.; Foil, because water does not soak into it.)
 - **s2 (10 min)**  
   *Parent does:* 1. Your child builds a spoon. 2. Help with the tape, but let them choose.  
@@ -345,13 +345,13 @@ Ammu yawned. 'Paper for drawing,' she said sleepily. 'Plastic for boats. Steel f
   - Note: A bottle cap on a stick works well. Tape comes unstuck when it gets wet, so wrap the tape round and round and keep it dry. A card spoon wrapped in foil works while the foil has no holes.
 - **s3 (5 min)**  
   *Parent does:* 1. Your child carries five scoops of water. 2. Look at the spoon after each scoop.  
-  *Parent says:* Let's test it. Five scoops. Is it still stiff?  
-  *Child mode:* Test it. Five scoops. Did it go soft?
+  *Parent says:* Let's test it. Carry five scoops and watch if it stays stiff.  
+  *Child mode:* Carry five scoops of water. Watch your spoon.
   - Ask: Did your spoon work? Why? (good: Yes, because plastic does not soak up water.; No, the foil tore, so the card got wet.)
 - **s4 (2 min)**  
-  *Parent does:* Ask the question below.  
+  *Parent does:* Ask your child what they would change.  
   *Parent says:* What would you change to make it better?  
-  *Child mode:* How could you make it better?
+  *Child mode:* Tell your grown-up one thing you would change.
   - Note: If the spoon failed, ask which part let the water in, and how to cover that part. If it worked, ask which part might fail first if you used it for a week.
 
 ## Worksheets

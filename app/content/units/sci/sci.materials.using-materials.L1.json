@@ -242,7 +242,7 @@
    "title": "Job and Material Pairs",
    "mins": 15,
    "players": "2 to 4 players. A grown-up can play too.",
-   "context": "This is a memory game with pairs of cards. One card shows a job. Its partner shows the material for that job. You keep a pair only if you can say why the material suits the job.",
+   "context": "This is a memory game with pairs of cards. One card shows a job. Its partner shows the material for that job. You keep a pair only if you can say why the material suits the job. You will see that every job needs a material that suits it.",
    "printables": [
     {
      "kind": "cards",
@@ -268,7 +268,7 @@
     }
    ],
    "rules": [
-    "Print the 16 cards and cut them out. On each card, draw what the brackets say, so you can play without reading.",
+    "Print the 16 cards and cut them out. If you like, draw on each card what the brackets say. Or just play with the words.",
     "Mix the cards and lay them face down in 4 rows of 4.",
     "On your turn, turn over two cards.",
     "If they are a job and its material, say why that material suits the job. If you can say why, keep the pair.",
@@ -291,8 +291,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Show your child the cards face up. 2. Read each job and each material together.",
-     "say": "Each job card has a partner. The partner is the material for that job. Can you find the partner for 'Keep the rain off you'?",
-     "kid": "Look at the cards. Find the partner for the rain card.",
+     "say": "Each job card has a partner card. The partner is the material for that job. Look at the card 'Keep the rain off you'.",
+     "kid": "Read the cards. Find the rain card.",
      "ask": [
       {
        "q": "Which material keeps the rain off?",
@@ -307,7 +307,7 @@
      "id": "s2",
      "mins": 10,
      "do": "1. Mix the cards and lay them face down. 2. Take turns. 3. Before a pair is kept, the player says why.",
-     "say": "You found the steel spoon and the hot rasam rice. Why is steel good for hot rasam?",
+     "say": "Take turns. When you turn a job and its material, tell me why the material suits the job.",
      "kid": "Turn two cards. Is it a pair? Say why.",
      "ask": [
       {
@@ -324,8 +324,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the pairs. Then ask the question below.",
-     "say": "Let's count the pairs. Then I have one question about drying hands.",
-     "kid": "Count your pairs. Then answer the question about wet hands.",
+     "say": "Let's count the pairs. Then I have one question.",
+     "kid": "Count your pairs.",
      "check": {
       "t": "mcq",
       "q": "Which material is right for drying wet hands?",
@@ -345,7 +345,7 @@
    "title": "Raindrop Hop",
    "mins": 10,
    "players": "2 or more players. One person is the caller, and you swap after 6 cards.",
-   "context": "This is a moving game. Four material signs lie on the floor. The caller says a job, and you hop to the material that suits it.",
+   "context": "This is a moving game. Four material signs lie on the floor. The caller says a job, and you hop to the material that suits it. You will find out which material is right for each job.",
    "printables": [
     {
      "kind": "board",
@@ -444,8 +444,8 @@
      "id": "s2",
      "mins": 7,
      "do": "Read the job cards one by one. After each hop, ask why, then read the back.",
-     "say": "Wipe up spilt milk! Where did you hop? Why that one?",
-     "kid": "Hop! Why did you choose that one?",
+     "say": "Here is the first job: wipe up spilt milk. Hop to the material you would use.",
+     "kid": "Hop to a sign. Tell why you chose it.",
      "ask": [
       {
        "q": "Why cloth for spilt milk?",
@@ -461,8 +461,8 @@
      "id": "s3",
      "mins": 1,
      "do": "Count the points together.",
-     "say": "One job had two right answers. Which job was it? Why did two materials work?",
-     "kid": "Count your points. Which job had two right answers?",
+     "say": "Let's count the points. One job had two right answers.",
+     "kid": "Count your points. Think back to the job with two right answers.",
      "ask": [
       {
        "q": "Which job had two right answers?",
@@ -482,7 +482,7 @@
    "title": "The Spoon Test: which spoon still works after a bath?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you make two spoons, one from newspaper and one from card. You carry water with them and with a steel spoon. Then you leave all three in water, and try to stir thick curd.",
+   "context": "In this experiment you make two spoons, one from newspaper and one from card. You carry water with them and with a steel spoon. Then you leave all three in water, and try to stir thick curd. You will find out why spoons are made of steel.",
    "question": "Why are spoons made of steel? Would a spoon made of paper or card work just as well?",
    "predict": "Guess first. After three minutes in water, which spoon will still stir thick curd? Why do you think so?",
    "fair_test": "All three spoons are about the same length. Each one carries five scoops of water. Then all three sit in the same bowl of water for the same time. If you leave them in for two more minutes, leave all three in. Only the material is different.",
@@ -534,7 +534,7 @@
      "what": "Make a newspaper spoon and a card spoon. Carry water with all three spoons. Leave them in water for three minutes. Try to stir thick curd with each."
     }
    ],
-   "record": "Draw the three spoons after their bath, side by side. Draw a tick next to each spoon that could still stir the curd, and a cross next to each one that could not.",
+   "record": "Put the three spoons side by side after their bath and take a photo, or draw them. Put a tick next to each spoon that could still stir the curd, and a cross next to each one that could not.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -584,8 +584,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Fold the newspaper four times into a thick strip. 2. Bend one end up and tape it into a small scoop. 3. You, the grown-up, cut a strip of card. 4. Bend its end up the same way and tape it.",
-     "say": "We are making two new spoons. One is newspaper and one is card. What are they made of? What is our steel spoon made of?",
-     "kid": "Watch the spoons being made. One is newspaper. One is card.",
+     "say": "We are making two new spoons, one from newspaper and one from card. We also have a steel spoon.",
+     "kid": "Help make the spoons. Look at what each one is made of.",
      "ask": [
       {
        "q": "What is each spoon made of?",
@@ -600,9 +600,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Put the three spoons in a row. 2. Ask your child to guess. 3. Draw each guess in the table, or write it for them.",
-     "say": "Soon all three spoons will sit in water for three minutes. Then we will stir thick curd. Which spoons will still stir it? Why do you think so?",
-     "kid": "Guess. Which spoon will still stir curd after a bath in water? Why?",
+     "do": "1. Put the three spoons in a row. 2. Ask your child to guess. 3. Write each guess in the table, or let your child write it.",
+     "say": "Soon all three spoons will sit in water for three minutes. Then we will stir thick curd.",
+     "kid": "Look at the three spoons. Think about what each one is made of.",
      "ask": [
       {
        "q": "Which spoon will still stir the curd, and why?",
@@ -618,9 +618,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Your child carries five scoops of water from the full bowl to the empty bowl, with each spoon. 2. After each spoon, look at it and feel it.",
-     "say": "Carry five scoops with each spoon. Count with me. Now feel the spoon. Is it the same as before?",
-     "kid": "Carry five scoops of water with each spoon. Feel each spoon. Is it the same?",
+     "do": "1. Your child carries five scoops of water from the bowl of water to the empty bowl, with each spoon. 2. After each spoon, look at it and feel it.",
+     "say": "Carry five scoops with each spoon. Count with me.",
+     "kid": "Carry the water. Then feel each spoon.",
      "ask": [
       {
        "q": "What happened to each spoon?",
@@ -645,7 +645,7 @@
      "id": "s5",
      "mins": 3,
      "do": "1. Take out each spoon. 2. Your child tries to stir the thick curd with each one. 3. Mark a tick or a cross in the table.",
-     "say": "Now stir the curd with each spoon. Which one still works?",
+     "say": "Take out the spoons. Now stir the curd with each one.",
      "kid": "Stir the curd with each spoon. Which one still works?",
      "ask": [
       {
@@ -663,8 +663,8 @@
      "id": "s6",
      "mins": 2,
      "do": "1. Tear the edge of the soft card spoon. 2. Look at the torn edge together.",
-     "say": "Look at the torn edge. Can you see tiny hairs? Why do you think the card went soft, and the steel did not?",
-     "kid": "Look at the torn edge. Can you see tiny hairs? Why did the card go soft?",
+     "say": "Look at the torn edge of the soft card. Can you see tiny hairs?",
+     "kid": "Look closely at the torn edge. Point to the tiny hairs.",
      "ask": [
       {
        "q": "Why did the card go soft?",
@@ -697,7 +697,7 @@
    "title": "The Biscuit in the Rain: which wrapper keeps it dry?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you wrap biscuits in plastic, paper and cloth. Then you sprinkle spoonfuls of water on them like rain, and see which biscuit stays driest.",
+   "context": "In this activity you wrap biscuits in plastic, paper and cloth. Then you sprinkle spoonfuls of water on them like rain, and see which biscuit stays driest. You will find out why raincoats are made of plastic.",
    "materials": [
     {
      "item": "4 plain biscuits, such as Marie biscuits",
@@ -732,7 +732,7 @@
      "what": "Wrap three biscuits, leave one bare, sprinkle water over them, and unwrap to see which stayed driest."
     }
    ],
-   "record": "Draw the four biscuits after the rain. Colour the wet parts blue. Draw a smiley face on the biscuit that stayed driest.",
+   "record": "Line up the four biscuits from driest to wettest and take a photo. Or draw them, and put a smiley face on the driest one.",
    "setup": [
     {
      "art": "Four biscuits on a steel plate: one wrapped in a piece of plastic bag, one in a paper napkin, one in a cotton hanky, and one bare.",
@@ -740,7 +740,7 @@
     },
     {
      "art": "A small boy dipping his fingers in a tumbler and flicking drops of water over the wrapped biscuits.",
-     "caption": "2. Make it rain with your fingers."
+     "caption": "2. Make it rain with a spoon."
     },
     {
      "art": "The unwrapped biscuits: a dry one from the plastic, a slightly damp one from the hanky, a softer damp one from the paper napkin and a wet-patched bare one.",
@@ -752,8 +752,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Wrap one biscuit in the plastic bag, one in the paper napkin and one in the cotton hanky. 2. Tuck the edges underneath. 3. Leave the fourth biscuit bare.",
-     "say": "Each biscuit has a coat on. One coat is plastic, one is paper and one is cloth. One biscuit has no coat. Which biscuit will stay dry in the rain? Why do you think so?",
-     "kid": "Each biscuit has a coat. Which one will stay dry? Why?",
+     "say": "Each biscuit has a coat on. One coat is plastic, one is paper and one is cloth. One biscuit has no coat.",
+     "kid": "Look at the four biscuits and their coats. Think about the rain.",
      "ask": [
       {
        "q": "Which biscuit will stay dry, and why?",
@@ -770,7 +770,7 @@
      "mins": 4,
      "do": "1. Stand the four biscuits on the plate. 2. Your child sprinkles three spoonfuls of water, slowly, over each biscuit. 3. Wait two minutes.",
      "say": "Now it is raining! Three spoonfuls for each biscuit. Let's count.",
-     "kid": "Make it rain! Sprinkle three spoonfuls of water on each biscuit.",
+     "kid": "Make it rain. Count each spoonful out loud.",
      "parent": "Give each biscuit the same rain, from the same height. That way, only the coat is different."
     },
     {
@@ -794,8 +794,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Talk about raincoats. Then eat the driest biscuit, if it is dry and clean, and put the wet ones in the bin.",
-     "say": "Which coat would you want in the rain? Why is a raincoat made of plastic?",
-     "kid": "Which coat would you wear in the rain? Why?",
+     "say": "Imagine you need a coat for the rain. Which of these coats would you wear?",
+     "kid": "Pick the coat you would wear in the rain.",
      "ask": [
       {
        "q": "Why is a raincoat made of plastic?",
@@ -859,7 +859,7 @@
      "what": "Spill one spoon of water four times, and try to mop each spill with a different material."
     }
    ],
-   "record": "Draw the four materials in a row. Under each one, draw a full drop if it soaked up the water, and an empty circle if it did not.",
+   "record": "Sort the four materials into two piles: soaked up the water, and did not. Take a photo of the piles, or tell a grown-up what is in each pile.",
    "setup": [
     {
      "art": "Four small squares on a table, a plastic bag piece, a foil piece, a newspaper piece and a cotton cloth, next to a steel plate with a puddle of water.",
@@ -875,8 +875,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Pour one spoon of water onto the plate. 2. Show the four materials.",
-     "say": "Oh no, a spill! Which of these will wipe it up best? Why do you think so?",
-     "kid": "Which one will wipe up the water best? Why?",
+     "say": "Oh no, a spill! Here are four things to wipe it up with.",
+     "kid": "Look at the four materials. Think about which one will soak up water.",
      "ask": [
       {
        "q": "Which material will wipe up the water best, and why?",
@@ -908,11 +908,11 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the question below.",
-     "say": "In the Biscuit in the Rain activity, plastic kept the biscuit dry. Here, plastic could not mop up the water. Why?",
-     "kid": "In the Biscuit in the Rain activity, plastic kept the biscuit dry. But it could not mop up the water. Why?",
+     "say": "Plastic kept the biscuit dry in the rain. But here, plastic could not mop up the water.",
+     "kid": "Think about the two jobs: keeping rain out, and mopping up water.",
      "ask": [
       {
-       "q": "Why?",
+       "q": "Why was plastic good for the biscuit but not for the spill?",
        "good": [
         "Plastic does not soak up water.",
         "A raincoat must keep water out, but a towel must soak it up."
@@ -928,7 +928,7 @@
    "title": "Hold Hands Like Paper",
    "mins": 8,
    "days": 1,
-   "context": "This is an acting game for two or more people. You hold hands like the tiny threads in paper. Then you find out what water does to those threads.",
+   "context": "This is an acting game for two or more people. You hold hands like the tiny threads in paper. Then you find out what water does to those threads. You will see why wet paper goes soft.",
    "materials": [
     {
      "item": "a small bowl of water",
@@ -942,7 +942,7 @@
      "what": "Act out dry paper, wet paper and steel."
     }
    ],
-   "record": "Draw yourselves holding hands as dry paper threads, and again as wet paper threads.",
+   "record": "Tell a grown-up what the threads did when they were dry, and what they did when they were wet. The grown-up writes it down.",
    "setup": [
     {
      "art": "A grown-up and a girl standing in a line holding hands tightly, with a sign saying DRY PAPER.",
@@ -967,7 +967,7 @@
      "mins": 3,
      "do": "1. Flick a few drops of water on everyone's hands. 2. Now hold on with fingertips only. 3. Your child gives the line a gentle push.",
      "say": "Water is coming in between us! Now we can only hold with our fingertips. Push gently. What happens?",
-     "kid": "Water came in! Hold with your fingertips. Push. What happens?",
+     "kid": "Hold on with your fingertips only. Feel the push.",
      "ask": [
       {
        "q": "What happened?",
@@ -1005,7 +1005,7 @@
    "title": "My Book of Right Materials",
    "mins": 30,
    "days": 3,
-   "context": "In this project you make a small book. On each page you draw one thing from your home, its job, and its material. On the last page, you draw a silly swap.",
+   "context": "In this project you make a small book about things in your home. Each page shows one thing, its job and its material, so you see that every thing is made of something that suits it. On the last page you make a silly swap.",
    "materials": [
     {
      "item": "2 sheets of paper, folded in half twice and stapled into a small book",
@@ -1038,7 +1038,7 @@
      "what": "Draw a silly swap: a thing made of the wrong material. Show the book to the family."
     }
    ],
-   "record": "A small book with a drawing on each page. Each drawing has the thing, its job, and its material. The last page has a silly swap.",
+   "record": "A small book with a page for each thing. Each page has a picture or the name of the thing, its job, and its material. The last page has a silly swap.",
    "setup": [
     {
      "art": "Two sheets of paper folded into a small book, held by a stapler, with a girl writing her name on the cover.",
@@ -1053,9 +1053,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Fold and staple the book. 2. Your child chooses two things in the kitchen. 3. They draw each one on its own page.",
+     "do": "1. Fold and staple the book. 2. Your child chooses two things in the kitchen. 3. They draw each one on its own page, or write its name.",
      "say": "What does this thing do? What is it made of? Why is that the right material for its job?",
-     "kid": "Draw a thing from the kitchen. What job does it do? What is it made of?",
+     "kid": "Pick a thing from the kitchen. Draw it, or write its name. Then tell its job and its material.",
      "ask": [
       {
        "q": "Why is a tumbler made of steel?",
@@ -1070,17 +1070,17 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child chooses two more things, from the bathroom or the bedroom, and draws them.",
+     "do": "Your child chooses two more things, from the bathroom or the bedroom. They draw them, or write their names.",
      "say": "Look at a bucket and a towel. Why is the bucket plastic and the towel cloth?",
-     "kid": "Draw two more things. Why is each one made of its material?",
+     "kid": "Pick two more things. Draw them, or write their names. Tell the material of each.",
      "wait": "Do this on the next day."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Your child draws a silly swap on the last page, such as a glass pillow or a woollen spoon. 2. They show the whole book to the family.",
-     "say": "Draw something made of the wrong material. What would go wrong?",
-     "kid": "Draw a silly swap. What goes wrong?",
+     "do": "1. Your child makes up a silly swap for the last page, such as a glass pillow or a woollen spoon. They draw it, or say it and you write it. 2. They show the whole book to the family.",
+     "say": "Make up a silly swap: a thing made of the wrong material.",
+     "kid": "Draw your swap, or tell it. Then show your book.",
      "ask": [
       {
        "q": "What would go wrong with a glass pillow?",
@@ -1101,7 +1101,7 @@
    "id": "c1",
    "title": "Make a Spoon That Works",
    "mins": 20,
-   "context": "This is a design challenge. You make a spoon from things at home, without using a metal or plastic spoon. It must carry water without going soft.",
+   "context": "This is a design challenge. You make a spoon from things at home, without using a metal or plastic spoon. It must carry water without going soft. You will find out which materials make a good spoon.",
    "problem": "All the spoons are in the wash! Can you make a spoon that carries five scoops of water and does not go soft?",
    "constraints": [
     "Do not use a metal or plastic spoon.",
@@ -1127,7 +1127,7 @@
     "Use two ice-cream sticks for a stronger handle.",
     "Make a spoon from two materials: a foil scoop on a stick handle."
    ],
-   "your_turn": "Make your spoon and test it with five scoops of water. Did it go soft? Draw your spoon. A grown-up writes the label for each material and its job.",
+   "your_turn": "Make your spoon and test it with five scoops of water. Did it go soft? Take a photo of your spoon, or draw it. A grown-up writes the label for each material and its job.",
    "setup": [
     {
      "art": "A bottle cap taped to an ice-cream stick, a card spoon wrapped in foil, and a folded piece of banana leaf on a table.",
@@ -1143,8 +1143,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem. Show the materials.",
-     "say": "We need a spoon that does not go soft in water. Which of these things would you use? Why?",
-     "kid": "Make a spoon that does not go soft. What will you use? Why?",
+     "say": "All the spoons are in the wash. We need a spoon that does not go soft in water.",
+     "kid": "Look at the things on the table. Pick what you will use.",
      "ask": [
       {
        "q": "Which material will you use, and why?",
@@ -1167,8 +1167,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Your child carries five scoops of water. 2. Look at the spoon after each scoop.",
-     "say": "Let's test it. Five scoops. Is it still stiff?",
-     "kid": "Test it. Five scoops. Did it go soft?",
+     "say": "Let's test it. Carry five scoops and watch if it stays stiff.",
+     "kid": "Carry five scoops of water. Watch your spoon.",
      "ask": [
       {
        "q": "Did your spoon work? Why?",
@@ -1182,9 +1182,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask the question below.",
+     "do": "Ask your child what they would change.",
      "say": "What would you change to make it better?",
-     "kid": "How could you make it better?",
+     "kid": "Tell your grown-up one thing you would change.",
      "parent": "If the spoon failed, ask which part let the water in, and how to cover that part. If it worked, ask which part might fail first if you used it for a week."
     }
    ]

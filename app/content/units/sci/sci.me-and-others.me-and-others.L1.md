@@ -169,29 +169,29 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Parent does:* 1. Read each card. 2. Count who stands. 3. Put the card on the right pile.  
   *Parent says:* Stand up if you have a nose. Look, everyone is standing! Now, stand up if you like karela.  
   *Child mode:* Stand up if it is true for you. Look who is standing with you.
-  - Ask: Who stood up with you for the mango card? (good: Amma and Paati stood up with me.; Only I stood up.)
+  - Ask: Who stood up with you for the karela card? (good: Amma and Paati stood up with me.; Only I stood up.)
 - **s3 (2 min)**  
   *Parent does:* Look at the two piles together and ask the check question.  
   *Parent says:* Look at the 'Everyone' pile. What kind of things are on it?  
-  *Child mode:* Look at the 'Everyone' pile. What is on it?
+  *Child mode:* Look through the 'Everyone' pile, card by card.
   - Ask: What is the same about the cards that made everyone stand? (good: They are about our bodies and what we need, like water and sleep.; Everyone needs them.)
   - Check: Which card made everyone stand up? → **Stand up if you need to drink water**
 ### g2 · Kind Hands: act out a kind thing (15 min)
 - **rules:** Mix the cards and put them face down.; On your turn, a grown-up reads you the front of a card.; Act out one kind thing you could do. You can use words, or just your hands and face.; The others guess what you are doing. Then read the back of the card for one more idea.; Everyone gets a turn. There is no winner: everyone who acts something kind gets a clap.
-- **Printable cards: 12 kindness cards to cut out:** A new girl sits alone at lunch. (back: You could sit with her and ask her name.); A little child drops their ice cream. (back: You could share yours, or give a hug.); A grandparent or a neighbour is carrying a heavy bag of vegetables. (back: You could carry one bag.); A friend falls down and cries. (back: You could help them up and ask, 'Are you hurt?'); It is very hot, and a crow sits on the balcony with an open beak. (back: You could ask a grown-up to put out a bowl of water.); A friend does not like the food you love. (back: You could say, 'That's okay, we like different things.'); A child at school talks in a way the others laugh at. (back: You could stand next to them and say, 'I like how you talk.'); A grown-up at home is tired after work. (back: You could bring them a glass of water.); Your friend cannot find their pencil. (back: You could lend them one of yours.); A child in a wheelchair wants to join your game. (back: You could change the game so everyone can play.); A small child at home is scared of the thunder. (back: You could sit close and hold their hand.); An ant is stuck in a drop of water on the table. (back: You could let the ant climb onto a scrap of paper and put her down somewhere dry.)
+- **Printable cards: 12 kindness cards to cut out:** A new girl sits alone at lunch. (back: You could sit with her and ask her name.); A little child drops their ice cream. (back: You could share yours, or give a hug.); A grandparent or a neighbour is carrying a heavy bag of vegetables. (back: You could carry one bag.); A friend falls down and cries. (back: You could help them up and ask, 'Are you hurt?'); It is very hot, and a crow sits on the balcony with an open beak. (back: You could ask a grown-up to put out a bowl of water.); A friend does not like the food you love. (back: You could say, 'That's okay, we like different things.'); A child at school talks in a different way, and the others laugh. (back: You could stand next to them and say, 'I like how you talk.'); A grown-up at home is tired after work. (back: You could bring them a glass of water.); Your friend cannot find their pencil. (back: You could lend them one of yours.); A child in a wheelchair wants to join your game. (back: You could change the game so everyone can play.); A small child at home is scared of the thunder. (back: You could sit close and hold their hand.); An ant is stuck in a drop of water on the table. (back: You could let the ant climb onto a scrap of paper and put her down somewhere dry.)
 - **s1 (2 min)**  
   *Parent does:* 1. Mix the cards. 2. Read the first card to your child.  
-  *Parent says:* A new girl sits alone at lunch. How do you think she feels? What could you do?  
-  *Child mode:* Listen to the card. How does the person feel?
+  *Parent says:* A new girl sits alone at lunch. How do you think she feels?  
+  *Child mode:* Listen to the card. Picture the new girl.
   - Ask: How do you think the new girl feels? (good: Lonely.; Sad, because she has no friends yet.)
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns. 2. Read each card. 3. The player acts. 4. The others guess, then read the back.  
   *Parent says:* Show us your kind thing. We'll guess what you are doing.  
   *Child mode:* Act out a kind thing. Let the others guess.
 - **s3 (3 min)**  
-  *Parent does:* Pick up the card that says 'A friend does not like the food you love' and ask the check question.  
-  *Parent says:* Here is a tricky one. Your friend does not like the food you love. What would you say?  
-  *Child mode:* Your friend does not like your food. What will you say?
+  *Parent does:* Find the card 'A friend does not like the food you love', read it, and ask the check question.  
+  *Parent says:* Here is a tricky one. Think of a friend who does not like the food you love.  
+  *Child mode:* Think about what you would say to your friend.
   - Check: Your friend says your favourite dosa is not nice. What is the kind thing to say? → **'That's okay. We like different things. What do you like?'**
 
 ## Experiments
@@ -200,17 +200,17 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 - **predict:** Guess first. For each person at home, will they show thumbs up, sideways or down for each food? Why do you think so?
 - **fair test:** Everyone gets a piece of the same size from the same jaggery, the same lime and the same karela. Everyone tastes with eyes closed and shows a thumb at the same moment, so nobody copies anyone else. Everyone sips water between foods.
 - **safety:** A grown-up cuts the lime and the karela. Leave out any food that someone is allergic to or has been told not to eat. Only taste foods a grown-up has given you.
-- **record:** Draw the results table with a thumb in every box: up, sideways or down.
+- **record:** Fill in the results table: up, sideways or down in every box.
 - **results table:** Person | Jaggery | Lime | Karela
 - **s1 (4 min)**  
-  *Parent does:* 1. Get at least 3 people together, the more the better. 2. Draw a table: names down the side, and a picture of jaggery, a lime and a karela across the top. 3. Put each food on its own steel plate.  
+  *Parent does:* 1. Get at least 3 people together, the more the better. 2. Rule a table: names down the side, and the words Jaggery, Lime and Karela across the top. 3. Put each food on its own steel plate.  
   *Parent says:* We are going to find out if everyone likes the same tastes. Here are three foods. Let's make a table for what we find.  
-  *Child mode:* Help draw the table. Draw a jaggery, a lime and a karela at the top.
+  *Child mode:* Help make the table. Write the three food names at the top.
   - Note: You need at least three people. Grandparents, older cousins or a neighbour make the test more interesting, because the ages are different.
 - **s2 (4 min)**  
   *Parent does:* Point to each person and each food. Ask your child to guess which thumb that person will show for that food, and to say why. Write the guesses in pencil on a separate paper.  
   *Parent says:* Will this person like the karela? Will that person like the lime? Thumbs up, sideways or down? Why do you think so?  
-  *Child mode:* Guess. Will each person like each food? Why?
+  *Child mode:* Guess a thumb for each person and each food.
   - Ask: Why do you think so? (good: A grown-up will like karela, because they cook it a lot.; Everyone will like jaggery, because jaggery is sweet.)
 - **s3 (9 min) · grown-up needed**  
   *Parent does:* 1. Hand everyone a piece of jaggery. 2. Everyone closes their eyes, tastes and chews. 3. Count 'one, two, three'. 4. Everyone opens their eyes and shows a thumb at the same time. 5. Everyone sips water. 6. Do the same with the lime, then the karela.  
@@ -218,9 +218,9 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Child mode:* Close your eyes. Taste. On three, show your thumb.
   - Note: Tasting with eyes closed, and showing thumbs together, stops people copying each other. A small slice of raw karela is safe to eat, but it is very bitter, so a child can spit it out. A sip of water clears the mouth between foods.
 - **s4 (4 min)**  
-  *Parent does:* Help your child draw each person's thumb in the right box of the table.  
-  *Parent says:* What did this person show for the karela? Draw their thumb in that box.  
-  *Child mode:* Draw each thumb in the right box.
+  *Parent does:* Help your child fill in each person's thumb in the right box of the table. They can write up, sideways or down, or draw a thumb.  
+  *Parent says:* What did this person show for the karela? Let's put it in that box.  
+  *Child mode:* Fill in each thumb in the right box: write it or draw it.
 - **s5 (4 min)**  
   *Parent does:* Look at the table together. Ask your child what they think, what they saw, and why. Then ask the check question.  
   *Parent says:* Look at our table. Did everyone show the same thumb for the jaggery? And for the karela? Why do you think so?  
@@ -233,15 +233,15 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 - **question:** Can you tell who is talking just from their voice? Is it harder when they whisper?
 - **predict:** Guess first. How many people will you get right when they talk? When they whisper? Why do you think so?
 - **fair test:** Each person says the same words, 'Hello, how are you?', from the same spot across the room. Before you start, a grown-up writes the speakers' names on a paper in a mixed-up order, so the child cannot guess from the order. Everyone speaks in that order, then in a new mixed-up order for whispering.
-- **record:** Draw a face for each person, and a tick or a cross under 'talking' and 'whispering'.
+- **record:** Write each person's name, with a tick or a cross under 'talking' and under 'whispering'.
 - **results table:** Who spoke | Talking: my guess | Whispering: my guess
 - **s1 (2 min)**  
   *Parent does:* 1. Your child sits on a chair with eyes closed or covered. 2. Everyone else stands across the room, quietly.  
-  *Parent says:* Close your eyes. People will say hello. Guess who it is. How many do you think you will get right? Why?  
+  *Parent says:* Close your eyes. People will say hello, one at a time. Guess who it is.  
   *Child mode:* Close your eyes. Guess who says hello.
   - Ask: How many will you get right? Why? (good: All of them, because I know everyone's voice.; Most of them, but two people sound alike.)
 - **s2 (5 min)**  
-  *Parent does:* 1. Say the next name on the paper. 2. That person says 'Hello, how are you?' in a normal voice. 3. Your child guesses. 4. Mark a tick or a cross.  
+  *Parent does:* 1. Point to the next name on the paper, without saying it aloud. 2. That person says 'Hello, how are you?' in a normal voice. 3. Your child guesses. 4. Mark a tick or a cross.  
   *Parent says:* Listen. Who is this?  
   *Child mode:* Listen. Who is talking?
 - **s3 (5 min)**  
@@ -251,7 +251,7 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   - Note: When we talk, a part of the throat called the voice box buzzes, and each person's buzz sounds a little different. When we whisper, the voice box does not buzz. So whispers sound more alike, and are harder to tell apart.
 - **s4 (3 min)**  
   *Parent does:* Count the ticks for talking and for whispering. Ask the question below.  
-  *Parent says:* How many did you get right when they talked? And when they whispered? Why was one harder?  
+  *Parent says:* How many did you get right when they talked? And when they whispered?  
   *Child mode:* Count your ticks. Which was harder?
   - Ask: Why was whispering harder? (good: Because whispers all sound the same.; Because a whisper has no buzz in it.)
   - Note: Whispers are usually harder to tell apart. If your child gets every one right both times, that is a real result too: they know these voices very well. Try again with a voice they hear less often, such as a neighbour.
@@ -259,11 +259,11 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 
 ## Activities
 ### a1 · Mirror Twins: what is the same, what is different? (10 min)
-- **record:** Draw yourself and your mirror partner side by side. Circle one thing that is the same, and one that is different.
+- **record:** Draw yourself and your mirror partner side by side, and circle one thing that is the same and one that is different. Or point to them in the mirror and say them out loud.
 - **s1 (4 min)**  
   *Parent does:* 1. Stand side by side at the mirror. 2. Point to your eyes, then ask your child to point to theirs. 3. Do the same for ears, nose, mouth and hands.  
   *Parent says:* Look in the mirror. How many eyes do I have? How many do you have? Let's find five things that are the same.  
-  *Child mode:* Look in the mirror. Find five things that are the same.
+  *Child mode:* Point to a part you both have. Count how many you find.
   - Ask: What is the same about us? (good: We both have two eyes and one nose.; We both have ten fingers and two ears.)
 - **s2 (3 min)**  
   *Parent does:* Now look closely together for things that are different.  
@@ -272,34 +272,34 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   - Ask: What is different? (good: You are taller.; Your hair is short and mine is long.; You have a mole on your cheek.)
   - Note: Good answers are about the body: height, hair, eyebrows, the shape of ears, a dimple, freckles or moles. Clothes count too, but help your child also find things that are part of them.
 - **s3 (3 min)**  
-  *Parent does:* Help your child draw the two of you. Ask the check question.  
-  *Parent says:* Draw us both. Circle one thing that is the same, and one thing that is different.  
-  *Child mode:* Draw yourself and your partner. Circle one thing that is the same and one thing that is different.
+  *Parent does:* Help your child pick one thing that is the same and one that is different. They draw the two of you and circle them, or point in the mirror and say them. Then ask the check question.  
+  *Parent says:* Pick one thing that is the same and one that is different. Draw us both and circle them, or tell me.  
+  *Child mode:* Draw yourself and your partner. Circle one same thing and one different thing. Or point to them in the mirror and say them.
   - Check: You and a grown-up both have two eyes. What is the word for this? → **Similar**
 ### a2 · All About Me: my name, my face, what I like (15 min)
 - **record:** The 'All About Me' page. Keep it, and make a new one next year to see what has changed.
 - **s1 (5 min)**  
-  *Parent does:* 1. Give your child the paper and crayons. 2. Let them look in a mirror. 3. Ask them to draw their face in the middle of the page.  
-  *Parent says:* Look at your face in the mirror. What colour are your eyes? What is your hair like? Draw yourself.  
-  *Child mode:* Look in the mirror. Draw your face in the middle.
+  *Parent does:* 1. Give your child the paper and crayons. 2. Let them look in a mirror. 3. Ask them to draw their face in the middle of the page, or to stick a photo of themselves there.  
+  *Parent says:* Look at your face in the mirror. What colour are your eyes? What is your hair like? Draw yourself, or we can stick on a photo.  
+  *Child mode:* Look in the mirror. Draw your face in the middle, or stick on a photo.
 - **s2 (4 min)**  
   *Parent does:* 1. Write your child's name at the top. 2. Tell them who chose the name, why, and what it means, if it has a meaning.  
   *Parent says:* I am writing your name at the top. Let me tell you who chose your name, and why. Do you know anyone else with your name?  
   *Child mode:* Your name is at the top. Ask: who chose my name? What does it mean?
   - Note: If you do not know the meaning, tell the story of how the name was chosen. Every child's name has a story.
 - **s3 (4 min)**  
-  *Parent does:* Ask your child to draw three things they like round the face: a food, a game and anything else.  
-  *Parent says:* What is your favourite food? Your favourite game? Draw them round your face.  
-  *Child mode:* Draw three things you like round your face.
+  *Parent does:* Ask your child to show three things they like round the face: a food, a game and anything else. They can draw each one, write its name, or stick on a picture from an old magazine.  
+  *Parent says:* What is your favourite food? Your favourite game? Show them round your face: draw them, write them or stick on pictures.  
+  *Child mode:* Put three things you like round your face.
 - **s4 (2 min)**  
   *Parent does:* Ask the question below.  
-  *Parent says:* Would your best friend draw the same three things? Why or why not?  
-  *Child mode:* Would your friend draw the same things? Why?
+  *Parent says:* Think of your best friend. Would they pick the same three things?  
+  *Child mode:* Think of your best friend. Tell us what they would pick.
   - Ask: Would your friend like the same three things? (good: Maybe one, but not all three.; No, my friend likes cricket and I like drawing.)
 ### a3 · Favourite Fruit Tally: ask the family (15 min)
-- **record:** The tally chart, with a drawing of each fruit and its tally marks.
+- **record:** The tally chart, with each fruit's name and its tally marks.
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw four fruits down the side of the paper: mango, banana, guava and 'other'. 2. Show your child how to make a tally mark, one line for each answer.  
+  *Parent does:* 1. Write four fruit names down the side of the paper: mango, banana, guava and 'other'. 2. Show your child how to make a tally mark, one line for each answer.  
   *Parent says:* We will ask people their favourite fruit. For each answer, you make one line next to that fruit.  
   *Child mode:* Make one line for each answer, next to the right fruit.
 - **s2 (3 min)**  
@@ -316,38 +316,38 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Child mode:* Count the lines. Which fruit has the most?
   - Check: Not everyone chose the same fruit. What does this tell us? → **People like different things**
 ### a4 · Feelings Faces: what is that person feeling? (10 min)
-- **record:** Four faces: happy, sad, scared and angry, with one thing that makes you feel each one.
+- **record:** Four feelings: happy, sad, scared and angry, with one thing that makes you feel each one. Draw the faces if you like.
 - **s1 (4 min)**  
   *Parent does:* Make a happy face, then a sad, a scared and an angry face. Your child guesses each one.  
   *Parent says:* Look at my face. How am I feeling? How can you tell?  
   *Child mode:* Look at the face. What is the feeling?
   - Ask: How can you tell I am sad? (good: Your mouth is turned down.; Your eyes look droopy.)
 - **s2 (4 min)**  
-  *Parent does:* Your child draws four faces and says one thing that makes them feel each way.  
-  *Parent says:* Draw a happy face. What makes you happy? Now draw a scared face. What makes you scared?  
-  *Child mode:* Draw four faces: happy, sad, scared, angry. What makes you feel each one?
+  *Parent does:* Your child makes each of the four faces, in the mirror if they like. They say one thing that makes them feel that way.  
+  *Parent says:* Make a happy face. What makes you happy? Now make a scared face. What makes you scared?  
+  *Child mode:* Make four faces: happy, sad, scared, angry. Say what makes you feel each one.
   - Note: Different things make different people happy or scared. Thunder scares one child and thrills another. Let your child's answers be their own.
 - **s3 (2 min)**  
   *Parent does:* Ask the question below.  
   *Parent says:* If you see your friend with a sad face, what could you do?  
-  *Child mode:* Your friend looks sad. What can you do?
+  *Child mode:* Picture a friend with a sad face. Think of one thing you could do.
   - Ask: What can you do for a sad friend? (good: Ask them what happened.; Sit with them, or give them a hug.)
 
 ## Projects
 ### p1 · The Kindness Chain: one kind thing a day for a week (35 min, 7 days)
-- **record:** The paper chain, with a drawing of the kind thing on each ring.
-- **schedule:** day 1: Cut 7 strips. Do one kind thing. Draw it on a strip and make the first ring. (5 min); day 2: Do a kind thing. Add a ring. (5 min); day 3: Do a kind thing. Add a ring. (5 min); day 4: Do a kind thing for someone outside the family, or for an animal. Add a ring. (5 min); day 5: Do a kind thing. Add a ring. (5 min); day 6: Do a kind thing. Add a ring. (5 min); day 7: Add the last ring. Hang up the chain. Talk about which kind thing felt best. (5 min)
+- **record:** The paper chain, with a few words or a drawing of the kind thing on each ring.
+- **schedule:** day 1: Cut 7 strips. Do one kind thing. Write or draw it on a strip and make the first ring. (5 min); day 2: Do a kind thing. Add a ring. (5 min); day 3: Do a kind thing. Add a ring. (5 min); day 4: Do a kind thing for someone outside the family, or for an animal. Add a ring. (5 min); day 5: Do a kind thing. Add a ring. (5 min); day 6: Do a kind thing. Add a ring. (5 min); day 7: Add the last ring. Hang up the chain. Talk about which kind thing felt best. (5 min)
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Cut 7 paper strips together. 2. Ask your child for one kind thing they did today. 3. They draw it on a strip. 4. Glue the strip into a ring.  
-  *Parent says:* What kind thing did you do today? Draw it on this strip. Then we make it into a ring.  
-  *Child mode:* Draw your kind thing on a strip. Make it into a ring.
+  *Parent does:* 1. Cut 7 paper strips together. 2. Ask your child for one kind thing they did today, or do one together now. 3. They write or draw it on a strip. 4. Glue the strip into a ring.  
+  *Parent says:* What kind thing did you do today? Write or draw it on this strip. Then we make it into a ring.  
+  *Child mode:* Write or draw your kind thing on a strip. Make it into a ring.
   - Note: A grown-up helps with the scissors. Small things count: holding a door, sharing a snack, saying sorry.
 - **s2 (25 min)**  
-  *Parent does:* Each day, your child adds a ring through the last one, with a drawing of the day's kind thing.  
+  *Parent does:* Each day, your child adds a ring through the last one. It has a few words or a drawing of the day's kind thing.  
   *Parent says:* What kind thing did you do today? Add a ring to the chain.  
-  *Child mode:* Draw today's kind thing. Add a ring.
+  *Child mode:* Write or draw today's kind thing. Add a ring.
   - Note: On one day, help your child be kind to someone outside the home, or to an animal: a bowl of water for the birds, or a drawing for the watchman.
-  - Wait: Do one kind thing a day for 5 more days.
+  - Wait: Do one kind thing a day, and add a ring each day, until the chain has 7 rings.
 - **s3 (5 min)**  
   *Parent does:* Hang up the chain. Count the rings together and ask the questions below.  
   *Parent says:* Look how long it is! Which kind thing made someone smile the most?  
@@ -358,8 +358,8 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
 ## Challenges
 ### c1 · A Party Plate for Everyone (20 min)
 - **problem:** Your family is coming over. People like different tastes. Can you plan one plate of snacks so that every person finds at least one thing they like?
-- **your turn:** Draw your party plate. Then show it to someone at home and ask: 'Is there something here you would like?'
-- **constraints:** Use only foods that are in your kitchen or easy to get.; Every person must have at least one thing they like.; Plan it with drawings.
+- **your turn:** Build or draw your party plate. Then show it to someone at home and ask: 'Is there something here you would like?'
+- **constraints:** Use only foods that are in your kitchen or easy to get.; Every person must have at least one thing they like.; Plan it with real snacks on a plate, or with words or drawings.
 - **general:** Put one sweet, one sour and one salty snack on the plate.; Ask everyone first what they like, then choose.; Use the results table from the Same Food, Different Faces taste test to see who liked sweet and who liked sour.
 - **creative:** Make a little name flag for each person and put it next to a snack they like.; Put a sweet and a sour dip side by side, so each person can choose.; Add one new food that nobody has tried, for the brave tasters.
 - **s1 (3 min)**  
@@ -367,13 +367,13 @@ Ammamma smiled. 'That is how it is with people,' she said. 'Find the different t
   *Parent says:* Your family is coming over. Everyone likes different things. How can we make one plate that has something for everyone?  
   *Child mode:* Plan a snack plate. Everyone must find something they like.
 - **s2 (5 min)**  
-  *Parent does:* Your child asks two or three people what snacks they like.  
+  *Parent does:* Your child asks two or three people what snacks they like, and remembers or writes down each answer.  
   *Parent says:* Go and ask two people at home what snack they like best.  
   *Child mode:* Ask people: 'What snack do you like?'
 - **s3 (9 min)**  
-  *Parent does:* Your child draws a big plate and draws the snacks on it. Help with names if needed.  
-  *Parent says:* Draw a big round plate. What will you put on it? Who is each snack for?  
-  *Child mode:* Draw your plate. Draw the snacks. Who is each one for?
+  *Parent does:* Your child puts a little of each chosen snack on a real plate, or draws a big plate with the snacks. Help with names if needed.  
+  *Parent says:* Make your plate. What will you put on it? Who is each snack for?  
+  *Child mode:* Make your plate with the snacks. Say who each one is for.
 - **s4 (3 min)**  
   *Parent does:* Check the plate together, person by person.  
   *Parent says:* Let's check. Is there something here for each person?  

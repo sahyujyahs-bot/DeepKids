@@ -359,7 +359,7 @@
      "what": "Sort eight things by material, guess which will float, test each one in a bucket of water, then fill the katori and test it again."
     }
    ],
-   "record": "Fold a paper in half. Write or draw FLOAT at the top of one side and SINK at the top of the other. Draw each thing on the side where it ended up. Colour all the metal things grey.",
+   "record": "Fold a paper in half. Write FLOAT at the top of one side and SINK at the top of the other. Draw each thing on the side where it ended up, or write its name, or take a photo of the two piles. Mark the metal things with a star.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -456,9 +456,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Point to the metal group, then the wood group, then the plastic group. 2. For each thing, your child says float or sink, and why. 3. Write or draw each guess. A grown-up writes the words.",
-     "say": "Now guess. Will this one float or sink when we put it in the water? Why do you think so?",
-     "kid": "Look at each thing. Will it float or sink? Say why.",
+     "do": "1. Point to the metal group, then the wood group, then the plastic group. 2. For each thing, your child says float or sink, and why. 3. A grown-up writes each guess next to the thing's name on a paper.",
+     "say": "Now guess. Will this one float or sink when we put it in the water?",
+     "kid": "Look at each thing. Will it float or sink?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -510,8 +510,8 @@
      "id": "s5",
      "mins": 2,
      "do": "1. Ask your child for an idea. 2. Do not explain yet.",
-     "say": "The spoon and the katori are both steel. So why did the katori float? What is different about it?",
-     "kid": "The spoon and the katori are both steel. Why did only the katori float?",
+     "say": "The spoon and the katori are both steel. But the katori floated and the spoon sank.",
+     "kid": "Look at the katori and the spoon. Tell your grown-up your idea.",
      "ask": [
       {
        "q": "What is different?",
@@ -544,9 +544,9 @@
     {
      "id": "s7",
      "mins": 3,
-     "do": "1. Say together what you found. 2. Your child draws the results. 3. Ask the check question.",
+     "do": "1. Say together what you found. 2. Your child points to the float pile and the sink pile and tells what they saw. 3. Ask the check question.",
      "say": "The katori floated when it was full of air. It sank when it was full of water. So what kept it up?",
-     "kid": "What kept the katori up? Draw your float side and your sink side.",
+     "kid": "Look at the float pile and the sink pile. Tell what you found.",
      "ask": [
       {
        "q": "What kept the katori up?",
@@ -578,7 +578,7 @@
    "title": "The Yes-or-No Sort: is it metal?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you make two circles on the floor, a yes circle and a no circle. You ask one question about each thing, 'Is it metal?', and put it in the right circle. Then you make up a question of your own.",
+   "context": "In this activity you make two circles on the floor, a yes circle and a no circle. You ask one question about each thing, 'Is it metal?', and put it in the right circle. Then you make up a question of your own. You will find out how one question can split a heap in two.",
    "materials": [
     {
      "item": "two dupattas, two towels or two pieces of string, to make two circles on the floor",
@@ -601,7 +601,7 @@
      "what": "Sort ten things with the question 'Is it metal?', decide about the knife, then sort again with your own question."
     }
    ],
-   "record": "Draw the two circles on paper. Draw the things in the yes circle and the no circle. Write the question at the top.",
+   "record": "Write the question at the top of a paper. Draw or write the things in the yes circle and the no circle, or take a photo of your circles.",
    "setup": [
     {
      "art": "Two circles made of dupattas on a floor, one with a tick card and one with a cross card, and ten kitchen things in a heap beside them.",
@@ -618,14 +618,14 @@
      "mins": 2,
      "do": "1. Lay out two circles on the floor. 2. Put a tick drawn on paper in one and a cross in the other. 3. Put the ten things in a heap.",
      "say": "This circle is for yes, and this one is for no. For each thing, we ask one question: is it metal?",
-     "kid": "Here are two circles. Tick means yes. Cross means no. Ask: is it metal?"
+     "kid": "Tick means yes. Cross means no. Ask: is it metal?"
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "1. Your child picks up each thing and asks 'Is it metal?' 2. They put it in the yes circle or the no circle. 3. Ask how they know.",
-     "say": "Is the key metal? How do you know? Put it in the yes circle or the no circle.",
-     "kid": "Pick a thing. Is it metal? Put it in a circle. Say how you know.",
+     "say": "Is the key metal? Put it in the yes circle or the no circle.",
+     "kid": "Pick a thing. Is it metal? Put it in a circle.",
      "ask": [
       {
        "q": "How do you know it is metal?",
@@ -643,7 +643,7 @@
      "mins": 2,
      "do": "Hold up the knife by its handle. Ask where it should go.",
      "say": "Look at this knife. The blade is steel and the handle is plastic. Which circle does it go in?",
-     "kid": "Look at the knife. Part of it is metal. Part is plastic. Where does it go?",
+     "kid": "Look at the knife. Is it all metal?",
      "ask": [
       {
        "q": "Where does it go?",
@@ -690,7 +690,7 @@
    "title": "Odd One Out Trays",
    "mins": 10,
    "days": 1,
-   "context": "In this activity a grown-up puts four things on a plate. Three are made of the same material and one is different. You find the odd one out and say why. Then you make a plate for the grown-up.",
+   "context": "In this activity a grown-up puts four things on a plate. Three are made of the same material and one is different. You find the odd one out and say why. Then you make a plate for the grown-up. You will practise seeing what is the same and what is different.",
    "materials": [
     {
      "item": "two steel plates",
@@ -712,7 +712,7 @@
      "what": "Find the odd one out on three plates, then make a plate for the grown-up to solve."
     }
    ],
-   "record": "Draw your best odd-one-out plate. Put a ring around the odd one.",
+   "record": "Take a photo of your best odd-one-out plate, or draw it. Put a ring around the odd one if you draw it.",
    "setup": [
     {
      "art": "A steel plate with a steel spoon, a key, a coin and a pencil on it.",
@@ -728,8 +728,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Put a steel spoon, a key, a coin and a pencil on a plate. 2. Ask which one is the odd one out. 3. Do two more plates, for example three plastic things and a wooden spoon, then three cloth things and a paper bag.",
-     "say": "Three of these are made of the same material. One is different. Which one is the odd one out? Why?",
-     "kid": "Look at the four things. Which one is different? Why?",
+     "say": "Three of these are made of the same material. One is different. Which one is the odd one out?",
+     "kid": "Look at the four things. Point to the one that is different.",
      "ask": [
       {
        "q": "Why is the pencil the odd one out?",
@@ -755,7 +755,7 @@
      "mins": 2,
      "do": "Let your child tap each thing with a spoon and squeeze the chips packet. Then ask the check question.",
      "say": "Here is a tricky plate: a steel spoon, a steel tumbler, a key and a shiny chips packet. Which one is the odd one out?",
-     "kid": "Which is the odd one out: spoon, tumbler, key or chips packet?",
+     "kid": "Tap each thing. Squeeze the chips packet. Listen and feel.",
      "check": {
       "t": "mcq",
       "q": "A steel spoon, a steel tumbler, a key and a chips packet. Which one is not mostly metal?",
@@ -782,7 +782,7 @@
      "qty": 3
     },
     {
-     "item": "paper and crayons, to make a picture label for each bag",
+     "item": "paper and crayons, to make a label for each bag",
      "qty": 1
     },
     {
@@ -795,7 +795,7 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Make three picture labels, sort the clean dry waste into the three bags, and keep the corner going all week."
+     "what": "Make three labels, sort the clean dry waste into the three bags, and keep the corner going all week."
     }
    ],
    "record": "Each evening this week, count how many things went into each bag, and make a tally mark on the label. At the end of the week, say which bag filled up fastest.",
@@ -813,9 +813,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Your child draws a newspaper, a bottle and a tin, one on each label. 2. Stick a label on each bag.",
-     "say": "We will make a recycling corner. One bag for paper, one for plastic and one for metal. Draw a picture for each bag.",
-     "kid": "Draw a picture for each bag: paper, plastic and metal."
+     "do": "1. Your child writes PAPER, PLASTIC and METAL, one word on each label. Help with spelling. 2. Stick a label on each bag.",
+     "say": "We will make a recycling corner. One bag for paper, one for plastic and one for metal. Make a label for each bag.",
+     "kid": "Write a label for each bag: paper, plastic and metal. You can add a small picture."
     },
     {
      "id": "s2",
@@ -839,7 +839,7 @@
      "mins": 3,
      "do": "1. Put the corner where everyone can reach it. 2. Ask the check question.",
      "say": "Why do we keep paper, plastic and metal apart?",
-     "kid": "Why do we keep them in different bags?",
+     "kid": "Think about where each bag goes when it is full.",
      "check": {
       "t": "mcq",
       "q": "Why do people sort paper, plastic and metal into different bags?",
@@ -861,7 +861,7 @@
    "title": "The Sorting Relay: metal basket, not-metal basket",
    "mins": 12,
    "players": "2 to 4 people: one calls, and one to three run. With two people, you swap jobs after eight cards.",
-   "context": "This is a running game. The caller reads a thing card. You run and drop the card in the metal basket or the not-metal basket. Then the caller reads the back to check.",
+   "context": "This is a running game. The caller reads a thing card. You run and drop the card in the metal basket or the not-metal basket. Then the caller reads the back to check. You will practise telling metal things from tricky things that only look like metal.",
    "printables": [
     {
      "kind": "cards",
@@ -993,7 +993,7 @@
      "mins": 2,
      "do": "Ask the check question at the end of the game.",
      "say": "The pressure cooker card could go in both baskets. Why?",
-     "kid": "Why can the pressure cooker go in both baskets?",
+     "kid": "Think about what the pressure cooker is made of.",
      "check": {
       "t": "mcq",
       "q": "Why can a pressure cooker go in the metal basket and the not-metal basket?",
@@ -1013,7 +1013,7 @@
    "title": "Move Like Your Material",
    "mins": 10,
    "players": "1 or more players and one caller.",
-   "context": "This is a moving game. The caller names a thing. You say what it is made of, and then move like that material: stiff like steel, floppy like cloth, or crumpled like paper.",
+   "context": "This is a moving game. The caller names a thing. You say what it is made of, and then move like that material: stiff like steel, floppy like cloth, or crumpled like paper. You will feel how hard, soft and bendy materials are different.",
    "printables": [
     {
      "kind": "cards",
@@ -1101,7 +1101,7 @@
      "mins": 2,
      "do": "Ask the check question.",
      "say": "Which material would you move like if I said 'a steel katori'?",
-     "kid": "How would you move for a steel katori?",
+     "kid": "Think about what a steel katori is made of.",
      "check": {
       "t": "mcq",
       "q": "A steel katori is made of the same material as which of these?",
@@ -1123,7 +1123,7 @@
    "title": "My Sorting Book",
    "mins": 30,
    "days": 3,
-   "context": "In this project you make a small book of sorts. Each day you sort a different heap at home and draw your groups on one page.",
+   "context": "In this project you make a small book of sorts. Each day you sort a different heap at home and show your groups on one page. You will see that one heap can be sorted in many ways.",
    "materials": [
     {
      "item": "three sheets of paper, folded in half and stapled or tied with string into a little book",
@@ -1138,17 +1138,17 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Sort the steel vessels and other things in one kitchen drawer or shelf by material. Draw the groups on page 1."
+     "what": "Sort the steel vessels and other things in one kitchen drawer or shelf by material. Write or draw the groups on page 1."
     },
     {
      "day": 2,
      "mins": 10,
-     "what": "Sort your toys with a question you choose. Draw the groups on page 2 and write the question."
+     "what": "Sort your toys with a question you choose. Write the question and the toys in each group on page 2."
     },
     {
      "day": 3,
      "mins": 10,
-     "what": "Sort the clean washing by a new question, such as 'Is it cotton?' or 'Whose is it?' Draw the groups on page 3, then show the book to the family."
+     "what": "Sort the clean washing by a new question, such as 'Is it cotton?' or 'Whose is it?' Draw the groups on page 3, or tell the family about them, then show the book."
     }
    ],
    "record": "The finished three-page book. Each page shows the groups and the question that made them.",
@@ -1166,9 +1166,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. A grown-up helps make the book. 2. Your child sorts one kitchen shelf by material. 3. They draw each group on page 1.",
-     "say": "Today we sort a kitchen shelf by what things are made of. Then draw your groups.",
-     "kid": "Sort the shelf by material. Draw each group on page 1.",
+     "do": "1. A grown-up helps make the book. 2. Your child sorts one kitchen shelf by material. 3. They write or draw each group on page 1.",
+     "say": "Today we sort a kitchen shelf by what things are made of. Then show your groups on page 1.",
+     "kid": "Sort the shelf by material. Write or draw each group on page 1.",
      "ask": [
       {
        "q": "Which group was biggest?",
@@ -1182,9 +1182,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Your child picks a question for the toys. 2. They sort the toys and draw the groups on page 2.",
+     "do": "1. Your child picks a question for the toys. 2. They sort the toys on the floor. A grown-up helps write the question and the names of the toys in each group on page 2.",
      "say": "Today you choose the question. How will you sort your toys?",
-     "kid": "Choose a question. Sort your toys. Draw the groups.",
+     "kid": "Choose a question. Sort your toys. Write your question on page 2.",
      "wait": "Day 2",
      "ask": [
       {
@@ -1200,9 +1200,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Sort the clean washing with a new question. 2. Draw page 3. 3. Your child shows the book and reads each question.",
+     "do": "1. Sort the clean washing with a new question. 2. Your child draws the groups on page 3, or tells you about them. 3. Your child shows the book and reads each question.",
      "say": "Today we sort the washing. Then show your book to everyone.",
-     "kid": "Sort the washing. Draw page 3. Show your book.",
+     "kid": "Sort the washing. Draw the groups on page 3, or tell your grown-up about them. Show your book.",
      "wait": "Day 3",
      "check": {
       "t": "mcq",
@@ -1224,7 +1224,7 @@
    "id": "c1",
    "title": "A Raft for a Small Toy",
    "mins": 20,
-   "context": "This is a making challenge. You use what you found in the Sink or Float Sort to build a raft that carries a small toy on a bucket of water.",
+   "context": "This is a making challenge. You use what you found in the Sink or Float Sort to build a raft that carries a small toy on a bucket of water. You will find out how to use what floats to carry a load.",
    "problem": "A small toy needs to cross a bucket of water without getting wet. Can you build a raft from things that float?",
    "constraints": [
     "Use only things from home.",
@@ -1249,7 +1249,7 @@
     "Use a steel katori as a boat. It floated in the Sink or Float Sort.",
     "Make the raft wider, so it does not tip over."
    ],
-   "your_turn": "Build your raft and test it with the toy. If it tips or sinks, change one thing and try again. Draw your best raft, and colour each material in a different colour.",
+   "your_turn": "Build your raft and test it with the toy. If it tips or sinks, change one thing and try again. Take a photo of your best raft, or draw it. Tell your grown-up which material held it up best.",
    "setup": [
     {
      "art": "Ice-cream sticks taped side by side into a small square raft, with bottle caps taped under the corners.",
@@ -1265,8 +1265,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Read the problem to your child. 2. Look back at the float pile from the Sink or Float Sort.",
-     "say": "The toy wants to cross the water and stay dry. Which things floated in the Sink or Float Sort? Which would make a good raft?",
-     "kid": "Which things floated in the Sink or Float Sort? Which could make a raft?",
+     "say": "The toy wants to cross the water and stay dry. Look at the things that floated in the Sink or Float Sort. Which would make a good raft?",
+     "kid": "Look at your float pile. Pick the things for your raft.",
      "ask": [
       {
        "q": "Which things will you use? Why?",
@@ -1308,7 +1308,7 @@
      "mins": 2,
      "do": "Ask the check question.",
      "say": "Why should we not use coins to build a raft?",
-     "kid": "Why not build a raft from coins?",
+     "kid": "Think about what sank in the Sink or Float Sort.",
      "check": {
       "t": "mcq",
       "q": "Why are ice-cream sticks better than coins for a raft?",

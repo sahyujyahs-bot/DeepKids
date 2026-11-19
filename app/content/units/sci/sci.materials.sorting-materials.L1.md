@@ -194,7 +194,7 @@ She smiled and fell asleep.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question at the end of the game.  
   *Parent says:* The pressure cooker card could go in both baskets. Why?  
-  *Child mode:* Why can the pressure cooker go in both baskets?
+  *Child mode:* Think about what the pressure cooker is made of.
   - Check: Why can a pressure cooker go in the metal basket and the not-metal basket? → **It is made of metal and plastic and rubber**
 ### g2 · Move Like Your Material (10 min)
 - **rules:** The caller reads a thing card out loud.; The players shout what it is made of.; Then the caller reads the move on the back, and everyone moves that way until the caller claps.; After all eight cards, the players make up a move for a new material, like clay or wool.
@@ -212,7 +212,7 @@ She smiled and fell asleep.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* Which material would you move like if I said 'a steel katori'?  
-  *Child mode:* How would you move for a steel katori?
+  *Child mode:* Think about what a steel katori is made of.
   - Check: A steel katori is made of the same material as which of these? → **A steel spoon**
 
 ## Experiments
@@ -220,7 +220,7 @@ She smiled and fell asleep.
 - **question:** If we sort things by material, do all the things in one group float or sink together?
 - **predict:** Look at the metal group and the wood group. Which things will float, and which will sink? Why do you think so?
 - **fair test:** Every thing goes into the same bucket of water, one at a time. Each one is put in gently, right way up, and we watch it for the same time: a count of five.
-- **record:** Fold a paper in half. Write or draw FLOAT at the top of one side and SINK at the top of the other. Draw each thing on the side where it ended up. Colour all the metal things grey.
+- **record:** Fold a paper in half. Write FLOAT at the top of one side and SINK at the top of the other. Draw each thing on the side where it ended up, or write its name, or take a photo of the two piles. Mark the metal things with a star.
 - **results table:** Thing | Material | My guess: float or sink? | What happened
 - **s1 (3 min)**  
   *Parent does:* 1. Spread the towel on the floor and put the bucket on it. 2. Put the eight things on the towel. 3. Your child sorts them into material groups.  
@@ -229,9 +229,9 @@ She smiled and fell asleep.
   - Ask: How do you know the katori is metal? (good: It is shiny.; It rings when I tap it.; It is steel, like the spoon.)
   - Note: Expect a metal group of four, a wood group of two and a plastic group of two. If your child is not sure, tap each thing with a spoon and listen.
 - **s2 (3 min)**  
-  *Parent does:* 1. Point to the metal group, then the wood group, then the plastic group. 2. For each thing, your child says float or sink, and why. 3. Write or draw each guess. A grown-up writes the words.  
-  *Parent says:* Now guess. Will this one float or sink when we put it in the water? Why do you think so?  
-  *Child mode:* Look at each thing. Will it float or sink? Say why.
+  *Parent does:* 1. Point to the metal group, then the wood group, then the plastic group. 2. For each thing, your child says float or sink, and why. 3. A grown-up writes each guess next to the thing's name on a paper.  
+  *Parent says:* Now guess. Will this one float or sink when we put it in the water?  
+  *Child mode:* Look at each thing. Will it float or sink?
   - Ask: Why do you think so? (good: Metal is heavy, so it will sink.; Wood floats, like a boat.; The katori looks like a boat.)
   - Note: Wait for a reason with every guess. Many children say 'all metal sinks'. Don't correct this. The test in the water will show them.
 - **s3 (5 min)**  
@@ -248,8 +248,8 @@ She smiled and fell asleep.
   - Note: This is the surprise of the test. The metal group did not stay together. Let your child say it in their own words.
 - **s5 (2 min)**  
   *Parent does:* 1. Ask your child for an idea. 2. Do not explain yet.  
-  *Parent says:* The spoon and the katori are both steel. So why did the katori float? What is different about it?  
-  *Child mode:* The spoon and the katori are both steel. Why did only the katori float?
+  *Parent says:* The spoon and the katori are both steel. But the katori floated and the spoon sank.  
+  *Child mode:* Look at the katori and the spoon. Tell your grown-up your idea.
   - Ask: What is different? (good: The katori is big and round.; It has air inside.; It is shaped like a boat.)
 - **s6 (2 min)**  
   *Parent does:* 1. Lower the katori onto the water again, right way up. 2. Your child pours water into the katori from the tumbler until it is full.  
@@ -258,30 +258,30 @@ She smiled and fell asleep.
   - Ask: What happened? (good: It sank!; It filled up and went down.; It went to the bottom like the spoon.)
   - Note: As the katori fills, it sinks lower, and then it tips and goes down. The air inside it has been pushed out by the water.
 - **s7 (3 min)**  
-  *Parent does:* 1. Say together what you found. 2. Your child draws the results. 3. Ask the check question.  
+  *Parent does:* 1. Say together what you found. 2. Your child points to the float pile and the sink pile and tells what they saw. 3. Ask the check question.  
   *Parent says:* The katori floated when it was full of air. It sank when it was full of water. So what kept it up?  
-  *Child mode:* What kept the katori up? Draw your float side and your sink side.
+  *Child mode:* Look at the float pile and the sink pile. Tell what you found.
   - Ask: What kept the katori up? (good: The air inside it.; Its shape held air.; The water pushed it up, because it had air.)
   - Check: The steel spoon sank, but the steel katori floated. Why? → **The katori's shape held air inside it**
 
 ## Activities
 ### a1 · The Yes-or-No Sort: is it metal? (12 min)
 - **safety:** Only the grown-up holds the knife, and only by the handle.
-- **record:** Draw the two circles on paper. Draw the things in the yes circle and the no circle. Write the question at the top.
+- **record:** Write the question at the top of a paper. Draw or write the things in the yes circle and the no circle, or take a photo of your circles.
 - **s1 (2 min)**  
   *Parent does:* 1. Lay out two circles on the floor. 2. Put a tick drawn on paper in one and a cross in the other. 3. Put the ten things in a heap.  
   *Parent says:* This circle is for yes, and this one is for no. For each thing, we ask one question: is it metal?  
-  *Child mode:* Here are two circles. Tick means yes. Cross means no. Ask: is it metal?
+  *Child mode:* Tick means yes. Cross means no. Ask: is it metal?
 - **s2 (5 min)**  
   *Parent does:* 1. Your child picks up each thing and asks 'Is it metal?' 2. They put it in the yes circle or the no circle. 3. Ask how they know.  
-  *Parent says:* Is the key metal? How do you know? Put it in the yes circle or the no circle.  
-  *Child mode:* Pick a thing. Is it metal? Put it in a circle. Say how you know.
+  *Parent says:* Is the key metal? Put it in the yes circle or the no circle.  
+  *Child mode:* Pick a thing. Is it metal? Put it in a circle.
   - Ask: How do you know it is metal? (good: It is shiny.; It feels cold.; It goes ting when I tap it.)
   - Note: If your child is not sure, try three tests: tap it with a spoon, hold it to feel if it is cold, and lift it to feel the weight.
 - **s3 (2 min)**  
   *Parent does:* Hold up the knife by its handle. Ask where it should go.  
   *Parent says:* Look at this knife. The blade is steel and the handle is plastic. Which circle does it go in?  
-  *Child mode:* Look at the knife. Part of it is metal. Part is plastic. Where does it go?
+  *Child mode:* Look at the knife. Is it all metal?
   - Ask: Where does it go? (good: In both!; Between the circles.; Half in yes and half in no.)
   - Note: Lay the knife across the edge of both circles, so the blade is in yes and the handle is in no. Some things are made of two materials.
 - **s4 (3 min)**  
@@ -291,11 +291,11 @@ She smiled and fell asleep.
   - Ask: What new groups did your question make? (good: Soft things: the hanky and the paper bag.; Plastic things: the comb and the cap.)
   - Check: You ask 'Is it metal?' about a coin, a pencil and a key. Which one goes in the no circle? → **The pencil**
 ### a2 · Odd One Out Trays (10 min)
-- **record:** Draw your best odd-one-out plate. Put a ring around the odd one.
+- **record:** Take a photo of your best odd-one-out plate, or draw it. Put a ring around the odd one if you draw it.
 - **s1 (4 min)**  
   *Parent does:* 1. Put a steel spoon, a key, a coin and a pencil on a plate. 2. Ask which one is the odd one out. 3. Do two more plates, for example three plastic things and a wooden spoon, then three cloth things and a paper bag.  
-  *Parent says:* Three of these are made of the same material. One is different. Which one is the odd one out? Why?  
-  *Child mode:* Look at the four things. Which one is different? Why?
+  *Parent says:* Three of these are made of the same material. One is different. Which one is the odd one out?  
+  *Child mode:* Look at the four things. Point to the one that is different.
   - Ask: Why is the pencil the odd one out? (good: It is wood, and the others are metal.; It is not shiny.; It does not ring.)
   - Note: Your child may choose a different odd one out for a different reason, such as 'the spoon is the longest'. Say that is a good sort too, then ask which one is the odd one out by material.
 - **s2 (4 min)**  
@@ -306,15 +306,15 @@ She smiled and fell asleep.
 - **s3 (2 min)**  
   *Parent does:* Let your child tap each thing with a spoon and squeeze the chips packet. Then ask the check question.  
   *Parent says:* Here is a tricky plate: a steel spoon, a steel tumbler, a key and a shiny chips packet. Which one is the odd one out?  
-  *Child mode:* Which is the odd one out: spoon, tumbler, key or chips packet?
+  *Child mode:* Tap each thing. Squeeze the chips packet. Listen and feel.
   - Check: A steel spoon, a steel tumbler, a key and a chips packet. Which one is not mostly metal? → **The chips packet**
 ### a3 · The Recycling Corner: sort what we throw away (12 min)
 - **safety:** A grown-up checks that tins have no sharp edges before your child touches them.
 - **record:** Each evening this week, count how many things went into each bag, and make a tally mark on the label. At the end of the week, say which bag filled up fastest.
 - **s1 (3 min)**  
-  *Parent does:* 1. Your child draws a newspaper, a bottle and a tin, one on each label. 2. Stick a label on each bag.  
-  *Parent says:* We will make a recycling corner. One bag for paper, one for plastic and one for metal. Draw a picture for each bag.  
-  *Child mode:* Draw a picture for each bag: paper, plastic and metal.
+  *Parent does:* 1. Your child writes PAPER, PLASTIC and METAL, one word on each label. Help with spelling. 2. Stick a label on each bag.  
+  *Parent says:* We will make a recycling corner. One bag for paper, one for plastic and one for metal. Make a label for each bag.  
+  *Child mode:* Write a label for each bag: paper, plastic and metal. You can add a small picture.
 - **s2 (6 min)**  
   *Parent does:* 1. Put the clean dry things in a heap. 2. Your child sorts each one into a bag. 3. Ask how they know.  
   *Parent says:* Pick a thing. What is it made of? Which bag does it go in?  
@@ -324,42 +324,42 @@ She smiled and fell asleep.
 - **s3 (3 min)**  
   *Parent does:* 1. Put the corner where everyone can reach it. 2. Ask the check question.  
   *Parent says:* Why do we keep paper, plastic and metal apart?  
-  *Child mode:* Why do we keep them in different bags?
+  *Child mode:* Think about where each bag goes when it is full.
   - Check: Why do people sort paper, plastic and metal into different bags? → **Each one is made into new things in a different way**
 
 ## Projects
 ### p1 · My Sorting Book (30 min, 3 days)
 - **record:** The finished three-page book. Each page shows the groups and the question that made them.
-- **schedule:** day 1: Sort the steel vessels and other things in one kitchen drawer or shelf by material. Draw the groups on page 1. (10 min); day 2: Sort your toys with a question you choose. Draw the groups on page 2 and write the question. (10 min); day 3: Sort the clean washing by a new question, such as 'Is it cotton?' or 'Whose is it?' Draw the groups on page 3, then show the book to the family. (10 min)
+- **schedule:** day 1: Sort the steel vessels and other things in one kitchen drawer or shelf by material. Write or draw the groups on page 1. (10 min); day 2: Sort your toys with a question you choose. Write the question and the toys in each group on page 2. (10 min); day 3: Sort the clean washing by a new question, such as 'Is it cotton?' or 'Whose is it?' Draw the groups on page 3, or tell the family about them, then show the book. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. A grown-up helps make the book. 2. Your child sorts one kitchen shelf by material. 3. They draw each group on page 1.  
-  *Parent says:* Today we sort a kitchen shelf by what things are made of. Then draw your groups.  
-  *Child mode:* Sort the shelf by material. Draw each group on page 1.
+  *Parent does:* 1. A grown-up helps make the book. 2. Your child sorts one kitchen shelf by material. 3. They write or draw each group on page 1.  
+  *Parent says:* Today we sort a kitchen shelf by what things are made of. Then show your groups on page 1.  
+  *Child mode:* Sort the shelf by material. Write or draw each group on page 1.
   - Ask: Which group was biggest? (good: Steel.; Plastic. We have many dabbas.)
 - **s2 (10 min)**  
-  *Parent does:* 1. Your child picks a question for the toys. 2. They sort the toys and draw the groups on page 2.  
+  *Parent does:* 1. Your child picks a question for the toys. 2. They sort the toys on the floor. A grown-up helps write the question and the names of the toys in each group on page 2.  
   *Parent says:* Today you choose the question. How will you sort your toys?  
-  *Child mode:* Choose a question. Sort your toys. Draw the groups.
+  *Child mode:* Choose a question. Sort your toys. Write your question on page 2.
   - Ask: What question did you choose? (good: Is it soft?; Does it have wheels?; Is it plastic?)
   - Wait: Day 2
 - **s3 (10 min)**  
-  *Parent does:* 1. Sort the clean washing with a new question. 2. Draw page 3. 3. Your child shows the book and reads each question.  
+  *Parent does:* 1. Sort the clean washing with a new question. 2. Your child draws the groups on page 3, or tells you about them. 3. Your child shows the book and reads each question.  
   *Parent says:* Today we sort the washing. Then show your book to everyone.  
-  *Child mode:* Sort the washing. Draw page 3. Show your book.
+  *Child mode:* Sort the washing. Draw the groups on page 3, or tell your grown-up about them. Show your book.
   - Check: You sort your toys by the question 'Is it soft?' Where does a cloth rabbit go? → **In the soft group**
   - Wait: Day 3
 
 ## Challenges
 ### c1 · A Raft for a Small Toy (20 min)
 - **problem:** A small toy needs to cross a bucket of water without getting wet. Can you build a raft from things that float?
-- **your turn:** Build your raft and test it with the toy. If it tips or sinks, change one thing and try again. Draw your best raft, and colour each material in a different colour.
+- **your turn:** Build your raft and test it with the toy. If it tips or sinks, change one thing and try again. Take a photo of your best raft, or draw it. Tell your grown-up which material held it up best.
 - **constraints:** Use only things from home.; The raft must float with the toy on it for a count of twenty.; The toy must stay dry.
 - **general:** Tape ice-cream sticks side by side into a flat raft.; Tape plastic bottle caps under the corners, so the raft sits higher.; In many parts of India, such as Assam, people tie bamboo poles together to make rafts.
 - **creative:** Lay an empty plastic bottle on its side, and tape the sticks on top of it.; Use a steel katori as a boat. It floated in the Sink or Float Sort.; Make the raft wider, so it does not tip over.
 - **s1 (3 min)**  
   *Parent does:* 1. Read the problem to your child. 2. Look back at the float pile from the Sink or Float Sort.  
-  *Parent says:* The toy wants to cross the water and stay dry. Which things floated in the Sink or Float Sort? Which would make a good raft?  
-  *Child mode:* Which things floated in the Sink or Float Sort? Which could make a raft?
+  *Parent says:* The toy wants to cross the water and stay dry. Look at the things that floated in the Sink or Float Sort. Which would make a good raft?  
+  *Child mode:* Look at your float pile. Pick the things for your raft.
   - Ask: Which things will you use? Why? (good: Ice-cream sticks, because wood floats.; Bottle caps, because they floated.; Not the coin, because it sank.)
 - **s2 (10 min)**  
   *Parent does:* 1. Your child chooses floaters and lays them out. 2. Help tape them together.  
@@ -374,7 +374,7 @@ She smiled and fell asleep.
 - **s4 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* Why should we not use coins to build a raft?  
-  *Child mode:* Why not build a raft from coins?
+  *Child mode:* Think about what sank in the Sink or Float Sort.
   - Check: Why are ice-cream sticks better than coins for a raft? → **Wood floated in the Sink or Float Sort, and the coin sank**
 
 ## Worksheets

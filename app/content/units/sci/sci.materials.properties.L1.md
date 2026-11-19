@@ -167,17 +167,17 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
 - **s1 (2 min)**  
   *Parent does:* 1. Clear a space. 2. Mix the cards. 3. Read the rules to your child.  
   *Parent says:* I will read a word. You run and touch something that is like that word. Then tell me how you know.  
-  *Child mode:* Listen to the word. Run and touch something like it. Say how you know.
+  *Child mode:* Wait for the word, then run.
 - **s2 (6 min)**  
   *Parent does:* Read the cards one at a time. Your child runs, touches and explains.  
-  *Parent says:* Shiny! Run and touch something shiny. How do you know it is shiny?  
-  *Child mode:* Run and touch it. How do you know?
-  - Ask: How do you know the tumbler is shiny? (good: I can see light on it.; I can see my face in it.)
+  *Parent says:* Shiny! Run and touch something shiny.  
+  *Child mode:* Run to something shiny and touch it.
+  - Ask: How do you know it is shiny? (good: I can see light on it.; I can see my face in it.)
   - Note: Ask for the test each time: pressing for soft, stroking for rough, bending gently for bendy, looking for shiny.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question. Then your child is the caller.  
   *Parent says:* Now you be the caller, and I will run.  
-  *Child mode:* Now you read the cards. A grown-up runs.
+  *Child mode:* Read the next card out loud.
   - Check: Which test tells you if a thing is rough? → **Stroke it with your finger**
 ### g2 · Guess My Thing: clues from properties (12 min)
 - **rules:** Mix the cards and put them face down.; The first player takes a card and keeps it secret. A grown-up whispers it to a player who cannot read yet.; The player gives one clue at a time, using only property words: hard, soft, rough, smooth, bendy, stiff, shiny or dull.; The others guess after each clue. Whoever guesses right gets a point and takes the next card. If nobody guesses after all the clues, show the card and let the next player take a card.; After the property clues, a player may add one more clue with a real thing: 'It is as rough as the doormat.'; Play until every player has had two turns, or the cards run out. The most points wins, or just count the family's total.
@@ -189,14 +189,14 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
   - Note: The first round is the coconut shell. Give the clues slowly.
 - **s2 (8 min)**  
   *Parent does:* Take turns. Your child picks a card and gives clues. Help with words if they get stuck.  
-  *Parent says:* Your turn. Look at your secret card. Give me one clue. Is it hard or soft?  
-  *Child mode:* Look at your card. Give one clue. Is it hard or soft?
+  *Parent says:* Your turn. Pick a card and keep it secret. Give me your first clue.  
+  *Child mode:* Look at your card. Give one clue at a time.
   - Ask: Which clue helped you most? (good: Shiny, because only a few things are shiny.; Rough, because it stopped me guessing the tumbler.)
   - Note: Some cards surprise children. Water is soft and smooth, and shiny when still. Foil is shiny but very bendy.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Here are three clues: hard, smooth and shiny. Which thing could it be?  
-  *Child mode:* The clues are hard, smooth and shiny. Which thing could it be?
+  *Parent says:* Here are three clues: hard, smooth and shiny.  
+  *Child mode:* Think of things at home that are hard, smooth and shiny.
   - Check: The clues are: hard, smooth, shiny. Which thing could it be? → **A steel plate**
 
 ## Experiments
@@ -204,7 +204,7 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
 - **question:** Which of these things will throw a bright spot of torch light onto the wall? What is the same about the ones that do?
 - **predict:** Guess first. For each thing, say: shiny or dull? Will it make a bright spot on the wall? Why do you think so?
 - **fair test:** Each thing gets the same torch, held at the same slant, about one ruler away. The room stays equally dim. We touch each thing in the same way, with one finger.
-- **record:** Draw each thing. Draw a little sun next to the ones that made a bright spot. Draw a wavy line next to the ones that felt rough.
+- **record:** Fill in the table. Put a tick by each thing that made a bright spot, and write smooth or rough. A grown-up can write for you. You can also take a photo of each spot.
 - **results table:** Thing | My guess: shiny or dull? | Bright spot on the wall? | Smooth or rough to touch?
 - **s1 (3 min)**  
   *Parent does:* 1. Put the steel plate in the fridge 10 minutes before you start. 2. Draw the curtains or switch off the lights. 3. Shine the torch on a pale wall.  
@@ -213,20 +213,20 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
   - Note: A dim room makes the spots easy to see. Evening, with the lights off, works well. Keep the steel plate in the fridge until step 4.
 - **s2 (4 min)**  
   *Parent does:* 1. Hold up each thing, one at a time. The steel plate stays in the fridge, so just say its name. You will show it in step 4. 2. Ask your child to guess. 3. Write their guesses in the table.  
-  *Parent says:* Here are a mirror, foil, newspaper, a hanky, a wooden spoon, a steel plate and a bowl of water. For each one, is it shiny or dull? Will it make a bright spot on the wall? Why do you think so?  
-  *Child mode:* Look at each thing. Shiny or dull? Will it make a bright spot? Why?
+  *Parent says:* Here are a mirror, foil, newspaper, a hanky, a wooden spoon, a steel plate and a bowl of water. For each one, is it shiny or dull? Will it make a bright spot on the wall?  
+  *Child mode:* Look at each thing. Guess which ones will make a bright spot.
   - Ask: Why do you think so? (good: The mirror will make a spot, because I can see my face in it.; The hanky won't, because cloth doesn't shine.; The water won't, because water is not shiny.)
   - Note: Any guess is fine. Don't say what will happen. Many children guess that water will not make a spot.
 - **s3 (6 min)**  
   *Parent does:* 1. Lay the mirror, foil, newspaper, hanky and wooden spoon flat on the table, one at a time, near the wall. 2. Hold the torch at a slant, about one ruler away. 3. Look for a bright spot on the wall or ceiling. 4. Your child strokes each thing with one finger. The steel plate waits for the next step.  
-  *Parent says:* Let's shine the torch on the mirror. Look at the wall. Do you see a bright spot? Now touch the mirror. Is it smooth or rough?  
-  *Child mode:* Look at the wall. Do you see a bright spot? Now touch the thing. Smooth or rough?
+  *Parent says:* Let's shine the torch on the mirror. Look at the wall. Do you see a bright spot? Now touch the mirror. Is it smooth or rough? Do the same for each thing.  
+  *Child mode:* Watch the wall for a bright spot. Then stroke the thing with one finger.
   - Ask: Which things made a bright spot? (good: The mirror and the foil.; The newspaper and the hanky made no spot.)
   - Note: Tilt each thing a little, or move the torch, until you find the spot. The mirror gives the brightest spot. Newspaper feels smooth to a finger, but it makes no spot. It is made of tiny fibres. They are too small to feel, but they are big enough to send the light off in many directions. A mirror is smoother still.
 - **s4 (4 min)**  
   *Parent does:* 1. Take the cold steel plate from the fridge. 2. Shine the torch on it and find the spot. Your child strokes the plate with one finger. 3. Your child breathes 'haaa' onto the plate. 4. Watch the spot, then watch the plate for a few seconds.  
-  *Parent says:* Here is the cold steel plate. See its bright spot? Now breathe on the plate, 'haaa'. What happens to the spot? Keep watching.  
-  *Child mode:* Breathe 'haaa' on the cold plate. Watch the spot on the wall. Keep watching.
+  *Parent says:* Here is the cold steel plate. See its bright spot? Now breathe on the plate, 'haaa'. Keep watching the spot.  
+  *Child mode:* Breathe 'haaa' on the cold plate. Watch the spot on the wall.
   - Ask: What happened? (good: The plate went misty and the spot went faint.; Then the mist went away and the spot came back.)
   - Note: A cold plate mists up well and clears in a few seconds. The mist is tiny drops of water from the breath. In humid weather the cold plate may mist by itself when you take it out. Wipe it dry with a cloth, then shine the torch. A scratched plate gives a fainter spot than the mirror, which is fine. After the breath, wait, and the shine comes back as the plate warms.
 - **s5 (3 min)**  
@@ -238,7 +238,7 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
 - **s6 (2 min)**  
   *Parent does:* Ask your child what was the same about each thing that made a spot. Then ask the check question.  
   *Parent says:* Think about the mirror, the cold plate and the still water. What was the same about each thing that made a bright spot?  
-  *Child mode:* What was the same about all the things that made a spot?
+  *Child mode:* Look at the things that made a spot. Feel them again.
   - Ask: What was the same? (good: They were all very smooth.; When they got bumpy, like with mist or ripples, the spot went.)
   - Note: Let your child say their own idea first. Then say the explanation: smooth surfaces reflect light back in one direction.
   - Check: The cold plate went dull when you breathed on it. Why? → **Tiny drops of water made its surface bumpy**
@@ -246,22 +246,22 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
 - **question:** Paper is bendy. Can we make the same paper stiff, just by folding it?
 - **predict:** Guess first. How many coins will a flat paper bridge hold? How many will a zigzag bridge hold? Why do you think so?
 - **fair test:** Both bridges use the same kind of paper, the same size. The book piles stay the same distance apart. We use the same coins, and put them gently in the middle each time.
-- **record:** Draw the flat bridge and the zigzag bridge. Under each, write or draw how many coins it held.
+- **record:** Write how many coins each bridge held. You can also take a photo of each bridge.
 - **results table:** Bridge | My guess: how many coins? | Coins it held before it sagged
 - **s1 (3 min)**  
   *Parent does:* 1. Make two piles of books, the same height, a hand-width apart. 2. Lay one flat sheet across them. 3. Ask your child to guess.  
-  *Parent says:* This paper is our bridge. How many coins will it hold before it sags down? Why do you think so?  
-  *Child mode:* Look at the paper bridge. How many coins will it hold? Why?
+  *Parent says:* This paper is our bridge. How many coins will it hold before it sags down?  
+  *Child mode:* Look at the paper bridge. Guess how many coins it will hold.
   - Ask: Why do you think so? (good: Not many, because paper is bendy.; Lots, because coins are small.)
 - **s2 (3 min)**  
   *Parent does:* Your child puts coins gently on the middle of the flat bridge, one at a time. Count until it sags down.  
   *Parent says:* Put one coin in the middle, gently. And another. Count with me. When does it sag down?  
-  *Child mode:* Put coins in the middle, one at a time. Count. When does it sag?
+  *Child mode:* Add coins one at a time and count them. Stop when the paper sags.
   - Note: A flat sheet usually sags under one or two coins, or even under none.
 - **s3 (4 min)**  
   *Parent does:* 1. Fold the second sheet back and forth into a zigzag, like a hand fan. Make the folds about two fingers wide. 2. Lay it across the books, with the folds running from one pile to the other.  
   *Parent says:* Now we fold this paper into a zigzag, back and forth. It is the same paper. How many coins will it hold now? Why?  
-  *Child mode:* Fold the paper back and forth, like a fan. Guess again. How many coins now?
+  *Child mode:* Fold the paper back and forth, like a fan. Guess how many coins it will hold.
   - Note: Help with the folds. The folds must go from one pile of books to the other, not across.
 - **s4 (3 min)**  
   *Parent does:* Your child puts coins on the zigzag bridge, gently and spread along the middle, one at a time, and counts.  
@@ -270,52 +270,52 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
   - Note: A zigzag of notebook paper often holds 10 coins or more. If the zigzag tips over, hold its ends flat on the books with two more books.
 - **s5 (2 min)**  
   *Parent does:* Ask your child what changed, and then the check question.  
-  *Parent says:* We used the same paper. What was different? Why do you think the zigzag held more?  
-  *Child mode:* Same paper. What was different? Why did the zigzag hold more?
+  *Parent says:* We used the same paper. Look at the two bridges. What was different?  
+  *Child mode:* Look at the flat bridge and the zigzag bridge. How many coins did each hold?
   - Ask: What was different? (good: The shape. The folds made it stiff.; It stood up in waves, so it did not bend.)
   - Check: Why did the zigzag bridge hold more coins? → **Its folds made the paper stiff**
 
 ## Activities
 ### a1 · The Touch Hunt: find a hard, soft, rough and smooth thing (10 min)
-- **record:** Draw one hard thing, one soft thing, one rough thing and one smooth thing.
+- **record:** Take a photo of one hard thing, one soft thing, one rough thing and one smooth thing. Or tell a grown-up why each one fits.
 - **s1 (2 min)**  
   *Parent does:* 1. Write HARD, SOFT, ROUGH and SMOOTH on the four slips, and lay them on the floor. 2. Show your child how to press with a thumb and how to stroke with a finger.  
   *Parent says:* We are hunting for things. Press with your thumb. Does it squash? Then it is soft. Stroke it with your finger. Can you feel bumps? Then it is rough.  
-  *Child mode:* Press with your thumb. Does it squash? Stroke with your finger. Can you feel bumps?
+  *Child mode:* Try pressing and stroking something near you.
 - **s2 (6 min)**  
   *Parent does:* Your child brings things from around the home, presses and strokes each one, and puts it by a slip.  
-  *Parent says:* Find a hard thing. Now a soft thing. Now find something rough, and something smooth. How do you know?  
-  *Child mode:* Find a hard thing, a soft thing, a rough thing and a smooth thing. How do you know?
+  *Parent says:* Find a hard thing. Now a soft thing. Now find something rough, and something smooth.  
+  *Child mode:* Find one thing for each slip. Press or stroke it, then put it by its slip.
   - Ask: How do you know the cushion is soft? (good: When I press it, it squashes.; My thumb goes in.)
   - Note: Good finds: a steel tumbler, a cushion, a coconut shell or doormat, a glass bottle. Some things fit two slips: a coconut shell is hard and rough. Put it between the slips.
 - **s3 (2 min)**  
   *Parent does:* Pick up a pillow or cushion and ask the check question.  
-  *Parent says:* Here is a pillow. Press it with your thumb. What is it like?  
-  *Child mode:* Press the pillow. What is it like?
+  *Parent says:* Here is a pillow. Press it with your thumb. Does it squash?  
+  *Child mode:* Press the pillow with your thumb.
   - Check: You press a pillow and it squashes. What is the pillow like? → **Soft**
 ### a2 · Crayon Rubbings: catch the bumps on paper (12 min)
-- **record:** Keep the rubbings. Write or draw under each one what it came from.
+- **record:** Keep the rubbings. Write under each one what it came from. A grown-up can write for you.
 - **s1 (2 min)**  
   *Parent does:* 1. Take the wrapper off the crayon. 2. Show your child how to hold the crayon on its side.  
   *Parent says:* We are going to make the bumps on things show up on paper. Hold the crayon on its side, like this.  
-  *Child mode:* Hold the crayon on its side. You will make the bumps on things show up on paper.
+  *Child mode:* Hold the crayon on its side, the way your grown-up showed you.
 - **s2 (7 min)**  
-  *Parent does:* Your child lays paper on each thing and rubs over it gently. Do at least one rough thing and one smooth thing.  
-  *Parent says:* Before you rub the steel plate, guess. Will you see a pattern? Why? Now rub and see.  
-  *Child mode:* Put the paper on top. Guess: will a pattern show? Why? Now rub.
-  - Ask: Why did the doormat make a pattern, and the steel plate did not? (good: The doormat is bumpy. The bumps push up into the crayon.; The plate is smooth, so the colour is all the same.)
+  *Parent does:* Your child lays paper on each thing and rubs over it gently. Make sure they rub the doormat and the steel plate.  
+  *Parent says:* Before you rub the steel plate, guess if a pattern will show. Now rub and see.  
+  *Child mode:* Put the paper on top of the thing. Rub gently with the side of the crayon.
+  - Ask: Why did the doormat show a pattern but the plate did not? (good: The doormat is bumpy. The bumps push up into the crayon.; The plate is smooth, so the colour is all the same.)
   - Note: Hold the paper still with one hand. Leaves work best with the veiny side up.
 - **s3 (3 min)**  
   *Parent does:* Mix the rubbings up. Your child guesses which thing made each one.  
   *Parent says:* Here are your rubbings, all mixed up. Which one came from the leaf? How can you tell?  
-  *Child mode:* Look at a rubbing. Which thing made it? How can you tell?
+  *Child mode:* Pick a rubbing and point to the thing that made it.
   - Check: Which surface would leave the plainest rubbing? → **A smooth floor tile**
 ### a3 · The Gentle Bend: bendy or stiff? (10 min)
-- **record:** Draw a bendy thing bending, and a stiff thing staying straight.
+- **record:** Take a photo of your bendy pile and your stiff pile. Or tell a grown-up what is in each pile.
 - **s1 (2 min)**  
   *Parent does:* Show your child how to bend gently with two hands. Agree that we never push hard enough to break anything.  
   *Parent says:* We bend gently, like this. If it bends easily, it is bendy. If it stays straight, it is stiff. We never push so hard that it breaks.  
-  *Child mode:* Bend each thing gently. Bendy or stiff? Never push hard.
+  *Child mode:* Bend gently with two hands. Never push hard.
 - **s2 (6 min)**  
   *Parent does:* Your child guesses for each thing, then bends it gently, and puts it in a bendy pile or a stiff pile.  
   *Parent says:* Will the chappal bend? Why do you think so? Try it. Now the spoon.  
@@ -324,8 +324,8 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
   - Note: The pencil and spoon are stiff. The hanky, paper, chappal and leaf are bendy. A plastic ruler bends a little, so it can go between the piles.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* A steel spoon is stiff. But a thin steel wire bends easily. Both are made of steel. Why do you think the wire bends?  
-  *Child mode:* A steel spoon is stiff. A thin steel wire bends. Both are steel. Why?
+  *Parent says:* A steel spoon is stiff. But a thin steel wire bends easily. Both are made of steel.  
+  *Child mode:* Think about a thick steel spoon and a thin steel wire.
   - Check: A steel spoon is stiff. A thin steel wire bends easily. Why? → **The wire is much thinner**
 
 ## Projects
@@ -333,10 +333,10 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
 - **record:** The finished book, with something to touch or see on every page.
 - **schedule:** day 1: Make the book. Fill the HARD and SOFT pages. (7 min); day 2: Fill the ROUGH and SMOOTH pages. (6 min); day 3: Fill the BENDY and STIFF pages. (6 min); day 4: Fill the SHINY and DULL pages. Show the book to someone, letting them touch each page. (6 min)
 - **s1 (7 min)**  
-  *Parent does:* 1. Make the book. 2. Write HARD and SOFT on the first two pages. 3. Your child finds something for each, and sticks a small piece or draws it.  
-  *Parent says:* This book will be full of things to feel. Today, find something hard and something soft. Can you stick a little piece on, or draw it?  
-  *Child mode:* Find something hard and something soft. Stick a bit on, or draw it.
-  - Note: A hard thing is often too big to stick, so a drawing is fine. A cotton ball or cloth scrap works well for soft.
+  *Parent does:* 1. Make the book. 2. Write HARD and SOFT on the first two pages. 3. Your child finds something for each, and sticks a small piece on. If it is too big, they write its name.  
+  *Parent says:* This book will be full of things to feel. Today, find something hard and something soft. Can you stick a little piece on? If it is too big, write its name.  
+  *Child mode:* Find something hard and something soft. Stick a bit on, or write its name.
+  - Note: A hard thing is often too big to stick, so writing its name is fine. A cotton ball or cloth scrap works well for soft.
 - **s2 (6 min)**  
   *Parent does:* Write ROUGH and SMOOTH on the next pages. Your child sticks on a rough bit and a smooth bit.  
   *Parent says:* Today, rough and smooth. Find a rough bit to stick on, and a smooth bit. Stroke them with your finger.  
@@ -349,7 +349,7 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
   - Wait: The next day.
 - **s4 (6 min)**  
   *Parent does:* Write SHINY and DULL on the last pages. Your child sticks on foil for shiny and newspaper for dull. Then they show the book to someone and tell them about each page.  
-  *Parent says:* The last pages are for shiny and dull things. Then show your whole book to someone at home, or on a call. Tell them about each page, and let them touch every page they can.  
+  *Parent says:* The last pages are for shiny and dull things. Then show your whole book to someone at home. Tell them about each page, and let them touch every page.  
   *Child mode:* Stick on something shiny and something dull. Show your book to someone and tell them about it.
   - Wait: The next day.
 
@@ -363,17 +363,17 @@ Meenu held Achamma's hand, and they waited. Slowly the river smoothed itself, an
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child.  
   *Parent says:* The doll has no mirror. Can we make one? What does a mirror need to be like, so we can see a face in it?  
-  *Child mode:* The doll needs a mirror. What must a mirror be like?
+  *Child mode:* Think of a mirror you have seen.
   - Ask: What must a mirror be like? (good: Shiny.; Very smooth, like the steel plate in the Torch Spot Test.)
 - **s2 (10 min)**  
   *Parent does:* Your child makes two mirrors from the materials. Help smooth the foil.  
   *Parent says:* Smooth the foil very flat on the card. Rub it gently with your palm. Can you see your face? Now crumple a bit of it. What happens?  
-  *Child mode:* Make a mirror. Smooth the foil flat. Can you see your face?
+  *Child mode:* Smooth the foil flat on the card. Then crumple a bit and look again.
   - Note: Flat foil shows a blurry face. Crumpled foil shows none. The Torch Spot Test showed the same thing: smooth things shine, and bumpy things do not.
 - **s3 (7 min)**  
   *Parent does:* Compare the mirrors. Your child picks the best one and gives a reason.  
   *Parent says:* Which mirror shows your face best? Why do you think that one works best?  
-  *Child mode:* Which mirror is best? Why?
+  *Child mode:* Look at your face in each mirror, one after the other.
 
 ## Worksheets
 ### What Is It Like? (core) (core, 10 questions)

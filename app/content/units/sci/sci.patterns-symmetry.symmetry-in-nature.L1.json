@@ -221,7 +221,7 @@
    "title": "The Mirror Test: can half a thing and a mirror make the whole?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you stand a small mirror on the middle line of different things. You guess first, then look: does half the thing and the mirror make the whole thing again?",
+   "context": "In this experiment you stand a small mirror on the middle line of different things. You guess first, then look: does half the thing and the mirror make the whole thing again? You will find out which things have two matching halves.",
    "question": "Can half of a thing and a mirror show you the whole thing? Which things work, and which do not?",
    "predict": "For each thing, guess first: will half of it and the mirror make the whole thing again? Why do you think so?",
    "fair_test": "Hold the mirror straight up every time, with its bottom edge on the line. When a thing does not come out whole, try at least three different lines before you say no.",
@@ -268,7 +268,7 @@
      "what": "Guess for each thing, test it with the mirror, try a face, then test three things of your own."
     }
    ],
-   "record": "Make two heaps on the floor, 'whole again' and 'new shape'. A grown-up writes each thing's name on a scrap of paper to put in a heap. Then draw one thing from each heap, with a dotted line where you put the mirror.",
+   "record": "Make two heaps on the floor, 'whole again' and 'new shape'. A grown-up writes each thing's name on a scrap of paper to put in a heap. Then take a photo of each heap, or tell a grown-up where you stood the mirror on one thing from each heap.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -339,8 +339,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Put all the things on the table. 2. Hold the mirror straight up on the middle line of the butterfly picture. 3. Show your child how to look in from one side.",
-     "say": "Look into the mirror from this side. You can see half the butterfly on the paper, and something in the mirror. What do you see?",
-     "kid": "Look into the mirror from one side. What do you see?",
+     "say": "Half the butterfly is on the paper. Look into the mirror from this side. Look at the paper and the mirror together.",
+     "kid": "Look at the half on the paper and the mirror together.",
      "parent": "Hold the mirror straight up, with its bottom edge on the line. Your child may need to tip their head to see the paper half and the mirror together. For the spoon and plate, lay them flat and hold the mirror up on the middle line.",
      "ask": [
       {
@@ -357,7 +357,7 @@
      "mins": 3,
      "do": "1. Point at each of the other things in turn. 2. Your child guesses: will half of it and the mirror make the whole thing? 3. A grown-up writes 'whole' or 'new shape' in the 'My guess' column. 4. Ask why.",
      "say": "Now the leaf, the spoon, the plate, the chappal, the key and the letters. Will the mirror make each one whole again? Why do you think so?",
-     "kid": "Guess for each thing. Will the mirror make it whole? Why?",
+     "kid": "Guess for each thing, and say why you think so.",
      "ask": [
       {
        "q": "Why do you think the chappal will work, or not work?",
@@ -375,7 +375,7 @@
      "mins": 5,
      "do": "1. Your child holds the mirror on each thing in turn, along the line they think is the middle. 2. If a line does not work, they try other lines. 3. They put each thing in a heap: 'whole again' or 'new shape'.",
      "say": "Put the mirror on the spoon. Does it look like a whole spoon? Now try the chappal. Is there any line that makes a whole chappal?",
-     "kid": "Put the mirror on the spoon. Is it a whole spoon? Now try the chappal.",
+     "kid": "Test each thing with the mirror. Then put it in a heap.",
      "ask": [
       {
        "q": "What did the mirror make with the chappal?",
@@ -393,7 +393,7 @@
      "mins": 3,
      "do": "1. Lay the face photo flat. 2. Ask your child to guess. 3. They stand the mirror down the middle of the nose. 4. They look at one half with the mirror. 5. They turn the mirror round and look from the other side, at the other half.",
      "say": "Will half of this face and the mirror make the same face? What do you think, and why? Let's look. Now turn the mirror round and look at the other half.",
-     "kid": "Put the mirror down the middle of the nose. Is it the same face?",
+     "kid": "Stand the mirror down the middle of the nose. Look at one half, then the other.",
      "ask": [
       {
        "q": "Do the two mirror faces look like the real face?",
@@ -429,7 +429,7 @@
      "mins": 2,
      "do": "1. Look at the two heaps together. 2. Ask your child what they found, and what they saw that shows it. 3. Ask the check question.",
      "say": "What did you find out? Which things did the mirror make whole? What did you see that tells you so?",
-     "kid": "What did you find? Which things came out whole?",
+     "kid": "Look at your two heaps. Tell what you found.",
      "parent": "A good answer has two parts. A claim: 'Things with two matching halves came out whole.' Evidence: 'The butterfly and the A did, but the chappal and the F made new shapes.'",
      "check": {
       "t": "mcq",
@@ -452,7 +452,7 @@
    "title": "Leaf Look: run a finger down the middle",
    "mins": 10,
    "days": 1,
-   "context": "This is a short noticing activity, before anyone explains anything. You look closely at a leaf, find the line down the middle, and fold it gently.",
+   "context": "You will find out if the two halves of a leaf are the same. Look closely at a leaf, find the line down the middle, and fold it gently.",
    "materials": [
     {
      "item": "2 or 3 fresh leaves, such as a palak leaf, a tulsi leaf, a money plant leaf or a curry leaf",
@@ -466,7 +466,7 @@
      "what": "Look at a leaf, find the middle vein, fold the leaf and compare the halves."
     }
    ],
-   "record": "Draw one leaf. Draw the middle vein as a line. Colour the two halves in two colours.",
+   "record": "Take a photo of your leaf folded and open, or tell a grown-up which leaf matched best and why.",
    "setup": [
     {
      "art": "A child's finger running down the thick middle vein of a green palak leaf, from the stalk to the tip.",
@@ -509,7 +509,7 @@
      "mins": 3,
      "do": "1. Look at the folded leaves together. 2. Ask the check question.",
      "say": "So, is the left half of a leaf the same as the right half? Why might they be a little different?",
-     "kid": "Are the two halves the same? Why might they be a little different?",
+     "kid": "Look at the folded leaves. Say why the halves might be a little different.",
      "check": {
       "t": "mcq",
       "q": "You fold a tulsi leaf along the middle vein. What do you see?",
@@ -530,7 +530,7 @@
    "title": "Dal Butterfly: build the other half",
    "mins": 15,
    "days": 1,
-   "context": "In this art activity you make a butterfly from grains and dals on a drawn outline. One person makes a pattern on one side. The other copies it on the other side, like a mirror.",
+   "context": "In this art activity you make a butterfly from grains and dals on a drawn outline. One person makes a pattern on one side. The other copies it on the other side, like a mirror. You will find out what it takes to make two sides match.",
    "materials": [
     {
      "item": "a sheet of paper with a big butterfly outline drawn by a grown-up, with a line down the middle",
@@ -552,7 +552,7 @@
      "what": "Make a grain pattern on one side, copy it on the other side, then swap."
     }
    ],
-   "record": "Draw your Dal Butterfly before you put the grains away, or take a photo.",
+   "record": "Take a photo of your Dal Butterfly before you put the grains away.",
    "setup": [
     {
      "art": "A butterfly outline on paper with a line down the middle, and a grown-up's hand placing three red rajma beans on the left top wing.",
@@ -616,7 +616,7 @@
    "title": "Rub-and-Copy Art: fold, rub, and the other half appears",
    "mins": 15,
    "days": 1,
-   "context": "In this art activity you draw half a picture next to a fold, then rub it onto the other half of the paper. The copy comes out flipped, like a mirror image.",
+   "context": "In this art activity you draw half a picture next to a fold, then rub it onto the other half of the paper. You will see how a fold makes the other half of a picture for you. The copy comes out flipped, like a mirror image.",
    "materials": [
     {
      "item": "a sheet of plain paper, such as a page from a notebook",
@@ -635,10 +635,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw half a picture, fold the paper, rub, open it, then colour both halves to match."
+     "what": "Draw half a picture, fold the paper, rub, open it, then fold it again to check the halves."
     }
    ],
-   "record": "Colour both halves of your picture the same, and stick it on the wall.",
+   "record": "Stick your picture on the wall, and show someone the fold where the two halves meet.",
    "setup": [
     {
      "art": "A sheet of paper folded in half and opened, with half a butterfly drawn in thick dark pencil on one side, right against the fold.",
@@ -660,7 +660,7 @@
      "do": "1. Fold the paper in half and open it again. 2. Your child draws half a butterfly, half a flower or half a face on one side, right against the fold. 3. They press hard and go over the lines twice.",
      "say": "Draw half a butterfly, right next to the fold. Press hard, and go over every line twice. What do you think will happen on the other side?",
      "kid": "Draw half a picture next to the fold. Press hard. Go over the lines twice.",
-     "parent": "Thick, dark lines copy best. A soft pencil or a wax crayon works better than a light pencil."
+     "parent": "Thick, dark lines copy best. A soft pencil or a wax crayon works better than a light pencil. If your child does not like drawing, a grown-up can draw the half, or your child can trace half a leaf."
     },
     {
      "id": "s2",
@@ -683,9 +683,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Your child goes over the faint copy with the pencil. 2. They colour both halves the same. 3. Ask the check question.",
-     "say": "Go over the faint lines. Now colour both halves the same. Is your picture symmetric? Where is its line of symmetry?",
-     "kid": "Go over the faint lines. Colour both halves the same.",
+     "do": "1. Your child goes over the faint copy with the pencil. 2. They fold the paper again, and see if the two halves meet. 3. Ask the check question.",
+     "say": "Go over the faint lines. Now fold the paper again. Do the two halves meet? Where is the line of symmetry of your picture?",
+     "kid": "Go over the faint lines. Fold the paper again and see if the halves meet.",
      "check": {
       "t": "mcq",
       "q": "You rubbed your folded drawing and opened it. Where is the line of symmetry of your picture?",
@@ -708,7 +708,7 @@
    "title": "Mirror Moves: copy me like a mirror",
    "mins": 10,
    "players": "2 players, facing each other. A grown-up can be one of them. With 4 players, play as two pairs at the same time.",
-   "context": "This is a moving game. One player is the leader and moves slowly. The other player is the mirror and copies every move at the same time.",
+   "context": "You will find out how a mirror copies you. One player is the leader and moves slowly. The other player is the mirror and copies every move at the same time.",
    "printables": [
     {
      "kind": "cards",
@@ -748,9 +748,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Cut out the move cards and put them in a pile. 2. Stand facing each other. 3. Stand together in front of a real mirror first, and lift one arm.",
+     "do": "1. Cut out the move cards and put them in a pile. 2. Stand together in front of a real mirror, and lift one arm. 3. Then stand facing each other.",
      "say": "Look in the mirror. When I lift the hand near the window, which hand does my mirror image lift? Now you will be my mirror.",
-     "kid": "Lift a hand at the mirror. Which hand does your mirror image lift?",
+     "kid": "Lift a hand in front of the mirror. Watch your mirror image.",
      "parent": "In a real mirror, if you lift the hand nearest the window, your image lifts the hand nearest the window too. So when two people face each other, the player who is the mirror lifts the hand on the same side of the room. That is their left hand if the leader lifts the right hand."
     },
     {
@@ -774,8 +774,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "If I lift the arm on the window side, which arm do you lift as my mirror? What did our two bodies make together?",
-     "kid": "When you were a mirror, what did you two make together?",
+     "say": "Think about our game. When I lifted the arm on the window side, which arm did you lift?",
+     "kid": "Think about the two of you standing face to face as one shape.",
      "check": {
       "t": "mcq",
       "q": "The leader lifts the arm on the window side. You are the mirror, facing the leader. Which arm do you lift?",
@@ -804,7 +804,7 @@
    "title": "Two Halves or Not? Run to a side",
    "mins": 10,
    "players": "2 to 5 players. Take turns to be the reader. The reader holds the card and does not run.",
-   "context": "This is a running game. The reader reads a card. Everyone else runs to the 'two halves' wall if the thing has matching halves, or to the 'no' wall if it does not.",
+   "context": "You will sort things into those with matching halves and those without. The reader reads a card. Everyone else runs to the 'two halves' wall if the thing has matching halves, or to the 'no' wall if it does not.",
    "printables": [
     {
      "kind": "cards",
@@ -904,7 +904,7 @@
      "mins": 6,
      "do": "Read the cards one by one. Read the back after everyone has run. Swap the reader after every card.",
      "say": "A chappal! Two halves or not? Run! Now, why did you choose that wall?",
-     "kid": "Run to a wall. Then say why you chose it.",
+     "kid": "Listen to the card, then run to a wall.",
      "ask": [
       {
        "q": "Why did you run to that wall?",
@@ -922,7 +922,7 @@
      "mins": 2,
      "do": "Ask the check question.",
      "say": "Think about the card 'Your face'. Why did the back say 'nearly'?",
-     "kid": "Why did the face card say 'nearly'?",
+     "kid": "Think about your own face. Are your two sides exactly the same?",
      "check": {
       "t": "mcq",
       "q": "The card says 'Your face'. The back says 'Nearly two halves, never exactly'. Why does it say 'nearly'?",
@@ -944,7 +944,7 @@
    "title": "My Leaf Rubbing Book: one leaf a day",
    "mins": 24,
    "days": 3,
-   "context": "In this project you make a small book of leaf rubbings. Each day you rub one leaf with a crayon, draw its line of symmetry, and look at how well the two halves match.",
+   "context": "In this project you make a small book of leaf rubbings. Each day you rub one leaf with a crayon and mark its line of symmetry. You will find out which leaf has halves that match best.",
    "materials": [
     {
      "item": "3 sheets of paper, folded in half and tied with thread into a little book",
@@ -994,7 +994,7 @@
      "do": "1. A grown-up folds the sheets and ties them with thread to make the book. 2. Put the leaf under the first page, bumpy side up. 3. Your child rubs over it with the side of a crayon until the shape and veins show. 4. They draw a line down the middle vein.",
      "say": "Rub gently with the side of the crayon. Watch the leaf appear! Now draw a line down the middle. Do the two halves look the same?",
      "kid": "Rub with the side of the crayon. Watch the leaf appear. Draw a line down the middle.",
-     "parent": "The back of a leaf has bumpier veins, so it gives a clearer rubbing. Hold the leaf still with one hand."
+     "parent": "The back of a leaf has bumpier veins, so it gives a clearer rubbing. Hold the leaf still with one hand. If your child does not like rubbing, they can tape the leaf on the page and mark its middle line."
     },
     {
      "id": "s2",
@@ -1009,7 +1009,7 @@
      "mins": 8,
      "do": "1. Your child rubs a third leaf. 2. Look through the whole book together. 3. Ask the check question.",
      "say": "Which of your three leaves has the halves that match best? Do any of them match exactly?",
-     "kid": "Rub one more leaf. Which leaf matches best?",
+     "kid": "Rub one more leaf. Then look through the whole book.",
      "wait": "The next day.",
      "check": {
       "t": "mcq",
@@ -1031,7 +1031,7 @@
    "id": "c1",
    "title": "The Balancing Butterfly",
    "mins": 15,
-   "context": "This is a making challenge. You cut a paper butterfly and try to balance her on a pencil, along her middle line.",
+   "context": "You will find out why matching wings help a butterfly balance. Cut a paper butterfly and try to balance her on a pencil, along her middle line.",
    "problem": "Make a paper butterfly that balances on a pencil laid along her body. A butterfly with two matching wings has the same weight on each side of her middle line, so she balances. If one side is heavier, she tips towards it. When does your butterfly balance, and when does she tip over?",
    "constraints": [
     "Use one piece of card or thick paper.",
@@ -1073,8 +1073,8 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Read the problem to your child. 2. Fold the card in half. 3. Your child draws half a butterfly against the fold and cuts along the line. 4. Open the card.",
-     "say": "We will make a butterfly that balances on a pencil. Let's fold the card and cut half a butterfly against the fold. What will we have when we open it?",
+     "do": "1. Read the problem to your child. 2. Fold the card in half. 3. Your child draws half a butterfly against the fold, or a grown-up draws the half. Your child cuts along the line. 4. Open the card.",
+     "say": "We will make a butterfly that balances on a pencil. First we make two matching wings. What will we have when we open the card?",
      "kid": "Fold the card. Draw half a butterfly by the fold. Cut it out. Open it.",
      "parent": "Help with the cutting if the card is thick. Keep the fold uncut, or the wings will come apart."
     },
@@ -1101,7 +1101,7 @@
      "mins": 4,
      "do": "1. Your child makes the butterfly balance with two clips. 2. Ask the check question.",
      "say": "Make her balance with two clips. Where did you put them? Why does that work?",
-     "kid": "Make her balance with two clips. Where did you put them?",
+     "kid": "Move the two clips until she balances.",
      "check": {
       "t": "mcq",
       "q": "You put a paper clip on the left wing of your paper butterfly, and the butterfly tips over. What can you do?",
