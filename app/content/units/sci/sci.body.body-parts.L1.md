@@ -215,10 +215,10 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 - **s1 (1 min)**  
   *Parent does:* Clear a space. Mix the cards.  
   *Parent says:* We're going to move like animals. Then tell me which part of you did the moving.  
-  *Child mode:* Move like the animal. Which part did you use?
+  *Child mode:* Get ready to move like an animal.
 - **s2 (9 min)**  
   *Parent does:* 1. Read each card. 2. Everyone moves for five seconds. 3. Each player names the part they used. 4. Read the back.  
-  *Parent says:* Flap your arms like a crow's wings! Which part of you is like a crow's wing?  
+  *Parent says:* Flap your arms like a crow's wings! Which part of you did the flapping?  
   *Child mode:* Move like the animal. Name the part you used.
   - Ask: Which animal parts are like ours? (good: A crow's wing is like my arm.; A cat has knees and elbows like me.; A giraffe has seven neck bones, like me.)
   - Note: The giraffe card surprises many children: a giraffe's neck is long because each of the seven bones is very long.
@@ -233,7 +233,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 - **question:** If your thumb is taped down, which everyday jobs can your hand still do, and which become hard?
 - **predict:** Guess first. With your thumb taped, which job will be the hardest: picking up rice, picking up a coin, or doing a button? Which will be the easiest? Why do you think so?
 - **fair test:** You use the same hand, the same three jobs and the same things each time. The only change is the thumb: free the first time, taped the second time.
-- **record:** On a sheet, draw the three jobs down the side. For each job, draw a face for thumb free and a face for thumb taped: a smile for easy, a straight mouth for slow, a sad face for could not.
+- **record:** On a sheet, write the three jobs down the side. For each job, write easy, slow or could not for thumb free, and again for thumb taped.
 - **results table:** Job | Thumb free: easy, slow or could not | Thumb taped: easy, slow or could not
 - **s1 (2 min)**  
   *Parent does:* 1. Lay out the plate of rice, the bowl, the coin on the floor and the shirt. 2. Show each job once.  
@@ -241,13 +241,13 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
   *Child mode:* Look at the three jobs. Rice, coin, button.
   - Note: Put the coin flat on a hard floor, not on a mat. Use the hand your child draws with. Do up the button on a shirt lying flat on the floor, or on a shirt your child is wearing.
 - **s2 (2 min)**  
-  *Parent does:* Ask your child to guess, and to say why. Write the guess down, or let your child draw it.  
+  *Parent does:* Ask your child to guess, and to say why. Write the guess down.  
   *Parent says:* Soon I will tape your thumb down. Which job will be the hardest then? Which will be the easiest? Why do you think so?  
-  *Child mode:* Guess. Which job will be hardest with no thumb? Why?
+  *Child mode:* Make a guess, and say why you think so.
   - Ask: Why do you think so? (good: The coin, because it is flat and I can't get under it.; All of them will be easy, because I still have four fingers.)
   - Note: Any guess with a reason is a good guess. Do not say which is right. The test will show.
 - **s3 (3 min)**  
-  *Parent does:* 1. Your child does all three jobs with the thumb free. 2. After each job, your child picks a face: easy, slow or could not. 3. Draw the face on the sheet.  
+  *Parent does:* 1. Your child does all three jobs with the thumb free. 2. After each job, your child says easy, slow or could not. 3. Write that word on the sheet.  
   *Parent says:* First, with your thumb free. Pick up the rice grains. Was that easy, slow, or could you not do it?  
   *Child mode:* Do each job with your thumb free. Was it easy?
   - Note: With the thumb free, most six-year-olds find all three jobs easy, though the button may be slow. That is fine. It gives us something to compare with.
@@ -257,7 +257,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
   *Child mode:* Hold your hand flat. Your grown-up tapes your thumb. Say if it hurts.
   - Note: The thumb should lie flat along the side of the first finger, so it cannot swing across the hand. Never wrap tape tightly. If the fingertip turns pale or your child says it tingles, take the tape off at once. A cloth strip tied loosely works too.
 - **s5 (4 min)**  
-  *Parent does:* 1. Your child does the same three jobs, in the same order, with the thumb taped. 2. After each job, your child picks a face. 3. Draw the face on the sheet. 4. If a job takes more than a minute, stop and mark it 'could not'.  
+  *Parent does:* 1. Your child does the same three jobs, in the same order, with the thumb taped. 2. After each job, your child says easy, slow or could not. 3. Write that word on the sheet. 4. If a job takes more than a minute, stop and mark it 'could not'.  
   *Parent says:* Now the same jobs with your thumb taped. Pick up the rice grains. How did that go?  
   *Child mode:* Do the same jobs again. Your thumb is taped. Was it hard?
   - Ask: Which job was the hardest? (good: The coin. I could not get it off the floor.; The button. My fingers could not hold it.)
@@ -266,20 +266,20 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 - **s6 (2 min)**  
   *Parent does:* 1. Take off the tape. 2. Your child pinches one grain of rice with thumb and first finger. 3. Ask what your child found out, and why some jobs were so hard.  
   *Parent says:* Your thumb is free again. Pick up one grain now. What did you find out? Why were some jobs so hard?  
-  *Child mode:* Pinch one grain with your thumb. What did you find out?
-  - Ask: Your four fingers were free the whole time. So why was the coin so hard? (good: My fingers had nothing to press against.; To pick it up, the thumb has to push on the other side.)
+  *Child mode:* Pinch one grain with your thumb. Feel what your thumb does.
+  - Ask: What did you find out about your thumb? (good: My fingers had nothing to press against.; To pick it up, the thumb has to push on the other side.)
   - Note: Let your child say it first. Then add: the thumb swings across the hand and presses against a finger. A small thing is held between the two. Without the thumb, the fingers can only press against each other, which works badly.
   - Check: With your thumb taped, your four fingers could still move. Why was the coin so hard to pick up? → **Your fingers had no thumb to press the coin against**
 ### e2 · Quick Hands: which hand moves more beans? (15 min)
 - **question:** In half a minute, will you move more beans with your writing hand or with your other hand?
 - **predict:** Guess first. Which hand will move more beans, or will both move the same? Why do you think so?
 - **fair test:** Each hand gets the same beans, the same bowls, the same half minute, and moves one bean at a time.
-- **record:** Draw two bowls for each person, one for each hand. Write the number of beans in each.
+- **record:** Make a table. Write each person's name, and the number of beans they moved with each hand.
 - **results table:** Person | Beans with the right hand | Beans with the left hand | Which hand do they write with?
 - **s1 (2 min)**  
   *Parent does:* 1. Put all the beans in one bowl. 2. Put the empty bowl a hand's width away. 3. Ask your child to guess, and why.  
   *Parent says:* You will move beans one at a time, for half a minute. Which hand will move more beans? Why do you think so?  
-  *Child mode:* Guess. Which hand will move more beans? Why?
+  *Child mode:* Make a guess, and say why you think so.
   - Ask: Why do you think so? (good: My writing hand, because I use it more.; The same, because both hands have a thumb.)
 - **s2 (4 min)**  
   *Parent does:* 1. Start the timer. 2. Your child moves beans one at a time with the writing hand. 3. Stop at 30 seconds. 4. Count the beans together. 5. Pour them back.  
@@ -318,7 +318,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
   - Ask: What does your nose help you do? (good: Smell things.; Breathe.)
   - Note: Don't worry if your child says only one job. Ask, 'Anything else?' Most parts help with many jobs.
 ### a2 · Straight-Arm Snack: what does your elbow do? (10 min)
-- **record:** Draw your arm with the newspaper tube on it. Draw where the snack got to.
+- **record:** Take a photo of your arm with the tube on, or tell someone at dinner where the snack got to.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Roll three sheets of newspaper (or a magazine) into a thick tube round your child's arm, over the elbow. 2. Tape it loosely, so the arm stays straight.  
   *Parent says:* This tube will keep your arm straight. Your elbow cannot bend. Tell me if it is too tight.  
@@ -327,7 +327,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess first, and to say why.  
   *Parent says:* Your hand is free and your fingers are free. Can you put this snack in your mouth with this hand? Why do you think so?  
-  *Child mode:* Guess. Can you eat the snack with this hand? Why?
+  *Child mode:* Make a guess, and say why you think so.
 - **s3 (3 min)**  
   *Parent does:* 1. Put the snack in the hand with the tube. 2. Your child tries to eat it, using only that hand. 3. Watch together.  
   *Parent says:* Try it. Only this hand. What happens?  
@@ -340,7 +340,7 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
   *Child mode:* Eat the snack now. Feel your elbow bend.
   - Check: With the tube on, why could your hand not reach your mouth? → **The elbow could not bend**
 ### a3 · One, Two or Many? Count your body (10 min)
-- **record:** Draw one part on each sheet: a part you have one of, a part you have two of, and a part you have many of.
+- **record:** Tell someone at home one part you have one of, one part you have two of, and one part you have many of.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the three sheets on the floor. 2. Name a part. 3. Your child counts it on their own body. 4. A grown-up writes it on a slip, and your child puts the slip on the right sheet.  
   *Parent says:* How many noses do you have? One. Put 'nose' on the 1 sheet. How many ears? How many knees?  
@@ -353,14 +353,14 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
   - Note: Most children of six have about 20 milk teeth, but some are already falling out and new ones are coming. Any number is right for your child.
 - **s3 (2 min)**  
   *Parent does:* Ask the last question and talk about it.  
-  *Parent says:* Is there a part that you have none of, but a cat or a crow has?  
-  *Child mode:* Which part does a cat have that you don't?
+  *Parent says:* Think of a cat, or a crow. Look at your own body.  
+  *Child mode:* Compare a cat and a crow with you.
   - Ask: Which part does a cat or a crow have that you don't? (good: A tail.; Wings, like a crow.; Whiskers, like a cat.)
   - Note: A nice fact to add: you have a small tailbone at the bottom of your back, where many other animals have a tail.
 ### a4 · Hand Family: draw round every hand at home (12 min)
 - **record:** Keep the hand sheet. Write each person's name inside their hand.
 - **s1 (6 min)**  
-  *Parent does:* 1. Each person lays one hand flat on the paper, fingers spread. 2. Your child draws round it with a crayon. 3. Use a different colour for each person.  
+  *Parent does:* 1. Each person lays one hand flat on the paper, fingers spread. 2. Your child draws round it with a crayon. 3. Use a different colour for each person. If your child does not want to trace, lay the hands side by side on the floor instead.  
   *Parent says:* Spread your fingers. Keep still while I draw round your hand. Now you draw round mine.  
   *Child mode:* Draw round each hand. Use a new colour each time.
 - **s2 (4 min)**  
@@ -378,22 +378,22 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 ## Projects
 ### p1 · My Body Book: three pages about me (30 min, 3 days)
 - **record:** The three-page book. Show it to someone and read it to them.
-- **schedule:** day 1: Page 1: draw your whole body. A grown-up helps you write five body parts. (10 min); day 2: Page 2: 'My hands can…' Draw three jobs your hands did today. (10 min); day 3: Page 3: 'Same and different'. Draw yourself next to someone at home. Say one way you are the same and one way you are different. (10 min)
+- **schedule:** day 1: Page 1: draw your whole body, or stick in a photo of yourself. A grown-up helps you write five body parts. (10 min); day 2: Page 2: 'My hands can…' Act out three jobs your hands did today. A grown-up writes each one on the page. (10 min); day 3: Page 3: 'Same and different'. Stand next to someone at home. Say one way you are the same and one way you are different. A grown-up writes both down. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Make the book with your child. 2. On page 1, your child draws their whole body. 3. Your child points to five parts, and you help write the names.  
-  *Parent says:* Draw all of you, from your head to your toes. Which five parts shall we name?  
-  *Child mode:* Draw all of you. Name five parts.
+  *Parent does:* 1. Make the book with your child. 2. On page 1, your child draws their whole body, or sticks in a photo. 3. Your child points to five parts, and you help write the names.  
+  *Parent says:* Draw all of you, from your head to your toes, or we can stick in a photo. Which five parts shall we name?  
+  *Child mode:* Show all of you. Name five parts.
   - Wait: Make page 2 tomorrow.
 - **s2 (10 min)**  
-  *Parent does:* 1. Ask your child what their hands did today. 2. Your child draws three of those jobs on page 2.  
+  *Parent does:* 1. Ask your child what their hands did today. 2. Your child acts out three of those jobs. Write each one on page 2.  
   *Parent says:* What did your hands do today? Did they hold a tumbler, pull a zip, or wave to someone?  
-  *Child mode:* What did your hands do today? Draw three things.
+  *Child mode:* Act out three things your hands did today.
   - Ask: Which of those jobs needed your thumb? (good: Holding the tumbler.; Pulling the zip.)
   - Wait: Make page 3 tomorrow.
 - **s3 (10 min)**  
-  *Parent does:* 1. On page 3, your child draws a picture of themselves next to someone at home. 2. Ask for one way the two of them are the same and one way they are different.  
-  *Parent says:* Who will you draw next to you? How are you the same? How are you different?  
-  *Child mode:* Draw yourself and someone at home. How are you the same?
+  *Parent does:* 1. Your child stands next to someone at home. Take a photo to stick on page 3, or your child can draw it. 2. Ask for one way the two of them are the same and one way they are different.  
+  *Parent says:* Who will stand next to you? Look at both of you. How are you the same? How are you different?  
+  *Child mode:* Stand next to someone. Look for ways you are the same.
   - Ask: How are you the same, and how are you different? (good: We both have two eyes and ten toes.; Amma is taller, and her hair is longer.)
 
 ## Challenges
@@ -404,9 +404,9 @@ Paati smiled. 'Tomorrow you can draw the kolam again. And the day after, my thum
 - **general:** A spoon that scoops the bean up.; A clothes peg that squeezes the bean, like a thumb and finger.; Two pencils used like chopsticks.
 - **creative:** A strip of card folded in half into tongs, which spring open again.; Two ice-cream sticks with a rubber band round one end and a small folded paper wedge between them.; A loop of tape, sticky side out, round one finger.
 - **c1s1 (3 min) · grown-up needed**  
-  *Parent does:* Read the challenge. Tape your child's thumb loosely, as in the Thumb Taped test.  
+  *Parent does:* Read the challenge. Lay your child's thumb flat against the side of the hand and tape it loosely.  
   *Parent says:* Your thumb is taped. Can you make a tool that does the thumb's job, and picks up beans?  
-  *Child mode:* Your thumb is taped. Make a tool to pick up beans.
+  *Child mode:* Get your thumb taped. Then plan your tool.
   - Note: Tape loosely, and take it off at once if the fingertip turns pale or tingles.
 - **c1s2 (12 min)**  
   *Parent does:* 1. Your child chooses materials and makes a picker. 2. Help with taping. 3. Try it on five beans.  

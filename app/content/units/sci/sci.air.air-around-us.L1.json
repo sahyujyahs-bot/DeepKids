@@ -233,7 +233,7 @@
    "title": "See It or Feel It? A sorting card game",
    "mins": 12,
    "players": "1 to 4 players and a grown-up",
-   "context": "This is a card game about air. You sort cards into three groups: things you can see and feel, things you can feel but not see, and things you can see but not touch. Air goes in the middle group.",
+   "context": "This is a card game about air. You sort cards into three groups: things you can see and feel, things you can feel but not see, and things you can see but not touch. You will find out which group air belongs in.",
    "printables": [
     {
      "kind": "cards",
@@ -348,9 +348,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Look at the hand-only mat together.",
-     "say": "Look at the cards on the hand-only mat. What are they all?",
-     "kid": "Look at the hand-only cards. What are they all?",
+     "do": "Read out the cards on the hand-only mat together.",
+     "say": "These are the cards you can feel but not see. Let's read them again.",
+     "kid": "Listen to each hand-only card. Think about what is the same in all of them.",
      "check": {
       "t": "mcq",
       "q": "All the cards on the hand-only mat are about one thing. What is it?",
@@ -370,7 +370,7 @@
    "title": "Cotton Ball Race: move it with air only",
    "mins": 10,
    "players": "2 or more players",
-   "context": "This is a race on the floor. You move a cotton ball from the start line to the finish line using only moving air. You may not touch it.",
+   "context": "This is a race on the floor. You move a cotton ball from the start line to the finish line using only moving air. You may not touch it. You will find out if air you cannot see is strong enough to push things.",
    "printables": [
     {
      "kind": "score sheet",
@@ -406,23 +406,23 @@
      "id": "s1",
      "mins": 2,
      "do": "Make the start and finish lines. Give each player a cotton ball and a notebook.",
-     "say": "We will move these cotton balls with air only. No touching. Count how many waves you need.",
-     "kid": "Move your cotton ball with air. No touching! Count your waves.",
+     "say": "We will move these cotton balls with air only. No touching.",
+     "kid": "Count how many waves, blows or squeezes you need to reach the finish line.",
      "parent": "No cotton wool? Use a small, loose ball of scrunched tissue or paper."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "Play the three rounds. Write each player's count on the score sheet.",
-     "say": "Round two: blow it! Round three: catch air in a bag and puff it out at your ball.",
-     "kid": "Fan it. Then blow it. Then puff it with a bag."
+     "say": "Round one: fan it with the notebook. Round two: blow it. Round three: catch air in a bag and puff it out at your ball.",
+     "kid": "Move the ball three ways. Keep count each time."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Ask the last question.",
      "say": "Nobody touched the cotton balls. So what pushed them?",
-     "kid": "Nobody touched the balls. What pushed them?",
+     "kid": "Think about what moved the balls, then tell your grown-up.",
      "ask": [
       {
        "q": "What pushed the cotton balls?",
@@ -442,7 +442,7 @@
    "title": "Catch the Air: is there air in every corner of our home?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you try to catch air in a plastic bag in six places in your home. Some of them look empty. You find out if every place has air, and you feel the air you caught.",
+   "context": "In this experiment you try to catch air in a plastic bag in six places in your home. Some of them look empty. You will find out if air is hiding even there, and you will feel the air you caught.",
    "question": "Is there air everywhere in our home, even in places that look empty, like under the bed or inside an empty bucket?",
    "predict": "Guess first. Will the bag catch air in every place? Is there any place with no air at all? Why do you think so?",
    "fair_test": "We use the same bag every time. We open it the same way, scoop it in one big sweep, and twist the neck three times. Only the place changes. First we squeeze the bag flat and twist it shut, to see what a bag with no air looks like.",
@@ -462,7 +462,7 @@
      "qty": 1
     },
     {
-     "item": "paper and crayons, for the results table",
+     "item": "paper and a pencil, for the results table",
      "qty": 1
     }
    ],
@@ -474,7 +474,7 @@
      "what": "Guess which places have air. Catch air in a bag in six places. Squeeze each bagful and feel it."
     }
    ],
-   "record": "The results table: six places, the guess for each, and a tick if the bag puffed up. Draw the fattest bag.",
+   "record": "The results table: six places, the guess for each, and a tick if the bag puffed up. Take a photo of the fattest bag, or draw it.",
    "setup": [
     {
      "art": "A flat, empty plastic bag held up by a child, next to a paper with six boxes drawn on it.",
@@ -497,9 +497,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Show your child the flat, empty bag. 2. Name the six places. They are the middle of the room, under the bed and inside a cupboard. Then inside the empty bucket, behind a door, and a corner near the floor. 3. Draw the results table together.",
+     "do": "1. Show your child the flat, empty bag. 2. Name the six places. They are the middle of the room, under the bed, and inside a cupboard. The other three are inside the empty bucket, behind a door, and a corner near the floor. 3. Draw the results table together.",
      "say": "We are going to try to catch air in this bag, in six places. Some places look empty, like under the bed. Will the bag catch air everywhere? Is any place empty of air? Why do you think so?",
-     "kid": "Will the bag catch air in every place? Is any place empty? Why?",
+     "kid": "Look at the six places. Which one do you think has no air?",
      "ask": [
       {
        "q": "Which places will have air? Why?",
@@ -517,7 +517,7 @@
      "mins": 3,
      "do": "1. Squeeze the bag flat with your hands. 2. Twist the neck shut three times. 3. Ask your child to pull the sides of the bag and try to make it fat.",
      "say": "First, a bag with no air. I squeeze it flat and twist it shut. Now try to make it fat by pulling the sides.",
-     "kid": "Squeeze the bag flat. Twist it shut. Can you make it fat now?",
+     "kid": "Try to make the flat bag fat by pulling its sides.",
      "ask": [
       {
        "q": "Why does it stay flat?",
@@ -542,7 +542,7 @@
      "mins": 4,
      "do": "1. Catch one more bagful in the middle of the room. 2. Press the full bag gently on the table with both hands. 3. Hold the neck near your child's cheek, untwist it a little and squeeze slowly.",
      "say": "Press the bag. Does it push back? Now close your eyes. I'll let the air out near your cheek. Tell me what you feel.",
-     "kid": "Press the fat bag. Does it push back? Close your eyes. What do you feel on your cheek?",
+     "kid": "Press the fat bag and feel it push back. Then close your eyes and feel the air.",
      "ask": [
       {
        "q": "What did you feel on your cheek?",
@@ -589,7 +589,7 @@
    "title": "Where Does Your Skin Feel Air Best?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment a grown-up makes a small puff of air near different parts of your body, while your eyes are shut. You say when you feel it. Then you find out which parts of your skin feel moving air best.",
+   "context": "In this experiment a grown-up makes a small puff of air near different parts of your body, while your eyes are shut. You say when you feel it. Then you find out which parts of your skin feel moving air best, even though you cannot see the air.",
    "question": "Which part of my skin feels a small puff of air best: my palm, the back of my hand, my cheek, my arm or the sole of my foot?",
    "predict": "Guess first. Which part of you will feel the air best? Which part will feel it least? Why do you think so?",
    "fair_test": "The grown-up uses the same notebook, waves it once each time, and holds it one hand-span from the skin. Each place gets 3 real waves and 1 pretend wave with no air, in a mixed-up order. Your eyes stay shut the whole time.",
@@ -604,7 +604,7 @@
      "qty": 1
     },
     {
-     "item": "paper and crayons",
+     "item": "paper and a pencil",
      "qty": 1
     }
    ],
@@ -615,7 +615,7 @@
      "what": "With eyes shut, feel small puffs of air on five parts of the skin. Count how many you felt."
     }
    ],
-   "record": "The results table, and a drawing of yourself with a big tick on the part that felt the air best.",
+   "record": "The results table, and say which part felt the air best. You can also draw yourself and tick that part.",
    "setup": [
     {
      "art": "A child sitting on a mat with eyes closed and one bare arm held out, and a grown-up holding a notebook one hand-span away.",
@@ -632,7 +632,7 @@
      "mins": 3,
      "do": "Show your child the five places to test. They are the palm, the back of the hand, the cheek, the arm and the sole of the foot. Draw the table.",
      "say": "I will wave this notebook near your skin, without touching. Which part do you think will feel the air best? Which least? Why?",
-     "kid": "Which part will feel the air best? Which least? Why?",
+     "kid": "Pick the part that will feel air best. Then pick the part that will feel it least.",
      "ask": [
       {
        "q": "Which part will feel it best? Why?",
@@ -649,7 +649,7 @@
      "mins": 9,
      "do": "1. Your child shuts their eyes. 2. At each place, make 3 real waves and 1 pretend wave, in a mixed-up order. For a real wave, wave the notebook once, one hand-span from the skin. 3. For a pretend wave, move your arm but keep the notebook far away. 4. Write each answer.",
      "say": "Eyes shut. Say 'yes' when you feel air. Ready? Here comes the next one.",
-     "kid": "Keep your eyes shut. Say 'yes' when you feel air.",
+     "kid": "Keep your eyes shut. Say 'yes' only when you really feel air.",
      "parent": "The pretend waves keep the test fair, so we know your child is not just guessing. Wave gently, not hard. A hard wave is felt everywhere, so there is no difference to find."
     },
     {
@@ -657,7 +657,7 @@
      "mins": 3,
      "do": "Look at the table together.",
      "say": "Which part felt the air most often? Which part felt it least? Was your guess right?",
-     "kid": "Which part felt the air best? Was your guess right?",
+     "kid": "Look at the table. Which part got the most 'yes' answers?",
      "ask": [
       {
        "q": "Why do you think that part felt it best?",
@@ -690,7 +690,7 @@
    "title": "Still Air, Moving Air: when can you feel it?",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you sit very still and check if you can feel air on your skin. Then you move the air in different ways and feel it again.",
+   "context": "In this activity you sit very still and check if you can feel air on your skin. Then you move the air in different ways and feel it again. You will find out if air is still there when you cannot feel it.",
    "materials": [
     {
      "item": "a room with the fan off and the windows closed for a few minutes",
@@ -704,7 +704,7 @@
      "what": "Sit still and feel for air. Then wave, blow, walk fast and spin, and feel for air each time."
     }
    ],
-   "record": "Draw yourself sitting still, and yourself running. Show where you felt air.",
+   "record": "Tell your grown-up when you felt air and when you did not. You can also draw yourself sitting still and then moving.",
    "setup": [
     {
      "art": "A child sitting cross-legged with eyes closed and arms resting on her knees, with the ceiling fan stopped.",
@@ -721,7 +721,7 @@
      "mins": 3,
      "do": "1. Switch off the fan and close the windows. 2. Wait a minute. 3. Sit still with your child, eyes closed.",
      "say": "Sit very still and close your eyes. Can you feel any air on your arms or your face?",
-     "kid": "Sit very still. Close your eyes. Can you feel air?",
+     "kid": "Sit very still with your eyes closed. Notice your arms and your face.",
      "ask": [
       {
        "q": "Can you feel any air?",
@@ -737,8 +737,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Try four things, one at a time. Wave a hand near your cheek. Blow on the back of your hand. Walk fast across the room. Spin slowly with your arms out.",
-     "say": "Now wave your hand near your cheek. Now blow on your hand. Now walk fast. Can you feel air now?",
-     "kid": "Wave your hand near your cheek. Blow on your hand. Walk fast. Feel it?",
+     "say": "Now wave your hand near your cheek. Now blow on your hand. Now walk fast. Now spin slowly. Can you feel air now?",
+     "kid": "Do each thing one at a time. After each one, notice if you feel air.",
      "ask": [
       {
        "q": "When could you feel the air?",
@@ -755,7 +755,7 @@
      "mins": 1,
      "do": "Ask the last question.",
      "say": "When you sat still, was there air in the room?",
-     "kid": "When you sat still, was the air still there?",
+     "kid": "Think back to when you sat still.",
      "check": {
       "t": "mcq",
       "q": "You sat still and felt no air. Then you waved and felt air at once. What does that show?",
@@ -823,7 +823,7 @@
      "mins": 3,
      "do": "1. Spread newspaper on the floor. 2. Use the spoon to put a few drops of runny paint near the bottom of the paper.",
      "say": "Here are some drops of paint. If you blow at them through this straw, what do you think will happen? Why?",
-     "kid": "What will the paint do if you blow on it? Why?",
+     "kid": "Look at the drops of paint. Guess what blowing will do to them.",
      "ask": [
       {
        "q": "What will happen?",
@@ -847,7 +847,7 @@
      "mins": 2,
      "do": "Look at the painting together.",
      "say": "You never touched the paint. What moved it?",
-     "kid": "You never touched the paint. What moved it?",
+     "kid": "Look at your painting. The paint moved, but you never touched it.",
      "ask": [
       {
        "q": "What moved the paint?",
@@ -865,7 +865,7 @@
    "title": "Bubble Blowing: air inside a bubble",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you blow soap bubbles. Each bubble is a thin skin of soapy water with your breath inside. Then you move the air and watch where the bubbles go.",
+   "context": "In this activity you blow soap bubbles. Each bubble is a thin skin of soapy water with your breath inside. Then you move the air and watch where the bubbles go. You will find out what bubbles tell you about air.",
    "materials": [
     {
      "item": "a katori of water with 2 spoons of dishwashing liquid stirred in gently",
@@ -888,7 +888,7 @@
      "what": "Blow bubbles. Fan them with a notebook and watch them float away."
     }
    ],
-   "record": "Draw a bubble with your breath inside it.",
+   "record": "Tell your grown-up what is inside a bubble and how you know. You can also draw one.",
    "setup": [
     {
      "art": "A child dipping the end of a straw in a katori of soapy water.",
@@ -905,7 +905,7 @@
      "mins": 5,
      "do": "1. Dip the end of the straw in the soapy water. 2. Hold it up and blow gently through the other end.",
      "say": "Blow very gently. What is inside the bubble?",
-     "kid": "Blow gently into the straw. What is inside the bubble?",
+     "kid": "Dip the straw and blow one gentle bubble. Look at it closely.",
      "ask": [
       {
        "q": "What is inside the bubble?",
@@ -923,7 +923,7 @@
      "mins": 4,
      "do": "Your child blows a few bubbles. You fan them gently with the notebook.",
      "say": "Watch the bubbles. Which way do they go when I fan them? Can you make them float to the window?",
-     "kid": "Fan the bubbles. Which way do they go?",
+     "kid": "Watch the bubbles while your grown-up fans them. Which way do they go?",
      "parent": "The bubbles float along with the moving air, away from the notebook."
     },
     {
@@ -931,7 +931,7 @@
      "mins": 1,
      "do": "Ask the last question.",
      "say": "We can't see the air inside a bubble. How do we know it is there?",
-     "kid": "How do we know there is air in a bubble?",
+     "kid": "Think about the round, fat shape of the bubble.",
      "ask": [
       {
        "q": "How do we know there is air inside?",
@@ -951,7 +951,7 @@
    "title": "My Air Book: three days",
    "days": 3,
    "mins": 24,
-   "context": "In this project you make a small book about air, one page a day. Day 1 is where air is. Day 2 is what moving air pushes. Day 3 is who uses air.",
+   "context": "In this project you make a small book about air, one page a day. Day 1 is where air is. Day 2 is what moving air pushes. Day 3 is who uses air. By the end you will have shown someone how air is everywhere, moves things and keeps living beings alive.",
    "materials": [
     {
      "item": "3 sheets of paper, folded in half and stapled or tied with thread",
@@ -966,17 +966,17 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Make the book. On page 1, draw three places in your home where there is air."
+     "what": "Make the book. On page 1, draw or write three places in your home where there is air."
     },
     {
      "day": 2,
      "mins": 8,
-     "what": "Look out of the window. On page 2, draw three things that moving air pushes."
+     "what": "Look out of the window. On page 2, write three things that moving air pushes."
     },
     {
      "day": 3,
      "mins": 8,
-     "what": "On page 3, draw three living beings that use air. Show your whole book to someone and tell them about each page."
+     "what": "On page 3, write three living beings that use air. Show your whole book to someone and tell them about each page."
     }
    ],
    "record": "The finished air book, shown to a family member and told page by page.",
@@ -987,35 +987,35 @@
     },
     {
      "art": "An open page with crayon drawings of a cupboard, a bed and a bucket, each with little dots of air inside.",
-     "caption": "2. Draw one page each day."
+     "caption": "2. Fill one page each day."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Fold and staple the book. 2. Your child writes or copies 'My Air Book' on the cover. 3. On page 1, they draw three places where there is air.",
-     "say": "Where did we find air? Draw three places on this page. Draw little dots to show the air.",
-     "kid": "Draw three places where air is. Use dots for the air."
+     "do": "1. Fold and staple the book. 2. Your child writes or copies 'My Air Book' on the cover. 3. On page 1, they draw or write three places where there is air.",
+     "say": "Where did we find air? Let's put three of those places on this page.",
+     "kid": "Draw or write three places where air is. Add little dots for the air."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Look out of a window together for a few minutes, then draw.",
-     "say": "Look outside. What is the air pushing? Draw three things on page 2.",
-     "kid": "Look out of the window. What is the air pushing? Draw three things.",
+     "do": "Look out of a window together for a few minutes. Then your child writes three things the air is pushing on page 2. A grown-up can write for them.",
+     "say": "Look outside. What is the air pushing? Let's write three things on page 2.",
+     "kid": "Spot three things the air is pushing. Write their names, or ask for help.",
      "parent": "Good things to spot: leaves, clothes on a line, a flag, a kite, smoke, dust, a bird gliding.",
      "wait": "Do this the next day"
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "On page 3, your child draws three living beings that use air. Then they show the book and tell what is on each page.",
-     "say": "Who uses air? Draw three living beings. Then show your book to a family member and tell them about each page.",
-     "kid": "Draw three living beings that use air. Show your book to someone.",
+     "do": "On page 3, your child writes three living beings that use air, or says them while a grown-up writes. Then they show the book and tell what is on each page.",
+     "say": "Who uses air? Think of three living beings and write them on page 3. Then show your book to a family member and tell them about each page.",
+     "kid": "Write three living beings that use air. Show your book to someone.",
      "ask": [
       {
-       "q": "Who did you draw?",
+       "q": "Which living beings did you choose?",
        "good": [
         "Me, the cat and the tulsi plant.",
         "A crow, because she breathes air."
@@ -1032,7 +1032,7 @@
    "id": "c1",
    "title": "Sail the Paper Boat Without Touching It",
    "mins": 15,
-   "context": "This is a making challenge. Fold a paper boat and get it across a tray of water using only moving air.",
+   "context": "This is a making challenge. Fold a paper boat and get it across a tray of water using only moving air. You will find out which way of moving air pushes a boat best.",
    "problem": "Your paper boat is at one end of a tray of water. Get it to the other end without touching the boat or the water.",
    "constraints": [
     "Use only air to move the boat.",
@@ -1042,7 +1042,7 @@
    "materials": [
     "a sheet of paper or newspaper, for the boat",
     "a big plate, a tray or a wide basin with a little water",
-    "a straw, a notebook, and a plastic bag"
+    "a straw, a notebook, a plastic bag, and a little tape and paper for a sail"
    ],
    "general": [
     "Blow on the boat from behind.",
@@ -1070,7 +1070,7 @@
      "mins": 4,
      "do": "Fold a paper boat together. Put a little water in the tray and float the boat at one end.",
      "say": "Can you get the boat to the other end without touching it or the water? How?",
-     "kid": "Get the boat across. Don't touch it. How will you do it?",
+     "kid": "Think of a way to move the boat with air.",
      "ask": [
       {
        "q": "How could you move it?",
@@ -1086,7 +1086,7 @@
      "mins": 8,
      "do": "Let your child try their ideas. Then show the creative ideas one at a time, if they get stuck.",
      "say": "Try it. Count your puffs. Now try a sail. Does the boat go faster?",
-     "kid": "Try it. Count your puffs. Try a sail. Is it faster?",
+     "kid": "Count your puffs for each way. Which way needs the fewest?",
      "parent": "A paper sail on a rolled-paper mast taped to the boat gives the moving air more to push on. A paper boat gets soggy after a while. Make a new one if it does."
     },
     {
@@ -1094,7 +1094,7 @@
      "mins": 3,
      "do": "Ask the last question.",
      "say": "Which way got your boat across best? What pushed the boat?",
-     "kid": "Which way worked best? What pushed the boat?",
+     "kid": "Think about which way needed the fewest puffs.",
      "ask": [
       {
        "q": "What pushed the boat?",

@@ -168,11 +168,11 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 15 cards. 2. Lay the 5 need cards face up in a row. 3. Mix the 10 helper cards face down.  
   *Parent says:* These five cards are the five things every person needs. These other cards are helpers. Each helper gives us one need.  
-  *Child mode:* These are the five needs. The other cards are helpers. Each helper gives one need.
+  *Child mode:* Look at the five need cards. Each helper card will give you one of them.
 - **s2 (9 min)**  
   *Parent does:* Take turns picking a helper card. Read it aloud. Ask for a reason before it goes down.  
   *Parent says:* Which need does this one give us? Why do you think so?  
-  *Child mode:* Pick a card. Which need does it give? Say why.
+  *Child mode:* Pick the top card and read it out. Put it under a need.
   - Ask: Which need does the open window give? (good: Air.; Fresh air comes in through it.)
   - Note: The pigeon's nest is a good one to talk about. A nest is a home for a pigeon. Humans and other animals both need shelter.
 - **s3 (3 min)**  
@@ -186,17 +186,17 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
 - **s1 (2 min)**  
   *Parent does:* 1. Switch the fan on. 2. Put a shawl and a cap on a chair. 3. Show everyone the table and the sofa.  
   *Parent says:* When I show a card, run to the right shelter. The table is our roof. The sofa is our wall.  
-  *Child mode:* The table is a roof. The sofa is a wall. Listen for the weather!
+  *Child mode:* Listen for the weather card, then run.
 - **s2 (7 min)**  
   *Parent does:* Show the cards one at a time, in any order. Check with the back of each card.  
-  *Parent says:* Wind! Where will you hide? Which side of the sofa is the calm side?  
+  *Parent says:* Here is the card. Where will you go, or what will you do?  
   *Child mode:* Run to the right shelter. Do the right action.
-  - Ask: Why did you hide on that side of the sofa? (good: It is away from the fan.; The sofa stops the wind there.)
+  - Ask: For the Wind card, why did you hide on that side of the sofa? (good: It is away from the fan.; The sofa stops the wind there.)
   - Note: Keep the running gentle indoors. Push sharp corners and glass out of the way first.
 - **s3 (1 min)**  
-  *Parent does:* Ask one last question.  
-  *Parent says:* Which cards needed a roof, and which needed a wall?  
-  *Child mode:* Which weather needs a roof? Which needs a wall?
+  *Parent does:* Lay the six weather cards on the floor. Ask your child to sort them into three groups: roof, wall, and something else.  
+  *Parent says:* Which cards needed a roof, and which needed a wall? Put the rest in a third group.  
+  *Child mode:* Sort the six cards into three groups.
   - Note: Rain and hot sun need a roof. Wind needs a wall, on the side the wind comes from. Cold needs a shawl, mosquitoes need long sleeves, and thirst needs water.
 
 ## Experiments
@@ -205,7 +205,7 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
 - **predict:** Guess first. In which shelter will the tissue flag stay still: the tunnel, the box with its door to the fan, or the box with its door away from the fan? Why do you think so?
 - **fair test:** The fan stays at the same speed and the same place, about two big steps from the box. The tissue flag stands in the middle of the box each time. Only the shelter changes.
 - **safety:** Keep fingers, hair and the tissue away from the fan blades. A grown-up does the cutting and moves the fan.
-- **record:** Draw the box and the fan for each test. Draw the tissue flying for 'flapped' and hanging straight down for 'still'.
+- **record:** Fill in the results table. For each test write flapped, wobbled or hung still. You can also take a photo of each test, or draw the box and the fan.
 - **results table:** Shelter | What the tissue flag did: flapped, wobbled, or hung still
 - **s1 (3 min)**  
   *Parent does:* 1. Tear a strip of tissue, two fingers wide and as long as your hand. 2. Tape its top end to the top of the pencil. 3. Stand the pencil upright in the tumbler of rice.  
@@ -214,97 +214,97 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
   - Note: Tissue works best because it is so light. A strip from a thin plastic carry bag also works.
 - **s2 (2 min)**  
   *Parent does:* 1. Switch the fan on to medium. 2. Put the flag on the floor or a low table, two big steps in front of the fan.  
-  *Parent says:* Watch the flag. What is moving it? We cannot see the air, but we can see what it does.  
-  *Child mode:* Watch the flag. What is moving it?
+  *Parent says:* Watch the flag. We cannot see the air, but we can see what it does.  
+  *Child mode:* Watch the flag for a slow count of ten.
   - Ask: What is making the flag move? (good: The wind from the fan.; Moving air.)
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the top and bottom flaps off the carton, so both ends are open. 2. Lay it on its side. 3. Show the tunnel, the cardboard and tape. 4. Ask for guesses.  
-  *Parent says:* Soon this tunnel will become a box with one door. Which shelter will keep the flag still? Should the door face the fan, or face away? Why do you think so?  
-  *Child mode:* Which shelter will keep the flag still? Why do you think so?
+  *Parent says:* Soon this tunnel will become a box with one door. Let us guess how to keep the flag still.  
+  *Child mode:* Make a guess and tell your reason.
   - Ask: Where should the door face? Why? (good: Away from the fan, so the wind can't get in.; Towards the fan, so I can see in.)
   - Note: Write down the guess and the reason. Any reason is a good start. Do not say which is right yet.
 - **s4 (3 min)**  
   *Parent does:* 1. Put the tunnel over the flag, so the fan blows straight through one end and out of the other. 2. Watch the flag for a slow count of ten.  
   *Parent says:* The flag has a roof and two walls now. Watch it. Does it flap, wobble or hang still?  
-  *Child mode:* Your flag has a roof now. Does it still flap?
+  *Child mode:* Watch the flag under the tunnel.
   - Ask: Did the tunnel keep the wind out? (good: No, the wind blew straight through.; The flag still flapped.)
 - **s5 (4 min) · grown-up needed**  
   *Parent does:* 1. Lift the carton off. 2. Tape the cardboard over one end, so the box has one open door. 3. Put it back over the flag with the door facing the fan. 4. Watch for a slow count of ten.  
   *Parent says:* Now the box has one door, and the door faces the fan. Watch the flag.  
-  *Child mode:* Now the door faces the fan. Watch the flag.
+  *Child mode:* Watch the flag for a slow count of ten.
   - Ask: What did the flag do? (good: It flapped.; It wobbled, because wind came in through the door.)
   - Note: The flag may flap hard or only wobble, depending on the size of the box. Either is fine. Compare it with the next test.
 - **s6 (3 min)**  
   *Parent does:* 1. Lift the box and turn it round, so the closed end faces the fan. 2. Put it back over the flag in the same place. 3. Watch for a slow count of ten.  
-  *Parent says:* Now the closed wall faces the fan, and the door faces away. Watch the flag. What do you see?  
-  *Child mode:* Now the wall faces the fan. What does the flag do?
+  *Parent says:* Now the closed wall faces the fan, and the door faces away. Watch the flag.  
+  *Child mode:* Watch the flag for a slow count of ten.
   - Ask: What did the flag do now? (good: It hung still.; It hardly moved.)
   - Note: The flag should hang still or only shiver a little. If it still flaps, check that the fan blows at the closed end, and move the flag deeper inside the box.
 - **s7 (2 min)**  
   *Parent does:* Ask your child to say three short sentences: what they think, what they saw, and why it happened.  
-  *Parent says:* Tell me what you found out. Which way should a door face on a windy day? What did the flag show you? Why do you think it happened?  
-  *Child mode:* Which way should the door face? What did your flag show you?
+  *Parent says:* Tell me what you found out. What did the flag show you? Why do you think it happened?  
+  *Child mode:* Look at your results table and tell what you found out.
   - Note: A strong answer: I think the door should face away from the wind. The flag hung still when the wall faced the fan. The wind hit the wall and went around.
   - Check: In which test did the tissue flag hang still? → **The box, door facing away from the fan**
 
 ## Activities
 ### a1 · Five Needs on Five Fingers (8 min)
-- **record:** Draw your hand. Draw one need on each finger.
+- **record:** Hold up your hand and name the five needs, one on each finger, without looking. Or draw your hand and one need on each finger.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold up your thumb and take one slow breath together. 2. Hold up the next finger and take a sip of water. 3. Hold up the middle finger and eat the small piece of food.  
   *Parent says:* Every person needs five things. Here are three of them. Breathe in air. Sip water. Eat a little food. Where did each one go?  
-  *Child mode:* Take a slow breath. Sip some water. Eat a little food. Where did they go?
+  *Child mode:* Breathe in. Sip the water. Eat the food.
   - Ask: Where did the air, water and food go? (good: Inside me.; Into my body.)
 - **s2 (2 min)**  
   *Parent does:* 1. Hold up the fourth finger and touch your clothes. 2. Hold up the little finger and press a palm on the wall of the room.  
   *Parent says:* Here are the last two. Touch your clothes. Touch the wall of our home. Did these go inside you?  
-  *Child mode:* Touch your clothes. Touch the wall. Did they go inside you?
+  *Child mode:* Touch your clothes. Touch the wall.
   - Ask: How are clothes and a home different from air, water and food? (good: They stay outside me.; They keep me safe.)
 - **s3 (2 min)**  
   *Parent does:* Ask the last question. Wait for a guess and a reason.  
   *Parent says:* Which of these five do you need again soonest? Why do you think so?  
-  *Child mode:* Which one do you need again soonest? Why?
+  *Child mode:* Think about how long you could go without each one.
   - Ask: Which do you need again soonest? (good: Air, because I breathe all the time.; Air. I need another breath in a few seconds.)
   - Note: Children often say food. If they like, let your child hold their breath for a moment and then breathe. They will feel how soon they need air.
 ### a2 · Find the Calm Spots at Home (10 min)
-- **record:** Draw a map of the room. Draw the fan, and a star on each calm spot.
+- **record:** Take a photo of the room with the stars in place. Or draw a map of the room with the fan and a star on each calm spot.
 - **s1 (7 min)**  
   *Parent does:* 1. Switch on a table fan. 2. Lift the pencil with the flag out of the tumbler. Your child holds it at knee height and walks slowly round the room. 3. Put a paper star wherever the flag hangs still.  
-  *Parent says:* Let's find the calm spots in this room. Hold your flag low. Where does it hang still?  
-  *Child mode:* Walk slowly with your flag. Where does it hang still?
+  *Parent says:* Let's find the calm spots in this room. Hold your flag low and walk slowly.  
+  *Child mode:* Walk round the room with your flag. Stop where it hangs still.
   - Ask: Why is this spot calm? (good: The sofa is in the way of the wind.; It is behind something.)
   - Note: A table fan gives the clearest result. With a ceiling fan the wind blows down and out. Calm spots are often under a table, behind a sofa or beside a cupboard.
 - **s2 (3 min)**  
   *Parent does:* Look at all the stars together.  
   *Parent says:* Look at our stars. What is next to each calm spot?  
-  *Child mode:* What is next to each star?
+  *Child mode:* Point to each star and name what is beside it.
   - Ask: What do the calm spots have in common? (good: Something blocks the wind.; They are behind a wall or a sofa.)
 ### a3 · When I Was a Baby: what did I need? (10 min)
-- **record:** Draw yourself as a baby, and draw who gave you each need.
+- **record:** For each of the five needs, say who gave it to you as a baby. Write one line each, or draw it if you like.
 - **s1 (6 min)**  
   *Parent does:* Look at the photos together. For each one, find the needs you can see.  
   *Parent says:* Here you are as a baby. Who gave you your food? Who kept you warm? Where did you sleep?  
-  *Child mode:* Look at baby you. Who gave you food? Where did you sleep?
+  *Child mode:* Look at the photos. Point to food, clothes and a place to sleep.
   - Ask: How did you get food and water as a baby? (good: Someone fed me milk.; Someone gave it to me.)
   - Note: Tell your child one true thing about their baby days: what they drank, a favourite cloth, where they slept. Milk gives a baby both food and water.
 - **s2 (4 min)**  
   *Parent does:* Ask the big question, and listen.  
-  *Parent says:* A baby cannot get any of the five needs alone. So what else does a baby need?  
-  *Child mode:* What else does a baby need?
+  *Parent says:* A baby cannot get air, water, food, clothes or a home alone. Someone gives them all.  
+  *Child mode:* Think about who gave you these things.
   - Ask: What else does a baby need? (good: Someone to look after them.; Someone who loves them.)
 
 ## Projects
 ### p1 · Our Bedsheet Home: a tent with all five needs (30 min)
 - **safety:** Use light chairs, and keep the tent away from the fan blades and the stove.
-- **record:** Draw your tent from outside, with the fan, and draw the five needs inside.
+- **record:** Take a photo of your tent. Then show your grown-up where each of the five needs is. Or draw the tent and the five needs inside.
 - **s1 (8 min)**  
   *Parent does:* 1. Put two chairs back to back, a little apart. 2. Spread the bedsheet over them so it hangs down on every side. 3. Weigh the edges down with books. 4. Fold one edge up on top: that is the door.  
   *Parent says:* Let's build a home, like the tent in our story. Where should the door go?  
-  *Child mode:* Build a tent with chairs and a sheet. Where will the door go?
+  *Child mode:* Build the tent with the chairs and the sheet.
 - **s2 (7 min)**  
   *Parent does:* 1. Switch on the fan. 2. Put the tissue flag inside. 3. Turn the tent so the door faces the fan, then away from it.  
   *Parent says:* Let's test our tent with the flag. Which way keeps it calm inside?  
-  *Child mode:* Put your flag inside. Turn the tent. When is it calm inside?
+  *Child mode:* Put your flag inside. Turn the tent to face the fan, then away.
   - Ask: Which way keeps the tent calm? (good: Door away from the fan.; The closed side facing the wind.)
   - Note: A sheet is floppy, so the result is less clear than with the cardboard box in the wind box test. Weigh the edges down with books, and watch whether the flag still moves.
 - **s3 (15 min)**  
@@ -317,14 +317,14 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
 ## Challenges
 ### c1 · A Home for the Tissue Flag, Wind From Any Side (20 min)
 - **problem:** A real home stands in one place, but the wind can come from any side. Build a shelter for your tissue flag that keeps it still when the fan blows from the front, then from the side.
-- **your turn:** Now invent your own shelter. Draw it, build it, and test it with the fan from two sides. What would you change?
+- **your turn:** Now invent your own shelter. Build it, and test it with the fan from two sides. You can draw a quick plan first. What would you change?
 - **constraints:** Use only things from home: books, card, paper, a box or cloth.; The flag must hang still for a slow count of ten.; A grown-up moves the fan to a new side after the first test.
 - **general:** Close all four sides and leave a small door you can shut.; Make the door face away from the wind, and turn the shelter when the wind changes.
 - **creative:** Build a round wall that curls like a snail shell, so the door is tucked inside the curl.; Hang a cloth curtain over the door, so wind from any side cannot rush straight in.
 - **s1 (4 min)**  
   *Parent does:* Show your child the problem. First look at the flag in the fan's wind with no shelter.  
   *Parent says:* Real wind can blow from any side. Can you build a home that keeps our flag calm, whichever way the wind blows?  
-  *Child mode:* Build a home for your flag. The wind may come from any side.
+  *Child mode:* Look at your flag in the wind. Think how to protect it.
 - **s2 (10 min)**  
   *Parent does:* Your child chooses an idea, or invents one, and builds the shelter.  
   *Parent says:* Which idea will you try? Where will the door go?  
@@ -333,7 +333,7 @@ Later, the stars came out over the sea. The pigeon was still on her calm ledge. 
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. Test with the fan in front. 2. Then move the fan to one side and test again.  
   *Parent says:* Watch the flag. Now the wind comes from the side. What happens?  
-  *Child mode:* Test it. Now the wind comes from the side. Is it still calm?
+  *Child mode:* Watch the flag for a slow count of ten, from each side.
   - Ask: What would you change? (good: Close the door when the wind changes.; Make the wall go all the way round.)
   - Note: Keep fingers and the tissue away from the fan blades.
 

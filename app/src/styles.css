@@ -6383,6 +6383,35 @@ body {
 .fxsum.open {
   display: block;
 }
+.fxlab {
+  display: block;
+  margin-top: 10px;
+  font: 700 var(--fs-2) var(--mono);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.fxlearn {
+  margin: 16px 0;
+  padding: 14px 16px;
+  border: var(--edge);
+  border-radius: 14px;
+  background: var(--surface);
+  box-shadow: var(--pop);
+}
+.fxlearn h2 {
+  font: 400 var(--fs-6) var(--poster);
+}
+.fxlearn ul {
+  margin: 8px 0 0;
+  padding-left: 22px;
+  display: grid;
+  gap: 8px;
+  font: 500 var(--fs-4) / 1.4 var(--body);
+}
+.fxlearn li::marker {
+  color: var(--margin);
+}
 /* Library: a big picture on the left, a short title and line, the board chapter as a small tag, and a round + to add */
 .libtop {
   margin-top: 8px;

@@ -269,7 +269,7 @@
    "title": "Which Part Am I? A clue game",
    "mins": 10,
    "players": "1 or more players and a reader",
-   "context": "This is a game about what each body part helps you do. The reader reads a clue. The players touch the part on their own body.",
+   "context": "This is a game about what each body part helps you do. You will find out how many parts you can name from a clue alone. The reader reads a clue. The players touch the part on their own body.",
    "printables": [
     {
      "kind": "cards",
@@ -393,7 +393,7 @@
    "title": "Move Like Me: animal body cards",
    "mins": 12,
    "players": "1 or more players and a reader",
-   "context": "This is a moving game about humans and other animals. Each card asks you to move like an animal. Then you say which of your body parts did the job.",
+   "context": "This is a moving game about humans and other animals. You will find out which animal parts are like yours. Each card asks you to move like an animal. Then you say which of your body parts did the job.",
    "printables": [
     {
      "kind": "cards",
@@ -495,13 +495,13 @@
      "mins": 1,
      "do": "Clear a space. Mix the cards.",
      "say": "We're going to move like animals. Then tell me which part of you did the moving.",
-     "kid": "Move like the animal. Which part did you use?"
+     "kid": "Get ready to move like an animal."
     },
     {
      "id": "s2",
      "mins": 9,
      "do": "1. Read each card. 2. Everyone moves for five seconds. 3. Each player names the part they used. 4. Read the back.",
-     "say": "Flap your arms like a crow's wings! Which part of you is like a crow's wing?",
+     "say": "Flap your arms like a crow's wings! Which part of you did the flapping?",
      "kid": "Move like the animal. Name the part you used.",
      "ask": [
       {
@@ -882,7 +882,7 @@
    "title": "Thumb Taped: which jobs can your hand still do?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you try three everyday jobs with your hand. First you do them with your thumb free. Then a grown-up tapes your thumb down, and you try the same jobs again.",
+   "context": "In this experiment you will find out why your thumb matters. You try three everyday jobs with your hand. First you do them with your thumb free. Then a grown-up tapes your thumb down, and you try the same jobs again.",
    "question": "If your thumb is taped down, which everyday jobs can your hand still do, and which become hard?",
    "predict": "Guess first. With your thumb taped, which job will be the hardest: picking up rice, picking up a coin, or doing a button? Which will be the easiest? Why do you think so?",
    "fair_test": "You use the same hand, the same three jobs and the same things each time. The only change is the thumb: free the first time, taped the second time.",
@@ -917,10 +917,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Guess which job will be hardest. Do three jobs with your thumb free. Tape your thumb down and do them again. Draw a face for each try. Talk about what you found."
+     "what": "Guess which job will be hardest. Do three jobs with your thumb free. Tape your thumb down and do them again. Say easy, slow or could not for each try, and write it down. Talk about what you found."
     }
    ],
-   "record": "On a sheet, draw the three jobs down the side. For each job, draw a face for thumb free and a face for thumb taped: a smile for easy, a straight mouth for slow, a sad face for could not.",
+   "record": "On a sheet, write the three jobs down the side. For each job, write easy, slow or could not for thumb free, and again for thumb taped.",
    "flow": [
     {
      "id": "s1",
@@ -933,9 +933,9 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "Ask your child to guess, and to say why. Write the guess down, or let your child draw it.",
+     "do": "Ask your child to guess, and to say why. Write the guess down.",
      "say": "Soon I will tape your thumb down. Which job will be the hardest then? Which will be the easiest? Why do you think so?",
-     "kid": "Guess. Which job will be hardest with no thumb? Why?",
+     "kid": "Make a guess, and say why you think so.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -950,7 +950,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Your child does all three jobs with the thumb free. 2. After each job, your child picks a face: easy, slow or could not. 3. Draw the face on the sheet.",
+     "do": "1. Your child does all three jobs with the thumb free. 2. After each job, your child says easy, slow or could not. 3. Write that word on the sheet.",
      "say": "First, with your thumb free. Pick up the rice grains. Was that easy, slow, or could you not do it?",
      "kid": "Do each job with your thumb free. Was it easy?",
      "parent": "With the thumb free, most six-year-olds find all three jobs easy, though the button may be slow. That is fine. It gives us something to compare with."
@@ -967,7 +967,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Your child does the same three jobs, in the same order, with the thumb taped. 2. After each job, your child picks a face. 3. Draw the face on the sheet. 4. If a job takes more than a minute, stop and mark it 'could not'.",
+     "do": "1. Your child does the same three jobs, in the same order, with the thumb taped. 2. After each job, your child says easy, slow or could not. 3. Write that word on the sheet. 4. If a job takes more than a minute, stop and mark it 'could not'.",
      "say": "Now the same jobs with your thumb taped. Pick up the rice grains. How did that go?",
      "kid": "Do the same jobs again. Your thumb is taped. Was it hard?",
      "ask": [
@@ -993,10 +993,10 @@
      "mins": 2,
      "do": "1. Take off the tape. 2. Your child pinches one grain of rice with thumb and first finger. 3. Ask what your child found out, and why some jobs were so hard.",
      "say": "Your thumb is free again. Pick up one grain now. What did you find out? Why were some jobs so hard?",
-     "kid": "Pinch one grain with your thumb. What did you find out?",
+     "kid": "Pinch one grain with your thumb. Feel what your thumb does.",
      "ask": [
       {
-       "q": "Your four fingers were free the whole time. So why was the coin so hard?",
+       "q": "What did you find out about your thumb?",
        "good": [
         "My fingers had nothing to press against.",
         "To pick it up, the thumb has to push on the other side."
@@ -1050,7 +1050,7 @@
     },
     {
      "art": "A child's hand, thumb free, pinching one grain of rice over a steel bowl.",
-     "caption": "2. Do each job with your thumb free. Draw a face."
+     "caption": "2. Do each job with your thumb free. Say if it was easy."
     },
     {
      "art": "A child's writing hand with the thumb taped flat against the side of the hand with a strip of paper tape, the four fingers free.",
@@ -1058,7 +1058,7 @@
     },
     {
      "art": "The same taped hand trying to lift a coin off a floor, the coin slipping between two fingers.",
-     "caption": "4. Do the same jobs again. Draw a face for each one."
+     "caption": "4. Do the same jobs again. Say if each one was easy."
     }
    ]
   },
@@ -1067,7 +1067,7 @@
    "title": "Quick Hands: which hand moves more beans?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you move rajma beans from one bowl to another, one at a time, for half a minute. You try with one hand, then with the other hand. Then everyone at home has a turn.",
+   "context": "In this experiment you will find out if your writing hand is quicker. You move rajma beans from one bowl to another, one at a time, for half a minute. You try with one hand, then with the other hand. Then everyone at home has a turn.",
    "question": "In half a minute, will you move more beans with your writing hand or with your other hand?",
    "predict": "Guess first. Which hand will move more beans, or will both move the same? Why do you think so?",
    "fair_test": "Each hand gets the same beans, the same bowls, the same half minute, and moves one bean at a time.",
@@ -1098,14 +1098,14 @@
      "what": "Guess. Move beans one at a time with each hand for half a minute. Count. Let everyone at home try."
     }
    ],
-   "record": "Draw two bowls for each person, one for each hand. Write the number of beans in each.",
+   "record": "Make a table. Write each person's name, and the number of beans they moved with each hand.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "1. Put all the beans in one bowl. 2. Put the empty bowl a hand's width away. 3. Ask your child to guess, and why.",
      "say": "You will move beans one at a time, for half a minute. Which hand will move more beans? Why do you think so?",
-     "kid": "Guess. Which hand will move more beans? Why?",
+     "kid": "Make a guess, and say why you think so.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1209,7 +1209,7 @@
    "title": "Head to Toes: touch it, name it, say its job",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you stand in front of a mirror. A grown-up names a body part, and you touch it. Then you say one job that part helps you do.",
+   "context": "In this activity you learn the names of your body parts and what each one does. You stand in front of a mirror. A grown-up names a body part, and you touch it. Then you say one job that part helps you do.",
    "materials": [
     {
      "item": "a mirror, if you have one",
@@ -1281,7 +1281,7 @@
    "title": "Straight-Arm Snack: what does your elbow do?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity a grown-up wraps a newspaper tube round your elbow, so your arm cannot bend. Then you try to eat a snack with that hand.",
+   "context": "In this activity you will find out what your elbow does. A grown-up wraps a newspaper tube round your elbow, so your arm cannot bend. Then you try to eat a snack with that hand.",
    "materials": [
     {
      "item": "newspaper sheets, or a rolled magazine",
@@ -1303,7 +1303,7 @@
      "what": "Wrap a newspaper tube round one elbow. Try to eat a snack with that hand. Then try with the arm free."
     }
    ],
-   "record": "Draw your arm with the newspaper tube on it. Draw where the snack got to.",
+   "record": "Take a photo of your arm with the tube on, or tell someone at dinner where the snack got to.",
    "flow": [
     {
      "id": "s1",
@@ -1319,7 +1319,7 @@
      "mins": 2,
      "do": "Ask your child to guess first, and to say why.",
      "say": "Your hand is free and your fingers are free. Can you put this snack in your mouth with this hand? Why do you think so?",
-     "kid": "Guess. Can you eat the snack with this hand? Why?"
+     "kid": "Make a guess, and say why you think so."
     },
     {
      "id": "s3",
@@ -1374,7 +1374,7 @@
    "title": "One, Two or Many? Count your body",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you count your body parts and sort them into three groups: parts you have one of, parts you have two of, and parts you have many of.",
+   "context": "In this activity you find out which parts of your body come as one, as two, or as many. You count your body parts and sort them into three groups.",
    "materials": [
     {
      "item": "three sheets of paper, marked 1, 2 and MANY",
@@ -1396,7 +1396,7 @@
      "what": "Count body parts. Sort each one onto the 1, 2 or MANY sheet. Count teeth in a mirror."
     }
    ],
-   "record": "Draw one part on each sheet: a part you have one of, a part you have two of, and a part you have many of.",
+   "record": "Tell someone at home one part you have one of, one part you have two of, and one part you have many of.",
    "flow": [
     {
      "id": "s1",
@@ -1418,8 +1418,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the last question and talk about it.",
-     "say": "Is there a part that you have none of, but a cat or a crow has?",
-     "kid": "Which part does a cat have that you don't?",
+     "say": "Think of a cat, or a crow. Look at your own body.",
+     "kid": "Compare a cat and a crow with you.",
      "ask": [
       {
        "q": "Which part does a cat or a crow have that you don't?",
@@ -1449,7 +1449,7 @@
    "title": "Hand Family: draw round every hand at home",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you draw round the hand of everyone at home on one big sheet. Then you look for what is the same and what is different.",
+   "context": "In this activity you find out how everyone's hands are the same and how they are different. You trace round the hand of everyone at home on one big sheet.",
    "materials": [
     {
      "item": "a big sheet of paper, or a few sheets of newspaper taped together",
@@ -1472,7 +1472,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Each person lays one hand flat on the paper, fingers spread. 2. Your child draws round it with a crayon. 3. Use a different colour for each person.",
+     "do": "1. Each person lays one hand flat on the paper, fingers spread. 2. Your child draws round it with a crayon. 3. Use a different colour for each person. If your child does not want to trace, lay the hands side by side on the floor instead.",
      "say": "Spread your fingers. Keep still while I draw round your hand. Now you draw round mine.",
      "kid": "Draw round each hand. Use a new colour each time."
     },
@@ -1527,7 +1527,7 @@
    "title": "My Body Book: three pages about me",
    "mins": 30,
    "days": 3,
-   "context": "In this three-day project you make a small book about your body. Each day you make one page.",
+   "context": "In this three-day project you make a small book that shows what each part of you does. Each day you make one page.",
    "materials": [
     {
      "item": "three sheets of paper, folded in half and stapled or tied with thread",
@@ -1542,17 +1542,17 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Page 1: draw your whole body. A grown-up helps you write five body parts."
+     "what": "Page 1: draw your whole body, or stick in a photo of yourself. A grown-up helps you write five body parts."
     },
     {
      "day": 2,
      "mins": 10,
-     "what": "Page 2: 'My hands can…' Draw three jobs your hands did today."
+     "what": "Page 2: 'My hands can…' Act out three jobs your hands did today. A grown-up writes each one on the page."
     },
     {
      "day": 3,
      "mins": 10,
-     "what": "Page 3: 'Same and different'. Draw yourself next to someone at home. Say one way you are the same and one way you are different."
+     "what": "Page 3: 'Same and different'. Stand next to someone at home. Say one way you are the same and one way you are different. A grown-up writes both down."
     }
    ],
    "record": "The three-page book. Show it to someone and read it to them.",
@@ -1560,17 +1560,17 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Make the book with your child. 2. On page 1, your child draws their whole body. 3. Your child points to five parts, and you help write the names.",
-     "say": "Draw all of you, from your head to your toes. Which five parts shall we name?",
-     "kid": "Draw all of you. Name five parts.",
+     "do": "1. Make the book with your child. 2. On page 1, your child draws their whole body, or sticks in a photo. 3. Your child points to five parts, and you help write the names.",
+     "say": "Draw all of you, from your head to your toes, or we can stick in a photo. Which five parts shall we name?",
+     "kid": "Show all of you. Name five parts.",
      "wait": "Make page 2 tomorrow."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Ask your child what their hands did today. 2. Your child draws three of those jobs on page 2.",
+     "do": "1. Ask your child what their hands did today. 2. Your child acts out three of those jobs. Write each one on page 2.",
      "say": "What did your hands do today? Did they hold a tumbler, pull a zip, or wave to someone?",
-     "kid": "What did your hands do today? Draw three things.",
+     "kid": "Act out three things your hands did today.",
      "wait": "Make page 3 tomorrow.",
      "ask": [
       {
@@ -1585,9 +1585,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. On page 3, your child draws a picture of themselves next to someone at home. 2. Ask for one way the two of them are the same and one way they are different.",
-     "say": "Who will you draw next to you? How are you the same? How are you different?",
-     "kid": "Draw yourself and someone at home. How are you the same?",
+     "do": "1. Your child stands next to someone at home. Take a photo to stick on page 3, or your child can draw it. 2. Ask for one way the two of them are the same and one way they are different.",
+     "say": "Who will stand next to you? Look at both of you. How are you the same? How are you different?",
+     "kid": "Stand next to someone. Look for ways you are the same.",
      "ask": [
       {
        "q": "How are you the same, and how are you different?",
@@ -1606,7 +1606,7 @@
     },
     {
      "art": "An open page with a child's drawing of herself and labels written by a grown-up: head, arm, hand, knee, foot.",
-     "caption": "2. Draw one page each day."
+     "caption": "2. Make one page each day."
     }
    ]
   }
@@ -1647,9 +1647,9 @@
     {
      "id": "c1s1",
      "mins": 3,
-     "do": "Read the challenge. Tape your child's thumb loosely, as in the Thumb Taped test.",
+     "do": "Read the challenge. Lay your child's thumb flat against the side of the hand and tape it loosely.",
      "say": "Your thumb is taped. Can you make a tool that does the thumb's job, and picks up beans?",
-     "kid": "Your thumb is taped. Make a tool to pick up beans.",
+     "kid": "Get your thumb taped. Then plan your tool.",
      "adult": true,
      "parent": "Tape loosely, and take it off at once if the fingertip turns pale or tingles."
     },

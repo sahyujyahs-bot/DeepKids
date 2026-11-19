@@ -221,7 +221,7 @@
    "title": "Two Baskets: sort the animal cards",
    "mins": 15,
    "players": "1 to 4 children and a grown-up",
-   "context": "This is a sorting game with 16 animal cards. A grown-up calls out a sorting rule, and the players put each card in the 'yes' basket or the 'no' basket.",
+   "context": "This is a sorting game with 16 animal cards. A grown-up calls out a sorting rule, and the players put each card in the 'yes' basket or the 'no' basket. You will find out which animals belong together under each rule.",
    "printables": [
     {
      "kind": "cards",
@@ -422,7 +422,7 @@
      "mins": 5,
      "do": "Mix the cards. Call a new rule: 'Has fur or hair'. Sort again.",
      "say": "New rule: has fur or hair. Which pile do you go in?",
-     "kid": "New rule: fur or hair. Where does the 'You' card go?",
+     "kid": "New rule: fur or hair. Sort every card, including the 'You' card.",
      "ask": [
       {
        "q": "Who is in the YES pile with you?",
@@ -439,7 +439,7 @@
      "mins": 2,
      "do": "Put the bat, the crow and the butterfly side by side.",
      "say": "These three all have wings. Are they the same in every other way?",
-     "kid": "Bat, crow, butterfly. All have wings. Are they the same?",
+     "kid": "Look at the bat, the crow and the butterfly. They all have wings. Find one way they are different.",
      "check": {
       "t": "mcq",
       "q": "The bat and the crow both have wings. What does the crow have that the bat does not?",
@@ -459,7 +459,7 @@
    "title": "Guess My Rule",
    "mins": 10,
    "players": "2 or more, with a grown-up",
-   "context": "This is a guessing game. One player sorts the animal cards from Two Baskets by a secret rule. The others look at the groups and guess the rule.",
+   "context": "This is a guessing game. One player sorts the animal cards from Two Baskets by a secret rule. The others look at the groups and guess the rule. You will find out how to work out a sorting rule just by looking at the groups it makes.",
    "printables": [
     {
      "kind": "cards",
@@ -501,8 +501,8 @@
      "id": "s1",
      "mins": 3,
      "do": "You go first. Take the rule card 'Has feathers'. Make two groups: the crow, hen and peacock in one, and the bat, cow and snake in the other.",
-     "say": "I have a secret rule. Look at my two groups. What is the same about everyone in this group?",
-     "kid": "Look at the two groups. What is the same in this group?",
+     "say": "I have a secret rule, and I sorted these animals by it. Look at my two groups. What is the same about everyone in this group?",
+     "kid": "Look at the animals in each group. Find what they share.",
      "ask": [
       {
        "q": "What is my rule?",
@@ -518,7 +518,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Your child is the sorter now. Whisper their rule card to them if they cannot read it yet.",
+     "do": "Your child is the sorter now. They take a rule card from the face-down pile and make two groups of 6 animals. Whisper the rule card to them if they cannot read it yet.",
      "say": "Now you choose a secret rule. Make two groups, and I will guess.",
      "kid": "Now you pick a secret rule. Make two groups. Can your grown-up guess?",
      "parent": "Guess wrong on purpose once. Let your child explain why your guess does not fit. Explaining a rule is harder than using one."
@@ -526,9 +526,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask about the hardest rule of the game.",
+     "do": "Ask your child to think back over the game.",
      "say": "Which rule was hardest to guess? Why?",
-     "kid": "Which rule was hardest? Why?",
+     "kid": "Think back over the game. Tell your grown-up which rule was hardest to guess.",
      "check": {
       "t": "mcq",
       "q": "Group one: snake, fish, earthworm. Group two: cow, crow, ant. What is the rule?",
@@ -550,7 +550,7 @@
    "title": "Leaf Twins: are two leaves from one plant the same?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you pick the two leaves from one plant that look most alike. You lay one on top of the other, and you trace both. Then you compare leaves from different plants.",
+   "context": "In this experiment you pick the two leaves from one plant that look most alike. You lay one on top of the other, and you trace both or take a photo. Then you compare leaves from different plants. You will find out whether two leaves from one plant can ever be exactly the same.",
    "question": "Are two leaves from the same plant exactly the same? And do leaves from different plants share anything?",
    "predict": "Guess first. Will the two most alike leaves match exactly when you lay one on the other? Why do you think so?",
    "fair_test": "We choose the two leaves that look most alike, so the test is as hard as we can make it. We check the same things on every pair: size, shape, colour, the tip, the stalk, and any spots or holes.",
@@ -581,6 +581,10 @@
      "qty": 1
     },
     {
+     "item": "a phone to take a photo, if you like",
+     "qty": 1
+    },
+    {
      "item": "a magnifying glass, if you have one",
      "qty": 1
     }
@@ -589,10 +593,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Guess. Pick the two most alike leaves. Lay them on top of each other and trace them. Compare leaves from different plants."
+     "what": "Guess. Pick the two most alike leaves. Lay them on top of each other, then trace them or take a photo. Compare leaves from different plants."
     }
    ],
-   "record": "Trace the two leaves side by side. Draw a circle round one place where they are different. Then draw the other leaves, and circle one thing they all have.",
+   "record": "Lay the two leaves side by side. Trace them or take a photo. Circle one place where they are different, or point to it and say it. Then say or write one thing all the leaves have.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results: two curry leaves from one sprig",
@@ -652,8 +656,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Show your child two steel spoons from one set. 2. Then show a sprig of curry leaves. 3. Ask for a guess and a reason. 4. Write the guess down.",
-     "say": "These two spoons came from a factory. Will two leaves from one plant be exactly the same? Why do you think so?",
-     "kid": "Will two leaves from one plant be exactly the same? Guess. Why do you think so?",
+     "say": "These two spoons were made in a factory to look the same. Will two leaves from one plant be exactly the same? Why do you think so?",
+     "kid": "Guess: will two leaves from one plant be exactly the same?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -676,9 +680,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Lay one leaf exactly on top of the other. 2. Look at every edge, the tip and the stalk. 3. Then lay them side by side and trace round each one with the pencil.",
-     "say": "Put one leaf right on top of the other. Does any edge peep out? Now let's trace them both.",
-     "kid": "Put one leaf on top of the other. Does an edge peep out? Now trace both leaves.",
+     "do": "1. Lay one leaf exactly on top of the other. 2. Look at every edge, the tip and the stalk. 3. Then lay them side by side. Trace round each one with the pencil, or take a photo of them.",
+     "say": "Put one leaf right on top of the other. Look at the edges and the tip. Does any edge peep out?",
+     "kid": "Look at the edges and the tip. Then lay the leaves side by side. Trace them, or take a photo.",
      "ask": [
       {
        "q": "What is different?",
@@ -695,8 +699,8 @@
      "id": "s4",
      "mins": 3,
      "do": "1. Put a leaf from each of two other plants next to a curry leaf. 2. Ask your child to find one thing all three have.",
-     "say": "These leaves come from different plants. They look different from each other. Can you find one thing they all have?",
-     "kid": "These leaves are from different plants. Find one thing they all have.",
+     "say": "These leaves come from three different plants. They look different from each other. Are they alike in any way?",
+     "kid": "Look at the stalk, the middle line and the colour of each leaf.",
      "ask": [
       {
        "q": "What do all the leaves have?",
@@ -713,9 +717,9 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask your child whether their guess was right, what they saw, and why the two leaves were different.",
-     "say": "Was your guess right? What did you see? Why do you think two leaves from one plant came out different?",
-     "kid": "Was your guess right? What did you see? Why were the two leaves different?",
+     "do": "Ask your child whether their guess was right and what they saw. Then ask why the two leaves were different.",
+     "say": "Was your guess right? What did you see when you laid the leaves on top of each other?",
+     "kid": "Look back at your guess. Were you right? Tell what you saw.",
      "ask": [
       {
        "q": "Why are the two leaves different?",
@@ -728,7 +732,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "You laid two curry leaves from one sprig on top of each other. What did you find?",
+      "q": "You laid two leaves from one plant on top of each other. What did you find?",
       "options": [
        "They matched exactly",
        "They were alike, but not exactly the same",
@@ -746,7 +750,7 @@
    "id": "a1",
    "title": "Leaf Pile Sort: make two groups",
    "mins": 10,
-   "context": "In this activity you gather leaves from the kitchen and from a pot. Then you sort them into two groups by a feature you can see, feel or smell.",
+   "context": "In this activity you gather leaves from the kitchen and from a pot. Then you sort them into two groups by a feature you can see, feel or smell. You will find out what makes a sorting rule clear.",
    "materials": [
     {
      "item": "8 to 10 leaves from the kitchen and any pot: curry leaves, coriander, palak, methi, tulsi, a money plant leaf, a betel leaf, a piece of banana leaf",
@@ -773,7 +777,7 @@
      "mins": 3,
      "do": "1. Gather 8 to 10 leaves from the vegetables and any pot. 2. Put them in one pile. 3. Put two plates beside the pile.",
      "say": "Here is a pile of leaves. Look at them, touch them and smell them. How are they different?",
-     "kid": "Look at the leaves. Touch them. Smell them. How are they different?",
+     "kid": "Look at each leaf. Touch it. Smell it.",
      "ask": [
       {
        "q": "What do you notice?",
@@ -789,8 +793,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Your child chooses one feature and sorts every leaf onto the two plates by it.",
-     "say": "Choose one thing to sort by. You could sort by big or small, shiny or dull, or strong smell or no smell. Put every leaf on one plate.",
-     "kid": "Choose one rule. Big or small? Shiny or dull? Put each leaf on a plate.",
+     "say": "Choose one thing to sort by. You could sort by big or small, shiny or dull, or strong smell or no smell. Put each leaf on one of the two plates.",
+     "kid": "Choose one rule. Then put each leaf on one of the two plates.",
      "parent": "Let your child choose. If a leaf could go either way, ask them to make the rule clearer: 'bigger than my palm' instead of 'big'."
     },
     {
@@ -798,7 +802,7 @@
      "mins": 3,
      "do": "Ask your child to say their rule. Then pick up one leaf and ask why it is on that plate.",
      "say": "What was your rule? Why does this leaf go on this plate?",
-     "kid": "Say your rule. Why is this leaf on this plate?",
+     "kid": "Say your rule out loud. Then pick one leaf and say why it is on its plate.",
      "check": {
       "t": "mcq",
       "q": "Which of these is a rule that everyone in your family would use the same way?",
@@ -876,8 +880,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask your child whether they are the same as the crow.",
-     "say": "We were in the two-legs group, and in the hair group. You and a crow are both in the two-legs group. Are you the same as the crow?",
-     "kid": "You and a crow both have two legs. Are you the same as the crow?",
+     "say": "You and the crow were both in the two-legs group. Are you the same as the crow?",
+     "kid": "Look at the crow card. Is a crow exactly like you?",
      "check": {
       "t": "mcq",
       "q": "You and a crow are both in the two-legs group. What does this tell you?",
@@ -896,7 +900,7 @@
    "id": "a3",
    "title": "Eyes-Closed Leaf Match",
    "mins": 8,
-   "context": "In this activity you feel a leaf with your eyes closed. Then you open your eyes and find the same kind of leaf in the pile. Sorting can use your hands and nose, not only your eyes.",
+   "context": "In this activity you feel a leaf with your eyes closed. Then you open your eyes and find the same kind of leaf in the pile. You will find out that your hands and nose can sort leaves too.",
    "materials": [
     {
      "item": "two leaves each of 4 kinds: for example curry leaf, tulsi, palak and money plant",
@@ -918,7 +922,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Lay one leaf of each of the 4 kinds in a pile. 2. Your child closes their eyes. 3. Put the second leaf of one kind in their hand. 4. They feel it and smell it. 5. They open their eyes and find the same kind in the pile.",
-     "say": "Close your eyes. Feel this leaf. Is it soft or stiff, smooth or rough? Smell it. Now open your eyes and find its partner.",
+     "say": "Close your eyes. Feel this leaf. Is it soft or stiff, smooth or rough? Smell it. Now open your eyes and find the same kind of leaf.",
      "kid": "Close your eyes. Feel the leaf. Smell it. Now open your eyes. Find the same kind.",
      "ask": [
       {
@@ -933,8 +937,8 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Swap. You close your eyes, and your child gives you a leaf.",
-     "say": "Now you test me. Give me a leaf, and I will find its partner.",
+     "do": "Swap. You close your eyes. Your child puts a leaf in your hand. Feel it and smell it, then open your eyes and find the same kind in the pile.",
+     "say": "Now you test me. Give me a leaf, and I will find the same kind in the pile.",
      "kid": "Now test your grown-up. Give them a leaf.",
      "check": {
       "t": "mcq",
@@ -957,7 +961,7 @@
    "title": "My Book of Groups",
    "mins": 25,
    "days": 3,
-   "context": "In this three-day project you make a small book. Each page is one group, like 'has wings'. Over three days you draw the animals and plants you see that fit each page.",
+   "context": "In this three-day project you make a small book. Each page is one group, like 'has wings'. Over three days you add the animals and plants you see that fit each page. You will find out that one living being can fit on more than one page.",
    "materials": [
     {
      "item": "2 sheets of paper folded in half, to make a little book",
@@ -966,18 +970,22 @@
     {
      "item": "crayons or pencils",
      "qty": 1
+    },
+    {
+     "item": "the 16 animal cards from Two Baskets, glue or tape, and a leaf or two",
+     "qty": 1
     }
    ],
    "schedule": [
     {
      "day": 1,
      "mins": 10,
-     "what": "Make the book. Draw a rule at the top of each page: a wing, two legs, no legs, a leaf. Draw one living being you know on each page."
+     "what": "Make the book. Use four pages. Write or draw a rule at the top of each: has wings, has two legs, has no legs, has leaves. On each page, stick a card or a leaf, or draw one living being you know."
     },
     {
      "day": 2,
      "mins": 7,
-     "what": "Draw the animals and plants you saw today on the right pages."
+     "what": "Add the animals and plants you saw today to the right pages. Stick on a card or a leaf, or draw them."
     },
     {
      "day": 3,
@@ -985,7 +993,7 @@
      "what": "Finish the book. Show it to someone at home, page by page."
     }
    ],
-   "record": "The book itself: four pages, each with a rule drawn at the top and the living beings you found drawn below.",
+   "record": "The book itself: four pages, each with a rule at the top and the living beings you found stuck or drawn below.",
    "setup": [
     {
      "art": "Two sheets of paper folded into a small book, with a drawing of a wing at the top of one page and two legs at the top of the next.",
@@ -1000,26 +1008,26 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Fold two sheets into a book. 2. Your child draws a rule at the top of each page: a wing, two legs, no legs, a leaf. 3. On each page, they draw one living being they know.",
-     "say": "Each page is a group. What will you draw at the top of this page? Who belongs here?",
-     "kid": "Draw a rule at the top of each page. Who belongs on each page?",
+     "do": "1. Fold two sheets into a book. 2. Use four pages. Your child writes or draws a rule at the top of each: has wings, has two legs, has no legs, has leaves. 3. On each page, they stick an animal card or a leaf, or draw one living being they know.",
+     "say": "Each page is a group with one rule. How will you show the rule at the top of this page? Who belongs here?",
+     "kid": "Put a rule at the top of each page. Use words or a small picture. Then add one animal or plant.",
      "wait": "Leave the book for tomorrow."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "Look out of the window, or think back over the day. Your child draws what they saw on the right page.",
+     "do": "Look out of the window, or think back over the day. Your child adds each one to the right page, with an animal card, a leaf or a drawing.",
      "say": "What living beings did you see today? Which page does each one go on?",
-     "kid": "What did you see today? Draw each one on the right page.",
+     "kid": "Think of what you saw today. Add each one to its page. Use a card, a leaf or a drawing.",
      "parent": "A crow, a pigeon, ants, a fly, a potted plant and people at home are nearly always there. Some may fit on two pages. That is fine.",
      "wait": "Leave the book for tomorrow."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "Your child shows the book to someone at home and explains each page from the drawings.",
-     "say": "Tell me about your book. Who is on the 'two legs' page? Did anyone fit on two pages?",
-     "kid": "Show your book to someone. Who fits on two pages?",
+     "do": "Your child shows the book to someone at home and explains each page from what is on it.",
+     "say": "Tell me about your book. What is the rule on each page? Who is on the 'two legs' page?",
+     "kid": "Show your book to someone, page by page. Tell them the rule on each page.",
      "ask": [
       {
        "q": "Who fits on two pages?",
@@ -1038,7 +1046,7 @@
    "id": "c1",
    "title": "A Shelf for a Child Who Cannot Read",
    "mins": 20,
-   "context": "This is a design challenge. You sort the toy animals or animal cards so that a small child who cannot read can find them fast.",
+   "context": "This is a design challenge. You sort the toy animals or animal cards so that a small child who cannot read can find them fast. You will find out how to label things with no words.",
    "problem": "A four-year-old cannot read yet. She wants to find all the animals with wings, fast. How can you sort and label the animals so that she finds them without help?",
    "constraints": [
     "Use toy animals, or the animal cards from Two Baskets.",
@@ -1074,23 +1082,23 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem to your child. Show the materials.",
-     "say": "A four-year-old cannot read. How can we sort the animals so that she can find all the ones with wings?",
-     "kid": "A small child cannot read. How will they find the animals with wings?"
+     "say": "A four-year-old cannot read. She wants to find all the animals with wings, fast. How can we help her?",
+     "kid": "Look at your animals and boxes. Think how to sort them for a child who cannot read."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "Your child chooses the groups, sorts the animals and draws a label for each box.",
+     "do": "Your child chooses the groups, sorts the animals and makes a label for each box. A label can be a drawing, or a real thing stuck on, like a leaf or a feather.",
      "say": "Which groups will you make? How will the label show the group without words?",
-     "kid": "Choose your groups. Draw a label for each box. Use no words.",
+     "kid": "Choose your groups. Make a label for each box with no words. Draw it, or stick on a real thing.",
      "parent": "Let your child decide the groups. Help with tape and cutting."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Test the shelf. Someone else tries to find all the animals with wings.",
-     "say": "Let's test it. Can another person find every animal with wings, just from your labels?",
-     "kid": "Test your shelf. Can someone find all the animals with wings?",
+     "say": "Now we test it. Please find every animal with wings, using only the labels.",
+     "kid": "Ask someone to find the animals with wings, using only your labels. Watch what they do.",
      "check": {
       "t": "mcq",
       "q": "Which label works best for a child who cannot read?",

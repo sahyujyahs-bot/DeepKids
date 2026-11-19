@@ -173,32 +173,32 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 - **s3 (5 min)**  
   *Parent does:* Mix the cards. Call a new rule: 'Has fur or hair'. Sort again.  
   *Parent says:* New rule: has fur or hair. Which pile do you go in?  
-  *Child mode:* New rule: fur or hair. Where does the 'You' card go?
+  *Child mode:* New rule: fur or hair. Sort every card, including the 'You' card.
   - Ask: Who is in the YES pile with you? (good: The cow, the bat and the elephant.; Animals with hair, like me.)
   - Note: This is the moment to say plainly that humans are animals. The 'You' card goes with the cow, the bat and the elephant.
 - **s4 (2 min)**  
   *Parent does:* Put the bat, the crow and the butterfly side by side.  
   *Parent says:* These three all have wings. Are they the same in every other way?  
-  *Child mode:* Bat, crow, butterfly. All have wings. Are they the same?
+  *Child mode:* Look at the bat, the crow and the butterfly. They all have wings. Find one way they are different.
   - Check: The bat and the crow both have wings. What does the crow have that the bat does not? → **Feathers**
 ### g2 · Guess My Rule (10 min)
 - **rules:** Use the 16 animal cards from Two Baskets. Mix the 10 rule cards and put them face down.; The sorter takes a rule card and keeps it secret.; The sorter puts 6 animal cards into two groups using the secret rule. Both groups must have at least one card. If the rule cannot split these 6, take 6 other animals.; The others look at both groups and guess the rule. To help themselves, they can point to an animal card that is not in the groups and ask, 'Which group does the snake go in?' The sorter puts that card in the right group.; When someone guesses right, they become the sorter. With two players, you take turns. Play until everyone has been the sorter once or twice. Everyone who guessed a rule has won.; If the rule cards run out, mix them and use them again. A grown-up helps a child who cannot read yet by reading the rule card in a whisper.
 - **Printable cards: 10 secret rule cards to cut out:** Has wings; Has feathers; Has no legs; Has 2 legs; Has 4 legs; Has 6 legs; Has 8 legs or more; Has fur or hair; Has dry skin with scales; Has a beak
 - **s1 (3 min)**  
   *Parent does:* You go first. Take the rule card 'Has feathers'. Make two groups: the crow, hen and peacock in one, and the bat, cow and snake in the other.  
-  *Parent says:* I have a secret rule. Look at my two groups. What is the same about everyone in this group?  
-  *Child mode:* Look at the two groups. What is the same in this group?
+  *Parent says:* I have a secret rule, and I sorted these animals by it. Look at my two groups. What is the same about everyone in this group?  
+  *Child mode:* Look at the animals in each group. Find what they share.
   - Ask: What is my rule? (good: Feathers.; They are all birds.; They all have beaks.)
   - Note: 'Has a beak' makes the same two groups, so say that two rules can make the same groups. Then ask: would 'has wings' work? No, because the bat has wings but sits in the other group.
 - **s2 (5 min)**  
-  *Parent does:* Your child is the sorter now. Whisper their rule card to them if they cannot read it yet.  
+  *Parent does:* Your child is the sorter now. They take a rule card from the face-down pile and make two groups of 6 animals. Whisper the rule card to them if they cannot read it yet.  
   *Parent says:* Now you choose a secret rule. Make two groups, and I will guess.  
   *Child mode:* Now you pick a secret rule. Make two groups. Can your grown-up guess?
   - Note: Guess wrong on purpose once. Let your child explain why your guess does not fit. Explaining a rule is harder than using one.
 - **s3 (2 min)**  
-  *Parent does:* Ask about the hardest rule of the game.  
+  *Parent does:* Ask your child to think back over the game.  
   *Parent says:* Which rule was hardest to guess? Why?  
-  *Child mode:* Which rule was hardest? Why?
+  *Child mode:* Think back over the game. Tell your grown-up which rule was hardest to guess.
   - Check: Group one: snake, fish, earthworm. Group two: cow, crow, ant. What is the rule? → **Has no legs**
 
 ## Experiments
@@ -206,12 +206,12 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 - **question:** Are two leaves from the same plant exactly the same? And do leaves from different plants share anything?
 - **predict:** Guess first. Will the two most alike leaves match exactly when you lay one on the other? Why do you think so?
 - **fair test:** We choose the two leaves that look most alike, so the test is as hard as we can make it. We check the same things on every pair: size, shape, colour, the tip, the stalk, and any spots or holes.
-- **record:** Trace the two leaves side by side. Draw a circle round one place where they are different. Then draw the other leaves, and circle one thing they all have.
+- **record:** Lay the two leaves side by side. Trace them or take a photo. Circle one place where they are different, or point to it and say it. Then say or write one thing all the leaves have.
 - **results table:** What we looked at | Same? | Different? How?
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child two steel spoons from one set. 2. Then show a sprig of curry leaves. 3. Ask for a guess and a reason. 4. Write the guess down.  
-  *Parent says:* These two spoons came from a factory. Will two leaves from one plant be exactly the same? Why do you think so?  
-  *Child mode:* Will two leaves from one plant be exactly the same? Guess. Why do you think so?
+  *Parent says:* These two spoons were made in a factory to look the same. Will two leaves from one plant be exactly the same? Why do you think so?  
+  *Child mode:* Guess: will two leaves from one plant be exactly the same?
   - Ask: Why do you think so? (good: They grew on the same plant, so they must be the same.; Leaves are not made in a factory, so they might be different.)
   - Note: Do not say what will happen. Both guesses are good guesses. The test will answer it.
 - **s2 (3 min)**  
@@ -220,40 +220,40 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
   *Child mode:* Look at all the leaves. Find two that look the most alike.
   - Note: We pick the most alike pair on purpose. If even these two are different, we can be sure of the answer. Small leaves are fiddly, so use big tulsi or money plant leaves if your child finds curry leaves too small.
 - **s3 (4 min)**  
-  *Parent does:* 1. Lay one leaf exactly on top of the other. 2. Look at every edge, the tip and the stalk. 3. Then lay them side by side and trace round each one with the pencil.  
-  *Parent says:* Put one leaf right on top of the other. Does any edge peep out? Now let's trace them both.  
-  *Child mode:* Put one leaf on top of the other. Does an edge peep out? Now trace both leaves.
+  *Parent does:* 1. Lay one leaf exactly on top of the other. 2. Look at every edge, the tip and the stalk. 3. Then lay them side by side. Trace round each one with the pencil, or take a photo of them.  
+  *Parent says:* Put one leaf right on top of the other. Look at the edges and the tip. Does any edge peep out?  
+  *Child mode:* Look at the edges and the tip. Then lay the leaves side by side. Trace them, or take a photo.
   - Ask: What is different? (good: One leaf is a bit bigger.; The tips are different.; This one has a little hole.)
   - Note: With a magnifying glass, look at the tip, the stalk and any tiny spots. Children nearly always find a difference in size or tip. If the two outlines seem to match, look for a spot, a hole or a different stalk length.
 - **s4 (3 min)**  
   *Parent does:* 1. Put a leaf from each of two other plants next to a curry leaf. 2. Ask your child to find one thing all three have.  
-  *Parent says:* These leaves come from different plants. They look different from each other. Can you find one thing they all have?  
-  *Child mode:* These leaves are from different plants. Find one thing they all have.
+  *Parent says:* These leaves come from three different plants. They look different from each other. Are they alike in any way?  
+  *Child mode:* Look at the stalk, the middle line and the colour of each leaf.
   - Ask: What do all the leaves have? (good: A stalk.; A line down the middle.; They are all green.; Little lines, the veins.)
   - Note: The line down the middle is a vein, which carries water through the leaf. Every one of these leaves has a stalk and veins.
 - **s5 (2 min)**  
-  *Parent does:* Ask your child whether their guess was right, what they saw, and why the two leaves were different.  
-  *Parent says:* Was your guess right? What did you see? Why do you think two leaves from one plant came out different?  
-  *Child mode:* Was your guess right? What did you see? Why were the two leaves different?
+  *Parent does:* Ask your child whether their guess was right and what they saw. Then ask why the two leaves were different.  
+  *Parent says:* Was your guess right? What did you see when you laid the leaves on top of each other?  
+  *Child mode:* Look back at your guess. Were you right? Tell what you saw.
   - Ask: Why are the two leaves different? (good: One grew in more sun.; One grew first and one grew later.; Each leaf grew in its own place.)
-  - Check: You laid two curry leaves from one sprig on top of each other. What did you find? → **They were alike, but not exactly the same**
+  - Check: You laid two leaves from one plant on top of each other. What did you find? → **They were alike, but not exactly the same**
 
 ## Activities
 ### a1 · Leaf Pile Sort: make two groups (10 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Gather 8 to 10 leaves from the vegetables and any pot. 2. Put them in one pile. 3. Put two plates beside the pile.  
   *Parent says:* Here is a pile of leaves. Look at them, touch them and smell them. How are they different?  
-  *Child mode:* Look at the leaves. Touch them. Smell them. How are they different?
+  *Child mode:* Look at each leaf. Touch it. Smell it.
   - Ask: What do you notice? (good: Some are big and some are small.; This one smells strong.; This one is shiny.)
 - **s2 (4 min)**  
   *Parent does:* Your child chooses one feature and sorts every leaf onto the two plates by it.  
-  *Parent says:* Choose one thing to sort by. You could sort by big or small, shiny or dull, or strong smell or no smell. Put every leaf on one plate.  
-  *Child mode:* Choose one rule. Big or small? Shiny or dull? Put each leaf on a plate.
+  *Parent says:* Choose one thing to sort by. You could sort by big or small, shiny or dull, or strong smell or no smell. Put each leaf on one of the two plates.  
+  *Child mode:* Choose one rule. Then put each leaf on one of the two plates.
   - Note: Let your child choose. If a leaf could go either way, ask them to make the rule clearer: 'bigger than my palm' instead of 'big'.
 - **s3 (3 min)**  
   *Parent does:* Ask your child to say their rule. Then pick up one leaf and ask why it is on that plate.  
   *Parent says:* What was your rule? Why does this leaf go on this plate?  
-  *Child mode:* Say your rule. Why is this leaf on this plate?
+  *Child mode:* Say your rule out loud. Then pick one leaf and say why it is on its plate.
   - Check: Which of these is a rule that everyone in your family would use the same way? → **Leaves bigger than my palm**
 ### a2 · Stand in My Group: a family sort (8 min)
 - **s1 (3 min)**  
@@ -269,40 +269,40 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
   - Note: Humans are animals, and we are in groups with other animals because we share features with them.
 - **s3 (2 min)**  
   *Parent does:* Ask your child whether they are the same as the crow.  
-  *Parent says:* We were in the two-legs group, and in the hair group. You and a crow are both in the two-legs group. Are you the same as the crow?  
-  *Child mode:* You and a crow both have two legs. Are you the same as the crow?
+  *Parent says:* You and the crow were both in the two-legs group. Are you the same as the crow?  
+  *Child mode:* Look at the crow card. Is a crow exactly like you?
   - Check: You and a crow are both in the two-legs group. What does this tell you? → **You and the crow share one feature: two legs**
 ### a3 · Eyes-Closed Leaf Match (8 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Lay one leaf of each of the 4 kinds in a pile. 2. Your child closes their eyes. 3. Put the second leaf of one kind in their hand. 4. They feel it and smell it. 5. They open their eyes and find the same kind in the pile.  
-  *Parent says:* Close your eyes. Feel this leaf. Is it soft or stiff, smooth or rough? Smell it. Now open your eyes and find its partner.  
+  *Parent says:* Close your eyes. Feel this leaf. Is it soft or stiff, smooth or rough? Smell it. Now open your eyes and find the same kind of leaf.  
   *Child mode:* Close your eyes. Feel the leaf. Smell it. Now open your eyes. Find the same kind.
   - Ask: How did you know? (good: It was soft and smelled like tulsi.; It was stiff and smooth, like the money plant.)
 - **s2 (3 min)**  
-  *Parent does:* Swap. You close your eyes, and your child gives you a leaf.  
-  *Parent says:* Now you test me. Give me a leaf, and I will find its partner.  
+  *Parent does:* Swap. You close your eyes. Your child puts a leaf in your hand. Feel it and smell it, then open your eyes and find the same kind in the pile.  
+  *Parent says:* Now you test me. Give me a leaf, and I will find the same kind in the pile.  
   *Child mode:* Now test your grown-up. Give them a leaf.
   - Check: Your eyes are closed. Which feature can you still use to sort leaves? → **Smell and feel**
 
 ## Projects
 ### p1 · My Book of Groups (25 min, 3 days)
-- **record:** The book itself: four pages, each with a rule drawn at the top and the living beings you found drawn below.
-- **schedule:** day 1: Make the book. Draw a rule at the top of each page: a wing, two legs, no legs, a leaf. Draw one living being you know on each page. (10 min); day 2: Draw the animals and plants you saw today on the right pages. (7 min); day 3: Finish the book. Show it to someone at home, page by page. (8 min)
+- **record:** The book itself: four pages, each with a rule at the top and the living beings you found stuck or drawn below.
+- **schedule:** day 1: Make the book. Use four pages. Write or draw a rule at the top of each: has wings, has two legs, has no legs, has leaves. On each page, stick a card or a leaf, or draw one living being you know. (10 min); day 2: Add the animals and plants you saw today to the right pages. Stick on a card or a leaf, or draw them. (7 min); day 3: Finish the book. Show it to someone at home, page by page. (8 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Fold two sheets into a book. 2. Your child draws a rule at the top of each page: a wing, two legs, no legs, a leaf. 3. On each page, they draw one living being they know.  
-  *Parent says:* Each page is a group. What will you draw at the top of this page? Who belongs here?  
-  *Child mode:* Draw a rule at the top of each page. Who belongs on each page?
+  *Parent does:* 1. Fold two sheets into a book. 2. Use four pages. Your child writes or draws a rule at the top of each: has wings, has two legs, has no legs, has leaves. 3. On each page, they stick an animal card or a leaf, or draw one living being they know.  
+  *Parent says:* Each page is a group with one rule. How will you show the rule at the top of this page? Who belongs here?  
+  *Child mode:* Put a rule at the top of each page. Use words or a small picture. Then add one animal or plant.
   - Wait: Leave the book for tomorrow.
 - **s2 (7 min)**  
-  *Parent does:* Look out of the window, or think back over the day. Your child draws what they saw on the right page.  
+  *Parent does:* Look out of the window, or think back over the day. Your child adds each one to the right page, with an animal card, a leaf or a drawing.  
   *Parent says:* What living beings did you see today? Which page does each one go on?  
-  *Child mode:* What did you see today? Draw each one on the right page.
+  *Child mode:* Think of what you saw today. Add each one to its page. Use a card, a leaf or a drawing.
   - Note: A crow, a pigeon, ants, a fly, a potted plant and people at home are nearly always there. Some may fit on two pages. That is fine.
   - Wait: Leave the book for tomorrow.
 - **s3 (8 min)**  
-  *Parent does:* Your child shows the book to someone at home and explains each page from the drawings.  
-  *Parent says:* Tell me about your book. Who is on the 'two legs' page? Did anyone fit on two pages?  
-  *Child mode:* Show your book to someone. Who fits on two pages?
+  *Parent does:* Your child shows the book to someone at home and explains each page from what is on it.  
+  *Parent says:* Tell me about your book. What is the rule on each page? Who is on the 'two legs' page?  
+  *Child mode:* Show your book to someone, page by page. Tell them the rule on each page.
   - Ask: Who fits on two pages? (good: The crow has wings and two legs.; I have two legs, so I am on that page.)
 
 ## Challenges
@@ -314,17 +314,17 @@ That evening, Lakshmi made new labels for the baskets. On one, she drew a feathe
 - **creative:** Use a different colour of paper for each group, and teach a small child the colours.; Make a box with two parts, so an animal who fits two groups can sit in the middle.
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child. Show the materials.  
-  *Parent says:* A four-year-old cannot read. How can we sort the animals so that she can find all the ones with wings?  
-  *Child mode:* A small child cannot read. How will they find the animals with wings?
+  *Parent says:* A four-year-old cannot read. She wants to find all the animals with wings, fast. How can we help her?  
+  *Child mode:* Look at your animals and boxes. Think how to sort them for a child who cannot read.
 - **s2 (12 min)**  
-  *Parent does:* Your child chooses the groups, sorts the animals and draws a label for each box.  
+  *Parent does:* Your child chooses the groups, sorts the animals and makes a label for each box. A label can be a drawing, or a real thing stuck on, like a leaf or a feather.  
   *Parent says:* Which groups will you make? How will the label show the group without words?  
-  *Child mode:* Choose your groups. Draw a label for each box. Use no words.
+  *Child mode:* Choose your groups. Make a label for each box with no words. Draw it, or stick on a real thing.
   - Note: Let your child decide the groups. Help with tape and cutting.
 - **s3 (5 min)**  
   *Parent does:* Test the shelf. Someone else tries to find all the animals with wings.  
-  *Parent says:* Let's test it. Can another person find every animal with wings, just from your labels?  
-  *Child mode:* Test your shelf. Can someone find all the animals with wings?
+  *Parent says:* Now we test it. Please find every animal with wings, using only the labels.  
+  *Child mode:* Ask someone to find the animals with wings, using only your labels. Watch what they do.
   - Check: Which label works best for a child who cannot read? → **A drawing of a wing**
 
 ## Worksheets

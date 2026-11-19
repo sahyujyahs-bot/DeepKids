@@ -186,26 +186,26 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
   - Ask: Where does 'The air from a fan' go? Why? (good: On the hand mat, because I can feel it but not see it.)
   - Note: A child may put 'my shadow' on the see-and-feel mat. Ask them to try to pick up their shadow.
 - **s3 (2 min)**  
-  *Parent does:* Look at the hand-only mat together.  
-  *Parent says:* Look at the cards on the hand-only mat. What are they all?  
-  *Child mode:* Look at the hand-only cards. What are they all?
+  *Parent does:* Read out the cards on the hand-only mat together.  
+  *Parent says:* These are the cards you can feel but not see. Let's read them again.  
+  *Child mode:* Listen to each hand-only card. Think about what is the same in all of them.
   - Check: All the cards on the hand-only mat are about one thing. What is it? → **Air**
 ### g2 · Cotton Ball Race: move it with air only (10 min)
 - **rules:** Mark the start with a line of tape or a chappal. Mark the finish the same way, two big steps away.; Each player puts a cotton ball on the start line, in their own lane.; Move your cotton ball to the finish line using only air. Don't touch it with anything.; Count your waves, blows or squeezes. The fewest wins the round.; Play three rounds: a notebook fan, your breath, then a bag of air (catch a bagful first, as in Catch the Air). If two players tie in a round, both win it.; Whoever wins the most rounds is the champion. If you play with one other person, a tie is fine.
 - **Printable score sheet: Race score sheet:** Player's name; Round 1: fan it with a notebook. How many waves?; Round 2: blow it. How many blows?; Round 3: puff it with a squeezed bag. How many squeezes?
 - **s1 (2 min)**  
   *Parent does:* Make the start and finish lines. Give each player a cotton ball and a notebook.  
-  *Parent says:* We will move these cotton balls with air only. No touching. Count how many waves you need.  
-  *Child mode:* Move your cotton ball with air. No touching! Count your waves.
+  *Parent says:* We will move these cotton balls with air only. No touching.  
+  *Child mode:* Count how many waves, blows or squeezes you need to reach the finish line.
   - Note: No cotton wool? Use a small, loose ball of scrunched tissue or paper.
 - **s2 (6 min)**  
   *Parent does:* Play the three rounds. Write each player's count on the score sheet.  
-  *Parent says:* Round two: blow it! Round three: catch air in a bag and puff it out at your ball.  
-  *Child mode:* Fan it. Then blow it. Then puff it with a bag.
+  *Parent says:* Round one: fan it with the notebook. Round two: blow it. Round three: catch air in a bag and puff it out at your ball.  
+  *Child mode:* Move the ball three ways. Keep count each time.
 - **s3 (2 min)**  
   *Parent does:* Ask the last question.  
   *Parent says:* Nobody touched the cotton balls. So what pushed them?  
-  *Child mode:* Nobody touched the balls. What pushed them?
+  *Child mode:* Think about what moved the balls, then tell your grown-up.
   - Ask: What pushed the cotton balls? (good: Air.; Moving air from the notebook and from my breath.)
 
 ## Experiments
@@ -214,18 +214,18 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - **predict:** Guess first. Will the bag catch air in every place? Is there any place with no air at all? Why do you think so?
 - **fair test:** We use the same bag every time. We open it the same way, scoop it in one big sweep, and twist the neck three times. Only the place changes. First we squeeze the bag flat and twist it shut, to see what a bag with no air looks like.
 - **safety:** Never put a plastic bag over anyone's head or face. After the experiment, put the bag away where small children cannot reach it.
-- **record:** The results table: six places, the guess for each, and a tick if the bag puffed up. Draw the fattest bag.
+- **record:** The results table: six places, the guess for each, and a tick if the bag puffed up. Take a photo of the fattest bag, or draw it.
 - **results table:** Place | My guess: is there air here? Yes or no | Did the bag puff up? Yes or no | What did I feel when I squeezed it?
 - **s1 (4 min)**  
-  *Parent does:* 1. Show your child the flat, empty bag. 2. Name the six places. They are the middle of the room, under the bed and inside a cupboard. Then inside the empty bucket, behind a door, and a corner near the floor. 3. Draw the results table together.  
+  *Parent does:* 1. Show your child the flat, empty bag. 2. Name the six places. They are the middle of the room, under the bed, and inside a cupboard. The other three are inside the empty bucket, behind a door, and a corner near the floor. 3. Draw the results table together.  
   *Parent says:* We are going to try to catch air in this bag, in six places. Some places look empty, like under the bed. Will the bag catch air everywhere? Is any place empty of air? Why do you think so?  
-  *Child mode:* Will the bag catch air in every place? Is any place empty? Why?
+  *Child mode:* Look at the six places. Which one do you think has no air?
   - Ask: Which places will have air? Why? (good: The middle of the room, because it is open.; Not under the bed, because it is dark and closed.; Not inside the bucket, because it is empty.)
   - Note: Write down the guess for each place. Don't say what will happen. Many children guess there is no air under the bed, in a closed cupboard or in an empty bucket.
 - **s2 (3 min)**  
   *Parent does:* 1. Squeeze the bag flat with your hands. 2. Twist the neck shut three times. 3. Ask your child to pull the sides of the bag and try to make it fat.  
   *Parent says:* First, a bag with no air. I squeeze it flat and twist it shut. Now try to make it fat by pulling the sides.  
-  *Child mode:* Squeeze the bag flat. Twist it shut. Can you make it fat now?
+  *Child mode:* Try to make the flat bag fat by pulling its sides.
   - Ask: Why does it stay flat? (good: Nothing can get in.; There is nothing inside to make it fat.)
   - Note: The bag stays flat and crinkly. This shows what a bag looks like when nothing has gone in. Keep it in mind for the next step.
 - **s3 (10 min)**  
@@ -236,7 +236,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - **s4 (4 min)**  
   *Parent does:* 1. Catch one more bagful in the middle of the room. 2. Press the full bag gently on the table with both hands. 3. Hold the neck near your child's cheek, untwist it a little and squeeze slowly.  
   *Parent says:* Press the bag. Does it push back? Now close your eyes. I'll let the air out near your cheek. Tell me what you feel.  
-  *Child mode:* Press the fat bag. Does it push back? Close your eyes. What do you feel on your cheek?
+  *Child mode:* Press the fat bag and feel it push back. Then close your eyes and feel the air.
   - Ask: What did you feel on your cheek? (good: Wind.; Air coming out of the bag.; Something cool blowing.)
   - Note: The full bag pushes back like a soft pillow. The air rushing out lifts the hair near the cheek. Keep the bag away from the nose and mouth.
 - **s5 (4 min)**  
@@ -249,45 +249,45 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - **question:** Which part of my skin feels a small puff of air best: my palm, the back of my hand, my cheek, my arm or the sole of my foot?
 - **predict:** Guess first. Which part of you will feel the air best? Which part will feel it least? Why do you think so?
 - **fair test:** The grown-up uses the same notebook, waves it once each time, and holds it one hand-span from the skin. Each place gets 3 real waves and 1 pretend wave with no air, in a mixed-up order. Your eyes stay shut the whole time.
-- **record:** The results table, and a drawing of yourself with a big tick on the part that felt the air best.
+- **record:** The results table, and say which part felt the air best. You can also draw yourself and tick that part.
 - **results table:** Part of my skin | Real waves I felt (out of 3) | Did I say yes to the pretend wave?
 - **s1 (3 min)**  
   *Parent does:* Show your child the five places to test. They are the palm, the back of the hand, the cheek, the arm and the sole of the foot. Draw the table.  
   *Parent says:* I will wave this notebook near your skin, without touching. Which part do you think will feel the air best? Which least? Why?  
-  *Child mode:* Which part will feel the air best? Which least? Why?
+  *Child mode:* Pick the part that will feel air best. Then pick the part that will feel it least.
   - Ask: Which part will feel it best? Why? (good: My hand, because I touch things with it.; My cheek, because it is soft.)
   - Note: Write the guess down. Don't say what will happen.
 - **s2 (9 min)**  
   *Parent does:* 1. Your child shuts their eyes. 2. At each place, make 3 real waves and 1 pretend wave, in a mixed-up order. For a real wave, wave the notebook once, one hand-span from the skin. 3. For a pretend wave, move your arm but keep the notebook far away. 4. Write each answer.  
   *Parent says:* Eyes shut. Say 'yes' when you feel air. Ready? Here comes the next one.  
-  *Child mode:* Keep your eyes shut. Say 'yes' when you feel air.
+  *Child mode:* Keep your eyes shut. Say 'yes' only when you really feel air.
   - Note: The pretend waves keep the test fair, so we know your child is not just guessing. Wave gently, not hard. A hard wave is felt everywhere, so there is no difference to find.
 - **s3 (3 min)**  
   *Parent does:* Look at the table together.  
   *Parent says:* Which part felt the air most often? Which part felt it least? Was your guess right?  
-  *Child mode:* Which part felt the air best? Was your guess right?
+  *Child mode:* Look at the table. Which part got the most 'yes' answers?
   - Ask: Why do you think that part felt it best? (good: It has tiny hairs.; The skin there is thin.; Faces feel a lot.)
   - Note: Many children feel the air best on the cheek and on the arm, where tiny hairs bend in the moving air. The thick skin on the sole of the foot often feels it least. Your child's results may differ, and that is fine.
   - Check: The grown-up never touched your skin. What did you feel? → **Moving air pushed by the notebook**
 
 ## Activities
 ### a1 · Still Air, Moving Air: when can you feel it? (8 min)
-- **record:** Draw yourself sitting still, and yourself running. Show where you felt air.
+- **record:** Tell your grown-up when you felt air and when you did not. You can also draw yourself sitting still and then moving.
 - **s1 (3 min)**  
   *Parent does:* 1. Switch off the fan and close the windows. 2. Wait a minute. 3. Sit still with your child, eyes closed.  
   *Parent says:* Sit very still and close your eyes. Can you feel any air on your arms or your face?  
-  *Child mode:* Sit very still. Close your eyes. Can you feel air?
+  *Child mode:* Sit very still with your eyes closed. Notice your arms and your face.
   - Ask: Can you feel any air? (good: No.; I can't feel anything.)
   - Note: Most children feel nothing. That is what we want them to notice.
 - **s2 (4 min)**  
   *Parent does:* Try four things, one at a time. Wave a hand near your cheek. Blow on the back of your hand. Walk fast across the room. Spin slowly with your arms out.  
-  *Parent says:* Now wave your hand near your cheek. Now blow on your hand. Now walk fast. Can you feel air now?  
-  *Child mode:* Wave your hand near your cheek. Blow on your hand. Walk fast. Feel it?
+  *Parent says:* Now wave your hand near your cheek. Now blow on your hand. Now walk fast. Now spin slowly. Can you feel air now?  
+  *Child mode:* Do each thing one at a time. After each one, notice if you feel air.
   - Ask: When could you feel the air? (good: When I waved.; When I walked fast.; When the air moved.)
 - **s3 (1 min)**  
   *Parent does:* Ask the last question.  
   *Parent says:* When you sat still, was there air in the room?  
-  *Child mode:* When you sat still, was the air still there?
+  *Child mode:* Think back to when you sat still.
   - Check: You sat still and felt no air. Then you waved and felt air at once. What does that show? → **The air was there all the time, and you felt it when it moved**
 ### a2 · Blow Painting: see what air does (12 min)
 - **safety:** Blow out through the straw. Never suck in.
@@ -295,7 +295,7 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - **s1 (3 min)**  
   *Parent does:* 1. Spread newspaper on the floor. 2. Use the spoon to put a few drops of runny paint near the bottom of the paper.  
   *Parent says:* Here are some drops of paint. If you blow at them through this straw, what do you think will happen? Why?  
-  *Child mode:* What will the paint do if you blow on it? Why?
+  *Child mode:* Look at the drops of paint. Guess what blowing will do to them.
   - Ask: What will happen? (good: It will move.; It will run away from the straw.)
 - **s2 (7 min)**  
   *Parent does:* Your child blows the drop in different directions. Add more drops and colours if you like.  
@@ -305,47 +305,47 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - **s3 (2 min)**  
   *Parent does:* Look at the painting together.  
   *Parent says:* You never touched the paint. What moved it?  
-  *Child mode:* You never touched the paint. What moved it?
+  *Child mode:* Look at your painting. The paint moved, but you never touched it.
   - Ask: What moved the paint? (good: My breath.; Moving air.)
 ### a3 · Bubble Blowing: air inside a bubble (10 min)
 - **safety:** Blow out through the straw. Never suck in. If soap gets in an eye, rinse it with clean water.
-- **record:** Draw a bubble with your breath inside it.
+- **record:** Tell your grown-up what is inside a bubble and how you know. You can also draw one.
 - **s1 (5 min)**  
   *Parent does:* 1. Dip the end of the straw in the soapy water. 2. Hold it up and blow gently through the other end.  
   *Parent says:* Blow very gently. What is inside the bubble?  
-  *Child mode:* Blow gently into the straw. What is inside the bubble?
+  *Child mode:* Dip the straw and blow one gentle bubble. Look at it closely.
   - Ask: What is inside the bubble? (good: My breath.; Air.; Air, from my breath.)
   - Note: If no bubbles come, add a little more dishwashing liquid and blow more slowly.
 - **s2 (4 min)**  
   *Parent does:* Your child blows a few bubbles. You fan them gently with the notebook.  
   *Parent says:* Watch the bubbles. Which way do they go when I fan them? Can you make them float to the window?  
-  *Child mode:* Fan the bubbles. Which way do they go?
+  *Child mode:* Watch the bubbles while your grown-up fans them. Which way do they go?
   - Note: The bubbles float along with the moving air, away from the notebook.
 - **s3 (1 min)**  
   *Parent does:* Ask the last question.  
   *Parent says:* We can't see the air inside a bubble. How do we know it is there?  
-  *Child mode:* How do we know there is air in a bubble?
+  *Child mode:* Think about the round, fat shape of the bubble.
   - Ask: How do we know there is air inside? (good: The bubble is round and fat.; Something holds it up like a ball.)
 
 ## Projects
 ### p1 · My Air Book: three days (24 min, 3 days)
 - **record:** The finished air book, shown to a family member and told page by page.
-- **schedule:** day 1: Make the book. On page 1, draw three places in your home where there is air. (8 min); day 2: Look out of the window. On page 2, draw three things that moving air pushes. (8 min); day 3: On page 3, draw three living beings that use air. Show your whole book to someone and tell them about each page. (8 min)
+- **schedule:** day 1: Make the book. On page 1, draw or write three places in your home where there is air. (8 min); day 2: Look out of the window. On page 2, write three things that moving air pushes. (8 min); day 3: On page 3, write three living beings that use air. Show your whole book to someone and tell them about each page. (8 min)
 - **s1 (8 min)**  
-  *Parent does:* 1. Fold and staple the book. 2. Your child writes or copies 'My Air Book' on the cover. 3. On page 1, they draw three places where there is air.  
-  *Parent says:* Where did we find air? Draw three places on this page. Draw little dots to show the air.  
-  *Child mode:* Draw three places where air is. Use dots for the air.
+  *Parent does:* 1. Fold and staple the book. 2. Your child writes or copies 'My Air Book' on the cover. 3. On page 1, they draw or write three places where there is air.  
+  *Parent says:* Where did we find air? Let's put three of those places on this page.  
+  *Child mode:* Draw or write three places where air is. Add little dots for the air.
 - **s2 (8 min)**  
-  *Parent does:* Look out of a window together for a few minutes, then draw.  
-  *Parent says:* Look outside. What is the air pushing? Draw three things on page 2.  
-  *Child mode:* Look out of the window. What is the air pushing? Draw three things.
+  *Parent does:* Look out of a window together for a few minutes. Then your child writes three things the air is pushing on page 2. A grown-up can write for them.  
+  *Parent says:* Look outside. What is the air pushing? Let's write three things on page 2.  
+  *Child mode:* Spot three things the air is pushing. Write their names, or ask for help.
   - Note: Good things to spot: leaves, clothes on a line, a flag, a kite, smoke, dust, a bird gliding.
   - Wait: Do this the next day
 - **s3 (8 min)**  
-  *Parent does:* On page 3, your child draws three living beings that use air. Then they show the book and tell what is on each page.  
-  *Parent says:* Who uses air? Draw three living beings. Then show your book to a family member and tell them about each page.  
-  *Child mode:* Draw three living beings that use air. Show your book to someone.
-  - Ask: Who did you draw? (good: Me, the cat and the tulsi plant.; A crow, because she breathes air.)
+  *Parent does:* On page 3, your child writes three living beings that use air, or says them while a grown-up writes. Then they show the book and tell what is on each page.  
+  *Parent says:* Who uses air? Think of three living beings and write them on page 3. Then show your book to a family member and tell them about each page.  
+  *Child mode:* Write three living beings that use air. Show your book to someone.
+  - Ask: Which living beings did you choose? (good: Me, the cat and the tulsi plant.; A crow, because she breathes air.)
   - Wait: Do this the day after
 
 ## Challenges
@@ -358,17 +358,17 @@ Meenu lay down next to Appu under the fan. The cool air poured over them. "Ammam
 - **s1 (4 min)**  
   *Parent does:* Fold a paper boat together. Put a little water in the tray and float the boat at one end.  
   *Parent says:* Can you get the boat to the other end without touching it or the water? How?  
-  *Child mode:* Get the boat across. Don't touch it. How will you do it?
+  *Child mode:* Think of a way to move the boat with air.
   - Ask: How could you move it? (good: Blow on it.; Fan it.)
 - **s2 (8 min)**  
   *Parent does:* Let your child try their ideas. Then show the creative ideas one at a time, if they get stuck.  
   *Parent says:* Try it. Count your puffs. Now try a sail. Does the boat go faster?  
-  *Child mode:* Try it. Count your puffs. Try a sail. Is it faster?
+  *Child mode:* Count your puffs for each way. Which way needs the fewest?
   - Note: A paper sail on a rolled-paper mast taped to the boat gives the moving air more to push on. A paper boat gets soggy after a while. Make a new one if it does.
 - **s3 (3 min)**  
   *Parent does:* Ask the last question.  
   *Parent says:* Which way got your boat across best? What pushed the boat?  
-  *Child mode:* Which way worked best? What pushed the boat?
+  *Child mode:* Think about which way needed the fewest puffs.
   - Ask: What pushed the boat? (good: Moving air.; The wind I made.)
 
 ## Worksheets

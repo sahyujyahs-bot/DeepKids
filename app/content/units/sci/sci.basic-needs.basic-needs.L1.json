@@ -221,7 +221,7 @@
    "title": "Five Needs, Ten Helpers: a matching game",
    "mins": 15,
    "players": "2 to 4 players (a grown-up and a child, or more)",
-   "context": "This is a card game about the five basic needs. Five need cards lie face up. You pick helper cards and put each one under the need it gives you.",
+   "context": "This is a card game about the five basic needs. You will find out which everyday things give us air, water, food, clothes and a home. Five need cards lie face up. You pick helper cards and put each one under the need it gives you.",
    "printables": [
     {
      "kind": "cards",
@@ -328,14 +328,14 @@
      "mins": 3,
      "do": "1. Cut out the 15 cards. 2. Lay the 5 need cards face up in a row. 3. Mix the 10 helper cards face down.",
      "say": "These five cards are the five things every person needs. These other cards are helpers. Each helper gives us one need.",
-     "kid": "These are the five needs. The other cards are helpers. Each helper gives one need."
+     "kid": "Look at the five need cards. Each helper card will give you one of them."
     },
     {
      "id": "s2",
      "mins": 9,
      "do": "Take turns picking a helper card. Read it aloud. Ask for a reason before it goes down.",
      "say": "Which need does this one give us? Why do you think so?",
-     "kid": "Pick a card. Which need does it give? Say why.",
+     "kid": "Pick the top card and read it out. Put it under a need.",
      "ask": [
       {
        "q": "Which need does the open window give?",
@@ -362,7 +362,7 @@
    "title": "Weather Comes! Run to the right shelter",
    "mins": 10,
    "players": "2 or more players",
-   "context": "This is a moving game. The caller shows a weather card. Everyone runs to the right shelter, or puts on the right clothes.",
+   "context": "This is a moving game. You will find out which shelter or clothes keeps you safe from each kind of weather. The caller shows a weather card. Everyone runs to the right shelter, or puts on the right clothes.",
    "printables": [
     {
      "kind": "cards",
@@ -418,18 +418,18 @@
      "mins": 2,
      "do": "1. Switch the fan on. 2. Put a shawl and a cap on a chair. 3. Show everyone the table and the sofa.",
      "say": "When I show a card, run to the right shelter. The table is our roof. The sofa is our wall.",
-     "kid": "The table is a roof. The sofa is a wall. Listen for the weather!",
+     "kid": "Listen for the weather card, then run.",
      "adult": false
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "Show the cards one at a time, in any order. Check with the back of each card.",
-     "say": "Wind! Where will you hide? Which side of the sofa is the calm side?",
+     "say": "Here is the card. Where will you go, or what will you do?",
      "kid": "Run to the right shelter. Do the right action.",
      "ask": [
       {
-       "q": "Why did you hide on that side of the sofa?",
+       "q": "For the Wind card, why did you hide on that side of the sofa?",
        "good": [
         "It is away from the fan.",
         "The sofa stops the wind there."
@@ -441,9 +441,9 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "Ask one last question.",
-     "say": "Which cards needed a roof, and which needed a wall?",
-     "kid": "Which weather needs a roof? Which needs a wall?",
+     "do": "Lay the six weather cards on the floor. Ask your child to sort them into three groups: roof, wall, and something else.",
+     "say": "Which cards needed a roof, and which needed a wall? Put the rest in a third group.",
+     "kid": "Sort the six cards into three groups.",
      "parent": "Rain and hot sun need a roof. Wind needs a wall, on the side the wind comes from. Cold needs a shawl, mosquitoes need long sleeves, and thirst needs water."
     }
    ]
@@ -455,7 +455,7 @@
    "title": "The Wind Box: which way should the door face?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment a fan makes the wind. You make a little flag of tissue that shows where the wind is. Then you build shelters from a cardboard box and find which one keeps the flag still.",
+   "context": "In this experiment a fan makes the wind. You will find out which way the door of a shelter must face to keep the wind out. You make a little flag of tissue that shows where the wind is. Then you build shelters from a cardboard box and find which one keeps the flag still.",
    "question": "A box has a roof, walls and one open side, like a door. To keep a tissue flag still inside, should the open side face the fan or face away from it? And does a tunnel, open at both ends, keep the wind out?",
    "predict": "Guess first. In which shelter will the tissue flag stay still: the tunnel, the box with its door to the fan, or the box with its door away from the fan? Why do you think so?",
    "fair_test": "The fan stays at the same speed and the same place, about two big steps from the box. The tissue flag stands in the middle of the box each time. Only the shelter changes.",
@@ -493,7 +493,7 @@
      "qty": 1
     },
     {
-     "item": "paper and crayons, for the results",
+     "item": "paper and a pen, for the results",
      "qty": 1
     }
    ],
@@ -505,7 +505,7 @@
      "what": "Make the tissue flag. Test it four times: in the open, in a tunnel, in a box with its door facing the fan, and in the same box with its door facing away."
     }
    ],
-   "record": "Draw the box and the fan for each test. Draw the tissue flying for 'flapped' and hanging straight down for 'still'.",
+   "record": "Fill in the results table. For each test write flapped, wobbled or hung still. You can also take a photo of each test, or draw the box and the fan.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -559,8 +559,8 @@
      "id": "s2",
      "mins": 2,
      "do": "1. Switch the fan on to medium. 2. Put the flag on the floor or a low table, two big steps in front of the fan.",
-     "say": "Watch the flag. What is moving it? We cannot see the air, but we can see what it does.",
-     "kid": "Watch the flag. What is moving it?",
+     "say": "Watch the flag. We cannot see the air, but we can see what it does.",
+     "kid": "Watch the flag for a slow count of ten.",
      "ask": [
       {
        "q": "What is making the flag move?",
@@ -575,8 +575,8 @@
      "id": "s3",
      "mins": 3,
      "do": "1. A grown-up cuts the top and bottom flaps off the carton, so both ends are open. 2. Lay it on its side. 3. Show the tunnel, the cardboard and tape. 4. Ask for guesses.",
-     "say": "Soon this tunnel will become a box with one door. Which shelter will keep the flag still? Should the door face the fan, or face away? Why do you think so?",
-     "kid": "Which shelter will keep the flag still? Why do you think so?",
+     "say": "Soon this tunnel will become a box with one door. Let us guess how to keep the flag still.",
+     "kid": "Make a guess and tell your reason.",
      "adult": true,
      "ask": [
       {
@@ -594,7 +594,7 @@
      "mins": 3,
      "do": "1. Put the tunnel over the flag, so the fan blows straight through one end and out of the other. 2. Watch the flag for a slow count of ten.",
      "say": "The flag has a roof and two walls now. Watch it. Does it flap, wobble or hang still?",
-     "kid": "Your flag has a roof now. Does it still flap?",
+     "kid": "Watch the flag under the tunnel.",
      "ask": [
       {
        "q": "Did the tunnel keep the wind out?",
@@ -610,7 +610,7 @@
      "mins": 4,
      "do": "1. Lift the carton off. 2. Tape the cardboard over one end, so the box has one open door. 3. Put it back over the flag with the door facing the fan. 4. Watch for a slow count of ten.",
      "say": "Now the box has one door, and the door faces the fan. Watch the flag.",
-     "kid": "Now the door faces the fan. Watch the flag.",
+     "kid": "Watch the flag for a slow count of ten.",
      "adult": true,
      "ask": [
       {
@@ -627,8 +627,8 @@
      "id": "s6",
      "mins": 3,
      "do": "1. Lift the box and turn it round, so the closed end faces the fan. 2. Put it back over the flag in the same place. 3. Watch for a slow count of ten.",
-     "say": "Now the closed wall faces the fan, and the door faces away. Watch the flag. What do you see?",
-     "kid": "Now the wall faces the fan. What does the flag do?",
+     "say": "Now the closed wall faces the fan, and the door faces away. Watch the flag.",
+     "kid": "Watch the flag for a slow count of ten.",
      "ask": [
       {
        "q": "What did the flag do now?",
@@ -644,8 +644,8 @@
      "id": "s7",
      "mins": 2,
      "do": "Ask your child to say three short sentences: what they think, what they saw, and why it happened.",
-     "say": "Tell me what you found out. Which way should a door face on a windy day? What did the flag show you? Why do you think it happened?",
-     "kid": "Which way should the door face? What did your flag show you?",
+     "say": "Tell me what you found out. What did the flag show you? Why do you think it happened?",
+     "kid": "Look at your results table and tell what you found out.",
      "check": {
       "t": "mcq",
       "q": "In which test did the tissue flag hang still?",
@@ -668,7 +668,7 @@
    "title": "Five Needs on Five Fingers",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you count the five basic needs on your fingers. For each one you do something: take a breath, sip water, eat a bite, touch your clothes and touch the wall.",
+   "context": "In this activity you will find out which needs go inside your body and which stay outside it. You count the five basic needs on your fingers. For each one you do something: take a breath, sip water, eat a bite, touch your clothes and touch the wall.",
    "materials": [
     {
      "item": "a tumbler of drinking water",
@@ -686,7 +686,7 @@
      "what": "Hold up one finger for each need, and breathe, sip, eat or touch as you go."
     }
    ],
-   "record": "Draw your hand. Draw one need on each finger.",
+   "record": "Hold up your hand and name the five needs, one on each finger, without looking. Or draw your hand and one need on each finger.",
    "setup": [
     {
      "art": "A child sitting cross-legged, taking a slow breath with one finger raised.",
@@ -703,7 +703,7 @@
      "mins": 4,
      "do": "1. Hold up your thumb and take one slow breath together. 2. Hold up the next finger and take a sip of water. 3. Hold up the middle finger and eat the small piece of food.",
      "say": "Every person needs five things. Here are three of them. Breathe in air. Sip water. Eat a little food. Where did each one go?",
-     "kid": "Take a slow breath. Sip some water. Eat a little food. Where did they go?",
+     "kid": "Breathe in. Sip the water. Eat the food.",
      "ask": [
       {
        "q": "Where did the air, water and food go?",
@@ -719,7 +719,7 @@
      "mins": 2,
      "do": "1. Hold up the fourth finger and touch your clothes. 2. Hold up the little finger and press a palm on the wall of the room.",
      "say": "Here are the last two. Touch your clothes. Touch the wall of our home. Did these go inside you?",
-     "kid": "Touch your clothes. Touch the wall. Did they go inside you?",
+     "kid": "Touch your clothes. Touch the wall.",
      "ask": [
       {
        "q": "How are clothes and a home different from air, water and food?",
@@ -735,7 +735,7 @@
      "mins": 2,
      "do": "Ask the last question. Wait for a guess and a reason.",
      "say": "Which of these five do you need again soonest? Why do you think so?",
-     "kid": "Which one do you need again soonest? Why?",
+     "kid": "Think about how long you could go without each one.",
      "ask": [
       {
        "q": "Which do you need again soonest?",
@@ -754,7 +754,7 @@
    "title": "Find the Calm Spots at Home",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you carry your tissue flag from the wind box test around a room with a table fan on. You find the calm spots, where walls and furniture keep the wind away.",
+   "context": "In this activity you will find out where the wind cannot reach in a room, and why. You carry your tissue flag from the wind box test around a room with a table fan on. You find the calm spots, where walls and furniture keep the wind away.",
    "materials": [
     {
      "item": "the tissue flag from the wind box test",
@@ -772,7 +772,7 @@
      "what": "With the fan on, carry the flag round the room and mark the calm spots."
     }
    ],
-   "record": "Draw a map of the room. Draw the fan, and a star on each calm spot.",
+   "record": "Take a photo of the room with the stars in place. Or draw a map of the room with the fan and a star on each calm spot.",
    "setup": [
     {
      "art": "A child walking slowly across a living room holding a tissue flag on a pencil, with a ceiling fan turning above.",
@@ -788,8 +788,8 @@
      "id": "s1",
      "mins": 7,
      "do": "1. Switch on a table fan. 2. Lift the pencil with the flag out of the tumbler. Your child holds it at knee height and walks slowly round the room. 3. Put a paper star wherever the flag hangs still.",
-     "say": "Let's find the calm spots in this room. Hold your flag low. Where does it hang still?",
-     "kid": "Walk slowly with your flag. Where does it hang still?",
+     "say": "Let's find the calm spots in this room. Hold your flag low and walk slowly.",
+     "kid": "Walk round the room with your flag. Stop where it hangs still.",
      "ask": [
       {
        "q": "Why is this spot calm?",
@@ -806,7 +806,7 @@
      "mins": 3,
      "do": "Look at all the stars together.",
      "say": "Look at our stars. What is next to each calm spot?",
-     "kid": "What is next to each star?",
+     "kid": "Point to each star and name what is beside it.",
      "ask": [
       {
        "q": "What do the calm spots have in common?",
@@ -824,7 +824,7 @@
    "title": "When I Was a Baby: what did I need?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look at baby photos of yourself with a grown-up. You find out how each of the five needs was given to you before you could do anything for yourself.",
+   "context": "In this activity you look at baby photos of yourself with a grown-up. You will find out that a baby cannot get any of the five needs alone. Someone gave each one to you.",
    "materials": [
     {
      "item": "a few baby photos of your child, printed or on a phone (no photos: tell your child about their baby days)",
@@ -838,7 +838,7 @@
      "what": "Look at baby photos and talk about how each need was met."
     }
    ],
-   "record": "Draw yourself as a baby, and draw who gave you each need.",
+   "record": "For each of the five needs, say who gave it to you as a baby. Write one line each, or draw it if you like.",
    "setup": [
     {
      "art": "A parent and a child looking at baby photos on a phone together.",
@@ -855,7 +855,7 @@
      "mins": 6,
      "do": "Look at the photos together. For each one, find the needs you can see.",
      "say": "Here you are as a baby. Who gave you your food? Who kept you warm? Where did you sleep?",
-     "kid": "Look at baby you. Who gave you food? Where did you sleep?",
+     "kid": "Look at the photos. Point to food, clothes and a place to sleep.",
      "ask": [
       {
        "q": "How did you get food and water as a baby?",
@@ -871,8 +871,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Ask the big question, and listen.",
-     "say": "A baby cannot get any of the five needs alone. So what else does a baby need?",
-     "kid": "What else does a baby need?",
+     "say": "A baby cannot get air, water, food, clothes or a home alone. Someone gives them all.",
+     "kid": "Think about who gave you these things.",
      "ask": [
       {
        "q": "What else does a baby need?",
@@ -892,7 +892,7 @@
    "title": "Our Bedsheet Home: a tent with all five needs",
    "mins": 30,
    "days": 1,
-   "context": "In this project you build a tent from chairs and a bedsheet, like the tent in the story The Tent on the Terrace. You turn its door away from the fan's wind and bring all five needs inside.",
+   "context": "In this project you build a tent from chairs and a bedsheet, like the tent in the story The Tent on the Terrace. You will find out how to make a home that keeps the wind out and has all five needs inside. You turn its door away from the fan's wind and bring all five needs inside.",
    "materials": [
     {
      "item": "2 chairs",
@@ -927,7 +927,7 @@
      "what": "Build the tent, test it with the flag, then bring in all five needs and eat a snack inside."
     }
    ],
-   "record": "Draw your tent from outside, with the fan, and draw the five needs inside.",
+   "record": "Take a photo of your tent. Then show your grown-up where each of the five needs is. Or draw the tent and the five needs inside.",
    "setup": [
     {
      "art": "Two chairs placed back to back with a bedsheet spread over them to make a tent, with one open side.",
@@ -944,14 +944,14 @@
      "mins": 8,
      "do": "1. Put two chairs back to back, a little apart. 2. Spread the bedsheet over them so it hangs down on every side. 3. Weigh the edges down with books. 4. Fold one edge up on top: that is the door.",
      "say": "Let's build a home, like the tent in our story. Where should the door go?",
-     "kid": "Build a tent with chairs and a sheet. Where will the door go?"
+     "kid": "Build the tent with the chairs and the sheet."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "1. Switch on the fan. 2. Put the tissue flag inside. 3. Turn the tent so the door faces the fan, then away from it.",
      "say": "Let's test our tent with the flag. Which way keeps it calm inside?",
-     "kid": "Put your flag inside. Turn the tent. When is it calm inside?",
+     "kid": "Put your flag inside. Turn the tent to face the fan, then away.",
      "ask": [
       {
        "q": "Which way keeps the tent calm?",
@@ -988,7 +988,7 @@
    "id": "c1",
    "title": "A Home for the Tissue Flag, Wind From Any Side",
    "mins": 20,
-   "context": "This is a making challenge. Build a shelter that keeps the tissue flag still, even when the fan is moved to blow from a different side.",
+   "context": "This is a making challenge. You will find out how to protect something from wind that can come from any side. Build a shelter that keeps the tissue flag still, even when the fan is moved to blow from a different side.",
    "problem": "A real home stands in one place, but the wind can come from any side. Build a shelter for your tissue flag that keeps it still when the fan blows from the front, then from the side.",
    "constraints": [
     "Use only things from home: books, card, paper, a box or cloth.",
@@ -1009,7 +1009,7 @@
     "Build a round wall that curls like a snail shell, so the door is tucked inside the curl.",
     "Hang a cloth curtain over the door, so wind from any side cannot rush straight in."
    ],
-   "your_turn": "Now invent your own shelter. Draw it, build it, and test it with the fan from two sides. What would you change?",
+   "your_turn": "Now invent your own shelter. Build it, and test it with the fan from two sides. You can draw a quick plan first. What would you change?",
    "setup": [
     {
      "art": "A child building a small shelter of books standing on their edges around a tissue flag, with a table fan behind.",
@@ -1026,7 +1026,7 @@
      "mins": 4,
      "do": "Show your child the problem. First look at the flag in the fan's wind with no shelter.",
      "say": "Real wind can blow from any side. Can you build a home that keeps our flag calm, whichever way the wind blows?",
-     "kid": "Build a home for your flag. The wind may come from any side."
+     "kid": "Look at your flag in the wind. Think how to protect it."
     },
     {
      "id": "s2",
@@ -1041,7 +1041,7 @@
      "mins": 6,
      "do": "1. Test with the fan in front. 2. Then move the fan to one side and test again.",
      "say": "Watch the flag. Now the wind comes from the side. What happens?",
-     "kid": "Test it. Now the wind comes from the side. Is it still calm?",
+     "kid": "Watch the flag for a slow count of ten, from each side.",
      "adult": true,
      "ask": [
       {
