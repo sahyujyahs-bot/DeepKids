@@ -192,21 +192,21 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   *Parent does:* Read each card aloud. Wait for the jump and a reason. Then read the back and give a tally mark to anyone who was right.  
   *Parent says:* Here is a card. Is it true or false? Why do you think so? Now let's turn it over.  
   *Child mode:* Listen to the card. Jump to True or False. Say why.
-  - Ask: Does the Moon make its own light? Why do you think so? (good: Yes, because it is bright at night.; No, because the Sun shines on it.)
+  - Ask: True or false: the Moon makes its own light. Why do you think so? (good: Yes, because it is bright at night.; No, because the Sun shines on it.)
   - Note: Wrong jumps are good. Many people are surprised that birds are dinosaurs, and that the Moon has no light of its own. Ask how people might have found out.
 - **s3 (3 min)**  
   *Parent does:* Pick the card about soap and haldi. Talk about how people found that out. Then pick one more card, and talk about how someone might have found that out too.  
-  *Parent says:* Look at the soap and haldi card. How did people find out that soap turns haldi red?  
-  *Child mode:* Look at the soap and haldi card. How did people find out about it?
+  *Parent says:* Find the soap and haldi card. Read it again with me.  
+  *Child mode:* Think about the soap and haldi card. Could you test it yourself?
   - Check: How did people find out that soap turns haldi red? → **Someone tried it and looked**
 ### g2 · Notice, Wonder, Try: a board game (15 min)
 - **rules:** Put your counters on Start.; Take turns to roll the dice and move that many squares. With paper slips, shake them, pick one, then put it back.; Do what your square says. Everyone listens.; If you are stuck, the others can help you. Then your turn ends.; The first player to reach Finish wins. If your roll takes you past Finish, you still win.
 - **Printable board: A path of 15 squares to draw:** Start; Notice: say one thing you see in this room that is red.; Wonder: ask one question about the window.; Try: drop a spoon and a paper ball together. Which lands first?; Notice: listen. Say one sound you can hear.; Wonder: ask one question about your hands.; Try: blow on your hand softly, then hard. What changes?; Notice: say one thing that smells good at home.; Wonder: ask one question about the sky.; Try: hold a steel spoon and a wooden spoon. Which feels colder?; Story: name one curious person from this unit.; Notice: find something that is round.; Wonder: ask one question about an animal you know.; Try: put a drop of water on a steel plate and on a cloth. What happens to each?; Finish: you are a scientist!
 - **Printable tokens: 4 counters and a dice:** a bottle cap; a button; a small stone; a coin; a dice, or six folded paper slips numbered 1, 2, 3, 1, 2, 3
 - **s1 (3 min)**  
-  *Parent does:* Draw the path together. Read each square aloud.  
-  *Parent says:* Some squares ask you to notice, some to wonder, and some to try. To notice is to look, listen or smell closely. To wonder is to ask a question. To try is to do a small test. Let's draw the path.  
-  *Child mode:* Help draw the path. Some squares say notice, some say wonder and some say try.
+  *Parent does:* Lay 15 pieces of paper in a winding line on the floor, or draw 15 squares on a big sheet. Write each square's words on it, then read each one aloud.  
+  *Parent says:* Some squares ask you to notice, some to wonder, and some to try. To notice is to look, listen or smell closely. To wonder is to ask a question. To try is to do a small test. Let's make the path.  
+  *Child mode:* Help make the path. Some squares say notice, some say wonder and some say try.
 - **s2 (10 min)**  
   *Parent does:* Play the game. Help with the Try squares.  
   *Parent says:* Roll and move. What does your square say? Let's do it.  
@@ -214,8 +214,8 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   - Note: Wonder squares have no right answer. Any real question counts. If a Try square gives a surprise, stop and ask why.
 - **s3 (2 min)**  
   *Parent does:* After the game, look at the three kinds of squares together. Ask which kind is a question. The answer is wonder.  
-  *Parent says:* There were notice squares, wonder squares and try squares. Which kind of square asks a question?  
-  *Child mode:* Notice, wonder and try. Which one asks a question?
+  *Parent says:* There were notice squares, wonder squares and try squares. Let's think about what each kind asks you to do.  
+  *Child mode:* Remember a wonder square you landed on. What did it ask?
   - Check: Which of these is a 'wonder'? → **Why do birds sit on wires?**
 
 ## Experiments
@@ -228,8 +228,8 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 - **results table:** Liquid | My guess: red or yellow? | What I saw: red or yellow?
 - **s1 (3 min)**  
   *Parent does:* 1. Show the haldi powder and the six liquids you will use. 2. Draw the results table together. 3. Ask for a guess and a reason for each liquid. Write the guesses.  
-  *Parent says:* A haldi stain can turn red in the wash. Which of our kitchen liquids does that? For each one, will the haldi go red or stay yellow? Why?  
-  *Child mode:* Look at the six liquids. Which ones will turn haldi red? Why?
+  *Parent says:* Sometimes a haldi stain turns red in the wash. We will test six kitchen liquids to see which one does that.  
+  *Child mode:* Look at the six liquids. Make your guesses before we try.
   - Ask: Which ones do you think will turn it red? Why? (good: Lemon, because it is strong.; Not water, because water just makes it wet.; Salt, because it is like soap.)
   - Note: Don't say what will happen. Many children guess lemon will turn it red, because lemon is strong and sour. Write every guess down.
 - **s2 (4 min) · grown-up needed**  
@@ -238,9 +238,9 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   *Child mode:* Help stir the salt and the sugar into water.
   - Note: Use a bar of washing soap or bathing soap, or washing powder. Some mild liquid hand washes and shampoos do not turn haldi red.
 - **s3 (4 min)**  
-  *Parent does:* 1. Mix half a teaspoon of haldi with three spoons of water. 2. Paint it thickly on the paper with fingers or a brush. 3. Draw six boxes in pencil and write or draw a liquid in each.  
+  *Parent does:* 1. Mix half a teaspoon of haldi with three spoons of water. 2. Paint it thickly on the paper with fingers or a brush. 3. Draw six boxes in pencil and write the name of a liquid in each.  
   *Parent says:* Paint the whole paper yellow. Make it nice and thick. Now we draw six boxes, one for each liquid.  
-  *Child mode:* Paint the paper yellow with haldi. Draw six boxes.
+  *Child mode:* Paint the paper yellow with your fingers or a brush.
   - Note: The paper can stay damp. The colour change shows even better on damp haldi. Haldi stains clothes and fingers, so wear old clothes.
 - **s4 (5 min)**  
   *Parent does:* 1. Dip a clean cotton bud in plain water. 2. Dab it in the first box. 3. Wait and watch for ten seconds. 4. Write red or yellow in the results table. 5. Do the same for each liquid, with a clean bud each time.  
@@ -249,20 +249,20 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   - Note: Soap water turns the haldi deep red at once. Cooking soda water usually turns it orange-red. Water, lemon, salt and sugar leave it yellow. If the soap box stays yellow, try a different soap bar or washing powder. Dab small drops, far apart, so the boxes do not run into each other.
 - **s5 (4 min)**  
   *Parent does:* Look at the paper and the table together. Ask which liquids turned the haldi red and how your child knows.  
-  *Parent says:* What did you find out? Which liquids turned haldi red? How do you know? Was any guess different from what happened?  
-  *Child mode:* Which liquids turned it red? How do you know?
-  - Ask: Which ones turned it red? (good: Soap and cooking soda.; The soap one went the reddest.)
+  *Parent says:* Look at the paper and the table. Was any guess different from what happened?  
+  *Child mode:* Look at your guesses and your results. Which ones were different?
+  - Ask: Which ones turned it red? How do you know? (good: Soap and cooking soda.; The soap one went the reddest.)
   - Check: In the Haldi Test, the soap box went red and the lemon box stayed yellow. What did the test show? → **Soap turns haldi red, and lemon does not**
 ### e2 · Back to Yellow: can the red spot change back? (12 min)
 - **question:** Once soap has turned haldi red, can we turn it yellow again?
 - **predict:** Guess first. Will the red spot stay red for ever? Could lemon, water or salt water change it back? Why do you think so?
 - **fair test:** We add a few drops of a different liquid to each red spot. All the red spots were made with the same soap water. Only the liquid we add changes.
-- **record:** Draw three red spots and colour each one the way it looked after you added a liquid.
+- **record:** Take a photo of the paper, or draw three spots and colour each one the way it looked after you added a liquid.
 - **results table:** Liquid added to the red spot | My guess | What I saw
 - **s1 (3 min)**  
-  *Parent does:* Make three red spots on the haldi paper with soap water.  
-  *Parent says:* Here are three red spots. Can we make one yellow again? What might do it? Why?  
-  *Child mode:* Can a red spot go yellow again? What could do it?
+  *Parent does:* Dab soap water on the haldi paper in three places, far apart, with a cotton bud. Each spot turns red.  
+  *Parent says:* Here are three red spots. Soap made them red. Can we turn one back to yellow?  
+  *Child mode:* Look at the red spots. Think about what you tried in the haldi test.
   - Ask: What could turn it yellow? (good: Water could wash it away.; Lemon, because lemon kept it yellow before.)
 - **s2 (6 min)**  
   *Parent does:* Add a few drops of plain water to spot one and salt water to spot two. Add just two or three drops of lemon juice to spot three. Watch for half a minute.  
@@ -271,14 +271,14 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   - Note: The lemon spot fades to orange and then yellow. It may need a few more drops. Water and salt water leave the spot red.
 - **s3 (3 min)**  
   *Parent does:* Rub the wet soap bar on the yellow lemon spot. If it stays yellow, rub more soap on. Talk about what you saw.  
-  *Parent says:* Now rub soap on the lemon spot. What happens? What does that tell us?  
-  *Child mode:* Rub soap on the lemon spot. What happens?
+  *Parent says:* Now rub soap on the lemon spot. Guess first, then watch.  
+  *Child mode:* Rub soap on the lemon spot and watch the colour.
   - Note: The soap has to use up the lemon first, so the spot may need a good rub. Use only a few drops of lemon in step 2, so the spot is not soaked in lemon.
   - Check: Soap made haldi red. Lemon made it yellow again. What happens if you add soap again? → **It goes red again**
 
 ## Activities
 ### a1 · I Notice, I Wonder: at the window (10 min)
-- **record:** A drawing of one thing you noticed, with your wonder question written by a grown-up underneath.
+- **record:** A drawing or a photo of one thing you noticed, with your wonder question written by a grown-up underneath.
 - **s1 (4 min)**  
   *Parent does:* Look out of the window together, quietly, for two minutes. Then take turns to say 'I notice…'  
   *Parent says:* Let's look quietly for two minutes. Then tell me three things you notice. Start with 'I notice'.  
@@ -291,9 +291,9 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   - Ask: What do you wonder? (good: I wonder why crows sit on wires.; I wonder where the clouds go.)
   - Note: Every real question is a good one. Don't answer them now. Write them down, so you can find out together later.
 - **s3 (2 min)**  
-  *Parent does:* Your child draws one thing they noticed. Write their wonder question underneath.  
-  *Parent says:* Draw one thing you noticed. I'll write your question under it.  
-  *Child mode:* Draw one thing. Tell me your question.
+  *Parent does:* Your child draws one thing they noticed, or you take a photo of it together. Write their wonder question underneath.  
+  *Parent says:* Pick one thing you noticed. We can draw it or take a photo. I'll write your question under it.  
+  *Child mode:* Pick one thing. Tell me your question.
 ### a2 · The Secret Red Message (15 min)
 - **record:** The secret message paper, with the red writing on yellow.
 - **s1 (5 min)**  
@@ -303,19 +303,19 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   - Note: Thick soap water works best. Go over the letters twice.
 - **s2 (5 min)**  
   *Parent does:* Before you brush on the haldi water, ask your child to guess what will happen.  
-  *Parent says:* When I brush yellow haldi over the paper, what will happen to your hidden word? Why do you think so?  
-  *Child mode:* What will happen when we brush on haldi? Why?
-  - Ask: What will happen? (good: The word will go red, because soap turns haldi red.; It will all go yellow.)
+  *Parent says:* I am going to brush yellow haldi water over your paper. Take a guess first.  
+  *Child mode:* Make a guess, and say why.
+  - Ask: What will happen to your hidden word? (good: The word will go red, because soap turns haldi red.; It will all go yellow.)
 - **s3 (5 min)**  
   *Parent does:* Brush haldi water gently over the whole paper.  
-  *Parent says:* Watch. What do you see? Why did the word come back?  
-  *Child mode:* Watch the paper. What do you see? Why?
+  *Parent says:* Watch the paper closely while I brush. Tell me what you see.  
+  *Child mode:* Watch the paper. Say what appears.
   - Check: Why did the hidden word turn red? → **The soap was still on the paper, and soap turns haldi red**
 ### a3 · Be Tu Youyou: the clue in the old book (12 min)
 - **record:** Tell the story back to a family member, using the four clue cards.
 - **s1 (3 min)**  
-  *Parent does:* Before you start, write and hide four clue cards. Put card 1 in an old book. It says: Soak the plant in water and squeeze out the juice. Card 2 says: Most medicines are boiled, but this one says soak. Card 3 says: Try again and again. Card 4 says: Test carefully, to be safe. Then tell the short story.  
-  *Parent says:* More than fifty years ago, many people were ill with malaria, an illness spread by mosquito bites. A scientist called Tu Youyou looked for a medicine in very old books. Let's hunt for her clues.  
+  *Parent does:* Before you start, write and hide four clue cards. Put card 1 in an old book. It says: Soak the plant in water and squeeze out the juice. Card 2 says: Most medicines are boiled, but this one says soak. Card 3 says: Try again and again. Card 4 says: Test carefully, to be safe. Hide cards 2, 3 and 4 in other rooms. Then tell the short story.  
+  *Parent says:* More than fifty years ago, many people were ill with malaria, an illness spread by mosquito bites. A scientist in China called Tu Youyou looked for a medicine in very old books. Let's hunt for her clues.  
   *Child mode:* Tu Youyou looked for a medicine in old books. Find her clues!
 - **s2 (5 min)**  
   *Parent does:* Your child hunts for the cards. Read each one aloud when it is found.  
@@ -324,21 +324,21 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
   - Note: This is a game. The leaf and water are pretend. Never make or drink a medicine from a plant at home.
 - **s3 (4 min)**  
   *Parent does:* Act out the story. Your child is Tu Youyou and you are her team. Your child holds a leaf in a cup of cool water, squeezes the leaf, and says what they wonder. Then tell the end of the story. Tu Youyou made the medicine without much heat and tested it. It worked very well. That test showed that her guess was right.  
-  *Parent says:* Tu Youyou read that the plant was soaked in water and the juice squeezed out. It did not say to boil it. But people usually boiled plants to make medicine. What did she wonder?  
-  *Child mode:* You are Tu Youyou. You read 'soak and squeeze'. What do you wonder?
+  *Parent says:* Tu Youyou read that the plant was soaked in water and the juice squeezed out. It did not say to boil it. People usually boiled plants to make medicine. This book did not say to boil it.  
+  *Child mode:* Be Tu Youyou. Hold the leaf in the water and squeeze it. Think about the clue.
   - Ask: What did Tu Youyou wonder? (good: Maybe heat spoils the medicine.; Why soak it and not boil it?)
-  - Check: In the clue hunt, the old book gave Tu Youyou a clue. What did her test do? → **It showed whether her guess was right**
+  - Check: The old book gave Tu Youyou a clue. What did her test do? → **It showed whether her guess was right**
 
 ## Projects
 ### p1 · My Wonder Book: three days (24 min, 3 days)
 - **record:** The finished Wonder Book, read aloud to a family member.
-- **schedule:** day 1: Make the book. A grown-up writes down three of your wonder questions. Draw a picture for each. (8 min); day 2: Choose one question you can test at home. Guess, try it, and draw what happened. (10 min); day 3: Read your Wonder Book to someone in the family. Tell them what you found. (6 min)
+- **schedule:** day 1: Make the book. A grown-up writes down three of your wonder questions. Draw a picture for one. (8 min); day 2: Choose one question you can test at home. Guess, try it, and show what happened by drawing it or telling it. (10 min); day 3: Read your Wonder Book to someone in the family. Tell them what you found. (6 min)
 - **s1 (8 min)**  
-  *Parent does:* 1. Fold and staple the book. 2. Ask for three 'I wonder' questions. 3. Write each on a page. Your child draws a picture.  
-  *Parent says:* What do you wonder about? Tell me three questions. I'll write them, and you draw.  
-  *Child mode:* Tell me three things you wonder. Draw one picture for each.
+  *Parent does:* 1. Fold and staple the book. 2. Ask for three 'I wonder' questions. 3. Write each on a page. Your child draws a picture for one of them, or just tells you about it.  
+  *Parent says:* What do you wonder about? Tell me three questions. I'll write them. Then you can draw one.  
+  *Child mode:* Tell me three things you wonder. Draw a picture for one.
 - **s2 (10 min)**  
-  *Parent does:* Choose one question you can test safely at home. Ask for a guess and a reason, then try it.  
+  *Parent does:* Choose one question you can test safely at home. Ask for a guess and a reason, then try it. Your child then draws what happened, or tells you.  
   *Parent says:* Which question can we test today? What do you guess will happen? Why? Let's try it.  
   *Child mode:* Pick one question. Guess. Then try it.
   - Note: Good home questions: Which sinks, a steel spoon or a plastic one? Does an ice cube melt faster on a steel plate or on a plastic plate? Which rolls further down a slope, a marble or a rubber ball?
@@ -355,22 +355,22 @@ That night, Meenakshi lay in bed and looked at the ceiling fan. Why does it make
 - **problem:** Make a card for Pongal, Onam, Diwali, Eid, Christmas or a birthday. The message inside must be hidden, and appear only when someone brushes it with haldi water.
 - **your turn:** Now design your own hidden card. Did the message stay hidden until it was brushed? What would you change?
 - **constraints:** The message must be hard to see before it is revealed.; Use only things from home.; Your friend must be able to reveal it on their own, with your instructions.
-- **general:** Write the message in soap water and let it dry.; Draw a picture on the front with crayons.
+- **general:** Write the message in soap water and let it dry.; Decorate the front with crayons, or stick on paper shapes.
 - **creative:** Write the instructions on the front: 'Brush me with haldi water!'; Draw a kolam or a rangoli pattern in soap water, so a pattern appears in red.; Send a little packet of haldi with the card.
 - **s1 (5 min)**  
   *Parent does:* Talk about the challenge. Ask for ideas.  
-  *Parent says:* How can we hide a message so only haldi can show it? What should it say?  
-  *Child mode:* How will you hide your message? What will it say?
+  *Parent says:* We will make a card with a hidden message. Which festival is it for, and what will the message say?  
+  *Child mode:* Pick the festival and the message for your card.
   - Ask: How could you hide it? (good: Write it in soap water.; Use soap, because soap turns haldi red.)
 - **s2 (10 min)**  
-  *Parent does:* Your child writes the message in thick soap water on the card, and on a spare paper the same way. Let both dry. Then they decorate the outside.  
-  *Parent says:* Write your message in soap water. Let it dry. Now decorate the front.  
-  *Child mode:* Write in soap water. Let it dry. Decorate the front.
+  *Parent does:* Make soap water by rubbing a wet soap bar in a little water. Your child writes the message inside the card in thick soap water, and on a spare paper the same way. Let both dry. Then they decorate the front.  
+  *Parent says:* Write your message inside the card in soap water. Let it dry. Then we decorate the front.  
+  *Child mode:* Write your secret message. While it dries, decorate the front.
   - Note: Thin soap water may give only a faint pink, so go over the letters twice.
 - **s3 (5 min)**  
   *Parent does:* Mix half a teaspoon of haldi with three spoons of water. Brush it on the spare paper. Talk about whether the message stayed hidden, and whether it appeared.  
-  *Parent says:* Did the message stay hidden? Did it appear when you brushed it?  
-  *Child mode:* Did it stay hidden? Did it appear?
+  *Parent says:* Let's test the spare paper first, so your real card stays a secret.  
+  *Child mode:* Watch the spare paper. Does the message show up?
 
 ## Worksheets
 ### Being a Scientist (core) (core, 10 questions)

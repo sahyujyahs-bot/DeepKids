@@ -346,7 +346,7 @@
      "kid": "Listen to the card. Jump to True or False. Say why.",
      "ask": [
       {
-       "q": "Does the Moon make its own light? Why do you think so?",
+       "q": "True or false: the Moon makes its own light. Why do you think so?",
        "good": [
         "Yes, because it is bright at night.",
         "No, because the Sun shines on it."
@@ -359,8 +359,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Pick the card about soap and haldi. Talk about how people found that out. Then pick one more card, and talk about how someone might have found that out too.",
-     "say": "Look at the soap and haldi card. How did people find out that soap turns haldi red?",
-     "kid": "Look at the soap and haldi card. How did people find out about it?",
+     "say": "Find the soap and haldi card. Read it again with me.",
+     "kid": "Think about the soap and haldi card. Could you test it yourself?",
      "check": {
       "t": "mcq",
       "q": "How did people find out that soap turns haldi red?",
@@ -380,7 +380,7 @@
    "title": "Notice, Wonder, Try: a board game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a board game about being curious. Each square asks you to notice something, wonder about something, or try something small. The first to reach the end wins.",
+   "context": "This is a board game about being curious. Each square asks you to notice something, wonder about something, or try something small. You will practise the three things scientists do all the time. The first to reach the end wins.",
    "printables": [
     {
      "kind": "board",
@@ -425,7 +425,7 @@
    "setup": [
     {
      "art": "A winding path of 15 squares drawn on a big sheet, with small drawings of an eye, a question mark and a hand on the squares.",
-     "caption": "1. Draw the path of squares."
+     "caption": "1. Make the path of squares."
     },
     {
      "art": "Two children and a grown-up around the board, one child dropping a spoon and a paper ball at the same time.",
@@ -436,9 +436,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw the path together. Read each square aloud.",
-     "say": "Some squares ask you to notice, some to wonder, and some to try. To notice is to look, listen or smell closely. To wonder is to ask a question. To try is to do a small test. Let's draw the path.",
-     "kid": "Help draw the path. Some squares say notice, some say wonder and some say try."
+     "do": "Lay 15 pieces of paper in a winding line on the floor, or draw 15 squares on a big sheet. Write each square's words on it, then read each one aloud.",
+     "say": "Some squares ask you to notice, some to wonder, and some to try. To notice is to look, listen or smell closely. To wonder is to ask a question. To try is to do a small test. Let's make the path.",
+     "kid": "Help make the path. Some squares say notice, some say wonder and some say try."
     },
     {
      "id": "s2",
@@ -452,8 +452,8 @@
      "id": "s3",
      "mins": 2,
      "do": "After the game, look at the three kinds of squares together. Ask which kind is a question. The answer is wonder.",
-     "say": "There were notice squares, wonder squares and try squares. Which kind of square asks a question?",
-     "kid": "Notice, wonder and try. Which one asks a question?",
+     "say": "There were notice squares, wonder squares and try squares. Let's think about what each kind asks you to do.",
+     "kid": "Remember a wonder square you landed on. What did it ask?",
      "check": {
       "t": "mcq",
       "q": "Which of these is a 'wonder'?",
@@ -475,7 +475,7 @@
    "title": "The Haldi Test: which kitchen liquids turn haldi red?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you paint yellow haldi on paper. Then you touch it with six kitchen liquids, one at a time. You find out which ones turn the haldi red.",
+   "context": "In this experiment you paint yellow haldi on paper. Then you touch it with six kitchen liquids, one at a time. You will find out which one makes a haldi stain turn red, the way it sometimes does in the wash.",
    "question": "A haldi stain can turn red in the wash. Which kitchen liquids turn haldi red?",
    "predict": "Guess first. Will plain water, lemon juice, salt water, sugar water, soap water and cooking soda water turn the haldi red? Why do you think so?",
    "fair_test": "We use the same haldi paper for every liquid. We put one drop of each liquid in its own box. We use a clean cotton bud or a clean spoon tip each time. Only the liquid changes.",
@@ -554,8 +554,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Show the haldi powder and the six liquids you will use. 2. Draw the results table together. 3. Ask for a guess and a reason for each liquid. Write the guesses.",
-     "say": "A haldi stain can turn red in the wash. Which of our kitchen liquids does that? For each one, will the haldi go red or stay yellow? Why?",
-     "kid": "Look at the six liquids. Which ones will turn haldi red? Why?",
+     "say": "Sometimes a haldi stain turns red in the wash. We will test six kitchen liquids to see which one does that.",
+     "kid": "Look at the six liquids. Make your guesses before we try.",
      "ask": [
       {
        "q": "Which ones do you think will turn it red? Why?",
@@ -580,9 +580,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Mix half a teaspoon of haldi with three spoons of water. 2. Paint it thickly on the paper with fingers or a brush. 3. Draw six boxes in pencil and write or draw a liquid in each.",
+     "do": "1. Mix half a teaspoon of haldi with three spoons of water. 2. Paint it thickly on the paper with fingers or a brush. 3. Draw six boxes in pencil and write the name of a liquid in each.",
      "say": "Paint the whole paper yellow. Make it nice and thick. Now we draw six boxes, one for each liquid.",
-     "kid": "Paint the paper yellow with haldi. Draw six boxes.",
+     "kid": "Paint the paper yellow with your fingers or a brush.",
      "parent": "The paper can stay damp. The colour change shows even better on damp haldi. Haldi stains clothes and fingers, so wear old clothes."
     },
     {
@@ -597,11 +597,11 @@
      "id": "s5",
      "mins": 4,
      "do": "Look at the paper and the table together. Ask which liquids turned the haldi red and how your child knows.",
-     "say": "What did you find out? Which liquids turned haldi red? How do you know? Was any guess different from what happened?",
-     "kid": "Which liquids turned it red? How do you know?",
+     "say": "Look at the paper and the table. Was any guess different from what happened?",
+     "kid": "Look at your guesses and your results. Which ones were different?",
      "ask": [
       {
-       "q": "Which ones turned it red?",
+       "q": "Which ones turned it red? How do you know?",
        "good": [
         "Soap and cooking soda.",
         "The soap one went the reddest."
@@ -627,7 +627,7 @@
    "title": "Back to Yellow: can the red spot change back?",
    "mins": 12,
    "days": 1,
-   "context": "In this experiment you take a red spot from the haldi test. You find out if anything can turn it yellow again.",
+   "context": "In this experiment you take a red spot from the haldi test. You find out if anything can turn it yellow again. This shows whether soap changed the haldi for ever, or only for a while.",
    "question": "Once soap has turned haldi red, can we turn it yellow again?",
    "predict": "Guess first. Will the red spot stay red for ever? Could lemon, water or salt water change it back? Why do you think so?",
    "fair_test": "We add a few drops of a different liquid to each red spot. All the red spots were made with the same soap water. Only the liquid we add changes.",
@@ -661,7 +661,7 @@
      "what": "Make three red spots with soap. Add water, salt water and lemon. Watch which spot turns yellow."
     }
    ],
-   "record": "Draw three red spots and colour each one the way it looked after you added a liquid.",
+   "record": "Take a photo of the paper, or draw three spots and colour each one the way it looked after you added a liquid.",
    "setup": [
     {
      "art": "A yellow haldi paper with three red soap spots in a row.",
@@ -676,9 +676,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Make three red spots on the haldi paper with soap water.",
-     "say": "Here are three red spots. Can we make one yellow again? What might do it? Why?",
-     "kid": "Can a red spot go yellow again? What could do it?",
+     "do": "Dab soap water on the haldi paper in three places, far apart, with a cotton bud. Each spot turns red.",
+     "say": "Here are three red spots. Soap made them red. Can we turn one back to yellow?",
+     "kid": "Look at the red spots. Think about what you tried in the haldi test.",
      "ask": [
       {
        "q": "What could turn it yellow?",
@@ -701,8 +701,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Rub the wet soap bar on the yellow lemon spot. If it stays yellow, rub more soap on. Talk about what you saw.",
-     "say": "Now rub soap on the lemon spot. What happens? What does that tell us?",
-     "kid": "Rub soap on the lemon spot. What happens?",
+     "say": "Now rub soap on the lemon spot. Guess first, then watch.",
+     "kid": "Rub soap on the lemon spot and watch the colour.",
      "check": {
       "t": "mcq",
       "q": "Soap made haldi red. Lemon made it yellow again. What happens if you add soap again?",
@@ -725,7 +725,7 @@
    "title": "I Notice, I Wonder: at the window",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look out of a window for a few minutes. You say what you notice, and then what you wonder. Scientists start like this.",
+   "context": "In this activity you look out of a window for a few minutes. To notice is to look, listen or smell closely. To wonder is to ask a question about it. You will end with a question of your own to find out about later.",
    "materials": [
     {
      "item": "a window or a balcony",
@@ -743,7 +743,7 @@
      "what": "Look out of a window. Say three things you notice and three things you wonder."
     }
    ],
-   "record": "A drawing of one thing you noticed, with your wonder question written by a grown-up underneath.",
+   "record": "A drawing or a photo of one thing you noticed, with your wonder question written by a grown-up underneath.",
    "setup": [
     {
      "art": "A child and a grown-up looking out of a flat window at a tree, a crow on a wire and clouds.",
@@ -792,9 +792,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Your child draws one thing they noticed. Write their wonder question underneath.",
-     "say": "Draw one thing you noticed. I'll write your question under it.",
-     "kid": "Draw one thing. Tell me your question."
+     "do": "Your child draws one thing they noticed, or you take a photo of it together. Write their wonder question underneath.",
+     "say": "Pick one thing you noticed. We can draw it or take a photo. I'll write your question under it.",
+     "kid": "Pick one thing. Tell me your question."
     }
    ]
   },
@@ -803,7 +803,7 @@
    "title": "The Secret Red Message",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you write a secret message in soap water on white paper. It dries and disappears. Then you brush haldi water over it, and your message comes back in red.",
+   "context": "In this activity you write a secret message in soap water on white paper. It dries and disappears. Then you brush haldi water over it, and your message comes back in red. You will find out why it was hidden, and why haldi shows it.",
    "materials": [
     {
      "item": "a sheet of white paper",
@@ -857,11 +857,11 @@
      "id": "s2",
      "mins": 5,
      "do": "Before you brush on the haldi water, ask your child to guess what will happen.",
-     "say": "When I brush yellow haldi over the paper, what will happen to your hidden word? Why do you think so?",
-     "kid": "What will happen when we brush on haldi? Why?",
+     "say": "I am going to brush yellow haldi water over your paper. Take a guess first.",
+     "kid": "Make a guess, and say why.",
      "ask": [
       {
-       "q": "What will happen?",
+       "q": "What will happen to your hidden word?",
        "good": [
         "The word will go red, because soap turns haldi red.",
         "It will all go yellow."
@@ -873,8 +873,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Brush haldi water gently over the whole paper.",
-     "say": "Watch. What do you see? Why did the word come back?",
-     "kid": "Watch the paper. What do you see? Why?",
+     "say": "Watch the paper closely while I brush. Tell me what you see.",
+     "kid": "Watch the paper. Say what appears.",
      "check": {
       "t": "mcq",
       "q": "Why did the hidden word turn red?",
@@ -935,8 +935,8 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Before you start, write and hide four clue cards. Put card 1 in an old book. It says: Soak the plant in water and squeeze out the juice. Card 2 says: Most medicines are boiled, but this one says soak. Card 3 says: Try again and again. Card 4 says: Test carefully, to be safe. Then tell the short story.",
-     "say": "More than fifty years ago, many people were ill with malaria, an illness spread by mosquito bites. A scientist called Tu Youyou looked for a medicine in very old books. Let's hunt for her clues.",
+     "do": "Before you start, write and hide four clue cards. Put card 1 in an old book. It says: Soak the plant in water and squeeze out the juice. Card 2 says: Most medicines are boiled, but this one says soak. Card 3 says: Try again and again. Card 4 says: Test carefully, to be safe. Hide cards 2, 3 and 4 in other rooms. Then tell the short story.",
+     "say": "More than fifty years ago, many people were ill with malaria, an illness spread by mosquito bites. A scientist in China called Tu Youyou looked for a medicine in very old books. Let's hunt for her clues.",
      "kid": "Tu Youyou looked for a medicine in old books. Find her clues!"
     },
     {
@@ -951,8 +951,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Act out the story. Your child is Tu Youyou and you are her team. Your child holds a leaf in a cup of cool water, squeezes the leaf, and says what they wonder. Then tell the end of the story. Tu Youyou made the medicine without much heat and tested it. It worked very well. That test showed that her guess was right.",
-     "say": "Tu Youyou read that the plant was soaked in water and the juice squeezed out. It did not say to boil it. But people usually boiled plants to make medicine. What did she wonder?",
-     "kid": "You are Tu Youyou. You read 'soak and squeeze'. What do you wonder?",
+     "say": "Tu Youyou read that the plant was soaked in water and the juice squeezed out. It did not say to boil it. People usually boiled plants to make medicine. This book did not say to boil it.",
+     "kid": "Be Tu Youyou. Hold the leaf in the water and squeeze it. Think about the clue.",
      "ask": [
       {
        "q": "What did Tu Youyou wonder?",
@@ -964,7 +964,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "In the clue hunt, the old book gave Tu Youyou a clue. What did her test do?",
+      "q": "The old book gave Tu Youyou a clue. What did her test do?",
       "options": [
        "It showed whether her guess was right",
        "It wrote a new book",
@@ -983,7 +983,7 @@
    "title": "My Wonder Book: three days",
    "days": 3,
    "mins": 24,
-   "context": "In this project you make a small book of your own questions. On day 1 a grown-up writes down your wonder questions. On day 2 you test one. On day 3 you tell someone what you found.",
+   "context": "In this project you make a small book of your own questions. On day 1 a grown-up writes down your wonder questions. On day 2 you test one. On day 3 you tell someone what you found. You will see that you can find out the answer to a question of your own.",
    "materials": [
     {
      "item": "3 sheets of paper, folded in half and stapled or tied with thread",
@@ -998,12 +998,12 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Make the book. A grown-up writes down three of your wonder questions. Draw a picture for each."
+     "what": "Make the book. A grown-up writes down three of your wonder questions. Draw a picture for one."
     },
     {
      "day": 2,
      "mins": 10,
-     "what": "Choose one question you can test at home. Guess, try it, and draw what happened."
+     "what": "Choose one question you can test at home. Guess, try it, and show what happened by drawing it or telling it."
     },
     {
      "day": 3,
@@ -1026,14 +1026,14 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Fold and staple the book. 2. Ask for three 'I wonder' questions. 3. Write each on a page. Your child draws a picture.",
-     "say": "What do you wonder about? Tell me three questions. I'll write them, and you draw.",
-     "kid": "Tell me three things you wonder. Draw one picture for each."
+     "do": "1. Fold and staple the book. 2. Ask for three 'I wonder' questions. 3. Write each on a page. Your child draws a picture for one of them, or just tells you about it.",
+     "say": "What do you wonder about? Tell me three questions. I'll write them. Then you can draw one.",
+     "kid": "Tell me three things you wonder. Draw a picture for one."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Choose one question you can test safely at home. Ask for a guess and a reason, then try it.",
+     "do": "Choose one question you can test safely at home. Ask for a guess and a reason, then try it. Your child then draws what happened, or tells you.",
      "say": "Which question can we test today? What do you guess will happen? Why? Let's try it.",
      "kid": "Pick one question. Guess. Then try it.",
      "wait": "Do this the next day",
@@ -1064,7 +1064,7 @@
    "id": "c1",
    "title": "The Hidden Festival Card",
    "mins": 20,
-   "context": "This is a making challenge. Make a greeting card with a hidden message. The message must stay hidden until your friend makes it appear.",
+   "context": "This is a making challenge. Make a greeting card with a hidden message. The message must stay hidden until your friend makes it appear. You will find out if you can keep a secret that only haldi can show.",
    "problem": "Make a card for Pongal, Onam, Diwali, Eid, Christmas or a birthday. The message inside must be hidden, and appear only when someone brushes it with haldi water.",
    "constraints": [
     "The message must be hard to see before it is revealed.",
@@ -1079,7 +1079,7 @@
    ],
    "general": [
     "Write the message in soap water and let it dry.",
-    "Draw a picture on the front with crayons."
+    "Decorate the front with crayons, or stick on paper shapes."
    ],
    "creative": [
     "Write the instructions on the front: 'Brush me with haldi water!'",
@@ -1102,8 +1102,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Talk about the challenge. Ask for ideas.",
-     "say": "How can we hide a message so only haldi can show it? What should it say?",
-     "kid": "How will you hide your message? What will it say?",
+     "say": "We will make a card with a hidden message. Which festival is it for, and what will the message say?",
+     "kid": "Pick the festival and the message for your card.",
      "ask": [
       {
        "q": "How could you hide it?",
@@ -1117,17 +1117,17 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child writes the message in thick soap water on the card, and on a spare paper the same way. Let both dry. Then they decorate the outside.",
-     "say": "Write your message in soap water. Let it dry. Now decorate the front.",
-     "kid": "Write in soap water. Let it dry. Decorate the front.",
+     "do": "Make soap water by rubbing a wet soap bar in a little water. Your child writes the message inside the card in thick soap water, and on a spare paper the same way. Let both dry. Then they decorate the front.",
+     "say": "Write your message inside the card in soap water. Let it dry. Then we decorate the front.",
+     "kid": "Write your secret message. While it dries, decorate the front.",
      "parent": "Thin soap water may give only a faint pink, so go over the letters twice."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Mix half a teaspoon of haldi with three spoons of water. Brush it on the spare paper. Talk about whether the message stayed hidden, and whether it appeared.",
-     "say": "Did the message stay hidden? Did it appear when you brushed it?",
-     "kid": "Did it stay hidden? Did it appear?"
+     "say": "Let's test the spare paper first, so your real card stays a secret.",
+     "kid": "Watch the spare paper. Does the message show up?"
     }
    ]
   }

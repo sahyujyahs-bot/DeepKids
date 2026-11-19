@@ -266,7 +266,7 @@
      "what": "Guess and mix two paints at a time, mix all three, then try to get yellow back out of the green."
     }
    ],
-   "record": "Paint your colour sums on the paper: a yellow blob, a plus sign, a blue blob, an equals sign, and the green you made. Do the same for every mix.",
+   "record": "Paint your colour sums on the paper: a yellow blob, a plus sign, a blue blob, an equals sign, and the green you made. Do the same for every mix. If you would rather not, paint just the new colours and say the sums to your grown-up.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -328,8 +328,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cover the table with newspaper. 2. Put a pea-sized blob of red, yellow and blue paint on the plate, far apart. 3. Put the water and cloth nearby.",
-     "say": "Here are three paints: red, yellow and blue. Today we will mix them, two at a time. What do you think yellow and blue will make? Why do you think so?",
-     "kid": "Look at the three paints. Red, yellow and blue. What will yellow and blue make? Why?",
+     "say": "Here are three paints: red, yellow and blue. Today we will mix them, two at a time. First, yellow and blue.",
+     "kid": "Look at the three paints and say their names.",
      "ask": [
       {
        "q": "What do you think yellow and blue will make? Why?",
@@ -346,8 +346,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Your child takes a little yellow on the brush and puts it in the middle of the plate. 2. They wash the brush and add a little blue. 3. They stir. 4. They paint a patch of the new colour on the paper.",
-     "say": "Take a little yellow. Now wash your brush and take a little blue. Stir them together. What colour is coming?",
-     "kid": "Take yellow. Wash the brush. Take blue. Stir. What colour do you see?",
+     "say": "Take a little yellow. Now wash your brush and take a little blue. Stir them together.",
+     "kid": "Take yellow. Wash the brush. Take blue. Stir them together.",
      "ask": [
       {
        "q": "What colour did you make?",
@@ -380,8 +380,8 @@
      "id": "s4",
      "mins": 4,
      "do": "1. Ask your child to guess what all three paints will make together, and why. 2. They mix a little red, yellow and blue in one spot. 3. They paint it on the paper.",
-     "say": "What will all three make together? Why do you think so? Let's mix them. Is the new colour brighter or darker than the yellow?",
-     "kid": "Guess first. Then mix all three. Is it bright or dark?",
+     "say": "What will all three make together? Why do you think so? Let's mix them and see.",
+     "kid": "Guess first. Then mix all three. Is it brighter or darker than the yellow?",
      "ask": [
       {
        "q": "What did all three paints make?",
@@ -397,8 +397,8 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Your child takes some green from the plate and adds more and more yellow. 2. Look at the colour after each brushful.",
-     "say": "Can we get the yellow back out of the green? Add more yellow. Is it yellow again?",
-     "kid": "Add more yellow to the green. Is it yellow again?",
+     "say": "Can we get the yellow back out of the green? Let's try.",
+     "kid": "Add a little more yellow to the green, then look. Add more, then look again.",
      "parent": "The green turns yellowish green, but never plain yellow. Now ask your child: can a mixed colour be unmixed? What did you see that shows it?",
      "check": {
       "t": "mcq",
@@ -456,7 +456,7 @@
      "what": "Make yellow water, add blue drop by drop, then try to undo the green with water."
     }
    ],
-   "record": "Draw the glass after 1 drop, 3 drops and 6 drops of blue. Colour each drawing.",
+   "record": "Take a photo of the glass after 1 drop, 3 drops and 6 drops of blue. Or draw and colour each glass.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -514,7 +514,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Your child adds one drop of blue food colour and stirs. 2. They add more drops one at a time, counting out loud, up to six. 3. Look at the colour after each drop.",
-     "say": "Add one drop. Stir. What colour now? Add another drop. Is the green lighter or darker?",
+     "say": "Add one drop and stir. What colour is it now? Then add another drop.",
      "kid": "Add one drop. Stir. Count. Is it lighter or darker now?",
      "ask": [
       {
@@ -531,7 +531,7 @@
      "mins": 4,
      "do": "1. Pour half the green water into the empty glass. 2. Ask your child to guess whether water will turn the green back into yellow. 3. They fill that glass to the top with plain water from the jug and stir. 4. Stand it beside the first glass to compare.",
      "say": "Can water turn the green back into yellow? What do you think, and why? Let's pour in lots of water.",
-     "kid": "Pour in lots of water. Is it yellow again?",
+     "kid": "Pour in lots of water and stir. Look at the colour.",
      "ask": [
       {
        "q": "What colour is it now?",
@@ -547,8 +547,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Stand the two glasses side by side and look at them together. Then ask the check question.",
-     "say": "So, did the water undo the green?",
-     "kid": "Did the water undo the green?",
+     "say": "Here is the green from before, and here is the green with lots of water. Look at them side by side.",
+     "kid": "Point to the paler glass.",
      "check": {
       "t": "mcq",
       "q": "You pour lots of water into green water. What colour does it turn?",
@@ -570,7 +570,7 @@
    "title": "Colour Hunt: one thing of every colour",
    "mins": 10,
    "days": 1,
-   "context": "This is a short noticing activity, before anyone explains anything. You hunt around your home for one thing of every colour and put them in heaps.",
+   "context": "You will find out how many colours are around your home, far more than the three paints in a paint box. You hunt for one thing of every colour and put each one by its coloured slip.",
    "materials": [
     {
      "item": "8 small paper slips and crayons",
@@ -588,7 +588,7 @@
      "what": "Find one thing of each colour and put it by its slip."
     }
    ],
-   "record": "Draw your green thing. Beside it, colour the two paints that could mix to make that green.",
+   "record": "Take a photo of your green thing. Then say which two paints could mix to make that green, or paint a small patch of each.",
    "setup": [
     {
      "art": "Eight crayon-coloured paper slips laid in a row on a white bedsheet: red, orange, yellow, green, blue, purple, brown and black.",
@@ -611,8 +611,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Your child hunts around the home and places each thing by its slip.",
-     "say": "Can you find something purple? Now something orange. Which colour is the hardest to find?",
-     "kid": "Find something purple. Now orange. Which is the hardest to find?",
+     "say": "Can you find something purple? Now something orange.",
+     "kid": "Find something purple. Now find something orange.",
      "ask": [
       {
        "q": "Which colour was hardest to find? Why do you think so?",
@@ -627,9 +627,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Look at the heaps together. Some of these colours can be mixed from paints, and some are the paints you start with. Then ask the check question.",
-     "say": "Look at your green thing. Which two paints could we mix to make that green?",
-     "kid": "Look at your green thing. Which two paints could we mix to make that green?",
+     "do": "Look at the things by their slips together. Pick out the green thing. Then ask the check question.",
+     "say": "Look at your green thing. We have no green paint in our box of three, so we would have to mix it.",
+     "kid": "Hold up your green thing and look closely at its green.",
      "check": {
       "t": "mcq",
       "q": "Which two paints could we mix to make the green of a curry leaf?",
@@ -649,7 +649,7 @@
    "title": "Kitchen Paints: colours from turmeric and beetroot",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make paint from things in the kitchen, the way people made colours long ago. Then you mix them.",
+   "context": "In this activity you make paint from things in the kitchen, the way people made colours long ago. You will find out what colour turmeric yellow and beetroot pink make together.",
    "materials": [
     {
      "item": "half a teaspoon of turmeric powder",
@@ -680,7 +680,7 @@
      "what": "Make yellow and pink paint, paint with them, then mix them."
     }
    ],
-   "record": "Paint a flower with your kitchen paints, and the colour you got when you mixed them.",
+   "record": "Paint a flower, or any shape you like, with your kitchen paints. Then paint a patch of the colour you got when you mixed them.",
    "setup": [
     {
      "art": "Two small steel bowls, one with bright yellow turmeric water and one with deep pink beetroot juice, beside a slice of beetroot.",
@@ -721,8 +721,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Talk about the colours, and ask the check question.",
-     "say": "These colours came from plants. Turmeric and beetroot come from plants that grow in the ground. What other plant colours do you know?",
-     "kid": "These colours came from plants. What other plant colours do you know?",
+     "say": "Turmeric and beetroot both grow in the ground. Let's look for other colours that come from plants.",
+     "kid": "Find a colour that comes from a plant, and point to the colour.",
      "check": {
       "t": "mcq",
       "q": "Where did our yellow paint come from?",
@@ -742,7 +742,7 @@
    "title": "Colour at the Window: flowers, leaves and birds",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look closely at the colours of living beings: a potted plant, and a pigeon or crow at the window. You ask why they have those colours.",
+   "context": "In this activity you look closely at the colours of living beings: a potted plant, and a pigeon or crow at the window. You will find out why flowers are so brightly coloured, and watch a pigeon's neck change colour.",
    "materials": [
     {
      "item": "a potted plant, or flowers and leaves from the kitchen, such as curry leaves or a marigold",
@@ -760,7 +760,7 @@
      "what": "Look at a plant up close, then watch for a bird at the window."
     }
    ],
-   "record": "Draw a bird or a flower you saw, and colour the drawing in.",
+   "record": "Tell your grown-up the colours you saw on a flower and on a bird. Or draw them and colour them in.",
    "setup": [
     {
      "art": "A child kneeling by a potted hibiscus on a balcony, looking closely at a red flower and its green leaves.",
@@ -776,8 +776,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Look at the plant together. Count how many greens you can see on the leaves.",
-     "say": "How many different greens can you see on this plant? Why do you think a flower is so bright?",
-     "kid": "How many greens can you see? Why is the flower so bright?",
+     "say": "How many different greens can you see on this plant?",
+     "kid": "Point to each different green and count them.",
      "ask": [
       {
        "q": "Why do you think the flower is so bright?",
@@ -802,8 +802,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "Why do many flowers have bright colours?",
-     "kid": "Why are many flowers so bright?",
+     "say": "Think about the flower we looked at.",
+     "kid": "Look at the flower again. Who might come to visit it?",
      "check": {
       "t": "mcq",
       "q": "Why do many flowers have bright colours?",
@@ -825,7 +825,7 @@
    "title": "Colour Sums: say what they make",
    "mins": 10,
    "players": "2 or more players. A grown-up reads the cards.",
-   "context": "This is a card game about mixing. Each card shows two colours. You say what colour they make, then turn the card over to check.",
+   "context": "This is a card game about mixing. Each card shows two colours. You say what colour they make, then turn the card over to check. The player who knows the most mixes wins.",
    "printables": [
     {
      "kind": "cards",
@@ -875,7 +875,7 @@
     }
    ],
    "rules": [
-    "Before you play, colour a small blob of each colour next to its word on the front of each card, so everyone can read the cards.",
+    "Before you play, you can colour a small blob next to each colour word on the front of the cards. The words are already there, so this is just for fun.",
     "Put the cards in a pile, colour sum side up.",
     "On your turn, look at the top card and say what colour the two make.",
     "Turn the card over to check. If you were right, keep the card.",
@@ -885,7 +885,7 @@
    "setup": [
     {
      "art": "A card with a yellow crayon blob, a plus sign and a blue crayon blob, and its back showing a green blob and the word Green.",
-     "caption": "1. Colour the blobs on each card."
+     "caption": "1. If you like, colour the blobs on each card."
     },
     {
      "art": "A mother holding up a card while a girl says 'Orange!' and points at an orange crayon.",
@@ -896,7 +896,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Colour the blobs on the cards together. 2. Put them in a pile.",
+     "do": "1. If you like, colour a blob by each colour word on the cards together. 2. Put the cards in a pile.",
      "say": "Each card shows two colours. You say what they make together. Then we turn it over to check.",
      "kid": "Look at the two colours. Say what they make."
     },
@@ -904,8 +904,8 @@
      "id": "s2",
      "mins": 6,
      "do": "Take turns with the cards.",
-     "say": "Red and yellow. What do they make? Let's turn it over. Were you right?",
-     "kid": "Say what they make. Turn it over. Were you right?",
+     "say": "Take the top card and read it out. For example, red and yellow.",
+     "kid": "Say what you think they make. Then turn the card over.",
      "ask": [
       {
        "q": "How did you know?",
@@ -921,8 +921,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "Look at the card with lots of yellow and a little blue. Will the green be light or dark? Why?",
-     "kid": "Mix lots of yellow with a little blue. Is the green light or dark?",
+     "say": "Find the card with lots of yellow and a little blue.",
+     "kid": "Imagine a big blob of yellow and a tiny drop of blue. Is the mix nearer to yellow or to blue?",
      "check": {
       "t": "mcq",
       "q": "A card says \"Lots of yellow + a little blue\". What does it make?",
@@ -1004,7 +1004,7 @@
      "mins": 2,
      "do": "Your child is the caller, and you run.",
      "say": "Now you call a colour, and I will run.",
-     "kid": "Now you call a colour. A grown-up runs.",
+     "kid": "Call green, orange or purple. Check that the grown-up holds up the right two cards.",
      "check": {
       "t": "mcq",
       "q": "The caller says 'Purple!' Which two cards do you hold up?",
@@ -1026,7 +1026,7 @@
    "title": "My Colour Book: one mixed colour a day",
    "mins": 24,
    "days": 3,
-   "context": "In this project you make a small book. Each day you mix one new colour, paint it on a page, and find things at home that have that colour.",
+   "context": "In this project you make a small book. Each day you mix one new colour, paint it on a page, and find things at home that have that colour. At the end you have a book of your own mixes to show someone.",
    "materials": [
     {
      "item": "3 sheets of paper, folded in half and tied with thread into a little book",
@@ -1037,7 +1037,7 @@
      "qty": 1
     },
     {
-     "item": "crayons",
+     "item": "crayons, and tape or glue",
      "qty": 1
     }
    ],
@@ -1066,32 +1066,32 @@
     },
     {
      "art": "An open page with a painted red blob plus a yellow blob equals an orange blob, and crayon drawings of a carrot and a marigold below.",
-     "caption": "2. Each day, paint one colour sum and draw things of that colour."
+     "caption": "2. Each day, paint one colour sum and add things of that colour."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Make the book. 2. Your child mixes red and yellow and paints the colour sum on the first page. 3. They draw two orange things from home.",
-     "say": "Today's colour is orange. Mix red and yellow, and paint the sum. Then find two orange things at home and draw them.",
-     "kid": "Mix red and yellow. Paint the sum. Draw two orange things.",
+     "do": "1. Make the book. 2. Your child mixes red and yellow and paints the colour sum on the first page. 3. They find two orange things at home and write their names under the sum. You can help with spelling. They may draw them instead.",
+     "say": "Today's colour is orange. Mix red and yellow, and paint the sum. Then find two orange things at home and write their names under it.",
+     "kid": "Mix red and yellow. Paint the sum. Find two orange things and write their names.",
      "wait": "The next day."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child mixes yellow and blue for the green page, and draws two green things.",
-     "say": "Today's colour is green. Mix it, paint the sum, and draw two green things you can find.",
-     "kid": "Mix green. Paint the sum. Draw two green things.",
+     "do": "Your child mixes yellow and blue for the green page. Then they stick on two small green things, like a leaf or a scrap of green cloth.",
+     "say": "Today's colour is green. Mix it, paint the sum, and tape two small green things on the page.",
+     "kid": "Mix green. Paint the sum. Tape on two green things.",
      "wait": "The next day."
     },
     {
      "id": "s3",
      "mins": 8,
-     "do": "Your child mixes red and blue for the purple page, and draws two purple things. Then read the whole book together.",
-     "say": "Today's colour is purple. Mix it and paint the sum. Which two paints did you mix for purple?",
-     "kid": "Mix purple. Paint the sum. Which two paints made purple?",
+     "do": "Your child mixes red and blue for the purple page, and tells you two purple things. You write their names under the sum. Then read the whole book together.",
+     "say": "Today's colour is purple. Mix it and paint the sum. Then tell me two purple things.",
+     "kid": "Mix purple. Paint the sum. Name two purple things.",
      "check": {
       "t": "mcq",
       "q": "Which two paints did you mix for the purple page?",
@@ -1152,7 +1152,7 @@
      "mins": 3,
      "do": "Read the problem to your child, and put the leaf on the paper.",
      "say": "We have no green paint. How can we make a green that looks like this leaf?",
-     "kid": "We have no green. How can we make one like this leaf?",
+     "kid": "Look closely at the leaf. Is its green light or dark?",
      "ask": [
       {
        "q": "How can we make green?",
@@ -1168,7 +1168,7 @@
      "mins": 9,
      "do": "Your child mixes greens and paints patches beside the leaf.",
      "say": "Mix a green and paint a patch next to the leaf. Is it too light or too dark? What could you add?",
-     "kid": "Paint a patch next to the leaf. Too light or too dark?",
+     "kid": "Mix a green. Paint a patch next to the leaf.",
      "parent": "Most leaves are a duller green than yellow and blue make. A very small touch of red helps. Let your child find this by trying."
     },
     {
@@ -1176,7 +1176,7 @@
      "mins": 3,
      "do": "Your child picks the best patch and says why.",
      "say": "Which green matches best? What did you add to make it match?",
-     "kid": "Which green matches best? What did you add?",
+     "kid": "Hold your patches next to the leaf. Point to the best match.",
      "check": {
       "t": "mcq",
       "q": "Your green is too light. What could you add?",

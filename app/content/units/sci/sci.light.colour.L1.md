@@ -164,22 +164,22 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 
 ## Games
 ### g1 · Colour Sums: say what they make (10 min)
-- **rules:** Before you play, colour a small blob of each colour next to its word on the front of each card, so everyone can read the cards.; Put the cards in a pile, colour sum side up.; On your turn, look at the top card and say what colour the two make.; Turn the card over to check. If you were right, keep the card.; If you were wrong, say what the two colours make together and put the card aside. Nobody keeps it.; When the pile is empty, the player with the most cards wins. If you have the same number, play again.
+- **rules:** Before you play, you can colour a small blob next to each colour word on the front of the cards. The words are already there, so this is just for fun.; Put the cards in a pile, colour sum side up.; On your turn, look at the top card and say what colour the two make.; Turn the card over to check. If you were right, keep the card.; If you were wrong, say what the two colours make together and put the card aside. Nobody keeps it.; When the pile is empty, the player with the most cards wins. If you have the same number, play again.
 - **Printable cards: 10 colour sum cards:** Yellow + Blue (back: Green); Red + Yellow (back: Orange); Red + Blue (back: Purple); Red + Yellow + Blue (back: Dark brown); Blue + Green (back: Blue-green, like the sea); Red + Green (back: Brown); Orange + Blue (back: Dull brown); Lots of yellow + a little blue (back: Light green); Lots of blue + a little yellow (back: Dark green); Green + lots of water (back: Pale green)
 - **s1 (2 min)**  
-  *Parent does:* 1. Colour the blobs on the cards together. 2. Put them in a pile.  
+  *Parent does:* 1. If you like, colour a blob by each colour word on the cards together. 2. Put the cards in a pile.  
   *Parent says:* Each card shows two colours. You say what they make together. Then we turn it over to check.  
   *Child mode:* Look at the two colours. Say what they make.
 - **s2 (6 min)**  
   *Parent does:* Take turns with the cards.  
-  *Parent says:* Red and yellow. What do they make? Let's turn it over. Were you right?  
-  *Child mode:* Say what they make. Turn it over. Were you right?
+  *Parent says:* Take the top card and read it out. For example, red and yellow.  
+  *Child mode:* Say what you think they make. Then turn the card over.
   - Ask: How did you know? (good: We mixed it in the Colour Mixing Test.; Red and yellow made orange on the plate.)
   - Note: If your child is unsure, let them mix the two paints to find out. The paint is the real answer.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Look at the card with lots of yellow and a little blue. Will the green be light or dark? Why?  
-  *Child mode:* Mix lots of yellow with a little blue. Is the green light or dark?
+  *Parent says:* Find the card with lots of yellow and a little blue.  
+  *Child mode:* Imagine a big blob of yellow and a tiny drop of blue. Is the mix nearer to yellow or to blue?
   - Check: A card says "Lots of yellow + a little blue". What does it make? → **Light green**
 ### g2 · Mix and Run: hold up the colours, then find one (10 min)
 - **rules:** Print the page once for every two players. Each player takes three cards and colours them: one red, one yellow and one blue.; The caller says a mixed colour: green, orange or purple.; Each player holds up the two cards that make that colour.; Then everyone runs to touch something in the home of that colour. If you cannot find one, name something you know that has that colour.; Say what you touched. Then the caller says a new colour.; Take turns being the caller. Stop when everyone has called once.
@@ -196,7 +196,7 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 - **s3 (2 min)**  
   *Parent does:* Your child is the caller, and you run.  
   *Parent says:* Now you call a colour, and I will run.  
-  *Child mode:* Now you call a colour. A grown-up runs.
+  *Child mode:* Call green, orange or purple. Check that the grown-up holds up the right two cards.
   - Check: The caller says 'Purple!' Which two cards do you hold up? → **Red and blue**
 
 ## Experiments
@@ -205,18 +205,18 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 - **predict:** Before each mix, guess the new colour. Why do you think so?
 - **fair test:** Use the same small blob of each paint, about the size of a green pea, for every mix. Wash the brush in water between mixes, so no old colour sneaks in.
 - **safety:** Paint is not food. Keep it away from mouths, and wash hands after.
-- **record:** Paint your colour sums on the paper: a yellow blob, a plus sign, a blue blob, an equals sign, and the green you made. Do the same for every mix.
+- **record:** Paint your colour sums on the paper: a yellow blob, a plus sign, a blue blob, an equals sign, and the green you made. Do the same for every mix. If you would rather not, paint just the new colours and say the sums to your grown-up.
 - **results table:** Paint 1 | Paint 2 | My guess | What we got
 - **s1 (3 min)**  
   *Parent does:* 1. Cover the table with newspaper. 2. Put a pea-sized blob of red, yellow and blue paint on the plate, far apart. 3. Put the water and cloth nearby.  
-  *Parent says:* Here are three paints: red, yellow and blue. Today we will mix them, two at a time. What do you think yellow and blue will make? Why do you think so?  
-  *Child mode:* Look at the three paints. Red, yellow and blue. What will yellow and blue make? Why?
+  *Parent says:* Here are three paints: red, yellow and blue. Today we will mix them, two at a time. First, yellow and blue.  
+  *Child mode:* Look at the three paints and say their names.
   - Ask: What do you think yellow and blue will make? Why? (good: Green, because leaves are green.; Blue, because blue is stronger.; I don't know. Let's try.)
   - Note: Any guess is fine. Don't say what will happen. Write the guess in the table.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child takes a little yellow on the brush and puts it in the middle of the plate. 2. They wash the brush and add a little blue. 3. They stir. 4. They paint a patch of the new colour on the paper.  
-  *Parent says:* Take a little yellow. Now wash your brush and take a little blue. Stir them together. What colour is coming?  
-  *Child mode:* Take yellow. Wash the brush. Take blue. Stir. What colour do you see?
+  *Parent says:* Take a little yellow. Now wash your brush and take a little blue. Stir them together.  
+  *Child mode:* Take yellow. Wash the brush. Take blue. Stir them together.
   - Ask: What colour did you make? (good: Green!; Green, but neither pot was green.)
   - Note: Children are often surprised. Let them enjoy it before you ask where the green came from.
 - **s3 (5 min)**  
@@ -227,21 +227,21 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
   - Note: Poster red often has a little yellow in it, so red and blue can come out a dull, brownish purple. A pink red gives a brighter purple. Both are real results.
 - **s4 (4 min)**  
   *Parent does:* 1. Ask your child to guess what all three paints will make together, and why. 2. They mix a little red, yellow and blue in one spot. 3. They paint it on the paper.  
-  *Parent says:* What will all three make together? Why do you think so? Let's mix them. Is the new colour brighter or darker than the yellow?  
-  *Child mode:* Guess first. Then mix all three. Is it bright or dark?
+  *Parent says:* What will all three make together? Why do you think so? Let's mix them and see.  
+  *Child mode:* Guess first. Then mix all three. Is it brighter or darker than the yellow?
   - Ask: What did all three paints make? (good: Dark brown.; A muddy colour, darker than all of them.)
   - Note: Many children expect a rainbow or a bright colour. A dark brown is the right result. Don't explain why yet. The explanation card comes after.
 - **s5 (4 min)**  
   *Parent does:* 1. Your child takes some green from the plate and adds more and more yellow. 2. Look at the colour after each brushful.  
-  *Parent says:* Can we get the yellow back out of the green? Add more yellow. Is it yellow again?  
-  *Child mode:* Add more yellow to the green. Is it yellow again?
+  *Parent says:* Can we get the yellow back out of the green? Let's try.  
+  *Child mode:* Add a little more yellow to the green, then look. Add more, then look again.
   - Note: The green turns yellowish green, but never plain yellow. Now ask your child: can a mixed colour be unmixed? What did you see that shows it?
   - Check: You mix yellow and blue paint. Then you add lots more yellow. What do you get? → **A yellowish green**
 ### e2 · Drop by Drop: can water undo green? (15 min)
 - **question:** Each drop of blue makes the green darker. Can adding water turn the green back into yellow?
 - **predict:** Guess first. Will lots of water make the green yellow again? Why do you think so?
 - **fair test:** Stir the same number of times after every drop. Look at the glass against the same white paper each time.
-- **record:** Draw the glass after 1 drop, 3 drops and 6 drops of blue. Colour each drawing.
+- **record:** Take a photo of the glass after 1 drop, 3 drops and 6 drops of blue. Or draw and colour each glass.
 - **results table:** Drops of blue | What colour is the water?
 - **s1 (3 min)**  
   *Parent does:* 1. Half fill a glass with water. 2. Add yellow food colour, a drop or two, and stir. 3. Stand the glass in front of the white paper.  
@@ -250,42 +250,42 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
   - Note: If you use poster paint, dip the brush tip in blue and swirl it in the water. One swirl counts as one drop.
 - **s2 (5 min)**  
   *Parent does:* 1. Your child adds one drop of blue food colour and stirs. 2. They add more drops one at a time, counting out loud, up to six. 3. Look at the colour after each drop.  
-  *Parent says:* Add one drop. Stir. What colour now? Add another drop. Is the green lighter or darker?  
+  *Parent says:* Add one drop and stir. What colour is it now? Then add another drop.  
   *Child mode:* Add one drop. Stir. Count. Is it lighter or darker now?
   - Ask: What happens as you add more blue? (good: It gets darker green.; It went from light green to dark green.)
 - **s3 (4 min)**  
   *Parent does:* 1. Pour half the green water into the empty glass. 2. Ask your child to guess whether water will turn the green back into yellow. 3. They fill that glass to the top with plain water from the jug and stir. 4. Stand it beside the first glass to compare.  
   *Parent says:* Can water turn the green back into yellow? What do you think, and why? Let's pour in lots of water.  
-  *Child mode:* Pour in lots of water. Is it yellow again?
+  *Child mode:* Pour in lots of water and stir. Look at the colour.
   - Ask: What colour is it now? (good: Pale green.; Lighter, but still green, not yellow.)
   - Note: Water spreads the colours out, so the green gets paler. But the yellow and blue are both still there, so it stays green.
 - **s4 (3 min)**  
   *Parent does:* Stand the two glasses side by side and look at them together. Then ask the check question.  
-  *Parent says:* So, did the water undo the green?  
-  *Child mode:* Did the water undo the green?
+  *Parent says:* Here is the green from before, and here is the green with lots of water. Look at them side by side.  
+  *Child mode:* Point to the paler glass.
   - Check: You pour lots of water into green water. What colour does it turn? → **Pale green**
 
 ## Activities
 ### a1 · Colour Hunt: one thing of every colour (10 min)
-- **record:** Draw your green thing. Beside it, colour the two paints that could mix to make that green.
+- **record:** Take a photo of your green thing. Then say which two paints could mix to make that green, or paint a small patch of each.
 - **s1 (3 min)**  
   *Parent does:* 1. Colour the eight paper slips with crayons: red, orange, yellow, green, blue, purple, brown and black. 2. Lay them in a row on the sheet.  
   *Parent says:* We are going on a colour hunt. Find one thing for each colour, and put it by its slip.  
   *Child mode:* Find one thing for each colour. Put it by its slip.
 - **s2 (5 min)**  
   *Parent does:* Your child hunts around the home and places each thing by its slip.  
-  *Parent says:* Can you find something purple? Now something orange. Which colour is the hardest to find?  
-  *Child mode:* Find something purple. Now orange. Which is the hardest to find?
+  *Parent says:* Can you find something purple? Now something orange.  
+  *Child mode:* Find something purple. Now find something orange.
   - Ask: Which colour was hardest to find? Why do you think so? (good: Purple, because there isn't much purple at home.; Blue was easy, because the bucket is blue.)
   - Note: Good finds: a tomato, a carrot or marigold, a lemon or turmeric, a curry leaf, a bucket, a brinjal or jamun, a wooden spoon, a pot or hair band. Purple is often hardest. The point of this hunt is to notice how many colours there are around us, far more than the three pots in a paint box. In the next step, we ask how some of them could be mixed.
 - **s3 (2 min)**  
-  *Parent does:* Look at the heaps together. Some of these colours can be mixed from paints, and some are the paints you start with. Then ask the check question.  
-  *Parent says:* Look at your green thing. Which two paints could we mix to make that green?  
-  *Child mode:* Look at your green thing. Which two paints could we mix to make that green?
+  *Parent does:* Look at the things by their slips together. Pick out the green thing. Then ask the check question.  
+  *Parent says:* Look at your green thing. We have no green paint in our box of three, so we would have to mix it.  
+  *Child mode:* Hold up your green thing and look closely at its green.
   - Check: Which two paints could we mix to make the green of a curry leaf? → **Yellow and blue**
 ### a2 · Kitchen Paints: colours from turmeric and beetroot (15 min)
 - **safety:** A grown-up cuts the beetroot.
-- **record:** Paint a flower with your kitchen paints, and the colour you got when you mixed them.
+- **record:** Paint a flower, or any shape you like, with your kitchen paints. Then paint a patch of the colour you got when you mixed them.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Stir the turmeric into 2 spoons of water in one bowl. 2. Cut the beetroot and squeeze or press the slice into a spoon of water in the other bowl.  
   *Parent says:* Long ago, people made paints from plants. Let's make yellow from turmeric and pink from beetroot.  
@@ -298,15 +298,15 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
   - Ask: What did yellow and pink make? (good: Orange.; A reddish orange, like a marigold.)
 - **s3 (4 min)**  
   *Parent does:* Talk about the colours, and ask the check question.  
-  *Parent says:* These colours came from plants. Turmeric and beetroot come from plants that grow in the ground. What other plant colours do you know?  
-  *Child mode:* These colours came from plants. What other plant colours do you know?
+  *Parent says:* Turmeric and beetroot both grow in the ground. Let's look for other colours that come from plants.  
+  *Child mode:* Find a colour that comes from a plant, and point to the colour.
   - Check: Where did our yellow paint come from? → **Turmeric, from a plant**
 ### a3 · Colour at the Window: flowers, leaves and birds (10 min)
-- **record:** Draw a bird or a flower you saw, and colour the drawing in.
+- **record:** Tell your grown-up the colours you saw on a flower and on a bird. Or draw them and colour them in.
 - **s1 (4 min)**  
   *Parent does:* Look at the plant together. Count how many greens you can see on the leaves.  
-  *Parent says:* How many different greens can you see on this plant? Why do you think a flower is so bright?  
-  *Child mode:* How many greens can you see? Why is the flower so bright?
+  *Parent says:* How many different greens can you see on this plant?  
+  *Child mode:* Point to each different green and count them.
   - Ask: Why do you think the flower is so bright? (good: So bees can find them.; To look pretty.; To call butterflies.)
   - Note: Leaves have many greens, from pale yellow-green new leaves to dark green old ones. A painter gets all of those greens by changing how much yellow and how much blue to mix. Flowers use bright colours to call bees and butterflies to their nectar. Bees see a kind of light called ultraviolet, which we cannot see, so a flower may look different to a bee.
 - **s2 (4 min)**  
@@ -316,8 +316,8 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
   - Note: A pigeon's neck shines green and purple, and the colours change as they move. Tiny layers in the feathers make these colours, not pigment. Pigment is the coloured material in paint. Pigeons come to most city windows.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Why do many flowers have bright colours?  
-  *Child mode:* Why are many flowers so bright?
+  *Parent says:* Think about the flower we looked at.  
+  *Child mode:* Look at the flower again. Who might come to visit it?
   - Check: Why do many flowers have bright colours? → **To call bees and butterflies**
 
 ## Projects
@@ -325,19 +325,19 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 - **record:** The finished book, with a colour sum and things of that colour on every page.
 - **schedule:** day 1: Make the book. Mix orange and fill the orange page. (8 min); day 2: Mix green and fill the green page. (8 min); day 3: Mix purple and fill the purple page. (8 min)
 - **s1 (8 min)**  
-  *Parent does:* 1. Make the book. 2. Your child mixes red and yellow and paints the colour sum on the first page. 3. They draw two orange things from home.  
-  *Parent says:* Today's colour is orange. Mix red and yellow, and paint the sum. Then find two orange things at home and draw them.  
-  *Child mode:* Mix red and yellow. Paint the sum. Draw two orange things.
+  *Parent does:* 1. Make the book. 2. Your child mixes red and yellow and paints the colour sum on the first page. 3. They find two orange things at home and write their names under the sum. You can help with spelling. They may draw them instead.  
+  *Parent says:* Today's colour is orange. Mix red and yellow, and paint the sum. Then find two orange things at home and write their names under it.  
+  *Child mode:* Mix red and yellow. Paint the sum. Find two orange things and write their names.
   - Wait: The next day.
 - **s2 (8 min)**  
-  *Parent does:* Your child mixes yellow and blue for the green page, and draws two green things.  
-  *Parent says:* Today's colour is green. Mix it, paint the sum, and draw two green things you can find.  
-  *Child mode:* Mix green. Paint the sum. Draw two green things.
+  *Parent does:* Your child mixes yellow and blue for the green page. Then they stick on two small green things, like a leaf or a scrap of green cloth.  
+  *Parent says:* Today's colour is green. Mix it, paint the sum, and tape two small green things on the page.  
+  *Child mode:* Mix green. Paint the sum. Tape on two green things.
   - Wait: The next day.
 - **s3 (8 min)**  
-  *Parent does:* Your child mixes red and blue for the purple page, and draws two purple things. Then read the whole book together.  
-  *Parent says:* Today's colour is purple. Mix it and paint the sum. Which two paints did you mix for purple?  
-  *Child mode:* Mix purple. Paint the sum. Which two paints made purple?
+  *Parent does:* Your child mixes red and blue for the purple page, and tells you two purple things. You write their names under the sum. Then read the whole book together.  
+  *Parent says:* Today's colour is purple. Mix it and paint the sum. Then tell me two purple things.  
+  *Child mode:* Mix purple. Paint the sum. Name two purple things.
   - Check: Which two paints did you mix for the purple page? → **Red and blue**
 
 ## Challenges
@@ -350,17 +350,17 @@ Lakshmi looked at the parrot, and then at her painted parrots. "So she is yellow
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child, and put the leaf on the paper.  
   *Parent says:* We have no green paint. How can we make a green that looks like this leaf?  
-  *Child mode:* We have no green. How can we make one like this leaf?
+  *Child mode:* Look closely at the leaf. Is its green light or dark?
   - Ask: How can we make green? (good: Mix yellow and blue.; Like in the Colour Mixing Test.)
 - **s2 (9 min)**  
   *Parent does:* Your child mixes greens and paints patches beside the leaf.  
   *Parent says:* Mix a green and paint a patch next to the leaf. Is it too light or too dark? What could you add?  
-  *Child mode:* Paint a patch next to the leaf. Too light or too dark?
+  *Child mode:* Mix a green. Paint a patch next to the leaf.
   - Note: Most leaves are a duller green than yellow and blue make. A very small touch of red helps. Let your child find this by trying.
 - **s3 (3 min)**  
   *Parent does:* Your child picks the best patch and says why.  
   *Parent says:* Which green matches best? What did you add to make it match?  
-  *Child mode:* Which green matches best? What did you add?
+  *Child mode:* Hold your patches next to the leaf. Point to the best match.
   - Check: Your green is too light. What could you add? → **A little more blue**
 
 ## Worksheets
