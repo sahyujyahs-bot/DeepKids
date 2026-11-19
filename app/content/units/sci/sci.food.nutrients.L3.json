@@ -490,7 +490,7 @@
     }
    ],
    "rules": [
-    "Draw the five-box mat. Shuffle the food cards and put them face down.",
+    "Lay out the five box names. Shuffle the food cards and put them face down.",
     "On your turn, take a card and put it in the box where it usually goes. That scores 1 point.",
     "If you think the food also belongs in a second box, say which, and give a reason. For example: 'Peanuts go in protein, but they are also more than a third fat.'",
     "The other player checks the answer card. A true reason scores 2 more points. Lay the card across the two boxes. A wrong reason scores nothing, and the card stays in its usual box.",
@@ -502,9 +502,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw the five-box mat. 2. Cut out the 20 food cards. 3. Shuffle them face down.",
+     "do": "1. Write the five box names on five paper slips and lay them in a row. 2. Cut out the 20 food cards. 3. Shuffle them face down.",
      "say": "Every food has a usual box. But many foods carry more than one nutrient. Today you score extra for finding a second box.",
-     "kid": "Put the food cards face down. Each food has a usual box. Can you find a second box too?",
+     "kid": "Put the food cards face down. Take turns to pick one.",
      "context": "This is the first step of Two-Box Foods. It is a card game where you sort foods into food groups and score extra for foods that fit two groups."
     },
     {
@@ -618,7 +618,7 @@
      "mins": 2,
      "do": "1. Cut out the cards. 2. Lay the spoon cards face up. 3. Read out the colour key: blue water, yellow carbohydrate, red protein, orange fat, green fibre.",
      "say": "Each spoon card shows what a food is made of. Imagine splitting the food into its parts and pouring them into 10 spoons. Each colour of spoon stands for one part. Your job is to match each food to its card. These are new foods, not the ones from Ten-Spoon Foods.",
-     "kid": "Each card shows what a food is made of, as 10 spoons. Blue is water. Yellow is carbohydrate. Red is protein. Orange is fat. Match the foods.",
+     "kid": "Each card shows 10 spoons. Blue is water. Yellow is carbohydrate. Red is protein. Orange is fat. Green is fibre.",
      "context": "This is the first step of Ten-Spoon Match. It is a matching game where you work out which food has which mix of nutrients."
     },
     {
@@ -644,7 +644,7 @@
      "mins": 3,
      "do": "Check with the answer card. Talk about the hardest match.",
      "say": "Which match was hardest? Why?",
-     "kid": "Check your answers. Which one was hardest?",
+     "kid": "Check your answers on the answer card.",
      "parent": "Watermelon, plain curd and banana are all mostly water, so they are often mixed up. Look at what the last spoons are. Raw rice and ragi flour are close too: both are mostly carbohydrate."
     }
    ],
@@ -1322,14 +1322,14 @@
      "what": "Guess which liquids will curdle milk. Add each liquid to hot milk, wait 3 minutes and look. Strain the lemon tumbler into curds and whey. Keep 2 spoons of whey for the Hidden Minerals test."
     }
    ],
-   "record": "Fill in the table. Draw the lemon tumbler after 3 minutes and label the curds and the whey. Then write: what I think, what I saw, and why.",
+   "record": "Fill in the table. Take a photo of the lemon tumbler after 3 minutes, or draw it and label the curds and the whey. Then write: what I think, what I saw, and why.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Put the six tumblers in a row. 2. Put a paper label in front of each: lemon, vinegar, tamarind, salt, sugar, water. 3. Put 1 tablespoon of each liquid in a small cup beside its label.",
-     "say": "Milk looks like one smooth white liquid. Today we find out if it is really one thing. Look at these six liquids. Which ones do you think will make milk split into lumps? Why?",
-     "kid": "Put six tumblers in a row. Label them: lemon, vinegar, tamarind, salt, sugar, water. Which ones will make milk go lumpy? Guess. Say why.",
+     "say": "Milk looks like one smooth white liquid. Today we find out if it is really one thing. Look at these six liquids. Which ones do you think will make milk split into lumps?",
+     "kid": "Look at the six liquids by their tumblers. Guess which ones will make milk go lumpy.",
      "ask": [
       {
        "q": "Why did you guess that one?",
@@ -1366,7 +1366,7 @@
      "mins": 5,
      "do": "1. After 3 minutes, a grown-up checks that the tumblers have cooled enough to pick up. 2. Tilt each tumbler gently towards the light. 3. Look for white lumps, and for a thin, clear liquid around them. 4. Fill in the table.",
      "say": "Tilt each tumbler and look closely. Do you see lumps? What colour is the liquid around them?",
-     "kid": "Tilt each tumbler gently. Do you see white lumps? Is the milk still smooth? Write what you see.",
+     "kid": "Tilt each tumbler gently. Do you see white lumps? Is the milk still smooth? Tell your grown-up what you see.",
      "check": {
       "t": "mcq",
       "q": "Lemon juice and vinegar made the milk split into lumps. Salt water, sugar water and plain water did not. What do lemon juice and vinegar have in common?",
@@ -1385,7 +1385,7 @@
      "mins": 6,
      "do": "1. Lay the cotton cloth over the strainer and hold it over a clear glass. 2. Pour the lemon tumbler through it. 3. Gather the cloth and gently squeeze. 4. Compare how much is in the cloth and how much is in the glass.",
      "say": "Let's separate the two parts. The cloth will catch the lumps. Which part do you think will be bigger?",
-     "kid": "Pour the lumpy milk through the cloth. The lumps stay. The liquid runs into the glass. Which part is bigger?",
+     "kid": "Pour the lumpy milk through the cloth. The lumps stay in the cloth. The liquid runs into the glass.",
      "parent": "The white lumps are called curds. They hold most of the milk's protein and fat, with some water still inside. Pressed together, they are paneer. The pale liquid is whey. It is mostly water, with milk sugar, minerals and some vitamins. There will be much more whey than curd. Keep 2 spoons of whey in a small covered cup in the fridge for the Hidden Minerals test.",
      "ask": [
       {
@@ -1535,15 +1535,15 @@
      "what": "Draw round each slice again, on top of the first outline. Weigh them again. Put them in order from most shrunk to least."
     }
    ],
-   "record": "Draw each slice's outline on day 1 and again on day 3, one inside the other. If you weighed them, write both weights and how much each slice lost.",
+   "record": "Take a photo of the slices on their outlines on day 3, or draw each slice's new outline inside its old one. If you weighed them, write both weights and how much each slice lost.",
    "flow": [
     {
      "id": "s1",
      "mins": 8,
      "adult": true,
      "do": "1. Cut one slice from each vegetable, about half a centimetre thick. 2. Tear a piece of chapati about the same size. 3. Lay all five on a sheet of paper and draw round each one with a pencil.",
-     "say": "All five slices start about the same size. Which one do you think will shrink the most when it dries? Why?",
-     "kid": "Draw round each slice on the paper. Which one will shrink the most? Put them in order. Say why.",
+     "say": "All five slices start about the same size. Which one do you think will shrink the most when it dries?",
+     "kid": "Draw round each slice on the paper. Then put the slices in order. Put the one you think will shrink most first.",
      "ask": [
       {
        "q": "Why did you put that one first?",
@@ -1574,9 +1574,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "1. On day 3, lay each slice back on its outline and draw round it again. 2. Weigh them again if you have a scale. 3. Put them in order, from most shrunk to least.",
+     "do": "1. On day 3, lay each slice back on its outline and see how much of the outline it still covers. 2. Weigh them again if you have a scale. 3. Put them in order, from most shrunk to least.",
      "say": "Where did the missing part of each slice go?",
-     "kid": "Put each slice on its first outline. Draw round it again. Which one shrank most? Where did the rest go?",
+     "kid": "Put each slice on its first outline. How much of the outline does it cover now? Which one shrank most?",
      "check": {
       "t": "mcq",
       "q": "The cucumber slice shrank to a thin, wrinkly disc. The chapati hardly changed size. What does this tell us?",
@@ -1697,7 +1697,7 @@
      "what": "Look at each dried spot closely, in good light. Fill in the table. Say what the spots tell you."
     }
    ],
-   "record": "Draw the plate from above, with each spot and its label. Next to each spot, write what was left.",
+   "record": "Take a photo of the plate, or draw it from above with each spot and its label. Next to each spot, write what was left.",
    "flow": [
     {
      "id": "s1",
@@ -1728,7 +1728,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Tilt the plate in good light. 2. Look closely at each spot. 3. Touch the coconut and whey spots with a finger. 4. Fill in the table.",
+     "do": "1. Tilt the plate in good light. 2. Look closely at each spot. 3. Touch the coconut and whey spots with a finger. 4. Write what is left next to each label.",
      "say": "The water has gone into the air. What did each liquid leave behind?",
      "kid": "Tilt the plate to the light. What is left of each spot? Touch the coconut and whey spots. Are they sticky?",
      "check": {
@@ -1839,14 +1839,14 @@
      "what": "Guess what each of five foods is made of, using 10 spoons. Then check against the food card."
     }
    ],
-   "record": "Draw a row of 10 circles for each food. Colour each circle for its nutrient: blue for water, yellow for carbohydrate, red for protein, orange for fat, green for fibre.",
+   "record": "For each food, take a photo of your spoons on the slips. Or draw a row of 10 circles and colour each circle for its nutrient: blue for water, yellow for carbohydrate, red for protein, orange for fat, green for fibre.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "1. Lay the six paper slips in a row. 2. Put the cucumber and the 10 spoons in front of your child.",
      "say": "Imagine we could split this cucumber into everything it is made of. Then imagine we pour all of those parts into 10 spoons. A big part fills many spoons, and a small part fills only one. How many spoons would be water? How many would be carbohydrate, protein or fat? Put the spoons on the slips.",
-     "kid": "Imagine splitting a cucumber into its parts and filling 10 spoons. Put the spoons on the slips. How many are water?",
+     "kid": "Share out your 10 spoons on the slips to show your guess. How many are water?",
      "context": "This is the first step of Ten-Spoon Foods. You guess what five everyday foods are made of, and then find out."
     },
     {
@@ -1860,8 +1860,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Do the same for milk, cooked rice, dry toor dal and peanuts. Guess first each time, then read the card.",
-     "say": "Now the dal. Most charts call dal a protein food. How many of the 10 spoons do you think are protein?",
-     "kid": "Now try milk, rice, dal and peanuts. Guess first. Then hear the answer.",
+     "say": "Now try milk, cooked rice, dry toor dal and peanuts. Guess each one first. Then I will read you the real answer.",
+     "kid": "Move your spoons to show each guess. Then listen to the real answer.",
      "check": {
       "t": "mcq",
       "q": "Out of 10 spoons of dry toor dal, about how many are protein?",
@@ -1880,7 +1880,7 @@
      "mins": 2,
      "do": "Ask the question below and listen to the answer.",
      "say": "We put dal in the protein box and peanuts in the protein box. Now that you know what is inside, is that fair? Why?",
-     "kid": "Is it fair to call dal a protein food? Say why or why not.",
+     "kid": "Think about what is inside dal. Say your answer.",
      "parent": "There is no single right answer. A good answer says that dal gives more protein than most plant foods, but the larger part of dal is carbohydrate. So a food group names only one part of a food."
     }
    ],
@@ -1918,14 +1918,14 @@
      "what": "Breathe on a cold tumbler to see water leaving your body. List all the ways you lose and take in water."
     }
    ],
-   "record": "Draw yourself in the middle of a page. Draw arrows out for the ways water leaves you, and arrows in for the ways water comes in.",
+   "record": "Draw yourself in the middle of a page, with arrows out for the ways water leaves you and arrows in for the ways it comes in. Or say the two lists out loud to a grown-up.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Take the cold tumbler out of the fridge. 2. Ask your child to breathe slowly onto the outside, from close up, three times.",
-     "say": "Breathe slowly onto the cold tumbler, three times. What appears? Where did it come from?",
-     "kid": "Breathe slowly onto the cold tumbler. Three times. What do you see on it?",
+     "say": "Breathe slowly onto the cold tumbler, three times. Look closely at the outside.",
+     "kid": "Breathe onto the cold tumbler. Look at what appears on it.",
      "ask": [
       {
        "q": "What is the mist on the tumbler?",
@@ -1942,7 +1942,7 @@
      "mins": 4,
      "do": "Together, list every way water leaves the body and every way it comes in.",
      "say": "Your breath carries water out. What other ways does water leave your body? And how does it come back in?",
-     "kid": "How else does water leave your body? How does it come back in? Make two lists.",
+     "kid": "Tell your grown-up how water leaves your body. Then tell how it comes back in.",
      "parent": "Water leaves in breath, sweat, urine, tears and spit. It comes in from drinks, and from food like rasam, curd, fruit and vegetables. Your body also makes a little water when it burns food for energy."
     },
     {
@@ -1950,7 +1950,7 @@
      "mins": 3,
      "do": "Ask your child to drink a glass of water slowly, and ask the question below.",
      "say": "Water leaves you all day, even when you sit still. So what must you do all day too?",
-     "kid": "Drink a glass of water. Water leaves you all day. So what must you do?",
+     "kid": "Drink the glass of water slowly.",
      "check": {
       "t": "mcq",
       "q": "Why do you need to drink water every day, even when you are not playing?",
@@ -2011,9 +2011,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Help your child draw and label these parts. Muscles: protein. Bones and teeth: calcium. Blood: iron and water. Eyes: vitamin A. Brain and running legs: carbohydrate for energy. A healing cut: vitamin C and protein.",
-     "say": "Your arm muscles are built from protein. Where does calcium go? What does your blood need? Let's draw them in.",
-     "kid": "Draw your bones, muscles, blood and eyes. Write which nutrient each one needs.",
+     "do": "Help your child write these labels on the right parts of the outline. Muscles: protein. Bones and teeth: calcium. Blood: iron and water. Eyes: vitamin A. Brain and running legs: carbohydrate for energy. A healing cut: vitamin C and protein.",
+     "say": "Your arm muscles are built from protein. Where does calcium go? What does your blood need? Let's write them on.",
+     "kid": "Write the name of your bones, muscles, blood and eyes on the outline. Next to each, write the nutrient it needs.",
      "check": {
       "t": "mcq",
       "q": "Which nutrient makes your bones and teeth hard?",
@@ -2029,13 +2029,13 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Next to each label, your child draws one food that gives that nutrient.",
-     "say": "Next to each label, draw one food from our kitchen that gives it.",
-     "kid": "Next to each label, draw one food that gives it.",
+     "do": "Next to each label, your child puts one real food from the kitchen that gives that nutrient, or writes its name.",
+     "say": "Next to each label, put one food from our kitchen that gives it.",
+     "kid": "Next to each label, put or write one food that gives it.",
      "parent": "Good choices: dal or curd for protein, ragi or milk for calcium, keerai for iron, carrot or mango for vitamin A, rice or idli for carbohydrate, coconut oil or peanuts for fat, amla or guava for vitamin C."
     }
    ],
-   "context": "In this activity you draw a life-size outline of your body and mark which nutrients build and run each part.",
+   "context": "In this activity you trace round your body on paper. You will find out which nutrient builds and runs each part of you.",
    "setup": [
     {
      "art": "A child lying on a big sheet of paper on the floor while a parent draws round them with a crayon.",
@@ -2082,7 +2082,7 @@
      "what": "The evening before, soak the chana. On the day, a grown-up pressure-cooks it. Then make chana sundal together, name every ingredient's main nutrients, and eat it."
     }
    ],
-   "record": "Draw your bowl of sundal. Draw arrows from each ingredient to the nutrients it gives.",
+   "record": "Take a photo of your bowl of sundal, or draw it. Then point to each ingredient and say the nutrients it gives.",
    "flow": [
     {
      "id": "s1",
@@ -2105,7 +2105,7 @@
      "mins": 10,
      "do": "Before eating, go through each ingredient and name its main nutrients together.",
      "say": "Let's name what each ingredient gives us. Chana? Coconut? Oil? Lemon? Salt?",
-     "kid": "Name what each ingredient gives you. Chana. Coconut. Oil. Lemon. Salt.",
+     "kid": "Point to each ingredient in the bowl. Say what it gives you.",
      "check": {
       "t": "mcq",
       "q": "In chana sundal, the chana gives protein, carbohydrate, fibre and iron. What does the squeeze of lemon add?",
@@ -2171,9 +2171,9 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Fill a 500 millilitre bottle with water. 2. Pour it into the tumbler until full. 3. See how much is left in the bottle, and work out what the tumbler holds. 4. Draw a tally chart.",
+     "do": "1. Fill a 500 millilitre bottle with water. 2. Pour it into the tumbler until full. 3. See how much is left in the bottle, and work out what the tumbler holds. 4. Rule a tally chart in the notebook: three columns, one for each day.",
      "say": "First let's find out how much your tumbler holds. Then you can count tumblers and turn them into millilitres.",
-     "kid": "Find out how much your tumbler holds. Then draw a tally chart for three days.",
+     "kid": "Find out how much your tumbler holds. Then set up your tally chart.",
      "parent": "Most steel tumblers hold between 150 and 250 millilitres. Write the number on the chart.",
      "context": "This is the first step of My Water Diary, a 3-day project. You count how much water you take in and watch for signs that you need more."
     },
@@ -2190,7 +2190,7 @@
      "mins": 10,
      "do": "On day 3, add up each day's tumblers and turn them into millilitres. Talk about the differences.",
      "say": "Which day did you drink most? Was it hotter, or did you play more?",
-     "kid": "Add up each day. Which day did you drink most? Why?",
+     "kid": "Add up each day's tumblers. Compare the days.",
      "check": {
       "t": "mcq",
       "q": "Suppose you drank 2 more tumblers on a hot day than on a cool day. Why does the body need more water on a hot day?",
@@ -2251,7 +2251,7 @@
      "mins": 5,
      "do": "Show your child the whey from the Splitting Milk experiment, or remind them of it. Ask what is in it.",
      "say": "In the Splitting Milk experiment, lemon juice split hot milk into white curds and a pale liquid called whey. What did the whey carry? Should we throw it away?",
-     "kid": "Whey is the pale liquid left when lemon juice splits milk. What was in it? Should we throw it away?",
+     "kid": "Whey is the pale liquid left when lemon juice splits milk. What do you think is still in it?",
      "context": "This is the first step of Nothing Wasted, a planning challenge. You plan how to use all the whey left from making paneer."
     },
     {
@@ -2281,7 +2281,7 @@
      }
     }
    ],
-   "context": "This is a planning challenge. You design a way to use all the whey left from making paneer.",
+   "context": "This is a planning challenge. You design a way to use all the whey left from making paneer, so none of it is poured away.",
    "setup": [
     {
      "art": "A big bowl of pale yellow-green whey next to a small block of paneer.",
@@ -2325,7 +2325,7 @@
      "mins": 5,
      "do": "Lick the back of your hand after playing hard, or remember how sweat tastes.",
      "say": "Sweat tastes salty. So what does sweat carry out of your body, besides water?",
-     "kid": "Sweat tastes salty. What does it carry out of your body?",
+     "kid": "Think about how sweat tastes. What does it carry out of your body?",
      "context": "This is the first step of the Sports Day Drink challenge. You design a home-made drink that puts back what sweat takes out."
     },
     {
@@ -2333,7 +2333,7 @@
      "mins": 15,
      "do": "Design one drink and one snack together. Name what each ingredient gives.",
      "say": "Water puts back water. What puts back the salt? What gives energy for the next race?",
-     "kid": "Plan a drink and a snack. What does each part put back?",
+     "kid": "Plan one drink and one snack. Choose what goes in each.",
      "parent": "Water replaces water. A pinch of salt replaces some of the sodium lost in sweat. Sugar or jaggery gives quick energy, and also helps the gut take in salt and water. Doctors use a measured mix of salt and sugar in water, called ORS, for children who have lost a lot of water through diarrhoea. Milk drinks like buttermilk go sour in a warm bottle after a few hours, so make them just before you leave and drink them early."
     },
     {

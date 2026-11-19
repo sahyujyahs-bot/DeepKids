@@ -333,7 +333,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a quick game in one room. A caller says a direction in English, Tamil, Malayalam, Telugu or Hindi, and everyone else turns to face it as fast as they can.",
+   "context": "This is a quick game in one room. A caller says a direction in English, Tamil, Malayalam, Telugu or Hindi, and everyone else turns to face it as fast as they can. You will find out that north stays in the same place when you turn.",
    "printables": [
     {
      "kind": "cards",
@@ -409,7 +409,7 @@
      "mins": 3,
      "do": "After a caller's 4 cards, the caller says a corner, for example 'between south and west'. Everyone points to it.",
      "say": "Between south and west. Point to that corner. What do we call that direction?",
-     "kid": "Point between south and west. What is its name?",
+     "kid": "Point to the corner. Say its name.",
      "check": {
       "t": "mcq",
       "q": "You face north. Which direction is behind you?",
@@ -451,7 +451,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a board game on a printed grid map of a flat. Players move their token with direction cards, such as '2 squares east', to collect coins hidden in the rooms.",
+   "context": "This is a board game on a printed grid map of a flat. Players move their token with direction cards, such as '2 squares east', to collect coins hidden in the rooms. You will find out how a few direction words can take you to any square.",
    "printables": [
     {
      "kind": "board",
@@ -637,7 +637,7 @@
      "mins": 2,
      "do": "Talk about the game.",
      "say": "If I turned the board round, would '3 squares east' still take you to the same place?",
-     "kid": "Turn the board round. Does '3 squares east' still take you to the same place?",
+     "kid": "Turn the board round. Which square do you reach now?",
      "think": "Yes, it would. The north arrow is drawn on the board, so it turns with the board, and the squares keep the same names. Now think about this. What would happen if someone drew the north arrow pointing the other way?"
     }
    ],
@@ -726,7 +726,7 @@
      "mins": 3,
      "do": "Ask for a guess and a reason. Write it down.",
      "say": "Which map will lead the finder closer to the coin? Or will they be the same? Why do you think so?",
-     "kid": "Which map will work better? Why do you think so?",
+     "kid": "Pick the map you think will work better.",
      "ask": [
       {
        "q": "Why do you think that map will work better?",
@@ -893,7 +893,7 @@
      "mins": 3,
      "do": "Talk about the results.",
      "say": "Which chit found the coin every time? Why do you think that is?",
-     "kid": "Which chit always found the coin? Why?",
+     "kid": "Look at your table. Which chit found the coin every time?",
      "check": {
       "t": "mcq",
       "q": "Why did chit B find the coin whichever wall you faced at the start?",
@@ -1018,7 +1018,7 @@
      "mins": 3,
      "do": "Talk about the result.",
      "say": "Our numbers were different. Is one of our maps wrong?",
-     "kid": "Your numbers were different. Is one map wrong?",
+     "kid": "Look at the two maps. Is one of them wrong?",
      "check": {
       "t": "mcq",
       "q": "A child's map of a room is bigger on paper than a grown-up's. Both used one square per step. Why?",
@@ -1090,34 +1090,34 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Look at five things from the side, then from straight above. Draw both views."
+     "what": "Look at five things from the side, then from straight above. Draw them from above, or tell the shapes."
     }
    ],
-   "record": "Draw each thing twice: from the side and from above. Circle the drawing that would go on a map.",
+   "record": "Draw each thing from above, or tell your grown-up its shape from the side and from above. Which view would go on a map?",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Put the five things on a low table. 2. Ask your child to sit at table height and draw them as they look from the side.",
-     "say": "Draw these five things the way you see them now, from the side.",
-     "kid": "Sit low. Draw the five things as you see them.",
+     "do": "1. Put the five things on a low table. 2. Ask your child to sit at table height and look at them from the side. 3. Ask what shape each one looks like.",
+     "say": "Look at these five things from the side. What shape is each one?",
+     "kid": "Sit low. Say the shape of each thing as you see it.",
      "context": "This is a starting activity for the maps unit. You find out how things look from straight above, which is how a map shows them."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Ask your child to stand and look straight down at the table. 2. Draw the five things again, from above.",
-     "say": "Now stand up and look straight down, like a bird flying over the table. Draw them again. What changed?",
-     "kid": "Stand up. Look straight down. Draw them again.",
+     "do": "1. Ask your child to stand and look straight down at the table. 2. Ask them to draw the five things from above, or to tell you each shape.",
+     "say": "Now stand up and look straight down, like a bird flying over the table. What shape is each thing now? What changed?",
+     "kid": "Stand up. Look straight down. Draw each thing from above, or tell your grown-up its shape.",
      "adult": true,
      "parent": "From above, the tumbler is a circle, the book a rectangle, the plate a circle, and the banana a curved strip. The tumbler's height disappears."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about the two drawings.",
-     "say": "Which drawing shows how far apart the things are? Which one would help someone find the banana on the table?",
-     "kid": "Which drawing shows where things are? Why?",
+     "do": "Talk about the two views.",
+     "say": "Which view shows how far apart the things are? Which one would help someone find the banana on the table?",
+     "kid": "Which view shows where things are? Why?",
      "check": {
       "t": "mcq",
       "q": "From straight above, what shape is a steel tumbler?",
@@ -1136,7 +1136,7 @@
    "setup": [
     {
      "art": "A girl sitting at table height drawing a steel tumbler, a book and a banana from the side.",
-     "caption": "1. Draw the things from the side."
+     "caption": "1. Look at the things from the side."
     },
     {
      "art": "The same girl standing and looking straight down at the table, drawing circles and rectangles.",
@@ -1172,7 +1172,7 @@
      "what": "Find east from the morning Sun or a compass, and put up labels for all four directions."
     }
    ],
-   "record": "Draw a box for the room, mark which wall is N, S, E and W, and draw the window that gets the morning Sun.",
+   "record": "Tell a grown-up which wall is N, S, E and W and which window gets the morning Sun. Or draw a box for the room and mark them.",
    "flow": [
     {
      "id": "s1",
@@ -1189,7 +1189,7 @@
      "mins": 5,
      "do": "1. Stand in the middle of the room with your right arm pointing to the sunny side. 2. You are now facing north. 3. Stick E on the sunny wall and N on the wall in front. Stick W on your left and S behind you.",
      "say": "Point your right arm at the sunny side. That is east. Now you face north. Where are south and west?",
-     "kid": "Point your right arm at the sunny side. That is east. Now you are facing north.",
+     "kid": "Point your right arm at the sunny side. Now find north, south and west.",
      "parent": "If the walls do not line up exactly with the directions, stick each label on the wall that is closest."
     },
     {
@@ -1197,7 +1197,7 @@
      "mins": 5,
      "do": "1. Check with a compass if you have one. 2. Go round the flat. Which way does the front door face? Which way does the balcony face?",
      "say": "Let's check with the compass. Does the needle agree with our labels? Now, which way does our front door face?",
-     "kid": "Check with a compass. Which way does the front door face?",
+     "kid": "Check the labels with a compass. Then point to the front door.",
      "check": {
       "t": "mcq",
       "q": "Your front door is on the wall you labelled W. Which way does the door face?",
@@ -1252,7 +1252,7 @@
      "mins": 5,
      "do": "1. Walk through the home together. 2. In each room, ask your child which wall is next to which room.",
      "say": "Let's walk through our home. Which room is next to the kitchen? Which door leads to the balcony?",
-     "kid": "Walk through your home. Which room is next to which?",
+     "kid": "Walk through your home. Point to the room next to each room.",
      "context": "In this activity you draw a map of your whole home, with symbols and a key."
     },
     {
@@ -1275,7 +1275,7 @@
      "mins": 3,
      "do": "Give the map to someone else at home and ask them to find one thing, such as the fridge.",
      "say": "Give the map to someone who has not seen it. Can they find the fridge using only the map and the key?",
-     "kid": "Can someone find a thing using only your map?",
+     "kid": "Give your map to someone. Watch if they find the fridge.",
      "check": {
       "t": "mcq",
       "q": "What is a key on a map for?",
@@ -1289,7 +1289,7 @@
      }
     }
    ],
-   "context": "In this activity you draw a map of your home from above, with symbols, a key and a north arrow.",
+   "context": "In this activity you draw a map of your home from above, with symbols, a key and a north arrow. You will find out if someone who has never been in your home can find the fridge.",
    "setup": [
     {
      "art": "A family walking through a flat, a girl pointing from the kitchen door to the hall.",
@@ -1352,7 +1352,7 @@
      }
     }
    ],
-   "context": "In this activity you learn the four directions in Indian languages, and use a map of India to find places in each direction.",
+   "context": "In this activity you find out what north, south, east and west are called in other Indian languages, and use a map of India to find places in each direction.",
    "setup": [
     {
      "art": "A girl on the phone with her grandmother, writing 'kizhakku' and 'vadakku' in a notebook.",
@@ -1390,7 +1390,7 @@
      "mins": 5,
      "do": "1. Go to a balcony or a window that looks over the street. 2. Ask what your child can see: the road, other buildings, trees, a shop, a temple, parked vehicles.",
      "say": "Look down at the street. What can you see? Which things will still be there tomorrow?",
-     "kid": "Look down. What do you see? What stays there every day?",
+     "kid": "Look down. Point to three things that will still be there tomorrow.",
      "adult": true,
      "context": "In this activity you draw a map of your street from a balcony or a window, the way a bird flying overhead sees the ground."
     },
@@ -1399,7 +1399,7 @@
      "mins": 12,
      "do": "1. Draw the road as two long lines. 2. Draw the buildings as boxes and trees as circles. 3. Leave out things that move, such as autos, cows and people.",
      "say": "Draw the road first. Then the buildings as boxes and the trees as circles. Do we draw the autos?",
-     "kid": "Draw the road. Draw buildings as boxes. Trees as circles.",
+     "kid": "Draw the road, buildings as boxes and trees as circles. Or lay cut-out paper boxes on a sheet.",
      "adult": true,
      "parent": "Things that move are left off maps, because they will not be there tomorrow. Landmarks that stay, such as a temple or a big tree, matter most.",
      "check": {
@@ -1422,7 +1422,7 @@
      "kid": "Add a north arrow and a key."
     }
    ],
-   "context": "In this activity you draw your street from above, from a balcony or a window.",
+   "context": "In this activity you draw your street from above, from a balcony or a window. You will find out what to keep on a map and what to leave out.",
    "setup": [
     {
      "art": "A girl and her mother on a balcony, the girl drawing on a clipboard and looking down at a street with a temple and a tree.",
@@ -1627,7 +1627,7 @@
      "mins": 5,
      "do": "Read the problem and talk about how to show things without words.",
      "say": "No words at all. How can we show the fridge? How can we show which way is east?",
-     "kid": "No words! How will you show the fridge? And east?",
+     "kid": "No words! Think of a picture for the fridge and a way to show east.",
      "context": "This is a design challenge. You make a map that works without any words, so anyone can use it."
     },
     {
@@ -1635,7 +1635,7 @@
      "mins": 15,
      "do": "1. Draw the rooms. 2. Draw a picture symbol for each place. 3. Show the east side with a rising Sun. 4. Draw the route from the front door.",
      "say": "Draw the rooms and the picture symbols. How will the reader know which way to turn the map?",
-     "kid": "Draw the rooms. Draw picture symbols. Show the east side.",
+     "kid": "Draw the rooms and picture symbols, or lay out cut-out picture cards. Show the east side.",
      "check": {
       "t": "mcq",
       "q": "Why does a wordless map still need something that shows a direction, like a rising Sun on the east side?",
@@ -1698,16 +1698,16 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put the car on a corner tile, the coin on another tile, and two obstacles between them. 2. Draw the room as a grid on paper.",
-     "say": "Here is the car, here is the coin. Draw a grid of the floor with everything on it.",
-     "kid": "Draw the floor as a grid. Mark the car, the coin and the cushions.",
+     "do": "1. Put the car on a corner tile, the coin on another tile, and two obstacles between them. 2. Ask your child to count the tiles from the car to the coin.",
+     "say": "Here is the car, here is the coin. How many tiles is it between them?",
+     "kid": "Count the floor tiles from the car to the coin. Which tiles are blocked?",
      "context": "This is a design challenge. You write directions that steer a toy car round obstacles to a coin."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Plan the route on the grid. 2. Write it as instructions, such as '4 tiles north, 2 tiles east'. 3. Count the instructions.",
-     "say": "Plan the route on paper. How few instructions can you use?",
+     "do": "1. Plan the route by pointing along the floor tiles. 2. Write it as instructions, such as '4 tiles north, 2 tiles east'. 3. Count the instructions.",
+     "say": "Plan the route along the tiles. How few instructions can you use?",
      "kid": "Plan a route. Write it as tiles and directions.",
      "check": {
       "t": "mcq",
@@ -1736,7 +1736,7 @@
     },
     {
      "art": "A squared-paper grid with a dotted route around two blocks and the instructions written beside it.",
-     "caption": "2. Plan the route on a grid."
+     "caption": "2. Plan the route along the tiles."
     }
    ]
   }

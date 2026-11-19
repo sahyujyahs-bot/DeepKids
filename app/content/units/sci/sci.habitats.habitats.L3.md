@@ -263,8 +263,8 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Child mode:* Put the six habitat mats in a circle. Mix up the cards. Put them face down. Put the need cards in a row.
 - **s2 (3 min)**  
   *Parent does:* Find the Frog card. Play it together as a practice round.  
-  *Parent says:* Let's practise with the frog. Where do they go? Now pick two need cards. How does the pond give the frog water? How does it give them food?  
-  *Child mode:* Practice card: the frog. Which mat does it go on? Choose your answer.
+  *Parent says:* Let's practise with the frog. Where do they go? Now pick two need cards. How does the pond give the frog food? How does it give them shelter?  
+  *Child mode:* Practice card: the frog. Hold up the frog card.
   - Ask: How does a pond give a frog food and shelter? (good: There are insects and worms to eat.; They can hide in the mud or under lotus leaves.)
   - Check: Where does the frog card go? → **Pond**
 - **s3 (10 min)**  
@@ -285,7 +285,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   - Think: We put bacteria on the 'inside a body' mat. Your body gives them food, water and warmth, just as a pond gives a frog what the frog needs. So is your body a habitat? Why?
 ### g2 · Nature Bingo: Habitat Hunt (25 min)
 - **rules:** Each player gets a bingo sheet and a pencil.; Walk slowly together with a grown-up. When you find something on your sheet, show the others and tick it.; For each tick, say what that place gives to the living thing there.; Four ticks in a row, across, down or corner to corner, is BINGO.; Keep playing until everyone has a bingo, or for 20 minutes. Then share your best find.
-- **Printable board: A bingo sheet of 16 squares (4 by 4):** a living thing under a stone; something living in a crack in a wall; a nest or a web; a hole that something lives in; a leaf that has been nibbled; a damp, shady spot; a hot, dry, sunny spot; an animal drinking or a place they could drink; a living thing on another living thing (like moss on a tree); a flower being visited by an insect; an ant trail; something that gives shelter; a place with no living thing you can see; a puddle or wet patch; bird droppings or feathers; FREE: draw your favourite find
+- **Printable board: A bingo sheet of 16 squares (4 by 4):** a living thing under a stone; something living in a crack in a wall; a nest or a web; a hole that something lives in; a leaf that has been nibbled; a damp, shady spot; a hot, dry, sunny spot; an animal drinking or a place they could drink; a living thing on another living thing (like moss on a tree); a flower being visited by an insect; an ant trail; something that gives shelter; a place with no living thing you can see; a puddle or wet patch; bird droppings or feathers; FREE: your favourite find (draw it or tell about it)
 - **Printable score sheet: Find log:** Square; What I found; What it gives the living thing (food, water, shelter, space, warmth)
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Print a bingo sheet for each player. 2. Choose a safe place to walk: a park, a garden or around your building. 3. Agree on the rule: we look and lift gently, and put everything back.  
@@ -314,13 +314,13 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - **predict:** Before you start, guess. By tomorrow morning, which bowl will have turned into curd: the warm one, the one on the counter, or the one in the fridge? Why do you think so?
 - **fair test:** Only one thing changes: how warm each bowl is kept. Everything else stays the same: the same milk, the same amount in each bowl, one level teaspoon of the same curd, the same kind of bowl, a cover on each, and the same number of hours. If two things were different, we would not know which one made the change.
 - **safety:** A grown-up boils the milk and cools it. Use clean bowls and spoons, because other bacteria can get in from dirty ones. Eat the curd only if it smells fresh and sour, like normal curd. Throw away anything that smells bad or has fuzzy spots.
-- **record:** Fill in the table for all three bowls. Draw each bowl tilted, the way it looked in the morning. Write one sentence for what you think, one for what you saw and one for why.
+- **record:** Fill in the table for all three bowls. Draw each bowl tilted the way it looked in the morning, or take a photo of each. Write one sentence for what you think, one for what you saw and one for why.
 - **results table:** Bowl | Where it was kept | How warm the place felt (or the thermometer reading) | Tilt test next morning: runny, thick or set | Smell: milky or sour
 - **schedule:** day 1: Guess which bowl will turn into curd, and give a reason. Stir curd into warm milk in three bowls. Keep one warm, one on the counter and one in the fridge overnight. (18 min); day 2: Tilt and smell each bowl, fill in the table and say what you think, what you saw and why. Then put the fridge bowl somewhere warm and check it in the evening. (17 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Show your child a spoon of curd and a cup of milk. 2. Explain the plan: three bowls of milk with curd, each kept in a different place. 3. Ask for a guess and a reason. 4. Write both at the top of the results table.  
   *Parent says:* Curd is made by bacteria. Bacteria are living things, far too small to see. This one spoon of curd holds millions of them. We will put some into three bowls of warm milk. One bowl stays somewhere warm, one on the counter and one in the fridge. Which bowl do you think will turn into curd by morning? Why do you think so?  
-  *Child mode:* Curd is made by tiny living things called bacteria. We will make three bowls of milk with curd. One stays warm. One stays on the counter. One goes in the fridge. Which one turns into curd? Why do you think so?
+  *Child mode:* Curd is made by tiny living things called bacteria. We will make three bowls of milk with curd. One stays warm. One stays on the counter. One goes in the fridge. Make your guess first.
   - Ask: Which bowl will turn into curd by morning? Why do you think so? (good: The warm one, because at home we keep the milk somewhere warm to set curd.; The fridge one, because curd is always kept in the fridge.; All three, because they all have curd in them.)
   - Note: Any guess with a reason is a good start. A common guess is the fridge, because that is where curd is kept. Do not correct it. The bowls will answer tomorrow.
 - **s2 (8 min) · grown-up needed**  
@@ -361,7 +361,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - **predict:** Before you measure, guess. Put these five places in order from hottest to coolest: an open sunny path, a patch of grass, under a bush, under a stone and under a pile of fallen leaves. Why do you think so?
 - **fair test:** To make it fair, measure all five places at about the same time of day, with the same thermometer. Leave the thermometer in each place for the same time, 2 minutes. Feel each place for dampness with the back of the same hand.
 - **safety:** Do this with a grown-up. Lift stones towards you, so anything underneath runs away from you. Do not touch centipedes or scorpions. On a very hot day, wear a cap.
-- **record:** Fill in the table. Draw a bar for each place, as tall as its temperature. Next to each bar, write how many living things you found there.
+- **record:** Fill in the table. Put the five places in a row from hottest to coolest. Next to each, write how many living things you found there. You can draw a bar for each place if you like.
 - **results table:** Place | Temperature (degrees Celsius) | Damp or dry (1 = dry, 5 = very damp) | Living things I counted
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Choose a garden or a park corner. 2. Find five places: an open sunny path, grass, under a bush, under a stone and under fallen leaves. 3. Ask your child to put them in order, hottest first.  
@@ -373,9 +373,9 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Child mode:* Put the thermometer in each place for 2 minutes. Read it. Feel the ground. Count the living things. Write it all down.
   - Note: On a sunny day you will often see 10 degrees or more difference between the open path and under the stone or the leaves. The cooler, damper places usually have more living things. If you count no living things in a place, write 0. A zero is a real result. It shows that place gives less.
 - **s3 (6 min)**  
-  *Parent does:* Help your child draw a bar chart: one bar for each place, as tall as its temperature.  
-  *Parent says:* Let's turn the numbers into a picture. Each place gets a bar. The taller the bar, the hotter the place.  
-  *Child mode:* Draw one bar for each place. Make it as tall as the temperature. Write how many living things you found next to it.
+  *Parent does:* Help your child lay five paper labels in a row, hottest place first. Under each label, put its temperature and the number of living things found there.  
+  *Parent says:* Let's put the places in order. The hottest goes first. Under each one, we put its temperature and who lives there.  
+  *Child mode:* Write each place on a slip of paper. Lay the slips in a row, hottest first. Put the temperature and the number of living things under each.
   - Check: In the five worlds experiment, the sunny path was 41 degrees and under the leaves was 28 degrees. Which place had more living things, and why? → **Under the leaves, because it is cooler and damper**
 - **s4 (3 min)**  
   *Parent does:* Compare the results with the guess. Then ask your child to say or write: what I think, what I saw, and why.  
@@ -392,7 +392,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - **predict:** Before you start, guess. If you tie a clear plastic bag around a leafy branch in the sun, what will you see inside the bag after one hour? Why do you think so?
 - **fair test:** To make it fair, tie a second bag around a bare dry stick pushed into the same pot, in the same sunny place. Both bags stay on for the same time. Then only the leaves are different.
 - **safety:** Choose a plant that is not thorny or poisonous, such as a hibiscus, guava or tulsi plant. Take the bag off after one hour. Leaves trapped in a bag in hot sun can get too hot and wilt.
-- **record:** Draw both bags after one hour. Write how much water collected in each.
+- **record:** Draw both bags after one hour, or take a photo of each. Write how much water collected in each.
 - **results table:** Bag | What I saw inside after 1 hour | Water collected (spoonfuls or drops)
 - **s1 (4 min)**  
   *Parent does:* 1. Put the potted plant in full sun, on a balcony or by a sunny window. 2. Slip a clear plastic bag over a leafy stem, with plenty of leaves inside. 3. Tie the bag tightly around the stem. 4. Push a bare dry stick into the soil of the same pot and tie a second bag over it.  
@@ -419,7 +419,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 ## Activities
 ### a1 · Under the Stone (10 min)
 - **safety:** A grown-up lifts the stone, tilting it towards themselves, so anything underneath runs away from them. Do not touch centipedes or scorpions. Put the stone back gently.
-- **record:** Draw what you saw under the stone. Write your guess and the real number of living things.
+- **record:** Write your guess and the real number of living things. Then tell your grown-up what you saw, or draw it.
 - **s1 (2 min)**  
   *Parent does:* 1. Find a stone, a brick or a pot that has been lying on soil for some days. 2. Ask your child to guess how many living things are under it.  
   *Parent says:* Before we lift it, guess. How many living things do you think are hiding under this stone?  
@@ -427,7 +427,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Lift the stone towards yourself. 2. Look quickly, because many animals will run. 3. Count everything you see: woodlice, ants, worms, beetles, centipedes, roots, white fungus threads.  
   *Parent says:* Quick, look! What do you notice? Let's count everything that is alive. What do you wonder about?  
-  *Child mode:* Ask a grown-up to lift the stone. Look fast! Count every living thing. What do you notice?
+  *Child mode:* Ask a grown-up to lift the stone. Look fast! Count every living thing.
   - Ask: What do you notice? What do you wonder? (good: It's dark and wet under there.; Why are they all hiding here?; Where do they go when it rains?; There is nothing here. Maybe it is too dry.)
   - Note: Woodlice are small grey creatures with 14 legs. They are cousins of crabs and prawns, not insects. If you find nothing under the stone, that is a real result, not a failure. Write down 0 next to the guess. Then ask: why might nobody live under this stone? Is the soil dry? Is it in full sun? Was it moved recently? Try one more stone in a shadier, damper spot, or after rain. Even a bare stone is home to bacteria, too small to see.
 - **s3 (3 min)**  
@@ -438,7 +438,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   - Think: Is the space under the stone a whole world? Whose habitat is it?
 ### a2 · What Does the Crow Need? (20 min)
 - **safety:** If you go outside to watch, stay with a grown-up and keep away from street dogs and monkeys.
-- **record:** Draw your animal in the middle of a page. Draw six arrows to where they get food, water, air, shelter, space and warmth.
+- **record:** Put your animal in the middle of a page and write the six places around it: where they get food, water, air, shelter, space and warmth. You can draw them instead.
 - **s1 (3 min)**  
   *Parent does:* Go to a window, a balcony or the gate. Choose one animal you can see often, such as a crow, a pigeon, a squirrel or a gecko.  
   *Parent says:* Let's choose one animal we see every day. We will be detectives and find out what their habitat gives them.  
@@ -449,15 +449,15 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Child mode:* Watch your animal. Where do they get food? Water? Shelter? Space? Where do they go when it's hot?
   - Note: Good answers are places you can point to: 'the crow drinks from the leaking tap', 'they nest in the neem tree', 'they rest in shade on the water tank at noon'. If your child does not know, it is fine to say 'we don't know yet' and watch again tomorrow.
 - **s3 (5 min)**  
-  *Parent does:* Draw the animal in the middle of a page, with six arrows to the places you found.  
-  *Parent says:* Let's draw it. All these places together are your animal's habitat. Their habitat isn't one spot. It is everywhere they get what they need.  
-  *Child mode:* Draw your animal in the middle. Draw six arrows to where they get each need. That is their habitat!
+  *Parent does:* Write the animal's name on a slip of paper. Put the slip in the middle of a table. Write each place your child found on its own slip. Lay the slips around the animal, one for each need.  
+  *Parent says:* Let's lay it out. All these places together are your animal's habitat. Their habitat isn't one spot. It is everywhere they get what they need.  
+  *Child mode:* Put your animal's name in the middle. Lay a slip around them for each need. Each slip names the place where they get it. That is their habitat!
   - Check: A crow drinks from a tap, eats from a dustbin, nests in a neem tree and flies over the whole street. What is their habitat? → **All of these places together**
   - Think: If the neem tree were cut down, what would the crow have to do?
 ### a3 · Square Metre Safari (25 min)
 - **problem:** To compare two places fairly, scientists count the living things inside a square of the same size. Such a square is called a quadrat. Yours will be 1 metre on each side. You count how many different kinds of living things are in it, and not how many of each kind.
 - **safety:** Do this with a grown-up. Do not put hands into holes. Wash your hands afterwards.
-- **record:** Make a tally for each square: how many different kinds of living things you found. Then draw two bars.
+- **record:** Make a tally for each square: how many different kinds of living things you found. Then lay out a row of pebbles for each square, one for each kind.
 - **s1 (5 min)**  
   *Parent does:* 1. Push 4 sticks into the ground to make a square, 1 metre on each side. 2. Tie string around the sticks. 3. Do this in an open lawn or patch of grass.  
   *Parent says:* Scientists who study habitats often use a square like this. It is called a quadrat. We will count every different kind of living thing inside it.  
@@ -473,13 +473,13 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Child mode:* Move your square under a tree, or near a tap. Count the kinds again. Which has more?
   - Check: In the Square Metre Safari, a lawn square had 6 kinds of living things. A square under a tree with fallen leaves had 14 kinds. Why might the tree square have more? → **It gives more shade, damp, shelter and food from leaves**
 - **s4 (4 min)**  
-  *Parent does:* Compare the two tallies. Draw two bars.  
+  *Parent does:* Compare the two tallies. Lay out one pebble for each kind, in a row for each square.  
   *Parent says:* Which square had more kinds? What did that place give that the other did not?  
-  *Child mode:* Draw a bar for each square. Which had more kinds? Why do you think so?
+  *Child mode:* Lay a pebble for each kind, one row for each square. Which row is longer? Why do you think so?
   - Think: Scientists call the number of different kinds of living things biodiversity. Which places near your home do you think have the most?
 ### a4 · Nature Map of Our Walk (30 min)
 - **safety:** Collect only fallen things: leaves, feathers, seeds, twigs. Do not pick flowers or take anything alive. Wash your hands after the walk.
-- **record:** Draw a map of your walk. Mark where each thing was found, and colour the map by habitat: shady, sunny, wet, dry.
+- **record:** Draw a map of your walk, or lay your things out on a sheet. Mark where each thing was found, and sort them by habitat: shady, sunny, wet, dry.
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Walk slowly in a park or around your building. 2. Pick up fallen things: leaves, feathers, seeds, snail shells. 3. For each, say out loud where you found it: at the tree base, in the grass, near water.  
   *Parent says:* Let's collect only fallen things. Each time we pick something up, let's say where we found it. Was it shady or sunny there? Wet or dry?  
@@ -487,16 +487,16 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - **s2 (10 min)**  
   *Parent does:* At home, draw the path of the walk on a big sheet. Mark the trees, the grass, any water. Put each thing on the map where it was found.  
   *Parent says:* Let's draw our walk. Here's the gate, here's the big tree, here's the tap. Where did the feather go? Where did the snail shell go?  
-  *Child mode:* Draw your walk. Put each thing where you found it.
+  *Child mode:* Draw your walk. Put each thing where you found it. Or just lay the things out and tell where each came from.
   - Note: Patterns often show up: snail shells and moss near water and shade, dry seeds and feathers in sunny open places. Point these out only if your child does not notice them first.
 - **s3 (5 min)**  
-  *Parent does:* Colour the map: green for shady places, yellow for sunny, blue for wet. Look for patterns.  
-  *Parent says:* Look at the colours. Did different things come from shady places and sunny places? Why do you think so?  
-  *Child mode:* Colour the shady parts green, sunny parts yellow, wet parts blue. What pattern do you see?
+  *Parent does:* Sort the things into three piles: found in shade, found in sun, found near water. Look for patterns.  
+  *Parent says:* Look at the piles. Did different things come from shady places and sunny places? Why do you think so?  
+  *Child mode:* Sort your things into three piles: shady, sunny and wet. What pattern do you see?
   - Check: On a nature map, snail shells were found only near a leaking tap and in shady places. What does this suggest about snails? → **Snails need damp, shady places**
 ### a5 · Four Homes: Act and Move (20 min)
 - **safety:** Clear the space of sharp corners and things that could break.
-- **record:** Draw yourself as your favourite habitat, and write one thing it gives and one thing that is hard there.
+- **record:** Pick your favourite habitat and act it out for the family. Say one thing it gives and one thing that is hard there.
 - **s1 (8 min)**  
   *Parent does:* 1. Put the four signs in four corners. 2. Call out a habitat. Your child runs to that corner and moves like it. 3. The pond ripples, and the forest sways. The desert lies still at noon, then comes alive at night. The sea rolls in waves. 4. Call out a living thing too, like 'a frog in the pond', and your child moves like it.  
   *Parent says:* When I say a habitat, run to its corner and become it. Desert! Now it's noon, lie very still and hot. Now it's night. Who comes out? Sea! Roll like waves. Now dive down to the dark bottom.  
@@ -504,7 +504,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 - **s2 (10 min)**  
   *Parent does:* Take turns being each habitat: pond, forest, desert and sea. As each one, say what you give easily and what is hard about living in you. Then argue: who is the best home?  
   *Parent says:* I am the desert. I give lots of sunshine and space. But I have very little water. Who are you? What do you give? And who would want to live in you?  
-  *Child mode:* Be one habitat. Say what you give. Say what is hard about living in you. Who is the best home?
+  *Child mode:* Be one habitat. Say what you give. Say what is hard about living in you.
   - Note: Let the argument go on. A good ending is when the children see there is no single best home: each one is best for some living things. If there are only two of you, each plays two habitats.
   - Check: In the habitat meeting, which habitat is the best home? → **There is no single best one. Each habitat is best for the living things that fit it.**
 - **s3 (2 min)**  
@@ -518,7 +518,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 ### p1 · Make a Habitat Corner: Water and Shelter for Wild Visitors (70 min, 14 days)
 - **problem:** In a hot town in summer, wild birds and insects find water hard to get, and safe places to hide are rare. Your job is to make a small corner that gives them some water and some shelter. Then you watch who comes, and write it down.
 - **safety:** A grown-up cuts the tin or bottle and covers any sharp edges with tape. Keep the bowl shallow, with stones in it, so small birds and insects cannot drown. Change the water every day, so mosquitoes cannot breed in it. Changing it takes one minute.
-- **record:** Keep a visitor diary: the date, the time, who came, and what they did (drank, bathed, rested, hid). On the last day, make a pictograph of all the visitors.
+- **record:** Keep a visitor diary: the date, the time, who came, and what they did (drank, bathed, rested, hid). On the last day, make a tally of all the visitors.
 - **schedule:** day 1: Choose a spot. Set up the water bowl. Build a small bug shelter. Start the visitor diary. (25 min); day 2: Watch for 5 minutes. Write any visitors. (5 min); day 4: Watch for 5 minutes. Write any visitors. (5 min); day 7: Watch for 10 minutes. Check the bug shelter gently. Count the week's visitors. (10 min); day 10: Watch for 5 minutes. Write any visitors. (5 min); day 14: Count all the visitors. Make a pictograph. Decide what to add or change. (20 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Choose a spot: a balcony, a window ledge or a corner of the garden. 2. The spot should be partly shaded, and away from where cats can hide. 3. Ask: which of a habitat's needs will we give?  
@@ -539,9 +539,9 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Child mode:* Change the water. Watch quietly for 5 minutes. Write who came and what they did.
   - Wait: Change the water every day. Come back to watch on days 2, 4, 7 and 10.
 - **s5 (15 min)**  
-  *Parent does:* On day 14, count all the visitors in the diary. Make a pictograph: one small picture for each visit, in a row for each kind of visitor.  
+  *Parent does:* On day 14, count all the visitors in the diary. Make a tally: one mark for each visit, in a row for each kind of visitor.  
   *Parent says:* Let's count. Who came most often? What did they use most: the water or the shelter?  
-  *Child mode:* Count all your visitors. Draw a little picture for each visit. Who came most?
+  *Child mode:* Count all your visitors. Make one tally mark for each visit. Who came most?
   - Check: In the Habitat Corner, birds and bees visited the water bowl often in summer. What does this show? → **Water is a need that is hard to find in a town in summer**
 - **s6 (5 min)**  
   *Parent does:* Decide together what to add or change: a plant with flowers, more shade, a second bowl.  
@@ -552,7 +552,7 @@ I still make my sandbars, and I still take them away. That is what I am. But now
 ## Challenges
 ### c1 · Keep It Cool in the Desert (35 min)
 - **problem:** Desert animals hide from the midday sun. Your job is to build a shelter that keeps a small cup of water as cool as possible in the hot sun for one hour. The cup of water is your 'desert animal'.
-- **your turn:** Now invent your own shelter. Draw it, build it and test it against a cup with no shelter. Which kept your 'animal' coolest?
+- **your turn:** Now invent your own shelter. Plan it, build it and test it against a cup with no shelter. Which kept your 'animal' coolest?
 - **constraints:** The shelter must fit in a shoebox.; Use only things from home, like cardboard, cloth, sand, leaves and paper.; The cup must be in direct sun, on a balcony or a sunny window ledge, not in the shade.; Measure the water's temperature at the start and after one hour.
 - **general:** Make shade: put a roof over the cup, so sunlight cannot reach it.; Dig in: bury the cup partly in damp soil from a flowerpot, like a burrow. A little way down, the ground stays cooler.; Use a light colour: white cloth or paper on top reflects sunlight.
 - **creative:** Wrap the cup in a wet cloth. As the water evaporates, which means it dries off into the air, it takes heat away from the cup. A clay pot (a matka or kooja) keeps water cool the same way.; Make a thick roof with an air gap under it. The gap slows the heat on its way to the cup. Houses in the Thar have thick mud walls for the same reason.; Termites build tall mounds with tunnels inside. Hot air rises and leaves through the tunnels, so the nest stays cooler. Build a tall chimney on your shelter in the same way.
@@ -561,9 +561,9 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Parent says:* This bare cup is a desert animal with nowhere to hide. Let's see how hot it gets. Then we'll design a shelter for the other one.  
   *Child mode:* Fill two cups with water. Measure both. Put one bare cup in the sun.
 - **s2 (8 min)**  
-  *Parent does:* List three ideas for a shelter before building anything. Then choose one.  
+  *Parent does:* Say three ideas for a shelter before building anything. A grown-up can write them down. Then choose one.  
   *Parent says:* Think like a desert animal. Where would you hide at noon? Let's list three ideas first.  
-  *Child mode:* Think like a desert fox. Where would you hide at noon? Draw three ideas.
+  *Child mode:* Think like a desert fox. Where would you hide at noon? Tell three ideas.
 - **s3 (12 min)**  
   *Parent does:* 1. Build the shelter around the second cup. 2. Put it in the sun next to the bare cup. 3. Leave both for one hour.  
   *Parent says:* Build it, then put it right next to the bare cup, so both get the same sun. That keeps it fair.  
@@ -586,9 +586,9 @@ I still make my sandbars, and I still take them away. That is what I am. But now
   *Parent says:* A butterfly's habitat must give food for the butterfly and food for their caterpillars. They need different plants! What else do they need?  
   *Child mode:* What does a butterfly need? Food for the butterfly. Food for their caterpillars. Water. Sun. Shelter.
 - **s2 (15 min)**  
-  *Parent does:* Draw a design for a space about 1 metre long. Label each part with the need it gives.  
-  *Parent says:* Draw your balcony. Where will the flowers go? The caterpillar plants? The water? Label each part with its need.  
-  *Child mode:* Draw your butterfly habitat. Label each part with the need it gives.
+  *Parent does:* Draw a design for a space about 1 metre long, or lay it out with real pots and sticks. Label each part with the need it gives.  
+  *Parent says:* Draw your balcony, or lay it out with real pots. Where will the flowers go? The caterpillar plants? The water? Label each part with its need.  
+  *Child mode:* Draw your butterfly habitat, or lay out real things for each part. Label each part with the need it gives.
 - **s3 (6 min)**  
   *Parent does:* Read the usual and creative ideas together, and improve the design.  
   *Parent says:* Here are some ideas other people use, and some creative ones. Which would you add?  

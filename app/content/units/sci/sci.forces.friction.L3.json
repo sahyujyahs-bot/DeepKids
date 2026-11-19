@@ -759,7 +759,7 @@
      "mins": 3,
      "do": "Take the practice card 'Bicycle brakes on a rainy day'. Play it together. It does not count for tokens.",
      "say": "Let's practise with one card. 'Bicycle brakes on a rainy day.' Do we want grip or slip here?",
-     "kid": "Practice card: bicycle brakes on a rainy day. Grip or slip? Say your answer.",
+     "kid": "Practice card: bicycle brakes on a rainy day. Think about what the brakes need to do.",
      "ask": [
       {
        "q": "Why do we want grip for brakes?",
@@ -810,7 +810,7 @@
      "mins": 2,
      "do": "1. Count everyone's tokens to find the winner. 2. Then look at the two piles of cards together.",
      "say": "Look at both piles. Which is bigger: the moments where we want more friction, or the moments where we want less?",
-     "kid": "Count your tokens. Who won? Now look at the two piles. Which pile is bigger? Is friction mostly a friend, or a nuisance?",
+     "kid": "Count your tokens. Who won? Now look at the two piles. Which pile is bigger?",
      "think": "Is friction a good force or a bad force? Think of one card where we wanted it, and one where we did not."
     }
    ],
@@ -879,7 +879,7 @@
    ],
    "rules": [
     "Roll a die. Find that number on the day board. That is your moment of the day. If that moment has already been played, take the next number up that is free. After 6 comes 1.",
-    "Imagine that moment with no friction anywhere. Say what happens, or draw it.",
+    "Imagine that moment with no friction anywhere. Say what happens, or act it out.",
     "Then take a twist card and change your story to fit it. The twist can be as silly as you like, and it does not need to be true to science.",
     "The other players give points. One point if what you say would really happen with no friction. One point for the most creative idea of the round. If you play alone, score your own ideas.",
     "After 6 rounds, add up the points. The player with the most points wins. Then everyone votes: would you switch friction back on?"
@@ -890,15 +890,15 @@
      "mins": 2,
      "do": "1. Put the day board in the middle. 2. Put the twist cards face down beside it. 3. Have a die ready.",
      "say": "Imagine you wake up tomorrow and friction has disappeared from the whole world. Everything is slippery, even more slippery than ice. It is perfectly slippery.",
-     "kid": "Imagine you wake up tomorrow. Friction has vanished from the whole world. Everything is perfectly slippery. What happens? Let's find out.",
+     "kid": "Picture it: you wake up tomorrow and nothing grips anything. What do you think happens first?",
      "context": "This is the first step of The Day the World Lost Its Grip. In this game, you imagine a whole day with no friction at all. Friction is the grip between things that touch."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Take turns rolling the die and going to that moment on the board. 2. Imagine it with no friction, and say what happens or draw it. 3. Take a twist card and change the story. 4. The others give points.",
-     "say": "Roll the die. What happens at that moment with no friction? Tell us, or draw it!",
-     "kid": "Roll the die. Go to that moment. What happens with no friction? Say it or draw it. Then pick a twist card.",
+     "do": "1. Take turns rolling the die and going to that moment on the board. 2. Imagine it with no friction, and say or act out what happens. 3. Take a twist card and change the story. 4. The others give points.",
+     "say": "Roll the die. What happens at that moment with no friction? Tell us, or show us!",
+     "kid": "Roll the die and go to that moment. Say it or act it out. Then pick a twist card.",
      "ask": [
       {
        "q": "With no friction, could you get out of bed?",
@@ -946,7 +946,7 @@
      "mins": 2,
      "do": "Hold a final vote. Would everyone switch friction back on?",
      "say": "Final vote. Would you switch friction back on? What would you switch it on for first?",
-     "kid": "Last question. Would you switch friction back on? What would you switch it on for first?",
+     "kid": "Put your hand up if you would switch friction back on. Then say what you would switch on first.",
      "think": "Which jobs does friction do for you that you never notice until they stop?"
     }
    ],
@@ -958,7 +958,7 @@
     },
     {
      "art": "A child imagining sliding off a bed in a world with no friction, arms flailing, laughing.",
-     "caption": "2. Say or draw what happens at that moment with no friction."
+     "caption": "2. Say or act out what happens at that moment with no friction."
     },
     {
      "art": "Children holding up small score cards with ticks, around the game sheet.",
@@ -1647,7 +1647,7 @@
      "what": "Guess which shoe grips best. Test each shoe 3 times on the slope. Write down the heights. Then draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart. Draw one bar for each shoe. Make each bar as tall as that shoe's middle height.",
+   "record": "Fill in the table. Then make a bar chart with one bar for each shoe, as tall as that shoe's middle height. Draw it, or stack coins or blocks.",
    "flow": [
     {
      "id": "s1",
@@ -1712,9 +1712,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Help your child draw a bar chart of the middle values, with one bar for each shoe.",
+     "do": "Help your child make a bar chart, with one bar for each shoe. Each bar is as tall as that shoe's middle number out of its three tests.",
      "say": "Let's turn the numbers into a picture. Each shoe gets one bar. The taller the bar, the higher the board went before that shoe slid.",
-     "kid": "Draw one bar for each shoe. Make it as tall as its middle number. A taller bar means better grip.",
+     "kid": "Make one bar for each shoe, as tall as its middle number. Draw it, or stack coins or blocks. A taller bar means better grip.",
      "check": {
       "t": "mcq",
       "q": "In the slope test bar chart, a taller bar means the shoe…",
@@ -1898,7 +1898,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: lots of pages laid together are very hard to pull apart. What I saw: with 10 pages they pulled apart easily, but with all the pages it was very hard. Why: every page adds a little friction, and pulling squeezes them tighter."
     }
    ],
-   "context": "In this experiment you weave the pages of two notebooks together, one page from each in turn. Then you try to pull them apart. It shows how many tiny frictions add up.",
+   "context": "In this experiment you weave the pages of two notebooks together, one page from each in turn. Then you try to pull them apart. You will find out whether a few paper pages can grip harder than you can pull.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1981,7 +1981,7 @@
      "what": "Pull the box across dry sand, then damp sand, then soaked sand."
     }
    ],
-   "record": "Fill in the table. Draw what the sand did in front of the box each time.",
+   "record": "Fill in the table. Say what the sand did in front of the box each time. Or draw it, or take a photo.",
    "flow": [
     {
      "id": "s1",
@@ -1998,7 +1998,7 @@
      "mins": 6,
      "do": "1. Pull the string slowly and steadily, so the box moves along the length of the tray. Pull the same distance every time. 2. Read the forcemeter while the box is moving, or measure how far the rubber band has stretched. 3. Watch the sand at the front of the box.",
      "say": "Pull slowly. Look at the front of the box. What is the sand doing?",
-     "kid": "Pull slowly. Read the number on the forcemeter. Look at the front of the box. Is sand piling up?",
+     "kid": "Pull slowly. Read the number on the forcemeter. Watch the sand at the front of the box.",
      "ask": [
       {
        "q": "What did the sand do in front of the box?",
@@ -2022,8 +2022,8 @@
      "id": "s4",
      "mins": 6,
      "do": "1. Pour in lots more water slowly, until the sand is soaked and muddy. 2. Smooth the top. 3. Pull the box again, the same distance, and read the forcemeter.",
-     "say": "Now let's do what the water-pourer's daughter in the story did on her first try. She poured far too much water.",
-     "kid": "Now pour lots of water, like Mery, the girl in the story. She poured too much at first! Pull again. What happens?",
+     "say": "Now let's do what Mery, the water-pourer's daughter in the story, did on her first try. She poured far too much water.",
+     "kid": "Now pour lots more water, until the sand is soaked and muddy. Pull again. What happens?",
      "parent": "Soaked sand can behave in different ways: the box may sink in, or it may slide on the water. Whatever you find, write it down honestly. The scientists found that too much water made the pull bigger again."
     },
     {
@@ -2149,7 +2149,7 @@
      "parent": "A good answer names the trick. For grip, makers use grooves, rubber, a rough surface or extra pressing. For slip, they use oil, wheels, polish or powder."
     }
    ],
-   "context": "This is a hunt around your home. You look for places where friction helps, or where people made it smaller on purpose.",
+   "context": "This is a hunt around your home. You will find out how many things around you were made to grip, or made to slip, on purpose.",
    "setup": [
     {
      "art": "A child with a magnifying glass looking closely at the zigzag tread on the bottom of a chappal.",
@@ -2204,7 +2204,7 @@
      "mins": 3,
      "do": "1. Rub an eraser hard on a sheet of paper for 20 seconds. 2. Straight away, touch the rubbed part of the paper and the end of the eraser.",
      "say": "Feel the paper and the eraser. Are they warm? Where do you think the warmth came from?",
-     "kid": "Rub an eraser hard on paper for 20 seconds. Touch the paper and the eraser. Are they warm? Why?",
+     "kid": "Rub an eraser hard on paper for 20 seconds. Touch the paper and the eraser. Are they warm?",
      "check": {
       "t": "mcq",
       "q": "Why does rubbing make things warm?",
@@ -2229,7 +2229,7 @@
      "parent": "A slow, gentle rub makes only a little heat, and the heat spreads into the air and the hands as fast as it is made. Fast, hard rubbing makes heat faster than it can escape, so the sticks get hot enough to burn."
     }
    ],
-   "context": "This activity lets you feel friction making heat, using only your hands, an eraser and some paper.",
+   "context": "This activity lets you feel friction making heat, using only your hands, an eraser and some paper. You will find out where the warmth comes from when things rub.",
    "setup": [
     {
      "art": "Two hands rubbing together fast with small warm glow lines.",
@@ -2263,7 +2263,7 @@
      "what": "Act out a dinner with no friction."
     }
    ],
-   "record": "Draw your favourite moment from the play.",
+   "record": "Tell a grown-up which moment of the play was funniest, and why. Or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -2289,7 +2289,7 @@
      "parent": "With no friction, a vada that started rolling would not stop until it hit something. Ask the players what they would do to catch it."
     }
    ],
-   "context": "This is a short play. You act out cooking and eating dinner in a kitchen where friction has vanished.",
+   "context": "This is a short play. You act out cooking and eating dinner in a kitchen where friction has vanished. You will find out what would go wrong, and why.",
    "setup": [
     {
      "art": "Children choosing roles for a kitchen play: a cook with a ladle, a child holding a pretend vada, a child as a dosa.",
@@ -2336,7 +2336,7 @@
      "what": "Test cloths, slide in socks, and look at old soles."
     }
    ],
-   "record": "Put the cloths in order, from most grip to least. Write where you could slide in socks. Draw the bottom of an old, worn shoe.",
+   "record": "Put the cloth, towel and plastic in order, from most grip to least. Write where you could slide in socks. Take a photo of the bottom of an old, worn shoe, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -2346,7 +2346,7 @@
      "kid": "Put the tumbler on the start line. Give it a small tap with one finger. How far does it go? Try the same tap on the cloth, the towel and the plastic, three times each.",
      "ask": [
       {
-       "q": "Which cloth would you put under a glass on a moving train's table?",
+       "q": "Which of the three would you put under a glass on a moving train's table?",
        "good": [
         "The one with the most friction.",
         "The towel, because it grips."
@@ -2369,7 +2369,7 @@
      "mins": 5,
      "do": "Look at the bottoms of an old pair of shoes together. Find where they are worn most.",
      "say": "The most worn places show where your shoe rubs the ground hardest. Where are they on this shoe?",
-     "kid": "Turn over an old shoe. Where is it worn smooth? Friction rubbed most there. Do you walk more on your heels or your toes?",
+     "kid": "Turn over an old shoe. Point to where it is worn smooth. Friction rubbed most there.",
      "check": {
       "t": "mcq",
       "q": "Why does the bottom of a shoe wear smooth?",
@@ -2383,7 +2383,7 @@
      }
     }
    ],
-   "context": "In this activity you test which cloth stops a sliding steel tumbler fastest. You also slide in socks, and look at the marks friction leaves on an old shoe.",
+   "context": "In this activity you test which surface stops a sliding steel tumbler fastest. You also slide in socks, and look at the marks friction leaves on an old shoe.",
    "setup": [
     {
      "art": "A steel tumbler being tapped with one finger across a cotton cloth, a towel and a plastic sheet laid side by side.",
@@ -2418,7 +2418,7 @@
      "what": "Slide two magnets face to face."
     }
    ],
-   "record": "Draw what the sliding felt like. Was it smooth, bumpy or clicky?",
+   "record": "Say or write how the sliding felt. Was it smooth, bumpy or clicky?",
    "flow": [
     {
      "id": "s1",
@@ -2444,7 +2444,7 @@
      "mins": 6,
      "do": "Explain how the magnets are like real friction.",
      "say": "Real friction is a bit like this, but far, far tinier. Atoms of the two surfaces tug on each other with electric force. They hold for a moment, then snap free as you slide. Each snap leaves the atoms jiggling. Jiggling atoms are heat. That's why friction makes things warm.",
-     "kid": "Real friction is like this, but much tinier. Atoms of two surfaces tug on each other. They hold on, then snap free. Each snap makes atoms jiggle. Jiggling atoms are heat!",
+     "kid": "Real atoms tug and let go like your magnets, but they are far tinier. Each time they let go, they jiggle. Jiggling atoms are heat!",
      "check": {
       "t": "mcq",
       "q": "Deep down, friction comes from…",
@@ -2495,7 +2495,7 @@
      "what": "Act out how the tides slow the Earth."
     }
    ],
-   "record": "Draw the Earth, the bulge of ocean water, and the Moon moving away.",
+   "record": "Tell someone at home what the Earth, the sea and the Moon did in your play. Or draw the Earth, the ocean bulge and the Moon moving away.",
    "flow": [
     {
      "id": "s1",
@@ -2613,7 +2613,7 @@
      "what": "Test the grip socks. Compare them with plain socks. Improve the design. Give them to someone who needs them."
     }
    ],
-   "record": "Write the slide height for the plain sock and for the grip sock. Draw your design. Write what you changed.",
+   "record": "Write the slide height for the plain sock and for the grip sock. Show your design in a photo or a drawing. Write what you changed.",
    "flow": [
     {
      "id": "s1",
@@ -2626,9 +2626,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Help your child draw a grip pattern on paper. Dots, lines or zigzags all work.",
+     "do": "Help your child plan a grip pattern. They can draw it on paper, or lay out buttons or paper dots on a paper foot shape. Dots, lines or zigzags all work.",
      "say": "Engineers design before they build. Which pattern might grip best: dots, lines or zigzags? Which parts of the sole touch the floor most?",
-     "kid": "Design first, like an engineer. Draw a pattern for the bottom of the sock. Dots, lines or zigzags? Put it where the sock touches the floor."
+     "kid": "Design first, like an engineer. Plan a pattern for the bottom of the sock. Draw it, or lay out dots or strips on a paper foot. Put it where the sock touches the floor."
     },
     {
      "id": "s3",
@@ -2743,7 +2743,7 @@
     "Put the box on a tray, and the tray on a few marbles. The marbles roll like the ball bearings in a cycle wheel. As they roll out at the back, move them to the front.",
     "Builders long ago moved huge stones with sledges, wooden rollers and ramps. Could one of these ideas help you?"
    ],
-   "your_turn": "Now invent your own way. Draw it, try it, and measure the pull. Is it better than the others?",
+   "your_turn": "Now invent your own way. Build it, try it, and measure the pull. Is it better than the others?",
    "flow": [
     {
      "id": "s1",
@@ -2758,7 +2758,7 @@
      "mins": 5,
      "do": "Before trying anything, list three ideas together.",
      "say": "Before we try anything, let's think like engineers. Let's list three ideas.",
-     "kid": "Think like an engineer! Draw or write three ideas to make it easier. Do this before you try any."
+     "kid": "Think like an engineer! Say three ideas to make it easier, before you try any. Write them down if you like."
     },
     {
      "id": "s3",
@@ -2821,7 +2821,7 @@
     "A wide, soft front to the sole, so more rubber touches the stone.",
     "Strips of rough coir, the fibre from coconut husks."
    ],
-   "your_turn": "Draw your sole. Label each part with what it does.",
+   "your_turn": "Draw your sole and say what each part does. Or build it from paper and rubber bands.",
    "flow": [
     {
      "id": "s1",
@@ -2852,9 +2852,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Your child draws the sole and labels each part. 2. Press an old chappal on a wet tile with your hand and push sideways. Feel how well it grips. 3. Wrap rubber bands tightly around the same chappal and test it again. Which grips better?",
+     "do": "1. Your child draws the sole and says what each part does, or builds one from paper and rubber bands. 2. Press an old chappal on a wet tile with your hand and push sideways. Feel how well it grips. 3. Wrap rubber bands tightly around the same chappal and test it again. Which grips better?",
      "say": "Draw your sole and label what each part does. Then let's test a rubber-band version.",
-     "kid": "Draw your sole. Label each part. Test an old chappal on a wet tile with your hand. Then wrap rubber bands round it and test again.",
+     "kid": "Draw your sole and say what each part does. Or build one from paper and rubber bands. Then test an old chappal on a wet tile with your hand. Wrap rubber bands round it and test again.",
      "adult": true,
      "parent": "Rubber bands may help only a little, or not at all. Either way, it is a real result. Say what you saw."
     },
@@ -2866,7 +2866,7 @@
      "kid": "Tree frogs climb wet leaves without slipping. Which animal's feet would you copy?"
     }
    ],
-   "context": "This is a design challenge. You design a sandal sole that will not slip on wet, mossy river steps.",
+   "context": "This is a design challenge. You design a sandal sole that will not slip on wet, mossy river steps. You will find out what makes a sole grip when it is wet.",
    "setup": [
     {
      "art": "Several chappals and shoes turned upside down showing different tread patterns.",

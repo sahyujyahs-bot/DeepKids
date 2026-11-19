@@ -468,7 +468,7 @@
      "mins": 3,
      "do": "Count the pairs and bonus points. Then ask which five festivals come in mid-January.",
      "say": "Five of these festivals come in the middle of January. Can you find them in your pile?",
-     "kid": "Find the five festivals that come in mid-January.",
+     "kid": "Count your pairs. Then look through your pile.",
      "ask": [
       {
        "q": "Which five festivals come in mid-January?",
@@ -610,7 +610,7 @@
      "mins": 3,
      "do": "Look at the two piles together.",
      "say": "Look at the Moon pile. What do many of these festivals have in common?",
-     "kid": "Look at the Moon pile. What do the backs say about the Moon?",
+     "kid": "Read the backs of the Moon cards.",
      "ask": [
       {
        "q": "What do the Moon festivals have in common?",
@@ -702,7 +702,7 @@
      "what": "Make turmeric water. Guess, then test eight kitchen liquids. Try to turn the red bowls yellow again with lemon juice."
     }
    ],
-   "record": "Fill in the table. Then draw your row of bowls in colour, and write 'acid', 'base' or 'neither' under each one.",
+   "record": "Fill in the table. Then draw your row of bowls in colour, or take a photo of it. Write 'acid', 'base' or 'neither' for each one.",
    "flow": [
     {
      "id": "s1",
@@ -726,7 +726,7 @@
      "mins": 4,
      "do": "1. Put a small paper label in front of each bowl. 2. Ask your child to guess red or yellow for each. 3. Ask why. 4. Write the guesses in the table.",
      "say": "Which of these liquids do you think will turn the turmeric red? Why do you think so?",
-     "kid": "Guess for each bowl: red or yellow? Why do you think so?",
+     "kid": "Look at the eight liquids. Guess which ones will turn the turmeric red.",
      "ask": [
       {
        "q": "Pick one liquid you think will turn the turmeric red. Why do you think so?",
@@ -770,7 +770,7 @@
      "mins": 2,
      "do": "Talk about the results. Ask what your child found out, what they saw that shows it, and why they think it happened.",
      "say": "Which liquids turned the turmeric red? What did they have in common? What did the lemon do?",
-     "kid": "Which ones went red? How are they alike? What did lemon do?",
+     "kid": "Look at all the bowls again. Which ones went red?",
      "ask": [
       {
        "q": "What is the same about the liquids that turned it red?",
@@ -859,7 +859,7 @@
    "title": "The Hibiscus Test: is a festival flower an indicator too?",
    "mins": 25,
    "days": 1,
-   "context": "Turmeric changes colour in bases. In this experiment you test the juice of a red hibiscus flower, the sembaruthi used in temples and pookalams, with an acid and a base.",
+   "context": "Turmeric changes colour in bases. An indicator is something whose colour changes to show what a liquid is like. In this experiment you test the juice of a red hibiscus flower, the sembaruthi used in temples and pookalams, with an acid and a base.",
    "question": "Does red hibiscus juice change colour with lemon juice and with soap, the way turmeric does?",
    "predict": "Guess what colour hibiscus juice will turn with lemon, and what colour with soapy water. Why do you think so?",
    "fair_test": "Use the same hibiscus juice in three tumblers, add the same spoonful of liquid to each, and wait the same one minute. Keep one tumbler with plain water, to compare.",
@@ -903,7 +903,7 @@
      "what": "Make hibiscus juice, then test it with lemon juice and soapy water."
     }
    ],
-   "record": "Draw the three tumblers in colour. Write one sentence on how hibiscus is like turmeric, and one on how it is different.",
+   "record": "Draw the three tumblers in colour, or take a photo of them. Write one sentence on how hibiscus is like turmeric, and one on how it is different.",
    "flow": [
     {
      "id": "s1",
@@ -919,7 +919,7 @@
      "mins": 4,
      "do": "1. Pour the juice into three tumblers. 2. Ask your child to guess the colour with lemon and with soap, and why.",
      "say": "Turmeric went red with soap. What do you think hibiscus will do with soap? And with lemon? Why?",
-     "kid": "Guess: what colour with lemon? What colour with soap? Why?",
+     "kid": "Think about lemon and soap. Will the juice change colour?",
      "ask": [
       {
        "q": "What colour do you think hibiscus juice will turn with soap? Why?",
@@ -943,7 +943,7 @@
      "mins": 5,
      "do": "Compare the hibiscus results with the results of the Turmeric Test.",
      "say": "Turmeric changed colour only with the base. Hibiscus changed with both. What does that tell you?",
-     "kid": "Turmeric changed with soap only. Hibiscus changed with both. Which one tells you more?",
+     "kid": "Compare the turmeric and hibiscus results. Which one showed more?",
      "ask": [
       {
        "q": "Which is the better indicator for telling an acid from plain water?",
@@ -1006,7 +1006,7 @@
      "mins": 4,
      "do": "1. Read out the six festivals. 2. Ask your child to guess which stay on the same date, and why. 3. Write the guesses.",
      "say": "Your birthday is on the same date every year. Is every festival like that? Which ones do you think move? Why?",
-     "kid": "Which festivals come on the same date every year? Guess, and say why.",
+     "kid": "Guess which festivals stay on the same date every year.",
      "context": "This is the first step of the calendar hunt, where you find out which festival dates move.",
      "ask": [
       {
@@ -1030,7 +1030,7 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Sort the six festivals into Sun and Moon. Work out how many days Eid moved.",
+     "do": "Sort the six festivals into Sun (same date every year) and Moon (date moves). Work out how many days Eid moved.",
      "say": "Which festivals stayed put? Which moved? Count how many days earlier Eid came each year.",
      "kid": "Which stayed? Which moved? How many days did Eid move?",
      "ask": [
@@ -1087,7 +1087,7 @@
      "what": "Watch yellow turmeric water turn red with a spoon of soapy water. Say what you notice and what you wonder."
     }
    ],
-   "record": "Draw the bowl before and after. Write one thing you wonder about it.",
+   "record": "Show the bowl before and after, by drawing it or taking a photo. Write one thing you wonder about it.",
    "flow": [
     {
      "id": "s1",
@@ -1102,7 +1102,7 @@
      "mins": 5,
      "do": "Ask what your child noticed and what they wonder. Write down their questions. Do not explain yet.",
      "say": "What did you notice? What do you wonder about it? Did we add anything red?",
-     "kid": "What did you see? What do you wonder? Was anything red added?",
+     "kid": "Tell your grown-up what you saw and what you wonder.",
      "ask": [
       {
        "q": "What do you wonder?",
@@ -1116,7 +1116,7 @@
      "parent": "Keep their questions. The Turmeric Test answers them. If your family uses aarathi water, ask if they have seen it made."
     }
    ],
-   "context": "This is a quick start to the unit. You watch turmeric turn red with soap, and ask your own questions about it.",
+   "context": "You will see turmeric turn red when soap is added, although nothing red goes in. Then you ask your own questions about it.",
    "setup": [
     {
      "art": "A steel bowl of yellow turmeric water and a cup of cloudy soapy water side by side.",
@@ -1165,7 +1165,7 @@
      "mins": 12,
      "do": "1. Draw the ground from above, the way a bird sees the ground. 2. Draw at least six stalls, one ride, a first-aid booth, a Lost and Found booth, dustbins and an entrance. 3. Label what each stall sells and what it is made of.",
      "say": "Draw the mela the way a bird flying over sees the ground. Where will lost children go? Where will people throw their rubbish?",
-     "kid": "Draw your mela from above. Add stalls, a ride and a Lost and Found booth.",
+     "kid": "Draw your mela from above, or lay out cups and spoons as the stalls. Add a ride and a Lost and Found booth.",
      "parent": "Good stall materials: bamboo poles, rope, cloth or plastic sheets, wooden boards. Good jobs: sellers, cooks, potters, toy makers, ride workers, electricians, police, first-aid workers, volunteers and cleaners."
     },
     {
@@ -1173,7 +1173,7 @@
      "mins": 3,
      "do": "Ask why bamboo and cloth are good for building a mela stall.",
      "say": "Your mela has to be built in a week and taken down in a day. Why are bamboo and cloth good for that?",
-     "kid": "Why is a stall made of bamboo and cloth, not bricks?",
+     "kid": "Think about how fast a mela is built and taken down.",
      "ask": [
       {
        "q": "Why are mela stalls made of bamboo and cloth?",
@@ -1229,7 +1229,7 @@
      "what": "Check the kolam the next morning for ants and gaps, and talk about who it fed."
     }
    ],
-   "record": "Draw the kolam when it is new, and again the next morning. Mark where parts are missing.",
+   "record": "Take a photo of the kolam when it is new, and again the next morning. Say which parts are missing.",
    "flow": [
     {
      "id": "s1",
@@ -1252,8 +1252,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Talk about who the kolam fed.",
-     "say": "Many families say a rice-flour kolam is a way to share food with the ants and birds. Did yours feed anyone?",
-     "kid": "Did your kolam feed anyone? Who?",
+     "say": "Many families say a rice-flour kolam is a way to share food with the ants and birds. What did you find?",
+     "kid": "Who ate your kolam? Tell your grown-up.",
      "ask": [
       {
        "q": "Why do you think people used rice flour, not chalk?",
@@ -1265,7 +1265,7 @@
      ]
     }
    ],
-   "context": "In this activity you draw a small rice-flour kolam and watch whether ants come to eat it.",
+   "context": "You will make a small rice-flour kolam and find out whether ants come to eat it.",
    "setup": [
     {
      "art": "A child's fingers letting a thin line of rice flour fall around a square of 9 dots on a balcony floor.",
@@ -1313,7 +1313,7 @@
      "what": "Make red aarathi water from turmeric and a tiny bit of lime, the way many families do."
     }
    ],
-   "record": "Draw the plate before and after. Write what the lime did.",
+   "record": "Write what the lime did to the colour. Take a photo of the plate before and after.",
    "flow": [
     {
      "id": "s1",
@@ -1337,7 +1337,7 @@
      "mins": 3,
      "do": "Talk about why it turned red, using the Turmeric Test.",
      "say": "Remember the Turmeric Test? Which liquids turned it red? So what kind of substance is lime?",
-     "kid": "Soap turned turmeric red. Lime did too. So what is lime?",
+     "kid": "Think back to the Turmeric Test. What turned turmeric red?",
      "ask": [
       {
        "q": "What kind of substance is lime?",
@@ -1349,7 +1349,7 @@
      "parent": "Pour the aarathi water down the drain afterwards, not where children play."
     }
    ],
-   "context": "In this activity a grown-up makes aarathi water from turmeric and lime, and you see a base at work.",
+   "context": "You will find out why aarathi water turns red. A grown-up makes it from turmeric and lime.",
    "setup": [
     {
      "art": "A brass plate of yellow turmeric water on a floor.",
@@ -1406,7 +1406,7 @@
      "mins": 3,
      "do": "Ask how many years after independence the Constitution came into force.",
      "say": "Look at 1947 and 1950 on your line. How many years after independence did the Constitution come into force?",
-     "kid": "Find 1947 and 1950. How long is the gap?",
+     "kid": "Look at 1947 and 1950. Count the gap on your line.",
      "ask": [
       {
        "q": "How many years after independence did the Constitution come into force?",
@@ -1417,7 +1417,7 @@
      ]
     }
    ],
-   "context": "In this activity you make a timeline of the events our three national festivals remember.",
+   "context": "You will make a timeline to see how far apart the events of our three national festivals are.",
    "setup": [
     {
      "art": "A long paper strip with a line and years marked every 10 years from 1850.",
@@ -1469,14 +1469,14 @@
      "what": "Finish the book with drawings of the food, the clothes and the custom."
     }
    ],
-   "record": "The finished book: the interview, the recipe, and drawings of the food, the clothes and one custom.",
+   "record": "The finished book: the interview, the recipe, and pictures, photos or words for the food, the clothes and one custom.",
    "flow": [
     {
      "id": "s1",
      "mins": 20,
      "do": "1. Choose one festival. 2. Ask the five interview questions. 3. Write short answers in the book.",
      "say": "Ask: What was the best part of the festival when you were a child? What did you eat? What did you wear? What did your family do? What has changed since then?",
-     "kid": "Ask five questions. Write short answers. What has changed since then?",
+     "kid": "Ask the five questions. Write short answers.",
      "context": "This is day 1 of the Family Festival Book project. You interview an older person about a festival."
     },
     {
@@ -1492,9 +1492,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "Draw the food, the festival clothes and one custom. Add a cover.",
-     "say": "Draw the food, the clothes and one custom. Give your book a title.",
-     "kid": "Draw the food, the clothes and a custom. Make a cover.",
+     "do": "Add the food, the festival clothes and one custom to the book. Draw them, paste a photo, or write about them. Add a cover.",
+     "say": "Show the food, the clothes and one custom in your book. Give it a title.",
+     "kid": "Show the food, the clothes and a custom. Make a cover.",
      "wait": "Do this on day 3.",
      "ask": [
       {
@@ -1524,6 +1524,7 @@
    "id": "c1",
    "title": "Build a Mela Stall That Stands Up",
    "mins": 35,
+   "context": "You will build a small mela stall from newspaper and find out what keeps it standing when wind blows.",
    "problem": "Build a model mela stall that stands on its own, has a roof, and does not fall over when the fan is on.",
    "constraints": [
     "Use only newspaper, string or thread, cello tape, ice-cream sticks and a cloth or paper roof.",
@@ -1548,14 +1549,14 @@
     "Cut small slits in the cloth roof so the wind passes through.",
     "Make the roof slope, so the wind slides over it."
    ],
-   "your_turn": "Now design your own stall. Draw it first, then build it and test it with the fan.",
+   "your_turn": "Now design your own stall. Plan it first by drawing or telling, then build it and test it with the fan.",
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "Look at the problem. Draw two ideas.",
-     "say": "A real stall is bamboo, rope and cloth. Our poles will be rolled newspaper. Draw two ideas before you build.",
-     "kid": "Draw two ideas for your stall. How will it stand up?",
+     "do": "Look at the problem. Draw two ideas, or tell them to your grown-up.",
+     "say": "A real stall is bamboo, rope and cloth. Our poles will be rolled newspaper. Think of two ideas before you build.",
+     "kid": "Draw or tell two ideas for your stall. How will it stand up?",
      "context": "This is an engineering challenge. You build a model mela stall that stands up in the wind."
     },
     {
@@ -1599,6 +1600,7 @@
    "id": "c2",
    "title": "A Secret Festival Greeting",
    "mins": 30,
+   "context": "You will write a greeting that nobody can see, then make it appear with turmeric water.",
    "problem": "Write a festival greeting that cannot be seen until someone brushes turmeric water over it, and then it appears in red.",
    "constraints": [
     "Use only kitchen things.",
@@ -1643,8 +1645,8 @@
      "id": "s3",
      "mins": 10,
      "do": "Brush the turmeric water over the whole page in one smooth layer. Watch the letters.",
-     "say": "Brush gently over the whole page. Watch the letters appear. Why are they red and the rest yellow?",
-     "kid": "Brush turmeric over the page. Watch! Why are the letters red?",
+     "say": "Brush gently over the whole page. Watch the letters appear.",
+     "kid": "Brush turmeric over the page. Watch the letters appear.",
      "ask": [
       {
        "q": "Why are the letters red and the rest of the page yellow?",

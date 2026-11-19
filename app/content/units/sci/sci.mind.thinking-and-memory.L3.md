@@ -250,21 +250,21 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - **s4 (2 min)**  
   *Parent does:* Compare the two rounds on the score sheet.  
   *Parent says:* Which round scored more? Why do you think that happened?  
-  *Child mode:* Which round did better? Why?
+  *Child mode:* Add up the points for each round. Which round has more?
 
 ## Experiments
 ### e1 · The Story Trick: does a story help you remember a list? (35 min, 2 days)
 - **question:** If you make a list of words into a story, do you remember more of them than if you just repeat them?
 - **predict:** You will learn one list by saying each word again and again, and the other by making up a story. Which list will you remember better tomorrow? Why do you think so?
 - **fair test:** Both lists have ten words for everyday things in a home. Each word gets the same time, 10 seconds. After each list, you count backwards from 20 to 1, so you cannot keep repeating the words. Only the way of learning changes. You test both lists the next day too, at the same time, without looking. The two lists have different words. So if a second person also tries, they do it the other way round: they make a story for list A and repeat list B. One child's result is a first clue, not proof.
-- **record:** Fill in the table. Then draw two bars for the next day: one for list A and one for list B. Write one sentence about what you found.
+- **record:** Fill in the table. Then show the next-day scores as two bars, one for list A and one for list B. Draw them, or make two stacks of coins, one coin for each word. Write one sentence about what you found.
 - **results table:** List | How I learned it | My guess: how many I will remember tomorrow | Words remembered straight away (out of 10) | Words remembered the next day (out of 10)
 - **schedule:** day 1: Guess first. Learn list A by repeating each word, and list B by making a story. Test both lists straight away. (25 min); day 2: At the same time of day, without warning and without looking, say all the words you remember from both lists. (10 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Read the question aloud. 2. Ask for a guess and a reason. 3. Write the guess in the table.  
-  *Parent says:* I am going to read you two lists of ten words. One you will repeat, and one you will turn into a story. Which list will you remember better tomorrow? Why do you think so?  
-  *Child mode:* You will hear two lists of words. You repeat one and make a story with the other. Which will you remember better tomorrow? Why?
-  - Ask: Why do you think the list you chose will stay longer? (good: Because saying a word many times puts it in my head.; Because a story is easier to remember than separate words.; Because the story joins the words together.)
+  *Parent says:* I am going to read you two lists of ten words. One you will repeat, and one you will turn into a story. Which way will help you remember more words tomorrow, repeating or the story? Why do you think so?  
+  *Child mode:* Make a guess. Will repeating or the story help you remember more tomorrow?
+  - Ask: Why do you think that way will work better? (good: Because saying a word many times puts it in my head.; Because a story is easier to remember than separate words.; Because the story joins the words together.)
   - Note: Do not say what you think will happen. Any guess with a reason is a good start. The guess shows what your child thinks memory is.
 - **s2 (5 min)**  
   *Parent does:* 1. Read list A aloud, one word every 10 seconds. 2. After each word, your child says it aloud again and again until the next word. 3. Do not show the list.  
@@ -318,10 +318,10 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess about the other hand, and a reason.  
   *Parent says:* Now you will use your other hand. How long do you think it will take? Will you get faster if you keep trying? Why?  
-  *Child mode:* Now your other hand. How long will it take? Will you get faster? Why?
+  *Child mode:* Guess how many seconds it will take. Will you get faster?
 - **s3 (7 min)**  
   *Parent does:* 1. Time four tries with the other hand, one row each. 2. After each try, write the time. 3. Count the numbers that touch or cross the box lines.  
-  *Parent says:* Off you go with your other hand. Take your time. I will write down the time. Now let's count how many went outside the boxes.  
+  *Parent says:* Off you go with your other hand. Write each number inside its box. I will write down the time. Now let's count how many went outside the boxes.  
   *Child mode:* Write 1 to 10 with your other hand. Then count numbers outside the boxes.
   - Note: The first try is often two or three times slower than the usual hand, and wobbly. Do not let your child switch hands halfway. Praise the effort, not the speed. If the hand aches, rest it.
 - **s4 (8 min)**  
@@ -331,9 +331,9 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   - Note: Often the first try of a new day is about as good as, or better than, the last try the day before. Sleep helps the brain keep what it practised.
   - Wait: Do this the next day.
 - **s5 (6 min)**  
-  *Parent does:* 1. On day 3, do three more timed tries. 2. Help your child draw a line graph of all ten times.  
+  *Parent does:* 1. On day 3, do three more timed tries. 2. Help your child make a line graph of all ten times. They can draw it, or lay the ten times out in a row and point to where the numbers fall.  
   *Parent says:* This is the last day. Three more tries. Then let's draw a graph of all your times, from the first try to the tenth.  
-  *Child mode:* Do three last tries. Then draw a line graph of your times.
+  *Child mode:* Do three last tries. Then make a line graph of your ten times.
   - Wait: Do this on day 3.
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write what they think, what they saw, and why.  
@@ -345,12 +345,12 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - **question:** Can you remember more letters when they make words than when they are jumbled?
 - **predict:** The grown-up will read 12 letters in a jumble, then the same 12 letters as four words. How many will you get right each time? Why do you think so?
 - **fair test:** Both rounds use the same 12 letters. The grown-up reads one letter each second. You say them back straight after, in order. Only the order of the letters changes. Do two jumble rounds and two word rounds with different letters, so one lucky round does not fool you.
-- **record:** Fill in the table. Draw a bar for each round.
+- **record:** Fill in the table. Show each round as a bar. Draw it, or lay out one coin for every letter you got right.
 - **results table:** Round | Jumble or words? | Letters right, in the right place (out of 12)
 - **s1 (3 min)**  
   *Parent does:* Explain the test and ask for a guess with a reason.  
   *Parent says:* I will read 12 letters, one each second. You say them back in the same order. First in a jumble, then the same letters as words. Which will be easier? Why?  
-  *Child mode:* Listen to 12 letters. Say them back in order. Jumble first, then words. Which is easier? Why?
+  *Child mode:* Guess which will be easier to say back, the jumble or the words. Why?
 - **s2 (5 min)**  
   *Parent does:* 1. Read the set 1 jumble aloud, one letter each second: N, U, P, G, S, O, C, E, P, D, N, U. 2. Your child says them back in order straight away. 3. Count how many are right and in the right place.  
   *Parent says:* Ready? Listen to all twelve, then say them back. N. U. P. G. S. O. C. E. P. D. N. U. Your turn.  
@@ -383,12 +383,12 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   - Note: Most children answer yesterday's breakfast, a friend's name and the birthday easily. Last month's breakfast and last week's clothes are usually impossible. Tying a shoelace is easy to do but hard to explain in words.
 - **s2 (4 min)**  
   *Parent does:* 1. Sort the answers into easy, hard and impossible. 2. Ask what the easy ones have in common.  
-  *Parent says:* Let's sort them. Which were easy, which were hard, and which were impossible? Why do you think your brain kept some and let others go?  
-  *Child mode:* Sort them: easy, hard, impossible. Why did your brain keep some?
+  *Parent says:* Let's sort them. Which were easy, which were hard, and which were impossible?  
+  *Child mode:* Sort your answers into easy, hard and impossible.
   - Ask: Why do you remember your birthday but not an ordinary lunch? (good: Because the birthday was special and I felt happy.; Because we talked about it and saw photos.; Because every lunch is nearly the same.)
   - Think: Tying a shoelace was easy to do but hard to explain. Is that a different kind of memory?
 ### a2 · Your Brain in Your Hands: how big and how heavy? (10 min)
-- **record:** Draw your two fists together and write: my brain is about this big.
+- **record:** Take a photo of your two fists together, or draw them. Write: my brain is about this big.
 - **s1 (4 min)**  
   *Parent does:* 1. Ask your child to make two fists and put them together, knuckles touching. 2. Ask them to hold their fists up beside their head.  
   *Parent says:* Make two fists and put them together like this. Your brain is about this big. It sits inside your skull, behind your forehead and eyes, and all the way to the back of your head.  
@@ -396,11 +396,11 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   - Note: Two fists together is a common rough guide. By about age 6, a child's brain is already about 90% of its grown-up size. The head keeps growing a little, but after that the brain grows mostly by making links, not by getting bigger.
 - **s2 (6 min)**  
   *Parent does:* 1. Put the full one-litre bottle and the small bottle in the cloth bag. 2. Let your child lift it. 3. Ask how it feels.  
-  *Parent says:* A grown-up's brain weighs about 1.3 kilograms. This bag is about that heavy. Lift it. Your brain uses about a fifth of the energy from all your food. Why do you think it needs so much?  
-  *Child mode:* Lift the bag. A grown-up's brain is this heavy. Why does it need so much food?
+  *Parent says:* A grown-up's brain weighs about 1.3 kilograms. This bag is about that heavy. Lift it. How does it feel? A brain is small, but it uses a lot of the energy from your food. Why do you think it needs so much?  
+  *Child mode:* Lift the bag. A grown-up's brain is about this heavy.
   - Check: A brain is about 2% of the body's weight. How much of the body's energy does it use? → **About a fifth**
 ### a3 · Make a Neuron from Dough (15 min)
-- **record:** Draw your neuron and label the middle, the branches, the tail and the gap.
+- **record:** Point to the middle, the branches, the tail and the gap on your model, and say what each one does. You can also draw it and label the parts.
 - **s1 (8 min)**  
   *Parent does:* 1. Roll a ball of dough for the middle of the neuron. 2. Add five or six short thin branches on one side. 3. Add one long thin tail on the other side. 4. Make a second neuron the same way.  
   *Parent says:* A neuron is a nerve cell. It has a round middle, short branches that receive messages, and one long tail that sends them on. Let's make two.  
@@ -408,12 +408,12 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   - Note: Real neurons are far too small to see without a microscope. The long tail is called the axon, and the branches are called dendrites. You do not need these words yet.
 - **s2 (7 min)**  
   *Parent does:* 1. Lay the tail of the first neuron near a branch of the second, with a tiny gap. 2. Drop a few rava grains into the gap. 3. Explain what they stand for.  
-  *Parent says:* The two neurons do not quite touch. There is a tiny gap called a synapse. The message runs down the tail as electricity. Then it crosses the gap as chemicals, like these grains. What do you think happens if this gap is used again and again?  
+  *Parent says:* The two neurons do not quite touch. There is a tiny gap called a synapse. The message runs down the tail as electricity. Then it crosses the gap as chemicals, like these grains.  
   *Child mode:* Leave a tiny gap. Drop grains in the gap. That is the message crossing!
   - Ask: What might happen to a synapse that is used many times? (good: It gets stronger.; The message crosses more easily.; It gets faster.)
   - Note: Each real neuron has synapses with thousands of others. When a synapse is used again and again, the message crosses it more easily. That is one way the brain learns.
 ### a4 · The Path in the Flour: a model of practice (10 min)
-- **record:** Draw the plate after tapping. Write which line stayed and why.
+- **record:** Take a photo of the plate after tapping, or draw it. Write which line stayed and why.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the plate on the newspaper. Spread the flour evenly, about 1 cm deep. 2. With one finger, draw line A from one side to the other, once, lightly. 3. Draw line B the same way. Then go over it nine more times, pressing a little deeper each time. On the tenth go, your finger should reach the plate.  
   *Parent says:* Draw line A once, lightly. Now draw line B, and go over the same line again and again, ten times in all, a little deeper each time. Count with me.  
@@ -429,7 +429,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Child mode:* Line B was used more. It lasted longer. Brain paths are like that too.
   - Check: In the model, what does tracing line B ten times stand for? → **Practising something many times**
 ### a5 · A Memory Walk Through Your Home (15 min)
-- **record:** Draw a map of your memory walk with the ten places numbered.
+- **record:** Write your ten places as a numbered list. You can also draw a map of the walk.
 - **s1 (4 min)**  
   *Parent does:* 1. Walk through the flat with your child. 2. Choose ten places in order. For example: front door, shoe rack, sofa, TV, dining table, sink, fridge, bucket, bed, window. 3. Walk past them twice, in the same order.  
   *Parent says:* This trick is more than two thousand years old. First we choose ten places in our home, in order. Let's walk them together, twice.  
@@ -451,7 +451,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 - **s1 (3 min)**  
   *Parent does:* Tell your child about Mary Calkins, then explain the test.  
   *Parent says:* Mary Calkins was an American scientist. In the 1890s she invented this test. Harvard University refused to give her a degree because she was a woman. I will show you a colour and say a number. Later I will show the colour again, and you say the number.  
-  *Child mode:* I show a colour and say a number. Later, you say the number!
+  *Child mode:* A grown-up shows a colour and says a number. Later, you say the number for each colour.
   - Note: Calkins did all the work for a doctorate at Harvard in 1895, and her examiners praised it highly, but Harvard refused to give women degrees. She later led two of America's biggest groups of psychologists and philosophers. Her paired test is still used in memory research.
 - **s2 (6 min)**  
   *Parent does:* 1. Show each crayon for about 3 seconds while saying a two-digit number. 2. Show two of the colours three times each, spread through the list, always with the same number. 3. Show the others once. 4. Write down every pair.  
@@ -468,7 +468,7 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
 ## Projects
 ### p1 · My 7-Day Practice Diary (90 min, 7 days)
 - **safety:** Choose a safe skill. Skipping and ball skills need clear space away from furniture, glass and stairs.
-- **record:** Each day, write the date, your number, and one sentence about how it felt. On day 7, draw a line graph.
+- **record:** Each day, write the date, your number, and one sentence about how it felt. On day 7, make a line graph. Draw it, or write your seven numbers in a row and mark the biggest jump.
 - **schedule:** day 1: Choose a skill. Decide what number you will measure. Do it once and write down the number. Then practise for ten minutes. (15 min); day 2: Measure first, then practise for ten minutes. (12 min); day 3: Measure first, then practise. (12 min); day 4: Measure first, then practise. (12 min); day 5: Measure first, then practise. (12 min); day 6: Measure first, then practise. (12 min); day 7: Measure, then draw a graph of all seven days and write what changed. (15 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Help your child choose one skill they cannot yet do well. 2. Choose a number to measure each day. 3. Measure it once. 4. Practise for ten minutes.  
@@ -483,15 +483,15 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   - Wait: Do this every day, from day 2 to day 6.
 - **s3 (15 min)**  
   *Parent does:* On day 7, measure one last time, draw a line graph, and talk about it.  
-  *Parent says:* Let's draw a graph of all seven days. What changed? Your arms and legs are the same as last week. So what changed?  
-  *Child mode:* Draw your seven numbers as a line. What changed? Where?
+  *Parent says:* Let's make a graph of all seven days. You can draw it, or write the seven numbers in a row. What changed? Your arms and legs are the same as last week. So what changed?  
+  *Child mode:* Make a line graph of your seven numbers. What changed?
   - Check: After seven days of practice, a child could skip 40 times instead of 8. What changed most? → **The links in the child's brain for skipping got stronger**
   - Wait: Do this on day 7.
 
 ## Challenges
 ### c1 · Help Thatha Remember (25 min)
 - **problem:** Thatha, a grandfather, keeps forgetting whether he has taken his evening tablet. Design a reminder that helps him know, every evening, whether he has already done it.
-- **your turn:** Now design your own reminder. Draw it, make a model, and test it with a pretend task, such as drinking a glass of water at 7 o'clock. Keep using it for three days if you like.
+- **your turn:** Now design your own reminder. Tell your idea, make a model, and test it with a pretend task, such as drinking a glass of water at 7 o'clock. Keep using it for three days if you like.
 - **constraints:** Use only paper, cardboard, pens, clips and things from home.; It must show clearly whether today's tablet is done.; It must be easy to use with one hand.; You never touch the real tablets. A grown-up handles medicines.
 - **general:** A pill box with one space for each day of the week, so an empty space shows the tablet is taken.; A chart on the wall with a tick for each day.; An alarm on a phone at the same time every evening.
 - **creative:** A clothes peg that moves along a strip of the seven days each time the tablet is taken.; A card hung on the door handle, with 'done' on one side and 'not yet' on the other.; Linking the tablet to something Thatha already does every evening, like watching the 7 o'clock news, so the old habit reminds him of the tablet.
@@ -500,9 +500,9 @@ So Kavya sat him down on the step, put down seven rows of dots, and showed him t
   *Parent says:* Why is it hard to remember whether you did something today? Every evening is nearly the same, so the memories mix together.  
   *Child mode:* Why is it hard to remember? Every evening looks the same!
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* 1. Draw two ideas. 2. Choose one and build a model from cardboard and pegs.  
-  *Parent says:* Draw two ideas. Then choose one and build it. Your reminder must show at a glance whether today is done.  
-  *Child mode:* Draw two ideas. Build one. Can you tell at a glance?
+  *Parent does:* 1. Ask your child to tell you two ideas, or draw them. 2. Choose one and build a model from cardboard and pegs.  
+  *Parent says:* Tell me two ideas for a reminder. Then choose one and build it. Your reminder must show at a glance whether today is done.  
+  *Child mode:* Think of two ideas. Build one. Can you tell at a glance?
   - Note: A grown-up helps with scissors. Your child should test the model with a pretend task, such as drinking a glass of water at 7 o'clock, never with real medicines.
 - **s3 (5 min)**  
   *Parent does:* Read the usual and creative ideas, then improve the design.  

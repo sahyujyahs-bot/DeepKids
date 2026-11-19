@@ -276,8 +276,8 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   *Child mode:* Lay out the sunrise line. Deal 3 cards each. Places in the east see the Sun first. Let's put them in order.
 - **s2 (3 min)**  
   *Parent does:* Practise with two cards: Dong and Bhuj. Ask which goes first on the line.  
-  *Parent says:* Here are Dong, in Arunachal Pradesh, and Bhuj, in Kutch. Which one sees the Sun first?  
-  *Child mode:* Practice round. Dong is in the far east of India. Bhuj is in the far west. Who sees the Sun first?
+  *Parent says:* Here are Dong, in Arunachal Pradesh, and Bhuj, in Kutch. Let's practise with these two.  
+  *Child mode:* Practice round. Dong is in the far east of India. Bhuj is in the far west.
   - Check: Who sees the sunrise first, Dong in the east or Bhuj in the west? → **Dong, in the east**
 - **s3 (9 min)**  
   *Parent does:* 1. Take turns placing cards on the line. 2. Check any doubted card on a map or globe. 3. Give one paper sun to the player of each right card. 4. After every third card, turn over a SPIN CARD.  
@@ -314,11 +314,11 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **s3 (3 min)**  
   *Parent does:* Let the ring turn once all the way round. Count how many 'Sunrise!' calls each player makes.  
   *Parent says:* Let's go all the way round once. How many sunrises did each of you get?  
-  *Child mode:* Go all the way round once. How many sunrises did you get?
+  *Child mode:* Go all the way round once. Count your sunrises.
   - Ask: One full turn of the ring gave each of you how many sunrises? What is that like on the real Earth? (good: One. One full spin of the Earth gives one day and one night.; One sunrise each turn, and one turn of the Earth takes about 24 hours.)
 - **s4 (2 min)**  
-  *Parent does:* Tell your child that the Earth also travels round the Sun. Then ask what would happen if the ring stopped turning.  
-  *Parent says:* The real Earth also travels slowly round the Sun once a year. It spins about 365 times on that journey. In the activity Be the Earth, you will try turning and travelling at the same time.  
+  *Parent does:* Tell your child that the Earth also travels round the Sun.  
+  *Parent says:* The real Earth also travels slowly round the Sun once a year. It spins about 365 times on that journey.  
   *Child mode:* The Earth also goes round the Sun, once a year. It spins about 365 times on the way.
   - Note: They would stay facing away from the Sun, so it would stay night for them. The players facing the Sun would have day for ever. This is why the spin matters: it keeps carrying every place into the light and out again.
   - Think: If the ring stopped turning, what would happen to the players on the night side?
@@ -329,22 +329,22 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **predict:** Before you start, guess. Put three stickers on the ball for Dong, your home and Bhuj. Which sticker will come into the light first when you turn the ball, Dong in the east or Bhuj in the west? Why do you think so?
 - **fair test:** To make it fair, keep the torch still in one place the whole time. Only the ball moves. Turn it the same slow way each time, from west to east. Try it 3 times, because one try can be a mistake.
 - **safety:** A grown-up pushes the pencil or needle through the fruit.
-- **record:** Fill in the table for 3 tries. Then draw the ball and the torch, and shade the night half.
+- **record:** Fill in the table for 3 tries. Then take a photo of the ball lit by the torch. Or draw the ball and shade the night half.
 - **results table:** Try | First sticker into the light | Second sticker | Last sticker | How much of the ball was lit (about half? more? less?)
 - **s1 (3 min)**  
   *Parent does:* Ask your child where the Sun goes at night. Write down their answer, without correcting it.  
   *Parent says:* Where do you think the Sun goes at night? Tell me your idea. I'll write it down, and we'll test it.  
-  *Child mode:* Where does the Sun go at night? Say your idea. Write it down. We will test it.
+  *Child mode:* Tell your grown-up your idea about where the Sun goes at night. It will be written down, and then we test it.
   - Note: All answers are welcome. Many children say the Sun goes behind the hills, into the sea, or to sleep. Keep their answer. They will check it themselves at the end.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Push the pencil through the fruit, from top to bottom. 2. Tell your child the top is the North Pole. 3. Stick three dots in a row a little above the middle, about one finger-width apart. As you look at it, put Dong on the right, home in the middle and Bhuj on the left.  
   *Parent says:* This ball is the Earth. The pencil is its axis, the line it spins around. The top is the North Pole. These dots are three places in India.  
-  *Child mode:* This ball is the Earth. The pencil is its axis. The top is the North Pole. Stick on three dots for three places.
+  *Child mode:* Stick on three dots for three places: Dong, your home and Bhuj.
   - Note: Seen from the front, with the North Pole on top, east is to the right on the ball. So Dong goes to the right of Bhuj, with your home in between. India is north of the equator, so the dots go a little above the middle. The real places are much further apart than this, but a ball this small needs the dots close together.
 - **s3 (4 min)**  
   *Parent does:* 1. Make the room dark. 2. Put the torch on a pile of books, shining at the ball. 3. Hold the ball still by its pencil, about an arm's length from the torch. 4. Sit beside the ball so the torch shines on it from your right side.  
-  *Parent says:* The torch is the Sun. Look at the ball. How much of it is lit up?  
-  *Child mode:* Turn off the lights. Shine the torch at the ball. How much of the ball is bright?
+  *Parent says:* The torch is the Sun. Look carefully at the ball.  
+  *Child mode:* Turn off the lights. Shine the torch at the ball. Look at which part is bright.
   - Ask: How much of the ball is lit? (good: About half.; The side facing the torch is bright, and the back is dark.)
   - Check: The torch shines at the ball. How much of the ball is lit? → **About half, the side facing the torch**
 - **s4 (6 min)**  
@@ -355,7 +355,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **s5 (3 min)**  
   *Parent does:* Keep turning until Dong has gone round the back of the ball into the dark, while Bhuj is still in the light. Lean over to look round the back.  
   *Parent says:* Look. Here it is already night in Dong, but still evening in Bhuj. Did the torch move at all?  
-  *Child mode:* Keep turning. Look round the back of the ball. Is Dong in the dark while Bhuj is still in the light? Did the torch move?
+  *Child mode:* Keep turning until Dong is in the dark. Look round the back of the ball. Is Bhuj still in the light?
   - Check: In the experiment, what made the dots go from day into night? → **The ball turning**
   - Think: Right now, is somebody on the real Earth just going into the night?
 - **s6 (4 min)**  
@@ -368,7 +368,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **predict:** Before you start, guess. Will the shadow be longest in the morning, at noon or in the afternoon? Which way will it move? Why do you think so?
 - **fair test:** To make it fair, the stick must not move all day. Mark the shadow from the same stick at the same spot each time. Mark it every hour, on the hour, by the clock.
 - **safety:** Never look straight at the Sun, not even for a moment. Look only at the shadow.
-- **record:** Fill in the table. Draw a line from the stick to each mark. Then draw a line chart of shadow length against clock time.
+- **record:** Fill in the table. Then draw a line chart of shadow length against clock time, or lay the measured shadows side by side and take a photo.
 - **results table:** Clock time | Length of the shadow (cm) | Which way it points
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. In the morning, find the spot that gets the most sun: a balcony, a terrace or a sunny window sill. 2. Stand the stick straight up in the pot. 3. Put the paper under it, and weigh the corners down with books or steel tumblers.  
@@ -383,8 +383,8 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   - Wait: Come back every hour until about 4 in the afternoon.
 - **s3 (4 min)**  
   *Parent does:* Look at all the marks together.  
-  *Parent says:* Look at all the crosses. When was the shadow longest? When was it shortest? Which way did it move?  
-  *Child mode:* Look at all your crosses. When was the shadow longest? When was it shortest? Which way did it swing?
+  *Parent says:* Look at all the crosses. When was the shadow longest? Which way did it move?  
+  *Child mode:* Look at all your crosses. When was the shadow longest? Which way did it swing?
   - Ask: Why was the shadow short around noon? (good: Because the Sun was high in the sky.; Because the light came from above, so the stick blocked only a little.)
   - Check: In the shadow stick experiment, when was the shadow shortest? → **Around noon**
 - **s4 (3 min)**  
@@ -402,22 +402,22 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **predict:** Before you start, guess. When we turn the stool, will the pendulum's swing turn with it, or stay the same? Why do you think so?
 - **fair test:** To make it fair, start the swing along the chalk line every time. Turn the stool very slowly and smoothly, so you do not shake the string. Try it 3 times.
 - **safety:** Tie the weight on tightly. Keep faces away from the swinging weight.
-- **record:** Draw the stool from above, with the chalk line, at the start and at the end. Draw an arrow for the swing each time.
+- **record:** Take a photo of the stool from above, with the chalk line, at the start and at the end. Or draw it, with an arrow for the swing each time.
 - **results table:** Try | Did the swing stay the same way, or turn with the stool? | Where the swing was at the end, compared with the chalk line
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Tie the weight to the string. 2. Tie the other end to a broom handle laid across the backs of two chairs. Wind the extra string round the handle until the weight hangs about 2 cm above the stool or plate. 3. Draw a chalk line across the middle of the stool or plate.  
+  *Parent does:* 1. Tie the weight to the string. 2. Tie the other end to a broom handle laid across the backs of two chairs. Wind the extra string round the handle until the weight hangs about 2 cm above the stool or plate. 3. Mark a chalk line across the middle of the stool or plate.  
   *Parent says:* This is a pendulum, a weight on a string. Let's see what it does when the floor under it turns.  
-  *Child mode:* Tie the weight to the string. Hang it just above the stool. Draw a line across the stool.
+  *Child mode:* Tie the weight to the string. Hang it just above the stool. Mark a chalk line across the stool.
 - **s2 (6 min)**  
   *Parent does:* 1. Pull the weight back a hand-span to one end of the chalk line. Let it go gently, without pushing it sideways. 2. When it swings neatly along the line, turn the stool very slowly a quarter turn. 3. Do it 3 times.  
-  *Parent says:* Now I'll turn the stool very slowly. Watch the swing. Does it turn with the stool?  
+  *Parent says:* Now I'll turn the stool very slowly. Watch the swing.  
   *Child mode:* Let the weight swing along the line. Now turn the stool very slowly. Watch the swing closely.
   - Note: The swing may drift a little on its own, because the string twists. A quarter turn of the stool is far bigger than that drift, so you can still see the difference.
   - Check: When the stool turned, what did the pendulum's swing do? → **It kept swinging the same way, and the line turned under it**
 - **s3 (5 min)**  
   *Parent does:* Tell your child about Foucault's real pendulum in Paris.  
   *Parent says:* In 1851, Léon Foucault hung a heavy ball on a 67-metre wire in a great hall in Paris. Nobody turned the floor. But over the hours, the swing seemed to turn round the room. What was turning?  
-  *Child mode:* In 1851, Foucault hung a giant pendulum in Paris. Nobody turned the floor. But the swing seemed to turn. What was really turning?
+  *Child mode:* In 1851, Foucault hung a giant pendulum in Paris. Nobody turned the floor. But the swing seemed to turn.
   - Ask: In Paris, what was really turning? (good: The floor, because the whole Earth was turning.; The Earth turned under the pendulum, like our stool.)
   - Note: On the real Earth, the pendulum hangs from a fixed roof, and the floor under it turns with the planet. Your stool is a small copy of that. Here the stool turns, because we cannot turn the whole Earth.
 - **s4 (4 min)**  
@@ -428,7 +428,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 
 ## Activities
 ### a1 · Be the Earth (10 min)
-- **record:** Draw yourself as the Earth, with your face in the light and your back in the dark.
+- **record:** Ask your grown-up to take two photos: you facing the Sun, and you with your back to it. Or draw yourself as the Earth.
 - **s1 (2 min)**  
   *Parent does:* 1. Stand still in the middle of the room. You are the Sun. 2. Your child stands facing you, a few steps away.  
   *Parent says:* I am the Sun. I am going to stand very still. You are the Earth. Your nose is our home town.  
@@ -446,7 +446,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   - Think: Which takes longer, one spin or one trip round the Sun?
 ### a2 · The Train Window Trick (10 min)
 - **safety:** Never lean out of a moving vehicle.
-- **record:** Draw what you saw from the chair or the window, with arrows for which way things seemed to move.
+- **record:** Tell your grown-up which way things seemed to move. Or draw it, with arrows.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Your child sits on a swivel chair, looking straight ahead. 2. Turn the chair very slowly to the left.  
   *Parent says:* Keep your eyes looking straight ahead. Which way does the room seem to move?  
@@ -459,7 +459,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **s3 (3 min)**  
   *Parent does:* Later, on your next ride in a bus, car or train, remind your child to look out of the side window.  
   *Parent says:* Look out of the window. Are the trees running? Or are we?  
-  *Child mode:* On your next ride, look out of the window. Are the trees running away? Or are you moving?
+  *Child mode:* On your next ride, look out of the side window. What is really moving?
   - Note: The answer is no. We feel changes in speed, such as bumps, brakes and sharp turns. A perfectly smooth ride gives us nothing to feel. This is also why we cannot feel the Earth spin.
   - Think: If you could not see out, and the ride was perfectly smooth, would you know you were moving?
 ### a3 · Sunrise and Sunset Diary (20 min, 7 days)
@@ -467,9 +467,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **record:** A table with the date, sunrise time, sunset time and hours of daylight, for 7 days.
 - **schedule:** day 1: Set up the diary. Write today's sunrise and sunset times. (5 min); day 2: Write today's times. (2 min); day 3: Write today's times. Watch one sunset from a window, if you can. (3 min); day 4: Write today's times. (2 min); day 5: Write today's times. (2 min); day 6: Write today's times. (1 min); day 7: Write today's times. Work out how many hours of daylight you had. Look up the times for one city far to the east and one far to the west, and compare. (5 min)
 - **s1 (5 min)**  
-  *Parent does:* Help your child draw a table with 4 columns: date, sunrise, sunset, hours of light. Find today's times.  
+  *Parent does:* Help your child make a table with 4 columns: date, sunrise, sunset, hours of light. Find today's times.  
   *Parent says:* Every day this week, we'll write down when the Sun rises and sets here. Let's see if the times change.  
-  *Child mode:* Draw a table. Date, sunrise, sunset, hours of light. Write today's times. Do it every day this week.
+  *Child mode:* Make a table: date, sunrise, sunset, hours of light. Write today's times. Do it every day this week.
 - **s2 (10 min)**  
   *Parent does:* Each day, add the times. On day 3, watch a sunset together.  
   *Parent says:* Let's write today's times. Did sunrise come a little earlier or later than yesterday?  
@@ -499,27 +499,27 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   - Think: If you call a friend in New York at bedtime, what will they be doing?
 ### a5 · The Star Clock: stars turning round Dhruva Tara (15 min)
 - **safety:** On a terrace, stay well away from the edge, and go out at night with a grown-up.
-- **record:** One drawing with two sets of stars in two colours, and the rooftop or tree that stayed still.
+- **record:** Two photos, or one drawing with two sets of stars in two colours, and the rooftop or tree that stayed still.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. After dark, go out to a spot with a view north. 2. Find the Saptarishi, seven bright stars shaped like a big ladle. 3. Follow the two stars at the end of the ladle's cup to the Pole Star. 4. Draw them, with a rooftop or tree below. Write the time.  
-  *Parent says:* Those seven stars are the Saptarishi. The two at the end point to Dhruva Tara, the Pole Star. Let's draw them, and the rooftop.  
-  *Child mode:* Find the seven stars of the Saptarishi. The two end stars point to Dhruva Tara. Draw them. Draw a rooftop too.
+  *Parent does:* 1. After dark, go out to a spot with a view north. 2. Find the Saptarishi, seven bright stars shaped like a big ladle. 3. Follow the two stars at the end of the ladle's cup to the Pole Star. 4. Take a photo of them, with a rooftop or tree below, or draw them. Write the time.  
+  *Parent says:* Those seven stars are the Saptarishi. The two at the end point to Dhruva Tara, the Pole Star. Let's photograph or draw them with the rooftop, and write the time.  
+  *Child mode:* Find the seven stars of the Saptarishi. The two end stars point to Dhruva Tara. Take a photo of them with a rooftop, or draw them.
   - Note: The Saptarishi is easiest to see in the evening from about February to June. In other months, look for Cassiopeia, a W shape, on the other side of the Pole Star. In very southern India, the Pole Star is low, near the horizon. In a bright city only the brightest stars show. If you cannot find the Pole Star, draw any bright star beside a fixed rooftop edge instead, and see how it moves.
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* Two hours later, stand in exactly the same spot. Draw the stars again on the same paper, in a new colour.  
+  *Parent does:* Two hours later, stand in exactly the same spot. Take a second photo, or draw the stars again on the same paper in a new colour.  
   *Parent says:* Same spot, same rooftop. Have the stars moved?  
-  *Child mode:* Two hours later, stand in the same spot. Draw the stars again in a new colour. Have they moved?
+  *Child mode:* Two hours later, stand in the same spot. Take a second photo, or draw the stars again in a new colour. Have they moved?
   - Wait: Wait 2 hours between drawings.
 - **s3 (5 min)**  
   *Parent does:* Compare the two drawings. Look at what moved and what stayed still.  
-  *Parent says:* The rooftop stayed still. The Saptarishi swung round the Pole Star. But the Pole Star stayed put. Why?  
+  *Parent says:* The rooftop stayed still. The Saptarishi swung round the Pole Star. But the Pole Star stayed put.  
   *Child mode:* The rooftop did not move. The Saptarishi swung round. Did the Pole Star move?
   - Note: All the way round, one full circle. The Earth makes one full spin in about 24 hours, so the stars make one full circle too. In 2 hours, they go one twelfth of the way round.
   - Check: Why did the Saptarishi stars swing round the Pole Star? → **The Earth is turning, and the Pole Star is above the North Pole**
   - Think: In 24 hours, how far round would the Saptarishi go?
 ### a6 · See the Earth's Own Shadow (15 min)
 - **safety:** Never look straight at the Sun. Turn your back to it, and look east.
-- **record:** A drawing of the eastern sky after sunset, with the dark blue band and the pink band above it.
+- **record:** A photo or a drawing of the eastern sky after sunset, with the dark blue band and the pink band above it.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Just as the Sun sets, stand with your backs to it. Face east.  
   *Parent says:* The Sun is setting behind us. Let's look the other way, east, and watch the sky low down.  
@@ -531,9 +531,9 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
   - Ask: Why does the shadow band rise? (good: Because the Earth is turning us further into its own shadow.; Because our side is turning away from the Sun.)
   - Note: The pink band above the shadow is sometimes called the Belt of Venus. It is sunlight still lighting the high air. On hazy city evenings, it can be faint. A beach or open field helps. If the air is hazy, you may see only a soft darker patch, or nothing clear. Try another clear evening.
 - **s3 (4 min)**  
-  *Parent does:* Draw what you saw.  
-  *Parent says:* Let's draw it. Where is the Sun? Where is the shadow?  
-  *Child mode:* Draw the sky. Colour the shadow band blue and the band above it pink.
+  *Parent does:* Point and tell, or draw what you saw.  
+  *Parent says:* Show me with your hand. Where is the Sun? Where is the shadow?  
+  *Child mode:* Point to where the Sun is and where the shadow is. Or draw the sky, with a blue band and a pink band.
   - Check: What is the dark band low in the eastern sky just after sunset? → **The shadow of the Earth on the air**
 
 ## Projects
@@ -572,7 +572,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 ## Challenges
 ### c1 · Morning at the Midnight Sun (25 min)
 - **problem:** At Himadri, India's research station in Svalbard in the Arctic, the Sun does not set at all from about the middle of April to late August. The scientists still need to sleep about 8 hours and work in the day. Design something that tells them when it is 'night' and helps them sleep.
-- **your turn:** Now invent your own way. Draw it, make a model in a shoebox, and test it on your family for one evening. Did it help anyone feel sleepy?
+- **your turn:** Now invent your own way. Make a model in a shoebox, and test it on your family for one evening. Did it help anyone feel sleepy?
 - **constraints:** It cannot use the Sun to tell the time, because the Sun is up all day and all night.; It must help people's body clocks, not just tell the time.; Draw it, and make a small model from things at home.
 - **general:** Thick dark curtains, called blackout curtains, keep the bedroom dark.; Eye masks block light from your eyes.; Everyone agrees to follow one clock, and sticks to the same bedtime every day.; Keep the bedroom cool and quiet.
 - **creative:** A lamp that slowly turns orange and dim in the evening, like a sunset, and bright white in the morning.; A 'sunset song' that plays at bedtime, so the body learns the signal.; Grow a touch-me-not plant inside. The plant's leaves fold at their own 'night', like a living clock.; Astronauts on the space station see 16 sunsets a day. They use special lights that change colour to help their body clocks.
@@ -583,7 +583,7 @@ The next day, I woke at my Dong time. I waited in the dark, quietly, for about t
 - **s2 (5 min)**  
   *Parent does:* List three ideas together before building anything.  
   *Parent says:* Engineers think before they build. Let's list three ideas.  
-  *Child mode:* Think like an engineer. Draw three ideas before you build.
+  *Child mode:* Think like an engineer. Say three ideas before you build.
 - **s3 (10 min)**  
   *Parent does:* Build a shoebox model of the best idea, with a dark curtain or a coloured light.  
   *Parent says:* Let's build a little bedroom in a shoebox, and test if it can make a night inside.  

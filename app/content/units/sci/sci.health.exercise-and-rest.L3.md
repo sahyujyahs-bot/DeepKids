@@ -205,9 +205,9 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Parent says:* This board is one whole day and night, from waking up at 6 in the morning to the next morning. You need energy to get through the day. Let's see who has the most energy at bedtime.  
   *Child mode:* Put your counter on 6 a.m. Take 3 energy tokens. Mix up the cards. Can you reach bedtime with lots of energy?
 - **s2 (3 min)**  
-  *Parent does:* Play the card 'Does rest help a tired muscle recover?' as a practice round.  
-  *Parent says:* Practice card. Does rest help a tired muscle recover?  
-  *Child mode:* Practice card. Does rest help a tired muscle recover? Say your answer, then check the back of the card.
+  *Parent does:* Play one card as a practice round. Read it aloud, and check the answer on the back.  
+  *Parent says:* Let's try one card first, so you know how the game works.  
+  *Child mode:* Practice card. Say your answer, then turn the card over and check.
   - Check: Does rest help a tired muscle recover? → **Yes, blood refills it with what it needs**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns. 2. Do every PLAY, REST, YOGA, STRETCH and night square for real.  
@@ -217,7 +217,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - **s4 (4 min)**  
   *Parent does:* When everyone has reached the morning, each player says one thing the body does during sleep.  
   *Parent says:* Everyone has reached the morning. Tell me one thing your body or brain does while you sleep.  
-  *Child mode:* You reached the morning. Say one thing your body does while you sleep.
+  *Child mode:* You reached the morning! Think about the night squares you passed.
   - Ask: What does your body do while you sleep? (good: It grows, because growth hormone is released in deep sleep.; The brain dreams.; The brain sorts what I learned.; The discs in my back fill up, so I am taller in the morning.)
   - Note: A good answer: sleep is a busy part of the day, and not a gap in it. During the night your body grows and repairs itself, and your brain stores what you learned. So the night squares belong in the game.
   - Think: Squares 17 to 23 are the night. Why does the board go through the whole night, and not stop at bedtime?
@@ -246,7 +246,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - **predict:** Guess first. You will squeeze a peg for five rounds of 30 seconds with no break, then rest for two minutes, then do one more round. Will your count stay the same, go up or go down each round? What will happen after the rest? Why do you think so?
 - **fair test:** Use the same peg, the same hand and the same two fingers every round. Count only full squeezes, where the two handle ends of the peg touch. The same person times and counts every round. Then a grown-up does the whole test too, because one person's result can be a fluke.
 - **safety:** Plastic pegs can snap, and a spring can pinch. If the fingers really hurt, with a sharp pain rather than an ache, stop at once.
-- **record:** Fill in the table. Then draw one bar for each round, as tall as the number of squeezes.
+- **record:** Fill in the table. Then make one bar for each round, as tall as the number of squeezes. Draw it, or stack coins.
 - **results table:** Round | Rest before this round | Number of squeezes in 30 seconds | How my fingers feel
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the peg. 2. Show a full squeeze: pinch the two handle ends with the thumb and first finger until they touch. 3. Let your child try three squeezes.  
@@ -256,7 +256,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - **s2 (4 min)**  
   *Parent does:* 1. Explain the plan: five rounds of 30 seconds with no break, then two minutes of rest, then round 6. 2. Ask for a guess and a reason. 3. Write the guess at the top of the table.  
   *Parent says:* You will squeeze as fast as you can for 30 seconds, five rounds in a row with no break. Then you rest for two minutes. Then one more round. What do you think will happen to your count? Why?  
-  *Child mode:* You will squeeze for five rounds with no break. Then rest. Then one more round. What will happen to your count? Why do you think so?
+  *Child mode:* Get ready. You will squeeze for five rounds with no break. Then rest. Then one more round.
   - Ask: What do you think will happen to your count each round, and why? (good: It will go down, because my fingers will get tired.; It will go up, because I will get faster with practice.; After the rest it will go up again, because my fingers will have rested.)
   - Note: Any guess with a reason is good. Do not say what you expect. Write the guess down so you can compare it with the result.
 - **s3 (4 min)**  
@@ -280,16 +280,16 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Child mode:* Now you are the timer. Your grown-up squeezes. Count their squeezes. Is their pattern like yours?
   - Note: The grown-up's numbers may be bigger or smaller. What matters is the pattern: falling with no rest, then rising after the rest. If both of you show it, the result is less likely to be a fluke.
 - **s7 (5 min)**  
-  *Parent does:* 1. Your child draws a bar chart, one bar per round. 2. Then ask your child to say three things: what they think, what they saw, and why it happened.  
-  *Parent says:* Draw a bar for each round. Then tell me three things. What do you think now? What did you see? And why do you think it happened?  
-  *Child mode:* Draw a bar for each round. Then say three things: what you think, what you saw, and why it happened.
+  *Parent does:* 1. Your child shows each round as a bar: drawn, or a stack of coins with one coin for every 5 squeezes. 2. Then ask your child to say three things: what they think, what they saw, and why it happened.  
+  *Parent says:* Show me a bar for each round. Then tell me three things. What do you think now? What did you see? And why do you think it happened?  
+  *Child mode:* Make a bar for each round: draw it, or stack coins, one for every 5 squeezes. Then say three things: what you think, what you saw, and why it happened.
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a muscle gets tired when it works without a break, and rest brings its strength back. What I saw: my count went from 48 to 29 in five rounds, then up to 43 after resting. Why: the muscle used up its fuel, and while I rested my blood helped refill it. Now read the card 'What a working muscle uses up' together.
 ### e2 · Arm Up, Arm Down: does blood help a muscle keep going? (25 min)
 - **question:** Do your fingers tire faster when your hand is held up above your head, where less blood reaches it?
 - **predict:** Guess first. You will squeeze a peg for one minute with your arm hanging down. Later, after a long rest, you will squeeze for one minute with your arm held straight up. Which way will give more squeezes? Why do you think so?
 - **fair test:** Use the same peg, the same hand and the same counter both times. Rest 10 minutes between the two tests, so the fingers start fresh. Do the arm-down test first. Practice usually helps the second try, so if the arm-up count is still lower, practice cannot be the reason.
 - **safety:** Plastic pegs can snap, and a spring can pinch. If the fingers really hurt, with a sharp pain rather than an ache, stop at once.
-- **record:** Fill in the table, and draw two bars, one for each arm position.
+- **record:** Fill in the table, and make two bars, one for each arm position. Draw them, or stack coins.
 - **results table:** Arm position | Squeezes in the first 30 seconds | Squeezes in the second 30 seconds | Total | When did the ache start?
 - **s1 (4 min)**  
   *Parent does:* 1. Ask your child to hold one hand above the head for one minute, and the other hanging down. 2. Then look at the two hands side by side.  
@@ -342,7 +342,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - **s4 (3 min)**  
   *Parent does:* 1. Work out the difference. 2. Ask your child to say what they think, what they saw, and why it happened.  
   *Parent says:* How much taller or shorter were you this morning? Tell me what you think, what you saw, and why.  
-  *Child mode:* Take away the night number from the morning number. That is the difference. What do you think made it?
+  *Child mode:* Take away the night number from the morning number. That is the difference. Were you taller or shorter?
   - Check: Why are most people a little taller in the morning? → **The soft discs in the backbone soak up water while you lie down, and get squashed again during the day**
 
 ## Activities
@@ -356,7 +356,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - **s2 (2 min)**  
   *Parent does:* Ask the question, and wait for a guess with a reason.  
   *Parent says:* The bottle weighed the same all the time. So why did it feel heavier and heavier?  
-  *Child mode:* The bottle did not get heavier. So why did it feel heavier? What do you think?
+  *Child mode:* The bottle did not get heavier. Think about your arm. What was it doing all that time?
   - Ask: Why did the bottle feel heavier and heavier? (good: My arm muscles got tired.; The muscles were working without a rest.)
   - Note: Do not explain yet. Let your child guess. The Tired Peg experiment in this unit answers the question.
 - **s3 (3 min)**  
@@ -367,7 +367,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   - Think: After one minute of rest, some strength came back, but maybe not all of it. Where did it come back from?
 ### a2 · Three Poses and a Bee Breath: a short yoga session (15 min)
 - **safety:** Move slowly and stop if anything hurts. Never bounce in a stretch.
-- **record:** Write how many seconds you held tree pose on each leg, and draw yourself in your favourite pose.
+- **record:** Write how many seconds you held tree pose on each leg, and draw yourself in your favourite pose, or take a photo of it.
 - **s1 (3 min)**  
   *Parent does:* 1. Stand tall with feet together and arms by the sides. 2. Breathe slowly five times. This is mountain pose, tadasana.  
   *Parent says:* This is mountain pose. Stand tall like a mountain. Feel your feet pressing into the floor.  
@@ -408,7 +408,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - **s3 (7 min)**  
   *Parent does:* 1. On day 7, draw round a plate to make a big circle. 2. Mark 24 equal slices, one for each hour. 3. Think of yesterday. Colour the hours of sleep, school or study, play and meals in different colours.  
   *Parent says:* Let's draw one day as a circle. Each slice is one hour. Which colour takes up the most room?  
-  *Child mode:* Draw a big circle round a plate. Mark 24 slices, one for each hour. Colour your sleep hours blue. Colour your play hours green.
+  *Child mode:* Draw a big circle round a plate. Mark 24 slices, one for each hour. Colour your sleep hours blue. Colour your play hours green. Or make a ring of 24 buttons. Sort them into sleep, school, play and meals.
   - Note: To make 24 equal slices, draw a cross to make 4 quarters, then split each quarter into 3, then split each of those in half. Or mark a point every 15 degrees with a protractor.
 - **s4 (5 min)**  
   *Parent does:* Look across the week together and ask about the pattern.  
@@ -425,7 +425,7 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
 - **s2 (5 min)**  
   *Parent does:* Your child sorts the slips and explains each choice.  
   *Parent says:* Why did you put kabaddi there? Could it go in more than one bowl?  
-  *Child mode:* Sort all 12 slips. Some could go in two bowls. Which ones?
+  *Child mode:* Sort all 12 slips into the bowls. Tell your grown-up why you chose each bowl.
   - Ask: Which activities use more than one kind of exercise? (good: Kabaddi uses stamina, strength and stretch.; Bharatanatyam needs stamina, strength and flexibility.; Swimming builds stamina and strength.)
   - Note: There is no single right answer for many slips. A good answer explains what the body does: kabaddi needs running for a long time, holding and pulling, and bending low.
 - **s3 (6 min)**  
@@ -472,9 +472,9 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Child mode:* Practise tree pose on each leg. Then reach for your toes slowly. Hold for three breaths. Do it three times.
   - Wait: Practise every day for days 2 to 9, and test again on day 5 and day 10.
 - **s4 (10 min)**  
-  *Parent does:* 1. On day 10, test again. 2. Draw a bar chart of tree pose times on days 1, 5 and 10. 3. Ask your child to say what they think, what they saw, and why it happened.  
+  *Parent does:* 1. On day 10, test again. 2. Make a bar chart of tree pose times on days 1, 5 and 10: drawn, or a stack of coins for each day. 3. Ask your child to say what they think, what they saw, and why it happened.  
   *Parent says:* Did your times change? Tell me what you think, what you saw, and why.  
-  *Child mode:* Draw a bar for day 1, day 5 and day 10. Did you get steadier? Why do you think so?
+  *Child mode:* Make a bar for day 1, day 5 and day 10: draw it, or stack coins, one for every 5 seconds. Did you get steadier?
   - Note: Most children improve their tree pose time within ten days. The reach may change only a little. Both are real results. If nothing changed, ask your child what might help, such as practising at the same time every day.
   - Check: A child held tree pose for 12 seconds on day 1 and 40 seconds on day 10, after practising every day. What is the best explanation? → **The child's body and brain got better at the tiny corrections that keep the body balanced**
 
@@ -490,9 +490,9 @@ That night, Lakshmi went to bed at nine o'clock without being asked. Amma was so
   *Parent says:* It's been raining for a week. Plan a 10-minute workout for our flat, with no jumping.  
   *Child mode:* It has rained all week. Plan a 10-minute workout in a small space. No jumping. Include stamina, strength and stretch.
 - **s2 (10 min)**  
-  *Parent does:* Your child writes the plan: each move, how long, and the rests.  
-  *Parent says:* Write each move, how long it lasts, and where the rests go. Why do you need rests?  
-  *Child mode:* Write your moves. How long is each one? Put in rests. Why do you need them?
+  *Parent does:* Your child makes a card for each move and how long it lasts. Put the cards in order, with rest cards between.  
+  *Parent says:* Make a card for each move, and say how long it lasts. Where do the rests go?  
+  *Child mode:* Write each move on a card, with how long it lasts. Put the cards in order, with rests between.
   - Ask: Why put rests between the moves? (good: So the muscles can recover, as they did in the Tired Peg test.; So the blood can refill the muscles before the next move.)
 - **s3 (15 min)**  
   *Parent does:* Do the workout together, timed. Then talk about what to change.  

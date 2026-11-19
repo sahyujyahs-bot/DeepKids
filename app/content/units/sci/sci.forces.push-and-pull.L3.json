@@ -659,7 +659,7 @@
      "mins": 3,
      "do": "Play one practice round with the cards face up. Pick a 3 and a 1 for one side, and a 2 and a 2 for the other.",
      "say": "One side has a 3 and a 1. That makes 4. The other side has a 2 and a 2. That also makes 4. Which way does the rope go?",
-     "kid": "Practice round. One side has arrows 3 and 1. The other has 2 and 2. Which way does the rope go?",
+     "kid": "Practice round. One side has arrows 3 and 1. The other has 2 and 2. Add up each side.",
      "ask": [
       {
        "q": "Why doesn't the rope move?",
@@ -692,9 +692,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "After a few rounds, ask your child to draw the last round on paper, with one arrow for each team.",
-     "say": "Draw the last round on paper. Draw each team's total as one arrow. Make the arrow as many centimetres long as the total.",
-     "kid": "Draw the last round. Draw one arrow for each team. Make each arrow as long as its total, in centimetres.",
+     "do": "After a few rounds, ask your child to lay out the last round. Each team's arrow cards go end to end in a row.",
+     "say": "Lay out the last round. Put each team's arrow cards end to end in a row. Which row is longer?",
+     "kid": "Lay each team's arrow cards end to end in a row. Which row is longer, and by how much?",
      "think": "Two short arrows the same way can add up to more than one long arrow. Is there something at home that two people can push, but one cannot?",
      "parent": "Good answers: a heavy almirah, a sofa or a stuck cart. Two people's pushes add up to a bigger push than one person's."
     },
@@ -880,7 +880,7 @@
      "id": "s3",
      "mins": 4,
      "do": "When a BONUS card comes up, act it out with your whole body. Then decide: touching force, or force from far away?",
-     "say": "Nobody's hands make this force. Is it a touching force, or does it work from far away?",
+     "say": "Think about this force. Does something have to touch for it to work, or can it work from far away?",
      "kid": "A BONUS card! Act it out with your whole body. Then say: does this force touch, or work from far away?",
      "check": {
       "t": "mcq",
@@ -1671,7 +1671,7 @@
      "what": "Push the wall gently, medium and hard, 3 times each. Measure how far you slide each time."
     }
    ],
-   "record": "Fill in the table. Draw yourself pushing the wall, with one arrow for your push on the wall and one arrow for the wall's push on you.",
+   "record": "Fill in the table. Then draw yourself pushing the wall, with one arrow for your push on the wall and one for the wall's push on you. Or take a photo of your tape strips and tell your grown-up what each one shows.",
    "setup": [
     {
      "art": "A child sitting on a folded towel on a tiled floor, knees bent, both feet flat against a wall.",
@@ -1693,7 +1693,7 @@
      "adult": true,
      "do": "1. Clear a space on a smooth floor next to a wall. 2. Fold the towel and put it against the wall. 3. Your child sits on it, knees bent, feet flat on the wall.",
      "say": "You're going to push the wall with your feet. The wall is very heavy and fixed to the house. Do you think you'll move? Which way?",
-     "kid": "Fetch a grown-up. Sit on a towel by the wall. Put your feet flat on the wall. Will you move when you push?",
+     "kid": "Fetch a grown-up. Sit on a towel by the wall. Put your feet flat on the wall.",
      "ask": [
       {
        "q": "What do you think will happen when you push?",
@@ -1717,9 +1717,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Talk about what pushed your child.",
+     "do": "Ask your child what pushed them away from the wall. Let them answer before you say anything.",
      "say": "You pushed the wall, but you moved away from it. What pushed you?",
-     "kid": "You pushed the wall. But you moved away from it. What pushed you?",
+     "kid": "Think about what you did to the wall, and what happened to you.",
      "check": {
       "t": "mcq",
       "q": "You push a wall with your feet and slide away from it. What pushed you?",
@@ -1736,9 +1736,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Help your child draw two arrows of the same length. One goes on the wall, pointing into the wall. The other goes on your child, pointing away from the wall.",
-     "say": "Draw your push on the wall as an arrow. Now draw the wall's push on you. Should the arrows be the same length?",
-     "kid": "Draw an arrow for your push on the wall. Draw an arrow for the wall's push on you. Make them the same length.",
+     "do": "Help your child lay two strips of tape on the floor, the same length, pointing opposite ways. One strip is the push on the wall. The other is the wall's push on your child.",
+     "say": "This strip is your push on the wall. This strip is the wall's push on you. Should the two strips be the same length?",
+     "kid": "Lay a tape strip for your push on the wall. Lay another for the wall's push on you. Make them the same length.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: how far the child slid after pushing the wall",
@@ -1776,7 +1776,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: when I push the wall, the wall pushes me back. What I saw: my gentle push slid me about 30 cm, but my hard push slid me about 100 cm. Why: the harder I push the wall, the harder the wall pushes me."
     }
    ],
-   "context": "In this experiment, you sit on a towel on a smooth floor and push a wall with your feet. You find out whether the wall pushes you back.",
+   "context": "In this experiment, you sit on a towel on a smooth floor and push a wall with your feet. You will find out why you slide backwards, even though the wall does not move.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how far the child slid after pushing the wall",
@@ -1855,7 +1855,7 @@
      "what": "Build the balloon rocket. Test 3, 6 and 9 breaths, 3 times each. Measure how far it goes."
     }
    ],
-   "record": "Fill in the table. Draw the balloon with two arrows: one for the air pushed out backwards, and one for the push on the balloon.",
+   "record": "Fill in the table. Then draw the balloon with two arrows: one for the air pushed out backwards, and one for the push on the balloon. Or tell your grown-up where each push goes.",
    "setup": [
     {
      "art": "A long string threaded through a drinking straw and tied tightly between two chairs across a room.",
@@ -1884,7 +1884,7 @@
      "mins": 6,
      "do": "1. Tape the empty balloon under the straw, with its neck sticking out past the back of the straw. 2. Slide the straw to the chair at the start, so the neck points at that chair. 3. Blow 3 breaths of the same size into the balloon. 4. Pinch the neck shut. Do not tie it.",
      "say": "Three breaths only. Hold the neck shut. Which way will the air rush out? Which way will the balloon go? Why do you think so?",
-     "kid": "Tape the empty balloon under the straw. Blow 3 breaths. Pinch the neck. Which way will it go?",
+     "kid": "Tape the empty balloon under the straw. Blow 3 breaths. Pinch the neck shut.",
      "ask": [
       {
        "q": "Which way will the balloon go when you let go?",
@@ -1919,8 +1919,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Compare the three distances.",
-     "say": "Which went furthest? Why do you think more air made it go further?",
-     "kid": "Which balloon went furthest? Why do you think so?",
+     "say": "Which try went furthest: 3, 6 or 9 breaths? Why do you think so?",
+     "kid": "Look at your three distances. Which one is the biggest?",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: how far the balloon rocket went",
@@ -1958,7 +1958,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the balloon goes the opposite way to the air. What I saw: the air rushed out backwards and the balloon zoomed forwards. With 9 breaths it went much further than with 3. Why: the balloon pushes the air back, and the air pushes the balloon forward. More air means it pushes for longer."
     }
    ],
-   "context": "In this experiment, a balloon is taped under a straw that slides along a string. When the balloon lets its air out, you see which way it goes, and how far.",
+   "context": "In this experiment, a balloon is taped under a straw that slides along a string. You will find out which way a balloon goes when its air rushes out, and whether more air sends it further.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how far the balloon rocket went",
@@ -2025,7 +2025,7 @@
      "what": "Blow the ball from one side, then from two opposite sides, then from two sides next to each other. Draw the arrows."
     }
    ],
-   "record": "For each test, draw the tray from above. Draw an arrow for each blow and an arrow for the way the ball went.",
+   "record": "For each test, write which way you blew and which way the ball went. Then draw one tray from above for your favourite test, with an arrow for each blow and one for the ball. Or point and tell your grown-up.",
    "setup": [
     {
      "art": "A ping-pong ball in the middle of a flat tray, seen from above, with a straw at the bottom edge.",
@@ -2045,7 +2045,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Put the ball in the middle of the tray. 2. Your child blows through a straw from the bottom edge of the tray, about one hand-width from the ball.",
-     "say": "Blow through your straw from this side. Which way does the ball go? Draw an arrow for your blow and an arrow for the ball.",
+     "say": "Blow through your straw from this side. Which way does the ball go? Point your arm the way you blew, then the way the ball went.",
      "kid": "Put the ball in the middle. Blow through the straw from one side. Which way does the ball go?",
      "context": "This is the first step of the Blow the Ball experiment. You push a ping-pong ball with your breath from different directions."
     },
@@ -2054,7 +2054,7 @@
      "mins": 5,
      "do": "1. Put the ball back in the middle. 2. You and your child blow from opposite edges at the same moment, equally hard. 3. Then one of you blows harder.",
      "say": "Let's both blow from opposite sides, equally hard. What happens? Now I'll blow harder. Now what?",
-     "kid": "Two of you blow from opposite sides at the same moment, equally hard. What happens? Then one of you blows harder.",
+     "kid": "Blow from opposite sides at the same moment, equally hard. Watch the ball. Then one of you blows harder.",
      "check": {
       "t": "mcq",
       "q": "Two people blow on the ball from opposite sides, equally hard. What happens?",
@@ -2076,7 +2076,7 @@
      "kid": "One blow from the bottom. One from the side. Blow together. Which way does the ball go?",
      "ask": [
       {
-       "q": "Why did the ball go slantwise, towards the corner?",
+       "q": "Why did the ball go towards the corner, between the two blows?",
        "good": [
         "One blow pushed it up and the other pushed it sideways.",
         "The two pushes added up into a slanting push."
@@ -2088,9 +2088,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Look at all the arrow drawings together.",
-     "say": "Look at your arrows. Was the push ever pointing one way while the ball went another?",
-     "kid": "Look at your arrows. Did the ball always go where the pushes pointed?",
+     "do": "Look back over the three tests together, using the notes your child made.",
+     "say": "Look at your notes. Did the ball ever go a different way from the way you blew?",
+     "kid": "Look at your notes. Did the ball always go the way you blew?",
      "chart": {
       "type": "table",
       "title": "Made-up example results: where the ball went",
@@ -2232,7 +2232,7 @@
      "parent": "It depends on which way you move it. Pulling it out is a pull, and pushing it in is a push. The same drawer has both."
     }
    ],
-   "context": "This is a hunt for forces at home. It starts with a mystery bag of everyday things, and ends with a list of pushes and pulls from every room.",
+   "context": "This is a hunt for forces at home. It starts with a mystery bag of everyday things, and ends with a list of pushes and pulls from every room. You will find out whether your home has more pushes or more pulls.",
    "problem": "Every push and every pull is a force. You will pull things out of a mystery bag and use them, and then hunt around your home for 12 more pushes and pulls."
   },
   {
@@ -2270,7 +2270,7 @@
      "what": "Play three gentle rounds of tug of war. Try standing tall, then crouching low. Draw the arrows."
     }
    ],
-   "record": "Draw one round of the tug of war. Draw an arrow for each team's pull, and an arrow for the ground's push on each team's feet.",
+   "record": "Draw one round of the tug of war. Draw an arrow for each team's pull, and an arrow for the ground's push on each team's feet. Or take a photo of your tape arrows and tell your grown-up what each one shows.",
    "setup": [
     {
      "art": "A rope laid on a tiled floor with a ribbon tied in the middle and a strip of tape on the floor under the ribbon.",
@@ -2282,7 +2282,7 @@
     },
     {
      "art": "A drawing of the tug of war with two long arrows along the rope and two short arrows under the feet.",
-     "caption": "3. Draw the arrows."
+     "caption": "3. Lay out the arrows."
     }
    ],
    "flow": [
@@ -2301,7 +2301,7 @@
      "adult": true,
      "do": "1. Round 1: both of you stand tall and pull with your arms only. 2. Round 2: your child crouches low, leans back and digs their heels in. Keep your own pull the same.",
      "say": "First round, stand tall and pull with your arms. Second round, crouch low and push your heels into the floor. Which felt stronger? Why do you think so?",
-     "kid": "Round 1: stand tall, pull with your arms. Round 2: crouch low. Push your heels into the ground. Which was stronger?",
+     "kid": "Round 1: stand tall, pull with your arms. Round 2: crouch low. Push your heels into the ground.",
      "ask": [
       {
        "q": "Which way felt stronger, and why do you think so?",
@@ -2334,14 +2334,14 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Help your child draw the tug of war. For each person's pull on the rope, draw one arrow along the rope, pointing away from the middle. Draw one short arrow under each person's feet for the ground's push.",
-     "say": "Draw each pull as an arrow along the rope. Now, under each person, draw the ground pushing them back. Which way does that arrow point?",
-     "kid": "Draw each pull as an arrow on the rope. Under each person, draw the ground's push. Which way does it point?",
+     "do": "Help your child lay strips of tape on the floor as arrows. For each person's pull on the rope, lay one strip along the rope, pointing away from the middle. Lay one short strip under each person's feet for the ground's push.",
+     "say": "Lay a strip along the rope for each pull. Now, under each person, lay a strip for the ground's push. Which way should it point?",
+     "kid": "Lay a tape strip along the rope for each pull. Under each person, lay one for the ground's push. Which way does it point?",
      "think": "If the rope pulls both teams equally, what really decides who wins?",
      "parent": "The push of the ground. The team that pushes the ground harder with their feet gets the bigger push back from the ground, and wins."
     }
    ],
-   "context": "This is a gentle tug of war between a child and a grown-up. Afterwards, you draw it with force arrows, including the push of the ground.",
+   "context": "This is a gentle tug of war between a child and a grown-up. You will find out what helps you win, besides pulling harder. Afterwards, you show the forces with arrows, including the push of the ground.",
    "problem": "In a tug of war, the rope pulls both teams equally hard. So what decides who wins? You will play a gentle tug of war with a grown-up, and then draw it with arrows."
   },
   {
@@ -2378,7 +2378,7 @@
      "what": "Lay a ruler across two tins like a bridge, rest a book on it, and see how the ruler pushes up on the book."
     }
    ],
-   "record": "Draw the book on the ruler with two arrows: gravity pulling down and the ruler pushing up. Make them the same length.",
+   "record": "Draw the book on the ruler with two arrows of the same length: gravity pulling down and the ruler pushing up. Or tell your grown-up where each arrow would go.",
    "setup": [
     {
      "art": "A thin plastic ruler resting across the tops of two tins, like a little bridge.",
@@ -2440,9 +2440,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Your child draws the book with two arrows of the same length, one down and one up.",
-     "say": "Draw gravity pulling the book down. Draw the table pushing it up. Should the two arrows be the same length or different?",
-     "kid": "Draw gravity pulling down. Draw the table pushing up. Make them the same length. They balance!",
+     "do": "Your child holds the book flat on one open hand, keeping it still. Then they point down for gravity, and up for the push of the hand.",
+     "say": "Your hand is the table. Hold the book still. Point the way gravity pulls the book. Now point the way your hand pushes it. Are the two forces the same size?",
+     "kid": "Hold the book still on your hand. Point down for gravity. Point up for your hand. The two forces balance!",
      "think": "If the floor stopped pushing up on you, where would gravity pull you?",
      "parent": "Down. With nothing pushing up, gravity would pull you down, just as it pulls a ball that rolls off a table."
     }
@@ -2640,7 +2640,7 @@
      "what": "Feel your arm muscles pull. Build a cardboard arm with two strings for muscles."
     }
    ],
-   "record": "Draw your cardboard arm bent and straight. Draw an arrow on the string that is pulling each time.",
+   "record": "Draw your cardboard arm bent and straight, with an arrow on the string that is pulling each time. Or take two photos and tell your grown-up which string pulled each time.",
    "setup": [
     {
      "art": "A child's arm bending, a hand on the front of the upper arm feeling the muscle bunch up.",
@@ -2723,7 +2723,7 @@
      "what": "Dance pushes and pulls, then balance with a partner."
     }
    ],
-   "record": "Draw your favourite partner pose, with arrows for each pull or push.",
+   "record": "Draw your favourite partner pose, with arrows for each pull or push. Or tell your grown-up which way each person pushes or pulls.",
    "setup": [
     {
      "art": "A child and a grown-up standing palm to palm, both leaning in a little, balanced.",
@@ -2805,7 +2805,7 @@
      "what": "Spot six forces around the home. Draw each one with an arrow."
     }
    ],
-   "record": "Make a page of six small drawings or photos. On each one, draw an arrow for the force, and write what it is.",
+   "record": "Make a page of six photos or small drawings. Mark the force on each with an arrow, and write what it is.",
    "setup": [
     {
      "art": "A child sketching an auto-rickshaw being pushed by its driver, a big arrow behind it.",
@@ -2824,16 +2824,16 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Explain the job: spot six forces around the home, and draw each one with an arrow.",
-     "say": "Today you're a force spotter. Find six pushes or pulls around the home. Draw each one, with an arrow.",
-     "kid": "You are a force spotter! Find six pushes or pulls around the home. Draw each one with an arrow.",
+     "do": "Explain the job: spot six forces around the home, and show each one with an arrow.",
+     "say": "Today you're a force spotter. Find six pushes or pulls around the home. Take a photo of each, or draw it.",
+     "kid": "You are a force spotter! Find six pushes or pulls around the home. Take a photo of each, or draw it.",
      "context": "This is the first step of Arrow Spotting. You find forces during an ordinary day and draw them as arrows."
     },
     {
      "id": "s2",
      "mins": 14,
      "adult": true,
-     "do": "Walk round the home and help your child spot and draw six forces. Try a door, a ceiling fan, a broom, a drawer, a hanging bag and a curtain moved by the wind. Give the three arrow rules for each one. Start the arrow on the thing. Point it the way of the force. Make it longer for a bigger force.",
+     "do": "Walk round the home and help your child spot six forces. Mark each one with an arrow: lay a pencil on the thing, or draw it. Try a door, a ceiling fan, a broom, a drawer, a hanging bag and a curtain moved by the wind. Give the three arrow rules for each one. Start the arrow on the thing. Point it the way of the force. Make it longer for a bigger force.",
      "say": "Remember the rules. Start the arrow on the thing. Point it the way of the force. Make it longer for a bigger force.",
      "kid": "Start your arrow on the thing. Point it the way of the force. Make it longer for a bigger force.",
      "parent": "Good finds include wind pushing washing on a line, and a hanging bag with gravity pulling it down and the strap pulling it up. A leaf falling outside the window has gravity pulling it down and the air pushing it up."
@@ -2841,9 +2841,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Look at the six drawings together.",
-     "say": "Which force was the biggest? Which drawing has the longest arrow?",
-     "kid": "Which force was biggest? Does it have your longest arrow?",
+     "do": "Look at the six arrows together.",
+     "say": "Which force was the biggest? Which one has the longest arrow?",
+     "kid": "Look at your six arrows. Find the longest one.",
      "check": {
       "t": "mcq",
       "q": "You draw a gentle push and a hard push on a box. How should the arrows look?",
@@ -2913,7 +2913,7 @@
      "what": "Race the car. Measure how far it goes. Improve it and race again."
     }
    ],
-   "record": "Draw your car with arrows: the air pushed backwards and the car pushed forwards. Write the distance before and after your improvement.",
+   "record": "Draw your car with arrows: the air pushed backwards and the car pushed forwards. Or tell your grown-up where each push goes. Write the distance before and after your improvement.",
    "setup": [
     {
      "art": "A grown-up pushing a skewer through the middle of a bottle cap, with the sharp tip snipped off.",
@@ -2938,7 +2938,7 @@
      "mins": 5,
      "do": "Remind your child of the Balloon Rocket experiment, where a balloon slid along a string. Ask how a balloon could push a car.",
      "say": "Remember the balloon rocket on the string? It pushed air backwards, and the air pushed it forwards. Could a balloon push a car?",
-     "kid": "Remember the balloon rocket? Air went back, the balloon went forward. Can a balloon push a car?",
+     "kid": "Think about the balloon rocket. How could a balloon push a car?",
      "how": "e2",
      "context": "This is the first step of the Balloon-Powered Car project. You build a car that is pushed along by air rushing out of a balloon."
     },
@@ -2955,7 +2955,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Put the balloon's neck over one end of the third straw and fix it with a rubber band. 2. Tape the straw on top of the car, with the free end sticking out of the back.",
-     "say": "Which way must the straw point, so the car goes forwards?",
+     "say": "Think about the balloon rocket. Where should the straw point?",
      "kid": "Fix the balloon to a straw with a rubber band. Tape it on top. Point the straw out of the back.",
      "check": {
       "t": "mcq",
@@ -3037,7 +3037,7 @@
     "Roll a second ball into it, so one ball pushes the other.",
     "Build a ramp with walls made of books. The walls push the ball and steer it."
    ],
-   "your_turn": "Now invent your own way. Draw it with arrows for every push and pull. Then try it.",
+   "your_turn": "Now invent your own way. Say what pushes or pulls the ball at each step, or draw it with arrows. Then try it.",
    "setup": [
     {
      "art": "A ping-pong ball at one end of a table and a paper cup lying on its side at the other end.",
@@ -3066,7 +3066,7 @@
      "mins": 5,
      "do": "Before trying anything, list three ideas. For each idea, say what pushes or pulls the ball.",
      "say": "Engineers plan before they build. Tell me three ideas. What is the force in each?",
-     "kid": "Plan first. Draw three ideas. For each one, say what pushes or pulls the ball."
+     "kid": "Plan first. Tell your grown-up three ideas. For each one, say what pushes or pulls the ball."
     },
     {
      "id": "s3",
@@ -3091,7 +3091,7 @@
      "mins": 5,
      "do": "Read the usual and the creative ideas. Then invent a new one.",
      "say": "Here are some other ideas. Can you invent one nobody has thought of?",
-     "kid": "Look at the other ideas. Now invent a brand-new way. Draw it with arrows.",
+     "kid": "Look at the other ideas. Now invent a brand-new way. Build it, or tell your grown-up how it would work.",
      "think": "Air touches the ball when you blow. Is that a touching force or not?",
      "parent": "It is a touching force. Moving air is made of tiny molecules, and they hit the ball. You cannot see them, but they do touch it."
     }
@@ -3124,7 +3124,7 @@
     "Put a second marble at the corner. The first marble hits it and sends it on.",
     "If you have a steel ball instead of a marble, lay a magnet under the tray at the corner to pull it round."
    ],
-   "your_turn": "Draw your path from above. Draw an arrow at each place where something pushes the marble. Then build it and test it.",
+   "your_turn": "Plan your path from above. Draw an arrow at each place where something pushes the marble, or lay card strips and point. Then build it and test it.",
    "setup": [
     {
      "art": "A tray seen from above with a marble in the bottom-left corner and a cup in the top-right corner.",
@@ -3151,9 +3151,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Your child draws the path from above, with an arrow for each wall's push.",
-     "say": "Draw your path first. At each wall, draw the wall's push on the marble. Which way does it point?",
-     "kid": "Draw your path from above. At each wall, draw an arrow for its push.",
+     "do": "Your child plans the path from above. They draw it with an arrow for each wall's push, or lay card strips along it and point at each wall.",
+     "say": "Plan your path first. At each wall, show the wall's push on the marble. Which way does it point?",
+     "kid": "Plan your path from above. Draw it, or lay card strips along it. At each wall, show its push with an arrow or your finger.",
      "parent": "A wall pushes straight out from its surface. A marble hitting a wall at a slant bounces off at a slant, like a carrom coin."
     },
     {

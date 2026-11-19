@@ -741,14 +741,14 @@
      "context": "This is the first step of Back to the Earth, a card game where you collect the three steps of a material's journey.",
      "do": "1. Cut out the cards. 2. Put the 6 HOW cards face up in the middle. 3. Shuffle the journey cards and deal 5 to each player. 4. Put the rest face down in a pile.",
      "say": "Every made thing has a journey. It starts at a source in nature, like a plant, an animal or a mine. Then it becomes a raw material. Then people change it into a thing. In this game, you collect whole journeys.",
-     "kid": "Every made thing has a journey. It starts in nature. Collect all three steps: source, raw, made. Let's deal the cards."
+     "kid": "Cut out the cards and deal them. You will collect sets of three: source, raw, made."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Play one practice set together. Find the cards 'SOURCE: the sea', 'RAW: sea water' and 'MADE: packet of salt'. Lay them in order.",
-     "say": "Here is one journey. The sea, then sea water, then a packet of salt. Which HOW card fits? How do people get salt from sea water?",
-     "kid": "Practice set: the sea, sea water, a packet of salt. Which HOW card fits?",
+     "say": "Here is one journey. The sea, then sea water, then a packet of salt. Now we look for the HOW card that fits.",
+     "kid": "Look at the three cards in a row. They make one journey.",
      "check": {
       "t": "mcq",
       "q": "How do people get salt out of sea water?",
@@ -808,7 +808,7 @@
    "title": "Who Made It? The Tricky Court",
    "mins": 20,
    "players": "2 or more players: one judge and one or more lawyers. With 2 players you take turns being the judge.",
-   "context": "This is an arguing game. Each card shows a tricky thing. Players argue whether nature, an animal or people made the thing. A judge decides.",
+   "context": "This is an arguing game. Each card shows a tricky thing. Players argue whether nature, an animal or people made the thing. A judge decides. You will find out that some things are hard to sort.",
    "printables": [
     {
      "kind": "cards",
@@ -887,8 +887,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play the first case together: 'A cultured pearl, grown in an oyster on a pearl farm.'",
-     "say": "On a pearl farm, people put a tiny bead inside an oyster. The oyster then coats it with pearl, layer by layer, for a year or more. So who made the pearl?",
-     "kid": "People put a tiny bead in an oyster. The oyster coats it with pearl. Who made the pearl?",
+     "say": "On a pearl farm, people put a tiny bead inside an oyster. The oyster then coats it with pearl, layer by layer, for a year or more.",
+     "kid": "Think about the case. Choose an answer and give a reason.",
      "check": {
       "t": "mcq",
       "q": "Who made a cultured pearl?",
@@ -1136,7 +1136,7 @@
    "title": "Salt from Salty Water, Using the Sun",
    "mins": 25,
    "days": 4,
-   "context": "In this unit's story, Kashi finds salt on the rim of a stone hollow by the sea. In this experiment you get salt out of salty water, using only the sun.",
+   "context": "In this unit's story, Kashi finds salt on the rim of a stone hollow by the sea. In this experiment you get salt out of salty water, using only the sun. You will find out if sunshine really can make salt, as it did for Kashi.",
    "question": "Does the sun get the salt out of salty water faster than the shade does? Does it change how much salt we get?",
    "predict": "Guess first. Which plate will dry first, the one in the sun or the one in the shade? Will the two plates give the same amount of salt? Why do you think so?",
    "fair_test": "To make it fair, use two plates that are the same. Put the same amount of the same salty water on each. Change only one thing: one plate is in the sun, one is in the shade.",
@@ -1189,7 +1189,7 @@
      "what": "When both plates are dry, scrape the salt from each plate. Compare the amounts. Look at the crystals with a magnifier. In damp weather this may be a day or two later."
     }
    ],
-   "record": "Fill in the table. Draw what the salt crystals looked like under the magnifier.",
+   "record": "Fill in the table. Say or draw what the salt crystals looked like under the magnifier.",
    "flow": [
     {
      "id": "s1",
@@ -1197,7 +1197,7 @@
      "context": "This is the first step of getting salt from salty water. You make salty water like sea water, or use real sea water.",
      "do": "1. Stir 1 level teaspoon of salt into 1 cup of water until you cannot see the salt any more. 2. Taste one drop from your fingertip. 3. If you live near the sea, a grown-up can bring a cup of real sea water instead.",
      "say": "Where did the salt go? It has not vanished. It is still there, hidden in the water, like sugar in tea. Sea water is like this. It has salt hidden in it.",
-     "kid": "Stir a spoon of salt into a cup of water. Where did it go? Taste one drop. It is still there, hidden!",
+     "kid": "Stir a spoon of salt into a cup of water. Taste one drop. The salt is still there, hidden!",
      "ask": [
       {
        "q": "Where did the salt go?",
@@ -1221,8 +1221,8 @@
      "mins": 6,
      "wait": "Check both plates each day until both are dry, usually 2 to 4 days.",
      "do": "Each day, look at both plates. Write down when each one is completely dry. In damp or rainy weather the shady plate can take longer, so keep checking.",
-     "say": "Which plate is drying faster? Where is the water going?",
-     "kid": "Check your plates every day. Which one dries first? Where is the water going?",
+     "say": "Look at both plates. Which one is drying faster?",
+     "kid": "Check your plates every day. Write down when each one is dry.",
      "check": {
       "t": "mcq",
       "q": "Where does the water go as the plate dries?",
@@ -1291,7 +1291,7 @@
    "title": "Colours from the Kitchen",
    "mins": 45,
    "days": 2,
-   "context": "In this experiment you colour cotton cloth with dyes from plants in your kitchen. Then you wash the cloth to see which colours stay.",
+   "context": "In this experiment you colour cotton cloth with dyes from plants in your kitchen. Then you wash the cloth. You will find out which kitchen colour stays best.",
    "question": "Which kitchen plant gives the strongest colour to cotton cloth? Which colour stays best after washing?",
    "predict": "Guess first. Turmeric, beetroot, onion skins or tea: which will give the brightest colour? Which will wash out most? Why do you think so?",
    "fair_test": "To make it fair, use pieces of the same white cotton cloth, all the same size. Soak each in its dye for the same time, 30 minutes. Wash them all the same way, with the same soap. Change only the dye.",
@@ -1398,7 +1398,7 @@
      "mins": 5,
      "do": "When the washed halves are dry, put them side by side with the unwashed halves. Fill in the table.",
      "say": "Which colour stayed best? Which washed out most?",
-     "kid": "Put the halves side by side. Which colour stayed? Which washed away?",
+     "kid": "Put the washed and unwashed halves side by side. Look at each pair closely.",
      "parent": "Usually onion skins and tea stay quite well, and turmeric fades in sunlight and with washing. Beetroot often washes out a lot. If the turmeric cloth turns orange-red when you wash it, that is real: soap changes the colour of turmeric. Dyers in India learned over thousands of years which plants, and which helpers like alum, make colours last. Indigo, the famous blue, came from a plant too. Plain cotton without alum takes colour weakly, so pale results are normal and honest. Perkin's dye was made by people. He started from coal tar, a natural raw material, and changed it with chemistry.",
      "think": "In 1856 a teenager in England, William Perkin, made the first dye from chemicals, a bright purple. Was his dye natural or made?",
      "wait": "Let the washed halves dry completely, a few hours in a warm, airy place."
@@ -1468,7 +1468,7 @@
    "title": "Turn Milk into Plastic",
    "mins": 30,
    "days": 3,
-   "context": "In this experiment you turn milk and vinegar into a kind of plastic. Before most plastic was made from oil, factories made a plastic like this from milk.",
+   "context": "In this experiment you turn milk and vinegar into a kind of plastic. You will find out how much vinegar gives the most. Before most plastic was made from oil, factories made a plastic like this from milk.",
    "question": "Can we make a plastic from milk? How much vinegar makes the most milk plastic?",
    "predict": "Guess first. What will happen when we add vinegar to hot milk? Will more vinegar make more lumps? Why do you think so?",
    "fair_test": "To make it fair, use the same amount of the same milk each time, 1 cup, heated to the same warmth. Stir the same way for the same time. Change only the vinegar: 1, 2 or 4 teaspoons.",
@@ -1520,8 +1520,8 @@
      "adult": true,
      "context": "This is the first step of turning milk into plastic. A grown-up warms the milk.",
      "do": "1. A grown-up warms 1 cup of milk in a pan until it is steaming but not boiling. 2. Pour it into a bowl. 3. Add 1 teaspoon of vinegar and stir slowly for 1 minute.",
-     "say": "Milk looks like one smooth liquid. Watch closely as the vinegar goes in. What do you see?",
-     "kid": "Ask a grown-up to warm the milk. Add one spoon of vinegar. Stir slowly. Watch! What do you see?",
+     "say": "Milk looks like one smooth liquid. Watch closely as the vinegar goes in.",
+     "kid": "Ask a grown-up to warm the milk. Add one spoon of vinegar. Stir slowly and watch the milk.",
      "ask": [
       {
        "q": "What happened to the milk?",
@@ -1537,7 +1537,7 @@
      "id": "s2",
      "mins": 8,
      "adult": true,
-     "do": "1. Take a fresh cup of hot milk, add 2 teaspoons of vinegar and stir slowly for 1 minute. 2. Do the same with a third cup of hot milk and 4 teaspoons of vinegar. 3. Pour each bowl through the strainer. 4. Count how many teaspoons of lumps each bowl gave.",
+     "do": "1. Take a fresh cup of hot milk, add 2 teaspoons of vinegar and stir slowly for 1 minute. 2. Do the same with a third cup of hot milk and 4 teaspoons of vinegar. 3. Pour all three bowls through the strainer, one at a time, the first bowl too. 4. Count how many teaspoons of lumps each bowl gave.",
      "say": "The white lumps are a material called casein. It was hidden in the milk all along, and the vinegar makes it come out. Now we use the same milk, the same warmth and the same stirring. Only the amount of vinegar changes. Which bowl gives the most lumps?",
      "kid": "Try again with 2 spoons of vinegar. Then 4 spoons. Strain each bowl. Count the spoons of lumps.",
      "parent": "This is how paneer is made too, with lemon juice. The lumps are casein, a natural material from milk, with some milk fat. Let the lumps cool before your child touches them. With only 1 teaspoon of vinegar you may get very few lumps. That is a real result, not a mistake."
@@ -1625,7 +1625,7 @@
    "title": "The Journey Backwards",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you pick three things in your home and follow each one backwards, step by step, to where its material came from in nature.",
+   "context": "In this activity you pick three things in your home and follow each one backwards, step by step, to where its material came from in nature. You will find out whether every chain ends in nature.",
    "materials": [
     {
      "item": "a big sheet of paper, a pencil and colours",
@@ -1643,15 +1643,15 @@
      "what": "Draw a backwards journey chain for three objects."
     }
    ],
-   "record": "Draw three chains of boxes with arrows, from the object back to nature.",
+   "record": "Make three chains of slips with arrows, from each object back to nature. Take a photo of them.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "context": "This is the first step of The Journey Backwards. You choose three objects to follow back to nature.",
-     "do": "1. Put a steel spoon, a cotton hanky and a plastic comb on the table. 2. Pick up the spoon and ask the two detective questions: What is it made of? Where was that material before it became this?",
+     "do": "1. Put a steel spoon, a cotton hanky and a plastic comb on the table. 2. Pick up the spoon. Ask your child the two detective questions.",
      "say": "Here are the two detective questions. What is it made of? And where was that material before it became this?",
-     "kid": "Pick up the spoon. Ask two questions. What is it made of? Where was that material before it was a spoon?",
+     "kid": "Hold the spoon. Look at it and feel it closely.",
      "ask": [
       {
        "q": "What is the spoon made of?",
@@ -1665,9 +1665,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "For each object, draw a chain of boxes from right to left. Start with the object on the right. Keep asking 'and before that?' until you reach nature. Draw a small picture in each box.",
+     "do": "For each object, lay out a chain of paper slips from right to left. Start with the object on the right. Keep asking 'and before that?' until you reach nature. Write one word on each slip, or say it out loud.",
      "say": "It came from a shop. Where was it before the shop? In a factory. Where was it before the factory? Keep going until you reach something nature made.",
-     "kid": "Draw the object in a box. Draw an arrow back. What was it before? Keep going until you reach nature.",
+     "kid": "Put the object at the right end. Add a slip to the left for each 'and before that?'. Stop when you reach nature.",
      "parent": "Good chains. Steel spoon: shop, factory pressing steel sheets, stainless steel made in a furnace from iron and chromium, iron ore and chromium ore dug from mines in Odisha or Jharkhand, rock in the ground. Cotton hanky: shop, cloth weaving, thread spinning, cotton fluff, cotton plant in a field in Gujarat or Maharashtra, seed, soil, sun and rain. Plastic comb: shop, factory moulding plastic, plastic beads, chemicals made from petroleum, oil deep underground, tiny living things in the sea, millions of years ago.",
      "check": {
       "t": "mcq",
@@ -1698,7 +1698,7 @@
     },
     {
      "art": "A child drawing a chain of boxes with arrows on paper: a spoon, a factory, a furnace, a mine, a rock.",
-     "caption": "2. Draw each one's journey backwards, box by box."
+     "caption": "2. Lay out each one's journey backwards, slip by slip."
     },
     {
      "art": "Three finished chains side by side, ending at a mine, a cotton plant and an oil well.",
@@ -1711,7 +1711,7 @@
    "title": "Nature or People? The Three-Heap Walk",
    "mins": 25,
    "days": 1,
-   "context": "This is a walk where you collect small things and sort them into three heaps: living or once-living natural things, non-living natural things, and things made by people.",
+   "context": "This is a walk where you collect small things and sort them into three heaps: living or once-living natural things, non-living natural things, and things made by people. You will find out which heap is biggest and which things are hard to sort.",
    "materials": [
     {
      "item": "a cloth bag for collecting",
@@ -1734,7 +1734,7 @@
      "what": "Collect things on a short walk, sort them into three heaps and make a tally."
     }
    ],
-   "record": "Make a tally of how many things went in each heap. Draw a bar chart of the tally.",
+   "record": "Make a tally of how many things went in each heap. Line up the things of each heap in a row to make a bar chart, and take a photo.",
    "flow": [
     {
      "id": "s1",
@@ -1756,9 +1756,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Look at the tricky things together, then draw a bar chart of the tally.",
+     "do": "Look at the tricky things together. Then line up the things of each heap in a row, side by side. The rows make a bar chart.",
      "say": "Which things were hard to sort? A piece of brick? A cotton string?",
-     "kid": "Which thing was hardest to sort? Why? Now draw a bar for each heap.",
+     "kid": "Which thing was hardest to sort? Why? Now line up each heap in a row. The longest row has the most things.",
      "check": {
       "t": "mcq",
       "q": "Which heap does a piece of cotton string go in?",
@@ -1783,7 +1783,7 @@
     },
     {
      "art": "A child drawing three bars on paper, one for each heap, with tally marks above.",
-     "caption": "3. Count each heap and draw a bar chart."
+     "caption": "3. Count each heap and line the things up as a bar chart."
     }
    ]
   },
@@ -1792,7 +1792,7 @@
    "title": "Then and Now: Ask an Older Person",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you interview an older person, such as a grandparent, a neighbour or a shopkeeper. You find out what everyday things were made of when they were children.",
+   "context": "In this activity you interview an older person, such as a grandparent, a neighbour or a shopkeeper. You find out what everyday things were made of when they were children. You will find out which materials changed in one lifetime, and why.",
    "materials": [
     {
      "item": "a phone or a visit",
@@ -1857,7 +1857,7 @@
    "title": "The Material Map of India",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you make a map of India that shows where some of our materials come from: cotton, silk, jute, rubber, coir, iron, salt and more.",
+   "context": "In this activity you make a map of India that shows where some of our materials come from: cotton, silk, jute, rubber, coir, iron, salt and more. You will find out which parts of India give us which materials.",
    "materials": [
     {
      "item": "an outline map of India, printed or sketched from a school atlas",
@@ -1892,9 +1892,9 @@
     {
      "id": "s2",
      "mins": 16,
-     "do": "Mark each material on the map, with a small drawing or a stuck-on sample. Use the parent note for places.",
+     "do": "Mark each material on the map with a stuck-on sample, or with its name written in the right place. Use the parent note for places.",
      "say": "Cotton grows a lot in Gujarat and Maharashtra. Where shall we stick it?",
-     "kid": "Stick each material on its place on the map. Draw a little picture next to it.",
+     "kid": "Stick each material on its place on the map. If you have no sample, write its name there.",
      "parent": "Cotton: Gujarat, Maharashtra and Telangana. Jute: West Bengal. Silk: Karnataka, and many other states. Muga, a golden silk, comes almost only from Assam. Rubber: Kerala, and also Tripura. Coir from coconut husks: Kerala and Tamil Nadu. Tea: Assam, West Bengal and the Nilgiris in Tamil Nadu. Coffee: Karnataka and Kerala. Iron ore: Odisha, Jharkhand, Chhattisgarh and Karnataka. Bauxite for aluminium: Odisha. Salt: Gujarat, especially the Little Rann of Kutch, and Tamil Nadu. Marble: Makrana in Rajasthan, the marble of the Taj Mahal. Lac: Jharkhand.",
      "ask": [
       {
@@ -1945,7 +1945,7 @@
    "title": "Spin a Thread",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you turn fluffy cotton into a thread by twisting it. This is the first step in making cloth. You make a simple spindle from a pencil and a disc.",
+   "context": "In this activity you turn fluffy cotton into a thread by twisting it. This is the first step in making cloth. You will find out why twisting turns weak fluff into strong thread. You make a simple spindle from a pencil and a disc.",
    "materials": [
     {
      "item": "a ball of cotton wool, the kind from a medical shop",
@@ -2061,7 +2061,7 @@
      "what": "Build pretend materials from three kinds of bead."
     }
    ],
-   "record": "Draw two of your bead models and label the colours.",
+   "record": "Take a photo of two of your bead models. Say which colour is which atom.",
    "flow": [
     {
      "id": "s1",
@@ -2117,7 +2117,7 @@
    "title": "We Are Stardust: Act It Out",
    "mins": 15,
    "days": 1,
-   "context": "This is a short play where you act as an atom. You are made in a star and blown into space when the star dies. Then you become part of a new planet, and later a steel spoon.",
+   "context": "This is a short play where you act as an atom. You are made in a star and blown into space when the star dies. Then you become part of a new planet, and later a steel spoon. You will find out where the iron in a spoon was made.",
    "materials": [
     {
      "item": "a torch for the star, and some open space",
@@ -2135,7 +2135,7 @@
      "what": "Act out the journey of an atom from a star to a spoon."
     }
    ],
-   "record": "Draw a comic strip in four boxes: star, explosion, Earth, spoon.",
+   "record": "Tell the story again to another grown-up in four parts: star, explosion, Earth, spoon. Or act it out for them.",
    "flow": [
     {
      "id": "s1",
@@ -2243,7 +2243,7 @@
      "what": "Weigh the dry diya. Compare it with a kiln-baked diya. Drip water on both."
     }
    ],
-   "record": "Draw the layers in the jar. Write the wet and dry weights of your diya. Write what happened when water dripped on each diya.",
+   "record": "Take a photo of the layers in the jar, or draw them. Write the wet and dry weights of your diya. Write what happened when water dripped on each diya.",
    "flow": [
     {
      "id": "s1",
@@ -2257,9 +2257,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Look at the bottle. Draw the layers you see. 2. In the bucket, gently pour off the clear water on top. 3. Scoop out the smooth top layer of mud, the clay. 4. Wrap it in a cloth and hang it up, or leave it on newspaper, until it is like soft dough.",
-     "say": "See the layers? Stones and sand at the bottom, then silt, then the smooth clay on top. Clay grains are the tiniest of all.",
-     "kid": "Look at the layers in your bottle! Draw them. Scoop the smooth top mud from the bucket. That is clay!",
+     "do": "1. Look at the bottle. Point to each layer you can see. 2. In the bucket, gently pour off the clear water on top. 3. Scoop out the smooth top layer of mud, the clay. 4. Wrap it in a cloth and hang it up, or leave it on newspaper, until it is like soft dough.",
+     "say": "See the layers? Stones and sand are at the bottom. Silt, which is finer than sand, comes next. The smooth clay is on top. Clay grains are the tiniest of all.",
+     "kid": "Look at the layers in your bottle! Take a photo. Scoop the smooth top mud from the bucket. That is clay!",
      "check": {
       "t": "mcq",
       "q": "In the bottle, why is the clay on the top?",
@@ -2351,7 +2351,7 @@
    "id": "c1",
    "title": "The Leaf Plate Picnic",
    "mins": 30,
-   "context": "This is a design challenge. You make a plate and a bowl for a picnic using only natural materials, with nothing made by people.",
+   "context": "This is a design challenge. You make a plate and a bowl for a picnic using only natural materials, with nothing made by people. You will find out if leaves can hold sambar without leaking.",
    "problem": "Make one plate and one small bowl for a picnic, using only natural materials you can find. They must hold an idli and a spoon of sambar without leaking.",
    "constraints": [
     "You can only use natural materials: leaves, twigs, grass, and so on.",
@@ -2387,9 +2387,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Before building, draw two ideas: one for the plate and one for the bowl.",
-     "say": "Engineers draw before they build. How will you stop the sambar leaking out?",
-     "kid": "Draw your plate and bowl first. How will you stop the sambar from leaking?"
+     "do": "Before building, plan one idea for the plate and one for the bowl. Draw them, or explain them to your grown-up.",
+     "say": "Engineers plan before they build.",
+     "kid": "Plan your plate and bowl first. Think about how to stop the sambar leaking."
     },
     {
      "id": "s3",
@@ -2460,7 +2460,7 @@
     "A bag sewn from an old sari or veshti.",
     "A kulhad, a clay cup, which can go back to the soil."
    ],
-   "your_turn": "Now design your own swap. Draw it, label its materials, and write where each material comes from.",
+   "your_turn": "Now design your own swap. Draw it or build a model, label its materials, and write where each material comes from.",
    "flow": [
     {
      "id": "s1",
@@ -2473,9 +2473,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Draw a replacement. 2. Label each material. 3. Write where each material comes from and what happens to it when it gets old.",
+     "do": "1. Draw a replacement, or build a small model of it from things at home. 2. Label each material. 3. Write where each material comes from and what happens to it when it gets old.",
      "say": "What job does the plastic thing do? What could do the same job, and come from nature or last for years?",
-     "kid": "Draw your new design. Label its materials. Where does each one come from?",
+     "kid": "Draw or build your new design. Label its materials. Where does each one come from?",
      "check": {
       "t": "mcq",
       "q": "Which swap can go back into the soil when it is old?",

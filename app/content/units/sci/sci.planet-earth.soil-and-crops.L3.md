@@ -220,7 +220,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **s1 (2 min)**  
   *Parent does:* Lay out the board, the cards and the tokens, and find a dice. Read the rules aloud.  
   *Parent says:* Each of us is a grain of rock high on a mountain. We race down to a rice field. Answer a question right to roll the dice.  
-  *Child mode:* You are a grain of rock on a mountain. Race to the rice field!
+  *Child mode:* Pick your token and put it on the mountain, square 0.
 - **s2 (15 min)**  
   *Parent does:* Take turns. Read a question card, answer, and move.  
   *Parent says:* Here is your question. If you are right, roll the dice.  
@@ -238,16 +238,16 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **s1 (2 min)**  
   *Parent does:* Hand out the answer cards and read the first card.  
   *Parent says:* A pebble. Does it sink at once, settle slowly, or float?  
-  *Child mode:* Does it sink at once, settle slowly, or float? Show your card.
+  *Child mode:* Pick the answer card you think is right. Show it.
 - **s2 (6 min)**  
   *Parent does:* Take turns reading the cards one at a time. Test a few of the things in a glass of water.  
   *Parent says:* Show your card. Why did you choose that? Let's test it.  
-  *Child mode:* Show your card. Say why. Then test it.
+  *Child mode:* Show your answer card and say why. Then watch the test.
   - Check: Atta and sand are both powders. Why does atta make the water cloudy for longer? → **Atta grains are much finer, so they sink more slowly**
 - **s3 (2 min)**  
-  *Parent does:* Talk about the soil jar.  
+  *Parent does:* Lay the used cards in three groups: like the sand layer, like the silt and clay, and like the floating bits.  
   *Parent says:* Which things in this game are like the layers in the soil jar?  
-  *Child mode:* Which things are like the layers in the soil jar?
+  *Child mode:* Sort the cards into the three groups.
   - Note: Pebbles and sand are like the sand layer. Atta and chalk powder are like silt and clay. Leaves, twigs and roots are like the floating bits of humus.
 
 ## Experiments
@@ -256,19 +256,19 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **predict:** Look at the soil and feel it. What do you think will happen when we shake it in water and put the jar down? Will it all sink, or all float, or something else? Why do you think so?
 - **fair test:** Use a clear jar with straight sides, so the layers are easy to see and measure. Fill it one third with soil and nearly to the top with water. Shake it for a full two minutes, so every lump breaks up. Then do not move the jar at all, because a bump stirs the layers again. If you test two soils, use two jars of the same size with the same amounts.
 - **safety:** Wash hands with soap after touching soil. Soil holds many bacteria, and a few can make a cut sore. Cover any cut on the hands before you start. A grown-up handles a glass jar.
-- **record:** Draw the jar after 1 minute, after 30 minutes and the next day. Label each layer: sand, silt, clay, water and floating bits. Write the height of each layer.
+- **record:** Draw the jar after 1 minute, after 30 minutes and the next day, or print the photos. Label each layer: sand, silt, clay, water and floating bits. Write the height of each layer.
 - **results table:** When | What I see at the bottom | What I see in the middle | What I see in the water | What floats on top | Height of the settled layers (cm)
 - **schedule:** day 1: Look at the soil, guess, shake the jar, and watch the first layers settle. Mark them. Look again in the afternoon. (25 min); day 2: Look at the jar again. Mark the new layers and measure them. (5 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Spread one spoon of soil on a white paper. 2. Look closely, with a magnifying glass if you have one. 3. Rub a pinch between finger and thumb.  
   *Parent says:* Before we test it, let's look closely. What can you see in the soil? What does it feel like when you rub it?  
-  *Child mode:* Spread a spoon of soil on white paper. Look closely. Rub a pinch. What do you see and feel?
+  *Child mode:* Spread a spoon of soil on white paper. Look closely. Rub a pinch between your finger and thumb.
   - Ask: What do you see in the soil? (good: Tiny grains of different colours.; Little bits of root or leaf.; Some bits are bigger than others.)
   - Note: Most pot soil has grains you can see, finer powder, and small dark bits of plants. Gritty means sand. Smooth means silt. Sticky when wet means clay.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess what will happen in the jar, and why. Write the guess down.  
   *Parent says:* We will shake this soil in water, then leave the jar still. What do you think will happen? Why do you think so?  
-  *Child mode:* We will shake soil in water. Then the jar stays still. What will happen? Why?
+  *Child mode:* Say your guess out loud, and give a reason for it.
   - Ask: What do you think the jar will look like after an hour? (good: The soil will sink to the bottom.; Some bits will float.; The water will stay muddy.)
   - Note: Do not say what will happen. Any guess with a reason is a good start.
 - **s3 (6 min) · grown-up needed**  
@@ -284,9 +284,9 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
   - Note: Within a minute, the biggest grains, the sand, form a layer at the bottom. Dark bits of plants float on top. The water stays brown and cloudy. If your soil is mostly coconut fibre, called cocopeat, a lot will float. That is still a result: it means the soil is mostly plant material. A little foam on top comes from the washing liquid, not from the soil.
   - Wait: Leave the jar still for 30 minutes.
 - **s5 (5 min)**  
-  *Parent does:* 1. After 30 minutes, look again. Look once more in the afternoon if you can. 2. Mark the top of the new, smoother layer. 3. Draw the jar.  
+  *Parent does:* 1. After 30 minutes, look again. Look once more in the afternoon if you can. 2. Mark the top of the new, smoother layer. 3. Take a photo of the jar.  
   *Parent says:* Half an hour later, look again. Is there a new layer on top of the sand? Is the water still cloudy?  
-  *Child mode:* Look again after 30 minutes. Is there a new layer? Mark it and draw the jar.
+  *Child mode:* Look again after 30 minutes. Is there a new layer? Mark it. Take a photo of the jar.
   - Note: A finer layer of silt is settling on top of the sand. It can take a few hours to finish, so look again later in the day. The water is still cloudy because the clay grains are so small they are still floating.
   - Check: The water in the jar is still cloudy after 30 minutes. Why? → **Very tiny clay grains are still floating in the water**
 - **s6 (3 min)**  
@@ -305,7 +305,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **question:** Earthworms make tunnels in soil. Does water soak into packed soil faster when it has tunnels?
 - **predict:** We will pack soil hard into two cups. In one cup we make holes with a pencil, like worm tunnels. Then we pour the same amount of water on both. Which cup will soak up the water faster? Why do you think so?
 - **fair test:** Use two cups of the same size, the same dry soil, and the same amount in each. Press both down equally hard. Pour the same amount of water, in the same way, onto both. Only the tunnels change. Do the test twice, because a tunnel can be blocked by chance.
-- **record:** Fill in the table. Draw both cups, with the water on top and the tunnels.
+- **record:** Fill in the table. Draw both cups, with the water on top and the tunnels, or take a photo of each.
 - **results table:** Cup | Tunnels? | Try 1: seconds until no water is left on top | Try 2: seconds | What I saw
 - **s1 (5 min)**  
   *Parent does:* 1. Fill both cups three quarters full with dry soil. 2. Press each one down hard with the bottom of a tumbler, ten times. 3. Make the tops level.  
@@ -343,7 +343,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **predict:** We will shake pieces of chalk in two closed boxes, one dry and one with water. What will happen to the pieces? Which box will make more powder? Why do you think so?
 - **fair test:** Break two sticks of chalk into pieces of about the same size. Put the same number of pieces in each box. Shake both boxes for the same time, with the same strength, taking turns. Only the water changes.
 - **safety:** Do not breathe in the chalk dust or rub it in your eyes. Open the boxes slowly. Wash your hands afterwards.
-- **record:** Draw one piece of chalk before and after. Write how many pieces there were, and which box made more powder.
+- **record:** Draw one piece of chalk before and after, or take a photo of each. Write how many pieces there were, and which box made more powder.
 - **results table:** Box | Pieces before | What the corners looked like before | Pieces after | What the corners look like after | How much powder
 - **s1 (4 min)**  
   *Parent does:* 1. Break both chalk sticks into pieces about as big as a fingernail. 2. Count six pieces into each box. 3. Look at their sharp corners. 4. Add water to one box.  
@@ -373,7 +373,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 ## Activities
 ### a1 · Soil Detective: look, feel and smell (12 min)
 - **safety:** Wash hands after touching soil. Do not put soil in your mouth.
-- **record:** Draw three things you found in the soil, and write how the wet soil felt.
+- **record:** Tell your grown-up three things you found in the soil, or draw them. Write how the wet soil felt.
 - **s1 (4 min)**  
   *Parent does:* 1. Spread a spoon of soil on white paper. 2. Use a toothpick to push things into three piles: grains, bits of plants, and anything else.  
   *Parent says:* Let's be soil detectives. Push things into piles with the toothpick. Grains in one pile. Bits of plants in another. Anything else in a third.  
@@ -392,7 +392,7 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
   - Check: Damp soil smells like the first rain. Where does much of that smell come from? → **Bacteria that live in the soil**
 ### a2 · Worm Window: watch earthworms mix layers (if you can get earthworms) (30 min, 7 days)
 - **safety:** A grown-up cuts the bottle and tapes over the sharp edge. Handle worms gently with wet hands. Release them into a pot or a compost bin after one week.
-- **record:** Draw the bottle on day 1, day 3 and day 7. Show the layers, the tunnels and the leaves.
+- **record:** Take a photo of the bottle on day 1, day 3 and day 7, or draw it. Show the layers, the tunnels and the leaves.
 - **schedule:** day 1: Fill the bottle with layers, put the worms on top, add leaves and wrap it in dark paper. (15 min); day 3: Unwrap and look at the layers and tunnels. Sprinkle a little water with your fingers if the top is dry. (5 min); day 5: Look again. Have any leaves been pulled down? (5 min); day 7: Draw the final layers. Release the worms. (5 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Put layers in the bottle: soil, sand, soil, sand, each about 3 cm. 2. Spray them damp, not wet. 3. Lay the worms on top with leaves and peels. 4. Wrap the bottle in dark paper.  
@@ -410,19 +410,19 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
   *Child mode:* Look again. Have any leaves been pulled down?
   - Wait: Leave the bottle wrapped for two more days.
 - **s4 (5 min)**  
-  *Parent does:* On day 7, draw the bottle, then release the worms into a pot or a compost bin.  
+  *Parent does:* On day 7, take a photo of the bottle, then release the worms into a pot or a compost bin.  
   *Parent says:* What did the worms do to the stripes and to the leaves in one week? Think of worms doing that in a whole field for a hundred years.  
-  *Child mode:* Draw the bottle. What did the worms change? Now let them go.
+  *Child mode:* What did the worms change? Take a photo of the bottle, then let the worms go.
   - Check: After a week, some leaves have been pulled down into the soil. Who did it? → **The earthworms, who pull leaves into their burrows to eat**
 ### a3 · Soil Map of India: match the soil to the crop (15 min)
-- **record:** Your coloured map, with each crop drawn on its soil.
+- **record:** Your coloured map, with each crop on its soil. Use the real crop or its name slip, or draw it.
 - **s1 (7 min)**  
   *Parent does:* 1. Colour the south red for red soil. 2. Colour the Deccan black. 3. Colour the Ganga plains and the river deltas yellow for river soil. 4. Colour the west coast brown for laterite.  
   *Parent says:* India has red soil, black soil, river soil and laterite. Let's colour where each is found. Which colour is under our home?  
-  *Child mode:* Colour the four soils on the map. Which soil is near your home?
+  *Child mode:* Colour the four soils, or lay paper scraps on the map. Which is near your home?
   - Note: Red soil also covers parts of Odisha, Jharkhand and the north-east hills, and black soil spreads into Gujarat and Madhya Pradesh. Colour the main areas only.
 - **s2 (8 min)**  
-  *Parent does:* 1. Take the five crops: ragi, rice, groundnut, cotton and cashew. 2. Place each crop on the soil where it grows well.  
+  *Parent does:* 1. Take the five crops: ragi, rice, groundnut, cotton and cashew. 2. Place each crop on the soil where it grows well. No real crop? Write its name on a slip of paper.  
   *Parent says:* Cotton loves black soil that holds water. Rice grows in the river deltas. Ragi and groundnut grow well in red soil. Cashew grows in laterite. Where does each one go?  
   *Child mode:* Put each crop on its soil. Cotton, rice, ragi, groundnut, cashew.
   - Check: Which crop grows so well in the Deccan's black soil that the soil is named after it? → **Cotton**
@@ -446,12 +446,12 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **s2 (4 min)**  
   *Parent does:* Decide together which pot needs feeding with compost or fallen leaves.  
   *Parent says:* Which pot has hard, pale soil? How could we feed it?  
-  *Child mode:* Which pot has hard, pale soil? How could we feed it?
+  *Child mode:* Point to the pot that needs feeding. Choose compost or fallen leaves to feed it.
   - Note: Hard, pale soil that water runs off is packed and low in humus. Loosening the top with a fork and adding a layer of compost or dry leaves helps.
 
 ## Projects
 ### p1 · Sand or Soil: do methi seedlings need humus? (60 min, 21 days)
-- **record:** A table of counts and heights on days 7, 14 and 21, and a drawing of both pots on day 21.
+- **record:** A table of counts and heights on days 7, 14 and 21, and a photo or drawing of both pots on day 21.
 - **schedule:** day 1: Fill one pot with washed sand and one with soil and compost. Sow 15 methi seeds in each. Water both the same. (20 min); day 7: Count the seedlings in each pot and measure the tallest. (10 min); day 14: Count, measure and look at the colour of the leaves. (10 min); day 21: Measure again. Compare the two pots and explain the difference. (20 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Fill one pot with washed sand and one with soil and compost. Use two pots of the same size. 2. Sow 15 methi seeds in each, just under the surface. 3. Water both with the same amount. 4. Keep both in the same sunny place.  
@@ -491,12 +491,12 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **s2 (15 min)**  
   *Parent does:* 1. Press fresh soil onto the board in the same way, with the same slope. 2. Add your protection. 3. Pour the same water. 4. Compare the water in the bowl.  
   *Parent says:* Now protect the soil. Use leaves, sticks, a cloth or plants. Pour the same water. Is the water in the bowl clearer?  
-  *Child mode:* Cover the soil with leaves, sticks, a cloth or plants. Pour the same water again. Is the water in the bowl clearer?
+  *Child mode:* Cover the soil with leaves, sticks, a cloth or plants. Pour the same water again.
   - Note: Do this in the bathroom or on the balcony. A layer of leaves or a mat of sprouts usually gives much clearer water. Clearer water means less soil was lost.
 - **s3 (7 min)**  
   *Parent does:* Read the usual and creative ideas, and try one more.  
   *Parent says:* Here is what farmers do on hills. Which idea worked best for us? Why?  
-  *Child mode:* Which idea worked best? Why?
+  *Child mode:* Pick the idea that worked best. Tell why.
 ### c2 · Mix the Best Pot Soil (30 min)
 - **problem:** A tulsi plant needs soil that holds some water but lets the extra drain away. Mix the best soil from sand, pot soil and compost.
 - **your turn:** Now invent your own mix. Measure how much water drains out of it, and choose the best one for a tulsi plant.
@@ -506,16 +506,16 @@ The next morning, Lakshmi found Arjun on the balcony with a pile of fallen curry
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Make three mixes, twelve spoons each: all sand, all compost, and four spoons each of sand, soil and compost. 2. Put each in a cup over a tumbler.  
   *Parent says:* Let's make three soils. All sand. All compost. And a mix of all three. Which one will drain best? Which will hold water best?  
-  *Child mode:* Make three soils: all sand, all compost, and a mix of sand, soil and compost. Which will drain best? Which will hold water best?
+  *Child mode:* Make three soils: all sand, all compost, and a mix of sand, soil and compost.
 - **s2 (12 min)**  
   *Parent does:* 1. Pour half a tumbler of water on each cup. 2. After five minutes, compare how much water dripped into each tumbler.  
   *Parent says:* Pour the same amount of water on each cup. Wait five minutes. Which tumbler caught the most water?  
-  *Child mode:* Pour the water. Wait five minutes. Which tumbler has the most?
+  *Child mode:* Pour the water. Wait five minutes. Then look at the tumblers.
   - Note: Sand lets most water drip through fast. Compost holds the most. The mix is in between, which most pot plants like. Dry compost can let water run through in channels at first, so the difference may be small. Write down what you see.
 - **s3 (8 min)**  
   *Parent does:* Choose the best mix for the tulsi and explain why.  
   *Parent says:* A tulsi plant does not like their roots sitting in wet soil, and they do not like to dry out either. Which mix would you choose? Why?  
-  *Child mode:* Which mix is best for a tulsi? Why?
+  *Child mode:* Pick the best mix for the tulsi. Tell why.
 
 ## Worksheets
 ### Inside a Handful of Soil (core) (core, 15 questions)

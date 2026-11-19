@@ -770,8 +770,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Practise with two cards: Dong and Bhuj. Ask which goes first on the line.",
-     "say": "Here are Dong, in Arunachal Pradesh, and Bhuj, in Kutch. Which one sees the Sun first?",
-     "kid": "Practice round. Dong is in the far east of India. Bhuj is in the far west. Who sees the Sun first?",
+     "say": "Here are Dong, in Arunachal Pradesh, and Bhuj, in Kutch. Let's practise with these two.",
+     "kid": "Practice round. Dong is in the far east of India. Bhuj is in the far west.",
      "check": {
       "t": "mcq",
       "q": "Who sees the sunrise first, Dong in the east or Bhuj in the west?",
@@ -954,7 +954,7 @@
      "mins": 3,
      "do": "Let the ring turn once all the way round. Count how many 'Sunrise!' calls each player makes.",
      "say": "Let's go all the way round once. How many sunrises did each of you get?",
-     "kid": "Go all the way round once. How many sunrises did you get?",
+     "kid": "Go all the way round once. Count your sunrises.",
      "ask": [
       {
        "q": "One full turn of the ring gave each of you how many sunrises? What is that like on the real Earth?",
@@ -968,8 +968,8 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Tell your child that the Earth also travels round the Sun. Then ask what would happen if the ring stopped turning.",
-     "say": "The real Earth also travels slowly round the Sun once a year. It spins about 365 times on that journey. In the activity Be the Earth, you will try turning and travelling at the same time.",
+     "do": "Tell your child that the Earth also travels round the Sun.",
+     "say": "The real Earth also travels slowly round the Sun once a year. It spins about 365 times on that journey.",
      "kid": "The Earth also goes round the Sun, once a year. It spins about 365 times on the way.",
      "think": "If the ring stopped turning, what would happen to the players on the night side?",
      "parent": "They would stay facing away from the Sun, so it would stay night for them. The players facing the Sun would have day for ever. This is why the spin matters: it keeps carrying every place into the light and out again."
@@ -1552,7 +1552,7 @@
    "title": "Torch and Ball: where does the night come from?",
    "mins": 25,
    "days": 1,
-   "context": "This is the torch and ball experiment. You shine a torch at a ball in a dark room, and turn the ball slowly. You find out how day and night happen, and which places see the Sun first.",
+   "context": "This is the torch and ball experiment. You shine a torch at a ball in a dark room, and turn the ball slowly. You will find out why night comes when the Sun does not move, and which places see the Sun first.",
    "question": "Can a torch that stays still, and a ball that turns, make day and night? And which place sees the sunrise first?",
    "predict": "Before you start, guess. Put three stickers on the ball for Dong, your home and Bhuj. Which sticker will come into the light first when you turn the ball, Dong in the east or Bhuj in the west? Why do you think so?",
    "fair_test": "To make it fair, keep the torch still in one place the whole time. Only the ball moves. Turn it the same slow way each time, from west to east. Try it 3 times, because one try can be a mistake.",
@@ -1594,7 +1594,7 @@
      "what": "Make the Earth ball. Shine the torch. Turn the ball and watch day and night. Find who sees the Sun first. Finish by saying what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table for 3 tries. Then draw the ball and the torch, and shade the night half.",
+   "record": "Fill in the table for 3 tries. Then take a photo of the ball lit by the torch. Or draw the ball and shade the night half.",
    "setup": [
     {
      "art": "An orange with a pencil pushed through it from top to bottom, and three small bindis stuck on its side in a row.",
@@ -1615,7 +1615,7 @@
      "mins": 3,
      "do": "Ask your child where the Sun goes at night. Write down their answer, without correcting it.",
      "say": "Where do you think the Sun goes at night? Tell me your idea. I'll write it down, and we'll test it.",
-     "kid": "Where does the Sun go at night? Say your idea. Write it down. We will test it.",
+     "kid": "Tell your grown-up your idea about where the Sun goes at night. It will be written down, and then we test it.",
      "parent": "All answers are welcome. Many children say the Sun goes behind the hills, into the sea, or to sleep. Keep their answer. They will check it themselves at the end.",
      "context": "This is the first step of the torch and ball experiment. First, your child shares their own idea of where the Sun goes at night."
     },
@@ -1624,7 +1624,7 @@
      "mins": 5,
      "do": "1. Push the pencil through the fruit, from top to bottom. 2. Tell your child the top is the North Pole. 3. Stick three dots in a row a little above the middle, about one finger-width apart. As you look at it, put Dong on the right, home in the middle and Bhuj on the left.",
      "say": "This ball is the Earth. The pencil is its axis, the line it spins around. The top is the North Pole. These dots are three places in India.",
-     "kid": "This ball is the Earth. The pencil is its axis. The top is the North Pole. Stick on three dots for three places.",
+     "kid": "Stick on three dots for three places: Dong, your home and Bhuj.",
      "adult": true,
      "parent": "Seen from the front, with the North Pole on top, east is to the right on the ball. So Dong goes to the right of Bhuj, with your home in between. India is north of the equator, so the dots go a little above the middle. The real places are much further apart than this, but a ball this small needs the dots close together."
     },
@@ -1632,8 +1632,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Make the room dark. 2. Put the torch on a pile of books, shining at the ball. 3. Hold the ball still by its pencil, about an arm's length from the torch. 4. Sit beside the ball so the torch shines on it from your right side.",
-     "say": "The torch is the Sun. Look at the ball. How much of it is lit up?",
-     "kid": "Turn off the lights. Shine the torch at the ball. How much of the ball is bright?",
+     "say": "The torch is the Sun. Look carefully at the ball.",
+     "kid": "Turn off the lights. Shine the torch at the ball. Look at which part is bright.",
      "ask": [
       {
        "q": "How much of the ball is lit?",
@@ -1668,7 +1668,7 @@
      "mins": 3,
      "do": "Keep turning until Dong has gone round the back of the ball into the dark, while Bhuj is still in the light. Lean over to look round the back.",
      "say": "Look. Here it is already night in Dong, but still evening in Bhuj. Did the torch move at all?",
-     "kid": "Keep turning. Look round the back of the ball. Is Dong in the dark while Bhuj is still in the light? Did the torch move?",
+     "kid": "Keep turning until Dong is in the dark. Look round the back of the ball. Is Bhuj still in the light?",
      "check": {
       "t": "mcq",
       "q": "In the experiment, what made the dots go from day into night?",
@@ -1766,7 +1766,7 @@
      "what": "Set the stick up in the morning. Spend about 2 minutes every hour marking the shadow tip, from about 9 until 4. At the end, measure and compare."
     }
    ],
-   "record": "Fill in the table. Draw a line from the stick to each mark. Then draw a line chart of shadow length against clock time.",
+   "record": "Fill in the table. Then draw a line chart of shadow length against clock time, or lay the measured shadows side by side and take a photo.",
    "setup": [
     {
      "art": "A stick standing straight up in a pot of soil on a sunny terrace, on a big sheet of paper.",
@@ -1805,8 +1805,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Look at all the marks together.",
-     "say": "Look at all the crosses. When was the shadow longest? When was it shortest? Which way did it move?",
-     "kid": "Look at all your crosses. When was the shadow longest? When was it shortest? Which way did it swing?",
+     "say": "Look at all the crosses. When was the shadow longest? Which way did it move?",
+     "kid": "Look at all your crosses. When was the shadow longest? Which way did it swing?",
      "ask": [
       {
        "q": "Why was the shadow short around noon?",
@@ -1892,7 +1892,7 @@
    "title": "Foucault's Pendulum on a Stool",
    "mins": 20,
    "days": 1,
-   "context": "This is a small home version of Foucault's pendulum. You hang a weight on a string over a stool and turn the stool while the weight swings. It shows how scientists proved the Earth spins.",
+   "context": "This is a small home version of Foucault's pendulum. You hang a weight on a string over a stool and turn the stool while the weight swings. You will find out whether a swing turns when the floor turns, which is how scientists showed the Earth spins.",
    "question": "If the floor turns under a swinging pendulum, does the swing turn with it?",
    "predict": "Before you start, guess. When we turn the stool, will the pendulum's swing turn with it, or stay the same? Why do you think so?",
    "fair_test": "To make it fair, start the swing along the chalk line every time. Turn the stool very slowly and smoothly, so you do not shake the string. Try it 3 times.",
@@ -1931,7 +1931,7 @@
      "what": "Hang the pendulum over the stool. Start it swinging along a line. Turn the stool slowly and watch. Then learn about Foucault's real pendulum."
     }
    ],
-   "record": "Draw the stool from above, with the chalk line, at the start and at the end. Draw an arrow for the swing each time.",
+   "record": "Take a photo of the stool from above, with the chalk line, at the start and at the end. Or draw it, with an arrow for the swing each time.",
    "setup": [
     {
      "art": "A heavy nut tied to a string hanging from a stick laid across two chairs, just above the seat of a round stool with a chalk line across it.",
@@ -1950,9 +1950,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Tie the weight to the string. 2. Tie the other end to a broom handle laid across the backs of two chairs. Wind the extra string round the handle until the weight hangs about 2 cm above the stool or plate. 3. Draw a chalk line across the middle of the stool or plate.",
+     "do": "1. Tie the weight to the string. 2. Tie the other end to a broom handle laid across the backs of two chairs. Wind the extra string round the handle until the weight hangs about 2 cm above the stool or plate. 3. Mark a chalk line across the middle of the stool or plate.",
      "say": "This is a pendulum, a weight on a string. Let's see what it does when the floor under it turns.",
-     "kid": "Tie the weight to the string. Hang it just above the stool. Draw a line across the stool.",
+     "kid": "Tie the weight to the string. Hang it just above the stool. Mark a chalk line across the stool.",
      "adult": true,
      "context": "This is the first step of the pendulum experiment. You hang a weight on a string over a stool that can turn."
     },
@@ -1960,7 +1960,7 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Pull the weight back a hand-span to one end of the chalk line. Let it go gently, without pushing it sideways. 2. When it swings neatly along the line, turn the stool very slowly a quarter turn. 3. Do it 3 times.",
-     "say": "Now I'll turn the stool very slowly. Watch the swing. Does it turn with the stool?",
+     "say": "Now I'll turn the stool very slowly. Watch the swing.",
      "kid": "Let the weight swing along the line. Now turn the stool very slowly. Watch the swing closely.",
      "check": {
       "t": "mcq",
@@ -1980,7 +1980,7 @@
      "mins": 5,
      "do": "Tell your child about Foucault's real pendulum in Paris.",
      "say": "In 1851, Léon Foucault hung a heavy ball on a 67-metre wire in a great hall in Paris. Nobody turned the floor. But over the hours, the swing seemed to turn round the room. What was turning?",
-     "kid": "In 1851, Foucault hung a giant pendulum in Paris. Nobody turned the floor. But the swing seemed to turn. What was really turning?",
+     "kid": "In 1851, Foucault hung a giant pendulum in Paris. Nobody turned the floor. But the swing seemed to turn.",
      "ask": [
       {
        "q": "In Paris, what was really turning?",
@@ -2009,7 +2009,7 @@
    "title": "Be the Earth",
    "mins": 10,
    "days": 1,
-   "context": "This is a short activity where your child becomes the spinning Earth. A grown-up is the Sun. When the child faces the grown-up, it is day. When they turn away, it is night.",
+   "context": "This is a short activity where your child becomes the spinning Earth. A grown-up is the Sun. When the child faces the grown-up, it is day. When they turn away, it is night. You will see that the Sun can stand still and night still comes.",
    "materials": [
     {
      "item": "a lamp or a grown-up to be the Sun",
@@ -2027,7 +2027,7 @@
      "what": "Act out the Earth's spin, then its journey round the Sun."
     }
    ],
-   "record": "Draw yourself as the Earth, with your face in the light and your back in the dark.",
+   "record": "Ask your grown-up to take two photos: you facing the Sun, and you with your back to it. Or draw yourself as the Earth.",
    "setup": [
     {
      "art": "A parent standing still with arms open like a glowing Sun, and a child facing them, smiling.",
@@ -2104,7 +2104,7 @@
      "what": "Spin slowly on a chair and watch the room. Next time you ride in a vehicle, watch the trees."
     }
    ],
-   "record": "Draw what you saw from the chair or the window, with arrows for which way things seemed to move.",
+   "record": "Tell your grown-up which way things seemed to move. Or draw it, with arrows.",
    "setup": [
     {
      "art": "A child sitting on a swivel chair, a grown-up gently turning it, the room drawn with blurry arrows going the other way.",
@@ -2148,7 +2148,7 @@
      "mins": 3,
      "do": "Later, on your next ride in a bus, car or train, remind your child to look out of the side window.",
      "say": "Look out of the window. Are the trees running? Or are we?",
-     "kid": "On your next ride, look out of the window. Are the trees running away? Or are you moving?",
+     "kid": "On your next ride, look out of the side window. What is really moving?",
      "think": "If you could not see out, and the ride was perfectly smooth, would you know you were moving?",
      "parent": "The answer is no. We feel changes in speed, such as bumps, brakes and sharp turns. A perfectly smooth ride gives us nothing to feel. This is also why we cannot feel the Earth spin."
     }
@@ -2227,9 +2227,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Help your child draw a table with 4 columns: date, sunrise, sunset, hours of light. Find today's times.",
+     "do": "Help your child make a table with 4 columns: date, sunrise, sunset, hours of light. Find today's times.",
      "say": "Every day this week, we'll write down when the Sun rises and sets here. Let's see if the times change.",
-     "kid": "Draw a table. Date, sunrise, sunset, hours of light. Write today's times. Do it every day this week.",
+     "kid": "Make a table: date, sunrise, sunset, hours of light. Write today's times. Do it every day this week.",
      "context": "This is the first step of the Sunrise and Sunset Diary. You start a table of the Sun's times for one week."
     },
     {
@@ -2334,7 +2334,7 @@
    "title": "The Star Clock: stars turning round Dhruva Tara",
    "mins": 15,
    "days": 1,
-   "context": "This is a night-time activity. You draw the stars near the Pole Star twice, two hours apart, and see that they have turned around it. It is evidence that the Earth spins.",
+   "context": "This is a night-time activity. You photograph or draw the stars near the Pole Star twice, two hours apart, and see that they have turned around it. It is evidence that the Earth spins.",
    "materials": [
     {
      "item": "a clear night with a view of the northern sky",
@@ -2357,7 +2357,7 @@
      "what": "After dark, draw the Saptarishi and the Pole Star with a rooftop. Draw them again 2 hours later."
     }
    ],
-   "record": "One drawing with two sets of stars in two colours, and the rooftop or tree that stayed still.",
+   "record": "Two photos, or one drawing with two sets of stars in two colours, and the rooftop or tree that stayed still.",
    "setup": [
     {
      "art": "A child and parent on a terrace at night, the parent pointing to the seven stars of the Saptarishi low in the north, a rooftop below.",
@@ -2376,9 +2376,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. After dark, go out to a spot with a view north. 2. Find the Saptarishi, seven bright stars shaped like a big ladle. 3. Follow the two stars at the end of the ladle's cup to the Pole Star. 4. Draw them, with a rooftop or tree below. Write the time.",
-     "say": "Those seven stars are the Saptarishi. The two at the end point to Dhruva Tara, the Pole Star. Let's draw them, and the rooftop.",
-     "kid": "Find the seven stars of the Saptarishi. The two end stars point to Dhruva Tara. Draw them. Draw a rooftop too.",
+     "do": "1. After dark, go out to a spot with a view north. 2. Find the Saptarishi, seven bright stars shaped like a big ladle. 3. Follow the two stars at the end of the ladle's cup to the Pole Star. 4. Take a photo of them, with a rooftop or tree below, or draw them. Write the time.",
+     "say": "Those seven stars are the Saptarishi. The two at the end point to Dhruva Tara, the Pole Star. Let's photograph or draw them with the rooftop, and write the time.",
+     "kid": "Find the seven stars of the Saptarishi. The two end stars point to Dhruva Tara. Take a photo of them with a rooftop, or draw them.",
      "adult": true,
      "parent": "The Saptarishi is easiest to see in the evening from about February to June. In other months, look for Cassiopeia, a W shape, on the other side of the Pole Star. In very southern India, the Pole Star is low, near the horizon. In a bright city only the brightest stars show. If you cannot find the Pole Star, draw any bright star beside a fixed rooftop edge instead, and see how it moves.",
      "context": "This is the first step of the Star Clock. You draw the stars around the Pole Star so you can see them turn."
@@ -2386,9 +2386,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Two hours later, stand in exactly the same spot. Draw the stars again on the same paper, in a new colour.",
+     "do": "Two hours later, stand in exactly the same spot. Take a second photo, or draw the stars again on the same paper in a new colour.",
      "say": "Same spot, same rooftop. Have the stars moved?",
-     "kid": "Two hours later, stand in the same spot. Draw the stars again in a new colour. Have they moved?",
+     "kid": "Two hours later, stand in the same spot. Take a second photo, or draw the stars again in a new colour. Have they moved?",
      "adult": true,
      "wait": "Wait 2 hours between drawings."
     },
@@ -2396,7 +2396,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Compare the two drawings. Look at what moved and what stayed still.",
-     "say": "The rooftop stayed still. The Saptarishi swung round the Pole Star. But the Pole Star stayed put. Why?",
+     "say": "The rooftop stayed still. The Saptarishi swung round the Pole Star. But the Pole Star stayed put.",
      "kid": "The rooftop did not move. The Saptarishi swung round. Did the Pole Star move?",
      "check": {
       "t": "mcq",
@@ -2438,7 +2438,7 @@
      "what": "Go out at sunset. Turn your back to the Sun. Watch the eastern sky for about 8 minutes."
     }
    ],
-   "record": "A drawing of the eastern sky after sunset, with the dark blue band and the pink band above it.",
+   "record": "A photo or a drawing of the eastern sky after sunset, with the dark blue band and the pink band above it.",
    "setup": [
     {
      "art": "A child on a terrace at sunset with their back to the orange setting Sun, facing the eastern sky.",
@@ -2479,9 +2479,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Draw what you saw.",
-     "say": "Let's draw it. Where is the Sun? Where is the shadow?",
-     "kid": "Draw the sky. Colour the shadow band blue and the band above it pink.",
+     "do": "Point and tell, or draw what you saw.",
+     "say": "Show me with your hand. Where is the Sun? Where is the shadow?",
+     "kid": "Point to where the Sun is and where the shadow is. Or draw the sky, with a blue band and a pink band.",
      "check": {
       "t": "mcq",
       "q": "What is the dark band low in the eastern sky just after sunset?",
@@ -2642,7 +2642,7 @@
     "Grow a touch-me-not plant inside. The plant's leaves fold at their own 'night', like a living clock.",
     "Astronauts on the space station see 16 sunsets a day. They use special lights that change colour to help their body clocks."
    ],
-   "your_turn": "Now invent your own way. Draw it, make a model in a shoebox, and test it on your family for one evening. Did it help anyone feel sleepy?",
+   "your_turn": "Now invent your own way. Make a model in a shoebox, and test it on your family for one evening. Did it help anyone feel sleepy?",
    "setup": [
     {
      "art": "A small red research hut in a snowy Arctic place, the Sun low in the sky at midnight, a clock on the wall showing 12.",
@@ -2667,7 +2667,7 @@
      "mins": 5,
      "do": "List three ideas together before building anything.",
      "say": "Engineers think before they build. Let's list three ideas.",
-     "kid": "Think like an engineer. Draw three ideas before you build."
+     "kid": "Think like an engineer. Say three ideas before you build."
     },
     {
      "id": "s3",

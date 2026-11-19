@@ -701,15 +701,15 @@
      "mins": 3,
      "do": "1. Cut out the cards. 2. Shuffle the job cards and put them face down in one pile. 3. Shuffle the material cards and deal 3 to each player. 4. Put the rest in a second pile.",
      "say": "Every material is looking for a job. You are the boss. For each job, you hire the best material in your hand. But you must say which property gets it the job.",
-     "kid": "Each material card is looking for a job. You are the boss! Look at your 3 material cards. Read the properties on each one.",
+     "kid": "Look at your 3 material cards. Read the properties on each one.",
      "context": "This is the first step of Hire a Material. It is a card game where you choose the best material for each job, and say why."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Play one practice round together with the job card 'the handle of a kadai'.",
-     "say": "Practice round. The job is the handle of a kadai. The kadai gets very hot on the gas. Which material would you hire for the handle?",
-     "kid": "Practice job: the handle of a kadai. The pan gets very hot. Which material should hold it?",
+     "say": "Practice round. The job is the handle of a kadai. The kadai gets very hot on the gas.",
+     "kid": "Practice job: the handle of a kadai. Read the properties on your cards.",
      "ask": [
       {
        "q": "Why not copper for the handle?",
@@ -744,7 +744,7 @@
      "mins": 3,
      "do": "Count the tokens. Then pick one job where two materials both worked, and talk about which you would really choose.",
      "say": "For the window, glass and clear plastic both work. Which would you choose, and why?",
-     "kid": "Count your tokens. Who won? Now think of the window job. Glass or clear plastic? Why?",
+     "kid": "Count your tokens. Who won?",
      "think": "Is there ever only one right material for a job? What else besides the property helps you choose?",
      "parent": "Often several materials work. Cost, weight, safety, how long it lasts and what happens to it afterwards also help you choose."
     }
@@ -817,7 +817,7 @@
      "mins": 2,
      "do": "1. Choose a shopkeeper. 2. Put the silly product cards face down. 3. Give each customer a complaint slip.",
      "say": "Welcome to the Silly Shop! Everything here is made of the wrong material. The shopkeeper will try to sell it to you. Your job is to find out what will go wrong.",
-     "kid": "Welcome to the Silly Shop! Everything here is made of the wrong material. Can you find the problem before you buy?",
+     "kid": "You are the customer. Find the problem before you buy.",
      "context": "This is the first step of The Silly Shop. It is an acting game about objects made of the wrong material."
     },
     {
@@ -825,7 +825,7 @@
      "mins": 3,
      "do": "The grown-up plays shopkeeper first, selling the chocolate kadai card to show how the game works. Then shuffle that card back into the pile.",
      "say": "Come, come! Buy my beautiful chocolate kadai! So shiny, so brown, and it smells delicious. Perfect for frying medu vadas!",
-     "kid": "Listen to the shopkeeper. Would you buy a chocolate kadai? What would happen on the gas?",
+     "kid": "Listen to the shopkeeper. Think about a kadai on the gas.",
      "check": {
       "t": "mcq",
       "q": "What is the real problem with a chocolate kadai?",
@@ -851,7 +851,7 @@
      "mins": 4,
      "do": "Together, invent one new silly product for the shop. Then turn it into a sensible one.",
      "say": "Let's invent our own silly product. Now fix it. What would you change?",
-     "kid": "Invent your own silly product for the shop. Draw it. Then draw the sensible one next to it.",
+     "kid": "Invent your own silly product for the shop. Act it out, or draw it. Then say what to change to make it sensible.",
      "think": "Was every silly product useless? Could a 'wrong' material be right for a different job? Think of a rubber knife used in a play."
     }
    ],
@@ -1593,9 +1593,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Help your child draw a bar chart, one bar for each spoon.",
+     "do": "Help your child show the times as a bar chart, one bar for each spoon. Or they can cut a paper strip as long as each time.",
      "say": "Let's turn our times into a picture. A taller bar means a longer wait.",
-     "kid": "Draw one bar for each spoon. Make it as tall as the minutes it took. The spoon with the shortest bar carried heat fastest.",
+     "kid": "Draw one bar for each spoon, as tall as the minutes it took. Or cut a paper strip for each. The shortest one is the spoon that carried heat fastest.",
      "check": {
       "t": "mcq",
       "q": "The steel spoon's pea fell first. What does that tell us about steel?",
@@ -1735,14 +1735,14 @@
      "what": "Wrap the ice cubes and guess (8 minutes). Check them every 10 minutes until all four have melted, which can take up to an hour and a half. Read the explanation cards or do the Lotus Leaf activity while you wait. Then draw the chart and say what you think (7 minutes)."
     }
    ],
-   "record": "Fill in the table. Draw a bar for each wrapping, as tall as the minutes its ice lasted.",
+   "record": "Fill in the table. Then put the saucers in order, longest-lasting ice first.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Ask your child to put on a sweater or wrap a shawl around their arm. 2. Ask: why does it feel warm? 3. Write down their answer.",
      "say": "Put on your sweater. Does it feel warm? Where does the warmth come from? Is the sweater making heat?",
-     "kid": "Put on a sweater. Do you feel warm? Where does that warmth come from? Does the sweater make it?",
+     "kid": "Put on a sweater. Do you feel warm?",
      "ask": [
       {
        "q": "Where does the warmth come from?",
@@ -1774,9 +1774,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Draw a bar chart of how long each ice cube lasted.",
-     "say": "Let's draw a bar for each wrapping. The tallest bar shows the ice that lasted longest.",
-     "kid": "Draw one bar for each wrapping. Make it as tall as the minutes the ice lasted. Which bar is tallest?",
+     "do": "Line up the four saucers, from the ice that lasted longest to the one that lasted shortest. Put a paper label with the minutes by each.",
+     "say": "Let's put them in order. The ice that lasted longest goes first.",
+     "kid": "Put the saucers in order, longest-lasting ice first. Write its minutes on a paper label by each.",
      "check": {
       "t": "mcq",
       "q": "The ice cube in the woollen sock lasted longest. Why?",
@@ -1868,7 +1868,7 @@
     },
     {
      "art": "A child drawing a bar chart with four bars, the sock's bar much taller than the others.",
-     "caption": "3. Draw a bar for each. Which lasted longest?"
+     "caption": "3. Put them in order. Which lasted longest?"
     }
    ]
   },
@@ -1922,7 +1922,7 @@
      "what": "Soak the clay pot for an hour beforehand. Fill the containers and measure the start temperature (11 minutes). Come back after 3 hours and measure again (19 minutes)."
     }
    ],
-   "record": "Fill in the table. Work out how many degrees each one cooled down. Draw what the outside of the clay pot looked like.",
+   "record": "Fill in the table. Work out how many degrees each one cooled down. Take a photo of the outside of the clay pot, or tell your grown-up what it looked like.",
    "flow": [
     {
      "id": "s1",
@@ -2162,7 +2162,7 @@
      "mins": 5,
      "do": "1. Line up all the spoons. 2. Ask your child what all of them have in common. 3. Then ask what is different about each.",
      "say": "All of these are spoons. They all do the same job. So why are they made of so many materials?",
-     "kid": "Line up the spoons. They all do the same job. What is the same about them? What is different?",
+     "kid": "Line up the spoons. Pick them up one by one. What is different about each?",
      "ask": [
       {
        "q": "What do all spoons need?",
@@ -2180,7 +2180,7 @@
      "mins": 5,
      "do": "Do the same with the plates. For each, talk about cost, how long it lasts and what happens when it is thrown away.",
      "say": "Which plate would you use for a wedding feast for 500 people? Which for every day for twenty years?",
-     "kid": "Now line up the plates. Which would you use for a big feast? Which for every day? What happens to each one when it is thrown away?",
+     "kid": "Now line up the plates. Which would you use for a big feast? Which for every day?",
      "parent": "A banana leaf or areca leaf plate is cheap, waterproof on top and rots away. A steel plate lasts many years. A paper plate is used once and is often coated with plastic, so it may not rot easily."
     },
     {
@@ -2245,7 +2245,7 @@
      "what": "Take an old object apart. Find each material and its job."
     }
    ],
-   "record": "Draw the object exploded into its parts, like a puzzle pulled apart. Label each part's material and job.",
+   "record": "Take a photo of the parts laid out with their labels. Or draw them spread out, like a puzzle pulled apart.",
    "flow": [
     {
      "id": "s1",
@@ -2267,9 +2267,9 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "For each part, ask: what job does it do, and what property helps? Then draw all the parts spread out, and label each one.",
-     "say": "Why is the rib steel and not plastic? Why is the cloth not cotton?",
-     "kid": "For each part, say its job. Why that material? Then draw all the parts spread out, with labels.",
+     "do": "For each part, ask: what job does it do, and what property helps? Then lay all the parts out and give each one a paper label.",
+     "say": "Why is the rib steel and not wood? Why is the cloth waterproof?",
+     "kid": "Lay the parts out on the tray. For each part, say its job and why that material. Write a paper label with its material and job.",
      "check": {
       "t": "mcq",
       "q": "An umbrella's ribs are springy steel. Why?",
@@ -2294,7 +2294,7 @@
     },
     {
      "art": "A child's exploded drawing of an umbrella, with the cloth, ribs, spring and handle spread out and labelled with arrows.",
-     "caption": "3. Draw the parts spread out. Label each material and its job."
+     "caption": "3. Lay the parts out. Label each material and its job."
     }
    ]
   },
@@ -2329,14 +2329,14 @@
      "what": "Drip water on leaves. Then wax some paper and test it."
     }
    ],
-   "record": "Draw how a water drop looked on each leaf and each paper. Write which one you would use for a paper boat.",
+   "record": "Tell your grown-up what the drops did on each leaf and each paper. Draw them if you like. Write which paper you would use for a paper boat.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Drip a few drops of water on the waxy leaf. 2. Tilt it gently. 3. Do the same on the soft leaf.",
      "say": "Look at the drops. On which leaf do they roll like tiny marbles?",
-     "kid": "Drip water on the waxy leaf. Tilt it. Do the drops roll like marbles? Now try the soft leaf.",
+     "kid": "Drip water on the waxy leaf. Tilt it. Now try the soft leaf.",
      "ask": [
       {
        "q": "What do the drops do on the waxy leaf?",
@@ -2371,7 +2371,7 @@
      "mins": 4,
      "do": "Talk about how people copy the lotus leaf, and how they change materials to suit new jobs.",
      "say": "In 1997, two scientists in Germany explained why lotus leaves stay clean. Now some paints copy them. People also coat paper cups and cloth to make them waterproof.",
-     "kid": "Scientists copied the lotus leaf to make self-cleaning paint! People also coat paper and cloth to make them waterproof. Where have you seen this?",
+     "kid": "Where have you seen a coating that keeps water out?",
      "think": "The lotus leaf stays clean because drops roll off and take the dust with them. Why would a soft leaf not clean itself in the same way?",
      "parent": "Water soaks into a soft leaf or spreads flat on it, so it cannot roll off. On a waxy leaf, the water stays in round drops that roll away and carry the dust with them."
     }
@@ -2435,7 +2435,7 @@
      "mins": 5,
      "do": "1. Tap the steel tumbler and hold it up. Listen to the ring. 2. Tap it again and then press a folded cloth against it. 3. Put the ringing tumbler on a pillow.",
      "say": "The steel keeps ringing. The cloth and the pillow stop it. Soft materials absorb sound. They soak up the shaking, a bit like a towel soaks up water.",
-     "kid": "Tap the steel tumbler. Listen to it ring. Now press a cloth on it. The ring stops! Soft things soak up sound.",
+     "kid": "Tap the steel tumbler. Listen to it ring. Now press a cloth on it. The ring stops! Then stand it on a pillow. Soft things soak up sound.",
      "check": {
       "t": "mcq",
       "q": "Why are temple bells made of metal, not wood?",
@@ -2453,7 +2453,7 @@
      "mins": 4,
      "do": "Play a short tune together on the materials that ring. Use the ones that thud as a drum.",
      "say": "Music studios and cinema halls cover their walls with soft materials. Why do you think they do that?",
-     "kid": "Play a tune with the ringing things. Use the thuds as a drum! Why do cinema halls have soft walls?",
+     "kid": "Play a tune with the ringing things. Use the thuds as a drum!",
      "think": "Which is better for a library: hard stone walls or soft cloth walls? Why?",
      "parent": "Soft cloth walls are better. They absorb sound, so the library stays quiet. Hard stone walls bounce the sound back, so a room echoes."
     }
@@ -2501,7 +2501,7 @@
      "what": "Act out heat moving through wood, then through metal."
     }
    ],
-   "record": "Draw the two lines of atoms: one passing heat by jiggling, one with free electrons running along.",
+   "record": "Write how many seconds each line took, and which was faster. Draw the two lines of atoms if you like.",
    "flow": [
     {
      "id": "s1",
@@ -2516,7 +2516,7 @@
      "mins": 6,
      "do": "1. Time how long the jiggle takes to reach the end. 2. Now the metal version: the atoms stand still in the line, but one free player is an 'electron'. 3. The electron grabs the soft ball, which stands for the heat, at the hot end and runs it to the far end. 4. Time it.",
      "say": "Now we are a steel spoon. Steel has free electrons. They do not stay with one atom. They zoom about and carry heat with them. Run!",
-     "kid": "Now you are a steel spoon! One player is a free electron. Grab the heat ball at the hot end. Run it to the other end. Was that faster?",
+     "kid": "Now you are a steel spoon! One player is a free electron. Grab the heat ball at the hot end. Run it to the other end.",
      "check": {
       "t": "mcq",
       "q": "In the game, why did heat reach the end faster in the 'metal' line?",
@@ -2534,7 +2534,7 @@
      "mins": 5,
      "do": "Talk about how this matches the Hot Spoon Race, if you have done it.",
      "say": "In the Hot Spoon Race, the steel spoon's butter melted first. Now you know why. Its free electrons rushed the heat up the handle.",
-     "kid": "In the Hot Spoon Race, steel won. Now you know why! Its free electrons ran the heat up the spoon.",
+     "kid": "Which spoon won the Hot Spoon Race? What ran the heat up the spoon?",
      "think": "Metals also carry electricity, using the same free electrons. Name something in your home that has copper wire inside.",
      "parent": "Any answer with a wire works, such as a fan, a lamp, a mixer or a phone charger. Copper carries electricity well because of its free electrons."
     }
@@ -2608,7 +2608,7 @@
      "what": "Measure again. Compare the coriander. Write what you found and how you would improve the cooler."
     }
    ],
-   "record": "Each day, write the temperature inside the cooler and outside it. Draw the two coriander bunches side by side.",
+   "record": "Each day, write the temperature inside the cooler and outside it. Take a photo of the two coriander bunches side by side, or draw them.",
    "flow": [
     {
      "id": "s1",
@@ -2638,7 +2638,7 @@
      "id": "s4",
      "mins": 15,
      "do": "On day 2, pour more water on the sand. Measure the temperatures again and look at both coriander bunches.",
-     "say": "The sand has dried a little. Why do we need to add more water?",
+     "say": "The sand has dried a little.",
      "kid": "Pour more water on the sand. Measure inside and outside again. Which coriander looks fresher?",
      "wait": "Come back tomorrow.",
      "check": {
@@ -2656,9 +2656,9 @@
     {
      "id": "s5",
      "mins": 25,
-     "do": "On day 3, measure again, compare the two coriander bunches, and draw both. Then write three sentences: what I think, what I saw, why.",
+     "do": "On day 3, measure again, compare the two coriander bunches, and take a photo of both. Then write three sentences: what I think, what I saw, why.",
      "say": "Tell me three things. What do you think? What did you see? Why do you think it happened? Then, how would you improve our cooler?",
-     "kid": "Measure again. Compare the two bunches. Draw them. Then say what you think, what you saw and why. How would you make your cooler better?",
+     "kid": "Measure again. Compare the two bunches. Take a photo or draw them. Then say what you think, what you saw and why. How would you make your cooler better?",
      "wait": "Come back on day 3.",
      "parent": "A good answer sounds like this. What I think: the pot cooler keeps food cooler and fresher. What I saw: inside it was 23 degrees and outside it was 31 degrees. On day 3, the coriander inside was still green. The one outside had wilted. Why: water evaporated from the wet sand and clay, and that took heat away.",
      "chart": {
@@ -2726,14 +2726,14 @@
     "Copy a flask. A flask has two walls with almost no air between them. Can you make two walls with a gap?",
     "Copy a bird. Birds fluff their feathers to trap more air. Can you fluff up your material?"
    ],
-   "your_turn": "Now invent your own cosy. Draw it, build it and test it against a bare tumbler. How many degrees did your cosy save?",
+   "your_turn": "Now invent your own cosy. Plan it, build it and test it against a bare tumbler. How many degrees did your cosy save?",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Explain the challenge. 2. Together, list materials at home that might keep heat in. 3. Your child draws a design.",
+     "do": "1. Explain the challenge. 2. Together, list materials at home that might keep heat in. 3. Your child draws a design, or tells you the plan.",
      "say": "Engineers design first and build second. Which materials do you think will keep the heat in? Why?",
-     "kid": "Think like an engineer. Which materials might keep heat in? Draw your cosy design first.",
+     "kid": "Think like an engineer. Which materials might keep heat in? Draw your cosy design first, or tell your grown-up the plan.",
      "context": "This is the first step of Keep the Coffee Hot. You design a cosy that keeps a tumbler of hot water warm."
     },
     {
@@ -2787,7 +2787,7 @@
      "mins": 5,
      "do": "Compare the usual solutions and the creative ideas with your design. Then improve your cosy.",
      "say": "How many degrees did your cosy save? What would you change to save even more?",
-     "kid": "How many degrees warmer was your tumbler? Look at the creative ideas. What would you change?",
+     "kid": "Work out how many degrees warmer your tumbler was. Look at the creative ideas. What would you change?",
      "check": {
       "t": "mcq",
       "q": "Which cosy would keep coffee hottest?",
@@ -2845,14 +2845,14 @@
     "Pack uncooked rice or dal around the egg. The grains shift and spread out the bump.",
     "Copy nature. Eggs in a nest sit on soft grass and feathers. What could you copy?"
    ],
-   "your_turn": "Now invent your own packing. Draw it, pack it and test it. Did your egg survive? What would you change?",
+   "your_turn": "Now invent your own packing. Plan it, pack it and test it. Did your egg survive? What would you change?",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Explain the problem. 2. Squeeze each material in your hand: sponge, cotton wool, newspaper, rice, cloth. 3. Ask which ones squash softly.",
      "say": "Which materials squash softly, like a cushion? Which are hard? Which one would you want around your egg?",
-     "kid": "Squeeze each material. Which ones squash softly? Which would protect an egg best?",
+     "kid": "Squeeze each material, one by one. Sort them into 'squashy' and 'hard'.",
      "context": "This is the first step of Post the Egg. You choose soft materials to protect a raw egg from a fall."
     },
     {
@@ -2878,7 +2878,7 @@
      "mins": 10,
      "do": "1. Spread newspaper on the floor. 2. A grown-up holds the box at table height and drops it. 3. Open it and check the egg. 4. Try again with a better design if it cracked.",
      "say": "Three, two, one, drop! Let's open it. Did your egg survive?",
-     "kid": "Ask a grown-up to drop your box from table height onto newspaper. Open it. Is the egg safe?",
+     "kid": "Ask a grown-up to drop your box from table height onto newspaper. Open it and look at the egg.",
      "adult": true,
      "parent": "Start with a hard-boiled egg if you want less mess. Wash hands after touching raw egg."
     },

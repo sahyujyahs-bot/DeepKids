@@ -284,7 +284,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - **s1 (3 min)**  
   *Parent does:* 1. Put the 4 SUN cards in a row in the middle of the table. 2. Shuffle the other 33 cards and deal 5 to each player. 3. Put the rest in a face-down pile.  
   *Parent says:* In this game, you build food chains. Each chain shows how energy from the Sun passes from one living thing to the next, until it reaches a plate. Every chain starts from a SUN card.  
-  *Child mode:* Every chain starts from a SUN card. Each card passes the energy on. Play cards from your hand to make chains!
+  *Child mode:* Look at your 5 cards. Which one could go next to a SUN card?
 - **s2 (4 min)**  
   *Parent does:* Build one practice chain together: SUN, Mustard flower, Honeybee, Honey.  
   *Parent says:* Let's build one together. The Sun feeds the mustard flower. The bee drinks nectar from the flower. The bee makes honey. The SUN card was already on the table, so we score for the three cards we play: 3 points.  
@@ -313,13 +313,13 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - **s2 (10 min)**  
   *Parent does:* Take turns being the mystery food. Use the helper cards for good questions.  
   *Parent says:* Good detectives start with big questions. Was I ever alive? Did I come from a plant? Then they get smaller.  
-  *Child mode:* Start with big questions. Was I ever alive? Then smaller ones. Did I grow underground?
+  *Child mode:* Ask a yes or no question. Each question costs you one token.
   - Note: Watch for the 'sort of' answers. They lead to the best talk. Honey: 'Did I come from an animal?' Sort of, from bees, but bees made it from flowers. Curd: 'Did tiny living things help make me?' Yes. Potato: 'Am I a root?' No, I'm an underground stem.
   - Check: The mystery food answers: 'I was alive. I grew under the ground. I have eyes that can sprout. I am not a root.' What is it? → **Potato**
 - **s3 (3 min)**  
   *Parent does:* At the end, ask which question was the most useful.  
   *Parent says:* Which question helped you most? Why?  
-  *Child mode:* Which question helped you most? Why do you think so?
+  *Child mode:* Pick the question that helped most.
   - Note: Questions like 'Was I ever alive?' or 'Did I grow on a plant?' rule out many foods at once.
   - Think: Good scientists ask questions that rule out half of the possible answers. Which of your questions did that?
 
@@ -334,42 +334,42 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - **schedule:** day 1: Guess which katoris will turn into curd. Then set up three katoris of warm milk: A with curd in a warm place, B with no curd in a warm place, C with curd in the fridge. (13 min); day 2: Do the tilt test on all three. Fill in the table. Say what you think, what you saw and why. (12 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child a bowl of milk and a bowl of curd. 2. Ask how one becomes the other.  
-  *Parent says:* This is milk. This is curd. Tomorrow morning, some milk will have turned into curd. How do you think that happens?  
-  *Child mode:* Look at the milk. Look at the curd. How does milk become curd? Say your guess.
+  *Parent says:* This is milk. This is curd. By tomorrow morning, some of this milk will have turned into curd.  
+  *Child mode:* Look at the milk. Look at the curd. Say your guess.
   - Ask: How does milk become curd? (good: You add a bit of old curd.; You leave it overnight.; Something in the curd changes the milk.)
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up boils the milk and lets it cool until it feels just warm on the wrist. 2. Pour the same amount into three katoris. 3. Label them A, B and C with tape.  
   *Parent says:* Each katori gets the same amount of milk. That keeps the test fair.  
-  *Child mode:* Wait for a grown-up to pour the warm milk. Each katori gets the same amount. Label them A, B and C.
+  *Child mode:* Stick a tape label on each katori: A, B and C.
   - Note: Milk that is too hot kills the bacteria. Milk that is too cold makes them very slow. Just warm on the wrist is right.
 - **s3 (4 min)**  
   *Parent does:* 1. Stir 1 teaspoon of curd into A. 2. Add nothing to B. 3. Stir 1 teaspoon of curd into C. 4. Put A and B in a warm corner. Put C in the fridge.  
-  *Parent says:* A gets curd and stays warm. B gets no curd and stays warm. C gets curd but goes in the cold fridge.  
+  *Parent says:* The curd carries the curd bacteria. A has the bacteria and is warm. B has none. C has them but is cold.  
   *Child mode:* Put a spoon of curd in A and C. Put nothing in B. A and B stay warm. C goes in the fridge.
   - Note: In cold weather, keep katoris A and B warm all night. Wrap them in a thick towel, or put them in a closed casserole. Curd sets in about 6 to 8 hours when it is warm, and much more slowly when it is cold. If A is still runny in the morning, leave it warm for 3 or 4 more hours before you judge.
   - Check: Katoris A and B both stay warm. What is the only difference between them? → **A has curd added, B does not**
   - Wait: Leave the katoris overnight, about 8 hours.
 - **s4 (5 min)**  
-  *Parent does:* 1. Next morning, bring out all three. 2. Tilt each one slowly. 3. Score it 0 if it flows like milk. Score it 1 if it moves like thick custard. Score it 2 if it sets and holds. 4. Smell each one. 5. Write it all in the table.  
-  *Parent says:* Let's tilt each one gently. Does it flow, wobble, or hold still?  
+  *Parent does:* 1. Next morning, bring out all three. 2. Tilt each one slowly. 3. Score it 0 if it flows like milk. Score it 1 if it wobbles like thick custard. Score it 2 if it sets and holds. 4. Smell each one. 5. Write it all in the table.  
+  *Parent says:* Let's see what happened overnight. Tilt each katori gently.  
   *Child mode:* Tilt each katori slowly. Does it flow, wobble or hold? Give it 0, 1 or 2. Smell it. Write it down.
   - Note: Typical results: A sets well (score 2) and smells pleasantly sour. B is still runny (0). If the milk was not boiled well, B may turn a little sour by itself. C is runny or barely thick (0 or 1), because the cold makes the bacteria very slow.
 - **s5 (4 min)**  
-  *Parent does:* Draw a bar chart together. One bar for each katori, as tall as its tilt score.  
+  *Parent does:* Make a bar chart together. One bar for each katori, as tall as its tilt score. Draw the bars, or stack one spoon for each point.  
   *Parent says:* Let's turn the scores into bars. Which katori made the best curd?  
-  *Child mode:* Draw a bar for each katori. Make it as tall as its score. Which one is tallest?
+  *Child mode:* Make a bar for each katori, as tall as its score. Draw it, or stack spoons.
   - Check: Suppose katori A, with curd in a warm place, sets into curd. Katori C, with curd in the fridge, does not. What does that tell us? → **The curd bacteria need warmth to work**
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see? And why do you think it happened?  
-  *Child mode:* Say three things: what you think now, what you saw, and why you think it happened.
+  *Child mode:* Tell what you saw, and why you think it happened.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: tiny living things in curd turn milk into curd, and they need warmth. What I saw: A set hard, but B and C stayed runny. Why: A had the bacteria and warmth. B had no bacteria. C had bacteria, but the cold slowed them down.
 ### e2 · Sprouting Moong: do seeds need water to grow? (35 min, 3 days)
 - **question:** Dry moong seeds each hold a baby plant that is resting. Do seeds need water to start growing? And how much water does a seed take in?
 - **predict:** Guess first. Will the seeds on the dry cloth sprout? Will soaked seeds weigh more, less or the same as dry seeds? Why do you think so?
 - **fair test:** To make it fair, use the same kind of seed, the same number of seeds and the same place. Change only one thing: wet cloth or dry cloth. Count 20 seeds on each, because a few seeds may not sprout at all.
 - **safety:** Wash hands before and after. Steam or boil sprouts before eating them, because raw sprouts can carry germs.
-- **record:** Write the dry weight and the soaked weight. Fill in the sprout table for each day. Draw one dry seed and one sprout, the size they really are.
+- **record:** Write the dry weight and the soaked weight. Fill in the sprout table for each day. Draw one dry seed and one sprout, the size they really are, or take a photo of each.
 - **results table:** Day | Wet cloth: seeds sprouted (out of 20) | Dry cloth: seeds sprouted (out of 20) | Longest root on the wet cloth (in mm)
 - **schedule:** day 1: Weigh 50 grams of dry moong and soak it overnight. Put 20 dry seeds on a dry cloth. (12 min); day 2: Weigh the soaked moong. Put 20 soaked seeds on a wet cloth. (10 min); day 3: Count the sprouts on both plates. Measure the longest root. Split a sprout open. Say what you think, what you saw and why. (13 min)
 - **s1 (6 min)**  
@@ -403,7 +403,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see? Why?  
-  *Child mode:* Say three things: what you think now, what you saw, and why you think it happened.
+  *Child mode:* Tell what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: seeds need water to sprout. What I saw: 18 out of 20 wet seeds sprouted, but none of the dry ones did. The soaked seeds got twice as heavy. Why: the seeds took in water, and the water let the baby plant start growing, using their stored food.
 ### e3 · The Iodine Test: which foods have starch? (25 min)
 - **problem:** Iodine is an orange-brown liquid. When it touches starch, it turns dark blue-black, so iodine lets you see starch in food. Plants pack starch into their seeds, roots and underground stems. In this test you put iodine on nine foods to find out which ones have starch.
@@ -411,12 +411,12 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - **predict:** Before testing, sort the food pieces into two groups: the ones you think have starch, and the ones you think do not. Say why for each one.
 - **fair test:** To make it fair, use pieces of about the same size and put the same number of drops on each one. Test every food the same way.
 - **safety:** Only a grown-up handles the iodine. Never eat any food that has iodine on it. Throw all the tested pieces away and wash the plate. Iodine stains, so wear old clothes.
-- **record:** Fill in the table. Then make a picture list of the foods that turned blue-black, and say which part of a plant each came from.
+- **record:** Fill in the table. Then list the foods that turned blue-black, and say which part of a plant each came from. You can stick the food pieces next to the list instead of drawing them.
 - **results table:** Food | Where it came from (plant, animal or Earth) | My guess: starch or no starch? | What happened: blue-black or stayed brown-orange?
 - **s1 (5 min)**  
   *Parent does:* 1. Lay the nine food pieces in a row on a steel plate. 2. Ask your child where each one came from. 3. Ask them to guess which have starch.  
   *Parent says:* Starch is the food a plant packs away for later, mostly in their seeds and their underground parts. Which of these do you think have starch?  
-  *Child mode:* Look at the nine foods. Where did each one come from? Which ones have starch, do you think?
+  *Child mode:* Look at the nine foods. Where did each one come from?
   - Ask: Which foods do you think have starch? Why? (good: Rice and chapati, because they come from seeds.; Potato, because it stores food underground.; Not paneer, because it comes from milk.)
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* 1. A grown-up mixes 5 drops of iodine with 2 spoons of water in a small cup. 2. Put one drop on a slice of raw potato first, to show what blue-black looks like.  
@@ -432,14 +432,14 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - **s4 (4 min)**  
   *Parent does:* Sort the tested foods into two groups: blue-black and not. Ask which part of a plant each blue-black food came from.  
   *Parent says:* Look at all the blue-black ones. What do they have in common?  
-  *Child mode:* Put the blue-black foods together. Which part of a plant did each come from?
+  *Child mode:* Put the blue-black foods in one group and the others in another group.
   - Ask: Which plant parts gave us starch? (good: Seeds, like rice, wheat in the chapati, and besan from chana.; The potato, an underground stem.; Banana, a fruit that is not ripe yet.)
   - Note: As a banana ripens, its starch changes into sugar. That is why a raw banana turns blue-black with iodine, and a ripe banana, with less starch, tastes sweeter.
   - Think: A ripe banana tastes sweeter than a raw one. Where did its starch go?
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think, what did you see, and why?  
-  *Child mode:* Say three things: what you think now, what you saw, and why you think it happened.
+  *Child mode:* Tell what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: plants store starch in their seeds and underground parts, but animal foods do not have starch. What I saw: rice, chapati, besan and potato turned blue-black, but paneer did not. Why: plants store starch as food for their baby plants, and paneer comes from milk.
 
 ## Activities
@@ -447,13 +447,13 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - **safety:** A grown-up handles eggs and anything breakable.
 - **record:** Count how many things are on each plate, and write the four numbers.
 - **s1 (3 min)**  
-  *Parent does:* 1. On four plates or sheets of paper, draw a leaf (plant), a cow (animal), a mushroom (fungi and tiny living things), and a water drop with a salt crystal (the Earth). 2. Lay them out and explain what each plate stands for.  
+  *Parent does:* 1. On four plates or sheets of paper, write the labels: plant, animal, tiny life (fungi and tiny living things), and Earth. A child who likes to draw can add a small picture. 2. Lay them out and explain what each plate stands for.  
   *Parent says:* We are food detectives. Every food came from somewhere. This plate is for plants. This one is for animals. This one is for fungi and tiny living things. And this one is for things that were never alive, from the Earth.  
-  *Child mode:* You are a food detective! Four plates. Plant, animal, tiny life, or Earth. Every food goes on one.
+  *Child mode:* You are a food detective! Read the four labels. Which plate will hold the most foods?
 - **s2 (8 min)**  
   *Parent does:* 1. Your child fetches about 20 things from the kitchen, with your help. 2. For each one, they say where it came from and put it on a plate. 3. If they are not sure, ask: 'Was it ever alive? Did it grow?'  
-  *Parent says:* For each one, ask yourself: was this ever alive? Did it grow on a plant, or come from an animal?  
-  *Child mode:* Fetch 20 things from the kitchen. For each one, ask: was it ever alive? Put it on a plate.
+  *Parent says:* Pick a food. Was it ever alive? Did it grow on a plant, or come from an animal?  
+  *Child mode:* Fetch 20 things from the kitchen. Put each one on the plate where it belongs.
   - Note: Tricky ones: jaggery and sugar are plant (sugarcane stem). Tea is plant (leaves). A clove is plant (a dried flower bud). Honey is animal, made by bees from flower nectar, so honey is really plant and animal together. Put it on the animal plate and talk about the flowers. Curd is milk changed by bacteria. Put it on the tiny-life plate and talk about the milk it came from. Salt and water go on the Earth plate. Mushrooms go with the fungi.
   - Check: Which plate does a mushroom go on? → **Fungi and tiny living things**
 - **s3 (4 min)**  
@@ -465,7 +465,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
   - Think: Look at the animal plate. What did those animals eat before they became our food?
 ### a2 · The Plant-Part Thali: root, stem, leaf, flower, fruit, seed (20 min)
 - **safety:** A grown-up cuts anything that needs a knife.
-- **record:** Draw the thali with the six foods, labelled with the plant part. Write how many seeds were in your pod.
+- **record:** Draw the thali with the six foods, or take a photo of it, and label each food with its plant part. Write how many seeds were in your pod.
 - **s1 (3 min)**  
   *Parent does:* Write root, stem, leaf, flower, fruit and seed on six paper slips and lay them around the thali. Name each plant part and say what each one does.  
   *Parent says:* A plant has six main parts. Roots take in water. Stems hold the plant up. Leaves make food. Flowers make seeds. Fruits hold seeds. Seeds hold baby plants. We eat all six!  
@@ -482,50 +482,50 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
   *Child mode:* Open a pea pod or a cut bhindi. Count the seeds. Each one is a baby plant!
   - Ask: Is the pea pod a fruit or a vegetable? (good: To a botanist it is a fruit, because it grew from a flower and holds seeds.; To a cook, it is a vegetable.)
 - **s4 (2 min)**  
-  *Parent does:* Look at the whole thali together.  
+  *Parent does:* Ask your child to think of this week's meals. Which spot on the thali would hold most of the foods?  
   *Parent says:* Which part of the plant do we eat most at home?  
-  *Child mode:* Look at your thali. Which plant part do you eat most?
+  *Child mode:* Point to the spot on the thali for the part you eat most.
   - Note: A seed is small and keeps for a long time. It also holds a store of starch, protein and oil for the baby plant, so it is full of energy for us too.
   - Think: Most of what we eat is seeds. Why might seeds be such good food?
 ### a3 · Trace Your Dinner Back to the Sun (20 min)
-- **record:** Four chains of pictures and arrows, each ending at the Sun. A count of the people on all the chains.
+- **record:** Four chains of paper slips, each starting at the Sun. A count of the people (buttons) on all the chains.
 - **s1 (3 min)**  
-  *Parent does:* 1. Ask what is for dinner tonight. 2. Choose four foods, including one from an animal if your family eats any, such as milk, curd, ghee or egg. 3. Draw each one on the right side of the page.  
+  *Parent does:* 1. Ask what is for dinner tonight. 2. Choose four foods, including one from an animal if your family eats any, such as milk, curd, ghee or egg. 3. Write each one on a paper slip and lay the four slips down the right side of the big sheet.  
   *Parent says:* Let's follow each food backwards, one step at a time, all the way to where it began.  
-  *Child mode:* Pick four foods from dinner. Draw them on the right side of the page.
+  *Child mode:* Pick four foods from dinner. Write each on a slip. Lay the slips down the right side of the paper.
 - **s2 (10 min)**  
-  *Parent does:* 1. For each food, draw arrows going left, one step at a time. 2. Chapati came from atta. Atta came from a mill. The mill got wheat from a farm. The wheat grew from a seed, in sunlight. 3. Draw a little person at each step who did the work.  
+  *Parent does:* 1. For each food, lay slips going left, one step at a time. 2. Chapati came from atta. Atta came from a mill. The mill got wheat from a farm. The wheat grew from a seed, in sunlight. 3. Put a button beside each step for the person who did the work.  
   *Parent says:* Before it was chapati, what was it? And before that? Keep going until you can't go back any further.  
-  *Child mode:* Draw arrows going back. What was it before? And before that? Draw the person at each step.
+  *Child mode:* Add a slip for each step going back. Put a button beside each step where a person did the work.
   - Note: Good chains: chapati, atta, flour mill, wheat field in Punjab or Madhya Pradesh, farmer, Sun. Curd, milk, dairy, cow, grass, Sun. Dal, shop, farm in Karnataka, toor plant, Sun. Idli, rice and urad dal, paddy field in Thanjavur or Palakkad, Sun. For any animal food, go one step further: what did the animal eat?
   - Check: Curd came from milk. Milk came from a cow. What comes next, going backwards? → **The grass the cow ate**
 - **s3 (4 min)**  
-  *Parent does:* Look at the far left end of every chain.  
+  *Parent does:* Look at the far left end of every chain together. Then write SUN on one more slip for each chain and put it at the far left end.  
   *Parent says:* Look at the far left end of every chain. What do you notice?  
-  *Child mode:* Look at the start of every chain. What is there?
+  *Child mode:* Point to the first slip of every chain.
   - Ask: What is at the start of every chain? (good: The Sun.; A plant, and then the Sun.; Except salt and water, which come from the Earth.)
 - **s4 (3 min)**  
-  *Parent does:* Count every little person drawn on all four chains. Write the total.  
+  *Parent does:* Count every button on all four chains. Write the total.  
   *Parent says:* Let's count everyone who helped bring dinner to our plates.  
-  *Child mode:* Count all the people you drew. How many helped make your dinner?
+  *Child mode:* Count all the buttons. Each one is a person who helped.
   - Think: Do we ever thank the farmer, the miller or the driver? How could we?
 ### a4 · The Six-Taste Plate (15 min)
 - **safety:** Use only tiny amounts. A grown-up gives the pepper and stays close. If your child has a food allergy, leave that food out.
-- **record:** Draw the six tastes in a circle. Mark each one 'taste' or 'feeling'.
+- **record:** Write the six tastes in a list. Mark each one 'taste' or 'feeling'.
 - **s1 (3 min)**  
   *Parent does:* Lay the six tastes in a circle on a plate. Tell your child about the six rasas.  
   *Parent says:* About 2,000 years ago, an old Indian book of medicine, the Charaka Samhita, named six tastes. Sweet, sour, salty, spicy, bitter, and a dry puckery one called astringent. Let's taste all six.  
-  *Child mode:* An old Indian book named six tastes. Sweet, sour, salty, spicy, bitter, and puckery. Let's taste them all!
+  *Child mode:* Look at the six tastes on the plate. Guess which one you will like best.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Taste one at a time, with a sip of water between. 2. Your child names each taste. 3. For the pepper and the raw banana, ask how it feels.  
   *Parent says:* Taste it. Is it sweet, sour, salty, spicy, bitter or puckery? Does it feel like a taste, or like something touching your mouth?  
-  *Child mode:* Taste one at a time. Sip water in between. Name each taste. Does it feel like heat, or dryness?
+  *Child mode:* Taste one at a time and name it. Sip water in between.
   - Note: Pepper feels hot rather than tasting of anything. That is because it works on heat and pain nerves, not taste cells. The raw banana or strong tea makes the mouth feel dry and puckery. Scientists call that a touch feeling. Your child is discovering what scientists found.
   - Check: Black pepper and chilli make your mouth feel hot. What do scientists say is happening? → **They switch on the nerves that sense heat and pain**
 - **s3 (4 min)**  
   *Parent does:* Talk about which tastes are in today's lunch or dinner.  
   *Parent says:* Which of the six rasas are in our dinner tonight? Is any missing?  
-  *Child mode:* Think of tonight's dinner. Which tastes are in it? Is any missing?
+  *Child mode:* Point to a taste from the plate that will be in tonight's dinner.
   - Ask: Why might a thali try to have all six tastes? (good: So it is interesting to eat.; Because the old books said a balanced meal has all six.; Different foods have different good things in them.)
   - Think: Old books said six tastes. Scientists say five. Who do you agree with, now that you have tasted them?
 ### a5 · Seasons at the Vegetable Cart (20 min)
@@ -538,7 +538,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* At the market or cart, your child asks the questions and writes the answers.  
   *Parent says:* Excuse me, which vegetables are fresh now? Which ones come only in winter? Where do these come from?  
-  *Child mode:* Ask your questions politely. Write down the answers.
+  *Child mode:* Ask your questions politely. Write down the answers, or record them on a phone.
   - Note: Sellers usually know a lot and enjoy being asked. In summer, sellers often name mangoes, jackfruit, ice apple (nungu) and watermelon. In the monsoon, corn, jamun and drumstick. In winter, carrots, peas, cauliflower, sarson and oranges. Apples may come from Himachal Pradesh or Kashmir, onions often from Maharashtra, bananas from Tamil Nadu or Kerala, and tea from Assam.
 - **s3 (8 min)**  
   *Parent does:* At home, sort the foods into a table of seasons. Mark on the map where some foods came from.  
@@ -569,7 +569,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 ## Projects
 ### p1 · The Windowsill Farm: greens grown in light and in the dark (60 min, 10 days)
 - **safety:** Wash the greens before eating, and eat only the ones from the sunny tray that look fresh and green.
-- **record:** A table of heights for both trays on days 5, 7 and 10, and a colour note for each. A drawing of one seedling from each tray.
+- **record:** A table of heights for both trays on days 5, 7 and 10, and a colour note for each. A drawing or photo of one seedling from each tray.
 - **schedule:** day 1: Fill two trays with soil. Sow the same number of seeds in each. Put one on a sunny windowsill and one in a dark cupboard. (15 min); day 3: Water both trays the same. Count the seedlings in each tray. (5 min); day 5: Water both. Measure the tallest seedling in each tray. Note the colour. (5 min); day 7: Water both. Measure again. Draw one seedling from each tray. (5 min); day 10: Measure and compare. Harvest the sunny tray's greens with scissors and add them to a meal. Say what you think, what you saw and why. (30 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Fill both trays with 3 cm of soil. 2. Sprinkle the same amount of seeds on each, about one tablespoon. 3. Cover with a thin layer of soil and water gently. 4. Put tray A on a sunny windowsill. 5. Put tray B in a dark cupboard.  
@@ -584,7 +584,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - **s3 (10 min)**  
   *Parent does:* On days 5 and 7, water both trays and measure the tallest seedling in each. Note the colour.  
   *Parent says:* Let's measure. And look at the colours. Are they the same green?  
-  *Child mode:* Measure the tallest seedling in each tray. Look at the colours. What do you notice?
+  *Child mode:* Measure the tallest seedling in each tray with a ruler. Write the heights and the colours in the table.
   - Note: Usually the dark tray grows taller at first, but pale yellow and thin. The seedlings stretch, searching for light, using up their seed food. The sunny tray grows shorter, sturdy and green, because those seedlings are making new food from light.
   - Check: The seedlings in the dark cupboard are tall, thin and pale yellow. Why? → **They are using up their seed's food, stretching to find light**
   - Wait: Come back on day 5, then day 7.
@@ -595,13 +595,13 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - **s5 (10 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Which tray made food? What did you see? Why do you think so?  
-  *Child mode:* Say three things: what you think now, what you saw, and why you think it happened.
+  *Child mode:* Tell what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: plants need light to make food. What I saw: the dark seedlings grew tall but pale and floppy, and the sunny ones were green and strong. Why: in the dark, the seedlings only used up the food stored in their seeds. In the sun, the leaves made new food from light, air and water.
 
 ## Challenges
 ### c1 · The Seed Safe (30 min)
 - **problem:** Farmers must keep seeds safe for months, until the next sowing season. Damp makes seeds sprout or go mouldy. Insects eat them. Design a seed safe that keeps 50 moong seeds dry and whole for one week, in the dampest place in your home.
-- **your turn:** Now invent your own seed safe. Draw it, build it, and test it beside the open plate for a week. Count how many seeds stayed dry and whole.
+- **your turn:** Now invent your own seed safe. Plan it, build it, and test it beside the open plate for a week. Count how many seeds stayed dry and whole.
 - **constraints:** No fridge.; Use only things you can find at home.; It must stay in the bathroom or another damp place for one week.
 - **general:** Dry the seeds well first, on a plate in a sunny window. Dry seeds stay dormant.; Use an airtight steel dabba or glass jar with a tight lid, so damp air cannot get in.; Keep it off the floor, away from water.
 - **creative:** Many Indian farmers mix dried neem leaves into stored grain and dal. Neem helps keep insects away.; Some families keep a few dried red chillies in the rice tin for the same reason.; In parts of India, seeds were stored in clay pots sealed with cow dung and mud, or mixed with wood ash.
@@ -610,9 +610,9 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
   *Parent says:* In the story A Field in Every Packet, the seeds were the most precious thing in the city. Farmers have the same job every year. Can we keep seeds safe from damp?  
   *Child mode:* Seeds must stay dry and safe until sowing time. Put 50 seeds on an open plate in the bathroom. That is the comparison.
 - **s2 (5 min)**  
-  *Parent does:* Draw three ideas together before building any.  
-  *Parent says:* Before we build, let's think like engineers. Three ideas first.  
-  *Child mode:* Think like an engineer. Draw three ideas before you build anything.
+  *Parent does:* Together, list three ways to keep seeds dry. Choose the two best to build.  
+  *Parent says:* Before we build, let's think like engineers. What are three ways to keep seeds dry?  
+  *Child mode:* Think of three ways to keep seeds dry. Say them, or sketch them.
 - **s3 (12 min)**  
   *Parent does:* 1. Build one or two designs. 2. Put 50 seeds in each. 3. Place them in the damp place next to the open plate. 4. Each day, sprinkle a few drops of water on the open plate and outside each seed safe.  
   *Parent says:* Let's build our two best ideas and put them in the same damp place as the open plate.  
@@ -627,7 +627,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
   - Think: Seed banks keep seeds very dry and very cold, deep inside a frozen mountain. Why both?
 ### c2 · Dinner on Mars (25 min)
 - **problem:** Four astronauts will live on Mars for two years. Mars has no farms, no cows, no sea, and sunlight less than half as strong as on Earth. Plan where every food on their menu will come from.
-- **your turn:** Now design your own Mars menu. For each food, draw its whole chain, from where its energy starts to the astronaut's plate.
+- **your turn:** Now design your own Mars menu. For each food, lay out its whole chain on paper slips, from where its energy starts to the astronaut's plate. Or draw it.
 - **constraints:** A rocket can carry only a small amount of food, because every kilogram costs a lot to send.; The food must give energy and help build bodies.; You must plan at least one breakfast, lunch and dinner.
 - **general:** Carry dried food that keeps for a long time, like grains, dals and dried fruit.; Grow quick plants under lamps in a greenhouse, like lettuce, methi and potatoes.; Recycle water carefully, because there are no rivers.
 - **creative:** Grow algae in tanks of water under lamps. Algae grow fast and make food from light.; Use microbes that make food from chemicals, like the microbes at deep-sea vents.; Ferment food with microbes to make it last longer, like curd and pickles.
@@ -637,7 +637,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
   *Child mode:* Mars has no farms, no cows and no sea. The sunlight is weaker than on Earth. What can the astronauts eat?
 - **s2 (10 min)**  
   *Parent does:* Plan breakfast, lunch and dinner. For each food, write where it comes from.  
-  *Parent says:* For each food, ask: will we carry it, grow it, or make it? Where does its energy start?  
+  *Parent says:* Where will each food come from? And where does its energy start?  
   *Child mode:* Plan three meals. For each food: carry it, grow it, or make it?
   - Note: Here is a real space fact. In 2015, astronauts on the International Space Station ate red lettuce. They had grown the lettuce on board, under special lamps. Plants on Mars would need lamps, warmth and water, because Mars is very cold and its soil has harmful salts.
   - Check: Astronauts grow lettuce under lamps in a space station. Where does the lettuce's energy come from? → **The electric light from the lamps**
@@ -648,7 +648,7 @@ Somewhere, a pea plant is climbing a stick in a garden right now. Many generatio
 - **s4 (3 min)**  
   *Parent does:* Your child presents the menu.  
   *Parent says:* Tell me your menu. Where does each food's energy start?  
-  *Child mode:* Show your menu. Say where each food's energy starts.
+  *Child mode:* Read out your menu to your grown-up.
   - Note: The astronauts would have to do every job themselves, such as growing, cooking and recycling, or machines would have to do them.
   - Think: On Earth, many people bring your food to you. On Mars, who would do all those jobs?
 

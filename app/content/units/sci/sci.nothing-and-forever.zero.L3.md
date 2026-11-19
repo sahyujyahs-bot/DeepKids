@@ -233,8 +233,8 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - **s2 (3 min)**  
   *Parent does:* Play a practice roll together, then ask the check question.  
   *Parent says:* Practice round. The goal is the biggest number. You rolled a 6, so it is a zero. Where should it go?  
-  *Child mode:* Practice. The goal is the biggest number. You rolled a 6. That is a zero. Where will you put it?
-  - Check: The goal is the BIGGEST number. You roll a zero first. Which box is best? → **Ones**
+  *Child mode:* Roll the dice for practice. A 6 is a zero. Think before you choose a box.
+  - Check: The goal is the BIGGEST number. You roll a 6, which is a zero. Which box should it go in? → **Ones**
 - **s3 (10 min)**  
   *Parent does:* Play 5 rounds. Turn over a new goal card each round. After each round, everyone reads their number aloud, saying the hundreds, tens and ones.  
   *Parent says:* Read your number out loud. Say how many hundreds, tens and ones.  
@@ -246,7 +246,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - **s1 (2 min)**  
   *Parent does:* 1. Give out the score sheet. 2. Choose who bats first and who scores.  
   *Parent says:* In this game every ball must go on the sheet. A ball with no runs gets a dot, never a blank.  
-  *Child mode:* Read the key at the top of the sheet. A roll of 3 or 5 is a dot ball. Draw a dot for it, never a blank.
+  *Child mode:* Read the key at the top of the sheet. A roll of 3 or 5 is a dot ball. Make a dot for it, never a blank.
 - **s2 (10 min)**  
   *Parent does:* Play 2 overs for each team. After each over, the scorer counts the marks aloud.  
   *Parent says:* End of the over. Count the marks. Are there six?  
@@ -254,8 +254,8 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   - Note: Halfway through, leave one dot ball out on purpose and ask whether the over is finished. Your child should spot that only 5 marks means one ball is missing.
 - **s3 (3 min)**  
   *Parent does:* Add up both teams' runs, then ask the check question.  
-  *Parent says:* Who won? Now, why do scorers draw dots?  
-  *Child mode:* Add up the runs. Who won? Why do we draw dots?
+  *Parent says:* Who won? Now a question about dots.  
+  *Child mode:* Add up the runs. Who won?
   - Check: Why does a cricket scorer draw a dot for a ball with no runs? → **So every ball can be counted, even when nothing was scored**
 
 ## Experiments
@@ -307,7 +307,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - **question:** Does it matter whether you measure from the end of a ruler or from its 0 mark?
 - **predict:** Look at the end of your ruler. Will you get the same length if you start from the very end, or from the 0 mark? If not, will the difference be the same for every object? Why do you think so?
 - **fair test:** Measure the same 5 things both ways, with the same ruler. Line up each object carefully against the ruler each time. Measure each one twice, because one reading can be a slip.
-- **record:** Fill in the table. Draw the end of your ruler, and colour the strip before the 0.
+- **record:** Fill in the table. Tell your grown-up what the strip before the 0 did to every length. Draw the end of your ruler too, if you like.
 - **results table:** Object | Length from the ruler's end (cm) | Length from the 0 mark (cm) | Difference (mm)
 - **s1 (3 min)**  
   *Parent does:* 1. Give your child the ruler. 2. Ask them to find the 0 mark and the very end of the ruler.  
@@ -330,8 +330,8 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Child mode:* Find the difference for each thing. Are the differences the same?
   - Check: In your table, the difference came out about the same for every object. What does that tell you? → **The ruler has a blank strip before the 0, and it adds the same length every time**
 - **s5 (3 min)**  
-  *Parent does:* If you have a tailor's tape or a second ruler, check where its 0 is.  
-  *Parent says:* Where does the tailor's tape start? Why do you think it starts right at the tip?  
+  *Parent does:* If you have a tailor's tape or a second ruler, check where its 0 is. If not, look at your ruler again.  
+  *Parent says:* Where does the tailor's tape start? Find its 0.  
   *Child mode:* Look at the tailor's tape. Where is its 0?
   - Ask: Why should measuring start at 0, not at 1? (good: At the start, you have measured nothing yet.; The 1 mark is the end of the first centimetre, not the start.)
   - Note: A tailor's tape usually starts at 0 right at its metal tip, so the tip can be held at the edge of the cloth. Explain once: at the start of a measurement, you have measured zero centimetres. The 1 is where the first centimetre ends.
@@ -341,8 +341,8 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - **record:** Write two lists: 'Zero of these here' and 'Places I saw a 0'.
 - **s1 (2 min)**  
   *Parent does:* Put an empty plate on the table and ask the question below.  
-  *Parent says:* How many idlis are on this plate? Is 'none' a number?  
-  *Child mode:* Look at the empty plate. How many idlis are on it? Is 'none' a number?
+  *Parent says:* Look at this plate. Is 'none' a number?  
+  *Child mode:* Look at the empty plate. Think: is 'none' a number?
   - Ask: How many idlis are on the plate? (good: None.; Zero.)
 - **s2 (3 min)**  
   *Parent does:* Ask your child to name 3 things there are zero of in this room.  
@@ -358,7 +358,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 ### a2 · The katori abacus (12 min)
 - **problem:** When you write 205, the 0 says that the tens place is empty. In this activity you use beans in three katoris to see what happens to the number when the empty place is left out.
 - **safety:** Children under 4 must not be left with dry beans, which they could choke on.
-- **record:** Draw the katoris for 205 and write the number under them.
+- **record:** Make 205 in the katoris, then write the number on a paper. Take a photo, or draw the katoris, if you like.
 - **s1 (3 min)**  
   *Parent does:* 1. Put 3 katoris in a row. 2. Label them, left to right, Hundreds, Tens, Ones. 3. Make 25: 2 beans in Tens, 5 in Ones.  
   *Parent says:* Each katori is a place. A bean in Tens is worth ten. Let's make 25.  
@@ -377,7 +377,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 ### a3 · Brahmagupta's rules with beans (15 min)
 - **problem:** In the year 628, an Indian mathematician called Brahmagupta wrote the first rules for doing sums with zero. In this activity you test his rules with beans. You also try to share 12 beans into groups of 0, to see why nobody can divide by zero.
 - **safety:** Children under 4 must not be left with dry beans.
-- **record:** Write each rule you tested, with a small drawing of the beans.
+- **record:** Write each rule you tested. Show the beans with a photo or a small drawing.
 - **s1 (4 min)**  
   *Parent does:* 1. Put 6 beans in a katori. 2. Add 0 beans. Count. 3. Take away 0 beans. Count.  
   *Parent says:* Here are 6 beans. I add no beans. How many now? I take away no beans. How many now?  
@@ -391,7 +391,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - **s3 (5 min)**  
   *Parent does:* 1. Make a heap of 12 beans. 2. Share them into groups of 4, then of 2, then of 1. Count the groups each time. 3. Now try groups of 0: put 0 beans in a katori, again and again.  
   *Parent says:* Twelve beans in groups of 4. How many groups? Groups of 2? Of 1? Now groups of 0. What is happening to the heap?  
-  *Child mode:* Share 12 beans into groups of 4. Count the groups. Now groups of 2. Then 1. Now try groups of 0. What happens to the heap?
+  *Child mode:* Share 12 beans into groups of 4. Count the groups. Now groups of 2. Then 1. Now try groups of 0, again and again.
   - Ask: What happens when each group has 0 beans? (good: The heap never gets smaller.; You can go on for ever and never finish.)
   - Note: Groups of 4 give 3 groups, groups of 2 give 6, groups of 1 give 12. Smaller groups give more groups. With groups of 0, the heap never shrinks, so there is no number of groups that uses up the beans. Let your child say this before you explain it.
 - **s4 (3 min)**  
@@ -417,7 +417,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   - Check: Roman numerals and old Tamil numerals had no zero. What did they use instead? → **Special signs for ten, a hundred and more**
 ### a5 · The lift number line: below zero (12 min)
 - **problem:** Is zero the smallest number? A lift in a tall building goes below the ground floor, to the basement floors. In this activity you use lift buttons and a number line to find out what the numbers below zero are.
-- **record:** Draw your number line and mark G as 0.
+- **record:** Keep your number line with G marked as 0. Tell your grown-up one lift ride you made.
 - **s1 (4 min)**  
   *Parent does:* 1. Draw a line with marks for -3, -2, -1, 0, 1, 2, 3, 4, 5. 2. Write G under 0, and B1, B2, B3 under -1, -2, -3.  
   *Parent says:* The ground floor is zero. Floors above are 1, 2, 3. Floors below the ground have a minus sign.  
@@ -425,7 +425,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - **s2 (5 min)**  
   *Parent does:* Ask lift questions, such as 'Start at 2, go down 3 floors. Where are you?' Your child moves the toy along the number line to check.  
   *Parent says:* Start on floor 2. Go down 3 floors. Where are you now?  
-  *Child mode:* Put your toy on 2. Go down 3 floors. Where are you?
+  *Child mode:* Put your toy on floor 2. Ride it down 3 floors.
   - Ask: Floor 2, down 3 floors. Where are you? (good: B1.; -1.)
   - Note: Try a few more: start at 0 and go down 2, start at -3 and go up 4. If you live in a building with a lift and a basement, look at the buttons together.
 - **s3 (3 min)**  
@@ -439,14 +439,14 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - **record:** The finished timeline and map, and a list of the names zero had on its journey.
 - **schedule:** day 1: Draw a timeline with Babylon, Brahmagupta, the Gwalior stone, al-Khwarizmi and Fibonacci. (20 min); day 2: Draw a map of zero's journey and its name, from India to Baghdad to Italy. Tell the story to the family. (20 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Draw a long line and write 'Today' at the right end. 2. Add: Babylon gap mark (about 2,300 years ago), Brahmagupta's rules (628), the Gwalior stone (876), al-Khwarizmi (about 825), Fibonacci (1202). 3. Draw a small picture for each.  
-  *Parent says:* Let's draw the story of zero as a line through time. Which came first?  
-  *Child mode:* Draw a long line. Put Today at the end. Add each event in the right order. Draw a small picture for each one.
+  *Parent does:* 1. Draw a long line and write 'Today' at the right end. 2. Write each of these on its own slip of paper, not in order: Babylon gap mark (about 2,300 years ago), Brahmagupta's rules (628), the Gwalior stone (876), al-Khwarizmi (about 825), Fibonacci (1202). 3. Lay the slips along the line in the right order.  
+  *Parent says:* Let's lay out the story of zero along a line through time. Which came first?  
+  *Child mode:* Draw a long line. Put Today at the end. Lay the event slips along it in the right order. Add a small picture to a slip if you like.
   - Note: Check the order with your child: Babylon, then Brahmagupta in 628, then al-Khwarizmi in about 825, then the Gwalior stone in 876, then Fibonacci in 1202.
 - **s2 (20 min)**  
-  *Parent does:* 1. Draw a simple map with India, Baghdad, North Africa and Italy. 2. Draw zero's path with arrows. 3. Write its name at each stop: shunya, sifr, zephirum, zero. 4. Your child tells the story to the family.  
+  *Parent does:* 1. Look at the world map. Find India, Baghdad, North Africa and Italy, and put a button on each. 2. Lay a string from India to Baghdad to North Africa to Italy. 3. Put a slip with its name at each stop: shunya, sifr, zephirum, zero. 4. Your child tells the story to the family.  
   *Parent says:* Now the map. Zero's name changed as it travelled. Let's write each name where it was used.  
-  *Child mode:* Draw the map. Draw arrows from India to Baghdad to Italy. Write zero's name at each place. Then tell your family the story.
+  *Child mode:* Find the four places on the map. Lay the string from India to Baghdad to Italy. Put zero's name at each place. Then tell your family the story.
   - Note: Shunya is Sanskrit for empty. Sifr is Arabic for empty. Zephirum is the Latin word made from sifr. In Italian it became zefiro, and then zero.
   - Wait: Do this the next day.
 
@@ -462,9 +462,9 @@ I showed him. He did it wrong at first. He kept leaving gaps.
   *Parent says:* These two look the same. Can we invent a way to write them that nobody can mix up, without a 0?  
   *Child mode:* Look at 52 and 520 written with blanks. They look the same! Can you fix it without a 0?
 - **s2 (10 min)**  
-  *Parent does:* Draw three ideas together, then pick one to try.  
-  *Parent says:* Inventors try many ideas first. Let's draw three ways to show an empty place.  
-  *Child mode:* Draw three ideas. Pick your favourite.
+  *Parent does:* Try three ideas together on scrap paper, then pick one to test.  
+  *Parent says:* Inventors try many ideas first. Let's try three ways to show an empty place.  
+  *Child mode:* Try three ideas for showing an empty place. Use marks, or buttons and coins. Pick your favourite.
 - **s3 (10 min)**  
   *Parent does:* Write 5 test numbers your new way. Give them to a reader with one short explanation. Count how many they read right.  
   *Parent says:* Let's test it like the missing zero test. Did the reader get them all?  
@@ -479,7 +479,7 @@ I showed him. He did it wrong at first. He kept leaving gaps.
 - **s1 (5 min)**  
   *Parent does:* Talk about the problem. Look again at the katori abacus, the three katoris for hundreds, tens and ones.  
   *Parent says:* Our katori abacus had 3 places. Can we build one with 4 places that will show 1,005?  
-  *Child mode:* Your katori abacus had three places. Can you build one with four?
+  *Child mode:* Think of your katori abacus with its three places. You will now build one with four.
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* Build the frame together. Label the 4 places.  
   *Parent says:* Let's build it. Which place goes on the right? Which on the left?  

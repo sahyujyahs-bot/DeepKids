@@ -211,7 +211,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s1 (4 min)**  
   *Parent does:* 1. Cut out the cards and shuffle them. 2. Each player takes 2 cards. 3. Each player makes the biggest number they can.  
   *Parent says:* Each of us has 2 cards. Make the biggest number you can. Which way round should the digits go?  
-  *Child mode:* Take 2 cards. Make the biggest number you can. Put the bigger digit first.
+  *Child mode:* Take 2 cards. Make the biggest number you can.
   - Check: You have the cards 3 and 8. What is the biggest number you can make? → **83**
 - **s2 (8 min)**  
   *Parent does:* Play rounds 2, 3 and 4, with one more card each round. Put the cards back and shuffle after each round. Say each number aloud and write it on the score sheet.  
@@ -221,7 +221,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s3 (5 min)**  
   *Parent does:* 1. Play round 5 with 6 cards. 2. Then ask: could a small number with 7 digits beat the biggest 6-digit number?  
   *Parent says:* Your biggest 6-digit number is 9,99,999 at most. Could the smallest 7-digit number, 10,00,000, beat it?  
-  *Child mode:* The biggest 6-digit number is 9,99,999. Is 10,00,000 bigger? What does one more digit do?
+  *Child mode:* The biggest 6-digit number is 9,99,999. Is 10,00,000 bigger?
   - Ask: What does adding one more digit do to the biggest number you can make? (good: It always makes a bigger number possible.; Any 7-digit number is bigger than every 6-digit number.)
 - **s4 (3 min)**  
   *Parent does:* Ask how many cards you would need to make the biggest number of all.  
@@ -234,7 +234,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **question:** Does it take longer to say 20 big numbers than 20 small ones? Could anyone ever count to the end of the numbers?
 - **predict:** Guess first. Will saying the numbers 1 to 20 take the same time as saying 351 to 370, or 1,23,451 to 1,23,470? Which list will be slowest, and why do you think so?
 - **fair test:** Every list has exactly 20 numbers. The same person reads all three lists, in the same room, at a normal speaking speed, saying every word. Each list is read twice, because one try can be a fluke.
-- **record:** Fill in the table. Then draw a bar for each list's faster try, so you can see which list was slowest.
+- **record:** Fill in the table. Then show each list's faster try as a bar: draw it, or line up one coin for every 5 seconds.
 - **results table:** List | Try 1 (seconds) | Try 2 (seconds) | Which try was faster?
 - **s1 (5 min)**  
   *Parent does:* 1. Write three lists of numbers in digits, one under the other. 2. List A: 1 to 20. 3. List B: 351 to 370. 4. List C: 1,23,451 to 1,23,470.  
@@ -244,7 +244,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s2 (3 min)**  
   *Parent does:* 1. Point to the three lists. 2. Ask for a guess and a reason before any timing. 3. Write the guess at the top of the page.  
   *Parent says:* Before we start, what do you think? Will all three lists take the same time? Which will be slowest, and why?  
-  *Child mode:* Guess first. Will all three lists take the same time? Which will be slowest? Why do you think so? Write your guess.
+  *Child mode:* Guess first, and tell your grown-up why. Your grown-up writes your guess down.
   - Ask: Which list do you think will be slowest, and why? (good: List C, because the numbers have more words in them.; They will all be the same, because each list has 20 numbers. (A fair guess to test.))
   - Note: Don't say what you expect. Any guess with a reason is a good start.
 - **s3 (8 min)**  
@@ -260,7 +260,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s5 (4 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask what the times show. 3. Ask your child to say what they found, which times show it, and why they think it happened.  
   *Parent says:* What do your times show? Which list was slowest? Why do you think it took longer?  
-  *Child mode:* Look at your times. Which list was slowest? Why do you think so? Say it in one sentence.
+  *Child mode:* Look at your times. Which list was slowest?
   - Ask: Why did list C take longer, even though it had the same number of numbers? (good: Each big number has more words to say.; 'One lakh twenty-three thousand four hundred and fifty-one' is much longer than 'one'.)
   - Note: Usually list C takes several times as long as list A. If your child's times are close, ask them to check they said every word of list C.
 - **s6 (4 min)**  
@@ -278,7 +278,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s1 (3 min)**  
   *Parent does:* 1. Fill the tumbler to the top with rice and show it. 2. Ask for a guess and a reason. 3. Write the guess down. 4. Tip all the rice into the big bowl.  
   *Parent says:* How many grains of rice do you think fill this tumbler? Is it so many that it is infinite? Why do you think so?  
-  *Child mode:* Look at a tumbler full of rice. How many grains are in it? Is it infinite? Write your guess and your reason. Then tip the rice into the big bowl.
+  *Child mode:* Look at a tumbler full of rice. Guess how many grains are in it and tell your grown-up why. Then tip the rice into the big bowl.
   - Ask: Is the rice in the tumbler infinite? Why or why not? (good: No, the tumbler is full, so it has an end.; Yes, because there are too many to count. (A common first guess. Test it.))
 - **s2 (10 min)**  
   *Parent does:* 1. Fill a teaspoon with rice from the big bowl and level it with a finger. 2. Tip it onto the plate. 3. Your child pushes the grains into heaps of ten. 4. Count the heaps and the grains left over.  
@@ -298,7 +298,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s5 (5 min)**  
   *Parent does:* 1. Work out the grains in the tumbler together, by adding the teaspoon number again and again, or by multiplying. 2. Compare it with the first guess.  
   *Parent says:* If one spoon holds 200 grains and the tumbler holds 40 spoons, how many grains are in the tumbler? Was your guess close? Is the rice infinite?  
-  *Child mode:* One spoon has about 200 grains. The tumbler has about 40 spoons. How many grains is that? Is it infinite?
+  *Child mode:* One spoon has about 200 grains. The tumbler has about 40 spoons. How many grains is that?
   - Ask: Was the rice in the tumbler infinite? (good: No. It was several thousand grains. That is a lot, but it is a number.; No, because we could count it.)
   - Note: 200 times 40 is 8,000. You can do it as 2 times 4 is 8, then add the zeros. Most children guess too low or say 'infinite'. Both are useful starts.
 
@@ -318,7 +318,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s3 (2 min)**  
   *Parent does:* Ask what the game shows.  
   *Parent says:* Is there a biggest number? How do you know?  
-  *Child mode:* Is there a biggest number? How do you know? Say your reason.
+  *Child mode:* Think about the game you just played. Who always won? Tell your grown-up what you noticed.
   - Ask: Is there a biggest number? (good: No, because you can always add one.; No. Every number has a bigger one after it.)
   - Think: If you say 'infinity', can the other player add one? Keep this question for later.
 ### a2 · The Old Indian Ladder of Big Numbers (15 min)
@@ -327,20 +327,20 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s1 (3 min)**  
   *Parent does:* 1. Draw 13 steps on the strip with the ruler. 2. Explain that each step is ten times the step below.  
   *Parent says:* Long ago, the Yajurveda listed names for numbers. Each name is ten times the one before. Let's make a ladder of them.  
-  *Child mode:* Draw 13 steps on the strip. Each step will be ten times the step below.
+  *Child mode:* Draw 13 steps on the strip, or stack 13 books like stairs. Each step will be ten times the step below.
 - **s2 (8 min)**  
   *Parent does:* 1. Write the names from the bottom step up. 2. Use this list: eka 1, dasha 10, shata 100, sahasra 1,000, ayuta 10,000. 3. Then niyuta 1,00,000, prayuta 10,00,000, arbuda 1,00,00,000. 4. Then nyarbuda, samudra, madhya, anta and parardha.  
   *Parent says:* Each time we go up a step, we write one more zero. Niyuta is one lakh. Arbuda is one crore. The top step, parardha, is a 1 followed by 12 zeros.  
   *Child mode:* Write each name and number on a step. Add one more zero each time you go up.
   - Note: This list is in the Yajurveda (Vajasaneyi Samhita 17.2). Most translations give parardha as a 1 with 12 zeros. Some later books give these names slightly different values, so don't worry about small differences you may read.
 - **s3 (4 min)**  
-  *Parent does:* 1. Draw one empty step above parardha. 2. Ask what number goes there, and whether the ladder could stop.  
+  *Parent does:* 1. Add one empty step above parardha. 2. Ask what number goes there, and whether the ladder could stop.  
   *Parent says:* What number would go on the next step? Could anyone ever draw the top step of this ladder?  
-  *Child mode:* Draw one more step on top. What number goes there? Can the ladder ever stop?
+  *Child mode:* Add one more step on top. What number goes there? Can the ladder ever stop?
   - Ask: Does the ladder of numbers ever end? (good: No. You can always add a zero and make a new step.; No. Names run out, but numbers don't.)
   - Think: The old list stops at parardha. Did the numbers stop there, or only the names?
 ### a3 · Walk the Number Line Across Your Room (15 min)
-- **record:** Draw your room from above, with the paper line and an arrow going out through the wall.
+- **record:** Take a photo of your line. Or draw your room from above, with the line and an arrow going out through the wall.
 - **s1 (6 min)**  
   *Parent does:* 1. Write 0, 1, 2, 3 and so on, one number on each paper. 2. Lay them in a straight line across the floor, one small step apart, up to the wall.  
   *Parent says:* Let's make a number line on the floor. One paper for each number, one step apart, all the way to the wall.  
@@ -353,25 +353,25 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s3 (5 min)**  
   *Parent does:* Ask where the line would go if the wall were not there.  
   *Parent says:* The wall stopped you. Did it stop the numbers? If we knocked down every wall in Chennai, where would the line end?  
-  *Child mode:* The wall stopped you. Did the wall stop the numbers? Where would the line end?
+  *Child mode:* The wall stopped you. Did it stop the numbers?
   - Ask: Where does the number line end? (good: It doesn't. The numbers go on even after the wall.; Only the room ends. The numbers keep going.)
   - Check: Why does a number line in a maths book have an arrow at the end? → **To show the numbers go on for ever**
 ### a4 · One Line, Never Lifted: the infinity sign and a sikku kolam (15 min)
 - **problem:** A line that joins up with itself can be traced round and round for ever. In this activity you draw the infinity sign and a sikku kolam, and you ask whether a line like this is infinite, the way the counting numbers are.
-- **record:** Draw your loop in your notebook. Write one sentence on how a loop is different from the numbers.
+- **record:** Draw your loop or take a photo of it. Tell a grown-up one way a loop is different from the numbers.
 - **s1 (4 min)**  
   *Parent does:* 1. Show the sign ∞. 2. Your child draws it in one stroke, then traces it round three times without stopping.  
   *Parent says:* This is the sign for infinity. An English mathematician, John Wallis, first used it in 1655. Can you draw it without lifting your hand?  
-  *Child mode:* Draw this sign: ∞. Don't lift your hand. Now trace it round three times.
+  *Child mode:* Draw this sign: ∞. Don't lift your hand. Or trace it in the air. Now trace it round three times.
 - **s2 (7 min)**  
   *Parent does:* 1. Make a grid of 3 rows of 3 dots. 2. Draw one line that curves around the dots and joins back to its start.  
   *Parent says:* A sikku kolam is drawn with lines that loop around the dots and close up. You can trace the line round and round and never reach an end.  
-  *Child mode:* Make 3 rows of 3 dots. Draw one curvy line around them. Join it back to where you started.
+  *Child mode:* Make 3 rows of 3 dots. Draw one curvy line around them, or lay a thread around nine small stones. Join it back to where you started.
   - Note: If the full pattern is hard, any single closed loop around the dots is fine. Many families in Tamil Nadu draw sikku kolams every morning, so an older relative or a neighbour may show you one.
 - **s3 (4 min)**  
   *Parent does:* Ask whether the loop is infinite like the numbers.  
   *Parent says:* You can trace the kolam line for ever. But is the line itself infinite? Could you measure it with a thread?  
-  *Child mode:* You can go round the loop for ever. But could you measure the line with a thread? Is it infinite?
+  *Child mode:* You can go round the loop for ever. But could you measure the line with a thread?
   - Ask: Is the kolam line infinite like the numbers? (good: No. It has a length you can measure. You just go round the same line again.; The going round never ends, but the line is finite.)
   - Note: This is a subtle idea. The path has no end, because it joins up, but it has a fixed length. The numbers are different: you never come back to the start, and there is always a new number.
 ### a5 · Very Many or Infinite? A sorting hunt at home (12 min)
@@ -379,7 +379,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s1 (7 min)**  
   *Parent does:* 1. Walk around the home together. 2. Your child names things that seem endless. 3. They write each one on the 'very many' side or the 'never ends' side of the paper.  
   *Parent says:* Let's find things that seem to go on for ever. Salt in the jar? Hairs on your head? Drops in the water tank? Write each one down.  
-  *Child mode:* Walk around the home. Find things that seem endless. Write each one on the 'very many' side or the 'never ends' side, whichever you think is right.
+  *Child mode:* Find things at home that seem endless. Put each on the side you think is right.
   - Note: Good things to find: grains of salt, sugar or muri (puffed rice), hairs on a head, threads in a towel, drops of water in a bucket, leaves on a plant, the numbers themselves.
 - **s2 (5 min)**  
   *Parent does:* Go through the list and ask, for each thing, 'Could someone count it to the end, if they had enough time?'  
@@ -394,9 +394,9 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **record:** On the cover, write 'One thousand dots'. On the back, write how many books a lakh would need, and how many a crore would need.
 - **schedule:** day 1: Draw a 10 by 10 grid on each of 3 pages and put a dot in every square: 300 dots. (15 min); day 2: Fill 4 more pages, or more if you can. Count the dots so far. (15 min); day 3: Finish all 10 pages: 1,000 dots. Staple them into a book. Work out how many books would make a lakh, and a crore. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* 1. Rule a grid of 10 rows and 10 columns on a page, each square about 1.5 cm. 2. Your child puts one dot in every square. 3. Fill 3 pages.  
+  *Parent does:* 1. Rule a grid of 10 rows and 10 columns on a page, each square about 1.5 cm. 2. Your child puts one dot in every square (a pen dot or a small sticker). 3. Fill 3 pages.  
   *Parent says:* Each page will have exactly 100 dots: 10 rows of 10. Ten pages will make a thousand.  
-  *Child mode:* Draw 10 rows of 10 squares. Put one dot in each square. That is 100 dots. Do 3 pages today.
+  *Child mode:* Draw 10 rows of 10 squares. Put one dot or sticker in each square. That is 100 dots. Do 3 pages today.
   - Note: Dots are faster than numbers, so this stays fun. If your child gets tired, stop and continue tomorrow.
 - **s2 (15 min)**  
   *Parent does:* Fill 4 more pages. Count the dots so far by counting the pages in hundreds.  
@@ -407,7 +407,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* 1. Finish the 10 pages and staple them. 2. Work out how many books make a lakh and a crore.  
   *Parent says:* This book has a thousand dots. A lakh is a hundred thousand. How many books is that? A crore is a hundred lakh. How many books then?  
-  *Child mode:* Your book has 1,000 dots. How many books make a lakh? How many make a crore?
+  *Child mode:* Your book has 1,000 dots. How many books make a lakh?
   - Ask: How many thousand-dot books make one crore? (good: 10,000 books. A lakh is 100 books, and a crore is 100 lakh, so 100 times 100.)
   - Note: A lakh needs 100 books, and a crore needs 10,000. Your child will likely be amazed. Then ask: is a crore the end of the numbers?
   - Wait: Day 3
@@ -435,7 +435,7 @@ Arjun sat very still. Then he said, 'So my head is small, but I know something t
 - **s4 (5 min)**  
   *Parent does:* Talk about the clever ways people found.  
   *Parent says:* Long ago, Archimedes invented new names to write giant numbers. Which of our ideas was the cleverest way to write a huge number in a few words?  
-  *Child mode:* Which idea made the biggest number with the fewest words? Why does it work?
+  *Child mode:* Pick the card that packs the biggest number into the fewest words.
 
 ## Worksheets
 ### Is There a Biggest Number? (core) (core, 15 questions)

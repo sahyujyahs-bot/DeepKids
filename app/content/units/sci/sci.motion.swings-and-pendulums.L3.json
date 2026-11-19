@@ -347,7 +347,7 @@
     "with a parent",
     "2 to 4 players"
    ],
-   "context": "This is a card game. Each card describes a pendulum. Players guess which pendulum swings quickest, using what they found in the swing test.",
+   "context": "This is a card game. Each card describes a pendulum. Players guess which pendulum swings quickest. You will find out if you can pick the winner using only what you learned in the swing test.",
    "printables": [
     {
      "kind": "cards",
@@ -424,7 +424,7 @@
      "mins": 3,
      "do": "1. Cut out the cards. 2. Deal 6 to each player. 3. Read the rules aloud.",
      "say": "Each card describes a pendulum. The quickest swing wins the round. Think about what you found in the swing test.",
-     "kid": "Take 6 cards. Each one is a pendulum. The quickest swing wins.",
+     "kid": "Take 6 cards. Each card describes one pendulum.",
      "context": "This is the start of Quick or Slow, a card game about which pendulums swing quickest."
     },
     {
@@ -432,7 +432,7 @@
      "mins": 2,
      "do": "Play a practice round with two cards: 'String 50 cm, bob 1 coin' and 'String 50 cm, bob 5 coins, wide start'.",
      "say": "Practice round. Both strings are 50 centimetres. One has 5 coins and a wide start. Which one wins?",
-     "kid": "Two cards, both 50 cm. One has more coins. Which is quicker?",
+     "kid": "Look at the two cards. Think about what the swing test showed.",
      "check": {
       "t": "mcq",
       "q": "Two pendulums are both 50 cm long. One has 1 coin. The other has 5 coins and a wide start. Which swings quicker?",
@@ -467,7 +467,7 @@
      "mins": 2,
      "do": "Add up the points. Then pick the slowest card in the whole pack together.",
      "say": "Which card in the whole pack is the slowest swinger? Why?",
-     "kid": "Find the slowest card in the pack. Why is it the slowest?",
+     "kid": "Look through all the cards. Find the slowest swinger.",
      "ask": [
       {
        "q": "Which is the slowest card, and why?",
@@ -498,7 +498,7 @@
     "with a parent",
     "2 or more players"
    ],
-   "context": "This is an acting game. The caller reads a card, and everyone swings their arm like a pendulum of that kind, as quickly or slowly as it would really swing.",
+   "context": "This is an acting game. The caller reads a card, and everyone swings their arm like a pendulum of that kind, as quickly or slowly as it would really swing. You will feel in your own arm what makes a swing quicker or slower.",
    "printables": [
     {
      "kind": "cards",
@@ -598,7 +598,7 @@
    "title": "The Swing Test: what changes how long a swing takes?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you build a pendulum from a thread and a bag of coins. Then you change one thing at a time, and time 10 swings each time.",
+   "context": "In this experiment you build a pendulum from a thread and a bag of coins. You change one thing at a time and time 10 swings, to find out which change makes a swing quicker.",
    "question": "Does the weight of the bob, how wide it starts, or the length of the string change how long a pendulum takes to swing?",
    "predict": "We will change three things, one at a time: the number of coins, how wide the swing starts, and the length of the thread. Which ones will change the time for 10 swings? Will it get quicker or slower? Why do you think so?",
    "fair_test": "Change only one thing in each test. Keep the same thread, the same kind of coins and the same pivot. Always count 10 full swings, and do each test twice, because one try can be off.",
@@ -999,7 +999,7 @@
      "what": "Time how long the coin pendulum takes to die down, with and without a card. Without a card it may take several minutes."
     }
    ],
-   "record": "Write both times. Draw the two pendulums and show with arrows where the air pushes.",
+   "record": "Write both times. Then tell your grown-up why the card made a difference, or draw the two pendulums with arrows where the air pushes.",
    "flow": [
     {
      "id": "s1",
@@ -1082,7 +1082,7 @@
    "title": "Swinging Keys",
    "mins": 8,
    "days": 1,
-   "context": "This is a quick start to the unit. You swing a bunch of keys and notice what they do.",
+   "context": "You swing a bunch of keys and watch closely. You will see where they go fastest, and make a first guess about what changes a swing.",
    "materials": [
     {
      "item": "a bunch of keys on a ring, or any small heavy thing on a string",
@@ -1107,7 +1107,7 @@
      "mins": 3,
      "do": "1. Hold the key ring between finger and thumb so the keys hang down. 2. Pull them a little to one side and let go. 3. Watch together.",
      "say": "Watch the keys. What do you notice? Where do they go fastest? Where do they stop?",
-     "kid": "Let the keys swing. What do you notice? Where are they fastest?",
+     "kid": "Let the keys swing and watch. Where are they fastest?",
      "ask": [
       {
        "q": "What do you notice?",
@@ -1125,7 +1125,7 @@
      "mins": 3,
      "do": "Give a tiny push, then a big push. Then hang the keys from a shoelace. Try the lace long, then short.",
      "say": "Now a tiny push, then a big one. Does the big push make each swing quicker, or only wider?",
-     "kid": "Try a tiny push. Then a big push. Is the big one quicker?",
+     "kid": "Try a tiny push, then a big push. Watch how long each swing takes.",
      "parent": "Do not give the answer. Your child will test this properly in the Swing Test."
     },
     {
@@ -1205,8 +1205,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Talk about a playground swing.",
-     "say": "When do you push a friend on a swing, so that they go higher? Why does that work?",
-     "kid": "When should you push a friend on a swing? Why?",
+     "say": "Think of pushing a friend on a swing. Pick the best moment to push.",
+     "kid": "Imagine pushing a friend on a swing. When do you push?",
      "check": {
       "t": "mcq",
       "q": "You push your friend on a swing. When should you push, to make them go higher?",
@@ -1237,7 +1237,7 @@
    "title": "Two Pendulums Share a String",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you hang two pendulums from one string and watch the swing pass from one to the other and back.",
+   "context": "You hang two pendulums from one string and start only one. You will see whether the other one starts to swing too.",
    "materials": [
     {
      "item": "two chairs",
@@ -1263,7 +1263,7 @@
      "what": "Hang two equal pendulums from a string between two chairs and watch the swing move between them."
     }
    ],
-   "record": "Draw the two pendulums at the start, after 30 seconds and after a minute. Show which one is swinging.",
+   "record": "Tell your grown-up, or write, which pendulum was swinging at the start, after 30 seconds and after a minute. Do it for both tests.",
    "flow": [
     {
      "id": "s1",
@@ -1295,7 +1295,7 @@
      "mins": 4,
      "do": "Make one pendulum 15 cm long and try again.",
      "say": "Now they are different lengths. Does the swing still pass across?",
-     "kid": "Make one short. Start the long one. Does the short one swing?",
+     "kid": "Make one short. Start the long one. Watch the short one for a minute.",
      "check": {
       "t": "mcq",
       "q": "Two pendulums hang from one string. One is 30 cm and one is 15 cm. You start the long one. What happens to the short one?",
@@ -1326,7 +1326,7 @@
    "title": "Your Legs Are Pendulums",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you find out that your legs swing like pendulums when you walk.",
+   "context": "You walk and count your steps, then count your grown-up's steps. You will find out who takes more steps, and why.",
    "materials": [
     {
      "item": "a phone stopwatch or a clock with a seconds hand",
@@ -1375,7 +1375,7 @@
      "mins": 2,
      "do": "Talk about the result.",
      "say": "Your legs are shorter pendulums than mine. What does a shorter pendulum do?",
-     "kid": "Your legs are short pendulums. What do short pendulums do?",
+     "kid": "Compare your legs with your grown-up's legs. Whose are shorter?",
      "check": {
       "t": "mcq",
       "q": "A small child and a tall grown-up walk side by side at a relaxed pace. Who takes quicker steps?",
@@ -1405,7 +1405,7 @@
    "title": "Pendulum Pictures in Salt",
    "mins": 25,
    "days": 1,
-   "context": "In this art activity a swinging paper cone full of salt draws patterns on dark paper.",
+   "context": "A swinging paper cone full of salt draws patterns on dark paper. You will see what shape a pendulum draws, and how it changes with the way you start it.",
    "materials": [
     {
      "item": "a sheet of newspaper or paper, to roll into a cone",
@@ -1546,12 +1546,12 @@
      "what": "Check each length by timing, let go of all five together and watch the wave."
     }
    ],
-   "record": "Draw the pattern at the start, after a few seconds and after 15 seconds. Write how many swings each pendulum made in 15 seconds.",
+   "record": "Write how many swings each pendulum made in 15 seconds. Take a photo or a short video of the wave, or draw the pattern after a few seconds and after 15 seconds.",
    "flow": [
     {
      "id": "s1",
      "mins": 25,
-     "do": "1. Lay the broom across two chair backs. 2. Tie each coin bag with two threads to two points on the broom, 10 cm apart, so it hangs in a V. 3. Hang them 12 cm apart along the broom. 4. Measure straight down from the broom to the middle of the coins. 5. Make the lengths 39, 33, 28 and a half, 25 and 22 cm.",
+     "do": "1. Lay the broom across two chair backs. 2. Tie each coin bag with two threads to two points on the broom, 10 cm apart, so it hangs in a V. 3. Hang them 12 cm apart along the broom. 4. Measure straight down from the broom to the middle of the coins. 5. Make the lengths 39 cm, 33 cm, 28 and a half cm, 25 cm and 22 cm.",
      "say": "Each pendulum is a little shorter than the last. The two threads keep each one swinging only front to back.",
      "kid": "Hang five pendulums in a row. Each one is a bit shorter. Measure carefully.",
      "parent": "The lengths must be right to about half a centimetre, so measure twice. The V of two threads stops the bags twisting and swinging sideways.",
@@ -1621,14 +1621,14 @@
     "Make it long. A long pendulum swings slowly, so it moves through the air more gently.",
     "Put it in a cupboard or a quiet room, so no fan or breeze disturbs it."
    ],
-   "your_turn": "Now design your own longest swinger. Draw it, build it and time it. Then change one thing and see if it beats your record.",
+   "your_turn": "Now design your own longest swinger. Plan it (tell your grown-up, or sketch it), build it and time it. Then change one thing and see if it beats your record.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Ask for two ideas and draw them.",
+     "do": "Read the problem together. Ask for two ideas, said out loud or sketched.",
      "say": "What slows a pendulum down? How could your design slow it down less?",
-     "kid": "What slows a swing down? Draw two ideas to beat it.",
+     "kid": "Think of two ideas to beat it. Tell your grown-up, or sketch them.",
      "context": "This is the Longest Swinger challenge. You design a pendulum that swings for as long as possible."
     },
     {

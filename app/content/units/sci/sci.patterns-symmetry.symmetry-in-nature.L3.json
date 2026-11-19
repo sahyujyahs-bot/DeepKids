@@ -531,7 +531,7 @@
      "mins": 2,
      "do": "1. Print and cut out the 24 cards. 2. Shuffle and deal them out equally.",
      "say": "Every card shows a shape. Before we play, how many times does a periwinkle flower look the same in one full turn?",
-     "kid": "Shuffle the cards. Share them out. How many times does a periwinkle look the same in a turn?",
+     "kid": "Shuffle the cards and share them out. Keep your pile face down.",
      "context": "This is the start of Turn Snap, a card game about the order of rotational symmetry."
     },
     {
@@ -540,14 +540,14 @@
      "do": "Play until every card has been turned over, or for 10 minutes. Count the cards each player won.",
      "say": "Turn your card. Is it the same order as the one below? Snap, and say the number!",
      "kid": "Turn over a card. Same order as the one below? Shout snap and the number!",
-     "parent": "The order is written on the back of each card. A butterfly, a face, a tulsi flower and a leaf have order 1: they have a line of symmetry but no rotational symmetry. Draw a small picture on each card if you like."
+     "parent": "The order is written on the back of each card. A butterfly, a face, a tulsi flower and a leaf have order 1: they have a line of symmetry but no rotational symmetry."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Look at the order 1 cards together.",
      "say": "The butterfly, the face, the tulsi flower and the leaf have order 1, so they do not match when turned. Can you find a fold line on each one?",
-     "kid": "Look at the order 1 cards. Do they have a fold line?",
+     "kid": "Pick up the butterfly card. Imagine folding it down the middle. Do the two halves match?",
      "check": {
       "t": "mcq",
       "q": "A butterfly, a tulsi flower and your face all have order 1. What do they have in common?",
@@ -613,6 +613,7 @@
      "do": "Play two mirror sheets, one with each of you as the drawer.",
      "say": "I'll draw 5 lines on my side. You draw the matching lines on your side, so the dotted line becomes a line of symmetry. Then we swap.",
      "kid": "Your partner draws 5 lines on one side. Draw the matching lines on your side.",
+     "parent": "If your child does not like drawing, they can copy the lines with ice-cream sticks or matchsticks laid between the dots.",
      "context": "This is round 1 of Finish My Half. You finish a drawing so it has a line of symmetry."
     },
     {
@@ -701,7 +702,7 @@
      "what": "Mix soapy water, blow a raft of bubbles, cover it with a clear lid and count the walls of bubbles in the middle and at the edge."
     }
    ],
-   "record": "Fill in the table. Draw 3 middle bubbles and 3 edge bubbles exactly as you see them. Mark one place where walls meet, and write how many walls meet there.",
+   "record": "Fill in the table. Take a photo of the middle and the edge of the raft, or draw one middle bubble and one edge bubble. Point to one place where walls meet, and write how many walls meet there.",
    "setup": [
     {
      "art": "A cup of water with dishwashing liquid being stirred gently with a spoon, and the soapy water poured into a steel plate.",
@@ -721,17 +722,17 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Pour 1 cup of water into a bowl. 2. Add 1 tablespoon of dishwashing liquid and 1 teaspoon of sugar. 3. Stir slowly, without making foam. 4. Pour it into the plate. The layer should be a few millimetres deep, enough to cover the tip of the straw.",
-     "say": "We are going to make a raft of bubbles. Stir gently, because we don't want foam yet. We want to make the bubbles ourselves, one at a time.",
+     "say": "We are going to make a raft of bubbles. Stir gently, because we don't want foam yet. First we make the soapy water.",
      "kid": "Mix water, dishwash liquid and sugar in a bowl. Stir slowly. Pour it into the plate.",
      "parent": "A layer 5 mm to 1 cm deep works best, just deep enough for the straw's tip to sit under the surface. If the tip does not go under, add more soapy water. Sugar helps the bubbles last longer, but the test works without it.",
-     "context": "This is the first step of the bubble raft experiment. Here you make the soapy water."
+     "context": "You will find out what shape bubbles take when they crowd together, and why. This first step makes the soapy water."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Ask your child to guess and give a reason. Write the guess at the top of the record sheet.",
      "say": "Each bubble starts round. When we squash lots of them together under a lid, what shape will a bubble in the middle become? What about one at the edge? Why do you think so?",
-     "kid": "Each bubble starts round. What shape will it be when squashed? Will edge bubbles look the same? Write your guess and why.",
+     "kid": "Each bubble starts round. Guess the shape of the middle bubbles and the edge bubbles. Say why. Write it down.",
      "ask": [
       {
        "q": "What shape do you think the middle bubbles will be, and why?",
@@ -755,7 +756,7 @@
      "mins": 4,
      "do": "1. Hold the clear lid flat above the bubble patch. 2. Lower it gently until it rests on the bubbles. 3. Shine the torch from the side, low across the plate, or put the plate by a bright window. 4. Look down through the lid.",
      "say": "Now we squash them gently. The lid presses every bubble down to the same height. Let's look from above. What shape are they now?",
-     "kid": "Lay the clear lid gently on the bubbles. Shine the torch from the side. Look down through the lid. What shapes do you see?",
+     "kid": "Lay the clear lid gently on the bubbles. Shine the torch from the side. Look down through the lid.",
      "ask": [
       {
        "q": "What do you notice about the shapes?",
@@ -781,7 +782,7 @@
      "mins": 3,
      "do": "Ask your child to find three places where walls meet, and count the walls at each one.",
      "say": "Look where the walls join. How many walls meet at each joining point? Check three different places.",
-     "kid": "Find a place where walls join. How many walls meet there? Check two more places.",
+     "kid": "Find a place where walls join. Count the walls that meet there. Do the same at two more places.",
      "check": {
       "t": "mcq",
       "q": "In the bubble raft, how many soap walls meet at each joining point?",
@@ -801,7 +802,7 @@
      "mins": 2,
      "do": "Ask your child to say what they think, what they saw, and why. Write it under the table.",
      "say": "What do you think now? What did you see that tells you? Why do you think the middle bubbles and the edge bubbles are different?",
-     "kid": "Say three things: what you think now, what you saw, and why you think the middle bubbles and the edge bubbles are different.",
+     "kid": "Tell your grown-up what you saw in the middle and at the edge.",
      "ask": [
       {
        "q": "Why were the middle bubbles six-sided, but the edge bubbles lopsided?",
@@ -857,7 +858,7 @@
      "qty": 2
     },
     {
-     "item": "a tomato",
+     "item": "tomatoes",
      "qty": 2
     },
     {
@@ -877,7 +878,7 @@
      "what": "Cut fruits across their middles, count the repeating parts around the centre, and compare two fruits of each kind."
     }
    ],
-   "record": "Draw each cut face from above, with the centre marked. Fill in the table.",
+   "record": "Fill in the table. Take a photo of each cut face, or draw two of them with the centre marked.",
    "setup": [
     {
      "art": "A grown-up's hands cutting a bhindi straight across its middle on a wooden board, with a lemon and a cucumber waiting.",
@@ -889,7 +890,7 @@
     },
     {
      "art": "A notebook table with drawings of a bhindi, lemon and cucumber cut across, and numbers written beside each.",
-     "caption": "3. Draw each one and write the number."
+     "caption": "3. Write the number for each one."
     }
    ],
    "flow": [
@@ -899,7 +900,7 @@
      "do": "1. Lay out the fruits. 2. Ask your child to guess, for each kind, how many parts will repeat around the centre. 3. Write the guesses down.",
      "say": "When we cut these across, the inside will have a pattern around the middle. How many times will it repeat in a bhindi? In a lemon? Will two of the same kind match? Why do you think so?",
      "kid": "Look at each fruit. Guess how many parts are inside, around the middle. Will two lemons match? Write your guesses and why.",
-     "context": "This is the first step of the fruit experiment. You guess, then cut fruits across and count the repeating parts inside."
+     "context": "You will find out if fruits have a pattern inside, and if every fruit of one kind has the same number of parts. First you guess, then you cut and count."
     },
     {
      "id": "s2",
@@ -943,7 +944,7 @@
      "mins": 3,
      "do": "Ask your child to say what they think, what they saw, and why.",
      "say": "What do you think now about fruits and symmetry? What did you see? Why might a lemon vary but a bhindi not?",
-     "kid": "Say what you think now about fruits and symmetry, what you saw, and why a lemon might vary but a bhindi not.",
+     "kid": "Tell your grown-up what you saw, and what you think now.",
      "ask": [
       {
        "q": "Why might every bhindi have 5 seed rows?",
@@ -1002,7 +1003,7 @@
      "do": "Gather 8 flat things and put them on a table.",
      "say": "Let's go on a symmetry hunt. Bring me 8 flat things from the house.",
      "kid": "Find 8 flat things at home. Put them on the table.",
-     "context": "This is a quick hunt at the start of the unit. You test everyday things to see if they match when folded or turned."
+     "context": "You will find out which everyday things match when you fold them, and which match when you turn them."
     },
     {
      "id": "s2",
@@ -1042,9 +1043,9 @@
     {
      "id": "s4",
      "mins": 1,
-     "do": "Ask whether anything passed both tests, and which one it was.",
+     "do": "Help your child sort the things into the two columns.",
      "say": "Look at your two columns. Did anything pass both the fold test and the turn test? Which one was it?",
-     "kid": "Look at your two columns. Did anything pass both tests? Which one?"
+     "kid": "Put each thing in its column. Does anything belong in both?"
     }
    ]
   },
@@ -1066,7 +1067,7 @@
      "what": "Draw a 3 by 3 dot kolam, one quarter at a time, then find its symmetry."
     }
    ],
-   "record": "Draw or photograph your kolam. Draw its lines of symmetry in pencil and write its order of rotational symmetry.",
+   "record": "Take a photo of your kolam, or draw it. Show its fold lines with a thread or in pencil, and write its order of rotational symmetry.",
    "setup": [
     {
      "art": "A 3 by 3 grid of rice-flour dots on a floor tile.",
@@ -1088,7 +1089,7 @@
      "do": "Put down 9 dots in 3 rows of 3, evenly spaced, about two fingers apart.",
      "say": "A pulli kolam starts with dots. Women in Tamil Nadu draw these at the doorstep every morning, often without lifting their hand.",
      "kid": "Put down 9 dots. Make 3 rows of 3. Keep them evenly spaced.",
-     "context": "This activity is about drawing a kolam, a South Indian doorstep pattern, and finding its symmetry."
+     "context": "You will make a kolam, a South Indian doorstep pattern, from four matching quarters. Then you will find out how many times it looks the same when turned."
     },
     {
      "id": "s2",
@@ -1103,7 +1104,7 @@
      "mins": 5,
      "do": "1. Ask how many times the kolam looks the same in one full turn. 2. Look for lines of symmetry. Lay a thread across.",
      "say": "Turn it slowly in your mind, or turn the paper. How many times does it look the same? Now find a fold line.",
-     "kid": "How many times does your kolam look the same in one turn? Find its fold lines too.",
+     "kid": "Turn the paper slowly. Count each time the kolam looks the same. Then lay a thread across to find a fold line.",
      "check": {
       "t": "mcq",
       "q": "A kolam is drawn by repeating one quarter, turning a quarter turn each time. What is its order of rotational symmetry?",
@@ -1181,13 +1182,13 @@
      "say": "Many paper snowflakes are folded so that they open into eight arms. A real snowflake has six arms. So we fold the paper into three parts, which makes it open into six matching arms.",
      "kid": "Fold the square into a triangle. Fold it in half. Now fold it into three, like a fan. Cut the top straight.",
      "adult": true,
-     "context": "This activity makes a paper snowflake with six arms, like a real one."
+     "context": "You will find out how one set of cuts can make six matching arms, like a real snowflake."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Cut small notches and curves from both long edges. Don't cut all the way across.",
-     "say": "Cut little shapes from both edges. Every cut you make will appear six times. Why do you think that is?",
+     "say": "Cut little shapes from both edges. Every cut you make will appear six times.",
      "kid": "Cut small shapes from both edges. Don't cut right across.",
      "adult": true
     },
@@ -1255,7 +1256,7 @@
      "do": "1. Fold the paper in half and open it. 2. Put blobs of paint on one side only, close to the fold. 3. Fold it shut and press firmly from the fold outwards. 4. Open it.",
      "say": "Paint on one side only. When we fold and press, what will happen on the other side?",
      "kid": "Fold the paper and open it. Put paint on one side. Fold and press hard. Open it.",
-     "context": "This activity makes a painted butterfly with a line of symmetry, then compares the painting with a real one."
+     "context": "You will find out how a butterfly can have two matching wings, and whether a real one matches as exactly as your painting."
     },
     {
      "id": "s2",
@@ -1268,7 +1269,7 @@
      "id": "s3",
      "mins": 4,
      "do": "Talk about why a butterfly needs matching wings.",
-     "say": "A butterfly flies by flapping both wings together. What would happen if one wing were much bigger?",
+     "say": "A butterfly flies by flapping both wings together. Let us think about why that needs matching wings.",
      "kid": "A butterfly flaps both wings together. What if one wing were bigger?",
      "ask": [
       {
@@ -1313,17 +1314,17 @@
     },
     {
      "art": "A child drawing round both feet on a sheet of paper and measuring each outline.",
-     "caption": "2. Draw round both feet and measure them."
+     "caption": "2. Measure each foot from heel to longest toe."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Spread each hand on the ruler and measure from thumb tip to little finger tip. 2. Stand on paper, draw round each foot, and measure each outline from heel to big toe. 3. Write the numbers in the table.",
+     "do": "1. Spread each hand on the ruler and measure from thumb tip to little finger tip. 2. Stand with your heel against a wall. Measure from the wall to the tip of your longest toe, for each foot. 3. Write the numbers in the table.",
      "say": "Your body has a left half and a right half. Do they match exactly? Let's measure.",
-     "kid": "Measure your left hand span. Then your right. Draw round both feet. Measure them too.",
-     "context": "This activity checks how closely your own body's left and right halves match.",
+     "kid": "Measure your left hand span. Then your right. Then measure each foot, from heel to longest toe.",
+     "context": "You will find out if your left and right sides match exactly. This activity checks how closely they match.",
      "parent": "Differences of a millimetre or two may just be measuring error. A difference of a few millimetres or more is a real difference between your two sides."
     },
     {
@@ -1371,7 +1372,7 @@
      "what": "Look at a window plant from above and from each side, and find which side has more leaves."
     }
    ],
-   "record": "Draw the plant from above. Draw an arrow towards the window.",
+   "record": "Take a photo of the plant from above, or draw her. Write the two leaf counts, and which side has more.",
    "setup": [
     {
      "art": "A potted tulsi on a windowsill, seen from above, with more leaves on the side facing the window.",
@@ -1389,14 +1390,14 @@
      "do": "1. Look down on the plant from above. 2. Count the leaves on the window side and the room side. 3. Look from the side to see if the stems lean.",
      "say": "Is this plant the same on every side? Count the leaves on the window side and on the room side.",
      "kid": "Look down on the plant. Count leaves on the window side. Count leaves on the room side.",
-     "context": "This activity looks for a place where a plant's symmetry breaks, and asks why."
+     "context": "You will find out which side of a plant grew more, and why. This activity looks for where a plant's symmetry breaks."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Talk about why the sides differ.",
      "say": "A plant needs light to make food. What was different on the window side?",
-     "kid": "Plants make food with light. Which side got more light?",
+     "kid": "Point to the side of the plant that got more light.",
      "ask": [
       {
        "q": "Why is the plant not even on all sides?",
@@ -1455,7 +1456,7 @@
      "what": "Lay all five drawings or photos side by side and label each one's symmetry."
     }
    ],
-   "record": "One page per day: the kolam, its lines of symmetry drawn in pencil, and its order of rotational symmetry.",
+   "record": "One page per day: a photo or drawing of the kolam, its fold lines shown with a thread or in pencil, and its order of rotational symmetry.",
    "setup": [
     {
      "art": "Five small kolams drawn in a notebook, each a little more complex, labelled Day 1 to Day 5.",
@@ -1470,10 +1471,10 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Day 1: draw a pattern with one line of symmetry only, like a butterfly or a temple doorway.",
+     "do": "Day 1: make a pattern with one line of symmetry only, like a butterfly or a temple doorway. Draw it, or arrange pebbles or bangles.",
      "say": "Today's kolam has just one fold line. What in nature has one fold line?",
-     "kid": "Draw a kolam with one fold line only. Like a butterfly.",
-     "context": "This is day 1 of A Week of Kolams. Each day you draw a pattern with a different kind of symmetry.",
+     "kid": "Make a kolam with one fold line only, like a butterfly. Draw it, or arrange pebbles or bangles.",
+     "context": "You will make five patterns and find out which kinds of symmetry you can make. Each day you make a pattern with a different kind of symmetry.",
      "parent": "If you draw with rice flour indoors, sweep it up afterwards. No rice flour? Use a pencil and notebook."
     },
     {
@@ -1481,7 +1482,7 @@
      "mins": 10,
      "do": "Day 2: draw a pattern that looks the same after half a turn but has no fold line, like the letter S.",
      "say": "Today's kolam must match after half a turn, but must not fold to match. That's tricky. Try swirls.",
-     "kid": "Draw a kolam that matches after half a turn. It must not fold to match.",
+     "kid": "Make a kolam that matches after half a turn. It must not fold to match. Draw it, or arrange pebbles or bangles.",
      "wait": "Next day"
     },
     {
@@ -1495,9 +1496,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Day 4: draw a flower kolam or rangoli with 6 or 8 petals.",
+     "do": "Day 4: make a flower kolam or rangoli with 6 or 8 petals. Draw it, or lay petals or leaves in a ring.",
      "say": "Today, draw a flower. Will you give it 6 petals, like the 6 arms of a snowflake, or 8?",
-     "kid": "Draw a flower kolam with 6 or 8 petals.",
+     "kid": "Make a flower with 6 or 8 petals. Draw it, or lay petals or leaves in a ring.",
      "wait": "Next day"
     },
     {
@@ -1656,7 +1657,7 @@
      "mins": 5,
      "do": "Talk about which is best for a bee.",
      "say": "Squares, triangles and hexagons all fit. Mathematicians have proved that hexagons use the least wall for the space inside. Why does that matter to a bee?",
-     "kid": "Hexagons need the least wall. Why is that good for a bee?",
+     "kid": "Think about a bee making wax walls. Why would she want as little wall as she can?",
      "check": {
       "t": "mcq",
       "q": "Why is a hexagon the best shape for honeycomb?",

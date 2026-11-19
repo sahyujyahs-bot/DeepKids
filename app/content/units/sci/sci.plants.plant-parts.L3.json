@@ -823,7 +823,7 @@
      "mins": 2,
      "do": "1. Lay the mat on the floor with its three columns: ROOT, STEM and LEAF. 2. Shuffle the 24 cards and put them face down. 3. Lay the 7 job tokens face up in a row.",
      "say": "Every card is a plant part in disguise. It might look like a root, but be a stem. Or look like a thread, but be a leaf. Your job is to see through the disguise.",
-     "kid": "Put the mat down: ROOT, STEM, LEAF. Mix the cards and put them face down. Each card is a plant part in disguise. Can you see through it?",
+     "kid": "Put the mat down: ROOT, STEM, LEAF. Mix the cards and put them face down. Line up the job tokens.",
      "context": "This is the first step of Plant Part Disguises. It is a card game about plant parts that have changed shape for a special job."
     },
     {
@@ -831,7 +831,7 @@
      "mins": 3,
      "do": "Find the potato card and take it out of the pile. Play it together as a practice round. Then put it back in the pile.",
      "say": "Let's practise. 'Potato: has eyes that sprout in a dark basket.' Root, stem or leaf?",
-     "kid": "Practice card: the potato. It has eyes that sprout. Root, stem or leaf? Say your answer.",
+     "kid": "Practice card: the potato. Think about the clue on the card.",
      "ask": [
       {
        "q": "What clue tells you the potato is a stem?",
@@ -869,7 +869,7 @@
      "kid": "A TEST IT card! Guess first. Then do the test. Were you right?",
      "ask": [
       {
-       "q": "You found a bud where a leaf joins the mint stem. What does that tell you?",
+       "q": "You find a bud where a leaf joins a mint stem. What kind of plant part has buds?",
        "good": [
         "Only stems have buds like that, so this part is a stem.",
         "The bud sits at a node, and nodes are on stems."
@@ -883,7 +883,7 @@
      "mins": 2,
      "do": "Count the cards to find the winner. Then look at the three columns together.",
      "say": "Look at the three columns. Which part changes its shape most often?",
-     "kid": "Count your cards. Who won? Look at the columns. Which part wears the most disguises?",
+     "kid": "Count your cards to see who won. Then look at the three columns.",
      "think": "If parts can change shape so much, how do botanists ever tell what they are?"
     }
    ],
@@ -986,15 +986,15 @@
      "mins": 3,
      "do": "1. Give each player a place card. 2. Lay the 18 part cards face up in three rows: roots, stems and leaves. 3. Keep the trouble cards face down.",
      "say": "Each of you has a hard place to live. Your job is to design a plant that can live there. Choose a root, a stem and a leaf for your plant.",
-     "kid": "Take a place card. That is where your plant lives. Choose one root, one stem and one leaf. Build a plant that can survive there!",
+     "kid": "Take a place card. That is where your plant will live. Read it out loud.",
      "context": "This is the first step of Build a Plant to Survive. Each player designs a plant for a hard place by choosing their root, stem and leaf."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Take turns choosing one root, one stem and one leaf card. 2. Each player draws their plant and gives the plant a name.",
+     "do": "1. Take turns choosing one root, one stem and one leaf card. 2. Each player lines up their three cards as their plant and gives the plant a name.",
      "say": "Why did you choose that root? What will it do for your plant in that place?",
-     "kid": "Pick a root, a stem and a leaf. Draw your plant. Give your plant a name. Say why you chose each part.",
+     "kid": "Pick a root, a stem and a leaf. Line the three cards up as your plant. Give your plant a name.",
      "ask": [
       {
        "q": "Why is a wide, thin leaf a bad choice for the desert?",
@@ -1027,9 +1027,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Talk about whose plants survived and why. Look for a real plant that matches each design. 2. Now invent a plant for a place that is not on any card. Try a city roof or a crack in a road. Draw it and label each part.",
-     "say": "Did any of your inventions already exist? Which real plants look like them? Now invent a plant for a place that is not on any card.",
-     "kid": "Does a real plant look like yours? Now invent a plant for a city roof or a crack in a road. Label each part.",
+     "do": "1. Talk about whose plants survived and why. Look for a real plant that matches each design. 2. Now invent a plant for a place that is not on any card. Try a city roof or a crack in a road. Say what each part is and what job it does, or draw it and label each part.",
+     "say": "Did any of your inventions already exist? Which real plants look like them?",
+     "kid": "Now invent a plant for a city roof or a crack in a road. Say what each part does, or draw it.",
      "think": "Plants with parts that suit their place survive better and leave more seeds, and their seedlings grow parts like theirs. After many generations, what will most of the plants in that place look like?"
     }
    ],
@@ -1041,7 +1041,7 @@
     },
     {
      "art": "A child drawing an invented spiny desert plant with a long root on a printed sheet.",
-     "caption": "2. Choose one root, one stem and one leaf. Draw your plant."
+     "caption": "2. Choose one root, one stem and one leaf. Line them up as your plant."
     },
     {
      "art": "Players holding up a trouble card that says 'A goat comes to eat you', and voting with raised hands.",
@@ -1733,14 +1733,14 @@
      "what": "Last measurements. Draw a bar chart. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table every two days. On day 8, draw one bar for each piece, as tall as its tallest shoot.",
+   "record": "Fill in the table every two days. On day 8, line up one paper strip for each piece, as long as its tallest shoot. Take a photo, or draw bars.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Lay out the carrot, radish, onion and potato. 2. Ask your child to guess which will grow the tallest new shoot in 8 days, and which will grow nothing.",
      "say": "These vegetables are all food stores. Roots and stems pack food away for the plant's future. Do you think they still have enough food to grow, with no soil at all?",
-     "kid": "Look at the carrot, radish, onion and potato. They are all food stores. Can they grow without soil? Guess which grows tallest.",
+     "kid": "Look at the carrot, radish, onion and potato. Point to the one you think will grow the tallest shoot.",
      "ask": [
       {
        "q": "Why did you pick that one?",
@@ -1757,8 +1757,8 @@
      "id": "s2",
      "mins": 6,
      "do": "1. A grown-up cuts the top 3 cm off the carrot and off the radish, keeping the leafy end. 2. Trim any old leaves to 1 cm. 3. Cut a 3 cm slice from the middle of the carrot, with no top. 4. Cut the bottom 2 cm off the onion, keeping the flat base. 5. Push 3 toothpicks into the potato and rest it on the glass, so its bottom half is in water.",
-     "say": "This slice from the middle of the carrot is our check. It is the same carrot, but it has no top. If only the top grows, we learn where new shoots come from.",
-     "kid": "A grown-up cuts the pieces. Watch the carrot middle. It is our check. Does a carrot need its top to grow?",
+     "say": "This slice from the middle of the carrot is our comparison. It is the same carrot, but it has no top. If only the top grows, we learn where new shoots come from.",
+     "kid": "A grown-up cuts the pieces. The carrot middle has no top. Do you think it will grow?",
      "adult": true
     },
     {
@@ -1818,9 +1818,9 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "Help your child draw a bar chart of the day 8 numbers, with one bar for each piece.",
+     "do": "Help your child make a bar chart of the day 8 numbers, with one paper strip for each piece. Draw bars instead if you prefer.",
      "say": "Let's turn our numbers into a picture. Each piece gets one bar, as tall as its tallest shoot.",
-     "kid": "Draw one bar for each piece. Make it as tall as its tallest shoot on day 8.",
+     "kid": "Cut one paper strip for each piece. Make it as long as its tallest shoot on day 8. Line the strips up side by side.",
      "check": {
       "t": "mcq",
       "q": "The carrot top grew leaves, but the carrot middle usually grows nothing. Why?",
@@ -1872,11 +1872,11 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Now write three sentences: what you think, what you saw, and why you think it happened.",
+     "kid": "Say your answer out loud, or write it. Use these words: I think, I saw, because.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: food stores can grow new shoots without soil, but only from a bud. What I saw: the onion grew 60 mm and the carrot top 40 mm. The carrot middle grew nothing. Why: the stored food feeds the new shoot, and the shoot grows from the bud at the top."
     }
    ],
-   "context": "This is the Wake the Store experiment. You stand pieces of carrot, radish, onion and potato in saucers of water for 8 days and measure the new shoots they grow.",
+   "context": "You will find out if a carrot, a radish, an onion or a potato can grow new shoots with no soil, using only the food stored inside. You stand pieces in saucers of water for 8 days and measure the new shoots.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: tallest new shoot after 8 days",
@@ -1968,14 +1968,14 @@
      "what": "Guess, test six pieces with iodine, and fill in the table."
     }
    ],
-   "record": "Fill in the table. Colour a small square next to each piece to match the colour you saw.",
+   "record": "Fill in the table. Write the colour you saw next to each piece.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Cover the table with newspaper. 2. A grown-up cuts a fresh, flat piece of each vegetable, about the size of a coin. 3. Lay them on an old plate and label each one.",
-     "say": "Plants store food in two main ways. Sugar tastes sweet. Starch does not taste sweet, but it fills you up, like rice and ragi. Iodine is a test. It turns blue-black where there is starch.",
-     "kid": "A grown-up cuts six pieces. Starch is food that is not sweet, like in rice. Iodine turns blue-black on starch. Guess which pieces will change.",
+     "say": "Plants store food in two main ways. Sugar tastes sweet. Starch does not taste sweet, but it fills you up, like rice and ragi. Iodine is a test for starch. It turns blue-black where there is starch.",
+     "kid": "A grown-up cuts six pieces. Starch is food that is not sweet, like in rice. Iodine turns blue-black on starch.",
      "adult": true,
      "context": "This is the first step of the Blue-Black Test. You use iodine from the chemist to find out which roots and stems store starch."
     },
@@ -1987,7 +1987,7 @@
      "kid": "Write your guess for each piece. Sweet ones might have sugar. Filling ones might have starch.",
      "ask": [
       {
-       "q": "Why do you think the carrot will or will not turn black?",
+       "q": "Why do you think the carrot will or will not turn blue-black?",
        "good": [
         "It tastes sweet, so maybe it stores sugar.",
         "It is a food store, so maybe it has starch."
@@ -2028,11 +2028,11 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Now write three sentences: what you think, what you saw, and why you think it happened.",
+     "kid": "Say your answer out loud, or write it. Use these words: I think, I saw, because.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: roots and stems store food in different ways. What I saw: the potato, sweet potato and ginger turned blue-black, but the carrot and onion stayed brown. Why: some plants store their food as starch and some store it as sugar."
     }
    ],
-   "context": "In this experiment, you put drops of iodine on cut pieces of vegetables. Iodine turns blue-black where there is starch, a kind of stored food. It shows how roots and stems keep their food.",
+   "context": "You will find out which roots and stems keep their food as starch. Starch is a stored food that does not taste sweet. A drop of iodine turns blue-black on starch, so you can see it.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -2131,7 +2131,7 @@
      "what": "Pick 5 sun leaves and 5 shade leaves. Trace them and count the squares. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Put each group's numbers in order and circle the middle one. Draw two bars, one for the middle sun leaf and one for the middle shade leaf.",
+   "record": "Fill in the table. Put each group's numbers in order and circle the middle one. Make two rows of dal grains, one for the middle sun leaf and one for the middle shade leaf. Draw two bars if you prefer.",
    "flow": [
     {
      "id": "s1",
@@ -2155,10 +2155,10 @@
      "mins": 4,
      "do": "Hold one sun leaf and one shade leaf up to a window, one after the other.",
      "say": "Which leaf lets more light through? Which feels thinner between your fingers?",
-     "kid": "Hold a sun leaf up to the window. Now a shade leaf. Which lets more light through? Which feels thinner?",
+     "kid": "Hold a sun leaf up to the window. Now a shade leaf. Look at how much light comes through each. Feel how thick each one is.",
      "ask": [
       {
-       "q": "Why might a shade leaf be bigger and thinner?",
+       "q": "Why might a bigger, thinner leaf help in the shade?",
        "good": [
         "To catch more of the weak light.",
         "There is not much light in the shade, so it spreads out wide."
@@ -2169,9 +2169,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Put the 5 sun numbers in order and circle the middle one. 2. Do the same for the shade numbers. 3. Draw a bar for each middle number.",
+     "do": "1. Put the 5 sun numbers in order and circle the middle one. 2. Do the same for the shade numbers. 3. Line up dal grains in a row for each middle number, one grain for each square.",
      "say": "The middle number is fairer than picking one leaf. One leaf could be unusual.",
-     "kid": "Put the 5 sun numbers in order. Circle the middle one. Do the same for shade. Draw two bars.",
+     "kid": "Put the 5 sun numbers in order. Circle the middle one. Do the same for shade. Line up that many dal grains in a row for each middle number.",
      "check": {
       "t": "mcq",
       "q": "On one hibiscus bush, the middle sun leaf covered 18 squares and the middle shade leaf covered 27. What does this suggest?",
@@ -2209,11 +2209,11 @@
      "mins": 4,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Now write three sentences: what you think, what you saw, and why you think it happened.",
+     "kid": "Say your answer out loud, or write it. Use these words: I think, I saw, because.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: leaves in the shade grow bigger. What I saw: the middle shade leaf covered 27 squares and the middle sun leaf covered only 18. The shade leaf was thinner too. Why: there is less light in the shade, so a bigger leaf catches more of it."
     }
    ],
-   "context": "This is Sun Leaf, Shade Leaf. You pick leaves from the sunny outside and the shady inside of one bush, trace them on squared paper and count the squares to compare their size.",
+   "context": "You will find out if leaves that grow in the shade are bigger than leaves that grow in the sun, on the same bush. You trace leaves on squared paper and count the squares to compare their size.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: middle leaf size",
@@ -2297,7 +2297,7 @@
      "what": "Look at the roots, snip off the shoots, set up two tilted trays, pour the water and compare the mud."
     }
    ],
-   "record": "Fill in the table. Draw both glasses, showing how much mud settled at the bottom.",
+   "record": "Fill in the table. Take a photo of the two glasses side by side.",
    "flow": [
     {
      "id": "s1",
@@ -2344,7 +2344,7 @@
      "mins": 7,
      "do": "1. Wait 10 minutes for the mud to settle. 2. Measure the height of the mud layer at the bottom of each glass, in millimetres. 3. Write both numbers in the table.",
      "say": "Which glass is muddier? Where did that mud come from?",
-     "kid": "Wait 10 minutes. Measure the mud at the bottom of each glass. Which has more?",
+     "kid": "Wait 10 minutes. Then measure the mud at the bottom of each glass with a ruler.",
      "check": {
       "t": "mcq",
       "q": "The glass under the bare tray had 12 mm of mud. The glass under the tray with roots had 2 mm. Why?",
@@ -2381,11 +2381,11 @@
      "mins": 5,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Now write three sentences: what you think, what you saw, and why you think it happened.",
+     "kid": "Say your answer out loud, or write it. Use these words: I think, I saw, because.",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: roots hold soil together. What I saw: the bare tray lost 12 mm of mud and the tray with roots only 2 mm. Why: the roots make a net that grips the soil, so the water cannot carry it away."
     }
    ],
-   "context": "This is Roots Hold the Soil. You grow a tray of seedlings, then pour water over that tray and a tray of bare soil, and compare how much mud washes away.",
+   "context": "You will find out if roots really hold soil in place when water rushes over it. You grow a tray of seedlings for 10 days. Then you pour water over that tray and a tray of bare soil, and compare the mud that washes into the glasses.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: mud washed off each tray",
@@ -2450,7 +2450,7 @@
      "what": "Find the clues on each vegetable, cut a carrot and an onion, and sort them into roots, stems and leaves."
     }
    ],
-   "record": "Draw each vegetable. Draw an arrow to the clue that told you what it is.",
+   "record": "Make a list. For each vegetable, write the clue you found and ROOT, STEM or LEAF. Or take a photo of your three papers.",
    "flow": [
     {
      "id": "s1",
@@ -2464,7 +2464,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Look at each vegetable closely, with a hand lens if you have one. 2. Look for eyes, rings and tiny side roots. 3. On the potato, join its eyes with a finger. Do they go round in a spiral?",
-     "say": "Look closely. Does it have eyes? Rings? Tiny root hairs? Write down what you find.",
+     "say": "Look closely. Does it have eyes? Rings? Tiny root hairs? Tell me what you find.",
      "kid": "Look at each one with the hand lens. Find eyes, rings or tiny hairs. Join the potato's eyes with your finger. Is it a spiral?",
      "ask": [
       {
@@ -2482,7 +2482,7 @@
      "mins": 7,
      "do": "1. A grown-up cuts a carrot across the middle and an onion from top to bottom. 2. Look at the carrot's ring and core. 3. Look at the onion's flat base and layers. 4. Peel a spring onion to see the green leaves join the white layers.",
      "say": "The carrot has a ring inside. The pale core in the middle is the bundle of tubes that carries water. The onion's layers start at that flat base. That base is its stem.",
-     "kid": "Look inside the carrot. See the ring and the middle? Now look at the onion. The flat bottom is its stem. The layers are leaves!",
+     "kid": "Look inside the carrot. Find the ring and the pale middle. Now look at the onion. Find the flat base and the layers.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -2505,7 +2505,7 @@
      "think": "Why would a plant keep their food under the ground, instead of up in the air?"
     }
    ],
-   "context": "This is a kitchen detective activity. You look for clues like eyes, rings and layers to decide whether vegetables are roots, stems or leaves.",
+   "context": "You will find out how to tell a root, a stem and a leaf apart, even when vegetables look alike. You look for clues like eyes, rings and layers on kitchen vegetables.",
    "setup": [
     {
      "art": "A row of vegetables on a kitchen board: carrot, radish, potato, sweet potato, ginger, onion, spring onion and sugarcane.",
@@ -2549,7 +2549,7 @@
      "what": "Collect 10 different leaves on a walk, and make an album page for each one."
     }
    ],
-   "record": "Make one album page for each leaf: the leaf taped down, its shape, its veins, where it grew, and a pet name.",
+   "record": "Make one album page for each leaf: the leaf taped down, three describing words, its veins (N or S), where it grew, and a pet name.",
    "flow": [
     {
      "id": "s1",
@@ -2563,9 +2563,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Draw its veins: a net or parallel lines.",
+     "do": "1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Look at its veins. Tell your child to write N next to net-like veins, or S next to veins that run side by side.",
      "say": "Describe each leaf like a detective. Fold one in half. Is it the same on both sides? Look at the veins. Do they make a net, or run side by side?",
-     "kid": "Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Draw its veins.",
+     "kid": "Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Look at the veins. Net, or side by side? Write N or S.",
      "ask": [
       {
        "q": "Which leaf do you think grew in the most shade? Why?",
@@ -2579,9 +2579,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Give each leaf a pet name and a short profile: where it lives and what its shape is good for. 2. Draw a little map of where you found each leaf.",
+     "do": "1. Give each leaf a pet name and a short profile: where it lives and what its shape is good for. 2. Write down where you found each leaf, and whether it grew in sun or shade.",
      "say": "If this leaf had a profile, what would it say? 'I live in the shade, so I am big and thin.'",
-     "kid": "Give each leaf a pet name. Write one line about it. 'I am Waxy Wanda. I live in the sun.' Then draw a map.",
+     "kid": "Give each leaf a pet name. Write one line about it. 'I am Waxy Wanda. I live in the sun.' Then write where you found it.",
      "check": {
       "t": "mcq",
       "q": "A leaf is shiny and waxy on top. Where might it have grown?",
@@ -2595,7 +2595,7 @@
      }
     }
    ],
-   "context": "This is a leaf hunt and album. You collect ten different leaves, describe them, give them pet names and think about how each shape suits where it grew.",
+   "context": "You will find out how a leaf's shape and skin can tell you where it grew. You collect ten different leaves, describe them and give each one a pet name.",
    "setup": [
     {
      "art": "A child and a parent on a leafy lane, the child dropping a leaf into a cloth pouch.",
@@ -2603,11 +2603,11 @@
     },
     {
      "art": "A notebook page with a leaf taped down, a folded leaf beside it, and three words written underneath.",
-     "caption": "2. Tape each leaf down. Fold one to check its halves. Draw its veins."
+     "caption": "2. Tape each leaf down. Fold one to check its halves. Look at its veins."
     },
     {
      "art": "A hand-drawn map of a street with little leaf drawings where each one was found, and pet names beside them.",
-     "caption": "3. Give each leaf a pet name. Draw a map of where you found it."
+     "caption": "3. Give each leaf a pet name. Write where you found it."
     }
    ]
   },
@@ -2642,22 +2642,22 @@
      "what": "Rub one tendril, check it and an untouched one after 30 minutes and 2 hours, and look for a coiled tendril's switch point."
     }
    ],
-   "record": "Draw both tendrils before, after 30 minutes and after 2 hours. Draw a coiled tendril and mark its switch point.",
+   "record": "Keep your photos or drawings of both tendrils: before, after 30 minutes and after 2 hours. Show the switch point on a coiled tendril, or draw it and mark the switch.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Find two young tendrils that are still fairly straight. 2. Rub one side of the tip of one tendril gently with a thin twig, 10 times. Leave the other alone, to compare. 3. Draw both now.",
+     "do": "1. Find two young tendrils that are still fairly straight. 2. Rub one side of the tip of one tendril gently with a thin twig, 10 times. Leave the other alone, to compare. 3. Take a photo of both now, or draw them.",
      "say": "Charles Darwin did exactly this, more than 150 years ago. He tickled tendrils and timed them. Let's see if our plant feels the touch.",
-     "kid": "Find two straight young tendrils. Rub the tip of one gently with a twig, 10 times. Leave the other alone. Draw both. Will the rubbed one move?",
+     "kid": "Find two straight young tendrils. Rub the tip of one gently with a twig, 10 times. Leave the other alone. Take a photo of both, or draw them. Will the rubbed one move?",
      "context": "This is the first step of Tickle a Tendril. A tendril is the curly thread a climbing plant uses to grab things. You test whether it feels a touch."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "After 30 minutes, look at both tendrils and draw them. Then look again after 2 hours.",
+     "do": "After 30 minutes, look at both tendrils and take a photo of each, or draw them. Then look again after 2 hours.",
      "say": "Has the rubbed tendril curled at all? Did the other one stay straight? Which way did the rubbed one bend: towards the side we rubbed, or away?",
-     "kid": "Look at both after 30 minutes. Has the rubbed one curled? Draw them. Look again after 2 hours.",
+     "kid": "Look at both after 30 minutes. Take a photo of each, or draw them. Look again after 2 hours.",
      "wait": "Look again after 30 minutes, then after 2 hours.",
      "parent": "Many tendrils start to bend within an hour, curving towards the rubbed side. If nothing happens, the tendril may be too old. Try a younger one. A tendril that does not move is still a result, so write it down."
     },
@@ -2684,10 +2684,10 @@
      "mins": 5,
      "do": "Pull gently on a coiled tendril and let it go.",
      "say": "Feel how it stretches and springs back, like a spring. Why might that help the plant in a storm?",
-     "kid": "Pull very gently on a coiled tendril. Let go. Does it spring back? How would that help in a storm?"
+     "kid": "Pull very gently on a coiled tendril. Let go. Feel it spring back."
     }
    ],
-   "context": "In this activity you gently tickle a tendril of a gourd or pea plant and watch whether the tendril curls. You also look for a strange switch in the twist of a coiled tendril.",
+   "context": "You will find out if a plant can feel a touch. You gently rub the tip of a gourd or pea tendril and watch whether the tendril curls. You also look for a strange switch in the twist of a coiled tendril.",
    "setup": [
     {
      "art": "A child gently rubbing the tip of a young straight gourd tendril with a thin twig.",
@@ -2695,7 +2695,7 @@
     },
     {
      "art": "The same tendril drawn three times: straight, slightly bent, and curled into a hook.",
-     "caption": "2. Draw it now, after 30 minutes and after 2 hours."
+     "caption": "2. Photograph it now, after 30 minutes and after 2 hours."
     },
     {
      "art": "A finger tracing a coiled tendril on a string, with a small arrow at the switch point where the twist changes direction.",
@@ -2730,7 +2730,7 @@
      "what": "Look down on a plant, follow the leaf spiral up a stem, and count the spirals on a pineapple or pine cone."
     }
    ],
-   "record": "Draw the plant from above. Write how many spirals you counted each way.",
+   "record": "Take a photo of the plant from above, or draw it. Write how many spirals you counted each way.",
    "flow": [
     {
      "id": "s1",
@@ -2758,13 +2758,13 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Talk about why plants might grow in spirals.",
-     "say": "Things that grow in spirals like this pack tightly, with almost no gaps. Leaves in a spiral shade each other least. The great mathematician Alan Turing was studying these spirals in the last years of his life.",
-     "kid": "Spirals pack things tightly with few gaps. Leaves in a spiral shade each other less. A great mathematician, Alan Turing, studied these spirals.",
+     "do": "Ask your child why leaves might grow in a spiral. Listen, then tell them: a spiral packs leaves closely, so each leaf shades the ones below less.",
+     "say": "Think about the leaf above. If every leaf sat straight above the one below, what would happen to the lower leaves?",
+     "kid": "Imagine every leaf straight above the one below. What would happen to the lower leaves? Tell your grown-up.",
      "think": "Leaves in a spiral shade each other very little. Why is it good for a plant that their leaves shade each other as little as possible?"
     }
    ],
-   "context": "In this activity you look down on plants from above and find the jigsaw and spiral patterns that help leaves catch light.",
+   "context": "You will find out how leaves are arranged so they do not hide each other from the Sun. You look down on plants from above and find the jigsaw and spiral patterns.",
    "setup": [
     {
      "art": "A child standing over a pot plant, looking straight down at their leaves fitting together like a jigsaw.",
@@ -2803,14 +2803,14 @@
      "what": "Act out roots, climbing stems and sun-catching leaves. Then build a plant from blocks."
     }
    ],
-   "record": "Draw the plant shape you liked being best, and label its jobs.",
+   "record": "Take a photo of your block plant. Tell your grown-up the shape you liked being best, and what job each part does.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Your child stands in tree pose, one foot pressed to the other leg, arms up like branches. 2. Gently push their shoulder. 3. Then let them stand on both feet, spread wide like roots, and push again.",
      "say": "You are a tree. Your feet are roots. With one foot down, a push wobbles you. Spread your roots wide. Now can I push you over?",
-     "kid": "Stand like a tree on one foot. A grown-up gives a gentle push. Now spread both feet wide like roots. Is it harder to push you?",
+     "kid": "Stand like a tree on one foot. A grown-up gives a gentle push. Now spread both feet wide like roots and get pushed again.",
      "context": "This is the first step of Be the Plant. You act out how roots, stems and leaves are shaped for their jobs."
     },
     {
@@ -2826,7 +2826,7 @@
      "mins": 5,
      "do": "1. The grown-up calls out a place: desert, dark forest, pond, windy hill. 2. Your child changes shape to fit. 3. Then build a plant from blocks or boxes and name each part's job.",
      "say": "Desert! Make yourself small and spiky, and hold your water in. Dark forest! Spread your arms wide to catch the little light. Pond! Lie flat and float.",
-     "kid": "Listen for the place. Desert? Curl up small and spiky. Dark forest? Spread your arms wide. Pond? Float flat like a lotus leaf.",
+     "kid": "Listen for the place. Desert? Curl up small and spiky. Dark forest? Spread your arms wide. Pond? Float flat like a lotus leaf. Last, build a plant from blocks or boxes and say what each part does.",
      "check": {
       "t": "mcq",
       "q": "In the dark forest you spread your arms wide. Why do plants on a dark forest floor often have big, wide leaves?",
@@ -2840,7 +2840,7 @@
      }
     }
    ],
-   "context": "This is a movement activity. You use your body to act out how a root grips, how a climbing stem winds up a support and how leaves reach for light.",
+   "context": "You will find out why plant parts have the shapes they have, by being the plant yourself. You act out a root that grips, a climber that winds up a support and leaves that reach for light.",
    "setup": [
     {
      "art": "A child in tree pose on one foot with arms up, then standing with feet spread wide like roots.",
@@ -2914,7 +2914,7 @@
      "what": "Measure, draw, and give the plant with no stick a support. Write your diary report."
     }
    ],
-   "record": "Keep a diary page for each visit: the date, the height of the tallest stem, a drawing, and one thing you noticed.",
+   "record": "Keep a diary page for each visit: the date, the height of the tallest stem, a photo or a drawing, and one thing you noticed.",
    "flow": [
     {
      "id": "s1",
@@ -2946,7 +2946,7 @@
      "mins": 10,
      "do": "1. Look down from above on the plant with the stick. Is their stem winding the same way as a clock's hands, or the other way? 2. Look at the pot without a stick.",
      "say": "Which way is that plant winding? Most twining plants in the world wind the same way. And look at the plants with no stick. What are they doing?",
-     "kid": "Look down from above on the plant with the stick. Do they wind like a clock's hands, or the other way? What are the beans with no stick doing?",
+     "kid": "Look down from above on the plant with the stick. Which way does the stem wind? Then look at the pot with no stick.",
      "wait": "Check at about day 16.",
      "check": {
       "t": "mcq",
@@ -2965,12 +2965,12 @@
      "mins": 25,
      "do": "1. Measure both pots. 2. Give the pot with no stick a stick, and watch the beans grab hold over the next few days. 3. Your child writes a short diary report. It says what happened, what surprised them, and why a climber has their shape.",
      "say": "Let's write it up like a botanist. What did the climbing shoot do? What did the floppy one do? Why is a thin, twining stem a good plan?",
-     "kid": "Measure both pots. Give the floppy beans a stick. Write your report. What surprised you most?",
+     "kid": "Measure both pots. Give the floppy beans a stick. Write your report, or say it and let your grown-up write it down.",
      "wait": "Do this at about day 21.",
      "think": "The bean with no stick kept growing long and thin. What do you think they were spending their food on?"
     }
    ],
-   "context": "In this three-week project, you grow climbing beans in two pots, one with a stick and one without. You trace the circling tip and watch which way the stem winds.",
+   "context": "You will find out how a climbing bean reaches for something to hold. In this three-week project, you grow climbing beans in two pots, one with a stick and one without. You trace the circling tip and watch which way the stem winds.",
    "setup": [
     {
      "art": "Two pots of soil on a sunny balcony, a bamboo stick pushed into one of them, a child planting bean seeds.",
@@ -3021,7 +3021,7 @@
      "mins": 4,
      "do": "Try to stand a flat sheet of paper on its edge. Then ask your child to guess which shape will hold the most books. Will it be a tube, a zigzag or a square column?",
      "say": "A flat sheet cannot even hold itself up. But the same paper, in the right shape, might hold up books. Which shape do you think will win?",
-     "kid": "Try to stand a flat sheet up. It flops! Guess: which shape holds the most books? A tube, a zigzag or a square?",
+     "kid": "Try to stand a flat sheet up. What happens?",
      "context": "This is the first step of The Paper Stem. You test which shape of paper stem holds up the most books, just as a real stem holds up a plant."
     },
     {
@@ -3037,7 +3037,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Compare the results. Then look at the bamboo stick or the grass stem together.",
-     "say": "Bamboo and grass stems are tubes. Many stems are strong round the outside and lighter in the middle. Why do you think plants use this shape?",
+     "say": "Bamboo and grass stems are tubes. Many stems are strong round the outside and hollow in the middle.",
      "kid": "Which shape held the most? Now look at a grass stem or a bamboo stick. Is it a tube too?",
      "check": {
       "t": "mcq",

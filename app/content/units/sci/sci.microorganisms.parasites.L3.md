@@ -272,7 +272,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 - **predict:** Look at the gaps between the teeth of each comb. Guess which combs will push the sesame seeds along, and which will push the tiny khus khus seeds. Why do you think so?
 - **fair test:** Use the same seeds, the same sheet of paper and the same slow sweep for every comb. Only the comb changes. Do three sweeps with each comb, because one sweep can be a fluke.
 - **safety:** Keep the seeds away from babies and small children, who may put them in their nose or mouth. Wash the lice comb before using it on hair.
-- **record:** Fill in the table. Then draw the three combs, with the gaps between their teeth, and draw a sesame seed and a khus khus seed to the same size beside them.
+- **record:** Fill in the table. Then say which comb you would use to find lice on a head, and why.
 - **results table:** Comb | Sweep | Sesame seeds pushed to the line (out of 10) | Khus khus seeds pushed to the line (out of 10)
 - **s1 (5 min)**  
   *Parent does:* 1. Lay the three combs side by side. 2. Hold each one against the ruler. 3. Count how many teeth fit in 1 cm. 4. Look at the gaps with a magnifying glass if you have one.  
@@ -282,13 +282,13 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask for a guess and a reason. 2. Write the guesses at the top of the table.  
   *Parent says:* Which comb will push the sesame seeds? Which will push the tiny khus khus seeds? Why do you think so?  
-  *Child mode:* Guess. Which comb will push the sesame? Which will push the khus khus? Why?
+  *Child mode:* Guess. Which comb pushes the sesame? Which pushes the khus khus?
   - Ask: What makes you think that comb will catch the small seeds? (good: Its gaps are smaller than the seed.; The seed is too big to slip between the teeth.)
   - Note: Wait for a guess and a reason before going on. Do not explain yet. The test will answer it.
 - **s3 (3 min)**  
   *Parent does:* 1. Draw a start line across the paper. 2. Draw a finish line 10 cm away. 3. Put 10 sesame seeds in one heap and 10 khus khus seeds in another, 2 cm apart, on the start line.  
   *Parent says:* The seeds are our pretend lice and nits. A sesame seed is about the size of a grown louse. A khus khus seed is a little bigger than a louse egg.  
-  *Child mode:* Draw two lines 10 cm apart. Put sesame and khus khus heaps on the first line.
+  *Child mode:* Mark two pencil lines 10 cm apart. Put the sesame and khus khus heaps on the first line.
 - **s4 (6 min)**  
   *Parent does:* 1. Stand the wide-tooth comb on the start line, behind the seeds, with its teeth touching the paper. 2. Sweep it slowly to the finish line. 3. Count the sesame and the khus khus seeds that reached the line. 4. Put them all back and do it twice more.  
   *Parent says:* Keep the teeth flat on the paper and move slowly. Then count what reached the finish line.  
@@ -302,7 +302,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 - **s6 (5 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask for a claim, the evidence and a reason. 3. Then read out the fact about real nits.  
   *Parent says:* Which comb caught the khus khus? What did you see? Why do you think that comb worked? Here is a fact. A real louse egg is smaller than a khus khus seed, and is glued to one hair near the scalp.  
-  *Child mode:* Which comb caught the khus khus? Why did it work? A real louse egg is even smaller.
+  *Child mode:* Look at your table. Which comb caught the khus khus seeds? A real louse egg is even smaller.
   - Ask: Say what you think, what you saw, and why you think it happened. (good: What I think: only a comb with very small gaps catches tiny things. What I saw: the lice comb pushed the khus khus, the wide comb did not. Why: the seeds slipped between the wide teeth.)
   - Check: In the Comb Test, the khus khus seeds slipped past the wide-tooth comb. Why? → **The gaps between the teeth were wider than the seeds**
 ### e2 · The Fan Test: where does a fan stop mosquitoes? (20 min)
@@ -327,44 +327,44 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
   *Child mode:* Hold the flag still. Count to ten. Is it still, fluttering or flat? Write the score.
   - Note: Under a ceiling fan, the wind is usually strongest just below and around the blades, and weaker in the corners and under the bed. A table fan blows mostly in one direction. Results depend on your fan and room, so what you find is the real answer for your room.
 - **s4 (5 min)**  
-  *Parent does:* 1. Draw the wind map. 2. Talk about where the pillow should go.  
+  *Parent does:* 1. Sort the places into still ones and windy ones, using the scores. 2. Talk about where the pillow should go.  
   *Parent says:* Where are the still places? Mosquitoes can land there easily. Where should the pillow and your face be at night?  
-  *Child mode:* Draw your wind map. Where is the air still? Where should your pillow go?
+  *Child mode:* Point to the places where the flag stayed still. Where should your pillow go?
   - Check: In the Fan Test, the flag stayed still in a corner. Why might a mosquito find it easier to bite someone sleeping there? → **Mosquitoes are weak fliers, and in still air they can fly and land easily**
 
 ## Activities
 ### a1 · How Small? A parasite size line (15 min)
 - **safety:** Keep seeds away from babies and small children.
-- **record:** Draw a size line across a page, with each parasite drawn next to the seed or thing of the same size.
+- **record:** Take a photo of your seeds with the name slips beside them. Or draw a size line across a page and write each parasite's name by its seed.
 - **s1 (5 min)**  
   *Parent does:* 1. Put a khus khus seed, a sesame seed, a mustard seed and a grain of rice along the ruler. 2. Look at each with the magnifying glass. 3. Lay a hair beside them.  
   *Parent says:* These seeds will help us picture how small the parasites are. Which is the smallest? How thick is the hair next to them?  
   *Child mode:* Put the seeds on the ruler. Look with the magnifier. Which is smallest? Look at the hair too.
 - **s2 (7 min)**  
-  *Parent does:* Read the sizes aloud and draw each parasite beside the right seed.  
+  *Parent does:* Read the sizes aloud. Write each parasite's name on a paper slip and put the slip beside the right seed.  
   *Parent says:* A louse egg is less than 1 mm long, smaller than a khus khus seed. A louse is up to 3 mm, like a sesame seed. A flea is the same. An unfed tick is a little bigger, and swells to about 1 cm after feeding. A mosquito's body is about as long as a grain of rice. A threadworm is up to about 1 cm. A roundworm can be longer than your ruler.  
-  *Child mode:* Draw each one by its seed. Draw the egg by the khus khus seed, the louse by the sesame seed and the mosquito by the grain of rice.
+  *Child mode:* Write each name on a slip. Put each slip by the seed of the same size.
   - Note: These sizes are approximate. A roundworm can grow to about 30 cm or more. The malaria parasite is far too small for this line. They live inside red blood cells, and a red blood cell is less than one hundredth of a millimetre across.
 - **s3 (3 min)**  
   *Parent does:* Talk about what the line shows.  
   *Parent says:* Which parasites could you see on a comb or a tissue? Which one needs a microscope?  
   *Child mode:* Which ones can you see? Which one needs a microscope?
-  - Check: On your size line, which parasite is far too small to draw? → **The malaria parasite**
+  - Check: On your size line, which parasite is far too small to see without a microscope? → **The malaria parasite**
 ### a2 · The Malaria Journey: act it out (15 min)
-- **record:** Draw the journey as a circle of arrows, and draw one place where you broke the path.
+- **record:** Tell your grown-up the journey in order: a sick person, a mosquito, a new person. Then say one place where you broke the path.
 - **s1 (5 min)**  
   *Parent does:* 1. The parent lies on the mat holding the paper ball: the parent has malaria. 2. The child is the mosquito. She 'bites' the parent's arm and takes the ball. 3. The mosquito counts slowly to 12, for the days the parasite grows inside her. 4. She 'bites' the pillow and puts the ball there.  
   *Parent says:* The ball is the malaria parasite. Watch where they go. They live in a person, then in a mosquito, then in a new person.  
   *Child mode:* You are the mosquito. Bite the sleeper's arm. Take the ball. Count to 12. Bite the pillow.
 - **s2 (5 min)**  
   *Parent does:* 1. Put the saree over the pillow as a net. 2. Act it again.  
-  *Parent says:* Now the second person sleeps under a net. What happens to the parasite's journey?  
-  *Child mode:* Now there is a net. Can the mosquito bite? Where does the ball go?
+  *Parent says:* Now the second person sleeps under a net. Let's act it again and watch the ball.  
+  *Child mode:* Act the bite again, with the net over the pillow.
   - Ask: What happened to the ball when the pillow was under a net? (good: The mosquito could not reach the pillow, so the ball stayed with her.; No bite, so no parasite passed on.)
 - **s3 (5 min)**  
   *Parent does:* Talk about other ways to break the journey.  
   *Parent says:* Where else could we break the path? Think about the first person, the mosquito and the water she was born in.  
-  *Child mode:* Where else can we stop the parasite? Think of three places.
+  *Child mode:* Name three ways to stop the journey.
   - Note: Good answers: the first person sees a doctor and takes medicine, so no mosquito picks up parasites. Covering water means fewer mosquitoes are born. A fan, long sleeves, window mesh or a repellent stop the bite.
 ### a3 · Weekly Head Check with a Lice Comb (15 min)
 - **safety:** A grown-up does the combing gently. Do not use any lice lotion without a grown-up and a chemist's or doctor's advice.
@@ -398,7 +398,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 - **s3 (3 min)**  
   *Parent does:* Talk about what you found.  
   *Parent says:* Why do the holes need to be smaller than a mosquito? Why must the net be tucked in all round?  
-  *Child mode:* Why must the holes be small? Why tuck the net in?
+  *Child mode:* Answer your grown-up. Then check that the net is tucked in all round.
   - Check: Someone sleeps under a net with one tear the size of a coin. Are they safe from mosquitoes? → **No, a mosquito can find the tear and come in**
 ### a5 · Where Could They Get In? A home detective walk (15 min)
 - **safety:** A grown-up comes along. Do not touch dirty water or animal bedding with bare hands.
@@ -415,7 +415,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
   - Check: There is water standing in a flowerpot saucer on the balcony. What should you do? → **Empty it and scrub the saucer, once a week**
 ### a6 · Pull Out a Pretend Tick (10 min)
 - **safety:** A grown-up holds the tweezers first and shows how. Tweezers have sharp tips.
-- **record:** Draw the two pulls: the wrong way and the right way, and what was left in the dough each time.
+- **record:** Tell your grown-up what was left in the dough after the wrong way and after the right way. Or take a photo of each.
 - **s1 (3 min)**  
   *Parent does:* 1. Flatten the dough. This is the skin. 2. Push a raisin onto each half toothpick. 3. Push both toothpicks deep into the dough.  
   *Parent says:* The raisin is the tick's body. The toothpick is their mouthpart, deep in the skin, with barbs like a fish hook.  
@@ -428,7 +428,7 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 - **s3 (3 min)**  
   *Parent does:* Compare what is left in the dough.  
   *Parent says:* Which way left something behind in the skin? Why does a grown-up grip close to the skin?  
-  *Child mode:* Which way left a piece behind? Why grip close to the skin?
+  *Child mode:* Look in the dough. Find the piece that was left behind.
   - Check: A dog has a tick. How should a grown-up take the tick off? → **Grip the tick with fine tweezers right next to the skin and pull straight up, slowly**
 
 ## Projects
@@ -449,14 +449,14 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
 ## Challenges
 ### c1 · Make a Nit Comb (30 min)
 - **problem:** Make a comb that pushes khus khus seeds along, using only things from home.
-- **your turn:** Now design your own comb. Draw it, build it, and test it with the Comb Test. How close must the teeth be?
+- **your turn:** Now design your own comb. Plan it, build it, and test it with the Comb Test. How close must the teeth be?
 - **constraints:** Use only things you have at home.; The comb must push at least 8 of 10 khus khus seeds to the finish line in the Comb Test.; It must be safe to hold.
 - **general:** Tape broom sticks side by side along the cardboard, touching each other, so the gaps are smaller than a seed.; Press a strip of cardboard into fine folds, like a fan, and use the folded edge.
 - **creative:** Use a toothbrush's bristles as teeth.; Try two rows of teeth, one behind the other, so a seed that slips past the first row is caught by the second.
 - **s1 (5 min)**  
   *Parent does:* Read the problem and draw two ideas.  
   *Parent says:* The gaps must be smaller than a khus khus seed. How could we make teeth that close together?  
-  *Child mode:* Your comb's gaps must be smaller than a seed. Draw two ideas.
+  *Child mode:* Your comb's gaps must be smaller than a seed. Show two ideas: draw them, or lay out sticks.
 - **s2 (18 min)**  
   *Parent does:* Build the comb.  
   *Parent says:* Build your best idea. Press the sticks close together.  
@@ -468,14 +468,14 @@ That evening, Kavya told Ajji everything. Ajji smiled and began to oil her hair.
   *Child mode:* Test it. How many seeds reached the line? Make it better.
 ### c2 · Cover the Water (25 min)
 - **problem:** A family stores water in an open bucket on the balcony. Design a cover so no mosquito can lay eggs on the water, while the family can still take water out easily.
-- **your turn:** Now design your own cover. Draw it, make it, and test it with a grain of rice: can the rice get through anywhere?
+- **your turn:** Now design your own cover. Plan it, make it, and test it with a grain of rice: can the rice get through anywhere?
 - **constraints:** Use things from home.; No gap bigger than a grain of rice.; The water must be easy to take out.
 - **general:** Stretch a cloth over the top and tie it tight with string all round the rim.; Use a tight-fitting lid, and keep it on all the time.
 - **creative:** Cut a small flap in the cloth for a mug, with a second cloth hanging over it.; Put a tap low on the side of a drum, so the lid never needs to come off.
 - **s1 (5 min)**  
   *Parent does:* Read the problem and draw two ideas.  
   *Parent says:* Mosquitoes lay eggs on still water. How can we cover the water and still use it?  
-  *Child mode:* Mosquitoes lay eggs on water. How can you cover it? Draw two ideas.
+  *Child mode:* Mosquitoes lay eggs on water. How can you cover it? Show two ideas: draw them, or tell them to your grown-up.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Make the cover and test it with a grain of rice at the edges.  
   *Parent says:* Make it. Then try to push a grain of rice through any gap at the edge.  

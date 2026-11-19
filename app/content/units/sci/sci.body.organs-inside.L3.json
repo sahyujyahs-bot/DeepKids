@@ -721,9 +721,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw a big body outline on paper. Add ribs and a backbone, but no organs. 2. Cut out the organ tokens. 3. Shuffle the clue cards and put them face down.",
+     "do": "1. Draw a big body outline on paper, or trace round your child. Add ribs and a backbone, but no organs. 2. Cut out the organ tokens. 3. Shuffle the clue cards and put them face down.",
      "say": "This is a game about the organs inside us. An organ is a body part with a special job. I read a clue, and you race to put that organ in the right place.",
-     "kid": "Draw a big body outline. Cut out the organ tokens. Mix the clue cards. Put them face down.",
+     "kid": "Draw or trace a big body outline. Cut out the organ tokens. Mix the clue cards. Put them face down.",
      "context": "This is the first step of Where Am I?, a clue game about where organs sit in your body. Here you set up the game."
     },
     {
@@ -731,7 +731,7 @@
      "mins": 3,
      "do": "Play one practice card together: 'I am shaped like a J. I sit under your ribs on the left. Who am I?'",
      "say": "Practice card. 'I am shaped like a J. I sit under your ribs on the left.' Who am I? And where do I go?",
-     "kid": "Practice card. A J shape, under the ribs on the left. Who is it? Put it on the outline.",
+     "kid": "Listen to the clue. Put the organ token on the outline.",
      "check": {
       "t": "mcq",
       "q": "Where does the stomach go on the body outline?",
@@ -757,7 +757,7 @@
      "mins": 2,
      "do": "When a TEAM card comes up, everyone races to answer.",
      "say": "Team card! 'You are running for the bus. Point to the two organs that speed up.'",
-     "kid": "Team card. You are running for the bus. Which two organs speed up?",
+     "kid": "Team card. Race to point to the two organs on the outline.",
      "check": {
       "t": "mcq",
       "q": "You are running for the bus. Which two organs speed up?",
@@ -926,7 +926,7 @@
      "mins": 3,
      "do": "Turn over 'Eat a big breakfast of idli and sambar' as a practice card. Then shuffle it back in.",
      "say": "Practice card: a big breakfast. Which organs work harder?",
-     "kid": "Practice card: a big breakfast. Who works harder? Say why.",
+     "kid": "Think about what your organ does at breakfast. Does it work harder? Say why.",
      "check": {
       "t": "mcq",
       "q": "You eat a big breakfast. Which organ is busiest?",
@@ -952,7 +952,7 @@
      "mins": 4,
      "do": "At the end, check that every organ has at least 3 tokens. Then ask the team question.",
      "say": "Let's count. Does every organ have 3 tokens? Now the big question. Did any organ get through the whole day alone?",
-     "kid": "Count your tokens. Does every organ have 3? Did any organ get through the day alone?",
+     "kid": "Count your tokens. Does every organ have 3 or more?",
      "ask": [
       {
        "q": "Could the brain do its work without the heart?",
@@ -1534,7 +1534,7 @@
      "what": "Guess, then shake an egg in an empty jar and an egg in a jar full of water. Compare the two eggs. Then say what you think, what you saw and why it happened."
     }
    ],
-   "record": "Fill in the table. Draw the two eggs, or the two banana pieces, after the test.",
+   "record": "Fill in the table. Take a photo of the two eggs, or the two banana pieces, after the test. Or draw them.",
    "context": "This is the egg in the jar test. A raw egg stands for your soft brain. A jar stands for your skull. You test whether water around the egg protects it, like the liquid around your brain. No eggs? A piece of ripe banana works too.",
    "setup": [
     {
@@ -1555,8 +1555,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Ask your child to knock gently on their head. 2. Show them the egg and the jars.",
-     "say": "Knock gently on your head. That hard part is your skull. Your brain is soft, a bit like this raw egg. This jar is like a skull. Inside your skull, your brain floats in a clear liquid. Why do you think it floats?",
-     "kid": "Knock gently on your head. That is your skull. Your brain inside is soft, like this egg. It floats in liquid. Why?",
+     "say": "Knock gently on your head. That hard part is your skull. Your brain is soft, a bit like this raw egg. This jar is like a skull. Inside your skull, your brain floats in a clear liquid.",
+     "kid": "Knock gently on your head. That is your skull. Your brain inside is soft, like this egg. It floats in liquid.",
      "ask": [
       {
        "q": "What might the liquid do for the brain?",
@@ -1609,7 +1609,7 @@
      "mins": 4,
      "do": "Talk about where the model is like a real head, and where it is different.",
      "say": "Our model is like a head in some ways. How is it different from a real head?",
-     "kid": "How is the egg like your brain? How is it different?",
+     "kid": "Think about the egg, the jar and the water. Which part is like the skull? Which part is like the liquid around the brain?",
      "ask": [
       {
        "q": "How is a real brain different from the egg?",
@@ -1672,7 +1672,7 @@
      "what": "Guess, then squish one biscuit bag and leave the other still. Compare them after 1 minute and after 5 minutes. Then say what you think, what you saw and why it happened."
     }
    ],
-   "record": "Fill in the table. Draw what is inside each bag after 5 minutes.",
+   "record": "Fill in the table. Take a photo of each bag after 5 minutes, or draw what is inside.",
    "context": "This is the squish bag test. A plastic bag stands for your stomach. You find out whether squeezing food, the way your stomach walls churn, breaks it down faster.",
    "setup": [
     {
@@ -1717,7 +1717,7 @@
      "mins": 5,
      "do": "Hold both bags up to the light and compare. Count or guess the lumps.",
      "say": "Hold them up to the window. Which has more lumps? Which looks more like soup?",
-     "kid": "Hold the bags up to the light. Which has more lumps?",
+     "kid": "Hold the bags up to the light. Count the lumps in each.",
      "check": {
       "t": "mcq",
       "q": "In the squish bag test, which bag usually breaks down more?",
@@ -1734,8 +1734,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Talk about what the bag model leaves out.",
-     "say": "Our bag only has water. A real stomach adds something else, a strong juice with acid in it. What would that juice do to the food?",
-     "kid": "A real stomach also adds a strong juice. What would it do?",
+     "say": "Our bag only has water. A real stomach adds something else too. Think about what it is.",
+     "kid": "Our bag has only a biscuit and water. A real stomach has something more.",
      "ask": [
       {
        "q": "What does the stomach add that our bag does not?",
@@ -1804,7 +1804,7 @@
      "what": "Guess, then stir a whole lump of mishri and a crushed one in water, and time how long each takes to disappear. Do it twice. Then talk about the tiny air bags in your lungs."
     }
    ],
-   "record": "Fill in the table. Draw a bar for the whole lump and a bar for the crushed lump.",
+   "record": "Fill in the table. Draw a bar for the whole lump and a bar for the crushed lump. Or just write which was faster.",
    "context": "This is the lump or bits test. You time how fast mishri, a lump of sugar, disappears into water, whole or crushed. It shows why your lungs have hundreds of millions of tiny air bags instead of one big bag.",
    "example_chart": {
     "type": "bar",
@@ -1867,9 +1867,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Draw one bar for the whole lump and one for the crushed lump.",
-     "say": "Let's draw a bar for each. Which bar is taller? Which sugar was faster?",
-     "kid": "Draw a bar for the whole lump and one for the bits. Which is taller?",
+     "do": "Draw one bar for each lump, as tall as the minutes it took. Or just say which time was shorter.",
+     "say": "Let's make a bar for each. Which bar is taller? Which sugar was faster?",
+     "kid": "Draw a bar for each lump, as tall as its minutes. Or just say which time was shorter.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: minutes until the sugar disappeared",
@@ -1940,7 +1940,7 @@
      "what": "Feel for your heart, lungs, stomach and skull, one at a time."
     }
    ],
-   "record": "Draw a quick outline of yourself. Put a dot where you felt each thing.",
+   "record": "Say where you felt each thing: chest, ribs, throat, head. Or draw a quick outline and put a dot for each.",
    "context": "This is a short activity to notice your organs from the outside, before learning about them. You feel your heartbeat, your breathing, a swallow and your skull.",
    "setup": [
     {
@@ -1993,7 +1993,7 @@
      "mins": 2,
      "do": "Ask your child to take a sip of water and feel it go down, with one hand on the throat.",
      "say": "Take a sip. Swallow. Feel your throat move. Where do you think the water goes next?",
-     "kid": "Sip some water. Swallow. Feel your throat move. Where does the water go?",
+     "kid": "Sip some water. Swallow. Feel your throat move.",
      "check": {
       "t": "mcq",
       "q": "When you swallow water, where does it go?",
@@ -2009,9 +2009,9 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Ask your child to knock gently on the top of their head, then draw dots on a quick outline.",
-     "say": "Knock gently on your head. That hard part is your skull. What do you think is inside? Now draw yourself and put a dot for each thing you felt.",
-     "kid": "Knock gently on your head. That is your skull. What is inside? Draw yourself. Put a dot for each thing you felt.",
+     "do": "Ask your child to knock gently on the top of their head, then point to each place they felt something. Ask what it was.",
+     "say": "Knock gently on your head. That hard part is your skull. What do you think is inside? Now point to each place you felt something. Tell me what it was.",
+     "kid": "Knock gently on your head. That is your skull. Now point to each place you felt something. Say what it was.",
      "think": "You knocked on your skull and felt your ribs move. Which soft organs do you think each of these bones guards?",
      "parent": "The skull guards the brain. The ribs guard the heart and the lungs. Both are hard bone around soft organs."
     }
@@ -2080,9 +2080,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Before cutting anything, ask your child to draw with a pencil where they think the brain, heart, lungs and stomach go.",
-     "say": "Before we look anything up, draw where you think your organs are. Just a pencil shape. It's fine to guess.",
-     "kid": "Draw where you think your brain, heart, lungs and stomach are. Just guess. Use a pencil.",
+     "do": "Before cutting anything, ask your child to put a pencil dot where they think the brain, heart, lungs and stomach go. Write B, H, L or S beside each dot.",
+     "say": "Before we look anything up, put a pencil dot where you think each organ goes. Write B, H, L or S beside it. It's fine to guess.",
+     "kid": "Put a pencil dot where you think your brain, heart, lungs and stomach are. Write B, H, L or S beside each. Just guess.",
      "parent": "This drawing shows what your child thinks now. Do not correct it yet. Many children draw a small heart on the far left, small lungs and a stomach low behind the belly button."
     },
     {
@@ -2098,7 +2098,7 @@
      "mins": 6,
      "do": "Ask your child to place each organ on the map. Then check the places together and move any that are wrong.",
      "say": "Put each organ where you think it goes. Now let's check. Heart in the middle, tipped left. Lungs on both sides. Stomach under the ribs on the left. Brain in the head.",
-     "kid": "Put each organ on your map. Now check. Heart in the middle. Lungs on both sides. Stomach under the left ribs. Brain in the head.",
+     "kid": "Put each organ on your map where you think it goes. Then check it with your grown-up.",
      "check": {
       "t": "mcq",
       "q": "On your organ map, where do the lungs go?",
@@ -2247,7 +2247,7 @@
      "what": "Act out four moments of a day with the brain, heart, lungs and stomach as characters."
     }
    ],
-   "record": "Draw one scene as a comic strip with four boxes.",
+   "record": "Take a photo of your favourite moment from the play. Or draw one scene as a comic strip with four boxes.",
    "context": "This is a drama game. Your child plays the brain, and family members or toys play the heart, lungs and stomach. You act out how they work together in four moments of a day.",
    "setup": [
     {
@@ -2344,7 +2344,7 @@
      "what": "Compare where the heart, breathing organs, stomach and brain are in a fish, a cow, an octopus and you."
     }
    ],
-   "record": "Draw yourself and one other animal side by side, with the four organs in each.",
+   "record": "Make a table for you, a fish, a cow and an octopus: how many hearts, and lungs or gills. Or point to the organs in the pictures and say what is the same.",
    "context": "This activity compares our organs with the organs of other animals. You find out which animals have the same plan as us, and which are very different.",
    "setup": [
     {
@@ -2357,7 +2357,7 @@
     },
     {
      "art": "A child drawing a fish and a child side by side with matching coloured organs.",
-     "caption": "3. Draw yourself and one animal side by side."
+     "caption": "3. Fill in a table to compare yourself with each animal."
     }
    ],
    "flow": [
@@ -2408,9 +2408,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Draw yourself and one animal side by side, using the same colour for the same organ in each.",
-     "say": "Draw yourself and one animal. Use red for both hearts and pink for both brains. What is the same? What is different?",
-     "kid": "Draw yourself and one animal. Same colour for the same organ. What is the same?",
+     "do": "Make a table with a row each for you, the fish, the cow and the octopus. Fill in how many hearts each has, and whether it breathes with lungs or gills.",
+     "say": "Let's fill in a table. How many hearts does each one have? Does it breathe with lungs or gills? What is the same as you? What is different?",
+     "kid": "Fill in the table. Write the number of hearts, and lungs or gills, for each.",
      "think": "Why do you think a fish and you have the same plan inside?",
      "parent": "A fish and a person are both animals with a backbone. All animals with a backbone came from one very distant ancestor, so their insides follow a similar plan. There is a brain in a skull, a heart near the front and a gut below. That is also why a fish's air bag and our lungs began as the same thing."
     }
@@ -2493,7 +2493,7 @@
      "mins": 2,
      "do": "Ask your child to point to the brain and say what it needs from each string.",
      "say": "Point to the brain. What does it need from the red string?",
-     "kid": "Point to the brain. What does it need from the blood?",
+     "kid": "Point to the brain on your map. Follow the red string to it with your finger.",
      "ask": [
       {
        "q": "What does the brain get from the blood?",
@@ -2578,7 +2578,7 @@
      "id": "s2",
      "mins": 20,
      "wait": "Come back tomorrow for the organ pages.",
-     "do": "Make four pages. On each, draw one organ and write three lines: 'I live…', 'My job is…', 'Amazing fact…'.",
+     "do": "Make four pages. On each, put one organ picture (draw it, or cut one from a magazine or print one) and write three lines: 'I live…', 'My job is…', 'Amazing fact…'.",
      "say": "For each organ, write where it lives, what it does and one amazing fact.",
      "kid": "One page for each organ. Write where it lives. Write its job. Write one amazing fact.",
      "check": {
@@ -2640,7 +2640,7 @@
     "Look at a cricket or cycling helmet. It has a hard outside and soft foam inside. Copy the idea.",
     "Add a paper parachute so the helmet lands more slowly."
    ],
-   "your_turn": "Now invent your own helmet. Draw it, build it and test it. Then make it better.",
+   "your_turn": "Now invent your own helmet. Draw or describe your plan, build it and test it. Then make it better.",
    "context": "This is an engineering challenge. You design a helmet that protects a raw egg in a fall, the way your skull and its liquid protect your brain.",
    "setup": [
     {
@@ -2668,9 +2668,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Your child draws a design, then builds it from things at home.",
-     "say": "Draw your helmet first. What is hard on the outside? What is soft inside?",
-     "kid": "Draw your helmet. Hard outside, soft inside. Then build it."
+     "do": "Your child makes a plan by drawing it or telling you, then builds it from things at home.",
+     "say": "Make a plan first. Draw it or tell me: what is hard on the outside? What is soft inside?",
+     "kid": "Plan your helmet: hard outside, soft inside. Draw it, or tell your grown-up. Then build it."
     },
     {
      "id": "s3",
@@ -2775,7 +2775,7 @@
      "mins": 6,
      "do": "Tape paper strips across the top as ribs.",
      "say": "Now add the ribs, like the bars of a cage. Why leave gaps between them?",
-     "kid": "Tape paper ribs over the top. Leave gaps. Why?",
+     "kid": "Tape paper ribs over the top, like the bars of a cage. Leave gaps.",
      "parent": "Real ribs have muscles between them, and they swing up and out when you breathe in. A solid box would not let the lungs grow."
     },
     {

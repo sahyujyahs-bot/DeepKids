@@ -207,13 +207,13 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - **Printable cards: 8 molecule cards (the atoms are on the back):** Water (back: 2 H and 1 O. 3 points.); Hydrogen gas (back: 2 H. 2 points.); Oxygen gas (back: 2 O, holding each other with both hands. 2 points.); Carbon dioxide (back: 1 C and 2 O. Carbon holds each O with two hands. 3 points.); Methane, the gas in biogas (back: 1 C and 4 H. 5 points.); Ammonia (back: 1 N and 3 H. 4 points.); Nitrogen gas (back: 2 N, holding each other with all three hands. 2 points.); Hydrogen peroxide (back: 2 H and 2 O, in a chain H, O, O, H. 4 points.)
 - **Printable score sheet: Score sheet:** Player name; Molecule built; Atoms used; Points
 - **s1 (4 min)**  
-  *Parent does:* 1. Print or draw the atom cards. 2. Lay out one card of each kind.  
+  *Parent does:* 1. Print and cut out the atom cards. 2. Lay out one card of each kind.  
   *Parent says:* Each atom has a set number of hands. Count them on each card.  
   *Child mode:* Look at each card. Count the hands. Hydrogen has 1. Oxygen has 2. Nitrogen has 3. Carbon has 4.
 - **s2 (4 min)**  
   *Parent does:* Build water together. Put one O card and two H cards next to each other.  
   *Parent says:* Oxygen has two hands. How many hydrogens can it hold?  
-  *Child mode:* Put one O in the middle. How many H cards can it hold? Try it.
+  *Child mode:* Put one O in the middle. Try to add H cards around it.
   - Ask: Why not three hydrogens on one oxygen? (good: Oxygen has only two hands.; There would be no hand for the third one.)
   - Check: Oxygen has 2 hands and hydrogen has 1. How many hydrogens does one oxygen hold? → **2**
 - **s3 (10 min)**  
@@ -243,7 +243,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - **s3 (2 min)**  
   *Parent does:* Count the points.  
   *Parent says:* Which card was hardest to decide? What clue helped you decide it?  
-  *Child mode:* Count your points. Which card was hardest? What clue helped?
+  *Child mode:* Count your points. Pick the card that was hardest.
   - Note: A good clue is whether cooling, warming or drying would bring the first thing back. If it would, it is the same stuff.
   - Check: Melted ghee turns solid again in the fridge. What does that tell you? → **Its molecules stayed whole**
 
@@ -253,7 +253,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - **predict:** Guess first. When the battery is joined, what will you see at the pencil tips? Will both tips do the same thing? Why do you think so?
 - **fair test:** Keep the same glass, water, soda and pencils all through. Only swap which wire goes to which pencil. If the busier side moves with the black wire, the battery decides it, not the pencil.
 - **safety:** Use only a 9-volt battery, never a wall plug or a charger. Do not let the two clip wires touch each other, or the battery gets hot. Keep flames away, because a little hydrogen is made. Do not drink the water. Pour it down the sink afterwards. A grown-up handles the hot water.
-- **record:** Fill in the table for both tests. Draw the glass, the pencils and the bubbles, and label which wire went where.
+- **record:** Fill in the table for both tests. Take a photo of the glass and the bubbles, or draw them. Write which wire went where.
 - **results table:** Test | Pencil A: few bubbles, some, or many | Pencil B: few bubbles, some, or many | Which wire was on the busier pencil?
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Pour hot water from a kettle or pan into a cup. 2. Hold a cool steel plate over it for a minute. 3. Let your child touch the drops underneath.  
@@ -264,17 +264,17 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - **s2 (6 min)**  
   *Parent does:* 1. Sharpen both pencils at both ends. 2. Poke two holes in the cardboard strip, about 2 cm apart. 3. Push a pencil through each hole. 4. Fill the glass and stir in 1 teaspoon of cooking soda. 5. Lay the strip across the glass, so the tips are in the water.  
   *Parent says:* Now let's try something heat cannot do. The pencils' grey lead carries electricity.  
-  *Child mode:* Sharpen both pencils at both ends. Push them through the cardboard. Stand them in the soda water. The tips must not touch.
+  *Child mode:* Help set up the two pencils in the soda water. The two tips must not touch.
   - Note: Pencil lead is graphite, a form of carbon, which carries electricity. The soda helps the water carry electricity. The pencil tips should be in the water but not touching each other or the bottom.
 - **s3 (4 min)**  
   *Parent does:* Ask for a guess and a reason before joining the battery.  
-  *Parent says:* When we join the battery, what do you think will happen at the tips? Why do you think so?  
-  *Child mode:* What will happen when the battery is joined? Say why you think so.
+  *Parent says:* Before we join the battery, what do you think will happen at the tips? Why?  
+  *Child mode:* Guess what you will see at the pencil tips. Say why you think so.
   - Note: Wait for both a guess and a reason. Any guess is fine. Write it down.
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* 1. Snap the clip on the battery. 2. Twist the bare end of the red wire round the lead at the top of one pencil. 3. Twist the bare end of the black wire round the lead at the top of the other pencil. 4. Shine a torch through the glass and watch the tips.  
   *Parent says:* Look closely at the bottom of each pencil. What do you see?  
-  *Child mode:* Join the red wire to one pencil. Join the black wire to the other. Shine the torch. What is at the tips?
+  *Child mode:* Join the red wire to one pencil. Join the black wire to the other. Shine the torch and look at the tips.
   - Note: Within a few seconds, tiny bubbles stream up from both tips. If not, check that the wire touches the lead, not the wood, and add a little more soda. Keep the two wires apart.
   - Check: The water is bubbling, but it is still cool. What are the bubbles? → **Gases made by splitting water**
 - **s5 (5 min)**  
@@ -298,12 +298,12 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - **predict:** Guess first. Both will melt. When they cool down, will each one be the same as before? Why do you think so?
 - **fair test:** Use the same amount of each, the same kind of steel spoon, the same flame and the same height above it. Wax melts quickly and sugar takes longer, because they are different stuff. Cool both on the same plate for the same time.
 - **safety:** Only a grown-up holds the spoons over the flame. Melted sugar and wax are much hotter than boiling water and stick to skin. The child watches from an arm's length. Heat the wax gently and take it off the flame as soon as it melts, so it never smokes. Let everything cool for 10 minutes before touching.
-- **record:** Fill in the table. Draw each spoon before heating and after cooling.
+- **record:** Fill in the table. Take a photo of each spoon before heating and after cooling, or draw them.
 - **results table:** Thing | What it looked like before | What happened when heated | What it was like after cooling | Same stuff or new stuff?
 - **s1 (3 min)**  
   *Parent does:* 1. Put the sugar on one spoon and the wax shavings on the other. 2. Let your child look closely, feel and smell each.  
-  *Parent says:* Look at both. Feel them. Smell them. What will heat do? Will they come back the same after cooling? Why?  
-  *Child mode:* Look at the sugar and the wax. Feel them. Smell them. Guess what will happen, and say why.
+  *Parent says:* Will heat change them? Will they come back the same after cooling? Why do you think so?  
+  *Child mode:* Look at the sugar and the wax. Feel them. Smell them. Say what you notice.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* Hold the wax spoon over a low flame, about 10 cm above it. Take it off as soon as all the wax has melted.  
   *Parent says:* Watch the wax. What is it doing?  
@@ -330,7 +330,7 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - **predict:** Guess first. Which glass will bubble the most? Which the least? Why do you think so?
 - **fair test:** Use the same amount of water in the same kind of glass, filled to the same level. Use 1 teaspoon of sugar in one glass and 1 teaspoon of soda in another. Use the same pencils at the same distance, and the same battery. Watch each for one minute. Rinse the pencils between glasses.
 - **safety:** Use only a 9-volt battery. Keep the wires apart and flames away. Do not drink the water.
-- **record:** Fill in the table. Draw the three glasses with the bubbles you saw.
+- **record:** Fill in the table. Take a photo of the three glasses, or draw the bubbles you saw.
 - **results table:** Water | Bubbles: none, few, some or many
 - **s1 (4 min)**  
   *Parent does:* 1. Label three glasses: plain, sugar, soda. 2. Fill each to the same level with tap water. 3. Stir 1 teaspoon of sugar into one, and 1 teaspoon of soda into another.  
@@ -343,26 +343,26 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   - Note: Plain tap water makes very few bubbles, maybe none. Sugar water makes about the same. Soda water makes many. Tap water has a few dissolved minerals, which is why it may make a few bubbles at all.
 - **s3 (6 min)**  
   *Parent does:* Talk about the result.  
-  *Parent says:* Sugar dissolved and so did soda. Why did only the soda help?  
-  *Child mode:* Which glass bubbled most? Sugar and soda both dissolved. Why did only soda help?
+  *Parent says:* Both sugar and soda dissolved in water. But only the soda made lots of bubbles.  
+  *Child mode:* Which glass bubbled most? Which bubbled least?
   - Check: Soda water bubbled a lot, but sugar water hardly bubbled. Why? → **Soda breaks into charged particles in water, which carry the electricity**
 
 ## Activities
 ### a1 · Pull It Apart: what holds things together? (8 min)
-- **record:** Draw the four things in order, from easiest to pull apart to hardest.
+- **record:** Line up the four things from easiest to pull apart to hardest. Take a photo, or draw them.
 - **s1 (4 min)**  
   *Parent does:* Give your child each thing in turn and ask them to try to pull it into two pieces with their hands.  
   *Parent says:* Try to pull each one apart. Which is easiest? Which is hardest?  
   *Child mode:* Try to pull each thing into two pieces. Which is easy? Which is hard?
 - **s2 (4 min)**  
   *Parent does:* Ask what holds the atoms of the spoon together, and listen.  
-  *Parent says:* The spoon is made of tiny atoms. Why don't the atoms just fall apart into dust? What do you think holds them?  
-  *Child mode:* A spoon is made of tiny atoms. Why do they stay together? What do you think?
+  *Parent says:* Everything is made of atoms, which are pieces far too small to see. The spoon does not fall apart into dust.  
+  *Child mode:* Think of your own idea. Tell your grown-up.
   - Ask: What do you think holds the atoms of the spoon together? (good: Something makes them stick.; They hold on to each other.; Some kind of force.)
   - Note: Do not explain yet. Write down your child's idea. The unit will come back to it.
 ### a2 · Build Molecules with Chana and Toothpicks (15 min)
 - **safety:** Toothpicks are sharp. Push them into the chana away from your fingers. Do not eat the chana afterwards if they have been handled a lot.
-- **record:** Draw each model and write its name and its letters, like H2O.
+- **record:** Write the name and letters of each model, like H2O, on a label next to it. Take a photo, or draw them.
 - **s1 (5 min)**  
   *Parent does:* 1. Let each big chana be an oxygen atom. 2. Let each small moong be a hydrogen atom. 3. Build water: one chana with two moong, each on its own toothpick.  
   *Parent says:* Oxygen has two hands, so it gets two toothpicks. Hydrogen has one.  
@@ -375,19 +375,19 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   - Note: Carbon dioxide is O, C, O in a straight line, with two bonds on each side. Carbon has four hands, and each oxygen two.
 - **s3 (5 min)**  
   *Parent does:* Look at all three models together.  
-  *Parent says:* Which one do you breathe in? Which one do you breathe out? Which one do you drink?  
+  *Parent says:* Look at the three models. Now let's match each one to something real.  
   *Child mode:* Which one do you breathe in? Which do you breathe out? Which do you drink?
   - Note: You breathe in oxygen gas and breathe out carbon dioxide. You drink water.
   - Check: Your carbon dioxide model has one carbon and two oxygens. How many toothpicks does it use? → **4**
 ### a3 · Be the Atoms: act out melting, boiling and splitting (15 min)
-- **record:** Draw your family as a water molecule.
+- **record:** Take a photo of your family as a water molecule, or draw it.
 - **s1 (4 min)**  
   *Parent does:* 1. The oxygen person wears the O label and holds out both hands. 2. Each hydrogen person holds one of the oxygen person's hands. Their other hand stays by their side.  
   *Parent says:* Oxygen has two hands. Hydrogen has one. Now we are a water molecule.  
   *Child mode:* The oxygen holds out two hands. Each hydrogen holds one. You are water!
 - **s2 (5 min)**  
   *Parent does:* 1. If you have two families or friends, make two water molecules. 2. Stand close and still for ice. 3. Shuffle slowly past each other for water. 4. Move fast around the room for steam. Never let go of your partners.  
-  *Parent says:* Now we are boiling. The water molecules move far apart from each other. Do the atoms inside each molecule let go of their partners?  
+  *Parent says:* Now we are boiling. The water molecules move far apart from each other.  
   *Child mode:* Stand still for ice. Shuffle for water. Walk fast for steam. Keep holding hands!
   - Note: The answer is no. In ice, water and steam, the atoms inside each molecule keep holding hands. Only the molecules move closer together or further apart. With only one molecule, act it alone. The molecule stands still, then shuffles, then moves fast.
 - **s3 (6 min)**  
@@ -409,8 +409,8 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   - Note: Graphite is carbon atoms in flat sheets. Inside each sheet, the bonds are very strong. Between the sheets they hold on weakly, so the sheets slide, feel slippery and peel off.
 - **s3 (5 min)**  
   *Parent does:* Talk about diamond.  
-  *Parent says:* Diamond is also pure carbon, but it is the hardest natural material. How can the same atoms be soft and hard?  
-  *Child mode:* Diamond is carbon too. But it is very hard. How can that be?
+  *Parent says:* Diamond is also pure carbon, but it is the hardest natural material. Pencil lead is soft.  
+  *Child mode:* Diamond is carbon too, and it is very hard. Pencil lead is carbon and it is soft.
   - Check: Why is pencil lead soft but diamond hard, if both are only carbon? → **The carbon atoms are bonded in different patterns**
 ### a5 · New Stuff Hunt in the Kitchen (15 min)
 - **safety:** Stay an arm's length from the stove and hot pans.
@@ -430,26 +430,26 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 ## Projects
 ### p1 · My Molecule Book (40 min, 2 days)
 - **safety:** Toothpicks are sharp. Push away from your fingers.
-- **record:** One page per molecule: its name, its letters, a drawing, and where you find it.
+- **record:** One page per molecule: its name, its letters, a photo or drawing, and where you find it.
 - **schedule:** day 1: The night before, soak the chana and moong. Then build methane and ammonia. Draw or photograph each. (20 min); day 2: Build hydrogen peroxide. Finish the book with one page for each of the six molecules. (20 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Use plain chana for oxygen, moong for hydrogen, black-marked chana for carbon and blue-marked chana for nitrogen. 2. Build methane: a black chana with four moong. 3. Build ammonia: a blue chana with three moong. 4. Draw each on its own page.  
+  *Parent does:* 1. Use plain chana for oxygen, moong for hydrogen, black-marked chana for carbon and blue-marked chana for nitrogen. 2. Build methane: a black chana with four moong. 3. Build ammonia: a blue chana with three moong. 4. Take a photo of each, or draw it, on its own page.  
   *Parent says:* Remember the hands: hydrogen 1, oxygen 2, nitrogen 3, carbon 4. Every hand must be held.  
-  *Child mode:* Build methane. Then build ammonia. Draw each one on its own page.
+  *Child mode:* Build methane. Then build ammonia. Put each one on its own page.
   - Note: Methane is the main gas in biogas and in the piped cooking gas some cities have. Ammonia is in some cleaning liquids.
   - Check: Nitrogen has three hands. How many hydrogens does it hold in ammonia? → **3**
   - Wait: Soak the chana and moong in water the night before.
 - **s2 (20 min)**  
-  *Parent does:* 1. Build hydrogen peroxide: a chain of H, O, O, H. 2. Draw it on its own page. 3. Finish the book with a page for each of the six molecules. Draw water, oxygen gas and carbon dioxide from the models you made in Build Molecules with Chana and Toothpicks.  
+  *Parent does:* 1. Build hydrogen peroxide: a chain of H, O, O, H. 2. Give it its own page. 3. Finish the book with a page for each of the six molecules. Make the water, oxygen gas and carbon dioxide pages from the models you made in Build Molecules with Chana and Toothpicks.  
   *Parent says:* Hydrogen peroxide cleans cuts. Can you build it so every hand is held?  
-  *Child mode:* Build H, O, O, H. Draw it. Then finish your book with six pages.
+  *Child mode:* Build H, O, O, H. Then finish your book with six pages.
   - Wait: Do this on the second day.
 
 ## Challenges
 ### c1 · The Faster Bubble Machine (30 min)
 - **problem:** With a 9-volt battery and two pencils, the bubbles come slowly. Make a setup that makes bubbles faster, using only the same battery.
 - **safety:** Do not add salt to the water. It makes a little chlorine gas, which smells like a swimming pool and is not safe to breathe. Use only a 9-volt battery. Keep the wires apart and flames away.
-- **your turn:** Now invent your own faster bubble machine. Draw it, test it for one minute, and compare it with the first setup.
+- **your turn:** Now invent your own faster bubble machine. Build it, test it for one minute, and compare it with the first setup.
 - **constraints:** Use the same 9-volt battery.; Use only things from home.; Change one thing at a time, and compare with the first setup.
 - **general:** Put the pencil tips closer together, without touching.; Add more soda, up to 2 teaspoons.; Use warm tap water instead of cold.
 - **creative:** Sharpen the pencils longer, so more grey lead touches the water.; Try two steel safety pins in place of the pencils. After a few minutes, the pin on the red wire usually starts to rust and turns the water brownish. That is iron bonding with oxygen. Pencil lead does not do this.; Use a wider, shallower dish so you can lay the pencils almost flat, with more lead in the water.
@@ -463,9 +463,9 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
   *Child mode:* Change one thing. Watch for one minute. Faster or slower? Then try another change.
   - Note: Closer pencils and more soda both help, because the electricity has an easier path. Do not use salt, even though it would work well.
 - **s3 (5 min)**  
-  *Parent does:* Ask your child to draw the best machine.  
-  *Parent says:* Draw your best machine and say why it works.  
-  *Child mode:* Draw your best machine. Say why it was fastest.
+  *Parent does:* Ask your child to show the best machine and say why it was fastest.  
+  *Parent says:* Show me your best machine and say why it works.  
+  *Child mode:* Show your best machine. Say why it was fastest.
 ### c2 · Atom Puzzle Pieces (30 min)
 - **problem:** Design cardboard pieces for hydrogen, oxygen and carbon, so that they only join in ways real atoms can. Water should fit together. A hydrogen with two partners should not.
 - **your turn:** Now design your own atom pieces. Can you make water, methane and carbon dioxide fit, but no wrong molecule?
@@ -473,9 +473,9 @@ That evening, Arjun drew a picture for Revathi Chithi. It showed a glass, two pe
 - **general:** Give each piece tabs and slots, like a jigsaw: hydrogen one tab, oxygen two slots, carbon four slots.; Use paper clips as hands, with one clip for hydrogen, two for oxygen and four for carbon.
 - **creative:** Give carbon four slots on four sides, so methane fits as a cross.; Make double tabs that fit double slots, so carbon dioxide fits too.
 - **s1 (10 min)**  
-  *Parent does:* Draw designs for the three pieces on cardboard.  
+  *Parent does:* Sketch the three pieces on cardboard, or just start cutting and testing.  
   *Parent says:* How will you make sure hydrogen can only hold one partner?  
-  *Child mode:* Draw a hydrogen, an oxygen and a carbon piece. Hydrogen joins to one piece, oxygen to two and carbon to four.
+  *Child mode:* Plan a hydrogen, an oxygen and a carbon piece. Hydrogen joins to one piece, oxygen to two and carbon to four.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Cut out 4 hydrogens, 2 oxygens and 1 carbon. Try building water and methane.  
   *Parent says:* Do your pieces only fit the right way?  

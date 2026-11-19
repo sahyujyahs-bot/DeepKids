@@ -600,8 +600,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play one practice turn together. Draw the card 'Hands rinsed with water only for 2 seconds'.",
-     "say": "Here is a practice card. Hands were rinsed with water only. The germ moves ahead. Why didn't the water wash the germ off?",
-     "kid": "Practice card: hands rinsed with water only. The germ moves ahead! Why did the water not wash the germ off?",
+     "say": "Here is a practice card. Hands were rinsed with water only. The germ moves ahead.",
+     "kid": "Practice card: hands rinsed with water only. The germ moves ahead!",
      "ask": [
       {
        "q": "Why did a quick rinse with water not wash the germs off?",
@@ -664,7 +664,7 @@
     },
     {
      "kind": "tokens",
-     "title": "10 oil blobs: crumpled balls of yellow paper, with a small germ drawn on each",
+     "title": "10 oil blobs: crumpled balls of scrap paper, yellow if you have it",
      "items": [
       "🟡",
       "🟡",
@@ -691,8 +691,8 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Crumple 10 sheets of scrap paper into balls, colour them yellow, and draw a small germ on each. These are the oil blobs. 2. Put the SKIN sign on one side of the room and the DRAIN on the other. 3. Scatter the blobs near SKIN. 4. Show everyone which hand is the tail and which is the head.",
-     "say": "You are soap molecules. Your left hand sticks to oil. Your right hand sticks to water. The yellow balls are blobs of oil, with germs inside.",
+     "do": "1. Crumple 10 sheets of scrap paper into balls, yellow paper if you have it. These are the oil blobs. 2. Put the SKIN sign on one side of the room and the DRAIN on the other. 3. Scatter the blobs near SKIN. 4. Show everyone which hand is the tail and which is the head.",
+     "say": "You are soap molecules. Your left hand sticks to oil. Your right hand sticks to water. The paper balls are blobs of oil, with germs stuck in them.",
      "kid": "You are a soap molecule! Your left hand holds oil. Your right hand holds water.",
      "context": "This is the first step of Make a Micelle. It is a moving game where players act as soap molecules carrying oil and germs off the skin and down the drain."
     },
@@ -1426,7 +1426,7 @@
      "what": "Coat hands three times and wash three ways. Score the yellow each time and draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Draw your hands after each wash and colour where yellow stayed. Then draw a bar for each way of washing.",
+   "record": "Fill in the table. Take a photo of your hands after each wash. Then show the scores as bars or as piles of coins.",
    "flow": [
     {
      "id": "s1",
@@ -1441,8 +1441,8 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Put half a teaspoon of oil in your child's palms. 2. Add a pinch of turmeric. 3. Rub all over both hands, backs, between fingers and under nails, for 10 seconds. 4. Wash with water only: rub your hands under running water for 20 seconds, counting out loud. 5. Rinse for 5 more seconds. Do not dry them yet.",
-     "say": "Round one: water only, rubbing for 20 seconds. Count with me. Now look. How much yellow is left, from 0 for none to 5 for all of it?",
-     "kid": "Rub oil and turmeric on both hands. Rub under running water only. Count to 20. Rinse 5 more seconds. How much yellow is left? Score it, 0 to 5.",
+     "say": "Round one: water only, rubbing for 20 seconds. Count with me.",
+     "kid": "Rub oil and turmeric on both hands. Rub under running water only. Count to 20. Rinse 5 more seconds. Score the yellow left: 0 is none, 5 is all of it.",
      "ask": [
       {
        "q": "What do the water drops do on your oily hands?",
@@ -1466,7 +1466,7 @@
      "id": "s4",
      "mins": 5,
      "do": "1. Wash fully with soap, dry, and coat again the same way. 2. Now wash with soap for 20 seconds: palms, backs, between fingers, round each thumb, fingertips, under nails and wrists. Sing Happy Birthday twice. 3. Rinse for 5 seconds and score.",
-     "say": "Round three: soap for 20 seconds, every part. Sing Happy Birthday twice while you rub. Now score it. Where did the yellow go?",
+     "say": "Round three: soap for 20 seconds, every part. Sing Happy Birthday twice while you rub. Now score it.",
      "kid": "Coat again. Soap for 20 seconds. Rub every part, even thumbs and nails. Sing Happy Birthday twice. Score it.",
      "check": {
       "t": "mcq",
@@ -1492,9 +1492,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Help your child draw a bar chart with one bar for each way of washing, as tall as its score.",
+     "do": "Help your child show the scores as a bar chart. Draw one bar for each way of washing, as tall as its score. Or stack coins in three piles.",
      "say": "Let's turn the scores into a picture. A shorter bar means less yellow left, so a cleaner hand.",
-     "kid": "Draw one bar for each wash. Make it as tall as the score. Short bar means clean hands!",
+     "kid": "Draw a bar for each wash, as tall as its score. Or stack coins. Short means clean!",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: yellow left after washing, from 0 (none) to 5 (all)",
@@ -1529,7 +1529,7 @@
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: soap for 20 seconds cleans best. What I saw: water left a score of 4, and soap for 20 seconds left 0. The yellow went down the drain. Why: the turmeric was stuck in oil, water slides off oil, and soap holds both oil and water, so the rinse carried it away."
     }
    ],
-   "context": "This is the turmeric germ test. You coat your hands in oil and turmeric as pretend germs, then wash three ways to see which cleans best.",
+   "context": "This is the turmeric germ test. You coat your hands in oil and turmeric as pretend germs, then wash three ways. You will find out whether soap cleans better than water, and whether rubbing longer helps.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: yellow left after washing, from 0 (none) to 5 (all)",
@@ -1616,7 +1616,7 @@
      "what": "Shake oil and water in two jars, one with soap, and time how long each stays mixed."
     }
    ],
-   "record": "Fill in the table. Draw both jars straight after shaking, and after 2 minutes.",
+   "record": "Fill in the table. Take a photo of both jars straight after shaking, and after 2 minutes. Or draw them.",
    "flow": [
     {
      "id": "s1",
@@ -1631,16 +1631,16 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Shake both jars hard for 10 seconds, at the same time if you can. 2. Put them down side by side and start the timer. 3. Watch for a clear yellow layer coming back on top. Write down the seconds for each jar.",
-     "say": "Shake them both for 10 seconds. Now watch. Which jar separates first?",
+     "say": "Shake them both for 10 seconds. Now watch carefully.",
      "kid": "Shake both jars for 10 seconds. Put them down. Start the timer. Which one separates first?",
      "parent": "Jar 1 usually shows a clear oil layer again within 1 to 3 minutes. Jar 2 stays cloudy and creamy for 10 minutes or more. If jar 2 is still cloudy at 10 minutes, stop the timer and write 'more than 600 seconds'. A creamy band may rise to the top of jar 2, but it stays cloudy, not clear. Some foam on top is normal. If jar 2 separates fast too, add a little more soap and shake again. Bar soap scraped into flakes works too, but slowly, so liquid soap is best."
     },
     {
      "id": "s3",
      "mins": 3,
-     "do": "Explain what is in the cloudy jar.",
-     "say": "The cloudy jar is full of millions of tiny oil drops, each one wrapped in soap molecules. The tails are in the oil and the heads are in the water. That is exactly how soap carries oil off your hands.",
-     "kid": "The cloudy jar is full of tiny oil drops. Each is wrapped in soap. That is how soap cleans hands!",
+     "do": "Hold both jars up to the light. Read the say line, then ask the question below.",
+     "say": "A soap molecule has two ends. One end sticks to water. The other end sticks to oil. Look closely at the cloudy jar.",
+     "kid": "Hold the cloudy jar to the light. Look for tiny drops in it.",
      "check": {
       "t": "mcq",
       "q": "Why did the soapy jar stay cloudy?",
@@ -1662,7 +1662,7 @@
      "parent": "A good answer sounds like this. What I think: soap helps oil mix with water. What I saw: the jar without soap separated in about a minute and a half, and the soapy one stayed cloudy for over 10 minutes. Why: soap holds oil with one end and water with the other."
     }
    ],
-   "context": "In this experiment you shake oil and water in two jars, adding soap to only one. It shows how soap holds oil and water together.",
+   "context": "In this experiment you shake oil and water in two jars, adding soap to only one. You will find out whether soap can make oil and water mix.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: seconds until the oil layer came back",
@@ -1757,7 +1757,7 @@
      "what": "Look one last time. Fill in the table, draw a bar chart, and throw the sealed bags away."
     }
    ],
-   "record": "Fill in the table on days 3, 5 and 7. Draw each slice. On day 7, draw a bar chart of the spots on each slice.",
+   "record": "Fill in the table on days 3, 5 and 7. Take a photo of each bag, or draw each slice. On day 7, show the spots as a bar chart or a stack of beans.",
    "flow": [
     {
      "id": "s1",
@@ -1805,9 +1805,9 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "1. On day 7, draw a bar chart of the spots on each slice. 2. Ask your child for three sentences: what they think, what they saw, and why they think it happened. 3. Throw the bags away still sealed, and wash hands.",
+     "do": "1. On day 7, show the spots on each slice as a chart. Draw a bar for each slice, or stack one bean beside each bag for every spot. 2. Ask your child for three sentences: what they think, what they saw, and why they think it happened. 3. Throw the bags away still sealed, and wash hands.",
      "say": "Now tell me three things. What do you think now? What did you see? Why do you think it happened?",
-     "kid": "Draw a bar for each slice. Then say what you think, what you saw and why. Throw the bags away sealed.",
+     "kid": "Show the spots: draw a bar for each slice, or stack beans. Then say what you think, what you saw and why. Throw the bags away sealed.",
      "parent": "A good answer sounds like this. What I think: dirty hands carry living things we cannot see. What I saw: the dirty hands slice had 9 spots, the soap slice had 2. Why: soap washed most spores and microbes off my hands."
     }
    ],
@@ -1890,7 +1890,7 @@
      "mins": 2,
      "do": "Explain the task. Your child will count your face touches, and you will count theirs, without saying when.",
      "say": "Germs get in most easily through the eyes, nose and mouth. Hands carry them there. So how often do our hands touch our faces? Let's spy on each other for 10 minutes.",
-     "kid": "Hands carry germs to your eyes, nose and mouth. How often do you touch your face? Let's count!",
+     "kid": "Hands carry germs to your eyes, nose and mouth. Guess how many times you touch your face in 10 minutes. Then let's count!",
      "context": "This is the first step of the face-touch count. You and a grown-up secretly count how often each of you touches your face in 10 minutes."
     },
     {
@@ -1922,7 +1922,7 @@
      "parent": "Most people cannot simply stop, because most face touches happen without noticing. Washing hands with soap at the key moments, such as before eating, works better."
     }
    ],
-   "context": "This is a counting activity. You count how often people touch their faces, because that is how hands carry germs into the body.",
+   "context": "This is a counting activity. You count how often people touch their faces, because that is how hands carry germs into the body. You will find out how many times in an hour your hands go to your face.",
    "setup": [
     {
      "art": "A parent and child sitting on a sofa reading, each with a small notepad of tally marks.",
@@ -1975,7 +1975,7 @@
      "what": "Soak reetha, make foam, and test it against soap on an oily plate."
     }
    ],
-   "record": "Draw the foam. Write which cleaned the oily plate better: reetha water, soap or plain water.",
+   "record": "Write which cleaned the oily plate best: reetha water, soap or plain water. Take a photo of the foam if you like.",
    "flow": [
     {
      "id": "s1",
@@ -1990,14 +1990,14 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Rub the same few drops of oil on three steel plates, spreading it the same way. 2. Wash one plate with plain water only, rubbing with your fingers for 20 seconds. 3. Feel it. 4. Leave the other two oily plates for the reetha water and the soap.",
-     "say": "Feel this plate after plain water. Still greasy? Now let's see what reetha does.",
+     "say": "Feel the plate we washed with plain water. Now let's see what reetha does.",
      "kid": "Rub oil on three plates. Wash one with plain water. Is it still greasy? Keep the other two."
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Squeeze the soaked shells in the water with your fingers, again and again. 2. Watch foam appear. 3. Use the reetha water to wash the second oily plate, rubbing for 20 seconds. 4. Wash the third oily plate with soap, also for 20 seconds. 5. Wipe all three plates with a tissue and compare.",
-     "say": "Look at that foam! Reetha has soap-like molecules called saponins. Each one has a water-loving end and an oil-loving end, just like soap. Does it clean the oil?",
+     "do": "1. Squeeze the soaked shells in the water with your fingers, again and again. 2. Watch foam appear. 3. Use the reetha water to wash the second oily plate, rubbing for 20 seconds. 4. Wash the third oily plate with soap, also for 20 seconds. 5. Wipe all three plates with a tissue. Feel each one, and put them in a line from least greasy to most greasy.",
+     "say": "Look at that foam! Reetha has soap-like molecules called saponins. Each one has a water-loving end and an oil-loving end, just like soap.",
      "kid": "Squeeze the shells in the water. See the foam? Wash the oily plate with it. Is it cleaner?",
      "adult": true,
      "parent": "Squeezing for 1 to 2 minutes usually makes a good foam. If the shells have soaked only a few minutes, rub them hard between your fingers. Foam still comes, just less. Reetha cleans oil off steel well, though usually a little less strongly than dishwashing liquid. If the foam is weak, soak the shells longer, or overnight. Keep the leftover water for washing a cloth. Throw the used shells in compost."
@@ -2063,7 +2063,7 @@
      "what": "Walk round home and street. List germ spots and clean spots. Fix one germ spot."
     }
    ],
-   "record": "A two-column list: germ spots and clean spots. Draw the one germ spot you fixed.",
+   "record": "A two-column list: germ spots and clean spots. Take a photo of the germ spot you fixed, before and after.",
    "flow": [
     {
      "id": "s1",
@@ -2078,7 +2078,7 @@
      "mins": 15,
      "do": "1. Look round the home first: kitchen, bathroom, balcony, and the roof if you can go up. 2. Then, with a grown-up, look at the stairs and the lane outside. 3. Look for water standing in flowerpot trays, buckets, coolers, coconut shells, tyres and blocked drains. 4. Look for open rubbish, flies and uncovered food. 5. Notice covered water tanks, covered bins and swept steps too.",
      "say": "Mosquitoes lay eggs in still water, even in a bottle cap. The eggs become flying mosquitoes in about a week. So any water left for a week is a mosquito nursery.",
-     "kid": "Look for still water anywhere. Even a bottle cap counts! Write each germ spot and clean spot down.",
+     "kid": "Look for still water anywhere. Even a bottle cap counts! Write each germ spot and clean spot down. Or tell a grown-up to write it.",
      "adult": true,
      "parent": "You may see tiny wriggling larvae in old water. Tip the water onto dry soil or a dry, sunny floor, where the larvae soon die. Then scrub the container, because some mosquito eggs stick to the sides. Many Indian cities run a weekly 'dry day', when families empty and scrub every water container."
     },
@@ -2225,7 +2225,7 @@
      "mins": 15,
      "do": "1. Make one card for each. A quick drawing or just the words is fine: 1546 Fracastoro's invisible seeds. 1670s Leeuwenhoek's little animals. 1847 Semmelweis and the midwives' ward. 1854 Pacini sees the cholera germ. 1854 John Snow's water pump. 1855 Florence Nightingale and Mary Seacole nurse soldiers. 1860s Pasteur's flasks. 1884 Koch in Kolkata. 2. Peg each card where its year belongs.",
      "say": "Let's put each card in the right place. Notice how long the gaps are.",
-     "kid": "Draw a picture for each card. Peg it on the line in the right place. Look at the gaps!",
+     "kid": "Write a card for each discovery. A small drawing is fine. Peg it on the line in the right place. Look at the gaps!",
      "parent": "Space the cards by year. 1546 to the 1670s is a long gap. Most of the story crowds into 1840 to 1890. Point out that the midwives, Pacini and Mary Seacole were overlooked at first."
     },
     {
@@ -2257,7 +2257,7 @@
     },
     {
      "art": "A child drawing a tiny lens, a hand-washing basin and a water pump on separate cards.",
-     "caption": "2. Draw a card for each discovery."
+     "caption": "2. Write a card for each discovery."
     },
     {
      "art": "Cards pegged along the string, crowded together near the 1850s, with some circled in red.",
@@ -2315,7 +2315,7 @@
      "what": "Use it all day. Count how many washes one full bottle gives. Improve the design."
     }
    ],
-   "record": "Draw your tippy-tap and label each part. Write how many washes one bottle gave, and one thing you changed.",
+   "record": "Draw your tippy-tap and label each part, or take a photo and tell what each part does. Write how many washes one bottle gave, and one thing you changed.",
    "flow": [
     {
      "id": "s1",
@@ -2416,7 +2416,7 @@
     "Make a family sign that reminds everyone: elbow, not hand.",
     "Invent a way to help a young child who often forgets learn the elbow sneeze, such as a song or a game."
    ],
-   "your_turn": "Now invent your own sneeze catcher. Draw it, test it with the spray bottle, and measure how far the drops go.",
+   "your_turn": "Now invent your own sneeze catcher. Make it from things at home, or sketch a plan first. Test it with the spray bottle, and measure how far the drops go.",
    "flow": [
     {
      "id": "s1",
@@ -2437,9 +2437,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Read the usual solutions and creative ideas. Then invent your own.",
+     "do": "Talk about the wet hand. Then let your child invent a catcher from things at home.",
      "say": "The hand stopped the drops, but now it's wet. What would that hand touch next?",
-     "kid": "The hand caught the drops. But now it is wet! What would it touch next? Invent your own catcher.",
+     "kid": "Invent your own sneeze catcher from things at home. Test it with the spray.",
      "check": {
       "t": "mcq",
       "q": "Why is sneezing into your elbow better than into your hand?",
@@ -2492,7 +2492,7 @@
     "Put soap in an old stocking or onion net, tied to the tap. The net also helps you scrub.",
     "Use reetha water in a bottle, as people in India have done for centuries."
    ],
-   "your_turn": "Now design your own way to share soap. Draw it, make it, and test it for a day at home.",
+   "your_turn": "Now design your own way to share soap. Make it, or sketch a plan first, and test it for a day at home.",
    "flow": [
     {
      "id": "s1",
@@ -2505,9 +2505,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Draw two ideas. 2. Make one. For soap on a string, a grown-up pushes a nail or skewer through the soap bar to make a hole. Soap is soft, so no heating is needed. Then thread string through it. For a soap net, put soap scraps in an old stocking and tie it to the tap.",
+     "do": "1. Talk about two ideas. 2. Make one. For soap on a string, a grown-up pushes a nail or skewer through the soap bar to make a hole. Soap is soft, so no heating is needed. Then thread string through it. For a soap net, put soap scraps in an old stocking and tie it to the tap.",
      "say": "Let's make one of your ideas. Which one will you try first?",
-     "kid": "Draw two ideas. Pick one. Make it with a grown-up's help.",
+     "kid": "Tell your grown-up two ideas. Pick one. Make it with their help.",
      "adult": true
     },
     {

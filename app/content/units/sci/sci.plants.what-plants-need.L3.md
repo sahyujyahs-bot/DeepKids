@@ -257,8 +257,8 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Child mode:* You are a moong seedling. Put your counter on the seed. Take 4 leaf tokens and 2 rescue cards. Try to reach the flower with at least one leaf.
 - **s2 (3 min)**  
   *Parent does:* Take out the card 'The pot stood in a dish of water all week'. Read it together as a practice, then shuffle it back.  
-  *Parent says:* Let's practise with one card. The pot stood in a dish of water all week. Is that good or bad for the plant? Why?  
-  *Child mode:* Practice card: the pot stood in water all week. Good or bad for the plant? Say your answer.
+  *Parent says:* Let's practise with one card. It says: the pot stood in a dish of water all week.  
+  *Child mode:* Is that good or bad for the plant? Say your answer.
   - Ask: Why does standing in water harm the plant? (good: The soil is soaked, so the roots can't get air.; The roots start to rot.)
   - Check: The pot stood in a dish of water all week. What happens to the roots? → **They cannot get air, so they start to rot**
 - **s3 (14 min)**  
@@ -287,8 +287,8 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Child mode:* Each card is a test a child did. Is it fair? A fair test changes only one thing. Hold up your answer.
 - **s2 (3 min)**  
   *Parent does:* Read the card about the forgotten watering together as a practice round.  
-  *Parent says:* A girl puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Fair or unfair?  
-  *Child mode:* A girl puts one cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Fair or unfair?
+  *Parent says:* Here is a practice card. A girl puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup.  
+  *Child mode:* Hold up FAIR or UNFAIR.
   - Check: A girl puts one cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Is it a fair test of light? → **Unfair, because the light and the water both changed**
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns being the reader. 2. Everyone holds up a paddle together. 3. Give tokens for naming the extra change, for a good fix, or on a FAIR card for naming the one change.  
@@ -297,8 +297,8 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   - Note: The answers are on the backs of the cards. The card about one seed in the sun and one in the shade is worth an argument: it is not exactly unfair, but the result cannot be trusted with only one seed in each place.
 - **s4 (3 min)**  
   *Parent does:* Finish with the scoring, then ask the closing question.  
-  *Parent says:* Why do scientists care so much about changing only one thing?  
-  *Child mode:* Count your tokens. Who is the Chief Fair Tester? Why do scientists change only one thing?
+  *Parent says:* Count your tokens. Whoever has the most is the Chief Fair Tester.  
+  *Child mode:* Count your tokens. Who is the Chief Fair Tester?
   - Ask: Why do scientists change only one thing at a time? (good: So they know what caused the result.; If two things change, you can't tell which one did it.)
   - Think: When something goes wrong at home, like milk going sour, how could you find out the cause with a fair test?
 
@@ -308,13 +308,13 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - **predict:** Before you start, guess. After a week, will the seedlings in the dark be taller or shorter than the ones in the light? Will they be green or another colour? Write your guess and your reason.
 - **fair test:** Change only the light. Use 6 cups that are the same, the same soil, and 5 moong seeds in each cup. Put all 6 cups side by side near the same bright window, out of strong afternoon sun, so the box does not get hotter than the open cups. Cover 3 of them with a cardboard box. Water every cup with the same tablespoon of water each morning. Measure every cup at the same time of day. We use 3 cups in the light and 3 under the box, because one cup could be a fluke.
 - **safety:** A grown-up pokes the holes in the cups with a nail or a pin.
-- **record:** Fill in the table. Then draw two bar charts: one of the heights on Day 7, and one of the number of open green leaves.
+- **record:** Fill in the table. Then draw a bar chart of the heights on Day 7. Write down the number of open green leaves.
 - **results table:** Cup | Day 3: height of the tallest seedling (cm) | Day 5: height (cm) | Day 7: height (cm) | Colour of the leaves | Open green leaves on the tallest seedling
 - **schedule:** day 1: Sow 5 soaked moong in each of 6 cups. Write your prediction. Put 3 cups under the box and 3 beside it in the light. (12 min); day 2: Water every cup with 1 tablespoon. Put the box back quickly. Do this every morning until Day 7. (2 min); day 3: Water, then measure the tallest seedling in each cup. Write the heights and colours. (5 min); day 4: Water every cup the same. (2 min); day 5: Water and measure again. (5 min); day 6: Water every cup the same. (2 min); day 7: Measure, count the open green leaves on the tallest seedling in each cup, compare and draw a bar chart. Say what you think, what you saw and why. (12 min); day 8: Put the dark cups in the light. (2 min); day 9: Look again. Do the dark seedlings turn green? (3 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Put the soaked moong in a bowl. 2. Ask your child to predict what will happen in the dark, and write it down.  
-  *Parent says:* Some seedlings will grow in the light, and some in the dark. In a week, which do you think will be taller? Which will be greener?  
-  *Child mode:* Some moong will grow in the light. Some will grow in the dark. Guess: which will be taller? Which will be greener? Write it down.
+  *Parent says:* We will grow some moong in the light and some in the dark. Let's guess what will be different in a week.  
+  *Child mode:* Guess: which moong will be taller, and which will be greener? Say it to your grown-up, or write it down.
   - Ask: Why do you think that? (good: Plants need light, so the dark ones will be small.; They might grow up to look for light.)
   - Note: Most children predict the dark seedlings will be smaller. That is a fine prediction. The surprise is part of the lesson.
 - **s2 (8 min)**  
@@ -345,8 +345,8 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   - Check: The dark seedlings grew taller than the light seedlings. Does that mean they are healthier? → **No. They are tall because they are stretching to find light, and they are pale and weak**
 - **s6 (6 min)**  
   *Parent does:* Help your child draw a bar chart of the Day 7 heights. Use the middle height of the 3 LIGHT cups and of the 3 DARK cups.  
-  *Parent says:* To find the middle height, put the 3 numbers in order and take the middle one. Then draw one bar for LIGHT and one for DARK.  
-  *Child mode:* Put the 3 LIGHT heights in order. The middle one is your LIGHT bar. Do the same for DARK. Draw both bars.
+  *Parent says:* To find the middle height, put the 3 numbers in order and take the middle one. Then draw one bar for LIGHT and one for DARK, or cut a paper strip as tall as each.  
+  *Child mode:* Put the 3 LIGHT heights in order. The middle one is your LIGHT bar. Do the same for DARK. Draw both bars, or cut paper strips.
   - Note: With the made-up numbers, LIGHT is 8, 8, 9, so the middle is 8. DARK is 13, 14, 15, so the middle is 14. Using the middle value stops one odd cup from fooling us.
 - **s7 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -365,7 +365,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - **predict:** Guess first. Which cups will do best: no water, just right water, or soaked all the time? Which will do worst? Write your guesses and reasons.
 - **fair test:** Change only the water. Grow all 9 cups of seedlings the same way for 5 days first. Then give 3 cups no water, and 3 cups 1 tablespoon every morning. Stand the last 3 cups in a deep dish of water that always comes up to the level of the soil inside the cups, so the soil stays soaked to the top. Keep the cups side by side on the same windowsill. Measure every cup at the same time of day.
 - **safety:** A grown-up pokes the holes in the cups. Wash hands after touching soil. Tip out the SOAKED dish and fill it with fresh water every second day, so mosquitoes cannot breed in it. Throw away soggy, smelly soil outside or in the dustbin, not in the kitchen sink.
-- **record:** Fill in the table. Draw a bar chart of the middle height of each group on Day 14. Draw what the roots looked like in each group.
+- **record:** Fill in the table. Draw a bar chart of the middle height of each group on Day 14. Take a photo of the roots in each group, or tell your grown-up how they looked.
 - **results table:** Cup | Day 6: height (cm) | Day 10: height (cm) | Day 14: height (cm) | Leaves: firm, drooping, yellow or dry? | Soil: dry, damp or soggy?
 - **schedule:** day 1: Sow 5 soaked moong in each of 9 cups. Water every cup with 1 tablespoon and put them all on the windowsill. (12 min); day 2: Water all 9 cups with 1 tablespoon each. (2 min); day 3: Water all 9 cups the same. (2 min); day 4: Water all 9 cups the same. (2 min); day 5: Water all 9 cups the same. (2 min); day 6: Measure all cups. Write your predictions. Label the cups and start the three kinds of watering: none, just right, soaked. (12 min); day 7: Water the JUST RIGHT cups with 1 tablespoon. Feel the soil in one cup of each group. (2 min); day 8: Water the JUST RIGHT cups. Tip out the SOAKED dish and fill it with fresh water. Look at the leaves and write one line about each group. (3 min); day 9: Water the JUST RIGHT cups. (2 min); day 10: Water the JUST RIGHT cups, change the dish water and measure. (5 min); day 11: Water the JUST RIGHT cups. (2 min); day 12: Water the JUST RIGHT cups, change the dish water and look closely at the leaves. (3 min); day 13: Water the JUST RIGHT cups. (2 min); day 14: Final measuring. Tip one cup from each group out to look at the roots. Draw a bar chart and say what you think, what you saw and why. (22 min)
 - **s1 (20 min)**  
@@ -375,8 +375,8 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   - Wait: Let the seedlings grow for 5 days. Water all 9 cups the same, 1 tablespoon every morning.
 - **s2 (12 min)**  
   *Parent does:* On Day 6: 1. Measure the tallest seedling in each cup and write down the height. 2. Label 3 cups NONE, 3 JUST RIGHT and 3 SOAKED. 3. Stand the 3 SOAKED cups in a deep dish. Fill the dish with water up to the soil inside the cups. 4. Put all the cups back side by side.  
-  *Parent says:* Now the test begins. These get no water at all. These get 1 spoon every morning. And these stand in water all the time. Which do you think will do best?  
-  *Child mode:* Measure every cup. Put labels on: NONE, JUST RIGHT, SOAKED. Stand the SOAKED cups in a dish of water. Which will do best? Guess.
+  *Parent says:* Now the test begins. These get no water at all. These get 1 spoon every morning. And these stand in water all the time.  
+  *Child mode:* Measure every cup. Put labels on: NONE, JUST RIGHT, SOAKED. Stand the SOAKED cups in a dish of water.
   - Ask: Which do you think will do best? Why? (good: Just right, because too much is bad too.; Soaked, because plants love water.)
   - Note: Many children predict the soaked cups will do best. Let them. The test will answer it.
 - **s3 (15 min)**  
@@ -400,7 +400,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - **s6 (6 min)**  
   *Parent does:* Help your child draw a bar chart of the middle height in each group on Day 14.  
   *Parent says:* One bar for each group. Put the three heights in order and use the middle one.  
-  *Child mode:* Draw a bar for NONE, JUST RIGHT and SOAKED. Use the middle height of each group.
+  *Child mode:* Draw a bar for NONE, JUST RIGHT and SOAKED, or cut paper strips. Use the middle height of each group.
 - **s7 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think now? What did you see that shows it? Why do you think it happened?  
@@ -417,13 +417,13 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - **schedule:** day 1: Set up the three bowls (the moong were soaked 2 nights before). Measure the sprouts. Put one bowl in the fridge, one in a room cupboard and one in a warm spot. (15 min); day 2: Measure the 5 longest sprouts in each bowl. Read the temperature in each place. (6 min); day 3: Measure again. (6 min); day 4: Final measuring. Work out how much each bowl grew. Draw a bar chart. Optional: move the fridge bowl into the room and watch it for 2 more days. (13 min)
 - **s1 (3 min)**  
   *Parent does:* Show your child the sprouted moong and ask for a prediction.  
-  *Parent says:* We'll keep some sprouts cold, some cool and some warm. Which do you think will grow the most in 3 days?  
+  *Parent says:* We'll keep some sprouts cold, some cool and some warm, for 3 days.  
   *Child mode:* Some sprouts go in the fridge. Some go in a cupboard. Some go somewhere warm. Guess: which will grow most?
 - **s2 (8 min)**  
   *Parent does:* 1. Fold a wet cloth flat in each bowl. 2. Wet each with exactly 4 teaspoons of water. 3. Put 10 sprouts on the cloth in each bowl. 4. Measure the 5 longest sprouts in each bowl, from the tip of the root to the top, and add them up. 5. Cover each bowl with a plate.  
-  *Parent says:* The fridge is dark inside. So we cover all three bowls with a plate, to make them all dark. That way only the warmth is different.  
+  *Parent says:* The fridge is dark inside. So every bowl gets a plate on top.  
   *Child mode:* Put a folded wet cloth in 3 bowls. Add 4 spoons of water to each. Put 10 sprouts in each. Measure 5 sprouts. Cover each bowl with a plate.
-  - Ask: The fridge bowl will be in the dark. What should we do to the other two bowls, so that only the warmth is different? (good: Cover them too, so all three are dark.; Keep everything else the same.)
+  - Ask: Why do all three bowls get a plate, not just the fridge bowl? (good: Cover them too, so all three are dark.; Keep everything else the same.)
   - Note: Adding up 5 sprouts gives one number for each bowl, and evens out small and big sprouts. Sprouts of 1 cm, 2 cm, 1 cm, 1 cm and 1 cm add up to 6 cm. Lift each sprout gently, because their root may stick to the cloth.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. Put one bowl in the fridge, not the freezer. 2. Put one bowl in a cupboard in a room. 3. Put one bowl in a warm spot, like a cupboard in the warmest room or the top of the fridge. 4. If you have a thermometer, leave it in each place for 5 minutes and read it.  
@@ -437,9 +437,9 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   - Check: You add water to the warm bowl because its cloth is drying. What should you do for the other two bowls? → **Add the same amount, so the water stays the same in all three**
   - Wait: Measure on Day 2, Day 3 and Day 4.
 - **s5 (8 min)**  
-  *Parent does:* On Day 4: 1. Measure one last time. 2. For each bowl, take the Day 1 total away from the Day 4 total. That is how much the sprouts grew. 3. Draw a bar for each place.  
-  *Parent says:* Take the first total away from the last total. That tells us how much each bowl grew. Let's draw one bar for each.  
-  *Child mode:* Take the first number away from the last number. That is how much they grew. Draw one bar for each place.
+  *Parent does:* On Day 4: 1. Measure one last time. 2. For each bowl, take the Day 1 total away from the Day 4 total. That is how much the sprouts grew. 3. Draw a bar for each place, or cut a paper strip as long as the growth.  
+  *Parent says:* Take the first total away from the last total. That tells us how much each bowl grew. Let's draw one bar for each, or cut a strip.  
+  *Child mode:* Take the first number away from the last number. That is how much they grew. Draw one bar for each place, or cut a strip.
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* What do you think now? What did you see? Why do you think it happened?  
@@ -457,7 +457,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - **predict:** Guess first. Which colour of light will grow the greenest, strongest seedlings? Which will grow the weakest? Plants are green. Do you think they like green light best? Why do you think so?
 - **fair test:** Change only the colour of the cover. Use 4 cups of seedlings sown on the same day, the same soil and the same water. Make 4 cone-shaped covers of the same size, from clear, red, blue and green cellophane. Stand the cups side by side in the same bright place.
 - **safety:** Leave a small gap at the bottom of each cover so air can get in. Do not leave the cups in hot afternoon sun, because the covers can trap heat.
-- **record:** Fill in the table. Draw the seedling from each cover, in the colours you see.
+- **record:** Fill in the table. Take a photo of the seedling from each cover, or draw the colours you see.
 - **results table:** Cover colour | Day 7: height (cm) | Leaf colour | Open green leaves | Leaning?
 - **schedule:** day 1: (Sow the cups 3 or 4 days before.) Make 4 cellophane covers and put one over each cup. Write your predictions. (10 min); day 2: Lift each cover, water each cup with 1 tablespoon and put the cover back. Look through the covers. (1 min); day 3: Lift each cover, water each cup with 1 tablespoon and put the cover back. Look through the covers. (1 min); day 4: Lift each cover, water each cup with 1 tablespoon and put the cover back. Look through the covers. (1 min); day 5: Lift each cover, water each cup with 1 tablespoon and put the cover back. Look through the covers. (1 min); day 6: Lift each cover, water each cup with 1 tablespoon and put the cover back. Look through the covers. (1 min); day 7: Take off the covers. Measure, compare colour and leaves, and say what you think, what you saw and why. (20 min)
 - **s1 (10 min)**  
@@ -472,7 +472,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - **s3 (12 min)**  
   *Parent does:* On Day 7: 1. Take off the covers. 2. Measure the tallest seedling in each cup. 3. Compare leaf colour, stem thickness and how much each seedling leans.  
   *Parent says:* Which seedlings look the sturdiest and greenest? Which are tall and pale?  
-  *Child mode:* Take off the hats. Measure each cup. Which seedlings are greenest and strongest? Which are tall and pale?
+  *Child mode:* Take off the hats. Measure each cup. Look at the colour, the stem and the leaves.
   - Note: Clear usually gives the sturdiest green seedlings. Under red they are often a little taller and thinner. Blue usually gives short, green seedlings. Green often looks most like the dark cups, taller and paler. Results at home vary. Cellophane sheets also let different amounts of light through, so this test is not perfectly fair. That is worth talking about.
   - Check: Plants are green because their leaves bounce back much of the green light. So, under green cellophane, what do the seedlings mostly get? → **The light they use least, so they grow as if in dim light**
 - **s4 (8 min)**  
@@ -485,7 +485,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 ## Activities
 ### a1 · Pale Sprouts (15 min, 4 days)
 - **safety:** Do not eat sprouts that have stood on the windowsill for days.
-- **record:** Draw a sprout from the tiffin and a sprout from the windowsill. Write three things you notice and one thing you wonder.
+- **record:** Draw a sprout from the tiffin and a sprout from the windowsill, or take a photo of each. Write three things you notice and one thing you wonder.
 - **schedule:** day 1: Soak a handful of moong in water overnight. Next morning, drain it, spread it on a wet cloth in a tiffin and close the lid. (2 min); day 3: Open the tiffin. Notice the colour of the shoots. Put half the sprouts on the windowsill and close the rest back in the tiffin. (10 min); day 4: Compare a windowsill sprout with a tiffin sprout. (3 min)
 - **s1 (2 min)**  
   *Parent does:* 1. Soak a handful of moong in a bowl of water overnight. 2. Next morning, drain it. 3. Spread it on a wet cloth in a steel tiffin and close the lid.  
@@ -496,20 +496,20 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - **s2 (8 min)**  
   *Parent does:* 1. Open the tiffin together. 2. Look closely at the shoots and their colour. 3. If you have a potato or onion with shoots from a dark basket, look at that too.  
   *Parent says:* Look at these shoots. What do you notice about their colour? Don't explain yet. Just notice.  
-  *Child mode:* Open the tiffin. Look at the shoots. What colour are they? What do you notice?
+  *Child mode:* Open the tiffin. Look closely at the shoots and their colour.
   - Ask: What do you notice? (good: They are white.; They are pale yellow.; They are long and thin.; They are alive and growing.)
   - Ask: What do you wonder? (good: Why aren't they green?; Will they turn green?; What do they need?)
   - Note: Do not explain yet. The light test will answer the question. Write down your child's wonderings, so you can come back to them.
 - **s3 (2 min)**  
   *Parent does:* 1. Put half the sprouts on a wet cloth on a plate, on a bright windowsill. 2. Put the other half back in the tiffin and close it. 3. Sprinkle both lots with the same amount of water.  
-  *Parent says:* Let's do a small test. Half go in the light, and half stay in the dark. What do you think will happen by tomorrow? Why do you think so?  
-  *Child mode:* Put half the sprouts on the windowsill. Close the rest in the tiffin. What will happen by tomorrow? Why?
+  *Parent says:* Let's do a small test. Half go in the light, and half stay in the dark. What do you think will happen by tomorrow?  
+  *Child mode:* Put half the sprouts on the windowsill. Close the rest in the tiffin.
   - Ask: What do you predict? Why? (good: The ones in the light will go green, because leaves are green in the light.; Nothing will change, because sprouts are always white.)
   - Wait: Leave them for 1 day.
 - **s4 (3 min)**  
   *Parent does:* The next day, put a windowsill sprout and a tiffin sprout side by side on white paper. Compare their colour, especially near the top.  
-  *Parent says:* Which one is greener? What was the only thing that was different between them?  
-  *Child mode:* Put one sprout from each place on white paper. Which is greener? What was different?
+  *Parent says:* Look at the two sprouts. Where were they kept?  
+  *Child mode:* Put one sprout from each place on white paper. Look at the colour near the top.
   - Note: Many windowsill sprouts show a green tinge near the top, and their seed halves look greener. The tiffin sprouts stay pale. If the change is faint, leave them one more day. Both lots got water and air. Only the light was different.
   - Check: Both lots of sprouts had water and air. What did the windowsill sprouts get that the tiffin sprouts did not? → **Light**
   - Think: If the tiffin sprouts stayed in the dark for a week, what do you think would happen to them?
@@ -575,7 +575,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - **s3 (8 min)**  
   *Parent does:* Mark each place on the map: very bright, bright, dim or dark. Then decide where your home's plants should live.  
   *Parent says:* A tulsi needs lots of sun. A money plant is happy with less. Where should each of our plants go?  
-  *Child mode:* Colour each place on the map: very bright, bright, dim or dark. Draw where each plant should live.
+  *Child mode:* Colour each place on the map: very bright, bright, dim or dark. Write each plant's name on the map, or walk there and point.
   - Check: Which is usually brighter: outside on a sunny day, or the middle of a room? By how much? → **Outside, often about a hundred times brighter or more**
   - Think: Your eyes adjusted so well that you did not notice how dim the room was. A plant that needs lots of light is not fooled. Which place on your map would that plant choose?
 ### a5 · Bose's Growth Magnifier (35 min)
@@ -598,13 +598,13 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   - Wait: Check every 2 hours, from morning to evening.
 - **s4 (10 min)**  
   *Parent does:* Work out how much the plant really grew: the pointer moved 4 times as far as the plant grew.  
-  *Parent says:* The pointer moved 12 millimetres. The lever makes it look 4 times bigger. So how much did the plant really grow?  
+  *Parent says:* The lever makes the plant's growth look 4 times bigger. So we divide how far the pointer moved by 4.  
   *Child mode:* Measure how far the pointer moved. Divide that by 4. That is how much the plant really grew.
   - Ask: If the pointer moved 12 millimetres, how much did the plant grow? (good: 3 millimetres, because 12 divided by 4 is 3.)
   - Check: The pointer on the long end of the straw moved 8 millimetres. The long end moves 4 times as far as the plant grows. How much did the plant grow? → **2 millimetres**
   - Think: Bose's machine made growth look thousands of times bigger. He saw it speed up and slow down from minute to minute. What could make a plant grow faster for a few minutes? Think about what Bose did to his plants.
 ### a6 · Seedling Dance: in the dark and in the light (12 min)
-- **record:** Draw yourself as a seedling in the dark and in the light.
+- **record:** Tell your grown-up how you moved as a seedling in the dark and in the light. Or draw it.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to curl up small on the floor like a seed in the soil.  
   *Parent says:* You're a moong seed in the soil. Curl up tight. You have a little store of food inside you.  
@@ -636,7 +636,7 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Child mode:* Look at your light map. Find a bright place with some morning sun. That is your bean's home.
 - **s2 (12 min)**  
   *Parent does:* 1. Fill the pot with the soil and compost. 2. Push 3 soaked beans in, about 2 cm deep and a hand-width apart. 3. Water until a little runs out of the hole. 4. Give your plant a name and write the name on the pot.  
-  *Parent says:* Some families talk to their plant and name them. Let's name ours. What will you call your bean?  
+  *Parent says:* Let's give our bean a name. What will you call your bean?  
   *Child mode:* Fill the pot. Push in 3 beans, 2 cm deep. Water until a little runs out of the hole. Give your plant a name!
   - Note: Children take more care of a plant they have named. If more than one bean comes up, keep the strongest and snip the others off at the soil after a week, so the strongest has space.
 - **s3 (25 min)**  
@@ -653,13 +653,13 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
 - **s5 (30 min)**  
   *Parent does:* On Day 21: 1. Measure one last time. 2. Make a bar chart with one bar for each measuring day. 3. Write two sentences: what helped your plant grow and what slowed them down. 4. Show the diary to the family.  
   *Parent says:* Look at your chart. When did your bean grow fastest? Was the weather different then? What would you change next time?  
-  *Child mode:* Draw one bar for each day you measured. When did your bean grow fastest? Write what helped them and what slowed them down.
+  *Child mode:* Draw one bar for each day you measured, or stick paper strips. Write what helped your bean and what slowed them down.
   - Note: If the plant dies, that is a real result too. Be a plant doctor together: which need was missing? Your child can write a short note about how it feels to lose a plant, and then try again.
 
 ## Challenges
 ### c1 · Light for a Dark Corner (30 min)
 - **problem:** A plant has to live in a dim corner, a few steps from the window. They are leaning and pale. Your job is to get more light to them without moving the pot.
-- **your turn:** Now invent your own way. Draw it, build it and measure the light before and after. Which idea gave the most light?
+- **your turn:** Now invent your own way. Build it and measure the light before and after. Which idea gave the most light?
 - **constraints:** You cannot move the pot.; You cannot use electric lamps.; Use only things from home, like white paper, cardboard, steel plates, mirrors and kitchen foil.
 - **general:** Put white card or kitchen foil behind and beside the plant, so light that falls there bounces back onto the leaves.; Clean the window. A dusty window can block a lot of light.; Open the curtains wider, or tie them back.
 - **creative:** Use a steel thali or a mirror outside the window to bounce a patch of sunlight into the room. Move it every hour to follow the Sun.; Make a light funnel: line a cardboard tube with foil and point one end at the window and the other at the plant.; In some old houses in India, a small glass tile in the roof let daylight into a dark room. Could a 'skylight' of foil-lined card work for you?
@@ -673,9 +673,9 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Child mode:* Look at the usual ways and the creative ideas. Pick the ones you want to try.
   - Think: Which of your ideas would still work on a cloudy day, and which would work only in direct sunshine?
 - **s3 (5 min)**  
-  *Parent does:* Draw or list three ideas together, including at least one of your own.  
+  *Parent does:* Say or list three ideas together, including at least one of your own. A quick sketch is fine.  
   *Parent says:* Engineers think before they build. Let's list three ideas.  
-  *Child mode:* Think like an engineer. Draw three ideas to bring light to the corner, one of them your own.
+  *Child mode:* Think like an engineer. Say or list three ideas for more light, one of them your own.
 - **s4 (15 min) · grown-up needed**  
   *Parent does:* Try each idea, one at a time, and measure the light at the plant after each one.  
   *Parent says:* Try one idea at a time. Measure after each one. That's a fair test of our ideas.  
@@ -698,9 +698,9 @@ Arjun got the mango. He cut it on the terrace, and the juice ran down eleven chi
   *Child mode:* Look at the usual ways and the creative ideas. Which will you try?
   - Think: The buried clay pot idea is very old. Why do you think people kept using it for so long?
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* Draw three ideas together, one of them your own. Then build the one your child likes best.  
-  *Parent says:* Let's draw three ideas, then build the best one.  
-  *Child mode:* Draw three ideas, one of them your own. Then build the best one. Ask a grown-up for help with holes.
+  *Parent does:* Talk through three ideas together, one of them your own. Then build the one your child likes best.  
+  *Parent says:* Let's think of three ideas, then build the best one.  
+  *Child mode:* Think of three ideas, one of them your own. Then build the best one. Ask a grown-up for help with holes.
 - **s4 (5 min)**  
   *Parent does:* Test the waterer on the plant for 3 days. Check the soil each day with a finger and write: dry, damp or soggy.  
   *Parent says:* A good engineer tests before the trip. Let's check the soil every day.  

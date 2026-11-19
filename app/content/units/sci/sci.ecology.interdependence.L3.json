@@ -447,7 +447,7 @@
      "what": "Count for the last time. Say what you think, what you saw and why. Keep Box J for the Waiting or Dead experiment."
     }
    ],
-   "record": "Fill in the table every day. On day 8, draw one seed from each box, as big as you can, with her root if she has one.",
+   "record": "Fill in the table every day. On day 8, take a photo of each box, or draw one seed from each box with her root if she has one.",
    "flow": [
     {
      "id": "s1",
@@ -455,7 +455,7 @@
      "context": "This is the first step of the Juice Test. You cut a ripe tomato and look closely at the seeds inside.",
      "do": "1. Cut the tomato across the middle. 2. Show your child the seeds sitting in the green jelly. 3. Scoop the seeds and jelly from both halves into the bowl with a spoon.",
      "say": "Look at the seeds in the jelly. Inside a tomato it is warm and wet. Seeds sprout when they are warm and wet. So why don't these seeds sprout inside the tomato?",
-     "kid": "Look at the seeds in the jelly. It is warm and wet in there. Seeds like warm and wet. So why don't they sprout?",
+     "kid": "Look at the seeds in the jelly. It is warm and wet in there, but they have not sprouted.",
      "adult": true,
      "ask": [
       {
@@ -491,7 +491,7 @@
      "mins": 8,
      "do": "1. Fold tissue into 4 layers in each box. 2. Label one box W, for water, and the other J, for juice. 3. Box W: wet the tissue with 2 teaspoons of water. Lay the 10 washed seeds on it, a little apart. 4. Box J: wet the tissue with 2 teaspoons of tomato juice. Lay 10 seeds from the bowl on it, still in their jelly. 5. Close both lids. Put the boxes side by side in a warm place out of direct sun, such as the top of the fridge.",
      "say": "Both boxes get seeds from the same tomato, the same tissue and the same amount of liquid. Only one thing is different: Box J seeds keep their jelly and juice, and Box W seeds are washed and given water. Now guess. How many will sprout in each box, and why?",
-     "kid": "Fold the tissue in both boxes. Wet Box W with water. Wet Box J with juice. Put 10 seeds in each. Close the lids. How many will sprout? Why?",
+     "kid": "Fold the tissue in both boxes. Wet Box W with water. Wet Box J with juice. Put 10 seeds in each. Close the lids.",
      "ask": [
       {
        "q": "How many seeds do you think will sprout in Box W, and how many in Box J? Why?",
@@ -659,7 +659,7 @@
      "mins": 6,
      "do": "1. Fold fresh tissue into 4 layers in the clean box. 2. Wet it with 2 teaspoons of water. 3. Lay the washed seeds on it. 4. Close the lid and put the box in the same warm place as before.",
      "say": "Now these seeds have water and no juice, just like Box W had. What do you think will happen? Why?",
-     "kid": "Put the seeds on wet tissue. Close the lid. Will they sprout now? Why do you think so?",
+     "kid": "Put the seeds on wet tissue. Close the lid.",
      "ask": [
       {
        "q": "Will the seeds sprout now? Why?",
@@ -684,7 +684,7 @@
      "mins": 5,
      "do": "On the last day, count the sprouted seeds. Compare the number with Box W in the Juice Test.",
      "say": "What happened once the juice was gone?",
-     "kid": "Count the roots. What happened once the juice was gone?",
+     "kid": "Count the roots. Did the seeds sprout?",
      "check": {
       "t": "mcq",
       "q": "Seeds that sat in tomato juice for a week sprouted 3 days after they were washed. What does this show?",
@@ -759,14 +759,14 @@
      "what": "Count visitors in the morning and at midday. Compare. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table each time you count. Draw the two plates and the visitors.",
+   "record": "Fill in the table each time you count. Take a photo of the two plates each time, or draw them and the visitors.",
    "flow": [
     {
      "id": "s1",
      "mins": 6,
      "context": "This is the first step of Ripe or Green. You set out two pieces of banana, one ripe and one green.",
      "do": "1. Cut a piece about 3 centimetres long from each banana, peel and all. 2. Put each piece on its own plate. 3. Set the plates side by side, about a hand-width apart, on the window sill or balcony.",
-     "say": "Smell the two pieces. Which one smells stronger? Which one do you think small animals will find first, and why?",
+     "say": "Smell the two pieces. Small animals find food by its smell.",
      "kid": "Cut a piece of each banana. Put them on two plates, side by side. Smell them. Which smells stronger?",
      "ask": [
       {
@@ -865,7 +865,7 @@
      "what": "Cut the fruits open. Find the seeds. Sort them by whether an animal would swallow the seeds or drop them."
     }
    ],
-   "record": "Write each fruit in one of the two columns, with a drawing of her seeds.",
+   "record": "Write each fruit in one of the two columns. Put a few of its seeds next to its name.",
    "flow": [
     {
      "id": "s1",
@@ -900,7 +900,7 @@
      "mins": 2,
      "do": "End by asking your child why seeds don't sprout inside the fruit.",
      "say": "So the plant grows sweet fruit, and animals carry the seeds away. But why don't the seeds just sprout inside the fruit? We will test it in the Juice Test.",
-     "kid": "Plants grow sweet fruit. Animals carry the seeds away. But why don't the seeds sprout inside the fruit?",
+     "kid": "Why don't the seeds sprout inside the fruit? Tell your grown-up your guess.",
      "think": "What might be in the fruit that keeps the seeds waiting?",
      "parent": "Any guess with a reason is welcome. Write the guess down and keep it for the Juice Test, which answers this question."
     }
@@ -948,13 +948,13 @@
      "what": "Practise cup and card. Move one small creature outside, gently."
     }
    ],
-   "record": "Draw the creature you moved and where you set them free.",
+   "record": "Tell your grown-up where you set the creature free and how it moved. Draw it too, if you like.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "context": "This is the first step of Cup and Card. You practise on a paper beetle first.",
-     "do": "1. Draw and cut out a small paper beetle. 2. Put it on the floor. 3. Show your child: put the cup over it, slide the card under slowly, then lift cup and card together.",
+     "do": "1. Cut a small beetle shape from paper, or use a bottle cap. 2. Put it on the floor. 3. Show your child: put the cup over it, slide the card under slowly, then lift cup and card together.",
      "say": "This is how to catch a small creature without touching them. Put the cup over them, slide the card under, and lift both together.",
      "kid": "Put the cup over the paper beetle. Slide the card under, slowly. Lift both together.",
      "parent": "Slide the card slowly, so a real creature can step onto it rather than being squashed."
@@ -973,7 +973,7 @@
      "mins": 2,
      "do": "Talk about what the creature you moved does for other living things.",
      "say": "Spiders eat mosquitoes. Ants carry away crumbs and dead insects. What might this little creature do for the other living things around them?",
-     "kid": "Spiders eat mosquitoes. Ants clear away crumbs. What might your creature do for others?",
+     "kid": "Think of one thing your creature might do for other living things.",
      "think": "Who might need the creature you just set free?",
      "parent": "Many creatures need her. Spiders eat mosquitoes and flies. Ants clear away crumbs and dead insects. Lizards and birds eat beetles and moths. Accept any answer that says who eats the creature or what the creature does for others."
     }
@@ -1016,7 +1016,7 @@
      "what": "Draw a small kolam in the morning. Check it at midday and in the evening. Write who came."
     }
    ],
-   "record": "Draw your kolam. At midday and in the evening, draw what was left of it, and the visitors you saw.",
+   "record": "At midday and in the evening, take a photo of your kolam, or tell your grown-up what is left of it and who came.",
    "flow": [
     {
      "id": "s1",
@@ -1040,7 +1040,7 @@
      "mins": 4,
      "do": "In the evening, look again and talk about what you found.",
      "say": "Who ate from our kolam today? What did they get, and what did we get?",
-     "kid": "Look at the kolam again. Who came to eat? What is left?",
+     "kid": "Look at the kolam again. What is left of it?",
      "ask": [
       {
        "q": "Who came to the kolam, and what did they get from it?",
@@ -1070,7 +1070,7 @@
    "title": "Be a Fig Wasp: act out how a fig is pollinated",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you act out how a tiny fig wasp gets into a fig, pollinates the flowers hidden inside and leaves her young there.",
+   "context": "In this activity you act out how a tiny fig wasp gets into a fig, pollinates the flowers hidden inside and leaves her young there. You will find out why a peepal tree needs a wasp.",
    "materials": [
     {
      "item": "a bedsheet over two chairs, to make a tent: this is the fig",
@@ -1100,7 +1100,7 @@
      "what": "Make the fig tent. Act out the fig wasp's journey from one fig to another."
     }
    ],
-   "record": "Draw the fig wasp's journey as a comic strip of 4 pictures.",
+   "record": "Tell your grown-up the fig wasp's journey in 4 parts: going in, giving pollen, laying eggs, flying out. Draw it, if you like.",
    "flow": [
     {
      "id": "s1",
@@ -1154,7 +1154,7 @@
    "title": "Who Made My Breakfast? A map of helpers near and far",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you take one meal and list every plant and animal that helped make the meal, and where in India or the world each one lives.",
+   "context": "In this activity you take one meal and list every plant and animal that helped make the meal, and where in India or the world each one lives. You will find out how many living things helped make one breakfast.",
    "materials": [
     {
      "item": "one meal, such as idli, coconut chutney, sambar and filter coffee, or whatever you ate today",
@@ -1176,7 +1176,7 @@
      "what": "List every food in one meal. For each, name the plants and animals that helped, and where they live."
     }
    ],
-   "record": "Draw the meal in the middle of the page, with arrows to every helper and the place they live.",
+   "record": "Write the meal in the middle of the page. Around it, write each helper and the place they live, with a line to the meal.",
    "flow": [
     {
      "id": "s1",
@@ -1191,7 +1191,7 @@
      "mins": 6,
      "do": "1. For each plant, think of the helpers they needed: bees for flowers, worms for soil, microbes in the batter, farmers. 2. Read packets, or guess, to find where each grew.",
      "say": "Coconut palms grow in Kerala and along the coast. Coffee grows in the hills of Kodagu and Chikmagalur. Who else helped? The tiny living things in the batter made the idli rise.",
-     "kid": "Who helped each plant grow? Bees? Worms? Farmers? Where did each one grow? Draw arrows.",
+     "kid": "Who helped each plant grow? Where did each one grow? Write the place next to it.",
      "parent": "Some facts to share. Idli batter rises because the bacteria and yeasts in the batter feed and make gas overnight. Coffee flowers are visited by bees, and more beans form when bees visit. Many of our foods travel hundreds of kilometres to reach us."
     },
     {
@@ -1199,7 +1199,7 @@
      "mins": 3,
      "do": "Count the helpers.",
      "say": "How many living things helped make one breakfast? And how far away did the farthest one live?",
-     "kid": "Count your helpers. Which one lived farthest away?",
+     "kid": "Count your helpers.",
      "ask": [
       {
        "q": "Which helper lived farthest from you?",
@@ -1230,7 +1230,7 @@
    "title": "Grow a Tomato Plant and Be Her Bee",
    "mins": 79,
    "days": 70,
-   "context": "In this project you plant the seeds that sprouted in the Juice Test, grow them on a sunny balcony or window, and help the flowers turn into tomatoes.",
+   "context": "In this project you plant the seeds that sprouted in the Juice Test, grow them on a sunny balcony or window, and help the flowers turn into tomatoes. You will find out if tapping the flowers helps more tomatoes form.",
    "materials": [
     {
      "item": "3 sprouted tomato seeds from Box W of the Juice Test",
@@ -1301,7 +1301,7 @@
      "what": "Count and draw the green tomatoes on each cluster. Say what you think, what you saw and why."
     }
    ],
-   "record": "A growth diary: the date, the height of the tallest plant, the number of flowers and the number of tomatoes, with a drawing every two weeks. At the end, the tomatoes on the red (tapped) and blue (untapped) clusters.",
+   "record": "A growth diary: the date, the height of the tallest plant, the number of flowers and the number of tomatoes, with a photo or drawing every two weeks. At the end, the tomatoes on the red (tapped) and blue (untapped) clusters.",
    "flow": [
     {
      "id": "s1",
@@ -1316,9 +1316,9 @@
     {
      "id": "s2",
      "mins": 24,
-     "do": "Every two weeks (days 14, 28 and 42), measure the tallest plant with a ruler and draw her in the diary. On day 14, keep the strongest 1 or 2 seedlings and lift the others into a cup of soil. On day 28, tie the plant loosely to the stick.",
-     "say": "How tall is she now? Let's write it down and draw her.",
-     "kid": "Measure your tomato plant. Draw her. Write the height.",
+     "do": "Every two weeks (days 14, 28 and 42), measure the tallest plant with a ruler and write the height in the diary. Take a photo, or draw her, if you like. On day 14, keep the strongest 1 or 2 seedlings and lift the others into a cup of soil. On day 28, tie the plant loosely to the stick.",
+     "say": "How tall is she now? Let's measure her and write it down.",
+     "kid": "Measure your tomato plant. Write the height.",
      "wait": "Come back on days 14, 28 and 42."
     },
     {
@@ -1396,7 +1396,7 @@
     "Wrap the chana in a scrap of hook-side velcro from an old bag or shoe.",
     "Tie a short loop of thread around the chana, so it snags on wool like a fish hook."
    ],
-   "your_turn": "Now design your own riding seed. Draw it, make it, and test it on the sock 3 times. Which design rode the farthest and still came off?",
+   "your_turn": "Now design your own riding seed. Make it, and test it on the sock 3 times. Which design rode the farthest and still came off?",
    "flow": [
     {
      "id": "s1",
@@ -1411,8 +1411,8 @@
      "id": "s2",
      "mins": 15,
      "do": "Build 2 or 3 designs with the materials.",
-     "say": "Try hooks, try something sticky, try a loop. Which do you think will work best? Why?",
-     "kid": "Build 2 or 3 riding seeds. Try hooks. Try something sticky. Try a loop.",
+     "say": "Try hooks, try something sticky, try a loop.",
+     "kid": "Build 2 or 3 riding seeds from the chana and the things you have.",
      "ask": [
       {
        "q": "Which design do you think will ride best? Why?",
@@ -1446,9 +1446,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Choose the best design and draw it.",
+     "do": "Choose the best design. Keep it, or take a photo of it.",
      "say": "Which design worked best? What would you change next time?",
-     "kid": "Which seed worked best? Draw it. What would you change?"
+     "kid": "Show your grown-up your best seed."
     }
    ],
    "setup": [
@@ -1477,7 +1477,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a memory card game. You turn over cards to find pairs of partners in nature, like a bee and a flower, and say how each one helps the other.",
+   "context": "This is a memory card game. You turn over cards to find pairs of partners in nature, like a bee and a flower, and say how each one helps the other. You will find out how living things need each other.",
    "printables": [
     {
      "kind": "cards",
@@ -1648,13 +1648,13 @@
      "context": "This is the first step of Partners. You set out the cards.",
      "do": "1. Cut out the 24 cards. 2. Shuffle them. 3. Lay them face down in 4 rows of 6.",
      "say": "Every card has a partner. A partner is someone who helps you, while you help them. Let's find them all.",
-     "kid": "Mix up the cards. Lay them face down in 4 rows of 6. Every card has a partner."
+     "kid": "Mix up the cards. Lay them face down in 4 rows of 6."
     },
     {
      "id": "s2",
      "mins": 9,
      "do": "Take turns turning over 2 cards. For a pair, the player says how each one helps the other.",
-     "say": "You found the cow and the grass. How does the cow help the grass?",
+     "say": "Say you find the cow and the grass. Then you say how the cow helps the grass.",
      "kid": "Turn over 2 cards. Partners? Say how each one helps the other. Then keep them!",
      "check": {
       "t": "mcq",

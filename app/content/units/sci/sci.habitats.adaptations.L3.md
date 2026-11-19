@@ -269,8 +269,8 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   *Child mode:* Shuffle the cards. Take 5 feature cards. Each place has a problem. Can you solve it?
 - **s2 (3 min)**  
   *Parent does:* Find the CAVE place card, turn it face up and play one round with it as practice. Then shuffle it back into the place cards.  
-  *Parent says:* Practice round. Which feature would help in a cave that is always dark?  
-  *Child mode:* Practice round. A cave is always dark. Which card helps?
+  *Parent says:* Let's practise with the cave card first. Look at your cards for one that would help.  
+  *Child mode:* Practice round. Look at the cave card and at your own cards. Then answer below.
   - Check: A cave is always dark. Which feature helps most? → **Lateral line**
 - **s3 (12 min)**  
   *Parent does:* Take turns turning over place cards and playing feature cards, until all 8 places are played.  
@@ -297,8 +297,8 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   - Note: Shuffling with an egg on your feet is slow and wobbly, which is how real penguins move in a huddle. Keep it gentle, with no pushing. With only two of you, the person on the windy side steps round behind the other.
 - **s3 (2 min)**  
   *Parent does:* Stop and talk.  
-  *Parent says:* Who felt warmest in a huddle: the penguins in the middle or on the outside? Why do penguins keep moving round?  
-  *Child mode:* Who would be warmest, in the middle or outside? Why do penguins take turns?
+  *Parent says:* Who would be warmest in a huddle, the penguins in the middle or on the outside?  
+  *Child mode:* Stop and think. Where would you want to stand if you were a real penguin?
   - Check: Why do real penguins keep shuffling round in a huddle? → **So every penguin gets a turn in the warm middle**
 
 ## Experiments
@@ -307,12 +307,12 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 - **predict:** Guess first. Which towel will dry first, and which will stay wet longest? Why do you think so?
 - **fair test:** Use three towels of the same size, wet them the same way, and put them on the same kind of plate in the same place. Only the shape and the covering change. Check all three at the same times.
 - **safety:** A grown-up makes the pin holes and puts the pin away.
-- **record:** Fill in the table every 15 minutes with wet, damp or dry. At the end, draw the three towels and colour in the parts that were still wet.
+- **record:** Fill in the table every 15 minutes with wet, damp or dry. At the end, take a photo of the three towels, or draw them and colour in the parts that were still wet.
 - **results table:** Time | Flat towel (big thin leaf) | Rolled towel (fat stem) | Covered towel (waxy coat)
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the three dry towels and the three plates. 2. Explain the three shapes. 3. Ask for a guess and a reason.  
-  *Parent says:* Each towel will be a pretend leaf, holding the same water. One will be flat and open, one rolled up tight, and one covered with plastic. Which do you think will stay wet longest? Why?  
-  *Child mode:* You will make three pretend leaves. One flat. One rolled up. One covered. Which will stay wet longest? Why do you think so?
+  *Parent says:* Each towel will be a pretend leaf, holding the same water. One will be flat and open, one rolled up tight, and one covered with plastic.  
+  *Child mode:* You will make three pretend leaves. One flat, one rolled up, one covered. Make your guess before we start.
   - Ask: Which towel do you think will dry first, and why? (good: The flat one, because all of it is open to the air.; The rolled one, because it is fatter.; Any guess with a reason is good.)
   - Note: Write down your child's guess and reason before you start. Do not explain anything yet. The test will answer the question.
 - **s2 (6 min)**  
@@ -350,12 +350,12 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 - **question:** Emperor penguins huddle together in the cold. Do six ice cubes in a tight huddle melt more slowly than six cubes spread apart?
 - **predict:** Guess first. Which group will melt faster, the huddle or the spread-out cubes, or will they melt at the same speed? Why do you think so?
 - **fair test:** Use 12 ice cubes from the same tray, two plates of the same kind, and the same place in the room. Only the way the cubes are arranged changes.
-- **record:** Draw both plates at the start and after 30 minutes. Mark how high the meltwater came in each glass.
+- **record:** Take a photo of both plates at the start and after 30 minutes, or draw them. Mark how high the meltwater came in each glass.
 - **results table:** Time | Huddled cubes: what they look like | Spread-out cubes: what they look like
 - **s1 (3 min)**  
   *Parent does:* 1. Tell your child about penguins huddling. 2. Ask for a guess and a reason.  
   *Parent says:* In the Antarctic winter, emperor penguins crowd together in a huddle. We can't test penguins, but we can test ice. Will a huddle of ice melt faster, slower, or the same? Why?  
-  *Child mode:* Penguins huddle in the cold. Let's test ice cubes. Will huddled ice melt faster or slower? Why?
+  *Child mode:* Penguins huddle to keep warm. You will test ice cubes instead. Make your guess before we start.
 - **s2 (4 min)**  
   *Parent does:* 1. On plate A, push 6 cubes together into a tight block, 2 rows of 3. 2. On plate B, put 6 cubes apart, each a finger-width from the others. 3. Put both plates side by side, out of the sun.  
   *Parent says:* Plate A is the huddle. Plate B is six penguins standing alone. Both plates sit in the same place.  
@@ -380,12 +380,12 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 - **question:** Desert plants have a thick waxy coat. If we give a leaf an extra coat, does it stay fresh for longer than a leaf without one?
 - **predict:** Guess first. Will the coated leaf and the plain leaf wilt at the same speed, or will one stay fresh longer? Why do you think so?
 - **fair test:** Use two leaves of the same kind and size, picked at the same time. Put them side by side on the same plate. Only the coat changes.
-- **record:** Draw both leaves at the start and at the end. Write down when the plain leaf first went limp.
+- **record:** Take a photo of both leaves at the start and at the end, or draw them. Write down when the plain leaf first went limp.
 - **results table:** Time | Plain leaf: firm, a little limp, or floppy? | Coated leaf: firm, a little limp, or floppy?
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child two leaves. 2. Ask for a guess and a reason.  
   *Parent says:* We will give one leaf an extra waxy coat, and leave the other plain. Will one stay fresh longer? Why do you think so?  
-  *Child mode:* One leaf gets a coat. One stays plain. Which will stay fresh longer? Why?
+  *Child mode:* One leaf gets a jelly coat. One stays plain. Make your guess before we start.
 - **s2 (8 min)**  
   *Parent does:* 1. Spread a thin layer of petroleum jelly over both sides of one leaf, with a fingertip. 2. Dab some on the cut end of its stalk too. 3. Leave the other leaf plain.  
   *Parent says:* The jelly is our pretend waxy coat, like the thick coat on a cactus. Spread it gently, so the leaf doesn't tear.  
@@ -424,8 +424,8 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   - Note: Move the spoon about 5 centimetres from the hand first, then about 15, then about 30. Wait a few seconds between tries, and sometimes wait without moving the spoon, so your child cannot just guess. Most children feel the push of the water at 5 centimetres, and some can tell which side it came from.
 - **s3 (3 min)**  
   *Parent does:* Take off the blindfold and talk about what happened.  
-  *Parent says:* A cave fish has no eyes. How do you think they swim round rocks and find food in the dark?  
-  *Child mode:* A cave fish has no eyes. How do they find food in the dark?
+  *Parent says:* Tell me what your hand felt, even with your eyes closed. A cave fish has no eyes, but they have a lateral line.  
+  *Child mode:* Take off the blindfold. Tell your grown-up what your hand felt.
   - Check: How does a blind cave fish find their way in the dark? → **They have a row of sensors along their sides that feel the water moving**
 ### a2 · Whisker Walk: find your way without your eyes (10 min)
 - **problem:** Cats, rats and seals have long whiskers that touch things before their faces do. In this activity you cross a room with your eyes closed, first with only your hands, and then with a long paper whisker. You find out how a whisker helps an animal find their way in the dark.
@@ -442,14 +442,14 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   - Note: Keep a hand near your child's shoulder. Stop them before they reach a wall or a door.
 - **s3 (3 min)**  
   *Parent does:* Take off the blindfold and talk about it.  
-  *Parent says:* Which way was easier? Why do you think a cat's whiskers are about as wide as their body?  
-  *Child mode:* Which way was easier? Why do cats have long whiskers?
+  *Parent says:* Which way was easier, hands only or the paper whisker?  
+  *Child mode:* Take off the blindfold. Think about which way found the cushions first.
   - Ask: Why are a cat's whiskers about as wide as their body? (good: So they can tell if a gap is wide enough to get through.; So they feel things before they bump into them.)
   - Note: Blind people who use a long white cane find their way in a similar way. The cane touches things well ahead of the feet.
 ### a3 · The Webbed Hand: paddle like a duck (10 min)
 - **problem:** A duck's foot has skin stretched between the toes. In this activity a plastic bag over your hand works like that skin. You feel how much more water a webbed foot can push than spread toes can.
 - **safety:** Plastic bags go only on hands, never near the face or head. A grown-up puts the bag away afterwards.
-- **record:** Write which push felt stronger, and draw a duck's foot.
+- **record:** Say or write which push felt stronger. Then find a picture of a duck's or frog's foot, and point to the skin between the toes.
 - **s1 (3 min)**  
   *Parent does:* 1. Ask your child to put one hand in the water with fingers spread wide apart. 2. Sweep it through the water from one side to the other. 3. Notice how hard it is to push.  
   *Parent says:* Sweep your spread fingers through the water. Does the water push back much?  
@@ -457,7 +457,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Put the plastic bag over the same hand like a loose glove, fingers still spread. 2. Sweep it through the water the same way.  
   *Parent says:* Now the bag fills the gaps between your fingers, like the skin on a duck's foot. How does the push feel now?  
-  *Child mode:* Put the bag on your hand like a glove. Spread your fingers. Sweep again. Is it harder?
+  *Child mode:* Put the bag on your hand like a glove. Spread your fingers. Sweep again.
   - Check: Why is it harder to sweep the bag-covered hand through the water? → **The bag fills the gaps between the fingers, so the hand pushes more water**
 - **s3 (3 min)**  
   *Parent does:* Ask your child to sweep the bagged hand forward with the fingers closed together, then back with them spread.  
@@ -468,7 +468,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 ### a4 · Shining Eyes: why a cat's eyes glow in the dark (15 min)
 - **problem:** A cat's eyes seem to glow when a light shines on them at night, but they do not make any light. In this activity you make two model eyes from cups, and find out why one of them shines in a torch beam.
 - **safety:** A grown-up pokes the holes with the pencil. Never shine a torch straight into anyone's eyes, or an animal's.
-- **record:** Draw both model eyes and colour the one that shone.
+- **record:** Take a photo of the cup that shone, or draw both cups and colour the one that shone.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Put foil, shiny side up, in the bottom of one cup. 2. Put black paper in the bottom of the other. 3. Cover each cup's top with black paper and poke a pencil hole in the middle.  
   *Parent says:* These cups are model eyes. The hole is the pupil, where light goes in. One has a shiny layer at the back, like a cat's eye. The other is dark at the back, like yours.  
@@ -483,7 +483,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 - **s3 (4 min)**  
   *Parent does:* Talk about where you might see eyeshine.  
   *Parent says:* At night, watch street cats and dogs in a car's headlights. Do their eyes shine? Do people's eyes shine like that?  
-  *Child mode:* Look out for shining eyes at night, from a safe place. Do people's eyes shine?
+  *Child mode:* Look out for shining eyes at night, from a safe place.
   - Note: People's eyes do not have this shiny layer. The red eyes in some flash photos come from light bouncing off the blood-rich back of the eye, which is different.
 ### a5 · Leaf Coats in the Kitchen (10 min)
 - **problem:** Many leaves have a thin waxy coat that water cannot stick to. The coat slows down the water escaping from the leaf. In this activity you drip water on leaves from your kitchen, to find which ones have the thickest waxy coat.
@@ -494,32 +494,32 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   *Child mode:* Drip water on each leaf. Do the drops stay round, or spread out flat?
 - **s2 (5 min)**  
   *Parent does:* 1. Ask your child to rub each leaf gently between finger and thumb. 2. Sort the leaves into thick and waxy, and thin and soft.  
-  *Parent says:* Which leaves feel smooth and waxy? Which are thin and soft? Which do you think would last longest in the desert?  
-  *Child mode:* Rub each leaf gently. Smooth and waxy, or thin and soft? Which would last in a desert?
+  *Parent says:* Which leaves feel smooth and waxy? Which are thin and soft?  
+  *Child mode:* Rub each leaf gently. Make two piles. Smooth and waxy in one, thin and soft in the other.
   - Ask: Which leaf would last longest in the desert, and why? (good: The aloe, because the leaves are thick and store water.; The cabbage, because its drops beaded up, so it has a waxy coat.)
   - Note: Cabbage leaves show the waxy coat best: drops roll into shiny beads. Coriander and spinach leaves are thin and wilt quickly. Aloe vera is thick, juicy and waxy, a real succulent from dry places.
 ### a6 · Design an Animal for a Place (20 min)
 - **problem:** Every place has problems for a living thing, such as heat, cold or darkness. A feature that solves one of these problems is called an adaptation. In this activity you pick a place, then draw a made-up animal or plant whose features solve the problems of that place.
-- **record:** Your labelled drawing, with each feature's problem written beside it.
+- **record:** Your labelled drawing or model, or a photo of it, with each feature's problem written beside it.
 - **s1 (3 min)**  
   *Parent does:* Read out the five places and let your child pick one. The places are the Thar Desert at noon, a Ladakh winter night, a mangrove, a cave and a pond.  
   *Parent says:* Pick a place. What problems would a living thing have there? Let's list them first.  
-  *Child mode:* Pick a place: desert, snowy mountain, mangrove, cave or pond. What problems would you have there?
+  *Child mode:* Pick a place: desert, snowy mountain, mangrove, cave or pond.
 - **s2 (14 min)**  
-  *Parent does:* 1. Ask your child to write down three problems of that place. 2. Then draw an animal or plant with one feature for each problem. 3. Label each feature with its problem.  
+  *Parent does:* 1. Ask your child to say three problems of that place, and write them down. 2. Then ask them to draw, or build from clay or scrap paper, an animal or plant with one feature for each problem. 3. Label each feature with its problem.  
   *Parent says:* Start with the problem, then the feature. For the desert: little water, so what could your animal have?  
-  *Child mode:* Write three problems of your place. Draw a creature with a feature for each. Label them.
+  *Child mode:* Say three problems of your place. Then make a creature with a feature for each. Draw it, or build it from clay or paper. Label each feature.
   - Note: Good drawings name the problem first: 'It is very cold, so they have thick fur and a short tail.' Any made-up feature is fine if your child can say how it helps. Then ask what problem the feature might cause. For example, thick fur would be too hot in summer.
 - **s3 (3 min)**  
   *Parent does:* Ask your child to show the drawing and explain one feature.  
   *Parent says:* Tell me about one feature. What problem does that feature solve? Is there a real animal with a similar feature?  
-  *Child mode:* Show your creature. Explain one feature. Does a real animal have a similar feature?
+  *Child mode:* Show your creature and explain one feature.
 
 ## Projects
 ### p1 · My Adaptation Notebook: ten living things near home (60 min, 3 days)
 - **problem:** Every living thing near you has features that help them live where they live. In this project, over three days, you find ten living things near your home. For each one you write down the problem they face and the feature that helps them.
 - **safety:** Watch birds and animals from a window or balcony. Never touch or feed street animals.
-- **record:** One page for each living thing: their name, a drawing, their problem, their feature, and how the feature helps.
+- **record:** One page for each living thing: their name, their problem, their feature, and how the feature helps. Add a drawing or a photo if you like.
 - **schedule:** day 1: From a window or balcony, find four living things, such as a crow, a pigeon, a potted plant and ants. Write one feature of each and the problem it solves. (20 min); day 2: In the kitchen or at the shop, find three more, such as a fish, a lotus stem or a cabbage. Write one feature of each. (20 min); day 3: Add three living things from books or this unit, from hot, cold, water and dark places. Make a page for each and share your notebook. (20 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Sit at a window or on a balcony for 10 minutes. 2. Ask your child to find four living things. 3. For each, write one feature and the problem it solves.  
@@ -540,7 +540,7 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
 ## Challenges
 ### c1 · The Best Desert Leaf (40 min)
 - **problem:** Design a paper leaf that keeps its water longer than a plain flat one. But a real leaf needs air and light to make food, so at least half of your leaf must stay open to the air.
-- **your turn:** Now invent your own desert leaf. Draw it, build it and test it. How much longer than the plain one did it stay wet?
+- **your turn:** Now invent your own desert leaf. Plan it, build it and test it. How much longer than the plain one did it stay wet?
 - **constraints:** Use one wet paper towel, the same size as a plain one.; At least half of the towel must be open to the air, not covered or rolled inside.; Test it beside a plain flat wet towel, under the fan. Every 15 minutes, press a dry tissue on each towel to see whether it is still wet.
 - **general:** Fold the towel in half, so only half is open.; Cover half of it with plastic, like a waxy coat.; Roll it loosely, leaving half the outside showing.
 - **creative:** Make a pleated fan, like a folded paper fan, so the folds shade each other.; Give it a 'hairy coat' of shredded tissue that traps still air, like the hairy leaves of some desert plants.; Make holes only on the shady underside, as many real leaves do.
@@ -549,13 +549,13 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   *Parent says:* A leaf that is completely covered would keep its water, but it couldn't take in air to make food. So half must stay open. How can you still save water?  
   *Child mode:* Your leaf must keep water. But half of it must stay open to the air. How?
 - **s2 (8 min)**  
-  *Parent does:* Draw three ideas before building.  
-  *Parent says:* Engineers draw before they build. Let's draw three different leaves.  
-  *Child mode:* Draw three ideas for your desert leaf.
+  *Parent does:* Plan three ideas before building. Draw them, say them out loud, or lay out the pieces.  
+  *Parent says:* Engineers plan before they build. Let's think of three different leaves.  
+  *Child mode:* Plan three ideas for your desert leaf. Draw them or say them out loud.
 - **s3 (27 min)**  
   *Parent does:* 1. Build your best idea with a wet towel. 2. Put it beside a plain flat wet towel under the fan. 3. Every 15 minutes, press a dry tissue on each towel. A wet patch on the tissue means the towel is still wet.  
   *Parent says:* Which stays wet longer, yours or the plain one?  
-  *Child mode:* Build your best idea. Put it beside a plain wet towel. Test them every 15 minutes.
+  *Child mode:* Build your best idea. Put it beside a plain wet towel. Every 15 minutes, press a dry tissue on each.
   - Note: Folding or pleating usually helps a lot, because folds hide part of the surface and shade each other.
 - **s4 (5 min)**  
   *Parent does:* Read the usual and creative solutions together, then invent one more.  
@@ -565,14 +565,14 @@ That night, Kavya wrote in her notebook in big letters. Water leaves through the
   - Think: Rice leaves roll up only at midday and open again in the evening. Why is that better than staying rolled all the time?
 ### c2 · Float Like a Water Hyacinth (30 min)
 - **problem:** A water hyacinth floats because their leaf stalks are full of air. Build a floating raft, from home materials, that holds up 10 coins without sinking.
-- **your turn:** Now design your own floating plant. Draw it, build it, and test it with 10 coins. How many more coins can it hold?
+- **your turn:** Now design your own floating plant. Plan it, build it, and test it with 10 coins. How many more coins can it hold?
 - **constraints:** Use only drinking straws, aluminium foil, tape and a bottle cap.; It must float in a bucket for 2 minutes with 10 one-rupee coins on it.; Do not use plastic bottles or boxes. They make it too easy.
 - **general:** Tape straws side by side into a raft, with their ends sealed with tape so air stays inside.; Fold foil into a shallow boat with high sides.; Tape a bottle cap upside down under a foil sheet, to trap a pocket of air.
 - **creative:** Make swollen 'stalks' from foil wrapped loosely round air, like the spongy stalks of a water hyacinth.; Copy a lotus stem: bundle many sealed straws together, like its air channels.; Spread the coins out across the whole raft, so it does not tip.
 - **s1 (5 min)**  
   *Parent does:* Read the problem. Think of a water hyacinth, the floating weed of Indian ponds and lakes, or look at a cut lotus stem.  
   *Parent says:* Water plants have air inside them, which helps them float near the light. How could we trap air in a raft?  
-  *Child mode:* Water plants float on air trapped inside them. How could you trap air in a raft?
+  *Child mode:* Water plants float on air trapped inside them. Think of a way to make a raft do the same.
 - **s2 (20 min)**  
   *Parent does:* 1. Build a raft. 2. Float it in the bucket. 3. Add coins one at a time. 4. If it sinks, improve it and try again.  
   *Parent says:* Add the coins one at a time. Where does the water get in?  

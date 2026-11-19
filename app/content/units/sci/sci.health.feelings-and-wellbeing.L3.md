@@ -206,15 +206,15 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Parent says:* In this game you act a feeling without words. Then we guess the feeling and think of something kind to do.  
   *Child mode:* Act a feeling with no words. The others guess. Then think of a kind thing to do.
 - **s2 (12 min)**  
-  *Parent does:* Play 12 cards, taking turns. Keep score.  
+  *Parent does:* Play 12 cards, taking turns. After each guess, the actor reads the card aloud and everyone says one kind thing to do. Keep score.  
   *Parent says:* Your turn. Read the card in your head, then show us the feeling.  
   *Child mode:* Read your card quietly. Show the feeling with your face and body. No words!
   - Note: When a guess is different from what the actor meant, ask both: 'Why did you think that?' Often both are fair. A wide-eyed face could be scared or surprised.
 - **s3 (3 min)**  
   *Parent does:* Pick one card where the guess was wrong and talk about it.  
-  *Parent says:* Which card was hardest to guess? What could the guesser have done to be sure?  
-  *Child mode:* Which card was hardest? How could you find out for sure what someone feels?
-  - Check: In the game, your friend acts 'Someone laughs at your lunch'. You guess 'angry', but your friend meant 'embarrassed'. In real life, what should you do to be sure? → **Ask your friend how they feel**
+  *Parent says:* Which card was hardest to guess? Why was it hard?  
+  *Child mode:* Which card was hardest to guess? Why do you think it was hard?
+  - Check: You guessed your friend was angry, but your friend meant embarrassed. How can you be sure what a friend feels? → **Ask your friend how they feel**
 - **s4 (2 min)**  
   *Parent does:* Add up the points.  
   *Parent says:* Let's count the points. Who had the most kind ideas?  
@@ -230,18 +230,18 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - **s1 (5 min)**  
   *Parent does:* 1. Write the six feelings on six cards: happy, sad, angry, scared, surprised, disgusted. 2. Draw the results table in the notebook. 3. Decide who is the face maker. A grown-up is best for the first go.  
   *Parent says:* We are going to test how well we really read faces. First, let's make six feeling cards and a table to write the results in.  
-  *Child mode:* Write six feelings on six cards. Happy, sad, angry, scared, surprised, disgusted. Draw a table in your notebook.
+  *Child mode:* Write one feeling on each card. Then help make the table for your results.
   - Note: The face maker should be someone who is happy to pull faces. Before you start, make sure your child knows all six words. Disgusted means the feeling when you smell something rotten.
 - **s2 (3 min)**  
   *Parent does:* Ask your child for a guess and a reason before you begin.  
   *Parent says:* Before we test anything, guess. Which feeling will be easiest to read? Which will be hardest? Will the eyes or the mouth tell you more? Why do you think so?  
-  *Child mode:* Guess first. Which feeling will be easiest? Which will be hardest? Why do you think so?
+  *Child mode:* Guess first. Which feeling will be hardest? Will the eyes or the mouth help more?
   - Ask: Which do you think will be easiest, and why? (good: Happy, because a smile is easy to see.; Angry, because the eyebrows go down.)
   - Note: Write the guess at the top of the table. Don't say whether you agree.
 - **s3 (6 min)**  
   *Parent does:* Round 1, whole face. 1. Shuffle the cards in a bowl. 2. The face maker takes one without showing it. 3. They make that face for a count of three, with no sound. 4. The guesser names the feeling. 5. Write a tick or a cross. Do all six cards.  
   *Parent says:* Round one. You will see my whole face. I will make a face for a count of three. Then you tell me the feeling.  
-  *Child mode:* Round one. Watch the whole face. Count to three. Say the feeling you see.
+  *Child mode:* Round one. Watch the whole face, then say the feeling you see.
   - Note: Don't tell your child whether they were right until the round ends. Then show each card. When a guess is wrong, write down what they guessed, for example 'said surprised, was scared'.
 - **s4 (5 min)**  
   *Parent does:* Round 2, eyes only. 1. Shuffle again. 2. The face maker holds the notebook across their nose and mouth, so only the eyes and eyebrows show. 3. Make each face again for a count of three. 4. Write the results in the 'eyes only' column.  
@@ -275,7 +275,7 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - **s1 (3 min)**  
   *Parent does:* Ask for a guess and a reason. Sit facing each other. A third person can count, or the watcher counts their own yawns.  
   *Parent says:* Let's test whether yawns are catching. First, guess. Will you yawn more when I smile, or when I yawn? Why do you think so?  
-  *Child mode:* Guess first. Will you yawn more when I smile, or when I yawn? Why?
+  *Child mode:* Make your guess, and say why you think so.
 - **s2 (4 min)**  
   *Parent does:* Round 1. Set a timer for 3 minutes. The face maker looks at the watcher and smiles or blinks now and then, about every 20 seconds. The watcher counts their own yawns.  
   *Parent says:* Round one. For three minutes I will just smile and blink. Watch my face. Count any yawns you do.  
@@ -301,20 +301,20 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 
 ## Activities
 ### a1 · How Many Feelings Can You Name? (10 min)
-- **record:** Keep the page of feeling faces. You will add to it during the unit.
+- **record:** Keep the page of feeling words. You will add to it during the unit.
 - **s1 (4 min)**  
   *Parent does:* Set a timer for 3 minutes. Your child names as many feelings as they can. You write them down.  
   *Parent says:* How many feelings can you name in three minutes? Happy is one. Go!  
   *Child mode:* How many feelings can you name in 3 minutes? Say them fast!
   - Note: After happy, sad and angry, children often slow down. Help with a situation: 'How do you feel the night before your birthday?' (excited). Good ones to reach: proud, shy, jealous, lonely, nervous, calm, bored, grateful, embarrassed.
 - **s2 (4 min)**  
-  *Parent does:* Your child draws a small face for each of 6 feelings from the list.  
-  *Parent says:* Pick six feelings and draw a face for each one. What do the eyebrows do? What does the mouth do?  
-  *Child mode:* Draw a face for six feelings. Think first: what do the eyebrows and mouth do?
+  *Parent does:* Your child picks 6 feelings from the list and acts each one with their face. You guess each one.  
+  *Parent says:* Pick six feelings and show each one with your face. I will guess. What do your eyebrows do? What does your mouth do?  
+  *Child mode:* Show six feelings with your face. Can your grown-up guess each one?
 - **s3 (2 min)**  
   *Parent does:* Circle the feelings that feel nice in one colour and the ones that feel hard in another.  
   *Parent says:* Which feelings feel nice, and which feel hard? Is a hard feeling a bad feeling, or could it be useful?  
-  *Child mode:* Circle the nice feelings in one colour. Circle the hard ones in another. Can a hard feeling help you?
+  *Child mode:* Circle the nice feelings in one colour. Circle the hard ones in another.
   - Ask: How could fear be useful? (good: It keeps you away from danger, like a busy road.; It makes you careful.)
   - Note: Every feeling has a job. Fear keeps us safe, anger tells us something is unfair, sadness tells others we need comfort. The feeling is never wrong. What we do with it can be kind or unkind.
 ### a2 · Real Smile or Polite Smile? (12 min)
@@ -338,21 +338,21 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - **problem:** A feeling is not only in your head. Your body changes too. You will remember four feelings and colour in where in your body you felt each one. Then you will compare your maps with someone else's.
 - **record:** Keep the four body maps. Compare them with a family member's.
 - **s1 (3 min)**  
-  *Parent does:* Draw four body outlines. Write angry, scared, happy and sad at the top.  
+  *Parent does:* Draw four body outlines, or let your child help. Write angry, scared, happy and sad at the top.  
   *Parent says:* Let's find out where in your body you feel things. Close your eyes and remember a time you felt really angry.  
   *Child mode:* Close your eyes. Remember a time you felt angry. Where did you feel it?
 - **s2 (8 min)**  
   *Parent does:* For each feeling, your child colours red where it felt strong or hot, and blue where it felt weak or cold.  
-  *Parent says:* Colour red where the feeling was strong. Colour blue where it felt weak or empty. Now do scared, happy and sad.  
-  *Child mode:* Colour red where the feeling was strong. Blue where it felt weak. Do all four.
+  *Parent says:* Colour red where the feeling was strong or hot. Colour blue where it felt weak or cold. Now do scared, happy and sad.  
+  *Child mode:* Colour the places you feel it. You can also point to them and tell your grown-up. Do all four.
   - Note: There is no right answer. Many people colour the chest and fists for anger, the chest for fear, the whole body for happiness, and the arms and legs blue for sadness.
 - **s3 (4 min)**  
   *Parent does:* Compare with a family member's maps, then tell your child about the real study.  
   *Parent says:* In 2014, scientists in Finland asked about 700 people from Finland, Sweden and Taiwan to colour maps just like these. The maps for each feeling were quite alike. How alike are ours?  
-  *Child mode:* Compare your maps with someone else's. Are they alike? Scientists found people's maps were quite alike.
+  *Child mode:* Compare your maps with someone else's. Are they alike?
   - Ask: Why might so many people feel anger in their chest and arms? (good: Because the heart beats faster.; Because the body gets ready to push or fight.)
 ### a4 · Navarasa: nine feelings in Indian dance (15 min)
-- **record:** Draw your best rasa face and write its name.
+- **record:** Write the name of your best rasa. Ask someone to take a photo of you acting it.
 - **s1 (4 min)**  
   *Parent does:* Read out the nine rasas: shringara (love), hasya (laughter), karuna (sorrow), raudra (anger), veera (courage), bhayanaka (fear), bibhatsa (disgust), adbhuta (wonder) and shanta (peace).  
   *Parent says:* Dancers in India have studied feelings for about two thousand years. Bharatanatyam and Kathakali dancers learn nine feelings called the navarasa. Let's read them.  
@@ -365,7 +365,7 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - **s3 (5 min)**  
   *Parent does:* Your child picks a slip in secret and acts the rasa. Everyone else guesses (with two people, the parent guesses).  
   *Parent says:* Pick one in secret and show it. We will guess. Did the hands help?  
-  *Child mode:* Pick a secret rasa. Act it. Can the others guess? Did your hands help?
+  *Child mode:* Pick a secret rasa. Act it. Can the others guess?
   - Ask: Was it easier to guess with the hands as well as the face? (good: Yes, the hands give more clues.; Yes, like trembling hands for fear.)
 ### a5 · Stop, Name, Choose: what to do with a big feeling (10 min)
 - **problem:** When a feeling gets very big, it is hard to think clearly. Scientists have found that putting a feeling into words often makes it smaller. You will practise three steps: stop, name the feeling, and choose what to do.
@@ -389,15 +389,15 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - **s1 (5 min)**  
   *Parent does:* Trace a circle round a steel plate. Mark midnight at the top and noon at the bottom. Mark 6 in the morning on the right and 6 in the evening on the left. Each quarter is 6 hours. Draw lines to split each quarter into 6 equal slices, one for each hour.  
   *Parent says:* Let's draw your whole day as a circle. Each slice is one hour.  
-  *Child mode:* Trace a plate. Mark midnight at the top and noon at the bottom. Draw lines to make 24 slices. One slice is one hour.
+  *Child mode:* Help make the circle. One slice is one hour of the day.
 - **s2 (6 min)**  
-  *Parent does:* Colour the hours: blue for sleep, yellow for school, green for active play, orange for meals, grey for screens.  
-  *Parent says:* Colour each hour of a normal day. How many blue slices of sleep do you get?  
-  *Child mode:* Colour your day. Blue for sleep. Green for play. Count the blue slices.
+  *Parent does:* Colour the hours: blue for sleep, yellow for school, green for active play, orange for meals, grey for screens. Or your child tells you each hour and you colour it.  
+  *Parent says:* Tell me about a normal day, hour by hour. We will colour each hour. How many blue slices of sleep do you get?  
+  *Child mode:* Colour your day, or tell your grown-up what you do in each hour. Count the blue slices.
 - **s3 (4 min)**  
   *Parent does:* Count the sleep and play hours. Compare with what children need.  
   *Parent says:* Children aged 6 to 12 need about 9 to 12 hours of sleep and about an hour of active play every day. How does your circle look?  
-  *Child mode:* You need 9 to 12 hours of sleep and one hour of active play. Do you get them?
+  *Child mode:* Count your blue slices and your green slices. Do you get enough?
   - Check: A child aged 8 sleeps from 10 at night to 6 in the morning. Is that enough? → **No, that is 8 hours, but a child of 8 needs about 9 to 12**
 
 ## Projects
@@ -407,9 +407,9 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
 - **record:** A table with the day, the kind act, who it was for, and your feeling from 1 to 5 before and after.
 - **schedule:** day 1: Make the kindness table. Rate how you feel from 1 to 5. Plan one small kind act. (10 min); day 2: Do one kind act. Write it down. Rate how you feel before and after. (5 min); day 3: Do a kind act for someone new. Write it down, and rate how you feel before and after. (5 min); day 4: Do a kind act that nobody will know was you. Write it down, and rate how you feel before and after. (5 min); day 5: Do a kind act for a neighbour, the building watchman or someone who works for your family. Write it down, and rate how you feel before and after. (5 min); day 6: Do a kind act for yourself: rest, play or a talk with a friend. Write it down, and rate how you feel before and after. (5 min); day 7: Look back at the week. Did the ratings change after kind acts? What surprised you? (10 min)
 - **s1 (10 min)**  
-  *Parent does:* Make the table together. Explain the 1 to 5 scale, with a face drawn for each number. Plan one small kind act for tomorrow.  
+  *Parent does:* Make the table together. Explain the 1 to 5 scale: 1 is very sad, 5 is very happy. Plan one small kind act for tomorrow.  
   *Parent says:* Scientists found that being kind often makes the giver happier. Let's test it for a week. Each day you rate how you feel from 1 to 5: 1 is very sad and 5 is very happy.  
-  *Child mode:* Draw your table. Draw five faces from sad to happy. This week you test kindness.
+  *Child mode:* Make your table with your grown-up. This week you test kindness.
 - **s2 (25 min)**  
   *Parent does:* Each day, do one kind act, then fill in the row. Day 2: any kind act. Day 3: for someone new. Day 4: a kind act nobody will know was you. Day 5: for a neighbour, the watchman or someone who works for your family. Day 6: for yourself.  
   *Parent says:* What kind thing did you do today? How did you feel before, and how do you feel now?  
@@ -433,9 +433,9 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Parent says:* When you feel very upset, what helps you calm down? Quiet? Something soft? Being alone, or with someone?  
   *Child mode:* What helps you calm down? Something soft? Somewhere quiet? Think about it.
 - **s2 (10 min)**  
-  *Parent does:* Draw two or three designs.  
-  *Parent says:* Let's draw some ideas first. Remember it must fit in the space of one bedsheet.  
-  *Child mode:* Draw two or three ideas. Each one must fit in a space no bigger than a bedsheet.
+  *Parent does:* Your child plans two or three designs. They can draw them, or tell you and point to where things would go.  
+  *Parent says:* Let's plan some ideas first. Remember it must fit in the space of one bedsheet.  
+  *Child mode:* Draw two or three ideas, or tell your grown-up. Each one must fit in a space no bigger than a bedsheet.
 - **s3 (15 min)**  
   *Parent does:* Build the best design and try it out together.  
   *Parent says:* Build it. Sit in it for two minutes and breathe slowly. Does it help?  
@@ -453,14 +453,14 @@ That night, Nila wrote in her notebook: 'A face detective looks for clues. A goo
   *Parent says:* How could you tell Mrs. Bose that you are happy to see her, or ask if she is all right, without words?  
   *Child mode:* How can you share feelings with no shared words? Think of ideas.
 - **s2 (12 min)**  
-  *Parent does:* Design and make the signal.  
-  *Parent says:* Let's make it. Remember, faces can be mixed up, so make each picture very clear.  
-  *Child mode:* Make your signal. Make each picture very clear.
+  *Parent does:* Design and make the signal for three or four feelings. Each can be a picture, an object or a hand sign.  
+  *Parent says:* Let's make it. Faces can be mixed up. Which feelings will you show, and how?  
+  *Child mode:* Make your signal. Use a picture, an object or a hand sign for each feeling.
 - **s3 (8 min)**  
   *Parent does:* Test it with family members without speaking.  
-  *Parent says:* Show it to someone at home without speaking. Did they understand every picture?  
-  *Child mode:* Test it without words. Did your family understand each picture?
-  - Ask: Which picture was hardest to understand, and how could you make it clearer? (good: The tired one, so add a bed.; Add a colour as well as a face.)
+  *Parent says:* Show it to someone at home without speaking. Did they understand every signal?  
+  *Child mode:* Test it without words. Did your family understand each signal?
+  - Ask: Which signal was hardest to understand, and how could you make it clearer? (good: The tired one, so add a bed.; Add a colour as well as a face.)
 
 ## Worksheets
 ### Face Detective (core) (core, 15 questions)

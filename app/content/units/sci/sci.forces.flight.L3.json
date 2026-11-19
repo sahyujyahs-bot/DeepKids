@@ -805,8 +805,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Find the card 'Paper plane'. Play it together as a practice round. Then shuffle it back into the pile.",
-     "say": "Let's practise with a paper plane. Does it flap? Does it have an engine? Which mat does it go on?",
-     "kid": "Practice card: a paper plane. Does it flap? Does it have an engine? Which mat does it go on? Then shuffle it back into the pile.",
+     "say": "Let's practise with a paper plane. Does it flap? Does it have an engine?",
+     "kid": "Practice with the paper plane card. Think about how it flies after it leaves your hand. Then shuffle it back into the pile.",
      "check": {
       "t": "mcq",
       "q": "Which mat does a paper plane go on, after it leaves your hand?",
@@ -840,8 +840,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Look at the ENGINES AND OTHER TRICKS mat together. Ask which of these things could still fly in space.",
-     "say": "Which of these could still fly in space, where there is no air at all?",
-     "kid": "Look at the engines mat. Which one could still fly in space, with no air?",
+     "say": "Some of these things need air to work. Some do not.",
+     "kid": "Look at the engines mat. Think about which ones need air.",
      "check": {
       "t": "mcq",
       "q": "Which of these could still fly in space, where there is no air?",
@@ -860,7 +860,7 @@
      "mins": 2,
      "do": "Count the tokens to find the winner. Then count how many cards landed on each mat.",
      "say": "Which mat has the most cards? Which way of flying do you think is the hardest work?",
-     "kid": "Count your feathers. Who won? Which mat has the most cards? Which way of flying looks like the hardest work?"
+     "kid": "Count your feathers. Who won? Then count the cards on each mat."
     }
    ],
    "context": "This is a card game about the different ways things fly. Players sort 24 flyers, from sparrows to seeds to a helicopter on Mars, by the trick each one uses to stay up.",
@@ -944,7 +944,7 @@
      "mins": 12,
      "do": "1. Take turns. Each pilot draws a challenge card, does it, then throws. 2. Score the landing. 3. Write it in the pilot log. 4. Undo the change and put the card at the bottom of the pile.",
      "say": "What did that card do to your plane? Did it climb, dive or glide?",
-     "kid": "Pick a card. Do what it says. Throw your plane. Did it climb, dive or glide? Write your points.",
+     "kid": "Pick a card. Do what it says. Throw your plane. Write your points.",
      "ask": [
       {
        "q": "What did the paper clip on the nose do?",
@@ -969,7 +969,7 @@
      "mins": 4,
      "do": "Ask each pilot which change helped most. Try that change again to check.",
      "say": "Which change helped most? Let's try it once more, to check it wasn't luck.",
-     "kid": "Which change helped your plane most? Try it again. Was it luck, or does it work every time?",
+     "kid": "Pick the change that helped your plane most. Try it again.",
      "check": {
       "t": "mcq",
       "q": "A paper plane swoops up, stops and drops. What is the best fix?",
@@ -1056,7 +1056,7 @@
      "what": "Guess which will fly furthest. Throw the plane 3 times each with no clip, 1 clip and 3 clips. Measure each throw, then draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart, with one bar each for no clip, 1 clip and 3 clips. Make each bar as tall as its middle distance.",
+   "record": "Fill in the table. Then make a bar chart, with one bar each for no clip, 1 clip and 3 clips. Draw each bar, or lay a string as long as each middle distance.",
    "setup": [
     {
      "art": "A child folding an A4 sheet into a dart-shaped paper plane on a table.",
@@ -1085,7 +1085,7 @@
      "mins": 5,
      "do": "1. Help your child fold one dart plane. 2. Stick a strip of tape on the floor as the throwing line. 3. Ask your child to guess which version will fly furthest.",
      "say": "We'll test one plane three ways. No clips, one clip and three clips on its nose. Which do you think will fly furthest?",
-     "kid": "Fold one paper plane. Mark a line on the floor. Guess. Will no clip, 1 clip or 3 clips fly furthest?",
+     "kid": "Fold one paper plane. Mark a line on the floor. Then guess which will fly furthest.",
      "ask": [
       {
        "q": "Why did you guess that?",
@@ -1150,9 +1150,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Help your child draw a bar chart of the middle values, with one bar each for no clip, 1 clip and 3 clips.",
+     "do": "Help your child make a bar chart of the middle values. Use one bar each for no clip, 1 clip and 3 clips.",
      "say": "No clip, 1 clip and 3 clips each get one bar. The taller the bar, the further the plane flew.",
-     "kid": "Draw one bar each for no clip, 1 clip and 3 clips. Make each bar as tall as its middle number. Taller means further.",
+     "kid": "Make one bar each for no clip, 1 clip and 3 clips. Draw them, or cut a strip of string as long as each middle distance. A longer bar means further.",
      "how": "e1",
      "chart": {
       "type": "bar",
@@ -1199,7 +1199,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. Your results may be different, and that is fine. One clip does not always help, and an honest 'it made no difference' is a real result. A good answer sounds like this, with made-up numbers. What I think: one clip on the nose helps the plane fly furthest. What I saw: with no clip it swooped up and dropped at about 4 metres. With 1 clip it glided to 6 metres. With 3 clips it dived down at 3 metres. Why: the clip moves the balance point forward, so the plane flies steadily. Too much weight makes it dive."
     }
    ],
-   "context": "In this experiment you throw the same paper plane with no clip, one clip and three clips on its nose. You measure how far it flies each time.",
+   "context": "In this experiment you will find out whether a little weight on the nose helps a paper plane fly further. You throw the same plane with no clip, one clip and three clips, and measure each throw.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how far each plane flew (middle of 3 throws)",
@@ -1281,7 +1281,7 @@
      "what": "Make 3 spinners with short, middle and long wings. Drop each 3 times from 2 metres and time it."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart of the middle times, one bar for each spinner.",
+   "record": "Fill in the table. Then make a bar chart of the middle times, one bar for each spinner. Draw it, or stack coins.",
    "setup": [
     {
      "art": "A paper strip with a line cut down the middle from the top, two flaps marked, and the bottom folded up with a paper clip.",
@@ -1337,7 +1337,7 @@
      "mins": 5,
      "do": "Find the middle time for each spinner. Draw a bar chart with one bar for each.",
      "say": "Put the three times in order and take the middle one. Then draw the bars.",
-     "kid": "Find the middle time for each spinner. Draw a bar for each one. Taller means slower.",
+     "kid": "Find the middle time for each spinner. Make a bar for each one, drawn or built from a stack of coins. Taller means slower.",
      "how": "e2",
      "chart": {
       "type": "bar",
@@ -1393,7 +1393,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: longer wings make a spinner fall more slowly. What I saw: the short wings took about 1.2 seconds to fall 2 metres, and the long wings took about 2.2 seconds. Why: longer wings sweep through more air as they spin. So they can push enough air down to hold up the clip while falling more slowly."
     }
    ],
-   "context": "In this experiment you make paper spinners, like the winged seeds of a mahogany tree. You drop them from 2 metres and time how long each one takes to fall.",
+   "context": "In this experiment you will find out whether longer wings make a spinner fall more slowly. You make paper spinners, like the winged seeds of a mahogany tree. You drop them from 2 metres and time each fall.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how long each paper spinner took to fall 2 metres",
@@ -1452,7 +1452,7 @@
      "what": "Hold a flat hand in front of a fan at three tilts. Feel the push. Fill in the table."
     }
    ],
-   "record": "Fill in the table with words. Then draw your hand at the tilt that got the most push upwards.",
+   "record": "Fill in the table with words. Then show your grown-up the tilt that got the most push upwards, or draw it.",
    "setup": [
     {
      "art": "A table fan with a guard on a low table, a grown-up's hand on the switch.",
@@ -1487,7 +1487,7 @@
      "mins": 6,
      "do": "1. Slowly tilt the front edge of the hand up a little. 2. Then tilt it up steeply, nearly upright. 3. After each tilt, write down the push upwards, the push backwards, and whether it was steady.",
      "say": "Tilt the front of your hand up, just a little. Now tilt it right up. Which way is it pushed each time?",
-     "kid": "Tilt the front of your hand up a little. Feel it lift? Now tilt it right up. What happens now? Write it down.",
+     "kid": "Tilt the front of your hand up a little. Feel it lift? Now tilt it right up. What happens now? Tell your grown-up, or write it down.",
      "ask": [
       {
        "q": "When was your hand pushed up the most?",
@@ -1527,7 +1527,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: a wing tilted up a little gets the most lift. What I saw: flat, my hand was hardly pushed up. Tilted a little, it was pushed up a lot. Tilted steeply, it was pushed back and wobbled. Why: a little tilt turns the air downwards, so the air pushes my hand up. Too much tilt and the air tumbles."
     }
    ],
-   "context": "In this experiment you hold your flat hand in front of a fan at different tilts. You feel how the air pushes it up, or back.",
+   "context": "In this experiment you will find out which tilt lifts your hand the most, the same trick a wing uses. You hold your flat hand in front of a fan at different tilts and feel how the air pushes it.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results: a flat hand in front of a fan",
@@ -1584,7 +1584,7 @@
      "what": "Show that air takes up space and pushes back."
     }
    ],
-   "record": "Draw the glass in the water, with the air and the dry tissue inside it.",
+   "record": "Tell your grown-up what was inside the glass and why the tissue stayed dry. Or draw the glass in the water, with the air and the dry tissue inside.",
    "setup": [
     {
      "art": "A tissue pushed tightly into the bottom of a clear glass.",
@@ -1626,8 +1626,8 @@
      "mins": 5,
      "adult": true,
      "do": "1. Go to the longest clear space you have, like a hallway, a long room or a terrace. 2. Your child runs holding a big flat card in front of them, facing forwards. 3. Then they run holding it edge-on, like a knife.",
-     "say": "Which way was harder to run? Something pushed back on the card. What was it?",
-     "kid": "Run holding the card flat in front of you. Now run holding it edge-on. Which was harder? What pushed back?",
+     "say": "Which way was harder to run? Something pushed back on the card.",
+     "kid": "Run holding the card flat in front of you. Now run holding it edge-on. Feel the difference.",
      "check": {
       "t": "mcq",
       "q": "In the Air Is Real activity, running with the card held flat was harder. Why?",
@@ -1649,7 +1649,7 @@
      "think": "If air pushes back so hard on a card, how hard must it push on the wings of a big plane?"
     }
    ],
-   "context": "This activity shows that air is a real material. It fills an 'empty' glass, and it pushes back when you run with a card.",
+   "context": "In this activity you will find out that an 'empty' glass is full of air, and feel the air push back when you run with a card.",
    "problem": "We cannot see air, so it is easy to think there is nothing there. But a wing can only stay up if air is a real material that it can push on. You will show that an 'empty' glass is full of air, and that air pushes back."
   },
   {
@@ -1676,7 +1676,7 @@
      "what": "Float a feather and a ping-pong ball on a stream of air."
     }
    ],
-   "record": "Draw the ball floating in the air stream. Draw arrows showing the air.",
+   "record": "Point to where the ball floated and show with your hand which way the air went. Or draw the ball in the air stream, with arrows for the air.",
    "setup": [
     {
      "art": "A grown-up holding a hair dryer pointing straight up, switched to the cool setting.",
@@ -1702,7 +1702,7 @@
      "adult": true,
      "do": "1. Switch the dryer to cool and point it straight up. 2. Let your child hold a feather above it and let go.",
      "say": "Let go of the feather. What is holding it up?",
-     "kid": "Ask a grown-up to hold the dryer, on cool. Let go of a feather above it. What holds it up?",
+     "kid": "Ask a grown-up to hold the dryer, on cool. Let go of a feather above it. Watch what it does.",
      "context": "This is the first step of the Float a Feather activity. You use a stream of moving air to hold up light things.",
      "parent": "A feather is light and flutters about, and may blow away. The ping-pong ball hovers more steadily, so start with the ball if the feather will not stay."
     },
@@ -1712,7 +1712,7 @@
      "adult": true,
      "do": "1. Let go of a ping-pong ball a hand's width above the dryer. 2. Watch it hover. 3. Slowly tilt the dryer to one side. 4. Try a small blown-up balloon.",
      "say": "The ball stays in the stream of air, even when we tilt the dryer. Why doesn't it fall out?",
-     "kid": "Let go of a ping-pong ball above the dryer. It floats! Now tilt the dryer slowly. Does the ball fall out?",
+     "kid": "Let go of a ping-pong ball above the dryer. It floats! Now tilt the dryer slowly and watch the ball. Then try a small blown-up balloon.",
      "ask": [
       {
        "q": "What happens when the ball drifts to the edge of the air stream?",
@@ -1743,7 +1743,7 @@
      }
     }
    ],
-   "context": "In this activity a grown-up points a hair dryer upwards. You float a feather and a ping-pong ball on the moving air, and see the air push.",
+   "context": "In this activity you will find out that moving air can hold things up. A grown-up points a hair dryer upwards, and you float a feather and a ping-pong ball on the moving air.",
    "problem": "Moving air can push things up. A hair dryer makes a stream of moving air, and you will see it hold up a light ball. Then you will compare this with a wing, which pushes air down instead."
   },
   {
@@ -1818,11 +1818,11 @@
      "mins": 4,
      "do": "Talk about why plants send seeds so far.",
      "say": "Why is it good for a tree if the seeds fly far away, instead of dropping just underneath?",
-     "kid": "Why is it good for a tree if the seeds fly far away?",
+     "kid": "Tell your grown-up one reason why it helps the tree.",
      "parent": "A seed that lands under the parent tree has to share light and water with them. A seed that flies far away can land on new ground and grow there."
     }
    ],
-   "context": "This is a seed hunt, if you have a park or a tree-lined road nearby. You collect seeds that fly, sort them by how they fly, and time how slowly they fall.",
+   "context": "In this seed hunt, if you have a park or a tree-lined road nearby, you will find out which flying seeds fall the slowest. You collect seeds that fly, sort them by how they fly, and time how long each takes to fall.",
    "problem": "Many plants send their seeds out on the air, so the seeds land far from the parent plant. Some seeds have fluff like a parachute, some spin on one wing, and some glide. You will find these seeds and sort them by how they fly."
   },
   {
@@ -1852,7 +1852,7 @@
      "what": "Watch birds for 12 minutes. Tally which birds flap, glide or soar. Count wingbeats."
     }
    ],
-   "record": "Make a tally table with three columns: flapping, gliding and soaring. Write which birds you saw doing each.",
+   "record": "Fill in your tally table with three columns: flapping, gliding and soaring. Write which birds you saw doing each.",
    "setup": [
     {
      "art": "A child and a grown-up on a terrace with a railing, the child holding a notebook with a three-column tally table.",
@@ -1875,9 +1875,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw a tally table with three columns: flapping, gliding and soaring. Explain each word.",
+     "do": "Fold a page into three columns: flapping, gliding and soaring. Explain each word.",
      "say": "Flapping means wings beating. Gliding means wings held still, sinking slowly. Soaring means wings still, and the bird rising or staying up in circles.",
-     "kid": "Draw a table with three columns: flapping, gliding and soaring. Make a tally mark for each bird you see.",
+     "kid": "Fold a page into three columns: flapping, gliding and soaring. You will make a tally mark in a column for each bird you see.",
      "context": "This is the first step of the Bird Watch. You watch the sky and sort birds by how they are flying: flapping, gliding or soaring."
     },
     {
@@ -1909,7 +1909,7 @@
      "parent": "Good answers: the wind, the sea breeze at the beach, and the monsoon. The Sun heats some places more than others. Warm air or water rises, and cooler air or water moves in to take its place. That is the same thing that lifts a cheel."
     }
    ],
-   "context": "This is a bird-watching activity. You watch the sky for about 12 minutes and sort birds by how they fly: flapping, gliding or soaring.",
+   "context": "In this bird-watching activity you will find out which way of flying you see most in your sky. You watch for about 12 minutes and sort birds by how they fly: flapping, gliding or soaring.",
    "problem": "Birds use different tricks to stay up. Some flap their wings, some glide with their wings held still, and some soar, which means they rise on warm air without flapping. You will watch birds and sort them by what they do."
   },
   {
@@ -1934,7 +1934,7 @@
      "what": "Act out air molecules bumping into a wing."
     }
    ],
-   "record": "Draw the tilted wing, the air molecules hitting its underside and being steered down, and an arrow for the push up on the wing.",
+   "record": "Show with the cardboard and your hands how the wing sent the molecules down and how they pushed the wing up. Or draw the tilted wing, the molecules and the arrows.",
    "setup": [
     {
      "art": "Three children standing in a room, each pretending to be a zooming air molecule.",
@@ -1962,8 +1962,8 @@
      "id": "s2",
      "mins": 7,
      "do": "1. The wing-holder walks slowly through the room, holding the cardboard tilted up at the front. 2. Molecules that meet the underside bump it gently and are steered downwards. 3. Swap roles so everyone holds the wing.",
-     "say": "Wing-holder, can you feel the bumps underneath pushing your wing up? Molecules, which way does the wing send you?",
-     "kid": "Bump gently into the bottom of the wing. Which way does the wing send you? If you are holding the wing, feel the bumps push it up!",
+     "say": "Wing-holder, can you feel the bumps underneath pushing your wing up?",
+     "kid": "Bump gently into the bottom of the wing. Notice which way the wing sends you. If you are holding the wing, feel the bumps push it up!",
      "parent": "This is a model. Real molecules are far tinier and faster, and a real wing meets countless numbers of them. The key idea is right. The tilted wing pushes molecules down, and the molecules push the wing up."
     },
     {
@@ -1987,7 +1987,7 @@
      "parent": "Nothing would push it up. With no molecules to bump the wing, there is no lift. That is why a plane's wings do nothing in space."
     }
    ],
-   "context": "This is a short play. People act as air molecules, and someone walks through them with a tilted cardboard wing. It shows what lift is deep down.",
+   "context": "In this short play you will feel what lift is made of. People act as air molecules, and someone walks through them with a tilted cardboard wing.",
    "problem": "Air is made of tiny molecules that bump into everything. A tilted wing bumps molecules downwards, and the molecules push back and lift the wing. You will act this out with people as molecules and a piece of cardboard as the wing."
   },
   {
@@ -2016,7 +2016,7 @@
      "what": "Dance the five ways of flying, then do a calm breathing exercise."
     }
    ],
-   "record": "Draw your favourite flying move. Label it flapping, gliding, soaring, spinning or floating.",
+   "record": "Show your family your favourite flying move and say its name: flapping, gliding, soaring, spinning or floating. Or draw it and label it.",
    "setup": [
     {
      "art": "A child with arms wide holding a dupatta like wings, beating them up and down.",
@@ -2076,10 +2076,10 @@
      "mins": 2,
      "do": "End the dance by asking which flyer each person liked being most.",
      "say": "Which flyer did you like being most? Why?",
-     "kid": "Which flyer did you like being most? Tell someone why."
+     "kid": "Pick your favourite flyer. Tell someone why."
     }
    ],
-   "context": "This is a dance and breathing activity. You move like the different flyers in this unit, and then breathe out gently like the wind."
+   "context": "In this dance you will find out how each flyer in this unit moves, and what a gentle wind feels like. You move like each flyer, then breathe out softly like the wind."
   }
  ],
  "projects": [
@@ -2131,7 +2131,7 @@
      "what": "Fly the kite. Change the tail and the tilt to make it fly better."
     }
    ],
-   "record": "Draw your kite and label the sticks, the paper, the bridle and the tail. Write what you changed on Day 3 and what happened.",
+   "record": "Take a photo of your kite, or draw it. Name the sticks, the paper, the bridle and the tail. Write what you changed on Day 3 and what happened.",
    "setup": [
     {
      "art": "Two bamboo sticks crossed and tied into a cross shape, the shorter one across the top third of the longer one.",
@@ -2182,7 +2182,7 @@
      "adult": true,
      "do": "1. Go to an open space with a steady breeze. 2. The flyer stands still with the wind blowing on their back. 3. A helper (the grown-up, if there are only two of you) carries the kite 10 big steps away, downwind, and holds it up with its face to the wind. 4. On 'Now', the helper lets go and the flyer pulls the string in steadily. 5. Let out string slowly as it climbs, but never let it go slack.",
      "say": "The wind pushes the kite. The string holds it back. Keep it tight, and the kite has nowhere to go but up.",
-     "kid": "Go to an open space with a grown-up. A helper holds the kite up. On 'Now', pull the string. Keep it tight!",
+     "kid": "Go to an open space with a grown-up. Stand still with the wind on your back. A helper holds the kite up. On 'Now', pull the string. Keep it tight!",
      "ask": [
       {
        "q": "What happened when the string went slack?",
@@ -2244,7 +2244,7 @@
     "Give a spinner three wings instead of two, like a drumstick seed.",
     "Curl the wing edges slightly, the way real seed wings curve."
    ],
-   "your_turn": "Now invent your own seed. Draw it, build it, drop it 3 times and time it. Can you make it take longer than 2 seconds to fall 2 metres?",
+   "your_turn": "Now invent your own seed. Build it, drop it 3 times and time it. Can you make it take longer than 2 seconds to fall 2 metres?",
    "setup": [
     {
      "art": "Half an A4 sheet, a paper clip, tape and scissors laid out on a table.",
@@ -2282,7 +2282,7 @@
      "mins": 5,
      "do": "Your child draws three different ideas before building anything.",
      "say": "Engineers draw before they build. Draw three different ideas.",
-     "kid": "Draw three different seed ideas. A spinner? A parachute? A glider?"
+     "kid": "Draw three different seed ideas, or describe them to your grown-up. A spinner? A parachute? A glider?"
     },
     {
      "id": "s4",
@@ -2322,7 +2322,7 @@
     "Copy the wide, flat shape of the Javan cucumber seed, which glides with the heavy seed in the middle.",
     "Fold small upturned tips on the wings, like the feathers on a vulture's wingtips."
    ],
-   "your_turn": "Now invent your own Air Mail glider. Draw it, build it, and measure how far it carries the coin. Then improve it.",
+   "your_turn": "Now invent your own Air Mail glider. Build it, and measure how far it carries the coin. Then improve it.",
    "setup": [
     {
      "art": "A sheet of A4 paper, a roll of tape and a 1-rupee coin on a table.",

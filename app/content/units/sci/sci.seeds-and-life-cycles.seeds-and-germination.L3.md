@@ -268,11 +268,11 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 - **s1 (2 min)**  
   *Parent does:* 1. Give each player a seed mat. 2. Shuffle the 36 cards and put them face down. 3. Put the sprout tokens in a bowl.  
   *Parent says:* Each of us is a sleeping seed. To wake up and sprout, a seed needs three things. They are water, warmth and air. Let's see who can wake up first.  
-  *Child mode:* You are a sleeping seed. To sprout, you need three cards: WATER, WARMTH and AIR. Put your mat in front of you. Mix the cards.
+  *Child mode:* You are a sleeping seed. To sprout, you need three cards: WATER, WARMTH and AIR. Put your mat in front of you. Help mix the cards.
 - **s2 (3 min)**  
   *Parent does:* Before you start, find a SUNLIGHT card and hold it up. Ask the question below.  
   *Parent says:* Here is a SUNLIGHT card. Does a seed need sunlight to wake up? What do you think?  
-  *Child mode:* Look at the SUNLIGHT card. Does a seed need sunlight to wake up?
+  *Child mode:* Look at the SUNLIGHT card. Make a guess.
   - Ask: Why do you think the game keeps sunlight aside until after the seed sprouts? (good: A seed has their own food, so they don't need light at first.; Seeds sprout in the dark, under the soil.; Light is for the leaves, later.)
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns to draw a card and read it out. 2. Place it, or do what it says (a full box means the card goes to one side). 3. When a player fills all three boxes, they say 'I'm awake!' and explain each one.  
@@ -289,7 +289,7 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 - **s5 (2 min)**  
   *Parent does:* Count the sprout tokens to find the winner. Then look at the SUNLIGHT and FERTILE SOIL cards together.  
   *Parent says:* These cards were useful, but not for waking up. When does a plant need sunlight and good soil?  
-  *Child mode:* Count your tokens. Who won? Now look at the SUNLIGHT and SOIL cards. When does a plant need them?
+  *Child mode:* Count your tokens. Who won? Then hold up the SUNLIGHT and SOIL cards.
   - Think: A seed has their own food store. When does that food run out?
 ### g2 · Seed or Not a Seed? (15 min)
 - **rules:** Lay out the three mats. Shuffle the 20 cards and put them in a pile with the names facing up. (Or put the real things in small bowls.); Take turns to take the top card and say which mat it goes on, and why.; Other players can say 'I disagree!' and give a reason. Then turn the card over and read the answer.; A right answer with a good reason wins a point. Changing your mind for a good reason also wins a point.; The game ends when all 20 cards are on mats. The player with the most points wins. If you tie, you share the win.; Afterwards, put a few of each small seed on a wet cloth for two days and find out who was right. Some things, like sugar, cannot be tested this way.
@@ -338,7 +338,7 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
   - Note: Boiling removes much of the air dissolved in water, and oil slows air getting back in. It is not perfect, so a few seeds may still sprout in cup 4. That is fine, and worth talking about. Use whole moong from a packet bought in the last year. Old moong sprouts poorly.
 - **s3 (5 min)**  
   *Parent does:* 1. Cover cups 1, 2 and 4 with steel plates. 2. Cover cup 3 with a plate and put it in the fridge, not the freezer. 3. Cover cup 5 with a clear plastic bag or lid. 4. Put cups 1, 2, 4 and 5 side by side in a bright place, out of direct sun. 5. Write your guesses in the table, with a reason for each.  
-  *Parent says:* Cup 2 is our normal cup. Each other cup is different in just one way. Which one is missing water? Which is missing warmth? Which is missing air? Which has extra light? How many will sprout in each, and why do you think so?  
+  *Parent says:* Cup 2 is our normal cup. Each other cup is different in just one way. Which cup has no water? Which is cold? Which has no air? Which has extra light? How many seeds will sprout in each, and why?  
   *Child mode:* Cover cups 1, 2 and 4 with plates. Put cup 3 in the fridge. Cover cup 5 with clear plastic. Put cups 1, 2, 4 and 5 side by side in a bright place. Guess how many will sprout in each cup. Say why.
   - Ask: Why do we compare every cup with cup 2? (good: Cup 2 has everything, so it shows what normal looks like.; Each other cup changes just one thing, so we know what made the difference.)
   - Note: Every cup is covered, so they all dry out at the same slow rate. Cup 5 has a clear cover, so light gets in, and it sits beside the others, so it is just as warm. In cold weather, when the room is below about 20 degrees Celsius, moong sprouts slowly. Then keep cups 1, 2 and 4 in the warmest place you have, such as a kitchen cupboard near the stove. Keep cup 5 beside them. Count on days 3, 4 and 5 instead.
@@ -352,7 +352,7 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 - **s5 (6 min)**  
   *Parent does:* 1. On day 3, count again and write the numbers. 2. Help your child draw a bar chart with one bar for each cup.  
   *Parent says:* Let's turn the numbers into a picture. Each cup gets one bar. The taller the bar, the more seeds sprouted.  
-  *Child mode:* Count again. Draw one bar for each cup. Make it as tall as the number that sprouted.
+  *Child mode:* Count again. Make one bar for each cup, as tall as the number that sprouted. Draw it, or line up real seeds.
   - Check: Suppose the damp cup in the light and the damp cup in the dark both sprout about the same. What does that tell you? → **Moong seeds do not need light to sprout**
   - Wait: Leave the cups for 1 more day
 - **s6 (4 min)**  
@@ -371,7 +371,7 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 - **predict:** Before you start, guess. After a day, will the two flasks be the same temperature, or will one be warmer? Which one, and why do you think so?
 - **fair test:** To make it fair, both flasks get the same kind and amount of seeds, soaked for the same time. Both stay in the same place. The only difference is that one lot is alive and the other has been boiled.
 - **safety:** Only a grown-up boils the seeds. Let them cool completely before they go in a flask. Plug the flasks loosely with cotton, never with a tight lid, so air can get in. Don't eat the seeds afterwards.
-- **record:** Write the temperatures in the table each time. Then draw two bars for the 24-hour reading: one for the live seeds and one for the boiled seeds.
+- **record:** Write the temperatures in the table each time. Then make two bars for the 24-hour reading, one for the live seeds and one for the boiled seeds. Draw them, or just tell your grown-up which flask was warmer and by how many degrees.
 - **results table:** Time | Live seeds: temperature (degrees Celsius) | Boiled seeds: temperature (degrees Celsius) | Room: temperature (degrees Celsius)
 - **schedule:** day 1: Soak the moong the night before. Boil and cool one lot of soaked seeds. Fill both flasks. Read both thermometers. (25 min); day 2: Read both thermometers in the morning and evening. (3 min); day 3: Read again. Draw two bars for the 24-hour readings. Say what you think, what you saw and why. (7 min)
 - **s1 (20 min) · grown-up needed**  
@@ -401,7 +401,7 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 - **predict:** Before you start, guess. After a night in water, will the chana weigh the same, a little more, or twice as much? Why do you think so?
 - **fair test:** Weigh the chana on the same scale both times. Before you weigh the soaked chana, drain them and pat them dry with a cloth, so the extra weight is only the water inside the seeds, not water on the outside.
 - **safety:** Use plastic, never glass, for the pushing test. Swelling seeds can crack glass.
-- **record:** Write both weights. Draw the box packed with chana, before soaking and after.
+- **record:** Write both weights. Take a photo of the box packed with chana, before soaking and after, or draw it.
 - **results table:** Chana | Weight (grams) | How does the lid of the full box look?
 - **schedule:** day 1: Weigh the dry chana and soak them. Fill a small plastic box to the brim with dry chana and water, and snap its lid on. (8 min); day 2: Weigh the soaked chana. Look at the lid of the full box. Work out how many times heavier the chana is. (12 min)
 - **s1 (5 min)**  
@@ -411,24 +411,24 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
 - **s2 (3 min)**  
   *Parent does:* 1. Fill a small plastic box right to the top with dry chana. 2. Pour in water to the brim. 3. Snap the lid on.  
   *Parent says:* This box is full to the top. What will happen when the seeds swell? Why do you think so?  
-  *Child mode:* Fill a small plastic box with dry chana, right to the top. Add water to the top. Put the lid on. What will happen? Why?
+  *Child mode:* Fill a small plastic box with dry chana, right to the top. Add water to the top. Put the lid on.
 - **s3 (6 min)**  
   *Parent does:* 1. The next morning, drain the chana in the bowl and pat them dry with a cloth. 2. Weigh them again and write the weight. 3. Look at the box with the lid.  
-  *Parent says:* How much do they weigh now? Where did the extra weight come from? Now look at the lid of the full box.  
-  *Child mode:* Drain the chana. Pat them dry. Weigh them again. Are they heavier? Now look at the box. What happened to the lid?
+  *Parent says:* How much do they weigh now? Now look at the lid of the full box.  
+  *Child mode:* Drain the chana. Pat them dry. Weigh them again. Now look at the box and its lid.
   - Note: The chana usually weighs about twice as much, close to 100 grams. The extra weight is water that went inside the seeds. In a tightly packed box the lid often pops up or the box bulges, but not every time. If nothing moves, say so honestly: the box was not packed tightly enough. In cold weather, soak for a full 12 hours.
   - Wait: Leave overnight
 - **s4 (6 min)**  
   *Parent does:* Work out together how many times heavier the chana is. Then ask your child to say what they think, what they saw and why.  
   *Parent says:* 50 grams became about 100 grams. How many 50s make 100? So how many times heavier are they?  
-  *Child mode:* The dry chana weighed 50 grams. Soaked, they weigh about 100 grams. How many times heavier are they? Then say what you think, what you saw and why.
+  *Child mode:* Work out how many times heavier the soaked chana is. Then say what you think, what you saw and why.
   - Note: A good answer sounds like this. What I think: seeds drink a lot of water before they sprout. What I saw: 50 grams of chana became 100 grams, twice as heavy, and the seeds pushed the lid off. Why: water goes inside the seed and they swell.
   - Check: In the swelling test, 50 grams of dry chana weighed about 100 grams after soaking. Where did the extra weight come from? → **Water that went inside the seeds**
 
 ## Activities
 ### a1 · Open a Seed: find the baby plant and their food store (15 min)
 - **safety:** A grown-up cuts the maize kernel with a knife, if you try one.
-- **record:** Draw one opened bean, big. Label three parts: seed coat, baby plant and food store.
+- **record:** Name three parts of an opened bean: seed coat, baby plant and food store. Draw it big and label it, or take a photo and say the names out loud.
 - **s1 (3 min)**  
   *Parent does:* 1. Give your child one dry bean and one soaked bean. 2. Ask them to feel, look at and compare the two.  
   *Parent says:* This one has been in water all night. This one is dry. What is different?  
@@ -441,14 +441,14 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
   - Note: The scar is called the hilum. Press a fingernail into the seam on the straight edge, where the scar is, and open the bean like a book. Some halves will break. That is fine. Try another bean.
 - **s3 (5 min)**  
   *Parent does:* 1. Look at the inside edge of one half, near the scar end. Use the magnifying glass. 2. Find the tiny baby plant, with a little pointed root and two tiny folded leaves. 3. Do the same with a peanut and a chana.  
-  *Parent says:* Look near the end. Can you see a tiny plant? They have a little root and two tiny leaves, folded up. What do you think the two big halves are for?  
-  *Child mode:* Look near the end of one half. Find a tiny plant. They have a little root and two tiny leaves. What are the big halves for?
+  *Parent says:* Look near the end. Can you see a tiny plant? They have a little root and two tiny leaves, folded up.  
+  *Child mode:* Look near the end of one half. Find a tiny plant. They have a little root and two tiny leaves.
   - Note: In a peanut, the baby plant is very easy to see at the pointed tip, between the halves. In maize there is only one food store, with a small pale patch on one face where the baby plant lies.
   - Check: You split a soaked bean into their two big halves. What are those two halves for? → **They are the food store that feeds the baby plant**
 - **s4 (3 min)**  
-  *Parent does:* Ask your child to draw one opened bean, big, and label the seed coat, the baby plant and the food store.  
-  *Parent says:* Draw the opened bean as big as you can. Label three parts: the coat, the baby plant and their food store.  
-  *Child mode:* Draw your bean, big. Label the coat, the baby plant and the food store.
+  *Parent does:* Ask your child to point to the seed coat, the baby plant and the food store on an opened bean, and name each one. Drawing it is a good extra.  
+  *Parent says:* Point to three parts of your opened bean: the coat, the baby plant and their food store. Tell me what each one does.  
+  *Child mode:* Point to the coat, the baby plant and the food store on your bean. Say what each one does.
   - Note: The parent plant made the seed. The baby plant grew from a tiny seed-start in the parent's flower, after pollen reached it. The parent also packed in the food store.
   - Think: The baby plant was already there before you soaked the seed. Who made them?
 ### a2 · Can Dal Sprout? Whole seeds against split and roasted ones (15 min, 3 days)
@@ -467,12 +467,12 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
   - Wait: Leave for 2 days
 - **s3 (7 min)**  
   *Parent does:* Talk about why some groups did not sprout. Then ask your child to say what they think, what they saw and why.  
-  *Parent says:* The dal and the roasted peanuts had water, warmth and air. So why didn't they sprout?  
-  *Child mode:* The dal had water, warmth and air. Why didn't they sprout? Say what you think, what you saw and why.
+  *Parent says:* Look at your counts. Which groups did not sprout? They all had water, warmth and air.  
+  *Child mode:* Look at the groups that did not sprout. Say what you think, what you saw and why.
   - Note: Split dal has lost its coat and has been split. The tiny baby plant is usually broken off. Roasting cooks the baby plant, so they are dead. A good answer sounds like this. What I think: a seed needs a living baby plant to sprout. What I saw: most of the whole moong sprouted but no dal, and the raw peanuts sprouted but not the roasted ones. Why: the dal had lost its baby plant, and roasting killed the peanut's baby plant.
   - Check: In the Can Dal Sprout? test, the roasted peanuts got water, warmth and air but did not sprout. Why? → **Roasting killed the baby plant inside**
 ### a4 · The Seed Window: which way does the root grow? (15 min, 5 days)
-- **record:** Draw the seeds on day 1, day 3 and day 5. Draw an arrow showing which way each root grew.
+- **record:** Show the seeds on day 1, day 3 and day 5: take a photo each day, or draw them. Mark with an arrow which way each root grew.
 - **schedule:** day 1: Set up the jar with seeds lying in different ways. (6 min); day 3: Look and draw. When roots are 2 cm long, pour out the water, close the jar and lay it on its side. (4 min); day 5: Look and draw again. Which way did the roots turn? (5 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Line the inside of the jar with paper towel. 2. Push 4 soaked chana between the paper and the side, halfway up. 3. Put one scar up, one scar down, one on their side and one at a slant. 4. Pour about 2 cm of water in the bottom, so the paper stays wet.  
@@ -480,16 +480,16 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
   *Child mode:* Line a jar with paper. Push 4 seeds between the paper and the side. Put each one a different way. Add a little water at the bottom.
   - Ask: Which will come out first, the root or the shoot? (good: The root.; The root, so it can drink and hold on.)
 - **s2 (4 min)**  
-  *Parent does:* 1. After 2 days, look and draw each seed. 2. When the roots are about 2 cm long, pour out the water at the bottom. 3. Close the lid, or cover the cup with a plastic bag, so the paper stays wet. 4. Lay the jar on its side.  
-  *Parent says:* Every root is going down, even the one that started pointing up. How does it know?  
-  *Child mode:* Look at the roots. Which way are they growing? Draw them. Pour out the water. Close the jar. Lay it on its side.
+  *Parent does:* 1. After 2 days, look at each seed. Take a photo of the jar, or draw the seeds. 2. When the roots are about 2 cm long, pour out the water at the bottom. 3. Close the lid, or cover the cup with a plastic bag, so the paper stays wet. 4. Lay the jar on its side.  
+  *Parent says:* Look at all four roots. Compare each one with the way the seed was lying.  
+  *Child mode:* Look at the roots. Point to the way each one is growing. Take a photo, or draw them. Pour out the water. Close the jar. Lay it on its side.
   - Note: Chana roots usually show in 1 to 2 days in warm weather, and 3 to 4 days in a cold room. Wait until they are about 2 cm long before you turn the jar.
   - Check: In the seed window jar, one chana was put in upside down. Which way does their root grow? → **Down, towards the ground**
   - Wait: Look again in 2 days
 - **s3 (5 min)**  
   *Parent does:* After 2 more days, look again. Ask your child to say what they think, what they saw and why.  
   *Parent says:* We turned the jar. What did the root tips do?  
-  *Child mode:* What did the root tips do after you turned the jar? Say what you think, what you saw and why.
+  *Child mode:* Look at the root tips. Say what you think, what you saw and why.
   - Note: In space, gravity is tiny, so roots wander in many directions. The root tips bend to point down again. Root tips have cells with tiny heavy grains of starch inside. The grains settle to the bottom, so the root can tell which way is down. A good answer sounds like this. What I think: roots always grow down. What I saw: all 4 roots grew down, and when we turned the jar, they bent down again. Why: roots feel gravity.
   - Think: Astronauts have grown plants in space. Which way do you think their roots grew?
   - Wait: Look again in 2 more days
@@ -503,12 +503,12 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
   *Child mode:* Chew a soaked seed slowly. Sip water. Now chew a sprout slowly. Which is sweeter?
 - **s2 (5 min)**  
   *Parent does:* Talk about why the sprout might taste sweeter.  
-  *Parent says:* The seed's stored food is mostly starch. Starch is not sweet. But as they sprout, the seed turns some starch into sugar. Why would they do that?  
-  *Child mode:* The seed's food is starch. Starch is not sweet. A sprout turns some starch into sugar. Why?
+  *Parent says:* The seed's stored food is mostly starch. Starch is not sweet. But as they sprout, the seed turns some starch into sugar.  
+  *Child mode:* Think about what the sprout could use sugar for.
   - Ask: Why does a sprouting seed turn starch into sugar? (good: So the baby plant can use the sugar as food.; Sugar can move to the root and shoot.)
   - Note: The baby plant cannot use starch directly. Enzymes, helpers made by their cells, cut starch into sugar that can travel to the growing root and shoot. The change is small, so not everyone can taste it. That is fine. Ragi malt is made from sprouted ragi for the same reason.
 ### a5 · Be a Seed: act out sprouting (10 min)
-- **record:** Draw yourself as a sprouting seed, with your root and shoot.
+- **record:** Tell a grown-up the stages in order: dry, drink, swell, root, shoot, leaves. Or draw yourself as a sprouting seed, with your root and shoot.
 - **s1 (5 min)**  
   *Parent does:* Read out each stage slowly while your child acts it: dry seed, rain, swelling, root, hook, leaves.  
   *Parent says:* You are a dry seed, curled up and still. Now the rain comes. Drink it in. Swell bigger. Your coat splits. Push your root out first, down into the ground. Now your shoot. Rise slowly, with your back bent like a hook. Now straighten up, and open your two leaves to the sun.  
@@ -521,57 +521,57 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
   - Note: Problems to call out: no water (stay curled), a cold fridge (move very, very slowly), drowned with no air (stop and go floppy), a dark cupboard (keep going, because seeds can sprout in the dark).
   - Check: In Be a Seed, which part of the seed comes out first? → **The root**
 ### a6 · The Kitchen Seed Hunt (15 min)
-- **record:** Make a line of seeds on the paper strip, from smallest to biggest. Write or draw the plant beside each one.
+- **record:** Make a line of seeds on the paper strip, from smallest to biggest. Write the plant's name on a label beside each seed, or take a photo of the line.
 - **s1 (8 min)**  
   *Parent does:* Help your child find seeds in the kitchen. Take a few of each.  
   *Parent says:* Our kitchen is full of sleeping baby plants. How many different kinds can we find?  
   *Child mode:* Your kitchen is full of seeds. How many kinds can you find? Take a few of each.
   - Note: Good finds: rai, jeera, methi, sesame, ajwain, saunf, moong, masoor, chana, rajma, peanuts, rice, wheat, corn, cashew, a tamarind seed, a mango stone, seeds inside a tomato, a chilli or a papaya. Jeera, saunf and ajwain are really tiny dry fruits, each holding a seed.
 - **s2 (7 min)**  
-  *Parent does:* 1. Line them up on the paper strip from smallest to biggest. 2. Next to each, write or draw the plant they grow into.  
+  *Parent does:* 1. Line them up on the paper strip from smallest to biggest. 2. Next to each, put a paper label with the name of the plant it grows into.  
   *Parent says:* Does the biggest seed grow into the biggest plant?  
-  *Child mode:* Line them up, smallest to biggest. Draw the plant for each one. Does a big seed make a big plant?
+  *Child mode:* Line them up, smallest to biggest. Put a name label next to each one. Does a big seed make a big plant?
   - Note: The seed's food only feeds the seedling for the first few days. After that, the green leaves make food from air and water, using sunlight. The tree is built from that food over many years.
   - Think: A banyan tree's seed is no bigger than a rai grain. How does a giant tree come from something so small?
 
 ## Projects
 ### p1 · My Seed Friend: a sprouting diary (50 min, 10 days)
-- **record:** A diary page for every day: a drawing, the root length and the shoot length in millimetres, and one sentence.
+- **record:** A diary page for every day: a drawing or photo, the root length and the shoot length in millimetres, and one sentence.
 - **schedule:** day 1: Soak the beans the night before. Plant two beans against the side of the cup. Name your seed friend. Draw them. (10 min); day 2: Water a little. Look through the side. Draw. (3 min); day 3: Look for the root. Measure it. Draw. (4 min); day 4: Water. Measure the root. Draw. (3 min); day 5: Look for the hooked shoot. Measure the root and the shoot. Draw. (4 min); day 6: Water. Measure. Draw. (3 min); day 7: Watch the seed halves lift and turn green. Measure. Draw. (4 min); day 8: Water. Measure. Draw. (3 min); day 9: Look for the first true leaves. Measure. Draw. (4 min); day 10: Make a growth table. Read your diary aloud to someone. Plant your friend in a bigger pot. (12 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Fill the cup with damp soil. 2. Push two soaked beans down against the side, about 2 cm deep, so you can see them through the plastic. 3. Name the plant. 4. Draw them on page 1 of the diary.  
+  *Parent does:* 1. Fill the cup with damp soil. 2. Push two soaked beans down against the side, about 2 cm deep, so you can see them through the plastic. 3. Name the plant. 4. Draw or photograph them for page 1 of the diary.  
   *Parent says:* This is your seed friend. You will look after them, and they will show you how they grow. What will you call them?  
-  *Child mode:* Fill the cup with damp soil. Push two beans against the side, so you can see them. Give your seed friend a name. Draw your seed friend.
+  *Child mode:* Fill the cup with damp soil. Push two beans against the side, so you can see them. Give your seed friend a name. Draw your seed friend, or take a photo.
   - Note: Two beans are planted in case one does not sprout. Kitchen rajma is sometimes old, so if neither sprouts in 5 days, try two fresh ones. Keep the cup out of hot direct sun for the first days, but in a bright place once the shoot is up. The soil should be damp, never soggy.
 - **s2 (28 min)**  
-  *Parent does:* Each day: 1. Water a little if the top of the soil is dry. 2. Look through the side. 3. Measure the root and, later, the shoot in millimetres. 4. Draw and write one sentence.  
+  *Parent does:* Each day: 1. Water a little if the top of the soil is dry. 2. Look through the side. 3. Measure the root and, later, the shoot in millimetres. 4. Draw or take a photo, and write one sentence.  
   *Parent says:* What has changed since yesterday? Measure it.  
-  *Child mode:* Each day, look at your seed friend. Water a little if the soil is dry. Measure the root and the shoot. Draw your seed friend. Write one sentence.
+  *Child mode:* Each day, look at your seed friend. Water a little if the soil is dry. Measure the root and the shoot. Draw your seed friend, or take a photo. Write one sentence.
   - Note: In warm weather, the root usually shows by day 2 or 3, and the hooked shoot comes up by day 4 to 6. The seed halves, the seed leaves, lift up and turn green, then shrink as their food is used up. The first true leaves open by about day 8 to 10. In a cold room everything takes a few days longer, so keep the cup in the warmest bright place you have.
   - Check: In your seed diary, the two fat seed halves of the bean lifted up, turned green, then got smaller. Why did they shrink? → **The baby plant used up their stored food**
   - Wait: Every day for 8 days
 - **s3 (0 min)**  
   *Parent does:* If your seed friend dies, write a short note about how you feel. Talk about what might have gone wrong: too much water, too little, too cold, or no air in soggy soil. Plant the second bean.  
   *Parent says:* Sometimes a seed friend dies. That is sad, and it's all right to feel sad. What do you think they needed?  
-  *Child mode:* Did your seed friend die? That is sad. Write a short note about how you feel. What do you think they needed? Try again with the second bean.
+  *Child mode:* If your seed friend dies, that is sad. Write or tell how you feel. Think about what they needed. Try again with the second bean.
   - Note: This step is only needed if the plant dies. Writing a short goodbye note lets your child notice how they feel. Then they can think calmly about what the plant needed.
 - **s4 (12 min)**  
   *Parent does:* On day 10, put the root and shoot lengths into a table. Read the diary aloud to someone. Move the plant to a bigger pot.  
   *Parent says:* Read your diary to someone in the family. On which day did the root grow the most? How do you know?  
-  *Child mode:* Make a table of your measurements. Read your diary to someone. On which day did the root grow the most? Plant your friend in a bigger pot.
+  *Child mode:* Make a table of your measurements. Read your diary to someone. Plant your friend in a bigger pot.
   - Think: Your bean has used up the food in their seed halves. Where will they get their food now?
 
 ## Challenges
 ### c1 · Fastest Sprouts (25 min)
 - **problem:** Your family wants moong sprouts for breakfast as soon as possible. Your job is to get 20 moong seeds to grow roots at least 1 cm long, in the shortest time.
-- **your turn:** Now invent your own way. Draw it, try it and time it. Did you beat the usual way?
+- **your turn:** Now invent your own way. Try it and time it. Did you beat the usual way?
 - **constraints:** Use only 20 moong seeds from the same packet.; No stove, oven or heater. You may use only safe warm places, like a kitchen shelf.; Write down the time you start and the time when 15 of the 20 seeds have roots 1 cm long.
 - **general:** Soak the seeds for about 8 to 12 hours. Then drain them, so they have water and air.; Keep them damp, not under water. Rinse them once or twice a day, so they don't go sour.; Keep them in a warm spot, like a kitchen shelf, out of hot sun. Light is not needed.
 - **creative:** Hang them in a loose cloth bundle, the way many families do, so air reaches every seed.; Put them in a strainer over a bowl, covered with a damp cloth, so extra water drips away.; Some families wrap the bundle and keep it in a warm closed casserole. Which works better: keeping the warmth in, or letting more air in?
 - **s1 (5 min)**  
   *Parent does:* Before soaking anything, list three ideas together for making the seeds sprout faster.  
   *Parent says:* Remember what a seed needs: water, warmth and air. How can we give them all three, as well as possible?  
-  *Child mode:* Think like a scientist. A seed needs water, warmth and air. Draw or write three ideas to make them sprout faster.
+  *Child mode:* Think of three ideas to make them sprout faster. Say them or write them down.
 - **s2 (8 min)**  
   *Parent does:* 1. Try your best idea with the 20 seeds. 2. Check every few hours, when you can. 3. Write down the time when 15 of the seeds have roots 1 cm long.  
   *Parent says:* Let's check. How many seeds have 1 cm roots now?  
@@ -585,7 +585,7 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
   - Think: Farmers who sprout paddy seed before sowing keep them in wet sacks. Why sacks, and not sealed tins?
 ### c2 · Seeds for the Moon Base (30 min)
 - **problem:** Astronauts are going to live on the Moon. They will take seeds to grow food. Design a seed kit that keeps the seeds asleep for the journey, then wakes them on the Moon.
-- **your turn:** Now design your own Moon seed kit. Draw it, build a model and test whether it wakes moong seeds on Earth.
+- **your turn:** Now design your own Moon seed kit. Plan it, build a model and test whether it wakes moong seeds on Earth.
 - **constraints:** The Moon has no air to breathe and no liquid water. Its nights last about 14 Earth days and are colder than any freezer.; Your kit must keep the seeds safe and asleep on the trip, then give them what they need to sprout.; Build a model from things at home, and test the 'wake up' part with real moong seeds.
 - **general:** Keep the seeds dry and cool on the journey, so they stay asleep. That is how seed banks store them.; On the Moon, give them water, keep them warm and give them air, inside a sealed box or a base.; Use a light later, once the seedlings come up, because they will need it to make food.
 - **creative:** China's Chang'e 4 lander took cotton seeds to the Moon in 2019. A cotton seed sprouted, then died in the cold of the long night on the Moon. How would your kit stay warm all night?; Astronauts breathe out carbon dioxide, and growing leaves need it. How could a Moon base use that? Could the seeds' breathing warm a little box?; Could the seeds travel with their own water sealed beside them, and get the water when someone pulls a tab?
@@ -594,9 +594,9 @@ There was a little silence on the line. Then Ammi laughed, the way she laughed w
   *Parent says:* A seed needs water, warmth and air. Which of those does the Moon have?  
   *Child mode:* What does a seed need? What does the Moon not have? Make two lists.
 - **s2 (12 min)**  
-  *Parent does:* Draw a plan, then build a model kit from things at home. Put real moong inside for the wake-up test.  
+  *Parent does:* Plan your kit by telling your grown-up what goes in it, or sketch it. Then build a model kit from things at home. Put real moong inside for the wake-up test.  
   *Parent says:* Your kit has two jobs. It must keep the seeds asleep, then wake them. How will it do both?  
-  *Child mode:* Draw your kit. Then build it. Put real moong in it. Add water, warmth and air when it is time to wake them.
+  *Child mode:* Tell your plan, or sketch your kit. Then build it. Put real moong in it. Add water, warmth and air when it is time to wake them.
 - **s3 (10 min)**  
   *Parent does:* After 2 days, open the kit. Count the sprouts. Read the usual ideas and the creative ones together.  
   *Parent says:* Did your seeds wake up? What would you change for the real Moon?  

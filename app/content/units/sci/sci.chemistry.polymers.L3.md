@@ -192,7 +192,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **s2 (3 min)**  
   *Parent does:* Take out the card 'A rubber band' and play it as a practice round. Then put it back in the pile.  
   *Parent says:* This is a practice card: a rubber band. Which heading does it go under?  
-  *Child mode:* This is a practice card: a rubber band. Which heading does it go under?
+  *Child mode:* Look at the practice card, the rubber band. Put it under the heading you think is right.
   - Check: Which heading does a rubber band go under? → **Made by living beings**
 - **s3 (10 min)**  
   *Parent does:* Play until the pile is gone.  
@@ -208,7 +208,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   *Child mode:* Take your paper clips. Mix up the cards. Each right answer adds a link to your chain.
 - **s2 (18 min)**  
   *Parent does:* Play until someone reaches 10 links.  
-  *Parent says:* Read the card and answer. Right? Add a link. Two right in a row? You may make a cross-link with another player.  
+  *Parent says:* Read the card and answer. Right? Add a link. Two right in a row? Make a cross-link with another player. You both add one extra link.  
   *Child mode:* Answer the card. Right? Add a link to your chain.
   - Check: What does a cross-link do? → **Ties two polymer chains together**
 
@@ -218,7 +218,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **predict:** Guess first. Which cup will make the firmest slime: 1, 3 or 6 teaspoons of borax water? Which one will spread out the most on the plate? Why do you think so?
 - **fair test:** Every cup gets the same glue, the same water and the same stirring time. Each ball is rolled the same way and measured at the same moments. Only the amount of borax water changes.
 - **safety:** Borax is harmful if swallowed and can sting the eyes. A grown-up mixes the borax water and keeps it out of reach. Nobody tastes the slime. Keep it away from babies, toddlers and pets. Wash hands with soap after every step that touches slime. Skip touching slime if your hands have cuts or a rash.
-- **record:** Fill in the table. Draw the three balls on the plate after 3 minutes, using the ruler to get the sizes right.
+- **record:** Fill in the table. Then take a photo of the three balls on the plate after 3 minutes, with the ruler beside them.
 - **results table:** Cup | Teaspoons of borax water | How it feels | Width at the start (cm) | Width after 3 minutes (cm) | Does it bounce?
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Put 1 level teaspoon of borax powder into the labelled tumbler. 2. Add half a cup of warm water. 3. Stir until the powder disappears. 4. Put the tumbler at the back of the table.  
@@ -228,17 +228,17 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **s2 (4 min)**  
   *Parent does:* 1. Put 2 tablespoons of glue and 1 tablespoon of water into each of the three cups. 2. Stir each cup until smooth. 3. Lift a spoonful and let it drip.  
   *Parent says:* Every cup gets exactly the same glue and water. Look how the glue drips off the spoon. Is it runny or thick?  
-  *Child mode:* Put 2 big spoons of glue in each cup. Add 1 big spoon of water. Stir. Lift the spoon. How does it drip?
+  *Child mode:* Put 2 big spoons of glue in each cup. Add 1 big spoon of water. Stir. Lift a spoonful and watch it drip.
   - Ask: How is the glue different from water when it drips? (good: It drips more slowly.; It makes long threads instead of drops.)
 - **s3 (3 min)**  
   *Parent does:* Ask for a guess and a reason before adding any borax. Write the guess down.  
   *Parent says:* We will add 1 teaspoon of borax water to the first cup, 3 to the second and 6 to the third. Which cup will make the firmest slime? Which will spread most on a plate? Why do you think so?  
-  *Child mode:* Cup 1 gets 1 teaspoon of borax water. Cup 3 gets 3 teaspoons. Cup 6 gets 6 teaspoons. Which slime will be firmest? Why? Write your guess.
+  *Child mode:* Cup 1 gets 1 teaspoon of borax water. Cup 3 gets 3 teaspoons. Cup 6 gets 6 teaspoons. Tell your grown-up which slime you think will be firmest, and why.
   - Note: Wait for a guess and a reason. Any reason is good. Do not explain cross-links yet.
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* 1. Add 1 teaspoon of borax water to cup 1, 3 teaspoons to cup 3 and 6 teaspoons to cup 6. 2. Stir each cup for one full minute, counting to 60. 3. Watch what happens to the glue.  
-  *Parent says:* Let's add the borax water and stir each cup for one minute. Watch the glue closely as you stir. What do you see happening?  
-  *Child mode:* A grown-up adds the borax water. Stir each cup and count to 60. What happens to the glue?
+  *Parent says:* Let's add the borax water and stir each cup for one minute. Watch the glue closely as you stir.  
+  *Child mode:* A grown-up adds the borax water. Stir each cup and count to 60. Watch the glue.
   - Ask: What happened to the glue as you stirred? (good: It got thick and lumpy.; It came together into a clump.; It stuck to the spoon and pulled away from the cup.)
   - Note: A grown-up spoons out the borax water. The glue should clump within a few seconds. Cup 1 may stay sticky and stringy, or never become a ball. That is a result too, so write it down. Cup 6 may leave a little water at the bottom: pour that away.
 - **s5 (5 min)**  
@@ -249,13 +249,13 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **s6 (6 min)**  
   *Parent does:* 1. Put the three balls on the steel plate at the same moment, a hand apart. 2. Measure the width of each ball straight away. 3. Start a timer for 3 minutes. 4. Measure each width again.  
   *Parent says:* Now we find out which slime is firmest. A firm slime holds its shape. A soft one spreads out. Let's measure them now and again after 3 minutes.  
-  *Child mode:* Put the balls on the plate. Measure how wide each is. Wait 3 minutes. Measure again. Which spread most?
+  *Child mode:* Put the balls on the plate. Measure how wide each is. Wait 3 minutes. Measure again.
   - Note: Measure across the middle of each ball. The firmest ball usually spreads only a little. A soft one can double in width.
   - Check: Which ball would you expect to spread least on the plate? → **The ball from cup 6**
 - **s7 (4 min)**  
   *Parent does:* 1. Take the ball from cup 3. 2. Hold it in two hands and pull your hands apart very slowly. 3. Roll it up again. 4. Now give it one quick, sharp tug.  
   *Parent says:* Let's try one more thing. Pull the slime very slowly. Now roll it up and pull it with one quick tug. What is different?  
-  *Child mode:* Pull your slime very slowly. What happens? Now pull it fast. What happens?
+  *Child mode:* Pull your slime very slowly. Then roll it up and give it one quick tug.
   - Ask: What happened when you pulled slowly, and when you pulled fast? (good: Slowly, it stretched into a long thread.; Fast, it snapped with a clean edge.)
   - Note: Pulled slowly, slime makes a long thin thread. A quick tug snaps it. The ties between chains keep letting go and joining again, which takes a moment. A slow pull gives them time. A fast pull breaks them first.
 - **s8 (3 min)**  
@@ -274,7 +274,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **predict:** Guess first. Will the balloon pop if a skewer goes into its side? What about the thick end near the knot? Why do you think so?
 - **fair test:** Blow every balloon to the same size, about three-quarters full. Use the same oiled skewer each time. Try each place on a new balloon, and try each place twice, because one try can be a fluke.
 - **safety:** A grown-up holds the skewer, because its point is sharp. Burst balloon pieces can choke small children, so pick them all up and keep them from anyone under 8. Do not use balloons if anyone in the family is allergic to latex.
-- **record:** Fill in the table. Draw a balloon and mark with a tick where the skewer went in safely and a cross where it popped.
+- **record:** Fill in the table. Put a tick where the skewer went in safely and a cross where the balloon popped.
 - **results table:** Balloon | Where the skewer went in | Popped? (yes or no)
 - **s1 (4 min)**  
   *Parent does:* 1. Blow up a balloon until it is about three-quarters full, not tight. 2. Tie the knot. 3. Look at two places: the top of the balloon, opposite the knot, and the rubber near the knot. 4. Mark both places with the marker.  
@@ -306,7 +306,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **predict:** Guess first. The strip is marked into ten squares, each 1 cm long. When you pull it, will every square stretch a little, or will some stretch a lot and others not at all? Why do you think so?
 - **fair test:** Use strips cut the same size from the same packet. Pull slowly and steadily, at about the same speed each time. Measure every square before and after.
 - **safety:** A grown-up cuts the strips with scissors.
-- **record:** Fill in the table. Draw the strip after pulling, showing which squares grew.
+- **record:** Fill in the table. Then lay the pulled strip beside the ruler and take a photo of it.
 - **results table:** Square number | Length before (cm) | Length after pulling (cm)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Cut open the washed packet so it lies flat. 2. Cut a strip 2 cm wide and 14 cm long. 3. Draw a line across it every 1 cm for the middle 10 cm. 4. Number the squares 1 to 10.  
@@ -331,7 +331,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **s5 (3 min)**  
   *Parent does:* Ask your child what they found, what they saw that shows it, and why they think it happened.  
   *Parent says:* Polythene chains start out coiled and tangled. Where the strip went narrow, the chains were pulled straight and lined up side by side. Lined-up chains are harder to stretch further. So the pull moved on to the next part. What did you find?  
-  *Child mode:* Say what you found. Did every part stretch the same? Why not?
+  *Child mode:* Say what you found. Did every part stretch the same? Why or why not?
   - Check: The narrow part stopped stretching, and the next part of the strip began to stretch. Why? → **Its chains were pulled straight and lined up, so it got harder to stretch**
 
 ## Activities
@@ -339,7 +339,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **s1 (3 min)**  
   *Parent does:* 1. Put the two bowls side by side. 2. Lift a forkful of rice. 3. Lift a forkful of noodles.  
   *Parent says:* Let's lift some rice, then some noodles. What do you notice?  
-  *Child mode:* Lift some rice with the fork. Now lift some noodles. What is different?
+  *Child mode:* Lift some rice with the fork. Now lift some noodles. Look at what comes up each time.
   - Ask: What happened to the rice, and to the noodles? (good: The rice grains fell off one by one.; The noodles came up in one clump.; The noodles hung down together.)
 - **s2 (3 min)**  
   *Parent does:* 1. Pick up one noodle by its end. 2. Pull it slowly out of the bowl.  
@@ -349,7 +349,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **s3 (4 min)**  
   *Parent does:* Talk about what the model shows.  
   *Parent says:* Water and sugar are made of small molecules, a bit like the rice grains. Glue, plastic and rubber are made of very long molecules, more like the noodles. What do you think long molecules do when they are crowded together?  
-  *Child mode:* Rice is like small molecules. Noodles are like long ones. What do long ones do together?
+  *Child mode:* Rice is like small molecules. Noodles are like long ones.
   - Ask: Why might a liquid made of long molecules drip slowly? (good: The long molecules tangle.; They hold on to each other, so they cannot slide past easily.)
   - Note: Tied noodles would stay together in one heap and could not slide apart. That is what borax does to glue.
   - Think: If you tied some noodles to each other with thread, what would the heap be like?
@@ -368,7 +368,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
 - **s3 (10 min)**  
   *Parent does:* 1. Let it cool for 10 minutes. 2. Pick it up and pull it slowly. 3. Compare it with the borax slime, if you made one.  
   *Parent says:* Now pull it slowly. Is it like the borax slime? What is the same, and what is different?  
-  *Child mode:* Is it cool? Pick it up. Pull it slowly. Is it like the borax slime?
+  *Child mode:* Let it cool. Pick it up and pull it slowly. Compare it with the borax slime, if you made one.
   - Ask: Why can isabgol make slime without any borax? (good: It is already made of long molecules.; The plant made long chains that hold on to each other and to water.)
   - Note: Isabgol slime is a wobbly, wet jelly. It is less bouncy than borax slime and may only make short strings when pulled slowly. Throw it in the dustbin after a day.
 ### a4 · The Burn Test: silk, wool, cotton or plastic? (15 min)
@@ -384,8 +384,8 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   - Note: Wool and silk burn slowly, curl away and smell like burnt hair, leaving black ash that crushes. Cotton burns fast with a yellow flame, smells like burnt paper and leaves soft grey ash. Polyester and nylon shrink from the flame, melt, and leave a hard bead.
 - **s3 (4 min)**  
   *Parent does:* Talk about what was the same and what was different.  
-  *Parent says:* Which thread smelled like burnt hair? Why might wool smell like your hair?  
-  *Child mode:* Which one smelled like hair? Why?
+  *Parent says:* Which thread smelled like burnt hair?  
+  *Child mode:* Point to the threads that smelled like burnt hair.
   - Ask: Why did wool and silk smell like burnt hair? (good: They are proteins, like hair.; They are made of the same kind of long chain as hair.)
 ### a5 · The Number in the Triangle: which plastic is it? (15 min)
 - **s1 (8 min)**  
@@ -395,20 +395,20 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   - Note: 1 is PET (water bottles), 2 is HDPE (stiff milk and shampoo bottles), 3 is PVC (pipes), 4 is LDPE (soft packets), 5 is polypropylene (tubs, buckets), 6 is polystyrene (thermocol, cups), 7 is other plastics. Some things have no number.
 - **s2 (7 min)**  
   *Parent does:* 1. Group the things by number. 2. Feel each group: stiff or soft, clear or cloudy.  
-  *Parent says:* Do things with the same number feel alike? What is different about number 4 and number 5?  
-  *Child mode:* Put things with the same number together. Do they feel alike?
+  *Parent says:* Do things with the same number feel alike? How is one group different from another?  
+  *Child mode:* Put things with the same number together. Feel each group.
   - Ask: Why do plastics with different numbers feel different? (good: They are different polymers.; Their chains are made of different small pieces.)
   - Note: Number 4 plastic is soft and bends, like a packet. Number 5 is stiffer, like a tub or a bucket. They are different polymers, made of different small pieces.
 
 ## Projects
 ### p1 · The Slime Diary: what happens to slime left in the air? (30 min, 4 days)
 - **safety:** Keep both balls out of reach of babies and pets. Wash hands with soap after touching slime.
-- **record:** Each day, write how each ball feels and how far it stretches before it breaks, and draw it.
+- **record:** Each day, write how each ball feels and how far it stretches before it breaks, and take a photo of both balls.
 - **schedule:** day 1: Split the slime into two balls. Put one in a closed box and one on an open saucer. Feel both and write how each feels. (10 min); day 2: Feel both. Try to stretch both. Write what you find. (5 min); day 3: Feel and stretch both again. (5 min); day 4: Compare them. Knead a few drops of water into the dry one. Does it soften? (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Split the slime into two balls of the same size. 2. Put one in the box and close the lid. 3. Put the other on the saucer in the open. 4. Write how each feels.  
   *Parent says:* Slime is long chains, tied together, with water between them. What will happen if the water can escape? Let's find out.  
-  *Child mode:* Make two balls. One goes in the box. One stays on the saucer. Which will change?
+  *Child mode:* Make two balls. One goes in the box. One stays on the saucer.
   - Ask: What do you think will happen to the ball on the open saucer? Why? (good: It will dry out, because its water evaporates.; It will go hard.)
 - **s2 (5 min)**  
   *Parent does:* Feel and stretch both balls. Write it down.  
@@ -444,7 +444,7 @@ That night, Meenakshi lay awake listening to the trees moving in the wind. Insid
   *Child mode:* Which ball won? Why do you think so?
 ### c2 · The Milk Packet Rope (30 min)
 - **problem:** Make a rope from one empty milk packet that can lift a one-litre bottle of water off the floor.
-- **your turn:** Now design your own rope. Draw your plan, make it, and lift the bottle. Does it hold?
+- **your turn:** Now design your own rope. Draw your plan or tell it to your grown-up, make it, and lift the bottle. Does it hold?
 - **constraints:** Use only one washed milk packet, and scissors.; No glue or tape.; The rope must be at least 30 cm long.
 - **general:** Cut the packet into long thin strips and twist them together.; Plait three strips, the way hair is plaited.; Cut the packet in a spiral to get one very long strip.
 - **creative:** Stretch the strips slowly before twisting, so their chains line up and they get stronger.; Twist two ropes together the opposite way, as rope makers do.; Fold a strip many times along its length before twisting.

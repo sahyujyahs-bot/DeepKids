@@ -230,8 +230,8 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Child mode:* Every card is a moment. Say 'keep going' or 'change'. Name the force if you can.
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together: the marble rolling onto a towel.  
-  *Parent says:* Practice card. A marble rolls onto a towel. Keep going or change?  
-  *Child mode:* Practice card. A marble rolls onto a towel. Keep going or change? Say your answer.
+  *Parent says:* Let's try one card together first. Picture a marble rolling onto a towel.  
+  *Child mode:* Practice card. Think about the marble. Say 'keep going' or 'change'.
   - Check: A marble rolls onto a towel. Keep going or change? → **Change, because friction from the towel slows it down**
 - **s3 (13 min)**  
   *Parent does:* Take turns until each player has had 5 cards. Keep score on the sheet.  
@@ -252,8 +252,8 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   - Note: Keep leans small and gentle, and hold the chair all the time.
 - **s2 (3 min)**  
   *Parent does:* Do one practice with the 'brakes suddenly' card, then put it back and shuffle.  
-  *Parent says:* Practice card. The bus brakes suddenly. Which way do you lean?  
-  *Child mode:* The bus brakes suddenly. Which way do you lean?
+  *Parent says:* Practice card. The bus brakes suddenly. Lean the way your body would go.  
+  *Child mode:* Hold the chair, lean, and freeze.
   - Check: The bus brakes suddenly. Which way does a passenger lean? → **Forward**
 - **s3 (8 min)**  
   *Parent does:* Read the cards one by one. Check each lean and give points.  
@@ -262,7 +262,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s4 (2 min)**  
   *Parent does:* Ask which card fooled people most.  
   *Parent says:* Which card fooled you? Why does steady speed feel like standing still?  
-  *Child mode:* Which card fooled you? Why does a smooth ride feel still?
+  *Child mode:* Which card fooled you?
   - Ask: Why does steady speed feel like standing still? (good: Nothing changes, so no force pushes you.; Your body moves along with the bus.)
 
 ## Experiments
@@ -270,12 +270,12 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **question:** If I let go of a pair of rolled socks right above a plate while I am walking, where will they land? Does it change if I walk faster?
 - **predict:** Guess first. Will the socks land on the plate, before it, or past it? Will walking faster change where they land? Why do you think so?
 - **fair test:** Use the same socks, the same plate and the same height every time: hold the socks at chest height, arm out to the side. Only the walking speed changes: standing still, slow walk, fast walk. Do 3 tries at each speed, because one try can be a fluke. The helper always says 'now' when your hand is right above the plate. Always measure from the centre of the plate to the middle of the socks.
-- **record:** Fill in the table. Draw two pictures: the path of the socks as you saw them, and as your helper saw them from the side.
+- **record:** Fill in the table. Then draw the path of the socks as you saw them from the side, or tell your grown-up about it.
 - **results table:** How I moved | Try 1: cm past the plate | Try 2 | Try 3 | Most common result
 - **s1 (3 min)**  
   *Parent does:* 1. Put the plate in the middle of a clear floor. 2. Mark a starting line about 2 metres before the plate with a slipper. 3. Show your child how to hold the rolled socks: arm out to the side, at chest height.  
   *Parent says:* We are going to drop these socks right above the plate. First, you guess. If I let go right above the plate while I walk, where will the socks land? On it, before it, or past it? Why do you think so?  
-  *Child mode:* Look at the plate on the floor. You will walk past it and let go of the socks. Where will they land? On the plate, before it, or past it? Why?
+  *Child mode:* Look at the plate on the floor. You will walk past it and let go of the socks right above it. Guess first.
   - Ask: Where will the socks land, and why do you think so? (good: Any guess with a reason is good. Many children say 'on the plate, because things fall straight down'. That is a fine guess to test.)
   - Note: Write down the guess and the reason before you start. Don't explain anything yet. Most children, and many grown-ups, guess the socks will land on the plate or just behind it.
 - **s2 (3 min)**  
@@ -286,7 +286,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s3 (6 min)**  
   *Parent does:* 1. Your child walks slowly from the starting line, the way they walk round the flat. 2. You watch from the side and say 'now' when their hand is right above the plate. 3. They let go at 'now', and keep walking. 4. Mark and measure where the socks land. 5. Do it 3 times.  
   *Parent says:* Now walk slowly past the plate. I'll say 'now' when your hand is right above it. Let go at 'now', and keep walking. Don't throw them, just open your hand.  
-  *Child mode:* Walk slowly past the plate. Let go when your helper says now. Just open your hand. Keep walking. Where did they land?
+  *Child mode:* Walk slowly past the plate. Let go when your helper says now. Just open your hand. Keep walking.
   - Note: Expect the socks to land past the plate, often about 20 to 50 cm past, in the direction your child was walking. Measure from the centre of the plate to the middle of the socks. If they land on the plate, check that your child is not stopping or pulling the hand back as they let go.
   - Check: You walk past a plate and let go of rolled socks right above it. Where do the socks land? → **Past the plate, in the direction you were walking**
 - **s4 (5 min)**  
@@ -297,7 +297,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s5 (4 min)**  
   *Parent does:* 1. Swap jobs: you walk and drop, and your child watches from the side, crouching low. 2. Ask them to watch the path of the socks in the air. 3. Then ask what the socks seemed to do when your child was the one walking.  
   *Parent says:* Now you watch from the side, and I'll walk. Watch the socks in the air very carefully. Do they fall straight down, or in a curve?  
-  *Child mode:* Now you watch from the side. Your helper walks and drops. Watch the socks in the air. Do they fall straight down, or in a curve?
+  *Child mode:* Crouch low and watch from the side. Your grown-up walks and drops. Watch the socks in the air.
   - Ask: What path did the socks take, seen from the side? (good: A curve, going forward and down.; Like a ball thrown gently forward.)
   - Ask: When you were the one walking, what did the socks seem to do? (good: They seemed to fall straight down beside my leg.; They stayed next to me as they fell.)
   - Note: Seen from the side, the socks fall in a forward curve. The person walking sees them fall almost straight down beside their leg, because the socks keep up with them. Both are true views of the same fall.
@@ -316,7 +316,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **predict:** Guess first. When you stop a spinning egg with one finger and let go, will it stay still or start turning again? Will a raw egg and a boiled egg do the same thing? Why do you think so?
 - **fair test:** Use eggs of about the same size, spun on the same plate. Stop each one with one fingertip for about one second, then lift your finger. Test each egg 3 times. You don't know which egg is which until the end, so you can't fool yourself.
 - **safety:** A grown-up boils the eggs and cools them in cold water before the child touches them. Wash hands with soap after touching raw eggs.
-- **record:** Fill in the table. Draw the inside of a raw egg and a boiled egg, and show with arrows what keeps turning.
+- **record:** Fill in the table. Draw the inside of a raw egg, with arrows for what keeps turning, or tell your grown-up about it.
 - **results table:** Egg | Easy or hard to spin fast? | Starts turning again after I stop it? Try 1 | Try 2 | Try 3 | My guess: raw or boiled
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Before your child comes in, hard-boil 2 eggs for about 10 minutes and cool them in cold water. 2. Mix them with 2 raw eggs of the same size. 3. Write A, B, C and D on them in pencil. 4. Note secretly which are raw.  
@@ -344,12 +344,12 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **predict:** Guess first. Put the three surfaces in order, from shortest roll to longest roll. Then guess: on ice, would it roll even further? Why do you think so?
 - **fair test:** Use the same marble, the same ramp at the same height, and let go from the same mark every time. Don't push the marble, just let go. Only the surface changes. Roll 3 times on each, because one try can be a fluke. Rest the ruler on the book in the same way every time.
 - **safety:** Pick up the marble after each roll so nobody slips on it. Keep marbles away from children under 3.
-- **record:** Fill in the table and draw a bar chart with one bar for each surface.
+- **record:** Fill in the table. Then make a bar chart with one bar for each surface: draw it, or cut a paper strip as long as each roll and line the strips up.
 - **results table:** Surface | Try 1 (cm) | Try 2 (cm) | Try 3 (cm) | Middle result (cm)
 - **s1 (4 min)**  
   *Parent does:* 1. Rest one end of the ruler on the book. 2. Lay the towel flat so the low end of the ruler touches it. 3. Mark a starting line near the top of the ruler with a pencil.  
   *Parent says:* We'll roll this marble down the same ramp onto three floors: a towel, a doormat and the bare floor. Which will it roll furthest on? Which shortest? Why?  
-  *Child mode:* Make a ramp with the ruler and a book. Which floor will the marble roll furthest on? The towel, the mat or the bare floor? Why?
+  *Child mode:* Make a ramp with the ruler and a book. Look at the three floors: the towel, the doormat and the bare floor.
   - Ask: Put the three surfaces in order, and say why. (good: Towel shortest, then the mat, then the floor, because the towel is rough and the floor is smooth.; Any order with a reason is a good guess.)
 - **s2 (9 min)**  
   *Parent does:* 1. Hold the marble at the starting line and let go, without pushing. 2. Mark where it stops with a coin. 3. Measure from the end of the ruler to the coin. 4. Do 3 rolls on each surface. 5. Write each one in the table.  
@@ -364,7 +364,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s4 (3 min)**  
   *Parent does:* Ask your child to imagine smoother and smoother floors. First ice, then something even more slippery. Last, a floor with no friction and no air.  
   *Parent says:* On ice, the marble would slide much further than on tiles. What if the floor were even more slippery than ice? And what if there were no friction and no air at all?  
-  *Child mode:* Imagine a floor of ice. Then one even more slippery. Then one with no friction and no air. How far would the marble roll?
+  *Child mode:* Imagine a floor of ice. Then one even more slippery. Then one with no friction and no air.
   - Ask: With no friction and no air at all, how far would the marble roll? (good: For ever.; It would never stop, because nothing would slow it.)
   - Note: This is the step that matters most. The pattern in your table points to it: less friction, longer roll. With nothing at all to slow it, the marble would keep rolling for ever. That is Newton's first law, worked out from your own results.
 - **s5 (5 min)**  
@@ -375,7 +375,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 
 ## Activities
 ### a1 · The Coin That Stays Behind (10 min)
-- **record:** Write 'slow pull' and 'fast flick', and draw where the coin went each time.
+- **record:** Write 'slow pull' and 'fast flick', and write or tell where the coin went each time.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the card on the tumbler and the coin in the middle of the card. 2. Your child pulls the card slowly sideways off the tumbler.  
   *Parent says:* Pull the card away slowly, sideways. What happens to the coin?  
@@ -389,10 +389,10 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s3 (3 min)**  
   *Parent does:* Talk about what happened. Don't give the answer before your child has tried to explain it.  
   *Parent says:* Nothing pushed the coin into the tumbler. So why did it end up inside?  
-  *Child mode:* Nothing pushed the coin down. So why did it fall into the tumbler?
+  *Child mode:* Think before you choose: what touched the coin, and for how long?
   - Check: You flick the card away fast, and the coin drops into the tumbler. Why? → **The coin stayed still while the card shot away, and then gravity pulled it down**
 ### a2 · The Water That Keeps Turning (10 min)
-- **record:** Draw the bowl from above with arrows showing how the water moved after you took the spoon out.
+- **record:** Draw the bowl from above with arrows showing how the water moved after you took the spoon out, or tell your grown-up which way it went.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the bowl on the counter and add a pinch of tea leaves. 2. Your child stirs fast in a circle for 10 strokes. 3. They lift the spoon out. 4. Count how many seconds the tea leaves keep going round.  
   *Parent says:* Stir the water fast, then lift the spoon out. Will the water stop when the spoon stops? Why? Let's count how long it keeps going.  
@@ -406,10 +406,10 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s3 (2 min)**  
   *Parent does:* Ask your child to explain both results.  
   *Parent says:* The moving water kept moving, and the still water stayed still. What does that tell you?  
-  *Child mode:* Moving water kept moving. Still water stayed still. Why?
+  *Child mode:* Moving water kept moving. Still water stayed still. Tell your grown-up what you think is going on.
   - Check: You stir water in a bowl and lift the spoon out. Why does the water keep turning? → **Because of inertia: moving water keeps moving until friction slows it**
 ### a3 · The Carrom Tower (10 min)
-- **record:** Write how many tries it took to knock out only the bottom coin, and draw the tower before and after.
+- **record:** Write how many tries it took to knock out only the bottom coin, and take a photo of the tower before and after, or tell your grown-up what the top coins did.
 - **s1 (3 min)**  
   *Parent does:* 1. Stack 6 coins in a neat tower in the middle of the board. 2. Put the striker flat on the board about 15 cm away, aimed at the bottom coin.  
   *Parent says:* If you hit the bottom coin hard, what will the rest of the tower do? Why do you think so?  
@@ -423,10 +423,10 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s3 (2 min)**  
   *Parent does:* Talk about why the fast hit works.  
   *Parent says:* Why did the coins on top drop straight down instead of flying off?  
-  *Child mode:* Why did the top coins drop straight down instead of flying off?
+  *Child mode:* Flick again. This time watch only the top coins.
   - Ask: Why did the top coins stay in place and drop straight down? (good: They were still and stayed still, because the bottom coin rubbed them for only a moment.; Inertia.)
 ### a4 · Tumbler on a Tray: start, stop and turn (10 min)
-- **record:** Draw the tray and tumbler three times: starting, stopping and turning. Show with an arrow which way the water slopped.
+- **record:** Tell your grown-up which way the water slopped when starting, stopping and turning. Then draw the tray once with an arrow for the stop, or skip the drawing.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the tumbler in the middle of the tray. 2. Your child holds the tray still, then pulls it forward suddenly, a short way.  
   *Parent says:* Guess first. If you pull the tray forward suddenly, which way will the water slop? Why?  
@@ -440,7 +440,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s3 (4 min)**  
   *Parent does:* Talk about what happens to passengers in a bus or an auto-rickshaw when it brakes.  
   *Parent says:* When the bus brakes suddenly, which way do the passengers lurch? Is that like the water?  
-  *Child mode:* When a bus brakes, which way do people lurch? Why? Is it like the water?
+  *Child mode:* Think of a bus braking. Is it like the water in the tumbler?
   - Check: You are standing in a city bus. The bus brakes suddenly. Which way does your body lurch? → **Forward, because your body keeps moving**
 ### a5 · Toss It on a Moving Train, Metro or Lift (10 min)
 - **safety:** A grown-up is with you all the time. Stay seated in a train or metro, toss the ball only a little way up, and do it only while the ride is smooth. Never lean out of a window or a door.
@@ -461,7 +461,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Child mode:* Shut your eyes on a smooth ride. Can you tell you are moving? Is the Earth moving now?
   - Ask: Why don't we feel the Earth moving? (good: Because it moves smoothly, and we move with it.; Like a smooth train, everything around us moves with us.)
 ### a6 · The Dough Passenger (15 min)
-- **record:** Draw where the passenger landed without a seatbelt and with one.
+- **record:** Show where the passenger landed without a seatbelt and with one: mark each place with a coin, take a photo, or tell your grown-up.
 - **s1 (4 min)**  
   *Parent does:* 1. Make a small dough person and press them gently onto the top of the toy car. 2. Prop one end of the tray on 2 books. 3. Put the heavy book across the bottom as a wall.  
   *Parent says:* Our dough passenger is going for a ride. When the car hits the book wall, what will happen to the passenger? Why?  
@@ -479,11 +479,11 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s4 (3 min)**  
   *Parent does:* Talk about real seatbelts and helmets.  
   *Parent says:* Why does everyone in a car need to wear a seatbelt, even in the back seat?  
-  *Child mode:* Why should everyone in a car wear a seatbelt, even at the back?
+  *Child mode:* Think about the dough passenger. What would happen to a real person?
   - Check: In the dough passenger test, what does the rubber band seatbelt do? → **It gives the force that stops the passenger along with the car**
 ### a7 · Swing It and Let Go (10 min)
 - **safety:** Do it in an open space, with nobody near you and nothing breakable around. Swing low and slowly. A grown-up watches.
-- **record:** Draw the circle from above, and a line showing the way the sock flew off.
+- **record:** Show the circle and the straight line the sock took after you let go: draw them, or lay a string on the floor in those shapes.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Your child holds the end of the string and swings the sock in a slow, low circle. 2. Ask what the string is doing to the sock.  
   *Parent says:* Swing it slowly. What is the string doing to the sock all the time?  
@@ -497,7 +497,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s3 (2 min)**  
   *Parent does:* Talk about why the sock flew off straight.  
   *Parent says:* Why did the sock go straight once you let go?  
-  *Child mode:* Why did the sock fly straight?
+  *Child mode:* Do it once more. Watch the sock just after you let go.
   - Ask: Why did the sock go straight when you let go? (good: The string stopped pulling, so nothing turned it.; Moving things go straight unless a force turns them.)
 
 ## Projects
@@ -524,7 +524,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 ## Challenges
 ### c1 · Save the Dough Passenger (30 min)
 - **problem:** A toy car rolls down a steep slope and hits a book wall. Design a way to keep a soft atta-dough passenger on the car and unsquashed.
-- **your turn:** Now invent your own way to save the passenger. Draw it, build it, and test it 3 times. Which part helped most?
+- **your turn:** Now invent your own way to save the passenger. Build it, and test it 3 times. Which part helped most?
 - **constraints:** Use only things from home.; The slope must be propped on at least 3 books.; The passenger must stay on the car, and keep their shape, in 3 tries out of 3.
 - **general:** A seatbelt made from a rubber band.; A soft bumper on the front of the car, such as a sponge, so the car stops more slowly.; A seat with a high back and sides, made from cardboard.
 - **creative:** A crumple zone: a folded paper box on the front of the car that squashes and makes the stop gentler.; An air bag: a small balloon, half blown up, taped in front of the passenger.; A soft wall instead of a hard book: does that help as much as changing the car?
@@ -533,9 +533,9 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
   *Parent says:* Watch what happens to the passenger with nothing to keep them safe. What goes wrong?  
   *Child mode:* Roll the car with nothing holding the passenger on. What happens to the passenger?
 - **s2 (15 min)**  
-  *Parent does:* Your child draws a design, then builds it from home materials.  
-  *Parent says:* What will keep the passenger on? What will make the stop gentler? Draw your idea first, then build it.  
-  *Child mode:* Draw your idea first. Then build it. Keep the passenger on. Make the stop gentle.
+  *Parent does:* Your child tells or sketches a plan, then builds it from home materials.  
+  *Parent says:* What will keep the passenger on? What will make the stop gentler? Tell me your idea first, or sketch it. Then build it.  
+  *Child mode:* Tell your idea first, or sketch it. Then build it. Keep the passenger on. Make the stop gentle.
 - **s3 (10 min)**  
   *Parent does:* Test it 3 times, and improve it after each try.  
   *Parent says:* Test it. Did the passenger stay on? Were they squashed? What will you change?  
@@ -554,7 +554,7 @@ Arun held the ball very still in his lap, as if it might fly away. Then he grinn
 - **s2 (15 min)**  
   *Parent does:* Your child builds a glider and tests it.  
   *Parent says:* What slows the plate down? How can you make less of it?  
-  *Child mode:* What slows the plate down? Build a glider with less friction. Test it.
+  *Child mode:* Build a glider with less friction. Test it.
   - Note: Friction is what slows it. Rolling on marbles or wheels gives much less friction than sliding. Children often discover this on their own.
 - **s3 (10 min)**  
   *Parent does:* Test 3 times and compare with the plain plate.  

@@ -750,7 +750,7 @@
      "id": "s2",
      "mins": 3,
      "do": "Before rolling, trace the whole path on the board together with one finger, saying each part's name.",
-     "say": "First, let's trace the road. Soil. Root hairs. Root. Stem. Veins. Leaf hole. Air. Rain. Which part comes straight after the root?",
+     "say": "First, let's trace the road. Soil. Root hairs. Root. Stem. Veins. Leaf hole. Air. Rain. ",
      "kid": "Trace the road with your finger. Say each part. Soil, root hairs, root, stem, veins, leaf hole, air, rain.",
      "check": {
       "t": "mcq",
@@ -768,7 +768,7 @@
      "id": "s3",
      "mins": 14,
      "do": "1. Take turns rolling and moving. 2. When someone lands on a star, they read a card out loud. 3. For an event card, ask them to say why the card makes sense before they move. 4. For a question card, another player checks the answer on the back.",
-     "say": "You got 'Hot sunny afternoon, move ahead 3'. Why would a hot sun make a drop move faster?",
+     "say": "Say a player lands on 'Hot sunny afternoon, move ahead 3'. Why would a hot sun make a drop move faster?",
      "kid": "Roll and move. Landed on a star? Take a card and read it. Say why it makes sense. Then move.",
      "ask": [
       {
@@ -929,8 +929,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Take the card 'Hot afternoon, soil is very dry' out of the pile and play it together as practice. It counts as card 1.",
-     "say": "Hot afternoon, and the soil is very dry. Open or close? Think about the water.",
-     "kid": "Practice card: hot afternoon, very dry soil. Open or close? Show your hands.",
+     "say": "We'll play the practice card together. Think about the water.",
+     "kid": "Show your hands: open or close?",
      "check": {
       "t": "mcq",
       "q": "Hot afternoon, and the soil is very dry. What do the leaf holes usually do?",
@@ -1562,7 +1562,7 @@
    "mins": 35,
    "days": 2,
    "question": "Does water really travel up a stem to the leaves and petals? Where does it go, and how long does it take?",
-   "predict": "Before you start, guess. Will the colour go up the stem? Will it reach the petals? How long will it take? Draw your guess, and say why you think so.",
+   "predict": "Before you start, guess. Will the colour go up the stem? Will it reach the petals? How long will it take? Say your guess, and why you think so.",
    "fair_test": "Stand one leaf or flower in coloured water and one in plain water. Use the same kind, cut the same way, in the same place. Only the colour of the water is different. Check both at the same times.",
    "results_table": [
     "Time since you started",
@@ -1611,14 +1611,14 @@
      "what": "Look the next day. A grown-up cuts the stem across. Look for coloured dots and draw them."
     }
    ],
-   "record": "Fill in the table at each check. Draw the petals or leaf, and the cut end of the stem.",
+   "record": "Fill in the table at each check. Draw the petals or leaf and the cut end of the stem, or take a photo of each.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Fill both glasses halfway with water. 2. Stir food colour into one glass until it is as dark as ink. Use about 1 teaspoon of liquid colour, or 2 big pinches of powder. 3. Ask your child to guess what will happen, and why, and to draw the guess.",
-     "say": "This glass has coloured water and this one has plain water. We'll stand a pale leaf or a white flower in each. What will happen to the one in the coloured water? Why do you think so? Draw your guess.",
-     "kid": "Put water in two glasses. Add lots of colour to one. What will happen to a pale leaf or white flower in it? Why? Draw your guess.",
+     "do": "1. Fill both glasses halfway with water. 2. Stir food colour into one glass until it is as dark as ink. Use about 1 teaspoon of liquid colour, or 2 big pinches of powder. 3. Ask your child to guess what will happen, and why, and to say the guess out loud.",
+     "say": "This glass has coloured water and this one has plain water. We'll stand a pale leaf or a white flower in each. Tell me what you think will happen to the one in the coloured water, and why.",
+     "kid": "Put water in two glasses. Add lots of colour to one. Say what will happen to a pale leaf or white flower in it. Say why.",
      "ask": [
       {
        "q": "Where do you think the colour will go?",
@@ -1661,9 +1661,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "The next day, look at the petals or the leaf with the magnifying glass. Draw what you see.",
+     "do": "The next day, look at the petals or the leaf with the magnifying glass. Ask your child to draw what they see, or to describe it to you.",
      "say": "Look at it now. Where is the colour darkest? What do the lines look like?",
-     "kid": "Look at the petals or the leaf. Where is the colour darkest? Draw the lines you see.",
+     "kid": "Look at the petals or the leaf. Where is the colour darkest? Draw the lines you see, or tell a grown-up what they look like.",
      "check": {
       "t": "mcq",
       "q": "In the Blue Climb, the pale leaf or white petals now have coloured lines. What does that show?",
@@ -1683,8 +1683,8 @@
      "mins": 6,
      "adult": true,
      "do": "1. Cut across the coloured stem about halfway up. For a cabbage leaf, cut across its thick white middle rib. 2. Let your child look at the cut end with the magnifying glass.",
-     "say": "Look at the cut end. What do you see? Why do you think the colour is in dots, and not everywhere?",
-     "kid": "Ask a grown-up to cut the stem across. Look at the end. Can you see coloured dots? Why dots?",
+     "say": "Look at the cut end. What do you see?",
+     "kid": "Ask a grown-up to cut the stem across. Look at the cut end. Count the coloured dots.",
      "ask": [
       {
        "q": "Why are there dots, and not colour everywhere?",
@@ -1743,7 +1743,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: water climbs up a stem through tiny tubes and goes into the petals. What I saw: the next day the petals had coloured lines and edges, and the cut stem had a ring of coloured dots. The plain flower stayed white. Why: the water carried the colour with it up the tubes, to the petals, where the water leaves into the air."
     }
    ],
-   "context": "This is the coloured-water experiment. You stand a pale leaf or a white flower in coloured water. The colour shows the hidden path that water takes up a plant.",
+   "context": "This is the coloured-water experiment. You stand a pale leaf or a white flower in coloured water. The colour shows the hidden path that water takes up a plant. You will find out whether water really climbs up inside a stem.",
    "example_chart": {
     "type": "line",
     "title": "Made-up example: how high the colour climbed up a see-through balsam stem",
@@ -1935,7 +1935,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the leaves pull water up the stem. What I saw: in 2 days the leafy stem's water went down 18 mm. The bare stem's went down only 3 mm. Why: water escapes from the leaves into the air, and that pulls more water up behind it. The bare stem has no leaves to let the water out."
     }
    ],
-   "context": "In this experiment you put two stems in two bottles of water. One stem has leaves and one has none. You measure which one drinks more.",
+   "context": "In this experiment you put two stems in two bottles of water. One stem has leaves and one has none. You will find out whether leaves make a stem drink more.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: how much the water level dropped in 2 days",
@@ -2009,7 +2009,7 @@
      "what": "Tie the bags on, wait 2 hours, then look, measure and compare."
     }
    ],
-   "record": "Fill in the table. Draw both bags, showing the mist and drops inside each one.",
+   "record": "Fill in the table. Take a photo of each bag, or draw them, showing the mist and drops inside.",
    "flow": [
     {
      "id": "s1",
@@ -2031,7 +2031,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. After 2 hours, look at both bags without taking them off. 2. Gently tap the drops down into a corner of each bag.",
-     "say": "Look inside the bags. What do you see? Where did those drops come from?",
+     "say": "Look inside the bags. What do you see?",
      "kid": "After two hours, look at the bags. Are they misty? Are there drops? Tap the drops into a corner.",
      "ask": [
       {
@@ -2081,7 +2081,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: leaves let out more water in the sun. What I saw: the sunny bag had about a teaspoon of water. The shady bag had only a few drops. Why: the sun warms the leaves and makes the water evaporate faster, so more water leaves through the leaf holes."
     }
    ],
-   "context": "In this experiment you tie clear bags over two leafy branches, one in the sun and one in the shade. You catch and measure the water the leaves let out.",
+   "context": "In this experiment you tie clear bags over two leafy branches, one in the sun and one in the shade. You catch and measure the water the leaves let out. You will find out whether sun makes leaves let out more water.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: water collected in 2 hours",
@@ -2155,7 +2155,7 @@
      "what": "Look at the flower the next day, and draw it."
     }
    ],
-   "record": "Draw the flower before and after. Colour in where each colour went.",
+   "record": "Take a photo of the flower before and after, or draw it and colour in where each colour went.",
    "flow": [
     {
      "id": "s1",
@@ -2170,8 +2170,8 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Put the two glasses side by side, one with blue water and one with red. 2. Hold the split end of the stem under water in the bowl. Snip a little off the end of each leg, so no air gets into the tubes. 3. Straight away, stand one leg in each glass. 4. Ask your child to guess what the flower will look like tomorrow.",
-     "say": "One leg drinks blue and one drinks red. What will the flower look like tomorrow? Will it go purple? Half and half? Draw your guess.",
-     "kid": "Ask a grown-up to snip each leg under water. Stand one leg in blue water and one in red water. What will the flower look like tomorrow? Draw it.",
+     "say": "One leg drinks blue and one drinks red. What will the flower look like tomorrow? Will it go purple? Half and half? Say your guess.",
+     "kid": "Ask a grown-up to snip each leg under water. Stand one leg in blue water and one in red water. What will the flower look like tomorrow? Tell your grown-up your guess.",
      "wait": "Leave for a day.",
      "adult": true
     },
@@ -2235,7 +2235,7 @@
      "what": "Act out water being pulled up a tube, and a bubble breaking the chain."
     }
    ],
-   "record": "Draw the chain of water people on the stairs, with the top one floating off as vapour.",
+   "record": "Tell someone at home what the water people did, and what the air bubble did. Or take a photo of your chain.",
    "flow": [
     {
      "id": "s1",
@@ -2266,8 +2266,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Now one person or toy in the middle lets go of hands: they are an air bubble. The top person leaves again. Can the people below the gap step up?",
-     "say": "Oh no, an air bubble! Someone in the middle let go. Now when the top drop leaves, can the bottom of the chain still be pulled up?",
-     "kid": "An air bubble! Someone in the middle lets go. Now the top one leaves. Can the bottom of the chain still move up?",
+     "say": "Oh no, an air bubble! Someone in the middle let go of hands. Now the top drop leaves again.",
+     "kid": "Someone in the middle lets go. The top one leaves. Watch the people below the gap.",
      "check": {
       "t": "mcq",
       "q": "In the Water Chain, someone in the middle let go of hands, like an air bubble. What happens to the people below the gap?",
@@ -2289,7 +2289,7 @@
      "think": "Why do flower sellers cut stems under water? Think about the person in the Water Chain who let go and became an air bubble."
     }
    ],
-   "context": "This is a short play on a staircase. People hold hands to act out water climbing up a tube in a plant, pulled from the top.",
+   "context": "This is a short play on a staircase. People hold hands to act out water climbing up a tube in a plant, pulled from the top. You will feel why a bubble in the tube is a problem.",
    "setup": [
     {
      "art": "A family standing in a line up a staircase holding hands, a paper leaf stuck on the wall at the top and a paper root at the bottom.",
@@ -2331,14 +2331,14 @@
      "what": "Leave a small bunch out from the morning until it wilts. Then revive it, and check after an hour."
     }
    ],
-   "record": "Draw the bunch before and after. Write how long they took to stand up.",
+   "record": "Take a photo of the bunch before and after, or draw it. Write how long they took to stand up.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Leave a small bunch of coriander out of the fridge from the morning, until the leaves wilt in a few hours. Feel them with your child. Draw the floppy bunch.",
-     "say": "Feel these leaves. They are soft and floppy. Why do you think they have gone like this?",
-     "kid": "Touch the floppy coriander. Are they soft or crisp? Why do you think they drooped? Draw the bunch.",
+     "do": "Leave a small bunch of coriander out of the fridge from the morning, until the leaves wilt in a few hours. Feel them with your child. Take a photo of the floppy bunch.",
+     "say": "Feel these leaves. They are soft and floppy.",
+     "kid": "Touch the floppy coriander. Are they soft or crisp? Ask a grown-up to take a photo of the bunch.",
      "ask": [
       {
        "q": "Why have they wilted?",
@@ -2363,9 +2363,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "After an hour, feel and look at the bunch again. Compare with the drawing.",
-     "say": "Feel them now. What changed? Where did the stiffness come from?",
-     "kid": "After one hour, touch them again. Are they crisp now? How did the water get into the leaves?",
+     "do": "After an hour, feel and look at the bunch again. Compare with the photo.",
+     "say": "Feel them now. What changed?",
+     "kid": "After one hour, touch them again. Are they crisp now?",
      "check": {
       "t": "mcq",
       "q": "The wilted coriander stood in water for an hour and became crisp again. Why?",
@@ -2436,14 +2436,14 @@
      "what": "Watch bubbles come out of a leaf, and look for leaf holes."
     }
    ],
-   "record": "Draw the leaf, with dots where the bubbles came out. Write which side had more bubbles.",
+   "record": "Write how many bubbles came from each side, and which side had more.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "adult": true,
      "do": "1. Fill the glass bowl with hot water from a kettle that has cooled for 5 minutes. 2. Push a fresh leaf under the water with a spoon and hold it there. 3. Watch both sides of the leaf closely for a minute or two.",
-     "say": "Watch the leaf carefully. Do you see tiny bubbles? Which side are they coming from?",
+     "say": "Watch the leaf carefully. Do you see tiny bubbles?",
      "kid": "Ask a grown-up for hot water in a bowl. The grown-up pushes a leaf under the water. Watch closely. Can you see tiny bubbles?",
      "ask": [
       {
@@ -2559,8 +2559,8 @@
      "id": "s3",
      "mins": 6,
      "do": "Compare the paper, the straw and a tall tree.",
-     "say": "The paper lifted water a few centimetres. The best pump in the world could lift it about 10 metres by sucking. But the tallest tree is about 116 metres tall. So how does a tree lift water?",
-     "kid": "Paper lifts water a little. Sucking lifts it up to 10 metres at most. The tallest tree is 116 metres! So how does a tree lift water?",
+     "say": "The paper lifted water a few centimetres. The best pump in the world could lift it about 10 metres by sucking. But the tallest tree is about 116 metres tall.",
+     "kid": "Paper lifts water a little. Sucking lifts it up to 10 metres at most. The tallest tree is 116 metres!",
      "check": {
       "t": "mcq",
       "q": "Paper lifts water a few centimetres, and sucking can lift it about 10 metres at most. How does water reach the top of a 116 metre tree?",
@@ -2613,7 +2613,7 @@
      "what": "Look for water drops on grass and leaves just after sunrise."
     }
    ],
-   "record": "Draw a grass blade with a drop at its tip. Draw a leaf covered in tiny dew drops. Write how they are different.",
+   "record": "Say or write how the two kinds of drops are different. Take a photo of each, or draw them.",
    "flow": [
     {
      "id": "s1",
@@ -2802,7 +2802,7 @@
      "id": "s4",
      "mins": 4,
      "do": "1. Look at the bar chart and the weather together. 2. Then water the plant and take the plastic off.",
-     "say": "Which weather made the plant let out the most water? Why do you think that is?",
+     "say": "Which weather made the plant let out the most water?",
      "kid": "Look at your bars. Which day was tallest? What was the weather that day?",
      "ask": [
       {
@@ -2869,7 +2869,7 @@
     "Leave the best wick for a whole day. Watch how fast it climbs at first, and how it slows down and stops.",
     "Stand a leafy stem in the water and tie a clear bag over its leaves. The water climbs the whole stem and comes out into the bag. A plant lifts water higher than any wick."
    ],
-   "your_turn": "Now invent your own water lifter. Draw it, try it, and measure how high the water climbed in 24 hours.",
+   "your_turn": "Now invent your own water lifter. Build it, try it, and measure how high the water climbed in 24 hours.",
    "flow": [
     {
      "id": "s1",
@@ -2883,9 +2883,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Before trying, draw or write three ideas together.",
+     "do": "Before trying, pick three ideas together from the things on the table.",
      "say": "Engineers plan first. What have you seen that makes water climb by itself? Which do you think will lift it highest, and why?",
-     "kid": "Plan first, like an engineer. Draw three ideas. What makes water climb by itself?"
+     "kid": "Plan first, like an engineer. Pick three things that might make water climb by itself, and say why."
     },
     {
      "id": "s3",
@@ -2958,7 +2958,7 @@
     "Move the plant into the shade and out of the wind while you are away, so they let out less water.",
     "Group several pots close together so they keep the air around them damp."
    ],
-   "your_turn": "Now design your own plant sitter. Draw it, and test it for 3 days before the holiday. Each day, weigh the pot or push a finger into the soil to check it is still damp.",
+   "your_turn": "Now design your own plant sitter. Sketch it or describe it, and test it for 3 days before the holiday. Each day, weigh the pot or push a finger into the soil to check it is still damp.",
    "flow": [
     {
      "id": "s1",
@@ -2971,9 +2971,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Draw three designs. For each one, ask: does it bring water in, or stop water leaving?",
+     "do": "Plan three designs. Sketch them, or talk them through. For each one, ask: does it bring water in, or stop water leaving?",
      "say": "There are two ways to help. Bring water in slowly. Or stop so much leaving. Which do your designs do?",
-     "kid": "Draw three designs. Does each one bring water in? Or stop water leaving?",
+     "kid": "Plan three designs, by sketching or by talking. Does each one bring water in? Or stop water leaving?",
      "check": {
       "t": "mcq",
       "q": "In the Holiday Plant Sitter, you put a clear bag over the whole plant like a tent. How does that help?",

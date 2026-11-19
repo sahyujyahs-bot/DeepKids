@@ -208,7 +208,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **s2 (2 min)**  
   *Parent does:* Play the card 'A ball of atta dough on the floor' as a practice round.  
   *Parent says:* Practice card. A ball of atta dough falls on the floor. Bounce or thud?  
-  *Child mode:* Practice card. A ball of atta dough falls on the floor. Bounce or thud?
+  *Child mode:* Think about how atta dough feels when you squash it.
   - Check: A ball of atta dough falls on a hard floor. What happens? → **It lands with a thud and goes flat**
 - **s3 (9 min)**  
   *Parent does:* Take turns to play cards, following the rules. Do the TEST IT cards when they come up.  
@@ -217,7 +217,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **s4 (2 min)**  
   *Parent does:* Add up the points. Ask which card surprised everyone most.  
   *Parent says:* Which card surprised you? What does a bounce need?  
-  *Child mode:* Count your points. What two things does a high bounce need?
+  *Child mode:* Count your points. Which card surprised you most?
   - Ask: What two things does a high bounce need? (good: A ball that springs back, and a surface that does not squash.; Something elastic, and a hard floor.)
 ### g2 · Sports Day Freeze: what is pushing what? (15 min)
 - **rules:** Cut out the 13 cards, shuffle them and put them face down. Each card has a sport on the front, and a push or pull on the back.; On your turn, pick a card and read it to yourself. Act out the sport without speaking.; Another player calls 'Freeze!' and you stop still. With 2 players, the other player calls 'Freeze!' and also guesses.; The others guess the sport. Then you say one push or pull acting on your body at that moment. The back of the card helps.; The player who guesses the sport gets 1 point. The actor gets 1 point for naming a force correctly.; Play until everyone has acted 3 times, or the cards run out. Most points wins. If points are equal, you share the win.
@@ -256,7 +256,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **s2 (3 min)**  
   *Parent does:* 1. Lay the five surfaces in a row near the wall. 2. Show your child each one, and ask for a guess.  
   *Parent says:* Here are five surfaces: the bare floor, a doormat, a folded bedsheet, a pillow and a plate of rice. Which will give the highest bounce? Which the lowest? Why do you think so?  
-  *Child mode:* Look at the five surfaces. Which gives the highest bounce? Which the lowest? Why? Write your order.
+  *Child mode:* Look at the five surfaces. Put them in order, from the highest bounce to the lowest. Write your order.
   - Ask: Why do you think that surface will give the highest bounce? (good: Because it is hard.; Because it does not squash.; Because the ball bounces well on the floor when I play.)
   - Note: Wait for a guess and a reason. Don't say whether it is right. The test will answer it.
 - **s3 (4 min)**  
@@ -278,7 +278,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **s6 (2 min)**  
   *Parent does:* 1. Drop the ball onto the pillow 10 times quickly. 2. Your child presses the pillow and listens to each landing.  
   *Parent says:* The ball fell 100 cm onto the pillow and hardly came back up. Where did its movement go? Listen and feel.  
-  *Child mode:* Listen to the ball land on the pillow. Feel the dent. Where did the bounce go?
+  *Child mode:* Listen to the ball land on the pillow. Press the pillow and feel the dent.
   - Ask: The ball fell fast. On the pillow it stopped and stayed. What happened to the pillow? (good: It squashed.; It made a dent.; It took the bounce.; It went down and came back up slowly.)
   - Note: The warmth is far too small to feel. The dent and the soft thud are what your child will notice. Both are signs of the pillow squashing and rubbing on itself.
 - **s7 (5 min)**  
@@ -291,7 +291,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **predict:** Guess first. We will roll a marble from three heights on a ramp, so it leaves the table slowly, faster and fastest. Will it land in the same place each time, or further each time? Why do you think so?
 - **fair test:** Use the same marble, the same ramp and the same table each time. Change only how high up the ramp you let go. Let go without pushing. Do each height 3 times, because one try can be a fluke.
 - **safety:** Pick up the marble after each try. A marble on the floor can make someone slip, and small children may put it in their mouth.
-- **record:** Fill in the table. Draw the table from the side, with three curved paths, one for each height.
+- **record:** Fill in the table. Then draw the three paths from the table edge to the dents, or trace them in the air and tell your grown-up which went furthest.
 - **results table:** Start height on the ramp (cm) | Try 1 (cm from the table) | Try 2 | Try 3 | Middle number
 - **s1 (4 min)**  
   *Parent does:* 1. The ruler is the ramp. Lay it on the table with its low end about 10 cm from the table edge. 2. Lift the other end on books. 3. Hang the key on its thread from the table edge, so it just touches the floor. 4. Mark that spot on the floor with a pencil or a bit of tape.  
@@ -301,7 +301,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **s2 (3 min)**  
   *Parent does:* 1. Mark three start points on the ramp, 5 cm, 10 cm and 20 cm above the table. 2. Ask for a guess.  
   *Parent says:* From higher up the ramp, the marble will be going faster when it leaves the table. Will it land in the same place, or further away? Why do you think so?  
-  *Child mode:* Higher up the ramp means a faster marble. Where will the marble land each time? Why?
+  *Child mode:* Higher up the ramp means a faster marble. Make a guess, and say why.
   - Ask: Where do you think the fastest marble will land? (good: Further from the table.; In the same place, because it falls the same height.)
   - Note: Measure the start heights straight up from the table top with the ruler, not along the ramp. Both guesses are common and sensible. Let the test decide.
 - **s3 (3 min)**  
@@ -311,14 +311,14 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   - Note: Smooth the rava flat with your hand after each try, so each new dent is easy to see.
 - **s4 (8 min)**  
   *Parent does:* 1. Let go of the marble from the 5 cm mark, 3 times. 2. Each time, measure from the floor mark to the dent. 3. Do the same from 10 cm and from 20 cm, moving the plate if needed.  
-  *Parent says:* Just open your fingers, don't push. Watch the path of the marble as it falls. Is it straight down, or a curve?  
+  *Parent says:* Just open your fingers, don't push. Watch the marble as it leaves the table edge.  
   *Child mode:* Let the marble go from the 5 cm mark. Measure from the floor mark to the dent in the rava. Then do the same from 10 cm, and from 20 cm.
   - Note: The marble flies fast. Your child may only see a blur. A slow-motion phone video, taken from the side, shows the curve clearly.
   - Check: As the marble flies off the table, what path does it follow? → **A curve that bends down more and more**
 - **s5 (2 min)**  
-  *Parent does:* Ask your child to draw the table from the side, with three curved paths ending at the three dents.  
-  *Parent says:* Draw the three paths. Do they all start in the same place? Where do they end?  
-  *Child mode:* Draw the table from the side. Draw three paths. Where does each end?
+  *Parent does:* Put a coin beside each of the three dents. Ask your child to trace each marble's path in the air with a finger, from the table edge to its coin.  
+  *Parent says:* Show me each path with your finger. Do they all start in the same place? Where do they end?  
+  *Child mode:* Trace each path in the air with your finger. Start at the table edge and end at the coin. Which goes furthest?
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -329,7 +329,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **predict:** Guess first. Will swinging your arms make your jump longer, shorter, or the same? Why do you think so?
 - **fair test:** The same child jumps from the same line, on the same floor, both ways. Change only what the arms do. Do the two kinds of jump in turns: one jump with arms behind the back, then one with arms swinging, three times each. That way neither kind gets all the jumps on fresh legs. Rest a little between jumps, so tiredness does not spoil the test.
 - **safety:** Jump barefoot, because socks slip on tiles. Move rugs, toys and furniture away from the landing place.
-- **record:** Fill in the table. Draw yourself jumping both ways.
+- **record:** Fill in the table. Then say which jump was longer, or take a photo of each landing.
 - **results table:** How I jumped | Jump 1 (cm) | Jump 2 (cm) | Jump 3 (cm) | Middle number (cm)
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Stick a tape line across the floor. 2. Clear 2 metres of floor in front of it. 3. Ask for a guess.  
@@ -367,12 +367,12 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **s3 (2 min)**  
   *Parent does:* Ask which was harder, what their feet did on the mattress, and why. Wait for the answers. Don't explain yet.  
   *Parent says:* Which was harder? What did your feet do on the mattress that they didn't do on the floor? Why do you think it was harder?  
-  *Child mode:* Which was harder? What did your feet do on the mattress? Why?
+  *Child mode:* Which was harder? What did your feet do on the mattress?
   - Ask: Why do you think the mattress was harder? (good: My feet sank in.; It didn't push me back up.; It was soft and wobbly.)
   - Note: Leave the question open for now. The Bounce Test will help your child explain it.
 ### a2 · Watch the Curve: a toss and a water jet (10 min)
 - **safety:** A grown-up makes the hole in the bottle. Do the water part in the bathroom or on the balcony.
-- **record:** Draw the path of the ball and the path of the water. Are they the same shape?
+- **record:** Draw the path of the ball and the path of the water, or tell your grown-up if they were the same shape.
 - **s1 (4 min)**  
   *Parent does:* 1. Stand about 3 metres apart. 2. Toss the soft ball gently to each other 5 times. 3. Your child watches the ball's path, not the catcher.  
   *Parent says:* Watch the ball, not me. Does it go in a straight line, or does it bend?  
@@ -384,13 +384,13 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   - Ask: When you squeeze harder, what happens to the water's path? (good: It goes further.; The curve gets longer.; It is faster, so it lands further away.)
   - Note: Hold the bottle level, so the jet starts out flat. A harder squeeze makes the water leave faster, so the jet reaches further before it falls into the bucket.
 - **s3 (2 min)**  
-  *Parent does:* Your child draws both paths side by side.  
-  *Parent says:* Draw the ball's path and the water's path. Are they the same shape?  
-  *Child mode:* Draw the ball's path. Draw the water's path. Same shape?
+  *Parent does:* Your child traces the ball's path and the water's path in the air with a finger, one after the other.  
+  *Parent says:* Show me the ball's path with your finger. Now show me the water's path. Are they the same shape?  
+  *Child mode:* Trace each path in the air with your finger. Look at the two shapes.
   - Check: Why does the water jet bend down? → **Gravity pulls each drop down as it moves forward**
 ### a3 · Not in the Middle: make a ball spin (10 min)
 - **safety:** Use a light ball indoors, away from glass and the TV.
-- **record:** Draw the ball from above with an arrow for each flick: middle and side.
+- **record:** Say which flick made the ball spin, the middle one or the side one. Take a photo of the ball if you like.
 - **s1 (3 min)**  
   *Parent does:* Your child puts the ball on the floor and flicks it with a finger, right at its middle, 3 times.  
   *Parent says:* A flick is like a tiny kick. Flick it right at its middle. Where does it go?  
@@ -402,15 +402,15 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
   - Ask: What changed when you flicked the ball away from its middle? (good: It spun.; It went sideways.; It turned.; It jumped up.)
   - Note: A flick at the side makes the ball spin and move off at an angle. A flick low down may make it skid or hop, and what you see depends on the floor. Draw a dot on the ball with a pen to see the spin easily.
 - **s3 (3 min)**  
-  *Parent does:* Ask how a footballer could make a ball spin on purpose.  
-  *Parent says:* Footballers kick the side of the ball on purpose. A spinning ball curves in the air. Why would a footballer want the ball to curve?  
-  *Child mode:* A spinning ball curves in the air. Why would a footballer want that?
+  *Parent does:* Ask why a footballer might want a ball to curve in the air.  
+  *Parent says:* Footballers kick the side of the ball on purpose, so it spins and curves in the air. What could a curve help them do?  
+  *Child mode:* Think of a footballer kicking at a goal with players standing in the way. How could a curve help?
   - Check: You kick a football right through its middle. What will the ball most likely do? → **Go straight without much spin**
 ### a4 · Soft Hands: catch a water balloon (10 min)
 - **safety:** Do this in the bathroom or on a balcony. Pick up every bit of burst balloon, because small children can choke on balloon pieces.
 - **record:** Write what happened with stiff hands and with soft hands.
 - **s1 (2 min) · grown-up needed**  
-  *Parent does:* Fill the balloons about half full with water and tie them. Stand about 2 metres apart.  
+  *Parent does:* Fill the balloons about half full with water and tie them. Go outside or to a balcony, and stand about 2 metres apart.  
   *Parent says:* We will catch water balloons. First with stiff hands that don't move, then with soft hands that move back with the balloon. Which way will be gentler on the balloon? Why?  
   *Child mode:* Stiff hands or soft hands. Which is gentler on the balloon? Why?
 - **s2 (3 min)**  
@@ -426,15 +426,15 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **s4 (2 min)**  
   *Parent does:* Ask what was different.  
   *Parent says:* What was different between the two catches? Where else do people use soft hands?  
-  *Child mode:* What was different? Where else do people catch with soft hands?
+  *Child mode:* What was different between the two catches? Which one was gentler on the balloon?
   - Ask: Where else do people catch with soft hands? (good: A cricketer catching a hard ball.; A goalkeeper pulling the ball to their chest.; Catching an egg without breaking it.)
 ### a5 · Sport Spotting: watch a match like a scientist (15 min)
 - **safety:** If you watch a game outside, stay at the edge, away from the ball.
 - **record:** Make a tally: one mark for each thing you spot.
 - **s1 (2 min)**  
-  *Parent does:* Draw five rows in the notebook: bounce, curved throw, spin, soft catch, push on the ground.  
+  *Parent does:* Write these five names down the notebook page, one on each line: bounce, curved throw, spin, soft catch, push on the ground.  
   *Parent says:* Let's watch a match like scientists. Each time you spot one of these, make a mark.  
-  *Child mode:* Draw five rows: bounce, curved throw, spin, soft catch, push on the ground.
+  *Child mode:* Write these five names down the page, one on each line: bounce, curved throw, spin, soft catch, push on the ground.
 - **s2 (10 min)**  
   *Parent does:* Watch the match together for 10 minutes. If you can pause it, pause when your child spots something. Ask them to say what is pushing on what.  
   *Parent says:* What did you spot? What pushed on what? Why did it move that way?  
@@ -443,7 +443,7 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **s3 (3 min)**  
   *Parent does:* Count the tallies together.  
   *Parent says:* Which did you spot most? Choose one mark and say what pushed on what.  
-  *Child mode:* Count your marks. Which did you see most?
+  *Child mode:* Count your marks. Pick one thing you spotted, and say what pushed on what.
 
 ## Projects
 ### p1 · Build a Rubber Band Ball, and test it on every floor (40 min, 2 days)
@@ -473,14 +473,14 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 ## Challenges
 ### c1 · The Bounciest Floor: make a mini trampoline (30 min)
 - **problem:** A pillow takes the bounce away, but a trampoline is soft and gives the bounce back. Make a small surface, softer than the floor, that still gives a ball a good bounce. A trampoline works because its tight cover squashes down and springs back fast, while the ball is still touching it. A pillow springs back too slowly.
-- **your turn:** Now design your own mini trampoline. Draw it, build it and drop the ball on it. Does it beat the pillow? Does it beat the floor?
+- **your turn:** Now design your own mini trampoline. Build it and drop the ball on it. Sketch a plan first if you like. Does it beat the pillow? Does it beat the floor?
 - **constraints:** Use only things from home.; Drop the ball from 100 cm, as in the bounce test.; Your surface must squash when the ball lands. You should see it move.
 - **general:** Stretch a cloth tight over the mouth of a bucket and tie it with string, like a drum.; Stretch a cut balloon over a steel tumbler or small vessel with a rubber band.; Pull a plastic bag tight between two chairs and tape it.
 - **creative:** A trampoline uses springs round the edge. Try hooking rubber bands between the cloth and the bucket handle.; Try the same cloth stretched tight, then a little loose. Which gives the higher bounce?; A drum skin springs back fast. Does a bigger drum give a better bounce than a small one?
 - **s1 (5 min)**  
   *Parent does:* Remind your child of the bounce test. Read the problem together.  
   *Parent says:* The pillow squashed and gave no bounce back. A trampoline is soft too, but it springs back fast. Can you make one?  
-  *Child mode:* A pillow takes the bounce away. A trampoline gives it back. Can you make one?
+  *Child mode:* Your challenge is to make a soft surface that gives a good bounce.
 - **s2 (15 min)**  
   *Parent does:* Your child builds one of the ideas, or their own, and tests it.  
   *Parent says:* Build it, then drop the ball from 100 cm. What bounce do you get?  
@@ -489,12 +489,12 @@ Nila smiled and wrote one more line in her notebook: 'The ground runs with you. 
 - **s3 (10 min)**  
   *Parent does:* Try one change, such as tighter or looser, and test again.  
   *Parent says:* What one change will make it better? Try it. Why did that help?  
-  *Child mode:* Change one thing. Test again. Better or worse? Why?
+  *Child mode:* Change one thing. Test again. Is the bounce better or worse?
   - Ask: Why does a tight cloth give a better bounce than a pillow? (good: It springs back fast enough to push the ball up.; The pillow springs back too slowly.; Both squash, but the cloth is quicker to spring back.)
   - Note: Both the pillow and the cloth squash when the ball lands. The tight cloth springs back fast, while the ball is still touching it, so it pushes the ball up. The pillow is too slow. A trampoline is softer than the floor, not harder.
 ### c2 · Feet for Sand: how not to sink (25 min)
 - **problem:** Soft sand is hard to walk and run on, because feet sink in. Camels walk across deserts of soft sand every day. Find a way for a 'foot' to sink less into soft ground.
-- **your turn:** Now design a foot that sinks least. Draw it, make it and test it with the same bottle. What made it work?
+- **your turn:** Now design a foot that sinks least. Make it and test it with the same bottle. Sketch it first if you like. What made it work?
 - **constraints:** Use a tray of dry rava, atta or sand as the soft ground.; Use the same weight on each foot you test, such as a full water bottle.; Measure how deep each foot sinks.
 - **general:** Stand the bottle straight on the rava and see how deep it sinks.; Tape a wide piece of cardboard under the bottle, and test again.; Try a plastic lid, a katori and a bottle cap as feet.
 - **creative:** Camels need to cross soft sand to reach food and water. Their feet are wide, with a thick pad that spreads out as they step. Copy that with a soft, wide foot.; People in snowy places wear wide snowshoes to walk on snow. Design a sand-shoe.; Does a foot with holes in it sink more or less than a solid one?

@@ -297,7 +297,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - **s2 (3 min)**  
   *Parent does:* Read the practice card, 'A big stone and a small stone, from a bridge into a river', as a practice round. No points. Then set that card aside.  
   *Parent says:* Practice card: a big stone and a small stone, dropped from a bridge together. Show your token!  
-  *Child mode:* Practice card: two stones fall from a bridge. One is big. One is small. Which lands first? Show your token.
+  *Child mode:* Practice round, no points. Pick a token. Everyone shows it together.
   - Check: A big stone and a small stone fall from a bridge together. Which lands first? → **TOGETHER**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns turning over a card and reading the front out. 2. Everyone shows a token, or says a guess on a TEST IT or TALK IT card. 3. Read the back and give points. 4. On a TEST IT card, do the test together.  
@@ -307,7 +307,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - **s4 (3 min)**  
   *Parent does:* Look out for the card about two weights tied together. When it comes up, stop and talk about Galileo's puzzle.  
   *Parent says:* Aristotle said heavy things fall faster. So would the tied pair fall faster, because it is heavier? Or slower, because the light one holds it back? It cannot be both!  
-  *Child mode:* Tied weights card! If heavy falls faster, the pair should be faster. But the light one should slow it down. It can't be both! So what is true?
+  *Child mode:* Tied weights card! If heavy falls faster, the pair should be faster. But the light one should slow it down. It can't be both!
   - Ask: So which is true? (good: They all fall together.; Heavy things don't fall faster at all.)
   - Think: Galileo proved this just by thinking, without dropping anything. What two things did his tied pair have to do at once, which cannot both be true?
 - **s5 (2 min)**  
@@ -332,8 +332,8 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Note: Card 6 is a trick card: 'Make a ball float with nothing touching it.' Let your child try for a minute. Then read the answer. The point is that nothing stays up unless something pushes it up, like the air or a hand.
 - **s3 (4 min)**  
   *Parent does:* When card 3 comes up, stop and talk about it.  
-  *Parent says:* One marble rolled and one dropped. Did the rolled one take longer to land? Listen again and see.  
-  *Child mode:* One marble rolled and one dropped. Did they land together? Try it again!
+  *Parent says:* Listen for one thud or two. Try it a few times.  
+  *Child mode:* Roll one marble off the table edge. Drop the other at the same moment. Listen!
   - Check: One marble rolls off a table edge. A second marble drops straight down at the same moment. Which lands first? → **They land together**
 - **s4 (3 min)**  
   *Parent does:* Count the points. Then ask the question about card 4 and card 6.  
@@ -380,21 +380,21 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - **question:** Why does a sheet of paper fall slowly? Is it because it is light?
 - **predict:** Guess first. A flat sheet of paper and a crumpled sheet weigh exactly the same. Will they fall together? What will a small flat sheet do if you lay it on top of a book and drop the book? Say why you think so.
 - **fair test:** Use two sheets of the same paper, the same size. Change only their shape: one flat and one crumpled. Drop them from the same height at the same moment. Do each drop 3 times.
-- **record:** Fill in the table. Draw the flat sheet falling, and draw arrows to show the air pushing up on it.
+- **record:** Fill in the table. Draw the flat sheet falling, with arrows for the air pushing up on it. Or tell your grown-up where the air pushes.
 - **results table:** What we dropped | My guess | What happened
 - **s1 (3 min)**  
   *Parent does:* 1. Hold a flat sheet of paper in one hand and a coin in the other, at the same height. 2. Let go of both together.  
-  *Parent says:* The coin dropped fast and the paper floated down. Is that because the paper is light? Let's find out.  
+  *Parent says:* Watch which one lands first. Is the paper slower because it is light? Let's find out.  
   *Child mode:* Hold a flat paper and a coin up high. Let go of both. Which lands first?
 - **s2 (4 min)**  
   *Parent does:* 1. Crumple one sheet into a tight ball. 2. Hold the crumpled ball and a flat sheet at the same height. 3. Drop them together. Do it 3 times.  
   *Parent says:* Both sheets weigh exactly the same. Only the shape is different. Watch what happens.  
   *Child mode:* Crumple one paper into a tight ball. Drop it with a flat paper. Same paper, same weight. Which lands first?
-  - Ask: They weigh the same. So why did the ball land first? (good: The flat paper has to push lots of air out of the way.; The air pushes up on the flat paper more.)
+  - Ask: Why did the ball land first? (good: The flat paper has to push lots of air out of the way.; The air pushes up on the flat paper more.)
 - **s3 (4 min)**  
   *Parent does:* 1. Lay the small quarter sheet flat on top of the book, so nothing sticks out. 2. Hold the book flat and level at chin height. 3. Let go of the book.  
   *Parent says:* What will the paper do now? Will it float off, or stay on the book?  
-  *Child mode:* Lay a flat paper on top of a book. Drop the book. Does the paper float away, or fall with the book?
+  *Child mode:* Lay a flat paper on top of a book. Drop the book. Watch the paper.
   - Note: The paper usually stays on the book all the way down. If it slides off, the book tipped: try again, holding the book level.
   - Check: A flat sheet of paper lying on top of a book falls with the book. Why? → **The book pushes the air out of the way, so no air pushes on the paper**
 - **s4 (4 min)**  
@@ -407,7 +407,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - **predict:** Guess first. You will make three parachutes, small, medium and large, all carrying the same load. Which will take longest to reach the ground, and why do you think so?
 - **fair test:** Keep everything the same except the size of the parachute. Use the same plastic, the same strings, the same load and the same drop height. Time each parachute 3 times, because one drop can be a fluke.
 - **safety:** The grown-up drops the parachutes over a stairwell, and your child waits at the bottom, to one side of the landing spot. Keep plastic bags away from small children's faces.
-- **record:** Fill in the table. Draw a bar for each parachute, as tall as its middle time.
+- **record:** Fill in the table with the times, and the middle time for each parachute.
 - **results table:** Parachute size | Try 1 (seconds) | Try 2 (seconds) | Try 3 (seconds) | Middle time (seconds)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts three squares from plastic bags: about 20, 30 and 40 centimetres across. 2. Tape a thread to each corner of each square. 3. Tie the four threads of each square to one clothes peg.  
@@ -425,7 +425,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - **s4 (4 min)**  
   *Parent does:* Help your child draw a bar chart of the middle times, one bar for each parachute.  
   *Parent says:* Let's turn the times into a picture. A taller bar means a slower fall.  
-  *Child mode:* Draw one bar for each parachute. Make it as tall as its middle time. Taller bar, slower fall.
+  *Child mode:* Draw one bar for each parachute, as tall as its middle time. Taller bar, slower fall. Or just tell your grown-up the order.
   - Check: In the Parachute Test, which parachute fell most slowly? → **The largest**
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -480,28 +480,28 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Child mode:* Measure from your reaching mark to each jump mark. Write down all three heights. Which was best?
 - **s3 (4 min)**  
   *Parent does:* Walk up a flight of stairs or one step, then walk down.  
-  *Parent says:* Which was harder, going up or going down? Why?  
-  *Child mode:* Walk up the stairs. Now walk down. Which was harder? Why?
+  *Parent says:* Walk up the stairs, then walk down. Notice how your legs feel.  
+  *Child mode:* Walk up, then walk down. How do your legs feel each way?
   - Ask: Why is going up harder than going down? (good: Going up, you work against gravity.; Going down, gravity helps you.)
 - **s4 (6 min)**  
-  *Parent does:* Talk about escape speed. Could anyone ever jump off the Earth?  
+  *Parent does:* Say the numbers below. Then ask the question underneath.  
   *Parent says:* To leave the Earth for ever, you would have to jump off at about 11 kilometres every second. Your jump leaves the ground at only 2 or 3 metres a second. Rockets get that fast by burning fuel for many minutes.  
-  *Child mode:* To leave the Earth, you would need 11 kilometres every second! Your jump is only 2 or 3 metres a second. Rockets burn fuel to go that fast.
+  *Child mode:* A rocket must go very fast to leave the Earth. Your jump is much slower.
   - Note: Expected answer: the Moon has much less mass than the Earth, so its pull is weaker and it is easier to get away from.
   - Check: Could you jump so high that you never came back down? → **Only if I went faster than about 11 kilometres every second, which no person can**
   - Think: On the Moon, the escape speed is less than a quarter of the Earth's. Why do you think it is smaller there?
 ### a2 · The Space Blanket (25 min)
 - **problem:** Einstein pictured gravity in a new way. He said that a heavy thing bends space and time, and other things follow the bend. In this activity a stretched sheet stands for space, and a heavy ball makes a dent in it. You roll marbles past the dent to see how a bend can change the path of something moving past.
 - **safety:** Keep marbles away from toddlers, who may swallow them. Use a soft ball if small children are near.
-- **record:** Draw the blanket from the side, with the dent, the ball and a marble's path curving in.
+- **record:** Draw the blanket from the side, with the dent, the ball and a marble's path curving in. Or tell your grown-up what the marble did.
 - **s1 (4 min)**  
   *Parent does:* 1. Stretch the sheet flat and tight at waist height. Four people can hold a corner each. If you are only two, tie the other two corners to chair backs and hold the chairs steady. 2. Roll a marble across it gently.  
   *Parent says:* Look. With nothing on the sheet, the marble rolls in a straight line.  
   *Child mode:* Hold the sheet tight and flat. Roll a marble across. Does it go straight?
 - **s2 (6 min)**  
   *Parent does:* 1. Put the heavy ball in the middle of the sheet. 2. Look at the dent. 3. Roll marbles past it, some close and some far away.  
-  *Parent says:* The heavy ball bends the sheet. Watch the marbles. Which ones curve in?  
-  *Child mode:* Put the heavy ball in the middle. See the dent? Roll marbles past it. Which ones curve in?
+  *Parent says:* The heavy ball bends the sheet. Roll marbles past it, some close and some far away.  
+  *Child mode:* Put the heavy ball in the middle. See the dent? Roll marbles past it.
   - Ask: Which marbles fell into the dent? (good: The ones that came close.; The far ones only bent a little.)
   - Note: This shows two things. A heavier ball makes a deeper dent. And marbles that pass far away hardly bend, just as gravity gets weaker further away. On a bedsheet the dent is shallow, so the curves are small. A stretchy cloth shows them best.
 - **s3 (5 min)**  
@@ -511,7 +511,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Ask: What happened when you rolled a marble fast and sideways? (good: It went round the ball once or twice before falling in.; It was like the Moon going round the Earth.)
   - Note: A stretchy cloth works best. On a bedsheet, a marble may only curve in towards the ball and not go round it. That is fine: the curve is the point.
 - **s4 (6 min)**  
-  *Parent does:* Talk about Einstein's idea.  
+  *Parent does:* Read out what Einstein said. Then ask the question underneath.  
   *Parent says:* The dent changed the path of the marble. Einstein said mass changes the shape of space and time in a similar way. Falling things follow that shape.  
   *Child mode:* Einstein said heavy things bend space and time. Falling things follow the bend, like the marble followed the dent.
   - Check: In the space blanket, why did the marble roll towards the heavy ball? → **It rolled down into the dent the heavy ball made**
@@ -524,7 +524,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 ### a3 · A Force That Never Gets Tired (15 min)
 - **problem:** Holding something still needs a force. Your arm gets tired holding a bag, but a door handle holding the same bag never does. In this activity you find out why. Then you see what it tells us about the Earth's gravity holding the Moon.
 - **safety:** Pull gently and steadily. Never yank. Close the door before you tie the dupatta to its handle, so it cannot swing.
-- **record:** Draw your arm holding the bag, and the door handle holding the bag. Write which one got tired, and why.
+- **record:** Say or write which one got tired, your arm or the door handle, and why.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child holds the bag of water bottles out at arm's length, keeping it still. 2. Count to 60 together.  
   *Parent says:* Hold the bag out straight, and keep it still. Is it getting harder?  
@@ -534,7 +534,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - **s2 (3 min)**  
   *Parent does:* Close the door. Hang the same bag by its handles on the door handle. Leave it there while you do the next steps.  
   *Parent says:* The door handle is holding up the same bag, with the same force as your arm. Will the handle get tired?  
-  *Child mode:* Hang the bag on a door handle. Will the handle get tired?
+  *Child mode:* Hang the bag on a door handle and let go. Watch the handle.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. Tie the dupatta to the door handle. 2. Your child pulls the dupatta gently and steadily, without moving. 3. Then untie it. You hold one end, your child holds the other, and you both pull equally, so nobody moves.  
   *Parent says:* The door pulls back just as hard as you pull. So do I, when we pull equally. Which of us gets tired?  
@@ -549,20 +549,20 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Think: Look at the bag on the door handle. Could the handle hold it for a whole year?
 ### a4 · Which Way Is Down? (20 min)
 - **problem:** Down seems easy to understand, but people live on every side of a round Earth. In this activity you make a plumb line, which is a weight on a string that shows which way is down. Then you find out what down means for people all round the Earth.
-- **record:** Draw the round Earth with four people standing on it. Draw an arrow from each person to show which way is down.
+- **record:** Draw the round Earth with four people standing on it, and an arrow from each person to show which way is down. Or take a photo of your ball with the pencils.
 - **s1 (6 min)**  
   *Parent does:* 1. Tie the nut or key firmly to one end of the thread. 2. Hold the other end still and let the weight hang. 3. Hold it next to a door frame, a wall and a table leg. Is each one straight up and down?  
   *Parent says:* This is a plumb line. Builders have used it for thousands of years. The string always points straight down. Let's check our walls.  
   *Child mode:* Tie a key to a thread. Let it hang still. This is a plumb line. It shows which way is down. Hold it next to a door. Is the door straight?
 - **s2 (7 min) · grown-up needed**  
-  *Parent does:* 1. Draw and cut out four tiny paper people. 2. Tape them standing all round a ball: one on top, one at the bottom, one on each side. 3. Ask: which way is down for each person?  
+  *Parent does:* 1. Cut out four small paper squares. Each square is a tiny person. 2. Tape them all round a ball: one on top, one at the bottom, one on each side. 3. Ask: which way is down for each person?  
   *Parent says:* This ball is the Earth. One person is in India, on top. One is on the opposite side of the Earth, at the bottom. Which way is down for her? Why doesn't she fall off?  
-  *Child mode:* Make 4 tiny paper people. Stick them all round a ball. Which way is down for the one at the bottom? Why doesn't she fall off?
+  *Child mode:* Cut four paper squares. Each one is a tiny person. Stick them all round the ball.
   - Check: A girl stands on a ship on the opposite side of the Earth from India. Which way is down for her? → **Towards the middle of the Earth**
 - **s3 (4 min)**  
-  *Parent does:* Draw the Earth as a big circle with four people round it. Draw an arrow from each person to the centre.  
-  *Parent says:* Every arrow points to the middle. So 'down' is not one direction. It is towards the middle of the Earth, from wherever you are.  
-  *Child mode:* Draw the Earth and four people. Draw an arrow from each person to the middle. All the arrows meet!
+  *Parent does:* Hold a pencil against the ball at each paper person, pointing in towards the middle of the ball.  
+  *Parent says:* Every pencil points to the middle. So 'down' is not one direction. It is towards the middle of the Earth, from wherever you are.  
+  *Child mode:* Hold a pencil at each person, pointing to the middle of the ball. All the pencils meet in the middle!
 - **s4 (3 min)**  
   *Parent does:* Ask the tunnel question.  
   *Parent says:* Imagine a tunnel straight through the Earth. If you dropped a ball in, where would it go?  
@@ -571,7 +571,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Think: At the very middle of the Earth, which way would down be?
 ### a5 · The Four Sisters' Clocks (act it out) (15 min)
 - **problem:** Clocks tick at slightly different speeds at different heights. The difference is real, but it is far too small to notice. In this play, four sisters live at different heights, and you clap out their clocks. The play makes the difference much bigger than it really is, so that you can hear it.
-- **record:** Draw the four sisters at their heights, with a clock beside each. Write which clock is fastest and which is slowest.
+- **record:** Put the four paper clocks in a row, from slowest to fastest. Say which sister's clock is slowest and which is fastest.
 - **s1 (4 min)**  
   *Parent does:* 1. Give each player a sister and a place. 2. The mine sister sits on the floor. The sea sister stands on the floor. The mountain sister stands on a low stool or step. The satellite sister stands on tiptoe, with her clock held up high. 3. Each holds a paper clock.  
   *Parent says:* Four sisters were born on the same day. One lives deep in a mine. One lives by the sea. One lives on a mountain. One works on a GPS satellite, very high above the Earth.  
@@ -579,7 +579,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 - **s2 (5 min)**  
   *Parent does:* Each sister claps once for every 'tick' of her clock while you count to 20. The mine sister claps slowest, then the sea sister, then the mountain sister. The satellite sister claps fastest.  
   *Parent says:* Higher up, time runs a tiny bit faster. Lower down, closer to the middle of the Earth, it runs slower. Let's clap our clocks.  
-  *Child mode:* Clap once for every tick of your clock. The mine sister claps slowest. The satellite sister claps fastest!
+  *Child mode:* Clap once for every tick of your clock. Listen to how the four sisters clap.
   - Check: Which sister's clock ticks slowest? → **The sister deep in the mine**
 - **s3 (3 min)**  
   *Parent does:* Talk about how big the difference really is.  
@@ -594,7 +594,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Think: Is there one time for the whole universe, or does every place have its own?
 ### a6 · The Falling Seeds Walk (if you have a park nearby) (25 min)
 - **safety:** Do not break or squeeze aak pods, because the milky sap hurts eyes and skin. Do not put seeds in your mouth. Wash your hands afterwards.
-- **record:** Draw your slowest faller and your fastest. Write what shape helps the slow one.
+- **record:** Show your grown-up your slowest faller and your fastest. Say what shape helps the slow one.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* If you have a park or a garden nearby, walk there. Collect things that have already fallen: leaves, flowers, pods, winged seeds, fluffy seeds, a small stone or a fruit stone.  
   *Parent says:* Let's collect things that trees and plants drop. Look for seeds with wings or fluff.  
@@ -687,7 +687,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
 ## Challenges
 ### c1 · The Egg Lander (35 min)
 - **problem:** Drop a raw egg (or, if your family does not use eggs, a ripe tomato) from about 2 metres high without breaking it. Design and build a lander to protect it.
-- **your turn:** Now invent your own lander. Draw it, build it, drop it, and improve it. Can you make it survive from higher up?
+- **your turn:** Now invent your own lander. Plan it, build it, drop it, and improve it. Can you make it survive from higher up?
 - **constraints:** You may use only paper, 10 straws, sticky tape, one plastic bag and some thread.; The egg must not be wrapped in anything soft from the kitchen, like a sponge or a towel.; A grown-up drops it from the same height each time, onto a hard floor covered with newspaper.
 - **general:** A parachute, made from the plastic bag, so the air slows the fall.; A cage of straws round the egg. The straws squash and take the bump, so the egg does not.; Landing on a wide, flat base so the lander does not tip over.
 - **creative:** In 1997, NASA's Mars Pathfinder landed by bouncing on giant air bags. Could paper puffs or blown-up bits of bag work like air bags?; India's Chandrayaan-3 lander, Vikram, landed gently on the Moon in August 2023. It used rocket engines to slow down, because the Moon has no air for a parachute. What would you do on a world with no air?; Winged seeds spin as they fall. Could a spinning paper wing slow your egg?
@@ -696,9 +696,9 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   *Parent says:* Gravity will make the egg go faster and faster as it falls. How can we slow it down, or make the landing soft?  
   *Child mode:* Your job: drop an egg from high up without breaking it. Gravity speeds it up. How can you slow it down?
 - **s2 (8 min)**  
-  *Parent does:* Each person draws two ideas before building anything.  
-  *Parent says:* Engineers draw before they build. Draw two ideas. Label which part slows the fall and which part softens the landing.  
-  *Child mode:* Draw two ideas first. Which part slows the egg down? Which part makes the landing soft?
+  *Parent does:* Each person plans two ideas before building anything. Draw them, or lay out the materials to show them.  
+  *Parent says:* Engineers plan before they build. Show me two ideas. Which part slows the fall? Which part softens the landing?  
+  *Child mode:* Plan two ideas first. Draw them, or lay out the materials. Which part slows the egg? Which part softens the landing?
 - **s3 (12 min) · grown-up needed**  
   *Parent does:* Build one design. A grown-up drops it from about 2 metres onto newspaper. Check the egg.  
   *Parent says:* Let's build your best design and test it. A grown-up will drop it from the same height each time.  
@@ -712,7 +712,7 @@ My father looked at me for a long moment, the way he looked at a sack of wheat w
   - Think: Vikram landed on the Moon with rocket engines because the Moon has no air. Why would a parachute be useless there?
 ### c2 · The Slowest Fall (25 min)
 - **problem:** Make one sheet of A4 paper take as long as possible to fall from 2 metres.
-- **your turn:** Now invent your own slow faller. Draw it, make it, time it, and try to beat your record.
+- **your turn:** Now invent your own slow faller. Plan it, make it, time it, and try to beat your record.
 - **constraints:** Use only one sheet of paper, scissors and up to 2 paper clips.; Drop from the same height every time.; No blowing, fanning or throwing. Just let go.
 - **general:** A flat sheet, which already falls slowly.; A parachute shape, with the paper clip hanging below.; A cone, which falls slowly and steadily.
 - **creative:** A paper helicopter: cut two wings and fold them opposite ways, like the spinning seeds of the mahogany tree.; A long ribbon cut in a spiral, which twirls as it falls.; A glider shape, which slides sideways on the air and takes a longer path down.

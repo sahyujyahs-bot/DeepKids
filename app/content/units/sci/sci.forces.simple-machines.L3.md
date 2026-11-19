@@ -271,24 +271,24 @@ That night, under the stars, the whole village ate together round the fires of U
 - **s2 (3 min)**  
   *Parent does:* Draw the first Level 1 card and play it together.  
   *Parent says:* Here's our first order. Two coins sit on peg 2 on the left. Where should we put two coins on the right?  
-  *Child mode:* First order: 2 coins on left peg 2. Where do 2 coins go on the right? Say your guess. Then try it.
+  *Child mode:* First order: 2 coins on left peg 2. Say your guess for your 2 coins. Then try it.
   - Ask: Why did the same coins need the same peg? (good: Same weight, same distance, so it's even.; Both sides turn the ruler the same amount.)
   - Check: An order card says: 2 coins sit on left peg 2. Where do you put your 2 coins to make the ruler balance? → **Right peg 2**
 - **s3 (9 min)**  
   *Parent does:* 1. Take turns with the cards of Level 1, then Level 2, then Level 3. 2. Each player says a plan before placing coins. 3. Move up a level when the cards of a level are used up.  
   *Parent says:* Now the number of coins on each side is different. Can fewer coins balance more coins? Where would they have to sit?  
-  *Child mode:* Take turns. Read a card. Say your plan out loud first. Can fewer coins balance more coins? Where should they sit?
+  *Child mode:* Take turns. Read a card. Say your plan out loud before you place the coins.
   - Ask: 1 coin balanced 2 coins. Where was the 1 coin? (good: Further out.; Twice as far from the pencil.)
   - Note: The rule is coins times peg number must match on both sides. For example, 2 coins on peg 2 makes 2 times 2, which is 4. 1 coin on peg 4 makes 1 times 4, which is also 4. Let your child find this by trying. Only say the rule after they have spotted a pattern. The ruler will not always sit perfectly level. If it rocks, or stays up when you let go, it is balanced. If one end drops to the table and stays there, it has tipped.
 - **s4 (3 min)**  
   *Parent does:* Play the 4 Predict cards. Everyone says tip left, tip right, or balance, before you test.  
   *Parent says:* Before we test, everyone guess. Will it tip left, tip right, or balance? Let's see who was right.  
-  *Child mode:* Predict card! Guess first: tip left, tip right, or balance? Then test it.
+  *Child mode:* Predict card! Say your guess before you test it.
   - Check: Predict card: 2 coins on left peg 4, 4 coins on right peg 2. Say your guess. What happens? → **It balances, because 2 times 4 and 4 times 2 both make 8**
 - **s5 (5 min)**  
   *Parent does:* Play the 4 Level 4 mystery cards. Use the rule to find the weight of each object in coins.  
   *Parent says:* Now we're detectives. A tarazu, the vegetable seller's weighing scale, weighs vegetables by balancing them against known weights. How many coins does the eraser weigh?  
-  *Child mode:* Mystery card! The eraser balances some coins. How many coins does the eraser weigh? Use the rule to find out.
+  *Child mode:* Mystery card! The eraser balances some coins. Use coins times distance to find out how many coins it weighs.
   - Note: Yes. Put the pencil on one side at a known distance, and slide coins along the other side until the ruler balances. Then use coins times distance on both sides to find the pencil's weight in coins.
   - Think: Could you weigh a pencil with this ruler and some coins? How would you do it?
 - **s6 (1 min)**  
@@ -367,7 +367,7 @@ That night, under the stars, the whole village ate together round the fires of U
 - **predict:** Guess first. Will it be easiest to lift the toy truck straight up, pull it up a short steep ramp, or pull it up a long gentle ramp? Why do you think so?
 - **fair test:** Keep everything the same except the ramp's length. Use the same truck with the same load, and the same height of book pile. Pull slowly and steadily, the same way each time, along the line of the ramp. Measure how far the rubber band stretches while the truck is moving. Do each test 3 times.
 - **safety:** Keep the rubber band away from faces. Pull gently, so it does not snap.
-- **record:** Fill in the table. Draw a bar chart with one bar for each way. The truck travelled the length of the ramp each time. For the straight lift, it travelled the height of the book pile.
+- **record:** Fill in the table. Lay a string for each way side by side, or draw a bar chart. The truck travelled the length of the ramp each time. For the straight lift, it travelled the height of the book pile.
 - **results table:** How the truck went up | Ramp length (cm) | Stretch try 1 (cm) | Stretch try 2 (cm) | Stretch try 3 (cm) | Middle value of the 3 tries (cm)
 - **s1 (5 min)**  
   *Parent does:* 1. Make a pile of books about 10 cm high. 2. Tie the string round the body of the truck, near the front, so that the loop cannot slip off. 3. Loop the other end of the string through the rubber band and tie it. 4. Hold the rubber band by its free end. 5. Measure the band before you pull, and write down its length.  
@@ -387,12 +387,12 @@ That night, under the stars, the whole village ate together round the fires of U
 - **s4 (5 min)**  
   *Parent does:* Measure how long each ramp is, and compare the distances the truck travelled.  
   *Parent says:* Here's the catch. The long ramp needed less pull. But how far did the truck go?  
-  *Child mode:* Measure each ramp. How far did the truck travel each time? The long ramp needed a smaller pull, but the truck went a longer way.
+  *Child mode:* Measure each ramp. How far did the truck travel each time?
   - Check: The long ramp needed the smallest pull. What did you give up? → **The truck had to travel further**
 - **s5 (6 min)**  
-  *Parent does:* Help your child draw a bar chart of the middle values.  
-  *Parent says:* Let's turn the numbers into a picture. One bar for each way of lifting the truck.  
-  *Child mode:* Draw one bar for each way. Make it as tall as the middle stretch. Which bar is shortest?
+  *Parent does:* Help your child cut a piece of string for each way, as long as its middle stretch. Lay the strings side by side.  
+  *Parent says:* Let's turn the numbers into strings. One string for each way of lifting the truck.  
+  *Child mode:* Cut one string for each way, as long as the middle stretch. Lay them side by side. Which string is shortest?
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me what you found out, in three parts. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -404,7 +404,7 @@ That night, under the stars, the whole village ate together round the fires of U
 - **predict:** Guess first. Will it be easiest to wind up the bottle by turning a bare pencil, a small handle, or a big handle? Why do you think so?
 - **fair test:** Keep the load and the pencil the same. Change only the size of the handle you turn. Count how many turns it takes to lift the bottle 20 cm, and say how hard each one felt.
 - **safety:** A grown-up makes the holes in the box with the point of a pair of scissors.
-- **record:** Fill in the table. Draw your winch and label the wheel, or handle, and the axle.
+- **record:** Fill in the table. Point to the handle and the axle on your winch and say which is which. You can draw it too.
 - **results table:** What you turned | How hard it felt: easy, medium or hard | Turns to lift the bottle 20 cm | How far your hand travelled: short, medium or long
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. A grown-up makes a hole in each long side of the open box, near the top. Put both holes about 3 cm from one short end. 2. Push the pencil through both holes, so it can turn. Leave about 3 cm sticking out on one side. 3. Tape one end of the string to the middle of the pencil. 4. Put the box in a corner of a table. Put its short end at one edge. Put the side with the pencil sticking out at the next edge. Put a heavy book in the far end of the box, so it cannot tip. 5. Run the string over the rim at the short end and down past the table's edge. 6. Tie the bottle to it.  
@@ -439,7 +439,7 @@ That night, under the stars, the whole village ate together round the fires of U
 ## Activities
 ### a1 · Lever Hunt: at home and in your body (20 min)
 - **safety:** Do not touch knives, cookers or sharp tools. Point to them instead.
-- **record:** Make a list of 10 machines. Write LEVER, RAMP or WHEEL beside each. For each lever, draw a dot where its fulcrum is.
+- **record:** Make a list of 10 machines. Write LEVER, RAMP or WHEEL beside each. For each lever, say or point to where its fulcrum is.
 - **s1 (2 min)**  
   *Parent does:* Explain the hunt and give your child the paper and pencil.  
   *Parent says:* We're machine detectives. Let's find 10 simple machines in our home, and 3 hidden in your own body.  
@@ -460,7 +460,7 @@ That night, under the stars, the whole village ate together round the fires of U
 ### a2 · The Park See-saw: lift a grown-up (20 min)
 - **problem:** A see-saw is a lever. You will go to a park see-saw and find out how a light child can lift a heavy grown-up, and where each of you must sit.
 - **safety:** A grown-up must be there. Hold the handles. Never put feet or hands under the see-saw. Get off slowly, warning the other person first.
-- **record:** Draw where each person sat when the see-saw balanced. Write who was heavier.
+- **record:** Write who sat where when the see-saw balanced, and who was heavier. You can take a photo too.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. The child sits at one end. 2. The grown-up sits at the very end of the other side. 3. Notice what happens.  
   *Parent says:* Let's both sit at the very ends. What happens?  
@@ -501,7 +501,7 @@ That night, under the stars, the whole village ate together round the fires of U
   - Think: How could a see-saw weigh something heavier than all your bricks put together?
 ### a4 · Body Levers: yoga and a water bottle (15 min)
 - **problem:** Your bones are levers, your joints are their fulcrums, and your muscles give the effort. You will feel the levers in your own arm, foot and neck.
-- **record:** Draw your arm holding the bottle. Mark the fulcrum, the muscle and the load.
+- **record:** Hold the bottle again. Point to the fulcrum, the muscle and the load, and tell a grown-up which is which.
 - **s1 (5 min)**  
   *Parent does:* 1. Your child holds a water bottle in one hand, arm bent at the elbow. 2. They put the other hand on the front of the upper arm. 3. They lift and lower the bottle slowly.  
   *Parent says:* Feel your muscle working. Where does your arm turn? Where does the muscle pull?  
@@ -521,7 +521,7 @@ That night, under the stars, the whole village ate together round the fires of U
 ### a5 · Find the Balance Point, then spin like the Earth and the Moon (20 min)
 - **problem:** A ruler or a broom has one point where it balances. Two things that go round each other, like the Earth and the Moon, also swing round one shared balance point. You will find the balance point of some things, and then act out the Earth and the Moon.
 - **safety:** Spin slowly and stop if you feel dizzy. Hold the hammer low over the table, so it cannot fall on a foot.
-- **record:** Draw the broom with a dot at its balance point. Draw the Earth and the Moon with their balance point.
+- **record:** Stick a piece of tape on the broom where it balanced. Then say who went round the bigger circle, the Earth or the Moon.
 - **s1 (7 min)**  
   *Parent does:* 1. Balance a ruler on one finger. 2. Then balance a broom across two fingers, held apart. Slowly slide the fingers together until they meet. 3. Try a hammer or a big spoon.  
   *Parent says:* Where does the broom balance? Is it in the middle? Why not?  
@@ -541,7 +541,7 @@ That night, under the stars, the whole village ate together round the fires of U
 ### a6 · The Door Test: where is it easiest to push? (15 min)
 - **problem:** A door turns on its hinges, in the way a lever turns on its fulcrum. You will find out where on a door it is easiest to push.
 - **safety:** Keep fingers away from the hinge side of the door. A grown-up holds the door still while setting up.
-- **record:** Write how many spoonfuls of rice it took to start the door swinging at each place. Draw a bar chart.
+- **record:** Write how many spoonfuls of rice it took to start the door swinging at each place. Which place needed the fewest?
 - **s1 (4 min)**  
   *Parent does:* 1. Your child pushes the door with one finger, close to the hinges. 2. Then in the middle. 3. Then right by the handle.  
   *Parent says:* Push with one finger near the hinges. Now in the middle. Now near the handle. Where is it easiest?  
@@ -553,8 +553,8 @@ That night, under the stars, the whole village ate together round the fires of U
   - Note: A simpler way: just compare how hard one finger has to push. The cup method gives numbers for a chart. The numbers depend on your door, and a door with stiff hinges needs a lot of rice near the hinge. If it needs more than 30 spoonfuls there, compare only 40 cm and 70 cm. If the door swings by itself, the floor is not level, so try another door. The string rubs a little on the chair back, the same each time. The pattern is what matters: far from the hinge needs far less rice.
 - **s3 (3 min)**  
   *Parent does:* Talk about why door handles are always far from the hinges.  
-  *Parent says:* Why do you think every door handle is on the side away from the hinges?  
-  *Child mode:* Why are door handles always far from the hinges? Have you ever seen one near the hinges?
+  *Parent says:* Think about how hard the door was to push near the hinges. Now think about where the handle is.  
+  *Child mode:* Look at the handle of a door in your home. Is it near the hinges or far from them?
   - Note: The far end of the handle is further from the nut, which is the point it turns on. A push far from that point turns the nut with a much bigger force. A door handle works in the same way.
   - Check: Why are door handles far from the hinges? → **So the door is easy to turn with a small push**
   - Think: A spanner with a long handle loosens a stuck nut more easily. Why?
@@ -563,10 +563,10 @@ That night, under the stars, the whole village ate together round the fires of U
 ### p1 · Build a Shaduf: the 4,000-year-old water lifter (65 min, 3 days)
 - **problem:** A shaduf is a lever that farmers used for about 4,000 years to lift water. A bucket hangs from one end and a heavy stone from the other. You will build a model shaduf and find out how heavy the stone must be.
 - **safety:** Do this on a balcony, in a bathroom or outside, with a grown-up, because water will spill. Keep faces away from the swinging beam. Use small weights only.
-- **record:** Draw your shaduf and label the fulcrum, the load and the counterweight. Write how many cups of water you lifted in one minute, with and without the counterweight.
+- **record:** Take a photo of your shaduf. Write how many cups of water you lifted in one minute, with and without the counterweight.
 - **schedule:** day 1: Learn what a shaduf is. Build the post and tie the beam to it. (25 min); day 2: Add the cup and the counterweight. Find the best counterweight. (20 min); day 3: Lift water. Improve the design. Show the family how it works. (20 min)
 - **s1 (5 min)**  
-  *Parent does:* Describe a shaduf to your child, and draw it on paper. It is a long pole on a post. A bucket hangs from one end, and a heavy stone from the other.  
+  *Parent does:* Describe a shaduf to your child. It is a long pole on a post. A bucket hangs from one end, and a heavy stone from the other.  
   *Parent says:* A shaduf is a lever for lifting water from a river or a well. Farmers used it about 4,000 years ago in Mesopotamia and Egypt. In India, a lever like it is called a picottah, or etram in Tamil.  
   *Child mode:* A shaduf is a long pole on a post. A bucket hangs at one end. A heavy stone hangs at the other. Farmers used it 4,000 years ago!
 - **s2 (20 min) · grown-up needed**  
@@ -599,7 +599,7 @@ That night, under the stars, the whole village ate together round the fires of U
 ## Challenges
 ### c1 · Lift the Rice Bag (30 min)
 - **problem:** Raise a 1 kg bag of rice from the floor onto a chair seat, using the smallest pull you can. Measure your pull each time.
-- **your turn:** Now invent your own way. Draw it, try it, and measure the pull. Is it better than the others? What did you have to give up?
+- **your turn:** Now invent your own way. Build it, try it, and measure the pull. Is it better than the others? What did you have to give up?
 - **constraints:** You may not lift the bag with your hands.; Use only things you find at home.; Measure your pull with a thick rubber band and a ruler, or a forcemeter. A thin band may snap under 1 kg.
 - **general:** Make a ramp from a board, from the floor to the chair, and pull the bag up it.; Use a mop handle as a lever over a pile of books, with the bag near the fulcrum. It lifts the bag only a little way, so lift it in stages, adding a book under the bag each time.; Pass the string over the top of the chair back and pull down. Like a pulley, this changes the direction of your pull. Friction on the chair makes the pull a little bigger, not smaller.
 - **creative:** Put the bag on a strong toy truck and pull it up the ramp, so it rolls instead of sliding.; Use a shaduf-style counterweight on the other end of a lever.; Make a zigzag ramp, like a ghat road, from two boards.
@@ -608,9 +608,9 @@ That night, under the stars, the whole village ate together round the fires of U
   *Parent says:* First, let's measure how hard it is with no machine at all.  
   *Child mode:* Lift the bag straight up by a rubber band. Measure how far the band stretches. Write it down.
 - **s2 (5 min)**  
-  *Parent does:* Plan three ideas together before trying any.  
-  *Parent says:* Engineers plan first. Which machines could help? Let's draw three ideas.  
-  *Child mode:* Think like an engineer! Draw three ideas. Use a lever, a ramp or a wheel.
+  *Parent does:* Plan three ideas together before trying any: one with a lever, one with a ramp and one with a wheel.  
+  *Parent says:* Engineers plan first. Which machines could help? Let's pick three ideas.  
+  *Child mode:* Think like an engineer! Pick three ideas: one lever, one ramp and one wheel. Say how each would help.
 - **s3 (12 min) · grown-up needed**  
   *Parent does:* Try each idea one at a time, measuring the pull each time.  
   *Parent says:* Try one idea at a time. Measure the pull. Which works best?  
@@ -625,7 +625,7 @@ That night, under the stars, the whole village ate together round the fires of U
   - Think: Every machine makes a trade. Which trade was the best one for this job?
 ### c2 · A Ramp for Everyone (30 min)
 - **problem:** Many shops, temples and homes have a step at the door. People in wheelchairs, parents with prams and people with sore knees cannot get in easily. Design a ramp for a doorstep near you.
-- **your turn:** Measure a real step near you. Work out how long your ramp must be. Draw it, and build a small model with books and a board.
+- **your turn:** Measure a real step near you. Work out how long your ramp must be. Build a small model with books and a board.
 - **constraints:** Many ramp guides, in India and elsewhere, suggest a ramp at least 12 times as long as it is high, so it is gentle enough.; It must not block the road or path.; It must not be slippery when wet.
 - **general:** One long straight ramp beside the steps.; A ramp with a flat resting place halfway.; Handrails on both sides.
 - **creative:** A ramp that turns a corner, to fit a small space.; A grippy surface with grooves, so it is safe in the rain.; A folding ramp that can be put away at night.
@@ -640,9 +640,9 @@ That night, under the stars, the whole village ate together round the fires of U
   - Note: 15 times 12 is 180 cm, which is 1 metre and 80 centimetres. Children are often surprised how long a good ramp must be.
   - Check: A step is 15 cm high. A ramp 12 times as long would be how long? → **180 cm**
 - **s3 (10 min)**  
-  *Parent does:* 1. Your child draws the ramp design. 2. Build a model: a pile of books as the step, a board as the ramp. 3. Try a toy car on a steep ramp and on a gentle one.  
-  *Parent says:* Draw your ramp. Then let's test a model. Which ramp could a toy car climb if you pushed it with one finger?  
-  *Child mode:* Draw your ramp. Make a model with books and a board. Push a toy car up with one finger. Steep or gentle?
+  *Parent does:* 1. Your child draws the ramp design, or just tells you the plan. 2. Build a model: a pile of books as the step, a board as the ramp. 3. Try a toy car on a steep ramp and on a gentle one.  
+  *Parent says:* Draw your ramp, or tell me your plan. Then let's test a model. Which ramp could a toy car climb if you pushed it with one finger?  
+  *Child mode:* Draw your ramp, or tell your grown-up your plan. Make a model with books and a board. Push a toy car up with one finger. Steep or gentle?
 - **s4 (5 min)**  
   *Parent does:* Talk about who uses ramps, and why some places don't have them.  
   *Parent says:* Who in your street or building would use a ramp? Why do you think some places don't have one?  

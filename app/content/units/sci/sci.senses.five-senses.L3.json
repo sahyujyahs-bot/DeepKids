@@ -846,8 +846,8 @@
      "id": "s2",
      "mins": 2,
      "do": "Play one practice turn together. Turn over the Bat card and the echoes card, and read them out. Then turn both cards face down again where they were.",
-     "say": "Here is a practice pair: a bat, and 'I squeak and listen for echoes'. Which of your senses is that most like?",
-     "kid": "Practice pair: a bat, and 'I squeak and listen for echoes'. Which of your senses is it most like?",
+     "say": "Here is a practice pair: a bat, and 'I squeak and listen for echoes'.",
+     "kid": "Look at the two cards. Think about what the bat is doing.",
      "check": {
       "t": "mcq",
       "q": "A bat squeaks and listens for echoes to find moths in the dark. Which human sense is that most like?",
@@ -980,7 +980,7 @@
      "mins": 4,
      "do": "1. Taste round: put a few drops of 4 tastes on separate spoons. Use sugar water, salt water, lemon water, and karela juice or very strong tea. 2. Players shut their eyes and name the basic taste of each. 3. Add up all the points.",
      "say": "Eyes shut. Tell me the basic taste: sweet, sour, salty or bitter?",
-     "kid": "Close your eyes. Taste each spoon. Is it sweet, sour, salty or bitter?",
+     "kid": "Close your eyes. Taste each spoon and name its taste.",
      "check": {
       "t": "mcq",
       "q": "In the taste round, which spoon tastes bitter?",
@@ -1674,7 +1674,7 @@
      "mins": 2,
      "do": "1. Tie the blindfold on the taster. 2. Ask them to make their guesses before tasting anything.",
      "say": "Before we start, guess. With your nose pinched shut, will you be able to name the spice? Why do you think so?",
-     "kid": "Put on the blindfold. Now guess. With your nose pinched, will you name the spice?",
+     "kid": "Put on the blindfold. Then say your guess out loud.",
      "ask": [
       {
        "q": "Where do you think taste comes from?",
@@ -1722,7 +1722,7 @@
      "mins": 4,
      "do": "1. Give a spoonful from the first bowl again, with the nose pinched. 2. Halfway through, say 'Let go!' 3. The taster lets go of their nose while the sugar is still in their mouth. 4. Repeat for every bowl, and write the new guesses.",
      "say": "Pinch again. Taste. Now, let go of your nose! What happened?",
-     "kid": "Pinch your nose and taste. Now let go! What happened? Does the spice appear?",
+     "kid": "Pinch your nose and taste. Then let go, and notice what changes in your mouth.",
      "ask": [
       {
        "q": "What changed when you let go of your nose?",
@@ -1754,7 +1754,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: the spice flavour comes from my nose, not my tongue. What I noticed: with my nose pinched, all four bowls tasted just sweet. When I let go, I could name the spice. Why: the smell of the spice floats up into my nose when I chew."
     }
    ],
-   "context": "This is the Hold Your Nose test. You taste spoons of sugar with secret spices mixed in, first with your nose pinched shut, then with it open.",
+   "context": "This is the Hold Your Nose test. You taste spoons of sugar with secret spices mixed in, first with your nose pinched shut, then with it open. You will find out why the spice seems to vanish.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: spices named correctly, out of 3",
@@ -1835,7 +1835,7 @@
      "what": "Make four testers with different gaps. Test the fingertip, palm, forearm and back. Fill in the table."
     }
    ],
-   "record": "Fill in the table. Then draw an outline of a body and colour the places that felt the most detail.",
+   "record": "Fill in the table. Then tell your grown-up the places in order, from most detail to least. Or draw a body outline and colour the best places.",
    "flow": [
     {
      "id": "s1",
@@ -1890,7 +1890,7 @@
      "mins": 3,
      "do": "Look at the table together. Put the places in order, from the one that felt most detail to the one that felt least.",
      "say": "Which place could feel two points closest together? Why would that part of your body need to feel so much detail?",
-     "kid": "Which place felt two points closest together? Why might your fingertips need that?",
+     "kid": "Look at the table. Find the place where you felt two points closest together.",
      "check": {
       "t": "mcq",
       "q": "In a typical result, your fingertip feels two points 0.5 cm apart, but your back feels two points 4 cm apart as just one. Why?",
@@ -1913,7 +1913,7 @@
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: fingertips feel the most detail. What I found: my fingertip felt two points at 0.5 cm, but my back felt two points 4 cm apart as one. Why: fingertips have touch receptors packed closer together."
     }
    ],
-   "context": "This is the Two-Point Test. You touch the skin with two toothpick points at different gaps, and find where the skin can tell two points from one.",
+   "context": "This is the Two-Point Test. You touch the skin with two toothpick points at different gaps, and find where the skin can tell two points from one. You will find out which parts of your body feel the smallest details.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: smallest gap felt as two points",
@@ -2001,7 +2001,7 @@
      "what": "Make 8 sounds from around the room with two ears, then 8 with one ear blocked. Score each round."
     }
    ],
-   "record": "Fill in the table. Count the right answers for two ears and for one ear. Draw a bar for each.",
+   "record": "Fill in the table. Count the right answers for two ears and for one ear. Lay out one bean for each right answer, a row for two ears and a row for one ear. Or draw a bar for each.",
    "flow": [
     {
      "id": "s1",
@@ -2032,7 +2032,7 @@
      "mins": 2,
      "do": "Count the right answers in each round and compare them.",
      "say": "How many did you get with two ears? With one? Which places were hardest?",
-     "kid": "Count your right answers. Two ears or one: which was better? Which places were hardest?",
+     "kid": "Count your right answers with two ears, and then with one ear.",
      "check": {
       "t": "mcq",
       "q": "In Point at the Sound, most people find sounds better with two ears than with one. Why?",
@@ -2055,7 +2055,7 @@
      "parent": "A good answer sounds like this. What I think: two ears are better for finding sounds. What I found: I got 7 out of 8 right with two ears, but only 4 out of 8 with one ear blocked. Why: my brain compares my two ears to work out where the sound is."
     }
    ],
-   "context": "This is Point at the Sound. Blindfolded, you point to clicks from around the room, first with two ears and then with one ear blocked.",
+   "context": "This is Point at the Sound. Blindfolded, you point to clicks from around the room, first with two ears and then with one ear blocked. You will find out why you have two ears.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: sounds found correctly, out of 8",
@@ -2114,7 +2114,7 @@
      "what": "Sit still for one minute with eyes shut, then list everything you noticed with each sense."
     }
    ],
-   "record": "Draw six columns: ears, skin, nose, tongue, eyes, and inside my body. Write everything you noticed in the right column.",
+   "record": "Make a table with six columns: ears, skin, nose, tongue, eyes, and inside my body. Write everything you noticed in the right column.",
    "flow": [
     {
      "id": "s1",
@@ -2137,12 +2137,12 @@
      "mins": 3,
      "do": "Compare your two lists, and talk about the questions.",
      "say": "Did you notice anything you never usually notice? Was the fan there before we started, or did we just not hear it?",
-     "kid": "Compare lists. Did you notice something new? Was it there before, or did you just not notice it?",
+     "kid": "Compare lists. Point to one thing that only one of you noticed.",
      "think": "Pick the sense that gave you the fewest things. Close your eyes for one more minute and use only that sense. What new thing do you notice?",
      "parent": "Yes, the fan was there all along. Your brain only notices a few of its signals at a time. So a quiet sound can be there for a long time before you notice it."
     }
    ],
-   "context": "This is a one-minute noticing activity. You sit still with your eyes shut and notice everything your senses tell you.",
+   "context": "This is a one-minute noticing activity. You sit still with your eyes shut and notice everything your senses tell you. You will find out how much your body notices that you usually ignore.",
    "setup": [
     {
      "art": "A child and a parent sitting cross-legged on a kitchen floor, eyes closed, a phone timer between them.",
@@ -2197,7 +2197,7 @@
      "what": "Feel music through a balloon, watch grains jump on a cling-film drum, and hear a tap through a table."
     }
    ],
-   "record": "Draw the path of a sound: from the plate, through the air, to the cling film. Then draw the same path for your ear: from the plate, through the air, to your eardrum.",
+   "record": "Say the path of a sound: from the plate, through the air, to the cling film. Then say the same path for your ear, ending at your eardrum. Or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -2221,7 +2221,7 @@
      "mins": 3,
      "do": "1. Your child puts one ear flat on the table. 2. Tap the far end of the table gently with a pencil. 3. Then your child lifts their head, and you tap again the same way.",
      "say": "Put your ear on the table. I'll tap the other end. Now lift your head and listen again. Which was louder?",
-     "kid": "Put your ear on the table. Listen to the tap. Now lift your head. Which was louder?",
+     "kid": "Put your ear on the table and listen to the tap. Then lift your head and listen again.",
      "parent": "Most children hear the tap much louder through the table. Sound travels well through solid things, because their particles are packed close."
     },
     {
@@ -2229,7 +2229,7 @@
      "mins": 2,
      "do": "Talk about what the balloon, the cling film and the table had in common: all three shook.",
      "say": "The balloon, the cling film and the table all shook. Your eardrum shakes in the same way. Behind it, three tiny bones pass the shaking to your cochlea.",
-     "kid": "The balloon, the film and the table all shook. Your eardrum shakes just like that.",
+     "kid": "Think back to the balloon, the film and the table. What did all three do?",
      "check": {
       "t": "mcq",
       "q": "The sugar jumped on the cling film when the plate was banged. What reached the cling film?",
@@ -2244,7 +2244,7 @@
      }
     }
    ],
-   "context": "This is Feel the Sound. You feel and see sound shaking things, using a balloon, a cling-film drum and a table.",
+   "context": "This is Feel the Sound. You feel and see sound shaking things, using a balloon, a cling-film drum and a table. You will find out that sound is shaking.",
    "setup": [
     {
      "art": "Two small hands holding a balloon close to a phone speaker, with little buzz lines around the balloon.",
@@ -2322,7 +2322,7 @@
      "mins": 4,
      "do": "1. Swap 4 of the 8 things for the 4 new things, so the first set cannot be remembered. 2. Your child puts thick socks over both hands. 3. They try again. 4. Count the right guesses.",
      "say": "Now put socks on your hands, and try again. Is it easier or harder? Why?",
-     "kid": "Put socks on your hands. Try again. Is it harder? Why?",
+     "kid": "Put socks on both hands. Try again, and count your right guesses.",
      "parent": "With socks on, most children can still tell big shapes, but lose small details like the ridges on a coin or the seam of an elaichi pod. The sock stops the tiny pushes from reaching the touch receptors in the fingertips."
     },
     {
@@ -2330,12 +2330,12 @@
      "mins": 2,
      "do": "Talk about the star-nosed mole and Braille.",
      "say": "A star-nosed mole finds food in dark tunnels with the 22 fleshy fingers on the end of the nose. Blind people read Braille with their fingertips. Why fingertips, and not elbows?",
-     "kid": "A star-nosed mole touches with the end of the nose. Blind people read with their fingertips. Why not elbows?",
+     "kid": "Think about why fingertips are good at touch, and elbows are not.",
      "think": "Cold steel feels colder than a cotton ball, even in the same room. Steel carries heat away from your skin quickly. Cotton does not. Your skin senses how fast it loses heat. So are the steel and the cotton really different temperatures?",
      "parent": "Fingertips have touch receptors packed very close together, so they can feel tiny dots as separate. An elbow has its receptors far apart. This is what the Two-Point Test showed."
     }
    ],
-   "context": "This is the Mystery Bag. You name hidden things using touch alone, first with bare fingers and then with socks on your hands.",
+   "context": "This is the Mystery Bag. You name hidden things using touch alone, first with bare fingers and then with socks on your hands. You will find out how much your fingertips can tell without eyes.",
    "setup": [
     {
      "art": "A coin, a key, an elaichi pod, a rubber band, a cotton ball, a spoon, a rajma bean and a button being dropped into a pillowcase.",
@@ -2402,7 +2402,7 @@
      "mins": 2,
      "do": "Talk about why senses work like this.",
      "say": "Your senses mostly tell you what is changing. Why might that be useful?",
-     "kid": "Your senses mostly notice changes. Why might that be useful?",
+     "kid": "Think of a smell or a feeling you stopped noticing after a while.",
      "check": {
       "t": "mcq",
       "q": "You stopped feeling the coin, but felt it again when it moved. What does that show?",
@@ -2418,7 +2418,7 @@
      "parent": "Good answers: it stops you wasting attention on things that are always there, like your clothes. It means a new thing, like a mosquito landing on you, stands out at once."
     }
    ],
-   "context": "This is the Fading Coin. You find out that your senses stop noticing things that stay the same, using a coin on your skin and a smell in a jar.",
+   "context": "This is the Fading Coin. You find out that your senses stop noticing things that stay the same, using a coin on your skin and a smell in a jar. You will find out why you stop feeling your own clothes.",
    "setup": [
     {
      "art": "A child's forearm resting palm-up on a table with a coin on it, her eyes closed, a stopwatch beside her.",
@@ -2461,14 +2461,14 @@
      "what": "Draw a blue mango with a pink leaf, stare at it for 30 seconds, then look at white paper."
     }
    ],
-   "record": "Draw what you saw on the white paper, in the colours you saw.",
+   "record": "Tell your grown-up what colours you saw on the white paper. Or draw it.",
    "flow": [
     {
      "id": "s1",
      "mins": 6,
      "do": "1. On one sheet, draw a big mango shape, as big as your hand. 2. Colour it in solid, bright blue. 3. Draw a leaf on top and colour it pink. 4. Put a small black dot in the middle of the mango.",
      "say": "We're drawing a strange mango: a blue mango with a pink leaf. Colour it in thickly, with no white gaps.",
-     "kid": "Draw a big mango. Colour it bright blue. Give it a pink leaf. Put a black dot in the middle.",
+     "kid": "Draw a big mango, or ask your grown-up to draw it. Colour it bright blue. Give it a pink leaf. Put a black dot in the middle.",
      "context": "This is the first step of the Blue Mango. You draw a mango in the wrong colours, to trick the colour cells in your eyes."
     },
     {
@@ -2502,8 +2502,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Talk about where the yellow mango was.",
-     "say": "The paper was blank. So where was the yellow mango? On the paper, in your eye, or in your brain?",
-     "kid": "The paper was blank. So where was the yellow mango?",
+     "say": "Let's think. The paper was blank. Where did the yellow mango come from?",
+     "kid": "Tell your grown-up where you think the yellow mango was.",
      "think": "When you look at a real yellow mango, what travels along the nerve from your eye to your brain: yellow light, or electric signals?",
      "parent": "The yellow mango was made in your eye and brain. The paper sent no yellow light, because it was blank."
     }
@@ -2550,7 +2550,7 @@
      "mins": 4,
      "do": "1. Hold a pencil upright at arm's length. 2. Your child holds another pencil and tries to touch its tip to the tip of yours, coming from the side. 3. Do it 5 times with both eyes open. 4. Count the hits.",
      "say": "Touch your pencil tip to mine. Come in from the side. Let's try 5 times.",
-     "kid": "Touch your pencil tip to the other pencil tip. Try 5 times. Count your hits.",
+     "kid": "Try to touch the two pencil tips together. Count how many times you manage out of 5.",
      "context": "This is the first step of Two Eyes, One Picture. You find out why we have two eyes, using two pencils."
     },
     {
@@ -2571,7 +2571,7 @@
      "parent": "The owl judges distance better, because the brain compares two views of the same thing. The pigeon sees much further around, because the two eyes cover different directions."
     }
    ],
-   "context": "This is Two Eyes, One Picture. You try to touch two pencil tips together, first with both eyes open and then with one shut.",
+   "context": "This is Two Eyes, One Picture. You try to touch two pencil tips together, first with both eyes open and then with one shut. You will find out why two eyes help you judge how far away things are.",
    "setup": [
     {
      "art": "A parent holding a capped pen upright at arm's length and a child bringing another pen in from the side to touch tips.",
@@ -2638,8 +2638,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Your child shuts their eyes and stretches both arms out to the sides. 2. They touch the tip of their nose with one pointing finger, then put the arm back out. 3. Do it 3 times with each hand. 4. Count the touches out of 6.",
-     "say": "Eyes shut. Arms out wide. Now touch the tip of your nose with one finger. How did your finger know where your nose was?",
-     "kid": "Close your eyes. Stretch your arms out. Touch your nose with one finger. Now the other hand. How did you know where your nose was?",
+     "say": "Eyes shut. Arms out wide. Now touch the tip of your nose with one finger.",
+     "kid": "Close your eyes. Stretch your arms out. Touch your nose with one finger. Then try the other hand.",
      "ask": [
       {
        "q": "How did your finger find your nose without your eyes?",
@@ -2677,12 +2677,12 @@
      "mins": 2,
      "do": "Dry hands with the towel. Then talk about the senses inside the body.",
      "say": "Close your eyes for a moment. Are you hungry? Thirsty? Do you need the toilet? Which sense told you? It was not your eyes, ears, nose, tongue or skin.",
-     "kid": "Close your eyes. Are you hungry or thirsty? Which part of you told you?",
+     "kid": "Close your eyes. Ask your body what it needs right now.",
      "parent": "This is interoception, sensing the inside of the body. Stretch sensors notice a full stomach or bladder. Cells in the brain notice when the blood is too salty, and that makes you thirsty.",
      "think": "Aristotle counted five senses. Name three senses you used today that are not on his list."
     }
    ],
-   "context": "This is Senses You Forgot You Had. You test three senses that are not on the usual list of five: balance, knowing where your body is, and feeling warm and cold.",
+   "context": "This is Senses You Forgot You Had. You test three senses that are not on the usual list of five: balance, knowing where your body is, and feeling warm and cold. You will find out how your body knows these things without help from your eyes.",
    "setup": [
     {
      "art": "A child standing on one foot next to a wall with eyes closed and arms out, a parent standing close beside her.",
@@ -2750,7 +2750,7 @@
      "what": "Test yourself blindfolded again, in a new order. Compare your day 1 and day 4 scores. Make a bar chart."
     }
    ],
-   "record": "Write your score out of 6 on day 1 and on day 4. Draw two bars. Write one sentence about what changed.",
+   "record": "Write your score out of 6 on day 1 and on day 4. Show them as two rows of beans, or draw two bars. Write one sentence about what changed.",
    "flow": [
     {
      "id": "s1",
@@ -2799,9 +2799,9 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "Make the bar chart. Then ask your child to say or write three short sentences: what I think, what I saw, and why.",
+     "do": "Show the two scores as two rows of beans, one bean for each point. Then ask your child to say or write three short sentences: what I think, what I saw, and why.",
      "say": "Now tell me three things. Can noses learn? What did you find that shows it? And why do you think it happened?",
-     "kid": "Draw two bars: day 1 and day 4. Then say what you think, what you found, and why.",
+     "kid": "Lay out two rows of beans: day 1 and day 4. Then say what you think, what you found, and why.",
      "parent": "A good answer sounds like this. What I think: practice makes me better at naming smells. What I found: I got 3 out of 6 on day 1 and 6 out of 6 on day 4. A relative who did not practise got 3. Why: my brain learned to link each smell to its name."
     }
    ],
@@ -2868,7 +2868,7 @@
     "Make two cones, one for each ear, so your brain can still compare the two sides.",
     "Try a big ear flap shape copied from an animal: a fennec fox, an elephant or a bat."
    ],
-   "your_turn": "Now design your own hearing helper. Draw it, build it and test it. How many footsteps further can you hear the whisper?",
+   "your_turn": "Now design your own hearing helper. Plan it, build it and test it. How many footsteps further can you hear the whisper?",
    "flow": [
     {
      "id": "s1",
@@ -2884,7 +2884,7 @@
      "mins": 6,
      "do": "List three ideas together before building anything.",
      "say": "Before we build, let's think like engineers. Your ear flap collects sound and funnels it in. How could we make a bigger collector?",
-     "kid": "Think like an engineer. Draw three ideas for collecting more sound.",
+     "kid": "Think like an engineer. Tell your grown-up three ideas for collecting more sound, or draw them.",
      "parent": "If ideas are slow to come, point at the ear flap. It collects sound. A bigger collector gathers more of the vibrating air."
     },
     {
@@ -2961,7 +2961,7 @@
     "Use shape as well as texture: a triangle of card for chilli, because chilli is sharp and hot.",
     "Ask a blind person, or an organisation that works with blind people, what labels they really use."
    ],
-   "your_turn": "Now design your own labelling system. Draw it, make it and test it with a blindfolded family member. Did they find all three things first time?",
+   "your_turn": "Now design your own labelling system. Plan it, make it and test it with a blindfolded family member. Did they find all three things first time?",
    "flow": [
     {
      "id": "s1",
@@ -2974,9 +2974,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Plan a labelling system together on paper.",
+     "do": "Plan a labelling system together. Say your ideas, or sketch them on paper.",
      "say": "Your fingertips feel the most detail. How could we make each jar feel different?",
-     "kid": "Plan your labels. How can each jar feel different? In the Mystery Bag and the Two-Point Test, your fingertips felt the most detail.",
+     "kid": "Plan how to make each jar feel different. Think of things you can tell apart with a fingertip.",
      "parent": "Remind your child that in the Two-Point Test, fingertips felt two points even 0.5 cm apart. Braille dots are only about 2.5 millimetres apart, and fingertips can read them."
     },
     {

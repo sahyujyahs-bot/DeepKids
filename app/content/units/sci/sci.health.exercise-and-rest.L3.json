@@ -523,9 +523,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the card 'Does rest help a tired muscle recover?' as a practice round.",
-     "say": "Practice card. Does rest help a tired muscle recover?",
-     "kid": "Practice card. Does rest help a tired muscle recover? Say your answer, then check the back of the card.",
+     "do": "Play one card as a practice round. Read it aloud, and check the answer on the back.",
+     "say": "Let's try one card first, so you know how the game works.",
+     "kid": "Practice card. Say your answer, then turn the card over and check.",
      "check": {
       "t": "mcq",
       "q": "Does rest help a tired muscle recover?",
@@ -550,7 +550,7 @@
      "mins": 4,
      "do": "When everyone has reached the morning, each player says one thing the body does during sleep.",
      "say": "Everyone has reached the morning. Tell me one thing your body or brain does while you sleep.",
-     "kid": "You reached the morning. Say one thing your body does while you sleep.",
+     "kid": "You reached the morning! Think about the night squares you passed.",
      "ask": [
       {
        "q": "What does your body do while you sleep?",
@@ -589,7 +589,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a quick game like Simon Says. The caller names a muscle to contract or relax, and players feel it change.",
+   "context": "You will find out how a muscle feels when it contracts and when it relaxes. This is a quick game like Simon Says. The caller names a muscle to contract or relax, and players feel it change.",
    "printables": [
     {
      "kind": "cards",
@@ -707,7 +707,7 @@
      "what": "Guess what will happen. Squeeze the peg for five rounds of 30 seconds with no break. Rest for two minutes. Do round 6. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw one bar for each round, as tall as the number of squeezes.",
+   "record": "Fill in the table. Then make one bar for each round, as tall as the number of squeezes. Draw it, or stack coins.",
    "flow": [
     {
      "id": "s1",
@@ -723,7 +723,7 @@
      "mins": 4,
      "do": "1. Explain the plan: five rounds of 30 seconds with no break, then two minutes of rest, then round 6. 2. Ask for a guess and a reason. 3. Write the guess at the top of the table.",
      "say": "You will squeeze as fast as you can for 30 seconds, five rounds in a row with no break. Then you rest for two minutes. Then one more round. What do you think will happen to your count? Why?",
-     "kid": "You will squeeze for five rounds with no break. Then rest. Then one more round. What will happen to your count? Why do you think so?",
+     "kid": "Get ready. You will squeeze for five rounds with no break. Then rest. Then one more round.",
      "ask": [
       {
        "q": "What do you think will happen to your count each round, and why?",
@@ -781,9 +781,9 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "1. Your child draws a bar chart, one bar per round. 2. Then ask your child to say three things: what they think, what they saw, and why it happened.",
-     "say": "Draw a bar for each round. Then tell me three things. What do you think now? What did you see? And why do you think it happened?",
-     "kid": "Draw a bar for each round. Then say three things: what you think, what you saw, and why it happened.",
+     "do": "1. Your child shows each round as a bar: drawn, or a stack of coins with one coin for every 5 squeezes. 2. Then ask your child to say three things: what they think, what they saw, and why it happened.",
+     "say": "Show me a bar for each round. Then tell me three things. What do you think now? What did you see? And why do you think it happened?",
+     "kid": "Make a bar for each round: draw it, or stack coins, one for every 5 squeezes. Then say three things: what you think, what you saw, and why it happened.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: a muscle gets tired when it works without a break, and rest brings its strength back. What I saw: my count went from 48 to 29 in five rounds, then up to 43 after resting. Why: the muscle used up its fuel, and while I rested my blood helped refill it. Now read the card 'What a working muscle uses up' together."
     }
    ],
@@ -877,7 +877,7 @@
      "what": "Squeeze for one minute with the arm hanging down. Rest 10 minutes. Squeeze for one minute with the arm held up against a wall. Compare."
     }
    ],
-   "record": "Fill in the table, and draw two bars, one for each arm position.",
+   "record": "Fill in the table, and make two bars, one for each arm position. Draw them, or stack coins.",
    "flow": [
     {
      "id": "s1",
@@ -1047,7 +1047,7 @@
      "mins": 3,
      "do": "1. Work out the difference. 2. Ask your child to say what they think, what they saw, and why it happened.",
      "say": "How much taller or shorter were you this morning? Tell me what you think, what you saw, and why.",
-     "kid": "Take away the night number from the morning number. That is the difference. What do you think made it?",
+     "kid": "Take away the night number from the morning number. That is the difference. Were you taller or shorter?",
      "check": {
       "t": "mcq",
       "q": "Why are most people a little taller in the morning?",
@@ -1129,7 +1129,7 @@
     }
    ],
    "record": "Write how many seconds you held the bottle the first time and the second time.",
-   "context": "This is a short activity to start the unit. You hold a bottle of water out to the side until your arm cannot hold it any more.",
+   "context": "You will find out what happens to a muscle that works without a break. You hold a bottle of water out to the side until your arm cannot hold it any more.",
    "flow": [
     {
      "id": "s1",
@@ -1145,7 +1145,7 @@
      "mins": 2,
      "do": "Ask the question, and wait for a guess with a reason.",
      "say": "The bottle weighed the same all the time. So why did it feel heavier and heavier?",
-     "kid": "The bottle did not get heavier. So why did it feel heavier? What do you think?",
+     "kid": "The bottle did not get heavier. Think about your arm. What was it doing all that time?",
      "ask": [
       {
        "q": "Why did the bottle feel heavier and heavier?",
@@ -1198,8 +1198,8 @@
      "what": "Mountain pose, tree pose, cobra pose, then the bee breath, then child's pose to rest."
     }
    ],
-   "record": "Write how many seconds you held tree pose on each leg, and draw yourself in your favourite pose.",
-   "context": "In this activity you try three yoga poses and a yoga breath, and notice which muscles work in each one.",
+   "record": "Write how many seconds you held tree pose on each leg, and draw yourself in your favourite pose, or take a photo of it.",
+   "context": "You will find out which yoga poses test your balance, your stretch and your breathing. You try three poses and a yoga breath, and notice which muscles work in each one.",
    "flow": [
     {
      "id": "s1",
@@ -1323,7 +1323,7 @@
     }
    ],
    "record": "A table with these columns: date, bedtime, wake-up time, hours slept, how I felt (great, fine or tired), how long I played or exercised.",
-   "context": "In this 7-day activity you keep a diary of your sleep, and then draw one whole day as a circle of 24 hours.",
+   "context": "You will find out whether you get enough sleep, and how it changes the way you feel. For 7 days you keep a diary of your sleep, and then show one whole day as a circle of 24 hours.",
    "flow": [
     {
      "id": "s1",
@@ -1347,7 +1347,7 @@
      "mins": 7,
      "do": "1. On day 7, draw round a plate to make a big circle. 2. Mark 24 equal slices, one for each hour. 3. Think of yesterday. Colour the hours of sleep, school or study, play and meals in different colours.",
      "say": "Let's draw one day as a circle. Each slice is one hour. Which colour takes up the most room?",
-     "kid": "Draw a big circle round a plate. Mark 24 slices, one for each hour. Colour your sleep hours blue. Colour your play hours green.",
+     "kid": "Draw a big circle round a plate. Mark 24 slices, one for each hour. Colour your sleep hours blue. Colour your play hours green. Or make a ring of 24 buttons. Sort them into sleep, school, play and meals.",
      "parent": "To make 24 equal slices, draw a cross to make 4 quarters, then split each quarter into 3, then split each of those in half. Or mark a point every 15 degrees with a protractor."
     },
     {
@@ -1394,7 +1394,7 @@
     }
    ],
    "record": "Write your three groups. Circle the activities you do in a normal week.",
-   "context": "In this activity you sort everyday activities into three kinds of exercise, and try one of each.",
+   "context": "You will find out which kind of exercise each everyday activity is. You sort activities into three kinds, and try one of each.",
    "flow": [
     {
      "id": "s1",
@@ -1409,7 +1409,7 @@
      "mins": 5,
      "do": "Your child sorts the slips and explains each choice.",
      "say": "Why did you put kabaddi there? Could it go in more than one bowl?",
-     "kid": "Sort all 12 slips. Some could go in two bowls. Which ones?",
+     "kid": "Sort all 12 slips into the bowls. Tell your grown-up why you chose each bowl.",
      "ask": [
       {
        "q": "Which activities use more than one kind of exercise?",
@@ -1462,7 +1462,7 @@
     }
    ],
    "record": "Write the answers in a table with two columns: then and now.",
-   "context": "In this activity you interview an older person about how children moved, played and slept when they were young.",
+   "context": "You will find out how children's play and sleep have changed. You interview an older person about how children moved, played and slept when they were young.",
    "flow": [
     {
      "id": "s1",
@@ -1611,9 +1611,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. On day 10, test again. 2. Draw a bar chart of tree pose times on days 1, 5 and 10. 3. Ask your child to say what they think, what they saw, and why it happened.",
+     "do": "1. On day 10, test again. 2. Make a bar chart of tree pose times on days 1, 5 and 10: drawn, or a stack of coins for each day. 3. Ask your child to say what they think, what they saw, and why it happened.",
      "say": "Did your times change? Tell me what you think, what you saw, and why.",
-     "kid": "Draw a bar for day 1, day 5 and day 10. Did you get steadier? Why do you think so?",
+     "kid": "Make a bar for day 1, day 5 and day 10: draw it, or stack coins, one for every 5 seconds. Did you get steadier?",
      "check": {
       "t": "mcq",
       "q": "A child held tree pose for 12 seconds on day 1 and 40 seconds on day 10, after practising every day. What is the best explanation?",
@@ -1676,7 +1676,7 @@
     "Make it a dance to your favourite song, such as garba, bhangra or a film song, with each verse a different kind of move."
    ],
    "your_turn": "Now plan your own monsoon workout. Write the moves and the rest times on a card. Do it with your family, and time it. Did it work your breath, your muscles and your stretch?",
-   "context": "This is a design challenge. You plan a workout for a rainy day in a small flat.",
+   "context": "You will make a workout plan that you can really do on a rainy day. It is a design challenge for a small flat.",
    "flow": [
     {
      "id": "s1",
@@ -1689,9 +1689,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child writes the plan: each move, how long, and the rests.",
-     "say": "Write each move, how long it lasts, and where the rests go. Why do you need rests?",
-     "kid": "Write your moves. How long is each one? Put in rests. Why do you need them?",
+     "do": "Your child makes a card for each move and how long it lasts. Put the cards in order, with rest cards between.",
+     "say": "Make a card for each move, and say how long it lasts. Where do the rests go?",
+     "kid": "Write each move on a card, with how long it lasts. Put the cards in order, with rests between.",
      "ask": [
       {
        "q": "Why put rests between the moves?",
@@ -1749,7 +1749,7 @@
     "Open the window on the far side of the flat in the evening to let cooler air through."
    ],
    "your_turn": "Now design your own sleep den for Kavya. Build it as a model in a shoebox, or draw it. Then write a bedtime routine for her with five steps.",
-   "context": "This is a design challenge. You plan a bedroom and a bedtime routine to help a girl sleep beside a noisy road.",
+   "context": "You will find out what helps a person sleep in a noisy place. It is a design challenge: you plan a bedroom and a bedtime routine to help a girl sleep beside a noisy road.",
    "flow": [
     {
      "id": "s1",

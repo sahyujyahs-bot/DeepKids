@@ -301,13 +301,13 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **Printable tokens: Organ tokens: draw each one on coloured paper and cut it out (one set):** Brain; Heart [picture]; Left lung (smaller, with a dent); Right lung; Stomach (J shape); Intestines (coiled); Food pipe; Windpipe
 - **Printable cards: 24 clue cards to cut out (the answer is on the back):** I sit inside a bony helmet. Who am I? (back: Brain: in the head, inside the skull); I am about the size of your fist. I squeeze all day and all night. Who am I? (back: Heart: in the middle of the chest); There are two of us. We are soft and spongy, and we are full of air. Who are we? (back: Lungs: in the chest, one on each side of the heart); I am shaped like a J. I sit under your ribs on the left. Who am I? (back: Stomach: under the ribs, on the left); I float in a clear liquid that stops me banging on bone. Who am I? (back: Brain: in the head, inside the skull); I am smaller than my twin, because I leave room for the heart. Who am I? (back: Left lung: on the left side of the chest); I am a stretchy bag. I make a strong acid. Who am I? (back: Stomach: under the ribs, on the left); I am a long, coiled tube. Most of your tummy below the belly button is me. Who am I? (back: Intestines: in the belly, below the belly button); I carry food from your mouth down to the stomach. Who am I? (back: Food pipe: from the mouth down to the stomach); I carry air from your nose down to the lungs. Who am I? (back: Windpipe: from the nose and throat down to the lungs); I have about 86 billion nerve cells. Who am I? (back: Brain: in the head, inside the skull); I sit in the middle of your chest, tipped a little to the left. Who am I? (back: Heart: in the middle of the chest, tipped a little to the left); I take in air all night, even when you are fast asleep. Who am I? (back: Lungs: in the chest. The brain tells them to keep going.); I churn your food like hands kneading dough. Who am I? (back: Stomach: under the ribs, on the left); I have four chambers, or rooms, inside me, and blood flows through them. Who am I? (back: Heart: in the middle of the chest); Oxygen passes through my hundreds of millions of tiny air bags into your blood. Who am I? (back: Lungs: in the chest); TEAM CARD: You are running for the bus. Point to the two organs that speed up. (back: The heart and the lungs); TEAM CARD: You just ate a big lunch. Point to the organ that is stretched wide. (back: The stomach); TEAM CARD: You are doing a hard puzzle. Which organ is using a lot of energy? (back: The brain); TEAM CARD: You smell dosas roasting and your mouth fills with water. Which organ sends that message? (back: The brain); FEEL IT: Everyone puts a hand on the middle of their chest. What can you feel? (back: Your heartbeat, from the heart); FEEL IT: Everyone breathes in deeply with hands on their ribs. What moves? (back: Your ribs and chest move, as the lungs fill with air); FEEL IT: Everyone knocks gently on their head. What is the hard part called? (back: The skull); FEEL IT: Everyone swallows a sip of water. Where does it go? (back: Down the food pipe to the stomach)
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw a big body outline on paper. Add ribs and a backbone, but no organs. 2. Cut out the organ tokens. 3. Shuffle the clue cards and put them face down.  
+  *Parent does:* 1. Draw a big body outline on paper, or trace round your child. Add ribs and a backbone, but no organs. 2. Cut out the organ tokens. 3. Shuffle the clue cards and put them face down.  
   *Parent says:* This is a game about the organs inside us. An organ is a body part with a special job. I read a clue, and you race to put that organ in the right place.  
-  *Child mode:* Draw a big body outline. Cut out the organ tokens. Mix the clue cards. Put them face down.
+  *Child mode:* Draw or trace a big body outline. Cut out the organ tokens. Mix the clue cards. Put them face down.
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together: 'I am shaped like a J. I sit under your ribs on the left. Who am I?'  
   *Parent says:* Practice card. 'I am shaped like a J. I sit under your ribs on the left.' Who am I? And where do I go?  
-  *Child mode:* Practice card. A J shape, under the ribs on the left. Who is it? Put it on the outline.
+  *Child mode:* Listen to the clue. Put the organ token on the outline.
   - Check: Where does the stomach go on the body outline? → **Under the ribs, on the left**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns to read a card. 2. Everyone else races to place the token. 3. Check the place on the outline together before giving the card.  
@@ -317,7 +317,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **s4 (2 min)**  
   *Parent does:* When a TEAM card comes up, everyone races to answer.  
   *Parent says:* Team card! 'You are running for the bus. Point to the two organs that speed up.'  
-  *Child mode:* Team card. You are running for the bus. Which two organs speed up?
+  *Child mode:* Team card. Race to point to the two organs on the outline.
   - Check: You are running for the bus. Which two organs speed up? → **Heart and lungs**
 - **s5 (2 min)**  
   *Parent does:* Count the cards. Then ask each player to point to all four big organs on their own body.  
@@ -337,7 +337,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **s2 (3 min)**  
   *Parent does:* Turn over 'Eat a big breakfast of idli and sambar' as a practice card. Then shuffle it back in.  
   *Parent says:* Practice card: a big breakfast. Which organs work harder?  
-  *Child mode:* Practice card: a big breakfast. Who works harder? Say why.
+  *Child mode:* Think about what your organ does at breakfast. Does it work harder? Say why.
   - Check: You eat a big breakfast. Which organ is busiest? → **The stomach**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns turning over cards. 2. Players whose organ works harder say why, and take a token.  
@@ -347,7 +347,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **s4 (4 min)**  
   *Parent does:* At the end, check that every organ has at least 3 tokens. Then ask the team question.  
   *Parent says:* Let's count. Does every organ have 3 tokens? Now the big question. Did any organ get through the whole day alone?  
-  *Child mode:* Count your tokens. Does every organ have 3? Did any organ get through the day alone?
+  *Child mode:* Count your tokens. Does every organ have 3 or more?
   - Ask: Could the brain do its work without the heart? (good: No. The heart sends it blood with oxygen.; No. Without blood, the brain stops working in minutes.)
   - Note: Many cards make three organs busy at once, such as running for the bus, swimming or playing kabaddi. The point is that in a real day almost nothing uses just one organ.
   - Think: Which event card made the most organs busy at once?
@@ -359,12 +359,12 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **predict:** Before you test, guess. Will a raw egg crack first in an empty jar, or in a jar filled to the top with water? Why do you think so?
 - **fair test:** To make it fair, use two eggs of the same size and two jars of the same size. Shake both the same way, the same number of times. Only the water changes.
 - **safety:** Do this over the sink or a tray. Wash hands with soap after touching raw egg. Use plastic jars, never glass.
-- **record:** Fill in the table. Draw the two eggs, or the two banana pieces, after the test.
+- **record:** Fill in the table. Take a photo of the two eggs, or the two banana pieces, after the test. Or draw them.
 - **results table:** Jar | Egg or banana after 5 shakes | After 10 shakes | What I noticed
 - **s1 (3 min)**  
   *Parent does:* 1. Ask your child to knock gently on their head. 2. Show them the egg and the jars.  
-  *Parent says:* Knock gently on your head. That hard part is your skull. Your brain is soft, a bit like this raw egg. This jar is like a skull. Inside your skull, your brain floats in a clear liquid. Why do you think it floats?  
-  *Child mode:* Knock gently on your head. That is your skull. Your brain inside is soft, like this egg. It floats in liquid. Why?
+  *Parent says:* Knock gently on your head. That hard part is your skull. Your brain is soft, a bit like this raw egg. This jar is like a skull. Inside your skull, your brain floats in a clear liquid.  
+  *Child mode:* Knock gently on your head. That is your skull. Your brain inside is soft, like this egg. It floats in liquid.
   - Ask: What might the liquid do for the brain? (good: It cushions it.; It stops it banging on the bone.; It keeps it wet.)
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess which egg will crack first, and to write down the guess.  
@@ -384,7 +384,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **s5 (4 min)**  
   *Parent does:* Talk about where the model is like a real head, and where it is different.  
   *Parent says:* Our model is like a head in some ways. How is it different from a real head?  
-  *Child mode:* How is the egg like your brain? How is it different?
+  *Child mode:* Think about the egg, the jar and the water. Which part is like the skull? Which part is like the liquid around the brain?
   - Ask: How is a real brain different from the egg? (good: A brain is soft all through, not in a shell.; A real skull fits the brain closely.; A real brain is alive and has blood going to it.)
   - Note: This is why we wear helmets for cycling and cricket. A very big knock can still hurt the brain, even with the liquid.
 - **s6 (5 min)**  
@@ -397,7 +397,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **question:** Does churning food, like the stomach does, break it down faster?
 - **predict:** Before you test, guess. After five minutes, will the biscuit in the squished bag or the still bag be more broken up? Why do you think so?
 - **fair test:** To make it fair, put the same biscuit and the same amount of water in each bag, and leave them for the same time. Only the squishing changes.
-- **record:** Fill in the table. Draw what is inside each bag after 5 minutes.
+- **record:** Fill in the table. Take a photo of each bag after 5 minutes, or draw what is inside.
 - **results table:** Bag | What it looks like after 1 minute | After 5 minutes | Lumps left (many, some, few)
 - **s1 (3 min)**  
   *Parent does:* Ask your child to point to where their stomach is. Then show them a zip-lock bag.  
@@ -415,12 +415,12 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **s4 (5 min)**  
   *Parent does:* Hold both bags up to the light and compare. Count or guess the lumps.  
   *Parent says:* Hold them up to the window. Which has more lumps? Which looks more like soup?  
-  *Child mode:* Hold the bags up to the light. Which has more lumps?
+  *Child mode:* Hold the bags up to the light. Count the lumps in each.
   - Check: In the squish bag test, which bag usually breaks down more? → **The squished bag**
 - **s5 (3 min)**  
   *Parent does:* Talk about what the bag model leaves out.  
-  *Parent says:* Our bag only has water. A real stomach adds something else, a strong juice with acid in it. What would that juice do to the food?  
-  *Child mode:* A real stomach also adds a strong juice. What would it do?
+  *Parent says:* Our bag only has water. A real stomach adds something else too. Think about what it is.  
+  *Child mode:* Our bag has only a biscuit and water. A real stomach has something more.
   - Ask: What does the stomach add that our bag does not? (good: Acid; Digestive juice; Warmth)
   - Note: Chewing breaks food into small bits before it reaches the stomach. Small bits break down faster, as the squished biscuit did, and as the crushed mishri did in the lump or bits test.
   - Think: Why do you think grown-ups say to chew your food well?
@@ -435,7 +435,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **predict:** Before you test, guess. Will the whole lump or the crushed lump disappear into the water first? Why do you think so?
 - **fair test:** To make it fair, use two lumps of mishri the same size, two glasses the same size with the same amount of water from the same jug, and stir both the same way. Only the crushing changes. Do the test twice.
 - **safety:** Crush the lump inside a folded cloth, so no bits fly.
-- **record:** Fill in the table. Draw a bar for the whole lump and a bar for the crushed lump.
+- **record:** Fill in the table. Draw a bar for the whole lump and a bar for the crushed lump. Or just write which was faster.
 - **results table:** Sugar | Try 1: minutes until it disappeared | Try 2: minutes | What I noticed
 - **s1 (3 min)**  
   *Parent does:* Show your child a lump of mishri. Ask what they notice about its outside.  
@@ -452,9 +452,9 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   *Child mode:* Tip both in at the same time. Stir, one stir each second. Watch the clock. Stop at 6 minutes. Do it twice.
   - Note: The crushed bits usually vanish in a minute or two. The whole lump takes several minutes, often longer. If it is still there after 6 minutes, write '6 minutes and still there'. Swapping who stirs keeps the test fair.
 - **s4 (3 min)**  
-  *Parent does:* Draw one bar for the whole lump and one for the crushed lump.  
-  *Parent says:* Let's draw a bar for each. Which bar is taller? Which sugar was faster?  
-  *Child mode:* Draw a bar for the whole lump and one for the bits. Which is taller?
+  *Parent does:* Draw one bar for each lump, as tall as the minutes it took. Or just say which time was shorter.  
+  *Parent says:* Let's make a bar for each. Which bar is taller? Which sugar was faster?  
+  *Child mode:* Draw a bar for each lump, as tall as its minutes. Or just say which time was shorter.
   - Check: In the lump or bits test, why did the crushed sugar disappear faster? → **Much more of the sugar was touching the water**
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -464,7 +464,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 
 ## Activities
 ### a1 · Feel Your Inside (8 min)
-- **record:** Draw a quick outline of yourself. Put a dot where you felt each thing.
+- **record:** Say where you felt each thing: chest, ribs, throat, head. Or draw a quick outline and put a dot for each.
 - **s1 (2 min)**  
   *Parent does:* 1. Sit together quietly. 2. Ask your child to put a flat hand on the middle of their chest and keep still.  
   *Parent says:* Put your hand flat on the middle of your chest. Be very still. What do you feel? Now move your hand a little to the left. Is it stronger?  
@@ -479,12 +479,12 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **s3 (2 min)**  
   *Parent does:* Ask your child to take a sip of water and feel it go down, with one hand on the throat.  
   *Parent says:* Take a sip. Swallow. Feel your throat move. Where do you think the water goes next?  
-  *Child mode:* Sip some water. Swallow. Feel your throat move. Where does the water go?
+  *Child mode:* Sip some water. Swallow. Feel your throat move.
   - Check: When you swallow water, where does it go? → **Down the food pipe to the stomach**
 - **s4 (2 min)**  
-  *Parent does:* Ask your child to knock gently on the top of their head, then draw dots on a quick outline.  
-  *Parent says:* Knock gently on your head. That hard part is your skull. What do you think is inside? Now draw yourself and put a dot for each thing you felt.  
-  *Child mode:* Knock gently on your head. That is your skull. What is inside? Draw yourself. Put a dot for each thing you felt.
+  *Parent does:* Ask your child to knock gently on the top of their head, then point to each place they felt something. Ask what it was.  
+  *Parent says:* Knock gently on your head. That hard part is your skull. What do you think is inside? Now point to each place you felt something. Tell me what it was.  
+  *Child mode:* Knock gently on your head. That is your skull. Now point to each place you felt something. Say what it was.
   - Note: The skull guards the brain. The ribs guard the heart and the lungs. Both are hard bone around soft organs.
   - Think: You knocked on your skull and felt your ribs move. Which soft organs do you think each of these bones guards?
 ### a2 · The Life-size Organ Map (30 min)
@@ -494,9 +494,9 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   *Parent says:* Lie down on the paper. I'm going to draw round you. This is going to be a map of you, from the inside.  
   *Child mode:* Lie on the paper. Keep still. A grown-up draws round you. This will be a map of your inside.
 - **s2 (4 min)**  
-  *Parent does:* Before cutting anything, ask your child to draw with a pencil where they think the brain, heart, lungs and stomach go.  
-  *Parent says:* Before we look anything up, draw where you think your organs are. Just a pencil shape. It's fine to guess.  
-  *Child mode:* Draw where you think your brain, heart, lungs and stomach are. Just guess. Use a pencil.
+  *Parent does:* Before cutting anything, ask your child to put a pencil dot where they think the brain, heart, lungs and stomach go. Write B, H, L or S beside each dot.  
+  *Parent says:* Before we look anything up, put a pencil dot where you think each organ goes. Write B, H, L or S beside it. It's fine to guess.  
+  *Child mode:* Put a pencil dot where you think your brain, heart, lungs and stomach are. Write B, H, L or S beside each. Just guess.
   - Note: This drawing shows what your child thinks now. Do not correct it yet. Many children draw a small heart on the far left, small lungs and a stomach low behind the belly button.
 - **s3 (9 min)**  
   *Parent does:* Cut out organs at these sizes, using your child's hands as a guide. Heart: the size of their closed fist, red. Brain: two fists side by side, pink. Each lung: a tall leaf shape as long as their hand and a half, pink. Make the left lung a bit narrower, with a dent. Stomach: a J shape about as big as their open hand, yellow. Intestines: a long brown strip, coiled.  
@@ -506,7 +506,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **s4 (6 min)**  
   *Parent does:* Ask your child to place each organ on the map. Then check the places together and move any that are wrong.  
   *Parent says:* Put each organ where you think it goes. Now let's check. Heart in the middle, tipped left. Lungs on both sides. Stomach under the ribs on the left. Brain in the head.  
-  *Child mode:* Put each organ on your map. Now check. Heart in the middle. Lungs on both sides. Stomach under the left ribs. Brain in the head.
+  *Child mode:* Put each organ on your map where you think it goes. Then check it with your grown-up.
   - Check: On your organ map, where do the lungs go? → **Filling most of the chest, one on each side of the heart**
 - **s5 (3 min)**  
   *Parent does:* Glue the organs down. Compare the pencil guesses with where the organs are now.  
@@ -539,7 +539,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   *Child mode:* Write a table. Organ, kitchen thing, grams. Which was heaviest?
   - Note: The two lungs together weigh about 1 kilogram in a grown-up, but they are mostly air and very light for their size. The liver, under the right ribs, is the heaviest organ inside, about 1,500 grams.
 ### a4 · The Body Council (act it out) (15 min)
-- **record:** Draw one scene as a comic strip with four boxes.
+- **record:** Take a photo of your favourite moment from the play. Or draw one scene as a comic strip with four boxes.
 - **s1 (3 min)**  
   *Parent does:* Make four signs that say BRAIN, HEART, LUNGS and STOMACH. Your child is the BRAIN, sitting on a chair. You are the HEART. Toys are LUNGS and STOMACH.  
   *Parent says:* You are the brain. You get messages from the senses and send messages to the other organs. I am the heart. I drum the beat. Pick a toy to be the lungs and another toy to be the stomach.  
@@ -562,7 +562,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 ### a5 · Same Plan, Different Animals (20 min)
 - **problem:** A fish, a cow, an octopus and you are all animals. In this activity you look at where each animal keeps a heart, a stomach and a brain, and how each one breathes. You will see that some animals have almost the same plan inside as you, and some are very different.
 - **safety:** At a fish market, stay with a grown-up and keep your hands away from knives.
-- **record:** Draw yourself and one other animal side by side, with the four organs in each.
+- **record:** Make a table for you, a fish, a cow and an octopus: how many hearts, and lungs or gills. Or point to the organs in the pictures and say what is the same.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Look at the fish picture, or a real fish being cleaned if your family eats fish. Find the heart, stomach, brain and swim bladder.  
   *Parent says:* Fish have a brain in a bony box, a small heart low behind the gills, a stomach and a gut. They breathe with gills. They also have an air bag called a swim bladder. That air bag is a distant cousin of your lungs.  
@@ -579,9 +579,9 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   *Child mode:* Sponges have no heart, stomach or brain. How do they stay alive?
   - Ask: How do sponges eat and breathe without organs? (good: Each cell does it alone.; Water flows through them and every cell takes what it needs.)
 - **s4 (6 min)**  
-  *Parent does:* Draw yourself and one animal side by side, using the same colour for the same organ in each.  
-  *Parent says:* Draw yourself and one animal. Use red for both hearts and pink for both brains. What is the same? What is different?  
-  *Child mode:* Draw yourself and one animal. Same colour for the same organ. What is the same?
+  *Parent does:* Make a table with a row each for you, the fish, the cow and the octopus. Fill in how many hearts each has, and whether it breathes with lungs or gills.  
+  *Parent says:* Let's fill in a table. How many hearts does each one have? Does it breathe with lungs or gills? What is the same as you? What is different?  
+  *Child mode:* Fill in the table. Write the number of hearts, and lungs or gills, for each.
   - Note: A fish and a person are both animals with a backbone. All animals with a backbone came from one very distant ancestor, so their insides follow a similar plan. There is a brain in a skull, a heart near the front and a gut below. That is also why a fish's air bag and our lungs began as the same thing.
   - Think: Why do you think a fish and you have the same plan inside?
 ### a6 · One Breath, One Bite: trace the team (15 min)
@@ -602,7 +602,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **s4 (2 min)**  
   *Parent does:* Ask your child to point to the brain and say what it needs from each string.  
   *Parent says:* Point to the brain. What does it need from the red string?  
-  *Child mode:* Point to the brain. What does it need from the blood?
+  *Child mode:* Point to the brain on your map. Follow the red string to it with your finger.
   - Ask: What does the brain get from the blood? (good: Oxygen from the lungs.; Food from the stomach and intestines.)
 
 ## Projects
@@ -614,7 +614,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   *Parent says:* Under the shirt, draw what is really there. Brain in the head, lungs and heart in the chest, stomach under the left ribs.  
   *Child mode:* Draw a child in a shirt. Cut the shirt so it opens. Draw the organs underneath, in the right places.
 - **s2 (20 min)**  
-  *Parent does:* Make four pages. On each, draw one organ and write three lines: 'I live…', 'My job is…', 'Amazing fact…'.  
+  *Parent does:* Make four pages. On each, put one organ picture (draw it, or cut one from a magazine or print one) and write three lines: 'I live…', 'My job is…', 'Amazing fact…'.  
   *Parent says:* For each organ, write where it lives, what it does and one amazing fact.  
   *Child mode:* One page for each organ. Write where it lives. Write its job. Write one amazing fact.
   - Check: Which is a true amazing fact for your heart page? → **The heart can start a beat by itself, without the brain**
@@ -629,7 +629,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 ## Challenges
 ### c1 · Helmet for an Egg Brain (30 min)
 - **problem:** Design a helmet for a raw egg, so it can fall from the height of a table onto the floor without cracking.
-- **your turn:** Now invent your own helmet. Draw it, build it and test it. Then make it better.
+- **your turn:** Now invent your own helmet. Draw or describe your plan, build it and test it. Then make it better.
 - **constraints:** You can only use things from home: paper, cloth, cotton, a plastic cup, rubber bands, tape.; The helmet must fit in two hands.; The egg must be easy to take out and check.
 - **general:** Wrap the egg in something soft, like cotton wool or cloth, so it is cushioned.; Then put the wrapped egg inside a hard cup, like a skull.; Make sure the egg cannot rattle around inside.
 - **creative:** Put the egg in a small bag of water inside the cup, like the liquid around your brain.; Look at a cricket or cycling helmet. It has a hard outside and soft foam inside. Copy the idea.; Add a paper parachute so the helmet lands more slowly.
@@ -638,9 +638,9 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
   *Parent says:* Your skull is hard on the outside. Inside, your brain is cushioned by liquid. How could we copy that for an egg?  
   *Child mode:* Your skull is hard outside. Liquid cushions your brain inside. How can you copy that?
 - **s2 (12 min)**  
-  *Parent does:* Your child draws a design, then builds it from things at home.  
-  *Parent says:* Draw your helmet first. What is hard on the outside? What is soft inside?  
-  *Child mode:* Draw your helmet. Hard outside, soft inside. Then build it.
+  *Parent does:* Your child makes a plan by drawing it or telling you, then builds it from things at home.  
+  *Parent says:* Make a plan first. Draw it or tell me: what is hard on the outside? What is soft inside?  
+  *Child mode:* Plan your helmet: hard outside, soft inside. Draw it, or tell your grown-up. Then build it.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* Over a tray, a grown-up drops the helmet from table height. Open it and check the egg.  
   *Parent says:* Three, two, one, drop! Let's open it carefully. Is the egg whole?  
@@ -670,7 +670,7 @@ The next Sunday, Amma laid a pomfret on the board. Meenu sat down on the step be
 - **s3 (6 min)**  
   *Parent does:* Tape paper strips across the top as ribs.  
   *Parent says:* Now add the ribs, like the bars of a cage. Why leave gaps between them?  
-  *Child mode:* Tape paper ribs over the top. Leave gaps. Why?
+  *Child mode:* Tape paper ribs over the top, like the bars of a cage. Leave gaps.
   - Note: Real ribs have muscles between them, and they swing up and out when you breathe in. A solid box would not let the lungs grow.
 - **s4 (5 min)**  
   *Parent does:* Show the model to someone and explain it.  

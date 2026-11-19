@@ -214,17 +214,17 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Shuffle them. 3. Read the rules together.  
   *Parent says:* Each card is a problem. Your job is to say who helps with it.  
-  *Child mode:* Each card is a problem. Say who helps. Then turn it over.
+  *Child mode:* Help to cut out the cards and shuffle them.
 - **s2 (13 min)**  
   *Parent does:* Play the game. Each player reads a problem, names the helper, then turns the card over.  
   *Parent says:* Who would you go to for this? What do they do?  
-  *Child mode:* Read the problem. Who helps? Turn it over to check.
+  *Child mode:* Read the problem on your card. Then turn it over to check.
   - Note: Some problems have more than one good answer. A neighbour can help with a fallen person too, while you wait for the ambulance. Accept any answer with a good reason.
   - Check: Who looks after the street lights in a city? → **The municipality**
 - **s3 (4 min)**  
   *Parent does:* Talk about which helpers are public services and which are people you pay yourself.  
   *Parent says:* Which helpers did we pay ourselves? Which are paid for by everyone's taxes?  
-  *Child mode:* Which helpers do we pay ourselves? Which are paid by taxes?
+  *Child mode:* Sort all the cards into two heaps: helpers paid by taxes, and helpers we pay ourselves.
   - Ask: Name one helper paid by taxes, and one you pay yourself. (good: The fire service is paid by taxes. The tailor is paid by us.)
   - Note: A good answer sounds like this: if the garbage collectors stopped, the garbage would pile up and people would fall ill. That is why services that everyone needs are paid for by everyone, through taxes.
   - Think: Pick one helper on the cards that is paid by taxes. What would your street lose if that service stopped?
@@ -240,8 +240,8 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - **results table:** Game | Round | Fish in the pond at the start | Fish taken by all players | Fish left | Fish after the pond doubles (no more than 20)
 - **s1 (5 min)**  
   *Parent does:* 1. Count the players (2 to 4). Write the limit for each player in the notebook: 8 fish a round for 2 players, 6 for 3, 5 for 4. 2. Put 20 chana in the bowl. Keep the rest as a spare pile. 3. Give each player 12 slips and a pencil. 4. Read the rules aloud. 5. Write your child's guess and reason.  
-  *Parent says:* These 20 chana are fish in a pond we all share. Each round, you secretly write how many fish you take, from 0 up to our limit. Then the fish left in the pond have babies, so the number doubles. But the pond can never hold more than 20. If it ever reaches 0, no fish are left to have babies. Your aim is to catch as many fish as you can. Which game will last longer, silent or talking? Why?  
-  *Child mode:* The chana are fish. Each round, write how many you take, from 0 up to the limit. The fish left will double. The pond holds 20 at most. Guess: will the silent game or the talking game last longer? Why?
+  *Parent says:* These 20 chana are fish in a pond we all share. Each round, you secretly write how many fish you take, from 0 up to our limit. Then the fish left in the pond have babies, so the number doubles. But the pond can never hold more than 20. If it ever reaches 0, no fish are left to have babies. Your aim is to catch as many fish as you can.  
+  *Child mode:* The chana are fish. Each round, write how many you take, from 0 up to the limit. The fish left will double. The pond holds 20 at most.
   - Ask: Which game do you think will last longer, and why? (good: The talking game, because we can agree not to take too much.; The same, because everyone wants fish in both games.)
   - Note: The limit changes with the number of players. This way, in any group, the players together can take about the whole pond in one round. Write the guess down before you start, because a wrong guess is a useful result too.
 - **s2 (8 min)**  
@@ -267,8 +267,8 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   - Note: Grown-ups still try to catch as many fish as they can, but they may now keep or break the rule as they really would. If someone breaks it, let the players talk about it. That is part of the test.
 - **s6 (5 min)**  
   *Parent does:* 1. Each player counts their fish from the talking game. 2. Compare both tables. 3. Ask your child what they think happened, what they saw, and why. 4. Compare with the guess from the start.  
-  *Parent says:* In which game did the pond last longer? In which game did each of us catch more fish? What changed between the two games? Was your guess right?  
-  *Child mode:* Which pond lasted longer? When did you catch more fish? What was different? Was your guess right?
+  *Parent says:* In which game did the pond last longer? In which game did each of us catch more fish? What changed between the two games?  
+  *Child mode:* Put your two tables side by side. Look at the guess you wrote at the start. Was it right?
   - Ask: Why did the pond run out, or last, in each game? (good: In the silent game everyone took a lot, so too few fish were left to double.; In the talking game we took 10 in all each round, so 10 stayed and doubled back to 20.; We caught more in the talking game, because the pond kept making fish.)
   - Note: This is called claim, evidence and reasoning. A good answer sounds like this. What I think: talking and agreeing a rule kept the pond full. What I saw: the silent pond was empty after 2 rounds, and the talking pond lasted all 6. Why: we left at least 10 fish each time, so the pond doubled back to 20.
   - Think: Our building's water tank is a shared pond too. What would a rule for it look like?
@@ -276,7 +276,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - **question:** How many days does a postcard take to reach a relative in another town, and what does the post office do on the way?
 - **predict:** Guess first. How many days will your postcard take to arrive? Will a card to a far town take longer than a card to a near one? Why do you think so?
 - **fair test:** Write the full address with the PIN code clearly, so the card is not slowed by a mistake. Post it on a working day, and write the date you post it. Ask the relative to phone you the day it arrives. If you can, send two cards on the same day, one to a near town and one to a far town, so the distance is the only big difference.
-- **record:** Fill in the table. Draw the path of the card: post box, post office, sorting office, train or van, the town's post office, and the postwoman or postman at the door.
+- **record:** Fill in the table. Write the path of the card as a list, in order: post box, post office, sorting office, train or van, the town's post office, and the postwoman or postman at the door. Count the people.
 - **results table:** Card sent to | Distance (km, from a phone map) | My guess (days) | Date posted | Date it arrived | Days taken
 - **schedule:** day 1: Guess first. Write the postcard with the full address and PIN code. Post it with a grown-up and write the date. (15 min); day 2: Ask: has the relative phoned yet? Write 'not yet' or the date. (2 min); day 4: Check again. (2 min); day 7: Count the days the card took. Compare with your guess, and talk about what the post office did. (6 min)
 - **s1 (8 min)**  
@@ -295,9 +295,9 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   *Child mode:* Has the card arrived? Write it on the calendar.
   - Wait: Check on days 2, 4 and 7
 - **s4 (8 min)**  
-  *Parent does:* 1. Count the days from posting to arriving. 2. Compare with the guess. 3. Draw the card's path and count the people who handled it.  
+  *Parent does:* 1. Count the days from posting to arriving. 2. Compare with the guess. 3. List, in order, the people and places the card passed through, and count them.  
   *Parent says:* How many days did it take? Was your guess close? How many people do you think touched our card on the way?  
-  *Child mode:* Count the days. Was your guess close? Draw the card's path. Who carried it?
+  *Child mode:* Count the days. Was your guess close? List who carried the card, in order.
   - Ask: What could make a card slower? (good: A wrong PIN code.; A holiday or a Sunday.; A far village where the post comes only some days.)
   - Note: A card often passes through a post box collector, a sorting office, a mail van or a train, another sorting office and a delivery person. That is at least five people. They are all paid from the price of the stamp and from taxes.
   - Check: A card is posted in Madurai on Monday. It reaches Kochi on Thursday. How many days did it take? → **3 days**
@@ -308,36 +308,36 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - **s1 (6 min)**  
   *Parent does:* 1. Ask your child to think about yesterday, from waking up to bedtime. 2. List every person whose work they used, whether they saw the person or not. 3. Write each one down.  
   *Parent says:* Who brought the milk packet? Who collected the garbage? Who sent the water to our taps? Who drove the bus? Let's write every one.  
-  *Child mode:* Think about yesterday. Who brought the milk? Who took the garbage? Who sent the water? Write each one.
+  *Child mode:* Think about yesterday, from waking up to bedtime. Write every person whose work you used.
   - Note: Help your child think of people they never see: the person who fills the gas cylinder, the electricity lineman, the farmer, the water board worker. Most families reach 15 to 25 people.
 - **s2 (5 min)**  
-  *Parent does:* Draw five boxes: food, water, cleaning, health and safety, messages and things. Sort each helper into a box.  
-  *Parent says:* Which box does the sweeper go in? And the postwoman? Which box has the most people?  
-  *Child mode:* Draw five boxes. Put each helper in a box. Which box is fullest?
-  - Check: The caretaker of a building switches on the motor that pumps water to the tank on the roof. Which box does the caretaker go in? → **Water**
+  *Parent does:* Tear the list into slips, one helper on each slip. Make five heaps: food, water, cleaning, health and safety, messages and things. Put each slip in a heap.  
+  *Parent says:* Which heap does the sweeper go in? And the postwoman? Which heap has the most people?  
+  *Child mode:* Put each helper slip in a heap. Which heap is fullest?
+  - Check: The caretaker of a building switches on the motor that pumps water to the tank on the roof. Which heap does the caretaker go in? → **Water**
 - **s3 (4 min)**  
   *Parent does:* Your child picks one helper and says what would happen if that person did not come for a week.  
   *Parent says:* Pick one helper. What would our home be like if they did not come for a week?  
-  *Child mode:* Pick one helper. What if they did not come for a week?
+  *Child mode:* Pick one helper. Tell your grown-up what would go wrong.
   - Ask: What would happen without the garbage collector for a week? (good: The bins would overflow and smell.; Flies and rats would come, and people could get sick.)
   - Note: A good answer names something real. For example: without the milk delivery person, we would have to walk to the shop every morning before school. This is the idea of the unit. People depend on each other's work.
   - Think: Pick one helper. What could your family not do without that person's work?
 ### a2 · Meet a Helper: a short interview with a worker near home (20 min)
 - **safety:** A grown-up goes with the child and stays with them the whole time.
-- **record:** A drawing of the worker with their tool, their name, their work and one thing they said.
+- **record:** A drawing or a few lines about the worker: their tool, their name, their work and one thing they said.
 - **s1 (4 min)**  
   *Parent does:* 1. Choose one worker near home: the presswala, the tailor, the cobbler, the flower seller or the vegetable seller. 2. Practise three polite questions.  
   *Parent says:* Let's practise. 'What is your work called? Who taught you? What is the hardest part of your work?'  
-  *Child mode:* Choose a helper. Practise three questions. What is your work? Who taught you? What is hardest?
+  *Child mode:* Choose a helper. Practise the three questions out loud.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* 1. Walk to the worker with your child. 2. Buy something small or get one shirt ironed, so you are customers. 3. Your child greets them, asks the questions and thanks them by name.  
   *Parent says:* Namaste, or vanakkam. My child is learning about the people who work in our neighbourhood. Could they ask you three quick questions?  
   *Child mode:* Greet them. Ask your three questions. Listen. Say thank you, with their name.
   - Note: Choose a quiet time, when the worker is not busy. If they would rather not answer, thank them and leave it. That is their right.
 - **s3 (6 min)**  
-  *Parent does:* At home, your child draws the worker with their tool and writes their name, their work and one thing they said.  
+  *Parent does:* At home, your child draws the worker with their tool, or tells you what they saw. They write the name and one thing the worker said.  
   *Parent says:* What surprised you? How long did they take to learn their work?  
-  *Child mode:* Draw the helper and their tool. Write their name and one thing they said.
+  *Child mode:* Draw the helper and their tool, or tell your grown-up what you saw. Write their name and one thing they said.
   - Ask: What did you learn about their work? (good: The presswala learned from his mother when he was young.; The flower seller starts at 5 in the morning.)
   - Think: Could you do their work tomorrow? What would you need to learn?
 ### a3 · Our Emergency Card: who to call, and what to say (15 min)
@@ -355,7 +355,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - **s3 (2 min)**  
   *Parent does:* Stick the card near the door.  
   *Parent says:* Why must we only call these numbers in a real emergency?  
-  *Child mode:* Stick the card by the door. Why only call in a real emergency?
+  *Child mode:* Stick the card by the door.
   - Ask: Why must we call these numbers only in a real emergency? (good: Someone else might need the ambulance at the same time.)
 ### a4 · The Water Trail: where does our tap water come from? (25 min)
 - **safety:** A grown-up goes with the child to see the sump, the motor or the tank. The child never climbs onto a tank or opens a sump lid.
@@ -371,9 +371,9 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
   *Child mode:* Which lake or river sends water to your city? Find out with a grown-up.
   - Note: If you cannot find it, write 'from a lake or river, brought by the city's pipes'. The idea is what matters.
 - **s3 (7 min)**  
-  *Parent does:* Your child draws the path from the lake or river to the tap, and draws one helper at each stage.  
+  *Parent does:* Your child draws the path from the lake or river to the tap, with one helper at each stage. Or they tell it to you in order.  
   *Parent says:* Who works at each stage? Who cleans the water? Who mends a burst pipe?  
-  *Child mode:* Draw the water's path. Draw a helper at each stage.
+  *Child mode:* Draw the water's path with a helper at each stage, or tell it.
   - Think: The lake is shared by a whole city. What happens if one part of the city uses too much?
 ### a5 · The Rule Hunt: find the rules for our shared things (15 min)
 - **record:** A table of shared things, their rules, who made them and why.
@@ -385,14 +385,14 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - **s2 (7 min)**  
   *Parent does:* Make a table: the shared thing, the rule, who made it and why. Talk about one rule that is often broken.  
   *Parent says:* Why do you think this rule is here? What would happen without it? Who checks that it is kept?  
-  *Child mode:* Why is each rule there? What if nobody kept it? Who checks?
+  *Child mode:* Fill in the table. Pick one rule and tell what would go wrong if nobody kept it.
   - Check: A sign in a lift says 'No more than 6 people'. Why is the rule there? → **So the lift is not too heavy to carry safely**
 ### a6 · The Public Services Map: what is near our home? (20 min)
 - **record:** A map with your home in the middle and the public services around it, with how far each one is.
 - **s1 (12 min)**  
-  *Parent does:* 1. Draw your home in the middle of the paper. 2. Mark each public service you know nearby. Look for a school, a health centre, the post office and the police station. Add the fire station, the ration shop, the bus stop and the park. 3. Draw a small sign for each.  
+  *Parent does:* 1. Write 'Home' in the middle of the paper, or draw your home. 2. Mark each public service you know nearby. Look for a school, a health centre, the post office and the police station. Add the fire station, the ration shop, the bus stop and the park. 3. Write the name of each, or draw a small sign.  
   *Parent says:* Where is the nearest government health centre? The post office? The fire station? Let's mark how far each one is.  
-  *Child mode:* Draw your home in the middle. Mark the school, the health centre, the post office and more. Draw a sign for each.
+  *Child mode:* Write 'Home' in the middle. Mark the school, the health centre, the post office and more. Name each one, or draw a sign.
 - **s2 (8 min)**  
   *Parent does:* Write the walking minutes or the kilometres next to each service. Talk about which you would need first in an emergency.  
   *Parent says:* Which service is farthest? Which would we need first if someone was badly hurt?  
@@ -402,12 +402,12 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 ## Projects
 ### p1 · The Corridor Plant: share one plant for a week with a turn list (50 min, 7 days)
 - **safety:** Ask the neighbours' parents before a child knocks on a neighbour's door. A grown-up helps move the pot if it is heavy.
-- **record:** The turn list with ticks, a note each day on whether the soil was dry, damp or soggy, and a drawing of the plant on day 1 and day 7.
+- **record:** The turn list with ticks, a note each day on whether the soil was dry, damp or soggy, and a drawing or photo of the plant on day 1 and day 7.
 - **schedule:** day 1: Choose a shared plant. Meet the people who will share it: neighbours' children or your family. Agree a rule and make a turn list. (20 min); day 2: Check the turn list and the soil. (3 min); day 3: Check the turn list and the soil. (3 min); day 4: Check the turn list and the soil. (3 min); day 5: Check the turn list and the soil. (3 min); day 6: Check the turn list and the soil. (3 min); day 7: Meet again. Look at the plant and the turn list. Was the rule kept? Change it if needed. (15 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Choose one plant that several people pass every day. 2. Meet with the others who will share it. 3. Agree a rule together, for example 'one mug of water when the soil is dry, one person each day'. 4. Make a turn list with the days and names, and a box to tick.  
   *Parent says:* This plant belongs to all of us. A plant nobody waters dries out. A plant everyone waters drowns. What rule should we make?  
-  *Child mode:* Many people share this plant. Too little water dries the plant out. Too much drowns the plant. Make a rule together.
+  *Child mode:* Talk with the others. Agree one rule for watering the plant. Write the turn list.
   - Note: If there are no neighbours' children, share the plant within the family: each person has a day. The point is to see whether a shared plant does well with a rule and a list.
 - **s2 (3 min)**  
   *Parent does:* Each day, your child checks the turn list and touches the soil. They write 'dry', 'damp' or 'soggy'. If the soil is dry, the person whose turn it is gives one mug of water and ticks the list.  
@@ -417,7 +417,7 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - **s3 (15 min)**  
   *Parent does:* Meet again. Look at the plant and the list. Ask each person what was easy and hard. Change the rule if it did not work.  
   *Parent says:* Is the plant doing well? Did everyone keep the rule? What would make it work better?  
-  *Child mode:* Look at the plant and the list. Was the rule kept? Should we change it?
+  *Child mode:* Look at the plant and the list. Tell the others what you saw.
   - Think: Who checked that the rule was kept? Did that help?
   - Wait: Day 7
 
@@ -431,16 +431,16 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - **s1 (10 min)**  
   *Parent does:* Read the problem. List every way water is used in a flat in one day.  
   *Parent says:* What do the families use water for? Which uses are needed every day, and which can wait?  
-  *Child mode:* List all the ways a family uses water. Which are needed? Which can wait?
+  *Child mode:* Make two lists: water we must use every day, and water that can wait.
 - **s2 (12 min)**  
   *Parent does:* Write a rule in three parts: what each flat may do, who checks, and what happens if someone breaks it.  
   *Parent says:* In the Shared Pond Test, what made the pond last? Who will check our water rule?  
-  *Child mode:* Write the rule. Who checks? What if someone breaks it?
+  *Child mode:* Write your rule in three parts.
   - Note: Ostrom found that rules last better when the users make them, someone checks them, and the first cost of breaking them is small.
 - **s3 (8 min)**  
   *Parent does:* Read the rule aloud to the family. Ask each person whether it is fair to their flat.  
   *Parent says:* Suppose you live on the top floor. Is the rule fair to you? And if you live on the ground floor?  
-  *Child mode:* Read your rule aloud. Is it fair to the top floor? To the ground floor?
+  *Child mode:* Read your rule aloud. Ask each person if it is fair to them.
   - Think: Which part of your rule would be hardest to check?
 ### c2 · Make a Helper's Work Easier (30 min)
 - **problem:** Choose a helper who comes to your home or building, such as the milk delivery person, the garbage collector or the postwoman. Find one thing that slows them down or makes their work harder. Design a change that your family can make in a week.
@@ -451,11 +451,11 @@ Selvi akka laughed. "So now I am the neerkatti of Thendral Apartments," she said
 - **s1 (10 min)**  
   *Parent does:* Choose one helper. Watch them work once, or ask them what makes their work slow.  
   *Parent says:* What does the milk delivery person do at each door? What slows them down?  
-  *Child mode:* Choose a helper. Watch or ask. What makes their work slow?
+  *Child mode:* Choose a helper. Watch them, or ask them what slows them down.
 - **s2 (12 min)**  
-  *Parent does:* Draw your idea. Make it, if it needs making.  
+  *Parent does:* Show your idea: draw it, or build a small model from card and string. Make the real thing, if it needs making.  
   *Parent says:* What could we change at our door to help?  
-  *Child mode:* Draw your idea. Make it if you can.
+  *Child mode:* Draw your idea or build a model. Make it if you can.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* With a grown-up, show the helper your change and ask whether it helps.  
   *Parent says:* Would this make your work easier? Is there something else we could do?  

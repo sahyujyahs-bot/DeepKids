@@ -242,40 +242,40 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 
 ## Games
 ### g1 · Pond, River or Sea? (20 min)
-- **rules:** Draw the pond, river, sea and mixed areas on a big sheet.; Shuffle the 24 cards and put them in a pile, with the front sides facing up.; On your turn, take the top card. If it is a living thing card, put it on the area where you think that living thing lives, and say one reason. If it is a QUESTION card, say your answer.; Another player reads the back of the card. If you are right, keep the card. If you are wrong, nobody scores. Put a living thing card on its right area, and put a QUESTION card aside.; When the pile is gone, the player with the most cards wins. If two players tie, they share the win.; Playing alone: read the back yourself. Can you keep 20 or more of the 24 cards?
-- **Printable board: Four areas to draw on a big sheet: pond, river, sea and mixed:** POND: still fresh water; RIVER: flowing fresh water; SEA: salt water; In the middle: MIXED, where a river meets the sea
+- **rules:** Divide a big sheet into four areas. Write POND, RIVER, SEA and MIXED, one in each area.; Shuffle the 24 cards and put them in a pile, with the front sides facing up.; On your turn, take the top card. If it is a living thing card, put it on the area where you think that living thing lives, and say one reason. If it is a QUESTION card, say your answer.; Another player reads the back of the card. If you are right, keep the card. If you are wrong, nobody scores. Put a living thing card on its right area, and put a QUESTION card aside.; When the pile is gone, the player with the most cards wins. If two players tie, they share the win.; Playing alone: read the back yourself. Can you keep 20 or more of the 24 cards?
+- **Printable board: Four areas on a big sheet: pond, river, sea and mixed:** POND: still fresh water; RIVER: flowing fresh water; SEA: salt water; In the middle: MIXED, where a river meets the sea
 - **Printable cards: 24 cards to cut out: 18 living things and 6 questions. Write the front on one side and the answer on the back.:** Lotus (back: POND. Lotus grow in still, muddy water, and their leaves stand above it.) [picture]; Frog eggs in jelly (back: POND. Frogs lay their eggs in still fresh water.); Green threads of paasi, or algae (back: POND. Paasi grows in still, sunny water.) [picture]; Murrel, a fish that gulps air (back: POND. Murrel live in ponds, even when the water is short of oxygen, because they can breathe air at the surface.) [picture]; Tadpole (back: POND. Tadpoles live in still fresh water until they become frogs.); Water lily (back: POND. Water lilies float their leaves on still water.) [picture]; Snail clamped to a stone in a fast stream (back: RIVER. In fast water, a snail that clamps on to a stone is not swept away.); Small flat fish holding on to rocks (back: RIVER. A flat body hugs the rocks, so fast water slides over it.) [picture]; Mahseer, a big fish of fast rivers (back: RIVER. Mahseer swim in cool, fast rivers, such as the Kaveri.) [picture]; Ganga river dolphin (back: RIVER. The Ganga river dolphin lives in the fresh water of the Ganga and the rivers that join it.) [picture]; Hilsa swimming upstream to lay eggs (back: RIVER, SEA or MIXED is right if you say why. Hilsa live in the sea and swim up rivers, such as the Hooghly and the Godavari, to lay their eggs.) [picture]; Mackerel and sardines (back: SEA. Both live in salt water.) [picture]; Coral reef (back: SEA. Coral reefs grow in warm, clear sea water.) [picture]; Sea turtle (back: SEA. Sea turtles swim in the sea and come up to breathe air. The mothers lay their eggs on beaches.) [picture]; Tiny sea algae, making about half of Earth's oxygen (back: SEA. Tiny algae floating in the sea make about half of the oxygen made on Earth each year.); Mangrove trees at Pichavaram (back: MIXED. Mangroves grow in brackish water, where a river meets the sea.) [picture]; Flamingos at Pulicat lake (back: MIXED. Pulicat is a brackish lagoon, partly fresh and partly salty.) [picture]; Irrawaddy dolphins in Chilika lake (back: MIXED. Chilika lake is brackish: rivers feed it and the sea flows in.) [picture]; QUESTION: Why do fish gulp at a pond's surface at dawn? (back: The oxygen is lowest at the end of the night, and the water at the top has the most.); QUESTION: Does cold or warm water hold more air? (back: Cold water.); QUESTION: How does a tadpole breathe? (back: With gills.); QUESTION: How does air reach a lotus's roots in the mud? (back: Through air canals in the stalk and stem.); QUESTION: What did very salty water do to a cucumber slice? (back: It made the slice floppy, by pulling water out.); QUESTION: Which shape stays put in a fast stream? (back: A low, flat shape.)
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw the four areas on a big sheet. 2. Shuffle the cards.  
+  *Parent does:* 1. Divide a big sheet into four areas. Write POND, RIVER, SEA and MIXED, one in each. 2. Shuffle the cards.  
   *Parent says:* Every living thing on these cards has a water home. Let's see if we know where.  
-  *Child mode:* Draw the pond, river, sea and mixed areas. Shuffle the cards.
+  *Child mode:* Help to write the four water homes on the sheet. Then shuffle the cards.
 - **s2 (14 min)**  
   *Parent does:* Take turns. Place each living thing card on its home with a reason, or answer the question card.  
   *Parent says:* Where does this one live? And why does that home suit them?  
-  *Child mode:* Take a card. Where does this living thing live? Say why.
+  *Child mode:* Take a card and put it on its home. Say your reason out loud.
   - Note: Ask for a reason each time. 'The flat fish lives in the river, because a flat body holds on to rocks, so the water doesn't carry them away.' The hilsa can go on the river, the sea or the mixed area: hilsa live in the sea and swim up rivers to lay their eggs.
 - **s3 (3 min)**  
   *Parent does:* Count the cards and talk about the hardest one.  
   *Parent says:* Which card was hardest to place? Why?  
-  *Child mode:* Count your cards. Which one was hardest?
-  - Check: Which living thing lives in both the sea and rivers at different times of their life? → **The hilsa**
+  *Child mode:* Count your cards. Point to the card that was hardest.
+  - Check: Which one lives in the sea at one time and in rivers at another? → **The hilsa**
 ### g2 · Day and Night in the Pond: an oxygen token game (15 min)
-- **rules:** Put 10 tokens in a bowl. This is the oxygen in the pond. Draw 2 fish on a sheet of paper and keep a space beside them for gulp marks.; Shuffle the 10 round cards and put them face down.; Each round, turn over a card and do what it says. If it takes out more tokens than the bowl has, take all that are there.; Then take out 1 token for each fish, because each fish breathes. Then take out 1 more token for the algae and snails, if any are left.; If there is no token for a fish, that fish gulps at the surface. Make a gulp mark on the paper.; After all 10 cards, count the gulp marks. If there are 2 gulp marks or fewer, the fish got through safely. If there are more, play again, but start with both NIGHT cards on top of the pile.; With 2 players, take turns turning the card and counting out tokens. With 3 or 4 players, pass the cards round and each say what the card means in the real pond. Playing alone, do it all yourself.
+- **rules:** Put 10 tokens in a bowl. This is the oxygen in the pond. Tear 2 small paper fish, or use 2 coins as fish, and put them on a sheet of paper. Keep a space beside them for gulp marks.; Shuffle the 10 round cards and put them face down.; Each round, turn over a card and do what it says. If it takes out more tokens than the bowl has, take all that are there.; Then take out 1 token for each fish, because each fish breathes. Then take out 1 more token for the algae and snails, if any are left.; If there is no token for a fish, that fish gulps at the surface. Make a gulp mark on the paper.; After all 10 cards, count the gulp marks. If there are 2 gulp marks or fewer, the fish got through safely. If there are more, play again, but start with both NIGHT cards on top of the pile.; With 2 players, take turns turning the card and counting out tokens. With 3 or 4 players, pass the cards round and each say what the card means in the real pond. Playing alone, do it all yourself.
 - **Printable tokens: 24 oxygen tokens: small paper circles marked O:** O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O
 - **Printable cards: 10 round cards:** SUNNY DAY: the algae make oxygen. Add 6 tokens to the pond bowl.; SUNNY DAY: the algae make oxygen. Add 6 tokens to the pond bowl.; CLOUDY DAY: less sun, so the algae make less oxygen. Add 3 tokens.; NIGHT: the algae make no oxygen. Add 0 tokens.; NIGHT: the algae make no oxygen. Add 0 tokens.; WIND: waves mix air into the water. Add 2 tokens.; HOT AFTERNOON: warm water holds less air. Take 2 tokens out of the bowl.; RAIN: cool water and splashing. Add 3 tokens.; SEWAGE: rotting waste uses up oxygen. Take 4 tokens out of the bowl.; FOUNTAIN: a pump splashes air into the water. Add 3 tokens.
 - **s1 (2 min)**  
-  *Parent does:* 1. Put 10 tokens in the bowl. 2. Draw 2 fish on a sheet of paper. 3. Shuffle the round cards and put them face down.  
-  *Parent says:* The bowl is the pond's oxygen. Each of these two fish needs one token to breathe every round.  
-  *Child mode:* The bowl is the pond's oxygen. Two fish live in the pond bowl. Each fish needs one token every round.
+  *Parent does:* 1. Put 10 tokens in the bowl. 2. Put 2 paper fish, or 2 coins, on a sheet of paper. 3. Shuffle the round cards and put them face down.  
+  *Parent says:* This bowl is our pond, and the tokens are its oxygen. These two fish must breathe every round.  
+  *Child mode:* Each fish needs one token every round. If a fish gets none, it gulps.
 - **s2 (10 min)**  
-  *Parent does:* Turn over a round card and do what it says. Then take 1 token for each fish and 1 for the algae and snails. If a fish has no token, make a gulp mark. After each card, say what it means in the real pond.  
-  *Parent says:* Night! The algae can't make oxygen in the dark, but everyone still breathes. Watch the bowl.  
-  *Child mode:* Turn a card. Do what it says. Then each fish takes a token.
+  *Parent does:* Turn over a round card and do what it says. Then take out 1 token for each fish, and 1 more for the algae and snails. If a fish has no token, make a gulp mark. After each card, say what it means in the real pond.  
+  *Parent says:* Read the card out loud. Does it put oxygen in the pond, or take it out? Then everyone breathes. Watch the bowl.  
+  *Child mode:* Do what the card says. Then each fish takes one token. Did a fish get none?
   - Note: After NIGHT cards, the bowl runs low. That is the shortage of oxygen at dawn in the story 'The Pond That Gasped at Dawn'. HOT AFTERNOON and SEWAGE make it worse. WIND, RAIN and FOUNTAIN help.
 - **s3 (3 min)**  
   *Parent does:* Count the gulp marks. Talk about when the fish were in most danger.  
   *Parent says:* When did the pond run out of oxygen? What helped most?  
-  *Child mode:* When did the tokens run out? What helped?
+  *Child mode:* Count your gulp marks. Which cards came just before them?
   - Check: In the game, when did the pond usually run short of oxygen? → **After NIGHT cards**
 
 ## Experiments
@@ -284,7 +284,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **predict:** Guess first. We will warm three glasses of water: one fridge-cold, one fridge-cold that was boiled yesterday, and one from the tap. Which glass will grow the most bubbles on its sides? Which will grow the fewest? Why do you think so?
 - **fair test:** Use three glasses of the same kind and size, washed the same way. Fill them to the same height. Stand them in the same warm water bath for the same time. Only the water inside changes. Look at all three at the same moments, at 5 minutes and at 15 minutes.
 - **safety:** A grown-up boils the water and mixes the warm bath. The bath should feel warm, like a bath, and never hot. Wipe up spills so nobody slips.
-- **record:** Fill in the table. Draw the three glasses, with the bubbles you saw on each.
+- **record:** Fill in the table. Take a photo of the three glasses, or draw them, with the bubbles you saw on each.
 - **results table:** Glass | What water is in it | My guess: lots, some or almost none? | Bubbles after 5 minutes | Bubbles after 15 minutes
 - **schedule:** day 1: A grown-up boils water for 5 minutes, covers the pan and lets it cool until warm. Pour it into a bottle, right to the top, and cap it. Fill a second bottle with tap water. Put both bottles in the fridge overnight. (10 min); day 2: Fill glass A with cold tap water, glass B with cold boiled water and glass C with room-temperature tap water. Make a warm bath and stand the glasses in it. Watch for bubbles at 5 and 15 minutes. (35 min)
 - **s1 (10 min) · grown-up needed**  
@@ -301,7 +301,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **s3 (5 min)**  
   *Parent does:* Ask your child to guess. Which glass will grow the most bubbles when it warms up, and which the fewest? Write the guesses in the table.  
   *Parent says:* Soon we will warm all three glasses. Which do you think will grow the most bubbles? Which the fewest? Why do you think so?  
-  *Child mode:* Guess. Which glass will get the most bubbles? Which will get the fewest? Why?
+  *Child mode:* Point to the glass you think will grow the most bubbles. Point to the one with the fewest.
   - Ask: Why did you choose that glass? (good: Because it is the coldest.; Because boiling took something out of it.; Because the tap water is already warm.)
   - Note: Don't explain anything yet. Any guess with a reason is good. Many children think the boiled water will bubble most, because boiling makes bubbles.
 - **s4 (4 min) · grown-up needed**  
@@ -312,7 +312,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **s5 (15 min)**  
   *Parent does:* 1. At 5 minutes, shine the torch through the side of each glass. 2. Look at the bottom and the sides. 3. Write lots, some or almost none for each glass. 4. Look again at 15 minutes.  
   *Parent says:* Shine the torch through each glass. Look at the sides and the bottom. Which one has the most bubbles?  
-  *Child mode:* Shine the torch through each glass. Look for tiny bubbles. Which has the most?
+  *Child mode:* Shine the torch through each glass. Look at the bottom and sides for tiny bubbles.
   - Note: Glass A usually grows many tiny bubbles within 10 to 15 minutes. Glass C grows fewer. Glass B grows very few or none. If nothing happens by 15 minutes, add a little more hot water to the bath and wait 10 more minutes. Tiny bubbles are easier to see with a magnifying glass.
   - Check: Which glass grew the most bubbles? → **A: cold tap water**
 - **s6 (2 min)**  
@@ -331,7 +331,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **predict:** Guess first. We will put cucumber slices in plain water, in water as salty as the sea, and in very salty water. After 20 minutes, which slices will be stiff, and which will be floppy? Why do you think so?
 - **fair test:** Cut all the slices from the same cucumber, all about half a centimetre thick. Use the same amount of water in each bowl. Leave them for the same time. Only the salt changes.
 - **safety:** A grown-up cuts the cucumber. Don't eat the salty slices. They are far too salty.
-- **record:** Fill in the table. Draw one slice from each bowl, held by its edge, showing how much it bent.
+- **record:** Fill in the table. Lay the three slices side by side, stiffest to floppiest, and take a photo. Or draw them.
 - **results table:** Bowl | Salt in one cup of water | My guess: stiff or floppy? | Bend test after 20 minutes | How it feels
 - **s1 (6 min)**  
   *Parent does:* 1. Pour one cup of water into each bowl. 2. Leave the first plain. 3. Stir 1 and a half teaspoons of salt into the second. This is about as salty as the sea. 4. Stir 2 tablespoons of salt into the third. 5. Label the bowls.  
@@ -368,7 +368,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **question:** In flowing water, which shape is hardest for the water to push away: tall, round or flat?
 - **predict:** Guess first. We will make three shapes from the same amount of dough: a tall tower, a ball and a flat dome. Then we pour water at them. Which will the water push over or move first? Why do you think so?
 - **fair test:** Use the same amount of dough for each shape. Put each shape in the same place on the plate. Pour the same mug of water from the same height, in the same way. Only the shape changes. Try each shape twice.
-- **record:** Fill in the table. Draw each shape, with an arrow showing which way the water pushed it.
+- **record:** Fill in the table. Take a photo of where each shape ended up, or draw each one with an arrow for the push of the water.
 - **results table:** Shape | My guess: moves first, second or last? | Try 1: did it move or fall? | Try 2: did it move or fall?
 - **s1 (5 min)**  
   *Parent does:* 1. Divide the dough into three equal pieces. 2. Roll one into a tall tower, about as tall as your thumb. 3. Roll one into a ball. 4. Press one into a low flat dome, like an upside-down bowl.  
@@ -377,7 +377,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **s2 (3 min)**  
   *Parent does:* 1. Ask for a guess and a reason. 2. Write the guesses. 3. Prop one end of the plate on a book over the sink, so it slopes only a little.  
   *Parent says:* Which shape will the water push away first? Why do you think so?  
-  *Child mode:* Guess. Which shape will the water push first? Why?
+  *Child mode:* Point to the shape you think the water will push first.
   - Ask: Why do you think that shape will move first? (good: Because it is tall, so the water hits more of it.; Because the ball can roll.; Because the flat one is stuck down.)
 - **s3 (10 min)**  
   *Parent does:* 1. Stand the tower near the top of the plate, without pressing it down. Wait a few seconds. If it moves by itself, lower the slope. 2. Pour the mug of water down the slope at it, from the top edge, steadily. 3. Watch what happens. 4. Do the same for the ball and the flat dome. 5. Repeat each one.  
@@ -395,7 +395,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 ### a1 · Holes in a Lotus Stem: blow air through it (10 min)
 - **problem:** A lotus has its leaves in the air and its roots in thick mud at the bottom of a pond. There is almost no air in that mud, yet every part of the plant needs air. You will look inside a lotus stem to find how the air reaches the roots.
 - **safety:** A grown-up cuts the stem. Wash the stem before you put your mouth on it, and use a fresh piece for each person.
-- **record:** Draw the slice and its holes. Count the holes.
+- **record:** Count the holes and say the number. Take a photo of the slice, or draw it.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Cut a thin slice across the lotus stem. 2. Hold it up to the window. 3. Count the holes.  
   *Parent says:* This is a lotus stem. It grew in the mud at the bottom of a pond. Look through the slice. What do you see?  
@@ -410,16 +410,16 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **s3 (3 min)**  
   *Parent does:* Talk about the problem the lotus solves.  
   *Parent says:* The leaves are up in the air and light. The roots are deep in the airless mud. How does the lotus look after both?  
-  *Child mode:* The leaves are up high. The roots are deep in mud. How does air reach the roots?
+  *Child mode:* The leaves are in the air. The roots are in airless mud. Tell your grown-up what the holes are for.
   - Note: If you can't find a lotus stem, ask at a vegetable market for thamarai thandu or kamal kakdi. Or blow through a drinking straw into a glass of water to see what a tube of air does.
 ### a2 · Tadpole to Frog: how the breathing changes (12 min)
 - **record:** Stick the cards in a circle in your notebook. Write how each stage breathes: through the jelly, gills, or lungs and skin.
 - **s1 (5 min)**  
-  *Parent does:* Draw one stage of a frog's life on each card. 1. Eggs in jelly. 2. A tadpole with gills. 3. A tadpole with back legs. 4. A tadpole with four legs. 5. A young frog with a short tail. 6. An adult frog.  
-  *Parent says:* A frog changes their whole body as they grow. Let's draw each stage on a card.  
-  *Child mode:* Draw six cards: eggs, a tadpole, a tadpole with back legs, a tadpole with four legs, a young frog, and a frog.
+  *Parent does:* Make one card for each stage of a frog's life. Draw the stage, or just write its name. 1. Eggs in jelly. 2. A tadpole with gills. 3. A tadpole with back legs. 4. A tadpole with four legs. 5. A young frog with a short tail. 6. An adult frog.  
+  *Parent says:* A frog changes their whole body as they grow. Let's make a card for each stage.  
+  *Child mode:* Make six cards, one for each stage from egg to frog. Draw each one, or write its name.
 - **s2 (4 min)**  
-  *Parent does:* 1. Shuffle the cards. 2. Ask your child to put them in order. 3. Next to each card, write how that stage breathes.  
+  *Parent does:* 1. Shuffle the cards. 2. Ask your child to put them in order. 3. For each card, ask how that stage breathes. Write the answer next to it, or just say it.  
   *Parent says:* Put them in order. Now, at each stage, how does the frog get their oxygen? Through the jelly, gills, or lungs and skin?  
   *Child mode:* Put the cards in order. How does each one breathe? Through the jelly, gills, or lungs and skin?
   - Note: Eggs take oxygen from the water through their jelly. A tadpole with back legs still has gills, while lungs are growing. A young frog and an adult frog use lungs and skin.
@@ -431,7 +431,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
   - Note: Good answers: near water, in damp places, in the shade, coming out after rain. A frog also needs water to lay their eggs.
 ### a3 · Where the River Meets the Sea: layers in a glass (15 min)
 - **problem:** Where a river meets the sea, fresh water and salty water meet. You will pour coloured fresh water onto very salty water in a glass, to see what the two do when they meet.
-- **record:** Draw the glass with its layers and label them 'river water' and 'sea water'.
+- **record:** Take a photo of the glass, or draw its layers. Say which layer is 'river water' and which is 'sea water'.
 - **s1 (4 min)**  
   *Parent does:* 1. Half fill the glass with water. 2. Stir in 3 tablespoons of salt until most of it dissolves. 3. Let it settle for a minute.  
   *Parent says:* This salty water is our sea. Now we will pour a river onto it.  
@@ -452,7 +452,7 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **s1 (8 min)**  
   *Parent does:* 1. Colour the sea around India green and label the Arabian Sea and the Bay of Bengal. 2. Draw the Ganga, Godavari, Krishna and Kaveri in blue. 3. Mark your own nearest river or lake.  
   *Parent says:* Let's find India's water habitats. Green for salty sea, blue for fresh rivers and lakes.  
-  *Child mode:* Colour the sea green. Draw four big rivers in blue. Find a river near you.
+  *Child mode:* Colour the sea green. Draw four big rivers in blue. Find a river near you. A grown-up can help with the outline.
 - **s2 (7 min)**  
   *Parent does:* Mark three brackish places in brown. 1. The Kerala backwaters. 2. Pulicat lake, on the Tamil Nadu and Andhra border. 3. Chilika lake in Odisha.  
   *Parent says:* Some water is a mix of fresh and salty. These places are where rivers meet the sea. Mark them in brown.  
@@ -475,27 +475,27 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **s3 (2 min)**  
   *Parent does:* Talk about what this means for fish.  
   *Parent says:* When does the pond get extra oxygen from its plants: in the day or at night?  
-  *Child mode:* When do plants add oxygen to a pond? Day or night?
+  *Child mode:* Remember which sprig made bubbles. Tell your grown-up what that means for the fish.
   - Check: Why did the plant in the cupboard make few or no bubbles? → **Plants need light to make food and oxygen**
 
 ## Projects
 ### p1 · Green Water Jar: grow a tiny pond (45 min, 21 days)
 - **problem:** Algae are tiny living things that make their own food. They are too small to see one by one, but they are in the air and the soil. You will set up two jars of water, one in the sun and one in the dark, to find out whether algae need light to grow.
 - **safety:** Wash your hands after touching the jar water. Never drink it. Cover the jars with a cloth tied with a rubber band, so mosquitoes cannot lay eggs in them.
-- **record:** Draw both jars every week and write the colour of the water.
-- **schedule:** day 1: Set up two jars of water with a pinch of pot soil. Put one in a sunny window and one in a dark cupboard. Cover both with cloth. (15 min); day 7: Look at both jars. Is either one turning green? Draw them. (10 min); day 14: Look again. Look closely at the sides with a magnifying glass. Draw them. (10 min); day 21: Compare the two jars and explain the difference. Then pour the water into a pot plant. (10 min)
+- **record:** Every week, take a photo of both jars, or draw them, and write the colour of the water.
+- **schedule:** day 1: Set up two jars of water with a pinch of pot soil. Put one in a sunny window and one in a dark cupboard. Cover both with cloth. (15 min); day 7: Look at both jars. Is either one turning green? Write the colour of each. (10 min); day 14: Look again. Look closely at the sides with a magnifying glass. Count the green specks or threads. (10 min); day 21: Compare the two jars and explain the difference. Then pour the water into a pot plant. (10 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Fill both jars with tap water that has stood open for a day. 2. Add a pinch of pot soil to each. 3. Cover each with a cloth. 4. Put one on a sunny windowsill and one in a dark cupboard.  
   *Parent says:* We are making two tiny ponds. One gets sunlight and one gets none. Let's see which one turns green.  
   *Child mode:* Fill two jars. Add a pinch of soil. Cover them. One goes in the sun. One goes in the dark.
   - Note: Leaving tap water open for a day lets some of its chlorine escape. The pinch of soil brings in algae too small to see.
 - **s2 (10 min)**  
-  *Parent does:* Look at both jars after one week. Draw them.  
+  *Parent does:* Look at both jars after one week. Write the colour of each.  
   *Parent says:* Has either jar changed colour? Look at the side that faces the window.  
-  *Child mode:* Look at both jars. Any green? Draw them.
+  *Child mode:* Look at both jars. Any green? Say the colour of each.
   - Wait: Come back in a week.
 - **s3 (10 min)**  
-  *Parent does:* After two weeks, look closely at the sides with a magnifying glass. Draw them.  
+  *Parent does:* After two weeks, look closely at the sides with a magnifying glass. Count the green specks or threads.  
   *Parent says:* Look closely at the glass. Can you see green specks or threads?  
   *Child mode:* Use the magnifying glass. Can you see green specks?
   - Note: The sunny jar usually turns green within two or three weeks, often first on the side facing the light. If it is still clear after three weeks, add a spoon of water from an old flower vase, an aquarium or a pot saucer, and wait another week.
@@ -503,14 +503,14 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
 - **s4 (10 min)**  
   *Parent does:* Compare the jars after three weeks.  
   *Parent says:* Why did the sunny jar turn green, and the dark one stay clear?  
-  *Child mode:* Why did only the sunny jar turn green?
+  *Child mode:* Compare the two jars. Look at the colour of the water and at the glass.
   - Note: Pour the green water into a potted plant, and wash the jars.
   - Check: The jar in the sun turned green. The jar in the dark stayed clear. Why? → **Algae grew in the sunny jar, because they need light to make food**
 
 ## Challenges
 ### c1 · Put Air Back in the Pond (30 min)
 - **problem:** On hot, still nights, a pond can run short of oxygen. Air dissolves into water at the surface, where the water touches the air. So the more the surface is broken and splashed, the more air gets in. Design a way to mix more air into a bucket of still water, using only things from home.
-- **your turn:** Now invent your own way to mix air into still water. Draw it, try it, and explain why it adds air.
+- **your turn:** Now invent your own way to mix air into still water. Build it, try it, and explain why it adds air. Sketch it if you like.
 - **constraints:** Use only things from home.; No electric pumps.; Show how your idea breaks the water's surface or pushes air into it.
 - **general:** Pour water from a height, like a waterfall, so it splashes.; Stir the water hard, so the surface keeps breaking.; Blow air into the water through a straw.
 - **creative:** Make a fountain: a grown-up pokes holes in a bottle cap, then you squeeze the bottle so water sprays over the bucket.; Make steps from upturned bowls, so water tumbles down like a stream over stones.; Fan the surface hard, so ripples spread across it.
@@ -519,9 +519,9 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
   *Parent says:* Air dissolves into water where the water touches the air. How could we make more water touch the air?  
   *Child mode:* Air gets in where water touches air. How can we make more water touch air?
 - **s2 (10 min)**  
-  *Parent does:* Draw three ideas together.  
-  *Parent says:* Let's draw three ideas before we build anything.  
-  *Child mode:* Draw three ideas for mixing air into the water.
+  *Parent does:* Think of three ideas together. Say them, or sketch them.  
+  *Parent says:* Let's think of three ideas before we build anything.  
+  *Child mode:* Tell your grown-up three ideas for mixing air into the water. You can sketch them too.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* Build and try the best idea over the bucket. Watch for splashing, foam and bubbles going into the water.  
   *Parent says:* Try it. Does the surface break? Do bubbles go into the water?  
@@ -542,9 +542,9 @@ Kavya went back to the kitchen and filled a glass with cold water. She held it u
   *Parent says:* This leaf has a short stem. What happens when the pond rises?  
   *Child mode:* Tie a leaf to a weight with short thread. Add water. What happens?
 - **s2 (5 min)**  
-  *Parent does:* Draw three ideas together.  
-  *Parent says:* The water lily has the same problem every monsoon. Let's draw three ways to solve it.  
-  *Child mode:* Draw three ideas for a stem that grows with the water.
+  *Parent does:* Think of three ideas together. Say them, or sketch them.  
+  *Parent says:* The water lily has the same problem every monsoon. Let's think of three ways to solve it.  
+  *Child mode:* Tell your grown-up three ideas for a stem that grows with the water. You can sketch them too.
 - **s3 (15 min)**  
   *Parent does:* Build the best idea. Test it from 5 cm to 15 cm deep. Improve it and test again.  
   *Parent says:* Pour slowly. Is your leaf still floating flat on top?  

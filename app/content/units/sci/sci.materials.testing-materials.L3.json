@@ -685,7 +685,7 @@
       "11. A girl tests which paper soaks up water fastest. She dips every paper strip 1 cm into the water.",
       "12. A girl tests which paper soaks up water fastest. She dips the kitchen towel 1 cm into the water and the newspaper 4 cm.",
       "13. A girl tests which of three papers holds the most coins. She tests each paper three times and writes down every try.",
-      "14. A boy tests which of three papers holds the most coins. He tests each paper three times, then writes down only the best try for each paper and hides the others.",
+      "14. A boy tests which of three papers holds the most coins. He tests the tissue three times, but the napkin and the kitchen towel only once.",
       "15. A girl tests which cloth lets more water through. She uses fresh water from the same jug for every cloth.",
       "16. A girl tests which cloth dries faster. She puts the cotton outside in the hot sun and the wool inside in the shade.",
       "17. A girl tests how many coins a paper strip holds. She drops every coin gently into the bag.",
@@ -776,7 +776,7 @@
      "mins": 3,
      "do": "Find card 2, about a boy who pours 1 spoon on the cotton and 3 spoons on the plastic. Play it together as a practice round.",
      "say": "Let's practise. A boy pours 1 spoon of water on the cotton and 3 spoons on the plastic. More water comes through the plastic. Is his test fair?",
-     "kid": "Practice card. A boy pours 1 spoon on cotton. He pours 3 spoons on plastic. Is that fair? Say your answer.",
+     "kid": "Practice with card 2. Is the test fair or unfair? Say your answer.",
      "ask": [
       {
        "q": "What else changed, besides the material?",
@@ -828,7 +828,7 @@
      "mins": 2,
      "do": "1. Count the tokens to find the winner. 2. Look at the UNFAIR pile together and sort it by what changed.",
      "say": "Look at the unfair pile. What sneaky changes come up most often? Amounts, times or sizes?",
-     "kid": "Count your tokens. Who won? Look at the unfair pile. Which sneaky change came up most?",
+     "kid": "Count your tokens. Who won? Then sort the unfair pile by what changed.",
      "think": "On card 14, the boy kept only the result he liked. Is that worse than changing the water by mistake? Why?"
     }
    ],
@@ -910,7 +910,7 @@
      "mins": 3,
      "do": "Turn over the card 'Wool square, water through (ml): 12, 13, 22'. Play it together as a practice round.",
      "say": "Wool square, water through: 12, 13 and 22 millilitres. Which one is the fluke? What might have gone wrong? And what is the middle value?",
-     "kid": "Practice card: 12, 13 and 22 ml. Which try is the fluke? Say it.",
+     "kid": "Practice card. Look at the three numbers. Point at the fluke.",
      "check": {
       "t": "mcq",
       "q": "A wool square let through 12, 13 and 22 ml of water in three tries. Which try is the odd result?",
@@ -936,7 +936,7 @@
      "mins": 2,
      "do": "Add up the points. Then look at the cards with no fluke together.",
      "say": "Look at the plastic bag card: 0, 0 and 0. Are the three tries close together or far apart? What does that tell us?",
-     "kid": "Count your points. Who won? Plastic let through 0, 0 and 0. What does that tell you?",
+     "kid": "Count your points. Who won? Then look at the plastic bag card together.",
      "think": "If you only tested once and got the fluke, what wrong idea might you have believed?",
      "parent": "The three plastic bag tries are all the same, so the result is reliable. The bag lets no water through. If you had tested only once and got a fluke, such as the raincoat cloth letting through 9 ml, you might wrongly believe the cloth is not very waterproof."
     }
@@ -1852,7 +1852,7 @@
      "what": "Guess with a reason. Design the fair test. Test four cloths three times each. Find the middle values, try the pinhole, and write claim, evidence and reasoning."
     }
    ],
-   "record": "Write your guess and your reason at the top. Fill in the results table: three tries for each cloth and the middle value. Draw a bar chart of the middle values. Then write three sentences: what I think, what I saw, and why.",
+   "record": "Write your guess and your reason at the top. Fill in the results table: three tries for each cloth and the middle value. Show the middle values as bars, drawn or made from paper strips. Then say or write three sentences: what I think, what I saw, and why.",
    "context": "This is the umbrella patch test. You design a fair test of four old cloths, let the same 'rain' drip onto each one over a steel tumbler, and measure how much water comes through. The least water through means the best umbrella patch.",
    "flow": [
     {
@@ -1860,8 +1860,8 @@
      "mins": 4,
      "context": "This is the first step of the umbrella patch test. Before any testing, you look closely at four cloths and make a guess, with a reason.",
      "do": "1. Lay one square of each cloth on the table. 2. Let your child feel each one, and hold each one up to a window. 3. Ask the question below. 4. Write down the order your child chooses, and their reason, word for word.",
-     "say": "Your umbrella has a tear, and we need a patch. Which of these four cloths would keep the rain out best? Put them in a line, best first. Why did you put that one first?",
-     "kid": "Feel each cloth. Hold each one up to the window. Which will keep rain out best? Put them in a line. Say why you chose your first one.",
+     "say": "Your umbrella has a tear, and we need a patch. Which of these four cloths would keep the rain out best? Put them in a line, best first.",
+     "kid": "Feel each cloth. Hold each one up to the window. Put the four in a line, the best rain-stopper first.",
      "ask": [
       {
        "q": "Why did you put that one first?",
@@ -1880,7 +1880,7 @@
      "mins": 5,
      "do": "1. Draw three boxes on a sheet of paper: CHANGE, KEEP THE SAME and MEASURE. 2. Ask your child to fill them in. 3. If something is missing, ask one of the questions in the note below. Let your child decide what to write.",
      "say": "We want only the cloth to decide how much rain gets through. So what else could change if we are not careful? You plan the test. Fill in the three boxes.",
-     "kid": "Draw three boxes: CHANGE, KEEP THE SAME, MEASURE. You want only the cloth to make a difference. What else must stay the same?",
+     "kid": "Make three boxes (draw them, or fold the paper in three): CHANGE, KEEP THE SAME, MEASURE. Fill them in. Only the cloth should make a difference.",
      "parent": "Help only with questions. If the amount of rain is missing, ask: 'What if one patch got more rain?' If the height is missing, ask: 'What if we dropped the rain from higher on one?' If the time is missing, ask: 'What if one waited longer?' If tightness is missing, ask: 'What if one patch was loose and saggy?' A full plan looks like this. CHANGE: the cloth. KEEP THE SAME: the patch size, the tumblers, how tight the patch is, the 20 ml of rain, the 10 cm height and the 4 minutes of waiting. MEASURE: the millilitres that come through.",
      "check": {
       "t": "mcq",
@@ -1915,7 +1915,7 @@
      "id": "s5",
      "mins": 9,
      "do": "1. Start the timer. 2. At minute 0, hold the rain bottle 10 cm above patch 1 and let all 20 ml drip onto it. Refill the bottle from the next small cup. 3. Do the same for patch 2 at minute 1, patch 3 at minute 2 and patch 4 at minute 3. 4. At minute 4, lift patch 1 by its edges. Tip any water on top into the tray. 5. Pour the water in tumbler 1 into the medicine cup. Read it at eye level and write it down. 6. Do the same for patch 2 at minute 5, patch 3 at minute 6 and patch 4 at minute 7.",
-     "say": "While we wait, look under the patches. Where do the drops come through? Everywhere, or in some spots?",
+     "say": "While we wait, look under the patches and watch the drops.",
      "kid": "Each minute, drip 20 ml from the rain bottle onto the next patch. Lift each patch 4 minutes after its water. Pour the water in the tumbler into the medicine cup. Read it. Write it down.",
      "ask": [
       {
@@ -1992,9 +1992,9 @@
     {
      "id": "s7",
      "mins": 3,
-     "do": "1. For each cloth, put its three numbers in order and take the middle one. 2. Draw a bar chart, one bar for each cloth. 3. Compare it with the guess you wrote at the start.",
+     "do": "1. For each cloth, put its three numbers in order and take the middle one. 2. Make one bar for each cloth: draw it, or cut a paper strip 1 cm long for each ml and line the strips up. 3. Compare it with the guess you wrote at the start.",
      "say": "Look at your first guess. Was it right? Which cloth let through the least water, and which let through the most?",
-     "kid": "Find each cloth's middle value. Draw a bar for each. Look at your guess. Was it right? Which cloth was best?",
+     "kid": "Find each cloth's middle value. Make a bar for each. Was your guess right? Which cloth was best?",
      "check": {
       "t": "mcq",
       "q": "On the umbrella patch bar chart, which bar shows the best patch?",
@@ -2041,7 +2041,7 @@
      "mins": 4,
      "adult": true,
      "do": "1. Stretch the umbrella cloth, raincoat or plastic square over a dry tumbler. 2. Test it once with 20 ml of rain. 3. Then a grown-up makes one hole in a fresh square with the drawing pin. 4. Ask your child to guess, with a reason. 5. Test the square with the hole.",
-     "say": "Say this cloth let no rain through at all. Now it gets one hole, smaller than a grain of rice. Will a lot of water come through, a little, or none? Why do you think so?",
+     "say": "Suppose this cloth let no rain through at all. Now it gets one hole, smaller than a grain of rice. Will a lot of water come through, a little, or none? Why do you think so?",
      "kid": "Test the umbrella cloth. Did any rain come through? Now a grown-up makes one tiny hole. Guess first, and say why. Then test it.",
      "ask": [
       {
@@ -2057,9 +2057,9 @@
     {
      "id": "s9",
      "mins": 3,
-     "do": "1. Ask your child to write three sentences: what I think, what I saw, and why. 2. Then look at the thickest cloth and the thinnest cloth through the magnifying glass, or against the window.",
-     "say": "Now write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened. Then look closely at the cloths again. Do you see anything new?",
-     "kid": "Write three sentences. What I think. What I saw. Why it happened. Then look at the cloths with a magnifier. What do you see now?",
+     "do": "1. Ask your child to say or write three sentences: what I think, what I saw, and why. 2. Then look at the thickest cloth and the thinnest cloth through the magnifying glass, or against the window.",
+     "say": "Now say or write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened. Then look closely at the cloths again. Do you see anything new?",
+     "kid": "Say or write three sentences. What I think. What I saw. Why it happened. Then look at the cloths with a magnifier. What do you see now?",
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good, even if the guess was wrong. A good answer sounds like this. What I think: old jeans make the best patch of our four cloths. What I saw: only about 3 ml came through the jeans. About 14 ml came through the sweater, even though it is thick. Why: the jeans' threads are packed tight, so the gaps are tiny. The sweater is knitted in loops, with big holes between them. Water goes through the biggest gaps first.",
      "think": "The thick sweater may have let more rain through than the thin sari. What might matter more than thickness?"
     }
@@ -2166,14 +2166,14 @@
      "what": "Plan the test. Cut the strips. Test each paper three times. Fill in the table and draw a bar chart."
     }
    ],
-   "record": "Fill in the results table. Write the middle value for each paper. Draw a bar chart.",
+   "record": "Fill in the results table. Write the middle value for each paper. Show them as a bar chart, drawn or made with rows of coins.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw three boxes on a sheet of paper. Label them CHANGE, KEEP THE SAME and MEASURE. 2. Fill them in together. CHANGE: the paper. KEEP THE SAME: the strip size, the tape, the bag, and one-rupee coins added gently one at a time. MEASURE: how many coins the strip holds before it tears.",
+     "do": "1. Make three boxes on a sheet of paper (draw them, or fold the sheet in three). Label them CHANGE, KEEP THE SAME and MEASURE. 2. Fill them in together. CHANGE: the paper. KEEP THE SAME: the strip size, the tape, the bag, and one-rupee coins added gently one at a time. MEASURE: how many coins the strip holds before it tears.",
      "say": "Before any test, scientists answer three questions. What will we change? What will we keep the same? What will we measure? Let's fill in our planning boxes.",
-     "kid": "Draw three boxes: CHANGE, KEEP THE SAME, MEASURE. What will you change? What stays the same? What will you measure?",
+     "kid": "Make three boxes: CHANGE, KEEP THE SAME, MEASURE. Fill each one with your grown-up.",
      "context": "This is the first step of the strip strength test. You will hang a bag from a strip of paper and add coins until the strip tears."
     },
     {
@@ -2214,9 +2214,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Draw the bar chart of middle values, one bar for each paper. Compare it with your line of guesses.",
+     "do": "Make a bar for each paper: draw it, or line up a row of coins, as many as the middle value. Compare it with your line of guesses.",
      "say": "Which paper is the strongest? Was your line of guesses right?",
-     "kid": "Draw one bar for each paper. Which is strongest? Was your guess right?",
+     "kid": "Make a bar for each paper. Which is longest? Was your guess right?",
      "chart": {
       "type": "bar",
       "title": "Strip strength test: coins held by strips 2 cm wide before tearing (made-up middle values)",
@@ -2249,7 +2249,7 @@
      "parent": "No. Soft and strong are different properties. In the made-up results, the soft facial tissue held 30 coins, which is more than the paper napkin held."
     }
    ],
-   "context": "This is the strip strength test. You hang a little bag from a strip of thin paper and add coins, one at a time, until the strip tears. You do this for four papers, three times each.",
+   "context": "This is the strip strength test. You will find out which of four thin papers is the strongest. You hang a little bag from a strip of paper and add coins, one at a time, until the strip tears. You do this three times for each paper.",
    "example_chart": {
     "type": "bar",
     "title": "Strip strength test: coins held by strips 2 cm wide before tearing (made-up middle values)",
@@ -2353,7 +2353,7 @@
      "context": "This is the first step of the width test. You guess, with a reason, how much a wider strip of the same paper will hold.",
      "do": "1. Show your child one layer of the napkin. 2. Ask the two guesses below. 3. Write both guesses and the reasons down.",
      "say": "If a strip 2 cm wide holds 20 coins, how many will a strip 4 cm wide hold? Why do you think so? And will three strips of the same size all hold the same?",
-     "kid": "A 2 cm strip holds 20 coins. Guess: how many will a 4 cm strip hold? Why? Will three same-size strips hold the same?",
+     "kid": "A 2 cm strip holds 20 coins. Guess: how many will a 4 cm strip hold? Will three same-size strips hold the same?",
      "ask": [
       {
        "q": "Why did you guess that?",
@@ -2378,9 +2378,9 @@
     {
      "id": "s3",
      "mins": 14,
-     "do": "1. Trap the top 3 cm of a strip under the heavy book at the table's edge. 2. Fold the bottom 2 cm round the paper clip hook and tape it. 3. Hang the bag. 4. Add coins gently, one at a time, counting out loud. 5. When it tears, write the number, and mark on a drawing where it tore. 6. Test all six strips.",
+     "do": "1. Trap the top 3 cm of a strip under the heavy book at the table's edge. 2. Fold the bottom 2 cm round the paper clip hook and tape it. 3. Hang the bag. 4. Add coins gently, one at a time, counting out loud. 5. When it tears, write the number, and where it tore (near the top, the middle or the bottom). 6. Test all six strips.",
      "say": "Gently, one coin at a time. Before each new strip, guess again: more or fewer than the last one?",
-     "kid": "Hang a strip. Add coins one at a time. Count out loud. When it tears, write the number. Mark where it tore. Test all six.",
+     "kid": "Hang a strip. Add coins one at a time. Count out loud. When it tears, write the number. Say where it tore. Test all six.",
      "ask": [
       {
        "q": "Did each strip tear in the same place?",
@@ -2439,9 +2439,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Ask your child to write three sentences: what I think, what I saw, and why.",
-     "say": "Now write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened.",
-     "kid": "Write three sentences. What I think. What I saw. Why it happened.",
+     "do": "Ask your child to say or write three sentences: what I think, what I saw, and why.",
+     "say": "Now say or write three sentences. First, what you think now. Second, what you saw that shows it. Third, why you think it happened.",
+     "kid": "Say or write three sentences. What I think. What I saw. Why it happened.",
      "parent": "Any honest answer with all three parts is good. A good answer sounds like this. What I think: a strip twice as wide holds about twice as many coins, but not exactly. Strips of the same size are not all equally strong. What I saw: the 2 cm strips held 18, 24 and 21. The 4 cm strips held about 44, which is close to double 21. Why: twice as wide means twice as many fibres share the pull. But each strip tears at its own weakest spot, and those are different in every strip. A strip 100 cm wide would probably not hold exactly 50 times as many coins as a 2 cm strip. It has many more places where a weak spot could hide, and a very wide strip may not share the pull evenly.",
      "think": "If you tested a strip 100 cm wide, would it hold exactly 50 times as many coins as a 2 cm strip? What could go wrong?"
     }
@@ -2481,7 +2481,7 @@
     },
     {
      "art": "Six torn strips laid side by side on a table, each torn in a different place, with a number of coins written above each.",
-     "caption": "3. Add coins until it tears. Mark where each one tore."
+     "caption": "3. Add coins until it tears. Note where each one tore."
     }
    ]
   },
@@ -2540,14 +2540,14 @@
      "what": "Hang 12 strips over coloured water from a stick on two piles of books. Wait 5 minutes. Measure, find middle values and draw a bar chart."
     }
    ],
-   "record": "Fill in the results table. Write the middle value for each material. Draw a bar chart.",
+   "record": "Fill in the results table. Write the middle value for each material. Draw a bar chart, or line up the four strips from the highest climb to the lowest.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Draw three boxes on a sheet of paper. Label them CHANGE, KEEP THE SAME and MEASURE. 2. Fill them in together. CHANGE: the material. KEEP THE SAME: the strip size, the coloured water, how deep each dips, the start time and 5 minutes. MEASURE: how high the colour climbs, in centimetres.",
+     "do": "1. Make three boxes on a sheet of paper (draw them, or fold the sheet in three). Label them CHANGE, KEEP THE SAME and MEASURE. 2. Fill them in together. CHANGE: the material. KEEP THE SAME: the strip size, the coloured water, how deep each dips, the start time and 5 minutes. MEASURE: how high the colour climbs, in centimetres.",
      "say": "Before any test, scientists answer three questions. What will we change? What will we keep the same? What will we measure? Let's fill in our planning boxes.",
-     "kid": "Draw three boxes: CHANGE, KEEP THE SAME, MEASURE. What will you change? What stays the same? What will you measure?",
+     "kid": "Make three boxes: CHANGE, KEEP THE SAME, MEASURE. Fill each one with your grown-up.",
      "context": "This is the first step of the climbing water test. You hang strips of different materials with their ends in coloured water, and see how high the water climbs."
     },
     {
@@ -2563,10 +2563,10 @@
      "mins": 7,
      "do": "1. Lower the stick back onto the two piles. Every strip now dips to its pencil line at the same moment. 2. Start the timer for 5 minutes. 3. Watch the colour climb.",
      "say": "All of them start at the same moment. Watch closely. Which one is winning the race?",
-     "kid": "Lower the stick onto the books. All the strips dip in at once. Start the timer. Watch the colour climb. Which is fastest?",
+     "kid": "Lower the stick onto the books. All the strips dip in at once. Start the timer. Watch the colour climb.",
      "ask": [
       {
-       "q": "What is pulling the water up, against gravity?",
+       "q": "What do you think pulls the water up the strip?",
        "good": [
         "The water clings to the fibres and climbs the tiny gaps.",
         "The strip is sucking it up."
@@ -2700,9 +2700,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw three big boxes on the paper: CHANGE, KEEP THE SAME and MEASURE. 2. Read out the question: 'Which cloth would make the best monsoon bag cover?'",
+     "do": "1. Make three big boxes on the paper (draw them, or fold it in three): CHANGE, KEEP THE SAME and MEASURE. 2. Read out the question: 'Which cloth would make the best monsoon bag cover?'",
      "say": "Scientists plan before they test. We'll write each thing that could change in a test on its own slip. Then we decide which box each slip goes in.",
-     "kid": "Draw three boxes: CHANGE, KEEP THE SAME, MEASURE. Here is the question. Which cloth makes the best rain cover?",
+     "kid": "Make three boxes: CHANGE, KEEP THE SAME, MEASURE. Listen to the question: which cloth makes the best rain cover?",
      "context": "This is the first step of the Planning Board. It is a way to plan a fair test before you do it, using three boxes and slips of paper."
     },
     {
@@ -2929,7 +2929,7 @@
      "what": "Measure how loud an alarm sounds under different covers, three times each."
     }
    ],
-   "record": "Fill in a table: cover, three readings, middle value. Draw a bar chart. Put the covers in order from best muffler to worst.",
+   "record": "Fill in a table: cover, three readings, middle value. Draw a bar chart, or line up the covers by how quiet they made the alarm. Put the covers in order from best muffler to worst.",
    "flow": [
     {
      "id": "s1",
@@ -3205,7 +3205,7 @@
      "context": "This is the first step of the Knot Test. You guess, with a reason, what a knot will do to a hair's strength.",
      "do": "1. Show your child the six hairs. 2. Ask the question below. 3. Write down the guess and the reason.",
      "say": "Three of these hairs will stay plain. Three will get a knot in the middle. Will the knotted ones hold more coins, fewer, or the same? Why do you think so? And where will a knotted hair break?",
-     "kid": "Three plain hairs. Three with a knot. Which will hold more coins? Why do you think so? Where will a knotted hair break?",
+     "kid": "Three plain hairs. Three with a knot. Which will hold more coins? Where will a knotted hair break?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -3278,8 +3278,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Talk together about knots in real ropes.",
-     "say": "The knot was made of the same hair. Nothing was taken away. If your knotted hairs held fewer coins, why do you think that was? Where would a climber check a rope most carefully?",
-     "kid": "Nothing was taken away from the knotted hair. If it was weaker, why? Where should a climber check a rope?",
+     "say": "The knot was made of the same hair. Nothing was taken away. If your knotted hairs held fewer coins, why do you think that was?",
+     "kid": "Nothing was taken away from the knotted hair. If it was weaker, why do you think that was?",
      "ask": [
       {
        "q": "Where should a climber check a rope?",
@@ -3342,8 +3342,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Hang each cup from a finger by its handle. 2. Tap it gently with the spoon. 3. Listen to the ring. 4. If you have no cracked cup, hang a steel tumbler from a thread and tap it. Then hold it tightly in your hand and tap it again.",
-     "say": "Before you tap, guess. Which cup will ring clearly, and why? Now close your eyes and listen. Which one rings clearly? Which one sounds dull or buzzy?",
-     "kid": "Close your eyes. Tap each cup gently with a spoon. Which one rings? Which one buzzes?",
+     "say": "Before you tap, guess which cup will ring clearly, and why. Now close your eyes and listen.",
+     "kid": "Close your eyes. Tap each cup gently with a spoon. Which one rings clearly, and which sounds dull?",
      "context": "This is the first step of Tap and Bend. First you test cups and pots by tapping them, which does not harm them. Then you test paper clips by bending them until they break.",
      "parent": "A whole cup rings clearly. A cracked cup sounds dull and buzzy. With the tumbler, the hand stops it vibrating freely, the way a crack does, so it sounds dull too. Tell your child that the tumbler shows the idea, but a real crack is what the tap test listens for."
     },
@@ -3467,7 +3467,7 @@
      "context": "This is the first step of the Tiny Cut Test. You guess, with a reason, what one small cut will do to a strip of paper.",
      "do": "1. Show your child two napkin strips, one plain and one with a small cut at one edge. 2. Ask the question below. 3. Write down the guess and the reason.",
      "say": "These strips are the same, except that one has a tiny cut at its edge. Will the cut strip hold more coins, the same, or fewer? Why do you think so? And where will it tear?",
-     "kid": "One strip has a tiny cut. One has none. Which will hold more coins? Why do you think so? Where will the cut strip tear?",
+     "kid": "One strip has a tiny cut. One has none. Which will hold more coins? Where will the cut strip tear?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -3735,7 +3735,7 @@
      "mins": 8,
      "do": "Your child presents the report to the family, and says which towel they would buy and why.",
      "say": "Which one would you buy? Is the winner the same if money is tight?",
-     "kid": "Show your report to your family. Which one would you buy? Why?",
+     "kid": "Show your report to your family. Tell them which towel you would buy.",
      "think": "Which towel did best at soaking, which did best when wet, and which cost least per sheet? Is it the same towel each time?"
     }
    ],
@@ -3783,7 +3783,7 @@
     "Copy the lotus leaf: a waxy outer surface, so water rolls off.",
     "Copy Kerala's old palm-leaf umbrellas and wrap it in big dried leaves, overlapping like roof tiles so water runs down and off."
    ],
-   "your_turn": "Now invent your own cover. Draw it, make it, open and close it 10 times, then pour the water. Put a dry tissue inside to check. Is it better than the others?",
+   "your_turn": "Now invent your own cover. Make it, open and close it 10 times, then pour the water. Put a dry tissue inside to check. Is it better than the others?",
    "flow": [
     {
      "id": "s1",
@@ -3796,9 +3796,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Before making anything, draw two or three ideas and say which property each part needs.",
+     "do": "Before making anything, plan two or three ideas. Draw them, or lay out the real materials. Say which property each part needs.",
      "say": "Engineers design before they build. Which parts must be waterproof? Which must bend?",
-     "kid": "Draw two or three ideas first. Which part keeps water out? Which part must bend to open?"
+     "kid": "Plan two or three ideas first. Draw them, or lay out real materials. Tell what each part does."
     },
     {
      "id": "s3",
@@ -3878,15 +3878,15 @@
      "mins": 4,
      "do": "Remind your child how many coins a flat 2 cm strip of toilet paper held. Or test one now.",
      "say": "A flat strip of toilet paper 2 cm wide held about 15 coins. A whole sheet is about 10 cm wide. Can one sheet hold 100 coins if you change its shape?",
-     "kid": "A flat strip of toilet paper 2 cm wide held about 15 coins. Can one whole sheet hold 100? Change its shape!",
+     "kid": "A flat strip of toilet paper 2 cm wide held about 15 coins. Can you make one sheet hold 100 coins by changing only its shape?",
      "context": "This is the first step of the 100-Coin Strip challenge. You change the shape of one sheet of toilet paper to make it strong enough to hold 100 one-rupee coins."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "List three ideas together before trying any.",
-     "say": "Before you try, think like an engineer. Write three ideas.",
-     "kid": "Think first. Write or draw three ideas to make the paper stronger."
+     "do": "Say three ideas together before trying any. Write them down if you like.",
+     "say": "Before you try, think like an engineer. What are three ways to change the shape?",
+     "kid": "Think first. Tell your grown-up three ways to change the shape to make the paper stronger."
     },
     {
      "id": "s3",
@@ -3963,7 +3963,7 @@
     "Replace parts after a set number of flights, before cracks are likely.",
     "Design every part so a crack grows slowly, and check often enough to catch it while it is still small."
    ],
-   "your_turn": "Invent your own way to find a hidden crack in something at home, like a cup, a bat or a chair. Draw it, try it, and explain how it works.",
+   "your_turn": "Invent your own way to find a hidden crack in something at home, like a cup, a bat or a chair. Try it, and explain how it works. You can draw it or just tell it.",
    "setup": [
     {
      "art": "A child tapping a whole steel-rimmed cup and a cracked cup with a spoon, listening closely.",

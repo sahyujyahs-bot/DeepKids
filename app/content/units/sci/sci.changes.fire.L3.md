@@ -244,8 +244,8 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - **s2 (10 min)**  
   *Parent does:* Play the game. Each time someone puts out a fire, ask which side they took away.  
   *Parent says:* You put a lid on my fire. Which side did that take away?  
-  *Child mode:* Which side did your card take away?
-  - Check: A player's fire is made of the oil FUEL card, a breeze and a match. Which card should you NOT use to put it out? → **WATER**
+  *Child mode:* Say which side your card took away.
+  - Check: A fire is burning in oil. Which card should you NOT use to put it out? → **WATER**
 - **s3 (2 min)**  
   *Parent does:* Talk about the game at the end.  
   *Parent says:* Which card could never put out an oil fire, and why?  
@@ -265,9 +265,9 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   *Child mode:* SAFE or SPARK? Then say why.
   - Check: A mosquito coil is left burning under the bed. Safe or spark? → **Spark, because the glowing coil is hot enough to light the bedsheet or anything that falls on it**
 - **s3 (1 min)**  
-  *Parent does:* Finish and count the points.  
+  *Parent does:* Finish the game.  
   *Parent says:* Pick one SPARK card. Which two of fuel, oxygen and heat were together on it? What would make it safe?  
-  *Child mode:* Pick one SPARK card. Which two of fuel, oxygen and heat were together on it? What would make it safe?
+  *Child mode:* Pick one SPARK card and tell why.
   - Note: Use the answer on the back of the card. For example, on the paper lantern card, the paper is the fuel and the diya's flame is the heat, and moving the lantern away would make it safe.
 
 ## Experiments
@@ -276,17 +276,17 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - **predict:** We will try to light three things: a lump of wax with no wick, a candle's wick, and the white smoke from a candle that has just been blown out. Which ones do you think will catch fire? Why do you think so?
 - **fair test:** Use the same kind of candle wax for every test, and the same kind of match, a new one each try. Switch off the fan and close the windows during the smoke test, because a breeze blows the smoke away. In the smoke test, only the height of the match changes: 2 cm, 5 cm and 8 cm above the wick. Try each height three times, because one try can be a fluke.
 - **safety:** A grown-up lights every match and stays at the table the whole time. Work on a steel plate on a bare kitchen counter or floor, away from curtains, paper and gas cylinders. Tie back long hair, and tuck in a davani or dupatta. Keep a bowl of water nearby. Never lean over a flame. The child watches, records and reads the card. The grown-up does all the lighting and blowing out. Open the windows after the smoke test, because candle smoke stings the eyes.
-- **record:** Fill in the table. Then draw the candle, the smoke and the match, with an arrow showing which way the flame travelled.
+- **record:** Fill in the table. Then draw the candle, the smoke and the match, with an arrow showing which way the flame travelled. Or tell your grown-up which way the flame travelled.
 - **results table:** What we tried to light | My guess: will it catch fire? | Try 1 | Try 2 | Try 3 | What we saw
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Break a piece about 3 cm long off the bottom of one candle. 2. Pull out its wick, so you have a lump of plain wax. 3. Stand the other candle on the steel plate, fixed with a few drops of melted wax. 4. Tape the marked card to the tumbler and stand it just behind the candle.  
   *Parent says:* We are going to find out what really burns in a candle. Here is a lump of wax with no wick, and here is a whole candle. What do you think a candle burns?  
-  *Child mode:* Look at the lump of wax and the candle. What do you think burns in a candle?
+  *Child mode:* Look at the lump of wax and the candle. Find the wick.
   - Note: The bottom of the card should be level with the top of the wick, so the lines show 2, 5 and 8 cm above it. Let the child do the breaking and taping. You do any step with a flame.
 - **s2 (4 min)**  
   *Parent does:* Ask your child to guess, for each of the three things, whether it will catch fire. Write each guess and reason in the table.  
   *Parent says:* Here are the three things we will try to light: a lump of wax, a candle wick, and the white smoke that rises when a candle is blown out. Which will catch fire? Why do you think so?  
-  *Child mode:* Guess for each one. Will it catch fire? Why do you think so?
+  *Child mode:* Guess for each one. Will it catch fire?
   - Ask: Why do you think the lump of wax will or will not burn? (good: Candles are made of wax, so wax burns.; It has no wick, so it may not light.)
   - Note: Do not say what will happen. Most children say the wax will burn, because candles are wax, and that the smoke will not, because smoke is what is left after burning. Both are good guesses to test.
 - **s3 (5 min) · grown-up needed**  
@@ -308,7 +308,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three things: what they think burns in a candle, what they saw, and why they think it happened.  
   *Parent says:* Now tell me three things. What do you think burns in a candle? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things: what you think burns in a candle, what you saw, and why you think it happened.
+  *Child mode:* Tell your grown-up what you think burns, what you saw, and why it happened.
   - Note: This is claim, evidence and reasoning. A strong answer sounds like this. What I think: the wax burns, but only after it turns into a gas. What I saw: the lump of wax only melted, but the flame lit the smoke from 2 cm and 5 cm above the wick and ran down to it. Why: the white smoke has wax gas in it. The flame's heat turns melted wax into gas, and the gas burns.
   - Check: The match lit the white smoke above a blown-out candle, and the flame ran down to the wick. What does this show? → **The smoke has wax gas in it, and that gas can burn**
 ### e2 · The Tea Strainer Test: can a metal mesh stop a flame? (20 min)
@@ -317,12 +317,12 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - **predict:** We will hold a fine steel tea strainer over a candle flame, then a steel spoon or ladle with big holes. Will the flame come through the fine mesh? Will it come through the big holes? Why do you think so?
 - **fair test:** Use the same candle and the same height each time: lower the metal until it is halfway down the flame. Hold it there for 3 seconds only, then lift it away. Only the size of the holes changes. Try each one twice, and let the metal cool in between, because a hot mesh works less well.
 - **safety:** A grown-up lights every match and stays at the table the whole time. Work on a steel plate on a bare kitchen counter or floor, away from curtains, paper and gas cylinders. Tie back long hair, and tuck in a davani or dupatta. Keep a bowl of water nearby. Never lean over a flame. Only a grown-up holds the strainer and the spoon, using a folded cloth. Never use a strainer with a plastic rim or handle. Hold the metal in the flame for 3 seconds at most, and put it on the steel plate to cool.
-- **record:** Draw the flame under the fine mesh and under the big holes, as you saw them from the side.
+- **record:** Draw the flame under the fine mesh and under the big holes, as you saw them from the side. Or tell your grown-up where the flame was each time.
 - **results table:** What we held over the flame | Size of holes | My guess: will the flame come through? | Try 1 | Try 2
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Light the candle and let it burn steadily for a minute. 2. Show your child the tea strainer and the slotted spoon. 3. Ask for a guess and a reason for each.  
   *Parent says:* This mesh has holes much finer than a grain of rice. The spoon has big holes. When I hold each one in the flame, will the flame come through?  
-  *Child mode:* Look at the fine mesh and the big holes. Will the flame come through? Why?
+  *Child mode:* Look at the fine mesh and the big holes. Which one has the smaller holes?
   - Note: Most children say the flame will come through both, because there are holes. Some say the fine mesh will stop it, like a net. Write down every guess.
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Hold the tea strainer flat, using a cloth on the handle. 2. Lower it slowly onto the flame until it is halfway down the flame. 3. Hold it for 3 seconds. 4. Your child looks from the side, at eye level with the mesh. 5. Lift it away and put it on the steel plate. 6. When it is cool, after about a minute, do it a second time.  
@@ -337,7 +337,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - **s4 (5 min)**  
   *Parent does:* Talk about the results. Then read the explanation card 'Davy's lamp: cooling stops a flame'.  
   *Parent says:* The fine mesh stopped the flame, but gas and smoke still went through. What do you think the metal did to the flame?  
-  *Child mode:* The fine mesh stopped the flame. What did the metal do?
+  *Child mode:* The metal wires touch the hot flame. Think about what they do to its heat.
   - Note: Steel carries heat away. Each fine wire touches the flame and takes heat from it, so the gas that gets through is too cool to burn. Big holes have less metal close to the gas, so the flame can get through. This is how Humphry Davy's safety lamp kept miners safe in 1815.
   - Check: Why did the fine mesh stop the flame? → **The metal wires took away heat, so the gas above was too cool to burn**
 ### e3 · Dry Wick or Oiled Wick? How long does each one burn? (25 min)
@@ -345,12 +345,12 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - **predict:** We will light a dry cotton wick in an empty diya, and a wick lying in oil in another diya. Which will burn longer? Will the wick in oil get shorter? Why do you think so?
 - **fair test:** Use two wicks of the same kind and the same length, and two diyas of the same size. Measure both wicks before lighting. Light both the same way. Time each one with the same clock.
 - **safety:** A grown-up lights every match and stays at the table the whole time. Work on a steel plate on a bare kitchen counter or floor, away from curtains, paper and gas cylinders. Tie back long hair, and tuck in a davani or dupatta. Keep a bowl of water nearby. Never lean over a flame. Never use kerosene or petrol, which give off flammable gas even when cold. Use cooking oil or lamp oil only.
-- **record:** Fill in the table. Draw both wicks before and after, side by side.
+- **record:** Fill in the table, with the length of both wicks before and after.
 - **results table:** Wick | Length before (cm) | My guess: how long will it burn? | How long it burned | Length after (cm)
 - **s1 (5 min)**  
   *Parent does:* 1. Measure both wicks with the ruler and write the lengths. 2. Put one dry wick in an empty diya, with its tip over the edge. 3. Half fill the other diya with oil. 4. Lay the second wick in it, with its tip over the edge. 5. Wait 5 minutes for the oil to soak up the wick.  
   *Parent says:* Both wicks are the same. One is dry, and one is lying in oil. Which will burn longer? Will either wick get shorter?  
-  *Child mode:* Measure both wicks. One is dry. One lies in oil. Which burns longer? Why?
+  *Child mode:* Measure both wicks with the ruler. Tell your grown-up how long each one is.
   - Note: Write down your child's guess and reason. Many children guess the dry wick will burn longer, because it is not wet.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Start the stopwatch. 2. Light the dry wick. 3. Watch until the flame goes out, and write the time.  
@@ -365,24 +365,24 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say what they think, what they saw and why.  
   *Parent says:* What do you think was the fuel in the diya? What did you see? Why did the cotton last so much longer in oil?  
-  *Child mode:* What was the fuel in the diya? What did you see? Why did the wick in oil last longer?
+  *Child mode:* Tell your grown-up what you saw, and why the wick in oil lasted longer.
   - Note: A strong answer: the oil is the fuel. The dry wick burned out in a minute or two, but the oiled wick burned for 10 minutes and hardly got shorter. The oil climbs the wick, turns into gas at the tip and burns. The soaked cotton stays cool enough not to burn itself.
   - Check: The oiled wick burned for 10 minutes and hardly got shorter. What does that show? → **The oil is the fuel, and it burns at the tip of the wick**
 
 ## Activities
 ### a1 · Watch a Flame: what do you notice? (10 min)
 - **safety:** A grown-up lights every match and stays at the table the whole time. Work on a steel plate on a bare kitchen counter or floor, away from curtains, paper and gas cylinders. Tie back long hair, and tuck in a davani or dupatta. Keep a bowl of water nearby. Never lean over a flame.
-- **record:** Draw the flame with its colours. Write two things you noticed and one thing you wonder.
+- **record:** Write two things you noticed and one thing you wonder. Draw the flame if you like.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Light the candle on the steel plate. 2. Sit an arm's length away with your child. 3. Watch quietly for one minute. 4. Then ask what they notice.  
   *Parent says:* Let's just look at this flame for a minute, without talking. What colours can you see? What shape is it? Is anything moving?  
-  *Child mode:* Look at the flame for one minute. What colours do you see? What is moving?
+  *Child mode:* Look at the flame for one minute. Do not talk.
   - Ask: What do you notice about the flame? (good: It is blue at the bottom and yellow above.; There is a pool of melted wax.; It flickers when I breathe out.; The wick is black.)
   - Note: Good things to notice: the blue part at the very bottom, the yellow middle, the dark wick, the pool of melted wax, the flame leaning when someone moves. Don't explain anything yet.
 - **s2 (5 min)**  
-  *Parent does:* 1. Ask your child to draw the flame with its colours. 2. Ask for one 'I wonder' question and write it at the top of the page.  
-  *Parent says:* Draw the flame as carefully as you can. Then tell me one thing you wonder about it. We will try to answer it in this unit.  
-  *Child mode:* Draw the flame and its colours. What do you wonder about it?
+  *Parent does:* 1. Ask your child to tell you what the flame looks like, or to draw it. 2. Ask for one 'I wonder' question and write it at the top of the page.  
+  *Parent says:* Tell me what the flame looked like, or draw it as carefully as you can. Then tell me one thing you wonder about it. We will try to answer it in this unit.  
+  *Child mode:* Tell your grown-up what the flame looks like, or draw it. What do you wonder about it?
   - Note: Questions children often ask: what is burning, the wax or the string? Why is it blue at the bottom? Why does it point up? Where does the wax go? Keep the question, and come back to it after The Jumping Flame. The answer is that the wax melts, turns into gas and burns. The burning gas becomes carbon dioxide and water vapour, which go into the air, and that is why the candle gets shorter.
   - Think: The candle gets shorter as it burns. Where does the wax go?
 ### a2 · The Home Fire Safety Walk (15 min)
@@ -406,7 +406,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
   - Note: In a flat, the second way may be the building's stairs on the other side, or a neighbour's door. Never use a lift in a fire, because the power may fail and smoke can fill the shaft.
   - Check: You smell gas in the kitchen. What should you do first? → **Tell a grown-up at once, without touching any switch**
 ### a3 · Stop, Drop and Roll, and Crawl Low (10 min)
-- **record:** Draw yourself doing the three moves: stop, drop and roll.
+- **record:** Do the three moves once more from memory. Then tell your grown-up the order: stop, drop and roll.
 - **s1 (5 min)**  
   *Parent does:* 1. Show the three moves. 2. Stop where you are. 3. Drop to the ground and cover your face with your hands. 4. Roll over and over. 5. Your child copies, three times.  
   *Parent says:* If your clothes ever catch fire, never run. Running fans the flames with air. Stop. Drop to the ground. Cover your face. Roll, until the fire is out. Let's practise.  
@@ -446,14 +446,14 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 ### a6 · Which Side of the Triangle? Sort the fire stoppers (10 min)
 - **record:** Stick each card next to the side of the triangle it takes away.
 - **s1 (6 min)**  
-  *Parent does:* 1. Draw a big triangle. 2. Write fuel, oxygen and heat on its sides. 3. Read each card. 4. Your child puts it by the side it takes away.  
+  *Parent does:* 1. Lay the sheet with the fire triangle on the table. 2. Check that fuel, oxygen and heat are written on its sides. 3. Read each card aloud. 4. Your child puts it by the side it takes away.  
   *Parent says:* Each card is a way of putting out a fire. Which side of the triangle does it take away? The fuel, the oxygen or the heat?  
   *Child mode:* Read each card. Does it take away fuel, oxygen or heat?
   - Note: Answers: lid, sand, rolling, fire blanket and wet cloth take away oxygen. Turning off the gas, clearing dry grass and letting the diya run out take away the fuel. Water on paper takes away heat. Some take away two, such as water, which also keeps air off a little. A good sorter gives a reason.
 - **s2 (4 min)**  
   *Parent does:* Talk about the cards that were hard to sort.  
   *Parent says:* Which card was hardest? Could it go in two places?  
-  *Child mode:* Which card was hardest? Could it go in two places?
+  *Child mode:* Pick the card that was hardest to sort.
   - Check: A kadai of oil catches fire, and a grown-up puts a lid on it. Which side of the fire triangle does the lid take away? → **Oxygen**
 
 ## Projects
@@ -462,7 +462,7 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - **record:** The map poster, and the time it took everyone to reach the meeting place.
 - **schedule:** day 1: Draw a map of your home with two ways out, a meeting place outside and the emergency numbers. (20 min); day 2: Practise the plan: everyone gets to the meeting place, crawling low through one room. Time it. (20 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Draw a map of your home from above, room by room. 2. Mark two ways out with green arrows. 3. Choose a meeting place outside, such as the building gate or a tree. 4. Write 101 and 112 in big numbers. 5. Add three rules: crawl low, stop drop and roll, never use the lift.  
+  *Parent does:* 1. Draw a map of your home from above, room by room. If you do not like drawing, cut paper rooms and stick them down. 2. Mark two ways out with green arrows. 3. Choose a meeting place outside, such as the building gate or a tree. 4. Write 101 and 112 in big numbers. 5. Add three rules: crawl low, stop drop and roll, never use the lift.  
   *Parent says:* Fire services ask every family to have a plan. Let's draw ours. Where are our two ways out? Where shall we all meet outside?  
   *Child mode:* Draw your home. Mark two ways out. Choose a meeting place outside.
   - Note: A meeting place matters because in a fire, people must know who is already safe, so no one goes back inside to look for them.
@@ -476,14 +476,14 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 ## Challenges
 ### c1 · The Windproof Diya (30 min)
 - **problem:** On a windy balcony, diyas keep blowing out. Design a shield that keeps a diya burning in the breeze from a table fan, without stopping its air.
-- **your turn:** Now design your own windproof diya. Draw it, build it with a grown-up, and test it in front of the fan.
+- **your turn:** Now design your own windproof diya. Tell your idea or sketch it, build it with a grown-up, and test it in front of the fan.
 - **constraints:** Use only things from home that do not burn easily: steel, glass, clay or foil.; The flame must keep burning for 3 minutes with a table fan on low, one metre away.; A grown-up lights the diya and stays with it.
 - **general:** Stand a wide, tall glass jar, open at the top, over the diya. Air comes in from the top, and the glass keeps the wind off the sides. A narrow jar can starve the flame.; Wrap a strip of foil around three sides of the diya, leaving the side away from the fan open.
 - **creative:** Make a ring of foil with small holes near the bottom, so air comes in low and slowly.; Put the diya inside a clay pot lying on its side, like a little cave, with the opening away from the wind.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together and draw two ideas.  
+  *Parent does:* Read the problem together. Ask your child to tell or sketch two ideas.  
   *Parent says:* The diya needs a fresh supply of air, but not a strong wind. How can we keep the wind off but let air in?  
-  *Child mode:* Keep the wind off the flame. But the flame still needs air. Draw two ideas.
+  *Child mode:* Keep the wind off the flame. But the flame still needs air. Tell or sketch two ideas.
 - **s2 (17 min) · grown-up needed**  
   *Parent does:* 1. Build the shield. 2. A grown-up lights the diya on a steel plate. 3. Switch on the fan on low, one metre away. 4. Time how long the flame lasts. 5. Improve the shield and test again.  
   *Parent says:* Let's test it. Watch the flame. Is it blowing sideways? Is it getting smaller, as if it is short of air?  
@@ -501,13 +501,13 @@ Arjun looked along the wall at the row of flames, each one standing still, each 
 - **general:** Light crackers only outdoors, in an open space, far from parked vehicles and dry leaves, with a bucket of water and a bucket of sand kept ready.; Children wear cotton clothes, not loose synthetic ones, and stand well back while a grown-up lights crackers.
 - **creative:** Mark a 'lamp wall' far from curtains and a 'cracker circle' with chalk, with a line no child crosses.; Choose quieter, smaller crackers, or more lamps and fewer crackers, which also means less smoke for everyone's lungs.
 - **s1 (10 min)**  
-  *Parent does:* 1. Draw the courtyard from above. 2. Mark where the lamps and the crackers will go. 3. Mark where the water and sand buckets will be.  
+  *Parent does:* 1. Draw the courtyard from above, or lay it out with small things like cups and spoons. 2. Mark where the lamps and the crackers will go. 3. Mark where the water and sand buckets will be.  
   *Parent says:* Where should the crackers be lit? Where are the lamps? What do we keep ready in case something catches fire?  
-  *Child mode:* Draw the courtyard. Where do lamps and crackers go? Where is the water?
+  *Child mode:* Show the courtyard from above. Put the lamps, crackers and water buckets in place.
 - **s2 (10 min)**  
   *Parent does:* 1. Write five rules on the poster. 2. For three of them, write which side of the fire triangle the rule controls.  
   *Parent says:* Why sand as well as water? Which side of the triangle does sand take away?  
-  *Child mode:* Write five rules. Which side of the triangle does each one control?
+  *Child mode:* Write five rules. Pick three and say which side of the triangle each one controls.
   - Note: Sand smothers a fire by keeping the air away. It also works on burning oil, where water must not be used.
 - **s3 (5 min)**  
   *Parent does:* Read the usual and creative ideas, and improve the poster.  

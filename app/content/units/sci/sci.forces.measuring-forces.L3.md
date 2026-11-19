@@ -298,12 +298,12 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **s1 (3 min)**  
   *Parent does:* 1. Put out the forcemeter, a cloth bag with handles and the score sheet. 2. Shuffle the thing cards face down. 3. Hold up a small apple and say it pulls with about 1 newton.  
   *Parent says:* Hold this apple. Feel how it pulls your hand down. That is about 1 newton. We will use it to help us guess other things.  
-  *Child mode:* Hold the apple. Feel it pull your hand down. That pull is about 1 newton. Remember how it feels.
+  *Child mode:* Hold the apple. Feel it pull your hand down. Remember how it feels.
   - Note: A small apple of about 100 grams pulls with about 1 newton. A 1 litre bottle of water pulls with about 10 newtons. Let your child hold both before you start. Use a 0 to 50 newton forcemeter, because a coconut or a school bag is too heavy for a 0 to 10 one.
 - **s2 (3 min)**  
   *Parent does:* Hang the empty bag from the forcemeter. Ask your child to check the pointer before you begin.  
   *Parent says:* Before every game we check the zero. Where is the pointer with just the empty bag on it?  
-  *Child mode:* Hang the empty bag on the hook. Look at the pointer. Is it on zero?
+  *Child mode:* Hang the empty bag on the hook. Look at the pointer.
   - Note: An empty cloth bag pulls with about half a newton, so the pointer may move a little. If it does, turn the zero screw with the empty bag hanging. Or write down the empty bag's reading and take it away from every reading. Both ways are fair, as long as you do the same every time.
   - Check: Before the game starts, you hang the empty bag on the forcemeter. Where should the pointer be? → **exactly on zero**
 - **s3 (12 min)**  
@@ -334,8 +334,8 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Child mode:* Lay the ladder on the floor. Tiny at the bottom. Huge at the top. Keep the number sides face down.
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together: 'A 1 litre water bottle on your hand'.  
-  *Parent says:* Here's a practice card. A 1 litre water bottle on your hand. Which rung?  
-  *Child mode:* Practice card: a 1 litre bottle of water on your hand. Which rung is it?
+  *Parent says:* Here is a practice card. Read it and put it on the rung you think is right.  
+  *Child mode:* Hold a 1 litre bottle of water on your hand, as the card says.
   - Note: 10 newtons sits right at the start of the Medium rung. Point out that the Small rung stops just before 10.
   - Check: A 1 litre water bottle pulls down with about 10 newtons. Which rung of the force ladder is that? → **Medium: 10 newtons or more, but less than 1,000**
 - **s3 (9 min)**  
@@ -363,7 +363,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **s1 (4 min)**  
   *Parent does:* 1. Put one notebook on the table. 2. Ask your child to push it gently with one finger until it slides. 3. Ask how big that push was, as a number. Do not suggest an answer.  
   *Parent says:* Push this notebook with one finger until it slides. Now tell me, how big was that push? Can you say it as a number?  
-  *Child mode:* Push the notebook with one finger until it slides. How big was your push? Can you give it a number?
+  *Child mode:* Push the notebook with one finger until it slides.
   - Ask: What could we count, to put a number on a pull? (good: Coins.; How many things it takes to pull it.; How far a rubber band stretches.; Something that is always the same.)
   - Note: Most children say 'small' or 'not much'. Some say a number in grams or kilograms. Ask what that number counts. The point is to feel that a push has no number on it until we choose something to count.
 - **s2 (5 min) · grown-up needed**  
@@ -374,7 +374,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **s3 (3 min)**  
   *Parent does:* 1. Ask your child for two guesses, each with a reason. 2. Write both in the table. 3. Do not say whether they are right.  
   *Parent says:* How many coins do you think one notebook will need? Why? And two notebooks stacked: the same, a few more, or twice as many? Why do you think so?  
-  *Child mode:* Guess how many coins one notebook needs. Then guess for two notebooks. Say why each time. Write your guesses.
+  *Child mode:* Guess how many coins one notebook needs. Then guess for two notebooks. Say why.
   - Ask: Why do you think two notebooks will need that many coins? (good: Two notebooks are heavier, so they press harder on the table.; It is twice the notebook, so twice the coins.; They are the same kind of notebook, so the same number.)
   - Note: Every guess with a reason is a good guess. 'The same' and 'twice as many' are both common. Keep the guesses. Your child will check them in a few minutes.
 - **s4 (8 min)**  
@@ -392,14 +392,14 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **s6 (5 min)**  
   *Parent does:* 1. Before you start, ask your child to guess, with a reason, whether you will get the same number. 2. Test one notebook 3 times with your different coins. 3. Your child counts. 4. Write your middle number next to theirs.  
   *Parent says:* I'm going to test one notebook with these different coins. Will I get the same number as you? Why do you think so? Now count for me.  
-  *Child mode:* Now a grown-up tests one notebook with different coins. Guess: will they get your number? Why? Then count their coins.
+  *Child mode:* A grown-up tests one notebook with different coins. Count their coins out loud.
   - Ask: We got different numbers for the same notebook. Who is right? (good: Both of us. We used different coins.; Both. My coins are heavier, so I needed fewer.; We can't compare until we know how many of your coins make one of mine.)
   - Note: Lighter coins mean more coins for the same pull. To compare the two units, rest a ruler on a round pencil. Put one big coin on one end. Add small coins to the other end until it balances. Coins from different years weigh different amounts, so the answer may not be a whole number.
   - Check: In the coin-pull test, you needed 6 big coins to slide the notebook. A grown-up needed 12 small coins for the same notebook. What does this show? → **It was the same pull, counted in different units**
 - **s7 (3 min)**  
   *Parent does:* Ask what would happen if every family used its own coins, buttons or stones. Let your child answer before you say anything.  
-  *Parent says:* A child in another city does this test with buttons. She says 'eleven'. Is her notebook's pull bigger than ours? What would we both need, to compare?  
-  *Child mode:* A child in another city uses buttons and says 'eleven'. Is her pull bigger than yours? What would you both need?
+  *Parent says:* A child in another city does this test with buttons. She says 'eleven'. Is her notebook's pull bigger than ours?  
+  *Child mode:* Decide: is the buttons child's pull bigger than yours, or can you not tell?
   - Ask: What would you and that child need, to compare your pulls? (good: The same unit.; We both use the same kind of thing.; A unit that everyone agrees on.)
   - Note: This is the reason the whole world agreed on one unit of force, the newton. Let your child say it first, in their own words. The explanation cards come after this.
 - **s8 (4 min)**  
@@ -417,8 +417,8 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **results table:** What we pulled | My guess (order, 1 to 6) | Try 1 (newtons) | Try 2 (newtons) | Biggest reading (newtons)
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the six pulls. They are the fridge door, a drawer, a chair, a school bag, a cupboard door and a slipper. 2. Ask them to put them in order, biggest pull first. 3. Write the order in the table.  
-  *Parent says:* We are going to be pull detectives. Which of these do you think needs the biggest pull? Put them in order, biggest first, and tell me why.  
-  *Child mode:* Look at the six things. Which needs the biggest pull to move? Put them in order. Say why. Write your guesses down.
+  *Parent says:* We are going to be pull detectives. Which of these do you think needs the biggest pull? Put them in order, biggest first.  
+  *Child mode:* Look at the six things. Which needs the biggest pull to move? Put them in order.
   - Ask: Why did you put that one first? (good: It is heavy.; It is stuck tight.; The fridge door has a magnet that holds it shut.)
 - **s2 (3 min)**  
   *Parent does:* 1. Hold the forcemeter upright with nothing on the hook. 2. Ask your child to read it. 3. If the pointer is not on zero, turn the screw at the top until it is.  
@@ -431,9 +431,9 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Child mode:* Hook on. Pull slowly and straight. Watch the pointer. Say the biggest number as it moves. Do it twice.
   - Note: Keep your eyes level with the pointer when you read it. A sudden jerk makes the pointer jump too high, so the test would not be fair. For the school bag, lift it straight up off the floor slowly. If a pull goes past the end of the scale, stop, and write 'more than' the biggest number.
 - **s4 (6 min)**  
-  *Parent does:* Help your child draw a bar chart of the biggest readings, with one bar for each pull.  
-  *Parent says:* Let's turn the numbers into a picture. Each pull gets a bar. The taller the bar, the bigger the pull.  
-  *Child mode:* Draw one bar for each pull. Make it as tall as its biggest number. Which bar is tallest?
+  *Parent does:* Write each pull's biggest reading on a slip of paper. Help your child lay the slips in a row, biggest first.  
+  *Parent says:* Let's put the numbers in order. Which pull goes first? Which goes last?  
+  *Child mode:* Lay the slips in a row, from the biggest number to the smallest.
 - **s5 (2 min)**  
   *Parent does:* Compare the forcemeter's order with the guessed order in the table.  
   *Parent says:* Were your guesses right? Which pull surprised you most?  
@@ -451,7 +451,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **predict:** Before you start, guess. You stand on the scale and press down on a table beside you. Will the number go up, go down or stay the same? Why do you think so?
 - **fair test:** Stand in the same place on the scale each time, with both feet. Change only one thing at a time: pressing down on the table, pulling up on it, or bending your knees. Read the number each time when it settles, except for the knee test.
 - **safety:** A grown-up stands beside the child the whole time. Use a strong table that cannot tip. Don't jump on the scale.
-- **record:** Fill in the table. For each kilogram, write about 10 newtons beside it. For each test, draw yourself on the scale with an arrow for your push on it.
+- **record:** Fill in the table. For each kilogram, write about 10 newtons beside it. For each test, write whether the number went up, went down or stayed the same.
 - **results table:** What I did | My guess (up, down or same) | Number on the scale (kg) | Push in newtons (kg times 10)
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Put the scale on a hard floor next to a strong table. 2. Your child stands still on it with both feet. 3. Read and write the number when it settles.  
@@ -461,7 +461,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Ask your child to guess what will happen. 2. They press down hard on the table top with both palms, still standing on the scale. 3. Read the number.  
   *Parent says:* Guess first. If you press down on the table, will the number go up, down, or stay the same? Why? Now try it.  
-  *Child mode:* Guess first, and say why. Then press down hard on the table. What does the number do?
+  *Child mode:* Guess first, and say why. Then press down hard on the table.
   - Note: Wait for the guess and the reason before your child presses. The number goes down, because the table now holds up part of your child.
   - Check: You stand on a bathroom scale and press down hard on a table beside you. What happens to the number? → **It goes down**
 - **s3 (4 min) · grown-up needed**  
@@ -472,7 +472,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **s4 (5 min)**  
   *Parent does:* Ask your child what the scale is really showing. Let them answer before you explain.  
   *Parent says:* Did you get any heavier or lighter just now? Did any of you go away, or any more of you arrive? So what is the scale really showing?  
-  *Child mode:* The number on the scale went up and down. Did any of you disappear? So what does the scale show? Say what you think.
+  *Child mode:* The number on the scale went up and down. Did any of you disappear?
   - Ask: What does the scale really show? (good: How hard I push on it.; My push, not how much of me there is.; The force of my feet on it.)
   - Note: Let your child answer first. Then you can say it: the scale shows how hard you push on it. The amount of you never changed. On the Moon the scale would show a smaller number, because you would push less on it. There would still be just as much of you.
   - Think: On the Moon, would the scale show a bigger number, a smaller number, or the same?
@@ -497,7 +497,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess what people will say, and write the guess down.  
   *Parent says:* Both boxes pull the forcemeter the same. Will people feel that? What do you think they will say, and why?  
-  *Child mode:* Both boxes pull the same. What will people say? Why? Write your guess.
+  *Child mode:* Both boxes pull the same. What will people say? Write your guess.
   - Ask: Why do you think people will say that? (good: Big things are usually heavier.; They pull the same, so they will feel the same.; Small things feel heavier in your hand.)
 - **s3 (10 min)**  
   *Parent does:* 1. Ask each person to look at both boxes, then lift them, one in each hand, by the string loops. 2. Don't tell them what you did. 3. Ask: 'Which feels heavier?' 4. Write each answer in the table.  
@@ -505,9 +505,9 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Child mode:* Ask a person to lift both boxes. Ask which feels heavier. Write their answer.
   - Note: Most people say the small box feels heavier, often much heavier. A few may say they feel the same, and that is a real result too. Some even refuse to believe the forcemeter. People must see the boxes: the trick works because they can see which box is bigger.
 - **s4 (3 min)**  
-  *Parent does:* Count the answers and draw a bar for each one.  
+  *Parent does:* Count the answers. Put one coin in a pile for each answer: small, big or same.  
   *Parent says:* Let's count. How many people said small? How many said big? How many said the same?  
-  *Child mode:* Count the answers. Draw one bar each for small, big and same.
+  *Child mode:* Count the answers. Put one coin in a pile for each answer: small, big or same.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. Can our hands be fooled? Which answers show it? And why do you think people felt the small box was heavier?  
@@ -518,11 +518,11 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 ### a1 · The Squash-o-meter: how big is that push? (15 min)
 - **problem:** A push or a pull is a force, and we need a way to tell how big it is. A balloon is one simple way, because it squashes more when the push is bigger. You will push five things with a balloon and put the pushes in order.
 - **safety:** Don't blow the balloon too full. Keep it away from sharp corners. Push the bucket gently, so water doesn't spill.
-- **record:** Draw the balloon for each push: a little bit squashed, half squashed or very squashed. Write small, medium or large force.
+- **record:** For each push, write how squashed the balloon was: a little, half or very. Then write small, medium or large force.
 - **s1 (3 min)**  
   *Parent does:* 1. Blow up a balloon to about the size of a big mango and tie it. 2. Show your child how to hold it in both hands and push something with the balloon, not with the hands.  
-  *Parent says:* Today you push things with the balloon, not with your hands. Watch the balloon each time. What do you notice?  
-  *Child mode:* Hold the balloon in both hands. Push things with the balloon. Watch it. What do you notice?
+  *Parent says:* Today you push things with the balloon, not with your hands. Watch what the balloon does each time.  
+  *Child mode:* Hold the balloon in both hands. Push things with the balloon.
 - **s2 (8 min)**  
   *Parent does:* Your child pushes five things through the balloon. They are a plastic cup, a book, a chair, a full bucket of water and the wall. They push each one until it moves, or as hard as they can for the wall.  
   *Parent says:* Push each thing until it just starts to move. What does the balloon do? Which push squashes it most? Why do you think so?  
@@ -531,20 +531,20 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **s3 (4 min)**  
   *Parent does:* Ask your child to put the five pushes in order, smallest to biggest. Then they say small, medium or large for each.  
   *Parent says:* Put the pushes in order. Which was the smallest? Which was the biggest? Could the balloon tell us an exact number? Why not?  
-  *Child mode:* Put the pushes in order, smallest first. Could a balloon tell you an exact number?
+  *Child mode:* Put the pushes in order, smallest first.
   - Note: A forcemeter can give a number. It has a spring that stretches more when the pull is bigger, and it shows the pull in newtons. You will use one in the next activities.
   - Think: A balloon shows big and small, but not an exact number. What tool could give us a number?
 ### a2 · Feel One Newton (15 min)
 - **problem:** The newton is the unit of force that people everywhere share, but it is hard to imagine. A small apple pulls on your hand with about 1 newton. You will hold things that pull with 1 newton and 10 newtons, so you can feel the size of each.
-- **record:** Draw your one newton kit. Write '1 N' beside each thing that pulls with about 1 newton.
+- **record:** Line up your one newton kit on the table. Write '1 N' on a slip of paper beside each thing, and take a photo.
 - **s1 (4 min)**  
   *Parent does:* 1. Put one 100 gram packet on your child's open palm. 2. Say that it pulls down with about 1 newton. 3. Then put a small apple on the other palm.  
   *Parent says:* Hold this packet on your open hand. It has 100 grams of tea in it. Scientists say it pulls down with about 1 newton. Now hold the apple. Does it pull more, less or the same?  
-  *Child mode:* Hold the packet on your open hand. Feel it pull down. That is about 1 newton.
+  *Child mode:* Hold the packet on your open hand. Then hold the apple on the other hand.
 - **s2 (5 min)**  
   *Parent does:* 1. Give your child a 1 litre bottle of water. 2. Say it pulls with about 10 newtons. 3. Then let them hold the 1 kilogram rice packet. 4. Ask how many 100 gram packets would make the same pull.  
-  *Parent says:* This bottle pulls with about 10 newtons. How many tea packets do you think would pull as hard as this bottle? Why?  
-  *Child mode:* Hold the water bottle. It pulls about 10 newtons. How many tea packets would match it?
+  *Parent says:* This bottle pulls with about 10 newtons. Feel the rice packet too. How many tea packets do you think would pull as hard as the bottle?  
+  *Child mode:* Hold the water bottle. Then hold the rice packet.
   - Ask: How many 100 gram packets make 10 newtons? (good: 10 packets, because each one is about 1 newton.; 10, because 10 times 100 grams is 1 kilogram.)
   - Note: A 1 litre bottle holds about 1 kilogram of water. On Earth, each kilogram pulls with about 10 newtons. More exactly, it is 9.8 newtons, but 10 is close enough for us.
 - **s3 (6 min)**  
@@ -562,27 +562,27 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   *Child mode:* Draw a scale on the long strip. Mark 0 to 10. Add a half mark between numbers. Make a slider. Tape a toothpick on it.
 - **s2 (7 min)**  
   *Parent does:* 1. Slide the pointer to a reading, without your child seeing. 2. They read it, with their eyes level with the pointer. 3. Do 8 readings: 2, 5, 7 and a half, 0, 3 and a half, 9, 1 and a half, 10.  
-  *Parent says:* Read the big number first. Then count the little marks after it. Each little mark is half a newton.  
+  *Parent says:* I have hidden a reading. Look at the pointer with your eyes level with it. What does it show?  
   *Child mode:* Read the big number first. Then count the small marks. Each one is half a newton. Say the unit too.
   - Check: The pointer is on the small mark halfway between 7 and 8. Each small mark is half a newton. What is the reading? → **7 and a half newtons**
 - **s3 (3 min)**  
   *Parent does:* Let your child look at the toothpick pointer from high above, then from below, then level. Ask which one looks right.  
   *Parent says:* Look from up high. Now from down low. Now straight on. Does the number seem to change? Which one do you trust? Why?  
-  *Child mode:* Look from high up. Then from low down. Then straight on. Which way is true?
+  *Child mode:* Look from high up. Then from low down. Then straight on.
   - Note: Because the toothpick stands in front of the scale, it seems to sit on a different mark when you look from above or below. Only the level view is true. A real forcemeter's pointer also stands a little in front of its scale.
   - Think: Why do you think scientists always say 'eye level'?
 ### a4 · Tug of War on Two Forcemeters (15 min)
 - **safety:** Pull gently and slowly. Never let go suddenly while the springs are stretched. Stay below the biggest number on the scale.
-- **record:** Write both readings for 4 different tugs. Draw an arrow on each side.
+- **record:** Write both readings for 4 different tugs. Next to each, write which side pulled harder, or both the same.
 - **s1 (3 min)**  
   *Parent does:* 1. Check both forcemeters read zero. 2. Hook them together, hook to hook. 3. Each person holds one by its top ring.  
   *Parent says:* Two forcemeters, hooked together. When we pull, will both show the same number, or will the stronger person's show more? Why do you think so?  
-  *Child mode:* Hook the two forcemeters together. Hold yours. Will both show the same number? Why?
+  *Child mode:* Hook the two forcemeters together. Hold yours by its top ring.
   - Note: Most children guess that the grown-up's forcemeter will show more. Wait for the guess and the reason before anyone pulls.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* 1. Pull gently. The grown-up tries to pull harder than the child. 2. Hold still and read both. 3. Try 4 different tugs. 4. Write both readings each time.  
   *Parent says:* I'll pull harder. Now read both forcemeters. What do you see?  
-  *Child mode:* Pull gently. Hold still. Read both numbers. Are they the same?
+  *Child mode:* Pull gently. Hold still. Read both numbers.
   - Ask: Why do both forcemeters always show the same number? (good: Each one pulls on the other.; When I pull it, it pulls me back just as hard.; The pull goes through both springs.)
 - **s3 (5 min)**  
   *Parent does:* Hook one forcemeter to a door handle by its ring. Your child pulls on the other one. Read both.  
@@ -592,11 +592,11 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   - Think: If you pull on the door with 5 newtons, how hard is the door pulling you?
 ### a5 · Your Tiffin on the Moon (15 min)
 - **problem:** Weight is the pull of a planet on a thing, and the Moon pulls less than the Earth. Your hand can feel this difference. You will feel how a tiffin of rice would pull on Earth, on the Moon and on Jupiter.
-- **record:** Write the pull on Earth, the Moon and Jupiter. Draw the three tiffins.
+- **record:** Write the pull on Earth, the Moon and Jupiter. Then say which tiffin was easiest to hold, and why.
 - **s1 (4 min)**  
   *Parent does:* 1. Put the empty tiffin on the kitchen scale and press its zero button, so the scale counts only the rice. 2. Weigh 600 grams of rice into the tiffin. 3. Your child holds it. 4. Say that on Earth the rice pulls with about 6 newtons.  
   *Parent says:* Hold your lunch. On Earth it pulls your hand down with about 6 newtons. The Moon pulls things down about one sixth as hard. How do you think your lunch would feel there? Why?  
-  *Child mode:* Hold the tiffin. Here on Earth, the rice pulls about 6 newtons. The Moon pulls only one sixth as hard. How would it feel there?
+  *Child mode:* Hold the tiffin. Feel how hard the rice pulls down.
   - Note: A steel tiffin is heavy by itself, so use a light plastic one or a polythene bag. No kitchen scale? Use sealed packets instead. For Earth, hold a 500 gram and a 100 gram packet together. For the Moon, hold one 100 gram packet. For Jupiter, hold a 1 kilogram and a 500 gram packet together.
 - **s2 (5 min)**  
   *Parent does:* 1. Ask: 'What is one sixth of 600 grams?' 2. Pour rice out until the scale shows 100 grams. 3. Your child holds it. 4. Say that this is how your full tiffin would feel on the Moon.  
@@ -610,11 +610,11 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
   - Think: Your lunch felt different in three places. Did your lunch change, or did the planet change?
 ### a6 · Who Checks the Scales? A market visit (30 min)
 - **problem:** A scale gives a number, but the number is only fair if someone has checked the scale against standard weights. In India, officers do this and put a seal on honest scales. You will visit a market and look for these seals.
-- **record:** Draw three different scales you saw. Write what each one weighs or shows, and whether you found a seal.
+- **record:** Write the names of three different scales you saw. Write what each one weighs or shows, and whether you found a seal. You can also take photos, with the shopkeeper's permission.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Walk through a vegetable market or visit a kirana shop. 2. Help your child find different kinds of scales: digital, hanging spring balances and two-pan balances.  
   *Parent says:* Let's count the scales. How many kinds can we find? Which ones use a spring? Which ones compare with iron weights?  
-  *Child mode:* Look for scales. Count how many kinds. Which ones have a spring? Which have two pans?
+  *Child mode:* Find as many different kinds of scale as you can.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Look closely at a scale with your child and find the seal or stamp of the Legal Metrology department. Ask the shopkeeper's permission first.  
   *Parent says:* This little seal means a government officer tested this scale with standard weights. Why do you think that matters?  
@@ -631,8 +631,8 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **record:** Write how many millilitres of water started the notebook sliding. Divide by 100 to get newtons. Write it next to your coin number.
 - **s1 (3 min)**  
   *Parent does:* 1. Empty the coins out of the cup and hang it again. 2. Ask your child to guess how much water will start the notebook sliding, and why.  
-  *Parent says:* A child in another city can't use our coins. But she has water. How much water do you think it will take to slide one notebook? Why?  
-  *Child mode:* Now you will use water, not coins. How much water will start the notebook sliding? Guess, and say why.
+  *Parent says:* A child in another city can't use our coins. But she has water. How much water do you think it will take to slide one notebook?  
+  *Child mode:* Now you will use water, not coins. Guess how much water will start the notebook sliding.
   - Ask: How did you make your guess? (good: I thought about how heavy the coins felt.; The cup was nearly full of coins, so maybe half a cup of water.; Water is lighter than coins, so more of it.)
 - **s2 (6 min)**  
   *Parent does:* 1. Pour water into the hanging cup 10 millilitres at a time, gently, without touching the cup. 2. Make a mark on paper for each 10 millilitres. 3. Stop when the notebook starts to slide. 4. Add up the millilitres. 5. Do it 2 more times and use the middle number.  
@@ -642,13 +642,13 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **s3 (4 min)**  
   *Parent does:* 1. Tell your child that 100 millilitres of water pulls down with about 1 newton, anywhere on Earth. 2. Ask them to turn their millilitres into newtons.  
   *Parent says:* Here is a fact people everywhere share: 100 millilitres of water pulls down with about 1 newton. So how many newtons did our notebook need?  
-  *Child mode:* 100 millilitres of water pulls with about 1 newton. How many newtons did your notebook need?
+  *Child mode:* Turn your millilitres into newtons.
   - Note: 100 millilitres of water is 100 grams, and the Earth pulls 100 grams down with just under 1 newton. The cup and string add a tiny pull too. It is small, so we leave it out.
   - Check: In the water-pull test, the notebook slid when the cup held 50 millilitres of water. 100 millilitres pulls with about 1 newton. How big was the pull? → **about half a newton**
 - **s4 (2 min)**  
   *Parent does:* Ask why water might be a better unit than coins. Let your child answer first.  
-  *Parent says:* Could a child in another city repeat this test exactly? Why might water be a better unit than our coins?  
-  *Child mode:* Could a child in another city repeat this test? Why is water better than your coins?
+  *Parent says:* Could a child in another city repeat this test exactly?  
+  *Child mode:* Compare coins with water. Which could the other child use?
   - Ask: Why is water a good thing to share? (good: Water is the same everywhere.; Anyone can get water and fill a 100 millilitre cup.; Coins are different in different countries.)
   - Note: Yes. A perfect unit must stay exactly the same every time. That is why, since 2019, the kilogram is fixed by a number from nature instead of by one metal object.
   - Think: Water changes a tiny bit when it is hot or cold. Would a perfect unit need something that never changes at all?
@@ -657,7 +657,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 ### p1 · Build Your Own Forcemeter (45 min, 2 days)
 - **problem:** A forcemeter is a spring with a scale beside it. You will build one from a rubber band and a strip of card. You will mark its scale with 100 gram packets, which each pull with about 1 newton, and then test it against a kitchen scale.
 - **safety:** A grown-up pushes in the drawing pin. Don't stretch the rubber band near anyone's face. If it is stretched thin and white, it may snap, so stop adding packets.
-- **record:** Draw your forcemeter and label the band, the hook, the bag and the scale. Write a table: Thing, My forcemeter (N), Check (N).
+- **record:** Take a photo of your forcemeter, or draw it, and label the band, the hook, the bag and the scale. Write a table: Thing, My forcemeter (N), Check (N).
 - **schedule:** day 1: Build the forcemeter. Mark the scale from 0 to 5 newtons with 100 gram packets. (25 min); day 2: Test five things with your forcemeter. Check them with a kitchen scale or a real forcemeter. Improve your forcemeter. (20 min)
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Tape the card strip upright to a table leg or a door frame. 2. A grown-up pushes the drawing pin through the top of the card into the wood. If the leg or frame is metal, hang the band from a door handle instead, with the card taped just behind it. 3. Hang the rubber band from the pin. 4. Open a paper clip into an S-shape and hang it from the band.  
@@ -692,7 +692,7 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 ## Challenges
 ### c1 · Catch the Pull of a Sheet of Paper (30 min)
 - **problem:** A sheet of paper pulls down with only about one twentieth of a newton. A normal forcemeter doesn't even move. Design a tool that shows a clear difference between one sheet of paper and two sheets.
-- **your turn:** Now invent your own tiny-force meter. Draw it, build it, and test it with 1, 2 and 3 sheets of paper. Can it tell them apart every time?
+- **your turn:** Now invent your own tiny-force meter. Build it and test it with 1, 2 and 3 sheets of paper. Can it tell them apart every time?
 - **constraints:** Use only things you can find at home.; Your tool must show the difference between 1 sheet and 2 sheets clearly.; You must be able to repeat it and get the same result.
 - **general:** Use a very thin rubber band. A thinner band stretches more for the same pull.; Use a long plastic ruler. Tape one end to the edge of a table so it sticks out. Hang the paper from the far end. Use a second ruler to see how far the end bends down.; Make a straw balance. Push a pin through the middle of a straw and rest the pin across two cups. Hang one sheet of paper from one end. Count how many paper clips on the other end balance it.
 - **creative:** Tape a long straw to the end of the bending ruler as a pointer. A small bend at the ruler becomes a bigger movement at the tip.; Henry Cavendish measured a force about as big as a sand grain's weight, with a twisting wire. Can you use a twisting thread?; Scientists feel the push of single atoms with a tiny bending needle. Your bending ruler is a giant model of it.
@@ -724,19 +724,19 @@ That season, every porter put a few rupees into a tin. At the end of the summer,
 - **s1 (5 min)**  
   *Parent does:* Read the problem with your child. Talk about the story of Pushpa, who checked a spring balance with packets of salt, if you have read it.  
   *Parent says:* Suppose there are no salt packets and no iron weights. What could we use that always weighs the same, and that everybody trusts?  
-  *Child mode:* No standard weights. What could you use instead? What weighs the same every time?
+  *Child mode:* No standard weights. Think of something that weighs the same every time.
 - **s2 (5 min)**  
   *Parent does:* Read the usual solutions and the creative ideas together.  
-  *Parent says:* Here is one idea people have used: one litre of water always has a mass of about 1 kilogram. Why do you think water could work as a check that everybody shares?  
+  *Parent says:* One idea is water. Why do you think water could work as a check that everybody shares?  
   *Child mode:* Read the ideas. Water can be your standard. One litre is about 1 kilogram.
 - **s3 (15 min)**  
   *Parent does:* 1. Put the empty bottle on the kitchen scale and write down its weight. 2. Help your child pour exactly 1 litre of water into it, using a jug. 3. Put the full bottle on the scale. 4. Take away the bottle's weight. 5. Repeat with 500 millilitres.  
   *Parent says:* If our scale is honest, 1 litre of water should show 1,000 grams once we take away the bottle. Let's see.  
-  *Child mode:* Pour out exactly 1 litre of water. Weigh it. Take away the bottle. Is it 1,000 grams?
+  *Child mode:* Pour out exactly 1 litre of water. Weigh it. Take away the bottle's weight.
   - Note: Measuring jugs aren't perfect, so a few grams out is fine. Talk about how close is close enough.
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to write or draw instructions for the check, simple enough for a younger child.  
-  *Parent says:* Now write the instructions, so anyone in the village could check a scale.  
+  *Parent does:* Ask your child to tell a younger child the steps of the check out loud, then write them down.  
+  *Parent says:* Now explain the steps, so anyone in the village could check a scale.  
   *Child mode:* Write the steps for your check. Make them easy for a little child.
   - Note: A good answer says someone who has nothing to gain, because a shopkeeper could cheat and a buyer could complain unfairly. In India, Legal Metrology officers do this with standard weights.
   - Think: Who should be allowed to check the scales: the shopkeeper, the buyers, or someone else?

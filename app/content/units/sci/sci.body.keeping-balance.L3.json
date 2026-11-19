@@ -2070,7 +2070,7 @@
      "mins": 7,
      "do": "Pick one machine, for example the fridge or the iron. Give your child three sticky notes: NOTICES, DECIDES, ACTS. They stick each note on the part of the machine that does that job.",
      "say": "Let's find the loop in the machine you picked. Which part notices that something is wrong? Which part decides? Which part acts? Your body does the same three jobs when you sweat.",
-     "kid": "Pick one machine. Stick the three notes on the part that notices, the part that decides and the part that acts.",
+     "kid": "Pick one machine. Stick each note where that job happens.",
      "check": {
       "t": "mcq",
       "q": "In your body's sweating loop, what is the 'decider', like the AC's control box?",

@@ -825,7 +825,7 @@
      "mins": 3,
      "do": "When someone wins, stop. Count the oxygen bubbles in the middle together.",
      "say": "Look how many oxygen bubbles our plants made. Who gets to breathe that air?",
-     "kid": "Count the oxygen bubbles in the middle. Your plants made all that oxygen! Who breathes it?",
+     "kid": "Count the oxygen bubbles in the middle. Your plants made all of them.",
      "think": "Your plant made oxygen for everybody. Where does the oxygen in your room come from right now?"
     },
     {
@@ -833,7 +833,7 @@
      "mins": 2,
      "do": "Ask one last question about the game.",
      "say": "Where did your plant's whole body come from in this game? Did any of it come from the soil?",
-     "kid": "Look at your finished plant. What was your plant built from? Was any of that soil?",
+     "kid": "Look at your finished plant. Point to each space you built.",
      "check": {
       "t": "mcq",
       "q": "In the game, your plant was built from sugar. Where did the sugar come from?",
@@ -955,7 +955,7 @@
      "mins": 4,
      "do": "Round 2, with the last 6 batons. The CLOUD blocks the Sun for 10 seconds, and the FUNGUS returns carbon balls to the air as before. With 2 players, the parent pauses the light for 10 seconds.",
      "say": "What happens to the whole chain when the cloud blocks the light? And what does the fungus do with the carbon?",
-     "kid": "Now the cloud blocks the Sun. What happens to everyone? Watch the fungus. Where do the carbon balls go?",
+     "kid": "The cloud blocks the Sun. Watch what everyone does. Watch the fungus too.",
      "check": {
       "t": "mcq",
       "q": "In the game, what did the fungus do with the carbon balls?",
@@ -973,7 +973,7 @@
      "mins": 3,
      "do": "Sit down together and fill in the energy chain sheet.",
      "say": "So which comes in fresh every day, and which goes round and round: the light, or the carbon?",
-     "kid": "Fill in the sheet. Which goes round and round? Which comes new each day from the Sun?",
+     "kid": "Fill in the sheet together. Then tell your grown-up your answers.",
      "think": "In the game, the carbon balls went from the air into a leaf, then to animals, then back to the air. So where could the carbon in your body have been before you? Name two places."
     }
    ],
@@ -1727,7 +1727,7 @@
      "what": "Cut leaf discs, sink them, and count how many float in each cup every 3 minutes, for up to 25 minutes."
     }
    ],
-   "record": "Fill in the table every 3 minutes. Then draw a bar for each cup, as tall as the number of discs floating at the end.",
+   "record": "Fill in the table every 3 minutes. Then show each cup as a coin tower, or draw a bar, as tall as the number of discs floating at the end.",
    "flow": [
     {
      "id": "s1",
@@ -1767,7 +1767,7 @@
      "mins": 25,
      "do": "1. Every 3 minutes, count the floating discs in each cup and write the numbers in the table. 2. Lift the box off cup B for only a second to look, then put it back. 3. Stop when all the discs in cup A float, or after 25 minutes.",
      "say": "Look closely at the discs in cup A. Can you see tiny bubbles on them? Where do you think the bubbles came from?",
-     "kid": "Count every 3 minutes. Write it in the table. Look closely at cup A. Can you see tiny bubbles? What could they be?",
+     "kid": "Count every 3 minutes. Write it in the table. Look closely at the circles in cup A for tiny bubbles.",
      "ask": [
       {
        "q": "Why do you think the discs float up?",
@@ -1815,9 +1815,9 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Compare the three cups at the end. Help your child draw one bar for each cup.",
+     "do": "Compare the three cups at the end. Help your child build one tower of coins for each cup, as tall as the number of discs that floated.",
      "say": "In which cup did the discs float? In which cups did they stay sunk? What was different about them?",
-     "kid": "Draw one bar for each cup. Which cup's circles floated? What did that cup have that the others didn't?",
+     "kid": "Build one coin tower for each cup, as tall as its floating circles. Which tower is tallest?",
      "check": {
       "t": "mcq",
       "q": "In a test like this, only the discs in cup A floated: light and baking soda water. What does that show?",
@@ -1964,14 +1964,14 @@
      "what": "In the afternoon, pick the leaf. A grown-up softens it and takes out its green colour. Test it with iodine and see the picture."
     }
    ],
-   "record": "Draw the leaf with its shape before the test. Then draw it after the iodine, colouring the blue-black parts. Fill in the table.",
+   "record": "Take a photo of the leaf before the test and again after the iodine, or draw both and colour the blue-black parts. Fill in the table.",
    "flow": [
     {
      "id": "s1",
      "mins": 6,
      "do": "1. Put a slice of raw potato and a spoon of cooked rice on a white plate. Add a pinch of sugar and a pinch of salt. 2. Mix 10 drops of iodine with about 50 drops of water in a small cup. 3. Put one drop on each food.",
-     "say": "Iodine is brown. But when it touches starch, it turns blue-black. Starch is the food store plants make from sugar. Which of these foods have starch?",
-     "kid": "Put a drop of brown iodine on each food. Watch the colour. Blue-black means starch is there. Which foods have starch?",
+     "say": "Iodine is brown. But when it touches starch, it turns blue-black. Starch is the food store plants make from sugar.",
+     "kid": "Put a drop of brown iodine on each food. Watch the colour. Blue-black means starch is there.",
      "adult": true,
      "ask": [
       {
@@ -1988,7 +1988,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. In the evening, cut two matching simple shapes from black paper, like a star or your child's first letter. 2. Clip one shape on top of one big leaf and the other exactly underneath it, so no light gets through. 3. Put the plant where they get the most direct sun. Water them as usual. 4. On day 2, check that the plant has had sun and water. Leave the shapes on.",
+     "do": "1. In the evening, cut two matching simple shapes from black paper, like a star or your child's first letter. 2. Clip one shape on top of one big leaf and the other exactly underneath it, so no light gets through. 3. Take a photo of the leaf with the shape on it. 4. Put the plant where they get the most direct sun. Water them as usual. 5. On day 2, check that the plant has had sun and water. Leave the shapes on.",
      "say": "Under the shapes, the leaf will be in the dark for two whole days. All around it, the leaf gets sunshine. Our question is, where will it make starch?",
      "kid": "Cut a black paper star or your first letter. Clip it on a big leaf. Put the plant in the sun for two days.",
      "wait": "Leave the plant in the sun for 2 days.",
@@ -2008,7 +2008,7 @@
      "mins": 6,
      "do": "1. Rinse the pale leaf in warm water and spread it flat on the white plate. 2. Cover it with the diluted iodine. 3. Wait 2 minutes, then rinse gently and look.",
      "say": "A picture has appeared. Where is it blue-black, and where is it pale?",
-     "kid": "Spread the pale leaf on the plate. Cover it with iodine. Wait 2 minutes. What picture appears?",
+     "kid": "Spread the pale leaf on the plate. Cover it with iodine. Wait 2 minutes. Look at the picture that appears.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -2027,9 +2027,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Lay the tested leaf next to your drawing from before. Compare them.",
+     "do": "Lay the tested leaf next to your photo from before. Compare them.",
      "say": "In the 1860s, a German scientist called Julius Sachs did tests like this. He showed that leaves make starch only in the light.",
-     "kid": "Put your leaf next to your first drawing. Does the pale shape match the paper star? A scientist did this test over 160 years ago!",
+     "kid": "Hold your leaf next to your first photo. Does the pale shape match the paper star? A scientist did this test over 160 years ago!",
      "think": "Could you write a secret message on a leaf, using only light? What would you cover the leaf with, and how would you make the message show?"
     },
     {
@@ -2130,7 +2130,7 @@
      "what": "Count bubbles from a water plant with the lamp at 10, 20 and 40 cm, and with the lamp off."
     }
    ],
-   "record": "Fill in the table. Draw a bar for each lamp distance, as tall as the average number of bubbles.",
+   "record": "Fill in the table. Show each lamp distance as a row of beans, or draw a bar, as tall as the average number of bubbles.",
    "flow": [
     {
      "id": "s1",
@@ -2168,9 +2168,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Find the average for each distance: add the two counts and halve. Help your child draw a bar chart.",
-     "say": "Let's draw one bar for each lamp position. Which bar is tallest?",
-     "kid": "Draw one bar for each lamp place. Make each bar as tall as its number. Which is tallest?",
+     "do": "Find the average for each distance: add the two counts and halve. Help your child lay out one row of dried beans for each lamp place, one bean for each bubble in the average.",
+     "say": "Let's lay out one row of beans for each lamp position. Which row is longest?",
+     "kid": "Lay out a row of beans for each lamp place. Use one bean per bubble. Which row is longest?",
      "check": {
       "t": "mcq",
       "q": "With the lamp 10 cm away, the plant made 30 bubbles a minute. At 40 cm, they made 6. With the lamp off, they made none. What does this show?",
@@ -2301,8 +2301,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Put a mango stone, or another big tree's seed, in your child's hand. 2. Look together at a big tree, from a window, on the street, or in a photo. 3. If a tree is close by, try to hug their trunk.",
-     "say": "A big tree started as a seed like this one. Look at the trunk and the branches. What do you notice? What do you wonder?",
-     "kid": "Hold the seed. Now look at a big tree. A seed like this grew into this tree! What do you notice? What do you wonder?",
+     "say": "A big tree started as a seed like this one. Look at the trunk and the branches.",
+     "kid": "Hold the seed. Now look at a big tree. A seed like this grew into this tree! What do you notice?",
      "adult": false,
      "ask": [
       {
@@ -2321,7 +2321,7 @@
      "mins": 5,
      "do": "Ask where all the tree's wood came from. Give four choices: soil, water, air or sunlight. Let your child choose and give a reason. Do not tell them the answer.",
      "say": "The seed was tiny. Now the tree weighs more than a lorry. Where did all that wood come from? The soil, the water, the air, or the sunlight?",
-     "kid": "The seed was tiny. The tree is huge. Where did all the wood come from? Soil, water, air or sunlight? Choose one.",
+     "kid": "Choose one: soil, water, air or sunlight. Tell your grown-up why.",
      "parent": "Most children, and most grown-ups, say the soil. That is a fine guess. Don't correct it now. The unit lets your child find out, which is much more powerful than being told. The surprising answer is the air: leaves take in carbon dioxide and build it into wood, using sunlight's energy and a little water."
     },
     {
@@ -2333,7 +2333,7 @@
      "think": "If the tree really were made of soil, what would happen to the soil around their roots as the tree grew?"
     }
    ],
-   "context": "This is the opening activity of the unit. You hold a big tree's seed, look at a tree, and guess where all the tree's wood came from.",
+   "context": "This is the opening activity of the unit. You hold a big tree's seed, look at a tree, and guess where all the tree's wood came from. You keep your guess and check it at the end.",
    "setup": [
     {
      "art": "A child at a window holding a mango stone in an open palm, looking out at a huge tree across the street.",
@@ -2373,7 +2373,7 @@
      "what": "Make limewater the night before. Blow into it and watch it turn milky."
     }
    ],
-   "record": "Draw the glass before and after blowing. Write one sentence: my breath has carbon dioxide in it.",
+   "record": "Take a photo of the glass before and after blowing, or draw it. Write one sentence: my breath has carbon dioxide in it.",
    "flow": [
     {
      "id": "s1",
@@ -2469,7 +2469,7 @@
      "what": "Make a rainbow with a CD. Then separate the colours in a leaf with chalk and spirit."
     }
    ],
-   "record": "Draw the chalk and colour in the bands you see. Label which band you think is chlorophyll.",
+   "record": "Take a photo of the chalk, or draw it and colour in the bands. Point to the band you think is chlorophyll.",
    "flow": [
     {
      "id": "s1",
@@ -2568,7 +2568,7 @@
      "what": "Build 6 carbon dioxides and 6 waters from balls. Take them apart and rebuild them into one sugar and 6 oxygens."
     }
    ],
-   "record": "Draw your sugar molecule. Write how many black, red and white balls it has.",
+   "record": "Write how many black, red and white balls your sugar has. Take a photo of your model.",
    "flow": [
     {
      "id": "s1",
@@ -2658,7 +2658,7 @@
      "what": "Weigh some dry twigs. A grown-up burns them outdoors. Weigh the ash."
     }
    ],
-   "record": "Write the weight of the twigs and the weight of the ash. Draw the heap of twigs and the heap of ash side by side.",
+   "record": "Write the weight of the twigs and the weight of the ash. Take a photo of the twigs and the ash side by side, or draw both heaps.",
    "flow": [
     {
      "id": "s1",
@@ -2673,7 +2673,7 @@
      "mins": 6,
      "do": "1. Outdoors, a grown-up puts the bowl on the ground and lights the twigs. 2. Let them burn down completely. 3. Let the bowl cool for a few minutes.",
      "say": "Watch the twigs. Where do you think the wood is going?",
-     "kid": "Stand back one big step. A grown-up lights the twigs. Watch. Where is the wood going?",
+     "kid": "Stand back one big step. A grown-up lights the twigs. Watch the smoke and the flames.",
      "adult": true,
      "parent": "If black, half-burned bits are left, that is charcoal, which is carbon not yet burned. Stir it so it burns to grey ash."
     },
@@ -2681,8 +2681,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. When the bowl is cold, weigh the ash. 2. Compare it with the weight of the twigs.",
-     "say": "How much was left? Twenty grams of twigs usually leave less than one gram of grey ash. Where did the rest go?",
-     "kid": "Weigh the cold ash. Compare it with the twigs. Where did all the rest go?",
+     "say": "How much was left? Twenty grams of twigs usually leave less than one gram of grey ash. A kitchen scale may show only 0 or 1.",
+     "kid": "Weigh the cold ash. Compare it with the weight of the twigs.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -2733,7 +2733,7 @@
      "what": "Dance the story of photosynthesis, from night to sunrise."
     }
    ],
-   "record": "Draw your favourite moment of the dance.",
+   "record": "Tell your grown-up your favourite moment of the dance, then act it out once more.",
    "flow": [
     {
      "id": "s1",
@@ -2869,9 +2869,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. Once a week, measure the tallest plant with a ruler and draw the pot. 2. Water only with clean tap water or rainwater. 3. Do not add any manure or fertiliser.",
+     "do": "1. Once a week, measure the tallest plant with a ruler and take a photo of the pot. 2. Water only with clean tap water or rainwater. 3. Do not add any manure or fertiliser.",
      "say": "We are giving the plants only water. Watch what they build.",
-     "kid": "Each week, measure the tallest plant. Draw the plants. Give them only clean water. Do not add manure or fertiliser.",
+     "kid": "Each week, measure the tallest plant. Take a photo of the pot. Give them only clean water. Do not add manure or fertiliser.",
      "wait": "Check once a week for about 4 weeks."
     },
     {
@@ -2888,7 +2888,7 @@
      "mins": 15,
      "do": "1. Weigh the dried plants. 2. Weigh the dried soil in the same pot. 3. Compare the numbers.",
      "say": "Our dry seeds weighed only a few grams. Now weigh the dry plants and the dry soil. What do you notice? So where did the plants come from?",
-     "kid": "Weigh the dry plants. Weigh the dry soil. Did the soil get lighter? Did the plants get heavier? Where did they come from?",
+     "kid": "Weigh the dry plants. Weigh the dry soil. Write both numbers in your table.",
      "check": {
       "t": "mcq",
       "q": "Suppose the dry plants weighed more than the dry seeds, and the soil weighed almost the same as at the start. Where did most of the plants come from?",
@@ -2987,14 +2987,14 @@
     "Turn food scraps and plant waste into compost, so the minerals go round and round.",
     "Grow plants in layers on shelves, like a tall cupboard, to save space."
    ],
-   "your_turn": "Now design your own Mars greenhouse. Draw it and label every part. Show where the light, water and carbon dioxide come from, and where the food and oxygen go.",
+   "your_turn": "Now design your own Mars greenhouse. Build it from a shoebox, or draw it, and label every part. Show where the light, water and carbon dioxide come from, and where the food and oxygen go.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Read the problem and the constraints together.",
      "say": "A plant needs light, water and carbon dioxide to make food. Which of those does Mars have? Which are hard to get?",
-     "kid": "Read the problem. A plant needs light, water and carbon dioxide. Which does Mars have? Which are hard?",
+     "kid": "Read the problem about the four astronauts. Then tell your grown-up what a plant needs to make food.",
      "context": "This is the first step of Lunch on Mars, a design challenge. You plan a greenhouse where plants make food and air for astronauts."
     },
     {
@@ -3002,7 +3002,7 @@
      "mins": 5,
      "do": "Make a list of three ideas before looking at any solutions.",
      "say": "Engineers think before they build. Let's write three ideas of our own first.",
-     "kid": "Think like an engineer! Write or draw three ideas. Do this before you look at anyone else's.",
+     "kid": "Think like an engineer! Say, write or draw three ideas. Do this before you look at anyone else's.",
      "check": {
       "t": "mcq",
       "q": "Mars air is mostly carbon dioxide. Why is that good news for the plants?",
@@ -3019,9 +3019,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Draw the greenhouse and label each part. 2. Draw arrows for light, water and carbon dioxide going in. 3. Draw arrows for food and oxygen going to the astronauts.",
+     "do": "1. Build the greenhouse from a shoebox and cling film, or draw it. Label each part. 2. Use arrows for light, water and carbon dioxide going in. 3. Use arrows for food and oxygen going to the astronauts.",
      "say": "Show me where each ingredient comes from. What happens in a dust storm, when there is hardly any sunlight?",
-     "kid": "Draw your greenhouse. Label every part. Draw arrows for light, water and carbon dioxide going in. Where does the food go?",
+     "kid": "Build or draw your greenhouse. Label every part. Add arrows for light, water and carbon dioxide going in. Add arrows for food and oxygen going out to the astronauts.",
      "parent": "Good designs show a loop. People breathe out carbon dioxide for the plants. Plants give oxygen and food to the people. A strong design also has lamps for dust storms and a way to recycle waste."
     },
     {
@@ -3080,7 +3080,7 @@
      "mins": 5,
      "do": "Find how long your sunlit discs took to float in The Rising Leaf Discs. Write it at the top of a page. That is the time to beat. You will also set up one cup exactly as you did then, to compare with the new cups.",
      "say": "In The Rising Leaf Discs, how long did all 10 sunlit discs take to float? That's the time to beat.",
-     "kid": "How long did your sunlit discs take to float in The Rising Leaf Discs? Write that down. That is the time to beat!",
+     "kid": "Find the time your sunlit discs took to float in The Rising Leaf Discs. Write it down. That is the time to beat!",
      "context": "This is the first step of The Fastest Float. You try to make spinach leaf discs float up faster, by giving the leaf better conditions for making oxygen."
     },
     {
@@ -3115,7 +3115,7 @@
      "mins": 5,
      "do": "Compare all the times. Read the usual and creative solutions together.",
      "say": "Which change helped most? Here are some other ideas. Is there one you'd like to try?",
-     "kid": "Which change worked best? Look at the other ideas. Which would you try next?",
+     "kid": "Compare all the times. Read the other ideas. Pick one to try next.",
      "think": "A field of rice is millions of leaves like these. How could a farmer help them make more food?"
     }
    ],

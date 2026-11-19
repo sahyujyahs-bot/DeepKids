@@ -289,9 +289,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Parent says:* This paper is a forest. These little squares are deer. This big square is a tiger. Let's see what happens to them over many years.  
   *Child mode:* Cut 40 small deer squares and 8 big tiger squares. One sheet of paper is the forest. Put 6 deer on the forest. One tiger waits beside the paper.
 - **s2 (14 min)**  
-  *Parent does:* 1. Each round, players take turns to drop each tiger once from head height onto the forest. 2. Remove the deer she touches. 3. Decide which tigers starve or have a cub. 4. Double the deer that are left, up to 40. 5. Write the numbers on the record sheet. 6. Play 12 rounds.  
+  *Parent does:* 1. Each round, players take turns to drop each tiger once from head height onto the forest. 2. Remove the deer she touches. 3. A tiger that touched 0 or 1 deer starves: take her away. One that touched 2 or 3 lives. One that touched 4 or more lives and has a cub: add one tiger, up to 8. 4. Double the deer that are left, up to 40. 5. Write the numbers on the record sheet. 6. Play 12 rounds.  
   *Parent says:* Drop the tiger. How many deer did she catch? Is that enough to survive? Now the deer have babies. Let's write down the numbers.  
-  *Child mode:* Drop each tiger from head height. Take away every deer she touches. Did she eat 2 or 3? She lives. Did she eat 4 or more? She has a cub! Then double the deer. Write it down.
+  *Child mode:* Drop each tiger from head height. Take away every deer she touches. Did she touch 0 or 1? She starves. Did she touch 2 or 3? She lives. Did she touch 4 or more? She has a cub! Then double the deer. Write it down.
   - Ask: Why do the tigers do badly when there are only a few deer? (good: There isn't enough food for them.; The tiger misses because the deer are spread out.)
   - Note: The numbers depend on luck, so every game is different. Usually the deer increase for a few rounds while the single tiger struggles. Then, with lots of deer, the tigers catch more and have cubs. With many tigers, the deer fall. Then the tigers starve, and the deer rise again. Each round takes about a minute. If your game does not show this in 12 rounds, play 5 more. If the deer reach 40 and stay there, the tigers will catch up soon. Drop the tigers, don't aim them, or the game stops being fair.
 - **s3 (5 min)**  
@@ -313,7 +313,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the sugar, salt and chapati. 2. Ask which one ants will choose, and why. 3. Write the guess down.  
   *Parent says:* Ants are consumers. They can't make their own food, so they go looking for it. Which of these do you think they will go to most? Which will they ignore?  
-  *Child mode:* Ants can't make their own food. They must find it. Will they go to the sugar, the salt or the chapati? Write your guess.
+  *Child mode:* Which will the ants go to: the sugar, the salt or the chapati? Point to your guess.
   - Ask: Why did you choose that one? (good: Ants like sweet things.; I have seen ants on sugar.; Chapati is food, but salt is not really food.)
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Find a place where you have seen ants. 2. Lay the 4 squares in a row alongside the ants' path, about one hand-width apart and about two hand-widths from the path. 3. Put sugar on one, salt on the next, chapati on the third, and nothing on the fourth. 4. Note the time.  
@@ -326,9 +326,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Child mode:* After 10 minutes, count the ants on each square. Write the numbers. Count again at 20 and 30 minutes.
   - Note: Usually the sugar square fills up with ants, and the chapati gets some. The salt and empty squares get almost none. Sometimes no ants come at all in 15 minutes. Then move the squares closer to a trail you can see, and start the clock again. If ants come to every square equally, they may just be crossing. Then count only the ants that stop at the food. Now and then a few ants visit the salt. Ants need a little salt, as we do, but salt gives them no energy. Some tiny ants also love oily or meaty crumbs. That is a real result: those ants are omnivores.
 - **s4 (3 min)**  
-  *Parent does:* Draw a bar chart together, with one bar for each square, using the 30-minute numbers.  
+  *Parent does:* Make a bar chart together, with one bar for each square, using the 30-minute numbers. Your child can draw it, or line up paper bits.  
   *Parent says:* Each square gets one bar. The taller the bar, the more ants came to that food.  
-  *Child mode:* Draw one bar for each square. Make it as tall as the number of ants at 30 minutes.
+  *Child mode:* Make one bar for each square. Make it as tall as the ants at 30 minutes. Draw it, or line up paper bits.
   - Check: In a test like this, ants come to sugar and chapati but not to salt. What do sugar and chapati have in common? → **Both were made by plants**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -340,7 +340,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 - **predict:** Look at three plants without touching them. Guess which one has the most leaves with bites or holes in them, and say why you think so. Then guess what is doing the biting.
 - **fair test:** To make it fair, look at the same number of leaves on each plant: 20. Take them in order along a stem, not just the ones that look interesting. Count a leaf as bitten if it has any hole, chewed edge or trail on it.
 - **safety:** If you go outdoors, go with a grown-up. Don't touch hairy caterpillars: their hairs can make your skin itch and burn. Look at insects without picking them up. Wash your hands afterwards.
-- **record:** Fill in the table. Draw a bar chart of bitten leaves for each plant. Then draw one food chain you found, starting with a plant.
+- **record:** Fill in the table. Draw a bar chart of bitten leaves for each plant, or tell your grown-up the numbers. Then write one food chain you found, starting with a plant.
 - **results table:** Plant | Leaves looked at | Leaves with bites or holes | Eaters found | Who might eat the eaters
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Choose three different plants with your child. Ask them to guess which has the most bitten leaves.  
@@ -358,16 +358,16 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   - Ask: What eats the caterpillar? (good: A bird, like a bulbul or a myna.; A spider.; A wasp, or ants.)
   - Note: Many leaf-eaters hide in the day and feed at night. If you find holes but no eaters, look again after dark with a torch, or early in the morning. Snails and slugs leave shiny trails. Little black droppings on a leaf mean a caterpillar is close.
 - **s4 (4 min)**  
-  *Parent does:* Help your child draw a bar chart of bitten leaves, and one food chain from what you saw.  
-  *Parent says:* Let's draw a bar for each plant. Then let's draw one real food chain from our plants.  
-  *Child mode:* Draw a bar for each plant. Then draw one real chain, like hibiscus → caterpillar → bulbul.
+  *Parent does:* Help your child make a bar chart of bitten leaves. Then write each living thing you found on a scrap of paper, and lay the scraps in one food chain.  
+  *Parent says:* Let's make a bar for each plant. Then let's lay out one real food chain from our plants.  
+  *Child mode:* Make a bar for each plant. Draw it, or just tell your grown-up which plant had the most bites. Then lay your scraps in a chain, with the plant first.
   - Check: You found a caterpillar on a hibiscus leaf, and saw a bulbul eat a caterpillar. Which food chain is right? → **Hibiscus → caterpillar → bulbul**
 ### e3 · The Tube-Light Food Chain (22 min)
 - **question:** Do house lizards wait where their food gathers?
 - **predict:** Guess. If one outside light is left on after dark, will more insects come to it as time goes on? Will a lizard come too? Why do you think so?
 - **fair test:** Watch the same light at three times: 15 minutes after sunset, 30 minutes later, and 30 minutes after that. Count for one full minute each time, from the same spot. If you have a second outside light, keep it switched off and count insects near it too, so you can compare.
 - **safety:** Watch from inside a closed window or from a doorway, so insects and mosquitoes don't come in. Don't touch the lizards. If you go outside after dark, a grown-up should go with you.
-- **record:** Fill in the table. Draw the food chain you saw. Write what time the first lizard came.
+- **record:** Fill in the table. Write the food chain you saw. Write what time the first lizard came.
 - **results table:** Time | Insects near the light that is on | Lizards near the light that is on | Insects near the light that is off
 - **s1 (4 min)**  
   *Parent does:* 1. Before sunset, choose an outside light you can see through a window or from a doorway. 2. Ask your child to guess what will happen when it is switched on after dark. 3. Write the guess down.  
@@ -380,9 +380,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   - Ask: Where did the lizard wait? (good: Right next to the light.; On the wall, near where the insects land.)
   - Note: In most Indian homes, moths, flies and small beetles gather at lights, especially in the warm and rainy months. House geckos come to hunt them. In winter there may be very few insects, so try again on a warm night. If you never see a gecko, look for spider webs near the light instead. Spiders build there for the same reason. In a flat with sealed windows, a stairway or porch light works well.
 - **s3 (3 min)**  
-  *Parent does:* Draw the food chain you saw, starting with a plant.  
+  *Parent does:* Write each living thing you saw on a scrap of paper. Lay the scraps in a food chain, starting with a plant.  
   *Parent says:* The moth grew up as a caterpillar, eating leaves. So what is the whole food chain?  
-  *Child mode:* Draw the chain. Start with a plant. The moth was a caterpillar once, eating leaves.
+  *Child mode:* Lay your scraps in a chain. Start with a plant. Draw it too, if you like.
   - Check: A gecko eats a moth by the light. When the moth was a caterpillar, they ate leaves. Which is the full food chain? → **Leaves → moth → gecko**
 
 ## Activities
@@ -406,7 +406,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   - Think: The plant at the start of your chain got their energy from the Sun. Where did the Sun get its energy from?
 ### a2 · One Hundred Grains: where does the food go? (15 min)
 - **safety:** Keep the grains away from babies and toddlers, who could choke on them.
-- **record:** Write how many grains each animal got. Draw the four bowls as a pyramid.
+- **record:** Write how many grains each animal got. Then line up the four bowls from the most grains to the fewest.
 - **s1 (4 min)**  
   *Parent does:* 1. Make 10 small heaps of 10 grains each. Your child can count them, or you can count while they watch. 2. Put all 10 heaps in the GRASS bowl.  
   *Parent says:* These 100 grains are all the food energy stored in the grass of one field. The grass made it from sunlight. Let's see how much reaches the snake.  
@@ -414,11 +414,11 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 - **s2 (4 min)**  
   *Parent does:* 1. Grasshoppers eat only some of the grass. The rest dies, and decomposers use it. 2. The grasshoppers use most of what they eat to hop, breathe and stay alive. Move 9 heaps into the USED FOR LIVING bowl. 3. Move the last heap of 10 grains into the GRASSHOPPER bowl. This is the food that became grasshopper body.  
   *Parent says:* Grasshoppers eat only some of the grass. The rest dies and feeds the decomposers. And the grasshoppers use most of what they eat just to live. Out of 100 grains, how many do you think become grasshopper?  
-  *Child mode:* Grasshoppers eat only some of the grass. They use most of it just to live. Put 9 heaps in USED FOR LIVING. Only 1 heap becomes grasshopper. That is 10 grains.
+  *Child mode:* Move 9 heaps into the USED FOR LIVING bowl. Move the last heap into the GRASSHOPPER bowl. How many grains is that?
 - **s3 (4 min)**  
   *Parent does:* 1. The frog eats the 10 grains in the GRASSHOPPER bowl. It uses 9 of them to hop, breathe and keep warm, and some comes out as poo. Move 9 grains into USED FOR LIVING. 2. Move 1 grain into the FROG bowl. 3. Now break that one grain into 10 crumbs. Move 9 crumbs to USED FOR LIVING, and 1 crumb to the SNAKE bowl.  
   *Parent says:* The frog eats the grasshoppers' 10 grains and uses most of them just to live. Only one grain in ten becomes frog. Then the snake eats the frog and uses most of that too. The snake gets one tiny crumb.  
-  *Child mode:* The frog uses 9 grains to live. Only 1 grain becomes frog. Break it into 10 crumbs. The snake gets one crumb!
+  *Child mode:* Move 9 grains into USED FOR LIVING and 1 grain into FROG. Break that grain into 10 crumbs. Move 9 crumbs into USED FOR LIVING and 1 crumb into SNAKE.
   - Check: The field started with 100 grains of food. How much reached the snake? → **One tiny crumb, a tenth of one grain**
 - **s4 (3 min)**  
   *Parent does:* Look at the USED FOR LIVING bowl. Talk about where that food really went.  
@@ -434,8 +434,8 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Child mode:* Feel your forehead. Count your breaths for 15 seconds. Now run on the spot, fast, for one whole minute!
 - **s2 (4 min)**  
   *Parent does:* 1. Stop. Feel your child's forehead again and count their breaths again. 2. Talk about where the energy came from, and where it went.  
-  *Parent says:* Feel how hot you are. Count your breaths. That heat and that movement came from your breakfast. And now the heat is leaving you, into the air.  
-  *Child mode:* Stop! Feel your forehead. Count your breaths again. That heat came from your food. Now it is going into the air.
+  *Parent says:* Feel how hot you are. Count your breaths again. Is it more than before? Where do you think this heat came from?  
+  *Child mode:* Stop! Feel your forehead. Count your breaths again. Are you hotter? Are you breathing faster?
   - Check: After running, you feel hot. Where did that heat come from? → **From the energy in the food you ate**
 - **s3 (3 min)**  
   *Parent does:* Talk about what this means for a frog in a food chain.  
@@ -444,7 +444,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   - Note: People, birds and other mammals use a large share of their food just to stay warm, all day and all night. Cold-blooded animals like frogs, snakes and lizards do not, so they need far less food. A snake can live for weeks on one meal. A shrew must eat almost all the time.
   - Think: You are warm right now, even sitting still. How much of your food do you think goes into just keeping warm?
 ### a4 · Pull One Thread: a wool food web (20 min)
-- **record:** Draw the web you made. Circle the living thing that had the most threads.
+- **record:** Count the threads each living thing held. Say which one had the most threads, and why you think so.
 - **s1 (4 min)**  
   *Parent does:* 1. Sit in a circle. 2. Give each person one or more role cards. 3. With only 2 or 3 people, tie the extra cards to chair legs, toys or bottles placed around the circle.  
   *Parent says:* Each of us is a living thing in a forest. When the wool goes from one card to another, it means 'is eaten by'.  
@@ -461,13 +461,13 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   - Check: In the wool web, the grass let go. Which living thing felt it, even though they never eat grass? → **The tiger, because the deer they eat needed the grass**
 - **s4 (3 min)**  
   *Parent does:* Wind the wool back into the same web. This time take away the vulture and the mushroom, and talk about what would happen to dead animals and plants.  
-  *Parent says:* Now let's take away the vulture and the mushroom. What happens to every animal that dies? Where do the grass's new nutrients come from?  
+  *Parent says:* Now let's take away the vulture and the mushroom. What happens to every animal that dies?  
   *Child mode:* Now take away the vulture and the mushroom. What happens to dead animals? Who cleans up now?
   - Note: The busiest one is often the grass, the Sun or the frog. Being the busiest is not the same as being the most important. Ask what would happen to everyone else if that one let go. For the last question: without the vulture and the mushroom, dead animals and plants would pile up, and the soil would stop getting nutrients back for the grass.
   - Think: Which living thing in our web held the most threads? Is that the most important one, or just the busiest?
 ### a5 · Poison Climbs the Chain (15 min)
 - **safety:** Keep beads away from babies and toddlers.
-- **record:** Write how many red dots each animal had. Draw the chain with the number of dots beside each animal.
+- **record:** Write how many red dots each animal had. Then write the chain, with the number of dots beside each animal.
 - **s1 (3 min)**  
   *Parent does:* 1. Spread the 40 paper plankton on the floor. 2. Put one red dot on each. 3. Line up the 8 small-fish cups, the 2 big-fish cups and the 1 osprey cup.  
   *Parent says:* A chemical called DDT was sprayed to kill insects. A little washed into a lake. Each tiny water creature took in a tiny bit. Each red dot is one tiny bit of poison.  
@@ -529,9 +529,9 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Child mode:* Find the clean-up crew. Ants on a dead insect? Mushrooms? Crows at a bin? Earthworms under a pot? Add them.
   - Wait: Do this on day 4.
 - **s5 (30 min)**  
-  *Parent does:* 1. Draw each living thing on the big sheet, with plants at the bottom. 2. Draw an arrow from each food to the eater. 3. Colour producers green, herbivores yellow, carnivores red, omnivores orange and the clean-up crew brown. 4. Find the living thing with the most arrows. 5. Show the web to the family.  
+  *Parent does:* 1. Write the name of each living thing on the big sheet, with plants at the bottom. Your child can add a small picture if they like. 2. Draw an arrow from each food to the eater. 3. Put a coloured dot by each name: green for producers, yellow for herbivores, red for carnivores, orange for omnivores and brown for the clean-up crew. 4. Find the living thing with the most arrows. 5. Show the web to the family.  
   *Parent says:* Plants go at the bottom. Every arrow goes from the food to the eater. Which living thing has the most arrows touching them?  
-  *Child mode:* Draw everything you saw. Plants at the bottom. Arrows point to the eater. Colour them. Who has the most arrows?
+  *Child mode:* Write the name of everything you saw. Plants go at the bottom. Draw an arrow from each food to the eater. Put a coloured dot by each name. Who has the most arrows?
   - Check: On your street's food web, the crow has the most arrows. What does that tell you? → **The crow eats many different things and is linked to many living things**
   - Think: Where did you put yourself on the web? What do you eat that came from your street?
   - Wait: Do this on day 5.
@@ -539,7 +539,7 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 ## Challenges
 ### c1 · Mosquito Trouble: fix it with the food web (30 min)
 - **problem:** Mosquitoes lay their eggs in still water. Their young, called larvae, live in the water for about a week before they fly. A society near you has lots of mosquitoes. Find ways to cut them down using what you know about food webs, not poison sprays.
-- **your turn:** Draw a plan for your home or street. Show where water collects, which water you will empty, and which mosquito-eaters you will invite. Then check again after one week.
+- **your turn:** Make a plan for your home or street. Draw it, or tell it to your grown-up as you walk around. Show where water collects, which water you will empty, and which mosquito-eaters you will invite. Then check again after one week.
 - **constraints:** No poison sprays: they also kill frogs, dragonflies and birds that eat mosquitoes.; Your ideas must be cheap and safe for children and pets.; Check your own home first, with a grown-up.
 - **general:** Empty any still water every week: cooler trays, flower-pot plates, old tyres, buckets and coconut shells. With no water, there are no larvae.; Cover water tanks and drums tightly.; In ponds and big tanks that cannot be emptied, health workers in many Indian towns add small fish, such as guppies, which eat mosquito larvae.
 - **creative:** Make a pond friendly for dragonflies. Their young live in water and eat mosquito larvae, and the grown dragonflies catch mosquitoes in the air.; Leave a safe, shady corner for frogs and toads. Tadpoles and frogs eat many insects.; Plant shrubs and trees that bring insect-eating birds, like bee-eaters, drongos and swallows.
@@ -548,14 +548,14 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
   *Parent says:* Let's be mosquito detectives. Where in our home does water sit still for days? Look closely for tiny wrigglers.  
   *Child mode:* With a grown-up, hunt for still water at home. Look for tiny wriggling larvae. Then tip the water into the sink.
 - **s2 (8 min)**  
-  *Parent does:* Draw the mosquito's food web together: who they eat, and who eats them.  
+  *Parent does:* Make two lists together: who eats the mosquito larvae, and who eats the grown mosquitoes.  
   *Parent says:* Mosquito larvae eat tiny algae and bacteria in the water. Who eats mosquito larvae? Who eats grown mosquitoes?  
-  *Child mode:* Draw the mosquito's web. What do the larvae eat? Who eats the larvae? Who eats the grown mosquitoes?
+  *Child mode:* Say who eats the larvae, and who eats the grown mosquitoes. Write each name in the right list.
   - Check: Why are poison sprays not the best way to stop mosquitoes? → **They also kill the frogs, fish and dragonflies that eat mosquitoes**
 - **s3 (7 min)**  
   *Parent does:* Read the usual solutions and the creative ideas together. Then your child draws their own plan.  
-  *Parent says:* Here are the usual ways, and some creative ones. Now draw your own plan for our home or street.  
-  *Child mode:* Read the usual ways and the creative ideas. Now draw your own plan. Where is the water? Which eaters will you invite?
+  *Parent says:* Here are the usual ways, and some creative ones. Now make your own plan for our home or street. You can draw it or tell it to me.  
+  *Child mode:* Read the usual ways and the creative ideas. Now make your own plan. Draw it, or tell your grown-up. Where is the water? Which eaters will you invite?
 - **s4 (5 min)**  
   *Parent does:* Put a reminder on the calendar to check for still water again in one week.  
   *Parent says:* Mosquitoes grow from egg to flying in about a week. So we check every week.  
@@ -569,12 +569,12 @@ Lan did not tell anyone. She filled a cracked saucer with water and set it on th
 - **s1 (8 min)**  
   *Parent does:* Work out together how many prey animals and how many squares of forest the 4 tigers need.  
   *Parent says:* Each tiger needs about 500 prey animals in their forest. How many for 4 tigers? And if each square holds 20 deer, how many squares do we need?  
-  *Child mode:* Each tiger needs 500 prey animals. How many for 4 tigers? Each square holds 20 deer. How many squares do you need?
+  *Child mode:* Work out how many prey animals 4 tigers need. Then work out how many squares of forest that needs.
   - Check: 4 tigers need 2,000 prey animals. Each square of forest holds 20. How many squares are needed? → **100 squares**
 - **s2 (12 min)**  
-  *Parent does:* 1. Lay out 100 paper squares as a forest on the floor. 2. Draw water holes, thick bushes, villages, farms and roads. 3. Add corridors to other forests.  
+  *Parent does:* 1. Lay out 100 paper squares as a forest on the floor. 2. Pick squares for water holes, thick bushes, villages, farms and roads. Write a word on each square, or colour it. 3. Line up some squares as corridors to other forests.  
   *Parent says:* Now let's build it. Where will the tigers drink? Where will the cubs hide? Where do people live?  
-  *Child mode:* Lay out your 100 squares. Draw water, bushes, villages and roads. Add a corridor to another forest.
+  *Child mode:* Lay out your 100 squares. Mark water, bushes, villages and roads with a word or a colour. Add a corridor to another forest.
   - Note: 100 squares, each 1 kilometre on every side, is about the size of a city like Chandigarh. Real tiger reserves in India are usually bigger: many are between 500 and 3,000 square kilometres, including the parts where people live.
 - **s3 (10 min)**  
   *Parent does:* Read the usual and creative solutions together. Then your child explains their forest.  

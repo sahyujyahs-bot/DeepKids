@@ -226,16 +226,16 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **s1 (2 min)**  
   *Parent does:* 1. Print and cut out the 24 cards. 2. Shuffle and deal them out equally.  
   *Parent says:* Every card shows a shape. Before we play, how many times does a periwinkle flower look the same in one full turn?  
-  *Child mode:* Shuffle the cards. Share them out. How many times does a periwinkle look the same in a turn?
+  *Child mode:* Shuffle the cards and share them out. Keep your pile face down.
 - **s2 (10 min)**  
   *Parent does:* Play until every card has been turned over, or for 10 minutes. Count the cards each player won.  
   *Parent says:* Turn your card. Is it the same order as the one below? Snap, and say the number!  
   *Child mode:* Turn over a card. Same order as the one below? Shout snap and the number!
-  - Note: The order is written on the back of each card. A butterfly, a face, a tulsi flower and a leaf have order 1: they have a line of symmetry but no rotational symmetry. Draw a small picture on each card if you like.
+  - Note: The order is written on the back of each card. A butterfly, a face, a tulsi flower and a leaf have order 1: they have a line of symmetry but no rotational symmetry.
 - **s3 (3 min)**  
   *Parent does:* Look at the order 1 cards together.  
   *Parent says:* The butterfly, the face, the tulsi flower and the leaf have order 1, so they do not match when turned. Can you find a fold line on each one?  
-  *Child mode:* Look at the order 1 cards. Do they have a fold line?
+  *Child mode:* Pick up the butterfly card. Imagine folding it down the middle. Do the two halves match?
   - Check: A butterfly, a tulsi flower and your face all have order 1. What do they have in common? → **They each have one line of symmetry, a left side and a right side**
 ### g2 · Finish My Half: a dot-grid partner game (15 min)
 - **rules:** Play in pairs. With 4 players, make two pairs who play at the same time. No printer? Draw an 8 by 8 square of dots on squared paper and mark the dotted line or the cross yourself.; Mirror sheet: Player 1 draws 5 straight lines joining dots on one side of the dotted line only. Player 2 draws the mirror image on the other side, so the dotted line becomes a line of symmetry.; Check by folding the sheet along the dotted line and holding it up to a window: each new line should land exactly on a drawn line. Player 2 scores 1 point for each correct line.; Four-quarter sheet: Player 1 draws 3 lines in one quarter. Player 2 turns the sheet a quarter turn and copies them into the next quarter, and so on until all four quarters match. Player 2 scores 1 point for each correct quarter, up to 3.; Swap roles after each sheet. After 4 sheets (2 mirror, 2 four-quarter), the higher total wins; a tie is a shared win.; Playing alone: draw your half, cover it, then try to draw the other half from memory. Uncover it and check by folding. Score the same way.
@@ -244,6 +244,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Parent does:* Play two mirror sheets, one with each of you as the drawer.  
   *Parent says:* I'll draw 5 lines on my side. You draw the matching lines on your side, so the dotted line becomes a line of symmetry. Then we swap.  
   *Child mode:* Your partner draws 5 lines on one side. Draw the matching lines on your side.
+  - Note: If your child does not like drawing, they can copy the lines with ice-cream sticks or matchsticks laid between the dots.
 - **s2 (6 min)**  
   *Parent does:* Play two four-quarter sheets, one with each of you as the drawer.  
   *Parent says:* Now I'll draw 3 lines in one quarter. You turn the sheet a quarter turn and copy them, until all four quarters match. Then we swap.  
@@ -261,17 +262,17 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **predict:** Guess first. Each bubble starts round. When they are squashed together under a lid, what shape will a bubble in the middle become: round, square, triangle, six-sided, or all different? Will the edge bubbles be the same as the middle ones? Why do you think so?
 - **fair test:** Blow every bubble the same way, so they are all about the same size. Count the walls of 5 bubbles in the middle and 5 bubbles at the edge, because one bubble on its own could be odd. Count the same way each time: go round the bubble and point at each wall once with the toothpick.
 - **safety:** Blow out through the straw, never suck in. Soapy water stings the eyes.
-- **record:** Fill in the table. Draw 3 middle bubbles and 3 edge bubbles exactly as you see them. Mark one place where walls meet, and write how many walls meet there.
+- **record:** Fill in the table. Take a photo of the middle and the edge of the raft, or draw one middle bubble and one edge bubble. Point to one place where walls meet, and write how many walls meet there.
 - **results table:** Bubble | Where (middle or edge) | How many walls? | Is it even all round? (yes or no)
 - **s1 (4 min)**  
   *Parent does:* 1. Pour 1 cup of water into a bowl. 2. Add 1 tablespoon of dishwashing liquid and 1 teaspoon of sugar. 3. Stir slowly, without making foam. 4. Pour it into the plate. The layer should be a few millimetres deep, enough to cover the tip of the straw.  
-  *Parent says:* We are going to make a raft of bubbles. Stir gently, because we don't want foam yet. We want to make the bubbles ourselves, one at a time.  
+  *Parent says:* We are going to make a raft of bubbles. Stir gently, because we don't want foam yet. First we make the soapy water.  
   *Child mode:* Mix water, dishwash liquid and sugar in a bowl. Stir slowly. Pour it into the plate.
   - Note: A layer 5 mm to 1 cm deep works best, just deep enough for the straw's tip to sit under the surface. If the tip does not go under, add more soapy water. Sugar helps the bubbles last longer, but the test works without it.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess and give a reason. Write the guess at the top of the record sheet.  
   *Parent says:* Each bubble starts round. When we squash lots of them together under a lid, what shape will a bubble in the middle become? What about one at the edge? Why do you think so?  
-  *Child mode:* Each bubble starts round. What shape will it be when squashed? Will edge bubbles look the same? Write your guess and why.
+  *Child mode:* Each bubble starts round. Guess the shape of the middle bubbles and the edge bubbles. Say why. Write it down.
   - Ask: What shape do you think the middle bubbles will be, and why? (good: Any guess with a reason. For example: squares, because they fit together like tiles. Or round, because bubbles are always round.)
   - Note: Don't give the answer. Any guess with a reason is a good start. The test will answer it.
 - **s3 (8 min)**  
@@ -282,7 +283,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **s4 (4 min)**  
   *Parent does:* 1. Hold the clear lid flat above the bubble patch. 2. Lower it gently until it rests on the bubbles. 3. Shine the torch from the side, low across the plate, or put the plate by a bright window. 4. Look down through the lid.  
   *Parent says:* Now we squash them gently. The lid presses every bubble down to the same height. Let's look from above. What shape are they now?  
-  *Child mode:* Lay the clear lid gently on the bubbles. Shine the torch from the side. Look down through the lid. What shapes do you see?
+  *Child mode:* Lay the clear lid gently on the bubbles. Shine the torch from the side. Look down through the lid.
   - Ask: What do you notice about the shapes? (good: The bubbles have straight walls now.; They fit together with no gaps.; The middle ones look six-sided.)
   - Note: The walls show up best with light coming low from one side. These bubbles are low domes, not flat cells, so expect most middle bubbles to look six-sided, with some five- or seven-sided, and a few round ones if the sizes are mixed. No clear lid? Look at the raft without one. Count how many bubbles touch each middle bubble. Most touch six.
 - **s5 (6 min)**  
@@ -293,13 +294,13 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **s6 (3 min)**  
   *Parent does:* Ask your child to find three places where walls meet, and count the walls at each one.  
   *Parent says:* Look where the walls join. How many walls meet at each joining point? Check three different places.  
-  *Child mode:* Find a place where walls join. How many walls meet there? Check two more places.
+  *Child mode:* Find a place where walls join. Count the walls that meet there. Do the same at two more places.
   - Note: Three walls meeting at equal angles is the key fact. It is why the middle cells become six-sided.
   - Check: In the bubble raft, how many soap walls meet at each joining point? → **3**
 - **s7 (2 min)**  
   *Parent does:* Ask your child to say what they think, what they saw, and why. Write it under the table.  
   *Parent says:* What do you think now? What did you see that tells you? Why do you think the middle bubbles and the edge bubbles are different?  
-  *Child mode:* Say three things: what you think now, what you saw, and why you think the middle bubbles and the edge bubbles are different.
+  *Child mode:* Tell your grown-up what you saw in the middle and at the edge.
   - Ask: Why were the middle bubbles six-sided, but the edge bubbles lopsided? (good: The middle bubbles were pressed equally from every side by their neighbours.; The edge bubbles had bubbles on one side and nothing on the other side.; The push was the same all round in the middle, but not at the edge.)
   - Note: A strong answer uses the edge bubbles as evidence: same soap, same lid, same size, but a different push around them, and a different shape.
   - Check: Nobody drew the hexagons in the bubble raft. What made them? → **Each middle bubble was pressed equally on every side by bubbles of the same size**
@@ -308,7 +309,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **predict:** Guess first. Will two bhindis cut across show the same number of seed rows? Will two lemons show the same number of segments? Why do you think so?
 - **fair test:** Cut every fruit across its widest middle, never along its length, so you compare the same view. Cut 2 of each kind, because one fruit could be unusual. Count each one twice.
 - **safety:** A grown-up does all the cutting. Lemon juice stings cuts and eyes.
-- **record:** Draw each cut face from above, with the centre marked. Fill in the table.
+- **record:** Fill in the table. Take a photo of each cut face, or draw two of them with the centre marked.
 - **results table:** Fruit | Fruit 1: how many parts around the centre? | Fruit 2: how many? | Same number? (yes or no) | Order of rotational symmetry (about)
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out the fruits. 2. Ask your child to guess, for each kind, how many parts will repeat around the centre. 3. Write the guesses down.  
@@ -333,7 +334,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say what they think, what they saw, and why.  
   *Parent says:* What do you think now about fruits and symmetry? What did you see? Why might a lemon vary but a bhindi not?  
-  *Child mode:* Say what you think now about fruits and symmetry, what you saw, and why a lemon might vary but a bhindi not.
+  *Child mode:* Tell your grown-up what you saw, and what you think now.
   - Ask: Why might every bhindi have 5 seed rows? (good: Because bhindi flowers grow 5 parts in their centre.; Because each row grew from one part of the flower.)
 
 ## Activities
@@ -354,11 +355,11 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Child mode:* Stick the bindi on one edge. Turn it slowly. Count each time it looks the same.
   - Check: You turn a leaf all the way round. It only looks the same when the bindi comes back to the start. What does that mean? → **The leaf has no rotational symmetry**
 - **s4 (1 min)**  
-  *Parent does:* Ask whether anything passed both tests, and which one it was.  
+  *Parent does:* Help your child sort the things into the two columns.  
   *Parent says:* Look at your two columns. Did anything pass both the fold test and the turn test? Which one was it?  
-  *Child mode:* Look at your two columns. Did anything pass both tests? Which one?
+  *Child mode:* Put each thing in its column. Does anything belong in both?
 ### a2 · Draw a Pulli Kolam with four matching quarters (20 min)
-- **record:** Draw or photograph your kolam. Draw its lines of symmetry in pencil and write its order of rotational symmetry.
+- **record:** Take a photo of your kolam, or draw it. Show its fold lines with a thread or in pencil, and write its order of rotational symmetry.
 - **s1 (3 min)**  
   *Parent does:* Put down 9 dots in 3 rows of 3, evenly spaced, about two fingers apart.  
   *Parent says:* A pulli kolam starts with dots. Women in Tamil Nadu draw these at the doorstep every morning, often without lifting their hand.  
@@ -371,7 +372,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **s3 (5 min)**  
   *Parent does:* 1. Ask how many times the kolam looks the same in one full turn. 2. Look for lines of symmetry. Lay a thread across.  
   *Parent says:* Turn it slowly in your mind, or turn the paper. How many times does it look the same? Now find a fold line.  
-  *Child mode:* How many times does your kolam look the same in one turn? Find its fold lines too.
+  *Child mode:* Turn the paper slowly. Count each time the kolam looks the same. Then lay a thread across to find a fold line.
   - Check: A kolam is drawn by repeating one quarter, turning a quarter turn each time. What is its order of rotational symmetry? → **4**
 - **s4 (4 min)**  
   *Parent does:* Ask your child to change one quarter on purpose, then look again.  
@@ -387,7 +388,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Child mode:* Fold the square into a triangle. Fold it in half. Now fold it into three, like a fan. Cut the top straight.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* Cut small notches and curves from both long edges. Don't cut all the way across.  
-  *Parent says:* Cut little shapes from both edges. Every cut you make will appear six times. Why do you think that is?  
+  *Parent says:* Cut little shapes from both edges. Every cut you make will appear six times.  
   *Child mode:* Cut small shapes from both edges. Don't cut right across.
 - **s3 (4 min)**  
   *Parent does:* Open it gently. Count the arms and look for matching cuts.  
@@ -406,16 +407,16 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Child mode:* Find the fold line. Now look at a real butterfly. Do her wings match exactly?
 - **s3 (4 min)**  
   *Parent does:* Talk about why a butterfly needs matching wings.  
-  *Parent says:* A butterfly flies by flapping both wings together. What would happen if one wing were much bigger?  
+  *Parent says:* A butterfly flies by flapping both wings together. Let us think about why that needs matching wings.  
   *Child mode:* A butterfly flaps both wings together. What if one wing were bigger?
   - Ask: Why does a butterfly need two matching wings? (good: So she can fly straight.; If one wing pushed more air, she would fly in circles.)
   - Note: A butterfly has to fly straight to flowers and away from birds. Two matching wings push the same amount of air on each side. Real wings nearly match, but never exactly.
 ### a5 · My Two Halves: how even is my body? (15 min)
 - **record:** Make a table with 'left' and 'right' for hand span and foot length.
 - **s1 (8 min)**  
-  *Parent does:* 1. Spread each hand on the ruler and measure from thumb tip to little finger tip. 2. Stand on paper, draw round each foot, and measure each outline from heel to big toe. 3. Write the numbers in the table.  
+  *Parent does:* 1. Spread each hand on the ruler and measure from thumb tip to little finger tip. 2. Stand with your heel against a wall. Measure from the wall to the tip of your longest toe, for each foot. 3. Write the numbers in the table.  
   *Parent says:* Your body has a left half and a right half. Do they match exactly? Let's measure.  
-  *Child mode:* Measure your left hand span. Then your right. Draw round both feet. Measure them too.
+  *Child mode:* Measure your left hand span. Then your right. Then measure each foot, from heel to longest toe.
   - Note: Differences of a millimetre or two may just be measuring error. A difference of a few millimetres or more is a real difference between your two sides.
 - **s2 (4 min)**  
   *Parent does:* Put a hand flat on the middle of the chest, then a little to the left, and feel for the heartbeat.  
@@ -428,7 +429,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Child mode:* Were your two sides the same? Close, or exact?
   - Ask: Is your body perfectly symmetrical? (good: Nearly, but not exactly.; My hands were a few millimetres different.; My heart is on the left.)
 ### a6 · The Window Plant: which way does symmetry break? (10 min)
-- **record:** Draw the plant from above. Draw an arrow towards the window.
+- **record:** Take a photo of the plant from above, or draw her. Write the two leaf counts, and which side has more.
 - **s1 (5 min)**  
   *Parent does:* 1. Look down on the plant from above. 2. Count the leaves on the window side and the room side. 3. Look from the side to see if the stems lean.  
   *Parent says:* Is this plant the same on every side? Count the leaves on the window side and on the room side.  
@@ -436,23 +437,23 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **s2 (5 min)**  
   *Parent does:* Talk about why the sides differ.  
   *Parent says:* A plant needs light to make food. What was different on the window side?  
-  *Child mode:* Plants make food with light. Which side got more light?
+  *Child mode:* Point to the side of the plant that got more light.
   - Ask: Why is the plant not even on all sides? (good: The window side gets more light.; She grows towards the light to make more food.; Her two sides met different conditions.)
   - Note: Light came from one side only, so the plant grew more on that side and bent towards it. Turning the pot a quarter turn every few days helps her grow more evenly.
 
 ## Projects
 ### p1 · A Week of Kolams (50 min, 5 days)
-- **record:** One page per day: the kolam, its lines of symmetry drawn in pencil, and its order of rotational symmetry.
+- **record:** One page per day: a photo or drawing of the kolam, its fold lines shown with a thread or in pencil, and its order of rotational symmetry.
 - **schedule:** day 1: Draw a kolam with one line of symmetry only. (10 min); day 2: Draw a kolam with order 2 rotational symmetry but no line of symmetry. (10 min); day 3: Draw a kolam with order 4 and four lines of symmetry. (10 min); day 4: Draw a kolam or rangoli with order 6 or 8, like a flower. (10 min); day 5: Lay all five drawings or photos side by side and label each one's symmetry. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* Day 1: draw a pattern with one line of symmetry only, like a butterfly or a temple doorway.  
+  *Parent does:* Day 1: make a pattern with one line of symmetry only, like a butterfly or a temple doorway. Draw it, or arrange pebbles or bangles.  
   *Parent says:* Today's kolam has just one fold line. What in nature has one fold line?  
-  *Child mode:* Draw a kolam with one fold line only. Like a butterfly.
+  *Child mode:* Make a kolam with one fold line only, like a butterfly. Draw it, or arrange pebbles or bangles.
   - Note: If you draw with rice flour indoors, sweep it up afterwards. No rice flour? Use a pencil and notebook.
 - **s2 (10 min)**  
   *Parent does:* Day 2: draw a pattern that looks the same after half a turn but has no fold line, like the letter S.  
   *Parent says:* Today's kolam must match after half a turn, but must not fold to match. That's tricky. Try swirls.  
-  *Child mode:* Draw a kolam that matches after half a turn. It must not fold to match.
+  *Child mode:* Make a kolam that matches after half a turn. It must not fold to match. Draw it, or arrange pebbles or bangles.
   - Wait: Next day
 - **s3 (10 min)**  
   *Parent does:* Day 3: draw a kolam with four matching quarters and four fold lines.  
@@ -460,9 +461,9 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
   *Child mode:* Draw four matching quarters. Make it fold four ways too.
   - Wait: Next day
 - **s4 (10 min)**  
-  *Parent does:* Day 4: draw a flower kolam or rangoli with 6 or 8 petals.  
+  *Parent does:* Day 4: make a flower kolam or rangoli with 6 or 8 petals. Draw it, or lay petals or leaves in a ring.  
   *Parent says:* Today, draw a flower. Will you give it 6 petals, like the 6 arms of a snowflake, or 8?  
-  *Child mode:* Draw a flower kolam with 6 or 8 petals.
+  *Child mode:* Make a flower with 6 or 8 petals. Draw it, or lay petals or leaves in a ring.
   - Wait: Next day
 - **s5 (10 min)**  
   *Parent does:* Day 5: lay out all five, and label each with its lines of symmetry and order.  
@@ -511,7 +512,7 @@ Arjun nodded. On the train home he drew a kolam in his notebook, one corner at a
 - **s3 (5 min)**  
   *Parent does:* Talk about which is best for a bee.  
   *Parent says:* Squares, triangles and hexagons all fit. Mathematicians have proved that hexagons use the least wall for the space inside. Why does that matter to a bee?  
-  *Child mode:* Hexagons need the least wall. Why is that good for a bee?
+  *Child mode:* Think about a bee making wax walls. Why would she want as little wall as she can?
   - Check: Why is a hexagon the best shape for honeycomb? → **It leaves no gaps and needs the least wax wall for the honey it holds**
 
 ## Worksheets

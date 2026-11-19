@@ -372,7 +372,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about energy chains. You link cards from the Sun, through each step, to something that happens at home.",
+   "context": "This is a card game about energy chains. You link cards from the Sun, through each step, to something that happens at home. You will see how many steps lie between the Sun and your day.",
    "printables": [
     {
      "kind": "cards",
@@ -538,7 +538,7 @@
      "mins": 3,
      "do": "1. Cut out the cards. 2. Give each player one SUN card, shuffle the rest and deal 4 more to each. 3. Read the rules out loud.",
      "say": "Each card is one step in a chain of energy. You build chains from a source to something that happens.",
-     "kid": "Each card is a step. Link the steps from the Sun to something that happens. Say each link out loud.",
+     "kid": "Look at your cards. Which one could start a chain?",
      "context": "This is the first step of the Where Did It Come From card game."
     },
     {
@@ -546,7 +546,7 @@
      "mins": 10,
      "do": "Play until the pile is empty and everyone has had one more turn. Check each chain as it is laid: does each step really give energy to the next?",
      "say": "Read me your chain. Does each card really get its energy from the card before it?",
-     "kid": "Lay a chain when you can. Read it out loud. Does each step get energy from the one before?",
+     "kid": "Lay a chain when you can. Then read it out loud, link by link.",
      "parent": "Good chains: SUN, wind blowing, wind turbine, electricity in the wires, ceiling fan turning. SUN, tiny sea creatures long ago, cooking gas, pressure cooker whistling. SUN, sesame plant, sesame oil, diya flame. URANIUM, nuclear power station, electricity in the wires, mixie grinding."
     },
     {
@@ -554,7 +554,7 @@
      "mins": 2,
      "do": "Add up the scores. Ask which chain was the longest.",
      "say": "Which was the longest chain in the game? Could we make it even longer?",
-     "kid": "Add up your points. Which chain was the longest?",
+     "kid": "Add up your points. Who has the most?",
      "check": {
       "t": "mcq",
       "q": "Which chain is in the right order?",
@@ -588,7 +588,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a passing game. A ball of yellow paper is the Sun's energy. Each player passes it on, but at every step a little bit spreads out as heat, so the ball gets smaller.",
+   "context": "This is a passing game. A ball of yellow paper is the Sun's energy. Each player passes it on, but at every step a little bit spreads out as heat, so the ball gets smaller. You will find out where the missing energy goes.",
    "printables": [
     {
      "kind": "cards",
@@ -631,7 +631,7 @@
      "mins": 3,
      "do": "1. Crumple 6 sheets of yellow paper together into one ball. 2. Lay out the role cards in a row, put the HEAT card on a bowl and share out the roles.",
      "say": "This ball is energy from the Sun. We'll pass it along the chain. Watch what happens to it.",
-     "kid": "This yellow ball is the Sun's energy. Take your role cards. Get ready to pass it.",
+     "kid": "Take your role card. Get ready to pass the ball.",
      "context": "This is the first step of Pass the Sunshine, a game about how energy passes on and spreads out."
     },
     {
@@ -647,7 +647,7 @@
      "mins": 4,
      "do": "1. Count the sheets left in the ball. 2. Count the sheets in the HEAT bowl. 3. Add them.",
      "say": "The ball got smaller and smaller. But count everything. Is any paper missing?",
-     "kid": "Count the sheets in the ball. Count the sheets in the bowl. Add them. Is any missing?",
+     "kid": "Count the sheets in the ball. Count the sheets in the bowl. Add the two numbers.",
      "check": {
       "t": "mcq",
       "q": "The yellow ball got smaller at every step, but no paper was missing at the end. What does this show about energy?",
@@ -724,7 +724,7 @@
      "what": "Drop a marble into atta 3 times each from 20, 40 and 80 cm. Measure each crater. Lift a water bottle low and high and feel the difference."
     }
    ],
-   "record": "Fill in the table. Draw one crater from each height, from above, at its real size.",
+   "record": "Fill in the table. Take a photo of one crater from each height, with the ruler beside it. Or draw it from above, at its real size.",
    "flow": [
     {
      "id": "s1",
@@ -740,7 +740,7 @@
      "mins": 3,
      "do": "Show your child the marble and the three heights on the measuring tape: 20 cm, 40 cm and 80 cm. Ask for a guess and a reason, and write both down.",
      "say": "We will drop the marble from 20, 40 and 80 centimetres. Which crater will be widest? Will it be a little wider, or much wider? Why do you think so?",
-     "kid": "You will drop the marble from three heights. Which crater will be widest? How much wider? Say why you think so.",
+     "kid": "Look at the marble and the tape. Make a guess, and say why you think so.",
      "ask": [
       {
        "q": "What do you think will happen, and why?",
@@ -792,7 +792,7 @@
      "mins": 4,
      "do": "1. Give your child a full 1 litre water bottle. 2. Ask them to lift it from the floor to their knee 10 times. 3. Rest. 4. Then from the floor to above their head 10 times. 5. Ask which tired their arm more.",
      "say": "Where did the marble's extra energy come from? Let's find out with this bottle. Lift it low ten times, then high ten times.",
-     "kid": "Lift the bottle from the floor to your knee, ten times. Rest. Now lift it from the floor to above your head, ten times. Which was harder work?",
+     "kid": "Lift the bottle from the floor to your knee, ten times. Rest. Now lift it from the floor to above your head, ten times. Notice how your arm feels each time.",
      "ask": [
       {
        "q": "Which lifting was harder? What does that tell you about the marble?",
@@ -912,14 +912,14 @@
      "what": "Set up two tumblers of water, one in sunshine and one in shade. After 1 hour, feel and compare them."
     }
    ],
-   "record": "Fill in the table. Draw the two tumblers, with the Sun's rays reaching one of them.",
+   "record": "Fill in the table. Take a photo of the two tumblers where they stood, or tell your grown-up what you felt.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Fill both tumblers with one cup of tap water each. 2. Ask your child to dip a finger in each. They should feel the same. 3. Ask for a guess and a reason.",
      "say": "These two tumblers are the same, with the same water. We'll put one in the sun and one in the shade. What will happen after an hour, and why?",
-     "kid": "Dip a finger in each tumbler. Do they feel the same? Now guess. Which one will be warmer after an hour? Why?",
+     "kid": "Dip a finger in each tumbler. Do they feel the same? Then make a guess about what an hour in the sun will do.",
      "ask": [
       {
        "q": "What do you think will happen, and why?",
@@ -972,7 +972,7 @@
      "mins": 5,
      "do": "Talk about one more thing. Ask: on a hot afternoon, why does the balcony floor in the sun burn your feet, while the shady part does not?",
      "say": "The same thing happens to the balcony floor. Why is the sunny part so hot under your feet?",
-     "kid": "Think of the balcony floor in the afternoon. Why is the sunny part hot under your feet?",
+     "kid": "Think of the balcony floor in the afternoon. Stand on the sunny part. Then the shady part.",
      "ask": [
       {
        "q": "Why is the sunny floor hot?",
@@ -1028,7 +1028,7 @@
      "mins": 2,
      "do": "Ask your child what a fan, a torch and a running child have in common. Wait for their ideas before saying anything.",
      "say": "A fan, a torch and you, running. What do the three have in common? Have a think.",
-     "kid": "Think of a fan, a torch and you, running. What is the same about all three?",
+     "kid": "Picture a fan, a torch and you, running. Take a moment to think about all three.",
      "ask": [
       {
        "q": "What is the same about them?",
@@ -1100,17 +1100,17 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw three chains back to the Sun: one for your breakfast, one for the ceiling fan and one for the gas flame."
+     "what": "Lay out three chains of slips back to the Sun: one for your breakfast, one for the ceiling fan and one for the gas flame."
     }
    ],
-   "record": "A poster with three energy chains, each ending at the Sun, or at something else if it really does.",
+   "record": "Three energy chains made of slips, each ending at the Sun, or at something else if it really does. Take a photo, or stick the slips down.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw a big yellow Sun at the top of the paper. 2. At the bottom, draw your child eating breakfast. 3. Ask: where did the energy in your breakfast come from? Draw each step upwards, with arrows.",
-     "say": "You ran around this morning on energy from breakfast. Where did the breakfast get it? And before that?",
-     "kid": "Draw the Sun at the top. Draw yourself eating breakfast at the bottom. Where did your breakfast get its energy? Draw each step with an arrow.",
+     "do": "1. Tear paper into small slips. Write SUN on one and 'breakfast' on another. 2. Put SUN at the top of the big sheet and 'breakfast' at the bottom. 3. Ask: where did the energy in your breakfast come from? Write one slip for each step and lay them in between.",
+     "say": "Your breakfast gave you energy. Where did the breakfast get it? And before that?",
+     "kid": "Lay the SUN slip at the top and the breakfast slip at the bottom. Fill the gap with one slip for each step.",
      "ask": [
       {
        "q": "If your breakfast was idli, where did the idli's energy come from?",
@@ -1125,17 +1125,17 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Draw two more chains: one for the ceiling fan, and one for the gas flame. Help with the steps your child doesn't know.",
+     "do": "Make two more chains with slips: one for the ceiling fan, and one for the gas flame. Help with the steps your child doesn't know.",
      "say": "Now the fan. It runs on electricity. Where does a power station get its energy? Wind? Coal? Falling water? And where did those get it?",
-     "kid": "Now draw a chain for the fan. Then one for the gas flame. Ask a grown-up when you get stuck.",
+     "kid": "Now make a chain of slips for the fan. Then one for the gas flame. Ask a grown-up when you get stuck.",
      "parent": "Fan: fan, electricity, power station, wind (moved by the Sun warming the land and sea) or coal (ancient plants that grew in sunlight) or falling water (lifted into clouds by the Sun's heat). Gas flame: flame, cooking gas, oil and gas underground, tiny sea creatures from millions of years ago, sunlight. If your electricity company uses nuclear power, that chain ends at uranium, not the Sun."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Look at the whole poster. Ask: which chain was longest? Did any chain not end at the Sun?",
+     "do": "Look at the three chains together. Ask: which chain was longest? Did any chain not end at the Sun?",
      "say": "Look at all three chains. Do they all end at the Sun? Which one was the longest?",
-     "kid": "Look at all your chains. Do they all end at the Sun? Which is the longest?",
+     "kid": "Count the slips in each chain. Which chain has the most?",
      "check": {
       "t": "mcq",
       "q": "Which of these does NOT get its energy from the Sun?",
@@ -1149,15 +1149,15 @@
      }
     }
    ],
-   "context": "In this activity you draw energy chains that follow where things got their energy, step by step, usually back to the Sun.",
+   "context": "In this activity you lay out paper slips to follow where things got their energy, step by step. You will find out how far back the trail goes, usually to the Sun.",
    "setup": [
     {
      "art": "A big sheet of paper with a yellow Sun at the top and a child eating idli at the bottom, with arrows through a rice plant between them.",
-     "caption": "1. Draw the Sun at the top and yourself at the bottom. Link them with arrows."
+     "caption": "1. Put the Sun at the top and your breakfast at the bottom. Fill the gap with slips."
     },
     {
      "art": "A poster with three chains of arrows from the Sun: one to idli, one through a wind turbine to a fan, one through ancient sea creatures to a gas flame.",
-     "caption": "2. Draw chains for the fan and the gas flame too."
+     "caption": "2. Make chains for the fan and the gas flame too."
     }
    ]
   },
@@ -1192,7 +1192,7 @@
      "what": "Cut a paper spiral, hang it on a thread, and hold it high above a diya flame. Watch it spin."
     }
    ],
-   "record": "Draw the spiral above the diya. Add arrows showing which way the warm air went.",
+   "record": "Tell your grown-up how the energy went from the oil to the spinning spiral. Or draw the spiral above the diya, with arrows showing which way the warm air went.",
    "flow": [
     {
      "id": "s1",
@@ -1209,7 +1209,7 @@
      "mins": 2,
      "do": "Hold the spiral by its thread, away from the flame. Ask your child to guess what will happen when you hold it high above the diya, and why.",
      "say": "Nobody will touch the spiral. What do you think will happen when I hold it high above the diya? Why?",
-     "kid": "Nobody will touch the spiral. What will it do above the diya? Why do you think so?",
+     "kid": "Nobody will touch the spiral. Make a guess about what it will do above the diya, and say why.",
      "ask": [
       {
        "q": "What will the spiral do?",
@@ -1226,7 +1226,7 @@
      "mins": 4,
      "do": "1. Switch the ceiling fan off and close the nearby window, so no draught bends the flame. 2. A grown-up lights the diya. 3. The grown-up holds the spiral by its thread, at least 20 cm above the flame. 4. Wait 10 seconds and watch.",
      "say": "Watch the spiral. Nobody is touching it. What is making it turn?",
-     "kid": "Watch the spiral. Keep your hands back. Is it turning? What is pushing it?",
+     "kid": "Watch the spiral. Keep your hands back. Is it turning?",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -1246,7 +1246,7 @@
      "mins": 3,
      "do": "Blow out the diya. Talk about where the energy came from and where it went.",
      "say": "The diya's oil had stored energy. The flame turned it into heat and light. The heat moved the air, and the air moved the spiral. Where did the oil get its energy?",
-     "kid": "The oil had stored energy. The flame made heat and light. The hot air moved the spiral. Where did the oil get its energy?",
+     "kid": "The oil had stored energy. The flame made heat and light. The hot air moved the spiral. Now think about the oil.",
      "ask": [
       {
        "q": "Where did the oil's energy come from?",
@@ -1359,7 +1359,7 @@
      "mins": 20,
      "do": "Through the day, whenever your child notices energy at work, they write the time, the thing, and its source. Aim for at least 15 entries by bedtime.",
      "say": "Today you're our energy detective. Every time energy makes something happen, write down the time, the thing, and where the energy came from.",
-     "kid": "You are the energy detective today. When something moves, lights up, heats up or makes a sound, write it down. Write the time and where the energy came from.",
+     "kid": "Look around all day. Something moves, lights up, heats up or makes a sound? Write the time and the thing. Write where its energy came from.",
      "parent": "Remind your child at meals and after school. Include living things: people walking, the crow at the window, the potted plant in the sun.",
      "context": "This is the first day of Our Family's Energy Day, a 2-day project. You keep a diary of energy at work in your home."
     },
@@ -1367,9 +1367,9 @@
      "id": "s2",
      "mins": 15,
      "wait": "Do this the next day.",
-     "do": "1. Read the diary together. 2. Make a tally of the sources: wall socket, cells, gas, food, sunlight, other. 3. Draw a bar for each on the poster.",
+     "do": "1. Read the diary together. 2. Make a tally of the sources: wall socket, cells, gas, food, sunlight, other. 3. Make a bar for each on the poster, by drawing it or by sticking on paper squares.",
      "say": "Let's count. Which source did our family use most often yesterday?",
-     "kid": "Read your diary. Count each source with tally marks. Draw a bar for each one.",
+     "kid": "Read your diary. Count each source with tally marks. Make a bar for each one. Draw it, or stick on paper squares.",
      "check": {
       "t": "mcq",
       "q": "Most entries in the diary came from the wall socket. What does the wall socket really give us?",
@@ -1387,10 +1387,10 @@
      "mins": 10,
      "do": "Ask: which of these did we leave on when nobody needed it? Choose one change for the family to try for a week.",
      "say": "Was any energy wasted? A fan in an empty room, a light in the day? Let's choose one change to try this week.",
-     "kid": "Did anything run when nobody needed it? Pick one change for your family to try this week."
+     "kid": "Think of a fan or a light left on for no reason. Pick one change for your family to try this week."
     }
    ],
-   "context": "In this 2-day project you keep a diary of every time energy is at work in your home. Then you count the sources and make a poster.",
+   "context": "In this 2-day project you keep a diary of every time energy is at work in your home. Then you count the sources and make a poster. You will find out which source your family uses most.",
    "setup": [
     {
      "art": "A child writing in a notebook beside a kitchen clock, with a pressure cooker whistling in the background.",
@@ -1431,7 +1431,7 @@
     "Use a toy car rolling off a stack of books instead of a marble.",
     "Put a lifted book at one step, so it falls and adds its own stored energy to the chain."
    ],
-   "your_turn": "Now design your own chain. Draw it first, with an arrow for each step. Then build it and see whether the bell rings. If it does not, find the step where it stopped. Then think about how to pass more energy into that step.",
+   "your_turn": "Now design your own chain. Plan it first: draw it with arrows, or lay the parts out in order. Then build it and see whether the bell rings. If it does not, find the step where it stopped. Then think about how to pass more energy into that step.",
    "flow": [
     {
      "id": "s1",
@@ -1444,9 +1444,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw a plan for a chain of at least 4 steps that ends with the spoon ringing the tumbler.",
-     "say": "Draw your plan first. What gives energy to what? Draw an arrow for each step.",
-     "kid": "Draw your chain on paper. Draw an arrow for each step. The last step rings the tumbler."
+     "do": "Make a plan for a chain of at least 4 steps that ends with the spoon ringing the tumbler. Draw it, or lay the parts out on the floor in order.",
+     "say": "Plan first. What gives energy to what?",
+     "kid": "Show your chain: draw it with arrows, or lay the parts out in order. The last step rings the tumbler."
     },
     {
      "id": "s3",
@@ -1461,7 +1461,7 @@
      "mins": 5,
      "do": "Ask: where did the energy to ring the tumbler come from? Was it only your push?",
      "say": "Was the ring made only by your finger? What else gave energy to the chain?",
-     "kid": "Was the ring only from your push? Where else did energy come from?",
+     "kid": "Think about what pushed each step along.",
      "check": {
       "t": "mcq",
       "q": "In one chain, a book falls off a table onto a marble. The finger's push at the start was tiny, but the marble shot off fast. Where did the extra energy come from?",
@@ -1475,7 +1475,7 @@
      }
     }
    ],
-   "context": "This is a design challenge. You build a chain of falling and rolling things that passes energy along until a bell rings.",
+   "context": "This is a design challenge. You build a chain of falling and rolling things that passes energy along until a bell rings. You will see how a tiny push can travel a long way.",
    "setup": [
     {
      "art": "A line of standing books on a floor, the first one tipping over under a child's finger.",
@@ -1527,7 +1527,7 @@
      "mins": 15,
      "do": "Try at least 4 different pads, 3 drops each. Rank them from loudest to quietest.",
      "say": "Test each pad three times from the same height. Which is quietest? Which stops the marble without a bounce?",
-     "kid": "Test each pad three times from 80 cm. Listen. Which is quietest? Write them in order.",
+     "kid": "Test each pad three times from 80 cm. Listen each time. Then put the pads in a row, loudest to quietest.",
      "parent": "Soft, squashy pads are quietest. The marble's movement energy goes into squashing the pad, and ends as a tiny warming. Hard pads send it back as sound and a bounce."
     },
     {
@@ -1549,7 +1549,7 @@
      }
     }
    ],
-   "context": "This is a design challenge. You make a landing pad that stops a falling marble as quietly as possible.",
+   "context": "This is a design challenge. You make a landing pad that stops a falling marble as quietly as possible. You will find out where the marble's energy goes.",
    "setup": [
     {
      "art": "A marble bouncing off a steel plate with big 'CLANG' sound lines.",

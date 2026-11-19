@@ -288,12 +288,12 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   *Child mode:* You are a drop of water in the soil. Put your drop on square 1. Race through the plant to the sky!
 - **s2 (3 min)**  
   *Parent does:* Before rolling, trace the whole path on the board together with one finger, saying each part's name.  
-  *Parent says:* First, let's trace the road. Soil. Root hairs. Root. Stem. Veins. Leaf hole. Air. Rain. Which part comes straight after the root?  
+  *Parent says:* First, let's trace the road. Soil. Root hairs. Root. Stem. Veins. Leaf hole. Air. Rain.   
   *Child mode:* Trace the road with your finger. Say each part. Soil, root hairs, root, stem, veins, leaf hole, air, rain.
   - Check: In Drop's Journey, which part does the drop reach straight after the root? → **The stem**
 - **s3 (14 min)**  
   *Parent does:* 1. Take turns rolling and moving. 2. When someone lands on a star, they read a card out loud. 3. For an event card, ask them to say why the card makes sense before they move. 4. For a question card, another player checks the answer on the back.  
-  *Parent says:* You got 'Hot sunny afternoon, move ahead 3'. Why would a hot sun make a drop move faster?  
+  *Parent says:* Say a player lands on 'Hot sunny afternoon, move ahead 3'. Why would a hot sun make a drop move faster?  
   *Child mode:* Roll and move. Landed on a star? Take a card and read it. Say why it makes sense. Then move.
   - Ask: Why does the air bubble card send you back? (good: The bubble breaks the thread of water, so it can't be pulled up.; A tube with air in it can't carry water.)
   - Ask: Why does night make you miss a turn? (good: The leaf holes close at night.; Less water leaves the leaves when it is dark and cool.)
@@ -313,8 +313,8 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   *Child mode:* Put your hands together. They are two guard cells. Bend them apart to open the hole. Press them together to close it.
 - **s2 (3 min)**  
   *Parent does:* Take the card 'Hot afternoon, soil is very dry' out of the pile and play it together as practice. It counts as card 1.  
-  *Parent says:* Hot afternoon, and the soil is very dry. Open or close? Think about the water.  
-  *Child mode:* Practice card: hot afternoon, very dry soil. Open or close? Show your hands.
+  *Parent says:* We'll play the practice card together. Think about the water.  
+  *Child mode:* Show your hands: open or close?
   - Check: Hot afternoon, and the soil is very dry. What do the leaf holes usually do? → **Close, to save water**
 - **s3 (7 min)**  
   *Parent does:* 1. Play 11 more cards, so you have played 12. 2. After each one, ask a leaf to say why. 3. Turn the card over to check. Give 1 point for the right answer and 1 more for a reason that mentions water, light or air.  
@@ -330,16 +330,16 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 ## Experiments
 ### e1 · The Blue Climb: coloured water up a stem (35 min, 2 days)
 - **question:** Does water really travel up a stem to the leaves and petals? Where does it go, and how long does it take?
-- **predict:** Before you start, guess. Will the colour go up the stem? Will it reach the petals? How long will it take? Draw your guess, and say why you think so.
+- **predict:** Before you start, guess. Will the colour go up the stem? Will it reach the petals? How long will it take? Say your guess, and why you think so.
 - **fair test:** Stand one leaf or flower in coloured water and one in plain water. Use the same kind, cut the same way, in the same place. Only the colour of the water is different. Check both at the same times.
 - **safety:** A grown-up does all the cutting.
-- **record:** Fill in the table at each check. Draw the petals or leaf, and the cut end of the stem.
+- **record:** Fill in the table at each check. Draw the petals or leaf and the cut end of the stem, or take a photo of each.
 - **results table:** Time since you started | Where can you see colour? | What the petals or leaf look like | What the plain-water flower looks like
 - **schedule:** day 1: Guess, set up the two glasses, and look after 2 hours and before bed. (14 min); day 2: Look the next day. A grown-up cuts the stem across. Look for coloured dots and draw them. (21 min)
 - **s1 (4 min)**  
-  *Parent does:* 1. Fill both glasses halfway with water. 2. Stir food colour into one glass until it is as dark as ink. Use about 1 teaspoon of liquid colour, or 2 big pinches of powder. 3. Ask your child to guess what will happen, and why, and to draw the guess.  
-  *Parent says:* This glass has coloured water and this one has plain water. We'll stand a pale leaf or a white flower in each. What will happen to the one in the coloured water? Why do you think so? Draw your guess.  
-  *Child mode:* Put water in two glasses. Add lots of colour to one. What will happen to a pale leaf or white flower in it? Why? Draw your guess.
+  *Parent does:* 1. Fill both glasses halfway with water. 2. Stir food colour into one glass until it is as dark as ink. Use about 1 teaspoon of liquid colour, or 2 big pinches of powder. 3. Ask your child to guess what will happen, and why, and to say the guess out loud.  
+  *Parent says:* This glass has coloured water and this one has plain water. We'll stand a pale leaf or a white flower in each. Tell me what you think will happen to the one in the coloured water, and why.  
+  *Child mode:* Put water in two glasses. Add lots of colour to one. Say what will happen to a pale leaf or white flower in it. Say why.
   - Ask: Where do you think the colour will go? (good: Up the stem.; Into the petals.; It will stay in the glass.)
   - Note: Any guess is fine. A child who says 'it will stay in the glass' has a clear idea that we can test. Do not correct it yet. Use plenty of colour, because pale water gives a result too faint to see.
 - **s2 (4 min) · grown-up needed**  
@@ -354,16 +354,16 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   - Ask: Has the plain-water flower changed? (good: No, it is still white.; No. So the colour came from the water.)
   - Note: Colour usually shows first as thin lines in the veins and at the petal edges. In a carnation this can take a few hours. Rajnigandha is much slower at home than in the story Blue Before Morning. In a cabbage leaf, look at the veins near its top edge. It may take most of a day. In a see-through balsam stem you can watch a coloured line rise. If you see nothing at bedtime, that is normal.
 - **s4 (6 min)**  
-  *Parent does:* The next day, look at the petals or the leaf with the magnifying glass. Draw what you see.  
+  *Parent does:* The next day, look at the petals or the leaf with the magnifying glass. Ask your child to draw what they see, or to describe it to you.  
   *Parent says:* Look at it now. Where is the colour darkest? What do the lines look like?  
-  *Child mode:* Look at the petals or the leaf. Where is the colour darkest? Draw the lines you see.
+  *Child mode:* Look at the petals or the leaf. Where is the colour darkest? Draw the lines you see, or tell a grown-up what they look like.
   - Note: If there is still no colour after a day, cut 2 cm off each stem under water again and add more colour. Move the glass near a fan or an open window, and look again that evening. Fresh leaves and flowers work best, because old, tired ones drink slowly. Rajnigandha stalks often take up colour too slowly to see at home, so start with carnations.
   - Check: In the Blue Climb, the pale leaf or white petals now have coloured lines. What does that show? → **Water climbed up the stem and spread through tiny tubes into the petals**
   - Wait: Leave them for a day: at least 12 hours, and up to 24.
 - **s5 (6 min) · grown-up needed**  
   *Parent does:* 1. Cut across the coloured stem about halfway up. For a cabbage leaf, cut across its thick white middle rib. 2. Let your child look at the cut end with the magnifying glass.  
-  *Parent says:* Look at the cut end. What do you see? Why do you think the colour is in dots, and not everywhere?  
-  *Child mode:* Ask a grown-up to cut the stem across. Look at the end. Can you see coloured dots? Why dots?
+  *Parent says:* Look at the cut end. What do you see?  
+  *Child mode:* Ask a grown-up to cut the stem across. Look at the cut end. Count the coloured dots.
   - Ask: Why are there dots, and not colour everywhere? (good: The water only went up the tubes.; The tubes are in bundles, not everywhere.)
   - Note: In a flower stem the dots sit in a ring. In a cabbage rib they sit in a row. They are bundles of xylem, the water tubes, and the coloured water climbed only through them. A flower stem is thin, so use the magnifying glass. A cabbage rib shows the dots most clearly.
 - **s6 (3 min)**  
@@ -421,7 +421,7 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 - **predict:** Guess first. You will tie a clear bag over a branch in the sun, and another over a branch in the shade. Which bag will collect more water? Why do you think so?
 - **fair test:** Use two potted plants of the same kind and about the same size, or two similar branches of one plant. Use two bags that are the same. Tie them on at the same time and leave them for the same time. Only one thing is different: sun or shade.
 - **safety:** Plastic bags are never for heads or faces. Keep them away from very young children. Take the bags off the plants afterwards, so the leaves do not overheat.
-- **record:** Fill in the table. Draw both bags, showing the mist and drops inside each one.
+- **record:** Fill in the table. Take a photo of each bag, or draw them, showing the mist and drops inside.
 - **results table:** Branch | What the inside of the bag looks like | Water collected (spoons, or millilitres with a syringe)
 - **s1 (3 min)**  
   *Parent does:* 1. Put one potted plant in bright sun, on a balcony or a sunny windowsill, and the other in the shade indoors. 2. If you have only one plant, use two branches, and shade one with a cone of newspaper. 3. Ask your child to guess which bag will get more water, and why.  
@@ -433,7 +433,7 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   *Child mode:* Slide a bag over each branch. Ask a grown-up to tie it round the stem. Write down the time.
 - **s3 (5 min)**  
   *Parent does:* 1. After 2 hours, look at both bags without taking them off. 2. Gently tap the drops down into a corner of each bag.  
-  *Parent says:* Look inside the bags. What do you see? Where did those drops come from?  
+  *Parent says:* Look inside the bags. What do you see?  
   *Child mode:* After two hours, look at the bags. Are they misty? Are there drops? Tap the drops into a corner.
   - Ask: Where did the water in the bag come from? (good: From the leaves.; It came up the stem and out of the leaves.; Water vapour from the leaves turned back into drops.)
   - Note: Expect mist within half an hour in the sun. A small branch may give only a few drops, and a big leafy one a teaspoon or more. On a cool or cloudy day the two bags may look alike. If so, say that honestly and repeat on a sunny day. Both are real results.
@@ -457,7 +457,7 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 ## Activities
 ### a1 · The Two-Colour Flower (20 min, 2 days)
 - **safety:** Only a grown-up uses the knife. Split the stem slowly, on a chopping board.
-- **record:** Draw the flower before and after. Colour in where each colour went.
+- **record:** Take a photo of the flower before and after, or draw it and colour in where each colour went.
 - **schedule:** day 1: Split the stem, stand each half in a different colour, and guess. (12 min); day 2: Look at the flower the next day, and draw it. (8 min)
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. On a chopping board, split the bottom of the stem lengthways into two halves. Start at the cut end and stop about 8 cm up. 2. Wrap a bit of sticky tape round the stem just above the split, so it does not split further.  
@@ -465,8 +465,8 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   *Child mode:* Ask a grown-up to split the stem into two legs. Put tape above the split so it stops there.
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Put the two glasses side by side, one with blue water and one with red. 2. Hold the split end of the stem under water in the bowl. Snip a little off the end of each leg, so no air gets into the tubes. 3. Straight away, stand one leg in each glass. 4. Ask your child to guess what the flower will look like tomorrow.  
-  *Parent says:* One leg drinks blue and one drinks red. What will the flower look like tomorrow? Will it go purple? Half and half? Draw your guess.  
-  *Child mode:* Ask a grown-up to snip each leg under water. Stand one leg in blue water and one in red water. What will the flower look like tomorrow? Draw it.
+  *Parent says:* One leg drinks blue and one drinks red. What will the flower look like tomorrow? Will it go purple? Half and half? Say your guess.  
+  *Child mode:* Ask a grown-up to snip each leg under water. Stand one leg in blue water and one in red water. What will the flower look like tomorrow? Tell your grown-up your guess.
   - Wait: Leave for a day.
 - **s3 (8 min)**  
   *Parent does:* The next day, look at the flower closely and compare it with the guess.  
@@ -477,7 +477,7 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   - Think: If one root of a big tree is cut, which branches might go thirsty?
 ### a2 · The Water Chain (act it out) (15 min)
 - **safety:** Walk slowly on the stairs and hold the railing with your free hand. Do not pull hard on anyone's arms.
-- **record:** Draw the chain of water people on the stairs, with the top one floating off as vapour.
+- **record:** Tell someone at home what the water people did, and what the air bubble did. Or take a photo of your chain.
 - **s1 (4 min)**  
   *Parent does:* Everyone stands in a line up the stairs, holding hands. The bottom person is at the root. The top person is at the leaf hole.  
   *Parent says:* We are water molecules inside one tiny tube in a stem. We hold hands, because water sticks to itself. The bottom of the stairs is the root. The top is a leaf.  
@@ -490,8 +490,8 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   - Note: This is the cohesion-tension idea. Evaporation at the leaf pulls on the whole chain. The chain holds because water molecules cling to each other.
 - **s3 (4 min)**  
   *Parent does:* Now one person or toy in the middle lets go of hands: they are an air bubble. The top person leaves again. Can the people below the gap step up?  
-  *Parent says:* Oh no, an air bubble! Someone in the middle let go. Now when the top drop leaves, can the bottom of the chain still be pulled up?  
-  *Child mode:* An air bubble! Someone in the middle lets go. Now the top one leaves. Can the bottom of the chain still move up?
+  *Parent says:* Oh no, an air bubble! Someone in the middle let go of hands. Now the top drop leaves again.  
+  *Child mode:* Someone in the middle lets go. The top one leaves. Watch the people below the gap.
   - Check: In the Water Chain, someone in the middle let go of hands, like an air bubble. What happens to the people below the gap? → **They get stuck, because nothing is pulling them any more**
 - **s4 (2 min)**  
   *Parent does:* Talk about how a plant copes with bubbles.  
@@ -499,11 +499,11 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   *Child mode:* A plant has thousands of tubes. If one gets a bubble, water uses the others.
   - Think: Why do flower sellers cut stems under water? Think about the person in the Water Chain who let go and became an air bubble.
 ### a3 · Bring Back the Wilted Coriander (15 min)
-- **record:** Draw the bunch before and after. Write how long they took to stand up.
+- **record:** Take a photo of the bunch before and after, or draw it. Write how long they took to stand up.
 - **s1 (3 min)**  
-  *Parent does:* Leave a small bunch of coriander out of the fridge from the morning, until the leaves wilt in a few hours. Feel them with your child. Draw the floppy bunch.  
-  *Parent says:* Feel these leaves. They are soft and floppy. Why do you think they have gone like this?  
-  *Child mode:* Touch the floppy coriander. Are they soft or crisp? Why do you think they drooped? Draw the bunch.
+  *Parent does:* Leave a small bunch of coriander out of the fridge from the morning, until the leaves wilt in a few hours. Feel them with your child. Take a photo of the floppy bunch.  
+  *Parent says:* Feel these leaves. They are soft and floppy.  
+  *Child mode:* Touch the floppy coriander. Are they soft or crisp? Ask a grown-up to take a photo of the bunch.
   - Ask: Why have they wilted? (good: They lost water.; They are out of the soil, so they cannot drink.; The water left through the leaves.)
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Hold the stems under water in the bowl. 2. Snip about 1 cm off the bottoms, under the water. 3. Stand the bunch in the glass of cool water straight away.  
@@ -511,9 +511,9 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   *Child mode:* Ask a grown-up to snip the stems under water. Stand the bunch in a glass of water.
   - Wait: Leave for 1 hour.
 - **s3 (5 min)**  
-  *Parent does:* After an hour, feel and look at the bunch again. Compare with the drawing.  
-  *Parent says:* Feel them now. What changed? Where did the stiffness come from?  
-  *Child mode:* After one hour, touch them again. Are they crisp now? How did the water get into the leaves?
+  *Parent does:* After an hour, feel and look at the bunch again. Compare with the photo.  
+  *Parent says:* Feel them now. What changed?  
+  *Child mode:* After one hour, touch them again. Are they crisp now?
   - Note: Mildly wilted leaves usually stand up within an hour. If they are still floppy, leave them another hour. Leaves that dried out completely may not recover, and that is a real result.
   - Check: The wilted coriander stood in water for an hour and became crisp again. Why? → **Water went up the stems and filled the cells, so they pushed against each other and stood firm**
 - **s4 (3 min)**  
@@ -523,10 +523,10 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   - Think: A plant in soil can wilt at noon and stand up again in the evening. What changes between noon and evening?
 ### a4 · Bubbles from a Leaf: find the hidden holes (15 min)
 - **safety:** A grown-up pours the hot water. Let boiled water cool for 5 minutes first, and keep small hands out of it. Nail polish is used only by a grown-up, in an airy room.
-- **record:** Draw the leaf, with dots where the bubbles came out. Write which side had more bubbles.
+- **record:** Write how many bubbles came from each side, and which side had more.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Fill the glass bowl with hot water from a kettle that has cooled for 5 minutes. 2. Push a fresh leaf under the water with a spoon and hold it there. 3. Watch both sides of the leaf closely for a minute or two.  
-  *Parent says:* Watch the leaf carefully. Do you see tiny bubbles? Which side are they coming from?  
+  *Parent says:* Watch the leaf carefully. Do you see tiny bubbles?  
   *Child mode:* Ask a grown-up for hot water in a bowl. The grown-up pushes a leaf under the water. Watch closely. Can you see tiny bubbles?
   - Ask: Where are the bubbles coming from? (good: The underside of the leaf.; Tiny holes in the leaf.)
   - Note: Tiny silver bubbles should appear within a minute, mostly on the underside. The effect is faint. If you see very few, try a different leaf. A money plant or hibiscus leaf works best. Look closely with a magnifying glass.
@@ -555,11 +555,11 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   - Note: Tape every join well, because leaks of air make it fail early. Many children manage 3 to 5 straws. Even a perfect pump could only lift water about 10 metres this way.
 - **s3 (6 min)**  
   *Parent does:* Compare the paper, the straw and a tall tree.  
-  *Parent says:* The paper lifted water a few centimetres. The best pump in the world could lift it about 10 metres by sucking. But the tallest tree is about 116 metres tall. So how does a tree lift water?  
-  *Child mode:* Paper lifts water a little. Sucking lifts it up to 10 metres at most. The tallest tree is 116 metres! So how does a tree lift water?
+  *Parent says:* The paper lifted water a few centimetres. The best pump in the world could lift it about 10 metres by sucking. But the tallest tree is about 116 metres tall.  
+  *Child mode:* Paper lifts water a little. Sucking lifts it up to 10 metres at most. The tallest tree is 116 metres!
   - Check: Paper lifts water a few centimetres, and sucking can lift it about 10 metres at most. How does water reach the top of a 116 metre tree? → **The leaves let water evaporate, and that pulls up unbroken threads of water that hold together**
 ### a6 · The Dawn Drop Hunt (if you have a garden or a park nearby) (15 min)
-- **record:** Draw a grass blade with a drop at its tip. Draw a leaf covered in tiny dew drops. Write how they are different.
+- **record:** Say or write how the two kinds of drops are different. Take a photo of each, or draw them.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* Just after sunrise, go to a patch of grass. Look closely at the tips of the grass blades, and at leaves of other small plants.  
   *Parent says:* Look at the very tips of the grass blades. Some have one round drop sitting right at the tip. Other leaves are covered all over with tiny drops.  
@@ -599,7 +599,7 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   - Check: In the Be Stephen Hales project, the plant weighed 512 grams on Monday and 480 grams on Tuesday. How much water did the plant let out? → **32 grams**
 - **s4 (4 min)**  
   *Parent does:* 1. Look at the bar chart and the weather together. 2. Then water the plant and take the plastic off.  
-  *Parent says:* Which weather made the plant let out the most water? Why do you think that is?  
+  *Parent says:* Which weather made the plant let out the most water?  
   *Child mode:* Look at your bars. Which day was tallest? What was the weather that day?
   - Ask: Why did the plant lose more on sunny or windy days? (good: Water evaporates faster in sun and wind.; The leaves open their holes more in the sun.)
   - Think: If this small plant lets out this much, how much does a big neem tree let out?
@@ -612,7 +612,7 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
 ## Challenges
 ### c1 · How High Can You Lift Water? (25 min)
 - **problem:** Make water climb as high as you can above the water in a glass, without pouring, pumping or sucking. Plants lift water without any of those. How close can you get?
-- **your turn:** Now invent your own water lifter. Draw it, try it, and measure how high the water climbed in 24 hours.
+- **your turn:** Now invent your own water lifter. Build it, try it, and measure how high the water climbed in 24 hours.
 - **constraints:** You cannot pick up the glass or pour from it.; No sucking, squeezing, spoons or syringes.; Use only things from home, like paper, cloth, string, sponge and chalk.; You have 24 hours. Measure the height of the wet line above the water in the glass.
 - **general:** A strip of paper towel taped upright, with its bottom end in the water. The colour creeps up by capillary action, usually 5 to 10 centimetres in a few hours.; A strip of cotton cloth or a thick cotton string, which works like the wick in a lamp.; A stick of chalk standing in the water. Chalk is full of tiny gaps, so the colour climbs inside it.
 - **creative:** Try narrower and wider strips of the same paper, to see whether the width changes the height.; Leave the best wick for a whole day. Watch how fast it climbs at first, and how it slows down and stops.; Stand a leafy stem in the water and tie a clear bag over its leaves. The water climbs the whole stem and comes out into the bag. A plant lifts water higher than any wick.
@@ -622,9 +622,9 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   *Child mode:* Fill a glass with coloured water. Make the water climb as high as you can. No pouring!
   - Note: Wicks work by capillary action. Paper towel usually lifts water 5 to 10 centimetres in a few hours, and then stops. A leafy stem lifts it to the top of the stem and beyond, into the air.
 - **s2 (5 min)**  
-  *Parent does:* Before trying, draw or write three ideas together.  
+  *Parent does:* Before trying, pick three ideas together from the things on the table.  
   *Parent says:* Engineers plan first. What have you seen that makes water climb by itself? Which do you think will lift it highest, and why?  
-  *Child mode:* Plan first, like an engineer. Draw three ideas. What makes water climb by itself?
+  *Child mode:* Plan first, like an engineer. Pick three things that might make water climb by itself, and say why.
 - **s3 (10 min)**  
   *Parent does:* 1. Try each idea. 2. Mark the wet line with a pencil after 10 minutes and after 1 hour. 3. Leave the best ones overnight. 4. In the morning, measure the height of the wet line above the water.  
   *Parent says:* Let's try your ideas. Which one is climbing highest? Let's mark the lines and leave them overnight.  
@@ -638,7 +638,7 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   - Think: Clay pots and cotton wicks have been used to water plants slowly for hundreds of years. Why might farmers want water to move slowly?
 ### c2 · The Holiday Plant Sitter (30 min)
 - **problem:** You will be away from home for a week. Design a way to keep a potted plant watered, with nobody there.
-- **your turn:** Now design your own plant sitter. Draw it, and test it for 3 days before the holiday. Each day, weigh the pot or push a finger into the soil to check it is still damp.
+- **your turn:** Now design your own plant sitter. Sketch it or describe it, and test it for 3 days before the holiday. Each day, weigh the pot or push a finger into the soil to check it is still damp.
 - **constraints:** It must work for 7 days.; It must not flood the plant, because roots need air too.; It must cost almost nothing, using things from home.
 - **general:** A wick: one end of a cotton string in a bottle of water, the other end pushed into the soil. Water creeps along it into the soil.; An upside-down bottle with small holes in its cap, pushed into the soil, letting water out slowly.; A clear bag or cut bottle over the whole plant like a tent, so the water they let out stays inside and drips back.
 - **creative:** A small unglazed clay pot buried in the soil and filled with water. Water seeps out through the clay. Farmers in many dry places, including parts of India, have watered plants like this for a very long time.; Move the plant into the shade and out of the wind while you are away, so they let out less water.; Group several pots close together so they keep the air around them damp.
@@ -647,9 +647,9 @@ The old woman nodded, as if this was the most ordinary thing in the world. Then 
   *Parent says:* This plant lets water out of their leaves every day, and drinks from the soil. If nobody waters them for a week, what happens?  
   *Child mode:* This plant loses water from their leaves every day. What happens if nobody waters them for a week?
 - **s2 (6 min)**  
-  *Parent does:* Draw three designs. For each one, ask: does it bring water in, or stop water leaving?  
+  *Parent does:* Plan three designs. Sketch them, or talk them through. For each one, ask: does it bring water in, or stop water leaving?  
   *Parent says:* There are two ways to help. Bring water in slowly. Or stop so much leaving. Which do your designs do?  
-  *Child mode:* Draw three designs. Does each one bring water in? Or stop water leaving?
+  *Child mode:* Plan three designs, by sketching or by talking. Does each one bring water in? Or stop water leaving?
   - Check: In the Holiday Plant Sitter, you put a clear bag over the whole plant like a tent. How does that help? → **The air inside gets damp, so less water leaves the leaves, and what does leave drips back down**
 - **s3 (12 min) · grown-up needed**  
   *Parent does:* 1. Build your best design. 2. Weigh the pot, or if you have no scale, push a finger into the soil to feel how damp it is. 3. Test it for 3 days, checking the pot each day.  

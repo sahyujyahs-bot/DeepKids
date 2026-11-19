@@ -625,7 +625,7 @@
      "mins": 3,
      "do": "Play one practice turn together.",
      "say": "Practice turn. I have a wooden stick card. Can I use it as part of my loop?",
-     "kid": "Practice turn. Can a wooden stick card join your loop? Say your answer.",
+     "kid": "Practice turn. Look at the wooden stick card and think about your loop.",
      "check": {
       "t": "mcq",
       "q": "Can a wooden stick card be part of your own loop, like a wire?",
@@ -650,7 +650,7 @@
      "mins": 2,
      "do": "Finish the game and talk about the SWITCH card.",
      "say": "Why did the switch card protect your circuit? What does a real switch do?",
-     "kid": "Why did the switch card help you? What does a real switch do?",
+     "kid": "Think about a real switch in your home.",
      "think": "Is a switch a gap, or a bridge? Or both?",
      "parent": "Both. When the switch is off, the two metal parts are apart, so it is a gap. When the switch is on, the two metal parts touch, so it is a bridge that completes the loop."
     }
@@ -783,7 +783,7 @@
      "mins": 6,
      "do": "Read the cards one at a time. After each one, ask for the reason.",
      "say": "Why is that dangerous? What could happen?",
-     "kid": "Safe or danger? Hold up your card. Then say why.",
+     "kid": "Hold up your card. Then say why.",
      "check": {
       "t": "mcq",
       "q": "A girl switches on the fan with wet hands after her bath. Safe or danger?",
@@ -800,7 +800,7 @@
      "mins": 2,
      "do": "Talk about the AA cell card.",
      "say": "A girl touched both ends of an AA cell, and that was safe. But a wall socket is never safe. What is the difference?",
-     "kid": "An AA cell is safe to touch. A socket is not. Why?",
+     "kid": "Think about how strong a cell is, and how strong a socket is.",
      "parent": "An AA cell pushes at 1.5 volts, too weakly to push enough electricity through dry skin for you to notice. A wall socket in India pushes at 230 volts, about 150 times as hard. That is strong enough to push electricity through a body."
     }
    ],
@@ -870,7 +870,7 @@
      "what": "Build a circuit tester with a gap. Guess, then test 12 things. Sort them into conductors and insulators."
     }
    ],
-   "record": "Fill in the table. Then draw two big circles, one for conductors and one for insulators, and write each object in the right circle.",
+   "record": "Fill in the table. Then sort the 12 things into two piles on the table, conductors and insulators, and take a photo.",
    "flow": [
     {
      "id": "s1",
@@ -887,7 +887,7 @@
      "mins": 5,
      "do": "1. Lay out the 12 things. 2. Ask your child to put them in two piles: 'will light' and 'won't light'. 3. Ask for a reason for each pile. Write the guesses in the table.",
      "say": "The gap is like a bridge that is missing. Which of these things will carry the electricity across it? Make two piles. Why did you put each one there?",
-     "kid": "Make two piles: 'will light' and 'won't light'. Why did you put each thing in its pile?",
+     "kid": "Make two piles: 'will light' and 'won't light'.",
      "ask": [
       {
        "q": "Why do you think the spoon will light the bulb?",
@@ -911,9 +911,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Look at the coated paper clip result together.",
-     "say": "The plain clip lit the bulb, but the coloured clip did not. Both are steel inside. Why do you think that happened?",
-     "kid": "The plain clip lit the bulb. The coloured clip did not. Why?",
+     "do": "Look at the plain clip and the coloured clip together.",
+     "say": "Test the plain clip, then the coloured clip. The plain one lights the bulb, but the coloured one does not. Both are steel inside.",
+     "kid": "Look closely at the coloured clip. What is different on the outside?",
      "check": {
       "t": "mcq",
       "q": "A paper clip with a plastic coat does not light the bulb. Why?",
@@ -1054,7 +1054,7 @@
      "what": "Break a complete circuit in three places. Then add a very long wire and watch when the bulb lights."
     }
    ],
-   "record": "Draw the loop three times. Mark where you made the gap each time, and draw the bulb lit or dark.",
+   "record": "Take a photo of your loop each time you make a gap, with the bulb lit or dark. Write under each photo where the gap was.",
    "flow": [
     {
      "id": "s1",
@@ -1106,8 +1106,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Talk about the cycle chain. Then ask your child to say what they think, what they saw, and why they think it happened.",
-     "say": "Think of a cycle chain. Push the pedal, and every link moves at once, even the far ones. Electrons in a wire are like that. Now tell me what you think, what you saw, and why.",
-     "kid": "Think of a cycle chain. Every link moves at once. Now say what you think, what you saw, and why you think it happened.",
+     "say": "Think of a cycle chain. Push the pedal, and every link moves at once, even the far ones. Electrons are tiny bits of electricity already inside the wire, and they move together like the links. Now tell me what you think, what you saw, and why.",
+     "kid": "Say what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: a gap anywhere stops the bulb, and a long wire does not make it wait. What I saw: the bulb went out every time, wherever I made the gap. With the 2 metre wire it still lit at once. Why: the tiny electrons are already in the wire all the way round. The cell pushes them all together, like a cycle chain. So a break anywhere stops them all. For the thinking question: the cell runs out of the energy stored in its chemicals. The electrons are not used up. They go round the loop and come back.",
      "think": "If the electrons go round and come back to the cell, what is the cell running out of when it goes flat?"
     }
@@ -1202,7 +1202,7 @@
      "what": "Light a bulb with one cell, then two cells facing the same way, then two cells facing opposite ways."
     }
    ],
-   "record": "Draw the bulb three times. Draw lines around it to show how bright it was.",
+   "record": "For each try, write bright, brighter, dim or dark. The three tries are one cell, two cells in a row, and one cell turned round. Or tell a grown-up.",
    "flow": [
     {
      "id": "s1",
@@ -1329,7 +1329,7 @@
      "what": "Try to light a bulb with one cell and one wire. Draw every try."
     }
    ],
-   "record": "Draw each try. Put a tick by the ones that lit and a cross by the ones that did not.",
+   "record": "For each try, write a short note and put a tick if it lit or a cross if it did not. You can draw each try instead.",
    "flow": [
     {
      "id": "s1",
@@ -1352,7 +1352,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Look at the drawings together and talk about the ones that lit.",
+     "do": "Look at your tries together and talk about the ones that lit.",
      "say": "What do all the tries that lit have in common? Trace the path with your finger.",
      "kid": "Look at your ticks. What is the same in all of them?",
      "check": {
@@ -1405,12 +1405,12 @@
      "what": "Walk round the home and list everything that uses electricity. Sort the list into mains and cells, and by what each thing makes."
     }
    ],
-   "record": "Make a chart with two big columns, 'Plugged into the wall' and 'Runs on cells'. Draw a small sign by each one: a sun for light, a note for sound, a flame for heat, a snowflake for cold, an arrow for movement.",
+   "record": "Make a chart with two big columns, 'Plugged into the wall' and 'Runs on cells'. Write by each one what it makes: light, sound, heat, cold or movement. Some things make two.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw the two columns. 2. Ask your child to guess how many things in the home use electricity.",
+     "do": "1. Fold the paper into two columns, or write the two headings on it. 2. Ask your child to guess how many things in the home use electricity.",
      "say": "How many things in our home do you think use electricity? Make a guess. Then we will count.",
      "kid": "Guess how many things at home use electricity. Then we count!",
      "context": "This is the start of the Electricity Hunt. You find every electrical thing in your home and sort them."
@@ -1418,7 +1418,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Walk through each room together. 2. Your child writes or draws each thing in the right column. 3. Look for a wire and plug, or a place for cells.",
+     "do": "1. Walk through each room together. 2. Your child writes each thing in the right column. 3. Look for a wire and plug, or a place for cells.",
      "say": "Look for a wire and a plug. That means it uses mains electricity from the wall. Look for a little door for cells. That means it runs on cells.",
      "kid": "Walk round your home. If a thing has a plug, write it under 'Plugged into the wall'. If it has cells, write it under 'Runs on cells'.",
      "parent": "Typical finds: fan, tube light, fridge, mixer-grinder, TV, iron, geyser, washing machine, water pump, Wi-Fi box and phone charger use the mains. A TV remote, wall clock, torch, toy car, weighing scale and kitchen timer use cells. A phone and a laptop have their own batteries that are charged from the mains. They can go in both columns."
@@ -1426,9 +1426,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Look at the chart and add the signs for what each thing makes.",
-     "say": "Now let's add a sign for what each thing makes: light, sound, heat, cold or movement. Which ones make two things?",
-     "kid": "Draw a sign by each thing. Light, sound, heat, cold or movement?",
+     "do": "Look at the chart and write what each thing makes.",
+     "say": "Now let's write what each thing makes: light, sound, heat, cold or movement. Which ones make two things?",
+     "kid": "Write by each thing what it makes. Light, sound, heat, cold or movement?",
      "check": {
       "t": "mcq",
       "q": "Which of these would keep working in a power cut, without an inverter?",
@@ -1479,7 +1479,7 @@
      "what": "Walk round the home with a grown-up and find places where electricity needs care. Write the rules."
     }
    ],
-   "record": "Write five safety rules, each with its reason. Make them into a poster for the fridge.",
+   "record": "Write five safety rules, each with its reason. Stick the list on the fridge, or make it into a poster.",
    "flow": [
     {
      "id": "s1",
@@ -1502,9 +1502,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Read the rules back and check one with a question.",
+     "do": "Read the rules back together, then ask one question.",
      "say": "Here is a question. Why do you think wires have plastic around them?",
-     "kid": "Why do wires have plastic around them? Pick your answer.",
+     "kid": "Read your rules. Then answer the question about wires.",
      "check": {
       "t": "mcq",
       "q": "Why is there plastic around the copper in a fan's wire?",
@@ -1553,7 +1553,7 @@
      "what": "Take a torch apart, find its circuit, and put it back together."
     }
    ],
-   "record": "Draw the torch parts and draw a line showing the loop the electricity takes.",
+   "record": "Lay the parts in the order the electricity goes round, and take a photo. Then tell a grown-up the path, from the cell and back to the cell.",
    "flow": [
     {
      "id": "s1",
@@ -1584,7 +1584,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Put the torch back together. 2. Switch it on and off. 3. Your child traces the loop on their drawing.",
+     "do": "1. Put the torch back together. 2. Switch it on and off. 3. Your child traces the loop with a finger, along the parts.",
      "say": "Put it back together and switch it on. What does the switch do to the loop?",
      "kid": "Put it back. Switch it on and off. What does the switch do?",
      "check": {
@@ -1608,7 +1608,7 @@
     },
     {
      "art": "A child's drawing of a torch with a red line looping from the cells, along the case, through the switch and bulb, and back.",
-     "caption": "2. Draw the loop the electricity takes."
+     "caption": "2. Follow the loop the electricity takes."
     }
    ]
   },
@@ -1650,7 +1650,7 @@
      "what": "Make a switch from drawing pins and a paper clip. Put it in a circuit and use it."
     }
    ],
-   "record": "Draw your circuit with the switch open and closed. Draw the bulb dark and lit.",
+   "record": "Take a photo of your switch open and closed, with the bulb dark and lit. Or draw them.",
    "flow": [
     {
      "id": "s1",
@@ -1666,7 +1666,7 @@
      "mins": 6,
      "do": "1. Join the switch into the circuit, between the cell and the bulb. 2. Swing the paper clip onto the second pin. 3. Swing it off again.",
      "say": "Swing the clip across. What happens? Now swing it away. Why does the bulb go out?",
-     "kid": "Swing the clip onto the other pin, and the bulb lights. Swing it away, and the bulb goes dark.",
+     "kid": "Swing the clip onto the other pin. Watch the bulb. Swing it away. Watch again.",
      "parent": "If the bulb does not light with the clip closed, press the clip down firmly on the pin. Shiny drawing pins work best. Painted ones may need the paint scraped off."
     },
     {
@@ -1674,7 +1674,7 @@
      "mins": 4,
      "do": "Ask why the switch is on cardboard and not on a steel plate.",
      "say": "Why did we put the switch on cardboard? What would happen on a steel plate?",
-     "kid": "Why did we build the switch on cardboard? What if it was on a steel plate?",
+     "kid": "Think about the cardboard. What if the switch was on a steel plate?",
      "check": {
       "t": "mcq",
       "q": "Why is the paper clip switch built on cardboard?",
@@ -1733,20 +1733,20 @@
      "what": "Act out a circuit with a loop of string. One person is the cell, one is the bulb."
     }
    ],
-   "record": "Draw the loop of people, with arrows for which way the string moved.",
+   "record": "Act it out again, with a different person as the bulb. Then tell a grown-up which way the string moved.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Everyone stands in a circle holding the string loop loosely. (With 2 people, stand facing each other.) 2. One person is the cell. 3. One person is the bulb, and holds the string very lightly so it rubs their hands.",
-     "say": "The string is like the electrons in a wire. They are already there, all the way round. The cell pulls the string round. Let's see what the bulb feels.",
+     "say": "The string is like the electrons, the tiny bits of electricity in a wire. They are already there, all the way round. The cell pulls the string round. Let's see what the bulb feels.",
      "kid": "Stand in a circle. Hold the string loosely. Who is the cell? Who is the bulb?",
      "context": "In this activity you act out a circuit with a loop of string. It shows how the electrons move round a wire all at once."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. The cell pulls the string steadily, hand over hand. 2. The bulb says 'warm' when they feel the string rubbing. 3. Then one person lets go and drops their part of the loop.",
+     "do": "1. The cell pulls the string steadily, hand over hand. 2. The bulb says 'now' when they feel the string rubbing. 3. Then one person lets go and drops their part of the loop.",
      "say": "Bulb, tell us when you feel the string start to rub. Did you feel it at once? Now someone let go and drop the string. What happens to the bulb?",
      "kid": "Cell, pull the string round. Bulb, can you feel it rub? Now one person drops the string. What does the bulb feel?",
      "parent": "The bulb feels the string move at the same moment the cell starts pulling, even though no part of the string moved far. The rubbing on the bulb's hands is like the filament getting hot. When someone drops the string, the cell can no longer pull it round, and the bulb feels nothing. That is a broken circuit."
@@ -1756,7 +1756,7 @@
      "mins": 3,
      "do": "Talk about what the model shows and what it does not.",
      "say": "Did the string get used up in the bulb's hands? What did the cell use up, pulling it round?",
-     "kid": "Was the string used up? What did the cell use up?",
+     "kid": "Did the string get used up? Think about who got tired.",
      "check": {
       "t": "mcq",
       "q": "In the string model, what is the cell using up?",
@@ -1834,12 +1834,12 @@
      "what": "Fix the bulb in the roof and the switch on the outside wall. Join the circuit and test it."
     }
    ],
-   "record": "Draw the circuit plan before you build it. After building, write what you changed and why.",
+   "record": "Draw the circuit plan before you build it, or lay out the parts and take a photo. After building, write what you changed and why.",
    "flow": [
     {
      "id": "s1",
      "mins": 25,
-     "do": "1. Turn the shoebox on its side to make a room. 2. Decorate it with paper: a kolam on the floor, a window, a bed. 3. Draw a plan of the circuit. Show the cell, the switch, the bulb and the wires joining them in a loop.",
+     "do": "1. Turn the shoebox on its side to make a room. 2. Decorate it with paper: a kolam on the floor, a window, a bed. 3. Draw a plan of the circuit, or lay the real parts on the table. Show the cell, the switch, the bulb and the wires joining them in a loop.",
      "say": "We are going to light up a room, like a real electrician. Electricians draw a plan first. Where will the light go? Where will the switch be?",
      "kid": "Make a room in a shoebox. Draw a plan. Where do the bulb, switch and cell go?",
      "context": "This is the first day of a 2-day project. You decorate a shoebox room, then wire a real light and switch into it."
@@ -1848,7 +1848,7 @@
      "id": "s2",
      "mins": 25,
      "do": "1. Make a small hole in the roof and push the bulb holder's wires through. 2. Fix the switch on the outside wall with tape. 3. Join the cell, the switch and the bulb in one loop. 4. Test it, find any gaps and fix them.",
-     "say": "Now we follow the plan. If it doesn't light, we hunt for the gap, the way Kavya did with the torch in the story.",
+     "say": "Now we follow the plan. If it doesn't light, we hunt for the gap.",
      "kid": "Fix the bulb in the roof. Put the switch outside. Join the loop. Does it light?",
      "adult": true,
      "wait": "Day 2: build and test the circuit.",
@@ -1906,14 +1906,14 @@
     "Use two paths, a wide one for younger children and a narrow one for experts.",
     "Count the flashes as penalty points."
    ],
-   "your_turn": "Now design your own steady hand game. Draw it, build it, and challenge your family.",
+   "your_turn": "Now design your own steady hand game. Plan it, build it, and challenge your family.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Look at the problem together and draw two ideas.",
-     "say": "When the wand touches the path, the bulb must light. So the wand and the path are two ends of a gap. Let's draw two ideas.",
-     "kid": "The wand and the path are the two ends of a gap. Draw two ideas.",
+     "do": "Look at the problem together and talk about two ideas for the path, or sketch them.",
+     "say": "When the wand touches the path, the bulb must light. So the wand and the path are two ends of a gap. What two shapes could the path have?",
+     "kid": "The wand and the path are the two ends of a gap. Think of two shapes for the path.",
      "context": "This is an engineering challenge. You build a game that lights a bulb when your hand shakes."
     },
     {

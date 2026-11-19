@@ -271,7 +271,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - **s2 (3 min)**  
   *Parent does:* Play one practice round with the cards face up. Pick a 3 and a 1 for one side, and a 2 and a 2 for the other.  
   *Parent says:* One side has a 3 and a 1. That makes 4. The other side has a 2 and a 2. That also makes 4. Which way does the rope go?  
-  *Child mode:* Practice round. One side has arrows 3 and 1. The other has 2 and 2. Which way does the rope go?
+  *Child mode:* Practice round. One side has arrows 3 and 1. The other has 2 and 2. Add up each side.
   - Ask: Why doesn't the rope move? (good: Both sides pull 4.; The pulls are balanced. They cancel out.)
   - Check: One side pulls with arrows of 3 and 1. The other side pulls with 2 and 2. What happens? → **The rope stays still, because 4 and 4 are balanced**
 - **s3 (10 min)**  
@@ -280,9 +280,9 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Child mode:* Turn your cards over. Add up your arrows. Take away the smaller total. Move the marker that many squares.
   - Note: The game practises two big ideas. Pulls the same way add up. Pulls opposite ways take away from each other. Notice the PUSH THE GROUND card. It is a reminder that tug of war is won by pushing the ground with your feet. If your child says 'it's balanced' for equal totals, praise that word.
 - **s4 (2 min)**  
-  *Parent does:* After a few rounds, ask your child to draw the last round on paper, with one arrow for each team.  
-  *Parent says:* Draw the last round on paper. Draw each team's total as one arrow. Make the arrow as many centimetres long as the total.  
-  *Child mode:* Draw the last round. Draw one arrow for each team. Make each arrow as long as its total, in centimetres.
+  *Parent does:* After a few rounds, ask your child to lay out the last round. Each team's arrow cards go end to end in a row.  
+  *Parent says:* Lay out the last round. Put each team's arrow cards end to end in a row. Which row is longer?  
+  *Child mode:* Lay each team's arrow cards end to end in a row. Which row is longer, and by how much?
   - Note: Good answers: a heavy almirah, a sofa or a stuck cart. Two people's pushes add up to a bigger push than one person's.
   - Think: Two short arrows the same way can add up to more than one long arrow. Is there something at home that two people can push, but one cannot?
 - **s5 (2 min)**  
@@ -308,7 +308,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   - Note: Some cards have more than one good answer. Brushing teeth is a push and a pull, back and forth. Pounding rice with a pestle is a push down and a pull back up. Rowing is a pull on the oar, which pushes the water back. Reward good reasons, not only the expected answer.
 - **s3 (4 min)**  
   *Parent does:* When a BONUS card comes up, act it out with your whole body. Then decide: touching force, or force from far away?  
-  *Parent says:* Nobody's hands make this force. Is it a touching force, or does it work from far away?  
+  *Parent says:* Think about this force. Does something have to touch for it to work, or can it work from far away?  
   *Child mode:* A BONUS card! Act it out with your whole body. Then say: does this force touch, or work from far away?
   - Note: Forces from far away on the cards: the magnet, the falling mango, the rubbed balloon and the Moon pulling the sea. Sunlight pushing a comet's tail is a good one to argue about. The light touches the tail, but it has come all the way from the Sun.
   - Check: A pin jumps up to a magnet before they touch. What kind of force pulled it? → **A force from far away**
@@ -326,12 +326,12 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - **predict:** Guess first. You sit on a towel on a smooth floor, with your feet against the wall. You push the wall with your feet. Will you move? Which way? Will a hard push send you further than a gentle push? Why do you think so?
 - **fair test:** Change only how hard you push: gentle, medium and hard. Keep the same towel, the same floor and the same starting place against the wall. Try each push 3 times, because one try can be a fluke.
 - **safety:** Clear the floor behind you of furniture and anything sharp, because you slide backwards.
-- **record:** Fill in the table. Draw yourself pushing the wall, with one arrow for your push on the wall and one arrow for the wall's push on you.
+- **record:** Fill in the table. Then draw yourself pushing the wall, with one arrow for your push on the wall and one for the wall's push on you. Or take a photo of your tape strips and tell your grown-up what each one shows.
 - **results table:** How hard the push was | Try 1: distance slid (cm) | Try 2 (cm) | Try 3 (cm) | Middle value (cm)
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Clear a space on a smooth floor next to a wall. 2. Fold the towel and put it against the wall. 3. Your child sits on it, knees bent, feet flat on the wall.  
   *Parent says:* You're going to push the wall with your feet. The wall is very heavy and fixed to the house. Do you think you'll move? Which way?  
-  *Child mode:* Fetch a grown-up. Sit on a towel by the wall. Put your feet flat on the wall. Will you move when you push?
+  *Child mode:* Fetch a grown-up. Sit on a towel by the wall. Put your feet flat on the wall.
   - Ask: What do you think will happen when you push? (good: I'll slide away from the wall.; The wall won't move, but I will.)
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* 1. Mark the floor at the back edge of the towel. 2. Your child pushes the wall gently with both feet. 3. Mark where the back edge of the towel stops. 4. Measure between the two marks. 5. Do it 3 times each for a gentle, a medium and a hard push.  
@@ -339,15 +339,15 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Child mode:* Push gently. Mark where the towel stops. Measure from the first mark. Then push medium, then hard. Do each push 3 times.
   - Note: Measure from the starting mark, not from the wall, so you count only how far your child moved. A towel on tiles grips a little, so the slide may be short. A flattened cardboard box slides further. Use the same one for every push. To find the middle value, put the three numbers in order and take the middle one.
 - **s3 (4 min)**  
-  *Parent does:* Talk about what pushed your child.  
+  *Parent does:* Ask your child what pushed them away from the wall. Let them answer before you say anything.  
   *Parent says:* You pushed the wall, but you moved away from it. What pushed you?  
-  *Child mode:* You pushed the wall. But you moved away from it. What pushed you?
+  *Child mode:* Think about what you did to the wall, and what happened to you.
   - Note: Wait for your child's answer before you explain. Then explain that this is a force pair. Your child pushed the wall, and the wall pushed back on your child, just as hard, the opposite way. The only thing touching their feet was the wall. The wall does not move because it is fixed to the whole house and the Earth.
   - Check: You push a wall with your feet and slide away from it. What pushed you? → **The wall pushed you back**
 - **s4 (4 min)**  
-  *Parent does:* Help your child draw two arrows of the same length. One goes on the wall, pointing into the wall. The other goes on your child, pointing away from the wall.  
-  *Parent says:* Draw your push on the wall as an arrow. Now draw the wall's push on you. Should the arrows be the same length?  
-  *Child mode:* Draw an arrow for your push on the wall. Draw an arrow for the wall's push on you. Make them the same length.
+  *Parent does:* Help your child lay two strips of tape on the floor, the same length, pointing opposite ways. One strip is the push on the wall. The other is the wall's push on your child.  
+  *Parent says:* This strip is your push on the wall. This strip is the wall's push on you. Should the two strips be the same length?  
+  *Child mode:* Lay a tape strip for your push on the wall. Lay another for the wall's push on you. Make them the same length.
   - Note: Yes. The wall pushes back exactly as hard as you push it. A harder push on the wall gives a harder push on you, so you slide further.
   - Think: A harder push on the wall sent you further. So did the wall push you harder too?
 - **s5 (4 min)**  
@@ -361,7 +361,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - **predict:** Guess first. When the air rushes out of the balloon's neck, will the balloon go the same way as the air, or the opposite way? Will a balloon with 9 breaths go further than one with 3 breaths? Why do you think so?
 - **fair test:** Change only the number of breaths: 3, then 6, then 9. Blow breaths of the same size. Use the same balloon, the same string and the same starting place. Try each one 3 times, because one try can be a fluke.
 - **safety:** Young children can choke on balloons and burst pieces, so throw burst pieces away at once. A grown-up blows up the balloon if the child finds it hard.
-- **record:** Fill in the table. Draw the balloon with two arrows: one for the air pushed out backwards, and one for the push on the balloon.
+- **record:** Fill in the table. Then draw the balloon with two arrows: one for the air pushed out backwards, and one for the push on the balloon. Or tell your grown-up where each push goes.
 - **results table:** Breaths of air | Try 1: distance (cm) | Try 2 (cm) | Try 3 (cm) | Middle value (cm)
 - **s1 (5 min)**  
   *Parent does:* 1. Thread the string through the straw. 2. Tie each end of the string to a chair. 3. Pull the chairs apart until the string is tight.  
@@ -370,7 +370,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - **s2 (6 min)**  
   *Parent does:* 1. Tape the empty balloon under the straw, with its neck sticking out past the back of the straw. 2. Slide the straw to the chair at the start, so the neck points at that chair. 3. Blow 3 breaths of the same size into the balloon. 4. Pinch the neck shut. Do not tie it.  
   *Parent says:* Three breaths only. Hold the neck shut. Which way will the air rush out? Which way will the balloon go? Why do you think so?  
-  *Child mode:* Tape the empty balloon under the straw. Blow 3 breaths. Pinch the neck. Which way will it go?
+  *Child mode:* Tape the empty balloon under the straw. Blow 3 breaths. Pinch the neck shut.
   - Ask: Which way will the balloon go when you let go? (good: The opposite way to the air.; Away from the neck.)
   - Note: If the tape lets go when the balloon swells, tape it again. A grown-up can also tape the blown-up balloon while the child pinches the neck.
 - **s3 (12 min)**  
@@ -381,8 +381,8 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   - Check: The air rushes out of the balloon's neck backwards. Which way does the balloon go? → **Forwards, the opposite way to the air**
 - **s4 (4 min)**  
   *Parent does:* Compare the three distances.  
-  *Parent says:* Which went furthest? Why do you think more air made it go further?  
-  *Child mode:* Which balloon went furthest? Why do you think so?
+  *Parent says:* Which try went furthest: 3, 6 or 9 breaths? Why do you think so?  
+  *Child mode:* Look at your three distances. Which one is the biggest?
   - Note: Both are partly true. A fuller balloon squeezes the air harder at first, and it also has more air to push out, so it pushes for longer. You could time how long each balloon hisses.
   - Think: The balloon with more air went further. Does it push harder, or does it push for longer? How could you find out?
 - **s5 (3 min)**  
@@ -396,28 +396,28 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - **predict:** Guess first. If you blow on a ping-pong ball from one side, which way will it go? What will happen if two people blow from opposite sides, equally hard? What if they blow from two sides next to each other, such as the bottom and the left? Why do you think so?
 - **fair test:** Use the same ball and the same tray each time. Blow from about the same distance, about one hand-width away, and about as hard. Change only where you blow from.
 - **safety:** Each person uses their own straw. Stop and rest if you feel dizzy.
-- **record:** For each test, draw the tray from above. Draw an arrow for each blow and an arrow for the way the ball went.
+- **record:** For each test, write which way you blew and which way the ball went. Then draw one tray from above for your favourite test, with an arrow for each blow and one for the ball. Or point and tell your grown-up.
 - **results table:** Who blew, and from where | Which way the ball rolled
 - **s1 (4 min)**  
   *Parent does:* 1. Put the ball in the middle of the tray. 2. Your child blows through a straw from the bottom edge of the tray, about one hand-width from the ball.  
-  *Parent says:* Blow through your straw from this side. Which way does the ball go? Draw an arrow for your blow and an arrow for the ball.  
+  *Parent says:* Blow through your straw from this side. Which way does the ball go? Point your arm the way you blew, then the way the ball went.  
   *Child mode:* Put the ball in the middle. Blow through the straw from one side. Which way does the ball go?
 - **s2 (5 min)**  
   *Parent does:* 1. Put the ball back in the middle. 2. You and your child blow from opposite edges at the same moment, equally hard. 3. Then one of you blows harder.  
   *Parent says:* Let's both blow from opposite sides, equally hard. What happens? Now I'll blow harder. Now what?  
-  *Child mode:* Two of you blow from opposite sides at the same moment, equally hard. What happens? Then one of you blows harder.
+  *Child mode:* Blow from opposite sides at the same moment, equally hard. Watch the ball. Then one of you blows harder.
   - Note: Two people rarely blow exactly equally, so the ball may drift a little. Look for it staying near the middle.
   - Check: Two people blow on the ball from opposite sides, equally hard. What happens? → **The ball stays about where it is, because the pushes balance**
 - **s3 (6 min)**  
   *Parent does:* 1. Put the ball back in the middle. 2. Your child blows from the bottom edge. You blow from the left edge. Blow at the same moment. 3. Watch the way the ball goes.  
   *Parent says:* Now one blow from the bottom and one from the side. Which way does it go now?  
   *Child mode:* One blow from the bottom. One from the side. Blow together. Which way does the ball go?
-  - Ask: Why did the ball go slantwise, towards the corner? (good: One blow pushed it up and the other pushed it sideways.; The two pushes added up into a slanting push.)
+  - Ask: Why did the ball go towards the corner, between the two blows? (good: One blow pushed it up and the other pushed it sideways.; The two pushes added up into a slanting push.)
   - Note: Two pushes from sides next to each other add up to a slanting push, between the two. Scientists call this adding vectors. The ball goes towards the corner opposite both blowers. Do not worry if it is not exact. Breath is never perfectly steady.
 - **s4 (2 min)**  
-  *Parent does:* Look at all the arrow drawings together.  
-  *Parent says:* Look at your arrows. Was the push ever pointing one way while the ball went another?  
-  *Child mode:* Look at your arrows. Did the ball always go where the pushes pointed?
+  *Parent does:* Look back over the three tests together, using the notes your child made.  
+  *Parent says:* Look at your notes. Did the ball ever go a different way from the way you blew?  
+  *Child mode:* Look at your notes. Did the ball always go the way you blew?
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -449,7 +449,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 ### a2 · Gentle Tug of War, with arrows (20 min)
 - **problem:** In a tug of war, the rope pulls both teams equally hard. So what decides who wins? You will play a gentle tug of war with a grown-up, and then draw it with arrows.
 - **safety:** Play barefoot on a floor that does not slip, with cushions behind each player. Never wrap the rope round hands, wrists or necks. The grown-up pulls gently and never lets go suddenly.
-- **record:** Draw one round of the tug of war. Draw an arrow for each team's pull, and an arrow for the ground's push on each team's feet.
+- **record:** Draw one round of the tug of war. Draw an arrow for each team's pull, and an arrow for the ground's push on each team's feet. Or take a photo of your tape arrows and tell your grown-up what each one shows.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Lay the rope on the floor. 2. Tie the ribbon on the middle. 3. Put a strip of tape or a stick on the floor under the ribbon. 4. Put cushions behind each player.  
   *Parent says:* This is a gentle tug of war. The ribbon shows the middle of the rope. If the ribbon crosses to your side, you win.  
@@ -457,7 +457,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Round 1: both of you stand tall and pull with your arms only. 2. Round 2: your child crouches low, leans back and digs their heels in. Keep your own pull the same.  
   *Parent says:* First round, stand tall and pull with your arms. Second round, crouch low and push your heels into the floor. Which felt stronger? Why do you think so?  
-  *Child mode:* Round 1: stand tall, pull with your arms. Round 2: crouch low. Push your heels into the ground. Which was stronger?
+  *Child mode:* Round 1: stand tall, pull with your arms. Round 2: crouch low. Push your heels into the ground.
   - Ask: Which way felt stronger, and why do you think so? (good: Crouching. My feet pushed the floor, and the floor pushed me back.; Crouching, because I could push the floor harder.)
   - Note: The rope pulls both of you equally hard. What changes is how hard each of you pushes the ground. Crouching low lets you push the ground towards the middle with your heels. The ground pushes you back, away from the middle.
 - **s3 (4 min)**  
@@ -466,14 +466,14 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Child mode:* Pull so nobody moves. Now push palms together equally. Is there a force, even when nothing moves?
   - Check: In a tug of war, the rope is not moving. What is true? → **Both sides are pulling equally, so the forces are balanced**
 - **s4 (7 min)**  
-  *Parent does:* Help your child draw the tug of war. For each person's pull on the rope, draw one arrow along the rope, pointing away from the middle. Draw one short arrow under each person's feet for the ground's push.  
-  *Parent says:* Draw each pull as an arrow along the rope. Now, under each person, draw the ground pushing them back. Which way does that arrow point?  
-  *Child mode:* Draw each pull as an arrow on the rope. Under each person, draw the ground's push. Which way does it point?
+  *Parent does:* Help your child lay strips of tape on the floor as arrows. For each person's pull on the rope, lay one strip along the rope, pointing away from the middle. Lay one short strip under each person's feet for the ground's push.  
+  *Parent says:* Lay a strip along the rope for each pull. Now, under each person, lay a strip for the ground's push. Which way should it point?  
+  *Child mode:* Lay a tape strip along the rope for each pull. Under each person, lay one for the ground's push. Which way does it point?
   - Note: The push of the ground. The team that pushes the ground harder with their feet gets the bigger push back from the ground, and wins.
   - Think: If the rope pulls both teams equally, what really decides who wins?
 ### a3 · The Bending Ruler: forces when nothing moves (15 min)
 - **problem:** A book lying on a table does not move, so it seems that no force acts on it. You will lay a ruler across two tins and put a book on it, and watch the ruler bend. The bend shows a push that you cannot normally see.
-- **record:** Draw the book on the ruler with two arrows: gravity pulling down and the ruler pushing up. Make them the same length.
+- **record:** Draw the book on the ruler with two arrows of the same length: gravity pulling down and the ruler pushing up. Or tell your grown-up where each arrow would go.
 - **s1 (3 min)**  
   *Parent does:* Point at a book lying still on the table.  
   *Parent says:* This book is not moving. Are there any forces on it?  
@@ -490,9 +490,9 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Child mode:* Press a sponge. Press a cushion. Press the table. Which squashes least?
   - Check: A book lies still on a table. Which forces are on it? → **Gravity pulling down, and the table pushing up just as hard**
 - **s4 (4 min)**  
-  *Parent does:* Your child draws the book with two arrows of the same length, one down and one up.  
-  *Parent says:* Draw gravity pulling the book down. Draw the table pushing it up. Should the two arrows be the same length or different?  
-  *Child mode:* Draw gravity pulling down. Draw the table pushing up. Make them the same length. They balance!
+  *Parent does:* Your child holds the book flat on one open hand, keeping it still. Then they point down for gravity, and up for the push of the hand.  
+  *Parent says:* Your hand is the table. Hold the book still. Point the way gravity pulls the book. Now point the way your hand pushes it. Are the two forces the same size?  
+  *Child mode:* Hold the book still on your hand. Point down for gravity. Point up for your hand. The two forces balance!
   - Note: Down. With nothing pushing up, gravity would pull you down, just as it pulls a ball that rolls off a table.
   - Think: If the floor stopped pushing up on you, where would gravity pull you?
 ### a4 · Forces From Far Away (20 min)
@@ -523,7 +523,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 ### a5 · Muscles Only Pull: build a cardboard arm (25 min)
 - **problem:** A muscle can only pull, and can never push. You will feel your own arm muscles pull, and then build a cardboard arm with two strings for muscles.
 - **safety:** A grown-up makes the hole in the cardboard with a pencil point or a skewer.
-- **record:** Draw your cardboard arm bent and straight. Draw an arrow on the string that is pulling each time.
+- **record:** Draw your cardboard arm bent and straight, with an arrow on the string that is pulling each time. Or take two photos and tell your grown-up which string pulled each time.
 - **s1 (6 min)**  
   *Parent does:* 1. Your child puts their left hand on the front of their right upper arm. 2. They bend and straighten the right elbow slowly. 3. Then they hold the back of the upper arm and do it again.  
   *Parent says:* Feel the front of your arm as you bend it. It gets fat and hard. That muscle is pulling. Now feel the back as you straighten.  
@@ -547,7 +547,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 ### a6 · Push and Pull Dance and Partner Yoga (15 min)
 - **problem:** When two forces are equal and point opposite ways, they balance and nothing moves. You will feel balanced pushes and pulls in your own body, using dance and partner poses.
 - **safety:** Move slowly. Partners hold wrists, not fingers. Let go gently, never suddenly, so nobody falls.
-- **record:** Draw your favourite partner pose, with arrows for each pull or push.
+- **record:** Draw your favourite partner pose, with arrows for each pull or push. Or tell your grown-up which way each person pushes or pulls.
 - **s1 (5 min)**  
   *Parent does:* Play music and call out a force. Your child dances it. Try a slow pull, a sudden push, a twist, and a pull from an invisible magnet.  
   *Parent says:* Dance a slow, heavy pull. Now a sudden push! Now a twist. Now be pulled by an invisible magnet.  
@@ -566,32 +566,32 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   - Think: In the boat pose, which way does each of you pull? What would happen to your partner if you let go?
 ### a7 · Arrow Spotting: six forces drawn as arrows (20 min)
 - **problem:** Every force can be drawn as an arrow. You will spot six pushes and pulls around you and draw each one as an arrow.
-- **record:** Make a page of six small drawings or photos. On each one, draw an arrow for the force, and write what it is.
+- **record:** Make a page of six photos or small drawings. Mark the force on each with an arrow, and write what it is.
 - **s1 (3 min)**  
-  *Parent does:* Explain the job: spot six forces around the home, and draw each one with an arrow.  
-  *Parent says:* Today you're a force spotter. Find six pushes or pulls around the home. Draw each one, with an arrow.  
-  *Child mode:* You are a force spotter! Find six pushes or pulls around the home. Draw each one with an arrow.
+  *Parent does:* Explain the job: spot six forces around the home, and show each one with an arrow.  
+  *Parent says:* Today you're a force spotter. Find six pushes or pulls around the home. Take a photo of each, or draw it.  
+  *Child mode:* You are a force spotter! Find six pushes or pulls around the home. Take a photo of each, or draw it.
 - **s2 (14 min) · grown-up needed**  
-  *Parent does:* Walk round the home and help your child spot and draw six forces. Try a door, a ceiling fan, a broom, a drawer, a hanging bag and a curtain moved by the wind. Give the three arrow rules for each one. Start the arrow on the thing. Point it the way of the force. Make it longer for a bigger force.  
+  *Parent does:* Walk round the home and help your child spot six forces. Mark each one with an arrow: lay a pencil on the thing, or draw it. Try a door, a ceiling fan, a broom, a drawer, a hanging bag and a curtain moved by the wind. Give the three arrow rules for each one. Start the arrow on the thing. Point it the way of the force. Make it longer for a bigger force.  
   *Parent says:* Remember the rules. Start the arrow on the thing. Point it the way of the force. Make it longer for a bigger force.  
   *Child mode:* Start your arrow on the thing. Point it the way of the force. Make it longer for a bigger force.
   - Note: Good finds include wind pushing washing on a line, and a hanging bag with gravity pulling it down and the strap pulling it up. A leaf falling outside the window has gravity pulling it down and the air pushing it up.
 - **s3 (3 min)**  
-  *Parent does:* Look at the six drawings together.  
-  *Parent says:* Which force was the biggest? Which drawing has the longest arrow?  
-  *Child mode:* Which force was biggest? Does it have your longest arrow?
+  *Parent does:* Look at the six arrows together.  
+  *Parent says:* Which force was the biggest? Which one has the longest arrow?  
+  *Child mode:* Look at your six arrows. Find the longest one.
   - Check: You draw a gentle push and a hard push on a box. How should the arrows look? → **The hard push has a longer arrow**
 
 ## Projects
 ### p1 · Build a Balloon-Powered Car (60 min, 2 days)
 - **problem:** A balloon rocket pushes air backwards, and the air pushes the rocket forwards. You will use the same idea to build a small car from card, bottle caps and skewers, with a balloon on top. Then you will improve it.
 - **safety:** Only a grown-up makes holes in the bottle caps and cuts skewers. Skewers have sharp points, so a grown-up snips the points off first.
-- **record:** Draw your car with arrows: the air pushed backwards and the car pushed forwards. Write the distance before and after your improvement.
+- **record:** Draw your car with arrows: the air pushed backwards and the car pushed forwards. Or tell your grown-up where each push goes. Write the distance before and after your improvement.
 - **schedule:** day 1: Build the car body, axles and wheels. Fix on the balloon. (35 min); day 2: Race the car. Measure how far it goes. Improve it and race again. (25 min)
 - **s1 (5 min)**  
   *Parent does:* Remind your child of the Balloon Rocket experiment, where a balloon slid along a string. Ask how a balloon could push a car.  
   *Parent says:* Remember the balloon rocket on the string? It pushed air backwards, and the air pushed it forwards. Could a balloon push a car?  
-  *Child mode:* Remember the balloon rocket? Air went back, the balloon went forward. Can a balloon push a car?
+  *Child mode:* Think about the balloon rocket. How could a balloon push a car?
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* 1. A grown-up makes a hole in the middle of each cap and snips the skewer points. 2. Tape two straws across the bottom of the card, one at each end. 3. Push a skewer through each straw. 4. Push a cap on each end of each skewer.  
   *Parent says:* The straws let the axles spin freely. Give the car a little push. Does it roll straight?  
@@ -599,7 +599,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   - Note: If the car does not roll, the axles may be rubbing. Make the straw holes wider, or check that the caps are pushed on straight.
 - **s3 (10 min)**  
   *Parent does:* 1. Put the balloon's neck over one end of the third straw and fix it with a rubber band. 2. Tape the straw on top of the car, with the free end sticking out of the back.  
-  *Parent says:* Which way must the straw point, so the car goes forwards?  
+  *Parent says:* Think about the balloon rocket. Where should the straw point?  
   *Child mode:* Fix the balloon to a straw with a rubber band. Tape it on top. Point the straw out of the back.
   - Check: The balloon car should go forwards. Which way must the air rush out? → **Backwards**
   - Wait: Leave the car somewhere safe until tomorrow.
@@ -617,7 +617,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 ## Challenges
 ### c1 · Move It Without Touching (25 min)
 - **problem:** A ping-pong ball sits at one end of a table. Your job is to get it into a cup at the other end without touching it with your body.
-- **your turn:** Now invent your own way. Draw it with arrows for every push and pull. Then try it.
+- **your turn:** Now invent your own way. Say what pushes or pulls the ball at each step, or draw it with arrows. Then try it.
 - **constraints:** You may not touch the ball with any part of your body.; You may not tip the table.; You may use anything from home, except a grown-up's hands.
 - **general:** Blow on it through a straw, so your breath pushes it.; Wave a magazine to push air at it.; Build a slope with a book, so gravity pulls it down into the cup.
 - **creative:** Tape a steel paper clip to the ball. Then a magnet can pull it from far away.; Rub a balloon on your hair and try to roll the ball with its electric pull. This works only a little, and only on a dry day.; Roll a second ball into it, so one ball pushes the other.; Build a ramp with walls made of books. The walls push the ball and steer it.
@@ -628,7 +628,7 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - **s2 (5 min)**  
   *Parent does:* Before trying anything, list three ideas. For each idea, say what pushes or pulls the ball.  
   *Parent says:* Engineers plan before they build. Tell me three ideas. What is the force in each?  
-  *Child mode:* Plan first. Draw three ideas. For each one, say what pushes or pulls the ball.
+  *Child mode:* Plan first. Tell your grown-up three ideas. For each one, say what pushes or pulls the ball.
 - **s3 (10 min)**  
   *Parent does:* Try each idea. Time how long each one takes to get the ball into the cup.  
   *Parent says:* Which idea worked best? Was it a touching force or a force from far away?  
@@ -637,12 +637,12 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
 - **s4 (5 min)**  
   *Parent does:* Read the usual and the creative ideas. Then invent a new one.  
   *Parent says:* Here are some other ideas. Can you invent one nobody has thought of?  
-  *Child mode:* Look at the other ideas. Now invent a brand-new way. Draw it with arrows.
+  *Child mode:* Look at the other ideas. Now invent a brand-new way. Build it, or tell your grown-up how it would work.
   - Note: It is a touching force. Moving air is made of tiny molecules, and they hit the ball. You cannot see them, but they do touch it.
   - Think: Air touches the ball when you blow. Is that a touching force or not?
 ### c2 · The Marble Bend (25 min)
 - **problem:** Roll a marble from one corner of a tray so it turns a corner and ends in a cup at the other corner. You may only give it one push at the start.
-- **your turn:** Draw your path from above. Draw an arrow at each place where something pushes the marble. Then build it and test it.
+- **your turn:** Plan your path from above. Draw an arrow at each place where something pushes the marble, or lay card strips and point. Then build it and test it.
 - **constraints:** Only one push, at the start.; The marble must turn at least one corner.; Build the path with books, card, tape and blocks. A second marble or a magnet is allowed for the creative ideas.
 - **general:** Put a book as a wall at the corner. When the marble hits it, the wall pushes it in a new direction.; Bend a strip of card into a curved wall, so it pushes the marble round gently.; Tilt the tray slightly so gravity keeps the marble rolling.
 - **creative:** Make the marble bounce off two walls, like a carrom coin off the edges of the board.; Put a second marble at the corner. The first marble hits it and sends it on.; If you have a steel ball instead of a marble, lay a magnet under the tray at the corner to pull it round.
@@ -651,9 +651,9 @@ Tonight I am back in the storeroom, coiled in the dark, smelling of mud and coco
   *Parent says:* A rolling marble goes straight unless something pushes it sideways. How will you make it turn?  
   *Child mode:* A rolling marble goes straight. What could push it round a corner?
 - **s2 (6 min)**  
-  *Parent does:* Your child draws the path from above, with an arrow for each wall's push.  
-  *Parent says:* Draw your path first. At each wall, draw the wall's push on the marble. Which way does it point?  
-  *Child mode:* Draw your path from above. At each wall, draw an arrow for its push.
+  *Parent does:* Your child plans the path from above. They draw it with an arrow for each wall's push, or lay card strips along it and point at each wall.  
+  *Parent says:* Plan your path first. At each wall, show the wall's push on the marble. Which way does it point?  
+  *Child mode:* Plan your path from above. Draw it, or lay card strips along it. At each wall, show its push with an arrow or your finger.
   - Note: A wall pushes straight out from its surface. A marble hitting a wall at a slant bounces off at a slant, like a carrom coin.
 - **s3 (10 min)**  
   *Parent does:* Build the path and test it. Change one wall at a time until it works.  

@@ -196,18 +196,18 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - **Printable score sheet: Score sheet:** Player name; Points from guessing; Points from being guessed; Total
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Read the rules together. 3. Play one practice turn where the grown-up is 'a crow at a window'. The child reads the first question card.  
-  *Parent says:* I am going to be someone secret. Ask me a question card, and I will answer the way they would. Ready? 'What can you see right now?' I see a girl eating a dosa, and I want the last piece.  
-  *Child mode:* The grown-up is someone secret. Read a question card to them. Who are they?
+  *Parent says:* I am someone secret. Ask me the first question card, and I will answer the way they would. 'I see a girl eating a dosa, and I want the last piece.' Who am I?  
+  *Child mode:* Read the first question card to the grown-up. Then guess who they are.
 - **s2 (14 min)**  
   *Parent does:* Play the game. Each player takes two turns.  
-  *Parent says:* Answer the way the one on your card would. Say what they would say, not what you would say.  
+  *Parent says:* Say what they would say, not what you would say.  
   *Child mode:* Take an 'I am' card. Answer each question the way the one on your card would.
   - Note: If a child holding the crow card answers as themselves ('I like ice cream'), ask, 'Would a crow say that? What does a crow want?' Answers that show a real point of view, such as an ant saying 'Feet are like falling buildings', are the best part of the game.
   - Check: Your card says 'a baby of one year'. Someone asks 'What do big people look like to you?' Which answer is from the baby's point of view? → **Like giants, and I mostly see their knees**
 - **s3 (3 min)**  
-  *Parent does:* Finish and talk about the game.  
-  *Parent says:* Whose card was the hardest to be? Why?  
-  *Child mode:* Which card was hardest to be? Why?
+  *Parent does:* Add up the points on the score sheet. Then talk about the game.  
+  *Parent says:* Who won? Which card was hardest to be? Why?  
+  *Child mode:* Say what made your hardest card hard.
   - Note: No. We can learn a lot by watching what a crow does and what is in its view. But we cannot be sure what it feels. Scientists still argue about how much animals understand of what others see.
   - Think: Can you ever know for sure what a crow sees and wants?
 
@@ -216,7 +216,7 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - **question:** Sitting in your own chair, can you draw what a person in another chair sees on the table?
 - **predict:** Before you draw, guess. Will the person opposite see the lime? Will the banana be on their left or their right? Why do you think so?
 - **fair test:** Keep the tumbler, the banana and the lime in exactly the same places all through the test. Draw each view while sitting in your own chair, without getting up or leaning. Check each drawing against a photo taken from that seat at sitting eye height. Only the seat changes.
-- **record:** Fill in the table. Stick or draw the photos next to your drawings, and circle anything that came out different. If you have no phone, go and sit in that chair yourself, then draw what you saw from there.
+- **record:** Fill in the table. Stick the photos next to your drawings, and circle anything that came out different. If you have no phone, go and sit in that chair yourself, then draw what you saw from there.
 - **results table:** Seat | My drawing: what is on the left? | Photo: what is on the left? | My drawing: what is hidden? | Photo: what is hidden? | Right or not?
 - **s1 (4 min)**  
   *Parent does:* 1. Put the tumbler in the middle of the table. 2. Put the banana to the right of the tumbler, as your child sees it from their chair. 3. Put the lime close behind the tumbler on the far side, so your child cannot see it.  
@@ -224,15 +224,15 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
   *Child mode:* Sit in your chair. Look at the table. Can you see the lime? The tumbler hides it.
   - Note: Use a tumbler taller than the lime, and put the lime right against it, so it is fully hidden from your child's seat. You sit opposite the child. The seat on your child's right stays empty for now.
 - **s2 (4 min)**  
-  *Parent does:* Ask your child to draw just what they see from their own chair. Write 'My seat' on it.  
-  *Parent says:* Draw only what you can see from where you sit, not what you know is there.  
-  *Child mode:* Draw what you see from your chair. Only what you can see.
-  - Note: This first drawing is a warm-up. Many children add the lime because they know it is there. That is fine. Ask, 'Can you see it right now?'
+  *Parent does:* Ask your child to point to each thing and say if it is in front of, behind or beside the tumbler.  
+  *Parent says:* Tell me only what you can see from where you sit, not what you know is there.  
+  *Child mode:* Point to each thing you can see. Say where it is.
+  - Note: This first look is a warm-up. Many children name the lime because they know it is there. That is fine. Ask, 'Can you see it right now?'
 - **s3 (6 min)**  
   *Parent does:* 1. Sit opposite your child. 2. Ask them to draw what you see from your chair, without getting up. 3. Ask the two prediction questions and write the answers in the table.  
-  *Parent says:* Now draw what I can see from my chair. Stay in your seat. Will I see the lime? Will the banana be on my left or my right? Why do you think so?  
-  *Child mode:* Stay in your chair. Draw what the grown-up opposite you sees. Will they see the lime? Why?
-  - Ask: Why do you think I can see the lime? (good: Because the tumbler is between me and the lime, but not between you and the lime.; Because the lime is on your side.)
+  *Parent says:* Now draw what I can see from my chair. Stay in your seat. Will the banana be on my left or my right?  
+  *Child mode:* Stay in your chair. Draw what the grown-up sees, or tell where each thing is.
+  - Ask: Can I see the lime from my chair? Why do you think so? (good: Because the tumbler is between me and the lime, but not between you and the lime.; Because the lime is on your side.)
   - Note: Don't hint. Any guess with a reason is good.
 - **s4 (5 min)**  
   *Parent does:* 1. Hold the phone at your own eye height, sitting in your chair. 2. Take a photo of the table. 3. Put the photo next to your child's drawing. 4. Together, tick or cross: the lime, the banana's side, the tumbler.  
@@ -241,14 +241,14 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
   - Note: Many children get the lime right but put the banana on the wrong side, because left and right swap for someone facing you. Some forget that the banana can hide part of the tumbler from that side. Whatever they find is a real result.
   - Check: A child sits on one side of a table. The banana is on the child's right. Where is it for a grown-up sitting opposite? → **On the grown-up's left**
 - **s5 (7 min)**  
-  *Parent does:* 1. You move to the side seat, on your child's right. 2. Your child stays in their chair and draws what you see from there. 3. Take a photo from the side seat at sitting eye height. 4. Compare again and fill in the table.  
+  *Parent does:* 1. You move to the side seat, on your child's right. 2. Your child stays in their chair and draws what you see from there, or tells you where each thing is. 3. Take a photo from the side seat at sitting eye height. 4. Compare again and fill in the table.  
   *Parent says:* Now the side seat. This is harder. From there, what is in front, and what is behind? Is anything hidden?  
-  *Child mode:* Now draw the view from the side chair, on your right. What is in front?
+  *Child mode:* Picture the side chair, on your right. Draw it, or tell your grown-up what is in front.
   - Note: From the side, the three things may line up differently. The banana may now be in front of the tumbler, or the lime may peep out. Let your child find this from the photo, not from you.
 - **s6 (4 min)**  
   *Parent does:* Talk about the results. Ask your child to say what they found, what showed it, and why they think it happened.  
-  *Parent says:* Which seat was hardest to draw? What did you get wrong, and why do you think it happened? Which drawing shows the real table?  
-  *Child mode:* Which seat was hardest? Why? Which drawing was the real table?
+  *Parent says:* Which seat was hardest? What did you get wrong, and why do you think it happened?  
+  *Child mode:* Which seat was hardest? Why?
   - Ask: Which drawing shows the real table? (good: All of them show the real table, from different places.; None shows all of it. You need the photos together to know where everything is.)
   - Note: No. From any one seat, some sides of the tumbler are hidden. You need views from several seats to know the whole table.
   - Think: Is there any one place you could sit and see every side of the tumbler at once?
@@ -265,40 +265,40 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
   - Note: A rough hole is fine. It should be small enough that only the clock shows through it.
 - **s2 (3 min)**  
   *Parent does:* Ask everyone to guess which eye they will use, and why. Write the guesses down.  
-  *Parent says:* Before we test, guess. Which eye do you think you use first? Will it match the hand you write with? Why do you think so?  
+  *Parent says:* Before we test, guess. Will it match the hand you write with?  
   *Child mode:* Guess which eye you use first: left or right? Why do you think so?
   - Note: Let each person guess. Many people guess it matches their writing hand. This is often true, but not always.
 - **s3 (8 min)**  
   *Parent does:* 1. Hold the paper at arm's length with both hands. 2. With both eyes open, look through the hole at the clock. 3. Keep still and close the left eye. If the clock stays in the hole, the right eye is the dominant eye. 4. Open the left eye, and close the right eye. If the clock stays in the hole now, the left eye is the dominant one. 5. Do it three times for each person.  
-  *Parent says:* Look through the hole at the clock, with both eyes open. Now close one eye. Did the clock jump out of the hole? Now open that eye and close the other one.  
+  *Parent says:* Look through the hole at the clock, with both eyes open. Now close one eye. Then open it and close the other.  
   *Child mode:* Look at the clock through the hole. Close one eye. Did the clock jump out of the hole?
   - Note: With the dominant eye open, the clock stays in the hole. With only the other eye open, the clock jumps to the side. If a person gets a different eye each try, write 'not clear'. That happens for some people.
   - Check: A person closes the left eye and the clock stays in the hole. Then the person closes the right eye and the clock jumps away. Which is the dominant eye? → **The right eye**
 - **s4 (6 min)**  
   *Parent does:* 1. Ask each person which hand they write with. 2. Fill in the table. 3. Count the right-eyed and left-eyed people. 4. Talk about the pattern.  
-  *Parent says:* Did everyone use the same eye? Did it always match their writing hand? Were you surprised by anyone?  
+  *Parent says:* Did it always match their writing hand? Were you surprised by anyone?  
   *Child mode:* Count the right-eyed people and the left-eyed people. Any surprises?
-  - Ask: We all looked at the same clock. Did we all see it with the same eye first? (good: No, some of us used the left eye and some the right.; Yes in our family, but the hand did not always match.)
+  - Ask: Did we all use the same eye first? (good: No, some of us used the left eye and some the right.; Yes in our family, but the hand did not always match.)
   - Think: If two people don't even aim with the same eye, what else might be different inside them that nobody can see?
 
 ## Activities
 ### a1 · Hide From the Watchmen: Martin Hughes's hiding game (10 min)
-- **record:** Draw the walls from above. Mark each watchman with W and where you hid the toy with a star.
+- **record:** Draw the walls from above, or take a photo from above. Mark each watchman with W and where you hid the toy with a star, or tell a grown-up where they stood.
 - **s1 (3 min)**  
   *Parent does:* 1. Stand two books on a table in a plus shape, making four corners. 2. Put one watchman at the end of one book, facing the middle. 3. Give your child the tiny toy.  
-  *Parent says:* This watchman is looking for the little toy. Hide the little toy where the watchman can't see it.  
-  *Child mode:* Hide the little toy. The watchman must not see it.
+  *Parent says:* This watchman is looking for the little toy. Hide it where he can't see it.  
+  *Child mode:* Pick a corner for the little toy.
   - Note: This is the game Martin Hughes played with children of three and four in Edinburgh in 1975. Your child will very likely find it easy. That is the point: even small children can work out what someone else can see.
 - **s2 (4 min)**  
   *Parent does:* 1. Add a second watchman at the end of the neighbouring book, a quarter turn round from the first watchman. Do not put him at the end opposite the first watchman. 2. Ask your child to hide the toy from both. 3. Ask how they know each watchman can't see it.  
-  *Parent says:* Now there are two watchmen. Find a corner neither of them can see. How do you know?  
-  *Child mode:* Two watchmen now. Find a corner neither can see. How do you know?
+  *Parent says:* Now there are two watchmen, so it is harder. Take your time.  
+  *Child mode:* Find a corner neither watchman can see.
   - Ask: How do you know the watchman can't see that corner? (good: The wall is between the watchman and the corner.; If I put my eye where the watchman is, I can't see it.)
   - Note: Only one corner is hidden from both when the watchmen stand at the ends of two neighbouring books. If your child puts their eye down where the watchman stands to check, that is exactly what scientists do.
 - **s3 (3 min)**  
   *Parent does:* Swap roles. Your child places the two watchmen, and you try to hide the toy.  
-  *Parent says:* Your turn to place the watchmen. Place them so that it is hard for me to hide the toy.  
-  *Child mode:* Your turn. Place the watchmen. Can the grown-up still hide?
+  *Parent says:* Your turn to be clever. I will try to hide the toy.  
+  *Child mode:* Place the watchmen so it is hard for the grown-up to hide the toy.
   - Note: If your child puts the watchmen at the ends of opposite books, no corner is hidden. Then your child has won. Swap and try again. As for how a child knows what a toy can see, they imagine themselves standing where the watchman stands, and look along a straight line from there. This is how people picture another person's view.
   - Think: How did you know what a toy could see, when a toy has no real eyes?
 ### a2 · The Biscuit Box Surprise: what will someone else think is inside? (15 min)
@@ -306,17 +306,17 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the closed biscuit box. 2. Ask what is inside. 3. Open it and show the pencils. 4. Close it again.  
   *Parent says:* What do you think is in this box? Let's look. Oh, pencils! Now, before you opened it, what did you think was inside?  
-  *Child mode:* What is in the box? Open it. Were you right?
+  *Child mode:* Guess what is in the box. Then watch it open.
   - Note: Put the pencils in before you start, out of sight. Most children say 'biscuits'. Children of three often say afterwards that they thought 'pencils' all along.
 - **s2 (5 min)**  
   *Parent does:* 1. Choose a person at home who has not seen inside the box. 2. Ask your child what that person will say is in the box, and why. 3. Write the guess.  
-  *Parent says:* We are going to ask someone who hasn't seen inside. What will they say is in the box? Why do you think so?  
-  *Child mode:* Someone hasn't looked in the box. What will they say is inside? Why?
-  - Ask: Why will they say biscuits, when you know it is pencils? (good: Because they haven't seen inside.; Because the box looks like a biscuit box, and that is all they know.)
+  *Parent says:* We are going to ask someone who hasn't seen inside the box.  
+  *Child mode:* Guess what they will say is inside.
+  - Ask: What will they say is in the box? Why? (good: Because they haven't seen inside.; Because the box looks like a biscuit box, and that is all they know.)
 - **s3 (6 min)**  
   *Parent does:* 1. Your child shows the closed box to the person and asks what is inside. 2. Compare with the guess. 3. Is a child of three or four nearby? With their family's agreement, try it with them too. Ask them what they first thought.  
-  *Parent says:* Was your guess right? They believed something that was not true. Why did it make good sense for them to believe it?  
-  *Child mode:* Ask them what is inside. Was your guess right? Why did they think that?
+  *Parent says:* Was your guess right? They believed something that was not true. Why did that make sense?  
+  *Child mode:* Show them the closed box and ask what is inside.
   - Note: Most people will say biscuits, and your child will have predicted it. That shows your child understands a false belief. With a three-year-old the answers are often surprising: many say the next person will say 'pencils', because that is what they now know.
   - Check: Someone puts buttons in a sweet box. A friend has not seen inside. What will the friend say is in the box? → **Sweets, because the box looks like a sweet box**
 ### a3 · Jigsaw Lime Drink: one card each, one drink together (20 min)
@@ -324,25 +324,25 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - **record:** Write who held which card, and one thing that went wrong and how you fixed it together.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Write four cards. Card 1 says: Pour 4 tumblers of water into the jug. Card 2 says: A grown-up cuts the lime, and you squeeze it into the jug. Card 3 says: Add 4 spoons of sugar and a pinch of salt. Card 4 says: Stir until the sugar disappears, then taste and pour. 2. Give one card to each person.  
-  *Parent says:* Each of us has one part of the recipe. You can read your card out loud, but you can't show it. We can only make the drink if we all work it out together.  
-  *Child mode:* You have one card. Read it out. Don't show it.
+  *Parent says:* Each of us has one part of the recipe. We can only make the drink if we all work it out together.  
+  *Child mode:* Read your card out loud. Don't show it.
   - Note: With fewer than four people, give some people two cards. This is a home version of the jigsaw classroom, where each child holds one piece of a lesson.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Let the family work out the order and make the drink. Step in only to cut the lime.  
   *Parent says:* Who goes first? How do we know? Does the sugar go in before or after the water?  
-  *Child mode:* Who goes first? Talk about it. Then make the drink.
+  *Child mode:* Work out the order together. Then make the drink.
   - Note: Let them argue a little about the order. The point is that everyone's card is needed, including the youngest person's.
 - **s3 (6 min)**  
   *Parent does:* Taste the drink and talk about it.  
-  *Parent says:* Could anyone have made this alone with just their card? What happened when we didn't agree?  
+  *Parent says:* Taste it! What happened when we didn't agree?  
   *Child mode:* Could you make it alone with your card? Why not?
   - Think: Which part of making the drink was hardest to agree on?
 ### a4 · Tell It From the Other Side: the crocodile's story (15 min)
-- **record:** Draw the crocodile in the river and write three things the crocodile saw, wanted or was afraid of.
+- **record:** Write or say three things the crocodile saw, wanted or was afraid of.
 - **s1 (5 min)**  
   *Parent does:* Tell the story briefly. A monkey lives in a jamun tree by a river and gives jamun fruit to a crocodile. The crocodile's wife wants the monkey's heart. The crocodile carries the monkey into the river to trick him. The monkey escapes by saying he left his heart in the tree.  
   *Parent says:* This is an old story from the Panchatantra. Listen. Then you will tell it again, but as the crocodile.  
-  *Child mode:* Hear the story. Then you will be the crocodile.
+  *Child mode:* Listen. Notice what the crocodile does and wants.
 - **s2 (7 min)**  
   *Parent does:* Ask your child to tell the story as the crocodile. They can start with 'I am a crocodile, and I live in the river.'  
   *Parent says:* Now you are the crocodile. What did you see from the water? Why did you go along with your wife? How did you feel when the monkey jumped back into the tree?  
@@ -351,25 +351,25 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
   - Note: The crocodile need not become a hero. The point is to see what the crocodile saw, knew and wanted, not to agree with him.
 - **s3 (3 min)**  
   *Parent does:* Talk about what changed when the same story was told by the other side.  
-  *Parent says:* Did the story change when the crocodile told it? Did the things that happened change, or only the way we saw them?  
-  *Child mode:* You told the same story as the crocodile. What changed?
+  *Parent says:* You told it as the crocodile. How was it different from the monkey's telling?  
+  *Child mode:* Did the things that happened change, or only the way we saw them?
   - Think: Think of a quarrel you had. How would the other person tell it?
 ### a5 · Same and Different: a friend interview (15 min)
 - **safety:** Interview only people your family knows. A grown-up helps with a phone call.
-- **record:** Draw two overlapping circles. Write what only you have in one, what only your friend has in the other, and what you share in the middle.
+- **record:** Make two overlapping circles (draw them, or use string). Write what only you have in one, what only your friend has in the other, and what you share in the middle.
 - **s1 (3 min)**  
   *Parent does:* Help your child write six questions, for example: Which hand do you write with? What is your favourite food? What scares you? What are you good at? What do you find hard? What do you do on a holiday?  
   *Parent says:* We are going to find out how you and your friend are the same and how you are different. What do you want to ask?  
   *Child mode:* Write six questions for your friend.
 - **s2 (7 min) · grown-up needed**  
-  *Parent does:* Your child asks the questions and writes or draws the answers. They answer the questions themselves too.  
+  *Parent does:* Your child asks the questions and writes the answers. They answer the questions themselves too.  
   *Parent says:* Ask each question, then listen to the whole answer before you say yours.  
   *Child mode:* Ask a question. Listen to the whole answer. Then answer it yourself.
   - Note: Listening without jumping in is the real skill here. A grown-up stays near for a phone call.
 - **s3 (5 min)**  
-  *Parent does:* Draw the two circles and fill them in. Talk about the answers.  
+  *Parent does:* Make two overlapping circles, on paper or with string. Put each answer in the right place. Talk about the answers.  
   *Parent says:* Did any answer surprise you? Is there something your friend finds easy that you find hard?  
-  *Child mode:* Fill in the circles. What surprised you?
+  *Child mode:* Put each answer in the circles: only me, only my friend, or both.
   - Note: Nobody is the same as a friend in every answer, and nobody is different in every answer. Friends who differ can still get on well, if they listen to each other and see things from each other's side.
   - Think: Could you be good friends with someone who is different from you in every answer?
 
@@ -380,12 +380,12 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - **s1 (25 min)**  
   *Parent does:* 1. Choose a story with two characters who see things differently. 2. Plan scene 1: the story as the first character tells it. 3. Plan scene 2: the same events as the second character tells them. 4. Make costumes from old cloth.  
   *Parent says:* We are going to make a skit with two sides. First, the story as one character sees it. Then the same story as the other character sees it. What will be different in the second scene?  
-  *Child mode:* Plan two scenes that tell the same story. A different character tells each one.
+  *Child mode:* Choose two characters. Say what each one sees and wants.
   - Note: Keep each scene to about two minutes. The events must stay the same in both scenes. Only what each character sees, knows and feels changes.
 - **s2 (25 min) · grown-up needed**  
   *Parent does:* 1. Practise both scenes twice. 2. Act them for the family. 3. Record them on the phone. 4. Ask the audience what changed between the scenes.  
   *Parent says:* Now the show. After both scenes, we'll ask the audience: what changed, and what stayed the same?  
-  *Child mode:* Act both scenes. Ask the audience: what changed?
+  *Child mode:* Act both scenes. Speak as each character.
   - Note: Both scenes are true. They show the same events from two different places.
   - Think: Which scene did the audience feel was the true one?
 
@@ -399,16 +399,16 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Look at a game at home and ask what would be hard for a colour-blind player.  
   *Parent says:* Suppose red and green looked almost the same to you. Which games at home would be hard to play?  
-  *Child mode:* If red and green looked the same to you, which games would be hard to play?
+  *Child mode:* Pick one game at home. Which pieces would be hard to tell apart?
 - **s2 (20 min)**  
-  *Parent does:* Draw a race board of about 30 squares. Make pieces for three players that differ in shape or pattern, not only colour.  
+  *Parent does:* Draw a race board of about 30 squares, or lay out 30 paper squares in a path. Make pieces for three players that differ in shape or pattern, not only colour.  
   *Parent says:* Make the pieces so that someone could tell them apart in a black and white photo.  
-  *Child mode:* Make pieces you can tell apart without colour.
+  *Child mode:* Make three pieces that look different without colour.
   - Note: A good test is a black and white photo. Take a photo of the board and open it in the phone's gallery. Most phones have a black and white or mono filter under Edit. If the pieces still look different, the design works.
 - **s3 (5 min)**  
-  *Parent does:* Play one round and check the design.  
-  *Parent says:* Could everyone tell their piece apart? What would you change?  
-  *Child mode:* Play once. Could everyone find their piece?
+  *Parent does:* Play one round. If you have a phone, take a photo of the board and make it black and white. Check the design.  
+  *Parent says:* Play one round. Then tell me what you would change.  
+  *Child mode:* Could everyone find their own piece?
   - Note: For example, traffic lights, coloured wires, pen caps, medicine strips and gas knobs. Adding a shape, a word or a pattern helps people who see colours differently.
   - Think: What other things at home use only colour to tell you something?
 ### c2 · The Fair Turns Plan: one swing, three children (25 min)
@@ -418,18 +418,18 @@ At breakfast Meenu saved one idli on a small steel plate by the window. Paati ra
 - **general:** Take turns of the same length, timed by counting swings, for example 20 swings each.; Go in order of who arrived first.; Take turns by age, youngest first.
 - **creative:** Let the youngest choose to be pushed on the swing, and make that turn shorter.; Make a waiting game for the queue, so waiting is fun too.; Agree a special signal that means 'your turn is over' that nobody minds.
 - **s1 (8 min)**  
-  *Parent does:* Take turns to play each of the three children, and say what they want and why.  
+  *Parent does:* Give each person one of the three children to play: the five-, eight- and ten-year-old.  
   *Parent says:* You are the five-year-old. What do you want? Now you are the ten-year-old. What do you want?  
-  *Child mode:* Take turns being each child. What do they want? Why?
+  *Child mode:* Say what your child wants, and why.
 - **s2 (12 min)**  
   *Parent does:* Write a plan. Test it by playing it out with the three people.  
   *Parent says:* Will the five-year-old understand this plan? Will the ten-year-old think it is fair?  
-  *Child mode:* Write the plan. Act it out. Is it fair to all three?
+  *Child mode:* Write the plan. Then act it out.
   - Note: There is no single right answer. A good plan names what each child needs. Counting swings works better than minutes for younger children.
 - **s3 (5 min)**  
   *Parent does:* Talk about what made the plan fair or unfair.  
   *Parent says:* Is fair the same as equal? When might a different turn be fairer?  
-  *Child mode:* Is fair the same as everyone getting the same turn? Why?
+  *Child mode:* Was your plan fair to all three? Why or why not?
   - Note: A plan is fair when each person it affects can see why it is fair from where they stand. So all of them should have a say. There is no single right answer.
   - Think: Who decides what is fair?
 

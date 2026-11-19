@@ -545,7 +545,7 @@
           "id": "s1",
           "mins": 2,
           "do": "Lay out the three sorting cards and shuffle the discovery cards.",
-          "say": "Some discoveries begin with an accident, some with a mistake, and some with a careful plan. Let's sort them.",
+          "say": "Some discoveries begin with an accident, where nobody planned anything. Some begin with a mistake, where you tried for one thing and got another. Some begin with a careful plan. Let's sort them.",
           "kid": "Put out the three cards: Accident, Mistake, Plan. Mix up the discovery cards. You will sort them.",
           "context": "This is the start of Accident, Mistake or Plan? You sort true discovery stories by how they began."
         },
@@ -553,8 +553,8 @@
           "id": "s2",
           "mins": 2,
           "do": "Play the Spencer Silver card together as a practice round. Put it back in the pile afterwards.",
-          "say": "Practice card. Spencer Silver tries to make a strong glue and makes a weak one. Accident, mistake or plan?",
-          "kid": "Practice card. Spencer Silver wants strong glue and makes weak glue. Accident, mistake or plan?",
+          "say": "Practice card. Spencer Silver wanted a strong glue and made a weak one. Let's sort it together.",
+          "kid": "Read the Spencer Silver card. Think about what he wanted and what he got.",
           "check": {
             "t": "mcq",
             "q": "Spencer Silver tried to make a strong glue and made a weak one. Which pile does this card go in?",
@@ -579,8 +579,8 @@
           "id": "s4",
           "mins": 2,
           "do": "Count the cards in each pile.",
-          "say": "Look at the three piles. Were there more accidents, mistakes or plans? Did even the accidents need careful work afterwards?",
-          "kid": "Count each pile. Which pile is biggest? Did the accidents need careful work too?",
+          "say": "Let's see how many of each kind we sorted.",
+          "kid": "Count each pile. Which pile is biggest?",
           "ask": [
             {
               "q": "Did any accident become a discovery without careful work afterwards?",
@@ -697,11 +697,11 @@
           "id": "s2",
           "mins": 12,
           "do": "Play until someone has all six jobs.",
-          "say": "Take a card from the pile or the discard pile, then put one down. Which job are you still missing?",
+          "say": "Take a card from either pile, then put one down.",
           "kid": "Take a card. Put one down. You always keep 6. Which job do you still need?",
           "check": {
             "t": "mcq",
-            "q": "In the pulsar story, which job did Jocelyn Bell do first?",
+            "q": "Jocelyn Bell saw a strange mark on her chart. Which job was that?",
             "options": [
               "Leader",
               "Noticer",
@@ -715,8 +715,8 @@
           "id": "s3",
           "mins": 5,
           "do": "The winner makes up names for the six people, then picks only three for the prize. Everyone talks about whether it is fair.",
-          "say": "You may name only three people for the prize. Who do you leave out? How do you think they will feel?",
-          "kid": "Write a name for each of your six team members. Now pick only three for the prize. Who do you leave out? Is that fair?",
+          "say": "Only three people can get the prize. Who do you leave out? Is that fair? How do you think they will feel?",
+          "kid": "Make up a name for each of your six team members. Then pick three for the prize.",
           "parent": "There is no right answer. Listen for reasons: 'The noticer, because without her there is no discovery,' or 'The leader, because she planned it all.' Some children refuse the prize, which is a fine answer too. One fairer way is to name the whole team, or to give the prize to the team and not to three people.",
           "think": "Is there a fairer prize than one that names only three people?"
         }
@@ -812,7 +812,7 @@
           "mins": 5,
           "do": "1. Leave strip A as it is. 2. Press strip B onto the cotton cloth and lift it off, 3 times. 3. Do the same with strip C 8 times, and strip D 15 times. 4. Use a new part of the cloth each time.",
           "say": "Look at the sticky side after dabbing. Can you see tiny threads stuck on it? Each dab covers a bit more of the glue.",
-          "kid": "Leave strip A alone. Press strip B on the cloth and lift it. Do it 3 times. Do strip C 8 times. Do strip D 15 times. Look at the sticky side. What do you see?",
+          "kid": "Leave strip A alone. Press strip B on the cloth and lift it. Do it 3 times. Do strip C 8 times. Do strip D 15 times. Look closely at the sticky side.",
           "ask": [
             {
               "q": "What is stuck on the tape after dabbing?",
@@ -835,7 +835,7 @@
           "id": "s5",
           "mins": 4,
           "do": "1. Lay the newspaper flat. 2. Use each strip to tape one paper note onto the newspaper. The strip goes across the top edge of the note. 3. Rub each strip once with your thumb. 4. Lift the newspaper by one corner and shake it gently 3 times.",
-          "say": "Every strip gets one thumb rub and the same three shakes. That keeps the test fair. Which notes stayed on?",
+          "say": "Every strip gets one thumb rub and the same three shakes. That keeps the test fair.",
           "kid": "Tape one note onto the newspaper with each strip. Rub each strip once with your thumb. Lift the page by a corner. Shake it gently 3 times. Which notes stayed on?",
           "parent": "Strip A will almost always hold. Strip D often falls off. Write yes or no for each one in the table."
         },
@@ -870,8 +870,8 @@
           "id": "s8",
           "mins": 2,
           "do": "Ask your child to read the table and say which strip is best for each job.",
-          "say": "Which strip would you use to hold a poster up for a month? Which one for a note you want to move around a book? Was A the best at everything?",
-          "kid": "Look at your table. Which strip is best for a poster that must not fall? Which is best for a note you can move? Was A best at everything?",
+          "say": "Which strip would you use to hold a poster up for a month? Which one for a note you want to move around a book?",
+          "kid": "Look at your table. Point to the best strip for each job.",
           "ask": [
             {
               "q": "Was the strongest tape best at every job?",
@@ -891,7 +891,7 @@
       "title": "Hot or Cold: Which Freezes First?",
       "mins": 30,
       "days": 1,
-      "context": "In this experiment you test the surprising result of Erasto Mpemba, a schoolboy in Tanzania in 1963. He found that his hot ice cream mixture froze before cooler ones. Scientists still argue about it.",
+      "context": "In this experiment you test the surprising result of Erasto Mpemba, a schoolboy in Tanzania in 1963. He found that his hot ice cream mixture froze before cooler ones. Scientists still argue about it. You will find out what happens in your own freezer.",
       "question": "If we put hot water and cold water in the freezer at the same time, which one starts to freeze first?",
       "predict": "Guess first. Will the hot water or the cold water get ice on top first? Or will they freeze at the same time? Why do you think so?",
       "fair_test": "Use two cups that are exactly the same, with the same amount of water, put in the same freezer at the same moment, side by side on the same shelf. Only the starting warmth of the water is different. Check both at the same times.",
@@ -984,8 +984,8 @@
           "id": "s5",
           "mins": 4,
           "do": "Read the table together and compare the result with the guess.",
-          "say": "Which one got ice first? Was your guess right? Mpemba's result was real for his ice cream. Why do you think many tests since then got a different answer?",
-          "kid": "Which cup got ice first? Was your guess right? Many scientists got a different answer from Mpemba. Why might that be?",
+          "say": "Look at the table together. Mpemba's result was real for his ice cream, but many tests since then got a different answer.",
+          "kid": "Which cup got ice first? Was your guess right?",
           "ask": [
             {
               "q": "Why might different people get different answers in this test?",
@@ -1026,7 +1026,7 @@
       "title": "Who Made the Panakam?",
       "mins": 15,
       "days": 1,
-      "context": "In this activity the family makes panakam, a jaggery drink from South India, and each person does one job. Then you decide who should get the credit.",
+      "context": "In this activity the family makes panakam, a jaggery drink from South India, and each person does one job. Then you find out how hard it is to give the credit to just one person.",
       "materials": [
         {
           "item": "jaggery, about 4 tablespoons, grated or broken small",
@@ -1081,7 +1081,7 @@
           "id": "s2",
           "mins": 7,
           "do": "1. Stir the jaggery into the water until it dissolves. 2. Add the lemon juice, ginger and cardamom. 3. Strain it into tumblers.",
-          "say": "Taste it. Is it good? Now, which job mattered most?",
+          "say": "Taste it. Is it good?",
           "kid": "Stir in the jaggery until it disappears. Add lemon, ginger and cardamom. Strain it. Taste it!",
           "adult": true,
           "parent": "Cut the lemon yourself. If only two of you are at home, each person does two or three jobs."
@@ -1089,9 +1089,9 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "Ask your child to write a one-line news report about the panakam, with room for only one name.",
-          "say": "Suppose a newspaper writes one line about our panakam, and it has room for only one name. Whose name should it be? Why?",
-          "kid": "A newspaper has room for one name only. Whose name goes in the report about the panakam? Why?",
+          "do": "Ask your child to say, or write, a one-line news report about the panakam, with room for only one name.",
+          "say": "Suppose a newspaper writes one line about our panakam, and it has room for only one name. Whose name should it be?",
+          "kid": "Say your one-line report about the panakam. It has room for one name only. Whose name goes in it?",
           "ask": [
             {
               "q": "Is it fair to name only one person?",
@@ -1171,7 +1171,7 @@
           "mins": 4,
           "do": "Talk about how to tell a real signal from the random wiggles around it.",
           "say": "Bell Burnell's mark kept coming back from the same part of the sky, about four minutes earlier each day, just as the stars do. That is how she knew it was real. How did you know your pattern was real?",
-          "kid": "How did you know your shape was the real signal? Bell Burnell's mark came back again and again. That told her it was real.",
+          "kid": "Tell your grown-up how you knew your shape was the real signal.",
           "check": {
             "t": "mcq",
             "q": "Bell Burnell saw a strange mark on her chart. What showed it was a real signal from space?",
@@ -1206,7 +1206,7 @@
           "what": "Interview a parent, a grandparent, a neighbour or another grown-up you know about a happy accident, then draw it as a comic strip."
         }
       ],
-      "record": "Write down the answers, then draw the story in four boxes: the plan, the accident, the surprise, and what happened next.",
+      "record": "Write down the answers, then tell or draw the story in four parts: the plan, the accident, the surprise, and what happened next.",
       "setup": [
         {
           "art": "A girl sitting with a grown-up on a sofa, holding a notebook, the grown-up laughing as they tell a story.",
@@ -1230,9 +1230,9 @@
         {
           "id": "s2",
           "mins": 7,
-          "do": "Draw the story in four boxes: the plan, the accident, the surprise, what happened next.",
-          "say": "Did they check it again, by doing it on purpose? That is the step that turns a lucky accident into something you know.",
-          "kid": "Draw four boxes. The plan. The accident. The surprise. What happened next.",
+          "do": "Ask your child to tell the story in four parts, or draw it in four boxes: the plan, the accident, the surprise, what happened next.",
+          "say": "Now tell the story back in four parts, like a short film. Was there a part where they tried it again on purpose?",
+          "kid": "Tell the story in four parts, or draw four boxes. The plan. The accident. The surprise. What happened next.",
           "ask": [
             {
               "q": "What turned the accident into something the family knows?",
@@ -1250,14 +1250,10 @@
       "title": "The Penicillin Credit Roll",
       "mins": 15,
       "days": 1,
-      "context": "In this activity you make a film-style credit roll for penicillin, naming everyone who helped turn a mouldy dish into a medicine.",
+      "context": "In this activity you make a film-style credit roll for penicillin, naming everyone who helped turn a mouldy dish into a medicine. You will see how many people it took, and how few got the prize.",
       "materials": [
         {
           "item": "a long strip of paper, about 50 cm, and two pencils or sticks to roll it on",
-          "qty": 1
-        },
-        {
-          "item": "colour pencils",
           "qty": 1
         }
       ],
@@ -1293,7 +1289,7 @@
           "id": "s2",
           "mins": 5,
           "do": "Roll the strip onto two pencils and scroll it. Then circle the names that won the 1945 Nobel Prize: Fleming, Florey and Chain.",
-          "say": "Three names won the prize. How many names are on your roll? Who was left out?",
+          "say": "Three names won the prize. How many names are on your roll?",
           "kid": "Scroll your credit roll. Circle Fleming, Florey and Chain. They won the prize in 1945. Who was left out?",
           "ask": [
             {
@@ -1314,7 +1310,7 @@
       "title": "My Surprise Notebook",
       "mins": 50,
       "days": 5,
-      "context": "In this 5-day project you keep a notebook of surprises: small things each day that did not happen the way you expected. On the last day you test one of them.",
+      "context": "In this 5-day project you keep a notebook of surprises: small things each day that did not happen the way you expected. On the last day you test one of them, to find out if it was just luck.",
       "materials": [
         {
           "item": "a small notebook and a pencil",
@@ -1394,8 +1390,8 @@
           "id": "s4",
           "mins": 20,
           "do": "On day 5, try to make the chosen surprise happen again on purpose. Write down whether it did.",
-          "say": "If it happens again when we try on purpose, it was not just luck. That is how an accident starts to become a discovery.",
-          "kid": "Try to make your surprise happen again. Did it happen? Write it down. Was it luck or a pattern?",
+          "say": "Let's try to make it happen again, on purpose.",
+          "kid": "Try to make your surprise happen again. Did it happen? Write it down.",
           "wait": "Day 5.",
           "ask": [
             {
@@ -1441,7 +1437,7 @@
         "A long strip of card folded in a V that grips the page by springing back.",
         "A rubber band around the whole book, holding a plain slip of paper in place."
       ],
-      "your_turn": "Now design your own bookmark. Draw it, make it, and test it with three upside-down shakes. Then check the page for tears and marks.",
+      "your_turn": "Now design your own bookmark. Try ideas with the materials or draw them, make it, and test it with three upside-down shakes. Then check the page for tears and marks.",
       "setup": [
         {
           "art": "A book turned upside down, a paper bookmark falling out of it.",
@@ -1468,9 +1464,9 @@
         {
           "id": "s2",
           "mins": 15,
-          "do": "Let your child draw two ideas, then make the one they like best.",
-          "say": "What could hold the page without glue? Or with only a little glue? Draw two ideas first.",
-          "kid": "Draw two bookmark ideas. Which one will stay but not tear the page? Make your best one.",
+          "do": "Let your child try two ideas with the materials, or draw them, then make the one they like best.",
+          "say": "What could hold the page without glue? Or with only a little glue? Try two ideas first.",
+          "kid": "Try two bookmark ideas with the materials, or draw them. Which one will stay but not tear the page? Make your best one.",
           "parent": "If your child is stuck, remind them of the Too-Weak Tape Test. The lightly dabbed tape held a note and came off clean."
         },
         {
@@ -1540,9 +1536,9 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "Your child designs the poster. Use the names of people you know and make up the rest.",
+          "do": "Your child designs the poster as a list, a table or a picture. Use the names of people you know and make up the rest.",
           "say": "Does any name look more important than the others? Is that fair? Can a visitor see the jobs quickly?",
-          "kid": "Design your poster. Use names of people you know and make up the rest, 30 in all. Does any name look more important? Can you see the jobs fast?",
+          "kid": "Design your poster as a list, a table or a picture. Use names of people you know and make up the rest, 30 in all.",
           "parent": "A good poster shows the jobs clearly and treats names equally. Some children decide the planner should be bigger. That is a real choice scientists argue about, so ask for a reason."
         },
         {

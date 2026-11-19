@@ -312,12 +312,12 @@ Next summer, she thought, a little bit of me will be a mango.
 - **s4 (3 min)**  
   *Parent does:* When someone wins, stop. Count the oxygen bubbles in the middle together.  
   *Parent says:* Look how many oxygen bubbles our plants made. Who gets to breathe that air?  
-  *Child mode:* Count the oxygen bubbles in the middle. Your plants made all that oxygen! Who breathes it?
+  *Child mode:* Count the oxygen bubbles in the middle. Your plants made all of them.
   - Think: Your plant made oxygen for everybody. Where does the oxygen in your room come from right now?
 - **s5 (2 min)**  
   *Parent does:* Ask one last question about the game.  
   *Parent says:* Where did your plant's whole body come from in this game? Did any of it come from the soil?  
-  *Child mode:* Look at your finished plant. What was your plant built from? Was any of that soil?
+  *Child mode:* Look at your finished plant. Point to each space you built.
   - Check: In the game, your plant was built from sugar. Where did the sugar come from? → **Sunlight, water and carbon dioxide**
 ### g2 · Photon Relay (20 min)
 - **rules:** With 2 players, the child is the LEAF and the parent is the SUN. The parent also walks each sugar along three chairs marked CATERPILLAR, BIRD and MONGOOSE, and plays the FUNGUS. With 3 or more players, the others sit on those chairs and one of them is the FUNGUS. One person may take two chairs. Anyone who is free may be the CLOUD.; The SUN stands at one end. The LEAF stands in the middle, next to a basket of black carbon balls, which is the 'air'. A bucket marked WARMTH stands near the animals.; Round 1 uses 9 batons. The SUN runs light batons to the LEAF, one baton on each trip. Only a leaf can take light.; When the LEAF holds 3 light batons, the leaf picks up one carbon ball. The ball with its 3 batons is now one sugar.; The CATERPILLAR takes the sugar from the leaf. The BIRD takes the sugar from the caterpillar. The MONGOOSE takes the sugar from the bird.; At each handover, the giver drops one baton into the WARMTH bucket and passes on the ball and the batons that are left. This is the energy used up for living.; The MONGOOSE ends up with a carbon ball and no batons. A ball with no batons has no energy left, so the MONGOOSE sits down. The FUNGUS takes the carbon ball and throws the ball back into the air basket, so the LEAF can use it again.; Round 2 uses the other 6 batons. This time the CLOUD may stand between the SUN and the LEAF and block the light for 10 seconds. With 2 players, the parent stops running light for 10 seconds and says 'cloud'.; A round ends when all its batons are in the WARMTH bucket. After round 2, count the batons in the bucket and the carbon balls back in the basket, then fill in the energy chain sheet.
@@ -338,12 +338,12 @@ Next summer, she thought, a little bit of me will be a mango.
 - **s3 (4 min)**  
   *Parent does:* Round 2, with the last 6 batons. The CLOUD blocks the Sun for 10 seconds, and the FUNGUS returns carbon balls to the air as before. With 2 players, the parent pauses the light for 10 seconds.  
   *Parent says:* What happens to the whole chain when the cloud blocks the light? And what does the fungus do with the carbon?  
-  *Child mode:* Now the cloud blocks the Sun. What happens to everyone? Watch the fungus. Where do the carbon balls go?
+  *Child mode:* The cloud blocks the Sun. Watch what everyone does. Watch the fungus too.
   - Check: In the game, what did the fungus do with the carbon balls? → **Put them back into the air, so leaves could use them again**
 - **s4 (3 min)**  
   *Parent does:* Sit down together and fill in the energy chain sheet.  
   *Parent says:* So which comes in fresh every day, and which goes round and round: the light, or the carbon?  
-  *Child mode:* Fill in the sheet. Which goes round and round? Which comes new each day from the Sun?
+  *Child mode:* Fill in the sheet together. Then tell your grown-up your answers.
   - Think: In the game, the carbon balls went from the air into a leaf, then to animals, then back to the air. So where could the carbon in your body have been before you? Name two places.
 
 ## Experiments
@@ -351,7 +351,7 @@ Next summer, she thought, a little bit of me will be a mango.
 - **question:** Does a leaf need light and carbon dioxide to make oxygen?
 - **predict:** Before you start, guess. Which discs will float up first: the ones in the light, the ones in the dark, or the ones in plain water? Will some not float at all? Why do you think so?
 - **fair test:** Keep everything the same except one thing. Use discs from the same leaves, the same number of discs, the same cups and the same amount of liquid. All the water was boiled and cooled, so it holds very little carbon dioxide. Cup A and cup B both have baking soda water. Only the light changes. Cup A and cup C are both in the light. Only the baking soda changes.
-- **record:** Fill in the table every 3 minutes. Then draw a bar for each cup, as tall as the number of discs floating at the end.
+- **record:** Fill in the table every 3 minutes. Then show each cup as a coin tower, or draw a bar, as tall as the number of discs floating at the end.
 - **results table:** Minutes | Cup A: light, baking soda (discs floating) | Cup B: dark, baking soda (discs floating) | Cup C: light, plain water (discs floating)
 - **s1 (5 min)**  
   *Parent does:* 1. Pour about 300 ml of the boiled and cooled water into each of two glasses. 2. Stir a quarter teaspoon of baking soda into one glass. 3. Add one drop of washing-up liquid to each glass. 4. Label three cups A, B and C.  
@@ -374,13 +374,13 @@ Next summer, she thought, a little bit of me will be a mango.
 - **s5 (25 min)**  
   *Parent does:* 1. Every 3 minutes, count the floating discs in each cup and write the numbers in the table. 2. Lift the box off cup B for only a second to look, then put it back. 3. Stop when all the discs in cup A float, or after 25 minutes.  
   *Parent says:* Look closely at the discs in cup A. Can you see tiny bubbles on them? Where do you think the bubbles came from?  
-  *Child mode:* Count every 3 minutes. Write it in the table. Look closely at cup A. Can you see tiny bubbles? What could they be?
+  *Child mode:* Count every 3 minutes. Write it in the table. Look closely at the circles in cup A for tiny bubbles.
   - Ask: Why do you think the discs float up? (good: The leaf makes a gas, and the bubbles lift it.; Gas inside the disc makes it lighter than water.)
   - Note: The bubbles are oxygen, made by the leaf from water as it makes food. Let your child guess before you say so. In strong sun, the discs in cup A usually float within 10 to 20 minutes. Under a lamp it can take 20 to 30 minutes, so keep counting a little longer if you need to. If a few discs in cup C rise late, the water still held a little carbon dioxide. If nothing floats in cup A after 25 minutes, the light was too weak or the leaves were old. Try again with fresh leaves in direct sun.
 - **s6 (3 min)**  
-  *Parent does:* Compare the three cups at the end. Help your child draw one bar for each cup.  
+  *Parent does:* Compare the three cups at the end. Help your child build one tower of coins for each cup, as tall as the number of discs that floated.  
   *Parent says:* In which cup did the discs float? In which cups did they stay sunk? What was different about them?  
-  *Child mode:* Draw one bar for each cup. Which cup's circles floated? What did that cup have that the others didn't?
+  *Child mode:* Build one coin tower for each cup, as tall as its floating circles. Which tower is tallest?
   - Check: In a test like this, only the discs in cup A floated: light and baking soda water. What does that show? → **Leaves need light and carbon dioxide to make oxygen**
 - **s7 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -392,17 +392,17 @@ Next summer, she thought, a little bit of me will be a mango.
 - **predict:** Guess first. You will cover part of a leaf with a black paper shape for two sunny days. Then you will test the leaf for starch. Which part will turn blue-black: the covered part, the uncovered part, or all of it? Why do you think so?
 - **fair test:** Use one leaf, so the plant, the water and the warmth are the same for both parts. Only the light changes. The covered part gets no light. The rest of the same leaf gets light.
 - **safety:** Surgical spirit catches fire very easily. Never heat it on a stove or near a flame. Warm it only by standing its tumbler in hot water from a kettle, with the stove switched off. Only a grown-up handles the hot water and the spirit. Iodine stains and must not be swallowed.
-- **record:** Draw the leaf with its shape before the test. Then draw it after the iodine, colouring the blue-black parts. Fill in the table.
+- **record:** Take a photo of the leaf before the test and again after the iodine, or draw both and colour the blue-black parts. Fill in the table.
 - **results table:** Part of the leaf | Did it get light? | Colour after iodine | Starch or no starch?
 - **schedule:** day 1: Practise the iodine test on potato and rice. In the evening, clip a black paper shape on both sides of one leaf. Put the plant in the sunniest place. (11 min); day 2: Check the plant has had sun and water. Leave the shape on. (2 min); day 3: In the afternoon, pick the leaf. A grown-up softens it and takes out its green colour. Test it with iodine and see the picture. (28 min)
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Put a slice of raw potato and a spoon of cooked rice on a white plate. Add a pinch of sugar and a pinch of salt. 2. Mix 10 drops of iodine with about 50 drops of water in a small cup. 3. Put one drop on each food.  
-  *Parent says:* Iodine is brown. But when it touches starch, it turns blue-black. Starch is the food store plants make from sugar. Which of these foods have starch?  
-  *Child mode:* Put a drop of brown iodine on each food. Watch the colour. Blue-black means starch is there. Which foods have starch?
+  *Parent says:* Iodine is brown. But when it touches starch, it turns blue-black. Starch is the food store plants make from sugar.  
+  *Child mode:* Put a drop of brown iodine on each food. Watch the colour. Blue-black means starch is there.
   - Ask: Which foods turned blue-black? (good: The potato and the rice.; Not the sugar or the salt.)
   - Note: Starch turns dark blue or almost black within a few seconds. Sugar and salt stay brown.
 - **s2 (7 min)**  
-  *Parent does:* 1. In the evening, cut two matching simple shapes from black paper, like a star or your child's first letter. 2. Clip one shape on top of one big leaf and the other exactly underneath it, so no light gets through. 3. Put the plant where they get the most direct sun. Water them as usual. 4. On day 2, check that the plant has had sun and water. Leave the shapes on.  
+  *Parent does:* 1. In the evening, cut two matching simple shapes from black paper, like a star or your child's first letter. 2. Clip one shape on top of one big leaf and the other exactly underneath it, so no light gets through. 3. Take a photo of the leaf with the shape on it. 4. Put the plant where they get the most direct sun. Water them as usual. 5. On day 2, check that the plant has had sun and water. Leave the shapes on.  
   *Parent says:* Under the shapes, the leaf will be in the dark for two whole days. All around it, the leaf gets sunshine. Our question is, where will it make starch?  
   *Child mode:* Cut a black paper star or your first letter. Clip it on a big leaf. Put the plant in the sun for two days.
   - Note: You do not need to keep the plant in a cupboard first. Each night a leaf sends its starch away, so the covered part uses up its old starch over the two days. If the days are cloudy, leave the shape on for one more sunny day.
@@ -415,13 +415,13 @@ Next summer, she thought, a little bit of me will be a mango.
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* 1. Rinse the pale leaf in warm water and spread it flat on the white plate. 2. Cover it with the diluted iodine. 3. Wait 2 minutes, then rinse gently and look.  
   *Parent says:* A picture has appeared. Where is it blue-black, and where is it pale?  
-  *Child mode:* Spread the pale leaf on the plate. Cover it with iodine. Wait 2 minutes. What picture appears?
+  *Child mode:* Spread the pale leaf on the plate. Cover it with iodine. Wait 2 minutes. Look at the picture that appears.
   - Note: Starch shows as dark blue, dark purple or almost black. Leaf with no starch stays yellow-brown. If the whole leaf stays brown, the plant did not get enough sun, or this plant stores little starch in their leaves. Try again in a sunnier spot, or with a leaf from another plant. If the star is only a little paler than the rest, leave the shape on for one more sunny day next time. Povidone-iodine is weaker than the iodine in a school lab, so the colour may be a dull blue-grey and not black. The edge of the star may look blurry. If you cannot see a clear difference, say so honestly and try again with a sunnier plant.
   - Check: In a test like this, the leaf is blue-black everywhere except the star shape. What does that show? → **The leaf made starch only where light fell on it**
 - **s5 (3 min)**  
-  *Parent does:* Lay the tested leaf next to your drawing from before. Compare them.  
+  *Parent does:* Lay the tested leaf next to your photo from before. Compare them.  
   *Parent says:* In the 1860s, a German scientist called Julius Sachs did tests like this. He showed that leaves make starch only in the light.  
-  *Child mode:* Put your leaf next to your first drawing. Does the pale shape match the paper star? A scientist did this test over 160 years ago!
+  *Child mode:* Hold your leaf next to your first photo. Does the pale shape match the paper star? A scientist did this test over 160 years ago!
   - Think: Could you write a secret message on a leaf, using only light? What would you cover the leaf with, and how would you make the message show?
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -433,7 +433,7 @@ Next summer, she thought, a little bit of me will be a mango.
 - **predict:** Guess first. Will the plant give off more bubbles when the lamp is close, far away, or switched off? Why do you think so?
 - **fair test:** Use the same piece of water plant, in the same glass of water, all the time. Change only how far away the lamp is. Count for exactly one minute each time. Count each distance twice, because one count can be a fluke.
 - **safety:** Keep the lamp and its wire away from the water. Use an LED bulb, which stays cool. A grown-up places the lamp.
-- **record:** Fill in the table. Draw a bar for each lamp distance, as tall as the average number of bubbles.
+- **record:** Fill in the table. Show each lamp distance as a row of beans, or draw a bar, as tall as the average number of bubbles.
 - **results table:** Where the lamp is | Bubbles in one minute: count 1 | Count 2 | Average (add the two counts and halve)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Stir a pinch of baking soda into a tall glass of water. 2. A grown-up cuts the end of the water plant cleanly. 3. Slide a paper clip onto the sprig and drop it in, cut end up.  
@@ -450,9 +450,9 @@ Next summer, she thought, a little bit of me will be a mango.
   - Ask: What happened to the bubbles when the lamp moved further away? (good: There were fewer bubbles.; They came more slowly.)
   - Note: Bubbles usually come in a stream from the cut end. If they come too fast to count, count for 30 seconds and double it. If there are almost no bubbles at 10 cm, the lamp is too weak. Put the glass in direct sun for 10 minutes, then compare sun, shade and a dark cupboard instead. A fresh sprig and a little more baking soda also help. A few bubbles may still come in the dark at first, from gas already inside the plant.
 - **s4 (5 min)**  
-  *Parent does:* Find the average for each distance: add the two counts and halve. Help your child draw a bar chart.  
-  *Parent says:* Let's draw one bar for each lamp position. Which bar is tallest?  
-  *Child mode:* Draw one bar for each lamp place. Make each bar as tall as its number. Which is tallest?
+  *Parent does:* Find the average for each distance: add the two counts and halve. Help your child lay out one row of dried beans for each lamp place, one bean for each bubble in the average.  
+  *Parent says:* Let's lay out one row of beans for each lamp position. Which row is longest?  
+  *Child mode:* Lay out a row of beans for each lamp place. Use one bean per bubble. Which row is longest?
   - Check: With the lamp 10 cm away, the plant made 30 bubbles a minute. At 40 cm, they made 6. With the lamp off, they made none. What does this show? → **More light makes the plant make oxygen faster**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -465,13 +465,13 @@ Next summer, she thought, a little bit of me will be a mango.
 - **record:** Write your guess: did the tree come mostly from soil, water, air or sunlight? Keep the page. You will look at it again at the end of the unit.
 - **s1 (4 min)**  
   *Parent does:* 1. Put a mango stone, or another big tree's seed, in your child's hand. 2. Look together at a big tree, from a window, on the street, or in a photo. 3. If a tree is close by, try to hug their trunk.  
-  *Parent says:* A big tree started as a seed like this one. Look at the trunk and the branches. What do you notice? What do you wonder?  
-  *Child mode:* Hold the seed. Now look at a big tree. A seed like this grew into this tree! What do you notice? What do you wonder?
+  *Parent says:* A big tree started as a seed like this one. Look at the trunk and the branches.  
+  *Child mode:* Hold the seed. Now look at a big tree. A seed like this grew into this tree! What do you notice?
   - Ask: What do you wonder about this tree? (good: How did they get so big?; What are they made of?; How old are they?)
 - **s2 (5 min)**  
   *Parent does:* Ask where all the tree's wood came from. Give four choices: soil, water, air or sunlight. Let your child choose and give a reason. Do not tell them the answer.  
   *Parent says:* The seed was tiny. Now the tree weighs more than a lorry. Where did all that wood come from? The soil, the water, the air, or the sunlight?  
-  *Child mode:* The seed was tiny. The tree is huge. Where did all the wood come from? Soil, water, air or sunlight? Choose one.
+  *Child mode:* Choose one: soil, water, air or sunlight. Tell your grown-up why.
   - Note: Most children, and most grown-ups, say the soil. That is a fine guess. Don't correct it now. The unit lets your child find out, which is much more powerful than being told. The surprising answer is the air: leaves take in carbon dioxide and build it into wood, using sunlight's energy and a little water.
 - **s3 (3 min)**  
   *Parent does:* Write your child's guess and reason on a page, with the date. Keep it.  
@@ -480,7 +480,7 @@ Next summer, she thought, a little bit of me will be a mango.
   - Think: If the tree really were made of soil, what would happen to the soil around their roots as the tree grew?
 ### a2 · The Breath a Tree Eats (20 min)
 - **safety:** Chuna stings eyes and skin. A grown-up mixes it. Never suck through the straw, only blow gently. Do not drink the limewater. Wash hands afterwards.
-- **record:** Draw the glass before and after blowing. Write one sentence: my breath has carbon dioxide in it.
+- **record:** Take a photo of the glass before and after blowing, or draw it. Write one sentence: my breath has carbon dioxide in it.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. The night before, stir one teaspoon of chuna into a glass of water. 2. Leave it to settle overnight. 3. In the morning, gently pour the clear top part into a clean glass. That clear liquid is limewater.  
   *Parent says:* Limewater is a detector. It turns milky when carbon dioxide gets into it.  
@@ -502,7 +502,7 @@ Next summer, she thought, a little bit of me will be a mango.
   - Think: Some of the carbon in a plant's leaves may once have been in your breath. How could that happen?
 ### a3 · The Hidden Colours of a Leaf (25 min)
 - **safety:** Surgical spirit catches fire easily. Keep it far from the stove, candles and diyas. A grown-up handles it. Work by an open window.
-- **record:** Draw the chalk and colour in the bands you see. Label which band you think is chlorophyll.
+- **record:** Take a photo of the chalk, or draw it and colour in the bands. Point to the band you think is chlorophyll.
 - **s1 (5 min)**  
   *Parent does:* 1. Hold an old CD in sunlight, shiny side up, and tilt it until a rainbow shows on a wall. 2. Or stand a glass of water on a sunny windowsill and look for a rainbow on the floor.  
   *Parent says:* Sunlight looks white. But it is really all the colours mixed. Leaves use mostly the red and the blue. They bounce the green back to our eyes.  
@@ -525,7 +525,7 @@ Next summer, she thought, a little bit of me will be a mango.
   - Think: A black leaf would soak up every colour of light. Scientists still do not agree on why leaves are green instead. What is your idea?
 ### a4 · Build a Sugar from Air and Water (25 min)
 - **safety:** Toothpick points are sharp. Keep the balls and sticks away from children under 5.
-- **record:** Draw your sugar molecule. Write how many black, red and white balls it has.
+- **record:** Write how many black, red and white balls your sugar has. Take a photo of your model.
 - **s1 (8 min)**  
   *Parent does:* 1. Explain the colours: black is carbon, red is oxygen, white is hydrogen. 2. Build 6 carbon dioxide molecules: one black ball with a red ball on each side. 3. Build 6 water molecules: one red ball with two white balls. 4. Put them all on the IN plate.  
   *Parent says:* These are models of the molecules a leaf takes in. Carbon dioxide from the air, and water from the roots. Real ones are far too small to see.  
@@ -547,7 +547,7 @@ Next summer, she thought, a little bit of me will be a mango.
   - Think: The atoms in a sugar were once in the air and water. After you eat the sugar, where might some of its carbon atoms go? Think about what you breathe out.
 ### a5 · Burn It Back to Air (15 min)
 - **safety:** Only a grown-up lights and tends the fire. Do it outdoors or on an open terrace, on a bare stone or cement floor, away from cloth, dry grass and wind. Keep a bucket of water beside you. Children watch from at least one big step away.
-- **record:** Write the weight of the twigs and the weight of the ash. Draw the heap of twigs and the heap of ash side by side.
+- **record:** Write the weight of the twigs and the weight of the ash. Take a photo of the twigs and the ash side by side, or draw both heaps.
 - **s1 (4 min)**  
   *Parent does:* 1. Weigh the dry twigs on the kitchen scale in a steel bowl. 2. Write down the weight.  
   *Parent says:* These twigs were built by a tree, from air, water and a pinch of soil. Let's weigh them before we burn them.  
@@ -555,16 +555,16 @@ Next summer, she thought, a little bit of me will be a mango.
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Outdoors, a grown-up puts the bowl on the ground and lights the twigs. 2. Let them burn down completely. 3. Let the bowl cool for a few minutes.  
   *Parent says:* Watch the twigs. Where do you think the wood is going?  
-  *Child mode:* Stand back one big step. A grown-up lights the twigs. Watch. Where is the wood going?
+  *Child mode:* Stand back one big step. A grown-up lights the twigs. Watch the smoke and the flames.
   - Note: If black, half-burned bits are left, that is charcoal, which is carbon not yet burned. Stir it so it burns to grey ash.
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* 1. When the bowl is cold, weigh the ash. 2. Compare it with the weight of the twigs.  
-  *Parent says:* How much was left? Twenty grams of twigs usually leave less than one gram of grey ash. Where did the rest go?  
-  *Child mode:* Weigh the cold ash. Compare it with the twigs. Where did all the rest go?
+  *Parent says:* How much was left? Twenty grams of twigs usually leave less than one gram of grey ash. A kitchen scale may show only 0 or 1.  
+  *Child mode:* Weigh the cold ash. Compare it with the weight of the twigs.
   - Note: A kitchen scale may show 0 or 1 gram for the ash, because it is so light. Both mean almost nothing was left. The rest went into the air as carbon dioxide and water vapour.
   - Check: 20 grams of twigs burned down to less than 1 gram of ash. Where did most of the wood go? → **Into the air, as carbon dioxide and water vapour**
 ### a6 · Sunbeam Dance (10 min)
-- **record:** Draw your favourite moment of the dance.
+- **record:** Tell your grown-up your favourite moment of the dance, then act it out once more.
 - **s1 (3 min)**  
   *Parent does:* 1. Move chairs and bags aside. One dancer is a SUNBEAM, with the yellow cloth. 2. The others are LEAVES, with the green cloth, curled up on the floor. 3. The room is dim. It is night.  
   *Parent says:* It's night. The leaves are resting and only breathing gently. They can't make any food without light.  
@@ -594,9 +594,9 @@ Next summer, she thought, a little bit of me will be a mango.
   *Child mode:* Weigh the empty pot. Weigh it full of dry soil. Write each number down. Plant the seeds in a sunny place.
   - Note: To find the weight of the soil alone, take the empty pot's weight away from the full pot's weight. Keep the saucer and any spilled soil, so nothing is lost.
 - **s3 (20 min)**  
-  *Parent does:* 1. Once a week, measure the tallest plant with a ruler and draw the pot. 2. Water only with clean tap water or rainwater. 3. Do not add any manure or fertiliser.  
+  *Parent does:* 1. Once a week, measure the tallest plant with a ruler and take a photo of the pot. 2. Water only with clean tap water or rainwater. 3. Do not add any manure or fertiliser.  
   *Parent says:* We are giving the plants only water. Watch what they build.  
-  *Child mode:* Each week, measure the tallest plant. Draw the plants. Give them only clean water. Do not add manure or fertiliser.
+  *Child mode:* Each week, measure the tallest plant. Take a photo of the pot. Give them only clean water. Do not add manure or fertiliser.
   - Wait: Check once a week for about 4 weeks.
 - **s4 (15 min) · grown-up needed**  
   *Parent does:* 1. When the plants are about four weeks old, gently pull them out. 2. Shake and brush every bit of soil off the roots back into the pot. 3. Weigh the plants. 4. Spread the soil out to dry again, and dry the plants in the sun until they are crisp.  
@@ -606,7 +606,7 @@ Next summer, she thought, a little bit of me will be a mango.
 - **s5 (15 min)**  
   *Parent does:* 1. Weigh the dried plants. 2. Weigh the dried soil in the same pot. 3. Compare the numbers.  
   *Parent says:* Our dry seeds weighed only a few grams. Now weigh the dry plants and the dry soil. What do you notice? So where did the plants come from?  
-  *Child mode:* Weigh the dry plants. Weigh the dry soil. Did the soil get lighter? Did the plants get heavier? Where did they come from?
+  *Child mode:* Weigh the dry plants. Weigh the dry soil. Write both numbers in your table.
   - Note: Be honest about what you see. Seedlings first use up the food stored in their seed, so after four weeks in a flat the dried plants may weigh about the same as the dry seeds, or even less. A kitchen scale also shows only whole grams. If that happens, say so, and look at the soil: it should not have lost anything like the weight of the new leaves and stems. Dry the soil the same way both times, so its weight is as fair as possible.
   - Check: Suppose the dry plants weighed more than the dry seeds, and the soil weighed almost the same as at the start. Where did most of the plants come from? → **The air, as carbon dioxide**
 - **s6 (5 min)**  
@@ -618,23 +618,23 @@ Next summer, she thought, a little bit of me will be a mango.
 ## Challenges
 ### c1 · Lunch on Mars (30 min)
 - **problem:** Four astronauts will live on Mars for two years. Food and air from Earth will run out. Design a greenhouse that gives them food and helps make their air.
-- **your turn:** Now design your own Mars greenhouse. Draw it and label every part. Show where the light, water and carbon dioxide come from, and where the food and oxygen go.
+- **your turn:** Now design your own Mars greenhouse. Build it from a shoebox, or draw it, and label every part. Show where the light, water and carbon dioxide come from, and where the food and oxygen go.
 - **constraints:** Mars air is very thin and mostly carbon dioxide. People cannot breathe it.; Mars gets less than half the sunlight Earth gets, and has big dust storms that can last for weeks.; There is ice under the ground, but no liquid water on top.; Everything must fit inside sealed rooms.
 - **general:** A sealed dome or room, with ordinary air inside for the plants and people.; Bright lamps, especially red and blue LED lights, to help on dark days and in dust storms.; Melt the ice and clean it, to water the plants.; Grow fast, filling crops like potatoes, beans, wheat and leafy greens.
 - **creative:** Pipe the astronauts' breath, full of carbon dioxide, into the greenhouse. Then pipe the plants' oxygen back.; Grow tiny green algae in tanks of water. They grow very fast and make a lot of oxygen.; Turn food scraps and plant waste into compost, so the minerals go round and round.; Grow plants in layers on shelves, like a tall cupboard, to save space.
 - **s1 (5 min)**  
   *Parent does:* Read the problem and the constraints together.  
   *Parent says:* A plant needs light, water and carbon dioxide to make food. Which of those does Mars have? Which are hard to get?  
-  *Child mode:* Read the problem. A plant needs light, water and carbon dioxide. Which does Mars have? Which are hard?
+  *Child mode:* Read the problem about the four astronauts. Then tell your grown-up what a plant needs to make food.
 - **s2 (5 min)**  
   *Parent does:* Make a list of three ideas before looking at any solutions.  
   *Parent says:* Engineers think before they build. Let's write three ideas of our own first.  
-  *Child mode:* Think like an engineer! Write or draw three ideas. Do this before you look at anyone else's.
+  *Child mode:* Think like an engineer! Say, write or draw three ideas. Do this before you look at anyone else's.
   - Check: Mars air is mostly carbon dioxide. Why is that good news for the plants? → **Carbon dioxide is what leaves build sugar from**
 - **s3 (12 min)**  
-  *Parent does:* 1. Draw the greenhouse and label each part. 2. Draw arrows for light, water and carbon dioxide going in. 3. Draw arrows for food and oxygen going to the astronauts.  
+  *Parent does:* 1. Build the greenhouse from a shoebox and cling film, or draw it. Label each part. 2. Use arrows for light, water and carbon dioxide going in. 3. Use arrows for food and oxygen going to the astronauts.  
   *Parent says:* Show me where each ingredient comes from. What happens in a dust storm, when there is hardly any sunlight?  
-  *Child mode:* Draw your greenhouse. Label every part. Draw arrows for light, water and carbon dioxide going in. Where does the food go?
+  *Child mode:* Build or draw your greenhouse. Label every part. Add arrows for light, water and carbon dioxide going in. Add arrows for food and oxygen going out to the astronauts.
   - Note: Good designs show a loop. People breathe out carbon dioxide for the plants. Plants give oxygen and food to the people. A strong design also has lamps for dust storms and a way to recycle waste.
 - **s4 (8 min)**  
   *Parent does:* Read the usual and creative solutions together. Improve your design.  
@@ -650,7 +650,7 @@ Next summer, she thought, a little bit of me will be a mango.
 - **s1 (5 min)**  
   *Parent does:* Find how long your sunlit discs took to float in The Rising Leaf Discs. Write it at the top of a page. That is the time to beat. You will also set up one cup exactly as you did then, to compare with the new cups.  
   *Parent says:* In The Rising Leaf Discs, how long did all 10 sunlit discs take to float? That's the time to beat.  
-  *Child mode:* How long did your sunlit discs take to float in The Rising Leaf Discs? Write that down. That is the time to beat!
+  *Child mode:* Find the time your sunlit discs took to float in The Rising Leaf Discs. Write it down. That is the time to beat!
 - **s2 (5 min)**  
   *Parent does:* List three ideas together before trying anything. For each idea, say which one thing will change.  
   *Parent says:* What could help the leaf make oxygen faster? For each idea, which one thing are we changing?  
@@ -664,7 +664,7 @@ Next summer, she thought, a little bit of me will be a mango.
 - **s4 (5 min)**  
   *Parent does:* Compare all the times. Read the usual and creative solutions together.  
   *Parent says:* Which change helped most? Here are some other ideas. Is there one you'd like to try?  
-  *Child mode:* Which change worked best? Look at the other ideas. Which would you try next?
+  *Child mode:* Compare all the times. Read the other ideas. Pick one to try next.
   - Think: A field of rice is millions of leaves like these. How could a farmer help them make more food?
 
 ## Worksheets

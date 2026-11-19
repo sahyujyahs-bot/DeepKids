@@ -431,8 +431,8 @@
      "id": "s2",
      "mins": 14,
      "do": "Play the game. When someone takes a WOOD or AIR card, ask why it slows the heat.",
-     "say": "Why does a wood card not move you at all?",
-     "kid": "Play. When you get a wood card, say why it stops you.",
+     "say": "Play, and follow each card you take.",
+     "kid": "Take turns. Follow each card you pick up.",
      "ask": [
       {
        "q": "Why does a wood card not move you?",
@@ -448,7 +448,7 @@
      "mins": 3,
      "do": "When the game ends, ask the winner to say how the cook could stop the heat.",
      "say": "How could the cook keep the heat away from her hand?",
-     "kid": "How could the cook keep heat away from her hand?",
+     "kid": "Think of one way the cook can keep her hand safe.",
      "check": {
       "t": "mcq",
       "q": "Which handle would keep a cook's hand coolest on a hot pan?",
@@ -527,7 +527,7 @@
      "what": "Put four butter dots along a ladle, guess the order, stand it in hot water and time each peppercorn as it falls."
     }
    ],
-   "record": "Fill in the table. Then draw the ladle with the four dots and write the time beside each one.",
+   "record": "Fill in the table. Then draw the ladle with the four dots and write the time beside each one, or tell your grown-up the order they fell.",
    "setup": [
     {
      "art": "A dry steel ladle lying on a plate, with a ruler beside it and small marks at 2, 4, 6 and 8 cm from the bowl's rim.",
@@ -560,7 +560,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Take the ladle out. 2. Put a dot of cold butter, about half a pea, on each mark, on the top side of the handle. 3. Press a peppercorn into each dot. 4. Put one more dot and peppercorn on the spare spoon on the plate.",
-     "say": "Make every dot the same size. Why do you think that matters?",
+     "say": "Make every dot the same size, about half a pea.",
      "kid": "Make four small butter dots, all the same size. Press a peppercorn into each one.",
      "ask": [
       {
@@ -578,7 +578,7 @@
      "mins": 3,
      "do": "Ask your child to guess the order the peppercorns will fall, and how long each will take. Write the guesses in the table.",
      "say": "Which peppercorn will fall first? Which last? Will they fall close together, or with long gaps? Will the top one fall at all? Why do you think so?",
-     "kid": "Guess which peppercorn falls first. Will the top one fall? Why?",
+     "kid": "Guess which peppercorn falls first, and which falls last.",
      "ask": [
       {
        "q": "Why do you think that one will fall first?",
@@ -613,8 +613,8 @@
      "id": "s6",
      "mins": 2,
      "do": "Look at the times together.",
-     "say": "Look at your times together. Which dot fell first? Did each wait get longer than the one before? Why do you think so?",
-     "kid": "Look at your times. Which dot fell first? Did the waits get longer? Why?",
+     "say": "Look at your times together. Did each wait get longer than the one before? Why do you think so?",
+     "kid": "Look at your times. Did each wait get longer than the one before?",
      "check": {
       "t": "mcq",
       "q": "On a steel ladle in hot water, which peppercorn falls first?",
@@ -695,7 +695,7 @@
      "what": "Test one spoon upright and one lying flat, with a butter dot 3 cm from the water on each."
     }
    ],
-   "record": "Fill in the table. Draw both spoons with arrows showing which way the heat moved.",
+   "record": "Fill in the table. Draw both spoons with arrows showing which way the heat moved, or point and tell your grown-up.",
    "setup": [
     {
      "art": "Two steel spoons side by side, each with a butter dot and a peppercorn 3 cm from the bowl.",
@@ -724,7 +724,7 @@
      "mins": 3,
      "do": "Ask for a guess and a reason. Write it down.",
      "say": "Which peppercorn will fall first, the standing one or the flat one? Why do you think so?",
-     "kid": "Which falls first, standing or flat? Why?",
+     "kid": "Guess which falls first, the standing spoon or the flat one.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -749,7 +749,7 @@
      "mins": 5,
      "do": "Compare the times and talk about them.",
      "say": "The flat spoon got hot along its handle too. So does heat in a spoon only go up?",
-     "kid": "The flat spoon warmed too. Does heat only go up?",
+     "kid": "Look at both times. Did the dot on the flat spoon fall too?",
      "check": {
       "t": "mcq",
       "q": "A steel spoon lies flat with its bowl in hot water. What happens to its handle?",
@@ -769,7 +769,7 @@
   {
    "id": "a1",
    "title": "The Spoon in the Tea: where does the warmth come from?",
-   "context": "This short activity starts the unit. A steel spoon stands in a hot drink, and your child feels its handle slowly warm.",
+   "context": "This short activity starts the unit. A steel spoon stands in a hot drink, and your child feels its handle slowly warm. You will find out how warmth reaches a part of the spoon that never touched the drink.",
    "mins": 8,
    "days": 1,
    "materials": [
@@ -790,7 +790,7 @@
      "what": "Stand a steel spoon in a hot drink, feel its handle after two minutes, and compare it with a spoon on the table."
     }
    ],
-   "record": "Draw the cup and the spoon. Colour the parts of the spoon you think are warm.",
+   "record": "Point to the parts of the spoon you think are warm. Tell your grown-up how the warmth got there.",
    "setup": [
     {
      "art": "A steaming cup of tea with a steel spoon standing in it, and a second steel spoon lying on the table beside it.",
@@ -833,7 +833,7 @@
      "mins": 2,
      "do": "Write down your child's idea about how the handle got warm. Do not explain yet.",
      "say": "Keep that idea. We will test it with a ladle and some butter.",
-     "kid": "How did the heat get up the spoon? Keep your idea. We will test it.",
+     "kid": "Keep your idea about how the handle got warm. We will test it.",
      "parent": "Keep the explanation for after the Ladle Line test. Your child's own idea now makes the test more interesting."
     }
    ]
@@ -841,7 +841,7 @@
   {
    "id": "a2",
    "title": "Who Melts the Ice? Your hand or the plate",
-   "context": "In this activity your child holds an ice cube in their fist while another sits on a plate. It shows that heat moves from the hand into the ice.",
+   "context": "In this activity your child holds an ice cube in their fist while another sits on a plate. You will find out which way heat moves, from the hand into the ice or from the ice into the hand.",
    "mins": 10,
    "days": 1,
    "materials": [
@@ -866,7 +866,7 @@
      "what": "Hold one ice cube in a fist over a bowl and leave one on a plate for 3 minutes. Compare what is left."
     }
    ],
-   "record": "Draw the two ice cubes after 3 minutes. Draw an arrow to show which way the heat moved.",
+   "record": "Take a photo of the two ice cubes after 3 minutes. Then use your finger to show which way the heat moved, or draw an arrow.",
    "setup": [
     {
      "art": "Two ice cubes of the same size, one on a plate and one in a child's closed fist above a small bowl.",
@@ -915,13 +915,13 @@
   },
   {
    "id": "a3",
-   "title": "Draw the Heat Inside the Ladle",
-   "context": "In this activity your child draws what they think is happening inside the steel of the ladle, where nobody can see.",
+   "title": "See the Heat Inside the Ladle",
+   "context": "In this activity your child uses a row of coins to act out what happens inside the steel of the ladle, where nobody can see. You will find out how heat gets from the water end of the handle to the top.",
    "mins": 10,
    "days": 1,
    "materials": [
     {
-     "item": "paper, a pencil and red, orange and yellow colour pencils",
+     "item": "six coins of the same kind, and one spare coin, on a flat table",
      "qty": 1
     }
    ],
@@ -932,39 +932,39 @@
      "what": "Draw a zoomed-in picture of the ladle handle, showing how the heat travels."
     }
    ],
-   "record": "Keep the drawing in your science notebook.",
+   "record": "Take a photo of your row of coins, or draw it in your science notebook.",
    "setup": [
     {
      "art": "A drawing of a ladle in hot water, with a big magnifying circle over the handle.",
-     "caption": "1. Draw the ladle, with a big circle to zoom into the handle."
+     "caption": "1. Line up six coins in a row, all touching."
     },
     {
      "art": "Inside the circle, rows of small balls: red and shaking near the water, orange in the middle, yellow and still near the top.",
-     "caption": "2. Draw the tiny particles inside. Show how they shake."
+     "caption": "2. Flick a coin at the first one. Watch the last coin."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "Ask your child to draw the ladle in hot water, with a big zoom-in circle over the handle.",
-     "say": "Imagine you could zoom in on the steel, far closer than any magnifying glass. What would you see?",
-     "kid": "Draw the ladle. Draw a big circle to zoom in on the handle."
+     "do": "Line up six coins in a row on the table, all touching. They are tiny pieces of the steel in the handle. The first is at the water, the last at the top.",
+     "say": "Steel is made of tiny pieces called particles, far too small to see. These coins stand in for them. Which coin is nearest the hot water?",
+     "kid": "Count the coins. Point to the one nearest the water."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Tell them the steel is made of tiny particles that shake more when they are hotter. Ask them to draw the particles near the water and near the top.",
-     "say": "Steel is made of tiny particles. Hotter particles shake faster. Draw how they shake near the water, and near the top.",
-     "kid": "Draw tiny balls in the circle. Hot ones shake a lot. Cool ones shake a little.",
+     "do": "Tell them that hot water makes the particles next to it shake. Ask them to flick the spare coin at the first coin and watch the last one. A real particle shakes in place, but the idea is the same.",
+     "say": "Hot water shakes the particles next to it. Flick the spare coin at the first coin. What happens at the other end?",
+     "kid": "Flick the spare coin at the first coin. Watch the last coin.",
      "parent": "A strong drawing shows the particles staying in their places, with bigger shake lines near the hot end, and smaller ones further up. Some children draw heat as a liquid running up. Ask: 'Did anything flow up the ladle?'"
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask your child to explain their drawing.",
-     "say": "Tell me about your drawing. How does the shaking get from the bottom to the top?",
-     "kid": "Explain your drawing. How does the shaking get to the top?",
+     "do": "Ask your child to explain what the coins did.",
+     "say": "Tell me what you saw. What did the coins in the middle do?",
+     "kid": "Say what happened to the last coin.",
      "ask": [
       {
        "q": "How does the shaking get to the top?",
@@ -983,7 +983,7 @@
   {
    "id": "c1",
    "title": "A Cool Grip for a Hot Ladle",
-   "context": "This is a design challenge. You make a grip for a steel ladle that keeps your hand cool, and test it with butter.",
+   "context": "This is a design challenge. You make a grip for a steel ladle that keeps your hand cool, and test it with butter. You will find out which material slows heat the most.",
    "mins": 30,
    "problem": "A steel ladle in hot sambar gets hot along its handle. Make a grip for the handle, from things at home, so that the outside of the grip stays cool.",
    "constraints": [
@@ -1006,7 +1006,7 @@
     "Wrap the handle loosely, so a layer of air is caught between the steel and the cloth.",
     "Use a strip of cardboard folded into a tube that does not touch the steel all the way round."
    ],
-   "your_turn": "Now design your own grip. Draw it, make it, and test it against a bare ladle. Which material worked best, and why?",
+   "your_turn": "Now design your own grip. Make it, and test it against a bare ladle. Which material worked best, and why?",
    "setup": [
     {
      "art": "A steel ladle with a grip of folded cloth held on by two rubber bands, and a butter dot with a peppercorn on the outside of the cloth.",
@@ -1021,9 +1021,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem together. Look at the materials and draw two ideas for a grip.",
+     "do": "Read the problem together. Look at the materials and pick two ideas for a grip.",
      "say": "Which of these things let heat through slowly? How could we use them on the handle?",
-     "kid": "Which things let heat through slowly? Draw two ideas for a grip."
+     "kid": "Which things let heat through slowly? Pick two for your grip."
     },
     {
      "id": "s2",
@@ -1054,7 +1054,7 @@
   {
    "id": "c2",
    "title": "Soften the Butter Fast, with No Flame",
-   "context": "This is a problem-solving challenge. You use what you know about conductors to soften cold butter quickly, using only hot water.",
+   "context": "This is a problem-solving challenge. You use what you know about conductors to soften cold butter quickly, using only hot water. You will find out which container passes heat to the butter fastest.",
    "mins": 20,
    "problem": "Someone is baking biscuits and needs soft butter, but the butter is hard from the fridge. You have a big bowl of hot water but no flame. Find the quickest way to soften a cube of butter.",
    "constraints": [
@@ -1108,7 +1108,7 @@
      "mins": 4,
      "do": "Talk about why the winner won. Then read the creative ideas and try one.",
      "say": "Which container softened its butter first? Why do you think it won?",
-     "kid": "Which container won? Why?"
+     "kid": "Say which container won, and what it is made of."
     }
    ]
   }

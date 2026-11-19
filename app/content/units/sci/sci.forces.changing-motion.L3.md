@@ -275,17 +275,17 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the four mats on the floor. 2. Shuffle the 24 cards and put them face down. 3. Give each player their three answer tokens. 4. Get a sheet of paper for the score. 5. Put out the TEST IT things: a paper clip, a straw, a strip of plastic bag and a biscuit.  
   *Parent says:* A force is a push or a pull. It can squash, stretch, twist or bend things. Each card shows a force changing a shape. You decide which kind.  
-  *Child mode:* Put the four mats on the floor. Mix up the cards. Put them face down. Each card shows a force changing a shape.
+  *Child mode:* Put the four mats on the floor. Mix up the cards. Put them face down.
 - **s2 (3 min)**  
   *Parent does:* Find the card 'Wringing out a wet towel'. Play it together as a practice round.  
   *Parent says:* This is a practice card: wringing out a wet towel. Which mat does it go on? And when you let go, does the towel stay twisted, spring back, or break?  
-  *Child mode:* Practice card: wringing a wet towel. Which mat does it go on? Say your answer.
+  *Child mode:* Practice card: wringing out a wet towel. Act it out with your hands.
   - Ask: Why does the towel go on the TWIST mat? (good: My hands turn opposite ways.; One end turns one way and the other end turns the other way.)
   - Check: Wringing out a wet towel is mostly… → **A twist**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns. Each player reads a card, acts it out and places it on a mat. 2. Everyone shows an answer token. 3. Write the points on the score sheet.  
   *Parent says:* Show me the force with your hands first. Then put it on a mat. Now everyone, does it stay changed, spring back, or break?  
-  *Child mode:* Take turns. Read your card. Act it out. Put it on a mat. Then hold up a token. Stays changed, springs back, or breaks?
+  *Child mode:* Take turns. Read your card. Act it out. Put it on a mat. Then hold up a token.
   - Note: Here are the answers for the cards. Stays changed: rolling the chapati (a squash and a stretch), pressing murukku dough through the press, the thumb in clay, toothpaste, stamping on the can, twisting coir, hammering the bangle, the balloon dog, and the wrung towel, which stays creased. Springs back: the rubber band pulled, the wound rubber band, the veena string (stretched sideways), the hair band, the cushion, the bamboo in wind, the diving board, the plastic ruler (if bent a little), and the cricket ball squashing on the bat. Breaks: the papad and the apple. Test cards: a straw springs back after a small bend but kinks and stays bent after a big one. A plastic bag strip stretches and stays long and thin, and tears if pulled too far. A biscuit snaps.
 - **s4 (3 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first.  
@@ -297,7 +297,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **s5 (2 min)**  
   *Parent does:* 1. Add up the points to find the winner. 2. Look at the four mats together.  
   *Parent says:* Which mat got the most cards? Which kind of shape change do we use most at home?  
-  *Child mode:* Add up your points. Who won? Which mat has the most cards? Why do you think that is?
+  *Child mode:* Add up your points. Who won?
   - Think: Which jobs at home need things that stay changed? Which need things that spring back?
 ### g2 · Six Things a Force Can Do (20 min)
 - **rules:** Put the object cards face down. Put the real objects nearby. You also need one dice, for example from a Ludo set. No dice? Write 1 to 6 on six slips of paper and draw one each turn.; On your turn, roll the dice and take an object card. The dice chart tells you what your force must do.; If the object is not moving and the dice says stop, slow down, speed up or turn, first start it moving with a push. Then do the job.; Use a push or a pull to make the object do what the dice says. For example, if the dice says 'TURN it' and your card is the toy car, you must turn the toy car.; Say whether you used a push or a pull. Write it on the force log. Everyone shares one force log.; If the others agree you did it, you win a point. If it is impossible, explain why, and you still win a point.; Put your card back at the bottom of the pile. After everyone has had 3 turns, the player with the most points wins. Players with the same points share the win.
@@ -307,11 +307,11 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **s1 (2 min)**  
   *Parent does:* 1. Put out the real objects the cards show, or something close to each. 2. Put the object cards face down. 3. Put the dice chart where everyone can see it.  
   *Parent says:* A force is a push or a pull. Forces can do six things. Start, stop, speed up, slow down, turn, and change shape. Let's do all six.  
-  *Child mode:* Forces can do six things. Start, stop, speed up, slow down, turn, change shape. Let's try them all!
+  *Child mode:* Today you will try all six jobs a force can do.
 - **s2 (3 min)**  
   *Parent does:* Do a practice turn with the soft ball. Roll the ball gently towards your child. Ask them to do each of the six things to it, one after another.  
   *Parent says:* Here comes the ball. Stop it. Now start it. Speed it up. Slow it down. Turn it. Now change its shape.  
-  *Child mode:* Roll a soft ball. Stop it. Start it. Speed it up. Slow it down. Turn it. Squeeze it!
+  *Child mode:* Your grown-up rolls a ball to you. Do each of the six jobs on it.
   - Ask: How did you turn the ball? (good: I pushed it from the side.; I tapped it so it went a new way.)
   - Check: You catch a rolling ball and hold it still. Which of the six things did your hands do? → **Stop it**
 - **s3 (12 min)**  
@@ -322,7 +322,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **s4 (3 min)**  
   *Parent does:* Look at the force logs together. Count how many pushes and how many pulls were used.  
   *Parent says:* Did we use more pushes or more pulls? Was there any job we couldn't do?  
-  *Child mode:* Look at your force log. More pushes or more pulls? Which job was hardest?
+  *Child mode:* Count the pushes and the pulls in your force log.
   - Think: When you catch a ball, your hands stop it and squash it a tiny bit. Can one force do two jobs at once?
 
 ## Experiments
@@ -330,7 +330,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **question:** Does dropping clay from higher up squash it more?
 - **predict:** Before you drop anything, guess. Will the clay dropped from 80 cm be more squashed, less squashed, or the same as from 10 cm? Why do you think so?
 - **fair test:** Change only the height. Use four clay balls of the same size, made of the same clay. Drop each onto the same steel plate. Let go, don't throw.
-- **record:** Fill in the table. Then draw a bar chart, with one bar for each height. Make each bar as tall as that patch was wide.
+- **record:** Fill in the table. Then make a bar chart, with one bar for each height. Draw it, or stack coins. Make each bar as tall as that patch was wide.
 - **results table:** Drop height (cm) | Width of the flat patch (cm) | Drawing of the squashed ball
 - **s1 (4 min)**  
   *Parent does:* 1. Make four clay balls the same size. Roll all the clay into one long sausage and cut it into four equal pieces. 2. Roll each one smooth between your palms.  
@@ -340,7 +340,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **s2 (3 min)**  
   *Parent does:* 1. Put the plate on the floor. 2. Hold the measuring tape upright beside it. 3. Ask your child to guess which drop will squash most.  
   *Parent says:* We'll drop from 10, 20, 40 and 80 centimetres. Which one will squash most? Why do you think so?  
-  *Child mode:* Put the plate on the floor. Hold a tape upright beside it. Guess. Which drop will squash most?
+  *Child mode:* Put the plate on the floor. Hold a tape upright beside it. Then guess.
 - **s3 (10 min)**  
   *Parent does:* 1. Hold the first ball beside the tape, its bottom level with 10 cm. 2. Let go without pushing. 3. Measure the width of the flat patch with the ruler. 4. Repeat with a new ball from 20, 40 and 80 cm.  
   *Parent says:* Let go gently, don't throw. Now let's measure the flat part on the bottom.  
@@ -349,7 +349,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **s4 (5 min)**  
   *Parent does:* Help your child draw a bar chart of the patch widths, one bar for each height.  
   *Parent says:* Let's turn the numbers into a picture. One bar for each height. The taller the bar, the more squashed the ball.  
-  *Child mode:* Draw one bar for each height. Make it as tall as the patch was wide. Do the bars grow?
+  *Child mode:* Draw one bar for each height, as tall as the patch was wide. Or stack coins instead, one stack for each height. Do the bars grow?
   - Check: In the clay drop chart, the bars get taller as the height goes up. This means… → **Higher drops squash the clay more**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -361,12 +361,12 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **predict:** Before testing, guess for each thing. Will it stay changed, spring back, or break? Why do you think so?
 - **fair test:** Give every thing the same force. Use the same ball, dropped down the same paper tube, from the same height. Use pieces of about the same size.
 - **safety:** A heavy ball can chip a tile or hurt toes. Keep feet away, and let a grown-up hold the tube steady. Eat nothing that has been tested.
-- **record:** Fill in the table. Then draw the six things in three groups: stays changed, springs back, breaks.
+- **record:** Fill in the table. Then take a photo of the six things sorted into three groups: stays changed, springs back, breaks.
 - **results table:** Thing | My guess | What happened | Stays changed, springs back or breaks?
 - **s1 (4 min)**  
   *Parent does:* 1. Put each of the six things on a plate. 2. Ask your child to press each one gently with a finger first.  
   *Parent says:* Feel each one with your finger. Which do you think will squash? Which will spring back? Which will break?  
-  *Child mode:* Press each thing gently with a finger. Then guess. Squash, spring back, or break? Write your guesses.
+  *Child mode:* Press each thing gently with a finger. Then guess what each one will do. Write your guesses.
 - **s2 (13 min) · grown-up needed**  
   *Parent does:* 1. Roll the newspaper into a tube just wide enough for the ball. 2. Stand it upright on the first thing. 3. Drop the ball into the top. 4. Lift the tube and look. 5. Write what happened. 6. Repeat for each thing.  
   *Parent says:* We use the same ball, the same tube and the same height every time. What happened? Was your guess right?  
@@ -374,7 +374,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   - Note: What to expect: the biscuit breaks. The dough and boiled potato stay squashed. The sponge springs back. The raw potato may dent a little or crack. The stone does not change at all that you can see. That is a useful result, not a failure. If you use a tennis ball, which is lighter than a cricket ball, the biscuit may only crack.
 - **s3 (5 min)**  
   *Parent does:* Sort the six things into three groups on the table.  
-  *Parent says:* Let's sort them into three groups: stays changed, springs back, and breaks. Where does the stone go?  
+  *Parent says:* Which things stayed squashed? Which sprang back? Which broke?  
   *Child mode:* Sort the six things into three groups: stays changed, springs back, and breaks. Where does the stone go?
   - Ask: The stone didn't change. Did the force do nothing to it? (good: It changed a tiny bit, too little to see.; It sprang back straight away.; Stone needs a much bigger force to change.)
   - Check: The sponge squashed, then sprang back. A word for this is… → **Elastic**
@@ -388,26 +388,26 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **question:** Does a bouncing ball really squash? Does a higher drop squash it more?
 - **predict:** Before you test, guess. Will the wet circle from shoulder height be bigger, smaller, or the same as from knee height? Why do you think so?
 - **fair test:** Use the same ball, wet the same way each time, on the same kind of paper. Change only the drop height. Do each height 3 times, because one try can be a fluke. Then put the three widths in order and take the middle one.
-- **record:** Fill in the table. Draw one wet circle from each height, side by side.
+- **record:** Fill in the table. Take a photo of the wet circle from each height, side by side, or draw them.
 - **results table:** Drop height | Try 1: width of wet circle (cm) | Try 2 (cm) | Try 3 (cm) | Middle value (cm)
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay paper on the floor. 2. Wet the bottom of the ball and set it down gently on the paper. 3. Lift it straight up and look at the small wet dot it made. 4. Draw round the dot with a pencil before it dries.  
+  *Parent does:* 1. Lay paper on the floor. 2. Wet the bottom of the ball and set it down gently on the paper. 3. Lift it straight up and look at the small wet dot it made. 4. Measure across the dot with the ruler before it dries.  
   *Parent says:* When this ball just sits on the floor, how much of it touches? Look, only a small dot. Now let's see how much touches when it bounces.  
   *Child mode:* Wet the ball. Set it down gently on the paper. Lift it. See the small dot? Now let's try a bounce.
 - **s2 (12 min)**  
-  *Parent does:* 1. Dip the bottom half of the ball in water and shake off the drips. 2. Drop it from knee height onto a dry part of the paper. 3. Catch it after one bounce, so it doesn't print twice. 4. Draw round the wet circle with a pencil straight away, before it dries. 5. Measure across the pencil circle. 6. Do steps 1 to 5 three times from knee height, then three times from waist height, then three times from shoulder height. Wet the ball again each time.  
+  *Parent does:* 1. Dip the bottom half of the ball in water and shake off the drips. 2. Drop it from knee height onto a dry part of the paper. 3. Catch it after one bounce, so it doesn't print twice. 4. Measure across the wet circle with the ruler straight away, before it dries. 5. Write down the width. 6. Do steps 1 to 5 three times from knee height, then three times from waist height, then three times from shoulder height. Wet the ball again each time.  
   *Parent says:* Look at the wet circle. Is it bigger or smaller than the dot? Now let's try from higher.  
-  *Child mode:* Dip the ball in water. Shake off the drips. Drop it from knee height. Catch it after one bounce. Draw round the wet circle and measure it. Now try waist and shoulder height.
+  *Child mode:* Dip the ball in water. Shake off the drips. Drop it from knee height. Catch it after one bounce. Measure the wet circle before it dries. Now try waist and shoulder height.
   - Note: The wet circle is clearly bigger than the dot the ball made resting on the paper. That shows the ball squashed flatter for a moment. A tennis ball works best, because its fuzz holds water. A smooth rubber ball can leave a patchy print, so wipe it all over with a wet cloth instead of dipping it. The prints dry fast, so draw round them at once. If a circle is hard to see, look at the paper from a slant, against the light. The circles from the three heights differ by only a few millimetres, or at most a centimetre, so some of your results may be close or in a different order. That is an honest result. Look at the middle value of the three tries, not at one try.
 - **s3 (3 min)**  
   *Parent does:* For each height, put the three widths in order and write the middle one in the last column. Put the three middle values side by side. Then drop a ball of dough from waist height onto a clean sheet of paper, for comparison.  
   *Parent says:* Which height made the biggest circle? Now let's drop a ball of dough from waist height. What do you think it will do?  
-  *Child mode:* Which circle is biggest? Now drop a ball of dough. Does it bounce? Why not?
+  *Child mode:* Which circle is biggest? Now drop a ball of dough. Does it bounce?
   - Check: Why doesn't the dough ball bounce? → **It stays squashed, so nothing pushes it back up**
 - **s4 (1 min)**  
   *Parent does:* Ask your child what a bounce is. Wait for their idea before saying anything.  
   *Parent says:* When the ball was resting, it touched only a small dot of the paper. In the bounce, the wet circle was much bigger. What happened to the ball when it hit the floor? What sent it back up?  
-  *Child mode:* The bounce made a much bigger circle than the dot. What happened to the ball? What sent it back up?
+  *Child mode:* Look at the big circle and the small dot. What do they tell you about the ball?
   - Note: A good answer: the floor pushed up and squashed the ball flatter for a moment. Then the ball sprang back to round, pushing on the floor, and the floor pushed it back up. One push changed both its shape and its direction. A bigger wet circle from a higher drop means a flatter squash, and a flatter squash needs a harder push. A ball dropped from higher hits faster. So the floor has to push harder to stop it and send it back up.
   - Think: The wet circle was bigger from a higher drop. What does that tell you about how hard the floor pushed?
 - **s5 (3 min)**  
@@ -419,25 +419,25 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 ## Activities
 ### a1 · Shape the Dough (15 min)
 - **safety:** Do not eat raw dough.
-- **record:** Draw the dough after each force. Label it squash, stretch, twist or bend.
+- **record:** Take a photo of the dough after each force, and say its name: squash, stretch, twist or bend.
 - **s1 (3 min)**  
   *Parent does:* Clap a slow beat. On each clap, call out a shape. Your child makes it with their body. Squash means curl up small. Stretch means reach tall. Twist means turn the top half while the feet stay still. Bend means touch the toes.  
   *Parent says:* Squash! Stretch! Twist! Bend! Now, spring back! Now, stay like clay!  
   *Child mode:* Listen for the claps. Squash, curl up small. Stretch, reach tall. Twist your top half. Bend down.
 - **s2 (8 min)**  
   *Parent does:* Give your child the dough. 1. Squash it flat into a chapati. 2. Roll it into a long snake. 3. Stretch the snake. 4. Twist it like a rope. 5. Bend it into a horseshoe. 6. Press a thumb in to make a diya.  
-  *Parent says:* Which force did you use? Push or pull? When you stopped, did the dough stay in its new shape?  
-  *Child mode:* Squash the dough flat. Roll a snake. Stretch it. Twist it. Bend it. Press your thumb in. Does it stay changed?
+  *Parent says:* Was that a push or a pull each time? When you stopped, what did the dough do?  
+  *Child mode:* Squash the dough flat. Roll a snake. Stretch it. Twist it. Bend it. Press your thumb in.
   - Ask: Did the dough spring back after each force? (good: No, it stayed in its new shape.; It kept the shape I made.)
 - **s3 (4 min)**  
   *Parent does:* Now squeeze a sponge or a rubber ball and let go. Compare it with the dough.  
   *Parent says:* Dough stays changed. Scientists call that a plastic change. The sponge springs back. That's called elastic. Which is better for making a diya?  
-  *Child mode:* Squeeze a sponge. Let go. It springs back! Dough stays changed. Which one is better for making a diya?
+  *Child mode:* Squeeze a sponge. Let go. Then press the dough. Compare them.
   - Check: Dough keeps its new shape after you squash it. Scientists call this… → **A plastic change**
   - Think: Why is it useful that chapati dough stays flat after you roll it?
 ### a2 · The Bendy Sponge and the Standing Ruler (15 min)
 - **safety:** Press gently on the ruler. A snapped plastic ruler can have sharp edges.
-- **record:** Draw the bent sponge and its lines. Write whether the ruler bent less lying flat or standing on its edge.
+- **record:** Take a photo of the bent sponge, or tell a grown-up what happened to the lines. Write whether the ruler bent less lying flat or standing on its edge.
 - **s1 (3 min)**  
   *Parent does:* Draw five straight lines from top to bottom on the thin side of the sponge, each about two fingers apart.  
   *Parent says:* Let's draw lines on this sponge, so we can see what happens inside it when it bends.  
@@ -464,7 +464,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **record:** Write how many coins the loose strand held, and how many the twisted wick held.
 - **s1 (4 min)**  
   *Parent does:* 1. Soak the towel and lift it out. 2. Your child wrings it out over the bucket, hands turning opposite ways.  
-  *Parent says:* Twist it tighter and tighter. What happens to the water? Why?  
+  *Parent says:* Twist it tighter and tighter. Watch the water.  
   *Child mode:* Wring the wet towel. Turn your hands opposite ways. Where does the water go?
   - Ask: Why does twisting push the water out? (good: The twist squeezes the cloth tighter.; The cloth gets squashed so water has no room.)
 - **s2 (4 min)**  
@@ -473,7 +473,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Child mode:* Hold the paper strip at both ends. Twist one end. What happens to the lines?
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Pull one tuft of cotton wool into a loose strand as long as your hand. Don't twist it. 2. Hold its ends and pull gently. 3. Pull the second tuft into a strand of the same length. 4. Hold one end still, and twist the other end round and round about 30 times. Keep the strand pulled straight while you twist. 5. Hold the two ends together and let the middle hang down. It twists round itself into a strong cord, with a loop at the bottom. 6. Hook the bag handles through the loop. Hold the two top ends tightly and add coins one at a time.  
-  *Parent says:* The loose strand pulls apart easily. Now try the wick, made from the same amount of cotton. How many coins will it hold? Why?  
+  *Parent says:* The loose strand pulls apart easily. Now try the wick, made from the same amount of cotton. How many coins will it hold?  
   *Child mode:* Pull the loose cotton gently. It comes apart! Now twist the same amount of cotton round and round. Hold its two ends together and let it twist into a cord. Hang the bag on the loop. Add coins.
   - Note: Try hanging the empty bag from the loose strand too. It usually pulls apart at once. The twisted cord should hold many coins. Folding it makes two twisted strands wind round each other, like a real rope, and the loop means no knot is needed. How many coins it holds depends on the cotton and how tightly you twist. Even a few coins, when the loose strand holds none, is a clear result. If the bag fills before it breaks, that is a good result too. The twist squeezes the short fibres against each other. Friction, the grip between them, makes them share the pull. Cotton thread and coir rope are made this way.
   - Check: The twisted wick holds more than the loose strand because… → **The twist squeezes the fibres, so they grip each other and share the pull**
@@ -485,7 +485,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 ### a4 · The Spaghetti Puzzle (10 min)
 - **problem:** Dry spaghetti is brittle, so it snaps when you bend it too far. In this activity you bend a stick until it snaps, and count the pieces. Almost nobody gets just two. The famous scientist Richard Feynman could not make it break into two either. You will find out why.
 - **safety:** Bend the spaghetti inside a bag or under a towel, and keep it away from eyes. Small sharp bits can fly.
-- **record:** Write how many pieces each stick broke into. Draw the best break.
+- **record:** Write how many pieces each stick broke into. Keep the best broken stick, or take a photo of it.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Hold a stick of spaghetti by both ends, inside the bag. 2. Bend it slowly until it snaps. 3. Count the pieces. 4. Do this 5 times.  
   *Parent says:* Guess first. How many pieces will it break into? Let's count.  
@@ -493,7 +493,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **s2 (3 min)**  
   *Parent does:* Ask your child why it never broke into just two pieces. Listen to their idea first. Then tell the story of the puzzle.  
   *Parent says:* Why do you think it breaks into three or more? A famous scientist, Richard Feynman, tried for a whole evening and never got two. In 2005, two French scientists explained why. When it first snaps, both halves spring back so fast that they snap again.  
-  *Child mode:* Why do you think it breaks into many pieces? A famous scientist tried this all evening. He never got two pieces! When it snaps, the halves spring back so fast they snap again.
+  *Child mode:* Listen to the story of the puzzle. Then answer the question below.
   - Check: Why does dry spaghetti usually break into 3 or more pieces? → **The first snap makes the halves spring back so fast they break again**
 - **s3 (3 min)**  
   *Parent does:* Try the trick found at MIT in 2018. Hold both ends and twist the spaghetti about three-quarters of a turn. Then bend it slowly.  
@@ -504,11 +504,11 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 ### a5 · Is the Table Bending? (a laser and a mirror) (10 min)
 - **problem:** A hard table does not look as if it changes shape when you press it. But it bends a tiny bit, too little to see. A mirror lying on the table tilts a tiny bit when the table bends. A laser beam bounced off the mirror makes a dot on a far wall. On the far wall, the tiny tilt becomes a movement you can see. In this activity you watch the dot to find out whether the table bends.
 - **safety:** Only a grown-up holds the laser. Never point it at anyone's eyes, and never look into the beam or its reflection. Use a toy-strength laser pointer.
-- **record:** Draw the table, the mirror, the beam and the dot on the wall. Mark how far the dot moved.
+- **record:** Measure how far the dot moved from the edge of the tape, and write it down. Or take a photo of the dot against the tape.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Lay the mirror flat in the middle of a table that is at least 2 metres from a wall. 2. A grown-up props the laser on books on a chair beside the table. Keep it off the table, so pressing the table cannot move it. 3. Aim it at the mirror and find the red dot on the wall. 4. Stick a strip of tape on the wall, with its edge exactly at the dot.  
   *Parent says:* Does a solid table change shape when you press it? We can't see it. Let's use a beam of light to find out.  
-  *Child mode:* Does a hard table change shape when you press it? Ask a grown-up to set up the laser. Find the dot on the wall.
+  *Child mode:* Ask a grown-up to set up the laser. Find the red dot on the wall.
   - Note: No laser pointer at home? They are cheap at stationery and electronics shops. If you don't have one, skip this activity: it is an extra, and the dot may move very little. The wet ball prints test shows a hidden squash too.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* Your child presses down firmly with both hands on the table, a hand-width away from the mirror, then lets go. Everyone watches the dot against the edge of the tape.  
@@ -524,32 +524,32 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   - Think: If even a table bends, does the floor bend when you stand on it?
 ### a6 · Make Mountains, Squash a Planet (20 min)
 - **problem:** Forces also make mountains and change the shape of the Earth. In the first part, a towel stands for the old sea floor and a wall stands for Asia. You see how a push folds rock into mountains. In the second part, you make a small paper Earth and spin it, to see how spinning changes its shape.
-- **record:** Draw the folded towel as mountains. Draw the paper globe before and while spinning.
+- **record:** Take a photo of the folded towel, and of the paper globe before and while spinning. Or tell a grown-up what changed.
 - **s1 (8 min)**  
   *Parent does:* 1. Lay the towel flat on the floor, one end against a wall. 2. Put a small object, like a toy shell or a button, on the towel. 3. Your child pushes the other end slowly towards the wall.  
   *Parent says:* This towel is the old sea floor. The wall is Asia. You are India, pushing north. Watch what happens.  
-  *Child mode:* The towel is the sea floor. The wall is Asia. You are India. Push slowly towards the wall!
+  *Child mode:* Push the other end of the towel slowly towards the wall. Watch the towel and the shell.
   - Ask: What happened to the towel? Where did the shell go? (good: It folded up into hills.; The shell got lifted up high.)
 - **s2 (4 min)**  
   *Parent does:* Talk about the real Himalayas.  
   *Parent says:* India's plate moves north about 5 centimetres every year. About 50 million years ago it began to crash into Asia. The rock folded up like the towel. That's why sea shells are found high in the Himalayas.  
-  *Child mode:* India still moves north, about as fast as fingernails grow. It folded up the Himalayas. Sea shells are found on top!
+  *Child mode:* Listen to how the real Himalayas were made.
   - Check: Why are fossil sea shells found high in the Himalayas? → **The old sea floor was pushed up into mountains**
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Rest each paper strip on a folded towel and make a small hole in its middle with the pencil tip. 2. Lay one strip across the other like a plus sign, with the holes lined up. 3. Push the pencil up through both holes, so the strips can slide on it. 4. Bend the four arms down, like the lines on a globe. Tape each end to the pencil near its bottom. 5. Spin the pencil fast between your palms.  
-  *Parent says:* This is the Earth. Spin it fast. What happens to its shape?  
+  *Parent says:* This paper ball is the Earth. Spin it fast and watch its middle.  
   *Child mode:* Make a hole in the middle of each strip. Cross the strips and push the pencil through the holes. Tape the four ends to the pencil near the bottom. Spin the pencil fast between your hands. What happens to the shape?
   - Note: As the strips spin, they flatten at the top and bottom and bulge at the middle. The real Earth spins too. It is about 43 kilometres wider across the equator than from pole to pole. The strips must be free to slide down the pencil at the top, or they can't flatten. If the strips hardly change, spin faster, or use thinner paper. The change is small, just as the real Earth is only a little squashed. A small bulge is a fair result.
   - Think: Which part of your paper Earth bulged out when it spun, and which parts flattened? The real Earth does the same.
 
 ## Projects
 ### p1 · Am I Taller in the Morning? (30 min, 3 days)
-- **record:** Fill in the table: day, morning height, bedtime height, difference. Draw the two heights as two bars.
+- **record:** Fill in the table: day, morning height, bedtime height, difference. Cut two paper strips, one as long as each height, and lay them side by side.
 - **schedule:** day 1: Set up the wall strip. Measure at bedtime. Guess what the morning will show. (4 min); day 2: Measure as soon as you wake up, and again at bedtime. (6 min); day 3: Measure first thing in the morning, find the differences, and talk about astronauts' bones. (20 min)
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Tape a paper strip upright on the wall. 2. Your child stands barefoot, heels, back and head against the wall. 3. Rest a book flat on their head and mark the strip under it. 4. Measure the height from the floor.  
   *Parent says:* Let's measure you tonight. Tomorrow morning we'll measure again. Do you think you'll be the same?  
-  *Child mode:* Stand against the wall. Heels back. Stand tall. A grown-up marks your height. Will you be the same in the morning?
+  *Child mode:* Stand against the wall. Heels back. Stand tall. A grown-up marks your height.
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* Measure again as soon as your child wakes up, before they walk around much. Use the same wall, book and way of standing.  
   *Parent says:* You are straight out of bed. Stand the same way, and we'll use the same book. Let's see how tall you are.  
@@ -562,13 +562,13 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   - Wait: Measure at bedtime on day 2, and first thing on day 3.
 - **s4 (7 min)**  
   *Parent does:* Find the difference between each bedtime and the next morning. Then talk about why.  
-  *Parent says:* You were taller in the morning! During the day, your weight squashes the soft pads between the bones of your back. At night, lying down, they spring back.  
+  *Parent says:* You should be a little taller in the morning. During the day, your weight squashes the soft pads between the bones of your back. At night, lying down, they spring back.  
   *Child mode:* Were you taller in the morning? Your back squashes a little during the day. At night it springs back!
   - Check: Why are you a little taller in the morning? → **The pads in your spine spring back while you lie down at night**
 - **s5 (7 min)**  
   *Parent does:* Talk about astronauts.  
   *Parent says:* In space, astronauts float, so nothing squashes their spine. They grow a few centimetres taller. But their bones get weaker, because nothing pushes on them. So they exercise for about two hours every day.  
-  *Child mode:* In space, astronauts grow a little taller! But their bones get weaker, because nothing pushes on them. So they exercise every day.
+  *Child mode:* Listen to what happens to astronauts in space.
   - Think: Your bones get stronger when you run and jump. What could you do today that your bones would like?
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -579,7 +579,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 ## Challenges
 ### c1 · The Paper Bridge (30 min)
 - **problem:** Make one sheet of paper hold as many coins as possible over a gap between two books 15 cm apart.
-- **your turn:** Now invent your own shape. Draw it, test it and count the coins. Can you beat the fan?
+- **your turn:** Now invent your own shape. Build it, test it and count the coins. Can you beat the fan?
 - **constraints:** Use only one sheet of A4 paper.; You may fold, roll or cut it, but you may not use tape or glue.; The coins sit in the middle of the gap. The bridge fails when it sags down to the table.
 - **general:** Fold the paper like a fan, so each fold is a little wall standing on its edge.; Roll it into tubes, and lay the tubes side by side.; Fold the two long edges up, like a gutter, so the sides stand up.
 - **creative:** Make a fan, then lay a flat strip on top so the coins have a floor.; Make an arch under the bridge, pressing its feet against the books.; Copy the wavy layer inside a cardboard box.
@@ -588,9 +588,9 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
   *Parent says:* Let's see how many coins a flat sheet can hold. Guess first.  
   *Child mode:* Put two books 15 cm apart. Lay a flat sheet across. Add coins one by one. How many before it sags?
 - **s2 (5 min)**  
-  *Parent does:* Before trying anything, draw three ideas together.  
+  *Parent does:* Before trying anything, plan three ideas together. Sketch them, or fold small scrap-paper models.  
   *Parent says:* Engineers design before they build. Can we make the paper stronger just by changing its shape?  
-  *Child mode:* Think like an engineer. Draw three shapes that might be stronger. Do this before you build.
+  *Child mode:* Think like an engineer. Plan three shapes that might be stronger, before you build. Sketch them, or fold a small paper model of each.
 - **s3 (12 min)**  
   *Parent does:* 1. Build and test each idea with a new sheet. 2. Count the coins each time. 3. Write the numbers.  
   *Parent says:* Test each shape the same way. Which holds the most?  
@@ -606,7 +606,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 ### c2 · Save the Egg (30 min)
 - **problem:** Drop a raw egg from 1 metre onto the floor without breaking it. You must protect it with things that squash, so the egg doesn't have to.
 - **safety:** Raw egg can carry germs. Wash your hands after handling it, and clean the floor.
-- **your turn:** Now design your own egg protector. Draw it, build it, and drop it. What will you change next time?
+- **your turn:** Now design your own egg protector. Plan it, build it, and drop it. What will you change next time?
 - **constraints:** The egg goes inside a plastic bag, to keep any mess in.; Use only things from home, like paper, cloth, sponges, straws or a paper cup.; Your protector must fit inside a shoebox.
 - **general:** Wrap the egg in lots of crumpled paper or cloth, which squashes and slows the egg gently.; Put the egg in a cup stuffed with sponge.; Pack the egg tightly into a box with sponge or crumpled paper on every side.
 - **creative:** Build a cage of straws that bend and crumple on landing, like the crumple zone at the front of a car.; Hang the egg in the middle of a box on rubber bands, so it bounces instead of hitting.; Copy a bicycle helmet: a hard outside with soft foam inside.
@@ -622,7 +622,7 @@ Iba opened her mouth to shout at him. Then she closed it again. She watched the 
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Spread a sheet on the floor. 2. Hold the protector at 1 metre. 3. Drop it. 4. Open it and check the egg.  
   *Parent says:* Three, two, one, drop! Let's look. What squashed? Did the egg survive?  
-  *Child mode:* Hold it 1 metre up. Drop it! Open it. What squashed? Is the egg okay?
+  *Child mode:* Hold it 1 metre up. Drop it! Open it and look.
   - Check: Why does crumpled paper help protect the egg? → **The paper squashes, so the egg stops more gently**
 - **s4 (7 min)**  
   *Parent does:* Read the usual solutions and the creative ideas together. Then improve the design and try again.  

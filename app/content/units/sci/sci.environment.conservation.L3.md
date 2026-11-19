@@ -224,7 +224,7 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - **s2 (3 min)**  
   *Parent does:* Play 3 rounds with the herd staying on Field 1. Count the tokens on Field 1 after each round.  
   *Parent says:* Let's first try staying in one field. Each round the herd eats 2 tokens and the field grows 1 back. What happens to Field 1?  
-  *Child mode:* Keep the herd on Field 1. Eat 2 beans. Grow 1 back. Do it 3 times. What happens?
+  *Child mode:* Keep the herd on Field 1. Take off 2 beans for the cows' meal. Put 1 bean back for new grass. Do it 3 times.
   - Note: Reset the board after the trial. The point is to see that a field shrinks when the herd eats faster than the grass grows back.
   - Check: Field 1 started with 5 tokens. Each round the herd eats 2 and the field grows 1 back. How many are left after 3 rounds? → **2**
 - **s3 (12 min)**  
@@ -235,7 +235,7 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - **s4 (2 min)**  
   *Parent does:* Ask what kept the fields growing.  
   *Parent says:* What did we do that kept the fields alive? Real herders in Rajasthan move their sheep and camels across the year for the same reason.  
-  *Child mode:* What kept your fields alive? Why did moving the herd help?
+  *Child mode:* Think back to how your herd moved. Tell your grown-up what helped.
   - Ask: Why did moving the herd help? (good: Each field got time to grow back.; The herd ate less than grew back in each field.; No field was eaten down to nothing.)
 ### g2 · Who Needs What: a matching game of animals and their care (15 min)
 - **rules:** Cut the 16 cards and lay them face down in 4 rows.; Turn over 2 cards. If they are an animal and what she needs, say why she needs that, and keep the pair.; If they do not match, or you cannot say why, turn them back. The next player has a turn.; The game ends when all 8 pairs are found. With two or four players, the player with the most pairs wins. With one player, count your turns and try to beat that next time.
@@ -252,7 +252,7 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* Let's check one pair together. Why does a hen need a dry coop?  
-  *Child mode:* Why does a hen need a dry coop? Pick the answer.
+  *Child mode:* Think about the hen. Pick the best answer.
   - Note: The answer is that damp and dirt bring disease. Germs and tiny pests grow fast in damp bedding, so hens fall ill.
   - Check: Why does a hen need a dry coop? → **Damp and dirt bring disease**
 
@@ -263,7 +263,7 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - **predict:** Guess first. You will cut the wheat and the moong 2 centimetres above the soil. After four days, which will be taller: the wheat, the moong, or both the same? Why do you think so?
 - **fair test:** Grow both in the same tub, with the same soil, the same water and the same light. Cut both at exactly 2 centimetres. Only the kind of plant is different. Measure 3 plants of each kind, not 1, because one plant might be odd. Leave 5 wheat plants uncut, to compare.
 - **safety:** A grown-up makes the holes in the tub with a heated skewer or the tip of a pair of scissors. Mind the hot metal.
-- **record:** Fill in the table each time. On the last day, draw one cut wheat plant and one cut moong plant, side by side, with their heights.
+- **record:** Fill in the table each time. On the last day, take a photo of one cut wheat plant and one cut moong plant, side by side with a ruler. Or draw them, with their heights.
 - **results table:** Day | Wheat 1 (cm) | Wheat 2 (cm) | Wheat 3 (cm) | Moong 1 (cm) | Moong 2 (cm) | Moong 3 (cm) | What I noticed
 - **schedule:** day 1: Soak the wheat and the moong overnight, in separate bowls. (5 min); day 2: Fill the tub with soil. Sow wheat on one half and moong on the other. Cover lightly and water. Sow a second tub with only wheat, for the Bare Tub Test. (12 min); day 3: Water if the soil feels dry. Look for shoots. (2 min); day 5: Water and look. (2 min); day 7: Water and look. Measure the tallest plant of each kind. (2 min); day 9: Both should be about 8 to 12 centimetres tall. Measure 3 plants of each kind. Guess which kind will grow back. Cut both at 2 centimetres, but leave 5 wheat plants uncut. (15 min); day 10: Measure the 3 cut wheat and the 3 cut moong. (3 min); day 11: Measure again. Look closely at the tips of the cut wheat. (3 min); day 13: Measure for the last time. Say what you think, what you saw and why. Keep both tubs for the next experiments. (10 min)
 - **s1 (5 min)**  
@@ -284,13 +284,13 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
   - Wait: Water every day or two for about a week, until both kinds are 8 to 12 centimetres tall.
 - **s4 (6 min)**  
   *Parent does:* 1. Choose 3 wheat plants and 3 moong plants near the middle of each half. 2. Measure each from the soil to the top. 3. Write the heights in the table as Day 9, before the cut. 4. Look closely at where each plant's leaves come from.  
-  *Parent says:* Let's measure first, so we can compare later. Now look at the wheat leaves. Where do they come out of the plant? And where do the moong leaves come out?  
-  *Child mode:* Measure 3 wheat and 3 moong. Write the numbers down. Where do the wheat leaves start? Where do the moong leaves start?
+  *Parent says:* Let's measure first, so we can compare later. Then we will look closely at the leaves of both plants.  
+  *Child mode:* Measure 3 wheat and 3 moong. Write the numbers down. Then look closely at the leaves.
   - Ask: Where do the leaves come from on each plant? (good: The wheat leaves come straight out of the soil.; The moong leaves are at the top of a stem.; The moong has two round leaves and a stem.)
 - **s5 (4 min)**  
   *Parent does:* Ask your child to guess, and to give a reason. Write the guess down.  
   *Parent says:* We are going to cut both kinds at 2 centimetres, like a cow biting off the top. In four days, which will be taller? Why do you think so?  
-  *Child mode:* We will cut both at 2 centimetres. Which will grow back? Why do you think so? Write your guess.
+  *Child mode:* Guess which plant will grow back, and say why. Your grown-up writes your guess down.
   - Note: Accept any guess with a reason. Many children think neither will grow back, or that both will. Don't correct the guess. The test will answer it.
 - **s6 (5 min) · grown-up needed**  
   *Parent does:* 1. Stand the ruler upright in the soil. 2. Cut the 3 measured wheat plants, and all the other wheat except 5, exactly at the 2 centimetre mark. 3. Cut all the moong at 2 centimetres too. 4. Leave the 5 uncut wheat plants in one corner.  
@@ -300,11 +300,11 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - **s7 (6 min)**  
   *Parent does:* On days 10, 11 and 13, measure the same 3 wheat and 3 moong from the soil to the top. Write each height in the table. Look at the tips of the cut wheat leaves.  
   *Parent says:* Let's measure the same plants. Look at the tips of the wheat. Are they pointed, or flat where we cut them?  
-  *Child mode:* Measure the same 3 wheat and 3 moong. Write the numbers. Look at the tips of the wheat. Are they pointed or flat?
+  *Child mode:* Measure the same 3 wheat and 3 moong. Write the numbers. Look closely at the tips of the wheat leaves.
   - Note: Cut wheat usually grows back 1 to 2 centimetres a day in a warm room. New, pointed leaves also come up from the middle. The moong stumps usually stay the same height and may dry up. If a moong stump kept their round seed leaves, a small side shoot may slowly grow beside them, from a bud. Write it down if you see it.
   - Check: The cut wheat leaves are taller, but their tips are still flat where you cut them. Where did the new part grow? → **At the bottom, near the soil, pushing the flat tip up**
 - **s8 (10 min)**  
-  *Parent does:* 1. On the last day, draw a bar chart with one bar for the height of each plant. 2. Ask your child to say or write three things: what I think, what I saw, and why.  
+  *Parent does:* 1. On the last day, read down the table together and see which plants got taller. 2. Ask your child to say or write three things: what I think, what I saw, and why.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?  
   *Child mode:* Say or write three things: what you think, what you saw, and why you think it happened.
   - Note: A good answer: What I think: wheat grows back after cutting and moong doesn't. What I saw: the cut wheat grew from 2 to 7 centimetres in four days, and the moong stayed at 2. Why: wheat grows from the bottom of the leaf, so cutting the top doesn't stop them. Now read the card 'Why grass grows back after grazing'. Keep both tubs: the Dot Test uses the 5 uncut wheat plants, and the Bare Tub Test uses the second tub.
@@ -313,17 +313,17 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - **question:** Does a wheat leaf grow longer at the top, in the middle, or at the bottom?
 - **predict:** Guess first. You put one dot 2 centimetres above the soil and one 4 centimetres above the soil. In two days, will the dots move apart, stay where they are, or both move up together? Why do you think so?
 - **fair test:** Mark 3 leaves, not 1, in case one leaf is odd. Measure from the same place, the top of the soil, every time.
-- **record:** Fill in the table. Draw one leaf on day 1 and on day 3, with its dots.
+- **record:** Fill in the table. Take a photo of one leaf with its dots, next to the ruler, on day 1 and on day 3.
 - **results table:** Leaf | Day 1: soil to lower dot (cm) | Day 1: gap between dots (cm) | Day 3: soil to lower dot (cm) | Day 3: gap between dots (cm)
 - **schedule:** day 1: Put two dots on each of 3 young wheat leaves. Measure the dots from the soil. Guess what the dots will do. (10 min); day 3: Measure the dots again. Compare with day 1. (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Choose 3 young wheat leaves. 2. Hold the ruler upright in the soil beside each leaf. 3. Put a small ink dot on the leaf at 2 centimetres, and another at 4 centimetres. 4. Write down the heights and the gap, which is 2 centimetres.  
-  *Parent says:* If a leaf grows at the top, the dots stay where they are. If the leaf grows in the middle, the dots move apart. What if the leaf grows at the bottom? What do you think will happen? Why?  
-  *Child mode:* Put a dot at 2 centimetres. Put another at 4 centimetres. Do it on 3 leaves. What will the dots do?
+  *Parent says:* A leaf could grow at the top, in the middle or at the bottom. If it grows at the top, the dots stay where they are. If it grows in the middle, the dots move apart. Where do you think it grows, and why?  
+  *Child mode:* Put a dot at 2 centimetres. Put another at 4 centimetres. Do it on 3 leaves.
 - **s2 (10 min)**  
   *Parent does:* 1. Measure from the soil to the lower dot on each leaf. 2. Measure the gap between the two dots. 3. Write them in the table.  
   *Parent says:* Are the dots further apart? Are they higher? What does that tell us about where the leaf grows?  
-  *Child mode:* Measure from the soil to the lower dot. Measure the gap. Did the dots move apart, or just move up?
+  *Child mode:* Measure from the soil to the lower dot. Then measure the gap between the two dots.
   - Note: The lower dot usually rises by 1 to 3 centimetres in two days while the gap stays about the same. If the lower dot was very close to the soil, the gap may grow a little, because the growing part is right there. That is a useful clue too. If the dots barely rose, the leaf may be too old to be growing fast. Try a younger leaf, and say so in your notes.
   - Check: Both dots are higher above the soil, but the gap between them is still 2 centimetres. Where is the leaf growing? → **Below the lower dot, near the soil**
 ### e3 · The Bare Tub Test: does a mat of roots keep soil from washing away? (25 min)
@@ -332,7 +332,7 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - **predict:** Guess first. Which tub will lose more soil when we pour water on it: the bare tub or the wheat tub? What will the water look like? Why do you think so?
 - **fair test:** Use the same kind of soil in both tubs. Tilt them on the same books, to the same slope. Pour the same amount of water, from the same height, at the same speed. Only the cover is different.
 - **safety:** A grown-up makes the holes in the bottle cap with a heated skewer or a nail. Do this in the bathroom or on the balcony, where mud can be washed away.
-- **record:** Draw the two bowls, colouring the water as it looked. Fill in the table.
+- **record:** Fill in the table. Take a photo of the two bowls side by side.
 - **results table:** Tub | Colour of the water that ran off | Soil settled in the bowl after 10 minutes (a little, some, a lot)
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Cover the books with the plastic bag. 2. Lean both tubs on the books, at the same slope, with the holes facing down the slope. 3. Put a bowl at the low end of each tub, under the holes and the edge.  
@@ -342,7 +342,7 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - **s2 (4 min)**  
   *Parent does:* Ask for a guess and a reason before any water is poured.  
   *Parent says:* We will sprinkle the same amount of water on both, like rain. Which bowl will get more soil? Why do you think so?  
-  *Child mode:* Which bowl will get more soil? Why do you think so?
+  *Child mode:* Say which bowl you think will get more soil, and say why.
 - **s3 (5 min)**  
   *Parent does:* 1. Fill the bottle with 2 cups of water. 2. Hold it about 20 centimetres above the top of the bare tub. 3. Squeeze gently so it sprinkles, for about 1 minute. 4. Do the same for the wheat tub.  
   *Parent says:* Rain gently, from the same height, for the same time. Watch where the water goes.  
@@ -351,19 +351,19 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - **s4 (10 min)**  
   *Parent does:* 1. Compare the colour of the water in the two bowls. 2. Wait 10 minutes for the soil to settle. 3. Tip the bowls gently and look at the soil at the bottom.  
   *Parent says:* Which bowl is muddier? Which has more soil at the bottom? What did the roots do?  
-  *Child mode:* Which water is browner? Wait 10 minutes. Which bowl has more soil at the bottom?
+  *Child mode:* Look at the water in both bowls. Wait 10 minutes. Then look at the bottom of each bowl.
   - Note: The bare tub usually gives brown water and a clear layer of soil in the bowl. The wheat tub's water is usually much clearer, because the roots form a mat. Link it to the card 'Soil needs a cover': this is why an overgrazed field loses its soil.
   - Check: The bare tub's water was brown, and the wheat tub's water was much clearer. Why? → **The roots held the soil, and the leaves slowed the drops**
 
 ## Activities
 ### a1 · The Onion Test: where does a cut leaf grow from? (10 min, 3 days)
 - **safety:** A grown-up cuts with the knife.
-- **record:** Draw the onion on day 1 and on day 3, with the heights.
+- **record:** Write the height of the onion on day 1 and on day 3. Take a photo each day if you like.
 - **schedule:** day 1: Cut the green leaves 3 centimetres above the white part. Stand the bottoms in 2 centimetres of water. (5 min); day 3: Look and measure. Where did the new green come from? (5 min)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Cut the green leaves 3 centimetres above the white part. 2. Stand the bottoms, roots down, in 2 centimetres of water. 3. Put the tumbler by a window.  
   *Parent says:* We cut off almost all the leaves. Will the onion grow new ones? If so, where from: the top of the cut, or the middle?  
-  *Child mode:* A grown-up cuts the leaves. Put the white bottoms in water. Where will new green come from?
+  *Child mode:* A grown-up cuts the leaves. You put the white bottoms in water.
 - **s2 (5 min)**  
   *Parent does:* 1. Measure the tallest new leaf. 2. Look at where it comes out: from the cut edge, or from inside the middle.  
   *Parent says:* Where did the new leaf come from? Is the old cut edge any taller?  
@@ -389,7 +389,7 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
 - **schedule:** day 1: Make the gauge and put it in an open spot on the balcony or terrace. (10 min); day 2: After a rain, read the millimetres. Work out the litres that fell on your balcony. (15 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Put a few stones in the bottom of the bottle. 2. Add water just to cover them, and mark that level as zero. 3. Tape a millimetre strip upwards from the zero mark. 4. Put it in the open, away from walls and roofs.  
-  *Parent says:* Rain falls evenly, so the depth in our bottle is the depth all over the balcony.  
+  *Parent says:* The stones keep the bottle from blowing over. The rain that lands in it shows how deep the rain is all over our balcony.  
   *Child mode:* Put stones in the bottle. Add water to cover them. Mark zero there. Put it outside.
 - **s2 (15 min)**  
   *Parent does:* 1. Read how many millimetres the water rose. 2. Measure the balcony's length and width in metres. 3. Multiply them for the square metres. 4. Multiply by the millimetres. That is the litres.  
@@ -404,16 +404,16 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
   *Parent says:* Milk, ghee and curd came from a cow or a buffalo. What else came from an animal?  
   *Child mode:* Find 5 things that came from an animal. Look in the kitchen and the cupboard.
 - **s2 (7 min)**  
-  *Parent does:* For each thing, draw the animal and write one thing she needs.  
-  *Parent says:* The honey came from bees. What do bees need to make it?  
-  *Child mode:* Draw each animal. Write one thing she needs.
+  *Parent does:* For each thing, ask which animal each thing came from, and what she needs. Write both in the chart.  
+  *Parent says:* Let's start with the honey. It came from bees.  
+  *Child mode:* Say which animal gave each thing. Then say one thing she needs.
   - Ask: What do bees need? (good: Flowers without poison sprays.; Lots of flowers.; A safe place for the hive.)
   - Note: Honeybees make honey from nectar they collect from flowers. Pesticide sprays harm them, so flowers grown without sprays matter.
 
 ## Projects
 ### p1 · The Grazing Diary: how often can wheat be cut? (45 min, 15 days)
 - **problem:** Grass can be eaten again and again. Does it grow back as well every time? You will keep cutting the same wheat every 3 days. Then you will see whether the regrowth stays the same.
-- **record:** A table: date, regrowth of each plant since the last cut. Then a bar chart.
+- **record:** A table: date, regrowth of each plant since the last cut. Then, if you like, a bar chart.
 - **schedule:** day 1: Choose 3 wheat plants. Cut them at 2 centimetres. Cut 3 others at 1 centimetre. Mark both groups. (10 min); day 4: Measure all 6. Cut them again at the same heights. (5 min); day 7: Measure and cut again. (5 min); day 10: Measure and cut again. (5 min); day 13: Measure and cut again. (5 min); day 15: Measure for the last time. Make a bar chart with one bar for each cut. Say what you found. (15 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Choose 6 cut wheat plants of about the same height. 2. Mark 3 with a stick labelled 2 cm, and 3 with a stick labelled 1 cm. 3. Cut each group at its height.  
@@ -425,15 +425,15 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
   *Child mode:* Measure how much each one grew. Write it. Cut again.
   - Wait: Come back every 3 days for two weeks.
 - **s3 (15 min)**  
-  *Parent does:* 1. Draw a bar chart with one bar for each cut, showing how much the wheat grew back. 2. Ask your child what they think, what they saw and why.  
+  *Parent does:* 1. Look at the table together. If your child likes, draw a bar chart with one bar for each cut. 2. Ask your child what they think, what they saw and why.  
   *Parent says:* Did the wheat grow back the same each time? Did cutting close to the soil make a difference?  
-  *Child mode:* Draw a bar for each cut. Did they grow back the same each time? Why?
+  *Child mode:* Draw a bar for each cut, or read your numbers out loud.
   - Note: Most often the regrowth gets smaller after several cuts, and the plants cut at 1 centimetre slow down sooner. Young wheat lives on the seed's stored food and on the light their leaves catch, and each cut takes some away. Some plants may die. Whatever happens, it is a real result. This is overgrazing in a tub.
 
 ## Challenges
 ### c1 · Save the Slope (30 min)
 - **problem:** A bare tub of soil, tilted like a hillside, loses soil every time it rains. Without growing anything, find a way to keep the soil in the tub when you pour rain on it.
-- **your turn:** Now invent your own way to save the slope. Draw it, build it and sprinkle water on it like rain. Is the water that runs off clearer than from the bare tub?
+- **your turn:** Now invent your own way to save the slope. Build it and sprinkle water on it like rain. Is the water that runs off clearer than from the bare tub?
 - **constraints:** Use only things from home.; Use the same tilt and the same 2 cups of rain as in the Bare Tub Test.; Compare the water that runs off with the water from a bare tub.
 - **general:** Cover the soil with dry leaves or coir. Farmers call this mulch. It softens the drops.; Push ice-cream sticks into the soil in rows across the slope, like little walls. Farmers on hills build steps called terraces.; Lay an old cloth or a coir mat over the soil and pin it down.
 - **creative:** Make small ridges of soil across the slope with your finger, like the contour bunds farmers build.; Put stones at the bottom edge to make a small check dam that slows the water.; Mix the ideas: terraces of sticks with leaves on each step.
@@ -442,18 +442,18 @@ Back in Chennai, Kavya asked Amma for a handful of wheat and a tub of soil. She 
   *Parent says:* This is what happens to a bare hillside. Now we try to keep the soil in the tub without growing anything.  
   *Child mode:* Rain on the bare tub. Look at the brown water. That is soil leaving.
 - **s2 (5 min)**  
-  *Parent does:* Draw three ideas before building.  
-  *Parent says:* Engineers draw first. What could soften the drops, or slow the water down?  
-  *Child mode:* Draw three ideas to keep the soil in the tub.
+  *Parent does:* Ask your child for three ideas before building. They can say them, or show them with the things on the table.  
+  *Parent says:* Engineers plan first. What could soften the drops, or slow the water down?  
+  *Child mode:* Say three ideas, or show them with the things on the table.
 - **s3 (15 min)**  
   *Parent does:* 1. Refill the tub with fresh soil. 2. Build one idea. 3. Sprinkle 2 cups of water on it like rain. 4. Compare the water that runs off with the water in the bare tub's bowl.  
   *Parent says:* Is this water clearer than the bare tub's? What did your idea do to the drops?  
-  *Child mode:* Build your best idea. Rain on it. Is the water clearer?
+  *Child mode:* Build your best idea. Then rain on it.
   - Note: Dry leaves or coir usually make the biggest difference, because they stop drops hitting the soil. Sticks alone help less unless they are close together.
 - **s4 (5 min)**  
   *Parent does:* Read the usual and creative ideas together, then invent one more.  
   *Parent says:* Here is what farmers do. Can you think of one more way?  
-  *Child mode:* Read the farmers' ideas. Can you invent a new one?
+  *Child mode:* Read the farmers' ideas. Then make up a new one.
   - Note: The fallen leaves soften the rain drops and slow the water down. So the soil stays in place, and the streams from a forest stay clear. This is the same idea as the dry leaves in the slope tubs.
   - Think: A forest floor is covered in fallen leaves all year. What does that do in the monsoon?
 

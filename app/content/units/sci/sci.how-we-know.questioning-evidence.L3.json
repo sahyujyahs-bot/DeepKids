@@ -487,7 +487,7 @@
           "mins": 2,
           "do": "1. Cut out the cards. 2. Give each player a CHECKED and an ONLY SOUNDS TRUE card. 3. Shuffle the claim cards.",
           "say": "Each card has a claim. Some were checked and found true. Some only sound true. You decide which.",
-          "kid": "Each card has a claim. Was it checked, or does it only sound true?",
+          "kid": "Get your two answer cards ready.",
           "context": "This is the first step of Checked or Only Sounds True?, a card game about claims."
         },
         {
@@ -495,10 +495,10 @@
           "mins": 3,
           "do": "Take the goldfish card out of the pile and read it first as a practice round. It counts like any other card.",
           "say": "A goldfish forgets everything after three seconds. Checked, or only sounds true?",
-          "kid": "A goldfish forgets everything in three seconds. Checked or only sounds true?",
+          "kid": "Hold up CHECKED or ONLY SOUNDS TRUE.",
           "check": {
             "t": "mcq",
-            "q": "Many people say a goldfish forgets everything after three seconds. Scientists trained goldfish to come to a sound at feeding time. Months later, the fish still came. What does this show?",
+            "q": "Scientists trained goldfish to come to a sound at feeding time. Months later, the fish still came. What does this show?",
             "options": [
               "The three-second story is true",
               "Goldfish remember for much longer than three seconds",
@@ -530,7 +530,7 @@
           "mins": 2,
           "do": "Add up the points. Ask which card surprised your child most.",
           "say": "Which claim surprised you most? Had you believed it before today?",
-          "kid": "Which card surprised you most? Did you believe it before?"
+          "kid": "Pick the card that surprised you most."
         }
       ],
       "setup": [
@@ -608,7 +608,7 @@
           "mins": 2,
           "do": "Read the Chennai card, the first one, aloud.",
           "say": "Who would know better if it will rain tomorrow: a neighbour whose knee aches, or the weather office? Why?",
-          "kid": "Who would know better about rain: the knee, or the weather office?",
+          "kid": "Listen to the card. Pick one.",
           "context": "This is the start of Who Would Know?, a game about choosing a good source.",
           "check": {
             "t": "mcq",
@@ -717,7 +717,7 @@
           "mins": 4,
           "do": "Help your child draw the results table with a ruler. Then ask for a prediction and a reason.",
           "say": "Before we ask anyone: do you think the very sure answers will all be right? Why do you think so?",
-          "kid": "Will the very sure answers all be right? Why do you think so?",
+          "kid": "Make a guess before you ask anyone.",
           "ask": [
             {
               "q": "Will the very sure answers all be right? Why?",
@@ -735,7 +735,7 @@
           "mins": 12,
           "do": "1. Your child asks each person the 8 questions, one person at a time, in another room from the others. 2. After each answer, your child asks: very sure, a bit sure, or just guessing? 3. Your child writes the answer and colours the 'How sure' box: green for very sure, yellow for a bit sure, red for just guessing.",
           "say": "Ask each question in the same words. After each answer, ask how sure they are. Don't tell them if they are right.",
-          "kid": "Ask each person alone. Say each question the same way. Then ask: how sure are you? Colour the box green for very sure, yellow for a bit sure, red for just guessing.",
+          "kid": "Ask each person alone, in the same words. Then ask: how sure are you? Colour the box.",
           "parent": "Answer the questions yourself too, honestly, without looking. Nobody may walk to the clock or the tap before answering. If only one grown-up is at home, phone a relative and ask about their own home. They check while you wait on the phone."
         },
         {
@@ -761,7 +761,7 @@
           "mins": 5,
           "do": "1. Count the green (very sure) answers, and how many of them were wrong. Do the same for yellow and red. 2. Ask your child what they found out (a claim), what they saw that shows it (the evidence), and why they think it happened (a reason). 3. Then read the card 'Being sure is not the same as being right'.",
           "say": "What did you find out? What did you see that shows it? Why do you think it happened?",
-          "kid": "Count each colour. How many were wrong? What did you find out?",
+          "kid": "Count the wrong answers in each colour.",
           "ask": [
             {
               "q": "Were all the very sure answers right?",
@@ -874,7 +874,7 @@
           "what": "Fill the jar in layers, take a spoonful from the top, then mix and take three more, and count."
         }
       ],
-      "record": "Fill in the table. Then draw the jar as it looked before mixing and after mixing.",
+      "record": "Fill in the table. Then draw the jar before and after mixing, or take a photo of each.",
       "flow": [
         {
           "id": "s1",
@@ -890,7 +890,7 @@
           "mins": 4,
           "do": "Your child takes one level spoonful from the top, tips it on the plate and counts each kind. Write the numbers in the table.",
           "say": "Count the grains of each kind. What does this spoonful say is in the jar?",
-          "kid": "Count each kind. What does the spoonful say is in the jar?",
+          "kid": "Tip the spoonful on the plate. Count each kind.",
           "ask": [
             {
               "q": "What is in the jar, going by this spoonful?",
@@ -906,7 +906,7 @@
           "mins": 4,
           "do": "Take off the cloth. Look at the jar from the side together.",
           "say": "Now look at the whole jar. Was the spoonful right about the jar?",
-          "kid": "Look at the jar from the side. Was the spoonful right?",
+          "kid": "Look at the jar from the side. What do you see?",
           "check": {
             "t": "mcq",
             "q": "The top spoonful had only chana. Why was it wrong about the jar?",
@@ -972,7 +972,7 @@
       "title": "One True, One Made Up",
       "mins": 8,
       "days": 1,
-      "context": "This is a quick start to the unit. A grown-up says two surprising facts in the same sure voice. One is true and one is made up. You have to decide how you could find out which is which.",
+      "context": "This is a quick start to the unit. A grown-up says two surprising facts in the same sure voice. One is true and one is made up. You will find out why a sure voice cannot tell you which one is true.",
       "materials": [
         {
           "item": "a piece of string about 2 metres long, or a measuring tape",
@@ -986,14 +986,14 @@
           "what": "Hear two claims, pick the true one, and say how you could check."
         }
       ],
-      "record": "Write the two claims. Under each, write one way to check it.",
+      "record": "Write the two claims. Under each, write one way to check it, or say it out loud to your grown-up.",
       "flow": [
         {
           "id": "s1",
           "mins": 3,
           "do": "Say both claims in exactly the same sure voice, with a straight face.",
           "say": "Here are two facts. A snail has thousands of tiny teeth. A crow can count up to one hundred. One is true and one I made up. Which one is true?",
-          "kid": "Listen to two facts. One is true. One is made up. Which is true?",
+          "kid": "Listen to two facts. One is true and one is made up.",
           "context": "This is the start of the unit on questioning the evidence. You hear two claims said in the same sure voice.",
           "ask": [
             {
@@ -1011,7 +1011,7 @@
           "mins": 3,
           "do": "Ask how your child could find out, without asking you.",
           "say": "I said them both the same way, so my voice can't help you. How could you find out which one is true, without asking me?",
-          "kid": "The voice was the same. How could you find out which is true?",
+          "kid": "The voice was the same. Think of a way to find out, without asking.",
           "ask": [
             {
               "q": "How could you find out?",
@@ -1059,7 +1059,7 @@
       "title": "Three Questions on a Message",
       "mins": 12,
       "days": 1,
-      "context": "In this activity you read made-up messages, like the ones people forward on their phones. For each one, you ask three questions: Says who? How do they know? Who is missing?",
+      "context": "In this activity you read made-up messages, like the ones people forward on their phones. For each one, you ask three questions: Says who? How do they know? Who is missing? You will find out which messages to trust and which to doubt.",
       "materials": [
         {
           "item": "the 5 messages from step 2, each written on a slip of paper",
@@ -1258,8 +1258,8 @@
           "id": "s2",
           "mins": 5,
           "do": "Now your child asks everyone else too: other family at home and relatives on the phone. Add your child's own answer. Make a second tally that includes everyone.",
-          "say": "Now ask everyone else too. Who did we leave out the first time?",
-          "kid": "Now ask everyone, children too. Who did you leave out before?",
+          "say": "Now ask everyone else too, and add your own answer.",
+          "kid": "Now ask everyone, children too. Add your own answer.",
           "parent": "Any other question works if your family doesn't eat rasam: the best time for dinner, or how loud the TV should be. If everyone at home is a grown-up, the relatives' answers and your child's own answer are the ones that were missing before."
         },
         {
@@ -1426,7 +1426,7 @@
           "mins": 15,
           "do": "1. Choose the saying to test. The crow one works in most Indian cities. 2. Agree on the rules: what is a guest, and what counts as the crow calling in the morning (before 10). 3. Draw the table. 4. Fill in today.",
           "say": "Many people say a calling crow means a guest is coming. Let's test it for a week. First, what counts as a guest?",
-          "kid": "We will test a saying for a week. What counts as a guest?",
+          "kid": "We will test a saying for a week. Agree on the rules.",
           "context": "This is day 1 of the Crow and Guest Week. You set up a test of a saying.",
           "ask": [
             {
@@ -1519,7 +1519,7 @@
           "mins": 5,
           "do": "Ask your child what would happen if you measured only the tallest person's reach.",
           "say": "If we measured only the tallest person and put the shelf there, who would be left out?",
-          "kid": "If we measured only the tallest person, who would be left out?",
+          "kid": "Think about measuring only the tallest person.",
           "context": "This is a design challenge. You find a shelf height that everyone in your home can reach.",
           "ask": [
             {
@@ -1618,9 +1618,9 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "Your child designs and draws the card.",
+          "do": "Your child makes the card: draw it, or write the three questions in big letters.",
           "say": "Make it short and clear, so anyone can use it in a few seconds.",
-          "kid": "Draw your check card. Keep it short and clear."
+          "kid": "Make your check card. Draw it or write it. Keep it short and clear."
         },
         {
           "id": "s3",

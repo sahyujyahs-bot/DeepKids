@@ -600,8 +600,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Find the CAVE place card, turn it face up and play one round with it as practice. Then shuffle it back into the place cards.",
-     "say": "Practice round. Which feature would help in a cave that is always dark?",
-     "kid": "Practice round. A cave is always dark. Which card helps?",
+     "say": "Let's practise with the cave card first. Look at your cards for one that would help.",
+     "kid": "Practice round. Look at the cave card and at your own cards. Then answer below.",
      "check": {
       "t": "mcq",
       "q": "A cave is always dark. Which feature helps most?",
@@ -695,8 +695,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Stop and talk.",
-     "say": "Who felt warmest in a huddle: the penguins in the middle or on the outside? Why do penguins keep moving round?",
-     "kid": "Who would be warmest, in the middle or outside? Why do penguins take turns?",
+     "say": "Who would be warmest in a huddle, the penguins in the middle or on the outside?",
+     "kid": "Stop and think. Where would you want to stand if you were a real penguin?",
      "check": {
       "t": "mcq",
       "q": "Why do real penguins keep shuffling round in a huddle?",
@@ -781,14 +781,14 @@
      "what": "Set up three wet towels, flat, rolled and covered. Check them every 15 minutes for an hour or more, then unroll and compare."
     }
    ],
-   "record": "Fill in the table every 15 minutes with wet, damp or dry. At the end, draw the three towels and colour in the parts that were still wet.",
+   "record": "Fill in the table every 15 minutes with wet, damp or dry. At the end, take a photo of the three towels, or draw them and colour in the parts that were still wet.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Show your child the three dry towels and the three plates. 2. Explain the three shapes. 3. Ask for a guess and a reason.",
-     "say": "Each towel will be a pretend leaf, holding the same water. One will be flat and open, one rolled up tight, and one covered with plastic. Which do you think will stay wet longest? Why?",
-     "kid": "You will make three pretend leaves. One flat. One rolled up. One covered. Which will stay wet longest? Why do you think so?",
+     "say": "Each towel will be a pretend leaf, holding the same water. One will be flat and open, one rolled up tight, and one covered with plastic.",
+     "kid": "You will make three pretend leaves. One flat, one rolled up, one covered. Make your guess before we start.",
      "ask": [
       {
        "q": "Which towel do you think will dry first, and why?",
@@ -963,14 +963,14 @@
      "what": "Put 6 ice cubes in a tight huddle and 6 spread apart. Check every 10 minutes for 30 minutes, then compare the meltwater."
     }
    ],
-   "record": "Draw both plates at the start and after 30 minutes. Mark how high the meltwater came in each glass.",
+   "record": "Take a photo of both plates at the start and after 30 minutes, or draw them. Mark how high the meltwater came in each glass.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Tell your child about penguins huddling. 2. Ask for a guess and a reason.",
      "say": "In the Antarctic winter, emperor penguins crowd together in a huddle. We can't test penguins, but we can test ice. Will a huddle of ice melt faster, slower, or the same? Why?",
-     "kid": "Penguins huddle in the cold. Let's test ice cubes. Will huddled ice melt faster or slower? Why?",
+     "kid": "Penguins huddle to keep warm. You will test ice cubes instead. Make your guess before we start.",
      "context": "This is the first step of the huddle test. You find out whether ice cubes melt more slowly when they are crowded together."
     },
     {
@@ -1102,14 +1102,14 @@
      "what": "Coat one leaf with petroleum jelly and leave it beside a plain leaf. Check them after 1, 3 and 5 hours."
     }
    ],
-   "record": "Draw both leaves at the start and at the end. Write down when the plain leaf first went limp.",
+   "record": "Take a photo of both leaves at the start and at the end, or draw them. Write down when the plain leaf first went limp.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Show your child two leaves. 2. Ask for a guess and a reason.",
      "say": "We will give one leaf an extra waxy coat, and leave the other plain. Will one stay fresh longer? Why do you think so?",
-     "kid": "One leaf gets a coat. One stays plain. Which will stay fresh longer? Why?",
+     "kid": "One leaf gets a jelly coat. One stays plain. Make your guess before we start.",
      "context": "This is the first step of the jelly coat experiment. You find out whether a waxy coat keeps a leaf fresh."
     },
     {
@@ -1224,8 +1224,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Take off the blindfold and talk about what happened.",
-     "say": "A cave fish has no eyes. How do you think they swim round rocks and find food in the dark?",
-     "kid": "A cave fish has no eyes. How do they find food in the dark?",
+     "say": "Tell me what your hand felt, even with your eyes closed. A cave fish has no eyes, but they have a lateral line.",
+     "kid": "Take off the blindfold. Tell your grown-up what your hand felt.",
      "check": {
       "t": "mcq",
       "q": "How does a blind cave fish find their way in the dark?",
@@ -1303,8 +1303,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Take off the blindfold and talk about it.",
-     "say": "Which way was easier? Why do you think a cat's whiskers are about as wide as their body?",
-     "kid": "Which way was easier? Why do cats have long whiskers?",
+     "say": "Which way was easier, hands only or the paper whisker?",
+     "kid": "Take off the blindfold. Think about which way found the cushions first.",
      "ask": [
       {
        "q": "Why are a cat's whiskers about as wide as their body?",
@@ -1353,7 +1353,7 @@
      "what": "Push water with spread fingers, then with the hand inside a plastic bag that works like webbed skin."
     }
    ],
-   "record": "Write which push felt stronger, and draw a duck's foot.",
+   "record": "Say or write which push felt stronger. Then find a picture of a duck's or frog's foot, and point to the skin between the toes.",
    "flow": [
     {
      "id": "s1",
@@ -1368,7 +1368,7 @@
      "mins": 4,
      "do": "1. Put the plastic bag over the same hand like a loose glove, fingers still spread. 2. Sweep it through the water the same way.",
      "say": "Now the bag fills the gaps between your fingers, like the skin on a duck's foot. How does the push feel now?",
-     "kid": "Put the bag on your hand like a glove. Spread your fingers. Sweep again. Is it harder?",
+     "kid": "Put the bag on your hand like a glove. Spread your fingers. Sweep again.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -1448,7 +1448,7 @@
      "what": "Make two model eyes, one with shiny foil at the back and one with black paper, and shine a torch at them in the dark."
     }
    ],
-   "record": "Draw both model eyes and colour the one that shone.",
+   "record": "Take a photo of the cup that shone, or draw both cups and colour the one that shone.",
    "flow": [
     {
      "id": "s1",
@@ -1484,7 +1484,7 @@
      "mins": 4,
      "do": "Talk about where you might see eyeshine.",
      "say": "At night, watch street cats and dogs in a car's headlights. Do their eyes shine? Do people's eyes shine like that?",
-     "kid": "Look out for shining eyes at night, from a safe place. Do people's eyes shine?",
+     "kid": "Look out for shining eyes at night, from a safe place.",
      "parent": "People's eyes do not have this shiny layer. The red eyes in some flash photos come from light bouncing off the blood-rich back of the eye, which is different."
     }
    ],
@@ -1542,8 +1542,8 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Ask your child to rub each leaf gently between finger and thumb. 2. Sort the leaves into thick and waxy, and thin and soft.",
-     "say": "Which leaves feel smooth and waxy? Which are thin and soft? Which do you think would last longest in the desert?",
-     "kid": "Rub each leaf gently. Smooth and waxy, or thin and soft? Which would last in a desert?",
+     "say": "Which leaves feel smooth and waxy? Which are thin and soft?",
+     "kid": "Rub each leaf gently. Make two piles. Smooth and waxy in one, thin and soft in the other.",
      "ask": [
       {
        "q": "Which leaf would last longest in the desert, and why?",
@@ -1587,22 +1587,22 @@
      "what": "Pick a place and draw a made-up animal or plant that could live there, labelling each feature with the problem it solves."
     }
    ],
-   "record": "Your labelled drawing, with each feature's problem written beside it.",
+   "record": "Your labelled drawing or model, or a photo of it, with each feature's problem written beside it.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "Read out the five places and let your child pick one. The places are the Thar Desert at noon, a Ladakh winter night, a mangrove, a cave and a pond.",
      "say": "Pick a place. What problems would a living thing have there? Let's list them first.",
-     "kid": "Pick a place: desert, snowy mountain, mangrove, cave or pond. What problems would you have there?",
+     "kid": "Pick a place: desert, snowy mountain, mangrove, cave or pond.",
      "context": "This is the first step of Design an Animal. You invent a living thing for one of the hard places in this unit."
     },
     {
      "id": "s2",
      "mins": 14,
-     "do": "1. Ask your child to write down three problems of that place. 2. Then draw an animal or plant with one feature for each problem. 3. Label each feature with its problem.",
+     "do": "1. Ask your child to say three problems of that place, and write them down. 2. Then ask them to draw, or build from clay or scrap paper, an animal or plant with one feature for each problem. 3. Label each feature with its problem.",
      "say": "Start with the problem, then the feature. For the desert: little water, so what could your animal have?",
-     "kid": "Write three problems of your place. Draw a creature with a feature for each. Label them.",
+     "kid": "Say three problems of your place. Then make a creature with a feature for each. Draw it, or build it from clay or paper. Label each feature.",
      "parent": "Good drawings name the problem first: 'It is very cold, so they have thick fur and a short tail.' Any made-up feature is fine if your child can say how it helps. Then ask what problem the feature might cause. For example, thick fur would be too hot in summer."
     },
     {
@@ -1610,11 +1610,11 @@
      "mins": 3,
      "do": "Ask your child to show the drawing and explain one feature.",
      "say": "Tell me about one feature. What problem does that feature solve? Is there a real animal with a similar feature?",
-     "kid": "Show your creature. Explain one feature. Does a real animal have a similar feature?"
+     "kid": "Show your creature and explain one feature."
     }
    ],
    "problem": "Every place has problems for a living thing, such as heat, cold or darkness. A feature that solves one of these problems is called an adaptation. In this activity you pick a place, then draw a made-up animal or plant whose features solve the problems of that place.",
-   "context": "This activity is drawing a made-up living thing for a hard place, like a desert or a cave, starting with the problems of that place.",
+   "context": "In this activity you invent a living thing for a hard place, like a desert or a cave. You find out how its features can solve the problems of that place.",
    "setup": [
     {
      "art": "A child's list of three problems for the desert: little water, hot day, cold night.",
@@ -1665,7 +1665,7 @@
      "what": "Add three living things from books or this unit, from hot, cold, water and dark places. Make a page for each and share your notebook."
     }
    ],
-   "record": "One page for each living thing: their name, a drawing, their problem, their feature, and how the feature helps.",
+   "record": "One page for each living thing: their name, their problem, their feature, and how the feature helps. Add a drawing or a photo if you like.",
    "flow": [
     {
      "id": "s1",
@@ -1704,7 +1704,7 @@
     }
    ],
    "problem": "Every living thing near you has features that help them live where they live. In this project, over three days, you find ten living things near your home. For each one you write down the problem they face and the feature that helps them.",
-   "context": "This is a 3-day project. You make a notebook of ten living things and their adaptations, starting with ones you can see from your own home.",
+   "context": "This is a 3-day project. You make a notebook of ten living things and their adaptations, starting with ones you can see from your own home. You will find out that the living things around you are suited to their places too.",
    "setup": [
     {
      "art": "A child at a window with a notebook, drawing a crow on the ledge outside.",
@@ -1749,7 +1749,7 @@
     "Give it a 'hairy coat' of shredded tissue that traps still air, like the hairy leaves of some desert plants.",
     "Make holes only on the shady underside, as many real leaves do."
    ],
-   "your_turn": "Now invent your own desert leaf. Draw it, build it and test it. How much longer than the plain one did it stay wet?",
+   "your_turn": "Now invent your own desert leaf. Plan it, build it and test it. How much longer than the plain one did it stay wet?",
    "flow": [
     {
      "id": "s1",
@@ -1762,16 +1762,16 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Draw three ideas before building.",
-     "say": "Engineers draw before they build. Let's draw three different leaves.",
-     "kid": "Draw three ideas for your desert leaf."
+     "do": "Plan three ideas before building. Draw them, say them out loud, or lay out the pieces.",
+     "say": "Engineers plan before they build. Let's think of three different leaves.",
+     "kid": "Plan three ideas for your desert leaf. Draw them or say them out loud."
     },
     {
      "id": "s3",
      "mins": 27,
      "do": "1. Build your best idea with a wet towel. 2. Put it beside a plain flat wet towel under the fan. 3. Every 15 minutes, press a dry tissue on each towel. A wet patch on the tissue means the towel is still wet.",
      "say": "Which stays wet longer, yours or the plain one?",
-     "kid": "Build your best idea. Put it beside a plain wet towel. Test them every 15 minutes.",
+     "kid": "Build your best idea. Put it beside a plain wet towel. Every 15 minutes, press a dry tissue on each.",
      "parent": "Folding or pleating usually helps a lot, because folds hide part of the surface and shade each other."
     },
     {
@@ -1824,14 +1824,14 @@
     "Copy a lotus stem: bundle many sealed straws together, like its air channels.",
     "Spread the coins out across the whole raft, so it does not tip."
    ],
-   "your_turn": "Now design your own floating plant. Draw it, build it, and test it with 10 coins. How many more coins can it hold?",
+   "your_turn": "Now design your own floating plant. Plan it, build it, and test it with 10 coins. How many more coins can it hold?",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Read the problem. Think of a water hyacinth, the floating weed of Indian ponds and lakes, or look at a cut lotus stem.",
      "say": "Water plants have air inside them, which helps them float near the light. How could we trap air in a raft?",
-     "kid": "Water plants float on air trapped inside them. How could you trap air in a raft?",
+     "kid": "Water plants float on air trapped inside them. Think of a way to make a raft do the same.",
      "context": "This is the first step of Float Like a Water Hyacinth. You build a raft that floats on trapped air, like a water plant."
     },
     {

@@ -262,7 +262,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **s2 (2 min)**  
   *Parent does:* Play a practice question before starting.  
   *Parent says:* Practice question. Is the potato in the tomato family or the grass family?  
-  *Child mode:* Practice question. Is the potato in the tomato family or the grass family?
+  *Child mode:* Read the clue cards. Then choose the family that fits the potato.
   - Check: Which family is the potato in? → **The tomato family**
 - **s3 (12 min)**  
   *Parent does:* Play the game until all the cards are laid down.  
@@ -271,8 +271,8 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   - Note: Each time someone lays down a family, ask them to read the clue card and name one more food from that family. More examples: bajra and bamboo are grasses; rajma, peas and horse gram (kollu) are beans; ridge gourd and snake gourd are gourds.
 - **s4 (3 min)**  
   *Parent does:* Count the families and ask one question.  
-  *Parent says:* Who has the most families? Now pick one member you did not expect to find in its family. Which clue shows that it belongs there?  
-  *Child mode:* Count your families. Pick a surprising member. Which clue shows it belongs?
+  *Parent says:* Count your families. Who has the most? Now pick one member you did not expect to find in its family.  
+  *Child mode:* Count your families. Then pick a member that surprised you.
   - Ask: Which member surprised you, and which clue shows it belongs? (good: Sugarcane is a grass. Its leaves are long and narrow, with veins side by side.; Methi is in the bean family. Its seeds grow in a row inside a pod.; Watermelon is a gourd. It grows on a vine and has flat, oval seeds.)
 ### g2 · Make a Group (15 min)
 - **rules:** Shuffle the cards and put them face down.; Turn over three cards. (Six rounds use 18 of the 24 cards.); Each player says a rule that puts two cards together and leaves one out. For example: crow, bat and cat. 'Has hair' puts the bat and cat together and leaves out the crow.; The rule must be true and something anyone can check. If players disagree, check it together. If it is still unclear, it scores nothing.; Score 1 point for a true rule, and 2 points if nobody else gave the same rule.; Playing alone: find as many different true rules as you can for each set of three. Write them down.; After 6 rounds, the player with the most points wins. If two players tie, they share the win.
@@ -280,7 +280,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **Printable score sheet: Points: 1 for a true rule, 2 for a rule nobody else thought of:** Player name; Points
 - **s1 (2 min)**  
   *Parent does:* 1. Shuffle the cards. 2. Turn over the first three.  
-  *Parent says:* Here are three living things. Find a rule that puts two together and leaves one out.  
+  *Parent says:* Here are three living things. Find a rule that puts two together and leaves one out. A rule could be 'has four legs'.  
   *Child mode:* Turn over three cards. Find a rule that puts two together and leaves one out.
 - **s2 (3 min)**  
   *Parent does:* Take the crow, bat and cat cards out of the pile and play the first round with them.  
@@ -299,7 +299,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **predict:** Guess first. Look at the tomato, brinjal, green chilli, cucumber and capsicum. Which ones do you think have the same kind of seeds inside? Will the green ones match each other? Why do you think so?
 - **fair test:** Look at every vegetable in the same way: the top first, then the seeds. Cut each one across its middle, so you can compare the insides. Put the seeds from each on white paper, so they are easy to see. Look at five seeds or more from each vegetable, because one seed can be odd.
 - **safety:** A grown-up does all the cutting. Chilli juice burns the eyes, so do not touch your eyes after touching the chilli. Wash your hands with soap after the chilli.
-- **record:** Fill in the table. Draw the two sorts as two sets of circles: the colour sort and the cap-and-seed sort. Write the names in each circle.
+- **record:** Fill in the table. Write the names in each group of the colour sort. Then write the names in each group of the cap-and-seed sort.
 - **results table:** Vegetable | Colour | Green cap at the top? (yes or no) | Seed shape and size | Drawing of one seed
 - **s1 (4 min)**  
   *Parent does:* 1. Put the five whole vegetables on the plate. 2. Ask your child to sort them into groups by colour.  
@@ -324,9 +324,9 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Child mode:* A grown-up cuts each one open. You pick out five seeds from each. Put them on the paper with its name.
   - Note: Cut the chilli last, and wash the knife after it. Tomato seeds sit in jelly, so pat them on a tissue. A tender cucumber has soft white seeds. They are still easy to see. If you have a pumpkin slice, its seeds are big and flat.
 - **s5 (6 min)**  
-  *Parent does:* 1. Look at the seeds with the magnifying glass or the phone camera. 2. Fill in the seed column and draw one seed of each.  
+  *Parent does:* 1. Look at the seeds with the magnifying glass or the phone camera. 2. Fill in the seed column. Draw one seed of each, or just say what you see.  
   *Parent says:* Look closely. What shape is each seed? How big are they? Which seeds look like each other?  
-  *Child mode:* Look at the seeds closely. What shape are they? How big? Which ones look the same? Draw one of each.
+  *Child mode:* Look at the seeds closely. What shape are they? How big? Which ones look the same? Draw one of each, or tell your grown-up.
   - Note: Tomato, brinjal, chilli and capsicum seeds are small, flat and round, about 3 to 5 millimetres across. Cucumber, pumpkin and bottle gourd seeds are flat, oval and pointed at one end, and bigger.
   - Check: Which seeds look most like the tomato's seeds? → **The chilli's and the brinjal's seeds**
 - **s6 (4 min)**  
@@ -343,7 +343,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **question:** Which of our kitchen herbs have square stems like tulsi, and do those plants share other features too?
 - **predict:** Guess first. Roll a tulsi stem between your finger and thumb. Which of the other herbs do you think will feel the same? Why do you think so?
 - **fair test:** Test every stem the same way: roll a piece about as long as your finger, near the top of the plant, between your finger and thumb. Do it with your eyes closed, so you judge by feel, not by looks. Test two stems of each plant, because one stem can be bent or damaged.
-- **record:** Fill in the table. Draw a stem cut across: a square for square stems and a circle for round ones.
+- **record:** Fill in the table. Draw a stem cut across, a square or a circle, or just write square or round for each plant.
 - **results table:** Plant | Stem shape (square or round) | Leaves in pairs facing each other? (yes or no) | Strong smell when rubbed? (yes or no)
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out one sprig of each herb. 2. Let your child roll the tulsi stem between finger and thumb. 3. Ask for a guess and a reason.  
@@ -376,7 +376,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **predict:** Guess first. If we leave a mushroom cap face down on paper overnight, will anything come out onto the paper? What will it look like? Why do you think so?
 - **fair test:** Use two caps from the same packet. Put one on white paper and one on dark paper, so the print shows up whatever its colour. Cover both with a bowl, so a breeze cannot blow the spores away.
 - **safety:** A grown-up cuts the stalks. Never eat a mushroom you find growing outside. Wash your hands after touching the mushrooms. Throw the used caps away afterwards.
-- **record:** Draw the print. Write the colour of the print. Draw a moong seed beside the print, as big as the real seed.
+- **record:** Take a photo of the print, or draw it. Write the colour of the print. Put a moong seed next to the print in the photo, or draw the seed as big as the real one.
 - **results table:** Cap | Paper colour | What you saw in the morning | Colour of the print
 - **schedule:** day 1: Cut the stalks off two mushroom caps. Put them face down on white and dark paper, and cover them. (8 min); day 2: Lift the caps and look at the prints. Compare a spore print with a seed. (12 min)
 - **s1 (3 min)**  
@@ -408,7 +408,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 
 ## Activities
 ### a1 · Where Do I Belong? Groups inside groups (10 min)
-- **record:** Draw five circles, one inside the other, and write a group name in each.
+- **record:** Write the five group names in order, from the biggest box to the smallest. You can draw them as circles if you like.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the five boxes from biggest to smallest. 2. Ask question 1, then question 2. 3. Write a label for each box as you go.  
   *Parent says:* Question one. Do you breathe, eat and grow? Then you are a living thing. That's the biggest box. Question two. Do you move about and eat other living things for food? Then you are an animal.  
@@ -425,7 +425,7 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **s4 (2 min)**  
   *Parent does:* Ask where a cat, a crow and a monkey would stop.  
   *Parent says:* Now, which boxes would a cat get into? A crow? A monkey?  
-  *Child mode:* Which boxes would a cat get into? A crow? A monkey?
+  *Child mode:* Think of a cat, a crow and a monkey. Where would each one stop?
   - Note: A cat gets into four boxes: living thing, animal, backbone animal and mammal. A crow stops at backbone animal. A monkey gets into all five, because a monkey is a primate.
   - Check: A crow has feathers and a backbone, but no hair. What is the smallest box a crow fits in? → **Backbone animal**
 ### a2 · Same and Different: a table of the people at home (15 min)
@@ -442,8 +442,8 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   - Note: If everyone writes with the same hand, that sort makes just one group. That is a result too.
 - **s3 (3 min)**  
   *Parent does:* Ask what everyone shared, in every sort.  
-  *Parent says:* What did every person in the table have, whatever group they were in?  
-  *Child mode:* What does every person have, in every group?
+  *Parent says:* Look at all three sorts again. Whichever group a person was in, something stayed the same.  
+  *Child mode:* Look back at all three sorts. Think about what is true of every person.
   - Ask: What is the same about everyone? (good: Two arms, two legs, two eyes.; A backbone.; Everyone breathes and eats.)
   - Note: The point is that a sort shows only how people fall into groups for one question. All people share the same body plan. If there are only three people, the groups may change less. That is fine.
 ### a3 · Everyone Can Be the Odd One Out (8 min)
@@ -460,16 +460,16 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   - Check: Why is the butterfly the odd one out? → **The only one with no backbone**
 ### a4 · The Kitchen Leaf Key (15 min)
 - **safety:** Money plant leaves are not food: they can upset the stomach and irritate the skin. Do not eat them, and wash your hands after touching them.
-- **record:** Draw your key, with yes and no arrows ending in each leaf's name.
+- **record:** Write your key as questions, with yes and no leading to each leaf's name. You can draw it as arrows if you like.
 - **s1 (6 min)**  
   *Parent does:* 1. Lay out the five leaves. 2. Help your child find one yes-or-no question that splits them into two groups. 3. Then find a question that splits each group again, until each leaf is alone.  
   *Parent says:* Find a question with a yes or no answer that splits these leaves into two groups. Then split each group again.  
   *Child mode:* Find a yes-or-no question that splits the leaves into two groups. Keep splitting until each leaf is alone.
   - Note: Good questions: 'Is the leaf made of many small leaflets?' (curry leaf and coriander: yes). 'Does it smell strong when rubbed?' 'Is the leaf shiny and heart-shaped?' A poor question is 'Is it nice?', because people disagree.
 - **s2 (5 min)**  
-  *Parent does:* 1. Draw the key as a branching chart. 2. Give someone else one leaf, without telling them its name, along with the key.  
+  *Parent does:* 1. Help your child write the key as questions, with yes and no leading to the next question or a leaf's name. They can say it aloud instead. 2. Give someone else one leaf, without telling them its name, along with the key.  
   *Parent says:* Now let's test your key. Can someone else name this leaf using only your questions?  
-  *Child mode:* Draw your key. Give someone a leaf and your key. Can they find the name?
+  *Child mode:* Write your key as questions, or say it. Give someone a leaf and your key. Can they find the name?
 - **s3 (4 min)**  
   *Parent does:* Talk about any question that confused the tester.  
   *Parent says:* Did any question make them stop and wonder? How could we make it clearer?  
@@ -482,19 +482,19 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Parent says:* Let's draw a family tree for our kitchen. Each branch is one plant family.  
   *Child mode:* Draw a tree with four branches. Write a family name on each branch.
 - **s2 (7 min)**  
-  *Parent does:* Help your child draw each kitchen plant on the right branch.  
+  *Parent does:* Help your child put each kitchen food on the right branch, or write its name there.  
   *Parent says:* Rice, wheat and ragi go on the grass branch. Moong, chana and peanut go on the bean branch. Where do tomato and chilli go? And cucumber?  
-  *Child mode:* Draw each food on its family's branch. Rice on the grass branch. Moong on the bean branch. Where does the tomato go?
+  *Child mode:* Put each food on its family's branch, or write its name there. Rice on the grass branch. Moong on the bean branch. Where does the tomato go?
   - Note: Grass family: rice, wheat, ragi, maize, sugarcane. Bean family: moong, chana, rajma, horse gram (kollu), peanut, toor dal, methi. Tomato family: tomato, brinjal, chilli, capsicum, potato. Gourd family: cucumber, pumpkin, bottle gourd, bitter gourd, watermelon. Mint and tulsi need a fifth branch.
 - **s3 (3 min)**  
   *Parent does:* Ask where the four branches meet.  
   *Parent says:* All four branches join the same trunk. What could the trunk mean?  
-  *Child mode:* All the branches join one trunk. What do you think the trunk means?
+  *Child mode:* Follow each branch down to the trunk. What do you think the trunk is?
   - Note: The trunk is the shared ancestor. All these plants came from the same long-ago ancestor plants, so they are all relatives, even if far-off ones. Far enough back, that ancestor was a single cell.
   - Think: If all plants are relatives, what lived at the bottom of the trunk, long ago?
 ### a6 · Window Count: sort what you see (12 min)
 - **safety:** Stay back from the edge of the balcony. A grown-up stays nearby.
-- **record:** Write the list, and draw the two sorts as circles.
+- **record:** Write the list. Then write the two sorts as groups, or circle each group in a different colour.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Sit at a window for 8 minutes. 2. Write down every living thing you see, including plants, people and tiny insects.  
   *Parent says:* Let's watch for 8 minutes. Write down every living thing you see: birds, insects, plants, people, even moss on a wall.  
@@ -507,13 +507,13 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 
 ## Projects
 ### p1 · Our Home's Book of Living Things (45 min, 3 days)
-- **safety:** Do not touch insects or animals. Just watch and draw.
+- **safety:** Do not touch insects or animals. Just watch.
 - **record:** The book itself, with group names written at the top of each page.
-- **schedule:** day 1: Find living things indoors: people, potted plants, ants, a house lizard, curd. Draw one on each page. (15 min); day 2: Find living things from the window or balcony: birds, trees, insects. Add a page for each. (15 min); day 3: Sort the pages into piles, then piles inside piles. Write the group names on each page. (15 min)
+- **schedule:** day 1: Find living things indoors: people, potted plants, ants, a house lizard, curd. Make one page for each, with a drawing, a photo or just its name. (15 min); day 2: Find living things from the window or balcony: birds, trees, insects. Add a page for each. (15 min); day 3: Sort the pages into piles, then piles inside piles. Write the group names on each page. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* 1. Make the book. 2. Walk around the home together. 3. For each living thing, draw one page and write the name.  
-  *Parent says:* Let's find every living thing in our home. People count. Plants count. Even the curd counts, because it is full of living bacteria.  
-  *Child mode:* Find every living thing at home. Draw one on each page. Write the name on the page.
+  *Parent does:* 1. Make the book. 2. Walk around the home together. 3. For each living thing, make one page. Draw it, paste a photo, or just write its name.  
+  *Parent says:* Let's find every living thing in our home. People count. Plants count. Even the curd counts, because tiny living bacteria live in curd.  
+  *Child mode:* Find every living thing at home. Make one page for each. Draw it, or just write its name.
 - **s2 (15 min)**  
   *Parent does:* Add pages for living things seen from the window or balcony.  
   *Parent says:* Today we look outside. What can we see from the window?  
@@ -543,8 +543,8 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
   *Child mode:* Make three sorts, one for each person. Write the rule for each one.
 - **s3 (5 min)**  
   *Parent does:* Compare the three sorts.  
-  *Parent says:* Which sort is the right one?  
-  *Child mode:* Look at your three sorts. Which one is right?
+  *Parent says:* Put your three sorts side by side. Do they look the same?  
+  *Child mode:* Look at your three sorts side by side. Are they the same?
   - Check: Which of the three sorts is the right one? → **Each one is right for its own job**
 ### c2 · A Terrace Garden Plan That Stops the Wilt (25 min)
 - **problem:** Kavya, the girl in the story The Terrace Garden Sickness, has four grow bags. She wants to grow tomato, brinjal, chilli, cucumber, bottle gourd, beans and peas over three seasons. A soil sickness attacks the tomato family. Plan which plant goes in each bag each season, so no bag grows the tomato family twice in a row.
@@ -553,9 +553,9 @@ In the old tomato bags, she planted cucumber seeds. The brinjal seeds went into 
 - **general:** Write the family next to each plant first: tomato, brinjal and chilli in the tomato family, cucumber and bottle gourd in the gourd family, beans and peas in the bean family.; Move each family one bag along each season, like children changing seats.; After a bag has grown the tomato family for a season, put the bean family in that bag.
 - **creative:** Keep one bag each season for marigolds or tulsi. They belong to yet another family.; Put a climbing gourd next to a wall or string, and plan the other bags around it.; Draw the plan as a circle of four bags, with an arrow showing where each family moves next.
 - **s1 (5 min)**  
-  *Parent does:* 1. Read the problem. 2. Write each plant's family next to them.  
-  *Parent says:* First, let's write each plant's family. Which ones are in the tomato family?  
-  *Child mode:* Write each plant's family next to them. Which ones are in the tomato family?
+  *Parent does:* 1. Read the problem. 2. Write the family after each plant's name.  
+  *Parent says:* First, let's find each plant's family. Which ones are in the tomato family?  
+  *Child mode:* Write the family after each plant's name.
 - **s2 (15 min)**  
   *Parent does:* Fill in the table, bag by bag and season by season.  
   *Parent says:* Now fill the table. Remember: no bag grows the same family two seasons running.  

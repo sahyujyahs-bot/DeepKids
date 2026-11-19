@@ -497,9 +497,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask the question below.",
+     "do": "Do the green pen test. Then ask the question below.",
      "say": "Look at the card about a green pen. Let's do that test for real, and see whether the answer on the back is right.",
-     "kid": "Test the green pen card for real. Is the answer on the back right?",
+     "kid": "Do the test. Does the green pen split the way the card says?",
      "parent": "Use a green sketch pen on a strip of kitchen towel, in the same way as One Dot, Five Minutes. Many green pens split into a yellow band and a blue band, as the card says. If your pen does not, that is a real result. Try another green pen.",
      "check": {
       "t": "mcq",
@@ -568,7 +568,7 @@
      "mins": 27,
      "do": "Play the rounds one at a time. Run each secret strip in a tumbler with 1 cm of water, until the water is near the top.",
      "say": "Look at the bands. Which pens' colours can you see? How do you know?",
-     "kid": "Watch your strip. Which colours came out? Which pens made them?",
+     "kid": "Watch your strip while the water climbs.",
      "parent": "Green often splits into yellow and blue. So a green and yellow mix can look like green alone. That is a real puzzle, so let your child argue it out. Each strip takes about 5 to 8 minutes to run."
     },
     {
@@ -576,7 +576,7 @@
      "mins": 5,
      "do": "Add up the scores. Ask the question below.",
      "say": "Which mix was hardest to guess? Why was it hard?",
-     "kid": "Which mix was hardest? Why?",
+     "kid": "Count up your points together.",
      "check": {
       "t": "mcq",
       "q": "A secret strip shows a yellow band and a blue band. Which mix could it be?",
@@ -661,15 +661,15 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Lay the three pens on the table. Call them A, B and C. 2. Scribble a little with each on scrap paper. 3. Ask the questions below.",
-     "say": "These three inks all look dark. Do you think they are the same ink? What will each one do when water reaches it? Why?",
-     "kid": "Look at the three scribbles. Are the inks the same? Guess what water will do to each ink. Why do you think so?",
+     "say": "These three inks all look dark. Let's find out what is inside them. First, scribble a little with each pen.",
+     "kid": "Scribble with each pen. Do the three inks look the same?",
      "ask": [
       {
        "q": "What do you think will happen to a dot of each ink when water reaches it?",
        "good": [
         "It will stay black.",
         "It might spread out.",
-        "It might turn into other colours, like the black dot in One Dot, Five Minutes."
+        "It might turn into other colours."
        ]
       }
      ],
@@ -680,8 +680,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. The child turns away. 2. The grown-up picks one pen secretly. 3. On a fourth strip, they draw a pencil line 2 cm from the bottom. 4. They write one thick letter, such as P, sitting on the line. 5. They mark a star at the top and hide the pen.",
-     "say": "No peeking. I'm writing a secret letter with one of the three pens. Your job is to find out which.",
-     "kid": "Turn away. A grown-up is writing a secret letter. Which pen? You will find out!",
+     "say": "No peeking. I'm writing a secret letter with one of the three pens.",
+     "kid": "Turn away so you cannot see. Later you will work out which pen it was.",
      "parent": "Go over the letter twice, so there is plenty of ink. Keep it small, about 1 cm tall, and on the line. Put the pens back in a row so the child can't tell which one you used."
     },
     {
@@ -704,8 +704,8 @@
      "id": "s5",
      "mins": 10,
      "do": "1. Watch the water climb. 2. When the water reaches about 1 cm from the top, lift the strips out. 3. Mark with pencil how high the water reached on each strip.",
-     "say": "Watch the dots. What is happening to the ink? Which strip is changing first?",
-     "kid": "Watch the water climb. What happens when it reaches the dots?",
+     "say": "Watch the dots. Which strip changes first?",
+     "kid": "Watch the water climb up each strip. Look at the dots.",
      "ask": [
       {
        "q": "What do you see on each strip?",
@@ -731,7 +731,7 @@
      "mins": 5,
      "do": "1. Put the secret letter's strip, the one with the star, next to strips A, B and C. 2. Find the one with the same colours in the same order. 3. Ask your child to say what they think, what they saw, and why.",
      "say": "Which strip matches the secret letter? What is your evidence? Tell me what you think, what you saw, and why.",
-     "kid": "Put the secret letter's strip, the one with the star, next to A, B and C. Which one matches? Say what you think, what you saw, and why.",
+     "kid": "Put the star strip next to A, B and C. Find the one with the same colours in the same order.",
      "check": {
       "t": "mcq",
       "q": "The secret letter's strip shows a blue band low down and a pink band higher up. Strip A shows blue and purple. Strip B shows blue low down and pink higher up. Strip C did not move. Which pen wrote the letter?",
@@ -775,7 +775,7 @@
    "title": "Does Every Colour Split?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment you test six sketch pen colours. You find out which inks are one dye and which are mixtures of dyes.",
+   "context": "You will find out whether every pen colour hides other colours inside. You test six sketch pen colours and count the dyes in each.",
    "question": "Which sketch pen colours are one dye, and which are mixtures of two or more dyes?",
    "predict": "Look at six sketch pens. Which colours do you think will stay one colour, and which will split? Why do you think so?",
    "fair_test": "Use the same kind of strip and the same size of dot for every pen. Draw every dot on a pencil line 2 cm from the bottom. Dip every strip 1 cm into water and take them all out at the same time.",
@@ -814,14 +814,14 @@
      "what": "Make a strip for each of six colours. Run them two to a tumbler. Count the dyes in each."
     }
    ],
-   "record": "Fill in the table. Draw a bar chart of how many dyes each colour had.",
+   "record": "Fill in the table. Make a bar chart of how many dyes each colour had, or stick the dried strips in a row, fewest dyes first.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Lay out the six pens. 2. Ask your child to sort them into 'one dye' and 'a mixture'.",
-     "say": "Which of these colours do you think are made of just one dye? Which might be a mix? Why?",
-     "kid": "Sort the pens. One dye, or a mix? Why do you think so?",
+     "say": "A dye is the coloured substance in the ink. Which pens do you think hold just one dye, and which a mix? Why?",
+     "kid": "Sort the pens into two piles: one dye, or a mix.",
      "context": "This is the first step of the Does Every Colour Split test. You guess which pen colours are mixtures."
     },
     {
@@ -836,7 +836,7 @@
      "mins": 10,
      "do": "Wait until the water is about 1 cm from the top of the strips. Then lift them all out together and lay them flat.",
      "say": "Which colours are splitting? Which are staying together?",
-     "kid": "Watch. Which colours split? Which stay as one?",
+     "kid": "Watch the strips. Point to a colour that is splitting.",
      "parent": "Results depend on the maker. Often yellow and blue stay as one dye. Green often splits into yellow and blue. Brown and black often split into three or more colours."
     },
     {
@@ -919,14 +919,14 @@
      "what": "A grown-up makes salt water, sugar water and plain water in three secret cups. Hold a wet spoon from each in the gas flame. Use the colours to find the salt."
     }
    ],
-   "record": "Fill in the table. Draw the flame for each cup, with the colour you saw.",
+   "record": "Fill in the table with the flame colour you saw for each cup. You can draw each flame too, if you like.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. The child turns away. 2. The grown-up stirs half a teaspoon of salt into one cup of water (about 50 ml). In another cup of the same amount of water, they stir half a teaspoon of sugar. 3. The third cup is plain water. 4. Write 1, 2 and 3 on paper under the cups, and note secretly which is which.",
      "say": "These three cups look the same. One has salt in it, one has sugar, and one is plain water. Can a flame tell them apart? What do you think, and why?",
-     "kid": "Three cups look the same. One has salt. Guess: can a flame find it? Why?",
+     "kid": "Turn away while a grown-up fills the cups. Then guess what the flame will do.",
      "adult": true,
      "context": "This is the first step of the flame test. A grown-up makes three cups of water that look the same."
     },
@@ -953,7 +953,7 @@
      "mins": 4,
      "do": "1. Fill in the table. 2. Ask your child to say which cup has salt, and why. 3. Uncover the secret labels.",
      "say": "Which cup has salt in it? What did you see that tells you? Now let's check the labels.",
-     "kid": "Which cup had salt? What is your evidence? Check the labels.",
+     "kid": "Look at your table. Pick the cup with salt and say how you know. Then check the labels.",
      "check": {
       "t": "mcq",
       "q": "Cup 2 made the flame flash bright yellow-orange. Cups 1 and 3 hardly changed the flame. What is in cup 2?",
@@ -971,7 +971,7 @@
      "mins": 2,
      "do": "Turn off the stove. Ask the question below.",
      "say": "Salt water and sugar water look exactly the same. So how did the flame tell them apart?",
-     "kid": "The cups looked the same. How did the flame tell them apart?",
+     "kid": "Think about how the flame told the cups apart.",
      "adult": true,
      "think": "When rasam boils over onto the stove, the flame turns yellow-orange. What is in rasam that does that?",
      "parent": "Expect this answer. Rasam has salt in it, and salt has sodium in it. Sodium makes a flame yellow-orange."
@@ -999,7 +999,7 @@
    "title": "One Dot, Five Minutes",
    "mins": 8,
    "days": 1,
-   "context": "This is a quick first look. You put one black dot on a strip and watch what water does to it, before learning anything about it.",
+   "context": "You will find out whether a black pen's ink stays black when water runs through it. Put one black dot on a strip and watch.",
    "materials": [
     {
      "item": "one black sketch pen",
@@ -1022,21 +1022,21 @@
      "what": "Put a black dot on a kitchen-towel strip and watch what happens when water climbs it."
     }
    ],
-   "record": "Draw the strip before and after.",
+   "record": "Draw the strip before and after, or take a photo of each, or tell your grown-up what changed.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Make a fat black dot 2 cm from the bottom of the strip. 2. Ask the question below.",
+     "do": "1. Make a fat black dot 2 cm from the bottom of the strip. 2. Ask your child to guess what the water will do to it.",
      "say": "What do you think will happen to this dot when the water reaches it? Why?",
-     "kid": "Make a black dot near the bottom. What will water do to it? Why?",
+     "kid": "Make a black dot near the bottom of the strip. Then guess what water will do to it.",
      "context": "This is a quick first look at what water does to a black ink dot."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "1. Hang the strip over the edge of the tumbler, so the end dips in the water and the dot stays above it. 2. Watch for five minutes.",
-     "say": "Just watch. What do you notice? What do you wonder?",
+     "say": "Just watch for five minutes. Don't touch the strip.",
      "kid": "Hang the strip in the water. Watch the dot. What do you see?",
      "ask": [
       {
@@ -1053,8 +1053,8 @@
      "id": "s3",
      "mins": 1,
      "do": "Lift the strip out and lay it on a plate.",
-     "say": "Where did the colours come from? Keep that question in your head. The Which Pen test will help us answer it.",
-     "kid": "Lift the strip out. Where did the colours come from? Remember that question. The Which Pen test will help answer it.",
+     "say": "Where did the colours come from? Keep that question in your head. The Which Pen test later in this unit will help us answer it.",
+     "kid": "Lift the strip out and lay it on a plate. Point to each colour you can see.",
      "check": {
       "t": "mcq",
       "q": "A black dot spread into other colours on a wet strip. Which of these is the best question to ask next?",
@@ -1097,7 +1097,7 @@
      "buy": "b-pens"
     },
     {
-     "item": "a steel bowl or small plate with water about half a centimetre deep",
+     "item": "a steel bowl or small plate with water about half a centimetre deep, and a kitchen-towel strip with a dot of the same pen, in a tumbler of water, to compare",
      "qty": 1
     }
    ],
@@ -1108,20 +1108,20 @@
      "what": "Draw an ink ring round a stick of chalk, stand it in shallow water, and watch the dyes climb and separate."
     }
    ],
-   "record": "Draw the chalk stick with its colour bands. Compare it with a paper strip of the same pen.",
+   "record": "Draw the chalk stick with its colour bands, or take a photo of it. Compare it with a paper strip of the same pen.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Draw a thick ring all the way round the chalk, about 1.5 cm from the bottom, with a sketch pen. 2. Go round it twice.",
-     "say": "Chalk is a powder pressed into a stick. Tsvet used a tube of chalk powder to separate the colours in leaves.",
+     "say": "Chalk is a powder pressed into a stick. Water can climb through it, as it does through paper.",
      "kid": "Draw a thick ring round the chalk, near the bottom. Go round twice.",
      "context": "This is the first step of the chalk column. You draw an ink ring round a stick of chalk."
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Stand the chalk upright in the shallow water, ring end down. 2. Make sure the ring is above the water. 3. Watch for about 10 minutes, until the water is near the top.",
+     "do": "1. Stand the chalk upright in the shallow water, ring end down. 2. Make sure the ring is above the water. 3. Run a kitchen-towel strip with a dot of the same pen beside it. 4. Watch for about 10 minutes, until the water is near the top.",
      "say": "Watch the ring. Do the colours move the same way as on the paper strip?",
      "kid": "Stand the chalk in the water. The ring stays above the water. Watch.",
      "parent": "Water climbs chalk quickly. The colours usually spread into bands, like on paper, but they may go to different heights. If the chalk falls over, lean it against the side of the bowl. This is the least certain activity in the unit: ink on chalk can give faint or short bands, and some chalk sticks crumble in water. If you see only one smudge, say so, and try a different pen or chalk."
@@ -1131,7 +1131,7 @@
      "mins": 4,
      "do": "Lift the chalk out and let it dry. Compare it with a paper strip of the same pen.",
      "say": "Are the bands in the same order as on paper? What does that tell you about the chalk?",
-     "kid": "Let it dry. Are the colours in the same order as on paper?",
+     "kid": "Let it dry. Hold it next to the paper strip. Point to colours that match.",
      "check": {
       "t": "mcq",
       "q": "Tsvet poured leaf colour through a tube of chalk powder, and it came apart into green and yellow bands. Why did it come apart?",
@@ -1209,12 +1209,12 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "1. Lay the circles on a plate to dry. 2. Pinch each circle in the middle and twist it into a flower. 3. Glue it on the card and draw a stem.",
+     "do": "1. Lay the circles on a plate to dry. 2. Pinch each circle in the middle and twist it into a flower. 3. Glue it on the card and add a stem, drawn with the green pen or cut from green paper.",
      "say": "Look at the rings. Which pen made the most colours? Which made only one?",
      "kid": "Dry the circles. Pinch and twist into a flower. Glue it on a card.",
      "ask": [
       {
-       "q": "Why did the colours make rings this time, not bands?",
+       "q": "Why did the colours make rings here, and bands on the strips?",
        "good": [
         "Because the water spread out from the middle in every direction.",
         "The dyes went outwards instead of upwards."
@@ -1306,8 +1306,8 @@
      "id": "s4",
      "mins": 6,
      "do": "1. The grown-up gives the child a plate with the mystery powder on it. 2. The child chooses which tests to do. 3. The child names the powder and gives their evidence.",
-     "say": "Here is the mystery powder. Which tests will you use? What is it, and how do you know?",
-     "kid": "Test the mystery powder. What is it? How do you know?",
+     "say": "Here is the mystery powder. Which tests will you use?",
+     "kid": "Pick your tests. Then name the powder and say how you know.",
      "check": {
       "t": "mcq",
       "q": "The mystery powder does not fizz with lemon juice. When it is heated, it melts and turns brown. What is it?",
@@ -1376,7 +1376,7 @@
      "mins": 5,
      "do": "On day 7, read the page together.",
      "say": "Which colour did you see most? Why do you think so?",
-     "kid": "Look at your page. Which colour did you see most?",
+     "kid": "Read your page. Count how many times you saw each colour.",
      "parent": "Yellow-orange from sodium is by far the most common, because salt is everywhere: in food, sweat and tap water. Old orange street lights use sodium too. If you see fireworks at Deepavali, red is usually strontium, green is barium and blue is copper.",
      "check": {
       "t": "mcq",
@@ -1528,9 +1528,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw three ideas before trying any.",
-     "say": "Let's think of three changes. Remember, change only one thing at a time, or we won't know which one worked.",
-     "kid": "Draw three ideas. Change only one thing each time."
+     "do": "Think of three ideas before trying any. Say them out loud or write them down.",
+     "say": "Remember, change only one thing at a time, or we won't know which one worked.",
+     "kid": "Think of three changes. Try a different paper, or a pinch of salt. Change one thing each time."
     },
     {
      "id": "s3",

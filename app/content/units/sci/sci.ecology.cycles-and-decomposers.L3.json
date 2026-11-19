@@ -529,7 +529,7 @@
      "mins": 4,
      "do": "When someone wins, ask the question below.",
      "say": "Which cards slowed you down most? What do they have in common?",
-     "kid": "Which cards slowed you down? What did they take away?",
+     "kid": "Look at the cards that slowed you down.",
      "ask": [
       {
        "q": "Which cards slowed the leaves down, and why?",
@@ -652,7 +652,7 @@
      "mins": 3,
      "do": "Talk about the cards that were hardest.",
      "say": "Which card fooled you? What did the decomposers need that was missing?",
-     "kid": "Which card was hardest? What was missing for the decomposers?",
+     "kid": "Pick the card that fooled you most.",
      "check": {
       "t": "mcq",
       "q": "Why does sun-dried vadam keep for months?",
@@ -786,8 +786,8 @@
      "id": "s4",
      "mins": 3,
      "do": "1. Put boxes A and B on a kitchen shelf, away from the stove. 2. Put box C in the fridge.",
-     "say": "A and B stay in the warm kitchen. C goes in the cold fridge. Which do you think will grow mould first? Why do you think so?",
-     "kid": "Put A and B on a shelf. Put C in the fridge. Which will grow mould first? Why?",
+     "say": "A and B stay in the warm kitchen. C goes in the cold fridge.",
+     "kid": "Put A and B on a shelf. Put C in the fridge.",
      "ask": [
       {
        "q": "Which box do you think will grow mould first, and why?",
@@ -845,7 +845,7 @@
      "parent": "If you used jars and want to keep them, a grown-up tips the contents into a dustbin bag without sniffing, and washes the jar with soap."
     }
    ],
-   "context": "In this test you find out what a mould needs to grow on food. Three pieces of one chapati are kept dry, damp and warm, or damp and cold.",
+   "context": "In this test you find out whether a mould needs water, warmth, or both to grow on food. Three pieces of one chapati are kept dry, damp and warm, or damp and cold.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -966,7 +966,7 @@
      "what": "Look, then say what you think, what you saw and why. Throw both closed boxes away."
     }
    ],
-   "record": "Fill in the table each day from day 2 to day 6. Draw both boxes on the last day.",
+   "record": "Fill in the table each day from day 2 to day 6. On the last day, take a photo of both boxes, or draw them.",
    "flow": [
     {
      "id": "s1",
@@ -981,11 +981,11 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Put 2 slices in box P, for plain. 2. Put 2 slices in box S, for salt. 3. Cover the slices in box S with 2 tablespoons of salt, on both sides. 4. Close both lids.",
-     "say": "The salt box gets a thick coat, like a pickle. The plain box gets nothing. Which do you think will rot first? Why?",
-     "kid": "Put 2 slices in each box. Cover one pair with lots of salt. Close the lids. Which will rot first? Why?",
+     "say": "The salt box gets a thick coat, like a pickle. The plain box gets nothing.",
+     "kid": "Put 2 slices in each box. Cover one pair with lots of salt. Close the lids.",
      "ask": [
       {
-       "q": "What do you think the salt will do?",
+       "q": "Which box will rot first, and why?",
        "good": [
         "Stop the mould, like in pickles.",
         "Dry the cucumber out.",
@@ -1126,7 +1126,7 @@
      "what": "Look, then say what you think, what you saw and why. Empty the bottles."
     }
    ],
-   "record": "Draw both balloons each day.",
+   "record": "Each day, write flat, standing up, or round for each balloon, or take a photo.",
    "flow": [
     {
      "id": "s1",
@@ -1140,8 +1140,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Stretch a balloon over the neck of each bottle. 2. Stand both bottles side by side in a warm spot, out of direct sun.",
-     "say": "Which balloon do you think will grow? Why do you think so?",
-     "kid": "Stretch a balloon over each bottle. Put them in a warm spot. Which balloon will grow? Why?",
+     "say": "The balloon will catch any gas that comes out of the bottle.",
+     "kid": "Stretch a balloon over each bottle. Put them in a warm spot.",
      "parent": "Stretch each balloon a few times first, so it fills more easily.",
      "ask": [
       {
@@ -1258,7 +1258,7 @@
      "what": "Look around the kitchen and a plant pot for signs of rotting. Draw what you find."
     }
    ],
-   "record": "Draw each thing you found, and write where it was.",
+   "record": "Take a photo of each thing you found, or draw it, and write where it was.",
    "flow": [
     {
      "id": "s1",
@@ -1271,9 +1271,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Draw two things you found. Then ask the questions below.",
-     "say": "Who do you think is eating this food? Where did they come from?",
-     "kid": "Draw two things you found. Who do you think is eating them?",
+     "do": "Pick the two things that look most rotten. Take a photo of each, or point to where you found them. Then ask the questions below.",
+     "say": "Pick the two things that look most rotten. Show me where you found them.",
+     "kid": "Pick two rotten things. Show your grown-up where you found them.",
      "ask": [
       {
        "q": "Who is making this food go soft or fuzzy?",
@@ -1303,7 +1303,7 @@
     },
     {
      "art": "A child drawing a mouldy lemon in a notebook beside a potted plant with brown fallen leaves.",
-     "caption": "2. Draw what you found."
+     "caption": "2. Pick two things you found."
     }
    ]
   },
@@ -1349,9 +1349,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw what you see. Label the threads and the dots.",
+     "do": "Draw what you see, or tell your grown-up what you see. Name the threads and the dots.",
      "say": "The threads are called hyphae. The black, green or blue dots on top are cases full of spores. Draw both.",
-     "kid": "Draw the threads. Draw the dots. The dots are full of spores.",
+     "kid": "Draw the threads and the dots, or tell your grown-up about them. The dots are full of spores.",
      "check": {
       "t": "mcq",
       "q": "What are the tiny black dots on top of the white mould threads?",
@@ -1430,7 +1430,7 @@
      "kid": "For each food, write what is missing for the decomposers: water, warmth or air."
     }
    ],
-   "context": "This is a family interview and kitchen search about how food is kept from rotting.",
+   "context": "You will find out how your family keeps food from rotting, and how people did it before fridges. You search the kitchen and ask an older person.",
    "setup": [
     {
      "art": "A kitchen shelf with a pickle jar, a tin of vadam and a string of dried chillies, a child pointing at them.",
@@ -1468,7 +1468,7 @@
      "what": "Act out how a dead leaf is eaten and becomes food for a new plant."
     }
    ],
-   "record": "Draw the circle of the leaf's journey, with arrows.",
+   "record": "Line up the labels in the order of the leaf's journey, or draw the circle with arrows.",
    "flow": [
     {
      "id": "s1",
@@ -1491,7 +1491,7 @@
      "mins": 4,
      "do": "Ask the question below.",
      "say": "What happened to the leaf in the end? Is it gone?",
-     "kid": "Is the leaf gone? Where is it now?",
+     "kid": "Look at the tiny bits on the paper tree.",
      "ask": [
       {
        "q": "Where is the leaf now?",
@@ -1504,7 +1504,7 @@
      ]
     }
    ],
-   "context": "This act-it-out game shows the order decomposers work in. It is a model, not an experiment.",
+   "context": "You will find out where a dead leaf goes. This act-it-out game shows the order decomposers work in. It is a model, not an experiment.",
    "setup": [
     {
      "art": "Children holding paper labels saying millipede, earthworm, fungus, bacteria and plant, one holding a big leaf.",
@@ -1540,7 +1540,7 @@
      "what": "Look for worm casts and burrows after rain."
     }
    ],
-   "record": "Count the worm casts in a patch the size of a newspaper sheet, and draw one.",
+   "record": "Count the worm casts in a patch the size of a newspaper sheet, and draw one, or take a photo.",
    "flow": [
     {
      "id": "s1",
@@ -1555,8 +1555,8 @@
      "id": "s2",
      "mins": 10,
      "do": "Look closely at a cast with a magnifying glass. If you see a worm, watch how they move.",
-     "say": "Why do you think worms come up after rain, and hide on a sunny day?",
-     "kid": "Look at a cast closely. If you see a worm, watch them move. Why do they hide from the sun?",
+     "say": "Look closely. Is the soil damp or dry?",
+     "kid": "Look at a cast closely. If you see a worm, watch them move.",
      "ask": [
       {
        "q": "Why do earthworms hide on a sunny day?",
@@ -1603,25 +1603,25 @@
      "what": "Draw what you think is under a mushroom. Then compare with the picture."
     }
    ],
-   "record": "Two drawings: before and after.",
+   "record": "Two drawings or models, before and after. Photos are fine.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Ask your child to draw a mushroom growing out of the ground, including what is under the soil.",
-     "say": "What do you think a mushroom looks like under the ground? Draw it.",
-     "kid": "Draw a mushroom. Draw what is under the soil too.",
+     "do": "Ask your child to draw a mushroom growing out of the ground, including what is under the soil. Or they can build it from clay or wool.",
+     "say": "What do you think a mushroom looks like under the ground? Show me.",
+     "kid": "Draw or build a mushroom. Show what is under the soil too.",
      "context": "In this activity you draw what you think a fungus looks like underground, and then compare it with the real thing."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Show the picture on the word card 'Mycelium'. Ask your child to draw the mushroom again, with the threads.",
-     "say": "The mushroom is only a small part. Most of the fungus is a web of threads under the ground. Let's draw it again.",
-     "kid": "The mushroom is just a small part. Draw the web of threads underneath."
+     "say": "The mushroom is only a small part. Most of the fungus is a web of threads under the ground. Let's make it again.",
+     "kid": "The mushroom is just a small part. Draw or build the web of threads underneath."
     }
    ],
-   "context": "This is a drawing activity about the part of a fungus you cannot see.",
+   "context": "You will find out what a mushroom looks like under the ground. You draw or build the part of a fungus you cannot see.",
    "setup": [
     {
      "art": "A child's drawing of a mushroom with nothing under the soil line.",
@@ -1785,22 +1785,22 @@
     "Keep a box of shredded newspaper beside the pot, so adding a dry layer is easy every time.",
     "Put the pot on bricks so air can reach the bottom."
    ],
-   "your_turn": "Now draw your own balcony compost pot. Label how air gets in, where extra water goes, and how you keep flies out.",
+   "your_turn": "Now draw or build your own balcony compost pot. Label how air gets in, where extra water goes, and how you keep flies out.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Talk about why compost can smell.",
-     "say": "Bad smells come when a compost heap is too wet and has no air. What do decomposers need to work well?",
-     "kid": "Why can compost smell bad? What do decomposers need?",
+     "say": "Bad smells come when a compost heap is too wet and has no air.",
+     "kid": "Tell your grown-up what decomposers need to work well.",
      "context": "This is the first step of the balcony compost challenge. First you think about why some compost smells."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Together, draw three ideas for a compost pot.",
-     "say": "Let's draw three ideas for a compost pot. How does air get in? Where does extra water go?",
-     "kid": "Draw three ideas. Show how air gets in. Show where water goes.",
+     "do": "Together, show three ideas for a compost pot. Draw them, or arrange the bucket, pot, leaves and cloth on a table.",
+     "say": "Let's show three ideas for a compost pot. How does air get in? Where does extra water go?",
+     "kid": "Show three ideas. Show how air gets in. Show where water goes.",
      "context": "In this step you draw three ideas for a balcony compost pot."
     },
     {
@@ -1856,7 +1856,7 @@
      "mins": 5,
      "do": "Think about what decomposers need: food, water, warmth and air.",
      "say": "Which of these can we take away from a tomato without ruining it?",
-     "kid": "What do decomposers need? Which one can we take away?",
+     "kid": "Pick one thing to take away. Tell your grown-up how you will do it.",
     "parent": "Good answers: keep the tomato cool, and keep it dry. The tomato is the food, so that cannot be taken away. Accept any answer that gives a reason.",
      "context": "This is a challenge to keep a tomato fresh the old way, without a fridge."
     },
@@ -1873,12 +1873,12 @@
      "mins": 10,
      "do": "Check both tomatoes each day for a week.",
      "say": "Which tomato is still firm?",
-     "kid": "Check both tomatoes every day. Which is still firm?",
+     "kid": "Look at both tomatoes every day. Press them gently.",
      "wait": "Check once a day for a week.",
      "context": "This step checks the two tomatoes from the tomato challenge each day."
     }
    ],
-   "context": "This is a challenge to slow down decomposers using old kitchen ways.",
+   "context": "You will find out which old kitchen way keeps a tomato fresh longest. You slow down the decomposers that rot it.",
    "setup": [
     {
      "art": "Three tomatoes: one in a basket by a window, one in a clay pot cooler, one in a closed plastic bag.",

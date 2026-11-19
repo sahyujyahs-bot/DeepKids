@@ -501,8 +501,8 @@
           "id": "s2",
           "mins": 3,
           "do": "Read the top card as a practice round: the idlis in two wrappings.",
-          "say": "One idli is wrapped in a banana leaf and one in foil. The idlis are the same size, from the same batch. Both are felt after 20 minutes. Fair or unfair?",
-          "kid": "One idli in a banana leaf, one in foil. Same size, same batch. Fair or unfair?",
+          "say": "One idli is wrapped in a banana leaf and one in foil. The idlis are the same size, from the same batch. Both are felt after 20 minutes.",
+          "kid": "Listen to the test. Then hold up your FAIR or UNFAIR card.",
           "check": {
             "t": "mcq",
             "q": "One idli is wrapped in a banana leaf and one in foil. The idlis are the same size and from the same batch, and both are felt after 20 minutes. Is this test fair?",
@@ -536,7 +536,7 @@
           "mins": 2,
           "do": "Add up the points. Ask which card was hardest.",
           "say": "Which card was the hardest to decide? Why?",
-          "kid": "Count your points. Which card was hardest? Why?",
+          "kid": "Count your points. Who has the most?",
           "think": "Think of a race or game you once played where two things were different, such as who was playing and where. How could you make it fair?",
           "parent": "Any real example works, as long as your child can name the two things that were different and say which one to keep the same."
         }
@@ -614,9 +614,9 @@
         {
           "id": "s1",
           "mins": 2,
-          "do": "Start with the bounce test card that has no unit.",
-          "say": "Here is a results table. Something is missing. Can you find it?",
-          "kid": "Look at this table. Something is missing. What is it?",
+          "do": "Start with the first card, the bounce test.",
+          "say": "Here is a results table. Read the heading and the numbers.",
+          "kid": "Look at the table card. Read the heading and the numbers.",
           "check": {
             "t": "mcq",
             "q": "A table says 'Rubber ball 45, Plastic ball 30' under the heading 'Bounce'. What is missing?",
@@ -642,7 +642,7 @@
           "mins": 1,
           "do": "Ask what makes a good table.",
           "say": "Now you are the expert. What must every good results table have?",
-          "kid": "What must every good table have?",
+          "kid": "Think back over the mistakes you found.",
           "ask": [
             {
               "q": "What must a good results table have?",
@@ -674,7 +674,7 @@
       "title": "The Brown Apple Test: what keeps a cut apple white?",
       "mins": 35,
       "days": 1,
-      "context": "In this experiment you cut four slices from one apple and put something different on each. Then you watch which ones turn brown. It is a fair test, and you record it in a table.",
+      "context": "In this experiment you find out what keeps a cut apple white. You cut four slices from one apple, put something different on each, and watch which ones turn brown. It is a fair test, and you record it in a table.",
       "question": "Which of these keeps a cut apple slice white longest: nothing, plain water, salt water or lemon juice?",
       "predict": "Look at the four bowls: nothing, water, salt water, lemon juice. Which slice do you think will stay white longest, and which will go brown first? Why do you think so?",
       "fair_test": "The thing we change: what we put on each slice. The things we keep the same: the same apple, slices of the same thickness, all cut at the same time, each dipped for one minute, all on one plate in one place, all checked at the same times. The slice with nothing on it is the control. What we watch: the colour of each slice, scored 0 to 3.",
@@ -735,14 +735,14 @@
           "what": "Plan the test and draw the table. Cut and dip four slices. Check them at 10 and 30 minutes, and at 1 hour if you can."
         }
       ],
-      "record": "Fill in the table. Use this colour score: 0 means white, 1 means a little cream, 2 means light brown, 3 means dark brown. At the end, colour four small squares to match the four slices.",
+      "record": "Fill in the table. Use this colour score: 0 means white, 1 means a little cream, 2 means light brown, 3 means dark brown. At the end, line up the four slices from whitest to brownest and take a photo.",
       "flow": [
         {
           "id": "s1",
           "mins": 5,
           "do": "1. Set out the four bowls and label them: nothing, water, salt water, lemon. 2. Help your child draw the results table with a ruler.",
           "say": "We are going to test what keeps a cut apple white. First we draw our table, so we are ready to write things down.",
-          "kid": "We will test what keeps apple white. First draw the table. Use a ruler.",
+          "kid": "Draw your table with a ruler. Give it one row for each of the four slices.",
           "context": "This is the first step of the Brown Apple Test. You get ready and draw a results table before you start."
         },
         {
@@ -750,7 +750,7 @@
           "mins": 4,
           "do": "Ask for a prediction and a reason. Then ask what must stay the same.",
           "say": "Which slice do you think will stay white longest? Why? And what must we keep the same, so the test is fair?",
-          "kid": "Which slice will stay white longest? Why? What must stay the same?",
+          "kid": "Guess which slice will stay white longest, and say why.",
           "ask": [
             {
               "q": "What must we keep the same?",
@@ -910,7 +910,7 @@
           "qty": 1
         },
         {
-          "item": "a notebook and a pencil",
+          "item": "a notebook, a pencil and about 20 coins",
           "qty": 1
         }
       ],
@@ -921,14 +921,14 @@
           "what": "Throw 10 underarm and 10 overarm from the same line. Record a tally for each. Compare."
         }
       ],
-      "record": "Make a tally in the table for every ball that goes in. Then draw two bars, one for underarm and one for overarm.",
+      "record": "Make a tally in the table for every ball that goes in. Then stack one coin for each ball that went in: one stack for underarm and one for overarm. Compare the stacks.",
       "flow": [
         {
           "id": "s1",
           "mins": 4,
           "do": "1. Put the bucket against a wall. 2. Take two big steps back and mark a line. 3. Draw the table.",
           "say": "Everyone throws from this line, every time. Why do you think the line matters?",
-          "kid": "Throw from this line every time. Why does the line matter?",
+          "kid": "Stand behind this line for every throw.",
           "context": "This is the first step of Ten Throws. You set up a bucket and a throwing line.",
           "parent": "The line keeps the distance the same for every throw. Then the way of throwing is the only thing that changes."
         },
@@ -937,7 +937,7 @@
           "mins": 2,
           "do": "Ask for a prediction and a reason. Then let your child throw once underarm and once overarm.",
           "say": "Which throw will get more in? Why? Now one throw each. Does that settle it?",
-          "kid": "Guess which throw is better. Why? Now one throw each. Are you sure yet?",
+          "kid": "Guess which throw is better, and say why. Then throw once each.",
           "parent": "After one throw each, many children think they know. Ask: 'Could that have been luck?'"
         },
         {
@@ -963,7 +963,7 @@
           "mins": 4,
           "do": "Count the tallies, write the numbers and compare.",
           "say": "Which throw got more in? Was the first throw a good guide?",
-          "kid": "Count the tallies. Which throw won? Did the first throw give the right answer?",
+          "kid": "Count the tallies for each way of throwing.",
           "ask": [
             {
               "q": "What would you change to make the test even better?",
@@ -1062,14 +1062,14 @@
           "what": "Cut three brinjal pieces. Leave one on a plate, hold one under water and one under salt water. Compare at 5 and 20 minutes."
         }
       ],
-      "record": "Write a word for each colour: pale, a little brown, brown, dark brown. Draw the three pieces at 20 minutes.",
+      "record": "Write a word for each colour: pale, a little brown, brown, dark brown. Take a photo of the three pieces at 20 minutes, or line them up on a plate from palest to darkest.",
       "flow": [
         {
           "id": "s1",
           "mins": 4,
           "do": "1. Draw the table. 2. Ask for a prediction and a reason.",
           "say": "Many cooks put cut brinjal in water until it is time to cook. Do you think the water really helps? Why? Which piece will stay pale longest?",
-          "kid": "Cooks put cut brinjal in water. Does it help? Why do you think so?",
+          "kid": "Guess which piece will stay palest, and say why.",
           "context": "This is the first step of the Brinjal Bowl test. You guess and draw a table."
         },
         {
@@ -1077,7 +1077,7 @@
           "mins": 6,
           "do": "1. Cut three slices of the same size from the middle of the brinjal. 2. Put one on the plate. 3. Put one in the bowl of plain water and one in the bowl of salt water, and press each under with a steel lid.",
           "say": "Look, the brinjal floats. If it floats, its top is in the air. Is that fair? So I hold each one under.",
-          "kid": "The brinjal floats! The top is in the air. So hold it under with a steel lid.",
+          "kid": "Watch the grown-up press each piece under the water with a steel lid.",
           "adult": true,
           "parent": "Brinjal is full of tiny air spaces, so it floats. A floating piece would brown on top, and the test would be unfair to the water. Holding it under is the fix."
         },
@@ -1085,8 +1085,8 @@
           "id": "s3",
           "mins": 5,
           "do": "After 5 minutes, look at the plate piece. Lift the others out quickly, look, and put them back under.",
-          "say": "Five minutes. What colour is each piece? Write one word for each.",
-          "kid": "Five minutes. Look at each piece. Write one word for each colour.",
+          "say": "Five minutes. What colour is each piece? Tell me one word for each.",
+          "kid": "Look at each piece. Write one colour word for it.",
           "wait": "Wait 5 minutes."
         },
         {
@@ -1094,7 +1094,7 @@
           "mins": 10,
           "do": "At 20 minutes, take all three out and put them side by side. Compare and talk.",
           "say": "Put them side by side. What do you see? Were the cooks right?",
-          "kid": "Put all three side by side. Were the cooks right?",
+          "kid": "Look at the three pieces. Which one is palest?",
           "wait": "Wait until 20 minutes have passed.",
           "ask": [
             {
@@ -1130,7 +1130,7 @@
       "title": "The Unfair Bounce",
       "mins": 8,
       "days": 1,
-      "context": "This is a quick start to the unit. You see an unfair test, then make it fair.",
+      "context": "You will drop two balls in an unfair way, then in a fair way. You will find out why the first drop proves nothing about which ball is bouncier.",
       "materials": [
         {
           "item": "two different balls, such as a rubber ball and a plastic ball",
@@ -1152,13 +1152,13 @@
           "what": "Drop two balls unfairly, then fairly, and see what changes."
         }
       ],
-      "record": "Write: 'Unfair test: ... Fair test: ...' and draw the two drops.",
+      "record": "Write: 'Unfair test: ... Fair test: ...'. Then tell your grown-up what was different between the two drops.",
       "flow": [
         {
           "id": "s1",
           "mins": 3,
-          "do": "Drop your ball from your knee while your child drops theirs from above their head. Say your child's ball is bouncier.",
-          "say": "Your ball bounced higher, so your ball must be bouncier. Do you agree?",
+          "do": "Drop both balls together. Drop yours from your knee while your child drops theirs from above their head. Then say your child's ball is bouncier.",
+          "say": "Your ball bounced higher, so your ball must be bouncier.",
           "kid": "Drop your ball from high up. The grown-up drops theirs low. Whose bounced higher?",
           "context": "This is the start of the fair tests unit. You drop two balls in an unfair way and see what goes wrong.",
           "ask": [
@@ -1207,7 +1207,7 @@
       "title": "The Family Balance Table",
       "mins": 15,
       "days": 1,
-      "context": "In this activity you find out who in the family can stand on one foot the longest, and you write the results in a table.",
+      "context": "In this activity you find out who in the family can stand on one foot the longest, and you write the results in a table. You will also see why everyone must follow the same rules, so the test is fair.",
       "materials": [
         {
           "item": "a phone timer or a clock with a second hand",
@@ -1239,8 +1239,8 @@
           "id": "s2",
           "mins": 3,
           "do": "Draw a table: Name, Try 1 (seconds), Try 2 (seconds), Try 3 (seconds).",
-          "say": "Each person gets one row. Each try gets one column. Where does the word 'seconds' go?",
-          "kid": "Draw the table. One row for each person. One column for each try.",
+          "say": "Each person gets one row. Each try gets one column.",
+          "kid": "Rule your table with a ruler. Give it one row for each person.",
           "check": {
             "t": "mcq",
             "q": "Where should you write 'seconds' in the table?",
@@ -1287,7 +1287,7 @@
       "title": "Two Things at Once: the sugar puzzle",
       "mins": 15,
       "days": 1,
-      "context": "In this activity you see why changing two things at once leaves you unsure, and then you untangle it with fair tests.",
+      "context": "In this activity you find out whether warm water or stirring makes sugar disappear into water faster. Changing both at once will not tell you, so you then do fair tests.",
       "materials": [
         {
           "item": "3 steel tumblers, each with the same amount of water: about half a tumbler",
@@ -1322,14 +1322,14 @@
           "what": "Do one unfair sugar test, then two fair ones, and work out what really helped."
         }
       ],
-      "record": "Draw the three tumblers. Under each, write: warm or cold, stirred or not, and how many seconds the sugar took to disappear.",
+      "record": "Write one line for each tumbler: warm or cold, stirred or not, and how many seconds the sugar took to disappear. You can also put a paper label beside each tumbler.",
       "flow": [
         {
           "id": "s1",
           "mins": 4,
           "do": "Tumbler 1: warm water, one teaspoon of sugar, stir 20 times. Tumbler 2: cold water, one teaspoon of sugar, do not stir. Start the timer for both and write down when the sugar disappears.",
-          "say": "The sugar in the warm stirred tumbler vanished first. Was it the warm water, or the stirring?",
-          "kid": "Warm and stirred. Cold and not stirred. Which helped, warmth or stirring?",
+          "say": "One tumbler is warm and stirred. The other is cold and not stirred. Watch which sugar vanishes first.",
+          "kid": "Watch both tumblers. Which sugar vanishes first?",
           "context": "This is the first step of the sugar puzzle. You do a test that changes two things at once.",
           "ask": [
             {
@@ -1384,7 +1384,7 @@
       "title": "Be James Lind: act out the scurvy test",
       "mins": 10,
       "days": 1,
-      "context": "In this activity the family acts out James Lind's test on twelve sailors in 1747, and fills in his results table.",
+      "context": "In this activity the family acts out James Lind's test on twelve sailors in 1747, and fills in his results table. You will see how one fair test found the cure for scurvy, an illness sailors got on long voyages.",
       "materials": [
         {
           "item": "12 small paper slips for the sailors",
@@ -1406,14 +1406,14 @@
           "what": "Act out Lind's test with paper sailors and fill in his table."
         }
       ],
-      "record": "Draw Lind's table: Treatment, Number of sailors, How they were after 6 days.",
+      "record": "Make Lind's table: Treatment, Number of sailors, How they were after 6 days.",
       "flow": [
         {
           "id": "s1",
           "mins": 4,
           "do": "Read the How We Found Out card about James Lind. Lay out 12 paper sailors in pairs, with a label beside each pair naming its treatment.",
-          "say": "Lind had twelve sick sailors. He gave each pair a different treatment. What did he keep the same for all of them?",
-          "kid": "Twelve sick sailors, in pairs. Each pair gets something different. What stayed the same?",
+          "say": "Lind had twelve sick sailors. He gave each pair a different treatment.",
+          "kid": "Look at the twelve paper sailors. Each pair has a different label.",
           "context": "This is the start of the James Lind act-out, about the first famous fair test in medicine.",
           "ask": [
             {
@@ -1430,8 +1430,8 @@
           "id": "s2",
           "mins": 6,
           "do": "Fill in Lind's table. The pair with oranges and lemons did best. One was fit for work in six days, and the other was much better. The cider pair got a little better. The other pairs did not get better.",
-          "say": "The sailors with oranges and lemons got well. Why was it important that they all ate the same food?",
-          "kid": "The oranges and lemons pair got well. Why did all of them eat the same food?",
+          "say": "The sailors with oranges and lemons got well. The others did not do as well.",
+          "kid": "Find the oranges and lemons pair. They got well. How did the other pairs do?",
           "check": {
             "t": "mcq",
             "q": "Why did Lind give all twelve sailors the same food?",
@@ -1503,7 +1503,7 @@
           "mins": 20,
           "do": "1. Draw three boxes on a page: 'I will change', 'I will keep the same', 'I will measure or watch'. 2. Offer these questions: Which paper plane flies furthest? Which cloth soaks up a spill best? Which tumbler keeps ice longest: steel, glass or plastic? 3. Your child picks one, or their own. 4. Fill in the three boxes together. 5. Draw the results table.",
           "say": "Pick a question you really want answered. Then tell me: what will you change, what will you keep the same, and what will you measure?",
-          "kid": "Pick a question. What will you change? What stays the same? What will you measure?",
+          "kid": "Pick a question you really want answered.",
           "context": "This is day 1 of My Own Fair Test. You plan your test on a planning sheet.",
           "check": {
             "t": "mcq",
@@ -1571,12 +1571,12 @@
           "id": "s1",
           "mins": 5,
           "do": "Show the two cars. Ask what could make one go further, apart from the car itself.",
-          "say": "What could make one car go further, even if the cars were the same?",
-          "kid": "What could make one car go further, apart from the car?",
+          "say": "Here are two cars. We want to know which rolls further. First, let us see how a race could go wrong.",
+          "kid": "Look at the two cars. Which do you think rolls further?",
           "context": "This is a design challenge. You invent a fair way to race two toy cars.",
           "ask": [
             {
-              "q": "What could make it unfair?",
+              "q": "Apart from the car, what could make one car go further?",
               "good": [
                 "One car gets pushed.",
                 "They start at different heights.",
@@ -1589,7 +1589,7 @@
           "id": "s2",
           "mins": 15,
           "do": "Build the ramp and test your design. Roll each car three times. Fill in a table.",
-          "say": "Build it and try it. Does your design stop anyone from pushing?",
+          "say": "Build it and try it. Make sure nobody can give a car a push.",
           "kid": "Build your ramp. Roll each car three times. Fill in your table."
         },
         {
@@ -1597,7 +1597,7 @@
           "mins": 5,
           "do": "Talk about what worked and what you would change.",
           "say": "Which car went further? Are you sure it was the car and not something else?",
-          "kid": "Which car went further? How do you know it was the car?"
+          "kid": "Say what you would change next time."
         }
       ],
       "setup": [
@@ -1626,6 +1626,7 @@
         "tap water",
         "boiled water, cooled to room temperature",
         "a cloth for a blindfold, or the taster closes their eyes",
+        "a coin",
         "a notebook"
       ],
       "general": [
@@ -1642,12 +1643,12 @@
           "id": "s1",
           "mins": 5,
           "do": "Read the problem. Ask how the taster could guess right without really tasting a difference.",
-          "say": "How could the taster guess right without really tasting a difference?",
-          "kid": "How could the taster guess right just by luck or by peeking?",
+          "say": "Before we test, think how the test could go wrong. Someone can say the right answer without tasting any difference.",
+          "kid": "Pretend you are the taster. How could you cheat?",
           "context": "This is a design challenge. You plan a fair taste test.",
           "ask": [
             {
-              "q": "How could the taster guess right without tasting?",
+              "q": "How could the taster get it right without tasting any difference?",
               "good": [
                 "By seeing which tumbler it is.",
                 "By luck, if they only try once.",
@@ -1659,9 +1660,9 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "Run the test ten times. Record each guess as right or wrong.",
-          "say": "Ten tries. Toss a coin each time to decide the order. Write 'right' or 'wrong' for each guess.",
-          "kid": "Ten tries. Toss a coin for the order. Write 'right' or 'wrong' each time.",
+          "do": "Fill two tumblers with tap water and two with boiled water. Run ten tries. Each time, give the taster one tumbler of each and ask which is the boiled water. A coin toss decides which goes on the left: heads means boiled on the left. Record each guess as right or wrong.",
+          "say": "Ten tries. Toss the coin each time to decide the order of the tumblers. Write 'right' or 'wrong' for each guess.",
+          "kid": "Taste the two tumblers. Say which one is the boiled water.",
           "adult": true,
           "parent": "A grown-up boils the water earlier and lets it cool fully, so it is the same temperature as the tap water."
         },
@@ -1670,7 +1671,7 @@
           "mins": 3,
           "do": "Count the right answers and talk about them.",
           "say": "Just guessing, the taster would get about 5 right out of 10. Getting 6 or 7 can easily happen by luck. Getting 9 or 10 is very unlikely by luck. What did they get? What does that tell us?",
-          "kid": "Guessing gets about 5 of 10 right. What did the taster get?"
+          "kid": "Count how many guesses were right."
         }
       ],
       "setup": [

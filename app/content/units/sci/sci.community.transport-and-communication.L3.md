@@ -213,13 +213,13 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 
 ## Games
 ### g1 · Sign Snap: read a road sign by its shape and colour (20 min)
-- **rules:** Shuffle the cards and put them face down.; Turn over the top card and read the front aloud. If you like, draw the sign beside the words.; First say what kind of sign it is from its shape: circle (an order), triangle (a warning) or rectangle (information). That is 1 point. The eight-sided STOP sign and the upside-down triangle (Give way) are orders too.; Then say what it means. Check the back. A right meaning is 1 more point.; With two or more players, take turns. The first player to 15 points wins. If the cards run out first, the highest score wins.; Playing alone, go through all 19 cards once and write down your score. Next time, try to beat it.
+- **rules:** Shuffle the cards and put them face down.; Turn over the top card and read the front aloud.; First say what kind of sign it is from its shape: circle (an order), triangle (a warning) or rectangle (information). That is 1 point. The eight-sided STOP sign and the upside-down triangle (Give way) are orders too.; Then say what it means. Check the back. A right meaning is 1 more point.; With two or more players, take turns. The first player to 15 points wins. If the cards run out first, the highest score wins.; Playing alone, go through all 19 cards once and write down your score. Next time, try to beat it.
 - **Printable cards: 19 road sign cards to cut out (the meaning is on the back):** Red circle with a crossed-out horn (back: No horn. Do not sound your horn here.); Filled red circle with a white bar across the middle (back: No entry. Vehicles must not go in.); Red circle with '40' inside (back: Speed limit. Do not go faster than 40 kilometres an hour.); Red circle with a U-shaped arrow crossed out (back: No U-turn.); Blue circle with a white arrow pointing straight up (back: Go straight only.); Blue circle with a white cycle (back: Cycle track. This path is for cycles.); Red eight-sided sign with the word STOP (back: Stop. Come to a full stop, then go only when it is safe.); Upside-down triangle with a red border (back: Give way. Let the other traffic go first.); Red-bordered triangle with two children (back: School ahead. Slow down and watch for children.); Red-bordered triangle with a walking person (back: Pedestrian crossing ahead. Slow down for people crossing.); Red-bordered triangle with a bump (back: Speed breaker ahead. Slow down.); Red-bordered triangle with a road bending sharply (back: Sharp bend ahead. Slow down.); Red-bordered triangle with a cow (back: Cattle may be on the road. Drive carefully.); Blue rectangle with a fuel pump (back: Petrol pump this way.); Blue rectangle with a knife and fork (back: Place to eat this way.); Blue rectangle with a big white P (back: Parking here.); Red circle with a crossed-out letter P (back: No parking. Do not leave your vehicle here.); Blue rectangle with a white H (back: Hospital this way.); Blue rectangle with a walking person (back: Pedestrian crossing here. People on foot may cross, and vehicles must stop for them.)
 - **Printable score sheet: Score sheet:** Player name; Shape right (1 point); Meaning right (1 point); Total
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 19 cards. 2. Shuffle them and put them face down. 3. Read the rules aloud.  
   *Parent says:* In this game, the shape of a sign tells you its kind before you even know the picture. Circles give orders, triangles warn, and rectangles give information. STOP and Give way are orders too.  
-  *Child mode:* Cut out the cards. Mix them up. Put them face down. Circles give orders. Triangles warn. Rectangles give information. STOP and Give way are orders too.
+  *Child mode:* Cut out the cards. Mix them up. Put them face down.
 - **s2 (14 min)**  
   *Parent does:* 1. Take turns: turn a card, read the front, name the kind of sign, then say its meaning. 2. Check the back and score.  
   *Parent says:* What shape is it? So what kind of sign is it? Now, what does it tell the driver or the walker to do?  
@@ -228,7 +228,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - **s3 (3 min)**  
   *Parent does:* Count the points and talk about which signs were hardest.  
   *Parent says:* Which sign was hardest? Why do you think road signs use pictures, not words?  
-  *Child mode:* Count your points. Which sign was hardest? Why do signs use pictures, not words?
+  *Child mode:* Count your points.
   - Check: A sign is a circle with a red border. What kind of sign is it? → **An order saying what you must not do**
 ### g2 · Send It! Choose the best way to carry it (20 min)
 - **rules:** Shuffle the job cards and put them face down. Spread the means cards face up.; Turn over a job card and read it aloud.; Each player picks the means card they think is best and says why. Two players may pick the same card.; Read the back of the job card. A choice that matches the back gets 2 points.; A different choice with a good reason gets 1 point, if the other players agree.; After all 12 jobs, the player with the most points wins.
@@ -246,7 +246,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - **s3 (3 min)**  
   *Parent does:* Count points, and talk about a job where two answers were both good.  
   *Parent says:* Was there a job where two different choices were both good? What made them good?  
-  *Child mode:* Count your points. Which job had two good answers?
+  *Child mode:* Count your points.
   - Check: Which is the cheapest way to carry 2,000 cars across the sea? → **Ship**
 
 ## Experiments
@@ -255,17 +255,17 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - **predict:** Guess first. Which cloth will you still see from furthest away? Which one will vanish first? How many foot-steps away do you think each will vanish? Why do you think so?
 - **fair test:** Use the same torch, covered the same way, for every cloth. Hang every cloth on the same chair in the same place, with the same dark room behind it. Keep the room just as dark each time. The same person looks every time, holding the torch next to their eye like a car's headlight. Only the cloth changes. Test each cloth twice, because one try can be a fluke.
 - **safety:** A grown-up stays in the room the whole time. Clear the floor before switching off the lights, because the child walks backwards in the dark. Walk slowly, heel to toe. Never shine the torch into anyone's eyes.
-- **record:** Fill in the table. Then draw a bar for each cloth, as long as the number of foot-steps.
+- **record:** Fill in the table. Then lay the cloths in a row, from the one seen furthest away to the one that vanished first. Take a photo.
 - **results table:** Cloth | My guess (foot-steps) | Try 1 (foot-steps) | Try 2 (foot-steps)
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Find the longest straight path in your home, ending at an open doorway. 2. Put the chair in the doorway, with the next room dark behind it. 3. Hang the black cloth over the chair back. 4. Fold the handkerchief into 4 layers and fix it over the torch with the rubber band.  
-  *Parent says:* Tonight you are a driver, and this chair is a person walking on a dark road. The torch is your headlight. We make it dim, because a car's light is weak by the time it reaches someone far away.  
+  *Parent says:* Now you are a driver, and this chair is a person walking on a dark road. The torch is your headlight. We make it dim, because a car's light is weak by the time it reaches someone far away.  
   *Child mode:* Put the chair in a doorway. Keep the room behind it dark. Hang the black cloth on it. Cover the torch with the folded hanky.
   - Note: The room behind the chair must be dark, with nothing pale behind the cloth, like a real road at night. If the wall behind is white, the black cloth shows up as a dark patch against it, and the test fails. If your home has no free doorway, hang a dark bedsheet behind the chair.
 - **s2 (4 min)**  
   *Parent does:* 1. Show your child all the cloths in the light. 2. Ask for a guess and a reason. 3. Your child writes a guess in foot-steps for each cloth in the table.  
   *Parent says:* Which cloth do you think you will still see from furthest away? Which will vanish first? Why do you think so? Write a guess for each one.  
-  *Child mode:* Look at all the cloths. Which will you see from furthest away? Why? Write a guess for each one.
+  *Child mode:* Look at all the cloths. Write a guess in foot-steps for each one.
   - Ask: Why do you think that cloth will be seen from furthest away? (good: It is bright.; White is easy to see.; Black looks like the dark.)
   - Note: Do not give the answer. Any guess with a reason is good. A foot-step is one shoe-length: put the heel of one foot against the toes of the other.
 - **s3 (3 min) · grown-up needed**  
@@ -291,7 +291,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - **s7 (4 min)**  
   *Parent does:* 1. Switch the lights on. 2. Read the table together. 3. Ask your child what they found, what shows it, and why they think it happened.  
   *Parent says:* What did you find? Which cloth could a driver see from furthest away? What is your evidence? Why do you think it happened?  
-  *Child mode:* Which cloth did you see from furthest away? Which vanished first? Why do you think so?
+  *Child mode:* Look at the table. Which cloth did you see from furthest away? Which vanished first?
   - Ask: The same torch shone on every cloth. Why did some vanish sooner? (good: The black cloth sends back very little light.; The white cloth sends back more light to my eyes.)
   - Ask: What should you wear when you walk on a road at night? (good: White or pale clothes.; Something with a reflective strip.; Carry a torch.)
   - Check: A girl walks home at night in a black dress. Which change helps drivers see her from furthest away? → **A white dupatta and a reflective strip on her bag**
@@ -305,7 +305,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - **s1 (5 min)**  
   *Parent does:* 1. Draw 4 picture cards and label them A, B, C and D. Each has the same 4 shapes: a circle, a square, a triangle and a straight line, in different sizes and places. 2. Put two chairs back to back. 3. The describer takes cards A and B, face down. The listener takes paper and a pencil. 4. Ask for guesses and reasons.  
   *Parent says:* You will describe a picture using only words. I will draw it without seeing it. First, guess. Will my drawing be better if I stay silent, or if I can ask questions? Why?  
-  *Child mode:* Sit back to back. Hide your pictures. Guess which drawing will be better. Will it be better when the listener is silent? Or when the listener can ask questions? Why?
+  *Child mode:* Sit back to back. Hide your pictures. Then say your guess and why.
   - Note: Keep the shapes simple so the four cards are equally hard. Cards A and B are for the first two rounds. Cards C and D are for the swap.
 - **s2 (4 min)**  
   *Parent does:* 1. Round 1: the describer describes picture A. 2. The listener draws and says nothing at all. 3. Time the round. 4. Stop when the describer says 'done'.  
@@ -329,7 +329,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
   - Note: Swapping roles and order checks that the result is not just because one of you describes better, or because the second go was easier.
 - **s6 (3 min)**  
   *Parent does:* Ask your child what they found, what shows it, and why they think it happened.  
-  *Parent says:* What did you find? What is your evidence? Why do you think questions made such a difference?  
+  *Parent says:* What did you find? What is your evidence? Why do you think it happened?  
   *Child mode:* Which way gave better drawings? Which was quicker? Why do you think so?
   - Ask: A road sign cannot answer questions. What does that mean for how it must be made? (good: It must be very simple.; Everyone must understand it at once.; It uses shapes and pictures, not long words.)
   - Check: Which of these is two-way communication? → **A phone call with a friend**
@@ -344,15 +344,15 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - **s2 (5 min)**  
   *Parent does:* 1. For each packet, ask how it reached your home. 2. Ask what the family would have if nothing could be carried from far away.  
   *Parent says:* How do you think this packet got from where it was made to our shop? And from the shop to our home? What would we have if nothing could travel?  
-  *Child mode:* How did each thing get here? Truck, train, ship or scooter? What would we eat if nothing could travel?
+  *Child mode:* For each packet, pick truck, train, ship or scooter. Then think about what we would eat if nothing could travel.
   - Ask: How did this packet get to our home? (good: By truck from where it was made.; By train, then by the shop's van.; Someone carried it from the shop.)
   - Note: Good answers name more than one kind of transport, such as a train and then a truck. Tea often comes from the Nilgiris, Munnar or Assam. Salt often comes from Thoothukudi or Gujarat.
 ### a2 · The Time-line Rope: put transport and messages in order (15 min)
 - **record:** Take a photo of your time-line, or copy it into your notebook.
 - **s1 (6 min)**  
-  *Parent does:* 1. Draw one thing on each of 12 cards. 2. Draw a footpath, a log boat, a bullock cart, a steam train, a bus and an aeroplane. 3. Draw a drum, a messenger pigeon, a letter, a telephone, a radio and a mobile phone.  
-  *Parent says:* Let's draw twelve ways people have travelled and sent messages. Keep each drawing quick and simple.  
-  *Child mode:* Draw one thing on each card. Keep each drawing small and quick.
+  *Parent does:* 1. Write one thing on each of 12 cards. 2. Transport: a footpath, a log boat, a bullock cart, a steam train, a bus and an aeroplane. 3. Messages: a drum, a messenger pigeon, a letter, a telephone, a radio and a mobile phone.  
+  *Parent says:* Let's write twelve ways people have travelled and sent messages, one on each card. A tiny picture is fine too.  
+  *Child mode:* Write one thing on each card. Add a tiny picture if you like.
 - **s2 (6 min)**  
   *Parent does:* 1. Your child pegs the cards on the string in the order they think they were invented. 2. Then read the 'How transport grew' and 'How communication grew' cards together and fix the order.  
   *Parent says:* Put them in order, oldest at this end and newest at that end. Which do you think came first, the boat or the wheel?  
@@ -366,10 +366,10 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
   - Check: Which of these was invented first? → **The telegraph**
 ### a3 · Sign Spotting: read the road signs near home (20 min)
 - **safety:** A grown-up holds the child's hand on the road. Stay on the footpath. Stop to look and draw only in a safe place, never at the road's edge.
-- **record:** Draw each sign you saw. Write what it means. Sort them into three groups: circles (orders), triangles (warnings) and rectangles (information).
+- **record:** Keep a photo or a drawing of each sign you saw. Say or write what it means. Sort them into three groups: circles (orders), triangles (warnings) and rectangles (information).
 - **s1 (15 min) · grown-up needed**  
-  *Parent does:* 1. Walk on the footpath along a busy road near home. 2. Stop in a safe place each time your child spots a sign or signal. 3. They draw it, or you photograph it.  
-  *Parent says:* Let's be sign spotters. Every time you see a road sign or a signal, tell me. We will stop somewhere safe to draw it.  
+  *Parent does:* 1. Walk on the footpath along a busy road near home. 2. Stop in a safe place each time your child spots a sign or signal. 3. You photograph it, or your child draws it.  
+  *Parent says:* Let's be sign spotters. Every time you see a road sign or a signal, tell me. We will stop somewhere safe to take a photo of it.  
   *Child mode:* Hold the grown-up's hand. Look for road signs. Say 'sign!' when you see one.
   - Note: Look near schools, hospitals, junctions, bus stops and speed breakers. Zebra crossings and the pedestrian lights at a signal count too.
 - **s2 (5 min)**  
@@ -405,7 +405,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - **s2 (4 min)**  
   *Parent does:* Compare how many people each kind of vehicle carried, and how much road it took up.  
   *Parent says:* How many cars passed? How many people were in them? About how many cars take up as much road as one bus?  
-  *Child mode:* Which vehicle carried most people? Which made the most smoke for each person?
+  *Child mode:* Which kind of vehicle carried the most people in all? Which carried the fewest people in each vehicle?
   - Ask: Why might a city want more buses and fewer cars? (good: A bus carries many people in one vehicle.; Less smoke and less traffic for each person.)
   - Note: A car with only one person in it makes the most exhaust for each person. A full bus makes the least, because many people share one engine. That is why a city wants more people in each vehicle.
 ### a6 · Ask an Older Person: how did you travel and send messages at my age? (15 min)
@@ -423,7 +423,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 ## Projects
 ### p1 · Our Safe Walk Map: the route to the nearest shop (45 min, 2 days)
 - **safety:** A grown-up walks with the child both times and holds their hand at crossings. Do the evening walk before it is fully dark.
-- **record:** Draw the map. Use a symbol for each crossing, sign, signal and dark spot, and explain them in a key.
+- **record:** Draw the map, or lay it out with small objects and take a photo. Use a symbol for each crossing, sign, signal and dark spot, and explain them in a key.
 - **schedule:** day 1: Walk to the shop in daylight. Note the crossings, signs and signals. Note where the footpath is broken or missing. (20 min); day 2: Walk the same route at dusk with a torch. Note the dark places. Draw the map with symbols and a key. (25 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* 1. Walk to the nearest shop with your child. 2. At each crossing, signal or sign, stop and let your child note it. 3. Note where walkers must step onto the road.  
@@ -435,9 +435,9 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
   *Child mode:* Shine the torch at the ground. Where is it darkest? Who is easy to see?
   - Wait: Do this on day 2, at dusk.
 - **s3 (15 min)**  
-  *Parent does:* Draw the map with a key, at home.  
+  *Parent does:* Make the map with a key, at home. Draw it, or lay it out on the floor with small objects and take a photo.  
   *Parent says:* Let's draw the map. Make a symbol for crossings, signals, signs and dark spots, and put them in a key.  
-  *Child mode:* Draw your home and the shop. Add the crossings, signs and dark spots. Make a key.
+  *Child mode:* Show your home and the shop. Add the crossings, signs and dark spots. Make a key. Draw them, or use small objects and take a photo.
   - Ask: If a friend walked this way at night, what would you tell them? (good: Cross at the zebra crossing.; Wear something white and carry a torch.; Be careful at the dark corner.)
 
 ## Challenges
@@ -448,9 +448,9 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - **general:** Use a triangle with a red border, because a triangle means a warning.; Draw two running children in black, like the real 'School ahead' sign.; Add a red circle with '10' to give a speed limit.
 - **creative:** Test the sign on three people: show it for two seconds, then ask what it means.; Make it bigger and simpler after each test.; If you have reflective tape, stick a strip on the border so it shines in headlights.
 - **s1 (10 min)**  
-  *Parent does:* Your child sketches three ideas, using shapes and colours from real road signs.  
-  *Parent says:* A driver has two seconds to read your sign. What shape should it be? What picture? Draw three ideas.  
-  *Child mode:* Draw three ideas. What shape? What colour? What picture?
+  *Parent does:* Your child makes three sign ideas, by sketching them or cutting them from coloured paper. Use shapes and colours from real road signs.  
+  *Parent says:* A driver has two seconds to read your sign. What shape should it be? What picture? Make three ideas.  
+  *Child mode:* Sketch three ideas, or cut them from coloured paper. Say why you chose each shape and colour.
 - **s2 (10 min)**  
   *Parent does:* Show the best sign to three people for 2 seconds each, from 5 steps away. Write what they say.  
   *Parent says:* Hold it up for just two seconds. Then ask, 'What does it mean?'  
@@ -469,7 +469,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* Your child chooses materials and makes a band for the bag.  
   *Parent says:* In the Seen in the Dark test, which cloth did you see from furthest away? Use that to design your band.  
-  *Child mode:* Think about the Seen in the Dark test. Which cloth did you see from furthest away? Use it to make your band.
+  *Child mode:* Pick your materials and make the band.
   - Note: Help with scissors. If you cut a CD, a grown-up does the cutting, because the edges can be sharp.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Test the band in the dark. Hold the dim torch next to your eye, as in the Seen in the Dark test. Count foot-steps.  
@@ -478,7 +478,7 @@ Paati laughed. 'Now that is a question even I never asked on the night bus. What
 - **s3 (5 min)**  
   *Parent does:* Talk about what worked best and why.  
   *Parent says:* Which part of your band shone furthest? Why do you think so?  
-  *Child mode:* Which part shone furthest? Why?
+  *Child mode:* Point to the part that shone furthest.
 
 ## Worksheets
 ### Transport, messages and road safety (core) (core, 15 questions)

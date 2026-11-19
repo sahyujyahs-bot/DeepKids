@@ -673,7 +673,7 @@
      "mins": 2,
      "do": "Play a practice question before starting.",
      "say": "Practice question. Is the potato in the tomato family or the grass family?",
-     "kid": "Practice question. Is the potato in the tomato family or the grass family?",
+     "kid": "Read the clue cards. Then choose the family that fits the potato.",
      "check": {
       "t": "mcq",
       "q": "Which family is the potato in?",
@@ -698,8 +698,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Count the families and ask one question.",
-     "say": "Who has the most families? Now pick one member you did not expect to find in its family. Which clue shows that it belongs there?",
-     "kid": "Count your families. Pick a surprising member. Which clue shows it belongs?",
+     "say": "Count your families. Who has the most? Now pick one member you did not expect to find in its family.",
+     "kid": "Count your families. Then pick a member that surprised you.",
      "ask": [
       {
        "q": "Which member surprised you, and which clue shows it belongs?",
@@ -919,7 +919,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Shuffle the cards. 2. Turn over the first three.",
-     "say": "Here are three living things. Find a rule that puts two together and leaves one out.",
+     "say": "Here are three living things. Find a rule that puts two together and leaves one out. A rule could be 'has four legs'.",
      "kid": "Turn over three cards. Find a rule that puts two together and leaves one out.",
      "context": "This is the first step of Make a Group. It is a card game where you invent sorting rules."
     },
@@ -1031,7 +1031,7 @@
      "what": "Sort five vegetables by colour. Look at their caps. Cut them open, compare their seeds, and sort them again by caps and seeds."
     }
    ],
-   "record": "Fill in the table. Draw the two sorts as two sets of circles: the colour sort and the cap-and-seed sort. Write the names in each circle.",
+   "record": "Fill in the table. Write the names in each group of the colour sort. Then write the names in each group of the cap-and-seed sort.",
    "flow": [
     {
      "id": "s1",
@@ -1087,9 +1087,9 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "1. Look at the seeds with the magnifying glass or the phone camera. 2. Fill in the seed column and draw one seed of each.",
+     "do": "1. Look at the seeds with the magnifying glass or the phone camera. 2. Fill in the seed column. Draw one seed of each, or just say what you see.",
      "say": "Look closely. What shape is each seed? How big are they? Which seeds look like each other?",
-     "kid": "Look at the seeds closely. What shape are they? How big? Which ones look the same? Draw one of each.",
+     "kid": "Look at the seeds closely. What shape are they? How big? Which ones look the same? Draw one of each, or tell your grown-up.",
      "check": {
       "t": "mcq",
       "q": "Which seeds look most like the tomato's seeds?",
@@ -1237,7 +1237,7 @@
      "what": "Roll each herb stem with your eyes closed. Look at how the leaves are placed. Rub a leaf and smell it. Sort the herbs."
     }
    ],
-   "record": "Fill in the table. Draw a stem cut across: a square for square stems and a circle for round ones.",
+   "record": "Fill in the table. Draw a stem cut across, a square or a circle, or just write square or round for each plant.",
    "flow": [
     {
      "id": "s1",
@@ -1354,7 +1354,7 @@
    "title": "Mushroom Prints: does a mushroom make seeds?",
    "mins": 20,
    "days": 2,
-   "context": "In this experiment you leave a mushroom cap on paper overnight. In the morning you find a print made of its spores, and you compare it with a seed.",
+   "context": "In this experiment you find out whether a mushroom makes seeds. You leave a mushroom cap on paper overnight. In the morning you find a print made of spores, tiny specks a mushroom uses to make new mushrooms. Then you compare it with a seed.",
    "question": "A plant makes seeds. Does a mushroom make seeds too, or something else?",
    "predict": "Guess first. If we leave a mushroom cap face down on paper overnight, will anything come out onto the paper? What will it look like? Why do you think so?",
    "fair_test": "Use two caps from the same packet. Put one on white paper and one on dark paper, so the print shows up whatever its colour. Cover both with a bowl, so a breeze cannot blow the spores away.",
@@ -1405,7 +1405,7 @@
      "what": "Lift the caps and look at the prints. Compare a spore print with a seed."
     }
    ],
-   "record": "Draw the print. Write the colour of the print. Draw a moong seed beside the print, as big as the real seed.",
+   "record": "Take a photo of the print, or draw it. Write the colour of the print. Put a moong seed next to the print in the photo, or draw the seed as big as the real one.",
    "flow": [
     {
      "id": "s1",
@@ -1537,7 +1537,7 @@
      "what": "Answer five questions about your body. Label five nested boxes. Put your photo in the smallest box."
     }
    ],
-   "record": "Draw five circles, one inside the other, and write a group name in each.",
+   "record": "Write the five group names in order, from the biggest box to the smallest. You can draw them as circles if you like.",
    "flow": [
     {
      "id": "s1",
@@ -1567,7 +1567,7 @@
      "mins": 2,
      "do": "Ask where a cat, a crow and a monkey would stop.",
      "say": "Now, which boxes would a cat get into? A crow? A monkey?",
-     "kid": "Which boxes would a cat get into? A crow? A monkey?",
+     "kid": "Think of a cat, a crow and a monkey. Where would each one stop?",
      "parent": "A cat gets into four boxes: living thing, animal, backbone animal and mammal. A crow stops at backbone animal. A monkey gets into all five, because a monkey is a primate.",
      "check": {
       "t": "mcq",
@@ -1655,8 +1655,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Ask what everyone shared, in every sort.",
-     "say": "What did every person in the table have, whatever group they were in?",
-     "kid": "What does every person have, in every group?",
+     "say": "Look at all three sorts again. Whichever group a person was in, something stayed the same.",
+     "kid": "Look back at all three sorts. Think about what is true of every person.",
      "ask": [
       {
        "q": "What is the same about everyone?",
@@ -1686,7 +1686,7 @@
    "title": "Everyone Can Be the Odd One Out",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you look at four animals: a cat, a crow, a bat and a butterfly. You find a reason for each one to be the odd one out.",
+   "context": "In this activity you look at four animals: a cat, a crow, a bat and a butterfly. You find out that any of them can be the odd one out, if you pick the right reason.",
    "materials": [
     {
      "item": "4 cards with a picture or the name of a cat, a crow, a bat and a butterfly",
@@ -1765,7 +1765,7 @@
      "what": "Write a key of yes-or-no questions for five leaves. Test it on someone else."
     }
    ],
-   "record": "Draw your key, with yes and no arrows ending in each leaf's name.",
+   "record": "Write your key as questions, with yes and no leading to each leaf's name. You can draw it as arrows if you like.",
    "flow": [
     {
      "id": "s1",
@@ -1779,9 +1779,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Draw the key as a branching chart. 2. Give someone else one leaf, without telling them its name, along with the key.",
+     "do": "1. Help your child write the key as questions, with yes and no leading to the next question or a leaf's name. They can say it aloud instead. 2. Give someone else one leaf, without telling them its name, along with the key.",
      "say": "Now let's test your key. Can someone else name this leaf using only your questions?",
-     "kid": "Draw your key. Give someone a leaf and your key. Can they find the name?"
+     "kid": "Write your key as questions, or say it. Give someone a leaf and your key. Can they find the name?"
     },
     {
      "id": "s3",
@@ -1818,7 +1818,7 @@
    "title": "The Kitchen Family Tree",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw a family tree of the plants in your kitchen, with a branch for each plant family.",
+   "context": "In this activity you make a family tree of the plants in your kitchen, with a branch for each plant family. You find out which foods are relatives.",
    "materials": [
     {
      "item": "a big sheet of paper or newspaper, and coloured pencils",
@@ -1849,9 +1849,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Help your child draw each kitchen plant on the right branch.",
+     "do": "Help your child put each kitchen food on the right branch, or write its name there.",
      "say": "Rice, wheat and ragi go on the grass branch. Moong, chana and peanut go on the bean branch. Where do tomato and chilli go? And cucumber?",
-     "kid": "Draw each food on its family's branch. Rice on the grass branch. Moong on the bean branch. Where does the tomato go?",
+     "kid": "Put each food on its family's branch, or write its name there. Rice on the grass branch. Moong on the bean branch. Where does the tomato go?",
      "parent": "Grass family: rice, wheat, ragi, maize, sugarcane. Bean family: moong, chana, rajma, horse gram (kollu), peanut, toor dal, methi. Tomato family: tomato, brinjal, chilli, capsicum, potato. Gourd family: cucumber, pumpkin, bottle gourd, bitter gourd, watermelon. Mint and tulsi need a fifth branch."
     },
     {
@@ -1859,7 +1859,7 @@
      "mins": 3,
      "do": "Ask where the four branches meet.",
      "say": "All four branches join the same trunk. What could the trunk mean?",
-     "kid": "All the branches join one trunk. What do you think the trunk means?",
+     "kid": "Follow each branch down to the trunk. What do you think the trunk is?",
      "parent": "The trunk is the shared ancestor. All these plants came from the same long-ago ancestor plants, so they are all relatives, even if far-off ones. Far enough back, that ancestor was a single cell.",
      "think": "If all plants are relatives, what lived at the bottom of the trunk, long ago?"
     }
@@ -1899,7 +1899,7 @@
      "what": "List every living thing you see from a window in 8 minutes. Sort the list two ways."
     }
    ],
-   "record": "Write the list, and draw the two sorts as circles.",
+   "record": "Write the list. Then write the two sorts as groups, or circle each group in a different colour.",
    "flow": [
     {
      "id": "s1",
@@ -1937,7 +1937,7 @@
    "title": "Our Home's Book of Living Things",
    "mins": 45,
    "days": 3,
-   "context": "In this project you make a small book of every living thing in and around your home over three days, with one page for each. Then you sort the pages into groups inside groups.",
+   "context": "In this project you make a small book of every living thing in and around your home over three days, with one page for each. You find out how many different living things share your home. Then you sort the pages into groups inside groups.",
    "materials": [
     {
      "item": "10 to 15 sheets of paper, folded and stapled or tied with thread into a book",
@@ -1948,12 +1948,12 @@
      "qty": 1
     }
    ],
-   "safety": "Do not touch insects or animals. Just watch and draw.",
+   "safety": "Do not touch insects or animals. Just watch.",
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Find living things indoors: people, potted plants, ants, a house lizard, curd. Draw one on each page."
+     "what": "Find living things indoors: people, potted plants, ants, a house lizard, curd. Make one page for each, with a drawing, a photo or just its name."
     },
     {
      "day": 2,
@@ -1971,9 +1971,9 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Make the book. 2. Walk around the home together. 3. For each living thing, draw one page and write the name.",
-     "say": "Let's find every living thing in our home. People count. Plants count. Even the curd counts, because it is full of living bacteria.",
-     "kid": "Find every living thing at home. Draw one on each page. Write the name on the page.",
+     "do": "1. Make the book. 2. Walk around the home together. 3. For each living thing, make one page. Draw it, paste a photo, or just write its name.",
+     "say": "Let's find every living thing in our home. People count. Plants count. Even the curd counts, because tiny living bacteria live in curd.",
+     "kid": "Find every living thing at home. Make one page for each. Draw it, or just write its name.",
      "context": "This is the first day of Our Home's Book of Living Things. You find and draw everything alive in your home."
     },
     {
@@ -2019,7 +2019,7 @@
    "id": "c1",
    "title": "Sort It for the Job",
    "mins": 25,
-   "context": "In this challenge you sort the same ten vegetables three times, for three different people: a cook, a farmer and a shopkeeper.",
+   "context": "In this challenge you sort the same ten vegetables three times, for three different people: a cook, a farmer and a shopkeeper. You find out that one set of things can be sorted in more than one good way.",
    "problem": "A cook, a farmer and a shopkeeper each need the same ten vegetables sorted. Each one needs a different sort. Make the best sort for each of them.",
    "constraints": [
     "Use the same ten vegetables, or ten word cards, for all three sorts.",
@@ -2061,8 +2061,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Compare the three sorts.",
-     "say": "Which sort is the right one?",
-     "kid": "Look at your three sorts. Which one is right?",
+     "say": "Put your three sorts side by side. Do they look the same?",
+     "kid": "Look at your three sorts side by side. Are they the same?",
      "check": {
       "t": "mcq",
       "q": "Which of the three sorts is the right one?",
@@ -2091,7 +2091,7 @@
    "id": "c2",
    "title": "A Terrace Garden Plan That Stops the Wilt",
    "mins": 25,
-   "context": "In this challenge you plan a garden of four grow bags for three seasons, so that no bag grows the same plant family twice in a row. Farmers call this crop rotation. The garden belongs to Kavya, the girl in the story The Terrace Garden Sickness.",
+   "context": "In this challenge you find out how a garden plan can stop a soil sickness. You plan a garden of four grow bags for three seasons, so that no bag grows the same plant family twice in a row. Farmers call this crop rotation. The garden belongs to Kavya, the girl in the story The Terrace Garden Sickness.",
    "problem": "Kavya, the girl in the story The Terrace Garden Sickness, has four grow bags. She wants to grow tomato, brinjal, chilli, cucumber, bottle gourd, beans and peas over three seasons. A soil sickness attacks the tomato family. Plan which plant goes in each bag each season, so no bag grows the tomato family twice in a row.",
    "constraints": [
     "Four bags, three seasons.",
@@ -2118,9 +2118,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Read the problem. 2. Write each plant's family next to them.",
-     "say": "First, let's write each plant's family. Which ones are in the tomato family?",
-     "kid": "Write each plant's family next to them. Which ones are in the tomato family?",
+     "do": "1. Read the problem. 2. Write the family after each plant's name.",
+     "say": "First, let's find each plant's family. Which ones are in the tomato family?",
+     "kid": "Write the family after each plant's name.",
      "context": "This is the first step of A Terrace Garden Plan That Stops the Wilt. You find each plant's family before you plan."
     },
     {

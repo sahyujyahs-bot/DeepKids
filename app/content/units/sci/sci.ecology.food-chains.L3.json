@@ -1206,9 +1206,9 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "1. Each round, players take turns to drop each tiger once from head height onto the forest. 2. Remove the deer she touches. 3. Decide which tigers starve or have a cub. 4. Double the deer that are left, up to 40. 5. Write the numbers on the record sheet. 6. Play 12 rounds.",
+     "do": "1. Each round, players take turns to drop each tiger once from head height onto the forest. 2. Remove the deer she touches. 3. A tiger that touched 0 or 1 deer starves: take her away. One that touched 2 or 3 lives. One that touched 4 or more lives and has a cub: add one tiger, up to 8. 4. Double the deer that are left, up to 40. 5. Write the numbers on the record sheet. 6. Play 12 rounds.",
      "say": "Drop the tiger. How many deer did she catch? Is that enough to survive? Now the deer have babies. Let's write down the numbers.",
-     "kid": "Drop each tiger from head height. Take away every deer she touches. Did she eat 2 or 3? She lives. Did she eat 4 or more? She has a cub! Then double the deer. Write it down.",
+     "kid": "Drop each tiger from head height. Take away every deer she touches. Did she touch 0 or 1? She starves. Did she touch 2 or 3? She lives. Did she touch 4 or more? She has a cub! Then double the deer. Write it down.",
      "parent": "The numbers depend on luck, so every game is different. Usually the deer increase for a few rounds while the single tiger struggles. Then, with lots of deer, the tigers catch more and have cubs. With many tigers, the deer fall. Then the tigers starve, and the deer rise again. Each round takes about a minute. If your game does not show this in 12 rounds, play 5 more. If the deer reach 40 and stay there, the tigers will catch up soon. Drop the tigers, don't aim them, or the game stops being fair.",
      "ask": [
       {
@@ -1985,7 +1985,7 @@
      "mins": 4,
      "do": "1. Show your child the sugar, salt and chapati. 2. Ask which one ants will choose, and why. 3. Write the guess down.",
      "say": "Ants are consumers. They can't make their own food, so they go looking for it. Which of these do you think they will go to most? Which will they ignore?",
-     "kid": "Ants can't make their own food. They must find it. Will they go to the sugar, the salt or the chapati? Write your guess.",
+     "kid": "Which will the ants go to: the sugar, the salt or the chapati? Point to your guess.",
      "ask": [
       {
        "q": "Why did you choose that one?",
@@ -2054,9 +2054,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Draw a bar chart together, with one bar for each square, using the 30-minute numbers.",
+     "do": "Make a bar chart together, with one bar for each square, using the 30-minute numbers. Your child can draw it, or line up paper bits.",
      "say": "Each square gets one bar. The taller the bar, the more ants came to that food.",
-     "kid": "Draw one bar for each square. Make it as tall as the number of ants at 30 minutes.",
+     "kid": "Make one bar for each square. Make it as tall as the ants at 30 minutes. Draw it, or line up paper bits.",
      "check": {
       "t": "mcq",
       "q": "In a test like this, ants come to sugar and chapati but not to salt. What do sugar and chapati have in common?",
@@ -2190,7 +2190,7 @@
      "what": "Count bitten leaves on three plants. Then look for the animals that bit them, and for the animals that eat those."
     }
    ],
-   "record": "Fill in the table. Draw a bar chart of bitten leaves for each plant. Then draw one food chain you found, starting with a plant.",
+   "record": "Fill in the table. Draw a bar chart of bitten leaves for each plant, or tell your grown-up the numbers. Then write one food chain you found, starting with a plant.",
    "flow": [
     {
      "id": "s1",
@@ -2261,9 +2261,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Help your child draw a bar chart of bitten leaves, and one food chain from what you saw.",
-     "say": "Let's draw a bar for each plant. Then let's draw one real food chain from our plants.",
-     "kid": "Draw a bar for each plant. Then draw one real chain, like hibiscus → caterpillar → bulbul.",
+     "do": "Help your child make a bar chart of bitten leaves. Then write each living thing you found on a scrap of paper, and lay the scraps in one food chain.",
+     "say": "Let's make a bar for each plant. Then let's lay out one real food chain from our plants.",
+     "kid": "Make a bar for each plant. Draw it, or just tell your grown-up which plant had the most bites. Then lay your scraps in a chain, with the plant first.",
      "check": {
       "t": "mcq",
       "q": "You found a caterpillar on a hibiscus leaf, and saw a bulbul eat a caterpillar. Which food chain is right?",
@@ -2377,7 +2377,7 @@
      "what": "Count insects and lizards by a light three times in the evening, 30 minutes apart."
     }
    ],
-   "record": "Fill in the table. Draw the food chain you saw. Write what time the first lizard came.",
+   "record": "Fill in the table. Write the food chain you saw. Write what time the first lizard came.",
    "flow": [
     {
      "id": "s1",
@@ -2408,9 +2408,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Draw the food chain you saw, starting with a plant.",
+     "do": "Write each living thing you saw on a scrap of paper. Lay the scraps in a food chain, starting with a plant.",
      "say": "The moth grew up as a caterpillar, eating leaves. So what is the whole food chain?",
-     "kid": "Draw the chain. Start with a plant. The moth was a caterpillar once, eating leaves.",
+     "kid": "Lay your scraps in a chain. Start with a plant. Draw it too, if you like.",
      "check": {
       "t": "mcq",
       "q": "A gecko eats a moth by the light. When the moth was a caterpillar, they ate leaves. Which is the full food chain?",
@@ -2575,7 +2575,7 @@
      "what": "Pass 100 grains of food along a food chain and see how few reach the snake."
     }
    ],
-   "record": "Write how many grains each animal got. Draw the four bowls as a pyramid.",
+   "record": "Write how many grains each animal got. Then line up the four bowls from the most grains to the fewest.",
    "flow": [
     {
      "id": "s1",
@@ -2590,14 +2590,14 @@
      "mins": 4,
      "do": "1. Grasshoppers eat only some of the grass. The rest dies, and decomposers use it. 2. The grasshoppers use most of what they eat to hop, breathe and stay alive. Move 9 heaps into the USED FOR LIVING bowl. 3. Move the last heap of 10 grains into the GRASSHOPPER bowl. This is the food that became grasshopper body.",
      "say": "Grasshoppers eat only some of the grass. The rest dies and feeds the decomposers. And the grasshoppers use most of what they eat just to live. Out of 100 grains, how many do you think become grasshopper?",
-     "kid": "Grasshoppers eat only some of the grass. They use most of it just to live. Put 9 heaps in USED FOR LIVING. Only 1 heap becomes grasshopper. That is 10 grains."
+     "kid": "Move 9 heaps into the USED FOR LIVING bowl. Move the last heap into the GRASSHOPPER bowl. How many grains is that?"
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "1. The frog eats the 10 grains in the GRASSHOPPER bowl. It uses 9 of them to hop, breathe and keep warm, and some comes out as poo. Move 9 grains into USED FOR LIVING. 2. Move 1 grain into the FROG bowl. 3. Now break that one grain into 10 crumbs. Move 9 crumbs to USED FOR LIVING, and 1 crumb to the SNAKE bowl.",
      "say": "The frog eats the grasshoppers' 10 grains and uses most of them just to live. Only one grain in ten becomes frog. Then the snake eats the frog and uses most of that too. The snake gets one tiny crumb.",
-     "kid": "The frog uses 9 grains to live. Only 1 grain becomes frog. Break it into 10 crumbs. The snake gets one crumb!",
+     "kid": "Move 9 grains into USED FOR LIVING and 1 grain into FROG. Break that grain into 10 crumbs. Move 9 crumbs into USED FOR LIVING and 1 crumb into SNAKE.",
      "check": {
       "t": "mcq",
       "q": "The field started with 100 grains of food. How much reached the snake?",
@@ -2668,8 +2668,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Stop. Feel your child's forehead again and count their breaths again. 2. Talk about where the energy came from, and where it went.",
-     "say": "Feel how hot you are. Count your breaths. That heat and that movement came from your breakfast. And now the heat is leaving you, into the air.",
-     "kid": "Stop! Feel your forehead. Count your breaths again. That heat came from your food. Now it is going into the air.",
+     "say": "Feel how hot you are. Count your breaths again. Is it more than before? Where do you think this heat came from?",
+     "kid": "Stop! Feel your forehead. Count your breaths again. Are you hotter? Are you breathing faster?",
      "check": {
       "t": "mcq",
       "q": "After running, you feel hot. Where did that heat come from?",
@@ -2734,7 +2734,7 @@
      "what": "Build a food web out of wool, then take one living thing away and feel what moves."
     }
    ],
-   "record": "Draw the web you made. Circle the living thing that had the most threads.",
+   "record": "Count the threads each living thing held. Say which one had the most threads, and why you think so.",
    "flow": [
     {
      "id": "s1",
@@ -2774,7 +2774,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Wind the wool back into the same web. This time take away the vulture and the mushroom, and talk about what would happen to dead animals and plants.",
-     "say": "Now let's take away the vulture and the mushroom. What happens to every animal that dies? Where do the grass's new nutrients come from?",
+     "say": "Now let's take away the vulture and the mushroom. What happens to every animal that dies?",
      "kid": "Now take away the vulture and the mushroom. What happens to dead animals? Who cleans up now?",
      "think": "Which living thing in our web held the most threads? Is that the most important one, or just the busiest?",
      "parent": "The busiest one is often the grass, the Sun or the frog. Being the busiest is not the same as being the most important. Ask what would happen to everyone else if that one let go. For the last question: without the vulture and the mushroom, dead animals and plants would pile up, and the soil would stop getting nutrients back for the grass."
@@ -2823,7 +2823,7 @@
      "what": "Pass red poison dots up a food chain and count how many reach the bird."
     }
    ],
-   "record": "Write how many red dots each animal had. Draw the chain with the number of dots beside each animal.",
+   "record": "Write how many red dots each animal had. Then write the chain, with the number of dots beside each animal.",
    "flow": [
     {
      "id": "s1",
@@ -3051,9 +3051,9 @@
     {
      "id": "s5",
      "mins": 30,
-     "do": "1. Draw each living thing on the big sheet, with plants at the bottom. 2. Draw an arrow from each food to the eater. 3. Colour producers green, herbivores yellow, carnivores red, omnivores orange and the clean-up crew brown. 4. Find the living thing with the most arrows. 5. Show the web to the family.",
+     "do": "1. Write the name of each living thing on the big sheet, with plants at the bottom. Your child can add a small picture if they like. 2. Draw an arrow from each food to the eater. 3. Put a coloured dot by each name: green for producers, yellow for herbivores, red for carnivores, orange for omnivores and brown for the clean-up crew. 4. Find the living thing with the most arrows. 5. Show the web to the family.",
      "say": "Plants go at the bottom. Every arrow goes from the food to the eater. Which living thing has the most arrows touching them?",
-     "kid": "Draw everything you saw. Plants at the bottom. Arrows point to the eater. Colour them. Who has the most arrows?",
+     "kid": "Write the name of everything you saw. Plants go at the bottom. Draw an arrow from each food to the eater. Put a coloured dot by each name. Who has the most arrows?",
      "wait": "Do this on day 5.",
      "check": {
       "t": "mcq",
@@ -3069,7 +3069,7 @@
      "think": "Where did you put yourself on the web? What do you eat that came from your street?"
     }
    ],
-   "context": "In this five-day project, you watch one spot near your home each day, and list who lives there and who eats whom. On the last day, you draw your street's own food web.",
+   "context": "In this five-day project, you watch one spot near your home each day, and list who lives there and who eats whom. On the last day, you make your street's own food web chart. You will find out how many living things share one small spot.",
    "setup": [
     {
      "art": "A child on a balcony with a notebook and binoculars, looking at a tree full of birds.",
@@ -3112,7 +3112,7 @@
     "Leave a safe, shady corner for frogs and toads. Tadpoles and frogs eat many insects.",
     "Plant shrubs and trees that bring insect-eating birds, like bee-eaters, drongos and swallows."
    ],
-   "your_turn": "Draw a plan for your home or street. Show where water collects, which water you will empty, and which mosquito-eaters you will invite. Then check again after one week.",
+   "your_turn": "Make a plan for your home or street. Draw it, or tell it to your grown-up as you walk around. Show where water collects, which water you will empty, and which mosquito-eaters you will invite. Then check again after one week.",
    "flow": [
     {
      "id": "s1",
@@ -3126,9 +3126,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Draw the mosquito's food web together: who they eat, and who eats them.",
+     "do": "Make two lists together: who eats the mosquito larvae, and who eats the grown mosquitoes.",
      "say": "Mosquito larvae eat tiny algae and bacteria in the water. Who eats mosquito larvae? Who eats grown mosquitoes?",
-     "kid": "Draw the mosquito's web. What do the larvae eat? Who eats the larvae? Who eats the grown mosquitoes?",
+     "kid": "Say who eats the larvae, and who eats the grown mosquitoes. Write each name in the right list.",
      "check": {
       "t": "mcq",
       "q": "Why are poison sprays not the best way to stop mosquitoes?",
@@ -3145,8 +3145,8 @@
      "id": "s3",
      "mins": 7,
      "do": "Read the usual solutions and the creative ideas together. Then your child draws their own plan.",
-     "say": "Here are the usual ways, and some creative ones. Now draw your own plan for our home or street.",
-     "kid": "Read the usual ways and the creative ideas. Now draw your own plan. Where is the water? Which eaters will you invite?"
+     "say": "Here are the usual ways, and some creative ones. Now make your own plan for our home or street. You can draw it or tell it to me.",
+     "kid": "Read the usual ways and the creative ideas. Now make your own plan. Draw it, or tell your grown-up. Where is the water? Which eaters will you invite?"
     },
     {
      "id": "s4",
@@ -3164,7 +3164,7 @@
     },
     {
      "art": "A child drawing a food web with a mosquito in the middle and arrows to a dragonfly, a frog, a guppy and a bird.",
-     "caption": "2. Draw who eats mosquitoes."
+     "caption": "2. Name who eats mosquitoes."
     },
     {
      "art": "A child's plan of a house and garden, with crosses on water trays, a small pond with guppies and a dragonfly.",
@@ -3204,7 +3204,7 @@
      "mins": 8,
      "do": "Work out together how many prey animals and how many squares of forest the 4 tigers need.",
      "say": "Each tiger needs about 500 prey animals in their forest. How many for 4 tigers? And if each square holds 20 deer, how many squares do we need?",
-     "kid": "Each tiger needs 500 prey animals. How many for 4 tigers? Each square holds 20 deer. How many squares do you need?",
+     "kid": "Work out how many prey animals 4 tigers need. Then work out how many squares of forest that needs.",
      "check": {
       "t": "mcq",
       "q": "4 tigers need 2,000 prey animals. Each square of forest holds 20. How many squares are needed?",
@@ -3221,9 +3221,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Lay out 100 paper squares as a forest on the floor. 2. Draw water holes, thick bushes, villages, farms and roads. 3. Add corridors to other forests.",
+     "do": "1. Lay out 100 paper squares as a forest on the floor. 2. Pick squares for water holes, thick bushes, villages, farms and roads. Write a word on each square, or colour it. 3. Line up some squares as corridors to other forests.",
      "say": "Now let's build it. Where will the tigers drink? Where will the cubs hide? Where do people live?",
-     "kid": "Lay out your 100 squares. Draw water, bushes, villages and roads. Add a corridor to another forest.",
+     "kid": "Lay out your 100 squares. Mark water, bushes, villages and roads with a word or a colour. Add a corridor to another forest.",
      "parent": "100 squares, each 1 kilometre on every side, is about the size of a city like Chandigarh. Real tiger reserves in India are usually bigger: many are between 500 and 3,000 square kilometres, including the parts where people live."
     },
     {

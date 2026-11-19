@@ -231,7 +231,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **s2 (14 min)**  
   *Parent does:* Play until someone gets back to the gate. When a WOBBLE square comes up, ask the player why tops wobble.  
   *Parent says:* You landed on WOBBLE. Why does a top wobble before it falls?  
-  *Child mode:* Answer the card. Move your token. On WOBBLE, say why tops wobble.
+  *Child mode:* Answer the card. Move your token.
   - Ask: Why does a top wobble before it falls? (good: It is slowing down.; Friction takes the spin away, so it can't stay up as well.)
 - **s3 (3 min)**  
   *Parent does:* After the game, pick the two hardest cards and talk about them.  
@@ -260,7 +260,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **predict:** Guess first. You will tape four coins near the edge of a top, and then the same four coins near the middle. Which top will spin longer? Or will they spin the same? Why do you think so?
 - **fair test:** Use the same card, the same pencil and the same four coins both times. Spin on the same steel plate, the same way, as hard as you can. Only the place of the coins changes. Spin each top 3 times, because one spin can be a fluke.
 - **safety:** A grown-up cuts the card and makes the hole in the middle with the pencil point. Keep coins away from children under 5.
-- **record:** Fill in the table. Draw both tops from above, showing where the coins were. Circle the one that spun longest.
+- **record:** Fill in the table. Take a photo of both tops from above, showing where the coins were, or draw them. Circle the one that spun longest.
 - **results table:** Where the coins are | Spin 1 (seconds) | Spin 2 (seconds) | Spin 3 (seconds) | Longest spin
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Draw round the katori on the card and cut out the circle. 2. To find the middle, draw round the katori on a sheet of paper too and cut that circle out. Fold it in half, then in half again, then open it out. The corner where the folds meet is the middle. 3. Lay the paper circle exactly over the card circle and poke the pencil point through that corner into the card. 4. Push the pencil through, so about 2 cm pokes out below. 5. Tape it firmly on both sides.  
@@ -270,7 +270,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess, and to give a reason.  
   *Parent says:* We'll tape four coins near the edge, then move the same coins near the middle. Which top will spin longer? Why do you think so?  
-  *Child mode:* Guess. Will the top spin longer with coins at the edge, or in the middle? Why?
+  *Child mode:* Guess: edge, middle, or the same? Say why.
   - Note: Write down the guess and the reason before testing. Many children guess the middle, because it feels more balanced. Any reason is fine. The test will answer it.
   - Check: What will you change in this test? → **Where the coins are taped**
 - **s3 (3 min)**  
@@ -304,7 +304,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **predict:** Guess first. You will spin a coin on a steel plate, a tiled floor, a sheet of newspaper and a towel. Put them in order, from longest spin to shortest. Why do you think so?
 - **fair test:** Use the same coin and spin it the same way each time. Only the surface changes. Spin 3 times on each surface, because one spin can be a fluke.
 - **safety:** Keep coins away from children under 5.
-- **record:** Fill in the table. Draw a bar for the longest spin on each surface.
+- **record:** Fill in the table. Then line the four surfaces up, longest spin first, and tell your grown-up why the last one is last.
 - **results table:** Surface | Spin 1 (seconds) | Spin 2 (seconds) | Spin 3 (seconds) | Longest spin
 - **s1 (4 min)**  
   *Parent does:* 1. Stand the coin on its edge on the steel plate. 2. Hold it lightly with one finger on top. 3. Flick its side hard with a finger of the other hand. Practise a few times.  
@@ -314,7 +314,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **s2 (2 min)**  
   *Parent does:* Ask your child for a guess and a reason.  
   *Parent says:* Which surface will let the coin spin longest? Which will be shortest? Why do you think so?  
-  *Child mode:* Which surface will let the coin spin longest? Which shortest? Why?
+  *Child mode:* Guess the order of the four surfaces, longest spin first. Say why.
 - **s3 (12 min)**  
   *Parent does:* 1. Spin the coin 3 times on each surface: the steel plate, the floor, the newspaper and the towel. 2. Time each spin, from the flick until the coin lies flat. 3. Write each time in the table.  
   *Parent says:* Time each spin from the flick until the coin lies flat. Listen to it as it slows down.  
@@ -323,7 +323,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **s4 (4 min)**  
   *Parent does:* Compare the times.  
   *Parent says:* Where did it spin longest? Where did it hardly spin? Why do you think the towel stopped it so fast?  
-  *Child mode:* Where did it spin longest? Why did the towel stop it?
+  *Child mode:* Look at your table. Where did the coin spin longest, and where hardly at all?
   - Check: Why does a coin usually spin longest on a smooth steel plate? → **There is less friction between the coin and the smooth steel, so less spin is rubbed away**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write: what I think, what I saw, and why.  
@@ -336,7 +336,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **predict:** Guess first. You will race a roll of cello tape against a battery down a tray. Which will win, or will it be a tie? Why do you think so?
 - **fair test:** Use the same slope. Hold both at the same starting line and let go at the same moment. Race them 5 times, and swap sides each time, in case one side of the tray is smoother.
 - **safety:** Use a metal or plastic bangle, never glass.
-- **record:** Fill in the table. Draw the ring and the solid round thing, and shade where their weight is.
+- **record:** Fill in the table. Show your grown-up where the weight is in the tape roll (all round the edge) and in the battery (all the way through).
 - **results table:** Race | Winner | Which side was the tape on?
 - **s1 (5 min)**  
   *Parent does:* 1. Lift one end of the tray onto 2 or 3 books. 2. Lay the ruler across the top as a starting gate. 3. Put the tape roll and the battery side by side behind the ruler.  
@@ -346,7 +346,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **s2 (2 min)**  
   *Parent does:* Ask your child for a guess and a reason.  
   *Parent says:* Which will reach the bottom first, the tape or the battery? Or will they tie? Why do you think so?  
-  *Child mode:* Which will win, the tape or the battery? Why?
+  *Child mode:* Guess: tape, battery, or a tie? Say why.
 - **s3 (10 min)**  
   *Parent does:* 1. Lift the ruler straight up, quickly. 2. Watch which reaches the bottom first. 3. Swap their sides and race again. 4. Race 5 times and write each winner.  
   *Parent says:* Lift the ruler fast so both start together. Watch the bottom of the slope.  
@@ -366,7 +366,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 ## Activities
 ### a1 · Spin Hunt: find the axis (10 min)
 - **safety:** Look at the ceiling fan and the mixie only when they are switched off. Never touch a moving fan or blade.
-- **record:** List the things you found. Draw two of them with a dotted line for the axis.
+- **record:** List the things you found. For two of them, take a photo or show your grown-up where the axis is.
 - **s1 (2 min)**  
   *Parent does:* Spin a coin or a steel lid on the table. Let your child watch it.  
   *Parent says:* What do you notice about how it moves? What do you wonder?  
@@ -378,13 +378,13 @@ He watched its head draw slow circles, and he did not say anything for a long ti
   *Child mode:* Find 8 things that spin or turn. For each one, point to the line it turns around. That line is its axis.
   - Note: A door's axis runs down its hinges. A fan's axis points from the ceiling to the floor. A tap's axis goes along its stem. Switch off and unplug the mixie before looking at its blade.
 - **s3 (2 min)**  
-  *Parent does:* Ask your child which part of a swinging door moves fastest.  
-  *Parent says:* Which parts of the door move fastest when it swings: near the hinges, or at the far edge?  
-  *Child mode:* When a door swings, which part moves fastest? Near the hinges, or the far edge?
+  *Parent does:* Ask your child to open a door slowly and watch the hinge side and the handle side.  
+  *Parent says:* Open the door slowly. Watch the hinge side and the handle side.  
+  *Child mode:* Open a door slowly. Watch the hinge side and the handle side.
   - Check: When a door swings open, which part moves fastest? → **The far edge, by the handle**
 ### a2 · Watch the Lean Go Round (10 min)
 - **safety:** If you use a string top, throw it down onto the floor, away from people's feet.
-- **record:** Draw a spinning top from the side. Draw a dotted circle above it to show the path of its head.
+- **record:** Show your grown-up with your finger the circle the top's head made, and tell why the top did not fall. Or draw it.
 - **s1 (2 min)**  
   *Parent does:* Stand the top on its point, hold it straight and let go.  
   *Parent says:* What happens when the top is not spinning?  
@@ -398,12 +398,12 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **s3 (3 min)**  
   *Parent does:* Ask your child what the lean did when the top was spinning.  
   *Parent says:* When the top was still, a lean made it fall. When it was spinning, what did the lean do?  
-  *Child mode:* What did the lean do when the top was spinning?
+  *Child mode:* Think about the still top and the spinning top. What was different?
   - Check: What does a leaning spinning top do? → **Its lean slowly circles round, so its head draws a circle**
 ### a3 · The Dupatta Merry-go-round (15 min)
 - **problem:** On a merry-go-round, the horses on the outside and the seats near the pole all go round once in the same time. In this activity you and a grown-up pretend to be a merry-go-round, using a dupatta. You count your steps to find out who has to move faster.
 - **safety:** Walk slowly. Move chairs and tables out of the way. Stop if anyone feels dizzy.
-- **record:** Write how many steps each person took in one turn. Draw the two circles.
+- **record:** Write how many steps each person took in one turn. Tell your grown-up who walked the bigger circle.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. The grown-up stands in the middle holding one end of the dupatta. 2. Your child holds the other end, with the dupatta stretched out.  
   *Parent says:* I'm the pole of a merry-go-round. You're the rider on the outside horse.  
@@ -421,10 +421,10 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **s4 (3 min)**  
   *Parent does:* Ask your child who had to move faster.  
   *Parent says:* We both went round once in the same time. Who had to move faster?  
-  *Child mode:* You both went round once in the same time. Who moved faster?
+  *Child mode:* Look at your step counts. Who took more steps?
   - Check: On a merry-go-round, one rider sits on the outside and another sits near the pole. Who moves faster? → **The rider on the outside**
 ### a4 · How Far Does One Turn Go? (15 min)
-- **record:** Write how far each lid went in one turn. Draw the two lids with their tracks.
+- **record:** Write how far each lid went in one turn. Take a photo of the two tracks on the paper.
 - **s1 (3 min)**  
   *Parent does:* 1. Stick a small piece of tape (or make a marker dot) on the edge of the small lid. 2. Stand it on the newspaper with the mark touching the paper, and mark that spot on the paper.  
   *Parent says:* We'll roll this lid exactly one turn, and see how far it goes.  
@@ -441,11 +441,11 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **s4 (4 min)**  
   *Parent does:* Ask your child whether a cycle or a toy car goes further in one turn of its wheels.  
   *Parent says:* A cycle has big wheels and a toy car has small wheels. In one turn of its wheels, which goes further?  
-  *Child mode:* Think of one turn of the wheels. Does a cycle or a toy car go further?
+  *Child mode:* Remember how far each lid went in one turn. Think of a big wheel and a small wheel.
   - Check: In one turn of its wheels, which goes further? → **A cycle with big wheels**
 ### a5 · Round Wheel, Square Wheel (10 min)
 - **safety:** A grown-up helps with the scissors.
-- **record:** Draw the path of the middle of each wheel as it rolls.
+- **record:** Tell your grown-up what the pencil did with each wheel. You can also draw the path of its middle.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut a circle and a square of card the same width, about 10 cm. 2. Poke a pencil-point hole through the middle of each. 3. Push the pencil through so it sticks out a little.  
   *Parent says:* Let's make a round wheel and a square wheel the same size, each with a pencil axle in the middle.  
@@ -458,14 +458,14 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **s3 (3 min)**  
   *Parent does:* Ask your child why the round wheel gives a smooth ride.  
   *Parent says:* Why is the ride smooth with the round wheel?  
-  *Child mode:* Why is the round wheel smooth?
+  *Child mode:* Think about what the pencil did with each wheel.
   - Check: Why does a round wheel give a smooth ride? → **Every point on its edge is the same distance from the axle, so the axle stays at the same height**
 
 ## Projects
 ### p1 · Build a Chair-swing Ride (50 min, 2 days)
 - **problem:** In a chair-swing ride at a mela, the seats swing outwards as the ride spins. In this project you build a small one and watch the seats. You find out why the seats swing out, and whether a heavy rider swings out more than a light one.
 - **safety:** A grown-up pokes the holes in the plate and the cups.
-- **record:** Draw the ride still and spinning, showing how the threads hang each time.
+- **record:** Take a photo of the ride still and spinning, or draw it. Tell your grown-up how the threads hung each time.
 - **schedule:** day 1: Build the ride: a bottle base, a pencil pole and a plate roof with 4 hanging seats. (30 min); day 2: Spin the ride slowly, then faster. Watch the seats. Test riders of different weights. (20 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Push the pencil through the middle of the plate and tape it. 2. Tape 4 threads to the edge of the plate, evenly spaced. 3. Tie or tape a paper cup to the end of each thread. 4. Stand the pencil in the bottle so it can turn freely.  
@@ -475,30 +475,30 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **s2 (15 min)**  
   *Parent does:* Put a rider in each cup. Check that the ride turns freely when you twirl the pencil.  
   *Parent says:* Put a rider in each cup. Twirl the pencil gently. Does it turn smoothly?  
-  *Child mode:* Put a rider in each cup. Twirl the pencil gently. Does it turn smoothly?
+  *Child mode:* Put an eraser or paper ball in each cup. Twirl the pencil gently.
 - **s3 (10 min)**  
   *Parent does:* 1. Twirl the pencil slowly, then faster. 2. Watch the threads.  
   *Parent says:* Twirl it slowly, then faster. What do the threads do?  
-  *Child mode:* Twirl it slowly. Then faster. What do the threads do?
+  *Child mode:* Twirl it slowly. Then faster. Watch the threads.
   - Note: When the ride spins fast, the cups swing outwards and the threads lean. The faster it spins, the more they lean. Each cup would like to move in a straight line. The thread pulls it inwards all the time, so it goes round in a circle instead.
 - **s4 (10 min)**  
   *Parent does:* 1. Put a heavy rider in one cup and a light one in another. 2. Spin again. Do the heavy and light cups lean out the same amount?  
   *Parent says:* Will the heavy rider swing out more than the light one? Why do you think so? Let's see.  
-  *Child mode:* Put a heavy rider in one cup and a light one in another. Guess, then spin. Do they lean the same?
+  *Child mode:* Put a big eraser in one cup and a paper ball in another. Guess, then spin.
   - Note: They lean out by about the same amount, as long as the threads are the same length. At a real mela ride, a big adult and a small child swing out together. Riders are often surprised by this. Both riders sit on the same ride, so they spin at the same speed.
   - Check: On the spinning ride, why do the cups swing outwards? → **Each cup is trying to keep going straight, and its thread pulls it round in a circle**
 
 ## Challenges
 ### c1 · The Longest-spinning Top (35 min)
 - **problem:** Make a top from things at home that spins longer than the coin top you made in the Coin Top experiment.
-- **your turn:** Now design your own top. Draw it, build it and time it. What one change made the biggest difference?
+- **your turn:** Now design your own top. Say or sketch your plan, build it, and time it. What one change made the biggest difference?
 - **constraints:** Use only things from home.; The top must be spun by hand, with one twist.; Time 3 spins and count the longest.
 - **general:** Put the weight near the edge, and spread it evenly all round.; Make sure the stick goes exactly through the middle.; Use a sharp, hard tip, and spin on a smooth steel plate.
 - **creative:** Use an old CD with a marble glued in its middle hole as a round tip.; Stack two discs, with coins between them near the edge.; Make a big, wide top. A wider disc puts the edge weight further out.
 - **s1 (5 min)**  
   *Parent does:* Look at the coin top together and list what helped it spin longer.  
   *Parent says:* What made our coin top spin longer? Let's list everything we learned.  
-  *Child mode:* What made your coin top spin longer? Make a list.
+  *Child mode:* What made your coin top spin longer? Make a list, or say it out loud.
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* Help your child build a new top using one or more ideas, then time it 3 times.  
   *Parent says:* Build a new top, and time it 3 times. Change one thing at a time, so we know which change helped.  
@@ -526,7 +526,7 @@ He watched its head draw slow circles, and he did not say anything for a long ti
 - **s3 (5 min)**  
   *Parent does:* Talk about why the pinwheel turns easily.  
   *Parent says:* Why do a loose pin and a bead help the pinwheel spin?  
-  *Child mode:* Why does a loose pin help it spin?
+  *Child mode:* Try the pin tight, then loose. Which spins more easily?
   - Note: Less rubbing at the axle means less friction, so even a gentle breath can turn the pinwheel. In the Spinning Coin experiment, the coin spun longest on the steel plate for the same reason.
 
 ## Worksheets

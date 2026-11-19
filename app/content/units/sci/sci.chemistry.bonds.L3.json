@@ -478,7 +478,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Print or draw the atom cards. 2. Lay out one card of each kind.",
+     "do": "1. Print and cut out the atom cards. 2. Lay out one card of each kind.",
      "say": "Each atom has a set number of hands. Count them on each card.",
      "kid": "Look at each card. Count the hands. Hydrogen has 1. Oxygen has 2. Nitrogen has 3. Carbon has 4.",
      "context": "This is the first step of Hold Every Hand. You learn how many bonds each atom makes."
@@ -488,7 +488,7 @@
      "mins": 4,
      "do": "Build water together. Put one O card and two H cards next to each other.",
      "say": "Oxygen has two hands. How many hydrogens can it hold?",
-     "kid": "Put one O in the middle. How many H cards can it hold? Try it.",
+     "kid": "Put one O in the middle. Try to add H cards around it.",
      "ask": [
       {
        "q": "Why not three hydrogens on one oxygen?",
@@ -680,7 +680,7 @@
      "mins": 2,
      "do": "Count the points.",
      "say": "Which card was hardest to decide? What clue helped you decide it?",
-     "kid": "Count your points. Which card was hardest? What clue helped?",
+     "kid": "Count your points. Pick the card that was hardest.",
      "parent": "A good clue is whether cooling, warming or drying would bring the first thing back. If it would, it is the same stuff.",
      "check": {
       "t": "mcq",
@@ -703,7 +703,7 @@
    "title": "Split Water with a Pencil and a Battery",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you use a 9-volt battery and two pencils to split water into two gases. Then you test which pencil makes more gas, and why.",
+   "context": "In this experiment you use a 9-volt battery and two pencils to split water into two gases. Then you test which pencil makes more gas, and why. You will find out if a battery can turn water into something that is not water.",
    "question": "Can a battery split water into something that is not water? Which pencil makes more gas, and does it depend on the pencil or on the battery?",
    "predict": "Guess first. When the battery is joined, what will you see at the pencil tips? Will both tips do the same thing? Why do you think so?",
    "fair_test": "Keep the same glass, water, soda and pencils all through. Only swap which wire goes to which pencil. If the busier side moves with the black wire, the battery decides it, not the pencil.",
@@ -752,7 +752,7 @@
      "what": "Catch steam on a cold plate. Then set up two pencils in soda water, join the battery and compare the bubbles. Swap the wires and compare again."
     }
    ],
-   "record": "Fill in the table for both tests. Draw the glass, the pencils and the bubbles, and label which wire went where.",
+   "record": "Fill in the table for both tests. Take a photo of the glass and the bubbles, or draw them. Write which wire went where.",
    "flow": [
     {
      "id": "s1",
@@ -778,15 +778,15 @@
      "mins": 6,
      "do": "1. Sharpen both pencils at both ends. 2. Poke two holes in the cardboard strip, about 2 cm apart. 3. Push a pencil through each hole. 4. Fill the glass and stir in 1 teaspoon of cooking soda. 5. Lay the strip across the glass, so the tips are in the water.",
      "say": "Now let's try something heat cannot do. The pencils' grey lead carries electricity.",
-     "kid": "Sharpen both pencils at both ends. Push them through the cardboard. Stand them in the soda water. The tips must not touch.",
+     "kid": "Help set up the two pencils in the soda water. The two tips must not touch.",
      "parent": "Pencil lead is graphite, a form of carbon, which carries electricity. The soda helps the water carry electricity. The pencil tips should be in the water but not touching each other or the bottom."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "Ask for a guess and a reason before joining the battery.",
-     "say": "When we join the battery, what do you think will happen at the tips? Why do you think so?",
-     "kid": "What will happen when the battery is joined? Say why you think so.",
+     "say": "Before we join the battery, what do you think will happen at the tips? Why?",
+     "kid": "Guess what you will see at the pencil tips. Say why you think so.",
      "parent": "Wait for both a guess and a reason. Any guess is fine. Write it down."
     },
     {
@@ -794,7 +794,7 @@
      "mins": 6,
      "do": "1. Snap the clip on the battery. 2. Twist the bare end of the red wire round the lead at the top of one pencil. 3. Twist the bare end of the black wire round the lead at the top of the other pencil. 4. Shine a torch through the glass and watch the tips.",
      "say": "Look closely at the bottom of each pencil. What do you see?",
-     "kid": "Join the red wire to one pencil. Join the black wire to the other. Shine the torch. What is at the tips?",
+     "kid": "Join the red wire to one pencil. Join the black wire to the other. Shine the torch and look at the tips.",
      "adult": true,
      "parent": "Within a few seconds, tiny bubbles stream up from both tips. If not, check that the wire touches the lead, not the wood, and add a little more soda. Keep the two wires apart.",
      "check": {
@@ -933,14 +933,14 @@
      "what": "Look at wax and sugar. A grown-up heats the wax until it melts, and the sugar until it turns brown. Cool them and compare."
     }
    ],
-   "record": "Fill in the table. Draw each spoon before heating and after cooling.",
+   "record": "Fill in the table. Take a photo of each spoon before heating and after cooling, or draw them.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Put the sugar on one spoon and the wax shavings on the other. 2. Let your child look closely, feel and smell each.",
-     "say": "Look at both. Feel them. Smell them. What will heat do? Will they come back the same after cooling? Why?",
-     "kid": "Look at the sugar and the wax. Feel them. Smell them. Guess what will happen, and say why.",
+     "say": "Will heat change them? Will they come back the same after cooling? Why do you think so?",
+     "kid": "Look at the sugar and the wax. Feel them. Smell them. Say what you notice.",
      "context": "This is the first step of the wax and sugar experiment. You look closely at both before heating, so you can compare later."
     },
     {
@@ -1048,7 +1048,7 @@
      "what": "Make three glasses: plain, sugar and soda water. Test each with the pencils and battery for one minute."
     }
    ],
-   "record": "Fill in the table. Draw the three glasses with the bubbles you saw.",
+   "record": "Fill in the table. Take a photo of the three glasses, or draw the bubbles you saw.",
    "flow": [
     {
      "id": "s1",
@@ -1071,8 +1071,8 @@
      "id": "s3",
      "mins": 6,
      "do": "Talk about the result.",
-     "say": "Sugar dissolved and so did soda. Why did only the soda help?",
-     "kid": "Which glass bubbled most? Sugar and soda both dissolved. Why did only soda help?",
+     "say": "Both sugar and soda dissolved in water. But only the soda made lots of bubbles.",
+     "kid": "Which glass bubbled most? Which bubbled least?",
      "check": {
       "t": "mcq",
       "q": "Soda water bubbled a lot, but sugar water hardly bubbled. Why?",
@@ -1104,7 +1104,7 @@
    "title": "Pull It Apart: what holds things together?",
    "mins": 8,
    "days": 1,
-   "context": "This is a quick activity to start the unit. You try to pull apart everyday things, and wonder what holds them together.",
+   "context": "This is a quick activity to start the unit. You try to pull apart everyday things. You will find out which are easy to break and which are hard, and think about why.",
    "materials": [
     {
      "item": "a steel spoon, a sheet of paper, a ball of wheat or rice-flour dough, and an ice cube on a plate",
@@ -1118,7 +1118,7 @@
      "what": "Try to pull apart four things. Talk about what holds each one together."
     }
    ],
-   "record": "Draw the four things in order, from easiest to pull apart to hardest.",
+   "record": "Line up the four things from easiest to pull apart to hardest. Take a photo, or draw them.",
    "flow": [
     {
      "id": "s1",
@@ -1132,8 +1132,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Ask what holds the atoms of the spoon together, and listen.",
-     "say": "The spoon is made of tiny atoms. Why don't the atoms just fall apart into dust? What do you think holds them?",
-     "kid": "A spoon is made of tiny atoms. Why do they stay together? What do you think?",
+     "say": "Everything is made of atoms, which are pieces far too small to see. The spoon does not fall apart into dust.",
+     "kid": "Think of your own idea. Tell your grown-up.",
      "ask": [
       {
        "q": "What do you think holds the atoms of the spoon together?",
@@ -1187,7 +1187,7 @@
      "what": "The night before, soak the chana and moong. Then build water, oxygen gas and carbon dioxide models."
     }
    ],
-   "record": "Draw each model and write its name and its letters, like H2O.",
+   "record": "Write the name and letters of each model, like H2O, on a label next to it. Take a photo, or draw them.",
    "flow": [
     {
      "id": "s1",
@@ -1210,7 +1210,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Look at all three models together.",
-     "say": "Which one do you breathe in? Which one do you breathe out? Which one do you drink?",
+     "say": "Look at the three models. Now let's match each one to something real.",
      "kid": "Which one do you breathe in? Which do you breathe out? Which do you drink?",
      "parent": "You breathe in oxygen gas and breathe out carbon dioxide. You drink water.",
      "check": {
@@ -1260,7 +1260,7 @@
      "what": "Make a water molecule from people. Act out ice, water, steam and splitting."
     }
    ],
-   "record": "Draw your family as a water molecule.",
+   "record": "Take a photo of your family as a water molecule, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1274,7 +1274,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. If you have two families or friends, make two water molecules. 2. Stand close and still for ice. 3. Shuffle slowly past each other for water. 4. Move fast around the room for steam. Never let go of your partners.",
-     "say": "Now we are boiling. The water molecules move far apart from each other. Do the atoms inside each molecule let go of their partners?",
+     "say": "Now we are boiling. The water molecules move far apart from each other.",
      "kid": "Stand still for ice. Shuffle for water. Walk fast for steam. Keep holding hands!",
      "parent": "The answer is no. In ice, water and steam, the atoms inside each molecule keep holding hands. Only the molecules move closer together or further apart. With only one molecule, act it alone. The molecule stands still, then shuffles, then moves fast."
     },
@@ -1358,8 +1358,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Talk about diamond.",
-     "say": "Diamond is also pure carbon, but it is the hardest natural material. How can the same atoms be soft and hard?",
-     "kid": "Diamond is carbon too. But it is very hard. How can that be?",
+     "say": "Diamond is also pure carbon, but it is the hardest natural material. Pencil lead is soft.",
+     "kid": "Diamond is carbon too, and it is very hard. Pencil lead is carbon and it is soft.",
      "check": {
       "t": "mcq",
       "q": "Why is pencil lead soft but diamond hard, if both are only carbon?",
@@ -1456,7 +1456,7 @@
    "title": "My Molecule Book",
    "mins": 40,
    "days": 2,
-   "context": "In this 2-day project you build models of methane, ammonia and hydrogen peroxide, and make a small book about six molecules from your home and your air.",
+   "context": "In this 2-day project you build models of methane, ammonia and hydrogen peroxide, and make a small book about six molecules from your home and your air. You will see how a few kinds of atoms make many different things.",
    "materials": [
     {
      "item": "soaked chana and moong, and toothpicks, as in the chana molecule activity",
@@ -1489,14 +1489,14 @@
      "what": "Build hydrogen peroxide. Finish the book with one page for each of the six molecules."
     }
    ],
-   "record": "One page per molecule: its name, its letters, a drawing, and where you find it.",
+   "record": "One page per molecule: its name, its letters, a photo or drawing, and where you find it.",
    "flow": [
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Use plain chana for oxygen, moong for hydrogen, black-marked chana for carbon and blue-marked chana for nitrogen. 2. Build methane: a black chana with four moong. 3. Build ammonia: a blue chana with three moong. 4. Draw each on its own page.",
+     "do": "1. Use plain chana for oxygen, moong for hydrogen, black-marked chana for carbon and blue-marked chana for nitrogen. 2. Build methane: a black chana with four moong. 3. Build ammonia: a blue chana with three moong. 4. Take a photo of each, or draw it, on its own page.",
      "say": "Remember the hands: hydrogen 1, oxygen 2, nitrogen 3, carbon 4. Every hand must be held.",
-     "kid": "Build methane. Then build ammonia. Draw each one on its own page.",
+     "kid": "Build methane. Then build ammonia. Put each one on its own page.",
      "context": "This is the first day of My Molecule Book. You build methane and ammonia and draw them.",
      "parent": "Methane is the main gas in biogas and in the piped cooking gas some cities have. Ammonia is in some cleaning liquids.",
      "wait": "Soak the chana and moong in water the night before.",
@@ -1515,9 +1515,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Build hydrogen peroxide: a chain of H, O, O, H. 2. Draw it on its own page. 3. Finish the book with a page for each of the six molecules. Draw water, oxygen gas and carbon dioxide from the models you made in Build Molecules with Chana and Toothpicks.",
+     "do": "1. Build hydrogen peroxide: a chain of H, O, O, H. 2. Give it its own page. 3. Finish the book with a page for each of the six molecules. Make the water, oxygen gas and carbon dioxide pages from the models you made in Build Molecules with Chana and Toothpicks.",
      "say": "Hydrogen peroxide cleans cuts. Can you build it so every hand is held?",
-     "kid": "Build H, O, O, H. Draw it. Then finish your book with six pages.",
+     "kid": "Build H, O, O, H. Then finish your book with six pages.",
      "wait": "Do this on the second day."
     }
    ],
@@ -1561,7 +1561,7 @@
     "Try two steel safety pins in place of the pencils. After a few minutes, the pin on the red wire usually starts to rust and turns the water brownish. That is iron bonding with oxygen. Pencil lead does not do this.",
     "Use a wider, shallower dish so you can lay the pencils almost flat, with more lead in the water."
    ],
-   "your_turn": "Now invent your own faster bubble machine. Draw it, test it for one minute, and compare it with the first setup.",
+   "your_turn": "Now invent your own faster bubble machine. Build it, test it for one minute, and compare it with the first setup.",
    "flow": [
     {
      "id": "s1",
@@ -1583,9 +1583,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Ask your child to draw the best machine.",
-     "say": "Draw your best machine and say why it works.",
-     "kid": "Draw your best machine. Say why it was fastest."
+     "do": "Ask your child to show the best machine and say why it was fastest.",
+     "say": "Show me your best machine and say why it works.",
+     "kid": "Show your best machine. Say why it was fastest."
     }
    ],
    "setup": [
@@ -1604,7 +1604,7 @@
    "id": "c2",
    "title": "Atom Puzzle Pieces",
    "mins": 30,
-   "context": "This is a design challenge. You make cardboard atom pieces that only fit together in real molecules.",
+   "context": "This is a design challenge. You make cardboard atom pieces that only fit together in real molecules. You will find out how to make pieces that cannot join the wrong way.",
    "problem": "Design cardboard pieces for hydrogen, oxygen and carbon, so that they only join in ways real atoms can. Water should fit together. A hydrogen with two partners should not.",
    "constraints": [
     "Use cardboard, scissors and a pencil.",
@@ -1630,9 +1630,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Draw designs for the three pieces on cardboard.",
+     "do": "Sketch the three pieces on cardboard, or just start cutting and testing.",
      "say": "How will you make sure hydrogen can only hold one partner?",
-     "kid": "Draw a hydrogen, an oxygen and a carbon piece. Hydrogen joins to one piece, oxygen to two and carbon to four.",
+     "kid": "Plan a hydrogen, an oxygen and a carbon piece. Hydrogen joins to one piece, oxygen to two and carbon to four.",
      "context": "This is the first step of Atom Puzzle Pieces. You design pieces that join like real atoms."
     },
     {

@@ -287,11 +287,11 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the body board on the floor. 2. Shuffle the germ cards face down. 3. Deal 3 defence cards to each Body player.  
   *Parent says:* In this game, one of us is a germ trying to get into the body. The rest of us are the body's defences. Germs are tiny living things that can make us ill. Our job is to stop them.  
-  *Child mode:* Lay out the body board. Mix the germ cards. Take 3 defence cards. You are the body. Stop the germs!
+  *Child mode:* You are the body. Your job is to stop the germs.
 - **s2 (3 min)**  
   *Parent does:* Play the germ card 'Germs on an unwashed guava' together as a practice.  
   *Parent says:* Practice card: germs on an unwashed guava. Someone eats it. Which defence stops these germs?  
-  *Child mode:* Practice card: germs on an unwashed guava. You eat it. Which defence stops the germs? Point to it.
+  *Child mode:* Look through your 3 defence cards. Pick one that could stop these germs.
   - Ask: How does it stop them? (good: Stomach acid is very sour and kills most germs in food.; Washing the guava first would also help.)
   - Check: Someone eats a guava without washing it. Which defence kills most of the germs on it? → **Stomach acid**
 - **s3 (10 min)**  
@@ -330,11 +330,11 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **s4 (4 min)**  
   *Parent does:* Play round 3 with the white blood cell starting next to the germ. 3 tries.  
   *Parent says:* Round three: a hurt place sends out signals, and white blood cells follow them to the germs. So the white blood cell starts right next to the germ.  
-  *Child mode:* Round three: the white blood cell follows the signals to the germ. She starts right beside the germ. Run!
+  *Child mode:* Round three: the white blood cell starts right beside the germ. Run!
 - **s5 (1 min)**  
   *Parent does:* Swap roles and play again if you like. Then sit down together and talk.  
   *Parent says:* Which round was hardest for the germ? Why?  
-  *Child mode:* Which round was hardest for the germ? Say why.
+  *Child mode:* Think back over all three rounds.
   - Note: Expect this answer. The hurt place sends out chemical signals, and white blood cells follow those signals to the germs.
   - Think: In round three the white blood cell started next to the germ. In your body, what tells white blood cells where the germs are?
 
@@ -344,13 +344,13 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **predict:** Before you start, guess. Which apple will go soft and bad first? Which will stay fresh longest? Why do you think so? Write your guess for each apple.
 - **fair test:** To make it fair, use four apples of the same kind that look the same. Make each cut the same size with the same clean knife. Put the same amount of soil on A, C and D. Keep all four bags in the same place. A and C differ only in the cut. C and D differ only in the washing.
 - **safety:** Only a grown-up uses the knife. Wash hands with soap after touching the soil. Never open the bags after day 1, because mould can grow inside. Throw the closed bags away at the end.
-- **record:** Each time you look, write one or two words for each apple: fresh, brown, soft patch, soft and wet, or mouldy. On day 7, draw each apple and show where the soft patch began.
+- **record:** Each time you look, write one or two words for each apple: fresh, brown, soft patch, soft and wet, or mouldy. On day 7, draw one apple and show where the soft patch began, or take a photo of all four.
 - **results table:** Apple | What we did | Day 1 | Day 2 | Day 3 | Day 5 | Day 7
 - **schedule:** day 1: Guess which apple will go bad first. Label the apples. A grown-up makes the cuts. Rub soil on the skin of A and into cuts C and D. Rinse cut D. Close the bags. (16 min); day 2: Look at each apple through the bag. Write what you see. (3 min); day 3: Look again and write what you see. (3 min); day 5: Look again and write what you see. (3 min); day 7: Look one last time and compare the apples. Say what you think, what you saw and why. (10 min)
 - **s1 (4 min)**  
   *Parent does:* Show your child the four apples. Ask them to guess which will go bad first and why.  
   *Parent says:* Here are four apples. An apple's skin is a bit like your skin. It is a wall. We are going to test what happens if the wall is broken. Which apple do you think will go bad first?  
-  *Child mode:* Look at the four apples. Their skin is like your skin. Guess which apple will go bad first. Write your guess.
+  *Child mode:* Guess which apple will go bad first. Say your guess, or write it.
   - Ask: Why do you think so? (good: The cut one with dirt, because germs can get in.; The whole one will stay fresh, because the skin keeps germs out.)
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Label the apples A, B, C and D. 2. Leave A whole. 3. Make one cut about 2 centimetres long in B, C and D, all the same size.  
@@ -371,7 +371,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **s5 (6 min)**  
   *Parent does:* On day 7, compare all four apples together.  
   *Parent says:* Look at all four apples. Which stayed freshest? Which went bad first? Was your guess right?  
-  *Child mode:* Look at all four. Which one stayed fresh? Which one went bad first? Was your guess right?
+  *Child mode:* Line the four apples up side by side and compare them.
   - Check: In the apple skin test, apple A (skin whole) stayed fresh longest. What does that tell us? → **Unbroken skin keeps microbes out**
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences: what I think, what I saw, and why.  
@@ -383,7 +383,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **predict:** Before you start, guess. Will your temperature be the same all day? Will it be higher after running about? Why do you think so?
 - **fair test:** To make it fair, measure the same way every time: the same thermometer, under the same arm, held for the same time until it beeps. Do not measure straight after a hot bath or a cold drink.
 - **safety:** Use only a digital thermometer. Old glass thermometers can break and they hold mercury, which is poisonous. Wipe the tip clean before and after each use.
-- **record:** Write each temperature in the table. Then make a line chart: time along the bottom, temperature up the side.
+- **record:** Write each temperature in the table. Then make a line chart (time along the bottom, temperature up the side), or list the numbers from lowest to highest.
 - **results table:** Time | What I had just been doing | Temperature (degrees Celsius)
 - **s1 (3 min)**  
   *Parent does:* Show your child the thermometer and how to switch it on.  
@@ -403,9 +403,9 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   - Note: After running, the number may go up only a little, or not at all. Write what you really read. Do not measure after a hot bath or a cold drink.
   - Wait: Come back to this step later in the day.
 - **s4 (4 min)**  
-  *Parent does:* Help your child draw a line chart of their temperatures.  
+  *Parent does:* Help your child draw a line chart of their temperatures, or put the numbers in order from lowest to highest.  
   *Parent says:* Let's draw our numbers as a line. Time goes along the bottom. Temperature goes up the side. Put a dot for each one and join the dots.  
-  *Child mode:* Time goes along the bottom and temperature goes up the side. Draw a dot for each temperature, then join the dots.
+  *Child mode:* Time goes along the bottom and temperature goes up the side. Draw a dot for each temperature, then join the dots. Or just put your numbers in order, lowest first.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say what they think, what they saw and why.  
   *Parent says:* Now tell me three things. What do you think about your temperature now? What did you see? Why might it change?  
@@ -421,7 +421,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **s1 (3 min)**  
   *Parent does:* Ask your child to breathe in through their nose and think about where the dust in the air goes.  
   *Parent says:* The air we breathe has dust in it, and germs ride on the dust. Inside your nose are tiny hairs and sticky mucus. Today we'll make a pretend nose and test whether a sticky surface catches more dust than a smooth one.  
-  *Child mode:* The air has dust in it. Germs ride on dust. Your nose has hairs and sticky mucus. Guess: does a sticky surface catch more dust than a smooth one?
+  *Child mode:* Guess: will a sticky surface catch more dust than a smooth one?
 - **s2 (7 min)**  
   *Parent does:* 1. Stick a strip of clear tape about 8 cm long across each card. On card 1, lay it sticky side up and hold its two ends down with small bits of tape. On card 2, stick it down the normal way, smooth side up. 2. Draw two pencil lines 4 cm apart across each strip. 3. Lay both cards flat by an open window, and tape their corners down.  
   *Parent says:* This sticky tape is like the mucus in your nose. The smooth tape is like a nose with no mucus. Both go in the same place for the same time, so the test is fair.  
@@ -436,7 +436,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **s4 (3 min)**  
   *Parent does:* Help your child draw a bar chart, one bar for each card.  
   *Parent says:* Draw a bar for each card. Make it as tall as the number of specks.  
-  *Child mode:* Draw one bar for each card. The taller bar caught more dust.
+  *Child mode:* Draw one bar for each card, or just say which card caught more. The taller bar caught more dust.
   - Check: In the sticky nose test, the sticky card caught many more specks than the smooth card. What does that show about mucus? → **Sticky mucus traps dust and germs before they go deeper**
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say what they think, what they saw and why.  
@@ -447,11 +447,11 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 ## Activities
 ### a1 · Onion Tears (10 min)
 - **safety:** Only a grown-up uses the knife. Do not rub your eyes with onion on your hands.
-- **record:** Draw your eyes with their tears. Write one sentence about what your tears did.
+- **record:** Tell your grown-up, or write one sentence: what did your tears do, and why?
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Give your child the hand mirror, then cut an onion in half and into slices, with your child standing nearby.  
   *Parent says:* I'm going to cut an onion. Stand here and watch. Don't touch your eyes. Just notice what happens to them.  
-  *Child mode:* Hold the hand mirror and watch your eyes. A grown-up cuts an onion. Stand near. Don't touch your eyes. What do you notice?
+  *Child mode:* Hold the mirror and watch your eyes while a grown-up cuts the onion. Keep your hands away from your eyes.
   - Ask: What do you notice? What do you wonder? (good: My eyes are stinging.; My eyes are getting wet.; Why do onions make us cry?)
 - **s2 (6 min)**  
   *Parent does:* Let your child look in the mirror again. Then explain what the tears are doing.  
@@ -462,7 +462,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   - Think: Your eyes washed themselves without asking you. What else does your body do to protect you without asking?
 ### a2 · Look at Your Skin Wall (15 min)
 - **problem:** The top layer of your skin is made of flat dead cells. New skin cells grow underneath and push up, and the old cells flake off. Germs that landed on your skin flake off with them. In this activity you lift some of these old flakes off your arm with sticky tape, and you look at them closely.
-- **record:** Stick your tape on black paper. Label it 'my old wall'. Draw what you saw through the magnifying glass.
+- **record:** Stick your tape on black paper. Label it 'my old wall'. Write one sentence about what you saw through the magnifying glass.
 - **s1 (5 min)**  
   *Parent does:* Give your child the magnifying glass and ask them to look at their hand, wrist and fingertip.  
   *Parent says:* Look closely at your skin. It is not smooth. You can see lines and tiny hairs. On your fingertips you may see tiny dots where sweat comes out. All of this is your outer wall against germs.  
@@ -470,34 +470,34 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   - Ask: What do you notice? (good: It has lines like a net.; There are tiny hairs.; My fingertip has swirly lines.)
 - **s2 (6 min)**  
   *Parent does:* 1. Press a strip of tape on the forearm. 2. Peel it off. 3. Stick it on black paper. 4. Look with the magnifying glass.  
-  *Parent says:* Let's peel off some of the wall. Those tiny white flakes are dead skin cells. Your skin's top layer is made of flat dead cells packed tight, like tiles on a roof. New cells grow underneath and push up. The old ones flake off and take germs with them.  
-  *Child mode:* Press tape on your arm. Peel it off. Stick it on black paper. The white flakes are old skin cells.
+  *Parent says:* Let's peel off some of the wall. Look at the tiny white flakes on the tape. Your skin's top layer is made of flat dead cells packed tight, like tiles on a roof. New cells grow underneath and push up. The old ones flake off and take germs with them.  
+  *Child mode:* Press tape on your arm. Peel it off. Stick it on black paper. Look at the flakes with the magnifying glass.
   - Note: The flakes on the tape can be faint. If you see only a few, try the back of the hand or the elbow, where skin is drier.
   - Check: You pressed tape on your arm and stuck it on black paper. What are the tiny white flakes on it? → **Dead skin cells from the top layer**
 - **s3 (4 min)**  
   *Parent does:* Talk about what makes the wall strong and what breaks it.  
   *Parent says:* Your skin wall keeps germs out as long as it has no holes. What could make a hole in it?  
-  *Child mode:* Your skin keeps germs out. What could make a hole in it? Say three things.
+  *Child mode:* Use your finger to show on your arm where a hole could happen.
   - Ask: What could break the skin wall? (good: A cut or a scrape.; A mosquito bite.; A splinter or a thorn.)
   - Ask: What should we do if it breaks? (good: Wash it with clean water.; Cover it with a clean plaster.; Tell a grown-up.)
 ### a3 · Be a Phagocyte (15 min)
 - **problem:** A phagocyte is a white blood cell that eats germs. White blood cells have no eyes, so they find germs by touch and by chemical signals. In this activity your sock hand is the white blood cell. The balls of scrunched paper are the germs, and the bottle caps are the body's own cells. Your job is to find the paper germs by touch and leave the bottle caps alone.
 - **safety:** Bottle caps and dried beans are small parts. Keep them away from children under 5.
-- **record:** Draw the three steps of a white blood cell eating a germ: touch, wrap, swallow.
+- **record:** Tell your grown-up the three steps of a white blood cell eating a germ: touch, wrap, swallow. Then write them as a list.
 - **s1 (3 min)**  
   *Parent does:* 1. Mix the paper balls and the bottle caps in the tray. 2. Give your child the sock to wear like a glove. 3. Put the small bowl next to the tray.  
   *Parent says:* The tray is your blood. The bottle caps are your own body's cells. The paper balls are germs that got in through a cut. Your sock hand is a white blood cell called a phagocyte. That means 'eating cell'.  
-  *Child mode:* The tray is your blood. Bottle caps are your own cells. Paper balls are germs. Your sock hand is a white blood cell. White blood cells eat germs!
+  *Child mode:* Put the sock on your hand. You are a white blood cell. Your job is to find the germs and eat them.
 - **s2 (7 min)**  
   *Parent does:* Ask your child to close their eyes, feel for germs, and wrap the sock hand round each one. Each wrapped germ goes in the bowl.  
   *Parent says:* White blood cells have no eyes. They find germs by touch and by chemical smells. Close your eyes. Feel each thing in the tray. Germs feel crumpled. Your own cells feel smooth. When you find a paper ball germ, close your sock hand round it and drop it in the bowl. Leave the smooth ones alone.  
-  *Child mode:* Close your eyes. Feel the things in the tray. Germs feel crumpled. Your own cells feel smooth. Wrap your sock round a germ. Drop it in the bowl.
+  *Child mode:* Close your eyes. Feel each thing in the tray. Wrap your sock round the crumpled ones and drop them in the bowl.
   - Note: Feeling crumpled or smooth stands for the shapes on a germ's surface. Real white blood cells recognise germs by touch, when shapes fit together like a key in a lock.
   - Check: How do real white blood cells find a germ? → **They follow chemical signals and feel the germ's shapes**
 - **s3 (5 min)**  
   *Parent does:* Count the germs swallowed. Then talk about what happens next.  
   *Parent says:* How many germs are in the bowl? Inside a real white blood cell, the germ is broken down by strong chemicals. After a lot of eating, the white blood cell often dies. A heap of dead white blood cells and germs is pus.  
-  *Child mode:* Count the germs in the bowl. Inside a real white blood cell, the germ is broken down. After a lot of eating, the cell often dies. A heap of dead white blood cells and germs is pus.
+  *Child mode:* Count the germs in the bowl.
   - Ask: Did you wrap any bottle caps by mistake? (good: No, I left them alone.; Yes, one. Real cells try very hard not to do that.)
   - Note: Expect something like this. Germs and your own cells are both covered in tiny molecules, and a few of them look alike. A white blood cell has only touch to go by, so it can sometimes make a mistake.
   - Think: Sometimes real white blood cells attack the body's own cells by mistake. Scientists call this an autoimmune illness. Why might it be hard to tell germs from your own cells?
@@ -511,34 +511,34 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **s2 (5 min)**  
   *Parent does:* Count again while each of you reads silently for one minute, then compare.  
   *Parent says:* Now let's count while you read. Do you think the number will be the same?  
-  *Child mode:* Count blinks again while someone reads. Is the number the same?
+  *Child mode:* Make tally marks again while the grown-up reads silently for one minute.
   - Note: Work it out together. If you blink 15 times a minute, that is 900 times an hour. Over 16 hours awake, that is about 14,000 blinks. The exact number does not matter. The point is that tears wash your eyes all day, and you never notice.
   - Check: People usually blink less while reading or looking at a screen. What might that do to their eyes? → **Their eyes may get dry and tired, with fewer tear washes**
   - Think: People blink about 15 to 20 times a minute when talking. How many times might you blink in a whole day?
 ### a5 · The Lizard's Fever (10 min)
 - **problem:** Lizards make very little heat of their own. To warm up, they lie on a hot rock. Scientists watched sick lizards and found that the sick ones chose a warmer spot than healthy ones did. In this way a sick lizard gives themselves a fever. In this activity you act out what the lizards did, and then think about why it might help them.
-- **record:** Draw a lizard on a warm rock. Write: 'Sick lizards warm up, because…'
+- **record:** Finish this sentence out loud or in writing: 'Sick lizards warm up, because…'
 - **s1 (4 min)**  
   *Parent does:* Ask your child to crawl about as a healthy lizard, moving between sun and shade.  
   *Parent says:* Lizards make very little heat of their own. To warm up, they lie on a hot rock. To cool down, they hide in shade. Be a healthy lizard. Move between sun and shade.  
-  *Child mode:* You are a lizard. Lizards warm up on hot rocks and cool down in shade. Move between sun and shade.
+  *Child mode:* You are a lizard. Go to the sun to warm up and to the shade to cool down.
   - Note: If your flat has no sunny patch, pick any two corners and call one the warm rock and the other the shade. The acting works the same.
 - **s2 (6 min)**  
   *Parent does:* Say 'Now you are a sick lizard' and see where your child goes. Then tell them about the experiment.  
   *Parent says:* Now you are a sick lizard. Germs got in. In the 1970s, a scientist called Matthew Kluger watched sick desert lizards. They crawled to warmer spots than healthy ones. They gave themselves a fever! And sick lizards kept in a cool place were more likely to die. So fever is not a mistake. It is one of the oldest defences on Earth. Some fish and insects also warm themselves up when they are sick.  
-  *Child mode:* Now you are a sick lizard. Where do you go? Real sick lizards crawl to the warm rock. They give themselves a fever. It helps them fight germs.
+  *Child mode:* Now you are a sick lizard. Where do you go?
   - Check: In an experiment, sick lizards moved to warmer spots than healthy lizards did. What does this tell us? → **Fever is an old defence that helps fight germs**
 ### a6 · Draw the Hidden Fight (15 min)
-- **record:** Label your drawing: skin, cut, germs, blood vessel, white blood cell, pus, scab.
+- **record:** Point to each part and say its name: skin, cut, germs, blood vessel, white blood cell, pus, scab.
 - **s1 (8 min)**  
   *Parent does:* Ask your child to draw a scraped knee from the side, as if it were cut in half. Show the skin and a blood vessel.  
-  *Parent says:* Let's draw what we can't see. Draw the knee as if it were cut in half and seen from the side. Draw the skin like a row of tiles, with a gap where it's scraped. Underneath, draw a blood vessel, a tube that carries blood. Now draw germs coming in. Where do the white blood cells come from?  
-  *Child mode:* Draw a scraped knee from the side. Draw the skin like tiles, with a gap. Draw a blood vessel under it. Add germs coming in. Where do the white blood cells come from?
+  *Parent says:* Let's draw what we can't see. Draw the knee as if it were cut in half and seen from the side. Draw the skin like a row of tiles, with a gap where it's scraped. Underneath, draw a blood vessel, a tube that carries blood. Now draw germs coming in.  
+  *Child mode:* Draw the knee from the side: skin tiles with a gap, a blood vessel under it, and germs coming in. Or tell your grown-up what you would draw.
   - Ask: Why does the skin around the cut go red and warm? (good: More blood comes to bring white blood cells.; The blood vessels get wider.)
 - **s2 (7 min)**  
-  *Parent does:* Ask your child to add white blood cells, pus and a scab, and label everything.  
-  *Parent says:* Draw white blood cells squeezing out of the blood vessel and eating germs. Draw a pile of white blood cells that died fighting. That's pus. Now draw a scab on top, like a lid. New skin will grow underneath.  
-  *Child mode:* Draw white blood cells eating germs. Draw a pile of white blood cells that died fighting: that's pus. Draw a scab on top like a lid. Label it all.
+  *Parent does:* Give your child cotton wool and brown paper. Ask them to place the white blood cells, pus and scab on the drawing, and say each part's name.  
+  *Parent says:* Where do the white blood cells come from? Put cotton-wool blobs in the blood vessel. Then move them out through its wall to the germs. Heap a few at the germs: those died fighting. That's pus. Now lay the brown paper on top, like a lid. That's the scab. New skin will grow underneath.  
+  *Child mode:* Move cotton-wool white blood cells out of the blood vessel to the germs. Make a pus heap. Lay the scab on top.
   - Note: There is no single right drawing. Look for a wall with a gap, germs getting in, white blood cells coming from the blood, and a scab sealing it. Praise any label the child explains in their own words.
   - Check: What is a scab on a scraped knee for? → **It seals the hole while new skin grows underneath**
 
@@ -550,7 +550,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **s1 (10 min)**  
   *Parent does:* Help your child plan the castle on paper: which part is which defence.  
   *Parent says:* Your body is defended like a castle. Let's plan one. What is the outer wall? What are the gates? Who guards the gates? Who are the soldiers inside?  
-  *Child mode:* Plan a castle that is a body. The wall is skin. The gates are eyes, nose and mouth. Who guards each gate? Draw a plan.
+  *Child mode:* Plan a castle that is a body. The wall is skin. The gates are eyes, nose and mouth. Who guards each gate? Draw a plan, or tell your grown-up your plan.
   - Ask: What guards the nose gate? (good: Hairs and sticky mucus.; Sneezing.)
   - Ask: What guards the mouth gate? (good: Saliva.; Stomach acid further in.)
 - **s2 (25 min) · grown-up needed**  
@@ -572,7 +572,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 ## Challenges
 ### c1 · The Sneeze Stopper (30 min)
 - **problem:** A sneeze can spray tiny drops, carrying germs, a long way. Use a spray bottle as a pretend sneeze. Find the best way to stop the drops reaching a paper 'friend' 1 metre away.
-- **your turn:** Now invent your own sneeze stopper. Draw it, test it with three sprays, and compare the spots on the paper. Is it better than the others?
+- **your turn:** Now invent your own sneeze stopper. Sketch it or describe it, test it with three sprays, and compare the spots on the paper. Is it better than the others?
 - **constraints:** Use only things from home.; The sneezer must still be able to breathe and see.; Test each idea the same way: 3 sprays from the same place, 1 metre from the paper.
 - **general:** Sneeze into a tissue, then throw the tissue away and wash your hands.; If there is no tissue, sneeze into your elbow, not your hand. Hands touch everything.; A cloth mask over the nose and mouth catches many drops.
 - **creative:** Fold a hanky into a little pocket that stays in a sleeve, ready to grab.; Design a reminder sign for your classroom or home that shows where to sneeze.; Test whether two layers of cloth catch more than one layer.
@@ -587,12 +587,12 @@ But the evening I remember best is not the evening of the prize. It is the eveni
   *Child mode:* Test each stopper. Hold it in front of the spray. Spray 3 times. Count the spots each time.
   - Check: In the sneeze stopper test, a hand and an elbow both caught many drops. So why do doctors say to sneeze into your elbow, not your hand? → **Hands touch food, faces and door handles, and spread the germs**
 - **s3 (7 min)**  
-  *Parent does:* Your child designs, draws and tests their own stopper.  
-  *Parent says:* Now invent your own. Draw it first. Then test it the same way.  
-  *Child mode:* Invent your own sneeze stopper. Draw it. Test it. How many spots got through?
+  *Parent does:* Your child designs and tests their own stopper. A quick sketch is fine, or just telling you the idea.  
+  *Parent says:* Now invent your own. Tell me the idea first. Then test it the same way.  
+  *Child mode:* Invent your own sneeze stopper. Sketch it or describe it, then test it. How many spots got through?
 ### c2 · The Bandage Designer (30 min)
 - **problem:** A banana has a small 'cut' in its skin. Flour and a few drops of coloured water are the pretend germs. Design a cover that keeps them out. It must stay on when the banana is turned over, and be easy to take off.
-- **your turn:** Now invent your own bandage. Draw it, test it, and say how it is like the skin wall it replaces.
+- **your turn:** Now invent your own bandage. Make it, test it, and say how it is like the skin wall it replaces.
 - **constraints:** Use only things from home, like cloth, paper, cling film, cotton and tape.; The cover must stay on when you turn the banana over.; Test each cover the same way.
 - **general:** A plaster: a soft pad over the cut, sticky tape round the edges.; A clean cloth tied round, like a bandage.; First wash the cut, then cover it.
 - **creative:** Try a washed banana leaf or betel leaf as a cover. Does it keep out the flour and the water?; Make a cover with a soft middle and a waterproof top.; The Sushruta Samhita, an old Indian book on surgery, describes cleaning wounds and binding them with clean cloth. Try a design like that.
@@ -608,7 +608,7 @@ But the evening I remember best is not the evening of the prize. It is the eveni
 - **s3 (7 min)**  
   *Parent does:* Talk about which cover worked best and why, and how it is like real skin.  
   *Parent says:* Which cover kept the cut cleanest? How is it like skin? What would make it better?  
-  *Child mode:* Which cover worked best? How is it like your skin? How could you make it better?
+  *Child mode:* Line up your covers from best to worst.
 
 ## Worksheets
 ### Body Defenders (core) (core, 15 questions)

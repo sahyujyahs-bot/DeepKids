@@ -727,7 +727,7 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Lay the three mats on the floor: SPRING BACK, STAY and SNAP. 2. Shuffle the 24 cards and put them face down in a pile. 3. Put the spring tokens in a bowl.",
-     "say": "Here are three mats. Spring back, stay changed and snap. Before we start, can you think of one thing for each mat? Why does it belong there?",
+     "say": "Here are three mats. Spring back, stay changed and snap.",
      "kid": "Put the three mats on the floor. Spring back, stay, and snap. Mix up the cards. Put them face down. For each card, pick a mat.",
      "context": "This is the first step of the card game Spring Back, Stay or Snap. It is a game about which things are elastic. Here you set up the game.",
      "ask": [
@@ -745,8 +745,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Find the card 'Pen spring, pulled very hard'. Play it together as a practice round.",
-     "say": "Let's practise with a tricky one. A pen spring, pulled very hard. Does it spring back, stay, or snap?",
-     "kid": "Practice card: a pen spring, pulled very hard. Spring back, stay or snap? Say your answer.",
+     "say": "Let's practise with a tricky one. A pen spring, pulled very hard.",
+     "kid": "Practice card: a pen spring, pulled very hard. Think about what happens to it.",
      "ask": [
       {
        "q": "Why does a spring pulled very hard stay long?",
@@ -911,7 +911,7 @@
      "think": "When you crouch before a jump, your legs are like springs. Where in your body are the springs?"
     }
    ],
-   "context": "This is an acting game. Each child is a spring. They stretch when the caller pulls, squash when the caller pushes, and spring back home on 'Let go!'."
+   "context": "This is an acting game. You will feel how a spring stretches, squashes and springs back. Each child is a spring. They stretch when the caller pulls, squash when the caller pushes, and spring back home on 'Let go!'."
   }
  ],
  "worksheets": [
@@ -1746,7 +1746,7 @@
      "mins": 3,
      "do": "1. Ask your child for a guess and a reason. 2. Write both at the top of the table. 3. Don't say whether it is right.",
      "say": "Before we add anything, guess. Every time we add 5 coins, will the band grow by the same amount? By more and more? Or by less and less? Why do you think so?",
-     "kid": "Guess first. Will each 5 coins add the same stretch? More each time? Less each time? Say why.",
+     "kid": "Make your guess before you add any coins. Tell your grown-up why.",
      "ask": [
       {
        "q": "What do you think will happen, and why?",
@@ -1816,7 +1816,7 @@
      "mins": 3,
      "do": "1. Ask your child to look only at the last column. 2. Ask what they notice before you say anything.",
      "say": "Look at the last column, the steps. What do you notice about them? Was your guess right? What do you think is going on?",
-     "kid": "Look at your steps, in the last column. What do you notice? Was your guess right?",
+     "kid": "Look at the last column of your table. Compare it with your guess.",
      "ask": [
       {
        "q": "What do you notice about the steps?",
@@ -1865,7 +1865,7 @@
      "adult": true,
      "do": "1. Unscrew an old clicky pen and take out the spring. 2. Lay it along the ruler and measure it. 3. Ask for a guess and a reason.",
      "say": "Now a spring. We'll pull it a little further each time and let go. Will it always come back to this length? If not, when will it stop? Why do you think so?",
-     "kid": "Ask a grown-up for the spring from a pen. Measure it. Will it always come back? Say why.",
+     "kid": "Ask a grown-up for the spring from a pen. Lay it beside the ruler and read its length.",
      "ask": [
       {
        "q": "Will the spring always come back? Why do you think so?",
@@ -2017,7 +2017,7 @@
      "mins": 3,
      "do": "1. Show your child the 10 cm and 15 cm marks on the ruler. 2. Ask for a guess and a reason. 3. Write both down.",
      "say": "First we'll pull the band back to the 10 cm mark. Then to the 15 cm mark. Which will fly further? Why do you think so?",
-     "kid": "Guess first. Pulled to 10 cm, or pulled to 15 cm. Which flies further? Say why.",
+     "kid": "Look at the 10 cm and 15 cm marks on the ruler. Make your guess, then tell why.",
      "ask": [
       {
        "q": "What do you think will happen, and why?",
@@ -2076,7 +2076,7 @@
      "parent": "This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: stretching a band more makes it fly further. What I saw: pulled to 10 cm, it went about 150 cm. Pulled to 15 cm, it went about 350 cm. Why: the more you stretch it, the more energy it stores, and it gives that energy back when it springs."
     }
    ],
-   "context": "In this experiment you hook a rubber band over the 0 end of a ruler. You pull it back a little or a lot, let go, and measure how far it flies along the floor.",
+   "context": "In this experiment you find out whether pulling a rubber band back further makes it fly further. You hook the band over the 0 end of a ruler, pull it back a little or a lot, let go, and measure how far it flies along the floor.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how far the band flew",
@@ -2144,7 +2144,7 @@
      "what": "Measure, stretch and measure again: four things."
     }
    ],
-   "record": "Fill in the table. Circle the things that sprang back. Draw the plastic strip before you pulled it, and after it tore.",
+   "record": "Fill in the table. Circle the things that sprang back. Take a photo of the plastic strip before you pull it and after it tears, or tell a grown-up how the middle of the strip changed.",
    "setup": [
     {
      "art": "Four things in a row on a table with a ruler: a rubber band, a plastic strip, a rope of dough and a stick of spaghetti.",
@@ -2285,7 +2285,7 @@
      "what": "Drop each ball from 1 metre 3 times and measure the bounce. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart, with one bar for each ball's middle value.",
+   "record": "Fill in the table. Then draw a bar chart with one bar for each ball's middle value, or line the balls up from lowest to highest bounce.",
    "setup": [
     {
      "art": "A paper strip marked every 10 cm taped to a wall from the floor up to 1 metre, with balls lined up on the floor below.",
@@ -2351,9 +2351,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Help your child draw a bar chart of the middle values.",
+     "do": "Help your child draw a bar chart of the middle values, or line the balls up from lowest to highest bounce.",
      "say": "Let's draw one bar for each ball. A taller bar means a higher bounce.",
-     "kid": "Draw one bar for each ball. Make it as tall as its middle bounce. Which ball is best?",
+     "kid": "Draw one bar for each ball, as tall as its middle bounce. Or line the balls up from lowest to highest. Which ball is best?",
      "how": "e4",
      "chart": {
       "type": "bar",
@@ -2484,7 +2484,7 @@
      "mins": 15,
      "do": "1. Hunt around the home. 2. Look at pens, clothes pegs, the stapler, the mattress and the sofa. 3. Look at hair bands, pyjama elastic, a cycle seat and a woven cot.",
      "say": "For each one, what is its job? Does it stretch, squash, bend or bounce? What would happen if it were not elastic?",
-     "kid": "For each find, say its job. Does it stretch, squash, bend or bounce? Write it down.",
+     "kid": "For each find, say its job. Does it stretch, squash, bend or bounce? Your grown-up can write it down.",
      "adult": true,
      "parent": "Good finds include the squash spring in a clicky pen and the twisty spring in a clothes peg. Look for stretch springs in a spring balance or a trampoline. The elastic in socks, a hair band and the springs in a cycle seat count too."
     },
@@ -2558,7 +2558,7 @@
      "mins": 3,
      "do": "Ask for two guesses, each with a reason, and write them down.",
      "say": "Now we'll join two bands in a chain and hang the same 20 coins. Will the chain stretch as much as one band, twice as much, or half as much? Why? And what about two bands side by side?",
-     "kid": "Guess. Two bands in a chain: same stretch, twice, or half? Two side by side? Say why.",
+     "kid": "Guess for the chain, then for the bands side by side. Tell why.",
      "ask": [
       {
        "q": "What will each one do, and why?",
@@ -2625,7 +2625,7 @@
      "what": "Feel your tendons, skin and pulse working like springs."
     }
    ],
-   "record": "Draw yourself jumping. Mark three springy parts of your body.",
+   "record": "Point to three springy parts of your body and tell your grown-up what each one does when you jump.",
    "setup": [
     {
      "art": "A child jumping with stiff straight legs beside a child jumping with bent, bouncy legs.",
@@ -2694,7 +2694,7 @@
      "parent": "After their guess, explain the link to springs. In the flea's leg there is a small pad of a rubbery stuff called resilin. It works like a spring. The flea's muscles squash the pad slowly and lock it, so the pad stores energy, just as a stretched spring does. Then the flea lets go, and the pad springs back all at once. That quick release throws the flea into the air, faster than a muscle could move on its own. The answer to look for: the flea stores energy slowly in a springy pad and releases it all at once, like a catapult."
     }
    ],
-   "context": "In this activity you find the springs in your own body: your tendons, your skin and the blood vessel that beats in your wrist."
+   "context": "In this activity you find out how your own body uses springs. You look at your tendons, your skin and the blood vessel that beats in your wrist."
   },
   {
    "id": "a4",
@@ -2802,7 +2802,7 @@
      "mins": 6,
      "do": "1. Ask your child why the far dot moved most, and wait for an answer. 2. Then talk about the real universe.",
      "say": "No one pushed any dot. So why did dot E end up furthest away? Take your time. Astronomers see far galaxies moving away from us faster than near ones. What do you think is stretching?",
-     "kid": "No one pushed any dot. So why did dot E move furthest? Think, then tell someone.",
+     "kid": "Think about it, then tell your grown-up your idea.",
      "check": {
       "t": "mcq",
       "q": "On the stretched strip, which dot moved furthest from dot A?",
@@ -2943,7 +2943,7 @@
      "what": "Bend a green and a dry twig. Then bend a ruler until it slips, to feel a tiny copy of an earthquake."
     }
    ],
-   "record": "Draw the green twig and the dry twig after bending. Write which one sprang back.",
+   "record": "Say which twig sprang back and which one snapped. Take a photo of both twigs after bending, or draw them.",
    "setup": [
     {
      "art": "Two hands bending a green twig into a curve, and beside it a dry twig snapping.",
@@ -3060,7 +3060,7 @@
      "what": "Improve the car and hold a race."
     }
    ],
-   "record": "Write how far the car went with 5, 10 and 15 winds. Draw your car and label where the energy is stored.",
+   "record": "Write how far the car went with 5, 10 and 15 winds. Point to the part of your car where the energy is stored and tell a grown-up why.",
    "setup": [
     {
      "art": "A plastic bottle lying on its side with two straws taped across its underside, a skewer through each straw, and bottle caps pushed on the ends as wheels.",
@@ -3196,7 +3196,7 @@
     "Use two rubber bands at the front to make a stiffer spring.",
     "Mark lines on the arm and test how far each pull-back fires. Then you can aim like a scientist, not by guessing."
    ],
-   "your_turn": "Now invent your own design. Draw it, build it, and test it. Can you hit the bowl 3 times in a row?",
+   "your_turn": "Now invent your own design. Build it and test it. Can you hit the bowl 3 times in a row?",
    "setup": [
     {
      "art": "A stack of six ice-cream sticks tied with rubber bands at both ends.",
@@ -3229,7 +3229,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Press the arm down a little and fire. 2. Then press it down a lot. 3. Measure how far each one goes.",
-     "say": "Small press, big press. Which do you think will go further? Why? Let's measure both.",
+     "say": "First a small press, then a big press. Let's measure both.",
      "kid": "Press the arm down a little. Fire. Now press a lot. Fire. Measure both.",
      "check": {
       "t": "mcq",
@@ -3321,7 +3321,7 @@
      "id": "s2",
      "mins": 10,
      "do": "1. Drop the doll and watch its lowest point. 2. Measure from the table top to the doll's head at its lowest point. 3. Repeat with 3 and 4 bands. 4. Write the results in a table.",
-     "say": "Watch the lowest point, not where it ends up. How much further did each extra band let it fall?",
+     "say": "Watch the lowest point, not where it ends up.",
      "kid": "Drop the doll. Watch its lowest point. Measure it. Now try 3 bands, then 4. Write them down.",
      "parent": "A phone video helps you see the lowest point. Each extra band usually adds about the same extra distance.",
      "chart": {

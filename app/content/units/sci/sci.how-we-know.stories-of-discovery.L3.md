@@ -254,12 +254,12 @@ No bonus point on this card.)
 - **Printable score sheet: Score sheet:** Player name; Right sort (1 point); Named who did the work (1 point); Named someone left out (1 bonus point); Total
 - **s1 (2 min)**  
   *Parent does:* Lay out the three sorting cards and shuffle the discovery cards.  
-  *Parent says:* Some discoveries begin with an accident, some with a mistake, and some with a careful plan. Let's sort them.  
+  *Parent says:* Some discoveries begin with an accident, where nobody planned anything. Some begin with a mistake, where you tried for one thing and got another. Some begin with a careful plan. Let's sort them.  
   *Child mode:* Put out the three cards: Accident, Mistake, Plan. Mix up the discovery cards. You will sort them.
 - **s2 (2 min)**  
   *Parent does:* Play the Spencer Silver card together as a practice round. Put it back in the pile afterwards.  
-  *Parent says:* Practice card. Spencer Silver tries to make a strong glue and makes a weak one. Accident, mistake or plan?  
-  *Child mode:* Practice card. Spencer Silver wants strong glue and makes weak glue. Accident, mistake or plan?
+  *Parent says:* Practice card. Spencer Silver wanted a strong glue and made a weak one. Let's sort it together.  
+  *Child mode:* Read the Spencer Silver card. Think about what he wanted and what he got.
   - Check: Spencer Silver tried to make a strong glue and made a weak one. Which pile does this card go in? → **Mistake**
 - **s3 (9 min)**  
   *Parent does:* Take turns reading, sorting and naming people. Keep score.  
@@ -268,8 +268,8 @@ No bonus point on this card.)
   - Note: Some cards are arguable. Art Fry used an old mistake on purpose. Jocelyn Bell's find was lucky, but she found it by careful checking. If your child argues for a different pile with a good reason, give the point.
 - **s4 (2 min)**  
   *Parent does:* Count the cards in each pile.  
-  *Parent says:* Look at the three piles. Were there more accidents, mistakes or plans? Did even the accidents need careful work afterwards?  
-  *Child mode:* Count each pile. Which pile is biggest? Did the accidents need careful work too?
+  *Parent says:* Let's see how many of each kind we sorted.  
+  *Child mode:* Count each pile. Which pile is biggest?
   - Ask: Did any accident become a discovery without careful work afterwards? (good: No. Each one had to be checked and tested.; Fleming had to grow the mould again, and the Oxford team had to test penicillin.)
 ### g2 · Build the Team (20 min)
 - **rules:** Shuffle the 36 job cards. Deal 6 to each player. Put the rest face down in a pile. Turn the top card face up beside the pile to start a discard pile.; On your turn, take the top card of the pile or the top card of the discard pile. Then put one card from your hand face up on the discard pile. You always keep 6 cards.; If the pile runs out, leave the top card of the discard pile where it is. Turn the rest of the discard pile over and shuffle it to make a new pile.; When you hold one card of each of the six jobs, put them down and shout 'Discovery!' You have made a discovery.; Make up a name for each job card and write it on a name slip, so your team has six people.; Now take the PRIZE card. You may name only 3 of your 6 people for the prize. Say who, and why.; The other players say whether they think your choice was fair, and why. You may change your mind and name more people, or refuse the prize and name all six. The game ends when you have decided.
@@ -282,13 +282,13 @@ No bonus point on this card.)
   *Child mode:* Read the six jobs. Noticer, checker, explainer, maker, writer, leader. Collect all six to make a discovery!
 - **s2 (12 min)**  
   *Parent does:* Play until someone has all six jobs.  
-  *Parent says:* Take a card from the pile or the discard pile, then put one down. Which job are you still missing?  
+  *Parent says:* Take a card from either pile, then put one down.  
   *Child mode:* Take a card. Put one down. You always keep 6. Which job do you still need?
-  - Check: In the pulsar story, which job did Jocelyn Bell do first? → **Noticer**
+  - Check: Jocelyn Bell saw a strange mark on her chart. Which job was that? → **Noticer**
 - **s3 (5 min)**  
   *Parent does:* The winner makes up names for the six people, then picks only three for the prize. Everyone talks about whether it is fair.  
-  *Parent says:* You may name only three people for the prize. Who do you leave out? How do you think they will feel?  
-  *Child mode:* Write a name for each of your six team members. Now pick only three for the prize. Who do you leave out? Is that fair?
+  *Parent says:* Only three people can get the prize. Who do you leave out? Is that fair? How do you think they will feel?  
+  *Child mode:* Make up a name for each of your six team members. Then pick three for the prize.
   - Note: There is no right answer. Listen for reasons: 'The noticer, because without her there is no discovery,' or 'The leader, because she planned it all.' Some children refuse the prize, which is a fine answer too. One fairer way is to name the whole team, or to give the prize to the team and not to three people.
   - Think: Is there a fairer prize than one that names only three people?
 
@@ -312,7 +312,7 @@ No bonus point on this card.)
 - **s3 (5 min)**  
   *Parent does:* 1. Leave strip A as it is. 2. Press strip B onto the cotton cloth and lift it off, 3 times. 3. Do the same with strip C 8 times, and strip D 15 times. 4. Use a new part of the cloth each time.  
   *Parent says:* Look at the sticky side after dabbing. Can you see tiny threads stuck on it? Each dab covers a bit more of the glue.  
-  *Child mode:* Leave strip A alone. Press strip B on the cloth and lift it. Do it 3 times. Do strip C 8 times. Do strip D 15 times. Look at the sticky side. What do you see?
+  *Child mode:* Leave strip A alone. Press strip B on the cloth and lift it. Do it 3 times. Do strip C 8 times. Do strip D 15 times. Look closely at the sticky side.
   - Ask: What is stuck on the tape after dabbing? (good: Tiny threads from the cloth.; Fluff, cotton fibres.)
 - **s4 (3 min)**  
   *Parent does:* 1. Draw the results table in a notebook. 2. Ask for a guess and a reason for each strip, and write the guesses beside the table.  
@@ -321,7 +321,7 @@ No bonus point on this card.)
   - Note: Wait for a reason as well as a guess. A common guess is 'A is best at everything, because it is the stickiest.' Don't correct it. The test will answer it.
 - **s5 (4 min)**  
   *Parent does:* 1. Lay the newspaper flat. 2. Use each strip to tape one paper note onto the newspaper. The strip goes across the top edge of the note. 3. Rub each strip once with your thumb. 4. Lift the newspaper by one corner and shake it gently 3 times.  
-  *Parent says:* Every strip gets one thumb rub and the same three shakes. That keeps the test fair. Which notes stayed on?  
+  *Parent says:* Every strip gets one thumb rub and the same three shakes. That keeps the test fair.  
   *Child mode:* Tape one note onto the newspaper with each strip. Rub each strip once with your thumb. Lift the page by a corner. Shake it gently 3 times. Which notes stayed on?
   - Note: Strip A will almost always hold. Strip D often falls off. Write yes or no for each one in the table.
 - **s6 (4 min)**  
@@ -337,8 +337,8 @@ No bonus point on this card.)
   - Note: Strip A often sticks badly the second time, because torn paper fibres now cover its glue. A lightly dabbed strip, often B or C, may stick again several times. Results differ with the cloth and the tape, and that is fine. What matters is what your child saw.
 - **s8 (2 min)**  
   *Parent does:* Ask your child to read the table and say which strip is best for each job.  
-  *Parent says:* Which strip would you use to hold a poster up for a month? Which one for a note you want to move around a book? Was A the best at everything?  
-  *Child mode:* Look at your table. Which strip is best for a poster that must not fall? Which is best for a note you can move? Was A best at everything?
+  *Parent says:* Which strip would you use to hold a poster up for a month? Which one for a note you want to move around a book?  
+  *Child mode:* Look at your table. Point to the best strip for each job.
   - Ask: Was the strongest tape best at every job? (good: No. It held best, but it tore the paper.; The weak tape was better for moving a note around.)
   - Note: It was good at holding a note lightly, so that the note could be peeled off and stuck again without tearing the paper. That is the job of a sticky note.
   - Think: Spencer Silver's weak glue failed as aeroplane glue. Which job was it good at?
@@ -371,8 +371,8 @@ No bonus point on this card.)
   - Wait: Check every 15 minutes. It usually takes 1 to 2 hours for a skin of ice to form. You are only busy during the checks, about 30 minutes in all.
 - **s5 (4 min)**  
   *Parent does:* Read the table together and compare the result with the guess.  
-  *Parent says:* Which one got ice first? Was your guess right? Mpemba's result was real for his ice cream. Why do you think many tests since then got a different answer?  
-  *Child mode:* Which cup got ice first? Was your guess right? Many scientists got a different answer from Mpemba. Why might that be?
+  *Parent says:* Look at the table together. Mpemba's result was real for his ice cream, but many tests since then got a different answer.  
+  *Child mode:* Which cup got ice first? Was your guess right?
   - Ask: Why might different people get different answers in this test? (good: Different freezers and cups.; The hot water loses some water as steam.; It is hard to decide exactly when water has frozen.)
   - Check: Mpemba's teacher said he was confused. What was the best thing to do about his result? → **Test it again, fairly, and see**
 - **s6 (3 min)**  
@@ -392,13 +392,13 @@ No bonus point on this card.)
   *Child mode:* Today the family makes panakam together. Everyone gets one job. What is your job?
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* 1. Stir the jaggery into the water until it dissolves. 2. Add the lemon juice, ginger and cardamom. 3. Strain it into tumblers.  
-  *Parent says:* Taste it. Is it good? Now, which job mattered most?  
+  *Parent says:* Taste it. Is it good?  
   *Child mode:* Stir in the jaggery until it disappears. Add lemon, ginger and cardamom. Strain it. Taste it!
   - Note: Cut the lemon yourself. If only two of you are at home, each person does two or three jobs.
 - **s3 (4 min)**  
-  *Parent does:* Ask your child to write a one-line news report about the panakam, with room for only one name.  
-  *Parent says:* Suppose a newspaper writes one line about our panakam, and it has room for only one name. Whose name should it be? Why?  
-  *Child mode:* A newspaper has room for one name only. Whose name goes in the report about the panakam? Why?
+  *Parent does:* Ask your child to say, or write, a one-line news report about the panakam, with room for only one name.  
+  *Parent says:* Suppose a newspaper writes one line about our panakam, and it has room for only one name. Whose name should it be?  
+  *Child mode:* Say your one-line report about the panakam. It has room for one name only. Whose name goes in it?
   - Ask: Is it fair to name only one person? (good: No, everyone did a part.; The panakam needed every job.)
 - **s4 (2 min)**  
   *Parent does:* Now write a credit list, like the end of a film, naming every job and who did it.  
@@ -422,19 +422,19 @@ No bonus point on this card.)
 - **s3 (4 min)**  
   *Parent does:* Talk about how to tell a real signal from the random wiggles around it.  
   *Parent says:* Bell Burnell's mark kept coming back from the same part of the sky, about four minutes earlier each day, just as the stars do. That is how she knew it was real. How did you know your pattern was real?  
-  *Child mode:* How did you know your shape was the real signal? Bell Burnell's mark came back again and again. That told her it was real.
+  *Child mode:* Tell your grown-up how you knew your shape was the real signal.
   - Check: Bell Burnell saw a strange mark on her chart. What showed it was a real signal from space? → **It came back, keeping time with the stars**
 ### a3 · Ask a Grown-up: a Happy Accident (15 min)
-- **record:** Write down the answers, then draw the story in four boxes: the plan, the accident, the surprise, and what happened next.
+- **record:** Write down the answers, then tell or draw the story in four parts: the plan, the accident, the surprise, and what happened next.
 - **s1 (8 min)**  
   *Parent does:* Help your child ask these questions: What were you trying to do? What went wrong? What surprised you? Did you ever do it that way again on purpose?  
   *Parent says:* Scientists are not the only ones who find things by accident. Let's ask a grown-up about a mistake that turned out well.  
   *Child mode:* Ask a grown-up these questions. What were you trying to do? What went wrong? What surprised you? Did you do it again on purpose?
   - Note: Kitchen stories work well: an idli or dhokla batter left out too long, a fish curry with the wrong spice that the family now loves, a plant that grew from a thrown-away seed.
 - **s2 (7 min)**  
-  *Parent does:* Draw the story in four boxes: the plan, the accident, the surprise, what happened next.  
-  *Parent says:* Did they check it again, by doing it on purpose? That is the step that turns a lucky accident into something you know.  
-  *Child mode:* Draw four boxes. The plan. The accident. The surprise. What happened next.
+  *Parent does:* Ask your child to tell the story in four parts, or draw it in four boxes: the plan, the accident, the surprise, what happened next.  
+  *Parent says:* Now tell the story back in four parts, like a short film. Was there a part where they tried it again on purpose?  
+  *Child mode:* Tell the story in four parts, or draw four boxes. The plan. The accident. The surprise. What happened next.
   - Ask: What turned the accident into something the family knows? (good: They did it again on purpose.; They checked it worked again.)
 ### a4 · The Penicillin Credit Roll (15 min)
 - **record:** The finished credit roll, with every name and job.
@@ -445,7 +445,7 @@ No bonus point on this card.)
   - Note: You can add Margaret Jennings, who did key experiments in Oxford, Ethel Florey, who ran early tests on patients, and the factory workers in many countries who made penicillin in huge amounts.
 - **s2 (5 min)**  
   *Parent does:* Roll the strip onto two pencils and scroll it. Then circle the names that won the 1945 Nobel Prize: Fleming, Florey and Chain.  
-  *Parent says:* Three names won the prize. How many names are on your roll? Who was left out?  
+  *Parent says:* Three names won the prize. How many names are on your roll?  
   *Child mode:* Scroll your credit roll. Circle Fleming, Florey and Chain. They won the prize in 1945. Who was left out?
   - Ask: Why might the prize name only three people? (good: A Nobel Prize can be shared by at most three people.; They led the work, or were most famous.)
 
@@ -471,15 +471,15 @@ No bonus point on this card.)
   - Wait: Day 4.
 - **s4 (20 min)**  
   *Parent does:* On day 5, try to make the chosen surprise happen again on purpose. Write down whether it did.  
-  *Parent says:* If it happens again when we try on purpose, it was not just luck. That is how an accident starts to become a discovery.  
-  *Child mode:* Try to make your surprise happen again. Did it happen? Write it down. Was it luck or a pattern?
+  *Parent says:* Let's try to make it happen again, on purpose.  
+  *Child mode:* Try to make your surprise happen again. Did it happen? Write it down.
   - Ask: Suppose your surprise happens again when you try on purpose. What does that tell you? (good: It wasn't just luck.; Something real is causing it.)
   - Wait: Day 5.
 
 ## Challenges
 ### c1 · The Bookmark That Stays (30 min)
 - **problem:** Design a bookmark that stays exactly on the right page when the book is turned upside down and shaken, and comes out without tearing or marking the page.
-- **your turn:** Now design your own bookmark. Draw it, make it, and test it with three upside-down shakes. Then check the page for tears and marks.
+- **your turn:** Now design your own bookmark. Try ideas with the materials or draw them, make it, and test it with three upside-down shakes. Then check the page for tears and marks.
 - **constraints:** Use only things from home.; The book must be shaken gently three times, upside down, and the bookmark must stay.; When you take it out, the page must have no tear and no mark.
 - **general:** A paper clip slid over the top of the page holds by squeezing, with no glue at all.; A corner bookmark: a small paper pocket that fits over the corner of the page.; A ribbon or thread fixed to the book's spine, like in many thick books.; Tape dabbed on a cloth until it holds lightly, like Silver's weak glue.
 - **creative:** A magnet bookmark: two small magnets in a folded card that clip onto the page from both sides.; A long strip of card folded in a V that grips the page by springing back.; A rubber band around the whole book, holding a plain slip of paper in place.
@@ -488,9 +488,9 @@ No bonus point on this card.)
   *Parent says:* In 1974, Art Fry sang in a church choir. His paper bookmarks kept falling out of his song book. He wanted one that would stay but not tear the pages.  
   *Child mode:* Put a plain bookmark in a book. Turn the book upside down. Shake it. What happens?
 - **s2 (15 min)**  
-  *Parent does:* Let your child draw two ideas, then make the one they like best.  
-  *Parent says:* What could hold the page without glue? Or with only a little glue? Draw two ideas first.  
-  *Child mode:* Draw two bookmark ideas. Which one will stay but not tear the page? Make your best one.
+  *Parent does:* Let your child try two ideas with the materials, or draw them, then make the one they like best.  
+  *Parent says:* What could hold the page without glue? Or with only a little glue? Try two ideas first.  
+  *Child mode:* Try two bookmark ideas with the materials, or draw them. Which one will stay but not tear the page? Make your best one.
   - Note: If your child is stuck, remind them of the Too-Weak Tape Test. The lightly dabbed tape held a note and came off clean.
 - **s3 (10 min)**  
   *Parent does:* Test it: three upside-down shakes, then take it out and check the page.  
@@ -508,9 +508,9 @@ No bonus point on this card.)
   *Parent says:* Thirty people helped. Some swept, some planted, someone brought tea for everyone. How do we thank them all fairly on one sheet?  
   *Child mode:* Thirty people cleaned the terrace garden. They did different jobs. List the jobs. How can one poster thank them all?
 - **s2 (12 min)**  
-  *Parent does:* Your child designs the poster. Use the names of people you know and make up the rest.  
+  *Parent does:* Your child designs the poster as a list, a table or a picture. Use the names of people you know and make up the rest.  
   *Parent says:* Does any name look more important than the others? Is that fair? Can a visitor see the jobs quickly?  
-  *Child mode:* Design your poster. Use names of people you know and make up the rest, 30 in all. Does any name look more important? Can you see the jobs fast?
+  *Child mode:* Design your poster as a list, a table or a picture. Use names of people you know and make up the rest, 30 in all.
   - Note: A good poster shows the jobs clearly and treats names equally. Some children decide the planner should be bigger. That is a real choice scientists argue about, so ask for a reason.
 - **s3 (3 min)**  
   *Parent does:* Show the poster to someone for 10 seconds and ask what jobs they saw.  

@@ -460,7 +460,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a board game like snakes and ladders. Food-safety habits are ladders, and risky habits are snakes.",
+   "context": "This is a board game like snakes and ladders. Food-safety habits are ladders, and risky habits are snakes. You will practise saying why each habit is safe or risky.",
    "printables": [
     {
      "kind": "board",
@@ -577,7 +577,7 @@
      "mins": 3,
      "do": "1. Print or draw the board. 2. Cut out the question cards and the tokens. 3. Choose tokens.",
      "say": "On this board, safe habits are ladders and risky habits are snakes. When you land on one, say why.",
-     "kid": "Safe habits are ladders. Risky habits are snakes. Say why when you land on one.",
+     "kid": "Pick your token and put it on square 1.",
      "context": "This is the first step of Safe Kitchen, a snakes and ladders game about food safety."
     },
     {
@@ -585,7 +585,7 @@
      "mins": 12,
      "do": "Play the game. On each snake or ladder, ask for the reason.",
      "say": "Why is that a snake? What would the safe habit be?",
-     "kid": "Why is it a snake? What should you do instead?",
+     "kid": "Roll and move. When you land on a snake or ladder, say why.",
      "check": {
       "t": "mcq",
       "q": "A player lands on square 24, where a wet spoon was put into the lime pickle. Why is that a snake?",
@@ -603,7 +603,7 @@
      "mins": 5,
      "do": "Talk about the game at the end.",
      "say": "Which snake happens most in our kitchen? Which ladder could we climb this week?",
-     "kid": "Which snake happens in our kitchen? Which ladder can we climb this week?",
+     "kid": "Pick one snake and one ladder that are about our kitchen.",
      "think": "Is there a habit in our home that would be a snake on this board?"
     }
    ],
@@ -627,7 +627,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a quick game. One player reads a food card, the others decide whether to keep the food or throw it, and say why.",
+   "context": "This is a quick game. One player reads a food card, the others decide whether to keep the food or throw it, and say why. You will practise telling safe food from unsafe food.",
    "printables": [
     {
      "kind": "cards",
@@ -714,16 +714,16 @@
      "id": "s1",
      "mins": 2,
      "do": "Hand out the KEEP and THROW cards. The first reader reads the front of the first food card.",
-     "say": "Listen. Would you keep this food or throw it away? Hold up your card, then tell me why.",
-     "kid": "Keep or throw? Hold up your card. Then say why.",
+     "say": "Here is the first food. Listen, then hold up your card.",
+     "kid": "Keep or throw? Give your reason.",
      "context": "This is the start of Keep or Throw?, a quick game about which foods are still safe."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "Read the cards one at a time. After each, ask for a reason, then read the back.",
-     "say": "What would the microbes do in this food? Is it wet, warm, old, open, dry, salty or cold?",
-     "kid": "Think about the microbes. Is the food wet? Warm? Old? Dry? Salty?",
+     "say": "What would the microbes do in this food? Why?",
+     "kid": "Look for clues in the card: wet, warm, old, open, dry, salty or cold.",
      "check": {
       "t": "mcq",
       "q": "A tin of food is bulging at the top. Should you keep it or throw it?",
@@ -741,7 +741,7 @@
      "mins": 2,
      "do": "Count the points.",
      "say": "Which card was hardest? Why?",
-     "kid": "Which card was hardest? Why?",
+     "kid": "Pick the card you found hardest and tell why.",
      "think": "Which food in our kitchen right now would you keep, and which would you throw?"
     }
    ],
@@ -829,8 +829,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Show your child the three empty dabbas. 2. Explain what will go in each. 3. Ask for a guess and a reason, and write it down.",
-     "say": "All three get the same boiled dal water. A gets a lid. B stays open. C gets a lid, but first an unwashed coriander leaf goes in. Which will go sour first? Why?",
-     "kid": "Three dabbas, the same dal water. A is closed. B is open. C is closed with an unwashed leaf. Which goes sour first? Why?",
+     "say": "All three get the same boiled dal water. A gets a lid. B stays open. C gets a lid, but first an unwashed coriander leaf goes in.",
+     "kid": "Look at the three dabbas. Think about what will happen to each one.",
      "ask": [
       {
        "q": "Which dabba do you think will stay fresh longest, and why?",
@@ -883,7 +883,7 @@
      "mins": 5,
      "do": "1. Morning and evening, lift each lid and look at the top. 2. Waft the smell towards your nose. 3. Fill in the table.",
      "say": "Look for bubbles, froth, a skin on top or fuzz. Then waft the smell with your hand. Fresh, a little sour, or very sour?",
-     "kid": "Look at the top. Bubbles? Froth? A skin? Fuzz? Waft the smell. Write it down.",
+     "kid": "Look at the top of each dabba and waft its smell. Write what you see in the table.",
      "parent": "In a warm room, dabba C usually smells sour first, often by the next morning, with bubbles on top. B often follows by the evening of day 2, sometimes with a thin skin. A stays fresh longest. In a cool room, everything takes a day or two longer, so keep looking.",
      "wait": "Day 2, morning and evening: look and smell."
     },
@@ -892,7 +892,7 @@
      "mins": 5,
      "do": "1. Look and smell on day 3. 2. Write the order in which they spoiled. 3. Ask your child to say what they think, what they saw, and why.",
      "say": "Which went sour first? Which stayed fresh longest? What do you think made the difference?",
-     "kid": "Which went sour first? Which stayed fresh longest? Why do you think so?",
+     "kid": "Look and smell again. Write 1st, 2nd or 3rd in the last column.",
      "ask": [
       {
        "q": "Why do you think C spoiled first, if it did?",
@@ -934,7 +934,7 @@
      "parent": "Any cooked, wet food left uncovered is like dabba B, for example dal, rice or cut fruit on the counter. Flies and dust can land on it, and microbes can multiply in it."
     }
    ],
-   "context": "In this experiment you boil dal water and keep it in three dabbas: closed, open, and closed with an unwashed leaf. Over two days you look and smell to see which spoils first.",
+   "context": "In this experiment you boil dal water and keep it in three dabbas: closed, open, and closed with an unwashed leaf. You will find out whether a lid, or a dirty leaf, changes how fast food goes sour. Over three days you look and smell to see which spoils first.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results from one family in Chennai in April",
@@ -1030,14 +1030,14 @@
      "what": "Wash the coriander again and again, pouring off the water each time, and count the washes until it is clear."
     }
    ],
-   "record": "Fill in the table. Then draw a row of glasses, one for each wash, coloured from brown to clear.",
+   "record": "Fill in the table. Then show how the water changed: draw a row of glasses coloured from brown to clear, or take a photo of the water after each wash.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Show your child the coriander bunch, and the soil on its roots. 2. Ask for a guess and a reason.",
-     "say": "Soil carries many microbes. How many washes will it take to get the soil off this coriander? Why do you think so?",
-     "kid": "Look at the roots. See the soil? How many washes until the water is clear? Why?",
+     "say": "Soil carries many microbes, so we wash it off. Let's guess how many washes this coriander needs, and why.",
+     "kid": "Look at the roots. See the soil? Guess how many washes.",
      "context": "This is the first step of How Many Washes. You wash coriander again and again, and count the washes until the water stays clear."
     },
     {
@@ -1052,7 +1052,7 @@
      "mins": 4,
      "do": "1. Lift the coriander out and hold it over a plate. 2. Pour a little of the water into the white bowl or glass. 3. Write its colour and the bits you see.",
      "say": "Lift the leaves out first, so the soil stays behind. What colour is the water? What is at the bottom?",
-     "kid": "Lift the leaves out. Pour some water into the white bowl. What colour is it?",
+     "kid": "Lift the leaves out. Pour some water into the white bowl and look. Write the colour in the table.",
      "parent": "Lift the leaves out before pouring, or the soil settles back onto them."
     },
     {
@@ -1067,8 +1067,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask your child to say what they found, and why it matters.",
-     "say": "The water got clear. Do you think every microbe is gone now? Why, or why not?",
-     "kid": "The water is clear. Are all the microbes gone? Why or why not?",
+     "say": "The water is clear now. What does that tell us?",
+     "kid": "Think about what your eyes can see, and what they cannot.",
      "ask": [
       {
        "q": "Is clear water proof that the coriander has no microbes left?",
@@ -1091,7 +1091,7 @@
      }
     }
    ],
-   "context": "In this experiment you wash coriander again and again and count how many washes it takes until the water stays clear.",
+   "context": "In this experiment you wash coriander again and again and count how many washes it takes until the water stays clear. You will find out if clear water means the coriander has no microbes left.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: how brown the water was after each wash (5 is very brown, 0 is clear)",
@@ -1179,14 +1179,14 @@
      "what": "Dust a steel plate with turmeric. Drop a wet cucumber slice and a dry biscuit for 1 second and for 10 seconds, and compare."
     }
    ],
-   "record": "Fill in the table. Draw each food after the test, colouring the yellow parts.",
+   "record": "Fill in the table. Then line the four foods up from least yellow to most yellow, and take a photo.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Tell your child about the five-second rule. 2. Ask for a guess and a reason.",
      "say": "Some people say dropped food is fine if you pick it up within five seconds. Turmeric will be our pretend dirt. What do you think will happen?",
-     "kid": "Some people say dropped food is safe if picked up fast. Is that true? Guess first.",
+     "kid": "Make a guess first. Then say why you think so.",
      "context": "This is the first step of the Five-Second Test. Turmeric on a plate is pretend dirt, and you drop foods on it to see what they pick up."
     },
     {
@@ -1218,7 +1218,7 @@
      "mins": 3,
      "do": "Compare all four foods. Ask what your child thinks, what they saw, and why.",
      "say": "Which food picked up the most? Was 1 second enough to pick up some?",
-     "kid": "Which picked up the most? Was 1 second safe?",
+     "kid": "Look at all four foods. Line them up from least yellow to most yellow.",
      "ask": [
       {
        "q": "Why do you think the wet cucumber picked up more?",
@@ -1243,7 +1243,7 @@
      "parent": "Floors that are wet, or that many feet walk over, hold the most, such as near the door, the bathroom or the dustbin. Microbes need water, and feet carry them in."
     }
    ],
-   "context": "In this experiment you test the five-second rule, using turmeric on a steel plate as pretend dirt.",
+   "context": "In this experiment you test the five-second rule, using turmeric on a steel plate as pretend dirt. You will find out if food picks up dirt in one second, and if wet food picks up more than dry.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results from one Five-Second Test",
@@ -1370,12 +1370,12 @@
      "what": "Shine a torch low across each plate and compare the specks."
     }
    ],
-   "record": "Draw both plates and the specks you see on each. Write which had more.",
+   "record": "Count the specks on each plate and write both numbers. Write which had more. Take a photo of each plate, or draw the specks.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Wipe both plates clean and dry. 2. Put them on the counter, near the window if you can. 3. Cover one with a bowl.",
+     "do": "1. Wipe both plates clean and dry. 2. Put them on the counter, near the window if you can. 3. Cover one with a bowl. 4. Leave both overnight.",
      "say": "These two plates are like two plates of food. One is covered and one is open. What will land on them tonight?",
      "kid": "Two clean plates. Cover one. Leave one open. What will land on them?",
      "context": "This activity shows what lands on food left open overnight. You leave two clean plates out, one covered."
@@ -1408,7 +1408,7 @@
      }
     }
    ],
-   "context": "This activity shows what lands on food left uncovered overnight, using two clean plates and a torch.",
+   "context": "This activity shows what lands on food left uncovered overnight, using two clean plates and a torch. You will find out why we cover food.",
    "setup": [
     {
      "art": "Two dark steel plates on a kitchen counter at night, one under an upturned steel bowl.",
@@ -1448,9 +1448,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Draw three circles. Label them: energy, building and repair, protecting.",
+     "do": "Draw three big circles on the paper. Label them: energy, building and repair, protecting.",
      "say": "Every food has a main job in your body. Some give energy, some build you, some keep you well.",
-     "kid": "Draw three circles. Energy. Building. Protecting.",
+     "kid": "Make three circles on the paper. Name them: energy, building, protecting.",
      "context": "This activity sorts the foods in one meal by their main job in your body."
     },
     {
@@ -1480,7 +1480,7 @@
      }
     }
    ],
-   "context": "This activity sorts the foods in one meal by their main job in the body.",
+   "context": "This activity sorts the foods in one meal by their main job in the body. You will find out what each food in your meal does for you.",
    "setup": [
     {
      "art": "A plate of rice, sambar, beans poriyal and curd beside a sheet with three circles.",
@@ -1537,13 +1537,13 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Compare the dates and work out how many days are left on each packet.",
+     "do": "Count the days from today's date to the date on each packet. Compare them.",
      "say": "Which food has the shortest time? Which has the longest? What is different about them?",
-     "kid": "Which food lasts the shortest time? Which lasts longest? Why?",
+     "kid": "Count the days left on each packet. Put the packets in a row, shortest time first.",
      "think": "Why does dry food get a much later date than milk?"
     }
    ],
-   "context": "This activity reads the dates and safety marks on food packets.",
+   "context": "This activity reads the dates and safety marks on food packets. You will find out how long each food is meant to stay good, and how to keep it.",
    "setup": [
     {
      "art": "A child holding a milk packet close, pointing to a small printed date.",
@@ -1574,7 +1574,7 @@
      "what": "Interview a grandparent or an older neighbour about how their family kept food safe without a fridge."
     }
    ],
-   "record": "Write or draw three ways they kept food. For each one, say how it works: washing, covering, cooking, keeping cold, or an old way such as drying, salt or sourness.",
+   "record": "Write down, or draw, three ways they kept food. For each one, say how it works: washing, covering, cooking, keeping cold, or an old way such as drying, salt or sourness.",
    "flow": [
     {
      "id": "s1",
@@ -1602,7 +1602,7 @@
      "think": "Which of these old ways do we still use?"
     }
    ],
-   "context": "This is an interview with an elder about how their family kept food safe before fridges.",
+   "context": "This is an interview with an elder about how their family kept food safe before fridges. You will find out what people did, and why it worked.",
    "setup": [
     {
      "art": "A girl on a phone call with an elder, a notebook open on her knee.",
@@ -1621,7 +1621,7 @@
    "days": 1,
    "materials": [
     {
-     "item": "paper and coloured pencils",
+     "item": "paper and coloured pencils, or a plate with dal grains and rice grains",
      "qty": 1
     }
    ],
@@ -1633,22 +1633,22 @@
      "what": "Draw what you think was happening inside the dabba that spoiled first in the Three Dabbas test."
     }
    ],
-   "record": "Your drawing, with labels for the microbes, the food they eat, and what they make.",
+   "record": "Your drawing or plate, with labels for the microbes, the food they eat, and what they make. A photo is fine.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "Remind your child of the Three Dabbas test.",
      "say": "In the Three Dabbas test, one dabba went sour first. We could not see the microbes in it. Let's draw what you think was going on inside.",
-     "kid": "In the Three Dabbas test, one dabba went sour first. Draw what was happening inside it.",
+     "kid": "Remember the dabba that went sour first. How did it look and smell?",
      "context": "This drawing activity follows the Three Dabbas test, where three dabbas of boiled dal water spoiled at different speeds."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Ask your child to draw a zoomed-in view of the dal water.",
-     "say": "Draw a big circle, as if you had a magic magnifying glass. Show the microbes, the food, and the bubbles they made.",
-     "kid": "Draw a big zoom circle. Show the microbes, the food, and the bubbles.",
+     "do": "Ask your child to show the zoomed-in dal water: draw it, or lay out dal and rice on a plate.",
+     "say": "Imagine a magic magnifying glass. Show the microbes, the food, and the bubbles they made.",
+     "kid": "Show microbes, food and bubbles. Draw a zoom circle, or use dal and rice.",
      "parent": "Good drawings show microbes landing, feeding, splitting into two, and making bubbles of gas. There is no wrong drawing. Ask what each part shows."
     },
     {
@@ -1768,7 +1768,7 @@
      "mins": 9,
      "do": "On days 2, 4 and 7, shake the jar and look. Write what you see.",
      "say": "Is there more juice? Are the skins softer? Is there any mould?",
-     "kid": "Shake the jar. More juice? Softer skins? Any mould?",
+     "kid": "Shake the jar. Look at the juice, the skins and the top.",
      "wait": "Days 2, 4 and 7: shake and look.",
      "parent": "The juice should cover most of the pieces by day 4. The skins slowly turn soft and darker over two to three weeks."
     },
@@ -1776,8 +1776,8 @@
      "id": "s5",
      "mins": 11,
      "do": "On day 14, take out one piece with a dry spoon and taste a little with rice and curd.",
-     "say": "Two weeks warm, no fridge, and no mould. What stopped the microbes?",
-     "kid": "Taste a little with curd rice. Why did no mould grow?",
+     "say": "Two weeks warm, no fridge, and no mould.",
+     "kid": "Taste a little with curd rice. How does it taste?",
      "wait": "Day 14: taste and explain.",
      "check": {
       "t": "mcq",
@@ -1793,7 +1793,7 @@
      "parent": "At 14 days the pieces are still firm, sharp and very salty. They turn soft and mellow after about three weeks. Taste only a small piece."
     }
    ],
-   "context": "In this two-week project you make a salt lemon pickle and watch it keep for weeks without a fridge.",
+   "context": "In this two-week project you make a salt lemon pickle and watch it keep for weeks without a fridge. You will find out why salt and sourness keep food safe.",
    "setup": [
     {
      "art": "Six washed lemons drying on a cloth, beside a dry glass jar and a bowl of salt.",
@@ -1844,14 +1844,14 @@
      "do": "Explain the problem.",
      "say": "Milk left out on a hot day can turn sour by the evening. What do microbes need? Which of those can we take away?",
      "kid": "No fridge. Hot day. How do you keep milk until morning?",
-     "context": "This is a design challenge. You plan how to keep milk safe overnight without a fridge."
+     "context": "This is a design challenge. You plan how to keep milk from going sour overnight without a fridge, then test your plan with one cup of milk."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Draw or write two plans.",
+     "do": "Make two plans. Draw them, write them, or say them out loud.",
      "say": "Use what you know: heat kills most microbes, a lid keeps new ones out, and cooler milk slows them.",
-     "kid": "Draw two plans. Use heat, a lid and cooling."
+     "kid": "Make two plans. Draw, write or tell them. Use heat, a lid and cooling."
     },
     {
      "id": "s3",
@@ -1916,21 +1916,21 @@
      "do": "Explain the problem. Measure how much water a normal wash uses.",
      "say": "Let's count how many tumblers of water we use to wash these vegetables the usual way.",
      "kid": "Count the tumblers of water we use now.",
-     "context": "This is a design challenge. You find a way to wash vegetables clean using less water."
+     "context": "This is a design challenge. You find a way to wash vegetables clean using less water, and count tumblers to see how much you saved."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Draw or write a plan that uses less water.",
+     "do": "Make a plan that uses less water. Write it, draw it, or say it out loud.",
      "say": "Which vegetables are muddiest? Which could share water? What could the used water do next?",
-     "kid": "Make a plan. Which vegetables can share water?"
+     "kid": "Make your plan with your grown-up. Write it, draw it, or say it."
     },
     {
      "id": "s3",
      "mins": 12,
      "do": "Try the plan. Count the tumblers. Check the last rinse is clear.",
      "say": "Count every tumbler. Rub each vegetable. Is the last rinse clear?",
-     "kid": "Try it. Count the tumblers. Is the last rinse clear?"
+     "kid": "Wash with your plan. Keep count of the tumblers."
     },
     {
      "id": "s4",

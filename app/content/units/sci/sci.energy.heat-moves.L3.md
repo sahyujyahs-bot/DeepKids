@@ -201,13 +201,13 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
   *Child mode:* You are heat in the sambar. Get to the cook's hand first.
 - **s2 (14 min)**  
   *Parent does:* Play the game. When someone takes a WOOD or AIR card, ask why it slows the heat.  
-  *Parent says:* Why does a wood card not move you at all?  
-  *Child mode:* Play. When you get a wood card, say why it stops you.
+  *Parent says:* Play, and follow each card you take.  
+  *Child mode:* Take turns. Follow each card you pick up.
   - Ask: Why does a wood card not move you? (good: Wood is an insulator.; Heat moves through wood very slowly.)
 - **s3 (3 min)**  
   *Parent does:* When the game ends, ask the winner to say how the cook could stop the heat.  
   *Parent says:* How could the cook keep the heat away from her hand?  
-  *Child mode:* How could the cook keep heat away from her hand?
+  *Child mode:* Think of one way the cook can keep her hand safe.
   - Check: Which handle would keep a cook's hand coolest on a hot pan? → **A wooden handle**
 
 ## Experiments
@@ -216,7 +216,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 - **predict:** Look at the four butter dots on the handle. Which will melt first, and which last? Will they melt close together or far apart in time? Will the top one melt at all? Why do you think so?
 - **fair test:** Every butter dot is the same size, about half a pea, with one peppercorn in it. The dots are 2, 4, 6 and 8 cm above the water. Only the distance changes. One more dot sits on a spoon on a plate, out of the water, to show what the room alone does to butter.
 - **safety:** A grown-up pours the hot water and lifts the ladle out with a cloth afterwards. The child does not touch the ladle while it is in the water.
-- **record:** Fill in the table. Then draw the ladle with the four dots and write the time beside each one.
+- **record:** Fill in the table. Then draw the ladle with the four dots and write the time beside each one, or tell your grown-up the order they fell.
 - **results table:** Dot | Height above the water (cm) | My guess: the order it falls in | Time it fell (minutes and seconds) | Time since the dot before fell
 - **s1 (4 min)**  
   *Parent does:* 1. Stand the empty ladle in the empty tumbler, leaning on the rim. 2. Mark where the top of the water will be, about two-thirds up the tumbler. 3. Measure up the handle from that line and mark 2, 4, 6 and 8 cm.  
@@ -225,14 +225,14 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
   - Note: Mark the steel with a marker, or stick a strip of paper beside the handle and mark that. Do not wrap tape round the handle at the dots, because tape slows the heat.
 - **s2 (5 min)**  
   *Parent does:* 1. Take the ladle out. 2. Put a dot of cold butter, about half a pea, on each mark, on the top side of the handle. 3. Press a peppercorn into each dot. 4. Put one more dot and peppercorn on the spare spoon on the plate.  
-  *Parent says:* Make every dot the same size. Why do you think that matters?  
+  *Parent says:* Make every dot the same size, about half a pea.  
   *Child mode:* Make four small butter dots, all the same size. Press a peppercorn into each one.
   - Ask: Why must the dots be the same size? (good: A big dot takes longer to melt, so it would not be fair.; So only the distance is different.)
   - Note: Work quickly, so the butter stays cold. In a hot room, do this test in the coolest part of the day. The spare dot on the plate shows whether the room alone melts the butter.
 - **s3 (3 min)**  
   *Parent does:* Ask your child to guess the order the peppercorns will fall, and how long each will take. Write the guesses in the table.  
   *Parent says:* Which peppercorn will fall first? Which last? Will they fall close together, or with long gaps? Will the top one fall at all? Why do you think so?  
-  *Child mode:* Guess which peppercorn falls first. Will the top one fall? Why?
+  *Child mode:* Guess which peppercorn falls first, and which falls last.
   - Ask: Why do you think that one will fall first? (good: It is nearest the hot water.; Any guess with a reason is fine now, even 'heat goes up'. The test will answer it.)
   - Note: Take any guess with a reason, and do not correct it. Some children say the top one, because 'heat rises'. The test will answer it.
 - **s4 (12 min) · grown-up needed**  
@@ -248,8 +248,8 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
   - Note: Your child may feel a faint warmth. The handle is giving some of its heat to the air. That is part of why the far dots get so little.
 - **s6 (2 min)**  
   *Parent does:* Look at the times together.  
-  *Parent says:* Look at your times together. Which dot fell first? Did each wait get longer than the one before? Why do you think so?  
-  *Child mode:* Look at your times. Which dot fell first? Did the waits get longer? Why?
+  *Parent says:* Look at your times together. Did each wait get longer than the one before? Why do you think so?  
+  *Child mode:* Look at your times. Did each wait get longer than the one before?
   - Note: The waits usually grow longer. For example, the first dot may fall after 1 minute. The next may fall 3 minutes later, and the next 5 minutes after that. Each part of the ladle has to warm up before it can pass heat on. So every part further along has to wait longer than the part before it.
   - Check: On a steel ladle in hot water, which peppercorn falls first? → **The one nearest the water**
 - **s7 (2 min)**  
@@ -262,7 +262,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 - **predict:** One spoon stands up in hot water. One lies flat, with its bowl in the water. Which butter dot will melt first? Why do you think so?
 - **fair test:** Use two spoons of the same kind. Put one butter dot of the same size on each, 3 cm along the handle from where the bowl of the spoon ends. Pour the water from the same kettle at the same time, until it just covers the bowl of each spoon. Only the direction of the spoon changes.
 - **safety:** A grown-up pours the hot water. Do not touch the spoons while they are in the water.
-- **record:** Fill in the table. Draw both spoons with arrows showing which way the heat moved.
+- **record:** Fill in the table. Draw both spoons with arrows showing which way the heat moved, or point and tell your grown-up.
 - **results table:** Spoon | Upright or flat | My guess | Time the peppercorn fell
 - **s1 (5 min)**  
   *Parent does:* 1. Stack books beside the shallow bowl, up to its rim. 2. Lay one spoon flat, with its bowl end inside the empty shallow bowl and its handle resting on the books. 3. Lean the other spoon in the tumbler, bowl end down. 4. On each handle, put a butter dot with a peppercorn 3 cm from where the bowl of the spoon ends.  
@@ -272,7 +272,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess and a reason. Write it down.  
   *Parent says:* Which peppercorn will fall first, the standing one or the flat one? Why do you think so?  
-  *Child mode:* Which falls first, standing or flat? Why?
+  *Child mode:* Guess which falls first, the standing spoon or the flat one.
   - Ask: Why do you think so? (good: Any guess with a reason is fine, such as 'the standing one, because heat goes up'.; Or 'the same, because heat goes from hot to cool'.)
 - **s3 (12 min) · grown-up needed**  
   *Parent does:* 1. A grown-up pours hot water into the tumbler and the bowl at the same time. 2. Pour just enough to cover the bowl of each spoon. 3. Start the timer, and write down when each peppercorn falls.  
@@ -282,13 +282,13 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 - **s4 (5 min)**  
   *Parent does:* Compare the times and talk about them.  
   *Parent says:* The flat spoon got hot along its handle too. So does heat in a spoon only go up?  
-  *Child mode:* The flat spoon warmed too. Does heat only go up?
+  *Child mode:* Look at both times. Did the dot on the flat spoon fall too?
   - Check: A steel spoon lies flat with its bowl in hot water. What happens to its handle? → **It warms, because heat moves from the hot end to the cool end**
 
 ## Activities
 ### a1 · The Spoon in the Tea: where does the warmth come from? (8 min)
 - **safety:** A grown-up makes the hot drink and touches the spoon handle first, to check it is only warm.
-- **record:** Draw the cup and the spoon. Colour the parts of the spoon you think are warm.
+- **record:** Point to the parts of the spoon you think are warm. Tell your grown-up how the warmth got there.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Stand one steel spoon in the hot drink. 2. Put the other spoon on the table. 3. Wait two minutes.  
   *Parent says:* One spoon goes in the tea. The other stays on the table. In two minutes, will their handles feel the same? Why do you think so?  
@@ -302,11 +302,11 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 - **s3 (2 min)**  
   *Parent does:* Write down your child's idea about how the handle got warm. Do not explain yet.  
   *Parent says:* Keep that idea. We will test it with a ladle and some butter.  
-  *Child mode:* How did the heat get up the spoon? Keep your idea. We will test it.
+  *Child mode:* Keep your idea about how the handle got warm. We will test it.
   - Note: Keep the explanation for after the Ladle Line test. Your child's own idea now makes the test more interesting.
 ### a2 · Who Melts the Ice? Your hand or the plate (10 min)
 - **safety:** Swap hands if the cold hurts. Hold the ice for 3 minutes at most.
-- **record:** Draw the two ice cubes after 3 minutes. Draw an arrow to show which way the heat moved.
+- **record:** Take a photo of the two ice cubes after 3 minutes. Then use your finger to show which way the heat moved, or draw an arrow.
 - **s1 (4 min)**  
   *Parent does:* 1. Put one ice cube on the plate. 2. Your child holds the other in a closed fist over the bowl. 3. Start a 3-minute timer.  
   *Parent says:* Which ice cube will melt faster, the one in your hand or the one on the plate? Why do you think so?  
@@ -321,21 +321,21 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
   *Parent says:* Your hand feels cold. Did cold go into your hand, or did heat go out of it?  
   *Child mode:* Did cold go into your hand? Or did heat go out?
   - Check: Why did the ice in your fist melt faster? → **Heat moved from your warm hand into the ice**
-### a3 · Draw the Heat Inside the Ladle (10 min)
-- **record:** Keep the drawing in your science notebook.
+### a3 · See the Heat Inside the Ladle (10 min)
+- **record:** Take a photo of your row of coins, or draw it in your science notebook.
 - **s1 (3 min)**  
-  *Parent does:* Ask your child to draw the ladle in hot water, with a big zoom-in circle over the handle.  
-  *Parent says:* Imagine you could zoom in on the steel, far closer than any magnifying glass. What would you see?  
-  *Child mode:* Draw the ladle. Draw a big circle to zoom in on the handle.
+  *Parent does:* Line up six coins in a row on the table, all touching. They are tiny pieces of the steel in the handle. The first is at the water, the last at the top.  
+  *Parent says:* Steel is made of tiny pieces called particles, far too small to see. These coins stand in for them. Which coin is nearest the hot water?  
+  *Child mode:* Count the coins. Point to the one nearest the water.
 - **s2 (5 min)**  
-  *Parent does:* Tell them the steel is made of tiny particles that shake more when they are hotter. Ask them to draw the particles near the water and near the top.  
-  *Parent says:* Steel is made of tiny particles. Hotter particles shake faster. Draw how they shake near the water, and near the top.  
-  *Child mode:* Draw tiny balls in the circle. Hot ones shake a lot. Cool ones shake a little.
+  *Parent does:* Tell them that hot water makes the particles next to it shake. Ask them to flick the spare coin at the first coin and watch the last one. A real particle shakes in place, but the idea is the same.  
+  *Parent says:* Hot water shakes the particles next to it. Flick the spare coin at the first coin. What happens at the other end?  
+  *Child mode:* Flick the spare coin at the first coin. Watch the last coin.
   - Note: A strong drawing shows the particles staying in their places, with bigger shake lines near the hot end, and smaller ones further up. Some children draw heat as a liquid running up. Ask: 'Did anything flow up the ladle?'
 - **s3 (2 min)**  
-  *Parent does:* Ask your child to explain their drawing.  
-  *Parent says:* Tell me about your drawing. How does the shaking get from the bottom to the top?  
-  *Child mode:* Explain your drawing. How does the shaking get to the top?
+  *Parent does:* Ask your child to explain what the coins did.  
+  *Parent says:* Tell me what you saw. What did the coins in the middle do?  
+  *Child mode:* Say what happened to the last coin.
   - Ask: How does the shaking get to the top? (good: Each particle bumps the next one.; It is passed on, one by one.)
 
 ## Projects
@@ -343,14 +343,14 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 ## Challenges
 ### c1 · A Cool Grip for a Hot Ladle (30 min)
 - **problem:** A steel ladle in hot sambar gets hot along its handle. Make a grip for the handle, from things at home, so that the outside of the grip stays cool.
-- **your turn:** Now design your own grip. Draw it, make it, and test it against a bare ladle. Which material worked best, and why?
+- **your turn:** Now design your own grip. Make it, and test it against a bare ladle. Which material worked best, and why?
 - **constraints:** Use only things from home.; The grip must come off again, so the ladle can be washed.; You test it the same way as the Ladle Line: a butter dot with a peppercorn on the outside of the grip, 4 cm above the water.
 - **general:** Wrap the handle in several layers of cloth or newspaper, held with rubber bands. The cloth and the air caught in it are insulators.; Pull a woollen sock over the handle and hold it with a rubber band.
 - **creative:** Wrap the handle loosely, so a layer of air is caught between the steel and the cloth.; Use a strip of cardboard folded into a tube that does not touch the steel all the way round.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. Look at the materials and draw two ideas for a grip.  
+  *Parent does:* Read the problem together. Look at the materials and pick two ideas for a grip.  
   *Parent says:* Which of these things let heat through slowly? How could we use them on the handle?  
-  *Child mode:* Which things let heat through slowly? Draw two ideas for a grip.
+  *Child mode:* Which things let heat through slowly? Pick two for your grip.
 - **s2 (8 min)**  
   *Parent does:* Make the grip. Put it on the handle so its bottom edge is about 2 cm above the water line.  
   *Parent says:* Make your grip. Leave a little bare steel between the water and the grip.  
@@ -382,7 +382,7 @@ That afternoon, the whole family ate payasam on banana leaves. Arjun said it was
 - **s3 (4 min)**  
   *Parent does:* Talk about why the winner won. Then read the creative ideas and try one.  
   *Parent says:* Which container softened its butter first? Why do you think it won?  
-  *Child mode:* Which container won? Why?
+  *Child mode:* Say which container won, and what it is made of.
 
 ## Worksheets
 ### Which Way Is the Heat Going? (core) (core, 15 questions)

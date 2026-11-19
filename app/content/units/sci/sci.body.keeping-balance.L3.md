@@ -457,7 +457,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - **s2 (7 min)**  
   *Parent does:* Pick one machine, for example the fridge or the iron. Give your child three sticky notes: NOTICES, DECIDES, ACTS. They stick each note on the part of the machine that does that job.  
   *Parent says:* Let's find the loop in the machine you picked. Which part notices that something is wrong? Which part decides? Which part acts? Your body does the same three jobs when you sweat.  
-  *Child mode:* Pick one machine. Stick the three notes on the part that notices, the part that decides and the part that acts.
+  *Child mode:* Pick one machine. Stick each note where that job happens.
   - Check: In your body's sweating loop, what is the 'decider', like the AC's control box? → **The hypothalamus, a small part of your brain**
 ### a4 · The Body Council (15 min)
 - **record:** Write down the best scene. Who noticed, who decided, who acted?

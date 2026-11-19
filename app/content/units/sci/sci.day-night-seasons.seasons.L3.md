@@ -223,21 +223,21 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards and the board. 2. Shuffle the cards.  
   *Parent says:* Each card is a clue about a season. Read it out, and we will guess the season.  
-  *Child mode:* Take a card. Read the clue. Others guess the season.
+  *Child mode:* Help cut out the cards. Then take one and keep the back hidden.
 - **s2 (2 min)**  
   *Parent does:* Play one practice card together.  
   *Parent says:* Practice card: frogs croak all night from the puddles. Which season? Why?  
-  *Child mode:* Frogs croak all night. Which season is it? Point to your answer.
+  *Child mode:* Read the practice card. Then point to a season on the board.
   - Check: Frogs croak all night from the puddles. Which season is it? → **Rainy season**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns to read cards. 2. Keep score. 3. Stop when the cards are done.  
   *Parent says:* Your turn. Read your clue. Can anyone say why it belongs to that season, for an extra point?  
-  *Child mode:* Read your clue. Guess. Say why for an extra point.
+  *Child mode:* Read your clue out loud. The others point to a season. Say why, for an extra point.
   - Note: Ask 'why' as often as you can. The reasons are the real learning: the frog needs water, the duck's lake has frozen, the strong sun dries the vadams.
 - **s4 (1 min)**  
   *Parent does:* Count the points.  
   *Parent says:* Which clue was hardest? Which one would be different in Chennai?  
-  *Child mode:* Which clue was hardest? Which is different in Chennai?
+  *Child mode:* Pick out the hardest card. Pick one that would be different in Chennai.
   - Note: Yes, some clues fit two seasons, because one season slides into the next. For example, new neem leaves and the first koel calls come at the end of the cool months and the start of summer. Accept any clue with a reason.
   - Think: Is there a clue that happens in two seasons?
 ### g2 · Ready for the Season: a matching game (20 min)
@@ -249,21 +249,21 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 30 cards. 2. Shuffle the problem cards and the answer cards. 3. Lay them in three rows, face up.  
   *Parent says:* Every living thing here has a problem that comes with a season. Can you find their problem, and what they do about it?  
-  *Child mode:* Lay out the cards in three rows. Match each living thing to a problem and an answer.
+  *Child mode:* Look along the three rows: living things, problems and answers.
 - **s2 (3 min)**  
   *Parent does:* Make the first set together, with the pintail duck.  
   *Parent says:* The pintail duck. Which problem is hers? And what does she do?  
-  *Child mode:* Find the pintail duck's problem and answer.
+  *Child mode:* Find the duck's problem card and answer card. Put the three cards in a line.
   - Check: A pintail duck's lake in Central Asia freezes in winter. What does she do? → **Flies thousands of kilometres to a warm lake in India**
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns to make sets. 2. Say each set as one sentence.  
   *Parent says:* Say each set as one sentence. For example: the neem tree's soil dries out, so she drops her leaves.  
-  *Child mode:* Make a set. Say it in one sentence: who they are, what their problem is, and what they do.
+  *Child mode:* Pick a living thing card. Find its problem card and its answer card.
   - Note: Every set starts with the living thing's own problem, then how their change helps them. Ask: which change happens in the body, and which is something they do?
 - **s4 (2 min)**  
   *Parent does:* Count the sets and talk.  
   *Parent says:* Which of these changes is a journey? Which is a change in the body? Which is something people decided together?  
-  *Child mode:* Which is a journey? Which is a body change? Which did people decide?
+  *Child mode:* Point to a set that is a journey. Point to a set that people decided together.
   - Think: Which set is most like something your family does?
 
 ## Experiments
@@ -282,7 +282,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s2 (4 min)**  
   *Parent does:* 1. Show both leaves. 2. Ask your child to guess what colours each will show on the strip, and why. 3. Write the guesses in the table.  
   *Parent says:* This leaf is green, and this one has gone yellow. When we let a liquid climb the strip, it can carry a leaf's colours up and spread them apart. What colours do you think each leaf will show? Why do you think so?  
-  *Child mode:* Look at both leaves. What colours will each show? Why do you think so?
+  *Child mode:* Look closely at both leaves. Then say what you think each one will show.
   - Ask: What colours do you think the green leaf will show? (good: Only green, because it looks green.; Maybe some other colour hiding, because leaves go yellow later.)
   - Note: Don't say what will happen. Most children guess 'only green' for the green leaf and 'only yellow' for the yellow one. Any guess with a reason is good.
 - **s3 (6 min)**  
@@ -298,20 +298,20 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s5 (15 min) · grown-up needed**  
   *Parent does:* 1. Watch the liquid climb the paper. 2. Every few minutes, look at the colours through the side of the tumbler. 3. After about 15 minutes, or when the liquid is 1 cm from the top, lift the strips out. 4. On each strip, mark with a pencil how high the liquid climbed. 5. Lay the strips on a plate to dry.  
   *Parent says:* Watch the line. What is happening to the green? Is any other colour moving away from it?  
-  *Child mode:* Watch the strip. Does the green move? Can you see another colour?
+  *Child mode:* Watch the liquid climb. Every few minutes, look at the strip from the side.
   - Note: On the green leaf's strip, the green spreads up into a band, and a thin yellow or yellow-orange band runs ahead of it, near the top. On the yellowing leaf's strip, the yellow band is usually clear, and there is much less green, or none. The colours fade as the strip dries, so look at them straight away. If you see only green, the line was too faint. Make a new strip with 20 rolls, or let it run longer. Hand sanitiser works more slowly than nail polish remover.
   - Check: On the green leaf's strip, a yellow band appeared above the green. Where did the yellow come from? → **The leaf had a yellow colour hidden under the green**
 - **s6 (5 min)**  
   *Parent does:* 1. Put the two strips side by side. 2. Ask your child to say or write three things: what I think, what I saw, and why I think it happened.  
   *Parent says:* Put the strips side by side. What do you think now about the colours in a leaf? What did you see that shows it? Why do you think the yellowing leaf looked different?  
-  *Child mode:* Compare the strips. What do you think now? What did you see? Why?
+  *Child mode:* Point to each colour band on both strips. Then tell your three things.
   - Note: Here your child says what they think, what they saw that shows it, and why it happened. A strong answer sounds like this. What I think: a green leaf has yellow inside it too. What I saw: the green leaf made a green band and a yellow band. The yellowing leaf made a yellow band and hardly any green. Why: when a leaf gets old, the green goes first, and the yellow that was there is left. Now tell your child that trees do this before they drop their leaves in the dry season: they break down the green and take the useful parts back.
   - Check: The yellowing leaf showed a strong yellow band but little green. What does this tell you? → **The leaf lost the green, and the yellow stayed**
 ### e2 · Straight or Slanting: how far does the same torchlight spread? (25 min)
 - **question:** Does the same torch light up more squares when it shines straight down, or at a slant?
 - **predict:** Will the patch of light be bigger when the torch shines straight down, or when it shines at a slant from the side? Will it be brighter or dimmer? Why do you think so?
 - **fair test:** Use the same torch and the same squared paper every time. Keep the torch 20 cm from the middle of the patch, measured with a ruler. Only the angle changes. Do each angle twice, because a shaky hand can change the patch.
-- **record:** Keep the paper with the three outlines drawn on it. Fill in the table, and draw a bar for each angle.
+- **record:** Keep the paper with the three outlines on it. Fill in the table. Then show each angle with a row of beans, one bean for each square, or draw a bar.
 - **results table:** How the torch shines | My guess: squares lit | Try 1: squares lit | Try 2: squares lit | Bright or dim?
 - **s1 (4 min)**  
   *Parent does:* 1. Tape the squared paper flat on the floor or a table. 2. Mark a small dot in the middle. 3. Make the room dark.  
@@ -320,12 +320,12 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess, and write the guesses in the table.  
   *Parent says:* First the torch will shine straight down. Then at a slant, like the Sun in the afternoon. Then very low, like the Sun near sunset. Which patch will be biggest? Which will be brightest? Why do you think so?  
-  *Child mode:* The torch will shine straight down, at a slant, and very low. Which patch will be biggest? Why?
+  *Child mode:* Guess for each way of holding the torch. Say why.
   - Note: Don't give the answer. Some children think the light will be the same size every time, because it is the same torch.
 - **s3 (6 min)**  
   *Parent does:* 1. Hold the torch straight above the dot, with the glass 20 cm from the paper. Use the ruler to check. 2. Your child draws round the edge of the bright patch in pencil. 3. Count the squares inside. Count a square if more than half of it is lit. 4. Do it twice.  
   *Parent says:* Hold still. Draw round the edge of the bright part. Now count the squares inside.  
-  *Child mode:* Shine straight down. Draw round the bright patch. Count the squares.
+  *Child mode:* Shine straight down. Draw round the bright patch, or trace its edge with a finger. Count the squares.
   - Note: Rest your elbow on the table to keep the torch steady. The edge of the patch may be fuzzy. Draw round the edge of the brightest part each time, so the counts are fair.
 - **s4 (7 min)**  
   *Parent does:* 1. Now hold the torch at a slant, half-way between straight down and flat, still 20 cm from the dot. Rest it on a pile of books to keep it still. 2. Draw round the patch and count. 3. Then hold the torch very low, nearly flat, still 20 cm from the dot. 4. Draw round the patch and count. Do each twice.  
@@ -336,7 +336,7 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s5 (5 min)**  
   *Parent does:* 1. Look at the three outlines together. 2. Ask your child to say what they think, what they saw, and why it happened. 3. Then link it to the Sun.  
   *Parent says:* In summer, the Sun at noon is high, nearly straight above us. In winter, it is lower in the sky. Which way of holding the torch was like the summer Sun? Which patch of ground would get warmer?  
-  *Child mode:* Which way of holding the torch was like the summer Sun? Which patch of ground warms more?
+  *Child mode:* Point to the outlines, from the smallest patch to the biggest. Then pick the one like the summer Sun.
   - Note: A strong answer: what I think is that straight light warms the ground more. What I saw: the straight patch was smallest and brightest, and the low patch was biggest and dimmest. Why: the same light is packed into fewer squares when it falls straight down. The high summer Sun is like the straight torch. The days are also longer in summer, so the ground gets more hours of sunshine.
 
 ## Activities
@@ -346,34 +346,34 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s1 (5 min)**  
   *Parent does:* 1. Stand at a window or on the balcony together. 2. Look, listen and feel for one minute. 3. Then walk round the home and look for more clues: clothes drying, the fan, fruit in the kitchen, the calendar.  
   *Parent says:* We are season detectives. Without looking at the calendar, can you find five clues that tell us what season it is? Look outside, listen, and feel the air. Then look round the house.  
-  *Child mode:* Find five clues of the season. Look, listen, feel. Then look round the house.
+  *Child mode:* Look, listen and feel for one minute. Count your clues on your fingers.
   - Note: Good clues: how hot or damp the air feels, whether the fan is on, the clothes people wear, rain or dry dust, the fruit in the kitchen, birds calling, a tree with or without leaves, how long your shadow is, and festivals coming up.
 - **s2 (5 min)**  
   *Parent does:* 1. Read the clues together. 2. Ask your child to name the season and say which clue was the strongest. 3. Ask what will be different in three months.  
   *Parent says:* So which season is it? Which clue made you most sure? What do you think will be different in three months' time?  
-  *Child mode:* Which season is it? Which clue is best? What will change in three months?
+  *Child mode:* Name the season. Then show your grown-up the clue that made you sure.
   - Ask: Which clue is the best one, and why? (good: The mangoes, because they only come in summer.; The rain, because it only rains a lot in the monsoon here.)
   - Note: There is no single right clue. A strong answer gives a clue that only happens in one season, and says why. For the Hidden Colours test, put a palak or coriander leaf in a plastic bag in the fridge today. It will start to yellow in about a week.
 ### a2 · The Coconut Oil Season Test (15 min)
-- **record:** Draw both bowls after 30 minutes. Write what each one looks like.
+- **record:** Write what each bowl looks like after 30 minutes. You can also take a photo of both.
 - **s1 (4 min)**  
   *Parent does:* 1. Put one teaspoon of liquid coconut oil in each bowl. 2. Ask your child to guess what will happen in the fridge. 3. Put one bowl in the fridge, not the freezer. Leave the other in the room.  
   *Parent says:* In winter in Delhi, coconut oil goes white and hard in the bottle. Here is a small test. What do you think will happen to the oil in the fridge? Why?  
-  *Child mode:* One bowl goes in the fridge. One stays out. What will happen? Why?
+  *Child mode:* Put one bowl in the fridge and leave one in the room.
 - **s2 (6 min)**  
   *Parent does:* 1. After about 30 minutes, take the bowl out of the fridge. 2. Compare the two bowls. Tip each one gently. 3. Then hold the cold bowl in your warm hands and watch.  
   *Parent says:* Look at both bowls. Tip them. What is different? Now hold the cold one in your hands. What happens?  
-  *Child mode:* Compare the bowls. Tip them. Hold the cold one. What happens?
+  *Child mode:* Tip both bowls gently. Then warm the cold one in your hands.
   - Note: The fridge oil turns white and solid, because coconut oil sets below about 24 degrees Celsius. In your warm hands, it melts back to clear liquid within a few minutes. If your room is cooler than about 24 degrees, both bowls may set. Then warm one bowl in your hands.
   - Wait: About 30 minutes later
 - **s3 (5 min)**  
   *Parent does:* Talk about where in India coconut oil goes solid, and when.  
   *Parent says:* In Chennai and Kochi, the bottle stays liquid almost all year. In Bengaluru it often sets on cool winter mornings. In Delhi, it sets for most of the winter. What does that tell us about winter in these places?  
-  *Child mode:* Where in India does coconut oil go hard? What does that tell you?
+  *Child mode:* Listen to where coconut oil goes hard. Think about what that says about winter there.
   - Check: In January, coconut oil in Delhi is hard and white. In the same month, coconut oil in Kochi is clear and runny. Why? → **January in Delhi is much colder than January in Kochi**
 ### a3 · Sun Patch on the Floor (if sunlight comes in through a window) (20 min, 22 days)
 - **safety:** Never look straight at the Sun.
-- **record:** Write the date on each tape mark. After a few months, draw where the patch has moved.
+- **record:** Write the date on each tape mark. After a few months, take a photo of the marks, or draw where the patch has moved.
 - **schedule:** day 1: Mark the edge of the sun patch on the floor and write the date. (5 min); day 8: At the same time of day, mark the edge again. (5 min); day 15: Mark the edge again. (5 min); day 22: Mark the edge again and compare all four marks. Keep going every week for as long as you like. (5 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Choose a time when sunlight comes through the window onto the floor, for example 11 o'clock. 2. Stick a short strip of tape at the inner edge of the sun patch, the edge furthest into the room. 3. Write the date on the tape.  
@@ -382,17 +382,17 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s2 (5 min)**  
   *Parent does:* 1. At the same time of day, mark the edge of the sun patch again. 2. Write the date.  
   *Parent says:* Is the patch further into the room or nearer the window than last week? What does that tell you about how high the Sun is now?  
-  *Child mode:* Mark the edge again. Has it moved further into the room, or nearer the window?
+  *Child mode:* Mark the new edge. Measure how far it moved, in hand-spans or with a ruler.
   - Wait: One week later
 - **s3 (5 min)**  
   *Parent does:* Mark the edge again and write the date.  
   *Parent says:* Has the patch moved again? Is it moving the same way as last week?  
-  *Child mode:* Mark the edge again. Has it moved?
+  *Child mode:* Mark the edge again. Look at all three marks.
   - Wait: Two weeks after the start
 - **s4 (5 min)**  
   *Parent does:* 1. Mark the edge a fourth time. 2. Compare the marks. 3. Keep going every week for as long as you like.  
   *Parent says:* Look at the four marks. Which way is the patch moving? What does that tell you about the Sun?  
-  *Child mode:* Look at all four marks. Which way is the patch moving?
+  *Child mode:* Look at the four marks in a row, from the first to the last.
   - Note: If the window faces south, in most of India the patch reaches deep into the room in December and January, when the midday Sun is low in the south. In April and May, the Sun is high and the patch stays near the window, or does not come in at all. The change from week to week is small, so in four weeks it may be only a few centimetres. It takes a few months to see clearly.
   - Wait: Three weeks after the start
 ### a4 · The Season Wheel: India's year in one circle (20 min)
@@ -403,18 +403,18 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
   *Child mode:* Split the plate into 12 parts. Write the months. Colour the seasons.
   - Note: Colour it for where you live. In Chennai, the big rains come from October to December. In Mumbai or Kochi, they come from June to September. If you are unsure, ask a neighbour or look it up.
 - **s2 (8 min)**  
-  *Parent does:* 1. In each month, draw or write one thing your family does or eats. 2. Add one plant and one animal you notice in that month.  
+  *Parent does:* 1. In each month, write one thing your family does or eats. A word is enough. 2. Add one plant and one animal you notice in that month. Draw them, or stick on a picture from an old magazine or calendar.  
   *Parent says:* What do we eat in May? When is Pongal? When do we take out the umbrellas? When does the koel call?  
-  *Child mode:* Draw one food, one festival, one plant or animal in each month.
+  *Child mode:* Write one food or festival in each month. Add a plant or an animal, drawn or cut from a magazine.
   - Note: Examples: mangoes and nungu in May, umbrellas and frogs in the rains, hilsa fish in Bengal in the rains, Diwali sweets, sevanthi garlands in December, Pongal and sugarcane in January, kites and sesame sweets for Uttarayan in Gujarat, Magh Bihu feasts in Assam, neem flowers at Ugadi.
 - **s3 (4 min)**  
   *Parent does:* Look at the finished wheel together.  
   *Parent says:* The wheel comes back to January after December. What does that tell us about the seasons?  
-  *Child mode:* December leads back to January. What does that tell you?
+  *Child mode:* Run your finger round the wheel, from January all the way back to January.
   - Note: A good answer: the seasons come round again in the same order every year, so the year has no end. After the cool months the hot months start again, and the wheel goes on turning.
   - Think: Does a year have a beginning, or is it a circle?
 ### a5 · Ask an Elder: one season, then and now (15 min)
-- **record:** Write down their answers. Draw one thing they told you.
+- **record:** Write down their answers, or record their voice on a phone if they agree. Draw one thing they told you, or tell it to someone at home.
 - **s1 (3 min)**  
   *Parent does:* Help your child choose one season and write four questions. Choose someone to ask: a grandparent or other older relative, if you have one, or an older neighbour.  
   *Parent says:* Older people have watched many more summers and monsoons than we have. Let's choose one season and ask someone about it. What would you like to know?  
@@ -428,47 +428,47 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s3 (2 min)**  
   *Parent does:* Talk about the answers.  
   *Parent says:* What has stayed the same? What has changed? How could we check whether a memory is right?  
-  *Child mode:* What is the same? What changed? How could we check?
+  *Child mode:* Sort the answers into two groups: same as today, and different from today.
   - Note: Memories are useful clues, but they can be wrong. Old weather records, photos and diaries can check them.
 
 ## Projects
 ### p1 · My Season Diary: one tree, four weeks (40 min, 22 days)
 - **safety:** Stay inside the balcony railing. Never look straight at the Sun.
-- **record:** Four diary pages, one a week. Each has a drawing, the date, the weather, the sunrise and sunset times, and one change you noticed.
+- **record:** Four diary pages, one a week. Each has a drawing or a photo, the date, the weather, the sunrise and sunset times, and one change you noticed.
 - **schedule:** day 1: Choose your tree or plant. Draw them. Write the date, the weather, and the sunrise and sunset times. (10 min); day 8: Draw the same tree or plant again. Note any new leaves, falling leaves, flowers, fruit or visitors. (10 min); day 15: Draw and note again. Add any bird or insect you saw on or near the tree. (10 min); day 22: Draw a fourth time. Compare all four pages and write what changed. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Choose one tree you can see from home, or a potted plant. 2. Draw the whole tree or plant. 3. Write the date and the weather. 4. Look up today's sunrise and sunset times, and work out the day length.  
+  *Parent does:* 1. Choose one tree you can see from home, or a potted plant. 2. Draw the whole tree or plant, or take a photo. 3. Write the date and the weather. 4. Look up today's sunrise and sunset times, and work out the day length.  
   *Parent says:* We are going to watch one tree for four weeks, like a scientist. Every week, you draw the tree and write down what you see. Today is the first page.  
-  *Child mode:* Choose a tree. Draw the tree. Write the date, the weather, and the sunrise and sunset times.
+  *Child mode:* Choose a tree. Draw the tree or take a photo. Write the date, the weather, and the sunrise and sunset times.
   - Note: A tree that is changing helps a lot: one dropping leaves, flowering or fruiting. In February to April, neem, peepal, gulmohar and the Indian almond often change fast. A potted plant works if you can't see a tree.
 - **s2 (10 min)**  
-  *Parent does:* 1. Draw the same tree from the same place. 2. Write the date, weather and sunrise and sunset times. 3. Write one change since last week.  
+  *Parent does:* 1. Take a photo of the same tree from the same place, or draw the tree. 2. Write the date, weather and sunrise and sunset times. 3. Write one change since last week.  
   *Parent says:* Look carefully. What is different from last week? New leaves? Fewer leaves? Flowers? A bird?  
-  *Child mode:* Draw the tree again. What is different from last week?
+  *Child mode:* Take the picture from the same place. Look for what is different.
   - Wait: One week later
 - **s3 (10 min)**  
-  *Parent does:* Draw and write again. Add any animal you saw on or near the tree.  
+  *Parent does:* Write the date, weather and sunrise and sunset times again. Count the bare branches or new leaves you can see. Add any animal you saw on or near the tree.  
   *Parent says:* Did you see any birds, squirrels or insects visiting the tree this week? What were they doing?  
-  *Child mode:* Draw again. Did any animal visit the tree? What did the animal do?
+  *Child mode:* Count the bare branches or new leaves. Look for any animal on the tree.
   - Wait: Two weeks after the start
 - **s4 (10 min)**  
-  *Parent does:* 1. Draw a fourth time. 2. Lay all four pages side by side. 3. Write three changes you saw, and whether the days got longer or shorter.  
+  *Parent does:* 1. Take or draw a fourth picture. 2. Lay all four pages side by side. 3. Write three changes you saw, and whether the days got longer or shorter.  
   *Parent says:* Put all four pages side by side. What changed in the tree? What changed in the day length? Do you think the two are linked?  
-  *Child mode:* Look at all four pages. What changed? Did the days get longer or shorter?
+  *Child mode:* Lay the four pictures in a row. Point to each change you can see.
   - Check: From February to March, a neem tree drops yellow leaves and then grows new ones. What is the best reason? → **The tree is changing with the dry season, as neem trees do every year**
   - Wait: Three weeks after the start
 
 ## Challenges
 ### c1 · Water for the Birds in May (30 min)
 - **problem:** In the hottest weeks of summer, birds in the city struggle to find water. Design a water bowl for your balcony or window sill that birds can use safely, that stays cool and clean, and that does not tip over.
-- **your turn:** Now design your own bird water bowl. Draw it, build it, put it out, and record which birds visit in a week.
+- **your turn:** Now design your own bird water bowl. Plan it with a drawing or a few words, build it, put it out, and record which birds visit in a week.
 - **constraints:** Use things from home only.; The water must be shallow, no deeper than 3 cm, so small birds cannot drown.; It must not tip over when a crow lands on the edge.; It must be easy to wash and refill every day.
 - **general:** People put a shallow clay saucer of water in a shady corner of the balcony, and refill it every morning.; A few stones in the water give small birds a place to stand.
 - **creative:** Put the clay saucer inside a slightly bigger one, with a little water between them. The water slowly dries and takes heat away, so the bowl stays cool for longer.; Hang a second bowl under the edge of a sunshade, so it is in shade all afternoon.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together and draw two ideas.  
-  *Parent says:* Birds need water most in the hottest weeks, when puddles have dried up. What would make a bowl safe, cool and steady? Let's each draw two ideas.  
-  *Child mode:* Birds need water in summer. Draw two ideas for a bowl. Each bowl must be safe, cool and steady.
+  *Parent does:* Read the problem together and show two ideas, by drawing them or by arranging the saucer, stones and brick.  
+  *Parent says:* Birds need water most in the hottest weeks, when puddles have dried up. What would make a bowl safe, cool and steady? Let's each show two ideas.  
+  *Child mode:* Birds need water in summer. Show two ideas for a bowl, drawn or built. Each bowl must be safe, cool and steady.
 - **s2 (15 min)**  
   *Parent does:* 1. Build the best idea. 2. Put it in a shady place on the balcony or window sill. 3. Press on the edge to test that it does not tip.  
   *Parent says:* Let's build it. Put it in the shade. Press on the edge like a crow landing. Does it stay steady?  
@@ -477,27 +477,27 @@ I wrote it in my notebook, under the drawing of the tree with her new leaves. We
 - **s3 (7 min)**  
   *Parent does:* Read the usual and creative ideas, and plan a week of watching.  
   *Parent says:* Here are some other ideas. Can you make yours better? Which bird do you think will come first?  
-  *Child mode:* Read the other ideas. Which bird do you think will come first?
+  *Child mode:* Read the other ideas. Pick one to add to your bowl.
   - Check: Why should the water in a bird bowl be changed every day? → **So mosquitoes cannot lay eggs and breed in it**
 ### c2 · A Shade for Summer: keep the ice in a box (on a sunny balcony) (40 min)
 - **problem:** In summer, people shade their windows and roofs to keep their homes cool. Design a shade for a shoebox house, so that an ice cube inside melts more slowly than one in a box with no shade, in the same sunshine.
-- **your turn:** Now design your own summer shade. Draw it, build it, test it against a box with no shade, and try to beat your first design.
+- **your turn:** Now design your own summer shade. Plan it with a drawing or a few words, build it, test it against a box with no shade, and try to beat your first design.
 - **constraints:** Use only paper, card, cloth and things from home.; Both boxes must be the same, except for your shade.; Both boxes sit in the same sunshine for the same time.; You need sunshine on a balcony, terrace or window sill for about 40 minutes.
 - **general:** Make a roof of card that sticks out past the walls, like the deep sunshades over windows.; Cover the box with a white cloth, because white sends back more sunlight than dark colours.
 - **creative:** Leave a gap of air between the shade and the box, so the shade's heat doesn't touch the box.; Use a wet cloth as the shade, so it cools as it dries, like a wet khus curtain.; Copy a thatched roof with dry grass or a jute sack.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem and draw two shade ideas.  
-  *Parent says:* How do people stop the Sun heating their homes in summer? Think of sunshades, curtains and thatch. Draw two ideas for a shade for this box.  
-  *Child mode:* How do homes stay cool in summer? Draw two shade ideas.
+  *Parent does:* Read the problem. Try two shade ideas on the box with the card, newspaper and cloth, or draw them.  
+  *Parent says:* How do people stop the Sun heating their homes in summer? Think of sunshades, curtains and thatch. Show me two ideas for a shade for this box.  
+  *Child mode:* Hold the card, newspaper and cloth over the box to try two shade ideas. Or draw them.
 - **s2 (27 min)**  
   *Parent does:* 1. Build the shade on one box. 2. Take the ice cubes out of the freezer only when you are ready, and put one on a plate inside each box. 3. Put both boxes side by side in full sunshine, facing the same way. 4. Check every 10 minutes. 5. Note which ice cube is smaller.  
   *Parent says:* Both boxes are in the same sun. Only the shade is different. Check every 10 minutes. Which ice is melting slower?  
-  *Child mode:* Put both boxes in the sun. Check every 10 minutes. Which ice cube melts slower?
+  *Child mode:* Put both boxes in the sun. Look at both ice cubes every 10 minutes.
   - Note: The ice in the shaded box should stay bigger. If both melt at the same speed, the shade may be touching the box and passing its heat on. Try leaving a gap of air.
 - **s3 (5 min)**  
   *Parent does:* Compare the ice cubes and read the other ideas.  
   *Parent says:* Which ice cube lasted longer? Why do you think your shade worked? How could you make it better?  
-  *Child mode:* Which ice lasted longer? Why? How could you make it better?
+  *Child mode:* Hold the two plates side by side. Then change one thing about your shade.
   - Check: Why did the shaded box keep its ice longer? → **The shade stopped much of the sunlight from reaching the box**
 
 ## Worksheets

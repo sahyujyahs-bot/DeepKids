@@ -293,7 +293,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - **s2 (3 min)**  
   *Parent does:* Find the neem, mango and peepal cards and lay them side by side on the mat. Then shuffle all the cards and deal 5 to each player. Put the rest face down in a pile.  
   *Parent says:* Let's practise. Neem, mango and peepal. What do these three share?  
-  *Child mode:* This is a practice round. Look at neem, mango and peepal. What do they share? Then take 5 cards each.
+  *Child mode:* Practice round. Look at neem, mango and peepal side by side. Then take 5 cards each.
   - Check: Neem, mango and peepal make a family. What do they share? → **They are all trees**
 - **s3 (10 min)**  
   *Parent does:* Play the game. Each time someone lays down a family, ask them to say what the three share.  
@@ -304,7 +304,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - **s4 (2 min)**  
   *Parent does:* Find the tulsi and bamboo cards and hold them up.  
   *Parent says:* These two are tricky. Tulsi starts soft and becomes woody. Bamboo is a grass as tall as a tree. In this game tulsi counts as a shrub and bamboo as a herb. Which other family could each one fit?  
-  *Child mode:* Look at tulsi and bamboo. In the game they count as a shrub and a herb. Which other family could they fit?
+  *Child mode:* Hold up tulsi and bamboo. Which other family could each one fit?
   - Check: Bamboo grows as tall as a house. What kind of plant is bamboo? → **A giant grass**
 - **s5 (2 min)**  
   *Parent does:* Count the families and find the winner. Then lay all the families out together.  
@@ -321,7 +321,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Child mode:* Read your bingo card. Can you guess where you will find each one?
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Walk slowly around your street, building or park, or look from the windows and balcony. Stop at each plant someone points out.  
-  *Parent says:* What have you found? How do you know they're a climber and not a creeper?  
+  *Parent says:* What have you found? Which kind is it, and how do you know?  
   *Child mode:* Look high and low. Point at a plant. Say why they fit a square.
   - Note: Stay with your child near roads. Do not touch plants with thorns or milky sap, and do not pick anything in someone else's garden.
 - **s3 (3 min)**  
@@ -341,12 +341,12 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - **predict:** Before you test, line up the stems from the one you think is hardest to the softest. Which ones do you think will stand up by themselves, and why do you think so?
 - **fair test:** To make it fair, test every stem in the same three ways, in the same order. Use pieces of the same length, about 20 cm (a mint sprig or coriander stalk is about this long), and take the leaves off every stem. Use stems from the kitchen or ones already cut or fallen, so no plant is hurt.
 - **safety:** Use only stems from your kitchen, or pieces that have already fallen or been pruned. Do not use stems with milky sap or thorns. Wash your hands afterwards.
-- **record:** Fill in the table for every stem. Then draw each stem and write woody or soft under it.
+- **record:** Fill in the table for every stem. Then put the stems in two groups, woody and soft, and take a photo. Or draw each stem and write woody or soft under it.
 - **results table:** Stem | Nail test: does it dent? | Bend test: springs back, snaps or flops? | Stand test: does it stand up alone? | Woody or soft? | Kind of plant
 - **s1 (4 min)**  
   *Parent does:* 1. Collect 4 or 5 stem pieces, all about 20 cm long, from the kitchen or fallen from plants. 2. Lay them on newspaper. 3. Ask your child to line them up, hardest first, and say which will stand up alone.  
   *Parent says:* Which of these stems do you think is the hardest? Line them up, hardest first. Which ones will stand up by themselves? Why do you think so?  
-  *Child mode:* Line up your stems, hardest first. Which will stand up alone? Why?
+  *Child mode:* Line up your stems, hardest first. Which will stand up alone?
   - Ask: Why did you put that one first? (good: It looks brown and dry.; It feels hard like a stick.; It came from a big tree.)
 - **s2 (5 min)**  
   *Parent does:* 1. Pick up each stem. 2. Press a fingernail into it gently, near the middle. 3. Look closely, with the hand lens if you have one. 4. Write yes or no in the 'dent' column.  
@@ -378,7 +378,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - **predict:** Before you measure, guess. Which place will be hottest: the sunny ground, the shade of a tree, or the shade of an umbrella? Why do you think so?
 - **fair test:** To make it fair, measure all the places within about half an hour around midday, lay the thermometer flat on the ground each time, and leave it 3 minutes in each place. Where you can, choose the same kind of ground, for example all paving.
 - **safety:** Midday sun is strong. Wear a cap, drink water and do not stay out long.
-- **record:** Write the temperature for each place. Draw a bar chart with one bar for each place.
+- **record:** Write the temperature for each place. Then draw a bar chart with one bar for each place, or list the places hottest first.
 - **results table:** Place | My guess: hottest, middle or coolest | Temperature (degrees Celsius)
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Choose a sunny time, near midday. 2. Find a spot in full sun, a big tree with thick shade, a shrub and a place for an umbrella. 3. Ask your child to guess which will be hottest and coolest.  
@@ -395,9 +395,9 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Parent says:* Now let's try a shrub and an umbrella. Will they be as cool as the tree?  
   *Child mode:* Now try under a shrub. Then under an umbrella. Write each number.
 - **s4 (6 min)**  
-  *Parent does:* Help your child draw a bar chart, one bar for each place.  
-  *Parent says:* Let's turn the numbers into a picture. The taller the bar, the hotter the place.  
-  *Child mode:* Draw one bar for each place. Taller bar means hotter.
+  *Parent does:* Write each place on a piece of paper. Ask your child to put them in order, hottest first.  
+  *Parent says:* Let's put the places in order. Which was hottest? Which was coolest?  
+  *Child mode:* Put the places in order, hottest first. Point to the two that are furthest apart.
   - Check: In the Shade Detective test, why might the ground under a big tree be cooler than under an umbrella? → **The tree's leaves block sunlight, and the tree also gives off water that cools the air**
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say three things: what they think, what they measured, and why they think it happened.  
@@ -440,14 +440,14 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - **safety:** If you go outside, go only with a grown-up. Do not touch plants with thorns or milky sap.
 - **record:** A tally table with five rows: tree, shrub, herb, climber, creeper. Add one plant name you know for each kind.
 - **s1 (2 min)**  
-  *Parent does:* Show your child the tally table, and explain the five kinds in one line each.  
+  *Parent does:* Show your child the tally table. Say the five kinds: a tree has one thick woody trunk. A shrub has many woody stems and no trunk. A herb has a soft stem. A climber has a thin stem that holds on to something. A creeper has a thin stem that lies on the ground.  
   *Parent says:* Let's count plants. For each plant, we decide: tree, shrub, herb, climber or creeper. Then we make a tally mark.  
   *Child mode:* Count the plants you can see. Decide each one's kind. Make a tally mark.
   - Note: Sow a few bean seeds in a small pot today. In two weeks they will be ready for the Circling Shoot activity.
 - **s2 (3 min)**  
   *Parent does:* Stop at the first plant you can see clearly, in a pot or from a window. Look at their stem together.  
-  *Parent says:* What do you notice about this plant? What do you wonder about them?  
-  *Child mode:* Look at this plant. What do you notice? What do you wonder?
+  *Parent says:* Touch the stem gently. Is it hard or soft? Is it standing, climbing or lying down?  
+  *Child mode:* Feel this plant's stem. Is it hard or soft?
   - Ask: What do you notice about their stem? (good: It is thick and brown.; It is soft and green.; It is holding on to the wall.)
 - **s3 (12 min) · grown-up needed**  
   *Parent does:* For about 12 minutes, look from every window and the balcony. Look at pots at home too, and walk to your building gate if you can. At each plant, your child decides the kind and makes a tally mark.  
@@ -480,7 +480,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - **s4 (4 min)**  
   *Parent does:* Ask your child to think of a breakfast with no plants at all.  
   *Parent says:* If every plant disappeared, what would be left for breakfast? Think about milk and eggs too.  
-  *Child mode:* Suppose there were no plants. What could you eat for breakfast?
+  *Child mode:* Name one breakfast food that would be left.
   - Think: Is there any food at all that does not come from a plant in the end?
 ### a3 · Hug a Tree: how big are they, and how old? (20 min)
 - **safety:** Choose a tree in a safe place, away from traffic. Check for ants, thorns and wasps before you hug.
@@ -506,7 +506,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   - Think: Why do you think a tree needs bark? What would happen without it?
 ### a4 · The Banana Plant Puzzle: tree or giant herb? (20 min)
 - **safety:** Only a grown-up uses the knife. Banana stem sap can stain clothes, so wear old clothes or an apron.
-- **record:** Draw the cut end of the banana stem and the broken end of the twig, side by side. Write which one has wood.
+- **record:** Put the cut banana stem and the broken twig side by side and take a photo. Say which one has wood. Or draw them, and write which one has wood.
 - **s1 (3 min)**  
   *Parent does:* Show your child the banana stem piece, still whole.  
   *Parent says:* This comes from a banana plant. People call them a banana tree. Are they really a tree? What do you think we'll find inside?  
@@ -522,9 +522,9 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Child mode:* Peel off one layer. It is the bottom of a leaf. The trunk is rolled-up leaves!
   - Check: In the Banana Plant Puzzle, the stem was made of soft rolled layers with no wood. So what kind of plant is a banana? → **A giant herb, because their stem is soft and not woody**
 - **s4 (4 min)**  
-  *Parent does:* Snap the tree twig in two and look at the broken end. Compare it with the banana stem.  
+  *Parent does:* Snap a tree twig in two and look at the broken end. Compare it with the banana stem.  
   *Parent says:* Now look at the twig. Can you peel it? What is different?  
-  *Child mode:* Look at the twig's cut end. Can you peel it? What is different?
+  *Child mode:* Look at the twig's broken end. Can you peel it? What is different?
   - Think: What other plants look like trees, but might not be?
 - **s5 (4 min) · grown-up needed**  
   *Parent does:* Optional: a grown-up cooks the banana stem, if your family eats it. It is used in curries and juice in many Indian homes.  
@@ -532,7 +532,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Child mode:* Banana plants give fruit, leaf plates, food and rope. Which part of the plant gives the rope?
   - Note: Banana leaves are used as plates. Banana fibre comes from the stem and is made into rope, mats and even cloth. So the answer to the question is the stem.
 ### a5 · The Circling Shoot: watch a climber search (25 min, 2 days)
-- **record:** Draw a dot for each position of the tip, from above, and join the dots.
+- **record:** Draw a dot for each position of the tip, from above, and join the dots. Or lay the photos in order and point to which way the tip moved.
 - **schedule:** day 1: Take a photo of the shoot tip from above every 30 minutes for 2 to 3 hours, or mark its position on paper. (13 min); day 2: Look at the photos in order. Has the tip moved in a circle? Has it found the stick? Talk about how a climber differs from a tree. (12 min)
 - **s1 (3 min)**  
   *Parent does:* Choose a young climber with a shoot tip waving in the air. Push a stick into the soil about a finger-length away from the stem.  
@@ -563,7 +563,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   *Child mode:* Pull out some long fibres. They came from a plant!
 - **s2 (8 min)**  
   *Parent does:* 1. Hold one end of the bunch, or tie it to a door handle. 2. Twist the other end tightly in one direction, until it starts to kink. 3. Fold it in half, holding both ends. 4. Let go of the middle. It twists around itself into a rope. 5. Tie a knot at the end.  
-  *Parent says:* Twist, twist, twist. Now fold it in half and watch. The twisted bunch springs back, and the only way it can untwist is by wrapping round itself.  
+  *Parent says:* Twist, twist, twist. Now fold it in half and let go of the middle. The twist wants to undo itself, so the two halves wrap around each other.  
   *Child mode:* Twist the fibres tight. Fold them in half. Watch them wrap into a rope!
 - **s3 (6 min)**  
   *Parent does:* 1. Make a second bunch with the same amount of fibre, but do not twist it. 2. Tie a thread round each end of the loose bunch and of the rope. 3. Hang each one from the same hook, with the same small bag at the bottom. 4. Add coins one at a time until it pulls apart. Test the loose bunch first, then your rope.  
@@ -579,12 +579,12 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 
 ## Projects
 ### p1 · My Plant Friend: a 4-week diary (60 min, 28 days)
-- **record:** A 4-week plant diary with 5 drawings, a rubbing, measurements, a list of visitors and a plant friend card.
+- **record:** A 4-week plant diary with a photo or drawing each week, a rubbing, measurements, a list of visitors and a plant friend card.
 - **schedule:** day 1: Choose a plant friend. Decide their kind. Draw them, give them a name and make a bark or leaf rubbing. (20 min); day 7: Visit your plant. Count new leaves, buds or flowers. Note any visitors: ants, birds, bees, butterflies. (10 min); day 14: Visit again. Measure something: the length of one new shoot, or around the trunk. Find out one way people use this kind of plant. (10 min); day 21: Visit again. Draw them from the same spot as Day 1. What has changed? (10 min); day 28: Last visit. Write a 'plant friend card' with their kind, their uses, their visitors and what changed. (10 min)
 - **s1 (20 min) · grown-up needed**  
-  *Parent does:* Help your child choose a plant to visit every week. It can be a pot, a balcony plant or a street tree. Draw them, decide their kind and give them a name. Make a bark or leaf rubbing. Do not pick anything in someone else's garden.  
+  *Parent does:* Help your child choose a plant to visit every week. It can be a pot, a balcony plant or a street tree. Take a photo of them, decide their kind and give them a name. Make a bark or leaf rubbing. Do not pick anything in someone else's garden.  
   *Parent says:* Pick a plant to be your friend for four weeks. Are they a tree, a shrub, a herb, a climber or a creeper? What will you call them?  
-  *Child mode:* Choose a plant friend. What kind are they? Draw them. Give them a name.
+  *Child mode:* Choose a plant friend. What kind are they? Give them a name. Take a photo, or draw them.
 - **s2 (10 min)**  
   *Parent does:* On Day 7, visit the plant together. Count new leaves, buds or flowers, and look for visitors.  
   *Parent says:* Who else visits your plant? Ants, bees, birds, a cat sleeping in their shade?  
@@ -597,13 +597,13 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
   - Check: A plant friend is a curry leaf shrub. What are curry leaves mostly used for? → **Their leaves add taste and smell to food**
   - Wait: Day 14
 - **s4 (10 min)**  
-  *Parent does:* On Day 21, draw the plant again from the same spot as on Day 1.  
-  *Parent says:* Let's draw them from exactly the same place. That way we can compare the two drawings fairly.  
-  *Child mode:* Draw your plant again, from the same spot.
+  *Parent does:* On Day 21, take a photo of the plant, or draw it, from the same spot as on Day 1.  
+  *Parent says:* Let's do it from exactly the same place. That way we can compare the two fairly.  
+  *Child mode:* Take a photo, or draw your plant again, from the same spot.
   - Wait: Day 21
 - **s5 (10 min)**  
   *Parent does:* On Day 28, make the plant friend card together.  
-  *Parent says:* Look back at your diary. What changed in your plant friend over four weeks? How do your two drawings show it?  
+  *Parent says:* Look back at your diary. What changed in your plant friend over four weeks? How do your two pictures show it?  
   *Child mode:* Make your plant friend card. Write their kind, their uses, their visitors and what changed.
   - Think: Does your plant know you visited them? How could you ever find out?
   - Wait: Day 28
@@ -611,18 +611,18 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 ## Challenges
 ### c1 · A Ladder for a Climber (30 min)
 - **problem:** A young bottle gourd or bean climber in a pot has nothing to climb. Their stem is flopping on the floor. Build them a support so they can climb up to the light, using only things from home.
-- **your turn:** Now design your own support. Draw it, build it, and check your climber every two days. Which way do they climb? Do they like your ladder?
+- **your turn:** Now design your own support. Plan it, build it, and check your climber every two days. Which way do they climb? Do they like your ladder?
 - **constraints:** Use only things you find at home.; The support must be steady. It must not fall over when a climber leans on it.; It must be at least 1 metre tall.; It must not hurt the plant.
 - **general:** Push one long stick into the soil, and gently twist the climber around it.; Make a teepee: tie three sticks together at the top, like a tent.; Tie strings from the pot up to a window grill or a hook.
 - **creative:** Weave a net of string between two sticks, so tendrils have many places to grab.; Use a ladder shape made from skewers and string, so the climber can go up step by step.
 - **s1 (4 min)**  
   *Parent does:* Look at the floppy climber together.  
   *Parent says:* This plant is a climber. Their stem is too thin to stand up. What do they need from us?  
-  *Child mode:* Look at this climber. Why are they flopping? What do they need?
+  *Child mode:* Look at this climber. Can it stand up alone?
 - **s2 (6 min)**  
-  *Parent does:* Let your child draw two or three ideas for a support before building anything.  
-  *Parent says:* Draw a few ideas first. Think: how will the plant hold on? With tendrils, or by twisting their stem?  
-  *Child mode:* Draw two ideas for a support. How will the plant hold on to each one?
+  *Parent does:* Let your child try two or three ideas for a support before building the real one. Lay sticks and string on the table, or sketch them.  
+  *Parent says:* Try a few ideas first. Think: how will the plant hold on? With tendrils, or by twisting their stem?  
+  *Child mode:* Show two ideas for a support, with sticks or a sketch. How will the plant hold on?
   - Check: A bottle gourd climbs with curly tendrils. Which support will they find easiest to hold? → **A net of thin strings**
 - **s3 (15 min)**  
   *Parent does:* Build the support and gently guide the climber's tip onto it. Do not tie them tightly.  
@@ -652,7 +652,7 @@ And now, when I see a coconut palm with a green vine winding up their trunk, or 
 - **s3 (12 min)**  
   *Parent does:* Draw the plan or build the cardboard model.  
   *Parent says:* Show me where each plant goes. How will the climber get up the wall?  
-  *Child mode:* Draw your plan. Show each plant and how the climber goes up.
+  *Child mode:* Show your plan: build the box model, or draw it. Show each plant and how the climber goes up.
 - **s4 (5 min)**  
   *Parent does:* Present the plan to the family.  
   *Parent says:* Tell us your plan. Why did you choose these kinds of plants?  

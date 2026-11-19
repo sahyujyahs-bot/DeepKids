@@ -241,8 +241,8 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - **Printable score sheet: Score sheet:** Memory round 1: changes found ___ of changes made ___; Memory round 2: changes found ___ of changes made ___; Memory round 3: changes found ___ of changes made ___; Drawing round 1: changes found ___ of changes made ___; Drawing round 2: changes found ___ of changes made ___; Drawing round 3: changes found ___ of changes made ___; Memory rounds: total found ___; Drawing rounds: total found ___
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the 9-square sheet on a table. 2. Put 7 small things on it, one in each of 7 squares. 3. Shuffle the change cards face down.  
-  *Parent says:* This game tests two ways of remembering. First you'll use only your memory. Then you'll make a quick drawing. Which do you think will catch more changes?  
-  *Child mode:* Put seven small things on the squares. Mix up the cards. Which will win, your memory or a drawing? Guess first.
+  *Parent says:* This game tests two ways of remembering. First you use only your memory. Then you make a quick map of the tray. Then you will see which way catches more changes.  
+  *Child mode:* Put seven small things on the squares. Mix up the cards.
   - Ask: Which do you think will catch more changes, your memory or a drawing? Why? (good: The drawing, because I can check it.; My memory, because I'm good at remembering.)
 - **s2 (5 min)**  
   *Parent does:* 1. Play 3 memory rounds. 2. In each, the looker studies the tray for 30 seconds and turns away. 3. The changer makes the changes on 2 cards. 4. The looker says what changed. Write the score.  
@@ -251,13 +251,13 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   - Note: Some changes are easy and some are small, like turning the coin over or moving a thing a little inside its square. Small changes are where memory fails. The trick card is a fair test of whether the looker invents a change that never happened.
 - **s3 (6 min)**  
   *Parent does:* 1. Play 3 drawing rounds. 2. The looker looks at the tray and draws a quick map on a 9-square paper for 30 seconds. 3. The looker turns away and the changer makes 2 changes. 4. The looker checks the tray against the drawing. Write the score.  
-  *Parent says:* This time you can draw a quick map of the tray while you look. Show which way the spoon points and which side of the coin is up.  
-  *Child mode:* Look at the tray and draw a quick map for 30 seconds. Show which way things point. Turn around. Then check the tray against your drawing.
+  *Parent says:* This time you can make a quick map of the tray while you look. Draw it, or write a list of what is on each square. Show which way the spoon points and which side of the coin is up.  
+  *Child mode:* Look at the tray for 30 seconds. Draw a quick map. Or list what is on each square and which way things point. Turn around. Then check the tray against your map or list.
   - Check: If your drawing rounds found more changes than your memory rounds, why might that be? → **The drawing was made at the time and does not change, so you can check against it**
 - **s4 (2 min)**  
   *Parent does:* Add up the scores for the memory rounds and the drawing rounds. Compare them.  
   *Parent says:* Let's add up. Which way found more changes? Was your first guess right?  
-  *Child mode:* Add up your points for each kind of round. Which won? Was your guess right?
+  *Child mode:* Add up your points for the memory rounds, and for the drawing rounds.
   - Note: A good answer says that memory can miss a change or invent one, but a drawing made at the time stays the same and can be checked. Scientists write things down at the time for this reason.
   - Think: Scientists write things down at the time they see them. After this game, can you say why?
 ### g2 · One Look or Long Watch? A question sorting game (15 min)
@@ -270,8 +270,8 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Child mode:* Lay out the mat with five boxes. Mix up the cards. You will sort questions by how to find the answer.
 - **s2 (3 min)**  
   *Parent does:* Play the card 'Does our banana get more brown spots each day?' as a practice round.  
-  *Parent says:* Practice card. Does our banana get more brown spots each day? Which box?  
-  *Child mode:* Practice card. Does our banana get more brown spots each day? Which box? Say your answer.
+  *Parent says:* Let's try one card first, about a banana. Which box would it go in?  
+  *Child mode:* Read the card out loud. Put it in the box you think is right.
   - Check: Does our banana get more brown spots each day? Which box does this go in? → **Long watch**
 - **s3 (8 min)**  
   *Parent does:* Take turns with the rest of the cards. For each long watch, the player says how often they would look. For each test, they say what they would compare.  
@@ -281,7 +281,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - **s4 (2 min)**  
   *Parent does:* Look at the two cards in 'Hard to find out by looking'. Talk about them.  
   *Parent says:* These two are in the hard box. Could anyone ever find out the answers? How might they try?  
-  *Child mode:* Look at the hard box. Could anyone ever find out these? How might they try?
+  *Child mode:* Read the two cards in the hard box out loud.
   - Note: Forecasts for tomorrow or the next few days are fairly good, because scientists can look at the weather now. Nobody can say what the weather will be on one day next year, because it cannot be looked at today.
   - Think: Weather scientists do try to say what the weather will be. Could anyone say what the weather will be on one particular day next year? What about tomorrow?
 
@@ -291,12 +291,12 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - **predict:** Guess first. Which slice will turn brown fastest, and which will stay pale longest? Why do you think so? Write your guess and your reason before you cut the apple.
 - **fair test:** Cut all three slices from the same apple, at the same time, about as thick as a pencil. Keep them in the same room, out of direct sun. Only one thing is different: plain, lemon or water. Score every slice at the same times, using the same colour scale and the same light.
 - **safety:** A grown-up cuts the apple.
-- **record:** Fill in the table at every look. Draw each slice small, in a row, with the time under each drawing.
+- **record:** Fill in the table at every look. Take a photo of the three slices each time, or draw each slice small, with the time written under it.
 - **results table:** Time (minutes after cutting) | Plain slice: colour score (0 to 3) | Lemon slice: colour score | Water slice: colour score | What I noticed
 - **s1 (6 min)**  
   *Parent does:* 1. Make the colour scale card with your child. 2. Draw the results table in the notebook. 3. Ask for a guess and a reason, and write both down.  
   *Parent says:* Before we cut anything, let's plan. Our question is which slice browns fastest. We'll look every 10 minutes for an hour. Which slice do you think will brown fastest? Why?  
-  *Child mode:* Make your colour card: 0, 1, 2, 3. Draw your table. Which slice will go brown first? Why? Write it down.
+  *Child mode:* Make your colour card with four boxes, 0 to 3. Draw a table with a row for each look.
   - Ask: Which slice do you think will brown fastest, and why? (good: The plain one, because the air touches it.; The water one, because water makes things soggy.; The lemon one, because lemon is strong.)
   - Note: Any guess is fine, as long as it has a reason. Don't hint. A wrong guess written down is a very good start, because the test will surprise your child.
 - **s2 (5 min) · grown-up needed**  
@@ -305,9 +305,9 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Child mode:* A grown-up cuts three slices. Put one by 'plain'. Rub lemon on one. Put one under water. Write the time now.
   - Note: Apple slices float, so the small plate on top matters. Without it, the top of the slice sticks out into the air and browns. Cut fast, so all three start within a minute of each other.
 - **s3 (3 min)**  
-  *Parent does:* 1. Look at all three slices. 2. Hold each next to the colour card and give it a score. 3. Draw each one small in the notebook, with '0 minutes' under it. 4. Smell and touch the plain slice.  
+  *Parent does:* 1. Look at all three slices. 2. Hold each next to the colour card and give it a score. 3. Take a photo of the three slices, or draw each one small, with '0 minutes' under it. 4. Smell and touch the plain slice.  
   *Parent says:* This is our first look, at 0 minutes. Hold each slice next to the colour card. What score is it? How does it smell? How does it feel?  
-  *Child mode:* Look at each slice next to your colour card. What score? Draw it. Smell it. Touch it. Write 0 minutes.
+  *Child mode:* Hold each slice next to your colour card and give it a score. Smell it and touch it. Take a photo, or draw it small. Write 0 minutes.
   - Note: Take the water slice out for a few seconds to score it, then put it straight back under the plate. All three should score 0 now.
 - **s4 (2 min)**  
   *Parent does:* Ask your child to stare at the plain slice for one full minute, without looking away.  
@@ -315,14 +315,14 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Child mode:* Stare at the plain slice for one whole minute. Shout when you see it change!
   - Check: You stared at the plain slice for one minute. What did you see? → **It looked the same the whole minute**
 - **s5 (12 min)**  
-  *Parent does:* 1. Every 10 minutes, for an hour, score and draw all three slices. 2. Write the time and the scores in the table each time. 3. Between looks, do something else, like reading the explanation card 'Tycho Brahe's plan: is the new star near or far?'.  
+  *Parent does:* 1. Every 10 minutes, for an hour, score all three slices and take a photo, or draw them small. 2. Write the time and the scores in the table each time. 3. Between looks, do something else, like reading a book.  
   *Parent says:* It's 10 minutes. Time to look again. Same light, same colour card. What scores now?  
-  *Child mode:* Every 10 minutes, look again. Score each slice. Draw it. Write the time. Then go and do something else.
+  *Child mode:* Every 10 minutes, look again. Score each slice. Take a photo, or draw it. Write the time. Then go and do something else.
   - Note: Each look takes about 2 minutes, so six looks take about 12 minutes, spread over an hour. Look in the same place and light each time. Light from a window changes through the day, so a lamp you switch on for each look gives the fairest light. If after an hour the plain slice still looks pale, your apple is a slow-browning kind. Leave it two more hours and look again, and write that the apple browned slowly.
 - **s6 (5 min)**  
-  *Parent does:* 1. Lay the drawings side by side. 2. Ask your child what they guessed, what they saw, and why they think it happened. 3. Read the explanation card 'Why a cut apple turns brown'.  
-  *Parent says:* Let's lay the drawings in a row. Which slice browned fastest? What did your record show that staring didn't? Now, why do you think it happened?  
-  *Child mode:* Look at your drawings in a row. Which slice went brown fastest? Was your guess right? Why do you think it happened?
+  *Parent does:* 1. Lay the photos or drawings side by side. 2. Ask your child what they guessed, what they saw, and why they think it happened. 3. Read the explanation card 'Why a cut apple turns brown'.  
+  *Parent says:* Let's lay the photos or drawings in a row. Which slice browned fastest? What did your record show that staring didn't? Now, why do you think it happened?  
+  *Child mode:* Lay your photos or drawings in a row. Point to the slice that went brown fastest.
   - Ask: What did you think would happen? What did you see? Why do you think it happened? (good: I thought the water one would brown first. But the plain one did. The air touched it most.; The lemon slice stayed at 0. Lemon must stop the browning.)
   - Note: Expect the plain slice to brown most and the lemon slice least. The water slice is usually in between, browning slowly. Lemon juice is sour, and the enzyme that makes the brown works slowly in sour juice. Water keeps out most of the oxygen.
   - Check: The plain slice browned and the water slice stayed paler. What does this tell us? → **Something in the air helps the apple turn brown**
@@ -335,12 +335,12 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - **predict:** Before you start, write what you think will happen to your two slices, and why you think so.
 - **fair test:** Cut two slices from the same apple, at the same time, to the same thickness. One is your 'normal' slice. The other gets your one change. For the fridge test and the bowl test, the normal slice sits on a plate on the table. For the salt test, the normal slice sits in plain water, so that only the salt is different. Everything else stays the same, and you score both at the same times with the same colour card.
 - **safety:** A grown-up cuts the apple.
-- **record:** Write your plan on one page and your results table on the next. Draw both slices at every look.
+- **record:** Write your plan on one page and your results table on the next. Photograph or draw both slices at every look.
 - **results table:** Time (minutes after cutting) | Normal slice: colour score (0 to 3) | Changed slice: colour score | What I noticed
 - **s1 (8 min)**  
   *Parent does:* Help your child choose one change and write a plan with these headings: My question. My guess and why. What I change. What I keep the same. How often I look, and for how long. How I record it.  
   *Parent says:* This time you're the scientist who makes the plan. Choose one change. Then write each part of your plan. I'll only check that nothing is missing.  
-  *Child mode:* Choose one change: fridge, salty water, or a bowl on top. Write your question. Write your guess and why. Write what stays the same.
+  *Child mode:* Choose one change: the fridge, salty water, or an upside-down steel bowl over the slice. Write your question, and your guess and why.
   - Ask: What will you keep the same for both slices? (good: The same apple.; Cut at the same time.; The same thickness.; The same colour card and the same light.)
   - Note: Let your child make the choices, even if you think a choice won't work well. If they forget to write how often they will look, ask 'When will you look?' rather than telling them. Every 10 minutes for an hour works. For the fridge test, take the slice out only for the few seconds it takes to score it, because warming it changes the test. A fridge is also darker than the table. So the fridge slice differs in two ways, cold and dark. Say this when you talk about the result, so your child does not blame the cold alone. For the bowl test, lift the bowl only for the few seconds of scoring.
 - **s2 (3 min) · grown-up needed**  
@@ -348,14 +348,14 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   *Parent says:* Two slices, cut at the same moment. Which one gets the change? Write the time.  
   *Child mode:* A grown-up cuts two slices. Put one on the plate. Give the other your change. Write the time.
 - **s3 (14 min)**  
-  *Parent does:* Every 10 minutes for an hour, score and draw both slices, and write the time.  
+  *Parent does:* Every 10 minutes for an hour, score both slices, take a photo or draw them, and write the time.  
   *Parent says:* Time for a look. Score both slices with the colour card. Draw them. Write the time.  
-  *Child mode:* Every 10 minutes, score both slices. Draw them. Write the time.
+  *Child mode:* Every 10 minutes, score both slices. Take a photo, or draw them. Write the time.
   - Note: In the fridge test, the cold slice usually browns much more slowly. In the salt test, the salty slice usually browns a little more slowly than the plain-water slice, but the difference may be small. If your child cannot see a difference, that is an honest result: write 'no clear difference'. Under an upside-down bowl, there is still air, so the slice usually browns almost as fast as the open one. Your child does not know this yet, so don't say it.
 - **s4 (5 min)**  
-  *Parent does:* Compare the two rows of drawings. Ask what your child found, and whether the plan worked.  
+  *Parent does:* Compare the two rows of photos or drawings. Ask what your child found, and whether the plan worked.  
   *Parent says:* What did your test show? Did your plan work? Is there anything you would change if you did it again?  
-  *Child mode:* What did your test show? Was your guess right? What would you change next time?
+  *Child mode:* Lay your two rows side by side. Which slice browned more, the normal one or the changed one?
   - Check: A slice under an upside-down steel bowl browned almost as fast as a slice in the open. Why? → **There was still air with oxygen inside the bowl**
 
 ## Activities
@@ -378,18 +378,18 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 ### a2 · Draw It Twice: memory and looking (12 min)
 - **record:** Put both drawings side by side and write three things the looking drawing has that the memory drawing doesn't.
 - **s1 (3 min)**  
-  *Parent does:* Keep the real leaf hidden. Ask your child to draw a leaf from memory.  
+  *Parent does:* Keep the real leaf hidden. Ask your child to draw a leaf from memory, or to list everything they remember about it.  
   *Parent says:* Draw a leaf from memory. You have seen so many of them. Put in everything you remember.  
-  *Child mode:* Draw a leaf from memory. Put in everything you remember.
+  *Child mode:* Draw a leaf from memory, or tell your grown-up everything you remember about it.
 - **s2 (6 min)**  
   *Parent does:* Give your child the real leaf, and the magnifying glass if you have one. Ask them to draw it again, looking closely. Remind them to use touch and smell too.  
   *Parent says:* Now here's a real one. Look closely. Draw it again. Look at the edge, the lines, the stalk. Touch it. Smell it.  
-  *Child mode:* Now look at a real leaf. Draw it again. Look at the edge. Look at the lines. Touch it. Smell it.
+  *Child mode:* Now look at a real leaf. Draw it again, or tell your grown-up what you see. Look at the edge and the lines. Touch it. Smell it.
   - Note: A curry leaf is really a small leaflet. On the stem there are many leaflets in two rows. Children usually notice the pattern of lines, called veins, only when they look. Crushing a corner gives the smell.
 - **s3 (3 min)**  
   *Parent does:* Put the two drawings side by side. Ask what the second one has that the first one is missing.  
   *Parent says:* Compare your two drawings. What did your memory leave out?  
-  *Child mode:* Put your two drawings side by side. What did your memory leave out?
+  *Child mode:* Put your two drawings, or your two lists, side by side. Find one thing only the second has.
   - Ask: What did you notice only when you looked? (good: The veins.; The wavy edge.; One side is a bit bigger.; The smell when I crushed it.)
 ### a3 · Window Watch: one minute every two hours (15 min)
 - **safety:** Stay inside the window or behind the balcony railing.
@@ -397,22 +397,22 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - **s1 (3 min)**  
   *Parent does:* 1. Choose one window. 2. Make the tally sheet together. 3. Set a reminder every two hours.  
   *Parent says:* We'll be scientists of our window today. Every two hours, we look for exactly one minute and make tally marks. What do you think will change through the day?  
-  *Child mode:* Pick one window. Make your tally sheet. Every two hours, look for one minute. What will change?
+  *Child mode:* Pick one window. Make your tally sheet. Every two hours, look for one minute.
   - Ask: What do you think will change through the day? Why? (good: More cars in the morning, because people go to work.; More crows in the morning.; The light changes.)
 - **s2 (10 min)**  
   *Parent does:* At each time, look out of the same window for one minute, and make tally marks. Write a word about the light.  
   *Parent says:* One minute starts now. Tally every crow, pigeon, person and vehicle you see.  
-  *Child mode:* Look for one minute. Make a mark for every crow, pigeon, person and car. Write about the light.
+  *Child mode:* Watch for one minute. Make a mark for each crow, pigeon, person and vehicle you see. Write a word for the light.
   - Note: Keep it to exactly one minute each time, using a timer. That makes the counts fair to compare. If you miss a time, write 'missed' rather than guessing.
 - **s3 (2 min)**  
   *Parent does:* In the evening, look at the whole sheet together. What changed through the day?  
   *Parent says:* Look at the whole day. When were there most people? When were there most crows? Would tomorrow be the same?  
-  *Child mode:* Look at your whole day. When did you see the most? Would tomorrow be the same?
+  *Child mode:* Look at your whole sheet. Point to the time with the most marks.
   - Note: Several days. One day can be unusual, for example if a loud lorry passed at one o'clock. A pattern is only believable when the same counts at the same times come out alike on many days.
   - Think: To be sure about a pattern, how many days would you need to watch?
 ### a4 · The Pencil Jump: Tycho's near-or-far test (6 min)
 - **problem:** When you look at something from two different places, a near thing seems to jump against the things far behind it. A very far thing does not seem to jump at all. In 1572 Tycho Brahe used this to find out whether a new star was near or far. Here you try it with a pencil.
-- **record:** Draw where the pencil seemed to be with the left eye, and with the right eye.
+- **record:** Say which jump was bigger: the pencil at arm's length, or the pencil near your nose. You can also draw where the pencil seemed to be with each eye.
 - **s1 (3 min)**  
   *Parent does:* 1. Hold a pencil at arm's length in front of a window. 2. Close your left eye, then open it and close your right eye. 3. Do it again with the pencil about a hand's width from your nose. Which time does it jump more?  
   *Parent says:* Hold the pencil out. Close one eye. Now swap. Does the pencil seem to jump? Does the building outside jump?  
@@ -421,7 +421,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - **s2 (3 min)**  
   *Parent does:* Talk about what it means for Tycho's new star.  
   *Parent says:* Your two eyes are in different places. A near thing seems to jump. A far thing doesn't. Tycho looked for a jump like this in his new star.  
-  *Child mode:* A near thing jumps. A far thing doesn't. Tycho looked for a jump in his new star.
+  *Child mode:* Your eyes were in two places, like Tycho's two nights of looking. Tycho looked for a jump in his new star.
   - Check: Tycho measured the new star many times. It never seemed to move against the stars near it. What did that show? → **The star was very far away, beyond the Moon**
 ### a5 · Same Spot, Same Time: a week of photos (19 min, 7 days)
 - **safety:** Take the photo from inside a window or behind the balcony railing.
@@ -429,7 +429,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - **schedule:** day 1: Choose a view, mark where you stand with tape, and take the first photo. (5 min); day 2: Take the photo from the tape mark at the same time. (1 min); day 3: Take the photo from the tape mark at the same time. (1 min); day 4: Take the photo from the tape mark at the same time. (1 min); day 5: Take the photo from the tape mark at the same time. (1 min); day 6: Take the photo from the tape mark at the same time. (1 min); day 7: Take the last photo, then look at all seven in a row and list the changes. (9 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Choose a view: a tree outside the window, a potted plant, or the fruit bowl. 2. Put tape on the floor where your child stands. 3. Take the first photo and note the time.  
-  *Parent says:* Every day this week, at this same time, you'll stand on this tape and take one photo. Why do you think we use the same spot and the same time?  
+  *Parent says:* Every day this week, at this same time, you will stand on this tape and take one photo.  
   *Child mode:* Stand on the tape. Take a photo of your view. Do it every day at this time.
   - Ask: Why do we use the same spot and the same time every day? (good: So the only change is in the view.; So the light is the same.; So the photos match.)
 - **s2 (5 min)**  
@@ -440,7 +440,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - **s3 (9 min)**  
   *Parent does:* On day 7, take the last photo. Look at all seven in a row with your child. List every change.  
   *Parent says:* Let's look at all seven. What changed? What changed so slowly you never noticed it day to day?  
-  *Child mode:* Look at all seven photos in a row. What changed? List everything.
+  *Child mode:* Lay all seven photos in a row. Point to everything that changed.
   - Note: A fruit bowl changes a lot in a week. A tree may show new leaves, flowers, fruit or a nest. Clouds, washing on lines and parked cars also change, and that's worth noticing: some things change slowly and some change fast.
 
 ## Projects
@@ -459,35 +459,35 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
   - Note: When the spots join together, counting gets hard. Then write 'too many to count' and give a colour score instead. That is a real problem scientists meet, and choosing a new way to record is good thinking. Ripening depends on how warm the room is. If few spots come, write 'none yet' and keep going: that is a real result.
   - Wait: Look again tomorrow morning, and every morning until day 5.
 - **s3 (8 min)**  
-  *Parent does:* On day 5, put the five photos or drawings in a row. Draw a bar chart of the spot counts.  
+  *Parent does:* On day 5, put the five photos or drawings in a row. Make a bar chart of the spot counts: draw a bar for each day, or stack one button for each spot.  
   *Parent says:* Let's look at all five days. When did the spots grow fastest? What do you think would happen by day 8?  
-  *Child mode:* Put your five days in a row. Draw a bar for each day's spots. When did they grow fastest?
+  *Child mode:* Put your five days in a row. For each day, make a bar of that day's spots: draw it, or stack one button for each spot.
   - Check: The brown spots on a banana were counted each morning: 0 on day 1, 2 on day 2, 6 on day 3 and 15 on day 4. What happened to the spots? → **They grew faster each day**
 ### p2 · A Tree From My Window: one month (40 min, 30 days)
 - **safety:** Watch from inside the window or behind the balcony railing.
-- **record:** On each look day, the date, a drawing, and answers to the same four questions: new leaves? flowers? fruit? visitors?
+- **record:** On each look day, the date, a drawing or photo, and answers to the same four questions: new leaves? flowers? fruit? visitors?
 - **schedule:** day 1: Choose the tree. Draw it. Write what you see: leaves, flowers, fruit, birds or insects. (15 min); day 8: Second look: draw and write the same things. (7 min); day 15: Third look. (7 min); day 22: Fourth look. (7 min); day 29: Last look. Compare all five records. (4 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Choose a tree you can see from home. 2. Decide the four questions you will answer each week. 3. Make the first drawing and record.  
   *Parent says:* This tree will be our study for a month. Every week we'll answer the same four questions. Same questions every time, so we can compare.  
-  *Child mode:* Pick your tree. Draw it. Answer four questions: new leaves? Flowers? Fruit? Visitors?
+  *Child mode:* Pick your tree. Draw it, or take a photo. Answer four questions: new leaves? Flowers? Fruit? Visitors?
   - Note: In Indian cities you may be watching a neem, gulmohar, mango, coconut or peepal. If no tree can be seen, use a potted plant. The SeasonWatch project, run by the Nature Conservation Foundation, collects exactly this kind of weekly tree record from children across India. You can send yours there too.
 - **s2 (21 min)**  
-  *Parent does:* On days 8, 15 and 22, answer the same four questions and make a drawing.  
+  *Parent does:* On days 8, 15 and 22, answer the same four questions and make a drawing or take a photo.  
   *Parent says:* Tree day. Same four questions. Anything new?  
-  *Child mode:* Look at your tree. Answer the four questions. Draw it.
+  *Child mode:* Look at your tree. Answer the four questions. Draw it, or take a photo.
   - Wait: Look again on days 8, 15 and 22.
 - **s3 (4 min)**  
   *Parent does:* On day 29, make the last look and the last drawing. Then compare all five records.  
   *Parent says:* What changed in a month? Did anything change that you never noticed on a single day?  
-  *Child mode:* Look at all five records. What changed?
+  *Child mode:* Lay out all five records. Find one thing that changed.
   - Note: Many years of records can show whether the leaves, flowers and fruit come earlier or later in some years, and whether this is slowly changing. A single month cannot show that.
   - Think: SeasonWatch has records from many years. What could many years show that one month cannot?
 
 ## Challenges
 ### c1 · Catch the Sunny Patch (30 min)
 - **problem:** On a sunny day, the bright patch from a window creeps across the floor. It moves too slowly to see. How can you record where it goes over two hours, while still doing other things?
-- **your turn:** Now design your own way to record the sunny patch. Draw your plan, try it for two hours, and show your record. What does it show that one look could not?
+- **your turn:** Now design your own way to record the sunny patch. Draw or tell your plan, try it for two hours, and show your record. What does it show that one look could not?
 - **constraints:** Use only things from home.; You may not sit and watch the whole time.; Your record must show where the patch was and at what time.; Don't put tape where it may peel paint, and ask before marking the floor.
 - **general:** Lay a big sheet of paper or newspaper on the floor where the patch is, and trace its edge every 15 minutes, writing the time on each outline.; Put a small piece of tape at one corner of the patch every 15 minutes, with the time written on it.; Take a photo from the same spot every 15 minutes.
 - **creative:** Put a steel tumbler in the patch and draw the edge of its shadow every 15 minutes. The shadow moves as the patch does.; Set a phone to take a time-lapse video from a chair, and watch two hours in a few seconds.; Trace the patch in a different colour each time, so the outlines make a rainbow fan.
@@ -498,7 +498,7 @@ So Farzana kept checking, once a month now. Imran gave up on the crack. But he d
 - **s2 (7 min)**  
   *Parent does:* Draw three ideas for recording the patch without watching all the time. Choose one.  
   *Parent says:* Engineers draw before they build. What are three ways to record where the patch goes, and when?  
-  *Child mode:* Draw three ideas. How can you record the patch without watching all the time? Pick one.
+  *Child mode:* Draw or tell your grown-up three ideas. Pick one.
   - Ask: How often will you mark the patch, and why that often? (good: Every 15 minutes, because it moves slowly.; Every 10 minutes, so I can see small steps.)
 - **s3 (15 min)**  
   *Parent does:* Carry out the plan for about two hours. Each mark takes about two minutes, so the marking is about 15 minutes of work in all, spread over the two hours.  

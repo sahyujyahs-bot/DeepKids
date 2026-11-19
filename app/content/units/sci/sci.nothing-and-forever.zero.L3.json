@@ -446,10 +446,10 @@
      "mins": 3,
      "do": "Play a practice roll together, then ask the check question.",
      "say": "Practice round. The goal is the biggest number. You rolled a 6, so it is a zero. Where should it go?",
-     "kid": "Practice. The goal is the biggest number. You rolled a 6. That is a zero. Where will you put it?",
+     "kid": "Roll the dice for practice. A 6 is a zero. Think before you choose a box.",
      "check": {
       "t": "mcq",
-      "q": "The goal is the BIGGEST number. You roll a zero first. Which box is best?",
+      "q": "The goal is the BIGGEST number. You roll a 6, which is a zero. Which box should it go in?",
       "options": [
        "Hundreds",
        "Tens",
@@ -515,7 +515,7 @@
      "mins": 2,
      "do": "1. Give out the score sheet. 2. Choose who bats first and who scores.",
      "say": "In this game every ball must go on the sheet. A ball with no runs gets a dot, never a blank.",
-     "kid": "Read the key at the top of the sheet. A roll of 3 or 5 is a dot ball. Draw a dot for it, never a blank.",
+     "kid": "Read the key at the top of the sheet. A roll of 3 or 5 is a dot ball. Make a dot for it, never a blank.",
      "context": "This is the first step of Dot Ball Cricket, a dice cricket game where every ball is marked, even the ones with no runs."
     },
     {
@@ -530,8 +530,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Add up both teams' runs, then ask the check question.",
-     "say": "Who won? Now, why do scorers draw dots?",
-     "kid": "Add up the runs. Who won? Why do we draw dots?",
+     "say": "Who won? Now a question about dots.",
+     "kid": "Add up the runs. Who won?",
      "check": {
       "t": "mcq",
       "q": "Why does a cricket scorer draw a dot for a ball with no runs?",
@@ -782,7 +782,7 @@
      "what": "Measure 5 things from the ruler's end and from its 0 mark. Find the difference each time."
     }
    ],
-   "record": "Fill in the table. Draw the end of your ruler, and colour the strip before the 0.",
+   "record": "Fill in the table. Tell your grown-up what the strip before the 0 did to every length. Draw the end of your ruler too, if you like.",
    "flow": [
     {
      "id": "s1",
@@ -838,8 +838,8 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "If you have a tailor's tape or a second ruler, check where its 0 is.",
-     "say": "Where does the tailor's tape start? Why do you think it starts right at the tip?",
+     "do": "If you have a tailor's tape or a second ruler, check where its 0 is. If not, look at your ruler again.",
+     "say": "Where does the tailor's tape start? Find its 0.",
      "kid": "Look at the tailor's tape. Where is its 0?",
      "ask": [
       {
@@ -929,8 +929,8 @@
      "id": "s1",
      "mins": 2,
      "do": "Put an empty plate on the table and ask the question below.",
-     "say": "How many idlis are on this plate? Is 'none' a number?",
-     "kid": "Look at the empty plate. How many idlis are on it? Is 'none' a number?",
+     "say": "Look at this plate. Is 'none' a number?",
+     "kid": "Look at the empty plate. Think: is 'none' a number?",
      "ask": [
       {
        "q": "How many idlis are on the plate?",
@@ -970,7 +970,7 @@
      "parent": "Notice which zeros are 'none' and which are holding a place, like the 0 in 30 or in a pin code such as 600 028. You will come back to this difference."
     }
    ],
-   "context": "A quick hunt to start the unit. You find things there are zero of, and places where the sign 0 is written.",
+   "context": "A quick hunt to start the unit. You will find out where zero hides around your home: things there are none of, and places where the sign 0 is written.",
    "setup": [
     {
      "art": "An empty steel plate on a kitchen table, a child pointing at it and holding up a closed fist for zero.",
@@ -1009,7 +1009,7 @@
      "what": "Make 25, 205, 250 and 520 with beans in three katoris. Take away the empty katori and see what happens."
     }
    ],
-   "record": "Draw the katoris for 205 and write the number under them.",
+   "record": "Make 205 in the katoris, then write the number on a paper. Take a photo, or draw the katoris, if you like.",
    "flow": [
     {
      "id": "s1",
@@ -1095,7 +1095,7 @@
      "what": "Test adding, taking away and multiplying with zero using beans. Try to share 12 beans into groups of zero. Check on a calculator."
     }
    ],
-   "record": "Write each rule you tested, with a small drawing of the beans.",
+   "record": "Write each rule you tested. Show the beans with a photo or a small drawing.",
    "flow": [
     {
      "id": "s1",
@@ -1135,7 +1135,7 @@
      "mins": 5,
      "do": "1. Make a heap of 12 beans. 2. Share them into groups of 4, then of 2, then of 1. Count the groups each time. 3. Now try groups of 0: put 0 beans in a katori, again and again.",
      "say": "Twelve beans in groups of 4. How many groups? Groups of 2? Of 1? Now groups of 0. What is happening to the heap?",
-     "kid": "Share 12 beans into groups of 4. Count the groups. Now groups of 2. Then 1. Now try groups of 0. What happens to the heap?",
+     "kid": "Share 12 beans into groups of 4. Count the groups. Now groups of 2. Then 1. Now try groups of 0, again and again.",
      "ask": [
       {
        "q": "What happens when each group has 0 beans?",
@@ -1272,7 +1272,7 @@
      "what": "Draw a number line from -3 to 5. Move a toy up and down it like a lift."
     }
    ],
-   "record": "Draw your number line and mark G as 0.",
+   "record": "Keep your number line with G marked as 0. Tell your grown-up one lift ride you made.",
    "flow": [
     {
      "id": "s1",
@@ -1287,7 +1287,7 @@
      "mins": 5,
      "do": "Ask lift questions, such as 'Start at 2, go down 3 floors. Where are you?' Your child moves the toy along the number line to check.",
      "say": "Start on floor 2. Go down 3 floors. Where are you now?",
-     "kid": "Put your toy on 2. Go down 3 floors. Where are you?",
+     "kid": "Put your toy on floor 2. Ride it down 3 floors.",
      "ask": [
       {
        "q": "Floor 2, down 3 floors. Where are you?",
@@ -1369,31 +1369,31 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Draw a long line and write 'Today' at the right end. 2. Add: Babylon gap mark (about 2,300 years ago), Brahmagupta's rules (628), the Gwalior stone (876), al-Khwarizmi (about 825), Fibonacci (1202). 3. Draw a small picture for each.",
-     "say": "Let's draw the story of zero as a line through time. Which came first?",
-     "kid": "Draw a long line. Put Today at the end. Add each event in the right order. Draw a small picture for each one.",
+     "do": "1. Draw a long line and write 'Today' at the right end. 2. Write each of these on its own slip of paper, not in order: Babylon gap mark (about 2,300 years ago), Brahmagupta's rules (628), the Gwalior stone (876), al-Khwarizmi (about 825), Fibonacci (1202). 3. Lay the slips along the line in the right order.",
+     "say": "Let's lay out the story of zero along a line through time. Which came first?",
+     "kid": "Draw a long line. Put Today at the end. Lay the event slips along it in the right order. Add a small picture to a slip if you like.",
      "parent": "Check the order with your child: Babylon, then Brahmagupta in 628, then al-Khwarizmi in about 825, then the Gwalior stone in 876, then Fibonacci in 1202.",
      "context": "This is day 1 of a 2-day project. You draw the story of zero on a timeline."
     },
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Draw a simple map with India, Baghdad, North Africa and Italy. 2. Draw zero's path with arrows. 3. Write its name at each stop: shunya, sifr, zephirum, zero. 4. Your child tells the story to the family.",
+     "do": "1. Look at the world map. Find India, Baghdad, North Africa and Italy, and put a button on each. 2. Lay a string from India to Baghdad to North Africa to Italy. 3. Put a slip with its name at each stop: shunya, sifr, zephirum, zero. 4. Your child tells the story to the family.",
      "say": "Now the map. Zero's name changed as it travelled. Let's write each name where it was used.",
-     "kid": "Draw the map. Draw arrows from India to Baghdad to Italy. Write zero's name at each place. Then tell your family the story.",
+     "kid": "Find the four places on the map. Lay the string from India to Baghdad to Italy. Put zero's name at each place. Then tell your family the story.",
      "wait": "Do this the next day.",
      "parent": "Shunya is Sanskrit for empty. Sifr is Arabic for empty. Zephirum is the Latin word made from sifr. In Italian it became zefiro, and then zero."
     }
    ],
-   "context": "In this 2-day project you draw a timeline and a map of how zero travelled from India across the world.",
+   "context": "In this 2-day project you build a timeline and a map of how zero travelled from India across the world. You will see how long it took, and how its name changed on the way.",
    "setup": [
     {
      "art": "A long paper timeline on the floor with small drawings: a clay tablet, an astronomer, a carved stone, a book.",
-     "caption": "1. Day 1: draw zero's story on a timeline."
+     "caption": "1. Day 1: lay out zero's story on a timeline."
     },
     {
      "art": "A hand-drawn map with arrows from India to Baghdad to Italy and the words shunya, sifr, zephirum, zero.",
-     "caption": "2. Day 2: draw the map of zero's journey and its names."
+     "caption": "2. Day 2: follow zero's journey on a map, with its names."
     }
    ]
   }
@@ -1436,9 +1436,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Draw three ideas together, then pick one to try.",
-     "say": "Inventors try many ideas first. Let's draw three ways to show an empty place.",
-     "kid": "Draw three ideas. Pick your favourite."
+     "do": "Try three ideas together on scrap paper, then pick one to test.",
+     "say": "Inventors try many ideas first. Let's try three ways to show an empty place.",
+     "kid": "Try three ideas for showing an empty place. Use marks, or buttons and coins. Pick your favourite."
     },
     {
      "id": "s3",
@@ -1501,7 +1501,7 @@
      "mins": 5,
      "do": "Talk about the problem. Look again at the katori abacus, the three katoris for hundreds, tens and ones.",
      "say": "Our katori abacus had 3 places. Can we build one with 4 places that will show 1,005?",
-     "kid": "Your katori abacus had three places. Can you build one with four?",
+     "kid": "Think of your katori abacus with its three places. You will now build one with four.",
      "context": "This is the first step of a building challenge. You build a counting frame that shows numbers with empty places, like 1,005."
     },
     {

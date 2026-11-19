@@ -205,8 +205,8 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   - Check: The card says 'Salt water'. Where does it go? → **Neutral**
 - **s3 (2 min)**  
   *Parent does:* Look at the Grown-ups only cards together.  
-  *Parent says:* Chuna is a strong base and toilet cleaner is a strong acid. They sit under different headings. What do they have in common?  
-  *Child mode:* Chuna and toilet cleaner. Why are they for grown-ups only?
+  *Parent says:* Chuna is the lime paste used on walls. It is a strong base. Toilet cleaner is a strong acid. They sit under different headings. Why are both for grown-ups only?  
+  *Child mode:* Look at the chuna card and the toilet cleaner card. What could they do to your skin?
   - Note: They are on opposite sides of the line, but both are strong, so both burn. Strength matters more than which side a thing is on.
 ### g2 · Back to Purple: a colour line board game (15 min)
 - **rules:** Each player draws a start card and puts their token on that square. Two tokens may share a square.; Shuffle the action cards into a pile, face down.; On your turn, draw an action card, read the front aloud, say which way you think you will move, then read the back and move.; You cannot move past square 1 or square 13. Stop at the end square.; If you land exactly on square 7, purple, you win. If a card takes you across square 7, you do not stop there: keep playing from where you land.; When the pile runs out, shuffle it and use it again. If nobody has landed on purple after the pile has been used twice, the player closest to square 7 wins.; The game is for 2 to 4 players.
@@ -235,7 +235,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - **predict:** Look at the eight liquids. Which ones do you think will turn the cabbage water pink, which will leave it purple, and which will turn it blue or green? Why do you think so?
 - **fair test:** Every glass gets the same amount of cabbage water, a quarter of a cup. Every liquid goes in as two teaspoons. Powders are first stirred into a little water. Only the liquid changes. One glass gets two teaspoons of plain water, so you can compare every other colour with it.
 - **safety:** Taste nothing in this test. A grown-up makes the detergent water and keeps it away from eyes and mouth. Wash hands after touching soap or detergent. Never use toilet cleaner, drain cleaner or chuna: they are strong enough to burn.
-- **record:** Fill in the table. Then colour a long strip with a box for each liquid in the order of your line, from pinkest to greenest, and write the liquid's name under each box.
+- **record:** Fill in the table. Then take a photo of your line of glasses, or write the liquids' names in order from pinkest to greenest.
 - **results table:** Liquid | My guess: pink, purple or blue-green? | Colour I saw | Acid, neutral or base? | Place in the line (1 = pinkest)
 - **s1 (7 min) · grown-up needed**  
   *Parent does:* 1. Tear three red cabbage leaves into the mixie jar. 2. Add three cups of water. 3. Blend for about 30 seconds. 4. Pour it through a tea strainer into a jug.  
@@ -244,7 +244,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   - Note: The water should come out dark purple. If it looks very dark, add another cup of water, so the colour changes are easier to see. Cabbage water keeps for two or three days in the fridge. If you saved some from The Purple Surprise, add it.
 - **s2 (5 min)**  
   *Parent does:* 1. Put nine clear glasses on a white sheet of paper. 2. Pour a quarter cup of cabbage water into each. 3. Put a label in front of each glass with a liquid's name. One label says 'plain water'.  
-  *Parent says:* Each glass gets the same amount of cabbage water. Why do you think we keep one glass for plain water?  
+  *Parent says:* Each glass gets the same amount of cabbage water. One glass will only get plain water, so we have a purple glass to compare with.  
   *Child mode:* Pour the same amount into each glass. Put a label in front of each one.
   - Ask: Why do we keep one glass for plain water? (good: So we can see what colour it is when nothing sour or soapy is added.; To compare the other glasses with it.)
   - Note: The white paper underneath makes the colours much easier to see. The plain water glass is the control: it shows the colour with nothing added.
@@ -266,22 +266,22 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?  
-  *Child mode:* Say or write three things. What I think. What I saw. Why I think it happened.
+  *Child mode:* Look along your line of glasses. Say what you think, what you saw, and why.
   - Note: This is called claim, evidence and reasoning. A strong answer sounds like this: 'Sour things are acids. Lemon and vinegar turned the water pink. Soap and soda turned it green, so they are bases. Buttermilk was only a bit pink, so it is only a bit acidic.' Then colour the strip in the record.
 ### e2 · Lemon or Buttermilk: which needs more soda water to turn purple again? (25 min)
 - **question:** Pink cabbage water made with lemon juice, and pink cabbage water made with buttermilk: which one needs more spoons of soda water to turn purple again?
 - **predict:** Which glass do you think will need more spoons of soda water to turn purple: the lemon glass or the buttermilk glass? Why do you think so?
 - **fair test:** Both glasses get a quarter cup of cabbage water and one teaspoon of the sour liquid. Both get the same soda water, one teaspoon at a time, stirred each time. Stop counting when the glass is the same purple as a glass of plain cabbage water.
-- **record:** Fill in the table. Draw the two glasses at the start and at the end, and write the number of spoons under each.
+- **record:** Fill in the table. Write the number of spoons it took for each glass. Take a photo of the two glasses at the start and at the end, or draw them.
 - **results table:** Sour liquid | Colour at the start | My guess: spoons to purple | Spoons of soda water to purple | Colour after 3 more spoons
 - **s1 (5 min)**  
   *Parent does:* 1. Pour a quarter cup of cabbage water into each of three glasses. 2. Add one teaspoon of lemon juice to the first glass. 3. Add one teaspoon of buttermilk to the second. 4. Leave the third glass plain.  
-  *Parent says:* Which glass is pinker, the lemon or the buttermilk? The plain glass shows us the purple we are aiming for.  
+  *Parent says:* The lemon and buttermilk glasses will turn pink. The plain glass shows us the purple we are aiming for.  
   *Child mode:* Fill three glasses. Add lemon to one. Add buttermilk to one. Leave one plain.
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess and a reason. Write it in the table.  
-  *Parent says:* Soda water moves the colour towards blue. Which pink glass will need more spoons of soda water to become purple? Why?  
-  *Child mode:* Which glass needs more spoons to turn purple? Lemon or buttermilk? Why?
+  *Parent says:* Soda water moves the colour towards blue. Which pink glass will need more spoons of soda water to become purple?  
+  *Child mode:* Guess which glass needs more spoons to turn purple: lemon or buttermilk?
   - Ask: Why do you think so? (good: The lemon glass is pinker, so it has more acid to use up.; Lemon tastes more sour than buttermilk.)
   - Note: Any reason is good if it is their own. The pinker glass hints that lemon juice is the stronger acid.
 - **s3 (9 min)**  
@@ -298,19 +298,19 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - **s5 (5 min)**  
   *Parent does:* Ask your child three things: what they found, what they saw that shows it, and why they think it happened.  
   *Parent says:* What did you find? What did you see that shows it? Why do you think it happened?  
-  *Child mode:* What did you find? What did you see? Why?
+  *Child mode:* Look at your tally marks. Tell your grown-up what you found.
   - Note: A strong answer: 'Lemon juice has more acid than buttermilk. The lemon glass took six spoons to turn purple and the buttermilk took one. The soda water uses up the acid, so more acid needs more soda.'
 ### e3 · Milk to Curd: does the colour change as the curd sets? (25 min, 2 days)
 - **question:** Does milk become more acidic as curd bacteria turn the milk into curd, and does curd keep getting more acidic the longer it sits?
 - **predict:** Which will turn cabbage water pinkest: fresh milk, curd set for one day, or curd set for two days? Why do you think so?
 - **fair test:** Use the same milk and the same spoon of starter curd for both katoris. Keep both katoris in the same place in the kitchen, covered. On the test day, put one teaspoon of each into a quarter cup of cabbage water, all at the same time, side by side.
 - **safety:** A grown-up boils the milk and checks it has cooled before the child touches it.
-- **record:** Fill in the table. Draw the three glasses side by side and colour them.
+- **record:** Fill in the table. Line up the three glasses side by side and take a photo, or draw and colour them.
 - **results table:** Sample | How long it sat | My guess: colour | Colour I saw | Order: 1 = pinkest
 - **schedule:** day 1: Morning: set curd in katori A with half a cup of warm milk and half a teaspoon of curd. Cover it. (5 min); day 2: Morning: set curd in katori B the same way. Evening: make cabbage water and test fresh milk, katori B and katori A side by side. (20 min)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Pour half a cup of warm milk into katori A. 2. Stir in half a teaspoon of curd. 3. Cover it and label it 'A, Day 1'. 4. Keep it in a warm corner of the kitchen.  
-  *Parent says:* The curd we add is full of living bacteria. They will eat the milk sugar. Feel the milk first: is it just warm?  
+  *Parent says:* The curd we add is full of bacteria. Bacteria are tiny living things, too small to see. They will eat the milk sugar. Feel the milk first: is it just warm?  
   *Child mode:* Feel the milk. Is it just warm? Stir in a little curd. Cover it.
   - Note: Milk that is too hot can kill the bacteria, and cold milk sets very slowly. Just warm on a finger is right. In most Indian kitchens curd sets in 6 to 10 hours, faster in summer.
 - **s2 (5 min) · grown-up needed**  
@@ -321,8 +321,8 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   - Wait: Set katori B on the morning of day 2. Test in the evening.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Make cabbage water as in the Cabbage Colour Line test: blend two cabbage leaves with two cups of water and strain it. 2. Ask for a guess and a reason before testing.  
-  *Parent says:* Fresh milk, katori B and katori A. Which will make the cabbage water pinkest? Why do you think so?  
-  *Child mode:* A grown-up blends the cabbage and water. Strain it. Which will be pinkest: milk, B or A? Why?
+  *Parent says:* We will test fresh milk, katori B and katori A with cabbage water. Which will make it pinkest?  
+  *Child mode:* A grown-up blends the cabbage and water. Pour it through the strainer.
   - Ask: Why do you think so? (good: Katori A has sat the longest, so the bacteria have made the most acid.; Older curd tastes more sour.)
 - **s4 (5 min)**  
   *Parent does:* 1. Pour a quarter cup of cabbage water into three glasses on white paper. 2. Add one teaspoon of fresh milk to the first, katori B curd to the second, and katori A curd to the third. 3. Stir and compare.  
@@ -332,14 +332,14 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   - Check: The curd glasses were pinker than the milk glass. Where did the acid come from? → **The curd bacteria made the acid while they ate the milk sugar**
 - **s5 (2 min)**  
   *Parent does:* Talk about why the bacteria make acid.  
-  *Parent says:* Many other microbes would like to eat this milk too. Most of them do not grow well in sour milk. How does the acid help the curd bacteria?  
-  *Child mode:* Other microbes want the milk too. How does sourness help the curd bacteria?
+  *Parent says:* Many other microbes would like to eat this milk too. Microbes are tiny living things, like bacteria. Most of them do not grow well in sour milk. How does the acid help the curd bacteria?  
+  *Child mode:* Think about it, then tell your grown-up what you think.
   - Note: A good answer: the acid keeps many other microbes away, so the curd bacteria keep the milk for themselves. It is also why curd stays good longer than milk.
 
 ## Activities
 ### a1 · The Purple Surprise: make cabbage water (10 min)
 - **safety:** A grown-up runs the mixie.
-- **record:** Draw the two glasses and write one thing you noticed and one thing you wonder.
+- **record:** Say one thing you noticed and one thing you wonder. Your grown-up writes them down.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Blend two red cabbage leaves with two cups of water. 2. Strain it into a jug. 3. Pour a little into two clear glasses.  
   *Parent says:* Look at the colour of this water. Where did the purple come from?  
@@ -352,7 +352,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - **s3 (3 min)**  
   *Parent does:* Ask what your child notices and what they wonder.  
   *Parent says:* What do you notice? What do you wonder? What else from the kitchen might change the colour?  
-  *Child mode:* What do you notice? What do you wonder? What else might change it?
+  *Child mode:* Look at both glasses. Tell what you notice.
   - Ask: What do you wonder? (good: Will other sour things turn it pink too?; Can we make it go back?; What will soap do?)
   - Note: Write down their questions. The Cabbage Colour Line test will answer many of them.
 ### a2 · Sour or Slippery? A safe taste and touch test (10 min)
@@ -361,7 +361,7 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - **s1 (4 min)**  
   *Parent does:* Give your child one food at a time to taste.  
   *Parent says:* Taste this. Is it sour? A little sour or very sour?  
-  *Child mode:* Taste each food. Is it sour? A little or a lot?
+  *Child mode:* Taste each food. Tell your grown-up how sour it is.
   - Note: All of these are sour because they contain weak acids: citric acid in lemon, tartaric acid in tamarind, lactic acid in curd.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to rub their fingers together in the soapy water, then in the plain water.  
@@ -371,10 +371,10 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 - **s3 (3 min)**  
   *Parent does:* Talk about why we never test by tasting.  
   *Parent says:* Sour and slippery are clues. But why do scientists never taste a liquid to find out what it is?  
-  *Child mode:* Why should we never taste a liquid to test it?
+  *Child mode:* Say one reason a scientist would not taste an unknown liquid.
   - Check: You find a bottle with no label. How should you find out if it is an acid? → **Give it to a grown-up and never taste or smell it**
 ### a3 · The Fizz Test: lemon on cooking soda (10 min)
-- **record:** Draw the three heaps after the lemon drops, and write which ones fizzed.
+- **record:** Write which heaps fizzed and which did not. Take a photo of the three heaps if you like.
 - **s1 (3 min)**  
   *Parent does:* Make three small heaps on the plate: cooking soda, salt and sugar. Ask for a guess.  
   *Parent says:* All three are white powders. What will happen when lemon juice drips on each one? Why?  
@@ -386,8 +386,8 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
   - Note: Only the cooking soda fizzes. The bubbles are carbon dioxide gas, made when the acid and the base react. Salt and sugar are neutral, so nothing happens.
 - **s3 (3 min)**  
   *Parent does:* Tell the story of Lémery's idea in one or two sentences, then ask.  
-  *Parent says:* Long ago a chemist said acids have tiny spikes that break inside a base, and that makes the fizz. Nobody ever saw the spikes. What would you need to see to believe him?  
-  *Child mode:* A chemist once said acids have tiny spikes. Nobody saw them. Would you believe it? Why?
+  *Parent says:* Long ago a chemist said acids have tiny spikes that break inside a base, and that makes the fizz. Nobody ever saw the spikes.  
+  *Child mode:* Would you believe him? What would you need to see first?
   - Note: A good answer is that you would want to see the spikes, or find another test that shows them. Chemists looked for 200 years and never found any. Later they found that every acid gives out charged hydrogen particles in water, which explains the sourness and the fizz.
   - Check: Only the cooking soda fizzed. Why? → **Cooking soda is a base, and it reacted with the acid in the lemon**
 ### a4 · Kitchen and Bathroom Hunt: sour, soapy, neutral or never touch (15 min)
@@ -440,12 +440,12 @@ Thatha took out his old recipe notebook. Under 'Red cabbage poriyal' he wrote: "
 ## Challenges
 ### c1 · A Rainbow in Six Glasses (25 min)
 - **problem:** Make a row of six glasses of cabbage water: red, pink, purple, blue, green and yellow-green, using only safe things from the kitchen and bathroom.
-- **your turn:** Now plan your own rainbow. Write down what you will put in each glass before you start, then test it and see which glasses you need to fix.
+- **your turn:** Now plan your own rainbow. Say or write down what you will put in each glass before you start, then test it and see which glasses you need to fix.
 - **constraints:** Use only cabbage water and safe home liquids: no cleaners, no chuna.; Every glass starts with the same amount of cabbage water.; The six colours must be clearly different when the glasses stand on white paper.
 - **general:** Use lemon juice for red, a little vinegar or buttermilk for pink, plain water for purple, soda water for blue, a little detergent water for green and a lot of detergent water for yellow-green.; Change how much you add: more lemon makes a deeper red, and more detergent pushes green towards yellow.
 - **creative:** Make the in-between colours by mixing: a pink glass plus a little soda water makes violet.; Pour a second colour slowly down the back of a spoon into a tall glass. Both colours are mostly water, so they mix and do not stay in layers. Stir gently and look at the colour in between.; Make the rainbow on paper with your cabbage test strips instead of glasses.
 - **s1 (6 min)**  
-  *Parent does:* Ask your child to write a plan for the six glasses.  
+  *Parent does:* Ask your child to plan the six glasses, out loud or in writing.  
   *Parent says:* What will you add to each glass to get each colour? Use what you found in the Colour Line test.  
   *Child mode:* Plan your six colours. What goes in each glass?
 - **s2 (12 min) · grown-up needed**  

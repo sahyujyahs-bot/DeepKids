@@ -241,7 +241,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Child mode:* Put your drop on Home. Follow the loop with your finger.
 - **s2 (14 min)**  
   *Parent does:* Play. When someone places a token, ask where that thing would really go.  
-  *Parent says:* You poured oil down the sink. Look, the oil stays on the Drain square. Who will land there next?  
+  *Parent says:* If a card says you poured oil down the sink, the oil token stays on the Drain square. Who will land there next?  
   *Child mode:* Roll and move. Read your card. Tokens stay on the board!
   - Note: The point is that nothing leaves the loop. Even the Dump yard sits beside the board. Players soon start carrying tokens to the Dump yard to free the others. Let that happen without telling them to.
 - **s3 (3 min)**  
@@ -257,7 +257,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - **predict:** Which box will keep its seedlings green longer, the closed one or the open one? Why do you think so? Think about water, and think about air.
 - **fair test:** Both boxes are the same size. Each gets the same cotton, the same 3 tablespoons of water and 10 soaked moong seeds from the same bowl. Both stand side by side in the same place. Only one thing is different: one box has its lid on. We use 10 seeds, not 1, because one seed might be dead.
 - **safety:** If white or grey fuzzy mould grows, do not open the box near your face. Throw the cotton and seeds in the wet waste at the end, and wash the boxes and your hands.
-- **record:** Fill in the table on days 2, 4 and 7. On day 7, draw both boxes side by side and draw arrows where you think the water went in each.
+- **record:** Fill in the table on days 2, 4 and 7. On day 7, take a photo of both boxes side by side, or draw them. Then tell your grown-up where you think the water went in each.
 - **results table:** Day | Closed box: drops on the lid? | Closed box: cotton damp or dry? | Closed box: seedlings | Open box: cotton damp or dry? | Open box: seedlings
 - **schedule:** day 0: The night before: soak 20 moong seeds in a bowl of water. (2 min); day 1: Set up both boxes with the same cotton, water and seeds. Guess what will happen and why. Close one lid and put both in a bright place. Weigh both boxes if you have a scale. (16 min); day 2: Look for drops on the lid of the closed box. Touch the cotton in the open box. Fill in the table. (3 min); day 4: Look at both boxes again and fill in the table. (3 min); day 7: Look at both boxes one last time and weigh them. Say what happened, what you saw that shows it, and why you think it happened. Then talk about how Earth is like the closed box. (11 min)
 - **s0 (2 min)**  
@@ -266,14 +266,14 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Child mode:* Put 20 moong seeds in a bowl. Cover them with water.
   - Note: Soaking for 8 to 12 hours makes the seeds sprout within a day. Any whole green moong from the kitchen works. Split moong dal will not sprout.
 - **s1 (6 min)**  
-  *Parent does:* 1. Lay cotton wool about 1 cm thick in each box. 2. Pour 3 tablespoons of water evenly over each cotton. 3. Spread 10 soaked seeds on each. 4. Label one box 'Lid on' and one 'Lid off'.  
+  *Parent does:* 1. Lay cotton wool about 1 cm thick in each box. 2. Pour 3 tablespoons of water evenly over the cotton in each box. 3. Spread 10 soaked seeds on each. 4. Label one box 'Lid on' and one 'Lid off'.  
   *Parent says:* Both boxes get exactly the same cotton, the same water and the same number of seeds. Why do you think that matters?  
   *Child mode:* Put cotton in both boxes. Add 3 spoons of water to each. Put 10 seeds on each.
   - Note: Count the spoons aloud together. Keeping everything the same means any difference must come from the lid. The cotton should be damp all through, with no pool of water on top.
 - **s2 (6 min)**  
   *Parent does:* Hold up the lid. Ask your child to guess before you close it. Wait for a guess and a reason.  
   *Parent says:* I'm going to close this box tight and leave the other one open. We won't add any more water for a week. Which seeds do you think will do better? Why?  
-  *Child mode:* Guess first. Which box will keep its seedlings green? Why?
+  *Child mode:* Guess first, before the lid goes on. Tell your grown-up why you think so.
   - Ask: What do you think will happen in the closed box? (good: Any guess with a reason. Many children say the closed seeds will die because they have no air. Others say the closed box will keep its water. Both are good guesses.)
   - Note: Do not hint. Write the guess and the reason on the label or in the notebook, so you can look back on day 7.
 - **s3 (4 min)**  
@@ -290,7 +290,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - **s5 (3 min)**  
   *Parent does:* On day 4: look at both boxes and fill in the table again.  
   *Parent says:* What has changed in each box since day 2? Look at the cotton, the drops and the seedlings.  
-  *Child mode:* Look at both boxes. What changed? Fill in your table.
+  *Child mode:* Look at both boxes. Write what you see in your table.
   - Note: In a warm Indian home, the open box's cotton is often dry by day 3 or 4, and those seedlings start to droop. In cool or rainy weather it may take a few days longer, so keep checking until there is a clear difference. The closed box should still be misty, with seedlings growing up towards the lid.
   - Wait: Day 4
 - **s6 (6 min)**  
@@ -304,7 +304,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - **s7 (5 min)**  
   *Parent does:* Talk about why the closed seedlings did not run out of air. Then talk about Earth.  
   *Parent says:* The closed box never got new air. In the light, the leaves make food from water and carbon dioxide, and they give out oxygen. The seedlings and the microbes breathe that oxygen in again, and give out carbon dioxide for the leaves to use. So the same air went round and round. Earth is a bit like this box. What do you think comes into Earth from outside?  
-  *Child mode:* Nothing new came into the closed box. Only light. Is Earth like that?
+  *Child mode:* Think about the closed box. Is Earth a bit like it?
   - Check: What came into the closed box from outside during the week? → **Only light**
 ### e2 · The Drain Test: does washing powder in water change how seeds sprout? (27 min, 4 days)
 - **problem:** Water from washing clothes and dishes goes down the drain, and some of it reaches lakes where seeds and plants live. You will sprout seeds in plain water and in soapy water, and see whether soap harms them.
@@ -312,7 +312,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - **predict:** Which cup of seeds will grow the longest roots by day 3: plain water, a little soap or a lot of soap? Why do you think so?
 - **fair test:** The three tumblers are the same size and filled to the same level. Each cup gets the same cotton, 10 seeds from the same packet and 2 tablespoons of water from its own tumbler. All three cups stand together in the same place. Only the water changes. If a cup dries, we add more water from its own tumbler.
 - **safety:** A grown-up mixes the washing powder. Keep it away from eyes and mouths. Wash hands after touching soapy cotton. Pour the soapy water away at the end into the toilet, not onto a potted plant.
-- **record:** Fill in the table on days 2 and 3. Draw one seedling from each cup, the same size as in real life.
+- **record:** Fill in the table on days 2 and 3. Then lay one seedling from each cup on a page and take a photo, or draw it the same size as in real life.
 - **results table:** Cup | Seeds sprouted on day 2 (out of 10) | Seeds sprouted on day 3 (out of 10) | Longest root on day 3 (cm) | What the roots look like
 - **schedule:** day 1: Mix the three waters: plain, a little washing powder and a lot. Set up three cups with 10 seeds each. Guess which cup will grow best, and give a reason. (15 min); day 2: Count the sprouted seeds in each cup. If a cup is drying, add a spoon of water from its own tumbler. (3 min); day 3: Count again and measure the longest root in each cup. Say what the soap did, what you saw that shows it, and why you think it happened. (7 min); day 4: One last look. Clear up. (2 min)
 - **s1 (6 min) · grown-up needed**  
@@ -322,8 +322,8 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   - Note: A pinch is about what you hold between two fingers. A level teaspoon in a tumbler is far stronger than most drain water, so it makes the effect easy to see.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Put cotton in each of three cups. 2. Pour 2 tablespoons of plain water on the first, 2 tablespoons of the 'a little' water on the second, and 2 tablespoons of the 'a lot' water on the third. 3. Put 10 dry moong seeds on the cotton in each cup. 4. Label the cups.  
-  *Parent says:* Which cup do you think will grow the longest roots? Why do you think so?  
-  *Child mode:* Put 10 seeds on the cotton in each cup. Which cup do you think will grow best? Why?
+  *Parent says:* Now we plant seeds in three cups, each with a different water. Which cup do you think will grow the longest roots? Why?  
+  *Child mode:* Put 10 seeds on the cotton in each cup.
   - Ask: What do you think the soap will do? (good: Any guess with a reason, for example that soap cleans, so it cannot hurt, or that soap is not meant for plants, so it may harm them.)
 - **s3 (4 min)**  
   *Parent does:* Put the three cups side by side in the same place, out of direct sun.  
@@ -339,7 +339,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - **s5 (7 min)**  
   *Parent does:* Day 3: 1. Count again. 2. Measure the longest root in each cup with a ruler. 3. Ask your child what the soap did, what they saw that shows it, and why they think it happened.  
   *Parent says:* What did the soap do? What did you see that shows it? Why do you think that happened?  
-  *Child mode:* What did the soap do? Show me how you know.
+  *Child mode:* Point to the cup that grew best. Tell your grown-up why.
   - Note: Usually the plain cup grows the longest white roots. The 'a lot' cup has fewer sprouts, or short, brownish roots. The 'a little' cup is often in between, or close to plain. If all three grow the same in your home, that is a real result too. Write it down, and talk about how much soap would have to reach a lake before it did harm.
   - Wait: Day 3
 - **s6 (2 min)**  
@@ -358,8 +358,8 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Child mode:* Look, listen and feel for 3 minutes. Say everything you notice.
   - Note: Children often list only big things they see. Prompt gently: 'What can you hear? What can you feel on your face?' Good lists include wind, sunlight, a crow, a coconut palm, an auto, a temple bell, a neighbour's pressure cooker, dust, clouds and the smell of jasmine.
 - **s2 (6 min)**  
-  *Parent does:* 1. Draw the four-box square. 2. Read out each thing on the list. 3. Your child says which box it goes in, and why.  
-  *Parent says:* Everything on our list is part of our environment. Let's sort it. Is the crow living or non-living? Natural or made by people?  
+  *Parent does:* 1. Draw a square with four boxes: living and natural, living and cared for by people, non-living and natural, non-living and made by people. 2. Read out each thing on the list. 3. Your child says which box it goes in, and why.  
+  *Parent says:* Everything on our list is part of our environment, which means everything around us. Let's sort it. Is the crow living or non-living? Natural or made by people?  
   *Child mode:* Sort your list into the four boxes. Say why for each.
   - Ask: Which box does the wind go in? (good: Non-living and natural.)
   - Ask: Which box does a potted plant on the next balcony go in? (good: Living, and cared for by people.; Living and natural, but someone planted the plant.)
@@ -372,7 +372,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 ### a2 · Where Is Away? Follow the water and the rubbish (20 min)
 - **problem:** When water goes down the sink or a wrapper goes in the bin, we say it has gone away. But it cannot leave the Earth. You will follow your kitchen water and your rubbish to find out where they really go.
 - **safety:** A grown-up comes along. Stay away from open drains, roads and moving vehicles. Do not touch the drain or the bins.
-- **record:** Draw a map with two paths: one for the sink water and one for the dry rubbish. Draw each path as far as you know it. Put a question mark where you do not know.
+- **record:** Draw a map with two paths, or write them as two lists of stops: one for the sink water and one for the dry rubbish. Go as far as you know. Put a question mark where you do not know.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Look under the kitchen sink together. 2. Find where the pipe leaves the flat. 3. From a balcony or the ground, follow it with your eyes or a torch as far as you can.  
   *Parent says:* When water goes down the sink, we say it has gone away. Let's find out where away is. Where does this pipe go?  
@@ -384,9 +384,9 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Child mode:* Who takes our rubbish? Ask where it goes next.
   - Note: In many cities, rubbish goes first to a collection point or transfer station, then to a dump yard or a processing plant. In Chennai, the large dump yards are at Kodungaiyur and Perungudi, in Mumbai at Deonar, and in Delhi at Ghazipur. Wet waste may go to a compost centre, if it was kept separate.
 - **s3 (8 min)**  
-  *Parent does:* Draw the map of both paths together. Mark what you know and what you do not.  
-  *Parent says:* Let's draw where our water and our rubbish go. Where does each path stop? Is that really the end?  
-  *Child mode:* Draw the paths. Does either one really end?
+  *Parent does:* Make a map of both paths on paper, or tell the paths aloud while your grown-up writes them. Mark what you know and what you do not.  
+  *Parent says:* Let's show where our water and our rubbish go. Where does each path stop? Is that really the end?  
+  *Child mode:* Show the paths. Does either one really end?
   - Ask: Where does the sink water end up in the end? (good: A river, a lake or the sea.; Then it evaporates and becomes rain again.; It never really ends.)
   - Check: A plastic wrapper is washed down a street drain. Where is the wrapper most likely to end up? → **In a river, a lake or the sea, or stuck in the drain**
 ### a3 · Who Else Lives Here? A week of home neighbours (20 min, 7 days)
@@ -406,13 +406,13 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   - Wait: Day 2
 - **s3 (8 min)**  
   *Parent does:* Count up the list. For each living thing, talk about what that spot gives them.  
-  *Parent says:* Why do you think the ants are near the sugar jar, and the moss is in the damp corner? What does each spot give them?  
-  *Child mode:* Why is each one in that spot? What does the spot give them?
+  *Parent says:* Pick one living thing from our list. Why is it in that spot? What does the spot give it, such as food, water, warmth or a hiding place?  
+  *Child mode:* Pick one on your list. Why is it in that spot?
   - Ask: Why is moss found in the damp corner of the bathroom and not on the sunny wall? (good: Moss needs damp places.; The sunny wall is too dry for moss.; The water in the bathroom keeps the corner wet.)
   - Wait: Day 7
 ### a4 · Natural, Made or Both? The kitchen hunt (15 min)
 - **safety:** Leave knives, the stove and the gas cylinder alone.
-- **record:** Write each thing in a row, and draw an arrow back to what it was made from. For example: steel tumbler, from steel, from iron ore dug from the ground.
+- **record:** Write each thing in a row. Then write what it was made from, and what that was made from. For example: steel tumbler, from steel, from iron ore dug from the ground.
 - **s1 (5 min)**  
   *Parent does:* Collect 10 things from the kitchen and put them on the floor or a table.  
   *Parent says:* Let's collect ten things from the kitchen. Then we decide: natural, made by people, or both?  
@@ -420,27 +420,27 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - **s2 (10 min)**  
   *Parent does:* For each thing, ask: natural, made by people, or both? Then ask: what was it made from, and what was that made from?  
   *Parent says:* This steel tumbler was made by people. What is steel made from? Where did that come from? Keep going back.  
-  *Child mode:* For each thing, ask: what was it made from? Keep asking!
+  *Child mode:* Put each thing in a pile: natural, made by people, or both. Then ask what it was made from. Keep asking!
   - Note: Every made thing leads back to something natural: steel from iron ore, plastic mostly from oil or natural gas, glass from sand, paper from wood, a cotton cloth from the cotton plant, a clay pot from clay. Curd and honey are both: made with the help of living things. This prepares for the idea that what we make and throw out stays in the environment.
   - Check: A plastic lunch box is made by people. What was the plastic mostly made from? → **Oil or natural gas from under the ground**
 ### a5 · One Tree's Guests (if you have a park or a tree nearby) (20 min)
 - **safety:** A grown-up comes along. Do not touch ants' nests, bees' nests or caterpillars, because some sting or have itchy hairs. Stay away from the road.
-- **record:** Draw the tree. Draw each guest where you saw them, and write what they were doing.
+- **record:** Make a list of each guest, where you saw it and what it was doing. You can add a photo or a drawing of the tree.
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* Choose one tree. Sit quietly where you can see it. For 15 minutes, list every living thing on it, under it, or visiting it.  
   *Parent says:* A tree is part of the environment of many others. Let's count who uses this one. Watch the trunk, the leaves, the ground under it and the sky above.  
-  *Child mode:* Watch one tree quietly. List every living thing you see.
+  *Child mode:* Watch one tree quietly. List every living thing you see. They are the tree's guests.
   - Note: On a neem, peepal, mango or rain tree you may see crows, mynas, squirrels, ants on the trunk, spiders, caterpillars, moss or lichen on the bark, and people resting in the shade. Saalumarada Thimmakka of Karnataka, with her husband, planted and cared for 385 banyan trees along about 4 km of road between Hulikal and Kudur. You could tell this story while you watch.
 - **s2 (5 min)**  
   *Parent does:* Look at the list together.  
-  *Parent says:* How many living things use this one tree? What does the tree give each of them? What do they give the tree?  
-  *Child mode:* How many guests did the tree have? What did the tree give them?
+  *Parent says:* How many living things use this one tree? What do they give the tree?  
+  *Child mode:* Count your guests. What did the tree give them?
   - Ask: What does a tree give a crow? (good: A place to sit or nest.; Shade.; Fruit or insects to eat.)
 
 ## Projects
 ### p1 · A Bottle Garden to Keep (60 min, 30 days)
 - **safety:** A grown-up handles the glass jar. Wash hands after handling soil. Keep the jar out of direct sun, or it gets too hot inside.
-- **record:** A garden diary: the date, the time, what the glass looks like, and a drawing each week.
+- **record:** A garden diary: the date, the time, what the glass looks like, and a photo or a drawing each week.
 - **schedule:** day 1: Build the bottle garden, water it once and close it. (30 min); day 3: Diary: drops on the glass in the morning and the afternoon. (5 min); day 7: Diary: new leaves or roots? Draw the garden. (5 min); day 14: Diary: anything new growing that you did not plant? (10 min); day 30: Diary: compare with day 1. Decide whether to keep it closed. (10 min)
 - **s1 (30 min) · grown-up needed**  
   *Parent does:* 1. Put 2 cm of small stones in the bottom of the jar. 2. Add soil on top, about 5 cm deep. 3. Make a hole with the stick and plant the cutting. 4. Pour in 3 tablespoons of water. 5. Close the lid.  
@@ -448,26 +448,26 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Child mode:* Stones first, then soil. Plant the cutting. Water once. Close the lid.
   - Note: If thick drops cover the glass all day after the first few days, there is too much water: open it for an afternoon, then close it again. If no drops form at all, add one more tablespoon of water. Small mould spots at first are common and usually fade.
 - **s2 (5 min)**  
-  *Parent does:* Look at the glass in the early morning and again in the afternoon. Write and draw what you see.  
+  *Parent does:* Look at the glass in the early morning and again in the afternoon. Write what you see.  
   *Parent says:* When is the glass misty, morning or afternoon? Why do you think so?  
   *Child mode:* Is the glass misty now? Write the time and what you see.
   - Note: Morning mist and afternoon clearing is common, because the glass is cooler than the air inside in the early morning.
   - Wait: Day 3
 - **s3 (5 min)**  
-  *Parent does:* Draw the garden and look for changes: new leaves or roots.  
+  *Parent does:* Take a photo of the garden each week and look for changes: new leaves or roots.  
   *Parent says:* What has changed since day 1? Is the glass misty at the same times of day?  
-  *Child mode:* Draw your garden. What is new?
+  *Child mode:* Take a photo of your garden, or draw it. What is new?
   - Wait: Day 7
 - **s4 (10 min)**  
-  *Parent does:* Look closely for anything new living in the jar: moss, tiny insects, a sprout or mould. Draw it.  
+  *Parent does:* Look closely for anything new living in the jar: moss, tiny insects, a sprout or mould. Point to it and tell your grown-up, or draw it.  
   *Parent says:* Is anything living in there that we did not put in?  
-  *Child mode:* Draw your garden. Is anything new living there?
+  *Child mode:* Look closely. Point to anything new that lives there.
   - Note: Tiny springtails, moss or a sprouted weed seed from the soil may appear. They came in with the soil. This shows the soil was full of life to begin with.
   - Wait: Day 14
 - **s5 (10 min)**  
-  *Parent does:* Compare the day 1 drawing with today's. Talk about where the water has been all month.  
+  *Parent does:* Compare the day 1 photo or drawing with today's. Talk about where the water has been all month.  
   *Parent says:* No water has gone in for a month. Where has the plant's water been all this time?  
-  *Child mode:* Look at day 1 and today. Where did the water go all month?
+  *Child mode:* Compare day 1 and today. What looks different?
   - Note: The water never left the jar. It went from the soil and the leaves into the air, onto the cooler glass, and back down into the soil, again and again. That is why the plant did not need any more water.
   - Wait: Day 30
 ### p2 · Our Family's Care Week (45 min, 7 days)
@@ -486,21 +486,21 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
 - **s3 (15 min)**  
   *Parent does:* At the end of the week, count up and compare with the first day.  
   *Parent says:* How much less went out this week? What made it hard? Where would the things we did not throw out have gone?  
-  *Child mode:* Count up. Did it work? What was hard?
+  *Child mode:* Count up the tally marks. Is it less than on the first day?
   - Ask: Should we keep doing it? Why? (good: Any answer with a reason, such as that it was easy, it saved money, or that a different change would be easier.)
   - Wait: Day 7
 
 ## Challenges
 ### c1 · A Water Bowl for Birds on a Hot Balcony (30 min)
 - **problem:** Make a water station for birds that stays cool, is easy to clean every day, keeps birds safe from cats and does not become a place for mosquitoes to breed.
-- **your turn:** Now design your own bird water station. Draw it, build it with a grown-up, and keep a tally of the birds that visit for one week.
+- **your turn:** Now design your own bird water station. Plan it with the materials or a sketch, build it with a grown-up, and keep a tally of the birds that visit for one week.
 - **constraints:** Use things from home, such as a clay saucer, a steel plate, stones and string.; It must be fixed so it cannot fall off the balcony.; The water must be easy to change every day.
 - **general:** A wide, shallow dish is best, about 3 to 5 cm deep, so small birds can stand and drink without falling in.; Clay keeps water cooler than plastic. Water seeps into the clay and evaporates from the outside, and when water evaporates it takes some heat away with it.; Change the water every day, so mosquito eggs never have time to hatch.
 - **creative:** Put a stone in the middle as a landing step.; Hang a small cloth over one side for shade.; Keep a second saucer for washing and swapping, so one is always clean.
 - **s1 (10 min)**  
-  *Parent does:* Talk about the problem. Draw two ideas.  
-  *Parent says:* Birds need water in summer, but a bowl can fall, get hot, or grow mosquitoes. What could we build? Let's draw two ideas.  
-  *Child mode:* Draw two ideas for a bird water bowl. It must be safe, cool and easy to clean.
+  *Parent does:* Talk about the problem. Show two ideas with the materials, or draw them.  
+  *Parent says:* Birds need water in summer, but a bowl can fall, get hot, or grow mosquitoes. What could we build? Let's show two ideas.  
+  *Child mode:* Show two ideas for a bird water bowl, by arranging the materials or drawing. It must be safe, cool and easy to clean.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Build the best idea. Fix it firmly where a grown-up says.  
   *Parent says:* Where can we put it so cats cannot reach it and it will not fall?  
@@ -522,7 +522,7 @@ The next morning, Arjun was up before Kavya. She found him at the shelf, watchin
   *Parent says:* After lunch, let's watch what goes down the sink. Where does it go after that?  
   *Child mode:* Watch the sink after lunch. What goes down? Where does it go next?
 - **s2 (15 min)**  
-  *Parent does:* Draw and build a catcher. Try it after the next meal.  
+  *Parent does:* Plan and build a catcher. Try it after the next meal.  
   *Parent says:* What could catch the rice but let the water through? What could catch the oil?  
   *Child mode:* Make a catcher. Try it after the next meal.
   - Note: A steel tea strainer over the sink hole catches most bits. Oil needs to be wiped off before washing, because a strainer lets it through.

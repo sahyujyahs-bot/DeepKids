@@ -768,8 +768,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Take out the card 'The pot stood in a dish of water all week'. Read it together as a practice, then shuffle it back.",
-     "say": "Let's practise with one card. The pot stood in a dish of water all week. Is that good or bad for the plant? Why?",
-     "kid": "Practice card: the pot stood in water all week. Good or bad for the plant? Say your answer.",
+     "say": "Let's practise with one card. It says: the pot stood in a dish of water all week.",
+     "kid": "Is that good or bad for the plant? Say your answer.",
      "ask": [
       {
        "q": "Why does standing in water harm the plant?",
@@ -977,8 +977,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Read the card about the forgotten watering together as a practice round.",
-     "say": "A girl puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Fair or unfair?",
-     "kid": "A girl puts one cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Fair or unfair?",
+     "say": "Here is a practice card. A girl puts one moong cup in the sun and one in a cupboard. She forgets to water the cupboard cup.",
+     "kid": "Hold up FAIR or UNFAIR.",
      "check": {
       "t": "mcq",
       "q": "A girl puts one cup in the sun and one in a cupboard. She forgets to water the cupboard cup. Is it a fair test of light?",
@@ -1002,8 +1002,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Finish with the scoring, then ask the closing question.",
-     "say": "Why do scientists care so much about changing only one thing?",
-     "kid": "Count your tokens. Who is the Chief Fair Tester? Why do scientists change only one thing?",
+     "say": "Count your tokens. Whoever has the most is the Chief Fair Tester.",
+     "kid": "Count your tokens. Who is the Chief Fair Tester?",
      "ask": [
       {
        "q": "Why do scientists change only one thing at a time?",
@@ -1796,14 +1796,14 @@
      "what": "Look again. Do the dark seedlings turn green?"
     }
    ],
-   "record": "Fill in the table. Then draw two bar charts: one of the heights on Day 7, and one of the number of open green leaves.",
+   "record": "Fill in the table. Then draw a bar chart of the heights on Day 7. Write down the number of open green leaves.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Put the soaked moong in a bowl. 2. Ask your child to predict what will happen in the dark, and write it down.",
-     "say": "Some seedlings will grow in the light, and some in the dark. In a week, which do you think will be taller? Which will be greener?",
-     "kid": "Some moong will grow in the light. Some will grow in the dark. Guess: which will be taller? Which will be greener? Write it down.",
+     "say": "We will grow some moong in the light and some in the dark. Let's guess what will be different in a week.",
+     "kid": "Guess: which moong will be taller, and which will be greener? Say it to your grown-up, or write it down.",
      "ask": [
       {
        "q": "Why do you think that?",
@@ -1953,8 +1953,8 @@
      "id": "s6",
      "mins": 6,
      "do": "Help your child draw a bar chart of the Day 7 heights. Use the middle height of the 3 LIGHT cups and of the 3 DARK cups.",
-     "say": "To find the middle height, put the 3 numbers in order and take the middle one. Then draw one bar for LIGHT and one for DARK.",
-     "kid": "Put the 3 LIGHT heights in order. The middle one is your LIGHT bar. Do the same for DARK. Draw both bars.",
+     "say": "To find the middle height, put the 3 numbers in order and take the middle one. Then draw one bar for LIGHT and one for DARK, or cut a paper strip as tall as each.",
+     "kid": "Put the 3 LIGHT heights in order. The middle one is your LIGHT bar. Do the same for DARK. Draw both bars, or cut paper strips.",
      "parent": "With the made-up numbers, LIGHT is 8, 8, 9, so the middle is 8. DARK is 13, 14, 15, so the middle is 14. Using the middle value stops one odd cup from fooling us.",
      "chart": {
       "type": "bar",
@@ -1995,7 +1995,7 @@
      "think": "The dark seedlings had no eyes. How did they know they were in the dark?"
     }
    ],
-   "context": "This is the light test. You grow moong seedlings in 6 cups. Three cups get light and three are kept under a box, and everything else stays the same. After a week you measure and compare them.",
+   "context": "This is the light test. You grow moong seedlings in 6 cups. Three cups get light and three are kept under a box, and everything else stays the same. After a week you measure and compare them. You will find out why a plant grown in the dark ends up tall and pale.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: middle height on Day 7",
@@ -2150,7 +2150,7 @@
      "what": "Final measuring. Tip one cup from each group out to look at the roots. Draw a bar chart and say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table. Draw a bar chart of the middle height of each group on Day 14. Draw what the roots looked like in each group.",
+   "record": "Fill in the table. Draw a bar chart of the middle height of each group on Day 14. Take a photo of the roots in each group, or tell your grown-up how they looked.",
    "flow": [
     {
      "id": "s1",
@@ -2165,8 +2165,8 @@
      "id": "s2",
      "mins": 12,
      "do": "On Day 6: 1. Measure the tallest seedling in each cup and write down the height. 2. Label 3 cups NONE, 3 JUST RIGHT and 3 SOAKED. 3. Stand the 3 SOAKED cups in a deep dish. Fill the dish with water up to the soil inside the cups. 4. Put all the cups back side by side.",
-     "say": "Now the test begins. These get no water at all. These get 1 spoon every morning. And these stand in water all the time. Which do you think will do best?",
-     "kid": "Measure every cup. Put labels on: NONE, JUST RIGHT, SOAKED. Stand the SOAKED cups in a dish of water. Which will do best? Guess.",
+     "say": "Now the test begins. These get no water at all. These get 1 spoon every morning. And these stand in water all the time.",
+     "kid": "Measure every cup. Put labels on: NONE, JUST RIGHT, SOAKED. Stand the SOAKED cups in a dish of water.",
      "ask": [
       {
        "q": "Which do you think will do best? Why?",
@@ -2235,7 +2235,7 @@
      "mins": 6,
      "do": "Help your child draw a bar chart of the middle height in each group on Day 14.",
      "say": "One bar for each group. Put the three heights in order and use the middle one.",
-     "kid": "Draw a bar for NONE, JUST RIGHT and SOAKED. Use the middle height of each group.",
+     "kid": "Draw a bar for NONE, JUST RIGHT and SOAKED, or cut paper strips. Use the middle height of each group.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: middle height on Day 14",
@@ -2271,7 +2271,7 @@
      "think": "Rice grows standing in water. Why don't the rice plants drown like our moong? (Hint: rice has air channels that carry air down to their roots.)"
     }
    ],
-   "context": "This is the water test. You grow 9 cups of moong seedlings the same way. Then 3 cups get no water, 3 get just the right amount and 3 get far too much. You measure and compare them.",
+   "context": "This is the water test. You grow 9 cups of moong seedlings the same way. Then 3 cups get no water, 3 get just the right amount and 3 get far too much. You measure and compare them. You will find out if more water is always better.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: middle height on Day 14",
@@ -2385,7 +2385,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child the sprouted moong and ask for a prediction.",
-     "say": "We'll keep some sprouts cold, some cool and some warm. Which do you think will grow the most in 3 days?",
+     "say": "We'll keep some sprouts cold, some cool and some warm, for 3 days.",
      "kid": "Some sprouts go in the fridge. Some go in a cupboard. Some go somewhere warm. Guess: which will grow most?",
      "context": "This is the first step of the warmth test. You keep moong sprouts in a cold, a cool and a warm place, in the dark, and measure how much they grow."
     },
@@ -2393,11 +2393,11 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Fold a wet cloth flat in each bowl. 2. Wet each with exactly 4 teaspoons of water. 3. Put 10 sprouts on the cloth in each bowl. 4. Measure the 5 longest sprouts in each bowl, from the tip of the root to the top, and add them up. 5. Cover each bowl with a plate.",
-     "say": "The fridge is dark inside. So we cover all three bowls with a plate, to make them all dark. That way only the warmth is different.",
+     "say": "The fridge is dark inside. So every bowl gets a plate on top.",
      "kid": "Put a folded wet cloth in 3 bowls. Add 4 spoons of water to each. Put 10 sprouts in each. Measure 5 sprouts. Cover each bowl with a plate.",
      "ask": [
       {
-       "q": "The fridge bowl will be in the dark. What should we do to the other two bowls, so that only the warmth is different?",
+       "q": "Why do all three bowls get a plate, not just the fridge bowl?",
        "good": [
         "Cover them too, so all three are dark.",
         "Keep everything else the same."
@@ -2436,9 +2436,9 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "On Day 4: 1. Measure one last time. 2. For each bowl, take the Day 1 total away from the Day 4 total. That is how much the sprouts grew. 3. Draw a bar for each place.",
-     "say": "Take the first total away from the last total. That tells us how much each bowl grew. Let's draw one bar for each.",
-     "kid": "Take the first number away from the last number. That is how much they grew. Draw one bar for each place.",
+     "do": "On Day 4: 1. Measure one last time. 2. For each bowl, take the Day 1 total away from the Day 4 total. That is how much the sprouts grew. 3. Draw a bar for each place, or cut a paper strip as long as the growth.",
+     "say": "Take the first total away from the last total. That tells us how much each bowl grew. Let's draw one bar for each, or cut a strip.",
+     "kid": "Take the first number away from the last number. That is how much they grew. Draw one bar for each place, or cut a strip.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: how much 5 sprouts grew altogether in 3 days",
@@ -2483,7 +2483,7 @@
      "think": "If your warm spot grew the sprouts most, would an even hotter place, like a terrace at 46 degrees, be better still? Why not?"
     }
    ],
-   "context": "This is the warmth test. You put moong sprouts in a fridge, a room cupboard and a warm spot, all in the dark. You measure how much they grow in 3 days.",
+   "context": "This is the warmth test. You put moong sprouts in a fridge, a room cupboard and a warm spot, all in the dark. You measure how much they grow in 3 days. You will find out if warmth helps sprouts grow.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how much 5 sprouts grew altogether in 3 days",
@@ -2596,7 +2596,7 @@
      "what": "Take off the covers. Measure, compare colour and leaves, and say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table. Draw the seedling from each cover, in the colours you see.",
+   "record": "Fill in the table. Take a photo of the seedling from each cover, or draw the colours you see.",
    "flow": [
     {
      "id": "s1",
@@ -2619,7 +2619,7 @@
      "mins": 12,
      "do": "On Day 7: 1. Take off the covers. 2. Measure the tallest seedling in each cup. 3. Compare leaf colour, stem thickness and how much each seedling leans.",
      "say": "Which seedlings look the sturdiest and greenest? Which are tall and pale?",
-     "kid": "Take off the hats. Measure each cup. Which seedlings are greenest and strongest? Which are tall and pale?",
+     "kid": "Take off the hats. Measure each cup. Look at the colour, the stem and the leaves.",
      "parent": "Clear usually gives the sturdiest green seedlings. Under red they are often a little taller and thinner. Blue usually gives short, green seedlings. Green often looks most like the dark cups, taller and paler. Results at home vary. Cellophane sheets also let different amounts of light through, so this test is not perfectly fair. That is worth talking about.",
      "check": {
       "t": "mcq",
@@ -2642,7 +2642,7 @@
      "think": "Astronauts grow lettuce under red and blue lamps, which make a pink glow. Why not plain green lamps?"
     }
    ],
-   "context": "This is the coloured light test. You cover 4 cups of seedlings with clear, red, blue and green see-through sheets, and compare how they grow after a week.",
+   "context": "This is the coloured light test. You cover 4 cups of seedlings with clear, red, blue and green see-through sheets, and compare how they grow after a week. You will find out if the colour of light matters to a plant.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: height after 7 days under each colour",
@@ -2730,7 +2730,7 @@
      "what": "Compare a windowsill sprout with a tiffin sprout."
     }
    ],
-   "record": "Draw a sprout from the tiffin and a sprout from the windowsill. Write three things you notice and one thing you wonder.",
+   "record": "Draw a sprout from the tiffin and a sprout from the windowsill, or take a photo of each. Write three things you notice and one thing you wonder.",
    "flow": [
     {
      "id": "s1",
@@ -2747,7 +2747,7 @@
      "mins": 8,
      "do": "1. Open the tiffin together. 2. Look closely at the shoots and their colour. 3. If you have a potato or onion with shoots from a dark basket, look at that too.",
      "say": "Look at these shoots. What do you notice about their colour? Don't explain yet. Just notice.",
-     "kid": "Open the tiffin. Look at the shoots. What colour are they? What do you notice?",
+     "kid": "Open the tiffin. Look closely at the shoots and their colour.",
      "ask": [
       {
        "q": "What do you notice?",
@@ -2773,8 +2773,8 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Put half the sprouts on a wet cloth on a plate, on a bright windowsill. 2. Put the other half back in the tiffin and close it. 3. Sprinkle both lots with the same amount of water.",
-     "say": "Let's do a small test. Half go in the light, and half stay in the dark. What do you think will happen by tomorrow? Why do you think so?",
-     "kid": "Put half the sprouts on the windowsill. Close the rest in the tiffin. What will happen by tomorrow? Why?",
+     "say": "Let's do a small test. Half go in the light, and half stay in the dark. What do you think will happen by tomorrow?",
+     "kid": "Put half the sprouts on the windowsill. Close the rest in the tiffin.",
      "ask": [
       {
        "q": "What do you predict? Why?",
@@ -2790,8 +2790,8 @@
      "id": "s4",
      "mins": 3,
      "do": "The next day, put a windowsill sprout and a tiffin sprout side by side on white paper. Compare their colour, especially near the top.",
-     "say": "Which one is greener? What was the only thing that was different between them?",
-     "kid": "Put one sprout from each place on white paper. Which is greener? What was different?",
+     "say": "Look at the two sprouts. Where were they kept?",
+     "kid": "Put one sprout from each place on white paper. Look at the colour near the top.",
      "parent": "Many windowsill sprouts show a green tinge near the top, and their seed halves look greener. The tiffin sprouts stay pale. If the change is faint, leave them one more day. Both lots got water and air. Only the light was different.",
      "check": {
       "t": "mcq",
@@ -2807,7 +2807,7 @@
      "think": "If the tiffin sprouts stayed in the dark for a week, what do you think would happen to them?"
     }
    ],
-   "context": "This is a short noticing activity to start the unit. You grow moong sprouts in a closed tiffin, look at their pale shoots, and then put half of them in the light.",
+   "context": "This is a short noticing activity to start the unit. You grow moong sprouts in a closed tiffin, look at their pale shoots, and then put half of them in the light. You will find out why sprouts grown in a closed box are pale.",
    "setup": [
     {
      "art": "Soaked moong spread on a wet cloth inside an open steel tiffin, the lid beside it.",
@@ -2969,7 +2969,7 @@
      "think": "Was the weather different on the day the plant grew most? Warmer? Sunnier?"
     }
    ],
-   "context": "This activity teaches careful measuring with a ruler. Then you cut a paper strip as tall as your plant every day. Stuck side by side, the strips make a growth chart.",
+   "context": "This activity teaches careful measuring with a ruler. Then you cut a paper strip as tall as your plant every day. Stuck side by side, the strips make a growth chart. You will see how fast your plant really grows.",
    "setup": [
     {
      "art": "A close-up of a school ruler next to a fingernail, with the 0, the centimetre numbers and the tiny millimetre marks clearly visible.",
@@ -3106,7 +3106,7 @@
      "wait": "Look again after 7 days."
     }
    ],
-   "context": "This is the plant doctor activity. You read the clues a real plant gives you, like drooping, yellowing or leaning, and work out which need is missing.",
+   "context": "This is the plant doctor activity. You read the clues a real plant gives you, like drooping, yellowing or leaning, and work out which need is missing. You will learn to tell what a plant wants just by looking closely.",
    "setup": [
     {
      "art": "A child with a magnifying glass looking closely at a yellowing leaf on a balcony plant.",
@@ -3181,7 +3181,7 @@
      "mins": 8,
      "do": "Mark each place on the map: very bright, bright, dim or dark. Then decide where your home's plants should live.",
      "say": "A tulsi needs lots of sun. A money plant is happy with less. Where should each of our plants go?",
-     "kid": "Colour each place on the map: very bright, bright, dim or dark. Draw where each plant should live.",
+     "kid": "Colour each place on the map: very bright, bright, dim or dark. Write each plant's name on the map, or walk there and point.",
      "check": {
       "t": "mcq",
       "q": "Which is usually brighter: outside on a sunny day, or the middle of a room? By how much?",
@@ -3278,7 +3278,7 @@
      "id": "s4",
      "mins": 10,
      "do": "Work out how much the plant really grew: the pointer moved 4 times as far as the plant grew.",
-     "say": "The pointer moved 12 millimetres. The lever makes it look 4 times bigger. So how much did the plant really grow?",
+     "say": "The lever makes the plant's growth look 4 times bigger. So we divide how far the pointer moved by 4.",
      "kid": "Measure how far the pointer moved. Divide that by 4. That is how much the plant really grew.",
      "ask": [
       {
@@ -3340,7 +3340,7 @@
      "what": "Act out seedlings growing in the dark, in the light, in too much water and in the cold and heat."
     }
    ],
-   "record": "Draw yourself as a seedling in the dark and in the light.",
+   "record": "Tell your grown-up how you moved as a seedling in the dark and in the light. Or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -3394,7 +3394,7 @@
      }
     }
    ],
-   "context": "This is a movement activity. Your child acts out a seedling growing in the dark and in the light, and in soggy, cold and hot conditions.",
+   "context": "This is a movement activity. Your child acts out a seedling growing in the dark and in the light, and in soggy, cold and hot conditions. You will feel why a seedling in the dark stretches so tall.",
    "setup": [
     {
      "art": "A child curled up small on a mat like a seed.",
@@ -3498,7 +3498,7 @@
      "id": "s2",
      "mins": 12,
      "do": "1. Fill the pot with the soil and compost. 2. Push 3 soaked beans in, about 2 cm deep and a hand-width apart. 3. Water until a little runs out of the hole. 4. Give your plant a name and write the name on the pot.",
-     "say": "Some families talk to their plant and name them. Let's name ours. What will you call your bean?",
+     "say": "Let's give our bean a name. What will you call your bean?",
      "kid": "Fill the pot. Push in 3 beans, 2 cm deep. Water until a little runs out of the hole. Give your plant a name!",
      "parent": "Children take more care of a plant they have named. If more than one bean comes up, keep the strongest and snip the others off at the soil after a week, so the strongest has space."
     },
@@ -3534,7 +3534,7 @@
      "mins": 30,
      "do": "On Day 21: 1. Measure one last time. 2. Make a bar chart with one bar for each measuring day. 3. Write two sentences: what helped your plant grow and what slowed them down. 4. Show the diary to the family.",
      "say": "Look at your chart. When did your bean grow fastest? Was the weather different then? What would you change next time?",
-     "kid": "Draw one bar for each day you measured. When did your bean grow fastest? Write what helped them and what slowed them down.",
+     "kid": "Draw one bar for each day you measured, or stick paper strips. Write what helped your bean and what slowed them down.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: my bean's height every third day",
@@ -3577,7 +3577,7 @@
      "parent": "If the plant dies, that is a real result too. Be a plant doctor together: which need was missing? Your child can write a short note about how it feels to lose a plant, and then try again."
     }
    ],
-   "context": "This is a three-week project. You grow a bean plant, choose their place, look after their needs and keep a diary of how they grow.",
+   "context": "This is a three-week project. You grow a bean plant, choose their place, look after their needs and keep a diary of how they grow. You will find out what helps a bean grow fastest, and what slows them down.",
    "setup": [
     {
      "art": "A child pushing soaked rajma beans into a pot of soil on a sunny balcony, a name label on the pot.",
@@ -3621,7 +3621,7 @@
     "Make a light funnel: line a cardboard tube with foil and point one end at the window and the other at the plant.",
     "In some old houses in India, a small glass tile in the roof let daylight into a dark room. Could a 'skylight' of foil-lined card work for you?"
    ],
-   "your_turn": "Now invent your own way. Draw it, build it and measure the light before and after. Which idea gave the most light?",
+   "your_turn": "Now invent your own way. Build it and measure the light before and after. Which idea gave the most light?",
    "flow": [
     {
      "id": "s1",
@@ -3642,9 +3642,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw or list three ideas together, including at least one of your own.",
+     "do": "Say or list three ideas together, including at least one of your own. A quick sketch is fine.",
      "say": "Engineers think before they build. Let's list three ideas.",
-     "kid": "Think like an engineer. Draw three ideas to bring light to the corner, one of them your own."
+     "kid": "Think like an engineer. Say or list three ideas for more light, one of them your own."
     },
     {
      "id": "s4",
@@ -3730,9 +3730,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Draw three ideas together, one of them your own. Then build the one your child likes best.",
-     "say": "Let's draw three ideas, then build the best one.",
-     "kid": "Draw three ideas, one of them your own. Then build the best one. Ask a grown-up for help with holes.",
+     "do": "Talk through three ideas together, one of them your own. Then build the one your child likes best.",
+     "say": "Let's think of three ideas, then build the best one.",
+     "kid": "Think of three ideas, one of them your own. Then build the best one. Ask a grown-up for help with holes.",
      "adult": true
     },
     {

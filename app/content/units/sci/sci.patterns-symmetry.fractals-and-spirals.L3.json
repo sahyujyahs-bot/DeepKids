@@ -385,7 +385,7 @@
     "with a parent",
     "with brothers, sisters or friends"
    ],
-   "context": "This is a memory card game. Each pair is a whole thing and a zoomed-in part of it that looks like the whole. Find the pairs and say why they match.",
+   "context": "This is a memory card game. Each pair is a whole thing and a part of it that looks like the whole. You will find out how many different things hide a small copy of themselves.",
    "printables": [
     {
      "kind": "cards",
@@ -430,7 +430,7 @@
      "mins": 3,
      "do": "1. Cut out the cards. 2. Mix them. 3. Lay them face down in four rows of four.",
      "say": "Each card has a partner. One shows a whole thing. The other shows a small part that looks like the whole.",
-     "kid": "Mix the cards. Lay them face down in rows. Each card has a partner."
+     "kid": "Mix the cards. Lay them face down in four rows of four."
     },
     {
      "id": "s2",
@@ -478,7 +478,7 @@
     "with a parent",
     "with brothers, sisters or friends"
    ],
-   "context": "This is a race game played on a drawn island with a very bendy coast. Players walk round the coast with different step sizes and find out who walks furthest.",
+   "context": "This is a race game on a drawn island with a very bendy coast. Each player steps round it with a different strip. You will find out why a shorter step walks a longer way.",
    "printables": [
     {
      "kind": "cards",
@@ -513,8 +513,8 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Draw and trace the island, then give each player a step strip.",
-     "say": "Everyone walks round the same island. Who will walk the furthest? Guess before we start.",
+     "do": "Draw one bendy island on paper (or copy a bendy coast from a map), trace it once for each player, then give each player a step strip.",
+     "say": "Everyone steps round the same island, each with a different strip. Guess before we start.",
      "kid": "Take a step strip. Guess: who will walk the furthest round the island?"
     },
     {
@@ -530,7 +530,7 @@
      "mins": 3,
      "do": "Compare lengths on the score sheet.",
      "say": "Who walked furthest? Why?",
-     "kid": "Who walked furthest? Why do you think so?",
+     "kid": "Read out your lengths from the score sheet, longest first.",
      "check": {
       "t": "mcq",
       "q": "Who walked the longest coast?",
@@ -560,7 +560,7 @@
   {
    "id": "e1",
    "title": "How Long Is the Coast? Long steps or short steps",
-   "context": "In this experiment you measure the same coast on a map three ways: with a long strip, a short strip and a thread. Then you find out if the length changes.",
+   "context": "In this experiment you measure the same coast on a map three ways: with a long strip, a short strip and a thread. You will find out why books can give different lengths for the same coast.",
    "mins": 30,
    "days": 1,
    "question": "Does a coast measure the same length if we use a long ruler or a short one?",
@@ -607,7 +607,7 @@
      "mins": 2,
      "do": "1. Open the map. 2. Show your child the coast of Gujarat, from Daman up to the Rann of Kutch. 3. Show the Kerala coast too.",
      "say": "This is the coast of Gujarat. This one is Kerala. Which one is bendier? We will measure both.",
-     "kid": "Find Gujarat on the map. Now find Kerala. Which coast is bendier?",
+     "kid": "Find Gujarat on the map. Now find Kerala. Look at the shape of each coast.",
      "ask": [
       {
        "q": "Which coast is bendier?",
@@ -623,8 +623,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Ask for a guess before any measuring. 2. Write the guess and the reason at the top of the page.",
-     "say": "We will measure Gujarat with a long 4 cm strip, then a short 1 cm strip. Will we get the same length? Why do you think so?",
-     "kid": "Guess. Will the long strip and the short strip give the same length? Why?",
+     "say": "We will measure Gujarat twice: with a long 4 cm strip, then with a short 1 cm strip.",
+     "kid": "Look at the two strips. Will they find a longer coast, or will they match?",
      "ask": [
       {
        "q": "What is your guess, and why?",
@@ -672,7 +672,7 @@
      "mins": 5,
      "do": "1. Measure the Kerala coast with the 4 cm strip, the 1 cm strip and the thread. 2. Compare how much each coast grew.",
      "say": "Now the smooth coast. Did its length grow as much as Gujarat's?",
-     "kid": "Measure Kerala with the long strip, the short strip and the thread. Did its length grow as much as Gujarat's?",
+     "kid": "Measure Kerala with the long strip, the short strip and the thread. Write each length.",
      "ask": [
       {
        "q": "Which coast grew more when you measured more closely? Why?",
@@ -741,7 +741,7 @@
   {
    "id": "e2",
    "title": "Count the Pineapple Spirals",
-   "context": "In this experiment you count the spiral rows of scales on a pineapple, going each way, and find out if every pineapple gives the same numbers.",
+   "context": "In this experiment you count the spiral rows of scales on a pineapple, going each way, and find out if they match a famous list of numbers.",
    "mins": 25,
    "days": 1,
    "question": "How many spiral rows does a pineapple have going each way, and is it the same on every pineapple?",
@@ -782,7 +782,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Stand the pineapple on a plate. 2. Look at the scales together. 3. Trace one row with a finger, going up and to the right.",
-     "say": "Each bump is a scale. Follow one row with your finger. It winds up and round like a staircase.",
+     "say": "Each bump is a scale. The scales sit in rows that wind up the pineapple.",
      "kid": "Find one row of bumps. Follow it up with your finger. It goes round like a staircase.",
      "parent": "Each scale is the base of one tiny flower that joined the fruit. The scales sit in rows that wind round. There are three sets of rows. The two easiest to see are the ones to count."
     },
@@ -791,14 +791,14 @@
      "mins": 3,
      "do": "Ask for the guess and the reason.",
      "say": "How many rows go up to the right, do you think? And to the left? The same number?",
-     "kid": "Guess how many rows go each way. Will they be the same? Why?"
+     "kid": "Guess before you count: will the two numbers be the same?"
     },
     {
      "id": "s3",
      "mins": 8,
      "do": "1. Mark one scale near the bottom with the sketch pen. 2. Count the rows going up to the right, one at a time. 3. Stop when you come back to the marked row. 4. Write the number. 5. Count again.",
      "say": "Mark one row so you know where you started. Then count each row as you turn the pineapple.",
-     "kid": "Mark one row. Count each row as you turn the pineapple. Stop when you reach the mark.",
+     "kid": "Count the rows one at a time as you turn the pineapple. Stop when you reach the mark.",
      "parent": "Mark the top of each row you count, or stick a little paper tab on it. Many pineapples have 8 rows one way and 13 the other. A smaller or bigger one may show another pair of numbers that are next to each other in the list 1, 1, 2, 3, 5, 8, 13, 21, such as 5 and 8 or 13 and 21. If your counts differ by one, count a third time."
     },
     {
@@ -813,7 +813,7 @@
      "mins": 4,
      "do": "1. Write 1, 1, 2, 3, 5, 8, 13, 21. 2. Show how each number is the two before it added. 3. Look for your counts in the list.",
      "say": "Here is a famous list. Each number is the two before it added together. Are your numbers in it?",
-     "kid": "Look at the list. Each number is the two before it added up. Are your numbers there?",
+     "kid": "Look for your two counts in the list.",
      "check": {
       "t": "mcq",
       "q": "Your pineapple has 8 rows one way. How many rows will it most likely have the other way?",
@@ -871,7 +871,7 @@
    "title": "The Cauliflower Inside the Cauliflower",
    "mins": 10,
    "days": 1,
-   "context": "This is a short noticing activity. You break a cauliflower into smaller and smaller pieces and see what shape each piece has.",
+   "context": "You break a cauliflower into smaller and smaller pieces to find out if each piece still looks like the whole.",
    "materials": [
     {
      "item": "a cauliflower, or a head of broccoli",
@@ -889,14 +889,14 @@
      "what": "Break a cauliflower into smaller and smaller pieces. Count how many times you can break it before a piece stops looking like a cauliflower."
     }
    ],
-   "record": "Lay the pieces in a row on the plate, biggest to smallest. Draw the row, and write how many times you could break it and still see a cauliflower.",
+   "record": "Lay the pieces in a row on the plate, biggest to smallest. Take a photo of the row (or draw it), and write how many times you could break it and still see a cauliflower.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Put the cauliflower on the plate. 2. Break off one floret. 3. Hold it next to the whole head.",
      "say": "Look at this floret, and at the whole cauliflower. What do you notice? What do you wonder?",
-     "kid": "Break off one floret. Hold it next to the whole cauliflower. What do you notice?",
+     "kid": "Break off one floret. Hold it next to the whole cauliflower. Look closely.",
      "ask": [
       {
        "q": "What do you notice about the floret?",
@@ -920,7 +920,7 @@
      "mins": 2,
      "do": "Tell your child the word fractal, once they have said what they saw.",
      "say": "A shape whose parts look like smaller copies of the whole is called a fractal. Where else might you see one?",
-     "kid": "A shape made of smaller copies of itself is a fractal. Where else could one be?",
+     "kid": "A shape made of smaller copies of itself is called a fractal.",
      "ask": [
       {
        "q": "Where else might a fractal be?",
@@ -949,7 +949,7 @@
    "title": "Veins Inside Veins: a leaf against the window",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hold a leaf up to the light to see how its veins branch, and look for branching veins on your own wrist.",
+   "context": "In this activity you hold a leaf up to the light to see how its veins branch, and look for branching veins on your own wrist. You will find out why a leaf needs so many veins.",
    "materials": [
     {
      "item": "one leaf from a potted plant or a tree, such as hibiscus, peepal, money plant or a curry leaf stem",
@@ -969,13 +969,13 @@
      "what": "Hold a leaf to the window. Trace how the veins branch. Look at the veins on your wrist."
     }
    ],
-   "record": "Draw the leaf's main vein, then the veins that branch off it, then the smaller ones off those.",
+   "record": "Draw the leaf's main vein, then the veins that branch off it, then the smaller ones off those. Or tell a grown-up the three levels.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Hold the leaf up against a bright window. 2. Trace the thick middle vein with a finger. 3. Find a smaller vein branching off it. 4. Find a smaller one again.",
-     "say": "The leaf needs water in every part of it. How do you think the water gets everywhere? Look at the veins.",
+     "say": "The leaf needs water in every part of it. Look at the veins.",
      "kid": "Hold the leaf to the window. Find the big vein. Find a smaller one off it. And smaller again.",
      "ask": [
       {
@@ -998,9 +998,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Draw the leaf's veins, three levels deep.",
+     "do": "Draw the leaf's veins, three levels deep. Or point to each level and name it: big, smaller, smallest.",
      "say": "Draw the big vein, the branches and the smaller branches.",
-     "kid": "Draw the big vein. Then its branches. Then the smaller branches."
+     "kid": "Draw the big vein. Then its branches. Then the smaller branches. Or point to each and tell your grown-up."
     }
    ],
    "setup": [
@@ -1019,7 +1019,7 @@
    "title": "Branches With No Plan: paint between two sheets",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you squeeze thick paint between two smooth sheets and pull them apart. A branching pattern like a tree appears that nobody drew.",
+   "context": "In this activity you squeeze thick paint between two smooth sheets and pull them apart. A branching pattern like a tree appears that nobody drew. You will find out what makes branches grow with no plan.",
    "materials": [
     {
      "item": "thick poster paint or acrylic paint, about one teaspoon. Thick toothpaste also works.",
@@ -1048,7 +1048,7 @@
      "mins": 4,
      "do": "1. Cover the table. 2. Put a teaspoon of paint in the middle of one sheet. 3. Lay the other sheet on top. 4. Press down so the paint spreads into a circle.",
      "say": "We will pull these apart. What shape do you think the paint will leave? Why?",
-     "kid": "Put a blob of paint on one sheet. Put the other sheet on top. Press. Guess what shape the paint will leave when you pull the sheets apart.",
+     "kid": "Put a blob of paint on one sheet. Put the other sheet on top. Press.",
      "adult": true
     },
     {
@@ -1082,7 +1082,7 @@
      "mins": 2,
      "do": "Press paper onto the pattern to keep a print.",
      "say": "Nobody drew these branches. So what made them?",
-     "kid": "Press paper on to keep a print. Nobody drew the branches. What made them?"
+     "kid": "Press paper on to keep a print."
     }
    ],
    "setup": [
@@ -1102,25 +1102,29 @@
    "title": "Draw a Fractal Tree and a Triangle of Triangles",
    "mins": 20,
    "days": 1,
-   "context": "In this drawing activity you make two fractals by following one rule again and again, and count how fast the number of parts grows.",
+   "context": "In this activity you make two fractals, one by drawing and one from beans, by following one rule again and again. You will find out how fast the number of parts grows.",
    "materials": [
     {
      "item": "a notebook or a sheet of paper",
      "qty": 1
     },
     {
-     "item": "a pencil, a ruler and colour pencils",
+     "item": "a pencil and a ruler",
      "qty": 1
+    },
+    {
+     "item": "27 dried beans or small coins",
+     "qty": 27
     }
    ],
    "schedule": [
     {
      "day": 1,
      "mins": 20,
-     "what": "Draw a tree where every branch splits in two. Draw a triangle of triangles. Count the parts at each level."
+     "what": "Draw a tree where every branch splits in two. Build a triangle of triangles from beans. Count the parts at each level."
     }
    ],
-   "record": "Write how many branch tips your tree has at each level, and how many coloured triangles at each level.",
+   "record": "Write how many branch tips your tree has at each level, and how many beans at each level of the triangle.",
    "flow": [
     {
      "id": "s1",
@@ -1141,17 +1145,17 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Draw a big triangle. 2. Join the middles of its three sides, making four triangles inside. 3. Colour the three corner triangles, not the middle one. 4. Do the same inside each coloured triangle.",
-     "say": "This is called a Sierpinski triangle. Each coloured triangle becomes three smaller ones.",
-     "kid": "Draw a big triangle. Join the middles of the sides. Colour the three corners. Do it again inside each.",
-     "parent": "The count goes 1, 3, 9, 27. Two or three levels are plenty with a pencil."
+     "do": "1. Put 3 beans in a small triangle. 2. Make 3 of these small triangles. 3. Set them in a bigger triangle, with a gap in the middle. 4. Make 3 of those, and set them in a still bigger triangle.",
+     "say": "This is called a Sierpinski triangle. Each level is three copies of the one before.",
+     "kid": "Make a triangle of 3 beans. Make three of them and set them in a bigger triangle. Do it once more.",
+     "parent": "The count goes 3, 9, 27 beans."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Compare the drawings with the cauliflower or a real tree.",
      "say": "Real trees don't split exactly in two. How is your tree like a real one? How is it different?",
-     "kid": "How is your tree like a real tree? How is it different?"
+     "kid": "Look at your tree next to a real tree or the cauliflower. Spot one way they are alike."
     }
    ],
    "setup": [
@@ -1161,7 +1165,7 @@
     },
     {
      "art": "A Sierpinski triangle in colour pencil, three levels deep, with the middle triangles left white.",
-     "caption": "2. Draw a triangle. Colour the corners. Repeat inside each."
+     "caption": "2. Make a triangle of 3 beans. Copy it three times. Repeat."
     }
    ]
   },
@@ -1170,14 +1174,14 @@
    "title": "Grow a Shell Spiral on Squared Paper",
    "mins": 20,
    "days": 1,
-   "context": "In this drawing activity you build squares that get bigger by the Fibonacci numbers, and draw a curve through them that winds out like a shell.",
+   "context": "In this activity you cut out squares that grow by the Fibonacci numbers and fit them together. Then you make a curve through them that winds out like a shell. You will find out why a shell grows into a spiral.",
    "materials": [
     {
      "item": "a maths notebook with squares, or squared paper",
      "qty": 1
     },
     {
-     "item": "a pencil and a coloured pen",
+     "item": "scissors, a pencil and a coloured pen",
      "qty": 1
     }
    ],
@@ -1185,7 +1189,7 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Draw squares of side 1, 1, 2, 3, 5 and 8 boxes. Draw a curve through them. Compare it with a snail shell."
+     "what": "Cut and lay squares of side 1, 1, 2, 3, 5 and 8 boxes. Make a curve through them. Compare it with a snail shell."
     }
    ],
    "record": "Write the side of each square next to it. Then write the next two squares you would draw.",
@@ -1193,15 +1197,15 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. In the middle of the page, draw two 1-box squares side by side. 2. Above them, draw a 2-box square. 3. Next to those, a 3-box square. 4. Then a 5-box square below, and an 8-box square to the side.",
+     "do": "1. Cut squares out of squared paper: two 1-box squares, then a 2-box, 3-box, 5-box and 8-box square. 2. Lay the two 1-box squares side by side. 3. Lay the 2-box square above them. 4. The 3-box square next to those. 5. Then the 5-box square below, and the 8-box square to the side.",
      "say": "Each new square is as long as the two before it put together. That is the Fibonacci rule.",
-     "kid": "Draw two tiny squares. Then a 2 square, a 3 square, a 5 and an 8. Each new square is as long as the two before it put together.",
+     "kid": "Cut out two tiny squares, then bigger ones. Lay them out in order.",
      "parent": "Go round in one direction, adding each new square against the long side of the shape so far. If it goes wrong, it still makes a fine pattern. Just keep going round."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "In each square, draw a quarter circle from one corner to the opposite corner, joining them into one curve.",
+     "do": "In each square, draw a quarter circle from one corner to the opposite corner, joining them into one curve. Not keen to draw? Lay a piece of string through the squares instead.",
      "say": "Now draw a curve through each square, corner to corner. Join them up.",
      "kid": "Draw a curve across each square, corner to corner. Join them into one curve.",
      "parent": "Each curve is a quarter of a circle with its centre at the corner of the square that is nearest the middle of the drawing. The curve bulges away from the middle."
@@ -1211,14 +1215,14 @@
      "mins": 4,
      "do": "Compare the spiral with a shell, a picture of one, or a murukku.",
      "say": "A snail adds a wider piece to their shell each time. Your spiral adds a bigger square each time. How are they alike?",
-     "kid": "Each new square is bigger than the last. Each new bit of a snail's shell is wider than the last. How are your spiral and a shell alike?",
+     "kid": "Hold your spiral next to a shell, a picture of one, or a murukku. How are they alike?",
      "parent": "This spiral is close to the curve of many shells, but real shells each widen at their own rate. They are not all this exact spiral."
     }
    ],
    "setup": [
     {
      "art": "Squared paper with squares of side 1, 1, 2, 3, 5 and 8 boxes fitted together, each labelled.",
-     "caption": "1. Draw squares of 1, 1, 2, 3, 5 and 8 boxes."
+     "caption": "1. Lay out squares of 1, 1, 2, 3, 5 and 8 boxes."
     },
     {
      "art": "The same squares with a curve drawn corner to corner through them, winding out like a shell.",
@@ -1232,7 +1236,7 @@
    "title": "Spiral and Fractal Hunt at Home",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you hunt your home for spirals and for patterns inside patterns, and sort what you find.",
+   "context": "In this activity you hunt your home for spirals and for patterns inside patterns (shapes with smaller copies of themselves, like a cauliflower). You will find out how many hide in your home.",
    "materials": [
     {
      "item": "a notebook and pencil",
@@ -1253,8 +1257,8 @@
      "id": "s1",
      "mins": 10,
      "do": "Walk round the home together, looking for spirals and patterns inside patterns.",
-     "say": "Let's find five spirals and three patterns inside patterns. Try the kitchen, the puja shelf and your own fingertips.",
-     "kid": "Find 5 spirals and 3 patterns inside patterns. Look in the kitchen. Look at your fingertips!",
+     "say": "Let's find five spirals and three patterns inside patterns.",
+     "kid": "Look in the kitchen, on the puja shelf and at your fingertips. Tell your grown-up each one you find.",
      "parent": "Spirals: a murukku or jalebi, a coiled rope, a mosquito coil, the swirl of hair on top of a head, a fingerprint whorl, a shankha. Patterns inside patterns: cauliflower, broccoli, a leaf's veins, a tree from the window, a kolam, a saree border (Kanjivaram, Bandhani or Paithani)."
     },
     {
@@ -1262,10 +1266,10 @@
      "mins": 5,
      "do": "Sort the finds into two groups: made by people, and grew by themselves.",
      "say": "Which of these did people make? Which grew by themselves? Did anything grow with no plan at all?",
-     "kid": "Sort your finds. Which did people make? Which grew by themselves?",
+     "kid": "Put your finds into two groups: made by people, and grew by themselves.",
      "ask": [
       {
-       "q": "Which of the spirals you found grew by themselves, and which did people make?",
+       "q": "Which of the spirals you found grew by themselves?",
        "good": [
         "The swirl of hair, the fingerprint and the shankha grew by themselves.",
         "The murukku, the jalebi and the mosquito coil were made by people."
@@ -1292,7 +1296,7 @@
    "title": "My Patterns Notebook: three zooms a day",
    "mins": 45,
    "days": 3,
-   "context": "In this 3-day project you find one natural thing each day and draw it at three sizes: the whole, a part, and a part of the part.",
+   "context": "In this 3-day project you look at one natural thing each day at three sizes: the whole, a part, and a part of the part. You will find out which things keep the same shape when you zoom in.",
    "materials": [
     {
      "item": "a notebook and pencil",
@@ -1318,7 +1322,7 @@
     {
      "day": 2,
      "mins": 15,
-     "what": "Choose something new, such as a leaf, a tree from the window or a marigold. Draw three zooms."
+     "what": "Choose something new, such as a leaf, a tree from the window or a marigold. Look at three zooms, and photograph or draw them."
     },
     {
      "day": 3,
@@ -1326,7 +1330,7 @@
      "what": "Choose a third thing. Then look at all three pages and write which one stayed self-similar the longest."
     }
    ],
-   "record": "Three pages, each with three drawings in circles, labelled whole, part, part of the part.",
+   "record": "Three pages, each showing one thing at three sizes (drawings, photos or real pieces stuck on), labelled whole, part, part of the part.",
    "flow": [
     {
      "id": "s1",
@@ -1339,17 +1343,17 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "On day 2, choose a new thing and draw three zooms again.",
+     "do": "On day 2, choose a new thing. Look at the whole, a part, and a part of the part (use the magnifying glass, or break or cut it with a grown-up). Take a photo at each size, or draw it.",
      "say": "Did it still look the same when you zoomed in? When did it stop?",
-     "kid": "Pick something new. Draw three zooms. When did it stop looking the same?",
+     "kid": "Pick something new. Look at three sizes: whole, part, part of the part. When did it stop looking the same?",
      "wait": "Come back tomorrow."
     },
     {
      "id": "s3",
      "mins": 15,
-     "do": "On day 3, draw a third thing. Then compare all three pages.",
+     "do": "On day 3, do a third thing your own way: draw it, photograph it, or lay out the real pieces. Then compare all three.",
      "say": "Which thing stayed self-similar for the most zooms? Why might that be?",
-     "kid": "Draw one more. Which of your three stayed the same for the most zooms?",
+     "kid": "Do one more thing. Which of your three stayed the same for the most zooms?",
      "wait": "Come back tomorrow.",
      "parent": "Things that grow by branching, such as broccoli, a fern or a tree, usually stay similar for more zooms than smooth things. Accept any reason that comes from what your child saw."
     }
@@ -1371,7 +1375,7 @@
    "id": "c1",
    "title": "The Longest Coast in a Small Box",
    "mins": 25,
-   "context": "This is a design challenge. You draw an island inside a small square with the longest coast you can, like the fractal shapes engineers use to fit long edges into small spaces.",
+   "context": "This is a design challenge. You will find out how to fit a very long coast into a small square, as engineers do with fractal shapes.",
    "problem": "Draw an island that fits inside a 10 cm square. Make its coast as long as you can. Measure it with a thread.",
    "constraints": [
     "The whole island must fit inside the 10 cm square.",
@@ -1398,7 +1402,7 @@
      "mins": 3,
      "do": "1. Draw a 10 cm square. 2. Draw a round island inside it. 3. Measure its coast with a thread.",
      "say": "A plain round island makes a short coast. How could you make the coast longer without making the island bigger?",
-     "kid": "Draw a round island in the square. Measure its coast with the thread. How could you make the coast longer?"
+     "kid": "Draw a round island in the square. Measure its coast with the thread."
     },
     {
      "id": "s2",
@@ -1412,7 +1416,7 @@
      "mins": 7,
      "do": "Measure the new coast with the thread and compare.",
      "say": "How many times longer is your new coast than the round one?",
-     "kid": "Measure the new coast. How many times longer is it than the round one?",
+     "kid": "Measure the new coast with the thread. Write both lengths side by side.",
      "ask": [
       {
        "q": "What made your coast longer?",
@@ -1459,7 +1463,7 @@
     "A turn of 23 minutes is very close to the golden angle. The beans spread out in curving spirals instead of spokes.",
     "Try 22 or 24 minutes too. With only 30 beans the difference is small, but the pattern changes. Compare them."
    ],
-   "your_turn": "Try a turn of your own choice. Does it make spokes, or spirals? Draw what you get.",
+   "your_turn": "Try a turn of your own choice. Does it make spokes, or spirals? Tell your grown-up what you see, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1474,15 +1478,15 @@
      "mins": 10,
      "do": "1. Put bean 1 near the centre at 12 o'clock. 2. Put bean 2 a little further out, 15 minutes round. 3. Keep going, each bean 15 minutes round and a little further out.",
      "say": "Every bean turns 15 minutes, a quarter circle, and goes a bit further out. What shape do you get?",
-     "kid": "Each bean goes 15 minutes round, and a little further out. What shape appears?",
+     "kid": "Place your beans one by one. What shape do they make?",
      "parent": "Start bean 1 about 2 cm from the centre. Move each new bean about a quarter of a centimetre further out, a little less than the width of a bean. With 15 minutes you get four straight spokes and big empty gaps between them."
     },
     {
      "id": "s3",
      "mins": 12,
      "do": "1. Clear the beans. 2. Do it again, turning 23 minutes each time. Count round the minute marks carefully.",
-     "say": "Now turn 23 minutes each time. Compare it with the 15 minute try.",
-     "kid": "Now turn 23 minutes each time. Does it fill the circle better?",
+     "say": "Clear the beans. Now turn 23 minutes each time, and compare it with the 15 minute try.",
+     "kid": "Place the beans again. Does this fill the circle better?",
      "parent": "23 minutes is 138 degrees, very close to the golden angle of about 137 and a half degrees. Keep adding 23 and take away 60 when you pass 60: bean 1 at 0, then 23, 46, 9, 32, 55, 18. The beans spread out and spirals start to appear. Real sunflowers also place seeds so that the spacing stays even all the way out, so this paper version shows spirals but does not fill the circle perfectly."
     },
     {
@@ -1490,7 +1494,7 @@
      "mins": 3,
      "do": "Compare the two patterns.",
      "say": "Which turn left fewer gaps? Which would fit more seeds?",
-     "kid": "Which turn left fewer gaps? Which could fit more seeds?",
+     "kid": "Look at both patterns. Where are the big gaps?",
      "check": {
       "t": "mcq",
       "q": "Which turn packed the beans with the fewest big gaps?",

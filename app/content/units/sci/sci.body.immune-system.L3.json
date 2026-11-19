@@ -655,7 +655,7 @@
      "mins": 3,
      "do": "1. Lay the body board on the floor. 2. Shuffle the germ cards face down. 3. Deal 3 defence cards to each Body player.",
      "say": "In this game, one of us is a germ trying to get into the body. The rest of us are the body's defences. Germs are tiny living things that can make us ill. Our job is to stop them.",
-     "kid": "Lay out the body board. Mix the germ cards. Take 3 defence cards. You are the body. Stop the germs!",
+     "kid": "You are the body. Your job is to stop the germs.",
      "context": "This is the first step of Get Past the Walls! This is a card game about the body's defences. One side plays germs trying to get in. The other side plays the walls and white blood cells that stop them."
     },
     {
@@ -663,7 +663,7 @@
      "mins": 3,
      "do": "Play the germ card 'Germs on an unwashed guava' together as a practice.",
      "say": "Practice card: germs on an unwashed guava. Someone eats it. Which defence stops these germs?",
-     "kid": "Practice card: germs on an unwashed guava. You eat it. Which defence stops the germs? Point to it.",
+     "kid": "Look through your 3 defence cards. Pick one that could stop these germs.",
      "ask": [
       {
        "q": "How does it stop them?",
@@ -815,7 +815,7 @@
      "mins": 4,
      "do": "Play round 3 with the white blood cell starting next to the germ. 3 tries.",
      "say": "Round three: a hurt place sends out signals, and white blood cells follow them to the germs. So the white blood cell starts right next to the germ.",
-     "kid": "Round three: the white blood cell follows the signals to the germ. She starts right beside the germ. Run!",
+     "kid": "Round three: the white blood cell starts right beside the germ. Run!",
      "context": "This is step 4 of 5 of Germ Tag. This is a running game. Some players are germs trying to reach a cushion, the body. Others are skin and a fast white blood cell who tags germs out."
     },
     {
@@ -823,7 +823,7 @@
      "mins": 1,
      "do": "Swap roles and play again if you like. Then sit down together and talk.",
      "say": "Which round was hardest for the germ? Why?",
-     "kid": "Which round was hardest for the germ? Say why.",
+     "kid": "Think back over all three rounds.",
      "think": "In round three the white blood cell started next to the germ. In your body, what tells white blood cells where the germs are?",
      "parent": "Expect this answer. The hurt place sends out chemical signals, and white blood cells follow those signals to the germs.",
      "context": "This is the last step of Germ Tag. This is a running game. Some players are germs trying to reach a cushion, the body. Others are skin and a fast white blood cell who tags germs out."
@@ -1472,7 +1472,7 @@
    "title": "The Apple Skin Test",
    "mins": 35,
    "days": 7,
-   "context": "In this experiment you test four apples. One keeps its skin whole, and three get a small cut. You watch them for about a week to see which go bad first, and where the rot begins. It shows how skin keeps germs out.",
+   "context": "In this experiment you test four apples. One keeps its skin whole, and three get a small cut. You watch them for about a week to see which go bad first, and where the rot begins. You will find out if whole skin really keeps rot germs out, and if washing a cut helps.",
    "question": "Does unbroken skin keep germs out of an apple? What happens if the skin is cut, and what helps a cut?",
    "predict": "Before you start, guess. Which apple will go soft and bad first? Which will stay fresh longest? Why do you think so? Write your guess for each apple.",
    "fair_test": "To make it fair, use four apples of the same kind that look the same. Make each cut the same size with the same clean knife. Put the same amount of soil on A, C and D. Keep all four bags in the same place. A and C differ only in the cut. C and D differ only in the washing.",
@@ -1539,7 +1539,7 @@
      "what": "Look one last time and compare the apples. Say what you think, what you saw and why."
     }
    ],
-   "record": "Each time you look, write one or two words for each apple: fresh, brown, soft patch, soft and wet, or mouldy. On day 7, draw each apple and show where the soft patch began.",
+   "record": "Each time you look, write one or two words for each apple: fresh, brown, soft patch, soft and wet, or mouldy. On day 7, draw one apple and show where the soft patch began, or take a photo of all four.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results, to show how a finished table can look",
@@ -1616,7 +1616,7 @@
      "mins": 4,
      "do": "Show your child the four apples. Ask them to guess which will go bad first and why.",
      "say": "Here are four apples. An apple's skin is a bit like your skin. It is a wall. We are going to test what happens if the wall is broken. Which apple do you think will go bad first?",
-     "kid": "Look at the four apples. Their skin is like your skin. Guess which apple will go bad first. Write your guess.",
+     "kid": "Guess which apple will go bad first. Say your guess, or write it.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1672,7 +1672,7 @@
      "mins": 6,
      "do": "On day 7, compare all four apples together.",
      "say": "Look at all four apples. Which stayed freshest? Which went bad first? Was your guess right?",
-     "kid": "Look at all four. Which one stayed fresh? Which one went bad first? Was your guess right?",
+     "kid": "Line the four apples up side by side and compare them.",
      "check": {
       "t": "mcq",
       "q": "In the apple skin test, apple A (skin whole) stayed fresh longest. What does that tell us?",
@@ -1765,7 +1765,7 @@
      "what": "Measure your temperature in the morning, after playing, in the afternoon and in the evening. Write each one down. Draw a line chart."
     }
    ],
-   "record": "Write each temperature in the table. Then make a line chart: time along the bottom, temperature up the side.",
+   "record": "Write each temperature in the table. Then make a line chart (time along the bottom, temperature up the side), or list the numbers from lowest to highest.",
    "example_chart": {
     "type": "line",
     "title": "Made-up example: one child's temperature through a day",
@@ -1887,9 +1887,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Help your child draw a line chart of their temperatures.",
+     "do": "Help your child draw a line chart of their temperatures, or put the numbers in order from lowest to highest.",
      "say": "Let's draw our numbers as a line. Time goes along the bottom. Temperature goes up the side. Put a dot for each one and join the dots.",
-     "kid": "Time goes along the bottom and temperature goes up the side. Draw a dot for each temperature, then join the dots.",
+     "kid": "Time goes along the bottom and temperature goes up the side. Draw a dot for each temperature, then join the dots. Or just put your numbers in order, lowest first.",
      "chart": {
       "type": "line",
       "title": "Made-up example: one child's temperature through a day",
@@ -2012,7 +2012,7 @@
      "mins": 3,
      "do": "Ask your child to breathe in through their nose and think about where the dust in the air goes.",
      "say": "The air we breathe has dust in it, and germs ride on the dust. Inside your nose are tiny hairs and sticky mucus. Today we'll make a pretend nose and test whether a sticky surface catches more dust than a smooth one.",
-     "kid": "The air has dust in it. Germs ride on dust. Your nose has hairs and sticky mucus. Guess: does a sticky surface catch more dust than a smooth one?",
+     "kid": "Guess: will a sticky surface catch more dust than a smooth one?",
      "context": "This is the first step of The Sticky Nose Test. In this experiment you make a model of the sticky mucus inside your nose. You put a card with sticky tape and a card with smooth tape near a window, and count how much dust each one traps."
     },
     {
@@ -2063,7 +2063,7 @@
      "mins": 3,
      "do": "Help your child draw a bar chart, one bar for each card.",
      "say": "Draw a bar for each card. Make it as tall as the number of specks.",
-     "kid": "Draw one bar for each card. The taller bar caught more dust.",
+     "kid": "Draw one bar for each card, or just say which card caught more. The taller bar caught more dust.",
      "check": {
       "t": "mcq",
       "q": "In the sticky nose test, the sticky card caught many more specks than the smooth card. What does that show about mucus?",
@@ -2113,7 +2113,7 @@
    "title": "Onion Tears",
    "mins": 10,
    "days": 1,
-   "context": "This is a short noticing activity. A grown-up cuts an onion, and you notice what your eyes do. It shows that tears are a defence, not just for crying.",
+   "context": "This is a short noticing activity. A grown-up cuts an onion, and you notice what your eyes do. You will find out why your eyes water when an onion is cut.",
    "materials": [
     {
      "item": "one onion",
@@ -2136,7 +2136,7 @@
      "what": "Watch a grown-up cut an onion. Notice what your eyes do. Talk about why."
     }
    ],
-   "record": "Draw your eyes with their tears. Write one sentence about what your tears did.",
+   "record": "Tell your grown-up, or write one sentence: what did your tears do, and why?",
    "setup": [
     {
      "art": "A grown-up cutting an onion on a wooden board while a child stands at arm's length watching.",
@@ -2157,7 +2157,7 @@
      "mins": 4,
      "do": "Give your child the hand mirror, then cut an onion in half and into slices, with your child standing nearby.",
      "say": "I'm going to cut an onion. Stand here and watch. Don't touch your eyes. Just notice what happens to them.",
-     "kid": "Hold the hand mirror and watch your eyes. A grown-up cuts an onion. Stand near. Don't touch your eyes. What do you notice?",
+     "kid": "Hold the mirror and watch your eyes while a grown-up cuts the onion. Keep your hands away from your eyes.",
      "adult": true,
      "ask": [
       {
@@ -2169,7 +2169,7 @@
        ]
       }
      ],
-     "context": "This is the first step of Onion Tears. This is a short noticing activity. A grown-up cuts an onion, and you notice what your eyes do. It shows that tears are a defence, not just for crying."
+     "context": "This is the first step of Onion Tears. This is a short noticing activity. A grown-up cuts an onion, and you notice what your eyes do. You will find out why your eyes water when an onion is cut."
     },
     {
      "id": "s2",
@@ -2190,7 +2190,7 @@
      },
      "think": "Your eyes washed themselves without asking you. What else does your body do to protect you without asking?",
      "parent": "Expect answers such as blinking, sneezing, a scab forming over a cut, or the skin going red and warm around a scrape. All of these happen without you deciding to do them.",
-     "context": "This is the last step of Onion Tears. This is a short noticing activity. A grown-up cuts an onion, and you notice what your eyes do. It shows that tears are a defence, not just for crying."
+     "context": "This is the last step of Onion Tears. This is a short noticing activity. A grown-up cuts an onion, and you notice what your eyes do. You will find out why your eyes water when an onion is cut."
     }
    ]
   },
@@ -2200,7 +2200,7 @@
    "problem": "The top layer of your skin is made of flat dead cells. New skin cells grow underneath and push up, and the old cells flake off. Germs that landed on your skin flake off with them. In this activity you lift some of these old flakes off your arm with sticky tape, and you look at them closely.",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look closely at your own skin with a magnifying glass. You use sticky tape to pick up old skin flakes, which shows how skin keeps renewing its outer wall.",
+   "context": "In this activity you look closely at your own skin with a magnifying glass. You will find out what the outer wall of your skin is made of, by lifting some of it off with sticky tape.",
    "materials": [
     {
      "item": "a magnifying glass, or a phone camera zoomed in",
@@ -2222,7 +2222,7 @@
      "what": "Look at your skin. Lift skin flakes with tape. Stick them on black paper and look again."
     }
    ],
-   "record": "Stick your tape on black paper. Label it 'my old wall'. Draw what you saw through the magnifying glass.",
+   "record": "Stick your tape on black paper. Label it 'my old wall'. Write one sentence about what you saw through the magnifying glass.",
    "setup": [
     {
      "art": "A child holding a magnifying glass over the back of their hand, showing fine lines and tiny hairs.",
@@ -2254,14 +2254,14 @@
        ]
       }
      ],
-     "context": "This is the first step of Look at Your Skin Wall. In this activity you look closely at your own skin with a magnifying glass. You use sticky tape to pick up old skin flakes, which shows how skin keeps renewing its outer wall."
+     "context": "This is the first step of Look at Your Skin Wall. In this activity you look closely at your own skin with a magnifying glass. You will find out what the outer wall of your skin is made of, by lifting some of it off with sticky tape."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "1. Press a strip of tape on the forearm. 2. Peel it off. 3. Stick it on black paper. 4. Look with the magnifying glass.",
-     "say": "Let's peel off some of the wall. Those tiny white flakes are dead skin cells. Your skin's top layer is made of flat dead cells packed tight, like tiles on a roof. New cells grow underneath and push up. The old ones flake off and take germs with them.",
-     "kid": "Press tape on your arm. Peel it off. Stick it on black paper. The white flakes are old skin cells.",
+     "say": "Let's peel off some of the wall. Look at the tiny white flakes on the tape. Your skin's top layer is made of flat dead cells packed tight, like tiles on a roof. New cells grow underneath and push up. The old ones flake off and take germs with them.",
+     "kid": "Press tape on your arm. Peel it off. Stick it on black paper. Look at the flakes with the magnifying glass.",
      "check": {
       "t": "mcq",
       "q": "You pressed tape on your arm and stuck it on black paper. What are the tiny white flakes on it?",
@@ -2273,7 +2273,7 @@
       "a": 0,
       "why": "The top layer of skin is made of flat, dead cells. They are always being pushed up from below and flaking off. Germs are far too small to see with a magnifying glass. Picking 'germs' is a common guess, but you would need a microscope to see them."
      },
-     "context": "This is step 2 of 3 of Look at Your Skin Wall. In this activity you look closely at your own skin with a magnifying glass. You use sticky tape to pick up old skin flakes, which shows how skin keeps renewing its outer wall.",
+     "context": "This is step 2 of 3 of Look at Your Skin Wall. In this activity you look closely at your own skin with a magnifying glass. You will find out what the outer wall of your skin is made of, by lifting some of it off with sticky tape.",
      "parent": "The flakes on the tape can be faint. If you see only a few, try the back of the hand or the elbow, where skin is drier."
     },
     {
@@ -2281,7 +2281,7 @@
      "mins": 4,
      "do": "Talk about what makes the wall strong and what breaks it.",
      "say": "Your skin wall keeps germs out as long as it has no holes. What could make a hole in it?",
-     "kid": "Your skin keeps germs out. What could make a hole in it? Say three things.",
+     "kid": "Use your finger to show on your arm where a hole could happen.",
      "ask": [
       {
        "q": "What could break the skin wall?",
@@ -2300,7 +2300,7 @@
        ]
       }
      ],
-     "context": "This is the last step of Look at Your Skin Wall. In this activity you look closely at your own skin with a magnifying glass. You use sticky tape to pick up old skin flakes, which shows how skin keeps renewing its outer wall."
+     "context": "This is the last step of Look at Your Skin Wall. In this activity you look closely at your own skin with a magnifying glass. You will find out what the outer wall of your skin is made of, by lifting some of it off with sticky tape."
     }
    ]
   },
@@ -2310,7 +2310,7 @@
    "problem": "A phagocyte is a white blood cell that eats germs. White blood cells have no eyes, so they find germs by touch and by chemical signals. In this activity your sock hand is the white blood cell. The balls of scrunched paper are the germs, and the bottle caps are the body's own cells. Your job is to find the paper germs by touch and leave the bottle caps alone.",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you act out how a white blood cell eats a germ. Your hand, inside a sock, is the white blood cell. Balls of scrunched paper are the germs. Bottle caps are the body's own cells.",
+   "context": "In this activity you act out how a white blood cell eats a germ. You will find out how a cell with no eyes finds its germs. Your hand, inside a sock, is the white blood cell. Balls of scrunched paper are the germs. Bottle caps are the body's own cells.",
    "materials": [
     {
      "item": "an old sock",
@@ -2337,7 +2337,7 @@
      "what": "Use a sock-hand white blood cell to find the paper-ball germs by touch, and leave the body's own cells alone."
     }
    ],
-   "record": "Draw the three steps of a white blood cell eating a germ: touch, wrap, swallow.",
+   "record": "Tell your grown-up the three steps of a white blood cell eating a germ: touch, wrap, swallow. Then write them as a list.",
    "setup": [
     {
      "art": "A child's hand inside an old sock, the sock shaped like a soft blob with wiggly fingers.",
@@ -2358,15 +2358,15 @@
      "mins": 3,
      "do": "1. Mix the paper balls and the bottle caps in the tray. 2. Give your child the sock to wear like a glove. 3. Put the small bowl next to the tray.",
      "say": "The tray is your blood. The bottle caps are your own body's cells. The paper balls are germs that got in through a cut. Your sock hand is a white blood cell called a phagocyte. That means 'eating cell'.",
-     "kid": "The tray is your blood. Bottle caps are your own cells. Paper balls are germs. Your sock hand is a white blood cell. White blood cells eat germs!",
-     "context": "This is the first step of Be a Phagocyte. In this activity you act out how a white blood cell eats a germ. Your hand, inside a sock, is the white blood cell. Small balls of paper are the germs."
+     "kid": "Put the sock on your hand. You are a white blood cell. Your job is to find the germs and eat them.",
+     "context": "This is the first step of Be a Phagocyte. In this activity you act out how a white blood cell eats a germ. You will find out how a cell with no eyes finds its germs. Your hand, inside a sock, is the white blood cell. Small balls of paper are the germs."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "Ask your child to close their eyes, feel for germs, and wrap the sock hand round each one. Each wrapped germ goes in the bowl.",
      "say": "White blood cells have no eyes. They find germs by touch and by chemical smells. Close your eyes. Feel each thing in the tray. Germs feel crumpled. Your own cells feel smooth. When you find a paper ball germ, close your sock hand round it and drop it in the bowl. Leave the smooth ones alone.",
-     "kid": "Close your eyes. Feel the things in the tray. Germs feel crumpled. Your own cells feel smooth. Wrap your sock round a germ. Drop it in the bowl.",
+     "kid": "Close your eyes. Feel each thing in the tray. Wrap your sock round the crumpled ones and drop them in the bowl.",
      "parent": "Feeling crumpled or smooth stands for the shapes on a germ's surface. Real white blood cells recognise germs by touch, when shapes fit together like a key in a lock.",
      "check": {
       "t": "mcq",
@@ -2379,14 +2379,14 @@
       "a": 0,
       "why": "A white blood cell has no eyes or ears. Hurt cells give off chemical signals, and the white blood cell crawls towards the signals. When the cell touches a germ, shapes on the germ fit shapes on the cell, like a key in a lock. Picking 'eyes' is a natural guess, because that is how we find things."
      },
-     "context": "This is step 2 of 3 of Be a Phagocyte. In this activity you act out how a white blood cell eats a germ. Your hand, inside a sock, is the white blood cell. Small balls of paper are the germs."
+     "context": "This is step 2 of 3 of Be a Phagocyte. In this activity you act out how a white blood cell eats a germ. You will find out how a cell with no eyes finds its germs. Your hand, inside a sock, is the white blood cell. Small balls of paper are the germs."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Count the germs swallowed. Then talk about what happens next.",
      "say": "How many germs are in the bowl? Inside a real white blood cell, the germ is broken down by strong chemicals. After a lot of eating, the white blood cell often dies. A heap of dead white blood cells and germs is pus.",
-     "kid": "Count the germs in the bowl. Inside a real white blood cell, the germ is broken down. After a lot of eating, the cell often dies. A heap of dead white blood cells and germs is pus.",
+     "kid": "Count the germs in the bowl.",
      "ask": [
       {
        "q": "Did you wrap any bottle caps by mistake?",
@@ -2398,7 +2398,7 @@
      ],
      "think": "Sometimes real white blood cells attack the body's own cells by mistake. Scientists call this an autoimmune illness. Why might it be hard to tell germs from your own cells?",
      "parent": "Expect something like this. Germs and your own cells are both covered in tiny molecules, and a few of them look alike. A white blood cell has only touch to go by, so it can sometimes make a mistake.",
-     "context": "This is the last step of Be a Phagocyte. In this activity you act out how a white blood cell eats a germ. Your hand, inside a sock, is the white blood cell. Small balls of paper are the germs."
+     "context": "This is the last step of Be a Phagocyte. In this activity you act out how a white blood cell eats a germ. You will find out how a cell with no eyes finds its germs. Your hand, inside a sock, is the white blood cell. Small balls of paper are the germs."
     }
    ]
   },
@@ -2408,7 +2408,7 @@
    "problem": "Every blink spreads a thin layer of tears across your eye. Tears wash away dust and germs. So the more often you blink, the more often your eyes are washed. In this activity you count how many times a person blinks in one minute.",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you count how many times a person blinks in one minute. Every blink spreads a fresh layer of tears that washes the eye.",
+   "context": "In this activity you count how many times a person blinks in one minute. Every blink spreads a fresh layer of tears that washes the eye. You will find out if you blink less when you read.",
    "materials": [
     {
      "item": "a clock, a sand timer or a phone timer",
@@ -2465,14 +2465,14 @@
        ]
       ]
      },
-     "context": "This is the first step of Count Your Blinks. In this activity you count how many times a person blinks in one minute. Every blink spreads a fresh layer of tears that washes the eye."
+     "context": "This is the first step of Count Your Blinks. In this activity you count how many times a person blinks in one minute. Every blink spreads a fresh layer of tears that washes the eye. You will find out if you blink less when you read."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Count again while each of you reads silently for one minute, then compare.",
      "say": "Now let's count while you read. Do you think the number will be the same?",
-     "kid": "Count blinks again while someone reads. Is the number the same?",
+     "kid": "Make tally marks again while the grown-up reads silently for one minute.",
      "check": {
       "t": "mcq",
       "q": "People usually blink less while reading or looking at a screen. What might that do to their eyes?",
@@ -2486,7 +2486,7 @@
      },
      "think": "People blink about 15 to 20 times a minute when talking. How many times might you blink in a whole day?",
      "parent": "Work it out together. If you blink 15 times a minute, that is 900 times an hour. Over 16 hours awake, that is about 14,000 blinks. The exact number does not matter. The point is that tears wash your eyes all day, and you never notice.",
-     "context": "This is the last step of Count Your Blinks. In this activity you count how many times a person blinks in one minute. Every blink spreads a fresh layer of tears that washes the eye."
+     "context": "This is the last step of Count Your Blinks. In this activity you count how many times a person blinks in one minute. Every blink spreads a fresh layer of tears that washes the eye. You will find out if you blink less when you read."
     }
    ]
   },
@@ -2496,7 +2496,7 @@
    "problem": "Lizards make very little heat of their own. To warm up, they lie on a hot rock. Scientists watched sick lizards and found that the sick ones chose a warmer spot than healthy ones did. In this way a sick lizard gives themselves a fever. In this activity you act out what the lizards did, and then think about why it might help them.",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you act out a real experiment. Scientists found that sick lizards move to warm places and give themselves a fever. It shows that fever is a very old defence.",
+   "context": "In this activity you act out a real experiment. Scientists found that sick lizards move to warm places and give themselves a fever. You will find out why a fever might help a sick animal.",
    "materials": [
     {
      "item": "a warm spot and a cool spot, such as a patch of sun by a window and a shady corner (or any two corners you name that way)",
@@ -2514,7 +2514,7 @@
      "what": "Act out healthy and sick lizards choosing warm and cool spots. Talk about fever."
     }
    ],
-   "record": "Draw a lizard on a warm rock. Write: 'Sick lizards warm up, because…'",
+   "record": "Finish this sentence out loud or in writing: 'Sick lizards warm up, because…'",
    "setup": [
     {
      "art": "A room with a sunny patch by a window and a shady corner, and a towel laid in the sun like a warm rock.",
@@ -2531,8 +2531,8 @@
      "mins": 4,
      "do": "Ask your child to crawl about as a healthy lizard, moving between sun and shade.",
      "say": "Lizards make very little heat of their own. To warm up, they lie on a hot rock. To cool down, they hide in shade. Be a healthy lizard. Move between sun and shade.",
-     "kid": "You are a lizard. Lizards warm up on hot rocks and cool down in shade. Move between sun and shade.",
-     "context": "This is the first step of The Lizard's Fever. In this activity you act out a real experiment. Scientists found that sick lizards move to warm places and give themselves a fever. It shows that fever is a very old defence.",
+     "kid": "You are a lizard. Go to the sun to warm up and to the shade to cool down.",
+     "context": "This is the first step of The Lizard's Fever. In this activity you act out a real experiment. Scientists found that sick lizards move to warm places and give themselves a fever. You will find out why a fever might help a sick animal.",
      "parent": "If your flat has no sunny patch, pick any two corners and call one the warm rock and the other the shade. The acting works the same."
     },
     {
@@ -2540,7 +2540,7 @@
      "mins": 6,
      "do": "Say 'Now you are a sick lizard' and see where your child goes. Then tell them about the experiment.",
      "say": "Now you are a sick lizard. Germs got in. In the 1970s, a scientist called Matthew Kluger watched sick desert lizards. They crawled to warmer spots than healthy ones. They gave themselves a fever! And sick lizards kept in a cool place were more likely to die. So fever is not a mistake. It is one of the oldest defences on Earth. Some fish and insects also warm themselves up when they are sick.",
-     "kid": "Now you are a sick lizard. Where do you go? Real sick lizards crawl to the warm rock. They give themselves a fever. It helps them fight germs.",
+     "kid": "Now you are a sick lizard. Where do you go?",
      "check": {
       "t": "mcq",
       "q": "In an experiment, sick lizards moved to warmer spots than healthy lizards did. What does this tell us?",
@@ -2552,7 +2552,7 @@
       "a": 0,
       "why": "Lizards make very little heat of their own, so they choose warm spots to raise their temperature when they are sick. Those that could warm up survived better. This shows fever is a defence that animals have had for a very long time. Picking 'only in people' is natural, because we notice our own fevers most."
      },
-     "context": "This is the last step of The Lizard's Fever. In this activity you act out a real experiment. Scientists found that sick lizards move to warm places and give themselves a fever. It shows that fever is a very old defence."
+     "context": "This is the last step of The Lizard's Fever. In this activity you act out a real experiment. Scientists found that sick lizards move to warm places and give themselves a fever. You will find out why a fever might help a sick animal."
     }
    ]
   },
@@ -2561,7 +2561,7 @@
    "title": "Draw the Hidden Fight",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw a model: what you think is happening under the skin of a scraped knee, including the parts you can't see. Scientists draw models like this to explain ideas.",
+   "context": "In this activity you make a model of what happens under the skin of a scraped knee, including the parts you can't see. You will find out where the white blood cells come from and what they do. Scientists make models like this to explain ideas.",
    "materials": [
     {
      "item": "a big sheet of paper",
@@ -2570,16 +2570,20 @@
     {
      "item": "coloured pencils or crayons",
      "qty": 1
+    },
+    {
+     "item": "cotton wool and a scrap of brown paper",
+     "qty": 1
     }
    ],
    "schedule": [
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw a big scraped knee from the side, with skin, germs, blood vessels and white blood cells. Label everything."
+     "what": "Draw a scraped knee from the side, with skin, germs and a blood vessel. Then add cotton-wool white blood cells, pus and a scab."
     }
    ],
-   "record": "Label your drawing: skin, cut, germs, blood vessel, white blood cell, pus, scab.",
+   "record": "Point to each part and say its name: skin, cut, germs, blood vessel, white blood cell, pus, scab.",
    "setup": [
     {
      "art": "A big sheet of paper showing a side view of skin like stacked tiles with a gap (the cut) and a red tube underneath.",
@@ -2591,7 +2595,7 @@
     },
     {
      "art": "The finished drawing with a scab like a lid on top, and labels with arrows.",
-     "caption": "3. Add a scab on top. Label every part."
+     "caption": "3. Add a scab on top. Say the name of every part."
     }
    ],
    "flow": [
@@ -2599,8 +2603,8 @@
      "id": "s1",
      "mins": 8,
      "do": "Ask your child to draw a scraped knee from the side, as if it were cut in half. Show the skin and a blood vessel.",
-     "say": "Let's draw what we can't see. Draw the knee as if it were cut in half and seen from the side. Draw the skin like a row of tiles, with a gap where it's scraped. Underneath, draw a blood vessel, a tube that carries blood. Now draw germs coming in. Where do the white blood cells come from?",
-     "kid": "Draw a scraped knee from the side. Draw the skin like tiles, with a gap. Draw a blood vessel under it. Add germs coming in. Where do the white blood cells come from?",
+     "say": "Let's draw what we can't see. Draw the knee as if it were cut in half and seen from the side. Draw the skin like a row of tiles, with a gap where it's scraped. Underneath, draw a blood vessel, a tube that carries blood. Now draw germs coming in.",
+     "kid": "Draw the knee from the side: skin tiles with a gap, a blood vessel under it, and germs coming in. Or tell your grown-up what you would draw.",
      "ask": [
       {
        "q": "Why does the skin around the cut go red and warm?",
@@ -2610,14 +2614,14 @@
        ]
       }
      ],
-     "context": "This is the first step of Draw the Hidden Fight. In this activity you draw a model: what you think is happening under the skin of a scraped knee, including the parts you can't see. Scientists draw models like this to explain ideas."
+     "context": "This is the first step of Draw the Hidden Fight. In this activity you make a model of what happens under the skin of a scraped knee, including the parts you can't see. You will find out where the white blood cells come from and what they do. Scientists make models like this to explain ideas."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "Ask your child to add white blood cells, pus and a scab, and label everything.",
-     "say": "Draw white blood cells squeezing out of the blood vessel and eating germs. Draw a pile of white blood cells that died fighting. That's pus. Now draw a scab on top, like a lid. New skin will grow underneath.",
-     "kid": "Draw white blood cells eating germs. Draw a pile of white blood cells that died fighting: that's pus. Draw a scab on top like a lid. Label it all.",
+     "do": "Give your child cotton wool and brown paper. Ask them to place the white blood cells, pus and scab on the drawing, and say each part's name.",
+     "say": "Where do the white blood cells come from? Put cotton-wool blobs in the blood vessel. Then move them out through its wall to the germs. Heap a few at the germs: those died fighting. That's pus. Now lay the brown paper on top, like a lid. That's the scab. New skin will grow underneath.",
+     "kid": "Move cotton-wool white blood cells out of the blood vessel to the germs. Make a pus heap. Lay the scab on top.",
      "check": {
       "t": "mcq",
       "q": "What is a scab on a scraped knee for?",
@@ -2630,7 +2634,7 @@
       "why": "A scab is dried blood and a sticky mesh. It closes the hole in the skin wall, so fewer germs get in while new skin grows below. That is why we don't pick scabs. Picking 'where germs live' is a common worry, but a clean scab is a lid, not a germ nest."
      },
      "parent": "There is no single right drawing. Look for a wall with a gap, germs getting in, white blood cells coming from the blood, and a scab sealing it. Praise any label the child explains in their own words.",
-     "context": "This is the last step of Draw the Hidden Fight. In this activity you draw a model: what you think is happening under the skin of a scraped knee, including the parts you can't see. Scientists draw models like this to explain ideas."
+     "context": "This is the last step of Draw the Hidden Fight. In this activity you make a model of what happens under the skin of a scraped knee, including the parts you can't see. You will find out where the white blood cells come from and what they do. Scientists make models like this to explain ideas."
     }
    ]
   }
@@ -2698,7 +2702,7 @@
      "mins": 10,
      "do": "Help your child plan the castle on paper: which part is which defence.",
      "say": "Your body is defended like a castle. Let's plan one. What is the outer wall? What are the gates? Who guards the gates? Who are the soldiers inside?",
-     "kid": "Plan a castle that is a body. The wall is skin. The gates are eyes, nose and mouth. Who guards each gate? Draw a plan.",
+     "kid": "Plan a castle that is a body. The wall is skin. The gates are eyes, nose and mouth. Who guards each gate? Draw a plan, or tell your grown-up your plan.",
      "ask": [
       {
        "q": "What guards the nose gate?",
@@ -2786,7 +2790,7 @@
     "Design a reminder sign for your classroom or home that shows where to sneeze.",
     "Test whether two layers of cloth catch more than one layer."
    ],
-   "your_turn": "Now invent your own sneeze stopper. Draw it, test it with three sprays, and compare the spots on the paper. Is it better than the others?",
+   "your_turn": "Now invent your own sneeze stopper. Sketch it or describe it, test it with three sprays, and compare the spots on the paper. Is it better than the others?",
    "setup": [
     {
      "art": "A white paper sheet taped to a wall, a strip of tape on the floor 1 metre away, and a spray bottle with coloured water.",
@@ -2860,9 +2864,9 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Your child designs, draws and tests their own stopper.",
-     "say": "Now invent your own. Draw it first. Then test it the same way.",
-     "kid": "Invent your own sneeze stopper. Draw it. Test it. How many spots got through?",
+     "do": "Your child designs and tests their own stopper. A quick sketch is fine, or just telling you the idea.",
+     "say": "Now invent your own. Tell me the idea first. Then test it the same way.",
+     "kid": "Invent your own sneeze stopper. Sketch it or describe it, then test it. How many spots got through?",
      "context": "This is the last step of The Sneeze Stopper. This is a design challenge. A spray bottle makes a pretend sneeze. You test ways to catch it, and design the best sneeze stopper you can."
     }
    ]
@@ -2871,7 +2875,7 @@
    "id": "c2",
    "title": "The Bandage Designer",
    "mins": 30,
-   "context": "This is a design challenge. You design a cover for a pretend cut on a banana. It must keep out 'germs' (flour and coloured water), stay on, and come off easily.",
+   "context": "This is a design challenge. You design a cover for a pretend cut on a banana. It must keep out 'germs' (flour and coloured water), stay on, and come off easily. You will find out what makes a good cover for a cut.",
    "problem": "A banana has a small 'cut' in its skin. Flour and a few drops of coloured water are the pretend germs. Design a cover that keeps them out. It must stay on when the banana is turned over, and be easy to take off.",
    "constraints": [
     "Use only things from home, like cloth, paper, cling film, cotton and tape.",
@@ -2894,7 +2898,7 @@
     "Make a cover with a soft middle and a waterproof top.",
     "The Sushruta Samhita, an old Indian book on surgery, describes cleaning wounds and binding them with clean cloth. Try a design like that."
    ],
-   "your_turn": "Now invent your own bandage. Draw it, test it, and say how it is like the skin wall it replaces.",
+   "your_turn": "Now invent your own bandage. Make it, test it, and say how it is like the skin wall it replaces.",
    "setup": [
     {
      "art": "A banana with a small shallow cut in its peel, next to cloth, cotton, cling film and tape.",
@@ -2917,7 +2921,7 @@
      "say": "This banana's peel is its skin. I've made a small cut, a hole in the wall. Your job is to design a cover that keeps the pretend germs out of the cut.",
      "kid": "A grown-up makes a cut in the banana peel. Your job: design a cover that keeps germs out.",
      "adult": true,
-     "context": "This is a design challenge. You design a cover for a pretend cut on a banana. It must keep out 'germs' (flour and coloured water), stay on, and come off easily."
+     "context": "This is a design challenge. You design a cover for a pretend cut on a banana. It must keep out 'germs' (flour and coloured water), stay on, and come off easily. You will find out what makes a good cover for a cut."
     },
     {
      "id": "s2",
@@ -2936,15 +2940,15 @@
       "a": 0,
       "why": "Skin keeps germs out only when it has no holes. A cut is a hole. A clean cover acts like a wall until new skin grows. Picking 'to stop it hurting' is understandable, but covering doesn't take away the pain. Its job is to keep germs out."
      },
-     "context": "This is a design challenge. You design a cover for a pretend cut on a banana. It must keep out 'germs' (flour and coloured water), stay on, and come off easily."
+     "context": "This is a design challenge. You design a cover for a pretend cut on a banana. It must keep out 'germs' (flour and coloured water), stay on, and come off easily. You will find out what makes a good cover for a cut."
     },
     {
      "id": "s3",
      "mins": 7,
      "do": "Talk about which cover worked best and why, and how it is like real skin.",
      "say": "Which cover kept the cut cleanest? How is it like skin? What would make it better?",
-     "kid": "Which cover worked best? How is it like your skin? How could you make it better?",
-     "context": "This is a design challenge. You design a cover for a pretend cut on a banana. It must keep out 'germs' (flour and coloured water), stay on, and come off easily."
+     "kid": "Line up your covers from best to worst.",
+     "context": "This is a design challenge. You design a cover for a pretend cut on a banana. It must keep out 'germs' (flour and coloured water), stay on, and come off easily. You will find out what makes a good cover for a cut."
     }
    ]
   }

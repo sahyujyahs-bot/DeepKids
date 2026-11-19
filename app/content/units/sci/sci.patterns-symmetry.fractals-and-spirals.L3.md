@@ -211,7 +211,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Mix them. 3. Lay them face down in four rows of four.  
   *Parent says:* Each card has a partner. One shows a whole thing. The other shows a small part that looks like the whole.  
-  *Child mode:* Mix the cards. Lay them face down in rows. Each card has a partner.
+  *Child mode:* Mix the cards. Lay them face down in four rows of four.
 - **s2 (10 min)**  
   *Parent does:* Take turns turning over two cards. Ask the player to explain each pair they find.  
   *Parent says:* Is that a whole and its part? How do they look alike?  
@@ -226,8 +226,8 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **Printable cards: 4 step strips to cut out, each about half a centimetre wide:** Step strip, 4 cm long; Step strip, 3 cm long; Step strip, 2 cm long; Step strip, 1 cm long
 - **Printable score sheet: Steps and lengths for each player:** Player; Strip size; Steps; Length (cm)
 - **s1 (2 min)**  
-  *Parent does:* Draw and trace the island, then give each player a step strip.  
-  *Parent says:* Everyone walks round the same island. Who will walk the furthest? Guess before we start.  
+  *Parent does:* Draw one bendy island on paper (or copy a bendy coast from a map), trace it once for each player, then give each player a step strip.  
+  *Parent says:* Everyone steps round the same island, each with a different strip. Guess before we start.  
   *Child mode:* Take a step strip. Guess: who will walk the furthest round the island?
 - **s2 (10 min)**  
   *Parent does:* Each player steps round the island and works out their length.  
@@ -237,7 +237,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **s3 (3 min)**  
   *Parent does:* Compare lengths on the score sheet.  
   *Parent says:* Who walked furthest? Why?  
-  *Child mode:* Who walked furthest? Why do you think so?
+  *Child mode:* Read out your lengths from the score sheet, longest first.
   - Check: Who walked the longest coast? → **The player with the 1 cm strip**
 
 ## Experiments
@@ -251,13 +251,13 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **s1 (2 min)**  
   *Parent does:* 1. Open the map. 2. Show your child the coast of Gujarat, from Daman up to the Rann of Kutch. 3. Show the Kerala coast too.  
   *Parent says:* This is the coast of Gujarat. This one is Kerala. Which one is bendier? We will measure both.  
-  *Child mode:* Find Gujarat on the map. Now find Kerala. Which coast is bendier?
+  *Child mode:* Find Gujarat on the map. Now find Kerala. Look at the shape of each coast.
   - Ask: Which coast is bendier? (good: Gujarat. It has big bays and a bit that sticks out.; Kerala's coast is almost straight.)
   - Note: Gujarat has the Gulf of Kutch, the Gulf of Khambhat and the round Kathiawar peninsula. Kerala's coast is fairly smooth. The bigger the map, the clearer the result: on a small map the coast is only a few centimetres long and the difference between the strips is too small to see. In that case use two drawn coasts. If you have no atlas, draw a very bendy coast and a gently curved coast on a sheet of paper, each about 20 cm long.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask for a guess before any measuring. 2. Write the guess and the reason at the top of the page.  
-  *Parent says:* We will measure Gujarat with a long 4 cm strip, then a short 1 cm strip. Will we get the same length? Why do you think so?  
-  *Child mode:* Guess. Will the long strip and the short strip give the same length? Why?
+  *Parent says:* We will measure Gujarat twice: with a long 4 cm strip, then with a short 1 cm strip.  
+  *Child mode:* Look at the two strips. Will they find a longer coast, or will they match?
   - Ask: What is your guess, and why? (good: The same, because it is the same coast.; The short strip gives more, because it goes into the bays.)
   - Note: Most children guess that the two lengths will be the same. That is a fine guess. Don't hint. The test will answer it.
 - **s3 (8 min)**  
@@ -277,7 +277,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **s6 (5 min)**  
   *Parent does:* 1. Measure the Kerala coast with the 4 cm strip, the 1 cm strip and the thread. 2. Compare how much each coast grew.  
   *Parent says:* Now the smooth coast. Did its length grow as much as Gujarat's?  
-  *Child mode:* Measure Kerala with the long strip, the short strip and the thread. Did its length grow as much as Gujarat's?
+  *Child mode:* Measure Kerala with the long strip, the short strip and the thread. Write each length.
   - Ask: Which coast grew more when you measured more closely? Why? (good: Gujarat, because it has more bends to go into.; Kerala is smooth, so there was not much to go into.)
   - Check: The 1 cm strip gave a longer coast than the 4 cm strip. Why? → **The 1 cm strip went into small bends that the 4 cm strip stepped across**
 ### e2 · Count the Pineapple Spirals (25 min)
@@ -290,17 +290,17 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **results table:** Pineapple | Rows going up to the right, try 1 | Try 2 | Rows going up to the left, try 1 | Try 2
 - **s1 (4 min)**  
   *Parent does:* 1. Stand the pineapple on a plate. 2. Look at the scales together. 3. Trace one row with a finger, going up and to the right.  
-  *Parent says:* Each bump is a scale. Follow one row with your finger. It winds up and round like a staircase.  
+  *Parent says:* Each bump is a scale. The scales sit in rows that wind up the pineapple.  
   *Child mode:* Find one row of bumps. Follow it up with your finger. It goes round like a staircase.
   - Note: Each scale is the base of one tiny flower that joined the fruit. The scales sit in rows that wind round. There are three sets of rows. The two easiest to see are the ones to count.
 - **s2 (3 min)**  
   *Parent does:* Ask for the guess and the reason.  
   *Parent says:* How many rows go up to the right, do you think? And to the left? The same number?  
-  *Child mode:* Guess how many rows go each way. Will they be the same? Why?
+  *Child mode:* Guess before you count: will the two numbers be the same?
 - **s3 (8 min)**  
   *Parent does:* 1. Mark one scale near the bottom with the sketch pen. 2. Count the rows going up to the right, one at a time. 3. Stop when you come back to the marked row. 4. Write the number. 5. Count again.  
   *Parent says:* Mark one row so you know where you started. Then count each row as you turn the pineapple.  
-  *Child mode:* Mark one row. Count each row as you turn the pineapple. Stop when you reach the mark.
+  *Child mode:* Count the rows one at a time as you turn the pineapple. Stop when you reach the mark.
   - Note: Mark the top of each row you count, or stick a little paper tab on it. Many pineapples have 8 rows one way and 13 the other. A smaller or bigger one may show another pair of numbers that are next to each other in the list 1, 1, 2, 3, 5, 8, 13, 21, such as 5 and 8 or 13 and 21. If your counts differ by one, count a third time.
 - **s4 (6 min)**  
   *Parent does:* Count the rows going up to the left in the same way, twice.  
@@ -309,16 +309,16 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **s5 (4 min)**  
   *Parent does:* 1. Write 1, 1, 2, 3, 5, 8, 13, 21. 2. Show how each number is the two before it added. 3. Look for your counts in the list.  
   *Parent says:* Here is a famous list. Each number is the two before it added together. Are your numbers in it?  
-  *Child mode:* Look at the list. Each number is the two before it added up. Are your numbers there?
+  *Child mode:* Look for your two counts in the list.
   - Check: Your pineapple has 8 rows one way. How many rows will it most likely have the other way? → **13**
 
 ## Activities
 ### a1 · The Cauliflower Inside the Cauliflower (10 min)
-- **record:** Lay the pieces in a row on the plate, biggest to smallest. Draw the row, and write how many times you could break it and still see a cauliflower.
+- **record:** Lay the pieces in a row on the plate, biggest to smallest. Take a photo of the row (or draw it), and write how many times you could break it and still see a cauliflower.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the cauliflower on the plate. 2. Break off one floret. 3. Hold it next to the whole head.  
   *Parent says:* Look at this floret, and at the whole cauliflower. What do you notice? What do you wonder?  
-  *Child mode:* Break off one floret. Hold it next to the whole cauliflower. What do you notice?
+  *Child mode:* Break off one floret. Hold it next to the whole cauliflower. Look closely.
   - Ask: What do you notice about the floret? (good: It looks like a small cauliflower.; It has bumps like the big one.)
 - **s2 (5 min)**  
   *Parent does:* 1. Break a smaller piece off the floret. 2. Then a smaller piece off that. 3. Keep going until a piece no longer looks like a cauliflower. 4. Count the breaks.  
@@ -328,14 +328,14 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **s3 (2 min)**  
   *Parent does:* Tell your child the word fractal, once they have said what they saw.  
   *Parent says:* A shape whose parts look like smaller copies of the whole is called a fractal. Where else might you see one?  
-  *Child mode:* A shape made of smaller copies of itself is a fractal. Where else could one be?
+  *Child mode:* A shape made of smaller copies of itself is called a fractal.
   - Ask: Where else might a fractal be? (good: In a tree, because branches look like small trees.; In broccoli.; In a fern.)
 ### a2 · Veins Inside Veins: a leaf against the window (10 min)
 - **safety:** Pick only one leaf. Don't pick leaves you don't know, as some have stinging sap.
-- **record:** Draw the leaf's main vein, then the veins that branch off it, then the smaller ones off those.
+- **record:** Draw the leaf's main vein, then the veins that branch off it, then the smaller ones off those. Or tell a grown-up the three levels.
 - **s1 (5 min)**  
   *Parent does:* 1. Hold the leaf up against a bright window. 2. Trace the thick middle vein with a finger. 3. Find a smaller vein branching off it. 4. Find a smaller one again.  
-  *Parent says:* The leaf needs water in every part of it. How do you think the water gets everywhere? Look at the veins.  
+  *Parent says:* The leaf needs water in every part of it. Look at the veins.  
   *Child mode:* Hold the leaf to the window. Find the big vein. Find a smaller one off it. And smaller again.
   - Ask: Why might a leaf have so many branching veins? (good: To carry water to every part.; So no part of the leaf is far from a vein.)
 - **s2 (3 min)**  
@@ -344,16 +344,16 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
   *Child mode:* Look at the inside of your wrist. Can you see blue veins? Do they branch?
   - Note: Thin wrists show two or three branching veins. Smaller vessels branch from these but are too small to see.
 - **s3 (2 min)**  
-  *Parent does:* Draw the leaf's veins, three levels deep.  
+  *Parent does:* Draw the leaf's veins, three levels deep. Or point to each level and name it: big, smaller, smallest.  
   *Parent says:* Draw the big vein, the branches and the smaller branches.  
-  *Child mode:* Draw the big vein. Then its branches. Then the smaller branches.
+  *Child mode:* Draw the big vein. Then its branches. Then the smaller branches. Or point to each and tell your grown-up.
 ### a3 · Branches With No Plan: paint between two sheets (15 min)
 - **problem:** Trees, lightning and snowflakes all have branches inside branches, and nobody draws them. In this activity you make branches with paint pulled apart between two sheets. You find out what makes a shape grow arms that split again and again.
 - **record:** Press a sheet of paper onto the pattern to keep a print, or draw it. Write: slow pull or fast pull.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cover the table. 2. Put a teaspoon of paint in the middle of one sheet. 3. Lay the other sheet on top. 4. Press down so the paint spreads into a circle.  
   *Parent says:* We will pull these apart. What shape do you think the paint will leave? Why?  
-  *Child mode:* Put a blob of paint on one sheet. Put the other sheet on top. Press. Guess what shape the paint will leave when you pull the sheets apart.
+  *Child mode:* Put a blob of paint on one sheet. Put the other sheet on top. Press.
 - **s2 (4 min)**  
   *Parent does:* 1. Hold one corner of the top sheet. 2. Lift it slowly from that corner. 3. Look at both sheets.  
   *Parent says:* Lift it slowly. Look closely. What shape did the paint make?  
@@ -368,74 +368,74 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **s4 (2 min)**  
   *Parent does:* Press paper onto the pattern to keep a print.  
   *Parent says:* Nobody drew these branches. So what made them?  
-  *Child mode:* Press paper on to keep a print. Nobody drew the branches. What made them?
+  *Child mode:* Press paper on to keep a print.
 ### a4 · Draw a Fractal Tree and a Triangle of Triangles (20 min)
-- **record:** Write how many branch tips your tree has at each level, and how many coloured triangles at each level.
+- **record:** Write how many branch tips your tree has at each level, and how many beans at each level of the triangle.
 - **s1 (8 min)**  
   *Parent does:* 1. Draw a straight trunk. 2. At its top, draw two shorter branches in a V. 3. At the top of each branch, draw two shorter branches again. 4. Repeat four or five times.  
   *Parent says:* Here is the rule: every branch splits into two shorter branches. Let's follow the rule and see what grows.  
   *Child mode:* Draw a trunk. Split it into two shorter branches. Split each of those into two. Keep going!
   - Ask: How many tips are there after each split? (good: 2, then 4, then 8, then 16.; It doubles each time.)
 - **s2 (10 min)**  
-  *Parent does:* 1. Draw a big triangle. 2. Join the middles of its three sides, making four triangles inside. 3. Colour the three corner triangles, not the middle one. 4. Do the same inside each coloured triangle.  
-  *Parent says:* This is called a Sierpinski triangle. Each coloured triangle becomes three smaller ones.  
-  *Child mode:* Draw a big triangle. Join the middles of the sides. Colour the three corners. Do it again inside each.
-  - Note: The count goes 1, 3, 9, 27. Two or three levels are plenty with a pencil.
+  *Parent does:* 1. Put 3 beans in a small triangle. 2. Make 3 of these small triangles. 3. Set them in a bigger triangle, with a gap in the middle. 4. Make 3 of those, and set them in a still bigger triangle.  
+  *Parent says:* This is called a Sierpinski triangle. Each level is three copies of the one before.  
+  *Child mode:* Make a triangle of 3 beans. Make three of them and set them in a bigger triangle. Do it once more.
+  - Note: The count goes 3, 9, 27 beans.
 - **s3 (2 min)**  
   *Parent does:* Compare the drawings with the cauliflower or a real tree.  
   *Parent says:* Real trees don't split exactly in two. How is your tree like a real one? How is it different?  
-  *Child mode:* How is your tree like a real tree? How is it different?
+  *Child mode:* Look at your tree next to a real tree or the cauliflower. Spot one way they are alike.
 ### a5 · Grow a Shell Spiral on Squared Paper (20 min)
 - **problem:** The Fibonacci numbers are 1, 1, 2, 3, 5, 8 and so on, where each number is the two before it added together. In this activity you draw squares with these sides and draw one curve through them. Then you compare the curve with a snail shell.
 - **record:** Write the side of each square next to it. Then write the next two squares you would draw.
 - **s1 (10 min)**  
-  *Parent does:* 1. In the middle of the page, draw two 1-box squares side by side. 2. Above them, draw a 2-box square. 3. Next to those, a 3-box square. 4. Then a 5-box square below, and an 8-box square to the side.  
+  *Parent does:* 1. Cut squares out of squared paper: two 1-box squares, then a 2-box, 3-box, 5-box and 8-box square. 2. Lay the two 1-box squares side by side. 3. Lay the 2-box square above them. 4. The 3-box square next to those. 5. Then the 5-box square below, and the 8-box square to the side.  
   *Parent says:* Each new square is as long as the two before it put together. That is the Fibonacci rule.  
-  *Child mode:* Draw two tiny squares. Then a 2 square, a 3 square, a 5 and an 8. Each new square is as long as the two before it put together.
+  *Child mode:* Cut out two tiny squares, then bigger ones. Lay them out in order.
   - Note: Go round in one direction, adding each new square against the long side of the shape so far. If it goes wrong, it still makes a fine pattern. Just keep going round.
 - **s2 (6 min)**  
-  *Parent does:* In each square, draw a quarter circle from one corner to the opposite corner, joining them into one curve.  
+  *Parent does:* In each square, draw a quarter circle from one corner to the opposite corner, joining them into one curve. Not keen to draw? Lay a piece of string through the squares instead.  
   *Parent says:* Now draw a curve through each square, corner to corner. Join them up.  
   *Child mode:* Draw a curve across each square, corner to corner. Join them into one curve.
   - Note: Each curve is a quarter of a circle with its centre at the corner of the square that is nearest the middle of the drawing. The curve bulges away from the middle.
 - **s3 (4 min)**  
   *Parent does:* Compare the spiral with a shell, a picture of one, or a murukku.  
   *Parent says:* A snail adds a wider piece to their shell each time. Your spiral adds a bigger square each time. How are they alike?  
-  *Child mode:* Each new square is bigger than the last. Each new bit of a snail's shell is wider than the last. How are your spiral and a shell alike?
+  *Child mode:* Hold your spiral next to a shell, a picture of one, or a murukku. How are they alike?
   - Note: This spiral is close to the curve of many shells, but real shells each widen at their own rate. They are not all this exact spiral.
 ### a6 · Spiral and Fractal Hunt at Home (15 min)
 - **safety:** Don't touch a lit mosquito coil, a diya or the gas stove.
 - **record:** Make two lists: spirals and patterns inside patterns. Put a star next to the ones that grew by themselves.
 - **s1 (10 min)**  
   *Parent does:* Walk round the home together, looking for spirals and patterns inside patterns.  
-  *Parent says:* Let's find five spirals and three patterns inside patterns. Try the kitchen, the puja shelf and your own fingertips.  
-  *Child mode:* Find 5 spirals and 3 patterns inside patterns. Look in the kitchen. Look at your fingertips!
+  *Parent says:* Let's find five spirals and three patterns inside patterns.  
+  *Child mode:* Look in the kitchen, on the puja shelf and at your fingertips. Tell your grown-up each one you find.
   - Note: Spirals: a murukku or jalebi, a coiled rope, a mosquito coil, the swirl of hair on top of a head, a fingerprint whorl, a shankha. Patterns inside patterns: cauliflower, broccoli, a leaf's veins, a tree from the window, a kolam, a saree border (Kanjivaram, Bandhani or Paithani).
 - **s2 (5 min)**  
   *Parent does:* Sort the finds into two groups: made by people, and grew by themselves.  
   *Parent says:* Which of these did people make? Which grew by themselves? Did anything grow with no plan at all?  
-  *Child mode:* Sort your finds. Which did people make? Which grew by themselves?
-  - Ask: Which of the spirals you found grew by themselves, and which did people make? (good: The swirl of hair, the fingerprint and the shankha grew by themselves.; The murukku, the jalebi and the mosquito coil were made by people.)
+  *Child mode:* Put your finds into two groups: made by people, and grew by themselves.
+  - Ask: Which of the spirals you found grew by themselves? (good: The swirl of hair, the fingerprint and the shankha grew by themselves.; The murukku, the jalebi and the mosquito coil were made by people.)
 
 ## Projects
 ### p1 · My Patterns Notebook: three zooms a day (45 min, 3 days)
 - **safety:** Pick only one leaf or flower, and don't pick plants you don't know.
-- **record:** Three pages, each with three drawings in circles, labelled whole, part, part of the part.
-- **schedule:** day 1: Choose one thing, such as broccoli or a curry leaf stem. Draw it whole, then a part, then a part of that part. (15 min); day 2: Choose something new, such as a leaf, a tree from the window or a marigold. Draw three zooms. (15 min); day 3: Choose a third thing. Then look at all three pages and write which one stayed self-similar the longest. (15 min)
+- **record:** Three pages, each showing one thing at three sizes (drawings, photos or real pieces stuck on), labelled whole, part, part of the part.
+- **schedule:** day 1: Choose one thing, such as broccoli or a curry leaf stem. Draw it whole, then a part, then a part of that part. (15 min); day 2: Choose something new, such as a leaf, a tree from the window or a marigold. Look at three zooms, and photograph or draw them. (15 min); day 3: Choose a third thing. Then look at all three pages and write which one stayed self-similar the longest. (15 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Draw three circles on a page. 2. In the first, draw the whole thing. 3. In the second, a part. 4. In the third, a part of that part.  
   *Parent says:* Let's be zoom scientists. Draw it whole. Then zoom in. Then zoom in again.  
   *Child mode:* Draw three circles. Whole. Then a part. Then a part of the part.
   - Note: Good choices: broccoli, a curry leaf stem with its leaflets, a marigold, a peepal leaf, a tree seen from the window.
 - **s2 (15 min)**  
-  *Parent does:* On day 2, choose a new thing and draw three zooms again.  
+  *Parent does:* On day 2, choose a new thing. Look at the whole, a part, and a part of the part (use the magnifying glass, or break or cut it with a grown-up). Take a photo at each size, or draw it.  
   *Parent says:* Did it still look the same when you zoomed in? When did it stop?  
-  *Child mode:* Pick something new. Draw three zooms. When did it stop looking the same?
+  *Child mode:* Pick something new. Look at three sizes: whole, part, part of the part. When did it stop looking the same?
   - Wait: Come back tomorrow.
 - **s3 (15 min)**  
-  *Parent does:* On day 3, draw a third thing. Then compare all three pages.  
+  *Parent does:* On day 3, do a third thing your own way: draw it, photograph it, or lay out the real pieces. Then compare all three.  
   *Parent says:* Which thing stayed self-similar for the most zooms? Why might that be?  
-  *Child mode:* Draw one more. Which of your three stayed the same for the most zooms?
+  *Child mode:* Do one more thing. Which of your three stayed the same for the most zooms?
   - Note: Things that grow by branching, such as broccoli, a fern or a tree, usually stay similar for more zooms than smooth things. Accept any reason that comes from what your child saw.
   - Wait: Come back tomorrow.
 
@@ -449,7 +449,7 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **s1 (3 min)**  
   *Parent does:* 1. Draw a 10 cm square. 2. Draw a round island inside it. 3. Measure its coast with a thread.  
   *Parent says:* A plain round island makes a short coast. How could you make the coast longer without making the island bigger?  
-  *Child mode:* Draw a round island in the square. Measure its coast with the thread. How could you make the coast longer?
+  *Child mode:* Draw a round island in the square. Measure its coast with the thread.
 - **s2 (15 min)**  
   *Parent does:* Draw a new island in a new square, adding bays inside bays.  
   *Parent says:* Try bays inside bays. Keep inside the square.  
@@ -457,11 +457,11 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **s3 (7 min)**  
   *Parent does:* Measure the new coast with the thread and compare.  
   *Parent says:* How many times longer is your new coast than the round one?  
-  *Child mode:* Measure the new coast. How many times longer is it than the round one?
+  *Child mode:* Measure the new coast with the thread. Write both lengths side by side.
   - Ask: What made your coast longer? (good: Bays inside bays.; More bends at smaller sizes.)
 ### c2 · Be a Sunflower: which turn packs the seeds best? (30 min)
 - **problem:** A sunflower must fit as many seeds as they can into a round head, with no big gaps. Place 30 small dried beans on a paper clock face, one at a time. Turn each bean the same number of minutes round from the last one. Which turn fills the circle best?
-- **your turn:** Try a turn of your own choice. Does it make spokes, or spirals? Draw what you get.
+- **your turn:** Try a turn of your own choice. Does it make spokes, or spirals? Tell your grown-up what you see, or draw it.
 - **constraints:** Use a clock face drawn on paper, with the 60 minute marks.; Each new bean goes a little further from the centre than the last.; Use the same turn for all 30 beans in one try.
 - **general:** A turn of 15 minutes is a quarter of a circle. The beans line up in 4 straight spokes.; A turn of 20 minutes is a third. The beans line up in 3 spokes with wide gaps.
 - **creative:** A turn of 23 minutes is very close to the golden angle. The beans spread out in curving spirals instead of spokes.; Try 22 or 24 minutes too. With only 30 beans the difference is small, but the pattern changes. Compare them.
@@ -472,17 +472,17 @@ That night, Farhan wrote in his notebook: "Beach. Rope: 240 metres. Stick: 310 m
 - **s2 (10 min)**  
   *Parent does:* 1. Put bean 1 near the centre at 12 o'clock. 2. Put bean 2 a little further out, 15 minutes round. 3. Keep going, each bean 15 minutes round and a little further out.  
   *Parent says:* Every bean turns 15 minutes, a quarter circle, and goes a bit further out. What shape do you get?  
-  *Child mode:* Each bean goes 15 minutes round, and a little further out. What shape appears?
+  *Child mode:* Place your beans one by one. What shape do they make?
   - Note: Start bean 1 about 2 cm from the centre. Move each new bean about a quarter of a centimetre further out, a little less than the width of a bean. With 15 minutes you get four straight spokes and big empty gaps between them.
 - **s3 (12 min)**  
   *Parent does:* 1. Clear the beans. 2. Do it again, turning 23 minutes each time. Count round the minute marks carefully.  
-  *Parent says:* Now turn 23 minutes each time. Compare it with the 15 minute try.  
-  *Child mode:* Now turn 23 minutes each time. Does it fill the circle better?
+  *Parent says:* Clear the beans. Now turn 23 minutes each time, and compare it with the 15 minute try.  
+  *Child mode:* Place the beans again. Does this fill the circle better?
   - Note: 23 minutes is 138 degrees, very close to the golden angle of about 137 and a half degrees. Keep adding 23 and take away 60 when you pass 60: bean 1 at 0, then 23, 46, 9, 32, 55, 18. The beans spread out and spirals start to appear. Real sunflowers also place seeds so that the spacing stays even all the way out, so this paper version shows spirals but does not fill the circle perfectly.
 - **s4 (3 min)**  
   *Parent does:* Compare the two patterns.  
   *Parent says:* Which turn left fewer gaps? Which would fit more seeds?  
-  *Child mode:* Which turn left fewer gaps? Which could fit more seeds?
+  *Child mode:* Look at both patterns. Where are the big gaps?
   - Check: Which turn packed the beans with the fewest big gaps? → **23 minutes**
 
 ## Worksheets

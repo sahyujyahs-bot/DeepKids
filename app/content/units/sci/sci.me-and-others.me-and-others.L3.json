@@ -321,7 +321,7 @@
     "with friends",
     "with the family"
    ],
-   "context": "This is a guessing game. Each player secretly becomes someone else, and answers questions as that person or animal would. The others guess who it is.",
+   "context": "This is a guessing game. Each player secretly becomes someone else, and answers questions as that person or animal would. The others guess who it is. You will find out how well you can think like someone else.",
    "printables": [
     {
      "kind": "cards",
@@ -438,15 +438,15 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the cards. 2. Read the rules together. 3. Play one practice turn where the grown-up is 'a crow at a window'. The child reads the first question card.",
-     "say": "I am going to be someone secret. Ask me a question card, and I will answer the way they would. Ready? 'What can you see right now?' I see a girl eating a dosa, and I want the last piece.",
-     "kid": "The grown-up is someone secret. Read a question card to them. Who are they?",
+     "say": "I am someone secret. Ask me the first question card, and I will answer the way they would. 'I see a girl eating a dosa, and I want the last piece.' Who am I?",
+     "kid": "Read the first question card to the grown-up. Then guess who they are.",
      "context": "This is the first step of Guess Who I Am, a game where you answer questions as someone else."
     },
     {
      "id": "s2",
      "mins": 14,
      "do": "Play the game. Each player takes two turns.",
-     "say": "Answer the way the one on your card would. Say what they would say, not what you would say.",
+     "say": "Say what they would say, not what you would say.",
      "kid": "Take an 'I am' card. Answer each question the way the one on your card would.",
      "parent": "If a child holding the crow card answers as themselves ('I like ice cream'), ask, 'Would a crow say that? What does a crow want?' Answers that show a real point of view, such as an ant saying 'Feet are like falling buildings', are the best part of the game.",
      "check": {
@@ -464,9 +464,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Finish and talk about the game.",
-     "say": "Whose card was the hardest to be? Why?",
-     "kid": "Which card was hardest to be? Why?",
+     "do": "Add up the points on the score sheet. Then talk about the game.",
+     "say": "Who won? Which card was hardest to be? Why?",
+     "kid": "Say what made your hardest card hard.",
      "think": "Can you ever know for sure what a crow sees and wants?",
      "parent": "No. We can learn a lot by watching what a crow does and what is in its view. But we cannot be sure what it feels. Scientists still argue about how much animals understand of what others see."
     }
@@ -533,7 +533,7 @@
      "what": "Set out a tumbler, a banana and a lime on a table. Draw your own view, then guess and draw two other people's views. Check each one with a photo from that seat."
     }
    ],
-   "record": "Fill in the table. Stick or draw the photos next to your drawings, and circle anything that came out different. If you have no phone, go and sit in that chair yourself, then draw what you saw from there.",
+   "record": "Fill in the table. Stick the photos next to your drawings, and circle anything that came out different. If you have no phone, go and sit in that chair yourself, then draw what you saw from there.",
    "flow": [
     {
      "id": "s1",
@@ -547,20 +547,20 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Ask your child to draw just what they see from their own chair. Write 'My seat' on it.",
-     "say": "Draw only what you can see from where you sit, not what you know is there.",
-     "kid": "Draw what you see from your chair. Only what you can see.",
-     "parent": "This first drawing is a warm-up. Many children add the lime because they know it is there. That is fine. Ask, 'Can you see it right now?'"
+     "do": "Ask your child to point to each thing and say if it is in front of, behind or beside the tumbler.",
+     "say": "Tell me only what you can see from where you sit, not what you know is there.",
+     "kid": "Point to each thing you can see. Say where it is.",
+     "parent": "This first look is a warm-up. Many children name the lime because they know it is there. That is fine. Ask, 'Can you see it right now?'"
     },
     {
      "id": "s3",
      "mins": 6,
      "do": "1. Sit opposite your child. 2. Ask them to draw what you see from your chair, without getting up. 3. Ask the two prediction questions and write the answers in the table.",
-     "say": "Now draw what I can see from my chair. Stay in your seat. Will I see the lime? Will the banana be on my left or my right? Why do you think so?",
-     "kid": "Stay in your chair. Draw what the grown-up opposite you sees. Will they see the lime? Why?",
+     "say": "Now draw what I can see from my chair. Stay in your seat. Will the banana be on my left or my right?",
+     "kid": "Stay in your chair. Draw what the grown-up sees, or tell where each thing is.",
      "ask": [
       {
-       "q": "Why do you think I can see the lime?",
+       "q": "Can I see the lime from my chair? Why do you think so?",
        "good": [
         "Because the tumbler is between me and the lime, but not between you and the lime.",
         "Because the lime is on your side."
@@ -591,17 +591,17 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "1. You move to the side seat, on your child's right. 2. Your child stays in their chair and draws what you see from there. 3. Take a photo from the side seat at sitting eye height. 4. Compare again and fill in the table.",
+     "do": "1. You move to the side seat, on your child's right. 2. Your child stays in their chair and draws what you see from there, or tells you where each thing is. 3. Take a photo from the side seat at sitting eye height. 4. Compare again and fill in the table.",
      "say": "Now the side seat. This is harder. From there, what is in front, and what is behind? Is anything hidden?",
-     "kid": "Now draw the view from the side chair, on your right. What is in front?",
+     "kid": "Picture the side chair, on your right. Draw it, or tell your grown-up what is in front.",
      "parent": "From the side, the three things may line up differently. The banana may now be in front of the tumbler, or the lime may peep out. Let your child find this from the photo, not from you."
     },
     {
      "id": "s6",
      "mins": 4,
      "do": "Talk about the results. Ask your child to say what they found, what showed it, and why they think it happened.",
-     "say": "Which seat was hardest to draw? What did you get wrong, and why do you think it happened? Which drawing shows the real table?",
-     "kid": "Which seat was hardest? Why? Which drawing was the real table?",
+     "say": "Which seat was hardest? What did you get wrong, and why do you think it happened?",
+     "kid": "Which seat was hardest? Why?",
      "ask": [
       {
        "q": "Which drawing shows the real table?",
@@ -615,7 +615,7 @@
      "parent": "No. From any one seat, some sides of the tumbler are hidden. You need views from several seats to know the whole table."
     }
    ],
-   "context": "In this experiment you try to draw what a person in another chair sees, then check with a photo from their chair.",
+   "context": "In this experiment you try to draw what a person in another chair sees, then check with a photo from their chair. You will find out what you get right and what you get wrong when you picture someone else's view.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results from a child in Class 3",
@@ -713,7 +713,7 @@
      "id": "s2",
      "mins": 3,
      "do": "Ask everyone to guess which eye they will use, and why. Write the guesses down.",
-     "say": "Before we test, guess. Which eye do you think you use first? Will it match the hand you write with? Why do you think so?",
+     "say": "Before we test, guess. Will it match the hand you write with?",
      "kid": "Guess which eye you use first: left or right? Why do you think so?",
      "parent": "Let each person guess. Many people guess it matches their writing hand. This is often true, but not always."
     },
@@ -721,7 +721,7 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Hold the paper at arm's length with both hands. 2. With both eyes open, look through the hole at the clock. 3. Keep still and close the left eye. If the clock stays in the hole, the right eye is the dominant eye. 4. Open the left eye, and close the right eye. If the clock stays in the hole now, the left eye is the dominant one. 5. Do it three times for each person.",
-     "say": "Look through the hole at the clock, with both eyes open. Now close one eye. Did the clock jump out of the hole? Now open that eye and close the other one.",
+     "say": "Look through the hole at the clock, with both eyes open. Now close one eye. Then open it and close the other.",
      "kid": "Look at the clock through the hole. Close one eye. Did the clock jump out of the hole?",
      "parent": "With the dominant eye open, the clock stays in the hole. With only the other eye open, the clock jumps to the side. If a person gets a different eye each try, write 'not clear'. That happens for some people.",
      "check": {
@@ -740,11 +740,11 @@
      "id": "s4",
      "mins": 6,
      "do": "1. Ask each person which hand they write with. 2. Fill in the table. 3. Count the right-eyed and left-eyed people. 4. Talk about the pattern.",
-     "say": "Did everyone use the same eye? Did it always match their writing hand? Were you surprised by anyone?",
+     "say": "Did it always match their writing hand? Were you surprised by anyone?",
      "kid": "Count the right-eyed people and the left-eyed people. Any surprises?",
      "ask": [
       {
-       "q": "We all looked at the same clock. Did we all see it with the same eye first?",
+       "q": "Did we all use the same eye first?",
        "good": [
         "No, some of us used the left eye and some the right.",
         "Yes in our family, but the hand did not always match."
@@ -794,14 +794,14 @@
      "what": "Hide a small toy from one watchman, then from two. Then swap: the child places the watchmen and the grown-up hides."
     }
    ],
-   "record": "Draw the walls from above. Mark each watchman with W and where you hid the toy with a star.",
+   "record": "Draw the walls from above, or take a photo from above. Mark each watchman with W and where you hid the toy with a star, or tell a grown-up where they stood.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Stand two books on a table in a plus shape, making four corners. 2. Put one watchman at the end of one book, facing the middle. 3. Give your child the tiny toy.",
-     "say": "This watchman is looking for the little toy. Hide the little toy where the watchman can't see it.",
-     "kid": "Hide the little toy. The watchman must not see it.",
+     "say": "This watchman is looking for the little toy. Hide it where he can't see it.",
+     "kid": "Pick a corner for the little toy.",
      "parent": "This is the game Martin Hughes played with children of three and four in Edinburgh in 1975. Your child will very likely find it easy. That is the point: even small children can work out what someone else can see.",
      "context": "This is a quick hiding game to start the unit. You hide a toy where a toy watchman cannot see it."
     },
@@ -809,8 +809,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Add a second watchman at the end of the neighbouring book, a quarter turn round from the first watchman. Do not put him at the end opposite the first watchman. 2. Ask your child to hide the toy from both. 3. Ask how they know each watchman can't see it.",
-     "say": "Now there are two watchmen. Find a corner neither of them can see. How do you know?",
-     "kid": "Two watchmen now. Find a corner neither can see. How do you know?",
+     "say": "Now there are two watchmen, so it is harder. Take your time.",
+     "kid": "Find a corner neither watchman can see.",
      "ask": [
       {
        "q": "How do you know the watchman can't see that corner?",
@@ -826,13 +826,13 @@
      "id": "s3",
      "mins": 3,
      "do": "Swap roles. Your child places the two watchmen, and you try to hide the toy.",
-     "say": "Your turn to place the watchmen. Place them so that it is hard for me to hide the toy.",
-     "kid": "Your turn. Place the watchmen. Can the grown-up still hide?",
+     "say": "Your turn to be clever. I will try to hide the toy.",
+     "kid": "Place the watchmen so it is hard for the grown-up to hide the toy.",
      "think": "How did you know what a toy could see, when a toy has no real eyes?",
      "parent": "If your child puts the watchmen at the ends of opposite books, no corner is hidden. Then your child has won. Swap and try again. As for how a child knows what a toy can see, they imagine themselves standing where the watchman stands, and look along a straight line from there. This is how people picture another person's view."
     }
    ],
-   "context": "This is a hiding game to start the unit. A child hides a toy from toy watchmen behind book walls.",
+   "context": "This is a hiding game to start the unit. You will find out if you can tell what a toy watchman cannot see. A child hides a toy from toy watchmen behind book walls.",
    "setup": [
     {
      "art": "Two books standing on a table, crossed in a plus shape, with a small toy watchman at the end of one wall.",
@@ -877,7 +877,7 @@
      "mins": 4,
      "do": "1. Show your child the closed biscuit box. 2. Ask what is inside. 3. Open it and show the pencils. 4. Close it again.",
      "say": "What do you think is in this box? Let's look. Oh, pencils! Now, before you opened it, what did you think was inside?",
-     "kid": "What is in the box? Open it. Were you right?",
+     "kid": "Guess what is in the box. Then watch it open.",
      "parent": "Put the pencils in before you start, out of sight. Most children say 'biscuits'. Children of three often say afterwards that they thought 'pencils' all along.",
      "context": "This is the first step of the Biscuit Box Surprise. A box that looks like biscuits holds pencils."
     },
@@ -885,11 +885,11 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Choose a person at home who has not seen inside the box. 2. Ask your child what that person will say is in the box, and why. 3. Write the guess.",
-     "say": "We are going to ask someone who hasn't seen inside. What will they say is in the box? Why do you think so?",
-     "kid": "Someone hasn't looked in the box. What will they say is inside? Why?",
+     "say": "We are going to ask someone who hasn't seen inside the box.",
+     "kid": "Guess what they will say is inside.",
      "ask": [
       {
-       "q": "Why will they say biscuits, when you know it is pencils?",
+       "q": "What will they say is in the box? Why?",
        "good": [
         "Because they haven't seen inside.",
         "Because the box looks like a biscuit box, and that is all they know."
@@ -901,8 +901,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Your child shows the closed box to the person and asks what is inside. 2. Compare with the guess. 3. Is a child of three or four nearby? With their family's agreement, try it with them too. Ask them what they first thought.",
-     "say": "Was your guess right? They believed something that was not true. Why did it make good sense for them to believe it?",
-     "kid": "Ask them what is inside. Was your guess right? Why did they think that?",
+     "say": "Was your guess right? They believed something that was not true. Why did that make sense?",
+     "kid": "Show them the closed box and ask what is inside.",
      "parent": "Most people will say biscuits, and your child will have predicted it. That shows your child understands a false belief. With a three-year-old the answers are often surprising: many say the next person will say 'pencils', because that is what they now know.",
      "check": {
       "t": "mcq",
@@ -917,7 +917,7 @@
      }
     }
    ],
-   "context": "In this activity you find out what someone thinks is inside a box when they have not seen inside. It is a home version of a famous test.",
+   "context": "In this activity you find out what someone thinks is inside a box when they have not seen inside. You will find out why a person can believe something that is not true. It is a home version of a famous test.",
    "setup": [
     {
      "art": "An empty biscuit box opened to show pencils inside, held by a child.",
@@ -958,8 +958,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Write four cards. Card 1 says: Pour 4 tumblers of water into the jug. Card 2 says: A grown-up cuts the lime, and you squeeze it into the jug. Card 3 says: Add 4 spoons of sugar and a pinch of salt. Card 4 says: Stir until the sugar disappears, then taste and pour. 2. Give one card to each person.",
-     "say": "Each of us has one part of the recipe. You can read your card out loud, but you can't show it. We can only make the drink if we all work it out together.",
-     "kid": "You have one card. Read it out. Don't show it.",
+     "say": "Each of us has one part of the recipe. We can only make the drink if we all work it out together.",
+     "kid": "Read your card out loud. Don't show it.",
      "adult": true,
      "parent": "With fewer than four people, give some people two cards. This is a home version of the jigsaw classroom, where each child holds one piece of a lesson.",
      "context": "This is the first step of Jigsaw Lime Drink. Each person holds one card of a recipe, and nobody can make the drink alone."
@@ -969,7 +969,7 @@
      "mins": 10,
      "do": "Let the family work out the order and make the drink. Step in only to cut the lime.",
      "say": "Who goes first? How do we know? Does the sugar go in before or after the water?",
-     "kid": "Who goes first? Talk about it. Then make the drink.",
+     "kid": "Work out the order together. Then make the drink.",
      "adult": true,
      "parent": "Let them argue a little about the order. The point is that everyone's card is needed, including the youngest person's."
     },
@@ -977,12 +977,12 @@
      "id": "s3",
      "mins": 6,
      "do": "Taste the drink and talk about it.",
-     "say": "Could anyone have made this alone with just their card? What happened when we didn't agree?",
+     "say": "Taste it! What happened when we didn't agree?",
      "kid": "Could you make it alone with your card? Why not?",
      "think": "Which part of making the drink was hardest to agree on?"
     }
    ],
-   "context": "In this activity each person holds one part of a recipe for a lime drink (nimbu paani in Hindi), and the family must work together to make it.",
+   "context": "In this activity each person holds one part of a recipe for a lime drink (nimbu paani in Hindi), and the family must work together to make it. You will find out what happens when nobody can do the job alone.",
    "setup": [
     {
      "art": "Four hand-written cards on a kitchen counter next to a lime, a jug of water, a sugar dabba and a spoon.",
@@ -1016,14 +1016,14 @@
      "what": "Hear the story of the monkey and the crocodile. Then tell it again as the crocodile would tell it."
     }
    ],
-   "record": "Draw the crocodile in the river and write three things the crocodile saw, wanted or was afraid of.",
+   "record": "Write or say three things the crocodile saw, wanted or was afraid of.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Tell the story briefly. A monkey lives in a jamun tree by a river and gives jamun fruit to a crocodile. The crocodile's wife wants the monkey's heart. The crocodile carries the monkey into the river to trick him. The monkey escapes by saying he left his heart in the tree.",
      "say": "This is an old story from the Panchatantra. Listen. Then you will tell it again, but as the crocodile.",
-     "kid": "Hear the story. Then you will be the crocodile.",
+     "kid": "Listen. Notice what the crocodile does and wants.",
      "context": "This is the first step of Tell It From the Other Side. You hear an old story, then tell it from another character's point of view."
     },
     {
@@ -1047,12 +1047,12 @@
      "id": "s3",
      "mins": 3,
      "do": "Talk about what changed when the same story was told by the other side.",
-     "say": "Did the story change when the crocodile told it? Did the things that happened change, or only the way we saw them?",
-     "kid": "You told the same story as the crocodile. What changed?",
+     "say": "You told it as the crocodile. How was it different from the monkey's telling?",
+     "kid": "Did the things that happened change, or only the way we saw them?",
      "think": "Think of a quarrel you had. How would the other person tell it?"
     }
    ],
-   "context": "In this activity you tell an old Panchatantra story from the side of the crocodile instead of the monkey.",
+   "context": "In this activity you tell an old Panchatantra story from the side of the crocodile instead of the monkey. You will find out how the same story feels from the other side.",
    "setup": [
     {
      "art": "A monkey sitting in a jamun tree by a river and a crocodile in the water below, looking up.",
@@ -1075,7 +1075,7 @@
      "qty": 1
     },
     {
-     "item": "paper and coloured pencils",
+     "item": "paper, pencils and two pieces of string, if you have them",
      "qty": 1
     }
    ],
@@ -1087,7 +1087,7 @@
      "what": "Ask a friend six questions. Find three ways you are the same and three ways you are different."
     }
    ],
-   "record": "Draw two overlapping circles. Write what only you have in one, what only your friend has in the other, and what you share in the middle.",
+   "record": "Make two overlapping circles (draw them, or use string). Write what only you have in one, what only your friend has in the other, and what you share in the middle.",
    "flow": [
     {
      "id": "s1",
@@ -1100,7 +1100,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Your child asks the questions and writes or draws the answers. They answer the questions themselves too.",
+     "do": "Your child asks the questions and writes the answers. They answer the questions themselves too.",
      "say": "Ask each question, then listen to the whole answer before you say yours.",
      "kid": "Ask a question. Listen to the whole answer. Then answer it yourself.",
      "adult": true,
@@ -1109,14 +1109,14 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw the two circles and fill them in. Talk about the answers.",
+     "do": "Make two overlapping circles, on paper or with string. Put each answer in the right place. Talk about the answers.",
      "say": "Did any answer surprise you? Is there something your friend finds easy that you find hard?",
-     "kid": "Fill in the circles. What surprised you?",
+     "kid": "Put each answer in the circles: only me, only my friend, or both.",
      "think": "Could you be good friends with someone who is different from you in every answer?",
      "parent": "Nobody is the same as a friend in every answer, and nobody is different in every answer. Friends who differ can still get on well, if they listen to each other and see things from each other's side."
     }
    ],
-   "context": "In this activity you interview a friend to find what you share and how you differ.",
+   "context": "In this activity you interview a friend to find what you share and how you differ. You will find out what you and your friend have in common, and what only one of you has.",
    "setup": [
     {
      "art": "Two children sitting on a staircase in a block of flats, one asking questions from a notebook.",
@@ -1168,7 +1168,7 @@
      "mins": 25,
      "do": "1. Choose a story with two characters who see things differently. 2. Plan scene 1: the story as the first character tells it. 3. Plan scene 2: the same events as the second character tells them. 4. Make costumes from old cloth.",
      "say": "We are going to make a skit with two sides. First, the story as one character sees it. Then the same story as the other character sees it. What will be different in the second scene?",
-     "kid": "Plan two scenes that tell the same story. A different character tells each one.",
+     "kid": "Choose two characters. Say what each one sees and wants.",
      "parent": "Keep each scene to about two minutes. The events must stay the same in both scenes. Only what each character sees, knows and feels changes.",
      "context": "This is the first day of a 2-day project. You plan a skit, which is a short play, that tells one story from two sides."
     },
@@ -1177,13 +1177,13 @@
      "mins": 25,
      "do": "1. Practise both scenes twice. 2. Act them for the family. 3. Record them on the phone. 4. Ask the audience what changed between the scenes.",
      "say": "Now the show. After both scenes, we'll ask the audience: what changed, and what stayed the same?",
-     "kid": "Act both scenes. Ask the audience: what changed?",
+     "kid": "Act both scenes. Speak as each character.",
      "adult": true,
      "think": "Which scene did the audience feel was the true one?",
      "parent": "Both scenes are true. They show the same events from two different places."
     }
    ],
-   "context": "In this 2-day project you act one story twice, from two characters' points of view.",
+   "context": "In this 2-day project you act one story twice, from two characters' points of view. You will show your family how one story changes when a different character tells it.",
    "setup": [
     {
      "art": "Two children planning a skit on paper, one drawing a girl and one drawing a small horned creature.",
@@ -1230,23 +1230,23 @@
      "mins": 5,
      "do": "Read the problem together. Look at a game at home and ask what would be hard for a colour-blind player.",
      "say": "Suppose red and green looked almost the same to you. Which games at home would be hard to play?",
-     "kid": "If red and green looked the same to you, which games would be hard to play?",
+     "kid": "Pick one game at home. Which pieces would be hard to tell apart?",
      "context": "This is a design challenge. You make a board game that people who see colours differently can all play."
     },
     {
      "id": "s2",
      "mins": 20,
-     "do": "Draw a race board of about 30 squares. Make pieces for three players that differ in shape or pattern, not only colour.",
+     "do": "Draw a race board of about 30 squares, or lay out 30 paper squares in a path. Make pieces for three players that differ in shape or pattern, not only colour.",
      "say": "Make the pieces so that someone could tell them apart in a black and white photo.",
-     "kid": "Make pieces you can tell apart without colour.",
+     "kid": "Make three pieces that look different without colour.",
      "parent": "A good test is a black and white photo. Take a photo of the board and open it in the phone's gallery. Most phones have a black and white or mono filter under Edit. If the pieces still look different, the design works."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Play one round and check the design.",
-     "say": "Could everyone tell their piece apart? What would you change?",
-     "kid": "Play once. Could everyone find their piece?",
+     "do": "Play one round. If you have a phone, take a photo of the board and make it black and white. Check the design.",
+     "say": "Play one round. Then tell me what you would change.",
+     "kid": "Could everyone find their own piece?",
      "think": "What other things at home use only colour to tell you something?",
      "parent": "For example, traffic lights, coloured wires, pen caps, medicine strips and gas knobs. Adding a shape, a word or a pattern helps people who see colours differently."
     }
@@ -1292,9 +1292,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Take turns to play each of the three children, and say what they want and why.",
+     "do": "Give each person one of the three children to play: the five-, eight- and ten-year-old.",
      "say": "You are the five-year-old. What do you want? Now you are the ten-year-old. What do you want?",
-     "kid": "Take turns being each child. What do they want? Why?",
+     "kid": "Say what your child wants, and why.",
      "context": "This is a design challenge. You make a plan for sharing one swing that three different children all call fair."
     },
     {
@@ -1302,7 +1302,7 @@
      "mins": 12,
      "do": "Write a plan. Test it by playing it out with the three people.",
      "say": "Will the five-year-old understand this plan? Will the ten-year-old think it is fair?",
-     "kid": "Write the plan. Act it out. Is it fair to all three?",
+     "kid": "Write the plan. Then act it out.",
      "parent": "There is no single right answer. A good plan names what each child needs. Counting swings works better than minutes for younger children."
     },
     {
@@ -1310,7 +1310,7 @@
      "mins": 5,
      "do": "Talk about what made the plan fair or unfair.",
      "say": "Is fair the same as equal? When might a different turn be fairer?",
-     "kid": "Is fair the same as everyone getting the same turn? Why?",
+     "kid": "Was your plan fair to all three? Why or why not?",
      "think": "Who decides what is fair?",
      "parent": "A plan is fair when each person it affects can see why it is fair from where they stand. So all of them should have a say. There is no single right answer."
     }

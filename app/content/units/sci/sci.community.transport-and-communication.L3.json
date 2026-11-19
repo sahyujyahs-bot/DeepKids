@@ -413,7 +413,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about road signs. Each card describes a sign in words. You say its kind from its shape and colour, then what it means.",
+   "context": "You will find out how the shape of a road sign tells you its kind, before you read the picture. Each card describes a sign in words. You say its kind from its shape and colour, then what it means.",
    "printables": [
     {
      "kind": "cards",
@@ -510,7 +510,7 @@
    ],
    "rules": [
     "Shuffle the cards and put them face down.",
-    "Turn over the top card and read the front aloud. If you like, draw the sign beside the words.",
+    "Turn over the top card and read the front aloud.",
     "First say what kind of sign it is from its shape: circle (an order), triangle (a warning) or rectangle (information). That is 1 point. The eight-sided STOP sign and the upside-down triangle (Give way) are orders too.",
     "Then say what it means. Check the back. A right meaning is 1 more point.",
     "With two or more players, take turns. The first player to 15 points wins. If the cards run out first, the highest score wins.",
@@ -523,7 +523,7 @@
      "context": "This is the first step of Sign Snap. You set up the cards.",
      "do": "1. Cut out the 19 cards. 2. Shuffle them and put them face down. 3. Read the rules aloud.",
      "say": "In this game, the shape of a sign tells you its kind before you even know the picture. Circles give orders, triangles warn, and rectangles give information. STOP and Give way are orders too.",
-     "kid": "Cut out the cards. Mix them up. Put them face down. Circles give orders. Triangles warn. Rectangles give information. STOP and Give way are orders too."
+     "kid": "Cut out the cards. Mix them up. Put them face down."
     },
     {
      "id": "s2",
@@ -546,7 +546,7 @@
      "mins": 3,
      "do": "Count the points and talk about which signs were hardest.",
      "say": "Which sign was hardest? Why do you think road signs use pictures, not words?",
-     "kid": "Count your points. Which sign was hardest? Why do signs use pictures, not words?",
+     "kid": "Count your points.",
      "check": {
       "t": "mcq",
       "q": "A sign is a circle with a red border. What kind of sign is it?",
@@ -580,7 +580,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about choosing transport and communication. You get a job, choose a way to do it, and argue why your choice is best.",
+   "context": "You will find out that the best way to carry something or send a message depends on the job. You get a job, choose a way to do it, and say why your choice is best.",
    "printables": [
     {
      "kind": "cards",
@@ -697,7 +697,7 @@
      "mins": 3,
      "do": "Count points, and talk about a job where two answers were both good.",
      "say": "Was there a job where two different choices were both good? What made them good?",
-     "kid": "Count your points. Which job had two good answers?",
+     "kid": "Count your points.",
      "check": {
       "t": "mcq",
       "q": "Which is the cheapest way to carry 2,000 cars across the sea?",
@@ -730,7 +730,7 @@
    "title": "Seen in the Dark: which clothes can a driver see from furthest away?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you are a driver at night. In a dark room, you shine a dim torch at different cloths and find how far away you can still see each one.",
+   "context": "You will find out why some clothes are much safer to wear at night. You pretend to be a driver. In a dark room, you shine a dim torch at different cloths and find how far away you can still see each one.",
    "question": "At night, how far away can a driver see a black cloth, a dark cloth, a white cloth and a yellow cloth?",
    "predict": "Guess first. Which cloth will you still see from furthest away? Which one will vanish first? How many foot-steps away do you think each will vanish? Why do you think so?",
    "fair_test": "Use the same torch, covered the same way, for every cloth. Hang every cloth on the same chair in the same place, with the same dark room behind it. Keep the room just as dark each time. The same person looks every time, holding the torch next to their eye like a car's headlight. Only the cloth changes. Test each cloth twice, because one try can be a fluke.",
@@ -783,7 +783,7 @@
      "what": "Set up the chair in a doorway. Guess. Test each cloth twice in the dark with a dim torch. Then try a reflective strip."
     }
    ],
-   "record": "Fill in the table. Then draw a bar for each cloth, as long as the number of foot-steps.",
+   "record": "Fill in the table. Then lay the cloths in a row, from the one seen furthest away to the one that vanished first. Take a photo.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -844,7 +844,7 @@
      "mins": 6,
      "context": "This is the first step of the Seen in the Dark test. Here you set up the chair and the dim torch.",
      "do": "1. Find the longest straight path in your home, ending at an open doorway. 2. Put the chair in the doorway, with the next room dark behind it. 3. Hang the black cloth over the chair back. 4. Fold the handkerchief into 4 layers and fix it over the torch with the rubber band.",
-     "say": "Tonight you are a driver, and this chair is a person walking on a dark road. The torch is your headlight. We make it dim, because a car's light is weak by the time it reaches someone far away.",
+     "say": "Now you are a driver, and this chair is a person walking on a dark road. The torch is your headlight. We make it dim, because a car's light is weak by the time it reaches someone far away.",
      "kid": "Put the chair in a doorway. Keep the room behind it dark. Hang the black cloth on it. Cover the torch with the folded hanky.",
      "adult": true,
      "parent": "The room behind the chair must be dark, with nothing pale behind the cloth, like a real road at night. If the wall behind is white, the black cloth shows up as a dark patch against it, and the test fails. If your home has no free doorway, hang a dark bedsheet behind the chair."
@@ -854,7 +854,7 @@
      "mins": 4,
      "do": "1. Show your child all the cloths in the light. 2. Ask for a guess and a reason. 3. Your child writes a guess in foot-steps for each cloth in the table.",
      "say": "Which cloth do you think you will still see from furthest away? Which will vanish first? Why do you think so? Write a guess for each one.",
-     "kid": "Look at all the cloths. Which will you see from furthest away? Why? Write a guess for each one.",
+     "kid": "Look at all the cloths. Write a guess in foot-steps for each one.",
      "ask": [
       {
        "q": "Why do you think that cloth will be seen from furthest away?",
@@ -916,7 +916,7 @@
      "mins": 4,
      "do": "1. Switch the lights on. 2. Read the table together. 3. Ask your child what they found, what shows it, and why they think it happened.",
      "say": "What did you find? Which cloth could a driver see from furthest away? What is your evidence? Why do you think it happened?",
-     "kid": "Which cloth did you see from furthest away? Which vanished first? Why do you think so?",
+     "kid": "Look at the table. Which cloth did you see from furthest away? Which vanished first?",
      "ask": [
       {
        "q": "The same torch shone on every cloth. Why did some vanish sooner?",
@@ -1048,7 +1048,7 @@
      "context": "This is the first step of the Words Only test. Here you set up the chairs and the picture cards.",
      "do": "1. Draw 4 picture cards and label them A, B, C and D. Each has the same 4 shapes: a circle, a square, a triangle and a straight line, in different sizes and places. 2. Put two chairs back to back. 3. The describer takes cards A and B, face down. The listener takes paper and a pencil. 4. Ask for guesses and reasons.",
      "say": "You will describe a picture using only words. I will draw it without seeing it. First, guess. Will my drawing be better if I stay silent, or if I can ask questions? Why?",
-     "kid": "Sit back to back. Hide your pictures. Guess which drawing will be better. Will it be better when the listener is silent? Or when the listener can ask questions? Why?",
+     "kid": "Sit back to back. Hide your pictures. Then say your guess and why.",
      "parent": "Keep the shapes simple so the four cards are equally hard. Cards A and B are for the first two rounds. Cards C and D are for the swap."
     },
     {
@@ -1095,7 +1095,7 @@
      "id": "s6",
      "mins": 3,
      "do": "Ask your child what they found, what shows it, and why they think it happened.",
-     "say": "What did you find? What is your evidence? Why do you think questions made such a difference?",
+     "say": "What did you find? What is your evidence? Why do you think it happened?",
      "kid": "Which way gave better drawings? Which was quicker? Why do you think so?",
      "ask": [
       {
@@ -1129,7 +1129,7 @@
    "title": "The Kitchen Journey: how far did our food travel?",
    "mins": 10,
    "days": 1,
-   "context": "This is a quick start to the unit. You read where kitchen packets come from, and work out how they reached your home.",
+   "context": "You will find out how far your kitchen packets travelled, and how they reached your home.",
    "materials": [
     {
      "item": "5 packets or things from the kitchen: rice, salt, tea, sugar, a soap, a fruit",
@@ -1159,7 +1159,7 @@
     },
     {
      "art": "A map of India with dotted lines from Assam, Gujarat and Andhra Pradesh to a city in South India, with a truck, a train and a ship drawn on the lines.",
-     "caption": "2. Find each place on the map. Draw how it travelled."
+     "caption": "2. Find each place on the map. Say how it travelled."
     }
    ],
    "flow": [
@@ -1176,7 +1176,7 @@
      "mins": 5,
      "do": "1. For each packet, ask how it reached your home. 2. Ask what the family would have if nothing could be carried from far away.",
      "say": "How do you think this packet got from where it was made to our shop? And from the shop to our home? What would we have if nothing could travel?",
-     "kid": "How did each thing get here? Truck, train, ship or scooter? What would we eat if nothing could travel?",
+     "kid": "For each packet, pick truck, train, ship or scooter. Then think about what we would eat if nothing could travel.",
      "ask": [
       {
        "q": "How did this packet get to our home?",
@@ -1196,7 +1196,7 @@
    "title": "The Time-line Rope: put transport and messages in order",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you put pictures of old and new transport and messages in order on a string, from oldest to newest.",
+   "context": "You will find out which came first, the boat or the wheel, and how messages grew from drums to phones. You put 12 cards in order on a string.",
    "materials": [
     {
      "item": "a long string or a dupatta, laid across the floor",
@@ -1222,7 +1222,7 @@
    "setup": [
     {
      "art": "Twelve small hand-drawn cards: a footpath, a log boat, a bullock cart, a steam train, an aeroplane, a metro, a drum, a pigeon, a letter, a telephone, a radio and a mobile phone.",
-     "caption": "1. Draw one thing on each card."
+     "caption": "1. Write one thing on each card."
     },
     {
      "art": "A string stretched across a floor with the cards pegged on it in order from oldest to newest.",
@@ -1234,9 +1234,9 @@
      "id": "s1",
      "mins": 6,
      "context": "This is the first step of the Time-line Rope. You make 12 picture cards.",
-     "do": "1. Draw one thing on each of 12 cards. 2. Draw a footpath, a log boat, a bullock cart, a steam train, a bus and an aeroplane. 3. Draw a drum, a messenger pigeon, a letter, a telephone, a radio and a mobile phone.",
-     "say": "Let's draw twelve ways people have travelled and sent messages. Keep each drawing quick and simple.",
-     "kid": "Draw one thing on each card. Keep each drawing small and quick."
+     "do": "1. Write one thing on each of 12 cards. 2. Transport: a footpath, a log boat, a bullock cart, a steam train, a bus and an aeroplane. 3. Messages: a drum, a messenger pigeon, a letter, a telephone, a radio and a mobile phone.",
+     "say": "Let's write twelve ways people have travelled and sent messages, one on each card. A tiny picture is fine too.",
+     "kid": "Write one thing on each card. Add a tiny picture if you like."
     },
     {
      "id": "s2",
@@ -1273,7 +1273,7 @@
    "title": "Sign Spotting: read the road signs near home",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you walk with a grown-up along a road near home and spot road signs and signals. You sort them by shape.",
+   "context": "You will find out what the shapes of road signs tell you. You walk with a grown-up, spot signs near home, and sort them by shape.",
    "materials": [
     {
      "item": "a notebook and pencil",
@@ -1292,7 +1292,7 @@
      "what": "Walk along a nearby road with a grown-up. Draw every road sign you see. Sort them into circles, triangles and rectangles at home."
     }
    ],
-   "record": "Draw each sign you saw. Write what it means. Sort them into three groups: circles (orders), triangles (warnings) and rectangles (information).",
+   "record": "Keep a photo or a drawing of each sign you saw. Say or write what it means. Sort them into three groups: circles (orders), triangles (warnings) and rectangles (information).",
    "setup": [
     {
      "art": "A grown-up and a child on a footpath, the child pointing at a round 'No horn' sign near a hospital gate.",
@@ -1308,8 +1308,8 @@
      "id": "s1",
      "mins": 15,
      "context": "This is the first step of Sign Spotting. You walk with a grown-up and look for road signs.",
-     "do": "1. Walk on the footpath along a busy road near home. 2. Stop in a safe place each time your child spots a sign or signal. 3. They draw it, or you photograph it.",
-     "say": "Let's be sign spotters. Every time you see a road sign or a signal, tell me. We will stop somewhere safe to draw it.",
+     "do": "1. Walk on the footpath along a busy road near home. 2. Stop in a safe place each time your child spots a sign or signal. 3. You photograph it, or your child draws it.",
+     "say": "Let's be sign spotters. Every time you see a road sign or a signal, tell me. We will stop somewhere safe to take a photo of it.",
      "kid": "Hold the grown-up's hand. Look for road signs. Say 'sign!' when you see one.",
      "adult": true,
      "parent": "Look near schools, hospitals, junctions, bus stops and speed breakers. Zebra crossings and the pedestrian lights at a signal count too."
@@ -1337,7 +1337,7 @@
    "title": "Torch Code: send a word across the room without a sound",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you invent a code of short and long torch flashes, like the old telegraph, and send a word across the room.",
+   "context": "You will find out how a word can travel as a pattern of short and long flashes, like a message on the old telegraph. You invent a torch code and send a word across the room.",
    "materials": [
     {
      "item": "a torch, or a phone torch",
@@ -1407,7 +1407,7 @@
    "title": "Window Traffic Count: how many people does each vehicle carry?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you watch the road from a window or balcony, and count vehicles and the people inside them.",
+   "context": "You will find out which vehicle carries the most people. You watch the road from a window or balcony and count vehicles and the people inside them.",
    "materials": [
     {
      "item": "a window or balcony that looks onto a road, or a safe spot at your gate with a grown-up",
@@ -1453,7 +1453,7 @@
      "mins": 4,
      "do": "Compare how many people each kind of vehicle carried, and how much road it took up.",
      "say": "How many cars passed? How many people were in them? About how many cars take up as much road as one bus?",
-     "kid": "Which vehicle carried most people? Which made the most smoke for each person?",
+     "kid": "Which kind of vehicle carried the most people in all? Which carried the fewest people in each vehicle?",
      "ask": [
       {
        "q": "Why might a city want more buses and fewer cars?",
@@ -1472,7 +1472,7 @@
    "title": "Ask an Older Person: how did you travel and send messages at my age?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you ask a grandparent, an older relative or an older neighbour how they travelled and sent messages when they were young.",
+   "context": "You will find out how travel and messages changed in one lifetime. You ask a grandparent, an older relative or an older neighbour how they travelled and sent messages when they were young.",
    "materials": [
     {
      "item": "a phone, or a visit",
@@ -1527,7 +1527,7 @@
    "title": "Our Safe Walk Map: the route to the nearest shop",
    "mins": 45,
    "days": 2,
-   "context": "In this 2-day project you walk the route to a nearby shop with a grown-up, then draw a map that shows the safe crossings, the signs and the dark places.",
+   "context": "You will find out where the walk to the shop is safe and where it is not. In this 2-day project you walk the route with a grown-up, then make a map of the safe crossings, the signs and the dark places.",
    "materials": [
     {
      "item": "a notebook and pencil",
@@ -1555,7 +1555,7 @@
      "what": "Walk the same route at dusk with a torch. Note the dark places. Draw the map with symbols and a key."
     }
    ],
-   "record": "Draw the map. Use a symbol for each crossing, sign, signal and dark spot, and explain them in a key.",
+   "record": "Draw the map, or lay it out with small objects and take a photo. Use a symbol for each crossing, sign, signal and dark spot, and explain them in a key.",
    "setup": [
     {
      "art": "A child and a grown-up on a footpath, the child writing in a notebook next to a zebra crossing.",
@@ -1593,9 +1593,9 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "Draw the map with a key, at home.",
+     "do": "Make the map with a key, at home. Draw it, or lay it out on the floor with small objects and take a photo.",
      "say": "Let's draw the map. Make a symbol for crossings, signals, signs and dark spots, and put them in a key.",
-     "kid": "Draw your home and the shop. Add the crossings, signs and dark spots. Make a key.",
+     "kid": "Show your home and the shop. Add the crossings, signs and dark spots. Make a key. Draw them, or use small objects and take a photo.",
      "ask": [
       {
        "q": "If a friend walked this way at night, what would you tell them?",
@@ -1652,9 +1652,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Your child sketches three ideas, using shapes and colours from real road signs.",
-     "say": "A driver has two seconds to read your sign. What shape should it be? What picture? Draw three ideas.",
-     "kid": "Draw three ideas. What shape? What colour? What picture?"
+     "do": "Your child makes three sign ideas, by sketching them or cutting them from coloured paper. Use shapes and colours from real road signs.",
+     "say": "A driver has two seconds to read your sign. What shape should it be? What picture? Make three ideas.",
+     "kid": "Sketch three ideas, or cut them from coloured paper. Say why you chose each shape and colour."
     },
     {
      "id": "s2",
@@ -1729,7 +1729,7 @@
      "mins": 15,
      "do": "Your child chooses materials and makes a band for the bag.",
      "say": "In the Seen in the Dark test, which cloth did you see from furthest away? Use that to design your band.",
-     "kid": "Think about the Seen in the Dark test. Which cloth did you see from furthest away? Use it to make your band.",
+     "kid": "Pick your materials and make the band.",
      "adult": true,
      "parent": "Help with scissors. If you cut a CD, a grown-up does the cutting, because the edges can be sharp."
     },
@@ -1746,7 +1746,7 @@
      "mins": 5,
      "do": "Talk about what worked best and why.",
      "say": "Which part of your band shone furthest? Why do you think so?",
-     "kid": "Which part shone furthest? Why?"
+     "kid": "Point to the part that shone furthest."
     }
    ]
   }

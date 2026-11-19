@@ -215,8 +215,8 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   *Child mode:* Each card shows a real thing. Its temperature is on the back. Guess which is hotter!
 - **s2 (3 min)**  
   *Parent does:* Take out the hot filter coffee card and the warm bath card. Play one practice turn with them. Then mix them back into the pile.  
-  *Parent says:* This is a practice turn. Which is hotter, hot coffee or a warm bath? If the coffee spilled into the bath, which way would the heat go?  
-  *Child mode:* Which is hotter, hot coffee or a warm bath? Which way would the heat go?
+  *Parent says:* This is a practice turn. Which is hotter, hot coffee or a warm bath? Turn the cards over to check.  
+  *Child mode:* Look at the two cards. Say which is hotter. Then turn them over.
   - Check: Hot coffee spills into a warm bath. Which way does the heat move? → **From the coffee into the bath water, because the coffee is hotter**
 - **s3 (10 min)**  
   *Parent does:* Play the game. After each turn, take a question card.  
@@ -225,8 +225,8 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   - Note: The surprises children enjoy most: a hen is warmer than a person, a pressure cooker is hotter than boiling water, and the Moon's dark craters are far colder than any freezer.
 - **s4 (4 min)**  
   *Parent does:* Mix all 24 temperature cards. Lay them in a line from coldest to hottest, then turn them over to check.  
-  *Parent says:* Now let's make one long line, from the coldest thing to the hottest. Where does your own body go?  
-  *Child mode:* Make one long line, from coldest to hottest. Where does your own body go?
+  *Parent says:* Let's put all the cards in order. Then we turn them over to check.  
+  *Child mode:* Make one line from coldest to hottest. Where does your own body go?
   - Check: Which of these is the hottest? → **A hen's body**
 
 ## Experiments
@@ -245,13 +245,13 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 - **s2 (4 min)**  
   *Parent does:* 1. Show the two empty tumblers. 2. Explain that one will hold hot water and one cold water. 3. Ask for a guess for each tumbler, after 20 minutes and after 3 hours, with a reason. 4. Write the guesses.  
   *Parent says:* One tumbler will be hot and one will be cold. What will each one read after 20 minutes? And after 3 hours? Why do you think so?  
-  *Child mode:* One tumbler will be hot and one will be cold. Guess what each will read after 20 minutes, and then after 3 hours. Why do you think so?
+  *Child mode:* Write a number for each tumbler: one for 20 minutes, one for 3 hours. Say why.
   - Ask: Will the cold tumbler stay cold? (good: It will warm up, because the room is warmer.; It will get closer to the room's number.)
   - Note: Do not say what will happen. Many children think the hot water will cool right down to cold, or that the cold one will stay cold. Any guess with a reason is good.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. Boil some water. 2. Mix it half and half with tap water in a jug. 3. Fill one tumbler to about 2 cm below the rim. 4. Fill the other with fridge water to the same height. 5. Stand them a hand apart on the table, away from the fan.  
   *Parent says:* I am making the hot water now, because it can burn. I am filling both tumblers to the same height. Why should they be the same?  
-  *Child mode:* A grown-up pours the hot water. Do not touch that tumbler. Why do we fill both tumblers to the same height?
+  *Child mode:* A grown-up pours the hot water. Do not touch that tumbler. Look at both: are the water heights the same?
   - Note: Half boiled and half tap water should be about 60 to 65 degrees, which is hot but not scalding. Keep the fan off if you can. Or keep it the same all the time, because moving air cools things faster. Both tumblers are filled to the same height so that each holds the same amount of water. Then any difference in how they change comes from the starting temperature, not from the amount of water.
 - **s4 (22 min) · grown-up needed**  
   *Parent does:* 1. Stand the thermometer in the hot tumbler, stir gently with a spoon, and wait until the line stops. 2. Read it and write it. 3. Wipe the thermometer, and do the same with the cold tumbler. 4. Repeat every 5 minutes, at 0, 5, 10, 15 and 20 minutes.  
@@ -276,15 +276,15 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 - **predict:** Will the water in the bowl get warmer, colder or stay the same? Where will the two numbers stop? Why do you think so?
 - **fair test:** Read the tumbler and the bowl at the same times, every 2 minutes. Stir the bowl water gently before each reading, so the warm water near the tumbler mixes in. Do not move the tumbler.
 - **safety:** A grown-up pours the hot water and lowers the tumbler into the bowl. The child stirs only the outer water, with a spoon.
-- **record:** Fill in the table. Draw both lines on one graph and circle the place where they meet.
+- **record:** Fill in the table. In the table, circle the row where the two numbers meet.
 - **results table:** Time (minutes) | Hot tumbler (°C) | Water in the bowl (°C)
 - **s1 (4 min)**  
   *Parent does:* 1. Pour about three tumblers of tap water into the big bowl. 2. Read its temperature. 3. Ask your child to guess what will happen to it when a hot tumbler stands in it, and why.  
-  *Parent says:* This water is at the same temperature as the room. Soon a hot tumbler will stand in the middle. Will this water change? Where will the two numbers stop?  
+  *Parent says:* This water is at the same temperature as the room. Soon a hot tumbler will stand in the middle.  
   *Child mode:* A hot tumbler will stand in this water. Will the water change? Why?
   - Ask: Where do you think the two numbers will stop? (good: Somewhere in between.; They will become the same.)
 - **s2 (3 min) · grown-up needed**  
-  *Parent does:* 1. Boil some water and mix it half and half with tap water in a jug. 2. Fill the tumbler to about the height that the bowl water will reach on its side. 3. Lower it gently into the middle of the bowl. 4. Read the tumbler at once.  
+  *Parent does:* 1. Boil some water and mix it half and half with tap water in a jug. 2. Fill the tumbler to about the same height as the water in the bowl. 3. Lower it gently into the middle of the bowl. 4. Read the tumbler at once.  
   *Parent says:* I am lowering the hot tumbler into the bowl. Watch the thermometer in it.  
   *Child mode:* A grown-up puts the hot tumbler in the bowl. Read the tumbler.
   - Note: If the tumbler floats or tips, pour a little water out of the bowl. The bowl water should come most of the way up the tumbler's side.
@@ -333,18 +333,18 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 - **record:** Write what each hand said about the middle bowl. Then write the thermometer's number.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Set out the three bowls: warm water on the left, ice water on the right, tap water in the middle. 2. Ask your child to put one hand in each outside bowl. 3. Count slowly to 60.  
-  *Parent says:* Put your left hand in the warm bowl and your right hand in the ice bowl. Keep them there while I count to 60.  
-  *Child mode:* Put your left hand in the warm bowl and your right hand in the ice bowl. Count to 60.
+  *Parent says:* Put your left hand in the warm bowl and your right hand in the ice bowl. I will count to 60.  
+  *Child mode:* Keep both hands in until the count reaches 60.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask your child to move both hands into the middle bowl at the same time. 2. Ask what each hand feels.  
   *Parent says:* Now put both hands in the middle bowl. Is this water warm or cold? Ask each hand.  
-  *Child mode:* Put both hands in the middle bowl. Is the water warm or cold? What does each hand say?
+  *Child mode:* Put both hands in the middle bowl at the same time. Feel it.
   - Ask: What does each hand tell you? (good: The left hand says cold and the right hand says warm.; They say different things.)
   - Note: The hand from the warm bowl feels the water as cold. The hand from the ice bowl feels it as warm. Let your child enjoy the surprise before explaining.
 - **s3 (4 min)**  
   *Parent does:* 1. Dry the hands. 2. Stand the thermometer in the middle bowl and wait until the line stops. 3. Read it together.  
   *Parent says:* Your hands disagree. Let's ask the thermometer. How many numbers does it give?  
-  *Child mode:* Read the thermometer in the middle bowl. One number or two?
+  *Child mode:* Read the thermometer in the middle bowl.
   - Check: Why did one hand feel the middle water as warm and the other as cold? → **Each hand felt whether it was getting warmer or cooler, and one hand was colder to start with**
 ### a2 · The Temperature Hunt: measure five things at home (17 min, 2 days)
 - **safety:** Never put a laboratory thermometer in your mouth or near the stove. Lay it flat when you are not holding it.
@@ -363,7 +363,7 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 - **s3 (2 min)**  
   *Parent does:* Ask which two numbers were closest, and why.  
   *Parent says:* The water that stood out all night read almost the same as the room. Why do you think that is?  
-  *Child mode:* The overnight water matched the room. Why?
+  *Child mode:* Look at your table. Which two numbers are closest?
   - Check: A tumbler of water stood in the room all night. In the morning it reads the same as the room air. Why? → **It had all night to share heat with the room, until both were the same**
 ### a3 · Make a Straw Thermometer (25 min)
 - **safety:** A grown-up makes the hole in the cap and mixes the hot water. Hold the bottle by its neck when it is in the hot bowl.
@@ -376,7 +376,7 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 - **s2 (2 min)**  
   *Parent does:* Mark the level on the straw with the marker. Write 'room' and the real thermometer's room reading next to it.  
   *Parent says:* Let's mark where the water is now. What will happen to it in hot water? Why?  
-  *Child mode:* Mark the water level. Now guess: what will hot water do to it? Why?
+  *Child mode:* Mark the water level. Say your guess for hot water.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Stand the bottle in the bowl of hot water. 2. Stand the real thermometer in the same bowl. 3. Watch the straw for 5 minutes. 4. Mark the highest level, and write the real thermometer's reading beside it.  
   *Parent says:* Watch the straw closely. What is the coloured water doing?  
@@ -386,20 +386,20 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 - **s4 (7 min)**  
   *Parent does:* 1. Move the bottle into the ice water, with the real thermometer. 2. Watch for 5 minutes. 3. Mark the lowest level, and write the real reading beside it.  
   *Parent says:* Now we move it into the ice water. What do you think will happen? Why?  
-  *Child mode:* Now put it in ice water. What happens to the level?
+  *Child mode:* Put the bottle in ice water. Watch the level for 5 minutes.
   - Note: The level falls, often below the room mark. Your child now has a thermometer with three marks. A real thermometer was made the same way, with marks for ice and boiling water.
 ### a4 · Which Way Is the Heat Going? A home hunt (10 min)
 - **safety:** Look, do not touch, anything that might be hot, such as the stove, the iron or a pressure cooker.
-- **record:** Draw six things. Add a red arrow for each, pointing from the warmer thing to the cooler thing.
+- **record:** Write six lines: "Heat goes from ___ into ___." Draw a red arrow for one or two, if you like.
 - **s1 (7 min)**  
   *Parent does:* 1. Walk through the home together. 2. Find six things that are warming up or cooling down. 3. For each, ask which way the heat is going.  
   *Parent says:* Let's find things that are warming up or cooling down. For each one, where is the heat going? From what, into what?  
   *Child mode:* Find six things getting warmer or cooler. Where is the heat going?
   - Note: Good finds: a pot of rice or fish curry cooling after cooking, curd warming on the table, ice melting in a drink, a hot iron cooling, a child's hand on a cold tile, clothes drying in the sun. For ice in a drink, the heat goes from the drink into the ice.
 - **s2 (3 min)**  
-  *Parent does:* Ask your child to draw each one with a red arrow from the warmer thing to the cooler thing.  
-  *Parent says:* Draw each one. Make the heat arrow go from the warmer thing to the cooler thing.  
-  *Child mode:* Draw each one. Add a red heat arrow, from warm to cool.
+  *Parent does:* Ask your child to show each one with an arm, pointing from the warmer thing to the cooler thing, and say it: "Heat goes from the ___ into the ___." Then ask for a red arrow drawn for one or two.  
+  *Parent says:* Show each one by pointing from the warmer thing to the cooler thing. Say: "Heat goes from this into that."  
+  *Child mode:* Point from warm to cool and say it. Draw a red arrow for one or two.
   - Check: Ice cubes are melting in a tumbler of lemon juice. Which way is the heat going? → **From the juice into the ice**
 
 ## Projects
@@ -410,7 +410,7 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Find a shady spot at a window or balcony. 2. Fix the thermometer there so it cannot fall. 3. Draw the table. 4. Take the first readings at 8 am and 2 pm.  
   *Parent says:* For seven days we will read the same thermometer at the same place, every morning and every afternoon. Which will be warmer, do you think? Why?  
-  *Child mode:* Read the thermometer at 8 in the morning and 2 in the afternoon. Which will be warmer? Why?
+  *Child mode:* Read the thermometer at 8 in the morning and 2 in the afternoon. Say which you think will be warmer.
 - **s2 (24 min)**  
   *Parent does:* Each day, read at 8 am and 2 pm. Write the numbers and one word for the weather.  
   *Parent says:* Time for the reading. What does it say? Is it warmer or cooler than yesterday at this time?  
@@ -418,9 +418,9 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   - Note: The afternoon is usually warmer, because the Sun has been heating the ground and the air all morning. On a rainy or very cloudy day the gap is often smaller. If you miss a reading, leave a gap. Do not guess a number.
   - Wait: Come back every day at 8 am and 2 pm, for six more days.
 - **s3 (10 min)**  
-  *Parent does:* 1. On day 7, help your child draw a line graph. 2. Put the days along the bottom and temperature up the side. 3. Draw one line for 8 am and one for 2 pm.  
-  *Parent says:* Let's draw your week. Which day had the biggest gap between morning and afternoon? What was the weather that day?  
-  *Child mode:* Draw your graph. Which day had the biggest gap? What was the weather?
+  *Parent does:* 1. On day 7, help your child draw a line graph, or circle the biggest morning-to-afternoon gap in the table. 2. For a graph, put the days along the bottom and temperature up the side. 3. Draw one line for 8 am and one for 2 pm.  
+  *Parent says:* Let's look at your whole week. Which day had the biggest gap between morning and afternoon?  
+  *Child mode:* Draw your graph, or circle the biggest gap in your table. What was the weather that day?
   - Check: Why is 2 in the afternoon usually warmer than 8 in the morning? → **The Sun has been heating the ground and air for hours**
 
 ## Challenges
@@ -433,17 +433,17 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
 - **creative:** Stand the tumbler in a bigger bowl of tap water, as in Tumbler in a Bowl.; Stir it with a cold steel spoon, and swap the spoon each minute.; Combine two ideas, such as pouring onto a plate and fanning.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up pours one tumbler of hot water. 2. Read it. 3. Ask your child for ideas to cool it fast, with reasons.  
-  *Parent says:* This water is too hot to drink. How can we get it down to 40 degrees quickly, with no fridge and no ice? Why would your idea work?  
-  *Child mode:* Cool this hot water to 40 degrees. No fridge. No ice. What will you try? Why?
+  *Parent says:* This water is too hot to drink. We want it at 40 degrees fast, with no fridge, no ice and no cold water. What could we try?  
+  *Child mode:* Pick an idea to cool the water to 40 degrees. Say why it should work.
 - **s2 (16 min) · grown-up needed**  
   *Parent does:* 1. Try the first idea and time how long it takes to reach 40 °C. 2. Start again with fresh hot water at the same temperature. 3. Try a second idea and time it.  
-  *Parent says:* Let's time your first idea. Now fresh water at the same temperature, and your second idea. Which was faster?  
-  *Child mode:* Time your first idea. Then try a second idea. Which was faster?
+  *Parent says:* Let's time your first idea. Then we start again with fresh hot water and try your second idea.  
+  *Child mode:* Which idea got to 40 degrees first?
   - Note: Pouring between two tumblers and spreading the water in a plate are usually the fastest. A grown-up should do the high pouring. Just leaving the tumbler alone can take 20 minutes or more.
 - **s3 (5 min)**  
   *Parent does:* Ask why the fastest idea worked.  
   *Parent says:* Why did your fastest idea work so well? What did it change?  
-  *Child mode:* Why was your fastest idea the fastest?
+  *Child mode:* Say what your fastest idea did to the hot water.
   - Check: Why does pouring coffee between a tumbler and a davara cool it quickly? → **Pouring makes the coffee lose its heat to the air faster, because much more of it touches the air**
 ### c2 · Give Your Straw Thermometer Numbers (30 min)
 - **problem:** Your straw thermometer goes up and down, but it has no numbers. Use the real thermometer to give it a scale, then use it to measure something new.
@@ -457,13 +457,13 @@ That night, Lakshmi wrote at the bottom of her page: The heat did not vanish. It
   *Child mode:* Put both thermometers in one bowl. Wait. Mark the straw. Write the real number.
   - Note: The straw thermometer is slow, because a whole bottle of water has to warm up. Give it 5 minutes in each bowl. This is a good chance to see why real thermometers have a small bulb.
 - **s2 (10 min)**  
-  *Parent does:* 1. Tape a paper strip behind the straw. 2. Draw the three marks with their numbers. 3. Mark equal steps between them.  
-  *Parent says:* Now draw your scale. If 30 is here and 45 is here, where would 40 go?  
-  *Child mode:* Draw your scale on paper. Where would 40 go?
+  *Parent does:* 1. Tape a paper strip behind the straw. 2. Write the three numbers beside the three marks. 3. Mark equal steps between them.  
+  *Parent says:* Now we make the scale. If 30 is here and 45 is here, where would 40 go?  
+  *Child mode:* Write the numbers on the paper strip. Where would 40 go?
 - **s3 (5 min)**  
   *Parent does:* Ask a grown-up to mix a fourth bowl. Read the straw first, then check with the real thermometer.  
   *Parent says:* What does your straw thermometer say? Now let's check with the real one. How close were you?  
-  *Child mode:* Read your straw thermometer. Then check with the real one. How close?
+  *Child mode:* Write your straw reading. Then read the real thermometer.
   - Check: Why does the straw thermometer take much longer to settle than a real thermometer? → **Its bottle holds much more water, so it needs much more heat to warm up**
 
 ## Worksheets

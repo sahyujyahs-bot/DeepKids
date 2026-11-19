@@ -213,16 +213,16 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Lay the 4 store cards in a row. 3. Shuffle the 24 cards and make a pile.  
   *Parent says:* Each card shows something with energy. You say whether its energy is waiting or moving.  
-  *Child mode:* Each card has energy. Is it waiting or moving? Say which!
+  *Child mode:* Look at the cards. You will say waiting or moving for each one.
 - **s2 (10 min)**  
   *Parent does:* Take turns turning over cards, saying waiting or moving, and placing waiting cards under a store.  
   *Parent says:* A coconut high on a palm tree. Waiting or moving? Which store? What would let its energy out?  
-  *Child mode:* Turn a card. Waiting or moving? Which store? How does the energy come out?
+  *Child mode:* Turn a card. Say waiting or moving. Then put it under its store.
   - Note: The two tricky cards are the phone on its charger and the clock key being turned. Their energy is moving into a store, filling it. The back of each card says so. Count a child who says 'moving' as right.
 - **s3 (2 min)**  
   *Parent does:* Count the cards and the bonus points.  
-  *Parent says:* Let's count. Which store had the most cards under it?  
-  *Child mode:* Count your cards. Which store got the most?
+  *Parent says:* Let's count. Which store has the most cards under it?  
+  *Child mode:* Count your cards and bonus points.
   - Check: Which card shows energy waiting in height? → **A water tank on the roof**
 ### g2 · Wind Me Up: an acting game (10 min)
 - **rules:** One player is the Winder. Everyone else picks a toy card and freezes.; The Winder turns an invisible key on a player's back, counting the turns out loud, from 1 to 10.; The player must stay frozen until the Winder says 'Let go!'; Then the player acts out their toy: 1 turn gives 1 step, 5 turns give 5 steps. They slow down as their steps run out, and then stop.; A player who moves before 'Let go!' or does more steps than turns becomes the next Winder.
@@ -249,7 +249,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 - **predict:** We will wind the jar 1, 2, 3 and 4 turns. Guess how far it will roll back each time. Will 4 turns go further than 1 turn, the same, or less? And if we hold it still for a minute before letting go, will it still roll back? Why do you think so?
 - **fair test:** Use the same jar, the same band, the same padlock and the same floor every time. Roll the jar slowly by hand, and let go without pushing. Only the number of turns changes. Try each number of turns 3 times and use the middle result, because one try can be a fluke.
 - **safety:** A grown-up makes the holes in the lid and the base, because the nail or scissor point can slip. Keep fingers away from the point. If a rubber band snaps, it can sting, so keep your face away from a tight band.
-- **record:** Fill in the table. Then draw a bar for each number of turns, as tall as the middle result. Write one sentence under it: what the bars show.
+- **record:** Fill in the table. Then show each number of turns as a bar, as long as the middle result: draw it, or lay a strip of paper or string of that length. Write one sentence: what the bars show.
 - **results table:** Turns wound | My guess (cm) | Try 1 (cm) | Try 2 (cm) | Try 3 (cm) | Middle result (cm)
 - **s1 (3 min)**  
   *Parent does:* 1. Roll an empty jar with its lid on along the floor towards your child. 2. Ask what they notice. 3. Then show the rubber band and the padlock that will go inside the jar, before you build it.  
@@ -262,8 +262,8 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
   - Note: The band should run straight from the middle of the base to the middle of the lid, a little stretched. If the padlock touches the side of the jar, shorten the thread or the band chain. Stick a strip of coloured tape along the outside of the jar, so you can count the turns as it rolls.
 - **s3 (3 min)**  
   *Parent does:* 1. Put the jar on its side on a chalk line on the floor. 2. Ask your child to guess how far it will roll back after 1, 2, 3 and 4 turns. 3. Write each guess in the table. 4. Ask the second question: will it still roll back if we hold it still for a minute?  
-  *Parent says:* When I roll this jar forward, what do you think happens to the band inside? How far will it roll back after one turn? After four turns? Why do you think so?  
-  *Child mode:* Guess how far it rolls back after 1, 2, 3 and 4 turns. Why do you think so?
+  *Parent says:* When I roll this jar forward, what do you think happens to the band inside? How far will it roll back after one turn? After four turns?  
+  *Child mode:* Guess how far it rolls back after 1, 2, 3 and 4 turns.
   - Ask: Why do you think more turns will make it roll back further? (good: Because the band gets more twisted.; Because more twisting stores more energy.; Because I push it more.)
   - Note: Do not explain yet. Any guess is good if your child gives a reason. Some children think it will roll back the same however far it goes. That is a fine guess to test.
 - **s4 (14 min)**  
@@ -299,7 +299,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess whether the tired cell will run the clock, and why.  
   *Parent says:* This cell can hardly light the torch. Do you think it can run the clock? Why do you think so?  
-  *Child mode:* This cell can hardly light the torch. Will it run the clock? Why?
+  *Child mode:* Guess before we try: will the clock tick, tick slowly, or stay still?
   - Ask: Why do you think the clock will not work? (good: Because the cell is finished.; Because the torch did not light, so there is no energy left.)
   - Ask: Why do you think the clock might still work? (good: Because a clock needs less energy than a torch.; Because the torch was dim, not dark, so a little energy is left.)
   - Note: Both guesses are good if your child gives a reason. Do not tell them the answer.
@@ -324,7 +324,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 ## Activities
 ### a1 · Energy Waiting: a home hunt (12 min)
 - **safety:** Look at the gas cylinder and the stove, but do not touch them.
-- **record:** Draw a table with four columns: height, shape, food and fuel, cells. Write each thing you find in the right column.
+- **record:** Rule a table with four columns: height, shape, food and fuel, cells. Write each thing you find in the right column. A grown-up can write for you.
 - **s1 (2 min)**  
   *Parent does:* Hold a rubber band stretched between your fingers, very still. Ask your child whether the band has any energy.  
   *Parent says:* This band is not moving. Does it have any energy? What will happen when I let go?  
@@ -343,7 +343,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
   - Check: A clothes peg is pinching a towel on the line. What kind of store is in the peg? → **A shape store, in its squashed spring**
 ### a2 · The Pop-Up Jumper (20 min)
 - **safety:** A grown-up helps with the scissors. Point the jumper away from faces when you let it go.
-- **record:** Draw your jumper folded flat and jumping. Write which band made it jump higher.
+- **record:** Write which band made it jump higher, and how many cm each one jumped. Drawing your jumper is optional.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Cut two squares of card, 8 cm by 8 cm. 2. Lay them side by side with a 2 mm gap. 3. Tape along the gap on both sides, to make a hinge. 4. On each square, cut a small notch in the middle of the edge furthest from the hinge. 5. Stretch the band across the back, from notch to notch.  
   *Parent says:* We are making a hinge, like the spine of a book. The band goes across the back, from one notch to the other.  
@@ -356,11 +356,11 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
   - Note: Folding the card with the band outside stretches the band. The stretched band snaps the card open, and it hops. How high it hops depends on your card and band. It may hop only a few centimetres, or flip over. If it only opens without hopping, use a tighter band or a stiffer card.
 - **s3 (6 min)**  
   *Parent does:* 1. Use the same card and the same floor each time. 2. Try a looser band, then a tighter band, 3 times each. 3. Hold a ruler upright beside the jumper and see how high each one jumps.  
-  *Parent says:* Which band do you think will make it jump higher, the loose one or the tight one? Why? Let's try.  
-  *Child mode:* Try a loose band. Then a tight band. Which jumps higher? Why?
+  *Parent says:* Let's test two bands, a loose one and a tight one. Watch how high each one makes the card jump.  
+  *Child mode:* Try a loose band. Then a tight band. Hold the ruler beside it and see how high it jumps.
   - Check: A tighter band is stretched more when the card is folded. Which band should store more energy and make the jumper jump higher? → **The tight band**
 ### a3 · Energy on the Packet: which food stores the most? (15 min)
-- **record:** Make a list of the foods, with the energy number per 100 grams next to each. Draw a star next to the one with the most.
+- **record:** Make a list of the foods, with the energy number per 100 grams next to each. Put a star next to the one with the most.
 - **s1 (5 min)**  
   *Parent does:* 1. Turn a packet over, for example a biscuit packet. 2. Find the table called nutrition information. 3. Find the line that says Energy, and the number with kcal next to it, per 100 g.  
   *Parent says:* Food stores energy, and the packet tells us how much. Look for the word Energy, and a number with kcal. That is the energy stored in 100 grams.  
@@ -378,7 +378,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
   - Check: Which kind of food stores the most energy for its weight? → **Fats and oils**
 ### a4 · Three Holes in a Bottle: why the tank is on the roof (20 min)
 - **safety:** A grown-up makes the holes, because the nail can slip. Do this in the bathroom or on the balcony, where splashes do not matter.
-- **record:** Draw the bottle and the three jets, as they really came out. Write which jet was strongest, and why.
+- **record:** Write which jet was strongest, and why. Show how the jets really came out: draw the bottle and the three jets, or take a photo.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Make three holes in a line up the side of the bottle. 2. Put one 3 cm from the bottom, one in the middle and one near the top. 3. Cover all three with one strip of tape.  
   *Parent says:* I'll make three holes, one above the other. We'll cover them with tape until we are ready.  
@@ -386,8 +386,8 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 - **s2 (3 min)**  
   *Parent does:* 1. Stand the bottle on the upturned bowl in the bucket. 2. Fill it to the top with water. 3. Ask your child to guess which hole will shoot out hardest.  
   *Parent says:* When we pull off the tape, which hole do you think will squirt the hardest? The top, the middle or the bottom? Why do you think so?  
-  *Child mode:* Which hole will squirt hardest? Top, middle or bottom? Why?
-  - Ask: Why do you think the bottom hole will squirt hardest? (good: Because it has the most water above it.; Because the water above pushes down on it.)
+  *Child mode:* Point to the hole you think will squirt hardest.
+  - Ask: Why do you think that hole will squirt hardest? (good: Because it has the most water above it.; Because the water above pushes down on it.)
 - **s3 (6 min)**  
   *Parent does:* 1. Pull off the tape quickly. 2. Watch the three jets. 3. Keep watching as the bottle empties.  
   *Parent says:* Look at the three jets. Which one shoots out fastest? What happens to the jets as the water goes down?  
@@ -395,12 +395,12 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
   - Note: The bottom jet shoots out fastest and hardest, because the most water is above it. The water above is pressing down on that hole. The middle jet often lands furthest, because it starts higher up than the bottom jet. As the bottle empties, every jet gets weaker, because the water level is falling. The top jet stops first.
 - **s4 (5 min)**  
   *Parent does:* Talk about the water tank on the roof, and the taps on each floor. If your building has no roof tank, talk about a tank in a building you know.  
-  *Parent says:* Many buildings keep water in a tank on the roof. Which tap do you think flows hardest, on the ground floor or the top floor? Why?  
-  *Child mode:* Water is kept in a tank on the roof. Which tap flows hardest, ground floor or top floor? Why?
+  *Parent says:* Many buildings keep water in a tank on the roof. Think about the taps on each floor, from the ground floor up to the top.  
+  *Child mode:* Think about the roof tank and the taps below it. Which tap do you think flows hardest?
   - Check: In a building with a tank on the roof, which tap usually flows hardest? → **The tap on the ground floor, furthest below the tank**
 ### a5 · The Twirling Button (15 min)
 - **safety:** Keep the spinning button away from hair and faces.
-- **record:** Draw the button and the twisted thread. Write where the energy waits when the button slows down and turns round.
+- **record:** Write where the energy waits when the button slows down and turns round. Show the twisted thread: draw it, or show your grown-up with the string.
 - **s1 (5 min)**  
   *Parent does:* 1. Thread the string through two holes of the button. 2. Tie the ends to make a loop. 3. Slide the button to the middle. 4. Hold one end of the loop in each hand.  
   *Parent says:* This toy is very old. Children in many countries have played with it. Let's thread it.  
@@ -412,8 +412,8 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
   - Note: It takes a few tries to find the rhythm. Pulling makes the button spin fast. As it spins, it twists the string the other way. When the button slows down, the twisted string holds the energy, and starts spinning the button back again.
 - **s3 (4 min)**  
   *Parent does:* Ask your child to watch the moment the button stops and turns.  
-  *Parent says:* Watch the button. At one moment it stops, and then it spins the other way. Where is the energy at that moment?  
-  *Child mode:* The button stops, then turns the other way. Where is the energy then?
+  *Parent says:* Keep it spinning and watch closely. At one moment the button stops, and then it spins the other way.  
+  *Child mode:* Spot the moment the button stops and turns back. Say 'now!' when you see it.
   - Check: When the twirling button stops for a moment, where is its energy? → **In the twisted string**
 
 ## Projects
@@ -432,7 +432,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
   - Wait: Come back on day 2 and day 3.
 - **s3 (10 min)**  
   *Parent does:* 1. On day 4, write the three numbers as usual. 2. Then do a test with a grown-up. Write the battery number. 3. Play a video for 10 minutes and write the number. 4. Leave the screen off for 10 minutes and write the number again.  
-  *Parent says:* Which do you think empties the store faster, a video or the screen being off? Why? Let's test it.  
+  *Parent says:* Which do you think empties the store faster, playing a video or leaving the phone with its screen off? Why? Let's test it.  
   *Child mode:* Guess first. Video or screen off: which uses more? Why? Now test it.
   - Note: A video with a bright screen and sound usually takes a few percent of the battery in 10 minutes. With the screen off, the number usually stays the same or falls by 1. Phones differ, so go by your own numbers.
 - **s4 (10 min)**  
@@ -464,7 +464,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
   - Check: Someone changed two things on a roll-back jar at once, and the jar went further. What is the problem? → **They cannot tell which change helped**
 ### c2 · The Slowest Marble (40 min)
 - **problem:** Build a track on a cupboard door or a wall, from as high as you can reach down to the floor, so that a marble takes as long as possible to reach the bottom.
-- **your turn:** Now design your own slow track. Draw it first. Time it 3 times and try to beat your best.
+- **your turn:** Now design your own slow track. Plan it first: sketch it, or lay the channels on the floor to see the shape. Time it 3 times and try to beat your best.
 - **constraints:** The marble must start at the top by itself, with no push.; It must keep moving all the way down, with no stops.; Use only paper, card, cardboard tubes and masking tape.
 - **general:** Make a zigzag of gently sloping channels, so the marble goes back and forth across the door.; Make the slopes gentle, so the marble does not speed up much on each one.
 - **creative:** Add a funnel made from a paper cone, where the marble spirals round before dropping.; Add a short uphill part, where the marble uses some of its speed to climb.; Make a cup at the end that rings a steel bell or a spoon when the marble lands.
@@ -480,7 +480,7 @@ That night, Nikhil lay in bed and listened to the clock. Tick, tock. He thought 
 - **s3 (10 min)**  
   *Parent does:* 1. Time the marble 3 times. 2. Compare with the straight drop.  
   *Parent says:* The marble started at the same height both times, with the same energy waiting. Why did the track make it take so much longer?  
-  *Child mode:* Time it 3 times. Why does it take longer than the drop?
+  *Child mode:* Time it 3 times. How much longer is it than the straight drop?
   - Check: The marble starts at the same height for the straight drop and for the zigzag track. Which is true? → **The marble has the same energy waiting, but the track lets it out more slowly**
 
 ## Worksheets

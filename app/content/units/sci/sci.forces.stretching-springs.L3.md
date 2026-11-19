@@ -278,13 +278,13 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **Printable tokens: 20 spring tokens to cut out:** Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀; Spring token 🌀
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the three mats on the floor: SPRING BACK, STAY and SNAP. 2. Shuffle the 24 cards and put them face down in a pile. 3. Put the spring tokens in a bowl.  
-  *Parent says:* Here are three mats. Spring back, stay changed and snap. Before we start, can you think of one thing for each mat? Why does it belong there?  
+  *Parent says:* Here are three mats. Spring back, stay changed and snap.  
   *Child mode:* Put the three mats on the floor. Spring back, stay, and snap. Mix up the cards. Put them face down. For each card, pick a mat.
   - Ask: Name one thing for each mat, and say why. (good: A hair band springs back, because it goes back to its loop.; Playdough stays changed.; A papad snaps.)
 - **s2 (3 min)**  
   *Parent does:* Find the card 'Pen spring, pulled very hard'. Play it together as a practice round.  
-  *Parent says:* Let's practise with a tricky one. A pen spring, pulled very hard. Does it spring back, stay, or snap?  
-  *Child mode:* Practice card: a pen spring, pulled very hard. Spring back, stay or snap? Say your answer.
+  *Parent says:* Let's practise with a tricky one. A pen spring, pulled very hard.  
+  *Child mode:* Practice card: a pen spring, pulled very hard. Think about what happens to it.
   - Ask: Why does a spring pulled very hard stay long? (good: It went past its limit.; It was stretched too far, so it can't come back.)
   - Note: The same spring pulled gently goes on SPRING BACK. This shows that one thing can be elastic up to a limit, and then stay changed.
   - Check: A pen spring pulled very hard. Which mat does it go on? → **STAY**
@@ -344,7 +344,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **s2 (3 min)**  
   *Parent does:* 1. Ask your child for a guess and a reason. 2. Write both at the top of the table. 3. Don't say whether it is right.  
   *Parent says:* Before we add anything, guess. Every time we add 5 coins, will the band grow by the same amount? By more and more? Or by less and less? Why do you think so?  
-  *Child mode:* Guess first. Will each 5 coins add the same stretch? More each time? Less each time? Say why.
+  *Child mode:* Make your guess before you add any coins. Tell your grown-up why.
   - Ask: What do you think will happen, and why? (good: The same each time, because each 5 coins pull the same.; More and more, because the band gets thinner.; Less and less, because the band pulls back harder.)
   - Note: Any guess with a reason is a good guess. Don't hint. The coins will answer it. Some children pick 'more and more', because a long band looks weaker.
 - **s3 (2 min)**  
@@ -360,7 +360,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **s5 (3 min)**  
   *Parent does:* 1. Ask your child to look only at the last column. 2. Ask what they notice before you say anything.  
   *Parent says:* Look at the last column, the steps. What do you notice about them? Was your guess right? What do you think is going on?  
-  *Child mode:* Look at your steps, in the last column. What do you notice? Was your guess right?
+  *Child mode:* Look at the last column of your table. Compare it with your guess.
   - Ask: What do you notice about the steps? (good: They are nearly all the same.; Each 5 coins added about 1 cm.; The last steps were a bit bigger.)
   - Note: Many bands give nearly equal steps, then slightly bigger steps near the end. Both are honest results. Write down what you really saw.
   - Check: Most of the steps were about the same size. What pattern does that show? → **Equal numbers of coins added give equal steps of stretch**
@@ -373,7 +373,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **s7 (3 min) · grown-up needed**  
   *Parent does:* 1. Unscrew an old clicky pen and take out the spring. 2. Lay it along the ruler and measure it. 3. Ask for a guess and a reason.  
   *Parent says:* Now a spring. We'll pull it a little further each time and let go. Will it always come back to this length? If not, when will it stop? Why do you think so?  
-  *Child mode:* Ask a grown-up for the spring from a pen. Measure it. Will it always come back? Say why.
+  *Child mode:* Ask a grown-up for the spring from a pen. Lay it beside the ruler and read its length.
   - Ask: Will the spring always come back? Why do you think so? (good: Yes, because springs always come back.; No, if I pull too far it will stay long.; It will snap if I pull too hard.)
 - **s8 (6 min)**  
   *Parent does:* 1. Hold one end of the spring at 0 on the ruler. 2. Pull the other end 1 cm past its length, hold for 3 seconds, and let go. 3. Measure it and write it down. 4. Repeat, pulling to 2, 3, 5 and 7 cm past its first length. 5. At the end, pull it gently a little and let go.  
@@ -400,7 +400,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **s2 (3 min)**  
   *Parent does:* 1. Show your child the 10 cm and 15 cm marks on the ruler. 2. Ask for a guess and a reason. 3. Write both down.  
   *Parent says:* First we'll pull the band back to the 10 cm mark. Then to the 15 cm mark. Which will fly further? Why do you think so?  
-  *Child mode:* Guess first. Pulled to 10 cm, or pulled to 15 cm. Which flies further? Say why.
+  *Child mode:* Look at the 10 cm and 15 cm marks on the ruler. Make your guess, then tell why.
   - Ask: What do you think will happen, and why? (good: The 15 cm pull flies further, because the band is stretched more.; The same, because it is the same band.; The 10 cm pull, because a long stretch might wobble.)
   - Note: Any guess with a reason is a good guess. Don't hint. The band will answer it.
 - **s3 (6 min) · grown-up needed**  
@@ -424,7 +424,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **predict:** Before you test each thing, guess. Will it spring back, stay changed, or snap? Why do you think so?
 - **fair test:** Measure each thing before you stretch it. Stretch each one to about twice its length, or bend it gently, then let go. Measure it again straight away. That way you compare each thing with itself.
 - **safety:** A grown-up cuts the plastic strips. Bend the spaghetti away from your face.
-- **record:** Fill in the table. Circle the things that sprang back. Draw the plastic strip before you pulled it, and after it tore.
+- **record:** Fill in the table. Circle the things that sprang back. Take a photo of the plastic strip before you pull it and after it tears, or tell a grown-up how the middle of the strip changed.
 - **results table:** Thing | My guess | Length before (cm) | Length after (cm) | Sprang back, stayed or snapped?
 - **s1 (4 min)**  
   *Parent does:* 1. Line up the four things. 2. Measure each one and write its length in the table. 3. Write your child's guess for each.  
@@ -451,7 +451,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **question:** Which ball bounces highest when dropped from the same height?
 - **predict:** Line up the balls. Put the one you think will bounce highest first, and the one you think will bounce lowest last. Why did you choose that order?
 - **fair test:** Drop every ball from the same height, 1 metre, onto the same hard floor. Let go without pushing it down. Drop each ball 3 times and take the middle value.
-- **record:** Fill in the table. Then draw a bar chart, with one bar for each ball's middle value.
+- **record:** Fill in the table. Then draw a bar chart with one bar for each ball's middle value, or line the balls up from lowest to highest bounce.
 - **results table:** Ball | Try 1 bounce (cm) | Try 2 bounce (cm) | Try 3 bounce (cm) | Middle value (cm)
 - **s1 (4 min)**  
   *Parent does:* 1. Tape the strip to a wall, from the floor up. 2. Ask your child to put the balls in a line, highest bouncer first.  
@@ -469,9 +469,9 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Child mode:* Drop the dough ball. Does it bounce? What shape is it now?
   - Check: The dough ball did not bounce. It went flat. Why? → **Dough is hardly elastic, so it does not spring back**
 - **s4 (3 min)**  
-  *Parent does:* Help your child draw a bar chart of the middle values.  
+  *Parent does:* Help your child draw a bar chart of the middle values, or line the balls up from lowest to highest bounce.  
   *Parent says:* Let's draw one bar for each ball. A taller bar means a higher bounce.  
-  *Child mode:* Draw one bar for each ball. Make it as tall as its middle bounce. Which ball is best?
+  *Child mode:* Draw one bar for each ball, as tall as its middle bounce. Or line the balls up from lowest to highest. Which ball is best?
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Tell me three things in your own words. Which ball is the most elastic? What did you see that shows it? And why do you think the dough did not bounce?  
@@ -488,7 +488,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. Hunt around the home. 2. Look at pens, clothes pegs, the stapler, the mattress and the sofa. 3. Look at hair bands, pyjama elastic, a cycle seat and a woven cot.  
   *Parent says:* For each one, what is its job? Does it stretch, squash, bend or bounce? What would happen if it were not elastic?  
-  *Child mode:* For each find, say its job. Does it stretch, squash, bend or bounce? Write it down.
+  *Child mode:* For each find, say its job. Does it stretch, squash, bend or bounce? Your grown-up can write it down.
   - Note: Good finds include the squash spring in a clicky pen and the twisty spring in a clothes peg. Look for stretch springs in a spring balance or a trampoline. The elastic in socks, a hair band and the springs in a cycle seat count too.
 - **s3 (3 min)**  
   *Parent does:* Ask your child to choose one of their finds and imagine it made of something stiff, like wood or steel. Ask what would go wrong.  
@@ -505,7 +505,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **s2 (3 min)**  
   *Parent does:* Ask for two guesses, each with a reason, and write them down.  
   *Parent says:* Now we'll join two bands in a chain and hang the same 20 coins. Will the chain stretch as much as one band, twice as much, or half as much? Why? And what about two bands side by side?  
-  *Child mode:* Guess. Two bands in a chain: same stretch, twice, or half? Two side by side? Say why.
+  *Child mode:* Guess for the chain, then for the bands side by side. Tell why.
   - Ask: What will each one do, and why? (good: The chain stretches twice as much, because each band stretches.; Side by side stretches half, because they share the coins.; The same, because it's the same coins.)
 - **s3 (5 min)**  
   *Parent does:* 1. Loop a second band through the first, so they hang in a chain. 2. Measure the empty chain with the cup. 3. Add the 20 coins and measure again. 4. Work out the stretch.  
@@ -524,7 +524,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   - Check: Two bands in a chain stretched about twice as far as one band. Why? → **Each band in the chain holds all 20 coins, so each stretches as much as one band alone**
   - Think: A long wire is like many tiny springs in a row. What could the tiny springs be?
 ### a3 · The Springs in My Body (15 min)
-- **record:** Draw yourself jumping. Mark three springy parts of your body.
+- **record:** Point to three springy parts of your body and tell your grown-up what each one does when you jump.
 - **s1 (4 min)**  
   *Parent does:* 1. Ask your child to do 5 small jumps with stiff, straight knees. 2. Then 5 jumps with bendy, springy knees.  
   *Parent says:* Jump with stiff legs. Now jump with bendy legs. Which is easier? Which is higher?  
@@ -563,7 +563,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 - **s3 (6 min)**  
   *Parent does:* 1. Ask your child why the far dot moved most, and wait for an answer. 2. Then talk about the real universe.  
   *Parent says:* No one pushed any dot. So why did dot E end up furthest away? Take your time. Astronomers see far galaxies moving away from us faster than near ones. What do you think is stretching?  
-  *Child mode:* No one pushed any dot. So why did dot E move furthest? Think, then tell someone.
+  *Child mode:* Think about it, then tell your grown-up your idea.
   - Note: After your child answers, explain. The rubber between the dots stretched, and dot E has the most rubber between it and dot A. Astronomers think the space between galaxies is stretching in a similar way. From any dot, all the others seem to move away, so there is no centre.
   - Check: On the stretched strip, which dot moved furthest from dot A? → **The dot furthest away**
   - Think: If you lived on dot C, would you think you were at the centre? Is anyone at the centre?
@@ -594,7 +594,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 ### a6 · Bend or Snap? Twigs and the Ruler Earthquake (15 min)
 - **problem:** An earthquake happens like this. Deep underground, rock is pushed and bent slowly for years. It gets stuck. Then it suddenly slips, springs back, and the ground shakes. In this activity you make a tiny copy of that with a ruler. When you press a ruler down slowly and let your finger slip off, the same thing happens on a small scale. The ruler stores energy as it bends. Then it lets all of that energy go at once, as a twang and a wobble.
 - **safety:** Snap twigs pointing away from faces. Do not bend the ruler until it breaks.
-- **record:** Draw the green twig and the dry twig after bending. Write which one sprang back.
+- **record:** Say which twig sprang back and which one snapped. Take a photo of both twigs after bending, or draw them.
 - **s1 (5 min)**  
   *Parent does:* 1. Ask for a guess and a reason. 2. Gently bend the green twig, then let go. 3. Gently bend the dry twig the same amount.  
   *Parent says:* Before we bend them, guess. Which twig will spring back, and which will snap? Why do you think so?  
@@ -615,7 +615,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 ## Projects
 ### p1 · The Rubber Band Car (70 min, 3 days)
 - **safety:** A grown-up makes the holes in the caps, using a hot skewer or a sharp tool. Snip the sharp tips off skewers.
-- **record:** Write how far the car went with 5, 10 and 15 winds. Draw your car and label where the energy is stored.
+- **record:** Write how far the car went with 5, 10 and 15 winds. Point to the part of your car where the energy is stored and tell a grown-up why.
 - **schedule:** day 1: Build the car body and the wheels. (30 min); day 2: Add the rubber band motor. Test it with 5, 10 and 15 winds. (20 min); day 3: Improve the car and hold a race. (20 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Tape two straws across the bottom of the bottle, one near each end. 2. Push a skewer through each straw. 3. A grown-up makes a hole in the middle of each cap. 4. Push a cap onto each end of each skewer. The hole must be tight, so the cap turns with the skewer. If it is loose, fix it with tape or a drop of glue.  
@@ -649,7 +649,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
 ## Challenges
 ### c1 · The Catapult Challenge (30 min)
 - **problem:** Build a catapult from ice-cream sticks and rubber bands. It must land a paper ball in a bowl 1 metre away.
-- **your turn:** Now invent your own design. Draw it, build it, and test it. Can you hit the bowl 3 times in a row?
+- **your turn:** Now invent your own design. Build it and test it. Can you hit the bowl 3 times in a row?
 - **constraints:** Use only ice-cream sticks, rubber bands, a plastic spoon or bottle cap, and tape.; Fire only paper balls.; Never aim at people, animals or windows.
 - **general:** Stack 6 sticks and tie them with bands at both ends. Put this stack between 2 more sticks tied together at one end. The top stick becomes the arm.; Tape a bottle cap or spoon to the end of the arm to hold the paper ball.; Pull the arm down further to fire further. More bend stores more energy.
 - **creative:** Change the stack height. A taller stack lets the arm bend further.; Use two rubber bands at the front to make a stiffer spring.; Mark lines on the arm and test how far each pull-back fires. Then you can aim like a scientist, not by guessing.
@@ -660,7 +660,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   - Note: Building it is the slowest part. If the bands keep slipping, wrap them twice.
 - **s2 (8 min)**  
   *Parent does:* 1. Press the arm down a little and fire. 2. Then press it down a lot. 3. Measure how far each one goes.  
-  *Parent says:* Small press, big press. Which do you think will go further? Why? Let's measure both.  
+  *Parent says:* First a small press, then a big press. Let's measure both.  
   *Child mode:* Press the arm down a little. Fire. Now press a lot. Fire. Measure both.
   - Check: Pressing the catapult arm down further makes the paper ball go… → **Further, because more energy is stored**
 - **s3 (8 min)**  
@@ -684,7 +684,7 @@ On Onam day, Biju pushed Kunju on the swing himself, gently, for nearly an hour.
   *Child mode:* Loop 2 bands together. Tie them to the doll's feet. Hold the top at the table edge.
 - **s2 (10 min)**  
   *Parent does:* 1. Drop the doll and watch its lowest point. 2. Measure from the table top to the doll's head at its lowest point. 3. Repeat with 3 and 4 bands. 4. Write the results in a table.  
-  *Parent says:* Watch the lowest point, not where it ends up. How much further did each extra band let it fall?  
+  *Parent says:* Watch the lowest point, not where it ends up.  
   *Child mode:* Drop the doll. Watch its lowest point. Measure it. Now try 3 bands, then 4. Write them down.
   - Note: A phone video helps you see the lowest point. Each extra band usually adds about the same extra distance.
 - **s3 (8 min)**  

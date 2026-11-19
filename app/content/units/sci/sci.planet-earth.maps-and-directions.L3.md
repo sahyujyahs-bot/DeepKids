@@ -211,7 +211,7 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s3 (3 min)**  
   *Parent does:* After a caller's 4 cards, the caller says a corner, for example 'between south and west'. Everyone points to it.  
   *Parent says:* Between south and west. Point to that corner. What do we call that direction?  
-  *Child mode:* Point between south and west. What is its name?
+  *Child mode:* Point to the corner. Say its name.
   - Check: You face north. Which direction is behind you? → **South**
 - **s4 (1 min)**  
   *Parent does:* Talk about the game.  
@@ -241,7 +241,7 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s4 (2 min)**  
   *Parent does:* Talk about the game.  
   *Parent says:* If I turned the board round, would '3 squares east' still take you to the same place?  
-  *Child mode:* Turn the board round. Does '3 squares east' still take you to the same place?
+  *Child mode:* Turn the board round. Which square do you reach now?
   - Think: Yes, it would. The north arrow is drawn on the board, so it turns with the board, and the squares keep the same names. Now think about this. What would happen if someone drew the north arrow pointing the other way?
 
 ## Experiments
@@ -264,7 +264,7 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s3 (3 min)**  
   *Parent does:* Ask for a guess and a reason. Write it down.  
   *Parent says:* Which map will lead the finder closer to the coin? Or will they be the same? Why do you think so?  
-  *Child mode:* Which map will work better? Why do you think so?
+  *Child mode:* Pick the map you think will work better.
   - Ask: Why do you think that map will work better? (good: Because I counted, so the places are right.; Because the memory map has the bed too big.; Because both show the bed and the door, so both will work.)
   - Note: Any reason is fine. Do not say what you expect.
 - **s4 (12 min)**  
@@ -302,7 +302,7 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s4 (3 min)**  
   *Parent does:* Talk about the results.  
   *Parent says:* Which chit found the coin every time? Why do you think that is?  
-  *Child mode:* Which chit always found the coin? Why?
+  *Child mode:* Look at your table. Which chit found the coin every time?
   - Check: Why did chit B find the coin whichever wall you faced at the start? → **East and south stay the same whichever way you face**
 ### e3 · Child Steps, Grown-up Steps: do two maps of one room come out the same shape? (20 min)
 - **question:** If a child and a grown-up each map the same room using their own steps, will the two maps have the same shape?
@@ -328,30 +328,30 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s4 (3 min)**  
   *Parent does:* Talk about the result.  
   *Parent says:* Our numbers were different. Is one of our maps wrong?  
-  *Child mode:* Your numbers were different. Is one map wrong?
+  *Child mode:* Look at the two maps. Is one of them wrong?
   - Check: A child's map of a room is bigger on paper than a grown-up's. Both used one square per step. Why? → **The child's steps are shorter, so the room took more of them**
 
 ## Activities
 ### a1 · The View From Above: what do things look like to a bird? (10 min)
-- **record:** Draw each thing twice: from the side and from above. Circle the drawing that would go on a map.
+- **record:** Draw each thing from above, or tell your grown-up its shape from the side and from above. Which view would go on a map?
 - **s1 (3 min)**  
-  *Parent does:* 1. Put the five things on a low table. 2. Ask your child to sit at table height and draw them as they look from the side.  
-  *Parent says:* Draw these five things the way you see them now, from the side.  
-  *Child mode:* Sit low. Draw the five things as you see them.
+  *Parent does:* 1. Put the five things on a low table. 2. Ask your child to sit at table height and look at them from the side. 3. Ask what shape each one looks like.  
+  *Parent says:* Look at these five things from the side. What shape is each one?  
+  *Child mode:* Sit low. Say the shape of each thing as you see it.
 - **s2 (4 min) · grown-up needed**  
-  *Parent does:* 1. Ask your child to stand and look straight down at the table. 2. Draw the five things again, from above.  
-  *Parent says:* Now stand up and look straight down, like a bird flying over the table. Draw them again. What changed?  
-  *Child mode:* Stand up. Look straight down. Draw them again.
+  *Parent does:* 1. Ask your child to stand and look straight down at the table. 2. Ask them to draw the five things from above, or to tell you each shape.  
+  *Parent says:* Now stand up and look straight down, like a bird flying over the table. What shape is each thing now? What changed?  
+  *Child mode:* Stand up. Look straight down. Draw each thing from above, or tell your grown-up its shape.
   - Note: From above, the tumbler is a circle, the book a rectangle, the plate a circle, and the banana a curved strip. The tumbler's height disappears.
 - **s3 (3 min)**  
-  *Parent does:* Talk about the two drawings.  
-  *Parent says:* Which drawing shows how far apart the things are? Which one would help someone find the banana on the table?  
-  *Child mode:* Which drawing shows where things are? Why?
+  *Parent does:* Talk about the two views.  
+  *Parent says:* Which view shows how far apart the things are? Which one would help someone find the banana on the table?  
+  *Child mode:* Which view shows where things are? Why?
   - Check: From straight above, what shape is a steel tumbler? → **A circle**
   - Think: What would your whole flat look like from straight above?
 ### a2 · Find the Four Directions in Your Flat (15 min)
 - **safety:** Never look straight at the Sun, even for a moment. Look only at where its light falls on the floor or the wall.
-- **record:** Draw a box for the room, mark which wall is N, S, E and W, and draw the window that gets the morning Sun.
+- **record:** Tell a grown-up which wall is N, S, E and W and which window gets the morning Sun. Or draw a box for the room and mark them.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. In the morning, between about 7 and 9 o'clock, find the window or balcony where sunlight comes in. 2. If it is later in the day, use a compass, or ask the family which side gets the morning Sun.  
   *Parent says:* The Sun rises in the east. Where is the morning sunlight coming in? Don't look at the Sun. Look at the patch of light.  
@@ -360,19 +360,19 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s2 (5 min)**  
   *Parent does:* 1. Stand in the middle of the room with your right arm pointing to the sunny side. 2. You are now facing north. 3. Stick E on the sunny wall and N on the wall in front. Stick W on your left and S behind you.  
   *Parent says:* Point your right arm at the sunny side. That is east. Now you face north. Where are south and west?  
-  *Child mode:* Point your right arm at the sunny side. That is east. Now you are facing north.
+  *Child mode:* Point your right arm at the sunny side. Now find north, south and west.
   - Note: If the walls do not line up exactly with the directions, stick each label on the wall that is closest.
 - **s3 (5 min)**  
   *Parent does:* 1. Check with a compass if you have one. 2. Go round the flat. Which way does the front door face? Which way does the balcony face?  
   *Parent says:* Let's check with the compass. Does the needle agree with our labels? Now, which way does our front door face?  
-  *Child mode:* Check with a compass. Which way does the front door face?
+  *Child mode:* Check the labels with a compass. Then point to the front door.
   - Check: Your front door is on the wall you labelled W. Which way does the door face? → **West**
 ### a3 · Map of Our Home, with a Key (25 min)
 - **record:** Keep the map. You will use it in the Map for a Visitor project.
 - **s1 (5 min)**  
   *Parent does:* 1. Walk through the home together. 2. In each room, ask your child which wall is next to which room.  
   *Parent says:* Let's walk through our home. Which room is next to the kitchen? Which door leads to the balcony?  
-  *Child mode:* Walk through your home. Which room is next to which?
+  *Child mode:* Walk through your home. Point to the room next to each room.
 - **s2 (12 min)**  
   *Parent does:* 1. Draw each room as a box, in the right place next to the others. 2. Show doors as gaps. 3. Draw small symbols for a few things: the fridge, beds, taps, the pooja shelf, the TV.  
   *Parent says:* Draw each room as a box. Make the big rooms bigger. Leave a gap where each door is.  
@@ -385,7 +385,7 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s4 (3 min)**  
   *Parent does:* Give the map to someone else at home and ask them to find one thing, such as the fridge.  
   *Parent says:* Give the map to someone who has not seen it. Can they find the fridge using only the map and the key?  
-  *Child mode:* Can someone find a thing using only your map?
+  *Child mode:* Give your map to someone. Watch if they find the fridge.
   - Check: What is a key on a map for? → **To say what each symbol means**
 ### a4 · Directions in Our Languages (10 min)
 - **record:** Write a table: English, and the words in one or two other languages. Add one place in India in each direction from your city.
@@ -404,11 +404,11 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Go to a balcony or a window that looks over the street. 2. Ask what your child can see: the road, other buildings, trees, a shop, a temple, parked vehicles.  
   *Parent says:* Look down at the street. What can you see? Which things will still be there tomorrow?  
-  *Child mode:* Look down. What do you see? What stays there every day?
+  *Child mode:* Look down. Point to three things that will still be there tomorrow.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. Draw the road as two long lines. 2. Draw the buildings as boxes and trees as circles. 3. Leave out things that move, such as autos, cows and people.  
   *Parent says:* Draw the road first. Then the buildings as boxes and the trees as circles. Do we draw the autos?  
-  *Child mode:* Draw the road. Draw buildings as boxes. Trees as circles.
+  *Child mode:* Draw the road, buildings as boxes and trees as circles. Or lay cut-out paper boxes on a sheet.
   - Note: Things that move are left off maps, because they will not be there tomorrow. Landmarks that stay, such as a temple or a big tree, matter most.
   - Check: Why do we leave the parked autos off a street map? → **They move, so they will not be there tomorrow**
 - **s3 (3 min)**  
@@ -457,11 +457,11 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **s1 (5 min)**  
   *Parent does:* Read the problem and talk about how to show things without words.  
   *Parent says:* No words at all. How can we show the fridge? How can we show which way is east?  
-  *Child mode:* No words! How will you show the fridge? And east?
+  *Child mode:* No words! Think of a picture for the fridge and a way to show east.
 - **s2 (15 min)**  
   *Parent does:* 1. Draw the rooms. 2. Draw a picture symbol for each place. 3. Show the east side with a rising Sun. 4. Draw the route from the front door.  
   *Parent says:* Draw the rooms and the picture symbols. How will the reader know which way to turn the map?  
-  *Child mode:* Draw the rooms. Draw picture symbols. Show the east side.
+  *Child mode:* Draw the rooms and picture symbols, or lay out cut-out picture cards. Show the east side.
   - Check: Why does a wordless map still need something that shows a direction, like a rising Sun on the east side? → **So the reader can turn the map to match the real place**
 - **s3 (5 min)**  
   *Parent does:* 1. Test the map on someone. 2. Read the usual and creative ideas. 3. Improve the map.  
@@ -474,12 +474,12 @@ On the fourth morning, Thatha came out of the milk booth. He found the Sun, turn
 - **general:** Draw the room as a grid first, with the car, the obstacles and the coin, then plan the route on paper.; Count each straight stretch and write it as one instruction.
 - **creative:** Find two different routes and see which has fewer instructions.; Add a 'fuel' rule: each instruction costs one coin, so the cheapest route wins.; Swap roles: let your parent write the route and you follow it.
 - **s1 (5 min)**  
-  *Parent does:* 1. Put the car on a corner tile, the coin on another tile, and two obstacles between them. 2. Draw the room as a grid on paper.  
-  *Parent says:* Here is the car, here is the coin. Draw a grid of the floor with everything on it.  
-  *Child mode:* Draw the floor as a grid. Mark the car, the coin and the cushions.
+  *Parent does:* 1. Put the car on a corner tile, the coin on another tile, and two obstacles between them. 2. Ask your child to count the tiles from the car to the coin.  
+  *Parent says:* Here is the car, here is the coin. How many tiles is it between them?  
+  *Child mode:* Count the floor tiles from the car to the coin. Which tiles are blocked?
 - **s2 (12 min)**  
-  *Parent does:* 1. Plan the route on the grid. 2. Write it as instructions, such as '4 tiles north, 2 tiles east'. 3. Count the instructions.  
-  *Parent says:* Plan the route on paper. How few instructions can you use?  
+  *Parent does:* 1. Plan the route by pointing along the floor tiles. 2. Write it as instructions, such as '4 tiles north, 2 tiles east'. 3. Count the instructions.  
+  *Parent says:* Plan the route along the tiles. How few instructions can you use?  
   *Child mode:* Plan a route. Write it as tiles and directions.
   - Check: A route says '2 tiles north, 3 tiles east, 2 tiles south'. Which shorter route reaches the same tile? → **3 tiles east**
 - **s3 (8 min)**  

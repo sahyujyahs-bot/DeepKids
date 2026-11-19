@@ -236,7 +236,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - **s2 (3 min)**  
   *Parent does:* Play one practice turn together.  
   *Parent says:* Practice turn. I have a wooden stick card. Can I use it as part of my loop?  
-  *Child mode:* Practice turn. Can a wooden stick card join your loop? Say your answer.
+  *Child mode:* Practice turn. Look at the wooden stick card and think about your loop.
   - Check: Can a wooden stick card be part of your own loop, like a wire? → **No, wood is an insulator, so it makes a gap**
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns: draw a card, play a card. 2. When a loop is complete, trace it and answer a question card. 3. Keep score on the sheet.  
@@ -246,7 +246,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - **s4 (2 min)**  
   *Parent does:* Finish the game and talk about the SWITCH card.  
   *Parent says:* Why did the switch card protect your circuit? What does a real switch do?  
-  *Child mode:* Why did the switch card help you? What does a real switch do?
+  *Child mode:* Think about a real switch in your home.
   - Note: Both. When the switch is off, the two metal parts are apart, so it is a gap. When the switch is on, the two metal parts touch, so it is a bridge that completes the loop.
   - Think: Is a switch a gap, or a bridge? Or both?
 ### g2 · Safe or Danger? a quick sorting game (10 min)
@@ -260,12 +260,12 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - **s2 (6 min)**  
   *Parent does:* Read the cards one at a time. After each one, ask for the reason.  
   *Parent says:* Why is that dangerous? What could happen?  
-  *Child mode:* Safe or danger? Hold up your card. Then say why.
+  *Child mode:* Hold up your card. Then say why.
   - Check: A girl switches on the fan with wet hands after her bath. Safe or danger? → **Danger, because water lets electricity through her skin much more easily**
 - **s3 (2 min)**  
   *Parent does:* Talk about the AA cell card.  
   *Parent says:* A girl touched both ends of an AA cell, and that was safe. But a wall socket is never safe. What is the difference?  
-  *Child mode:* An AA cell is safe to touch. A socket is not. Why?
+  *Child mode:* Think about how strong a cell is, and how strong a socket is.
   - Note: An AA cell pushes at 1.5 volts, too weakly to push enough electricity through dry skin for you to notice. A wall socket in India pushes at 230 volts, about 150 times as hard. That is strong enough to push electricity through a body.
 
 ## Experiments
@@ -274,7 +274,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - **predict:** Look at the things on the table. Guess which ones will make the bulb light. Put them in two piles. Why do you think so?
 - **fair test:** Use the same cell, the same bulb and the same wires for every object. Touch both wire ends firmly to the object, about 2 cm apart. Only the object changes. Test each object twice, because a loose touch can fool you.
 - **safety:** Use only AA cells, never a wall socket or a charger. Never join the two ends of a cell with just a wire or foil, because the wire gets hot. A grown-up strips the wire ends and stays close.
-- **record:** Fill in the table. Then draw two big circles, one for conductors and one for insulators, and write each object in the right circle.
+- **record:** Fill in the table. Then sort the 12 things into two piles on the table, conductors and insulators, and take a photo.
 - **results table:** Object | What it is made of | My guess: will it light? | Try 1: lit? | Try 2: lit? | Conductor or insulator?
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Join one wire from the cell holder to the bulb holder. 2. Join a second wire to the other side of the bulb holder. 3. Leave the free ends of the cell wire and the bulb wire apart. 4. Touch the two free ends together.  
@@ -284,7 +284,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - **s2 (5 min)**  
   *Parent does:* 1. Lay out the 12 things. 2. Ask your child to put them in two piles: 'will light' and 'won't light'. 3. Ask for a reason for each pile. Write the guesses in the table.  
   *Parent says:* The gap is like a bridge that is missing. Which of these things will carry the electricity across it? Make two piles. Why did you put each one there?  
-  *Child mode:* Make two piles: 'will light' and 'won't light'. Why did you put each thing in its pile?
+  *Child mode:* Make two piles: 'will light' and 'won't light'.
   - Ask: Why do you think the spoon will light the bulb? (good: Because it is metal.; Because electricity goes through metal, like in a wire.)
   - Note: Do not say what will happen. Any reason is good if your child says it. The reasons tell you what they think now.
 - **s3 (12 min) · grown-up needed**  
@@ -293,9 +293,9 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   *Child mode:* Press both wire ends onto the object. Look at the bulb. Write yes or no. Try it twice.
   - Note: The steel spoon, coin, plain paper clip, foil and key should light the bulb brightly. The wood, plastic, rubber, paper and glass should not. The coated paper clip will not light it until you scrape the plastic off each end. For the pencil, touch one wire to the lead at each sharpened end. The bulb may glow only very dimly, or not at all, because graphite conducts much less well than metal. If it does not glow, try a short piece of lead, about 2 cm, between the two wire ends.
 - **s4 (3 min)**  
-  *Parent does:* Look at the coated paper clip result together.  
-  *Parent says:* The plain clip lit the bulb, but the coloured clip did not. Both are steel inside. Why do you think that happened?  
-  *Child mode:* The plain clip lit the bulb. The coloured clip did not. Why?
+  *Parent does:* Look at the plain clip and the coloured clip together.  
+  *Parent says:* Test the plain clip, then the coloured clip. The plain one lights the bulb, but the coloured one does not. Both are steel inside.  
+  *Child mode:* Look closely at the coloured clip. What is different on the outside?
   - Check: A paper clip with a plastic coat does not light the bulb. Why? → **The plastic coat is an insulator, so the electricity cannot reach the steel**
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three things: what they think, what they saw, and why they think it happened.  
@@ -308,7 +308,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - **predict:** Guess first. If you break the loop far away from the bulb, will the bulb still glow a little? With a very long wire, will the bulb light at once, or a moment later? Why do you think so?
 - **fair test:** Use the same cell, bulb and wires each time. Only the place of the gap changes. Then only the length of one wire changes. Try each one three times.
 - **safety:** Use only AA cells, never a wall socket or a charger. Never join the two ends of a cell with just a wire or foil, because the wire gets hot. A grown-up strips the wire ends and stays close.
-- **record:** Draw the loop three times. Mark where you made the gap each time, and draw the bulb lit or dark.
+- **record:** Take a photo of your loop each time you make a gap, with the bulb lit or dark. Write under each photo where the gap was.
 - **results table:** What I changed | My guess | Did the bulb light? | At once, or later?
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Make a complete circuit with the cell, the bulb and three wires. 2. Twist the wire ends together firmly where they join. 3. Check that the bulb lights.  
@@ -328,8 +328,8 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   - Note: The bulb lights at once, with no delay you can see. With a paper clip chain it may be a little dimmer, because each join between clips lets the electricity through less well. That is fine. What matters is that there is no wait.
 - **s4 (5 min)**  
   *Parent does:* Talk about the cycle chain. Then ask your child to say what they think, what they saw, and why they think it happened.  
-  *Parent says:* Think of a cycle chain. Push the pedal, and every link moves at once, even the far ones. Electrons in a wire are like that. Now tell me what you think, what you saw, and why.  
-  *Child mode:* Think of a cycle chain. Every link moves at once. Now say what you think, what you saw, and why you think it happened.
+  *Parent says:* Think of a cycle chain. Push the pedal, and every link moves at once, even the far ones. Electrons are tiny bits of electricity already inside the wire, and they move together like the links. Now tell me what you think, what you saw, and why.  
+  *Child mode:* Say what you think, what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: a gap anywhere stops the bulb, and a long wire does not make it wait. What I saw: the bulb went out every time, wherever I made the gap. With the 2 metre wire it still lit at once. Why: the tiny electrons are already in the wire all the way round. The cell pushes them all together, like a cycle chain. So a break anywhere stops them all. For the thinking question: the cell runs out of the energy stored in its chemicals. The electrons are not used up. They go round the loop and come back.
   - Think: If the electrons go round and come back to the cell, what is the cell running out of when it goes flat?
 ### e3 · Two Cells: brighter, or nothing at all? (20 min)
@@ -337,7 +337,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - **predict:** Guess first. Will two cells make the bulb brighter, the same, or dimmer? And what if one cell is turned round? Why do you think so?
 - **fair test:** Use the same bulb and wires each time. Only the cells change. Look at the bulb in the same light each time, and compare it with the one-cell bulb.
 - **safety:** Use only AA cells, never a wall socket or a charger. Never join the two ends of a cell with just a wire or foil, because the wire gets hot. A grown-up strips the wire ends and stays close. Use no more than two AA cells with a torch bulb, or the bulb may burn out.
-- **record:** Draw the bulb three times. Draw lines around it to show how bright it was.
+- **record:** For each try, write bright, brighter, dim or dark. The three tries are one cell, two cells in a row, and one cell turned round. Or tell a grown-up.
 - **results table:** Cells | My guess | What the bulb did
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Light the bulb with one cell. 2. Look at how bright it is.  
@@ -363,7 +363,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 ## Activities
 ### a1 · One Cell, One Wire, One Bulb (10 min)
 - **safety:** Use only an AA cell. Do not hold the wire across both ends of the cell for long with no bulb, because it gets hot. A grown-up stays close.
-- **record:** Draw each try. Put a tick by the ones that lit and a cross by the ones that did not.
+- **record:** For each try, write a short note and put a tick if it lit or a cross if it did not. You can draw each try instead.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Give your child the cell, the bulb and the wire. 2. Say the challenge. 3. Let them try for at least five minutes before helping.  
   *Parent says:* Here is a challenge. Can you make this bulb light with just these three things? Before you try, show me how you think they go together.  
@@ -375,7 +375,7 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   *Child mode:* Look at the bulb. It has two metal parts: the tip and the side.
   - Note: The way that works: stand the bulb's tip on the bump at the top of the cell. Then hold one end of the wire on the bulb's metal side and the other end on the flat bottom of the cell. There are other ways too, such as the wire from the bump to the bulb's side, and the bulb's tip on the flat end.
 - **s3 (2 min)**  
-  *Parent does:* Look at the drawings together and talk about the ones that lit.  
+  *Parent does:* Look at your tries together and talk about the ones that lit.  
   *Parent says:* What do all the tries that lit have in common? Trace the path with your finger.  
   *Child mode:* Look at your ticks. What is the same in all of them?
   - Note: Electricity flows only when there is a whole loop. If there is no way back to the other end of the cell, nothing pushes the electricity round, so the bulb stays dark. Accept any answer along those lines.
@@ -383,26 +383,26 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   - Think: Why does the electricity need to get back to the cell?
 ### a2 · Electricity Hunt: wall or cell? (15 min)
 - **safety:** Look at sockets, plugs and wires, but do not touch them. Only grown-ups plug things in or switch them off at the socket.
-- **record:** Make a chart with two big columns, 'Plugged into the wall' and 'Runs on cells'. Draw a small sign by each one: a sun for light, a note for sound, a flame for heat, a snowflake for cold, an arrow for movement.
+- **record:** Make a chart with two big columns, 'Plugged into the wall' and 'Runs on cells'. Write by each one what it makes: light, sound, heat, cold or movement. Some things make two.
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw the two columns. 2. Ask your child to guess how many things in the home use electricity.  
+  *Parent does:* 1. Fold the paper into two columns, or write the two headings on it. 2. Ask your child to guess how many things in the home use electricity.  
   *Parent says:* How many things in our home do you think use electricity? Make a guess. Then we will count.  
   *Child mode:* Guess how many things at home use electricity. Then we count!
 - **s2 (8 min)**  
-  *Parent does:* 1. Walk through each room together. 2. Your child writes or draws each thing in the right column. 3. Look for a wire and plug, or a place for cells.  
+  *Parent does:* 1. Walk through each room together. 2. Your child writes each thing in the right column. 3. Look for a wire and plug, or a place for cells.  
   *Parent says:* Look for a wire and a plug. That means it uses mains electricity from the wall. Look for a little door for cells. That means it runs on cells.  
   *Child mode:* Walk round your home. If a thing has a plug, write it under 'Plugged into the wall'. If it has cells, write it under 'Runs on cells'.
   - Note: Typical finds: fan, tube light, fridge, mixer-grinder, TV, iron, geyser, washing machine, water pump, Wi-Fi box and phone charger use the mains. A TV remote, wall clock, torch, toy car, weighing scale and kitchen timer use cells. A phone and a laptop have their own batteries that are charged from the mains. They can go in both columns.
 - **s3 (4 min)**  
-  *Parent does:* Look at the chart and add the signs for what each thing makes.  
-  *Parent says:* Now let's add a sign for what each thing makes: light, sound, heat, cold or movement. Which ones make two things?  
-  *Child mode:* Draw a sign by each thing. Light, sound, heat, cold or movement?
+  *Parent does:* Look at the chart and write what each thing makes.  
+  *Parent says:* Now let's write what each thing makes: light, sound, heat, cold or movement. Which ones make two things?  
+  *Child mode:* Write by each thing what it makes. Light, sound, heat, cold or movement?
   - Note: The column for things that run on cells. An AA cell pushes at only 1.5 volts. A wall socket pushes at 230 volts and can kill.
   - Check: Which of these would keep working in a power cut, without an inverter? → **The wall clock with an AA cell**
   - Think: Which column is safe for experiments? Why?
 ### a3 · Spot the Danger: a safety walk (10 min)
 - **safety:** This is a walk for looking only. Nobody touches a socket, a plug or a wire during it.
-- **record:** Write five safety rules, each with its reason. Make them into a poster for the fridge.
+- **record:** Write five safety rules, each with its reason. Stick the list on the fridge, or make it into a poster.
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* Sit down together before the walk and say the first rule.  
   *Parent says:* The electricity in our wall sockets is 230 volts. That is about 150 times as strong as an AA cell. It can push electricity through a person and kill them. So the first rule is: only grown-ups plug in and unplug things.  
@@ -413,13 +413,13 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   *Child mode:* Look carefully. What could go wrong here? Write a rule.
   - Note: Here are good rules, each with its reason. Never touch switches or plugs with wet hands, because water lets electricity through your skin more easily. Never push anything into a socket. Never pull a plug out by its wire, because the wire can break inside. Stay away from wires with cracked plastic, because bare copper can give a shock. Never fly kites near power lines. Keep button cells away from babies, because a swallowed button cell can badly burn the food pipe.
 - **s3 (3 min)**  
-  *Parent does:* Read the rules back and check one with a question.  
+  *Parent does:* Read the rules back together, then ask one question.  
   *Parent says:* Here is a question. Why do you think wires have plastic around them?  
-  *Child mode:* Why do wires have plastic around them? Pick your answer.
+  *Child mode:* Read your rules. Then answer the question about wires.
   - Check: Why is there plastic around the copper in a fan's wire? → **Plastic is an insulator, so it keeps the electricity inside the copper and away from us**
 ### a4 · Inside a Torch (15 min)
 - **safety:** Do not take apart a torch with a battery you cannot take out, such as a charging torch. If you see white crust on the cells or spring, a grown-up wipes it off with a dry cloth and everyone washes their hands.
-- **record:** Draw the torch parts and draw a line showing the loop the electricity takes.
+- **record:** Lay the parts in the order the electricity goes round, and take a photo. Then tell a grown-up the path, from the cell and back to the cell.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Unscrew the torch over the cloth. 2. Lay out the parts in order: cells, spring, case, switch, bulb or LED, reflector.  
   *Parent says:* A torch is a circuit hidden inside a case. Let's take it apart and find the loop.  
@@ -431,13 +431,13 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
   - Ask: Why is the spring made of metal? (good: So the electricity can go through it.; It is a conductor, and it pushes the cells against the bulb.)
   - Note: In most torches the loop goes from the cells through the spring, along a metal strip or the metal case, through the switch, into the bulb or LED, and back into the top of the cells. The plastic case, or the rubber grip, is an insulator.
 - **s3 (5 min)**  
-  *Parent does:* 1. Put the torch back together. 2. Switch it on and off. 3. Your child traces the loop on their drawing.  
+  *Parent does:* 1. Put the torch back together. 2. Switch it on and off. 3. Your child traces the loop with a finger, along the parts.  
   *Parent says:* Put it back together and switch it on. What does the switch do to the loop?  
   *Child mode:* Put it back. Switch it on and off. What does the switch do?
   - Check: What happens inside a torch when you slide the switch off? → **Two metal parts move apart, making a gap in the loop**
 ### a5 · Make a Paper Clip Switch (20 min)
 - **safety:** Drawing pins are sharp. A grown-up pushes them in. Use only AA cells, never a wall socket or a charger. Never join the two ends of a cell with just a wire or foil, because the wire gets hot. A grown-up strips the wire ends and stays close.
-- **record:** Draw your circuit with the switch open and closed. Draw the bulb dark and lit.
+- **record:** Take a photo of your switch open and closed, with the bulb dark and lit. Or draw them.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Wrap the bare end of one wire round the spike of a drawing pin. 2. Push the pin into the cardboard, so its head presses the wire down. 3. Do the same with the second wire and pin, about 2 cm away. 4. Hook the paper clip round one pin.  
   *Parent says:* We are making a switch. It is just a gap we can open and close. The paper clip is the bridge across the gap.  
@@ -445,12 +445,12 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 - **s2 (6 min)**  
   *Parent does:* 1. Join the switch into the circuit, between the cell and the bulb. 2. Swing the paper clip onto the second pin. 3. Swing it off again.  
   *Parent says:* Swing the clip across. What happens? Now swing it away. Why does the bulb go out?  
-  *Child mode:* Swing the clip onto the other pin, and the bulb lights. Swing it away, and the bulb goes dark.
+  *Child mode:* Swing the clip onto the other pin. Watch the bulb. Swing it away. Watch again.
   - Note: If the bulb does not light with the clip closed, press the clip down firmly on the pin. Shiny drawing pins work best. Painted ones may need the paint scraped off.
 - **s3 (4 min)**  
   *Parent does:* Ask why the switch is on cardboard and not on a steel plate.  
   *Parent says:* Why did we put the switch on cardboard? What would happen on a steel plate?  
-  *Child mode:* Why did we build the switch on cardboard? What if it was on a steel plate?
+  *Child mode:* Think about the cardboard. What if the switch was on a steel plate?
   - Check: Why is the paper clip switch built on cardboard? → **Cardboard is an insulator, so the electricity can only cross the gap through the clip**
 - **s4 (4 min)**  
   *Parent does:* Your child sends a message with flashes: one flash for yes, two flashes for no.  
@@ -461,20 +461,20 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 ### a6 · Be the Circuit: a string loop (10 min)
 - **problem:** A wire is already full of tiny electrons, all the way round the loop, before you join a cell to it. When you close the loop, the cell pushes all of them at once. In this game, a loop of string stands for the electrons in the wire. One person is the cell, and one person is the bulb.
 - **safety:** Hold the string loosely. Do not wrap it round fingers or necks.
-- **record:** Draw the loop of people, with arrows for which way the string moved.
+- **record:** Act it out again, with a different person as the bulb. Then tell a grown-up which way the string moved.
 - **s1 (3 min)**  
   *Parent does:* 1. Everyone stands in a circle holding the string loop loosely. (With 2 people, stand facing each other.) 2. One person is the cell. 3. One person is the bulb, and holds the string very lightly so it rubs their hands.  
-  *Parent says:* The string is like the electrons in a wire. They are already there, all the way round. The cell pulls the string round. Let's see what the bulb feels.  
+  *Parent says:* The string is like the electrons, the tiny bits of electricity in a wire. They are already there, all the way round. The cell pulls the string round. Let's see what the bulb feels.  
   *Child mode:* Stand in a circle. Hold the string loosely. Who is the cell? Who is the bulb?
 - **s2 (4 min)**  
-  *Parent does:* 1. The cell pulls the string steadily, hand over hand. 2. The bulb says 'warm' when they feel the string rubbing. 3. Then one person lets go and drops their part of the loop.  
+  *Parent does:* 1. The cell pulls the string steadily, hand over hand. 2. The bulb says 'now' when they feel the string rubbing. 3. Then one person lets go and drops their part of the loop.  
   *Parent says:* Bulb, tell us when you feel the string start to rub. Did you feel it at once? Now someone let go and drop the string. What happens to the bulb?  
   *Child mode:* Cell, pull the string round. Bulb, can you feel it rub? Now one person drops the string. What does the bulb feel?
   - Note: The bulb feels the string move at the same moment the cell starts pulling, even though no part of the string moved far. The rubbing on the bulb's hands is like the filament getting hot. When someone drops the string, the cell can no longer pull it round, and the bulb feels nothing. That is a broken circuit.
 - **s3 (3 min)**  
   *Parent does:* Talk about what the model shows and what it does not.  
   *Parent says:* Did the string get used up in the bulb's hands? What did the cell use up, pulling it round?  
-  *Child mode:* Was the string used up? What did the cell use up?
+  *Child mode:* Did the string get used up? Think about who got tired.
   - Note: Real electrons are far too small to see. There are huge numbers of them, and they fill the whole wire. They are pushed round by the cell's chemicals, not by a hand, and each one moves very slowly. Accept any fair difference.
   - Check: In the string model, what is the cell using up? → **Its own energy, from pulling**
   - Think: Every model leaves something out. What is different about real electrons and our string?
@@ -482,15 +482,15 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 ## Projects
 ### p1 · Light Up a Shoebox Room (50 min, 2 days)
 - **safety:** Scissors: a grown-up helps. Use only AA cells, never a wall socket or a charger. Never join the two ends of a cell with just a wire or foil, because the wire gets hot. A grown-up strips the wire ends and stays close. Switch the light off when you finish, so the cells do not run down.
-- **record:** Draw the circuit plan before you build it. After building, write what you changed and why.
+- **record:** Draw the circuit plan before you build it, or lay out the parts and take a photo. After building, write what you changed and why.
 - **schedule:** day 1: Decorate a shoebox as a room. Plan where the light and the switch go, and draw the circuit. (25 min); day 2: Fix the bulb in the roof and the switch on the outside wall. Join the circuit and test it. (25 min)
 - **s1 (25 min)**  
-  *Parent does:* 1. Turn the shoebox on its side to make a room. 2. Decorate it with paper: a kolam on the floor, a window, a bed. 3. Draw a plan of the circuit. Show the cell, the switch, the bulb and the wires joining them in a loop.  
+  *Parent does:* 1. Turn the shoebox on its side to make a room. 2. Decorate it with paper: a kolam on the floor, a window, a bed. 3. Draw a plan of the circuit, or lay the real parts on the table. Show the cell, the switch, the bulb and the wires joining them in a loop.  
   *Parent says:* We are going to light up a room, like a real electrician. Electricians draw a plan first. Where will the light go? Where will the switch be?  
   *Child mode:* Make a room in a shoebox. Draw a plan. Where do the bulb, switch and cell go?
 - **s2 (25 min) · grown-up needed**  
   *Parent does:* 1. Make a small hole in the roof and push the bulb holder's wires through. 2. Fix the switch on the outside wall with tape. 3. Join the cell, the switch and the bulb in one loop. 4. Test it, find any gaps and fix them.  
-  *Parent says:* Now we follow the plan. If it doesn't light, we hunt for the gap, the way Kavya did with the torch in the story.  
+  *Parent says:* Now we follow the plan. If it doesn't light, we hunt for the gap.  
   *Child mode:* Fix the bulb in the roof. Put the switch outside. Join the loop. Does it light?
   - Note: Most problems are loose joins. Twist bare wire ends together tightly and wrap them in tape. If the light is dim and your bulb is marked 2.5 V, join a second cell in a row, plus to minus. A 1.5 V bulb may burn out on two cells.
   - Check: Your shoebox light does not come on when you close the switch. What do you check first? → **Follow the loop with your finger and look for a loose join or gap**
@@ -499,14 +499,14 @@ Then the fan began to turn and the lights came back on. Kavya switched the torch
 ## Challenges
 ### c1 · The Steady Hand Game (30 min)
 - **problem:** Make a game that tests how steady your hand is. A wand must move along a path without touching it. If it touches, a bulb lights up.
-- **your turn:** Now design your own steady hand game. Draw it, build it, and challenge your family.
+- **your turn:** Now design your own steady hand game. Plan it, build it, and challenge your family.
 - **constraints:** Use only AA cells, a bulb, wire, foil and things from home.; The bulb must light only when the wand touches the path.; The path must have at least three bends.
 - **general:** Cut a wavy path in the cardboard and cover its edges with foil. Join the foil to the cell. Join the paper clip loop to the bulb. When the loop touches the foil, the circuit is complete.; Bend a thick piece of bare wire into a wavy shape, like the games at a mela, and use a loop of wire as the wand.
 - **creative:** Put a small foil 'safe' pad at each end, where the wand can rest without scoring.; Use two paths, a wide one for younger children and a narrow one for experts.; Count the flashes as penalty points.
 - **s1 (5 min)**  
-  *Parent does:* Look at the problem together and draw two ideas.  
-  *Parent says:* When the wand touches the path, the bulb must light. So the wand and the path are two ends of a gap. Let's draw two ideas.  
-  *Child mode:* The wand and the path are the two ends of a gap. Draw two ideas.
+  *Parent does:* Look at the problem together and talk about two ideas for the path, or sketch them.  
+  *Parent says:* When the wand touches the path, the bulb must light. So the wand and the path are two ends of a gap. What two shapes could the path have?  
+  *Child mode:* The wand and the path are the two ends of a gap. Think of two shapes for the path.
 - **s2 (18 min) · grown-up needed**  
   *Parent does:* 1. Cut a wavy path in the cardboard. 2. Cover the edge with foil. 3. Join one wire from the cell to the foil, and tape it. 4. Join the bulb to the cell. 5. Join the bulb's other wire to the paper clip wand.  
   *Parent says:* Build the path and the wand. Then touch the wand to the foil to check that the bulb lights.  

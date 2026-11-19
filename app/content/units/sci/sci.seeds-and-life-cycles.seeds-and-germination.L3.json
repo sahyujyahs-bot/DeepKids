@@ -672,7 +672,7 @@
      "mins": 2,
      "do": "1. Give each player a seed mat. 2. Shuffle the 36 cards and put them face down. 3. Put the sprout tokens in a bowl.",
      "say": "Each of us is a sleeping seed. To wake up and sprout, a seed needs three things. They are water, warmth and air. Let's see who can wake up first.",
-     "kid": "You are a sleeping seed. To sprout, you need three cards: WATER, WARMTH and AIR. Put your mat in front of you. Mix the cards.",
+     "kid": "You are a sleeping seed. To sprout, you need three cards: WATER, WARMTH and AIR. Put your mat in front of you. Help mix the cards.",
      "context": "This is the first step of the card game Wake Up, Seed! Each player is a seed collecting what they need to sprout. Here you set up the game."
     },
     {
@@ -680,7 +680,7 @@
      "mins": 3,
      "do": "Before you start, find a SUNLIGHT card and hold it up. Ask the question below.",
      "say": "Here is a SUNLIGHT card. Does a seed need sunlight to wake up? What do you think?",
-     "kid": "Look at the SUNLIGHT card. Does a seed need sunlight to wake up?",
+     "kid": "Look at the SUNLIGHT card. Make a guess.",
      "ask": [
       {
        "q": "Why do you think the game keeps sunlight aside until after the seed sprouts?",
@@ -723,7 +723,7 @@
      "mins": 2,
      "do": "Count the sprout tokens to find the winner. Then look at the SUNLIGHT and FERTILE SOIL cards together.",
      "say": "These cards were useful, but not for waking up. When does a plant need sunlight and good soil?",
-     "kid": "Count your tokens. Who won? Now look at the SUNLIGHT and SOIL cards. When does a plant need them?",
+     "kid": "Count your tokens. Who won? Then hold up the SUNLIGHT and SOIL cards.",
      "think": "A seed has their own food store. When does that food run out?"
     }
    ]
@@ -1479,7 +1479,7 @@
    "title": "The Five-Cup Test: what wakes a seed?",
    "mins": 32,
    "days": 5,
-   "context": "This is the five-cup test. You put 10 moong seeds in each of 5 cups. Each cup is missing one thing a seed might need, or has one thing extra. After 3 days you count which seeds sprouted.",
+   "context": "This is the five-cup test. You put 10 moong seeds in each of 5 cups. Each cup is missing one thing a seed might need, or has one thing extra. After 3 days you count which seeds sprouted. You will find out whether a seed needs water, warmth, air or light.",
    "question": "What does a moong seed need to sprout? Water? Warmth? Air? Light?",
    "predict": "Before you start, look at the five cups. Guess how many of the 10 seeds will sprout in each cup, and say why you think so. Write your guesses down.",
    "fair_test": "To make it fair, every cup gets the same kind of seeds, the same number of seeds and the same cotton. Each cup changes only one thing compared with the damp, warm cup in the dark. We use 10 seeds in each cup, not 1, because one seed might be dead.",
@@ -1616,7 +1616,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Cover cups 1, 2 and 4 with steel plates. 2. Cover cup 3 with a plate and put it in the fridge, not the freezer. 3. Cover cup 5 with a clear plastic bag or lid. 4. Put cups 1, 2, 4 and 5 side by side in a bright place, out of direct sun. 5. Write your guesses in the table, with a reason for each.",
-     "say": "Cup 2 is our normal cup. Each other cup is different in just one way. Which one is missing water? Which is missing warmth? Which is missing air? Which has extra light? How many will sprout in each, and why do you think so?",
+     "say": "Cup 2 is our normal cup. Each other cup is different in just one way. Which cup has no water? Which is cold? Which has no air? Which has extra light? How many seeds will sprout in each, and why?",
      "kid": "Cover cups 1, 2 and 4 with plates. Put cup 3 in the fridge. Cover cup 5 with clear plastic. Put cups 1, 2, 4 and 5 side by side in a bright place. Guess how many will sprout in each cup. Say why.",
      "ask": [
       {
@@ -1656,7 +1656,7 @@
      "wait": "Leave the cups for 1 more day",
      "do": "1. On day 3, count again and write the numbers. 2. Help your child draw a bar chart with one bar for each cup.",
      "say": "Let's turn the numbers into a picture. Each cup gets one bar. The taller the bar, the more seeds sprouted.",
-     "kid": "Count again. Draw one bar for each cup. Make it as tall as the number that sprouted.",
+     "kid": "Count again. Make one bar for each cup, as tall as the number that sprouted. Draw it, or line up real seeds.",
      "chart": {
       "type": "bar",
       "title": "Made-up example: how many of 10 moong seeds sprouted in 3 days",
@@ -1728,7 +1728,7 @@
    "title": "The Warm Flask: do sprouting seeds breathe?",
    "mins": 35,
    "days": 3,
-   "context": "This is the warm flask test. You put live sprouting moong in one flask and boiled moong in another. A thermometer in each shows whether the live seeds make warmth by breathing.",
+   "context": "This is the warm flask test. You put live sprouting moong in one flask and boiled moong in another. A thermometer in each shows whether the live seeds make warmth by breathing. You will find out if a seed breathes.",
    "question": "Do sprouting seeds make warmth? Is that a sign that they are breathing?",
    "predict": "Before you start, guess. After a day, will the two flasks be the same temperature, or will one be warmer? Which one, and why do you think so?",
    "fair_test": "To make it fair, both flasks get the same kind and amount of seeds, soaked for the same time. Both stay in the same place. The only difference is that one lot is alive and the other has been boiled.",
@@ -1780,7 +1780,7 @@
      "what": "Read again. Draw two bars for the 24-hour readings. Say what you think, what you saw and why."
     }
    ],
-   "record": "Write the temperatures in the table each time. Then draw two bars for the 24-hour reading: one for the live seeds and one for the boiled seeds.",
+   "record": "Write the temperatures in the table each time. Then make two bars for the 24-hour reading, one for the live seeds and one for the boiled seeds. Draw them, or just tell your grown-up which flask was warmer and by how many degrees.",
    "setup": [
     {
      "art": "Two bowls of soaked moong, one being poured into a steaming pan by a grown-up, the other left as it is.",
@@ -1931,7 +1931,7 @@
    "title": "The Swelling Push: how much water does a seed drink?",
    "mins": 20,
    "days": 2,
-   "context": "This is the swelling test. You weigh some dry chana, soak them overnight and weigh them again. You also find out how hard swelling seeds can push.",
+   "context": "This is the swelling test. You weigh some dry chana, soak them overnight and weigh them again. You also find out how hard swelling seeds can push. You will find out how much water a dry seed drinks.",
    "question": "How much water does a seed drink before they sprout? How hard can a swelling seed push?",
    "predict": "Before you start, guess. After a night in water, will the chana weigh the same, a little more, or twice as much? Why do you think so?",
    "fair_test": "Weigh the chana on the same scale both times. Before you weigh the soaked chana, drain them and pat them dry with a cloth, so the extra weight is only the water inside the seeds, not water on the outside.",
@@ -1972,7 +1972,7 @@
      "what": "Weigh the soaked chana. Look at the lid of the full box. Work out how many times heavier the chana is."
     }
    ],
-   "record": "Write both weights. Draw the box packed with chana, before soaking and after.",
+   "record": "Write both weights. Take a photo of the box packed with chana, before soaking and after, or draw it.",
    "setup": [
     {
      "art": "50 grams of dry chana in a steel bowl on a kitchen scale showing 50.",
@@ -2001,15 +2001,15 @@
      "mins": 3,
      "do": "1. Fill a small plastic box right to the top with dry chana. 2. Pour in water to the brim. 3. Snap the lid on.",
      "say": "This box is full to the top. What will happen when the seeds swell? Why do you think so?",
-     "kid": "Fill a small plastic box with dry chana, right to the top. Add water to the top. Put the lid on. What will happen? Why?"
+     "kid": "Fill a small plastic box with dry chana, right to the top. Add water to the top. Put the lid on."
     },
     {
      "id": "s3",
      "mins": 6,
      "wait": "Leave overnight",
      "do": "1. The next morning, drain the chana in the bowl and pat them dry with a cloth. 2. Weigh them again and write the weight. 3. Look at the box with the lid.",
-     "say": "How much do they weigh now? Where did the extra weight come from? Now look at the lid of the full box.",
-     "kid": "Drain the chana. Pat them dry. Weigh them again. Are they heavier? Now look at the box. What happened to the lid?",
+     "say": "How much do they weigh now? Now look at the lid of the full box.",
+     "kid": "Drain the chana. Pat them dry. Weigh them again. Now look at the box and its lid.",
      "parent": "The chana usually weighs about twice as much, close to 100 grams. The extra weight is water that went inside the seeds. In a tightly packed box the lid often pops up or the box bulges, but not every time. If nothing moves, say so honestly: the box was not packed tightly enough. In cold weather, soak for a full 12 hours."
     },
     {
@@ -2017,7 +2017,7 @@
      "mins": 6,
      "do": "Work out together how many times heavier the chana is. Then ask your child to say what they think, what they saw and why.",
      "say": "50 grams became about 100 grams. How many 50s make 100? So how many times heavier are they?",
-     "kid": "The dry chana weighed 50 grams. Soaked, they weigh about 100 grams. How many times heavier are they? Then say what you think, what you saw and why.",
+     "kid": "Work out how many times heavier the soaked chana is. Then say what you think, what you saw and why.",
      "parent": "A good answer sounds like this. What I think: seeds drink a lot of water before they sprout. What I saw: 50 grams of chana became 100 grams, twice as heavy, and the seeds pushed the lid off. Why: water goes inside the seed and they swell.",
      "check": {
       "t": "mcq",
@@ -2040,7 +2040,7 @@
    "title": "Open a Seed: find the baby plant and their food store",
    "mins": 15,
    "days": 1,
-   "context": "This is a hands-on look inside seeds. You soak some beans and a peanut overnight, peel them, split them open and find the tiny baby plant and their food store.",
+   "context": "This is a hands-on look inside seeds. You soak some beans and a peanut overnight, peel them, split them open and find the tiny baby plant and their food store. You will find out what is inside a seed and what each part is for.",
    "materials": [
     {
      "item": "4 rajma or big white beans, soaked overnight, and 1 dry one to compare",
@@ -2072,7 +2072,7 @@
      "what": "Soak the seeds the night before. Peel, split and look. Draw and label."
     }
    ],
-   "record": "Draw one opened bean, big. Label three parts: seed coat, baby plant and food store.",
+   "record": "Name three parts of an opened bean: seed coat, baby plant and food store. Draw it big and label it, or take a photo and say the names out loud.",
    "setup": [
     {
      "art": "A dry wrinkly rajma bean next to a fat smooth soaked one in a child's palm.",
@@ -2084,7 +2084,7 @@
     },
     {
      "art": "A magnifying glass over one half of a split bean, showing a tiny baby plant with a pointed root and two small folded leaves.",
-     "caption": "3. Find the tiny baby plant at the edge. Draw it and label it."
+     "caption": "3. Find the tiny baby plant at the edge. Point to it and name it."
     }
    ],
    "flow": [
@@ -2118,8 +2118,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Look at the inside edge of one half, near the scar end. Use the magnifying glass. 2. Find the tiny baby plant, with a little pointed root and two tiny folded leaves. 3. Do the same with a peanut and a chana.",
-     "say": "Look near the end. Can you see a tiny plant? They have a little root and two tiny leaves, folded up. What do you think the two big halves are for?",
-     "kid": "Look near the end of one half. Find a tiny plant. They have a little root and two tiny leaves. What are the big halves for?",
+     "say": "Look near the end. Can you see a tiny plant? They have a little root and two tiny leaves, folded up.",
+     "kid": "Look near the end of one half. Find a tiny plant. They have a little root and two tiny leaves.",
      "parent": "In a peanut, the baby plant is very easy to see at the pointed tip, between the halves. In maize there is only one food store, with a small pale patch on one face where the baby plant lies.",
      "check": {
       "t": "mcq",
@@ -2137,9 +2137,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask your child to draw one opened bean, big, and label the seed coat, the baby plant and the food store.",
-     "say": "Draw the opened bean as big as you can. Label three parts: the coat, the baby plant and their food store.",
-     "kid": "Draw your bean, big. Label the coat, the baby plant and the food store.",
+     "do": "Ask your child to point to the seed coat, the baby plant and the food store on an opened bean, and name each one. Drawing it is a good extra.",
+     "say": "Point to three parts of your opened bean: the coat, the baby plant and their food store. Tell me what each one does.",
+     "kid": "Point to the coat, the baby plant and the food store on your bean. Say what each one does.",
      "think": "The baby plant was already there before you soaked the seed. Who made them?",
      "parent": "The parent plant made the seed. The baby plant grew from a tiny seed-start in the parent's flower, after pollen reached it. The parent also packed in the food store."
     }
@@ -2216,8 +2216,8 @@
      "id": "s3",
      "mins": 7,
      "do": "Talk about why some groups did not sprout. Then ask your child to say what they think, what they saw and why.",
-     "say": "The dal and the roasted peanuts had water, warmth and air. So why didn't they sprout?",
-     "kid": "The dal had water, warmth and air. Why didn't they sprout? Say what you think, what you saw and why.",
+     "say": "Look at your counts. Which groups did not sprout? They all had water, warmth and air.",
+     "kid": "Look at the groups that did not sprout. Say what you think, what you saw and why.",
      "parent": "Split dal has lost its coat and has been split. The tiny baby plant is usually broken off. Roasting cooks the baby plant, so they are dead. A good answer sounds like this. What I think: a seed needs a living baby plant to sprout. What I saw: most of the whole moong sprouted but no dal, and the raw peanuts sprouted but not the roasted ones. Why: the dal had lost its baby plant, and roasting killed the peanut's baby plant.",
      "check": {
       "t": "mcq",
@@ -2238,7 +2238,7 @@
    "title": "The Seed Window: which way does the root grow?",
    "mins": 15,
    "days": 5,
-   "context": "This is a jar where you can watch seeds sprout. You push soaked chana between wet paper and the glass, some upside down, and see which way the roots and shoots grow.",
+   "context": "This is a jar where you can watch seeds sprout. You push soaked chana between wet paper and the glass, some upside down, and see which way the roots and shoots grow. You will find out how a root knows which way is down.",
    "materials": [
     {
      "item": "a clear plastic jar with a lid, such as an empty pickle or sweets jar, or a tall clear cup with a plastic bag to cover it",
@@ -2275,7 +2275,7 @@
      "what": "Look and draw again. Which way did the roots turn?"
     }
    ],
-   "record": "Draw the seeds on day 1, day 3 and day 5. Draw an arrow showing which way each root grew.",
+   "record": "Show the seeds on day 1, day 3 and day 5: take a photo each day, or draw them. Mark with an arrow which way each root grew.",
    "setup": [
     {
      "art": "A clear jar lined with paper towel, four soaked chana pushed between the paper and the side halfway up, each pointing a different way, a little water at the bottom.",
@@ -2312,9 +2312,9 @@
      "id": "s2",
      "mins": 4,
      "wait": "Look again in 2 days",
-     "do": "1. After 2 days, look and draw each seed. 2. When the roots are about 2 cm long, pour out the water at the bottom. 3. Close the lid, or cover the cup with a plastic bag, so the paper stays wet. 4. Lay the jar on its side.",
-     "say": "Every root is going down, even the one that started pointing up. How does it know?",
-     "kid": "Look at the roots. Which way are they growing? Draw them. Pour out the water. Close the jar. Lay it on its side.",
+     "do": "1. After 2 days, look at each seed. Take a photo of the jar, or draw the seeds. 2. When the roots are about 2 cm long, pour out the water at the bottom. 3. Close the lid, or cover the cup with a plastic bag, so the paper stays wet. 4. Lay the jar on its side.",
+     "say": "Look at all four roots. Compare each one with the way the seed was lying.",
+     "kid": "Look at the roots. Point to the way each one is growing. Take a photo, or draw them. Pour out the water. Close the jar. Lay it on its side.",
      "check": {
       "t": "mcq",
       "q": "In the seed window jar, one chana was put in upside down. Which way does their root grow?",
@@ -2334,7 +2334,7 @@
      "wait": "Look again in 2 more days",
      "do": "After 2 more days, look again. Ask your child to say what they think, what they saw and why.",
      "say": "We turned the jar. What did the root tips do?",
-     "kid": "What did the root tips do after you turned the jar? Say what you think, what you saw and why.",
+     "kid": "Look at the root tips. Say what you think, what you saw and why.",
      "parent": "In space, gravity is tiny, so roots wander in many directions. The root tips bend to point down again. Root tips have cells with tiny heavy grains of starch inside. The grains settle to the bottom, so the root can tell which way is down. A good answer sounds like this. What I think: roots always grow down. What I saw: all 4 roots grew down, and when we turned the jar, they bent down again. Why: roots feel gravity.",
      "think": "Astronauts have grown plants in space. Which way do you think their roots grew?"
     }
@@ -2345,7 +2345,7 @@
    "title": "Sweet Sprouts: a taste test",
    "mins": 10,
    "days": 3,
-   "context": "This is a taste test. You chew a soaked moong seed and a two-day-old moong sprout, and find out which tastes sweeter.",
+   "context": "This is a taste test. You chew a soaked moong seed and a two-day-old moong sprout, and find out which tastes sweeter. You will find out if sprouting changes what a seed is made of.",
    "materials": [
     {
      "item": "a few moong seeds soaked overnight, and a few that have sprouted for 2 days, both washed well",
@@ -2399,8 +2399,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Talk about why the sprout might taste sweeter.",
-     "say": "The seed's stored food is mostly starch. Starch is not sweet. But as they sprout, the seed turns some starch into sugar. Why would they do that?",
-     "kid": "The seed's food is starch. Starch is not sweet. A sprout turns some starch into sugar. Why?",
+     "say": "The seed's stored food is mostly starch. Starch is not sweet. But as they sprout, the seed turns some starch into sugar.",
+     "kid": "Think about what the sprout could use sugar for.",
      "parent": "The baby plant cannot use starch directly. Enzymes, helpers made by their cells, cut starch into sugar that can travel to the growing root and shoot. The change is small, so not everyone can taste it. That is fine. Ragi malt is made from sprouted ragi for the same reason.",
      "ask": [
       {
@@ -2419,7 +2419,7 @@
    "title": "Be a Seed: act out sprouting",
    "mins": 10,
    "days": 1,
-   "context": "This is a movement game. Children act out a seed waking up: drinking, swelling, pushing out a root, and lifting a shoot to the light.",
+   "context": "This is a movement game. Children act out a seed waking up: drinking, swelling, pushing out a root, and lifting a shoot to the light. You will remember the order a seed wakes up: root first, then shoot.",
    "materials": [
     {
      "item": "a clear space on the floor and, if you like, some slow music",
@@ -2433,7 +2433,7 @@
      "what": "Act out a seed sprouting, twice, slowly."
     }
    ],
-   "record": "Draw yourself as a sprouting seed, with your root and shoot.",
+   "record": "Tell a grown-up the stages in order: dry, drink, swell, root, shoot, leaves. Or draw yourself as a sprouting seed, with your root and shoot.",
    "setup": [
     {
      "art": "A child curled up tight on the floor like a seed, arms around knees.",
@@ -2485,7 +2485,7 @@
    "title": "The Kitchen Seed Hunt",
    "mins": 15,
    "days": 1,
-   "context": "This is a hunt in your kitchen. You find as many seeds as you can, line them up from smallest to biggest, and name the plant each one comes from.",
+   "context": "This is a hunt in your kitchen. You find as many seeds as you can, line them up from smallest to biggest, and name the plant each one comes from. You will see how different seeds can be.",
    "materials": [
     {
      "item": "small amounts of seeds from the kitchen, such as rai, jeera, methi, sesame, moong, chana, rajma, peanuts, rice, a tamarind seed and a mango or jamun stone",
@@ -2503,7 +2503,7 @@
      "what": "Hunt for seeds. Line them up. Name the plants."
     }
    ],
-   "record": "Make a line of seeds on the paper strip, from smallest to biggest. Write or draw the plant beside each one.",
+   "record": "Make a line of seeds on the paper strip, from smallest to biggest. Write the plant's name on a label beside each seed, or take a photo of the line.",
    "setup": [
     {
      "art": "A child at an open kitchen shelf of steel jars, holding a pinch of rai seeds.",
@@ -2528,9 +2528,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Line them up on the paper strip from smallest to biggest. 2. Next to each, write or draw the plant they grow into.",
+     "do": "1. Line them up on the paper strip from smallest to biggest. 2. Next to each, put a paper label with the name of the plant it grows into.",
      "say": "Does the biggest seed grow into the biggest plant?",
-     "kid": "Line them up, smallest to biggest. Draw the plant for each one. Does a big seed make a big plant?",
+     "kid": "Line them up, smallest to biggest. Put a name label next to each one. Does a big seed make a big plant?",
      "think": "A banyan tree's seed is no bigger than a rai grain. How does a giant tree come from something so small?",
      "parent": "The seed's food only feeds the seedling for the first few days. After that, the green leaves make food from air and water, using sunlight. The tree is built from that food over many years."
     }
@@ -2543,7 +2543,7 @@
    "title": "My Seed Friend: a sprouting diary",
    "mins": 50,
    "days": 10,
-   "context": "This is a 10-day project. You plant a rajma bean against the side of a clear cup, give them a name, look after them and draw them every day, from seed to their first true leaves.",
+   "context": "This is a 10-day project. You plant a rajma bean against the side of a clear cup, give them a name, look after them and draw or photograph them every day, from seed to their first true leaves.",
    "materials": [
     {
      "item": "a clear plastic cup",
@@ -2623,7 +2623,7 @@
      "what": "Make a growth table. Read your diary aloud to someone. Plant your friend in a bigger pot."
     }
    ],
-   "record": "A diary page for every day: a drawing, the root length and the shoot length in millimetres, and one sentence.",
+   "record": "A diary page for every day: a drawing or photo, the root length and the shoot length in millimetres, and one sentence.",
    "setup": [
     {
      "art": "A clear plastic cup filled with soil, two soaked beans pressed against the inside wall so they can be seen from outside.",
@@ -2643,18 +2643,18 @@
      "id": "s1",
      "mins": 10,
      "context": "This is the first step of My Seed Friend. You plant a bean where you can watch them sprout, and start a diary.",
-     "do": "1. Fill the cup with damp soil. 2. Push two soaked beans down against the side, about 2 cm deep, so you can see them through the plastic. 3. Name the plant. 4. Draw them on page 1 of the diary.",
+     "do": "1. Fill the cup with damp soil. 2. Push two soaked beans down against the side, about 2 cm deep, so you can see them through the plastic. 3. Name the plant. 4. Draw or photograph them for page 1 of the diary.",
      "say": "This is your seed friend. You will look after them, and they will show you how they grow. What will you call them?",
-     "kid": "Fill the cup with damp soil. Push two beans against the side, so you can see them. Give your seed friend a name. Draw your seed friend.",
+     "kid": "Fill the cup with damp soil. Push two beans against the side, so you can see them. Give your seed friend a name. Draw your seed friend, or take a photo.",
      "parent": "Two beans are planted in case one does not sprout. Kitchen rajma is sometimes old, so if neither sprouts in 5 days, try two fresh ones. Keep the cup out of hot direct sun for the first days, but in a bright place once the shoot is up. The soil should be damp, never soggy."
     },
     {
      "id": "s2",
      "mins": 28,
      "wait": "Every day for 8 days",
-     "do": "Each day: 1. Water a little if the top of the soil is dry. 2. Look through the side. 3. Measure the root and, later, the shoot in millimetres. 4. Draw and write one sentence.",
+     "do": "Each day: 1. Water a little if the top of the soil is dry. 2. Look through the side. 3. Measure the root and, later, the shoot in millimetres. 4. Draw or take a photo, and write one sentence.",
      "say": "What has changed since yesterday? Measure it.",
-     "kid": "Each day, look at your seed friend. Water a little if the soil is dry. Measure the root and the shoot. Draw your seed friend. Write one sentence.",
+     "kid": "Each day, look at your seed friend. Water a little if the soil is dry. Measure the root and the shoot. Draw your seed friend, or take a photo. Write one sentence.",
      "parent": "In warm weather, the root usually shows by day 2 or 3, and the hooked shoot comes up by day 4 to 6. The seed halves, the seed leaves, lift up and turn green, then shrink as their food is used up. The first true leaves open by about day 8 to 10. In a cold room everything takes a few days longer, so keep the cup in the warmest bright place you have.",
      "check": {
       "t": "mcq",
@@ -2673,7 +2673,7 @@
      "mins": 0,
      "do": "If your seed friend dies, write a short note about how you feel. Talk about what might have gone wrong: too much water, too little, too cold, or no air in soggy soil. Plant the second bean.",
      "say": "Sometimes a seed friend dies. That is sad, and it's all right to feel sad. What do you think they needed?",
-     "kid": "Did your seed friend die? That is sad. Write a short note about how you feel. What do you think they needed? Try again with the second bean.",
+     "kid": "If your seed friend dies, that is sad. Write or tell how you feel. Think about what they needed. Try again with the second bean.",
      "parent": "This step is only needed if the plant dies. Writing a short goodbye note lets your child notice how they feel. Then they can think calmly about what the plant needed."
     },
     {
@@ -2681,7 +2681,7 @@
      "mins": 12,
      "do": "On day 10, put the root and shoot lengths into a table. Read the diary aloud to someone. Move the plant to a bigger pot.",
      "say": "Read your diary to someone in the family. On which day did the root grow the most? How do you know?",
-     "kid": "Make a table of your measurements. Read your diary to someone. On which day did the root grow the most? Plant your friend in a bigger pot.",
+     "kid": "Make a table of your measurements. Read your diary to someone. Plant your friend in a bigger pot.",
      "think": "Your bean has used up the food in their seed halves. Where will they get their food now?"
     }
    ]
@@ -2715,7 +2715,7 @@
     "Put them in a strainer over a bowl, covered with a damp cloth, so extra water drips away.",
     "Some families wrap the bundle and keep it in a warm closed casserole. Which works better: keeping the warmth in, or letting more air in?"
    ],
-   "your_turn": "Now invent your own way. Draw it, try it and time it. Did you beat the usual way?",
+   "your_turn": "Now invent your own way. Try it and time it. Did you beat the usual way?",
    "setup": [
     {
      "art": "A bowl of moong soaking in water beside a clock showing 8 o'clock.",
@@ -2737,7 +2737,7 @@
      "context": "This is the first step of Fastest Sprouts. It is a challenge to sprout moong as fast as you can, using what you know about water, warmth and air.",
      "do": "Before soaking anything, list three ideas together for making the seeds sprout faster.",
      "say": "Remember what a seed needs: water, warmth and air. How can we give them all three, as well as possible?",
-     "kid": "Think like a scientist. A seed needs water, warmth and air. Draw or write three ideas to make them sprout faster."
+     "kid": "Think of three ideas to make them sprout faster. Say them or write them down."
     },
     {
      "id": "s2",
@@ -2787,11 +2787,11 @@
     "Astronauts breathe out carbon dioxide, and growing leaves need it. How could a Moon base use that? Could the seeds' breathing warm a little box?",
     "Could the seeds travel with their own water sealed beside them, and get the water when someone pulls a tab?"
    ],
-   "your_turn": "Now design your own Moon seed kit. Draw it, build a model and test whether it wakes moong seeds on Earth.",
+   "your_turn": "Now design your own Moon seed kit. Plan it, build a model and test whether it wakes moong seeds on Earth.",
    "setup": [
     {
      "art": "A child drawing a plan of a sealed seed box with compartments for dry seeds, water, air and a warm cover.",
-     "caption": "1. Draw your Moon seed kit."
+     "caption": "1. Plan your Moon seed kit: sketch or tell your plan."
     },
     {
      "art": "A small plastic box with moong on cotton, a tiny water bottle beside it and a woollen sock wrapped around it.",
@@ -2814,9 +2814,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Draw a plan, then build a model kit from things at home. Put real moong inside for the wake-up test.",
+     "do": "Plan your kit by telling your grown-up what goes in it, or sketch it. Then build a model kit from things at home. Put real moong inside for the wake-up test.",
      "say": "Your kit has two jobs. It must keep the seeds asleep, then wake them. How will it do both?",
-     "kid": "Draw your kit. Then build it. Put real moong in it. Add water, warmth and air when it is time to wake them."
+     "kid": "Tell your plan, or sketch your kit. Then build it. Put real moong in it. Add water, warmth and air when it is time to wake them."
     },
     {
      "id": "s3",

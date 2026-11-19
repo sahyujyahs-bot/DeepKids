@@ -225,7 +225,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 - **s3 (4 min)**  
   *Parent does:* When someone wins, ask the question below.  
   *Parent says:* Which cards slowed you down most? What do they have in common?  
-  *Child mode:* Which cards slowed you down? What did they take away?
+  *Child mode:* Look at the cards that slowed you down.
   - Ask: Which cards slowed the leaves down, and why? (good: The dry and hot cards, because decomposers need water.; Cold, because it slows decomposers.; The plastic bag and tight heap, because there was no air.)
   - Check: In the game, which card gives decomposers the water they need to feed? → **RAIN**
 ### g2 · Rot or Keep? A quick card sort (10 min)
@@ -238,7 +238,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 - **s2 (3 min)**  
   *Parent does:* Talk about the cards that were hardest.  
   *Parent says:* Which card fooled you? What did the decomposers need that was missing?  
-  *Child mode:* Which card was hardest? What was missing for the decomposers?
+  *Child mode:* Pick the card that fooled you most.
   - Check: Why does sun-dried vadam keep for months? → **It has almost no water, so moulds cannot digest it**
 
 ## Experiments
@@ -267,8 +267,8 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
   - Note: Clear plastic boxes with lids work best, because you can look without opening them. Clean jam jars or zip bags work too. The pieces should be damp, not soaking: 1 teaspoon of water is enough.
 - **s4 (3 min)**  
   *Parent does:* 1. Put boxes A and B on a kitchen shelf, away from the stove. 2. Put box C in the fridge.  
-  *Parent says:* A and B stay in the warm kitchen. C goes in the cold fridge. Which do you think will grow mould first? Why do you think so?  
-  *Child mode:* Put A and B on a shelf. Put C in the fridge. Which will grow mould first? Why?
+  *Parent says:* A and B stay in the warm kitchen. C goes in the cold fridge.  
+  *Child mode:* Put A and B on a shelf. Put C in the fridge.
   - Ask: Which box do you think will grow mould first, and why? (good: B, because it is damp and warm.; B, because moulds like wet food.; Any guess with a reason is good.)
   - Note: Write your child's guess and reason in the notebook before you start checking.
 - **s5 (12 min)**  
@@ -297,7 +297,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 - **predict:** Guess first. Which box will rot first: the plain slices or the salted slices? Why do you think so?
 - **fair test:** Both boxes get slices of the same cucumber, of the same thickness, left in the same air for an hour. Both sit on the same shelf. Only the salt is different.
 - **safety:** A grown-up cuts the cucumber. Don't eat the slices afterwards, and never sniff mould. Throw the closed boxes away at the end.
-- **record:** Fill in the table each day from day 2 to day 6. Draw both boxes on the last day.
+- **record:** Fill in the table each day from day 2 to day 6. On the last day, take a photo of both boxes, or draw them.
 - **results table:** Day | Plain slices | Salted slices
 - **schedule:** day 1: Cut the slices. Set up a plain box and a salt box. Write your guess. (13 min); day 2: Look at both boxes without opening them. Write what you see. (2 min); day 3: Look and write. (2 min); day 4: Look and write. (2 min); day 5: Look and write. (2 min); day 6: Look, then say what you think, what you saw and why. Throw both closed boxes away. (7 min)
 - **s1 (5 min) · grown-up needed**  
@@ -306,9 +306,9 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
   *Child mode:* A grown-up cuts 4 cucumber slices. Leave them on a plate for one hour.
 - **s2 (5 min)**  
   *Parent does:* 1. Put 2 slices in box P, for plain. 2. Put 2 slices in box S, for salt. 3. Cover the slices in box S with 2 tablespoons of salt, on both sides. 4. Close both lids.  
-  *Parent says:* The salt box gets a thick coat, like a pickle. The plain box gets nothing. Which do you think will rot first? Why?  
-  *Child mode:* Put 2 slices in each box. Cover one pair with lots of salt. Close the lids. Which will rot first? Why?
-  - Ask: What do you think the salt will do? (good: Stop the mould, like in pickles.; Dry the cucumber out.; Any guess with a reason is good.)
+  *Parent says:* The salt box gets a thick coat, like a pickle. The plain box gets nothing.  
+  *Child mode:* Put 2 slices in each box. Cover one pair with lots of salt. Close the lids.
+  - Ask: Which box will rot first, and why? (good: Stop the mould, like in pickles.; Dry the cucumber out.; Any guess with a reason is good.)
 - **s3 (3 min)**  
   *Parent does:* Put both boxes side by side on the same kitchen shelf.  
   *Parent says:* Same shelf, same warmth, same air. Only the salt is different.  
@@ -329,7 +329,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 - **question:** Do decomposers feeding on fruit peels give off a gas?
 - **predict:** Guess first. Will the balloon on the peel bottle grow, stay flat, or shrink? What about the bottle with only water? Why do you think so?
 - **fair test:** Two bottles of the same size, with the same water and the same kind of balloon, in the same place. Only the peels and banana are different.
-- **record:** Draw both balloons each day.
+- **record:** Each day, write flat, standing up, or round for each balloon, or take a photo.
 - **results table:** Day | Peel bottle balloon | Water-only balloon
 - **schedule:** day 1: Fill both bottles and put on the balloons. Write your guess. (10 min); day 2: Look at both balloons and write. (2 min); day 3: Look and write. (2 min); day 4: Look, then say what you think, what you saw and why. Empty the bottles. (9 min)
 - **s1 (6 min)**  
@@ -338,8 +338,8 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
   *Child mode:* Put chopped peels and banana in bottle 1. Add water. Put only water in bottle 2.
 - **s2 (4 min)**  
   *Parent does:* 1. Stretch a balloon over the neck of each bottle. 2. Stand both bottles side by side in a warm spot, out of direct sun.  
-  *Parent says:* Which balloon do you think will grow? Why do you think so?  
-  *Child mode:* Stretch a balloon over each bottle. Put them in a warm spot. Which balloon will grow? Why?
+  *Parent says:* The balloon will catch any gas that comes out of the bottle.  
+  *Child mode:* Stretch a balloon over each bottle. Put them in a warm spot.
   - Ask: Which balloon will grow, and why? (good: The peel bottle, because rotting makes gas.; Neither, because peels are not alive.; Any guess with a reason is good.)
   - Note: Stretch each balloon a few times first, so it fills more easily.
 - **s3 (6 min)**  
@@ -361,15 +361,15 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 ## Activities
 ### a1 · Rot Hunt: find the decomposers at home (10 min)
 - **safety:** Look, but don't touch any mould, and don't put your nose close to the mould. Wash your hands afterwards.
-- **record:** Draw each thing you found, and write where it was.
+- **record:** Take a photo of each thing you found, or draw it, and write where it was.
 - **s1 (6 min)**  
   *Parent does:* 1. Look through the fruit basket, the vegetable tray and the wet-waste bin. 2. Look at the soil and fallen leaves in a plant pot. 3. Find anything soft, spotty, fuzzy or brown.  
   *Parent says:* Let's be rot detectives. Look for anything soft, spotty, fuzzy or turning brown. Don't touch it.  
   *Child mode:* Be a rot detective. Look for soft, spotty or fuzzy food. Look at old leaves in a plant pot. Don't touch!
 - **s2 (4 min)**  
-  *Parent does:* Draw two things you found. Then ask the questions below.  
-  *Parent says:* Who do you think is eating this food? Where did they come from?  
-  *Child mode:* Draw two things you found. Who do you think is eating them?
+  *Parent does:* Pick the two things that look most rotten. Take a photo of each, or point to where you found them. Then ask the questions below.  
+  *Parent says:* Pick the two things that look most rotten. Show me where you found them.  
+  *Child mode:* Pick two rotten things. Show your grown-up where you found them.
   - Ask: Who is making this food go soft or fuzzy? (good: Mould and bacteria.; Tiny living things.; Decomposers.)
   - Ask: Where did they come from? (good: The air.; Spores floating around.; I don't know yet.)
   - Note: Don't give the answers yet. The chapati test answers them. Any guess is welcome.
@@ -382,9 +382,9 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
   *Child mode:* Look at the mould through the magnifying glass. What is the fuzz made of?
   - Note: Use box B from the chapati test. If it grew no mould, look at a mouldy lemon or onion with the magnifying glass instead, and ask a grown-up to hold it for you.
 - **s2 (5 min)**  
-  *Parent does:* Draw what you see. Label the threads and the dots.  
+  *Parent does:* Draw what you see, or tell your grown-up what you see. Name the threads and the dots.  
   *Parent says:* The threads are called hyphae. The black, green or blue dots on top are cases full of spores. Draw both.  
-  *Child mode:* Draw the threads. Draw the dots. The dots are full of spores.
+  *Child mode:* Draw the threads and the dots, or tell your grown-up about them. The dots are full of spores.
   - Check: What are the tiny black dots on top of the white mould threads? → **Little cases full of spores**
 ### a3 · Kitchen Keepers: how does our family stop food from rotting? (15 min)
 - **record:** A table with three columns: the food, how it is kept, and what that way of keeping it takes away from the decomposers.
@@ -402,7 +402,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
   *Parent says:* Drying takes away water. What does salt do? What does the fridge do?  
   *Child mode:* For each food, write what is missing for the decomposers: water, warmth or air.
 ### a4 · Be the Recyclers: act out a leaf's journey (15 min)
-- **record:** Draw the circle of the leaf's journey, with arrows.
+- **record:** Line up the labels in the order of the leaf's journey, or draw the circle with arrows.
 - **s1 (3 min)**  
   *Parent does:* Give each person a label for a part in the leaf's journey, such as millipede, earthworm, fungus and bacteria, or plant. If there are only one or two of you, each person plays several parts.  
   *Parent says:* We are going to follow one dead leaf as it becomes soil. Each of us plays a part.  
@@ -415,31 +415,31 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 - **s3 (4 min)**  
   *Parent does:* Ask the question below.  
   *Parent says:* What happened to the leaf in the end? Is it gone?  
-  *Child mode:* Is the leaf gone? Where is it now?
+  *Child mode:* Look at the tiny bits on the paper tree.
   - Ask: Where is the leaf now? (good: In the new plant.; In the soil and the air.; It was eaten and turned into other things.)
 ### a5 · Worm Watch after rain (if you have a garden or a park nearby) (20 min)
 - **safety:** Go with a grown-up. Wash your hands afterwards.
-- **record:** Count the worm casts in a patch the size of a newspaper sheet, and draw one.
+- **record:** Count the worm casts in a patch the size of a newspaper sheet, and draw one, or take a photo.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Find a patch of bare soil or short grass. 2. Look for small curly heaps of soil and tiny holes. 3. Count the casts in a patch about the size of a newspaper sheet.  
   *Parent says:* Earthworms come up after rain. Can we find the soil they leave behind?  
   *Child mode:* Look for tiny curly heaps of soil. Those are worm casts. Count them.
 - **s2 (10 min)**  
   *Parent does:* Look closely at a cast with a magnifying glass. If you see a worm, watch how they move.  
-  *Parent says:* Why do you think worms come up after rain, and hide on a sunny day?  
-  *Child mode:* Look at a cast closely. If you see a worm, watch them move. Why do they hide from the sun?
+  *Parent says:* Look closely. Is the soil damp or dry?  
+  *Child mode:* Look at a cast closely. If you see a worm, watch them move.
   - Ask: Why do earthworms hide on a sunny day? (good: They breathe through their wet skin, and the sun would dry it.; They need to stay damp.)
 ### a6 · Draw the Hidden Fungus (10 min)
 - **safety:** Never eat a mushroom you find growing outdoors. Some are poisonous. Market mushrooms are safe to handle.
-- **record:** Two drawings: before and after.
+- **record:** Two drawings or models, before and after. Photos are fine.
 - **s1 (5 min)**  
-  *Parent does:* Ask your child to draw a mushroom growing out of the ground, including what is under the soil.  
-  *Parent says:* What do you think a mushroom looks like under the ground? Draw it.  
-  *Child mode:* Draw a mushroom. Draw what is under the soil too.
+  *Parent does:* Ask your child to draw a mushroom growing out of the ground, including what is under the soil. Or they can build it from clay or wool.  
+  *Parent says:* What do you think a mushroom looks like under the ground? Show me.  
+  *Child mode:* Draw or build a mushroom. Show what is under the soil too.
 - **s2 (5 min)**  
   *Parent does:* Show the picture on the word card 'Mycelium'. Ask your child to draw the mushroom again, with the threads.  
-  *Parent says:* The mushroom is only a small part. Most of the fungus is a web of threads under the ground. Let's draw it again.  
-  *Child mode:* The mushroom is just a small part. Draw the web of threads underneath.
+  *Parent says:* The mushroom is only a small part. Most of the fungus is a web of threads under the ground. Let's make it again.  
+  *Child mode:* The mushroom is just a small part. Draw or build the web of threads underneath.
 
 ## Projects
 ### p1 · Bottle Compost: watch peels become soil (60 min, 42 days)
@@ -467,18 +467,18 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 ## Challenges
 ### c1 · A Balcony Compost Pot That Doesn't Smell (30 min)
 - **problem:** Many families want to compost their peels in a flat, but worry that it will smell and bring flies. Design a compost pot for a balcony that keeps decomposers happy and the neighbours happy too.
-- **your turn:** Now draw your own balcony compost pot. Label how air gets in, where extra water goes, and how you keep flies out.
+- **your turn:** Now draw or build your own balcony compost pot. Label how air gets in, where extra water goes, and how you keep flies out.
 - **constraints:** It must fit on a small balcony.; Use things you already have at home, such as pots, buckets or tins.; It must let air in and let extra water out.
 - **general:** Use two or three stacked pots with holes, so the compost in the bottom pot finishes rotting while you fill the top one.; Always cover each layer of peels with dry leaves or paper, to soak up water and keep flies off.; Poke holes in the sides for air.
 - **creative:** Add a tray underneath to catch the liquid that drips out. Mixed with lots of water, it can water plants.; Keep a box of shredded newspaper beside the pot, so adding a dry layer is easy every time.; Put the pot on bricks so air can reach the bottom.
 - **s1 (5 min)**  
   *Parent does:* Talk about why compost can smell.  
-  *Parent says:* Bad smells come when a compost heap is too wet and has no air. What do decomposers need to work well?  
-  *Child mode:* Why can compost smell bad? What do decomposers need?
+  *Parent says:* Bad smells come when a compost heap is too wet and has no air.  
+  *Child mode:* Tell your grown-up what decomposers need to work well.
 - **s2 (10 min)**  
-  *Parent does:* Together, draw three ideas for a compost pot.  
-  *Parent says:* Let's draw three ideas for a compost pot. How does air get in? Where does extra water go?  
-  *Child mode:* Draw three ideas. Show how air gets in. Show where water goes.
+  *Parent does:* Together, show three ideas for a compost pot. Draw them, or arrange the bucket, pot, leaves and cloth on a table.  
+  *Parent says:* Let's show three ideas for a compost pot. How does air get in? Where does extra water go?  
+  *Child mode:* Show three ideas. Show how air gets in. Show where water goes.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* Choose the best idea and make a model, or the real pot if a grown-up agrees.  
   *Parent says:* Which idea is best? Let's build it.  
@@ -492,7 +492,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 - **s1 (5 min)**  
   *Parent does:* Think about what decomposers need: food, water, warmth and air.  
   *Parent says:* Which of these can we take away from a tomato without ruining it?  
-  *Child mode:* What do decomposers need? Which one can we take away?
+  *Child mode:* Pick one thing to take away. Tell your grown-up how you will do it.
   - Note: Good answers: keep the tomato cool, and keep it dry. The tomato is the food, so that cannot be taken away. Accept any answer that gives a reason.
 - **s2 (10 min)**  
   *Parent does:* Pick an idea and set it up. Put one tomato in a closed plastic bag as the comparison.  
@@ -501,7 +501,7 @@ By the time the rains eased, there was hardly a leaf to be seen in either pot. T
 - **s3 (10 min)**  
   *Parent does:* Check both tomatoes each day for a week.  
   *Parent says:* Which tomato is still firm?  
-  *Child mode:* Check both tomatoes every day. Which is still firm?
+  *Child mode:* Look at both tomatoes every day. Press them gently.
   - Wait: Check once a day for a week.
 
 ## Worksheets

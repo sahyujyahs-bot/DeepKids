@@ -455,8 +455,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Look at the Grown-ups only cards together.",
-     "say": "Chuna is a strong base and toilet cleaner is a strong acid. They sit under different headings. What do they have in common?",
-     "kid": "Chuna and toilet cleaner. Why are they for grown-ups only?",
+     "say": "Chuna is the lime paste used on walls. It is a strong base. Toilet cleaner is a strong acid. They sit under different headings. Why are both for grown-ups only?",
+     "kid": "Look at the chuna card and the toilet cleaner card. What could they do to your skin?",
      "parent": "They are on opposite sides of the line, but both are strong, so both burn. Strength matters more than which side a thing is on."
     }
    ],
@@ -756,7 +756,7 @@
      "what": "Make cabbage water. Guess, then test eight liquids and one glass of plain water. Line the glasses up from pinkest to greenest."
     }
    ],
-   "record": "Fill in the table. Then colour a long strip with a box for each liquid in the order of your line, from pinkest to greenest, and write the liquid's name under each box.",
+   "record": "Fill in the table. Then take a photo of your line of glasses, or write the liquids' names in order from pinkest to greenest.",
    "setup": [
     {
      "art": "Three red cabbage leaves torn into a mixie jar with water, and a tea strainer over a jug of dark purple water beside it.",
@@ -790,7 +790,7 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Put nine clear glasses on a white sheet of paper. 2. Pour a quarter cup of cabbage water into each. 3. Put a label in front of each glass with a liquid's name. One label says 'plain water'.",
-     "say": "Each glass gets the same amount of cabbage water. Why do you think we keep one glass for plain water?",
+     "say": "Each glass gets the same amount of cabbage water. One glass will only get plain water, so we have a purple glass to compare with.",
      "kid": "Pour the same amount into each glass. Put a label in front of each one.",
      "ask": [
       {
@@ -843,7 +843,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?",
-     "kid": "Say or write three things. What I think. What I saw. Why I think it happened.",
+     "kid": "Look along your line of glasses. Say what you think, what you saw, and why.",
      "parent": "This is called claim, evidence and reasoning. A strong answer sounds like this: 'Sour things are acids. Lemon and vinegar turned the water pink. Soap and soda turned it green, so they are bases. Buttermilk was only a bit pink, so it is only a bit acidic.' Then colour the strip in the record."
     }
    ]
@@ -898,7 +898,7 @@
      "what": "Make two pink glasses, one with lemon and one with buttermilk. Add soda water spoon by spoon and count the spoons to purple."
     }
    ],
-   "record": "Fill in the table. Draw the two glasses at the start and at the end, and write the number of spoons under each.",
+   "record": "Fill in the table. Write the number of spoons it took for each glass. Take a photo of the two glasses at the start and at the end, or draw them.",
    "setup": [
     {
      "art": "Three clear glasses of cabbage water on white paper: one pink with a lemon beside it, one pale pink with a cup of buttermilk beside it, and one purple.",
@@ -918,7 +918,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Pour a quarter cup of cabbage water into each of three glasses. 2. Add one teaspoon of lemon juice to the first glass. 3. Add one teaspoon of buttermilk to the second. 4. Leave the third glass plain.",
-     "say": "Which glass is pinker, the lemon or the buttermilk? The plain glass shows us the purple we are aiming for.",
+     "say": "The lemon and buttermilk glasses will turn pink. The plain glass shows us the purple we are aiming for.",
      "kid": "Fill three glasses. Add lemon to one. Add buttermilk to one. Leave one plain.",
      "context": "This is the first step of the Lemon or Buttermilk test. Here you make two pink glasses to turn back to purple."
     },
@@ -926,8 +926,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Ask for a guess and a reason. Write it in the table.",
-     "say": "Soda water moves the colour towards blue. Which pink glass will need more spoons of soda water to become purple? Why?",
-     "kid": "Which glass needs more spoons to turn purple? Lemon or buttermilk? Why?",
+     "say": "Soda water moves the colour towards blue. Which pink glass will need more spoons of soda water to become purple?",
+     "kid": "Guess which glass needs more spoons to turn purple: lemon or buttermilk?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -971,7 +971,7 @@
      "mins": 5,
      "do": "Ask your child three things: what they found, what they saw that shows it, and why they think it happened.",
      "say": "What did you find? What did you see that shows it? Why do you think it happened?",
-     "kid": "What did you find? What did you see? Why?",
+     "kid": "Look at your tally marks. Tell your grown-up what you found.",
      "parent": "A strong answer: 'Lemon juice has more acid than buttermilk. The lemon glass took six spoons to turn purple and the buttermilk took one. The soda water uses up the acid, so more acid needs more soda.'"
     }
    ]
@@ -1032,7 +1032,7 @@
      "what": "Morning: set curd in katori B the same way. Evening: make cabbage water and test fresh milk, katori B and katori A side by side."
     }
    ],
-   "record": "Fill in the table. Draw the three glasses side by side and colour them.",
+   "record": "Fill in the table. Line up the three glasses side by side and take a photo, or draw and colour them.",
    "setup": [
     {
      "art": "A child's hand stirring half a teaspoon of curd into a small steel katori of warm milk, with a paper label 'A, Day 1'.",
@@ -1052,7 +1052,7 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Pour half a cup of warm milk into katori A. 2. Stir in half a teaspoon of curd. 3. Cover it and label it 'A, Day 1'. 4. Keep it in a warm corner of the kitchen.",
-     "say": "The curd we add is full of living bacteria. They will eat the milk sugar. Feel the milk first: is it just warm?",
+     "say": "The curd we add is full of bacteria. Bacteria are tiny living things, too small to see. They will eat the milk sugar. Feel the milk first: is it just warm?",
      "kid": "Feel the milk. Is it just warm? Stir in a little curd. Cover it.",
      "adult": true,
      "parent": "Milk that is too hot can kill the bacteria, and cold milk sets very slowly. Just warm on a finger is right. In most Indian kitchens curd sets in 6 to 10 hours, faster in summer.",
@@ -1072,8 +1072,8 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Make cabbage water as in the Cabbage Colour Line test: blend two cabbage leaves with two cups of water and strain it. 2. Ask for a guess and a reason before testing.",
-     "say": "Fresh milk, katori B and katori A. Which will make the cabbage water pinkest? Why do you think so?",
-     "kid": "A grown-up blends the cabbage and water. Strain it. Which will be pinkest: milk, B or A? Why?",
+     "say": "We will test fresh milk, katori B and katori A with cabbage water. Which will make it pinkest?",
+     "kid": "A grown-up blends the cabbage and water. Pour it through the strainer.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1108,8 +1108,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Talk about why the bacteria make acid.",
-     "say": "Many other microbes would like to eat this milk too. Most of them do not grow well in sour milk. How does the acid help the curd bacteria?",
-     "kid": "Other microbes want the milk too. How does sourness help the curd bacteria?",
+     "say": "Many other microbes would like to eat this milk too. Microbes are tiny living things, like bacteria. Most of them do not grow well in sour milk. How does the acid help the curd bacteria?",
+     "kid": "Think about it, then tell your grown-up what you think.",
      "parent": "A good answer: the acid keeps many other microbes away, so the curd bacteria keep the milk for themselves. It is also why curd stays good longer than milk."
     }
    ]
@@ -1121,7 +1121,7 @@
    "title": "The Purple Surprise: make cabbage water",
    "mins": 10,
    "days": 1,
-   "context": "This is a first look for the acids and bases unit. You make red cabbage water and see what one squeeze of lemon does to it.",
+   "context": "This is a first look for the acids and bases unit. You make red cabbage water and see what one squeeze of lemon does to it. You will find out how a cabbage can show you what is sour.",
    "materials": [
     {
      "item": "2 big red cabbage leaves, or about a cup of chopped red cabbage. No red cabbage? Use a handful of blue butterfly pea flowers (sangu poo), fresh or dried, soaked in hot water.",
@@ -1145,7 +1145,7 @@
      "what": "Make cabbage water. Add lemon to one glass. Say what you notice and what you wonder."
     }
    ],
-   "record": "Draw the two glasses and write one thing you noticed and one thing you wonder.",
+   "record": "Say one thing you noticed and one thing you wonder. Your grown-up writes them down.",
    "setup": [
     {
      "art": "Red cabbage leaves in a mixie jar with water, and purple water being strained into a jug.",
@@ -1179,7 +1179,7 @@
      "mins": 3,
      "do": "Ask what your child notices and what they wonder.",
      "say": "What do you notice? What do you wonder? What else from the kitchen might change the colour?",
-     "kid": "What do you notice? What do you wonder? What else might change it?",
+     "kid": "Look at both glasses. Tell what you notice.",
      "ask": [
       {
        "q": "What do you wonder?",
@@ -1199,7 +1199,7 @@
    "title": "Sour or Slippery? A safe taste and touch test",
    "mins": 10,
    "days": 1,
-   "context": "This activity is about how acids and bases feel. You taste only foods, and feel soapy water with your fingers.",
+   "context": "This activity is about how acids and bases feel. You taste only foods, and feel soapy water with your fingers. You will find out which things taste sour and which feel slippery.",
    "materials": [
     {
      "item": "small pieces of foods: a slice of lemon, a piece of tamarind, a spoon of curd, a piece of tomato, a piece of raw mango or amla if you have it",
@@ -1239,7 +1239,7 @@
      "mins": 4,
      "do": "Give your child one food at a time to taste.",
      "say": "Taste this. Is it sour? A little sour or very sour?",
-     "kid": "Taste each food. Is it sour? A little or a lot?",
+     "kid": "Taste each food. Tell your grown-up how sour it is.",
      "parent": "All of these are sour because they contain weak acids: citric acid in lemon, tartaric acid in tamarind, lactic acid in curd.",
      "context": "This is the first step of the Sour or Slippery? activity. Here you taste foods that contain acids."
     },
@@ -1256,7 +1256,7 @@
      "mins": 3,
      "do": "Talk about why we never test by tasting.",
      "say": "Sour and slippery are clues. But why do scientists never taste a liquid to find out what it is?",
-     "kid": "Why should we never taste a liquid to test it?",
+     "kid": "Say one reason a scientist would not taste an unknown liquid.",
      "check": {
       "t": "mcq",
       "q": "You find a bottle with no label. How should you find out if it is an acid?",
@@ -1276,7 +1276,7 @@
    "title": "The Fizz Test: lemon on cooking soda",
    "mins": 10,
    "days": 1,
-   "context": "This activity shows what happens when an acid meets a base. It is the fizz that Nicolas Lémery tried to explain with spiky particles in 1675.",
+   "context": "This activity shows what happens when an acid meets a base. You will find out which of three white powders fizzes with lemon juice. The fizz is what Nicolas Lémery tried to explain with spiky particles in 1675.",
    "materials": [
     {
      "item": "a steel plate",
@@ -1302,7 +1302,7 @@
      "what": "Drip lemon juice on cooking soda, salt and sugar. Which fizz?"
     }
    ],
-   "record": "Draw the three heaps after the lemon drops, and write which ones fizzed.",
+   "record": "Write which heaps fizzed and which did not. Take a photo of the three heaps if you like.",
    "setup": [
     {
      "art": "Three small white heaps on a steel plate, labelled soda, salt and sugar.",
@@ -1334,8 +1334,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Tell the story of Lémery's idea in one or two sentences, then ask.",
-     "say": "Long ago a chemist said acids have tiny spikes that break inside a base, and that makes the fizz. Nobody ever saw the spikes. What would you need to see to believe him?",
-     "kid": "A chemist once said acids have tiny spikes. Nobody saw them. Would you believe it? Why?",
+     "say": "Long ago a chemist said acids have tiny spikes that break inside a base, and that makes the fizz. Nobody ever saw the spikes.",
+     "kid": "Would you believe him? What would you need to see first?",
      "parent": "A good answer is that you would want to see the spikes, or find another test that shows them. Chemists looked for 200 years and never found any. Later they found that every acid gives out charged hydrogen particles in water, which explains the sourness and the fizz.",
      "check": {
       "t": "mcq",
@@ -1565,7 +1565,7 @@
     "Pour a second colour slowly down the back of a spoon into a tall glass. Both colours are mostly water, so they mix and do not stay in layers. Stir gently and look at the colour in between.",
     "Make the rainbow on paper with your cabbage test strips instead of glasses."
    ],
-   "your_turn": "Now plan your own rainbow. Write down what you will put in each glass before you start, then test it and see which glasses you need to fix.",
+   "your_turn": "Now plan your own rainbow. Say or write down what you will put in each glass before you start, then test it and see which glasses you need to fix.",
    "setup": [
     {
      "art": "Six empty clear glasses in a row on white paper, with a written plan beside them.",
@@ -1580,7 +1580,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Ask your child to write a plan for the six glasses.",
+     "do": "Ask your child to plan the six glasses, out loud or in writing.",
      "say": "What will you add to each glass to get each colour? Use what you found in the Colour Line test.",
      "kid": "Plan your six colours. What goes in each glass?",
      "context": "This is the planning step of A Rainbow in Six Glasses."

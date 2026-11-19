@@ -218,8 +218,8 @@ Then she added one more line: Next test, the sail.
   *Child mode:* Each card is a test. Is it fair? A fair test changes only one thing.
 - **s2 (3 min)**  
   *Parent does:* Read the top card as a practice round: the idlis in two wrappings.  
-  *Parent says:* One idli is wrapped in a banana leaf and one in foil. The idlis are the same size, from the same batch. Both are felt after 20 minutes. Fair or unfair?  
-  *Child mode:* One idli in a banana leaf, one in foil. Same size, same batch. Fair or unfair?
+  *Parent says:* One idli is wrapped in a banana leaf and one in foil. The idlis are the same size, from the same batch. Both are felt after 20 minutes.  
+  *Child mode:* Listen to the test. Then hold up your FAIR or UNFAIR card.
   - Check: One idli is wrapped in a banana leaf and one in foil. The idlis are the same size and from the same batch, and both are felt after 20 minutes. Is this test fair? → **Fair, because only the wrapping is different**
 - **s3 (8 min)**  
   *Parent does:* Play the rest of the cards. Take turns to read. Give points as in the rules.  
@@ -230,16 +230,16 @@ Then she added one more line: Next test, the sail.
 - **s4 (2 min)**  
   *Parent does:* Add up the points. Ask which card was hardest.  
   *Parent says:* Which card was the hardest to decide? Why?  
-  *Child mode:* Count your points. Which card was hardest? Why?
+  *Child mode:* Count your points. Who has the most?
   - Note: Any real example works, as long as your child can name the two things that were different and say which one to keep the same.
   - Think: Think of a race or game you once played where two things were different, such as who was playing and where. How could you make it fair?
 ### g2 · Table Detective: find the mistake (10 min)
 - **rules:** Stack the 8 table cards with the table side up. Turn over one card at a time.; Look for a mistake in the way the table is written, or an odd result. One card has no mistake. Say 'no mistake' if you think that is the one.; Say how you would fix it, or what you would check.; Turn the card over and read the answer. One point for finding it, one point for the fix.; With two players, the first to speak scores the first point. The other player can win the fix point.; The game ends after 8 cards. Most points wins. If points are equal, you share the win. Playing alone, score out of 16.
 - **Printable cards: 8 table cards (print front and back: the answer is on the back):** Bounce test. Columns: Ball | Bounce. Rows: Rubber ball | 45. Plastic ball | 30. (back: Mistake: the heading has no unit. 45 what? It should say 'Bounce height (cm)'.); Apple test. Columns: Slice | After 30 minutes. Rows: Nothing | brown. Lemon | white. Water | (empty box). (back: Mistake: a result is missing. The water slice has no entry. Every row needs a result.); Throw test. Columns: Throw | Balls in, out of 10. Rows: Underarm | 7. Overarm | 4. Underarm | 6. (back: Mistake: underarm is written twice and overarm once, so the tries are not the same for each. Each way of throwing needs the same number of tries.); Drying test. Columns: Cloth | Time to dry. Rows: Cotton | 40 minutes. Towel | 2 hours. (back: Mistake: the units are mixed. Write both in minutes: cotton 40, towel 120. Then the numbers can be compared.); Sugar test. Columns: Water | Seconds to dissolve. Rows: Warm and stirred | 30. Cold and not stirred | 200. (back: Mistake: two things changed, the warmth and the stirring. This is not a fair test. Fix: change only one.); Ice test. Columns: Wrap | Minutes until melted. Rows: Cloth | 50. Foil | 35. Nothing | (empty box). (back: Mistake: the result for 'Nothing' is missing. That is the control, and every other result is compared with it.); Plant test. Columns: Pot | Height. Rows: Sunny | 12 cm. Dark | 30 cm. (back: This is an odd result, not a writing mistake. A plant in the dark growing much taller is surprising. Do not rub it out. Check how it was measured, and repeat the test.); Bounce test. Columns: Ball | Try 1 (cm) | Try 2 (cm) | Try 3 (cm). Rows: Rubber | 45 | 44 | 46. Tennis | 38 | 40 | 39. (back: No mistake. The headings have units, every box is filled in, and each ball has the same number of tries.)
 - **s1 (2 min)**  
-  *Parent does:* Start with the bounce test card that has no unit.  
-  *Parent says:* Here is a results table. Something is missing. Can you find it?  
-  *Child mode:* Look at this table. Something is missing. What is it?
+  *Parent does:* Start with the first card, the bounce test.  
+  *Parent says:* Here is a results table. Read the heading and the numbers.  
+  *Child mode:* Look at the table card. Read the heading and the numbers.
   - Check: A table says 'Rubber ball 45, Plastic ball 30' under the heading 'Bounce'. What is missing? → **The unit, such as centimetres**
 - **s2 (7 min)**  
   *Parent does:* Go through the other cards. Let your child find each mistake before you read the answer.  
@@ -249,7 +249,7 @@ Then she added one more line: Next test, the sail.
 - **s3 (1 min)**  
   *Parent does:* Ask what makes a good table.  
   *Parent says:* Now you are the expert. What must every good results table have?  
-  *Child mode:* What must every good table have?
+  *Child mode:* Think back over the mistakes you found.
   - Ask: What must a good results table have? (good: Headings with units; A row for every thing tested; No empty boxes; The same number of tries for each)
 
 ## Experiments
@@ -258,16 +258,16 @@ Then she added one more line: Next test, the sail.
 - **predict:** Look at the four bowls: nothing, water, salt water, lemon juice. Which slice do you think will stay white longest, and which will go brown first? Why do you think so?
 - **fair test:** The thing we change: what we put on each slice. The things we keep the same: the same apple, slices of the same thickness, all cut at the same time, each dipped for one minute, all on one plate in one place, all checked at the same times. The slice with nothing on it is the control. What we watch: the colour of each slice, scored 0 to 3.
 - **safety:** A grown-up cuts the apple. Lemon juice stings in the eyes and in small cuts, so wash your hands afterwards.
-- **record:** Fill in the table. Use this colour score: 0 means white, 1 means a little cream, 2 means light brown, 3 means dark brown. At the end, colour four small squares to match the four slices.
+- **record:** Fill in the table. Use this colour score: 0 means white, 1 means a little cream, 2 means light brown, 3 means dark brown. At the end, line up the four slices from whitest to brownest and take a photo.
 - **results table:** Slice | What we put on it | Colour at 10 minutes (0 to 3) | Colour at 30 minutes (0 to 3) | Colour at 1 hour (0 to 3)
 - **s1 (5 min)**  
   *Parent does:* 1. Set out the four bowls and label them: nothing, water, salt water, lemon. 2. Help your child draw the results table with a ruler.  
   *Parent says:* We are going to test what keeps a cut apple white. First we draw our table, so we are ready to write things down.  
-  *Child mode:* We will test what keeps apple white. First draw the table. Use a ruler.
+  *Child mode:* Draw your table with a ruler. Give it one row for each of the four slices.
 - **s2 (4 min)**  
   *Parent does:* Ask for a prediction and a reason. Then ask what must stay the same.  
   *Parent says:* Which slice do you think will stay white longest? Why? And what must we keep the same, so the test is fair?  
-  *Child mode:* Which slice will stay white longest? Why? What must stay the same?
+  *Child mode:* Guess which slice will stay white longest, and say why.
   - Ask: What must we keep the same? (good: Use the same apple.; Make the slices the same size.; Cut them all at the same time.; Put them all on one plate.)
   - Note: Write the prediction at the top of the table. Do not say what will happen. If your child misses something, ask: 'What if one slice came from a different apple?'
 - **s3 (6 min) · grown-up needed**  
@@ -298,17 +298,17 @@ Then she added one more line: Next test, the sail.
 - **question:** From two big steps away, do more paper balls go into a bucket when you throw underarm or overarm?
 - **predict:** Which throw do you think will get more balls into the bucket, underarm or overarm? Why do you think so? Would one throw of each be enough to know?
 - **fair test:** The thing we change: underarm or overarm. The things we keep the same: the same paper ball, the same bucket, the same thrower, the same line, the same number of throws, and we take turns so tiredness is the same for both. What we count: how many of 10 throws go in.
-- **record:** Make a tally in the table for every ball that goes in. Then draw two bars, one for underarm and one for overarm.
+- **record:** Make a tally in the table for every ball that goes in. Then stack one coin for each ball that went in: one stack for underarm and one for overarm. Compare the stacks.
 - **results table:** Throw | Tally of balls in | Number in, out of 10
 - **s1 (4 min)**  
   *Parent does:* 1. Put the bucket against a wall. 2. Take two big steps back and mark a line. 3. Draw the table.  
   *Parent says:* Everyone throws from this line, every time. Why do you think the line matters?  
-  *Child mode:* Throw from this line every time. Why does the line matter?
+  *Child mode:* Stand behind this line for every throw.
   - Note: The line keeps the distance the same for every throw. Then the way of throwing is the only thing that changes.
 - **s2 (2 min)**  
   *Parent does:* Ask for a prediction and a reason. Then let your child throw once underarm and once overarm.  
   *Parent says:* Which throw will get more in? Why? Now one throw each. Does that settle it?  
-  *Child mode:* Guess which throw is better. Why? Now one throw each. Are you sure yet?
+  *Child mode:* Guess which throw is better, and say why. Then throw once each.
   - Note: After one throw each, many children think they know. Ask: 'Could that have been luck?'
 - **s3 (10 min)**  
   *Parent does:* Throw one underarm, then one overarm, and keep taking turns until you have thrown 10 of each. After each throw, make a tally mark in the right row if it went in.  
@@ -318,7 +318,7 @@ Then she added one more line: Next test, the sail.
 - **s4 (4 min)**  
   *Parent does:* Count the tallies, write the numbers and compare.  
   *Parent says:* Which throw got more in? Was the first throw a good guide?  
-  *Child mode:* Count the tallies. Which throw won? Did the first throw give the right answer?
+  *Child mode:* Count the tallies for each way of throwing.
   - Ask: What would you change to make the test even better? (good: Throw 20 times each.; Get someone else to throw too, and compare.; Use a smaller bucket, so there are fewer lucky throws.)
   - Note: Results differ from child to child. Many children get more balls in underarm from close up, but not all. Throwing underarm and overarm in turns means practice and tiredness affect both ways equally. A child who notices a problem, such as a bucket that is too easy, has spotted something real.
 ### e3 · The Brinjal Bowl: why do cooks keep cut brinjal in water? (25 min)
@@ -326,36 +326,36 @@ Then she added one more line: Next test, the sail.
 - **predict:** Which brinjal piece do you think will stay pale longest: the one on a plate, the one under water, or the one under salt water? Why do you think so?
 - **fair test:** The thing we change: where each piece waits (on a plate, under plain water, or under salt water). The things we keep the same: one brinjal, pieces the same size, all cut at the same time, all checked at the same time. A brinjal piece floats, so each piece in water is held under with a steel lid, or the top would be in the air. The piece on the plate is the control.
 - **safety:** A grown-up cuts the brinjal. Cook the pieces afterwards instead of eating them raw.
-- **record:** Write a word for each colour: pale, a little brown, brown, dark brown. Draw the three pieces at 20 minutes.
+- **record:** Write a word for each colour: pale, a little brown, brown, dark brown. Take a photo of the three pieces at 20 minutes, or line them up on a plate from palest to darkest.
 - **results table:** Piece | Where it waited | Colour at 5 minutes | Colour at 20 minutes
 - **s1 (4 min)**  
   *Parent does:* 1. Draw the table. 2. Ask for a prediction and a reason.  
   *Parent says:* Many cooks put cut brinjal in water until it is time to cook. Do you think the water really helps? Why? Which piece will stay pale longest?  
-  *Child mode:* Cooks put cut brinjal in water. Does it help? Why do you think so?
+  *Child mode:* Guess which piece will stay palest, and say why.
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Cut three slices of the same size from the middle of the brinjal. 2. Put one on the plate. 3. Put one in the bowl of plain water and one in the bowl of salt water, and press each under with a steel lid.  
   *Parent says:* Look, the brinjal floats. If it floats, its top is in the air. Is that fair? So I hold each one under.  
-  *Child mode:* The brinjal floats! The top is in the air. So hold it under with a steel lid.
+  *Child mode:* Watch the grown-up press each piece under the water with a steel lid.
   - Note: Brinjal is full of tiny air spaces, so it floats. A floating piece would brown on top, and the test would be unfair to the water. Holding it under is the fix.
 - **s3 (5 min)**  
   *Parent does:* After 5 minutes, look at the plate piece. Lift the others out quickly, look, and put them back under.  
-  *Parent says:* Five minutes. What colour is each piece? Write one word for each.  
-  *Child mode:* Five minutes. Look at each piece. Write one word for each colour.
+  *Parent says:* Five minutes. What colour is each piece? Tell me one word for each.  
+  *Child mode:* Look at each piece. Write one colour word for it.
   - Wait: Wait 5 minutes.
 - **s4 (10 min)**  
   *Parent does:* At 20 minutes, take all three out and put them side by side. Compare and talk.  
   *Parent says:* Put them side by side. What do you see? Were the cooks right?  
-  *Child mode:* Put all three side by side. Were the cooks right?
+  *Child mode:* Look at the three pieces. Which one is palest?
   - Ask: What did the water do, and how do you know? (good: The pieces under water stayed paler than the one on the plate.; The plate piece went brown first, so the water slowed the browning.)
   - Note: Cut brinjal browns quickly in air, often within minutes. Pieces kept under water stay much paler. The salt water piece may look a little paler than the plain water one, or about the same. Both are honest results.
   - Wait: Wait until 20 minutes have passed.
 
 ## Activities
 ### a1 · The Unfair Bounce (8 min)
-- **record:** Write: 'Unfair test: ... Fair test: ...' and draw the two drops.
+- **record:** Write: 'Unfair test: ... Fair test: ...'. Then tell your grown-up what was different between the two drops.
 - **s1 (3 min)**  
-  *Parent does:* Drop your ball from your knee while your child drops theirs from above their head. Say your child's ball is bouncier.  
-  *Parent says:* Your ball bounced higher, so your ball must be bouncier. Do you agree?  
+  *Parent does:* Drop both balls together. Drop yours from your knee while your child drops theirs from above their head. Then say your child's ball is bouncier.  
+  *Parent says:* Your ball bounced higher, so your ball must be bouncier.  
   *Child mode:* Drop your ball from high up. The grown-up drops theirs low. Whose bounced higher?
   - Ask: Is it fair to say your ball is bouncier? (good: No, because mine fell from higher up.; We dropped them from different heights.)
   - Note: Let your child find the problem. If they agree, ask: 'Did both balls start at the same height?'
@@ -372,8 +372,8 @@ Then she added one more line: Next test, the sail.
   *Child mode:* Agree the rules first. Same floor. Bare feet. Arms out. Eyes open.
 - **s2 (3 min)**  
   *Parent does:* Draw a table: Name, Try 1 (seconds), Try 2 (seconds), Try 3 (seconds).  
-  *Parent says:* Each person gets one row. Each try gets one column. Where does the word 'seconds' go?  
-  *Child mode:* Draw the table. One row for each person. One column for each try.
+  *Parent says:* Each person gets one row. Each try gets one column.  
+  *Child mode:* Rule your table with a ruler. Give it one row for each person.
   - Check: Where should you write 'seconds' in the table? → **Once, in each column heading**
 - **s3 (8 min)**  
   *Parent does:* Time each person three times. Fill in the table straight away.  
@@ -383,11 +383,11 @@ Then she added one more line: Next test, the sail.
   - Note: An odd result is worth talking about, not rubbing out. Write a note next to it saying what happened.
 ### a3 · Two Things at Once: the sugar puzzle (15 min)
 - **safety:** Use warm water you can comfortably hold your finger in, not hot water.
-- **record:** Draw the three tumblers. Under each, write: warm or cold, stirred or not, and how many seconds the sugar took to disappear.
+- **record:** Write one line for each tumbler: warm or cold, stirred or not, and how many seconds the sugar took to disappear. You can also put a paper label beside each tumbler.
 - **s1 (4 min)**  
   *Parent does:* Tumbler 1: warm water, one teaspoon of sugar, stir 20 times. Tumbler 2: cold water, one teaspoon of sugar, do not stir. Start the timer for both and write down when the sugar disappears.  
-  *Parent says:* The sugar in the warm stirred tumbler vanished first. Was it the warm water, or the stirring?  
-  *Child mode:* Warm and stirred. Cold and not stirred. Which helped, warmth or stirring?
+  *Parent says:* One tumbler is warm and stirred. The other is cold and not stirred. Watch which sugar vanishes first.  
+  *Child mode:* Watch both tumblers. Which sugar vanishes first?
   - Ask: Can we tell which one helped? (good: No, because we changed two things.; It could be the warm water or the stirring.)
   - Note: The sugar in the cold tumbler that is not stirred can take 5 minutes or more. Stop timing at 5 minutes and write 'not yet'. That is still a result.
 - **s2 (6 min)**  
@@ -402,16 +402,16 @@ Then she added one more line: Next test, the sail.
   - Check: Which test tells you what stirring does? → **Cold and stirred against cold and not stirred**
 ### a4 · Be James Lind: act out the scurvy test (10 min)
 - **problem:** In 1747 many sailors fell ill with scurvy, and nobody knew the cure. The ship's doctor, James Lind, gave six different treatments to twelve sick sailors, two sailors for each. He kept everything else the same. Here you act out his test and see what the results showed.
-- **record:** Draw Lind's table: Treatment, Number of sailors, How they were after 6 days.
+- **record:** Make Lind's table: Treatment, Number of sailors, How they were after 6 days.
 - **s1 (4 min)**  
   *Parent does:* Read the How We Found Out card about James Lind. Lay out 12 paper sailors in pairs, with a label beside each pair naming its treatment.  
-  *Parent says:* Lind had twelve sick sailors. He gave each pair a different treatment. What did he keep the same for all of them?  
-  *Child mode:* Twelve sick sailors, in pairs. Each pair gets something different. What stayed the same?
+  *Parent says:* Lind had twelve sick sailors. He gave each pair a different treatment.  
+  *Child mode:* Look at the twelve paper sailors. Each pair has a different label.
   - Ask: What did Lind keep the same? (good: They all ate the same food.; They all slept in the same part of the ship.; They were all ill with scurvy.)
 - **s2 (6 min)**  
   *Parent does:* Fill in Lind's table. The pair with oranges and lemons did best. One was fit for work in six days, and the other was much better. The cider pair got a little better. The other pairs did not get better.  
-  *Parent says:* The sailors with oranges and lemons got well. Why was it important that they all ate the same food?  
-  *Child mode:* The oranges and lemons pair got well. Why did all of them eat the same food?
+  *Parent says:* The sailors with oranges and lemons got well. The others did not do as well.  
+  *Child mode:* Find the oranges and lemons pair. They got well. How did the other pairs do?
   - Check: Why did Lind give all twelve sailors the same food? → **So that only the treatment was different**
 
 ## Projects
@@ -422,7 +422,7 @@ Then she added one more line: Next test, the sail.
 - **s1 (20 min)**  
   *Parent does:* 1. Draw three boxes on a page: 'I will change', 'I will keep the same', 'I will measure or watch'. 2. Offer these questions: Which paper plane flies furthest? Which cloth soaks up a spill best? Which tumbler keeps ice longest: steel, glass or plastic? 3. Your child picks one, or their own. 4. Fill in the three boxes together. 5. Draw the results table.  
   *Parent says:* Pick a question you really want answered. Then tell me: what will you change, what will you keep the same, and what will you measure?  
-  *Child mode:* Pick a question. What will you change? What stays the same? What will you measure?
+  *Child mode:* Pick a question you really want answered.
   - Check: You test which tumbler keeps ice longest: steel, glass or plastic. What is the one thing you change? → **The kind of tumbler**
 - **s2 (30 min)**  
   *Parent does:* 1. Do the test three times. 2. Fill in the table. 3. Your child presents it: the question, the plan, the results and a conclusion.  
@@ -439,17 +439,17 @@ Then she added one more line: Next test, the sail.
 - **creative:** Hold both cars behind a ruler laid across the ramp, then lift the ruler, so both start at the same moment with no push.; Swap which side of the ramp each car uses, in case one side is smoother.; Mark where each car stops with a small sticker, so you don't have to remember.
 - **s1 (5 min)**  
   *Parent does:* Show the two cars. Ask what could make one go further, apart from the car itself.  
-  *Parent says:* What could make one car go further, even if the cars were the same?  
-  *Child mode:* What could make one car go further, apart from the car?
-  - Ask: What could make it unfair? (good: One car gets pushed.; They start at different heights.; One rolls on the rug and one on the tiles.)
+  *Parent says:* Here are two cars. We want to know which rolls further. First, let us see how a race could go wrong.  
+  *Child mode:* Look at the two cars. Which do you think rolls further?
+  - Ask: Apart from the car, what could make one car go further? (good: One car gets pushed.; They start at different heights.; One rolls on the rug and one on the tiles.)
 - **s2 (15 min)**  
   *Parent does:* Build the ramp and test your design. Roll each car three times. Fill in a table.  
-  *Parent says:* Build it and try it. Does your design stop anyone from pushing?  
+  *Parent says:* Build it and try it. Make sure nobody can give a car a push.  
   *Child mode:* Build your ramp. Roll each car three times. Fill in your table.
 - **s3 (5 min)**  
   *Parent does:* Talk about what worked and what you would change.  
   *Parent says:* Which car went further? Are you sure it was the car and not something else?  
-  *Child mode:* Which car went further? How do you know it was the car?
+  *Child mode:* Say what you would change next time.
 ### c2 · The Fair Taste Test (20 min)
 - **problem:** A person in your family says they can taste the difference between tap water and water that was boiled and then cooled. Design a fair test to find out if they can.
 - **your turn:** Now design a fair taste test for something else: can someone tell sugar from jaggery in their tea? Can they tell two kinds of rice apart?
@@ -458,18 +458,18 @@ Then she added one more line: Next test, the sail.
 - **creative:** Toss a coin to decide the order each time, so even you can't make a pattern.; Let someone else pour, so your face can't give a clue.; Do the test on yourself too.
 - **s1 (5 min)**  
   *Parent does:* Read the problem. Ask how the taster could guess right without really tasting a difference.  
-  *Parent says:* How could the taster guess right without really tasting a difference?  
-  *Child mode:* How could the taster guess right just by luck or by peeking?
-  - Ask: How could the taster guess right without tasting? (good: By seeing which tumbler it is.; By luck, if they only try once.; If one water is colder.)
+  *Parent says:* Before we test, think how the test could go wrong. Someone can say the right answer without tasting any difference.  
+  *Child mode:* Pretend you are the taster. How could you cheat?
+  - Ask: How could the taster get it right without tasting any difference? (good: By seeing which tumbler it is.; By luck, if they only try once.; If one water is colder.)
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* Run the test ten times. Record each guess as right or wrong.  
-  *Parent says:* Ten tries. Toss a coin each time to decide the order. Write 'right' or 'wrong' for each guess.  
-  *Child mode:* Ten tries. Toss a coin for the order. Write 'right' or 'wrong' each time.
+  *Parent does:* Fill two tumblers with tap water and two with boiled water. Run ten tries. Each time, give the taster one tumbler of each and ask which is the boiled water. A coin toss decides which goes on the left: heads means boiled on the left. Record each guess as right or wrong.  
+  *Parent says:* Ten tries. Toss the coin each time to decide the order of the tumblers. Write 'right' or 'wrong' for each guess.  
+  *Child mode:* Taste the two tumblers. Say which one is the boiled water.
   - Note: A grown-up boils the water earlier and lets it cool fully, so it is the same temperature as the tap water.
 - **s3 (3 min)**  
   *Parent does:* Count the right answers and talk about them.  
   *Parent says:* Just guessing, the taster would get about 5 right out of 10. Getting 6 or 7 can easily happen by luck. Getting 9 or 10 is very unlikely by luck. What did they get? What does that tell us?  
-  *Child mode:* Guessing gets about 5 of 10 right. What did the taster get?
+  *Child mode:* Count how many guesses were right.
 
 ## Worksheets
 ### Fair Test Detective (core) (core, 15 questions)

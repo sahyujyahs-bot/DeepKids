@@ -474,7 +474,7 @@
      "context": "This is the first step of Who Helps Here?, a card game about community helpers.",
      "do": "1. Cut out the cards. 2. Shuffle them. 3. Read the rules together.",
      "say": "Each card is a problem. Your job is to say who helps with it.",
-     "kid": "Each card is a problem. Say who helps. Then turn it over."
+     "kid": "Help to cut out the cards and shuffle them."
     },
     {
      "id": "s2",
@@ -482,7 +482,7 @@
      "context": "This is the playing part of the card game Who Helps Here?",
      "do": "Play the game. Each player reads a problem, names the helper, then turns the card over.",
      "say": "Who would you go to for this? What do they do?",
-     "kid": "Read the problem. Who helps? Turn it over to check.",
+     "kid": "Read the problem on your card. Then turn it over to check.",
      "parent": "Some problems have more than one good answer. A neighbour can help with a fallen person too, while you wait for the ambulance. Accept any answer with a good reason.",
      "check": {
       "t": "mcq",
@@ -502,7 +502,7 @@
      "context": "This is the last step of the card game Who Helps Here?",
      "do": "Talk about which helpers are public services and which are people you pay yourself.",
      "say": "Which helpers did we pay ourselves? Which are paid for by everyone's taxes?",
-     "kid": "Which helpers do we pay ourselves? Which are paid by taxes?",
+     "kid": "Sort all the cards into two heaps: helpers paid by taxes, and helpers we pay ourselves.",
      "ask": [
       {
        "q": "Name one helper paid by taxes, and one you pay yourself.",
@@ -583,8 +583,8 @@
      "mins": 5,
      "context": "This is the first step of the Shared Pond Test. You learn the rules and make your guess.",
      "do": "1. Count the players (2 to 4). Write the limit for each player in the notebook: 8 fish a round for 2 players, 6 for 3, 5 for 4. 2. Put 20 chana in the bowl. Keep the rest as a spare pile. 3. Give each player 12 slips and a pencil. 4. Read the rules aloud. 5. Write your child's guess and reason.",
-     "say": "These 20 chana are fish in a pond we all share. Each round, you secretly write how many fish you take, from 0 up to our limit. Then the fish left in the pond have babies, so the number doubles. But the pond can never hold more than 20. If it ever reaches 0, no fish are left to have babies. Your aim is to catch as many fish as you can. Which game will last longer, silent or talking? Why?",
-     "kid": "The chana are fish. Each round, write how many you take, from 0 up to the limit. The fish left will double. The pond holds 20 at most. Guess: will the silent game or the talking game last longer? Why?",
+     "say": "These 20 chana are fish in a pond we all share. Each round, you secretly write how many fish you take, from 0 up to our limit. Then the fish left in the pond have babies, so the number doubles. But the pond can never hold more than 20. If it ever reaches 0, no fish are left to have babies. Your aim is to catch as many fish as you can.",
+     "kid": "The chana are fish. Each round, write how many you take, from 0 up to the limit. The fish left will double. The pond holds 20 at most.",
      "ask": [
       {
        "q": "Which game do you think will last longer, and why?",
@@ -656,8 +656,8 @@
      "mins": 5,
      "context": "This is the last step of the Shared Pond Test. You compare the two games and explain what you found.",
      "do": "1. Each player counts their fish from the talking game. 2. Compare both tables. 3. Ask your child what they think happened, what they saw, and why. 4. Compare with the guess from the start.",
-     "say": "In which game did the pond last longer? In which game did each of us catch more fish? What changed between the two games? Was your guess right?",
-     "kid": "Which pond lasted longer? When did you catch more fish? What was different? Was your guess right?",
+     "say": "In which game did the pond last longer? In which game did each of us catch more fish? What changed between the two games?",
+     "kid": "Put your two tables side by side. Look at the guess you wrote at the start. Was it right?",
      "ask": [
       {
        "q": "Why did the pond run out, or last, in each game?",
@@ -762,7 +762,7 @@
    "title": "The Postcard Test: how many days does a letter take, and how many people carry it?",
    "mins": 25,
    "days": 7,
-   "context": "In this experiment you post a postcard to a relative in another town and count how many days it takes to arrive.",
+   "context": "In this experiment you post a postcard to a relative in another town. You will find out how many days it takes, and how many people carry it.",
    "question": "How many days does a postcard take to reach a relative in another town, and what does the post office do on the way?",
    "predict": "Guess first. How many days will your postcard take to arrive? Will a card to a far town take longer than a card to a near one? Why do you think so?",
    "fair_test": "Write the full address with the PIN code clearly, so the card is not slowed by a mistake. Post it on a working day, and write the date you post it. Ask the relative to phone you the day it arrives. If you can, send two cards on the same day, one to a near town and one to a far town, so the distance is the only big difference.",
@@ -814,7 +814,7 @@
      "what": "Count the days the card took. Compare with your guess, and talk about what the post office did."
     }
    ],
-   "record": "Fill in the table. Draw the path of the card: post box, post office, sorting office, train or van, the town's post office, and the postwoman or postman at the door.",
+   "record": "Fill in the table. Write the path of the card as a list, in order: post box, post office, sorting office, train or van, the town's post office, and the postwoman or postman at the door. Count the people.",
    "flow": [
     {
      "id": "s1",
@@ -848,9 +848,9 @@
      "id": "s4",
      "mins": 8,
      "context": "This is the last step of the Postcard Test. You count the days and think about who carried your card.",
-     "do": "1. Count the days from posting to arriving. 2. Compare with the guess. 3. Draw the card's path and count the people who handled it.",
+     "do": "1. Count the days from posting to arriving. 2. Compare with the guess. 3. List, in order, the people and places the card passed through, and count them.",
      "say": "How many days did it take? Was your guess close? How many people do you think touched our card on the way?",
-     "kid": "Count the days. Was your guess close? Draw the card's path. Who carried it?",
+     "kid": "Count the days. Was your guess close? List who carried the card, in order.",
      "ask": [
       {
        "q": "What could make a card slower?",
@@ -897,7 +897,7 @@
    "title": "Who Keeps Our Building Going? A list of the helpers we hardly see",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you list every person whose work keeps your home and building going, and sort them by what they do.",
+   "context": "In this activity you list every person whose work keeps your home and building going. You will find out how many people your family depends on in one day, even ones you never see.",
    "materials": [
     {
      "item": "a sheet of paper and a pencil",
@@ -923,26 +923,26 @@
      "context": "This is a short activity to start the unit. You list the helpers your home depends on.",
      "do": "1. Ask your child to think about yesterday, from waking up to bedtime. 2. List every person whose work they used, whether they saw the person or not. 3. Write each one down.",
      "say": "Who brought the milk packet? Who collected the garbage? Who sent the water to our taps? Who drove the bus? Let's write every one.",
-     "kid": "Think about yesterday. Who brought the milk? Who took the garbage? Who sent the water? Write each one.",
+     "kid": "Think about yesterday, from waking up to bedtime. Write every person whose work you used.",
      "parent": "Help your child think of people they never see: the person who fills the gas cylinder, the electricity lineman, the farmer, the water board worker. Most families reach 15 to 25 people."
     },
     {
      "id": "s2",
      "mins": 5,
      "context": "This is the sorting step of the helpers list.",
-     "do": "Draw five boxes: food, water, cleaning, health and safety, messages and things. Sort each helper into a box.",
-     "say": "Which box does the sweeper go in? And the postwoman? Which box has the most people?",
-     "kid": "Draw five boxes. Put each helper in a box. Which box is fullest?",
+     "do": "Tear the list into slips, one helper on each slip. Make five heaps: food, water, cleaning, health and safety, messages and things. Put each slip in a heap.",
+     "say": "Which heap does the sweeper go in? And the postwoman? Which heap has the most people?",
+     "kid": "Put each helper slip in a heap. Which heap is fullest?",
      "check": {
       "t": "mcq",
-      "q": "The caretaker of a building switches on the motor that pumps water to the tank on the roof. Which box does the caretaker go in?",
+      "q": "The caretaker of a building switches on the motor that pumps water to the tank on the roof. Which heap does the caretaker go in?",
       "options": [
        "Food",
        "Water",
        "Messages and things"
       ],
       "a": 1,
-      "why": "The caretaker brings water to every flat, so the caretaker goes in the water box. Some helpers fit more than one box. A strong sorter says why."
+      "why": "The caretaker brings water to every flat, so the caretaker goes in the water heap. Some helpers fit more than one box. A strong sorter says why."
      }
     },
     {
@@ -951,7 +951,7 @@
      "context": "This is the last step of the helpers list. You think about what would happen without one helper.",
      "do": "Your child picks one helper and says what would happen if that person did not come for a week.",
      "say": "Pick one helper. What would our home be like if they did not come for a week?",
-     "kid": "Pick one helper. What if they did not come for a week?",
+     "kid": "Pick one helper. Tell your grown-up what would go wrong.",
      "ask": [
       {
        "q": "What would happen without the garbage collector for a week?",
@@ -972,7 +972,7 @@
     },
     {
      "art": "The same helpers sorted into five boxes drawn on paper, labelled food, water, cleaning, health and safety, messages and things.",
-     "caption": "2. Sort them into five boxes."
+     "caption": "2. Sort them into five groups."
     }
    ]
   },
@@ -981,7 +981,7 @@
    "title": "Meet a Helper: a short interview with a worker near home",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you meet one worker near your home, ask them three questions and draw them at their work.",
+   "context": "In this activity you meet one worker near your home and ask three questions. You will find out what skill their work needs and how they learned it.",
    "materials": [
     {
      "item": "a notebook and crayons",
@@ -1000,7 +1000,7 @@
      "what": "Meet a Helper: a short interview with a worker near home"
     }
    ],
-   "record": "A drawing of the worker with their tool, their name, their work and one thing they said.",
+   "record": "A drawing or a few lines about the worker: their tool, their name, their work and one thing they said.",
    "flow": [
     {
      "id": "s1",
@@ -1008,7 +1008,7 @@
      "context": "This is the first step of Meet a Helper. You choose a worker and practise your questions.",
      "do": "1. Choose one worker near home: the presswala, the tailor, the cobbler, the flower seller or the vegetable seller. 2. Practise three polite questions.",
      "say": "Let's practise. 'What is your work called? Who taught you? What is the hardest part of your work?'",
-     "kid": "Choose a helper. Practise three questions. What is your work? Who taught you? What is hardest?"
+     "kid": "Choose a helper. Practise the three questions out loud."
     },
     {
      "id": "s2",
@@ -1024,9 +1024,9 @@
      "id": "s3",
      "mins": 6,
      "context": "This is the last step of Meet a Helper. You draw what you learned.",
-     "do": "At home, your child draws the worker with their tool and writes their name, their work and one thing they said.",
+     "do": "At home, your child draws the worker with their tool, or tells you what they saw. They write the name and one thing the worker said.",
      "say": "What surprised you? How long did they take to learn their work?",
-     "kid": "Draw the helper and their tool. Write their name and one thing they said.",
+     "kid": "Draw the helper and their tool, or tell your grown-up what you saw. Write their name and one thing they said.",
      "ask": [
       {
        "q": "What did you learn about their work?",
@@ -1055,7 +1055,7 @@
    "title": "Our Emergency Card: who to call, and what to say",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make a card of emergency numbers and practise a pretend call.",
+   "context": "In this activity you make a card of emergency numbers and practise a pretend call, so you know who to call and what to say if help is needed.",
    "materials": [
     {
      "item": "a piece of card from an old box",
@@ -1113,7 +1113,7 @@
      "context": "This is the last step of Our Emergency Card.",
      "do": "Stick the card near the door.",
      "say": "Why must we only call these numbers in a real emergency?",
-     "kid": "Stick the card by the door. Why only call in a real emergency?",
+     "kid": "Stick the card by the door.",
      "ask": [
       {
        "q": "Why must we call these numbers only in a real emergency?",
@@ -1140,7 +1140,7 @@
    "title": "The Water Trail: where does our tap water come from?",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you follow the water in your home backwards, from the tap to where it began.",
+   "context": "In this activity you follow the water in your home backwards, from the tap to where it began. You will find out who works at each stage to bring it to you.",
    "materials": [
     {
      "item": "a notebook and pencil",
@@ -1184,9 +1184,9 @@
      "id": "s3",
      "mins": 7,
      "context": "This is the last step of the Water Trail. You draw the whole path.",
-     "do": "Your child draws the path from the lake or river to the tap, and draws one helper at each stage.",
+     "do": "Your child draws the path from the lake or river to the tap, with one helper at each stage. Or they tell it to you in order.",
      "say": "Who works at each stage? Who cleans the water? Who mends a burst pipe?",
-     "kid": "Draw the water's path. Draw a helper at each stage.",
+     "kid": "Draw the water's path with a helper at each stage, or tell it.",
      "think": "The lake is shared by a whole city. What happens if one part of the city uses too much?"
     }
    ],
@@ -1238,7 +1238,7 @@
      "context": "This is the last step of the Rule Hunt. You work out why each rule is there.",
      "do": "Make a table: the shared thing, the rule, who made it and why. Talk about one rule that is often broken.",
      "say": "Why do you think this rule is here? What would happen without it? Who checks that it is kept?",
-     "kid": "Why is each rule there? What if nobody kept it? Who checks?",
+     "kid": "Fill in the table. Pick one rule and tell what would go wrong if nobody kept it.",
      "check": {
       "t": "mcq",
       "q": "A sign in a lift says 'No more than 6 people'. Why is the rule there?",
@@ -1268,7 +1268,7 @@
    "title": "The Public Services Map: what is near our home?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you draw a map of the public services near your home, and how far each one is.",
+   "context": "In this activity you make a map of the public services near your home. You will find out which help is close and which is far.",
    "materials": [
     {
      "item": "a large sheet of paper",
@@ -1296,9 +1296,9 @@
      "id": "s1",
      "mins": 12,
      "context": "This is the first step of the Public Services Map. You draw what is near your home.",
-     "do": "1. Draw your home in the middle of the paper. 2. Mark each public service you know nearby. Look for a school, a health centre, the post office and the police station. Add the fire station, the ration shop, the bus stop and the park. 3. Draw a small sign for each.",
+     "do": "1. Write 'Home' in the middle of the paper, or draw your home. 2. Mark each public service you know nearby. Look for a school, a health centre, the post office and the police station. Add the fire station, the ration shop, the bus stop and the park. 3. Write the name of each, or draw a small sign.",
      "say": "Where is the nearest government health centre? The post office? The fire station? Let's mark how far each one is.",
-     "kid": "Draw your home in the middle. Mark the school, the health centre, the post office and more. Draw a sign for each."
+     "kid": "Write 'Home' in the middle. Mark the school, the health centre, the post office and more. Name each one, or draw a sign."
     },
     {
      "id": "s2",
@@ -1328,7 +1328,7 @@
    "title": "The Corridor Plant: share one plant for a week with a turn list",
    "mins": 50,
    "days": 7,
-   "context": "In this week-long project, several people share the care of one potted plant, with a rule and a turn list, and see whether the plant does well.",
+   "context": "In this week-long project, several people share the care of one potted plant, with a rule and a turn list, and see whether the plant does well. You will find out if a shared thing lasts better when everyone has a turn.",
    "materials": [
     {
      "item": "one potted plant in a corridor, on a landing or by the door",
@@ -1381,7 +1381,7 @@
      "what": "Meet again. Look at the plant and the turn list. Was the rule kept? Change it if needed."
     }
    ],
-   "record": "The turn list with ticks, a note each day on whether the soil was dry, damp or soggy, and a drawing of the plant on day 1 and day 7.",
+   "record": "The turn list with ticks, a note each day on whether the soil was dry, damp or soggy, and a drawing or photo of the plant on day 1 and day 7.",
    "flow": [
     {
      "id": "s1",
@@ -1389,7 +1389,7 @@
      "context": "This is the first day of the Corridor Plant project. You agree how to share the care of one plant.",
      "do": "1. Choose one plant that several people pass every day. 2. Meet with the others who will share it. 3. Agree a rule together, for example 'one mug of water when the soil is dry, one person each day'. 4. Make a turn list with the days and names, and a box to tick.",
      "say": "This plant belongs to all of us. A plant nobody waters dries out. A plant everyone waters drowns. What rule should we make?",
-     "kid": "Many people share this plant. Too little water dries the plant out. Too much drowns the plant. Make a rule together.",
+     "kid": "Talk with the others. Agree one rule for watering the plant. Write the turn list.",
      "parent": "If there are no neighbours' children, share the plant within the family: each person has a day. The point is to see whether a shared plant does well with a rule and a list."
     },
     {
@@ -1408,7 +1408,7 @@
      "context": "This is the last day of the Corridor Plant project.",
      "do": "Meet again. Look at the plant and the list. Ask each person what was easy and hard. Change the rule if it did not work.",
      "say": "Is the plant doing well? Did everyone keep the rule? What would make it work better?",
-     "kid": "Look at the plant and the list. Was the rule kept? Should we change it?",
+     "kid": "Look at the plant and the list. Tell the others what you saw.",
      "think": "Who checked that the rule was kept? Did that help?"
     }
    ],
@@ -1459,7 +1459,7 @@
      "context": "This is the first step of the Fair Water challenge.",
      "do": "Read the problem. List every way water is used in a flat in one day.",
      "say": "What do the families use water for? Which uses are needed every day, and which can wait?",
-     "kid": "List all the ways a family uses water. Which are needed? Which can wait?"
+     "kid": "Make two lists: water we must use every day, and water that can wait."
     },
     {
      "id": "s2",
@@ -1467,7 +1467,7 @@
      "context": "This is the planning step of the Fair Water challenge.",
      "do": "Write a rule in three parts: what each flat may do, who checks, and what happens if someone breaks it.",
      "say": "In the Shared Pond Test, what made the pond last? Who will check our water rule?",
-     "kid": "Write the rule. Who checks? What if someone breaks it?",
+     "kid": "Write your rule in three parts.",
      "parent": "Ostrom found that rules last better when the users make them, someone checks them, and the first cost of breaking them is small."
     },
     {
@@ -1476,7 +1476,7 @@
      "context": "This is the last step of the Fair Water challenge.",
      "do": "Read the rule aloud to the family. Ask each person whether it is fair to their flat.",
      "say": "Suppose you live on the top floor. Is the rule fair to you? And if you live on the ground floor?",
-     "kid": "Read your rule aloud. Is it fair to the top floor? To the ground floor?",
+     "kid": "Read your rule aloud. Ask each person if it is fair to them.",
      "think": "Which part of your rule would be hardest to check?"
     }
    ],
@@ -1524,15 +1524,15 @@
      "context": "This is the first step of the Make a Helper's Work Easier challenge.",
      "do": "Choose one helper. Watch them work once, or ask them what makes their work slow.",
      "say": "What does the milk delivery person do at each door? What slows them down?",
-     "kid": "Choose a helper. Watch or ask. What makes their work slow?"
+     "kid": "Choose a helper. Watch them, or ask them what slows them down."
     },
     {
      "id": "s2",
      "mins": 12,
      "context": "This is the design step of the Make a Helper's Work Easier challenge.",
-     "do": "Draw your idea. Make it, if it needs making.",
+     "do": "Show your idea: draw it, or build a small model from card and string. Make the real thing, if it needs making.",
      "say": "What could we change at our door to help?",
-     "kid": "Draw your idea. Make it if you can."
+     "kid": "Draw your idea or build a model. Make it if you can."
     },
     {
      "id": "s3",

@@ -437,11 +437,11 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about water habitats. Players place living things and facts in the right home, a pond, a river or the sea, and answer questions to win cards.",
+   "context": "This is a card game about water habitats. You will find out which living things live in a pond, a river, the sea or a mixed place, and why. Players place cards in the right home and answer questions to win cards.",
    "printables": [
     {
      "kind": "board",
-     "title": "Four areas to draw on a big sheet: pond, river, sea and mixed",
+     "title": "Four areas on a big sheet: pond, river, sea and mixed",
      "items": [
       "POND: still fresh water",
       "RIVER: flowing fresh water",
@@ -609,7 +609,7 @@
     }
    ],
    "rules": [
-    "Draw the pond, river, sea and mixed areas on a big sheet.",
+    "Divide a big sheet into four areas. Write POND, RIVER, SEA and MIXED, one in each area.",
     "Shuffle the 24 cards and put them in a pile, with the front sides facing up.",
     "On your turn, take the top card. If it is a living thing card, put it on the area where you think that living thing lives, and say one reason. If it is a QUESTION card, say your answer.",
     "Another player reads the back of the card. If you are right, keep the card. If you are wrong, nobody scores. Put a living thing card on its right area, and put a QUESTION card aside.",
@@ -620,9 +620,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw the four areas on a big sheet. 2. Shuffle the cards.",
+     "do": "1. Divide a big sheet into four areas. Write POND, RIVER, SEA and MIXED, one in each. 2. Shuffle the cards.",
      "say": "Every living thing on these cards has a water home. Let's see if we know where.",
-     "kid": "Draw the pond, river, sea and mixed areas. Shuffle the cards.",
+     "kid": "Help to write the four water homes on the sheet. Then shuffle the cards.",
      "context": "This is the first step of Pond, River or Sea, a card game about water homes."
     },
     {
@@ -630,7 +630,7 @@
      "mins": 14,
      "do": "Take turns. Place each living thing card on its home with a reason, or answer the question card.",
      "say": "Where does this one live? And why does that home suit them?",
-     "kid": "Take a card. Where does this living thing live? Say why.",
+     "kid": "Take a card and put it on its home. Say your reason out loud.",
      "parent": "Ask for a reason each time. 'The flat fish lives in the river, because a flat body holds on to rocks, so the water doesn't carry them away.' The hilsa can go on the river, the sea or the mixed area: hilsa live in the sea and swim up rivers to lay their eggs."
     },
     {
@@ -638,10 +638,10 @@
      "mins": 3,
      "do": "Count the cards and talk about the hardest one.",
      "say": "Which card was hardest to place? Why?",
-     "kid": "Count your cards. Which one was hardest?",
+     "kid": "Count your cards. Point to the card that was hardest.",
      "check": {
       "t": "mcq",
-      "q": "Which living thing lives in both the sea and rivers at different times of their life?",
+      "q": "Which one lives in the sea at one time and in rivers at another?",
       "options": [
        "The lotus",
        "The hilsa",
@@ -655,7 +655,7 @@
    "setup": [
     {
      "art": "A big sheet of paper with four areas drawn: a pond, a river, the sea, and a mixed area where a river meets the sea.",
-     "caption": "1. Draw the three homes."
+     "caption": "1. Mark the four homes."
     },
     {
      "art": "Two players placing cut-out cards with words on them onto the areas of the sheet, one card turned over to show its answer.",
@@ -672,7 +672,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a token game that shows how a pond's oxygen goes up in the day and down at night. The bowl of tokens is the pond's oxygen, and two paper fish must breathe from the bowl each round.",
+   "context": "This is a token game that shows how a pond's oxygen goes up in the day and down at night. You will find out why fish gulp at the surface at dawn. The bowl of tokens is the pond's oxygen, and two paper fish must breathe from the bowl each round.",
    "printables": [
     {
      "kind": "tokens",
@@ -722,7 +722,7 @@
     }
    ],
    "rules": [
-    "Put 10 tokens in a bowl. This is the oxygen in the pond. Draw 2 fish on a sheet of paper and keep a space beside them for gulp marks.",
+    "Put 10 tokens in a bowl. This is the oxygen in the pond. Tear 2 small paper fish, or use 2 coins as fish, and put them on a sheet of paper. Keep a space beside them for gulp marks.",
     "Shuffle the 10 round cards and put them face down.",
     "Each round, turn over a card and do what it says. If it takes out more tokens than the bowl has, take all that are there.",
     "Then take out 1 token for each fish, because each fish breathes. Then take out 1 more token for the algae and snails, if any are left.",
@@ -734,17 +734,17 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Put 10 tokens in the bowl. 2. Draw 2 fish on a sheet of paper. 3. Shuffle the round cards and put them face down.",
-     "say": "The bowl is the pond's oxygen. Each of these two fish needs one token to breathe every round.",
-     "kid": "The bowl is the pond's oxygen. Two fish live in the pond bowl. Each fish needs one token every round.",
+     "do": "1. Put 10 tokens in the bowl. 2. Put 2 paper fish, or 2 coins, on a sheet of paper. 3. Shuffle the round cards and put them face down.",
+     "say": "This bowl is our pond, and the tokens are its oxygen. These two fish must breathe every round.",
+     "kid": "Each fish needs one token every round. If a fish gets none, it gulps.",
      "context": "This is the first step of Day and Night in the Pond, a token game about how a pond's oxygen rises and falls."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Turn over a round card and do what it says. Then take 1 token for each fish and 1 for the algae and snails. If a fish has no token, make a gulp mark. After each card, say what it means in the real pond.",
-     "say": "Night! The algae can't make oxygen in the dark, but everyone still breathes. Watch the bowl.",
-     "kid": "Turn a card. Do what it says. Then each fish takes a token.",
+     "do": "Turn over a round card and do what it says. Then take out 1 token for each fish, and 1 more for the algae and snails. If a fish has no token, make a gulp mark. After each card, say what it means in the real pond.",
+     "say": "Read the card out loud. Does it put oxygen in the pond, or take it out? Then everyone breathes. Watch the bowl.",
+     "kid": "Do what the card says. Then each fish takes one token. Did a fish get none?",
      "parent": "After NIGHT cards, the bowl runs low. That is the shortage of oxygen at dawn in the story 'The Pond That Gasped at Dawn'. HOT AFTERNOON and SEWAGE make it worse. WIND, RAIN and FOUNTAIN help."
     },
     {
@@ -752,7 +752,7 @@
      "mins": 3,
      "do": "Count the gulp marks. Talk about when the fish were in most danger.",
      "say": "When did the pond run out of oxygen? What helped most?",
-     "kid": "When did the tokens run out? What helped?",
+     "kid": "Count your gulp marks. Which cards came just before them?",
      "check": {
       "t": "mcq",
       "q": "In the game, when did the pond usually run short of oxygen?",
@@ -769,7 +769,7 @@
    "setup": [
     {
      "art": "A bowl of small paper circles marked O on a table, two fish drawn on a sheet of paper, and a pile of round cards with sun and moon pictures.",
-     "caption": "1. Put 10 oxygen tokens in the pond bowl. Draw 2 fish."
+     "caption": "1. Put 10 oxygen tokens in the pond bowl. Put down 2 fish."
     },
     {
      "art": "A child turning over a NIGHT card with a moon on it, while a parent counts three tokens out of the bowl for two paper fish and the algae.",
@@ -842,7 +842,7 @@
      "what": "Fill glass A with cold tap water, glass B with cold boiled water and glass C with room-temperature tap water. Make a warm bath and stand the glasses in it. Watch for bubbles at 5 and 15 minutes."
     }
    ],
-   "record": "Fill in the table. Draw the three glasses, with the bubbles you saw on each.",
+   "record": "Fill in the table. Take a photo of the three glasses, or draw them, with the bubbles you saw on each.",
    "flow": [
     {
      "id": "s1",
@@ -869,7 +869,7 @@
      "mins": 5,
      "do": "Ask your child to guess. Which glass will grow the most bubbles when it warms up, and which the fewest? Write the guesses in the table.",
      "say": "Soon we will warm all three glasses. Which do you think will grow the most bubbles? Which the fewest? Why do you think so?",
-     "kid": "Guess. Which glass will get the most bubbles? Which will get the fewest? Why?",
+     "kid": "Point to the glass you think will grow the most bubbles. Point to the one with the fewest.",
      "ask": [
       {
        "q": "Why did you choose that glass?",
@@ -896,7 +896,7 @@
      "mins": 15,
      "do": "1. At 5 minutes, shine the torch through the side of each glass. 2. Look at the bottom and the sides. 3. Write lots, some or almost none for each glass. 4. Look again at 15 minutes.",
      "say": "Shine the torch through each glass. Look at the sides and the bottom. Which one has the most bubbles?",
-     "kid": "Shine the torch through each glass. Look for tiny bubbles. Which has the most?",
+     "kid": "Shine the torch through each glass. Look at the bottom and sides for tiny bubbles.",
      "check": {
       "t": "mcq",
       "q": "Which glass grew the most bubbles?",
@@ -928,7 +928,7 @@
      "think": "If warm water holds less air, what happens to fish in a pond on a very hot day?"
     }
    ],
-   "context": "In this experiment you warm three glasses of water and watch for bubbles. The bubbles show the air that was hidden, dissolved, in the water.",
+   "context": "In this experiment you warm three glasses of water and watch for bubbles. You will find out whether clear water has air hidden in it. That hidden air is called dissolved air.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1027,7 +1027,7 @@
      "what": "Soak cucumber slices for 20 minutes in plain water, in water as salty as the sea, and in very salty water. Bend each slice to test how stiff it is."
     }
    ],
-   "record": "Fill in the table. Draw one slice from each bowl, held by its edge, showing how much it bent.",
+   "record": "Fill in the table. Lay the three slices side by side, stiffest to floppiest, and take a photo. Or draw them.",
    "flow": [
     {
      "id": "s1",
@@ -1091,7 +1091,7 @@
      "think": "Why can't we drink sea water when we are thirsty?"
     }
    ],
-   "context": "In this experiment you soak cucumber slices in plain and salty water. It shows what salty water does to a living thing used to fresh water, like a river fish.",
+   "context": "In this experiment you soak cucumber slices in plain and salty water. You will find out what salty water does to a living thing used to fresh water, like a river fish.",
    "setup": [
     {
      "art": "Three steel katoris of water labelled plain, sea and very salty, with a teaspoon and tablespoon of salt beside them.",
@@ -1146,7 +1146,7 @@
      "what": "Make a tall tower, a ball and a flat dome from equal pieces of dough. Pour water down a sloping plate at each and see which stays put."
     }
    ],
-   "record": "Fill in the table. Draw each shape, with an arrow showing which way the water pushed it.",
+   "record": "Fill in the table. Take a photo of where each shape ended up, or draw each one with an arrow for the push of the water.",
    "flow": [
     {
      "id": "s1",
@@ -1161,7 +1161,7 @@
      "mins": 3,
      "do": "1. Ask for a guess and a reason. 2. Write the guesses. 3. Prop one end of the plate on a book over the sink, so it slopes only a little.",
      "say": "Which shape will the water push away first? Why do you think so?",
-     "kid": "Guess. Which shape will the water push first? Why?",
+     "kid": "Point to the shape you think the water will push first.",
      "ask": [
       {
        "q": "Why do you think that shape will move first?",
@@ -1251,7 +1251,7 @@
      "what": "Slice a lotus stem and look at its holes. Blow through a piece into water and watch for bubbles."
     }
    ],
-   "record": "Draw the slice and its holes. Count the holes.",
+   "record": "Count the holes and say the number. Take a photo of the slice, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1287,7 +1287,7 @@
      "mins": 3,
      "do": "Talk about the problem the lotus solves.",
      "say": "The leaves are up in the air and light. The roots are deep in the airless mud. How does the lotus look after both?",
-     "kid": "The leaves are up high. The roots are deep in mud. How does air reach the roots?",
+     "kid": "The leaves are in the air. The roots are in airless mud. Tell your grown-up what the holes are for.",
      "parent": "If you can't find a lotus stem, ask at a vegetable market for thamarai thandu or kamal kakdi. Or blow through a drinking straw into a glass of water to see what a tube of air does."
     }
    ],
@@ -1319,7 +1319,7 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Draw the six stages of a frog's life on cards. Put them in order, and mark how the frog breathes at each stage."
+     "what": "Make a card for each of the six stages of a frog's life. Put them in order, and mark how the frog breathes at each stage."
     }
    ],
    "record": "Stick the cards in a circle in your notebook. Write how each stage breathes: through the jelly, gills, or lungs and skin.",
@@ -1327,15 +1327,15 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Draw one stage of a frog's life on each card. 1. Eggs in jelly. 2. A tadpole with gills. 3. A tadpole with back legs. 4. A tadpole with four legs. 5. A young frog with a short tail. 6. An adult frog.",
-     "say": "A frog changes their whole body as they grow. Let's draw each stage on a card.",
-     "kid": "Draw six cards: eggs, a tadpole, a tadpole with back legs, a tadpole with four legs, a young frog, and a frog.",
-     "context": "This is the first step of a frog life cycle activity. You draw the six stages and find out how the frog breathes at each one."
+     "do": "Make one card for each stage of a frog's life. Draw the stage, or just write its name. 1. Eggs in jelly. 2. A tadpole with gills. 3. A tadpole with back legs. 4. A tadpole with four legs. 5. A young frog with a short tail. 6. An adult frog.",
+     "say": "A frog changes their whole body as they grow. Let's make a card for each stage.",
+     "kid": "Make six cards, one for each stage from egg to frog. Draw each one, or write its name.",
+     "context": "This is the first step of a frog life cycle activity. You make a card for each of the six stages and find out how the frog breathes at each one."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Shuffle the cards. 2. Ask your child to put them in order. 3. Next to each card, write how that stage breathes.",
+     "do": "1. Shuffle the cards. 2. Ask your child to put them in order. 3. For each card, ask how that stage breathes. Write the answer next to it, or just say it.",
      "say": "Put them in order. Now, at each stage, how does the frog get their oxygen? Through the jelly, gills, or lungs and skin?",
      "kid": "Put the cards in order. How does each one breathe? Through the jelly, gills, or lungs and skin?",
      "check": {
@@ -1364,7 +1364,7 @@
    "setup": [
     {
      "art": "Six hand-drawn cards on a table: eggs, a tadpole, a tadpole with legs, a four-legged tadpole, a young frog and an adult frog.",
-     "caption": "1. Draw six stages of a frog's life."
+     "caption": "1. Make a card for each stage of a frog's life."
     },
     {
      "art": "The six cards in a circle, with 'gills' written beside the tadpoles and 'lungs and skin' beside the frogs.",
@@ -1402,7 +1402,7 @@
      "what": "Pour coloured fresh water gently onto very salty water and see the layers."
     }
    ],
-   "record": "Draw the glass with its layers and label them 'river water' and 'sea water'.",
+   "record": "Take a photo of the glass, or draw its layers. Say which layer is 'river water' and which is 'sea water'.",
    "flow": [
     {
      "id": "s1",
@@ -1440,7 +1440,7 @@
      "parent": "Fish there must cope with water whose saltiness changes with the tide and the season. Water that is a mix of fresh and salt is called brackish. Mangrove trees, crabs and some fish live in brackish water. In Kerala, the Thanneermukkom barrier was built across Vembanad lake to keep salt water out of the rice fields of Kuttanad."
     }
    ],
-   "context": "In this activity you pour fresh water gently onto salty water and see them make layers, as they do where a river meets the sea.",
+   "context": "In this activity you pour fresh water gently onto salty water and see them make layers. You will find out what happens where a river meets the sea.",
    "setup": [
     {
      "art": "A glass half full of water and a tablespoon of salt being stirred in.",
@@ -1482,7 +1482,7 @@
      "mins": 8,
      "do": "1. Colour the sea around India green and label the Arabian Sea and the Bay of Bengal. 2. Draw the Ganga, Godavari, Krishna and Kaveri in blue. 3. Mark your own nearest river or lake.",
      "say": "Let's find India's water habitats. Green for salty sea, blue for fresh rivers and lakes.",
-     "kid": "Colour the sea green. Draw four big rivers in blue. Find a river near you.",
+     "kid": "Colour the sea green. Draw four big rivers in blue. Find a river near you. A grown-up can help with the outline.",
      "context": "This is the first step of a map activity. You mark India's fresh, salty and mixed water habitats."
     },
     {
@@ -1573,7 +1573,7 @@
      "mins": 2,
      "do": "Talk about what this means for fish.",
      "say": "When does the pond get extra oxygen from its plants: in the day or at night?",
-     "kid": "When do plants add oxygen to a pond? Day or night?",
+     "kid": "Remember which sprig made bubbles. Tell your grown-up what that means for the fish.",
      "check": {
       "t": "mcq",
       "q": "Why did the plant in the cupboard make few or no bubbles?",
@@ -1640,12 +1640,12 @@
     {
      "day": 7,
      "mins": 10,
-     "what": "Look at both jars. Is either one turning green? Draw them."
+     "what": "Look at both jars. Is either one turning green? Write the colour of each."
     },
     {
      "day": 14,
      "mins": 10,
-     "what": "Look again. Look closely at the sides with a magnifying glass. Draw them."
+     "what": "Look again. Look closely at the sides with a magnifying glass. Count the green specks or threads."
     },
     {
      "day": 21,
@@ -1653,7 +1653,7 @@
      "what": "Compare the two jars and explain the difference. Then pour the water into a pot plant."
     }
    ],
-   "record": "Draw both jars every week and write the colour of the water.",
+   "record": "Every week, take a photo of both jars, or draw them, and write the colour of the water.",
    "flow": [
     {
      "id": "s1",
@@ -1667,15 +1667,15 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Look at both jars after one week. Draw them.",
+     "do": "Look at both jars after one week. Write the colour of each.",
      "say": "Has either jar changed colour? Look at the side that faces the window.",
-     "kid": "Look at both jars. Any green? Draw them.",
+     "kid": "Look at both jars. Any green? Say the colour of each.",
      "wait": "Come back in a week."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "After two weeks, look closely at the sides with a magnifying glass. Draw them.",
+     "do": "After two weeks, look closely at the sides with a magnifying glass. Count the green specks or threads.",
      "say": "Look closely at the glass. Can you see green specks or threads?",
      "kid": "Use the magnifying glass. Can you see green specks?",
      "wait": "Come back in a week.",
@@ -1686,7 +1686,7 @@
      "mins": 10,
      "do": "Compare the jars after three weeks.",
      "say": "Why did the sunny jar turn green, and the dark one stay clear?",
-     "kid": "Why did only the sunny jar turn green?",
+     "kid": "Compare the two jars. Look at the colour of the water and at the glass.",
      "check": {
       "t": "mcq",
       "q": "The jar in the sun turned green. The jar in the dark stayed clear. Why?",
@@ -1701,7 +1701,7 @@
      "parent": "Pour the green water into a potted plant, and wash the jars."
     }
    ],
-   "context": "In this three-week project you grow algae in a jar of water, to see what a pond's tiniest food makers need.",
+   "context": "In this three-week project you grow algae in a jar of water. You will find out whether a pond's tiniest food makers need light to grow.",
    "setup": [
     {
      "art": "Two clear jars of water covered with cloth, one on a sunny windowsill and one inside a cupboard.",
@@ -1743,7 +1743,7 @@
     "Make steps from upturned bowls, so water tumbles down like a stream over stones.",
     "Fan the surface hard, so ripples spread across it."
    ],
-   "your_turn": "Now invent your own way to mix air into still water. Draw it, try it, and explain why it adds air.",
+   "your_turn": "Now invent your own way to mix air into still water. Build it, try it, and explain why it adds air. Sketch it if you like.",
    "flow": [
     {
      "id": "s1",
@@ -1756,9 +1756,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Draw three ideas together.",
-     "say": "Let's draw three ideas before we build anything.",
-     "kid": "Draw three ideas for mixing air into the water."
+     "do": "Think of three ideas together. Say them, or sketch them.",
+     "say": "Let's think of three ideas before we build anything.",
+     "kid": "Tell your grown-up three ideas for mixing air into the water. You can sketch them too."
     },
     {
      "id": "s3",
@@ -1777,7 +1777,7 @@
      "kid": "Read the other ideas. Can you invent a new one?"
     }
    ],
-   "context": "This is a design challenge: find ways to mix air into still water, the way fountains and waterfalls do.",
+   "context": "This is a design challenge: find ways to mix air into still water, the way fountains and waterfalls do. You will find out which ideas put the most air into the water.",
    "setup": [
     {
      "art": "A bucket of still water on a kitchen floor, with a bottle, a straw and a mug beside it.",
@@ -1830,9 +1830,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw three ideas together.",
-     "say": "The water lily has the same problem every monsoon. Let's draw three ways to solve it.",
-     "kid": "Draw three ideas for a stem that grows with the water."
+     "do": "Think of three ideas together. Say them, or sketch them.",
+     "say": "The water lily has the same problem every monsoon. Let's think of three ways to solve it.",
+     "kid": "Tell your grown-up three ideas for a stem that grows with the water. You can sketch them too."
     },
     {
      "id": "s3",
@@ -1850,7 +1850,7 @@
      "kid": "Read the other ideas. Is yours like a water lily or a lotus?"
     }
    ],
-   "context": "This is a design challenge about a real problem for water plants: keeping their leaves in the light when the water rises.",
+   "context": "This is a design challenge about a real problem for water plants: keeping their leaves in the light when the water rises. You will build a leaf that keeps up with a rising pond.",
    "setup": [
     {
      "art": "A bucket with 5 cm of water, a paper leaf floating, tied with thread to a stone at the bottom.",

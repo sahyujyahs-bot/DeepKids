@@ -514,7 +514,7 @@
      "mins": 14,
      "do": "Play until someone gets back to the gate. When a WOBBLE square comes up, ask the player why tops wobble.",
      "say": "You landed on WOBBLE. Why does a top wobble before it falls?",
-     "kid": "Answer the card. Move your token. On WOBBLE, say why tops wobble.",
+     "kid": "Answer the card. Move your token.",
      "ask": [
       {
        "q": "Why does a top wobble before it falls?",
@@ -677,7 +677,7 @@
      "what": "Make a cardboard top. Tape coins near the edge and spin 3 times. Move the coins to the middle and spin 3 times. Compare."
     }
    ],
-   "record": "Fill in the table. Draw both tops from above, showing where the coins were. Circle the one that spun longest.",
+   "record": "Fill in the table. Take a photo of both tops from above, showing where the coins were, or draw them. Circle the one that spun longest.",
    "flow": [
     {
      "id": "s1",
@@ -693,7 +693,7 @@
      "mins": 3,
      "do": "Ask your child to guess, and to give a reason.",
      "say": "We'll tape four coins near the edge, then move the same coins near the middle. Which top will spin longer? Why do you think so?",
-     "kid": "Guess. Will the top spin longer with coins at the edge, or in the middle? Why?",
+     "kid": "Guess: edge, middle, or the same? Say why.",
      "parent": "Write down the guess and the reason before testing. Many children guess the middle, because it feels more balanced. Any reason is fine. The test will answer it.",
      "check": {
       "t": "mcq",
@@ -845,7 +845,7 @@
      "what": "Spin a coin 3 times on each of four surfaces and time it. Compare."
     }
    ],
-   "record": "Fill in the table. Draw a bar for the longest spin on each surface.",
+   "record": "Fill in the table. Then line the four surfaces up, longest spin first, and tell your grown-up why the last one is last.",
    "flow": [
     {
      "id": "s1",
@@ -860,7 +860,7 @@
      "mins": 2,
      "do": "Ask your child for a guess and a reason.",
      "say": "Which surface will let the coin spin longest? Which will be shortest? Why do you think so?",
-     "kid": "Which surface will let the coin spin longest? Which shortest? Why?"
+     "kid": "Guess the order of the four surfaces, longest spin first. Say why."
     },
     {
      "id": "s3",
@@ -875,7 +875,7 @@
      "mins": 4,
      "do": "Compare the times.",
      "say": "Where did it spin longest? Where did it hardly spin? Why do you think the towel stopped it so fast?",
-     "kid": "Where did it spin longest? Why did the towel stop it?",
+     "kid": "Look at your table. Where did the coin spin longest, and where hardly at all?",
      "check": {
       "t": "mcq",
       "q": "Why does a coin usually spin longest on a smooth steel plate?",
@@ -981,7 +981,7 @@
      "what": "Race a ring and a solid round thing down a slope 5 times. See which wins."
     }
    ],
-   "record": "Fill in the table. Draw the ring and the solid round thing, and shade where their weight is.",
+   "record": "Fill in the table. Show your grown-up where the weight is in the tape roll (all round the edge) and in the battery (all the way through).",
    "flow": [
     {
      "id": "s1",
@@ -996,7 +996,7 @@
      "mins": 2,
      "do": "Ask your child for a guess and a reason.",
      "say": "Which will reach the bottom first, the tape or the battery? Or will they tie? Why do you think so?",
-     "kid": "Which will win, the tape or the battery? Why?"
+     "kid": "Guess: tape, battery, or a tie? Say why."
     },
     {
      "id": "s3",
@@ -1106,7 +1106,7 @@
      "what": "Find 8 things at home that spin or turn, and point to the axis of each."
     }
    ],
-   "record": "List the things you found. Draw two of them with a dotted line for the axis.",
+   "record": "List the things you found. For two of them, take a photo or show your grown-up where the axis is.",
    "flow": [
     {
      "id": "s1",
@@ -1128,9 +1128,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask your child which part of a swinging door moves fastest.",
-     "say": "Which parts of the door move fastest when it swings: near the hinges, or at the far edge?",
-     "kid": "When a door swings, which part moves fastest? Near the hinges, or the far edge?",
+     "do": "Ask your child to open a door slowly and watch the hinge side and the handle side.",
+     "say": "Open the door slowly. Watch the hinge side and the handle side.",
+     "kid": "Open a door slowly. Watch the hinge side and the handle side.",
      "check": {
       "t": "mcq",
       "q": "When a door swings open, which part moves fastest?",
@@ -1144,7 +1144,7 @@
      }
     }
    ],
-   "context": "This short activity starts the unit. You spin a coin, then hunt for things at home that spin or turn, and find the line each one turns around.",
+   "context": "This short activity starts the unit. You spin a coin, then hunt for things at home that spin or turn, and find the line each one turns around. You will find out that every spinning thing has one, called the axis.",
    "setup": [
     {
      "art": "A child watching a steel lid spinning on a table.",
@@ -1180,7 +1180,7 @@
      "what": "Stand a still top up and let go. Then spin it and watch its head circle round."
     }
    ],
-   "record": "Draw a spinning top from the side. Draw a dotted circle above it to show the path of its head.",
+   "record": "Show your grown-up with your finger the circle the top's head made, and tell why the top did not fall. Or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1203,7 +1203,7 @@
      "mins": 3,
      "do": "Ask your child what the lean did when the top was spinning.",
      "say": "When the top was still, a lean made it fall. When it was spinning, what did the lean do?",
-     "kid": "What did the lean do when the top was spinning?",
+     "kid": "Think about the still top and the spinning top. What was different?",
      "check": {
       "t": "mcq",
       "q": "What does a leaning spinning top do?",
@@ -1252,7 +1252,7 @@
      "what": "Turn in a ring holding a dupatta. Count steps per turn for the person in the middle and the person at the end."
     }
    ],
-   "record": "Write how many steps each person took in one turn. Draw the two circles.",
+   "record": "Write how many steps each person took in one turn. Tell your grown-up who walked the bigger circle.",
    "flow": [
     {
      "id": "s1",
@@ -1285,7 +1285,7 @@
      "mins": 3,
      "do": "Ask your child who had to move faster.",
      "say": "We both went round once in the same time. Who had to move faster?",
-     "kid": "You both went round once in the same time. Who moved faster?",
+     "kid": "Look at your step counts. Who took more steps?",
      "check": {
       "t": "mcq",
       "q": "On a merry-go-round, one rider sits on the outside and another sits near the pole. Who moves faster?",
@@ -1342,7 +1342,7 @@
      "what": "Roll a small and a big lid one full turn each, and measure how far each one goes."
     }
    ],
-   "record": "Write how far each lid went in one turn. Draw the two lids with their tracks.",
+   "record": "Write how far each lid went in one turn. Take a photo of the two tracks on the paper.",
    "flow": [
     {
      "id": "s1",
@@ -1371,7 +1371,7 @@
      "mins": 4,
      "do": "Ask your child whether a cycle or a toy car goes further in one turn of its wheels.",
      "say": "A cycle has big wheels and a toy car has small wheels. In one turn of its wheels, which goes further?",
-     "kid": "Think of one turn of the wheels. Does a cycle or a toy car go further?",
+     "kid": "Remember how far each lid went in one turn. Think of a big wheel and a small wheel.",
      "check": {
       "t": "mcq",
       "q": "In one turn of its wheels, which goes further?",
@@ -1385,7 +1385,7 @@
      }
     }
    ],
-   "context": "In this activity you roll a small and a big lid exactly one turn each and measure how far each goes.",
+   "context": "In this activity you roll a small and a big lid exactly one turn each and measure how far each goes. You will find out which wheel goes further in one turn.",
    "setup": [
     {
      "art": "A steel plate standing on a strip of newspaper with a marker dot on its edge touching the paper.",
@@ -1428,7 +1428,7 @@
      "what": "Cut a round and a square wheel the same width, poke a pencil hole in the middle, and roll them to watch the middle."
     }
    ],
-   "record": "Draw the path of the middle of each wheel as it rolls.",
+   "record": "Tell your grown-up what the pencil did with each wheel. You can also draw the path of its middle.",
    "flow": [
     {
      "id": "s1",
@@ -1451,7 +1451,7 @@
      "mins": 3,
      "do": "Ask your child why the round wheel gives a smooth ride.",
      "say": "Why is the ride smooth with the round wheel?",
-     "kid": "Why is the round wheel smooth?",
+     "kid": "Think about what the pencil did with each wheel.",
      "check": {
       "t": "mcq",
       "q": "Why does a round wheel give a smooth ride?",
@@ -1465,7 +1465,7 @@
      }
     }
    ],
-   "context": "In this activity you make a round wheel and a square wheel, roll them, and watch what the axle in the middle does.",
+   "context": "In this activity you make a round wheel and a square wheel, roll them, and watch what the axle in the middle does. You will find out why wheels are round.",
    "setup": [
     {
      "art": "A card circle and a card square, each with a pencil pushed through the middle.",
@@ -1527,7 +1527,7 @@
      "what": "Spin the ride slowly, then faster. Watch the seats. Test riders of different weights."
     }
    ],
-   "record": "Draw the ride still and spinning, showing how the threads hang each time.",
+   "record": "Take a photo of the ride still and spinning, or draw it. Tell your grown-up how the threads hung each time.",
    "flow": [
     {
      "id": "s1",
@@ -1543,14 +1543,14 @@
      "mins": 15,
      "do": "Put a rider in each cup. Check that the ride turns freely when you twirl the pencil.",
      "say": "Put a rider in each cup. Twirl the pencil gently. Does it turn smoothly?",
-     "kid": "Put a rider in each cup. Twirl the pencil gently. Does it turn smoothly?"
+     "kid": "Put an eraser or paper ball in each cup. Twirl the pencil gently."
     },
     {
      "id": "s3",
      "mins": 10,
      "do": "1. Twirl the pencil slowly, then faster. 2. Watch the threads.",
      "say": "Twirl it slowly, then faster. What do the threads do?",
-     "kid": "Twirl it slowly. Then faster. What do the threads do?",
+     "kid": "Twirl it slowly. Then faster. Watch the threads.",
      "parent": "When the ride spins fast, the cups swing outwards and the threads lean. The faster it spins, the more they lean. Each cup would like to move in a straight line. The thread pulls it inwards all the time, so it goes round in a circle instead."
     },
     {
@@ -1558,7 +1558,7 @@
      "mins": 10,
      "do": "1. Put a heavy rider in one cup and a light one in another. 2. Spin again. Do the heavy and light cups lean out the same amount?",
      "say": "Will the heavy rider swing out more than the light one? Why do you think so? Let's see.",
-     "kid": "Put a heavy rider in one cup and a light one in another. Guess, then spin. Do they lean the same?",
+     "kid": "Put a big eraser in one cup and a paper ball in another. Guess, then spin.",
      "parent": "They lean out by about the same amount, as long as the threads are the same length. At a real mela ride, a big adult and a small child swing out together. Riders are often surprised by this. Both riders sit on the same ride, so they spin at the same speed.",
      "check": {
       "t": "mcq",
@@ -1616,14 +1616,14 @@
     "Stack two discs, with coins between them near the edge.",
     "Make a big, wide top. A wider disc puts the edge weight further out."
    ],
-   "your_turn": "Now design your own top. Draw it, build it and time it. What one change made the biggest difference?",
+   "your_turn": "Now design your own top. Say or sketch your plan, build it, and time it. What one change made the biggest difference?",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Look at the coin top together and list what helped it spin longer.",
      "say": "What made our coin top spin longer? Let's list everything we learned.",
-     "kid": "What made your coin top spin longer? Make a list."
+     "kid": "What made your coin top spin longer? Make a list, or say it out loud."
     },
     {
      "id": "s2",
@@ -1702,7 +1702,7 @@
      "mins": 5,
      "do": "Talk about why the pinwheel turns easily.",
      "say": "Why do a loose pin and a bead help the pinwheel spin?",
-     "kid": "Why does a loose pin help it spin?",
+     "kid": "Try the pin tight, then loose. Which spins more easily?",
      "parent": "Less rubbing at the axle means less friction, so even a gentle breath can turn the pinwheel. In the Spinning Coin experiment, the coin spun longest on the steel plate for the same reason."
     }
    ],

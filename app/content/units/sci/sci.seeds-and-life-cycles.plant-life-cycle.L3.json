@@ -869,14 +869,14 @@
      "context": "This is the first step of Time Detective. You set up a card game about putting plant life cycles back in order.",
      "do": "1. Cut out the cards and lay out the six circle mats. 2. Shuffle the stage cards and surprise cards together. 3. Deal 5 cards to each player, or lay them all face down if your child is playing alone.",
      "say": "A storm has mixed up the life stories of six plants. We are detectives. We have to put each plant's life back in order, in a circle.",
-     "kid": "A storm mixed up six plants' life stories. You are the detective. Put each plant's stages back in a circle."
+     "kid": "You are the detective. Put each plant's stages back in a circle."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Do one practice circle together with the moong cards, before the real game.",
-     "say": "Let's practise with moong. Which card comes after the seedling? And what comes after the fruit?",
-     "kid": "Practise with the moong cards. Put them in order. What comes after the fruit?",
+     "say": "Let's practise with moong. Which card comes after the seedling?",
+     "kid": "Practise with the moong cards. Put them in order.",
      "check": {
       "t": "mcq",
       "q": "In a plant's life cycle, what comes after the fruit?",
@@ -900,9 +900,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Lay all six finished circles side by side. Compare them.",
-     "say": "Look at all six circles. Which plant takes the longest to go round? Which takes the shortest?",
-     "kid": "Look at all six circles. They have the same stages. Which plant goes round fastest? Which is slowest?",
+     "do": "Lay all six finished circles side by side. Compare them. Moong takes about 3 months to go round, and mango takes 5 to 8 years.",
+     "say": "Here are all six life stories side by side. Let's compare them.",
+     "kid": "Guess which plant goes round fastest. Guess which is slowest.",
      "ask": [
       {
        "q": "What is the same about all six circles?",
@@ -1100,21 +1100,21 @@
      "context": "This is the first step of the memory game Which Flower Made This Fruit? You set out 24 cards: 12 flowers and the 12 fruits they grow into.",
      "do": "1. Look through all 24 cards face up together for one minute. 2. Shuffle them. 3. Lay them face down in 4 rows of 6.",
      "say": "Every fruit we eat was once a flower. Let's look at all the cards first. Then we'll turn them over and see who can remember where each pair is.",
-     "kid": "Look at all the cards for one minute. Every fruit was once a flower. Now mix them up and lay them face down."
+     "kid": "Look at all the cards for one minute. Then mix them up and lay them face down."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "Play by the rules. Each time someone finds a pair, they say one clue that links the flower and the fruit.",
-     "say": "You found a pair! What links them? Can you see any part of the flower still on the fruit?",
-     "kid": "Turn over two cards. If they are a flower and its fruit, keep them! Say what links them. Look for flower leftovers on the fruit.",
+     "say": "You found a pair! What links them?",
+     "kid": "Turn over two cards. If they are a flower and its fruit, keep them! Say one thing that links them.",
      "parent": "Good clues: the brinjal's green cap and the tomato's green star are the flowers' sepals. The pomegranate's crown and the dark tip of a banana are flower leftovers. The pumpkin flower already has a tiny pumpkin behind it. The lotus seed pod is the middle of the lotus flower grown big."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "At the end, lay all 12 pairs in a row, each flower above its fruit.",
-     "say": "Look at each flower and its fruit together. Which part of the flower can you still see on the fruit?",
+     "say": "Now we line up all 12 pairs, each flower above its fruit.",
      "kid": "Put each flower above its fruit. Which flower part is still on the fruit?",
      "check": {
       "t": "mcq",
@@ -1891,7 +1891,7 @@
      "what": "Count how many flowers became fruits. Draw a line graph of one fruit's length. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table for each flower. Draw one tagged flower every day, on the same page, in a row. Then draw a line graph of one fruit's length, day by day.",
+   "record": "Fill in the table for each flower. Take a photo of one tagged flower every day, or draw it, on the same page, in a row. Then draw a line graph of one fruit's length, day by day.",
    "setup": [
     {
      "art": "A child's hand tying a loose red thread around the stalk of an open pale-yellow bhindi flower on the plant.",
@@ -1948,9 +1948,9 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the first step of the Flower to Fruit experiment. You look closely at one plant with flowers and fruits at the same time.",
-     "do": "1. Stand by the plant with your child. 2. Together, find a tight bud, an open flower, a wilted flower, a tiny fruit and a big fruit. 3. Ask your child to put them in order, youngest first.",
-     "say": "This one plant is showing us several stages at once. Find a bud, an open flower, an old flower, a baby fruit and a big fruit. Which do you think is youngest?",
-     "kid": "Look at the whole plant. Find a bud and an open flower. Find an old flower, a baby fruit and a big fruit. Which is the youngest?",
+     "do": "1. Stand by the plant with your child. 2. Together, find a tight bud, an open flower, a wilted flower, a tiny fruit and a big fruit. 3. Ask your child to point to them in order, youngest first.",
+     "say": "This one plant is showing us several stages at once. Let's find each one.",
+     "kid": "Look at the whole plant. Find a bud, an open flower and an old flower. Find a baby fruit and a big fruit. Point to them in order, youngest first.",
      "ask": [
       {
        "q": "How do you think the baby fruit got there?",
@@ -1974,17 +1974,17 @@
      "id": "s3",
      "mins": 24,
      "wait": "Every day for 8 days, about 3 minutes",
-     "do": "Each day, at about the same time: 1. Find each thread. 2. Look at what is there now. 3. Measure any baby fruit, from the stalk to the tip. 4. Draw one of them, and write the numbers in the table.",
+     "do": "Each day, at about the same time: 1. Find each thread. 2. Look at what is there now. 3. Measure any baby fruit, from the stalk to the tip. 4. Take a photo of each one, or draw one, and write the numbers in the table.",
      "say": "What has changed since yesterday? Are the petals still there? Is anything growing in the middle?",
-     "kid": "Find each thread. What has changed at that flower? Measure any baby fruit. Draw one. Write the numbers down.",
+     "kid": "Find each thread. What has changed at that flower? Measure any baby fruit. Take a photo, or draw one. Write the numbers down.",
      "parent": "What to expect. Bhindi: the petals fall the next day and a pod is about a finger long by day 5 or 6. Chilli and brinjal: a small fruit shows in about 5 to 7 days. Tomato: a pea-sized green ball by about day 7, and it takes weeks to ripen. Some tagged flowers will dry and drop off with no fruit. That is normal, and it is a real result. It happens more in very hot or very dry weather, or where few insects visit. In cold weather everything is slower, so give it up to 14 days."
     },
     {
      "id": "s4",
      "mins": 3,
-     "do": "On about day 6, line up your drawings and compare the flowers.",
-     "say": "Look at your drawings in a row. Where did the fruit come from?",
-     "kid": "Put your drawings in a row. Where did the fruit come from?",
+     "do": "On about day 6, line up your photos or drawings and compare the flowers.",
+     "say": "Look at your photos or drawings in a row. Where did the fruit come from?",
+     "kid": "Put your photos or drawings in a row. Where did the fruit come from?",
      "check": {
       "t": "mcq",
       "q": "Your tagged flower's petals fell off, and a little fruit grew in the same place. Which part of the flower became the fruit?",
@@ -2021,7 +2021,7 @@
    "title": "Inside the Fruit: find the seeds and the flower's leftovers",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you take fruits from your kitchen, find what is left of their flowers on the outside, and open them to count the seeds inside.",
+   "context": "In this experiment you take fruits from your kitchen, find what is left of their flowers on the outside, and open them to count the seeds inside. You will find out that every fruit is a flower's baby, with seeds.",
    "question": "Does every fruit hold seeds? And can you find the flower each fruit came from?",
    "predict": "Before cutting, guess which fruit will have the most seeds. Write your guess for each fruit in the table. Why do you think so?",
    "fair_test": "Treat every fruit the same way. Look at the outside first, then cut each one across the middle. Count the seeds the same way each time. If a fruit has too many to count, count one part and multiply. Write in the table which ones you worked out that way.",
@@ -2062,7 +2062,7 @@
      "what": "Find the flower leftovers, open each fruit, and count the seeds."
     }
    ],
-   "record": "Fill in the table. Draw one fruit cut open, with its seeds, and label where its flower used to be.",
+   "record": "Fill in the table. Take a photo of one fruit cut open, or draw it, and point to where its flower used to be.",
    "setup": [
     {
      "art": "A tomato, a brinjal, a bhindi, a pea pod and a banana on a plate, with arrows to the tomato's green star, the brinjal's cap and the banana's dark tip.",
@@ -2241,7 +2241,7 @@
      "what": "Compare all three. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table. Draw the three baby fruits on day 4, side by side.",
+   "record": "Fill in the table. Take a photo of the three baby fruits on day 4, or draw them, side by side.",
    "setup": [
     {
      "art": "Two pumpkin flowers side by side, one with a tiny green pumpkin behind its petals labelled as a female flower, one on a thin stalk labelled as a male flower.",
@@ -2408,7 +2408,7 @@
      "what": "Sink the leaf circles, then count how many float in the light and in the dark."
     }
    ],
-   "record": "Fill in the table every 5 minutes. Then draw a bar for each glass, showing how many circles were floating after 20 minutes.",
+   "record": "Fill in the table every 5 minutes. Then show how many circles were floating after 20 minutes: draw a bar for each glass, or just write the two numbers.",
    "setup": [
     {
      "art": "A drinking straw pressed down onto a palak leaf on a fingertip, cutting out a small green circle.",
@@ -2519,7 +2519,7 @@
    "title": "The Life Cycle Hunt",
    "mins": 20,
    "days": 1,
-   "context": "This is a hunt around your home and street. You look for plants at every stage of their life cycle: seeds, seedlings, grown plants, buds, flowers, fruits and dry seeds.",
+   "context": "This is a hunt around your home and street. You will find out that every stage of a plant's life is somewhere near you. You look for plants at every stage of their life cycle: seeds, seedlings, grown plants, buds, flowers, fruits and dry seeds.",
    "materials": [
     {
      "item": "a hunt card: a sheet of paper with 8 boxes labelled seed, seedling, grown plant, bud, open flower, old flower, fruit, dry seeds",
@@ -2557,9 +2557,9 @@
      "id": "s1",
      "mins": 3,
      "context": "This is the first step of the Life Cycle Hunt. You make a card with a box for each stage of a plant's life.",
-     "do": "1. Help your child draw 8 boxes on a sheet. 2. Label them: seed, seedling, grown plant, bud, open flower, old flower, fruit, dry seeds.",
+     "do": "1. Help your child fold a sheet into 8 boxes, or use an egg carton with 8 cups. 2. Label them: seed, seedling, grown plant, bud, open flower, old flower, fruit, dry seeds.",
      "say": "We are going to find every stage of a plant's life, today, near our home. Can we fill all 8 boxes?",
-     "kid": "Draw 8 boxes on your paper. Label them with the stages. Can you find all 8 today?"
+     "kid": "Fold your paper into 8 boxes. Label them with the stages. Can you find all 8 today?"
     },
     {
      "id": "s2",
@@ -2595,7 +2595,7 @@
    "title": "Make a Life Cycle Wheel",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you make a paper wheel that turns. Through a window you see one stage of a plant's life at a time, and the stages go round and round.",
+   "context": "In this activity you make a paper wheel that turns. Through a window you see one stage of a plant's life at a time, and the stages go round and round. You will see why a life cycle has no end.",
    "materials": [
     {
      "item": "2 paper plates, or 2 circles cut from a cereal box, the size of a steel plate",
@@ -2642,9 +2642,9 @@
      "id": "s1",
      "mins": 10,
      "context": "This is the first step of the Life Cycle Wheel. You draw the six stages of a plant's life on a plate.",
-     "do": "1. On one plate, draw lines through the middle to make 6 equal slices, like a cake. 2. Choose a plant, like moong, sunflower or mango. 3. In each slice, in order going round, draw: seed, seedling, grown plant, flower, fruit, new seeds.",
-     "say": "Draw each stage in its own slice, going round in order. Which slice comes after the new seeds?",
-     "kid": "Draw 6 slices on one plate. Pick a plant. Draw one stage in each slice, going round in order."
+     "do": "1. On one plate, draw lines through the middle to make 6 equal slices, like a cake. 2. Choose a plant, like moong, sunflower or mango. 3. In each slice, in order going round, draw or stick a picture of: seed, seedling, grown plant, flower, fruit, new seeds. Photos or pictures cut from seed packets or old magazines work too.",
+     "say": "Put each stage in its own slice, going round in order. Which slice comes after the new seeds?",
+     "kid": "Make 6 slices on one plate. Pick a plant. Put one stage in each slice, going round in order. Draw it, or stick on a picture."
     },
     {
      "id": "s2",
@@ -2730,7 +2730,7 @@
      "what": "Compare all three. Draw them. Plant the best one in soil."
     }
    ],
-   "record": "Draw all three on days 1, 5 and 10. Write when you first saw roots, and when you first saw green shoots.",
+   "record": "Take a photo of all three, or draw them, on days 1, 5 and 10. Write when you first saw roots, and when you first saw green shoots.",
    "setup": [
     {
      "art": "An onion sitting on the mouth of a glass of water, its flat bottom just touching the water.",
@@ -2759,9 +2759,9 @@
      "id": "s2",
      "mins": 10,
      "wait": "On days 3, 5 and 7",
-     "do": "1. Pour away the onion's water and give it fresh water, so it does not smell. 2. Look for white roots and green shoots on all three. 3. Draw them on day 5.",
+     "do": "1. Pour away the onion's water and give it fresh water, so it does not smell. 2. Look for white roots and green shoots on all three. 3. Take a photo of each on day 5, or draw them.",
      "say": "Which one grew first? Where are its new roots coming from?",
-     "kid": "Change the onion's water. Look for white roots and green shoots. Which grew first? Draw them on day 5.",
+     "kid": "Change the onion's water. Look for white roots and green shoots on each one. Take a photo, or draw them, on day 5.",
      "parent": "What to expect. Onion: white roots in 2 to 4 days and green shoots within a week. Money plant: small roots in 7 to 14 days, from the bump under water. Potato: shoots from its eyes in 1 to 3 weeks, faster in a warm dark place. Choose an old potato that already has small bumps at its eyes. If it has not sprouted by day 10, keep watching for another week. If the onion goes soft or smelly, it was sitting too deep. Start again with only its bottom in the water."
     },
     {
@@ -2790,7 +2790,7 @@
    "title": "Eat the Life Cycle: which part of the plant is on your plate?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look at the food on your plate, or in your kitchen, and work out which part and which stage of a plant each food comes from.",
+   "context": "In this activity you look at the food on your plate, or in your kitchen, and work out which part and which stage of a plant each food comes from. You will see that we eat every part of a plant, not only fruits.",
    "materials": [
     {
      "item": "a meal, or about 12 foods from the kitchen",
@@ -2828,9 +2828,9 @@
      "id": "s1",
      "mins": 3,
      "context": "This is the first step of Eat the Life Cycle. You collect foods and get ready to sort them by plant part.",
-     "do": "1. Collect about 12 foods. Try rice, dal, atta, a tomato, bhindi and a potato. Add an onion, palak, a carrot, a cauliflower, jeera and a banana. 2. Draw the six columns.",
+     "do": "1. Collect about 12 foods. Try rice, dal, atta, a tomato, bhindi and a potato. Add an onion, palak, a carrot, a cauliflower, jeera and a banana. 2. Fold the paper into six columns.",
      "say": "Every food here came from a plant. But which part of the plant? And which stage of their life?",
-     "kid": "Collect 12 foods. Draw six columns: seeds, fruits, flowers, leaves, stems, roots. Where does each food go?"
+     "kid": "Collect 12 foods. Fold your paper into six columns: seeds, fruits, flowers, leaves, stems, roots. Where does each food go?"
     },
     {
      "id": "s2",
@@ -2855,8 +2855,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Count how many foods are in each column.",
-     "say": "Which column has the most foods? Which stage of a plant's life do we eat most?",
-     "kid": "Which column has the most? Which stage of a plant's life do we eat most?",
+     "say": "Which part of a plant do we eat most? Which do we eat least?",
+     "kid": "Count the foods in each column. Which column has the most?",
      "think": "Rice, wheat and dal are all seeds, each packed with food for a young plant. Why do you think seeds make such good food for us too?"
     }
    ]
@@ -2910,13 +2910,13 @@
      "mins": 4,
      "context": "This is the first step of the Life Cycle Flipbook. You get 16 pages ready to draw on.",
      "do": "1. Make 16 small pages the same size. 2. On every page, draw a ground line in the same place, near the bottom. You can trace it through the page underneath.",
-     "say": "A flipbook works because each picture is only a little different from the last. Let's plan the 16 pages first.",
+     "say": "A flipbook works because each picture is only a little different from the last. First, we get 16 pages ready.",
      "kid": "Get 16 small pages. Draw a ground line on each one, in the same place. Trace it so it matches."
     },
     {
      "id": "s2",
      "mins": 16,
-     "do": "Draw one stage per page. For example: pages 1 and 2, a seed. 3 and 4, a sprout. 5 to 7, a growing plant. 8, a bud. 9 and 10, an open flower. 11, petals falling. 12 and 13, a fruit growing. 14, a ripe fruit. 15, seeds falling. 16, a new sprout.",
+     "do": "Draw one stage per page. For example: pages 1 and 2, a seed. 3 and 4, a sprout. 5 to 7, a growing plant. 8, a bud. 9 and 10, an open flower. 11, petals falling. 12 and 13, a fruit growing. 14, a ripe fruit. 15, seeds falling. 16, a new sprout. Simple shapes are fine. A child who dislikes drawing can stick a small paper cut-out on each page and move it a little each time.",
      "say": "Make each picture just a little bigger than the one before. Trace the last picture, then add a bit.",
      "kid": "Draw the plant a little bigger on each page. Trace the one before, then add a bit. End with a new sprout!",
      "parent": "Younger children can make 8 pages instead of 16. Tracing the previous page through the paper makes the flipbook smoother."
@@ -2986,9 +2986,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Draw or photograph the whole tree, and one close-up of a branch. 2. Tick what you see: new leaves, buds, flowers, unripe fruit, ripe fruit, falling seeds. 3. Write the date.",
+     "do": "1. Photograph or draw the whole tree, and one close-up of a branch. 2. Tick what you see: new leaves, buds, flowers, unripe fruit, ripe fruit, falling seeds. 3. Write the date.",
      "say": "What is the tree doing right now? Are they flowering, fruiting, or resting?",
-     "kid": "Draw your tree. Draw one branch up close. Tick what you see. Write the date.",
+     "kid": "Take a photo of your tree, or draw them. Take one close-up of a branch. Tick what you see. Write the date.",
      "parent": "Many Indian trees flower before or just after the hot season. Mango flowers around January to March and fruits in April to June. Neem flowers around March and April. Amaltas is covered in yellow flowers in April and May. Gulmohar turns red in April to June. A project called SeasonWatch collects records like these from children all over India.",
      "think": "A moong plant goes round their life cycle once and dies. Your tree flowers and fruits again every year. Is the tree's year a life cycle too?"
     }
@@ -3085,7 +3085,7 @@
      "what": "Sow some new seeds to start again. Sprout and eat some. Read your diary aloud."
     }
    ],
-   "record": "A diary page every week: the date, a drawing, the height of the tallest plant, and the number of flowers or pods. At the end, a line graph of height, and the total number of seeds.",
+   "record": "A diary page every week: the date, a photo or drawing, the height of the tallest plant, and the number of flowers or pods. At the end, a line graph of height, and the total number of seeds.",
    "setup": [
     {
      "art": "A child pressing soaked moong seeds 2 cm deep into a soil-filled paint bucket on a sunny balcony, a name label with the child's name on the bucket.",
@@ -3105,7 +3105,7 @@
      "id": "s1",
      "mins": 25,
      "context": "This is the first step of Kitchen to Kitchen. You sow moong from the kitchen jar and give your plant a name.",
-     "do": "1. Soak 8 moong seeds in water overnight. 2. Fill the pot with soil to 2 cm below the top. 3. Next day, push the seeds 2 cm deep, about 5 cm apart. 4. Water gently until water comes out of the bottom. 5. Put the pot in your sunniest spot. 6. Name the plant and draw page 1 of their diary.",
+     "do": "1. Soak 8 moong seeds in water overnight. 2. Fill the pot with soil to 2 cm below the top. 3. Next day, push the seeds 2 cm deep, about 5 cm apart. 4. Water gently until water comes out of the bottom. 5. Put the pot in your sunniest spot. 6. Name the plant and start page 1 of their diary.",
      "say": "These seeds came from our kitchen. If we look after them, they will give us moong back. What shall we call our plant?",
      "kid": "Soak 8 moong seeds overnight. Push them 2 cm into the soil. Water them. Put the pot in the sun. Give your plant a name!",
      "adult": true,
@@ -3124,9 +3124,9 @@
      "id": "s3",
      "mins": 15,
      "wait": "Every week",
-     "do": "Once a week: 1. Measure the tallest plant from the soil to their top. 2. Draw them. 3. Write the number in the diary.",
+     "do": "Once a week: 1. Measure the tallest plant from the soil to their top. 2. Take a photo of them, or draw them. 3. Write the number in the diary.",
      "say": "How much did they grow this week? Are they growing faster or slower than last week?",
-     "kid": "Once a week, measure the tallest plant. Draw them. Write the number down. Did they grow fast or slow?",
+     "kid": "Once a week, measure the tallest plant. Take a photo, or draw them. Write the number down. Did they grow fast or slow?",
      "parent": "Tiny black or green insects on the tips are aphids. Wash them off with a gentle spray of water. Leaves with yellow patches may have a virus that is common in moong. Snip off that plant and keep the others. Heavy rain can rot the roots, so move the pot under a ledge in a storm."
     },
     {
@@ -3141,7 +3141,7 @@
      "id": "s5",
      "mins": 10,
      "do": "1. A few days after flowering, look for thin green pods where the flowers were. 2. Tie a thread on the first pod. 3. Measure it each week.",
-     "say": "Where the flower was, there is now a pod. What do you think is growing inside it?",
+     "say": "Where the flower was, there is now a pod.",
      "kid": "Find a thin green pod where a flower was. Tie a thread on it. Measure it. What is inside?",
      "check": {
       "t": "mcq",
@@ -3214,7 +3214,7 @@
     "An electric toothbrush, switched on and held against a tomato flower's stalk. The shaking makes pollen fall, the way big bees buzz tomato flowers. Some tomato growers use vibrating tools like this.",
     "In 2020, scientists in Japan blew soap bubbles with pollen in them onto pear flowers. Some of the flowers grew fruit."
    ],
-   "your_turn": "Now invent your own pollen mover. Draw it, make it, and test it the same way. Does it beat the others?",
+   "your_turn": "Now invent your own pollen mover. Make it, and test it the same way. Does it beat the others?",
    "setup": [
     {
      "art": "A red hibiscus flower with its long middle column dusted with yellow pollen.",
@@ -3242,9 +3242,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Before testing, help your child draw or write three ideas for a pollen mover.",
+     "do": "Before testing, help your child pick three tools from the pile, or sketch three ideas, for a pollen mover.",
      "say": "Think like an engineer. What would carry pollen best? Something fluffy, something smooth, or something sticky?",
-     "kid": "Think like an engineer! Draw three ideas for a pollen mover. Should it be fluffy, smooth or sticky?"
+     "kid": "Think like an engineer! Pick the three tools you think will work best. Say why."
     },
     {
      "id": "s3",
@@ -3300,7 +3300,7 @@
     "Grow plants that flower at different times of day: morning flowers like bhindi, and evening flowers like lauki and raat ki rani.",
     "Add a small dish of water with stones in it, so bees have somewhere safe to drink."
    ],
-   "your_turn": "Now draw your own balcony plan. Mark the sowing date and the flowering months for each pot. Is there any month with no flowers? Fix it.",
+   "your_turn": "Now make your own balcony plan, as a drawing or a list. Mark the sowing date and the flowering months for each pot. Is there any month with no flowers? Fix it.",
    "setup": [
     {
      "art": "A sheet with six pot outlines drawn on it, each waiting for a plant name.",
@@ -3400,7 +3400,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Read the usual and the creative ideas together. Then fix any empty months in the plan.",
-     "say": "Which month was hardest to fill? What could fill it?",
+     "say": "A good plan has something flowering in every month.",
      "kid": "Which month was empty? What could you grow to fill it? Fix your plan.",
      "think": "Farmers plan by life cycles too. Why do you think many farmers sow rice at the start of the monsoon?",
      "parent": "Rice grows best in warm, wet fields, and the monsoon brings the water. So farmers sow at the start of the rains, when the weather suits the plant."

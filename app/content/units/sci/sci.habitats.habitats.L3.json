@@ -811,8 +811,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Find the Frog card. Play it together as a practice round.",
-     "say": "Let's practise with the frog. Where do they go? Now pick two need cards. How does the pond give the frog water? How does it give them food?",
-     "kid": "Practice card: the frog. Which mat does it go on? Choose your answer.",
+     "say": "Let's practise with the frog. Where do they go? Now pick two need cards. How does the pond give the frog food? How does it give them shelter?",
+     "kid": "Practice card: the frog. Hold up the frog card.",
      "ask": [
       {
        "q": "How does a pond give a frog food and shelter?",
@@ -896,7 +896,7 @@
       "a place with no living thing you can see",
       "a puddle or wet patch",
       "bird droppings or feathers",
-      "FREE: draw your favourite find"
+      "FREE: your favourite find (draw it or tell about it)"
      ]
     },
     {
@@ -1040,8 +1040,8 @@
      "what": "Tilt and smell each bowl, fill in the table and say what you think, what you saw and why. Then put the fridge bowl somewhere warm and check it in the evening."
     }
    ],
-   "record": "Fill in the table for all three bowls. Draw each bowl tilted, the way it looked in the morning. Write one sentence for what you think, one for what you saw and one for why.",
-   "context": "This is the three bowls experiment. You stir a spoon of curd into warm milk in three bowls. You keep one bowl warm, one on the kitchen counter and one in the fridge, and see which ones turn into curd by morning. Curd is made by bacteria, tiny living things too small to see.",
+   "record": "Fill in the table for all three bowls. Draw each bowl tilted the way it looked in the morning, or take a photo of each. Write one sentence for what you think, one for what you saw and one for why.",
+   "context": "This is the three bowls experiment. You stir a spoon of curd into warm milk in three bowls. You keep one bowl warm, one on the kitchen counter and one in the fridge, and see which ones turn into curd by morning. Curd is made by bacteria, tiny living things too small to see. You will find out whether they need a warm home.",
    "setup": [
     {
      "art": "A grown-up pouring just-warm milk from a steel pan into three same-size steel bowls, while a child holds a level teaspoon of curd.",
@@ -1067,7 +1067,7 @@
      "context": "This is the first step of the three bowls experiment. You guess which bowl of milk will turn into curd by morning, and say why.",
      "do": "1. Show your child a spoon of curd and a cup of milk. 2. Explain the plan: three bowls of milk with curd, each kept in a different place. 3. Ask for a guess and a reason. 4. Write both at the top of the results table.",
      "say": "Curd is made by bacteria. Bacteria are living things, far too small to see. This one spoon of curd holds millions of them. We will put some into three bowls of warm milk. One bowl stays somewhere warm, one on the counter and one in the fridge. Which bowl do you think will turn into curd by morning? Why do you think so?",
-     "kid": "Curd is made by tiny living things called bacteria. We will make three bowls of milk with curd. One stays warm. One stays on the counter. One goes in the fridge. Which one turns into curd? Why do you think so?",
+     "kid": "Curd is made by tiny living things called bacteria. We will make three bowls of milk with curd. One stays warm. One stays on the counter. One goes in the fridge. Make your guess first.",
      "ask": [
       {
        "q": "Which bowl will turn into curd by morning? Why do you think so?",
@@ -1260,8 +1260,8 @@
      "what": "Measure temperature and dampness in five small places in one garden, at midday. Count living things in each. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Draw a bar for each place, as tall as its temperature. Next to each bar, write how many living things you found there.",
-   "context": "If you have a garden or a park nearby: This is the five worlds experiment. You measure how hot and how damp five small places in one garden are, and count who lives in each. A thermometer measures how hot something is, in degrees Celsius.",
+   "record": "Fill in the table. Put the five places in a row from hottest to coolest. Next to each, write how many living things you found there. You can draw a bar for each place if you like.",
+   "context": "If you have a garden or a park nearby: This is the five worlds experiment. You measure how hot and how damp five small places in one garden are, and count who lives in each. You will find out whether small places in one garden have their own weather. A thermometer measures how hot something is, in degrees Celsius.",
    "setup": [
     {
      "art": "A digital thermometer lying on an open sunny path, with a phone timer showing 2 minutes.",
@@ -1340,9 +1340,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Help your child draw a bar chart: one bar for each place, as tall as its temperature.",
-     "say": "Let's turn the numbers into a picture. Each place gets a bar. The taller the bar, the hotter the place.",
-     "kid": "Draw one bar for each place. Make it as tall as the temperature. Write how many living things you found next to it.",
+     "do": "Help your child lay five paper labels in a row, hottest place first. Under each label, put its temperature and the number of living things found there.",
+     "say": "Let's put the places in order. The hottest goes first. Under each one, we put its temperature and who lives there.",
+     "kid": "Write each place on a slip of paper. Lay the slips in a row, hottest first. Put the temperature and the number of living things under each.",
      "check": {
       "t": "mcq",
       "q": "In the five worlds experiment, the sunny path was 41 degrees and under the leaves was 28 degrees. Which place had more living things, and why?",
@@ -1482,8 +1482,8 @@
      "what": "Tie a bag around a leafy branch and one around a bare stick. Wait one hour. Collect and compare the water."
     }
    ],
-   "record": "Draw both bags after one hour. Write how much water collected in each.",
-   "context": "This is the tree water experiment. You tie a clear plastic bag around some leaves of a potted plant in the sun, and see whether the leaves give off water into the air.",
+   "record": "Draw both bags after one hour, or take a photo of each. Write how much water collected in each.",
+   "context": "This is the tree water experiment. You tie a clear plastic bag around some leaves of a potted plant in the sun, and see whether the leaves give off water into the air. You will find out whether a plant lets water out into the air.",
    "setup": [
     {
      "art": "A clear plastic bag being slipped over a leafy hibiscus branch in sunshine.",
@@ -1572,8 +1572,8 @@
      "what": "Guess how many living things are under a stone. Lift it, count them, and feel how cool and damp the soil is."
     }
    ],
-   "record": "Draw what you saw under the stone. Write your guess and the real number of living things.",
-   "context": "If you have a garden or a park nearby: this is a short noticing activity. You lift a stone and look at the small world hiding under it. If you find nobody, that is a result too.",
+   "record": "Write your guess and the real number of living things. Then tell your grown-up what you saw, or draw it.",
+   "context": "If you have a garden or a park nearby: this is a short noticing activity. You lift a stone and look at the small world hiding under it. You will find out how many animals live there. If you find nobody, that is a result too.",
    "setup": [
     {
      "art": "A child and a grown-up crouching by a flat stone on garden soil, the child holding up fingers to guess.",
@@ -1602,7 +1602,7 @@
      "mins": 5,
      "do": "1. Lift the stone towards yourself. 2. Look quickly, because many animals will run. 3. Count everything you see: woodlice, ants, worms, beetles, centipedes, roots, white fungus threads.",
      "say": "Quick, look! What do you notice? Let's count everything that is alive. What do you wonder about?",
-     "kid": "Ask a grown-up to lift the stone. Look fast! Count every living thing. What do you notice?",
+     "kid": "Ask a grown-up to lift the stone. Look fast! Count every living thing.",
      "adult": true,
      "ask": [
       {
@@ -1658,7 +1658,7 @@
      "what": "Choose one animal near home. Find where they get each of their needs."
     }
    ],
-   "record": "Draw your animal in the middle of a page. Draw six arrows to where they get food, water, air, shelter, space and warmth.",
+   "record": "Put your animal in the middle of a page and write the six places around it: where they get food, water, air, shelter, space and warmth. You can draw them instead.",
    "context": "In this activity, you choose one animal near your home, like a crow, a pigeon, a squirrel or a gecko. Then you find where they get each thing they need. Together, those places are their habitat.",
    "setup": [
     {
@@ -1671,7 +1671,7 @@
     },
     {
      "art": "A finished page with a crow in the middle and six labelled arrows: food, water, air, shelter, space, warmth.",
-     "caption": "3. Draw your animal and their six needs."
+     "caption": "3. Lay out your animal and their six needs."
     }
    ],
    "flow": [
@@ -1694,9 +1694,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw the animal in the middle of a page, with six arrows to the places you found.",
-     "say": "Let's draw it. All these places together are your animal's habitat. Their habitat isn't one spot. It is everywhere they get what they need.",
-     "kid": "Draw your animal in the middle. Draw six arrows to where they get each need. That is their habitat!",
+     "do": "Write the animal's name on a slip of paper. Put the slip in the middle of a table. Write each place your child found on its own slip. Lay the slips around the animal, one for each need.",
+     "say": "Let's lay it out. All these places together are your animal's habitat. Their habitat isn't one spot. It is everywhere they get what they need.",
+     "kid": "Put your animal's name in the middle. Lay a slip around them for each need. Each slip names the place where they get it. That is their habitat!",
      "check": {
       "t": "mcq",
       "q": "A crow drinks from a tap, eats from a dustbin, nests in a neem tree and flies over the whole street. What is their habitat?",
@@ -1750,7 +1750,7 @@
      "what": "Mark out two squares, one in a lawn or open patch and one under a tree. Count the kinds of living things in each."
     }
    ],
-   "record": "Make a tally for each square: how many different kinds of living things you found. Then draw two bars.",
+   "record": "Make a tally for each square: how many different kinds of living things you found. Then lay out a row of pebbles for each square, one for each kind.",
    "context": "If you have a garden or a park nearby: This activity is how real scientists study habitats. You mark out a square, 1 metre on each side, and count every kind of living thing inside it. Then you compare two squares.",
    "setup": [
     {
@@ -1805,9 +1805,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Compare the two tallies. Draw two bars.",
+     "do": "Compare the two tallies. Lay out one pebble for each kind, in a row for each square.",
      "say": "Which square had more kinds? What did that place give that the other did not?",
-     "kid": "Draw a bar for each square. Which had more kinds? Why do you think so?",
+     "kid": "Lay a pebble for each kind, one row for each square. Which row is longer? Why do you think so?",
      "think": "Scientists call the number of different kinds of living things biodiversity. Which places near your home do you think have the most?"
     }
    ],
@@ -1840,8 +1840,8 @@
      "what": "Walk, collect fallen things, note where each was found, and draw a nature map."
     }
    ],
-   "record": "Draw a map of your walk. Mark where each thing was found, and colour the map by habitat: shady, sunny, wet, dry.",
-   "context": "If you have a garden or a park nearby: you walk in a park or around your area, collect fallen things, and draw a map of where each one came from. A walk around your building works too.",
+   "record": "Draw a map of your walk, or lay your things out on a sheet. Mark where each thing was found, and sort them by habitat: shady, sunny, wet, dry.",
+   "context": "If you have a garden or a park nearby: you walk in a park or around your area, collect fallen things, and draw a map of where each one came from. You will find out whether shady, sunny and wet places give different things. A walk around your building works too.",
    "setup": [
     {
      "art": "A child picking up a fallen feather near a tree, a small cloth bag in her other hand.",
@@ -1853,7 +1853,7 @@
     },
     {
      "art": "The same map coloured in green for shade, yellow for sun and blue for wet places.",
-     "caption": "3. Colour each part: shady, sunny or wet."
+     "caption": "3. Sort the things: shady, sunny or wet."
     }
    ],
    "flow": [
@@ -1871,15 +1871,15 @@
      "mins": 10,
      "do": "At home, draw the path of the walk on a big sheet. Mark the trees, the grass, any water. Put each thing on the map where it was found.",
      "say": "Let's draw our walk. Here's the gate, here's the big tree, here's the tap. Where did the feather go? Where did the snail shell go?",
-     "kid": "Draw your walk. Put each thing where you found it.",
+     "kid": "Draw your walk. Put each thing where you found it. Or just lay the things out and tell where each came from.",
      "parent": "Patterns often show up: snail shells and moss near water and shade, dry seeds and feathers in sunny open places. Point these out only if your child does not notice them first."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Colour the map: green for shady places, yellow for sunny, blue for wet. Look for patterns.",
-     "say": "Look at the colours. Did different things come from shady places and sunny places? Why do you think so?",
-     "kid": "Colour the shady parts green, sunny parts yellow, wet parts blue. What pattern do you see?",
+     "do": "Sort the things into three piles: found in shade, found in sun, found near water. Look for patterns.",
+     "say": "Look at the piles. Did different things come from shady places and sunny places? Why do you think so?",
+     "kid": "Sort your things into three piles: shady, sunny and wet. What pattern do you see?",
      "check": {
       "t": "mcq",
       "q": "On a nature map, snail shells were found only near a leaking tap and in shady places. What does this suggest about snails?",
@@ -1918,8 +1918,8 @@
      "what": "Move like the four habitats, then take turns acting out a meeting of the four habitats."
     }
    ],
-   "record": "Draw yourself as your favourite habitat, and write one thing it gives and one thing that is hard there.",
-   "context": "This is a movement and drama activity. You move like each of the four habitats, then take turns acting out a meeting where the habitats talk about what they give.",
+   "record": "Pick your favourite habitat and act it out for the family. Say one thing it gives and one thing that is hard there.",
+   "context": "This is a movement and drama activity. You move like each of the four habitats, then take turns acting out a meeting where the habitats talk about what they give. You will find out what each habitat gives easily and what is hard there.",
    "setup": [
     {
      "art": "Four paper signs on the floor in four corners of a room: pond, forest, desert and sea.",
@@ -1948,7 +1948,7 @@
      "mins": 10,
      "do": "Take turns being each habitat: pond, forest, desert and sea. As each one, say what you give easily and what is hard about living in you. Then argue: who is the best home?",
      "say": "I am the desert. I give lots of sunshine and space. But I have very little water. Who are you? What do you give? And who would want to live in you?",
-     "kid": "Be one habitat. Say what you give. Say what is hard about living in you. Who is the best home?",
+     "kid": "Be one habitat. Say what you give. Say what is hard about living in you.",
      "parent": "Let the argument go on. A good ending is when the children see there is no single best home: each one is best for some living things. If there are only two of you, each plays two habitats.",
      "check": {
       "t": "mcq",
@@ -2041,8 +2041,8 @@
      "what": "Count all the visitors. Make a pictograph. Decide what to add or change."
     }
    ],
-   "record": "Keep a visitor diary: the date, the time, who came, and what they did (drank, bathed, rested, hid). On the last day, make a pictograph of all the visitors.",
-   "context": "This is a two-week project. You make a small habitat corner on a balcony, a window ledge or in a garden, with water and shelter, and keep a diary of the wild visitors who use it.",
+   "record": "Keep a visitor diary: the date, the time, who came, and what they did (drank, bathed, rested, hid). On the last day, make a tally of all the visitors.",
+   "context": "This is a two-week project. You make a small habitat corner on a balcony, a window ledge or in a garden, with water and shelter, and keep a diary of the wild visitors who use it. You will find out who comes when you give them water and shelter.",
    "setup": [
     {
      "art": "A shallow clay bowl with three stones in it, full of water, on a balcony ledge in partial shade.",
@@ -2093,9 +2093,9 @@
     {
      "id": "s5",
      "mins": 15,
-     "do": "On day 14, count all the visitors in the diary. Make a pictograph: one small picture for each visit, in a row for each kind of visitor.",
+     "do": "On day 14, count all the visitors in the diary. Make a tally: one mark for each visit, in a row for each kind of visitor.",
      "say": "Let's count. Who came most often? What did they use most: the water or the shelter?",
-     "kid": "Count all your visitors. Draw a little picture for each visit. Who came most?",
+     "kid": "Count all your visitors. Make one tally mark for each visit. Who came most?",
      "check": {
       "t": "mcq",
       "q": "In the Habitat Corner, birds and bees visited the water bowl often in summer. What does this show?",
@@ -2149,8 +2149,8 @@
     "Make a thick roof with an air gap under it. The gap slows the heat on its way to the cup. Houses in the Thar have thick mud walls for the same reason.",
     "Termites build tall mounds with tunnels inside. Hot air rises and leaves through the tunnels, so the nest stays cooler. Build a tall chimney on your shelter in the same way."
    ],
-   "your_turn": "Now invent your own shelter. Draw it, build it and test it against a cup with no shelter. Which kept your 'animal' coolest?",
-   "context": "This is a design challenge about the desert habitat. Desert animals hide in burrows and shade by day. You build a shelter that keeps a cup of water cool in the hot sun.",
+   "your_turn": "Now invent your own shelter. Plan it, build it and test it against a cup with no shelter. Which kept your 'animal' coolest?",
+   "context": "This is a design challenge about the desert habitat. Desert animals hide in burrows and shade by day. You build a shelter that keeps a cup of water cool in the hot sun. You will find out how much a shelter helps.",
    "setup": [
     {
      "art": "Two steel cups of water on a sunny step, one bare, one inside a cardboard shelter with a white cloth roof.",
@@ -2177,9 +2177,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "List three ideas for a shelter before building anything. Then choose one.",
+     "do": "Say three ideas for a shelter before building anything. A grown-up can write them down. Then choose one.",
      "say": "Think like a desert animal. Where would you hide at noon? Let's list three ideas first.",
-     "kid": "Think like a desert fox. Where would you hide at noon? Draw three ideas."
+     "kid": "Think like a desert fox. Where would you hide at noon? Tell three ideas."
     },
     {
      "id": "s3",
@@ -2237,7 +2237,7 @@
     "Join with neighbours, so many balconies make a long butterfly road through the city."
    ],
    "your_turn": "Now design your own balcony habitat. Label each part with the need it gives. If you can, build it and keep a diary of the butterflies that come.",
-   "context": "This is a design challenge. You design a small habitat for butterflies on a balcony or a window ledge, giving each of the things a butterfly needs.",
+   "context": "This is a design challenge. You design a small habitat for butterflies on a balcony or a window ledge, giving each of the things a butterfly needs. You will find out what a butterfly needs, and plan a home that gives them all.",
    "setup": [
     {
      "art": "A child's drawing of a balcony railing with pots of marigold, curry leaf and lemon plants, a dish of damp sand and a flat stone.",
@@ -2264,9 +2264,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Draw a design for a space about 1 metre long. Label each part with the need it gives.",
-     "say": "Draw your balcony. Where will the flowers go? The caterpillar plants? The water? Label each part with its need.",
-     "kid": "Draw your butterfly habitat. Label each part with the need it gives."
+     "do": "Draw a design for a space about 1 metre long, or lay it out with real pots and sticks. Label each part with the need it gives.",
+     "say": "Draw your balcony, or lay it out with real pots. Where will the flowers go? The caterpillar plants? The water? Label each part with its need.",
+     "kid": "Draw your butterfly habitat, or lay out real things for each part. Label each part with the need it gives."
     },
     {
      "id": "s3",

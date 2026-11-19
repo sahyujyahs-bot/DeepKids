@@ -218,7 +218,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **s3 (3 min)**  
   *Parent does:* Count the pairs and bonus points. Then ask which five festivals come in mid-January.  
   *Parent says:* Five of these festivals come in the middle of January. Can you find them in your pile?  
-  *Child mode:* Find the five festivals that come in mid-January.
+  *Child mode:* Count your pairs. Then look through your pile.
   - Ask: Which five festivals come in mid-January? (good: Pongal, Makara Sankranti, Lohri, Magh Bihu and Uttarayan.; They are all the same harvest festival with different names.)
 ### g2 · Sun or Moon? A festival sorting game (15 min)
 - **rules:** Shuffle the cards and put them face down in a pile. Put the sorting mat in the middle.; Turn over one card at a time. Say 'Sun' or 'Moon', and put it on that side of the mat. Playing with others, take turns, and keep a note of who placed each card.; When all 14 are sorted, turn each card over and check the back. The player who placed a card scores one point if it is on the right side.; Playing alone, try to get all 14 right.
@@ -236,7 +236,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **s3 (3 min)**  
   *Parent does:* Look at the two piles together.  
   *Parent says:* Look at the Moon pile. What do many of these festivals have in common?  
-  *Child mode:* Look at the Moon pile. What do the backs say about the Moon?
+  *Child mode:* Read the backs of the Moon cards.
   - Ask: What do the Moon festivals have in common? (good: They fall on a new moon or a full moon.; They are counted from the Moon's shape.)
 
 ## Experiments
@@ -245,7 +245,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **predict:** Look at the eight liquids. Which ones do you think will turn the turmeric red? Why do you think so? Then guess: if a bowl turns red, can lemon juice make it yellow again, and why?
 - **fair test:** Every bowl gets the same amount of turmeric water and the same spoonful of liquid. We look at all the bowls together, one minute after the last liquid goes in, so every bowl has waited at least a minute. One bowl gets plain water, so we can see what no change looks like. We look at every bowl on the same white paper, in the same light.
 - **safety:** Soapy water and baking soda water sting the eyes, so keep hands away from the face and wash them afterwards. Do not taste the test liquids.
-- **record:** Fill in the table. Then draw your row of bowls in colour, and write 'acid', 'base' or 'neither' under each one.
+- **record:** Fill in the table. Then draw your row of bowls in colour, or take a photo of it. Write 'acid', 'base' or 'neither' for each one.
 - **results table:** Liquid | My guess: red or yellow? | Colour after 1 minute | Acid, base or neither? | Lemon added: what happened?
 - **s1 (6 min)**  
   *Parent does:* 1. Stir half a teaspoon of turmeric into one cup of water. 2. Pour 2 tablespoons into each of the 8 bowls. 3. Stand the bowls in a row on the white paper.  
@@ -260,7 +260,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **s3 (4 min)**  
   *Parent does:* 1. Put a small paper label in front of each bowl. 2. Ask your child to guess red or yellow for each. 3. Ask why. 4. Write the guesses in the table.  
   *Parent says:* Which of these liquids do you think will turn the turmeric red? Why do you think so?  
-  *Child mode:* Guess for each bowl: red or yellow? Why do you think so?
+  *Child mode:* Look at the eight liquids. Guess which ones will turn the turmeric red.
   - Ask: Pick one liquid you think will turn the turmeric red. Why do you think so? (good: Because soap turned a turmeric stain red.; Because it is slippery, like soap.; Because the lemon is sour and the soap is not.)
   - Note: Do not say what will happen. Any reason is good if your child says it.
 - **s4 (8 min)**  
@@ -277,7 +277,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **s6 (2 min)**  
   *Parent does:* Talk about the results. Ask what your child found out, what they saw that shows it, and why they think it happened.  
   *Parent says:* Which liquids turned the turmeric red? What did they have in common? What did the lemon do?  
-  *Child mode:* Which ones went red? How are they alike? What did lemon do?
+  *Child mode:* Look at all the bowls again. Which ones went red?
   - Ask: What is the same about the liquids that turned it red? (good: Soap and baking soda are both slippery when wet.; They are not sour.; They are bases.)
   - Ask: What does the lemon test show? (good: The red can go back to yellow, so the turmeric was not spoilt.; Lemon is an acid, and it undoes what the base did.)
   - Note: Red means a base. For the yellow bowls, turmeric cannot tell an acid from plain water. Use the taste of the food instead: lemon, tamarind and curd are sour, so they are acids. Salt and sugar are not sour, so they are neither.
@@ -285,7 +285,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **question:** Does red hibiscus juice change colour with lemon juice and with soap, the way turmeric does?
 - **predict:** Guess what colour hibiscus juice will turn with lemon, and what colour with soapy water. Why do you think so?
 - **fair test:** Use the same hibiscus juice in three tumblers, add the same spoonful of liquid to each, and wait the same one minute. Keep one tumbler with plain water, to compare.
-- **record:** Draw the three tumblers in colour. Write one sentence on how hibiscus is like turmeric, and one on how it is different.
+- **record:** Draw the three tumblers in colour, or take a photo of them. Write one sentence on how hibiscus is like turmeric, and one on how it is different.
 - **results table:** Liquid added | My guess | Colour after 1 minute | Same as turmeric, or different?
 - **s1 (8 min)**  
   *Parent does:* 1. Tear the petals of two flowers into small pieces. 2. Put them in half a cup of warm water. 3. Squeeze and rub them with your fingers for 3 minutes. 4. Strain the juice.  
@@ -295,7 +295,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **s2 (4 min)**  
   *Parent does:* 1. Pour the juice into three tumblers. 2. Ask your child to guess the colour with lemon and with soap, and why.  
   *Parent says:* Turmeric went red with soap. What do you think hibiscus will do with soap? And with lemon? Why?  
-  *Child mode:* Guess: what colour with lemon? What colour with soap? Why?
+  *Child mode:* Think about lemon and soap. Will the juice change colour?
   - Ask: What colour do you think hibiscus juice will turn with soap? Why? (good: I think it will go red like turmeric.; Lemon and soap did different things to turmeric, so maybe they will here too.)
 - **s3 (8 min)**  
   *Parent does:* 1. Add one teaspoon of lemon juice to the first tumbler. 2. Add one teaspoon of soapy water to the second. 3. Add plain water to the third. 4. Wait one minute and compare.  
@@ -305,7 +305,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **s4 (5 min)**  
   *Parent does:* Compare the hibiscus results with the results of the Turmeric Test.  
   *Parent says:* Turmeric changed colour only with the base. Hibiscus changed with both. What does that tell you?  
-  *Child mode:* Turmeric changed with soap only. Hibiscus changed with both. Which one tells you more?
+  *Child mode:* Compare the turmeric and hibiscus results. Which one showed more?
   - Ask: Which is the better indicator for telling an acid from plain water? (good: Hibiscus, because it turns pink in acid, and turmeric stays yellow in acid and in water.)
 ### e3 · Which festivals move? A calendar hunt (20 min)
 - **question:** Do festivals fall on the same date every year? If some move, which ones, and by how much?
@@ -316,7 +316,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **s1 (4 min)**  
   *Parent does:* 1. Read out the six festivals. 2. Ask your child to guess which stay on the same date, and why. 3. Write the guesses.  
   *Parent says:* Your birthday is on the same date every year. Is every festival like that? Which ones do you think move? Why?  
-  *Child mode:* Which festivals come on the same date every year? Guess, and say why.
+  *Child mode:* Guess which festivals stay on the same date every year.
   - Ask: Why do you think Diwali might move? (good: Because last year it was in a different month.; Because it comes on a dark night with no Moon.)
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* 1. Choose three years in a row, such as last year, this year and next year. 2. Look up each festival in each year. 3. Write each date in the table.  
@@ -324,14 +324,14 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   *Child mode:* Find each festival in each year. Write the date.
   - Note: On a phone, search the calendar app for the festival name, or open the month. Some festivals differ by a day between states, so pick one calendar and stick to it. Pongal stays on 14 or 15 January. Christmas and Independence Day never move. Diwali and Holi jump about by up to a few weeks. Eid comes about 11 days earlier each year.
 - **s3 (6 min)**  
-  *Parent does:* Sort the six festivals into Sun and Moon. Work out how many days Eid moved.  
+  *Parent does:* Sort the six festivals into Sun (same date every year) and Moon (date moves). Work out how many days Eid moved.  
   *Parent says:* Which festivals stayed put? Which moved? Count how many days earlier Eid came each year.  
   *Child mode:* Which stayed? Which moved? How many days did Eid move?
   - Ask: Why does Eid move earlier and earlier, but Diwali stays in October or November? (good: Twelve Moon months are about 11 days shorter than a Sun year.; The Hindu calendar adds an extra month every few years, and the Islamic calendar does not.)
 
 ## Activities
 ### a1 · Yellow to Red: the first look (8 min)
-- **record:** Draw the bowl before and after. Write one thing you wonder about it.
+- **record:** Show the bowl before and after, by drawing it or taking a photo. Write one thing you wonder about it.
 - **s1 (3 min)**  
   *Parent does:* 1. Stir a pinch of turmeric into the bowl of water. 2. Rub the soap in the cup of water for 10 seconds. 3. Let your child pour one spoon of soapy water into the turmeric.  
   *Parent says:* Here is turmeric water. Pour in one spoon of soapy water. Watch the colour closely.  
@@ -339,7 +339,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **s2 (5 min)**  
   *Parent does:* Ask what your child noticed and what they wonder. Write down their questions. Do not explain yet.  
   *Parent says:* What did you notice? What do you wonder about it? Did we add anything red?  
-  *Child mode:* What did you see? What do you wonder? Was anything red added?
+  *Child mode:* Tell your grown-up what you saw and what you wonder.
   - Ask: What do you wonder? (good: Why did it turn red?; Will other things turn it red?; Can it go back to yellow?)
   - Note: Keep their questions. The Turmeric Test answers them. If your family uses aarathi water, ask if they have seen it made.
 ### a2 · Plan a Mela (20 min)
@@ -351,15 +351,15 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **s2 (12 min)**  
   *Parent does:* 1. Draw the ground from above, the way a bird sees the ground. 2. Draw at least six stalls, one ride, a first-aid booth, a Lost and Found booth, dustbins and an entrance. 3. Label what each stall sells and what it is made of.  
   *Parent says:* Draw the mela the way a bird flying over sees the ground. Where will lost children go? Where will people throw their rubbish?  
-  *Child mode:* Draw your mela from above. Add stalls, a ride and a Lost and Found booth.
+  *Child mode:* Draw your mela from above, or lay out cups and spoons as the stalls. Add a ride and a Lost and Found booth.
   - Note: Good stall materials: bamboo poles, rope, cloth or plastic sheets, wooden boards. Good jobs: sellers, cooks, potters, toy makers, ride workers, electricians, police, first-aid workers, volunteers and cleaners.
 - **s3 (3 min)**  
   *Parent does:* Ask why bamboo and cloth are good for building a mela stall.  
   *Parent says:* Your mela has to be built in a week and taken down in a day. Why are bamboo and cloth good for that?  
-  *Child mode:* Why is a stall made of bamboo and cloth, not bricks?
+  *Child mode:* Think about how fast a mela is built and taken down.
   - Ask: Why are mela stalls made of bamboo and cloth? (good: They are light and quick to put up and take down.; They can be used again at the next mela.; Bricks would take too long and leave a mess.)
 ### a3 · A Rice-Flour Kolam: who comes to eat it? (15 min, 2 days)
-- **record:** Draw the kolam when it is new, and again the next morning. Mark where parts are missing.
+- **record:** Take a photo of the kolam when it is new, and again the next morning. Say which parts are missing.
 - **schedule:** day 1: Draw a small rice-flour kolam, and look at it again after two hours. (10 min); day 2: Check the kolam the next morning for ants and gaps, and talk about who it fed. (5 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Put the rice flour in a bowl. 2. Show your child how to pinch it between thumb and finger and let it fall in a thin line. 3. Make 9 dots in a square and draw loops around them.  
@@ -373,12 +373,12 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   - Wait: Check again the next morning.
 - **s3 (2 min)**  
   *Parent does:* Talk about who the kolam fed.  
-  *Parent says:* Many families say a rice-flour kolam is a way to share food with the ants and birds. Did yours feed anyone?  
-  *Child mode:* Did your kolam feed anyone? Who?
+  *Parent says:* Many families say a rice-flour kolam is a way to share food with the ants and birds. What did you find?  
+  *Child mode:* Who ate your kolam? Tell your grown-up.
   - Ask: Why do you think people used rice flour, not chalk? (good: So the ants and birds can eat it.; Because rice was in every home.)
 ### a4 · Make Aarathi Water with a Grown-up (10 min)
 - **safety:** Lime paste is a strong base and can burn the eyes and skin. Only a grown-up touches it, with a matchstick. Keep it far from the child's face. If any gets in an eye, wash the eye with plenty of running water and see a doctor. Keep the lime tube closed and out of children's reach afterwards.
-- **record:** Draw the plate before and after. Write what the lime did.
+- **record:** Write what the lime did to the colour. Take a photo of the plate before and after.
 - **s1 (4 min)**  
   *Parent does:* 1. Pour a glass of water into the plate. 2. Stir in one teaspoon of turmeric.  
   *Parent says:* This is how many families start aarathi water. Turmeric and water. What colour is it?  
@@ -391,7 +391,7 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **s3 (3 min)**  
   *Parent does:* Talk about why it turned red, using the Turmeric Test.  
   *Parent says:* Remember the Turmeric Test? Which liquids turned it red? So what kind of substance is lime?  
-  *Child mode:* Soap turned turmeric red. Lime did too. So what is lime?
+  *Child mode:* Think back to the Turmeric Test. What turned turmeric red?
   - Ask: What kind of substance is lime? (good: A base, like soap and baking soda.)
   - Note: Pour the aarathi water down the drain afterwards, not where children play.
 ### a5 · A Timeline of Our National Festivals (15 min)
@@ -408,18 +408,18 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
 - **s3 (3 min)**  
   *Parent does:* Ask how many years after independence the Constitution came into force.  
   *Parent says:* Look at 1947 and 1950 on your line. How many years after independence did the Constitution come into force?  
-  *Child mode:* Find 1947 and 1950. How long is the gap?
+  *Child mode:* Look at 1947 and 1950. Count the gap on your line.
   - Ask: How many years after independence did the Constitution come into force? (good: Two and a half years: from August 1947 to January 1950.)
 
 ## Projects
 ### p1 · Our Family Festival Book (60 min, 3 days)
 - **safety:** A grown-up does any cutting, frying or work at the stove.
-- **record:** The finished book: the interview, the recipe, and drawings of the food, the clothes and one custom.
+- **record:** The finished book: the interview, the recipe, and pictures, photos or words for the food, the clothes and one custom.
 - **schedule:** day 1: Interview an older family member about one festival when they were young. (20 min); day 2: Help make one food from that festival, and write down the recipe. (25 min); day 3: Finish the book with drawings of the food, the clothes and the custom. (15 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Choose one festival. 2. Ask the five interview questions. 3. Write short answers in the book.  
   *Parent says:* Ask: What was the best part of the festival when you were a child? What did you eat? What did you wear? What did your family do? What has changed since then?  
-  *Child mode:* Ask five questions. Write short answers. What has changed since then?
+  *Child mode:* Ask the five questions. Write short answers.
 - **s2 (25 min) · grown-up needed**  
   *Parent does:* 1. Choose one food from the interview. 2. Help a grown-up make it, or a simple part of it. 3. Write the ingredients and the steps.  
   *Parent says:* Which ingredients come from a plant? Which from an animal? Which were harvested this season?  
@@ -427,23 +427,23 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   - Note: Simple choices: ellu bella, sakkarai pongal, lemon rice, payasam, seviyan, pitha or puran poli. Let your child measure and stir away from the flame.
   - Wait: Do this on day 2.
 - **s3 (15 min)**  
-  *Parent does:* Draw the food, the festival clothes and one custom. Add a cover.  
-  *Parent says:* Draw the food, the clothes and one custom. Give your book a title.  
-  *Child mode:* Draw the food, the clothes and a custom. Make a cover.
+  *Parent does:* Add the food, the festival clothes and one custom to the book. Draw them, paste a photo, or write about them. Add a cover.  
+  *Parent says:* Show the food, the clothes and one custom in your book. Give it a title.  
+  *Child mode:* Show the food, the clothes and a custom. Make a cover.
   - Ask: What has changed in this festival since the person you interviewed was young? What has stayed the same? (good: Now we buy sweets, but in those days the family made them.; We still draw a kolam.)
   - Wait: Do this on day 3.
 
 ## Challenges
 ### c1 · Build a Mela Stall That Stands Up (35 min)
 - **problem:** Build a model mela stall that stands on its own, has a roof, and does not fall over when the fan is on.
-- **your turn:** Now design your own stall. Draw it first, then build it and test it with the fan.
+- **your turn:** Now design your own stall. Plan it first by drawing or telling, then build it and test it with the fan.
 - **constraints:** Use only newspaper, string or thread, cello tape, ice-cream sticks and a cloth or paper roof.; The stall must be at least 20 cm tall.; It must stay standing for one minute in front of a fan on low speed.
 - **general:** Roll newspaper tightly into poles, like bamboo, and tape the four corners of the roof to the tops.; Tie the poles together at the top with string, the way stall makers tie bamboo with rope.; Add slanted poles from each corner to the base, to make triangles.
 - **creative:** Tape a few coins inside the base, so the stall is heaviest at the bottom.; Cut small slits in the cloth roof so the wind passes through.; Make the roof slope, so the wind slides over it.
 - **s1 (8 min)**  
-  *Parent does:* Look at the problem. Draw two ideas.  
-  *Parent says:* A real stall is bamboo, rope and cloth. Our poles will be rolled newspaper. Draw two ideas before you build.  
-  *Child mode:* Draw two ideas for your stall. How will it stand up?
+  *Parent does:* Look at the problem. Draw two ideas, or tell them to your grown-up.  
+  *Parent says:* A real stall is bamboo, rope and cloth. Our poles will be rolled newspaper. Think of two ideas before you build.  
+  *Child mode:* Draw or tell two ideas for your stall. How will it stand up?
 - **s2 (20 min)**  
   *Parent does:* Build the stall. Test it in front of the fan on low speed for one minute.  
   *Parent says:* Build your best idea. Then let's test it with the fan.  
@@ -471,8 +471,8 @@ That afternoon, Meenakshi and Arjun made a row of bowls on the kitchen floor, ea
   - Note: Thin writing gives faint results. Big, thick letters show best.
 - **s3 (10 min)**  
   *Parent does:* Brush the turmeric water over the whole page in one smooth layer. Watch the letters.  
-  *Parent says:* Brush gently over the whole page. Watch the letters appear. Why are they red and the rest yellow?  
-  *Child mode:* Brush turmeric over the page. Watch! Why are the letters red?
+  *Parent says:* Brush gently over the whole page. Watch the letters appear.  
+  *Child mode:* Brush turmeric over the page. Watch the letters appear.
   - Ask: Why are the letters red and the rest of the page yellow? (good: Baking soda is a base, and turmeric turns red in a base.; The paper without baking soda has no base, so the turmeric stays yellow.)
 
 ## Worksheets

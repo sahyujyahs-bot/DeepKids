@@ -829,7 +829,7 @@
     "A TEST IT or TALK IT card has no tokens. Everyone says their guess out loud. For TEST IT, do the test together. For TALK IT, just talk. Read the back. Score the same way.",
     "When the cards run out, the player with the most points wins. If points are level, you share the win."
    ],
-   "context": "This is a card game about falling. Each card names two things being dropped together. Players guess which lands first, then read the back to check and explain it.",
+   "context": "This is a card game about falling. Each card names two things being dropped together. Players guess which lands first, then read the back to check. You will find out when heavy things land first, and when they do not.",
    "flow": [
     {
      "id": "s1",
@@ -844,7 +844,7 @@
      "mins": 3,
      "do": "Read the practice card, 'A big stone and a small stone, from a bridge into a river', as a practice round. No points. Then set that card aside.",
      "say": "Practice card: a big stone and a small stone, dropped from a bridge together. Show your token!",
-     "kid": "Practice card: two stones fall from a bridge. One is big. One is small. Which lands first? Show your token.",
+     "kid": "Practice round, no points. Pick a token. Everyone shows it together.",
      "check": {
       "t": "mcq",
       "q": "A big stone and a small stone fall from a bridge together. Which lands first?",
@@ -870,7 +870,7 @@
      "mins": 3,
      "do": "Look out for the card about two weights tied together. When it comes up, stop and talk about Galileo's puzzle.",
      "say": "Aristotle said heavy things fall faster. So would the tied pair fall faster, because it is heavier? Or slower, because the light one holds it back? It cannot be both!",
-     "kid": "Tied weights card! If heavy falls faster, the pair should be faster. But the light one should slow it down. It can't be both! So what is true?",
+     "kid": "Tied weights card! If heavy falls faster, the pair should be faster. But the light one should slow it down. It can't be both!",
      "ask": [
       {
        "q": "So which is true?",
@@ -1034,8 +1034,8 @@
      "id": "s3",
      "mins": 4,
      "do": "When card 3 comes up, stop and talk about it.",
-     "say": "One marble rolled and one dropped. Did the rolled one take longer to land? Listen again and see.",
-     "kid": "One marble rolled and one dropped. Did they land together? Try it again!",
+     "say": "Listen for one thud or two. Try it a few times.",
+     "kid": "Roll one marble off the table edge. Drop the other at the same moment. Listen!",
      "check": {
       "t": "mcq",
       "q": "One marble rolls off a table edge. A second marble drops straight down at the same moment. Which lands first?",
@@ -1965,14 +1965,14 @@
      "what": "Drop flat paper, crumpled paper, and paper on top of a book."
     }
    ],
-   "record": "Fill in the table. Draw the flat sheet falling, and draw arrows to show the air pushing up on it.",
+   "record": "Fill in the table. Draw the flat sheet falling, with arrows for the air pushing up on it. Or tell your grown-up where the air pushes.",
    "context": "This experiment uses two sheets of paper and a book. It shows that the air, not lightness, is what slows a falling sheet of paper. The air's push is called air resistance.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Hold a flat sheet of paper in one hand and a coin in the other, at the same height. 2. Let go of both together.",
-     "say": "The coin dropped fast and the paper floated down. Is that because the paper is light? Let's find out.",
+     "say": "Watch which one lands first. Is the paper slower because it is light? Let's find out.",
      "kid": "Hold a flat paper and a coin up high. Let go of both. Which lands first?",
      "context": "This is the first step of Paper That Falls Like a Stone. You find out why paper falls slowly."
     },
@@ -1984,7 +1984,7 @@
      "kid": "Crumple one paper into a tight ball. Drop it with a flat paper. Same paper, same weight. Which lands first?",
      "ask": [
       {
-       "q": "They weigh the same. So why did the ball land first?",
+       "q": "Why did the ball land first?",
        "good": [
         "The flat paper has to push lots of air out of the way.",
         "The air pushes up on the flat paper more."
@@ -1997,7 +1997,7 @@
      "mins": 4,
      "do": "1. Lay the small quarter sheet flat on top of the book, so nothing sticks out. 2. Hold the book flat and level at chin height. 3. Let go of the book.",
      "say": "What will the paper do now? Will it float off, or stay on the book?",
-     "kid": "Lay a flat paper on top of a book. Drop the book. Does the paper float away, or fall with the book?",
+     "kid": "Lay a flat paper on top of a book. Drop the book. Watch the paper.",
      "check": {
       "t": "mcq",
       "q": "A flat sheet of paper lying on top of a book falls with the book. Why?",
@@ -2106,8 +2106,8 @@
      "what": "Make three parachutes. Time each one falling 3 times. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Draw a bar for each parachute, as tall as its middle time.",
-   "context": "In the Parachute Test, you make three plastic-bag parachutes of different sizes. You time how long each takes to float down from the same height, carrying the same load.",
+   "record": "Fill in the table with the times, and the middle time for each parachute.",
+   "context": "In the Parachute Test, you make three plastic-bag parachutes of different sizes. You time each one from the same height, with the same load. You will find out if a bigger parachute falls more slowly.",
    "flow": [
     {
      "id": "s1",
@@ -2139,7 +2139,7 @@
      "mins": 4,
      "do": "Help your child draw a bar chart of the middle times, one bar for each parachute.",
      "say": "Let's turn the times into a picture. A taller bar means a slower fall.",
-     "kid": "Draw one bar for each parachute. Make it as tall as its middle time. Taller bar, slower fall.",
+     "kid": "Draw one bar for each parachute, as tall as its middle time. Taller bar, slower fall. Or just tell your grown-up the order.",
      "check": {
       "t": "mcq",
       "q": "In the Parachute Test, which parachute fell most slowly?",
@@ -2456,8 +2456,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Walk up a flight of stairs or one step, then walk down.",
-     "say": "Which was harder, going up or going down? Why?",
-     "kid": "Walk up the stairs. Now walk down. Which was harder? Why?",
+     "say": "Walk up the stairs, then walk down. Notice how your legs feel.",
+     "kid": "Walk up, then walk down. How do your legs feel each way?",
      "ask": [
       {
        "q": "Why is going up harder than going down?",
@@ -2471,9 +2471,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Talk about escape speed. Could anyone ever jump off the Earth?",
+     "do": "Say the numbers below. Then ask the question underneath.",
      "say": "To leave the Earth for ever, you would have to jump off at about 11 kilometres every second. Your jump leaves the ground at only 2 or 3 metres a second. Rockets get that fast by burning fuel for many minutes.",
-     "kid": "To leave the Earth, you would need 11 kilometres every second! Your jump is only 2 or 3 metres a second. Rockets burn fuel to go that fast.",
+     "kid": "A rocket must go very fast to leave the Earth. Your jump is much slower.",
      "check": {
       "t": "mcq",
       "q": "Could you jump so high that you never came back down?",
@@ -2540,7 +2540,7 @@
      "what": "Make a space blanket. Roll marbles past heavy and light balls. Talk about what the model gets right and wrong."
     }
    ],
-   "record": "Draw the blanket from the side, with the dent, the ball and a marble's path curving in.",
+   "record": "Draw the blanket from the side, with the dent, the ball and a marble's path curving in. Or tell your grown-up what the marble did.",
    "problem": "Einstein pictured gravity in a new way. He said that a heavy thing bends space and time, and other things follow the bend. In this activity a stretched sheet stands for space, and a heavy ball makes a dent in it. You roll marbles past the dent to see how a bend can change the path of something moving past.",
    "context": "In this activity you make a model of Einstein's idea of gravity. Mass bends space and time, a little like a heavy ball bends a stretched cloth. Things then move along the bend.",
    "flow": [
@@ -2556,8 +2556,8 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Put the heavy ball in the middle of the sheet. 2. Look at the dent. 3. Roll marbles past it, some close and some far away.",
-     "say": "The heavy ball bends the sheet. Watch the marbles. Which ones curve in?",
-     "kid": "Put the heavy ball in the middle. See the dent? Roll marbles past it. Which ones curve in?",
+     "say": "The heavy ball bends the sheet. Roll marbles past it, some close and some far away.",
+     "kid": "Put the heavy ball in the middle. See the dent? Roll marbles past it.",
      "ask": [
       {
        "q": "Which marbles fell into the dent?",
@@ -2589,7 +2589,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Talk about Einstein's idea.",
+     "do": "Read out what Einstein said. Then ask the question underneath.",
      "say": "The dent changed the path of the marble. Einstein said mass changes the shape of space and time in a similar way. Falling things follow that shape.",
      "kid": "Einstein said heavy things bend space and time. Falling things follow the bend, like the marble followed the dent.",
      "check": {
@@ -2656,7 +2656,7 @@
      "what": "Hold a bag still until your arm is tired, then let a door handle hold it. Talk about the Earth and the Moon."
     }
    ],
-   "record": "Draw your arm holding the bag, and the door handle holding the bag. Write which one got tired, and why.",
+   "record": "Say or write which one got tired, your arm or the door handle, and why.",
    "problem": "Holding something still needs a force. Your arm gets tired holding a bag, but a door handle holding the same bag never does. In this activity you find out why. Then you see what it tells us about the Earth's gravity holding the Moon.",
    "context": "In this activity you compare your arm with a door handle. Both can hold a bag still, but only one gets tired. It shows that a force can hold something without using up energy, as gravity does with the Moon.",
    "flow": [
@@ -2683,7 +2683,7 @@
      "mins": 3,
      "do": "Close the door. Hang the same bag by its handles on the door handle. Leave it there while you do the next steps.",
      "say": "The door handle is holding up the same bag, with the same force as your arm. Will the handle get tired?",
-     "kid": "Hang the bag on a door handle. Will the handle get tired?"
+     "kid": "Hang the bag on a door handle and let go. Watch the handle."
     },
     {
      "id": "s3",
@@ -2756,7 +2756,7 @@
      "what": "Make a plumb line and test walls. Stick paper people all round a ball."
     }
    ],
-   "record": "Draw the round Earth with four people standing on it. Draw an arrow from each person to show which way is down.",
+   "record": "Draw the round Earth with four people standing on it, and an arrow from each person to show which way is down. Or take a photo of your ball with the pencils.",
    "problem": "Down seems easy to understand, but people live on every side of a round Earth. In this activity you make a plumb line, which is a weight on a string that shows which way is down. Then you find out what down means for people all round the Earth.",
    "context": "In this activity you make a plumb line, a weight on a string that shows which way is down. Then you find out what 'down' means on a round Earth.",
    "flow": [
@@ -2771,9 +2771,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Draw and cut out four tiny paper people. 2. Tape them standing all round a ball: one on top, one at the bottom, one on each side. 3. Ask: which way is down for each person?",
+     "do": "1. Cut out four small paper squares. Each square is a tiny person. 2. Tape them all round a ball: one on top, one at the bottom, one on each side. 3. Ask: which way is down for each person?",
      "say": "This ball is the Earth. One person is in India, on top. One is on the opposite side of the Earth, at the bottom. Which way is down for her? Why doesn't she fall off?",
-     "kid": "Make 4 tiny paper people. Stick them all round a ball. Which way is down for the one at the bottom? Why doesn't she fall off?",
+     "kid": "Cut four paper squares. Each one is a tiny person. Stick them all round the ball.",
      "check": {
       "t": "mcq",
       "q": "A girl stands on a ship on the opposite side of the Earth from India. Which way is down for her?",
@@ -2790,9 +2790,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Draw the Earth as a big circle with four people round it. Draw an arrow from each person to the centre.",
-     "say": "Every arrow points to the middle. So 'down' is not one direction. It is towards the middle of the Earth, from wherever you are.",
-     "kid": "Draw the Earth and four people. Draw an arrow from each person to the middle. All the arrows meet!"
+     "do": "Hold a pencil against the ball at each paper person, pointing in towards the middle of the ball.",
+     "say": "Every pencil points to the middle. So 'down' is not one direction. It is towards the middle of the Earth, from wherever you are.",
+     "kid": "Hold a pencil at each person, pointing to the middle of the ball. All the pencils meet in the middle!"
     },
     {
      "id": "s4",
@@ -2814,8 +2814,8 @@
      "caption": "2. Stick paper people all round a ball."
     },
     {
-     "art": "A drawing of a round Earth with four people around it and four arrows meeting at the centre.",
-     "caption": "3. Draw arrows. Down is always towards the middle."
+     "art": "A ball with four paper people on it and four pencils pointing in towards the middle.",
+     "caption": "3. Point pencils at the middle. Down is always towards the middle."
     }
    ]
   },
@@ -2845,7 +2845,7 @@
      "what": "Act out four sisters living at different heights, whose clocks tick at different speeds."
     }
    ],
-   "record": "Draw the four sisters at their heights, with a clock beside each. Write which clock is fastest and which is slowest.",
+   "record": "Put the four paper clocks in a row, from slowest to fastest. Say which sister's clock is slowest and which is fastest.",
    "problem": "Clocks tick at slightly different speeds at different heights. The difference is real, but it is far too small to notice. In this play, four sisters live at different heights, and you clap out their clocks. The play makes the difference much bigger than it really is, so that you can hear it.",
    "context": "This is a short play about four sisters who live at different heights. It shows a real but very strange fact: clocks tick slower lower down, closer to the middle of the Earth.",
    "flow": [
@@ -2862,7 +2862,7 @@
      "mins": 5,
      "do": "Each sister claps once for every 'tick' of her clock while you count to 20. The mine sister claps slowest, then the sea sister, then the mountain sister. The satellite sister claps fastest.",
      "say": "Higher up, time runs a tiny bit faster. Lower down, closer to the middle of the Earth, it runs slower. Let's clap our clocks.",
-     "kid": "Clap once for every tick of your clock. The mine sister claps slowest. The satellite sister claps fastest!",
+     "kid": "Clap once for every tick of your clock. Listen to how the four sisters clap.",
      "check": {
       "t": "mcq",
       "q": "Which sister's clock ticks slowest?",
@@ -2935,7 +2935,7 @@
      "what": "Collect falling things on a walk. Drop them and sort them into fast and slow."
     }
    ],
-   "record": "Draw your slowest faller and your fastest. Write what shape helps the slow one.",
+   "record": "Show your grown-up your slowest faller and your fastest. Say what shape helps the slow one.",
    "context": "If you have a garden or a park nearby, try this walk. You collect things that plants drop: leaves, seeds, flowers and pods. Then you race them, to see how living things use the air to fall slowly.",
    "flow": [
     {
@@ -3334,7 +3334,7 @@
     "India's Chandrayaan-3 lander, Vikram, landed gently on the Moon in August 2023. It used rocket engines to slow down, because the Moon has no air for a parachute. What would you do on a world with no air?",
     "Winged seeds spin as they fall. Could a spinning paper wing slow your egg?"
    ],
-   "your_turn": "Now invent your own lander. Draw it, build it, drop it, and improve it. Can you make it survive from higher up?",
+   "your_turn": "Now invent your own lander. Plan it, build it, drop it, and improve it. Can you make it survive from higher up?",
    "context": "This is an engineering challenge. Gravity makes the egg speed up as it falls. Your job is to slow it down, or soften the landing, so it does not break.",
    "flow": [
     {
@@ -3348,9 +3348,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Each person draws two ideas before building anything.",
-     "say": "Engineers draw before they build. Draw two ideas. Label which part slows the fall and which part softens the landing.",
-     "kid": "Draw two ideas first. Which part slows the egg down? Which part makes the landing soft?"
+     "do": "Each person plans two ideas before building anything. Draw them, or lay out the materials to show them.",
+     "say": "Engineers plan before they build. Show me two ideas. Which part slows the fall? Which part softens the landing?",
+     "kid": "Plan two ideas first. Draw them, or lay out the materials. Which part slows the egg? Which part softens the landing?"
     },
     {
      "id": "s3",
@@ -3422,7 +3422,7 @@
     "A long ribbon cut in a spiral, which twirls as it falls.",
     "A glider shape, which slides sideways on the air and takes a longer path down."
    ],
-   "your_turn": "Now invent your own slow faller. Draw it, make it, time it, and try to beat your record.",
+   "your_turn": "Now invent your own slow faller. Plan it, make it, time it, and try to beat your record.",
    "context": "This is a design challenge. Gravity pulls every shape of paper just the same. Only the air can slow it. Your job is to make the air slow the paper as much as possible.",
    "flow": [
     {

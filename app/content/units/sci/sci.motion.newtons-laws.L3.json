@@ -562,8 +562,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play one practice card together: the marble rolling onto a towel.",
-     "say": "Practice card. A marble rolls onto a towel. Keep going or change?",
-     "kid": "Practice card. A marble rolls onto a towel. Keep going or change? Say your answer.",
+     "say": "Let's try one card together first. Picture a marble rolling onto a towel.",
+     "kid": "Practice card. Think about the marble. Say 'keep going' or 'change'.",
      "check": {
       "t": "mcq",
       "q": "A marble rolls onto a towel. Keep going or change?",
@@ -659,8 +659,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Do one practice with the 'brakes suddenly' card, then put it back and shuffle.",
-     "say": "Practice card. The bus brakes suddenly. Which way do you lean?",
-     "kid": "The bus brakes suddenly. Which way do you lean?",
+     "say": "Practice card. The bus brakes suddenly. Lean the way your body would go.",
+     "kid": "Hold the chair, lean, and freeze.",
      "check": {
       "t": "mcq",
       "q": "The bus brakes suddenly. Which way does a passenger lean?",
@@ -685,7 +685,7 @@
      "mins": 2,
      "do": "Ask which card fooled people most.",
      "say": "Which card fooled you? Why does steady speed feel like standing still?",
-     "kid": "Which card fooled you? Why does a smooth ride feel still?",
+     "kid": "Which card fooled you?",
      "ask": [
       {
        "q": "Why does steady speed feel like standing still?",
@@ -705,7 +705,7 @@
    "title": "The Walking Drop: where will it land?",
    "mins": 30,
    "days": 1,
-   "context": "This is the main experiment of the unit. You walk past a target and let go of a pair of rolled socks right above it. Where do they land?",
+   "context": "This is the main experiment of the unit. You walk past a target and let go of a pair of rolled socks right above it. Where do they land? You will find out if a dropped thing falls straight down, or keeps moving with you.",
    "question": "If I let go of a pair of rolled socks right above a plate while I am walking, where will they land? Does it change if I walk faster?",
    "predict": "Guess first. Will the socks land on the plate, before it, or past it? Will walking faster change where they land? Why do you think so?",
    "fair_test": "Use the same socks, the same plate and the same height every time: hold the socks at chest height, arm out to the side. Only the walking speed changes: standing still, slow walk, fast walk. Do 3 tries at each speed, because one try can be a fluke. The helper always says 'now' when your hand is right above the plate. Always measure from the centre of the plate to the middle of the socks.",
@@ -749,7 +749,7 @@
      "what": "Guess, then drop the socks over the plate while standing, walking slowly and walking fast. Measure where they land. Then try to hit the plate."
     }
    ],
-   "record": "Fill in the table. Draw two pictures: the path of the socks as you saw them, and as your helper saw them from the side.",
+   "record": "Fill in the table. Then draw the path of the socks as you saw them from the side, or tell your grown-up about it.",
    "setup": [
     {
      "art": "A tiled hall in a flat, with a steel plate on the floor in the middle and a girl standing about 3 metres away holding rolled socks at chest height, arm out to the side.",
@@ -804,7 +804,7 @@
      "mins": 3,
      "do": "1. Put the plate in the middle of a clear floor. 2. Mark a starting line about 2 metres before the plate with a slipper. 3. Show your child how to hold the rolled socks: arm out to the side, at chest height.",
      "say": "We are going to drop these socks right above the plate. First, you guess. If I let go right above the plate while I walk, where will the socks land? On it, before it, or past it? Why do you think so?",
-     "kid": "Look at the plate on the floor. You will walk past it and let go of the socks. Where will they land? On the plate, before it, or past it? Why?",
+     "kid": "Look at the plate on the floor. You will walk past it and let go of the socks right above it. Guess first.",
      "ask": [
       {
        "q": "Where will the socks land, and why do you think so?",
@@ -828,7 +828,7 @@
      "mins": 6,
      "do": "1. Your child walks slowly from the starting line, the way they walk round the flat. 2. You watch from the side and say 'now' when their hand is right above the plate. 3. They let go at 'now', and keep walking. 4. Mark and measure where the socks land. 5. Do it 3 times.",
      "say": "Now walk slowly past the plate. I'll say 'now' when your hand is right above it. Let go at 'now', and keep walking. Don't throw them, just open your hand.",
-     "kid": "Walk slowly past the plate. Let go when your helper says now. Just open your hand. Keep walking. Where did they land?",
+     "kid": "Walk slowly past the plate. Let go when your helper says now. Just open your hand. Keep walking.",
      "parent": "Expect the socks to land past the plate, often about 20 to 50 cm past, in the direction your child was walking. Measure from the centre of the plate to the middle of the socks. If they land on the plate, check that your child is not stopping or pulling the hand back as they let go.",
      "check": {
       "t": "mcq",
@@ -855,7 +855,7 @@
      "mins": 4,
      "do": "1. Swap jobs: you walk and drop, and your child watches from the side, crouching low. 2. Ask them to watch the path of the socks in the air. 3. Then ask what the socks seemed to do when your child was the one walking.",
      "say": "Now you watch from the side, and I'll walk. Watch the socks in the air very carefully. Do they fall straight down, or in a curve?",
-     "kid": "Now you watch from the side. Your helper walks and drops. Watch the socks in the air. Do they fall straight down, or in a curve?",
+     "kid": "Crouch low and watch from the side. Your grown-up walks and drops. Watch the socks in the air.",
      "ask": [
       {
        "q": "What path did the socks take, seen from the side?",
@@ -935,7 +935,7 @@
      "what": "A grown-up boils 2 eggs and mixes them with 2 raw ones. Spin, stop and release each egg. Guess which are raw. Check by cracking one."
     }
    ],
-   "record": "Fill in the table. Draw the inside of a raw egg and a boiled egg, and show with arrows what keeps turning.",
+   "record": "Fill in the table. Draw the inside of a raw egg, with arrows for what keeps turning, or tell your grown-up about it.",
    "setup": [
     {
      "art": "Four white eggs marked A, B, C and D in pencil, sitting on a steel plate on a kitchen counter.",
@@ -1049,7 +1049,7 @@
      "what": "Roll a marble down a ruler ramp onto a towel, a doormat and a bare floor. Measure how far it rolls. Then imagine how far it would roll on ice."
     }
    ],
-   "record": "Fill in the table and draw a bar chart with one bar for each surface.",
+   "record": "Fill in the table. Then make a bar chart with one bar for each surface: draw it, or cut a paper strip as long as each roll and line the strips up.",
    "setup": [
     {
      "art": "A 30 cm ruler with one end resting on a book and the other on the floor, a marble held at the top of its groove.",
@@ -1070,7 +1070,7 @@
      "mins": 4,
      "do": "1. Rest one end of the ruler on the book. 2. Lay the towel flat so the low end of the ruler touches it. 3. Mark a starting line near the top of the ruler with a pencil.",
      "say": "We'll roll this marble down the same ramp onto three floors: a towel, a doormat and the bare floor. Which will it roll furthest on? Which shortest? Why?",
-     "kid": "Make a ramp with the ruler and a book. Which floor will the marble roll furthest on? The towel, the mat or the bare floor? Why?",
+     "kid": "Make a ramp with the ruler and a book. Look at the three floors: the towel, the doormat and the bare floor.",
      "ask": [
       {
        "q": "Put the three surfaces in order, and say why.",
@@ -1112,7 +1112,7 @@
      "mins": 3,
      "do": "Ask your child to imagine smoother and smoother floors. First ice, then something even more slippery. Last, a floor with no friction and no air.",
      "say": "On ice, the marble would slide much further than on tiles. What if the floor were even more slippery than ice? And what if there were no friction and no air at all?",
-     "kid": "Imagine a floor of ice. Then one even more slippery. Then one with no friction and no air. How far would the marble roll?",
+     "kid": "Imagine a floor of ice. Then one even more slippery. Then one with no friction and no air.",
      "ask": [
       {
        "q": "With no friction and no air at all, how far would the marble roll?",
@@ -1141,7 +1141,7 @@
    "title": "The Coin That Stays Behind",
    "mins": 10,
    "days": 1,
-   "context": "This is a quick trick to start the unit. A coin sits on a card on top of a tumbler. You pull the card away slowly, then fast. Where does the coin go?",
+   "context": "This is a quick trick to start the unit. A coin sits on a card on top of a tumbler. You pull the card away slowly, then fast. Where does the coin go? You will find out why the coin does not come along with the card.",
    "materials": [
     {
      "item": "a steel or plastic tumbler",
@@ -1167,7 +1167,7 @@
      "what": "The Coin That Stays Behind"
     }
    ],
-   "record": "Write 'slow pull' and 'fast flick', and draw where the coin went each time.",
+   "record": "Write 'slow pull' and 'fast flick', and write or tell where the coin went each time.",
    "setup": [
     {
      "art": "A steel tumbler with a square of card on top and a coin in the middle of the card.",
@@ -1200,7 +1200,7 @@
      "mins": 3,
      "do": "Talk about what happened. Don't give the answer before your child has tried to explain it.",
      "say": "Nothing pushed the coin into the tumbler. So why did it end up inside?",
-     "kid": "Nothing pushed the coin down. So why did it fall into the tumbler?",
+     "kid": "Think before you choose: what touched the coin, and for how long?",
      "check": {
       "t": "mcq",
       "q": "You flick the card away fast, and the coin drops into the tumbler. Why?",
@@ -1246,7 +1246,7 @@
      "what": "The Water That Keeps Turning"
     }
    ],
-   "record": "Draw the bowl from above with arrows showing how the water moved after you took the spoon out.",
+   "record": "Draw the bowl from above with arrows showing how the water moved after you took the spoon out, or tell your grown-up which way it went.",
    "setup": [
     {
      "art": "A steel bowl of water with tea leaves swirling round, and a spoon being lifted out.",
@@ -1279,7 +1279,7 @@
      "mins": 2,
      "do": "Ask your child to explain both results.",
      "say": "The moving water kept moving, and the still water stayed still. What does that tell you?",
-     "kid": "Moving water kept moving. Still water stayed still. Why?",
+     "kid": "Moving water kept moving. Still water stayed still. Tell your grown-up what you think is going on.",
      "check": {
       "t": "mcq",
       "q": "You stir water in a bowl and lift the spoon out. Why does the water keep turning?",
@@ -1317,7 +1317,7 @@
      "what": "The Carrom Tower"
     }
    ],
-   "record": "Write how many tries it took to knock out only the bottom coin, and draw the tower before and after.",
+   "record": "Write how many tries it took to knock out only the bottom coin, and take a photo of the tower before and after, or tell your grown-up what the top coins did.",
    "setup": [
     {
      "art": "A tower of six carrom coins stacked on a carrom board, and a striker placed flat on the board a hand-width away, aimed at the bottom coin.",
@@ -1350,7 +1350,7 @@
      "mins": 2,
      "do": "Talk about why the fast hit works.",
      "say": "Why did the coins on top drop straight down instead of flying off?",
-     "kid": "Why did the top coins drop straight down instead of flying off?",
+     "kid": "Flick again. This time watch only the top coins.",
      "ask": [
       {
        "q": "Why did the top coins stay in place and drop straight down?",
@@ -1390,7 +1390,7 @@
      "what": "Tumbler on a Tray: start, stop and turn"
     }
    ],
-   "record": "Draw the tray and tumbler three times: starting, stopping and turning. Show with an arrow which way the water slopped.",
+   "record": "Tell your grown-up which way the water slopped when starting, stopping and turning. Then draw the tray once with an arrow for the stop, or skip the drawing.",
    "setup": [
     {
      "art": "A tumbler of water on a tray held by two small hands, the tray pulled forward suddenly and the water tilted up at the back of the tumbler.",
@@ -1423,7 +1423,7 @@
      "mins": 4,
      "do": "Talk about what happens to passengers in a bus or an auto-rickshaw when it brakes.",
      "say": "When the bus brakes suddenly, which way do the passengers lurch? Is that like the water?",
-     "kid": "When a bus brakes, which way do people lurch? Why? Is it like the water?",
+     "kid": "Think of a bus braking. Is it like the water in the tumbler?",
      "check": {
       "t": "mcq",
       "q": "You are standing in a city bus. The bus brakes suddenly. Which way does your body lurch?",
@@ -1515,7 +1515,7 @@
    "title": "The Dough Passenger",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make a small atta-dough passenger, give them a ride on a toy car, and crash the car gently into a book. Then you give them a seatbelt.",
+   "context": "In this activity you make a small atta-dough passenger, give them a ride on a toy car, and crash the car gently into a book. Then you give them a seatbelt. You will find out why a seatbelt is needed.",
    "materials": [
     {
      "item": "a toy car or a small toy truck",
@@ -1545,7 +1545,7 @@
      "what": "The Dough Passenger"
     }
    ],
-   "record": "Draw where the passenger landed without a seatbelt and with one.",
+   "record": "Show where the passenger landed without a seatbelt and with one: mark each place with a coin, take a photo, or tell your grown-up.",
    "setup": [
     {
      "art": "A small atta-dough figure sitting on a toy car at the top of a tray propped on two books, with a heavy book as a wall at the bottom.",
@@ -1589,7 +1589,7 @@
      "mins": 3,
      "do": "Talk about real seatbelts and helmets.",
      "say": "Why does everyone in a car need to wear a seatbelt, even in the back seat?",
-     "kid": "Why should everyone in a car wear a seatbelt, even at the back?",
+     "kid": "Think about the dough passenger. What would happen to a real person?",
      "check": {
       "t": "mcq",
       "q": "In the dough passenger test, what does the rubber band seatbelt do?",
@@ -1632,7 +1632,7 @@
      "what": "Swing It and Let Go"
     }
    ],
-   "record": "Draw the circle from above, and a line showing the way the sock flew off.",
+   "record": "Show the circle and the straight line the sock took after you let go: draw them, or lay a string on the floor in those shapes.",
    "setup": [
     {
      "art": "A girl in an empty room swinging a sock on a string in a slow, low circle beside her.",
@@ -1667,7 +1667,7 @@
      "mins": 2,
      "do": "Talk about why the sock flew off straight.",
      "say": "Why did the sock go straight once you let go?",
-     "kid": "Why did the sock fly straight?",
+     "kid": "Do it once more. Watch the sock just after you let go.",
      "ask": [
       {
        "q": "Why did the sock go straight when you let go?",
@@ -1801,7 +1801,7 @@
     "An air bag: a small balloon, half blown up, taped in front of the passenger.",
     "A soft wall instead of a hard book: does that help as much as changing the car?"
    ],
-   "your_turn": "Now invent your own way to save the passenger. Draw it, build it, and test it 3 times. Which part helped most?",
+   "your_turn": "Now invent your own way to save the passenger. Build it, and test it 3 times. Which part helped most?",
    "setup": [
     {
      "art": "A tray propped on three books, a toy car with a dough passenger at the top, and a book wall at the bottom.",
@@ -1827,9 +1827,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Your child draws a design, then builds it from home materials.",
-     "say": "What will keep the passenger on? What will make the stop gentler? Draw your idea first, then build it.",
-     "kid": "Draw your idea first. Then build it. Keep the passenger on. Make the stop gentle."
+     "do": "Your child tells or sketches a plan, then builds it from home materials.",
+     "say": "What will keep the passenger on? What will make the stop gentler? Tell me your idea first, or sketch it. Then build it.",
+     "kid": "Tell your idea first, or sketch it. Then build it. Keep the passenger on. Make the stop gentle."
     },
     {
      "id": "s3",
@@ -1892,7 +1892,7 @@
      "mins": 15,
      "do": "Your child builds a glider and tests it.",
      "say": "What slows the plate down? How can you make less of it?",
-     "kid": "What slows the plate down? Build a glider with less friction. Test it.",
+     "kid": "Build a glider with less friction. Test it.",
      "parent": "Friction is what slows it. Rolling on marbles or wheels gives much less friction than sliding. Children often discover this on their own."
     },
     {

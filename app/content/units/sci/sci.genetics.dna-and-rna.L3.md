@@ -205,17 +205,17 @@ Arjun held out his hand and looked at it for a long time.
 
 ## Games
 ### g1 · Creature Code: build a creature from four letters (15 min)
-- **rules:** Shuffle the code cards and put them face down.; Each player takes one code card and keeps it secret. With two players, each of you takes one of the two ATCG cards, so you can compare.; Everyone uses the key to draw their creature, one letter at a time.; When all have finished, show the creatures. Can the others guess your code from your creature?; If two players hold the same code, such as ATCG, put their creatures side by side. What is the same, and what is different?; Play again with new cards. If you are playing alone, draw three creatures. The next day, work out each code from the drawing.
+- **rules:** Shuffle the code cards and put them face down.; Each player takes one code card and keeps it secret. With two players, each of you takes one of the two ATCG cards, so you can compare.; Everyone uses the key to draw or build their creature, one letter at a time.; When all have finished, show the creatures. Can the others guess your code from your creature?; If two players hold the same code, such as ATCG, put their creatures side by side. What is the same, and what is different?; Play again with new cards. If you are playing alone, draw three creatures. The next day, work out each code from the drawing.
 - **Printable cards: Key card (print one for each player, or share one):** THE KEY. Letter 1 is the body: A round, T long, C square, G triangle. Letter 2 is the legs: A two, T four, C six, G no legs. Letter 3 is the eyes: A one, T two, C three, G five. Letter 4 is something extra: A wings, T a tail, C horns, G spots.
 - **Printable cards: 12 code cards to cut out:** ATCG; TACG; CGTA; GTAC; AATT; CCGG; TTAA; GGCC; ACTG; ATCG; CATG; TACG
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the key and the code cards. 2. Give each player a key, paper and a pencil. 3. Shuffle the code cards.  
   *Parent says:* Each code card has four letters, like a tiny piece of DNA. Each letter gives one instruction. Let's see what creature your code builds.  
-  *Child mode:* Take a code card. Keep it secret. Each letter tells you one part to draw.
+  *Child mode:* Take a code card. Keep it secret. Each letter tells you one part of the creature.
 - **s2 (7 min)**  
-  *Parent does:* Everyone draws their creature from their code, letter by letter.  
+  *Parent does:* Everyone draws their creature from their code, letter by letter. Anyone who prefers can build it from clay or paper shapes.  
   *Parent says:* Draw the body first, from letter 1. Then the legs from letter 2, the eyes from letter 3 and the extra from letter 4.  
-  *Child mode:* Letter 1 is the body. Letter 2 is legs. Letter 3 is eyes. Letter 4 is the extra. Draw!
+  *Child mode:* Check each letter on the key. Draw each part, or build it from clay or paper shapes.
 - **s3 (5 min)**  
   *Parent does:* Show the creatures. Guess each other's codes. Put any matching codes side by side.  
   *Parent says:* These two creatures come from the same code. Are they the same? What is different about them?  
@@ -234,8 +234,8 @@ Arjun held out his hand and looked at it for a long time.
   *Child mode:* Turn over two cards. A pair? Say one thing that seed will build.
 - **s3 (2 min)**  
   *Parent does:* Count the pairs and ask the last question.  
-  *Parent says:* A mango stone and a mustard seed both fall on the same soil. Why do they grow so differently?  
-  *Child mode:* A mango stone and a mustard seed land in the same soil. Why do they grow differently?
+  *Parent says:* Let's count the pairs. Then here is a puzzle about two seeds in the same soil.  
+  *Child mode:* Count your pairs. Then answer the puzzle.
   - Check: A mango stone and a mustard seed fall on the same soil and get the same rain. Why does one grow into a tree and the other into a small plant? → **Each seed carries their own instructions, in their DNA**
 
 ## Experiments
@@ -243,13 +243,13 @@ Arjun held out his hand and looked at it for a long time.
 - **question:** If moong, methi and mustard seeds grow on the same wet cotton, with the same water and light, will their seedlings look the same?
 - **predict:** Guess first. Will the three kinds of seedling look the same, or different? Which kind will sprout first? Which will be tallest on day 4? Why do you think so?
 - **fair test:** All the seeds lie on the same cotton, on one plate, in one place, and get the same water. Only the kind of seed changes. We use five seeds of each kind, because one seed might be old or damaged.
-- **record:** Fill in the results table. Draw one seedling of each kind on day 4, as big as you can, showing the shape of the two seed leaves.
-- **results table:** Kind of seed | Day the first root showed | How many of 5 sprouted | Height of the tallest on day 4 (cm) | Drawing of the seed leaves
-- **schedule:** day 1: Guess what will happen. Lay out three rows of seeds on wet cotton. Put the plate by a window. (15 min); day 2: Add a spoon or two of water. Write down which seeds show a root. (3 min); day 3: Add water. Look for stems standing up. (2 min); day 4: Look closely, measure and draw the seed leaves. Compare the three kinds. Say what you think, what you saw and why. (15 min)
+- **record:** Fill in the results table. Draw one seedling of each kind on day 4, as big as you can, showing the shape of the two seed leaves. Or take a photo of each.
+- **results table:** Kind of seed | Day the first root showed | How many of 5 sprouted | Height of the tallest on day 4 (cm) | Drawing or photo of the seed leaves
+- **schedule:** day 1: Guess what will happen. Lay out three rows of seeds on wet cotton. Put the plate by a window. (15 min); day 2: Add a spoon or two of water. Write down which seeds show a root. (3 min); day 3: Add water. Look for stems standing up. (2 min); day 4: Look closely, measure, and draw or photograph the seed leaves. Compare the three kinds. Say what you think, what you saw and why. (15 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Put one seed of each kind on your child's palm. 2. Ask for a guess and a reason before anything else.  
-  *Parent says:* These three seeds will get the same cotton, the same water and the same light. Will they grow into seedlings that look the same? Why do you think so?  
-  *Child mode:* Look at the three seeds. They will get the same water and light. Will they grow the same? Why do you think so?
+  *Parent says:* These three seeds will get the same cotton, the same water and the same light. Let's guess what will happen.  
+  *Child mode:* Look at the three seeds in your hand. Make a guess, then tell us your reason.
   - Ask: Will the seedlings look the same or different? Why? (good: Different, because they are different kinds of seed.; The same, because they get the same things.; Any guess with a reason is a good start.)
   - Note: Do not tell your child the answer. Write their guess and their reason at the top of the results table. Ask which will sprout first, and which will be tallest, too.
 - **s2 (8 min)**  
@@ -259,8 +259,8 @@ Arjun held out his hand and looked at it for a long time.
   - Note: Kitchen moong, methi and mustard nearly always sprout. If one kind does not sprout by day 3, the seeds may be old or roasted. Try fresh seeds from a new packet. A puddle can make seeds rot, so keep the cotton wet but with no puddle.
 - **s3 (3 min)**  
   *Parent does:* 1. Put the plate on a window ledge or table in bright light. 2. Keep it out of hot afternoon sun, which can dry the cotton in a few hours.  
-  *Parent says:* All three rows sit in the same place on the same plate. Why does that matter?  
-  *Child mode:* Put the plate by a bright window. Why must all three rows be on one plate?
+  *Parent says:* All three rows sit in the same place on the same plate.  
+  *Child mode:* Put the plate by a bright window, out of hot sun.
   - Check: Why do all three kinds of seed share one plate of cotton, in one place? → **So the water, light and warmth are the same, and only the kind of seed is different**
 - **s4 (5 min)**  
   *Parent does:* 1. Day 2: add one or two spoons of water if the cotton feels dry. Look for tiny white roots and write down which seeds have one. 2. Day 3: add water again and look for stems standing up.  
@@ -269,9 +269,9 @@ Arjun held out his hand and looked at it for a long time.
   - Note: The first thing out of a seed is the root. It always grows downwards. Stems come up a day later.
   - Wait: Day 2 and day 3
 - **s5 (8 min)**  
-  *Parent does:* 1. Day 4: look at each row with the magnifying glass. 2. Measure the tallest seedling in each row, from the cotton to the top. 3. Draw one seedling of each kind, showing the shape of the two seed leaves.  
+  *Parent does:* 1. Day 4: look at each row with the magnifying glass. 2. Measure the tallest seedling in each row, from the cotton to the top. 3. Draw one seedling of each kind, showing the shape of the two seed leaves, or take a photo of each.  
   *Parent says:* Look closely at the first two leaves on each seedling. These are called seed leaves. They were folded up inside the seed. Are they the same shape in all three rows?  
-  *Child mode:* Look at the first two leaves on each seedling. These are seed leaves. Draw one of each kind. Are they the same shape?
+  *Child mode:* Look at the first two leaves on each seedling. These are seed leaves. Draw one of each kind, or take a photo. Are they the same shape?
   - Note: You should see three clear shapes. Moong has a thick stem with the two fat halves of the bean on top, and two small pointed leaves between them. Methi has two small smooth oval leaves. Mustard has two tiny heart-shaped leaves, each with a notch at the top. If the seedlings are still small, wait one more day.
   - Wait: Day 4
 - **s6 (3 min)**  
@@ -288,13 +288,13 @@ Arjun held out his hand and looked at it for a long time.
 - **question:** Kala chana seeds from one packet come in different sizes. Will the biggest seeds grow taller seedlings than the smallest ones? Will their leaves be a different shape?
 - **predict:** Guess first. After a week, will the seedlings from big seeds be taller, shorter or the same as those from small seeds? Will the leaves be a different shape? Why do you think so?
 - **fair test:** Big and small seeds come from the same packet, so they are the same kind. They grow on the same plate, side by side, with the same water and light. Only the seed size changes. We use 5 of each size, because one seed alone could be a fluke.
-- **record:** Fill in the table. Draw one leaf from a big-seed seedling and one from a small-seed seedling, side by side.
+- **record:** Fill in the table. Draw one leaf from a big-seed seedling and one from a small-seed seedling, side by side. Or take a photo of each.
 - **results table:** Seed | Height of each of the 5 seedlings on day 7 (cm) | Total of the 5 heights (cm) | Shape of the leaves
 - **schedule:** day 1: Pick the 5 biggest and the 5 smallest chana. Soak them for about 8 hours, or overnight. (12 min); day 2: Lay them in two labelled rows on wet cotton by a window. (5 min); day 3: Add a spoon of water. Look for roots. (2 min); day 4: Add a spoon of water. (1 min); day 5: Add a spoon of water. (1 min); day 6: Add a spoon of water. (1 min); day 7: Measure all ten seedlings. Add up each row. Compare the leaves. (8 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Pour out a handful of kala chana. 2. Ask your child to pick the 5 biggest and the 5 smallest.  
   *Parent says:* All these chana are the same kind, from one packet. Will the big ones grow taller seedlings than the small ones? Why do you think so?  
-  *Child mode:* Pick the five biggest chana and the five smallest. Will the big ones grow taller? Why?
+  *Child mode:* Pick the five biggest chana and the five smallest. Keep them in two piles.
   - Ask: Why might a bigger seed grow a bigger seedling? (good: It has more food packed inside.; It is stronger.; Any reason is a good start.)
   - Note: Write the guess and reason down. Keep the two groups apart on two pieces of paper marked BIG and SMALL.
 - **s2 (6 min)**  
@@ -332,37 +332,37 @@ Arjun held out his hand and looked at it for a long time.
 
 ## Activities
 ### a1 · Seed Faces: what is hiding in a seed? (8 min)
-- **record:** Draw each seed, and beside each one, draw your guess of the leaf that will grow from it.
+- **record:** Draw your guess of the leaf that will grow from each seed. Or tell your grown-up about the leaf.
 - **s1 (4 min)**  
-  *Parent does:* 1. Put one moong, one methi and one mustard seed on white paper. 2. Let your child look with the magnifying glass and draw each one.  
-  *Parent says:* What do you notice about these three seeds? What do you wonder about them?  
-  *Child mode:* Look at the three seeds closely. What do you notice? Draw each one.
+  *Parent does:* 1. Put one moong, one methi and one mustard seed on white paper. 2. Let your child pick each one up and look with the magnifying glass.  
+  *Parent says:* Take your time. Pick the seeds up and turn them over. What do you wonder about them?  
+  *Child mode:* Look at the colour, shape and size of each seed.
   - Ask: What do you notice? (good: Moong is green and smooth.; Methi is yellow and has a corner, with a little groove.; Mustard is round, tiny and dark.)
 - **s2 (4 min)**  
-  *Parent does:* Ask your child to draw a guess of the leaf each seed will grow.  
-  *Parent says:* Each of these seeds can grow into a whole plant. Where is the plant now? Draw the leaf you think each one will grow.  
-  *Child mode:* Each seed can grow a whole plant. Where is the plant now? Draw your guess of each leaf.
-  - Note: There is no wrong answer to the drawing. The answer to the question is that the whole plant is already inside the seed, folded up very small, with their instructions. Keep the drawings, and compare them with the real seed leaves at the end of the Three Seeds experiment.
+  *Parent does:* Ask your child to guess the leaf each seed will grow, by drawing the leaf or describing the leaf.  
+  *Parent says:* Each of these seeds can grow into a whole plant. Where is the plant now?  
+  *Child mode:* Guess the leaf each seed will grow. Draw the leaf, or tell your grown-up.
+  - Note: There is no wrong answer to the drawing. The answer to the question is that the whole plant is already inside the seed, folded up very small, with their instructions. Keep the guesses, and compare them with the real seed leaves at the end of the Three Seeds experiment.
 ### a2 · Same Letters, New Picture: the four-letter code (15 min)
 - **problem:** DNA is written with only four letters. In this activity each letter is a colour. You colour three grids that use the same letters in different orders, and see whether the order changes the picture.
 - **record:** Stick the three coloured grids side by side and write the code under each.
 - **s1 (3 min)**  
   *Parent does:* 1. Write the key at the top of the page: A red, T yellow, C blue, G green. 2. Draw three 4 by 4 grids.  
   *Parent says:* DNA has only four letters: A, T, C and G. Today each letter is a colour. Every code fills one grid, row by row, from left to right.  
-  *Child mode:* DNA has four letters: A, T, C, G. Here each letter is a colour. Fill each grid row by row.
+  *Child mode:* Look at the key: A red, T yellow, C blue, G green.
 - **s2 (8 min)**  
   *Parent does:* Read out the three codes, one row at a time. Grid 1: AATT, AATT, CCGG, CCGG. Grid 2: ATAT, CGCG, ATAT, CGCG. Grid 3: ACGT, ACGT, ACGT, ACGT.  
   *Parent says:* Here is the first code. Row 1 is A, A, T, T. Colour each square as I read it.  
-  *Child mode:* Listen to each code. Colour one square for each letter.
+  *Child mode:* Listen to each code. Colour one square for each letter, or put a coloured button on it.
   - Note: Each grid uses four A, four T, four C and four G. Only the order changes. Grid 1 makes four big blocks. In grid 2, rows 1 and 3 switch between red and yellow, and rows 2 and 4 switch between blue and green. Grid 3 makes four coloured columns.
 - **s3 (4 min)**  
   *Parent does:* Lay the three grids side by side and ask the questions.  
-  *Parent says:* How many red squares are in each grid? So what made the pictures different?  
-  *Child mode:* Count the red squares in each grid. Same number? Then why do they look different?
+  *Parent says:* How many red squares are in each grid?  
+  *Child mode:* Count the red squares in each grid. Is it the same number?
   - Check: All three grids use four of each letter. What makes the pictures different? → **The order of the letters**
 ### a3 · The RNA Kitchen: copy one recipe, make one drink (20 min)
 - **problem:** In this activity you act out how a cell uses RNA. The recipe book stands for DNA, which stays safe in one place. Your slip of paper stands for RNA, a copy of just one recipe. The drink you make stands for a protein, which the cell builds by following the copy.
-- **record:** Draw a cell as a big circle with a smaller circle inside for the nucleus. Draw the book in the nucleus, the slip on its way out, and the glass of neer mor outside.
+- **record:** Lay a loop of string for the cell, with the book inside it, the slip at the edge and the glass of neer mor outside. Take a photo, or draw it.
 - **s1 (5 min)**  
   *Parent does:* 1. Put the recipe book in a room away from the kitchen. 2. Ask your child to find the neer mor recipe and copy it onto the slip, word by word. 3. The book stays where it is.  
   *Parent says:* The book stays in this room, safe from splashes. Copy only the recipe we need onto the slip.  
@@ -373,23 +373,23 @@ Arjun held out his hand and looked at it for a long time.
   *Parent says:* Read the slip and follow it, one line at a time.  
   *Child mode:* Read your slip. Follow it, one line at a time. Taste it!
 - **s3 (7 min)**  
-  *Parent does:* Ask the questions while you drink. Then draw the cell, the book, the slip and the glass of neer mor together.  
+  *Parent does:* Ask the questions while you drink. Then lay the string in a big loop for the cell. Put the book inside it, the slip at the edge and the glass outside.  
   *Parent says:* In a cell, the DNA is like the book. It stays in the nucleus. The cell copies one gene into RNA, like your slip. A tiny part called a ribosome reads the RNA and builds a protein, like your drink. Why do you think the cell copies the gene instead of sending out the DNA?  
-  *Child mode:* The book is like DNA. The slip is like RNA. Why does a cell make a copy, instead of sending out the DNA?
+  *Child mode:* The book is DNA. The slip is RNA. The drink is a protein. Point to each one.
   - Note: Good answers: the book stays safe from spills, the cell needs many copies of some recipes at once, and old copies can be thrown away. All of these are true of cells too.
   - Check: In a cell, what is like the slip of paper? → **RNA**
 ### a4 · Two Metres in a Speck: how much DNA is in one cell? (10 min)
 - **problem:** Every cell in your body holds about 2 metres of DNA, which is longer than most grown-ups are tall. A cell is far too small to see, so the DNA must be folded up very small. You measure 2 metres of thread and try to wind it up as small as you can.
-- **record:** Draw yourself next to a 2-metre line, and next to that a dot for the nucleus.
+- **record:** Take a photo of yourself next to the 2-metre thread, and tell someone how all of it fits inside one tiny nucleus.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the measuring tape on the floor. 2. Unroll thread along it to 2 metres. 3. Cut it.  
   *Parent says:* If you stretched out all the DNA in just one of your cells, it would be about this long, 2 metres.  
-  *Child mode:* Measure 2 metres of thread. That is how long the DNA in one of your cells is.
+  *Child mode:* Measure 2 metres of thread. That is how long the DNA in one of your cells is. Which is longer, you or the thread?
   - Note: 2 metres is taller than most grown-ups. Lay the thread next to a grown-up who is lying down, to compare.
 - **s2 (6 min)**  
   *Parent does:* 1. Ask your child to wind the thread into a ball as small as they can. 2. Then ask the question.  
   *Parent says:* A cell folds all this into a nucleus far smaller than the full stop at the end of a sentence. DNA is about a hundred thousand times thinner than this thread. How do you think a cell keeps it from tangling?  
-  *Child mode:* Wind it into a tiny ball. Your cells fold DNA much smaller. How do they stop it tangling?
+  *Child mode:* Wind the thread into a ball as small as you can.
   - Note: A cell winds DNA around tiny spools made of protein, and then coils the spools up again and again. Each tightly wound piece is a chromosome. Most of your cells have 46. Any thoughtful guess, such as 'wind it round something', is a good answer.
 ### a5 · Who Gave Me What? A family look-alike hunt (15 min)
 - **record:** Make three lists: features that may come from DNA, features from what happened to me, and features from both.
@@ -401,22 +401,22 @@ Arjun held out his hand and looked at it for a long time.
 - **s2 (8 min)**  
   *Parent does:* Help your child sort their features into three lists: DNA, my life, and both.  
   *Parent says:* Some features come from your DNA. Some come from what happened to you, like a scar or a haircut. Some come from both. Where would you put your height?  
-  *Child mode:* Sort your features. DNA, my life, or both? Where does a scar go? Your height?
+  *Child mode:* Sort your features into DNA, my life, or both.
   - Check: A girl has a small scar on her knee from a fall. Where did the scar come from? → **From what happened to her**
 
 ## Projects
 ### p1 · The Sprout Album: watch the instructions unfold (50 min, 10 days)
-- **record:** One page per drawing day, with the date, a drawing of each kind and their heights.
-- **schedule:** day 1: Draw one seedling of each kind. Measure them. (5 min); day 3: Draw them again. Has anything new appeared? (5 min); day 5: Move one of each kind into a cup of soil, if you have soil. Draw them. (15 min); day 7: Draw again. Look for the first true leaves between the seed leaves. (10 min); day 10: Draw the last page. Lay out all the pages and compare the three kinds. (15 min)
+- **record:** One page for each check, with the date, a drawing or photo of each kind and their heights.
+- **schedule:** day 1: Draw one seedling of each kind. Measure them. (5 min); day 3: Measure them again. Has anything new appeared? (5 min); day 5: Move one of each kind into a cup of soil, if you have soil. Draw them. (15 min); day 7: Draw again. Look for the first true leaves between the seed leaves. (10 min); day 10: Draw the last page. Lay out all the pages and compare the three kinds. (15 min)
 - **s1 (5 min)**  
-  *Parent does:* Draw one seedling of each kind, as big as the page allows. Write the date and each height.  
+  *Parent does:* Draw one seedling of each kind, as big as the page allows, or take a photo of each. Write the date and each height.  
   *Parent says:* Each seedling is following their own instructions. Let's draw them every few days and see what they build next.  
-  *Child mode:* Draw one of each kind. Write the date. Measure each one.
+  *Child mode:* Draw or photograph one of each kind. Write the date. Measure each one.
   - Note: Start on day 4 of the Three Seeds test, so the seedlings are already up. If you use a fresh plate, put the seeds on wet cotton four days before this page.
 - **s2 (5 min)**  
-  *Parent does:* Day 3: draw them again, and measure them. Has anything new appeared?  
+  *Parent does:* Day 3: measure them again and look at page one. Has anything new appeared?  
   *Parent says:* What has changed since the first page?  
-  *Child mode:* Draw each seedling again. What is new?
+  *Child mode:* Measure each seedling again. Tell your grown-up what is new.
   - Wait: Day 3
 - **s3 (15 min)**  
   *Parent does:* 1. Day 5: fill three cups with soil from a potted plant. 2. Make a hole with a pencil and lower one seedling of each kind in, root first. 3. Water gently.  
@@ -425,15 +425,15 @@ Arjun held out his hand and looked at it for a long time.
   - Note: No soil? Keep them on the cotton. They will still grow for a few more days, though more slowly. Soil from a potted plant, or a small bag from any plant nursery, is enough.
   - Wait: Day 5
 - **s4 (10 min)**  
-  *Parent does:* Draw them again. Look between the seed leaves with the magnifying glass.  
+  *Parent does:* Day 7: look between the seed leaves with the magnifying glass. Draw or photograph what you see.  
   *Parent says:* Look between the seed leaves. Is something new growing there? Does it look like the seed leaves?  
-  *Child mode:* Look between the seed leaves. Can you see new leaves? Draw them.
+  *Child mode:* Add a new page. Draw or photograph the new leaves, if you can see any.
   - Note: The first true leaves look different from the seed leaves. Methi's true leaves come in threes, like the methi leaves sold in the market. Mustard's are rougher, with wavy edges. Moong's first true leaves are a pair of pointed leaves. Leaves may come a few days late in a cool or dim room.
   - Wait: Day 7
 - **s5 (15 min)**  
   *Parent does:* Day 10: lay out all the pages in order and talk about them.  
   *Parent says:* Look at all your pages together. Did any seedling ever grow the wrong kind of leaf? What does that tell you?  
-  *Child mode:* Lay out all your pages. Did any plant grow the wrong kind of leaf?
+  *Child mode:* Lay out all your pages in order. Look at the leaves on every page.
   - Check: A seedling first opens seed leaves, and later grows true leaves of a different shape. Did the seedling get new instructions? → **No, the same DNA has the instructions for both, used at different times**
   - Wait: Day 10
 
@@ -446,8 +446,8 @@ Arjun held out his hand and looked at it for a long time.
 - **creative:** Use groups of three letters, like a ribosome does. With four letters there are 64 different groups of three, enough for many shapes and colours.; Add a 'start' group and a 'stop' group, so your partner knows where the pattern begins and ends. Cells use start and stop groups too.; Make one letter change, and see how much your partner's drawing changes.
 - **s1 (8 min)**  
   *Parent does:* Your child draws a simple kolam or pattern on squared or dot paper, and hides it.  
-  *Parent says:* A cell builds a whole body from a line of four letters. Can you write your pattern as a line of four letters?  
-  *Child mode:* Draw a small pattern. Hide it. Can you write it with only A, T, C and G?
+  *Parent says:* A cell builds a whole body from a long line of four kinds of letters. Can you write your pattern as a line of A, T, C and G?  
+  *Child mode:* Make a small pattern with a pencil or with coins. Hide it from your partner.
 - **s2 (10 min)**  
   *Parent does:* Your child writes a key and a code. A partner draws from them without seeing the pattern.  
   *Parent says:* Write a key that says what each letter means. Then write the code. Your partner may not peek.  
@@ -455,7 +455,7 @@ Arjun held out his hand and looked at it for a long time.
 - **s3 (12 min)**  
   *Parent does:* Compare the two drawings and talk about the questions.  
   *Parent says:* Do the two drawings match? If not, was the code unclear, or did your partner read it wrong? What would you change?  
-  *Child mode:* Do the drawings match? What went wrong? How could your code be clearer?
+  *Child mode:* Put the two drawings side by side. Point to every part that is different.
   - Note: Mismatches are the best part. They show why a cell needs a clear code that every part reads the same way. Ask: if one letter was copied wrong, how much would the drawing change?
 
 ## Worksheets

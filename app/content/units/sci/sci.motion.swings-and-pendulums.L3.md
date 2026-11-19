@@ -207,11 +207,11 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Deal 6 to each player. 3. Read the rules aloud.  
   *Parent says:* Each card describes a pendulum. The quickest swing wins the round. Think about what you found in the swing test.  
-  *Child mode:* Take 6 cards. Each one is a pendulum. The quickest swing wins.
+  *Child mode:* Take 6 cards. Each card describes one pendulum.
 - **s2 (2 min)**  
   *Parent does:* Play a practice round with two cards: 'String 50 cm, bob 1 coin' and 'String 50 cm, bob 5 coins, wide start'.  
   *Parent says:* Practice round. Both strings are 50 centimetres. One has 5 coins and a wide start. Which one wins?  
-  *Child mode:* Two cards, both 50 cm. One has more coins. Which is quicker?
+  *Child mode:* Look at the two cards. Think about what the swing test showed.
   - Check: Two pendulums are both 50 cm long. One has 1 coin. The other has 5 coins and a wide start. Which swings quicker? → **They take about the same time**
 - **s3 (8 min)**  
   *Parent does:* Play the rounds. Before judging each round, ask each player to say which card wins and why.  
@@ -222,7 +222,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 - **s4 (2 min)**  
   *Parent does:* Add up the points. Then pick the slowest card in the whole pack together.  
   *Parent says:* Which card in the whole pack is the slowest swinger? Why?  
-  *Child mode:* Find the slowest card in the pack. Why is it the slowest?
+  *Child mode:* Look through all the cards. Find the slowest swinger.
   - Ask: Which is the slowest card, and why? (good: The 4 metre string, because it is the longest.; The bucket and the coin on 4 metres tie, because weight doesn't matter.)
 ### g2 · Pendulum Says: an acting game (10 min)
 - **rules:** Everyone except the caller stands with space around them and lets one arm hang down like a pendulum.; The caller starts everyone swinging gently at a steady beat.; The caller reads only the words in capitals on a card, not the words in brackets. Everyone changes their swing to match.; The caller watches each player and marks a tick for a right swing or a cross for a wrong one on the beat check sheet.; Take turns being the caller. When all 12 cards are read, the player with the most ticks wins.
@@ -315,7 +315,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 - **question:** Does a pendulum that pushes more air stop swinging sooner?
 - **predict:** We will tape a postcard to the thread just above the coins. Will the pendulum with the card stop swinging sooner, later or at the same time? Will each swing take longer? Why do you think so?
 - **fair test:** Use the same length, the same coins and the same start for both. Change only the card. Both times, stop the stopwatch when the bag no longer reaches the 10 cm mark.
-- **record:** Write both times. Draw the two pendulums and show with arrows where the air pushes.
+- **record:** Write both times. Then tell your grown-up why the card made a difference, or draw the two pendulums with arrows where the air pushes.
 - **results table:** Pendulum | Seconds until it no longer reaches the 10 cm mark | Seconds for 10 swings at the start
 - **s1 (5 min)**  
   *Parent does:* 1. Set up the 50 cm coin pendulum. 2. Stand a shoebox (or a stack of books) under it and lay a paper strip about 50 cm long on top. 3. Raise the strip until it is just under the resting bag. 4. Centre the strip under the bag. 5. Mark 10 cm and 20 cm each side of the middle.  
@@ -348,12 +348,12 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 - **s1 (3 min)**  
   *Parent does:* 1. Hold the key ring between finger and thumb so the keys hang down. 2. Pull them a little to one side and let go. 3. Watch together.  
   *Parent says:* Watch the keys. What do you notice? Where do they go fastest? Where do they stop?  
-  *Child mode:* Let the keys swing. What do you notice? Where are they fastest?
+  *Child mode:* Let the keys swing and watch. Where are they fastest?
   - Ask: What do you notice? (good: They swing back and forth.; They are fastest at the bottom.; They stop for a moment at each end.)
 - **s2 (3 min)**  
   *Parent does:* Give a tiny push, then a big push. Then hang the keys from a shoelace. Try the lace long, then short.  
   *Parent says:* Now a tiny push, then a big one. Does the big push make each swing quicker, or only wider?  
-  *Child mode:* Try a tiny push. Then a big push. Is the big one quicker?
+  *Child mode:* Try a tiny push, then a big push. Watch how long each swing takes.
   - Note: Do not give the answer. Your child will test this properly in the Swing Test.
 - **s3 (2 min)**  
   *Parent does:* Ask for a guess and write it down.  
@@ -375,12 +375,12 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
   - Ask: What happened when you shook it fast? (good: It just jiggled and stayed small.; The pushes didn't match the swing.)
 - **s3 (3 min)**  
   *Parent does:* Talk about a playground swing.  
-  *Parent says:* When do you push a friend on a swing, so that they go higher? Why does that work?  
-  *Child mode:* When should you push a friend on a swing? Why?
+  *Parent says:* Think of pushing a friend on a swing. Pick the best moment to push.  
+  *Child mode:* Imagine pushing a friend on a swing. When do you push?
   - Check: You push your friend on a swing. When should you push, to make them go higher? → **Just as they start to swing away from you**
 ### a3 · Two Pendulums Share a String (15 min)
 - **problem:** Every pendulum has its own beat, set by its length. In this activity you hang two pendulums of the same length from one string. You start one and watch what happens to the other. Then you change one length and try again.
-- **record:** Draw the two pendulums at the start, after 30 seconds and after a minute. Show which one is swinging.
+- **record:** Tell your grown-up, or write, which pendulum was swinging at the start, after 30 seconds and after a minute. Do it for both tests.
 - **s1 (5 min)**  
   *Parent does:* 1. Put two chairs back to back, about 1 metre apart. 2. Tie the string between the chair backs, a little loose so it sags about 3 cm. 3. Hang two coin pendulums from it, 20 cm apart, each exactly 30 cm long.  
   *Parent says:* Two pendulums, the same length, hanging from one string. We start only one.  
@@ -394,7 +394,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 - **s3 (4 min)**  
   *Parent does:* Make one pendulum 15 cm long and try again.  
   *Parent says:* Now they are different lengths. Does the swing still pass across?  
-  *Child mode:* Make one short. Start the long one. Does the short one swing?
+  *Child mode:* Make one short. Start the long one. Watch the short one for a minute.
   - Check: Two pendulums hang from one string. One is 30 cm and one is 15 cm. You start the long one. What happens to the short one? → **It only jiggles a little**
 ### a4 · Your Legs Are Pendulums (10 min)
 - **record:** Write your steps and the grown-up's steps in 20 seconds. Circle the bigger number.
@@ -410,7 +410,7 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 - **s3 (2 min)**  
   *Parent does:* Talk about the result.  
   *Parent says:* Your legs are shorter pendulums than mine. What does a shorter pendulum do?  
-  *Child mode:* Your legs are short pendulums. What do short pendulums do?
+  *Child mode:* Compare your legs with your grown-up's legs. Whose are shorter?
   - Check: A small child and a tall grown-up walk side by side at a relaxed pace. Who takes quicker steps? → **The child**
 ### a5 · Pendulum Pictures in Salt (25 min)
 - **safety:** Sweep up the spilt salt afterwards so nobody slips.
@@ -434,10 +434,10 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 ## Projects
 ### p1 · A Pendulum Wave (50 min, 2 days)
 - **problem:** Pendulums of different lengths have different beats, so the shorter ones swing quicker. In this project you hang five pendulums, each a little shorter than the last, and let go of all five together. You watch them drift apart into a wavy pattern, and then line up again.
-- **record:** Draw the pattern at the start, after a few seconds and after 15 seconds. Write how many swings each pendulum made in 15 seconds.
+- **record:** Write how many swings each pendulum made in 15 seconds. Take a photo or a short video of the wave, or draw the pattern after a few seconds and after 15 seconds.
 - **schedule:** day 1: Hang five pendulums of lengths 39, 33, 28 and a half, 25 and 22 cm from a broom across two chairs. (25 min); day 2: Check each length by timing, let go of all five together and watch the wave. (25 min)
 - **s1 (25 min)**  
-  *Parent does:* 1. Lay the broom across two chair backs. 2. Tie each coin bag with two threads to two points on the broom, 10 cm apart, so it hangs in a V. 3. Hang them 12 cm apart along the broom. 4. Measure straight down from the broom to the middle of the coins. 5. Make the lengths 39, 33, 28 and a half, 25 and 22 cm.  
+  *Parent does:* 1. Lay the broom across two chair backs. 2. Tie each coin bag with two threads to two points on the broom, 10 cm apart, so it hangs in a V. 3. Hang them 12 cm apart along the broom. 4. Measure straight down from the broom to the middle of the coins. 5. Make the lengths 39 cm, 33 cm, 28 and a half cm, 25 cm and 22 cm.  
   *Parent says:* Each pendulum is a little shorter than the last. The two threads keep each one swinging only front to back.  
   *Child mode:* Hang five pendulums in a row. Each one is a bit shorter. Measure carefully.
   - Note: The lengths must be right to about half a centimetre, so measure twice. The V of two threads stops the bags twisting and swinging sideways.
@@ -452,14 +452,14 @@ On the last night of Onam, Arjun lay on his mat in the hall and listened to the 
 ## Challenges
 ### c1 · The Longest Swinger (25 min)
 - **problem:** Build a pendulum that keeps swinging as long as possible after one start, without anyone touching it again.
-- **your turn:** Now design your own longest swinger. Draw it, build it and time it. Then change one thing and see if it beats your record.
+- **your turn:** Now design your own longest swinger. Plan it (tell your grown-up, or sketch it), build it and time it. Then change one thing and see if it beats your record.
 - **constraints:** Use only things from home.; The pendulum must hang from the ruler on the table, or from a broom across two chairs.; Let go from 20 cm out to the side.; Time it until it no longer swings out 5 cm.
 - **general:** Use a small, heavy bob, such as a bag of many coins, so the air pushes on it very little compared with its weight.; Use a thin thread, and a smooth pivot that doesn't rub.
 - **creative:** Tie the thread over the thin edge of a ruler, so the pivot barely rubs.; Make it long. A long pendulum swings slowly, so it moves through the air more gently.; Put it in a cupboard or a quiet room, so no fan or breeze disturbs it.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Ask for two ideas and draw them.  
+  *Parent does:* Read the problem together. Ask for two ideas, said out loud or sketched.  
   *Parent says:* What slows a pendulum down? How could your design slow it down less?  
-  *Child mode:* What slows a swing down? Draw two ideas to beat it.
+  *Child mode:* Think of two ideas to beat it. Tell your grown-up, or sketch them.
 - **s2 (15 min)**  
   *Parent does:* Build the first design and time it. Then change one thing, such as the bob or the pivot, and time it again.  
   *Parent says:* Build it, let go from 20 cm and time it. Then change just one thing.  

@@ -439,7 +439,7 @@
      "mins": 4,
      "do": "Play one practice round. Read the chain aloud as a story.",
      "say": "Read your chain as a story. Meenakshi has a cold. She sneezes into her hand. She presses the lift button. Then Lakshmi presses the same button and rubs her eyes. Which STOP card would break it?",
-     "kid": "Read your chain like a story. Which STOP card could break it?",
+     "kid": "Read your chain like a story.",
      "check": {
       "t": "mcq",
       "q": "Meenakshi sneezes into her hand, then presses the lift button. Which habit breaks this chain?",
@@ -457,7 +457,7 @@
      "mins": 10,
      "do": "Play 6 rounds (8 with four players), changing the Germ as the rules say. After each round, the Chain Breaker says which link they broke and why.",
      "say": "Which link did you break? Why does that stop the germ? Could another STOP card have worked too?",
-     "kid": "Play the rounds. Say which link you broke, and why.",
+     "kid": "Play the rounds. Break each chain with a STOP card.",
      "ask": [
       {
        "q": "Was there a chain you could break in two places?",
@@ -473,7 +473,7 @@
      "mins": 3,
      "do": "Count the points. Look at which kind of STOP card was used most.",
      "say": "Which link did we break most often? Which one is easiest to break in our own home?",
-     "kid": "Count your points. Which link is easiest to break at home?",
+     "kid": "Count your points.",
      "think": "Is there a link in our home that nobody is breaking yet?"
     }
    ],
@@ -604,8 +604,8 @@
      "id": "s2",
      "mins": 7,
      "do": "Read the cards one at a time. After each, ask for the link, then turn the card over.",
-     "say": "Why does that help the germ? Which link is it: the first link (the ill person), the way out, the ride or the way in?",
-     "kid": "Spread or stop? Then say which link it is.",
+     "say": "Why does that help the germ? Which link is it: the ill person, the way out, the ride or the way in?",
+     "kid": "Say which link it is.",
      "check": {
       "t": "mcq",
       "q": "Rahul drinks from his sister's water bottle while she has a cold. Spread or stop?",
@@ -622,7 +622,7 @@
      "mins": 1,
      "do": "Add up the points.",
      "say": "Which card was the hardest to decide? Why?",
-     "kid": "Count your points. Which card was hardest?"
+     "kid": "Count your points."
     }
    ],
    "setup": [
@@ -687,7 +687,7 @@
      "what": "Round 1: put glitter on the carrier's palm. The carrier touches the things on the touch list, then you check everyone's hands with a torch. Wash and clean up. Round 2: put glitter on the carrier's elbow, do the same touch list, and check again."
     }
    ],
-   "record": "Fill in the table. Then draw your home as a map, with each person and each thing as a dot. Draw an arrow for every way the glitter travelled.",
+   "record": "Fill in the table. Then tell your grown-up the path the glitter took, from the carrier's hand to the helper's hand. You can draw it as a map with arrows if you like.",
    "flow": [
     {
      "id": "s1",
@@ -776,9 +776,9 @@
     {
      "id": "s8",
      "mins": 2,
-     "do": "Look at the table together. Ask your child to say what they think, what they saw, and why.",
-     "say": "What do you think happened? What did you see that shows it? Why do you think it happened that way?",
-     "kid": "Say what you think, what you saw, and why.",
+     "do": "Look at the table together. Compare round 1 and round 2.",
+     "say": "Which round had less glitter on the helper? What did you see that shows it?",
+     "kid": "Compare the two rounds. Tell what you saw.",
      "ask": [
       {
        "q": "What did round 2 show about coughing into your elbow?",
@@ -791,7 +791,7 @@
      "think": "Which thing in our home do the most hands touch in a day?"
     }
    ],
-   "context": "In this experiment you use glitter as pretend germs and follow its trail round your home, from one person's hand to things and other people.",
+   "context": "In this experiment you use glitter as pretend germs and follow its trail round your home. You will find out if people who never touched the ill person can still get the germs.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -905,7 +905,7 @@
      "what": "Make a handshake chain. Count glitter specks on each hand, then do it again."
     }
    ],
-   "record": "Fill in the table, then draw a bar for each hand in the chain, as tall as its number of specks.",
+   "record": "Fill in the table. Then make a bar for each hand from a row of rice grains or paper strips, as long as its number of specks. Or draw the bars.",
    "flow": [
     {
      "id": "s1",
@@ -957,7 +957,7 @@
      "mins": 2,
      "do": "Talk about what the results mean for real germs.",
      "say": "Glitter got less at each hand. Germs often do too. But germs are alive. What could make them grow again further along the chain?",
-     "kid": "Glitter got less at each hand. Can germs grow again? Where?",
+     "kid": "Glitter got less at each hand. But germs are alive, and food and warmth help them grow.",
      "ask": [
       {
        "q": "Where could germs multiply on their way?",
@@ -970,7 +970,7 @@
      ]
     }
    ],
-   "context": "In this experiment you pass glitter along a chain of handshakes and count how much reaches each hand.",
+   "context": "In this experiment you pass glitter along a chain of handshakes and count how much reaches each hand. You will find out if germs get fewer the further they travel.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: specks in the square on each hand",
@@ -1061,7 +1061,7 @@
      "what": "Look and smell once more, talk about why the two bowls are different, and then a grown-up throws the rice away."
     }
    ],
-   "record": "Fill in the table each day, and draw both bowls side by side.",
+   "record": "Fill in the table each day, and put the photos of both bowls side by side. Or draw the bowls.",
    "flow": [
     {
      "id": "s1",
@@ -1074,9 +1074,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Put one bowl on a kitchen shelf away from the stove, and one in the fridge. Draw both bowls.",
-     "say": "Draw them now, so we can compare later.",
-     "kid": "Put one bowl on the shelf, one in the fridge. Draw them both."
+     "do": "Put one bowl on a kitchen shelf away from the stove, and one in the fridge. Take a photo of each bowl.",
+     "say": "Take a photo of each now, so we can compare later.",
+     "kid": "Put one bowl on the shelf, one in the fridge. Photograph them both."
     },
     {
      "id": "s3",
@@ -1093,7 +1093,7 @@
      "mins": 5,
      "do": "On day 3, two days after you started, look and smell once more. Talk about why the two bowls are different, then throw the rice away and wash the bowls.",
      "say": "What do you think happened in the shelf bowl? Why did the fridge bowl change less?",
-     "kid": "Why did the shelf rice change? Why not the fridge rice?",
+     "kid": "Look at both bowls again. Tell what is different.",
      "adult": true,
      "ask": [
       {
@@ -1118,7 +1118,7 @@
      }
     }
    ],
-   "context": "In this experiment you keep cooked rice warm and cool for two days, and see where microbes multiply faster.",
+   "context": "In this experiment you keep cooked rice warm and cool for two days. You will find out why leftover food should go in the fridge.",
    "setup": [
     {
      "art": "Two small steel bowls of white rice, each covered with a plate, one labelled 'shelf' and one 'fridge'.",
@@ -1194,7 +1194,7 @@
      "think": "What else in our home is touched by everyone?"
     }
    ],
-   "context": "This is a counting activity. You find out how many hands touch your main door handle in one evening.",
+   "context": "This is a counting activity. You find out how many hands touch your main door handle in one evening, and how germs could ride on it.",
    "setup": [
     {
      "art": "A sticky note with tally marks stuck on a wall beside a flat's main door handle.",
@@ -1233,7 +1233,7 @@
      "what": "Put one grain on a plate. Then double the grains six times. Each doubling stands for 20 minutes of real time. Count and write each time."
     }
    ],
-   "record": "A table with two columns: 'Time' and 'Number of bacteria'. Draw the plate after the last doubling.",
+   "record": "A table with two columns: 'Time' and 'Number of bacteria'. Take a photo of the plate after the last doubling, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1266,8 +1266,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Look at the table together.",
-     "say": "After 2 hours there were 64. If the doubling carried on for 2 more hours, there would be more than 4,000. Why does warm food left out for hours worry doctors?",
-     "kid": "After 2 hours there were 64 bacteria. If they kept doubling for 2 more hours, there would be thousands. Why does that matter for food left out?",
+     "say": "After 2 hours there were 64. If the doubling carried on for 2 more hours, there would be more than 4,000. That is from just one bacterium.",
+     "kid": "After 2 hours there were 64 bacteria. If they kept doubling for 2 more hours, there would be thousands.",
      "ask": [
       {
        "q": "Why should leftover food go in the fridge soon?",
@@ -1279,7 +1279,7 @@
      ]
     }
    ],
-   "context": "This activity uses rice grains to show how fast one bacterium can become many by splitting in two.",
+   "context": "This activity uses rice grains to show how fast one bacterium can become many by splitting in two. You will find out why food left out is risky.",
    "setup": [
     {
      "art": "One grain of rice alone in the middle of a steel plate.",
@@ -1319,7 +1319,7 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Draw a grid of 6 squares across and 6 down, and number the rows and columns 1 to 6. 2. Draw well A in square 2 across, 2 down. 3. Draw well B in square 5 across, 5 down. 4. Draw well C in square 5 across, 1 down.",
-     "say": "This is a made-up colony with three wells. Families take water from the well closest to their house. Some families have fallen ill with loose motions.",
+     "say": "This is a made-up colony, a group of homes close together, with three wells. Families take water from the well closest to their house. Some families have fallen ill with loose motions.",
      "kid": "Draw the map. Put in the three wells, A, B and C.",
      "context": "This is a map puzzle, like the one John Snow solved in London in 1854. You mark where people fell ill and find which well spread the illness."
     },
@@ -1335,7 +1335,7 @@
      "mins": 6,
      "do": "Ask which well is to blame, and how the family at the red dot at 6-6 could have fallen ill.",
      "say": "Most red dots are round well A. But one family at 6-6 is far from it, next to well B. How could that family have caught the illness?",
-     "kid": "Which well is to blame? What about the red dot far away?",
+     "kid": "Look at where the red dots are bunched together.",
      "ask": [
       {
        "q": "How could the family at 6-6 have fallen ill?",
@@ -1366,7 +1366,7 @@
      "kid": "Read the true story of John Snow and the pump."
     }
    ],
-   "context": "This is a map puzzle. You find which well is spreading an illness by marking where ill families live.",
+   "context": "This is a map puzzle. You find which well is spreading an illness by marking where ill families live, just as John Snow did.",
    "setup": [
     {
      "art": "A hand-drawn 6 by 6 grid with three wells drawn as small circles labelled A, B and C.",
@@ -1397,22 +1397,22 @@
      "what": "Walk round your home and find one place for each germ path: hands and handles, droplets, water, food, and insects. Choose one link to break."
     }
    ],
-   "record": "A drawing of your home with a coloured mark for each germ path you found, and a star on the one your family will break this week.",
+   "record": "A photo or a note for each germ path you found, and a star on the one your family will break this week. You can draw your home with a coloured mark for each path instead.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "Write five headings: hands and handles, droplets, water, food, insects.",
-     "say": "Germs take five main rides. Let's find a place in our flat for each one.",
+     "say": "Germs take five main rides. Droplets are the tiny drops that fly out when we cough. Let's find a place in our flat for each one.",
      "kid": "Germs take five rides. Find one place at home for each.",
      "context": "In this activity you find the places in your own home where germs could travel, and choose one to block."
     },
     {
      "id": "s2",
      "mins": 9,
-     "do": "Walk round the rooms together. For each heading, your child finds one place and draws it.",
+     "do": "Walk round the rooms together. For each heading, your child points to one place and takes a photo of it, or tells you about it.",
      "say": "Where do the most hands touch? Where do we cough? Where does our drinking water come from? Is any food left open? Is there still water where mosquitoes could lay eggs?",
-     "kid": "Walk round your home. Look for a handle that many hands touch. Look for a water pot, open food and still water. Draw each one you find.",
+     "kid": "Walk round your home. Look for a handle that many hands touch. Look for a water pot, open food and still water. Take a photo of each one, or point and tell.",
      "parent": "Common finds: the fridge handle, the remote, a shared tumbler, an uncovered water pot, a flower-pot tray with standing water, fruit left open on the table."
     },
     {
@@ -1432,7 +1432,7 @@
      ]
     }
    ],
-   "context": "In this activity you look for the places in your home where germs could travel.",
+   "context": "In this activity you look for the places in your home where germs could travel. You will find out which one your family can block.",
    "setup": [
     {
      "art": "A child with a clipboard looking at a flower-pot tray with standing water on a balcony.",
@@ -1440,7 +1440,7 @@
     },
     {
      "art": "A child's drawing of a flat with coloured marks on the fridge handle, a water pot and a balcony tray, and a star on one.",
-     "caption": "2. Draw them and star one to break."
+     "caption": "2. Show them and star one to break."
     }
    ]
   }
@@ -1482,9 +1482,9 @@
     {
      "id": "s1",
      "mins": 25,
-     "do": "1. Choose one germ chain from the unit, for example a cough into a hand, then the lift button. 2. Draw the chain as 3 or 4 pictures. 3. Draw the habit that breaks it, big and bright. 4. Add a few words in English and your home language.",
+     "do": "1. Choose one germ chain from the unit, for example a cough into a hand, then the lift button. 2. Show the chain as 3 or 4 pictures. Draw them, or cut them from old magazines. 3. Show the habit that breaks it, big and bright. 4. Add a few words in English and your home language.",
      "say": "Everyone in our building touches the lift button. So one poster could break a chain for many families. Which chain will you show? What words will make people stop and read?",
-     "kid": "Draw one germ chain. Then draw how to break it, big and bright. Add a few words.",
+     "kid": "Show one germ chain in 3 or 4 pictures. Then show how to break it, big and bright. Add a few words.",
      "context": "This is the first day of a 2-day project. You make a poster that helps everyone in your building break one germ chain."
     },
     {
@@ -1497,7 +1497,7 @@
      "wait": "Day 2: put the poster up."
     }
    ],
-   "context": "In this 2-day project you make a poster for your building that shows one germ chain and how to stop that chain.",
+   "context": "In this 2-day project you make a poster for your building that shows one germ chain and how to stop that chain. Your neighbours will learn how to stop germs at the lift.",
    "setup": [
     {
      "art": "A child drawing a poster with a hand, a lift button and a second hand, joined by arrows, and a big elbow sneeze picture.",
@@ -1536,7 +1536,7 @@
     "Hang a foot loop on a door that pulls open, so a foot does the work.",
     "Wash hands outside the bathroom, at a kitchen or balcony tap, if the door is a problem."
    ],
-   "your_turn": "Now design your own no-hands door. Draw it, build it with a grown-up, and test it for a week.",
+   "your_turn": "Now design your own no-hands door. Plan it, build it with a grown-up, and test it for a week.",
    "flow": [
     {
      "id": "s1",
@@ -1549,9 +1549,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw two ideas.",
-     "say": "Draw two ways to open this door without your hand. Which part of your body could do it instead?",
-     "kid": "Draw two ideas for opening the door. You could use an elbow or a foot, or think of something else."
+     "do": "Ask for two ideas. Sketch them if it helps.",
+     "say": "Think of two ways to open this door without your hand. Which part of your body could do it instead?",
+     "kid": "Tell two ideas for opening the door. You could use an elbow or a foot, or think of something else."
     },
     {
      "id": "s3",
@@ -1566,7 +1566,7 @@
      "mins": 5,
      "do": "Talk about what to change.",
      "say": "What worked? What would you change? Which germ link does your design break?",
-     "kid": "What would you change? Which link does it break?"
+     "kid": "Tell what you would change."
     }
    ],
    "setup": [
@@ -1618,9 +1618,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw two ideas.",
-     "say": "Draw two designs. How will the steam get out? How will flies be kept off?",
-     "kid": "Draw two ideas. Where does the steam go?"
+     "do": "Lay the materials over a plate to try two ideas. Sketch them if it helps.",
+     "say": "Try two designs. How will the steam get out? How will flies be kept off?",
+     "kid": "Try two ideas with the materials. Where does the steam go?"
     },
     {
      "id": "s3",
@@ -1635,7 +1635,7 @@
      "mins": 5,
      "do": "Talk about what to change.",
      "say": "What would you change? Which germ link does your cover break?",
-     "kid": "What would you change? Which link does it break?"
+     "kid": "Tell what you would change."
     }
    ],
    "setup": [

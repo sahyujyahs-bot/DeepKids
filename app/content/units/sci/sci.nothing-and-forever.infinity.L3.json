@@ -334,7 +334,7 @@
      "what": "Write three lists of 20 numbers. Read each list aloud twice while someone times it. Compare the times, then hear how long one man took to count to ten lakh."
     }
    ],
-   "record": "Fill in the table. Then draw a bar for each list's faster try, so you can see which list was slowest.",
+   "record": "Fill in the table. Then show each list's faster try as a bar: draw it, or line up one coin for every 5 seconds.",
    "context": "In this experiment you read three lists of 20 numbers aloud, small, middle and big, and time each one. You find out whether bigger numbers take longer to say, and what that means for counting for ever.",
    "example_chart": {
     "type": "table",
@@ -394,7 +394,7 @@
      "mins": 3,
      "do": "1. Point to the three lists. 2. Ask for a guess and a reason before any timing. 3. Write the guess at the top of the page.",
      "say": "Before we start, what do you think? Will all three lists take the same time? Which will be slowest, and why?",
-     "kid": "Guess first. Will all three lists take the same time? Which will be slowest? Why do you think so? Write your guess.",
+     "kid": "Guess first, and tell your grown-up why. Your grown-up writes your guess down.",
      "ask": [
       {
        "q": "Which list do you think will be slowest, and why?",
@@ -437,7 +437,7 @@
      "mins": 4,
      "do": "1. Look at the table together. 2. Ask what the times show. 3. Ask your child to say what they found, which times show it, and why they think it happened.",
      "say": "What do your times show? Which list was slowest? Why do you think it took longer?",
-     "kid": "Look at your times. Which list was slowest? Why do you think so? Say it in one sentence.",
+     "kid": "Look at your times. Which list was slowest?",
      "ask": [
       {
        "q": "Why did list C take longer, even though it had the same number of numbers?",
@@ -553,7 +553,7 @@
      "mins": 3,
      "do": "1. Fill the tumbler to the top with rice and show it. 2. Ask for a guess and a reason. 3. Write the guess down. 4. Tip all the rice into the big bowl.",
      "say": "How many grains of rice do you think fill this tumbler? Is it so many that it is infinite? Why do you think so?",
-     "kid": "Look at a tumbler full of rice. How many grains are in it? Is it infinite? Write your guess and your reason. Then tip the rice into the big bowl.",
+     "kid": "Look at a tumbler full of rice. Guess how many grains are in it and tell your grown-up why. Then tip the rice into the big bowl.",
      "ask": [
       {
        "q": "Is the rice in the tumbler infinite? Why or why not?",
@@ -603,7 +603,7 @@
      "mins": 5,
      "do": "1. Work out the grains in the tumbler together, by adding the teaspoon number again and again, or by multiplying. 2. Compare it with the first guess.",
      "say": "If one spoon holds 200 grains and the tumbler holds 40 spoons, how many grains are in the tumbler? Was your guess close? Is the rice infinite?",
-     "kid": "One spoon has about 200 grains. The tumbler has about 40 spoons. How many grains is that? Is it infinite?",
+     "kid": "One spoon has about 200 grains. The tumbler has about 40 spoons. How many grains is that?",
      "ask": [
       {
        "q": "Was the rice in the tumbler infinite?",
@@ -681,7 +681,7 @@
      "mins": 2,
      "do": "Ask what the game shows.",
      "say": "Is there a biggest number? How do you know?",
-     "kid": "Is there a biggest number? How do you know? Say your reason.",
+     "kid": "Think about the game you just played. Who always won? Tell your grown-up what you noticed.",
      "ask": [
       {
        "q": "Is there a biggest number?",
@@ -739,7 +739,7 @@
      "mins": 3,
      "do": "1. Draw 13 steps on the strip with the ruler. 2. Explain that each step is ten times the step below.",
      "say": "Long ago, the Yajurveda listed names for numbers. Each name is ten times the one before. Let's make a ladder of them.",
-     "kid": "Draw 13 steps on the strip. Each step will be ten times the step below."
+     "kid": "Draw 13 steps on the strip, or stack 13 books like stairs. Each step will be ten times the step below."
     },
     {
      "id": "s2",
@@ -752,9 +752,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Draw one empty step above parardha. 2. Ask what number goes there, and whether the ladder could stop.",
+     "do": "1. Add one empty step above parardha. 2. Ask what number goes there, and whether the ladder could stop.",
      "say": "What number would go on the next step? Could anyone ever draw the top step of this ladder?",
-     "kid": "Draw one more step on top. What number goes there? Can the ladder ever stop?",
+     "kid": "Add one more step on top. What number goes there? Can the ladder ever stop?",
      "ask": [
       {
        "q": "Does the ladder of numbers ever end?",
@@ -795,7 +795,7 @@
      "what": "Lay numbered papers in a line across the floor. Walk along them to the wall. Talk about where the numbers go next."
     }
    ],
-   "record": "Draw your room from above, with the paper line and an arrow going out through the wall.",
+   "record": "Take a photo of your line. Or draw your room from above, with the line and an arrow going out through the wall.",
    "context": "In this activity you make a number line on the floor and walk along it. When you reach the wall, you think about where the numbers would go next.",
    "setup": [
     {
@@ -828,7 +828,7 @@
      "mins": 5,
      "do": "Ask where the line would go if the wall were not there.",
      "say": "The wall stopped you. Did it stop the numbers? If we knocked down every wall in Chennai, where would the line end?",
-     "kid": "The wall stopped you. Did the wall stop the numbers? Where would the line end?",
+     "kid": "The wall stopped you. Did it stop the numbers?",
      "ask": [
       {
        "q": "Where does the number line end?",
@@ -870,7 +870,7 @@
      "what": "Draw the infinity sign in one stroke. Draw a simple sikku kolam, a kolam made of one line that loops around dots. Trace both with a finger again and again."
     }
    ],
-   "record": "Draw your loop in your notebook. Write one sentence on how a loop is different from the numbers.",
+   "record": "Draw your loop or take a photo of it. Tell a grown-up one way a loop is different from the numbers.",
    "context": "In this activity you draw the infinity sign and a sikku kolam, which is made of one line that never stops. You trace them round and round, and compare a loop with the never-ending numbers.",
    "setup": [
     {
@@ -892,14 +892,14 @@
      "mins": 4,
      "do": "1. Show the sign ∞. 2. Your child draws it in one stroke, then traces it round three times without stopping.",
      "say": "This is the sign for infinity. An English mathematician, John Wallis, first used it in 1655. Can you draw it without lifting your hand?",
-     "kid": "Draw this sign: ∞. Don't lift your hand. Now trace it round three times."
+     "kid": "Draw this sign: ∞. Don't lift your hand. Or trace it in the air. Now trace it round three times."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "1. Make a grid of 3 rows of 3 dots. 2. Draw one line that curves around the dots and joins back to its start.",
      "say": "A sikku kolam is drawn with lines that loop around the dots and close up. You can trace the line round and round and never reach an end.",
-     "kid": "Make 3 rows of 3 dots. Draw one curvy line around them. Join it back to where you started.",
+     "kid": "Make 3 rows of 3 dots. Draw one curvy line around them, or lay a thread around nine small stones. Join it back to where you started.",
      "parent": "If the full pattern is hard, any single closed loop around the dots is fine. Many families in Tamil Nadu draw sikku kolams every morning, so an older relative or a neighbour may show you one."
     },
     {
@@ -907,7 +907,7 @@
      "mins": 4,
      "do": "Ask whether the loop is infinite like the numbers.",
      "say": "You can trace the kolam line for ever. But is the line itself infinite? Could you measure it with a thread?",
-     "kid": "You can go round the loop for ever. But could you measure the line with a thread? Is it infinite?",
+     "kid": "You can go round the loop for ever. But could you measure the line with a thread?",
      "ask": [
       {
        "q": "Is the kolam line infinite like the numbers?",
@@ -962,7 +962,7 @@
      "mins": 7,
      "do": "1. Walk around the home together. 2. Your child names things that seem endless. 3. They write each one on the 'very many' side or the 'never ends' side of the paper.",
      "say": "Let's find things that seem to go on for ever. Salt in the jar? Hairs on your head? Drops in the water tank? Write each one down.",
-     "kid": "Walk around the home. Find things that seem endless. Write each one on the 'very many' side or the 'never ends' side, whichever you think is right.",
+     "kid": "Find things at home that seem endless. Put each on the side you think is right.",
      "parent": "Good things to find: grains of salt, sugar or muri (puffed rice), hairs on a head, threads in a towel, drops of water in a bucket, leaves on a plant, the numbers themselves."
     },
     {
@@ -1082,7 +1082,7 @@
      "mins": 4,
      "do": "1. Cut out the cards and shuffle them. 2. Each player takes 2 cards. 3. Each player makes the biggest number they can.",
      "say": "Each of us has 2 cards. Make the biggest number you can. Which way round should the digits go?",
-     "kid": "Take 2 cards. Make the biggest number you can. Put the bigger digit first.",
+     "kid": "Take 2 cards. Make the biggest number you can.",
      "check": {
       "t": "mcq",
       "q": "You have the cards 3 and 8. What is the biggest number you can make?",
@@ -1108,7 +1108,7 @@
      "mins": 5,
      "do": "1. Play round 5 with 6 cards. 2. Then ask: could a small number with 7 digits beat the biggest 6-digit number?",
      "say": "Your biggest 6-digit number is 9,99,999 at most. Could the smallest 7-digit number, 10,00,000, beat it?",
-     "kid": "The biggest 6-digit number is 9,99,999. Is 10,00,000 bigger? What does one more digit do?",
+     "kid": "The biggest 6-digit number is 9,99,999. Is 10,00,000 bigger?",
      "ask": [
       {
        "q": "What does adding one more digit do to the biggest number you can make?",
@@ -1192,9 +1192,9 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Rule a grid of 10 rows and 10 columns on a page, each square about 1.5 cm. 2. Your child puts one dot in every square. 3. Fill 3 pages.",
+     "do": "1. Rule a grid of 10 rows and 10 columns on a page, each square about 1.5 cm. 2. Your child puts one dot in every square (a pen dot or a small sticker). 3. Fill 3 pages.",
      "say": "Each page will have exactly 100 dots: 10 rows of 10. Ten pages will make a thousand.",
-     "kid": "Draw 10 rows of 10 squares. Put one dot in each square. That is 100 dots. Do 3 pages today.",
+     "kid": "Draw 10 rows of 10 squares. Put one dot or sticker in each square. That is 100 dots. Do 3 pages today.",
      "parent": "Dots are faster than numbers, so this stays fun. If your child gets tired, stop and continue tomorrow."
     },
     {
@@ -1211,7 +1211,7 @@
      "mins": 15,
      "do": "1. Finish the 10 pages and staple them. 2. Work out how many books make a lakh and a crore.",
      "say": "This book has a thousand dots. A lakh is a hundred thousand. How many books is that? A crore is a hundred lakh. How many books then?",
-     "kid": "Your book has 1,000 dots. How many books make a lakh? How many make a crore?",
+     "kid": "Your book has 1,000 dots. How many books make a lakh?",
      "adult": true,
      "wait": "Day 3",
      "ask": [
@@ -1300,7 +1300,7 @@
      "mins": 5,
      "do": "Talk about the clever ways people found.",
      "say": "Long ago, Archimedes invented new names to write giant numbers. Which of our ideas was the cleverest way to write a huge number in a few words?",
-     "kid": "Which idea made the biggest number with the fewest words? Why does it work?"
+     "kid": "Pick the card that packs the biggest number into the fewest words."
     }
    ]
   }

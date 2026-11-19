@@ -210,12 +210,12 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards. 2. Give each player a CHECKED and an ONLY SOUNDS TRUE card. 3. Shuffle the claim cards.  
   *Parent says:* Each card has a claim. Some were checked and found true. Some only sound true. You decide which.  
-  *Child mode:* Each card has a claim. Was it checked, or does it only sound true?
+  *Child mode:* Get your two answer cards ready.
 - **s2 (3 min)**  
   *Parent does:* Take the goldfish card out of the pile and read it first as a practice round. It counts like any other card.  
   *Parent says:* A goldfish forgets everything after three seconds. Checked, or only sounds true?  
-  *Child mode:* A goldfish forgets everything in three seconds. Checked or only sounds true?
-  - Check: Many people say a goldfish forgets everything after three seconds. Scientists trained goldfish to come to a sound at feeding time. Months later, the fish still came. What does this show? → **Goldfish remember for much longer than three seconds**
+  *Child mode:* Hold up CHECKED or ONLY SOUNDS TRUE.
+  - Check: Scientists trained goldfish to come to a sound at feeding time. Months later, the fish still came. What does this show? → **Goldfish remember for much longer than three seconds**
 - **s3 (8 min)**  
   *Parent does:* Play the other 15 cards. Take turns to read. Give points as in the rules.  
   *Parent says:* Now tell me how someone could find out. That's where the extra point is.  
@@ -225,14 +225,14 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - **s4 (2 min)**  
   *Parent does:* Add up the points. Ask which card surprised your child most.  
   *Parent says:* Which claim surprised you most? Had you believed it before today?  
-  *Child mode:* Which card surprised you most? Did you believe it before?
+  *Child mode:* Pick the card that surprised you most.
 ### g2 · Who Would Know? a source-picking game (10 min)
 - **rules:** Take the top card and read the claim and the two sources aloud. Do not turn the card over yet.; Each player picks the better source.; Say why it is better: did they see it, measure it, or write it down at the time?; Turn the card over and read the answer. One point for the right source, one for a good reason.; Take turns to read. The game ends after all 8 cards. Most points wins. If points are equal, you share the win.; Playing alone: pick and give your reason, then turn the card over. Keep your score out of 16.
 - **Printable cards: 8 source cards:** Claim: 'It will rain in Chennai tomorrow.' Who would know better: a neighbour whose knee aches before rain, or the weather office? (back: The weather office. It measures air, wind and clouds across the country every day.); Claim: 'The train to Guwahati leaves at 6:15 tomorrow.' Who would know better: a friend who travelled last year, or today's railway timetable? (back: The timetable. Times can change, and the railway sets them.); Claim: 'My grandmother's favourite festival is Durga Puja.' Who would know better: a cousin, or the grandmother herself? (back: The grandmother herself. Only she knows what she likes best.); Claim: 'This cut needs stitches.' Who would know better: a message on a phone, or a doctor who looks at the cut? (back: The doctor. The doctor has seen the cut and is trained to judge it.); Claim: 'Our flat has seven windows.' Who would know better: someone's memory of the flat, or counting the windows now? (back: Counting them now. Memory can be wrong, as the Sure or Right? experiment showed.); Claim: 'The match yesterday ended in a draw.' Who would know better: a friend who heard it from a friend, or the scorecard? (back: The scorecard. It was written as the match was played.); Claim: 'This medicine is safe for children.' Who would know better: an advert, or a doctor and the tests the medicine went through? (back: The doctor and the tests. An advert is trying to sell.); Claim: 'Crows were calling on our balcony this morning.' Who would know better: a guess made at night, or a note written this morning as the crows called? (back: The note. It was written at the time.)
 - **s1 (2 min)**  
   *Parent does:* Read the Chennai card, the first one, aloud.  
   *Parent says:* Who would know better if it will rain tomorrow: a neighbour whose knee aches, or the weather office? Why?  
-  *Child mode:* Who would know better about rain: the knee, or the weather office?
+  *Child mode:* Listen to the card. Pick one.
   - Check: Who would know better whether it will rain in Chennai tomorrow? → **The weather office, which measures air, wind and clouds every day**
 - **s2 (7 min)**  
   *Parent does:* Go through the other cards. Let your child pick and give a reason before you read the answer.  
@@ -261,13 +261,13 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - **s2 (4 min)**  
   *Parent does:* Help your child draw the results table with a ruler. Then ask for a prediction and a reason.  
   *Parent says:* Before we ask anyone: do you think the very sure answers will all be right? Why do you think so?  
-  *Child mode:* Will the very sure answers all be right? Why do you think so?
+  *Child mode:* Make a guess before you ask anyone.
   - Ask: Will the very sure answers all be right? Why? (good: Yes, because people know their own home.; No, because people don't look closely at things they see every day.; Most will be right, but maybe one will be wrong.)
   - Note: Write the guess and the reason at the top of the page. Do not say what you expect. Any guess with a reason is a good start.
 - **s3 (12 min)**  
   *Parent does:* 1. Your child asks each person the 8 questions, one person at a time, in another room from the others. 2. After each answer, your child asks: very sure, a bit sure, or just guessing? 3. Your child writes the answer and colours the 'How sure' box: green for very sure, yellow for a bit sure, red for just guessing.  
   *Parent says:* Ask each question in the same words. After each answer, ask how sure they are. Don't tell them if they are right.  
-  *Child mode:* Ask each person alone. Say each question the same way. Then ask: how sure are you? Colour the box green for very sure, yellow for a bit sure, red for just guessing.
+  *Child mode:* Ask each person alone, in the same words. Then ask: how sure are you? Colour the box.
   - Note: Answer the questions yourself too, honestly, without looking. Nobody may walk to the clock or the tap before answering. If only one grown-up is at home, phone a relative and ask about their own home. They check while you wait on the phone.
 - **s4 (8 min)**  
   *Parent does:* Now go round the home together and check every answer. Count the windows, look at the clock, turn the tap. Mark each answer right or wrong.  
@@ -277,7 +277,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - **s5 (5 min)**  
   *Parent does:* 1. Count the green (very sure) answers, and how many of them were wrong. Do the same for yellow and red. 2. Ask your child what they found out (a claim), what they saw that shows it (the evidence), and why they think it happened (a reason). 3. Then read the card 'Being sure is not the same as being right'.  
   *Parent says:* What did you find out? What did you see that shows it? Why do you think it happened?  
-  *Child mode:* Count each colour. How many were wrong? What did you find out?
+  *Child mode:* Count the wrong answers in each colour.
   - Ask: Were all the very sure answers right? (good: No. Two green answers were wrong.; Most green answers were right, but one grandparent was very sure about the windows and got it wrong.)
   - Ask: Why might someone be sure and wrong about their own home? (good: They see it every day but don't look closely.; They remember it wrong.; They remember an old clock, not this one.)
   - Note: Most families find at least one very sure answer that is wrong. Often the very sure answers are right more often than the guesses, and that is worth noticing too. If every green answer was right, ask: did we pick only easy questions? Try three harder ones, such as the tap or the milk packet.
@@ -286,7 +286,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - **predict:** If you take one spoonful from the top of the jar, will it show both kinds of dal? What about after the dal is mixed? Why do you think so?
 - **fair test:** The thing we change: where the sample comes from, and whether the jar was mixed. The things we keep the same: the same jar, the same spoon, a level spoonful each time. What we count: how many grains of each kind are in each spoonful.
 - **safety:** Do this away from small children who might put grains in their mouth or nose.
-- **record:** Fill in the table. Then draw the jar as it looked before mixing and after mixing.
+- **record:** Fill in the table. Then draw the jar before and after mixing, or take a photo of each.
 - **results table:** Sample | Where it came from | Chana grains | Moong grains | What this sample says the jar holds
 - **s1 (4 min)**  
   *Parent does:* 1. Out of your child's sight, pour the moong into the jar first, then the chana on top. 2. Wrap the cloth round the jar so the sides can't be seen. 3. Put the jar on the table.  
@@ -296,12 +296,12 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - **s2 (4 min)**  
   *Parent does:* Your child takes one level spoonful from the top, tips it on the plate and counts each kind. Write the numbers in the table.  
   *Parent says:* Count the grains of each kind. What does this spoonful say is in the jar?  
-  *Child mode:* Count each kind. What does the spoonful say is in the jar?
+  *Child mode:* Tip the spoonful on the plate. Count each kind.
   - Ask: What is in the jar, going by this spoonful? (good: Only chana.; All chana, no moong.)
 - **s3 (4 min)**  
   *Parent does:* Take off the cloth. Look at the jar from the side together.  
   *Parent says:* Now look at the whole jar. Was the spoonful right about the jar?  
-  *Child mode:* Look at the jar from the side. Was the spoonful right?
+  *Child mode:* Look at the jar from the side. What do you see?
   - Check: The top spoonful had only chana. Why was it wrong about the jar? → **The moong at the bottom was missing from the sample**
 - **s4 (6 min)**  
   *Parent does:* 1. Tip everything onto the large plate, mix it well with clean hands, and pour it back into the jar. 2. Take three spoonfuls: one from the top, one from the middle and one from near the bottom. Push the spoon down to reach the lower ones. 3. Count each one and write the numbers.  
@@ -318,17 +318,17 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 
 ## Activities
 ### a1 · One True, One Made Up (8 min)
-- **record:** Write the two claims. Under each, write one way to check it.
+- **record:** Write the two claims. Under each, write one way to check it, or say it out loud to your grown-up.
 - **s1 (3 min)**  
   *Parent does:* Say both claims in exactly the same sure voice, with a straight face.  
   *Parent says:* Here are two facts. A snail has thousands of tiny teeth. A crow can count up to one hundred. One is true and one I made up. Which one is true?  
-  *Child mode:* Listen to two facts. One is true. One is made up. Which is true?
+  *Child mode:* Listen to two facts. One is true and one is made up.
   - Ask: Which one is true? Why do you think so? (good: The snail one, because I have heard that before.; I can't tell, you said them both the same way.)
   - Note: The snail claim is true: a snail's tongue is covered in rows of tiny teeth, thousands of them. The crow claim is made up. Don't say which is true yet.
 - **s2 (3 min)**  
   *Parent does:* Ask how your child could find out, without asking you.  
   *Parent says:* I said them both the same way, so my voice can't help you. How could you find out which one is true, without asking me?  
-  *Child mode:* The voice was the same. How could you find out which is true?
+  *Child mode:* The voice was the same. Think of a way to find out, without asking.
   - Ask: How could you find out? (good: Look it up in a book about animals.; Ask someone who studies snails or crows.; Find out how scientists know.)
 - **s3 (2 min)**  
   *Parent does:* Tell your child which was true. Then give one more claim that your child can check right now. Claim: with arms stretched wide, the length from fingertip to fingertip is about your height. Use the string.  
@@ -384,8 +384,8 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
   *Child mode:* Ask only the grown-ups first. More spicy, less spicy or the same?
 - **s2 (5 min)**  
   *Parent does:* Now your child asks everyone else too: other family at home and relatives on the phone. Add your child's own answer. Make a second tally that includes everyone.  
-  *Parent says:* Now ask everyone else too. Who did we leave out the first time?  
-  *Child mode:* Now ask everyone, children too. Who did you leave out before?
+  *Parent says:* Now ask everyone else too, and add your own answer.  
+  *Child mode:* Now ask everyone, children too. Add your own answer.
   - Note: Any other question works if your family doesn't eat rasam: the best time for dinner, or how loud the TV should be. If everyone at home is a grown-up, the relatives' answers and your child's own answer are the ones that were missing before.
 - **s3 (3 min)**  
   *Parent does:* Compare the two tallies.  
@@ -417,7 +417,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - **s1 (15 min)**  
   *Parent does:* 1. Choose the saying to test. The crow one works in most Indian cities. 2. Agree on the rules: what is a guest, and what counts as the crow calling in the morning (before 10). 3. Draw the table. 4. Fill in today.  
   *Parent says:* Many people say a calling crow means a guest is coming. Let's test it for a week. First, what counts as a guest?  
-  *Child mode:* We will test a saying for a week. What counts as a guest?
+  *Child mode:* We will test a saying for a week. Agree on the rules.
   - Ask: What should count as a guest? (good: Someone who doesn't live here.; Not the milkman, because he comes every day.; Not a phone call.)
   - Note: Deciding the rules first is important. If you decide afterwards, it is easy to count things that fit the saying. If your family has a different saying, such as 'an itchy palm means money is coming', test that instead. In many cities a crow calls every morning. If that happens at your place, you will have no days without a crow, and that is a finding too (see the last step).
 - **s2 (15 min)**  
@@ -443,7 +443,7 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
 - **s1 (5 min)**  
   *Parent does:* Ask your child what would happen if you measured only the tallest person's reach.  
   *Parent says:* If we measured only the tallest person and put the shelf there, who would be left out?  
-  *Child mode:* If we measured only the tallest person, who would be left out?
+  *Child mode:* Think about measuring only the tallest person.
   - Ask: Who would be left out? (good: The children.; A shorter relative.; Anyone smaller than the tallest person.)
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Tape the paper strip to the wall. Measure every person's reach. Write a table: name, reach in centimetres.  
@@ -467,9 +467,9 @@ The next morning the crow called on the balcony rail, kaa, kaa. Arun looked at M
   *Child mode:* A message says 'Forward to everyone!' What should you ask first?
   - Ask: What should we ask? (good: Says who?; Is it true?; How do they know?)
 - **s2 (12 min)**  
-  *Parent does:* Your child designs and draws the card.  
+  *Parent does:* Your child makes the card: draw it, or write the three questions in big letters.  
   *Parent says:* Make it short and clear, so anyone can use it in a few seconds.  
-  *Child mode:* Draw your check card. Keep it short and clear.
+  *Child mode:* Make your check card. Draw it or write it. Keep it short and clear.
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* Try the card on one message together, then stick it near the phone charger.  
   *Parent says:* Let's try it. Does the card help us decide?  

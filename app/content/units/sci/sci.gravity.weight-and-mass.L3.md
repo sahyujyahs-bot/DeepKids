@@ -303,12 +303,12 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - **Printable tokens: 4 counters to cut out, one for each player (you also need one dice):** 🧑‍🚀; 🪐; 🌙; ☄️
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out the board. 2. Shuffle the force cards and challenge cards into two piles. 3. Each player does two challenge cards and takes the force cards they earn.  
-  *Parent says:* We're going to race from the Earth into space. Gravity will try to pull us back. To fight it, we need force cards. You earn them by doing small challenges.  
+  *Parent says:* We're going to race from the Earth into space. Gravity will try to pull us back.  
   *Child mode:* Lay out the board. Do two challenge cards. Each one earns you a force card. You will need them to fight gravity!
 - **s2 (4 min)**  
   *Parent does:* Play one practice turn together. Put a counter on square 5, Splashdown, and decide which card beats it.  
-  *Parent says:* Practice turn. You've fallen into a lake, square 5. Which force card saves you, and why?  
-  *Child mode:* Practice turn! You fell into a lake. Which force card saves you?
+  *Parent says:* Practice turn. Put a counter on square 5. You've fallen into a lake.  
+  *Child mode:* You fell into a lake. Look through your force cards for the one that helps.
   - Check: Splashdown: you fall into a lake. Which force card saves you? → **UPTHRUST: water holds you up**
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns to roll and move. 2. On a gravity event, the player may play a force card and explain it. 3. On a star, they do a challenge card.  
@@ -319,13 +319,13 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   - Note: Accept any explanation that names a push or pull against gravity. On the Lift Going Up square, STEADY SPEED works because the extra heavy feeling comes only while the lift speeds up. Once it moves steadily, you feel normal again. On Deep Pit, SPRING PUSH works because a stretched spring or trampoline mat pushes up harder than your weight, so you shoot up. On Weight Surge, BALANCE works because staying steady over your feet stops a heavy load toppling you.
 - **s4 (3 min)**  
   *Parent does:* When someone reaches SPACE, ask them the winning question before they win.  
-  *Parent says:* You made it to space! Here's your last question. Is the Earth's gravity still pulling you up here?  
-  *Child mode:* You reached SPACE! One last question. Is gravity still pulling you? Say why.
+  *Parent says:* You made it to space! Here is your last question.  
+  *Child mode:* You reached SPACE! Answer the last question to win.
   - Check: You reached space, 400 kilometres up, where the space station flies. Is the Earth's gravity still pulling you? → **Yes, almost as strongly as on the ground**
 - **s5 (2 min)**  
   *Parent does:* Look back at the force cards together.  
   *Parent says:* Which force card did you use most? Which force fights gravity most often in real life?  
-  *Child mode:* Which force card did you use most? Which force fights gravity for you all day long?
+  *Child mode:* Spread out your force cards. Point to the one you used most.
   - Think: Right now, something is pushing you up so that gravity does not pull you through the floor. What is it?
 ### g2 · Pull Cards: who pulls hardest? (20 min)
 - **rules:** Shuffle the element cards. Deal 4 to each player. Spread the outcome cards face up in the middle. Keep score on a sheet of paper.; Each round, everyone puts down one element card at the same time.; The card with the biggest pull number wins the round, and its player scores 1 point. If two or more cards tie for biggest, each of those players scores 1 point.; Then each player picks the outcome card that fits what would happen to a person on their own card. A right outcome scores 1 extra point. Several players may pick the same outcome card. A grown-up decides if players disagree.; LIGHT has pull number 0, so it never wins on pull. But if its player can explain why gravity bends light, they score 2 points.; After 4 rounds, the player with the most points wins. Equal points means a shared win.
@@ -337,19 +337,19 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Child mode:* Get 4 element cards each. Look at the pull number on each card. A bigger number means a harder pull.
 - **s2 (4 min)**  
   *Parent does:* Play a practice round with THE MOON and THE EARTH.  
-  *Parent says:* Practice round. The Moon against the Earth. Which pulls you harder? And which outcome card fits the Moon?  
-  *Child mode:* Practice! The Moon against the Earth. Which one pulls you harder?
+  *Parent says:* Practice round. Put THE MOON and THE EARTH down together. Then we pick the outcome card that fits the Moon.  
+  *Child mode:* Practice! Put down THE MOON and THE EARTH. Look at their pull numbers.
   - Check: Which pulls you harder when you stand on it, the Moon or the Earth? → **The Earth**
 - **s3 (10 min)**  
   *Parent does:* 1. Play 4 rounds. 2. Each round, everyone plays one card. 3. Decide the winner, then each player picks an outcome card.  
-  *Parent says:* Put your cards down together. Who pulls hardest? Now, what would happen to a person on your card?  
-  *Child mode:* Put down a card. Who pulls hardest? Now pick the outcome that fits your card. What would happen to you there?
+  *Parent says:* Put your cards down together. Compare the pull numbers. Then choose an outcome card.  
+  *Child mode:* Put down a card. Who pulls hardest? Now pick the outcome that fits your card.
   - Ask: The Sun has far more mass than Jupiter. Why can't you stand on either of them? (good: They are made of gas, with no solid ground.; Nothing would push back, so you would keep sinking.)
   - Note: Good matches: Jupiter and the Sun, 'you sink' (no ground). The ocean, 'you float'. The asteroid and the Moon, 'you bounce very high'. Venus, Mars and the Earth, 'you land on solid ground'. Light, 'your path bends'. Quicksand, 'you sink', but only to about your waist, because quicksand is thicker than water and holds you up there. A small black hole: 'squashed or stretched', because its pull changes so fast from your head to your feet. A giant black hole: 'falling round in orbit', because stars really do orbit the giant black hole at the centre of our galaxy. Both show 9 because nobody can stand safely near either.
 - **s4 (3 min)**  
   *Parent does:* End the game by talking about the LIGHT card.  
   *Parent says:* Light has no mass at all. So why does gravity still bend it?  
-  *Child mode:* Light has no mass. But gravity still bends it! Why do you think that is?
+  *Child mode:* Look at the LIGHT card. Tell your grown-up your idea.
   - Note: Einstein showed that energy, not only mass, is what gravity works on. Light carries energy. In 1919, astronomers saw starlight bend as it passed close to the Sun during an eclipse.
   - Think: If light has no mass but gravity still bends it, is gravity really about mass at all?
 
@@ -359,7 +359,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - **predict:** Before you start, guess. If 100 grams of rice reads 1 newton, what will 500 grams read? What will a whole kilogram read? Why do you think so?
 - **fair test:** Use the same forcemeter and the same kind of thin plastic bag every time. Check the pointer is at zero with the empty bag. Wait until the bag stops bouncing before you read. Change only the amount of rice.
 - **safety:** Hang the forcemeter from something steady. Keep your face away from the hook in case the bag slips.
-- **record:** Fill in the table. Then draw a line graph. Put grams along the bottom and newtons up the side. Join the dots.
+- **record:** Fill in the table. Then draw a line graph, with grams along the bottom and newtons up the side. Or tell your grown-up the pattern.
 - **results table:** Mass of rice (grams), from the kitchen scale | My guess (newtons) | Forcemeter reading (newtons)
 - **s1 (5 min)**  
   *Parent does:* 1. Hang the forcemeter from a hook or a door handle. 2. Hang the empty plastic bag on its hook. 3. Check the pointer is at zero. If it is not, turn the zero screw at the top until it is.  
@@ -367,20 +367,20 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Child mode:* Hang the forcemeter up. Hang the empty bag on it. Is the pointer at zero? If not, ask a grown-up to fix it.
 - **s2 (5 min)**  
   *Parent does:* 1. Put the empty bag on the kitchen scale. If the scale has a zero button, press it now. Then pour in rice until the scale shows 100 grams. 2. Hang the bag on the forcemeter. 3. Wait until it stops bouncing. 4. Read the pointer with your eyes level with it.  
-  *Parent says:* Wait until it's completely still. While it bounces, the spring is pulling up harder, then softer. Only when it's still does the spring pull up exactly as hard as gravity pulls down.  
+  *Parent says:* Wait until it's completely still before you read the number.  
   *Child mode:* Pour 100 grams of rice into the bag. Hang it up. Wait until it is still. Read the number. Write it down.
   - Ask: Why do we wait until the bag is still? (good: When it's bouncing the number keeps changing.; Only when it's still does the spring pull up as hard as gravity pulls down.)
   - Note: No kitchen scale? Hang packets whose mass is printed on them instead: a 100 gram soap, a 500 gram packet of dal, a 1 kilogram packet of rice. Put each one in the bag.
 - **s3 (10 min)**  
   *Parent does:* 1. Make the bag 200 grams, then 300, then 500, then 1,000 grams. 2. Each time, write your guess first. 3. Then hang it, wait, read and write.  
-  *Parent says:* Before each one, guess the number. Is there a pattern?  
-  *Child mode:* Make the bag heavier: 200, 300, 500, then 1,000 grams. Guess first each time. Then weigh it. Do you see a pattern?
+  *Parent says:* Before each bag, guess the number.  
+  *Child mode:* Make the bag heavier: 200, 300, 500, then 1,000 grams. Guess first each time. Then weigh it. What do you notice?
   - Note: Expect about 1 newton for every 100 grams. A whole kilogram reads close to 10 newtons. A more exact value on Earth is 9.8 newtons, so a careful reading might show a little under 10. Cheap forcemeters may be out by a little. That is fine.
   - Check: 100 grams of rice reads about 1 newton. About what will 500 grams read? → **5 newtons**
 - **s4 (6 min)**  
   *Parent does:* Help your child draw a line graph. Put grams along the bottom and newtons up the side. Mark a dot for each bag, then join the dots.  
   *Parent says:* Let's draw it. What shape do the dots make?  
-  *Child mode:* Draw a dot for each bag. Grams go along the bottom. Newtons go up the side. Join the dots. What shape is it?
+  *Child mode:* Draw a dot for each bag. Grams go along the bottom. Newtons go up the side. Join the dots. Or skip drawing and tell your grown-up the pattern.
   - Think: The dots make a straight line. If you had 2 kilograms of rice, where would its dot be?
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -391,7 +391,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - **question:** What happens to a stone's reading on a forcemeter when we lower it into water?
 - **predict:** Guess first. When the stone goes into the water, will the reading go up, go down, or stay the same? What will happen if it rests on the bottom? Why do you think so?
 - **fair test:** Use the same stone, the same string and the same forcemeter every time. Hold the forcemeter still. Wait until the stone stops swinging before you read. Change only how much of the stone is in the water.
-- **record:** Fill in the table. Then draw a bar for each reading. Draw an arrow on the stone for each push or pull on it.
+- **record:** Fill in the table. Then draw a bar for each reading. Then tell your grown-up what pulls and what pushes on the stone.
 - **results table:** Where the stone is | My guess: more, less or same? | Forcemeter reading (newtons)
 - **s1 (4 min)**  
   *Parent does:* 1. Tie the string tightly round the stone, with a loop at the top. 2. Hang the loop on the forcemeter. 3. Hold the forcemeter still, with the stone in the air. 4. Read and write the number.  
@@ -399,7 +399,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Child mode:* Tie the stone on its string. Hang it from the forcemeter. Hold it still in the air. Read the number. Write it down.
 - **s2 (6 min)**  
   *Parent does:* 1. Ask your child to guess what will happen in the water. 2. Lower the stone until half of it is under the water. Read it. 3. Lower it until all of it is under, but not touching the bottom. Read it.  
-  *Parent says:* Did any of the stone come off? Did the Earth stop pulling it? So why did the number go down?  
+  *Parent says:* Watch the number as the stone goes in. Did any of the stone come off? Did the Earth stop pulling it?  
   *Child mode:* Guess first! Lower the stone halfway into the water. Read the number. Now put it all the way under. Don't touch the bottom. Read again.
   - Note: A potato works too, and gives an even bigger drop. That is because a potato is only a little heavier than the same amount of water.
   - Check: The stone read 3 newtons in the air and 2 newtons under the water. Why? → **The water pushes up on the stone, so the spring holds less**
@@ -409,9 +409,9 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Child mode:* Let the stone rest on the bottom. Read the number. Now lift it right out. Is it back to the first number?
   - Note: On the bottom, the string goes slack and the reading drops to zero, because the bucket's floor is holding the stone up. Out of the water, it goes back to the air reading. Nothing about the stone changed. Only the things holding it up changed.
 - **s4 (6 min)**  
-  *Parent does:* Talk about swimming pools and floating. If you can, feel it yourself. Lift a full mug of water while it is under the water in a bucket. Then lift it out into the air.  
+  *Parent does:* Fill a mug with water under the water in a bucket. Lift it there, then lift it out into the air. Then talk about swimming pools and floating.  
   *Parent says:* When you float in a pool, the water does the same thing to you. The Earth still pulls you. The water pushes up on every part of you that is under it.  
-  *Child mode:* In a pool, water pushes up on you too. The Earth still pulls you just as hard. The water holds you up. That is why you feel light.
+  *Child mode:* Lift the full mug under the water. Then lift it out into the air. When does it feel heavier? In a pool, water holds you up in the same way.
   - Note: Expected answer: the water can only push up on the part of you that is under it. Arms held out in the air get no push, so the water holds up less of you.
   - Think: In a pool, why might lifting your arms out of the water make you sink a little?
 - **s5 (5 min)**  
@@ -437,9 +437,9 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   - Note: Going up, the reading rises a little as the lift starts. It goes back to normal while the lift moves steadily. It dips a little as the lift slows at the top. Coming down, it is the other way round. The changes are small, often about half a newton to 1 newton, and a slow lift may show hardly any change. If you cannot see it, film the pointer and play it back slowly, or use the arm version, which gives a bigger change.
 - **s3 (5 min)**  
   *Parent does:* Ride down again and watch the same four moments. If you have no lift, do this at home: move the forcemeter up quickly, then stop it, then move it down quickly.  
-  *Parent says:* Going down, what happens at the start? Did your own legs feel the same thing?  
-  *Child mode:* Ride down. Watch the pointer again. Did your legs feel heavy or floaty at the same moments as the bag's reading changed?
-  - Check: A lift starts to go up. The bag's reading goes from 10 newtons to 11 newtons. What happened? → **The spring had to pull harder to speed the bag up**
+  *Parent says:* Going down, what does the pointer do at the start?  
+  *Child mode:* Ride down. Watch the pointer again. Did your legs feel heavy or floaty at the same moments? Say what you felt.
+  - Check: In a lift that starts to go up, the bag's reading goes from 10 newtons to 11 newtons. What happened? → **The spring had to pull harder to speed the bag up**
 - **s4 (4 min)**  
   *Parent does:* Talk about other places you feel heavy or light. Think of a swing, a giant wheel at a mela, or a bus going over a bump.  
   *Parent says:* Where else have you felt heavy for a moment, or floaty? What was speeding up or slowing down?  
@@ -456,15 +456,15 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - **predict:** Guess first. If we drop a leaking bottle of water, will the water keep squirting out while it falls? Why do you think so?
 - **fair test:** Drop each thing from the same height, about as high as a grown-up's head. Drop the water bottle into the bucket and, for the extra, the coin bottle onto the pillow. Watch, or film it in slow motion. Do each drop three times, because each fall is very quick.
 - **safety:** A grown-up makes the holes. Do the water drop in the bathroom over a bucket, or outside. Drop things only into the bucket or onto a pillow or bed, never near anyone's feet.
-- **record:** Fill in the table. Draw the bottle before the drop and during the fall.
+- **record:** Fill in the table. Then draw the bottle before the drop and during the fall, or tell your grown-up what the water did each time.
 - **results table:** What we dropped (the leaking bottle, and for the extra, the coin bottle) | Before the drop: what happened? | During the fall: what happened?
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up pokes two small holes near the bottom of an empty bottle. 2. Take the cap off, so air can get in. 3. Cover the holes with your fingers and fill the bottle with water. 4. In the bathroom, hold it high over a bucket and uncover the holes. Watch the water squirt out.  
-  *Parent says:* Look at the water squirting out. Why do you think it squirts? Now guess. If I drop the bottle, will the water keep squirting? Why do you think so?  
+  *Parent says:* Look at the water squirting out. It squirts because the water above presses down on the water below.  
   *Child mode:* Fill the leaky bottle. Hold it up high. Watch the water squirt out. Now guess. Will it still squirt while it falls?
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Hold the squirting bottle high over the bucket. 2. Let go. 3. Watch the holes closely while it falls. 4. Film it in slow motion if you can. Do it three times.  
-  *Parent says:* Watch the holes, not the bottle. What happens to the squirting while it falls?  
+  *Parent says:* Watch the holes, not the bottle. It is a very quick fall, so look closely.  
   *Child mode:* Let go of the bottle! Watch the holes as it falls. Does the water still squirt out? Try three times.
   - Note: The cap must be off, or air cannot get in and the water only dribbles. Let go cleanly, without throwing or spinning the bottle. The fall lasts less than a second, so watch the holes, not the bottle. A slow-motion film shows it best.
   - Check: While the leaking bottle falls, the squirting stops. Why? → **The water and the bottle fall together, so the water stops pressing on the bottle**
@@ -489,10 +489,10 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 ### a1 · Who Is Holding You Up? (15 min)
 - **problem:** Gravity pulls you down all day, yet you do not sink into the floor. Something must be pushing you up. In this activity you press on a wall, a cushion and water to feel how each one pushes back. That push is called the support force.
 - **safety:** In the falling game, the faller leans back only a hand's width, and the catcher is a grown-up standing close behind.
-- **record:** Draw yourself standing, sitting and lying down. Draw an arrow for gravity's pull and an arrow for each push holding you up.
+- **record:** For standing, sitting and lying down, tell your grown-up what is holding you up. Or draw yourself, with an arrow for gravity's pull and an arrow for each push holding you up.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child presses a hand flat on a wall. 2. Then into a cushion. 3. Then into a bucket of water.  
-  *Parent says:* Which one stopped your hand? Which one let your hand in? Each one pushes back, but some push back harder.  
+  *Parent says:* Feel how each one pushes back. Some push back harder than others.  
   *Child mode:* Press your hand on a wall. Now into a cushion. Now into water. Which one pushes back hardest?
   - Ask: Why can't your hand go into the wall? (good: The wall pushes back.; The electrons of the wall repel the electrons of my hand.)
 - **s2 (5 min) · grown-up needed**  
@@ -522,7 +522,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   - Note: Bathroom scales show kilograms, not newtons. They measure how hard you press, then work out how many kilograms the Earth pulls that hard. A dial scale shows changes as they happen. A digital scale may freeze its first number, so step off and on again for each reading. If you only have one scale, put a pile of books of the same height beside it for the other foot. You cannot add two numbers then, but you can still watch the one number change as you lean, and the books hold the rest.
 - **s2 (5 min)**  
   *Parent does:* 1. Your child leans slowly to the left, then to the right. 2. Then lifts one foot off one scale, holding your hand. 3. Write both numbers each time, and the total.  
-  *Parent says:* Lean to one side. What happens to the numbers? And the total?  
+  *Parent says:* Lean to one side. What happens to the numbers?  
   *Child mode:* Lean to one side. Watch both numbers. Now lift one foot. Add up the numbers each time. Does the total change?
   - Check: You stand on two scales. They read 15 kilograms and 15 kilograms. You lean left, and the left one reads 20 kilograms. What does the right one read? → **About 10 kilograms**
 - **s3 (3 min)**  
@@ -538,15 +538,15 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 ### a3 · The Space Marathon (act it out) (15 min)
 - **problem:** In the space station, astronauts and the station fall together, so nothing presses their feet onto the floor. In this play you act out floating. Then you act out how Sunita Williams ran a marathon there, held down onto a treadmill by stretchy cords.
 - **safety:** Keep the towel on the shoulders, never near the neck, and pull very gently.
-- **record:** Draw an astronaut running on a treadmill in space, with the stretchy cords pulling her down.
+- **record:** Tell your grown-up why Sunita Williams needed stretchy cords on the treadmill. Or draw her running, with the cords pulling her down.
 - **s1 (4 min)**  
   *Parent does:* Your child pretends to float through the space station. They move slowly, push gently off walls, and pretend to catch a floating ball of water in their mouth.  
   *Parent says:* In the space station, nothing pushes on you, because you and the station are falling together. So you float. Show me how you'd move.  
   *Child mode:* You are an astronaut! You float. Move slowly. Push gently off the wall. Catch a floating ball of water with your mouth!
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Tell the true story of Sunita Williams. 2. Your child jogs on the spot. 3. A grown-up loops a towel over the child's shoulders, holds both ends low and pulls down very gently.  
-  *Parent says:* In 2007, Sunita Williams ran the Boston Marathon in the space station, on a treadmill. But floating feet can't push on a treadmill. So stretchy cords pulled her down onto it. I'm being your stretchy cords.  
-  *Child mode:* Sunita Williams ran a marathon in space! Stretchy cords pulled her down. Jog on the spot. A grown-up gently pulls you down with a towel.
+  *Parent says:* In 2007, Sunita Williams ran the Boston Marathon in the space station, on a treadmill. Stretchy cords held her down onto it. I'm being your stretchy cords.  
+  *Child mode:* Sunita Williams ran a marathon in space! Jog on the spot. A grown-up gently pulls you down with a towel, like her stretchy cords.
   - Check: Why did Sunita Williams need stretchy cords to run on a treadmill in space? → **Without them she would float off, and her feet could not push on the treadmill**
 - **s3 (5 min)**  
   *Parent does:* Talk about why astronauts exercise for about two hours every day.  
@@ -568,7 +568,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   - Check: In Sanskrit, what does the word guru mean? → **Heavy**
 - **s3 (5 min)**  
   *Parent does:* Talk about what gravitas means in a person.  
-  *Parent says:* People say a calm, serious person who makes others listen has gravitas, weight. Who do you know who has gravitas? Can a child have it?  
+  *Parent says:* People say a calm, serious person who makes others listen has gravitas, weight.  
   *Child mode:* A calm person who makes others listen has gravitas. Who has it in your family? Can you have it too?
   - Think: Is being 'heavy' a good thing? When is it good to be light?
 ### a5 · A Day of Heavy and Light: the feel-weight hunt (15 min, 2 days)
@@ -578,10 +578,10 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - **s1 (5 min)**  
   *Parent does:* Draw two columns in the notebook: HEAVY and LIGHT. Give it to your child to carry all day.  
   *Parent says:* Today you're a weight detective. Every time you feel heavier or lighter than usual, write it down.  
-  *Child mode:* You are a weight detective today. Feel heavy? Write it under HEAVY. Feel floaty? Write it under LIGHT.
+  *Child mode:* You are a weight detective today. Feel heavy? Write it under HEAVY. Feel floaty? Write it under LIGHT. Or ask your grown-up to write it.
 - **s2 (10 min)**  
   *Parent does:* On the next day, read the list together. For each moment, ask what was holding your child, and whether it was pushing harder or less.  
-  *Parent says:* Let's look at your list. At each moment, did gravity change? Or did the push holding you up change?  
+  *Parent says:* Let's look at your list. At each moment, what was holding you up?  
   *Child mode:* Read your list. Did gravity change? Or did the push holding you change? Was something speeding up or slowing down?
   - Note: Good finds: the bottom of a swing feels heavy, the top feels light. Lying in a pool feels light because the water pushes up. A bus going over a bump feels heavy, then light. Jumping off a step feels light for a moment. In every case, gravity stays the same.
   - Check: At the top of a swing you feel floaty. Why? → **The seat is pushing up on you less**
@@ -591,7 +591,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 ### p1 · The Root That Knows Which Way Is Down (45 min, 6 days)
 - **problem:** Plants have no eyes or ears, yet their roots always grow downwards. In this project you grow roots in a jar, then lay the jar on its side and watch what the roots do. Then you find out how scientists think a root feels which way is down.
 - **safety:** Don't eat sprouts that have been growing in the jar for days.
-- **record:** Draw the roots every day. Use an arrow to show which way is down. Write the day under each drawing.
+- **record:** Each day, take a photo of the roots, or draw them. Use an arrow to show which way is down. Write the day with each one.
 - **schedule:** day 1: In the evening, soak the seeds in water overnight. (5 min); day 2: Line the jar with wet paper. Push the seeds between the paper and the glass. (5 min); day 3: Look for tiny roots. Draw them. Keep the paper wet. (5 min); day 4: When the roots are about 2 cm long, lay the jar on its side. Mark the direction each root points. (If the roots are still short, wait one more day.) (10 min); day 5: Look again. Have the roots bent? Draw them. (5 min); day 6: Look and draw once more. Then compare all your drawings and talk about how a root knows which way is down. (15 min)
 - **s1 (10 min)**  
   *Parent does:* 1. In the evening, soak 6 moong or chana seeds in water. 2. Next day, line the inside of a clear jar with wet kitchen paper. 3. Push the seeds between the paper and the glass, so you can see them. 4. Put a little water in the bottom.  
@@ -599,22 +599,22 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
   *Child mode:* Soak the seeds overnight. Next day, line a jar with wet paper. Push the soaked seeds between the paper and the glass. Keep the paper wet.
   - Wait: Soak the seeds overnight first.
 - **s2 (5 min)**  
-  *Parent does:* Look at the seeds each day. Draw the tiny roots when they appear. Keep the paper wet.  
+  *Parent does:* Look at the seeds each day. Keep the paper wet. When tiny roots appear, ask which way they grow.  
   *Parent says:* Which way are the roots growing?  
-  *Child mode:* Look at your seeds every day. When you see tiny roots, draw them. Which way do they grow?
+  *Child mode:* Look at your seeds every day. When you see tiny roots, point to the way they grow.
   - Wait: Wait 1 to 2 days, until the roots are about 2 cm long.
 - **s3 (10 min)**  
   *Parent does:* 1. When the roots are about 2 cm long, lay the jar gently on its side. 2. With the marker, draw a small arrow on the glass beside each root tip, showing which way it points now.  
   *Parent says:* Now the roots are pointing sideways. Down is a different way for them now. Will they notice?  
   *Child mode:* Lay the jar on its side. The roots now point sideways. Mark each root tip on the glass. Will they turn?
 - **s4 (10 min)**  
-  *Parent does:* Look at the roots on each of the next two days. Draw them each time.  
+  *Parent does:* Look at the roots on each of the next two days. Take a photo each time, or draw them.  
   *Parent says:* Have the roots turned? Which way?  
-  *Child mode:* Look every day. Have the roots bent? Which way are they growing now? Draw them.
+  *Child mode:* Look every day. Have the roots bent? Take a photo, or draw them.
   - Check: You laid the jar on its side. After a day or two, which way do the roots grow? → **They bend to grow downwards again**
   - Wait: Check once a day for 2 days.
 - **s5 (10 min)**  
-  *Parent does:* Put all the drawings side by side. Explain how scientists think a root feels gravity.  
+  *Parent does:* Put all the photos or drawings side by side. Explain how scientists think a root feels gravity.  
   *Parent says:* Inside the root tip are cells holding tiny heavy grains of starch. The grains sink to the bottom of each cell. The cell feels where they land. So each cell knows which way is down.  
   *Child mode:* Root tip cells have tiny heavy grains inside. The grains sink to the bottom of each cell. So the cell knows which way is down!
   - Note: In the space station, roots tend to grow away from the seed, and towards water and sometimes light. Where nothing feels any weight, the starch grains don't settle. Scientists are still studying exactly how plants sense gravity.
@@ -623,22 +623,22 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 ## Challenges
 ### c1 · Weigh It in Space (30 min)
 - **problem:** In the space station, everything floats. A forcemeter or a scale reads zero, because nothing presses on it. But doctors still need to know each astronaut's mass. Mass also makes a thing hard to push. A thing with more mass is harder to start moving. Find a way to compare masses, using that, that would still work with no weight.
-- **your turn:** Now invent your own way to compare masses without weight. Draw it, test it on three things, and explain why it would work in the space station.
+- **your turn:** Now invent your own way to compare masses without weight. Build it from things at home, or draw it. Test it on three things, and explain why it would work in the space station.
 - **constraints:** Your method must not use the weight of the thing.; You can only use things from home.; Test it here on Earth, but explain why it would also work in space.
 - **general:** Hang each thing from a long string and give each one the same small flick with a finger. A bigger mass swings out less.; Tape the thing to the end of a ruler held over a table edge. Twang the ruler and watch. A bigger mass makes it wobble more slowly.; Astronauts really do this. Since the 1970s, they have sat in a special chair on a spring and rocked back and forth. A computer times the rocking to find each person's mass.
 - **creative:** Tie each thing to a rubber band and whirl it round at the same speed, away from people. A bigger mass stretches the band more.; Use a stretchy rubber band to catapult each thing gently along the floor. Lighter things fly further.
 - **s1 (5 min)**  
-  *Parent does:* Explain the problem. Remind your child of the Drop It experiment: while the leaking bottle fell, the water stopped pressing on it and stopped squirting out. A forcemeter dropped onto a pillow also reads zero while it falls.  
-  *Parent says:* In the space station, a forcemeter reads zero for everything. But an astronaut still has mass. How could a doctor find it?  
-  *Child mode:* In space, a forcemeter reads zero for everything. But things still have mass. How can we compare them?
+  *Parent does:* Explain the problem. If you did the Drop It experiment, remind your child. The leaking bottle fell, and the water stopped squirting out. A forcemeter dropped onto a pillow also reads zero while it falls.  
+  *Parent says:* In the space station, a forcemeter reads zero for everything. But an astronaut still has mass, and a doctor needs to know it.  
+  *Child mode:* How could we compare masses when a forcemeter reads zero?
 - **s2 (5 min)**  
   *Parent does:* List three ideas together before trying anything.  
   *Parent says:* Mass makes things hard to push and hard to start moving. Can we use that?  
-  *Child mode:* Think like an engineer. Draw three ideas first. Mass makes things hard to push. Can you use that?
+  *Child mode:* Think like an engineer. Say three ideas out loud first. Mass makes things hard to push. Can you use that?
 - **s3 (12 min)**  
   *Parent does:* 1. Hold a ruler flat on the table with about 20 cm sticking out over the edge. Press the other end down hard. 2. Tape the eraser to the free end. 3. Twang it and watch how fast it wobbles. Film it in slow motion if you can, and count the wobbles in the first 2 seconds. 4. Do the same with the coin, the stone and the keys.  
   *Parent says:* Twang the ruler. Does it wobble fast or slow? Which thing makes the ruler wobble slowest?  
-  *Child mode:* Tape a thing to the end of the ruler. Twang it! Does it wobble fast or slow? Try each thing.
+  *Child mode:* Tape a thing to the end of the ruler. Twang it! Does it wobble fast or slow? Try each thing and count the wobbles.
   - Note: Hold the ruler down firmly with your hand so only the end moves. The wobbles die away in a few seconds, so watch the first moment closely. Filming in slow motion makes counting much easier.
   - Check: In a slow-motion film, the ruler with keys wobbles 5 times in 2 seconds. With an eraser, it wobbles 10 times. Which has more mass? → **The keys**
 - **s4 (8 min)**  
@@ -661,7 +661,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - **s2 (5 min)**  
   *Parent does:* Think about the shape before building.  
   *Parent says:* The water pushes up on whatever pushes it aside. How could your raft push lots of water aside?  
-  *Child mode:* Draw your raft first. How can you make it push lots of water aside?
+  *Child mode:* Plan your raft before you build it. Draw it, or tell your grown-up the shape.
   - Check: Why does a flat, wide foil boat hold more coins than a crumpled ball of foil? → **It pushes more water aside, so the water pushes up on it harder**
 - **s3 (15 min)**  
   *Parent does:* 1. Build the raft. 2. Float it. 3. Add coins one at a time, spread out. 4. Count until it sinks. 5. Change the design and try again.  
@@ -671,7 +671,7 @@ These days, Gauri dives for seeds beside her mother. She slips under me without 
 - **s4 (6 min)**  
   *Parent does:* Compare designs, and look at the usual and creative solutions together.  
   *Parent says:* Ships are made of heavy steel, yet they float. Can you explain why now?  
-  *Child mode:* Big ships are made of steel. Steel sinks! So why do ships float? Use your raft to explain.
+  *Child mode:* Big ships are made of steel, and steel sinks. Use your raft to show a grown-up why ships float.
   - Note: Expected answer: both are wide and hollow, so they push aside a lot of water. The more water a thing pushes aside, the harder the water pushes up on it. That push can hold up a very heavy ship.
   - Think: What do a steel ship and your wide foil raft have in common?
 

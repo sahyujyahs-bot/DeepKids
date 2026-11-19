@@ -288,11 +288,11 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the mat on the floor with its three columns: ROOT, STEM and LEAF. 2. Shuffle the 24 cards and put them face down. 3. Lay the 7 job tokens face up in a row.  
   *Parent says:* Every card is a plant part in disguise. It might look like a root, but be a stem. Or look like a thread, but be a leaf. Your job is to see through the disguise.  
-  *Child mode:* Put the mat down: ROOT, STEM, LEAF. Mix the cards and put them face down. Each card is a plant part in disguise. Can you see through it?
+  *Child mode:* Put the mat down: ROOT, STEM, LEAF. Mix the cards and put them face down. Line up the job tokens.
 - **s2 (3 min)**  
   *Parent does:* Find the potato card and take it out of the pile. Play it together as a practice round. Then put it back in the pile.  
   *Parent says:* Let's practise. 'Potato: has eyes that sprout in a dark basket.' Root, stem or leaf?  
-  *Child mode:* Practice card: the potato. It has eyes that sprout. Root, stem or leaf? Say your answer.
+  *Child mode:* Practice card: the potato. Think about the clue on the card.
   - Ask: What clue tells you the potato is a stem? (good: Its eyes are buds, and buds grow on stems.; The eyes grow shoots.)
   - Check: A potato has eyes that sprout. What is a potato really? → **A stem**
 - **s3 (10 min)**  
@@ -304,12 +304,12 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Parent does:* When a TEST IT card comes up, stop and do it together. Everyone guesses first.  
   *Parent says:* Before we test it, everyone guess. Then let's look and see who was right.  
   *Child mode:* A TEST IT card! Guess first. Then do the test. Were you right?
-  - Ask: You found a bud where a leaf joins the mint stem. What does that tell you? (good: Only stems have buds like that, so this part is a stem.; The bud sits at a node, and nodes are on stems.)
+  - Ask: You find a bud where a leaf joins a mint stem. What kind of plant part has buds? (good: Only stems have buds like that, so this part is a stem.; The bud sits at a node, and nodes are on stems.)
   - Think: Why might an onion store its food in leaves that grow under the ground?
 - **s5 (2 min)**  
   *Parent does:* Count the cards to find the winner. Then look at the three columns together.  
   *Parent says:* Look at the three columns. Which part changes its shape most often?  
-  *Child mode:* Count your cards. Who won? Look at the columns. Which part wears the most disguises?
+  *Child mode:* Count your cards to see who won. Then look at the three columns.
   - Think: If parts can change shape so much, how do botanists ever tell what they are?
 ### g2 · Build a Plant to Survive (25 min)
 - **rules:** Each player takes a place card. That is where your plant must live.; Lay the 18 part cards face up. Take turns choosing one root, one stem and one leaf for your plant. A card can be taken by one player only.; Draw your plant on the survival sheet and give your plant a name.; Each round, every player takes one trouble card and explains how the parts of their plant help it survive. The others vote: did the plant survive? If the votes are equal, the plant survives.; A surviving plant scores one point for each part that helped. After each round, put the trouble cards back and shuffle them. Each player may swap one part card for a free one and change the drawing.; Play three rounds. The player with the most points wins. If two players have the same number, they share the win.
@@ -320,11 +320,11 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **s1 (3 min)**  
   *Parent does:* 1. Give each player a place card. 2. Lay the 18 part cards face up in three rows: roots, stems and leaves. 3. Keep the trouble cards face down.  
   *Parent says:* Each of you has a hard place to live. Your job is to design a plant that can live there. Choose a root, a stem and a leaf for your plant.  
-  *Child mode:* Take a place card. That is where your plant lives. Choose one root, one stem and one leaf. Build a plant that can survive there!
+  *Child mode:* Take a place card. That is where your plant will live. Read it out loud.
 - **s2 (8 min)**  
-  *Parent does:* 1. Take turns choosing one root, one stem and one leaf card. 2. Each player draws their plant and gives the plant a name.  
+  *Parent does:* 1. Take turns choosing one root, one stem and one leaf card. 2. Each player lines up their three cards as their plant and gives the plant a name.  
   *Parent says:* Why did you choose that root? What will it do for your plant in that place?  
-  *Child mode:* Pick a root, a stem and a leaf. Draw your plant. Give your plant a name. Say why you chose each part.
+  *Child mode:* Pick a root, a stem and a leaf. Line the three cards up as your plant. Give your plant a name.
   - Ask: Why is a wide, thin leaf a bad choice for the desert? (good: It would lose too much water.; The Sun would dry it out.)
   - Note: There is more than one good plant for each place. Desert: deep tap root or wide shallow roots, a fat water-storing stem, spines. Dark forest floor: wide thin leaves, or a climbing stem to reach the light. Pond: floating leaves and hollow stems. Salty mud: breathing roots and pillar roots. Windy hill: tough needles, a deep tap root. Crowded garden: a twining stem or tendrils to climb up to the light, or big wide leaves.
 - **s3 (10 min)**  
@@ -333,9 +333,9 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Child mode:* Take a trouble card. Can your plant survive it? Explain how. Everyone votes. Play three rounds.
   - Check: Trouble card: no rain for six months. Which plant has the best chance? → **A plant with a fat water-storing stem, spines and long roots**
 - **s4 (4 min)**  
-  *Parent does:* 1. Talk about whose plants survived and why. Look for a real plant that matches each design. 2. Now invent a plant for a place that is not on any card. Try a city roof or a crack in a road. Draw it and label each part.  
-  *Parent says:* Did any of your inventions already exist? Which real plants look like them? Now invent a plant for a place that is not on any card.  
-  *Child mode:* Does a real plant look like yours? Now invent a plant for a city roof or a crack in a road. Label each part.
+  *Parent does:* 1. Talk about whose plants survived and why. Look for a real plant that matches each design. 2. Now invent a plant for a place that is not on any card. Try a city roof or a crack in a road. Say what each part is and what job it does, or draw it and label each part.  
+  *Parent says:* Did any of your inventions already exist? Which real plants look like them?  
+  *Child mode:* Now invent a plant for a city roof or a crack in a road. Say what each part does, or draw it.
   - Think: Plants with parts that suit their place survive better and leave more seeds, and their seedlings grow parts like theirs. After many generations, what will most of the plants in that place look like?
 
 ## Experiments
@@ -344,18 +344,18 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **predict:** Before you start, guess. Which piece will grow the tallest shoot in 8 days: the carrot top, the carrot middle, the radish top, the onion or the potato? Will any piece grow nothing at all? Why do you think so?
 - **fair test:** Give every piece the same: the same depth of water, the same window, and fresh water every 2 days. Change only the kind of piece. The carrot middle is our check. It is the same carrot, but with no top, so we find out where new shoots grow from. The potato is too big for a saucer, so it sits in a glass with its bottom half in water. So the test is not fully fair for the potato. Do not read too much into small differences between the potato and the other pieces.
 - **safety:** A grown-up does all the cutting. Throw the pieces away at the end. Do not eat them.
-- **record:** Fill in the table every two days. On day 8, draw one bar for each piece, as tall as its tallest shoot.
+- **record:** Fill in the table every two days. On day 8, line up one paper strip for each piece, as long as its tallest shoot. Take a photo, or draw bars.
 - **results table:** Piece | Day 2: tallest shoot (mm) | Day 4 (mm) | Day 6 (mm) | Day 8 (mm) | Did it grow roots too?
 - **schedule:** day 1: Guess first. A grown-up cuts the pieces. Set them in water by a window. (15 min); day 2: Measure the tallest shoot on each piece. Change the water. (3 min); day 4: Measure and change the water. (3 min); day 6: Measure and change the water. (3 min); day 8: Last measurements. Draw a bar chart. Say what you think, what you saw and why. (14 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out the carrot, radish, onion and potato. 2. Ask your child to guess which will grow the tallest new shoot in 8 days, and which will grow nothing.  
   *Parent says:* These vegetables are all food stores. Roots and stems pack food away for the plant's future. Do you think they still have enough food to grow, with no soil at all?  
-  *Child mode:* Look at the carrot, radish, onion and potato. They are all food stores. Can they grow without soil? Guess which grows tallest.
+  *Child mode:* Look at the carrot, radish, onion and potato. Point to the one you think will grow the tallest shoot.
   - Ask: Why did you pick that one? (good: It is the biggest store.; It already has a little shoot.; Onions sprout in the kitchen.)
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the top 3 cm off the carrot and off the radish, keeping the leafy end. 2. Trim any old leaves to 1 cm. 3. Cut a 3 cm slice from the middle of the carrot, with no top. 4. Cut the bottom 2 cm off the onion, keeping the flat base. 5. Push 3 toothpicks into the potato and rest it on the glass, so its bottom half is in water.  
-  *Parent says:* This slice from the middle of the carrot is our check. It is the same carrot, but it has no top. If only the top grows, we learn where new shoots come from.  
-  *Child mode:* A grown-up cuts the pieces. Watch the carrot middle. It is our check. Does a carrot need its top to grow?
+  *Parent says:* This slice from the middle of the carrot is our comparison. It is the same carrot, but it has no top. If only the top grows, we learn where new shoots come from.  
+  *Child mode:* A grown-up cuts the pieces. The carrot middle has no top. Do you think it will grow?
 - **s3 (5 min)**  
   *Parent does:* 1. Put the carrot top, the carrot middle and the radish top in their own saucers, cut side down. Stand the onion base on its flat bottom in the fourth saucer. The potato stays on its glass. 2. Pour water to about 1 cm deep. 3. Put all of them on the same windowsill. 4. Label each saucer.  
   *Parent says:* Every piece gets the same water and the same window. Only the kind of piece is different. That makes the test fair.  
@@ -367,31 +367,31 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   - Note: The onion usually grows first, and fastest. The carrot and radish tops grow feathery leaves in 3 to 5 days. The potato's eyes may take a week or more, so a potato that is already sprouting a little works best. The carrot middle usually grows no shoot, because it has no buds. If it does grow something, write that down: it is a real result. If anything goes slimy, throw it away and note it in the table.
   - Wait: Measure again every 2 days, for 8 days.
 - **s5 (6 min)**  
-  *Parent does:* Help your child draw a bar chart of the day 8 numbers, with one bar for each piece.  
+  *Parent does:* Help your child make a bar chart of the day 8 numbers, with one paper strip for each piece. Draw bars instead if you prefer.  
   *Parent says:* Let's turn our numbers into a picture. Each piece gets one bar, as tall as its tallest shoot.  
-  *Child mode:* Draw one bar for each piece. Make it as tall as its tallest shoot on day 8.
+  *Child mode:* Cut one paper strip for each piece. Make it as long as its tallest shoot on day 8. Line the strips up side by side.
   - Check: The carrot top grew leaves, but the carrot middle usually grows nothing. Why? → **The middle had no buds, and new shoots grow from buds at the top**
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Now write three sentences: what you think, what you saw, and why you think it happened.
+  *Child mode:* Say your answer out loud, or write it. Use these words: I think, I saw, because.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: food stores can grow new shoots without soil, but only from a bud. What I saw: the onion grew 60 mm and the carrot top 40 mm. The carrot middle grew nothing. Why: the stored food feeds the new shoot, and the shoot grows from the bud at the top.
 ### e2 · The Blue-Black Test: where do plants keep their starch? (25 min)
 - **question:** Which roots and stems store their food as starch, and which store it as sugar?
 - **predict:** Guess first. Iodine turns blue-black where there is starch. Which pieces will turn blue-black: potato, carrot, sweet potato, ginger, onion or raw banana? Why do you think so?
 - **fair test:** Cut every piece fresh, the same size. Put the same number of drops, three, on each. Wait the same time, one minute, before you look.
 - **safety:** A grown-up cuts the pieces and handles the iodine. Iodine stains clothes and skin, so cover the table with newspaper. Never eat any piece after testing. Throw them all away and wash hands.
-- **record:** Fill in the table. Colour a small square next to each piece to match the colour you saw.
+- **record:** Fill in the table. Write the colour you saw next to each piece.
 - **results table:** Piece | Root, stem, leaf or fruit? | My guess | Colour after 1 minute | Starch: lots, some or none?
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cover the table with newspaper. 2. A grown-up cuts a fresh, flat piece of each vegetable, about the size of a coin. 3. Lay them on an old plate and label each one.  
-  *Parent says:* Plants store food in two main ways. Sugar tastes sweet. Starch does not taste sweet, but it fills you up, like rice and ragi. Iodine is a test. It turns blue-black where there is starch.  
-  *Child mode:* A grown-up cuts six pieces. Starch is food that is not sweet, like in rice. Iodine turns blue-black on starch. Guess which pieces will change.
+  *Parent says:* Plants store food in two main ways. Sugar tastes sweet. Starch does not taste sweet, but it fills you up, like rice and ragi. Iodine is a test for starch. It turns blue-black where there is starch.  
+  *Child mode:* A grown-up cuts six pieces. Starch is food that is not sweet, like in rice. Iodine turns blue-black on starch.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to write their guess for each piece in the table: lots of starch, some or none.  
   *Parent says:* Think about how each one tastes. Which ones are sweet? Which are not sweet but filling?  
   *Child mode:* Write your guess for each piece. Sweet ones might have sugar. Filling ones might have starch.
-  - Ask: Why do you think the carrot will or will not turn black? (good: It tastes sweet, so maybe it stores sugar.; It is a food store, so maybe it has starch.)
+  - Ask: Why do you think the carrot will or will not turn blue-black? (good: It tastes sweet, so maybe it stores sugar.; It is a food store, so maybe it has starch.)
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. A grown-up puts 3 drops of the iodine mix on each piece. 2. Wait one minute. 3. Look at each piece in daylight. 4. Write down the colour.  
   *Parent says:* Watch the potato. And now watch the carrot. Are they the same?  
@@ -406,13 +406,13 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Now write three sentences: what you think, what you saw, and why you think it happened.
+  *Child mode:* Say your answer out loud, or write it. Use these words: I think, I saw, because.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: roots and stems store food in different ways. What I saw: the potato, sweet potato and ginger turned blue-black, but the carrot and onion stayed brown. Why: some plants store their food as starch and some store it as sugar.
 ### e3 · Sun Leaf, Shade Leaf (30 min)
 - **question:** Are leaves that grow in the shade a different size from leaves that grow in the sun, on the same plant?
 - **predict:** Guess first. Will the leaves from the shady inside of the plant be bigger, smaller or the same size as the leaves from its sunny outside? Why do you think so?
 - **fair test:** Take all the leaves from the same plant. Take 5 from the sunny outside and 5 from the shady inside. Pick fully grown leaves, not baby ones. Measure every leaf the same way, by counting squares.
-- **record:** Fill in the table. Put each group's numbers in order and circle the middle one. Draw two bars, one for the middle sun leaf and one for the middle shade leaf.
+- **record:** Fill in the table. Put each group's numbers in order and circle the middle one. Make two rows of dal grains, one for the middle sun leaf and one for the middle shade leaf. Draw two bars if you prefer.
 - **results table:** Leaf | Sunny outside: squares covered | Shady inside: squares covered
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Find a big bush or low tree. 2. Pick 5 fully grown leaves from the sunny outside. 3. Pick 5 from deep inside, where it is shady. 4. Keep the two groups apart.  
@@ -426,25 +426,25 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **s3 (4 min)**  
   *Parent does:* Hold one sun leaf and one shade leaf up to a window, one after the other.  
   *Parent says:* Which leaf lets more light through? Which feels thinner between your fingers?  
-  *Child mode:* Hold a sun leaf up to the window. Now a shade leaf. Which lets more light through? Which feels thinner?
-  - Ask: Why might a shade leaf be bigger and thinner? (good: To catch more of the weak light.; There is not much light in the shade, so it spreads out wide.)
+  *Child mode:* Hold a sun leaf up to the window. Now a shade leaf. Look at how much light comes through each. Feel how thick each one is.
+  - Ask: Why might a bigger, thinner leaf help in the shade? (good: To catch more of the weak light.; There is not much light in the shade, so it spreads out wide.)
 - **s4 (4 min)**  
-  *Parent does:* 1. Put the 5 sun numbers in order and circle the middle one. 2. Do the same for the shade numbers. 3. Draw a bar for each middle number.  
+  *Parent does:* 1. Put the 5 sun numbers in order and circle the middle one. 2. Do the same for the shade numbers. 3. Line up dal grains in a row for each middle number, one grain for each square.  
   *Parent says:* The middle number is fairer than picking one leaf. One leaf could be unusual.  
-  *Child mode:* Put the 5 sun numbers in order. Circle the middle one. Do the same for shade. Draw two bars.
+  *Child mode:* Put the 5 sun numbers in order. Circle the middle one. Do the same for shade. Line up that many dal grains in a row for each middle number.
   - Note: Not every plant shows this clearly. If your sun and shade numbers are close, write that down: it is a real result, not a mistake.
   - Check: On one hibiscus bush, the middle sun leaf covered 18 squares and the middle shade leaf covered 27. What does this suggest? → **Shade leaves grow bigger, to catch more of the weak light**
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Now write three sentences: what you think, what you saw, and why you think it happened.
+  *Child mode:* Say your answer out loud, or write it. Use these words: I think, I saw, because.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: leaves in the shade grow bigger. What I saw: the middle shade leaf covered 27 squares and the middle sun leaf covered only 18. The shade leaf was thinner too. Why: there is less light in the shade, so a bigger leaf catches more of it.
 ### e4 · Roots Hold the Soil (35 min, 11 days)
 - **question:** Do roots really hold soil together when water rushes over it?
 - **predict:** Guess first. When we pour water over a slope of bare soil and a slope of soil with roots, which will lose more soil? Why do you think so?
 - **fair test:** Use two trays of the same size and the same soil, tilted on the same books. Pour the same amount of water, from the same height, at the same speed. Change only one thing: one tray is full of seedling roots (the green shoots are snipped off), the other is bare soil.
 - **safety:** A grown-up cuts the notches in the trays.
-- **record:** Fill in the table. Draw both glasses, showing how much mud settled at the bottom.
+- **record:** Fill in the table. Take a photo of the two glasses side by side.
 - **results table:** Tray | How muddy was the water? (clear, a bit muddy, very muddy) | Height of mud at the bottom of the glass after 10 minutes (mm)
 - **schedule:** day 1: Sow the seeds thickly in one tray. Water a little each morning for 10 days. (5 min); day 11: Look at the roots, snip off the shoots, set up two tilted trays, pour the water and compare the mud. (30 min)
 - **s1 (5 min)**  
@@ -468,32 +468,32 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **s5 (7 min)**  
   *Parent does:* 1. Wait 10 minutes for the mud to settle. 2. Measure the height of the mud layer at the bottom of each glass, in millimetres. 3. Write both numbers in the table.  
   *Parent says:* Which glass is muddier? Where did that mud come from?  
-  *Child mode:* Wait 10 minutes. Measure the mud at the bottom of each glass. Which has more?
+  *Child mode:* Wait 10 minutes. Then measure the mud at the bottom of each glass with a ruler.
   - Check: The glass under the bare tray had 12 mm of mud. The glass under the tray with roots had 2 mm. Why? → **The roots held the soil together**
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Now write three sentences: what you think, what you saw, and why you think it happened.
+  *Child mode:* Say your answer out loud, or write it. Use these words: I think, I saw, because.
   - Note: This is called claim, evidence and reasoning. Any honest answer with all three parts is good. A good answer sounds like this. What I think: roots hold soil together. What I saw: the bare tray lost 12 mm of mud and the tray with roots only 2 mm. Why: the roots make a net that grips the soil, so the water cannot carry it away.
 
 ## Activities
 ### a1 · Vegetable Detectives: root or stem? (25 min)
 - **safety:** A grown-up does all the cutting.
-- **record:** Draw each vegetable. Draw an arrow to the clue that told you what it is.
+- **record:** Make a list. For each vegetable, write the clue you found and ROOT, STEM or LEAF. Or take a photo of your three papers.
 - **s1 (4 min)**  
   *Parent does:* Lay the vegetables in a row. Tell your child the two detective clues.  
   *Parent says:* Here are the clues. Stems have nodes, which look like rings or bumps. Stems have buds, which look like eyes. Roots usually have neither, but they often have tiny hair-like side roots.  
   *Child mode:* You are a plant detective. Clue one: stems have rings. Clue two: stems have buds, like eyes. Roots usually have neither.
 - **s2 (8 min)**  
   *Parent does:* 1. Look at each vegetable closely, with a hand lens if you have one. 2. Look for eyes, rings and tiny side roots. 3. On the potato, join its eyes with a finger. Do they go round in a spiral?  
-  *Parent says:* Look closely. Does it have eyes? Rings? Tiny root hairs? Write down what you find.  
+  *Parent says:* Look closely. Does it have eyes? Rings? Tiny root hairs? Tell me what you find.  
   *Child mode:* Look at each one with the hand lens. Find eyes, rings or tiny hairs. Join the potato's eyes with your finger. Is it a spiral?
   - Ask: Which vegetables have rings? (good: Ginger and sugarcane.; Ginger has rings all along it.)
   - Note: Potato: eyes in a spiral, so a stem. Ginger: rings and buds, so a stem. Sugarcane: rings and buds at the nodes, so a stem. Carrot and radish: no eyes along the sides, faint lines of tiny side roots, so roots. Sweet potato: a root, though it can sprout from odd places, so this one is tricky. Onion: layers on a flat base, so leaves on a tiny stem.
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts a carrot across the middle and an onion from top to bottom. 2. Look at the carrot's ring and core. 3. Look at the onion's flat base and layers. 4. Peel a spring onion to see the green leaves join the white layers.  
   *Parent says:* The carrot has a ring inside. The pale core in the middle is the bundle of tubes that carries water. The onion's layers start at that flat base. That base is its stem.  
-  *Child mode:* Look inside the carrot. See the ring and the middle? Now look at the onion. The flat bottom is its stem. The layers are leaves!
+  *Child mode:* Look inside the carrot. Find the ring and the pale middle. Now look at the onion. Find the flat base and the layers.
   - Check: An onion's juicy layers grow from a flat base, and in a spring onion they turn into green leaves. So what are the layers? → **Leaves that store food**
 - **s4 (6 min)**  
   *Parent does:* Sort the vegetables onto three papers: ROOT, STEM and LEAF.  
@@ -502,32 +502,32 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   - Think: Why would a plant keep their food under the ground, instead of up in the air?
 ### a2 · Leaf Detective Album (30 min)
 - **safety:** Go outdoors only with a grown-up. Do not touch plants with milky sap or itchy hairs, and wash hands afterwards.
-- **record:** Make one album page for each leaf: the leaf taped down, its shape, its veins, where it grew, and a pet name.
+- **record:** Make one album page for each leaf: the leaf taped down, three describing words, its veins (N or S), where it grew, and a pet name.
 - **s1 (12 min) · grown-up needed**  
   *Parent does:* 1. Collect 10 leaves that are as different as possible. 2. Look on a walk or in a park. Or use balcony pots and the kitchen: curry leaf, mint, cabbage. 3. Put them in a cloth bag. 4. For each one, note where it grew: in sun or shade.  
   *Parent says:* Let's find the most different leaves we can. Big and small, round and pointy, shiny and hairy. Remember where each one grew.  
   *Child mode:* Find 10 leaves that are all different. Try outside with a grown-up, or the kitchen. Remember where each grew.
 - **s2 (10 min)**  
-  *Parent does:* 1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Draw its veins: a net or parallel lines.  
+  *Parent does:* 1. Tape each leaf onto a page. 2. Fold a spare leaf in half along its middle vein. Are the two halves the same? 3. Write three describing words for each leaf, like pointy, waxy, hairy or heart-shaped. 4. Look at its veins. Tell your child to write N next to net-like veins, or S next to veins that run side by side.  
   *Parent says:* Describe each leaf like a detective. Fold one in half. Is it the same on both sides? Look at the veins. Do they make a net, or run side by side?  
-  *Child mode:* Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Draw its veins.
+  *Child mode:* Tape each leaf on a page. Fold one in half. Are the halves the same? Write three words for each leaf. Look at the veins. Net, or side by side? Write N or S.
   - Ask: Which leaf do you think grew in the most shade? Why? (good: The biggest, thinnest one, because it needs to catch more light.)
   - Note: Net veins usually go with tap roots, as in mango, hibiscus and beans. Parallel veins usually go with fibrous roots, as in grass, maize and banana. These are the two big groups of flowering plants.
 - **s3 (8 min)**  
-  *Parent does:* 1. Give each leaf a pet name and a short profile: where it lives and what its shape is good for. 2. Draw a little map of where you found each leaf.  
+  *Parent does:* 1. Give each leaf a pet name and a short profile: where it lives and what its shape is good for. 2. Write down where you found each leaf, and whether it grew in sun or shade.  
   *Parent says:* If this leaf had a profile, what would it say? 'I live in the shade, so I am big and thin.'  
-  *Child mode:* Give each leaf a pet name. Write one line about it. 'I am Waxy Wanda. I live in the sun.' Then draw a map.
+  *Child mode:* Give each leaf a pet name. Write one line about it. 'I am Waxy Wanda. I live in the sun.' Then write where you found it.
   - Check: A leaf is shiny and waxy on top. Where might it have grown? → **In hot sun, where a waxy skin keeps water in**
 ### a3 · Tickle a Tendril (20 min)
-- **record:** Draw both tendrils before, after 30 minutes and after 2 hours. Draw a coiled tendril and mark its switch point.
+- **record:** Keep your photos or drawings of both tendrils: before, after 30 minutes and after 2 hours. Show the switch point on a coiled tendril, or draw it and mark the switch.
 - **s1 (5 min)**  
-  *Parent does:* 1. Find two young tendrils that are still fairly straight. 2. Rub one side of the tip of one tendril gently with a thin twig, 10 times. Leave the other alone, to compare. 3. Draw both now.  
+  *Parent does:* 1. Find two young tendrils that are still fairly straight. 2. Rub one side of the tip of one tendril gently with a thin twig, 10 times. Leave the other alone, to compare. 3. Take a photo of both now, or draw them.  
   *Parent says:* Charles Darwin did exactly this, more than 150 years ago. He tickled tendrils and timed them. Let's see if our plant feels the touch.  
-  *Child mode:* Find two straight young tendrils. Rub the tip of one gently with a twig, 10 times. Leave the other alone. Draw both. Will the rubbed one move?
+  *Child mode:* Find two straight young tendrils. Rub the tip of one gently with a twig, 10 times. Leave the other alone. Take a photo of both, or draw them. Will the rubbed one move?
 - **s2 (4 min)**  
-  *Parent does:* After 30 minutes, look at both tendrils and draw them. Then look again after 2 hours.  
+  *Parent does:* After 30 minutes, look at both tendrils and take a photo of each, or draw them. Then look again after 2 hours.  
   *Parent says:* Has the rubbed tendril curled at all? Did the other one stay straight? Which way did the rubbed one bend: towards the side we rubbed, or away?  
-  *Child mode:* Look at both after 30 minutes. Has the rubbed one curled? Draw them. Look again after 2 hours.
+  *Child mode:* Look at both after 30 minutes. Take a photo of each, or draw them. Look again after 2 hours.
   - Note: Many tendrils start to bend within an hour, curving towards the rubbed side. If nothing happens, the tendril may be too old. Try a younger one. A tendril that does not move is still a result, so write it down.
   - Wait: Look again after 30 minutes, then after 2 hours.
 - **s3 (6 min)**  
@@ -538,10 +538,10 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **s4 (5 min)**  
   *Parent does:* Pull gently on a coiled tendril and let it go.  
   *Parent says:* Feel how it stretches and springs back, like a spring. Why might that help the plant in a storm?  
-  *Child mode:* Pull very gently on a coiled tendril. Let go. Does it spring back? How would that help in a storm?
+  *Child mode:* Pull very gently on a coiled tendril. Let go. Feel it spring back.
 ### a4 · Look Down on a Plant: jigsaws and spirals (20 min)
 - **safety:** Pineapple leaves are sharp at the tips. Hold the pineapple by its body.
-- **record:** Draw the plant from above. Write how many spirals you counted each way.
+- **record:** Take a photo of the plant from above, or draw it. Write how many spirals you counted each way.
 - **s1 (5 min)**  
   *Parent does:* 1. Stand over a pot plant and look straight down. 2. Count how many leaves are hidden under others, and how many can see the sky.  
   *Parent says:* Look down like the Sun does. Do the leaves hide each other, or do they fit together like a jigsaw?  
@@ -556,17 +556,17 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   *Parent says:* Count the spirals one way, then the other. Write both numbers down. On most pineapples the two numbers are different, often 8 one way and 13 the other. Scientists find the same few numbers again and again, such as 5, 8, 13 and 21.  
   *Child mode:* Find the spirals on a pineapple. Count the ones going right. Now count the ones going left. Write both numbers.
 - **s4 (3 min)**  
-  *Parent does:* Talk about why plants might grow in spirals.  
-  *Parent says:* Things that grow in spirals like this pack tightly, with almost no gaps. Leaves in a spiral shade each other least. The great mathematician Alan Turing was studying these spirals in the last years of his life.  
-  *Child mode:* Spirals pack things tightly with few gaps. Leaves in a spiral shade each other less. A great mathematician, Alan Turing, studied these spirals.
+  *Parent does:* Ask your child why leaves might grow in a spiral. Listen, then tell them: a spiral packs leaves closely, so each leaf shades the ones below less.  
+  *Parent says:* Think about the leaf above. If every leaf sat straight above the one below, what would happen to the lower leaves?  
+  *Child mode:* Imagine every leaf straight above the one below. What would happen to the lower leaves? Tell your grown-up.
   - Think: Leaves in a spiral shade each other very little. Why is it good for a plant that their leaves shade each other as little as possible?
 ### a5 · Be the Plant: roots, climbers and sun-catchers (15 min)
 - **safety:** Hold the broom low, and keep it away from faces.
-- **record:** Draw the plant shape you liked being best, and label its jobs.
+- **record:** Take a photo of your block plant. Tell your grown-up the shape you liked being best, and what job each part does.
 - **s1 (5 min)**  
   *Parent does:* 1. Your child stands in tree pose, one foot pressed to the other leg, arms up like branches. 2. Gently push their shoulder. 3. Then let them stand on both feet, spread wide like roots, and push again.  
   *Parent says:* You are a tree. Your feet are roots. With one foot down, a push wobbles you. Spread your roots wide. Now can I push you over?  
-  *Child mode:* Stand like a tree on one foot. A grown-up gives a gentle push. Now spread both feet wide like roots. Is it harder to push you?
+  *Child mode:* Stand like a tree on one foot. A grown-up gives a gentle push. Now spread both feet wide like roots and get pushed again.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Stand the broom upright, held by a grown-up. 2. Your child is a climber. They twine one arm round it, or curl their fingers round it like a tendril. 3. The grown-up shines the torch from high up. The child climbs towards it.  
   *Parent says:* You are a bean. You have a thin stem, so you cannot stand tall alone. Wind round the broom and climb to the Sun!  
@@ -574,13 +574,13 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **s3 (5 min)**  
   *Parent does:* 1. The grown-up calls out a place: desert, dark forest, pond, windy hill. 2. Your child changes shape to fit. 3. Then build a plant from blocks or boxes and name each part's job.  
   *Parent says:* Desert! Make yourself small and spiky, and hold your water in. Dark forest! Spread your arms wide to catch the little light. Pond! Lie flat and float.  
-  *Child mode:* Listen for the place. Desert? Curl up small and spiky. Dark forest? Spread your arms wide. Pond? Float flat like a lotus leaf.
+  *Child mode:* Listen for the place. Desert? Curl up small and spiky. Dark forest? Spread your arms wide. Pond? Float flat like a lotus leaf. Last, build a plant from blocks or boxes and say what each part does.
   - Check: In the dark forest you spread your arms wide. Why do plants on a dark forest floor often have big, wide leaves? → **To catch as much of the weak light as they can**
 
 ## Projects
 ### p1 · The Climbing Bean Diary (75 min, 21 days)
 - **safety:** Raw beans are not safe to eat, so plant them, do not taste them.
-- **record:** Keep a diary page for each visit: the date, the height of the tallest stem, a drawing, and one thing you noticed.
+- **record:** Keep a diary page for each visit: the date, the height of the tallest stem, a photo or a drawing, and one thing you noticed.
 - **schedule:** day 1: Soak the seeds the night before. Plant 3 in each pot. Push a stick into one pot only. (10 min); day 7: Look for shoots. Water if the soil is dry. Measure the tallest shoot. (5 min); day 12: Trace the circling tip of a bean in the pot with no stick, on a card above the plant, for one afternoon. (25 min); day 16: Look at which way the stem is winding, and at what the plant with no stick is doing. (10 min); day 21: Measure, draw, and give the plant with no stick a support. Write your diary report. (25 min)
 - **s1 (10 min)**  
   *Parent does:* 1. The night before, soak 6 bean seeds in water. 2. Plant 3 in each pot, a finger-joint deep. 3. Push the stick into one pot only, next to the seeds. 4. Water both pots and put them in a sunny spot.  
@@ -600,13 +600,13 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **s4 (10 min)**  
   *Parent does:* 1. Look down from above on the plant with the stick. Is their stem winding the same way as a clock's hands, or the other way? 2. Look at the pot without a stick.  
   *Parent says:* Which way is that plant winding? Most twining plants in the world wind the same way. And look at the plants with no stick. What are they doing?  
-  *Child mode:* Look down from above on the plant with the stick. Do they wind like a clock's hands, or the other way? What are the beans with no stick doing?
+  *Child mode:* Look down from above on the plant with the stick. Which way does the stem wind? Then look at the pot with no stick.
   - Check: The beans with no stick have long, floppy stems lying over the edge of the pot. Why? → **They are thin stems built for climbing, and have nothing to hold on to**
   - Wait: Check at about day 16.
 - **s5 (25 min)**  
   *Parent does:* 1. Measure both pots. 2. Give the pot with no stick a stick, and watch the beans grab hold over the next few days. 3. Your child writes a short diary report. It says what happened, what surprised them, and why a climber has their shape.  
   *Parent says:* Let's write it up like a botanist. What did the climbing shoot do? What did the floppy one do? Why is a thin, twining stem a good plan?  
-  *Child mode:* Measure both pots. Give the floppy beans a stick. Write your report. What surprised you most?
+  *Child mode:* Measure both pots. Give the floppy beans a stick. Write your report, or say it and let your grown-up write it down.
   - Think: The bean with no stick kept growing long and thin. What do you think they were spending their food on?
   - Wait: Do this at about day 21.
 
@@ -620,7 +620,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
 - **s1 (4 min)**  
   *Parent does:* Try to stand a flat sheet of paper on its edge. Then ask your child to guess which shape will hold the most books. Will it be a tube, a zigzag or a square column?  
   *Parent says:* A flat sheet cannot even hold itself up. But the same paper, in the right shape, might hold up books. Which shape do you think will win?  
-  *Child mode:* Try to stand a flat sheet up. It flops! Guess: which shape holds the most books? A tube, a zigzag or a square?
+  *Child mode:* Try to stand a flat sheet up. What happens?
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* 1. Make three stems, each from one sheet and each 21 cm tall: a rolled tube, a folded zigzag and a square column. Tape each one. 2. Stand one up. 3. Put the card on top and add books one at a time, until it crumples. 4. Write down how many books it held. 5. Test the others the same way.  
   *Parent says:* Add the books gently, one at a time. The same card and the same books every time, so the test is fair.  
@@ -628,7 +628,7 @@ When her father came home for Baisakhi, she showed him both. She did not explain
   - Note: A rolled tube often holds several books, and a square column holds about the same. The zigzag usually folds first. If it gets wobbly, steady the books from the side, but do not press down.
 - **s3 (6 min)**  
   *Parent does:* Compare the results. Then look at the bamboo stick or the grass stem together.  
-  *Parent says:* Bamboo and grass stems are tubes. Many stems are strong round the outside and lighter in the middle. Why do you think plants use this shape?  
+  *Parent says:* Bamboo and grass stems are tubes. Many stems are strong round the outside and hollow in the middle.  
   *Child mode:* Which shape held the most? Now look at a grass stem or a bamboo stick. Is it a tube too?
   - Check: Why are bamboo and many grass stems shaped like tubes? → **A tube is very strong for its weight, so the plant can grow tall without using much material**
 - **s4 (5 min)**  

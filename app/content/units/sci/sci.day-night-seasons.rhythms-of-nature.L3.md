@@ -241,20 +241,20 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards and lay out the clock board. 2. Shuffle the cards and deal them all out, face down.  
   *Parent says:* Every living thing has their own time to be busy. Let's see if you know when.  
-  *Child mode:* Lay out the clock. Take your cards. Each card is a living thing. Where on the clock do they go?
+  *Child mode:* Take your cards. Each card shows a living thing doing something. Where on the clock does it go?
 - **s2 (3 min)**  
   *Parent does:* Play the practice card 'Fruit bats flying out'.  
   *Parent says:* Practice card: fruit bats flying out. Dawn, day, dusk or night?  
-  *Child mode:* Practice card. Fruit bats flying out. When does this happen? Choose your answer.
+  *Child mode:* Look at the practice card and choose your answer.
   - Check: When do fruit bats fly out of their trees to eat? → **Dusk**
 - **s3 (7 min)**  
   *Parent does:* Take turns placing cards and saying why.  
   *Parent says:* Place a card and give a reason. Why do they go there? Then read the back.  
-  *Child mode:* Place a card. Say why. Then read the back to check.
+  *Child mode:* Pick a card. Put it on the clock and tell why you chose that time.
 - **s4 (2 min)**  
   *Parent does:* Count the marks and look at the finished clock.  
   *Parent says:* Look at our clock. Is any part of the day empty?  
-  *Child mode:* Count your marks. Look at the clock. Is any time empty?
+  *Child mode:* Count your marks. Then look at the whole clock.
   - Note: Not really. When the owls go to rest at dawn, the lotus and the rooster are waking up. When the day animals rest at dusk, the bats and moths come out. Every part of the day is somebody's busy time.
   - Think: If every time of day has someone busy, is there ever a quiet moment in nature?
 ### g2 · Falcon Flight: Nagaland to Africa (20 min)
@@ -265,20 +265,20 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the board. 2. Put the falcons on square 0. 3. Shuffle the cards and have a dice ready.  
   *Parent says:* Amur falcons fly from China to Nagaland, rest and eat, then cross the sea to Africa. Let's fly with them.  
-  *Child mode:* Put your falcon on the start. You are flying to Africa. Rest in Nagaland. Then cross the sea!
+  *Child mode:* Put your falcon on square 0. Your job is to reach Africa.
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together.  
   *Parent says:* Practice card. What tells many birds it is time to go?  
-  *Child mode:* Practice card. What tells birds it is time to go? Choose your answer.
+  *Child mode:* Look at the practice card and choose your answer.
   - Check: What tells many birds it is time to migrate? → **The days getting shorter**
 - **s3 (12 min)**  
   *Parent does:* Take turns until a falcon reaches Africa.  
   *Parent says:* Answer the question, roll the dice and fly. Be careful over the sea.  
-  *Child mode:* Answer the question. Roll the dice. Fly! Be careful over the sea.
+  *Child mode:* Answer the card. Roll. Fly!
 - **s4 (2 min)**  
   *Parent does:* Talk about the sea squares.  
   *Parent says:* Real Amur falcons cross the sea for days without landing. How do you think they get ready for that?  
-  *Child mode:* Real falcons fly over the sea for days without stopping. How do they get ready?
+  *Child mode:* Look at the sea squares. Tell your grown-up your idea.
   - Note: A good answer says they eat a lot and store fat. Fat is their fuel for the crossing, because there is nowhere to land or feed. For a trip with nowhere to stop, a person would need to carry food and water.
   - Think: What would you need to carry for a trip with nowhere to stop?
 
@@ -288,7 +288,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - **predict:** Guess first. Will the bean leaves in the dark box stay down all the time, stay up all the time, or still go up in the morning and down at night? Why do you think so?
 - **fair test:** Grow two cups of bean plants from the same packet, in the same soil, with the same water, on the same windowsill. On the test day, only one thing changes: one cup goes into a dark box, and the other stays by the window. Both stay in the same room, so they are equally warm. Check both cups at the same times. Peek into the box quickly, for a few seconds, so very little light gets in.
 - **safety:** A grown-up pokes the holes in the cups. Wash hands after handling soil. Raw rajma seeds must not be eaten.
-- **record:** Fill in the table at every check. Draw the leaves of both cups at 7 in the morning on day 11. Then write what you think, what you saw and why.
+- **record:** Fill in the table at every check. Take a photo of both cups at 7 in the morning on day 11, or draw them. Then write what you think, what you saw and why.
 - **results table:** Day and time | Window cup: flat, half down or hanging down? | Box cup: flat, half down or hanging down?
 - **schedule:** day 1: Soak 6 rajma seeds in water overnight. (5 min); day 2: Plant 3 seeds in each cup and put both cups on a bright windowsill. (10 min); day 3: Water a little if the soil feels dry. Do this every day until the test. (2 min); day 10: When the first two leaves are open, check both cups at 7 in the morning, 1 in the afternoon, 6 in the evening and 9 at night. At 9 at night, after the check, put one cup into the dark box. (15 min); day 11: Check both cups at 7 in the morning, 1 in the afternoon and 9 at night. Peek into the box quickly. (10 min); day 12: Check both cups at 7 in the morning. Then take the box cup out and put it back by the window. (3 min)
 - **s1 (5 min)**  
@@ -303,9 +303,9 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   - Note: Poke the holes yourself with a skewer or a hot needle held in tongs. The holes let extra water drain away, so the roots do not rot.
   - Wait: Water a little each day if the soil feels dry. The shoots come up in about 4 to 7 days.
 - **s3 (5 min)**  
-  *Parent does:* 1. When the first two leaves have opened, make a leaf position card. 2. On a sheet of paper, draw three bean leaves on a stalk: one flat, one half down and one hanging down. 3. Label them.  
+  *Parent does:* 1. When the first two leaves have opened, make a leaf position card. 2. On a sheet of paper, write three words in a column: flat, half down, hanging down. 3. Beside each word, draw a small leaf in that position, or show it with your hand.  
   *Parent says:* This card helps us describe what the leaves are doing, so we write it the same way each time.  
-  *Child mode:* Draw three leaves on a stalk. One flat. One half down. One hanging down. Label them. This is your leaf position card.
+  *Child mode:* Write flat, half down and hanging down on your card. Beside each, draw a small leaf like that, or show it with your hand. This is your leaf position card.
   - Note: The first two leaves of a bean are single, heart-shaped leaves, opposite each other. They usually open about 8 to 12 days after planting. Wait for them before starting the checks.
   - Wait: Start the checks on the first day both cups have open leaves.
 - **s4 (8 min)**  
@@ -346,7 +346,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - **s1 (3 min)**  
   *Parent does:* 1. Keep the thermometer and notebook by the bed. 2. As soon as your child wakes, before getting up, measure their temperature.  
   *Parent says:* Before you get up or eat anything, let's measure how warm your body is. We'll measure the same way three times a day.  
-  *Child mode:* Don't get up yet. Put the thermometer in place. Wait for the beep. Write the number down.
+  *Child mode:* Don't get up yet. Put the thermometer under your tongue, or in your armpit. Use the same place every time. Wait for the beep. Write the number down.
   - Note: Use the same place each time: under the tongue if your thermometer is made for the mouth, or deep in the armpit with the arm held close. A healthy reading is usually between about 36 and 37.5 °C. If your child has a fever or a cold, wait until they are well.
 - **s2 (3 min)**  
   *Parent does:* 1. At about 5 in the afternoon, ask your child to sit still for 15 minutes, reading or drawing. 2. Then measure in the same place.  
@@ -372,7 +372,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - **question:** Jasmine buds open in the evening. Do they need to see the evening come, or will they open on time in the dark?
 - **predict:** Guess first. Will the buds kept in a closed dabba open at the same time as the buds on an open plate, later, or not at all? Why do you think so?
 - **fair test:** Use 20 buds from the same string or bunch. Put 10 on a damp cloth on an open plate, and 10 on a damp cloth inside a closed steel dabba, next to each other in the same room. Only the light is different. Count the open buds at the same times.
-- **record:** Fill in the table at each check. Draw one bud at 4 pm and the same flower at 10 pm.
+- **record:** Fill in the table at each check. Take a photo of one bud at 4 pm and the same flower at 10 pm, or draw it.
 - **results table:** Time | Open plate: buds open (out of 10) | Closed dabba: buds open (out of 10) | Smell (none, a little, strong)
 - **schedule:** day 1: In the afternoon, set up the plate and the dabba. Count open buds at 4 pm, 6 pm, 8 pm and 10 pm. (20 min); day 2: Count once more in the morning, and see what the open flowers look like now. (5 min)
 - **s1 (5 min)**  
@@ -413,7 +413,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - **s3 (3 min)**  
   *Parent does:* Look at the clues that came from living things. Then ask the unit's main question: how do living things know the time?  
   *Parent says:* Some of your clues came from living things, such as a hungry tummy or crows calling. None of them looked at a clock. So how do living things know the time?  
-  *Child mode:* Some of your clues came from living things, like your tummy and the crows. They have no clock to look at. How do they know the time?
+  *Child mode:* Tell your grown-up your idea. How can a living thing know the time without a clock?
   - Note: The answer is yes. In the Sleeping Bean Leaves experiment, you shut a bean plant in a dark box and see whether their leaves still lift in the morning. If they do, the plant is keeping time without a window.
   - Think: Could a plant know the time? How could we test it?
 ### a2 · Make a Flower Clock (20 min)
@@ -424,9 +424,9 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Parent says:* In 1751, a Swedish botanist called Carl Linnaeus had an idea. He said you could tell the time by which flowers were open. Let's make a flower clock.  
   *Child mode:* Some flowers open at their own hour. Lotus in the morning. Jasmine in the evening. Let's make a clock of flowers.
 - **s2 (12 min)**  
-  *Parent does:* 1. Draw a big circle and split it into day and night. 2. Draw each flower at the time they open. 3. Add a sun at the top of the day side and a moon on the night side.  
+  *Parent does:* 1. On the plate, draw a line to split it into a day half and a night half. 2. Write each flower's name at the time it opens. 3. Add a sun on the day side and a moon on the night side. Your child can draw the flowers too, if they like.  
   *Parent says:* Put the lotus near sunrise and the jasmine at evening. Where does the pavazhamalli go?  
-  *Child mode:* Draw each flower at the time they open. Lotus near sunrise. Jasmine in the evening. Where does pavazhamalli go?
+  *Child mode:* Write each flower's name on the clock, where it opens. Draw it too if you like.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. Push the pin through a paper arrow and the middle of the plate. 2. Ask your child to turn the arrow to now, and say which flowers would be open.  
   *Parent says:* Turn the arrow to now. Which flowers would be open?  
@@ -455,36 +455,36 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Parent says:* Amur falcons are small falcons. They rest in Nagaland in October, then fly about 4,000 kilometres over the sea to Africa.  
   *Child mode:* Draw the Amur falcon's journey in red. From China, to Nagaland, over the sea to Africa. Then a dotted line back.
 - **s2 (5 min)**  
-  *Parent does:* 1. In blue, draw an arrow for barn swallows, from Central Asia and Russia down to India. 2. They come for the cold months and go back in spring.  
+  *Parent does:* 1. In blue, draw an arrow (or lay a blue thread) for barn swallows, from Central Asia and Russia down to India. 2. They come for the cold months and go back in spring.  
   *Parent says:* The barn swallows on the wires in winter came from far to the north. Where do they go in summer?  
-  *Child mode:* Draw the barn swallow in blue. From the far north, down to India for winter. Then back.
+  *Child mode:* Show the barn swallow in blue, with a line or a thread. From the far north, down to India for winter. Then back.
 - **s3 (5 min)**  
-  *Parent does:* 1. In green, draw a short arrow inside South India, for blue tiger and crow butterflies. 2. Draw it between the plains and the Western Ghats.  
+  *Parent does:* 1. Find the plains and the Western Ghats in South India. 2. Ask your child to point to them and say how the blue tiger and crow butterflies travel. 3. Put a green dot at each end.  
   *Parent says:* Butterflies migrate too. In South India, huge numbers of blue tiger butterflies travel between the plains and the Western Ghats.  
-  *Child mode:* Draw the blue tiger butterfly in green. A short trip, inside South India.
+  *Child mode:* Find the plains and the Western Ghats. Point to them and tell your grown-up how the blue tiger butterfly travels. Put a green dot at each end.
 - **s4 (4 min)**  
   *Parent does:* Talk about what the three journeys have in common.  
   *Parent says:* All three journeys happen at the same time every year. What tells the animals when to go?  
-  *Child mode:* All three go at the same time every year. What tells them when to go?
+  *Child mode:* Look at the months on your map. What is the same about all three journeys?
   - Check: All three animals travel at the same time every year. What does that suggest? → **Each one has a signal or clock that repeats every year**
 ### a5 · Dawn Flower Watch (if you have a garden or park nearby) (20 min)
 - **safety:** Go with a grown-up. Keep away from the edges of ponds.
-- **record:** Two drawings of the same flower, with the times written underneath.
+- **record:** Two counts, and two photos or drawings of the same flower, with the times written beside them.
 - **s1 (8 min) · grown-up needed**  
-  *Parent does:* 1. Find one plant with flowers that open at a set time: a lotus, morning glory, pavazhamalli or four o'clock plant. 2. Visit early in the morning. 3. Draw the flowers and write the time.  
-  *Parent says:* Let's draw these flowers now, and come back later to see if they have changed.  
-  *Child mode:* Draw the flowers. Are they open or closed? Write the time.
+  *Parent does:* 1. Find one plant with flowers that open at a set time: a lotus, morning glory, pavazhamalli or four o'clock plant. 2. Visit early in the morning. 3. Count the open flowers and write the number and the time. Take a photo of one flower, or draw it.  
+  *Parent says:* Let's look at these flowers now, and come back later to see if they have changed.  
+  *Child mode:* Count the open flowers. Write the number and the time. Take a photo of one flower, or draw it.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* Visit again in the afternoon or evening, and draw the same flowers.  
+  *Parent does:* Visit again in the afternoon or evening. Count the open flowers again and photograph or draw the same flower.  
   *Parent says:* These are the same flowers, later in the day. What has changed?  
-  *Child mode:* Draw the same flowers again. What changed?
+  *Child mode:* Count the open flowers again. Photograph or draw the same flower. What changed?
 - **s3 (4 min)**  
-  *Parent does:* Compare the two drawings.  
+  *Parent does:* Compare the two counts and the two pictures.  
   *Parent says:* Why might this flower open at that time, and not another?  
-  *Child mode:* Look at both drawings. Why does this flower open at that time?
+  *Child mode:* Look at both counts. Which time had more open flowers?
   - Think: Who visits this flower? When do they come?
 ### a6 · A Swallow's Year: act it out (12 min)
-- **record:** Draw the four parts of the swallow's year in a circle.
+- **record:** Put the four sheets in order and tell your grown-up the swallow's year. Or draw the four parts in a circle.
 - **s1 (3 min)**  
   *Parent does:* 1. Put the four sheets on the floor in a circle. 2. Your child is the swallow, standing on 'North: summer'. 3. A grown-up holds the torch high and steady, to show the long summer days.  
   *Parent says:* You are a barn swallow in the north in summer. The days are long and full of insects. Catch flies and feed your chicks.  
@@ -505,13 +505,13 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 - **record:** Four dated entries, each with the time the streetlights came on and the living things seen or heard. A last page saying what changed.
 - **schedule:** day 1: Set up the calendar. Write the date, sunset time and three living things you can see or hear. (15 min); day 7: Write the second entry, on the same day of the week, at the same time. (10 min); day 14: Third entry. (10 min); day 28: Write the last entry. Then read all four, and write what changed and what stayed the same. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* 1. Choose one window or the balcony. 2. Write the date and the time the streetlights come on. 3. Write three living things you can see or hear there: birds, flowers, trees, insects. 4. Draw one of them.  
+  *Parent does:* 1. Choose one window or the balcony. 2. Write the date and the time the streetlights come on. 3. Write three living things you can see or hear there: birds, flowers, trees, insects. 4. Draw or photograph one of them.  
   *Parent says:* We'll write what this window shows us, once a week for four weeks.  
-  *Child mode:* Write today's date. What time did the streetlights come on? Write three living things you see or hear. Draw one.
+  *Child mode:* Write today's date. What time did the streetlights come on? Write three living things you see or hear. Draw or photograph one.
 - **s2 (20 min)**  
   *Parent does:* Each week, on the same day and at the same time, write a new entry the same way.  
   *Parent says:* This is the same window at the same time. What is new this week? What has gone?  
-  *Child mode:* This is the same window at the same time. What is new this week? What has gone?
+  *Child mode:* Write a new entry, the same way as the last one. Look for what is new.
   - Wait: Come back next week, and the week after.
 - **s3 (15 min)**  
   *Parent does:* After four weeks, read all the entries together.  
@@ -522,7 +522,7 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
 ## Challenges
 ### c1 · Lights Out for Birds (25 min)
 - **problem:** Most migrating birds fly at night. Bright lights on tall buildings pull them off their path, and they can crash into the glass. Design a way for a tall building in your city to help migrating birds, while people still work there.
-- **your turn:** Now invent your own way. Draw it, add it to your shoebox building, and shine the torch through. How much light escapes now?
+- **your turn:** Now invent your own way. Add it to your shoebox building, and shine the torch through. How much light escapes now?
 - **constraints:** People inside must still be able to see and work.; It must work during the migration months, when birds pass.; Draw it, and make a small model with a box and a torch.
 - **general:** Switch off or dim the outside lights and top-floor lights during the migration months, as some cities in America do.; Pull curtains or blinds at night, so less light shines out.; Put patterns of dots or lines on the glass, so birds see it is solid.
 - **creative:** Lamps that point down at the desk, not out of the window.; A calendar alarm that dims the building on the nights birds are expected.; A 'bird forecast': scientists already use weather radar to predict big migration nights.
@@ -531,9 +531,9 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   *Parent says:* Pretend you are a small bird flying past at night. What would you see?  
   *Child mode:* Put the torch in the box. Turn off the room light. Pretend you are a bird flying past. What do you see?
 - **s2 (5 min)**  
-  *Parent does:* Draw three ideas together.  
+  *Parent does:* Talk about three ideas together and write them in a list.  
   *Parent says:* How could the people inside still see, but less light get out?  
-  *Child mode:* Draw three ideas. People still need to see. Less light should get out.
+  *Child mode:* Think of three ideas. People inside still need to see. Less light should get out.
 - **s3 (10 min)**  
   *Parent does:* 1. Add the best idea to the box. 2. Test it in the dark room. 3. Improve it and test again.  
   *Parent says:* Let's test it. Does less light escape?  
@@ -546,22 +546,22 @@ Arjun turned to the empty page and crossed out 'Paati's Mistakes'. Above it he w
   - Think: Who else is harmed by bright light at night? Think of moths, birds that sing at night, and people trying to sleep.
 ### c2 · A Flower Clock for Our Balcony (25 min)
 - **problem:** Plan pots for a balcony or windowsill, so that some flower is open in the morning, afternoon, evening and night. You should be able to tell the rough time of day from the flowers.
-- **your turn:** Now plan your own balcony flower clock. Draw the pots and label the opening times. Which hour is hardest to fill?
+- **your turn:** Now plan your own balcony flower clock. Label each paper pot with its plant and opening time. Draw the flower too if you like. Which hour is hardest to fill?
 - **constraints:** No more than 5 pots, because balconies are small.; Only plants that grow in pots in India.; Say what time each one opens, and check facts with a nursery or a book.
 - **general:** Morning: morning glory, or portulaca, which is called the nine o'clock flower.; Late afternoon: four o'clock flower.; Evening: jasmine.; Night: pavazhamalli (called shiuli in Bengal and parijat in the north), or the night-blooming Brahma kamal cactus, which flowers on only a few nights in the year.
 - **creative:** Add a bean plant, whose leaves tell day from night.; Add a touch-me-not, whose leaves fold at night.; Choose plants that smell at different times, so you can tell the time with your eyes shut.
 - **s1 (5 min)**  
-  *Parent does:* Draw the balcony and five empty pots.  
+  *Parent does:* Lay out five pieces of paper in a row. Each one is a pot on the balcony.  
   *Parent says:* Linnaeus dreamed of a flower clock garden. Let's plan a small one for our balcony.  
-  *Child mode:* Draw our balcony with five empty pots. We will fill them with flowers that open at different times.
+  *Child mode:* Lay out five pieces of paper. Each one is a pot on our balcony. We will fill them with flowers that open at different times.
 - **s2 (12 min)**  
   *Parent does:* 1. Choose a plant for each pot. 2. Write the time each one opens. 3. Find any time with no flowers.  
   *Parent says:* Which hour has no flowers yet? What could fill it?  
-  *Child mode:* Pick a plant for each pot. Write when their flowers open. Which time has no flower?
+  *Child mode:* Pick a plant for each pot. Write its name and when it opens on the paper. Which time has no flower?
 - **s3 (8 min)**  
   *Parent does:* Read the usual and creative ideas, then finish the plan.  
   *Parent says:* Here are some plants people use. Would you change your plan?  
-  *Child mode:* Look at the ideas. Change your plan if you like. Finish your drawing.
+  *Child mode:* Look at the ideas. Change your plan if you like. Finish it.
   - Note: Mostly yes. Many flowers open at their own hour even when it is cool or cloudy, because their body clock times it. A flower that only opens when it is warm, like a tulip, would not keep the time on a cloudy day.
   - Think: Would your flower clock tell the same time in the monsoon, when it is cloudy?
 

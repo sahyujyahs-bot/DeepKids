@@ -209,9 +209,9 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Child mode:* Listen to your card and answer it. If you are right, roll the die.
   - Note: On a wrong answer, read the back aloud and ask your child to say it in their own words. The TEST IT card needs a strip of kitchen towel and a tumbler of water nearby.
 - **s3 (2 min)**  
-  *Parent does:* Ask the question below.  
+  *Parent does:* Do the green pen test. Then ask the question below.  
   *Parent says:* Look at the card about a green pen. Let's do that test for real, and see whether the answer on the back is right.  
-  *Child mode:* Test the green pen card for real. Is the answer on the back right?
+  *Child mode:* Do the test. Does the green pen split the way the card says?
   - Note: Use a green sketch pen on a strip of kitchen towel, in the same way as One Dot, Five Minutes. Many green pens split into a yellow band and a blue band, as the card says. If your pen does not, that is a real result. Try another green pen.
   - Check: A friend says a dot of black sketch pen will stay black on wet paper. What is most likely to happen? → **It spreads into two or more colours**
 ### g2 · Secret Mix: guess the pens from the bands (40 min)
@@ -224,12 +224,12 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **s2 (27 min)**  
   *Parent does:* Play the rounds one at a time. Run each secret strip in a tumbler with 1 cm of water, until the water is near the top.  
   *Parent says:* Look at the bands. Which pens' colours can you see? How do you know?  
-  *Child mode:* Watch your strip. Which colours came out? Which pens made them?
+  *Child mode:* Watch your strip while the water climbs.
   - Note: Green often splits into yellow and blue. So a green and yellow mix can look like green alone. That is a real puzzle, so let your child argue it out. Each strip takes about 5 to 8 minutes to run.
 - **s3 (5 min)**  
   *Parent does:* Add up the scores. Ask the question below.  
   *Parent says:* Which mix was hardest to guess? Why was it hard?  
-  *Child mode:* Which mix was hardest? Why?
+  *Child mode:* Count up your points together.
   - Check: A secret strip shows a yellow band and a blue band. Which mix could it be? → **Yellow and blue, or a green that splits into yellow and blue**
 
 ## Experiments
@@ -242,14 +242,14 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **results table:** Strip | My guess: what will the ink do? | Colours I saw, from bottom to top | Height of the highest colour (cm) | Does it match the secret letter?
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the three pens on the table. Call them A, B and C. 2. Scribble a little with each on scrap paper. 3. Ask the questions below.  
-  *Parent says:* These three inks all look dark. Do you think they are the same ink? What will each one do when water reaches it? Why?  
-  *Child mode:* Look at the three scribbles. Are the inks the same? Guess what water will do to each ink. Why do you think so?
-  - Ask: What do you think will happen to a dot of each ink when water reaches it? (good: It will stay black.; It might spread out.; It might turn into other colours, like the black dot in One Dot, Five Minutes.)
+  *Parent says:* These three inks all look dark. Let's find out what is inside them. First, scribble a little with each pen.  
+  *Child mode:* Scribble with each pen. Do the three inks look the same?
+  - Ask: What do you think will happen to a dot of each ink when water reaches it? (good: It will stay black.; It might spread out.; It might turn into other colours.)
   - Note: Write down your child's guess and their reason in the table before testing. Any guess is fine. The test decides.
 - **s2 (4 min)**  
   *Parent does:* 1. The child turns away. 2. The grown-up picks one pen secretly. 3. On a fourth strip, they draw a pencil line 2 cm from the bottom. 4. They write one thick letter, such as P, sitting on the line. 5. They mark a star at the top and hide the pen.  
-  *Parent says:* No peeking. I'm writing a secret letter with one of the three pens. Your job is to find out which.  
-  *Child mode:* Turn away. A grown-up is writing a secret letter. Which pen? You will find out!
+  *Parent says:* No peeking. I'm writing a secret letter with one of the three pens.  
+  *Child mode:* Turn away so you cannot see. Later you will work out which pen it was.
   - Note: Go over the letter twice, so there is plenty of ink. Keep it small, about 1 cm tall, and on the line. Put the pens back in a row so the child can't tell which one you used.
 - **s3 (6 min)**  
   *Parent does:* 1. Draw a pencil line 2 cm from the bottom of three strips. 2. Write A, B and C at the top in pencil. 3. On each line, make a dot as wide as a pencil with its pen. 4. Let it dry for a few seconds, then go over it twice more.  
@@ -263,8 +263,8 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   - Note: Strips must not touch each other or the sides of the tumbler, or the colours will run across. If the water is too deep, pour a little out.
 - **s5 (10 min)**  
   *Parent does:* 1. Watch the water climb. 2. When the water reaches about 1 cm from the top, lift the strips out. 3. Mark with pencil how high the water reached on each strip.  
-  *Parent says:* Watch the dots. What is happening to the ink? Which strip is changing first?  
-  *Child mode:* Watch the water climb. What happens when it reaches the dots?
+  *Parent says:* Watch the dots. Which strip changes first?  
+  *Child mode:* Watch the water climb up each strip. Look at the dots.
   - Ask: What do you see on each strip? (good: The black is spreading into blue and purple.; One strip has pink in it and the others don't.; One dot is not moving at all.)
   - Note: On kitchen towel, the water climbs about 8 to 10 cm in 5 to 10 minutes. Blotting paper is slower. A permanent marker dot will not move, which is a useful result. If every black dot stays black, try a different black sketch pen, or a dark brown or purple one.
 - **s6 (6 min)**  
@@ -275,7 +275,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **s7 (5 min)**  
   *Parent does:* 1. Put the secret letter's strip, the one with the star, next to strips A, B and C. 2. Find the one with the same colours in the same order. 3. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* Which strip matches the secret letter? What is your evidence? Tell me what you think, what you saw, and why.  
-  *Child mode:* Put the secret letter's strip, the one with the star, next to A, B and C. Which one matches? Say what you think, what you saw, and why.
+  *Child mode:* Put the star strip next to A, B and C. Find the one with the same colours in the same order.
   - Note: A good answer: What I think: pen B wrote it. What I saw: the star strip and strip B both had blue at the bottom and pink above it. Why: each ink is its own mix of dyes, so it makes its own pattern.
   - Check: The secret letter's strip shows a blue band low down and a pink band higher up. Strip A shows blue and purple. Strip B shows blue low down and pink higher up. Strip C did not move. Which pen wrote the letter? → **Pen B**
 - **s8 (1 min)**  
@@ -289,12 +289,12 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **predict:** Look at six sketch pens. Which colours do you think will stay one colour, and which will split? Why do you think so?
 - **fair test:** Use the same kind of strip and the same size of dot for every pen. Draw every dot on a pencil line 2 cm from the bottom. Dip every strip 1 cm into water and take them all out at the same time.
 - **safety:** A grown-up helps with the scissors.
-- **record:** Fill in the table. Draw a bar chart of how many dyes each colour had.
+- **record:** Fill in the table. Make a bar chart of how many dyes each colour had, or stick the dried strips in a row, fewest dyes first.
 - **results table:** Pen colour | My guess: one dye or a mixture? | Colours I saw, from bottom to top | Number of dyes | One dye or a mixture?
 - **s1 (4 min)**  
   *Parent does:* 1. Lay out the six pens. 2. Ask your child to sort them into 'one dye' and 'a mixture'.  
-  *Parent says:* Which of these colours do you think are made of just one dye? Which might be a mix? Why?  
-  *Child mode:* Sort the pens. One dye, or a mix? Why do you think so?
+  *Parent says:* A dye is the coloured substance in the ink. Which pens do you think hold just one dye, and which a mix? Why?  
+  *Child mode:* Sort the pens into two piles: one dye, or a mix.
 - **s2 (8 min)**  
   *Parent does:* 1. Make a strip for each pen, with a pencil line 2 cm from the bottom and a small, dark dot on it. 2. Write the colour at the top in pencil. 3. Clip two strips to each pencil and lay them across three tumblers.  
   *Parent says:* Same paper, same size of dot, same water. Only the colour of the pen changes.  
@@ -302,7 +302,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **s3 (10 min)**  
   *Parent does:* Wait until the water is about 1 cm from the top of the strips. Then lift them all out together and lay them flat.  
   *Parent says:* Which colours are splitting? Which are staying together?  
-  *Child mode:* Watch. Which colours split? Which stay as one?
+  *Child mode:* Watch the strips. Point to a colour that is splitting.
   - Note: Results depend on the maker. Often yellow and blue stay as one dye. Green often splits into yellow and blue. Brown and black often split into three or more colours.
 - **s4 (8 min)**  
   *Parent does:* 1. Count the separate colours on each strip. 2. Fill in the table. 3. Ask the question below.  
@@ -314,12 +314,12 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **predict:** One cup is plain water, one is sugar water and one is salt water. They all look clear. What do you think the flame will do with each one? Why do you think so?
 - **fair test:** Use the same amount of liquid on the same kind of spoon. The grown-up holds each spoon in the same part of the flame for the same time, 5 seconds. Only the liquid changes.
 - **safety:** Only a grown-up lights the stove and holds the spoons in the flame. The child stands at least one metre away. Tie back long hair, and keep dupattas and loose sleeves away from the stove. The spoon gets hot: cool it in the sink. Homes with induction cooktops have no flame. Instead, watch the coloured flames video in this unit.
-- **record:** Fill in the table. Draw the flame for each cup, with the colour you saw.
+- **record:** Fill in the table with the flame colour you saw for each cup. You can draw each flame too, if you like.
 - **results table:** Cup | My guess: what is in it? | Colour of the flame | How long the colour lasted | What I now think is in it
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. The child turns away. 2. The grown-up stirs half a teaspoon of salt into one cup of water (about 50 ml). In another cup of the same amount of water, they stir half a teaspoon of sugar. 3. The third cup is plain water. 4. Write 1, 2 and 3 on paper under the cups, and note secretly which is which.  
   *Parent says:* These three cups look the same. One has salt in it, one has sugar, and one is plain water. Can a flame tell them apart? What do you think, and why?  
-  *Child mode:* Three cups look the same. One has salt. Guess: can a flame find it? Why?
+  *Child mode:* Turn away while a grown-up fills the cups. Then guess what the flame will do.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. The child stands at least one metre from the stove. 2. The grown-up lights one burner on low. 3. Look at the flame's colour before testing anything.  
   *Parent says:* Look at the flame first. What colour is it? We need to know that before we test anything.  
@@ -333,48 +333,48 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **s4 (4 min)**  
   *Parent does:* 1. Fill in the table. 2. Ask your child to say which cup has salt, and why. 3. Uncover the secret labels.  
   *Parent says:* Which cup has salt in it? What did you see that tells you? Now let's check the labels.  
-  *Child mode:* Which cup had salt? What is your evidence? Check the labels.
+  *Child mode:* Look at your table. Pick the cup with salt and say how you know. Then check the labels.
   - Check: Cup 2 made the flame flash bright yellow-orange. Cups 1 and 3 hardly changed the flame. What is in cup 2? → **Salt water**
 - **s5 (2 min) · grown-up needed**  
   *Parent does:* Turn off the stove. Ask the question below.  
   *Parent says:* Salt water and sugar water look exactly the same. So how did the flame tell them apart?  
-  *Child mode:* The cups looked the same. How did the flame tell them apart?
+  *Child mode:* Think about how the flame told the cups apart.
   - Note: Expect this answer. Rasam has salt in it, and salt has sodium in it. Sodium makes a flame yellow-orange.
   - Think: When rasam boils over onto the stove, the flame turns yellow-orange. What is in rasam that does that?
 
 ## Activities
 ### a1 · One Dot, Five Minutes (8 min)
-- **record:** Draw the strip before and after.
+- **record:** Draw the strip before and after, or take a photo of each, or tell your grown-up what changed.
 - **s1 (2 min)**  
-  *Parent does:* 1. Make a fat black dot 2 cm from the bottom of the strip. 2. Ask the question below.  
+  *Parent does:* 1. Make a fat black dot 2 cm from the bottom of the strip. 2. Ask your child to guess what the water will do to it.  
   *Parent says:* What do you think will happen to this dot when the water reaches it? Why?  
-  *Child mode:* Make a black dot near the bottom. What will water do to it? Why?
+  *Child mode:* Make a black dot near the bottom of the strip. Then guess what water will do to it.
 - **s2 (5 min)**  
   *Parent does:* 1. Hang the strip over the edge of the tumbler, so the end dips in the water and the dot stays above it. 2. Watch for five minutes.  
-  *Parent says:* Just watch. What do you notice? What do you wonder?  
+  *Parent says:* Just watch for five minutes. Don't touch the strip.  
   *Child mode:* Hang the strip in the water. Watch the dot. What do you see?
   - Ask: What do you notice? What do you wonder? (good: The black is turning blue.; Colours are coming out of the black.; Where did the colours come from?)
 - **s3 (1 min)**  
   *Parent does:* Lift the strip out and lay it on a plate.  
-  *Parent says:* Where did the colours come from? Keep that question in your head. The Which Pen test will help us answer it.  
-  *Child mode:* Lift the strip out. Where did the colours come from? Remember that question. The Which Pen test will help answer it.
+  *Parent says:* Where did the colours come from? Keep that question in your head. The Which Pen test later in this unit will help us answer it.  
+  *Child mode:* Lift the strip out and lay it on a plate. Point to each colour you can see.
   - Check: A black dot spread into other colours on a wet strip. Which of these is the best question to ask next? → **Was the colour already in the black ink?**
 ### a2 · Chalk Column, Like Tsvet (20 min)
 - **problem:** In 1903, a scientist called Mikhail Tsvet wanted to separate the coloured substances in green leaves. He poured leaf colour through a glass tube packed with chalk powder, and the colours came apart into bands. In this activity you try a small version of his idea. You draw a ring of sketch pen ink round a stick of white chalk, stand the chalk in water, and watch the dyes climb and separate.
-- **record:** Draw the chalk stick with its colour bands. Compare it with a paper strip of the same pen.
+- **record:** Draw the chalk stick with its colour bands, or take a photo of it. Compare it with a paper strip of the same pen.
 - **s1 (4 min)**  
   *Parent does:* 1. Draw a thick ring all the way round the chalk, about 1.5 cm from the bottom, with a sketch pen. 2. Go round it twice.  
-  *Parent says:* Chalk is a powder pressed into a stick. Tsvet used a tube of chalk powder to separate the colours in leaves.  
+  *Parent says:* Chalk is a powder pressed into a stick. Water can climb through it, as it does through paper.  
   *Child mode:* Draw a thick ring round the chalk, near the bottom. Go round twice.
 - **s2 (12 min)**  
-  *Parent does:* 1. Stand the chalk upright in the shallow water, ring end down. 2. Make sure the ring is above the water. 3. Watch for about 10 minutes, until the water is near the top.  
+  *Parent does:* 1. Stand the chalk upright in the shallow water, ring end down. 2. Make sure the ring is above the water. 3. Run a kitchen-towel strip with a dot of the same pen beside it. 4. Watch for about 10 minutes, until the water is near the top.  
   *Parent says:* Watch the ring. Do the colours move the same way as on the paper strip?  
   *Child mode:* Stand the chalk in the water. The ring stays above the water. Watch.
   - Note: Water climbs chalk quickly. The colours usually spread into bands, like on paper, but they may go to different heights. If the chalk falls over, lean it against the side of the bowl. This is the least certain activity in the unit: ink on chalk can give faint or short bands, and some chalk sticks crumble in water. If you see only one smudge, say so, and try a different pen or chalk.
 - **s3 (4 min)**  
   *Parent does:* Lift the chalk out and let it dry. Compare it with a paper strip of the same pen.  
   *Parent says:* Are the bands in the same order as on paper? What does that tell you about the chalk?  
-  *Child mode:* Let it dry. Are the colours in the same order as on paper?
+  *Child mode:* Let it dry. Hold it next to the paper strip. Point to colours that match.
   - Check: Tsvet poured leaf colour through a tube of chalk powder, and it came apart into green and yellow bands. Why did it come apart? → **Each coloured substance moved through the chalk at its own speed**
 ### a3 · Ink Flowers for a Festival Card (25 min)
 - **record:** Stick your best flower on a card. Under it, write which pens split into the most colours.
@@ -388,10 +388,10 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Child mode:* Put the circle on the tumbler. Drip water in the middle, slowly. Watch.
   - Note: Too much water at once makes the colours run together into a puddle. Five or six teaspoons over a few minutes is usually enough.
 - **s3 (12 min)**  
-  *Parent does:* 1. Lay the circles on a plate to dry. 2. Pinch each circle in the middle and twist it into a flower. 3. Glue it on the card and draw a stem.  
+  *Parent does:* 1. Lay the circles on a plate to dry. 2. Pinch each circle in the middle and twist it into a flower. 3. Glue it on the card and add a stem, drawn with the green pen or cut from green paper.  
   *Parent says:* Look at the rings. Which pen made the most colours? Which made only one?  
   *Child mode:* Dry the circles. Pinch and twist into a flower. Glue it on a card.
-  - Ask: Why did the colours make rings this time, not bands? (good: Because the water spread out from the middle in every direction.; The dyes went outwards instead of upwards.)
+  - Ask: Why did the colours make rings here, and bands on the strips? (good: Because the water spread out from the middle in every direction.; The dyes went outwards instead of upwards.)
 ### a4 · Three White Powders: a detective's tests (25 min)
 - **safety:** Do not taste the powders. A grown-up does the heating, and the child stands at least one metre from the stove. The spoon gets very hot: cool it in the sink.
 - **record:** Make a table with the three powders down the side and the three tests along the top. Write what each powder did.
@@ -412,8 +412,8 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   - Note: Sugar melts and turns brown, then black, and smells of caramel. Salt does not melt on a stove. It may crackle, and the flame near the spoon may flash yellow-orange. Cooking soda does not melt either. It has sodium in it too, so the flame may flash yellow-orange near it as well. Wash the spoon after each powder. Hold the spoon by its end with the cloth.
 - **s4 (6 min)**  
   *Parent does:* 1. The grown-up gives the child a plate with the mystery powder on it. 2. The child chooses which tests to do. 3. The child names the powder and gives their evidence.  
-  *Parent says:* Here is the mystery powder. Which tests will you use? What is it, and how do you know?  
-  *Child mode:* Test the mystery powder. What is it? How do you know?
+  *Parent says:* Here is the mystery powder. Which tests will you use?  
+  *Child mode:* Pick your tests. Then name the powder and say how you know.
   - Check: The mystery powder does not fizz with lemon juice. When it is heated, it melts and turns brown. What is it? → **Sugar**
 ### a5 · Flame Colour Spotter (10 min, 7 days)
 - **safety:** Only look at flames from a safe distance. Watch fireworks only with a grown-up, from far away.
@@ -426,7 +426,7 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
 - **s2 (5 min)**  
   *Parent does:* On day 7, read the page together.  
   *Parent says:* Which colour did you see most? Why do you think so?  
-  *Child mode:* Look at your page. Which colour did you see most?
+  *Child mode:* Read your page. Count how many times you saw each colour.
   - Note: Yellow-orange from sodium is by far the most common, because salt is everywhere: in food, sweat and tap water. Old orange street lights use sodium too. If you see fireworks at Deepavali, red is usually strontium, green is barium and blue is copper.
   - Check: Milk boils over onto the gas flame, and it flashes yellow-orange. Milk has a little salt in it. Which element made the colour? → **Sodium**
 
@@ -458,9 +458,9 @@ That evening, Arun took his sketch pen and made a careful dot on a strip of towe
   *Parent says:* Engineers start by looking at the problem closely. Where are the colours running into each other?  
   *Child mode:* Look at a strip from the Which Pen test. Which colours are blurry or squashed together?
 - **s2 (5 min)**  
-  *Parent does:* Draw three ideas before trying any.  
-  *Parent says:* Let's think of three changes. Remember, change only one thing at a time, or we won't know which one worked.  
-  *Child mode:* Draw three ideas. Change only one thing each time.
+  *Parent does:* Think of three ideas before trying any. Say them out loud or write them down.  
+  *Parent says:* Remember, change only one thing at a time, or we won't know which one worked.  
+  *Child mode:* Think of three changes. Try a different paper, or a pinch of salt. Change one thing each time.
 - **s3 (15 min)**  
   *Parent does:* 1. Try each idea with a new strip. 2. Measure the gap between the bands. 3. Compare with the strip from the Which Pen test.  
   *Parent says:* Which change spread the colours furthest apart? How do you know?  

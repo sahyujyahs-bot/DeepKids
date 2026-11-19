@@ -418,7 +418,7 @@
         "with a parent",
         "with friends"
       ],
-      "context": "This is a card game. One player is a helpline worker, and the others call with problems. The helpline worker says which right or law helps, and what to do.",
+      "context": "This is a card game. One player is a helpline worker, and the others call with problems. You will find out which law helps in each problem, and what the caller should do.",
       "printables": [
         {
           "kind": "cards",
@@ -541,9 +541,9 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "Ask your child which call was hardest, and which law they think helps the most people.",
-          "say": "Which call was the hardest to answer? Which of these laws do you think helps the most people, and why?",
-          "kid": "Which call was hardest? Which law helps the most people? Why do you think so?",
+          "do": "Ask your child which call was hardest. Then ask the question below.",
+          "say": "Which call was the hardest to answer? Why?",
+          "kid": "Think about the calls. Which one was the hardest?",
           "ask": [
             {
               "q": "Which law do you think helps the most people?",
@@ -579,7 +579,7 @@
         "with a parent",
         "with friends"
       ],
-      "context": "This is a quick game with coins or buttons. Each player shops, pays a little tax into a shared pot, and then the players decide together what the pot pays for.",
+      "context": "This is a quick game with coins or buttons. Each player shops, pays a little tax into a shared pot, and then the players decide together what the pot pays for. You will see why a shared pot cannot pay for everything.",
       "printables": [
         {
           "kind": "cards",
@@ -690,7 +690,7 @@
           "mins": 3,
           "do": "Ask who paid into the pot, who may use the road, and whether that is fair.",
           "say": "Did everyone put the same amount in? Does everyone get to use the road? Is that fair?",
-          "kid": "Did everyone pay the same? Can everyone use the road? Is that fair?",
+          "kid": "Look at how many coins each player put in.",
           "think": "Some of you paid more into the pot than others. Should that change who may use the road?",
           "parent": "The road, the school lunch and the street lights are for everyone, whatever each person paid in. That is why they are paid for with public money. Good answers give a reason."
         }
@@ -843,8 +843,8 @@
           "id": "s4",
           "mins": 6,
           "do": "1. Put the bills in a line from the most tax in every 100 to the least. 2. Find any bill with no tax. 3. Talk about why.",
-          "say": "Line up the bills from the most tax to the least. Which bill had none? Why might that be?",
-          "kid": "Line up the bills. Most tax first. Which bill had no tax? Why?",
+          "say": "Line up the bills from the most tax to the least. Look for a bill with no tax.",
+          "kid": "Line up the bills. Put the bill with the most tax first.",
           "ask": [
             {
               "q": "Why might the vegetable seller's slip have no tax?",
@@ -867,8 +867,8 @@
           "id": "s5",
           "mins": 4,
           "do": "1. Ask your child to say what they found, which bills showed it, and why they think so. 2. Then ask where the tax goes.",
-          "say": "So what did you find? Say what you think, what you saw on the bills, and why. Then tell me: where does all this tax money go?",
-          "kid": "Say what you found. Say which bills showed it. Where does the tax money go?",
+          "say": "So what did you find? Tell me what you saw on the bills, and why you think so.",
+          "kid": "Tell your grown-up what you found and which bills showed it.",
           "ask": [
             {
               "q": "Who paid tax this week in our family?",
@@ -940,10 +940,10 @@
         {
           "day": 1,
           "mins": 25,
-          "what": "Pick 20 things. Guess. Read every label. Count, make a bar chart and mark the countries on a map."
+          "what": "Pick 20 things. Guess. Read every label. Count in piles, make a bar chart and mark the countries on a map."
         }
       ],
-      "record": "Fill in the table. Then draw a bar for each country, with the number of things made there.",
+      "record": "Fill in the table. Then show how many things were made in each country, with a bar chart or with piles of the things.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example: where 20 things were made",
@@ -986,7 +986,7 @@
           "mins": 3,
           "do": "Ask for a guess and a reason, and write it down.",
           "say": "Out of these 20, how many do you think were made in India? Why?",
-          "kid": "Guess: how many of the 20 were made in India? Why do you think so?",
+          "kid": "Guess how many of the 20 were made in India.",
           "ask": [
             {
               "q": "Why did you guess that number?",
@@ -1009,9 +1009,9 @@
         {
           "id": "s4",
           "mins": 5,
-          "do": "1. Count how many things came from each country. 2. Draw a bar chart. 3. Mark each country on the map.",
-          "say": "Let's count. How many from India? From each other country? Now let's find them on the map.",
-          "kid": "Count the things from each country. Draw a bar for each. Find each country on the map.",
+          "do": "1. Put the things in a pile for each country. 2. Count each pile. 3. Line the piles up side by side like bars, or draw a bar chart. 4. Mark each country on the map.",
+          "say": "Let's make a pile for each country. How many from India? From each other country? Now let's find them on the map.",
+          "kid": "Make a pile for each country. Count each pile. Find each country on the map.",
           "check": {
             "t": "mcq",
             "q": "A phone box says 'Made in India', but its parts came from five countries. What does the label tell you?",
@@ -1054,7 +1054,7 @@
         },
         {
           "art": "A bar chart drawn in a notebook next to a world map with countries circled.",
-          "caption": "3. Count, draw a bar chart and mark the countries on a map."
+          "caption": "3. Count the piles, show them as bars, and mark the countries on a map."
         }
       ]
     }
@@ -1099,7 +1099,7 @@
           "mins": 3,
           "do": "Ask who paid for each thing on the list.",
           "say": "Who do you think paid for that street light? And the road?",
-          "kid": "Who paid for the street light? Who paid for the road? Guess.",
+          "kid": "Pick one thing on your list. Guess who paid for it.",
           "ask": [
             {
               "q": "Who paid for the road?",
@@ -1117,7 +1117,7 @@
           "mins": 2,
           "do": "Ask your child where the government gets its money, and leave the question unanswered for now.",
           "say": "The government paid. But where did the government get the money? Keep that question. We'll find out from our own bills.",
-          "kid": "The government paid. But where did it get the money? Keep that question!",
+          "kid": "Keep this question until we look at our own bills.",
           "think": "Where does the government get its money from?",
           "parent": "The government gets most of its money from tax. The Bill Detective experiment will show this on your own family's bills."
         }
@@ -1190,7 +1190,7 @@
           "mins": 2,
           "do": "Ask which rule surprised your child most.",
           "say": "Which rule surprised you most? Why do you think the law needed to say it?",
-          "kid": "Which rule surprised you? Why do you think the law says it?",
+          "kid": "Think of the rule that surprised you most.",
           "ask": [
             {
               "q": "Why do you think the law bans tests for small children?",
@@ -1277,9 +1277,9 @@
         {
           "id": "s4",
           "mins": 2,
-          "do": "Ask who gets the money paid for a fake worker, and why reading the register aloud helps.",
-          "say": "Who gets the money paid for a worker who doesn't exist? Why does reading the register aloud in the village help?",
-          "kid": "Who gets the money for a fake worker? Why does reading the list aloud help?",
+          "do": "Ask who gets the money paid for a fake worker. Then ask the question below.",
+          "say": "Who gets the money paid for a worker who doesn't exist?",
+          "kid": "Think about the fake worker, Suresh. Who could take his pay?",
           "ask": [
             {
               "q": "Why does reading the register aloud help?",
@@ -1302,7 +1302,7 @@
           "caption": "2. Compare them name by name, and mark the mistakes in red."
         }
       ],
-      "context": "This is a pretend social audit. You check a village work register against job cards and what villagers say.",
+      "context": "This is a pretend social audit. You will find out how a fake worker can hide in a register that looks fine, by checking it against job cards and what villagers say.",
       "problem": "A muster roll is the attendance list at a work site, showing who worked on which days. A social audit checks it by comparing it with the workers' job cards and with what the villagers say. Here you check a pretend muster roll in the same way and find the mistakes."
     },
     {
@@ -1423,7 +1423,7 @@
           "mins": 3,
           "do": "Compare their answers with your child's school today.",
           "say": "What is different for you now? Which law do you think made the biggest difference?",
-          "kid": "What is different for you now? Which law helped most?",
+          "kid": "Compare their school with yours. What has changed?",
           "ask": [
             {
               "q": "What is the biggest difference?",
@@ -1498,7 +1498,7 @@
           "what": "Add the last bills. Add up the week's tax. Make a list of what that money could help pay for."
         }
       ],
-      "record": "The table of the week's bills, the total tax, and a drawing of one shared thing the tax helps pay for.",
+      "record": "The table of the week's bills, the total tax, and a drawing or a photo of one shared thing the tax helps pay for.",
       "flow": [
         {
           "id": "s1",
@@ -1591,9 +1591,9 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "Draw three quick ideas before choosing one.",
-          "say": "Designers try many ideas first. Draw three quick ideas, in a few lines each.",
-          "kid": "Draw three quick ideas. Just a few lines each."
+          "do": "Say three different ideas out loud before choosing one. A quick sketch or a few words is fine.",
+          "say": "Designers try many ideas first. Tell me three ideas for the board. Then choose the one you like best.",
+          "kid": "Think of three ideas for the board. Choose one."
         },
         {
           "id": "s3",
@@ -1654,15 +1654,15 @@
           "mins": 5,
           "do": "Remind your child how the cheating worked in the Muster Roll Check.",
           "say": "In the Muster Roll Check, the pretend register had a worker called Suresh, whom nobody in the village knew. How did that false name get into the register?",
-          "kid": "In the Muster Roll Check, nobody knew the worker called Suresh. How did his name get into the register?",
+          "kid": "Remember Suresh, the worker nobody knew.",
           "context": "This is the first step of a design challenge. You invent a work register that is hard to fake."
         },
         {
           "id": "s2",
           "mins": 12,
-          "do": "1. Draw a new kind of register. 2. Try it for a family job, such as who watered the plants today.",
+          "do": "1. Make a new kind of register on paper, for example with a column for thumbprints. 2. Try it for a family job, such as who watered the plants today.",
           "say": "Design a register that would catch a fake name. Then let's try it at home.",
-          "kid": "Design your register. Try it at home. Who watered the plants today?",
+          "kid": "Make your register. Try it at home. Who watered the plants today?",
           "adult": true,
           "parent": "If you use turmeric paste for thumbprints, it stains, so keep a damp cloth ready. An ink pad from a stationery shop is cleaner."
         },

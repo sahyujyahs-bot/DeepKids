@@ -318,7 +318,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about sorting things into polymers made by living beings, polymers made by people, and things that are not polymers.",
+   "context": "This is a card game about sorting things into polymers made by living beings, polymers made by people, and things that are not polymers. You will find out which everyday things are polymers, and who made them.",
    "printables": [
     {
      "kind": "cards",
@@ -457,7 +457,7 @@
      "mins": 3,
      "do": "Take out the card 'A rubber band' and play it as a practice round. Then put it back in the pile.",
      "say": "This is a practice card: a rubber band. Which heading does it go under?",
-     "kid": "This is a practice card: a rubber band. Which heading does it go under?",
+     "kid": "Look at the practice card, the rubber band. Put it under the heading you think is right.",
      "check": {
       "t": "mcq",
       "q": "Which heading does a rubber band go under?",
@@ -498,7 +498,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a chain-building game. Each right answer adds a link to your chain. The first to 10 links has made a polymer.",
+   "context": "This is a chain-building game. Each right answer adds a link to your chain. The first to 10 links has made a polymer. A polymer is a long chain of many small pieces joined together.",
    "printables": [
     {
      "kind": "cards",
@@ -599,7 +599,7 @@
      "id": "s2",
      "mins": 18,
      "do": "Play until someone reaches 10 links.",
-     "say": "Read the card and answer. Right? Add a link. Two right in a row? You may make a cross-link with another player.",
+     "say": "Read the card and answer. Right? Add a link. Two right in a row? Make a cross-link with another player. You both add one extra link.",
      "kid": "Answer the card. Right? Add a link to your chain.",
      "check": {
       "t": "mcq",
@@ -632,7 +632,7 @@
    "title": "The Borax Test: how much borax makes the firmest slime?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you make three slimes from the same glue, with 1, 3 and 6 teaspoons of borax water. Then you measure how far each one spreads on a plate.",
+   "context": "In this experiment you make three slimes from the same glue, with 1, 3 and 6 teaspoons of borax water. Then you measure how far each one spreads on a plate. You will find out whether more borax makes the slime firmer.",
    "question": "Does more borax water make slime firmer, so that it spreads less on a plate?",
    "predict": "Guess first. Which cup will make the firmest slime: 1, 3 or 6 teaspoons of borax water? Which one will spread out the most on the plate? Why do you think so?",
    "fair_test": "Every cup gets the same glue, the same water and the same stirring time. Each ball is rolled the same way and measured at the same moments. Only the amount of borax water changes.",
@@ -700,7 +700,7 @@
      "what": "Mix borax water. Make three slimes with 1, 3 and 6 teaspoons. Roll balls, measure how far they spread, and test pulling slowly and fast."
     }
    ],
-   "record": "Fill in the table. Draw the three balls on the plate after 3 minutes, using the ruler to get the sizes right.",
+   "record": "Fill in the table. Then take a photo of the three balls on the plate after 3 minutes, with the ruler beside them.",
    "flow": [
     {
      "id": "s1",
@@ -717,7 +717,7 @@
      "mins": 4,
      "do": "1. Put 2 tablespoons of glue and 1 tablespoon of water into each of the three cups. 2. Stir each cup until smooth. 3. Lift a spoonful and let it drip.",
      "say": "Every cup gets exactly the same glue and water. Look how the glue drips off the spoon. Is it runny or thick?",
-     "kid": "Put 2 big spoons of glue in each cup. Add 1 big spoon of water. Stir. Lift the spoon. How does it drip?",
+     "kid": "Put 2 big spoons of glue in each cup. Add 1 big spoon of water. Stir. Lift a spoonful and watch it drip.",
      "ask": [
       {
        "q": "How is the glue different from water when it drips?",
@@ -733,15 +733,15 @@
      "mins": 3,
      "do": "Ask for a guess and a reason before adding any borax. Write the guess down.",
      "say": "We will add 1 teaspoon of borax water to the first cup, 3 to the second and 6 to the third. Which cup will make the firmest slime? Which will spread most on a plate? Why do you think so?",
-     "kid": "Cup 1 gets 1 teaspoon of borax water. Cup 3 gets 3 teaspoons. Cup 6 gets 6 teaspoons. Which slime will be firmest? Why? Write your guess.",
+     "kid": "Cup 1 gets 1 teaspoon of borax water. Cup 3 gets 3 teaspoons. Cup 6 gets 6 teaspoons. Tell your grown-up which slime you think will be firmest, and why.",
      "parent": "Wait for a guess and a reason. Any reason is good. Do not explain cross-links yet."
     },
     {
      "id": "s4",
      "mins": 6,
      "do": "1. Add 1 teaspoon of borax water to cup 1, 3 teaspoons to cup 3 and 6 teaspoons to cup 6. 2. Stir each cup for one full minute, counting to 60. 3. Watch what happens to the glue.",
-     "say": "Let's add the borax water and stir each cup for one minute. Watch the glue closely as you stir. What do you see happening?",
-     "kid": "A grown-up adds the borax water. Stir each cup and count to 60. What happens to the glue?",
+     "say": "Let's add the borax water and stir each cup for one minute. Watch the glue closely as you stir.",
+     "kid": "A grown-up adds the borax water. Stir each cup and count to 60. Watch the glue.",
      "adult": true,
      "ask": [
       {
@@ -768,7 +768,7 @@
      "mins": 6,
      "do": "1. Put the three balls on the steel plate at the same moment, a hand apart. 2. Measure the width of each ball straight away. 3. Start a timer for 3 minutes. 4. Measure each width again.",
      "say": "Now we find out which slime is firmest. A firm slime holds its shape. A soft one spreads out. Let's measure them now and again after 3 minutes.",
-     "kid": "Put the balls on the plate. Measure how wide each is. Wait 3 minutes. Measure again. Which spread most?",
+     "kid": "Put the balls on the plate. Measure how wide each is. Wait 3 minutes. Measure again.",
      "check": {
       "t": "mcq",
       "q": "Which ball would you expect to spread least on the plate?",
@@ -787,7 +787,7 @@
      "mins": 4,
      "do": "1. Take the ball from cup 3. 2. Hold it in two hands and pull your hands apart very slowly. 3. Roll it up again. 4. Now give it one quick, sharp tug.",
      "say": "Let's try one more thing. Pull the slime very slowly. Now roll it up and pull it with one quick tug. What is different?",
-     "kid": "Pull your slime very slowly. What happens? Now pull it fast. What happens?",
+     "kid": "Pull your slime very slowly. Then roll it up and give it one quick tug.",
      "ask": [
       {
        "q": "What happened when you pulled slowly, and when you pulled fast?",
@@ -888,7 +888,7 @@
    "title": "The Skewer and the Balloon: where can a stick go in without a pop?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you push an oiled bamboo skewer into a balloon at different places, to find where the rubber can stretch around it without bursting.",
+   "context": "In this experiment you push an oiled bamboo skewer into a balloon at different places, to find where the rubber can stretch around it without bursting. You will find out why a balloon can be pierced without popping.",
    "question": "Can a skewer go into a balloon without popping it, and does it matter where you push?",
    "predict": "Guess first. Will the balloon pop if a skewer goes into its side? What about the thick end near the knot? Why do you think so?",
    "fair_test": "Blow every balloon to the same size, about three-quarters full. Use the same oiled skewer each time. Try each place on a new balloon, and try each place twice, because one try can be a fluke.",
@@ -924,7 +924,7 @@
      "what": "Blow up 4 balloons. Push an oiled skewer into the thick end near the knot on two of them, and into the side on the other two. Record which ones pop."
     }
    ],
-   "record": "Fill in the table. Draw a balloon and mark with a tick where the skewer went in safely and a cross where it popped.",
+   "record": "Fill in the table. Put a tick where the skewer went in safely and a cross where the balloon popped.",
    "flow": [
     {
      "id": "s1",
@@ -1008,7 +1008,7 @@
    "title": "The Milk Packet Stretch: does every part of a plastic strip stretch the same?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you mark a strip of milk packet plastic in centimetre squares, pull it slowly, and measure which squares stretch.",
+   "context": "In this experiment you mark a strip of milk packet plastic in centimetre squares, pull it slowly, and measure which squares stretch. You will find out whether a plastic strip stretches the same all along.",
    "question": "When you pull a strip of plastic slowly, does every part stretch the same amount?",
    "predict": "Guess first. The strip is marked into ten squares, each 1 cm long. When you pull it, will every square stretch a little, or will some stretch a lot and others not at all? Why do you think so?",
    "fair_test": "Use strips cut the same size from the same packet. Pull slowly and steadily, at about the same speed each time. Measure every square before and after.",
@@ -1043,7 +1043,7 @@
      "what": "Cut a strip from a milk packet, mark it in 1 cm squares, pull it slowly, and measure each square."
     }
    ],
-   "record": "Fill in the table. Draw the strip after pulling, showing which squares grew.",
+   "record": "Fill in the table. Then lay the pulled strip beside the ruler and take a photo of it.",
    "flow": [
     {
      "id": "s1",
@@ -1093,7 +1093,7 @@
      "mins": 3,
      "do": "Ask your child what they found, what they saw that shows it, and why they think it happened.",
      "say": "Polythene chains start out coiled and tangled. Where the strip went narrow, the chains were pulled straight and lined up side by side. Lined-up chains are harder to stretch further. So the pull moved on to the next part. What did you find?",
-     "kid": "Say what you found. Did every part stretch the same? Why not?",
+     "kid": "Say what you found. Did every part stretch the same? Why or why not?",
      "check": {
       "t": "mcq",
       "q": "The narrow part stopped stretching, and the next part of the strip began to stretch. Why?",
@@ -1128,7 +1128,7 @@
    "id": "a1",
    "title": "Noodles and Rice: a model of long molecules",
    "mins": 10,
-   "context": "In this activity you lift cooked rice and cooked noodles with a fork, to see why long molecules behave differently from short ones.",
+   "context": "In this activity you lift cooked rice and cooked noodles with a fork, to see why long molecules behave differently from short ones. You will find out what long molecules do when they are crowded together.",
    "materials": [
     {
      "item": "a small bowl of cooked rice",
@@ -1149,7 +1149,7 @@
      "mins": 3,
      "do": "1. Put the two bowls side by side. 2. Lift a forkful of rice. 3. Lift a forkful of noodles.",
      "say": "Let's lift some rice, then some noodles. What do you notice?",
-     "kid": "Lift some rice with the fork. Now lift some noodles. What is different?",
+     "kid": "Lift some rice with the fork. Now lift some noodles. Look at what comes up each time.",
      "ask": [
       {
        "q": "What happened to the rice, and to the noodles?",
@@ -1175,7 +1175,7 @@
      "mins": 4,
      "do": "Talk about what the model shows.",
      "say": "Water and sugar are made of small molecules, a bit like the rice grains. Glue, plastic and rubber are made of very long molecules, more like the noodles. What do you think long molecules do when they are crowded together?",
-     "kid": "Rice is like small molecules. Noodles are like long ones. What do long ones do together?",
+     "kid": "Rice is like small molecules. Noodles are like long ones.",
      "parent": "Tied noodles would stay together in one heap and could not slide apart. That is what borax does to glue.",
      "ask": [
       {
@@ -1204,7 +1204,7 @@
    "id": "a2",
    "title": "Isabgol Jelly: a slime a plant made",
    "mins": 20,
-   "context": "In this activity you heat isabgol husk in water to make a gooey jelly. The husk is the seed coat of the Plantago plant, and the jelly is a natural polymer.",
+   "context": "In this activity you heat isabgol husk in water to make a gooey jelly. The husk is the seed coat of the Plantago plant, and the jelly is a natural polymer. You will find out that a plant can make slime too.",
    "materials": [
     {
      "item": "isabgol (psyllium husk), from a chemist or grocery shop",
@@ -1253,7 +1253,7 @@
      "mins": 10,
      "do": "1. Let it cool for 10 minutes. 2. Pick it up and pull it slowly. 3. Compare it with the borax slime, if you made one.",
      "say": "Now pull it slowly. Is it like the borax slime? What is the same, and what is different?",
-     "kid": "Is it cool? Pick it up. Pull it slowly. Is it like the borax slime?",
+     "kid": "Let it cool. Pick it up and pull it slowly. Compare it with the borax slime, if you made one.",
      "ask": [
       {
        "q": "Why can isabgol make slime without any borax?",
@@ -1328,8 +1328,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Talk about what was the same and what was different.",
-     "say": "Which thread smelled like burnt hair? Why might wool smell like your hair?",
-     "kid": "Which one smelled like hair? Why?",
+     "say": "Which thread smelled like burnt hair?",
+     "kid": "Point to the threads that smelled like burnt hair.",
      "ask": [
       {
        "q": "Why did wool and silk smell like burnt hair?",
@@ -1381,8 +1381,8 @@
      "id": "s2",
      "mins": 7,
      "do": "1. Group the things by number. 2. Feel each group: stiff or soft, clear or cloudy.",
-     "say": "Do things with the same number feel alike? What is different about number 4 and number 5?",
-     "kid": "Put things with the same number together. Do they feel alike?",
+     "say": "Do things with the same number feel alike? How is one group different from another?",
+     "kid": "Put things with the same number together. Feel each group.",
      "parent": "Number 4 plastic is soft and bends, like a packet. Number 5 is stiffer, like a tub or a bucket. They are different polymers, made of different small pieces.",
      "ask": [
       {
@@ -1413,7 +1413,7 @@
    "title": "The Slime Diary: what happens to slime left in the air?",
    "mins": 30,
    "days": 4,
-   "context": "In this 4-day project you keep two balls of slime, one in a closed box and one on an open plate, and check them every day.",
+   "context": "In this 4-day project you keep two balls of slime, one in a closed box and one on an open plate, and check them every day. You will find out what happens to slime when its water can escape.",
    "materials": [
     {
      "item": "slime from the borax test (cup 3), split into two equal balls",
@@ -1459,14 +1459,14 @@
      "what": "Compare them. Knead a few drops of water into the dry one. Does it soften?"
     }
    ],
-   "record": "Each day, write how each ball feels and how far it stretches before it breaks, and draw it.",
+   "record": "Each day, write how each ball feels and how far it stretches before it breaks, and take a photo of both balls.",
    "flow": [
     {
      "id": "s1",
      "mins": 10,
      "do": "1. Split the slime into two balls of the same size. 2. Put one in the box and close the lid. 3. Put the other on the saucer in the open. 4. Write how each feels.",
      "say": "Slime is long chains, tied together, with water between them. What will happen if the water can escape? Let's find out.",
-     "kid": "Make two balls. One goes in the box. One stays on the saucer. Which will change?",
+     "kid": "Make two balls. One goes in the box. One stays on the saucer.",
      "ask": [
       {
        "q": "What do you think will happen to the ball on the open saucer? Why?",
@@ -1513,7 +1513,7 @@
    "id": "c1",
    "title": "The Bounciest Slime Ball",
    "mins": 30,
-   "context": "This is a design challenge. You change your slime recipe to make the ball that bounces highest.",
+   "context": "This is a design challenge. You change your slime recipe to make the ball that bounces highest. You will find out what makes slime bounce.",
    "problem": "Make the slime ball that bounces highest when dropped onto a steel plate from 30 cm.",
    "constraints": [
     "You may use only white PVA glue, water and borax water.",
@@ -1579,7 +1579,7 @@
    "id": "c2",
    "title": "The Milk Packet Rope",
    "mins": 30,
-   "context": "This is an engineering challenge. You make the strongest rope you can from one milk packet.",
+   "context": "This is an engineering challenge. You make the strongest rope you can from one milk packet. You will find out how thin, weak strips can become a strong rope.",
    "problem": "Make a rope from one empty milk packet that can lift a one-litre bottle of water off the floor.",
    "constraints": [
     "Use only one washed milk packet, and scissors.",
@@ -1602,7 +1602,7 @@
     "Twist two ropes together the opposite way, as rope makers do.",
     "Fold a strip many times along its length before twisting."
    ],
-   "your_turn": "Now design your own rope. Draw your plan, make it, and lift the bottle. Does it hold?",
+   "your_turn": "Now design your own rope. Draw your plan or tell it to your grown-up, make it, and lift the bottle. Does it hold?",
    "flow": [
     {
      "id": "s1",

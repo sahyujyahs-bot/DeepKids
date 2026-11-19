@@ -262,8 +262,8 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   *Child mode:* Lay the five mats in a row. Mix up the cards and put them face down. For each card, decide how it stays up.
 - **s2 (3 min)**  
   *Parent does:* Find the card 'Paper plane'. Play it together as a practice round. Then shuffle it back into the pile.  
-  *Parent says:* Let's practise with a paper plane. Does it flap? Does it have an engine? Which mat does it go on?  
-  *Child mode:* Practice card: a paper plane. Does it flap? Does it have an engine? Which mat does it go on? Then shuffle it back into the pile.
+  *Parent says:* Let's practise with a paper plane. Does it flap? Does it have an engine?  
+  *Child mode:* Practice with the paper plane card. Think about how it flies after it leaves your hand. Then shuffle it back into the pile.
   - Ask: What does a paper plane push on to stay up? (good: The air.; Its wings push the air down.)
   - Check: Which mat does a paper plane go on, after it leaves your hand? → **GLIDERS AND SOARERS**
 - **s3 (10 min)**  
@@ -273,14 +273,14 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   - Note: Tricky cards: a vulture flaps to take off but mostly glides and soars, so they can go on two mats. A helicopter has spinning wings, its blades, which push air down. A hot-air balloon is different. Its hot air is lighter than the cold air around it, so it floats up, like a cork in water. A rocket is different again. It throws hot gas out backwards and needs no air at all. That is why Ingenuity on Mars needed spinning blades, but rockets don't.
 - **s4 (3 min)**  
   *Parent does:* Look at the ENGINES AND OTHER TRICKS mat together. Ask which of these things could still fly in space.  
-  *Parent says:* Which of these could still fly in space, where there is no air at all?  
-  *Child mode:* Look at the engines mat. Which one could still fly in space, with no air?
+  *Parent says:* Some of these things need air to work. Some do not.  
+  *Child mode:* Look at the engines mat. Think about which ones need air.
   - Check: Which of these could still fly in space, where there is no air? → **A rocket**
   - Think: Almost every card pushes on air. What does that tell you about air?
 - **s5 (2 min)**  
   *Parent does:* Count the tokens to find the winner. Then count how many cards landed on each mat.  
   *Parent says:* Which mat has the most cards? Which way of flying do you think is the hardest work?  
-  *Child mode:* Count your feathers. Who won? Which mat has the most cards? Which way of flying looks like the hardest work?
+  *Child mode:* Count your feathers. Who won? Then count the cards on each mat.
 ### g2 · Paper Plane Airport (25 min)
 - **rules:** Each pilot folds one paper plane.; Put the runway mat on the floor, 3 big steps from the throwing line.; On your turn, take a challenge card and do what it says to your plane. Then throw.; Score the sheet your plane comes to rest on. Missing the runway scores 0.; Write the points and what the plane did in the pilot log.; After your throw, undo the change and put the card at the bottom of the pile. When the pile has been used up, shuffle it and use it again.; After 4 turns each, the player with the most points wins.
 - **Printable board: A runway mat made of 3 sheets of paper taped in a row:** Sheet 1: LANDING ZONE, 1 point; Sheet 2: GOOD LANDING, 3 points; Sheet 3: PERFECT LANDING, 5 points
@@ -294,14 +294,14 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **s2 (12 min)**  
   *Parent does:* 1. Take turns. Each pilot draws a challenge card, does it, then throws. 2. Score the landing. 3. Write it in the pilot log. 4. Undo the change and put the card at the bottom of the pile.  
   *Parent says:* What did that card do to your plane? Did it climb, dive or glide?  
-  *Child mode:* Pick a card. Do what it says. Throw your plane. Did it climb, dive or glide? Write your points.
+  *Child mode:* Pick a card. Do what it says. Throw your plane. Write your points.
   - Ask: What did the paper clip on the nose do? (good: It stopped the plane swooping up and dropping.; It made the nose heavier, so it flew steadier.)
   - Ask: What did bending up the back edges of the wings do? (good: The nose went up.; It glided further.; It swooped up if I bent them too much.)
   - Note: A paper clip on the nose moves the plane's balance point forward. That usually makes it steadier. Bending up the back edges of the wings pushes the tail down and the nose up. Too much, and the plane swoops up and stalls. Bending the back edge of one wing down makes the plane roll to one side.
 - **s3 (4 min)**  
   *Parent does:* Ask each pilot which change helped most. Try that change again to check.  
   *Parent says:* Which change helped most? Let's try it once more, to check it wasn't luck.  
-  *Child mode:* Which change helped your plane most? Try it again. Was it luck, or does it work every time?
+  *Child mode:* Pick the change that helped your plane most. Try it again.
   - Check: A paper plane swoops up, stops and drops. What is the best fix? → **Add a paper clip to the nose**
 - **s4 (3 min)**  
   *Parent does:* Add up the points and find the winner. Read out the best 'What the plane did' notes.  
@@ -316,12 +316,12 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **predict:** Before you test, guess. Which will fly furthest: the plane with no clip, with 1 clip, or with 3 clips on its nose? And why do you think so?
 - **fair test:** To make it fair, use the same plane each time and throw it from the same line, with the same gentle throw. Change only the number of clips. Throw 3 times for each number of clips, because one throw can be a fluke.
 - **safety:** Never throw planes towards anyone's face.
-- **record:** Fill in the table. Then draw a bar chart, with one bar each for no clip, 1 clip and 3 clips. Make each bar as tall as its middle distance.
+- **record:** Fill in the table. Then make a bar chart, with one bar each for no clip, 1 clip and 3 clips. Draw each bar, or lay a string as long as each middle distance.
 - **results table:** Plane | Throw 1 (metres) | Throw 2 (metres) | Throw 3 (metres) | Middle value (metres)
 - **s1 (5 min)**  
   *Parent does:* 1. Help your child fold one dart plane. 2. Stick a strip of tape on the floor as the throwing line. 3. Ask your child to guess which version will fly furthest.  
   *Parent says:* We'll test one plane three ways. No clips, one clip and three clips on its nose. Which do you think will fly furthest?  
-  *Child mode:* Fold one paper plane. Mark a line on the floor. Guess. Will no clip, 1 clip or 3 clips fly furthest?
+  *Child mode:* Fold one paper plane. Mark a line on the floor. Then guess which will fly furthest.
   - Ask: Why did you guess that? (good: The clip makes it heavier, so it falls faster.; The clip makes it steadier.)
   - Note: To fold a dart plane: fold an A4 sheet in half the long way and open it. Fold the two top corners in to the middle line. Fold the two new slanted edges in to the middle again. Fold the whole plane in half along the middle line, then fold each wing down level with the bottom edge.
 - **s2 (10 min)**  
@@ -334,9 +334,9 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   *Parent says:* Watch how the plane flies, not just how far. Does it swoop, dive or glide?  
   *Child mode:* Put 1 clip on the nose. Throw 3 times and measure. Now try 3 clips. Watch how it flies.
 - **s4 (5 min)**  
-  *Parent does:* Help your child draw a bar chart of the middle values, with one bar each for no clip, 1 clip and 3 clips.  
+  *Parent does:* Help your child make a bar chart of the middle values. Use one bar each for no clip, 1 clip and 3 clips.  
   *Parent says:* No clip, 1 clip and 3 clips each get one bar. The taller the bar, the further the plane flew.  
-  *Child mode:* Draw one bar each for no clip, 1 clip and 3 clips. Make each bar as tall as its middle number. Taller means further.
+  *Child mode:* Make one bar each for no clip, 1 clip and 3 clips. Draw them, or cut a strip of string as long as each middle distance. A longer bar means further.
   - Check: In the made-up example chart, the plane with 1 clip flew furthest. Why might 1 clip fly further than no clip? → **The clip moves the balance point forward, so the plane glides steadily instead of swooping**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -349,7 +349,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **predict:** Before you test, guess. Will the spinner with short wings, middle wings or long wings take longest to fall? And why do you think so?
 - **fair test:** Use the same paper and the same paper clip on each spinner. Drop each one from the same height, about 2 metres, by letting go, not throwing. Change only the wing length. Time each one 3 times, because one drop can be a fluke.
 - **safety:** A grown-up holds the spinner as high as they can reach. Never drop things from a balcony.
-- **record:** Fill in the table. Then draw a bar chart of the middle times, one bar for each spinner.
+- **record:** Fill in the table. Then make a bar chart of the middle times, one bar for each spinner. Draw it, or stack coins.
 - **results table:** Wing length | Drop 1 (seconds) | Drop 2 (seconds) | Drop 3 (seconds) | Middle value (seconds)
 - **s1 (8 min)**  
   *Parent does:* 1. Cut 3 paper strips, each 4 cm wide. Make them 22 cm, 19 cm and 16 cm long. 2. On each strip, mark 12 cm up from the bottom. That part is the body. 3. Cut down the middle from the top to the mark. That makes two wings, 10 cm, 7 cm or 4 cm long. 4. Fold the bottom of each body up twice and add one clip. 5. Fold one wing forward and one wing back.  
@@ -365,7 +365,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **s3 (5 min)**  
   *Parent does:* Find the middle time for each spinner. Draw a bar chart with one bar for each.  
   *Parent says:* Put the three times in order and take the middle one. Then draw the bars.  
-  *Child mode:* Find the middle time for each spinner. Draw a bar for each one. Taller means slower.
+  *Child mode:* Find the middle time for each spinner. Make a bar for each one, drawn or built from a stack of coins. Taller means slower.
   - Check: In the Seed Spinners test, a tall bar means the spinner… → **Took longest to fall**
 - **s4 (2 min)**  
   *Parent does:* Take the clip off one spinner and drop it. Then put two clips on it and drop it.  
@@ -384,7 +384,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **predict:** Before you test, guess. Will a flat hand, a slightly tilted hand or a steeply tilted hand be pushed up the most? And why do you think so?
 - **fair test:** Keep the fan on the same speed. Hold your hand at the same distance from it each time. Change only the tilt.
 - **safety:** A grown-up switches the fan on and off. Fingers stay well outside the fan's guard, at least an arm's length from it.
-- **record:** Fill in the table with words. Then draw your hand at the tilt that got the most push upwards.
+- **record:** Fill in the table with words. Then show your grown-up the tilt that got the most push upwards, or draw it.
 - **results table:** How the hand is tilted | Push upwards: none, a little or a lot | Push backwards: none, a little or a lot | Steady or wobbly?
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Put the fan on a low table and switch it on at its fastest speed. 2. Your child holds one hand flat, palm down, fingers together and pointing at the fan, an arm's length away from it.  
@@ -394,7 +394,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **s2 (6 min)**  
   *Parent does:* 1. Slowly tilt the front edge of the hand up a little. 2. Then tilt it up steeply, nearly upright. 3. After each tilt, write down the push upwards, the push backwards, and whether it was steady.  
   *Parent says:* Tilt the front of your hand up, just a little. Now tilt it right up. Which way is it pushed each time?  
-  *Child mode:* Tilt the front of your hand up a little. Feel it lift? Now tilt it right up. What happens now? Write it down.
+  *Child mode:* Tilt the front of your hand up a little. Feel it lift? Now tilt it right up. What happens now? Tell your grown-up, or write it down.
   - Ask: When was your hand pushed up the most? (good: When it was tilted a little.; Not flat, and not too steep.)
   - Note: With a slight tilt, the hand is pushed up a little. This is lift. With a steep tilt, the hand is mostly pushed back and starts to wobble. Real wings do this too. It is called a stall.
   - Check: In the Hand Wing test, when does the air push your hand up the most? → **When its front edge is tilted up a little**
@@ -412,7 +412,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 ## Activities
 ### a1 · Air Is Real: the dry tissue and the cardboard run (15 min)
 - **problem:** We cannot see air, so it is easy to think there is nothing there. But a wing can only stay up if air is a real material that it can push on. You will show that an 'empty' glass is full of air, and that air pushes back.
-- **record:** Draw the glass in the water, with the air and the dry tissue inside it.
+- **record:** Tell your grown-up what was inside the glass and why the tissue stayed dry. Or draw the glass in the water, with the air and the dry tissue inside.
 - **s1 (7 min)**  
   *Parent does:* 1. Push a tissue into the bottom of a dry glass, so it stays when the glass is turned over. 2. Turn the glass upside down. 3. Push it straight down into the water, all the way under. 4. Lift it straight up and pull out the tissue.  
   *Parent says:* Is this glass empty? Let's find out. Watch the tissue.  
@@ -420,8 +420,8 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   - Ask: Why did the tissue stay dry? (good: Air in the glass kept the water out.; The glass was full of air.)
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Go to the longest clear space you have, like a hallway, a long room or a terrace. 2. Your child runs holding a big flat card in front of them, facing forwards. 3. Then they run holding it edge-on, like a knife.  
-  *Parent says:* Which way was harder to run? Something pushed back on the card. What was it?  
-  *Child mode:* Run holding the card flat in front of you. Now run holding it edge-on. Which was harder? What pushed back?
+  *Parent says:* Which way was harder to run? Something pushed back on the card.  
+  *Child mode:* Run holding the card flat in front of you. Now run holding it edge-on. Feel the difference.
   - Check: In the Air Is Real activity, running with the card held flat was harder. Why? → **The air pushed back on the card**
 - **s3 (3 min)**  
   *Parent does:* Talk together about how wings use this push.  
@@ -431,16 +431,16 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 ### a2 · Float a Feather, Float a Ball (hair dryer) (15 min)
 - **problem:** Moving air can push things up. A hair dryer makes a stream of moving air, and you will see it hold up a light ball. Then you will compare this with a wing, which pushes air down instead.
 - **safety:** A grown-up holds the hair dryer and uses the cool setting. Keep it away from water and from hair.
-- **record:** Draw the ball floating in the air stream. Draw arrows showing the air.
+- **record:** Point to where the ball floated and show with your hand which way the air went. Or draw the ball in the air stream, with arrows for the air.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Switch the dryer to cool and point it straight up. 2. Let your child hold a feather above it and let go.  
   *Parent says:* Let go of the feather. What is holding it up?  
-  *Child mode:* Ask a grown-up to hold the dryer, on cool. Let go of a feather above it. What holds it up?
+  *Child mode:* Ask a grown-up to hold the dryer, on cool. Let go of a feather above it. Watch what it does.
   - Note: A feather is light and flutters about, and may blow away. The ping-pong ball hovers more steadily, so start with the ball if the feather will not stay.
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Let go of a ping-pong ball a hand's width above the dryer. 2. Watch it hover. 3. Slowly tilt the dryer to one side. 4. Try a small blown-up balloon.  
   *Parent says:* The ball stays in the stream of air, even when we tilt the dryer. Why doesn't it fall out?  
-  *Child mode:* Let go of a ping-pong ball above the dryer. It floats! Now tilt the dryer slowly. Does the ball fall out?
+  *Child mode:* Let go of a ping-pong ball above the dryer. It floats! Now tilt the dryer slowly and watch the ball. Then try a small blown-up balloon.
   - Ask: What happens when the ball drifts to the edge of the air stream? (good: It moves back into the middle.; The air pushes it back.)
   - Note: The air pushes the ball up, like a hand. When the ball drifts to one edge, the fast air curves around it. Then the ball is pushed back into the stream. Many books explain this with Bernoulli's rule, that fast air pushes less on things beside it. Scientists argue about the best simple explanation, just as they do for wings.
 - **s3 (5 min)**  
@@ -465,16 +465,16 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **s3 (4 min)**  
   *Parent does:* Talk about why plants send seeds so far.  
   *Parent says:* Why is it good for a tree if the seeds fly far away, instead of dropping just underneath?  
-  *Child mode:* Why is it good for a tree if the seeds fly far away?
+  *Child mode:* Tell your grown-up one reason why it helps the tree.
   - Note: A seed that lands under the parent tree has to share light and water with them. A seed that flies far away can land on new ground and grow there.
 ### a4 · Bird Watch: flap, glide or soar? (20 min)
 - **problem:** Birds use different tricks to stay up. Some flap their wings, some glide with their wings held still, and some soar, which means they rise on warm air without flapping. You will watch birds and sort them by what they do.
 - **safety:** Watch from a safe rooftop with a railing, a balcony or a park, with a grown-up. Never look at the Sun, with or without binoculars.
-- **record:** Make a tally table with three columns: flapping, gliding and soaring. Write which birds you saw doing each.
+- **record:** Fill in your tally table with three columns: flapping, gliding and soaring. Write which birds you saw doing each.
 - **s1 (3 min)**  
-  *Parent does:* Draw a tally table with three columns: flapping, gliding and soaring. Explain each word.  
+  *Parent does:* Fold a page into three columns: flapping, gliding and soaring. Explain each word.  
   *Parent says:* Flapping means wings beating. Gliding means wings held still, sinking slowly. Soaring means wings still, and the bird rising or staying up in circles.  
-  *Child mode:* Draw a table with three columns: flapping, gliding and soaring. Make a tally mark for each bird you see.
+  *Child mode:* Fold a page into three columns: flapping, gliding and soaring. You will make a tally mark in a column for each bird you see.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. Watch the sky for 12 minutes, from a window, balcony or terrace. 2. Make a tally mark for each bird you see. 3. Pick one flapping bird and count the wingbeats for 10 seconds.  
   *Parent says:* Where are the soaring birds? Look high up. Are they flapping at all?  
@@ -489,15 +489,15 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   - Think: Soaring birds use the Sun's heat to climb, without flapping. Where else does the Sun's heat make air or water move?
 ### a5 · Be the Air (act it out) (15 min)
 - **problem:** Air is made of tiny molecules that bump into everything. A tilted wing bumps molecules downwards, and the molecules push back and lift the wing. You will act this out with people as molecules and a piece of cardboard as the wing.
-- **record:** Draw the tilted wing, the air molecules hitting its underside and being steered down, and an arrow for the push up on the wing.
+- **record:** Show with the cardboard and your hands how the wing sent the molecules down and how they pushed the wing up. Or draw the tilted wing, the molecules and the arrows.
 - **s1 (4 min)**  
   *Parent does:* 1. Everyone except one person becomes an air molecule. 2. Molecules walk quickly around the room in straight lines, changing direction when they meet something.  
   *Parent says:* Air is made of tiny molecules, zooming about and bumping into everything. You are the molecules. Zoom around, gently!  
   *Child mode:* You are an air molecule! Walk fast in straight lines. When you bump into something, change direction.
 - **s2 (7 min)**  
   *Parent does:* 1. The wing-holder walks slowly through the room, holding the cardboard tilted up at the front. 2. Molecules that meet the underside bump it gently and are steered downwards. 3. Swap roles so everyone holds the wing.  
-  *Parent says:* Wing-holder, can you feel the bumps underneath pushing your wing up? Molecules, which way does the wing send you?  
-  *Child mode:* Bump gently into the bottom of the wing. Which way does the wing send you? If you are holding the wing, feel the bumps push it up!
+  *Parent says:* Wing-holder, can you feel the bumps underneath pushing your wing up?  
+  *Child mode:* Bump gently into the bottom of the wing. Notice which way the wing sends you. If you are holding the wing, feel the bumps push it up!
   - Note: This is a model. Real molecules are far tinier and faster, and a real wing meets countless numbers of them. The key idea is right. The tilted wing pushes molecules down, and the molecules push the wing up.
 - **s3 (4 min)**  
   *Parent does:* Talk about what the play showed.  
@@ -507,7 +507,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   - Check: In the Be the Air play, which way did the tilted wing send the air molecules? → **Downwards**
   - Think: Imagine a wing in space, where there are no molecules underneath it. What would push the wing up?
 ### a6 · Wings Dance and Wind Breath (15 min)
-- **record:** Draw your favourite flying move. Label it flapping, gliding, soaring, spinning or floating.
+- **record:** Show your family your favourite flying move and say its name: flapping, gliding, soaring, spinning or floating. Or draw it and label it.
 - **s1 (8 min)**  
   *Parent does:* 1. Each person holds a dupatta or scarf like wings. 2. Call out a way of flying, and everyone dances it. Flap like a crow. Glide like a paper plane. Soar in circles like a cheel. Spin down like a mahogany seed. Float like aak fluff.  
   *Parent says:* When I call a word, move like that flyer. Flap! Glide! Soar! Spin! Float!  
@@ -521,13 +521,13 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **s3 (2 min)**  
   *Parent does:* End the dance by asking which flyer each person liked being most.  
   *Parent says:* Which flyer did you like being most? Why?  
-  *Child mode:* Which flyer did you like being most? Tell someone why.
+  *Child mode:* Pick your favourite flyer. Tell someone why.
 
 ## Projects
 ### p1 · Build and Fly a Patang (75 min, 3 days)
 - **problem:** A kite has no engine and does not flap. The wind pushes it, the string holds it back, and its tilt turns the push upwards. You will build a kite, fly it, and then change its tail and its tilt to make it fly better.
 - **safety:** Only a grown-up cuts bamboo. Fly in an open park or a rooftop with a high railing and a grown-up, far from electricity wires. Never use glass-coated manja, which cuts hands and birds. If the kite catches on a wire, let it go.
-- **record:** Draw your kite and label the sticks, the paper, the bridle and the tail. Write what you changed on Day 3 and what happened.
+- **record:** Take a photo of your kite, or draw it. Name the sticks, the paper, the bridle and the tail. Write what you changed on Day 3 and what happened.
 - **schedule:** day 1: Make the frame, cover it with paper and leave the glue to dry. (30 min); day 2: Add the tail and the string loop, called the bridle. Decorate the kite. (15 min); day 3: Fly the kite. Change the tail and the tilt to make it fly better. (30 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. A grown-up trims the sticks if needed. 2. Lay the shorter stick across the longer one, about a third of the way from the top. 3. Tie them tightly with thread, crossing it many times, and add a dab of glue.  
@@ -546,7 +546,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **s4 (20 min) · grown-up needed**  
   *Parent does:* 1. Go to an open space with a steady breeze. 2. The flyer stands still with the wind blowing on their back. 3. A helper (the grown-up, if there are only two of you) carries the kite 10 big steps away, downwind, and holds it up with its face to the wind. 4. On 'Now', the helper lets go and the flyer pulls the string in steadily. 5. Let out string slowly as it climbs, but never let it go slack.  
   *Parent says:* The wind pushes the kite. The string holds it back. Keep it tight, and the kite has nowhere to go but up.  
-  *Child mode:* Go to an open space with a grown-up. A helper holds the kite up. On 'Now', pull the string. Keep it tight!
+  *Child mode:* Go to an open space with a grown-up. Stand still with the wind on your back. A helper holds the kite up. On 'Now', pull the string. Keep it tight!
   - Ask: What happened when the string went slack? (good: The kite started to fall.; It sagged and tumbled.)
   - Check: In the kite project, your kite spins round and round in the air. What should you try first? → **Make the tail longer**
 - **s5 (10 min)**  
@@ -558,7 +558,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 ## Challenges
 ### c1 · The Slowest Seed (30 min)
 - **problem:** Design a paper seed that takes as long as possible to fall 2 metres. The longer it stays in the air, the further the wind could carry it.
-- **your turn:** Now invent your own seed. Draw it, build it, drop it 3 times and time it. Can you make it take longer than 2 seconds to fall 2 metres?
+- **your turn:** Now invent your own seed. Build it, drop it 3 times and time it. Can you make it take longer than 2 seconds to fall 2 metres?
 - **constraints:** Use only half a sheet of A4 paper, tape and one paper clip.; The paper clip is the 'seed'. Your design must carry it.; It must be dropped, not thrown, from 2 metres.
 - **general:** A spinner with long wings, like a mahogany seed.; A parachute: a paper cone or a square with the clip hanging under it, like a dandelion.; A flat glider with the clip at the front, like a Javan cucumber seed.
 - **creative:** Cut a fringe of thin strips, like dandelion bristles, so air can flow through.; Give a spinner three wings instead of two, like a drumstick seed.; Curl the wing edges slightly, the way real seed wings curve.
@@ -575,7 +575,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
 - **s3 (5 min)**  
   *Parent does:* Your child draws three different ideas before building anything.  
   *Parent says:* Engineers draw before they build. Draw three different ideas.  
-  *Child mode:* Draw three different seed ideas. A spinner? A parachute? A glider?
+  *Child mode:* Draw three different seed ideas, or describe them to your grown-up. A spinner? A parachute? A glider?
 - **s4 (15 min) · grown-up needed**  
   *Parent does:* 1. Build one design at a time. 2. A grown-up drops it from 2 metres. 3. Time it 3 times and write down the middle time. 4. Improve the best one.  
   *Parent says:* Which one stayed up longest? What could make it even slower?  
@@ -583,7 +583,7 @@ I stepped off the tank and found a rising bubble of air. Farah looked up, and I 
   - Note: Big spinners and wide parachutes both do well. Spinners fall steadily. Parachutes often tip and swing, so try to make them even. If a design tumbles, move the clip or make both sides the same.
 ### c2 · Air Mail: carry the coin (30 min)
 - **problem:** Design a paper glider that carries a 1-rupee coin as far as possible across the room.
-- **your turn:** Now invent your own Air Mail glider. Draw it, build it, and measure how far it carries the coin. Then improve it.
+- **your turn:** Now invent your own Air Mail glider. Build it, and measure how far it carries the coin. Then improve it.
 - **constraints:** Use one sheet of A4 paper and tape.; The coin must stay on the glider for the whole flight.; Throw it gently from a line. No running.
 - **general:** Tape the coin near the nose, so the balance point is a little forward.; Use wide wings, so they can push more air down.; Bend the back edges of the wings up a little if it dives.
 - **creative:** Make a ring-wing glider: a paper loop at the front and a bigger loop at the back, joined by a rolled paper tube.; Copy the wide, flat shape of the Javan cucumber seed, which glides with the heavy seed in the middle.; Fold small upturned tips on the wings, like the feathers on a vulture's wingtips.

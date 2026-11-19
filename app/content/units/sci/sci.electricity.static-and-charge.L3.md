@@ -248,12 +248,12 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - **Printable score sheet: Score sheet (one line for each player):** Player name; Pairs won; SPARK! cards explained
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Read the answer cards together. 3. Shuffle the charge cards.  
-  *Parent says:* Every card is plus, minus or neutral. When I turn two over, say what they do to each other. Attract, repel, or nothing.  
-  *Child mode:* Every card is plus, minus or neutral. Read the answer cards first.
+  *Parent says:* Every card is plus, minus or neutral. Neutral means no charge. When I turn two over, say what they do to each other. Attract, repel, or nothing.  
+  *Child mode:* Read the answer cards first, so you know the rules.
 - **s2 (2 min)**  
   *Parent does:* Play one practice pair together: a rubbed balloon and a paper bit.  
   *Parent says:* A rubbed balloon and a paper bit. The paper bit is neutral. Do they attract, repel, or do nothing?  
-  *Child mode:* A rubbed balloon and a paper bit. What happens? Say your answer.
+  *Child mode:* Decide what the two will do. Say it out loud.
   - Check: A rubbed balloon, with minus charge, meets a neutral paper bit. What happens? → **They attract**
 - **s3 (8 min)**  
   *Parent does:* 1. Turn over two cards and say your answer. 2. Play until the pile is finished. 3. Count the cards each player won.  
@@ -263,7 +263,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - **s4 (2 min)**  
   *Parent does:* Talk about the storm cloud cards.  
   *Parent says:* The top of a storm cloud is plus. The bottom is minus. What do you think happens when the two get too much charge?  
-  *Child mode:* The cloud's top is plus. Its bottom is minus. What happens next?
+  *Child mode:* Guess what the cloud does with so much charge.
   - Note: Air does not let charge cross it easily. So the charge has to build up first. When the pull between the top and the bottom is strong enough, it pushes a spark across the air. That spark is the lightning.
   - Think: Why does lightning not happen all the time, if the top and bottom of a cloud attract?
 ### g2 · Storm Run: a board game about lightning safety (15 min)
@@ -283,7 +283,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - **s3 (2 min)**  
   *Parent does:* When the car card comes up, or after the game, talk about why a closed car is safe in a storm.  
   *Parent says:* A closed car is safe in a storm. Many people think it is because of the rubber tyres. What do you think keeps you safe?  
-  *Child mode:* A car is safe in a storm. Is it the tyres? Or something else?
+  *Child mode:* Say what you think keeps people safe inside a car.
   - Note: The metal body of the car carries the charge round the outside and down to the ground. The tyres are far too thin to stop lightning, which has just crossed kilometres of air.
 
 ## Experiments
@@ -292,7 +292,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - **predict:** Look at the things you will rub the balloon with: dry hair, a woollen sweater, a cotton towel, a newspaper and a second balloon. Which one will make the most paper bits jump up? Which will make the fewest? Why do you think so?
 - **fair test:** Use the same balloon, the same 20 paper bits, the same 10 rubs and the same height every time. Only the thing you rub with changes. Before each new rub, take the old charge off the balloon, and check that it lifts no bits. Do each one twice, because one try can go wrong by chance.
 - **safety:** Pick up every piece of a popped balloon at once, because small children can choke on them. A grown-up blows up the balloons if the child finds it hard.
-- **record:** Fill in the table. Then draw a bar for each thing you rubbed with, as tall as the number of bits it lifted.
+- **record:** Fill in the table. Then make a bar for each thing you rubbed with. Draw it, or line up that many paper bits, as many as it lifted.
 - **results table:** Rubbed with | My guess | Try 1: bits lifted | Try 2: bits lifted | Most or fewest?
 - **s1 (4 min)**  
   *Parent does:* 1. Shut the windows. If you have an AC, run it for 30 minutes first. 2. Put the 20 paper bits in a small heap on the dark plate. 3. Hold the plain balloon 2 cm above them for 3 seconds.  
@@ -301,8 +301,8 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   - Note: No bits should jump, because a new balloon is neutral. This is the starting test that every other result is compared with. Static works best in dry air. In the monsoon, or in Mumbai or Kochi, an AC room helps a lot, because an AC takes water out of the air.
 - **s2 (4 min)**  
   *Parent does:* 1. Show the five things: dry hair, wool, cotton, newspaper and the second balloon. 2. Ask your child to put them in order, from most bits to fewest. 3. Write the guesses in the table.  
-  *Parent says:* We will rub the balloon with each of these, ten times. Which will make the most bits jump? Which the fewest? Why do you think so?  
-  *Child mode:* Which thing will make the most bits jump? Which the fewest? Why?
+  *Parent says:* We will rub the balloon with each of these, ten times. Which will make the most bits jump? Which the fewest?  
+  *Child mode:* Put the five things in order. Guess which makes the most bits jump.
   - Ask: Why do you think that one will work best? (good: Because the sweater made sparks in the story, Sparks in Thatha's Sweater.; Because my hair rose up to the balloon in The Sticky Balloon and the Rising Hair.)
   - Note: Do not say what will happen. Any reason your child gives is good. It tells you what they think now.
 - **s3 (20 min)**  
@@ -327,7 +327,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - **predict:** Guess first. Will a comb that has not been rubbed bend the water? Will a rubbed ruler? Will a steel spoon rubbed on wool? Why do you think so?
 - **fair test:** Keep the stream the same size the whole time. Rub each thing 10 times on the same dry hair or wool. Hold each one the same distance from the stream, about 1 cm, without touching the water.
 - **safety:** Keep away from any switches or sockets near the tap. Dry your hands before you rub anything, and turn the tap off when you finish.
-- **record:** Draw the stream of water four times. Next to each, draw the thing you held near it, and show how much the water bent.
+- **record:** Make a table of the four tries: comb not rubbed, rubbed comb, rubbed ruler, rubbed spoon. Write beside each: bent a lot, bent a little, or did not bend. You can also take a photo of each try.
 - **results table:** Thing | Rubbed? | My guess | Did the water bend? | A lot, a little or not at all?
 - **s1 (4 min)**  
   *Parent does:* 1. Open the tap slowly until the water runs in a thin, smooth stream, about as thick as a pencil lead. 2. Bring the comb, without rubbing it, close to the stream.  
@@ -361,7 +361,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 ## Activities
 ### a1 · The Sticky Balloon and the Rising Hair (10 min)
 - **safety:** Pick up every piece of a popped balloon at once, because small children can choke on them.
-- **record:** Draw the balloon on the wall, and draw your hair rising up to the balloon.
+- **record:** Take a photo of the balloon stuck on the wall. Then tell a grown-up what happened to your hair and why you think so. You can draw it instead.
 - **s1 (4 min)**  
   *Parent does:* 1. Rub the balloon on dry hair or wool 10 times. 2. Press it gently against a painted wall and let go. 3. Try a plain balloon, not rubbed, the same way.  
   *Parent says:* Watch this. I rub the balloon and hold it on the wall. Now I let go. What do you notice? What do you wonder?  
@@ -382,7 +382,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   - Think: If the hairs spread apart, what does that tell you about the charge on each hair?
 ### a2 · The Plastic Tassel: charges that push apart (10 min)
 - **safety:** A grown-up helps with the scissors.
-- **record:** Draw the tassel before rubbing and after rubbing. Mark the charge on each strip.
+- **record:** Take a photo of the tassel before rubbing and after rubbing. Tell a grown-up why the strips moved apart. You can draw both instead.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut a strip of the bag about 30 cm long and 10 cm wide. 2. Cut it into thin strips, about 1 cm wide, but leave 3 cm joined at the top. 3. Tape the top to the edge of a table, so the strips hang down.  
   *Parent says:* We are making a tassel of thin plastic strips. Look how they hang down together, all touching.  
@@ -396,11 +396,11 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - **s3 (2 min)**  
   *Parent does:* Compare the tassel with rubbed hair.  
   *Parent says:* In The Sticky Balloon and the Rising Hair, your hairs spread apart after you rubbed them with the balloon. How is that like this tassel?  
-  *Child mode:* Your hairs spread apart after you rubbed them with a balloon. How is this tassel like that?
+  *Child mode:* Think of your hairs and the strips. What is the same?
   - Note: Rubbed hairs each have the same plus charge, so they spread apart, just like the strips.
 ### a3 · Pepper Jumps, Salt Stays (10 min)
 - **safety:** Pick up every piece of a popped balloon at once, because small children can choke on them. Do not breathe in the pepper, and wash your hands after.
-- **record:** Draw the plate and the balloon. Show which grains jumped up.
+- **record:** Count the pepper grains and the salt grains that jumped up. Write both numbers. Tell a grown-up which jumped first.
 - **s1 (3 min)**  
   *Parent does:* 1. Mix the salt and the pepper on the plate. 2. Ask: how could you get the pepper out without touching it?  
   *Parent says:* Here is salt and pepper, all mixed up. Can you think of a way to take the pepper out, without fingers or a spoon?  
@@ -414,11 +414,11 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - **s3 (3 min)**  
   *Parent does:* Talk about how bees pick up pollen.  
   *Parent says:* A bee needs pollen from flowers. A flying bee picks up a plus charge, and a flower has a small minus charge. What might happen to the pollen when a bee comes close?  
-  *Child mode:* A bee has charge, like your balloon. What happens to the pollen?
+  *Child mode:* Think of the bee as the balloon and the pollen as the pepper.
   - Note: Pollen grains jump across a small gap onto a charged bee, in the same way as the pepper. This helps the bee carry pollen, and helps plants spread their pollen to other flowers.
 ### a4 · Sparks in the Dark (10 min)
 - **safety:** Pick up every piece of a popped balloon at once, because small children can choke on them. Never do this near a gas stove or anything that can catch fire.
-- **record:** Write what you heard and what you saw. Draw the sparks.
+- **record:** Tell a grown-up what you heard and what you saw. You can write it down too.
 - **s1 (3 min)**  
   *Parent does:* 1. At night, switch off every light and close the curtains. 2. Wait one minute, so your eyes get used to the dark.  
   *Parent says:* We are going to look for tiny lightning. First our eyes must get used to the dark. Let's wait a whole minute.  
@@ -432,11 +432,11 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 - **s3 (2 min)**  
   *Parent does:* Switch the light back on and talk.  
   *Parent says:* Each crackle was a tiny spark. How is it like lightning and thunder?  
-  *Child mode:* Each crackle was a tiny spark. How is it like lightning?
+  *Child mode:* Think of the flash and the crackle. What big thing in the sky are they like?
   - Check: What is the crackle you hear when you pull off a sweater in the dark? → **The sound of tiny sparks heating the air, like tiny thunder**
 ### a5 · The Rolling Can (15 min)
 - **safety:** Pick up every piece of a popped balloon at once, because small children can choke on them. A grown-up checks the can's opening for sharp edges.
-- **record:** Draw the can and the balloon, with an arrow for the way the can rolled.
+- **record:** Write how many times you rubbed the balloon to reach the finish line. Tell a grown-up why the can rolled. You can draw it too.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the empty can on its side on a smooth floor. 2. Bring a plain balloon close to it, without touching.  
   *Parent says:* Can a balloon move this can without touching it? Let's try a plain balloon first.  
@@ -466,7 +466,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   - Note: Good rules: go inside at the first thunder, because if you can hear thunder, lightning can reach you. Stay off the terrace and balcony. No bathing or washing up during the storm, because lightning can travel along pipes. Keep away from corded appliances. Wait about 30 minutes after the last thunder before going out. The Damini app, made by the Indian Institute of Tropical Meteorology in Pune, gives lightning warnings.
   - Check: Why should you not have a bath during a thunderstorm? → **Lightning can travel along metal pipes and water into the bathroom**
 ### a7 · Be a Storm Cloud (10 min)
-- **record:** Draw the cloud with plus at the top and minus at the bottom, and a lightning bolt.
+- **record:** Show a grown-up with your arms where the plus and minus end up in the cloud, and tell what the spark is. Or draw the cloud with a lightning bolt.
 - **s1 (3 min)**  
   *Parent does:* 1. Make a paper sign marked plus in red, and one marked minus in blue, for each person. 2. Everyone starts in the middle of the room as a water drop.  
   *Parent says:* We are all water drops inside a storm cloud. The wind is carrying us up into the cold top of the cloud, where we freeze.  
@@ -485,7 +485,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
 ## Projects
 ### p1 · The Static Weather Diary (50 min, 5 days)
 - **safety:** Pick up every piece of a popped balloon at once, because small children can choke on them.
-- **record:** Make a table with a row for each day: date, dry or damp, humidity if you know it, and bits lifted. On the last day, draw a bar chart.
+- **record:** Make a table with a row for each day: date, dry or damp, humidity if you know it, and bits lifted. On the last day, make a bar chart, or line up paper bits for each day.
 - **schedule:** day 1: Rub the balloon 10 times on the same wool, count the paper bits it lifts, and write down whether the air feels dry or damp. (10 min); day 2: Rub the balloon 10 times on the same wool, count the paper bits it lifts, and write down whether the air feels dry or damp. (10 min); day 3: Rub the balloon 10 times on the same wool, count the paper bits it lifts, and write down whether the air feels dry or damp. (10 min); day 4: Rub the balloon 10 times on the same wool, count the paper bits it lifts, and write down whether the air feels dry or damp. (10 min); day 5: Rub the balloon 10 times on the same wool, count the paper bits it lifts, and write down whether the air feels dry or damp. (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Rub the balloon 10 times on the wool. 2. Hold it 2 cm over the 20 bits for 3 seconds. 3. Count the bits that cling. 4. Write the count, and whether the air feels dry or sticky. 5. Add the humidity number from a weather app, if you have one.  
@@ -498,23 +498,23 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Child mode:* Same test again. How many bits today? Dry or damp?
   - Wait: Days 2 to 4: do the test once each day.
 - **s3 (10 min)**  
-  *Parent does:* 1. Do the test on the last day. 2. Draw a bar for each day. 3. Look for a pattern.  
+  *Parent does:* 1. Do the test on the last day. 2. Make a bar for each day, drawn or lined up with paper bits. 3. Look for a pattern.  
   *Parent says:* Look at your bars. On which days did the balloon lift the most? What was the air like on those days?  
-  *Child mode:* Draw a bar for each day. When did it lift the most?
+  *Child mode:* Make a bar for each day. When did it lift the most?
   - Check: In a Static Weather Diary, a balloon lifted 15 bits on a dry day and 3 bits on a rainy day. What is the best reason? → **Damp air lets the charge leak away through a thin layer of water**
   - Wait: Day 5: the last test, then draw the chart.
 
 ## Challenges
 ### c1 · The Can Race: how far can a balloon pull? (25 min)
 - **problem:** Roll an empty can 1 metre along the floor using only rubbed balloons, as quickly as you can, without touching the can. Find the best way to keep the balloon charged.
-- **your turn:** Now invent your own way to win the Can Race. Draw your plan, test it, and beat your best time.
+- **your turn:** Now invent your own way to win the Can Race. Say or sketch your plan, test it, and beat your best time.
 - **constraints:** Nothing may touch the can.; Use only balloons, cloths and things from home.; Time each try, and change only one thing between tries.
 - **general:** Rub the balloon well, hold it close in front of the can, and walk backwards slowly.; Rub again whenever the can slows down.
 - **creative:** Use two balloons. Rub one while the other pulls the can, then swap them.; Try a rubbed plastic ruler or a big plastic sheet instead of a balloon.; Find the smoothest floor in your home for the race.
 - **s1 (5 min)**  
-  *Parent does:* 1. Mark a start and a finish 1 metre apart. 2. Look at the problem together and draw two ideas.  
-  *Parent says:* We need the can to cross the line, and nothing can touch it. What makes the balloon pull best? Let's draw two ideas.  
-  *Child mode:* Draw two ideas to roll the can to the finish.
+  *Parent does:* 1. Mark a start and a finish 1 metre apart. 2. Look at the problem together and think of two ideas.  
+  *Parent says:* We need the can to cross the line, and nothing can touch it. What makes the balloon pull best? Let's think of two ideas.  
+  *Child mode:* Think of two ways to roll the can to the finish. Say them out loud.
 - **s2 (15 min)**  
   *Parent does:* 1. Try your first idea and time it. 2. Change one thing, such as the cloth or how close you hold the balloon. 3. Time it again.  
   *Parent says:* Try it and time it. Now change just one thing. Was it faster?  
@@ -527,7 +527,7 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   *Child mode:* Read the other ideas. Can you invent a better one?
 ### c2 · Build a Charge Detector (30 min)
 - **problem:** Build a detector that shows when something is charged, even when the charge is too weak to lift paper. Two thin strips of foil inside a jar must spread apart when a charged thing comes near.
-- **your turn:** Now design your own charge detector, or improve this one so the strips spread further. Draw it, build it and test it.
+- **your turn:** Now design your own charge detector, or improve this one so the strips spread further. Plan it, build it and test it. Sketch it first if you like.
 - **constraints:** The foil strips must be inside a jar, out of the wind.; Use only things from home.; Nothing charged may touch the strips themselves.
 - **general:** Push the straightened paper clip through the middle of the cardboard. Bend its bottom end into a hook. Hang two strips of foil, each about 1 cm by 4 cm, side by side on the hook. Put the cardboard on the jar with the strips hanging inside. Press a small foil ball onto the top of the clip.; Bring a rubbed balloon near the foil ball, without touching it. The strips should spread apart.
 - **creative:** Test which cloths charge the balloon most by how far the strips spread.; Hold the rubbed balloon 2 cm, 5 cm and 10 cm from the foil ball. How far apart do the strips spread each time?; Find out whether your hair is still charged a minute after you rub it.
@@ -543,8 +543,8 @@ In March, when Thatha went home to Madurai, he told Revathi on the phone that hi
   - Note: The strips spread apart as the balloon comes near, and fall back together when it goes. The balloon pushes electrons down the clip into both strips, so both strips get the same charge, and they repel. The strips move only a little, and only when the balloon is within about 2 cm of the ball. On a damp day they may hardly move, so try it in an AC room.
 - **s3 (5 min)**  
   *Parent does:* Try the creative ideas and talk about why the detector works.  
-  *Parent says:* Why do the two strips push apart? What charge do they both have?  
-  *Child mode:* Why do the two strips push apart?
+  *Parent says:* The two strips push each other apart. What do you think they both have?  
+  *Child mode:* Look at the two strips. What do you think each one has?
   - Check: Why do the two foil strips spread apart when a rubbed balloon comes near? → **Both strips get the same kind of charge, and the same charges repel**
 
 ## Worksheets

@@ -503,8 +503,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the cards. 2. Read the answer cards together. 3. Shuffle the charge cards.",
-     "say": "Every card is plus, minus or neutral. When I turn two over, say what they do to each other. Attract, repel, or nothing.",
-     "kid": "Every card is plus, minus or neutral. Read the answer cards first.",
+     "say": "Every card is plus, minus or neutral. Neutral means no charge. When I turn two over, say what they do to each other. Attract, repel, or nothing.",
+     "kid": "Read the answer cards first, so you know the rules.",
      "context": "This is the first step of Plus or Minus, a card game where you say what two charges do to each other."
     },
     {
@@ -512,7 +512,7 @@
      "mins": 2,
      "do": "Play one practice pair together: a rubbed balloon and a paper bit.",
      "say": "A rubbed balloon and a paper bit. The paper bit is neutral. Do they attract, repel, or do nothing?",
-     "kid": "A rubbed balloon and a paper bit. What happens? Say your answer.",
+     "kid": "Decide what the two will do. Say it out loud.",
      "check": {
       "t": "mcq",
       "q": "A rubbed balloon, with minus charge, meets a neutral paper bit. What happens?",
@@ -538,7 +538,7 @@
      "mins": 2,
      "do": "Talk about the storm cloud cards.",
      "say": "The top of a storm cloud is plus. The bottom is minus. What do you think happens when the two get too much charge?",
-     "kid": "The cloud's top is plus. Its bottom is minus. What happens next?",
+     "kid": "Guess what the cloud does with so much charge.",
      "think": "Why does lightning not happen all the time, if the top and bottom of a cloud attract?",
      "parent": "Air does not let charge cross it easily. So the charge has to build up first. When the pull between the top and the bottom is strong enough, it pushes a spark across the air. That spark is the lightning."
     }
@@ -720,7 +720,7 @@
      "mins": 2,
      "do": "When the car card comes up, or after the game, talk about why a closed car is safe in a storm.",
      "say": "A closed car is safe in a storm. Many people think it is because of the rubber tyres. What do you think keeps you safe?",
-     "kid": "A car is safe in a storm. Is it the tyres? Or something else?",
+     "kid": "Say what you think keeps people safe inside a car.",
      "parent": "The metal body of the car carries the charge round the outside and down to the ground. The tyres are far too thin to stop lightning, which has just crossed kilometres of air."
     }
    ],
@@ -783,7 +783,7 @@
      "what": "Guess, then rub a balloon with 5 different things, twice each, and count the paper bits it lifts each time."
     }
    ],
-   "record": "Fill in the table. Then draw a bar for each thing you rubbed with, as tall as the number of bits it lifted.",
+   "record": "Fill in the table. Then make a bar for each thing you rubbed with. Draw it, or line up that many paper bits, as many as it lifted.",
    "flow": [
     {
      "id": "s1",
@@ -798,8 +798,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Show the five things: dry hair, wool, cotton, newspaper and the second balloon. 2. Ask your child to put them in order, from most bits to fewest. 3. Write the guesses in the table.",
-     "say": "We will rub the balloon with each of these, ten times. Which will make the most bits jump? Which the fewest? Why do you think so?",
-     "kid": "Which thing will make the most bits jump? Which the fewest? Why?",
+     "say": "We will rub the balloon with each of these, ten times. Which will make the most bits jump? Which the fewest?",
+     "kid": "Put the five things in order. Guess which makes the most bits jump.",
      "ask": [
       {
        "q": "Why do you think that one will work best?",
@@ -961,7 +961,7 @@
      "what": "Make a thin stream of water. Bring an unrubbed comb, a rubbed comb, a rubbed ruler and a rubbed spoon close to it."
     }
    ],
-   "record": "Draw the stream of water four times. Next to each, draw the thing you held near it, and show how much the water bent.",
+   "record": "Make a table of the four tries: comb not rubbed, rubbed comb, rubbed ruler, rubbed spoon. Write beside each: bent a lot, bent a little, or did not bend. You can also take a photo of each try.",
    "flow": [
     {
      "id": "s1",
@@ -1114,7 +1114,7 @@
      "what": "Rub a balloon and stick it to the wall. Then lift your hair with it in front of a mirror."
     }
    ],
-   "record": "Draw the balloon on the wall, and draw your hair rising up to the balloon.",
+   "record": "Take a photo of the balloon stuck on the wall. Then tell a grown-up what happened to your hair and why you think so. You can draw it instead.",
    "flow": [
     {
      "id": "s1",
@@ -1163,7 +1163,7 @@
      "parent": "Every hair has lost electrons, so every hair has the same plus charge. The same charges repel, so the hairs push each other apart. The balloon has the opposite charge, so it pulls them up."
     }
    ],
-   "context": "This is a quick activity to start the unit. You stick a balloon to a wall and lift your hair, using only the charge from rubbing.",
+   "context": "This is a quick activity to start the unit. Rubbing gives a balloon a small electric charge. You will see it pull on a wall and on your hair.",
    "setup": [
     {
      "art": "A child rubbing a balloon on a woollen shawl, then pressing it against a painted wall where it stays.",
@@ -1206,7 +1206,7 @@
      "what": "Cut a plastic bag into a tassel of strips. Rub it with wool and watch the strips spread apart."
     }
    ],
-   "record": "Draw the tassel before rubbing and after rubbing. Mark the charge on each strip.",
+   "record": "Take a photo of the tassel before rubbing and after rubbing. Tell a grown-up why the strips moved apart. You can draw both instead.",
    "flow": [
     {
      "id": "s1",
@@ -1241,7 +1241,7 @@
      "mins": 2,
      "do": "Compare the tassel with rubbed hair.",
      "say": "In The Sticky Balloon and the Rising Hair, your hairs spread apart after you rubbed them with the balloon. How is that like this tassel?",
-     "kid": "Your hairs spread apart after you rubbed them with a balloon. How is this tassel like that?",
+     "kid": "Think of your hairs and the strips. What is the same?",
      "parent": "Rubbed hairs each have the same plus charge, so they spread apart, just like the strips."
     }
    ],
@@ -1285,7 +1285,7 @@
      "what": "Mix salt and pepper. Use a rubbed balloon to pick out the pepper."
     }
    ],
-   "record": "Draw the plate and the balloon. Show which grains jumped up.",
+   "record": "Count the pepper grains and the salt grains that jumped up. Write both numbers. Tell a grown-up which jumped first.",
    "flow": [
     {
      "id": "s1",
@@ -1319,7 +1319,7 @@
      "mins": 3,
      "do": "Talk about how bees pick up pollen.",
      "say": "A bee needs pollen from flowers. A flying bee picks up a plus charge, and a flower has a small minus charge. What might happen to the pollen when a bee comes close?",
-     "kid": "A bee has charge, like your balloon. What happens to the pollen?",
+     "kid": "Think of the bee as the balloon and the pollen as the pepper.",
      "parent": "Pollen grains jump across a small gap onto a charged bee, in the same way as the pepper. This helps the bee carry pollen, and helps plants spread their pollen to other flowers."
     }
    ],
@@ -1363,7 +1363,7 @@
      "what": "In a fully dark room, pull off a sweater slowly, and watch and listen for tiny sparks."
     }
    ],
-   "record": "Write what you heard and what you saw. Draw the sparks.",
+   "record": "Tell a grown-up what you heard and what you saw. You can write it down too.",
    "flow": [
     {
      "id": "s1",
@@ -1395,7 +1395,7 @@
      "mins": 2,
      "do": "Switch the light back on and talk.",
      "say": "Each crackle was a tiny spark. How is it like lightning and thunder?",
-     "kid": "Each crackle was a tiny spark. How is it like lightning?",
+     "kid": "Think of the flash and the crackle. What big thing in the sky are they like?",
      "check": {
       "t": "mcq",
       "q": "What is the crackle you hear when you pull off a sweater in the dark?",
@@ -1453,7 +1453,7 @@
      "what": "Lay a can on its side. Make it roll with a rubbed balloon, without touching it."
     }
    ],
-   "record": "Draw the can and the balloon, with an arrow for the way the can rolled.",
+   "record": "Write how many times you rubbed the balloon to reach the finish line. Tell a grown-up why the can rolled. You can draw it too.",
    "flow": [
     {
      "id": "s1",
@@ -1590,7 +1590,7 @@
      "what": "Act out how ice and hail inside a storm cloud bump and build up charge until lightning jumps."
     }
    ],
-   "record": "Draw the cloud with plus at the top and minus at the bottom, and a lightning bolt.",
+   "record": "Show a grown-up with your arms where the plus and minus end up in the cloud, and tell what the spark is. Or draw the cloud with a lightning bolt.",
    "flow": [
     {
      "id": "s1",
@@ -1697,7 +1697,7 @@
      "what": "Rub the balloon 10 times on the same wool, count the paper bits it lifts, and write down whether the air feels dry or damp."
     }
    ],
-   "record": "Make a table with a row for each day: date, dry or damp, humidity if you know it, and bits lifted. On the last day, draw a bar chart.",
+   "record": "Make a table with a row for each day: date, dry or damp, humidity if you know it, and bits lifted. On the last day, make a bar chart, or line up paper bits for each day.",
    "flow": [
     {
      "id": "s1",
@@ -1719,9 +1719,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Do the test on the last day. 2. Draw a bar for each day. 3. Look for a pattern.",
+     "do": "1. Do the test on the last day. 2. Make a bar for each day, drawn or lined up with paper bits. 3. Look for a pattern.",
      "say": "Look at your bars. On which days did the balloon lift the most? What was the air like on those days?",
-     "kid": "Draw a bar for each day. When did it lift the most?",
+     "kid": "Make a bar for each day. When did it lift the most?",
      "wait": "Day 5: the last test, then draw the chart.",
      "check": {
       "t": "mcq",
@@ -1776,14 +1776,14 @@
     "Try a rubbed plastic ruler or a big plastic sheet instead of a balloon.",
     "Find the smoothest floor in your home for the race."
    ],
-   "your_turn": "Now invent your own way to win the Can Race. Draw your plan, test it, and beat your best time.",
+   "your_turn": "Now invent your own way to win the Can Race. Say or sketch your plan, test it, and beat your best time.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Mark a start and a finish 1 metre apart. 2. Look at the problem together and draw two ideas.",
-     "say": "We need the can to cross the line, and nothing can touch it. What makes the balloon pull best? Let's draw two ideas.",
-     "kid": "Draw two ideas to roll the can to the finish.",
+     "do": "1. Mark a start and a finish 1 metre apart. 2. Look at the problem together and think of two ideas.",
+     "say": "We need the can to cross the line, and nothing can touch it. What makes the balloon pull best? Let's think of two ideas.",
+     "kid": "Think of two ways to roll the can to the finish. Say them out loud.",
      "context": "This is an engineering challenge. You find the fastest way to roll a can with static electricity."
     },
     {
@@ -1852,7 +1852,7 @@
     "Hold the rubbed balloon 2 cm, 5 cm and 10 cm from the foil ball. How far apart do the strips spread each time?",
     "Find out whether your hair is still charged a minute after you rub it."
    ],
-   "your_turn": "Now design your own charge detector, or improve this one so the strips spread further. Draw it, build it and test it.",
+   "your_turn": "Now design your own charge detector, or improve this one so the strips spread further. Plan it, build it and test it. Sketch it first if you like.",
    "flow": [
     {
      "id": "s1",
@@ -1876,8 +1876,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Try the creative ideas and talk about why the detector works.",
-     "say": "Why do the two strips push apart? What charge do they both have?",
-     "kid": "Why do the two strips push apart?",
+     "say": "The two strips push each other apart. What do you think they both have?",
+     "kid": "Look at the two strips. What do you think each one has?",
      "check": {
       "t": "mcq",
       "q": "Why do the two foil strips spread apart when a rubbed balloon comes near?",

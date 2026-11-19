@@ -262,11 +262,11 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards and lay out the six circle mats. 2. Shuffle the stage cards and surprise cards together. 3. Deal 5 cards to each player, or lay them all face down if your child is playing alone.  
   *Parent says:* A storm has mixed up the life stories of six plants. We are detectives. We have to put each plant's life back in order, in a circle.  
-  *Child mode:* A storm mixed up six plants' life stories. You are the detective. Put each plant's stages back in a circle.
+  *Child mode:* You are the detective. Put each plant's stages back in a circle.
 - **s2 (3 min)**  
   *Parent does:* Do one practice circle together with the moong cards, before the real game.  
-  *Parent says:* Let's practise with moong. Which card comes after the seedling? And what comes after the fruit?  
-  *Child mode:* Practise with the moong cards. Put them in order. What comes after the fruit?
+  *Parent says:* Let's practise with moong. Which card comes after the seedling?  
+  *Child mode:* Practise with the moong cards. Put them in order.
   - Check: In a plant's life cycle, what comes after the fruit? → **New seeds, which start the cycle again**
 - **s3 (10 min)**  
   *Parent does:* Play the game by the rules. When a player lays down a full circle, they tell its life cycle aloud, starting from any stage.  
@@ -274,9 +274,9 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
   *Child mode:* Collect all five cards of one plant. Lay them in a circle. Tell their life story. You can start at any stage.
   - Note: Good answers say what turns into what. 'The flower's base swells into the fruit. The fruit holds the seeds. Each seed grows into a seedling.' Starting from the flower or the fruit is a good sign. It shows the child sees a circle, not a line.
 - **s4 (4 min)**  
-  *Parent does:* Lay all six finished circles side by side. Compare them.  
-  *Parent says:* Look at all six circles. Which plant takes the longest to go round? Which takes the shortest?  
-  *Child mode:* Look at all six circles. They have the same stages. Which plant goes round fastest? Which is slowest?
+  *Parent does:* Lay all six finished circles side by side. Compare them. Moong takes about 3 months to go round, and mango takes 5 to 8 years.  
+  *Parent says:* Here are all six life stories side by side. Let's compare them.  
+  *Child mode:* Guess which plant goes round fastest. Guess which is slowest.
   - Ask: What is the same about all six circles? (good: They all have seed, seedling, plant, flower and fruit.; They all go back to seeds.)
   - Note: Moong takes 2 to 3 months, rice about 4 months, bhindi, sunflower and pumpkin about 2 to 4 months. A mango tree takes 5 to 8 years to fruit for the first time, then fruits every year.
   - Think: Every circle has the same stages. So is a mango tree really so different from a moong plant?
@@ -287,15 +287,15 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 - **s1 (2 min)**  
   *Parent does:* 1. Look through all 24 cards face up together for one minute. 2. Shuffle them. 3. Lay them face down in 4 rows of 6.  
   *Parent says:* Every fruit we eat was once a flower. Let's look at all the cards first. Then we'll turn them over and see who can remember where each pair is.  
-  *Child mode:* Look at all the cards for one minute. Every fruit was once a flower. Now mix them up and lay them face down.
+  *Child mode:* Look at all the cards for one minute. Then mix them up and lay them face down.
 - **s2 (10 min)**  
   *Parent does:* Play by the rules. Each time someone finds a pair, they say one clue that links the flower and the fruit.  
-  *Parent says:* You found a pair! What links them? Can you see any part of the flower still on the fruit?  
-  *Child mode:* Turn over two cards. If they are a flower and its fruit, keep them! Say what links them. Look for flower leftovers on the fruit.
+  *Parent says:* You found a pair! What links them?  
+  *Child mode:* Turn over two cards. If they are a flower and its fruit, keep them! Say one thing that links them.
   - Note: Good clues: the brinjal's green cap and the tomato's green star are the flowers' sepals. The pomegranate's crown and the dark tip of a banana are flower leftovers. The pumpkin flower already has a tiny pumpkin behind it. The lotus seed pod is the middle of the lotus flower grown big.
 - **s3 (3 min)**  
   *Parent does:* At the end, lay all 12 pairs in a row, each flower above its fruit.  
-  *Parent says:* Look at each flower and its fruit together. Which part of the flower can you still see on the fruit?  
+  *Parent says:* Now we line up all 12 pairs, each flower above its fruit.  
   *Child mode:* Put each flower above its fruit. Which flower part is still on the fruit?
   - Note: Good answers name the green sepals on a tomato or brinjal, the crown of a pomegranate, or the dark tip of a banana. These are the flower's leftovers.
   - Check: The green cap on top of a brinjal is… → **Left over from the brinjal's flower**
@@ -306,13 +306,13 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 - **predict:** Before you start, guess two things. How many of your 5 tagged flowers will turn into fruits? And on which day will you first see a baby fruit? Why do you think so?
 - **fair test:** In this experiment you only watch, so watch every flower the same way. Tag flowers that opened on the same morning, on the same plant. Check them at the same time every day. Measure each one the same way, from where it joins its stalk to its tip. Treat the tagged flowers just like the rest of the plant.
 - **safety:** After touching a chilli plant, do not rub your eyes. Leave ants and bees alone.
-- **record:** Fill in the table for each flower. Draw one tagged flower every day, on the same page, in a row. Then draw a line graph of one fruit's length, day by day.
+- **record:** Fill in the table for each flower. Take a photo of one tagged flower every day, or draw it, on the same page, in a row. Then draw a line graph of one fruit's length, day by day.
 - **results table:** Flower (thread colour) | Day the petals fell | Day I first saw a baby fruit | Length on day 3 (cm) | Length on day 6 (cm) | Became a fruit? Yes or no
 - **schedule:** day 1: Look at the whole plant. Tag 5 flowers that opened this morning. Guess what will happen. (15 min); day 2: Check each tagged flower. Draw it. Did the petals fall? (3 min); day 3: Check, measure and draw. (3 min); day 4: Check, measure and draw. (3 min); day 5: Check, measure and draw. (3 min); day 6: Check, measure and draw. Compare the flowers. (3 min); day 7: Check, measure and draw. (3 min); day 8: Check, measure and draw. (3 min); day 9: Check, measure and draw. (3 min); day 10: Count how many flowers became fruits. Draw a line graph of one fruit's length. Say what you think, what you saw and why. (11 min)
 - **s1 (5 min)**  
-  *Parent does:* 1. Stand by the plant with your child. 2. Together, find a tight bud, an open flower, a wilted flower, a tiny fruit and a big fruit. 3. Ask your child to put them in order, youngest first.  
-  *Parent says:* This one plant is showing us several stages at once. Find a bud, an open flower, an old flower, a baby fruit and a big fruit. Which do you think is youngest?  
-  *Child mode:* Look at the whole plant. Find a bud and an open flower. Find an old flower, a baby fruit and a big fruit. Which is the youngest?
+  *Parent does:* 1. Stand by the plant with your child. 2. Together, find a tight bud, an open flower, a wilted flower, a tiny fruit and a big fruit. 3. Ask your child to point to them in order, youngest first.  
+  *Parent says:* This one plant is showing us several stages at once. Let's find each one.  
+  *Child mode:* Look at the whole plant. Find a bud, an open flower and an old flower. Find a baby fruit and a big fruit. Point to them in order, youngest first.
   - Ask: How do you think the baby fruit got there? (good: It grew from a flower.; There was a flower there before.)
   - Note: On bhindi, brinjal, chilli and tomato you can usually see every stage at once. If you have no flowering plant, a nursery sells potted chilli or brinjal plants that are already flowering. Or ask a neighbour if you may visit their plant every day.
 - **s2 (10 min)**  
@@ -321,15 +321,15 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
   *Child mode:* Pick 5 flowers that opened today. Tie a thread loosely round each stalk. Write down the colours. Guess: how many will become fruits?
   - Note: Most flowers open in the morning. Bhindi flowers close by the afternoon, so tag them early. Tie the thread on the flower's own short stalk, not on the main stem. Otherwise you will not know which flower it was.
 - **s3 (24 min)**  
-  *Parent does:* Each day, at about the same time: 1. Find each thread. 2. Look at what is there now. 3. Measure any baby fruit, from the stalk to the tip. 4. Draw one of them, and write the numbers in the table.  
+  *Parent does:* Each day, at about the same time: 1. Find each thread. 2. Look at what is there now. 3. Measure any baby fruit, from the stalk to the tip. 4. Take a photo of each one, or draw one, and write the numbers in the table.  
   *Parent says:* What has changed since yesterday? Are the petals still there? Is anything growing in the middle?  
-  *Child mode:* Find each thread. What has changed at that flower? Measure any baby fruit. Draw one. Write the numbers down.
+  *Child mode:* Find each thread. What has changed at that flower? Measure any baby fruit. Take a photo, or draw one. Write the numbers down.
   - Note: What to expect. Bhindi: the petals fall the next day and a pod is about a finger long by day 5 or 6. Chilli and brinjal: a small fruit shows in about 5 to 7 days. Tomato: a pea-sized green ball by about day 7, and it takes weeks to ripen. Some tagged flowers will dry and drop off with no fruit. That is normal, and it is a real result. It happens more in very hot or very dry weather, or where few insects visit. In cold weather everything is slower, so give it up to 14 days.
   - Wait: Every day for 8 days, about 3 minutes
 - **s4 (3 min)**  
-  *Parent does:* On about day 6, line up your drawings and compare the flowers.  
-  *Parent says:* Look at your drawings in a row. Where did the fruit come from?  
-  *Child mode:* Put your drawings in a row. Where did the fruit come from?
+  *Parent does:* On about day 6, line up your photos or drawings and compare the flowers.  
+  *Parent says:* Look at your photos or drawings in a row. Where did the fruit come from?  
+  *Child mode:* Put your photos or drawings in a row. Where did the fruit come from?
   - Check: Your tagged flower's petals fell off, and a little fruit grew in the same place. Which part of the flower became the fruit? → **The middle part, at the base of the flower**
 - **s5 (5 min) · grown-up needed**  
   *Parent does:* 1. On day 10, count how many of the 5 flowers became fruits. 2. Help your child draw a line graph of one fruit's length. Put the days along the bottom and the length up the side. 3. If a grown-up picks one young fruit and cuts it open, look for the tiny seeds inside.  
@@ -346,7 +346,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 - **predict:** Before cutting, guess which fruit will have the most seeds. Write your guess for each fruit in the table. Why do you think so?
 - **fair test:** Treat every fruit the same way. Look at the outside first, then cut each one across the middle. Count the seeds the same way each time. If a fruit has too many to count, count one part and multiply. Write in the table which ones you worked out that way.
 - **safety:** Only a grown-up uses the knife. If you open a chilli, wash your hands straight after and do not touch your eyes.
-- **record:** Fill in the table. Draw one fruit cut open, with its seeds, and label where its flower used to be.
+- **record:** Fill in the table. Take a photo of one fruit cut open, or draw it, and point to where its flower used to be.
 - **results table:** Fruit | My guess: how many seeds | Seeds counted, or worked out | Flower leftovers I found
 - **s1 (4 min)**  
   *Parent does:* 1. Put the fruits on a plate. 2. Look at each one all over, before cutting. 3. Help your child find the leftovers of each flower. 4. Ask them to guess how many seeds are in each fruit, and write the guesses down.  
@@ -381,7 +381,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 - **predict:** Guess first. You will have three female flowers. One is left open for insects. One is covered with a bag and gets no pollen. One is covered with a bag and gets pollen from you. Which will grow into fruits? Why do you think so?
 - **fair test:** Use female flowers on the same vine that open on the same morning, or as close together as you can. Cover two of them with a bag the evening before they open, so no insect can get in first. Give pollen to only one of the covered flowers. The bag is the same for both covered flowers, so only the pollen is different.
 - **safety:** Do this with a grown-up near the vine. Watch for bees, and move away slowly if one comes. Wash your hands afterwards.
-- **record:** Fill in the table. Draw the three baby fruits on day 4, side by side.
+- **record:** Fill in the table. Take a photo of the three baby fruits on day 4, or draw them, side by side.
 - **results table:** Female flower | Bag? | Pollen added by hand? | Day 3: green or yellow? | Day 4: growing or shrivelled?
 - **schedule:** day 1: In the evening, find three female-flower buds about to open. Cover two with bags. Tag all three. (10 min); day 2: Early in the morning, move pollen from a male flower to one covered flower. Cover it again. (12 min); day 3: Take the bags off. Check all three baby fruits. (3 min); day 4: Check: which baby fruits are growing, and which are going yellow? (3 min); day 5: Compare all three. Say what you think, what you saw and why. (7 min)
 - **s1 (5 min)**  
@@ -420,7 +420,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 - **predict:** Guess first. The leaf circles will sink to the bottom of two glasses. One glass goes in bright light and one in a dark cupboard. In which glass will the circles float up? Why do you think so?
 - **fair test:** Make the two glasses the same. Use the same water, the same pinch of baking soda and drop of soap, and 10 circles cut from the same leaf in each. Change only the light. Count the floating circles in both glasses at the same times.
 - **safety:** Do not drink the water. Wash the glasses well afterwards.
-- **record:** Fill in the table every 5 minutes. Then draw a bar for each glass, showing how many circles were floating after 20 minutes.
+- **record:** Fill in the table every 5 minutes. Then show how many circles were floating after 20 minutes: draw a bar for each glass, or just write the two numbers.
 - **results table:** Minutes | Glass in bright light: circles floating | Glass in the dark: circles floating
 - **s1 (4 min)**  
   *Parent does:* 1. Half fill two clear glasses with tap water. 2. Add a small pinch of baking soda to each, about an eighth of a teaspoon. 3. Add one tiny drop of washing-up liquid to each. 4. Stir gently, so it does not foam.  
@@ -461,9 +461,9 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 ### a1 · The Life Cycle Hunt (20 min)
 - **record:** Draw or photograph one thing in each box of the hunt card. Write where you found it.
 - **s1 (3 min)**  
-  *Parent does:* 1. Help your child draw 8 boxes on a sheet. 2. Label them: seed, seedling, grown plant, bud, open flower, old flower, fruit, dry seeds.  
+  *Parent does:* 1. Help your child fold a sheet into 8 boxes, or use an egg carton with 8 cups. 2. Label them: seed, seedling, grown plant, bud, open flower, old flower, fruit, dry seeds.  
   *Parent says:* We are going to find every stage of a plant's life, today, near our home. Can we fill all 8 boxes?  
-  *Child mode:* Draw 8 boxes on your paper. Label them with the stages. Can you find all 8 today?
+  *Child mode:* Fold your paper into 8 boxes. Label them with the stages. Can you find all 8 today?
 - **s2 (14 min) · grown-up needed**  
   *Parent does:* 1. Start in the kitchen: seeds are easy to find there. 2. Look at pot plants on the balcony or windowsill. 3. Go for a short walk. Look at road edges, cracks in walls, gardens and the vegetable cart.  
   *Parent says:* Where could a seedling be hiding? Look in cracks, at the edge of the road and under trees.  
@@ -478,9 +478,9 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 - **safety:** A grown-up makes the hole in the middle with a pencil point.
 - **record:** Turn the wheel and tell the life cycle to someone, starting from any stage.
 - **s1 (10 min)**  
-  *Parent does:* 1. On one plate, draw lines through the middle to make 6 equal slices, like a cake. 2. Choose a plant, like moong, sunflower or mango. 3. In each slice, in order going round, draw: seed, seedling, grown plant, flower, fruit, new seeds.  
-  *Parent says:* Draw each stage in its own slice, going round in order. Which slice comes after the new seeds?  
-  *Child mode:* Draw 6 slices on one plate. Pick a plant. Draw one stage in each slice, going round in order.
+  *Parent does:* 1. On one plate, draw lines through the middle to make 6 equal slices, like a cake. 2. Choose a plant, like moong, sunflower or mango. 3. In each slice, in order going round, draw or stick a picture of: seed, seedling, grown plant, flower, fruit, new seeds. Photos or pictures cut from seed packets or old magazines work too.  
+  *Parent says:* Put each stage in its own slice, going round in order. Which slice comes after the new seeds?  
+  *Child mode:* Make 6 slices on one plate. Pick a plant. Put one stage in each slice, going round in order. Draw it, or stick on a picture.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. On the second plate, cut out a window the size of one slice. 2. A grown-up makes a hole in the middle of both plates with a pencil point. 3. Push a split pin through both. Or push a short piece of straw through, snip each end into four little flaps, and press them flat. Or tie a big knot of thread on each side.  
   *Parent says:* Now the top plate can turn, and the window will show one stage at a time.  
@@ -492,7 +492,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
   - Check: You turn your wheel to 'new seeds'. What comes next as you keep turning? → **Seed, and then seedling again**
 ### a3 · New Plants Without Seeds: onion, money plant and potato (30 min, 10 days)
 - **safety:** A grown-up cuts the money plant stem. Do not eat the onion or potato after this activity.
-- **record:** Draw all three on days 1, 5 and 10. Write when you first saw roots, and when you first saw green shoots.
+- **record:** Take a photo of all three, or draw them, on days 1, 5 and 10. Write when you first saw roots, and when you first saw green shoots.
 - **schedule:** day 1: Set up the onion, the money plant stem and the potato. (10 min); day 3: Change the onion's water. Look for roots. (3 min); day 5: Change the water. Look for roots and shoots on all three. Draw. (4 min); day 7: Change the water. Look again. Draw. (3 min); day 10: Compare all three. Draw them. Plant the best one in soil. (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Onion: fill a small glass to the top with water. Sit the onion on it with its flat root end down, so only the bottom touches the water. If the glass is wide, push 3 toothpicks into the onion to hold it up. 2. Money plant: take off the leaves near the bottom of the stem. Stand it in a bottle of water so one bump on the stem is under water. 3. Potato: put it on a windowsill or in a warm basket.  
@@ -500,9 +500,9 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
   *Child mode:* Sit the onion on a glass of water. Only its bottom touches. Put the money plant stem in water. Put the potato somewhere warm.
   - Note: The bumps on a money plant stem are where roots grow from. Some shop onions are treated so they do not sprout. Choose one that already has a green tip, or try two onions. A garlic clove, pointed end up, also works.
 - **s2 (10 min)**  
-  *Parent does:* 1. Pour away the onion's water and give it fresh water, so it does not smell. 2. Look for white roots and green shoots on all three. 3. Draw them on day 5.  
+  *Parent does:* 1. Pour away the onion's water and give it fresh water, so it does not smell. 2. Look for white roots and green shoots on all three. 3. Take a photo of each on day 5, or draw them.  
   *Parent says:* Which one grew first? Where are its new roots coming from?  
-  *Child mode:* Change the onion's water. Look for white roots and green shoots. Which grew first? Draw them on day 5.
+  *Child mode:* Change the onion's water. Look for white roots and green shoots on each one. Take a photo, or draw them, on day 5.
   - Note: What to expect. Onion: white roots in 2 to 4 days and green shoots within a week. Money plant: small roots in 7 to 14 days, from the bump under water. Potato: shoots from its eyes in 1 to 3 weeks, faster in a warm dark place. Choose an old potato that already has small bumps at its eyes. If it has not sprouted by day 10, keep watching for another week. If the onion goes soft or smelly, it was sitting too deep. Start again with only its bottom in the water.
   - Wait: On days 3, 5 and 7
 - **s3 (10 min)**  
@@ -514,9 +514,9 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 ### a4 · Eat the Life Cycle: which part of the plant is on your plate? (15 min)
 - **record:** Fill the six columns. Try to find at least one food for every column.
 - **s1 (3 min)**  
-  *Parent does:* 1. Collect about 12 foods. Try rice, dal, atta, a tomato, bhindi and a potato. Add an onion, palak, a carrot, a cauliflower, jeera and a banana. 2. Draw the six columns.  
+  *Parent does:* 1. Collect about 12 foods. Try rice, dal, atta, a tomato, bhindi and a potato. Add an onion, palak, a carrot, a cauliflower, jeera and a banana. 2. Fold the paper into six columns.  
   *Parent says:* Every food here came from a plant. But which part of the plant? And which stage of their life?  
-  *Child mode:* Collect 12 foods. Draw six columns: seeds, fruits, flowers, leaves, stems, roots. Where does each food go?
+  *Child mode:* Collect 12 foods. Fold your paper into six columns: seeds, fruits, flowers, leaves, stems, roots. Where does each food go?
 - **s2 (9 min)**  
   *Parent does:* Sort each food into its column together. Talk about the tricky ones.  
   *Parent says:* Is a potato a root? Have a look at its eyes. Roots don't have eyes like that. Stems do.  
@@ -525,18 +525,18 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
   - Check: Which part of the plant is a cauliflower? → **A bunch of tiny flower buds**
 - **s3 (3 min)**  
   *Parent does:* Count how many foods are in each column.  
-  *Parent says:* Which column has the most foods? Which stage of a plant's life do we eat most?  
-  *Child mode:* Which column has the most? Which stage of a plant's life do we eat most?
+  *Parent says:* Which part of a plant do we eat most? Which do we eat least?  
+  *Child mode:* Count the foods in each column. Which column has the most?
   - Think: Rice, wheat and dal are all seeds, each packed with food for a young plant. Why do you think seeds make such good food for us too?
 ### a5 · Life Cycle Flipbook (25 min)
 - **safety:** A grown-up helps with the stapler.
 - **record:** Flip your book for someone, and tell them what is happening in each part.
 - **s1 (4 min)**  
   *Parent does:* 1. Make 16 small pages the same size. 2. On every page, draw a ground line in the same place, near the bottom. You can trace it through the page underneath.  
-  *Parent says:* A flipbook works because each picture is only a little different from the last. Let's plan the 16 pages first.  
+  *Parent says:* A flipbook works because each picture is only a little different from the last. First, we get 16 pages ready.  
   *Child mode:* Get 16 small pages. Draw a ground line on each one, in the same place. Trace it so it matches.
 - **s2 (16 min)**  
-  *Parent does:* Draw one stage per page. For example: pages 1 and 2, a seed. 3 and 4, a sprout. 5 to 7, a growing plant. 8, a bud. 9 and 10, an open flower. 11, petals falling. 12 and 13, a fruit growing. 14, a ripe fruit. 15, seeds falling. 16, a new sprout.  
+  *Parent does:* Draw one stage per page. For example: pages 1 and 2, a seed. 3 and 4, a sprout. 5 to 7, a growing plant. 8, a bud. 9 and 10, an open flower. 11, petals falling. 12 and 13, a fruit growing. 14, a ripe fruit. 15, seeds falling. 16, a new sprout. Simple shapes are fine. A child who dislikes drawing can stick a small paper cut-out on each page and move it a little each time.  
   *Parent says:* Make each picture just a little bigger than the one before. Trace the last picture, then add a bit.  
   *Child mode:* Draw the plant a little bigger on each page. Trace the one before, then add a bit. End with a new sprout!
   - Note: Younger children can make 8 pages instead of 16. Tracing the previous page through the paper makes the flipbook smoother.
@@ -553,19 +553,19 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
   *Parent says:* This tree will be our friend for a whole year. We'll visit them every month and see what stage of their year they are in.  
   *Child mode:* Choose a tree near home. Find out their name. Give them a nickname. You will visit them every month for a year.
 - **s2 (10 min)**  
-  *Parent does:* 1. Draw or photograph the whole tree, and one close-up of a branch. 2. Tick what you see: new leaves, buds, flowers, unripe fruit, ripe fruit, falling seeds. 3. Write the date.  
+  *Parent does:* 1. Photograph or draw the whole tree, and one close-up of a branch. 2. Tick what you see: new leaves, buds, flowers, unripe fruit, ripe fruit, falling seeds. 3. Write the date.  
   *Parent says:* What is the tree doing right now? Are they flowering, fruiting, or resting?  
-  *Child mode:* Draw your tree. Draw one branch up close. Tick what you see. Write the date.
+  *Child mode:* Take a photo of your tree, or draw them. Take one close-up of a branch. Tick what you see. Write the date.
   - Note: Many Indian trees flower before or just after the hot season. Mango flowers around January to March and fruits in April to June. Neem flowers around March and April. Amaltas is covered in yellow flowers in April and May. Gulmohar turns red in April to June. A project called SeasonWatch collects records like these from children all over India.
   - Think: A moong plant goes round their life cycle once and dies. Your tree flowers and fruits again every year. Is the tree's year a life cycle too?
 
 ## Projects
 ### p1 · Kitchen to Kitchen: grow moong from seed to seed (130 min, 75 days)
 - **safety:** A grown-up makes holes in the bottom of a bucket.
-- **record:** A diary page every week: the date, a drawing, the height of the tallest plant, and the number of flowers or pods. At the end, a line graph of height, and the total number of seeds.
+- **record:** A diary page every week: the date, a photo or drawing, the height of the tallest plant, and the number of flowers or pods. At the end, a line graph of height, and the total number of seeds.
 - **schedule:** day 1: Soak 8 moong seeds overnight. Fill the pot. Name your plant. (15 min); day 2: Sow the seeds 2 cm deep. Water them. Put the pot in the sun. (10 min); day 10: Look for seed leaves and true leaves. Keep the 3 or 4 strongest plants. Measure. (10 min); day 17: Measure the tallest plant. Draw it. (5 min); day 24: Measure. Draw. Look for buds at the tips. (5 min); day 35: Flowers! Count them. Write the date of the first flower. (10 min); day 42: Pods! Tie a thread on the first pod. Measure it. (10 min); day 55: Measure. Are any pods turning brown or black? (5 min); day 65: Pick the black, dry pods. Dry them in the sun for 2 days. (20 min); day 70: Open the pods. Count the seeds. Make your graph. (20 min); day 75: Sow some new seeds to start again. Sprout and eat some. Read your diary aloud. (20 min)
 - **s1 (25 min) · grown-up needed**  
-  *Parent does:* 1. Soak 8 moong seeds in water overnight. 2. Fill the pot with soil to 2 cm below the top. 3. Next day, push the seeds 2 cm deep, about 5 cm apart. 4. Water gently until water comes out of the bottom. 5. Put the pot in your sunniest spot. 6. Name the plant and draw page 1 of their diary.  
+  *Parent does:* 1. Soak 8 moong seeds in water overnight. 2. Fill the pot with soil to 2 cm below the top. 3. Next day, push the seeds 2 cm deep, about 5 cm apart. 4. Water gently until water comes out of the bottom. 5. Put the pot in your sunniest spot. 6. Name the plant and start page 1 of their diary.  
   *Parent says:* These seeds came from our kitchen. If we look after them, they will give us moong back. What shall we call our plant?  
   *Child mode:* Soak 8 moong seeds overnight. Push them 2 cm into the soil. Water them. Put the pot in the sun. Give your plant a name!
   - Note: Moong likes warm weather, about 25 to 35 degrees. In most of north India, sow them between February and August. In much of south India they grow most of the year. In north India's cold months, from November to January, grow matar instead. Matar flowers in about 6 to 8 weeks and makes dry seeds in about 3 months. The pot must get at least 5 hours of direct sun. In shade, moong grows tall and thin and may not flower at all. If you have no sunny spot, ask to use a relative's terrace or a school garden.
@@ -576,9 +576,9 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
   - Note: Snipping is better than pulling, because pulling can tear the roots of the plants next to them. Water whenever the top 2 cm of soil feels dry to a finger. Never leave the pot standing in water.
   - Wait: About a week
 - **s3 (15 min)**  
-  *Parent does:* Once a week: 1. Measure the tallest plant from the soil to their top. 2. Draw them. 3. Write the number in the diary.  
+  *Parent does:* Once a week: 1. Measure the tallest plant from the soil to their top. 2. Take a photo of them, or draw them. 3. Write the number in the diary.  
   *Parent says:* How much did they grow this week? Are they growing faster or slower than last week?  
-  *Child mode:* Once a week, measure the tallest plant. Draw them. Write the number down. Did they grow fast or slow?
+  *Child mode:* Once a week, measure the tallest plant. Take a photo, or draw them. Write the number down. Did they grow fast or slow?
   - Note: Tiny black or green insects on the tips are aphids. Wash them off with a gentle spray of water. Leaves with yellow patches may have a virus that is common in moong. Snip off that plant and keep the others. Heavy rain can rot the roots, so move the pot under a ledge in a storm.
   - Wait: Every week
 - **s4 (10 min)**  
@@ -588,7 +588,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
   - Note: Moong flowers can pollinate themselves, so you do not need bees. The flowers are small and close by midday, so look in the morning.
 - **s5 (10 min)**  
   *Parent does:* 1. A few days after flowering, look for thin green pods where the flowers were. 2. Tie a thread on the first pod. 3. Measure it each week.  
-  *Parent says:* Where the flower was, there is now a pod. What do you think is growing inside it?  
+  *Parent says:* Where the flower was, there is now a pod.  
   *Child mode:* Find a thin green pod where a flower was. Tie a thread on it. Measure it. What is inside?
   - Check: A thin green pod is growing where your moong flower was. What is the pod? → **The fruit, which grew from the flower and holds the new seeds**
 - **s6 (40 min)**  
@@ -607,7 +607,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
 ## Challenges
 ### c1 · Be the Bee: design a pollen mover (25 min)
 - **problem:** On a high balcony, few bees and butterflies visit. Your job is to design the best tool for picking up pollen from one flower and leaving it on another, without hurting the flowers.
-- **your turn:** Now invent your own pollen mover. Draw it, make it, and test it the same way. Does it beat the others?
+- **your turn:** Now invent your own pollen mover. Make it, and test it the same way. Does it beat the others?
 - **constraints:** It must not tear or bruise the petals.; It must be made from things you have at home.; Test every tool the same way: touch the pollen 3 times, then tap the tool 3 times on a sheet of dark paper.
 - **general:** A soft paintbrush or a cotton bud, which gardeners use.; A fingertip, like Edmond's thumb.; Gently shaking a plant like tomato or chilli in the morning, so pollen falls inside each flower.
 - **creative:** A fuzzy pipe cleaner bent into a bee shape. Bees carry pollen on the fluffy hairs all over their bodies.; An electric toothbrush, switched on and held against a tomato flower's stalk. The shaking makes pollen fall, the way big bees buzz tomato flowers. Some tomato growers use vibrating tools like this.; In 2020, scientists in Japan blew soap bubbles with pollen in them onto pear flowers. Some of the flowers grew fruit.
@@ -617,9 +617,9 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
   *Child mode:* Find the yellow dust in the flower. That is pollen. Touch it gently. Look at your fingertip.
   - Note: Hibiscus pollen grains are big enough to see as separate specks with a magnifying glass. Lily pollen stains clothes orange, so take care.
 - **s2 (4 min)**  
-  *Parent does:* Before testing, help your child draw or write three ideas for a pollen mover.  
+  *Parent does:* Before testing, help your child pick three tools from the pile, or sketch three ideas, for a pollen mover.  
   *Parent says:* Think like an engineer. What would carry pollen best? Something fluffy, something smooth, or something sticky?  
-  *Child mode:* Think like an engineer! Draw three ideas for a pollen mover. Should it be fluffy, smooth or sticky?
+  *Child mode:* Think like an engineer! Pick the three tools you think will work best. Say why.
 - **s3 (10 min)**  
   *Parent does:* 1. Test each tool the same way: touch the pollen 3 times, then tap the tool 3 times on the dark paper. 2. Write the tool's name beside its spot. 3. Compare the spots: lots, some or few yellow specks.  
   *Parent says:* We do the same test for every tool. Which one picks up and drops off the most pollen?  
@@ -632,7 +632,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
   - Think: Bees, butterflies, birds and bats do this job for free, all over the world. What would it cost if people had to do it all by hand?
 ### c2 · The Never-Empty Balcony: plan a garden that is always flowering (25 min)
 - **problem:** Plan 6 pots on a balcony or windowsill so that, from June to March, something is always flowering or fruiting. That is good for bees and butterflies, and it gives your family food.
-- **your turn:** Now draw your own balcony plan. Mark the sowing date and the flowering months for each pot. Is there any month with no flowers? Fix it.
+- **your turn:** Now make your own balcony plan, as a drawing or a list. Mark the sowing date and the flowering months for each pot. Is there any month with no flowers? Fix it.
 - **constraints:** Only 6 pots.; At least 2 pots must grow food.; Use the table of how long each plant takes, and show your sowing dates on a calendar.
 - **general:** Mix quick plants, like moong and methi, with ones that live for years and keep flowering, like tulsi, chilli and hibiscus.; Sow a quick crop in small batches, two weeks apart. Then a new batch is always coming up. Farmers call this succession sowing.; Grow warm-weather plants, like bhindi and moong, in summer and the monsoon, and cool-weather plants, like matar and marigold, in winter.
 - **creative:** Save seeds from each crop and sow them for the next season, so your balcony goes round its own life cycle every year.; Grow plants that flower at different times of day: morning flowers like bhindi, and evening flowers like lauki and raat ki rani.; Add a small dish of water with stones in it, so bees have somewhere safe to drink.
@@ -647,7 +647,7 @@ And when the pods are ripe, each one is packed with thousands of seeds, too smal
   - Check: You sow methi in one big batch in October. They flower for a few weeks and then they are finished. How could you keep having methi flowers for longer? → **Sow a small batch every two weeks**
 - **s3 (10 min)**  
   *Parent does:* Read the usual and the creative ideas together. Then fix any empty months in the plan.  
-  *Parent says:* Which month was hardest to fill? What could fill it?  
+  *Parent says:* A good plan has something flowering in every month.  
   *Child mode:* Which month was empty? What could you grow to fill it? Fix your plan.
   - Note: Rice grows best in warm, wet fields, and the monsoon brings the water. So farmers sow at the start of the rains, when the weather suits the plant.
   - Think: Farmers plan by life cycles too. Why do you think many farmers sow rice at the start of the monsoon?

@@ -267,11 +267,11 @@ She did not sell it. She gave a pinch to everyone who passed.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Put the 6 HOW cards face up in the middle. 3. Shuffle the journey cards and deal 5 to each player. 4. Put the rest face down in a pile.  
   *Parent says:* Every made thing has a journey. It starts at a source in nature, like a plant, an animal or a mine. Then it becomes a raw material. Then people change it into a thing. In this game, you collect whole journeys.  
-  *Child mode:* Every made thing has a journey. It starts in nature. Collect all three steps: source, raw, made. Let's deal the cards.
+  *Child mode:* Cut out the cards and deal them. You will collect sets of three: source, raw, made.
 - **s2 (3 min)**  
   *Parent does:* Play one practice set together. Find the cards 'SOURCE: the sea', 'RAW: sea water' and 'MADE: packet of salt'. Lay them in order.  
-  *Parent says:* Here is one journey. The sea, then sea water, then a packet of salt. Which HOW card fits? How do people get salt from sea water?  
-  *Child mode:* Practice set: the sea, sea water, a packet of salt. Which HOW card fits?
+  *Parent says:* Here is one journey. The sea, then sea water, then a packet of salt. Now we look for the HOW card that fits.  
+  *Child mode:* Look at the three cards in a row. They make one journey.
   - Check: How do people get salt out of sea water? → **Dry it in the sun**
 - **s3 (10 min)**  
   *Parent does:* 1. Take turns asking for cards. 2. When someone makes a set, they lay it down, read the journey out loud and choose a HOW card. 3. Everyone checks whether the HOW is right.  
@@ -296,8 +296,8 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Child mode:* You are a lawyer today! Each card is a tricky thing. Who made it? Nature, an animal, or people? Give a reason.
 - **s2 (3 min)**  
   *Parent does:* Play the first case together: 'A cultured pearl, grown in an oyster on a pearl farm.'  
-  *Parent says:* On a pearl farm, people put a tiny bead inside an oyster. The oyster then coats it with pearl, layer by layer, for a year or more. So who made the pearl?  
-  *Child mode:* People put a tiny bead in an oyster. The oyster coats it with pearl. Who made the pearl?
+  *Parent says:* On a pearl farm, people put a tiny bead inside an oyster. The oyster then coats it with pearl, layer by layer, for a year or more.  
+  *Child mode:* Think about the case. Choose an answer and give a reason.
   - Check: Who made a cultured pearl? → **Both: the oyster made the pearl, but people started it**
 - **s3 (11 min)**  
   *Parent does:* 1. The judge reads each card. 2. Lawyers argue. 3. The judge places the card and gives a token. 4. Swap judges every 5 cards, or after every card with 2 players.  
@@ -357,13 +357,13 @@ She did not sell it. She gave a pinch to everyone who passed.
 - **predict:** Guess first. Which plate will dry first, the one in the sun or the one in the shade? Will the two plates give the same amount of salt? Why do you think so?
 - **fair test:** To make it fair, use two plates that are the same. Put the same amount of the same salty water on each. Change only one thing: one plate is in the sun, one is in the shade.
 - **safety:** If you collect sea water, go with a grown-up and stay out of deep water. Do not eat salt from sea water, because it may be dirty.
-- **record:** Fill in the table. Draw what the salt crystals looked like under the magnifier.
+- **record:** Fill in the table. Say or draw what the salt crystals looked like under the magnifier.
 - **results table:** Plate | Where we put it | Day it was dry | How much salt (spoons) | What the salt looked like
 - **schedule:** day 1: Make the salty water. Pour half a cup on each plate. Put one in the sun and one in the shade. (10 min); day 2: Check both plates. Is either dry? Write it down. (3 min); day 3: Check both plates again. (3 min); day 4: When both plates are dry, scrape the salt from each plate. Compare the amounts. Look at the crystals with a magnifier. In damp weather this may be a day or two later. (9 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Stir 1 level teaspoon of salt into 1 cup of water until you cannot see the salt any more. 2. Taste one drop from your fingertip. 3. If you live near the sea, a grown-up can bring a cup of real sea water instead.  
   *Parent says:* Where did the salt go? It has not vanished. It is still there, hidden in the water, like sugar in tea. Sea water is like this. It has salt hidden in it.  
-  *Child mode:* Stir a spoon of salt into a cup of water. Where did it go? Taste one drop. It is still there, hidden!
+  *Child mode:* Stir a spoon of salt into a cup of water. Taste one drop. The salt is still there, hidden!
   - Ask: Where did the salt go? (good: It is still in the water.; It broke up into pieces far too small to see.)
 - **s2 (5 min)**  
   *Parent does:* 1. Pour half of the cup of salty water onto each plate. 2. Put one plate in a sunny place and one in a shady place indoors. 3. Write the date and time.  
@@ -372,8 +372,8 @@ She did not sell it. She gave a pinch to everyone who passed.
   - Note: On the coasts of Gujarat and Tamil Nadu, and in the Little Rann of Kutch, salt makers let sea water or salty underground water dry in big flat pans. In the Rann, families called Agariyas have made salt this way for generations.
 - **s3 (6 min)**  
   *Parent does:* Each day, look at both plates. Write down when each one is completely dry. In damp or rainy weather the shady plate can take longer, so keep checking.  
-  *Parent says:* Which plate is drying faster? Where is the water going?  
-  *Child mode:* Check your plates every day. Which one dries first? Where is the water going?
+  *Parent says:* Look at both plates. Which one is drying faster?  
+  *Child mode:* Check your plates every day. Write down when each one is dry.
   - Check: Where does the water go as the plate dries? → **Into the air, as water vapour we cannot see**
   - Wait: Check both plates each day until both are dry, usually 2 to 4 days.
 - **s4 (6 min)**  
@@ -414,7 +414,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 - **s4 (5 min)**  
   *Parent does:* When the washed halves are dry, put them side by side with the unwashed halves. Fill in the table.  
   *Parent says:* Which colour stayed best? Which washed out most?  
-  *Child mode:* Put the halves side by side. Which colour stayed? Which washed away?
+  *Child mode:* Put the washed and unwashed halves side by side. Look at each pair closely.
   - Note: Usually onion skins and tea stay quite well, and turmeric fades in sunlight and with washing. Beetroot often washes out a lot. If the turmeric cloth turns orange-red when you wash it, that is real: soap changes the colour of turmeric. Dyers in India learned over thousands of years which plants, and which helpers like alum, make colours last. Indigo, the famous blue, came from a plant too. Plain cotton without alum takes colour weakly, so pale results are normal and honest. Perkin's dye was made by people. He started from coal tar, a natural raw material, and changed it with chemistry.
   - Think: In 1856 a teenager in England, William Perkin, made the first dye from chemicals, a bright purple. Was his dye natural or made?
   - Wait: Let the washed halves dry completely, a few hours in a warm, airy place.
@@ -433,11 +433,11 @@ She did not sell it. She gave a pinch to everyone who passed.
 - **schedule:** day 1: Make milk plastic with 1, 2 and 4 teaspoons of vinegar. Squeeze it and shape it. (22 min); day 3: Check the shapes. They should be dry and hard. Fill in the table and say your three sentences. (8 min)
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up warms 1 cup of milk in a pan until it is steaming but not boiling. 2. Pour it into a bowl. 3. Add 1 teaspoon of vinegar and stir slowly for 1 minute.  
-  *Parent says:* Milk looks like one smooth liquid. Watch closely as the vinegar goes in. What do you see?  
-  *Child mode:* Ask a grown-up to warm the milk. Add one spoon of vinegar. Stir slowly. Watch! What do you see?
+  *Parent says:* Milk looks like one smooth liquid. Watch closely as the vinegar goes in.  
+  *Child mode:* Ask a grown-up to warm the milk. Add one spoon of vinegar. Stir slowly and watch the milk.
   - Ask: What happened to the milk? (good: It went lumpy.; White blobs came out.; It split into lumps and yellowish water.)
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Take a fresh cup of hot milk, add 2 teaspoons of vinegar and stir slowly for 1 minute. 2. Do the same with a third cup of hot milk and 4 teaspoons of vinegar. 3. Pour each bowl through the strainer. 4. Count how many teaspoons of lumps each bowl gave.  
+  *Parent does:* 1. Take a fresh cup of hot milk, add 2 teaspoons of vinegar and stir slowly for 1 minute. 2. Do the same with a third cup of hot milk and 4 teaspoons of vinegar. 3. Pour all three bowls through the strainer, one at a time, the first bowl too. 4. Count how many teaspoons of lumps each bowl gave.  
   *Parent says:* The white lumps are a material called casein. It was hidden in the milk all along, and the vinegar makes it come out. Now we use the same milk, the same warmth and the same stirring. Only the amount of vinegar changes. Which bowl gives the most lumps?  
   *Child mode:* Try again with 2 spoons of vinegar. Then 4 spoons. Strain each bowl. Count the spoons of lumps.
   - Note: This is how paneer is made too, with lemon juice. The lumps are casein, a natural material from milk, with some milk fat. Let the lumps cool before your child touches them. With only 1 teaspoon of vinegar you may get very few lumps. That is a real result, not a mistake.
@@ -461,16 +461,16 @@ She did not sell it. She gave a pinch to everyone who passed.
 
 ## Activities
 ### a1 · The Journey Backwards (20 min)
-- **record:** Draw three chains of boxes with arrows, from the object back to nature.
+- **record:** Make three chains of slips with arrows, from each object back to nature. Take a photo of them.
 - **s1 (4 min)**  
-  *Parent does:* 1. Put a steel spoon, a cotton hanky and a plastic comb on the table. 2. Pick up the spoon and ask the two detective questions: What is it made of? Where was that material before it became this?  
+  *Parent does:* 1. Put a steel spoon, a cotton hanky and a plastic comb on the table. 2. Pick up the spoon. Ask your child the two detective questions.  
   *Parent says:* Here are the two detective questions. What is it made of? And where was that material before it became this?  
-  *Child mode:* Pick up the spoon. Ask two questions. What is it made of? Where was that material before it was a spoon?
+  *Child mode:* Hold the spoon. Look at it and feel it closely.
   - Ask: What is the spoon made of? (good: Stainless steel, which is iron mixed with chromium.; Metal.)
 - **s2 (12 min)**  
-  *Parent does:* For each object, draw a chain of boxes from right to left. Start with the object on the right. Keep asking 'and before that?' until you reach nature. Draw a small picture in each box.  
+  *Parent does:* For each object, lay out a chain of paper slips from right to left. Start with the object on the right. Keep asking 'and before that?' until you reach nature. Write one word on each slip, or say it out loud.  
   *Parent says:* It came from a shop. Where was it before the shop? In a factory. Where was it before the factory? Keep going until you reach something nature made.  
-  *Child mode:* Draw the object in a box. Draw an arrow back. What was it before? Keep going until you reach nature.
+  *Child mode:* Put the object at the right end. Add a slip to the left for each 'and before that?'. Stop when you reach nature.
   - Note: Good chains. Steel spoon: shop, factory pressing steel sheets, stainless steel made in a furnace from iron and chromium, iron ore and chromium ore dug from mines in Odisha or Jharkhand, rock in the ground. Cotton hanky: shop, cloth weaving, thread spinning, cotton fluff, cotton plant in a field in Gujarat or Maharashtra, seed, soil, sun and rain. Plastic comb: shop, factory moulding plastic, plastic beads, chemicals made from petroleum, oil deep underground, tiny living things in the sea, millions of years ago.
   - Check: Trace a plastic comb back to where its material came from. Where does the journey end? → **At oil deep underground, made from ancient sea life**
 - **s3 (4 min)**  
@@ -481,7 +481,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   - Think: Which of your three chains ended at a living thing? Which ended in the ground?
 ### a2 · Nature or People? The Three-Heap Walk (25 min)
 - **safety:** Walk with a grown-up. Do not pick up glass, sharp things, dirty wrappers or anything an animal has left. Wash hands afterwards.
-- **record:** Make a tally of how many things went in each heap. Draw a bar chart of the tally.
+- **record:** Make a tally of how many things went in each heap. Line up the things of each heap in a row to make a bar chart, and take a photo.
 - **s1 (12 min) · grown-up needed**  
   *Parent does:* Walk around a garden, a park or your lane for 10 minutes. Collect about 15 small, clean things: leaves, stones, seeds, a feather, a bottle cap, a piece of string, a twig, a shell. If you cannot go out, collect things around your home. Try a dry leaf, a pebble from a plant pot, a peanut shell, a button and a cotton thread.  
   *Parent says:* Let's collect things nature made and things people made. Only clean things, and nothing sharp.  
@@ -492,9 +492,9 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Child mode:* Make three heaps: once-living natural things, never-living natural things, and things made by people. Sort your things and count each heap.
   - Note: Once-living: leaves, twigs, seeds, feathers, shells, flowers. Never-living: stones, sand, soil. Made by people: bottle caps, string, paper, pieces of brick. A brick piece is made by people from clay. Cotton string is made by people from a once-living plant.
 - **s3 (5 min)**  
-  *Parent does:* Look at the tricky things together, then draw a bar chart of the tally.  
+  *Parent does:* Look at the tricky things together. Then line up the things of each heap in a row, side by side. The rows make a bar chart.  
   *Parent says:* Which things were hard to sort? A piece of brick? A cotton string?  
-  *Child mode:* Which thing was hardest to sort? Why? Now draw a bar for each heap.
+  *Child mode:* Which thing was hardest to sort? Why? Now line up each heap in a row. The longest row has the most things.
   - Check: Which heap does a piece of cotton string go in? → **Made by people**
 ### a3 · Then and Now: Ask an Older Person (20 min)
 - **record:** Fill in the THEN and NOW table for six things.
@@ -519,9 +519,9 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent says:* Every material comes from a real place, where real people grow it, dig it or collect it. Let's put our materials on the map.  
   *Child mode:* Every material comes from a real place. Let's find where on the map!
 - **s2 (16 min)**  
-  *Parent does:* Mark each material on the map, with a small drawing or a stuck-on sample. Use the parent note for places.  
+  *Parent does:* Mark each material on the map with a stuck-on sample, or with its name written in the right place. Use the parent note for places.  
   *Parent says:* Cotton grows a lot in Gujarat and Maharashtra. Where shall we stick it?  
-  *Child mode:* Stick each material on its place on the map. Draw a little picture next to it.
+  *Child mode:* Stick each material on its place on the map. If you have no sample, write its name there.
   - Ask: Which part of India gives the most materials on your map? (good: The east, because of iron ore and jute.; The coasts, because of salt and coir.)
   - Note: Cotton: Gujarat, Maharashtra and Telangana. Jute: West Bengal. Silk: Karnataka, and many other states. Muga, a golden silk, comes almost only from Assam. Rubber: Kerala, and also Tripura. Coir from coconut husks: Kerala and Tamil Nadu. Tea: Assam, West Bengal and the Nilgiris in Tamil Nadu. Coffee: Karnataka and Kerala. Iron ore: Odisha, Jharkhand, Chhattisgarh and Karnataka. Bauxite for aluminium: Odisha. Salt: Gujarat, especially the Little Rann of Kutch, and Tamil Nadu. Marble: Makrana in Rajasthan, the marble of the Taj Mahal. Lac: Jharkhand.
 - **s3 (5 min)**  
@@ -552,7 +552,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 ### a6 · Same Beads, Different Things (15 min)
 - **problem:** There are only about 90 kinds of atom, and everything is built from them. Wood, cotton, sugar and plastic are made mostly from three kinds: carbon, hydrogen and oxygen. In this activity, beads stand for these atoms. You join the same beads in different patterns to see how different materials can be made from the same atoms.
 - **safety:** Keep small beads away from babies and toddlers, who might swallow them.
-- **record:** Draw two of your bead models and label the colours.
+- **record:** Take a photo of two of your bead models. Say which colour is which atom.
 - **s1 (5 min)**  
   *Parent does:* Sort the beads into three colours. Say what each colour stands for: black is carbon, white is hydrogen, red is oxygen.  
   *Parent says:* Everything is made of tiny atoms. These beads are pretend atoms. Wood, cotton and sugar are made mostly from these three kinds. Many plastics, like the plastic of a carry bag, are made from just two of them.  
@@ -567,7 +567,7 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Child mode:* Break your models up. Could you build something new? Making a thing does not make new atoms. It makes new patterns.
   - Check: A wooden spoon and a plastic spoon are both made mostly of… → **Carbon and hydrogen atoms, with oxygen in the wood, in different patterns**
 ### a7 · We Are Stardust: Act It Out (15 min)
-- **record:** Draw a comic strip in four boxes: star, explosion, Earth, spoon.
+- **record:** Tell the story again to another grown-up in four parts: star, explosion, Earth, spoon. Or act it out for them.
 - **s1 (4 min)**  
   *Parent does:* 1. A grown-up holds the torch. That is a big star. 2. The child, or children, crouch close to the torch. They are small hydrogen atoms, squeezed in the star's hot middle.  
   *Parent says:* You are a tiny hydrogen atom inside a giant star. It is very hot and very squeezed. Join up by holding hands with someone, or press your own hands together. Now you have joined into a bigger atom: carbon, oxygen or iron!  
@@ -587,16 +587,16 @@ She did not sell it. She gave a pinch to everyone who passed.
 ## Projects
 ### p1 · From Soil to Diya (60 min, 5 days)
 - **safety:** Dig only where a grown-up says you may. Do not light your air-dried diya: unbaked clay can crack in the flame.
-- **record:** Draw the layers in the jar. Write the wet and dry weights of your diya. Write what happened when water dripped on each diya.
+- **record:** Take a photo of the layers in the jar, or draw them. Write the wet and dry weights of your diya. Write what happened when water dripped on each diya.
 - **schedule:** day 1: Dig soil, shake it in water in a bottle, and leave it to settle into layers. (20 min); day 2: Pour off the water, scoop out the fine clay, and wrap it in a cloth to firm up into dough. (15 min); day 3: Knead the clay, shape a diya and weigh it wet. (15 min); day 4: Check that it is drying slowly in the shade. (2 min); day 5: Weigh the dry diya. Compare it with a kiln-baked diya. Drip water on both. (8 min)
 - **s1 (20 min) · grown-up needed**  
   *Parent does:* 1. Dig 2 cups of soil. Pick out stones, roots and leaves. 2. Put half the soil into a tall clear bottle. Fill it nearly to the top with water. 3. Close it and shake hard for one minute. 4. Leave it still overnight. 5. Put the rest of the soil in a bucket of water, stir and leave it too.  
   *Parent says:* Soil is a mix of many things. Water will sort it for us. The big, heavy grains sink first. The finest grains, the clay, sink last.  
   *Child mode:* Dig some soil. Pick out stones and roots. Shake it in a bottle of water. Leave it still until tomorrow.
 - **s2 (15 min)**  
-  *Parent does:* 1. Look at the bottle. Draw the layers you see. 2. In the bucket, gently pour off the clear water on top. 3. Scoop out the smooth top layer of mud, the clay. 4. Wrap it in a cloth and hang it up, or leave it on newspaper, until it is like soft dough.  
-  *Parent says:* See the layers? Stones and sand at the bottom, then silt, then the smooth clay on top. Clay grains are the tiniest of all.  
-  *Child mode:* Look at the layers in your bottle! Draw them. Scoop the smooth top mud from the bucket. That is clay!
+  *Parent does:* 1. Look at the bottle. Point to each layer you can see. 2. In the bucket, gently pour off the clear water on top. 3. Scoop out the smooth top layer of mud, the clay. 4. Wrap it in a cloth and hang it up, or leave it on newspaper, until it is like soft dough.  
+  *Parent says:* See the layers? Stones and sand are at the bottom. Silt, which is finer than sand, comes next. The smooth clay is on top. Clay grains are the tiniest of all.  
+  *Child mode:* Look at the layers in your bottle! Take a photo. Scoop the smooth top mud from the bucket. That is clay!
   - Note: If the water on top is still muddy, the clay is still sinking. Wait another day before pouring. Clay is slow to settle, and some soils have very little of it, so this step can fail. A lemon-sized ball needs a good handful of clay. If you have less, make a smaller diya. If your soil has hardly any clay, buy a small packet of potter's clay and mix it in. Riverbank and field soil often has plenty. Clay in a cloth takes about a day to firm up. If it is still sticky on day 3, leave it a few hours more before you knead it.
   - Check: In the bottle, why is the clay on the top? → **Clay grains are the tiniest, so they sink last**
 - **s3 (15 min)**  
@@ -627,9 +627,9 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent says:* For thousands of years, people in India ate from leaves. Leaf plates are still sold in markets. After the meal, cows can eat them or they rot into soil.  
   *Child mode:* Get big leaves and thin twigs with a grown-up. People in India have eaten from leaves for thousands of years!
 - **s2 (5 min)**  
-  *Parent does:* Before building, draw two ideas: one for the plate and one for the bowl.  
-  *Parent says:* Engineers draw before they build. How will you stop the sambar leaking out?  
-  *Child mode:* Draw your plate and bowl first. How will you stop the sambar from leaking?
+  *Parent does:* Before building, plan one idea for the plate and one for the bowl. Draw them, or explain them to your grown-up.  
+  *Parent says:* Engineers plan before they build.  
+  *Child mode:* Plan your plate and bowl first. Think about how to stop the sambar leaking.
 - **s3 (15 min)**  
   *Parent does:* 1. Build the plate and bowl. 2. Put an idli on the plate and a spoon of sambar in the bowl. 3. Wait 5 minutes and check for leaks.  
   *Parent says:* Build it, then test it. If it leaks, what will you change?  
@@ -645,7 +645,7 @@ She did not sell it. She gave a pinch to everyone who passed.
 ### c2 · Swap the Plastic (25 min)
 - **problem:** Choose one plastic thing your family throws away often, like a straw, a carry bag or a cling film wrap. Design something to replace it, made from a natural material or one that lasts for years.
 - **safety:** A grown-up melts the beeswax for wax wraps. Hot wax burns.
-- **your turn:** Now design your own swap. Draw it, label its materials, and write where each material comes from.
+- **your turn:** Now design your own swap. Draw it or build a model, label its materials, and write where each material comes from.
 - **constraints:** It must do the same job just as well.; It must not cost much more.; You must say where its material comes from, and what happens to it when it is old.
 - **general:** A cloth or jute bag in place of plastic carry bags.; A steel or bamboo straw, or a papaya stalk, in place of a plastic straw.; A steel tiffin box in place of cling film.
 - **creative:** Wax wraps: cotton cloth soaked in melted beeswax, to cover bowls. A grown-up melts the wax.; A bag sewn from an old sari or veshti.; A kulhad, a clay cup, which can go back to the soil.
@@ -654,9 +654,9 @@ She did not sell it. She gave a pinch to everyone who passed.
   *Parent says:* Which plastic things do we throw away most? Pick one to swap.  
   *Child mode:* Look in the dustbin with a grown-up. Which plastic things do we throw away? Pick one.
 - **s2 (12 min)**  
-  *Parent does:* 1. Draw a replacement. 2. Label each material. 3. Write where each material comes from and what happens to it when it gets old.  
+  *Parent does:* 1. Draw a replacement, or build a small model of it from things at home. 2. Label each material. 3. Write where each material comes from and what happens to it when it gets old.  
   *Parent says:* What job does the plastic thing do? What could do the same job, and come from nature or last for years?  
-  *Child mode:* Draw your new design. Label its materials. Where does each one come from?
+  *Child mode:* Draw or build your new design. Label its materials. Where does each one come from?
   - Check: Which swap can go back into the soil when it is old? → **A kulhad, a clay cup that was not glazed**
 - **s3 (8 min)**  
   *Parent does:* Read the usual solutions and creative ideas. Then try making a simple version of your swap, if you can.  

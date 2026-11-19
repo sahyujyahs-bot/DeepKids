@@ -377,7 +377,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about bounces. You guess whether a ball will bounce high or land with a thud on different surfaces, and then test some of them.",
+   "context": "You will find out what a ball and a surface need for a high bounce. You guess whether a ball will bounce high or land with a thud on different surfaces, and then test some of them.",
    "printables": [
     {
      "kind": "cards",
@@ -498,7 +498,7 @@
      "mins": 2,
      "do": "Play the card 'A ball of atta dough on the floor' as a practice round.",
      "say": "Practice card. A ball of atta dough falls on the floor. Bounce or thud?",
-     "kid": "Practice card. A ball of atta dough falls on the floor. Bounce or thud?",
+     "kid": "Think about how atta dough feels when you squash it.",
      "check": {
       "t": "mcq",
       "q": "A ball of atta dough falls on a hard floor. What happens?",
@@ -522,7 +522,7 @@
      "mins": 2,
      "do": "Add up the points. Ask which card surprised everyone most.",
      "say": "Which card surprised you? What does a bounce need?",
-     "kid": "Count your points. What two things does a high bounce need?",
+     "kid": "Count your points. Which card surprised you most?",
      "ask": [
       {
        "q": "What two things does a high bounce need?",
@@ -543,7 +543,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is an acting game. Players act out a sport, freeze, and say which forces are acting on their body at that moment.",
+   "context": "You will find out that every sport is made of pushes and pulls. Players act out a sport, freeze, and say what is pushing what.",
    "printables": [
     {
      "kind": "cards",
@@ -724,7 +724,7 @@
     }
    ],
    "record": "Fill in the table. Then draw a bar for each surface, as tall as its middle number.",
-   "context": "This is the main experiment of the unit. You drop one ball onto five different surfaces and measure how high it bounces from each.",
+   "context": "You will find out why a ball bounces high off a hard floor and hardly at all off a pillow. You drop one ball onto five different surfaces and measure each bounce.",
    "setup": [
     {
      "art": "A strip of paper taped up a wall from the floor, marked every 10 cm up to 100 cm, with a tiled floor below.",
@@ -786,7 +786,7 @@
      "mins": 3,
      "do": "1. Lay the five surfaces in a row near the wall. 2. Show your child each one, and ask for a guess.",
      "say": "Here are five surfaces: the bare floor, a doormat, a folded bedsheet, a pillow and a plate of rice. Which will give the highest bounce? Which the lowest? Why do you think so?",
-     "kid": "Look at the five surfaces. Which gives the highest bounce? Which the lowest? Why? Write your order.",
+     "kid": "Look at the five surfaces. Put them in order, from the highest bounce to the lowest. Write your order.",
      "ask": [
       {
        "q": "Why do you think that surface will give the highest bounce?",
@@ -839,7 +839,7 @@
      "mins": 2,
      "do": "1. Drop the ball onto the pillow 10 times quickly. 2. Your child presses the pillow and listens to each landing.",
      "say": "The ball fell 100 cm onto the pillow and hardly came back up. Where did its movement go? Listen and feel.",
-     "kid": "Listen to the ball land on the pillow. Feel the dent. Where did the bounce go?",
+     "kid": "Listen to the ball land on the pillow. Press the pillow and feel the dent.",
      "ask": [
       {
        "q": "The ball fell fast. On the pillow it stopped and stayed. What happened to the pillow?",
@@ -916,8 +916,8 @@
      "what": "Roll a marble off the table from three heights on a ramp. Find where it lands in a plate of rava, and measure how far that is from the table."
     }
    ],
-   "record": "Fill in the table. Draw the table from the side, with three curved paths, one for each height.",
-   "context": "This experiment is about the curved path of a moving ball. Galileo did a test like it about 400 years ago.",
+   "record": "Fill in the table. Then draw the three paths from the table edge to the dents, or trace them in the air and tell your grown-up which went furthest.",
+   "context": "You will find out whether a faster marble lands further from the table, and what path it takes in the air. Galileo did a test like it about 400 years ago.",
    "setup": [
     {
      "art": "A grooved ruler on a table, one end lifted on a book, its low end lying flat about 10 cm from the table edge.",
@@ -980,7 +980,7 @@
      "mins": 3,
      "do": "1. Mark three start points on the ramp, 5 cm, 10 cm and 20 cm above the table. 2. Ask for a guess.",
      "say": "From higher up the ramp, the marble will be going faster when it leaves the table. Will it land in the same place, or further away? Why do you think so?",
-     "kid": "Higher up the ramp means a faster marble. Where will the marble land each time? Why?",
+     "kid": "Higher up the ramp means a faster marble. Make a guess, and say why.",
      "ask": [
       {
        "q": "Where do you think the fastest marble will land?",
@@ -1004,7 +1004,7 @@
      "id": "s4",
      "mins": 8,
      "do": "1. Let go of the marble from the 5 cm mark, 3 times. 2. Each time, measure from the floor mark to the dent. 3. Do the same from 10 cm and from 20 cm, moving the plate if needed.",
-     "say": "Just open your fingers, don't push. Watch the path of the marble as it falls. Is it straight down, or a curve?",
+     "say": "Just open your fingers, don't push. Watch the marble as it leaves the table edge.",
      "kid": "Let the marble go from the 5 cm mark. Measure from the floor mark to the dent in the rava. Then do the same from 10 cm, and from 20 cm.",
      "check": {
       "t": "mcq",
@@ -1022,9 +1022,9 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask your child to draw the table from the side, with three curved paths ending at the three dents.",
-     "say": "Draw the three paths. Do they all start in the same place? Where do they end?",
-     "kid": "Draw the table from the side. Draw three paths. Where does each end?"
+     "do": "Put a coin beside each of the three dents. Ask your child to trace each marble's path in the air with a finger, from the table edge to its coin.",
+     "say": "Show me each path with your finger. Do they all start in the same place? Where do they end?",
+     "kid": "Trace each path in the air with your finger. Start at the table edge and end at the coin. Which goes furthest?"
     },
     {
      "id": "s6",
@@ -1077,8 +1077,8 @@
      "what": "Practise one jump each way. Then do 3 rounds, each with one jump with arms held behind your back and one with arms swinging. Measure each one."
     }
    ],
-   "record": "Fill in the table. Draw yourself jumping both ways.",
-   "context": "This experiment is about jumping. You find out whether your arms help your legs.",
+   "record": "Fill in the table. Then say which jump was longer, or take a photo of each landing.",
+   "context": "You will find out whether swinging your arms makes you jump further. You jump from a line, with and without swinging your arms, and measure each jump.",
    "setup": [
     {
      "art": "A strip of tape across a corridor floor, with a child's bare toes just behind it.",
@@ -1180,7 +1180,7 @@
     }
    ],
    "record": "Write which was harder, and one thing your legs or feet felt.",
-   "context": "This is a quick activity to start the unit. You feel for yourself how the ground changes running.",
+   "context": "You will find out whether jogging feels easier or harder on a soft mattress than on a hard floor.",
    "setup": [
     {
      "art": "A child jogging on the spot on a tiled floor, knees lifting.",
@@ -1213,7 +1213,7 @@
      "mins": 2,
      "do": "Ask which was harder, what their feet did on the mattress, and why. Wait for the answers. Don't explain yet.",
      "say": "Which was harder? What did your feet do on the mattress that they didn't do on the floor? Why do you think it was harder?",
-     "kid": "Which was harder? What did your feet do on the mattress? Why?",
+     "kid": "Which was harder? What did your feet do on the mattress?",
      "ask": [
       {
        "q": "Why do you think the mattress was harder?",
@@ -1259,8 +1259,8 @@
      "what": "Toss a soft ball to each other and watch its path. Then squeeze a bottle of water with a small hole in its side, and watch the water's path."
     }
    ],
-   "record": "Draw the path of the ball and the path of the water. Are they the same shape?",
-   "context": "This activity is about the path of a thrown thing. A water jet shows the whole curve at once.",
+   "record": "Draw the path of the ball and the path of the water, or tell your grown-up if they were the same shape.",
+   "context": "You will find out what path a thrown ball makes in the air. A water jet shows the whole path at once.",
    "setup": [
     {
      "art": "A mother and a girl tossing a rolled pair of socks to each other across a room, with a dotted curve between them.",
@@ -1301,9 +1301,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Your child draws both paths side by side.",
-     "say": "Draw the ball's path and the water's path. Are they the same shape?",
-     "kid": "Draw the ball's path. Draw the water's path. Same shape?",
+     "do": "Your child traces the ball's path and the water's path in the air with a finger, one after the other.",
+     "say": "Show me the ball's path with your finger. Now show me the water's path. Are they the same shape?",
+     "kid": "Trace each path in the air with your finger. Look at the two shapes.",
      "check": {
       "t": "mcq",
       "q": "Why does the water jet bend down?",
@@ -1341,8 +1341,8 @@
      "what": "Flick a light ball on the floor at its middle and at its side. Watch how it moves each time."
     }
    ],
-   "record": "Draw the ball from above with an arrow for each flick: middle and side.",
-   "context": "This activity is about kicking. You flick a ball with your finger, like a tiny kick, and see what happens when you hit it away from its middle.",
+   "record": "Say which flick made the ball spin, the middle one or the side one. Take a photo of the ball if you like.",
+   "context": "You will find out what makes a ball spin. You flick a ball with your finger, like a tiny kick, in the middle and then at the side.",
    "setup": [
     {
      "art": "A finger flicking a table tennis ball right at its middle on a smooth floor, with a straight arrow ahead of it.",
@@ -1383,9 +1383,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask how a footballer could make a ball spin on purpose.",
-     "say": "Footballers kick the side of the ball on purpose. A spinning ball curves in the air. Why would a footballer want the ball to curve?",
-     "kid": "A spinning ball curves in the air. Why would a footballer want that?",
+     "do": "Ask why a footballer might want a ball to curve in the air.",
+     "say": "Footballers kick the side of the ball on purpose, so it spins and curves in the air. What could a curve help them do?",
+     "kid": "Think of a footballer kicking at a goal with players standing in the way. How could a curve help?",
      "check": {
       "t": "mcq",
       "q": "You kick a football right through its middle. What will the ball most likely do?",
@@ -1420,7 +1420,7 @@
     }
    ],
    "record": "Write what happened with stiff hands and with soft hands.",
-   "context": "This activity is about catching. You find out why good catchers pull their hands back.",
+   "context": "You will find out why good catchers pull their hands back as they catch. You catch a water balloon in two ways and see which is gentler.",
    "setup": [
     {
      "art": "A small water balloon in the air, gently tossed between two people on a balcony.",
@@ -1435,7 +1435,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Fill the balloons about half full with water and tie them. Stand about 2 metres apart.",
+     "do": "Fill the balloons about half full with water and tie them. Go outside or to a balcony, and stand about 2 metres apart.",
      "say": "We will catch water balloons. First with stiff hands that don't move, then with soft hands that move back with the balloon. Which way will be gentler on the balloon? Why?",
      "kid": "Stiff hands or soft hands. Which is gentler on the balloon? Why?",
      "adult": true
@@ -1461,7 +1461,7 @@
      "mins": 2,
      "do": "Ask what was different.",
      "say": "What was different between the two catches? Where else do people use soft hands?",
-     "kid": "What was different? Where else do people catch with soft hands?",
+     "kid": "What was different between the two catches? Which one was gentler on the balloon?",
      "ask": [
       {
        "q": "Where else do people catch with soft hands?",
@@ -1499,7 +1499,7 @@
     }
    ],
    "record": "Make a tally: one mark for each thing you spot.",
-   "context": "In this activity you look for everything from the unit in a real game.",
+   "context": "You will find out how many things from this unit happen in one real game, by counting each time you spot one.",
    "setup": [
     {
      "art": "A child on a sofa watching a cricket match on TV, with a notebook of tally marks on their knee.",
@@ -1514,9 +1514,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Draw five rows in the notebook: bounce, curved throw, spin, soft catch, push on the ground.",
+     "do": "Write these five names down the notebook page, one on each line: bounce, curved throw, spin, soft catch, push on the ground.",
      "say": "Let's watch a match like scientists. Each time you spot one of these, make a mark.",
-     "kid": "Draw five rows: bounce, curved throw, spin, soft catch, push on the ground."
+     "kid": "Write these five names down the page, one on each line: bounce, curved throw, spin, soft catch, push on the ground."
     },
     {
      "id": "s2",
@@ -1531,7 +1531,7 @@
      "mins": 3,
      "do": "Count the tallies together.",
      "say": "Which did you spot most? Choose one mark and say what pushed on what.",
-     "kid": "Count your marks. Which did you see most?"
+     "kid": "Count your marks. Pick one thing you spotted, and say what pushed on what."
     }
    ]
   }
@@ -1571,7 +1571,7 @@
     }
    ],
    "record": "Write how high the ball bounces on the floor after every 50 bands. On day 2, add a row to your Bounce Test table for the new ball.",
-   "context": "In this 2-day project you make your own ball and find out how it bounces.",
+   "context": "You will find out whether a ball made of rubber bands bounces better than a ball of paper. In this 2-day project you make the ball and test how it bounces.",
    "setup": [
     {
      "art": "Hands wrapping rubber bands around a small crumpled ball of newspaper.",
@@ -1656,8 +1656,8 @@
     "Try the same cloth stretched tight, then a little loose. Which gives the higher bounce?",
     "A drum skin springs back fast. Does a bigger drum give a better bounce than a small one?"
    ],
-   "your_turn": "Now design your own mini trampoline. Draw it, build it and drop the ball on it. Does it beat the pillow? Does it beat the floor?",
-   "context": "This is an engineering challenge. You make a soft surface that springs back quickly, like a trampoline.",
+   "your_turn": "Now design your own mini trampoline. Build it and drop the ball on it. Sketch a plan first if you like. Does it beat the pillow? Does it beat the floor?",
+   "context": "You will find out how to make a soft surface that still bounces a ball back up, like a trampoline.",
    "setup": [
     {
      "art": "A cloth stretched tight over the mouth of a bucket and tied with string.",
@@ -1674,7 +1674,7 @@
      "mins": 5,
      "do": "Remind your child of the bounce test. Read the problem together.",
      "say": "The pillow squashed and gave no bounce back. A trampoline is soft too, but it springs back fast. Can you make one?",
-     "kid": "A pillow takes the bounce away. A trampoline gives it back. Can you make one?"
+     "kid": "Your challenge is to make a soft surface that gives a good bounce."
     },
     {
      "id": "s2",
@@ -1689,7 +1689,7 @@
      "mins": 10,
      "do": "Try one change, such as tighter or looser, and test again.",
      "say": "What one change will make it better? Try it. Why did that help?",
-     "kid": "Change one thing. Test again. Better or worse? Why?",
+     "kid": "Change one thing. Test again. Is the bounce better or worse?",
      "ask": [
       {
        "q": "Why does a tight cloth give a better bounce than a pillow?",
@@ -1730,7 +1730,7 @@
     "People in snowy places wear wide snowshoes to walk on snow. Design a sand-shoe.",
     "Does a foot with holes in it sink more or less than a solid one?"
    ],
-   "your_turn": "Now design a foot that sinks least. Draw it, make it and test it with the same bottle. What made it work?",
+   "your_turn": "Now design a foot that sinks least. Make it and test it with the same bottle. Sketch it first if you like. What made it work?",
    "context": "This is a design challenge. You find out how to stop a foot sinking into soft ground, as a camel's feet do.",
    "setup": [
     {

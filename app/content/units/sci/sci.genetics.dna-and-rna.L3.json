@@ -353,7 +353,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "In this drawing game, each player gets a four-letter code and draws the creature it describes. Players with the same code compare their creatures.",
+   "context": "In this game, each player gets a four-letter code and draws or builds the creature it describes. You will find out what stays the same when two players use the same code.",
    "printables": [
     {
      "kind": "cards",
@@ -384,7 +384,7 @@
    "rules": [
     "Shuffle the code cards and put them face down.",
     "Each player takes one code card and keeps it secret. With two players, each of you takes one of the two ATCG cards, so you can compare.",
-    "Everyone uses the key to draw their creature, one letter at a time.",
+    "Everyone uses the key to draw or build their creature, one letter at a time.",
     "When all have finished, show the creatures. Can the others guess your code from your creature?",
     "If two players hold the same code, such as ATCG, put their creatures side by side. What is the same, and what is different?",
     "Play again with new cards. If you are playing alone, draw three creatures. The next day, work out each code from the drawing."
@@ -405,14 +405,14 @@
      "mins": 3,
      "do": "1. Cut out the key and the code cards. 2. Give each player a key, paper and a pencil. 3. Shuffle the code cards.",
      "say": "Each code card has four letters, like a tiny piece of DNA. Each letter gives one instruction. Let's see what creature your code builds.",
-     "kid": "Take a code card. Keep it secret. Each letter tells you one part to draw."
+     "kid": "Take a code card. Keep it secret. Each letter tells you one part of the creature."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "Everyone draws their creature from their code, letter by letter.",
+     "do": "Everyone draws their creature from their code, letter by letter. Anyone who prefers can build it from clay or paper shapes.",
      "say": "Draw the body first, from letter 1. Then the legs from letter 2, the eyes from letter 3 and the extra from letter 4.",
-     "kid": "Letter 1 is the body. Letter 2 is legs. Letter 3 is eyes. Letter 4 is the extra. Draw!"
+     "kid": "Check each letter on the key. Draw each part, or build it from clay or paper shapes."
     },
     {
      "id": "s3",
@@ -614,8 +614,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the pairs and ask the last question.",
-     "say": "A mango stone and a mustard seed both fall on the same soil. Why do they grow so differently?",
-     "kid": "A mango stone and a mustard seed land in the same soil. Why do they grow differently?",
+     "say": "Let's count the pairs. Then here is a puzzle about two seeds in the same soil.",
+     "kid": "Count your pairs. Then answer the puzzle.",
      "check": {
       "t": "mcq",
       "q": "A mango stone and a mustard seed fall on the same soil and get the same rain. Why does one grow into a tree and the other into a small plant?",
@@ -645,7 +645,7 @@
     "Day the first root showed",
     "How many of 5 sprouted",
     "Height of the tallest on day 4 (cm)",
-    "Drawing of the seed leaves"
+    "Drawing or photo of the seed leaves"
    ],
    "materials": [
     {
@@ -705,11 +705,11 @@
     {
      "day": 4,
      "mins": 15,
-     "what": "Look closely, measure and draw the seed leaves. Compare the three kinds. Say what you think, what you saw and why."
+     "what": "Look closely, measure, and draw or photograph the seed leaves. Compare the three kinds. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the results table. Draw one seedling of each kind on day 4, as big as you can, showing the shape of the two seed leaves.",
-   "context": "In this experiment you grow three kinds of kitchen seed side by side on the same wet cotton, and see whether they grow alike.",
+   "record": "Fill in the results table. Draw one seedling of each kind on day 4, as big as you can, showing the shape of the two seed leaves. Or take a photo of each.",
+   "context": "In this experiment you grow three kinds of kitchen seed side by side on the same wet cotton. You will find out whether a plant's shape comes from the water and light, or from inside the seed.",
    "setup": [
     {
      "art": "A steel plate with a layer of wet cotton, and three rows of seeds on it: green moong, yellow-brown methi and tiny dark mustard, each row with a paper label.",
@@ -763,8 +763,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Put one seed of each kind on your child's palm. 2. Ask for a guess and a reason before anything else.",
-     "say": "These three seeds will get the same cotton, the same water and the same light. Will they grow into seedlings that look the same? Why do you think so?",
-     "kid": "Look at the three seeds. They will get the same water and light. Will they grow the same? Why do you think so?",
+     "say": "These three seeds will get the same cotton, the same water and the same light. Let's guess what will happen.",
+     "kid": "Look at the three seeds in your hand. Make a guess, then tell us your reason.",
      "ask": [
       {
        "q": "Will the seedlings look the same or different? Why?",
@@ -789,8 +789,8 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Put the plate on a window ledge or table in bright light. 2. Keep it out of hot afternoon sun, which can dry the cotton in a few hours.",
-     "say": "All three rows sit in the same place on the same plate. Why does that matter?",
-     "kid": "Put the plate by a bright window. Why must all three rows be on one plate?",
+     "say": "All three rows sit in the same place on the same plate.",
+     "kid": "Put the plate by a bright window, out of hot sun.",
      "check": {
       "t": "mcq",
       "q": "Why do all three kinds of seed share one plate of cotton, in one place?",
@@ -815,9 +815,9 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "1. Day 4: look at each row with the magnifying glass. 2. Measure the tallest seedling in each row, from the cotton to the top. 3. Draw one seedling of each kind, showing the shape of the two seed leaves.",
+     "do": "1. Day 4: look at each row with the magnifying glass. 2. Measure the tallest seedling in each row, from the cotton to the top. 3. Draw one seedling of each kind, showing the shape of the two seed leaves, or take a photo of each.",
      "say": "Look closely at the first two leaves on each seedling. These are called seed leaves. They were folded up inside the seed. Are they the same shape in all three rows?",
-     "kid": "Look at the first two leaves on each seedling. These are seed leaves. Draw one of each kind. Are they the same shape?",
+     "kid": "Look at the first two leaves on each seedling. These are seed leaves. Draw one of each kind, or take a photo. Are they the same shape?",
      "wait": "Day 4",
      "parent": "You should see three clear shapes. Moong has a thick stem with the two fat halves of the bean on top, and two small pointed leaves between them. Methi has two small smooth oval leaves. Mustard has two tiny heart-shaped leaves, each with a notch at the top. If the seedlings are still small, wait one more day."
     },
@@ -928,8 +928,8 @@
      "what": "Measure all ten seedlings. Add up each row. Compare the leaves."
     }
    ],
-   "record": "Fill in the table. Draw one leaf from a big-seed seedling and one from a small-seed seedling, side by side.",
-   "context": "In this experiment you test whether big and small seeds of the same kind grow differently. It asks what comes from the instructions, and what comes from the food packed in the seed.",
+   "record": "Fill in the table. Draw one leaf from a big-seed seedling and one from a small-seed seedling, side by side. Or take a photo of each.",
+   "context": "In this experiment you find out whether a bigger seed grows a bigger seedling. It asks what comes from the instructions, and what comes from the food packed in the seed.",
    "setup": [
     {
      "art": "A heap of kala chana on a plate, with five big ones and five small ones picked out into two lines.",
@@ -950,7 +950,7 @@
      "mins": 6,
      "do": "1. Pour out a handful of kala chana. 2. Ask your child to pick the 5 biggest and the 5 smallest.",
      "say": "All these chana are the same kind, from one packet. Will the big ones grow taller seedlings than the small ones? Why do you think so?",
-     "kid": "Pick the five biggest chana and the five smallest. Will the big ones grow taller? Why?",
+     "kid": "Pick the five biggest chana and the five smallest. Keep them in two piles.",
      "ask": [
       {
        "q": "Why might a bigger seed grow a bigger seedling?",
@@ -1051,11 +1051,11 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Look closely at three seeds. Draw them. Guess what each plant's leaves will look like."
+     "what": "Look closely at three seeds. Guess what each plant's leaves will look like."
     }
    ],
-   "record": "Draw each seed, and beside each one, draw your guess of the leaf that will grow from it.",
-   "context": "This is a short look-and-wonder activity to start the unit. You study three kitchen seeds and guess what will grow from each.",
+   "record": "Draw your guess of the leaf that will grow from each seed. Or tell your grown-up about the leaf.",
+   "context": "You look closely at three kitchen seeds and guess what will grow from each. Later you check your guesses against the real seedlings.",
    "setup": [
     {
      "art": "A moong bean, a methi seed and a mustard seed on white paper, seen through a magnifying glass.",
@@ -1063,16 +1063,16 @@
     },
     {
      "art": "A child's drawing: three seeds on the left, and three guessed leaves with question marks on the right.",
-     "caption": "2. Draw each seed, and guess the leaf they will grow."
+     "caption": "2. Guess the leaf each seed will grow. Draw or say."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Put one moong, one methi and one mustard seed on white paper. 2. Let your child look with the magnifying glass and draw each one.",
-     "say": "What do you notice about these three seeds? What do you wonder about them?",
-     "kid": "Look at the three seeds closely. What do you notice? Draw each one.",
+     "do": "1. Put one moong, one methi and one mustard seed on white paper. 2. Let your child pick each one up and look with the magnifying glass.",
+     "say": "Take your time. Pick the seeds up and turn them over. What do you wonder about them?",
+     "kid": "Look at the colour, shape and size of each seed.",
      "ask": [
       {
        "q": "What do you notice?",
@@ -1087,10 +1087,10 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Ask your child to draw a guess of the leaf each seed will grow.",
-     "say": "Each of these seeds can grow into a whole plant. Where is the plant now? Draw the leaf you think each one will grow.",
-     "kid": "Each seed can grow a whole plant. Where is the plant now? Draw your guess of each leaf.",
-     "parent": "There is no wrong answer to the drawing. The answer to the question is that the whole plant is already inside the seed, folded up very small, with their instructions. Keep the drawings, and compare them with the real seed leaves at the end of the Three Seeds experiment."
+     "do": "Ask your child to guess the leaf each seed will grow, by drawing the leaf or describing the leaf.",
+     "say": "Each of these seeds can grow into a whole plant. Where is the plant now?",
+     "kid": "Guess the leaf each seed will grow. Draw the leaf, or tell your grown-up.",
+     "parent": "There is no wrong answer to the drawing. The answer to the question is that the whole plant is already inside the seed, folded up very small, with their instructions. Keep the guesses, and compare them with the real seed leaves at the end of the Three Seeds experiment."
     }
    ]
   },
@@ -1118,7 +1118,7 @@
    ],
    "record": "Stick the three coloured grids side by side and write the code under each.",
    "problem": "DNA is written with only four letters. In this activity each letter is a colour. You colour three grids that use the same letters in different orders, and see whether the order changes the picture.",
-   "context": "In this activity you colour pictures from codes made of the four DNA letters. Every code uses the same letters, but in a different order.",
+   "context": "In this activity you colour pictures from codes made of the four DNA letters. You will find out whether the order of the letters changes the picture.",
    "setup": [
     {
      "art": "A key card: A is red, T is yellow, C is blue, G is green, beside three empty 4 by 4 grids.",
@@ -1135,22 +1135,22 @@
      "mins": 3,
      "do": "1. Write the key at the top of the page: A red, T yellow, C blue, G green. 2. Draw three 4 by 4 grids.",
      "say": "DNA has only four letters: A, T, C and G. Today each letter is a colour. Every code fills one grid, row by row, from left to right.",
-     "kid": "DNA has four letters: A, T, C, G. Here each letter is a colour. Fill each grid row by row."
+     "kid": "Look at the key: A red, T yellow, C blue, G green."
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "Read out the three codes, one row at a time. Grid 1: AATT, AATT, CCGG, CCGG. Grid 2: ATAT, CGCG, ATAT, CGCG. Grid 3: ACGT, ACGT, ACGT, ACGT.",
      "say": "Here is the first code. Row 1 is A, A, T, T. Colour each square as I read it.",
-     "kid": "Listen to each code. Colour one square for each letter.",
+     "kid": "Listen to each code. Colour one square for each letter, or put a coloured button on it.",
      "parent": "Each grid uses four A, four T, four C and four G. Only the order changes. Grid 1 makes four big blocks. In grid 2, rows 1 and 3 switch between red and yellow, and rows 2 and 4 switch between blue and green. Grid 3 makes four coloured columns."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "Lay the three grids side by side and ask the questions.",
-     "say": "How many red squares are in each grid? So what made the pictures different?",
-     "kid": "Count the red squares in each grid. Same number? Then why do they look different?",
+     "say": "How many red squares are in each grid?",
+     "kid": "Count the red squares in each grid. Is it the same number?",
      "check": {
       "t": "mcq",
       "q": "All three grids use four of each letter. What makes the pictures different?",
@@ -1184,7 +1184,7 @@
      "qty": 1
     },
     {
-     "item": "a jug, a whisk or a spoon, and glasses",
+     "item": "a jug, a whisk or a spoon, glasses, and a long string or a big plate",
      "qty": 1
     }
    ],
@@ -1195,9 +1195,9 @@
      "what": "Copy one recipe from the book onto a slip. Leave the book behind. Make the drink from the slip."
     }
    ],
-   "record": "Draw a cell as a big circle with a smaller circle inside for the nucleus. Draw the book in the nucleus, the slip on its way out, and the glass of neer mor outside.",
+   "record": "Lay a loop of string for the cell, with the book inside it, the slip at the edge and the glass of neer mor outside. Take a photo, or draw it.",
    "problem": "In this activity you act out how a cell uses RNA. The recipe book stands for DNA, which stays safe in one place. Your slip of paper stands for RNA, a copy of just one recipe. The drink you make stands for a protein, which the cell builds by following the copy.",
-   "context": "This activity acts out how a cell uses RNA. The recipe book is the DNA, your slip is the RNA, and the drink is the protein.",
+   "context": "This activity acts out how a cell uses RNA. The recipe book is the DNA, your slip is the RNA, and the drink is the protein. You will find out why a cell copies a gene instead of sending out its DNA.",
    "setup": [
     {
      "art": "A recipe notebook open on a bed in another room, a child copying one recipe onto a small slip.",
@@ -1209,7 +1209,7 @@
     },
     {
      "art": "A drawing of a cell: a book in the nucleus, a slip travelling out, a glass of buttermilk beside a small round ribosome.",
-     "caption": "3. Draw it as a cell: book, slip and drink."
+     "caption": "3. Lay it out as a cell: book, slip and drink."
     }
    ],
    "flow": [
@@ -1232,9 +1232,9 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Ask the questions while you drink. Then draw the cell, the book, the slip and the glass of neer mor together.",
+     "do": "Ask the questions while you drink. Then lay the string in a big loop for the cell. Put the book inside it, the slip at the edge and the glass outside.",
      "say": "In a cell, the DNA is like the book. It stays in the nucleus. The cell copies one gene into RNA, like your slip. A tiny part called a ribosome reads the RNA and builds a protein, like your drink. Why do you think the cell copies the gene instead of sending out the DNA?",
-     "kid": "The book is like DNA. The slip is like RNA. Why does a cell make a copy, instead of sending out the DNA?",
+     "kid": "The book is DNA. The slip is RNA. The drink is a protein. Point to each one.",
      "check": {
       "t": "mcq",
       "q": "In a cell, what is like the slip of paper?",
@@ -1276,9 +1276,9 @@
      "what": "Measure 2 metres of thread. Wind it into a small ball. Think about how small a nucleus is."
     }
    ],
-   "record": "Draw yourself next to a 2-metre line, and next to that a dot for the nucleus.",
+   "record": "Take a photo of yourself next to the 2-metre thread, and tell someone how all of it fits inside one tiny nucleus.",
    "problem": "Every cell in your body holds about 2 metres of DNA, which is longer than most grown-ups are tall. A cell is far too small to see, so the DNA must be folded up very small. You measure 2 metres of thread and try to wind it up as small as you can.",
-   "context": "In this activity you measure out as much thread as the DNA in one of your cells would make if it were stretched out.",
+   "context": "In this activity you measure out as much thread as the DNA in one of your cells would make if it were stretched out. You will find out how long your DNA is, and why it has to be folded up.",
    "setup": [
     {
      "art": "A child and a grown-up stretching a sewing thread along the floor beside a measuring tape that reads 2 metres.",
@@ -1295,7 +1295,7 @@
      "mins": 4,
      "do": "1. Lay the measuring tape on the floor. 2. Unroll thread along it to 2 metres. 3. Cut it.",
      "say": "If you stretched out all the DNA in just one of your cells, it would be about this long, 2 metres.",
-     "kid": "Measure 2 metres of thread. That is how long the DNA in one of your cells is.",
+     "kid": "Measure 2 metres of thread. That is how long the DNA in one of your cells is. Which is longer, you or the thread?",
      "parent": "2 metres is taller than most grown-ups. Lay the thread next to a grown-up who is lying down, to compare."
     },
     {
@@ -1303,7 +1303,7 @@
      "mins": 6,
      "do": "1. Ask your child to wind the thread into a ball as small as they can. 2. Then ask the question.",
      "say": "A cell folds all this into a nucleus far smaller than the full stop at the end of a sentence. DNA is about a hundred thousand times thinner than this thread. How do you think a cell keeps it from tangling?",
-     "kid": "Wind it into a tiny ball. Your cells fold DNA much smaller. How do they stop it tangling?",
+     "kid": "Wind the thread into a ball as small as you can.",
      "parent": "A cell winds DNA around tiny spools made of protein, and then coils the spools up again and again. Each tightly wound piece is a chromosome. Most of your cells have 46. Any thoughtful guess, such as 'wind it round something', is a good answer."
     }
    ]
@@ -1360,7 +1360,7 @@
      "mins": 8,
      "do": "Help your child sort their features into three lists: DNA, my life, and both.",
      "say": "Some features come from your DNA. Some come from what happened to you, like a scar or a haircut. Some come from both. Where would you put your height?",
-     "kid": "Sort your features. DNA, my life, or both? Where does a scar go? Your height?",
+     "kid": "Sort your features into DNA, my life, or both.",
      "check": {
       "t": "mcq",
       "q": "A girl has a small scar on her knee from a fall. Where did the scar come from?",
@@ -1418,7 +1418,7 @@
     {
      "day": 3,
      "mins": 5,
-     "what": "Draw them again. Has anything new appeared?"
+     "what": "Measure them again. Has anything new appeared?"
     },
     {
      "day": 5,
@@ -1436,8 +1436,8 @@
      "what": "Draw the last page. Lay out all the pages and compare the three kinds."
     }
    ],
-   "record": "One page per drawing day, with the date, a drawing of each kind and their heights.",
-   "context": "In this 10-day project you draw the same seedlings again and again, and watch each kind grow their own new leaves.",
+   "record": "One page for each check, with the date, a drawing or photo of each kind and their heights.",
+   "context": "In this 10-day project you keep a page for each time you check the seedlings, and watch each kind grow their own new leaves. You will find out whether any seedling ever grows the wrong kind of leaf.",
    "setup": [
     {
      "art": "A notebook page with three small seedling drawings labelled moong, methi and mustard, and a date at the top.",
@@ -1456,17 +1456,17 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Draw one seedling of each kind, as big as the page allows. Write the date and each height.",
+     "do": "Draw one seedling of each kind, as big as the page allows, or take a photo of each. Write the date and each height.",
      "say": "Each seedling is following their own instructions. Let's draw them every few days and see what they build next.",
-     "kid": "Draw one of each kind. Write the date. Measure each one.",
+     "kid": "Draw or photograph one of each kind. Write the date. Measure each one.",
      "parent": "Start on day 4 of the Three Seeds test, so the seedlings are already up. If you use a fresh plate, put the seeds on wet cotton four days before this page."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Day 3: draw them again, and measure them. Has anything new appeared?",
+     "do": "Day 3: measure them again and look at page one. Has anything new appeared?",
      "say": "What has changed since the first page?",
-     "kid": "Draw each seedling again. What is new?",
+     "kid": "Measure each seedling again. Tell your grown-up what is new.",
      "wait": "Day 3"
     },
     {
@@ -1481,9 +1481,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Draw them again. Look between the seed leaves with the magnifying glass.",
+     "do": "Day 7: look between the seed leaves with the magnifying glass. Draw or photograph what you see.",
      "say": "Look between the seed leaves. Is something new growing there? Does it look like the seed leaves?",
-     "kid": "Look between the seed leaves. Can you see new leaves? Draw them.",
+     "kid": "Add a new page. Draw or photograph the new leaves, if you can see any.",
      "wait": "Day 7",
      "parent": "The first true leaves look different from the seed leaves. Methi's true leaves come in threes, like the methi leaves sold in the market. Mustard's are rougher, with wavy edges. Moong's first true leaves are a pair of pointed leaves. Leaves may come a few days late in a cool or dim room."
     },
@@ -1492,7 +1492,7 @@
      "mins": 15,
      "do": "Day 10: lay out all the pages in order and talk about them.",
      "say": "Look at all your pages together. Did any seedling ever grow the wrong kind of leaf? What does that tell you?",
-     "kid": "Lay out all your pages. Did any plant grow the wrong kind of leaf?",
+     "kid": "Lay out all your pages in order. Look at the leaves on every page.",
      "wait": "Day 10",
      "check": {
       "t": "mcq",
@@ -1536,7 +1536,7 @@
     "Make one letter change, and see how much your partner's drawing changes."
    ],
    "your_turn": "Now design your own code and key. Write out a pattern as a line of letters. Give it to your partner. Compare their drawing with your hidden pattern. What would you change in your code?",
-   "context": "This is a design challenge. You invent a code using only the four DNA letters that lets someone else draw your pattern.",
+   "context": "This is a design challenge. You invent a code using only the four DNA letters that lets someone else draw your pattern. You will find out whether four letters are enough to describe a picture, the way DNA describes a body.",
    "setup": [
     {
      "art": "A child hiding a drawn kolam behind her back, handing a strip of paper covered in letters A, T, C and G to a parent.",
@@ -1552,8 +1552,8 @@
      "id": "s1",
      "mins": 8,
      "do": "Your child draws a simple kolam or pattern on squared or dot paper, and hides it.",
-     "say": "A cell builds a whole body from a line of four letters. Can you write your pattern as a line of four letters?",
-     "kid": "Draw a small pattern. Hide it. Can you write it with only A, T, C and G?"
+     "say": "A cell builds a whole body from a long line of four kinds of letters. Can you write your pattern as a line of A, T, C and G?",
+     "kid": "Make a small pattern with a pencil or with coins. Hide it from your partner."
     },
     {
      "id": "s2",
@@ -1567,7 +1567,7 @@
      "mins": 12,
      "do": "Compare the two drawings and talk about the questions.",
      "say": "Do the two drawings match? If not, was the code unclear, or did your partner read it wrong? What would you change?",
-     "kid": "Do the drawings match? What went wrong? How could your code be clearer?",
+     "kid": "Put the two drawings side by side. Point to every part that is different.",
      "parent": "Mismatches are the best part. They show why a cell needs a clear code that every part reads the same way. Ask: if one letter was copied wrong, how much would the drawing change?"
     }
    ]

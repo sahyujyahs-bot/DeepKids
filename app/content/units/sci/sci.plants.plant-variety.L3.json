@@ -868,7 +868,7 @@
      "mins": 3,
      "do": "Find the neem, mango and peepal cards and lay them side by side on the mat. Then shuffle all the cards and deal 5 to each player. Put the rest face down in a pile.",
      "say": "Let's practise. Neem, mango and peepal. What do these three share?",
-     "kid": "This is a practice round. Look at neem, mango and peepal. What do they share? Then take 5 cards each.",
+     "kid": "Practice round. Look at neem, mango and peepal side by side. Then take 5 cards each.",
      "check": {
       "t": "mcq",
       "q": "Neem, mango and peepal make a family. What do they share?",
@@ -904,7 +904,7 @@
      "mins": 2,
      "do": "Find the tulsi and bamboo cards and hold them up.",
      "say": "These two are tricky. Tulsi starts soft and becomes woody. Bamboo is a grass as tall as a tree. In this game tulsi counts as a shrub and bamboo as a herb. Which other family could each one fit?",
-     "kid": "Look at tulsi and bamboo. In the game they count as a shrub and a herb. Which other family could they fit?",
+     "kid": "Hold up tulsi and bamboo. Which other family could each one fit?",
      "check": {
       "t": "mcq",
       "q": "Bamboo grows as tall as a house. What kind of plant is bamboo?",
@@ -992,7 +992,7 @@
      "id": "s2",
      "mins": 15,
      "do": "Walk slowly around your street, building or park, or look from the windows and balcony. Stop at each plant someone points out.",
-     "say": "What have you found? How do you know they're a climber and not a creeper?",
+     "say": "What have you found? Which kind is it, and how do you know?",
      "kid": "Look high and low. Point at a plant. Say why they fit a square.",
      "adult": true,
      "parent": "Stay with your child near roads. Do not touch plants with thorns or milky sap, and do not pick anything in someone else's garden."
@@ -1074,8 +1074,8 @@
      "what": "Collect the stems. Do the nail, bend and stand tests. Fill in the table. Sort the stems into kinds."
     }
    ],
-   "record": "Fill in the table for every stem. Then draw each stem and write woody or soft under it.",
-   "context": "In this experiment, you test pieces of stem to find out which are woody and which are soft. The stem is the best clue to a plant's kind.",
+   "record": "Fill in the table for every stem. Then put the stems in two groups, woody and soft, and take a photo. Or draw each stem and write woody or soft under it.",
+   "context": "In this experiment, you test pieces of stem to find out which hold themselves up and which flop. A woody stem is hard, like a twig. A soft stem bends, like mint. The stem is the best clue to a plant's kind.",
    "setup": [
     {
      "art": "Four stem pieces lined up on a sheet of newspaper: a brown twig, a mint stem, a methi stem and a long money plant stem.",
@@ -1100,7 +1100,7 @@
      "mins": 4,
      "do": "1. Collect 4 or 5 stem pieces, all about 20 cm long, from the kitchen or fallen from plants. 2. Lay them on newspaper. 3. Ask your child to line them up, hardest first, and say which will stand up alone.",
      "say": "Which of these stems do you think is the hardest? Line them up, hardest first. Which ones will stand up by themselves? Why do you think so?",
-     "kid": "Line up your stems, hardest first. Which will stand up alone? Why?",
+     "kid": "Line up your stems, hardest first. Which will stand up alone?",
      "ask": [
       {
        "q": "Why did you put that one first?",
@@ -1253,8 +1253,8 @@
      "what": "On a sunny day, about midday, measure the ground temperature in the sun, under a tree, under a shrub and under an umbrella. Make a bar chart."
     }
    ],
-   "record": "Write the temperature for each place. Draw a bar chart with one bar for each place.",
-   "context": "If there is a tree near your building, this experiment measures how much cooler the ground is in their shade than in the sun. A thermometer is a tool that measures how hot or cold something is.",
+   "record": "Write the temperature for each place. Then draw a bar chart with one bar for each place, or list the places hottest first.",
+   "context": "If there is a tree near your building, this experiment finds out how much cooler the ground is in their shade than in the sun. A thermometer is a tool that measures how hot or cold something is.",
    "setup": [
     {
      "art": "A digital thermometer lying on sunny paving stones in bright light.",
@@ -1301,9 +1301,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Help your child draw a bar chart, one bar for each place.",
-     "say": "Let's turn the numbers into a picture. The taller the bar, the hotter the place.",
-     "kid": "Draw one bar for each place. Taller bar means hotter.",
+     "do": "Write each place on a piece of paper. Ask your child to put them in order, hottest first.",
+     "say": "Let's put the places in order. Which was hottest? Which was coolest?",
+     "kid": "Put the places in order, hottest first. Point to the two that are furthest apart.",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: ground temperature at midday",
@@ -1538,7 +1538,7 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Show your child the tally table, and explain the five kinds in one line each.",
+     "do": "Show your child the tally table. Say the five kinds: a tree has one thick woody trunk. A shrub has many woody stems and no trunk. A herb has a soft stem. A climber has a thin stem that holds on to something. A creeper has a thin stem that lies on the ground.",
      "say": "Let's count plants. For each plant, we decide: tree, shrub, herb, climber or creeper. Then we make a tally mark.",
      "kid": "Count the plants you can see. Decide each one's kind. Make a tally mark.",
      "context": "This is the first step of the Plant Count. You count plants of each kind around your home.",
@@ -1548,8 +1548,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Stop at the first plant you can see clearly, in a pot or from a window. Look at their stem together.",
-     "say": "What do you notice about this plant? What do you wonder about them?",
-     "kid": "Look at this plant. What do you notice? What do you wonder?",
+     "say": "Touch the stem gently. Is it hard or soft? Is it standing, climbing or lying down?",
+     "kid": "Feel this plant's stem. Is it hard or soft?",
      "ask": [
       {
        "q": "What do you notice about their stem?",
@@ -1670,7 +1670,7 @@
      "mins": 4,
      "do": "Ask your child to think of a breakfast with no plants at all.",
      "say": "If every plant disappeared, what would be left for breakfast? Think about milk and eggs too.",
-     "kid": "Suppose there were no plants. What could you eat for breakfast?",
+     "kid": "Name one breakfast food that would be left.",
      "think": "Is there any food at all that does not come from a plant in the end?"
     }
    ]
@@ -1799,7 +1799,7 @@
      "what": "Cut a banana stem across. Peel its layers. Compare it with the broken end of a tree twig. Decide: tree or herb?"
     }
    ],
-   "record": "Draw the cut end of the banana stem and the broken end of the twig, side by side. Write which one has wood.",
+   "record": "Put the cut banana stem and the broken twig side by side and take a photo. Say which one has wood. Or draw them, and write which one has wood.",
    "context": "A banana plant looks like a tree. In this activity, you cut open a banana stem from the market to see whether it has any wood inside.",
    "setup": [
     {
@@ -1855,9 +1855,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Snap the tree twig in two and look at the broken end. Compare it with the banana stem.",
+     "do": "Snap a tree twig in two and look at the broken end. Compare it with the banana stem.",
      "say": "Now look at the twig. Can you peel it? What is different?",
-     "kid": "Look at the twig's cut end. Can you peel it? What is different?",
+     "kid": "Look at the twig's broken end. Can you peel it? What is different?",
      "think": "What other plants look like trees, but might not be?"
     },
     {
@@ -1903,8 +1903,8 @@
      "what": "Look at the photos in order. Has the tip moved in a circle? Has it found the stick? Talk about how a climber differs from a tree."
     }
    ],
-   "record": "Draw a dot for each position of the tip, from above, and join the dots.",
-   "context": "Climbers search for something to hold. In this activity, you take photos of a climbing shoot over a few hours to see it moving.",
+   "record": "Draw a dot for each position of the tip, from above, and join the dots. Or lay the photos in order and point to which way the tip moved.",
+   "context": "Climbers search for something to hold. In this activity, you take photos of a climbing shoot over a few hours to see whether it finds a stick by itself.",
    "setup": [
     {
      "art": "A young bean plant in a pot on a windowsill, their shoot tip waving in the air, with a pencil standing in the soil nearby.",
@@ -2019,7 +2019,7 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Hold one end of the bunch, or tie it to a door handle. 2. Twist the other end tightly in one direction, until it starts to kink. 3. Fold it in half, holding both ends. 4. Let go of the middle. It twists around itself into a rope. 5. Tie a knot at the end.",
-     "say": "Twist, twist, twist. Now fold it in half and watch. The twisted bunch springs back, and the only way it can untwist is by wrapping round itself.",
+     "say": "Twist, twist, twist. Now fold it in half and let go of the middle. The twist wants to undo itself, so the two halves wrap around each other.",
      "kid": "Twist the fibres tight. Fold them in half. Watch them wrap into a rope!"
     },
     {
@@ -2101,8 +2101,8 @@
      "what": "Last visit. Write a 'plant friend card' with their kind, their uses, their visitors and what changed."
     }
    ],
-   "record": "A 4-week plant diary with 5 drawings, a rubbing, measurements, a list of visitors and a plant friend card.",
-   "context": "In this 4-week project, you make friends with one plant near your home. You visit them every week and keep a diary about them.",
+   "record": "A 4-week plant diary with a photo or drawing each week, a rubbing, measurements, a list of visitors and a plant friend card.",
+   "context": "In this 4-week project, you make friends with one plant near your home. You visit them every week and keep a diary about them. You will find out how a plant changes in four weeks.",
    "setup": [
     {
      "art": "A child sitting on a step drawing a curry leaf shrub in a notebook, with a name tag tied loosely to a branch.",
@@ -2121,9 +2121,9 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "Help your child choose a plant to visit every week. It can be a pot, a balcony plant or a street tree. Draw them, decide their kind and give them a name. Make a bark or leaf rubbing. Do not pick anything in someone else's garden.",
+     "do": "Help your child choose a plant to visit every week. It can be a pot, a balcony plant or a street tree. Take a photo of them, decide their kind and give them a name. Make a bark or leaf rubbing. Do not pick anything in someone else's garden.",
      "say": "Pick a plant to be your friend for four weeks. Are they a tree, a shrub, a herb, a climber or a creeper? What will you call them?",
-     "kid": "Choose a plant friend. What kind are they? Draw them. Give them a name.",
+     "kid": "Choose a plant friend. What kind are they? Give them a name. Take a photo, or draw them.",
      "adult": true,
      "context": "This is the first day of My Plant Friend, a 4-week diary about one plant near your home."
     },
@@ -2157,16 +2157,16 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "On Day 21, draw the plant again from the same spot as on Day 1.",
-     "say": "Let's draw them from exactly the same place. That way we can compare the two drawings fairly.",
-     "kid": "Draw your plant again, from the same spot.",
+     "do": "On Day 21, take a photo of the plant, or draw it, from the same spot as on Day 1.",
+     "say": "Let's do it from exactly the same place. That way we can compare the two fairly.",
+     "kid": "Take a photo, or draw your plant again, from the same spot.",
      "wait": "Day 21"
     },
     {
      "id": "s5",
      "mins": 10,
      "do": "On Day 28, make the plant friend card together.",
-     "say": "Look back at your diary. What changed in your plant friend over four weeks? How do your two drawings show it?",
+     "say": "Look back at your diary. What changed in your plant friend over four weeks? How do your two pictures show it?",
      "kid": "Make your plant friend card. Write their kind, their uses, their visitors and what changed.",
      "wait": "Day 28",
      "think": "Does your plant know you visited them? How could you ever find out?"
@@ -2199,7 +2199,7 @@
     "Weave a net of string between two sticks, so tendrils have many places to grab.",
     "Use a ladder shape made from skewers and string, so the climber can go up step by step."
    ],
-   "your_turn": "Now design your own support. Draw it, build it, and check your climber every two days. Which way do they climb? Do they like your ladder?",
+   "your_turn": "Now design your own support. Plan it, build it, and check your climber every two days. Which way do they climb? Do they like your ladder?",
    "context": "This is a design challenge. You build a support for a climber, a plant that cannot stand up alone and needs something to hold.",
    "setup": [
     {
@@ -2221,15 +2221,15 @@
      "mins": 4,
      "do": "Look at the floppy climber together.",
      "say": "This plant is a climber. Their stem is too thin to stand up. What do they need from us?",
-     "kid": "Look at this climber. Why are they flopping? What do they need?",
+     "kid": "Look at this climber. Can it stand up alone?",
      "context": "This is the first step of A Ladder for a Climber. You design a support for a climbing plant."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Let your child draw two or three ideas for a support before building anything.",
-     "say": "Draw a few ideas first. Think: how will the plant hold on? With tendrils, or by twisting their stem?",
-     "kid": "Draw two ideas for a support. How will the plant hold on to each one?",
+     "do": "Let your child try two or three ideas for a support before building the real one. Lay sticks and string on the table, or sketch them.",
+     "say": "Try a few ideas first. Think: how will the plant hold on? With tendrils, or by twisting their stem?",
+     "kid": "Show two ideas for a support, with sticks or a sketch. How will the plant hold on?",
      "check": {
       "t": "mcq",
       "q": "A bottle gourd climbs with curly tendrils. Which support will they find easiest to hold?",
@@ -2334,7 +2334,7 @@
      "mins": 12,
      "do": "Draw the plan or build the cardboard model.",
      "say": "Show me where each plant goes. How will the climber get up the wall?",
-     "kid": "Draw your plan. Show each plant and how the climber goes up."
+     "kid": "Show your plan: build the box model, or draw it. Show each plant and how the climber goes up."
     },
     {
      "id": "s4",

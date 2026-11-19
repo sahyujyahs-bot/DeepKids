@@ -228,9 +228,9 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   - Note: Read the cards in a worried caller's voice. It helps your child picture a real person. If your child names the law but not what to do, ask: 'Who should I write to? What should I say?'
   - Check: A man in a village asked the Gram Panchayat for work 20 days ago and got none. Which law helps him? → **The rural job guarantee**
 - **s3 (5 min)**  
-  *Parent does:* Ask your child which call was hardest, and which law they think helps the most people.  
-  *Parent says:* Which call was the hardest to answer? Which of these laws do you think helps the most people, and why?  
-  *Child mode:* Which call was hardest? Which law helps the most people? Why do you think so?
+  *Parent does:* Ask your child which call was hardest. Then ask the question below.  
+  *Parent says:* Which call was the hardest to answer? Why?  
+  *Child mode:* Think about the calls. Which one was the hardest?
   - Ask: Which law do you think helps the most people? (good: The Right to Education, because every child goes to school.; The Right to Information, because anyone can use it.; Any answer with a reason.)
 ### g2 · The Shared Pot: where does our tax go? (15 min)
 - **rules:** Each player starts with 20 coins. Put the steel bowl in the middle. It is the shared pot.; Shuffle the 10 shopping cards and deal them out, one at a time. With 2 players you get 5 each. With 3 or 4, some players get one more.; Take turns turning over one of your cards and paying the tax on its back into the pot. Pay nothing if it says so.; When all 10 shopping cards are used, count the coins in the pot together.; Lay out the 6 spending cards. The pot cannot pay for all of them. Agree together which cards to pay for, so the costs add up to no more than the pot. Unspent coins stay in the pot.; Each player says one reason for their choice. The game ends when everyone has spoken.
@@ -248,7 +248,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - **s3 (3 min)**  
   *Parent does:* Ask who paid into the pot, who may use the road, and whether that is fair.  
   *Parent says:* Did everyone put the same amount in? Does everyone get to use the road? Is that fair?  
-  *Child mode:* Did everyone pay the same? Can everyone use the road? Is that fair?
+  *Child mode:* Look at how many coins each player put in.
   - Note: The road, the school lunch and the street lights are for everyone, whatever each person paid in. That is why they are paid for with public money. Good answers give a reason.
   - Think: Some of you paid more into the pot than others. Should that change who may use the road?
 
@@ -279,15 +279,15 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   - Check: A bill shows CGST 9% and SGST 9%. How many rupees of tax are added to every 100 rupees of price? → **18 rupees**
 - **s4 (6 min)**  
   *Parent does:* 1. Put the bills in a line from the most tax in every 100 to the least. 2. Find any bill with no tax. 3. Talk about why.  
-  *Parent says:* Line up the bills from the most tax to the least. Which bill had none? Why might that be?  
-  *Child mode:* Line up the bills. Most tax first. Which bill had no tax? Why?
+  *Parent says:* Line up the bills from the most tax to the least. Look for a bill with no tax.  
+  *Child mode:* Line up the bills. Put the bill with the most tax first.
   - Ask: Why might the vegetable seller's slip have no tax? (good: Fresh vegetables carry no GST.; Very small shops don't have to collect it.)
   - Ask: Which bills had the most tax? (good: Things like plastic goods, electronics or paint often carry 18%.; Food and medicines mostly carry 5%.)
   - Note: Most food and medicine bills show 5% in all. Many other goods show 18%. Loose fresh vegetables, fruit and loose grain carry none. Very small shops do not have to collect GST.
 - **s5 (4 min)**  
   *Parent does:* 1. Ask your child to say what they found, which bills showed it, and why they think so. 2. Then ask where the tax goes.  
-  *Parent says:* So what did you find? Say what you think, what you saw on the bills, and why. Then tell me: where does all this tax money go?  
-  *Child mode:* Say what you found. Say which bills showed it. Where does the tax money go?
+  *Parent says:* So what did you find? Tell me what you saw on the bills, and why you think so.  
+  *Child mode:* Tell your grown-up what you found and which bills showed it.
   - Ask: Who paid tax this week in our family? (good: We all did, when we bought things.; Anyone who went shopping.)
   - Ask: Where does the tax money go? (good: To the government.; It pays for roads, schools, hospitals and street lights.)
   - Note: Both. The government built the road, but the money came from tax that people pay, and that includes our family's tax.
@@ -297,7 +297,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - **predict:** Guess first. Out of 20 things, how many will be made in India? Which other country will appear most often? Why do you think so?
 - **fair test:** Choose 20 things before you look at any labels, so you don't pick only the ones you think are foreign. Take a mix: 5 foods, 5 clothes or shoes, 5 machines, and 5 toys or school things.
 - **safety:** Never open or turn over a plugged-in machine. Ask a grown-up to read the label on the back of a TV or fridge.
-- **record:** Fill in the table. Then draw a bar for each country, with the number of things made there.
+- **record:** Fill in the table. Then show how many things were made in each country, with a bar chart or with piles of the things.
 - **results table:** Thing | Kind (food, clothes, machine, toy) | Made in (country) | Label words exactly as written
 - **s1 (4 min)**  
   *Parent does:* 1. Walk round the home together and choose 20 things, without reading labels. 2. Take a mix of food, clothes, machines and toys.  
@@ -306,7 +306,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess and a reason, and write it down.  
   *Parent says:* Out of these 20, how many do you think were made in India? Why?  
-  *Child mode:* Guess: how many of the 20 were made in India? Why do you think so?
+  *Child mode:* Guess how many of the 20 were made in India.
   - Ask: Why did you guess that number? (good: Food is made near us.; Phones and toys often come from far away.; Any reason is good.)
 - **s3 (10 min)**  
   *Parent does:* 1. Find the label on each thing: 'Made in', 'Country of origin', or 'Manufactured by' with an address. 2. Write the exact words in the table.  
@@ -314,9 +314,9 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   *Child mode:* Find the label on each thing. Look for Made in or Country of origin. Write it down.
   - Note: Packets of food list a 'Manufactured by' address, which shows the city. Phones and machines may say 'Made in India' or 'Assembled in India'. That means the parts may have come from elsewhere. Clothes have a small cloth label inside the collar or seam. Some things have no label at all. Write 'no label'.
 - **s4 (5 min)**  
-  *Parent does:* 1. Count how many things came from each country. 2. Draw a bar chart. 3. Mark each country on the map.  
-  *Parent says:* Let's count. How many from India? From each other country? Now let's find them on the map.  
-  *Child mode:* Count the things from each country. Draw a bar for each. Find each country on the map.
+  *Parent does:* 1. Put the things in a pile for each country. 2. Count each pile. 3. Line the piles up side by side like bars, or draw a bar chart. 4. Mark each country on the map.  
+  *Parent says:* Let's make a pile for each country. How many from India? From each other country? Now let's find them on the map.  
+  *Child mode:* Make a pile for each country. Count each pile. Find each country on the map.
   - Check: A phone box says 'Made in India', but its parts came from five countries. What does the label tell you? → **Where the phone was put together at the end**
 - **s5 (3 min)**  
   *Parent does:* Ask your child what they found, and what surprised them.  
@@ -337,13 +337,13 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - **s2 (3 min)**  
   *Parent does:* Ask who paid for each thing on the list.  
   *Parent says:* Who do you think paid for that street light? And the road?  
-  *Child mode:* Who paid for the street light? Who paid for the road? Guess.
+  *Child mode:* Pick one thing on your list. Guess who paid for it.
   - Ask: Who paid for the road? (good: The government.; The corporation.; All of us, with tax money.)
   - Note: Most children say 'the government'. That is right, and it's enough for now. The Bill Detective experiment will show where the government's money comes from.
 - **s3 (2 min)**  
   *Parent does:* Ask your child where the government gets its money, and leave the question unanswered for now.  
   *Parent says:* The government paid. But where did the government get the money? Keep that question. We'll find out from our own bills.  
-  *Child mode:* The government paid. But where did it get the money? Keep that question!
+  *Child mode:* Keep this question until we look at our own bills.
   - Note: The government gets most of its money from tax. The Bill Detective experiment will show this on your own family's bills.
   - Think: Where does the government get its money from?
 ### a2 · Is the School Allowed to Do This? (10 min)
@@ -362,7 +362,7 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - **s3 (2 min)**  
   *Parent does:* Ask which rule surprised your child most.  
   *Parent says:* Which rule surprised you most? Why do you think the law needed to say it?  
-  *Child mode:* Which rule surprised you? Why do you think the law says it?
+  *Child mode:* Think of the rule that surprised you most.
   - Ask: Why do you think the law bans tests for small children? (good: So children aren't turned away for not knowing things yet.; School is where they learn, so they shouldn't need to know it first.)
 ### a3 · The Muster Roll Check: be a social auditor (15 min)
 - **problem:** A muster roll is the attendance list at a work site, showing who worked on which days. A social audit checks it by comparing it with the workers' job cards and with what the villagers say. Here you check a pretend muster roll in the same way and find the mistakes.
@@ -383,9 +383,9 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   *Child mode:* Mark each mistake in red. Write what is wrong. Write what should happen.
   - Check: In the Muster Roll Check, how did you find that Suresh might be a fake worker? → **He had no job card, and nobody in the village knew him**
 - **s4 (2 min)**  
-  *Parent does:* Ask who gets the money paid for a fake worker, and why reading the register aloud helps.  
-  *Parent says:* Who gets the money paid for a worker who doesn't exist? Why does reading the register aloud in the village help?  
-  *Child mode:* Who gets the money for a fake worker? Why does reading the list aloud help?
+  *Parent does:* Ask who gets the money paid for a fake worker. Then ask the question below.  
+  *Parent says:* Who gets the money paid for a worker who doesn't exist?  
+  *Child mode:* Think about the fake worker, Suresh. Who could take his pay?
   - Ask: Why does reading the register aloud help? (good: The workers know their own days.; The villagers know who really worked.; It's harder to cheat when everyone can check.)
 ### a4 · Write a Practice RTI Letter (15 min)
 - **problem:** Under the Right to Information Act, any citizen may ask a government office for information, and the office must answer within 30 days. The letter goes to the office's Public Information Officer. Here you write a practice letter that asks a real question about public money near your home.
@@ -419,12 +419,12 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - **s3 (3 min)**  
   *Parent does:* Compare their answers with your child's school today.  
   *Parent says:* What is different for you now? Which law do you think made the biggest difference?  
-  *Child mode:* What is different for you now? Which law helped most?
+  *Child mode:* Compare their school with yours. What has changed?
   - Ask: What is the biggest difference? (good: School is free now.; There is lunch at school.; Girls go to school as much as boys.; Every child aged 6 to 14 has a right to school.)
 
 ## Projects
 ### p1 · A Week of Bills: how much tax does our family pay? (35 min, 7 days)
-- **record:** The table of the week's bills, the total tax, and a drawing of one shared thing the tax helps pay for.
+- **record:** The table of the week's bills, the total tax, and a drawing or a photo of one shared thing the tax helps pay for.
 - **schedule:** day 1: Make a Tax Envelope. Draw a table in the notebook: Day, Bill, Tax. Add today's bills. (10 min); day 2: Add today's bills, and write their tax in the table. (3 min); day 4: Add the bills from days 3 and 4. (3 min); day 6: Add the bills from days 5 and 6. (4 min); day 7: Add the last bills. Add up the week's tax. Make a list of what that money could help pay for. (15 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Label an envelope 'Tax Envelope'. 2. Draw a table with three columns: Day, Bill, Tax. 3. Add today's bills and fill in the table.  
@@ -455,9 +455,9 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
   *Parent says:* Think of a grandmother in the village who cannot read. She walks past the pond. How could a board tell her what is going on?  
   *Child mode:* Think of someone who can't read. How could a board tell them about the pond?
 - **s2 (5 min)**  
-  *Parent does:* Draw three quick ideas before choosing one.  
-  *Parent says:* Designers try many ideas first. Draw three quick ideas, in a few lines each.  
-  *Child mode:* Draw three quick ideas. Just a few lines each.
+  *Parent does:* Say three different ideas out loud before choosing one. A quick sketch or a few words is fine.  
+  *Parent says:* Designers try many ideas first. Tell me three ideas for the board. Then choose the one you like best.  
+  *Child mode:* Think of three ideas for the board. Choose one.
 - **s3 (15 min)**  
   *Parent does:* 1. Make the best idea on chart paper. 2. Test it: ask a family member to explain it without reading the words.  
   *Parent says:* Make your best idea. Then let's test it. Can someone understand it without reading?  
@@ -476,11 +476,11 @@ Lakshmi got out her slate. She wrote a large R and a T, the first letters of Rat
 - **s1 (5 min)**  
   *Parent does:* Remind your child how the cheating worked in the Muster Roll Check.  
   *Parent says:* In the Muster Roll Check, the pretend register had a worker called Suresh, whom nobody in the village knew. How did that false name get into the register?  
-  *Child mode:* In the Muster Roll Check, nobody knew the worker called Suresh. How did his name get into the register?
+  *Child mode:* Remember Suresh, the worker nobody knew.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* 1. Draw a new kind of register. 2. Try it for a family job, such as who watered the plants today.  
+  *Parent does:* 1. Make a new kind of register on paper, for example with a column for thumbprints. 2. Try it for a family job, such as who watered the plants today.  
   *Parent says:* Design a register that would catch a fake name. Then let's try it at home.  
-  *Child mode:* Design your register. Try it at home. Who watered the plants today?
+  *Child mode:* Make your register. Try it at home. Who watered the plants today?
   - Note: If you use turmeric paste for thumbprints, it stains, so keep a damp cloth ready. An ink pad from a stationery shop is cleaner.
 - **s3 (8 min)**  
   *Parent does:* 1. Try to cheat your own register. 2. Read the usual and creative solutions. 3. Improve the design.  

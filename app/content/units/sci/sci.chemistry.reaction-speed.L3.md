@@ -187,7 +187,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **s1 (3 min)**  
   *Parent does:* Cut out the cards and read the rules together.  
   *Parent says:* Each card is a change that makes a new substance. We guess which of two is faster.  
-  *Child mode:* Each card is a change. Guess which of two is faster.
+  *Child mode:* Look at the cards. Find one change you have seen at home.
 - **s2 (10 min)**  
   *Parent does:* Play until someone has 6 points. After each round, ask why that change was faster.  
   *Parent says:* Why was that change faster? Was there heat, or were the pieces small?  
@@ -196,7 +196,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **s3 (2 min)**  
   *Parent does:* End with one question.  
   *Parent says:* Which card was the slowest change? What do you think made it so slow?  
-  *Child mode:* Which card was the slowest? Why was it so slow?
+  *Child mode:* Find the slowest card and hold it up.
   - Note: The slowest cards, such as the bronze statue turning green, react at room warmth, and only the outside of the metal touches the air.
 ### g2 · Catalyst Race: the helper who is never used up (15 min)
 - **rules:** Two people can play: one is the catalyst and the other is the walker. With more people, one is the catalyst and all the others are walkers. Someone also times with a phone.; Put the 6 particle cards (3 A and 3 B) on the floor in different corners of the room, face up. Clear a space on a table or a mat for the joined pile.; Round 1, no catalyst: a walker carries one card at a time. To join a pair, a walker stands on one foot, holds an A and a B together and counts slowly to 20. If the other foot touches the floor, start the count again. Put the pair in the joined pile. Time how many seconds it takes until all 3 pairs have joined, or stop at 120 seconds and count the pairs.; Put all 6 cards back in their corners.; Round 2, with the catalyst: walkers carry one card at a time to the catalyst in the middle. The catalyst holds an A and a B together for a count of three and puts the pair in the joined pile. Time how long it takes for all 3 pairs to join.; Compare the two times. Then check: has the catalyst changed, or is she or he still standing in the middle, ready to help again?
@@ -204,7 +204,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **s1 (3 min)**  
   *Parent does:* Cut out the 7 cards and read them. Choose who is the catalyst. Put the particle cards in the corners.  
   *Parent says:* Two particles, A and B, must join to make something new. On their own, joining is hard. With a catalyst, it is quick.  
-  *Child mode:* Choose the catalyst. Put the particle cards in the corners.
+  *Child mode:* Decide who will be the catalyst. Look at the A and B cards.
 - **s2 (4 min)**  
   *Parent does:* Play Round 1 with no catalyst. Time how long until all 3 pairs have joined.  
   *Parent says:* Go! Join the pairs without the catalyst. How many seconds until all three pairs are joined?  
@@ -216,7 +216,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **s4 (4 min)**  
   *Parent does:* Compare the two times and talk.  
   *Parent says:* Which round was faster? Was the catalyst used up, or still standing in the middle at the end? What does that tell us?  
-  *Child mode:* Which round was faster? Is the catalyst still standing in the middle?
+  *Child mode:* Look at the middle of the room. Who is still there?
   - Check: At the end of Round 2, the catalyst was still standing in the middle, ready to help again. What does that show about a real catalyst? → **It is not used up by the reaction**
 
 ## Experiments
@@ -225,17 +225,17 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **predict:** Look at the three cups: peroxide alone, peroxide with raw potato, and peroxide with boiled potato. Guess which cup will make the most foam, and which the least. Why do you think so?
 - **fair test:** All three cups get the same amount of peroxide and one drop of soap. The raw potato and the boiled potato are the same amount. The cups stand side by side, so they are equally warm. Only one thing changes: no potato, raw potato or boiled potato. Measure every cup after the same time, 2 minutes.
 - **safety:** A grown-up opens the bottle and pours the hydrogen peroxide. Use the 3% kind from a chemist's shop. If the label says 6% or '20 volume', mix it half and half with water first. Keep it away from eyes and mouth, and never drink it. If it splashes on skin, wash with plenty of water. Wash hands and cups afterwards, and put the bottle away where small children cannot reach it.
-- **record:** Fill in the table. Then draw the three cups with their foam. Last, write three lines: what I think, what I saw, and why.
+- **record:** Fill in the table. Then draw the three cups with their foam, or take a photo of them. Last, write three lines: what I think, what I saw, and why.
 - **results table:** Cup | My guess | Foam height after 2 minutes (mm) | What I saw
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Grate about 2 heaped teaspoons of peeled raw potato. 2. Mash 2 heaped teaspoons of cold boiled potato. 3. Label three cups 'Nothing', 'Raw potato' and 'Boiled potato'.  
-  *Parent says:* We are going to test a clear liquid called hydrogen peroxide. On its own it breaks down into water and oxygen, but very slowly. Let's see if potato changes that.  
+  *Parent says:* Today we find out if raw potato can make a slow change fast. We test a clear liquid called hydrogen peroxide. On its own it breaks down into water and oxygen, but very slowly.  
   *Child mode:* This clear liquid is hydrogen peroxide. It looks like water. Do not touch it or taste it. Help label three cups.
   - Note: Grate the potato just before the test, because grated potato starts to change colour within a few minutes. Boiled potato from the day's cooking is fine if it has no salt or masala on it.
 - **s2 (4 min)**  
   *Parent does:* 1. Show your child the three cups and the two kinds of potato. 2. Ask for a guess for each cup, and a reason. 3. Write the guesses in the table.  
   *Parent says:* Which cup do you think will make the most foam? Which will make the least? Why do you think so?  
-  *Child mode:* Look at the three cups. Which will foam most? Which least? Why?
+  *Child mode:* Point to the cup you think will foam most. Then point to the cup you think will foam least.
   - Ask: Why do you think the raw potato cup will foam more? (good: Because raw potato is fresh and still has its juice.; Because cooking changes things.)
   - Ask: What do you think will happen in the cup with nothing? (good: Nothing, because there is nothing to make it change.; Maybe a little, because the liquid breaks down slowly on its own.)
   - Note: Do not say what will happen. Any guess with a reason is a good guess.
@@ -258,7 +258,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **s6 (6 min)**  
   *Parent does:* Ask your child to say or write three things: what I think, what I saw, and why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?  
-  *Child mode:* Say or write three things: what you think, what you saw, and why you think it happened.
+  *Child mode:* Tell it your way: what you think, what you saw, and why.
   - Note: A strong answer sounds like this. 'I think raw potato has something that makes peroxide break down fast. The raw cup made 25 mm of foam, the boiled cup 2 mm and the plain cup none. Cooking must spoil the helper.' Now read the card 'A catalyst speeds up a reaction and is not used up' together. For the extra question, one answer is that old peroxide foams less with potato, because some of it has already broken down. So you could compare a fresh bottle with an old one.
   - Think: The peroxide in the plain cup was breaking down too, just too slowly to see. How could you find out?
 ### e2 · Piece or Powder: which eggshell fizzes faster in vinegar? (25 min, 2 days)
@@ -266,18 +266,18 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **predict:** One glass gets a big piece of eggshell and the other gets the same amount crushed to powder. Which will fizz faster? Which will be finished first? Why do you think so?
 - **fair test:** Use shell from the same egg, and the same amount of shell in each glass. Use the same vinegar, and the same amount of it. Keep both glasses in the same place. Only one thing changes: the shell is one piece, or powder.
 - **safety:** Vinegar stings in the eyes. If it splashes, rinse with water. Wash hands after handling raw eggshell.
-- **record:** Fill in the table. Draw both glasses after 1 minute and the next morning.
+- **record:** Fill in the table. Take a photo of both glasses after 1 minute and the next morning, or draw them.
 - **results table:** Glass | My guess | After 1 minute | After 10 minutes | Next morning
 - **schedule:** day 1: Crush half the shell to powder. Put the piece and the powder in vinegar. Watch for 10 minutes. (20 min); day 2: Look at both glasses the next morning. Is the piece still there? Is it still fizzing? (5 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Break the shell into two halves that look the same size. 2. Fold one half in paper. 3. Crush it with a rolling pin until it is fine powder.  
-  *Parent says:* We need two equal amounts of shell. One stays as a piece. The other becomes powder.  
+  *Parent says:* Today we find out if crushing a shell makes it react faster. We need two equal amounts of shell. One stays as a piece. The other becomes powder.  
   *Child mode:* Crush one half of the shell into powder. Roll hard!
   - Note: Peel off the thin skin inside the shell if it comes away easily. It does not matter much if some stays.
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess about each glass, with a reason. Write the guesses down.  
   *Parent says:* Eggshell and vinegar make bubbles of a gas called carbon dioxide. Which glass will fizz faster? Why do you think so?  
-  *Child mode:* Which will fizz faster, the piece or the powder? Why?
+  *Child mode:* Hold up the piece or the powder to show your guess.
   - Ask: Why do you think the powder will be faster? (good: Because the vinegar can touch more of it.; Because small bits are easier to break.)
 - **s3 (10 min)**  
   *Parent does:* 1. Pour 3 tablespoons of vinegar into each glass. 2. Drop the piece into one and the powder into the other, at the same moment. 3. Watch for 10 minutes and write what you see at 1 minute and at 10 minutes.  
@@ -296,12 +296,12 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **predict:** Choose four raw vegetables or fruits from the kitchen. Put them in order: which do you think will make the most foam, and which the least? Why do you think so?
 - **fair test:** Use the same amount of peroxide and one drop of soap in every cup. Add one heaped teaspoon of each grated vegetable. Measure each cup after the same time, 2 minutes. Keep one cup with nothing as a control.
 - **safety:** A grown-up opens the bottle and pours the hydrogen peroxide. Use the 3% kind from a chemist's shop. If the label says 6% or '20 volume', mix it half and half with water first. Keep it away from eyes and mouth, and never drink it. If it splashes on skin, wash with plenty of water. Wash hands and cups afterwards, and put the bottle away where small children cannot reach it. A grown-up does the grating.
-- **record:** Fill in the table, then draw a bar for each vegetable to show its foam height.
+- **record:** Fill in the table, then show each vegetable's foam height as a bar. Draw it, or stack coins or blocks.
 - **results table:** Vegetable or fruit | My guess (order) | Foam height after 2 minutes (mm) | Order from the test
 - **s1 (5 min)**  
   *Parent does:* 1. Choose four vegetables. 2. Ask your child to put them in order of how much foam they will make, with a reason.  
-  *Parent says:* Potato has catalase. Do other vegetables have it too? Put these four in order, from most foam to least. Why?  
-  *Child mode:* Put the four vegetables in order. Most foam first. Why did you choose that order?
+  *Parent says:* Potato foams peroxide because it has a helper called catalase. Do other vegetables have it too? Put these four in order, from most foam to least. Why?  
+  *Child mode:* Line up the four vegetables on the table, with the most foam first.
   - Ask: Why did you put that one first? (good: Because it is like potato.; Because it is very juicy.; Because it grows underground like potato.)
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Grate one heaped teaspoon of each vegetable. 2. Pour 2 tablespoons of peroxide and one drop of soap into each of the five cups. 3. Add each vegetable to its own cup. Leave one cup with nothing.  
@@ -315,7 +315,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **s4 (10 min)**  
   *Parent does:* 1. Put the vegetables in order, from most foam to least. 2. Compare this order with your child's guess. 3. Ask: what do you think, what did you see, and why?  
   *Parent says:* Was your order right? Which surprised you? Why do you think so many vegetables have catalase?  
-  *Child mode:* Was your guess right? Which one surprised you? Why?
+  *Child mode:* Line them up again, most foam first. Is it the same as your guess?
   - Note: A strong answer says that many plants carry catalase, because their cells also make a little hydrogen peroxide and need to clear it away.
   - Check: Most of the raw vegetables made some foam. What is the best reason? → **Most living cells make catalase to break down peroxide**
 
@@ -324,24 +324,24 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **record:** Write how long you think each change took.
 - **s1 (3 min)**  
   *Parent does:* 1. Put half a teaspoon of baking soda on the steel plate. 2. Squeeze lemon juice over it. 3. Count the seconds until the fizzing stops.  
-  *Parent says:* Watch the baking soda when the juice touches it. Count how long the fizz lasts.  
+  *Parent says:* We will compare a change that takes seconds with one that takes months. First, watch the baking soda when the juice touches it. Count how long the fizz lasts.  
   *Child mode:* Squeeze the lemon on the baking soda. Count how long it fizzes.
   - Note: The fizz is bubbles of a new gas, carbon dioxide. It lasts from a few seconds to about half a minute, then stops when the baking soda or the lemon juice is used up.
 - **s2 (3 min)**  
   *Parent does:* Look closely at the rusty thing together. Touch the rust and look at the colour on your finger.  
   *Parent says:* The fizz and this rust are both chemical reactions. Each one made something new. How long do you think this rust took?  
-  *Child mode:* Look at the rust. Rub it with a finger. How long did it take to grow?
+  *Child mode:* Look at the rust. Rub it with a finger. See the colour on your finger.
   - Ask: How long do you think the rust took to grow? (good: Weeks.; Months.; Since the monsoon.)
 - **s3 (2 min)**  
   *Parent does:* Ask what makes a change fast or slow. Do not give the answer.  
   *Parent says:* One change took seconds. One took months. What do you think makes a change fast or slow?  
-  *Child mode:* One change took seconds. One took months. Why?
+  *Child mode:* Think about it, then tell your grown-up your idea.
   - Note: Don't answer yet. Write down your child's ideas. The experiments in this unit test them.
 ### a2 · The Change Ribbon: from fastest to slowest (20 min)
-- **record:** Draw the ribbon in your notebook, or stick it on the wall.
+- **record:** Stick the ribbon on the wall, or take a photo of it.
 - **s1 (4 min)**  
   *Parent does:* Write these marks along the ribbon, spread out: a second, a minute, an hour, a day, a month, a year, many years.  
-  *Parent says:* This ribbon is a clock for changes. Fast changes go at this end. Slow ones go at that end.  
+  *Parent says:* We will find out which changes are quick and which take years. This ribbon is a clock for changes. Fast changes go at this end. Slow ones go at that end.  
   *Child mode:* Write the marks on the ribbon. A second at one end. Many years at the other.
 - **s2 (8 min)**  
   *Parent does:* Your child places each of the 16 change cards on the ribbon, saying why.  
@@ -351,20 +351,20 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **s3 (8 min)**  
   *Parent does:* Read out the rough times. Move any card that is in the wrong place. Talk about the surprises.  
   *Parent says:* Which card moved the most? Which change surprised you? Rust and the sparkler both use oxygen from the air. Why is one so slow?  
-  *Child mode:* Which card moved most? Which one surprised you?
+  *Child mode:* Move any card that is in the wrong place. Point to the one that surprised you.
   - Note: Rust is slow because iron and oxygen react slowly at room warmth, and only the outside of the iron touches the air. A sparkler is very hot and made of fine powder, so it reacts in seconds.
   - Check: Where does the 'Idli batter rises' card go on the ribbon? → **Between 'an hour' and 'a day'**
 ### a3 · Small Elephant Toothpaste: yeast as a helper (20 min)
 - **safety:** A grown-up opens the bottle and pours the hydrogen peroxide. Use the 3% kind from a chemist's shop. If the label says 6% or '20 volume', mix it half and half with water first. Keep it away from eyes and mouth, and never drink it. If it splashes on skin, wash with plenty of water. Wash hands and cups afterwards, and put the bottle away where small children cannot reach it. The foam is only soap, water, oxygen and yeast. Touch the foam only when a grown-up says so, and wash hands afterwards.
-- **record:** Draw the foam coming out of the bottle. Write what the yeast did.
+- **record:** Take a photo of the foam, or draw it. Write what the yeast did.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Stand the bottle in the tray. 2. Pour in about half a cup (100 ml) of 3% peroxide. 3. Add a big squirt of dishwashing liquid and a few drops of food colour.  
-  *Parent says:* We are making a foam so big it is called elephant toothpaste. Our helper this time is yeast.  
+  *Parent says:* We will make a huge foam, called elephant toothpaste, and find out if yeast can break down peroxide fast. Our helper this time is yeast.  
   *Child mode:* A grown-up pours the liquid into the bottle. You add the colour.
 - **s2 (3 min)**  
   *Parent does:* Mix one teaspoon of dry yeast with 3 tablespoons of warm water in a cup. Stir for one minute.  
   *Parent says:* Yeast are tiny living beings. Their cells carry catalase, the same helper as the potato. What do you think will happen?  
-  *Child mode:* Stir the yeast into warm water. Guess what will happen.
+  *Child mode:* Stir the yeast into the warm water for one minute.
   - Ask: What do you think the yeast will do? (good: Make foam, like the potato.; Break the peroxide into water and oxygen.)
 - **s3 (7 min) · grown-up needed**  
   *Parent does:* Pour the yeast mixture into the bottle quickly, and step back.  
@@ -375,30 +375,30 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **s4 (5 min)**  
   *Parent does:* Talk about what happened, then clean up with water.  
   *Parent says:* The potato and the yeast both had catalase. Why do you think such different living beings carry the same helper?  
-  *Child mode:* Potato and yeast both carry the helper catalase. Why do you think so?
+  *Child mode:* Think of a reason, then tell your grown-up.
   - Note: A good answer: both use oxygen, both make a little peroxide, and both need to break it down before it harms their cells.
 ### a4 · Chew and Wait: the helper in your mouth (10 min)
 - **record:** Write how the rice tasted at the start and after 2 minutes.
 - **s1 (2 min)**  
   *Parent does:* Your child takes a spoonful of plain rice and notices the taste.  
-  *Parent says:* Taste the rice. Is it sweet, salty or plain?  
-  *Child mode:* Taste the rice. Is it sweet? Salty? Plain?
+  *Parent says:* We will find out if chewing changes the taste of rice. Taste it. Is it sweet, salty or plain?  
+  *Child mode:* Take a small spoonful and notice the taste.
 - **s2 (5 min)**  
   *Parent does:* Your child chews slowly for 2 minutes, without swallowing, and says if the taste changes.  
   *Parent says:* Keep chewing slowly. Tell me if the taste changes.  
-  *Child mode:* Chew slowly. Don't swallow yet. Does the taste change?
+  *Child mode:* Chew slowly and don't swallow yet. Notice the taste.
   - Note: Many children notice a faint sweetness after a minute or two. Some do not, and that is fine. The change is small, and taste differs from person to person.
 - **s3 (3 min)**  
   *Parent does:* Explain what was happening, after your child has said what they noticed.  
-  *Parent says:* Your saliva has an enzyme called amylase. It is a catalyst. It breaks the starch in rice into sugar. Why do you think your body starts this in the mouth?  
-  *Child mode:* Your saliva has a helper. It breaks starch into sugar. Why do you think your body starts this in the mouth?
+  *Parent says:* Your saliva has an enzyme called amylase. An enzyme is a catalyst made by living things. It breaks the starch in rice into sugar. Why do you think your body starts this in the mouth?  
+  *Child mode:* Listen to your grown-up. Then say why your body might start breaking down food in the mouth.
   - Note: Starting to break starch down in the mouth gives the body a head start. Small sugars are easier for the body to use than long starch chains. This is a guess, so any sensible idea is fine.
   - Check: Why does chewed rice start to taste sweet? → **An enzyme in saliva breaks starch into sugar**
 ### a5 · Be the Particles: why warmth speeds things up (15 min)
 - **record:** Write the two counts: cold and warm.
 - **s1 (5 min)**  
   *Parent does:* 1. Scatter the cushions. 2. Your child walks very slowly among them for 30 seconds, with eyes half closed. 3. Count every bump.  
-  *Parent says:* You are a particle in cold water. Move slowly. Every time you bump a cushion, that is a chance to react.  
+  *Parent says:* We will find out why warm things react faster, by acting like particles. You are a particle in cold water. Move slowly. Every time you bump a cushion, that is a chance to react.  
   *Child mode:* You are a cold particle. Walk slowly. Count your bumps.
 - **s2 (5 min)**  
   *Parent does:* Your child moves quickly among the cushions for 30 seconds. Count the bumps again.  
@@ -408,29 +408,29 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **s3 (5 min)**  
   *Parent does:* Compare the two counts and talk about them.  
   *Parent says:* Which time had more bumps? Were the bumps harder? Why do you think food cooks faster when it is hot?  
-  *Child mode:* Which time had more bumps? Why does hot food cook faster?
+  *Child mode:* Compare your two counts. Say which was bigger.
   - Check: Why do most reactions go faster when things are warm? → **Warm particles move faster, so they bump more often and harder**
 
 ## Projects
 ### p1 · Sun or Shade: a 3-day turmeric watch (35 min, 3 days)
-- **record:** Each day, draw the strips and colour them as bright as they look. Write which part is palest.
+- **record:** Each day, take a photo of the strips, or colour a small square the same yellow. Write which part is palest.
 - **schedule:** day 1: Paint two strips with turmeric. Put one on a sunny windowsill, with half of it covered by cardboard. Put the other in a dark drawer. (15 min); day 2: Look at both strips. Lift the cardboard and compare the covered and uncovered halves. (5 min); day 3: Put the sunny half, the covered half and the drawer strip side by side. Draw them and say what sunlight did. (15 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Mix turmeric with a few drops of water into a paste. 2. Paint both strips evenly. 3. Let them dry. 4. Tape one to a sunny window and cover half of it with cardboard. 5. Put the other in a dark drawer.  
-  *Parent says:* Turmeric's yellow colour slowly breaks down in light. Washermen have long dried turmeric stains in the sun to fade them. Will the sun make the yellow fade faster? Why do you think so?  
+  *Parent says:* Turmeric's yellow colour slowly breaks down in light. Will the sun make the yellow fade faster? Why do you think so?  
   *Child mode:* Paint the strips yellow. Put one in the sun, half covered. Put one in a drawer. Guess what will happen.
   - Ask: Why did we cover half of the sunny strip? (good: So we can compare sun and no sun on the same strip.; Because it is a fair test.)
   - Note: Turmeric stains clothes and hands, so wear old clothes and work on newspaper.
 - **s2 (5 min)**  
   *Parent does:* Look at both strips. Lift the cardboard gently and look under it, then put it back.  
   *Parent says:* Has anything changed since yesterday? Which part looks palest?  
-  *Child mode:* Look at your strips. Which part is palest?
+  *Child mode:* Look at both strips. Point to the palest part.
   - Note: In strong sun the uncovered half often looks paler after one day. In cloudy weather it can take longer, so keep going for another day or two.
   - Wait: Day 2
 - **s3 (15 min)**  
-  *Parent does:* 1. Take everything down. 2. Lay the sunny half, the covered half and the drawer strip side by side. 3. Draw them. 4. Say what you think, what you saw and why.  
+  *Parent does:* 1. Take everything down. 2. Lay the sunny half, the covered half and the drawer strip side by side. 3. Take a photo of them. 4. Say what you think, what you saw and why.  
   *Parent says:* Which part faded most? What does that tell us about light and this change?  
-  *Child mode:* Lay them side by side. Which faded most? Why?
+  *Child mode:* Lay the three parts side by side. Point to the one that faded most.
   - Note: The uncovered sunny part should be palest. The covered half and the drawer strip stay bright yellow. Light gives the colour particles energy to break apart, so light can speed up a reaction, just as heat can.
   - Check: The sunny half faded but the covered half stayed bright. What made the difference? → **Light**
   - Wait: Day 3
@@ -448,9 +448,9 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
   *Parent says:* Engineers make reactions go the speed they need. How could we make our potato work faster?  
   *Child mode:* How can you make the most foam? Think of three ideas.
 - **s2 (5 min)**  
-  *Parent does:* Draw three ideas before building.  
-  *Parent says:* Draw your three ideas. Which do you think will work best? Why?  
-  *Child mode:* Draw three ideas. Which is best? Why?
+  *Parent does:* Draw your three ideas, or tell them to your grown-up, before building.  
+  *Parent says:* Which of your three ideas do you think will work best? Why?  
+  *Child mode:* Pick the idea you will try first.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* 1. Try the best idea. 2. Measure the foam after one minute. 3. Change one thing and try again.  
   *Parent says:* Measure after one minute exactly. Then change just one thing and test again.  
@@ -458,7 +458,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **s4 (5 min)**  
   *Parent does:* Compare results and explain them.  
   *Parent says:* Which idea made the tallest tower? Why do you think it worked?  
-  *Child mode:* Which idea won? Why do you think it worked?
+  *Child mode:* Look at your results. Point to the idea that won.
   - Check: A spoonful of finely grated potato makes more foam in one minute than the same amount of potato as one cube. Why? → **Fine grating gave more surface, so more catalase touched the peroxide**
 ### c2 · Keep It Bright: protect turmeric yellow from the sun (30 min)
 - **problem:** Turmeric yellow fades in sunlight. Design a cover that keeps a turmeric-painted card bright yellow on a sunny windowsill for 2 days.
@@ -471,9 +471,9 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
   *Parent says:* Sunlight speeds up the fading of turmeric yellow. How could we slow it down?  
   *Child mode:* Light fades turmeric. How can you keep it bright?
 - **s2 (10 min)**  
-  *Parent does:* Draw and build a cover. Paint two cards with turmeric.  
-  *Parent says:* Draw your cover first. Why do you think it will work?  
-  *Child mode:* Draw your cover. Build it. Paint two cards yellow.
+  *Parent does:* Paint two cards with turmeric. Plan a cover from the materials. Say or draw your plan, then build it.  
+  *Parent says:* Tell me your plan for the cover. Why do you think it will work?  
+  *Child mode:* Paint two cards yellow. Build your cover.
 - **s3 (5 min)**  
   *Parent does:* Put both cards on the sunny windowsill, one covered and one not.  
   *Parent says:* Why do we need the uncovered card too?  
@@ -482,7 +482,7 @@ Arjun looked from the black sparkler wire to the rusty grill to the dark sky ful
 - **s4 (10 min)**  
   *Parent does:* After two days, compare the cards and explain.  
   *Parent says:* Which card is brighter? Why did your cover work, or not work?  
-  *Child mode:* Which card is brighter? Why?
+  *Child mode:* Hold the two cards side by side. Point to the brighter one.
   - Check: A cover of thick cardboard kept the card bright. Why? → **It stopped the light that speeds up the fading**
   - Wait: Leave for 2 days
 

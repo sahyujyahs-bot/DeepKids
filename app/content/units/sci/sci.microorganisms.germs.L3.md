@@ -211,17 +211,17 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 - **s2 (4 min)**  
   *Parent does:* Play one practice round. Read the chain aloud as a story.  
   *Parent says:* Read your chain as a story. Meenakshi has a cold. She sneezes into her hand. She presses the lift button. Then Lakshmi presses the same button and rubs her eyes. Which STOP card would break it?  
-  *Child mode:* Read your chain like a story. Which STOP card could break it?
+  *Child mode:* Read your chain like a story.
   - Check: Meenakshi sneezes into her hand, then presses the lift button. Which habit breaks this chain? → **Sneezing into her elbow**
 - **s3 (10 min)**  
   *Parent does:* Play 6 rounds (8 with four players), changing the Germ as the rules say. After each round, the Chain Breaker says which link they broke and why.  
   *Parent says:* Which link did you break? Why does that stop the germ? Could another STOP card have worked too?  
-  *Child mode:* Play the rounds. Say which link you broke, and why.
+  *Child mode:* Play the rounds. Break each chain with a STOP card.
   - Ask: Was there a chain you could break in two places? (good: Yes. A sneeze chain can be broken at the way out with the elbow, at the ride by wiping the handle, or at the way in by washing hands.; The food chain. Cover the food (the ride), or wash hands before eating (the way in).)
 - **s4 (3 min)**  
   *Parent does:* Count the points. Look at which kind of STOP card was used most.  
   *Parent says:* Which link did we break most often? Which one is easiest to break in our own home?  
-  *Child mode:* Count your points. Which link is easiest to break at home?
+  *Child mode:* Count your points.
   - Think: Is there a link in our home that nobody is breaking yet?
 ### g2 · Spread or Stop? (10 min)
 - **rules:** Each player has a SPREAD card and a STOP card.; One player reads a situation card aloud, front side only. Everyone holds up a card at the same time.; Turn the card over to see the answer. Anyone who is right scores 1 point. Anyone who can also say which link it is (the first link, the way out, the ride or the way in) scores 1 more.; Playing alone? Read the card to yourself, decide, say the link aloud, and then turn the card over. Score the same way.; Read all 16 cards. The highest score wins, and a tie is shared.
@@ -233,13 +233,13 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
   *Child mode:* Spread or stop? Hold up your card.
 - **s2 (7 min)**  
   *Parent does:* Read the cards one at a time. After each, ask for the link, then turn the card over.  
-  *Parent says:* Why does that help the germ? Which link is it: the first link (the ill person), the way out, the ride or the way in?  
-  *Child mode:* Spread or stop? Then say which link it is.
+  *Parent says:* Why does that help the germ? Which link is it: the ill person, the way out, the ride or the way in?  
+  *Child mode:* Say which link it is.
   - Check: Rahul drinks from his sister's water bottle while she has a cold. Spread or stop? → **Spread, because her germs are on the bottle's mouth**
 - **s3 (1 min)**  
   *Parent does:* Add up the points.  
   *Parent says:* Which card was the hardest to decide? Why?  
-  *Child mode:* Count your points. Which card was hardest?
+  *Child mode:* Count your points.
 
 ## Experiments
 ### e1 · The Glitter Trail: can germs reach someone you never touched? (30 min)
@@ -247,7 +247,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 - **predict:** Before you start, guess. The carrier is the person with glitter on their hand. After 10 minutes, will anyone who did not touch the carrier have glitter on their hands? Who will have the most? Why do you think so?
 - **fair test:** To make it fair, the carrier touches the same list of things in both rounds, in the same order, and the same people take part. Use one pinch of glitter each time. Only one thing changes: in round 1 the glitter is on the carrier's palm, and in round 2 it is on the inside of their elbow.
 - **safety:** Keep glitter away from eyes and mouth. Never put glitter on food, plates or anything that goes in the mouth. Use an empty tumbler for the test and wash it afterwards. At the end, a grown-up wipes up all the glitter with a damp cloth and shakes the cloth into the dustbin, not down the drain, because glitter is plastic.
-- **record:** Fill in the table. Then draw your home as a map, with each person and each thing as a dot. Draw an arrow for every way the glitter travelled.
+- **record:** Fill in the table. Then tell your grown-up the path the glitter took, from the carrier's hand to the helper's hand. You can draw it as a map with arrows if you like.
 - **results table:** Person or thing | Did they touch the carrier? (yes or no) | Glitter in round 1 (palm): none, a few specks, lots | Glitter in round 2 (elbow): none, a few specks, lots
 - **s1 (4 min)**  
   *Parent does:* 1. Choose your child as the carrier and another person as the helper. 2. Read the touch list aloud together: main door, fridge, remote, steel tumbler, pencil. 3. Check everyone's hands with the torch: there should be no glitter yet. 4. Ask for a guess and a reason.  
@@ -284,9 +284,9 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
   *Child mode:* Now glitter goes on your elbow, like a cough. Same touch list. What changes?
   - Note: Usually only a few specks, or none, reach the things and the others' hands. If you see some, look at where they are: often on a sleeve or a tabletop the elbow brushed.
 - **s8 (2 min)**  
-  *Parent does:* Look at the table together. Ask your child to say what they think, what they saw, and why.  
-  *Parent says:* What do you think happened? What did you see that shows it? Why do you think it happened that way?  
-  *Child mode:* Say what you think, what you saw, and why.
+  *Parent does:* Look at the table together. Compare round 1 and round 2.  
+  *Parent says:* Which round had less glitter on the helper? What did you see that shows it?  
+  *Child mode:* Compare the two rounds. Tell what you saw.
   - Ask: What did round 2 show about coughing into your elbow? (good: Much less glitter got onto the things, so less reached the others.; The elbow does not touch door handles.)
   - Think: Which thing in our home do the most hands touch in a day?
 ### e2 · The Handshake Chain: do germs get fewer along a chain? (20 min)
@@ -294,7 +294,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 - **predict:** Before you start, guess. Will the fourth hand in the chain have as much glitter as the first? How many handshakes will it take before a hand has none? Why do you think so?
 - **fair test:** Use the same pinch of glitter and the same short handshake each time: one firm shake, for about one second. Count specks on the same part of each palm, inside a small paper square. Do the chain twice and compare.
 - **safety:** Keep glitter away from eyes and mouth. Wash hands with soap at the end. Wipe up spilt glitter with a damp cloth and put it in the dustbin.
-- **record:** Fill in the table, then draw a bar for each hand in the chain, as tall as its number of specks.
+- **record:** Fill in the table. Then make a bar for each hand from a row of rice grains or paper strips, as long as its number of specks. Or draw the bars.
 - **results table:** Hand in the chain | Specks in the square, first try | Specks in the square, second try
 - **s1 (3 min)**  
   *Parent does:* 1. Cut a 2 cm square hole in the middle of a piece of paper. 2. Ask for a guess and a reason.  
@@ -319,14 +319,14 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 - **s5 (2 min)**  
   *Parent does:* Talk about what the results mean for real germs.  
   *Parent says:* Glitter got less at each hand. Germs often do too. But germs are alive. What could make them grow again further along the chain?  
-  *Child mode:* Glitter got less at each hand. Can germs grow again? Where?
+  *Child mode:* Glitter got less at each hand. But germs are alive, and food and warmth help them grow.
   - Ask: Where could germs multiply on their way? (good: In food that is left out warm.; Inside the next person's body.; In dirty water.)
 ### e3 · Warm or Cool: what happens to leftover rice? (20 min, 3 days)
 - **question:** Does cooked rice left out in a warm kitchen change faster than cooked rice kept in the fridge?
 - **predict:** Guess first. After two days, will the rice on the kitchen shelf look and smell different from the rice in the fridge? Why do you think so?
 - **fair test:** Use rice from the same pot, the same amount in each bowl, and the same kind of bowl and lid. Only the place changes: one bowl on a kitchen shelf, one in the fridge.
 - **safety:** Never taste the test rice. Smell it only by waving the air above the bowl towards your nose, and only with a grown-up. At the end, a grown-up throws the rice away in the dustbin or compost and washes the bowls with soap.
-- **record:** Fill in the table each day, and draw both bowls side by side.
+- **record:** Fill in the table each day, and put the photos of both bowls side by side. Or draw the bowls.
 - **results table:** Day | Rice on the shelf: look | Rice on the shelf: smell from a distance | Rice in the fridge: look | Rice in the fridge: smell from a distance
 - **schedule:** day 1: Put two spoons of cooked rice in each bowl, cover them, and put one on a shelf and one in the fridge. Draw how they look. (10 min); day 2: Look at both bowls and smell from a distance. Write what you notice. (5 min); day 3: Look and smell once more, talk about why the two bowls are different, and then a grown-up throws the rice away. (5 min)
 - **s1 (5 min)**  
@@ -334,9 +334,9 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
   *Parent says:* These two bowls of rice came from the same pot. One goes on the shelf, one in the fridge. What do you think they will look like in two days? Why do you think so?  
   *Child mode:* Two bowls of rice. One on the shelf. One in the fridge. Guess what happens. Why?
 - **s2 (5 min)**  
-  *Parent does:* Put one bowl on a kitchen shelf away from the stove, and one in the fridge. Draw both bowls.  
-  *Parent says:* Draw them now, so we can compare later.  
-  *Child mode:* Put one bowl on the shelf, one in the fridge. Draw them both.
+  *Parent does:* Put one bowl on a kitchen shelf away from the stove, and one in the fridge. Take a photo of each bowl.  
+  *Parent says:* Take a photo of each now, so we can compare later.  
+  *Child mode:* Put one bowl on the shelf, one in the fridge. Photograph them both.
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* On day 2, look at both bowls. Wave the air above each towards your nose.  
   *Parent says:* What do you see? What do you smell? Is the shelf rice different from the fridge rice?  
@@ -346,7 +346,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 - **s4 (5 min) · grown-up needed**  
   *Parent does:* On day 3, two days after you started, look and smell once more. Talk about why the two bowls are different, then throw the rice away and wash the bowls.  
   *Parent says:* What do you think happened in the shelf bowl? Why did the fridge bowl change less?  
-  *Child mode:* Why did the shelf rice change? Why not the fridge rice?
+  *Child mode:* Look at both bowls again. Tell what is different.
   - Ask: Why did the warm rice change faster? (good: Microbes multiplied in it, because it was warm and wet.; The fridge was too cold for them to grow fast.)
   - Check: Why is it safer to put leftover sambar in the fridge soon after the meal? → **Cold slows down the germs that multiply in warm food**
   - Wait: Day 3: look and smell once more, then throw the rice away.
@@ -371,7 +371,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
   - Think: What else in our home is touched by everyone?
 ### a2 · One Germ Becomes Many: doubling with rice grains (15 min)
 - **safety:** Younger children may put grains in their nose or mouth, so watch them.
-- **record:** A table with two columns: 'Time' and 'Number of bacteria'. Draw the plate after the last doubling.
+- **record:** A table with two columns: 'Time' and 'Number of bacteria'. Take a photo of the plate after the last doubling, or draw it.
 - **s1 (3 min)**  
   *Parent does:* Put one grain of rice on the plate.  
   *Parent says:* This grain is one bacterium in some warm rice. In the best conditions, some bacteria split into two about every 20 minutes. How many do you think there will be after 2 hours? Why?  
@@ -384,14 +384,14 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
   - Check: There are 16 bacteria. They all split in two. How many are there now? → **32**
 - **s3 (4 min)**  
   *Parent does:* Look at the table together.  
-  *Parent says:* After 2 hours there were 64. If the doubling carried on for 2 more hours, there would be more than 4,000. Why does warm food left out for hours worry doctors?  
-  *Child mode:* After 2 hours there were 64 bacteria. If they kept doubling for 2 more hours, there would be thousands. Why does that matter for food left out?
+  *Parent says:* After 2 hours there were 64. If the doubling carried on for 2 more hours, there would be more than 4,000. That is from just one bacterium.  
+  *Child mode:* After 2 hours there were 64 bacteria. If they kept doubling for 2 more hours, there would be thousands.
   - Ask: Why should leftover food go in the fridge soon? (good: So the bacteria can't double so many times.; Cold slows them down.)
 ### a3 · Be John Snow: find the bad well (20 min)
 - **record:** The map with a red dot for each ill family, and a circle round the well you think is to blame. Write one sentence on why.
 - **s1 (3 min)**  
   *Parent does:* 1. Draw a grid of 6 squares across and 6 down, and number the rows and columns 1 to 6. 2. Draw well A in square 2 across, 2 down. 3. Draw well B in square 5 across, 5 down. 4. Draw well C in square 5 across, 1 down.  
-  *Parent says:* This is a made-up colony with three wells. Families take water from the well closest to their house. Some families have fallen ill with loose motions.  
+  *Parent says:* This is a made-up colony, a group of homes close together, with three wells. Families take water from the well closest to their house. Some families have fallen ill with loose motions.  
   *Child mode:* Draw the map. Put in the three wells, A, B and C.
 - **s2 (7 min)**  
   *Parent does:* 1. Squares are given as across, then down. 2. Mark a red dot for each ill family: 1-1, 2-1, 1-2, 2-2, 3-2, 1-3, 2-3, 3-3, 2-4 and 6-6. 3. Mark a blue dot for each family who stayed well: 4-1, 6-1, 6-2, 5-4, 4-5, 6-5, 5-6.  
@@ -400,7 +400,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 - **s3 (6 min)**  
   *Parent does:* Ask which well is to blame, and how the family at the red dot at 6-6 could have fallen ill.  
   *Parent says:* Most red dots are round well A. But one family at 6-6 is far from it, next to well B. How could that family have caught the illness?  
-  *Child mode:* Which well is to blame? What about the red dot far away?
+  *Child mode:* Look at where the red dots are bunched together.
   - Ask: How could the family at 6-6 have fallen ill? (good: They went to well A anyway, maybe because they liked its water.; Someone brought water from well A to them.; They ate at a house near well A.)
   - Check: Nine ill families live round well A. One lives far away. Which well should be closed first? → **Well A, because most ill families drink from it**
 - **s4 (4 min)**  
@@ -409,15 +409,15 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
   *Child mode:* Read the true story of John Snow and the pump.
 ### a4 · Germ Paths in Our Flat (15 min)
 - **safety:** Look, don't touch: do not open the dustbin or put hands in drains.
-- **record:** A drawing of your home with a coloured mark for each germ path you found, and a star on the one your family will break this week.
+- **record:** A photo or a note for each germ path you found, and a star on the one your family will break this week. You can draw your home with a coloured mark for each path instead.
 - **s1 (2 min)**  
   *Parent does:* Write five headings: hands and handles, droplets, water, food, insects.  
-  *Parent says:* Germs take five main rides. Let's find a place in our flat for each one.  
+  *Parent says:* Germs take five main rides. Droplets are the tiny drops that fly out when we cough. Let's find a place in our flat for each one.  
   *Child mode:* Germs take five rides. Find one place at home for each.
 - **s2 (9 min)**  
-  *Parent does:* Walk round the rooms together. For each heading, your child finds one place and draws it.  
+  *Parent does:* Walk round the rooms together. For each heading, your child points to one place and takes a photo of it, or tells you about it.  
   *Parent says:* Where do the most hands touch? Where do we cough? Where does our drinking water come from? Is any food left open? Is there still water where mosquitoes could lay eggs?  
-  *Child mode:* Walk round your home. Look for a handle that many hands touch. Look for a water pot, open food and still water. Draw each one you find.
+  *Child mode:* Walk round your home. Look for a handle that many hands touch. Look for a water pot, open food and still water. Take a photo of each one, or point and tell.
   - Note: Common finds: the fridge handle, the remote, a shared tumbler, an uncovered water pot, a flower-pot tray with standing water, fruit left open on the table.
 - **s3 (4 min)**  
   *Parent does:* Choose one path the whole family will break this week.  
@@ -430,9 +430,9 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 - **record:** A photo or a drawing of your poster where it hangs, and one sentence about what a neighbour said.
 - **schedule:** day 1: Plan and draw a poster that shows one germ chain and one way to stop that chain, in pictures and in English and your home language. (25 min); day 2: Get permission from the building's secretary or watchman. Then, with a grown-up, put the poster up by the lift, the main door or the notice board. Explain it to one neighbour. (20 min)
 - **s1 (25 min)**  
-  *Parent does:* 1. Choose one germ chain from the unit, for example a cough into a hand, then the lift button. 2. Draw the chain as 3 or 4 pictures. 3. Draw the habit that breaks it, big and bright. 4. Add a few words in English and your home language.  
+  *Parent does:* 1. Choose one germ chain from the unit, for example a cough into a hand, then the lift button. 2. Show the chain as 3 or 4 pictures. Draw them, or cut them from old magazines. 3. Show the habit that breaks it, big and bright. 4. Add a few words in English and your home language.  
   *Parent says:* Everyone in our building touches the lift button. So one poster could break a chain for many families. Which chain will you show? What words will make people stop and read?  
-  *Child mode:* Draw one germ chain. Then draw how to break it, big and bright. Add a few words.
+  *Child mode:* Show one germ chain in 3 or 4 pictures. Then show how to break it, big and bright. Add a few words.
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* 1. Ask the secretary or watchman for permission. 2. With a grown-up, tape the poster up by the lift, the main door or the notice board. 3. Explain it to one neighbour.  
   *Parent says:* Let's ask the secretary first. Then you can explain the poster to anyone who stops.  
@@ -442,7 +442,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 ## Challenges
 ### c1 · The No-Hands Door (30 min)
 - **problem:** Design a way to open the bathroom door from the inside without touching the handle with your hand, so clean hands stay clean after washing.
-- **your turn:** Now design your own no-hands door. Draw it, build it with a grown-up, and test it for a week.
+- **your turn:** Now design your own no-hands door. Plan it, build it with a grown-up, and test it for a week.
 - **constraints:** Use only things from home: string, cardboard, tape, an old cloth, a hook.; It must not damage the door, and a grown-up must agree to it.; A child must be able to use it easily.; Any loop must be short and hang low, so it can never wrap round a neck.
 - **general:** Tie a loop of cloth to the handle, low down, so it can be pulled with an elbow or a forearm.; Put a paper towel or small cloth by the tap to open the door with, and wash that cloth every day.
 - **creative:** Make a cardboard hook that slides over the handle and can be pushed down with an elbow.; Hang a foot loop on a door that pulls open, so a foot does the work.; Wash hands outside the bathroom, at a kitchen or balcony tap, if the door is a problem.
@@ -451,9 +451,9 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
   *Parent says:* Everyone touches this handle just after using the toilet, before washing. Then we wash, and touch it again. What happens to our clean hands?  
   *Child mode:* Who touches this handle? When? What happens to clean hands?
 - **s2 (5 min)**  
-  *Parent does:* Draw two ideas.  
-  *Parent says:* Draw two ways to open this door without your hand. Which part of your body could do it instead?  
-  *Child mode:* Draw two ideas for opening the door. You could use an elbow or a foot, or think of something else.
+  *Parent does:* Ask for two ideas. Sketch them if it helps.  
+  *Parent says:* Think of two ways to open this door without your hand. Which part of your body could do it instead?  
+  *Child mode:* Tell two ideas for opening the door. You could use an elbow or a foot, or think of something else.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* Build the best idea and test it ten times.  
   *Parent says:* Try it ten times. Does it work every time? Does it hold?  
@@ -461,7 +461,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 - **s4 (5 min)**  
   *Parent does:* Talk about what to change.  
   *Parent says:* What worked? What would you change? Which germ link does your design break?  
-  *Child mode:* What would you change? Which link does it break?
+  *Child mode:* Tell what you would change.
 ### c2 · The Fly-Proof Food Cover (30 min)
 - **problem:** Design a cover for a plate of food that keeps flies off, lets steam out so the food does not go soggy, and is easy to wash.
 - **your turn:** Now design your own food cover. Test it with a plate of hot rice and see if the rice stays dry and covered.
@@ -473,9 +473,9 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
   *Parent says:* Flies walk on rubbish, then on food, and carry germs on their feet. But a lid can trap steam and make food soggy. Can you solve both problems?  
   *Child mode:* Flies carry germs on their feet. Make a cover that stops them, but lets steam out.
 - **s2 (5 min)**  
-  *Parent does:* Draw two ideas.  
-  *Parent says:* Draw two designs. How will the steam get out? How will flies be kept off?  
-  *Child mode:* Draw two ideas. Where does the steam go?
+  *Parent does:* Lay the materials over a plate to try two ideas. Sketch them if it helps.  
+  *Parent says:* Try two designs. How will the steam get out? How will flies be kept off?  
+  *Child mode:* Try two ideas with the materials. Where does the steam go?
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* Build the best idea and test it over a plate of hot rice for 10 minutes.  
   *Parent says:* Put it over hot rice. After 10 minutes, look under the cover. Is the rice dry on top? Could a fly get in?  
@@ -483,7 +483,7 @@ Paati went home to Tiruchi a week later, without a cough. On the phone that nigh
 - **s4 (5 min)**  
   *Parent does:* Talk about what to change.  
   *Parent says:* What would you change? Which germ link does your cover break?  
-  *Child mode:* What would you change? Which link does it break?
+  *Child mode:* Tell what you would change.
 
 ## Worksheets
 ### Germ Detective (core) (core, 15 questions)

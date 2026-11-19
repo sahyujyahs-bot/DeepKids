@@ -389,7 +389,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a guessing game. One player reads a clue card about a plant, an animal or a family. The others guess which season it is.",
+   "context": "This is a guessing game. One player reads a clue card about a plant, an animal or a family. The others guess which season it is. You will find out why each clue belongs to its season.",
    "printables": [
     {
      "kind": "cards",
@@ -527,7 +527,7 @@
      "mins": 2,
      "do": "1. Cut out the cards and the board. 2. Shuffle the cards.",
      "say": "Each card is a clue about a season. Read it out, and we will guess the season.",
-     "kid": "Take a card. Read the clue. Others guess the season.",
+     "kid": "Help cut out the cards. Then take one and keep the back hidden.",
      "context": "This is the first step of Which Season Am I?, a game of season clues."
     },
     {
@@ -535,7 +535,7 @@
      "mins": 2,
      "do": "Play one practice card together.",
      "say": "Practice card: frogs croak all night from the puddles. Which season? Why?",
-     "kid": "Frogs croak all night. Which season is it? Point to your answer.",
+     "kid": "Read the practice card. Then point to a season on the board.",
      "check": {
       "t": "mcq",
       "q": "Frogs croak all night from the puddles. Which season is it?",
@@ -553,7 +553,7 @@
      "mins": 10,
      "do": "1. Take turns to read cards. 2. Keep score. 3. Stop when the cards are done.",
      "say": "Your turn. Read your clue. Can anyone say why it belongs to that season, for an extra point?",
-     "kid": "Read your clue. Guess. Say why for an extra point.",
+     "kid": "Read your clue out loud. The others point to a season. Say why, for an extra point.",
      "parent": "Ask 'why' as often as you can. The reasons are the real learning: the frog needs water, the duck's lake has frozen, the strong sun dries the vadams."
     },
     {
@@ -561,7 +561,7 @@
      "mins": 1,
      "do": "Count the points.",
      "say": "Which clue was hardest? Which one would be different in Chennai?",
-     "kid": "Which clue was hardest? Which is different in Chennai?",
+     "kid": "Pick out the hardest card. Pick one that would be different in Chennai.",
      "think": "Is there a clue that happens in two seasons?",
      "parent": "Yes, some clues fit two seasons, because one season slides into the next. For example, new neem leaves and the first koel calls come at the end of the cool months and the start of summer. Accept any clue with a reason."
     }
@@ -586,7 +586,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a matching game. Each living thing card goes with a problem the season brings, and with what they do about it.",
+   "context": "This is a matching game. Each living thing card goes with a problem the season brings, and with what they do about it. You will find out why each one changes with the season.",
    "printables": [
     {
      "kind": "cards",
@@ -701,7 +701,7 @@
      "mins": 3,
      "do": "1. Cut out the 30 cards. 2. Shuffle the problem cards and the answer cards. 3. Lay them in three rows, face up.",
      "say": "Every living thing here has a problem that comes with a season. Can you find their problem, and what they do about it?",
-     "kid": "Lay out the cards in three rows. Match each living thing to a problem and an answer.",
+     "kid": "Look along the three rows: living things, problems and answers.",
      "context": "This is the first step of Ready for the Season, a matching game about how living things cope with the seasons."
     },
     {
@@ -709,7 +709,7 @@
      "mins": 3,
      "do": "Make the first set together, with the pintail duck.",
      "say": "The pintail duck. Which problem is hers? And what does she do?",
-     "kid": "Find the pintail duck's problem and answer.",
+     "kid": "Find the duck's problem card and answer card. Put the three cards in a line.",
      "check": {
       "t": "mcq",
       "q": "A pintail duck's lake in Central Asia freezes in winter. What does she do?",
@@ -727,7 +727,7 @@
      "mins": 12,
      "do": "1. Take turns to make sets. 2. Say each set as one sentence.",
      "say": "Say each set as one sentence. For example: the neem tree's soil dries out, so she drops her leaves.",
-     "kid": "Make a set. Say it in one sentence: who they are, what their problem is, and what they do.",
+     "kid": "Pick a living thing card. Find its problem card and its answer card.",
      "parent": "Every set starts with the living thing's own problem, then how their change helps them. Ask: which change happens in the body, and which is something they do?"
     },
     {
@@ -735,7 +735,7 @@
      "mins": 2,
      "do": "Count the sets and talk.",
      "say": "Which of these changes is a journey? Which is a change in the body? Which is something people decided together?",
-     "kid": "Which is a journey? Which is a body change? Which did people decide?",
+     "kid": "Point to a set that is a journey. Point to a set that people decided together.",
      "think": "Which set is most like something your family does?"
     }
    ],
@@ -824,7 +824,7 @@
      "mins": 4,
      "do": "1. Show both leaves. 2. Ask your child to guess what colours each will show on the strip, and why. 3. Write the guesses in the table.",
      "say": "This leaf is green, and this one has gone yellow. When we let a liquid climb the strip, it can carry a leaf's colours up and spread them apart. What colours do you think each leaf will show? Why do you think so?",
-     "kid": "Look at both leaves. What colours will each show? Why do you think so?",
+     "kid": "Look closely at both leaves. Then say what you think each one will show.",
      "ask": [
       {
        "q": "What colours do you think the green leaf will show?",
@@ -858,7 +858,7 @@
      "mins": 15,
      "do": "1. Watch the liquid climb the paper. 2. Every few minutes, look at the colours through the side of the tumbler. 3. After about 15 minutes, or when the liquid is 1 cm from the top, lift the strips out. 4. On each strip, mark with a pencil how high the liquid climbed. 5. Lay the strips on a plate to dry.",
      "say": "Watch the line. What is happening to the green? Is any other colour moving away from it?",
-     "kid": "Watch the strip. Does the green move? Can you see another colour?",
+     "kid": "Watch the liquid climb. Every few minutes, look at the strip from the side.",
      "adult": true,
      "parent": "On the green leaf's strip, the green spreads up into a band, and a thin yellow or yellow-orange band runs ahead of it, near the top. On the yellowing leaf's strip, the yellow band is usually clear, and there is much less green, or none. The colours fade as the strip dries, so look at them straight away. If you see only green, the line was too faint. Make a new strip with 20 rolls, or let it run longer. Hand sanitiser works more slowly than nail polish remover.",
      "check": {
@@ -878,7 +878,7 @@
      "mins": 5,
      "do": "1. Put the two strips side by side. 2. Ask your child to say or write three things: what I think, what I saw, and why I think it happened.",
      "say": "Put the strips side by side. What do you think now about the colours in a leaf? What did you see that shows it? Why do you think the yellowing leaf looked different?",
-     "kid": "Compare the strips. What do you think now? What did you see? Why?",
+     "kid": "Point to each colour band on both strips. Then tell your three things.",
      "parent": "Here your child says what they think, what they saw that shows it, and why it happened. A strong answer sounds like this. What I think: a green leaf has yellow inside it too. What I saw: the green leaf made a green band and a yellow band. The yellowing leaf made a yellow band and hardly any green. Why: when a leaf gets old, the green goes first, and the yellow that was there is left. Now tell your child that trees do this before they drop their leaves in the dry season: they break down the green and take the useful parts back.",
      "check": {
       "t": "mcq",
@@ -980,7 +980,7 @@
      "what": "Shine a torch on squared paper straight down, at a slant and very low. Count the squares lit each time."
     }
    ],
-   "record": "Keep the paper with the three outlines drawn on it. Fill in the table, and draw a bar for each angle.",
+   "record": "Keep the paper with the three outlines on it. Fill in the table. Then show each angle with a row of beans, one bean for each square, or draw a bar.",
    "flow": [
     {
      "id": "s1",
@@ -995,7 +995,7 @@
      "mins": 3,
      "do": "Ask your child to guess, and write the guesses in the table.",
      "say": "First the torch will shine straight down. Then at a slant, like the Sun in the afternoon. Then very low, like the Sun near sunset. Which patch will be biggest? Which will be brightest? Why do you think so?",
-     "kid": "The torch will shine straight down, at a slant, and very low. Which patch will be biggest? Why?",
+     "kid": "Guess for each way of holding the torch. Say why.",
      "parent": "Don't give the answer. Some children think the light will be the same size every time, because it is the same torch."
     },
     {
@@ -1003,7 +1003,7 @@
      "mins": 6,
      "do": "1. Hold the torch straight above the dot, with the glass 20 cm from the paper. Use the ruler to check. 2. Your child draws round the edge of the bright patch in pencil. 3. Count the squares inside. Count a square if more than half of it is lit. 4. Do it twice.",
      "say": "Hold still. Draw round the edge of the bright part. Now count the squares inside.",
-     "kid": "Shine straight down. Draw round the bright patch. Count the squares.",
+     "kid": "Shine straight down. Draw round the bright patch, or trace its edge with a finger. Count the squares.",
      "parent": "Rest your elbow on the table to keep the torch steady. The edge of the patch may be fuzzy. Draw round the edge of the brightest part each time, so the counts are fair."
     },
     {
@@ -1030,7 +1030,7 @@
      "mins": 5,
      "do": "1. Look at the three outlines together. 2. Ask your child to say what they think, what they saw, and why it happened. 3. Then link it to the Sun.",
      "say": "In summer, the Sun at noon is high, nearly straight above us. In winter, it is lower in the sky. Which way of holding the torch was like the summer Sun? Which patch of ground would get warmer?",
-     "kid": "Which way of holding the torch was like the summer Sun? Which patch of ground warms more?",
+     "kid": "Point to the outlines, from the smallest patch to the biggest. Then pick the one like the summer Sun.",
      "parent": "A strong answer: what I think is that straight light warms the ground more. What I saw: the straight patch was smallest and brightest, and the low patch was biggest and dimmest. Why: the same light is packed into fewer squares when it falls straight down. The high summer Sun is like the straight torch. The days are also longer in summer, so the ground gets more hours of sunshine."
     }
    ],
@@ -1115,7 +1115,7 @@
      "mins": 5,
      "do": "1. Stand at a window or on the balcony together. 2. Look, listen and feel for one minute. 3. Then walk round the home and look for more clues: clothes drying, the fan, fruit in the kitchen, the calendar.",
      "say": "We are season detectives. Without looking at the calendar, can you find five clues that tell us what season it is? Look outside, listen, and feel the air. Then look round the house.",
-     "kid": "Find five clues of the season. Look, listen, feel. Then look round the house.",
+     "kid": "Look, listen and feel for one minute. Count your clues on your fingers.",
      "parent": "Good clues: how hot or damp the air feels, whether the fan is on, the clothes people wear, rain or dry dust, the fruit in the kitchen, birds calling, a tree with or without leaves, how long your shadow is, and festivals coming up.",
      "context": "This is a starting activity for the seasons unit. You look for clues that tell you what season it is right now."
     },
@@ -1124,7 +1124,7 @@
      "mins": 5,
      "do": "1. Read the clues together. 2. Ask your child to name the season and say which clue was the strongest. 3. Ask what will be different in three months.",
      "say": "So which season is it? Which clue made you most sure? What do you think will be different in three months' time?",
-     "kid": "Which season is it? Which clue is best? What will change in three months?",
+     "kid": "Name the season. Then show your grown-up the clue that made you sure.",
      "ask": [
       {
        "q": "Which clue is the best one, and why?",
@@ -1179,14 +1179,14 @@
      "what": "Put one bowl of coconut oil in the fridge and leave one in the room. After 30 minutes, compare them."
     }
    ],
-   "record": "Draw both bowls after 30 minutes. Write what each one looks like.",
+   "record": "Write what each bowl looks like after 30 minutes. You can also take a photo of both.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Put one teaspoon of liquid coconut oil in each bowl. 2. Ask your child to guess what will happen in the fridge. 3. Put one bowl in the fridge, not the freezer. Leave the other in the room.",
      "say": "In winter in Delhi, coconut oil goes white and hard in the bottle. Here is a small test. What do you think will happen to the oil in the fridge? Why?",
-     "kid": "One bowl goes in the fridge. One stays out. What will happen? Why?",
+     "kid": "Put one bowl in the fridge and leave one in the room.",
      "context": "This activity uses coconut oil to feel the difference between a warm season and a cold one."
     },
     {
@@ -1194,7 +1194,7 @@
      "mins": 6,
      "do": "1. After about 30 minutes, take the bowl out of the fridge. 2. Compare the two bowls. Tip each one gently. 3. Then hold the cold bowl in your warm hands and watch.",
      "say": "Look at both bowls. Tip them. What is different? Now hold the cold one in your hands. What happens?",
-     "kid": "Compare the bowls. Tip them. Hold the cold one. What happens?",
+     "kid": "Tip both bowls gently. Then warm the cold one in your hands.",
      "parent": "The fridge oil turns white and solid, because coconut oil sets below about 24 degrees Celsius. In your warm hands, it melts back to clear liquid within a few minutes. If your room is cooler than about 24 degrees, both bowls may set. Then warm one bowl in your hands.",
      "wait": "About 30 minutes later"
     },
@@ -1203,7 +1203,7 @@
      "mins": 5,
      "do": "Talk about where in India coconut oil goes solid, and when.",
      "say": "In Chennai and Kochi, the bottle stays liquid almost all year. In Bengaluru it often sets on cool winter mornings. In Delhi, it sets for most of the winter. What does that tell us about winter in these places?",
-     "kid": "Where in India does coconut oil go hard? What does that tell you?",
+     "kid": "Listen to where coconut oil goes hard. Think about what that says about winter there.",
      "check": {
       "t": "mcq",
       "q": "In January, coconut oil in Delhi is hard and white. In the same month, coconut oil in Kochi is clear and runny. Why?",
@@ -1271,7 +1271,7 @@
      "what": "Mark the edge again and compare all four marks. Keep going every week for as long as you like."
     }
    ],
-   "record": "Write the date on each tape mark. After a few months, draw where the patch has moved.",
+   "record": "Write the date on each tape mark. After a few months, take a photo of the marks, or draw where the patch has moved.",
    "flow": [
     {
      "id": "s1",
@@ -1287,7 +1287,7 @@
      "wait": "One week later",
      "do": "1. At the same time of day, mark the edge of the sun patch again. 2. Write the date.",
      "say": "Is the patch further into the room or nearer the window than last week? What does that tell you about how high the Sun is now?",
-     "kid": "Mark the edge again. Has it moved further into the room, or nearer the window?"
+     "kid": "Mark the new edge. Measure how far it moved, in hand-spans or with a ruler."
     },
     {
      "id": "s3",
@@ -1295,7 +1295,7 @@
      "wait": "Two weeks after the start",
      "do": "Mark the edge again and write the date.",
      "say": "Has the patch moved again? Is it moving the same way as last week?",
-     "kid": "Mark the edge again. Has it moved?"
+     "kid": "Mark the edge again. Look at all three marks."
     },
     {
      "id": "s4",
@@ -1303,11 +1303,11 @@
      "wait": "Three weeks after the start",
      "do": "1. Mark the edge a fourth time. 2. Compare the marks. 3. Keep going every week for as long as you like.",
      "say": "Look at the four marks. Which way is the patch moving? What does that tell you about the Sun?",
-     "kid": "Look at all four marks. Which way is the patch moving?",
+     "kid": "Look at the four marks in a row, from the first to the last.",
      "parent": "If the window faces south, in most of India the patch reaches deep into the room in December and January, when the midday Sun is low in the south. In April and May, the Sun is high and the patch stays near the window, or does not come in at all. The change from week to week is small, so in four weeks it may be only a few centimetres. It takes a few months to see clearly."
     }
    ],
-   "context": "A slow activity for a sunny window: mark where the sunlight lands on your floor each week, and watch it move with the seasons.",
+   "context": "A slow activity for a sunny window: mark where the sunlight lands on your floor each week. You will find out whether the Sun is getting higher or lower in the sky.",
    "setup": [
     {
      "art": "A patch of sunlight on a tiled floor below a window, with a strip of tape marking its inner edge and a date written on it.",
@@ -1363,9 +1363,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. In each month, draw or write one thing your family does or eats. 2. Add one plant and one animal you notice in that month.",
+     "do": "1. In each month, write one thing your family does or eats. A word is enough. 2. Add one plant and one animal you notice in that month. Draw them, or stick on a picture from an old magazine or calendar.",
      "say": "What do we eat in May? When is Pongal? When do we take out the umbrellas? When does the koel call?",
-     "kid": "Draw one food, one festival, one plant or animal in each month.",
+     "kid": "Write one food or festival in each month. Add a plant or an animal, drawn or cut from a magazine.",
      "parent": "Examples: mangoes and nungu in May, umbrellas and frogs in the rains, hilsa fish in Bengal in the rains, Diwali sweets, sevanthi garlands in December, Pongal and sugarcane in January, kites and sesame sweets for Uttarayan in Gujarat, Magh Bihu feasts in Assam, neem flowers at Ugadi."
     },
     {
@@ -1373,12 +1373,12 @@
      "mins": 4,
      "do": "Look at the finished wheel together.",
      "say": "The wheel comes back to January after December. What does that tell us about the seasons?",
-     "kid": "December leads back to January. What does that tell you?",
+     "kid": "Run your finger round the wheel, from January all the way back to January.",
      "think": "Does a year have a beginning, or is it a circle?",
      "parent": "A good answer: the seasons come round again in the same order every year, so the year has no end. After the cool months the hot months start again, and the wheel goes on turning."
     }
    ],
-   "context": "An activity to make a wheel of the year where you live, with its seasons, foods, festivals, plants and animals.",
+   "context": "You make a wheel of the year where you live. You will see which months are hot, rainy and cool, and what happens in each.",
    "setup": [
     {
      "art": "A paper plate split into 12 parts with the months written round the edge.",
@@ -1412,7 +1412,7 @@
      "what": "Ask an older person how one season felt when they were your age, and what has changed."
     }
    ],
-   "record": "Write down their answers. Draw one thing they told you.",
+   "record": "Write down their answers, or record their voice on a phone if they agree. Draw one thing they told you, or tell it to someone at home.",
    "flow": [
     {
      "id": "s1",
@@ -1436,11 +1436,11 @@
      "mins": 2,
      "do": "Talk about the answers.",
      "say": "What has stayed the same? What has changed? How could we check whether a memory is right?",
-     "kid": "What is the same? What changed? How could we check?",
+     "kid": "Sort the answers into two groups: same as today, and different from today.",
      "parent": "Memories are useful clues, but they can be wrong. Old weather records, photos and diaries can check them."
     }
    ],
-   "context": "An interview activity: ask an older person how a season felt when they were a child.",
+   "context": "An interview activity: ask an older person how a season felt when they were a child. You will find out what has changed since then, and what has stayed the same.",
    "setup": [
     {
      "art": "A girl with a notebook sitting next to an older woman on a sofa, asking questions.",
@@ -1496,14 +1496,14 @@
      "what": "Draw a fourth time. Compare all four pages and write what changed."
     }
    ],
-   "record": "Four diary pages, one a week. Each has a drawing, the date, the weather, the sunrise and sunset times, and one change you noticed.",
+   "record": "Four diary pages, one a week. Each has a drawing or a photo, the date, the weather, the sunrise and sunset times, and one change you noticed.",
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Choose one tree you can see from home, or a potted plant. 2. Draw the whole tree or plant. 3. Write the date and the weather. 4. Look up today's sunrise and sunset times, and work out the day length.",
+     "do": "1. Choose one tree you can see from home, or a potted plant. 2. Draw the whole tree or plant, or take a photo. 3. Write the date and the weather. 4. Look up today's sunrise and sunset times, and work out the day length.",
      "say": "We are going to watch one tree for four weeks, like a scientist. Every week, you draw the tree and write down what you see. Today is the first page.",
-     "kid": "Choose a tree. Draw the tree. Write the date, the weather, and the sunrise and sunset times.",
+     "kid": "Choose a tree. Draw the tree or take a photo. Write the date, the weather, and the sunrise and sunset times.",
      "parent": "A tree that is changing helps a lot: one dropping leaves, flowering or fruiting. In February to April, neem, peepal, gulmohar and the Indian almond often change fast. A potted plant works if you can't see a tree.",
      "context": "This is the first day of a four-week project. You keep a diary of one tree or plant, once a week."
     },
@@ -1511,25 +1511,25 @@
      "id": "s2",
      "mins": 10,
      "wait": "One week later",
-     "do": "1. Draw the same tree from the same place. 2. Write the date, weather and sunrise and sunset times. 3. Write one change since last week.",
+     "do": "1. Take a photo of the same tree from the same place, or draw the tree. 2. Write the date, weather and sunrise and sunset times. 3. Write one change since last week.",
      "say": "Look carefully. What is different from last week? New leaves? Fewer leaves? Flowers? A bird?",
-     "kid": "Draw the tree again. What is different from last week?"
+     "kid": "Take the picture from the same place. Look for what is different."
     },
     {
      "id": "s3",
      "mins": 10,
      "wait": "Two weeks after the start",
-     "do": "Draw and write again. Add any animal you saw on or near the tree.",
+     "do": "Write the date, weather and sunrise and sunset times again. Count the bare branches or new leaves you can see. Add any animal you saw on or near the tree.",
      "say": "Did you see any birds, squirrels or insects visiting the tree this week? What were they doing?",
-     "kid": "Draw again. Did any animal visit the tree? What did the animal do?"
+     "kid": "Count the bare branches or new leaves. Look for any animal on the tree."
     },
     {
      "id": "s4",
      "mins": 10,
      "wait": "Three weeks after the start",
-     "do": "1. Draw a fourth time. 2. Lay all four pages side by side. 3. Write three changes you saw, and whether the days got longer or shorter.",
+     "do": "1. Take or draw a fourth picture. 2. Lay all four pages side by side. 3. Write three changes you saw, and whether the days got longer or shorter.",
      "say": "Put all four pages side by side. What changed in the tree? What changed in the day length? Do you think the two are linked?",
-     "kid": "Look at all four pages. What changed? Did the days get longer or shorter?",
+     "kid": "Lay the four pictures in a row. Point to each change you can see.",
      "check": {
       "t": "mcq",
       "q": "From February to March, a neem tree drops yellow leaves and then grows new ones. What is the best reason?",
@@ -1543,7 +1543,7 @@
      }
     }
    ],
-   "context": "A four-week project: keep a diary of one tree or plant, and watch how the tree or plant changes with the season.",
+   "context": "A four-week project: keep a diary of one tree or plant. You will find out how they change as the days get longer or shorter.",
    "setup": [
     {
      "art": "A child at a balcony drawing a neem tree in a notebook, with the date and weather written at the top of the page.",
@@ -1582,15 +1582,15 @@
     "Put the clay saucer inside a slightly bigger one, with a little water between them. The water slowly dries and takes heat away, so the bowl stays cool for longer.",
     "Hang a second bowl under the edge of a sunshade, so it is in shade all afternoon."
    ],
-   "your_turn": "Now design your own bird water bowl. Draw it, build it, put it out, and record which birds visit in a week.",
+   "your_turn": "Now design your own bird water bowl. Plan it with a drawing or a few words, build it, put it out, and record which birds visit in a week.",
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem together and draw two ideas.",
-     "say": "Birds need water most in the hottest weeks, when puddles have dried up. What would make a bowl safe, cool and steady? Let's each draw two ideas.",
-     "kid": "Birds need water in summer. Draw two ideas for a bowl. Each bowl must be safe, cool and steady.",
-     "context": "This is a design challenge. You make a water bowl that helps city birds through the hot season."
+     "do": "Read the problem together and show two ideas, by drawing them or by arranging the saucer, stones and brick.",
+     "say": "Birds need water most in the hottest weeks, when puddles have dried up. What would make a bowl safe, cool and steady? Let's each show two ideas.",
+     "kid": "Birds need water in summer. Show two ideas for a bowl, drawn or built. Each bowl must be safe, cool and steady.",
+     "context": "This is a design challenge. You make a water bowl that helps city birds through the hot season. You will find out which birds come to drink."
     },
     {
      "id": "s2",
@@ -1605,7 +1605,7 @@
      "mins": 7,
      "do": "Read the usual and creative ideas, and plan a week of watching.",
      "say": "Here are some other ideas. Can you make yours better? Which bird do you think will come first?",
-     "kid": "Read the other ideas. Which bird do you think will come first?",
+     "kid": "Read the other ideas. Pick one to add to your bowl.",
      "check": {
       "t": "mcq",
       "q": "Why should the water in a bird bowl be changed every day?",
@@ -1657,22 +1657,22 @@
     "Use a wet cloth as the shade, so it cools as it dries, like a wet khus curtain.",
     "Copy a thatched roof with dry grass or a jute sack."
    ],
-   "your_turn": "Now design your own summer shade. Draw it, build it, test it against a box with no shade, and try to beat your first design.",
+   "your_turn": "Now design your own summer shade. Plan it with a drawing or a few words, build it, test it against a box with no shade, and try to beat your first design.",
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem and draw two shade ideas.",
-     "say": "How do people stop the Sun heating their homes in summer? Think of sunshades, curtains and thatch. Draw two ideas for a shade for this box.",
-     "kid": "How do homes stay cool in summer? Draw two shade ideas.",
-     "context": "This is a design challenge for a sunny day. You make a shade that keeps an ice cube from melting fast in a shoebox."
+     "do": "Read the problem. Try two shade ideas on the box with the card, newspaper and cloth, or draw them.",
+     "say": "How do people stop the Sun heating their homes in summer? Think of sunshades, curtains and thatch. Show me two ideas for a shade for this box.",
+     "kid": "Hold the card, newspaper and cloth over the box to try two shade ideas. Or draw them.",
+     "context": "This is a design challenge for a sunny day. You make a shade for a shoebox. You will find out how much longer the ice lasts in the shade."
     },
     {
      "id": "s2",
      "mins": 27,
      "do": "1. Build the shade on one box. 2. Take the ice cubes out of the freezer only when you are ready, and put one on a plate inside each box. 3. Put both boxes side by side in full sunshine, facing the same way. 4. Check every 10 minutes. 5. Note which ice cube is smaller.",
      "say": "Both boxes are in the same sun. Only the shade is different. Check every 10 minutes. Which ice is melting slower?",
-     "kid": "Put both boxes in the sun. Check every 10 minutes. Which ice cube melts slower?",
+     "kid": "Put both boxes in the sun. Look at both ice cubes every 10 minutes.",
      "parent": "The ice in the shaded box should stay bigger. If both melt at the same speed, the shade may be touching the box and passing its heat on. Try leaving a gap of air."
     },
     {
@@ -1680,7 +1680,7 @@
      "mins": 5,
      "do": "Compare the ice cubes and read the other ideas.",
      "say": "Which ice cube lasted longer? Why do you think your shade worked? How could you make it better?",
-     "kid": "Which ice lasted longer? Why? How could you make it better?",
+     "kid": "Hold the two plates side by side. Then change one thing about your shade.",
      "check": {
       "t": "mcq",
       "q": "Why did the shaded box keep its ice longer?",

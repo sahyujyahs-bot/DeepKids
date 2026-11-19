@@ -288,7 +288,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - **s2 (4 min)**  
   *Parent does:* Play a practice round with everyone watching. Put the steel spoon, glass bangle, aluminium foil ball and brass kindi on the YES mat. Put the wooden spoon, rubber band and woollen sock on the NO mat. Ask what the rule is.  
   *Parent says:* Look at the YES mat and the NO mat. Can you work out the secret rule?  
-  *Child mode:* Look at what is on the YES mat. Look at what is on the NO mat. What is the secret rule? Say your answer.
+  *Child mode:* Look at what is on the YES mat and the NO mat. What do all the YES things share?
   - Ask: How did you work out the rule? (good: I looked for what the YES things all have that the NO things do not.; I tried a rule in my head and checked it on every card.)
   - Check: YES: steel spoon, glass bangle, aluminium foil ball, brass kindi. NO: wooden spoon, rubber band, woollen sock. What is the rule? → **Is it shiny?**
 - **s3 (10 min)**  
@@ -298,14 +298,14 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   - Note: Let the Sorter be a child, so they think hard about their own rule. If the Sorter is unsure about a card, say 'Test it!' and do the test together. Rules with an exact test, like the fingernail test, are the fairest.
 - **s4 (3 min)**  
   *Parent does:* Pause on a card that was hard to place, such as the candle, the plastic bottle or the coconut shell. Ask how the Sorter decided.  
-  *Parent says:* That one was a tricky middle. How did the Sorter decide where it went? What could we do with a card like that?  
+  *Parent says:* That card was a tricky middle. It could go on either mat.  
   *Child mode:* Some cards are tricky. Which card was hardest to place? How did you decide?
   - Ask: What can we do with a card that sits between YES and NO? (good: Use a test.; Make a middle pile.; Make the rule more exact.)
   - Think: Could two different rules put all the cards in the same places? Which card would tell the two rules apart?
 - **s5 (1 min)**  
   *Parent does:* Count the tokens to find the winner. Then look at the rule cards you used.  
   *Parent says:* Which rules were easy to guess? Which were hard? Was a rule with a test fairer than a rule without one?  
-  *Child mode:* Count your tokens. Who won? Which rule was hardest to guess?
+  *Child mode:* Count your tokens. Who won?
   - Think: Why is 'Is it pretty?' a bad rule for this game?
 ### g2 · Find the Missing Card (20 min)
 - **rules:** Cut out the 12 Zib cards and colour each border. Lay the mat flat. The Keeper takes away three Zib cards and hides them face down. In the first game, hide Zib 6, Zib 7 and Zib 12. In later games the Keeper picks any three, but no two from the same column.; The other players put the 9 cards that are left on the squares with the same numbers, in rows of four. The empty squares show which numbers are missing.; Look down each column. What is the same? What changes as you go down?; For each empty square, write a guess on the guess sheet. Guess the border colour and the bounce number of the missing Zib.; The Keeper turns over the hidden cards. Each guesser scores 1 point for each correct colour and 1 point for each correct bounce number, up to 6 points. The guesser with the most points wins. If guessers tie, they share the win. A single guesser tries to score all 6.; Swap the Keeper and play again with three new hidden cards. With 2 players, the parent is the Keeper first and then the child.
@@ -318,8 +318,8 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Child mode:* Cut out the Zib cards and colour the borders. The Keeper hides three of them. Lay the table mat flat. Now the detective work begins.
 - **s2 (6 min)**  
   *Parent does:* 1. Put the 9 cards on the table, in order of their numbers, four to a row. 2. Leave a gap where a number is missing. 3. Look down each column.  
-  *Parent says:* Put the cards in number order, four in each row. Now look down the first column. What do you notice?  
-  *Child mode:* Put the cards in number order, four in a row. Leave a gap where a card is missing. Look down each column. What do you see?
+  *Parent says:* Put the cards in number order, four in each row. Leave a gap for each missing card. Now look down the first column.  
+  *Child mode:* Put the cards in number order, four in a row. Leave a gap where a card is missing. Look down each column.
   - Ask: What do you notice about the cards in each column? (good: They have the same coloured border.; The bounce number goes up by 2 as you go down.)
   - Check: Zib 1, Zib 5 and Zib 9 sit in the same column. What is the same about them? → **They all have a red border**
 - **s3 (6 min)**  
@@ -344,34 +344,34 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - **predict:** Before you start, guess two things, and say why you think so. Will the hard group be the same size as the shiny group? Will any thing land in the same kind of group every time?
 - **fair test:** Use the same twelve things every time. Write the rule before you start sorting. Use the same test for every thing, in the same way. Change only the rule.
 - **safety:** Choose things with no sharp edges.
-- **record:** Fill in the results table. Count the things in each group and make a tally. Then draw a bar chart with one bar for each box of the Carroll table.
+- **record:** Fill in the results table. Count the things in each group and make a tally. Then show the counts as a bar chart, drawn or built from coins, one bar for each box of the Carroll table.
 - **results table:** Thing | Rule 1: hard or soft? (fingernail test) | Rule 2: shiny or dull? | Rule 3: a rule you chose
 - **s1 (3 min)**  
   *Parent does:* 1. Collect twelve things, each made of just one material. 2. Put them in a heap on the floor. 3. Ask your child to guess two things. Will the hard group be the same size as the shiny group? Will any thing land in the same kind of group every time?  
   *Parent says:* Here is a heap of twelve things. We are going to sort them three times, with three different rules. What do you think will happen?  
-  *Child mode:* Make a heap of twelve things. Guess how big each group will be. Guess if any thing stays in the same kind of group.
+  *Child mode:* Make a heap of twelve things. Guess if the hard group and the shiny group will be the same size.
   - Ask: Do you think one thing could be in a different group every time? (good: Yes, a spoon can be hard and shiny and metal, all at once.; It depends on the rule.)
 - **s2 (6 min)**  
-  *Parent does:* 1. Write the rule 'Is it hard?' on a sheet. Explain the test: press a fingernail into each thing. If it leaves a mark or sinks in, it is soft. If it does neither, it is hard. 2. Test each thing. 3. Put the hard things on one sheet and the soft ones on the other. 4. Photograph the groups and write them in the results table.  
+  *Parent does:* 1. Write the rule 'Is it hard?' on a sheet. Say the test aloud. 2. Test each thing. 3. Put the hard things on one sheet and the soft ones on the other. 4. Photograph the groups and write them in the results table.  
   *Parent says:* Here is a fair test for hard and soft. Press a fingernail into it. If it leaves a mark or sinks in, it is soft. If it does neither, it is hard. We will use the same test on every single thing.  
-  *Child mode:* Rule 1: hard or soft. Press your fingernail into each thing. A mark or a dent means soft. No mark and no dent means hard. Make two groups.
+  *Child mode:* Rule 1: hard or soft. Test every thing with your fingernail. Make two groups.
   - Note: Some things are tricky. A candle takes a fingernail mark, so it is soft by this test, even though it feels solid. A foil ball may surprise you too: it is shiny, but it takes a fingernail mark. Let the test decide, not the guess.
   - Check: Why do we use the same fingernail test on every thing? → **So the sort is fair**
 - **s3 (5 min)**  
   *Parent does:* 1. Mix all twelve things again. 2. Write the rule 'Is it shiny?' on a sheet. Decide the test: a thing is shiny if it shows a clear picture of your face, or a bright spot of light from a phone torch. 3. Sort. 4. Photograph the groups and record them.  
   *Parent says:* Mix them all up. This time the question is: is it shiny? If you can see your face in it, or a bright spot of light from a phone torch, it is shiny.  
-  *Child mode:* Rule 2: shiny or dull. Mix up all the things. Is it shiny? Can you see your face in it? Sort into two groups.
+  *Child mode:* Rule 2: shiny or dull. Mix up all the things. Sort them into two groups.
   - Note: Notice that the groups are not the same as before. A steel spoon is hard and shiny. A foil ball is soft and shiny. A wooden spoon is hard and dull.
 - **s4 (6 min)**  
   *Parent does:* 1. Mix the things again. 2. Ask your child to choose a rule of their own with an exact test. 3. Sort the things. 4. Write the rule and the groups in the results table.  
   *Parent says:* Now choose your own rule. It must have a yes or no answer, and a test everyone can use.  
-  *Child mode:* Rule 3: you choose. Make a rule with a yes or no answer. Think of a test for it. Sort all twelve things.
+  *Child mode:* Rule 3: you choose. Make up your own yes or no rule. Then sort all twelve things.
   - Ask: What is your rule, and what is the test? (good: Does it sink in water?; Is it made of metal?; Does it bend when I press it?; Does it feel cold when I touch it?)
   - Note: Good rules include: Does it float? Is it smaller than my palm? Can I see through it? Does it make a noise when tapped? Rules like 'Is it nice?' do not work because they have no test.
 - **s5 (7 min)**  
-  *Parent does:* 1. Make a Carroll table with the results of Rule 1 and Rule 2, using four boxes. 2. Write each thing in the right box. 3. Count the things in each box and make tally marks. 4. Draw a bar chart with one bar for each box.  
+  *Parent does:* 1. Make a Carroll table with the results of Rule 1 and Rule 2, using four boxes. 2. Write each thing in the right box. 3. Count the things in each box and make tally marks. 4. Show the counts as a bar chart, drawn or built from coins, one bar for each box.  
   *Parent says:* Put each thing into one of four boxes: hard and shiny, hard and dull, soft and shiny, soft and dull. Then let's count the things in each box.  
-  *Child mode:* Make a table with four boxes. Put each thing in its box. Count the things in each box. Draw a bar for each box.
+  *Child mode:* Make a table with four boxes. Put each thing in its box. Count the things in each box. Show each count as a bar, drawn or made with coins.
   - Check: A thing is in the 'soft and shiny' box of the Carroll table. Which two rules does it fit? → **Soft, and shiny**
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -384,7 +384,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - **predict:** Before you test, put your eight things in a line. Put the one you think is softest first and the hardest last. Say why you put each one there.
 - **fair test:** Use the same tool on every thing, with the same push, over the same short scratch. Try each thing twice. Test with the fingernail first, then with the steel nail.
 - **safety:** A grown-up holds the steel nail or watches closely. Scratch away from your body. Drag gently on the mug and the jar, and do not press hard on glass. Do not scratch things that are precious or that belong to someone else.
-- **record:** Fill in the table. Then draw a ladder with three rungs. Write the names of the things on the right rung.
+- **record:** Fill in the table. Then photograph your ladder, with each thing on the right rung.
 - **results table:** Thing | Does a fingernail mark it? | Does a steel nail scratch it? | Which rung?
 - **s1 (4 min)**  
   *Parent does:* 1. Put the eight things on a tray. 2. Ask your child to line them up from softest to hardest, by guessing. 3. Take a photo of the line.  
@@ -402,9 +402,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Child mode:* Test two: a steel nail. A grown-up holds it. Use it on the things your fingernail could not mark. Look for a scratch.
   - Check: A thing is marked by the steel nail but not by a fingernail. Is it harder or softer than a thing that a fingernail marks? → **Harder**
 - **s4 (5 min)**  
-  *Parent does:* 1. Draw a ladder with three rungs. 2. Write the things on the right rung. Rung 1: a fingernail marks it. Rung 2: only the steel nail marks it. Rung 3: even the steel nail does not mark it. 3. Compare the ladder with the line your child guessed at the start.  
+  *Parent does:* 1. Make a ladder on the floor from three paper strips. 2. Put the things on the right rung. Rung 1: a fingernail marks it. Rung 2: only the steel nail marks it. Rung 3: even the steel nail does not mark it. 3. Compare the ladder with the line your child guessed at the start.  
   *Parent says:* Here is the scratch ladder. Rung one is softest, and rung three is hardest. Put each thing on its rung. Was your guessed line right?  
-  *Child mode:* Draw a ladder with three rungs. Rung 1 is softest. Rung 3 is hardest. Put each thing on its rung. Compare with your guess.
+  *Child mode:* Make a ladder from three paper strips. Rung 1 is softest. Rung 3 is hardest. Put each thing on its rung. Compare with your guess.
   - Note: Expect soap, chalk, candle and the foil container on rung 1. Expect the wooden spoon and plastic comb on rung 2. Expect the mug and the glass jar on rung 3. The nail may leave a grey line of metal on the glass. It wipes off, so it is not a scratch. A different result is fine. Wood and plastics vary a lot.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -416,7 +416,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - **question:** Which makes a faster branching key: a first question that splits the eight things four and four, or one question for each thing?
 - **predict:** Before you play, guess, and say why you think so. Which key finds a secret object in fewer questions? One key splits eight things into four and four. The other picks out one thing at a time.
 - **fair test:** Use the same eight things for both keys. Each thing is picked once for each key. The same person answers all the questions. Change only the key.
-- **record:** Fill in the table. Then draw a bar chart of the average number of questions for each key.
+- **record:** Fill in the table. Then write the two averages side by side, or draw a bar chart of them.
 - **results table:** Secret thing | Questions needed with Key A | Questions needed with Key B
 - **s1 (5 min)**  
   *Parent does:* 1. Lay out the eight things. 2. Draw Key A on a big sheet. First question: 'Is it hard?' Hard things: steel spoon, wooden spoon, comb, bangle. Soft: rubber band, sock, hanky, candle. 3. Ask your child to add questions to each branch, until each thing is alone.  
@@ -434,9 +434,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Child mode:* Your helper picks a secret thing. Use Key A to find it. Count the questions. Do all eight things. Then do Key B.
   - Note: With Key A every thing is found in exactly 3 questions. With Key B the counts are 1, 2, 3, 4, 5, 6, 7 and 7. The last two things need 7 each. After 6 'no' answers only 2 are left, and one more question tells them apart.
 - **s4 (4 min)**  
-  *Parent does:* 1. Work out the average for each key: add all eight counts and divide by 8. 2. Draw the bar chart. 3. Compare with what your child guessed before playing.  
+  *Parent does:* 1. Work out the average for each key: add all eight counts and divide by 8. 2. Write the two averages side by side, or draw a bar for each. 3. Compare with what your child guessed before playing.  
   *Parent says:* Let's find the average number of questions for each key. We add the eight counts together and divide by eight.  
-  *Child mode:* Add up the eight counts for each key. Divide by 8 to find the average. Draw a bar for each key.
+  *Child mode:* Add up the eight counts for each key. Divide by 8 to find the average. Which key has the smaller average?
   - Check: Key A needed 3 questions for every thing. Key B needed 1, 2, 3, 4, 5, 6, 7 and 7. Which key is better for finding a thing when you do not know which it is? → **Key A, because it takes the same short time for every thing**
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -475,11 +475,11 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 ## Activities
 ### a1 · Sort the Kitchen Drawer (20 min)
 - **safety:** Sharp knives, peelers and graters stay out of the drawer for this game. A grown-up handles them.
-- **record:** Write down the three rules you used. Draw one of your groupings.
+- **record:** Write down the three rules you used. Keep the photos of your groupings.
 - **s1 (5 min)**  
   *Parent does:* 1. Pull out the kitchen drawer. 2. Look at how things are arranged now. 3. Ask your child to work out the rule the family uses.  
   *Parent says:* Someone sorted this drawer long ago. There is a rule hiding in the way things are put away. Can you spot it?  
-  *Child mode:* Look at the drawer. How are things arranged? What rule do you think someone used?
+  *Child mode:* Look at the drawer. How are things arranged?
   - Ask: What is the rule for how things are put away? (good: Spoons together, forks together.; Things we use for eating are here, things for cooking are there.; Big things at the back, little things at the front.)
 - **s2 (10 min)**  
   *Parent does:* 1. Take everything out and put it on a table. 2. Sort by a new rule: what it is made of. 3. Mix and sort again: by what it is used for. 4. Take a photo of each sort.  
@@ -492,11 +492,11 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Child mode:* Put the things back using the rule you like best. Why is it the best?
   - Think: Does the best rule depend on what you want to do? You might want to find a spoon fast, or clean the drawer.
 ### a2 · The Floor Venn (15 min)
-- **record:** Draw your Venn diagram and write the names of the things in the right places.
+- **record:** Take a photo of your Venn diagram. Write the names of the things in the right places.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the two dupattas or hoops on the floor so that they overlap in the middle. 2. Label one circle 'Shiny' and the other 'Hard'. 3. Put the ten things in a heap.  
   *Parent says:* Here are two circles that overlap. One is for shiny things. One is for hard things. What do you think goes in the middle, where the circles overlap?  
-  *Child mode:* Make two overlapping circles on the floor. Label one Shiny. Label the other Hard. What goes in the middle?
+  *Child mode:* Make two overlapping circles on the floor. Label one Shiny. Label the other Hard.
 - **s2 (7 min)**  
   *Parent does:* 1. Pick up each thing. 2. Decide: shiny, hard, both or neither? 3. Place it in the right part. Both goes in the overlap. Neither goes outside both circles. 4. Count the things in each part.  
   *Parent says:* Pick up each thing and ask both questions. Is it shiny? Is it hard? Put it in the right place. If it is both, it goes in the middle.  
@@ -510,7 +510,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   - Think: Did the things change? Or only the rule?
 ### a3 · Dal Detective and the Muram (20 min)
 - **safety:** A grown-up mixes in the stones or salt. Do not cook this dal afterwards.
-- **record:** Draw the three piles: dal, stones and leaf flakes. Write the rule used to make each pile.
+- **record:** Photograph the three piles: dal, stones and leaf flakes. Write the rule used to make each pile.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up mixes the stones or salt crystals and the leaf flakes into the dal. 2. Spread the dal on a plate. 3. Ask your child to pick out the stones one at a time.  
   *Parent says:* In many homes, someone picks stones out of dal before cooking. That is sorting, and it has a rule. Is it dal, or is it not dal?  
@@ -524,12 +524,12 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - **s3 (7 min)**  
   *Parent does:* Look at the three piles: dal, stones and leaf flakes. Ask how many rules were used.  
   *Parent says:* We made three piles with two different rules. What were the rules? Which rule used hands, and which used the wind?  
-  *Child mode:* Look at your three piles. How many rules did you use? Which rule used your hands? Which used the wind?
+  *Child mode:* Look at your three piles. Point to the pile your hands picked out. Point to the pile the wind blew away.
   - Note: A sieve is the better tool. Chana is bigger than a grain of rice, so the rice falls through the holes and the chana stays on top. The wind would not help, because chana and rice are both heavy.
   - Think: The wind sorts by weight, and a sieve sorts by size. Which would you use to take chana out of rice? Why?
 ### a4 · Model Recycling Line (25 min)
 - **safety:** Keep paper clips and small bits away from children under five.
-- **record:** Draw your recycling line in order. Write the rule at each step.
+- **record:** Tell a grown-up your recycling line in order, or draw it. Write the rule at each step.
 - **s1 (6 min)**  
   *Parent does:* 1. Tip the mixed bits on a tray. 2. Ask your child to plan the order of sorting steps. They may use blowing, a magnet and a bowl of water. 3. Write the plan.  
   *Parent says:* A recycling plant sorts in steps. Each step has one rule. You have three tools: your breath, a magnet and a bowl of water. In what order will you use them?  
@@ -543,17 +543,17 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - **s3 (5 min)**  
   *Parent does:* Compare the plan from step one with what you did. Ask what you would change.  
   *Parent says:* Did your plan work? If you did it again, would you change the order? Why?  
-  *Child mode:* Did your plan work? Would you change the order? Why?
+  *Child mode:* Look at your plan and at what you did. What would you change?
   - Note: Our eyes and a magnet cannot tell the plastics apart. A camera that sees invisible light can, because each kind of plastic gives back that light in its own way. Every sorting step needs a rule that the things really answer differently.
   - Think: Bottles made of different plastics look the same, and a magnet does not attract any plastic. So why would a real plant use a camera that sees invisible light?
 ### a5 · Star Sorter: be Annie (20 min)
 - **problem:** Astronomers sort stars by the colour of their light. A piece of iron in a fire glows red at first. As it gets hotter, it glows yellow and then white. In the same way, the coolest stars glow red and the hottest stars glow blue-white. You put seven coloured circles in order, from hottest to coolest.
 - **safety:** Stay away from the edge of a balcony or terrace.
-- **record:** Draw a long strip with the seven colours in order. Write the letters O B A F G K M under them.
+- **record:** Take a photo of your strip with the seven colours in order and the letters O B A F G K M under them.
 - **s1 (6 min)**  
   *Parent does:* 1. Mix up the seven coloured circles. 2. Say: a piece of iron in a fire glows red first. As it gets hotter, it glows yellow, then white. The hottest stars glow blue-white. 3. Ask your child to sort the circles from hottest to coolest star.  
   *Parent says:* Look at these seven stars. A blacksmith's iron glows red, then yellow, then white as it heats up. The hottest stars of all glow blue-white. Can you sort the stars from hottest to coolest?  
-  *Child mode:* Mix up the colour circles. Hot iron glows red, then yellow, then white. The hottest stars are blue-white. Sort the stars from hottest to coolest.
+  *Child mode:* Mix up the colour circles. Sort them from the hottest star to the coolest star.
   - Check: Which star is hotter on its surface, a blue star or a red star? → **The blue star**
 - **s2 (8 min)**  
   *Parent does:* 1. Write letters under the colours. O is blue and B is light blue. A is white and F is light yellow. G is yellow, K is orange and M is red. 2. Show that the Sun is G. 3. Explain that Annie Jump Cannon sorted about 350,000 stars into these types.  
@@ -568,7 +568,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   - Note: The blue-white star, Rigel, is hotter. The red star, Betelgeuse, is cooler. The light we see left those stars hundreds of years ago, and its colour still tells us how hot each star is.
   - Think: The colour of a star tells us how hot it is, even from very far away. Which of the two stars is hotter, the blue-white one or the red one?
 ### a6 · Which Circles Are You In? (15 min)
-- **record:** Draw yourself in a Venn diagram of two circles you belong to. Write the names of the circles.
+- **record:** Take a photo of your family standing in the circles, or draw yourself in two circles you belong to. Write the names of the circles.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay two overlapping circles on the floor. 2. Label them with friendly rules, such as 'Wearing blue' and 'Likes dosa'. 3. Explain that everyone will stand in the right place.  
   *Parent says:* Today we are the things being sorted. Let's use two friendly rules. Wearing something blue. And, likes dosa. Where will you stand?  
@@ -582,7 +582,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - **s3 (5 min)**  
   *Parent does:* Sit and talk about belonging to many groups at once.  
   *Parent says:* You were in a different place for each rule. You belong to many groups at once. No one rule says who you are.  
-  *Child mode:* You were in a different place for each rule. You belong to lots of groups. No single rule says who you are.
+  *Child mode:* Think of one more group you belong to, that is not one of the two circles.
   - Think: Why might it be unfair to sort people with just one rule?
 ### a7 · Oobleck: Solid or Liquid? (20 min)
 - **problem:** Materials are often sorted as solid, liquid or gas. Some everyday materials do not fit neatly into one of these groups. You make one of them from cornflour and water. Then you decide where it belongs.
@@ -590,7 +590,7 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
 - **record:** Write down what it did when you moved slowly and when you hit it. Write which group you chose and why.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Put two cups of cornflour in the bowl. 2. Add the water a little at a time, mixing with your hand. 3. Stop when it feels thick but still runs when you tilt the bowl.  
-  *Parent says:* This is called oobleck. The name comes from a Dr Seuss story. Mix slowly. We want it thick, but still able to drip.  
+  *Parent says:* This is called oobleck. Mix slowly. We want it thick, but still able to drip.  
   *Child mode:* Put cornflour in a bowl. Add water a little at a time. Mix with your hand. Stop when it is thick but drips.
 - **s2 (10 min)**  
   *Parent does:* 1. Move your fingers slowly through it. 2. Now punch it, or press it hard. 3. Scoop some up and roll it quickly in your hands. 4. Stop rolling and watch it.  
@@ -653,9 +653,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent says:* Here is a jar with five kinds of thing all mixed together. For each kind, which tool might take it out? A magnet? A sieve? Your breath? Water?  
   *Child mode:* Look at the jar. Name the five kinds of things. For each one, which tool might take it out?
 - **s2 (5 min)**  
-  *Parent does:* Before trying anything, draw a plan of the steps, in order.  
-  *Parent says:* Before we try anything, let's think like engineers. Draw your plan. Which comes first, second and third?  
-  *Child mode:* Think like an engineer. Draw your plan. What comes first? What comes next?
+  *Parent does:* Before trying anything, plan the steps in order. Lay the tools in a row, or draw it.  
+  *Parent says:* Before we try anything, let's think like engineers. Which comes first, second and third? Lay the tools in a row, or draw your plan.  
+  *Child mode:* Think like an engineer. Plan your steps with the tools in a row, or draw it. What comes first? What comes next?
 - **s3 (15 min)**  
   *Parent does:* 1. Try the plan. 2. Time it. 3. Count the steps. 4. Try one change and time it again.  
   *Parent says:* Try your plan and time it. Then change one thing and try again. Which version is faster?  
@@ -677,9 +677,9 @@ I hang now on a hill above Kharsoli, in a frame of iron. Each morning a child pu
   *Parent says:* A good key works for the person using it. Who will use ours? What can they do: look, touch, listen or smell?  
   *Child mode:* Choose ten things. Think about who will use your key. What can they do? See? Touch? Hear?
 - **s2 (10 min)**  
-  *Parent does:* 1. Write the questions on paper. 2. Draw a picture or a symbol for each one. 3. Build the key as a chain of pages, or as a tree.  
+  *Parent does:* 1. Write the questions on paper. 2. Show each question as a picture, a symbol or something to touch. 3. Build the key as a chain of pages, or as a tree.  
   *Parent says:* Now draw the questions as pictures or symbols. A green tick for yes. A red cross for no. One question on each page.  
-  *Child mode:* Draw each question as a picture. Use a tick for yes and a cross for no. Make your key, page by page.
+  *Child mode:* Draw each question as a picture, or make it something to feel. Use a tick for yes and a cross for no. Make your key, page by page.
   - Note: Think about the first question carefully. It should split the ten things roughly in half. If you want a key that can be felt, use cardboard shapes with different textures for yes and no.
 - **s3 (10 min)**  
   *Parent does:* 1. Ask your tester to find a secret thing using the key. 2. Do not help. 3. Write down what confuses them. 4. Fix it.  

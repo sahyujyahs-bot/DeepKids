@@ -738,7 +738,7 @@
      "mins": 3,
      "do": "Draw the first Level 1 card and play it together.",
      "say": "Here's our first order. Two coins sit on peg 2 on the left. Where should we put two coins on the right?",
-     "kid": "First order: 2 coins on left peg 2. Where do 2 coins go on the right? Say your guess. Then try it.",
+     "kid": "First order: 2 coins on left peg 2. Say your guess for your 2 coins. Then try it.",
      "ask": [
       {
        "q": "Why did the same coins need the same peg?",
@@ -765,7 +765,7 @@
      "mins": 9,
      "do": "1. Take turns with the cards of Level 1, then Level 2, then Level 3. 2. Each player says a plan before placing coins. 3. Move up a level when the cards of a level are used up.",
      "say": "Now the number of coins on each side is different. Can fewer coins balance more coins? Where would they have to sit?",
-     "kid": "Take turns. Read a card. Say your plan out loud first. Can fewer coins balance more coins? Where should they sit?",
+     "kid": "Take turns. Read a card. Say your plan out loud before you place the coins.",
      "parent": "The rule is coins times peg number must match on both sides. For example, 2 coins on peg 2 makes 2 times 2, which is 4. 1 coin on peg 4 makes 1 times 4, which is also 4. Let your child find this by trying. Only say the rule after they have spotted a pattern. The ruler will not always sit perfectly level. If it rocks, or stays up when you let go, it is balanced. If one end drops to the table and stays there, it has tipped.",
      "ask": [
       {
@@ -782,7 +782,7 @@
      "mins": 3,
      "do": "Play the 4 Predict cards. Everyone says tip left, tip right, or balance, before you test.",
      "say": "Before we test, everyone guess. Will it tip left, tip right, or balance? Let's see who was right.",
-     "kid": "Predict card! Guess first: tip left, tip right, or balance? Then test it.",
+     "kid": "Predict card! Say your guess before you test it.",
      "check": {
       "t": "mcq",
       "q": "Predict card: 2 coins on left peg 4, 4 coins on right peg 2. Say your guess. What happens?",
@@ -800,7 +800,7 @@
      "mins": 5,
      "do": "Play the 4 Level 4 mystery cards. Use the rule to find the weight of each object in coins.",
      "say": "Now we're detectives. A tarazu, the vegetable seller's weighing scale, weighs vegetables by balancing them against known weights. How many coins does the eraser weigh?",
-     "kid": "Mystery card! The eraser balances some coins. How many coins does the eraser weigh? Use the rule to find out.",
+     "kid": "Mystery card! The eraser balances some coins. Use coins times distance to find out how many coins it weighs.",
      "think": "Could you weigh a pencil with this ruler and some coins? How would you do it?",
      "parent": "Yes. Put the pencil on one side at a known distance, and slide coins along the other side until the ruler balances. Then use coins times distance on both sides to find the pencil's weight in coins."
     },
@@ -1928,7 +1928,7 @@
      "what": "Lift the truck straight up, then pull it up a short ramp and a long ramp. Measure the rubber band stretch each time."
     }
    ],
-   "record": "Fill in the table. Draw a bar chart with one bar for each way. The truck travelled the length of the ramp each time. For the straight lift, it travelled the height of the book pile.",
+   "record": "Fill in the table. Lay a string for each way side by side, or draw a bar chart. The truck travelled the length of the ramp each time. For the straight lift, it travelled the height of the book pile.",
    "flow": [
     {
      "id": "s1",
@@ -1968,7 +1968,7 @@
      "mins": 5,
      "do": "Measure how long each ramp is, and compare the distances the truck travelled.",
      "say": "Here's the catch. The long ramp needed less pull. But how far did the truck go?",
-     "kid": "Measure each ramp. How far did the truck travel each time? The long ramp needed a smaller pull, but the truck went a longer way.",
+     "kid": "Measure each ramp. How far did the truck travel each time?",
      "check": {
       "t": "mcq",
       "q": "The long ramp needed the smallest pull. What did you give up?",
@@ -1984,9 +1984,9 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "Help your child draw a bar chart of the middle values.",
-     "say": "Let's turn the numbers into a picture. One bar for each way of lifting the truck.",
-     "kid": "Draw one bar for each way. Make it as tall as the middle stretch. Which bar is shortest?",
+     "do": "Help your child cut a piece of string for each way, as long as its middle stretch. Lay the strings side by side.",
+     "say": "Let's turn the numbers into strings. One string for each way of lifting the truck.",
+     "kid": "Cut one string for each way, as long as the middle stretch. Lay them side by side. Which string is shortest?",
      "chart": {
       "type": "bar",
       "title": "Made-up example results: rubber band stretch when pulling a loaded toy truck up to the same height",
@@ -2120,7 +2120,7 @@
      "what": "Build the winch. Lift the bottle by turning the bare pencil, then a small handle, then a big handle."
     }
    ],
-   "record": "Fill in the table. Draw your winch and label the wheel, or handle, and the axle.",
+   "record": "Fill in the table. Point to the handle and the axle on your winch and say which is which. You can draw it too.",
    "flow": [
     {
      "id": "s1",
@@ -2258,7 +2258,7 @@
      "what": "Find 10 simple machines at home and 3 levers in your body."
     }
    ],
-   "record": "Make a list of 10 machines. Write LEVER, RAMP or WHEEL beside each. For each lever, draw a dot where its fulcrum is.",
+   "record": "Make a list of 10 machines. Write LEVER, RAMP or WHEEL beside each. For each lever, say or point to where its fulcrum is.",
    "flow": [
     {
      "id": "s1",
@@ -2340,7 +2340,7 @@
      "what": "Balance a grown-up on the park see-saw by moving along it."
     }
    ],
-   "record": "Draw where each person sat when the see-saw balanced. Write who was heavier.",
+   "record": "Write who sat where when the see-saw balanced, and who was heavier. You can take a photo too.",
    "flow": [
     {
      "id": "s1",
@@ -2514,7 +2514,7 @@
      "what": "Feel the levers in your arm, foot and neck with slow movements."
     }
    ],
-   "record": "Draw your arm holding the bottle. Mark the fulcrum, the muscle and the load.",
+   "record": "Hold the bottle again. Point to the fulcrum, the muscle and the load, and tell a grown-up which is which.",
    "flow": [
     {
      "id": "s1",
@@ -2601,7 +2601,7 @@
      "what": "Find the balance point of long things. Then spin round with a grown-up to act out the Earth and the Moon."
     }
    ],
-   "record": "Draw the broom with a dot at its balance point. Draw the Earth and the Moon with their balance point.",
+   "record": "Stick a piece of tape on the broom where it balanced. Then say who went round the bigger circle, the Earth or the Moon.",
    "flow": [
     {
      "id": "s1",
@@ -2716,7 +2716,7 @@
      "what": "Push a door at different places. Then hang a cup at different places on the door, and see how much rice it takes in the cup to start the door swinging."
     }
    ],
-   "record": "Write how many spoonfuls of rice it took to start the door swinging at each place. Draw a bar chart.",
+   "record": "Write how many spoonfuls of rice it took to start the door swinging at each place. Which place needed the fewest?",
    "flow": [
     {
      "id": "s1",
@@ -2763,8 +2763,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Talk about why door handles are always far from the hinges.",
-     "say": "Why do you think every door handle is on the side away from the hinges?",
-     "kid": "Why are door handles always far from the hinges? Have you ever seen one near the hinges?",
+     "say": "Think about how hard the door was to push near the hinges. Now think about where the handle is.",
+     "kid": "Look at the handle of a door in your home. Is it near the hinges or far from them?",
      "check": {
       "t": "mcq",
       "q": "Why are door handles far from the hinges?",
@@ -2852,12 +2852,12 @@
      "what": "Lift water. Improve the design. Show the family how it works."
     }
    ],
-   "record": "Draw your shaduf and label the fulcrum, the load and the counterweight. Write how many cups of water you lifted in one minute, with and without the counterweight.",
+   "record": "Take a photo of your shaduf. Write how many cups of water you lifted in one minute, with and without the counterweight.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Describe a shaduf to your child, and draw it on paper. It is a long pole on a post. A bucket hangs from one end, and a heavy stone from the other.",
+     "do": "Describe a shaduf to your child. It is a long pole on a post. A bucket hangs from one end, and a heavy stone from the other.",
      "say": "A shaduf is a lever for lifting water from a river or a well. Farmers used it about 4,000 years ago in Mesopotamia and Egypt. In India, a lever like it is called a picottah, or etram in Tamil.",
      "kid": "A shaduf is a long pole on a post. A bucket hangs at one end. A heavy stone hangs at the other. Farmers used it 4,000 years ago!",
      "context": "This is the first step of the shaduf project. A shaduf is an old water-lifting lever. Over three days, you build a small one and use it to lift water."
@@ -2983,7 +2983,7 @@
     "Use a shaduf-style counterweight on the other end of a lever.",
     "Make a zigzag ramp, like a ghat road, from two boards."
    ],
-   "your_turn": "Now invent your own way. Draw it, try it, and measure the pull. Is it better than the others? What did you have to give up?",
+   "your_turn": "Now invent your own way. Build it, try it, and measure the pull. Is it better than the others? What did you have to give up?",
    "flow": [
     {
      "id": "s1",
@@ -2996,9 +2996,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Plan three ideas together before trying any.",
-     "say": "Engineers plan first. Which machines could help? Let's draw three ideas.",
-     "kid": "Think like an engineer! Draw three ideas. Use a lever, a ramp or a wheel."
+     "do": "Plan three ideas together before trying any: one with a lever, one with a ramp and one with a wheel.",
+     "say": "Engineers plan first. Which machines could help? Let's pick three ideas.",
+     "kid": "Think like an engineer! Pick three ideas: one lever, one ramp and one wheel. Say how each would help."
     },
     {
      "id": "s3",
@@ -3038,7 +3038,7 @@
     },
     {
      "art": "A child drawing three machine ideas on paper: a ramp, a broom lever and a box winch.",
-     "caption": "2. Draw three ideas first."
+     "caption": "2. Pick three ideas first."
     },
     {
      "art": "A board leaning from the floor to the chair seat, the rice bag on a toy truck being pulled up it by a rubber band.",
@@ -3071,7 +3071,7 @@
     "A grippy surface with grooves, so it is safe in the rain.",
     "A folding ramp that can be put away at night."
    ],
-   "your_turn": "Measure a real step near you. Work out how long your ramp must be. Draw it, and build a small model with books and a board.",
+   "your_turn": "Measure a real step near you. Work out how long your ramp must be. Build a small model with books and a board.",
    "flow": [
     {
      "id": "s1",
@@ -3104,9 +3104,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Your child draws the ramp design. 2. Build a model: a pile of books as the step, a board as the ramp. 3. Try a toy car on a steep ramp and on a gentle one.",
-     "say": "Draw your ramp. Then let's test a model. Which ramp could a toy car climb if you pushed it with one finger?",
-     "kid": "Draw your ramp. Make a model with books and a board. Push a toy car up with one finger. Steep or gentle?"
+     "do": "1. Your child draws the ramp design, or just tells you the plan. 2. Build a model: a pile of books as the step, a board as the ramp. 3. Try a toy car on a steep ramp and on a gentle one.",
+     "say": "Draw your ramp, or tell me your plan. Then let's test a model. Which ramp could a toy car climb if you pushed it with one finger?",
+     "kid": "Draw your ramp, or tell your grown-up your plan. Make a model with books and a board. Push a toy car up with one finger. Steep or gentle?"
     },
     {
      "id": "s4",

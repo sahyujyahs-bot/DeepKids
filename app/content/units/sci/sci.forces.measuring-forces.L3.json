@@ -808,7 +808,7 @@
      "mins": 3,
      "do": "1. Put out the forcemeter, a cloth bag with handles and the score sheet. 2. Shuffle the thing cards face down. 3. Hold up a small apple and say it pulls with about 1 newton.",
      "say": "Hold this apple. Feel how it pulls your hand down. That is about 1 newton. We will use it to help us guess other things.",
-     "kid": "Hold the apple. Feel it pull your hand down. That pull is about 1 newton. Remember how it feels.",
+     "kid": "Hold the apple. Feel it pull your hand down. Remember how it feels.",
      "context": "This is the first step of Guess the Newtons. You learn what 1 newton feels like, so you can guess other things.",
      "parent": "A small apple of about 100 grams pulls with about 1 newton. A 1 litre bottle of water pulls with about 10 newtons. Let your child hold both before you start. Use a 0 to 50 newton forcemeter, because a coconut or a school bag is too heavy for a 0 to 10 one."
     },
@@ -817,7 +817,7 @@
      "mins": 3,
      "do": "Hang the empty bag from the forcemeter. Ask your child to check the pointer before you begin.",
      "say": "Before every game we check the zero. Where is the pointer with just the empty bag on it?",
-     "kid": "Hang the empty bag on the hook. Look at the pointer. Is it on zero?",
+     "kid": "Hang the empty bag on the hook. Look at the pointer.",
      "context": "This step of Guess the Newtons checks that the forcemeter starts at zero, so every reading is fair.",
      "parent": "An empty cloth bag pulls with about half a newton, so the pointer may move a little. If it does, turn the zero screw with the empty bag hanging. Or write down the empty bag's reading and take it away from every reading. Both ways are fair, as long as you do the same every time.",
      "check": {
@@ -1060,8 +1060,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play one practice card together: 'A 1 litre water bottle on your hand'.",
-     "say": "Here's a practice card. A 1 litre water bottle on your hand. Which rung?",
-     "kid": "Practice card: a 1 litre bottle of water on your hand. Which rung is it?",
+     "say": "Here is a practice card. Read it and put it on the rung you think is right.",
+     "kid": "Hold a 1 litre bottle of water on your hand, as the card says.",
      "context": "This step of Climb the Force Ladder is a practice round with one card.",
      "check": {
       "t": "mcq",
@@ -1128,7 +1128,7 @@
    "title": "Invent a Unit: how many coins to pull a notebook?",
    "mins": 40,
    "days": 1,
-   "context": "This is the coin-pull investigation, the main experiment of this unit. A notebook on a table is tied to a paper cup hanging over the edge. You drop coins into the cup until the notebook starts to slide. Your unit of pull is one coin. Then you test two and three notebooks, and see what happens when a grown-up uses different coins.",
+   "context": "This is the coin-pull investigation. You will find out how many coins it takes to pull a notebook, and why a grown-up with different coins gets a different number. A notebook on a table is tied to a paper cup hanging over the edge. You drop coins into the cup until the notebook starts to slide. Your unit of pull is one coin. Then you test two and three notebooks, and see what happens when a grown-up uses different coins.",
    "question": "How many coins does it take to start a notebook sliding? How does the number change for two or three notebooks? And will someone using different coins get the same number?",
    "predict": "Before you start, make three guesses, and give a reason for each one. How many coins will one notebook need, and why? Will two stacked notebooks need the same number, a few more, or twice as many? Why do you think so? Will a grown-up using a different kind of coin get the same number as you? Why or why not?",
    "fair_test": "Change only one thing at a time. Use the same table, string and cup every time. In your own tests, use coins of only one kind. Put the notebook in the same place, the same way round. Drop each coin in gently, so a bump doesn't start the slide. Do every test 3 times and use the middle number, because one try can be a fluke.",
@@ -1207,7 +1207,7 @@
      "mins": 4,
      "do": "1. Put one notebook on the table. 2. Ask your child to push it gently with one finger until it slides. 3. Ask how big that push was, as a number. Do not suggest an answer.",
      "say": "Push this notebook with one finger until it slides. Now tell me, how big was that push? Can you say it as a number?",
-     "kid": "Push the notebook with one finger until it slides. How big was your push? Can you give it a number?",
+     "kid": "Push the notebook with one finger until it slides.",
      "parent": "Most children say 'small' or 'not much'. Some say a number in grams or kilograms. Ask what that number counts. The point is to feel that a push has no number on it until we choose something to count.",
      "ask": [
       {
@@ -1237,7 +1237,7 @@
      "mins": 3,
      "do": "1. Ask your child for two guesses, each with a reason. 2. Write both in the table. 3. Do not say whether they are right.",
      "say": "How many coins do you think one notebook will need? Why? And two notebooks stacked: the same, a few more, or twice as many? Why do you think so?",
-     "kid": "Guess how many coins one notebook needs. Then guess for two notebooks. Say why each time. Write your guesses.",
+     "kid": "Guess how many coins one notebook needs. Then guess for two notebooks. Say why.",
      "ask": [
       {
        "q": "Why do you think two notebooks will need that many coins?",
@@ -1289,7 +1289,7 @@
      "mins": 5,
      "do": "1. Before you start, ask your child to guess, with a reason, whether you will get the same number. 2. Test one notebook 3 times with your different coins. 3. Your child counts. 4. Write your middle number next to theirs.",
      "say": "I'm going to test one notebook with these different coins. Will I get the same number as you? Why do you think so? Now count for me.",
-     "kid": "Now a grown-up tests one notebook with different coins. Guess: will they get your number? Why? Then count their coins.",
+     "kid": "A grown-up tests one notebook with different coins. Count their coins out loud.",
      "how": "e4",
      "ask": [
       {
@@ -1320,8 +1320,8 @@
      "id": "s7",
      "mins": 3,
      "do": "Ask what would happen if every family used its own coins, buttons or stones. Let your child answer before you say anything.",
-     "say": "A child in another city does this test with buttons. She says 'eleven'. Is her notebook's pull bigger than ours? What would we both need, to compare?",
-     "kid": "A child in another city uses buttons and says 'eleven'. Is her pull bigger than yours? What would you both need?",
+     "say": "A child in another city does this test with buttons. She says 'eleven'. Is her notebook's pull bigger than ours?",
+     "kid": "Decide: is the buttons child's pull bigger than yours, or can you not tell?",
      "ask": [
       {
        "q": "What would you and that child need, to compare your pulls?",
@@ -1418,8 +1418,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Show your child the six pulls. They are the fridge door, a drawer, a chair, a school bag, a cupboard door and a slipper. 2. Ask them to put them in order, biggest pull first. 3. Write the order in the table.",
-     "say": "We are going to be pull detectives. Which of these do you think needs the biggest pull? Put them in order, biggest first, and tell me why.",
-     "kid": "Look at the six things. Which needs the biggest pull to move? Put them in order. Say why. Write your guesses down.",
+     "say": "We are going to be pull detectives. Which of these do you think needs the biggest pull? Put them in order, biggest first.",
+     "kid": "Look at the six things. Which needs the biggest pull to move? Put them in order.",
      "context": "This is the first step of the pull detective experiment. You guess which pull at home is biggest, before testing.",
      "ask": [
       {
@@ -1490,9 +1490,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Help your child draw a bar chart of the biggest readings, with one bar for each pull.",
-     "say": "Let's turn the numbers into a picture. Each pull gets a bar. The taller the bar, the bigger the pull.",
-     "kid": "Draw one bar for each pull. Make it as tall as its biggest number. Which bar is tallest?",
+     "do": "Write each pull's biggest reading on a slip of paper. Help your child lay the slips in a row, biggest first.",
+     "say": "Let's put the numbers in order. Which pull goes first? Which goes last?",
+     "kid": "Lay the slips in a row, from the biggest number to the smallest.",
      "context": "This step of the pull detective experiment turns your readings into a bar chart.",
      "how": "e1",
      "chart": {
@@ -1603,7 +1603,7 @@
    "title": "What Does a Bathroom Scale Really Measure?",
    "mins": 20,
    "days": 1,
-   "context": "This is the bathroom scale experiment. You stand on a bathroom scale and change how hard you press down. How much of you there is stays the same. You watch what the number does.",
+   "context": "This is the bathroom scale experiment. You will find out what the number on the scale really measures. You stand on a bathroom scale and change how hard you press down. How much of you there is stays the same. You watch what the number does.",
    "question": "Does a bathroom scale show how much of you there is, or how hard you push on it?",
    "predict": "Before you start, guess. You stand on the scale and press down on a table beside you. Will the number go up, go down or stay the same? Why do you think so?",
    "fair_test": "Stand in the same place on the scale each time, with both feet. Change only one thing at a time: pressing down on the table, pulling up on it, or bending your knees. Read the number each time when it settles, except for the knee test.",
@@ -1636,7 +1636,7 @@
      "what": "Stand on the scale. Press down on a table, pull up on it, and bend your knees. Write what the number does."
     }
    ],
-   "record": "Fill in the table. For each kilogram, write about 10 newtons beside it. For each test, draw yourself on the scale with an arrow for your push on it.",
+   "record": "Fill in the table. For each kilogram, write about 10 newtons beside it. For each test, write whether the number went up, went down or stayed the same.",
    "setup": [
     {
      "art": "A bathroom scale on the floor beside a strong table, a child standing still on it, both hands at the sides.",
@@ -1671,7 +1671,7 @@
      "mins": 4,
      "do": "1. Ask your child to guess what will happen. 2. They press down hard on the table top with both palms, still standing on the scale. 3. Read the number.",
      "say": "Guess first. If you press down on the table, will the number go up, down, or stay the same? Why? Now try it.",
-     "kid": "Guess first, and say why. Then press down hard on the table. What does the number do?",
+     "kid": "Guess first, and say why. Then press down hard on the table.",
      "adult": true,
      "context": "In this step of the bathroom scale experiment, you stand on the scale and press on a table.",
      "check": {
@@ -1703,7 +1703,7 @@
      "mins": 5,
      "do": "Ask your child what the scale is really showing. Let them answer before you explain.",
      "say": "Did you get any heavier or lighter just now? Did any of you go away, or any more of you arrive? So what is the scale really showing?",
-     "kid": "The number on the scale went up and down. Did any of you disappear? So what does the scale show? Say what you think.",
+     "kid": "The number on the scale went up and down. Did any of you disappear?",
      "context": "This step of the bathroom scale experiment asks what a scale really shows.",
      "how": "e2",
      "ask": [
@@ -1737,7 +1737,7 @@
    "title": "Can Your Hands Be Fooled? The Big Box and the Small Box",
    "mins": 25,
    "days": 1,
-   "context": "This is the big box and small box experiment. You make a big box and a small box pull exactly the same on a forcemeter. Then you ask people which one feels heavier.",
+   "context": "This is the big box and small box experiment. You will find out if your hands can tell which box pulls more. You make a big box and a small box pull exactly the same on a forcemeter. Then you ask people which one feels heavier.",
    "question": "If two boxes pull a forcemeter with exactly the same force, will they feel the same when we lift them?",
    "predict": "Before you start, guess. Will people say the big box feels heavier, the small box feels heavier, or that they feel the same? Why do you think so?",
    "fair_test": "Make both boxes pull the forcemeter to exactly the same number. Use the same kind of string loop on both. Ask each person to look at both boxes and lift them the same way, one in each hand, by the string loops. Swap the boxes between hands for each new person. Ask at least 3 people, and more if you can.",
@@ -1816,7 +1816,7 @@
      "mins": 3,
      "do": "Ask your child to guess what people will say, and write the guess down.",
      "say": "Both boxes pull the forcemeter the same. Will people feel that? What do you think they will say, and why?",
-     "kid": "Both boxes pull the same. What will people say? Why? Write your guess.",
+     "kid": "Both boxes pull the same. What will people say? Write your guess.",
      "context": "This step of the big box and small box experiment is your guess, before you ask people.",
      "ask": [
       {
@@ -1841,9 +1841,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Count the answers and draw a bar for each one.",
+     "do": "Count the answers. Put one coin in a pile for each answer: small, big or same.",
      "say": "Let's count. How many people said small? How many said big? How many said the same?",
-     "kid": "Count the answers. Draw one bar each for small, big and same.",
+     "kid": "Count the answers. Put one coin in a pile for each answer: small, big or same.",
      "context": "This step of the big box and small box experiment counts what people said.",
      "how": "e3",
      "chart": {
@@ -1934,8 +1934,8 @@
      "what": "Push five things with a balloon and watch how much it squashes."
     }
    ],
-   "record": "Draw the balloon for each push: a little bit squashed, half squashed or very squashed. Write small, medium or large force.",
-   "context": "This is the balloon push activity. You push different things with a balloon instead of your hands, and watch what the balloon does.",
+   "record": "For each push, write how squashed the balloon was: a little, half or very. Then write small, medium or large force.",
+   "context": "This is the balloon push activity. You will find out how a balloon can show which push is bigger. You push different things with a balloon instead of your hands, and watch what the balloon does.",
    "setup": [
     {
      "art": "A child pushing a plastic cup along a table with a round balloon, the balloon barely dented.",
@@ -1955,8 +1955,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Blow up a balloon to about the size of a big mango and tie it. 2. Show your child how to hold it in both hands and push something with the balloon, not with the hands.",
-     "say": "Today you push things with the balloon, not with your hands. Watch the balloon each time. What do you notice?",
-     "kid": "Hold the balloon in both hands. Push things with the balloon. Watch it. What do you notice?",
+     "say": "Today you push things with the balloon, not with your hands. Watch what the balloon does each time.",
+     "kid": "Hold the balloon in both hands. Push things with the balloon.",
      "context": "This is the first step of the balloon push activity. You push things through a balloon and watch it."
     },
     {
@@ -1981,7 +1981,7 @@
      "mins": 4,
      "do": "Ask your child to put the five pushes in order, smallest to biggest. Then they say small, medium or large for each.",
      "say": "Put the pushes in order. Which was the smallest? Which was the biggest? Could the balloon tell us an exact number? Why not?",
-     "kid": "Put the pushes in order, smallest first. Could a balloon tell you an exact number?",
+     "kid": "Put the pushes in order, smallest first.",
      "context": "This is the last step of the balloon push activity. You put the pushes in order and think about numbers.",
      "how": "a1",
      "think": "A balloon shows big and small, but not an exact number. What tool could give us a number?",
@@ -2020,7 +2020,7 @@
      "what": "Hold 1 and 10 newtons. Make a one newton kit."
     }
    ],
-   "record": "Draw your one newton kit. Write '1 N' beside each thing that pulls with about 1 newton.",
+   "record": "Line up your one newton kit on the table. Write '1 N' on a slip of paper beside each thing, and take a photo.",
    "context": "This is the one newton activity. You hold things that pull with 1 newton and 10 newtons. Your hands learn the size of a newton.",
    "setup": [
     {
@@ -2042,15 +2042,15 @@
      "mins": 4,
      "do": "1. Put one 100 gram packet on your child's open palm. 2. Say that it pulls down with about 1 newton. 3. Then put a small apple on the other palm.",
      "say": "Hold this packet on your open hand. It has 100 grams of tea in it. Scientists say it pulls down with about 1 newton. Now hold the apple. Does it pull more, less or the same?",
-     "kid": "Hold the packet on your open hand. Feel it pull down. That is about 1 newton.",
+     "kid": "Hold the packet on your open hand. Then hold the apple on the other hand.",
      "context": "This is the first step of the one newton activity. You feel what 1 newton is like."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "1. Give your child a 1 litre bottle of water. 2. Say it pulls with about 10 newtons. 3. Then let them hold the 1 kilogram rice packet. 4. Ask how many 100 gram packets would make the same pull.",
-     "say": "This bottle pulls with about 10 newtons. How many tea packets do you think would pull as hard as this bottle? Why?",
-     "kid": "Hold the water bottle. It pulls about 10 newtons. How many tea packets would match it?",
+     "say": "This bottle pulls with about 10 newtons. Feel the rice packet too. How many tea packets do you think would pull as hard as the bottle?",
+     "kid": "Hold the water bottle. Then hold the rice packet.",
      "context": "This step of the one newton activity compares 1 newton with 10 newtons.",
      "ask": [
       {
@@ -2136,7 +2136,7 @@
      "id": "s2",
      "mins": 7,
      "do": "1. Slide the pointer to a reading, without your child seeing. 2. They read it, with their eyes level with the pointer. 3. Do 8 readings: 2, 5, 7 and a half, 0, 3 and a half, 9, 1 and a half, 10.",
-     "say": "Read the big number first. Then count the little marks after it. Each little mark is half a newton.",
+     "say": "I have hidden a reading. Look at the pointer with your eyes level with it. What does it show?",
      "kid": "Read the big number first. Then count the small marks. Each one is half a newton. Say the unit too.",
      "context": "This is the main part of the forcemeter reading practice. A grown-up sets the pointer and you read it.",
      "chart": {
@@ -2167,7 +2167,7 @@
      "mins": 3,
      "do": "Let your child look at the toothpick pointer from high above, then from below, then level. Ask which one looks right.",
      "say": "Look from up high. Now from down low. Now straight on. Does the number seem to change? Which one do you trust? Why?",
-     "kid": "Look from high up. Then from low down. Then straight on. Which way is true?",
+     "kid": "Look from high up. Then from low down. Then straight on.",
      "context": "This is the last step of the forcemeter reading practice. You see why we read at eye level.",
      "how": "a3",
      "think": "Why do you think scientists always say 'eye level'?",
@@ -2200,8 +2200,8 @@
      "what": "Hook two forcemeters together and pull. Compare the two readings."
     }
    ],
-   "record": "Write both readings for 4 different tugs. Draw an arrow on each side.",
-   "context": "This is the forcemeter tug of war. Two people hook two forcemeters together and pull. You compare the two readings.",
+   "record": "Write both readings for 4 different tugs. Next to each, write which side pulled harder, or both the same.",
+   "context": "This is the forcemeter tug of war. You will find out whether the stronger puller makes a bigger reading. Two people hook two forcemeters together and pull. You compare the two readings.",
    "setup": [
     {
      "art": "Two forcemeters hooked hook-to-hook, a child holding one end and a grown-up holding the other.",
@@ -2222,7 +2222,7 @@
      "mins": 3,
      "do": "1. Check both forcemeters read zero. 2. Hook them together, hook to hook. 3. Each person holds one by its top ring.",
      "say": "Two forcemeters, hooked together. When we pull, will both show the same number, or will the stronger person's show more? Why do you think so?",
-     "kid": "Hook the two forcemeters together. Hold yours. Will both show the same number? Why?",
+     "kid": "Hook the two forcemeters together. Hold yours by its top ring.",
      "context": "This is the first step of the forcemeter tug of war. You hook two forcemeters together and guess what they will show.",
      "parent": "Most children guess that the grown-up's forcemeter will show more. Wait for the guess and the reason before anyone pulls."
     },
@@ -2231,7 +2231,7 @@
      "mins": 7,
      "do": "1. Pull gently. The grown-up tries to pull harder than the child. 2. Hold still and read both. 3. Try 4 different tugs. 4. Write both readings each time.",
      "say": "I'll pull harder. Now read both forcemeters. What do you see?",
-     "kid": "Pull gently. Hold still. Read both numbers. Are they the same?",
+     "kid": "Pull gently. Hold still. Read both numbers.",
      "context": "This is the main part of the forcemeter tug of war. You pull and read both forcemeters each time.",
      "adult": true,
      "ask": [
@@ -2289,7 +2289,7 @@
      "what": "Feel your lunch's pull on Earth, the Moon and Jupiter."
     }
    ],
-   "record": "Write the pull on Earth, the Moon and Jupiter. Draw the three tiffins.",
+   "record": "Write the pull on Earth, the Moon and Jupiter. Then say which tiffin was easiest to hold, and why.",
    "context": "This is the Moon tiffin activity. You change the rice in a tiffin box. Your hand feels how hard your lunch would pull on the Moon and on Jupiter.",
    "setup": [
     {
@@ -2311,7 +2311,7 @@
      "mins": 4,
      "do": "1. Put the empty tiffin on the kitchen scale and press its zero button, so the scale counts only the rice. 2. Weigh 600 grams of rice into the tiffin. 3. Your child holds it. 4. Say that on Earth the rice pulls with about 6 newtons.",
      "say": "Hold your lunch. On Earth it pulls your hand down with about 6 newtons. The Moon pulls things down about one sixth as hard. How do you think your lunch would feel there? Why?",
-     "kid": "Hold the tiffin. Here on Earth, the rice pulls about 6 newtons. The Moon pulls only one sixth as hard. How would it feel there?",
+     "kid": "Hold the tiffin. Feel how hard the rice pulls down.",
      "context": "This is the first step of the Moon tiffin activity. You feel your lunch's pull on Earth.",
      "parent": "A steel tiffin is heavy by itself, so use a light plastic one or a polythene bag. No kitchen scale? Use sealed packets instead. For Earth, hold a 500 gram and a 100 gram packet together. For the Moon, hold one 100 gram packet. For Jupiter, hold a 1 kilogram and a 500 gram packet together."
     },
@@ -2390,8 +2390,8 @@
      "what": "Visit a market. Find different scales and their seals. Ask the shopkeeper questions."
     }
    ],
-   "record": "Draw three different scales you saw. Write what each one weighs or shows, and whether you found a seal.",
-   "context": "This is a visit to a market or shop. You look at shop scales and find the seals that show they were checked. Then you ask how the shopkeeper keeps weighing fair.",
+   "record": "Write the names of three different scales you saw. Write what each one weighs or shows, and whether you found a seal. You can also take photos, with the shopkeeper's permission.",
+   "context": "This is a visit to a market or shop. You will find out how a shop keeps its weighing fair. You look at shop scales and find the seals that show they were checked. Then you ask how the shopkeeper keeps weighing fair.",
    "setup": [
     {
      "art": "A busy vegetable market with a digital scale, a hanging spring balance and a two-pan balance on three stalls.",
@@ -2412,7 +2412,7 @@
      "mins": 10,
      "do": "1. Walk through a vegetable market or visit a kirana shop. 2. Help your child find different kinds of scales: digital, hanging spring balances and two-pan balances.",
      "say": "Let's count the scales. How many kinds can we find? Which ones use a spring? Which ones compare with iron weights?",
-     "kid": "Look for scales. Count how many kinds. Which ones have a spring? Which have two pans?",
+     "kid": "Find as many different kinds of scale as you can.",
      "adult": true,
      "context": "This is the first step of the market visit. You look for different kinds of scales."
     },
@@ -2493,8 +2493,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Empty the coins out of the cup and hang it again. 2. Ask your child to guess how much water will start the notebook sliding, and why.",
-     "say": "A child in another city can't use our coins. But she has water. How much water do you think it will take to slide one notebook? Why?",
-     "kid": "Now you will use water, not coins. How much water will start the notebook sliding? Guess, and say why.",
+     "say": "A child in another city can't use our coins. But she has water. How much water do you think it will take to slide one notebook?",
+     "kid": "Now you will use water, not coins. Guess how much water will start the notebook sliding.",
      "ask": [
       {
        "q": "How did you make your guess?",
@@ -2522,7 +2522,7 @@
      "mins": 4,
      "do": "1. Tell your child that 100 millilitres of water pulls down with about 1 newton, anywhere on Earth. 2. Ask them to turn their millilitres into newtons.",
      "say": "Here is a fact people everywhere share: 100 millilitres of water pulls down with about 1 newton. So how many newtons did our notebook need?",
-     "kid": "100 millilitres of water pulls with about 1 newton. How many newtons did your notebook need?",
+     "kid": "Turn your millilitres into newtons.",
      "how": "a7",
      "check": {
       "t": "mcq",
@@ -2543,8 +2543,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask why water might be a better unit than coins. Let your child answer first.",
-     "say": "Could a child in another city repeat this test exactly? Why might water be a better unit than our coins?",
-     "kid": "Could a child in another city repeat this test? Why is water better than your coins?",
+     "say": "Could a child in another city repeat this test exactly?",
+     "kid": "Compare coins with water. Which could the other child use?",
      "ask": [
       {
        "q": "Why is water a good thing to share?",
@@ -2615,7 +2615,7 @@
      "what": "Test five things with your forcemeter. Check them with a kitchen scale or a real forcemeter. Improve your forcemeter."
     }
    ],
-   "record": "Draw your forcemeter and label the band, the hook, the bag and the scale. Write a table: Thing, My forcemeter (N), Check (N).",
+   "record": "Take a photo of your forcemeter, or draw it, and label the band, the hook, the bag and the scale. Write a table: Thing, My forcemeter (N), Check (N).",
    "setup": [
     {
      "art": "A card strip taped upright to a table leg, a rubber band hanging from a drawing pin at the top, an S-hook made from a paper clip at the bottom.",
@@ -2763,7 +2763,7 @@
     "Henry Cavendish measured a force about as big as a sand grain's weight, with a twisting wire. Can you use a twisting thread?",
     "Scientists feel the push of single atoms with a tiny bending needle. Your bending ruler is a giant model of it."
    ],
-   "your_turn": "Now invent your own tiny-force meter. Draw it, build it, and test it with 1, 2 and 3 sheets of paper. Can it tell them apart every time?",
+   "your_turn": "Now invent your own tiny-force meter. Build it and test it with 1, 2 and 3 sheets of paper. Can it tell them apart every time?",
    "setup": [
     {
      "art": "A plastic ruler taped to the edge of a table, sticking out, a folded sheet of paper hanging from its free end on a thread.",
@@ -2866,14 +2866,14 @@
      "mins": 5,
      "do": "Read the problem with your child. Talk about the story of Pushpa, who checked a spring balance with packets of salt, if you have read it.",
      "say": "Suppose there are no salt packets and no iron weights. What could we use that always weighs the same, and that everybody trusts?",
-     "kid": "No standard weights. What could you use instead? What weighs the same every time?",
+     "kid": "No standard weights. Think of something that weighs the same every time.",
      "context": "This is the first step of the fair scale challenge. You think about what everybody could trust."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Read the usual solutions and the creative ideas together.",
-     "say": "Here is one idea people have used: one litre of water always has a mass of about 1 kilogram. Why do you think water could work as a check that everybody shares?",
+     "say": "One idea is water. Why do you think water could work as a check that everybody shares?",
      "kid": "Read the ideas. Water can be your standard. One litre is about 1 kilogram.",
      "context": "This step of the fair scale challenge looks at how water can be a standard weight."
     },
@@ -2882,7 +2882,7 @@
      "mins": 15,
      "do": "1. Put the empty bottle on the kitchen scale and write down its weight. 2. Help your child pour exactly 1 litre of water into it, using a jug. 3. Put the full bottle on the scale. 4. Take away the bottle's weight. 5. Repeat with 500 millilitres.",
      "say": "If our scale is honest, 1 litre of water should show 1,000 grams once we take away the bottle. Let's see.",
-     "kid": "Pour out exactly 1 litre of water. Weigh it. Take away the bottle. Is it 1,000 grams?",
+     "kid": "Pour out exactly 1 litre of water. Weigh it. Take away the bottle's weight.",
      "context": "This is the main part of the fair scale challenge. You test your kitchen scale with water.",
      "how": "c2",
      "parent": "Measuring jugs aren't perfect, so a few grams out is fine. Talk about how close is close enough."
@@ -2890,8 +2890,8 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to write or draw instructions for the check, simple enough for a younger child.",
-     "say": "Now write the instructions, so anyone in the village could check a scale.",
+     "do": "Ask your child to tell a younger child the steps of the check out loud, then write them down.",
+     "say": "Now explain the steps, so anyone in the village could check a scale.",
      "kid": "Write the steps for your check. Make them easy for a little child.",
      "context": "This is the last step of the fair scale challenge. You write instructions anyone can follow.",
      "how": "c2",

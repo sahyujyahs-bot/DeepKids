@@ -371,7 +371,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a memory game. A santhai is a weekly market in Tamil Nadu. Each player says the whole shopping list so far and adds one more thing, until someone forgets.",
+   "context": "This is a memory game. A santhai is a weekly market in Tamil Nadu. Each player says the whole shopping list so far and adds one more thing, until someone forgets. You will find out how long a list you can hold in your head, and whether a story helps.",
    "printables": [
     {
      "kind": "cards",
@@ -552,7 +552,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a quick memory game. One player shows a vehicle number plate for five seconds. The other writes it down from memory.",
+   "context": "This is a quick memory game. One player shows a vehicle number plate for five seconds. The other writes it down from memory. You will find out whether saying a plate in groups helps you remember it.",
    "printables": [
     {
      "kind": "cards",
@@ -639,7 +639,7 @@
      "mins": 2,
      "do": "Compare the two rounds on the score sheet.",
      "say": "Which round scored more? Why do you think that happened?",
-     "kid": "Which round did better? Why?"
+     "kid": "Add up the points for each round. Which round has more?"
     }
    ],
    "setup": [
@@ -660,7 +660,7 @@
    "title": "The Story Trick: does a story help you remember a list?",
    "mins": 35,
    "days": 2,
-   "context": "In this experiment you learn two lists of ten words. You repeat one list, and make the other into a story. Then you see which one you remember, straight away and the next day.",
+   "context": "In this experiment you learn two lists of ten words. You repeat one list, and make the other into a story. You will find out which way helps you remember more, straight away and the next day.",
    "question": "If you make a list of words into a story, do you remember more of them than if you just repeat them?",
    "predict": "You will learn one list by saying each word again and again, and the other by making up a story. Which list will you remember better tomorrow? Why do you think so?",
    "fair_test": "Both lists have ten words for everyday things in a home. Each word gets the same time, 10 seconds. After each list, you count backwards from 20 to 1, so you cannot keep repeating the words. Only the way of learning changes. You test both lists the next day too, at the same time, without looking. The two lists have different words. So if a second person also tries, they do it the other way round: they make a story for list A and repeat list B. One child's result is a first clue, not proof.",
@@ -697,17 +697,17 @@
      "what": "At the same time of day, without warning and without looking, say all the words you remember from both lists."
     }
    ],
-   "record": "Fill in the table. Then draw two bars for the next day: one for list A and one for list B. Write one sentence about what you found.",
+   "record": "Fill in the table. Then show the next-day scores as two bars, one for list A and one for list B. Draw them, or make two stacks of coins, one coin for each word. Write one sentence about what you found.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Read the question aloud. 2. Ask for a guess and a reason. 3. Write the guess in the table.",
-     "say": "I am going to read you two lists of ten words. One you will repeat, and one you will turn into a story. Which list will you remember better tomorrow? Why do you think so?",
-     "kid": "You will hear two lists of words. You repeat one and make a story with the other. Which will you remember better tomorrow? Why?",
+     "say": "I am going to read you two lists of ten words. One you will repeat, and one you will turn into a story. Which way will help you remember more words tomorrow, repeating or the story? Why do you think so?",
+     "kid": "Make a guess. Will repeating or the story help you remember more tomorrow?",
      "ask": [
       {
-       "q": "Why do you think the list you chose will stay longer?",
+       "q": "Why do you think that way will work better?",
        "good": [
         "Because saying a word many times puts it in my head.",
         "Because a story is easier to remember than separate words.",
@@ -892,13 +892,13 @@
      "mins": 2,
      "do": "Ask for a guess about the other hand, and a reason.",
      "say": "Now you will use your other hand. How long do you think it will take? Will you get faster if you keep trying? Why?",
-     "kid": "Now your other hand. How long will it take? Will you get faster? Why?"
+     "kid": "Guess how many seconds it will take. Will you get faster?"
     },
     {
      "id": "s3",
      "mins": 7,
      "do": "1. Time four tries with the other hand, one row each. 2. After each try, write the time. 3. Count the numbers that touch or cross the box lines.",
-     "say": "Off you go with your other hand. Take your time. I will write down the time. Now let's count how many went outside the boxes.",
+     "say": "Off you go with your other hand. Write each number inside its box. I will write down the time. Now let's count how many went outside the boxes.",
      "kid": "Write 1 to 10 with your other hand. Then count numbers outside the boxes.",
      "parent": "The first try is often two or three times slower than the usual hand, and wobbly. Do not let your child switch hands halfway. Praise the effort, not the speed. If the hand aches, rest it."
     },
@@ -914,9 +914,9 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "1. On day 3, do three more timed tries. 2. Help your child draw a line graph of all ten times.",
+     "do": "1. On day 3, do three more timed tries. 2. Help your child make a line graph of all ten times. They can draw it, or lay the ten times out in a row and point to where the numbers fall.",
      "say": "This is the last day. Three more tries. Then let's draw a graph of all your times, from the first try to the tenth.",
-     "kid": "Do three last tries. Then draw a line graph of your times.",
+     "kid": "Do three last tries. Then make a line graph of your ten times.",
      "wait": "Do this on day 3."
     },
     {
@@ -1033,14 +1033,14 @@
      "what": "Two jumble rounds and two word rounds. Compare the scores."
     }
    ],
-   "record": "Fill in the table. Draw a bar for each round.",
+   "record": "Fill in the table. Show each round as a bar. Draw it, or lay out one coin for every letter you got right.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "Explain the test and ask for a guess with a reason.",
      "say": "I will read 12 letters, one each second. You say them back in the same order. First in a jumble, then the same letters as words. Which will be easier? Why?",
-     "kid": "Listen to 12 letters. Say them back in order. Jumble first, then words. Which is easier? Why?",
+     "kid": "Guess which will be easier to say back, the jumble or the words. Why?",
      "context": "This is the first step of Letters or Words, a test of how much your short-term memory can hold."
     },
     {
@@ -1109,7 +1109,7 @@
    "title": "Yesterday's Breakfast: what does your memory keep?",
    "mins": 8,
    "days": 1,
-   "context": "This is a starting activity. You try to remember things from yesterday, last month and long ago, and notice which ones your memory kept.",
+   "context": "This is a starting activity. You try to remember things from yesterday, last month and long ago. You will find out which ones your memory kept, and which it let go.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -1138,8 +1138,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Sort the answers into easy, hard and impossible. 2. Ask what the easy ones have in common.",
-     "say": "Let's sort them. Which were easy, which were hard, and which were impossible? Why do you think your brain kept some and let others go?",
-     "kid": "Sort them: easy, hard, impossible. Why did your brain keep some?",
+     "say": "Let's sort them. Which were easy, which were hard, and which were impossible?",
+     "kid": "Sort your answers into easy, hard and impossible.",
      "ask": [
       {
        "q": "Why do you remember your birthday but not an ordinary lunch?",
@@ -1169,7 +1169,7 @@
    "title": "Your Brain in Your Hands: how big and how heavy?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you find out roughly how big and how heavy a brain is, using your fists and a water bottle.",
+   "context": "In this activity you find out roughly how big and how heavy a brain is, using your fists and a water bottle. You will feel how heavy the part of you that thinks is.",
    "materials": [
     {
      "item": "a one-litre plastic water bottle, full",
@@ -1191,7 +1191,7 @@
      "what": "Put your fists together to see a brain's size. Lift a bottle that weighs as much as a grown-up's brain."
     }
    ],
-   "record": "Draw your two fists together and write: my brain is about this big.",
+   "record": "Take a photo of your two fists together, or draw them. Write: my brain is about this big.",
    "flow": [
     {
      "id": "s1",
@@ -1206,8 +1206,8 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Put the full one-litre bottle and the small bottle in the cloth bag. 2. Let your child lift it. 3. Ask how it feels.",
-     "say": "A grown-up's brain weighs about 1.3 kilograms. This bag is about that heavy. Lift it. Your brain uses about a fifth of the energy from all your food. Why do you think it needs so much?",
-     "kid": "Lift the bag. A grown-up's brain is this heavy. Why does it need so much food?",
+     "say": "A grown-up's brain weighs about 1.3 kilograms. This bag is about that heavy. Lift it. How does it feel? A brain is small, but it uses a lot of the energy from your food. Why do you think it needs so much?",
+     "kid": "Lift the bag. A grown-up's brain is about this heavy.",
      "check": {
       "t": "mcq",
       "q": "A brain is about 2% of the body's weight. How much of the body's energy does it use?",
@@ -1237,7 +1237,7 @@
    "title": "Make a Neuron from Dough",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make two model neurons from dough or clay, and show how a message crosses the gap between them.",
+   "context": "In this activity you make two model neurons from dough or clay, and show how a message crosses the gap between them. You will see how a brain cell is shaped and how it passes a message on.",
    "materials": [
     {
      "item": "a lump of atta dough the size of an orange, or play clay",
@@ -1259,7 +1259,7 @@
      "what": "Make two neurons from dough. Show a message crossing the gap with rava grains."
     }
    ],
-   "record": "Draw your neuron and label the middle, the branches, the tail and the gap.",
+   "record": "Point to the middle, the branches, the tail and the gap on your model, and say what each one does. You can also draw it and label the parts.",
    "flow": [
     {
      "id": "s1",
@@ -1274,7 +1274,7 @@
      "id": "s2",
      "mins": 7,
      "do": "1. Lay the tail of the first neuron near a branch of the second, with a tiny gap. 2. Drop a few rava grains into the gap. 3. Explain what they stand for.",
-     "say": "The two neurons do not quite touch. There is a tiny gap called a synapse. The message runs down the tail as electricity. Then it crosses the gap as chemicals, like these grains. What do you think happens if this gap is used again and again?",
+     "say": "The two neurons do not quite touch. There is a tiny gap called a synapse. The message runs down the tail as electricity. Then it crosses the gap as chemicals, like these grains.",
      "kid": "Leave a tiny gap. Drop grains in the gap. That is the message crossing!",
      "ask": [
       {
@@ -1327,7 +1327,7 @@
      "what": "Draw one line once and another line ten times, a little deeper each time. Tap the plate and see which line lasts."
     }
    ],
-   "record": "Draw the plate after tapping. Write which line stayed and why.",
+   "record": "Take a photo of the plate after tapping, or draw it. Write which line stayed and why.",
    "flow": [
     {
      "id": "s1",
@@ -1380,7 +1380,7 @@
    "title": "A Memory Walk Through Your Home",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you learn a trick used by memory champions. You put ten things to remember in ten places along a walk through your home.",
+   "context": "In this activity you learn a trick used by memory champions. You put ten things to remember in ten places along a walk through your home. You will find out how many things you can keep when each one has a place.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -1394,7 +1394,7 @@
      "what": "Choose ten places in your home. Put ten things there in your mind. Walk through them and recall all ten."
     }
    ],
-   "record": "Draw a map of your memory walk with the ten places numbered.",
+   "record": "Write your ten places as a numbered list. You can also draw a map of the walk.",
    "flow": [
     {
      "id": "s1",
@@ -1449,7 +1449,7 @@
    "title": "Colour and Number Pairs: Mary Calkins' test",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you try a memory test invented by Mary Whiton Calkins in the 1890s. You learn colours paired with numbers, and find out which pairs you remember best.",
+   "context": "In this activity you try a memory test invented by Mary Whiton Calkins in the 1890s. You learn colours paired with numbers. You will find out which pairs you remember best, and why.",
    "materials": [
     {
      "item": "8 crayons, colour pencils or squares of coloured paper, all different colours",
@@ -1474,7 +1474,7 @@
      "mins": 3,
      "do": "Tell your child about Mary Calkins, then explain the test.",
      "say": "Mary Calkins was an American scientist. In the 1890s she invented this test. Harvard University refused to give her a degree because she was a woman. I will show you a colour and say a number. Later I will show the colour again, and you say the number.",
-     "kid": "I show a colour and say a number. Later, you say the number!",
+     "kid": "A grown-up shows a colour and says a number. Later, you say the number for each colour.",
      "parent": "Calkins did all the work for a doctorate at Harvard in 1895, and her examiners praised it highly, but Harvard refused to give women degrees. She later led two of America's biggest groups of psychologists and philosophers. Her paired test is still used in memory research.",
      "context": "This is the first step of Colour and Number Pairs, a memory test from the 1890s."
     },
@@ -1577,7 +1577,7 @@
      "what": "Measure, then draw a graph of all seven days and write what changed."
     }
    ],
-   "record": "Each day, write the date, your number, and one sentence about how it felt. On day 7, draw a line graph.",
+   "record": "Each day, write the date, your number, and one sentence about how it felt. On day 7, make a line graph. Draw it, or write your seven numbers in a row and mark the biggest jump.",
    "flow": [
     {
      "id": "s1",
@@ -1601,8 +1601,8 @@
      "id": "s3",
      "mins": 15,
      "do": "On day 7, measure one last time, draw a line graph, and talk about it.",
-     "say": "Let's draw a graph of all seven days. What changed? Your arms and legs are the same as last week. So what changed?",
-     "kid": "Draw your seven numbers as a line. What changed? Where?",
+     "say": "Let's make a graph of all seven days. You can draw it, or write the seven numbers in a row. What changed? Your arms and legs are the same as last week. So what changed?",
+     "kid": "Make a line graph of your seven numbers. What changed?",
      "wait": "Do this on day 7.",
      "check": {
       "t": "mcq",
@@ -1663,7 +1663,7 @@
     "A card hung on the door handle, with 'done' on one side and 'not yet' on the other.",
     "Linking the tablet to something Thatha already does every evening, like watching the 7 o'clock news, so the old habit reminds him of the tablet."
    ],
-   "your_turn": "Now design your own reminder. Draw it, make a model, and test it with a pretend task, such as drinking a glass of water at 7 o'clock. Keep using it for three days if you like.",
+   "your_turn": "Now design your own reminder. Tell your idea, make a model, and test it with a pretend task, such as drinking a glass of water at 7 o'clock. Keep using it for three days if you like.",
    "flow": [
     {
      "id": "s1",
@@ -1676,9 +1676,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Draw two ideas. 2. Choose one and build a model from cardboard and pegs.",
-     "say": "Draw two ideas. Then choose one and build it. Your reminder must show at a glance whether today is done.",
-     "kid": "Draw two ideas. Build one. Can you tell at a glance?",
+     "do": "1. Ask your child to tell you two ideas, or draw them. 2. Choose one and build a model from cardboard and pegs.",
+     "say": "Tell me two ideas for a reminder. Then choose one and build it. Your reminder must show at a glance whether today is done.",
+     "kid": "Think of two ideas. Build one. Can you tell at a glance?",
      "adult": true,
      "parent": "A grown-up helps with scissors. Your child should test the model with a pretend task, such as drinking a glass of water at 7 o'clock, never with real medicines."
     },

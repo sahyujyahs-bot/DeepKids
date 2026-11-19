@@ -259,16 +259,16 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 - **s1 (3 min)**  
   *Parent does:* 1. Print or draw the board. 2. Cut out the question cards and the tokens. 3. Choose tokens.  
   *Parent says:* On this board, safe habits are ladders and risky habits are snakes. When you land on one, say why.  
-  *Child mode:* Safe habits are ladders. Risky habits are snakes. Say why when you land on one.
+  *Child mode:* Pick your token and put it on square 1.
 - **s2 (12 min)**  
   *Parent does:* Play the game. On each snake or ladder, ask for the reason.  
   *Parent says:* Why is that a snake? What would the safe habit be?  
-  *Child mode:* Why is it a snake? What should you do instead?
+  *Child mode:* Roll and move. When you land on a snake or ladder, say why.
   - Check: A player lands on square 24, where a wet spoon was put into the lime pickle. Why is that a snake? → **The water lets mould grow in the pickle**
 - **s3 (5 min)**  
   *Parent does:* Talk about the game at the end.  
   *Parent says:* Which snake happens most in our kitchen? Which ladder could we climb this week?  
-  *Child mode:* Which snake happens in our kitchen? Which ladder can we climb this week?
+  *Child mode:* Pick one snake and one ladder that are about our kitchen.
   - Think: Is there a habit in our home that would be a snake on this board?
 ### g2 · Keep or Throw? (10 min)
 - **rules:** Each player has a KEEP card and a THROW card.; One player is the reader. The reader reads the front of a food card aloud and does not play that round.; The other players hold up KEEP or THROW at the same time, then each gives one reason.; The reader reads the back. A right card with a good reason scores 2 points. A good reason with a wrong card scores 1.; Pass the pile to the next reader. Play until every card is read. The most points wins. If you play alone, read the front, choose and say your reason aloud, then turn the card over and score the same way.
@@ -276,17 +276,17 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 - **Printable cards: 4 answer cards: 2 KEEP and 2 THROW (cut 2 more for each extra player):** KEEP; THROW; KEEP; THROW
 - **s1 (2 min)**  
   *Parent does:* Hand out the KEEP and THROW cards. The first reader reads the front of the first food card.  
-  *Parent says:* Listen. Would you keep this food or throw it away? Hold up your card, then tell me why.  
-  *Child mode:* Keep or throw? Hold up your card. Then say why.
+  *Parent says:* Here is the first food. Listen, then hold up your card.  
+  *Child mode:* Keep or throw? Give your reason.
 - **s2 (6 min)**  
   *Parent does:* Read the cards one at a time. After each, ask for a reason, then read the back.  
-  *Parent says:* What would the microbes do in this food? Is it wet, warm, old, open, dry, salty or cold?  
-  *Child mode:* Think about the microbes. Is the food wet? Warm? Old? Dry? Salty?
+  *Parent says:* What would the microbes do in this food? Why?  
+  *Child mode:* Look for clues in the card: wet, warm, old, open, dry, salty or cold.
   - Check: A tin of food is bulging at the top. Should you keep it or throw it? → **Throw it, because microbes inside may be making gas**
 - **s3 (2 min)**  
   *Parent does:* Count the points.  
   *Parent says:* Which card was hardest? Why?  
-  *Child mode:* Which card was hardest? Why?
+  *Child mode:* Pick the card you found hardest and tell why.
   - Think: Which food in our kitchen right now would you keep, and which would you throw?
 
 ## Experiments
@@ -300,8 +300,8 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 - **schedule:** day 1: Guess, then boil the dal water, rinse and fill the three dabbas, and look at them at bedtime. (21 min); day 2: Look and smell, morning and evening, and fill in the table. (5 min); day 3: Look and smell again and decide the order. Then a grown-up throws the dal water away and washes the dabbas. (8 min)
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the three empty dabbas. 2. Explain what will go in each. 3. Ask for a guess and a reason, and write it down.  
-  *Parent says:* All three get the same boiled dal water. A gets a lid. B stays open. C gets a lid, but first an unwashed coriander leaf goes in. Which will go sour first? Why?  
-  *Child mode:* Three dabbas, the same dal water. A is closed. B is open. C is closed with an unwashed leaf. Which goes sour first? Why?
+  *Parent says:* All three get the same boiled dal water. A gets a lid. B stays open. C gets a lid, but first an unwashed coriander leaf goes in.  
+  *Child mode:* Look at the three dabbas. Think about what will happen to each one.
   - Ask: Which dabba do you think will stay fresh longest, and why? (good: A, because nothing new can get in.; A, because the leaf in C has dirt on it, and B is open to flies and dust.)
   - Note: Write the guess and the reason down, word for word. Do not say what you expect. Any reason is a good start.
 - **s2 (6 min) · grown-up needed**  
@@ -327,13 +327,13 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 - **s6 (5 min)**  
   *Parent does:* 1. Morning and evening, lift each lid and look at the top. 2. Waft the smell towards your nose. 3. Fill in the table.  
   *Parent says:* Look for bubbles, froth, a skin on top or fuzz. Then waft the smell with your hand. Fresh, a little sour, or very sour?  
-  *Child mode:* Look at the top. Bubbles? Froth? A skin? Fuzz? Waft the smell. Write it down.
+  *Child mode:* Look at the top of each dabba and waft its smell. Write what you see in the table.
   - Note: In a warm room, dabba C usually smells sour first, often by the next morning, with bubbles on top. B often follows by the evening of day 2, sometimes with a thin skin. A stays fresh longest. In a cool room, everything takes a day or two longer, so keep looking.
   - Wait: Day 2, morning and evening: look and smell.
 - **s7 (5 min)**  
   *Parent does:* 1. Look and smell on day 3. 2. Write the order in which they spoiled. 3. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* Which went sour first? Which stayed fresh longest? What do you think made the difference?  
-  *Child mode:* Which went sour first? Which stayed fresh longest? Why do you think so?
+  *Child mode:* Look and smell again. Write 1st, 2nd or 3rd in the last column.
   - Ask: Why do you think C spoiled first, if it did? (good: The leaf brought soil and microbes into it.; It started with many more microbes than A.)
   - Ask: Why might B have spoiled before A? (good: Microbes landed on it from the air and dust.; A small fly might have visited it.)
   - Note: If A also spoiled, that is a real result. A few bacteria make spores that survive boiling, and a lid on a dabba is not a perfect seal. Ask which spoiled first, not only which spoiled. The order in which they spoil is the result to trust. The exact day depends on how warm your room is.
@@ -349,12 +349,12 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 - **question:** How many washes does a bunch of coriander from the market need before the water stays clear?
 - **predict:** Before you start, guess. After how many washes will the water look clear? Why do you think so?
 - **fair test:** To make it fair, use the same amount of water each time, in the same bowl, and swish the leaves for the same time, 20 seconds.
-- **record:** Fill in the table. Then draw a row of glasses, one for each wash, coloured from brown to clear.
+- **record:** Fill in the table. Then show how the water changed: draw a row of glasses coloured from brown to clear, or take a photo of the water after each wash.
 - **results table:** Wash number | Colour of the water (brown, light brown, nearly clear, clear) | Bits at the bottom (many, some, few, none)
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the coriander bunch, and the soil on its roots. 2. Ask for a guess and a reason.  
-  *Parent says:* Soil carries many microbes. How many washes will it take to get the soil off this coriander? Why do you think so?  
-  *Child mode:* Look at the roots. See the soil? How many washes until the water is clear? Why?
+  *Parent says:* Soil carries many microbes, so we wash it off. Let's guess how many washes this coriander needs, and why.  
+  *Child mode:* Look at the roots. See the soil? Guess how many washes.
 - **s2 (3 min)**  
   *Parent does:* 1. Pour 4 tumblers of water into the big bowl. 2. Put the coriander in. 3. Swish it gently for 20 seconds, timed.  
   *Parent says:* Swish it gently, so the leaves rub against the water. Twenty seconds, then stop.  
@@ -362,7 +362,7 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 - **s3 (4 min)**  
   *Parent does:* 1. Lift the coriander out and hold it over a plate. 2. Pour a little of the water into the white bowl or glass. 3. Write its colour and the bits you see.  
   *Parent says:* Lift the leaves out first, so the soil stays behind. What colour is the water? What is at the bottom?  
-  *Child mode:* Lift the leaves out. Pour some water into the white bowl. What colour is it?
+  *Child mode:* Lift the leaves out. Pour some water into the white bowl and look. Write the colour in the table.
   - Note: Lift the leaves out before pouring, or the soil settles back onto them.
 - **s4 (7 min)**  
   *Parent does:* 1. Pour away the dirty water and rinse the bowl. 2. Repeat the wash with fresh water. 3. Keep going until the water in the white bowl looks clear.  
@@ -371,8 +371,8 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
   - Note: Most market coriander needs 3 or 4 washes. Coriander from a supermarket may already be cleaner, so it may clear in 1 or 2.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say what they found, and why it matters.  
-  *Parent says:* The water got clear. Do you think every microbe is gone now? Why, or why not?  
-  *Child mode:* The water is clear. Are all the microbes gone? Why or why not?
+  *Parent says:* The water is clear now. What does that tell us?  
+  *Child mode:* Think about what your eyes can see, and what they cannot.
   - Ask: Is clear water proof that the coriander has no microbes left? (good: No. Microbes are too small to see, so some may still be on the leaves.; No, but there are far fewer, because most of the soil is gone.)
   - Check: After 4 washes, the water looked clear. What is most likely true about the coriander? → **Most soil and many microbes are gone, but some microbes are still there**
 ### e3 · The Five-Second Test: does dropped food pick up dirt? (20 min)
@@ -381,12 +381,12 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 - **predict:** Before you start, guess. Will a wet cucumber slice or a dry biscuit pick up more turmeric? Will 1 second or 10 seconds pick up more? Why do you think so?
 - **fair test:** To make it fair, dust the plate the same way each time, drop each food from the same height, and do not press the food down. Use a fresh patch of turmeric for each drop.
 - **safety:** A grown-up cuts the cucumber. Do not eat the test foods.
-- **record:** Fill in the table. Draw each food after the test, colouring the yellow parts.
+- **record:** Fill in the table. Then line the four foods up from least yellow to most yellow, and take a photo.
 - **results table:** Food | Time on the plate | How much yellow stuck (none, a little, a lot)
 - **s1 (3 min)**  
   *Parent does:* 1. Tell your child about the five-second rule. 2. Ask for a guess and a reason.  
   *Parent says:* Some people say dropped food is fine if you pick it up within five seconds. Turmeric will be our pretend dirt. What do you think will happen?  
-  *Child mode:* Some people say dropped food is safe if picked up fast. Is that true? Guess first.
+  *Child mode:* Make a guess first. Then say why you think so.
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts two thin cucumber slices. 2. Through the strainer, sprinkle four separate thin patches of turmeric on the plate, each about the size of your palm.  
   *Parent says:* A thin layer is enough, like the dust on a floor. We need a fresh patch for each drop, so make four.  
@@ -404,7 +404,7 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 - **s5 (3 min)**  
   *Parent does:* Compare all four foods. Ask what your child thinks, what they saw, and why.  
   *Parent says:* Which food picked up the most? Was 1 second enough to pick up some?  
-  *Child mode:* Which picked up the most? Was 1 second safe?
+  *Child mode:* Look at all four foods. Line them up from least yellow to most yellow.
   - Ask: Why do you think the wet cucumber picked up more? (good: Wet things are sticky, so the powder clings.; The water holds the turmeric.)
   - Note: Floors that are wet, or that many feet walk over, hold the most, such as near the door, the bathroom or the dustbin. Microbes need water, and feet carry them in.
   - Check: A wet slice of cucumber is dropped on the kitchen floor and picked up in one second. What is true? → **Some dirt and microbes can stick to it, even in one second**
@@ -428,10 +428,10 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
   *Child mode:* What do you wonder? What if we did none of these?
   - Think: What is the food being kept safe from?
 ### a2 · Dust Catcher: what lands on uncovered food? (10 min, 2 days)
-- **record:** Draw both plates and the specks you see on each. Write which had more.
+- **record:** Count the specks on each plate and write both numbers. Write which had more. Take a photo of each plate, or draw the specks.
 - **schedule:** day 1: Wipe two dark plates clean and dry. Leave both on the kitchen counter, one covered and one open. (3 min); day 2: Shine a torch low across each plate and compare the specks. (7 min)
 - **s1 (3 min)**  
-  *Parent does:* 1. Wipe both plates clean and dry. 2. Put them on the counter, near the window if you can. 3. Cover one with a bowl.  
+  *Parent does:* 1. Wipe both plates clean and dry. 2. Put them on the counter, near the window if you can. 3. Cover one with a bowl. 4. Leave both overnight.  
   *Parent says:* These two plates are like two plates of food. One is covered and one is open. What will land on them tonight?  
   *Child mode:* Two clean plates. Cover one. Leave one open. What will land on them?
 - **s2 (5 min)**  
@@ -448,9 +448,9 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 ### a3 · Parts of Food and Their Jobs: sort your meal (15 min)
 - **record:** Your three circles with each food drawn or written in the right one, and one sentence on what is missing.
 - **s1 (3 min)**  
-  *Parent does:* Draw three circles. Label them: energy, building and repair, protecting.  
+  *Parent does:* Draw three big circles on the paper. Label them: energy, building and repair, protecting.  
   *Parent says:* Every food has a main job in your body. Some give energy, some build you, some keep you well.  
-  *Child mode:* Draw three circles. Energy. Building. Protecting.
+  *Child mode:* Make three circles on the paper. Name them: energy, building, protecting.
 - **s2 (8 min)**  
   *Parent does:* 1. Name each food on the plate. 2. Ask which circle it goes in, and why.  
   *Parent says:* Rice, which circle? Dal? Ghee? The beans poriyal? Curd?  
@@ -473,12 +473,12 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
   *Child mode:* Find FSSAI and its number. Which packets say keep it cold?
   - Note: Milk and curd usually say keep refrigerated, and spoil within a few days. Biscuits and masala keep for months, because they are dry.
 - **s3 (3 min)**  
-  *Parent does:* Compare the dates and work out how many days are left on each packet.  
+  *Parent does:* Count the days from today's date to the date on each packet. Compare them.  
   *Parent says:* Which food has the shortest time? Which has the longest? What is different about them?  
-  *Child mode:* Which food lasts the shortest time? Which lasts longest? Why?
+  *Child mode:* Count the days left on each packet. Put the packets in a row, shortest time first.
   - Think: Why does dry food get a much later date than milk?
 ### a5 · Old Ways: how families kept food before fridges (20 min)
-- **record:** Write or draw three ways they kept food. For each one, say how it works: washing, covering, cooking, keeping cold, or an old way such as drying, salt or sourness.
+- **record:** Write down, or draw, three ways they kept food. For each one, say how it works: washing, covering, cooking, keeping cold, or an old way such as drying, salt or sourness.
 - **s1 (3 min)**  
   *Parent does:* Help your child choose an elder and write three questions.  
   *Parent says:* Before fridges, families still kept food for days and months. Let's ask someone how.  
@@ -495,15 +495,15 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
   *Child mode:* For each way: dry? salt? sour? covered? heat?
   - Think: Which of these old ways do we still use?
 ### a6 · Draw the Dabba from a Microbe's Side (10 min)
-- **record:** Your drawing, with labels for the microbes, the food they eat, and what they make.
+- **record:** Your drawing or plate, with labels for the microbes, the food they eat, and what they make. A photo is fine.
 - **s1 (2 min)**  
   *Parent does:* Remind your child of the Three Dabbas test.  
   *Parent says:* In the Three Dabbas test, one dabba went sour first. We could not see the microbes in it. Let's draw what you think was going on inside.  
-  *Child mode:* In the Three Dabbas test, one dabba went sour first. Draw what was happening inside it.
+  *Child mode:* Remember the dabba that went sour first. How did it look and smell?
 - **s2 (6 min)**  
-  *Parent does:* Ask your child to draw a zoomed-in view of the dal water.  
-  *Parent says:* Draw a big circle, as if you had a magic magnifying glass. Show the microbes, the food, and the bubbles they made.  
-  *Child mode:* Draw a big zoom circle. Show the microbes, the food, and the bubbles.
+  *Parent does:* Ask your child to show the zoomed-in dal water: draw it, or lay out dal and rice on a plate.  
+  *Parent says:* Imagine a magic magnifying glass. Show the microbes, the food, and the bubbles they made.  
+  *Child mode:* Show microbes, food and bubbles. Draw a zoom circle, or use dal and rice.
   - Note: Good drawings show microbes landing, feeding, splitting into two, and making bubbles of gas. There is no wrong drawing. Ask what each part shows.
 - **s3 (2 min)**  
   *Parent does:* Ask your child to explain their drawing.  
@@ -532,13 +532,13 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
 - **s4 (9 min)**  
   *Parent does:* On days 2, 4 and 7, shake the jar and look. Write what you see.  
   *Parent says:* Is there more juice? Are the skins softer? Is there any mould?  
-  *Child mode:* Shake the jar. More juice? Softer skins? Any mould?
+  *Child mode:* Shake the jar. Look at the juice, the skins and the top.
   - Note: The juice should cover most of the pieces by day 4. The skins slowly turn soft and darker over two to three weeks.
   - Wait: Days 2, 4 and 7: shake and look.
 - **s5 (11 min)**  
   *Parent does:* On day 14, take out one piece with a dry spoon and taste a little with rice and curd.  
-  *Parent says:* Two weeks warm, no fridge, and no mould. What stopped the microbes?  
-  *Child mode:* Taste a little with curd rice. Why did no mould grow?
+  *Parent says:* Two weeks warm, no fridge, and no mould.  
+  *Child mode:* Taste a little with curd rice. How does it taste?
   - Note: At 14 days the pieces are still firm, sharp and very salty. They turn soft and mellow after about three weeks. Taste only a small piece.
   - Check: A family's lemon pickle stayed good for weeks without a fridge. What is the main reason? → **The salt pulled water out of the lemons and out of any microbes**
   - Wait: Day 14: taste and explain.
@@ -555,9 +555,9 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
   *Parent says:* Milk left out on a hot day can turn sour by the evening. What do microbes need? Which of those can we take away?  
   *Child mode:* No fridge. Hot day. How do you keep milk until morning?
 - **s2 (10 min)**  
-  *Parent does:* Draw or write two plans.  
+  *Parent does:* Make two plans. Draw them, write them, or say them out loud.  
   *Parent says:* Use what you know: heat kills most microbes, a lid keeps new ones out, and cooler milk slows them.  
-  *Child mode:* Draw two plans. Use heat, a lid and cooling.
+  *Child mode:* Make two plans. Draw, write or tell them. Use heat, a lid and cooling.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* Try your best plan with a small amount of milk, with a grown-up.  
   *Parent says:* Let's try your plan with one cup of milk tonight, and check it in the morning.  
@@ -579,13 +579,13 @@ In Delhi, their aunt asked what they had eaten on the train. Arjun told her abou
   *Parent says:* Let's count how many tumblers of water we use to wash these vegetables the usual way.  
   *Child mode:* Count the tumblers of water we use now.
 - **s2 (8 min)**  
-  *Parent does:* Draw or write a plan that uses less water.  
+  *Parent does:* Make a plan that uses less water. Write it, draw it, or say it out loud.  
   *Parent says:* Which vegetables are muddiest? Which could share water? What could the used water do next?  
-  *Child mode:* Make a plan. Which vegetables can share water?
+  *Child mode:* Make your plan with your grown-up. Write it, draw it, or say it.
 - **s3 (12 min)**  
   *Parent does:* Try the plan. Count the tumblers. Check the last rinse is clear.  
   *Parent says:* Count every tumbler. Rub each vegetable. Is the last rinse clear?  
-  *Child mode:* Try it. Count the tumblers. Is the last rinse clear?
+  *Child mode:* Wash with your plan. Keep count of the tumblers.
 - **s4 (5 min)**  
   *Parent does:* Compare with the first count.  
   *Parent says:* How many tumblers did you save? Were the vegetables still clean?  

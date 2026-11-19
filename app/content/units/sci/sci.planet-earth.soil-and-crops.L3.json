@@ -534,7 +534,7 @@
      "mins": 2,
      "do": "Lay out the board, the cards and the tokens, and find a dice. Read the rules aloud.",
      "say": "Each of us is a grain of rock high on a mountain. We race down to a rice field. Answer a question right to roll the dice.",
-     "kid": "You are a grain of rock on a mountain. Race to the rice field!",
+     "kid": "Pick your token and put it on the mountain, square 0.",
      "context": "This is the start of Rock to Rice, a board game about how a grain of rock becomes part of a field."
     },
     {
@@ -663,7 +663,7 @@
      "mins": 2,
      "do": "Hand out the answer cards and read the first card.",
      "say": "A pebble. Does it sink at once, settle slowly, or float?",
-     "kid": "Does it sink at once, settle slowly, or float? Show your card.",
+     "kid": "Pick the answer card you think is right. Show it.",
      "context": "This is the start of Sink, Settle or Float?, a game about why soil sorts itself into layers in water."
     },
     {
@@ -671,7 +671,7 @@
      "mins": 6,
      "do": "Take turns reading the cards one at a time. Test a few of the things in a glass of water.",
      "say": "Show your card. Why did you choose that? Let's test it.",
-     "kid": "Show your card. Say why. Then test it.",
+     "kid": "Show your answer card and say why. Then watch the test.",
      "check": {
       "t": "mcq",
       "q": "Atta and sand are both powders. Why does atta make the water cloudy for longer?",
@@ -687,9 +687,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Talk about the soil jar.",
+     "do": "Lay the used cards in three groups: like the sand layer, like the silt and clay, and like the floating bits.",
      "say": "Which things in this game are like the layers in the soil jar?",
-     "kid": "Which things are like the layers in the soil jar?",
+     "kid": "Sort the cards into the three groups.",
      "parent": "Pebbles and sand are like the sand layer. Atta and chalk powder are like silt and clay. Leaves, twigs and roots are like the floating bits of humus."
     }
    ],
@@ -761,14 +761,14 @@
      "what": "Look at the jar again. Mark the new layers and measure them."
     }
    ],
-   "record": "Draw the jar after 1 minute, after 30 minutes and the next day. Label each layer: sand, silt, clay, water and floating bits. Write the height of each layer.",
+   "record": "Draw the jar after 1 minute, after 30 minutes and the next day, or print the photos. Label each layer: sand, silt, clay, water and floating bits. Write the height of each layer.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Spread one spoon of soil on a white paper. 2. Look closely, with a magnifying glass if you have one. 3. Rub a pinch between finger and thumb.",
      "say": "Before we test it, let's look closely. What can you see in the soil? What does it feel like when you rub it?",
-     "kid": "Spread a spoon of soil on white paper. Look closely. Rub a pinch. What do you see and feel?",
+     "kid": "Spread a spoon of soil on white paper. Look closely. Rub a pinch between your finger and thumb.",
      "ask": [
       {
        "q": "What do you see in the soil?",
@@ -787,7 +787,7 @@
      "mins": 3,
      "do": "Ask your child to guess what will happen in the jar, and why. Write the guess down.",
      "say": "We will shake this soil in water, then leave the jar still. What do you think will happen? Why do you think so?",
-     "kid": "We will shake soil in water. Then the jar stays still. What will happen? Why?",
+     "kid": "Say your guess out loud, and give a reason for it.",
      "ask": [
       {
        "q": "What do you think the jar will look like after an hour?",
@@ -830,9 +830,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. After 30 minutes, look again. Look once more in the afternoon if you can. 2. Mark the top of the new, smoother layer. 3. Draw the jar.",
+     "do": "1. After 30 minutes, look again. Look once more in the afternoon if you can. 2. Mark the top of the new, smoother layer. 3. Take a photo of the jar.",
      "say": "Half an hour later, look again. Is there a new layer on top of the sand? Is the water still cloudy?",
-     "kid": "Look again after 30 minutes. Is there a new layer? Mark it and draw the jar.",
+     "kid": "Look again after 30 minutes. Is there a new layer? Mark it. Take a photo of the jar.",
      "parent": "A finer layer of silt is settling on top of the sand. It can take a few hours to finish, so look again later in the day. The water is still cloudy because the clay grains are so small they are still floating.",
      "check": {
       "t": "mcq",
@@ -975,7 +975,7 @@
      "what": "Pack two cups of soil. Make tunnels in one. Pour water on both and time how long it takes to soak in."
     }
    ],
-   "record": "Fill in the table. Draw both cups, with the water on top and the tunnels.",
+   "record": "Fill in the table. Draw both cups, with the water on top and the tunnels, or take a photo of each.",
    "flow": [
     {
      "id": "s1",
@@ -1114,7 +1114,7 @@
      "what": "Shake chalk pieces in a dry box and a wet box for five minutes. Compare the pieces and the powder."
     }
    ],
-   "record": "Draw one piece of chalk before and after. Write how many pieces there were, and which box made more powder.",
+   "record": "Draw one piece of chalk before and after, or take a photo of each. Write how many pieces there were, and which box made more powder.",
    "flow": [
     {
      "id": "s1",
@@ -1221,7 +1221,7 @@
      "what": "Spread soil on paper, sort what you find with a toothpick, and rub wet soil to feel sand, silt and clay."
     }
    ],
-   "record": "Draw three things you found in the soil, and write how the wet soil felt.",
+   "record": "Tell your grown-up three things you found in the soil, or draw them. Write how the wet soil felt.",
    "flow": [
     {
      "id": "s1",
@@ -1270,7 +1270,7 @@
      }
     }
    ],
-   "context": "In this activity you look at soil closely, feel it wet and dry, and smell it.",
+   "context": "In this activity you look at soil closely, feel it wet and dry, and smell it. You will find out what soil is made of, just by using your eyes, hands and nose.",
    "setup": [
     {
      "art": "Soil spread on white paper, sorted by a toothpick into three small piles: grains, tiny roots and leaf bits, and a seed.",
@@ -1333,7 +1333,7 @@
      "what": "Draw the final layers. Release the worms."
     }
    ],
-   "record": "Draw the bottle on day 1, day 3 and day 7. Show the layers, the tunnels and the leaves.",
+   "record": "Take a photo of the bottle on day 1, day 3 and day 7, or draw it. Show the layers, the tunnels and the leaves.",
    "flow": [
     {
      "id": "s1",
@@ -1364,9 +1364,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "On day 7, draw the bottle, then release the worms into a pot or a compost bin.",
+     "do": "On day 7, take a photo of the bottle, then release the worms into a pot or a compost bin.",
      "say": "What did the worms do to the stripes and to the leaves in one week? Think of worms doing that in a whole field for a hundred years.",
-     "kid": "Draw the bottle. What did the worms change? Now let them go.",
+     "kid": "What did the worms change? Take a photo of the bottle, then let the worms go.",
      "check": {
       "t": "mcq",
       "q": "After a week, some leaves have been pulled down into the soil. Who did it?",
@@ -1418,21 +1418,21 @@
      "what": "Colour the soils on a map of India and put each crop card on the right soil."
     }
    ],
-   "record": "Your coloured map, with each crop drawn on its soil.",
+   "record": "Your coloured map, with each crop on its soil. Use the real crop or its name slip, or draw it.",
    "flow": [
     {
      "id": "s1",
      "mins": 7,
      "do": "1. Colour the south red for red soil. 2. Colour the Deccan black. 3. Colour the Ganga plains and the river deltas yellow for river soil. 4. Colour the west coast brown for laterite.",
      "say": "India has red soil, black soil, river soil and laterite. Let's colour where each is found. Which colour is under our home?",
-     "kid": "Colour the four soils on the map. Which soil is near your home?",
+     "kid": "Colour the four soils, or lay paper scraps on the map. Which is near your home?",
      "context": "This is a map activity. You colour the main soils of India and find out which crops grow in each one.",
      "parent": "Red soil also covers parts of Odisha, Jharkhand and the north-east hills, and black soil spreads into Gujarat and Madhya Pradesh. Colour the main areas only."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Take the five crops: ragi, rice, groundnut, cotton and cashew. 2. Place each crop on the soil where it grows well.",
+     "do": "1. Take the five crops: ragi, rice, groundnut, cotton and cashew. 2. Place each crop on the soil where it grows well. No real crop? Write its name on a slip of paper.",
      "say": "Cotton loves black soil that holds water. Rice grows in the river deltas. Ragi and groundnut grow well in red soil. Cashew grows in laterite. Where does each one go?",
      "kid": "Put each crop on its soil. Cotton, rice, ragi, groundnut, cashew.",
      "check": {
@@ -1448,7 +1448,7 @@
      }
     }
    ],
-   "context": "In this activity you colour a map of India's soils and match crops to them.",
+   "context": "In this activity you colour a map of India's soils and match crops to them. You will find out which soil each crop likes best.",
    "setup": [
     {
      "art": "A blank map of India and four colour pencils: red, black, yellow and brown.",
@@ -1501,7 +1501,7 @@
      "parent": "Steps and old floors are worn smooth where feet rub them. The rubbed-off rock became tiny grains, carried away on shoes and by mops. Outdoors, sun, rain and roots do the same, and the grains join the soil."
     }
    ],
-   "context": "In this activity you find rocks at home and look for signs that they are slowly wearing away.",
+   "context": "In this activity you find rocks at home and look for signs that they are slowly wearing away. You will find out that rock around you is changing, very slowly.",
    "setup": [
     {
      "art": "A speckled granite kitchen counter and an old stone grinding stone on a kitchen floor.",
@@ -1554,11 +1554,11 @@
      "mins": 4,
      "do": "Decide together which pot needs feeding with compost or fallen leaves.",
      "say": "Which pot has hard, pale soil? How could we feed it?",
-     "kid": "Which pot has hard, pale soil? How could we feed it?",
+     "kid": "Point to the pot that needs feeding. Choose compost or fallen leaves to feed it.",
      "parent": "Hard, pale soil that water runs off is packed and low in humus. Loosening the top with a fork and adding a layer of compost or dry leaves helps."
     }
    ],
-   "context": "In this activity you check the soil in your own pots to see if it is packed and tired.",
+   "context": "In this activity you check the soil in your own pots to see if it is packed and tired. You will find out which pots need feeding.",
    "setup": [
     {
      "art": "A child pushing a pencil into the soil of a potted plant on a balcony.",
@@ -1625,7 +1625,7 @@
      "what": "Measure again. Compare the two pots and explain the difference."
     }
    ],
-   "record": "A table of counts and heights on days 7, 14 and 21, and a drawing of both pots on day 21.",
+   "record": "A table of counts and heights on days 7, 14 and 21, and a photo or drawing of both pots on day 21.",
    "flow": [
     {
      "id": "s1",
@@ -1730,7 +1730,7 @@
      "mins": 15,
      "do": "1. Press fresh soil onto the board in the same way, with the same slope. 2. Add your protection. 3. Pour the same water. 4. Compare the water in the bowl.",
      "say": "Now protect the soil. Use leaves, sticks, a cloth or plants. Pour the same water. Is the water in the bowl clearer?",
-     "kid": "Cover the soil with leaves, sticks, a cloth or plants. Pour the same water again. Is the water in the bowl clearer?",
+     "kid": "Cover the soil with leaves, sticks, a cloth or plants. Pour the same water again.",
      "adult": false,
      "parent": "Do this in the bathroom or on the balcony. A layer of leaves or a mat of sprouts usually gives much clearer water. Clearer water means less soil was lost."
     },
@@ -1739,7 +1739,7 @@
      "mins": 7,
      "do": "Read the usual and creative ideas, and try one more.",
      "say": "Here is what farmers do on hills. Which idea worked best for us? Why?",
-     "kid": "Which idea worked best? Why?"
+     "kid": "Pick the idea that worked best. Tell why."
     }
    ],
    "setup": [
@@ -1784,7 +1784,7 @@
      "mins": 10,
      "do": "1. Make three mixes, twelve spoons each: all sand, all compost, and four spoons each of sand, soil and compost. 2. Put each in a cup over a tumbler.",
      "say": "Let's make three soils. All sand. All compost. And a mix of all three. Which one will drain best? Which will hold water best?",
-     "kid": "Make three soils: all sand, all compost, and a mix of sand, soil and compost. Which will drain best? Which will hold water best?",
+     "kid": "Make three soils: all sand, all compost, and a mix of sand, soil and compost.",
      "adult": true,
      "context": "This is a design challenge. You mix sand, soil and compost to make the best soil for a pot."
     },
@@ -1793,7 +1793,7 @@
      "mins": 12,
      "do": "1. Pour half a tumbler of water on each cup. 2. After five minutes, compare how much water dripped into each tumbler.",
      "say": "Pour the same amount of water on each cup. Wait five minutes. Which tumbler caught the most water?",
-     "kid": "Pour the water. Wait five minutes. Which tumbler has the most?",
+     "kid": "Pour the water. Wait five minutes. Then look at the tumblers.",
      "parent": "Sand lets most water drip through fast. Compost holds the most. The mix is in between, which most pot plants like. Dry compost can let water run through in channels at first, so the difference may be small. Write down what you see."
     },
     {
@@ -1801,7 +1801,7 @@
      "mins": 8,
      "do": "Choose the best mix for the tulsi and explain why.",
      "say": "A tulsi plant does not like their roots sitting in wet soil, and they do not like to dry out either. Which mix would you choose? Why?",
-     "kid": "Which mix is best for a tulsi? Why?"
+     "kid": "Pick the best mix for the tulsi. Tell why."
     }
    ],
    "setup": [

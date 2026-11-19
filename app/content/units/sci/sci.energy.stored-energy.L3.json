@@ -382,7 +382,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each card names something that has energy. Players decide whether the energy is waiting or moving, and name the kind of store. The answer is on the back of each card.",
+   "context": "This is a card game. You will learn to tell, just by looking, which things have energy waiting and which have energy moving. Each card names something with energy. Players say waiting or moving, and name the kind of store. The answer is on the back of each card.",
    "printables": [
     {
      "kind": "cards",
@@ -528,7 +528,7 @@
      "mins": 3,
      "do": "1. Cut out the cards. 2. Lay the 4 store cards in a row. 3. Shuffle the 24 cards and make a pile.",
      "say": "Each card shows something with energy. You say whether its energy is waiting or moving.",
-     "kid": "Each card has energy. Is it waiting or moving? Say which!",
+     "kid": "Look at the cards. You will say waiting or moving for each one.",
      "context": "This is the first step of Waiting or Moving, a card game about stored energy."
     },
     {
@@ -536,15 +536,15 @@
      "mins": 10,
      "do": "Take turns turning over cards, saying waiting or moving, and placing waiting cards under a store.",
      "say": "A coconut high on a palm tree. Waiting or moving? Which store? What would let its energy out?",
-     "kid": "Turn a card. Waiting or moving? Which store? How does the energy come out?",
+     "kid": "Turn a card. Say waiting or moving. Then put it under its store.",
      "parent": "The two tricky cards are the phone on its charger and the clock key being turned. Their energy is moving into a store, filling it. The back of each card says so. Count a child who says 'moving' as right."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Count the cards and the bonus points.",
-     "say": "Let's count. Which store had the most cards under it?",
-     "kid": "Count your cards. Which store got the most?",
+     "say": "Let's count. Which store has the most cards under it?",
+     "kid": "Count your cards and bonus points.",
      "check": {
       "t": "mcq",
       "q": "Which card shows energy waiting in height?",
@@ -577,7 +577,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is an acting game. One player winds up the others like toys, and they move only as much as they were wound.",
+   "context": "This is an acting game. You will find out that a wound-up toy gives back exactly what was put in, even after waiting. One player winds up the others like toys, and they move only as much as they were wound.",
    "printables": [
     {
      "kind": "cards",
@@ -716,7 +716,7 @@
      "what": "Build the roll-back jar. Guess, then test 1, 2, 3 and 4 turns, 3 tries each. Do the wait test: hold the wound jar still for a minute, then let go. Say what you found."
     }
    ],
-   "record": "Fill in the table. Then draw a bar for each number of turns, as tall as the middle result. Write one sentence under it: what the bars show.",
+   "record": "Fill in the table. Then show each number of turns as a bar, as long as the middle result: draw it, or lay a strip of paper or string of that length. Write one sentence: what the bars show.",
    "flow": [
     {
      "id": "s1",
@@ -739,8 +739,8 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Put the jar on its side on a chalk line on the floor. 2. Ask your child to guess how far it will roll back after 1, 2, 3 and 4 turns. 3. Write each guess in the table. 4. Ask the second question: will it still roll back if we hold it still for a minute?",
-     "say": "When I roll this jar forward, what do you think happens to the band inside? How far will it roll back after one turn? After four turns? Why do you think so?",
-     "kid": "Guess how far it rolls back after 1, 2, 3 and 4 turns. Why do you think so?",
+     "say": "When I roll this jar forward, what do you think happens to the band inside? How far will it roll back after one turn? After four turns?",
+     "kid": "Guess how far it rolls back after 1, 2, 3 and 4 turns.",
      "ask": [
       {
        "q": "Why do you think more turns will make it roll back further?",
@@ -914,7 +914,7 @@
      "mins": 3,
      "do": "Ask your child to guess whether the tired cell will run the clock, and why.",
      "say": "This cell can hardly light the torch. Do you think it can run the clock? Why do you think so?",
-     "kid": "This cell can hardly light the torch. Will it run the clock? Why?",
+     "kid": "Guess before we try: will the clock tick, tick slowly, or stay still?",
      "ask": [
       {
        "q": "Why do you think the clock will not work?",
@@ -1037,7 +1037,7 @@
      "what": "Hunt for 8 things with energy waiting in them, and sort them into four kinds of store."
     }
    ],
-   "record": "Draw a table with four columns: height, shape, food and fuel, cells. Write each thing you find in the right column.",
+   "record": "Rule a table with four columns: height, shape, food and fuel, cells. Write each thing you find in the right column. A grown-up can write for you.",
    "flow": [
     {
      "id": "s1",
@@ -1124,7 +1124,7 @@
      "what": "Make the jumper. Try a loose band and a tight band, 3 times each. See which jumps higher."
     }
    ],
-   "record": "Draw your jumper folded flat and jumping. Write which band made it jump higher.",
+   "record": "Write which band made it jump higher, and how many cm each one jumped. Drawing your jumper is optional.",
    "flow": [
     {
      "id": "s1",
@@ -1156,8 +1156,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Use the same card and the same floor each time. 2. Try a looser band, then a tighter band, 3 times each. 3. Hold a ruler upright beside the jumper and see how high each one jumps.",
-     "say": "Which band do you think will make it jump higher, the loose one or the tight one? Why? Let's try.",
-     "kid": "Try a loose band. Then a tight band. Which jumps higher? Why?",
+     "say": "Let's test two bands, a loose one and a tight one. Watch how high each one makes the card jump.",
+     "kid": "Try a loose band. Then a tight band. Hold the ruler beside it and see how high it jumps.",
      "check": {
       "t": "mcq",
       "q": "A tighter band is stretched more when the card is folded. Which band should store more energy and make the jumper jump higher?",
@@ -1209,7 +1209,7 @@
      "what": "Find the energy number on each packet. Put the foods in order, from most to least energy per 100 grams."
     }
    ],
-   "record": "Make a list of the foods, with the energy number per 100 grams next to each. Draw a star next to the one with the most.",
+   "record": "Make a list of the foods, with the energy number per 100 grams next to each. Put a star next to the one with the most.",
    "flow": [
     {
      "id": "s1",
@@ -1294,7 +1294,7 @@
      "what": "Make three holes in a bottle. Guess which jet will shoot out hardest. Fill it and watch."
     }
    ],
-   "record": "Draw the bottle and the three jets, as they really came out. Write which jet was strongest, and why.",
+   "record": "Write which jet was strongest, and why. Show how the jets really came out: draw the bottle and the three jets, or take a photo.",
    "flow": [
     {
      "id": "s1",
@@ -1310,10 +1310,10 @@
      "mins": 3,
      "do": "1. Stand the bottle on the upturned bowl in the bucket. 2. Fill it to the top with water. 3. Ask your child to guess which hole will shoot out hardest.",
      "say": "When we pull off the tape, which hole do you think will squirt the hardest? The top, the middle or the bottom? Why do you think so?",
-     "kid": "Which hole will squirt hardest? Top, middle or bottom? Why?",
+     "kid": "Point to the hole you think will squirt hardest.",
      "ask": [
       {
-       "q": "Why do you think the bottom hole will squirt hardest?",
+       "q": "Why do you think that hole will squirt hardest?",
        "good": [
         "Because it has the most water above it.",
         "Because the water above pushes down on it."
@@ -1333,8 +1333,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Talk about the water tank on the roof, and the taps on each floor. If your building has no roof tank, talk about a tank in a building you know.",
-     "say": "Many buildings keep water in a tank on the roof. Which tap do you think flows hardest, on the ground floor or the top floor? Why?",
-     "kid": "Water is kept in a tank on the roof. Which tap flows hardest, ground floor or top floor? Why?",
+     "say": "Many buildings keep water in a tank on the roof. Think about the taps on each floor, from the ground floor up to the top.",
+     "kid": "Think about the roof tank and the taps below it. Which tap do you think flows hardest?",
      "check": {
       "t": "mcq",
       "q": "In a building with a tank on the roof, which tap usually flows hardest?",
@@ -1383,7 +1383,7 @@
      "what": "Make the twirling button, get it spinning, and watch the thread twist and untwist."
     }
    ],
-   "record": "Draw the button and the twisted thread. Write where the energy waits when the button slows down and turns round.",
+   "record": "Write where the energy waits when the button slows down and turns round. Show the twisted thread: draw it, or show your grown-up with the string.",
    "flow": [
     {
      "id": "s1",
@@ -1405,8 +1405,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Ask your child to watch the moment the button stops and turns.",
-     "say": "Watch the button. At one moment it stops, and then it spins the other way. Where is the energy at that moment?",
-     "kid": "The button stops, then turns the other way. Where is the energy then?",
+     "say": "Keep it spinning and watch closely. At one moment the button stops, and then it spins the other way.",
+     "kid": "Spot the moment the button stops and turns back. Say 'now!' when you see it.",
      "check": {
       "t": "mcq",
       "q": "When the twirling button stops for a moment, where is its energy?",
@@ -1499,7 +1499,7 @@
      "id": "s3",
      "mins": 10,
      "do": "1. On day 4, write the three numbers as usual. 2. Then do a test with a grown-up. Write the battery number. 3. Play a video for 10 minutes and write the number. 4. Leave the screen off for 10 minutes and write the number again.",
-     "say": "Which do you think empties the store faster, a video or the screen being off? Why? Let's test it.",
+     "say": "Which do you think empties the store faster, playing a video or leaving the phone with its screen off? Why? Let's test it.",
      "kid": "Guess first. Video or screen off: which uses more? Why? Now test it.",
      "parent": "A video with a bright screen and sound usually takes a few percent of the battery in 10 minutes. With the screen off, the number usually stays the same or falls by 1. Phones differ, so go by your own numbers."
     },
@@ -1638,7 +1638,7 @@
     "Add a short uphill part, where the marble uses some of its speed to climb.",
     "Make a cup at the end that rings a steel bell or a spoon when the marble lands."
    ],
-   "your_turn": "Now design your own slow track. Draw it first. Time it 3 times and try to beat your best.",
+   "your_turn": "Now design your own slow track. Plan it first: sketch it, or lay the channels on the floor to see the shape. Time it 3 times and try to beat your best.",
    "flow": [
     {
      "id": "s1",
@@ -1662,7 +1662,7 @@
      "mins": 10,
      "do": "1. Time the marble 3 times. 2. Compare with the straight drop.",
      "say": "The marble started at the same height both times, with the same energy waiting. Why did the track make it take so much longer?",
-     "kid": "Time it 3 times. Why does it take longer than the drop?",
+     "kid": "Time it 3 times. How much longer is it than the straight drop?",
      "check": {
       "t": "mcq",
       "q": "The marble starts at the same height for the straight drop and for the zigzag track. Which is true?",

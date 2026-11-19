@@ -744,7 +744,7 @@
      "what": "Look at three combs. Line up sesame and khus khus seeds. Sweep each comb across them three times and count which seeds are pushed along."
     }
    ],
-   "record": "Fill in the table. Then draw the three combs, with the gaps between their teeth, and draw a sesame seed and a khus khus seed to the same size beside them.",
+   "record": "Fill in the table. Then say which comb you would use to find lice on a head, and why.",
    "setup": [
     {
      "art": "Three combs lying side by side on a table: a wide-tooth comb, an ordinary comb and a fine-tooth lice comb, with a ruler beside them.",
@@ -766,7 +766,7 @@
      "do": "1. Lay the three combs side by side. 2. Hold each one against the ruler. 3. Count how many teeth fit in 1 cm. 4. Look at the gaps with a magnifying glass if you have one.",
      "say": "These three combs have different gaps between their teeth. Let's count how many teeth fit in one centimetre on each comb.",
      "kid": "Hold each comb next to the ruler. Count the teeth in 1 cm. Which comb has the smallest gaps?",
-     "context": "This is the start of the Comb Test. A louse egg is smaller than a khus khus seed. You find out which comb can catch something that small.",
+     "context": "This is the start of the Comb Test. You will find out why an ordinary comb misses a louse egg, and which comb catches it. Seeds stand in for lice and eggs.",
      "parent": "A wide-tooth comb may have 2 or 3 teeth in 1 cm. An ordinary comb has about 4 to 8. A lice comb has many more, often 10 or more, with gaps too thin to measure with a school ruler. Counting teeth in 1 cm is a simple way to compare gaps."
     },
     {
@@ -774,7 +774,7 @@
      "mins": 3,
      "do": "1. Ask for a guess and a reason. 2. Write the guesses at the top of the table.",
      "say": "Which comb will push the sesame seeds? Which will push the tiny khus khus seeds? Why do you think so?",
-     "kid": "Guess. Which comb will push the sesame? Which will push the khus khus? Why?",
+     "kid": "Guess. Which comb pushes the sesame? Which pushes the khus khus?",
      "ask": [
       {
        "q": "What makes you think that comb will catch the small seeds?",
@@ -791,7 +791,7 @@
      "mins": 3,
      "do": "1. Draw a start line across the paper. 2. Draw a finish line 10 cm away. 3. Put 10 sesame seeds in one heap and 10 khus khus seeds in another, 2 cm apart, on the start line.",
      "say": "The seeds are our pretend lice and nits. A sesame seed is about the size of a grown louse. A khus khus seed is a little bigger than a louse egg.",
-     "kid": "Draw two lines 10 cm apart. Put sesame and khus khus heaps on the first line."
+     "kid": "Mark two pencil lines 10 cm apart. Put the sesame and khus khus heaps on the first line."
     },
     {
      "id": "s4",
@@ -814,7 +814,7 @@
      "mins": 5,
      "do": "1. Look at the table together. 2. Ask for a claim, the evidence and a reason. 3. Then read out the fact about real nits.",
      "say": "Which comb caught the khus khus? What did you see? Why do you think that comb worked? Here is a fact. A real louse egg is smaller than a khus khus seed, and is glued to one hair near the scalp.",
-     "kid": "Which comb caught the khus khus? Why did it work? A real louse egg is even smaller.",
+     "kid": "Look at your table. Which comb caught the khus khus seeds? A real louse egg is even smaller.",
      "check": {
       "t": "mcq",
       "q": "In the Comb Test, the khus khus seeds slipped past the wide-tooth comb. Why?",
@@ -903,7 +903,7 @@
      "do": "1. Tape the tissue strip to the end of the pencil. 2. Choose eight places to test. For example: the pillow, the middle and foot of the bed, each corner and under the bed.",
      "say": "This flag shows where the fan's wind reaches. Mosquitoes are weak fliers, so strong wind makes it hard for them to land.",
      "kid": "Tape the paper to the pencil. It is a wind flag. Pick eight places to test.",
-     "context": "This is the start of the Fan Test. A paper flag shows where a fan's wind is strong, and where a mosquito could fly in still air."
+     "context": "This is the start of the Fan Test. You will find out which places in a room the fan's wind reaches, and where a mosquito could still land. A paper flag shows the wind."
     },
     {
      "id": "s2",
@@ -925,9 +925,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Draw the wind map. 2. Talk about where the pillow should go.",
+     "do": "1. Sort the places into still ones and windy ones, using the scores. 2. Talk about where the pillow should go.",
      "say": "Where are the still places? Mosquitoes can land there easily. Where should the pillow and your face be at night?",
-     "kid": "Draw your wind map. Where is the air still? Where should your pillow go?",
+     "kid": "Point to the places where the flag stayed still. Where should your pillow go?",
      "check": {
       "t": "mcq",
       "q": "In the Fan Test, the flag stayed still in a corner. Why might a mosquito find it easier to bite someone sleeping there?",
@@ -980,7 +980,7 @@
      "what": "Match each parasite to a seed of the same size. Draw a size line from the smallest to the biggest."
     }
    ],
-   "record": "Draw a size line across a page, with each parasite drawn next to the seed or thing of the same size.",
+   "record": "Take a photo of your seeds with the name slips beside them. Or draw a size line across a page and write each parasite's name by its seed.",
    "setup": [
     {
      "art": "A ruler on a table with a khus khus seed, a sesame seed, a mustard seed and a grain of rice placed along the ruler.",
@@ -988,7 +988,7 @@
     },
     {
      "art": "A notebook page with a line from small to big: a nit, a louse, a flea, a tick, a mosquito, a threadworm and a long roundworm, each drawn beside a seed or a ruler mark.",
-     "caption": "2. Draw each parasite beside the seed of the same size."
+     "caption": "2. Put each parasite's name slip beside the seed of the same size."
     }
    ],
    "flow": [
@@ -998,14 +998,14 @@
      "do": "1. Put a khus khus seed, a sesame seed, a mustard seed and a grain of rice along the ruler. 2. Look at each with the magnifying glass. 3. Lay a hair beside them.",
      "say": "These seeds will help us picture how small the parasites are. Which is the smallest? How thick is the hair next to them?",
      "kid": "Put the seeds on the ruler. Look with the magnifier. Which is smallest? Look at the hair too.",
-     "context": "This activity shows how small each parasite is, by matching them to seeds you can hold."
+     "context": "You will find out how small each parasite is, by matching each one to a seed you can hold."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "Read the sizes aloud and draw each parasite beside the right seed.",
+     "do": "Read the sizes aloud. Write each parasite's name on a paper slip and put the slip beside the right seed.",
      "say": "A louse egg is less than 1 mm long, smaller than a khus khus seed. A louse is up to 3 mm, like a sesame seed. A flea is the same. An unfed tick is a little bigger, and swells to about 1 cm after feeding. A mosquito's body is about as long as a grain of rice. A threadworm is up to about 1 cm. A roundworm can be longer than your ruler.",
-     "kid": "Draw each one by its seed. Draw the egg by the khus khus seed, the louse by the sesame seed and the mosquito by the grain of rice.",
+     "kid": "Write each name on a slip. Put each slip by the seed of the same size.",
      "parent": "These sizes are approximate. A roundworm can grow to about 30 cm or more. The malaria parasite is far too small for this line. They live inside red blood cells, and a red blood cell is less than one hundredth of a millimetre across."
     },
     {
@@ -1016,7 +1016,7 @@
      "kid": "Which ones can you see? Which one needs a microscope?",
      "check": {
       "t": "mcq",
-      "q": "On your size line, which parasite is far too small to draw?",
+      "q": "On your size line, which parasite is far too small to see without a microscope?",
       "options": [
        "A head louse",
        "The malaria parasite",
@@ -1058,7 +1058,7 @@
      "what": "Act out the parasite's journey from one person, through a mosquito, to a second sleeper. Then act it again with a net."
     }
    ],
-   "record": "Draw the journey as a circle of arrows, and draw one place where you broke the path.",
+   "record": "Tell your grown-up the journey in order: a sick person, a mosquito, a new person. Then say one place where you broke the path.",
    "setup": [
     {
      "art": "A parent lying on a mat holding a paper ball, a child with arms out like wings beside them, and a pillow under a sheet a little way off.",
@@ -1076,14 +1076,14 @@
      "do": "1. The parent lies on the mat holding the paper ball: the parent has malaria. 2. The child is the mosquito. She 'bites' the parent's arm and takes the ball. 3. The mosquito counts slowly to 12, for the days the parasite grows inside her. 4. She 'bites' the pillow and puts the ball there.",
      "say": "The ball is the malaria parasite. Watch where they go. They live in a person, then in a mosquito, then in a new person.",
      "kid": "You are the mosquito. Bite the sleeper's arm. Take the ball. Count to 12. Bite the pillow.",
-     "context": "This act-out shows the malaria parasite's journey from one person, through a mosquito, to another person."
+     "context": "You will find out how a malaria parasite gets from one sick person to another, and where a net stops it. You act it out."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "1. Put the saree over the pillow as a net. 2. Act it again.",
-     "say": "Now the second person sleeps under a net. What happens to the parasite's journey?",
-     "kid": "Now there is a net. Can the mosquito bite? Where does the ball go?",
+     "say": "Now the second person sleeps under a net. Let's act it again and watch the ball.",
+     "kid": "Act the bite again, with the net over the pillow.",
      "ask": [
       {
        "q": "What happened to the ball when the pillow was under a net?",
@@ -1099,7 +1099,7 @@
      "mins": 5,
      "do": "Talk about other ways to break the journey.",
      "say": "Where else could we break the path? Think about the first person, the mosquito and the water she was born in.",
-     "kid": "Where else can we stop the parasite? Think of three places.",
+     "kid": "Name three ways to stop the journey.",
      "parent": "Good answers: the first person sees a doctor and takes medicine, so no mosquito picks up parasites. Covering water means fewer mosquitoes are born. A fan, long sleeves, window mesh or a repellent stop the bite."
     }
    ]
@@ -1155,7 +1155,7 @@
      "say": "We check everyone's hair once a week, just like brushing teeth. Lice can happen to anyone, so this is nothing to be shy about.",
      "kid": "Sit by the window. Put a towel on your shoulders. Wet your hair first.",
      "adult": true,
-     "context": "This is a weekly lice check with a fine-tooth comb. Everyone in the family can have one."
+     "context": "You will check hair for lice with a fine-tooth comb, so any lice are found early and do not spread. Everyone in the family can have this check."
     },
     {
      "id": "s2",
@@ -1235,7 +1235,7 @@
      "do": "1. Lay part of the net flat on a table, or hold the ruler against it where it hangs. 2. Count how many holes fit along 1 cm.",
      "say": "A mosquito's body is about as long as a grain of rice. She cannot squeeze through a hole that is narrower than her body. A good net has several holes in every centimetre, so each hole is tiny. Let's count the holes in your net.",
      "kid": "Hold the ruler on the net. Count the holes in 1 cm.",
-     "context": "This activity checks that a mosquito net really keeps mosquitoes out."
+     "context": "You will find out whether your mosquito net really keeps mosquitoes out, by counting its holes and looking for tears."
     },
     {
      "id": "s2",
@@ -1251,7 +1251,7 @@
      "mins": 3,
      "do": "Talk about what you found.",
      "say": "Why do the holes need to be smaller than a mosquito? Why must the net be tucked in all round?",
-     "kid": "Why must the holes be small? Why tuck the net in?",
+     "kid": "Answer your grown-up. Then check that the net is tucked in all round.",
      "check": {
       "t": "mcq",
       "q": "Someone sleeps under a net with one tear the size of a coin. Are they safe from mosquitoes?",
@@ -1308,7 +1308,7 @@
      "say": "We are parasite detectives. For each place, ask: which parasite could use this, and how do we close the path?",
      "kid": "Be a detective. Look at each place on the list. Which parasite could use it?",
      "adult": true,
-     "context": "This is a home walk to find every path a parasite could use to reach your family."
+     "context": "You will walk round your home and find the places where lice, worms and mosquitoes could reach your family. Then you pick fixes."
     },
     {
      "id": "s2",
@@ -1362,7 +1362,7 @@
      "what": "Make two pretend ticks in dough. Pull one out the wrong way and one the right way, and compare."
     }
    ],
-   "record": "Draw the two pulls: the wrong way and the right way, and what was left in the dough each time.",
+   "record": "Tell your grown-up what was left in the dough after the wrong way and after the right way. Or take a photo of each.",
    "setup": [
     {
      "art": "A raisin stuck on half a toothpick, pushed into a flat piece of dough, like a tick with mouthparts in the skin.",
@@ -1380,7 +1380,7 @@
      "do": "1. Flatten the dough. This is the skin. 2. Push a raisin onto each half toothpick. 3. Push both toothpicks deep into the dough.",
      "say": "The raisin is the tick's body. The toothpick is their mouthpart, deep in the skin, with barbs like a fish hook.",
      "kid": "Flatten the dough. Put a raisin on each toothpick. Push them into the dough.",
-     "context": "This activity practises the safe way to take a tick off, with a pretend tick in dough."
+     "context": "You will find out why a tick must be pulled out slowly with tweezers, using a pretend tick in dough."
     },
     {
      "id": "s2",
@@ -1396,7 +1396,7 @@
      "mins": 3,
      "do": "Compare what is left in the dough.",
      "say": "Which way left something behind in the skin? Why does a grown-up grip close to the skin?",
-     "kid": "Which way left a piece behind? Why grip close to the skin?",
+     "kid": "Look in the dough. Find the piece that was left behind.",
      "check": {
       "t": "mcq",
       "q": "A dog has a tick. How should a grown-up take the tick off?",
@@ -1463,7 +1463,7 @@
      "do": "1. Make the booklet. 2. On each page write four headings: Size, Their problem, How their body helps, How to stay safe. 3. Fill in pages for the louse, the flea and the tick.",
      "say": "A field guide helps people recognise living beings. For each parasite, first write their problem, then how their body solves it.",
      "kid": "Make a booklet. One page for each parasite. Write their problem first.",
-     "context": "This is the first day of a 2-day project. You make a field guide with one page for each parasite."
+     "context": "You will make a small field guide with one page for each parasite. By the end you can say each one's problem and how its body solves it."
     },
     {
      "id": "s2",
@@ -1511,7 +1511,7 @@
     "Use a toothbrush's bristles as teeth.",
     "Try two rows of teeth, one behind the other, so a seed that slips past the first row is caught by the second."
    ],
-   "your_turn": "Now design your own comb. Draw it, build it, and test it with the Comb Test. How close must the teeth be?",
+   "your_turn": "Now design your own comb. Plan it, build it, and test it with the Comb Test. How close must the teeth be?",
    "setup": [
     {
      "art": "Thin coconut-broom sticks taped side by side along a strip of cardboard, like a comb.",
@@ -1528,8 +1528,8 @@
      "mins": 5,
      "do": "Read the problem and draw two ideas.",
      "say": "The gaps must be smaller than a khus khus seed. How could we make teeth that close together?",
-     "kid": "Your comb's gaps must be smaller than a seed. Draw two ideas.",
-     "context": "This is an engineering challenge. You build a comb that catches seeds as small as a louse egg."
+     "kid": "Your comb's gaps must be smaller than a seed. Show two ideas: draw them, or lay out sticks.",
+     "context": "You will build a comb from things at home. Your aim is a comb that catches seeds as small as a louse egg."
     },
     {
      "id": "s2",
@@ -1572,7 +1572,7 @@
     "Cut a small flap in the cloth for a mug, with a second cloth hanging over it.",
     "Put a tap low on the side of a drum, so the lid never needs to come off."
    ],
-   "your_turn": "Now design your own cover. Draw it, make it, and test it with a grain of rice: can the rice get through anywhere?",
+   "your_turn": "Now design your own cover. Plan it, make it, and test it with a grain of rice: can the rice get through anywhere?",
    "setup": [
     {
      "art": "A bucket of water with a cotton cloth tied tightly over the top with string.",
@@ -1589,8 +1589,8 @@
      "mins": 5,
      "do": "Read the problem and draw two ideas.",
      "say": "Mosquitoes lay eggs on still water. How can we cover the water and still use it?",
-     "kid": "Mosquitoes lay eggs on water. How can you cover it? Draw two ideas.",
-     "context": "This is a design challenge. You make a cover that keeps mosquitoes off stored water."
+     "kid": "Mosquitoes lay eggs on water. How can you cover it? Show two ideas: draw them, or tell them to your grown-up.",
+     "context": "You will make a cover for stored water that keeps mosquitoes from laying eggs on it, and you will test it."
     },
     {
      "id": "s2",

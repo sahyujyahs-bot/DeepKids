@@ -774,7 +774,7 @@
      "mins": 2,
      "do": "1. Lay the four mats on the floor. 2. Shuffle the 24 cards and put them face down. 3. Give each player their three answer tokens. 4. Get a sheet of paper for the score. 5. Put out the TEST IT things: a paper clip, a straw, a strip of plastic bag and a biscuit.",
      "say": "A force is a push or a pull. It can squash, stretch, twist or bend things. Each card shows a force changing a shape. You decide which kind.",
-     "kid": "Put the four mats on the floor. Mix up the cards. Put them face down. Each card shows a force changing a shape.",
+     "kid": "Put the four mats on the floor. Mix up the cards. Put them face down.",
      "context": "This is the first step of the Squash, Stretch, Twist or Bend game. It is a card game about the ways forces change shape. Here you set up the game."
     },
     {
@@ -782,7 +782,7 @@
      "mins": 3,
      "do": "Find the card 'Wringing out a wet towel'. Play it together as a practice round.",
      "say": "This is a practice card: wringing out a wet towel. Which mat does it go on? And when you let go, does the towel stay twisted, spring back, or break?",
-     "kid": "Practice card: wringing a wet towel. Which mat does it go on? Say your answer.",
+     "kid": "Practice card: wringing out a wet towel. Act it out with your hands.",
      "ask": [
       {
        "q": "Why does the towel go on the TWIST mat?",
@@ -810,7 +810,7 @@
      "mins": 10,
      "do": "1. Take turns. Each player reads a card, acts it out and places it on a mat. 2. Everyone shows an answer token. 3. Write the points on the score sheet.",
      "say": "Show me the force with your hands first. Then put it on a mat. Now everyone, does it stay changed, spring back, or break?",
-     "kid": "Take turns. Read your card. Act it out. Put it on a mat. Then hold up a token. Stays changed, springs back, or breaks?",
+     "kid": "Take turns. Read your card. Act it out. Put it on a mat. Then hold up a token.",
      "parent": "Here are the answers for the cards. Stays changed: rolling the chapati (a squash and a stretch), pressing murukku dough through the press, the thumb in clay, toothpaste, stamping on the can, twisting coir, hammering the bangle, the balloon dog, and the wrung towel, which stays creased. Springs back: the rubber band pulled, the wound rubber band, the veena string (stretched sideways), the hair band, the cushion, the bamboo in wind, the diving board, the plastic ruler (if bent a little), and the cricket ball squashing on the bat. Breaks: the papad and the apple. Test cards: a straw springs back after a small bend but kinks and stays bent after a big one. A plastic bag strip stretches and stays long and thin, and tears if pulled too far. A biscuit snaps."
     },
     {
@@ -837,7 +837,7 @@
      "mins": 2,
      "do": "1. Add up the points to find the winner. 2. Look at the four mats together.",
      "say": "Which mat got the most cards? Which kind of shape change do we use most at home?",
-     "kid": "Add up your points. Who won? Which mat has the most cards? Why do you think that is?",
+     "kid": "Add up your points. Who won?",
      "think": "Which jobs at home need things that stay changed? Which need things that spring back?"
     }
    ],
@@ -919,7 +919,7 @@
      "mins": 2,
      "do": "1. Put out the real objects the cards show, or something close to each. 2. Put the object cards face down. 3. Put the dice chart where everyone can see it.",
      "say": "A force is a push or a pull. Forces can do six things. Start, stop, speed up, slow down, turn, and change shape. Let's do all six.",
-     "kid": "Forces can do six things. Start, stop, speed up, slow down, turn, change shape. Let's try them all!",
+     "kid": "Today you will try all six jobs a force can do.",
      "context": "This is the first step of Six Things a Force Can Do. It is a game where you use pushes and pulls to make objects do what a dice says."
     },
     {
@@ -927,7 +927,7 @@
      "mins": 3,
      "do": "Do a practice turn with the soft ball. Roll the ball gently towards your child. Ask them to do each of the six things to it, one after another.",
      "say": "Here comes the ball. Stop it. Now start it. Speed it up. Slow it down. Turn it. Now change its shape.",
-     "kid": "Roll a soft ball. Stop it. Start it. Speed it up. Slow it down. Turn it. Squeeze it!",
+     "kid": "Your grown-up rolls a ball to you. Do each of the six jobs on it.",
      "ask": [
       {
        "q": "How did you turn the ball?",
@@ -963,7 +963,7 @@
      "mins": 3,
      "do": "Look at the force logs together. Count how many pushes and how many pulls were used.",
      "say": "Did we use more pushes or more pulls? Was there any job we couldn't do?",
-     "kid": "Look at your force log. More pushes or more pulls? Which job was hardest?",
+     "kid": "Count the pushes and the pulls in your force log.",
      "think": "When you catch a ball, your hands stop it and squash it a tiny bit. Can one force do two jobs at once?"
     }
    ],
@@ -1666,7 +1666,7 @@
      "what": "Guess, drop clay from four heights, measure the flat patches, and draw a bar chart."
     }
    ],
-   "record": "Fill in the table. Then draw a bar chart, with one bar for each height. Make each bar as tall as that patch was wide.",
+   "record": "Fill in the table. Then make a bar chart, with one bar for each height. Draw it, or stack coins. Make each bar as tall as that patch was wide.",
    "setup": [
     {
      "art": "A child rolling a lemon-sized ball of clay between two palms, with three more equal balls on a plate.",
@@ -1709,7 +1709,7 @@
      "mins": 3,
      "do": "1. Put the plate on the floor. 2. Hold the measuring tape upright beside it. 3. Ask your child to guess which drop will squash most.",
      "say": "We'll drop from 10, 20, 40 and 80 centimetres. Which one will squash most? Why do you think so?",
-     "kid": "Put the plate on the floor. Hold a tape upright beside it. Guess. Which drop will squash most?",
+     "kid": "Put the plate on the floor. Hold a tape upright beside it. Then guess.",
      "how": "e1"
     },
     {
@@ -1726,7 +1726,7 @@
      "mins": 5,
      "do": "Help your child draw a bar chart of the patch widths, one bar for each height.",
      "say": "Let's turn the numbers into a picture. One bar for each height. The taller the bar, the more squashed the ball.",
-     "kid": "Draw one bar for each height. Make it as tall as the patch was wide. Do the bars grow?",
+     "kid": "Draw one bar for each height, as tall as the patch was wide. Or stack coins instead, one stack for each height. Do the bars grow?",
      "check": {
       "t": "mcq",
       "q": "In the clay drop chart, the bars get taller as the height goes up. This means…",
@@ -1850,7 +1850,7 @@
      "what": "Guess, then drop the ball onto six things, and sort them."
     }
    ],
-   "record": "Fill in the table. Then draw the six things in three groups: stays changed, springs back, breaks.",
+   "record": "Fill in the table. Then take a photo of the six things sorted into three groups: stays changed, springs back, breaks.",
    "setup": [
     {
      "art": "A table with a biscuit, a lump of chapati dough, a slice of raw potato, a piece of boiled potato, a kitchen sponge and a stone, each on its own steel plate.",
@@ -1871,7 +1871,7 @@
      "mins": 4,
      "do": "1. Put each of the six things on a plate. 2. Ask your child to press each one gently with a finger first.",
      "say": "Feel each one with your finger. Which do you think will squash? Which will spring back? Which will break?",
-     "kid": "Press each thing gently with a finger. Then guess. Squash, spring back, or break? Write your guesses.",
+     "kid": "Press each thing gently with a finger. Then guess what each one will do. Write your guesses.",
      "context": "This is the first step of the Squash, Spring Back or Break test. You drop a heavy ball onto six different things.",
      "how": "e2"
     },
@@ -1930,7 +1930,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Sort the six things into three groups on the table.",
-     "say": "Let's sort them into three groups: stays changed, springs back, and breaks. Where does the stone go?",
+     "say": "Which things stayed squashed? Which sprang back? Which broke?",
      "kid": "Sort the six things into three groups: stays changed, springs back, and breaks. Where does the stone go?",
      "ask": [
       {
@@ -2010,7 +2010,7 @@
      "what": "Drop a wet ball from three heights, measure the prints, and compare."
     }
    ],
-   "record": "Fill in the table. Draw one wet circle from each height, side by side.",
+   "record": "Fill in the table. Take a photo of the wet circle from each height, side by side, or draw them.",
    "setup": [
     {
      "art": "A rubber ball being dipped bottom-first into a shallow bowl of water.",
@@ -2022,14 +2022,14 @@
     },
     {
      "art": "A sheet of dark paper with three wet circles of growing size, labelled knee, waist, shoulder.",
-     "caption": "3. Repeat from waist and shoulder height. Draw round each wet circle and measure it."
+     "caption": "3. Repeat from waist and shoulder height. Measure each wet circle."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay paper on the floor. 2. Wet the bottom of the ball and set it down gently on the paper. 3. Lift it straight up and look at the small wet dot it made. 4. Draw round the dot with a pencil before it dries.",
+     "do": "1. Lay paper on the floor. 2. Wet the bottom of the ball and set it down gently on the paper. 3. Lift it straight up and look at the small wet dot it made. 4. Measure across the dot with the ruler before it dries.",
      "say": "When this ball just sits on the floor, how much of it touches? Look, only a small dot. Now let's see how much touches when it bounces.",
      "kid": "Wet the ball. Set it down gently on the paper. Lift it. See the small dot? Now let's try a bounce.",
      "context": "This is the first step of the wet ball prints test. You catch the shape of a bounce with a wet ball.",
@@ -2038,9 +2038,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Dip the bottom half of the ball in water and shake off the drips. 2. Drop it from knee height onto a dry part of the paper. 3. Catch it after one bounce, so it doesn't print twice. 4. Draw round the wet circle with a pencil straight away, before it dries. 5. Measure across the pencil circle. 6. Do steps 1 to 5 three times from knee height, then three times from waist height, then three times from shoulder height. Wet the ball again each time.",
+     "do": "1. Dip the bottom half of the ball in water and shake off the drips. 2. Drop it from knee height onto a dry part of the paper. 3. Catch it after one bounce, so it doesn't print twice. 4. Measure across the wet circle with the ruler straight away, before it dries. 5. Write down the width. 6. Do steps 1 to 5 three times from knee height, then three times from waist height, then three times from shoulder height. Wet the ball again each time.",
      "say": "Look at the wet circle. Is it bigger or smaller than the dot? Now let's try from higher.",
-     "kid": "Dip the ball in water. Shake off the drips. Drop it from knee height. Catch it after one bounce. Draw round the wet circle and measure it. Now try waist and shoulder height.",
+     "kid": "Dip the ball in water. Shake off the drips. Drop it from knee height. Catch it after one bounce. Measure the wet circle before it dries. Now try waist and shoulder height.",
      "parent": "The wet circle is clearly bigger than the dot the ball made resting on the paper. That shows the ball squashed flatter for a moment. A tennis ball works best, because its fuzz holds water. A smooth rubber ball can leave a patchy print, so wipe it all over with a wet cloth instead of dipping it. The prints dry fast, so draw round them at once. If a circle is hard to see, look at the paper from a slant, against the light. The circles from the three heights differ by only a few millimetres, or at most a centimetre, so some of your results may be close or in a different order. That is an honest result. Look at the middle value of the three tries, not at one try.",
      "how": "e3"
     },
@@ -2049,7 +2049,7 @@
      "mins": 3,
      "do": "For each height, put the three widths in order and write the middle one in the last column. Put the three middle values side by side. Then drop a ball of dough from waist height onto a clean sheet of paper, for comparison.",
      "say": "Which height made the biggest circle? Now let's drop a ball of dough from waist height. What do you think it will do?",
-     "kid": "Which circle is biggest? Now drop a ball of dough. Does it bounce? Why not?",
+     "kid": "Which circle is biggest? Now drop a ball of dough. Does it bounce?",
      "check": {
       "t": "mcq",
       "q": "Why doesn't the dough ball bounce?",
@@ -2092,7 +2092,7 @@
      "mins": 1,
      "do": "Ask your child what a bounce is. Wait for their idea before saying anything.",
      "say": "When the ball was resting, it touched only a small dot of the paper. In the bounce, the wet circle was much bigger. What happened to the ball when it hit the floor? What sent it back up?",
-     "kid": "The bounce made a much bigger circle than the dot. What happened to the ball? What sent it back up?",
+     "kid": "Look at the big circle and the small dot. What do they tell you about the ball?",
      "think": "The wet circle was bigger from a higher drop. What does that tell you about how hard the floor pushed?",
      "how": "e3",
      "parent": "A good answer: the floor pushed up and squashed the ball flatter for a moment. Then the ball sprang back to round, pushing on the floor, and the floor pushed it back up. One push changed both its shape and its direction. A bigger wet circle from a higher drop means a flatter squash, and a flatter squash needs a harder push. A ball dropped from higher hits faster. So the floor has to push harder to stop it and send it back up."
@@ -2164,7 +2164,7 @@
      "what": "Change the dough's shape with every kind of force, and play the shape dance."
     }
    ],
-   "record": "Draw the dough after each force. Label it squash, stretch, twist or bend.",
+   "record": "Take a photo of the dough after each force, and say its name: squash, stretch, twist or bend.",
    "setup": [
     {
      "art": "A child's hands pressing an orange-sized ball of chapati dough flat on a board.",
@@ -2192,8 +2192,8 @@
      "id": "s2",
      "mins": 8,
      "do": "Give your child the dough. 1. Squash it flat into a chapati. 2. Roll it into a long snake. 3. Stretch the snake. 4. Twist it like a rope. 5. Bend it into a horseshoe. 6. Press a thumb in to make a diya.",
-     "say": "Which force did you use? Push or pull? When you stopped, did the dough stay in its new shape?",
-     "kid": "Squash the dough flat. Roll a snake. Stretch it. Twist it. Bend it. Press your thumb in. Does it stay changed?",
+     "say": "Was that a push or a pull each time? When you stopped, what did the dough do?",
+     "kid": "Squash the dough flat. Roll a snake. Stretch it. Twist it. Bend it. Press your thumb in.",
      "ask": [
       {
        "q": "Did the dough spring back after each force?",
@@ -2209,7 +2209,7 @@
      "mins": 4,
      "do": "Now squeeze a sponge or a rubber ball and let go. Compare it with the dough.",
      "say": "Dough stays changed. Scientists call that a plastic change. The sponge springs back. That's called elastic. Which is better for making a diya?",
-     "kid": "Squeeze a sponge. Let go. It springs back! Dough stays changed. Which one is better for making a diya?",
+     "kid": "Squeeze a sponge. Let go. Then press the dough. Compare them.",
      "check": {
       "t": "mcq",
       "q": "Dough keeps its new shape after you squash it. Scientists call this…",
@@ -2224,7 +2224,7 @@
      "think": "Why is it useful that chapati dough stays flat after you roll it?"
     }
    ],
-   "context": "In this activity you change the shape of a ball of dough in every way you can: squash, stretch, twist and bend. Then you compare it with a springy sponge."
+   "context": "In this activity you change the shape of a ball of dough in every way you can: squash, stretch, twist and bend. Then you compare it with a springy sponge. You will find out why dough is good for making a diya and a sponge is not."
   },
   {
    "id": "a2",
@@ -2259,7 +2259,7 @@
      "what": "Bend a lined sponge, then press a ruler lying flat, and then standing on its edge."
     }
    ],
-   "record": "Draw the bent sponge and its lines. Write whether the ruler bent less lying flat or standing on its edge.",
+   "record": "Take a photo of the bent sponge, or tell a grown-up what happened to the lines. Write whether the ruler bent less lying flat or standing on its edge.",
    "setup": [
     {
      "art": "A long kitchen sponge with five straight lines drawn down its thin side in marker, from the top face to the bottom face.",
@@ -2332,7 +2332,7 @@
      "how": "a2"
     }
    ],
-   "context": "In this activity you draw lines on a sponge and bend it to see what happens inside a bend. Then you find out why a ruler on its edge hardly bends."
+   "context": "In this activity you draw lines on a sponge and bend it to see what happens inside a bend. You will find out why a ruler on its edge hardly bends."
   },
   {
    "id": "a3",
@@ -2385,7 +2385,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Soak the towel and lift it out. 2. Your child wrings it out over the bucket, hands turning opposite ways.",
-     "say": "Twist it tighter and tighter. What happens to the water? Why?",
+     "say": "Twist it tighter and tighter. Watch the water.",
      "kid": "Wring the wet towel. Turn your hands opposite ways. Where does the water go?",
      "ask": [
       {
@@ -2411,7 +2411,7 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Pull one tuft of cotton wool into a loose strand as long as your hand. Don't twist it. 2. Hold its ends and pull gently. 3. Pull the second tuft into a strand of the same length. 4. Hold one end still, and twist the other end round and round about 30 times. Keep the strand pulled straight while you twist. 5. Hold the two ends together and let the middle hang down. It twists round itself into a strong cord, with a loop at the bottom. 6. Hook the bag handles through the loop. Hold the two top ends tightly and add coins one at a time.",
-     "say": "The loose strand pulls apart easily. Now try the wick, made from the same amount of cotton. How many coins will it hold? Why?",
+     "say": "The loose strand pulls apart easily. Now try the wick, made from the same amount of cotton. How many coins will it hold?",
      "kid": "Pull the loose cotton gently. It comes apart! Now twist the same amount of cotton round and round. Hold its two ends together and let it twist into a cord. Hang the bag on the loop. Add coins.",
      "adult": true,
      "parent": "Try hanging the empty bag from the loose strand too. It usually pulls apart at once. The twisted cord should hold many coins. Folding it makes two twisted strands wind round each other, like a real rope, and the loop means no knot is needed. How many coins it holds depends on the cotton and how tightly you twist. Even a few coins, when the loose strand holds none, is a clear result. If the bag fills before it breaks, that is a good result too. The twist squeezes the short fibres against each other. Friction, the grip between them, makes them share the pull. Cotton thread and coir rope are made this way.",
@@ -2438,7 +2438,7 @@
      "how": "a3"
     }
    ],
-   "context": "In this activity you wring a wet towel, twist a lined paper strip, and twist cotton wool into a wick that can hold a bag of coins. It shows what a twist does."
+   "context": "In this activity you wring a wet towel, twist a lined paper strip, and twist cotton wool into a wick that can hold a bag of coins. You will find out why thread and rope are made by twisting."
   },
   {
    "id": "a4",
@@ -2464,7 +2464,7 @@
      "what": "Snap spaghetti, count the pieces, then try the twist trick."
     }
    ],
-   "record": "Write how many pieces each stick broke into. Draw the best break.",
+   "record": "Write how many pieces each stick broke into. Keep the best broken stick, or take a photo of it.",
    "setup": [
     {
      "art": "Two hands holding the ends of a stick of dry spaghetti inside an open paper bag, bending it into a curve.",
@@ -2495,7 +2495,7 @@
      "mins": 3,
      "do": "Ask your child why it never broke into just two pieces. Listen to their idea first. Then tell the story of the puzzle.",
      "say": "Why do you think it breaks into three or more? A famous scientist, Richard Feynman, tried for a whole evening and never got two. In 2005, two French scientists explained why. When it first snaps, both halves spring back so fast that they snap again.",
-     "kid": "Why do you think it breaks into many pieces? A famous scientist tried this all evening. He never got two pieces! When it snaps, the halves spring back so fast they snap again.",
+     "kid": "Listen to the story of the puzzle. Then answer the question below.",
      "check": {
       "t": "mcq",
       "q": "Why does dry spaghetti usually break into 3 or more pieces?",
@@ -2551,7 +2551,7 @@
      "what": "Show that a table bends when you press it, using a laser beam bounced off a mirror."
     }
    ],
-   "record": "Draw the table, the mirror, the beam and the dot on the wall. Mark how far the dot moved.",
+   "record": "Measure how far the dot moved from the edge of the tape, and write it down. Or take a photo of the dot against the tape.",
    "setup": [
     {
      "art": "A small mirror lying flat in the middle of a wooden table near a wall.",
@@ -2572,7 +2572,7 @@
      "mins": 4,
      "do": "1. Lay the mirror flat in the middle of a table that is at least 2 metres from a wall. 2. A grown-up props the laser on books on a chair beside the table. Keep it off the table, so pressing the table cannot move it. 3. Aim it at the mirror and find the red dot on the wall. 4. Stick a strip of tape on the wall, with its edge exactly at the dot.",
      "say": "Does a solid table change shape when you press it? We can't see it. Let's use a beam of light to find out.",
-     "kid": "Does a hard table change shape when you press it? Ask a grown-up to set up the laser. Find the dot on the wall.",
+     "kid": "Ask a grown-up to set up the laser. Find the red dot on the wall.",
      "adult": true,
      "context": "This is the first step of the laser and mirror activity. You find out whether a hard table bends when you press it.",
      "how": "a5",
@@ -2643,7 +2643,7 @@
      "what": "Fold a towel into mountains, then spin paper rings into a squashed planet."
     }
    ],
-   "record": "Draw the folded towel as mountains. Draw the paper globe before and while spinning.",
+   "record": "Take a photo of the folded towel, and of the paper globe before and while spinning. Or tell a grown-up what changed.",
    "setup": [
     {
      "art": "A towel laid flat on the floor, a child's hands pushing one end towards a wall.",
@@ -2664,7 +2664,7 @@
      "mins": 8,
      "do": "1. Lay the towel flat on the floor, one end against a wall. 2. Put a small object, like a toy shell or a button, on the towel. 3. Your child pushes the other end slowly towards the wall.",
      "say": "This towel is the old sea floor. The wall is Asia. You are India, pushing north. Watch what happens.",
-     "kid": "The towel is the sea floor. The wall is Asia. You are India. Push slowly towards the wall!",
+     "kid": "Push the other end of the towel slowly towards the wall. Watch the towel and the shell.",
      "ask": [
       {
        "q": "What happened to the towel? Where did the shell go?",
@@ -2682,7 +2682,7 @@
      "mins": 4,
      "do": "Talk about the real Himalayas.",
      "say": "India's plate moves north about 5 centimetres every year. About 50 million years ago it began to crash into Asia. The rock folded up like the towel. That's why sea shells are found high in the Himalayas.",
-     "kid": "India still moves north, about as fast as fingernails grow. It folded up the Himalayas. Sea shells are found on top!",
+     "kid": "Listen to how the real Himalayas were made.",
      "check": {
       "t": "mcq",
       "q": "Why are fossil sea shells found high in the Himalayas?",
@@ -2700,7 +2700,7 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Rest each paper strip on a folded towel and make a small hole in its middle with the pencil tip. 2. Lay one strip across the other like a plus sign, with the holes lined up. 3. Push the pencil up through both holes, so the strips can slide on it. 4. Bend the four arms down, like the lines on a globe. Tape each end to the pencil near its bottom. 5. Spin the pencil fast between your palms.",
-     "say": "This is the Earth. Spin it fast. What happens to its shape?",
+     "say": "This paper ball is the Earth. Spin it fast and watch its middle.",
      "kid": "Make a hole in the middle of each strip. Cross the strips and push the pencil through the holes. Tape the four ends to the pencil near the bottom. Spin the pencil fast between your hands. What happens to the shape?",
      "adult": true,
      "parent": "As the strips spin, they flatten at the top and bottom and bulge at the middle. The real Earth spins too. It is about 43 kilometres wider across the equator than from pole to pole. The strips must be free to slide down the pencil at the top, or they can't flatten. If the strips hardly change, spin faster, or use thinner paper. The change is small, just as the real Earth is only a little squashed. A small bulge is a fair result.",
@@ -2768,7 +2768,7 @@
      "what": "Measure first thing in the morning, find the differences, and talk about astronauts' bones."
     }
    ],
-   "record": "Fill in the table: day, morning height, bedtime height, difference. Draw the two heights as two bars.",
+   "record": "Fill in the table: day, morning height, bedtime height, difference. Cut two paper strips, one as long as each height, and lay them side by side.",
    "setup": [
     {
      "art": "A strip of paper taped upright on a wall, a child standing barefoot against it with heels touching the wall.",
@@ -2789,7 +2789,7 @@
      "mins": 4,
      "do": "1. Tape a paper strip upright on the wall. 2. Your child stands barefoot, heels, back and head against the wall. 3. Rest a book flat on their head and mark the strip under it. 4. Measure the height from the floor.",
      "say": "Let's measure you tonight. Tomorrow morning we'll measure again. Do you think you'll be the same?",
-     "kid": "Stand against the wall. Heels back. Stand tall. A grown-up marks your height. Will you be the same in the morning?",
+     "kid": "Stand against the wall. Heels back. Stand tall. A grown-up marks your height.",
      "adult": true,
      "context": "This is the first step of the morning and night project. You measure your height at bedtime and as soon as you wake up.",
      "how": "p1"
@@ -2841,7 +2841,7 @@
      "id": "s4",
      "mins": 7,
      "do": "Find the difference between each bedtime and the next morning. Then talk about why.",
-     "say": "You were taller in the morning! During the day, your weight squashes the soft pads between the bones of your back. At night, lying down, they spring back.",
+     "say": "You should be a little taller in the morning. During the day, your weight squashes the soft pads between the bones of your back. At night, lying down, they spring back.",
      "kid": "Were you taller in the morning? Your back squashes a little during the day. At night it springs back!",
      "check": {
       "t": "mcq",
@@ -2861,7 +2861,7 @@
      "mins": 7,
      "do": "Talk about astronauts.",
      "say": "In space, astronauts float, so nothing squashes their spine. They grow a few centimetres taller. But their bones get weaker, because nothing pushes on them. So they exercise for about two hours every day.",
-     "kid": "In space, astronauts grow a little taller! But their bones get weaker, because nothing pushes on them. So they exercise every day.",
+     "kid": "Listen to what happens to astronauts in space.",
      "think": "Your bones get stronger when you run and jump. What could you do today that your bones would like?",
      "how": "p1"
     },
@@ -2905,7 +2905,7 @@
     "Make an arch under the bridge, pressing its feet against the books.",
     "Copy the wavy layer inside a cardboard box."
    ],
-   "your_turn": "Now invent your own shape. Draw it, test it and count the coins. Can you beat the fan?",
+   "your_turn": "Now invent your own shape. Build it, test it and count the coins. Can you beat the fan?",
    "setup": [
     {
      "art": "Two books 15 cm apart with a flat sheet of paper across the gap, sagging under one coin.",
@@ -2933,9 +2933,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Before trying anything, draw three ideas together.",
+     "do": "Before trying anything, plan three ideas together. Sketch them, or fold small scrap-paper models.",
      "say": "Engineers design before they build. Can we make the paper stronger just by changing its shape?",
-     "kid": "Think like an engineer. Draw three shapes that might be stronger. Do this before you build."
+     "kid": "Think like an engineer. Plan three shapes that might be stronger, before you build. Sketch them, or fold a small paper model of each."
     },
     {
      "id": "s3",
@@ -3020,7 +3020,7 @@
     "Hang the egg in the middle of a box on rubber bands, so it bounces instead of hitting.",
     "Copy a bicycle helmet: a hard outside with soft foam inside."
    ],
-   "your_turn": "Now design your own egg protector. Draw it, build it, and drop it. What will you change next time?",
+   "your_turn": "Now design your own egg protector. Plan it, build it, and drop it. What will you change next time?",
    "setup": [
     {
      "art": "A raw egg inside a zip-lock bag, wrapped in crumpled newspaper inside a paper cup.",
@@ -3057,7 +3057,7 @@
      "mins": 8,
      "do": "1. Spread a sheet on the floor. 2. Hold the protector at 1 metre. 3. Drop it. 4. Open it and check the egg.",
      "say": "Three, two, one, drop! Let's look. What squashed? Did the egg survive?",
-     "kid": "Hold it 1 metre up. Drop it! Open it. What squashed? Is the egg okay?",
+     "kid": "Hold it 1 metre up. Drop it! Open it and look.",
      "adult": true,
      "how": "c2",
      "check": {

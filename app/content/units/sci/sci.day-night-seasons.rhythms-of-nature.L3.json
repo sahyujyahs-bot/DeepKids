@@ -431,7 +431,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about daily rhythms. Players place living things at the time of day they are most active, or when their flowers open.",
+   "context": "This is a card game about daily rhythms. You will find out who is busy at which time of day. Players place living things at the time of day they are most active, or when their flowers open.",
    "printables": [
     {
      "kind": "board",
@@ -616,7 +616,7 @@
      "mins": 3,
      "do": "1. Cut out the cards and lay out the clock board. 2. Shuffle the cards and deal them all out, face down.",
      "say": "Every living thing has their own time to be busy. Let's see if you know when.",
-     "kid": "Lay out the clock. Take your cards. Each card is a living thing. Where on the clock do they go?",
+     "kid": "Take your cards. Each card shows a living thing doing something. Where on the clock does it go?",
      "context": "This is the first step of the Nature's Clock card game. You set up the clock board and the cards."
     },
     {
@@ -624,7 +624,7 @@
      "mins": 3,
      "do": "Play the practice card 'Fruit bats flying out'.",
      "say": "Practice card: fruit bats flying out. Dawn, day, dusk or night?",
-     "kid": "Practice card. Fruit bats flying out. When does this happen? Choose your answer.",
+     "kid": "Look at the practice card and choose your answer.",
      "check": {
       "t": "mcq",
       "q": "When do fruit bats fly out of their trees to eat?",
@@ -643,14 +643,14 @@
      "mins": 7,
      "do": "Take turns placing cards and saying why.",
      "say": "Place a card and give a reason. Why do they go there? Then read the back.",
-     "kid": "Place a card. Say why. Then read the back to check."
+     "kid": "Pick a card. Put it on the clock and tell why you chose that time."
     },
     {
      "id": "s4",
      "mins": 2,
      "do": "Count the marks and look at the finished clock.",
      "say": "Look at our clock. Is any part of the day empty?",
-     "kid": "Count your marks. Look at the clock. Is any time empty?",
+     "kid": "Count your marks. Then look at the whole clock.",
      "think": "If every time of day has someone busy, is there ever a quiet moment in nature?",
      "parent": "Not really. When the owls go to rest at dawn, the lotus and the rooster are waking up. When the day animals rest at dusk, the bats and moths come out. Every part of the day is somebody's busy time."
     }
@@ -675,7 +675,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a board game about the migration of Amur falcons. Players fly from China to Nagaland and across the sea to Africa, answering questions about rhythms of nature.",
+   "context": "This is a board game about the migration of Amur falcons. Players fly from China to Nagaland and across the sea to Africa, answering questions about rhythms of nature. You will find out how a small falcon crosses a whole sea.",
    "printables": [
     {
      "kind": "board",
@@ -815,7 +815,7 @@
      "mins": 3,
      "do": "1. Lay out the board. 2. Put the falcons on square 0. 3. Shuffle the cards and have a dice ready.",
      "say": "Amur falcons fly from China to Nagaland, rest and eat, then cross the sea to Africa. Let's fly with them.",
-     "kid": "Put your falcon on the start. You are flying to Africa. Rest in Nagaland. Then cross the sea!",
+     "kid": "Put your falcon on square 0. Your job is to reach Africa.",
      "context": "This is the first step of Falcon Flight, a board game about the Amur falcon's migration."
     },
     {
@@ -823,7 +823,7 @@
      "mins": 3,
      "do": "Play one practice card together.",
      "say": "Practice card. What tells many birds it is time to go?",
-     "kid": "Practice card. What tells birds it is time to go? Choose your answer.",
+     "kid": "Look at the practice card and choose your answer.",
      "check": {
       "t": "mcq",
       "q": "What tells many birds it is time to migrate?",
@@ -841,14 +841,14 @@
      "mins": 12,
      "do": "Take turns until a falcon reaches Africa.",
      "say": "Answer the question, roll the dice and fly. Be careful over the sea.",
-     "kid": "Answer the question. Roll the dice. Fly! Be careful over the sea."
+     "kid": "Answer the card. Roll. Fly!"
     },
     {
      "id": "s4",
      "mins": 2,
      "do": "Talk about the sea squares.",
      "say": "Real Amur falcons cross the sea for days without landing. How do you think they get ready for that?",
-     "kid": "Real falcons fly over the sea for days without stopping. How do they get ready?",
+     "kid": "Look at the sea squares. Tell your grown-up your idea.",
      "think": "What would you need to carry for a trip with nowhere to stop?",
      "parent": "A good answer says they eat a lot and store fat. Fat is their fuel for the crossing, because there is nowhere to land or feed. For a trip with nowhere to stop, a person would need to carry food and water."
     }
@@ -939,7 +939,7 @@
      "what": "Check both cups at 7 in the morning. Then take the box cup out and put it back by the window."
     }
    ],
-   "record": "Fill in the table at every check. Draw the leaves of both cups at 7 in the morning on day 11. Then write what you think, what you saw and why.",
+   "record": "Fill in the table at every check. Take a photo of both cups at 7 in the morning on day 11, or draw them. Then write what you think, what you saw and why.",
    "flow": [
     {
      "id": "s1",
@@ -963,9 +963,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. When the first two leaves have opened, make a leaf position card. 2. On a sheet of paper, draw three bean leaves on a stalk: one flat, one half down and one hanging down. 3. Label them.",
+     "do": "1. When the first two leaves have opened, make a leaf position card. 2. On a sheet of paper, write three words in a column: flat, half down, hanging down. 3. Beside each word, draw a small leaf in that position, or show it with your hand.",
      "say": "This card helps us describe what the leaves are doing, so we write it the same way each time.",
-     "kid": "Draw three leaves on a stalk. One flat. One half down. One hanging down. Label them. This is your leaf position card.",
+     "kid": "Write flat, half down and hanging down on your card. Beside each, draw a small leaf like that, or show it with your hand. This is your leaf position card.",
      "parent": "The first two leaves of a bean are single, heart-shaped leaves, opposite each other. They usually open about 8 to 12 days after planting. Wait for them before starting the checks.",
      "wait": "Start the checks on the first day both cups have open leaves."
     },
@@ -1159,7 +1159,7 @@
      "mins": 3,
      "do": "1. Keep the thermometer and notebook by the bed. 2. As soon as your child wakes, before getting up, measure their temperature.",
      "say": "Before you get up or eat anything, let's measure how warm your body is. We'll measure the same way three times a day.",
-     "kid": "Don't get up yet. Put the thermometer in place. Wait for the beep. Write the number down.",
+     "kid": "Don't get up yet. Put the thermometer under your tongue, or in your armpit. Use the same place every time. Wait for the beep. Write the number down.",
      "parent": "Use the same place each time: under the tongue if your thermometer is made for the mouth, or deep in the armpit with the arm held close. A healthy reading is usually between about 36 and 37.5 °C. If your child has a fever or a cold, wait until they are well.",
      "context": "This is the first step of the warm and cool experiment. You measure your body's temperature three times a day, for three days, to look for a rhythm."
     },
@@ -1292,7 +1292,7 @@
      "what": "Count once more in the morning, and see what the open flowers look like now."
     }
    ],
-   "record": "Fill in the table at each check. Draw one bud at 4 pm and the same flower at 10 pm.",
+   "record": "Fill in the table at each check. Take a photo of one bud at 4 pm and the same flower at 10 pm, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1448,12 +1448,12 @@
      "mins": 3,
      "do": "Look at the clues that came from living things. Then ask the unit's main question: how do living things know the time?",
      "say": "Some of your clues came from living things, such as a hungry tummy or crows calling. None of them looked at a clock. So how do living things know the time?",
-     "kid": "Some of your clues came from living things, like your tummy and the crows. They have no clock to look at. How do they know the time?",
+     "kid": "Tell your grown-up your idea. How can a living thing know the time without a clock?",
      "think": "Could a plant know the time? How could we test it?",
      "parent": "The answer is yes. In the Sleeping Bean Leaves experiment, you shut a bean plant in a dark box and see whether their leaves still lift in the morning. If they do, the plant is keeping time without a window."
     }
    ],
-   "context": "This short noticing activity opens the unit. You find clues to the time of day, and notice that many come from living things that have no clock.",
+   "context": "This short noticing activity opens the unit. You will find out how close you can guess the time without a clock, and how many clues come from living things.",
    "setup": [
     {
      "art": "A wall clock turned to face the wall, and a child at a window listening to crows on a rooftop.",
@@ -1505,9 +1505,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Draw a big circle and split it into day and night. 2. Draw each flower at the time they open. 3. Add a sun at the top of the day side and a moon on the night side.",
+     "do": "1. On the plate, draw a line to split it into a day half and a night half. 2. Write each flower's name at the time it opens. 3. Add a sun on the day side and a moon on the night side. Your child can draw the flowers too, if they like.",
      "say": "Put the lotus near sunrise and the jasmine at evening. Where does the pavazhamalli go?",
-     "kid": "Draw each flower at the time they open. Lotus near sunrise. Jasmine in the evening. Where does pavazhamalli go?",
+     "kid": "Write each flower's name on the clock, where it opens. Draw it too if you like.",
      "adult": false
     },
     {
@@ -1530,7 +1530,7 @@
      "adult": true
     }
    ],
-   "context": "In this activity you make a flower clock, showing which flowers open at which hour, as Carl Linnaeus suggested in 1751.",
+   "context": "In this activity you make a flower clock, showing which flowers open at which hour, as Carl Linnaeus suggested in 1751. You will find out which flower could tell you which time.",
    "setup": [
     {
      "art": "A paper plate split into a yellow day half and a dark blue night half, with a lotus drawn near sunrise and jasmine near sunset.",
@@ -1648,23 +1648,23 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. In blue, draw an arrow for barn swallows, from Central Asia and Russia down to India. 2. They come for the cold months and go back in spring.",
+     "do": "1. In blue, draw an arrow (or lay a blue thread) for barn swallows, from Central Asia and Russia down to India. 2. They come for the cold months and go back in spring.",
      "say": "The barn swallows on the wires in winter came from far to the north. Where do they go in summer?",
-     "kid": "Draw the barn swallow in blue. From the far north, down to India for winter. Then back."
+     "kid": "Show the barn swallow in blue, with a line or a thread. From the far north, down to India for winter. Then back."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. In green, draw a short arrow inside South India, for blue tiger and crow butterflies. 2. Draw it between the plains and the Western Ghats.",
+     "do": "1. Find the plains and the Western Ghats in South India. 2. Ask your child to point to them and say how the blue tiger and crow butterflies travel. 3. Put a green dot at each end.",
      "say": "Butterflies migrate too. In South India, huge numbers of blue tiger butterflies travel between the plains and the Western Ghats.",
-     "kid": "Draw the blue tiger butterfly in green. A short trip, inside South India."
+     "kid": "Find the plains and the Western Ghats. Point to them and tell your grown-up how the blue tiger butterfly travels. Put a green dot at each end."
     },
     {
      "id": "s4",
      "mins": 4,
      "do": "Talk about what the three journeys have in common.",
      "say": "All three journeys happen at the same time every year. What tells the animals when to go?",
-     "kid": "All three go at the same time every year. What tells them when to go?",
+     "kid": "Look at the months on your map. What is the same about all three journeys?",
      "check": {
       "t": "mcq",
       "q": "All three animals travel at the same time every year. What does that suggest?",
@@ -1678,7 +1678,7 @@
      }
     }
    ],
-   "context": "In this activity you draw the yearly journeys of three animals that pass through India: a falcon, a swallow and a butterfly.",
+   "context": "In this activity you mark the yearly journeys of three animals that pass through India: a falcon, a swallow and a butterfly. You will find out that all three travel at the same time every year.",
    "setup": [
     {
      "art": "A world map with a red arrow from China through Nagaland across the Arabian Sea to southern Africa.",
@@ -1713,35 +1713,35 @@
      "what": "Visit a flowering plant twice in one day and draw the flowers each time."
     }
    ],
-   "record": "Two drawings of the same flower, with the times written underneath.",
+   "record": "Two counts, and two photos or drawings of the same flower, with the times written beside them.",
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Find one plant with flowers that open at a set time: a lotus, morning glory, pavazhamalli or four o'clock plant. 2. Visit early in the morning. 3. Draw the flowers and write the time.",
-     "say": "Let's draw these flowers now, and come back later to see if they have changed.",
-     "kid": "Draw the flowers. Are they open or closed? Write the time.",
+     "do": "1. Find one plant with flowers that open at a set time: a lotus, morning glory, pavazhamalli or four o'clock plant. 2. Visit early in the morning. 3. Count the open flowers and write the number and the time. Take a photo of one flower, or draw it.",
+     "say": "Let's look at these flowers now, and come back later to see if they have changed.",
+     "kid": "Count the open flowers. Write the number and the time. Take a photo of one flower, or draw it.",
      "adult": true,
      "context": "This is the first step of a flower watch, for families with a garden or park nearby. You visit one plant twice in a day."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Visit again in the afternoon or evening, and draw the same flowers.",
+     "do": "Visit again in the afternoon or evening. Count the open flowers again and photograph or draw the same flower.",
      "say": "These are the same flowers, later in the day. What has changed?",
-     "kid": "Draw the same flowers again. What changed?",
+     "kid": "Count the open flowers again. Photograph or draw the same flower. What changed?",
      "adult": true
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Compare the two drawings.",
+     "do": "Compare the two counts and the two pictures.",
      "say": "Why might this flower open at that time, and not another?",
-     "kid": "Look at both drawings. Why does this flower open at that time?",
+     "kid": "Look at both counts. Which time had more open flowers?",
      "think": "Who visits this flower? When do they come?"
     }
    ],
-   "context": "This activity is for families with a garden, park or temple pond nearby. You draw one flowering plant in the morning and again later, to see when the flowers open and close.",
+   "context": "This activity is for families with a garden, park or temple pond nearby. You watch one flowering plant in the morning and again later, to find out when its flowers open and close.",
    "setup": [
     {
      "art": "A child drawing a lotus pond at dawn with the lotus flowers open.",
@@ -1775,7 +1775,7 @@
      "what": "Act out a barn swallow's year around four paper signs on the floor."
     }
    ],
-   "record": "Draw the four parts of the swallow's year in a circle.",
+   "record": "Put the four sheets in order and tell your grown-up the swallow's year. Or draw the four parts in a circle.",
    "flow": [
     {
      "id": "s1",
@@ -1811,7 +1811,7 @@
      }
     }
    ],
-   "context": "This is an act-out of one year in the life of a barn swallow, moving between the north and India as the days change. It is a demonstration, not an experiment.",
+   "context": "This is an act-out of one year in the life of a barn swallow, moving between the north and India as the days change. You will find out why it flies south and why it comes back. It is a demonstration, not an experiment.",
    "setup": [
     {
      "art": "Four paper signs on a floor in a circle, a child flapping their arms on one, a grown-up holding a torch.",
@@ -1868,9 +1868,9 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Choose one window or the balcony. 2. Write the date and the time the streetlights come on. 3. Write three living things you can see or hear there: birds, flowers, trees, insects. 4. Draw one of them.",
+     "do": "1. Choose one window or the balcony. 2. Write the date and the time the streetlights come on. 3. Write three living things you can see or hear there: birds, flowers, trees, insects. 4. Draw or photograph one of them.",
      "say": "We'll write what this window shows us, once a week for four weeks.",
-     "kid": "Write today's date. What time did the streetlights come on? Write three living things you see or hear. Draw one.",
+     "kid": "Write today's date. What time did the streetlights come on? Write three living things you see or hear. Draw or photograph one.",
      "context": "This is the first step of Our Window Calendar, a four-week project. You record the same window once a week, to see slow changes."
     },
     {
@@ -1878,7 +1878,7 @@
      "mins": 20,
      "do": "Each week, on the same day and at the same time, write a new entry the same way.",
      "say": "This is the same window at the same time. What is new this week? What has gone?",
-     "kid": "This is the same window at the same time. What is new this week? What has gone?",
+     "kid": "Write a new entry, the same way as the last one. Look for what is new.",
      "wait": "Come back next week, and the week after."
     },
     {
@@ -1939,7 +1939,7 @@
     "A calendar alarm that dims the building on the nights birds are expected.",
     "A 'bird forecast': scientists already use weather radar to predict big migration nights."
    ],
-   "your_turn": "Now invent your own way. Draw it, add it to your shoebox building, and shine the torch through. How much light escapes now?",
+   "your_turn": "Now invent your own way. Add it to your shoebox building, and shine the torch through. How much light escapes now?",
    "flow": [
     {
      "id": "s1",
@@ -1947,14 +1947,14 @@
      "do": "1. Cut window holes in a shoebox. 2. Put a lit torch inside. 3. Turn off the room light and look at the light pouring out.",
      "say": "Pretend you are a small bird flying past at night. What would you see?",
      "kid": "Put the torch in the box. Turn off the room light. Pretend you are a bird flying past. What do you see?",
-     "context": "This is the first step of the Lights Out for Birds challenge. You see how a lit building looks at night, then design ways to help birds."
+     "context": "This is the first step of the Lights Out for Birds challenge. You see how a lit building looks at night, then find out how much light you can stop from escaping, so birds are not pulled off their path."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw three ideas together.",
+     "do": "Talk about three ideas together and write them in a list.",
      "say": "How could the people inside still see, but less light get out?",
-     "kid": "Draw three ideas. People still need to see. Less light should get out."
+     "kid": "Think of three ideas. People inside still need to see. Less light should get out."
     },
     {
      "id": "s3",
@@ -2009,29 +2009,29 @@
     "Add a touch-me-not, whose leaves fold at night.",
     "Choose plants that smell at different times, so you can tell the time with your eyes shut."
    ],
-   "your_turn": "Now plan your own balcony flower clock. Draw the pots and label the opening times. Which hour is hardest to fill?",
+   "your_turn": "Now plan your own balcony flower clock. Label each paper pot with its plant and opening time. Draw the flower too if you like. Which hour is hardest to fill?",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Draw the balcony and five empty pots.",
+     "do": "Lay out five pieces of paper in a row. Each one is a pot on the balcony.",
      "say": "Linnaeus dreamed of a flower clock garden. Let's plan a small one for our balcony.",
-     "kid": "Draw our balcony with five empty pots. We will fill them with flowers that open at different times.",
-     "context": "This is the first step of a design challenge. You plan a small balcony garden that tells the time of day with flowers."
+     "kid": "Lay out five pieces of paper. Each one is a pot on our balcony. We will fill them with flowers that open at different times.",
+     "context": "This is the first step of a design challenge. You plan a small balcony garden that tells the time of day with flowers, and find out which hour is hardest to fill."
     },
     {
      "id": "s2",
      "mins": 12,
      "do": "1. Choose a plant for each pot. 2. Write the time each one opens. 3. Find any time with no flowers.",
      "say": "Which hour has no flowers yet? What could fill it?",
-     "kid": "Pick a plant for each pot. Write when their flowers open. Which time has no flower?"
+     "kid": "Pick a plant for each pot. Write its name and when it opens on the paper. Which time has no flower?"
     },
     {
      "id": "s3",
      "mins": 8,
      "do": "Read the usual and creative ideas, then finish the plan.",
      "say": "Here are some plants people use. Would you change your plan?",
-     "kid": "Look at the ideas. Change your plan if you like. Finish your drawing.",
+     "kid": "Look at the ideas. Change your plan if you like. Finish it.",
      "think": "Would your flower clock tell the same time in the monsoon, when it is cloudy?",
      "parent": "Mostly yes. Many flowers open at their own hour even when it is cool or cloudy, because their body clock times it. A flower that only opens when it is warm, like a tulip, would not keep the time on a cloudy day."
     }

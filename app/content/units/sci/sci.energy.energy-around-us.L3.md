@@ -201,16 +201,16 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Give each player one SUN card, shuffle the rest and deal 4 more to each. 3. Read the rules out loud.  
   *Parent says:* Each card is one step in a chain of energy. You build chains from a source to something that happens.  
-  *Child mode:* Each card is a step. Link the steps from the Sun to something that happens. Say each link out loud.
+  *Child mode:* Look at your cards. Which one could start a chain?
 - **s2 (10 min)**  
   *Parent does:* Play until the pile is empty and everyone has had one more turn. Check each chain as it is laid: does each step really give energy to the next?  
   *Parent says:* Read me your chain. Does each card really get its energy from the card before it?  
-  *Child mode:* Lay a chain when you can. Read it out loud. Does each step get energy from the one before?
+  *Child mode:* Lay a chain when you can. Then read it out loud, link by link.
   - Note: Good chains: SUN, wind blowing, wind turbine, electricity in the wires, ceiling fan turning. SUN, tiny sea creatures long ago, cooking gas, pressure cooker whistling. SUN, sesame plant, sesame oil, diya flame. URANIUM, nuclear power station, electricity in the wires, mixie grinding.
 - **s3 (2 min)**  
   *Parent does:* Add up the scores. Ask which chain was the longest.  
   *Parent says:* Which was the longest chain in the game? Could we make it even longer?  
-  *Child mode:* Add up your points. Which chain was the longest?
+  *Child mode:* Add up your points. Who has the most?
   - Check: Which chain is in the right order? → **SUN, rice plant, idli, you running**
 ### g2 · Pass the Sunshine (15 min)
 - **rules:** Make a ball: crumple 6 sheets of yellow paper together into one loose ball. This is the Sun's energy.; Lay the 6 role cards in a row, in order from SUN to CRATER IN THE ATTA. Put the HEAT card on a bowl at the side.; Share the roles out. With 2 players, one takes the first three roles and the other takes the last three. With more players, give out the roles in order, one or more each.; The SUN passes the ball to the RICE PLANT and says, 'I give you my light.' Each player passes it on and says what they do with the energy.; At each of the 5 passes, the receiver tears off one sheet and drops it in the HEAT bowl. This is energy that spreads out as warmth.; At the end, count the sheets left in the ball and the sheets in the HEAT bowl. Add them up.; Playing alone: play every role yourself. Move the ball along the row of cards, tearing off one sheet into the bowl at each pass.
@@ -218,7 +218,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s1 (3 min)**  
   *Parent does:* 1. Crumple 6 sheets of yellow paper together into one ball. 2. Lay out the role cards in a row, put the HEAT card on a bowl and share out the roles.  
   *Parent says:* This ball is energy from the Sun. We'll pass it along the chain. Watch what happens to it.  
-  *Child mode:* This yellow ball is the Sun's energy. Take your role cards. Get ready to pass it.
+  *Child mode:* Take your role card. Get ready to pass the ball.
 - **s2 (8 min)**  
   *Parent does:* Pass the ball along. Each receiver says what they do with the energy, tears off one sheet and drops it into the HEAT bowl.  
   *Parent says:* The rice plant says, 'I store the light in my grains.' Tear off one sheet. That bit spreads out as heat.  
@@ -227,7 +227,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s3 (4 min)**  
   *Parent does:* 1. Count the sheets left in the ball. 2. Count the sheets in the HEAT bowl. 3. Add them.  
   *Parent says:* The ball got smaller and smaller. But count everything. Is any paper missing?  
-  *Child mode:* Count the sheets in the ball. Count the sheets in the bowl. Add them. Is any missing?
+  *Child mode:* Count the sheets in the ball. Count the sheets in the bowl. Add the two numbers.
   - Check: The yellow ball got smaller at every step, but no paper was missing at the end. What does this show about energy? → **Energy is never lost: some of it spreads out as heat at every step**
 
 ## Experiments
@@ -236,7 +236,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **predict:** Guess first. Will a marble dropped from 80 cm make a wider crater than one dropped from 20 cm? How much wider: a little, twice as wide, or four times as wide? Why do you think so?
 - **fair test:** Use the same marble, the same tray of atta and the same way of letting go. Only the height changes. Smooth the atta flat before every drop. Drop 3 times from each height, because one try can be a fluke.
 - **safety:** Drop the marble, never throw it. If you dust the atta with haldi instead of ragi flour, remember that haldi stains clothes. Keep marbles away from children under 3, who may swallow them.
-- **record:** Fill in the table. Draw one crater from each height, from above, at its real size.
+- **record:** Fill in the table. Take a photo of one crater from each height, with the ruler beside it. Or draw it from above, at its real size.
 - **results table:** Height of the drop | Crater width, try 1 (cm) | Try 2 (cm) | Try 3 (cm) | The thud: soft, medium or loud?
 - **s1 (5 min)**  
   *Parent does:* 1. Spread newspaper on the floor and put the container on it. 2. Pour in atta about 3 cm deep. 3. Shake the container gently from side to side, then smooth the top of the atta with the ruler. 4. Sprinkle a thin dusting of ragi flour over the top through the tea strainer. 5. Stick the measuring tape upright on a wall beside the container. Put 0 level with the top of the atta.  
@@ -246,7 +246,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s2 (3 min)**  
   *Parent does:* Show your child the marble and the three heights on the measuring tape: 20 cm, 40 cm and 80 cm. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will drop the marble from 20, 40 and 80 centimetres. Which crater will be widest? Will it be a little wider, or much wider? Why do you think so?  
-  *Child mode:* You will drop the marble from three heights. Which crater will be widest? How much wider? Say why you think so.
+  *Child mode:* Look at the marble and the tape. Make a guess, and say why you think so.
   - Ask: What do you think will happen, and why? (good: The highest drop will make the biggest crater, because it falls faster.; Four times the height might make it four times as wide.; It will be louder from higher up.)
   - Note: Accept any guess with a reason. Many children guess that four times the height will make a crater four times as wide. Don't correct it now: the atta will answer it.
 - **s3 (7 min)**  
@@ -267,7 +267,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s6 (4 min)**  
   *Parent does:* 1. Give your child a full 1 litre water bottle. 2. Ask them to lift it from the floor to their knee 10 times. 3. Rest. 4. Then from the floor to above their head 10 times. 5. Ask which tired their arm more.  
   *Parent says:* Where did the marble's extra energy come from? Let's find out with this bottle. Lift it low ten times, then high ten times.  
-  *Child mode:* Lift the bottle from the floor to your knee, ten times. Rest. Now lift it from the floor to above your head, ten times. Which was harder work?
+  *Child mode:* Lift the bottle from the floor to your knee, ten times. Rest. Now lift it from the floor to above your head, ten times. Notice how your arm feels each time.
   - Ask: Which lifting was harder? What does that tell you about the marble? (good: Lifting high was harder, so it took more energy.; When I lifted the marble higher, I gave it more energy, and that energy made the bigger crater.)
   - Note: The marble is too light to feel the difference, so the bottle stands in for it. Lifting higher takes more energy from your muscles. That energy is stored in the lifted thing, and comes out when it falls.
 - **s7 (5 min)**  
@@ -280,12 +280,12 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **predict:** Guess first. After one hour, which tumbler of water will feel warmer: the one in the sun or the one in the shade? Will you be able to feel the difference with your finger? Why do you think so?
 - **fair test:** Use two tumblers that are the same, with the same amount of water from the same tap, poured at the same time. Put both in the same room or balcony, one in direct sunshine and one in the shade. Only the sunshine changes.
 - **safety:** Never look straight at the Sun.
-- **record:** Fill in the table. Draw the two tumblers, with the Sun's rays reaching one of them.
+- **record:** Fill in the table. Take a photo of the two tumblers where they stood, or tell your grown-up what you felt.
 - **results table:** Tumbler | Feel at the start (cool, same, warm) | Feel after 1 hour | Thermometer reading, if you have one
 - **s1 (5 min)**  
   *Parent does:* 1. Fill both tumblers with one cup of tap water each. 2. Ask your child to dip a finger in each. They should feel the same. 3. Ask for a guess and a reason.  
   *Parent says:* These two tumblers are the same, with the same water. We'll put one in the sun and one in the shade. What will happen after an hour, and why?  
-  *Child mode:* Dip a finger in each tumbler. Do they feel the same? Now guess. Which one will be warmer after an hour? Why?
+  *Child mode:* Dip a finger in each tumbler. Do they feel the same? Then make a guess about what an hour in the sun will do.
   - Ask: What do you think will happen, and why? (good: The sunny one will be warmer, because the Sun gives heat.; Both will warm up a little, but the sunny one more.)
 - **s2 (3 min)**  
   *Parent does:* 1. Put one tumbler where direct sunshine falls on it. 2. Put the other in the shade, in the same room or balcony. 3. Set a timer for 1 hour.  
@@ -307,7 +307,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s5 (5 min)**  
   *Parent does:* Talk about one more thing. Ask: on a hot afternoon, why does the balcony floor in the sun burn your feet, while the shady part does not?  
   *Parent says:* The same thing happens to the balcony floor. Why is the sunny part so hot under your feet?  
-  *Child mode:* Think of the balcony floor in the afternoon. Why is the sunny part hot under your feet?
+  *Child mode:* Think of the balcony floor in the afternoon. Stand on the sunny part. Then the shady part.
   - Ask: Why is the sunny floor hot? (good: Sunlight lands on it and its energy turns into heat.; The shady part gets less sunlight, so less energy.)
 
 ## Activities
@@ -317,7 +317,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s1 (2 min)**  
   *Parent does:* Ask your child what a fan, a torch and a running child have in common. Wait for their ideas before saying anything.  
   *Parent says:* A fan, a torch and you, running. What do the three have in common? Have a think.  
-  *Child mode:* Think of a fan, a torch and you, running. What is the same about all three?
+  *Child mode:* Picture a fan, a torch and you, running. Take a moment to think about all three.
   - Ask: What is the same about them? (good: They all do something.; They all need power, or electricity, or food.; They all use energy.)
   - Note: If your child says 'energy', ask what they mean. If not, say: 'Each one makes something happen. Whatever makes something happen needs energy.'
 - **s2 (5 min)**  
@@ -331,25 +331,25 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
   *Child mode:* Look at where the energy came from. Wall socket, cell, gas, food or sunlight? Which came up most?
   - Check: A clock on the wall ticks all day, with no wire to a socket. Where does its energy come from? → **From a cell inside it**
 ### a2 · Follow It Back to the Sun (15 min)
-- **record:** A poster with three energy chains, each ending at the Sun, or at something else if it really does.
+- **record:** Three energy chains made of slips, each ending at the Sun, or at something else if it really does. Take a photo, or stick the slips down.
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw a big yellow Sun at the top of the paper. 2. At the bottom, draw your child eating breakfast. 3. Ask: where did the energy in your breakfast come from? Draw each step upwards, with arrows.  
-  *Parent says:* You ran around this morning on energy from breakfast. Where did the breakfast get it? And before that?  
-  *Child mode:* Draw the Sun at the top. Draw yourself eating breakfast at the bottom. Where did your breakfast get its energy? Draw each step with an arrow.
+  *Parent does:* 1. Tear paper into small slips. Write SUN on one and 'breakfast' on another. 2. Put SUN at the top of the big sheet and 'breakfast' at the bottom. 3. Ask: where did the energy in your breakfast come from? Write one slip for each step and lay them in between.  
+  *Parent says:* Your breakfast gave you energy. Where did the breakfast get it? And before that?  
+  *Child mode:* Lay the SUN slip at the top and the breakfast slip at the bottom. Fill the gap with one slip for each step.
   - Ask: If your breakfast was idli, where did the idli's energy come from? (good: From rice and urad dal.; From the plants, which grew in sunlight.)
 - **s2 (6 min)**  
-  *Parent does:* Draw two more chains: one for the ceiling fan, and one for the gas flame. Help with the steps your child doesn't know.  
+  *Parent does:* Make two more chains with slips: one for the ceiling fan, and one for the gas flame. Help with the steps your child doesn't know.  
   *Parent says:* Now the fan. It runs on electricity. Where does a power station get its energy? Wind? Coal? Falling water? And where did those get it?  
-  *Child mode:* Now draw a chain for the fan. Then one for the gas flame. Ask a grown-up when you get stuck.
+  *Child mode:* Now make a chain of slips for the fan. Then one for the gas flame. Ask a grown-up when you get stuck.
   - Note: Fan: fan, electricity, power station, wind (moved by the Sun warming the land and sea) or coal (ancient plants that grew in sunlight) or falling water (lifted into clouds by the Sun's heat). Gas flame: flame, cooking gas, oil and gas underground, tiny sea creatures from millions of years ago, sunlight. If your electricity company uses nuclear power, that chain ends at uranium, not the Sun.
 - **s3 (4 min)**  
-  *Parent does:* Look at the whole poster. Ask: which chain was longest? Did any chain not end at the Sun?  
+  *Parent does:* Look at the three chains together. Ask: which chain was longest? Did any chain not end at the Sun?  
   *Parent says:* Look at all three chains. Do they all end at the Sun? Which one was the longest?  
-  *Child mode:* Look at all your chains. Do they all end at the Sun? Which is the longest?
+  *Child mode:* Count the slips in each chain. Which chain has the most?
   - Check: Which of these does NOT get its energy from the Sun? → **A nuclear power station**
 ### a3 · The Spinning Paper Snake (15 min)
 - **safety:** A grown-up lights the diya and holds the spiral. Keep the paper at least 20 cm above the flame, never lower. Tie back long hair and keep dupattas away. Put the diya on a steel plate, away from curtains.
-- **record:** Draw the spiral above the diya. Add arrows showing which way the warm air went.
+- **record:** Tell your grown-up how the energy went from the oil to the spinning spiral. Or draw the spiral above the diya, with arrows showing which way the warm air went.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Draw round a lid to make a circle about 12 cm across. 2. Draw a spiral inside it, from the edge to the middle, with lines about 1 cm apart. 3. Cut the circle out, then cut along the spiral line. 4. Push the thread through the middle with a needle, and knot it underneath.  
   *Parent says:* Let's make a paper spiral that hangs like a snake. Cut carefully along the spiral line, round and round, to the middle.  
@@ -358,18 +358,18 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s2 (2 min)**  
   *Parent does:* Hold the spiral by its thread, away from the flame. Ask your child to guess what will happen when you hold it high above the diya, and why.  
   *Parent says:* Nobody will touch the spiral. What do you think will happen when I hold it high above the diya? Why?  
-  *Child mode:* Nobody will touch the spiral. What will it do above the diya? Why do you think so?
+  *Child mode:* Nobody will touch the spiral. Make a guess about what it will do above the diya, and say why.
   - Ask: What will the spiral do? (good: It will spin.; It will move, because hot air goes up.; Nothing, because nothing is touching it.)
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. Switch the ceiling fan off and close the nearby window, so no draught bends the flame. 2. A grown-up lights the diya. 3. The grown-up holds the spiral by its thread, at least 20 cm above the flame. 4. Wait 10 seconds and watch.  
   *Parent says:* Watch the spiral. Nobody is touching it. What is making it turn?  
-  *Child mode:* Watch the spiral. Keep your hands back. Is it turning? What is pushing it?
+  *Child mode:* Watch the spiral. Keep your hands back. Is it turning?
   - Note: One small flame gives only a weak stream of warm air, so the spiral may turn slowly or only a little. If it does not move, check that the spiral hangs open and is not stuck together. Use thinner paper, or light two tea lights side by side. Never hold it closer than 20 cm.
   - Check: Nobody touched the paper spiral, but it spun above the diya. What made it spin? → **Air warmed by the flame rose up and pushed on the spiral**
 - **s4 (3 min)**  
   *Parent does:* Blow out the diya. Talk about where the energy came from and where it went.  
   *Parent says:* The diya's oil had stored energy. The flame turned it into heat and light. The heat moved the air, and the air moved the spiral. Where did the oil get its energy?  
-  *Child mode:* The oil had stored energy. The flame made heat and light. The hot air moved the spiral. Where did the oil get its energy?
+  *Child mode:* The oil had stored energy. The flame made heat and light. The hot air moved the spiral. Now think about the oil.
   - Ask: Where did the oil's energy come from? (good: From sesame or groundnut seeds, which were pressed to make the oil.; From the sunlight that the plant caught.)
 ### a4 · Energy Charades (10 min)
 - **record:** Keep a tally of how many each player guessed right.
@@ -390,23 +390,23 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s1 (20 min)**  
   *Parent does:* Through the day, whenever your child notices energy at work, they write the time, the thing, and its source. Aim for at least 15 entries by bedtime.  
   *Parent says:* Today you're our energy detective. Every time energy makes something happen, write down the time, the thing, and where the energy came from.  
-  *Child mode:* You are the energy detective today. When something moves, lights up, heats up or makes a sound, write it down. Write the time and where the energy came from.
+  *Child mode:* Look around all day. Something moves, lights up, heats up or makes a sound? Write the time and the thing. Write where its energy came from.
   - Note: Remind your child at meals and after school. Include living things: people walking, the crow at the window, the potted plant in the sun.
 - **s2 (15 min)**  
-  *Parent does:* 1. Read the diary together. 2. Make a tally of the sources: wall socket, cells, gas, food, sunlight, other. 3. Draw a bar for each on the poster.  
+  *Parent does:* 1. Read the diary together. 2. Make a tally of the sources: wall socket, cells, gas, food, sunlight, other. 3. Make a bar for each on the poster, by drawing it or by sticking on paper squares.  
   *Parent says:* Let's count. Which source did our family use most often yesterday?  
-  *Child mode:* Read your diary. Count each source with tally marks. Draw a bar for each one.
+  *Child mode:* Read your diary. Count each source with tally marks. Make a bar for each one. Draw it, or stick on paper squares.
   - Check: Most entries in the diary came from the wall socket. What does the wall socket really give us? → **Electricity that carries energy from a power station**
   - Wait: Do this the next day.
 - **s3 (10 min)**  
   *Parent does:* Ask: which of these did we leave on when nobody needed it? Choose one change for the family to try for a week.  
   *Parent says:* Was any energy wasted? A fan in an empty room, a light in the day? Let's choose one change to try this week.  
-  *Child mode:* Did anything run when nobody needed it? Pick one change for your family to try this week.
+  *Child mode:* Think of a fan or a light left on for no reason. Pick one change for your family to try this week.
 
 ## Challenges
 ### c1 · The Chain Reaction Bell (30 min)
 - **problem:** Build a chain of things where one small push from your finger passes energy along, step by step, until a steel spoon rings a steel tumbler at the end.
-- **your turn:** Now design your own chain. Draw it first, with an arrow for each step. Then build it and see whether the bell rings. If it does not, find the step where it stopped. Then think about how to pass more energy into that step.
+- **your turn:** Now design your own chain. Plan it first: draw it with arrows, or lay the parts out in order. Then build it and see whether the bell rings. If it does not, find the step where it stopped. Then think about how to pass more energy into that step.
 - **constraints:** You may touch only the first thing in the chain.; The chain must have at least 4 steps.; Use only things from home.
 - **general:** Stand books or dominoes in a line, so each one knocks the next.; Let the last domino push a marble down a ruler ramp.; Let the marble roll off the ramp and hit a steel spoon that hangs from a thread taped to the table edge, so the spoon swings into the tumbler.
 - **creative:** Add a step: let the marble roll into three playing cards standing on their edges, so the last card tips against the spoon.; Use a toy car rolling off a stack of books instead of a marble.; Put a lifted book at one step, so it falls and adds its own stored energy to the chain.
@@ -415,9 +415,9 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
   *Parent says:* One small push, and the energy is passed along. Each falling book gives energy to the next.  
   *Child mode:* Stand the books in a line. Push the first one gently. Watch them all fall. One push did all that!
 - **s2 (5 min)**  
-  *Parent does:* Draw a plan for a chain of at least 4 steps that ends with the spoon ringing the tumbler.  
-  *Parent says:* Draw your plan first. What gives energy to what? Draw an arrow for each step.  
-  *Child mode:* Draw your chain on paper. Draw an arrow for each step. The last step rings the tumbler.
+  *Parent does:* Make a plan for a chain of at least 4 steps that ends with the spoon ringing the tumbler. Draw it, or lay the parts out on the floor in order.  
+  *Parent says:* Plan first. What gives energy to what?  
+  *Child mode:* Show your chain: draw it with arrows, or lay the parts out in order. The last step rings the tumbler.
 - **s3 (15 min)**  
   *Parent does:* Build the chain and test it. When a step fails, change it and test again.  
   *Parent says:* If it stops halfway, look at the step where it stopped. Did that step get too little energy?  
@@ -426,7 +426,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s4 (5 min)**  
   *Parent does:* Ask: where did the energy to ring the tumbler come from? Was it only your push?  
   *Parent says:* Was the ring made only by your finger? What else gave energy to the chain?  
-  *Child mode:* Was the ring only from your push? Where else did energy come from?
+  *Child mode:* Think about what pushed each step along.
   - Check: In one chain, a book falls off a table onto a marble. The finger's push at the start was tiny, but the marble shot off fast. Where did the extra energy come from? → **From the falling book, which had stored energy because it was lifted up on the table**
 ### c2 · The Soft Landing (25 min)
 - **problem:** A marble dropped from 80 cm onto a steel plate lands with a loud clang. Design a landing pad from home things that makes the quietest sound, and stops the marble without letting it bounce away.
@@ -441,7 +441,7 @@ Arjun took his steel plate and spoon to the window, where the morning sun lay in
 - **s2 (15 min)**  
   *Parent does:* Try at least 4 different pads, 3 drops each. Rank them from loudest to quietest.  
   *Parent says:* Test each pad three times from the same height. Which is quietest? Which stops the marble without a bounce?  
-  *Child mode:* Test each pad three times from 80 cm. Listen. Which is quietest? Write them in order.
+  *Child mode:* Test each pad three times from 80 cm. Listen each time. Then put the pads in a row, loudest to quietest.
   - Note: Soft, squashy pads are quietest. The marble's movement energy goes into squashing the pad, and ends as a tiny warming. Hard pads send it back as sound and a bounce.
 - **s3 (7 min)**  
   *Parent does:* Build your own best pad from what you learned, and test it.  

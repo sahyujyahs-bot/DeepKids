@@ -359,7 +359,7 @@
     "2 to 4 players",
     "a whole family"
    ],
-   "context": "This is a card game about sorting the things around us. Each card shows one thing. Players place it in one of four corners of a grid, and must give a reason.",
+   "context": "This is a card game about sorting the things around us. Each card shows one thing. Players place it in one of four corners of a grid, and must give a reason. Good reasons win tokens, and some things are hard to place.",
    "printables": [
     {
      "kind": "cards",
@@ -534,7 +534,7 @@
    "players": [
     "2 to 4 players"
    ],
-   "context": "This is a board game played on a loop. Players move water drops round the loop from home to drain to river to sea to cloud and back. Anything a player 'throws away' stays in the game and comes back round.",
+   "context": "This is a board game played on a loop. Players move water drops round the loop from home to drain to river to sea to cloud and back. Anything a player 'throws away' stays in the game and comes back round. You will see that nothing thrown away ever leaves the loop.",
    "printables": [
     {
      "kind": "board",
@@ -617,7 +617,7 @@
      "id": "s2",
      "mins": 14,
      "do": "Play. When someone places a token, ask where that thing would really go.",
-     "say": "You poured oil down the sink. Look, the oil stays on the Drain square. Who will land there next?",
+     "say": "If a card says you poured oil down the sink, the oil token stays on the Drain square. Who will land there next?",
      "kid": "Roll and move. Read your card. Tokens stay on the board!",
      "parent": "The point is that nothing leaves the loop. Even the Dump yard sits beside the board. Players soon start carrying tokens to the Dump yard to free the others. Let that happen without telling them to."
     },
@@ -658,7 +658,7 @@
    "title": "The Closed Box Test: can moong seedlings live with the lid on?",
    "mins": 35,
    "days": 7,
-   "context": "In this experiment you grow moong seeds in two clear boxes. One box is closed tight. The other is left open. You add no more water for a week, and watch what happens to the water and the seedlings in each.",
+   "context": "In this experiment you grow moong seeds in two clear boxes. One box is closed tight. The other is left open. You add no more water for a week, and watch what happens to the water and the seedlings in each. You will find out whether plants can live when nothing new comes in, as on Earth.",
    "question": "If we shut moong seeds in a closed box with damp cotton, and add no more water or air, will they live for a longer or a shorter time than seeds in an open box?",
    "predict": "Which box will keep its seedlings green longer, the closed one or the open one? Why do you think so? Think about water, and think about air.",
    "fair_test": "Both boxes are the same size. Each gets the same cotton, the same 3 tablespoons of water and 10 soaked moong seeds from the same bowl. Both stand side by side in the same place. Only one thing is different: one box has its lid on. We use 10 seeds, not 1, because one seed might be dead.",
@@ -725,7 +725,7 @@
      "what": "Look at both boxes one last time and weigh them. Say what happened, what you saw that shows it, and why you think it happened. Then talk about how Earth is like the closed box."
     }
    ],
-   "record": "Fill in the table on days 2, 4 and 7. On day 7, draw both boxes side by side and draw arrows where you think the water went in each.",
+   "record": "Fill in the table on days 2, 4 and 7. On day 7, take a photo of both boxes side by side, or draw them. Then tell your grown-up where you think the water went in each.",
    "flow": [
     {
      "id": "s0",
@@ -739,7 +739,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Lay cotton wool about 1 cm thick in each box. 2. Pour 3 tablespoons of water evenly over each cotton. 3. Spread 10 soaked seeds on each. 4. Label one box 'Lid on' and one 'Lid off'.",
+     "do": "1. Lay cotton wool about 1 cm thick in each box. 2. Pour 3 tablespoons of water evenly over the cotton in each box. 3. Spread 10 soaked seeds on each. 4. Label one box 'Lid on' and one 'Lid off'.",
      "say": "Both boxes get exactly the same cotton, the same water and the same number of seeds. Why do you think that matters?",
      "kid": "Put cotton in both boxes. Add 3 spoons of water to each. Put 10 seeds on each.",
      "parent": "Count the spoons aloud together. Keeping everything the same means any difference must come from the lid. The cotton should be damp all through, with no pool of water on top.",
@@ -750,7 +750,7 @@
      "mins": 6,
      "do": "Hold up the lid. Ask your child to guess before you close it. Wait for a guess and a reason.",
      "say": "I'm going to close this box tight and leave the other one open. We won't add any more water for a week. Which seeds do you think will do better? Why?",
-     "kid": "Guess first. Which box will keep its seedlings green? Why?",
+     "kid": "Guess first, before the lid goes on. Tell your grown-up why you think so.",
      "ask": [
       {
        "q": "What do you think will happen in the closed box?",
@@ -783,7 +783,7 @@
      "mins": 3,
      "do": "On day 4: look at both boxes and fill in the table again.",
      "say": "What has changed in each box since day 2? Look at the cotton, the drops and the seedlings.",
-     "kid": "Look at both boxes. What changed? Fill in your table.",
+     "kid": "Look at both boxes. Write what you see in your table.",
      "parent": "In a warm Indian home, the open box's cotton is often dry by day 3 or 4, and those seedlings start to droop. In cool or rainy weather it may take a few days longer, so keep checking until there is a clear difference. The closed box should still be misty, with seedlings growing up towards the lid.",
      "wait": "Day 4"
     },
@@ -819,7 +819,7 @@
      "mins": 5,
      "do": "Talk about why the closed seedlings did not run out of air. Then talk about Earth.",
      "say": "The closed box never got new air. In the light, the leaves make food from water and carbon dioxide, and they give out oxygen. The seedlings and the microbes breathe that oxygen in again, and give out carbon dioxide for the leaves to use. So the same air went round and round. Earth is a bit like this box. What do you think comes into Earth from outside?",
-     "kid": "Nothing new came into the closed box. Only light. Is Earth like that?",
+     "kid": "Think about the closed box. Is Earth a bit like it?",
      "check": {
       "t": "mcq",
       "q": "What came into the closed box from outside during the week?",
@@ -880,7 +880,7 @@
    "title": "The Drain Test: does washing powder in water change how seeds sprout?",
    "mins": 27,
    "days": 4,
-   "context": "In this experiment you sprout moong seeds with plain water, a little washing powder in water, and a lot of washing powder in water. Soapy water from our homes goes down drains and reaches lakes and rivers, where seeds and plants live.",
+   "context": "In this experiment you sprout moong seeds with plain water, a little washing powder in water, and a lot of washing powder in water. Soapy water from our homes goes down drains and reaches lakes and rivers, where seeds and plants live. You will find out if soap harms seeds.",
    "question": "Do moong seeds sprout and grow the same in soapy water as in plain water? Does the amount of soap matter?",
    "predict": "Which cup of seeds will grow the longest roots by day 3: plain water, a little soap or a lot of soap? Why do you think so?",
    "fair_test": "The three tumblers are the same size and filled to the same level. Each cup gets the same cotton, 10 seeds from the same packet and 2 tablespoons of water from its own tumbler. All three cups stand together in the same place. Only the water changes. If a cup dries, we add more water from its own tumbler.",
@@ -941,7 +941,7 @@
      "what": "One last look. Clear up."
     }
    ],
-   "record": "Fill in the table on days 2 and 3. Draw one seedling from each cup, the same size as in real life.",
+   "record": "Fill in the table on days 2 and 3. Then lay one seedling from each cup on a page and take a photo, or draw it the same size as in real life.",
    "flow": [
     {
      "id": "s1",
@@ -957,8 +957,8 @@
      "id": "s2",
      "mins": 5,
      "do": "1. Put cotton in each of three cups. 2. Pour 2 tablespoons of plain water on the first, 2 tablespoons of the 'a little' water on the second, and 2 tablespoons of the 'a lot' water on the third. 3. Put 10 dry moong seeds on the cotton in each cup. 4. Label the cups.",
-     "say": "Which cup do you think will grow the longest roots? Why do you think so?",
-     "kid": "Put 10 seeds on the cotton in each cup. Which cup do you think will grow best? Why?",
+     "say": "Now we plant seeds in three cups, each with a different water. Which cup do you think will grow the longest roots? Why?",
+     "kid": "Put 10 seeds on the cotton in each cup.",
      "adult": true,
      "ask": [
       {
@@ -991,7 +991,7 @@
      "mins": 7,
      "do": "Day 3: 1. Count again. 2. Measure the longest root in each cup with a ruler. 3. Ask your child what the soap did, what they saw that shows it, and why they think it happened.",
      "say": "What did the soap do? What did you see that shows it? Why do you think that happened?",
-     "kid": "What did the soap do? Show me how you know.",
+     "kid": "Point to the cup that grew best. Tell your grown-up why.",
      "parent": "Usually the plain cup grows the longest white roots. The 'a lot' cup has fewer sprouts, or short, brownish roots. The 'a little' cup is often in between, or close to plain. If all three grow the same in your home, that is a real result too. Write it down, and talk about how much soap would have to reach a lake before it did harm.",
      "wait": "Day 3"
     },
@@ -1053,7 +1053,7 @@
    "title": "The Window Survey: what is in our environment?",
    "mins": 15,
    "days": 1,
-   "context": "This activity starts the unit. You list everything you can see, hear and feel from one window, then sort the list into living and non-living, and natural and made by people.",
+   "context": "This activity starts the unit. You list everything you can see, hear and feel from one window, then sort the list into living and non-living, and natural and made by people. You will find out how many different kinds of things are around you.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -1086,8 +1086,8 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Draw the four-box square. 2. Read out each thing on the list. 3. Your child says which box it goes in, and why.",
-     "say": "Everything on our list is part of our environment. Let's sort it. Is the crow living or non-living? Natural or made by people?",
+     "do": "1. Draw a square with four boxes: living and natural, living and cared for by people, non-living and natural, non-living and made by people. 2. Read out each thing on the list. 3. Your child says which box it goes in, and why.",
+     "say": "Everything on our list is part of our environment, which means everything around us. Let's sort it. Is the crow living or non-living? Natural or made by people?",
      "kid": "Sort your list into the four boxes. Say why for each.",
      "ask": [
       {
@@ -1174,7 +1174,7 @@
      "what": "Follow the sink pipe as far as you can see it. Ask who takes the rubbish and where. Draw a map of where both go."
     }
    ],
-   "record": "Draw a map with two paths: one for the sink water and one for the dry rubbish. Draw each path as far as you know it. Put a question mark where you do not know.",
+   "record": "Draw a map with two paths, or write them as two lists of stops: one for the sink water and one for the dry rubbish. Go as far as you know. Put a question mark where you do not know.",
    "flow": [
     {
      "id": "s1",
@@ -1198,9 +1198,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Draw the map of both paths together. Mark what you know and what you do not.",
-     "say": "Let's draw where our water and our rubbish go. Where does each path stop? Is that really the end?",
-     "kid": "Draw the paths. Does either one really end?",
+     "do": "Make a map of both paths on paper, or tell the paths aloud while your grown-up writes them. Mark what you know and what you do not.",
+     "say": "Let's show where our water and our rubbish go. Where does each path stop? Is that really the end?",
+     "kid": "Show the paths. Does either one really end?",
      "ask": [
       {
        "q": "Where does the sink water end up in the end?",
@@ -1298,8 +1298,8 @@
      "id": "s3",
      "mins": 8,
      "do": "Count up the list. For each living thing, talk about what that spot gives them.",
-     "say": "Why do you think the ants are near the sugar jar, and the moss is in the damp corner? What does each spot give them?",
-     "kid": "Why is each one in that spot? What does the spot give them?",
+     "say": "Pick one living thing from our list. Why is it in that spot? What does the spot give it, such as food, water, warmth or a hiding place?",
+     "kid": "Pick one on your list. Why is it in that spot?",
      "ask": [
       {
        "q": "Why is moss found in the damp corner of the bathroom and not on the sunny wall?",
@@ -1348,7 +1348,7 @@
      "what": "Collect 10 kitchen things. For each one, say whether it is natural, made by people or both, and what it came from."
     }
    ],
-   "record": "Write each thing in a row, and draw an arrow back to what it was made from. For example: steel tumbler, from steel, from iron ore dug from the ground.",
+   "record": "Write each thing in a row. Then write what it was made from, and what that was made from. For example: steel tumbler, from steel, from iron ore dug from the ground.",
    "flow": [
     {
      "id": "s1",
@@ -1363,7 +1363,7 @@
      "mins": 10,
      "do": "For each thing, ask: natural, made by people, or both? Then ask: what was it made from, and what was that made from?",
      "say": "This steel tumbler was made by people. What is steel made from? Where did that come from? Keep going back.",
-     "kid": "For each thing, ask: what was it made from? Keep asking!",
+     "kid": "Put each thing in a pile: natural, made by people, or both. Then ask what it was made from. Keep asking!",
      "parent": "Every made thing leads back to something natural: steel from iron ore, plastic mostly from oil or natural gas, glass from sand, paper from wood, a cotton cloth from the cotton plant, a clay pot from clay. Curd and honey are both: made with the help of living things. This prepares for the idea that what we make and throw out stays in the environment.",
      "check": {
       "t": "mcq",
@@ -1394,7 +1394,7 @@
    "title": "One Tree's Guests (if you have a park or a tree nearby)",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you watch one tree for 15 minutes and list every living thing that uses the tree. It works on a street tree, a park tree or a tree seen from a balcony.",
+   "context": "In this activity you watch one tree for 15 minutes and list every living thing that uses the tree. You will find out how many living things depend on one tree. It works on a street tree, a park tree or a tree seen from a balcony.",
    "materials": [
     {
      "item": "a notebook and pencil",
@@ -1413,14 +1413,14 @@
      "what": "Watch one tree for 15 minutes. List every living thing on it, under it and visiting it."
     }
    ],
-   "record": "Draw the tree. Draw each guest where you saw them, and write what they were doing.",
+   "record": "Make a list of each guest, where you saw it and what it was doing. You can add a photo or a drawing of the tree.",
    "flow": [
     {
      "id": "s1",
      "mins": 15,
      "do": "Choose one tree. Sit quietly where you can see it. For 15 minutes, list every living thing on it, under it, or visiting it.",
      "say": "A tree is part of the environment of many others. Let's count who uses this one. Watch the trunk, the leaves, the ground under it and the sky above.",
-     "kid": "Watch one tree quietly. List every living thing you see.",
+     "kid": "Watch one tree quietly. List every living thing you see. They are the tree's guests.",
      "adult": true,
      "parent": "On a neem, peepal, mango or rain tree you may see crows, mynas, squirrels, ants on the trunk, spiders, caterpillars, moss or lichen on the bark, and people resting in the shade. Saalumarada Thimmakka of Karnataka, with her husband, planted and cared for 385 banyan trees along about 4 km of road between Hulikal and Kudur. You could tell this story while you watch.",
      "context": "This is the first step of One Tree's Guests, an activity for families with a tree nearby."
@@ -1429,8 +1429,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Look at the list together.",
-     "say": "How many living things use this one tree? What does the tree give each of them? What do they give the tree?",
-     "kid": "How many guests did the tree have? What did the tree give them?",
+     "say": "How many living things use this one tree? What do they give the tree?",
+     "kid": "Count your guests. What did the tree give them?",
      "ask": [
       {
        "q": "What does a tree give a crow?",
@@ -1450,7 +1450,7 @@
     },
     {
      "art": "A child's drawing of a tree with small drawings of a crow, a squirrel, ants and a resting man, each with a label.",
-     "caption": "2. Draw each guest where you saw them."
+     "caption": "2. Write each guest, where you saw it and what it was doing."
     }
    ]
   }
@@ -1513,7 +1513,7 @@
      "what": "Diary: compare with day 1. Decide whether to keep it closed."
     }
    ],
-   "record": "A garden diary: the date, the time, what the glass looks like, and a drawing each week.",
+   "record": "A garden diary: the date, the time, what the glass looks like, and a photo or a drawing each week.",
    "flow": [
     {
      "id": "s1",
@@ -1528,7 +1528,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Look at the glass in the early morning and again in the afternoon. Write and draw what you see.",
+     "do": "Look at the glass in the early morning and again in the afternoon. Write what you see.",
      "say": "When is the glass misty, morning or afternoon? Why do you think so?",
      "kid": "Is the glass misty now? Write the time and what you see.",
      "parent": "Morning mist and afternoon clearing is common, because the glass is cooler than the air inside in the early morning.",
@@ -1537,26 +1537,26 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw the garden and look for changes: new leaves or roots.",
+     "do": "Take a photo of the garden each week and look for changes: new leaves or roots.",
      "say": "What has changed since day 1? Is the glass misty at the same times of day?",
-     "kid": "Draw your garden. What is new?",
+     "kid": "Take a photo of your garden, or draw it. What is new?",
      "wait": "Day 7"
     },
     {
      "id": "s4",
      "mins": 10,
-     "do": "Look closely for anything new living in the jar: moss, tiny insects, a sprout or mould. Draw it.",
+     "do": "Look closely for anything new living in the jar: moss, tiny insects, a sprout or mould. Point to it and tell your grown-up, or draw it.",
      "say": "Is anything living in there that we did not put in?",
-     "kid": "Draw your garden. Is anything new living there?",
+     "kid": "Look closely. Point to anything new that lives there.",
      "parent": "Tiny springtails, moss or a sprouted weed seed from the soil may appear. They came in with the soil. This shows the soil was full of life to begin with.",
      "wait": "Day 14"
     },
     {
      "id": "s5",
      "mins": 10,
-     "do": "Compare the day 1 drawing with today's. Talk about where the water has been all month.",
+     "do": "Compare the day 1 photo or drawing with today's. Talk about where the water has been all month.",
      "say": "No water has gone in for a month. Where has the plant's water been all this time?",
-     "kid": "Look at day 1 and today. Where did the water go all month?",
+     "kid": "Compare day 1 and today. What looks different?",
      "wait": "Day 30",
      "parent": "The water never left the jar. It went from the soil and the leaves into the air, onto the cooler glass, and back down into the soil, again and again. That is why the plant did not need any more water."
     }
@@ -1649,7 +1649,7 @@
      "mins": 15,
      "do": "At the end of the week, count up and compare with the first day.",
      "say": "How much less went out this week? What made it hard? Where would the things we did not throw out have gone?",
-     "kid": "Count up. Did it work? What was hard?",
+     "kid": "Count up the tally marks. Is it less than on the first day?",
      "ask": [
       {
        "q": "Should we keep doing it? Why?",
@@ -1701,14 +1701,14 @@
     "Hang a small cloth over one side for shade.",
     "Keep a second saucer for washing and swapping, so one is always clean."
    ],
-   "your_turn": "Now design your own bird water station. Draw it, build it with a grown-up, and keep a tally of the birds that visit for one week.",
+   "your_turn": "Now design your own bird water station. Plan it with the materials or a sketch, build it with a grown-up, and keep a tally of the birds that visit for one week.",
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "Talk about the problem. Draw two ideas.",
-     "say": "Birds need water in summer, but a bowl can fall, get hot, or grow mosquitoes. What could we build? Let's draw two ideas.",
-     "kid": "Draw two ideas for a bird water bowl. It must be safe, cool and easy to clean.",
+     "do": "Talk about the problem. Show two ideas with the materials, or draw them.",
+     "say": "Birds need water in summer, but a bowl can fall, get hot, or grow mosquitoes. What could we build? Let's show two ideas.",
+     "kid": "Show two ideas for a bird water bowl, by arranging the materials or drawing. It must be safe, cool and easy to clean.",
      "context": "This is a design challenge: make a water station for birds on a hot balcony."
     },
     {
@@ -1789,7 +1789,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Draw and build a catcher. Try it after the next meal.",
+     "do": "Plan and build a catcher. Try it after the next meal.",
      "say": "What could catch the rice but let the water through? What could catch the oil?",
      "kid": "Make a catcher. Try it after the next meal.",
      "parent": "A steel tea strainer over the sink hole catches most bits. Oil needs to be wiped off before washing, because a strainer lets it through."

@@ -565,10 +565,10 @@
      "mins": 10,
      "do": "Play the game. Each time someone puts out a fire, ask which side they took away.",
      "say": "You put a lid on my fire. Which side did that take away?",
-     "kid": "Which side did your card take away?",
+     "kid": "Say which side your card took away.",
      "check": {
       "t": "mcq",
-      "q": "A player's fire is made of the oil FUEL card, a breeze and a match. Which card should you NOT use to put it out?",
+      "q": "A fire is burning in oil. Which card should you NOT use to put it out?",
       "options": [
        "LID",
        "WATER",
@@ -717,9 +717,9 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "Finish and count the points.",
+     "do": "Finish the game.",
      "say": "Pick one SPARK card. Which two of fuel, oxygen and heat were together on it? What would make it safe?",
-     "kid": "Pick one SPARK card. Which two of fuel, oxygen and heat were together on it? What would make it safe?",
+     "kid": "Pick one SPARK card and tell why.",
      "parent": "Use the answer on the back of the card. For example, on the paper lantern card, the paper is the fuel and the diya's flame is the heat, and moving the lantern away would make it safe."
     }
    ],
@@ -787,14 +787,14 @@
      "what": "Guess, then try to light a lump of wax, a wick and candle smoke. Measure how far the flame can jump down the smoke."
     }
    ],
-   "record": "Fill in the table. Then draw the candle, the smoke and the match, with an arrow showing which way the flame travelled.",
+   "record": "Fill in the table. Then draw the candle, the smoke and the match, with an arrow showing which way the flame travelled. Or tell your grown-up which way the flame travelled.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Break a piece about 3 cm long off the bottom of one candle. 2. Pull out its wick, so you have a lump of plain wax. 3. Stand the other candle on the steel plate, fixed with a few drops of melted wax. 4. Tape the marked card to the tumbler and stand it just behind the candle.",
      "say": "We are going to find out what really burns in a candle. Here is a lump of wax with no wick, and here is a whole candle. What do you think a candle burns?",
-     "kid": "Look at the lump of wax and the candle. What do you think burns in a candle?",
+     "kid": "Look at the lump of wax and the candle. Find the wick.",
      "adult": true,
      "parent": "The bottom of the card should be level with the top of the wick, so the lines show 2, 5 and 8 cm above it. Let the child do the breaking and taping. You do any step with a flame.",
      "context": "This is the first step of The Jumping Flame. You set up a candle and a lump of wax, to test what a candle really burns."
@@ -804,7 +804,7 @@
      "mins": 4,
      "do": "Ask your child to guess, for each of the three things, whether it will catch fire. Write each guess and reason in the table.",
      "say": "Here are the three things we will try to light: a lump of wax, a candle wick, and the white smoke that rises when a candle is blown out. Which will catch fire? Why do you think so?",
-     "kid": "Guess for each one. Will it catch fire? Why do you think so?",
+     "kid": "Guess for each one. Will it catch fire?",
      "ask": [
       {
        "q": "Why do you think the lump of wax will or will not burn?",
@@ -859,7 +859,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three things: what they think burns in a candle, what they saw, and why they think it happened.",
      "say": "Now tell me three things. What do you think burns in a candle? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things: what you think burns in a candle, what you saw, and why you think it happened.",
+     "kid": "Tell your grown-up what you think burns, what you saw, and why it happened.",
      "parent": "This is claim, evidence and reasoning. A strong answer sounds like this. What I think: the wax burns, but only after it turns into a gas. What I saw: the lump of wax only melted, but the flame lit the smoke from 2 cm and 5 cm above the wick and ran down to it. Why: the white smoke has wax gas in it. The flame's heat turns melted wax into gas, and the gas burns.",
      "check": {
       "t": "mcq",
@@ -874,7 +874,7 @@
      }
     }
    ],
-   "context": "In this experiment you find out what really burns in a candle. You try to light a lump of wax, a wick, and the smoke from a candle that has just gone out.",
+   "context": "In this experiment you find out what really burns in a candle, and why a candle needs a wick. You try to light a lump of wax, a wick, and the smoke from a candle that has just gone out.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -989,14 +989,14 @@
      "what": "Guess, then hold a fine mesh and a spoon with big holes over a candle flame. See which one stops the flame."
     }
    ],
-   "record": "Draw the flame under the fine mesh and under the big holes, as you saw them from the side.",
+   "record": "Draw the flame under the fine mesh and under the big holes, as you saw them from the side. Or tell your grown-up where the flame was each time.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Light the candle and let it burn steadily for a minute. 2. Show your child the tea strainer and the slotted spoon. 3. Ask for a guess and a reason for each.",
      "say": "This mesh has holes much finer than a grain of rice. The spoon has big holes. When I hold each one in the flame, will the flame come through?",
-     "kid": "Look at the fine mesh and the big holes. Will the flame come through? Why?",
+     "kid": "Look at the fine mesh and the big holes. Which one has the smaller holes?",
      "adult": true,
      "parent": "Most children say the flame will come through both, because there are holes. Some say the fine mesh will stop it, like a net. Write down every guess.",
      "context": "This is the start of the Tea Strainer Test. You find out whether a metal mesh can stop a flame."
@@ -1024,7 +1024,7 @@
      "mins": 5,
      "do": "Talk about the results. Then read the explanation card 'Davy's lamp: cooling stops a flame'.",
      "say": "The fine mesh stopped the flame, but gas and smoke still went through. What do you think the metal did to the flame?",
-     "kid": "The fine mesh stopped the flame. What did the metal do?",
+     "kid": "The metal wires touch the hot flame. Think about what they do to its heat.",
      "parent": "Steel carries heat away. Each fine wire touches the flame and takes heat from it, so the gas that gets through is too cool to burn. Big holes have less metal close to the gas, so the flame can get through. This is how Humphry Davy's safety lamp kept miners safe in 1815.",
      "check": {
       "t": "mcq",
@@ -1039,7 +1039,7 @@
      }
     }
    ],
-   "context": "In this experiment you hold a fine steel mesh and a spoon with big holes over a candle flame, to see whether metal can stop a flame.",
+   "context": "In this experiment you hold a fine steel mesh and a spoon with big holes over a candle flame. You will find out why miners' lamps were made with metal mesh.",
    "setup": [
     {
      "art": "A grown-up holding an old steel tea strainer flat over a candle flame with a folded cloth, the flame flattened under the mesh and smoke rising above it.",
@@ -1110,14 +1110,14 @@
      "what": "Measure two wicks. Light one dry and one in oil, and time how long each burns."
     }
    ],
-   "record": "Fill in the table. Draw both wicks before and after, side by side.",
+   "record": "Fill in the table, with the length of both wicks before and after.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Measure both wicks with the ruler and write the lengths. 2. Put one dry wick in an empty diya, with its tip over the edge. 3. Half fill the other diya with oil. 4. Lay the second wick in it, with its tip over the edge. 5. Wait 5 minutes for the oil to soak up the wick.",
      "say": "Both wicks are the same. One is dry, and one is lying in oil. Which will burn longer? Will either wick get shorter?",
-     "kid": "Measure both wicks. One is dry. One lies in oil. Which burns longer? Why?",
+     "kid": "Measure both wicks with the ruler. Tell your grown-up how long each one is.",
      "parent": "Write down your child's guess and reason. Many children guess the dry wick will burn longer, because it is not wet.",
      "context": "This is the start of Dry Wick or Oiled Wick? You test whether the oil or the cotton is the fuel in a diya."
     },
@@ -1144,7 +1144,7 @@
      "mins": 3,
      "do": "Ask your child to say what they think, what they saw and why.",
      "say": "What do you think was the fuel in the diya? What did you see? Why did the cotton last so much longer in oil?",
-     "kid": "What was the fuel in the diya? What did you see? Why did the wick in oil last longer?",
+     "kid": "Tell your grown-up what you saw, and why the wick in oil lasted longer.",
      "parent": "A strong answer: the oil is the fuel. The dry wick burned out in a minute or two, but the oiled wick burned for 10 minutes and hardly got shorter. The oil climbs the wick, turns into gas at the tip and burns. The soaked cotton stays cool enough not to burn itself.",
      "check": {
       "t": "mcq",
@@ -1159,7 +1159,7 @@
      }
     }
    ],
-   "context": "In this experiment you light a dry wick and a wick in oil, and time how long each one burns.",
+   "context": "In this experiment you light a dry wick and a wick in oil, and time how long each one burns. You will find out whether the oil or the wick is what really burns in a diya.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1229,14 +1229,14 @@
      "what": "Look closely at a candle flame and draw it. Ask questions about what you see."
     }
    ],
-   "record": "Draw the flame with its colours. Write two things you noticed and one thing you wonder.",
+   "record": "Write two things you noticed and one thing you wonder. Draw the flame if you like.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Light the candle on the steel plate. 2. Sit an arm's length away with your child. 3. Watch quietly for one minute. 4. Then ask what they notice.",
      "say": "Let's just look at this flame for a minute, without talking. What colours can you see? What shape is it? Is anything moving?",
-     "kid": "Look at the flame for one minute. What colours do you see? What is moving?",
+     "kid": "Look at the flame for one minute. Do not talk.",
      "adult": true,
      "ask": [
       {
@@ -1255,14 +1255,14 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Ask your child to draw the flame with its colours. 2. Ask for one 'I wonder' question and write it at the top of the page.",
-     "say": "Draw the flame as carefully as you can. Then tell me one thing you wonder about it. We will try to answer it in this unit.",
-     "kid": "Draw the flame and its colours. What do you wonder about it?",
+     "do": "1. Ask your child to tell you what the flame looks like, or to draw it. 2. Ask for one 'I wonder' question and write it at the top of the page.",
+     "say": "Tell me what the flame looked like, or draw it as carefully as you can. Then tell me one thing you wonder about it. We will try to answer it in this unit.",
+     "kid": "Tell your grown-up what the flame looks like, or draw it. What do you wonder about it?",
      "parent": "Questions children often ask: what is burning, the wax or the string? Why is it blue at the bottom? Why does it point up? Where does the wax go? Keep the question, and come back to it after The Jumping Flame. The answer is that the wax melts, turns into gas and burns. The burning gas becomes carbon dioxide and water vapour, which go into the air, and that is why the candle gets shorter.",
      "think": "The candle gets shorter as it burns. Where does the wax go?"
     }
    ],
-   "context": "This is a quick starting activity. You look closely at a candle flame and write down what you wonder.",
+   "context": "This is a quick starting activity. You look closely at a candle flame and write down what you wonder. You will end with a question about fire that this unit helps answer.",
    "setup": [
     {
      "art": "A child and a grown-up sitting an arm's length from a lit candle on a steel plate, watching it.",
@@ -1270,7 +1270,7 @@
     },
     {
      "art": "A child's drawing of a candle flame with a blue base, a yellow middle and a dark wick, and 'I wonder…' written at the top.",
-     "caption": "2. Draw it and write what you wonder."
+     "caption": "2. Tell it or draw it, and write what you wonder."
     }
    ]
   },
@@ -1346,7 +1346,7 @@
      }
     }
    ],
-   "context": "This is a walk round your home to find where fire, fuel and ways out are, and to learn the rule for each.",
+   "context": "This is a walk round your home to find where fire, fuel and ways out are, and to learn the rule for each. You will make a list your family can use in an emergency.",
    "setup": [
     {
      "art": "A child and a grown-up in a kitchen looking at a gas cylinder and its regulator knob.",
@@ -1376,7 +1376,7 @@
      "what": "Practise what to do if your clothes catch fire, and how to get out of a smoky room."
     }
    ],
-   "record": "Draw yourself doing the three moves: stop, drop and roll.",
+   "record": "Do the three moves once more from memory. Then tell your grown-up the order: stop, drop and roll.",
    "flow": [
     {
      "id": "s1",
@@ -1406,7 +1406,7 @@
      }
     }
    ],
-   "context": "This activity practises two life-saving moves: stop, drop and roll, and crawling low under smoke.",
+   "context": "This activity practises two life-saving moves: stop, drop and roll, and crawling low under smoke. You will learn what to do if clothes catch fire or a room fills with smoke.",
    "setup": [
     {
      "art": "A child lying on a mat, rolling over, with both hands covering their face.",
@@ -1583,7 +1583,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Draw a big triangle. 2. Write fuel, oxygen and heat on its sides. 3. Read each card. 4. Your child puts it by the side it takes away.",
+     "do": "1. Lay the sheet with the fire triangle on the table. 2. Check that fuel, oxygen and heat are written on its sides. 3. Read each card aloud. 4. Your child puts it by the side it takes away.",
      "say": "Each card is a way of putting out a fire. Which side of the triangle does it take away? The fuel, the oxygen or the heat?",
      "kid": "Read each card. Does it take away fuel, oxygen or heat?",
      "parent": "Answers: lid, sand, rolling, fire blanket and wet cloth take away oxygen. Turning off the gas, clearing dry grass and letting the diya run out take away the fuel. Water on paper takes away heat. Some take away two, such as water, which also keeps air off a little. A good sorter gives a reason.",
@@ -1594,7 +1594,7 @@
      "mins": 4,
      "do": "Talk about the cards that were hard to sort.",
      "say": "Which card was hardest? Could it go in two places?",
-     "kid": "Which card was hardest? Could it go in two places?",
+     "kid": "Pick the card that was hardest to sort.",
      "check": {
       "t": "mcq",
       "q": "A kadai of oil catches fire, and a grown-up puts a lid on it. Which side of the fire triangle does the lid take away?",
@@ -1612,7 +1612,7 @@
    "setup": [
     {
      "art": "A big triangle drawn on paper with fuel, oxygen and heat on its sides, and small cards being placed around it.",
-     "caption": "1. Draw the fire triangle."
+     "caption": "1. Lay out the fire triangle."
     },
     {
      "art": "Cards showing a lid on a kadai, a gas regulator and water on paper, each placed next to a side of the triangle.",
@@ -1659,7 +1659,7 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Draw a map of your home from above, room by room. 2. Mark two ways out with green arrows. 3. Choose a meeting place outside, such as the building gate or a tree. 4. Write 101 and 112 in big numbers. 5. Add three rules: crawl low, stop drop and roll, never use the lift.",
+     "do": "1. Draw a map of your home from above, room by room. If you do not like drawing, cut paper rooms and stick them down. 2. Mark two ways out with green arrows. 3. Choose a meeting place outside, such as the building gate or a tree. 4. Write 101 and 112 in big numbers. 5. Add three rules: crawl low, stop drop and roll, never use the lift.",
      "say": "Fire services ask every family to have a plan. Let's draw ours. Where are our two ways out? Where shall we all meet outside?",
      "kid": "Draw your home. Mark two ways out. Choose a meeting place outside.",
      "parent": "A meeting place matters because in a fire, people must know who is already safe, so no one goes back inside to look for them.",
@@ -1685,7 +1685,7 @@
      }
     }
    ],
-   "context": "In this 2-day project you draw your family's fire plan and practise it.",
+   "context": "In this 2-day project you make a plan so everyone in your family knows the way out of a fire. Then you practise it.",
    "setup": [
     {
      "art": "A child's poster map of a flat with green arrows to two doors, a tree marked 'meet here', and 101 and 112 in big numbers.",
@@ -1724,15 +1724,15 @@
     "Make a ring of foil with small holes near the bottom, so air comes in low and slowly.",
     "Put the diya inside a clay pot lying on its side, like a little cave, with the opening away from the wind."
    ],
-   "your_turn": "Now design your own windproof diya. Draw it, build it with a grown-up, and test it in front of the fan.",
+   "your_turn": "Now design your own windproof diya. Tell your idea or sketch it, build it with a grown-up, and test it in front of the fan.",
    "mins": 30,
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem together and draw two ideas.",
+     "do": "Read the problem together. Ask your child to tell or sketch two ideas.",
      "say": "The diya needs a fresh supply of air, but not a strong wind. How can we keep the wind off but let air in?",
-     "kid": "Keep the wind off the flame. But the flame still needs air. Draw two ideas.",
+     "kid": "Keep the wind off the flame. But the flame still needs air. Tell or sketch two ideas.",
      "context": "This is an engineering challenge. You design a shield that keeps a diya burning in the wind."
     },
     {
@@ -1802,9 +1802,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Draw the courtyard from above. 2. Mark where the lamps and the crackers will go. 3. Mark where the water and sand buckets will be.",
+     "do": "1. Draw the courtyard from above, or lay it out with small things like cups and spoons. 2. Mark where the lamps and the crackers will go. 3. Mark where the water and sand buckets will be.",
      "say": "Where should the crackers be lit? Where are the lamps? What do we keep ready in case something catches fire?",
-     "kid": "Draw the courtyard. Where do lamps and crackers go? Where is the water?",
+     "kid": "Show the courtyard from above. Put the lamps, crackers and water buckets in place.",
      "context": "This is a planning challenge. You design a fire-safe Deepavali for your building."
     },
     {
@@ -1812,7 +1812,7 @@
      "mins": 10,
      "do": "1. Write five rules on the poster. 2. For three of them, write which side of the fire triangle the rule controls.",
      "say": "Why sand as well as water? Which side of the triangle does sand take away?",
-     "kid": "Write five rules. Which side of the triangle does each one control?",
+     "kid": "Write five rules. Pick three and say which side of the triangle each one controls.",
      "parent": "Sand smothers a fire by keeping the air away. It also works on burning oil, where water must not be used."
     },
     {

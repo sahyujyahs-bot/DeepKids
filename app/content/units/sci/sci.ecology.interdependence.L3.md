@@ -215,10 +215,10 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 24 cards. 2. Shuffle them. 3. Lay them face down in 4 rows of 6.  
   *Parent says:* Every card has a partner. A partner is someone who helps you, while you help them. Let's find them all.  
-  *Child mode:* Mix up the cards. Lay them face down in 4 rows of 6. Every card has a partner.
+  *Child mode:* Mix up the cards. Lay them face down in 4 rows of 6.
 - **s2 (9 min)**  
   *Parent does:* Take turns turning over 2 cards. For a pair, the player says how each one helps the other.  
-  *Parent says:* You found the cow and the grass. How does the cow help the grass?  
+  *Parent says:* Say you find the cow and the grass. Then you say how the cow helps the grass.  
   *Child mode:* Turn over 2 cards. Partners? Say how each one helps the other. Then keep them!
   - Check: How does a fruit bat help a kapok tree? → **The bat drinks nectar at night and carries pollen to other kapok flowers**
 - **s3 (3 min)**  
@@ -233,13 +233,13 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 - **predict:** Guess first. One box will have 10 washed seeds on tissue wet with water. The other will have 10 seeds on tissue wet with tomato juice. How many seeds in each box will sprout in a week? Why do you think so?
 - **fair test:** Use seeds from the same tomato, 10 in each box. Use the same tissue and the same amount of liquid, and keep the two boxes side by side in the same warm place. Only one thing differs: in Box W the seeds are washed and wet with water, and in Box J the seeds stay in their jelly and are wet with tomato juice. We use 10 seeds in each box, not 1, because any one seed might not sprout anyway.
 - **safety:** A grown-up cuts the tomato. Wash your hands after touching the seeds and the juice. White or grey fuzz in the juice box is mould. Don't put your nose close to the box, and throw the tissue away in a closed bag when the test ends.
-- **record:** Fill in the table every day. On day 8, draw one seed from each box, as big as you can, with her root if she has one.
+- **record:** Fill in the table every day. On day 8, take a photo of each box, or draw one seed from each box with her root if she has one.
 - **results table:** Day | Box W (water): seeds sprouted | Box J (juice): seeds sprouted | What I noticed
 - **schedule:** day 1: Cut the tomato. Wash 10 seeds. Set up Box W with water and Box J with juice. Guess what will happen. (22 min); day 2: Look in both boxes. Add a teaspoon of liquid if the tissue is drying. Count the sprouted seeds. (2 min); day 3: Look in both boxes. Add a teaspoon of liquid if the tissue is drying. Count the sprouted seeds. (2 min); day 4: Look in both boxes. Add a teaspoon of liquid if the tissue is drying. Count the sprouted seeds. (2 min); day 5: Look in both boxes. Add a teaspoon of liquid if the tissue is drying. Count the sprouted seeds. Use the magnifying glass on any tiny roots. (3 min); day 6: Look in both boxes. Add a teaspoon of liquid if the tissue is drying. Count the sprouted seeds. (2 min); day 7: Look in both boxes. Add a teaspoon of liquid if the tissue is drying. Count the sprouted seeds. Compare the two boxes. (3 min); day 8: Count for the last time. Say what you think, what you saw and why. Keep Box J for the Waiting or Dead experiment. (10 min)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Cut the tomato across the middle. 2. Show your child the seeds sitting in the green jelly. 3. Scoop the seeds and jelly from both halves into the bowl with a spoon.  
   *Parent says:* Look at the seeds in the jelly. Inside a tomato it is warm and wet. Seeds sprout when they are warm and wet. So why don't these seeds sprout inside the tomato?  
-  *Child mode:* Look at the seeds in the jelly. It is warm and wet in there. Seeds like warm and wet. So why don't they sprout?
+  *Child mode:* Look at the seeds in the jelly. It is warm and wet in there, but they have not sprouted.
   - Ask: What do you think stops them sprouting? (good: The jelly or the juice.; It is dark inside.; They need soil.; They are not ready yet.)
   - Note: Take every guess seriously and don't give the answer. Darkness is a good guess, but tomato seeds can sprout in the dark. Keep the guesses for the end of the test.
 - **s2 (4 min)**  
@@ -255,7 +255,7 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 - **s4 (8 min)**  
   *Parent does:* 1. Fold tissue into 4 layers in each box. 2. Label one box W, for water, and the other J, for juice. 3. Box W: wet the tissue with 2 teaspoons of water. Lay the 10 washed seeds on it, a little apart. 4. Box J: wet the tissue with 2 teaspoons of tomato juice. Lay 10 seeds from the bowl on it, still in their jelly. 5. Close both lids. Put the boxes side by side in a warm place out of direct sun, such as the top of the fridge.  
   *Parent says:* Both boxes get seeds from the same tomato, the same tissue and the same amount of liquid. Only one thing is different: Box J seeds keep their jelly and juice, and Box W seeds are washed and given water. Now guess. How many will sprout in each box, and why?  
-  *Child mode:* Fold the tissue in both boxes. Wet Box W with water. Wet Box J with juice. Put 10 seeds in each. Close the lids. How many will sprout? Why?
+  *Child mode:* Fold the tissue in both boxes. Wet Box W with water. Wet Box J with juice. Put 10 seeds in each. Close the lids.
   - Ask: How many seeds do you think will sprout in Box W, and how many in Box J? Why? (good: Both the same, because both are wet.; More in Box W, because the juice stops them.; More in Box J, because the juice is food.)
   - Note: Write the guesses at the top of the table. 'More in Box J, because the juice is food' is a sensible guess, so let the test answer it. Seeds don't need light to sprout, so the boxes can stay closed.
 - **s5 (2 min)**  
@@ -291,7 +291,7 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 - **s2 (6 min)**  
   *Parent does:* 1. Fold fresh tissue into 4 layers in the clean box. 2. Wet it with 2 teaspoons of water. 3. Lay the washed seeds on it. 4. Close the lid and put the box in the same warm place as before.  
   *Parent says:* Now these seeds have water and no juice, just like Box W had. What do you think will happen? Why?  
-  *Child mode:* Put the seeds on wet tissue. Close the lid. Will they sprout now? Why do you think so?
+  *Child mode:* Put the seeds on wet tissue. Close the lid.
   - Ask: Will the seeds sprout now? Why? (good: Yes, because the juice is gone.; No, because they are dead.; Some of them, because some may have been spoiled.)
 - **s3 (2 min)**  
   *Parent does:* Each day, count the seeds with a tiny white root. Add a teaspoon of water if the tissue is drying.  
@@ -301,19 +301,19 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 - **s4 (5 min)**  
   *Parent does:* On the last day, count the sprouted seeds. Compare the number with Box W in the Juice Test.  
   *Parent says:* What happened once the juice was gone?  
-  *Child mode:* Count the roots. What happened once the juice was gone?
+  *Child mode:* Count the roots. Did the seeds sprout?
   - Note: Often most of the seeds sprout within a few days. If mould had spread over them, fewer will. A good answer sounds like this. What I think: the juice held the seeds back. What I saw: they sprouted once they were washed. Why: they were waiting, not dead.
   - Check: Seeds that sat in tomato juice for a week sprouted 3 days after they were washed. What does this show? → **The juice was holding them back, and they sprouted once it was gone**
 ### e3 · Ripe or Green: which banana do fruit flies find? (26 min, 2 days)
 - **question:** Do small animals find a ripe fruit more than a green one?
 - **predict:** Guess first. You will leave a piece of ripe banana and a piece of green banana side by side. Which will get more fruit flies after a day? Why do you think so?
 - **fair test:** Use pieces of the same size, on the same kind of plate, side by side in the same place. Count both plates at the same times. Only the ripeness is different.
-- **record:** Fill in the table each time you count. Draw the two plates and the visitors.
+- **record:** Fill in the table each time you count. Take a photo of the two plates each time, or draw them and the visitors.
 - **results table:** Time | Ripe banana: fruit flies | Green banana: fruit flies | Other visitors (ants, flies)
 - **schedule:** day 1: Cut two pieces the same size. Put them side by side. Guess. Count visitors in the evening. (9 min); day 2: Count visitors in the morning and at midday. Compare. Say what you think, what you saw and why. (17 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Cut a piece about 3 centimetres long from each banana, peel and all. 2. Put each piece on its own plate. 3. Set the plates side by side, about a hand-width apart, on the window sill or balcony.  
-  *Parent says:* Smell the two pieces. Which one smells stronger? Which one do you think small animals will find first, and why?  
+  *Parent says:* Smell the two pieces. Small animals find food by its smell.  
   *Child mode:* Cut a piece of each banana. Put them on two plates, side by side. Smell them. Which smells stronger?
   - Ask: Which piece will get more visitors? Why? (good: The ripe one, because it smells stronger.; The ripe one, because it is sweeter.; Both the same, because both are banana.)
 - **s2 (3 min)**  
@@ -336,7 +336,7 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 ## Activities
 ### a1 · The Fruit Bowl Question: where would these seeds go? (10 min)
 - **safety:** A grown-up cuts the fruits. After touching a chilli, wash your hands and don't rub your eyes.
-- **record:** Write each fruit in one of the two columns, with a drawing of her seeds.
+- **record:** Write each fruit in one of the two columns. Put a few of its seeds next to its name.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut each fruit open. 2. Look at the seeds with your child. 3. Feel how big and how hard they are.  
   *Parent says:* Every one of these fruits grew on a plant, to hold her seeds. Look at the seeds. Are they tiny or big? Soft or hard?  
@@ -350,14 +350,14 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 - **s3 (2 min)**  
   *Parent does:* End by asking your child why seeds don't sprout inside the fruit.  
   *Parent says:* So the plant grows sweet fruit, and animals carry the seeds away. But why don't the seeds just sprout inside the fruit? We will test it in the Juice Test.  
-  *Child mode:* Plants grow sweet fruit. Animals carry the seeds away. But why don't the seeds sprout inside the fruit?
+  *Child mode:* Why don't the seeds sprout inside the fruit? Tell your grown-up your guess.
   - Note: Any guess with a reason is welcome. Write the guess down and keep it for the Juice Test, which answers this question.
   - Think: What might be in the fruit that keeps the seeds waiting?
 ### a2 · Cup and Card: move a small creature without harming them (10 min)
 - **safety:** A grown-up does this for anything that might sting or bite, such as bees, wasps, scorpions, centipedes and big spiders. Never pick up a creature with your fingers.
-- **record:** Draw the creature you moved and where you set them free.
+- **record:** Tell your grown-up where you set the creature free and how it moved. Draw it too, if you like.
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw and cut out a small paper beetle. 2. Put it on the floor. 3. Show your child: put the cup over it, slide the card under slowly, then lift cup and card together.  
+  *Parent does:* 1. Cut a small beetle shape from paper, or use a bottle cap. 2. Put it on the floor. 3. Show your child: put the cup over it, slide the card under slowly, then lift cup and card together.  
   *Parent says:* This is how to catch a small creature without touching them. Put the cup over them, slide the card under, and lift both together.  
   *Child mode:* Put the cup over the paper beetle. Slide the card under, slowly. Lift both together.
   - Note: Slide the card slowly, so a real creature can step onto it rather than being squashed.
@@ -369,11 +369,11 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 - **s3 (2 min)**  
   *Parent does:* Talk about what the creature you moved does for other living things.  
   *Parent says:* Spiders eat mosquitoes. Ants carry away crumbs and dead insects. What might this little creature do for the other living things around them?  
-  *Child mode:* Spiders eat mosquitoes. Ants clear away crumbs. What might your creature do for others?
+  *Child mode:* Think of one thing your creature might do for other living things.
   - Note: Many creatures need her. Spiders eat mosquitoes and flies. Ants clear away crumbs and dead insects. Lizards and birds eat beetles and moths. Accept any answer that says who eats the creature or what the creature does for others.
   - Think: Who might need the creature you just set free?
 ### a3 · A Rice-flour Kolam for Small Guests (16 min)
-- **record:** Draw your kolam. At midday and in the evening, draw what was left of it, and the visitors you saw.
+- **record:** At midday and in the evening, take a photo of your kolam, or tell your grown-up what is left of it and who came.
 - **s1 (8 min)**  
   *Parent does:* 1. Make a grid of 5 by 5 dots with pinches of rice flour. 2. Join the dots with lines of flour, letting it fall from between your thumb and finger. 3. A simple flower or star shape is fine.  
   *Parent says:* Many families draw the morning kolam with rice flour, not with chalk powder. Some say it is so that ants and birds have something to eat. Let's see who comes.  
@@ -387,11 +387,11 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 - **s3 (4 min)**  
   *Parent does:* In the evening, look again and talk about what you found.  
   *Parent says:* Who ate from our kolam today? What did they get, and what did we get?  
-  *Child mode:* Look at the kolam again. Who came to eat? What is left?
+  *Child mode:* Look at the kolam again. What is left of it?
   - Ask: Who came to the kolam, and what did they get from it? (good: Ants came and carried away bits of flour.; A sparrow or a pigeon pecked at the flour.; The wind blew some away, and nobody came.)
   - Note: Ants are the most likely guests. Sparrows, pigeons and mynas sometimes come. If nobody came, that is a result too: talk about why. If ants start walking into the house, wipe the kolam away with a wet cloth.
 ### a4 · Be a Fig Wasp: act out how a fig is pollinated (12 min)
-- **record:** Draw the fig wasp's journey as a comic strip of 4 pictures.
+- **record:** Tell your grown-up the fig wasp's journey in 4 parts: going in, giving pollen, laying eggs, flying out. Draw it, if you like.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Drape the bedsheet over two chairs, leaving only a small gap at one end. 2. Lay the paper flowers inside. 3. Tape 3 yellow pollen dots to your child's sleeve and tie the scarf on as wings.  
   *Parent says:* This tent is a peepal fig. The flowers are all inside, hidden. The only way in is this tiny gap.  
@@ -407,7 +407,7 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
   *Child mode:* Now you are her daughter. Crawl out with new pollen. Fly to a new fig!
   - Note: The mother wasp dies inside the fig. Children sometimes find this sad. You can say that her young grow up in the fig, and her daughters carry on.
 ### a5 · Who Made My Breakfast? A map of helpers near and far (15 min)
-- **record:** Draw the meal in the middle of the page, with arrows to every helper and the place they live.
+- **record:** Write the meal in the middle of the page. Around it, write each helper and the place they live, with a line to the meal.
 - **s1 (6 min)**  
   *Parent does:* 1. Write each food in the meal. 2. Next to each one, write the plant or animal that food came from.  
   *Parent says:* Let's take our breakfast apart. Idli is rice and urad dal. Chutney is coconut. Coffee is a seed. Who grew each one?  
@@ -415,18 +415,18 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 - **s2 (6 min)**  
   *Parent does:* 1. For each plant, think of the helpers they needed: bees for flowers, worms for soil, microbes in the batter, farmers. 2. Read packets, or guess, to find where each grew.  
   *Parent says:* Coconut palms grow in Kerala and along the coast. Coffee grows in the hills of Kodagu and Chikmagalur. Who else helped? The tiny living things in the batter made the idli rise.  
-  *Child mode:* Who helped each plant grow? Bees? Worms? Farmers? Where did each one grow? Draw arrows.
+  *Child mode:* Who helped each plant grow? Where did each one grow? Write the place next to it.
   - Note: Some facts to share. Idli batter rises because the bacteria and yeasts in the batter feed and make gas overnight. Coffee flowers are visited by bees, and more beans form when bees visit. Many of our foods travel hundreds of kilometres to reach us.
 - **s3 (3 min)**  
   *Parent does:* Count the helpers.  
   *Parent says:* How many living things helped make one breakfast? And how far away did the farthest one live?  
-  *Child mode:* Count your helpers. Which one lived farthest away?
+  *Child mode:* Count your helpers.
   - Ask: Which helper lived farthest from you? (good: The coffee plant in the hills.; The tea bushes in Assam.; The farmer who grew our rice.)
 
 ## Projects
 ### p1 · Grow a Tomato Plant and Be Her Bee (79 min, 70 days)
 - **safety:** A grown-up makes any holes in a tin.
-- **record:** A growth diary: the date, the height of the tallest plant, the number of flowers and the number of tomatoes, with a drawing every two weeks. At the end, the tomatoes on the red (tapped) and blue (untapped) clusters.
+- **record:** A growth diary: the date, the height of the tallest plant, the number of flowers and the number of tomatoes, with a photo or drawing every two weeks. At the end, the tomatoes on the red (tapped) and blue (untapped) clusters.
 - **schedule:** day 1: Fill the pot. Plant 3 sprouted seeds just under the soil. Water gently. (15 min); day 14: Keep the strongest 1 or 2 seedlings. Lift the extra seedlings with a spoon into a cup of soil. Measure the tallest. (8 min); day 28: Tie the plant loosely to a stick. Measure and draw. (8 min); day 42: Look for flower buds. Measure and draw. (8 min); day 50: When yellow flowers open, pick two flower clusters of similar size on the same plant. Tie red wool near one and blue wool near the other. Tap the flower stalks of the red cluster only, once a day for a week. (10 min); day 60: Count the flowers that turned into tiny green tomatoes in the red cluster and in the blue cluster, and the ones that fell off. (15 min); day 70: Count and draw the green tomatoes on each cluster. Say what you think, what you saw and why. (15 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* 1. Fill the pot with soil to 2 centimetres below the rim. 2. Make 3 small holes, a finger-width deep. 3. Put one sprouted seed in each, root down. 4. Cover gently and water slowly.  
@@ -434,9 +434,9 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
   *Child mode:* Fill the pot with soil. Make 3 little holes. Put a sprouted seed in each, root down. Cover them. Water gently.
   - Note: Water whenever the top of the soil feels dry, but don't leave the pot standing in water. Tomatoes need a lot of sun. A shady window will give tall, thin plants with few flowers.
 - **s2 (24 min)**  
-  *Parent does:* Every two weeks (days 14, 28 and 42), measure the tallest plant with a ruler and draw her in the diary. On day 14, keep the strongest 1 or 2 seedlings and lift the others into a cup of soil. On day 28, tie the plant loosely to the stick.  
-  *Parent says:* How tall is she now? Let's write it down and draw her.  
-  *Child mode:* Measure your tomato plant. Draw her. Write the height.
+  *Parent does:* Every two weeks (days 14, 28 and 42), measure the tallest plant with a ruler and write the height in the diary. Take a photo, or draw her, if you like. On day 14, keep the strongest 1 or 2 seedlings and lift the others into a cup of soil. On day 28, tie the plant loosely to the stick.  
+  *Parent says:* How tall is she now? Let's measure her and write it down.  
+  *Child mode:* Measure your tomato plant. Write the height.
   - Wait: Come back on days 14, 28 and 42.
 - **s3 (10 min)**  
   *Parent does:* When the yellow flowers open, pick two flower clusters of similar size on the same plant. Tie red wool near one and blue near the other. Tap each flower stalk of the red cluster gently with a finger, once a day, for a week. Never tap the blue one.  
@@ -452,7 +452,7 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
 ## Challenges
 ### c1 · Design a Seed That Hitches a Ride (30 min)
 - **problem:** A plant cannot walk her seeds to a new place. Design a seed that gets a ride on a passing animal. Make it from a dried chana and things from home. A woollen sock on your hand is the animal. The seed must stick to the sock as it brushes past, ride across the room, and then come off.
-- **your turn:** Now design your own riding seed. Draw it, make it, and test it on the sock 3 times. Which design rode the farthest and still came off?
+- **your turn:** Now design your own riding seed. Make it, and test it on the sock 3 times. Which design rode the farthest and still came off?
 - **constraints:** Use a dried chana or a dried pea as the seed inside your design.; Use only things from home.; The seed must stay on the sock while the sock walks 5 steps across the room.; Then it must come off with one brush of the hand.
 - **general:** Hooks: tiny hooks catch on fur and wool. The nayuruvi plant's seeds catch on clothes this way.; Sticky coats: some seeds are wrapped in sticky flesh that clings to a bird's beak or feet.; Food: a seed wrapped in tasty flesh is carried inside an animal, like a guava seed.
 - **creative:** Bend short pieces of a toothpick into hooks and stick them into a ball of atta dough around the chana.; Wrap the chana in a scrap of hook-side velcro from an old bag or shoe.; Tie a short loop of thread around the chana, so it snags on wool like a fish hook.
@@ -463,8 +463,8 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
   - Note: You may know seeds that do this. Spiky nayuruvi seeds catch on clothes and socks after a walk in a field.
 - **s2 (15 min)**  
   *Parent does:* Build 2 or 3 designs with the materials.  
-  *Parent says:* Try hooks, try something sticky, try a loop. Which do you think will work best? Why?  
-  *Child mode:* Build 2 or 3 riding seeds. Try hooks. Try something sticky. Try a loop.
+  *Parent says:* Try hooks, try something sticky, try a loop.  
+  *Child mode:* Build 2 or 3 riding seeds from the chana and the things you have.
   - Ask: Which design do you think will ride best? Why? (good: The hooks, because they catch on wool.; The sticky one, because it holds on.; The loop, because it snags.)
 - **s3 (7 min)**  
   *Parent does:* Test each design 3 times. Brush the sock past it. Walk your sock hand 5 steps across the floor. Then brush the seed off.  
@@ -473,9 +473,9 @@ Meenakshi thought of the tiny wasps, somewhere in the city, flying from fig to f
   - Note: Some designs will not ride at all, and that is a result too. If a chana is too heavy for every design, use a dried pea or a mustard seed.
   - Check: Why does a seed that rides on an animal need to fall off later? → **So it lands somewhere new, away from the parent plant, and can grow there**
 - **s4 (3 min)**  
-  *Parent does:* Choose the best design and draw it.  
+  *Parent does:* Choose the best design. Keep it, or take a photo of it.  
   *Parent says:* Which design worked best? What would you change next time?  
-  *Child mode:* Which seed worked best? Draw it. What would you change?
+  *Child mode:* Show your grown-up your best seed.
 
 ## Worksheets
 ### Who Helps Whom? (core) (core, 15 questions)

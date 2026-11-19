@@ -251,11 +251,11 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Shuffle the job cards and put them face down in one pile. 3. Shuffle the material cards and deal 3 to each player. 4. Put the rest in a second pile.  
   *Parent says:* Every material is looking for a job. You are the boss. For each job, you hire the best material in your hand. But you must say which property gets it the job.  
-  *Child mode:* Each material card is looking for a job. You are the boss! Look at your 3 material cards. Read the properties on each one.
+  *Child mode:* Look at your 3 material cards. Read the properties on each one.
 - **s2 (3 min)**  
   *Parent does:* Play one practice round together with the job card 'the handle of a kadai'.  
-  *Parent says:* Practice round. The job is the handle of a kadai. The kadai gets very hot on the gas. Which material would you hire for the handle?  
-  *Child mode:* Practice job: the handle of a kadai. The pan gets very hot. Which material should hold it?
+  *Parent says:* Practice round. The job is the handle of a kadai. The kadai gets very hot on the gas.  
+  *Child mode:* Practice job: the handle of a kadai. Read the properties on your cards.
   - Ask: Why not copper for the handle? (good: Copper carries heat very well, so the handle would burn your hand.; The heat would travel up into your fingers.)
   - Check: Which material is best for the handle of a hot kadai? → **Wood**
 - **s3 (11 min)**  
@@ -266,7 +266,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s4 (3 min)**  
   *Parent does:* Count the tokens. Then pick one job where two materials both worked, and talk about which you would really choose.  
   *Parent says:* For the window, glass and clear plastic both work. Which would you choose, and why?  
-  *Child mode:* Count your tokens. Who won? Now think of the window job. Glass or clear plastic? Why?
+  *Child mode:* Count your tokens. Who won?
   - Note: Often several materials work. Cost, weight, safety, how long it lasts and what happens to it afterwards also help you choose.
   - Think: Is there ever only one right material for a job? What else besides the property helps you choose?
 ### g2 · The Silly Shop (20 min)
@@ -276,11 +276,11 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s1 (2 min)**  
   *Parent does:* 1. Choose a shopkeeper. 2. Put the silly product cards face down. 3. Give each customer a complaint slip.  
   *Parent says:* Welcome to the Silly Shop! Everything here is made of the wrong material. The shopkeeper will try to sell it to you. Your job is to find out what will go wrong.  
-  *Child mode:* Welcome to the Silly Shop! Everything here is made of the wrong material. Can you find the problem before you buy?
+  *Child mode:* You are the customer. Find the problem before you buy.
 - **s2 (3 min)**  
   *Parent does:* The grown-up plays shopkeeper first, selling the chocolate kadai card to show how the game works. Then shuffle that card back into the pile.  
   *Parent says:* Come, come! Buy my beautiful chocolate kadai! So shiny, so brown, and it smells delicious. Perfect for frying medu vadas!  
-  *Child mode:* Listen to the shopkeeper. Would you buy a chocolate kadai? What would happen on the gas?
+  *Child mode:* Listen to the shopkeeper. Think about a kadai on the gas.
   - Check: What is the real problem with a chocolate kadai? → **Chocolate melts when it gets warm**
 - **s3 (11 min)**  
   *Parent does:* 1. Take turns being shopkeeper. 2. Each shopkeeper sells one silly product with lots of acting. 3. Customers fill in a complaint slip or say their answers aloud. 4. Play 8 cards.  
@@ -290,7 +290,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s4 (4 min)**  
   *Parent does:* Together, invent one new silly product for the shop. Then turn it into a sensible one.  
   *Parent says:* Let's invent our own silly product. Now fix it. What would you change?  
-  *Child mode:* Invent your own silly product for the shop. Draw it. Then draw the sensible one next to it.
+  *Child mode:* Invent your own silly product for the shop. Act it out, or draw it. Then say what to change to make it sensible.
   - Think: Was every silly product useless? Could a 'wrong' material be right for a different job? Think of a rubber knife used in a play.
 
 ## Experiments
@@ -317,9 +317,9 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Child mode:* Ask a grown-up to pour the hot water. Stand the spoons in it. Start the timer. Shout when a pea falls! Write down the time.
   - Note: Steel usually wins in 2 to 6 minutes. Plastic and wood both carry heat slowly. Often neither of their blobs melts before 15 minutes. Sometimes one melts late, softened by steam rising from the water. Stop after 15 minutes. At the end the steel top is warm and the wooden top is cool. If even the steel blob has not melted after 8 minutes, the water was not hot enough or the spoon is very thin. Try again with hotter water.
 - **s4 (4 min)**  
-  *Parent does:* Help your child draw a bar chart, one bar for each spoon.  
+  *Parent does:* Help your child show the times as a bar chart, one bar for each spoon. Or they can cut a paper strip as long as each time.  
   *Parent says:* Let's turn our times into a picture. A taller bar means a longer wait.  
-  *Child mode:* Draw one bar for each spoon. Make it as tall as the minutes it took. The spoon with the shortest bar carried heat fastest.
+  *Child mode:* Draw one bar for each spoon, as tall as the minutes it took. Or cut a paper strip for each. The shortest one is the spoon that carried heat fastest.
   - Check: The steel spoon's pea fell first. What does that tell us about steel? → **Steel is a good conductor of heat**
 - **s5 (2 min)**  
   *Parent does:* Look at a kadai, a tawa or a pressure cooker together. Find the metal part and the handle.  
@@ -335,12 +335,12 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **question:** If wool makes heat, an ice cube in a woollen sock should melt fastest. Does it?
 - **predict:** Guess first. Which ice cube will melt first: the one on a bare plate, the one in foil, the one in a steel tumbler, or the one in a woollen sock? Which will last longest? Why do you think so?
 - **fair test:** Use ice cubes from the same tray, so they are the same size. Put them all in the same room, out of the sun, at the same time. Check them all at the same times. Change only the wrapping.
-- **record:** Fill in the table. Draw a bar for each wrapping, as tall as the minutes its ice lasted.
+- **record:** Fill in the table. Then put the saucers in order, longest-lasting ice first.
 - **results table:** Wrapping | Minutes until fully melted | What it looked like after 30 minutes
 - **s1 (3 min)**  
   *Parent does:* 1. Ask your child to put on a sweater or wrap a shawl around their arm. 2. Ask: why does it feel warm? 3. Write down their answer.  
   *Parent says:* Put on your sweater. Does it feel warm? Where does the warmth come from? Is the sweater making heat?  
-  *Child mode:* Put on a sweater. Do you feel warm? Where does that warmth come from? Does the sweater make it?
+  *Child mode:* Put on a sweater. Do you feel warm?
   - Ask: Where does the warmth come from? (good: From my body.; The sweater keeps my own heat in.; Any guess is fine here, if the child gives a reason. The test will check it.)
 - **s2 (5 min)**  
   *Parent does:* 1. Squeeze the dry woollen sock in your fist, then let it go. 2. Put one ice cube on a bare saucer. 3. Wrap one in foil. 4. Put one inside the steel tumbler on a saucer. 5. Push one deep inside the woollen sock and lay it on a saucer. 6. Note the time.  
@@ -353,9 +353,9 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Child mode:* Every 10 minutes, check each ice cube. Peep inside the sock. Which one is melting fastest? Which is still big?
   - Note: Times depend on your room: on a hot day the bare cube may melt in 20 minutes. The order of the four matters more than the minutes. Usually the bare cube melts first and the sock cube lasts much longer, often twice as long. Foil sometimes helps a little, because it is shiny. If you used a towel instead of wool, the result is the same: the towel cube lasts longer, because a thick towel also traps air. The tumbler and foil results are often close to the bare plate and can go either way. The sock is the one that is clearly different.
 - **s4 (4 min)**  
-  *Parent does:* Draw a bar chart of how long each ice cube lasted.  
-  *Parent says:* Let's draw a bar for each wrapping. The tallest bar shows the ice that lasted longest.  
-  *Child mode:* Draw one bar for each wrapping. Make it as tall as the minutes the ice lasted. Which bar is tallest?
+  *Parent does:* Line up the four saucers, from the ice that lasted longest to the one that lasted shortest. Put a paper label with the minutes by each.  
+  *Parent says:* Let's put them in order. The ice that lasted longest goes first.  
+  *Child mode:* Put the saucers in order, longest-lasting ice first. Write its minutes on a paper label by each.
   - Check: The ice cube in the woollen sock lasted longest. Why? → **Wool traps still air, which slows heat from the room reaching the ice**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -367,7 +367,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **question:** Does a clay pot really keep water cooler than a plastic or steel bottle? Why?
 - **predict:** Guess first. After three hours, which will hold the coolest water: the clay pot, the plastic bottle or the steel bottle? Why do you think so?
 - **fair test:** Use the same water, poured from one jug, at the same time. Put the same amount in each. Leave the lids off all of them. Stand them side by side in the same shady, breezy place. Measure them all at the same time with the same thermometer.
-- **record:** Fill in the table. Work out how many degrees each one cooled down. Draw what the outside of the clay pot looked like.
+- **record:** Fill in the table. Work out how many degrees each one cooled down. Take a photo of the outside of the clay pot, or tell your grown-up what it looked like.
 - **results table:** Container | Water temperature at the start (degrees) | Water temperature after 3 hours (degrees) | Did the outside feel damp?
 - **s1 (4 min)**  
   *Parent does:* 1. An hour before, put the clay pot in a bucket or sink of water to soak. 2. Show your child the pot and ask them to feel the outside. 3. Ask why people keep drinking water in clay pots in summer.  
@@ -420,12 +420,12 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s1 (5 min)**  
   *Parent does:* 1. Line up all the spoons. 2. Ask your child what all of them have in common. 3. Then ask what is different about each.  
   *Parent says:* All of these are spoons. They all do the same job. So why are they made of so many materials?  
-  *Child mode:* Line up the spoons. They all do the same job. What is the same about them? What is different?
+  *Child mode:* Line up the spoons. Pick them up one by one. What is different about each?
   - Ask: What do all spoons need? (good: To be stiff, so they don't bend.; A bowl shape to hold food.; To be safe to put in your mouth.)
 - **s2 (5 min)**  
   *Parent does:* Do the same with the plates. For each, talk about cost, how long it lasts and what happens when it is thrown away.  
   *Parent says:* Which plate would you use for a wedding feast for 500 people? Which for every day for twenty years?  
-  *Child mode:* Now line up the plates. Which would you use for a big feast? Which for every day? What happens to each one when it is thrown away?
+  *Child mode:* Now line up the plates. Which would you use for a big feast? Which for every day?
   - Note: A banana leaf or areca leaf plate is cheap, waterproof on top and rots away. A steel plate lasts many years. A paper plate is used once and is often coated with plastic, so it may not rot easily.
 - **s3 (5 min)**  
   *Parent does:* Now pick one material, steel, and list every job it does in your home.  
@@ -434,7 +434,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   - Check: Spoons can be made of steel, wood, plastic or coconut shell. What does this show? → **One job can be done by many materials**
 ### a3 · Take It Apart (20 min)
 - **safety:** A grown-up uses the screwdriver. Umbrella ribs can be sharp and springy, so a grown-up holds them.
-- **record:** Draw the object exploded into its parts, like a puzzle pulled apart. Label each part's material and job.
+- **record:** Take a photo of the parts laid out with their labels. Or draw them spread out, like a puzzle pulled apart.
 - **s1 (3 min)**  
   *Parent does:* Choose the old object. Before taking it apart, ask your child to guess how many materials are inside it.  
   *Parent says:* This umbrella looks simple. How many different materials do you think it uses?  
@@ -445,16 +445,16 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   *Child mode:* Ask a grown-up to take it apart. Put each part on the tray. Name each material. Is it metal, plastic, cloth or rubber?
   - Note: An umbrella usually has waterproof nylon or polyester cloth, steel or fibreglass ribs, a steel spring, a plastic or wooden handle and plastic tips. A ballpoint pen has a plastic body, a metal tip with a tiny ball, a plastic ink tube and a steel spring. A torch has a plastic case, a metal spring, a plastic or glass cover and a bulb or LED.
 - **s3 (7 min)**  
-  *Parent does:* For each part, ask: what job does it do, and what property helps? Then draw all the parts spread out, and label each one.  
-  *Parent says:* Why is the rib steel and not plastic? Why is the cloth not cotton?  
-  *Child mode:* For each part, say its job. Why that material? Then draw all the parts spread out, with labels.
+  *Parent does:* For each part, ask: what job does it do, and what property helps? Then lay all the parts out and give each one a paper label.  
+  *Parent says:* Why is the rib steel and not wood? Why is the cloth waterproof?  
+  *Child mode:* Lay the parts out on the tray. For each part, say its job and why that material. Write a paper label with its material and job.
   - Check: An umbrella's ribs are springy steel. Why? → **Steel is strong and springs back after bending, so it holds the cloth open**
 ### a4 · The Lotus Leaf and the Waxed Paper (15 min)
-- **record:** Draw how a water drop looked on each leaf and each paper. Write which one you would use for a paper boat.
+- **record:** Tell your grown-up what the drops did on each leaf and each paper. Draw them if you like. Write which paper you would use for a paper boat.
 - **s1 (5 min)**  
   *Parent does:* 1. Drip a few drops of water on the waxy leaf. 2. Tilt it gently. 3. Do the same on the soft leaf.  
   *Parent says:* Look at the drops. On which leaf do they roll like tiny marbles?  
-  *Child mode:* Drip water on the waxy leaf. Tilt it. Do the drops roll like marbles? Now try the soft leaf.
+  *Child mode:* Drip water on the waxy leaf. Tilt it. Now try the soft leaf.
   - Ask: What do the drops do on the waxy leaf? (good: They make round balls.; They roll off and take the dust with them.)
 - **s2 (6 min)**  
   *Parent does:* 1. Rub the candle hard all over one piece of paper, until it looks a little shiny. 2. Drip water on the waxed paper and on the plain paper.  
@@ -464,7 +464,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s3 (4 min)**  
   *Parent does:* Talk about how people copy the lotus leaf, and how they change materials to suit new jobs.  
   *Parent says:* In 1997, two scientists in Germany explained why lotus leaves stay clean. Now some paints copy them. People also coat paper cups and cloth to make them waterproof.  
-  *Child mode:* Scientists copied the lotus leaf to make self-cleaning paint! People also coat paper and cloth to make them waterproof. Where have you seen this?
+  *Child mode:* Where have you seen a coating that keeps water out?
   - Note: Water soaks into a soft leaf or spreads flat on it, so it cannot roll off. On a waxy leaf, the water stays in round drops that roll away and carry the dust with them.
   - Think: The lotus leaf stays clean because drops roll off and take the dust with them. Why would a soft leaf not clean itself in the same way?
 ### a5 · The Material Orchestra: why are bells made of metal? (15 min)
@@ -478,17 +478,17 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s2 (5 min)**  
   *Parent does:* 1. Tap the steel tumbler and hold it up. Listen to the ring. 2. Tap it again and then press a folded cloth against it. 3. Put the ringing tumbler on a pillow.  
   *Parent says:* The steel keeps ringing. The cloth and the pillow stop it. Soft materials absorb sound. They soak up the shaking, a bit like a towel soaks up water.  
-  *Child mode:* Tap the steel tumbler. Listen to it ring. Now press a cloth on it. The ring stops! Soft things soak up sound.
+  *Child mode:* Tap the steel tumbler. Listen to it ring. Now press a cloth on it. The ring stops! Then stand it on a pillow. Soft things soak up sound.
   - Check: Why are temple bells made of metal, not wood? → **Metal rings for a long time when struck**
 - **s3 (4 min)**  
   *Parent does:* Play a short tune together on the materials that ring. Use the ones that thud as a drum.  
   *Parent says:* Music studios and cinema halls cover their walls with soft materials. Why do you think they do that?  
-  *Child mode:* Play a tune with the ringing things. Use the thuds as a drum! Why do cinema halls have soft walls?
+  *Child mode:* Play a tune with the ringing things. Use the thuds as a drum!
   - Note: Soft cloth walls are better. They absorb sound, so the library stays quiet. Hard stone walls bounce the sound back, so a room echoes.
   - Think: Which is better for a library: hard stone walls or soft cloth walls? Why?
 ### a6 · Be the Atoms: why metal passes heat on (15 min)
 - **problem:** Heat is the jiggling of the tiny atoms in a material. In wood, heat passes along only when each atom nudges the next one. In a metal, some electrons are free to move, and they carry the heat along quickly. In this game, you act out both.
-- **record:** Draw the two lines of atoms: one passing heat by jiggling, one with free electrons running along.
+- **record:** Write how many seconds each line took, and which was faster. Draw the two lines of atoms if you like.
 - **s1 (4 min)**  
   *Parent does:* 1. Everyone stands in a line, close together. Each person is an atom of a spoon. 2. The person at the 'hot end' starts to jiggle. 3. They can only pass the jiggle by nudging the next person, slowly, one by one.  
   *Parent says:* You are the atoms of a wooden spoon. The end in the hot water starts to jiggle. Heat is the atoms jiggling. Pass it on, only by nudging the person next to you.  
@@ -496,19 +496,19 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s2 (6 min)**  
   *Parent does:* 1. Time how long the jiggle takes to reach the end. 2. Now the metal version: the atoms stand still in the line, but one free player is an 'electron'. 3. The electron grabs the soft ball, which stands for the heat, at the hot end and runs it to the far end. 4. Time it.  
   *Parent says:* Now we are a steel spoon. Steel has free electrons. They do not stay with one atom. They zoom about and carry heat with them. Run!  
-  *Child mode:* Now you are a steel spoon! One player is a free electron. Grab the heat ball at the hot end. Run it to the other end. Was that faster?
+  *Child mode:* Now you are a steel spoon! One player is a free electron. Grab the heat ball at the hot end. Run it to the other end.
   - Check: In the game, why did heat reach the end faster in the 'metal' line? → **Free electrons carried it along quickly**
 - **s3 (5 min)**  
   *Parent does:* Talk about how this matches the Hot Spoon Race, if you have done it.  
   *Parent says:* In the Hot Spoon Race, the steel spoon's butter melted first. Now you know why. Its free electrons rushed the heat up the handle.  
-  *Child mode:* In the Hot Spoon Race, steel won. Now you know why! Its free electrons ran the heat up the spoon.
+  *Child mode:* Which spoon won the Hot Spoon Race? What ran the heat up the spoon?
   - Note: Any answer with a wire works, such as a fan, a lamp, a mixer or a phone charger. Copper carries electricity well because of its free electrons.
   - Think: Metals also carry electricity, using the same free electrons. Name something in your home that has copper wire inside.
 
 ## Projects
 ### p1 · Build a Clay Pot Cooler (70 min, 3 days)
 - **safety:** Wet clay pots full of sand are heavy. A grown-up lifts and carries them.
-- **record:** Each day, write the temperature inside the cooler and outside it. Draw the two coriander bunches side by side.
+- **record:** Each day, write the temperature inside the cooler and outside it. Take a photo of the two coriander bunches side by side, or draw them.
 - **schedule:** day 1: Build the cooler. Wet the sand. Put one coriander bunch inside, and the other in a bowl outside. An hour or two later, measure both temperatures. (30 min); day 2: Pour more water on the sand. Measure the temperature inside and outside. Look at the coriander. (15 min); day 3: Measure again. Compare the coriander. Write what you found and how you would improve the cooler. (25 min)
 - **s1 (6 min)**  
   *Parent does:* Tell your child about Mohammed Bah Abba and Mansukhbhai Prajapati, and show them the two pots.  
@@ -525,14 +525,14 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
   - Note: Measure inside after an hour or two, once the pot has had time to cool. In dry, hot weather, the inside is often 5 to 10 degrees cooler than the air. In sticky monsoon weather it cools less.
 - **s4 (15 min)**  
   *Parent does:* On day 2, pour more water on the sand. Measure the temperatures again and look at both coriander bunches.  
-  *Parent says:* The sand has dried a little. Why do we need to add more water?  
+  *Parent says:* The sand has dried a little.  
   *Child mode:* Pour more water on the sand. Measure inside and outside again. Which coriander looks fresher?
   - Check: Why must you keep adding water to the sand? → **The cooling comes from water evaporating, so it needs a supply of water**
   - Wait: Come back tomorrow.
 - **s5 (25 min)**  
-  *Parent does:* On day 3, measure again, compare the two coriander bunches, and draw both. Then write three sentences: what I think, what I saw, why.  
+  *Parent does:* On day 3, measure again, compare the two coriander bunches, and take a photo of both. Then write three sentences: what I think, what I saw, why.  
   *Parent says:* Tell me three things. What do you think? What did you see? Why do you think it happened? Then, how would you improve our cooler?  
-  *Child mode:* Measure again. Compare the two bunches. Draw them. Then say what you think, what you saw and why. How would you make your cooler better?
+  *Child mode:* Measure again. Compare the two bunches. Take a photo or draw them. Then say what you think, what you saw and why. How would you make your cooler better?
   - Note: A good answer sounds like this. What I think: the pot cooler keeps food cooler and fresher. What I saw: inside it was 23 degrees and outside it was 31 degrees. On day 3, the coriander inside was still green. The one outside had wilted. Why: water evaporated from the wet sand and clay, and that took heat away.
   - Wait: Come back on day 3.
 
@@ -540,14 +540,14 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 ### c1 · Keep the Coffee Hot (58 min)
 - **problem:** A tumbler of hot filter coffee goes cold before anyone gets back to drink it. Design a cosy from home materials that keeps a tumbler of hot water as hot as possible for 30 minutes.
 - **safety:** A grown-up pours the hot water and keeps the tumblers steady. Do not touch the water.
-- **your turn:** Now invent your own cosy. Draw it, build it and test it against a bare tumbler. How many degrees did your cosy save?
+- **your turn:** Now invent your own cosy. Plan it, build it and test it against a bare tumbler. How many degrees did your cosy save?
 - **constraints:** Use only materials you find at home.; The cosy must come off easily, so someone can drink.; Test it fairly: same tumbler, same amount of hot water, same time.
 - **general:** Wrap the tumbler in a thick layer of wool or cloth, which traps air.; Put a lid on top. A lot of heat escapes from the open top.; Put a mat or folded cloth underneath, so heat does not leak into the table.
 - **creative:** Use layers, like a spacecraft's shiny blanket: a fluffy layer to trap air, with a shiny layer of foil outside it. Foil alone helps only a little.; Copy a flask. A flask has two walls with almost no air between them. Can you make two walls with a gap?; Copy a bird. Birds fluff their feathers to trap more air. Can you fluff up your material?
 - **s1 (5 min)**  
-  *Parent does:* 1. Explain the challenge. 2. Together, list materials at home that might keep heat in. 3. Your child draws a design.  
+  *Parent does:* 1. Explain the challenge. 2. Together, list materials at home that might keep heat in. 3. Your child draws a design, or tells you the plan.  
   *Parent says:* Engineers design first and build second. Which materials do you think will keep the heat in? Why?  
-  *Child mode:* Think like an engineer. Which materials might keep heat in? Draw your cosy design first.
+  *Child mode:* Think like an engineer. Which materials might keep heat in? Draw your cosy design first, or tell your grown-up the plan.
 - **s2 (8 min)**  
   *Parent does:* Build the cosy around one tumbler, leaving room to pour in water.  
   *Parent says:* Build it. Remember, someone must be able to take it off to drink.  
@@ -559,20 +559,20 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s4 (5 min)**  
   *Parent does:* Compare the usual solutions and the creative ideas with your design. Then improve your cosy.  
   *Parent says:* How many degrees did your cosy save? What would you change to save even more?  
-  *Child mode:* How many degrees warmer was your tumbler? Look at the creative ideas. What would you change?
+  *Child mode:* Work out how many degrees warmer your tumbler was. Look at the creative ideas. What would you change?
   - Note: A cosy slows heat in both directions. Around a cold drink, it slows the room's heat from reaching the drink.
   - Check: Which cosy would keep coffee hottest? → **A thick fluffy woollen one with a lid**
   - Think: The same cosy could keep a cold drink cold. Why?
 ### c2 · Post the Egg (30 min)
 - **problem:** A shop must post fragile things, like glass bangles, without breaking them. Practise with a raw egg. Pack it in a small box so that it does not crack when dropped from table height.
-- **your turn:** Now invent your own packing. Draw it, pack it and test it. Did your egg survive? What would you change?
+- **your turn:** Now invent your own packing. Plan it, pack it and test it. Did your egg survive? What would you change?
 - **constraints:** The box must be small, no bigger than a shoe box.; You can only use materials from home.; Drop it from the same height each time, about the height of a table.
 - **general:** Wrap the egg in soft, squashy material, like sponge or cotton wool. It squashes slowly and softens the bump.; Fill all the space in the box, so the egg cannot rattle about and hit the sides.; Crumpled newspaper is cheap and full of air pockets.
 - **creative:** Hang the egg in the middle of the box with rubber bands, so it never touches the sides.; Pack uncooked rice or dal around the egg. The grains shift and spread out the bump.; Copy nature. Eggs in a nest sit on soft grass and feathers. What could you copy?
 - **s1 (5 min)**  
   *Parent does:* 1. Explain the problem. 2. Squeeze each material in your hand: sponge, cotton wool, newspaper, rice, cloth. 3. Ask which ones squash softly.  
   *Parent says:* Which materials squash softly, like a cushion? Which are hard? Which one would you want around your egg?  
-  *Child mode:* Squeeze each material. Which ones squash softly? Which would protect an egg best?
+  *Child mode:* Squeeze each material, one by one. Sort them into 'squashy' and 'hard'.
 - **s2 (10 min)**  
   *Parent does:* Your child packs the egg in a box, using materials they choose. They say why they chose each one.  
   *Parent says:* Pack your egg. Tell me why you chose each material.  
@@ -581,7 +581,7 @@ Abi-le came to see it. She put her old hand flat on the dark wall and held it th
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* 1. Spread newspaper on the floor. 2. A grown-up holds the box at table height and drops it. 3. Open it and check the egg. 4. Try again with a better design if it cracked.  
   *Parent says:* Three, two, one, drop! Let's open it. Did your egg survive?  
-  *Child mode:* Ask a grown-up to drop your box from table height onto newspaper. Open it. Is the egg safe?
+  *Child mode:* Ask a grown-up to drop your box from table height onto newspaper. Open it and look at the egg.
   - Note: Start with a hard-boiled egg if you want less mess. Wash hands after touching raw egg.
 - **s4 (5 min)**  
   *Parent does:* Read the usual solutions and the creative ideas together. Then improve the design.  

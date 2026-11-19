@@ -477,7 +477,7 @@
      "what": "Measure for the last time. Say what you think, what you saw and why. Keep both tubs for the next experiments."
     }
    ],
-   "record": "Fill in the table each time. On the last day, draw one cut wheat plant and one cut moong plant, side by side, with their heights.",
+   "record": "Fill in the table each time. On the last day, take a photo of one cut wheat plant and one cut moong plant, side by side with a ruler. Or draw them, with their heights.",
    "setup": [
     {
      "art": "Two small bowls of water on a kitchen counter, one with wheat grains and one with green moong, soaking.",
@@ -535,8 +535,8 @@
      "mins": 6,
      "context": "This is the measuring day of the Cutting Test, just before the cut.",
      "do": "1. Choose 3 wheat plants and 3 moong plants near the middle of each half. 2. Measure each from the soil to the top. 3. Write the heights in the table as Day 9, before the cut. 4. Look closely at where each plant's leaves come from.",
-     "say": "Let's measure first, so we can compare later. Now look at the wheat leaves. Where do they come out of the plant? And where do the moong leaves come out?",
-     "kid": "Measure 3 wheat and 3 moong. Write the numbers down. Where do the wheat leaves start? Where do the moong leaves start?",
+     "say": "Let's measure first, so we can compare later. Then we will look closely at the leaves of both plants.",
+     "kid": "Measure 3 wheat and 3 moong. Write the numbers down. Then look closely at the leaves.",
      "ask": [
       {
        "q": "Where do the leaves come from on each plant?",
@@ -554,7 +554,7 @@
      "context": "This is the guessing step of the Cutting Test. You guess before you cut.",
      "do": "Ask your child to guess, and to give a reason. Write the guess down.",
      "say": "We are going to cut both kinds at 2 centimetres, like a cow biting off the top. In four days, which will be taller? Why do you think so?",
-     "kid": "We will cut both at 2 centimetres. Which will grow back? Why do you think so? Write your guess.",
+     "kid": "Guess which plant will grow back, and say why. Your grown-up writes your guess down.",
      "parent": "Accept any guess with a reason. Many children think neither will grow back, or that both will. Don't correct the guess. The test will answer it."
     },
     {
@@ -573,7 +573,7 @@
      "context": "These are the days after the cut, in the Cutting Test. You measure what grows back.",
      "do": "On days 10, 11 and 13, measure the same 3 wheat and 3 moong from the soil to the top. Write each height in the table. Look at the tips of the cut wheat leaves.",
      "say": "Let's measure the same plants. Look at the tips of the wheat. Are they pointed, or flat where we cut them?",
-     "kid": "Measure the same 3 wheat and 3 moong. Write the numbers. Look at the tips of the wheat. Are they pointed or flat?",
+     "kid": "Measure the same 3 wheat and 3 moong. Write the numbers. Look closely at the tips of the wheat leaves.",
      "check": {
       "t": "mcq",
       "q": "The cut wheat leaves are taller, but their tips are still flat where you cut them. Where did the new part grow?",
@@ -591,7 +591,7 @@
      "id": "s8",
      "mins": 10,
      "context": "This is the last step of the Cutting Test. You say what you found.",
-     "do": "1. On the last day, draw a bar chart with one bar for the height of each plant. 2. Ask your child to say or write three things: what I think, what I saw, and why.",
+     "do": "1. On the last day, read down the table together and see which plants got taller. 2. Ask your child to say or write three things: what I think, what I saw, and why.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? Why do you think it happened?",
      "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer: What I think: wheat grows back after cutting and moong doesn't. What I saw: the cut wheat grew from 2 to 7 centimetres in four days, and the moong stayed at 2. Why: wheat grows from the bottom of the leaf, so cutting the top doesn't stop them. Now read the card 'Why grass grows back after grazing'. Keep both tubs: the Dot Test uses the 5 uncut wheat plants, and the Bare Tub Test uses the second tub."
@@ -641,7 +641,7 @@
      "what": "Measure the dots again. Compare with day 1."
     }
    ],
-   "record": "Fill in the table. Draw one leaf on day 1 and on day 3, with its dots.",
+   "record": "Fill in the table. Take a photo of one leaf with its dots, next to the ruler, on day 1 and on day 3.",
    "setup": [
     {
      "art": "A child's hand holding a ruler upright beside a young wheat leaf, putting a small dot on the leaf at 2 centimetres and another at 4 centimetres.",
@@ -658,8 +658,8 @@
      "mins": 10,
      "context": "This is the first step of the Dot Test. You mark young wheat leaves with dots.",
      "do": "1. Choose 3 young wheat leaves. 2. Hold the ruler upright in the soil beside each leaf. 3. Put a small ink dot on the leaf at 2 centimetres, and another at 4 centimetres. 4. Write down the heights and the gap, which is 2 centimetres.",
-     "say": "If a leaf grows at the top, the dots stay where they are. If the leaf grows in the middle, the dots move apart. What if the leaf grows at the bottom? What do you think will happen? Why?",
-     "kid": "Put a dot at 2 centimetres. Put another at 4 centimetres. Do it on 3 leaves. What will the dots do?"
+     "say": "A leaf could grow at the top, in the middle or at the bottom. If it grows at the top, the dots stay where they are. If it grows in the middle, the dots move apart. Where do you think it grows, and why?",
+     "kid": "Put a dot at 2 centimetres. Put another at 4 centimetres. Do it on 3 leaves."
     },
     {
      "id": "s2",
@@ -667,7 +667,7 @@
      "context": "This is the last step of the Dot Test. You measure the dots again.",
      "do": "1. Measure from the soil to the lower dot on each leaf. 2. Measure the gap between the two dots. 3. Write them in the table.",
      "say": "Are the dots further apart? Are they higher? What does that tell us about where the leaf grows?",
-     "kid": "Measure from the soil to the lower dot. Measure the gap. Did the dots move apart, or just move up?",
+     "kid": "Measure from the soil to the lower dot. Then measure the gap between the two dots.",
      "check": {
       "t": "mcq",
       "q": "Both dots are higher above the soil, but the gap between them is still 2 centimetres. Where is the leaf growing?",
@@ -704,7 +704,7 @@
      "qty": 1
     },
     {
-     "item": "a second tub the same size, filled with the same soil, with nothing growing",
+     "item": "a bare tub the same size, filled with the same soil, with nothing growing",
      "qty": 1,
      "buy": "b-soil"
     },
@@ -733,7 +733,7 @@
      "what": "Tilt both tubs. Sprinkle water on each, like rain. Compare the water that runs off and the soil that settles."
     }
    ],
-   "record": "Draw the two bowls, colouring the water as it looked. Fill in the table.",
+   "record": "Fill in the table. Take a photo of the two bowls side by side.",
    "setup": [
     {
      "art": "Two tubs of soil tilted side by side on books covered in plastic, in a bathroom, one bare and one full of thick young wheat, with a steel bowl below the low end of each.",
@@ -765,7 +765,7 @@
      "context": "This is the guessing step of the Bare Tub Test.",
      "do": "Ask for a guess and a reason before any water is poured.",
      "say": "We will sprinkle the same amount of water on both, like rain. Which bowl will get more soil? Why do you think so?",
-     "kid": "Which bowl will get more soil? Why do you think so?"
+     "kid": "Say which bowl you think will get more soil, and say why."
     },
     {
      "id": "s3",
@@ -782,7 +782,7 @@
      "context": "This is the last step of the Bare Tub Test. You compare the water that ran off each tub.",
      "do": "1. Compare the colour of the water in the two bowls. 2. Wait 10 minutes for the soil to settle. 3. Tip the bowls gently and look at the soil at the bottom.",
      "say": "Which bowl is muddier? Which has more soil at the bottom? What did the roots do?",
-     "kid": "Which water is browner? Wait 10 minutes. Which bowl has more soil at the bottom?",
+     "kid": "Look at the water in both bowls. Wait 10 minutes. Then look at the bottom of each bowl.",
      "check": {
       "t": "mcq",
       "q": "The bare tub's water was brown, and the wheat tub's water was much clearer. Why?",
@@ -810,7 +810,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a board game that everyone plays together, as one team of herders. You move one herd of cows between four fields. The grass grows back each round, but a field eaten to nothing turns bare and is lost.",
+   "context": "This is a board game that everyone plays together, as one team of herders. You move one herd of cows between four fields. The grass grows back each round, but a field eaten to nothing turns bare and is lost. You will find out how to keep the herd fed for 10 rounds without losing a field.",
    "printables": [
     {
      "kind": "board",
@@ -969,7 +969,7 @@
      "context": "This is a trial round of Four Fields, to see what happens if the herd never moves.",
      "do": "Play 3 rounds with the herd staying on Field 1. Count the tokens on Field 1 after each round.",
      "say": "Let's first try staying in one field. Each round the herd eats 2 tokens and the field grows 1 back. What happens to Field 1?",
-     "kid": "Keep the herd on Field 1. Eat 2 beans. Grow 1 back. Do it 3 times. What happens?",
+     "kid": "Keep the herd on Field 1. Take off 2 beans for the cows' meal. Put 1 bean back for new grass. Do it 3 times.",
      "check": {
       "t": "mcq",
       "q": "Field 1 started with 5 tokens. Each round the herd eats 2 and the field grows 1 back. How many are left after 3 rounds?",
@@ -998,7 +998,7 @@
      "context": "This is the last step of Four Fields. You talk about what kept the fields alive.",
      "do": "Ask what kept the fields growing.",
      "say": "What did we do that kept the fields alive? Real herders in Rajasthan move their sheep and camels across the year for the same reason.",
-     "kid": "What kept your fields alive? Why did moving the herd help?",
+     "kid": "Think back to how your herd moved. Tell your grown-up what helped.",
      "ask": [
       {
        "q": "Why did moving the herd help?",
@@ -1128,7 +1128,7 @@
      "context": "This is the last step of Who Needs What.",
      "do": "Ask the check question.",
      "say": "Let's check one pair together. Why does a hen need a dry coop?",
-     "kid": "Why does a hen need a dry coop? Pick the answer.",
+     "kid": "Think about the hen. Pick the best answer.",
      "check": {
       "t": "mcq",
       "q": "Why does a hen need a dry coop?",
@@ -1179,7 +1179,7 @@
      "what": "Look and measure. Where did the new green come from?"
     }
    ],
-   "record": "Draw the onion on day 1 and on day 3, with the heights.",
+   "record": "Write the height of the onion on day 1 and on day 3. Take a photo each day if you like.",
    "setup": [
     {
      "art": "A grown-up's hands cutting the green leaves off two spring onions on a chopping board, 3 centimetres above the white part.",
@@ -1197,7 +1197,7 @@
      "context": "This is the first step of the Onion Test. You cut the leaves and stand the onions in water.",
      "do": "1. Cut the green leaves 3 centimetres above the white part. 2. Stand the bottoms, roots down, in 2 centimetres of water. 3. Put the tumbler by a window.",
      "say": "We cut off almost all the leaves. Will the onion grow new ones? If so, where from: the top of the cut, or the middle?",
-     "kid": "A grown-up cuts the leaves. Put the white bottoms in water. Where will new green come from?",
+     "kid": "A grown-up cuts the leaves. You put the white bottoms in water.",
      "adult": true
     },
     {
@@ -1339,7 +1339,7 @@
      "mins": 10,
      "context": "This is the first step of the Rain Gauge. You make it and put it outside.",
      "do": "1. Put a few stones in the bottom of the bottle. 2. Add water just to cover them, and mark that level as zero. 3. Tape a millimetre strip upwards from the zero mark. 4. Put it in the open, away from walls and roofs.",
-     "say": "Rain falls evenly, so the depth in our bottle is the depth all over the balcony.",
+     "say": "The stones keep the bottle from blowing over. The rain that lands in it shows how deep the rain is all over our balcony.",
      "kid": "Put stones in the bottle. Add water to cover them. Mark zero there. Put it outside.",
      "adult": true
     },
@@ -1368,7 +1368,7 @@
      "qty": 1
     },
     {
-     "item": "paper and crayons",
+     "item": "paper and a pen",
      "qty": 1
     }
    ],
@@ -1387,7 +1387,7 @@
     },
     {
      "art": "A child's chart with drawings: honey and a bee with a flower, milk and a cow with a water trough.",
-     "caption": "2. Draw each thing with her animal and one need."
+     "caption": "2. Name each animal and one thing she needs."
     }
    ],
    "flow": [
@@ -1403,9 +1403,9 @@
      "id": "s2",
      "mins": 7,
      "context": "This is the last step of the Thank-You Shelf. You name what each animal needs.",
-     "do": "For each thing, draw the animal and write one thing she needs.",
-     "say": "The honey came from bees. What do bees need to make it?",
-     "kid": "Draw each animal. Write one thing she needs.",
+     "do": "For each thing, ask which animal each thing came from, and what she needs. Write both in the chart.",
+     "say": "Let's start with the honey. It came from bees.",
+     "kid": "Say which animal gave each thing. Then say one thing she needs.",
      "ask": [
       {
        "q": "What do bees need?",
@@ -1474,7 +1474,7 @@
      "what": "Measure for the last time. Make a bar chart with one bar for each cut. Say what you found."
     }
    ],
-   "record": "A table: date, regrowth of each plant since the last cut. Then a bar chart.",
+   "record": "A table: date, regrowth of each plant since the last cut. Then, if you like, a bar chart.",
    "setup": [
     {
      "art": "A tub of wheat with two groups of plants marked by ice-cream sticks labelled 2 cm and 1 cm.",
@@ -1508,9 +1508,9 @@
      "id": "s3",
      "mins": 15,
      "context": "This is the last step of the Grazing Diary. You chart and explain what you found.",
-     "do": "1. Draw a bar chart with one bar for each cut, showing how much the wheat grew back. 2. Ask your child what they think, what they saw and why.",
+     "do": "1. Look at the table together. If your child likes, draw a bar chart with one bar for each cut. 2. Ask your child what they think, what they saw and why.",
      "say": "Did the wheat grow back the same each time? Did cutting close to the soil make a difference?",
-     "kid": "Draw a bar for each cut. Did they grow back the same each time? Why?",
+     "kid": "Draw a bar for each cut, or read your numbers out loud.",
      "parent": "Most often the regrowth gets smaller after several cuts, and the plants cut at 1 centimetre slow down sooner. Young wheat lives on the seed's stored food and on the light their leaves catch, and each cut takes some away. Some plants may die. Whatever happens, it is a real result. This is overgrazing in a tub."
     }
    ],
@@ -1522,6 +1522,7 @@
    "id": "c1",
    "title": "Save the Slope",
    "mins": 30,
+   "context": "In this challenge you try to stop soil washing away from a bare tub, using only things from home. You will find out which idea keeps the runoff water clearest.",
    "problem": "A bare tub of soil, tilted like a hillside, loses soil every time it rains. Without growing anything, find a way to keep the soil in the tub when you pour rain on it.",
    "constraints": [
     "Use only things from home.",
@@ -1543,7 +1544,7 @@
     "Put stones at the bottom edge to make a small check dam that slows the water.",
     "Mix the ideas: terraces of sticks with leaves on each step."
    ],
-   "your_turn": "Now invent your own way to save the slope. Draw it, build it and sprinkle water on it like rain. Is the water that runs off clearer than from the bare tub?",
+   "your_turn": "Now invent your own way to save the slope. Build it and sprinkle water on it like rain. Is the water that runs off clearer than from the bare tub?",
    "setup": [
     {
      "art": "A tilted tub of bare soil with brown water running off into a bowl.",
@@ -1571,9 +1572,9 @@
      "id": "s2",
      "mins": 5,
      "context": "This is the planning step of Save the Slope.",
-     "do": "Draw three ideas before building.",
-     "say": "Engineers draw first. What could soften the drops, or slow the water down?",
-     "kid": "Draw three ideas to keep the soil in the tub."
+     "do": "Ask your child for three ideas before building. They can say them, or show them with the things on the table.",
+     "say": "Engineers plan first. What could soften the drops, or slow the water down?",
+     "kid": "Say three ideas, or show them with the things on the table."
     },
     {
      "id": "s3",
@@ -1581,7 +1582,7 @@
      "context": "This is the building and testing step of Save the Slope.",
      "do": "1. Refill the tub with fresh soil. 2. Build one idea. 3. Sprinkle 2 cups of water on it like rain. 4. Compare the water that runs off with the water in the bare tub's bowl.",
      "say": "Is this water clearer than the bare tub's? What did your idea do to the drops?",
-     "kid": "Build your best idea. Rain on it. Is the water clearer?",
+     "kid": "Build your best idea. Then rain on it.",
      "parent": "Dry leaves or coir usually make the biggest difference, because they stop drops hitting the soil. Sticks alone help less unless they are close together."
     },
     {
@@ -1590,7 +1591,7 @@
      "context": "This is the last step of Save the Slope.",
      "do": "Read the usual and creative ideas together, then invent one more.",
      "say": "Here is what farmers do. Can you think of one more way?",
-     "kid": "Read the farmers' ideas. Can you invent a new one?",
+     "kid": "Read the farmers' ideas. Then make up a new one.",
      "think": "A forest floor is covered in fallen leaves all year. What does that do in the monsoon?",
      "parent": "The fallen leaves soften the rain drops and slow the water down. So the soil stays in place, and the streams from a forest stay clear. This is the same idea as the dry leaves in the slope tubs."
     }
