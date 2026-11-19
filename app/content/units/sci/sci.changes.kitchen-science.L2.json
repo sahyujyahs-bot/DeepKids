@@ -253,7 +253,7 @@
    "title": "Can It Go Back? A card sorting game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a sorting game about kitchen changes. Each card names a change. Players decide if the change can go back, then turn the card over to check.",
+   "context": "This is a sorting game about kitchen changes. You will find out which changes can be undone and which cannot. Each card names a change. Players decide if it can go back, then turn the card over to check.",
    "printables": [
     {
      "kind": "cards",
@@ -351,7 +351,7 @@
      "mins": 3,
      "do": "1. Cut out the 16 cards. 2. Draw the sorting mat. 3. Stack the cards.",
      "say": "Some kitchen changes can go back. Melted butter can set again. Some stay changed. A dosa cannot become batter again.",
-     "kid": "Some changes can go back. Some cannot. Let's sort them."
+     "kid": "Help cut out the cards and stack them. Then you will sort them into two groups."
     },
     {
      "id": "s2",
@@ -374,7 +374,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Put every card on its half of the mat. Count the cards on each half. Ask which half has more cards.",
-     "say": "Look at the Stays changed half. How many of those use heat? Which ones were done by tiny living beings?",
+     "say": "Look at the Stays changed half. Some of those changes need heat. Some do not.",
      "kid": "Count each half. Which has more?",
      "ask": [
       {
@@ -393,7 +393,7 @@
    "title": "Before and After: a matching memory game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a memory game. Each pair is a food before cooking and the same food after. Find the pairs and say what changed it.",
+   "context": "This is a memory game. Each pair is a food before cooking and the same food after. You will find the pairs and find out what changed each food.",
    "printables": [
     {
      "kind": "cards",
@@ -448,7 +448,7 @@
      "mins": 12,
      "do": "Play until every pair is found. For each pair, the player says what changed the food.",
      "say": "You found butter and ghee. What changed the butter into ghee?",
-     "kid": "You found a pair. What changed the food?",
+     "kid": "Match the cards. Then say what changed the food.",
      "check": {
       "t": "mcq",
       "q": "What turned the dry rice into soft cooked rice?",
@@ -523,7 +523,7 @@
      "what": "Soak and boil the grains for 12 minutes, line up the dry grains while you wait, then line up and compare all three."
     }
    ],
-   "record": "Draw or stick the three lines of ten grains on the paper strip. Write the length under each line, and the words hard or soft.",
+   "record": "Stick the three lines of ten grains on the paper strip, or draw them. Write the length under each line, and the words hard or soft.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results, with sona masoori rice",
@@ -582,15 +582,15 @@
      "mins": 3,
      "do": "1. Put a spoon of rice on a steel plate. 2. Your child picks out 40 whole grains, not broken ones. 3. Make heaps of 10, 10 and 20.",
      "say": "Look closely at one grain. Is it hard or soft? Hold it up to the light. Can you see light through it?",
-     "kid": "Pick out 40 whole grains. Make heaps of 10, 10 and 20. Feel one grain. Is it hard?",
+     "kid": "Pick out 40 whole grains, not broken ones. Make three heaps: 10, 10 and 20.",
      "parent": "We boil 20 grains, because a few may break. You need ten whole ones at the end."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "1. Show your child the katori of cold water and the pan. 2. Ask for a guess and a reason. 3. Write the guesses in the table.",
-     "say": "Ten grains stay dry. Ten go in cold water. Some go in boiling water. Which line of ten will be longest? Which grains will be soft? Why do you think so?",
-     "kid": "Some grains stay dry. Some go in cold water. Some go in boiling water. Which will be longest? Why?",
+     "say": "Ten grains stay dry. Ten go in cold water. Some go in boiling water. Which line of ten will be longest? Which grains will be soft?",
+     "kid": "Guess which line of ten grains will be the longest.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -623,9 +623,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. While the timer runs, your child draws one dry grain, large. 2. Next to it, they draw how they think a boiled grain will look.",
-     "say": "Draw a dry grain, big. Now draw what you think a boiled grain will look like. Will it be the same shape?",
-     "kid": "Draw a dry grain. Then draw how you think a boiled one will look.",
+     "do": "1. While the timer runs, your child looks closely at one dry grain. 2. They tell you how they think a boiled grain will look, and show its size with two fingers.",
+     "say": "Look at a dry grain. How will a boiled grain look? Show me its size with your fingers. Will it be the same shape?",
+     "kid": "Look at a dry grain. Tell how you think a boiled one will look.",
      "think": "If the grain gets bigger as it cooks, what might it be taking in from the pan?",
      "parent": "A good guess is the water. You will check this when you measure the lines of grains."
     },
@@ -649,8 +649,8 @@
      "id": "s8",
      "mins": 3,
      "do": "Ask your child to say what they think happened, what they saw and why they think so. Then ask the questions below.",
-     "say": "What do you think happened to the boiled grains? What did you see? Why did they grow more than the soaked ones?",
-     "kid": "Say what happened. Say what you saw. Say why you think so.",
+     "say": "What do you think happened to the boiled grains? What did you see?",
+     "kid": "Tell what you saw. Then tell why you think it happened.",
      "ask": [
       {
        "q": "Where did the extra length come from?",
@@ -687,7 +687,7 @@
    "title": "How Much Water Does Rice Drink?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment two pans get the same amount of water. One pan gets some rice too. After 12 minutes you count the spoons of water left in each pan.",
+   "context": "In this experiment two pans get the same amount of water. One pan gets some rice too. After 12 minutes you count the spoons of water left in each pan. You will find out how much water the rice drinks.",
    "question": "When rice cooks, the water in the pan goes down. How much does the rice drink, and how much goes off as steam?",
    "predict": "Both pans start with 8 spoons of water. Which pan will have less water left? About how many spoons less? Why do you think so?",
    "fair_test": "Both pans are the same size and get the same 8 tablespoons of water. Both are brought to a gentle boil, then kept on low heat with the lid on, for the same 12 minutes. Only one thing changes: one pan also has 2 tablespoons of rice. Steam leaves both pans. So the extra water missing from the rice pan is the water the rice drank.",
@@ -731,7 +731,7 @@
      "what": "Boil two pans of water for 12 minutes, one with rice in it, then count the spoons of water left in each."
     }
    ],
-   "record": "Draw the two pans. Under each one, draw a spoon for every spoonful of water left.",
+   "record": "Write the spoons of water left in each pan in the table. You can also take a photo of the two pans, or draw them.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -783,7 +783,7 @@
      "mins": 2,
      "do": "Ask for a guess and a reason. Write it down.",
      "say": "Both pans start with eight spoons. Which one will have less left? How many spoons less? Why do you think so?",
-     "kid": "Which pan will have less water left? Why?",
+     "kid": "Guess which pan will have less water left.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -802,7 +802,7 @@
      "say": "Both pans lose some water as steam. Watch the lids. Can you see steam coming out of both?",
      "kid": "A grown-up boils both pans. Look for steam from both lids.",
      "adult": true,
-     "parent": "If you have only one burner, boil the water-only pan first, then the rice pan, for the same time. While you wait, your child can draw the two pans."
+     "parent": "If you have only one burner, boil the water-only pan first, then the rice pan, for the same time. While you wait, your child can watch the lids for steam."
     },
     {
      "id": "s4",
@@ -817,8 +817,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask your child to say what they think happened, what they saw and why they think so.",
-     "say": "Steam took water from both pans. So why did the rice pan lose more?",
-     "kid": "Which pan lost more water? Why?",
+     "say": "Steam took water from both pans. Count how many spoons each pan lost.",
+     "kid": "Which pan lost more water?",
      "ask": [
       {
        "q": "How many spoons did the rice drink?",
@@ -880,7 +880,7 @@
      "what": "Melt one spoon of butter and make ghee from the other, cool both, then compare them."
     }
    ],
-   "record": "Draw the two katoris after they cool. Label one butter and one ghee. Write one word for how each one smells.",
+   "record": "Take a photo of the two katoris after they cool, or draw them. Label one butter and one ghee. Write one word for how each one smells.",
    "setup": [
     {
      "art": "A steel katori with a spoon of butter in it, floating in a bowl of hot water, with the butter turning to yellow liquid.",
@@ -901,7 +901,7 @@
      "mins": 2,
      "do": "1. Put one spoon of butter in a katori. Keep the second spoon for the stove. 2. Your child looks at, smells and touches the butter with a clean finger. 3. Ask for a guess.",
      "say": "One spoon we melt gently, then cool. One spoon I heat on the stove for longer. When they cool, will both be butter again? Why do you think so?",
-     "kid": "Look at the butter. Smell it. Will both spoons turn back into butter? Why?",
+     "kid": "Look at the butter and smell it. Guess if both spoons will turn back into butter.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -932,7 +932,7 @@
      "id": "s4",
      "mins": 6,
      "do": "1. A grown-up heats the second spoon of butter in a small kadai on low heat. 2. Your child listens and watches from an arm's length. 3. When the fizzing goes quiet and the bits at the bottom turn light brown, turn off the gas. 4. Pour the ghee into the second katori.",
-     "say": "Listen. Can you hear it fizzing? Bubbles are coming up. What do you think is leaving the butter?",
+     "say": "Listen. Can you hear it fizzing? Bubbles are coming up.",
      "kid": "Listen to the butter fizz. Watch the bubbles. What can you smell now?",
      "adult": true,
      "ask": [
@@ -959,7 +959,7 @@
      "mins": 4,
      "do": "1. Take out both katoris. 2. Your child looks at, smells and gently presses each one. 3. Ask them to say what they think happened, what they saw and why they think so.",
      "say": "Which one is butter again? What is different about the other one? Smell them both.",
-     "kid": "Which one is butter again? Smell both. How are they different?",
+     "kid": "Look at, smell and press each one. Tell how they are different.",
      "check": {
       "t": "mcq",
       "q": "Why can ghee not turn back into butter?",
@@ -1003,7 +1003,7 @@
      "what": "Compare milk and curd with your senses, then hear how bacteria turned the milk into curd."
     }
    ],
-   "record": "Draw the two katoris tipped to one side. Write one word for the taste of each.",
+   "record": "Write one word for the taste of each, and one word for how each moves when tipped.",
    "setup": [
     {
      "art": "Two steel katoris side by side, one of milk and one of curd, each with a teaspoon.",
@@ -1032,9 +1032,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask what changed the milk into curd. Then tell them about the bacteria.",
-     "say": "Nobody cooked this curd. Tiny living beings called bacteria did the work. They ate the sugar in the milk and made it sour and thick. How could they do that without a stove?",
-     "kid": "Bacteria made the curd. They are tiny living beings. They ate the milk sugar. That made the milk thick and sour.",
+     "do": "Ask how the milk became curd without a stove. Then tell them about the bacteria.",
+     "say": "Nobody cooked this curd. Tiny living beings called bacteria did the work. They are too small to see. They ate the sugar in the milk and made it sour and thick.",
+     "kid": "Think about how milk can turn into curd with no stove.",
      "check": {
       "t": "mcq",
       "q": "Who turned the milk into curd?",
@@ -1079,7 +1079,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Watch a meal being cooked and write or draw every change."
+     "what": "Watch a meal being cooked and say or write every change."
     }
    ],
    "record": "A list of the changes you spotted, each with a tick for goes back or a cross for stays changed.",
@@ -1097,9 +1097,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Your child watches a meal being cooked. They draw or write each change they see, hear or smell.",
+     "do": "Your child watches a meal being cooked. They say each change they see, hear or smell. Write each one on the list.",
      "say": "Tell me every change you see. What did it look like before? What does it look like now?",
-     "kid": "Watch the cooking. Draw each change you see.",
+     "kid": "Watch the cooking. Tell your grown-up each change you see.",
      "parent": "Good ones to point out: onions going soft and brown, mustard seeds popping in oil, dal going soft, dosa batter turning firm, water drops on a lid."
     },
     {
@@ -1107,7 +1107,7 @@
      "mins": 5,
      "do": "1. Read through the list together. 2. For each change, your child decides: can it go back? 3. Put a tick if it can go back, or a cross if it stays changed.",
      "say": "Can a brown onion turn white again? Can the water drops on the lid turn back into steam?",
-     "kid": "Can each change go back? Tick it if yes.",
+     "kid": "Tick each change that can go back. Put a cross on the others.",
      "ask": [
       {
        "q": "Which of your changes can go back?",
@@ -1126,7 +1126,7 @@
    "title": "One Cup In, How Many Cups Out?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you measure the dry rice your family cooks for a meal, then count how many cups of cooked rice it makes.",
+   "context": "In this activity you measure the dry rice your family cooks for a meal, then count how many cups of cooked rice it makes. You will find out how much bigger rice gets when it cooks.",
    "materials": [
     {
      "item": "a steel tumbler or cup",
@@ -1149,7 +1149,7 @@
      "what": "Measure the dry rice before cooking, then count the cooked rice after."
     }
    ],
-   "record": "Draw the tumblers of dry rice and the tumblers of cooked rice in two rows.",
+   "record": "Write how many tumblers of dry rice and of cooked rice. Take a photo of them, or draw them in two rows.",
    "setup": [
     {
      "art": "A child filling a steel tumbler with dry rice from a tin, levelling the top with a finger.",
@@ -1165,8 +1165,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Before cooking, your child measures the dry rice with a tumbler, levelling each one off.",
-     "say": "How many tumblers of dry rice are we cooking? How many tumblers of cooked rice do you think we will get? Why?",
-     "kid": "Count the tumblers of dry rice. Guess how many tumblers of cooked rice you will get.",
+     "say": "How many tumblers of dry rice are we cooking? Count them with me. Then make a guess.",
+     "kid": "Count the tumblers of dry rice.",
      "ask": [
       {
        "q": "How many tumblers of cooked rice will we get?",
@@ -1182,7 +1182,7 @@
      "mins": 7,
      "do": "1. After cooking, a grown-up spoons the cooked rice into the tumbler. 2. Fill it loosely, without pressing. 3. Your child counts the tumblers.",
      "say": "How many tumblers now? Where did the extra tumblers come from?",
-     "kid": "Count the tumblers of cooked rice. Where did the extra tumblers come from?",
+     "kid": "Count the tumblers of cooked rice.",
      "adult": true,
      "parent": "One tumbler of dry rice usually makes about three tumblers of cooked rice. The water you cooked it in is now inside the grains."
     }
@@ -1195,7 +1195,7 @@
    "title": "My Kitchen Change Diary",
    "mins": 36,
    "days": 5,
-   "context": "In this project you draw one food change from your kitchen every day for five days. You draw the food before and after, and say what changed it.",
+   "context": "In this project you record one food change from your kitchen every day for five days. You show the food before and after, and say what changed it. You will find out how many kitchen changes can go back.",
    "materials": [
     {
      "item": "5 notebook pages or sheets of paper",
@@ -1210,34 +1210,34 @@
     {
      "day": 1,
      "mins": 6,
-     "what": "Draw one food before and after cooking. Write what changed it."
+     "what": "Show one food before and after cooking. Write what changed it."
     },
     {
      "day": 2,
      "mins": 6,
-     "what": "Draw a new change."
+     "what": "Show a new change."
     },
     {
      "day": 3,
      "mins": 6,
-     "what": "Draw a new change."
+     "what": "Show a new change."
     },
     {
      "day": 4,
      "mins": 6,
-     "what": "Draw a new change."
+     "what": "Show a new change."
     },
     {
      "day": 5,
      "mins": 12,
-     "what": "Draw the last change. Then lay out all five pages and count how many can go back."
+     "what": "Show the last change. Then lay out all five pages and count how many can go back."
     }
    ],
-   "record": "Five pages, each with a before drawing, an after drawing and one word: heat, cold, water or bacteria.",
+   "record": "Five pages, each showing the food before and after, as drawings, photos or real bits stuck on, and one word: heat, cold, water or bacteria.",
    "setup": [
     {
      "art": "A notebook page split in two: on the left a drawing of dosa batter in a bowl, on the right a drawing of a dosa, with an arrow between them.",
-     "caption": "1. Draw the food before and after."
+     "caption": "1. Show the food before and after."
     },
     {
      "art": "Five notebook pages laid out in a row, each with a before and after drawing and a tick or a cross.",
@@ -1248,9 +1248,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Each day, your child chooses one change from the day's cooking. They draw it before and after, and write what changed it.",
-     "say": "What changed in the kitchen today? Draw it before and after. Was it heat, cold, water or bacteria?",
-     "kid": "Pick one change today. Draw before and after. What changed it?"
+     "do": "Each day, your child chooses one change from the day's cooking. They show it before and after by drawing it, taking a photo, or sticking on a real bit of the food. They write what changed it.",
+     "say": "What changed in the kitchen today? Show it before and after. Was it heat, cold, water or bacteria?",
+     "kid": "Pick one change today. Show before and after. What changed it?"
     },
     {
      "id": "s2",
@@ -1299,7 +1299,7 @@
     "Add a pinch of salt to the ice water. Salty ice water gets colder than plain ice water.",
     "Try two ways at the same time, so you can see which one wins."
    ],
-   "your_turn": "Now try your own idea. Time how long your butter takes to set. Draw your best way and write the time.",
+   "your_turn": "Now try your own idea. Time how long your butter takes to set. Write down your best way and its time. Draw it if you like.",
    "setup": [
     {
      "art": "Three steel katoris of melted yellow butter on a table: one in a bowl of cold water, one spread on a steel plate, one with a child waving cardboard over it.",
@@ -1316,7 +1316,7 @@
      "mins": 3,
      "do": "1. A grown-up melts the butter in katoris standing in hot water. 2. Your child chooses three ways to cool it.",
      "say": "Today the butter cannot go in the fridge. Melted butter sets when it loses its heat. What could take the heat away fast?",
-     "kid": "How can you make the butter set fast, without the fridge?",
+     "kid": "Choose three ways to make the butter cold fast.",
      "adult": true
     },
     {
@@ -1331,8 +1331,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Your child says which way won and why. Then they try their own idea with the fourth spoon.",
-     "say": "Which way set first? Why do you think it worked best?",
-     "kid": "Which way won? Why? Now try your own idea.",
+     "say": "Which way set first? Let us see what your own idea can do with the last spoon.",
+     "kid": "Say which way won. Then try your own idea.",
      "ask": [
       {
        "q": "Why did that way win?",

@@ -411,7 +411,7 @@
    "title": "Bite, Tear, Crush or Grind?",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a card game about the four kinds of teeth and their jobs. A food card is read out, and every player holds up the tooth card that does that job.",
+   "context": "This is a card game about the four kinds of teeth and their jobs. A food card is read out, and every player holds up the tooth card that does that job. You will find out which tooth does which job.",
    "printables": [
     {
      "kind": "cards",
@@ -550,8 +550,8 @@
      "mins": 2,
      "context": "This is the end of the game.",
      "do": "1. Count the points. 2. Ask the question below.",
-     "say": "Why do you think humans have all four kinds of teeth?",
-     "kid": "Why do we need four kinds of teeth?",
+     "say": "Well played. Now one thinking question about all the foods in the game.",
+     "kid": "Count your points. Then think about all the foods in the game.",
      "ask": [
       {
        "q": "Why do humans have all four kinds of teeth?",
@@ -694,8 +694,8 @@
      "mins": 2,
      "context": "This is the end of the game.",
      "do": "1. Count the points. 2. Ask the question below.",
-     "say": "Which card gave teeth the most acid times? Why?",
-     "kid": "Which card gave teeth the most acid times? Why?",
+     "say": "Look back at the cards you played.",
+     "kid": "Find the card you think was worst for teeth.",
      "ask": [
       {
        "q": "Which card gave teeth the most acid times?",
@@ -716,7 +716,7 @@
    "title": "The Eggshell Test: which drinks make a hard shell go soft?",
    "mins": 28,
    "days": 2,
-   "context": "In this experiment you drop pieces of eggshell into five kitchen liquids: water, sugar water, milk, lemon juice and vinegar. You watch for bubbles. The next day, you feel each piece to see if it has stayed hard. Eggshell is made with calcium, like tooth enamel, so it is a stand-in for a tooth.",
+   "context": "In this experiment you drop pieces of eggshell into five kitchen liquids: water, sugar water, milk, lemon juice and vinegar. You watch for bubbles. The next day, you feel each piece to see if it has stayed hard. Eggshell is made with calcium, like tooth enamel, so it is a stand-in for a tooth. You will find out which of these liquids can harm something as hard as a tooth.",
    "question": "Which kitchen liquids make a hard eggshell fizz and go soft? Does sugar water harm it?",
    "predict": "Feel a piece of eggshell. Look at the five cups. Which ones do you think will harm the shell, and which will not? Why do you think so?",
    "fair_test": "Every piece of shell is about the same size, about as big as your thumbnail. Every cup gets the same amount of liquid, 3 tablespoons. All the pieces go in at the same time, and come out at the same time the next day. Only the liquid is different. The cup of plain water shows what happens when nothing sour or sweet is added.",
@@ -782,7 +782,7 @@
      "what": "Take out each piece of shell. Rinse it and press it gently. Is it hard, or soft and bendy? Say what you found."
     }
    ],
-   "record": "Write your guess and your reason at the top. Fill in the results table. Draw each glass, with bubbles if you saw them. On day 2, circle the pieces that went soft.",
+   "record": "Write your guess and your reason at the top. Fill in the results table. Take a photo of the five glasses, or draw them with the bubbles you saw. On day 2, circle the pieces that went soft.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -843,11 +843,11 @@
      "mins": 3,
      "context": "This is the first step of the eggshell test. You feel the shell and guess what each liquid will do.",
      "do": "1. Give your child a piece of eggshell to feel and press. 2. Show the five liquids. 3. Ask the question below. 4. Write down their guess for each liquid, and their reason.",
-     "say": "Press the shell. It is hard, like a tooth. Which of these liquids will harm it? Which will not? Why do you think so?",
-     "kid": "Press the shell. It is hard, like a tooth. Which drinks will harm it? Why?",
+     "say": "Here are five liquids. Which ones do you think will make the shell go soft? Which will not?",
+     "kid": "Press the shell. It is hard, like a tooth. Point to the liquids you think will make it soft.",
      "ask": [
       {
-       "q": "Why do you think that one will harm the shell?",
+       "q": "Why do you think those liquids will make the shell go soft?",
        "good": [
         "Sugar water, because sugar is bad for teeth.",
         "Lemon juice, because it is sour and it stings.",
@@ -891,9 +891,9 @@
      "id": "s4",
      "mins": 4,
      "context": "In this step you write down what you saw in each glass.",
-     "do": "1. Ask your child what they saw in each glass. 2. Write 'lots', 'a few' or 'none' for the bubbles. 3. Let them draw each glass.",
-     "say": "Tell me about each glass. Lots of bubbles, a few, or none?",
-     "kid": "Say what you saw in each glass. Draw the bubbles.",
+     "do": "1. Ask your child what they saw in each glass. 2. Write 'lots', 'a few' or 'none' for the bubbles. 3. Take a photo of the five glasses, or let them draw them.",
+     "say": "Let us fill in the table. Tell me what you saw in each glass.",
+     "kid": "Point to each glass and say what you saw. Then take a photo, or draw the bubbles.",
      "ask": [
       {
        "q": "Was your guess right for the sugar water?",
@@ -908,9 +908,9 @@
      "id": "s5",
      "mins": 3,
      "context": "In this step you leave the shells in their glasses overnight.",
-     "do": "1. Cover the glasses with a plate or a piece of cardboard. 2. Put them where no one will knock them over. 3. Ask the question below.",
+     "do": "1. Cover the glasses with a plate or a piece of cardboard. 2. Put them where no one will knock them over. 3. Ask what they think the vinegar shell will feel like tomorrow, and why.",
      "say": "Tomorrow we will feel each piece. What do you think the shell in vinegar will feel like? Why?",
-     "kid": "Cover the glasses. What will the vinegar shell feel like tomorrow? Why?",
+     "kid": "Cover the glasses with the plate.",
      "parent": "Keep the glasses away from small children and pets. The vinegar may smell a little. That is normal."
     },
     {
@@ -919,8 +919,8 @@
      "wait": "Leave the glasses until the same time tomorrow.",
      "context": "This is day 2 of the eggshell test. You take out each piece of shell and feel it.",
      "do": "1. Lift each piece out with a teaspoon. 2. Rinse it under the tap. 3. Let your child press it gently between two fingers. 4. Write 'hard' or 'soft and bendy' in the table.",
-     "say": "Press each piece gently. Is it still hard? Or is it soft and bendy?",
-     "kid": "Rinse each piece. Press it gently. Is it hard, or soft?",
+     "say": "Is it still hard, or is it soft and bendy? Which pieces changed?",
+     "kid": "Rinse each piece. Press it gently between two fingers.",
      "parent": "The vinegar piece is usually soft and bendy, or partly gone, with only the thin skin left. The lemon piece may also go soft, sometimes as soft as the vinegar one. Water and sugar water stay hard. If the milk turned sour overnight in a warm room, its shell may go a little soft too, because soured milk has acid in it. Say so, and write what really happened."
     },
     {
@@ -928,11 +928,11 @@
      "mins": 3,
      "context": "This is the last step of the eggshell test. You say what you think now, what you saw, and why.",
      "do": "1. Ask the three questions below, one at a time. 2. Write the answers down.",
-     "say": "Which liquids harm a hard shell? What did you see that tells you so? Why do you think it happened?",
-     "kid": "Which liquids harm a hard shell? What did you see? Why did it happen?",
+     "say": "Look at your table and your shells. I will ask you three questions.",
+     "kid": "Look at your table. Think about which shells changed.",
      "ask": [
       {
-       "q": "Which liquids do you now think harm a hard shell?",
+       "q": "Which liquids do you now think make a hard shell go soft?",
        "good": [
         "Sour things like vinegar and lemon harm a hard shell.",
         "Sugar water did not harm the shell."
@@ -963,7 +963,7 @@
    "title": "The Root Test: why does a milk tooth wobble?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you make a pretend gum from atta dough. You push two pencils into it as pretend teeth: one deep, with a long root, and one shallow, with a short root. Then you tap each one gently on its side and count how many taps it takes to fall over.",
+   "context": "In this experiment you make a pretend gum from atta dough. You push two pencils into it as pretend teeth: one deep, with a long root, and one shallow, with a short root. Then you tap each one gently on its side and count how many taps it takes to fall over. You will find out why a milk tooth wobbles when its root gets short.",
    "question": "Does a tooth with a long root stand firmer than a tooth with a short root?",
    "predict": "Look at the two pencils. Which one will fall over first when you tap it? Why do you think so?",
    "fair_test": "Both pencils are the same kind and the same length. They go in the same block of dough. Each tap is the same: one finger, a gentle tap on the side of the pencil, at the same height (3 cm above the dough), from the same side. We do each pencil three times, because one try can be a fluke.",
@@ -999,7 +999,7 @@
      "what": "Make the dough gum. Push in two pencils, one deep and one shallow. Tap each one on its side and count the taps. Do it three times. Say what you found."
     }
    ],
-   "record": "Write your guess and reason. Fill in the table. Draw the two pencils in the dough, showing how deep each one went.",
+   "record": "Write your guess and reason. Fill in the table. Take a photo of the two pencils in the dough, or draw how deep each one went.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1047,8 +1047,8 @@
      "mins": 3,
      "context": "This is the first step of the root test. You look at two pretend teeth and guess which will fall first.",
      "do": "1. Show your child the two pencils and the dough. 2. Explain that the dough is the gum and the pencils are teeth. 3. Ask for a guess and a reason.",
-     "say": "One tooth will have a long root, deep in the gum. One will have a short root. Which will fall over first? Why?",
-     "kid": "One tooth has a long root. One has a short root. Which falls first? Why?",
+     "say": "The dough is the gum. One pencil will be pushed in deep, like a long root. One will be pushed in only a little, like a short root.",
+     "kid": "Which pencil do you think will fall over first?",
      "ask": [
       {
        "q": "Why do you think that one will fall first?",
@@ -1093,9 +1093,9 @@
      "id": "s4",
      "mins": 4,
      "context": "This is the last step of the root test. You say what you think now, what you saw, and why.",
-     "do": "1. Ask the three questions below. 2. Write the answers down.",
-     "say": "Does a long root hold a tooth more firmly than a short root? What did you see? Why does a milk tooth wobble before it falls out?",
-     "kid": "Does a long root hold a tooth more firmly? What did you see? Why does a milk tooth wobble?",
+     "do": "1. Ask the question below. 2. Write the answer down.",
+     "say": "Look at your table. Which pencil fell with fewer taps?",
+     "kid": "Look at your table. Think about what the two pencils showed.",
      "ask": [
       {
        "q": "Why does a milk tooth wobble before it falls out?",
@@ -1142,7 +1142,7 @@
      "what": "Feel your teeth with your tongue, front to back. Look with a torch. Look at a grown-up's teeth. Find their premolars. Draw both."
     }
    ],
-   "record": "Draw one side of your top teeth and one side of a grown-up's top teeth. Colour incisors blue, canines yellow, premolars orange and molars green.",
+   "record": "Draw one side of your top teeth and one side of a grown-up's top teeth. Colour incisors blue, canines yellow, premolars orange and molars green. Or point to each kind and name it.",
    "setup": [
     {
      "art": "A child with the tip of their tongue touching the edge of a front tooth, eyes looking up as if thinking.",
@@ -1163,8 +1163,8 @@
      "mins": 3,
      "context": "This is the first step of the torch tour. You feel your own teeth with your tongue.",
      "do": "1. Ask your child to close their eyes. 2. Ask them to slide their tongue along their top teeth, from the middle to the back. 3. Ask them how the teeth change.",
-     "say": "Close your eyes. Slide your tongue from your front teeth to your back teeth. How do they change as you go?",
-     "kid": "Close your eyes. Slide your tongue from the front teeth to the back. How do they change?",
+     "say": "Slide your tongue slowly from your front teeth to your back teeth.",
+     "kid": "Close your eyes. Feel each tooth with your tongue as you go back.",
      "ask": [
       {
        "q": "How do your teeth feel as you go back?",
@@ -1183,7 +1183,7 @@
      "context": "In this step you look at your own teeth with a torch.",
      "do": "1. Hold the torch while your child looks in the mirror. 2. Ask them to find the incisors, the pointed canine, and the wide back molars. 3. Count the back teeth behind the canine on one side, top row.",
      "say": "Find your thin front teeth, your pointed tooth, and your wide back teeth. How many wide teeth are behind the pointed one?",
-     "kid": "Find the thin front teeth, the pointed one and the wide back ones. Count the back ones.",
+     "kid": "Point to each kind of tooth in the mirror. Count the wide back ones.",
      "parent": "Most children of 7 have 2 milk molars behind the canine on each side. Many also have a third, bigger one at the back. That is the first adult molar."
     },
     {
@@ -1192,7 +1192,7 @@
      "context": "In this step you look at a grown-up's teeth and compare.",
      "do": "1. A grown-up opens wide. 2. Your child shines the torch. 3. Help them find the canine, then the next two teeth behind it. These are the premolars. 4. Count all the teeth behind the canine on one side.",
      "say": "Behind the pointed tooth, a grown-up has two teeth with two little points on top. These are premolars. Do you have them?",
-     "kid": "Look in the grown-up's mouth. Find the pointed tooth. Look at the next two teeth. These are premolars.",
+     "kid": "Find the grown-up's pointed tooth. Look at the two teeth behind it.",
      "ask": [
       {
        "q": "What is different about the grown-up's back teeth?",
@@ -1208,10 +1208,10 @@
     {
      "id": "s4",
      "mins": 2,
-     "context": "This is the last step of the torch tour. You draw what you saw.",
-     "do": "1. Your child draws one side of their top teeth, and one side of the grown-up's. 2. They colour each kind of tooth.",
-     "say": "Draw one side of your teeth and one side of mine. Colour incisors blue, canines yellow, premolars orange and molars green.",
-     "kid": "Draw your teeth and the grown-up's teeth. Colour each kind."
+     "context": "This is the last step of the torch tour. You show what you saw.",
+     "do": "1. Your child draws one side of their top teeth, and one side of the grown-up's, and colours each kind of tooth. 2. If they would rather not draw, they point to each kind of tooth in the mirror and name it.",
+     "say": "Draw one side of your teeth and one side of mine. Colour incisors blue, canines yellow, premolars orange and molars green. Or just point to each kind and name it.",
+     "kid": "Show each kind of tooth, by drawing it or by pointing and naming it."
     }
    ]
   },
@@ -1220,7 +1220,7 @@
    "title": "A Tooth in Layers: make one from dough",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you make a big model tooth from three colours of atta dough: white enamel outside, yellow dentine under it, and red pulp in the middle. Then a grown-up cuts it in half so you can see the layers.",
+   "context": "In this activity you make a big model tooth from three colours of atta dough: white enamel outside, yellow dentine under it, and red pulp in the middle. Then a grown-up cuts it in half. You will see what a tooth looks like inside.",
    "materials": [
     {
      "item": "atta dough, about 1 cup, split into three balls",
@@ -1250,7 +1250,7 @@
      "what": "Colour three dough balls. Wrap red inside yellow, and yellow inside white. Shape a tooth with roots. Cut it in half and name the layers."
     }
    ],
-   "record": "Draw your cut tooth and label the enamel, dentine, pulp and root.",
+   "record": "Point to each layer of your cut tooth and say its name to your grown-up. If you like, draw it and label the enamel, dentine, pulp and root.",
    "setup": [
     {
      "art": "Three balls of dough on a plate: one pale white, one turmeric yellow, one beetroot red.",
@@ -1271,7 +1271,7 @@
      "mins": 6,
      "context": "This is the first step of the dough tooth. You make three colours of dough.",
      "do": "1. Split the dough into three balls: one large, one middle-sized, one small. 2. Knead turmeric into the large ball until it is yellow. 3. Knead beetroot juice into the small ball until it is red. 4. Leave the middle ball plain, and dust it with dry atta or maida to keep it pale.",
-     "say": "The red is the pulp, the living middle. The yellow is dentine. The white is enamel, the hard outside.",
+     "say": "The red is the pulp, the living middle. The yellow is dentine, the layer under the enamel. The white is enamel, the hard outside.",
      "kid": "Knead the colours in. Red is pulp. Yellow is dentine. White is enamel.",
      "parent": "If the red dough gets sticky, add a pinch of dry atta."
     },
@@ -1297,8 +1297,8 @@
      "mins": 6,
      "context": "This is the last step of the dough tooth. You cut it and look inside.",
      "do": "1. A grown-up cuts the tooth from top to bottom with the butter knife. 2. Your child names each layer. 3. Ask the question below.",
-     "say": "Point to the enamel, the dentine and the pulp. If acid wore a hole through the white, what would it reach next?",
-     "kid": "Name each layer. If acid made a hole in the white, what would it reach next?",
+     "say": "Point to the enamel, the dentine and the pulp.",
+     "kid": "Name each layer you can see in the cut tooth.",
      "adult": true,
      "ask": [
       {
@@ -1373,8 +1373,8 @@
      "mins": 5,
      "context": "This is the last step of the tally. You count the marks in the evening.",
      "do": "1. Count the marks in each column with your child. 2. Add them up. 3. Ask the questions below.",
-     "say": "Each mark was a time when acid could work on your teeth. How many were there? Which ones could we move to mealtimes?",
-     "kid": "Count your marks. Each one is an acid time. Which could happen at a meal instead?",
+     "say": "Each mark was a time when acid could work on your teeth. Let us count them together.",
+     "kid": "Count your marks. Which ones could move to a meal?",
      "ask": [
       {
        "q": "How could you have fewer acid times tomorrow?",
@@ -1395,7 +1395,7 @@
    "title": "Gap Watch: a new tooth coming in (if you have a wobbly tooth or a gap)",
    "mins": 21,
    "days": 7,
-   "context": "If you have a wobbly tooth or a gap where a milk tooth fell out, this activity is for you. For one week, you look at the gap every day with a torch and a mirror, and draw what you see.",
+   "context": "If you have a wobbly tooth or a gap where a milk tooth fell out, this activity is for you. For one week, you look at the gap every day with a torch and a mirror, and draw it or take a photo. You will see how a new tooth comes up.",
    "materials": [
     {
      "item": "a torch and a mirror",
@@ -1443,7 +1443,7 @@
      "what": "Look and draw in box 7. Compare day 1 and day 7."
     }
    ],
-   "record": "Seven drawings of the same gap, one for each day. On day 7, write one change you saw.",
+   "record": "Seven drawings or photos of the same gap, one for each day. On day 7, write one change you saw.",
    "setup": [
     {
      "art": "A child at a mirror pulling their lip down to show a gap, with a torch shining in.",
@@ -1459,9 +1459,9 @@
      "id": "s1",
      "mins": 3,
      "context": "This is the first day of the gap watch.",
-     "do": "1. Hold the torch while your child looks at the gap in the mirror. 2. Ask what they can see. 3. They draw it in box 1.",
-     "say": "Look in the gap. Can you see the edge of a new tooth? Draw just what you see today.",
-     "kid": "Look in the gap. Can you see a new tooth? Draw it.",
+     "do": "1. Hold the torch while your child looks at the gap in the mirror. 2. Ask what they can see. 3. They draw it in box 1, or you take a photo.",
+     "say": "Look in the gap. Can you see the edge of a new tooth?",
+     "kid": "Draw what you see in box 1, or take a photo.",
      "parent": "A new tooth can take a few weeks to come up fully. In a week you may see only a little change. That is normal."
     },
     {
@@ -1469,17 +1469,17 @@
      "mins": 3,
      "wait": "Look again each day for the next 6 days.",
      "context": "This is the daily look for the gap watch.",
-     "do": "1. Look at the gap again with the torch. 2. Your child draws it in the next box.",
+     "do": "1. Look at the gap again with the torch. 2. Your child draws it in the next box, or you take a photo.",
      "say": "Has anything changed since yesterday?",
-     "kid": "Look again. Draw it in the next box. Did it change?"
+     "kid": "Look again. Draw it in the next box, or take a photo."
     },
     {
      "id": "s3",
      "mins": 3,
      "context": "This is the last day of the gap watch.",
      "do": "1. Compare box 1 and box 7. 2. Ask the question below.",
-     "say": "Look at your first drawing and your last drawing. What changed? Where was the new tooth before?",
-     "kid": "Look at your first and last drawings. What changed?",
+     "say": "Put your first drawing or photo next to your last one.",
+     "kid": "Look at both. What changed?",
      "ask": [
       {
        "q": "Where was the new tooth before you could see it?",
@@ -1497,7 +1497,7 @@
    "title": "Twig Brush: try a datun (if you can get a neem or babool twig)",
    "mins": 10,
    "days": 1,
-   "context": "If you can get a fresh neem or babool twig from a market or a tree, this activity lets you try the twig toothbrush that people in India have used for a very long time. It is called a datun. You chew one end until it goes soft and bristly, then clean your teeth with it.",
+   "context": "If you can get a fresh neem or babool twig from a market or a tree, this activity lets you try the twig toothbrush that people in India have used for a very long time. It is called a datun. You chew one end until it goes soft and bristly, then clean your teeth with it. You will find out how it compares with your toothbrush.",
    "materials": [
     {
      "item": "a fresh neem or babool twig, about as thick as a pencil and as long as your hand, washed. Some markets and shops sell them",
@@ -1516,7 +1516,7 @@
      "what": "Chew one end of the twig until it is soft. Gently clean your teeth with it. Compare it with your toothbrush."
     }
    ],
-   "record": "Draw the chewed end of the twig next to your toothbrush. Write one thing the twig did well and one thing the brush did better.",
+   "record": "Put the chewed end of the twig next to your toothbrush. Tell your grown-up one thing the twig did well and one thing the brush did better, or write it down.",
    "setup": [
     {
      "art": "A washed neem twig the length of a hand, with one end chewed into soft bristles.",
@@ -1533,8 +1533,8 @@
      "mins": 4,
      "context": "This is the first step of the twig brush. You make the bristles.",
      "do": "1. Wash the twig. 2. Your child chews one end gently for a few minutes, until the end splits into soft threads. 3. They spit out any bits.",
-     "say": "Chew the end gently. It will go soft and split into tiny bristles. Neem tastes bitter.",
-     "kid": "Chew the end gently. It goes soft. Neem tastes bitter. Spit out the bits.",
+     "say": "It will go soft and split into tiny bristles. Neem tastes bitter, and that is normal.",
+     "kid": "Chew one end of the twig until it is soft. Spit out the bits.",
      "adult": true
     },
     {
@@ -1542,8 +1542,8 @@
      "mins": 4,
      "context": "In this step you clean your teeth with the twig.",
      "do": "1. Your child rubs the soft end gently on the front teeth, then tries the back teeth. 2. Ask the question below.",
-     "say": "Clean your front teeth, then try the back ones. Is it easy to reach the back?",
-     "kid": "Clean your front teeth. Then try the back. Is it easy?",
+     "say": "Rub gently. Notice which teeth are easy to reach.",
+     "kid": "Rub the front teeth. Then try the back teeth.",
      "ask": [
       {
        "q": "What did the twig do well? What was hard?",
@@ -1559,9 +1559,9 @@
      "id": "s3",
      "mins": 2,
      "context": "This is the last step of the twig brush. You compare it with a toothbrush.",
-     "do": "1. Ask your child to compare the twig and the brush. 2. They draw the chewed end of the twig next to their toothbrush.",
-     "say": "Which would you choose, the twig or the brush, and when? Think about reaching the back teeth, and about what is in toothpaste.",
-     "kid": "Which would you choose: the twig or the brush? Why?",
+     "do": "1. Ask your child to compare the twig and the brush. 2. They hold the chewed twig next to their toothbrush and look at both.",
+     "say": "Which would you choose, the twig or the brush, and when? Think about reaching the back teeth, and about the fluoride in toothpaste, which makes teeth stronger.",
+     "kid": "Hold the twig next to your toothbrush. Look at both.",
      "parent": "Reaching the back teeth is easier with a small brush head, and toothpaste has fluoride. A twig needs no factory. Scientists still compare how well twigs and brushes clean. Brushing with fluoride toothpaste is what dentists in India advise for children."
     }
    ]
@@ -1573,7 +1573,7 @@
    "title": "The Family Tooth Book",
    "days": 3,
    "mins": 45,
-   "context": "In this 3-day project you ask people in your family about their milk teeth. When did their first one fall out? What did they do with it? You make a small book of their answers.",
+   "context": "In this 3-day project you ask people in your family about their milk teeth, the first teeth that fall out. When did their first one fall out? What did they do with it? You make a small book of their answers, and find out at what age most people lose their first tooth.",
    "materials": [
     {
      "item": "4 sheets of paper folded in half and stapled into a small book",
@@ -1627,7 +1627,7 @@
      "context": "This is day 1 of the family tooth book.",
      "do": "1. Fold and staple the book. 2. Write the three questions at the front. 3. Your child asks two family members and writes or draws the answers.",
      "say": "Ask: How old were you when your first milk tooth fell out? Which tooth was it? What did you do with it?",
-     "kid": "Ask: How old were you? Which tooth fell first? What did you do with it?",
+     "kid": "Ask two family members the three questions. Write down what they say.",
      "parent": "Help write the answers if needed. Many families in India have tooth customs, like throwing the tooth on a roof or burying it. Write down whatever people say."
     },
     {
@@ -1644,9 +1644,9 @@
      "mins": 15,
      "wait": "Do this the day after.",
      "context": "This is day 3 of the family tooth book.",
-     "do": "1. Your child draws a cover. 2. On the last page, they make a tally of the ages: 5, 6, 7, 8 or more. 3. They show the book to the family.",
+     "do": "1. Your child writes a title on the cover, and adds a drawing or a family photo if they like. 2. On the last page, they make a tally of the ages: 5, 6, 7, 8 or more. 3. They show the book to the family.",
      "say": "At what age did most people lose their first tooth? Did anyone do something unusual with their tooth?",
-     "kid": "Count the ages. Which age came up most? Show your book.",
+     "kid": "Count how many people lost their first tooth at each age. Then show your book to the family.",
      "ask": [
       {
        "q": "What did most people do with their tooth?",
@@ -1688,11 +1688,11 @@
     "A small bag of roasted chana and peanuts to chew last, which makes plenty of saliva.",
     "Putting the one sweet thing in the same box as the meal, so it is eaten with the meal, not later."
    ],
-   "your_turn": "Draw your tiffin plan. Show it to the family cook and ask if it can be made. Then eat it one day, and say if it kept you full.",
+   "your_turn": "Show your tiffin plan to the family cook, as a drawing or as a packed box, and ask if it can be made. Then eat it one day, and say if it kept you full.",
    "setup": [
     {
      "art": "An open steel tiffin box with three sections, and a child drawing a plan beside it.",
-     "caption": "1. Draw your plan for each section of the tiffin."
+     "caption": "1. Plan what goes in each section of the tiffin."
     },
     {
      "art": "A child showing the drawing to a woman in the kitchen, who is pointing to the cucumber.",
@@ -1705,8 +1705,8 @@
      "mins": 5,
      "context": "This is the first step of the tiffin challenge. You read the problem.",
      "do": "1. Read the problem and the rules aloud. 2. Ask the question below.",
-     "say": "Your tiffin must be tasty and filling, but give your teeth only one acid time at most. What will you put in?",
-     "kid": "Plan a tiffin. Tasty, filling, and only one acid time. What will you put in?",
+     "say": "Your tiffin must be tasty and filling, and give your teeth at most one acid time.",
+     "kid": "Think of foods you could pack.",
      "ask": [
       {
        "q": "What counts as an acid time?",
@@ -1720,10 +1720,10 @@
     {
      "id": "s2",
      "mins": 10,
-     "context": "In this step you draw your plan.",
-     "do": "Let your child draw the tiffin. Help them check each rule.",
+     "context": "In this step you make your plan.",
+     "do": "Let your child plan the tiffin by putting real food in the tiffin box, or by drawing it. Help them check each rule.",
      "say": "Check each rule. Is there one crunchy thing? Is the drink not sweet?",
-     "kid": "Draw your tiffin. Check each rule.",
+     "kid": "Show your plan: put the food in the tiffin box, or draw it.",
      "parent": "There are many good answers. Let your child choose real food your family eats."
     },
     {
@@ -1732,7 +1732,7 @@
      "context": "This is the last step of the tiffin challenge.",
      "do": "1. Your child shows the plan to whoever cooks at home. 2. Agree on a day to make it.",
      "say": "Tell us why each thing is in your tiffin.",
-     "kid": "Say why you chose each thing."
+     "kid": "Show your plan to whoever cooks at home."
     }
    ]
   }

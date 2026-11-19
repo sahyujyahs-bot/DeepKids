@@ -237,8 +237,8 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
   - Check: Which teeth tear a piece off a chewy dosa? → **Canines**
 - **s3 (2 min)**  
   *Parent does:* 1. Count the points. 2. Ask the question below.  
-  *Parent says:* Why do you think humans have all four kinds of teeth?  
-  *Child mode:* Why do we need four kinds of teeth?
+  *Parent says:* Well played. Now one thinking question about all the foods in the game.  
+  *Child mode:* Count your points. Then think about all the foods in the game.
   - Ask: Why do humans have all four kinds of teeth? (good: Because we eat many kinds of food.; Some food needs biting, some tearing and some grinding.)
 ### g2 · Acid Time or Helper? (15 min)
 - **rules:** Cut out the 16 cards. Shuffle them and put them face down in a pile.; One player turns over the top card and reads the front aloud.; Every player puts a thumb up for 'helper', or a thumb down for 'acid time'. A flat hand means 'neither'.; Read the back of the card. Every player who was right gets one point.; The player who read the card says one way to turn an acid-time moment into a better one. If they can, they get one more point.; Take turns to read. After all 16 cards, the player with the most points wins.
@@ -255,8 +255,8 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
   - Check: Which is worse for teeth: one sweet after lunch, or five sweets eaten one by one all afternoon? → **Five sweets one by one all afternoon**
 - **s3 (2 min)**  
   *Parent does:* 1. Count the points. 2. Ask the question below.  
-  *Parent says:* Which card gave teeth the most acid times? Why?  
-  *Child mode:* Which card gave teeth the most acid times? Why?
+  *Parent says:* Look back at the cards you played.  
+  *Child mode:* Find the card you think was worst for teeth.
   - Ask: Which card gave teeth the most acid times? (good: Sipping a sweet drink slowly all afternoon.; Nibbling biscuits one by one all evening.; Each time sugar arrives, the bacteria make acid again.)
 
 ## Experiments
@@ -266,14 +266,14 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
 - **predict:** Feel a piece of eggshell. Look at the five cups. Which ones do you think will harm the shell, and which will not? Why do you think so?
 - **fair test:** Every piece of shell is about the same size, about as big as your thumbnail. Every cup gets the same amount of liquid, 3 tablespoons. All the pieces go in at the same time, and come out at the same time the next day. Only the liquid is different. The cup of plain water shows what happens when nothing sour or sweet is added.
 - **safety:** Vinegar and lemon juice sting in the eyes and in cuts. Keep fingers away from the eyes. Wash hands after touching the eggshell and the liquids. Do not drink the liquids at the end.
-- **record:** Write your guess and your reason at the top. Fill in the results table. Draw each glass, with bubbles if you saw them. On day 2, circle the pieces that went soft.
+- **record:** Write your guess and your reason at the top. Fill in the results table. Take a photo of the five glasses, or draw them with the bubbles you saw. On day 2, circle the pieces that went soft.
 - **results table:** Liquid | My guess: will it harm the shell? | Bubbles in the first 2 minutes? (lots, a few, none) | Next day: hard, or soft and bendy?
 - **schedule:** day 1: Guess which liquids will harm the shell. Set up the five glasses. Drop in the shells and watch for bubbles. Write down what you see. Cover the glasses. (20 min); day 2: Take out each piece of shell. Rinse it and press it gently. Is it hard, or soft and bendy? Say what you found. (8 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Give your child a piece of eggshell to feel and press. 2. Show the five liquids. 3. Ask the question below. 4. Write down their guess for each liquid, and their reason.  
-  *Parent says:* Press the shell. It is hard, like a tooth. Which of these liquids will harm it? Which will not? Why do you think so?  
-  *Child mode:* Press the shell. It is hard, like a tooth. Which drinks will harm it? Why?
-  - Ask: Why do you think that one will harm the shell? (good: Sugar water, because sugar is bad for teeth.; Lemon juice, because it is sour and it stings.; Water will not, because we drink water all the time.)
+  *Parent says:* Here are five liquids. Which ones do you think will make the shell go soft? Which will not?  
+  *Child mode:* Press the shell. It is hard, like a tooth. Point to the liquids you think will make it soft.
+  - Ask: Why do you think those liquids will make the shell go soft? (good: Sugar water, because sugar is bad for teeth.; Lemon juice, because it is sour and it stings.; Water will not, because we drink water all the time.)
   - Note: Don't say if the guess is right. Many children guess sugar water. That is a good guess with a reason, and the test will answer it.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Stick a label on each glass: water, sugar water, milk, lemon juice, vinegar. 2. Pour 3 tablespoons of each liquid into its glass. 3. Break the eggshell into 5 pieces, each about the size of a thumbnail.  
@@ -287,26 +287,26 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
   - Note: In vinegar, tiny bubbles appear on the shell within a minute. The piece may float up. Lemon juice also makes bubbles, usually fewer and smaller, so look closely with the torch. Water, milk and sugar water show no new bubbles. A few air bubbles may stick to any shell at the very start. They do not keep coming.
   - Check: Which glass had the most bubbles on the shell? → **Vinegar**
 - **s4 (4 min)**  
-  *Parent does:* 1. Ask your child what they saw in each glass. 2. Write 'lots', 'a few' or 'none' for the bubbles. 3. Let them draw each glass.  
-  *Parent says:* Tell me about each glass. Lots of bubbles, a few, or none?  
-  *Child mode:* Say what you saw in each glass. Draw the bubbles.
+  *Parent does:* 1. Ask your child what they saw in each glass. 2. Write 'lots', 'a few' or 'none' for the bubbles. 3. Take a photo of the five glasses, or let them draw them.  
+  *Parent says:* Let us fill in the table. Tell me what you saw in each glass.  
+  *Child mode:* Point to each glass and say what you saw. Then take a photo, or draw the bubbles.
   - Ask: Was your guess right for the sugar water? (good: No, the sugar water did nothing to the shell.; Yes, I guessed it would do nothing.)
 - **s5 (3 min)**  
-  *Parent does:* 1. Cover the glasses with a plate or a piece of cardboard. 2. Put them where no one will knock them over. 3. Ask the question below.  
+  *Parent does:* 1. Cover the glasses with a plate or a piece of cardboard. 2. Put them where no one will knock them over. 3. Ask what they think the vinegar shell will feel like tomorrow, and why.  
   *Parent says:* Tomorrow we will feel each piece. What do you think the shell in vinegar will feel like? Why?  
-  *Child mode:* Cover the glasses. What will the vinegar shell feel like tomorrow? Why?
+  *Child mode:* Cover the glasses with the plate.
   - Note: Keep the glasses away from small children and pets. The vinegar may smell a little. That is normal.
 - **s6 (5 min)**  
   *Parent does:* 1. Lift each piece out with a teaspoon. 2. Rinse it under the tap. 3. Let your child press it gently between two fingers. 4. Write 'hard' or 'soft and bendy' in the table.  
-  *Parent says:* Press each piece gently. Is it still hard? Or is it soft and bendy?  
-  *Child mode:* Rinse each piece. Press it gently. Is it hard, or soft?
+  *Parent says:* Is it still hard, or is it soft and bendy? Which pieces changed?  
+  *Child mode:* Rinse each piece. Press it gently between two fingers.
   - Note: The vinegar piece is usually soft and bendy, or partly gone, with only the thin skin left. The lemon piece may also go soft, sometimes as soft as the vinegar one. Water and sugar water stay hard. If the milk turned sour overnight in a warm room, its shell may go a little soft too, because soured milk has acid in it. Say so, and write what really happened.
   - Wait: Leave the glasses until the same time tomorrow.
 - **s7 (3 min)**  
   *Parent does:* 1. Ask the three questions below, one at a time. 2. Write the answers down.  
-  *Parent says:* Which liquids harm a hard shell? What did you see that tells you so? Why do you think it happened?  
-  *Child mode:* Which liquids harm a hard shell? What did you see? Why did it happen?
-  - Ask: Which liquids do you now think harm a hard shell? (good: Sour things like vinegar and lemon harm a hard shell.; Sugar water did not harm the shell.)
+  *Parent says:* Look at your table and your shells. I will ask you three questions.  
+  *Child mode:* Look at your table. Think about which shells changed.
+  - Ask: Which liquids do you now think make a hard shell go soft? (good: Sour things like vinegar and lemon harm a hard shell.; Sugar water did not harm the shell.)
   - Ask: What did you see that tells you so? (good: The vinegar shell made bubbles and went soft. The sugar water shell stayed hard.)
   - Ask: Why do you think the shell in vinegar went soft? (good: Vinegar has acid in it, and acid wears away the shell.; Sour things have something in them that breaks the shell.)
   - Note: Good answers: when you sip something sour, and when bacteria in plaque eat sugar and make acid on your teeth. Both are explained next.
@@ -316,12 +316,12 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
 - **question:** Does a tooth with a long root stand firmer than a tooth with a short root?
 - **predict:** Look at the two pencils. Which one will fall over first when you tap it? Why do you think so?
 - **fair test:** Both pencils are the same kind and the same length. They go in the same block of dough. Each tap is the same: one finger, a gentle tap on the side of the pencil, at the same height (3 cm above the dough), from the same side. We do each pencil three times, because one try can be a fluke.
-- **record:** Write your guess and reason. Fill in the table. Draw the two pencils in the dough, showing how deep each one went.
+- **record:** Write your guess and reason. Fill in the table. Take a photo of the two pencils in the dough, or draw how deep each one went.
 - **results table:** Pretend tooth | How deep in the dough (cm) | Try 1: taps to fall | Try 2: taps to fall | Try 3: taps to fall
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the two pencils and the dough. 2. Explain that the dough is the gum and the pencils are teeth. 3. Ask for a guess and a reason.  
-  *Parent says:* One tooth will have a long root, deep in the gum. One will have a short root. Which will fall over first? Why?  
-  *Child mode:* One tooth has a long root. One has a short root. Which falls first? Why?
+  *Parent says:* The dough is the gum. One pencil will be pushed in deep, like a long root. One will be pushed in only a little, like a short root.  
+  *Child mode:* Which pencil do you think will fall over first?
   - Ask: Why do you think that one will fall first? (good: The short one, because it is not held in much.; The long one, because more of it sticks out.)
   - Note: Any guess with a reason is good. Write it down.
 - **s2 (6 min)**  
@@ -336,40 +336,40 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
   - Note: The short-root pencil usually falls in one or two taps. The long-root pencil usually stands for many taps, and may only lean. Keep the taps gentle and the same each time. Hold the ruler beside the pencil to find the tapping height.
   - Check: Which pretend tooth fell over with fewer taps? → **The one with the short root**
 - **s4 (4 min)**  
-  *Parent does:* 1. Ask the three questions below. 2. Write the answers down.  
-  *Parent says:* Does a long root hold a tooth more firmly than a short root? What did you see? Why does a milk tooth wobble before it falls out?  
-  *Child mode:* Does a long root hold a tooth more firmly? What did you see? Why does a milk tooth wobble?
+  *Parent does:* 1. Ask the question below. 2. Write the answer down.  
+  *Parent says:* Look at your table. Which pencil fell with fewer taps?  
+  *Child mode:* Look at your table. Think about what the two pencils showed.
   - Ask: Why does a milk tooth wobble before it falls out? (good: Its root gets short, so the gum cannot hold it tight.; The body takes the root away, like our short pencil.)
 
 ## Activities
 ### a1 · Torch Tour: your teeth and a grown-up's teeth (12 min)
-- **record:** Draw one side of your top teeth and one side of a grown-up's top teeth. Colour incisors blue, canines yellow, premolars orange and molars green.
+- **record:** Draw one side of your top teeth and one side of a grown-up's top teeth. Colour incisors blue, canines yellow, premolars orange and molars green. Or point to each kind and name it.
 - **s1 (3 min)**  
   *Parent does:* 1. Ask your child to close their eyes. 2. Ask them to slide their tongue along their top teeth, from the middle to the back. 3. Ask them how the teeth change.  
-  *Parent says:* Close your eyes. Slide your tongue from your front teeth to your back teeth. How do they change as you go?  
-  *Child mode:* Close your eyes. Slide your tongue from the front teeth to the back. How do they change?
+  *Parent says:* Slide your tongue slowly from your front teeth to your back teeth.  
+  *Child mode:* Close your eyes. Feel each tooth with your tongue as you go back.
   - Ask: How do your teeth feel as you go back? (good: The front ones are thin and flat, with a sharp edge.; Then there is a pointy one.; The back ones are wide and bumpy.)
   - Note: Wash your hands, and let your child wash theirs, before anyone touches a mouth.
 - **s2 (3 min)**  
   *Parent does:* 1. Hold the torch while your child looks in the mirror. 2. Ask them to find the incisors, the pointed canine, and the wide back molars. 3. Count the back teeth behind the canine on one side, top row.  
   *Parent says:* Find your thin front teeth, your pointed tooth, and your wide back teeth. How many wide teeth are behind the pointed one?  
-  *Child mode:* Find the thin front teeth, the pointed one and the wide back ones. Count the back ones.
+  *Child mode:* Point to each kind of tooth in the mirror. Count the wide back ones.
   - Note: Most children of 7 have 2 milk molars behind the canine on each side. Many also have a third, bigger one at the back. That is the first adult molar.
 - **s3 (4 min)**  
   *Parent does:* 1. A grown-up opens wide. 2. Your child shines the torch. 3. Help them find the canine, then the next two teeth behind it. These are the premolars. 4. Count all the teeth behind the canine on one side.  
   *Parent says:* Behind the pointed tooth, a grown-up has two teeth with two little points on top. These are premolars. Do you have them?  
-  *Child mode:* Look in the grown-up's mouth. Find the pointed tooth. Look at the next two teeth. These are premolars.
+  *Child mode:* Find the grown-up's pointed tooth. Look at the two teeth behind it.
   - Ask: What is different about the grown-up's back teeth? (good: There are more of them.; They have premolars, and I don't.; Their teeth are bigger and a bit more yellow.)
   - Note: A grown-up usually has 2 premolars and 2 or 3 molars behind the canine on each side. Some grown-ups have had teeth taken out or filled. That is fine to point out.
 - **s4 (2 min)**  
-  *Parent does:* 1. Your child draws one side of their top teeth, and one side of the grown-up's. 2. They colour each kind of tooth.  
-  *Parent says:* Draw one side of your teeth and one side of mine. Colour incisors blue, canines yellow, premolars orange and molars green.  
-  *Child mode:* Draw your teeth and the grown-up's teeth. Colour each kind.
+  *Parent does:* 1. Your child draws one side of their top teeth, and one side of the grown-up's, and colours each kind of tooth. 2. If they would rather not draw, they point to each kind of tooth in the mirror and name it.  
+  *Parent says:* Draw one side of your teeth and one side of mine. Colour incisors blue, canines yellow, premolars orange and molars green. Or just point to each kind and name it.  
+  *Child mode:* Show each kind of tooth, by drawing it or by pointing and naming it.
 ### a2 · A Tooth in Layers: make one from dough (20 min)
-- **record:** Draw your cut tooth and label the enamel, dentine, pulp and root.
+- **record:** Point to each layer of your cut tooth and say its name to your grown-up. If you like, draw it and label the enamel, dentine, pulp and root.
 - **s1 (6 min)**  
   *Parent does:* 1. Split the dough into three balls: one large, one middle-sized, one small. 2. Knead turmeric into the large ball until it is yellow. 3. Knead beetroot juice into the small ball until it is red. 4. Leave the middle ball plain, and dust it with dry atta or maida to keep it pale.  
-  *Parent says:* The red is the pulp, the living middle. The yellow is dentine. The white is enamel, the hard outside.  
+  *Parent says:* The red is the pulp, the living middle. The yellow is dentine, the layer under the enamel. The white is enamel, the hard outside.  
   *Child mode:* Knead the colours in. Red is pulp. Yellow is dentine. White is enamel.
   - Note: If the red dough gets sticky, add a pinch of dry atta.
 - **s2 (8 min)**  
@@ -379,8 +379,8 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
   - Ask: Why does the white only go on the top? (good: Because enamel covers the part we bite with.; The roots are in the gum, so they don't need it.)
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the tooth from top to bottom with the butter knife. 2. Your child names each layer. 3. Ask the question below.  
-  *Parent says:* Point to the enamel, the dentine and the pulp. If acid wore a hole through the white, what would it reach next?  
-  *Child mode:* Name each layer. If acid made a hole in the white, what would it reach next?
+  *Parent says:* Point to the enamel, the dentine and the pulp.  
+  *Child mode:* Name each layer you can see in the cut tooth.
   - Ask: If acid wore a hole through the enamel, what would it reach next? (good: The dentine, the yellow part.; Then the pulp, and that would hurt.)
 ### a3 · Sweet and Sour Tally: how many acid times in a day? (10 min)
 - **problem:** Each time you eat or drink something sweet or sour, your teeth get an acid time. An acid time is a time when acid can work on your teeth. Sour things have acid in them. Sweet things feed the bacteria on your teeth, and the bacteria make acid. For one day, you will count your acid times.
@@ -396,44 +396,44 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
   *Child mode:* Was that sweet or sour? Make a mark.
 - **s3 (5 min)**  
   *Parent does:* 1. Count the marks in each column with your child. 2. Add them up. 3. Ask the questions below.  
-  *Parent says:* Each mark was a time when acid could work on your teeth. How many were there? Which ones could we move to mealtimes?  
-  *Child mode:* Count your marks. Each one is an acid time. Which could happen at a meal instead?
+  *Parent says:* Each mark was a time when acid could work on your teeth. Let us count them together.  
+  *Child mode:* Count your marks. Which ones could move to a meal?
   - Ask: How could you have fewer acid times tomorrow? (good: Eat the sweet with lunch, not later.; Drink water instead of juice between meals.; Do not sip a sweet drink slowly all afternoon.)
   - Note: This is not about being good or bad. It is about noticing. A meal with a sweet in it is one acid time. Sipping a sweet drink slowly for an hour keeps acid on the teeth the whole hour.
 ### a4 · Gap Watch: a new tooth coming in (if you have a wobbly tooth or a gap) (21 min, 7 days)
-- **record:** Seven drawings of the same gap, one for each day. On day 7, write one change you saw.
+- **record:** Seven drawings or photos of the same gap, one for each day. On day 7, write one change you saw.
 - **schedule:** day 1: Look at the gap or wobbly tooth. Draw it in box 1. (3 min); day 2: Look and draw in box 2. (3 min); day 3: Look and draw in box 3. (3 min); day 4: Look and draw in box 4. (3 min); day 5: Look and draw in box 5. (3 min); day 6: Look and draw in box 6. (3 min); day 7: Look and draw in box 7. Compare day 1 and day 7. (3 min)
 - **s1 (3 min)**  
-  *Parent does:* 1. Hold the torch while your child looks at the gap in the mirror. 2. Ask what they can see. 3. They draw it in box 1.  
-  *Parent says:* Look in the gap. Can you see the edge of a new tooth? Draw just what you see today.  
-  *Child mode:* Look in the gap. Can you see a new tooth? Draw it.
+  *Parent does:* 1. Hold the torch while your child looks at the gap in the mirror. 2. Ask what they can see. 3. They draw it in box 1, or you take a photo.  
+  *Parent says:* Look in the gap. Can you see the edge of a new tooth?  
+  *Child mode:* Draw what you see in box 1, or take a photo.
   - Note: A new tooth can take a few weeks to come up fully. In a week you may see only a little change. That is normal.
 - **s2 (3 min)**  
-  *Parent does:* 1. Look at the gap again with the torch. 2. Your child draws it in the next box.  
+  *Parent does:* 1. Look at the gap again with the torch. 2. Your child draws it in the next box, or you take a photo.  
   *Parent says:* Has anything changed since yesterday?  
-  *Child mode:* Look again. Draw it in the next box. Did it change?
+  *Child mode:* Look again. Draw it in the next box, or take a photo.
   - Wait: Look again each day for the next 6 days.
 - **s3 (3 min)**  
   *Parent does:* 1. Compare box 1 and box 7. 2. Ask the question below.  
-  *Parent says:* Look at your first drawing and your last drawing. What changed? Where was the new tooth before?  
-  *Child mode:* Look at your first and last drawings. What changed?
+  *Parent says:* Put your first drawing or photo next to your last one.  
+  *Child mode:* Look at both. What changed?
   - Ask: Where was the new tooth before you could see it? (good: Inside my jaw, under the gum.; Under the milk tooth.)
 ### a5 · Twig Brush: try a datun (if you can get a neem or babool twig) (10 min)
 - **safety:** A grown-up checks the twig is neem or babool, from a clean place, and washes it first. Spit out the bits. Do not swallow the twig.
-- **record:** Draw the chewed end of the twig next to your toothbrush. Write one thing the twig did well and one thing the brush did better.
+- **record:** Put the chewed end of the twig next to your toothbrush. Tell your grown-up one thing the twig did well and one thing the brush did better, or write it down.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Wash the twig. 2. Your child chews one end gently for a few minutes, until the end splits into soft threads. 3. They spit out any bits.  
-  *Parent says:* Chew the end gently. It will go soft and split into tiny bristles. Neem tastes bitter.  
-  *Child mode:* Chew the end gently. It goes soft. Neem tastes bitter. Spit out the bits.
+  *Parent says:* It will go soft and split into tiny bristles. Neem tastes bitter, and that is normal.  
+  *Child mode:* Chew one end of the twig until it is soft. Spit out the bits.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child rubs the soft end gently on the front teeth, then tries the back teeth. 2. Ask the question below.  
-  *Parent says:* Clean your front teeth, then try the back ones. Is it easy to reach the back?  
-  *Child mode:* Clean your front teeth. Then try the back. Is it easy?
+  *Parent says:* Rub gently. Notice which teeth are easy to reach.  
+  *Child mode:* Rub the front teeth. Then try the back teeth.
   - Ask: What did the twig do well? What was hard? (good: It cleaned the front teeth well.; It was hard to reach the back teeth.; It tasted bitter.)
 - **s3 (2 min)**  
-  *Parent does:* 1. Ask your child to compare the twig and the brush. 2. They draw the chewed end of the twig next to their toothbrush.  
-  *Parent says:* Which would you choose, the twig or the brush, and when? Think about reaching the back teeth, and about what is in toothpaste.  
-  *Child mode:* Which would you choose: the twig or the brush? Why?
+  *Parent does:* 1. Ask your child to compare the twig and the brush. 2. They hold the chewed twig next to their toothbrush and look at both.  
+  *Parent says:* Which would you choose, the twig or the brush, and when? Think about reaching the back teeth, and about the fluoride in toothpaste, which makes teeth stronger.  
+  *Child mode:* Hold the twig next to your toothbrush. Look at both.
   - Note: Reaching the back teeth is easier with a small brush head, and toothpaste has fluoride. A twig needs no factory. Scientists still compare how well twigs and brushes clean. Brushing with fluoride toothpaste is what dentists in India advise for children.
 
 ## Projects
@@ -443,7 +443,7 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
 - **s1 (15 min)**  
   *Parent does:* 1. Fold and staple the book. 2. Write the three questions at the front. 3. Your child asks two family members and writes or draws the answers.  
   *Parent says:* Ask: How old were you when your first milk tooth fell out? Which tooth was it? What did you do with it?  
-  *Child mode:* Ask: How old were you? Which tooth fell first? What did you do with it?
+  *Child mode:* Ask two family members the three questions. Write down what they say.
   - Note: Help write the answers if needed. Many families in India have tooth customs, like throwing the tooth on a roof or burying it. Write down whatever people say.
 - **s2 (15 min)**  
   *Parent does:* Your child asks two more people. A phone call to a grandparent or an aunt works well.  
@@ -451,33 +451,33 @@ That night, Kavya brushed her teeth very gently round the gap. Arjun brushed his
   *Child mode:* Ask two more people. You can call someone on the phone.
   - Wait: Do this the next day.
 - **s3 (15 min)**  
-  *Parent does:* 1. Your child draws a cover. 2. On the last page, they make a tally of the ages: 5, 6, 7, 8 or more. 3. They show the book to the family.  
+  *Parent does:* 1. Your child writes a title on the cover, and adds a drawing or a family photo if they like. 2. On the last page, they make a tally of the ages: 5, 6, 7, 8 or more. 3. They show the book to the family.  
   *Parent says:* At what age did most people lose their first tooth? Did anyone do something unusual with their tooth?  
-  *Child mode:* Count the ages. Which age came up most? Show your book.
+  *Child mode:* Count how many people lost their first tooth at each age. Then show your book to the family.
   - Ask: What did most people do with their tooth? (good: Threw it on the roof.; Kept it in a box.; Lost it, nobody remembers.)
   - Wait: Do this the day after.
 
 ## Challenges
 ### c1 · Pack a Tooth-Kind Tiffin (20 min)
 - **problem:** Plan a tiffin for one school day. It must be tasty, it must fill you up until home time, and it must give your teeth only one acid time or none.
-- **your turn:** Draw your tiffin plan. Show it to the family cook and ask if it can be made. Then eat it one day, and say if it kept you full.
+- **your turn:** Show your tiffin plan to the family cook, as a drawing or as a packed box, and ask if it can be made. Then eat it one day, and say if it kept you full.
 - **constraints:** Use only food your family really has or cooks.; At most one sweet or sour thing, eaten with the rest of the tiffin.; Include one crunchy vegetable or fruit.; The drink must not be sweet.
 - **general:** Idli with coconut chutney, cucumber sticks, and water.; Lemon rice, carrot sticks, and water.; Roti with dal, a guava, and water.
 - **creative:** A small bag of roasted chana and peanuts to chew last, which makes plenty of saliva.; Putting the one sweet thing in the same box as the meal, so it is eaten with the meal, not later.
 - **s1 (5 min)**  
   *Parent does:* 1. Read the problem and the rules aloud. 2. Ask the question below.  
-  *Parent says:* Your tiffin must be tasty and filling, but give your teeth only one acid time at most. What will you put in?  
-  *Child mode:* Plan a tiffin. Tasty, filling, and only one acid time. What will you put in?
+  *Parent says:* Your tiffin must be tasty and filling, and give your teeth at most one acid time.  
+  *Child mode:* Think of foods you could pack.
   - Ask: What counts as an acid time? (good: Something sweet, because bacteria make acid from sugar.; Something sour, like lemon or raw mango.)
 - **s2 (10 min)**  
-  *Parent does:* Let your child draw the tiffin. Help them check each rule.  
+  *Parent does:* Let your child plan the tiffin by putting real food in the tiffin box, or by drawing it. Help them check each rule.  
   *Parent says:* Check each rule. Is there one crunchy thing? Is the drink not sweet?  
-  *Child mode:* Draw your tiffin. Check each rule.
+  *Child mode:* Show your plan: put the food in the tiffin box, or draw it.
   - Note: There are many good answers. Let your child choose real food your family eats.
 - **s3 (5 min)**  
   *Parent does:* 1. Your child shows the plan to whoever cooks at home. 2. Agree on a day to make it.  
   *Parent says:* Tell us why each thing is in your tiffin.  
-  *Child mode:* Say why you chose each thing.
+  *Child mode:* Show your plan to whoever cooks at home.
 
 ## Worksheets
 ### My Teeth (core) (core, 10 questions)

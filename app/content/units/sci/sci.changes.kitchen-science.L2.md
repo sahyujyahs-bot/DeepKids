@@ -172,7 +172,7 @@ Meenakshi did not know that. She decided to test it next.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Draw the sorting mat. 3. Stack the cards.  
   *Parent says:* Some kitchen changes can go back. Melted butter can set again. Some stay changed. A dosa cannot become batter again.  
-  *Child mode:* Some changes can go back. Some cannot. Let's sort them.
+  *Child mode:* Help cut out the cards and stack them. Then you will sort them into two groups.
 - **s2 (10 min)**  
   *Parent does:* Take turns to read a card, choose a side and say why. Then read the back aloud.  
   *Parent says:* Where does this one go? Why do you think so? Let's turn it over.  
@@ -180,7 +180,7 @@ Meenakshi did not know that. She decided to test it next.
   - Check: Where does 'Milk sets into curd' go? → **Stays changed**
 - **s3 (2 min)**  
   *Parent does:* Put every card on its half of the mat. Count the cards on each half. Ask which half has more cards.  
-  *Parent says:* Look at the Stays changed half. How many of those use heat? Which ones were done by tiny living beings?  
+  *Parent says:* Look at the Stays changed half. Some of those changes need heat. Some do not.  
   *Child mode:* Count each half. Which has more?
   - Ask: Which changes were done by living beings, not heat? (good: Curd.; Idli batter rising.)
 ### g2 · Before and After: a matching memory game (15 min)
@@ -193,7 +193,7 @@ Meenakshi did not know that. She decided to test it next.
 - **s2 (12 min)**  
   *Parent does:* Play until every pair is found. For each pair, the player says what changed the food.  
   *Parent says:* You found butter and ghee. What changed the butter into ghee?  
-  *Child mode:* You found a pair. What changed the food?
+  *Child mode:* Match the cards. Then say what changed the food.
   - Check: What turned the dry rice into soft cooked rice? → **Hot water**
 
 ## Experiments
@@ -202,17 +202,17 @@ Meenakshi did not know that. She decided to test it next.
 - **predict:** Will the soaked grains and the boiled grains make longer lines than the dry grains, shorter lines or the same? Which will be soft? Why do you think so?
 - **fair test:** All the grains come from the same packet of rice. The soaked grains and the boiled grains each get one cup of water and stay in it for the same 12 minutes. We line up ten whole grains of each kind, end to end, in the same way. Only one thing changes: no water, cold water or boiling water. So any difference comes from the water and the heat.
 - **safety:** A grown-up boils the water, adds the grains and pours them out. Let the boiled grains cool on the plate for two minutes before your child touches them.
-- **record:** Draw or stick the three lines of ten grains on the paper strip. Write the length under each line, and the words hard or soft.
+- **record:** Stick the three lines of ten grains on the paper strip, or draw them. Write the length under each line, and the words hard or soft.
 - **results table:** Grains | My guess | Length of the line of 10 grains | Hard or soft? | See-through or white?
 - **s1 (3 min)**  
   *Parent does:* 1. Put a spoon of rice on a steel plate. 2. Your child picks out 40 whole grains, not broken ones. 3. Make heaps of 10, 10 and 20.  
   *Parent says:* Look closely at one grain. Is it hard or soft? Hold it up to the light. Can you see light through it?  
-  *Child mode:* Pick out 40 whole grains. Make heaps of 10, 10 and 20. Feel one grain. Is it hard?
+  *Child mode:* Pick out 40 whole grains, not broken ones. Make three heaps: 10, 10 and 20.
   - Note: We boil 20 grains, because a few may break. You need ten whole ones at the end.
 - **s2 (2 min)**  
   *Parent does:* 1. Show your child the katori of cold water and the pan. 2. Ask for a guess and a reason. 3. Write the guesses in the table.  
-  *Parent says:* Ten grains stay dry. Ten go in cold water. Some go in boiling water. Which line of ten will be longest? Which grains will be soft? Why do you think so?  
-  *Child mode:* Some grains stay dry. Some go in cold water. Some go in boiling water. Which will be longest? Why?
+  *Parent says:* Ten grains stay dry. Ten go in cold water. Some go in boiling water. Which line of ten will be longest? Which grains will be soft?  
+  *Child mode:* Guess which line of ten grains will be the longest.
   - Ask: Why do you think so? (good: Water makes things soft, so both wet ones.; Hot water cooks the rice, so the boiled ones.; Rice does not change size, so all the same.)
   - Note: Every guess is fine. Many children think the soaked grains and the boiled grains will be the same, because both were in water.
 - **s3 (5 min) · grown-up needed**  
@@ -226,9 +226,9 @@ Meenakshi did not know that. She decided to test it next.
   *Child mode:* Put the dry grains in a line, touching. Mark both ends. How long is it?
   - Note: Lay the grains lengthwise, tip to tip, like a train. A line of ten dry sona masoori grains is about 5 cm. Basmati is longer.
 - **s5 (5 min)**  
-  *Parent does:* 1. While the timer runs, your child draws one dry grain, large. 2. Next to it, they draw how they think a boiled grain will look.  
-  *Parent says:* Draw a dry grain, big. Now draw what you think a boiled grain will look like. Will it be the same shape?  
-  *Child mode:* Draw a dry grain. Then draw how you think a boiled one will look.
+  *Parent does:* 1. While the timer runs, your child looks closely at one dry grain. 2. They tell you how they think a boiled grain will look, and show its size with two fingers.  
+  *Parent says:* Look at a dry grain. How will a boiled grain look? Show me its size with your fingers. Will it be the same shape?  
+  *Child mode:* Look at a dry grain. Tell how you think a boiled one will look.
   - Note: A good guess is the water. You will check this when you measure the lines of grains.
   - Think: If the grain gets bigger as it cooks, what might it be taking in from the pan?
 - **s6 (2 min) · grown-up needed**  
@@ -242,8 +242,8 @@ Meenakshi did not know that. She decided to test it next.
   - Note: Expect the boiled line to be clearly longer, often about one and a half times the dry line. The soaked grains may turn a little whiter and grow only a little. They stay hard. If a boiled grain is bent, straighten it gently. Some kinds of rice need a few minutes longer than 12 to go fully soft. If the middle of a boiled grain is still hard, say so honestly. The boiled line is still the longest.
 - **s8 (3 min)**  
   *Parent does:* Ask your child to say what they think happened, what they saw and why they think so. Then ask the questions below.  
-  *Parent says:* What do you think happened to the boiled grains? What did you see? Why did they grow more than the soaked ones?  
-  *Child mode:* Say what happened. Say what you saw. Say why you think so.
+  *Parent says:* What do you think happened to the boiled grains? What did you see?  
+  *Child mode:* Tell what you saw. Then tell why you think it happened.
   - Ask: Where did the extra length come from? (good: The grains drank the water.; Water went inside the grains.)
   - Ask: Both lots were in water for 12 minutes. Why did the boiled ones grow more? (good: The heat let more water in.; Hot water goes in better than cold water.)
   - Note: This is the heart of the unit. The only difference between the soaked and the boiled grains was heat. So heat is what let the water go deep inside.
@@ -253,7 +253,7 @@ Meenakshi did not know that. She decided to test it next.
 - **predict:** Both pans start with 8 spoons of water. Which pan will have less water left? About how many spoons less? Why do you think so?
 - **fair test:** Both pans are the same size and get the same 8 tablespoons of water. Both are brought to a gentle boil, then kept on low heat with the lid on, for the same 12 minutes. Only one thing changes: one pan also has 2 tablespoons of rice. Steam leaves both pans. So the extra water missing from the rice pan is the water the rice drank.
 - **safety:** A grown-up does the boiling and pours out the hot water. Let the pans cool for five minutes before the water is poured out.
-- **record:** Draw the two pans. Under each one, draw a spoon for every spoonful of water left.
+- **record:** Write the spoons of water left in each pan in the table. You can also take a photo of the two pans, or draw them.
 - **results table:** Pan | Spoons of water at the start | Spoons of water left | Spoons gone
 - **s1 (3 min)**  
   *Parent does:* 1. Your child counts 8 tablespoons of water into each pan. 2. They add 2 tablespoons of rice to one pan. 3. Label the pans Water and Rice.  
@@ -262,13 +262,13 @@ Meenakshi did not know that. She decided to test it next.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason. Write it down.  
   *Parent says:* Both pans start with eight spoons. Which one will have less left? How many spoons less? Why do you think so?  
-  *Child mode:* Which pan will have less water left? Why?
+  *Child mode:* Guess which pan will have less water left.
   - Ask: Why do you think so? (good: The rice will drink some.; Steam will take some from both.; They will be the same, because both boil.)
 - **s3 (12 min) · grown-up needed**  
   *Parent does:* 1. A grown-up brings both pans to a gentle boil, then puts the lids on and turns the heat low. 2. Keep them bubbling gently for 12 minutes. 3. Turn off the gas and let the pans cool for 5 minutes.  
   *Parent says:* Both pans lose some water as steam. Watch the lids. Can you see steam coming out of both?  
   *Child mode:* A grown-up boils both pans. Look for steam from both lids.
-  - Note: If you have only one burner, boil the water-only pan first, then the rice pan, for the same time. While you wait, your child can draw the two pans.
+  - Note: If you have only one burner, boil the water-only pan first, then the rice pan, for the same time. While you wait, your child can watch the lids for steam.
 - **s4 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up pours the water from the water-only pan into a katori. 2. Your child counts the spoonfuls. 3. Do the same with the rice pan, through the tea strainer.  
   *Parent says:* Count the spoons of water left in each pan. Write the numbers down.  
@@ -276,8 +276,8 @@ Meenakshi did not know that. She decided to test it next.
   - Note: The water from the rice pan will be a little cloudy and thick. That is starch from the rice. Count it as water. Expect the rice pan to have about 3 or 4 spoons fewer.
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say what they think happened, what they saw and why they think so.  
-  *Parent says:* Steam took water from both pans. So why did the rice pan lose more?  
-  *Child mode:* Which pan lost more water? Why?
+  *Parent says:* Steam took water from both pans. Count how many spoons each pan lost.  
+  *Child mode:* Which pan lost more water?
   - Ask: How many spoons did the rice drink? (good: The extra spoons missing from the rice pan.; For example, if the rice pan lost 6 spoons and the water-only pan lost 2, the rice drank 4 spoons.)
   - Check: Why did the rice pan lose more water than the water-only pan? → **The rice drank some of the water**
 
@@ -285,11 +285,11 @@ Meenakshi did not know that. She decided to test it next.
 ### a1 · Melt It or Make Ghee? Two spoons of butter (22 min)
 - **problem:** Butter is mostly fat, with a little water and some milk mixed in. When butter is warmed gently, it melts, and when it cools, it sets again. If butter is heated for longer, the water in it boils away. We will see what happens when each spoon of butter cools.
 - **safety:** Hot ghee can burn badly. Only a grown-up heats the butter and pours the ghee. Your child watches from an arm's length away.
-- **record:** Draw the two katoris after they cool. Label one butter and one ghee. Write one word for how each one smells.
+- **record:** Take a photo of the two katoris after they cool, or draw them. Label one butter and one ghee. Write one word for how each one smells.
 - **s1 (2 min)**  
   *Parent does:* 1. Put one spoon of butter in a katori. Keep the second spoon for the stove. 2. Your child looks at, smells and touches the butter with a clean finger. 3. Ask for a guess.  
   *Parent says:* One spoon we melt gently, then cool. One spoon I heat on the stove for longer. When they cool, will both be butter again? Why do you think so?  
-  *Child mode:* Look at the butter. Smell it. Will both spoons turn back into butter? Why?
+  *Child mode:* Look at the butter and smell it. Guess if both spoons will turn back into butter.
   - Ask: Why do you think so? (good: Melted things go solid again in the fridge.; Cooking changes things, so the stove one will be different.)
 - **s2 (3 min)**  
   *Parent does:* 1. Stand the katori in the bowl of hot water. Do not let water get inside it. 2. Watch the butter melt. 3. Look for a clear yellow part and some white cloudy bits.  
@@ -303,7 +303,7 @@ Meenakshi did not know that. She decided to test it next.
   - Note: In the freezer it sets in about 10 minutes. The fridge takes about 20.
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* 1. A grown-up heats the second spoon of butter in a small kadai on low heat. 2. Your child listens and watches from an arm's length. 3. When the fizzing goes quiet and the bits at the bottom turn light brown, turn off the gas. 4. Pour the ghee into the second katori.  
-  *Parent says:* Listen. Can you hear it fizzing? Bubbles are coming up. What do you think is leaving the butter?  
+  *Parent says:* Listen. Can you hear it fizzing? Bubbles are coming up.  
   *Child mode:* Listen to the butter fizz. Watch the bubbles. What can you smell now?
   - Ask: What is the fizzing? (good: Water boiling.; Steam coming out.; Something leaving the butter.)
   - Note: A spoon of butter takes about 3 to 5 minutes on low heat. The fizzing is the water in the butter boiling into steam. When the water is gone, it goes quiet. Turn off the gas at once, before the brown bits turn dark.
@@ -314,11 +314,11 @@ Meenakshi did not know that. She decided to test it next.
 - **s6 (4 min)**  
   *Parent does:* 1. Take out both katoris. 2. Your child looks at, smells and gently presses each one. 3. Ask them to say what they think happened, what they saw and why they think so.  
   *Parent says:* Which one is butter again? What is different about the other one? Smell them both.  
-  *Child mode:* Which one is butter again? Smell both. How are they different?
+  *Child mode:* Look at, smell and press each one. Tell how they are different.
   - Note: The gently melted butter sets solid and pale yellow again. It may look a little different, with a thin watery layer underneath. The ghee may stay soft or set grainy. It is golden, has brown bits and smells nutty. Both are worth eating with rice afterwards.
   - Check: Why can ghee not turn back into butter? → **The water in the butter boiled away as steam**
 ### a2 · Milk and Curd: what changed overnight? (11 min)
-- **record:** Draw the two katoris tipped to one side. Write one word for the taste of each.
+- **record:** Write one word for the taste of each, and one word for how each moves when tipped.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child tips each katori a little. 2. They lift a spoonful of each and let it drop. 3. They smell each one.  
   *Parent says:* Tip each katori. Which one moves? Lift a spoonful and let it drop. Now smell them.  
@@ -328,9 +328,9 @@ Meenakshi did not know that. She decided to test it next.
   *Parent says:* Taste the milk. Now taste the curd. Which one is sour?  
   *Child mode:* Taste each one. Which one is sour?
 - **s3 (3 min)**  
-  *Parent does:* Ask what changed the milk into curd. Then tell them about the bacteria.  
-  *Parent says:* Nobody cooked this curd. Tiny living beings called bacteria did the work. They ate the sugar in the milk and made it sour and thick. How could they do that without a stove?  
-  *Child mode:* Bacteria made the curd. They are tiny living beings. They ate the milk sugar. That made the milk thick and sour.
+  *Parent does:* Ask how the milk became curd without a stove. Then tell them about the bacteria.  
+  *Parent says:* Nobody cooked this curd. Tiny living beings called bacteria did the work. They are too small to see. They ate the sugar in the milk and made it sour and thick.  
+  *Child mode:* Think about how milk can turn into curd with no stove.
   - Note: Curd can never turn back into milk. This is a change that stays.
   - Check: Who turned the milk into curd? → **Tiny living beings called bacteria**
 - **s4 (1 min)**  
@@ -342,37 +342,37 @@ Meenakshi did not know that. She decided to test it next.
 - **safety:** Stand an arm's length away from the stove, hot oil and pressure cooker.
 - **record:** A list of the changes you spotted, each with a tick for goes back or a cross for stays changed.
 - **s1 (10 min)**  
-  *Parent does:* Your child watches a meal being cooked. They draw or write each change they see, hear or smell.  
+  *Parent does:* Your child watches a meal being cooked. They say each change they see, hear or smell. Write each one on the list.  
   *Parent says:* Tell me every change you see. What did it look like before? What does it look like now?  
-  *Child mode:* Watch the cooking. Draw each change you see.
+  *Child mode:* Watch the cooking. Tell your grown-up each change you see.
   - Note: Good ones to point out: onions going soft and brown, mustard seeds popping in oil, dal going soft, dosa batter turning firm, water drops on a lid.
 - **s2 (5 min)**  
   *Parent does:* 1. Read through the list together. 2. For each change, your child decides: can it go back? 3. Put a tick if it can go back, or a cross if it stays changed.  
   *Parent says:* Can a brown onion turn white again? Can the water drops on the lid turn back into steam?  
-  *Child mode:* Can each change go back? Tick it if yes.
+  *Child mode:* Tick each change that can go back. Put a cross on the others.
   - Ask: Which of your changes can go back? (good: The steam drops on the lid.; Ghee melting.; Ice melting.)
 ### a4 · One Cup In, How Many Cups Out? (10 min)
 - **safety:** A grown-up opens the pressure cooker or hot pot and spoons out the rice.
-- **record:** Draw the tumblers of dry rice and the tumblers of cooked rice in two rows.
+- **record:** Write how many tumblers of dry rice and of cooked rice. Take a photo of them, or draw them in two rows.
 - **s1 (3 min)**  
   *Parent does:* Before cooking, your child measures the dry rice with a tumbler, levelling each one off.  
-  *Parent says:* How many tumblers of dry rice are we cooking? How many tumblers of cooked rice do you think we will get? Why?  
-  *Child mode:* Count the tumblers of dry rice. Guess how many tumblers of cooked rice you will get.
+  *Parent says:* How many tumblers of dry rice are we cooking? Count them with me. Then make a guess.  
+  *Child mode:* Count the tumblers of dry rice.
   - Ask: How many tumblers of cooked rice will we get? (good: More, because rice grows.; The same.)
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* 1. After cooking, a grown-up spoons the cooked rice into the tumbler. 2. Fill it loosely, without pressing. 3. Your child counts the tumblers.  
   *Parent says:* How many tumblers now? Where did the extra tumblers come from?  
-  *Child mode:* Count the tumblers of cooked rice. Where did the extra tumblers come from?
+  *Child mode:* Count the tumblers of cooked rice.
   - Note: One tumbler of dry rice usually makes about three tumblers of cooked rice. The water you cooked it in is now inside the grains.
 
 ## Projects
 ### p1 · My Kitchen Change Diary (36 min, 5 days)
-- **record:** Five pages, each with a before drawing, an after drawing and one word: heat, cold, water or bacteria.
-- **schedule:** day 1: Draw one food before and after cooking. Write what changed it. (6 min); day 2: Draw a new change. (6 min); day 3: Draw a new change. (6 min); day 4: Draw a new change. (6 min); day 5: Draw the last change. Then lay out all five pages and count how many can go back. (12 min)
+- **record:** Five pages, each showing the food before and after, as drawings, photos or real bits stuck on, and one word: heat, cold, water or bacteria.
+- **schedule:** day 1: Show one food before and after cooking. Write what changed it. (6 min); day 2: Show a new change. (6 min); day 3: Show a new change. (6 min); day 4: Show a new change. (6 min); day 5: Show the last change. Then lay out all five pages and count how many can go back. (12 min)
 - **s1 (6 min)**  
-  *Parent does:* Each day, your child chooses one change from the day's cooking. They draw it before and after, and write what changed it.  
-  *Parent says:* What changed in the kitchen today? Draw it before and after. Was it heat, cold, water or bacteria?  
-  *Child mode:* Pick one change today. Draw before and after. What changed it?
+  *Parent does:* Each day, your child chooses one change from the day's cooking. They show it before and after by drawing it, taking a photo, or sticking on a real bit of the food. They write what changed it.  
+  *Parent says:* What changed in the kitchen today? Show it before and after. Was it heat, cold, water or bacteria?  
+  *Child mode:* Pick one change today. Show before and after. What changed it?
 - **s2 (6 min)**  
   *Parent does:* On day 5, lay out all five pages. Your child ticks the ones that can go back.  
   *Parent says:* How many of your five changes can go back? How do you know?  
@@ -383,14 +383,14 @@ Meenakshi did not know that. She decided to test it next.
 ### c1 · Set the Butter Fast, Without the Fridge (20 min)
 - **problem:** A grown-up melts four spoons of butter: three for the three ways below and one for your own idea. Melted butter sets when it loses its heat and gets cold. So the way to make it set fast is to take its heat away fast. Find the fastest way to make melted butter set solid again, without putting it in the fridge or freezer.
 - **safety:** A grown-up melts the butter and carries the hot water. Keep the fourth katori in the hot water until you need it.
-- **your turn:** Now try your own idea. Time how long your butter takes to set. Draw your best way and write the time.
+- **your turn:** Now try your own idea. Time how long your butter takes to set. Write down your best way and its time. Draw it if you like.
 - **constraints:** The butter itself does not go in the fridge or freezer.; Use only things from home. Ice cubes are allowed.; Start all your tries with the same amount of melted butter, one spoon each.
 - **general:** Stand the katori in a bowl of cold water with ice cubes.; Spread the butter thin on a steel plate, so more of it touches the cold metal.; Wave a piece of cardboard over the katori.
 - **creative:** Use a steel katori, not a plastic one. Steel takes heat away faster.; Add a pinch of salt to the ice water. Salty ice water gets colder than plain ice water.; Try two ways at the same time, so you can see which one wins.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. A grown-up melts the butter in katoris standing in hot water. 2. Your child chooses three ways to cool it.  
   *Parent says:* Today the butter cannot go in the fridge. Melted butter sets when it loses its heat. What could take the heat away fast?  
-  *Child mode:* How can you make the butter set fast, without the fridge?
+  *Child mode:* Choose three ways to make the butter cold fast.
 - **s2 (12 min)**  
   *Parent does:* 1. Start all three ways of cooling at the same time. 2. Every two minutes, press each butter gently with a clean spoon. 3. Write the time when each one is firm.  
   *Parent says:* Which one do you think will set first? Why? Press each one every two minutes.  
@@ -398,8 +398,8 @@ Meenakshi did not know that. She decided to test it next.
   - Note: On a hot day, plain tap water may be too warm to set butter, so use ice. A thin layer on a steel plate, or a steel katori in ice water, usually sets first. Waving cardboard alone is slow, and may not work at all in summer.
 - **s3 (5 min)**  
   *Parent does:* Your child says which way won and why. Then they try their own idea with the fourth spoon.  
-  *Parent says:* Which way set first? Why do you think it worked best?  
-  *Child mode:* Which way won? Why? Now try your own idea.
+  *Parent says:* Which way set first? Let us see what your own idea can do with the last spoon.  
+  *Child mode:* Say which way won. Then try your own idea.
   - Ask: Why did that way win? (good: The cold water took the heat away.; Thin butter cools faster.; Steel gets cold fast.)
 
 ## Worksheets
