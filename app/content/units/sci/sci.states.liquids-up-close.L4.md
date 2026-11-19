@@ -269,9 +269,9 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   *Child mode:* Play the last cards. Count your points. Replay the Learn pile.
   - Note: If the same card tricks your child twice, do the Three Jets experiment again at home with that card in mind.
 - **s5 (3 min)**  
-  *Parent does:* Ask the question below. Let your child think for a moment before they answer.  
+  *Parent does:* Lay the Same cards side by side. Ask the question below. Let your child think for a moment before they answer.  
   *Parent says:* Look at the cards where the answer was Same. The shape or the amount of water was different on each side. What was the same?  
-  *Child mode:* Which cards had the answer Same? What was the same in them?
+  *Child mode:* Find the cards that said Same. Lay them side by side.
   - Ask: What do the cards with the answer Same have in common? (good: They were at the same depth.; Only the depth matters.; The shape and the amount of water did not matter.)
   - Note: Any two containers filled to the same depth work, whatever their size. For example, a small glass and a big bucket that are both filled 10 centimetres deep push equally on each bit of their bottoms. The water in a kettle's spout and body is another example.
   - Think: Can you think of two places in your house where water is equally deep, and so pushes equally?
@@ -282,12 +282,12 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 - **predict:** Before you start, guess. Which hole will squirt the farthest, the top one, the middle one or the bottom one? Which will squirt the shortest distance? Why do you think so?
 - **fair test:** You use one bottle, with three holes made by the same tool, so they are the same size. The water starts at the same line each time, and you keep it there by topping up from a jug. The bottle stands on the same stool each time, and you peel off all three tapes at the same moment. Only the height of the hole changes, so any difference in the jets comes from the height.
 - **safety:** A grown-up makes the holes. Rest the bottle on a folded cloth and push the compass point or nail into it, away from the body. Keep fingers behind the point. Wet floors are slippery. Wipe up water at once. Keep water away from electric sockets and switches.
-- **record:** Fill in the table with the three results for each hole. Then draw the bottle with its three jets and show where each one landed.
+- **record:** Fill in the table with the three results for each hole. Then show where each jet landed: take a photo of the wet spots on the tape measure, or draw the bottle with its three jets.
 - **results table:** Hole | Height of the hole above the base of the bottle (cm) | Depth of the hole below the water line (cm) | Where the jet landed, measured from the foot of the stool (cm)
 - **s1 (5 min)**  
   *Parent does:* Show the bottle, the stool and the jug. Ask your child to guess, and to give a reason. Write the guess down. Do not correct it.  
   *Parent says:* We will make three holes, one high, one in the middle and one low. We fill the bottle with water. Which hole will squirt the farthest? Which will squirt the shortest distance? Why do you think so?  
-  *Child mode:* A bottle has three holes. Which one squirts the farthest? Why?
+  *Child mode:* Look at where the three holes will go. Point to the one you think will squirt farthest.
   - Ask: Which hole will squirt the farthest, and why? (good: The top hole, because it is highest.; The bottom hole, because it has the most water above it.; The middle hole, because it is in the middle.)
   - Note: Do not correct the guess. Any guess with a reason is good. Write it at the top of the table.
 - **s2 (8 min) · grown-up needed**  
@@ -315,7 +315,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 - **s6 (5 min)**  
   *Parent does:* 1. This time fill the bottle only to 12 centimetres above the base, which is 10 centimetres lower than before. 2. Peel off the tapes again and watch the jets. 3. Compare with the first time.  
   *Parent says:* Now we try a lower water line. Peel off the tapes again. Are the jets longer or shorter? What do you think this tells us about the water above?  
-  *Child mode:* Lower the water line. Test again. Are the jets longer or shorter?
+  *Child mode:* Lower the water line. Test again. Watch the jets.
   - Ask: What happened to the jets when the water was lower, and why? (good: They were shorter, because there was less water above each hole.; They were weaker, because the push was smaller.; The push depends on the depth of the water.)
   - Note: The jets will be shorter, and the top hole will stop altogether, because it is now above the water line. Dry the bottle and use fresh tape first. Measure the distances again and add them to the table, so you can compare the two water levels with numbers.
 - **s7 (5 min)**  
@@ -329,12 +329,12 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 - **predict:** Before you start, guess. Will the two marks be at the same height from the floor? Will the water stand higher in the wide funnel or in the thin end of the hose? Why do you think so?
 - **fair test:** You use the same hose, filled with the same coloured water, for every test. The two ends are held against the same wall, 3 metres apart, and you wait for the water to stop moving before you mark it. You measure the height of each mark from the floor in the same way. Only one thing changes in each test: a plain end, a funnel on one end, or a bubble in the hose.
 - **safety:** Keep water away from electric sockets and switches. Wipe up spills at once, because wet floors are slippery. Do not suck the hose to fill it. Fill it by dipping it in the bucket. Do not drink the coloured water. Skip food colour if anyone at home is allergic to it, and note that haldi and ink stain clothes.
-- **record:** Fill in the table for the three tests. Then draw the wall, the hose, and the two marks, and write the height of each mark.
+- **record:** Fill in the table for the three tests. Then show your result: take a photo of the wall and the two marks, or draw it. Write the height of each mark.
 - **results table:** Test | Mark 1, height from the floor (cm) | Mark 2, height from the floor (cm) | Difference between the marks (mm)
 - **s1 (5 min)**  
   *Parent does:* Show the hose, the funnel and the wall. Ask your child to guess, and to give a reason. Write the guess down. Do not correct it.  
   *Parent says:* We will fill a long hose with water and use it to mark two spots on a wall, 3 metres apart. Will the two marks be at the same height? Why do you think so?  
-  *Child mode:* We mark the water level at both ends of a hose full of water, 3 metres apart. Will the two marks be at the same height? Why?
+  *Child mode:* Look at the long hose. Tell your grown-up your guess and your reason.
   - Ask: Will the two marks be at the same height from the floor, and why? (good: Yes, because the water in the hose stays level.; No, because the water will run to one end.; Yes, because both ends are open to the air.)
   - Note: Do not correct the guess. Any guess with a reason is good.
 - **s2 (8 min)**  
@@ -379,7 +379,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 - **s1 (5 min)**  
   *Parent does:* Walk round the home with your child and list the taps. Ask for a guess about which will be fastest and which will be slowest. Write the guesses down.  
   *Parent says:* Let's find all the taps in our home. Which will fill a litre bottle the fastest? Which will be the slowest? Why do you think so?  
-  *Child mode:* List every tap. Which will be the fastest? Which the slowest? Why?
+  *Child mode:* List every tap. Point to the one you think is the fastest.
   - Ask: Which tap do you think is fastest, and why? (good: The bucket tap, because the pipe is wide.; The kitchen tap, because it is the strongest.; The tap that is lowest, because there is more water above it.)
   - Note: Do not correct the guess. Count taps in the bathroom, kitchen, balcony, and any outside tap.
 - **s2 (12 min)**  
@@ -394,18 +394,18 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   - Note: Many things besides the push change the speed. The width of the pipe, the tap's design and other taps open at the same time all matter. Do not worry if there is no clear pattern. Times such as 10 to 40 seconds are typical, but yours may differ because of your pipes, your pump and what else is running. In a one-floor flat, compare tap types instead, or time the same tap at a busy time (morning) and a quiet time (afternoon), and ask if the pattern holds.
   - Check: The tap closest below the roof tank filled the bottle the slowest. What could explain this? → **It has less depth of water above it than a lower tap has, so the push is smaller**
 - **s4 (3 min)**  
-  *Parent does:* Ask the question below.  
+  *Parent does:* Ask your child to think of one thing that was not the same for every tap. Then ask the question below.  
   *Parent says:* Was this a fair test? What would we need to change to make it fairer?  
-  *Child mode:* Was this a fair test? What would make it fairer?
+  *Child mode:* Think of one thing that was not the same for every tap.
   - Note: The answer is no, it was not a fully fair test. Taps have pipes of different widths and different designs. Other taps may also be open at the same time. To make it fairer, close all the other taps. Then time the same tap at a busy time and at a quiet time. Two things besides height that change the speed are the width of the pipe and how many other taps are open.
   - Think: Name two things, besides the height of the tap, that could change how fast it fills a bottle.
 ### a2 · Four Holes, One Squeeze: does a push spread through water? (20 min)
 - **safety:** A grown-up makes the holes. Rest the bottle on a folded cloth and push the compass point or needle into it, away from the body. Wet floors are slippery. Wipe up spills at once.
-- **record:** Draw the bottle from above, with the four jets as arrows. Write if the four jets were the same or different.
+- **record:** Show what the jets did: act it out with your hands, or draw the bottle from above with the four jets as arrows. Then say or write if the four jets were the same or different.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up makes four holes in a ring around the bottle, 5 centimetres above the base. 2. Cover each hole with a piece of tape. 3. Ask your child to guess what will happen when the bottle is squeezed.  
   *Parent says:* The bottle has four holes, all at the same height. When we squeeze the bottle, what will the four jets do? Will they be the same or different? Why do you think so?  
-  *Child mode:* A grown-up makes four holes. When you squeeze, what will the jets do? Why?
+  *Child mode:* Look at the four taped holes. Tell your grown-up your guess.
   - Ask: What do you think the four jets will do, and why? (good: They will be the same, because the holes are the same.; The jet nearest my hand will be strongest.; Only the jet on the other side will come out.)
   - Note: Do not correct the guess. Make the four holes the same size.
 - **s2 (5 min)**  
@@ -420,28 +420,28 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   - Ask: What did the four jets do when you squeezed? (good: They all shot out at the same time.; They were about the same strength.; They came out straight, away from the wall.)
   - Note: The four jets come out together, about equally strong, and straight out from the wall, whichever side you squeeze. A harder squeeze makes all four jets longer by about the same amount. When you let go, air bubbles are drawn in through the holes. One child can squeeze while another marks the landing spots; with one child and a parent, the parent marks. Squeeze over a sink or tray, because wet floors are slippery.
 - **s4 (4 min)**  
-  *Parent does:* Ask the question below.  
+  *Parent does:* Let your child think, then ask the question below.  
   *Parent says:* Your hand squeezed one side. Why did the water shoot out of all four holes?  
-  *Child mode:* You squeezed one side. Why did all four jets shoot out?
+  *Child mode:* Think about where your push went.
   - Check: You squeezed one side of the bottle, and the water shot out of four holes at once. What does this show? → **A push on a trapped liquid goes to every part of it**
   - Think: Where else have you seen a push travel through a liquid? Think of a brake, or a syringe.
 ### a3 · Draw the Push: arrows on a dam wall (25 min)
-- **record:** A drawing of a dam from the side, with arrows of push at five depths and a wall that is thicker at the bottom.
+- **record:** A drawing of a dam from the side, with arrows of push at five depths and a wall that is thicker at the bottom. A photo of your book wall also counts.
 - **s1 (5 min)**  
   *Parent does:* Look at pictures of two or three dams. Ask your child what they notice about the shape of the wall.  
   *Parent says:* Look at these dams. What do you notice about the shape of the wall? Is it the same width at the top and at the bottom?  
-  *Child mode:* Look at the dams. What do you notice about the wall's shape?
+  *Child mode:* Look closely at the shape of each wall.
   - Ask: What do you notice about the shape of a dam wall? (good: It is wider at the bottom.; It gets thinner towards the top.; It is thickest where the water is deepest.)
   - Note: Look for pictures of Mettur Dam in Tamil Nadu, Bhakra Dam in Himachal Pradesh and Tehri Dam in Uttarakhand.
 - **s2 (10 min)**  
   *Parent does:* 1. Draw a tall wall on the right side of the paper. 2. Draw water on the left, up to near the top. 3. Mark five depths on the wall, 2 centimetres apart. 4. Draw an arrow at each depth. 5. Make the top arrow 1 centimetre long, and each one below 1 centimetre longer. 6. Check with the ruler: the arrow at 10 centimetres depth is five times the arrow at 2 centimetres.  
-  *Parent says:* Draw the water and the wall. Mark five depths. At each depth, draw an arrow pushing on the wall. The deeper the depth, the longer the arrow.  
+  *Parent says:* Draw the water and the wall. Mark five depths. At each depth, draw an arrow pushing on the wall. The deeper the water, the longer the arrow.  
   *Child mode:* Draw the wall and the water. Draw five arrows. Deeper means longer.
   - Note: The arrows should get longer in even steps, because the push grows evenly with depth. The top arrow is the shortest. Ask your child to predict the length of the bottom arrow before drawing it, then check. With 2 to 4 children, each draws their own dam and then compares which arrow lengths match.
 - **s3 (7 min)**  
-  *Parent does:* 1. Draw a thick wall that is strong enough at each depth. 2. Make it thin at the top and thick at the bottom. 3. Label the thickest and thinnest places.  
-  *Parent says:* Now draw the wall. Where does it need to be thickest? Where can it be thinner? Label them.  
-  *Child mode:* Draw the wall. Make it thickest where the push is biggest.
+  *Parent does:* 1. Show a wall that is strong enough at each depth. Draw it, or stack books to make it. 2. Make it thin at the top and thick at the bottom. 3. Say or label the thickest and thinnest places.  
+  *Parent says:* Now make the wall, by drawing it or stacking books. Where does it need to be thickest? Where can it be thinner?  
+  *Child mode:* Make the wall thickest where the push is biggest.
   - Check: Where does a dam wall need to be the thickest? → **At the bottom, where the water is deepest and the push is the biggest**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to show the drawing to someone and explain it.  
@@ -451,11 +451,11 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   - Think: Builders a thousand years ago did not know the rule of pressure. Why do you think they made dams thicker at the bottom anyway?
 ### a4 · Straw Trouble: is drinking sucking or pushing? (20 min)
 - **safety:** A grown-up uses the pin or needle, and pushes it away from the body. Keep straws and clay away from children under five. Never blow into the sealed bottle. Use plain water, or a drink that nobody at home is allergic to. Do not eat the clay. Each child uses their own straw, never a shared one.
-- **record:** Draw the three straws, and write if you could drink or not through each one.
+- **record:** For each of the three straws, say or write if you could drink through it or not. Then tell your grown-up why the sealed bottle was different.
 - **s1 (4 min)**  
   *Parent does:* Give your child a plain straw and a glass of water. Ask for a guess about what will happen with a hole in the straw, and for a reason.  
   *Parent says:* Drink through a plain straw. It works. Now we will put a hole in a straw. Will you still be able to drink? Why do you think so?  
-  *Child mode:* Drink with a plain straw. Will a straw with a hole work? Why?
+  *Child mode:* Drink with a plain straw. Then guess what happens with a hole.
   - Ask: Will a straw with a hole in it work, and why? (good: No, because air will come in through the hole.; Yes, because the hole is tiny.; No, because the water will leak out.)
   - Note: Do not correct the guess. Any guess with a reason is good.
 - **s2 (6 min) · grown-up needed**  
@@ -470,21 +470,21 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
   - Note: In the sealed bottle you cannot drink after the first tiny sip, because the outside air cannot push on the water. A thin bottle will crumple inwards. If you can still drink, there is a gap in the clay, so press it again. In the open glass, the air pushes on the water. This is why the straw with a hole does not work either.
   - Check: When you drink through a straw, what pushes the drink up? → **The air pressure outside pushes down on the drink in the glass**
 - **s4 (4 min)**  
-  *Parent does:* Ask the question below.  
+  *Parent does:* Let your child answer in their own words, then ask the question below.  
   *Parent says:* Drinking feels like sucking. What is really happening to the drink? What is doing the pushing?  
-  *Child mode:* What is really happening when you drink through a straw?
+  *Child mode:* Think about what is really lifting the drink.
   - Note: The air outside pushes the drink up the straw, and this push can lift water only about 10 metres. If the roof is higher than that, you could not drink from the glass on the floor, however hard you suck. On a lower roof it would still work.
   - Think: If you had a very long straw, do you think you could drink from a glass on the floor while standing on a roof? Why or why not?
 
 ## Projects
 ### p1 · The Syringe Arm: a robot arm worked by water (70 min, 2 days)
 - **safety:** Use only syringes with no needle. If a shop gives a needle, a grown-up takes it off and puts it away safely, and children never touch needles. Never point a syringe at a face. Do not drink the coloured water. A grown-up cuts the cardboard if it is thick. Keep small parts away from children under five.
-- **record:** A drawing of the arm with its syringes and tubes, and a note of what you changed.
+- **record:** A photo or drawing of the arm with its syringes and tubes, and a note of what you changed and what happened.
 - **schedule:** day 1: Fill two syringes joined by a tube with water, with no air. Test that a push on one moves the other. (30 min); day 2: Build the cardboard arm. Fix a syringe pair to a joint. Test it and improve it. (40 min)
 - **s1 (8 min)**  
   *Parent does:* Show your child the syringes and the tube. Ask what will happen if the two syringes are joined with water between them, and one plunger is pushed.  
   *Parent says:* Two syringes are joined by a tube full of water. If I push one plunger in, what will the other plunger do? Why do you think so?  
-  *Child mode:* Two syringes are joined by a tube full of water. You push one plunger in. What happens to the other? Why?
+  *Child mode:* Look at the two joined syringes. Tell your grown-up your guess.
   - Ask: What will the other plunger do, and why? (good: It will move out, because the water is pushed along.; It will not move, because the tube is too long.; It will move in, because it is pulled.)
   - Note: Do not correct the guess. Any guess with a reason is good.
 - **s2 (22 min)**  
@@ -511,19 +511,19 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 ### c1 · The Farthest Squirt (40 min)
 - **problem:** You have one 2 litre bottle with the cap off, and you may make one hole in it. Make the jet land as far from the bottle as possible. You may choose the height of the hole, the depth of the water and the height of the bottle above the floor. You may also put a tilted straw in the hole. For the straw, the hole is made about 6 millimetres wide, so that the straw fits.
 - **safety:** A grown-up makes the hole. Rest the bottle on a folded cloth and push the compass point or needle into it, away from the body. Keep fingers behind the point. Keep the bottle steady in the middle of a table, away from the table's edge. Wipe up spills at once, because wet floors are slippery.
-- **your turn:** Now invent your own design. Draw it, build it, measure it and show it. Which design went the farthest? Why do you think it worked best?
+- **your turn:** Now invent your own design. Build it, measure it and show it. You can sketch it too. Which design went the farthest? Why do you think it worked best?
 - **constraints:** Use only one hole, about 2 millimetres wide, made by a grown-up. For the straw design, a grown-up widens the hole to fit the straw, about 6 millimetres.; Fill to the same line each try. Read where the jet lands in the first 3 seconds, while a helper tops up from a jug.; Measure the distance from the foot of the stool, along the floor, to where the jet lands.; Try each design three times and use the middle number.
 - **general:** Put the bottle on a higher stool, so the jet has further to fall.; Fill the bottle to the top, so the water is deeper above the hole.; Make the hole low in the bottle, where the push is strong.
 - **creative:** Push a short bent straw into a widened hole with clay or dough around it, and bend the straw upwards at an angle of about 45 degrees. A jet angled upwards usually goes farther than a flat jet, but check with your tape measure.; Put the bottle on the edge of a table, and let the jet fall to the floor, which is farther down than a stool.; Make the hole in the middle of the bottle instead of near the bottom, and compare. Does the answer change if the stool is low?
 - **s1 (8 min)**  
-  *Parent does:* Read the problem aloud. Ask your child to sketch two or three designs, and to say which one they think will go farthest and why.  
-  *Parent says:* You have one bottle and one hole. How could you make the jet go as far as possible? Sketch two ideas first. Which one do you think will win? Why?  
-  *Child mode:* Sketch two designs. Which will go farthest? Why?
+  *Parent does:* Read the problem aloud. Ask your child to plan two or three designs. They can sketch them or point at the bottle. Then ask which one will go farthest, and why.  
+  *Parent says:* You have one bottle and one hole. How could you make the jet go as far as possible? Tell me two ideas first. Which one do you think will win? Why?  
+  *Child mode:* Think of two designs. Which do you think will win?
   - Ask: What would make a jet go farther? (good: More water above the hole.; A higher stool for the jet to fall from.; A hole at the right height.)
   - Note: Do not correct the sketches. Any plan with a reason is good.
 - **s2 (14 min) · grown-up needed**  
-  *Parent does:* 1. A grown-up makes the hole for the first design. 2. Fill the bottle to the line. 3. Top up from the jug. 4. Mark where the jet lands and read the distance. 5. Do it three times and write the middle number.  
-  *Parent says:* Build your first design. Fill to the line, and keep topping up. Mark where the jet lands. Do it three times. Write the middle number. This is the number to beat.  
+  *Parent does:* 1. A grown-up makes the hole for the first design. 2. Fill the bottle to the water line you chose. 3. Top up from the jug. 4. Mark where the jet lands and read the distance. 5. Do it three times and write the middle number.  
+  *Parent says:* Build your first design. Fill to your water line, and keep topping up. Mark where the jet lands. Do it three times. Write the middle number. This is the number to beat.  
   *Child mode:* Build your first design. Test it three times. Write the middle number.
   - Note: The first number is the one to beat. Write it large. With one child, the parent pours and the child reads the landing spot. With 2 to 4 children, each invents one design and they take turns pouring, marking and recording. The bigger straw hole drains the bottle quickly, so fill high and measure early.
 - **s3 (14 min)**  
@@ -534,7 +534,7 @@ Anoop called her on the phone. 'Is your tap better?' 'Yes,' said Devika. 'Now th
 - **s4 (4 min)**  
   *Parent does:* Ask your child to tell you what made the biggest difference.  
   *Parent says:* Which change helped the most? Why do you think it helped?  
-  *Child mode:* Which change helped the most? Why?
+  *Child mode:* Tell your grown-up which change helped the most.
   - Note: Near the bottom. The hole near the bottom has the most water above it. So the push is biggest there, and the jet is strongest.
   - Think: If you wanted to squirt water as far as you could from a tall building, would you rather have a hole near the bottom of the tank, or near the top? Why?
 

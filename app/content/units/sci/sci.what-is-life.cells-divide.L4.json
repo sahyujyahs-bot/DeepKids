@@ -680,8 +680,8 @@
      "id": "s5",
      "mins": 5,
      "do": "Lay the 20 cards in four rows by time: Hours, Days, Weeks to months, A year or more. Look at which cells are in the first rows. Then ask your child the questions below. Let them answer in their own words.",
-     "say": "Look at the cells that last the longest. Why might it be good for a brain cell to last all your life? And why might it be good for a gut cell to be replaced in days?",
-     "kid": "Which cells last the longest? Which are replaced fastest? Why?",
+     "say": "Here are all the cards, sorted by time. Look at the first row and the last row.",
+     "kid": "Look at the four rows. Point to the cells that last longest and the cells replaced fastest.",
      "ask": [
       {
        "q": "Why might a gut cell be replaced in days?",
@@ -786,7 +786,7 @@
     }
    ],
    "safety": "A grown-up does the cutting, because the scissors are sharp and the root is tiny. Wash hands after handling the sprouts. Do not eat sprouts that smell bad or have fuzzy patches.",
-   "record": "Write the length of every root at the start, after one day and after two days. Work out how much each root grew. Find the average for plate A and for plate B. Draw a bar for each plate.",
+   "record": "Write the length of every root at the start, after one day and after two days. Work out how much each root grew. Find the average for plate A and for plate B. Draw a bar for each plate, or write the two numbers.",
    "context": "In this experiment, you find out where a root gets longer. You cut the tip off some roots and leave other roots alone, and then you measure both for two days.",
    "setup": [
     {
@@ -825,7 +825,7 @@
      "mins": 5,
      "do": "Look at the sprouts with your child. Find the root of each one. Ask for a guess and a reason, and write both down.",
      "say": "Look at these roots. Soon I will cut the tip off some of them. Do you think they will still grow longer? Why do you think so?",
-     "kid": "Look at the roots. We will cut the tips off some. Will they still grow? Why?",
+     "kid": "Look at the roots. Find the tip of each one.",
      "ask": [
       {
        "q": "Which part of the root do you think grows longer?",
@@ -872,8 +872,8 @@
      "id": "s4",
      "mins": 10,
      "do": "Wash your hands. A grown-up snips 3 millimetres off the tip of each root on plate B. On plate A, the grown-up only touches each tip with the closed scissors. Cover both plates with damp tissue and a lid. Put them side by side in a warm, dark place.",
-     "say": "A grown-up snips the very tip off the roots on plate B. On plate A, the scissors only touch. Why do we touch the roots on plate A?",
-     "kid": "A grown-up cuts the tips on plate B. On plate A, the scissors only touch.",
+     "say": "A grown-up snips the very tip off the roots on plate B. On plate A, the scissors only touch.",
+     "kid": "Watch the grown-up snip. Then put both plates side by side, covered, in a warm, dark place.",
      "adult": true,
      "ask": [
       {
@@ -891,7 +891,7 @@
      "id": "s5",
      "mins": 10,
      "do": "After one day, take the lids off. Measure every root with the thread and the ruler. Write the numbers. Look closely at the cut roots. Drip a little water on the tissue and cover the plates again.",
-     "say": "It is one day later. Measure every root. Which plate has longer roots? What do you notice about the cut roots?",
+     "say": "It is one day later. Measure every root. Which plate has longer roots?",
      "kid": "Measure every root. Write the lengths. Look at the cut roots closely.",
      "ask": [
       {
@@ -921,9 +921,9 @@
     {
      "id": "s6",
      "mins": 10,
-     "do": "After two days, measure every root again. Work out how much each root grew. Add the growth of the four roots on each plate and divide by four. Draw one bar for each plate. Ask your child to say what they thought, what they saw and why.",
+     "do": "After two days, measure every root again. Work out how much each root grew. Add the growth of the four roots on each plate and divide by four. Draw one bar for each plate, or write the two averages. Ask your child to say what they thought, what they saw and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Measure again. Find the average for each plate. Draw two bars. Say what you thought, what you saw and why.",
+     "kid": "Measure again. Find the average growth of each plate. Draw two bars, or write the two numbers.",
      "parent": "A strong answer says that roots with the tip cut off grew much less, that the tip is where new cells are made by dividing, that just behind the tip those cells stretch and make the root longer, and that further back the root has finished growing. For the last question, a good answer is that the root will hardly grow longer, because the dividing cells at the tip are gone. Do not give this answer first. Let your child say what they saw, then add the words cell division. If your results are not clear, write them as they are, and try again with a new bunch.",
      "think": "A gardener pulls up a young plant by accident and breaks off the very tip of the root. What would you expect to happen to that root, and why?",
      "wait": "Wait one more day.",
@@ -991,7 +991,7 @@
     }
    ],
    "safety": "Use a fine pen with waterproof ink, and keep it away from your mouth. Wash hands after handling the sprouts. Do not eat sprouts that have been marked.",
-   "record": "Write the length of each gap at the start and after one day. Work out the change. Draw a bar for each gap, from the tip backward.",
+   "record": "Write the length of each gap at the start and after one day. Work out the change. Draw a bar for each gap, from the tip backward, or write the change next to each gap.",
    "context": "This is a follow-up to Cut the Tip. In Cut the Tip, you found that a root hardly grows without its tip. Here you find how far back from the tip the growing reaches.",
    "setup": [
     {
@@ -1017,7 +1017,7 @@
      "mins": 5,
      "do": "Look at a root with your child. Ask for a guess and a reason, and write both down.",
      "say": "We will put six dots along a root, two millimetres apart. Tomorrow the root will be longer. Will all the gaps grow wider? Or only some? Why do you think so?",
-     "kid": "We will put six dots on a root. Will all the gaps grow wider? Why?",
+     "kid": "We will put six dots on a root. Then we will see which gaps grow.",
      "ask": [
       {
        "q": "Which gap do you think will grow the most?",
@@ -1053,9 +1053,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "After one day, measure each gap between the dots. Start at the tip and go backward. Write the gaps in the table. Work out how much each gap changed. Draw a bar for each gap. Ask your child to say what they thought, what they saw and why.",
+     "do": "After one day, measure each gap between the dots. Start at the tip and go backward. Write the gaps in the table. Work out how much each gap changed. Draw a bar for each gap, or write the change next to it. Ask your child to say what they thought, what they saw and why.",
      "say": "Measure each gap, starting at the tip. Which gaps grew? Which stayed the same? Why do you think the growing happened where it did?",
-     "kid": "Measure each gap from the tip back. Which gaps grew? Which stayed the same?",
+     "kid": "Measure each gap from the tip back. Write each one in the table.",
      "parent": "Typical results, not promises: the first one or two gaps next to the tip grow the most. The next gaps grow a little. Gaps more than about 1 centimetre from the tip hardly change. Dots are tiny, so use a magnifier, or measure how far each dot is from the tip and subtract one number from the next. Dots may fade, so measure the same day. Compare the total growth of the unmarked root with a marked one: they should be about the same. If the dots washed off or the roots dried out, say so, and try again with kajal and a fresh root. A fuzzy result is still a result.",
      "check": {
       "t": "mcq",
@@ -1095,7 +1095,7 @@
     }
    ],
    "safety": "Handle paper carefully. Fold slowly so that you do not get paper cuts.",
-   "record": "Write the number of boxes after each fold. Then write the table for 10, 20, 30 and 45 doublings. Draw a line to show how it climbs.",
+   "record": "Write the number of boxes after each fold. Then write the table for 10, 20, 30 and 45 doublings. Say in one sentence how the numbers climb.",
    "context": "In this activity, you fold paper in half again and again, as a cell divides into two. You count the boxes and then work out how many doublings it takes to make a body.",
    "setup": [
     {
@@ -1115,9 +1115,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Lay the sheet flat. Draw one dot in the middle. Say that this sheet is one cell. Ask for a guess about how many boxes there will be after 5 folds.",
-     "say": "This sheet is one cell. When a cell divides, she becomes two. I fold the paper in half. How many boxes will there be after five folds?",
-     "kid": "This sheet is one cell. Fold it in half. How many boxes after five folds?",
+     "do": "Lay the sheet flat. Put one dot in the middle. Say that this sheet is one cell. Ask for a guess about how many boxes there will be after 5 folds.",
+     "say": "This sheet is one cell. When a cell divides, she becomes two. I will fold the paper in half.",
+     "kid": "Guess: how many boxes will there be after five folds?",
      "parent": "Most children guess 5 or 10. The real answer is 32, so the guess teaches a lot.",
      "context": "This is the first step of Fold and Count. You guess how fast the number grows."
     },
@@ -1279,7 +1279,7 @@
     }
    ],
    "safety": "Use clean, unbroken skin only. Do not tape over sore, red, rashy or cut skin, or over thick hair. Peel the tape off slowly. Stop if the skin hurts.",
-   "record": "Draw what you see under the tape. Write which place on your body gave the most flakes.",
+   "record": "Tell your grown-up what you see on the tape, or draw it. Write which place on your body gave the most flakes.",
    "context": "In this activity, you lift a layer of dry skin with sticky tape, and look at it on dark paper. You see some of the cells that your body has already finished with.",
    "setup": [
     {
@@ -1377,7 +1377,7 @@
      "qty": 1
     }
    ],
-   "record": "Draw the four steps of mitosis in order. Write a sentence under each one.",
+   "record": "Show your grown-up the four steps again with the strips: the cell, the copy, the line-up and the pull-apart. Say what happens at each step.",
    "context": "In this activity, you use paper strips for chromosomes. You copy them, line them up, pull them apart and share them between two bowls, as a dividing cell does.",
    "setup": [
     {
@@ -1438,8 +1438,8 @@
      "id": "s4",
      "mins": 10,
      "do": "Pull each X apart at the tape. Put one half of each X in one bowl and the other half in the other bowl. Count the strips in each bowl. Then play it again, but this time drop both halves of one green X in the same bowl. Count again.",
-     "say": "Now pull each X apart. One half goes in each bowl. Count the strips. Then try a mistake. Put both halves of one green X in the same bowl. What goes wrong?",
-     "kid": "Pull each X apart. One half goes to each bowl. Count the strips in each bowl.",
+     "say": "Now pull each X apart. One half goes in each bowl. Count the strips. Then try a mistake. Put both halves of one green X in the same bowl.",
+     "kid": "Pull each X apart. One half goes to each bowl. Count the strips in each bowl. Then try the mistake.",
      "ask": [
       {
        "q": "What goes wrong if both halves of one green X go into the same bowl?",
@@ -1499,7 +1499,7 @@
     {
      "day": 7,
      "mins": 10,
-     "what": "Measure both stems. Count the small side shoots on each. Draw both stems."
+     "what": "Measure both stems. Count the small side shoots on each. Take a photo of both stems."
     },
     {
      "day": 14,
@@ -1507,7 +1507,7 @@
      "what": "Measure both stems. Count the side shoots on each. Draw both stems. Say what happened and why."
     }
    ],
-   "record": "Write the height of each stem and the number of side shoots on days 1, 4, 7 and 14. Draw the two stems side by side on each day.",
+   "record": "Write the height of each stem and the number of side shoots on days 1, 4, 7 and 14. Take a photo of the two stems side by side on each day, or draw them.",
    "context": "In this project, you pinch the tip off one stem of a tulsi plant and leave another stem alone. You find out what happens when the growing tip is removed.",
    "setup": [
     {
@@ -1527,9 +1527,9 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "Choose two similar stems. Tie a red thread on one and a blue thread on the other. Measure and draw both. Ask for a guess and a reason about what will happen when you pinch the red stem's tip.",
-     "say": "We will pinch the top two leaves of the red stem and leave the blue one alone. What do you think will happen? Why do you think so?",
-     "kid": "Pinch the top of the red stem. Leave the blue stem. What will happen? Why?",
+     "do": "Choose two similar stems. Tie a red thread on one and a blue thread on the other. Measure both. Ask for a guess and a reason about what will happen when you pinch the red stem's tip. Then pinch off the top two leaves of the red stem only.",
+     "say": "We will pinch the top two leaves of the red stem and leave the blue one alone.",
+     "kid": "Pinch the top two leaves of the red stem. Leave the blue stem alone.",
      "ask": [
       {
        "q": "What do you think will happen to the red stem?",
@@ -1546,7 +1546,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Day 4. Measure both stems. Look at the places where the leaves join the stem. Draw what you see.",
+     "do": "Day 4. Measure both stems. Look at the places where the leaves join the stem. Take a photo, or point and tell your grown-up what you see.",
      "say": "Measure both stems. Look where each leaf joins the stem. Do you see anything new?",
      "kid": "Measure both stems. Look where leaves join the stem.",
      "wait": "Wait until day 4.",
@@ -1555,8 +1555,8 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Day 7. Measure both stems. Count the small side shoots on each. Draw both stems.",
-     "say": "Count the new side shoots on each stem. Which has more? What do you think made the difference?",
+     "do": "Day 7. Measure both stems. Count the small side shoots (new little branches) on each. Take a photo of both stems.",
+     "say": "Count the new little branches, the side shoots, on each stem. Which has more? What do you think made the difference?",
      "kid": "Count the side shoots on each stem. Which has more?",
      "wait": "Wait until day 7.",
      "context": "In this step, you check the stems after a week and count the side shoots."
@@ -1580,7 +1580,7 @@
    "id": "c1",
    "title": "The Longest Root: design the best home for a growing root",
    "mins": 45,
-   "problem": "You want a moong root to grow as long as possible in two days. Design a home for the sprouts using only things in your kitchen, and test it against a plain plate.",
+   "problem": "You want a moong root to grow as long as possible in two days. Design a home for the sprouts using only things in your kitchen, and test it against a second home you make.",
    "constraints": [
     "Use only things you have at home.",
     "No fertiliser, no soil.",
@@ -1621,14 +1621,14 @@
     }
    ],
    "your_turn": "Make two different homes with four seeds in each. Keep both in the same warm place. After two days, measure the longest root in each. Which home won? Why do you think it did?",
-   "context": "This is a design challenge. You use what you learned about roots to make the best home for a growing root, and you test your design against a plain plate.",
+   "context": "This is a design challenge. You use what you learned about roots to make the best home for a growing root, and you test your design against a second home you make.",
    "flow": [
     {
      "id": "s1",
      "mins": 10,
      "do": "Look at the materials. Ask your child to say what a root needs to grow. Write the list.",
-     "say": "What does a growing root need? Tell me everything you can think of. Then we will design two homes and test them.",
-     "kid": "What does a root need to grow? Make a list of everything you can think of.",
+     "say": "What does a growing root need? Then we will design two homes and test them.",
+     "kid": "Look at the materials. Think of everything a root might need.",
      "ask": [
       {
        "q": "What does a root need in order to grow?",

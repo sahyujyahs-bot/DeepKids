@@ -500,7 +500,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each card shows two places or things, A and B. You vote on where the push of the water or the pressure is bigger, and you say why.",
+   "context": "This is a card game. Each card shows two places or things, A and B. You vote on where the push of the water is bigger, and you say why. You find out what makes the push bigger.",
    "setup": [
     {
      "art": "A table with a pile of cards and three vote tokens in front of each player, labelled A is bigger, B is bigger and Same.",
@@ -702,9 +702,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Ask the question below. Let your child think for a moment before they answer.",
+     "do": "Lay the Same cards side by side. Ask the question below. Let your child think for a moment before they answer.",
      "say": "Look at the cards where the answer was Same. The shape or the amount of water was different on each side. What was the same?",
-     "kid": "Which cards had the answer Same? What was the same in them?",
+     "kid": "Find the cards that said Same. Lay them side by side.",
      "ask": [
       {
        "q": "What do the cards with the answer Same have in common?",
@@ -768,7 +768,7 @@
     }
    ],
    "safety": "A grown-up makes the holes. Rest the bottle on a folded cloth and push the compass point or nail into it, away from the body. Keep fingers behind the point. Wet floors are slippery. Wipe up water at once. Keep water away from electric sockets and switches.",
-   "record": "Fill in the table with the three results for each hole. Then draw the bottle with its three jets and show where each one landed.",
+   "record": "Fill in the table with the three results for each hole. Then show where each jet landed: take a photo of the wet spots on the tape measure, or draw the bottle with its three jets.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results (yours will be different)",
@@ -827,7 +827,7 @@
      "mins": 5,
      "do": "Show the bottle, the stool and the jug. Ask your child to guess, and to give a reason. Write the guess down. Do not correct it.",
      "say": "We will make three holes, one high, one in the middle and one low. We fill the bottle with water. Which hole will squirt the farthest? Which will squirt the shortest distance? Why do you think so?",
-     "kid": "A bottle has three holes. Which one squirts the farthest? Why?",
+     "kid": "Look at where the three holes will go. Point to the one you think will squirt farthest.",
      "ask": [
       {
        "q": "Which hole will squirt the farthest, and why?",
@@ -891,7 +891,7 @@
      "mins": 5,
      "do": "1. This time fill the bottle only to 12 centimetres above the base, which is 10 centimetres lower than before. 2. Peel off the tapes again and watch the jets. 3. Compare with the first time.",
      "say": "Now we try a lower water line. Peel off the tapes again. Are the jets longer or shorter? What do you think this tells us about the water above?",
-     "kid": "Lower the water line. Test again. Are the jets longer or shorter?",
+     "kid": "Lower the water line. Test again. Watch the jets.",
      "ask": [
       {
        "q": "What happened to the jets when the water was lower, and why?",
@@ -963,7 +963,7 @@
     }
    ],
    "safety": "Keep water away from electric sockets and switches. Wipe up spills at once, because wet floors are slippery. Do not suck the hose to fill it. Fill it by dipping it in the bucket. Do not drink the coloured water. Skip food colour if anyone at home is allergic to it, and note that haldi and ink stain clothes.",
-   "record": "Fill in the table for the three tests. Then draw the wall, the hose, and the two marks, and write the height of each mark.",
+   "record": "Fill in the table for the three tests. Then show your result: take a photo of the wall and the two marks, or draw it. Write the height of each mark.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results (typical, yours will be different)",
@@ -1022,7 +1022,7 @@
      "mins": 5,
      "do": "Show the hose, the funnel and the wall. Ask your child to guess, and to give a reason. Write the guess down. Do not correct it.",
      "say": "We will fill a long hose with water and use it to mark two spots on a wall, 3 metres apart. Will the two marks be at the same height? Why do you think so?",
-     "kid": "We mark the water level at both ends of a hose full of water, 3 metres apart. Will the two marks be at the same height? Why?",
+     "kid": "Look at the long hose. Tell your grown-up your guess and your reason.",
      "ask": [
       {
        "q": "Will the two marks be at the same height from the floor, and why?",
@@ -1116,7 +1116,7 @@
    "title": "Tap Survey: which tap fills a litre the fastest?",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you time how long each tap in your home takes to fill a one-litre bottle. You look for a pattern, and ask what else, besides the push of the water, could change the speed.",
+   "context": "In this activity you time how long each tap in your home takes to fill a one-litre bottle. You find out which tap is the fastest, and whether the push of the water can explain it.",
    "materials": [
     {
      "item": "a 1 litre bottle or measuring jug (a bottle with a wide mouth catches the water best)",
@@ -1164,7 +1164,7 @@
      "mins": 5,
      "do": "Walk round the home with your child and list the taps. Ask for a guess about which will be fastest and which will be slowest. Write the guesses down.",
      "say": "Let's find all the taps in our home. Which will fill a litre bottle the fastest? Which will be the slowest? Why do you think so?",
-     "kid": "List every tap. Which will be the fastest? Which the slowest? Why?",
+     "kid": "List every tap. Point to the one you think is the fastest.",
      "ask": [
       {
        "q": "Which tap do you think is fastest, and why?",
@@ -1208,9 +1208,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask the question below.",
+     "do": "Ask your child to think of one thing that was not the same for every tap. Then ask the question below.",
      "say": "Was this a fair test? What would we need to change to make it fairer?",
-     "kid": "Was this a fair test? What would make it fairer?",
+     "kid": "Think of one thing that was not the same for every tap.",
      "think": "Name two things, besides the height of the tap, that could change how fast it fills a bottle.",
      "parent": "The answer is no, it was not a fully fair test. Taps have pipes of different widths and different designs. Other taps may also be open at the same time. To make it fairer, close all the other taps. Then time the same tap at a busy time and at a quiet time. Two things besides height that change the speed are the width of the pipe and how many other taps are open."
     }
@@ -1256,7 +1256,7 @@
      "what": "Make four holes in a ring. Fill the bottle to the brim. Squeeze it and watch the four jets."
     }
    ],
-   "record": "Draw the bottle from above, with the four jets as arrows. Write if the four jets were the same or different.",
+   "record": "Show what the jets did: act it out with your hands, or draw the bottle from above with the four jets as arrows. Then say or write if the four jets were the same or different.",
    "setup": [
     {
      "art": "A bottle with four small holes in a ring around its middle, each covered with a piece of tape.",
@@ -1277,7 +1277,7 @@
      "mins": 5,
      "do": "1. A grown-up makes four holes in a ring around the bottle, 5 centimetres above the base. 2. Cover each hole with a piece of tape. 3. Ask your child to guess what will happen when the bottle is squeezed.",
      "say": "The bottle has four holes, all at the same height. When we squeeze the bottle, what will the four jets do? Will they be the same or different? Why do you think so?",
-     "kid": "A grown-up makes four holes. When you squeeze, what will the jets do? Why?",
+     "kid": "Look at the four taped holes. Tell your grown-up your guess.",
      "adult": true,
      "ask": [
       {
@@ -1321,9 +1321,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask the question below.",
+     "do": "Let your child think, then ask the question below.",
      "say": "Your hand squeezed one side. Why did the water shoot out of all four holes?",
-     "kid": "You squeezed one side. Why did all four jets shoot out?",
+     "kid": "Think about where your push went.",
      "check": {
       "t": "mcq",
       "q": "You squeezed one side of the bottle, and the water shot out of four holes at once. What does this show?",
@@ -1344,7 +1344,7 @@
    "title": "Draw the Push: arrows on a dam wall",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you draw a dam wall with water behind it, and draw arrows to show the push of the water at different depths. Then you design the wall.",
+   "context": "In this activity you find out why a dam wall is thick at the bottom. You draw arrows to show the push of the water at different depths. Then you shape the wall to match.",
    "materials": [
     {
      "item": "2 sheets of plain paper and a ruler",
@@ -1370,7 +1370,7 @@
      "what": "Look at pictures of dams. Draw the push of the water as arrows. Design a wall that holds it."
     }
    ],
-   "record": "A drawing of a dam from the side, with arrows of push at five depths and a wall that is thicker at the bottom.",
+   "record": "A drawing of a dam from the side, with arrows of push at five depths and a wall that is thicker at the bottom. A photo of your book wall also counts.",
    "setup": [
     {
      "art": "A phone showing a photo of a dam wide at the bottom and narrower at the top, held next to a sheet of paper.",
@@ -1391,7 +1391,7 @@
      "mins": 5,
      "do": "Look at pictures of two or three dams. Ask your child what they notice about the shape of the wall.",
      "say": "Look at these dams. What do you notice about the shape of the wall? Is it the same width at the top and at the bottom?",
-     "kid": "Look at the dams. What do you notice about the wall's shape?",
+     "kid": "Look closely at the shape of each wall.",
      "ask": [
       {
        "q": "What do you notice about the shape of a dam wall?",
@@ -1409,16 +1409,16 @@
      "id": "s2",
      "mins": 10,
      "do": "1. Draw a tall wall on the right side of the paper. 2. Draw water on the left, up to near the top. 3. Mark five depths on the wall, 2 centimetres apart. 4. Draw an arrow at each depth. 5. Make the top arrow 1 centimetre long, and each one below 1 centimetre longer. 6. Check with the ruler: the arrow at 10 centimetres depth is five times the arrow at 2 centimetres.",
-     "say": "Draw the water and the wall. Mark five depths. At each depth, draw an arrow pushing on the wall. The deeper the depth, the longer the arrow.",
+     "say": "Draw the water and the wall. Mark five depths. At each depth, draw an arrow pushing on the wall. The deeper the water, the longer the arrow.",
      "kid": "Draw the wall and the water. Draw five arrows. Deeper means longer.",
      "parent": "The arrows should get longer in even steps, because the push grows evenly with depth. The top arrow is the shortest. Ask your child to predict the length of the bottom arrow before drawing it, then check. With 2 to 4 children, each draws their own dam and then compares which arrow lengths match."
     },
     {
      "id": "s3",
      "mins": 7,
-     "do": "1. Draw a thick wall that is strong enough at each depth. 2. Make it thin at the top and thick at the bottom. 3. Label the thickest and thinnest places.",
-     "say": "Now draw the wall. Where does it need to be thickest? Where can it be thinner? Label them.",
-     "kid": "Draw the wall. Make it thickest where the push is biggest.",
+     "do": "1. Show a wall that is strong enough at each depth. Draw it, or stack books to make it. 2. Make it thin at the top and thick at the bottom. 3. Say or label the thickest and thinnest places.",
+     "say": "Now make the wall, by drawing it or stacking books. Where does it need to be thickest? Where can it be thinner?",
+     "kid": "Make the wall thickest where the push is biggest.",
      "check": {
       "t": "mcq",
       "q": "Where does a dam wall need to be the thickest?",
@@ -1478,7 +1478,7 @@
      "what": "Drink through a plain straw. Then through a straw with a hole. Then through a straw in a sealed bottle. Explain what you find."
     }
    ],
-   "record": "Draw the three straws, and write if you could drink or not through each one.",
+   "record": "For each of the three straws, say or write if you could drink through it or not. Then tell your grown-up why the sealed bottle was different.",
    "setup": [
     {
      "art": "A child drinking through a plain straw from a glass of juice.",
@@ -1499,7 +1499,7 @@
      "mins": 4,
      "do": "Give your child a plain straw and a glass of water. Ask for a guess about what will happen with a hole in the straw, and for a reason.",
      "say": "Drink through a plain straw. It works. Now we will put a hole in a straw. Will you still be able to drink? Why do you think so?",
-     "kid": "Drink with a plain straw. Will a straw with a hole work? Why?",
+     "kid": "Drink with a plain straw. Then guess what happens with a hole.",
      "ask": [
       {
        "q": "Will a straw with a hole in it work, and why?",
@@ -1544,9 +1544,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask the question below.",
+     "do": "Let your child answer in their own words, then ask the question below.",
      "say": "Drinking feels like sucking. What is really happening to the drink? What is doing the pushing?",
-     "kid": "What is really happening when you drink through a straw?",
+     "kid": "Think about what is really lifting the drink.",
      "think": "If you had a very long straw, do you think you could drink from a glass on the floor while standing on a roof? Why or why not?",
      "parent": "The air outside pushes the drink up the straw, and this push can lift water only about 10 metres. If the roof is higher than that, you could not drink from the glass on the floor, however hard you suck. On a lower roof it would still work."
     }
@@ -1559,7 +1559,7 @@
    "title": "The Syringe Arm: a robot arm worked by water",
    "days": 2,
    "mins": 70,
-   "context": "In this project you join syringes with tubes of water, and use them to move a cardboard arm. You find out how a push travels through water to move something far away.",
+   "context": "In this project you join syringes with tubes of water, and use them to move a cardboard arm. A syringe is a plastic tube with a plunger that you push in or pull out. You find out how a push travels through water to move something far away.",
    "materials": [
     {
      "item": "4 plastic syringes of 10 millilitres (Rs 5 to 10 each at a medical shop), with no needle",
@@ -1598,7 +1598,7 @@
      "what": "Build the cardboard arm. Fix a syringe pair to a joint. Test it and improve it."
     }
    ],
-   "record": "A drawing of the arm with its syringes and tubes, and a note of what you changed.",
+   "record": "A photo or drawing of the arm with its syringes and tubes, and a note of what you changed and what happened.",
    "setup": [
     {
      "art": "Two syringes joined by a clear tube full of coloured water, one plunger pushed in and the other pushed out.",
@@ -1619,7 +1619,7 @@
      "mins": 8,
      "do": "Show your child the syringes and the tube. Ask what will happen if the two syringes are joined with water between them, and one plunger is pushed.",
      "say": "Two syringes are joined by a tube full of water. If I push one plunger in, what will the other plunger do? Why do you think so?",
-     "kid": "Two syringes are joined by a tube full of water. You push one plunger in. What happens to the other? Why?",
+     "kid": "Look at the two joined syringes. Tell your grown-up your guess.",
      "ask": [
       {
        "q": "What will the other plunger do, and why?",
@@ -1689,7 +1689,7 @@
    "id": "c1",
    "title": "The Farthest Squirt",
    "mins": 40,
-   "context": "This is a design challenge. You use one bottle and one hole to make a jet of water that lands as far away as you can.",
+   "context": "This is a design challenge. You use one bottle and one hole to make a jet of water that lands as far away as you can. You find out which changes make the jet go farther, and which do not.",
    "problem": "You have one 2 litre bottle with the cap off, and you may make one hole in it. Make the jet land as far from the bottle as possible. You may choose the height of the hole, the depth of the water and the height of the bottle above the floor. You may also put a tilted straw in the hole. For the straw, the hole is made about 6 millimetres wide, so that the straw fits.",
    "constraints": [
     "Use only one hole, about 2 millimetres wide, made by a grown-up. For the straw design, a grown-up widens the hole to fit the straw, about 6 millimetres.",
@@ -1715,7 +1715,7 @@
     "Put the bottle on the edge of a table, and let the jet fall to the floor, which is farther down than a stool.",
     "Make the hole in the middle of the bottle instead of near the bottom, and compare. Does the answer change if the stool is low?"
    ],
-   "your_turn": "Now invent your own design. Draw it, build it, measure it and show it. Which design went the farthest? Why do you think it worked best?",
+   "your_turn": "Now invent your own design. Build it, measure it and show it. You can sketch it too. Which design went the farthest? Why do you think it worked best?",
    "setup": [
     {
      "art": "A bottle on a high table with a hole near the bottom and a bent straw in the hole pointing upwards, and a long jet arching to the floor.",
@@ -1734,9 +1734,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem aloud. Ask your child to sketch two or three designs, and to say which one they think will go farthest and why.",
-     "say": "You have one bottle and one hole. How could you make the jet go as far as possible? Sketch two ideas first. Which one do you think will win? Why?",
-     "kid": "Sketch two designs. Which will go farthest? Why?",
+     "do": "Read the problem aloud. Ask your child to plan two or three designs. They can sketch them or point at the bottle. Then ask which one will go farthest, and why.",
+     "say": "You have one bottle and one hole. How could you make the jet go as far as possible? Tell me two ideas first. Which one do you think will win? Why?",
+     "kid": "Think of two designs. Which do you think will win?",
      "ask": [
       {
        "q": "What would make a jet go farther?",
@@ -1753,8 +1753,8 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "1. A grown-up makes the hole for the first design. 2. Fill the bottle to the line. 3. Top up from the jug. 4. Mark where the jet lands and read the distance. 5. Do it three times and write the middle number.",
-     "say": "Build your first design. Fill to the line, and keep topping up. Mark where the jet lands. Do it three times. Write the middle number. This is the number to beat.",
+     "do": "1. A grown-up makes the hole for the first design. 2. Fill the bottle to the water line you chose. 3. Top up from the jug. 4. Mark where the jet lands and read the distance. 5. Do it three times and write the middle number.",
+     "say": "Build your first design. Fill to your water line, and keep topping up. Mark where the jet lands. Do it three times. Write the middle number. This is the number to beat.",
      "kid": "Build your first design. Test it three times. Write the middle number.",
      "adult": true,
      "parent": "The first number is the one to beat. Write it large. With one child, the parent pours and the child reads the landing spot. With 2 to 4 children, each invents one design and they take turns pouring, marking and recording. The bigger straw hole drains the bottle quickly, so fill high and measure early."
@@ -1782,7 +1782,7 @@
      "mins": 4,
      "do": "Ask your child to tell you what made the biggest difference.",
      "say": "Which change helped the most? Why do you think it helped?",
-     "kid": "Which change helped the most? Why?",
+     "kid": "Tell your grown-up which change helped the most.",
      "think": "If you wanted to squirt water as far as you could from a tall building, would you rather have a hole near the bottom of the tank, or near the top? Why?",
      "parent": "Near the bottom. The hole near the bottom has the most water above it. So the push is biggest there, and the jet is strongest."
     }

@@ -245,9 +245,9 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 - **Printable cards: 24 two-sided cards: a thing that happens at home on the front, and the answer with the right word tokens on the back:** A steel katori falls on the floor and keeps its shape. (back: Solid. Tokens: Close together, Held in place.); Water from a jug takes the shape of the tumbler. (back: Liquid. Tokens: Close together, Slide past each other.); The smell of tadka reaches the bedroom. (back: Gas. Tokens: Far apart, Fly about. Moving air carries the smell too.); Ghee is runny in a hot pan and firm when it comes out of the fridge. (back: Changing. The same ghee is a solid when cool and a liquid when warm, as its particles jiggle harder. Tokens: Jiggle on the spot, Slide past each other.); You push the plunger of a syringe full of air, and it goes in half way. (back: Gas. Tokens: Far apart, Empty space between.); You push the plunger of a syringe full of water, and it hardly moves. (back: Liquid. Tokens: Close together, Slide past each other.); An ice cube sits on a plate in the sun and slowly turns to water. (back: Changing. The particles jiggle harder until they break out of their places. Tokens: Jiggle on the spot, Held in place.); A kettle's steam is invisible right at the spout. (back: Gas. Water vapour is a gas you cannot see. The white cloud further out is tiny drops of liquid water. Tokens: Far apart, Fly about.); Sand pours from your fist and heaps up on the floor. (back: Solid. It is many solid grains, and each grain has its particles held in place. Tokens: Close together, Held in place.); A balloon left in the sun gets tight. (back: Gas. The hotter air particles fly faster and hit the skin harder. Tokens: Fly about, Hit the walls.); Honey flows slowly from a jar. (back: Liquid. Tokens: Close together, Slide past each other.); A bicycle tyre feels hard. (back: Gas. Many air particles are squeezed in, and they hit the inside wall very often. Tokens: Fly about, Hit the walls.); The handle of a steel spoon gets warm when the bowl is in hot tea. (back: Solid. The jiggling passes from particle to particle along the spoon. Tokens: Jiggle on the spot, Held in place.); A camphor tablet in the open gets smaller, and you can smell it. (back: Changing. Particles leave the solid and fly into the air as a gas. Tokens: Fly about, Far apart.); A pump pushes air into a football. (back: Gas. More particles fit into the same space, so they hit the wall more often. Tokens: Hit the walls, Empty space between.); A drop of red colour spreads through a still glass of water over many hours. (back: Liquid. The particles are close, so they bump into each other a lot, and the spreading is slow. Tokens: Close together, Slide past each other.); A cup of water poured onto a wide plate is still a cup of water. (back: Liquid. The shape changes but the amount stays the same, because the particles are still touching. Tokens: Close together, Slide past each other.); Candle wax drips and then sets hard. (back: Changing. The wax particles slow down as they cool and become held in place. Tokens: Slide past each other, Held in place.); Wet clothes on the line are dry by evening. (back: Changing. Water particles escape from the liquid and fly off into the air. Tokens: Fly about, Far apart.); A steel ladle stays hard in boiling water. (back: Solid. The steel particles are held in place even when they jiggle faster. Tokens: Jiggle on the spot, Held in place.); The steam inside a closed cooker pushes on the lid. (back: Gas. Tokens: Fly about, Hit the walls.); A salt crystal has flat shiny faces. (back: Solid. The particles are stacked in neat rows. Tokens: Close together, Held in place.); Juice from a packet is poured into a glass. (back: Liquid. Tokens: Close together, Slide past each other.); You open a bottle of fizzy soda and hear a hiss. (back: Gas. Gas that was squeezed into the drink escapes into the air. Tokens: Far apart, Fly about.)
 - **Printable tokens: 8 word tokens: one word or short phrase on each:** Close together; Far apart; Held in place; Slide past each other; Fly about; Jiggle on the spot; Hit the walls; Empty space between
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw the mat with four columns. 2. Cut out the cards and tokens. 3. Shuffle the cards and put them in a pile, fronts up.  
+  *Parent does:* 1. Make the mat: draw or fold a sheet into four columns called Solid, Liquid, Gas and Changing. 2. Cut out the cards and tokens. 3. Shuffle the cards and put them in a pile, fronts up.  
   *Parent says:* This game is about particles. Each card is something that happens at home. You decide which column it goes in, and explain it with two word tokens.  
-  *Child mode:* Draw four columns. Cut out the cards and tokens. Shuffle the cards.
+  *Child mode:* Make four columns: Solid, Liquid, Gas, Changing. Cut out the cards and tokens. Shuffle the cards.
 - **s2 (4 min)**  
   *Parent does:* Play one practice card together. Read the steel katori card. Do not keep the points.  
   *Parent says:* Read the card. Which column does it go in? Pick two tokens that explain it. Then we check the back together.  
@@ -268,7 +268,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 - **s5 (3 min)**  
   *Parent does:* Ask the question below. Let your child think for a moment before they answer.  
   *Parent says:* Look at the Changing cards. What do ice, ghee, wax and camphor have in common?  
-  *Child mode:* Look at the Changing cards. What do they have in common?
+  *Child mode:* Pick up the Changing cards and look at them one by one.
   - Ask: What do the Changing cards have in common? (good: Particles speed up or slow down.; The same stuff is in a different state.; Heat changes how the particles move.)
   - Note: Good answers are ice melting in a drink, ghee melting in a hot pan and setting again, wet clothes drying, or steam from a kettle. In each one, the same stuff is in a different state because its particles are moving differently.
   - Think: Can you think of something at home that goes through a change like this every day?
@@ -279,12 +279,12 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 - **predict:** Before you start, guess. How many cups will still show some colour? Will a second colour, such as blue, go further or less far than red? Why do you think so?
 - **fair test:** Every cup has the same amount of water, ten teaspoons in all. Every spoonful passed on is exactly one level teaspoon, and you stir the same way each time. The cups sit on the same white paper in the same light. Only the colour changes between the red row and the blue row, so any difference comes from the colour.
 - **safety:** Food colour stains clothes, skin and kitchen surfaces. Wear old clothes and wipe spills at once. Keep it away from the eyes. The coloured water is only for looking at. Do not drink it. Some children react to food dyes, so a child who does should only watch, and wear gloves or wash hands afterwards.
-- **record:** Fill in the table for the red row. Then draw the row of cups and colour each cup as dark as you saw it. Do the same for the blue row.
+- **record:** Fill in the table for the red row. Then show the row of cups as you saw it: colour each cup as dark as it was, or take a photo of the row. Do the same for the blue row.
 - **results table:** Cup | Colour in this cup compared with cup 1 | Can you see colour? (yes, faint or no) | Red or blue
 - **s1 (5 min)**  
   *Parent does:* Show the cups, the colour and the spoon. Ask for a guess about how many cups will show colour, and for a reason. Write the guess down.  
   *Parent says:* We will put one drop of colour in a cup of water. Then we will pass one spoonful to the next cup, again and again. How many cups will have colour? Why do you think so?  
-  *Child mode:* One drop of colour goes into the first of six cups. How many cups will show colour? Why do you think so?
+  *Child mode:* Look at the six cups and the colour. Make a guess about how far one drop will go.
   - Ask: How many cups do you think will show colour, and why? (good: Only two, because the drop is so small.; All six, because colour never goes away.; Three or four, because the colour gets thinner each time.)
   - Note: Do not correct the guess. Most children guess two or three. Write the guess at the top of the table.
 - **s2 (5 min)**  
@@ -294,8 +294,8 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   - Note: Measure with level teaspoons, not heaped ones. The nine spoons plus the one spoonful that comes in make ten, so every cup holds the same amount in the end.
 - **s3 (4 min)**  
   *Parent does:* 1. Hold the dropper above cup 1. 2. Let one drop fall in. 3. Stir with the second spoon for 10 seconds. 4. Look at the colour from above.  
-  *Parent says:* Hold the dropper over cup 1 and let one drop fall. Stir for ten seconds. What do you see? How much of the cup has the colour reached?  
-  *Child mode:* Let one drop fall into cup 1. Stir. What do you see?
+  *Parent says:* Hold the dropper over cup 1 and let one drop fall. Stir for ten seconds. Look at the cup from above.  
+  *Child mode:* Let one drop fall into cup 1. Stir it. Watch the colour spread.
   - Ask: What do you see after you stir? What do you wonder? (good: The whole cup is pink.; One drop made all this colour.; Where did the colour go?)
   - Note: Cup 1 should be a strong pink or red. If it looks pale, add one more drop and write 2 drops in the table.
 - **s4 (8 min)**  
@@ -326,12 +326,12 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 - **predict:** Before you start, guess. How far will the plunger go in when the syringe is full of air? How far when it is full of water? What will happen if the water has a small bubble of air in it? Why do you think so?
 - **fair test:** You use the same syringe, the same starting amount of 10 millilitres, the same finger seal and the same push each time. You try each test three times and use the middle number. Only what is inside the syringe changes.
 - **safety:** Use only a syringe with no needle. Never point a syringe at a face or an eye. Keep the small parts away from children under five. Hold the plunger firmly, because it can spring back. Work over a tray or in the kitchen sink, because the seal may leak and squirt water. Do not use a syringe that has been used for medicine unless it is washed well.
-- **record:** Fill in the table with the numbers. Then draw a picture of the air in the syringe before and after you push, showing the particles as dots.
+- **record:** Fill in the table with the numbers. Then draw the air in the syringe before and after you push, with the particles as dots. Or show it with buttons or grains and take a photo.
 - **results table:** What is inside the syringe | Start amount (millilitres) | Amount after pushing (millilitres) | How much it squashed (millilitres)
 - **s1 (4 min)**  
   *Parent does:* Show your child the syringe. Pull the plunger out and in a few times. Ask for a guess and a reason.  
   *Parent says:* This is a syringe with no needle. We will seal the end and push the plunger. What will happen with air inside? With water inside? Why do you think so?  
-  *Child mode:* You will seal the end of the syringe and push the plunger. What will happen with air inside? With water inside? Why?
+  *Child mode:* Pull the plunger out and in. Feel how easily it moves. Then make a guess about air and water.
   - Ask: What do you think will happen when you push the plunger, and why? (good: The air will squash, because it is light.; Neither will squash, because the end is blocked.; The water will squash more, because it is wet.)
   - Note: Do not correct the guess. Any guess with a reason is good. Write the guesses at the top of the table.
 - **s2 (4 min)**  
@@ -352,7 +352,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   - Note: The plunger may move a tiny amount or not at all, and a finger seal may leak a drop. Write 0 or about 0. If water squirts out the sides, press the tip into a rubber eraser or clay instead of a finger. Tap out every bubble first, or you will be measuring the bubble.
   - Check: The plunger hardly moved when the syringe was full of water. Why? → **The water particles are touching, so there is no empty space to squash them into**
 - **s5 (6 min)**  
-  *Parent does:* 1. Draw up 9 millilitres of water. 2. Pull the plunger back to 10 millilitres, to let in a small bubble of air. 3. Seal the end. 4. Push as hard as you can and read the mark. 5. Do it three times.  
+  *Parent does:* 1. Draw up 9 millilitres of water. 2. Lift the tip out of the water. 3. Pull the plunger back to 10 millilitres to let in a small bubble of air. 4. Seal the end. 5. Push as hard as you can and read the mark. 6. Do it three times.  
   *Parent says:* Now put a small bubble of air in with the water. Seal the end and push. How far does the plunger go this time? What squashed, the water or the bubble?  
   *Child mode:* Put water and a small bubble of air in the syringe. Seal the end and push. What squashed?
   - Note: The mix should squash by less than the size of the bubble, because only the bubble can squash. This shows that the water was not squashing. The bubble was.
@@ -362,15 +362,15 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Child mode:* Look at the table. Which squashed most? Which squashed least?
   - Note: Air squashes a lot, water almost not at all, and water with a bubble squashes by about the bubble's size.
 - **s7 (5 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then ask them to draw the air particles before and after pushing.  
-  *Parent says:* Tell me three things. What do you think? What did you see? Why did it happen? Then draw the air particles before and after.  
-  *Child mode:* Say what you think, what you saw, and why. Then draw the air particles.
+  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then ask them to use ten buttons or rice grains on a plate. They show how the air particles sit before and after pushing.  
+  *Parent says:* Tell me three things. What do you think? What did you see? Why did it happen? Then use ten buttons or grains to show me the air particles before and after.  
+  *Child mode:* Say what you think, what you saw, and why. Then show the air particles with ten buttons or grains.
   - Note: This is claim, evidence and reasoning. A good answer: What I think: air has empty space between its particles. What I saw: the air squashed to about half and sprang back, and the water did not move. Why: air particles are far apart, so they can be pushed closer. Water particles already touch. In the drawing, the particles should be the same size before and after, just closer together after. For the last question: at last the particles would touch each other, and there would be no empty space left to squeeze them into. Then the air would be as hard to squeeze as a liquid.
   - Think: If you kept squeezing the air in the syringe harder and harder, what do you think would stop you at last?
 
 ## Activities
 ### a1 · Rice Tray Crowds: a model of a solid, a liquid and a gas (15 min)
-- **record:** Draw three pictures of the rice: packed in rows, sliding in a pile, and flying about in the box. Write solid, liquid or gas under each.
+- **record:** Show the three crowds of rice: packed in rows, sliding in a pile, and flying about in the box. Draw them, or tell a grown-up what each one looked like. Say solid, liquid or gas for each.
 - **s1 (4 min)**  
   *Parent does:* 1. Spread rice grains in a single layer on the plate so they touch. 2. Shake the plate very gently from side to side. 3. Watch the grains.  
   *Parent says:* Pack the rice close, in a single layer. Shake the plate very gently. What do the grains do? Do they move around the plate?  
@@ -390,9 +390,9 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   - Ask: What do you hear and feel when the grains hit the box? (good: Rattling on every wall.; A push on my hands.; The grains fly all over the box.)
   - Note: The grains hit all the walls and the lid, and you hear and feel it. Shake harder, and it is louder. This is a model of gas pressure.
 - **s4 (3 min)**  
-  *Parent does:* Ask the question below. Then ask your child to draw the three crowds and write solid, liquid or gas under each.  
-  *Parent says:* Rice grains are not particles. They are big, they touch, and they are solid. Where does this model get things wrong for a gas?  
-  *Child mode:* Where does the rice model get things wrong?
+  *Parent does:* Ask your child to point to each shake in turn and name it: solid, liquid or gas. Then ask the question below.  
+  *Parent says:* Name each shake: solid, liquid or gas. Rice grains are big and solid, so they are not real particles. Where does this model get a gas wrong?  
+  *Child mode:* Which shake was the solid, which the liquid, which the gas? Then think about the gas.
   - Note: To make the box a better model of a gas, use far fewer grains and a much bigger box. Then the grains would be far apart, with empty space between them, and each one would fly until it hits a wall or another grain.
   - Check: Where does the rice model get a gas wrong? → **The grains in a gas model should be much further apart, with nothing between them**
   - Think: What would you need to change to make the box a better model of a gas?
@@ -402,7 +402,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 - **s1 (5 min)**  
   *Parent does:* 1. Fill the jug to the 300 millilitre line with chana. 2. Shake it gently so it settles. 3. Top up to the line if needed. 4. Ask your child to guess how much more would fit.  
   *Parent says:* The jug is full of chana to the 300 line. Is it really full? How many millilitres of mustard seeds do you think we can still add? Why do you think so?  
-  *Child mode:* The jug is full of chana. Can anything more fit? Why?
+  *Child mode:* Look at the jug of chana. Guess how much more could fit.
   - Ask: Is the jug really full? What could still fit? (good: Small seeds could slide between the chana.; Nothing, because it is full.; Water could go in the gaps.)
   - Note: Do not correct the guess. Write down the guess in millilitres.
 - **s2 (6 min)**  
@@ -444,12 +444,12 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   - Check: The label on a salt packet lists salt and a tiny bit of iodine. Is the salt in the packet one substance or a mixture? → **Nearly one substance, with a tiny extra bit**
 - **s4 (2 min)**  
   *Parent does:* Ask the question below.  
-  *Parent says:* Why can't we say for sure that any packet is one pure substance?  
-  *Child mode:* Why is it hard to find a perfectly pure substance?
+  *Parent says:* Pure means only one substance, with nothing else mixed in. Do you think any packet here is perfectly pure? Why?  
+  *Child mode:* Is any packet perfectly pure? Why or why not?
   - Note: Almost every packet has a tiny amount of something else in it, such as iodine in salt. To make a really pure substance, scientists must take out even those tiny amounts. That needs special equipment.
   - Think: Why might a scientist need special equipment to make a really pure substance?
 ### a4 · Draw the Particles: six things and one rule book (25 min)
-- **record:** Six particle drawings: a steel spoon, water in a glass, steam, air in a football, set ghee from the fridge and ghee melted in a hot pan. Each one has the name under it.
+- **record:** Three particle drawings (a steel spoon, water in a glass, steam) and three grain plates photographed (air in a football, set ghee from the fridge, ghee melted in a hot pan). Each one has its name with it.
 - **s1 (4 min)**  
   *Parent does:* Read the five rules to your child. 1. All particles of one substance look the same. 2. Solid particles touch and sit in neat rows. 3. Liquid particles touch but are jumbled. 4. Gas particles are far apart. 5. Add small arrows to show how the particles move.  
   *Parent says:* Here are five rules for drawing particles. Say them back to me in your own words. Which rule would be hardest to draw?  
@@ -457,21 +457,21 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   - Ask: Which rule do you think is the hardest to draw? (good: Showing how fast they move.; Drawing them far apart in a gas.; Making all the particles look the same.)
   - Note: Write the rules where you can see them. In short: particles of one substance look the same, solids are in rows, liquids are jumbled, gases are far apart, and arrows show movement.
 - **s2 (10 min)**  
-  *Parent does:* Draw six boxes on paper. Draw the particles in each box. The six are a steel spoon, water in a glass, steam, the air in a football, set ghee from the fridge and ghee melted in a hot pan.  
-  *Parent says:* Draw the particles in each box. Use the rules. Think about how close they are and how they move. Add small arrows.  
-  *Child mode:* Draw the particles in each box. Use the rules. Add arrows.
+  *Parent does:* Draw three boxes on paper and draw the particles of a steel spoon, water in a glass and steam. For the other three, build the particles on a plate from rice grains or buttons, and take a photo of each: the air in a football, set ghee from the fridge, and ghee melted in a hot pan.  
+  *Parent says:* Draw the first three and build the last three from grains. Use the rules. Think about how close the particles are and how they move. Add small arrows to the drawings.  
+  *Child mode:* Draw three things and build three. Use the rules.
   - Note: Let your child draw first, and do not correct while they draw. For ghee, the picture changes from rows to jumble. Ask which rule they are using for each. In hot weather ghee on the shelf is already soft or runny, so use ghee that has been in the fridge. Each child can draw alone and then swap with one other. So it works with 2 to 4 children, or with one child and a parent.
   - Check: In your drawing, how are the steam particles different from the water particles? → **They are further apart**
 - **s3 (8 min)**  
-  *Parent does:* 1. Swap your sheet with a partner. 2. Check each drawing against the five rules. 3. Put a tick when a rule is followed. 4. Put a question mark when it is not.  
-  *Parent says:* Swap with your partner. Check each box against the rules. Tick if a rule is followed. Put a question mark if not. Tell your partner why.  
-  *Child mode:* Swap drawings. Check each box against the rules. Put a tick or a question mark.
+  *Parent does:* 1. Swap your sheet with a partner. 2. Check each drawing and each plate against the five rules. 3. Put a tick when a rule is followed. 4. Put a question mark when it is not.  
+  *Parent says:* Swap with your partner. Check each drawing and plate against the rules. Tick if a rule is followed. Put a question mark if not. Tell your partner why.  
+  *Child mode:* Swap with your partner. Check each one against the rules. Put a tick or a question mark.
   - Ask: Which rule was easiest to break by mistake? (good: Showing the particles all the same.; Drawing gas particles too close.; Forgetting the arrows.)
   - Note: Aim for kind feedback: one tick and one idea for each drawing.
 - **s4 (3 min)**  
-  *Parent does:* Ask your child to choose one drawing and fix it. Then ask the question below.  
-  *Parent says:* Pick one drawing and fix it. Then tell me, what does a drawing like this leave out?  
-  *Child mode:* Fix one drawing. What does a drawing leave out?
+  *Parent does:* Ask your child to choose one drawing or plate and fix it. Then ask the question below.  
+  *Parent says:* Pick one drawing or plate and fix it. Then tell me, what does a model like this leave out?  
+  *Child mode:* Fix one. What does a model like this leave out?
   - Note: A flat drawing cannot show that real particles are always moving, very fast and in every direction. It also cannot show that they are in three dimensions, in front of and behind each other. Arrows are the best we can do.
   - Think: A drawing is flat and still. What is real about particles that a flat, still picture cannot show well?
 
@@ -479,16 +479,16 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 ### p1 · A Picture Book of the Three Crowds: teach a younger child (60 min, 3 days)
 - **safety:** A grown-up uses the stapler, or the pages can be tied with thread. Keep the stapler away from small children.
 - **record:** The finished picture book, and a list of the questions the younger child asked.
-- **schedule:** day 1: Plan eight pages. Draw the cover and the solid, liquid and gas pages. (20 min); day 2: Draw the changing page, the squashing page and the smell page. Write the words. (20 min); day 3: Read the book to a younger child. Write down their questions. Improve one page. (20 min)
+- **schedule:** day 1: Plan eight pages. Make the cover and the solid, liquid and gas pages. (20 min); day 2: Make the changing page, the squashing page and the smell page. Write the words. (20 min); day 3: Read the book to a younger child. Write down their questions. Improve one page. (20 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Fold the paper into a book. 2. Plan the eight pages: cover, solid, liquid, gas, changing, squashing, smell, and what is in the gaps. 3. Draw the cover and the first three pages.  
-  *Parent says:* Plan your book first. It has eight pages. Which three crowds will you draw first? What example from home will you use for each?  
-  *Child mode:* Plan eight pages. Draw the cover and the solid, liquid and gas pages.
+  *Parent says:* Plan your book first. It has eight pages. Which three pages come first: solid, liquid and gas? What example from home will you use for each?  
+  *Child mode:* Plan eight pages. Make the cover and the solid, liquid and gas pages. Draw them, or stick on photos.
   - Note: Encourage real examples from the tests: the rice tray, the syringe and the cups of colour. With 2 to 4 children, each draws two or three pages of the same book and they read it together. If there is no younger child nearby, read it to a parent or grandparent, and ask them to pretend to be five years old.
 - **s2 (20 min)**  
   *Parent does:* 1. Draw and write the changing page, the squashing page and the smell page. 2. Use the words particle, gap and pressure. 3. Write one sentence on each page.  
-  *Parent says:* Now draw the other pages. Write one sentence on each. Use the words particle and gap. Explain it so a six year old could follow.  
-  *Child mode:* Draw and write the other pages. One sentence on each page.
+  *Parent says:* Now make the other pages, drawing or sticking on photos. Write one sentence on each. Use the words particle, gap and pressure. Explain it so a six year old could follow.  
+  *Child mode:* Make and write the other pages. One sentence on each page.
   - Ask: How will you explain a gap to a younger child? (good: Empty space between the particles.; Like the room between chairs in a hall.; A place where there is nothing.)
   - Note: Each sentence should be 12 words or fewer. If your child uses a hard word, ask them to explain it in a plain way.
 - **s3 (10 min)**  
@@ -507,7 +507,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
 ### c1 · Prove That Air Is Something (30 min)
 - **problem:** A friend says the room is empty because there is nothing in the air. She will not believe you if you only say that air is made of particles. Find a way to show her that air is something real, without using a syringe.
 - **safety:** Hit the end of the ruler with a flat hand, not hard, and keep your face away from it. A wooden ruler can snap, so use a plastic one or a thin flat stick. Keep plastic bags and balloons away from the faces of small children, and put burst balloon pieces in the bin, because they are a choking risk. Wipe up spilt water at once.
-- **your turn:** Now invent your own test. Draw it, try it, and show your friend. Which of your tests would be the most convincing for a person who does not believe in air? Why?
+- **your turn:** Now invent your own test. Try it, and show your friend. Which of your tests would be the most convincing for a person who does not believe in air? Why?
 - **constraints:** You may use only things from your kitchen and your home.; You must show the result in a way your friend can see, feel or hear.; You may not use a syringe or a pump.; Your test must work again if your friend asks you to repeat it.
 - **general:** Push an upside-down glass straight down into a bucket of water. The air inside stops the water from coming in, and you see the water level stay low inside the glass.; Blow up a balloon and tie it. Squeeze it, and feel the springy air push back. Let the air out slowly on your hand and feel it.; Fill a plastic carry bag with air by scooping it, twist the top closed, and squeeze. It resists, like a cushion.
 - **creative:** Put a ruler on a table with about a third of it hanging over the edge. Cover the rest with a sheet of newspaper and smooth it flat. Hit the hanging end of the ruler and watch the air press the paper down.; Push a crumpled tissue to the bottom of a dry glass, turn it upside down and push it straight down into the water. Lift it out and feel the tissue. It stays dry, because the air in the glass held the water out. With 2 to 4 children, each tries it with a different thing at the bottom and compares.; Tilt the upside-down glass slowly under the water, and watch the air escape as bubbles that you can count.
@@ -517,9 +517,9 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   *Child mode:* Your friend says air is nothing. Think of two ways to show her.
   - Ask: What can air do that nothing could do? (good: It can push on things.; It can stop water coming in.; It can make a balloon round.)
 - **s2 (15 min)**  
-  *Parent does:* 1. Try the first idea. 2. Write down what you see, hear or feel. 3. Try a second idea. 4. Change one thing and try again.  
-  *Parent says:* Try your first idea. What do you see, hear or feel? Then try your second. Change one thing and try again. Write down what happens.  
-  *Child mode:* Try your first idea. Write what you see. Then try another.
+  *Parent does:* 1. Try the first idea. 2. Say or write down what you see, hear or feel. 3. Try a second idea. 4. Change one thing and try again.  
+  *Parent says:* Try your first idea. What do you see, hear or feel? Then try your second. Change one thing and try again. Tell a grown-up or write down what happens.  
+  *Child mode:* Try your first idea. Say what you see. Then try another.
   - Note: In the test with the upside-down glass, push the glass straight down, not tilted. The water level inside should stay low.
 - **s3 (5 min)**  
   *Parent does:* 1. Choose the test that was most convincing. 2. Show it to a family member or friend who has not seen it. 3. Ask them what they think it shows.  
@@ -529,7 +529,7 @@ That afternoon, over the best dal he had ever eaten, Raghu asked Lalitha to expl
   - Check: A glass pushed upside down into water keeps the water out. What does this show? → **Air takes up space and cannot be in the same place as water**
   - Think: What is the best evidence for something you cannot see?
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to write down one sentence on how they know air is real.  
+  *Parent does:* Ask your child to say or write one sentence on how they know air is real.  
   *Parent says:* Write one sentence that proves air is real. Use something you saw or felt today.  
   *Child mode:* Write one sentence that shows air is real.
   - Note: A good sentence names the test and what it showed, such as 'The glass kept the water out, so air takes up space.'

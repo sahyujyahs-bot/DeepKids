@@ -570,7 +570,7 @@ Then she added one more line, smaller. 'I wonder what the neem thinks of us.'
 - **s5 (20 min)**  
   *Parent does:* On day 28, show the tallest shoot on days 14, 21 and 28 as paper strips, or draw a line graph. Then pick a few leaves together for chutney or tea.  
   *Parent says:* You grew this from a market bunch. What did the plant need from you? What did you get from the plant?  
-  *Child mode:* Line up a paper strip for each week's tallest shoot, or draw a line graph. Then pick a few leaves to eat.
+  *Child mode:* Line up a paper strip for each week's tallest shoot. Or draw a line graph. Then pick a few leaves to eat.
   - Check: Why did the mint grow roots when the lower leaves were stripped off and the stems stood in water? → **The nodes under the water can grow roots**
 
 ## Challenges

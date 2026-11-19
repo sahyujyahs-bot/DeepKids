@@ -634,9 +634,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Draw the mat with four columns. 2. Cut out the cards and tokens. 3. Shuffle the cards and put them in a pile, fronts up.",
+     "do": "1. Make the mat: draw or fold a sheet into four columns called Solid, Liquid, Gas and Changing. 2. Cut out the cards and tokens. 3. Shuffle the cards and put them in a pile, fronts up.",
      "say": "This game is about particles. Each card is something that happens at home. You decide which column it goes in, and explain it with two word tokens.",
-     "kid": "Draw four columns. Cut out the cards and tokens. Shuffle the cards.",
+     "kid": "Make four columns: Solid, Liquid, Gas, Changing. Cut out the cards and tokens. Shuffle the cards.",
      "context": "This is the first step of Which Crowd? You set up the mat, the cards and the tokens."
     },
     {
@@ -689,7 +689,7 @@
      "mins": 3,
      "do": "Ask the question below. Let your child think for a moment before they answer.",
      "say": "Look at the Changing cards. What do ice, ghee, wax and camphor have in common?",
-     "kid": "Look at the Changing cards. What do they have in common?",
+     "kid": "Pick up the Changing cards and look at them one by one.",
      "ask": [
       {
        "q": "What do the Changing cards have in common?",
@@ -750,7 +750,7 @@
     }
    ],
    "safety": "Food colour stains clothes, skin and kitchen surfaces. Wear old clothes and wipe spills at once. Keep it away from the eyes. The coloured water is only for looking at. Do not drink it. Some children react to food dyes, so a child who does should only watch, and wear gloves or wash hands afterwards.",
-   "record": "Fill in the table for the red row. Then draw the row of cups and colour each cup as dark as you saw it. Do the same for the blue row.",
+   "record": "Fill in the table for the red row. Then show the row of cups as you saw it: colour each cup as dark as it was, or take a photo of the row. Do the same for the blue row.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results for red colour (yours will be different)",
@@ -820,7 +820,7 @@
      "mins": 5,
      "do": "Show the cups, the colour and the spoon. Ask for a guess about how many cups will show colour, and for a reason. Write the guess down.",
      "say": "We will put one drop of colour in a cup of water. Then we will pass one spoonful to the next cup, again and again. How many cups will have colour? Why do you think so?",
-     "kid": "One drop of colour goes into the first of six cups. How many cups will show colour? Why do you think so?",
+     "kid": "Look at the six cups and the colour. Make a guess about how far one drop will go.",
      "ask": [
       {
        "q": "How many cups do you think will show colour, and why?",
@@ -846,8 +846,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Hold the dropper above cup 1. 2. Let one drop fall in. 3. Stir with the second spoon for 10 seconds. 4. Look at the colour from above.",
-     "say": "Hold the dropper over cup 1 and let one drop fall. Stir for ten seconds. What do you see? How much of the cup has the colour reached?",
-     "kid": "Let one drop fall into cup 1. Stir. What do you see?",
+     "say": "Hold the dropper over cup 1 and let one drop fall. Stir for ten seconds. Look at the cup from above.",
+     "kid": "Let one drop fall into cup 1. Stir it. Watch the colour spread.",
      "ask": [
       {
        "q": "What do you see after you stir? What do you wonder?",
@@ -950,7 +950,7 @@
     }
    ],
    "safety": "Use only a syringe with no needle. Never point a syringe at a face or an eye. Keep the small parts away from children under five. Hold the plunger firmly, because it can spring back. Work over a tray or in the kitchen sink, because the seal may leak and squirt water. Do not use a syringe that has been used for medicine unless it is washed well.",
-   "record": "Fill in the table with the numbers. Then draw a picture of the air in the syringe before and after you push, showing the particles as dots.",
+   "record": "Fill in the table with the numbers. Then draw the air in the syringe before and after you push, with the particles as dots. Or show it with buttons or grains and take a photo.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results (yours will be different)",
@@ -1005,7 +1005,7 @@
      "mins": 4,
      "do": "Show your child the syringe. Pull the plunger out and in a few times. Ask for a guess and a reason.",
      "say": "This is a syringe with no needle. We will seal the end and push the plunger. What will happen with air inside? With water inside? Why do you think so?",
-     "kid": "You will seal the end of the syringe and push the plunger. What will happen with air inside? With water inside? Why?",
+     "kid": "Pull the plunger out and in. Feel how easily it moves. Then make a guess about air and water.",
      "ask": [
       {
        "q": "What do you think will happen when you push the plunger, and why?",
@@ -1067,7 +1067,7 @@
     {
      "id": "s5",
      "mins": 6,
-     "do": "1. Draw up 9 millilitres of water. 2. Pull the plunger back to 10 millilitres, to let in a small bubble of air. 3. Seal the end. 4. Push as hard as you can and read the mark. 5. Do it three times.",
+     "do": "1. Draw up 9 millilitres of water. 2. Lift the tip out of the water. 3. Pull the plunger back to 10 millilitres to let in a small bubble of air. 4. Seal the end. 5. Push as hard as you can and read the mark. 6. Do it three times.",
      "say": "Now put a small bubble of air in with the water. Seal the end and push. How far does the plunger go this time? What squashed, the water or the bubble?",
      "kid": "Put water and a small bubble of air in the syringe. Seal the end and push. What squashed?",
      "parent": "The mix should squash by less than the size of the bubble, because only the bubble can squash. This shows that the water was not squashing. The bubble was."
@@ -1083,9 +1083,9 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then ask them to draw the air particles before and after pushing.",
-     "say": "Tell me three things. What do you think? What did you see? Why did it happen? Then draw the air particles before and after.",
-     "kid": "Say what you think, what you saw, and why. Then draw the air particles.",
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then ask them to use ten buttons or rice grains on a plate. They show how the air particles sit before and after pushing.",
+     "say": "Tell me three things. What do you think? What did you see? Why did it happen? Then use ten buttons or grains to show me the air particles before and after.",
+     "kid": "Say what you think, what you saw, and why. Then show the air particles with ten buttons or grains.",
      "parent": "This is claim, evidence and reasoning. A good answer: What I think: air has empty space between its particles. What I saw: the air squashed to about half and sprang back, and the water did not move. Why: air particles are far apart, so they can be pushed closer. Water particles already touch. In the drawing, the particles should be the same size before and after, just closer together after. For the last question: at last the particles would touch each other, and there would be no empty space left to squeeze them into. Then the air would be as hard to squeeze as a liquid.",
      "think": "If you kept squeezing the air in the syringe harder and harder, what do you think would stop you at last?"
     }
@@ -1098,7 +1098,7 @@
    "title": "Rice Tray Crowds: a model of a solid, a liquid and a gas",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you use a tray of rice as a model of particles. By shaking it three different ways, you make a crowd that behaves like a solid, a liquid and a gas.",
+   "context": "In this activity you use a tray of rice as a model of particles. By shaking it three different ways, you make a crowd that behaves like a solid, a liquid and a gas. You will see why a solid keeps its shape, a liquid flows and a gas spreads out.",
    "materials": [
     {
      "item": "a steel plate or tray with a rim, such as a thali",
@@ -1124,7 +1124,7 @@
      "what": "Shake the rice three ways and watch what it does. Then ask where the model gets things wrong."
     }
    ],
-   "record": "Draw three pictures of the rice: packed in rows, sliding in a pile, and flying about in the box. Write solid, liquid or gas under each.",
+   "record": "Show the three crowds of rice: packed in rows, sliding in a pile, and flying about in the box. Draw them, or tell a grown-up what each one looked like. Say solid, liquid or gas for each.",
    "setup": [
     {
      "art": "A steel plate with rice grains pressed together in a single neat layer and a hand shaking the plate a tiny bit.",
@@ -1198,9 +1198,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask the question below. Then ask your child to draw the three crowds and write solid, liquid or gas under each.",
-     "say": "Rice grains are not particles. They are big, they touch, and they are solid. Where does this model get things wrong for a gas?",
-     "kid": "Where does the rice model get things wrong?",
+     "do": "Ask your child to point to each shake in turn and name it: solid, liquid or gas. Then ask the question below.",
+     "say": "Name each shake: solid, liquid or gas. Rice grains are big and solid, so they are not real particles. Where does this model get a gas wrong?",
+     "kid": "Which shake was the solid, which the liquid, which the gas? Then think about the gas.",
      "check": {
       "t": "mcq",
       "q": "Where does the rice model get a gas wrong?",
@@ -1274,7 +1274,7 @@
      "mins": 5,
      "do": "1. Fill the jug to the 300 millilitre line with chana. 2. Shake it gently so it settles. 3. Top up to the line if needed. 4. Ask your child to guess how much more would fit.",
      "say": "The jug is full of chana to the 300 line. Is it really full? How many millilitres of mustard seeds do you think we can still add? Why do you think so?",
-     "kid": "The jug is full of chana. Can anything more fit? Why?",
+     "kid": "Look at the jug of chana. Guess how much more could fit.",
      "ask": [
       {
        "q": "Is the jug really full? What could still fit?",
@@ -1429,8 +1429,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask the question below.",
-     "say": "Why can't we say for sure that any packet is one pure substance?",
-     "kid": "Why is it hard to find a perfectly pure substance?",
+     "say": "Pure means only one substance, with nothing else mixed in. Do you think any packet here is perfectly pure? Why?",
+     "kid": "Is any packet perfectly pure? Why or why not?",
      "think": "Why might a scientist need special equipment to make a really pure substance?",
      "parent": "Almost every packet has a tiny amount of something else in it, such as iodine in salt. To make a really pure substance, scientists must take out even those tiny amounts. That needs special equipment."
     }
@@ -1448,7 +1448,7 @@
      "qty": 6
     },
     {
-     "item": "a pencil, and coloured pencils or crayons",
+     "item": "a pencil, coloured pencils or crayons, and a handful of rice grains or buttons on a plate",
      "qty": 1
     },
     {
@@ -1463,7 +1463,7 @@
      "what": "Draw six things as particles. Swap drawings and check them against the rules. Fix one drawing."
     }
    ],
-   "record": "Six particle drawings: a steel spoon, water in a glass, steam, air in a football, set ghee from the fridge and ghee melted in a hot pan. Each one has the name under it.",
+   "record": "Three particle drawings (a steel spoon, water in a glass, steam) and three grain plates photographed (air in a football, set ghee from the fridge, ghee melted in a hot pan). Each one has its name with it.",
    "setup": [
     {
      "art": "A sheet of paper with six boxes, each with a circle drawn inside and the name of a thing under it.",
@@ -1471,7 +1471,7 @@
     },
     {
      "art": "A circle with particles drawn as dots in neat rows for a spoon, with a short arrow on each to show jiggle.",
-     "caption": "2. Draw the particles in each box using the rules."
+     "caption": "2. Draw or build the particles for each thing using the rules."
     },
     {
      "art": "Two children swapping their sheets and checking them with a ruler and a list of rules.",
@@ -1501,9 +1501,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Draw six boxes on paper. Draw the particles in each box. The six are a steel spoon, water in a glass, steam, the air in a football, set ghee from the fridge and ghee melted in a hot pan.",
-     "say": "Draw the particles in each box. Use the rules. Think about how close they are and how they move. Add small arrows.",
-     "kid": "Draw the particles in each box. Use the rules. Add arrows.",
+     "do": "Draw three boxes on paper and draw the particles of a steel spoon, water in a glass and steam. For the other three, build the particles on a plate from rice grains or buttons, and take a photo of each: the air in a football, set ghee from the fridge, and ghee melted in a hot pan.",
+     "say": "Draw the first three and build the last three from grains. Use the rules. Think about how close the particles are and how they move. Add small arrows to the drawings.",
+     "kid": "Draw three things and build three. Use the rules.",
      "parent": "Let your child draw first, and do not correct while they draw. For ghee, the picture changes from rows to jumble. Ask which rule they are using for each. In hot weather ghee on the shelf is already soft or runny, so use ghee that has been in the fridge. Each child can draw alone and then swap with one other. So it works with 2 to 4 children, or with one child and a parent.",
      "check": {
       "t": "mcq",
@@ -1520,9 +1520,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "1. Swap your sheet with a partner. 2. Check each drawing against the five rules. 3. Put a tick when a rule is followed. 4. Put a question mark when it is not.",
-     "say": "Swap with your partner. Check each box against the rules. Tick if a rule is followed. Put a question mark if not. Tell your partner why.",
-     "kid": "Swap drawings. Check each box against the rules. Put a tick or a question mark.",
+     "do": "1. Swap your sheet with a partner. 2. Check each drawing and each plate against the five rules. 3. Put a tick when a rule is followed. 4. Put a question mark when it is not.",
+     "say": "Swap with your partner. Check each drawing and plate against the rules. Tick if a rule is followed. Put a question mark if not. Tell your partner why.",
+     "kid": "Swap with your partner. Check each one against the rules. Put a tick or a question mark.",
      "ask": [
       {
        "q": "Which rule was easiest to break by mistake?",
@@ -1538,9 +1538,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask your child to choose one drawing and fix it. Then ask the question below.",
-     "say": "Pick one drawing and fix it. Then tell me, what does a drawing like this leave out?",
-     "kid": "Fix one drawing. What does a drawing leave out?",
+     "do": "Ask your child to choose one drawing or plate and fix it. Then ask the question below.",
+     "say": "Pick one drawing or plate and fix it. Then tell me, what does a model like this leave out?",
+     "kid": "Fix one. What does a model like this leave out?",
      "think": "A drawing is flat and still. What is real about particles that a flat, still picture cannot show well?",
      "parent": "A flat drawing cannot show that real particles are always moving, very fast and in every direction. It also cannot show that they are in three dimensions, in front of and behind each other. Arrows are the best we can do."
     }
@@ -1581,12 +1581,12 @@
     {
      "day": 1,
      "mins": 20,
-     "what": "Plan eight pages. Draw the cover and the solid, liquid and gas pages."
+     "what": "Plan eight pages. Make the cover and the solid, liquid and gas pages."
     },
     {
      "day": 2,
      "mins": 20,
-     "what": "Draw the changing page, the squashing page and the smell page. Write the words."
+     "what": "Make the changing page, the squashing page and the smell page. Write the words."
     },
     {
      "day": 3,
@@ -1614,8 +1614,8 @@
      "id": "s1",
      "mins": 20,
      "do": "1. Fold the paper into a book. 2. Plan the eight pages: cover, solid, liquid, gas, changing, squashing, smell, and what is in the gaps. 3. Draw the cover and the first three pages.",
-     "say": "Plan your book first. It has eight pages. Which three crowds will you draw first? What example from home will you use for each?",
-     "kid": "Plan eight pages. Draw the cover and the solid, liquid and gas pages.",
+     "say": "Plan your book first. It has eight pages. Which three pages come first: solid, liquid and gas? What example from home will you use for each?",
+     "kid": "Plan eight pages. Make the cover and the solid, liquid and gas pages. Draw them, or stick on photos.",
      "parent": "Encourage real examples from the tests: the rice tray, the syringe and the cups of colour. With 2 to 4 children, each draws two or three pages of the same book and they read it together. If there is no younger child nearby, read it to a parent or grandparent, and ask them to pretend to be five years old.",
      "context": "This is the first step of the picture book project. You plan and start the pages."
     },
@@ -1623,8 +1623,8 @@
      "id": "s2",
      "mins": 20,
      "do": "1. Draw and write the changing page, the squashing page and the smell page. 2. Use the words particle, gap and pressure. 3. Write one sentence on each page.",
-     "say": "Now draw the other pages. Write one sentence on each. Use the words particle and gap. Explain it so a six year old could follow.",
-     "kid": "Draw and write the other pages. One sentence on each page.",
+     "say": "Now make the other pages, drawing or sticking on photos. Write one sentence on each. Use the words particle, gap and pressure. Explain it so a six year old could follow.",
+     "kid": "Make and write the other pages. One sentence on each page.",
      "ask": [
       {
        "q": "How will you explain a gap to a younger child?",
@@ -1688,7 +1688,7 @@
     "Push a crumpled tissue to the bottom of a dry glass, turn it upside down and push it straight down into the water. Lift it out and feel the tissue. It stays dry, because the air in the glass held the water out. With 2 to 4 children, each tries it with a different thing at the bottom and compares.",
     "Tilt the upside-down glass slowly under the water, and watch the air escape as bubbles that you can count."
    ],
-   "your_turn": "Now invent your own test. Draw it, try it, and show your friend. Which of your tests would be the most convincing for a person who does not believe in air? Why?",
+   "your_turn": "Now invent your own test. Try it, and show your friend. Which of your tests would be the most convincing for a person who does not believe in air? Why?",
    "setup": [
     {
      "art": "An upside-down glass pushed straight down into a bucket of water, with the water level staying low inside the glass.",
@@ -1725,9 +1725,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Try the first idea. 2. Write down what you see, hear or feel. 3. Try a second idea. 4. Change one thing and try again.",
-     "say": "Try your first idea. What do you see, hear or feel? Then try your second. Change one thing and try again. Write down what happens.",
-     "kid": "Try your first idea. Write what you see. Then try another.",
+     "do": "1. Try the first idea. 2. Say or write down what you see, hear or feel. 3. Try a second idea. 4. Change one thing and try again.",
+     "say": "Try your first idea. What do you see, hear or feel? Then try your second. Change one thing and try again. Tell a grown-up or write down what happens.",
+     "kid": "Try your first idea. Say what you see. Then try another.",
      "parent": "In the test with the upside-down glass, push the glass straight down, not tilted. The water level inside should stay low."
     },
     {
@@ -1753,7 +1753,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to write down one sentence on how they know air is real.",
+     "do": "Ask your child to say or write one sentence on how they know air is real.",
      "say": "Write one sentence that proves air is real. Use something you saw or felt today.",
      "kid": "Write one sentence that shows air is real.",
      "parent": "A good sentence names the test and what it showed, such as 'The glass kept the water out, so air takes up space.'"

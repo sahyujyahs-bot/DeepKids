@@ -480,7 +480,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a guessing game. Each card shows a problem in a cell. You pick the room that matters most and check the back.",
+   "context": "This is a guessing game. Each card shows a problem in a cell. You pick the room that matters most and check the back. You will learn which job each room does.",
    "setup": [
     {
      "art": "Twelve emergency cards in a pile in the middle of a table, with eight room tokens in front of each player.",
@@ -580,7 +580,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Cut out the twelve cards and the eight room tokens. Shuffle the cards and put them in a pile. Give each player a set of tokens.",
-     "say": "These cards show a problem in a cell. You pick the room that matters. Each player has eight tokens. Let us look at them once.",
+     "say": "These cards show a problem in a cell. You pick the room that matters. Each player has eight tokens, one for each room. Look at them once.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Take a set of tokens.",
      "context": "This is the first step of Cell City Emergency. You set up the cards and tokens."
     },
@@ -613,7 +613,7 @@
      "mins": 4,
      "do": "Play the last four cards. Count the points. Then ask which room was the answer on the most cards, and why that room matters so much.",
      "say": "Last four. Count your points. Which room was the answer on the most cards, and why?",
-     "kid": "Play the last cards. Count your points. Which room came up the most, and why?",
+     "kid": "Play the last four cards. Count your points.",
      "context": "This is the last step of Cell City Emergency. You finish the pile and count the points.",
      "parent": "The answer is mitochondria. They appear on the most cards because almost every job in a cell needs energy, and mitochondria release that energy from food, using oxygen."
     }
@@ -682,7 +682,7 @@
     }
    ],
    "safety": "A grown-up cuts the beetroot and pours the hot water. The hot glass (glass C) stays on the tray, away from the edge. Nobody touches it until it has cooled. Beetroot juice stains hands and clothes, so wear an old shirt. Do not drink the water from any glass.",
-   "record": "Write a colour score for each glass at 5, 10 and 20 minutes: 0 for clear, 1 for the faintest pink, 3 for clearly pink, 5 for deep red. Write the colour of the cube at the end. Then draw the four glasses with the colours you saw.",
+   "record": "Write a colour score for each glass at 5, 10 and 20 minutes: 0 for clear, 1 for the faintest pink, 3 for clearly pink, 5 for deep red. Write the colour of the cube at the end. Then draw the four glasses with the colours you saw, or take a photo of them.",
    "context": "In this experiment, you find out what keeps the red colour inside a beetroot. You use cold, warm and hot water, and soap.",
    "setup": [
     {
@@ -712,7 +712,7 @@
      "mins": 6,
      "do": "Set out four glasses and label them A, B, C and D. Read out what each will hold. Ask for a guess and the reason, and write both down.",
      "say": "We will test four glasses. A has cold water. B has warm water. C has hot water. D has cold water with soap. Which will turn reddest? Why do you think so?",
-     "kid": "Four glasses. A is cold. B is warm. C is hot. D has soap. Which turns reddest? Why?",
+     "kid": "Look at the four glasses. Point to the one you think will turn reddest.",
      "ask": [
       {
        "q": "Why do you think that glass will be the reddest?",
@@ -788,9 +788,9 @@
     {
      "id": "s6",
      "mins": 10,
-     "do": "Ask your child to say what they thought, what they saw and why. Then explain the membrane. Draw the four glasses with the colours you saw.",
+     "do": "Ask your child to say what they thought, what they saw and why. Then explain the membrane. Line the four cubes up on a plate, from palest to reddest.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Say what you thought, what you saw, and why. Draw the four glasses.",
+     "kid": "Say what you thought, what you saw, and why. Line the four cubes up from palest to reddest.",
      "parent": "After they have said what they saw, explain. Each beetroot cell holds a store of red pigment in a bag called a vacuole. A fatty skin, the membrane, wraps both the bag and the cell. A whole skin lets the red stay in. Heat melts the fat of the skin and bends the proteins that sit in it. Soap dissolves fat, so it opens the skin too. Cold leaves the skin whole. A membrane only holds if it is whole and alive. If the child is curious, try a frozen and thawed cube. Ice crystals tear the skins, so it spills red too.",
      "think": "Suppose you freeze a cube for an hour and then let it thaw in cold water. Do you think it will spill red? Why?",
      "context": "This is the last step of the Beetroot Test. You say what you found and why."
@@ -852,8 +852,8 @@
     }
    ],
    "safety": "A grown-up handles the rubbing alcohol. It burns easily, so keep it away from the stove and any flame. It is poisonous, so nobody tastes it or the banana mixture. Wash hands afterwards. Do not leave the glasses where a younger child can reach them. Work near an open window, and check that nobody is allergic to banana or strawberry.",
-   "record": "Write what you saw at the top layer after 5 minutes, in both glasses. Draw the tall glass with its layers: banana liquid at the bottom, alcohol on top, and the white strands between.",
-   "context": "In this experiment, you break open banana cells and pull out the DNA from their nuclei. You use soap, salt and cold alcohol.",
+   "record": "Write what you saw at the top layer after 5 minutes, in both glasses. Draw the tall glass with its layers, or take a photo of it: banana liquid at the bottom, alcohol on top, and the white strands between.",
+   "context": "In this experiment, you find out if you can see DNA, the recipe book inside every cell. You break open banana cells and pull the DNA out of their nuclei. You use soap, salt and cold alcohol.",
    "setup": [
     {
      "art": "A fork mashing half a ripe banana in a bowl with warm water and a pinch of salt.",
@@ -882,7 +882,7 @@
      "mins": 5,
      "do": "Put the bottle of rubbing alcohol in the freezer an hour before you start. Set out everything on a tray. Ask for a guess and a reason, and write both down.",
      "say": "Every cell in a banana has a nucleus with DNA. Will we see any of it with our eyes? What do you think it will look like? Why?",
-     "kid": "Is there DNA in a banana? Can you see it? What would it look like?",
+     "kid": "Is there DNA in a banana? Can you see it?",
      "ask": [
       {
        "q": "What do you think DNA looks like when it is out of the cell?",
@@ -913,7 +913,7 @@
      "kid": "Add the soap. Stir slowly for three minutes. Do not make foam.",
      "ask": [
       {
-       "q": "In the Beetroot Test, what did soap do to the beetroot cells?",
+       "q": "What does soap do to the fatty skin of a cell?",
        "good": [
         "It opened the skin and the red came out."
        ]
@@ -1033,8 +1033,8 @@
      "what": "Measure both flasks again in the morning and compare."
     }
    ],
-   "record": "Write both temperatures at the start and the next morning. Work out the difference. Write whether the flask smells different. Draw a thermometer for each flask.",
-   "context": "In this experiment, you find out whether living seeds make heat. You compare sprouting moong with boiled moong, which can no longer sprout.",
+   "record": "Write both temperatures at the start and the next morning. Work out the difference. Write whether the flask smells different. Take a photo of each flask beside its thermometer.",
+   "context": "In this experiment, you find out whether being alive makes heat. You will see if living seeds are warmer than seeds that cannot sprout. You compare sprouting moong with boiled moong, which can no longer sprout.",
    "setup": [
     {
      "art": "A bowl of green moong soaking in water on a kitchen counter at night.",
@@ -1059,7 +1059,7 @@
      "mins": 6,
      "do": "On the evening before, soak two cups of moong in plenty of water for 8 hours or overnight. Ask for a guess and a reason. Write both down.",
      "say": "Seeds are alive. When wet, they wake up. Will a flask of waking seeds be warmer than a flask of boiled seeds? Why do you think so?",
-     "kid": "Soak the moong overnight. Guess which flask will be warmer, and why.",
+     "kid": "Soak the moong in water overnight. Then tell your grown-up your guess.",
      "ask": [
       {
        "q": "Do you think living seeds make heat? Why?",
@@ -1161,8 +1161,8 @@
     }
    ],
    "safety": "Dry grains are small. Keep them away from toddlers, and nobody puts them in the mouth, nose or ears. If a child is allergic to any pulse, use coloured paper bits or beads instead.",
-   "record": "Draw the recipe dots, the messenger copy, and the necklace you built each time. Write what changed when the dots changed.",
-   "context": "In this activity, you act out how a cell copies a recipe from her DNA and builds a protein, using coloured dots and four kinds of grain.",
+   "record": "Take a photo of the recipe dots, the messenger copy, and each necklace you built. Write what changed when the dots changed.",
+   "context": "In this activity, you find out what happens to a protein when one dot of the recipe changes. You act out how a cell copies a recipe from her DNA and builds a protein, using coloured dots and four kinds of grain.",
    "setup": [
     {
      "art": "A paper strip with eight dots in red, red, blue, yellow, yellow, red, blue, blue lying on a steel plate.",
@@ -1208,7 +1208,7 @@
      "id": "s3",
      "mins": 6,
      "do": "At the ribosome plate, read the note two dots at a time. Use the code to pick a grain for each pair. Line up the grains in order.",
-     "say": "You are the ribosome now. Read two dots, pick a grain. What is your necklace? It should have four grains.",
+     "say": "You are the ribosome now. Read two dots, pick a grain. Your necklace should have four grains.",
      "kid": "Read two dots. Pick a grain. Do it four times. Line them up.",
      "parent": "The right answer is chana, rajma, rice, moong. Check the pairs RR, BY, YR and BB against the code. With two to four children, one guards the book on the nucleus plate, one copies the note, and one is the ribosome. Swap parts, and let the guard draw a new strip of eight dots for the next round. Alone, play all three parts and let a grown-up draw the new strip.",
      "context": "In this step, you act as the ribosome and build the protein."
@@ -1261,7 +1261,7 @@
     }
    ],
    "record": "Write your first order, and then the true order. Mark each place where you were surprised.",
-   "context": "In this activity, you guess which cells have the most mitochondria, then check the true order and think about why.",
+   "context": "In this activity, you find out why some cells need far more mitochondria than others. You guess which cells have the most mitochondria, then check the true order and think about why.",
    "setup": [
     {
      "art": "Five slips of paper on a table, each with the name of a cell: red blood cell, sperm cell, liver cell, heart muscle cell, egg cell.",
@@ -1305,14 +1305,14 @@
      "mins": 6,
      "do": "Show the true order. A red blood cell has none. A sperm cell has about 50 to 75, packed in a spiral behind the head. A liver cell has about 1,000 to 2,000. A heart muscle cell has thousands. An egg cell has about 100,000 or more. Move the slips into this order.",
      "say": "Here is the true order. The egg cell is the biggest cell in the human body, and she has the most mitochondria. Why might an egg cell need so many?",
-     "kid": "Move the slips into the true order. Which cell has the most? Why might that be?",
+     "kid": "Move the slips into the true order. Look at where each cell lands.",
      "parent": "Numbers vary from cell to cell and from person to person, so say 'about'. The egg is surprising. After fertilisation she divides many times using her own mitochondria, so she carries most of what the first cells of a baby will need. The sperm cell's mitochondria sit in a tight spiral behind the head and power the sperm's swimming.",
      "context": "In this step, you check your order against the true order."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Ask why the red blood cell has none. Then ask why the heart cell has so many. Write one sentence for each. Then work out how many times as many mitochondria an egg cell has as a liver cell. Use about 100,000 for the egg cell and about 1,000 for the liver cell.",
+     "do": "Ask why the red blood cell has none. Then ask why the heart cell has so many. Say one sentence for each. Then work out how many times as many mitochondria an egg cell has as a liver cell. Use about 100,000 for the egg cell and about 1,000 for the liver cell.",
      "say": "A red blood cell carries oxygen and keeps none for herself. Why would that help? And why does the heart cell have thousands?",
      "kid": "Why does a red blood cell have none? Why does a heart cell have many?",
      "parent": "A red blood cell carries oxygen and does not use it. If she had mitochondria, she would use up the oxygen she carries. Training does increase the number of mitochondria in muscle cells. For the think question, a good answer is yes, because a cell that works harder needs more power, and so the body builds more mitochondria in her. The sum is 100,000 divided by 1,000, so an egg cell has about 100 times as many mitochondria as a liver cell. Say about, because the counts vary.",
@@ -1337,8 +1337,8 @@
      "qty": 1
     }
    ],
-   "record": "Draw your mother-line map. Write each woman's name and where she lived, as far back as you can.",
-   "context": "In this activity, you draw the line of mothers behind you, because most of your mitochondria came to you through your mother's egg.",
+   "record": "Make your mother-line map, drawn or laid out with slips of paper. Write each woman's name and where she lived, as far back as you can.",
+   "context": "In this activity, you find out how many years back your line of mothers goes. You draw the line of mothers behind you, because most of your mitochondria came to you through your mother's egg.",
    "setup": [
     {
      "art": "A child at the bottom of a sheet of paper with an arrow upwards to a drawing of their mother, then her mother.",
@@ -1357,7 +1357,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Draw yourself at the bottom of a large sheet. Draw your mother above you. Draw your mother's mother above her. Go back as far as you or an older relative can. Write each name and place. Draw a small bean-shaped mitochondrion beside each person. If you can, ask an elder where each woman was born, and mark the places on a rough sketch map of India.",
+     "do": "Draw yourself at the bottom of a large sheet. Draw your mother above you. Draw your mother's mother above her. Go back as far as you or an older relative can. If you would rather not draw, write each name on a slip of paper and lay the slips in a line. Write each name and place. Draw a small bean-shaped mitochondrion beside each person. If you can, ask an elder where each woman was born, and mark the places on a rough sketch map of India.",
      "say": "Your mitochondria came mostly from your mother's egg. Hers came from her mother. Let us draw the line. How far back can we go?",
      "kid": "Draw yourself. Draw your mother above you. Add her mother. Go as far as you can.",
      "parent": "If your family has adoption, loss or an unknown line, draw the line you know and stop there. That is part of the picture. Siblings share one mother-line, so they draw it together and each asks a different elder. Friends who are not related each draw their own and compare. Fathers and mothers both give DNA to the nucleus, but in most animals the mitochondria come from the egg.",
@@ -1377,7 +1377,7 @@
      "mins": 6,
      "do": "Tell your child that the line of mothers goes all the way back to the first cells. Then ask who passes mitochondria on to the next generation. Boys receive them but, in most animals, do not pass them on.",
      "say": "Every person alive has a line of mothers going back to the first cells. Who passes mitochondria on to the next generation: the mother, the father or both?",
-     "kid": "The line goes back to the first cells. Who passes mitochondria on: the mother or the father?",
+     "kid": "The line of mothers goes back to the first cells.",
      "ask": [
       {
        "q": "In most animals, who passes mitochondria on to the next generation?",
@@ -1445,7 +1445,7 @@
     }
    ],
    "record": "Take a photo or draw the finished city with every room labelled. Write the path of a protein from the nucleus to the outside. Write three things the model gets wrong.",
-   "context": "In this project, you build a model of a cell on a tray, with the rooms from this unit, and walk a protein through it.",
+   "context": "In this project, you find out how the rooms of a cell work together to make a protein. You build a model of a cell on a tray, with the rooms from this unit, and walk a protein through it.",
    "setup": [
     {
      "art": "A steel thali with a rope of dough around the rim as the membrane and a round dough ball in the middle with holes in it as the nucleus.",
@@ -1505,7 +1505,7 @@
      "mins": 15,
      "do": "Ask your child to write three things the model gets wrong. For example, it stays still, it has a flat floor, and it shows only a few rooms. Look at the tray and compare.",
      "say": "Our model sits still. A real cell never does. What else is different? Write three things the model gets wrong.",
-     "kid": "Write three things the model gets wrong. Is there a boss in the city?",
+     "kid": "Look at your tray. Write three things the model gets wrong.",
      "parent": "The last question has a clear answer: no, there is no boss in the city. The nucleus keeps the recipes, but signals from the whole cell decide which recipes are used. Good answers to the first question: the real cell moves and jostles all the time, the rooms are crowded, there are millions of ribosomes, the cell has no single boss, the model is flat, and it is huge compared with the real thing. A real cell is usually only 10 to 30 micrometres wide.",
      "context": "This is the last step of Cell City. You say where the model fails."
     }
@@ -1541,7 +1541,7 @@
     "A cell with no nucleus, like a red blood cell, with only room for oxygen: none of the six kinds of sticker, and a note on what she carries and how long she can live (about four months)."
    ],
    "your_turn": "Pick a job from your own day: a cell in your eye, your tongue, your hair root or your bone. Share out twenty stickers and explain each choice. Then ask someone else to guess the job from your stickers alone.",
-   "context": "This is a design challenge about the rooms of a cell. You share out twenty stickers for a given job.",
+   "context": "This is a design challenge about the rooms of a cell. You will find out why different cells need different rooms. You share out twenty stickers for a given job.",
    "setup": [
     {
      "art": "A big circle on paper for a cell, with twenty small dots stuck in groups of different colours.",
@@ -1560,9 +1560,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read the problem together. Draw a big circle for the cell. Make a key with six colours for the six rooms. Ask what a leg muscle cell does all day.",
+     "do": "Read the problem together. Use a plate as the cell, or draw a big circle. Make a key with six colours for the six rooms. Ask what a leg muscle cell does all day.",
      "say": "You are designing a cell for a job with twenty stickers. What does a runner's leg muscle cell do? Which rooms will she need most?",
-     "kid": "Read the problem. Draw a big circle. Make a colour key for six rooms.",
+     "kid": "Read the problem. Use a plate as your cell. Make a colour key for six rooms.",
      "ask": [
       {
        "q": "What does a leg muscle cell need most?",
@@ -1577,9 +1577,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Share out twenty dots among the rooms for the muscle cell. Write one sentence of reason for each group. Check that you used all twenty.",
+     "do": "Share out twenty dots among the rooms for the muscle cell. Say one sentence of reason for each group. Check that you used all twenty.",
      "say": "Put your twenty dots in the cell. Why that many mitochondria? Why that many ribosomes?",
-     "kid": "Stick twenty dots. Write a reason for each group of dots.",
+     "kid": "Stick twenty dots. Tell your grown-up why you chose each group.",
      "parent": "There is no single right answer. A strong design gives most dots to mitochondria and has a reason for every group.",
      "context": "In this step, you design the muscle cell and give your reasons."
     },

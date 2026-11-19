@@ -2137,7 +2137,7 @@
      "mins": 20,
      "do": "On day 28, show the tallest shoot on days 14, 21 and 28 as paper strips, or draw a line graph. Then pick a few leaves together for chutney or tea.",
      "say": "You grew this from a market bunch. What did the plant need from you? What did you get from the plant?",
-     "kid": "Line up a paper strip for each week's tallest shoot, or draw a line graph. Then pick a few leaves to eat.",
+     "kid": "Line up a paper strip for each week's tallest shoot. Or draw a line graph. Then pick a few leaves to eat.",
      "check": {
       "t": "mcq",
       "q": "Why did the mint grow roots when the lower leaves were stripped off and the stems stood in water?",

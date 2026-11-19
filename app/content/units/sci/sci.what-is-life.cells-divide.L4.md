@@ -261,8 +261,8 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Child mode:* Play the last six cards. Add up your points.
 - **s5 (5 min)**  
   *Parent does:* Lay the 20 cards in four rows by time: Hours, Days, Weeks to months, A year or more. Look at which cells are in the first rows. Then ask your child the questions below. Let them answer in their own words.  
-  *Parent says:* Look at the cells that last the longest. Why might it be good for a brain cell to last all your life? And why might it be good for a gut cell to be replaced in days?  
-  *Child mode:* Which cells last the longest? Which are replaced fastest? Why?
+  *Parent says:* Here are all the cards, sorted by time. Look at the first row and the last row.  
+  *Child mode:* Look at the four rows. Point to the cells that last longest and the cells replaced fastest.
   - Ask: Why might a gut cell be replaced in days? (good: Food scrapes it and the acid wears it.; It gets damaged fast.; It does not store anything.)
   - Ask: Why might a brain cell last a lifetime? (good: She holds memories and connections.; A new cell would not have the old connections.; She is safe inside the skull.)
   - Note: A nerve cell is joined to thousands of others. If she were replaced, the new cell would have to learn every connection again. That is one idea about why nerve cells last. It is an idea, and scientists are still studying it.
@@ -273,7 +273,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 - **predict:** Before you cut anything, guess. Will the roots with the tip cut off grow more, the same, or less than the roots left alone? Why do you think so?
 - **fair test:** Every root is from the same moong seeds, on the same kind of plate and tissue, in the same warm place. All roots are touched by the scissors in the same way. On plate A the scissors only touch the tip and cut nothing. On plate B the scissors cut off 3 millimetres of the tip. So the only difference is the missing tip, and any difference in growth comes from that. Plate A is the control.
 - **safety:** A grown-up does the cutting, because the scissors are sharp and the root is tiny. Wash hands after handling the sprouts. Do not eat sprouts that smell bad or have fuzzy patches.
-- **record:** Write the length of every root at the start, after one day and after two days. Work out how much each root grew. Find the average for plate A and for plate B. Draw a bar for each plate.
+- **record:** Write the length of every root at the start, after one day and after two days. Work out how much each root grew. Find the average for plate A and for plate B. Draw a bar for each plate, or write the two numbers.
 - **results table:** Plate | Root | Start (mm) | After 1 day (mm) | After 2 days (mm) | Growth in 2 days (mm)
 - **schedule:** day 1: In the evening, soak the moong seeds for about 8 hours or overnight, then drain them and wrap them in a damp cloth. (5 min); day 2: Guess, set up two plates, measure every root and cut the tips on plate B. (25 min); day 3: Measure every root after one day. (10 min); day 4: Measure every root after two days, find the averages and explain what you saw. (10 min)
 - **s1 (5 min)**  
@@ -284,7 +284,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 - **s2 (5 min)**  
   *Parent does:* Look at the sprouts with your child. Find the root of each one. Ask for a guess and a reason, and write both down.  
   *Parent says:* Look at these roots. Soon I will cut the tip off some of them. Do you think they will still grow longer? Why do you think so?  
-  *Child mode:* Look at the roots. We will cut the tips off some. Will they still grow? Why?
+  *Child mode:* Look at the roots. Find the tip of each one.
   - Ask: Which part of the root do you think grows longer? (good: All of it, like a rubber band.; Only the end.; The part nearest the seed.)
   - Ask: What do you think will happen to a root with no tip? (good: It will keep growing.; It will stop.; It will grow slowly.)
   - Note: Do not correct a guess. Most children think the whole root stretches, and that is a good place to start. Write the guesses on the page with the table.
@@ -297,22 +297,22 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   - Check: Why do we put sprouts from the same bunch on both plates? → **So the only difference is the cut tip**
 - **s4 (10 min) · grown-up needed**  
   *Parent does:* Wash your hands. A grown-up snips 3 millimetres off the tip of each root on plate B. On plate A, the grown-up only touches each tip with the closed scissors. Cover both plates with damp tissue and a lid. Put them side by side in a warm, dark place.  
-  *Parent says:* A grown-up snips the very tip off the roots on plate B. On plate A, the scissors only touch. Why do we touch the roots on plate A?  
-  *Child mode:* A grown-up cuts the tips on plate B. On plate A, the scissors only touch.
+  *Parent says:* A grown-up snips the very tip off the roots on plate B. On plate A, the scissors only touch.  
+  *Child mode:* Watch the grown-up snip. Then put both plates side by side, covered, in a warm, dark place.
   - Ask: Why do we touch the roots on plate A with the scissors? (good: So both plates are handled the same way.; So the only difference is the missing tip.)
   - Note: 3 millimetres is about the width of a pencil's lead. Cut straight across. Both plates must stay together in the same place, so they have the same warmth and light. Check that the tissue stays damp.
 - **s5 (10 min)**  
   *Parent does:* After one day, take the lids off. Measure every root with the thread and the ruler. Write the numbers. Look closely at the cut roots. Drip a little water on the tissue and cover the plates again.  
-  *Parent says:* It is one day later. Measure every root. Which plate has longer roots? What do you notice about the cut roots?  
+  *Parent says:* It is one day later. Measure every root. Which plate has longer roots?  
   *Child mode:* Measure every root. Write the lengths. Look at the cut roots closely.
   - Ask: What do you notice about the cut roots on plate B? (good: They look shorter.; They have not grown much.; A few have little bumps on the side.)
   - Note: Typical numbers, not promises: in warm weather uncut roots on plate A often grow about 10 to 25 millimetres in a day, and cut roots on plate B often grow only a few millimetres (about 0 to 8). The part just behind the cut can still stretch a little on the first day. If all roots on both plates grew the same, check that you cut the tip end of the root and not the end near the seed. In cool weather every root grows less, so compare plate with plate, not with these numbers. If you see white fuzz, rinse the tissue and use fresh tissue.
   - Check: After one day, the roots on plate A grew a lot and the roots on plate B grew very little. What does this suggest? → **The tip is where the root gets longer**
   - Wait: Wait one day after cutting.
 - **s6 (10 min)**  
-  *Parent does:* After two days, measure every root again. Work out how much each root grew. Add the growth of the four roots on each plate and divide by four. Draw one bar for each plate. Ask your child to say what they thought, what they saw and why.  
+  *Parent does:* After two days, measure every root again. Work out how much each root grew. Add the growth of the four roots on each plate and divide by four. Draw one bar for each plate, or write the two averages. Ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Measure again. Find the average for each plate. Draw two bars. Say what you thought, what you saw and why.
+  *Child mode:* Measure again. Find the average growth of each plate. Draw two bars, or write the two numbers.
   - Note: A strong answer says that roots with the tip cut off grew much less, that the tip is where new cells are made by dividing, that just behind the tip those cells stretch and make the root longer, and that further back the root has finished growing. For the last question, a good answer is that the root will hardly grow longer, because the dividing cells at the tip are gone. Do not give this answer first. Let your child say what they saw, then add the words cell division. If your results are not clear, write them as they are, and try again with a new bunch.
   - Think: A gardener pulls up a young plant by accident and breaks off the very tip of the root. What would you expect to happen to that root, and why?
   - Wait: Wait one more day.
@@ -321,13 +321,13 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 - **predict:** Before you mark the roots, guess. Will all the gaps grow wider, or only some? Which ones? Why do you think so?
 - **fair test:** Each root gets the same row of dots, 2 millimetres apart, starting at the tip. All roots stay on the same plate in the same place. We compare the gaps along one root with each other. So each root is its own comparison, because every gap is on the same root and is kept in the same conditions. You also leave one root without dots, to check that the dots do not stop it growing.
 - **safety:** Use a fine pen with waterproof ink, and keep it away from your mouth. Wash hands after handling the sprouts. Do not eat sprouts that have been marked.
-- **record:** Write the length of each gap at the start and after one day. Work out the change. Draw a bar for each gap, from the tip backward.
+- **record:** Write the length of each gap at the start and after one day. Work out the change. Draw a bar for each gap, from the tip backward, or write the change next to each gap.
 - **results table:** Gap | Where it is on the root | Start (mm) | After 1 day (mm) | Change (mm)
 - **schedule:** day 1: Guess, mark the dots on the roots and lay the roots on damp tissue. (25 min); day 2: Measure the gaps between the dots and find where the growing happened. (10 min)
 - **s1 (5 min)**  
   *Parent does:* Look at a root with your child. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will put six dots along a root, two millimetres apart. Tomorrow the root will be longer. Will all the gaps grow wider? Or only some? Why do you think so?  
-  *Child mode:* We will put six dots on a root. Will all the gaps grow wider? Why?
+  *Child mode:* We will put six dots on a root. Then we will see which gaps grow.
   - Ask: Which gap do you think will grow the most? (good: The one at the tip.; The one nearest the seed.; All the same.)
   - Note: Do not correct the guess. If your child did Cut the Tip, they may guess that the gap nearest the tip grows most. Ask why they think so. With 2 to 4 children, each child marks one root and measures it, and the group compares roots. With one child, the parent dries the roots and the child makes the dots.
 - **s2 (15 min) · grown-up needed**  
@@ -341,9 +341,9 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Child mode:* Lay the roots on damp tissue. Cover them. Wait one day.
   - Wait: Leave the plate for one day.
 - **s4 (10 min)**  
-  *Parent does:* After one day, measure each gap between the dots. Start at the tip and go backward. Write the gaps in the table. Work out how much each gap changed. Draw a bar for each gap. Ask your child to say what they thought, what they saw and why.  
+  *Parent does:* After one day, measure each gap between the dots. Start at the tip and go backward. Write the gaps in the table. Work out how much each gap changed. Draw a bar for each gap, or write the change next to it. Ask your child to say what they thought, what they saw and why.  
   *Parent says:* Measure each gap, starting at the tip. Which gaps grew? Which stayed the same? Why do you think the growing happened where it did?  
-  *Child mode:* Measure each gap from the tip back. Which gaps grew? Which stayed the same?
+  *Child mode:* Measure each gap from the tip back. Write each one in the table.
   - Note: Typical results, not promises: the first one or two gaps next to the tip grow the most. The next gaps grow a little. Gaps more than about 1 centimetre from the tip hardly change. Dots are tiny, so use a magnifier, or measure how far each dot is from the tip and subtract one number from the next. Dots may fade, so measure the same day. Compare the total growth of the unmarked root with a marked one: they should be about the same. If the dots washed off or the roots dried out, say so, and try again with kajal and a fresh root. A fuzzy result is still a result.
   - Check: The gaps nearest the tip grew wider, and the gaps far from the tip stayed the same. What does this show? → **Only a short zone near the tip lengthens**
 
@@ -351,11 +351,11 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 ### a1 · Fold and Count: how fast does doubling grow? (25 min)
 - **problem:** When a cell divides, one cell becomes two. Then each of those two can divide again, so there are four, then eight. Folding a sheet of paper in half again and again makes the same doubling. You will count the boxes after each fold, and then use the pattern to see how many doublings it takes to make a whole body.
 - **safety:** Handle paper carefully. Fold slowly so that you do not get paper cuts.
-- **record:** Write the number of boxes after each fold. Then write the table for 10, 20, 30 and 45 doublings. Draw a line to show how it climbs.
+- **record:** Write the number of boxes after each fold. Then write the table for 10, 20, 30 and 45 doublings. Say in one sentence how the numbers climb.
 - **s1 (5 min)**  
-  *Parent does:* Lay the sheet flat. Draw one dot in the middle. Say that this sheet is one cell. Ask for a guess about how many boxes there will be after 5 folds.  
-  *Parent says:* This sheet is one cell. When a cell divides, she becomes two. I fold the paper in half. How many boxes will there be after five folds?  
-  *Child mode:* This sheet is one cell. Fold it in half. How many boxes after five folds?
+  *Parent does:* Lay the sheet flat. Put one dot in the middle. Say that this sheet is one cell. Ask for a guess about how many boxes there will be after 5 folds.  
+  *Parent says:* This sheet is one cell. When a cell divides, she becomes two. I will fold the paper in half.  
+  *Child mode:* Guess: how many boxes will there be after five folds?
   - Note: Most children guess 5 or 10. The real answer is 32, so the guess teaches a lot.
 - **s2 (10 min)**  
   *Parent does:* Fold the paper in half. Open it and count the boxes. Write the number in a table. Fold again in the same direction, open, count and write. Do this up to six folds.  
@@ -398,7 +398,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 ### a3 · Skin Flakes: catch some of your own cells (15 min)
 - **problem:** The top layer of your skin is made of cells that have finished their work. They are rubbing off your body all the time. New cells are made underneath to take their place. You will lift some of these flakes with sticky tape and look at them on dark paper.
 - **safety:** Use clean, unbroken skin only. Do not tape over sore, red, rashy or cut skin, or over thick hair. Peel the tape off slowly. Stop if the skin hurts.
-- **record:** Draw what you see under the tape. Write which place on your body gave the most flakes.
+- **record:** Tell your grown-up what you see on the tape, or draw it. Write which place on your body gave the most flakes.
 - **s1 (5 min)**  
   *Parent does:* Choose three places, such as the back of the hand, the forearm and the heel. Ask your child to guess which one will give the most skin flakes. Plan to score each strip from 0 (clear) to 3 (very cloudy).  
   *Parent says:* We will lift some skin from three places. Which place do you think will give the most? Why?  
@@ -416,7 +416,7 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 ### a4 · Paper Chromosomes: act out how one cell becomes two (25 min)
 - **problem:** Before a cell divides, she copies her chromosomes. Then she shares the copies so that each daughter cell gets one full set. You will use paper strips as chromosomes and act out this sharing with two bowls. You will also see what goes wrong when the sharing is not even.
 - **safety:** Use blunt child scissors, or let a grown-up cut the strips. Keep tape and rubber bands away from the mouth.
-- **record:** Draw the four steps of mitosis in order. Write a sentence under each one.
+- **record:** Show your grown-up the four steps again with the strips: the cell, the copy, the line-up and the pull-apart. Say what happens at each step.
 - **s1 (5 min)**  
   *Parent does:* Cut six strips: two red, two blue and two green. Lay them in a large circle drawn on paper. Say that the strips are chromosomes, and that this is one cell. Each colour is a pair.  
   *Parent says:* These strips are chromosomes. This circle is a cell. There are three pairs, one red pair, one blue pair and one green pair. This cell will divide.  
@@ -433,8 +433,8 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
   *Child mode:* Line the six X shapes up along the string.
 - **s4 (10 min)**  
   *Parent does:* Pull each X apart at the tape. Put one half of each X in one bowl and the other half in the other bowl. Count the strips in each bowl. Then play it again, but this time drop both halves of one green X in the same bowl. Count again.  
-  *Parent says:* Now pull each X apart. One half goes in each bowl. Count the strips. Then try a mistake. Put both halves of one green X in the same bowl. What goes wrong?  
-  *Child mode:* Pull each X apart. One half goes to each bowl. Count the strips in each bowl.
+  *Parent says:* Now pull each X apart. One half goes in each bowl. Count the strips. Then try a mistake. Put both halves of one green X in the same bowl.  
+  *Child mode:* Pull each X apart. One half goes to each bowl. Count the strips in each bowl. Then try the mistake.
   - Ask: What goes wrong if both halves of one green X go into the same bowl? (good: One cell has too many, and one has none.; One cell is missing a green chromosome.; The cells would not be the same.)
   - Note: A correct split puts 6 strips in each bowl, two of each colour. The mistake gives 7 in one and 5 in the other. Real mistakes like this cause some illnesses that people are born with. A cell's spindle threads pull each chromosome pair very carefully so that mistakes are rare. For the think question, a good answer is that each daughter cell needs exactly one full set of instructions to work properly, and a cell with an extra or a missing chromosome can become ill or stop working. With 2 to 4 children, give each child one colour pair to pull apart, and let one child hold each bowl.
   - Think: Why must the spindle threads pull the copies apart so carefully, so that each daughter gets exactly one of each?
@@ -443,22 +443,22 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 ### p1 · Pinch the Tulsi: what happens when you pinch a growing tip? (50 min, 14 days)
 - **problem:** The tip of a growing stem is where cells divide and the stem gets longer. You will pinch the tip off one stem of a tulsi plant and leave another stem alone. Then you will see how the plant grows after the tip of one stem has been pinched off.
 - **safety:** Wash hands after handling the plant. Do not eat leaves from a plant that has been sprayed with anything. Tulsi is sacred in many homes, so ask the elders before you pinch it, or use mint or basil instead.
-- **record:** Write the height of each stem and the number of side shoots on days 1, 4, 7 and 14. Draw the two stems side by side on each day.
-- **schedule:** day 1: Choose two similar stems. Tie a red thread on stem A and a blue thread on stem B. Measure and draw both. Pinch off the top two leaves of stem A. Leave stem B alone. (15 min); day 4: Measure both stems. Look at the places where leaves join the stem. Draw what you see. (8 min); day 7: Measure both stems. Count the small side shoots on each. Draw both stems. (10 min); day 14: Measure both stems. Count the side shoots on each. Draw both stems. Say what happened and why. (17 min)
+- **record:** Write the height of each stem and the number of side shoots on days 1, 4, 7 and 14. Take a photo of the two stems side by side on each day, or draw them.
+- **schedule:** day 1: Choose two similar stems. Tie a red thread on stem A and a blue thread on stem B. Measure and draw both. Pinch off the top two leaves of stem A. Leave stem B alone. (15 min); day 4: Measure both stems. Look at the places where leaves join the stem. Draw what you see. (8 min); day 7: Measure both stems. Count the small side shoots on each. Take a photo of both stems. (10 min); day 14: Measure both stems. Count the side shoots on each. Draw both stems. Say what happened and why. (17 min)
 - **s1 (15 min)**  
-  *Parent does:* Choose two similar stems. Tie a red thread on one and a blue thread on the other. Measure and draw both. Ask for a guess and a reason about what will happen when you pinch the red stem's tip.  
-  *Parent says:* We will pinch the top two leaves of the red stem and leave the blue one alone. What do you think will happen? Why do you think so?  
-  *Child mode:* Pinch the top of the red stem. Leave the blue stem. What will happen? Why?
+  *Parent does:* Choose two similar stems. Tie a red thread on one and a blue thread on the other. Measure both. Ask for a guess and a reason about what will happen when you pinch the red stem's tip. Then pinch off the top two leaves of the red stem only.  
+  *Parent says:* We will pinch the top two leaves of the red stem and leave the blue one alone.  
+  *Child mode:* Pinch the top two leaves of the red stem. Leave the blue stem alone.
   - Ask: What do you think will happen to the red stem? (good: It will stop growing.; It will grow side branches.; It will die.)
   - Note: Pinch off the top bud and the two small leaves under it, using your fingertips. Pinch cleanly. Choose stems without flowers. Many families pinch tulsi to keep it bushy, so it is safe for the plant. Growth is slow below about 15 degrees C, so in a cold winter wait for warmer weather or use a plant kept indoors in good light. With 2 to 4 children, give each child their own pair of stems (or their own cheap pot of mint) and compare the results on day 14.
 - **s2 (8 min)**  
-  *Parent does:* Day 4. Measure both stems. Look at the places where the leaves join the stem. Draw what you see.  
+  *Parent does:* Day 4. Measure both stems. Look at the places where the leaves join the stem. Take a photo, or point and tell your grown-up what you see.  
   *Parent says:* Measure both stems. Look where each leaf joins the stem. Do you see anything new?  
   *Child mode:* Measure both stems. Look where leaves join the stem.
   - Wait: Wait until day 4.
 - **s3 (10 min)**  
-  *Parent does:* Day 7. Measure both stems. Count the small side shoots on each. Draw both stems.  
-  *Parent says:* Count the new side shoots on each stem. Which has more? What do you think made the difference?  
+  *Parent does:* Day 7. Measure both stems. Count the small side shoots (new little branches) on each. Take a photo of both stems.  
+  *Parent says:* Count the new little branches, the side shoots, on each stem. Which has more? What do you think made the difference?  
   *Child mode:* Count the side shoots on each stem. Which has more?
   - Wait: Wait until day 7.
 - **s4 (17 min)**  
@@ -471,15 +471,15 @@ Daiaphi looked down at the thin pale tip of her own young root, hanging over the
 
 ## Challenges
 ### c1 · The Longest Root: design the best home for a growing root (45 min)
-- **problem:** You want a moong root to grow as long as possible in two days. Design a home for the sprouts using only things in your kitchen, and test it against a plain plate.
+- **problem:** You want a moong root to grow as long as possible in two days. Design a home for the sprouts using only things in your kitchen, and test it against a second home you make.
 - **your turn:** Make two different homes with four seeds in each. Keep both in the same warm place. After two days, measure the longest root in each. Which home won? Why do you think it did?
 - **constraints:** Use only things you have at home.; No fertiliser, no soil.; Use the same number of seeds and the same seed type in each home.; Measure the longest root in each home after two days.; Do not use anything hot.
 - **general:** Lay the sprouts on damp tissue on a plate. Cover with a lid. Keep in a warm, dark cupboard.; Roll the sprouts in a damp cloth and put the roll in a bowl. Sprinkle water twice a day.; Put the sprouts in a steel lunch box with damp tissue at the bottom, with the lid slightly open.
 - **creative:** Stand a strip of tissue in a tumbler with a little water at the bottom. Lay the seeds on the tissue so that the roots can grow downward along it.; Place the sprouts on a sponge in a tray with a little water, so the sponge keeps the roots damp but not drowned.; Tilt a plate on a book so extra water drains away. Roots need air as well as water.
 - **s1 (10 min)**  
   *Parent does:* Look at the materials. Ask your child to say what a root needs to grow. Write the list.  
-  *Parent says:* What does a growing root need? Tell me everything you can think of. Then we will design two homes and test them.  
-  *Child mode:* What does a root need to grow? Make a list of everything you can think of.
+  *Parent says:* What does a growing root need? Then we will design two homes and test them.  
+  *Child mode:* Look at the materials. Think of everything a root might need.
   - Ask: What does a root need in order to grow? (good: Water.; Warmth.; Air.; Darkness.)
   - Note: A root drowned in water gets too little air and grows poorly. A root dried out stops growing. The best home is damp, not wet.
 - **s2 (20 min)**  

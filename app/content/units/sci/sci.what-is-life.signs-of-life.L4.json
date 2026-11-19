@@ -718,7 +718,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Count how many cards were fooled and how many were fair. Ask your child what they notice about the fooled cards. Then add up the scores.",
+     "do": "Count how many cards were fooled and how many were fair. Ask your child what they notice about the fooled cards.",
      "say": "Count the F marks. How many tests were fooled? Which things fooled the tests most often? What do you notice?",
      "kid": "Count the F marks. Which things fooled the tests most? What do you notice?",
      "parent": "Flames, crystals, seeds, mules and robots fool the tests most. After your child has said what they notice, explain: a single test is not enough. That is why scientists use a bundle of tests together, and why they still argue about the hard cases.",
@@ -782,7 +782,7 @@
     }
    ],
    "safety": "A grown-up cuts the beetroot and pours the hot water. Keep children away from the kettle. Pour the just-boiled water into a thick glass or a steel tumbler, or let the kettle rest for one minute first, because thin glass can crack. Beetroot stains hands and clothes, so wear an old shirt.",
-   "record": "For each glass, write a colour score at 5 minutes and at 20 minutes. Zero is clear water and four is deep red. Then draw a bar for each glass, using the 20-minute score.",
+   "record": "For each glass, write a colour score at 5 minutes and at 20 minutes. Zero is clear water and four is deep red. Then line up the glasses from clearest to reddest and take a photo, or draw a bar for each glass using the 20-minute score.",
    "context": "In this experiment, you put beetroot cubes in water of four different temperatures and watch how much red leaks out. You find out what heat does to the cells.",
    "setup": [
     {
@@ -812,7 +812,7 @@
      "mins": 5,
      "do": "Show your child the beetroot and the four glasses. Ask for a guess and a reason. Write the guess at the top of the table.",
      "say": "We will put beetroot cubes in four glasses of water, from icy to very hot. Which glass will turn the reddest? Which will stay clearest? Why do you think so?",
-     "kid": "Beetroot cubes go into four glasses of water, from cold to hot. Which glass will turn the reddest? Why do you think so?",
+     "kid": "Beetroot cubes go into four glasses of water, from cold to hot. Point to the glass you think will turn the reddest.",
      "ask": [
       {
        "q": "Why do you think that glass will turn the reddest?",
@@ -901,9 +901,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Draw a bar for each glass, using the 20-minute score. Ask your child to say what they thought, what they saw and why.",
+     "do": "Ask your child to line up the four glasses from clearest to reddest. Then ask what they thought, what they saw and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a bar for each glass. Say what you thought, what you saw, and why.",
+     "kid": "Line up the glasses from clearest to reddest. Say what you thought, what you saw, and why.",
      "parent": "A strong answer says that the red is kept inside each cell, and that heat damaged the skin around the cell so the red leaked out. After they have said what they saw, explain: every cell has a thin skin, called the cell membrane, made of fat and protein. Heat shakes it out of shape, and holes open. A living cell keeps its inside different from the outside, and a heated cell cannot.",
      "think": "Boiled beetroot turns the cooking water red. Now you know why. What had happened to the cells?",
      "context": "In this step, you look at your results and say what they show."
@@ -1076,9 +1076,9 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "Draw one line each for the tumbler, the bottle and your child, on the same graph. Ask your child to say what they thought, what they saw and why. Then ask the question about the gecko.",
-     "say": "Draw three lines on one graph: one for the tumbler, one for the bottle and one for you. Then tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a line for the tumbler. Draw a line for the bottle. Draw a line for you. Say what you thought, what you saw, and why.",
+     "do": "Draw one line each for the tumbler, the bottle and your child on the same graph, or just let your child say how each number changed. Ask your child to say what they thought, what they saw and why. Then ask the question about the gecko.",
+     "say": "Draw three lines on one graph, or just tell me how each number changed. Then tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
+     "kid": "Draw a line for each one, or say how each number changed. Say what you thought, what you saw, and why.",
      "parent": "A strong answer says the water drifted towards the room's warmth, the sock slowed the drift but did not stop it, and the child stayed steady. After they have said what they saw, explain: a living body burns food to make heat, and uses sweat, shivering and blood flow to keep steady. A gecko, a frog, a fish and a plant mostly match their surroundings, and they are alive. So 'stays warmer than the room' is a test that works for birds and mammals, and gives the wrong answer for many living things. Cold-blooded animals still use energy every second to keep other things steady inside their cells.",
      "think": "A gecko on a cold morning is as cold as the wall. If you measured her, what would the thermometer say? Would you call her not alive?",
      "context": "In this step, you look at the lines and say what they show."
@@ -1131,7 +1131,7 @@
     }
    ],
    "safety": "Whole seeds are a choking risk for children under five. Throw away any seeds with mould, and do not eat the seeds from this test. A grown-up does the boiling. Wash your hands after touching damp seeds.",
-   "record": "Count the sprouts in each group on day 3 and day 4. Then draw a bar for each group.",
+   "record": "Count the sprouts in each group on day 3 and day 4. Then show each group as a row of sprouted seeds, or draw a bar for each group.",
    "context": "In this experiment, you wake up seeds of different ages and count how many sprout. You find out if a seed that has waited longer is as ready to wake.",
    "setup": [
     {
@@ -1208,9 +1208,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Count the sprouts on each plate again. Write the numbers. Draw a bar for each group.",
-     "say": "Count the sprouts again. Draw a bar for each group. Which group did best? Which did worst?",
-     "kid": "Count again. Draw a bar for each group. Which did best?",
+     "do": "Count the sprouts on each plate again. Write the numbers. Line up the sprouted seeds from each plate in a row, side by side, or draw a bar for each group.",
+     "say": "Count the sprouts again. Line up the sprouted seeds from each plate in a row. Which group did best? Which did worst?",
+     "kid": "Count again. Line up the sprouted seeds from each plate. Which row is longest?",
      "check": {
       "t": "mcq",
       "q": "The youngest seeds sprouted 9 out of 10 and the oldest only 2 out of 10. What is the best claim?",
@@ -1302,7 +1302,7 @@
      "mins": 5,
      "do": "Give your child a sheet of paper and a pencil. Ask them to finish the sentence 'Something is alive if it...'. Write their rule at the top.",
      "say": "Finish this sentence in your own words. 'Something is alive if it...'. Write the rule you think is best.",
-     "kid": "Finish this sentence. Something is alive if it... Write your best rule.",
+     "kid": "Think of your best rule for what is alive. Tell it to your grown-up, who will write it down.",
      "ask": [
       {
        "q": "Why did you pick that rule?",
@@ -1406,9 +1406,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Draw a table with three columns and eight rows. The columns are the seven signs, NASA's test and Koshland's pillars. The rows are a flame, a salt crystal, a dry seed and a mule. The rows also include a virus, a curd bacterium, a robot and a forest fire. Before you fill in anything, ask your child to guess which two cases the tests will disagree about, and write the guess.",
-     "say": "We will use three real tests on eight cases. Test one is the seven signs, which you know. Test two is NASA's. Test three is Koshland's seven pillars.",
-     "kid": "Draw a table. Three tests go across the top. Eight cases go down the side.",
+     "do": "Rule a table with three columns and eight rows. The columns are the seven signs, NASA's test and Koshland's pillars. The rows are a flame, a salt crystal, a dry seed and a mule. The rows also include a virus, a curd bacterium, a robot and a forest fire. Before you fill in anything, ask your child to guess which two cases the tests will disagree about, and write the guess.",
+     "say": "We will use three real tests on eight cases. Test one is the seven signs of life you learned earlier. Test two is NASA's test. Test three is a scientist's list called Koshland's seven pillars.",
+     "kid": "Make a table. Three tests go across the top. Eight cases go down the side.",
      "parent": "The three tests in plain words. The seven signs: it feeds, breathes, grows, moves, senses, gets rid of waste and makes young. NASA's test: it is a chemical system that keeps itself going, and its kind can change by Darwin's rules over many generations. Koshland's pillars: it has instructions, it improvises when conditions change, it has a skin that makes compartments, it uses energy, it regenerates, it adapts and it keeps its chemical reactions apart.",
      "context": "This is the first step of Three Tests, Eight Cases. You draw the table."
     },
@@ -1489,7 +1489,7 @@
      "mins": 5,
      "do": "Walk through the house with your child. Find four machines that keep something steady. A fridge keeps its inside cold. A geyser keeps water hot. An iron keeps its heat. A rice cooker clicks off when the rice is done.",
      "say": "Many machines keep one thing steady. A fridge keeps its inside cold. A geyser keeps water hot. Find four machines at home. Write down what each one keeps steady.",
-     "kid": "Find four machines that keep something steady. Write what each keeps steady.",
+     "kid": "Find four machines. For each one, say what it keeps steady.",
      "ask": [
       {
        "q": "How does the machine know when to switch on or off?",
@@ -1597,7 +1597,7 @@
      "what": "Look at everything one last time, compare, and say what the evidence shows."
     }
    ],
-   "record": "A table with one row for each piece: the stem with a node, the leaf alone, the potato piece with an eye, the potato piece without an eye. For each day write what you see, such as roots, sprouts or rot. Draw each piece on day 1 and day 10.",
+   "record": "A table with one row for each piece: the stem with a node, the leaf alone, the potato piece with an eye, the potato piece without an eye. For each day write what you see, such as roots, sprouts or rot. Photograph or draw each piece on day 1 and day 10.",
    "context": "In this project, you cut living things into pieces and find out which pieces can start again. Every piece of a broken salt crystal keeps growing, but a piece of a living thing needs more to start again.",
    "setup": [
     {
@@ -1626,7 +1626,7 @@
      "kid": "Which pieces will start growing again? Which will not? Why do you think so?",
      "ask": [
       {
-       "q": "Why do you think the leaf alone will not grow roots?",
+       "q": "Why do you think the leaf alone will, or will not, grow roots?",
        "good": [
         "It has no stem.",
         "It has no place to grow from.",
@@ -1672,7 +1672,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Look again. Measure any roots or sprouts with a ruler and write the lengths. Notice which pieces have changed and which have not.",
-     "say": "Look closely. Use a magnifying glass for tiny roots. Which pieces are changing? Which are not?",
+     "say": "Look closely. Use a magnifying glass for tiny roots, if you have one. Which pieces are changing? Which are not?",
      "kid": "Look closely. Measure any roots or sprouts. Which pieces are changing?",
      "parent": "A money plant stem may show small white roots or bumps by now, or only after another week. Roots can take two to three weeks, so on day 10 small white bumps are a good result. If nothing has changed in a piece, keep it going for a few more days. If a potato piece has gone soft and smelly, throw it away and write 'rotted'. That is a result too.",
      "wait": "Day 6",
@@ -1681,9 +1681,9 @@
     {
      "id": "s5",
      "mins": 10,
-     "do": "Look at everything one last time. Draw each piece again. Ask your child to say what they thought, what they saw and why.",
-     "say": "Draw each piece again. Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw each piece again. Say what you thought, what you saw, and why.",
+     "do": "Look at everything one last time. Take a photo of each piece, or line them up side by side. Ask your child to say what they thought, what they saw and why.",
+     "say": "Take a photo of each piece again. Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
+     "kid": "Look at each piece again. Say what you thought, what you saw, and why.",
      "parent": "A strong answer says that the stem with a node and the potato piece with an eye started again, and that the leaf alone and the potato without an eye did not. After they have said what they saw, explain: a piece can start again if it has a growing point, such as a node or an eye, and enough stored food to live on until new roots or leaves can feed it. This is called regeneration. A piece of crystal needs no growing point. It just keeps stacking.",
      "think": "A broken salt crystal grows in every piece. Why do only some pieces of a living thing start again?",
      "wait": "Day 10",
@@ -1721,7 +1721,7 @@
     "A fire that is fed by a machine, kept at a steady heat by a thermostat and made to spread by a fan, so it passes almost every sign of life.",
     "For the sleeper, a seed or a tardigrade that dries up, passes almost none of the signs, and wakes again."
    ],
-   "your_turn": "Draw your faker and your sleeper. Count how many of the seven signs each one passes. Then say which sign was the hardest to fake, and which test you would add to catch your faker.",
+   "your_turn": "Build or draw your faker, and choose your sleeper. Count how many of the seven signs each one passes. Then say which sign was the hardest to fake, and which test you would add to catch your faker.",
    "context": "This is a design challenge about tests for life. You build a non-living thing that fools the tests, and a living thing that fails them.",
    "setup": [
     {
@@ -1741,9 +1741,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem with your child. List the seven signs of life on paper. Ask for two or three ideas for a faker. Sketch them.",
-     "say": "Your job is to build something that is not alive but passes as many tests as it can. First, list the seven signs. Then sketch some fakers.",
-     "kid": "List the seven signs. Sketch some ideas for a faker.",
+     "do": "Read the problem with your child. List the seven signs of life on paper. Ask for two or three ideas for a faker, said out loud.",
+     "say": "Your job is to build something that is not alive but passes as many tests as it can. First, list the seven signs. Then tell me some fakers you could make.",
+     "kid": "List the seven signs. Tell your grown-up two ideas for a faker.",
      "ask": [
       {
        "q": "Which sign of life will be the easiest to fake? Which will be the hardest?",
@@ -1760,9 +1760,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Pick the best idea. Draw it or build it from scrap. Label each of the seven signs it passes. Count how many it passes.",
-     "say": "Pick your best idea. Draw it or build it. Put a label for each sign your faker passes. Count them.",
-     "kid": "Pick your best faker. Draw or build it. Label the signs it passes.",
+     "do": "Pick the best idea. Build it from scrap, or draw it. Label each of the seven signs it passes. Count how many it passes.",
+     "say": "Pick your best idea. Build it or draw it. Put a label for each sign your faker passes. Count them.",
+     "kid": "Pick your best faker. Build or draw it. Label the signs it passes.",
      "parent": "If the model uses a real candle flame, a grown-up must be there. A drawn flame is enough.",
      "check": {
       "t": "mcq",
@@ -1780,9 +1780,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Now draw your sleeper: a living thing that fails as many of the signs as possible. Tick the signs your sleeper passes. Count how many she fails.",
-     "say": "Now the opposite. Draw a living thing that fails as many signs as possible. A dry seed is one. Can you find another?",
-     "kid": "Now draw a living thing that fails many signs. Tick the signs she passes.",
+     "do": "Now choose your sleeper: a living thing that fails as many of the signs as possible. Name it, or draw it. Tick the signs your sleeper passes. Count how many she fails.",
+     "say": "Now the opposite. Think of a living thing that fails as many signs as possible. A dry seed is one. Can you find another?",
+     "kid": "Now choose a living thing that fails many signs. Tick the signs it passes.",
      "parent": "A dried tardigrade, a dry seed, a bacterium frozen in ice and a worker bee are all good answers.",
      "context": "In this step, you draw your sleeper, a living thing that fails the tests."
     },

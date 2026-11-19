@@ -235,7 +235,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **Printable tokens: 8 room tokens: one set for each player (copy the sheet for every player):** Cell membrane; Nucleus; Ribosomes; Mitochondria; Golgi body; Lysosome; Chloroplast; Vacuole
 - **s1 (4 min)**  
   *Parent does:* Cut out the twelve cards and the eight room tokens. Shuffle the cards and put them in a pile. Give each player a set of tokens.  
-  *Parent says:* These cards show a problem in a cell. You pick the room that matters. Each player has eight tokens. Let us look at them once.  
+  *Parent says:* These cards show a problem in a cell. You pick the room that matters. Each player has eight tokens, one for each room. Look at them once.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take a set of tokens.
 - **s2 (6 min)**  
   *Parent does:* Play the first four cards. After each, ask why the wrong rooms would not fit.  
@@ -249,7 +249,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **s4 (4 min)**  
   *Parent does:* Play the last four cards. Count the points. Then ask which room was the answer on the most cards, and why that room matters so much.  
   *Parent says:* Last four. Count your points. Which room was the answer on the most cards, and why?  
-  *Child mode:* Play the last cards. Count your points. Which room came up the most, and why?
+  *Child mode:* Play the last four cards. Count your points.
   - Note: The answer is mitochondria. They appear on the most cards because almost every job in a cell needs energy, and mitochondria release that energy from food, using oxygen.
 
 ## Experiments
@@ -258,12 +258,12 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **predict:** Before you start, guess. Which glass will turn the reddest, and which will stay clear? Why do you think so?
 - **fair test:** Every glass gets the same amount of water, two cubes of the same size, and the same 20 minutes. Only one thing changes between glasses: cold, warm, hot, or cold with soap. All the cubes are rinsed first, so the red you see comes from inside the cells.
 - **safety:** A grown-up cuts the beetroot and pours the hot water. The hot glass (glass C) stays on the tray, away from the edge. Nobody touches it until it has cooled. Beetroot juice stains hands and clothes, so wear an old shirt. Do not drink the water from any glass.
-- **record:** Write a colour score for each glass at 5, 10 and 20 minutes: 0 for clear, 1 for the faintest pink, 3 for clearly pink, 5 for deep red. Write the colour of the cube at the end. Then draw the four glasses with the colours you saw.
+- **record:** Write a colour score for each glass at 5, 10 and 20 minutes: 0 for clear, 1 for the faintest pink, 3 for clearly pink, 5 for deep red. Write the colour of the cube at the end. Then draw the four glasses with the colours you saw, or take a photo of them.
 - **results table:** Glass | What is in it | Colour score at 5 min | Colour score at 10 min | Colour score at 20 min | Colour of the cube at the end
 - **s1 (6 min)**  
   *Parent does:* Set out four glasses and label them A, B, C and D. Read out what each will hold. Ask for a guess and the reason, and write both down.  
   *Parent says:* We will test four glasses. A has cold water. B has warm water. C has hot water. D has cold water with soap. Which will turn reddest? Why do you think so?  
-  *Child mode:* Four glasses. A is cold. B is warm. C is hot. D has soap. Which turns reddest? Why?
+  *Child mode:* Look at the four glasses. Point to the one you think will turn reddest.
   - Ask: Why do you think that glass will be the reddest? (good: The hot water will pull the colour out.; Heat is stronger than cold.; Soap cleans the colour off.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the results table.
 - **s2 (6 min) · grown-up needed**  
@@ -290,9 +290,9 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   - Note: The cube from the hot glass should be pale. The red has left it and gone into the water. The cube from the cold glass should still be deep red. So the hot water did not make new red. The red moved out of the cube.
   - Check: Why is the water in glass C red, and the cube from glass C pale? → **The heat broke the cell skins and the red colour spilled out of the cells.**
 - **s6 (10 min)**  
-  *Parent does:* Ask your child to say what they thought, what they saw and why. Then explain the membrane. Draw the four glasses with the colours you saw.  
+  *Parent does:* Ask your child to say what they thought, what they saw and why. Then explain the membrane. Line the four cubes up on a plate, from palest to reddest.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Say what you thought, what you saw, and why. Draw the four glasses.
+  *Child mode:* Say what you thought, what you saw, and why. Line the four cubes up from palest to reddest.
   - Note: After they have said what they saw, explain. Each beetroot cell holds a store of red pigment in a bag called a vacuole. A fatty skin, the membrane, wraps both the bag and the cell. A whole skin lets the red stay in. Heat melts the fat of the skin and bends the proteins that sit in it. Soap dissolves fat, so it opens the skin too. Cold leaves the skin whole. A membrane only holds if it is whole and alive. If the child is curious, try a frozen and thawed cube. Ice crystals tear the skins, so it spills red too.
   - Think: Suppose you freeze a cube for an hour and then let it thaw in cold water. Do you think it will spill red? Why?
 ### e2 · Banana DNA: can you pull the recipe book out of a cell? (38 min)
@@ -301,12 +301,12 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **predict:** Before you start, guess. Will you see anything, and what will it look like? Why do you think so?
 - **fair test:** The test glass holds the banana liquid. The check glass holds plain warm water with soap and salt but no banana, filled to the same depth. Both get the same amount of cold alcohol. If strands appear only where the banana is, the strands came from the banana.
 - **safety:** A grown-up handles the rubbing alcohol. It burns easily, so keep it away from the stove and any flame. It is poisonous, so nobody tastes it or the banana mixture. Wash hands afterwards. Do not leave the glasses where a younger child can reach them. Work near an open window, and check that nobody is allergic to banana or strawberry.
-- **record:** Write what you saw at the top layer after 5 minutes, in both glasses. Draw the tall glass with its layers: banana liquid at the bottom, alcohol on top, and the white strands between.
+- **record:** Write what you saw at the top layer after 5 minutes, in both glasses. Draw the tall glass with its layers, or take a photo of it: banana liquid at the bottom, alcohol on top, and the white strands between.
 - **results table:** Glass | What is in it | What I saw at the top after 5 minutes | Strands, yes or no
 - **s1 (5 min)**  
   *Parent does:* Put the bottle of rubbing alcohol in the freezer an hour before you start. Set out everything on a tray. Ask for a guess and a reason, and write both down.  
   *Parent says:* Every cell in a banana has a nucleus with DNA. Will we see any of it with our eyes? What do you think it will look like? Why?  
-  *Child mode:* Is there DNA in a banana? Can you see it? What would it look like?
+  *Child mode:* Is there DNA in a banana? Can you see it?
   - Ask: What do you think DNA looks like when it is out of the cell? (good: Tiny thin threads.; Like a white cloud.; We cannot see it.)
   - Note: Any guess with a reason is good. Many children expect a tiny ladder. Real DNA from many cells together looks like a white, stringy cloud.
 - **s2 (7 min)**  
@@ -318,7 +318,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   *Parent does:* Add one teaspoon of dish soap. Stir slowly for three minutes. Try not to make foam. Leave it for five minutes.  
   *Parent says:* The soap breaks the fatty skins around the cells and around the nuclei. It did the same to the beetroot cells in the Beetroot Test. Stir gently, because foam traps the DNA.  
   *Child mode:* Add the soap. Stir slowly for three minutes. Do not make foam.
-  - Ask: In the Beetroot Test, what did soap do to the beetroot cells? (good: It opened the skin and the red came out.)
+  - Ask: What does soap do to the fatty skin of a cell? (good: It opened the skin and the red came out.)
   - Note: This connects to the beetroot test. Soap dissolves the fatty membranes of the cells and the nuclei, so the DNA is set free. It helps to stand the cup in a bowl of hot tap water for ten minutes while it sits, but not water that is too hot to touch.
 - **s4 (6 min)**  
   *Parent does:* Pour the mixture through a coffee filter or a clean thin cloth into a tall glass. Fill the glass about one third full. Fill a second small glass to the same depth with warm water, soap and salt but no banana. This is the check glass.  
@@ -343,13 +343,13 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **predict:** Before you start, guess. Will the sprouts be warmer, colder or the same as the boiled seeds? Why do you think so?
 - **fair test:** Both flasks get the same amount of moong, the same container, the same towel wrapping, and the same place in the house. Only one thing differs: the seeds in one flask are alive, and the seeds in the other are not.
 - **safety:** A grown-up boils the moong. Do not eat any seeds from the flasks, because the boiled ones can go bad and smell sour. Wash the flasks well afterwards. Check that nobody is allergic to moong. Hot water and the stove are for the grown-up only. Keep the flasks in a safe place away from pets.
-- **record:** Write both temperatures at the start and the next morning. Work out the difference. Write whether the flask smells different. Draw a thermometer for each flask.
+- **record:** Write both temperatures at the start and the next morning. Work out the difference. Write whether the flask smells different. Take a photo of each flask beside its thermometer.
 - **results table:** Flask | What is in it | Start temperature | Next morning | Difference from the boiled flask
 - **schedule:** day 1: Soak 2 cups of moong in plenty of water for 8 hours or overnight. (6 min); day 2: Drain the moong. A grown-up boils half of it for 10 minutes and cools it. Fill both flasks to the top. Take the start temperature. (26 min); day 3: Measure both flasks again in the morning and compare. (8 min)
 - **s1 (6 min)**  
   *Parent does:* On the evening before, soak two cups of moong in plenty of water for 8 hours or overnight. Ask for a guess and a reason. Write both down.  
   *Parent says:* Seeds are alive. When wet, they wake up. Will a flask of waking seeds be warmer than a flask of boiled seeds? Why do you think so?  
-  *Child mode:* Soak the moong overnight. Guess which flask will be warmer, and why.
+  *Child mode:* Soak the moong in water overnight. Then tell your grown-up your guess.
   - Ask: Do you think living seeds make heat? Why? (good: Yes, because they are doing things.; No, because seeds just sit there.)
   - Note: Any guess with a reason is good.
   - Wait: Leave the moong to soak overnight.
@@ -382,7 +382,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 ### a1 · The Copy Walk: from recipe book to bead necklace (25 min)
 - **problem:** A cell keeps her recipes in the nucleus and never takes the DNA out. So how can she build a protein from a recipe? She copies one recipe, sends the copy to a ribosome, and the ribosome builds the protein. In this activity you act out these steps with coloured dots and four kinds of grain. Then you change one dot and see what happens to the protein.
 - **safety:** Dry grains are small. Keep them away from toddlers, and nobody puts them in the mouth, nose or ears. If a child is allergic to any pulse, use coloured paper bits or beads instead.
-- **record:** Draw the recipe dots, the messenger copy, and the necklace you built each time. Write what changed when the dots changed.
+- **record:** Take a photo of the recipe dots, the messenger copy, and each necklace you built. Write what changed when the dots changed.
 - **s1 (6 min)**  
   *Parent does:* Draw eight dots on the paper strip in this order: red, red, blue, yellow, yellow, red, blue, blue. Put the strip on the steel plate. Then write the code on another paper. In the code, R is red, B is blue and Y is yellow. RR, RB and YY mean chana. RY and YR mean rice. BR and BB mean moong. BY and YB mean rajma.  
   *Parent says:* This strip is the recipe book in the nucleus. It must never leave the plate. Here is the code. Two dots in a row make one word, and each word means one grain.  
@@ -395,7 +395,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
   - Ask: Why do you think the cell copies the recipe and keeps the book? (good: So the book does not get lost or damaged.; So the book can be used again.)
 - **s3 (6 min)**  
   *Parent does:* At the ribosome plate, read the note two dots at a time. Use the code to pick a grain for each pair. Line up the grains in order.  
-  *Parent says:* You are the ribosome now. Read two dots, pick a grain. What is your necklace? It should have four grains.  
+  *Parent says:* You are the ribosome now. Read two dots, pick a grain. Your necklace should have four grains.  
   *Child mode:* Read two dots. Pick a grain. Do it four times. Line them up.
   - Note: The right answer is chana, rajma, rice, moong. Check the pairs RR, BY, YR and BB against the code. With two to four children, one guards the book on the nucleus plate, one copies the note, and one is the ribosome. Swap parts, and let the guard draw a new strip of eight dots for the next round. Alone, play all three parts and let a grown-up draw the new strip.
 - **s4 (8 min)**  
@@ -418,19 +418,19 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **s2 (6 min)**  
   *Parent does:* Show the true order. A red blood cell has none. A sperm cell has about 50 to 75, packed in a spiral behind the head. A liver cell has about 1,000 to 2,000. A heart muscle cell has thousands. An egg cell has about 100,000 or more. Move the slips into this order.  
   *Parent says:* Here is the true order. The egg cell is the biggest cell in the human body, and she has the most mitochondria. Why might an egg cell need so many?  
-  *Child mode:* Move the slips into the true order. Which cell has the most? Why might that be?
+  *Child mode:* Move the slips into the true order. Look at where each cell lands.
   - Note: Numbers vary from cell to cell and from person to person, so say 'about'. The egg is surprising. After fertilisation she divides many times using her own mitochondria, so she carries most of what the first cells of a baby will need. The sperm cell's mitochondria sit in a tight spiral behind the head and power the sperm's swimming.
 - **s3 (4 min)**  
-  *Parent does:* Ask why the red blood cell has none. Then ask why the heart cell has so many. Write one sentence for each. Then work out how many times as many mitochondria an egg cell has as a liver cell. Use about 100,000 for the egg cell and about 1,000 for the liver cell.  
+  *Parent does:* Ask why the red blood cell has none. Then ask why the heart cell has so many. Say one sentence for each. Then work out how many times as many mitochondria an egg cell has as a liver cell. Use about 100,000 for the egg cell and about 1,000 for the liver cell.  
   *Parent says:* A red blood cell carries oxygen and keeps none for herself. Why would that help? And why does the heart cell have thousands?  
   *Child mode:* Why does a red blood cell have none? Why does a heart cell have many?
   - Note: A red blood cell carries oxygen and does not use it. If she had mitochondria, she would use up the oxygen she carries. Training does increase the number of mitochondria in muscle cells. For the think question, a good answer is yes, because a cell that works harder needs more power, and so the body builds more mitochondria in her. The sum is 100,000 divided by 1,000, so an egg cell has about 100 times as many mitochondria as a liver cell. Say about, because the counts vary.
   - Think: If you trained for a race, would your muscle cells grow more mitochondria? Why?
 ### a3 · The Mother-Line Map: whose mitochondria do you carry? (20 min)
 - **problem:** Almost all of your mitochondria came from your mother's egg, and hers came from her mother's egg. In this activity you draw the line of women behind you, and you count how many years that line goes back.
-- **record:** Draw your mother-line map. Write each woman's name and where she lived, as far back as you can.
+- **record:** Make your mother-line map, drawn or laid out with slips of paper. Write each woman's name and where she lived, as far back as you can.
 - **s1 (8 min)**  
-  *Parent does:* Draw yourself at the bottom of a large sheet. Draw your mother above you. Draw your mother's mother above her. Go back as far as you or an older relative can. Write each name and place. Draw a small bean-shaped mitochondrion beside each person. If you can, ask an elder where each woman was born, and mark the places on a rough sketch map of India.  
+  *Parent does:* Draw yourself at the bottom of a large sheet. Draw your mother above you. Draw your mother's mother above her. Go back as far as you or an older relative can. If you would rather not draw, write each name on a slip of paper and lay the slips in a line. Write each name and place. Draw a small bean-shaped mitochondrion beside each person. If you can, ask an elder where each woman was born, and mark the places on a rough sketch map of India.  
   *Parent says:* Your mitochondria came mostly from your mother's egg. Hers came from her mother. Let us draw the line. How far back can we go?  
   *Child mode:* Draw yourself. Draw your mother above you. Add her mother. Go as far as you can.
   - Note: If your family has adoption, loss or an unknown line, draw the line you know and stop there. That is part of the picture. Siblings share one mother-line, so they draw it together and each asks a different elder. Friends who are not related each draw their own and compare. Fathers and mothers both give DNA to the nucleus, but in most animals the mitochondria come from the egg.
@@ -442,7 +442,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **s3 (6 min)**  
   *Parent does:* Tell your child that the line of mothers goes all the way back to the first cells. Then ask who passes mitochondria on to the next generation. Boys receive them but, in most animals, do not pass them on.  
   *Parent says:* Every person alive has a line of mothers going back to the first cells. Who passes mitochondria on to the next generation: the mother, the father or both?  
-  *Child mode:* The line goes back to the first cells. Who passes mitochondria on: the mother or the father?
+  *Child mode:* The line of mothers goes back to the first cells.
   - Ask: In most animals, who passes mitochondria on to the next generation? (good: The mother, through her egg.; Mostly the mother. The sperm adds almost none.)
   - Note: Scientists use mitochondrial DNA to trace lines of mothers. All living humans share one ancestor on the mother's side, often called mitochondrial Eve, who lived roughly 150,000 to 200,000 years ago in Africa. She was not the only woman alive then. The other women's lines did not reach the present through an unbroken chain of daughters.
 
@@ -471,7 +471,7 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **s4 (15 min)**  
   *Parent does:* Ask your child to write three things the model gets wrong. For example, it stays still, it has a flat floor, and it shows only a few rooms. Look at the tray and compare.  
   *Parent says:* Our model sits still. A real cell never does. What else is different? Write three things the model gets wrong.  
-  *Child mode:* Write three things the model gets wrong. Is there a boss in the city?
+  *Child mode:* Look at your tray. Write three things the model gets wrong.
   - Note: The last question has a clear answer: no, there is no boss in the city. The nucleus keeps the recipes, but signals from the whole cell decide which recipes are used. Good answers to the first question: the real cell moves and jostles all the time, the rooms are crowded, there are millions of ribosomes, the cell has no single boss, the model is flat, and it is huge compared with the real thing. A real cell is usually only 10 to 30 micrometres wide.
 
 ## Challenges
@@ -482,14 +482,14 @@ Afterwards, the girls lay in the boat with their arms hanging over the sides, la
 - **general:** A muscle cell: one nucleus, twelve mitochondria stickers, a few ribosomes and some Golgi, because she needs lots of power.; A leaf cell: some mitochondria, many chloroplasts, one nucleus, a few ribosomes.; A digestive gland cell: lots of ribosomes and rough ER and Golgi, some mitochondria, because she makes and posts a lot of protein.
 - **creative:** A cell for a bird that flies over the Himalaya, such as the bar-headed goose: more mitochondria stickers than a runner, and a note on why.; A cell for a cave animal with no light and very little food: very few mitochondria, and a reason.; A cell with no nucleus, like a red blood cell, with only room for oxygen: none of the six kinds of sticker, and a note on what she carries and how long she can live (about four months).
 - **s1 (6 min)**  
-  *Parent does:* Read the problem together. Draw a big circle for the cell. Make a key with six colours for the six rooms. Ask what a leg muscle cell does all day.  
+  *Parent does:* Read the problem together. Use a plate as the cell, or draw a big circle. Make a key with six colours for the six rooms. Ask what a leg muscle cell does all day.  
   *Parent says:* You are designing a cell for a job with twenty stickers. What does a runner's leg muscle cell do? Which rooms will she need most?  
-  *Child mode:* Read the problem. Draw a big circle. Make a colour key for six rooms.
+  *Child mode:* Read the problem. Use a plate as your cell. Make a colour key for six rooms.
   - Ask: What does a leg muscle cell need most? (good: Power, so mitochondria.; A way to get oxygen.)
 - **s2 (10 min)**  
-  *Parent does:* Share out twenty dots among the rooms for the muscle cell. Write one sentence of reason for each group. Check that you used all twenty.  
+  *Parent does:* Share out twenty dots among the rooms for the muscle cell. Say one sentence of reason for each group. Check that you used all twenty.  
   *Parent says:* Put your twenty dots in the cell. Why that many mitochondria? Why that many ribosomes?  
-  *Child mode:* Stick twenty dots. Write a reason for each group of dots.
+  *Child mode:* Stick twenty dots. Tell your grown-up why you chose each group.
   - Note: There is no single right answer. A strong design gives most dots to mitochondria and has a reason for every group.
 - **s3 (12 min)**  
   *Parent does:* Design a second cell for a different job, such as a leaf cell or a digestive gland cell. Share out twenty dots again. Compare the two cells and say what changed.  
