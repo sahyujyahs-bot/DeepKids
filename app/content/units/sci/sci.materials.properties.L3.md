@@ -285,11 +285,11 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s1 (4 min)**  
   *Parent does:* 1. Cut out the 36 cards. 2. Read the 12 property names together. 3. For each one, read its test and its example. 4. Shuffle and deal 5 cards each.  
   *Parent says:* A property is a word for what a material is like. There are twelve here. Each has a name, a test and an example. Let's read them all before we play.  
-  *Child mode:* Cut out the cards. Read the twelve property names. Read each test and each example. Then deal.
+  *Child mode:* Read each property name, its test and its example. Then get your five cards.
 - **s2 (3 min)**  
   *Parent does:* Play one practice turn together. Show this test card and ask: which property does it test?  
-  *Parent says:* Let's practise. Here is one card: 'Hold it in front of a torch. A blurry glow shows on the wall.' Which property does it test?  
-  *Child mode:* Read the test card. Which property does it show? Choose your answer.
+  *Parent says:* Let's practise with one test card.  
+  *Child mode:* Read the test card. Choose the property it shows.
   - Check: Hold it in front of a torch. A blurry glow shows on the wall. Which property is that? → **Translucent**
 - **s3 (13 min)**  
   *Parent does:* Play the game. When you lay down a set, read all three cards aloud and say whether the test and the example really fit. Then draw a challenge card, talk about the answer, and turn the card over to check.  
@@ -297,14 +297,14 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Child mode:* Take turns. Ask for a card by name and kind. Lay down each complete set and read it aloud.
   - Note: Good habit: when a set is laid down, ask 'Does that test really show that property?' This is the heart of the game.
 - **s4 (3 min)**  
-  *Parent does:* Talk about the game. Ask which pair of properties was hardest to tell apart.  
-  *Parent says:* Which two properties were hardest to tell apart? Why?  
-  *Child mode:* Which two properties were hardest to tell apart?
+  *Parent does:* Talk about the game together.  
+  *Parent says:* Let's look back at the game.  
+  *Child mode:* Think back. Which cards did you mix up?
   - Ask: Which pair of properties did you find hardest to tell apart? (good: Hard and strong.; Elastic and flexible.; Waterproof and the opposite, absorbent.)
   - Note: The answers to the challenge cards are on their backs. Hard means hard to scratch, and brittle means it snaps, so glass is hard and brittle.
 - **s5 (2 min)**  
   *Parent does:* Count the tokens to find the winner. Talk about which tests you remembered most easily.  
-  *Parent says:* Which tests were easy to remember? Which were hard? Which two properties look alike?  
+  *Parent says:* Which tests were easy to remember? Which were hard?  
   *Child mode:* Count your tokens. Which tests were easy to remember? Which were tricky?
   - Note: Good answers choose tests that tell different things, for example scratching it, bending it and dripping water on it. Three tests that all show the same property would tell you less.
   - Think: If you could only do three tests on a mystery material, which three would you choose?
@@ -317,8 +317,8 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Child mode:* Cut out the cards. Learn the five properties. Zero means none, and five means a lot.
 - **s2 (3 min)**  
   *Parent does:* Play one practice round. Show the top cards. Ask: 'If I chose absorbent, who would win?'  
-  *Parent says:* Let's practise with one round. Look at your top cards. If I pick 'absorbent', who wins?  
-  *Child mode:* Look at your top cards. If we pick 'absorbent', who wins? Choose your answer.
+  *Parent says:* Let's practise with one round. Look at your top cards.  
+  *Child mode:* Look at the two top cards. Choose who wins.
   - Check: Cotton cloth is absorbent 5. Clear plastic is absorbent 0. In a round on 'absorbent', who wins? → **Cotton cloth, because it soaks up the most water**
 - **s3 (12 min)**  
   *Parent does:* Play the game. Before each round, the chooser says why their material scores high or low. If anyone disagrees with a score, test it for real if you can.  
@@ -328,7 +328,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s4 (3 min)**  
   *Parent does:* Look at the cards. Is there a material with a 5 for everything? Is there a material with a 0 for everything?  
   *Parent says:* Look through the cards. Is there a perfect material that wins every round?  
-  *Child mode:* Look at all the cards. Is there one that wins every round? Why not?
+  *Child mode:* Look through all the cards. Look for one with a high score everywhere.
   - Ask: Why can no material be the best at everything? (good: Some properties pull in opposite directions.; A very flexible thing cannot also be very rigid.; Each job needs different properties.)
   - Note: Hard and flexible never seem to go together on these cards. Glass is hard 5 and flexible 0. Rubber is flexible 5 and hard 1. A very hard thing cannot bend, and a very bendy thing is easy to scratch or dent.
   - Think: Which two properties on these cards never seem to go together?
@@ -342,7 +342,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **record:** Fill in the table. Then write the name of each group under its things.
 - **results table:** Thing | Bend a little: does it spring back? | Bend it more: what happens? | Which group?
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay out the eight things. 2. Ask your child to make three piles on the table: SNAPS, STAYS BENT and SPRINGS BACK. 3. Ask them to say why for each.  
+  *Parent does:* 1. Lay out the eight things. 2. Ask your child to make three piles on the table: SNAPS, STAYS BENT and SPRINGS BACK.  
   *Parent says:* Imagine bending each of these. Some will snap. Some will stay bent. Some will spring back. Put each one in the pile you think it belongs to.  
   *Child mode:* Look at the eight things. Make three piles: SNAPS, STAYS BENT and SPRINGS BACK. This is your guess.
   - Ask: Why did you put that one in that pile? (good: It is dry and stiff, so it will snap.; It is metal, so it will stay bent.; It is rubber, so it will spring back.)
@@ -391,7 +391,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s4 (5 min)**  
   *Parent does:* Help your child draw a bar chart of the middle values, with one bar for each strip.  
   *Parent says:* Each strip gets one bar. The taller the bar, the more the strip bent down.  
-  *Child mode:* Draw one bar for each strip. A taller bar means a more flexible strip.
+  *Child mode:* Draw one bar for each strip, or stack coins for each one. A taller bar means a more flexible strip.
   - Check: In the droop test, a strip with a big drop is… → **More flexible**
 - **s5 (2 min)**  
   *Parent does:* Talk about the corrugated card, the thin card and the paper. They are all made of wood fibres. What changed?  
@@ -406,9 +406,9 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **record:** Fill in the table. In the last column, write weaker, stronger or about the same.
 - **results table:** Material | Dry: cups held | Damp: cups held | What changed?
 - **s1 (3 min)**  
-  *Parent does:* 1. Show the toilet paper, the newspaper and the thread. 2. For each one, ask your child to guess: will the damp one hold more water, less, or the same? 3. Ask why.  
-  *Parent says:* Think of wet newspaper. Is it stronger or weaker than dry newspaper? What about wet thread? Guess for each one, and tell me why.  
-  *Child mode:* Look at the three materials. Will the damp one hold more, less or the same? Why?
+  *Parent does:* 1. Show the toilet paper, the newspaper and the thread. 2. For each one, ask your child to guess: will the damp one hold more water, less, or the same?  
+  *Parent says:* Think of wet newspaper. Is it stronger or weaker than dry newspaper? What about wet thread? Guess for each one.  
+  *Child mode:* Look at the three materials. Will the damp one hold more, less or the same?
   - Ask: Why did you guess that for the thread? (good: Wet paper tears, so wet thread might break too.; Wet cloth feels heavy and tough.; I am not sure. We have to test it.)
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Put two chairs back to back, a little apart. Lay the broom handle across their backs. 2. Wrap the top of a dry toilet paper strip once round the handle, and tape it to itself. 3. Wrap the bottom end round the pencil and tape it. 4. Hang the bag's two handles on the two ends of the pencil. 5. Stand the bucket under the bag.  
@@ -460,7 +460,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s4 (5 min)**  
   *Parent does:* Help your child draw a bar chart of the middle values, with one bar for each surface.  
   *Parent says:* Each surface gets one bar. A short bar means the drop vanished fast. A tall bar means it took a long time or never went in.  
-  *Child mode:* Draw one bar for each surface. A short bar means the drop soaked in fast.
+  *Child mode:* Draw one bar for each surface, or stack coins for each one. A short bar means the drop soaked in fast.
   - Check: In the vanishing drop chart, a very tall bar means the surface is… → **Waterproof or nearly so**
 - **s5 (4 min)**  
   *Parent does:* Fill a plate with water. Shake pepper onto it. Dip a finger in dish soap and touch the middle. Also look at a drop on a colocasia leaf, if you have one.  
@@ -491,7 +491,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s4 (2 min)**  
   *Parent does:* Help your child draw a bar chart of the layers for each material.  
   *Parent says:* Each material gets a bar. A taller bar means it took more layers to block the light.  
-  *Child mode:* Draw one bar for each material. A taller bar means more layers.
+  *Child mode:* Draw one bar for each material, or stack coins for each one. A taller bar means more layers.
   - Check: One sheet of butter paper is translucent. A tall stack is opaque. What does this show? → **Translucent or opaque can depend on thickness**
 
 ## Activities
@@ -545,14 +545,14 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   - Think: Which of your passport answers for the steel tumbler would be the same for a steel spoon? Which would be different?
 ### a3 · The Property Ladder (25 min)
 - **safety:** A grown-up handles the nail. Use nothing sharp or breakable.
-- **record:** Draw your three ladders and write the six things in order on each.
+- **record:** A photo of each of your three ladders, or the six things written in order for each.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Stretch a string across a doorway like a washing line. 2. Label one end 'hardest' and the other end 'softest'. 3. Show your child the fingernail test: try to scratch the thing with your fingernail. If it scratches, the thing is soft. If it does not, try the nail, with a grown-up.  
   *Parent says:* We will put these six things in order from hardest to softest. First try your fingernail on each one. If it scratches, the thing is soft. If not, ask a grown-up to try the nail.  
   *Child mode:* Stretch the string. One end is hardest. The other is softest. Try your fingernail on each thing.
   - Note: Here we only need three groups: scratched by a fingernail, scratched only by a nail, and not scratched by either.
 - **s2 (6 min)**  
-  *Parent does:* 1. Your child pegs the six things on the line in order of hardness. 2. Test any pair that is hard to decide by trying to scratch one with the other. 3. Draw the ladder.  
+  *Parent does:* 1. Your child pegs the six things on the line in order of hardness. 2. Test any pair that is hard to decide by trying to scratch one with the other. 3. Take a photo of the ladder.  
   *Parent says:* Is the chalk harder than the rubber? How can you check? Test each pair you are not sure of.  
   *Child mode:* Peg the things in order, hardest to softest. Test any pair you are unsure about.
   - Ask: How did you decide where each thing goes? (good: I scratched it with my nail.; I tried to scratch one with another.; It dents when I press it.)
@@ -574,7 +574,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Child mode:* Say one sentence for each ladder. Start with 'The … is …er than the …'.
   - Note: Using 'harder than' and 'more flexible than' is the language of comparing. Numbers come next, in the experiments.
 ### a4 · Through Coloured Plastic (20 min)
-- **record:** Draw the picture as it looked through each colour. Write what you noticed.
+- **record:** Write what you noticed through each colour, or tell your grown-up.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold the red plastic up to your eye and look at the picture. 2. Note how each thing looks. 3. Do the same with green, then blue.  
   *Parent says:* Look at the picture through the red plastic. What happens to the red things? What happens to the green things? Now try green and blue.  
@@ -588,26 +588,26 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   - Check: You hold a red plastic and a green plastic together in front of a torch. What do you see on the wall? → **Almost no light, because each one blocks what the other lets through**
 - **s3 (5 min)**  
   *Parent does:* Talk about why the same light looks red through red plastic. Ask where the other colours went.  
-  *Parent says:* White light has all the colours in it. The red plastic lets the red through. Where did the other colours go?  
-  *Child mode:* The red plastic let only red through. Where did the other colours go?
+  *Parent says:* Think about the light that did not come out of the red plastic.  
+  *Child mode:* Look at the red light on the paper again. Think about the colours that did not come through.
   - Ask: Where do the other colours go? (good: The plastic soaks them up.; They turn into a tiny bit of heat in the plastic.)
   - Note: Soaked-up light turns into a very small amount of heat. This is why a dark coloured cloth feels warmer in the sun than a white one.
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to draw the picture as it looked through each colour. Ask which plastic made each thing look darkest.  
-  *Parent says:* Draw what you saw through each colour. Which thing looked darkest through the red plastic?  
-  *Child mode:* Draw the picture as it looked through each colour.
+  *Parent does:* Look at the picture through each colour again. Ask your child to point to the thing that looks darkest each time.  
+  *Parent says:* Look through each colour again. Point to the thing that looks darkest. Tell me why you think so.  
+  *Child mode:* Look through each colour again. Point to the thing that looks darkest.
   - Note: Red plastic is transparent to red light, because red light goes straight through and you can see clearly. It is almost opaque to green light, because the plastic soaks it up. So the answer is different for different colours of light.
   - Think: Is red plastic transparent, translucent or opaque? Is it the same for every colour of light?
 ### a5 · Dance of the Three Veils (15 min)
 - **safety:** Keep the plastic sheet away from faces and heads.
-- **record:** Draw the three veils and write transparent, translucent or opaque under each.
+- **record:** Three slips, transparent, translucent and opaque, each put on the right veil.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the three veils. 2. Explain the three calls. CLEAR means the dancer is behind the clear sheet. MIST means behind the cotton cloth. HIDE means behind the blanket. 3. The other person holds each veil up like a curtain, at chest height, and the dancer dances behind it.  
   *Parent says:* When I call 'clear', dance behind the clear sheet. When I call 'mist', dance behind the cotton. When I call 'hide', dance behind the blanket. I will hold each one up.  
   *Child mode:* There are three calls: CLEAR, MIST and HIDE. Each one means a different veil.
 - **s2 (6 min)**  
   *Parent does:* 1. Play music. 2. Call the words in any order and hold up the right veil. 3. Your child dances behind it. 4. You watch and say what you can see of them.  
-  *Parent says:* Behind the clear sheet, I can see everything. Behind the cotton, I see a shape. Behind the blanket, I see nothing. Let us dance!  
+  *Parent says:* I will watch, and tell you what I can see of you. Let us dance!  
   *Child mode:* Dance behind the veil you are called to. Your partner tells what they can see.
   - Ask: What could I see through each veil? (good: Clear: everything.; Mist: only a blurry shape.; Hide: nothing at all.)
 - **s3 (3 min)**  
@@ -616,9 +616,9 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Child mode:* Swap places. You call the words and hold up the veils now.
   - Check: Early morning fog is thin. You can see a tree through the fog, but the tree looks blurry. Fog is… → **Translucent**
 - **s4 (3 min)**  
-  *Parent does:* Draw the three veils and write transparent, translucent or opaque under each.  
-  *Parent says:* Draw the three veils. Write a word under each one.  
-  *Child mode:* Draw the three veils. Write a word under each.
+  *Parent does:* Write transparent, translucent and opaque on three slips of paper. Ask your child to put each slip on the veil it fits.  
+  *Parent says:* Here are three words on three slips. Put each word on the veil it fits.  
+  *Child mode:* Put each word slip on the right veil.
   - Note: A good answer is the clear sheet for a window, because you can see out. The cotton cloth suits a curtain, because it lets in light but hides the room. The blanket suits a door, because nothing can be seen through it.
   - Think: Which of the three would you choose for a window? Which for a curtain? Which for a door?
 ### a6 · The Kitchen Float Lab (25 min)
@@ -641,13 +641,13 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s4 (5 min)**  
   *Parent does:* Talk about how a heavy steel ship floats. Ask your child to work out how it is like the foil boat.  
   *Parent says:* A ship weighs thousands of tonnes. But it floats. How is it like the foil boat?  
-  *Child mode:* A heavy steel ship floats. How is it like your foil boat?
+  *Child mode:* Think about the ship and your foil boat. What do they share?
   - Note: A good answer is that the pieces of ice are packed less tightly than the pieces of liquid water, so ice is less dense and floats. This is unusual, because most solids are packed more tightly than their own liquid.
   - Think: Ice floats on water. What does that tell you about how its pieces are packed?
 
 ## Projects
 ### p1 · Make Your Own Property Trumps (90 min, 3 days)
-- **record:** Eight cards, each with a material, a picture and five scores from 0 to 5. Plus a note on what surprised you.
+- **record:** Eight cards, each with a material, a picture or a small piece of it, and five scores from 0 to 5. Plus a note on what surprised you.
 - **schedule:** day 1: Choose 8 materials. Gather your results. Test any that are missing. (35 min); day 2: Turn your results into scores from 0 to 5. Make the cards. (35 min); day 3: Play your deck. Compare it with the printed Property Trumps cards and find where they differ. (20 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Gather your results from five tests. 2. The Property Ladder gives hard: count each material's place from the soft end, with the softest as 1. 3. The droop test gives flexible: the drop in centimetres. 4. The layers test gives transparent: the number of layers until it is dark. 5. The vanishing drop gives absorbent: the seconds. 6. The dry results of the Dry or Damp test give strong: the cups. 7. Choose 8 materials that appear in several tests. 8. Write their numbers in one big table, with a row for each material.  
@@ -665,9 +665,9 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   *Child mode:* The biggest number gets 5. For the others, multiply by 5. Then divide by the biggest. Round it.
   - Check: In the droop test the most flexible strip dropped 10 centimetres. Another dropped 5. About what flexible score out of 5 should the second get? → **2 or 3, because 5 is half of 10**
 - **s4 (15 min)**  
-  *Parent does:* Make the cards. Write the material, draw a picture and write its five scores.  
-  *Parent says:* Now make your cards. Each one has the material's name, a picture and five scores.  
-  *Child mode:* Make your cards. Write the name. Draw a picture. Write the scores.
+  *Parent does:* Make the cards. Write the material and its five scores. Add a picture or a small piece of the material.  
+  *Parent says:* Now make your cards. Each one has the material's name, its five scores, and a picture or a small piece of the material.  
+  *Child mode:* Make your cards. Write the name and the five scores. Add a picture or a piece of the material.
 - **s5 (12 min)**  
   *Parent does:* Play your deck like Property Trumps. Compare your card scores with the scores on the printed Property Trumps cards.  
   *Parent says:* Let's play with our own cards. Then compare them with the rough scores on the printed cards.  
@@ -693,7 +693,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s2 (6 min)**  
   *Parent does:* Help your child write a list of six tests that tell the most. Then do the same for the other two bags.  
   *Parent says:* Which six tests will tell you the most? Pick tests that split materials into different groups.  
-  *Child mode:* Choose six tests. Make them ones that tell you the most.
+  *Child mode:* Write down your six tests for each bag.
   - Ask: Why choose the tests carefully? (good: We only have six.; Some tests tell more than others.; A test that most materials pass tells us little.)
 - **s3 (15 min)**  
   *Parent does:* Do the tests. Write down the result of each in a table. After the last test, write your best guess for each bag.  
@@ -708,7 +708,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
   - Think: Could two different materials give the same results on all six tests? What would you do then?
 ### c2 · The Privacy Window (30 min)
 - **problem:** Your window faces a busy lane. You want sunlight to come in, but you do not want people in the lane to see inside. Use things you find at home to make a model window cover that does both.
-- **your turn:** Now invent your own cover. Draw it, make it and test it. How much light did it let in? How well did it hide the person?
+- **your turn:** Now invent your own cover. Make it and test it. How much light did it let in? How well did it hide the person?
 - **constraints:** Most of the light must still come through.; A person standing on the other side must not be seen clearly.; You can only use materials from home.; You must test your cover, not guess.
 - **general:** Stick butter paper or tracing paper over the hole. It is translucent, so it lets in light but blurs the picture.; Layer thin tissue paper, a sheet at a time, until the person is just a shape.; Hang a net or a thin cotton curtain over the window.
 - **creative:** Cut a pattern of small holes, like an Indian jaali screen. Light and air come through, but eyes cannot see a clear picture.; Make a bamboo blind, with thin slats close together. Many Indian homes call these chik blinds.; Hang a khus tatti, a mat of woven grass. In summer, people sprinkle it with water, and it cools the air that comes through.; Hang a screen of woven coconut leaves, like the ones used in villages in Kerala and Tamil Nadu. Light comes in through the gaps, and eyes cannot see a clear picture.; Stick thin coloured tissue paper in a pattern, like stained glass, and see what the light does.
@@ -724,7 +724,7 @@ That kind of muslin is no longer made. The last masters grew old, the special co
 - **s3 (10 min)**  
   *Parent does:* Combine ideas. Try layers of tissue. Try a jaali pattern. Try two materials together.  
   *Parent says:* Can you combine two ideas? One layer of butter paper with a pattern of small holes? Test it.  
-  *Child mode:* Try layers. Try a jaali pattern. Try two ideas together. Test each.
+  *Child mode:* Try layers. Try a jaali, a pattern of small holes. Try two ideas together. Test each.
   - Ask: What happened when you added more layers? (good: It let in less light.; The person was harder to see.; There is a balance: enough layers to hide, not so many that it goes dark.)
 - **s4 (7 min)**  
   *Parent does:* Choose the best cover. Say why it works, using the words transparent, translucent and opaque.  

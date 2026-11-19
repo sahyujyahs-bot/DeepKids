@@ -203,13 +203,13 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   *Child mode:* Lay the cards face down. Turn two over. Is it a source and its fix?
 - **s2 (10 min)**  
   *Parent does:* Play until all pairs are found. When someone finds a pair, ask: air, water or land?  
-  *Parent says:* Burning plastic! Does that pollute the air, the water or the land? Can it be more than one?  
+  *Parent says:* Take burning plastic. Does it pollute the air, the water or the land? Can it be more than one?  
   *Child mode:* Found a pair? Say if it dirties air, water or land.
   - Note: Some sources pollute more than one: burning plastic dirties the air, and its ash dirties the land. Give the point for any honest reason.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Let's check one pair. A neighbour burns dry leaves every morning. Which fix makes no smoke at all?  
-  *Child mode:* A neighbour burns dry leaves every day. Which fix makes no smoke at all?
+  *Parent says:* Let's check one pair before we stop.  
+  *Child mode:* Think about what happens to the leaves with each fix. Pick the one that makes no smoke.
   - Check: A neighbour burns dry leaves every morning. Which fix makes no smoke at all? → **Put the leaves in a compost pit**
 
 ## Experiments
@@ -219,7 +219,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **predict:** Guess first. After three days, which card will have the most specks: the flat one on the sill, the upright one on the grill, or the one in the closed dabba? Will the upright card catch anything at all? Why do you think so?
 - **fair test:** All three cards are the same size, with the same square and the same thin layer of jelly, and stay out for the same three days. Only the place changes. The card in the closed dabba is the control: it shows what a card looks like when the air cannot reach it, so we know the specks on the others came from the air.
 - **safety:** A grown-up tapes the card to the outside sill or grill. Children never lean out of a window or climb on the sill.
-- **record:** Fill in the table. Draw what the specks looked like under the glass. Stick the three cards in your notebook with clear tape over them.
+- **record:** Fill in the table. Say or draw what the specks looked like under the glass. Stick the three cards in your notebook with clear tape over them.
 - **results table:** Card | Where it was | Colour of the square: white, light grey or dark grey | Specks counted in one corner of the square | What the specks looked like
 - **schedule:** day 1: Make three sticky cards. Put one flat on the window sill, one upright on the grill, and one in a closed dabba. Write your guess. (15 min); day 2: Look at the cards without touching them. Can you see anything yet? Then leave them for two more days. (2 min); day 4: Bring the cards in. Look with the magnifying glass. Count the specks in one corner of each square. Fill in the table and say what you found. (13 min)
 - **s1 (4 min)**  
@@ -235,7 +235,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **s3 (3 min)**  
   *Parent does:* Ask your child to guess which card will catch most, and why. Write the guess in the notebook.  
   *Parent says:* One card lies flat on the sill. One stands upright on the grill, so nothing can fall on it. One goes in a closed dabba. Which will be dirtiest after three days? Why do you think so?  
-  *Child mode:* Which card will be dirtiest after three days? Will the standing card catch anything? Say why.
+  *Child mode:* Point to the card you think will be dirtiest. Then say why.
   - Ask: Why might the upright card catch less than the flat one? (good: Dust falls down, so it lands on flat things.; Nothing can drop onto a card that stands up.)
   - Note: Wait for a guess and a reason. Do not explain anything yet. Many children say the upright card will stay clean. That is a good guess to test.
 - **s4 (5 min) · grown-up needed**  
@@ -264,7 +264,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **s8 (3 min)**  
   *Parent does:* Ask your child to say or write three things: what they found out (the claim), what they saw that shows it (the evidence), and why they think it happened (the reason).  
   *Parent says:* Tell me what you found out, what you saw that shows it, and why you think it happened.  
-  *Child mode:* Say three things: what you found out, what you saw that shows it, and why you think it happened.
+  *Child mode:* Say three things. What you found out. What you saw that shows it. Why you think it happened.
   - Ask: What did you find out? (good: The air at our window carries dust, even when it looks clear.; The flat card caught the most, but the upright card caught some too.; The card in the dabba stayed clean, so the specks came from the air.)
   - Note: A strong answer uses the dabba card as proof that the specks came from the air. Now is the time to read this unit's explanation cards.
 ### e2 · The Leaf Wipe: where does dust sit on a plant? (20 min)
@@ -272,12 +272,12 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **question:** On a potted plant near a window, is there more dust on the top of a leaf or underneath it? Is there more on an outer leaf or an inner one?
 - **predict:** Guess first. Will the top of a leaf be dirtier than the underside? Will a leaf on the outside of the plant, facing the window, be dirtier than one tucked inside? Why do you think so?
 - **fair test:** Use the same size of cotton ball, damp the same amount, and wipe each leaf with three gentle strokes. Wipe leaves of about the same size and age. Only the side or the place of the leaf changes.
-- **record:** Lay the cotton balls on the labelled paper. Draw them, shading each one as grey as it is. Write which side of the leaf was dirtiest.
+- **record:** Lay the cotton balls on the labelled paper, from whitest to greyest, and take a photo. Write which side of the leaf was dirtiest.
 - **results table:** Leaf | Top or underside | Colour of the cotton: white, light grey or dark grey
 - **s1 (3 min)**  
   *Parent does:* Look at the plant together. Ask for a guess and a reason.  
   *Parent says:* This plant has stood by the window for days. Where on their leaves do you think the dust has landed? Top, underside, outside or inside? Why do you think so?  
-  *Child mode:* Look at the plant. Where is the dust? Top of the leaf, or underneath? Say why.
+  *Child mode:* Look closely at a leaf. Point to the place where you think the dust sits.
   - Note: Wait for a guess and a reason. Most children guess the top, which is a good start. Fewer think about outer and inner leaves.
 - **s2 (8 min)**  
   *Parent does:* 1. Pick three leaves: one facing the window, one on the far side, and one from the middle. 2. For each, wet a cotton ball, squeeze it out, and wipe the top with three gentle strokes. 3. Use a fresh ball for the underside. 4. Lay each ball on the paper by its label.  
@@ -286,13 +286,13 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   - Note: Hold each leaf flat on your palm while your child wipes, so the stem doesn't snap. On a hairy leaf like tulsi, dab rather than wipe.
 - **s3 (5 min)**  
   *Parent does:* Compare the six cotton balls. Ask the check question.  
-  *Parent says:* Which ball is greyest? Which is whitest? What does that tell us?  
-  *Child mode:* Which ball is the greyest? Which leaf did it come from?
+  *Parent says:* What do you notice about the balls from the top of the leaves and the balls from underneath?  
+  *Child mode:* Line up the six balls from whitest to greyest. Point to the greyest one.
   - Check: The cotton from the top of the leaf is grey. The cotton from underneath is nearly white. Why? → **Most dust falls from above and lands on top**
 - **s4 (4 min)**  
   *Parent does:* Talk about what the dust means for the plant.  
-  *Parent says:* A leaf makes the plant's food from sunlight. What does a layer of dust do to the sunlight? How does a plant outdoors get the dust off?  
-  *Child mode:* Leaves need sunlight to make food. What does dust do to the light?
+  *Parent says:* A leaf makes the plant's food from sunlight. What would a layer of dust do to the sunlight? How does a plant outdoors get clean?  
+  *Child mode:* The grey on the cotton is dust. Picture that grey layer sitting on a leaf.
   - Ask: Why is dust a problem for the plant? (good: It blocks some sunlight, so the leaf makes less food.; It can block the tiny holes the leaf breathes through.)
   - Note: Rain washes most dust off leaves. A plant on a covered balcony gets no rain, so a gentle wipe or a spray of water now and then helps the plant. You can offer that as a kindness, not a chore.
 ### e3 · Through the Soil: what does soil stop, and what goes through? (25 min)
@@ -301,7 +301,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **predict:** Guess first. We pour muddy, salty water through a bottle of soil. Will the water that comes out be clear? Will the salt stay in the soil, or come through? Why do you think so?
 - **fair test:** Dry one spoonful of the water that came through the soil, and one spoonful of plain tap water, side by side on the same steel plate, in the same place. Only the water changes. The tap water spoonful is the control. Potting soil can add a little salt of its own, so compare what the two spoonfuls leave behind, instead of looking only at the crust from the soil water.
 - **safety:** A grown-up cuts the bottle, because the cut edge is sharp. Never drink or taste the water in this experiment.
-- **record:** Draw the soil filter, with the dirty water going in and the water coming out. Draw the two dry spots on the plate and label them.
+- **record:** Take a photo of the soil filter and of the two dry spots on the plate, or draw them. Label the two spots.
 - **results table:** Water | How it looked: cloudy or clear | What was left on the plate after drying
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts the bottle in half. 2. Push the cotton into the neck of the top half. 3. Turn it upside down inside the bottom half. 4. Fill it two-thirds full of soil.  
@@ -311,13 +311,13 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **s2 (4 min)**  
   *Parent does:* 1. Stir 2 teaspoons of salt into each of two glasses of water until you can't see it. 2. Add 1 spoon of soil to one glass and stir to make it muddy. 3. Pour a little of the muddy water into the small cup and keep it. 4. Ask for a guess and a reason.  
   *Parent says:* This is our dirty water. It has mud we can see, and salt we can't see, because the salt has dissolved. Dissolved means broken up into pieces too small to see, spread all through the water. What will come out of the bottom? Why do you think so?  
-  *Child mode:* Stir salt into the water. Stir in some soil too. What will come out of the bottle? Say why.
+  *Child mode:* Stir 2 spoons of salt into each glass. Stir some soil into one glass.
   - Ask: Will the salt come through? (good: Yes, because it is dissolved in the water.; No, because the soil will catch it.)
   - Note: Either guess is fine, as long as there is a reason. The salt is standing in for the many harmful things that dissolve in water, such as some chemicals from factories and farms.
 - **s3 (10 min)**  
   *Parent does:* 1. Pour the muddy salt water slowly onto the soil. Then pour the second glass of salt water in the same way, so enough water comes through. 2. Wait for the water to drip through, about 5 minutes. 3. Compare the water that came out with the muddy water you kept in the cup.  
   *Parent says:* Look at the water dripping out. Is it clearer than what went in?  
-  *Child mode:* Pour the water in slowly. Wait. Is the water that comes out clearer?
+  *Child mode:* Pour the water in slowly. Wait and watch the drips. Hold them next to the muddy water in the cup.
   - Note: The first drips may be brown, because some fine soil washes through. Pour the first half cup back through once, and it comes out clearer. Clean soil stops most of the mud. Dry soil soaks up a lot of water, so if only a few drops come out, pour in more water or wet the soil first.
 - **s4 (4 min)**  
   *Parent does:* 1. Put one teaspoon of the water that came through on one side of the steel plate. 2. Put one teaspoon of plain tap water on the other side. 3. Leave the plate in a sunny window until both are dry, a few hours.  
@@ -326,8 +326,8 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   - Note: If the day is cloudy, leave the plate overnight in a warm, airy spot. A fan helps.
 - **s5 (2 min)**  
   *Parent does:* Look at the dry plate together. Ask the check question.  
-  *Parent says:* What is left where each spoonful dried?  
-  *Child mode:* Look at the plate. What is left where the water dried?
+  *Parent says:* Compare the two dried spots. What is left behind in each?  
+  *Child mode:* Look at the two dry spots. Point to the one with more left.
   - Check: The water that came through the soil left a thick white crust. The tap water left only a faint ring. What does this show? → **The soil stopped the mud, but the dissolved salt went through**
   - Wait: Leave the plate for a few hours, until both spoonfuls are dry
 
@@ -337,18 +337,18 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **record:** Pin or tape the two cloths in your notebook. Write where each one wiped.
 - **s1 (2 min)**  
   *Parent does:* Show your child the two clean cloths. Ask for a guess.  
-  *Parent says:* We are going to wipe the window grill and the inside of a cupboard. Which cloth will be dirtier? Why do you think so?  
-  *Child mode:* Which cloth will be dirtier? The window one or the cupboard one? Say why.
+  *Parent says:* We will wipe the window grill and the inside of a cupboard with two clean cloths. What do you think we will find?  
+  *Child mode:* Guess which place gives the dirtier cloth, the grill or the cupboard. Say why.
   - Note: Wait for a reason, not just a guess.
 - **s2 (4 min)**  
   *Parent does:* 1. Dip the first cloth in water and squeeze it out. 2. Wipe one bar of the window grill, about as long as your hand. 3. Do the same inside a closed cupboard with the second cloth.  
   *Parent says:* Wipe the same length on each, about as long as your hand. Then the test is fair.  
-  *Child mode:* Wet the cloth. Squeeze it. Wipe the grill, as long as your hand. Now wipe the cupboard shelf.
+  *Child mode:* Wet the cloth. Squeeze it. Wipe the grill, as long as your hand. Wipe the cupboard shelf with the second cloth.
   - Note: A grill on the road side of the home usually leaves a dark grey or black streak within a few days of the last cleaning.
 - **s3 (4 min)**  
   *Parent does:* Compare the cloths. Talk about where the dirt came from.  
   *Parent says:* Nobody poured dirt on the grill. Where did it come from?  
-  *Child mode:* Look at both cloths. Where did the black on the window cloth come from?
+  *Child mode:* Hold the two cloths side by side. Which one is dirtier?
   - Ask: How did the dirt get onto the grill? (good: It came out of the air.; Dust blew in from the road.; Smoke from vehicles left it there.)
   - Note: Leave the question open. Good guesses are window sills, leaves, clothes and our own noses. The Sticky Card Test comes next and starts to answer it.
   - Think: If the air leaves this much on a grill, where else might it leave dust?
@@ -367,27 +367,27 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **s3 (3 min)**  
   *Parent does:* Look at the tally chart together.  
   *Parent says:* Which source did you see most often? Which one do you think makes the most smoke?  
-  *Child mode:* Which did you see most? Which do you think is worst? Why?
+  *Child mode:* Count the tally marks for each source. Point to the biggest number.
   - Ask: Is the source you saw most often the one that makes the most smoke? (good: Not always. A tyre fire is rare but makes a lot of smoke.; Buses pass all day, so they add up.)
   - Note: This is a good moment to notice that how often and how much are two different things.
 ### a3 · Your Nose, the Dust Catcher (8 min, 2 days)
 - **safety:** Look, don't poke. Never put anything inside your nose.
-- **record:** Draw what you saw inside your nose. Write the colour of each tissue: white, light grey or dark grey.
+- **record:** Write the colour of each tissue: white, light grey or dark grey. Tell a grown-up what you saw inside your nose, or draw it.
 - **schedule:** day 1: Look inside your nose with a mirror and torch. In the evening after a day out on busy roads, blow your nose into a white tissue and look. (5 min); day 2: In the evening after a day at home, blow your nose into a white tissue and compare. (3 min)
 - **s1 (3 min)**  
   *Parent does:* Hold a mirror. Shine a torch towards one nostril and look inside.  
-  *Parent says:* Can you see tiny hairs inside your nose? The inside is wet and sticky too. What do you think the hairs and the stickiness are for?  
-  *Child mode:* Look in the mirror with the torch. Can you see hairs inside your nose?
+  *Parent says:* The inside of your nose has tiny hairs, and it is wet and sticky too. What do you think the hairs and the stickiness are for?  
+  *Child mode:* Look in the mirror with the torch. Point out the hairs you can see.
   - Note: The hairs catch bigger dust. The wet lining is mucus, which catches smaller dust.
 - **s2 (2 min)**  
   *Parent does:* On an evening after a trip on busy roads, blow your nose into a white tissue and look at it.  
-  *Parent says:* Your nose has been catching dust all day, like the sticky card in the Sticky Card Test. What colour is the tissue?  
+  *Parent says:* Your nose has been catching dust all day, like a sticky card. What colour is the tissue?  
   *Child mode:* Blow your nose into a white tissue. What colour is it?
   - Wait: Do this on an evening after a trip out
 - **s3 (3 min)**  
   *Parent does:* On an evening after a day at home, do the same. Compare.  
   *Parent says:* Which day did your nose catch more? Why?  
-  *Child mode:* Do it again after a day at home. Which tissue is greyer?
+  *Child mode:* Do it again after a day at home. Then put the two tissues side by side.
   - Note: Not every child's tissue will look grey. In cleaner air, or after a short trip, it may stay white. That is good news, not a failed test.
   - Check: You blow your nose into a tissue after a day on busy roads, and again after a day at home. The first tissue is greyer. Why? → **Your nose caught more dust from the dirtier air**
   - Wait: Do this on an evening after a day at home
@@ -407,7 +407,7 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 - **s3 (2 min)**  
   *Parent does:* On day 5, rate the landmark once more, then compare all five days.  
   *Parent says:* Which day was clearest? Did anything happen the day before, like rain, wind or a festival?  
-  *Child mode:* Which day was clearest? Which was haziest? What happened before?
+  *Child mode:* Look at your five ratings. Point to the clearest day and the haziest day.
   - Ask: Why might the air be clearer after rain? (good: Rain washes the dust out of the air.; The rain drops catch the particles and bring them down.)
   - Wait: Wait until day 5
 
@@ -415,21 +415,21 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 ### p1 · Clean-Air Week at Home (50 min, 5 days)
 - **safety:** A grown-up decides where cards go in the kitchen. Keep cards away from the stove flame.
 - **record:** Keep the two cards side by side. Write down the counts, the two changes, and what each family member thought of them.
-- **schedule:** day 1: Put one sticky card on top of the kitchen cupboard for two days, with the family cooking as usual. Make a list of smoke sources at home. (15 min); day 3: Count the specks. Choose two changes as a family, such as using the exhaust fan or a lid while frying, or no incense or coils indoors. Put up a new card. (15 min); day 5: Count the specks on the new card. Compare. Make a poster of what worked for the building notice board. (20 min)
+- **schedule:** day 1: Put one sticky card on top of the kitchen cupboard for two days, with the family cooking as usual. Make a list of smoke sources at home. (15 min); day 3: Count the specks. Choose two changes as a family, such as using the exhaust fan or a lid while frying, or no incense or coils indoors. Put up a new card. (15 min); day 5: Count the specks on the new card. Compare. Make a poster for the building notice board about what worked, or tell a neighbour. (20 min)
 - **s1 (15 min) · grown-up needed**  
-  *Parent does:* 1. Make a sticky card. 2. Tape it on top of a kitchen cupboard, away from the flame. 3. Cook as usual for two days. 4. Together, list everything at home that makes smoke.  
+  *Parent does:* 1. Make a sticky card: draw a 2 cm square on white card and spread a thin layer of jelly in it. 2. Tape it on top of a kitchen cupboard, away from the flame. 3. Cook as usual for two days. 4. Together, list everything at home that makes smoke.  
   *Parent says:* Let's find out how much smoke our kitchen air carries on ordinary days. Then we'll try to make less.  
   *Child mode:* Put a sticky card high up in the kitchen. Cook as usual. List what makes smoke at home.
 - **s2 (15 min)**  
-  *Parent does:* 1. Take the card down and count the specks in one corner of the square. 2. Choose two changes. 3. Put a fresh card in the same place.  
+  *Parent does:* 1. Take the card down and count the specks in one corner of the square. Count the same corner on the new card later. 2. Choose two changes. 3. Put a fresh card in the same place.  
   *Parent says:* What could we change? The exhaust fan? A lid on the pan? No mosquito coil in the bedroom? Let's choose two, and keep everything else the same.  
   *Child mode:* Count the specks. Pick two changes with your family. Put up a new card in the same place.
   - Note: Kitchen cards often catch oily, sticky specks from frying, not only dust. Choose changes the family can really keep, such as running the exhaust fan or opening a window while cooking, and using a mosquito net instead of a coil.
   - Wait: Leave the first card for 2 days
 - **s3 (20 min)**  
-  *Parent does:* 1. After two more days, count the specks on the new card. 2. Compare. 3. Make a poster for the building notice board.  
-  *Parent says:* Did our changes make a difference? Was it a fair test? What else changed this week?  
-  *Child mode:* Count the specks on the new card. Did the changes work? Make a poster.
+  *Parent does:* 1. After two more days, count the specks in the same corner of the new card. 2. Compare with the first card. 3. Make a poster for the building notice board, or tell a neighbour what worked.  
+  *Parent says:* Look at both cards. Did our changes make a difference?  
+  *Child mode:* Count the specks on the new card. Is it greyer or cleaner than the first? Then tell a neighbour or make a poster.
   - Ask: What else might have changed the result? (good: We cooked different food.; It rained.; More vehicles passed that week.)
   - Note: Real life is not a perfect lab. A family that cooked more fried food in the second week will get a greyer card. Talking about that is good science.
   - Wait: Leave the second card for 2 days
@@ -437,14 +437,14 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
 ## Challenges
 ### c1 · The Window Dust Filter (30 min)
 - **problem:** Your window lets in fresh air, and dust from the road comes in with it. Design a filter for the window that stops dust but still lets air through.
-- **your turn:** Now design your own filter. Draw it, build it, and test it with the two cards for two days. Did it stop dust? Did the tissue still flutter?
+- **your turn:** Now design your own filter. Plan it, build it, and test it with the two cards for two days. Did it stop dust? Did the tissue still flutter?
 - **constraints:** Use only things from home.; Air must still come through: a tissue strip held near the filter must still flutter in the breeze.; Test it with two sticky cards: one behind your filter and one beside it, open to the air.
 - **general:** Stretch a single layer of cotton cloth over a cardboard frame and tape it to the inside of the window.; Use two layers of mosquito net. Each layer catches some of the dust.; Hang a damp cloth across part of the window. Wet cloth is sticky, like the inside of your nose.
 - **creative:** Put pot plants with rough leaves on the window sill, so the leaves catch dust before it comes in.; Make a cloth roll that you only pull down on hazy days or when a building site next door is busy.; Fold the cloth in pleats, so there is more cloth to catch dust in the same space.
 - **s1 (8 min)**  
-  *Parent does:* Talk about the problem. Draw two ideas.  
+  *Parent does:* Talk about the problem. Think of two ideas for a filter and say what each is made of.  
   *Parent says:* We want fresh air but less dust. A wall stops dust but stops air too. What lets air through but catches specks?  
-  *Child mode:* Draw two ideas for a dust filter. Air must still get through!
+  *Child mode:* Think of two ideas for a dust filter. Tell your grown-up what you would use. Air must still get through!
 - **s2 (15 min)**  
   *Parent does:* Build the best idea. Tape one sticky card just behind the filter, and another beside it, open to the air.  
   *Parent says:* One card behind the filter, one beside it. That way we can see how much the filter stopped.  
@@ -452,13 +452,13 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   - Note: If the day is still, hold the tissue strip against the filter and blow gently from the room side. If the strip moves, air gets through.
 - **s3 (7 min)**  
   *Parent does:* After two days, compare the two cards.  
-  *Parent says:* Which card has fewer specks? Did our filter work? What would you change?  
-  *Child mode:* Look at both cards. Which has fewer specks? What would you change?
+  *Parent says:* Look at both cards. Did our filter work? What would you change?  
+  *Child mode:* Count the specks in the same corner of each card. Point to the cleaner one.
   - Ask: Why might a thicker filter not be better? (good: It stops the air too, and the room gets stuffy.; Less breeze comes in.)
   - Wait: Leave the cards for 2 days
 ### c2 · A Bhogi Without Smoke (30 min)
 - **problem:** On Bhogi, the first day of Pongal, many families in Tamil Nadu and Andhra Pradesh burn old things to make a fresh start. The smoke fills the city. Plan a Bhogi for your building that keeps the meaning, letting go of old things, but makes no smoke.
-- **your turn:** Now make your own plan for a smokeless Bhogi. Draw a poster for your building that explains it.
+- **your turn:** Now make your own plan for a smokeless Bhogi. Make a poster for your building that explains it, or tell it to your neighbours.
 - **constraints:** The plan must keep the idea of letting go of old things.; Nothing is burned.; Every old thing must go somewhere useful.
 - **general:** Collect old clothes for the kabadiwala or a clothes bank.; Put old grass mats, broken baskets and dry leaves in a compost pit.; Give toys and books that still work to someone who will use them.
 - **creative:** Draw a big kolam at the gate, with a box beside it where people drop the things they are letting go of.; Hold a swap morning in the building, where each family brings old things and takes what they need.; Write what you want to let go of on a slip of paper, such as a bad habit, and tear it up for the compost.
@@ -469,12 +469,12 @@ At lunchtime they compared them with last year's, which Kavya had kept in her no
   - Note: The answer is no. Letting go only means the old things leave our home. They can go to someone who will use them, or into compost. A fire is not needed.
 - **s2 (15 min)**  
   *Parent does:* List the old things in your home. For each, decide where it could go.  
-  *Parent says:* Old clothes, old mats, broken toys. Where could each one go so it is useful again?  
+  *Parent says:* Old clothes, old mats, broken toys. Where could each one go so it is useful again? The kabadiwala, who takes old things to reuse, a compost pit and giving away are three choices.  
   *Child mode:* List old things at home. Where could each one go? Write it next to it.
 - **s3 (5 min)**  
-  *Parent does:* Make a poster with the plan.  
-  *Parent says:* Our poster has to make people want to try it. What will we draw?  
-  *Child mode:* Draw a poster for your building. Show your smokeless Bhogi.
+  *Parent does:* Make a poster with the plan, or tell the plan to a neighbour.  
+  *Parent says:* Our plan has to make people want to try it. What will we say or show?  
+  *Child mode:* Make a poster for your building, or tell a neighbour. Show your smokeless Bhogi.
   - Note: If your family does not celebrate Bhogi, the same plan works for clearing out before Diwali, Ugadi, Vishu, Onam or New Year.
 
 ## Worksheets

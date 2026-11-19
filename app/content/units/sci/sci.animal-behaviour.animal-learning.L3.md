@@ -203,11 +203,11 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 20 cards and the sorting mat. 2. Shuffle the cards. 3. Put the pile face up next to the mat.  
   *Parent says:* Animals learn in different ways. Each card is a true fact about an animal. Your job is to guess how they learned to do this.  
-  *Child mode:* Cut out the cards. Mix them up. Each card is a true animal fact. Guess how the animal learned to do this.
+  *Child mode:* Cut out the 20 cards and the mat. Mix the cards up.
 - **s2 (3 min)**  
-  *Parent does:* Play the spider card as a practice round.  
-  *Parent says:* A baby spider spins her first web without ever seeing one made. Which box?  
-  *Child mode:* A baby spider spins her first web. She never saw one made. Which box?
+  *Parent does:* Read the spider card aloud as a practice round.  
+  *Parent says:* Let's practise with one card first. It says: a baby spider spins her first web without ever seeing one made.  
+  *Child mode:* Listen to the practice card. Then pick the answer you think is right.
   - Check: A baby spider spins her first web without ever seeing one made. How did she learn it? → **She was born knowing**
 - **s3 (12 min)**  
   *Parent does:* Take turns reading cards, guessing and turning them over. Stop to talk about any card where people disagree.  
@@ -215,7 +215,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
   *Child mode:* Read the card. Pick a box. Say why. Then turn it over.
   - Ask: A weaver bird is born able to weave, but his nests get better with practice. Is that instinct or learning? (good: It is both. He is born able to weave, but he gets better with practice.; Most things animals do mix instinct and learning.)
 - **s4 (2 min)**  
-  *Parent does:* Count the cards. Look at the box with the most cards on the mat.  
+  *Parent does:* Each player counts their cards. Look at which box has the most cards on the mat.  
   *Parent says:* Most things animals do mix being born able with learning. Pick one card that could have fitted two boxes, and tell me why.  
   *Child mode:* Count your cards. Pick one card that could fit two boxes. Say why.
   - Note: Good answers: the weaver bird, who is born able to weave and gets better with practice. Or the dog who sits for a treat, because dogs are born able to learn from rewards. The point is that instinct and learning often work together.
@@ -225,16 +225,16 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 8 cards and shuffle them. 2. Make a line of players.  
   *Parent says:* We are going to pass actions along a line, without any words. Let's see if they arrive the same.  
-  *Child mode:* Make a line. You will copy actions with no words. Will they arrive the same?
+  *Child mode:* Stand in a line. You will pass actions along it, with no words.
 - **s2 (10 min)**  
   *Parent does:* Play 3 or 4 rounds, starting with a different player each time. After each round, read the card and compare.  
   *Parent says:* What changed on the way? What stayed the same?  
-  *Child mode:* Copy what you see. At the end, check the card. What changed?
+  *Child mode:* Copy the actions you see, then show them to the next player. At the end, check the card.
   - Ask: Which actions got lost or changed most often? (good: The small ones, like touching an ear.; The ones in the middle of the list.)
 - **s3 (3 min)**  
   *Parent does:* Talk about why some actions arrived and others did not.  
   *Parent says:* Scientists did this with chimpanzees and a puzzle box. A way of opening the box passed along a chain of six chimpanzees. Why do you think some of our actions got lost?  
-  *Child mode:* Scientists tested chimpanzees in a line like this. The chimpanzees passed a way of opening a box along the line.
+  *Child mode:* Think about the last round. Who was each player copying?
   - Check: In Action Telephone, why do some actions change along the line? → **Each player copies what the player before them did, not the card**
 
 ## Experiments
@@ -246,14 +246,14 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **record:** Fill in the results table, one line for each person. Then write what you think the answer is, what you saw, and why you think so.
 - **results table:** Person | Tapped the lid? (yes or no) | Turned the box around? (yes or no) | Opened the lid and took the prize? (yes or no) | Why they said they did it
 - **s1 (5 min)**  
-  *Parent does:* 1. Put the prize in the clear box and close the lid. 2. Put the box and the spoon on a table. 3. Practise the show three times. Tap the lid twice with the spoon. Turn the box around once. Lift the lid and take the prize.  
+  *Parent does:* 1. Put the prize in the clear box and close the lid. 2. Put the box and the spoon on a table. 3. Watch your child practise the show three times. The show is: tap the lid twice, turn the box once, lift the lid.  
   *Parent says:* You are the scientist today. You will show people how to open this box. The tap and the turn do nothing. Only lifting the lid matters.  
-  *Child mode:* Put the prize in the box. Close the lid. Tap the lid twice with the spoon. Turn the box around once. Lift the lid and take the prize. Practise three times.
+  *Child mode:* Learn the show. Tap the lid twice with the spoon. Turn the box around once. Lift the lid and take the prize. Practise it three times.
   - Note: The box must be clear, so everyone can see that tapping and turning do nothing. Your child should do the same show every time, at the same speed.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess what the people will do, and why. Write the guess at the top of the table.  
   *Parent says:* What do you think? Will they tap the lid too? Will they turn the box? Why do you think so?  
-  *Child mode:* Guess first. Will they tap the lid? Will they turn the box? Why? Write your guess.
+  *Child mode:* Make a guess before you test anyone. Write it at the top of your table.
   - Ask: Why might someone copy the tap, even though it does nothing? (good: They think it might matter.; They want to do it the right way.; They just copy what they see.)
   - Note: Don't say whether the guess is right. The test will answer it.
 - **s3 (5 min)**  
@@ -273,8 +273,8 @@ And the crows? The crows had been learning all along. They had learned that a ti
   - Ask: What did people say when you asked why they tapped? (good: 'I thought I had to.'; 'You did it, so I did it.'; 'I didn't think about it.')
 - **s6 (5 min)**  
   *Parent does:* 1. Count how many people tapped and how many turned the box. 2. Help your child say what they think the answer is, what they saw, and why they think so. 3. Then tell them what chimpanzees did.  
-  *Parent says:* Scientists did this test with chimpanzees and a clear box. Most chimpanzees skipped the useless step and went straight for the reward. Children kept copying it.  
-  *Child mode:* Count how many people tapped. Say what you think the answer is, what you saw, and why you think so. Then hear what the chimpanzees did.
+  *Parent says:* Scientists did this test with chimpanzees and a clear box. Most chimpanzees skipped the useless step and went straight for the reward.  
+  *Child mode:* Count how many people tapped the lid. Say what you saw and what you think it shows. Then hear what the chimpanzees did.
   - Note: If nobody tapped, that is a real result too. Ask them why. Perhaps they saw the tap did nothing, as the chimpanzees did, or guessed it was a test. Scientists find that most people copy, but not everyone.
   - Check: Chimpanzees were shown a clear puzzle box with a useless step. Most skipped that step. What did most children do? → **They copied the useless step**
 ### e2 · Pass It On: does a way of opening a box travel down a chain? (30 min)
@@ -283,17 +283,17 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **predict:** Guess first. Will the last person in the chain open the box the same way you showed the first person? Why do you think so?
 - **fair test:** Each person sees only the person just before them. Nobody sees the slip that says which way you chose. If you can, one extra person gets the box with no show at all, so you can see which door people pick on their own.
 - **safety:** A grown-up cuts the flaps in the box with scissors or a cutter.
-- **record:** Fill in the table. Draw the chain as a row of stick people, with an arrow from each to the next and the door they used.
+- **record:** Fill in the table. Then show the chain as a row of people, with an arrow from each to the next and the door they used. Draw stick people, or lay out name cards in a row.
 - **results table:** Person in the chain | Who showed them | Door they used (top or side) | Did they also show the next person? (yes or no)
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Put the prize in the box. 2. Choose a door in secret: top or side. 3. Write it on a slip of paper and fold it.  
   *Parent says:* This box opens two ways. Both work. You choose one way to show, and keep it secret.  
-  *Child mode:* Put the prize in the box. Choose a door: top or side. Write it on paper. Keep it secret.
+  *Child mode:* Choose which door you will show: top or side. Write it on a slip of paper and fold it. Keep it secret.
   - Note: If you are making the box now, cut the flaps for your child. Both flaps must open just as easily, or people will choose the easy one.
 - **s2 (3 min)**  
-  *Parent does:* Write the guess.  
+  *Parent does:* Ask your child for a guess and a reason. Write the guess down.  
   *Parent says:* Will the last person use the door you chose? Why do you think so?  
-  *Child mode:* Guess. Will the last person use your door? Why?
+  *Child mode:* Make your guess and say why. Your grown-up writes it down.
 - **s3 (5 min)**  
   *Parent does:* 1. Bring in person 1. 2. Open your door, take the prize, put it back and close the door. 3. Say: 'Now you get the prize out.' 4. Write which door they use.  
   *Parent says:* Show your door once, slowly. Say only, 'Now you get the prize out.'  
@@ -319,16 +319,16 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **s1 (4 min)**  
   *Parent does:* 1. Draw four columns on the paper. 2. Label them: born knowing, from what happened before, by watching others, by being told. 3. Ask your child to name 8 things they can do.  
   *Parent says:* Tell me 8 things you can do. Anything at all: eat with your hand, ride a cycle, whistle, cry, draw a kolam or rangoli.  
-  *Child mode:* Name 8 things you can do. Anything: eat, cycle, whistle, cry, draw a kolam or rangoli.
+  *Child mode:* Think of 8 things you can do and say them out loud.
 - **s2 (4 min)**  
   *Parent does:* Put each thing in a column. Talk about the ones that fit two columns.  
-  *Parent says:* Who taught you that? Did you watch someone, or try until it worked, or were you born able to do it?  
-  *Child mode:* Put each thing in a column. Who taught you? Did you watch, try, or just know?
+  *Parent says:* Who taught you that? Did you watch someone, try until it worked, get told how, or were you born able to do it?  
+  *Child mode:* Decide which column each of your 8 things goes in. Some may fit in two.
   - Ask: Pick one thing that fits in two columns. Why does it fit both? (good: Riding a cycle. Someone showed me, and I also tried again and again until I could balance.; Drawing a kolam. I watched my family, and I also practised until the lines came out straight.)
 - **s3 (2 min)**  
   *Parent does:* Look at the 'born knowing' column.  
   *Parent says:* Babies are born able to cry, suck and grab a finger. Almost everything else you can do, you learned.  
-  *Child mode:* Babies can cry and grab a finger from birth. Almost everything else, you learned.
+  *Child mode:* Look at your born knowing column. How many things are in it?
   - Think: Which of your things did you learn by copying someone, without knowing why each step mattered?
 ### a2 · Pick the New One: learning a name like Chaser (10 min)
 - **problem:** Chaser was a dog in America who learned the names of 1,022 toys. When she heard a name she had never heard before, she picked the toy she did not know. In this activity you find out if you do the same.
@@ -336,17 +336,17 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the 6 things in a row on the floor, mixed up. 2. Say: 'Please pass me the dax.' 3. Don't point or look at any of them.  
   *Parent says:* Please pass me the dax.  
-  *Child mode:* Your grown-up will ask for 'the dax'. Pick the one you think it is.
+  *Child mode:* 'Dax' is a made-up word. Your grown-up will ask you for the dax. Pick the one you think it is.
   - Note: 'Dax' is a made-up word. Most children pick the one thing they have no name for. Look at the floor, not at the new thing, so your eyes don't give a clue.
 - **s2 (4 min)**  
   *Parent does:* Ask your child why they picked that one.  
-  *Parent says:* Why did you pick that one? Had you ever heard the word 'dax'?  
-  *Child mode:* Why did you pick that one? Had you heard 'dax' before?
+  *Parent says:* Had you ever heard the word 'dax' before?  
+  *Child mode:* Tell your grown-up how you chose.
   - Ask: How did you know which one was the dax? (good: The others already have names, so the new word must be the new thing.)
 - **s3 (3 min)**  
   *Parent does:* Tell your child about Chaser.  
-  *Parent says:* Chaser was a sheepdog who knew the names of 1,022 toys. Given a new name, she picked the only new toy, just as you did.  
-  *Child mode:* Chaser was a dog who knew 1,022 toy names. She picked the new toy for a new name. Just like you!
+  *Parent says:* Chaser was a sheepdog who knew the names of 1,022 toys. One day her owner put a toy she had never seen among the toys she knew. Then he asked for it by a name she had never heard.  
+  *Child mode:* Chaser was a dog who knew 1,022 toy names. She heard a new name. Which toy would she pick?
   - Check: Chaser heard a name she had never heard. Several toys were in front of her, and only one was new to her. Which did she pick? → **The new toy**
 ### a3 · Termite Fishing: watch first, then copy (20 min)
 - **problem:** Young chimpanzees learn to fish for termites by poking a thin grass stem into a termite mound and pulling it out covered in termites. They learn this by watching their mothers for years. In this activity the puffed rice are the termites, the bottle is the mound and a thin stick is the grass stem. You fish first on your own, then after watching a grown-up.
@@ -354,7 +354,7 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **s1 (3 min)**  
   *Parent does:* 1. Put the puffed rice in the bottle. 2. Put the bottle on the tray. 3. Put the honey on the plate next to it.  
   *Parent says:* The puffed rice are termites inside a mound. The stick is your grass stem. Chimpanzees use stems like this.  
-  *Child mode:* The puffed rice are termites. The bottle is their mound. The stick is your fishing stem.
+  *Child mode:* Pretend the puffed rice are termites. The bottle is the mound. The stick is the grass stem.
 - **s2 (5 min)**  
   *Parent does:* Let your child dip the stick in the honey and fish 5 times on their own. Count the grains each time.  
   *Parent says:* Try on your own first. Count how many come out each time.  
@@ -370,8 +370,8 @@ And the crows? The crows had been learning all along. They had learned that a ti
   *Child mode:* Now copy what you saw. Fish 5 more times. Count the grains.
 - **s5 (3 min)**  
   *Parent does:* Add up the grains before watching and after watching. Clean up the honey.  
-  *Parent says:* At Gombe in Tanzania, young chimpanzee daughters watched their mothers fish a lot. They pushed their stems in just as deep as their mothers.  
-  *Child mode:* Add up your grains. Did watching help? Chimpanzee daughters copied how deep their mothers went.
+  *Parent says:* Let's compare your two totals. Young chimpanzees at Gombe in Tanzania learn termite fishing too. It takes them years.  
+  *Child mode:* Add up your grains from before watching and after watching. Which total is bigger?
   - Note: Your child also had more practice in the second round, so this hints at what watching does; it does not prove it. To be fairer another day, let a friend practise 5 more times without watching and compare. Wipe up any honey straight away, or ants will find it.
   - Check: Young chimpanzees at Gombe learn termite fishing. What did the daughters do that helped them learn younger? → **They watched their mothers fish more**
 ### a4 · What Have They Learned? A window watch (15 min)
@@ -383,9 +383,9 @@ And the crows? The crows had been learning all along. They had learned that a ti
   - Note: Early morning or evening is best. Even ants on the sill count. If you see nothing, try again at a different time.
 - **s2 (5 min)**  
   *Parent does:* For each animal, talk about how they might have learned what they did.  
-  *Parent says:* Do you think that crow was born knowing the bins have food? Or did they learn it? How?  
-  *Child mode:* Pick one animal. Do you think they learned this? How?
-  - Ask: How could you test whether the pigeons learned the feeding time? (good: Watch the same spot at the same time on a day when nobody feeds them.; See if they come before the grain is thrown.)
+  *Parent says:* Pick one animal you saw. Do you think she was born knowing this, or did she learn it?  
+  *Child mode:* Choose the animal you found most interesting. Tell your grown-up what it did.
+  - Ask: Pick an animal you saw near food. How could you test whether they learned when the food comes? (good: Watch the same spot at the same time on a day when nobody feeds them.; See if they come before the grain is thrown.)
 
 ## Projects
 ### p1 · The Plate Lesson: can a bird learn which plate has food? (55 min, 5 days)
@@ -398,19 +398,19 @@ And the crows? The crows had been learning all along. They had learned that a ti
   - Note: Put the plates out at the same time each day. Many families in Tamil Nadu already give crows a little rice before lunch, so that time often works.
 - **s2 (20 min)**  
   *Parent does:* On days 2 and 3, do the same, but swap the places of the plates each day.  
-  *Parent says:* Why do we swap the places?  
-  *Child mode:* Swap the plates' places today. Watch again. Write it down.
+  *Parent says:* Today we swap the places of the two plates.  
+  *Child mode:* Swap the plates' places today. Watch for 5 minutes. Write which plate the first bird goes to.
   - Ask: Why swap the plates' places each day? (good: So the birds have to learn the colour, not the place.)
   - Wait: Come back tomorrow at the same time.
 - **s3 (10 min)**  
   *Parent does:* On day 4, put a little rice on both plates, with the red plate on the side it was not on yesterday. Write which plate the first bird goes to.  
   *Parent says:* Both plates have food today. Which one will the first bird pick?  
-  *Child mode:* Put rice on both plates. Which one does the first bird go to?
+  *Child mode:* Put rice on both plates, with red on the other side from yesterday. Write which plate the first bird goes to.
   - Wait: Come back tomorrow.
 - **s4 (15 min)**  
   *Parent does:* 1. On day 5, swap the sides once more and test again with food on both plates. 2. Make a tally chart of all 5 days.  
   *Parent says:* What does the chart show? Did the birds learn the red plate?  
-  *Child mode:* Test again. Make a tally chart. Did the birds learn the red plate?
+  *Child mode:* Test again with rice on both plates. Then make a tally chart of all 5 days.
   - Note: Birds may not learn in 3 days, or the first bird may be a new one each day. That is still a result. Say what you would change, such as more days.
   - Check: For 3 days, only the red plate had food. On day 4, both plates had food, and the first bird went straight to the red plate. What is the most likely reason? → **The bird learned that the red plate had food before**
 
@@ -424,11 +424,11 @@ And the crows? The crows had been learning all along. They had learned that a ti
 - **s1 (5 min)**  
   *Parent does:* Look at the materials. Talk about what makes two doors equally easy.  
   *Parent says:* If one door is easier, everyone will pick that one, and the test won't tell us anything about copying.  
-  *Child mode:* Plan your box. Both doors must be just as easy. Why does that matter?
+  *Child mode:* Look at the materials. Think about how to make both doors just as easy to open.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* Draw the design. A grown-up cuts the flaps. Your child tapes on the handles.  
-  *Parent says:* Draw it first. Show me where each door goes.  
-  *Child mode:* Draw your box. Show both doors. A grown-up cuts the flaps. You tape the handles.
+  *Parent does:* Help your child plan the box on paper or in pencil on the box. Cut the flaps yourself. Your child tapes on the handles.  
+  *Parent says:* Show me where each door goes. Draw it on paper, or mark it on the box.  
+  *Child mode:* Show where both doors go, on paper or in pencil on the box. A grown-up cuts the flaps. Then you tape on the handles.
 - **s3 (10 min)**  
   *Parent does:* Time how long each door takes to open, three times each.  
   *Parent says:* Let's check they are equally easy. Time each door.  

@@ -427,7 +427,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about three animal societies. You read a clue and say whether it is about an elephant family, an ant colony, a wolf pack, or all three.",
+   "context": "This is a card game about three animal societies. You read a clue and say whether it is about an elephant family, an ant colony, a wolf pack, or all three. You will find out which clues fit only one society and which fit all three.",
    "setup": [
     {
      "art": "Eighteen small clue cards in a pile next to a mat with four spaces labelled Elephant family, Ant colony, Wolf pack and All three.",
@@ -541,7 +541,7 @@
      "mins": 2,
      "do": "1. Cut out the cards and lay out the mat. 2. Shuffle the cards into a pile, clue side up.",
      "say": "Each card has a clue about elephants, ants or wolves. Some clues fit all three. Let's see if you can tell them apart.",
-     "kid": "Shuffle the cards. Put them in a pile. Read the top card.",
+     "kid": "Shuffle the cards. Put them in a pile with the clue side up. Do not peek at the answers.",
      "context": "This is the first step of Herd, Colony or Pack. Here you set up the cards."
     },
     {
@@ -552,7 +552,7 @@
      "kid": "Read the clue. Say elephant, ant, wolf or all three. Turn it over. Were you right?",
      "check": {
       "t": "mcq",
-      "q": "Which society is led by a mother and a father who are the parents of the others?",
+      "q": "Which one is led by a mother and a father?",
       "options": [
        "An elephant family",
        "An ant colony",
@@ -566,8 +566,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Count the cards and look at the 'All three' pile together.",
-     "say": "Look at the 'All three' cards. What do all three societies share?",
-     "kid": "Look at the 'All three' cards. What do all three share?",
+     "say": "Let's read the 'All three' cards again.",
+       "kid": "Read the 'All three' cards one by one. Then tell your grown-up what they have in common.",
      "ask": [
       {
        "q": "What do elephant families, ant colonies and wolf packs all have in common?",
@@ -590,7 +590,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a board game about elephant families walking through a dry forest to the river. Players answer questions about elephant families to reach the Kabini river first.",
+   "context": "This is a board game about elephant families walking through a dry forest to the river. Players answer questions about elephant families to reach the Kabini river first. You will find out how an elephant family stays alive in a dry summer.",
    "setup": [
     {
      "art": "A winding forest path board of 17 squares, numbered 0 to 16, from a dry forest to a blue river, with paper elephant counters on square 0.",
@@ -722,7 +722,7 @@
      "kid": "Answer your card. Right? Roll the dice and move. Wrong? Move 1.",
      "check": {
       "t": "mcq",
-      "q": "You land on DRY POOL. What can an old matriarch do to find water?",
+      "q": "You land on DRY POOL. How can an old matriarch find water?",
       "options": [
        "Wait for rain",
        "Dig in a dry riverbed where she found water before",
@@ -737,7 +737,7 @@
      "mins": 2,
      "do": "When someone reaches the river, talk about the game.",
      "say": "Which squares sent families back? What did the matriarch's memory help with?",
-     "kid": "Which squares were hard? How did the old matriarch help?"
+     "kid": "Tell your grown-up one square that was hard. Then tell one way the old matriarch helped."
     }
    ]
   }
@@ -748,7 +748,7 @@
    "title": "Weak Sugar or Strong Sugar: which drop does the colony choose?",
    "mins": 45,
    "days": 1,
-   "context": "In this experiment you put a weak sugar drop and a strong sugar drop near an ant road. You count the ants at each drop every 5 minutes, to see how the colony chooses.",
+   "context": "In this experiment you put a weak sugar drop and a strong sugar drop near an ant road. You count the ants at each drop every 5 minutes. You will find out whether the ants can pick the sweeter drop with no leader.",
    "question": "If ants find a weak sugar drop and a strong sugar drop at the same time, will the colony end up at one of them? Which one, and how?",
    "predict": "Guess first. After half an hour, will there be more ants at the weak drop, more at the strong drop, or the same at both? Why do you think so?",
    "fair_test": "Change only how sweet the drops are. Use the same amount of each drop, the same kind of square, the same distance from the ant road, and put both down at the same moment. Count both drops at the same time. If you have time, do it again the next day with the two squares swapped, because one side might be nearer the nest.",
@@ -798,7 +798,7 @@
      "what": "Find an ant road. Put down a weak and a strong sugar drop. Count the ants on each every 5 minutes for 30 minutes."
     }
    ],
-   "record": "Fill in the table every 5 minutes. Then draw two bars for the last count: one for the weak drop and one for the strong drop.",
+   "record": "Fill in the table every 5 minutes. Then draw two bars for the last count, one for each drop. Or tell your grown-up which drop won and by how many ants.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -867,9 +867,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Write W on one square and S on the other. 2. In the first cup, mix 2 teaspoons of water with one pinch of sugar. This is the weak mix, W. 3. In the second cup, mix 2 teaspoons of water with 2 teaspoons of sugar. This is the strong mix, S. Stir each for one minute. 4. Put half a teaspoon of each mix on its square, at the same moment. 5. Start the timer.",
-     "say": "W is weak, with just a pinch of sugar. S is strong, very sweet. Before we put them down, tell me your guess. After half an hour, where will most ants be? Why do you think so?",
-     "kid": "Mix the weak cup and the strong cup. Put a drop on each square. Start the timer. Now guess. Where will most ants be? Why?",
+     "do": "1. Write W on one square and S on the other. 2. In the first cup, mix 2 teaspoons of water with one pinch of sugar. This is the weak mix, W. 3. In the second cup, mix 2 teaspoons of water with 2 teaspoons of sugar. This is the strong mix, S. Stir each for one minute. 4. Ask your child for a guess before the drops go down. 5. Put half a teaspoon of each mix on its square, at the same moment. 6. Start the timer.",
+     "say": "W is weak, with just a pinch of sugar. S is strong, very sweet. Before we put them down, make a guess.",
+     "kid": "Mix the weak cup and the strong cup. Tell your grown-up your guess. Then put a drop on each square and start the timer.",
      "ask": [
       {
        "q": "Where do you think most ants will be after half an hour, and why?",
@@ -887,7 +887,7 @@
      "id": "s3",
      "mins": 30,
      "do": "1. Every 5 minutes, count the ants on each square and write both numbers in the table. 2. In between, sit still and watch. 3. Follow one ant from the strong drop with your eyes. Does she walk straight back towards the ant road?",
-     "say": "We count both squares at the same time, every 5 minutes. In between, let's watch what the ants do. Do they meet each other? Also watch one ant who has found the sugar. She walks straight home, and she leaves a scent trail as she goes. You cannot smell it, but other ants can.",
+     "say": "We count both squares at the same time, every 5 minutes. In between, let's watch the ants quietly. Also watch one ant who has found the sugar. She walks straight home, and she leaves a scent trail as she goes. You cannot smell it, but other ants can.",
      "kid": "Every 5 minutes, count the ants on each square. Write the numbers down. In between, watch one ant. Where does she go?",
      "ask": [
       {
@@ -905,11 +905,11 @@
      "id": "s4",
      "mins": 4,
      "do": "1. Look at your table together. 2. Ask your child to say what they found, what they saw, and why they think it happened.",
-     "say": "Let's look at the numbers. What did you find? What did you see that tells you so? Why do you think it happened?",
-     "kid": "Look at your numbers. Which drop has more ants? How did the number change? Why do you think so?",
+     "say": "Let's look at the numbers together. What did you find? What do you think made it happen?",
+     "kid": "Look at your table. Which drop has more ants? When did the numbers start to change?",
      "check": {
       "t": "mcq",
-      "q": "Suppose most ants ended up at the strong drop. How did the colony make this choice?",
+      "q": "Most ants ended up at the strong drop. How did the colony choose?",
       "options": [
        "The queen came out and sent the ants there",
        "Ants that drank the strong sugar laid more scent, so more ants followed their trail",
@@ -934,7 +934,7 @@
    "title": "Ask the Elders: who remembers the most about our place?",
    "mins": 30,
    "days": 1,
-   "context": "Elephant families follow the oldest female, because she remembers the most. In this experiment you ask people of different ages in your family the same questions, to see who knows most about your place.",
+   "context": "Elephant families follow the oldest female, because she remembers the most. In this experiment you ask people of different ages in your family the same questions. You will find out whether the oldest person always knows the most about your place.",
    "question": "Do older people in our family know more about the place where we live, or does it depend on the question?",
    "predict": "Guess first. Who will answer the most questions: you, a grown-up, or the oldest person you ask? Why do you think so?",
    "fair_test": "Ask everyone the same 6 questions, in the same order, with no hints. Nobody hears anyone else's answers. Give 1 point for each full answer.",
@@ -961,7 +961,7 @@
      "what": "Write 6 questions. Ask three people of different ages, and score their answers."
     }
    ],
-   "record": "Fill in the table. Draw a bar for each person's total.",
+   "record": "Fill in the table. Draw a bar for each person's total, or tell your grown-up who scored most.",
    "setup": [
     {
      "art": "A child writing six questions in a notebook, three under 'long ago' and three under 'now'.",
@@ -989,8 +989,8 @@
      "id": "s2",
      "mins": 2,
      "do": "Choose three people: your child, a grown-up, and the oldest person you can reach. Ask your child to guess who will score most, and why.",
-     "say": "Who do you think will answer the most questions? Why do you think so?",
-     "kid": "Who will answer the most? Make a guess. Say why.",
+     "say": "We will ask three people the same questions. Before we start, make a guess.",
+     "kid": "Make your guess before you ask anyone. Say why you think so.",
      "ask": [
       {
        "q": "Who will score most, and why?",
@@ -1006,20 +1006,20 @@
      "id": "s3",
      "mins": 15,
      "adult": true,
-     "do": "1. Ask each person the 6 questions, one at a time, in the same order. 2. Don't give hints. 3. Write down each answer. 4. Answer the questions yourself first, before anyone else, so you don't hear their answers.",
+     "do": "1. Ask each person the 6 questions, one at a time, in the same order. 2. Don't give hints. 3. Write down each answer. 4. Your child answers the six questions first, before anyone else, so they do not hear the others' answers.",
      "say": "We ask everyone exactly the same way, so the test is fair. No hints, even if they get stuck.",
-     "kid": "Answer the questions yourself first. Then ask the others. Same questions, same order. No hints!",
+     "kid": "Answer the six questions yourself first. Then ask the others. Same questions, same order. No hints!",
      "parent": "If you ask someone by phone, a grown-up helps to make the call. Older people may want to tell long stories. Listen, and write down the answer to the question."
     },
     {
      "id": "s4",
      "mins": 7,
-     "do": "1. Give 1 point for each full answer. 2. Add up the 'long ago' and 'now' points for each person. 3. Draw a bar for each person's total.",
+     "do": "1. Give 1 point for each full answer. 2. Add up the 'long ago' and 'now' points for each person. 3. Draw a bar for each person's total, or just say who scored most.",
      "say": "Let's score them. Who knew most about long ago? Who knew most about now? What does that tell us?",
-     "kid": "Give 1 point for each good answer. Add them up. Draw a bar for each person.",
+     "kid": "Give 1 point for each good answer. Add them up. Draw a bar for each person, or tell who scored most.",
      "check": {
       "t": "mcq",
-      "q": "In a test like this, the grandmother scored 3 out of 3 on 'long ago' questions, and the child scored 3 out of 3 on 'now' questions. What does this show?",
+      "q": "A grandmother scored 3 out of 3 on 'long ago' questions. A child scored 3 out of 3 on 'now' questions. What does this show?",
       "options": [
        "Older people always know more",
        "What a person knows depends on what they have lived through",
@@ -1039,7 +1039,7 @@
    "title": "Who Is in Charge? Watch an ant road for five minutes",
    "mins": 8,
    "days": 1,
-   "context": "This is a short first look at ants. You watch a line of ants and look for a boss.",
+   "context": "This is a short first look at ants. You watch a line of ants for five minutes. You will find out whether any ant is the boss.",
    "materials": [
     {
      "item": "a line of ants in your home, on a wall, a sill or the kitchen platform",
@@ -1082,8 +1082,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Watch the whole line for two minutes. Look for any ant who seems to be the boss.",
-     "say": "Is there a boss ant telling the others where to go? What makes you think so?",
-     "kid": "Look at the whole line. Is there a boss ant? What makes you think so?",
+     "say": "Now let's watch the whole line. Does any ant seem to be telling the others where to go?",
+     "kid": "Watch the whole line for two minutes. Look for an ant who seems to be in charge.",
      "ask": [
       {
        "q": "Did you see a boss ant?",
@@ -1098,9 +1098,9 @@
     {
      "id": "s3",
      "mins": 1,
-     "do": "Leave your child with a question. Let them guess first. Then give them the clue in the parent note.",
+     "do": "Ask the question and let your child guess. Then give them the clue in the parent note.",
      "say": "So if nobody is the boss, how do all these ants know where to go? What do you think?",
-     "kid": "There is no boss ant. But the ants all go the same way. How do they know? Guess first. Then your grown-up gives you a clue.",
+     "kid": "No ant is the boss, but the ants all go the same way. Make a guess. Then your grown-up gives you a clue.",
      "think": "How could thousands of ants agree on where to go, if nobody gives orders?",
      "parent": "After the guess, give this clue: ants leave a smell on the ground as they walk, and the other ants follow that smell. The sugar drop test shows how this lets a whole colony choose a food without a leader."
     }
@@ -1108,13 +1108,13 @@
   },
   {
    "id": "a2",
-   "title": "Draw an Elephant Family Tree",
+   "title": "Build an Elephant Family Tree",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw the family tree of one elephant family, to see who stays, who leaves and who leads.",
+   "context": "In this activity you build the family tree of a made-up elephant family from paper slips. You will find out who leads, who stays and who leaves.",
    "materials": [
     {
-     "item": "a large sheet of paper and coloured pencils",
+     "item": "a large sheet of paper, 8 small paper slips, a pencil and a coin",
      "qty": 1
     }
    ],
@@ -1122,35 +1122,35 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw a made-up elephant family tree from the clues, then mark who leads and who will leave."
+     "what": "Build a made-up elephant family tree from the clues with paper slips, then mark who leads and who will leave."
     }
    ],
-   "record": "Your family tree, with the matriarch circled and the young males marked with an arrow pointing away.",
+   "record": "Your family tree of slips, with a coin on the matriarch and the young males moved to the side. Take a photo, or draw it.",
    "setup": [
     {
      "art": "A family tree drawn on paper: one old elephant at the top, three daughters below, small calves below them.",
-     "caption": "1. Draw the grandmother at the top and her daughters below."
+     "caption": "1. Put the grandmother at the top and her daughters below."
     },
     {
      "art": "The same tree with a circle around the grandmother and an arrow from a young male pointing off the page.",
-     "caption": "2. Circle the leader. Draw an arrow for each young male who will leave."
+     "caption": "2. Put a coin on the leader. Move each young male who will leave to the side."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the clues aloud, one at a time, and draw as you go. Clue 1: The grandmother is 58. She is the oldest. Clue 2: She has three daughters, aged 35, 30 and 22. Clue 3: The 35-year-old has a daughter of 12 and a son of 14. Clue 4: The 30-year-old has a baby daughter of 1. Clue 5: The 22-year-old has a son of 3.",
-     "say": "This is a made-up elephant family, but the family is built the way real ones are. Draw the grandmother at the top. Then draw her daughters, then their children.",
-     "kid": "Draw the grandmother at the top. She is 58. Draw her three daughters below her. Then draw their calves.",
-     "context": "This is the first step of the elephant family tree. You draw a made-up family from clues."
+     "do": "Read the clues aloud, one at a time. For each elephant, write her or his age on a slip and lay it on the sheet. Clue 1: The grandmother is 58. She is the oldest. Clue 2: She has three daughters, aged 35, 30 and 22. Clue 3: The 35-year-old has a daughter of 12 and a son of 14. Clue 4: The 30-year-old has a baby daughter of 1. Clue 5: The 22-year-old has a son of 3.",
+     "say": "This is a made-up elephant family, but the family is built the way real ones are. Put the grandmother at the top. Then add her daughters, then their children.",
+     "kid": "Write each elephant's age on a slip. Put the 58-year-old grandmother at the top. Put her three daughters in a row below. Put each daughter's calves under her.",
+     "context": "This is the first step of the elephant family tree. You build a made-up family from clues."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Circle the leader. 2. Draw an arrow away from each male who will leave as a teenager. 3. Count the females and count the males.",
-     "say": "Who leads this family? Which elephants will leave in a few years? Who will stay?",
-     "kid": "Circle the leader. Draw an arrow for each boy who will leave. Who stays?",
+     "do": "1. Put a coin on the leader's slip. 2. Slide the slip of each male to the side of the sheet, because males leave when they are teenagers. 3. Count the females and count the males.",
+     "say": "Who is the leader of this family? Put a coin on her. Then let's think about who stays and who goes.",
+     "kid": "Put a coin on the leader. Slide each young male to the side. Count the elephants who stay.",
      "check": {
       "t": "mcq",
       "q": "In this family, who will most likely leave in the next few years?",
@@ -1166,9 +1166,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask who would lead if the grandmother died.",
+     "do": "Take the grandmother's slip away and ask who would lead.",
      "say": "If the grandmother died, who do you think would lead the family? Why?",
-     "kid": "If the grandmother died, who would lead? Why?",
+     "kid": "The grandmother's slip is gone. Who is the oldest now? Would she lead?",
      "ask": [
       {
        "q": "Who would lead next?",
@@ -1186,7 +1186,7 @@
    "title": "Jobs by Age: an ant nest and our home",
    "mins": 12,
    "days": 1,
-   "context": "In many kinds of ants, a worker's job changes as she grows older. In this activity you compare ant jobs with the jobs people of different ages do at home.",
+   "context": "In many kinds of ants, a worker's job changes as she grows older. In this activity you compare ant jobs with the jobs people of different ages do at home. You will find out how an ant nest and your home share the work.",
    "materials": [
     {
      "item": "paper and a pencil",
@@ -1216,8 +1216,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Read this list to your child: young worker ants look after the eggs and young. Middle-aged workers clean and build the nest. The oldest workers guard the entrance and go out to find food.",
-     "say": "In many kinds of ants, the youngest workers stay safe deep in the nest. The oldest ones go out, where it is most dangerous. Why might that be?",
-     "kid": "Young ants look after the babies. Older ants build. The oldest go out for food. Why do the oldest go out?",
+     "say": "In many kinds of ants, the youngest workers stay safe deep in the nest. The oldest ones go out, where it is most dangerous.",
+     "kid": "Listen to the list. Young ants look after the babies. Older ants build. The oldest ants go out for food.",
      "ask": [
       {
        "q": "Why might the oldest ants do the most dangerous job?",
@@ -1241,8 +1241,8 @@
      "id": "s3",
      "mins": 1,
      "do": "Compare the two lists.",
-     "say": "What is the same about the ant nest and our home? What is different? Think about who does which jobs, and why.",
-     "kid": "What is the same? What is different?",
+     "say": "Let's compare. What is different about the ant nest and our home? Think about who does which jobs, and why.",
+     "kid": "Put your two lists side by side. Point to one job that is the same in both.",
      "ask": [
       {
        "q": "In what way is our home like an ant nest?",
@@ -1261,7 +1261,7 @@
    "title": "Howl and Find: how a pack keeps together",
    "mins": 10,
    "days": 1,
-   "context": "Wolves howl to find each other when they are apart. In this activity you try to find your family in the flat by sound alone.",
+   "context": "Wolves howl to find each other when they are apart. In this activity you try to find your family in the flat by sound alone. You will find out how a call and an answer bring a family together.",
    "materials": [
     {
      "item": "two or more people and two or three rooms",
@@ -1307,7 +1307,7 @@
      "mins": 2,
      "do": "Talk about why howling helps a pack.",
      "say": "Wild wolves can hear a howl from several kilometres away. Why would that help a family who hunts over a large area?",
-     "kid": "Why would a wolf family need to call each other?",
+     "kid": "Think of the game you just played. How did the howl help you find your family?",
      "ask": [
       {
        "q": "Why do wolves howl?",
@@ -1327,7 +1327,7 @@
    "title": "Street Dog Watch from the window",
    "mins": 15,
    "days": 1,
-   "context": "Street dogs in Indian cities often live in small groups. If you can see a street from a window or balcony, this activity lets you watch a dog society.",
+   "context": "Street dogs in Indian cities often live in small groups. If you can see a street from a window or balcony, this activity lets you watch a dog society. You will find out whether the dogs stay together like a group.",
    "materials": [
     {
      "item": "a window or balcony with a view of a street, and a notebook",
@@ -1342,7 +1342,7 @@
      "what": "Watch street dogs for 15 minutes. Note which dogs stay together and what they do."
     }
    ],
-   "record": "Give each dog a name and draw who stays near whom.",
+   "record": "Give each dog a name and note who stays near whom. Draw lines between them, or just write it.",
    "setup": [
     {
      "art": "A child at a balcony railing looking down at three street dogs resting by a tea stall.",
@@ -1358,16 +1358,16 @@
      "id": "s1",
      "mins": 10,
      "do": "1. Watch the dogs for 10 minutes. 2. Give each one a name by their colour or a mark. 3. Note which dogs lie close together and which walk together.",
-     "say": "Anindita Bhadra and her team at IISER Kolkata study street dogs like these. Let's watch them the way a scientist would.",
+     "say": "Anindita Bhadra and her team at IISER Kolkata study street dogs like these. Let's watch them the way a scientist would. We look for dogs who lie or walk together.",
      "kid": "Watch the dogs. Give each one a name. Who stays together?",
      "context": "This is the first step of the street dog watch. You watch dogs and note who stays together."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw a line between dogs who stayed close. Talk about what you saw.",
+     "do": "Talk about which dogs stayed close. Draw a line between them if your child likes.",
      "say": "Do these dogs look like a group? What did they do together?",
-     "kid": "Draw lines between dogs who stayed close. Are they a group?",
+     "kid": "Tell your grown-up which dogs stayed close. Or draw a line between them. Are they a group?",
      "parent": "If you can't see any dogs, try crows or pigeons, or try again at a different time of day."
     }
    ]
@@ -1379,7 +1379,7 @@
    "title": "The Ant Road Map: three days with our colony",
    "mins": 45,
    "days": 3,
-   "context": "In this project you map where the ants in your home walk, and find out when they are busiest.",
+   "context": "In this project you map where the ants in your home walk. You will find out when they are busiest and where their nest is.",
    "materials": [
     {
      "item": "a large sheet of paper for a map of your kitchen",
@@ -1430,9 +1430,9 @@
     {
      "id": "s1",
      "mins": 20,
-     "do": "1. Draw a map of the kitchen from above. 2. Look for lines of ants along the walls, the platform and the floor. 3. Draw each road on the map with a wavy line.",
+     "do": "1. Draw a map of the kitchen from above, or list its parts in words. 2. Look for lines of ants along the walls, the platform and the floor. 3. Draw each road on the map with a wavy line, or write where it runs.",
      "say": "Ant colonies have roads, like a city. Let's make a map of the ant roads in our kitchen.",
-     "kid": "Draw the kitchen from above. Find the ant lines. Draw each one on your map.",
+     "kid": "Draw the kitchen from above. Find the ant lines. Draw each one on your map, or tell your grown-up where it runs.",
      "parent": "If you find no ants, leave a few grains of sugar near the window or a wall for an hour, then look again.",
      "context": "This is the first day of the ant road map. You draw the kitchen and mark where ants walk."
     },
@@ -1448,7 +1448,7 @@
      "id": "s3",
      "mins": 15,
      "do": "1. Follow one road back, away from any food, to where the ants go into a crack or a hole. 2. Mark it on the map with a star. 3. Talk about what might be inside.",
-     "say": "Somewhere behind that crack is the nest, with the queen and the young. We won't open it. Let's mark it on our map.",
+     "say": "Somewhere behind that crack is the nest. We won't open it. Let's mark it on our map.",
      "kid": "Follow the ants back. Where do they go in? Mark it with a star. Don't poke it!",
      "check": {
       "t": "mcq",
@@ -1470,7 +1470,7 @@
    "id": "c1",
    "title": "A Living Bridge",
    "mins": 30,
-   "context": "Army ants hook their own bodies together to make bridges, so the rest of the colony can cross a gap. In this challenge you build a bridge from many small parts.",
+   "context": "Army ants hook their own bodies together to make bridges, so the rest of the colony can cross a gap. In this challenge you build a bridge from many small parts. You will find out how many coins it can hold.",
    "problem": "Build a bridge across a 20 cm gap between two piles of books, using many small parts joined together. The bridge must hold a one-rupee coin in the middle.",
    "constraints": [
     "Use only small parts: paper clips, strips of paper, or rubber bands.",
@@ -1496,7 +1496,7 @@
     "Make the bridge sag in a curve, like a hammock, so each part pulls on its neighbours.",
     "Build an arch from folded paper loops pushing against each other."
    ],
-   "your_turn": "Now design your own bridge from small parts. Draw it, build it and test it with one coin, then two. How many coins can it hold?",
+   "your_turn": "Now design your own bridge from small parts. Plan it, build it and test it with one coin, then two. How many coins can it hold?",
    "setup": [
     {
      "art": "Two piles of books 20 cm apart, with a ruler between them.",
@@ -1519,9 +1519,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw three ideas before building.",
-     "say": "Let's draw three ideas first. Which one do you think will hold the coin, and why?",
-     "kid": "Draw three ideas. Which one will hold the coin? Why?"
+     "do": "Plan three ideas before building. Draw them, or lay out the parts for each idea on the table.",
+     "say": "Let's plan three ideas first. Which one do you think will hold the coin, and why?",
+     "kid": "Plan three ideas. Draw them, or lay out the parts. Which one will hold the coin?"
     },
     {
      "id": "s3",
@@ -1535,7 +1535,7 @@
      "mins": 5,
      "do": "Talk about what worked.",
      "say": "What made the strongest bridge? How is that like ants holding on to each other?",
-     "kid": "What made it strong? How is it like the ants?",
+     "kid": "Look at your bridge. Show your grown-up the part that held the most weight.",
      "ask": [
       {
        "q": "Why can many small parts hold more than one part alone?",

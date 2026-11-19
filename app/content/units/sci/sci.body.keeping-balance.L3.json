@@ -659,8 +659,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play one practice round together. Find 'Played cricket at noon: +2' and move to 7.",
-     "say": "We played cricket at noon, so we go up 2, to box 7. That is warm. What could your body do to come back to 5?",
-     "kid": "Practice card: played cricket at noon, plus 2. You are on 7 now. Which body card brings you back?",
+     "say": "We played cricket at noon, so we go up 2, to box 7. That is warm. Let's find a body card that brings us back to 5.",
+     "kid": "Practice card: played cricket at noon, plus 2. Move your counter to box 7.",
      "ask": [
       {
        "q": "Why does sweating bring you down?",
@@ -697,7 +697,7 @@
      "mins": 2,
      "do": "When someone reaches or passes box 1 or 9, stop the game and talk about it. Then move that counter to 3 or 7.",
      "say": "You reached the edge! In real life, that is when the body cannot fix its warmth alone. What would a grown-up do to help?",
-     "kid": "You reached the edge. Your body needs help now. What can a grown-up do?",
+     "kid": "You reached the edge. Your body needs help now.",
      "ask": [
       {
        "q": "What helps a person who is far too hot?",
@@ -1376,7 +1376,7 @@
    "title": "The Sweaty Tumbler Test",
    "mins": 35,
    "days": 1,
-   "context": "This is the sweaty tumbler test. You wrap two tumblers of warm water, one in a wet cloth and one in a dry cloth, and put them in front of a fan. Then you measure which one cools down faster.",
+   "context": "This is the sweaty tumbler test. You wrap two tumblers of warm water, one in a wet cloth and one in a dry cloth, and put them in front of a fan. Then you measure which one cools down faster. You will find out whether a wet cloth, like sweat, really cools better than a dry one.",
    "question": "Does a wet cloth, like sweat on skin, cool something down faster than a dry cloth?",
    "predict": "Before you start, guess. Which tumbler will be cooler after 20 minutes: the one in the wet cloth or the one in the dry cloth? Or will they be the same? Why do you think so?",
    "fair_test": "To make it fair, keep everything the same, except that one cloth is wet and one is dry. Use two tumblers that are the same. Pour the same amount of the same warm water in each. Use the same kind of cloth. Stand both on the same kind of plate, side by side, the same distance from the fan.",
@@ -1428,7 +1428,7 @@
      "what": "Guess. Wrap the tumblers. Measure every 5 minutes for 20 minutes. Fill in the table. Say what you found."
     }
    ],
-   "record": "Fill in the table every 5 minutes. Then work out how many degrees each tumbler dropped. Draw one bar for each tumbler to show the drop.",
+   "record": "Fill in the table every 5 minutes. Then work out how many degrees each tumbler dropped. Draw one bar for each tumbler to show the drop, or just say which one dropped more.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how many degrees each tumbler cooled in 20 minutes",
@@ -1697,7 +1697,7 @@
    "title": "The Matka Test: can a pot sweat?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you fill a clay matka and a steel pot with the same water, and leave them for a few hours. Then you measure which water is cooler, and feel the outside of each pot.",
+   "context": "In this experiment you fill a clay matka and a steel pot with the same water, and leave them for a few hours. Then you measure which water is cooler, and feel the outside of each pot. You will find out whether a pot can sweat.",
    "question": "Does water stay cooler in a clay matka than in a steel pot? And why?",
    "predict": "Guess before you start. After 3 hours, will the matka water be cooler, the same, or warmer than the steel pot water? Why do you think so?",
    "fair_test": "To make it fair, use the same water for both, the same amount, and leave both in the same place, in the shade, side by side.",
@@ -1738,7 +1738,7 @@
      "what": "Soak the matka for an hour. Fill both pots. Measure the start. Wait 3 hours. Measure again and feel the outsides. Explain what you found."
     }
    ],
-   "record": "Fill in the table. Draw the matka with little arrows showing water creeping out and drying away.",
+   "record": "Fill in the table. Draw the matka with little arrows showing water creeping out and drying away, or tell your grown-up where the water goes.",
    "setup": [
     {
      "art": "A clay matka and a steel pot side by side in the shade on a balcony, both being filled from one jug.",
@@ -1843,8 +1843,8 @@
      "what": "Jump for one minute, notice the body's changes, then rest and notice again."
     }
    ],
-   "record": "Draw yourself before and after jumping. Label everything that changed.",
-   "context": "This is a short noticing activity. You jump for one minute and then watch what your body does by itself.",
+   "record": "Tell your grown-up everything that changed after jumping, or take a photo before and after and point to each change.",
+   "context": "This is a short noticing activity. You jump for one minute and then watch what your body does by itself. You will find out which changes happen without you choosing them.",
    "setup": [
     {
      "art": "A child doing star jumps on a mat in a living room.",
@@ -1900,8 +1900,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Your child rests and sips water for 3 minutes. Then they look in the mirror one more time.",
-     "say": "Now rest and sip water. Did anything go back to normal? Did you decide to sweat, or did your body do it by itself?",
-     "kid": "Rest and sip water. Look again. What went back to normal? Did you choose to sweat?",
+     "say": "Now rest and sip water. Did anything go back to normal?",
+     "kid": "Rest and sip water. Look again. What went back to normal?",
      "check": {
       "t": "mcq",
       "q": "After jumping, your face went red and sweaty. Who made that happen?",
@@ -2039,7 +2039,7 @@
      "what": "Hunt around the house for machines that keep something just right. Label each one."
     }
    ],
-   "record": "Draw one machine's feedback loop: what notices, what decides, what acts.",
+   "record": "Stick three notes on one machine: what notices, what decides, what acts. Or draw its loop. Then tell your grown-up the same three jobs in your own body when you sweat.",
    "context": "In this activity you hunt for machines at home that keep something just right, the way your body does. Each one has a feedback loop.",
    "setup": [
     {
@@ -2052,7 +2052,7 @@
     },
     {
      "art": "A child's drawing of a loop: thermometer, then a little box 'decides', then a fan 'acts', with an arrow back.",
-     "caption": "3. Draw one machine's loop."
+     "caption": "3. Stick notes on one machine's loop."
     }
    ],
    "flow": [
@@ -2068,9 +2068,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Pick one machine, for example the fridge or the iron. Ask your child to draw its loop: what notices, what decides, what acts.",
-     "say": "Let's draw the loop of the machine you picked. What notices that something is wrong? What decides? What acts? And how is your body the same?",
-     "kid": "Pick one machine. Draw its loop. What notices? What decides? What acts? Now draw your body's loop for sweating.",
+     "do": "Pick one machine, for example the fridge or the iron. Give your child three sticky notes: NOTICES, DECIDES, ACTS. They stick each note on the part of the machine that does that job.",
+     "say": "Let's find the loop in the machine you picked. Which part notices that something is wrong? Which part decides? Which part acts? Your body does the same three jobs when you sweat.",
+     "kid": "Pick one machine. Stick the three notes on the part that notices, the part that decides and the part that acts.",
      "check": {
       "t": "mcq",
       "q": "In your body's sweating loop, what is the 'decider', like the AC's control box?",
@@ -2192,7 +2192,7 @@
      "what": "Make a patch of arm skin cool and watch the hairs stand up under a magnifying glass."
     }
    ],
-   "record": "Draw your arm skin before and after, as you saw it through the magnifying glass.",
+   "record": "Tell your grown-up how your arm skin looked before and after, or take a photo of each. Or draw it.",
    "context": "In this activity you watch goosebumps appear up close. You find out what they are, and why furry animals have a better use for them than we do.",
    "setup": [
     {
@@ -2212,7 +2212,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Look at the arm through the magnifying glass. 2. Wipe the arm with a damp cloth. 3. Hold it in front of the fan for 30 seconds. 4. Look again.",
+     "do": "1. Your child looks at the hairs on their arm through the magnifying glass. 2. Wipe the arm with a damp cloth. 3. Hold it in front of the fan for 30 seconds. 4. Look again.",
      "say": "Look closely at the little hairs on your arm. Now let's make it cold. Look again. What has changed?",
      "kid": "Look at your arm hairs through the glass. Wipe your arm with a damp cloth. Hold it by the fan. Look again!",
      "ask": [
@@ -2232,7 +2232,7 @@
      "mins": 5,
      "do": "Explain goosebumps, and compare with a cat fluffing their fur.",
      "say": "Each hair has a tiny muscle. When you are cold, it pulls the hair upright. A cat or a monkey has thick fur. Their standing fur traps a blanket of warm air. Our hair is too thin for that. So goosebumps are a leftover from our furry relatives.",
-     "kid": "Each hair has a tiny muscle. Cold makes it pull the hair up. Furry animals trap warm air this way. Our hair is too thin. Goosebumps are a leftover!",
+     "kid": "Each hair has a tiny muscle. Cold makes it pull the hair up. That is a goosebump.",
      "check": {
       "t": "mcq",
       "q": "Why does a cat fluff up their fur on a cold morning?",
@@ -2332,7 +2332,7 @@
      "mins": 20,
      "do": "1. Add up each day's cups. 2. Draw a bar for each day. 3. Ask your child to say what they think, what they saw, and why (claim, evidence and reasoning).",
      "say": "Let's add up your cups and draw a bar for each day. Which day did you drink most? What was your pee colour that day? What was the weather?",
-     "kid": "Add up your cups for each day. Draw a bar for each day. Which day did you drink most? Why?",
+     "kid": "Add up your cups for each day. Draw a bar for each day, or stack that many cups in a row. Which day did you drink most? Why?",
      "check": {
       "t": "mcq",
       "q": "In your water diary, on the day you played outside in the heat, you felt thirstier and drank more. Why?",
@@ -2378,7 +2378,7 @@
     "Put a damp clay saucer inside, like a tiny matka. Does it help?",
     "Make your box sweat: spray its outside with water every 5 minutes, like skin sweating."
    ],
-   "your_turn": "Now invent your own idea. Draw it, build it, and measure. Did it beat the others? Would it work on a humid monsoon day?",
+   "your_turn": "Now invent your own idea. Build it and measure. Did it beat the others? Would it work on a humid monsoon day?",
    "setup": [
     {
      "art": "Two shoeboxes on a sunny ledge, each with a little window and a thermometer inside.",
@@ -2407,7 +2407,7 @@
      "mins": 15,
      "do": "Your child chooses and builds their cooling ideas on one box only.",
      "say": "Think about how your body cools down. Which of those tricks could work for a box?",
-     "kid": "How does your body cool down? Shade, sweat, red skin? Use one idea on your box.",
+     "kid": "Pick one trick from your body: shade, sweat or red skin. Use it on one box.",
      "ask": [
       {
        "q": "Which of your body's tricks are you copying?",
@@ -2471,7 +2471,7 @@
    "setup": [
     {
      "art": "A child drawing a spacesuit on paper with labels like 'layers trap air' and 'shiny outside'.",
-     "caption": "1. Choose a cold world or a hot world. Draw your suit."
+     "caption": "1. Choose a cold world or a hot world. Plan your suit."
     },
     {
      "art": "A small doll dressed in a foil cape and cotton wool layers, with straws taped along its arms.",
@@ -2486,9 +2486,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Your child picks a cold world or a hot world and draws a suit, labelling each part.",
+     "do": "Your child picks a cold world or a hot world and plans a suit, naming each part. They can draw it, or say the parts out loud.",
      "say": "Your explorer is about 37 degrees inside, just like you. How will your suit keep them just right out there?",
-     "kid": "Choose a cold world or a hot world. Draw a suit. Label each part.",
+     "kid": "Choose a cold world or a hot world. Plan a suit and name each part. Draw it, or just say the parts out loud.",
      "context": "This is the first step of the suit design challenge. You plan a suit that keeps an explorer just right."
     },
     {
@@ -2504,7 +2504,7 @@
      "mins": 5,
      "do": "Your child explains the suit and which body trick each part copies.",
      "say": "Tell me about each part of your suit. Which body trick does it copy?",
-     "kid": "Explain each part of your suit. Which body trick is it copying?",
+     "kid": "Show each part of your suit and say what it does.",
      "check": {
       "t": "mcq",
       "q": "In the suit design challenge, an explorer on a hot planet is sweating inside a closed suit. Why might they still overheat?",

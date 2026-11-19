@@ -243,16 +243,16 @@ Doddamma had brought her family to the river again.
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the cards and lay out the mat. 2. Shuffle the cards into a pile, clue side up.  
   *Parent says:* Each card has a clue about elephants, ants or wolves. Some clues fit all three. Let's see if you can tell them apart.  
-  *Child mode:* Shuffle the cards. Put them in a pile. Read the top card.
+  *Child mode:* Shuffle the cards. Put them in a pile with the clue side up. Do not peek at the answers.
 - **s2 (10 min)**  
   *Parent does:* Take turns reading a card, saying the answer and turning it over.  
   *Parent says:* Read the clue. Which society is it? Turn it over and check.  
   *Child mode:* Read the clue. Say elephant, ant, wolf or all three. Turn it over. Were you right?
-  - Check: Which society is led by a mother and a father who are the parents of the others? → **A wolf pack**
+  - Check: Which one is led by a mother and a father? → **A wolf pack**
 - **s3 (3 min)**  
   *Parent does:* Count the cards and look at the 'All three' pile together.  
-  *Parent says:* Look at the 'All three' cards. What do all three societies share?  
-  *Child mode:* Look at the 'All three' cards. What do all three share?
+  *Parent says:* Let's read the 'All three' cards again.  
+  *Child mode:* Read the 'All three' cards one by one. Then tell your grown-up what they have in common.
   - Ask: What do elephant families, ant colonies and wolf packs all have in common? (good: They are all families.; The young learn from older members.; They help each other survive.)
 ### g2 · The Dry Season Walk (20 min)
 - **rules:** You need the board, the cards, one dice and a counter for each player. Each counter is an elephant family. Put every counter on square 0.; On your turn, another player reads you the top question card. Playing alone? Read it yourself, say your answer, then turn the card over to check.; Answer right, and roll the dice and move that many squares. Answer wrong, and move 1 square.; If you land on a square with a message, do what it says. If the message sends you to another square, ignore any message on that square.; On a TELL IT card, any sensible true answer counts as right.; When the cards run out, shuffle them and use them again.; The first family to reach the Kabini river, square 16, wins. You don't need the exact number to finish.
@@ -266,18 +266,18 @@ Doddamma had brought her family to the river again.
   *Parent does:* Take turns. Read a card, answer, check, roll and move.  
   *Parent says:* Read your card. Answer it. If you're right, roll and move.  
   *Child mode:* Answer your card. Right? Roll the dice and move. Wrong? Move 1.
-  - Check: You land on DRY POOL. What can an old matriarch do to find water? → **Dig in a dry riverbed where she found water before**
+  - Check: You land on DRY POOL. How can an old matriarch find water? → **Dig in a dry riverbed where she found water before**
 - **s3 (2 min)**  
   *Parent does:* When someone reaches the river, talk about the game.  
   *Parent says:* Which squares sent families back? What did the matriarch's memory help with?  
-  *Child mode:* Which squares were hard? How did the old matriarch help?
+  *Child mode:* Tell your grown-up one square that was hard. Then tell one way the old matriarch helped.
 
 ## Experiments
 ### e1 · Weak Sugar or Strong Sugar: which drop does the colony choose? (45 min)
 - **question:** If ants find a weak sugar drop and a strong sugar drop at the same time, will the colony end up at one of them? Which one, and how?
 - **predict:** Guess first. After half an hour, will there be more ants at the weak drop, more at the strong drop, or the same at both? Why do you think so?
 - **fair test:** Change only how sweet the drops are. Use the same amount of each drop, the same kind of square, the same distance from the ant road, and put both down at the same moment. Count both drops at the same time. If you have time, do it again the next day with the two squares swapped, because one side might be nearer the nest.
-- **record:** Fill in the table every 5 minutes. Then draw two bars for the last count: one for the weak drop and one for the strong drop.
+- **record:** Fill in the table every 5 minutes. Then draw two bars for the last count, one for each drop. Or tell your grown-up which drop won and by how many ants.
 - **results table:** Minutes since start | Ants on the weak drop | Ants on the strong drop
 - **s1 (5 min)**  
   *Parent does:* 1. Look for ants along the kitchen platform, the window sill or near the dustbin. 2. Watch which way they walk for one minute. 3. Put the two squares in a line along the ant road, each a hand's width from the road, about 15 cm apart.  
@@ -285,24 +285,24 @@ Doddamma had brought her family to the river again.
   *Child mode:* Find a line of ants. Watch where they walk. Put both squares near the line. Keep them the same distance away.
   - Note: If you can't find ants, leave a few grains of sugar on the kitchen platform for an hour first, then look. Ants are often busiest in the evening.
 - **s2 (5 min)**  
-  *Parent does:* 1. Write W on one square and S on the other. 2. In the first cup, mix 2 teaspoons of water with one pinch of sugar. This is the weak mix, W. 3. In the second cup, mix 2 teaspoons of water with 2 teaspoons of sugar. This is the strong mix, S. Stir each for one minute. 4. Put half a teaspoon of each mix on its square, at the same moment. 5. Start the timer.  
-  *Parent says:* W is weak, with just a pinch of sugar. S is strong, very sweet. Before we put them down, tell me your guess. After half an hour, where will most ants be? Why do you think so?  
-  *Child mode:* Mix the weak cup and the strong cup. Put a drop on each square. Start the timer. Now guess. Where will most ants be? Why?
+  *Parent does:* 1. Write W on one square and S on the other. 2. In the first cup, mix 2 teaspoons of water with one pinch of sugar. This is the weak mix, W. 3. In the second cup, mix 2 teaspoons of water with 2 teaspoons of sugar. This is the strong mix, S. Stir each for one minute. 4. Ask your child for a guess before the drops go down. 5. Put half a teaspoon of each mix on its square, at the same moment. 6. Start the timer.  
+  *Parent says:* W is weak, with just a pinch of sugar. S is strong, very sweet. Before we put them down, make a guess.  
+  *Child mode:* Mix the weak cup and the strong cup. Tell your grown-up your guess. Then put a drop on each square and start the timer.
   - Ask: Where do you think most ants will be after half an hour, and why? (good: At the strong drop, because ants like sweeter food.; The same at both, because ants can't tell from far away.; At whichever drop they find first, because they will follow the first trail.)
   - Note: Accept any guess with a reason. Don't hint. The strong mix will look thick and may not all dissolve. That is fine.
 - **s3 (30 min)**  
   *Parent does:* 1. Every 5 minutes, count the ants on each square and write both numbers in the table. 2. In between, sit still and watch. 3. Follow one ant from the strong drop with your eyes. Does she walk straight back towards the ant road?  
-  *Parent says:* We count both squares at the same time, every 5 minutes. In between, let's watch what the ants do. Do they meet each other? Also watch one ant who has found the sugar. She walks straight home, and she leaves a scent trail as she goes. You cannot smell it, but other ants can.  
+  *Parent says:* We count both squares at the same time, every 5 minutes. In between, let's watch the ants quietly. Also watch one ant who has found the sugar. She walks straight home, and she leaves a scent trail as she goes. You cannot smell it, but other ants can.  
   *Child mode:* Every 5 minutes, count the ants on each square. Write the numbers down. In between, watch one ant. Where does she go?
   - Ask: What do two ants do when they meet on the path? (good: They touch each other with their antennae.; They stop for a moment, then walk on.)
   - Note: Ants that keep moving are hard to count. Count the ants touching the square, and count twice if you are unsure. If after 15 minutes no ant has come to either drop, move both squares closer to the ant road, together, and start the count again. Sometimes the ants find the weak drop first and keep crowding it. That is a real result too, and the explanation cards say why it happens.
   - Think: No ant has tasted both drops and told the others. So how do more ants end up at one drop than at the other?
 - **s4 (4 min)**  
   *Parent does:* 1. Look at your table together. 2. Ask your child to say what they found, what they saw, and why they think it happened.  
-  *Parent says:* Let's look at the numbers. What did you find? What did you see that tells you so? Why do you think it happened?  
-  *Child mode:* Look at your numbers. Which drop has more ants? How did the number change? Why do you think so?
+  *Parent says:* Let's look at the numbers together. What did you find? What do you think made it happen?  
+  *Child mode:* Look at your table. Which drop has more ants? When did the numbers start to change?
   - Note: Let your child explain before you read the explanation cards. If the weak drop won, ask which drop the ants found first.
-  - Check: Suppose most ants ended up at the strong drop. How did the colony make this choice? → **Ants that drank the strong sugar laid more scent, so more ants followed their trail**
+  - Check: Most ants ended up at the strong drop. How did the colony choose? → **Ants that drank the strong sugar laid more scent, so more ants followed their trail**
 - **s5 (1 min)**  
   *Parent does:* Wait for the ants to finish, or wipe the squares and floor with a damp cloth so the ants go home. Don't spray or squash them.  
   *Parent says:* The ants did our experiment with us. Let's clean up gently and let them go home.  
@@ -312,7 +312,7 @@ Doddamma had brought her family to the river again.
 - **question:** Do older people in our family know more about the place where we live, or does it depend on the question?
 - **predict:** Guess first. Who will answer the most questions: you, a grown-up, or the oldest person you ask? Why do you think so?
 - **fair test:** Ask everyone the same 6 questions, in the same order, with no hints. Nobody hears anyone else's answers. Give 1 point for each full answer.
-- **record:** Fill in the table. Draw a bar for each person's total.
+- **record:** Fill in the table. Draw a bar for each person's total, or tell your grown-up who scored most.
 - **results table:** Person and their age | Points for 'long ago' questions (out of 3) | Points for 'now' questions (out of 3) | Total (out of 6)
 - **s1 (6 min)**  
   *Parent does:* 1. Write 3 questions about long ago, for example: 'Where did people here get water before there were taps?' 2. Write 3 questions about now, for example: 'Which bus goes to the nearest market?' 3. Check that each question has a clear answer that another person could confirm.  
@@ -321,19 +321,19 @@ Doddamma had brought her family to the river again.
   - Note: Other good questions: 'Which month do the first heavy rains usually come here?', 'What did this area look like before our building was built?', 'Where is the nearest medical shop open at night?', 'What is the name of the newest shop on our road?'.
 - **s2 (2 min)**  
   *Parent does:* Choose three people: your child, a grown-up, and the oldest person you can reach. Ask your child to guess who will score most, and why.  
-  *Parent says:* Who do you think will answer the most questions? Why do you think so?  
-  *Child mode:* Who will answer the most? Make a guess. Say why.
+  *Parent says:* We will ask three people the same questions. Before we start, make a guess.  
+  *Child mode:* Make your guess before you ask anyone. Say why you think so.
   - Ask: Who will score most, and why? (good: Grandmother, because she has lived here longest.; Me, because I know the new shops.; It depends on the question.)
 - **s3 (15 min) · grown-up needed**  
-  *Parent does:* 1. Ask each person the 6 questions, one at a time, in the same order. 2. Don't give hints. 3. Write down each answer. 4. Answer the questions yourself first, before anyone else, so you don't hear their answers.  
+  *Parent does:* 1. Ask each person the 6 questions, one at a time, in the same order. 2. Don't give hints. 3. Write down each answer. 4. Your child answers the six questions first, before anyone else, so they do not hear the others' answers.  
   *Parent says:* We ask everyone exactly the same way, so the test is fair. No hints, even if they get stuck.  
-  *Child mode:* Answer the questions yourself first. Then ask the others. Same questions, same order. No hints!
+  *Child mode:* Answer the six questions yourself first. Then ask the others. Same questions, same order. No hints!
   - Note: If you ask someone by phone, a grown-up helps to make the call. Older people may want to tell long stories. Listen, and write down the answer to the question.
 - **s4 (7 min)**  
-  *Parent does:* 1. Give 1 point for each full answer. 2. Add up the 'long ago' and 'now' points for each person. 3. Draw a bar for each person's total.  
+  *Parent does:* 1. Give 1 point for each full answer. 2. Add up the 'long ago' and 'now' points for each person. 3. Draw a bar for each person's total, or just say who scored most.  
   *Parent says:* Let's score them. Who knew most about long ago? Who knew most about now? What does that tell us?  
-  *Child mode:* Give 1 point for each good answer. Add them up. Draw a bar for each person.
-  - Check: In a test like this, the grandmother scored 3 out of 3 on 'long ago' questions, and the child scored 3 out of 3 on 'now' questions. What does this show? → **What a person knows depends on what they have lived through**
+  *Child mode:* Give 1 point for each good answer. Add them up. Draw a bar for each person, or tell who scored most.
+  - Check: A grandmother scored 3 out of 3 on 'long ago' questions. A child scored 3 out of 3 on 'now' questions. What does this show? → **What a person knows depends on what they have lived through**
 
 ## Activities
 ### a1 · Who Is in Charge? Watch an ant road for five minutes (8 min)
@@ -345,39 +345,39 @@ Doddamma had brought her family to the river again.
   - Note: If you cannot find ants, put a few grains of sugar on a plate on the kitchen platform for an hour, then look again.
 - **s2 (3 min)**  
   *Parent does:* Watch the whole line for two minutes. Look for any ant who seems to be the boss.  
-  *Parent says:* Is there a boss ant telling the others where to go? What makes you think so?  
-  *Child mode:* Look at the whole line. Is there a boss ant? What makes you think so?
+  *Parent says:* Now let's watch the whole line. Does any ant seem to be telling the others where to go?  
+  *Child mode:* Watch the whole line for two minutes. Look for an ant who seems to be in charge.
   - Ask: Did you see a boss ant? (good: No. They all seem to be doing the same thing.; No, but they touch each other when they meet.)
   - Note: Most children expect a leader. Don't correct them now. The sugar drop test lets them find out.
 - **s3 (1 min)**  
-  *Parent does:* Leave your child with a question. Let them guess first. Then give them the clue in the parent note.  
+  *Parent does:* Ask the question and let your child guess. Then give them the clue in the parent note.  
   *Parent says:* So if nobody is the boss, how do all these ants know where to go? What do you think?  
-  *Child mode:* There is no boss ant. But the ants all go the same way. How do they know? Guess first. Then your grown-up gives you a clue.
+  *Child mode:* No ant is the boss, but the ants all go the same way. Make a guess. Then your grown-up gives you a clue.
   - Note: After the guess, give this clue: ants leave a smell on the ground as they walk, and the other ants follow that smell. The sugar drop test shows how this lets a whole colony choose a food without a leader.
   - Think: How could thousands of ants agree on where to go, if nobody gives orders?
-### a2 · Draw an Elephant Family Tree (15 min)
-- **record:** Your family tree, with the matriarch circled and the young males marked with an arrow pointing away.
+### a2 · Build an Elephant Family Tree (15 min)
+- **record:** Your family tree of slips, with a coin on the matriarch and the young males moved to the side. Take a photo, or draw it.
 - **s1 (8 min)**  
-  *Parent does:* Read the clues aloud, one at a time, and draw as you go. Clue 1: The grandmother is 58. She is the oldest. Clue 2: She has three daughters, aged 35, 30 and 22. Clue 3: The 35-year-old has a daughter of 12 and a son of 14. Clue 4: The 30-year-old has a baby daughter of 1. Clue 5: The 22-year-old has a son of 3.  
-  *Parent says:* This is a made-up elephant family, but the family is built the way real ones are. Draw the grandmother at the top. Then draw her daughters, then their children.  
-  *Child mode:* Draw the grandmother at the top. She is 58. Draw her three daughters below her. Then draw their calves.
+  *Parent does:* Read the clues aloud, one at a time. For each elephant, write her or his age on a slip and lay it on the sheet. Clue 1: The grandmother is 58. She is the oldest. Clue 2: She has three daughters, aged 35, 30 and 22. Clue 3: The 35-year-old has a daughter of 12 and a son of 14. Clue 4: The 30-year-old has a baby daughter of 1. Clue 5: The 22-year-old has a son of 3.  
+  *Parent says:* This is a made-up elephant family, but the family is built the way real ones are. Put the grandmother at the top. Then add her daughters, then their children.  
+  *Child mode:* Write each elephant's age on a slip. Put the 58-year-old grandmother at the top. Put her three daughters in a row below. Put each daughter's calves under her.
 - **s2 (5 min)**  
-  *Parent does:* 1. Circle the leader. 2. Draw an arrow away from each male who will leave as a teenager. 3. Count the females and count the males.  
-  *Parent says:* Who leads this family? Which elephants will leave in a few years? Who will stay?  
-  *Child mode:* Circle the leader. Draw an arrow for each boy who will leave. Who stays?
+  *Parent does:* 1. Put a coin on the leader's slip. 2. Slide the slip of each male to the side of the sheet, because males leave when they are teenagers. 3. Count the females and count the males.  
+  *Parent says:* Who is the leader of this family? Put a coin on her. Then let's think about who stays and who goes.  
+  *Child mode:* Put a coin on the leader. Slide each young male to the side. Count the elephants who stay.
   - Check: In this family, who will most likely leave in the next few years? → **The 14-year-old son**
 - **s3 (2 min)**  
-  *Parent does:* Ask who would lead if the grandmother died.  
+  *Parent does:* Take the grandmother's slip away and ask who would lead.  
   *Parent says:* If the grandmother died, who do you think would lead the family? Why?  
-  *Child mode:* If the grandmother died, who would lead? Why?
+  *Child mode:* The grandmother's slip is gone. Who is the oldest now? Would she lead?
   - Ask: Who would lead next? (good: The 35-year-old, because she is the next oldest and knows the most.; One of the older daughters.)
 ### a3 · Jobs by Age: an ant nest and our home (12 min)
 - **problem:** In many kinds of ants, the job of a worker changes as she grows older. Young workers look after the eggs inside the nest. Older workers go out to find food. In this activity you compare ant jobs with the jobs that people of different ages do at home.
 - **record:** Two lists side by side: 'Ant jobs, young to old' and 'Home jobs, young to old'.
 - **s1 (5 min)**  
   *Parent does:* Read this list to your child: young worker ants look after the eggs and young. Middle-aged workers clean and build the nest. The oldest workers guard the entrance and go out to find food.  
-  *Parent says:* In many kinds of ants, the youngest workers stay safe deep in the nest. The oldest ones go out, where it is most dangerous. Why might that be?  
-  *Child mode:* Young ants look after the babies. Older ants build. The oldest go out for food. Why do the oldest go out?
+  *Parent says:* In many kinds of ants, the youngest workers stay safe deep in the nest. The oldest ones go out, where it is most dangerous.  
+  *Child mode:* Listen to the list. Young ants look after the babies. Older ants build. The oldest ants go out for food.
   - Ask: Why might the oldest ants do the most dangerous job? (good: Because they have less life left to lose. The colony loses less when an old ant is lost than when a young one is.; Because the young ones are kept safe to work longer.)
   - Note: Scientists think this is right: a colony loses less when an old forager dies than a young one. Not every kind of ant works this way.
 - **s2 (6 min)**  
@@ -387,8 +387,8 @@ Doddamma had brought her family to the river again.
   - Note: There is no right answer. The point is to notice that every society shares out its work somehow.
 - **s3 (1 min)**  
   *Parent does:* Compare the two lists.  
-  *Parent says:* What is the same about the ant nest and our home? What is different? Think about who does which jobs, and why.  
-  *Child mode:* What is the same? What is different?
+  *Parent says:* Let's compare. What is different about the ant nest and our home? Think about who does which jobs, and why.  
+  *Child mode:* Put your two lists side by side. Point to one job that is the same in both.
   - Ask: In what way is our home like an ant nest? (good: In both, the work is shared between the members.; In both, the jobs change as a member gets older.)
 ### a4 · Howl and Find: how a pack keeps together (10 min)
 - **problem:** Wolves howl to find each other when they are apart, and their family howls back. In this activity you play this game in your flat. You see how a call and an answer can bring a family together.
@@ -404,20 +404,20 @@ Doddamma had brought her family to the river again.
 - **s3 (2 min)**  
   *Parent does:* Talk about why howling helps a pack.  
   *Parent says:* Wild wolves can hear a howl from several kilometres away. Why would that help a family who hunts over a large area?  
-  *Child mode:* Why would a wolf family need to call each other?
+  *Child mode:* Think of the game you just played. How did the howl help you find your family?
   - Ask: Why do wolves howl? (good: To find each other when they are apart.; To tell other wolves to stay away.)
   - Note: Wolf howls also tell other packs that this area is taken. Keep the howling short if neighbours are close.
 ### a5 · Street Dog Watch from the window (15 min)
 - **safety:** Watch from the window or balcony. Don't go close to dogs you don't know.
-- **record:** Give each dog a name and draw who stays near whom.
+- **record:** Give each dog a name and note who stays near whom. Draw lines between them, or just write it.
 - **s1 (10 min)**  
   *Parent does:* 1. Watch the dogs for 10 minutes. 2. Give each one a name by their colour or a mark. 3. Note which dogs lie close together and which walk together.  
-  *Parent says:* Anindita Bhadra and her team at IISER Kolkata study street dogs like these. Let's watch them the way a scientist would.  
+  *Parent says:* Anindita Bhadra and her team at IISER Kolkata study street dogs like these. Let's watch them the way a scientist would. We look for dogs who lie or walk together.  
   *Child mode:* Watch the dogs. Give each one a name. Who stays together?
 - **s2 (5 min)**  
-  *Parent does:* Draw a line between dogs who stayed close. Talk about what you saw.  
+  *Parent does:* Talk about which dogs stayed close. Draw a line between them if your child likes.  
   *Parent says:* Do these dogs look like a group? What did they do together?  
-  *Child mode:* Draw lines between dogs who stayed close. Are they a group?
+  *Child mode:* Tell your grown-up which dogs stayed close. Or draw a line between them. Are they a group?
   - Note: If you can't see any dogs, try crows or pigeons, or try again at a different time of day.
 
 ## Projects
@@ -425,9 +425,9 @@ Doddamma had brought her family to the river again.
 - **record:** The map, with roads drawn in, the morning and evening counts, and the nest entrance marked with a star.
 - **schedule:** day 1: Draw a map of the kitchen. Mark every ant road you can find. (20 min); day 2: Count the ants crossing one spot for 1 minute in the morning and in the evening. (10 min); day 3: Follow a road back to where the ants go in. Mark the nest entrance on the map. (15 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Draw a map of the kitchen from above. 2. Look for lines of ants along the walls, the platform and the floor. 3. Draw each road on the map with a wavy line.  
+  *Parent does:* 1. Draw a map of the kitchen from above, or list its parts in words. 2. Look for lines of ants along the walls, the platform and the floor. 3. Draw each road on the map with a wavy line, or write where it runs.  
   *Parent says:* Ant colonies have roads, like a city. Let's make a map of the ant roads in our kitchen.  
-  *Child mode:* Draw the kitchen from above. Find the ant lines. Draw each one on your map.
+  *Child mode:* Draw the kitchen from above. Find the ant lines. Draw each one on your map, or tell your grown-up where it runs.
   - Note: If you find no ants, leave a few grains of sugar near the window or a wall for an hour, then look again.
 - **s2 (10 min)**  
   *Parent does:* Pick one spot on a road. Count the ants crossing it in 1 minute, in the morning and again in the evening.  
@@ -436,14 +436,14 @@ Doddamma had brought her family to the river again.
   - Wait: Count once in the morning and once in the evening.
 - **s3 (15 min)**  
   *Parent does:* 1. Follow one road back, away from any food, to where the ants go into a crack or a hole. 2. Mark it on the map with a star. 3. Talk about what might be inside.  
-  *Parent says:* Somewhere behind that crack is the nest, with the queen and the young. We won't open it. Let's mark it on our map.  
+  *Parent says:* Somewhere behind that crack is the nest. We won't open it. Let's mark it on our map.  
   *Child mode:* Follow the ants back. Where do they go in? Mark it with a star. Don't poke it!
   - Check: Where is the queen of these ants, most likely? → **Deep inside the nest, laying eggs**
 
 ## Challenges
 ### c1 · A Living Bridge (30 min)
 - **problem:** Build a bridge across a 20 cm gap between two piles of books, using many small parts joined together. The bridge must hold a one-rupee coin in the middle.
-- **your turn:** Now design your own bridge from small parts. Draw it, build it and test it with one coin, then two. How many coins can it hold?
+- **your turn:** Now design your own bridge from small parts. Plan it, build it and test it with one coin, then two. How many coins can it hold?
 - **constraints:** Use only small parts: paper clips, strips of paper, or rubber bands.; No single part may be longer than 5 cm.; You may not use tape across the gap. Tape may hold only the ends on the books.
 - **general:** Hook paper clips into long chains and lay several chains side by side, like a rope bridge.; Fold paper strips into loops and link them like a paper chain.; Twist two chains together so they share the weight.
 - **creative:** Weaver ants hold leaves together with their bodies while their sisters glue them. Can you weave paper strips over and under your chains to make a deck?; Make the bridge sag in a curve, like a hammock, so each part pulls on its neighbours.; Build an arch from folded paper loops pushing against each other.
@@ -452,9 +452,9 @@ Doddamma had brought her family to the river again.
   *Parent says:* Army ants in the rainforests of Central and South America hook their legs together to make bridges with their own bodies. No ant is in charge of building the bridge. Can we build a bridge from small parts?  
   *Child mode:* Set the books 20 cm apart. Ants build bridges out of their bodies. Can you build one from small parts?
 - **s2 (5 min)**  
-  *Parent does:* Draw three ideas before building.  
-  *Parent says:* Let's draw three ideas first. Which one do you think will hold the coin, and why?  
-  *Child mode:* Draw three ideas. Which one will hold the coin? Why?
+  *Parent does:* Plan three ideas before building. Draw them, or lay out the parts for each idea on the table.  
+  *Parent says:* Let's plan three ideas first. Which one do you think will hold the coin, and why?  
+  *Child mode:* Plan three ideas. Draw them, or lay out the parts. Which one will hold the coin?
 - **s3 (15 min)**  
   *Parent does:* 1. Build the best idea. 2. Put a coin in the middle. 3. If it falls, find the weak spot and fix it. 4. Add a second coin.  
   *Parent says:* Test it. If it breaks, where did it break? How can the parts share the weight better?  
@@ -462,7 +462,7 @@ Doddamma had brought her family to the river again.
 - **s4 (5 min)**  
   *Parent does:* Talk about what worked.  
   *Parent says:* What made the strongest bridge? How is that like ants holding on to each other?  
-  *Child mode:* What made it strong? How is it like the ants?
+  *Child mode:* Look at your bridge. Show your grown-up the part that held the most weight.
   - Ask: Why can many small parts hold more than one part alone? (good: Because they share the weight.; Because each part holds on to its neighbours.)
 
 ## Worksheets

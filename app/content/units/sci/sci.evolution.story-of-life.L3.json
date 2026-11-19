@@ -469,7 +469,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about how RNA is copied. Each player has a chain, and races to build its partner chain by the pairing rule: A with U, and C with G.",
+   "context": "This is a card game about how RNA is copied. You will see how a chain can make its own partner chain, one letter at a time. Each player has a chain, and races to build its partner chain by the pairing rule: A with U, and C with G.",
    "printables": [
     {
      "kind": "cards",
@@ -545,7 +545,7 @@
      "mins": 2,
      "do": "Shuffle the letter cards. Give each player a chain card.",
      "say": "Each of you is a chain of RNA. You need to build your partner chain from the letters floating around.",
-     "kid": "Take a chain card. You are a chain of RNA. Build your partner chain."
+     "kid": "Take a chain card. Look at its letters. Which partner letters will you need?"
     },
     {
      "id": "s2",
@@ -566,7 +566,7 @@
    "setup": [
     {
      "art": "A chain card reading A U G C C A laid on a table, with a face-down pile of letter cards beside it.",
-     "caption": "1. Lay your chain card. Draw from the pile."
+     "caption": "1. Lay your chain card. Turn over cards from the pile."
     },
     {
      "art": "The chain card with partner cards U A C G G U placed under each letter.",
@@ -583,7 +583,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about the order of events in the story of life. Players place event cards in order on a line, and earn points for each card placed right.",
+   "context": "This is a card game about the order of events in the story of life. Players place event cards in order on a line, and earn points for each card placed right. You will see how late in the story animals and people arrive.",
    "printables": [
     {
      "kind": "cards",
@@ -662,7 +662,7 @@
      "mins": 2,
      "do": "Put 'The Earth forms' on the table with its date side up. Shuffle the other cards with the event side up and deal them out.",
      "say": "These cards are events in the story of life. We have to put them in order, oldest first.",
-     "kid": "These are events in the story of life. Put them in order, oldest first."
+     "kid": "Look at your cards. Which event do you think is the oldest?"
     },
     {
      "id": "s2",
@@ -676,8 +676,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Count the points.",
-     "say": "Let's check one thing from the line. Which came first: the first animals, oxygen filling the air, or dinosaurs dying out?",
-     "kid": "Count your points. Which came first: the first animals, oxygen in the air, or dinosaurs dying out?",
+     "say": "Count up everyone's points. Then we will check one thing about the line.",
+     "kid": "Count your points. Then answer the question below.",
      "check": {
       "t": "mcq",
       "q": "In the story of life, which of these came first?",
@@ -762,7 +762,7 @@
     {
      "day": 2,
      "mins": 5,
-     "what": "Look at all three nails. Write and draw what you see."
+     "what": "Look at all three nails. Write down what you see and take a photo."
     },
     {
      "day": 3,
@@ -770,7 +770,7 @@
      "what": "Look again, take the nails out, compare them and say what you found."
     }
    ],
-   "record": "Fill in the table each time you look. Draw each nail on day 3, colouring any rust orange.",
+   "record": "Fill in the table each time you look. On day 3, take a photo of each nail, or draw it and colour any rust orange.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -805,9 +805,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Show your child the three nails. 2. Ask them to guess which nail will rust most, and which least, and why.",
-     "say": "We'll put these iron nails in three jars of water. In one jar we'll keep oxygen away. Which nail do you think will rust most? Which will rust least? Why?",
-     "kid": "Look at the three nails. Which will rust most? Which will rust least? Why do you think so?",
+     "do": "1. Show your child the three nails. 2. Say what each will sit in: open tap water, boiled water under oil, or open salty water. 3. Ask them to guess which nail will rust most, and which least, and why.",
+     "say": "We'll put these three iron nails in three jars of water. In one jar we'll keep the air, with its oxygen, away from the nail. Make a guess first.",
+     "kid": "Which nail will rust most? Which will rust least? Why do you think so?",
      "parent": "Write the guess and the reason down before you start. Don't say what you expect. Any guess with a reason is good."
     },
     {
@@ -816,7 +816,7 @@
      "adult": true,
      "do": "1. Boil about one glass of water in a small vessel for 5 minutes. 2. Put the lid on and let it cool for about 10 minutes, until warm.",
      "say": "Boiling drives most of the air out of water. Air has oxygen in it. So boiled water has very little oxygen.",
-     "kid": "A grown-up boils some water. Boiling pushes the air out of it. So it has very little oxygen now.",
+     "kid": "Watch the grown-up boil the water. Look for tiny bubbles rising. That is air leaving the water.",
      "parent": "Keep the lid on while it cools, so less air gets back in. You can set up jars A and C while it cools."
     },
     {
@@ -848,9 +848,9 @@
      "id": "s6",
      "mins": 5,
      "wait": "Come back tomorrow",
-     "do": "1. Look at each nail on day 2. 2. Write and draw what you see. 3. Do not stir or move the jars.",
-     "say": "Which nail has changed most? Which has changed least?",
-     "kid": "Look at the nails again. Which one has the most orange? Which has none? Draw them.",
+     "do": "1. Look at each nail on day 2. 2. Write what you see, and take a photo of each nail. 3. Do not stir or move the jars.",
+     "say": "Just look, and don't touch the jars. What has changed since yesterday?",
+     "kid": "Look at the nails again. Which one has the most orange? Which has none? Take a photo, or draw them.",
      "check": {
       "t": "mcq",
       "q": "In jar B, the nail sat in boiled water under a layer of oil. Why did the oil matter?",
@@ -974,15 +974,15 @@
      "what": "Mash the foods, add salt and washing liquid, strain, add cold spirit, and look for white threads."
     }
    ],
-   "record": "Fill in the table. Draw what you saw in each glass.",
+   "record": "Fill in the table. Take a photo of each glass, or draw what you saw.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "adult": true,
      "do": "1. Put the spirit in the freezer 30 minutes before you start. 2. Show your child the banana, the peas and an empty glass. 3. Ask for a guess and a reason.",
-     "say": "Every cell holds a long chain molecule called DNA. It holds the instructions for that living thing. Do you think we can see it? Will the empty glass show anything? Why?",
-     "kid": "Every cell has instructions inside, in a chain called DNA. Can we see it? What will the empty glass show? Why?"
+     "say": "Every cell holds a long chain molecule called DNA. It holds the instructions for that living thing. We will try to pull DNA out of a banana and some peas.",
+     "kid": "Will we be able to see DNA? What will the glass with no food show? Why do you think so?"
     },
     {
      "id": "s2",
@@ -1059,7 +1059,7 @@
    "title": "The Chain of Mothers: who came before?",
    "mins": 8,
    "days": 1,
-   "context": "This short activity opens the unit. You draw a line of mothers, each one born from the one before, until you reach the biggest question in this unit.",
+   "context": "This short activity opens the unit. You lay out a line of mothers, each one born from the one before, until you reach the biggest question: where did the very first living thing come from?",
    "materials": [
     {
      "item": "a long strip of paper, or two sheets taped end to end",
@@ -1074,32 +1074,32 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Draw a line of mothers, each born from the one before, and ask who was first."
+     "what": "Make a line of mothers, each born from the one before, and ask who was first."
     }
    ],
-   "record": "Keep the drawing. You will add to it at the end of the unit.",
+   "record": "Keep the strip. You will add to it at the end of the unit.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. At the right end of the strip, ask your child to draw themself. 2. To the left, draw their mother (or a mother they picture), then her mother.",
-     "say": "Draw yourself at this end. Who did you come from? Draw her next to you. And who did she come from?",
-     "kid": "Draw yourself at the right end. Draw your mother next to you. Then her mother."
+     "do": "1. At the right end of the strip, ask your child to draw themself, or write their name. 2. To the left, add their mother (or a mother they picture), then her mother.",
+     "say": "Put yourself at this end. Who did you come from? Put her next to you. And who did she come from?",
+     "kid": "Draw or write yourself at the right end. Then add your mother next to you, and her mother."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Keep drawing to the left: her mother, and her mother's mother. When your child runs out of people to draw, use dotted lines for the very long ago.",
+     "do": "Keep going to the left: her mother, and her mother's mother. Your child can say each name, or point to a family photo. When they run out of people, make dots for the very long ago.",
      "say": "Every living thing is born from another living thing. If we draw one mother after another, who do we get to at the very end?",
-     "kid": "Draw her mother next, and then her mother's mother. When you run out of people, draw dots for the very long ago.",
-     "parent": "Children often draw cave people, then animals, then a fish. Let them. All are on the real path back. Don't correct the order now."
+     "kid": "Say who comes next, and put a name on the strip for each one. When you run out of people, make dots for the very long ago.",
+     "parent": "Children often name cave people, then animals, then a fish. Let them. All are on the real path back. Don't correct the order now."
     },
     {
      "id": "s3",
      "mins": 2,
-     "do": "At the far left end, draw a big question mark.",
+     "do": "At the far left end, write a big question mark.",
      "say": "Every living thing came from another living thing. So where did the very first one come from? That is what this unit is about.",
-     "kid": "Draw a big question mark at the far end. Who was first? Where did they come from?",
+     "kid": "Write a big question mark at the far end. It stands for the very first living thing.",
      "think": "If life only comes from life, how could the first life begin?",
      "parent": "There is no sure answer yet. Scientists have ideas, and this unit looks at the leading one. It is fine for your child to say 'nobody knows'."
     }
@@ -1107,11 +1107,11 @@
    "setup": [
     {
      "art": "A long paper strip with a child drawn at the right end and a mother and grandmother drawn to the left.",
-     "caption": "1. Draw yourself, your mother and her mother."
+     "caption": "1. Draw or write yourself, your mother and her mother."
     },
     {
      "art": "The same strip with dotted lines going far left and a big question mark at the end.",
-     "caption": "2. Draw more mothers to the left. Use dots for the very long ago. End with a big question mark."
+     "caption": "2. Add more people to the left. Use dots for the very long ago. End with a big question mark."
     }
    ]
   },
@@ -1120,7 +1120,7 @@
    "title": "The Time String: 4.5 billion years along a corridor",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make a timeline of the whole Earth to scale, using a string. One metre stands for one billion years. You see how long the Earth had only microbes.",
+   "context": "In this activity you make a timeline of the whole Earth to scale, using a string. One metre stands for one billion years. You find out how long the Earth had only microbes, and how late animals and people arrive.",
    "materials": [
     {
      "item": "a string, ribbon or old saree border at least 4.5 metres long, or newspaper strips taped together",
@@ -1142,7 +1142,7 @@
      "what": "Lay out the string and stick on labels for the big events in the story of life."
     }
    ],
-   "record": "Take a photo of the string, or draw it with the labels in order.",
+   "record": "Take a photo of the string with its labels, or write the labels in order on paper.",
    "flow": [
     {
      "id": "s1",
@@ -1156,7 +1156,7 @@
      "mins": 6,
      "do": "1. Measure from the Earth end. 2. Stick 'first oceans' at 10 cm and 'oldest stromatolites' at 1 metre. 3. Stick 'oxygen fills the air' at 2 metres 10 cm. 4. Stick 'Vempalle stromatolites in India' at 2 metres 50 cm.",
      "say": "The oldest signs of life come one metre along. For the whole first metre, we have found no sure sign of life.",
-     "kid": "Measure and stick on each label. Where is the first life? How far from the start?",
+     "kid": "Measure and stick on each label. How far from the start is the oldest life?",
      "parent": "Children are often surprised that oxygen only fills the air halfway along. We have no sure fossils from the first metre, partly because very few rocks that old survive."
     },
     {
@@ -1167,7 +1167,7 @@
      "kid": "Measure from the Today end. Animals come 60 cm from the end. Where are people?",
      "check": {
       "t": "mcq",
-      "q": "On the time string, one metre is one billion years. The string is 4.5 metres long. For how much of it was there only life too small to see, or no life at all?",
+      "q": "On the time string, one metre is one billion years. The string is 4.5 metres long. For how much of the string was there no life, or only tiny life?",
       "options": [
        "Just the first metre",
        "About 3.9 metres, until the first animals",
@@ -1176,7 +1176,7 @@
       "a": 1,
       "why": "Animals appear about 60 cm from the Today end. Before that, for about 3.9 metres, the Earth had no life at all and then only microbes and other tiny living things. Picking 'only the last 60 cm' mixes up when animals came with when there was only tiny life."
      },
-     "think": "For most of the Earth's story, the only life was too small to see. What were they doing all that time?",
+     "think": "For most of the Earth's story, the only life was too small to see. What were those tiny living things doing all that time?",
      "parent": "They were making their own food from sunlight, making oxygen, and building stromatolites, layer by layer, for billions of years. For most of the Earth's story, all life was tiny."
     }
    ],
@@ -1257,8 +1257,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Now write the partner of the partner chain on paper, letter by letter, under the partner chain. Compare it with the first chain.",
-     "say": "Now write a partner for the partner. What do you notice when you compare it with your first chain?",
-     "kid": "Write a partner for the partner chain. Look at your first chain. What do you see?",
+     "say": "Now write a partner for the partner. Then look at your first chain.",
+     "kid": "Write a partner for the partner chain. Is it the same as your first chain?",
      "parent": "The third chain matches the first exactly. That is how a chain can be copied: partner, then partner again. In cells, proteins help with this copying. In the RNA idea, the first RNA chains copied themselves with help only from chemicals around them, and maybe from other RNA."
     }
    ],
@@ -1279,7 +1279,7 @@
    "title": "Copy Mistakes: how one chain becomes many",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you copy a chain of letters again and again, each time from your last copy, with a timer running. You count how the chain slowly changes.",
+   "context": "In this activity you copy a chain of letters again and again, each time from your last copy, with a timer running. You count how the chain slowly changes, and find out how copying mistakes build up.",
    "materials": [
     {
      "item": "a paper and pencil",
@@ -1331,7 +1331,7 @@
       "a": 0,
       "why": "Each copy is made from the one before it. So a change, once made, is passed on to every later copy. This is how changes add up in living things over many generations. Picking 'mistakes disappear' is a common guess, but a mistake is fixed only if someone checks the copy against the first chain."
      },
-     "think": "Living cells copy their DNA with a checker that fixes most mistakes. Why might it be good to keep a few?",
+     "think": "Living cells copy their DNA with a checker that fixes most mistakes. Why might it be good to let a few mistakes through?",
      "parent": "Mistakes are how new kinds appear. A few mistakes can make a copy that lasts or copies better. If there were never any mistakes, life could never change. A checker stops too many mistakes, which would spoil the copies."
     }
    ],
@@ -1352,7 +1352,7 @@
    "title": "Find a Living Film (in the monsoon, or by a damp corner)",
    "mins": 10,
    "days": 1,
-   "context": "This activity is for when you can find a damp wall, an old flowerpot or a wet drain cover. The green or black film on them often holds cyanobacteria and algae, cousins of the microbes that built the oldest stromatolites and first made oxygen.",
+   "context": "This activity is for when you can find a damp wall, an old flowerpot or a wet drain cover. The green or black film on them often holds cyanobacteria and algae, cousins of the microbes that built the oldest stromatolites and first made oxygen. You will see a mat of tiny living things for yourself.",
    "materials": [
     {
      "item": "a damp wall, flowerpot or tank lid with a green or black film",
@@ -1393,9 +1393,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Draw or photograph it, and write where you found it.",
+     "do": "Take a photo of it, or draw it. Write where you found it.",
      "say": "Is it in the sun or the shade? Why might that matter to living things that make food from light?",
-     "kid": "Draw it. Was it in sun or shade? Write it down.",
+     "kid": "Take a photo or draw it. Was it in sun or shade? Write it down.",
      "parent": "Microbes that make food from sunlight need light, so a film in the sun is often greener and thicker than one in deep shade. Any answer that links light to food is a good one."
     }
    ],
@@ -1494,7 +1494,7 @@
      "qty": 4
     },
     {
-     "item": "pencils, crayons or paints",
+     "item": "pencils, crayons or paints, or old magazines, scissors and glue for sticking on pictures",
      "qty": 1
     },
     {
@@ -1512,7 +1512,7 @@
     {
      "day": 2,
      "mins": 25,
-     "what": "Draw and write each page, with one or two sentences in RNA's own voice."
+     "what": "Draw or stick a picture on each page, and write one or two sentences in RNA's own voice."
     },
     {
      "day": 3,
@@ -1534,9 +1534,9 @@
      "id": "s2",
      "mins": 25,
      "wait": "Come back tomorrow",
-     "do": "Draw and write each page.",
-     "say": "Draw each page and write RNA's words. Keep it true.",
-     "kid": "Draw each page. Write what RNA says. Is each sentence true?",
+     "do": "Draw or stick a picture on each page, and write RNA's words.",
+     "say": "Make each page now. Write what RNA says, and keep it true.",
+     "kid": "Draw each page, or stick on a picture cut from an old magazine. Write what RNA says. Is each sentence true?",
      "check": {
       "t": "mcq",
       "q": "On one page, RNA says 'I was the very first life, for certain.' Is that a good sentence for a true book?",
@@ -1615,9 +1615,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw three ideas for keeping water and air away from the nail.",
-     "say": "Engineers draw before they build. Draw three ways to keep the nail grey.",
-     "kid": "Draw three ideas. How can you keep water and air off the nail?"
+     "do": "Choose three coatings from the list, such as oil, wax or nail polish. Lay them out on the table.",
+     "say": "Engineers choose their ideas before they build. Which three things might keep the nail grey?",
+     "kid": "Choose three things from home. Tell why each one might keep water off the nail."
     },
     {
      "id": "s3",
@@ -1687,9 +1687,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw or list three ideas for copying with fewer mistakes.",
+     "do": "Say or list three ideas for copying with fewer mistakes.",
      "say": "How could you copy with fewer mistakes, and still be quick?",
-     "kid": "Think of three ways to make fewer mistakes. Write them down."
+     "kid": "Think of three ways to make fewer mistakes. Tell your helper, or write them down."
     },
     {
      "id": "s3",

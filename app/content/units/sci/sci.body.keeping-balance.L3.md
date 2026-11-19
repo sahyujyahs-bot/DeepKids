@@ -264,8 +264,8 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   *Child mode:* Put your counter on box 5. That is just right. Events will push you hot or cold. Use your body cards to come back to 5.
 - **s2 (3 min)**  
   *Parent does:* Play one practice round together. Find 'Played cricket at noon: +2' and move to 7.  
-  *Parent says:* We played cricket at noon, so we go up 2, to box 7. That is warm. What could your body do to come back to 5?  
-  *Child mode:* Practice card: played cricket at noon, plus 2. You are on 7 now. Which body card brings you back?
+  *Parent says:* We played cricket at noon, so we go up 2, to box 7. That is warm. Let's find a body card that brings us back to 5.  
+  *Child mode:* Practice card: played cricket at noon, plus 2. Move your counter to box 7.
   - Ask: Why does sweating bring you down? (good: When sweat dries, it takes heat away.; The fastest water molecules fly off and carry heat.)
   - Check: You are on 7, too warm. Which body card brings you back to 5? → **Sweat: -2**
 - **s3 (10 min)**  
@@ -276,7 +276,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - **s4 (2 min)**  
   *Parent does:* When someone reaches or passes box 1 or 9, stop the game and talk about it. Then move that counter to 3 or 7.  
   *Parent says:* You reached the edge! In real life, that is when the body cannot fix its warmth alone. What would a grown-up do to help?  
-  *Child mode:* You reached the edge. Your body needs help now. What can a grown-up do?
+  *Child mode:* You reached the edge. Your body needs help now.
   - Ask: What helps a person who is far too hot? (good: Shade, water and a wet cloth.; Call a doctor if they are confused or floppy.)
   - Ask: What helps a person who is far too cold? (good: A blanket, a warm room and a warm drink.)
 - **s5 (2 min)**  
@@ -310,7 +310,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - **predict:** Before you start, guess. Which tumbler will be cooler after 20 minutes: the one in the wet cloth or the one in the dry cloth? Or will they be the same? Why do you think so?
 - **fair test:** To make it fair, keep everything the same, except that one cloth is wet and one is dry. Use two tumblers that are the same. Pour the same amount of the same warm water in each. Use the same kind of cloth. Stand both on the same kind of plate, side by side, the same distance from the fan.
 - **safety:** A grown-up pours the warm water. It should feel comfortable to touch, like bath water, not hot. Keep fingers and the cloth away from the fan blades.
-- **record:** Fill in the table every 5 minutes. Then work out how many degrees each tumbler dropped. Draw one bar for each tumbler to show the drop.
+- **record:** Fill in the table every 5 minutes. Then work out how many degrees each tumbler dropped. Draw one bar for each tumbler to show the drop, or just say which one dropped more.
 - **results table:** Time (minutes) | Wet cloth tumbler (degrees) | Dry cloth tumbler (degrees)
 - **s1 (3 min)**  
   *Parent does:* 1. Show the two tumblers and the two cloths. 2. Ask your child to guess which will cool faster after 20 minutes.  
@@ -377,7 +377,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - **question:** Does water stay cooler in a clay matka than in a steel pot? And why?
 - **predict:** Guess before you start. After 3 hours, will the matka water be cooler, the same, or warmer than the steel pot water? Why do you think so?
 - **fair test:** To make it fair, use the same water for both, the same amount, and leave both in the same place, in the shade, side by side.
-- **record:** Fill in the table. Draw the matka with little arrows showing water creeping out and drying away.
+- **record:** Fill in the table. Draw the matka with little arrows showing water creeping out and drying away, or tell your grown-up where the water goes.
 - **results table:** Pot | Start temperature (degrees) | Temperature after 3 hours (degrees) | How the outside feels
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Soak the matka in water for an hour beforehand. 2. Fill both pots with the same water. 3. Measure the warmth of each and write it down. 4. Cover both with plates.  
@@ -404,7 +404,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 
 ## Activities
 ### a1 · Jump and Notice: what does my body do? (10 min)
-- **record:** Draw yourself before and after jumping. Label everything that changed.
+- **record:** Tell your grown-up everything that changed after jumping, or take a photo before and after and point to each change.
 - **s1 (3 min)**  
   *Parent does:* 1. Your child looks in a mirror and touches their face and hands. 2. Then they do star jumps for one minute while you time it.  
   *Parent says:* Look at your face in the mirror. Touch your cheeks. Now jump as fast as you can for one minute. I'll time you.  
@@ -418,8 +418,8 @@ People think that keeping cool means holding on to cold. It does not. I have nev
   - Note: Write down every 'I wonder'. The rest of the unit answers them. Do not explain yet.
 - **s3 (3 min)**  
   *Parent does:* Your child rests and sips water for 3 minutes. Then they look in the mirror one more time.  
-  *Parent says:* Now rest and sip water. Did anything go back to normal? Did you decide to sweat, or did your body do it by itself?  
-  *Child mode:* Rest and sip water. Look again. What went back to normal? Did you choose to sweat?
+  *Parent says:* Now rest and sip water. Did anything go back to normal?  
+  *Child mode:* Rest and sip water. Look again. What went back to normal?
   - Note: Expect answers such as my body, or my brain. A small part of the brain called the hypothalamus noticed the heat, and it told the skin to sweat and the blood vessels to open.
   - Check: After jumping, your face went red and sweaty. Who made that happen? → **My body did it by itself, to cool me down**
   - Think: If you didn't choose to sweat, who did?
@@ -448,16 +448,16 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 ### a3 · Thermostat Hunt (15 min)
 - **problem:** A thermostat is a part that notices a change and decides what to do about it. A fridge, an AC and your own body all use this idea. It is called a feedback loop. Something notices a change, something decides, and something acts. Then the loop checks again. In this activity you hunt for machines at home that keep something steady in this way.
 - **safety:** Do not touch the iron, geyser or stove. Only look, and ask a grown-up how they work.
-- **record:** Draw one machine's feedback loop: what notices, what decides, what acts.
+- **record:** Stick three notes on one machine: what notices, what decides, what acts. Or draw its loop. Then tell your grown-up the same three jobs in your own body when you sweat.
 - **s1 (8 min)**  
   *Parent does:* Walk around the house together. Look for the fridge, AC, geyser, iron, overhead tank float and pressure cooker.  
   *Parent says:* Your body keeps itself just right. Some machines at home do this too. Let's find them. For each one, what does it keep steady?  
   *Child mode:* Hunt around your home. Find machines that keep something just right. Stick a note on each. What does it keep steady?
   - Note: The fridge keeps its inside cold. The AC keeps the room's warmth steady, and the geyser keeps its water warm. The iron has a dial and a light that switches off when the iron is hot enough. The overhead tank's float valve shuts the water off when the tank is full. The pressure cooker whistle lets steam out when the pressure gets too high.
 - **s2 (7 min)**  
-  *Parent does:* Pick one machine, for example the fridge or the iron. Ask your child to draw its loop: what notices, what decides, what acts.  
-  *Parent says:* Let's draw the loop of the machine you picked. What notices that something is wrong? What decides? What acts? And how is your body the same?  
-  *Child mode:* Pick one machine. Draw its loop. What notices? What decides? What acts? Now draw your body's loop for sweating.
+  *Parent does:* Pick one machine, for example the fridge or the iron. Give your child three sticky notes: NOTICES, DECIDES, ACTS. They stick each note on the part of the machine that does that job.  
+  *Parent says:* Let's find the loop in the machine you picked. Which part notices that something is wrong? Which part decides? Which part acts? Your body does the same three jobs when you sweat.  
+  *Child mode:* Pick one machine. Stick the three notes on the part that notices, the part that decides and the part that acts.
   - Check: In your body's sweating loop, what is the 'decider', like the AC's control box? → **The hypothalamus, a small part of your brain**
 ### a4 · The Body Council (15 min)
 - **record:** Write down the best scene. Who noticed, who decided, who acted?
@@ -474,9 +474,9 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 ### a5 · Goosebump Watch (10 min)
 - **problem:** When you are cold, tiny muscles in your skin pull each hair upright. The little bumps this makes are called goosebumps. In this activity you cool a patch of your arm and watch for goosebumps. Then you find out why standing hairs help a furry animal much more than they help you.
 - **safety:** Use the fan on a gentle setting. Keep fingers away from the blades.
-- **record:** Draw your arm skin before and after, as you saw it through the magnifying glass.
+- **record:** Tell your grown-up how your arm skin looked before and after, or take a photo of each. Or draw it.
 - **s1 (5 min)**  
-  *Parent does:* 1. Look at the arm through the magnifying glass. 2. Wipe the arm with a damp cloth. 3. Hold it in front of the fan for 30 seconds. 4. Look again.  
+  *Parent does:* 1. Your child looks at the hairs on their arm through the magnifying glass. 2. Wipe the arm with a damp cloth. 3. Hold it in front of the fan for 30 seconds. 4. Look again.  
   *Parent says:* Look closely at the little hairs on your arm. Now let's make it cold. Look again. What has changed?  
   *Child mode:* Look at your arm hairs through the glass. Wipe your arm with a damp cloth. Hold it by the fan. Look again!
   - Ask: What do you see? (good: Little bumps.; The hairs are standing up.)
@@ -484,7 +484,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - **s2 (5 min)**  
   *Parent does:* Explain goosebumps, and compare with a cat fluffing their fur.  
   *Parent says:* Each hair has a tiny muscle. When you are cold, it pulls the hair upright. A cat or a monkey has thick fur. Their standing fur traps a blanket of warm air. Our hair is too thin for that. So goosebumps are a leftover from our furry relatives.  
-  *Child mode:* Each hair has a tiny muscle. Cold makes it pull the hair up. Furry animals trap warm air this way. Our hair is too thin. Goosebumps are a leftover!
+  *Child mode:* Each hair has a tiny muscle. Cold makes it pull the hair up. That is a goosebump.
   - Note: Expect this answer. Our body hair is thin, so standing hairs cannot trap a warm layer of air the way a cat's thick fur does.
   - Check: Why does a cat fluff up their fur on a cold morning? → **Standing fur traps a layer of warm air**
   - Think: A cat's fur stands up and traps warm air. Why doesn't a person's body hair do the same job?
@@ -506,14 +506,14 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - **s3 (20 min)**  
   *Parent does:* 1. Add up each day's cups. 2. Draw a bar for each day. 3. Ask your child to say what they think, what they saw, and why (claim, evidence and reasoning).  
   *Parent says:* Let's add up your cups and draw a bar for each day. Which day did you drink most? What was your pee colour that day? What was the weather?  
-  *Child mode:* Add up your cups for each day. Draw a bar for each day. Which day did you drink most? Why?
+  *Child mode:* Add up your cups for each day. Draw a bar for each day, or stack that many cups in a row. Which day did you drink most? Why?
   - Note: A good answer: What I think: my body asks for more water when I sweat. What I saw: on day 2 I played outside, I drank 8 cups, and I was thirsty three times. On day 1 I drank 5. Why: I lost water in sweat and my body wanted it back.
   - Check: In your water diary, on the day you played outside in the heat, you felt thirstier and drank more. Why? → **You lost more water in sweat, so your body asked for more**
 
 ## Challenges
 ### c1 · Cool the Shoebox Room, No Electricity (30 min)
 - **problem:** Two shoeboxes stand in the sun, on a sunny windowsill or balcony. One is your test room, and one stays plain. Make the inside of your test room as cool as you can. After 30 minutes, see how many degrees cooler it is than the plain box.
-- **your turn:** Now invent your own idea. Draw it, build it, and measure. Did it beat the others? Would it work on a humid monsoon day?
+- **your turn:** Now invent your own idea. Build it and measure. Did it beat the others? Would it work on a humid monsoon day?
 - **constraints:** No electricity, no ice and no fridge.; You may only use things from home.; Measure the inside of both boxes with a thermometer at the end.
 - **general:** Cover the box with white paper or foil, so it reflects sunlight.; Shade it with cardboard or cloth.; Hang a wet cloth over one window, so the air coming in is cooled by drying water.
 - **creative:** People in India have hung wet khus grass mats in doorways for hundreds of years. The breeze through the wet mat cools the room. Could you make a tiny one?; Put a damp clay saucer inside, like a tiny matka. Does it help?; Make your box sweat: spray its outside with water every 5 minutes, like skin sweating.
@@ -524,7 +524,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - **s2 (15 min)**  
   *Parent does:* Your child chooses and builds their cooling ideas on one box only.  
   *Parent says:* Think about how your body cools down. Which of those tricks could work for a box?  
-  *Child mode:* How does your body cool down? Shade, sweat, red skin? Use one idea on your box.
+  *Child mode:* Pick one trick from your body: shade, sweat or red skin. Use it on one box.
   - Ask: Which of your body's tricks are you copying? (good: Sweating, with the wet cloth.; Finding shade.; Reflecting the sun, like wearing white.)
 - **s3 (10 min)**  
   *Parent does:* After your child finishes building, leave both boxes in the sun for about 5 more minutes. Then read both thermometers. If you have one thermometer, read the plain box first, then move it into the test box. Leave it inside each box for 2 minutes before you read it. Compare.  
@@ -538,9 +538,9 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - **general:** For cold: thick layers that trap still air, like fur or a shawl.; For heat: shiny or white outside to reflect sunlight, and loose cloth.; Gloves and boots, because fingers and toes lose heat first.
 - **creative:** Real astronauts wear a cooling suit under their spacesuit. It has thin tubes with cool water flowing through them, carrying body heat away. Could your suit have tubes made of straws?; Penguins huddle together in winter, and take turns at the cold outside of the group. Could a team of explorers do the same?; A camel's thick hair on their back keeps the desert sun off. Could your hot-planet suit copy that?
 - **s1 (10 min)**  
-  *Parent does:* Your child picks a cold world or a hot world and draws a suit, labelling each part.  
+  *Parent does:* Your child picks a cold world or a hot world and plans a suit, naming each part. They can draw it, or say the parts out loud.  
   *Parent says:* Your explorer is about 37 degrees inside, just like you. How will your suit keep them just right out there?  
-  *Child mode:* Choose a cold world or a hot world. Draw a suit. Label each part.
+  *Child mode:* Choose a cold world or a hot world. Plan a suit and name each part. Draw it, or just say the parts out loud.
 - **s2 (15 min)**  
   *Parent does:* Build a small version on a doll, using the scraps.  
   *Parent says:* Let's make a small suit for this doll. Which parts are the most important?  
@@ -548,7 +548,7 @@ People think that keeping cool means holding on to cold. It does not. I have nev
 - **s3 (5 min)**  
   *Parent does:* Your child explains the suit and which body trick each part copies.  
   *Parent says:* Tell me about each part of your suit. Which body trick does it copy?  
-  *Child mode:* Explain each part of your suit. Which body trick is it copying?
+  *Child mode:* Show each part of your suit and say what it does.
   - Check: In the suit design challenge, an explorer on a hot planet is sweating inside a closed suit. Why might they still overheat? → **The sweat cannot dry inside the closed suit, so it does not cool them**
 
 ## Worksheets

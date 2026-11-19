@@ -648,15 +648,15 @@
      "mins": 3,
      "do": "1. Cut out the 24 food cards. 2. Give each player a My Body sheet and a pencil. 3. Shuffle the cards and lay 5 face up as the market.",
      "say": "Your body is made of trillions of cells. Each one needs different things from food. In this game, you are the blood. You carry food to six hungry cells.",
-     "kid": "You are the blood. Your job is to feed six hungry cells. Each cell needs something different. Lay out 5 food cards as the market.",
+     "kid": "Lay out 5 food cards face up in a row. This row is the market, where you pick your food.",
      "context": "This is the first step of Cell Delivery, a card game about how different foods feed different cells in the body. Here you set up the game."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Play one practice turn together. Point at the Muscle cell on the sheet and ask which market card would help that cell.",
-     "say": "The Muscle cell needs 2 protein. Which card in the market would feed this cell best?",
-     "kid": "Look at the Muscle cell. This cell needs 2 protein. Which card gives protein?",
+     "say": "This is a practice turn. Look at the Muscle cell on the sheet. Let's find the card that fits it.",
+     "kid": "Look at the Muscle cell on your sheet. Point to the market card you would take.",
      "check": {
       "t": "mcq",
       "q": "The Muscle cell needs 2 protein. Which card feeds this cell in one go?",
@@ -691,8 +691,8 @@
      "id": "s4",
      "mins": 3,
      "do": "When someone takes the jalebi or the chips, pause and ask the question below.",
-     "say": "Jalebi gives 2 energy, which is a lot. Why is it not enough to win on its own?",
-     "kid": "Someone took the jalebi! It gives 2 energy. Why can't jalebi feed every cell?",
+     "say": "Jalebi gives 2 energy, which is a lot. Let's see what it does for the other cells.",
+     "kid": "Someone took the jalebi. Look at your sheet. Which cells does the jalebi not help?",
      "ask": [
       {
        "q": "Why can't one food feed every cell?",
@@ -862,8 +862,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play the card 'Rice, potato curry, papad' together as practice.",
-     "say": "Rice, potato curry and papad. Rice and potato are both mostly energy. What is missing most?",
-     "kid": "Rice, potato curry, papad. Which colour is missing most? Hold up your token.",
+     "say": "Let's practise with this meal. Rice and potato are both mostly energy. Think about what the meal is missing.",
+     "kid": "Hold up the token for the kind of food you think is missing.",
      "check": {
       "t": "mcq",
       "q": "Rice, potato curry and papad. Which kind of food is missing most?",
@@ -888,8 +888,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Count the points and find the winner. Then ask the question below.",
-     "say": "Most meals were missing the same colour. Which one? Why do you think that is?",
-     "kid": "Count your points. Which colour was missing most often?",
+     "say": "Look back at the cards you turned over. Most meals were missing the same kind of food.",
+     "kid": "Count your points. Look at the cards you turned over.",
      "ask": [
       {
        "q": "Which colour was missing most often, and why?",
@@ -1500,14 +1500,14 @@
      "what": "Guess, rub each food on its own square, wait 15 minutes, then hold each square up to the light and record the spots. Then say what you think, what you saw and why it matters."
     }
    ],
-   "record": "Fill in the table. Then draw a bar for each food, as tall as its spot: 0 for none, 1 for small, 2 for medium, 3 for big.",
+   "record": "Fill in the table. Then show each food as a bar, as tall as its spot: 0 for none, 1 for small, 2 for medium, 3 for big. Draw the bars, or stack that many coins.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Write one food name on each paper square in pencil. 2. Show your child the foods. 3. Ask them to guess which will leave a fat spot, and write the guess.",
+     "do": "1. Write one food name on each paper square in pencil. 2. Show your child the foods. 3. Ask them to guess which foods will leave a fat spot. Your child puts the foods they pick in one pile.",
      "say": "Fat leaves a see-through spot on paper, like a little window. Which of these foods do you think carry fat?",
-     "kid": "Fat makes paper see-through, like a little window. Which foods carry fat? Write your guesses.",
+     "kid": "Pick the foods you think will leave a see-through spot. Put them in one pile.",
      "ask": [
       {
        "q": "Why did you guess that one?",
@@ -1720,7 +1720,7 @@
      "what": "Make the blue test liquid, squeeze the juices, then count drops of each juice until the blue disappears."
     }
    ],
-   "record": "Fill in the table. Draw a bar for each juice, as tall as the number of drops. The shortest bar has the most vitamin C.",
+   "record": "Fill in the table. Then show each juice as a bar, as tall as the number of drops. Draw the bars, or line up one button for each drop. The shortest bar has the most vitamin C.",
    "flow": [
     {
      "id": "s1",
@@ -1753,8 +1753,8 @@
      "id": "s3",
      "mins": 15,
      "do": "1. Add amla juice to the first bowl, one drop at a time. 2. Swirl after every drop and count. 3. Stop when the blue has gone, and write the number. 4. Rinse the dropper. 5. Do the same for each juice, and for water.",
-     "say": "Add one drop, swirl the bowl and look. Do the same again, counting each drop. Stop the moment the blue is gone.",
-     "kid": "Add one drop. Swirl. Look. Count each drop. Stop when the blue is gone.",
+     "say": "Add one drop of amla juice to the first bowl and swirl it. Keep adding drops, one at a time. Stop the moment the blue is gone.",
+     "kid": "Count the drops out loud. Stop when the blue is gone. Then say the number.",
      "parent": "Amla usually clears the blue in just a few drops. Guava is usually next. Lemon and mosambi need many more drops, often about the same number. Packet drinks often need many drops. If vitamin C has been added to the drink, it will need fewer, and that is a real result too. Read the packet to check. Water never clears the blue. Stop any juice at 40 drops and write '40 or more'. Orange-coloured juices tint the liquid, so look for the blue going, not for the liquid turning clear. Amla also has other substances, called tannins, that clear the blue too. So the test measures vitamin C together with some similar substances, not vitamin C alone.",
      "chart": {
       "type": "bar",
@@ -1929,7 +1929,7 @@
      "what": "Set up three bottles of yeast with sugar, atta or nothing. Measure the balloons every 15 minutes for 45 minutes. Then talk about what you saw."
     }
    ],
-   "record": "Fill in the table. Then draw a bar for each bottle, as tall as the distance round its balloon after 45 minutes.",
+   "record": "Fill in the table. Then show each bottle as a bar, as tall as the distance round its balloon after 45 minutes. Draw the bars, or lay the three strings side by side.",
    "flow": [
     {
      "id": "s1",
@@ -2098,9 +2098,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Count the dots of each colour. 2. Ask: what do you notice, and what do you wonder? 3. Write one sentence for each.",
-     "say": "Count each colour. What do you notice? Is there a colour with lots of dots, or one with very few? What do you wonder about that?",
-     "kid": "Count each colour. What do you notice? What do you wonder? Say one thing you notice and one thing you wonder.",
+     "do": "1. Count the dots of each colour. 2. Ask the two questions below. 3. Write one sentence for each answer.",
+     "say": "Count each colour. Is there a colour with lots of dots, or one with very few?",
+     "kid": "Count the dots of each colour. Which colour has the most dots?",
      "ask": [
       {
        "q": "What do you notice about your colours?",
@@ -2123,7 +2123,7 @@
      "think": "Your body is made of trillions of cells. Do you think they all need the same thing from food?"
     }
    ],
-   "context": "This is a short noticing activity to start the unit. You list what you ate yesterday and give each food a colour for the job it does. Then you look for a pattern, without judging.",
+   "context": "This is a short noticing activity to start the unit. You list what you ate yesterday and give each food a colour for the job it does. Then you look for a pattern, without judging. You will find out which kinds of food filled most of your day.",
    "setup": [
     {
      "art": "A child at a table writing a list on paper, thinking hard, with a picture bubble of yesterday's breakfast, lunch and dinner.",
@@ -2181,7 +2181,7 @@
      "mins": 4,
      "do": "Show your child the plate. Explain the three parts with your finger: half the plate, a quarter and a quarter.",
      "say": "Scientists at India's National Institute of Nutrition suggest a plate that is about half vegetables and fruits. One quarter is grains or millets. One quarter is dal, curd, egg, paneer, fish or meat. We drink water with it.",
-     "kid": "Half your plate is vegetables and fruit. A quarter is rice or chapati. A quarter is dal, curd, egg or paneer. Add water.",
+     "kid": "The plate has three parts: one big half and two small quarters. Listen to what goes in each part.",
      "check": {
       "t": "mcq",
       "q": "On a balanced plate, which part is the biggest?",
@@ -2238,7 +2238,7 @@
      "parent": "A good answer sounds like this. What I think: our lunch was balanced. What I saw: bhindi and salad for green, rice for yellow, dal and curd for red, and water. Why: energy foods give fuel, grow foods build my body, and glow foods help everything work. Balance over the whole day matters more than any one plate."
     }
    ],
-   "context": "This is the main hands-on activity of the unit. You plan and serve your own balanced plate, using the food your family has cooked today.",
+   "context": "This is the main hands-on activity of the unit. You plan and serve your own balanced plate, using the food your family has cooked today. You will find out how much of each kind of food fits on one plate.",
    "setup": [
     {
      "art": "A round steel thali with two pencil lines drawn on a paper template beside it, splitting it into one half and two quarters.",
@@ -2286,7 +2286,7 @@
      "what": "Use paper-clip chains to act out how food is cut into building blocks, passes into the blood and is rebuilt in your cells."
     }
    ],
-   "record": "Draw the journey in four pictures: the chain, the cutting, the slot, the cells.",
+   "record": "Tell the journey in four steps, using the clips: the chain, the cutting, the slot, the cells. Or draw it in four pictures.",
    "flow": [
     {
      "id": "s1",
@@ -2346,9 +2346,9 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask your child to draw the journey in four pictures.",
-     "say": "Draw the four steps: the chain, the cutting, the slot and the cells.",
-     "kid": "Draw four pictures: the chain, the cutting, the slot and the cells."
+     "do": "Ask your child to show the journey again with the clips and card, and tell it to you in four steps.",
+     "say": "Tell me the journey in four steps: the chain, the cutting, the slot and the cells.",
+     "kid": "Show the journey with your clips, and say each step out loud: the chain, the cutting, the slot and the cells."
     }
    ],
    "context": "This is a model activity. Paper-clip chains stand for food. You cut them into single building blocks, pass them through the gut wall and build them into new things, as your body does with food.",
@@ -2456,7 +2456,7 @@
      "parent": "Bright packets and adverts are made to catch your eye, so that you buy the drink. A company earns money every time someone buys a packet."
     }
    ],
-   "context": "This is a label-reading activity. You find how much sugar is in some drinks and snacks, then spoon that much sugar onto saucers so you can see it.",
+   "context": "This is a label-reading activity. You find how much sugar is in some drinks and snacks, then spoon that much sugar onto saucers so you can see it. You will find out how many spoons of sugar hide in one drink.",
    "setup": [
     {
      "art": "A child holding a juice box and pointing to the Nutrition Information table on the side, with a finger on the word 'Sugars'.",
@@ -2494,7 +2494,7 @@
      "what": "Ask an elder what they ate as a child, and compare their plate with yours."
     }
    ],
-   "record": "A drawing of the elder's childhood plate next to your own, with three differences written underneath.",
+   "record": "Two lists, the elder's childhood plate next to your own, or a drawing of the two plates, with three differences written underneath.",
    "flow": [
     {
      "id": "s1",
@@ -2508,9 +2508,9 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Draw two plates side by side: the elder's childhood plate and your plate from yesterday.",
-     "say": "Let's draw both plates. What is the same? What is different?",
-     "kid": "Draw their plate and your plate side by side. What is the same? What is different?",
+     "do": "Write two lists side by side: the elder's childhood plate and your plate from yesterday. Your child can draw the plates instead.",
+     "say": "Let's put both plates side by side. Find the foods that are on both lists.",
+     "kid": "Make two lists: their plate and your plate. Circle the foods that are on both.",
      "ask": [
       {
        "q": "What is the biggest difference between the two plates?",
@@ -2531,7 +2531,7 @@
      "think": "Is there a food from their childhood that is hard to find today? Why do you think that is?"
     }
    ],
-   "context": "This is an interview activity. You ask a grandparent or another elder what they ate when they were your age, and compare it with your plate today.",
+   "context": "This is an interview activity. You ask a grandparent or another elder what they ate when they were your age, and compare it with your plate today. You will find out how food has changed in your family.",
    "setup": [
     {
      "art": "A girl sitting beside an older woman on the front step, notebook open, listening.",
@@ -2539,7 +2539,7 @@
     },
     {
      "art": "A notebook page with two drawn plates side by side: one with bajra roti, greens and buttermilk, one with rice, dal and a packet snack.",
-     "caption": "2. Draw their plate and your plate side by side."
+     "caption": "2. Write their plate and your plate side by side."
     },
     {
      "art": "A girl pointing at the two plates and talking to an older woman, who is laughing.",
@@ -2574,7 +2574,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "First draw five faces in a row on a paper, from a very hungry face (1) to a very full face (5). Before a meal, show your child the scale and ask them to point to how hungry they feel right now.",
+     "do": "First draw five faces in a row on a paper, from a very hungry face (1) to a very full face (5). Before a meal, show your child the scale and ask them to point to how hungry they feel right now. Your child can also hold up 1 to 5 fingers instead of drawing faces.",
      "say": "Your body tells you when it needs food, and when it has had enough. Point to how hungry you feel now. 1 is very hungry, 5 is very full.",
      "kid": "Before you eat, point to how hungry you feel. 1 is very hungry. 5 is very full.",
      "context": "This is the first step of Hungry or Full? You notice the signals your body sends about hunger and fullness, before and after a meal."
@@ -2591,8 +2591,8 @@
      "id": "s3",
      "mins": 3,
      "do": "After the meal, ask your child to point again, and say what they noticed.",
-     "say": "How full do you feel now? How did your body tell you?",
-     "kid": "Point to how full you feel now. How did your body tell you?",
+     "say": "How full do you feel now? Is that more than at the start?",
+     "kid": "Point to how full you feel now. Is it different from before?",
      "ask": [
       {
        "q": "How does your body tell you it is full?",
@@ -2606,7 +2606,7 @@
      "think": "Who in your home eats first, and who eats last? Does everyone get to stop when they are full, and eat when they are hungry?"
     }
    ],
-   "context": "This is a short activity about listening to your own body. Before and after a meal, you mark how hungry or full you feel on a scale of 1 to 5.",
+   "context": "This is a short activity about listening to your own body. You will find out how your body tells you it is hungry and full. Before and after a meal, you mark how hungry or full you feel on a scale of 1 to 5.",
    "setup": [
     {
      "art": "A paper strip with five faces, from a hollow empty tummy at 1 to a round, very full tummy at 5.",
@@ -2677,7 +2677,7 @@
     }
    ],
    "record": "The week's plant list, the total, and a pictograph where one leaf stands for 2 new plants.",
-   "context": "In this seven-day project, you count how many different kinds of plants you eat in a week. A large study in 2018 found that people who ate 30 or more kinds of plant a week had more kinds of gut microbes. You end by drawing a pictograph.",
+   "context": "In this seven-day project, you count how many different kinds of plants you eat in a week. A large study in 2018 found that people who ate 30 or more kinds of plant a week had more kinds of gut microbes. You will find out whether you can reach 30 different plants. You end by making a pictograph, a picture chart.",
    "flow": [
     {
      "id": "s1",
@@ -2691,7 +2691,7 @@
     {
      "id": "s2",
      "mins": 25,
-     "do": "Each day for days 2 to 6, add only the plants not already on the list. Write the number of new plants for each day.",
+     "do": "Each day for days 2 to 7, add only the plants not already on the list. Write the number of new plants for each day.",
      "say": "A plant counts only once in the week. Is there anything new on your plate today?",
      "kid": "Each day, add the new plants only. Write how many new ones you found.",
      "wait": "Do this for 5 more days, after dinner.",
@@ -2700,9 +2700,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. On day 7, count the total. 2. Draw a pictograph. One leaf stands for 2 new plants. Half a leaf stands for 1. 3. Look for the day with the most new plants.",
+     "do": "1. After day 7, count the total. 2. Draw a pictograph. One leaf stands for 2 new plants. Half a leaf stands for 1. 3. Look for the day with the most new plants.",
      "say": "Let's turn the numbers into a pictograph. One leaf means two new plants. Which day had the most?",
-     "kid": "Count your total. Draw one leaf for every 2 new plants. Draw half a leaf for 1.",
+     "kid": "Count your total. Draw one leaf for every 2 new plants, and half a leaf for 1. Or line up one button for every 2 new plants.",
      "check": {
       "t": "mcq",
       "q": "On Monday you ate 9 new plants. One leaf stands for 2 plants. How many leaves do you draw?",
@@ -2762,7 +2762,7 @@
     "Ragi or bajra roti with a dry poriyal, using old grains that many families used to eat.",
     "Last night's dal kneaded into the dough as dal paratha, so leftovers turn into tomorrow's tiffin."
    ],
-   "your_turn": "Draw your five tiffins, one for each school day, and colour each part yellow, red or green. Make at least one with your own hands this week. Check how it looked at lunchtime.",
+   "your_turn": "Write your five tiffins, one for each school day, and mark each food go, grow or glow. You can also lay out one tiffin on a plate. Make at least one with your own hands this week. Check how it looked at lunchtime.",
    "context": "This is a design challenge. You plan a week of school tiffins that are balanced, keep well without a fridge and can be made quickly in the morning.",
    "flow": [
     {
@@ -2776,9 +2776,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Help your child plan five tiffins on paper. Check each one has all three colours and passes the 'no fridge' test.",
+     "do": "Help your child plan five tiffins on paper. Check each one has go, grow and glow foods and passes the 'no fridge' test.",
      "say": "For each tiffin, check three things. Does it have go, grow and glow? Will it keep until lunch? Can we make it in 15 minutes?",
-     "kid": "Plan five tiffins. Does each have all three colours? Will it keep until lunch?",
+     "kid": "Plan five tiffins. Does each have go, grow and glow? Will it keep until lunch?",
      "parent": "Curd and cut fruit can spoil or go brown in heat. Dry chutneys, whole fruit, chapatis, rolls and roasted chana travel well. Squeeze lemon on cut apple to slow browning.",
      "check": {
       "t": "mcq",
@@ -2858,7 +2858,7 @@
      "mins": 12,
      "do": "Plan the menu for two days, meal by meal. Check each day has go, grow and glow foods, and water.",
      "say": "Does each day have all three colours? Where will the glow foods come from on day two, when cut fruit has spoiled?",
-     "kid": "Plan each meal for two days. Check every day has all three colours.",
+     "kid": "Plan each meal for two days. Check every day has go, grow and glow foods.",
      "check": {
       "t": "mcq",
       "q": "Which is the best grow food for a trek with no fridge?",

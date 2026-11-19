@@ -274,11 +274,11 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 24 food cards. 2. Give each player a My Body sheet and a pencil. 3. Shuffle the cards and lay 5 face up as the market.  
   *Parent says:* Your body is made of trillions of cells. Each one needs different things from food. In this game, you are the blood. You carry food to six hungry cells.  
-  *Child mode:* You are the blood. Your job is to feed six hungry cells. Each cell needs something different. Lay out 5 food cards as the market.
+  *Child mode:* Lay out 5 food cards face up in a row. This row is the market, where you pick your food.
 - **s2 (3 min)**  
   *Parent does:* Play one practice turn together. Point at the Muscle cell on the sheet and ask which market card would help that cell.  
-  *Parent says:* The Muscle cell needs 2 protein. Which card in the market would feed this cell best?  
-  *Child mode:* Look at the Muscle cell. This cell needs 2 protein. Which card gives protein?
+  *Parent says:* This is a practice turn. Look at the Muscle cell on the sheet. Let's find the card that fits it.  
+  *Child mode:* Look at the Muscle cell on your sheet. Point to the market card you would take.
   - Check: The Muscle cell needs 2 protein. Which card feeds this cell in one go? → **Moong dal**
 - **s3 (14 min)**  
   *Parent does:* 1. Take turns. 2. On each turn, take one market card, read it out and tick the boxes it fills. Or use the turn to drink water. 3. Refill the market. 4. Each player has 8 turns.  
@@ -288,8 +288,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Note: Good players notice that one-thing cards, like rice, jalebi or ghee, fill only one cell. Mixed cards, like ragi mudde, dal, egg or til laddoo, fill several. The Eye cell is tricky, because this cell needs both vitamin A and fat. Egg gives both at once. Carrot and a spoon of ghee also work, just as carrots cooked in oil give more vitamin A. Don't call jalebi or chips a bad card. They are fine cards that give energy, just not much else.
 - **s4 (3 min)**  
   *Parent does:* When someone takes the jalebi or the chips, pause and ask the question below.  
-  *Parent says:* Jalebi gives 2 energy, which is a lot. Why is it not enough to win on its own?  
-  *Child mode:* Someone took the jalebi! It gives 2 energy. Why can't jalebi feed every cell?
+  *Parent says:* Jalebi gives 2 energy, which is a lot. Let's see what it does for the other cells.  
+  *Child mode:* Someone took the jalebi. Look at your sheet. Which cells does the jalebi not help?
   - Ask: Why can't one food feed every cell? (good: Each cell needs something different.; Jalebi gives energy but no protein, calcium or vitamins.; You need many kinds of food.)
 - **s5 (2 min)**  
   *Parent does:* 1. Count each player's fed cells and find the winner. 2. Look at the winner's cards together.  
@@ -309,8 +309,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Child mode:* Each card is a real meal. Find the colour that is missing. Then find a food to fill the gap.
 - **s2 (3 min)**  
   *Parent does:* Play the card 'Rice, potato curry, papad' together as practice.  
-  *Parent says:* Rice, potato curry and papad. Rice and potato are both mostly energy. What is missing most?  
-  *Child mode:* Rice, potato curry, papad. Which colour is missing most? Hold up your token.
+  *Parent says:* Let's practise with this meal. Rice and potato are both mostly energy. Think about what the meal is missing.  
+  *Child mode:* Hold up the token for the kind of food you think is missing.
   - Check: Rice, potato curry and papad. Which kind of food is missing most? → **Grow foods (protein) and glow foods (vegetables)**
 - **s3 (8 min)**  
   *Parent does:* 1. Take turns turning over a card and reading the meal. 2. Everyone holds up a token. 3. Turn the card over and score points. 4. Each player names a food from the kitchen to fill the gap.  
@@ -319,8 +319,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Note: The answers are on the back of each card. Turn the card over only after everyone has held up a token. Most meals here miss green, so expect many green answers. Every card is a real meal that people eat, so do not call any of them bad.
 - **s4 (2 min)**  
   *Parent does:* Count the points and find the winner. Then ask the question below.  
-  *Parent says:* Most meals were missing the same colour. Which one? Why do you think that is?  
-  *Child mode:* Count your points. Which colour was missing most often?
+  *Parent says:* Look back at the cards you turned over. Most meals were missing the same kind of food.  
+  *Child mode:* Count your points. Look at the cards you turned over.
   - Ask: Which colour was missing most often, and why? (good: Green, because vegetables take time to cook.; Green, because people fill up on rice and chapati.; Vegetables can cost more.)
   - Think: Is it easy for every family to add vegetables to every meal? What makes it hard?
 
@@ -331,12 +331,12 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **predict:** Before you start, guess. Which foods will leave a see-through spot on the paper? Which will leave nothing? Write your guess next to each food, and say why you think so.
 - **fair test:** To make it fair, change only the food. Use the same paper, cut into squares of the same size. Use a piece of each food about the size of your thumbnail. Rub each one the same number of times, 10 rubs. Oil and water are tested too, so you can see what a fat spot and a water spot look like.
 - **safety:** Skip the peanut if anyone in your family has a nut allergy. Wash your hands afterwards, and do not eat the pieces rubbed on paper.
-- **record:** Fill in the table. Then draw a bar for each food, as tall as its spot: 0 for none, 1 for small, 2 for medium, 3 for big.
+- **record:** Fill in the table. Then show each food as a bar, as tall as its spot: 0 for none, 1 for small, 2 for medium, 3 for big. Draw the bars, or stack that many coins.
 - **results table:** Food | My guess: fat or no fat? | Spot after 15 minutes: none, small, medium or big
 - **s1 (4 min)**  
-  *Parent does:* 1. Write one food name on each paper square in pencil. 2. Show your child the foods. 3. Ask them to guess which will leave a fat spot, and write the guess.  
+  *Parent does:* 1. Write one food name on each paper square in pencil. 2. Show your child the foods. 3. Ask them to guess which foods will leave a fat spot. Your child puts the foods they pick in one pile.  
   *Parent says:* Fat leaves a see-through spot on paper, like a little window. Which of these foods do you think carry fat?  
-  *Child mode:* Fat makes paper see-through, like a little window. Which foods carry fat? Write your guesses.
+  *Child mode:* Pick the foods you think will leave a see-through spot. Put them in one pile.
   - Ask: Why did you guess that one? (good: Peanuts feel oily.; Chips are fried in oil.; Apple is juicy, not oily.)
 - **s2 (6 min)**  
   *Parent does:* 1. Rub each food on its own square, 10 firm rubs. 2. Squash the peanut and coconut with the back of a spoon first. 3. Put 2 drops of oil on the oil square and 2 drops of water on the water square.  
@@ -360,7 +360,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **predict:** Before you start, guess. Put the juices in order, from the most vitamin C to the least. Write your order down, and say why you think so.
 - **fair test:** To make it fair, change only the juice. Each bowl gets the same amount of blue liquid, 2 tablespoons. Use the same dropper or straw for every juice, rinsed in between. Swirl the same way after each drop, and stop at the same point: when the blue has gone. Water is tested too, to show that just adding liquid does not clear the blue.
 - **safety:** A grown-up handles the iodine. It stains skin and clothes, and it must never be swallowed. Nobody drinks anything from the test bowls. Pour them down the sink afterwards and wash the bowls.
-- **record:** Fill in the table. Draw a bar for each juice, as tall as the number of drops. The shortest bar has the most vitamin C.
+- **record:** Fill in the table. Then show each juice as a bar, as tall as the number of drops. Draw the bars, or line up one button for each drop. The shortest bar has the most vitamin C.
 - **results table:** Juice | My guess (1 = most vitamin C) | Drops needed to clear the blue
 - **s1 (5 min)**  
   *Parent does:* 1. Show the fruits and the packet drink. 2. Ask your child to guess the order, from most vitamin C to least. 3. Write it down.  
@@ -374,8 +374,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Note: The starch in rice water turns iodine blue-black. If the liquid is almost black, add more water until you can see through it a little. If it stays brown, add a little more rice water. A very dark start makes every juice need many more drops.
 - **s3 (15 min)**  
   *Parent does:* 1. Add amla juice to the first bowl, one drop at a time. 2. Swirl after every drop and count. 3. Stop when the blue has gone, and write the number. 4. Rinse the dropper. 5. Do the same for each juice, and for water.  
-  *Parent says:* Add one drop, swirl the bowl and look. Do the same again, counting each drop. Stop the moment the blue is gone.  
-  *Child mode:* Add one drop. Swirl. Look. Count each drop. Stop when the blue is gone.
+  *Parent says:* Add one drop of amla juice to the first bowl and swirl it. Keep adding drops, one at a time. Stop the moment the blue is gone.  
+  *Child mode:* Count the drops out loud. Stop when the blue is gone. Then say the number.
   - Note: Amla usually clears the blue in just a few drops. Guava is usually next. Lemon and mosambi need many more drops, often about the same number. Packet drinks often need many drops. If vitamin C has been added to the drink, it will need fewer, and that is a real result too. Read the packet to check. Water never clears the blue. Stop any juice at 40 drops and write '40 or more'. Orange-coloured juices tint the liquid, so look for the blue going, not for the liquid turning clear. Amla also has other substances, called tannins, that clear the blue too. So the test measures vitamin C together with some similar substances, not vitamin C alone.
   - Check: Amla cleared the blue in 3 drops. Lemon needed 18 drops. Which has more vitamin C? → **Amla**
 - **s4 (4 min)**  
@@ -393,7 +393,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **question:** Does yeast, a tiny living fungus, make more gas when fed sugar, atta or nothing at all?
 - **predict:** Before you start, guess. Which balloon will grow biggest: the sugar bottle, the atta bottle or the plain water bottle? Will any stay flat? Why do you think so?
 - **fair test:** To make it fair, change only the food. Every bottle gets the same amount of yeast (2 teaspoons) and the same amount of warm water (150 millilitres). All the bottles sit in the same place for the same time. The plain water bottle has no food, so you can see what happens without any.
-- **record:** Fill in the table. Then draw a bar for each bottle, as tall as the distance round its balloon after 45 minutes.
+- **record:** Fill in the table. Then show each bottle as a bar, as tall as the distance round its balloon after 45 minutes. Draw the bars, or lay the three strings side by side.
 - **results table:** Bottle | Distance round the balloon after 15 minutes (cm) | After 30 minutes (cm) | After 45 minutes (cm)
 - **s1 (4 min)**  
   *Parent does:* 1. Show your child the yeast. 2. Explain that each grain holds a great many tiny living fungi, resting until they get water, warmth and food. 3. Ask them to guess which food the yeast will like best.  
@@ -432,9 +432,9 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Note: Tricky ones: milk is red and blue. Potato is yellow. Poha with peanuts and peas is yellow, red and green. Sugar in tea is yellow. Ghee and oil can be yellow, since fat gives energy.
   - Check: Which colour dot does a bowl of dal get? → **Red (body-building)**
 - **s3 (5 min)**  
-  *Parent does:* 1. Count the dots of each colour. 2. Ask: what do you notice, and what do you wonder? 3. Write one sentence for each.  
-  *Parent says:* Count each colour. What do you notice? Is there a colour with lots of dots, or one with very few? What do you wonder about that?  
-  *Child mode:* Count each colour. What do you notice? What do you wonder? Say one thing you notice and one thing you wonder.
+  *Parent does:* 1. Count the dots of each colour. 2. Ask the two questions below. 3. Write one sentence for each answer.  
+  *Parent says:* Count each colour. Is there a colour with lots of dots, or one with very few?  
+  *Child mode:* Count the dots of each colour. Which colour has the most dots?
   - Ask: What do you notice about your colours? (good: I had lots of yellow.; I had only one green.; I didn't drink much water.)
   - Ask: What do you wonder? (good: Why do I need green foods?; Is it bad to have lots of yellow?; What happens to the food after I eat it?)
   - Note: Most children find lots of yellow and few greens. That is common and nothing to worry about. Keep their wonder questions. The rest of the unit answers them. As for the cells, they do not all need the same things. Muscle cells need protein, bone cells need calcium and brain cells need glucose.
@@ -449,7 +449,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **s2 (4 min)**  
   *Parent does:* Show your child the plate. Explain the three parts with your finger: half the plate, a quarter and a quarter.  
   *Parent says:* Scientists at India's National Institute of Nutrition suggest a plate that is about half vegetables and fruits. One quarter is grains or millets. One quarter is dal, curd, egg, paneer, fish or meat. We drink water with it.  
-  *Child mode:* Half your plate is vegetables and fruit. A quarter is rice or chapati. A quarter is dal, curd, egg or paneer. Add water.
+  *Child mode:* The plate has three parts: one big half and two small quarters. Listen to what goes in each part.
   - Check: On a balanced plate, which part is the biggest? → **Vegetables and fruit**
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Your child serves the cool foods into the right parts. 2. You serve the hot foods where your child points. 3. Put dal and curd in katoris if that is easier.  
@@ -471,7 +471,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 ### a3 · The Paper-Clip Journey: from chapati to cell (20 min)
 - **problem:** Food must be cut into very small pieces before your body can use it. In this activity, paper clips stand for those pieces. A chain of clips is a big piece of food. A card with a slot stands for the wall of your gut. You find out what has to happen to a chain before it can get through the slot.
 - **safety:** A grown-up cuts the slot in the card with scissors.
-- **record:** Draw the journey in four pictures: the chain, the cutting, the slot, the cells.
+- **record:** Tell the journey in four steps, using the clips: the chain, the cutting, the slot, the cells. Or draw it in four pictures.
 - **s1 (4 min)**  
   *Parent does:* 1. Make one long chain of 10 clips of the same colour. This is starch from chapati. 2. Make a chain of 12 clips in mixed colours. This is protein from dal.  
   *Parent says:* Starch is a long chain of glucose, all the same kind of piece. Protein is a chain of amino acids of many kinds. Here they are as paper clips.  
@@ -495,9 +495,9 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Check: The protein from dal is cut up and rebuilt in your muscle. Whose protein is it now? → **Yours**
   - Think: Your muscle is built from dal, and the dal plant was built from air, water, soil and sunlight. So where does the dal end and you begin?
 - **s5 (2 min)**  
-  *Parent does:* Ask your child to draw the journey in four pictures.  
-  *Parent says:* Draw the four steps: the chain, the cutting, the slot and the cells.  
-  *Child mode:* Draw four pictures: the chain, the cutting, the slot and the cells.
+  *Parent does:* Ask your child to show the journey again with the clips and card, and tell it to you in four steps.  
+  *Parent says:* Tell me the journey in four steps: the chain, the cutting, the slot and the cells.  
+  *Child mode:* Show the journey with your clips, and say each step out loud: the chain, the cutting, the slot and the cells.
 ### a4 · How Many Spoons? Reading a packet label (20 min)
 - **record:** A table with each packet, its grams of sugar, and its teaspoons, plus a photo or drawing of the saucers.
 - **s1 (5 min) · grown-up needed**  
@@ -523,16 +523,16 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Note: Bright packets and adverts are made to catch your eye, so that you buy the drink. A company earns money every time someone buys a packet.
   - Think: Why do you think sugary drinks have such bright packets and adverts?
 ### a5 · An Elder's Plate: an interview (20 min)
-- **record:** A drawing of the elder's childhood plate next to your own, with three differences written underneath.
+- **record:** Two lists, the elder's childhood plate next to your own, or a drawing of the two plates, with three differences written underneath.
 - **s1 (10 min)**  
   *Parent does:* Help your child ask these questions and write down the answers. What did you eat for breakfast when you were my age? What grains did you eat? Which vegetables and leaves? Where did your food come from? Did you have sweets, and when? Who cooked, and who ate first?  
   *Parent says:* Let's be food historians. We'll ask a grandparent, an older relative or an older neighbour what they ate when they were your age. Real scientists collect old knowledge like this.  
   *Child mode:* Ask your grandparent what they ate when they were your age. Write down their answers.
   - Note: Many elders will mention millets like ragi, bajra or jowar, wild or seasonal leaves, and fewer packet foods. Some will mention hunger or hard times. Listen with respect. The question 'who ate first?' often shows that women and girls ate last and least. That is worth talking about gently.
 - **s2 (6 min)**  
-  *Parent does:* Draw two plates side by side: the elder's childhood plate and your plate from yesterday.  
-  *Parent says:* Let's draw both plates. What is the same? What is different?  
-  *Child mode:* Draw their plate and your plate side by side. What is the same? What is different?
+  *Parent does:* Write two lists side by side: the elder's childhood plate and your plate from yesterday. Your child can draw the plates instead.  
+  *Parent says:* Let's put both plates side by side. Find the foods that are on both lists.  
+  *Child mode:* Make two lists: their plate and your plate. Circle the foods that are on both.
   - Ask: What is the biggest difference between the two plates? (good: Theirs had millets, and mine has rice.; Theirs had fewer packet foods.; Theirs had more leaves.)
 - **s3 (4 min)**  
   *Parent does:* Talk about what you have both learned. Ask your elder which of their old foods they miss.  
@@ -542,7 +542,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 ### a6 · Hungry or Full? Listening to your body (10 min)
 - **record:** Your two numbers, before and after the meal, and one sentence on what you noticed.
 - **s1 (3 min)**  
-  *Parent does:* First draw five faces in a row on a paper, from a very hungry face (1) to a very full face (5). Before a meal, show your child the scale and ask them to point to how hungry they feel right now.  
+  *Parent does:* First draw five faces in a row on a paper, from a very hungry face (1) to a very full face (5). Before a meal, show your child the scale and ask them to point to how hungry they feel right now. Your child can also hold up 1 to 5 fingers instead of drawing faces.  
   *Parent says:* Your body tells you when it needs food, and when it has had enough. Point to how hungry you feel now. 1 is very hungry, 5 is very full.  
   *Child mode:* Before you eat, point to how hungry you feel. 1 is very hungry. 5 is very full.
 - **s2 (4 min)**  
@@ -552,8 +552,8 @@ When the first leaves came, small and round and green, I picked a handful. I was
   - Note: Never use this to make a child eat less or more. Children's hunger changes a lot from day to day, especially when they are growing. The aim is just to notice.
 - **s3 (3 min)**  
   *Parent does:* After the meal, ask your child to point again, and say what they noticed.  
-  *Parent says:* How full do you feel now? How did your body tell you?  
-  *Child mode:* Point to how full you feel now. How did your body tell you?
+  *Parent says:* How full do you feel now? Is that more than at the start?  
+  *Child mode:* Point to how full you feel now. Is it different from before?
   - Ask: How does your body tell you it is full? (good: My tummy feels stretched.; Food stops tasting so nice.; I feel slower.)
   - Think: Who in your home eats first, and who eats last? Does everyone get to stop when they are full, and eat when they are hungry?
 
@@ -567,15 +567,15 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Child mode:* Every kind of plant feeds different gut microbes. Write every plant you ate today. Spices count too.
   - Note: Count only foods your family normally eats. This is counting, not a challenge to eat strange things.
 - **s2 (25 min)**  
-  *Parent does:* Each day for days 2 to 6, add only the plants not already on the list. Write the number of new plants for each day.  
+  *Parent does:* Each day for days 2 to 7, add only the plants not already on the list. Write the number of new plants for each day.  
   *Parent says:* A plant counts only once in the week. Is there anything new on your plate today?  
   *Child mode:* Each day, add the new plants only. Write how many new ones you found.
   - Note: Most families reach 20 to 35 without trying, thanks to Indian spices and dals. Count each dal separately: moong, masoor and toor are different plants. Tea and coffee count. This is not a contest between families. Cheap foods count as much as costly ones. A pinch of ajwain is a plant.
   - Wait: Do this for 5 more days, after dinner.
 - **s3 (20 min)**  
-  *Parent does:* 1. On day 7, count the total. 2. Draw a pictograph. One leaf stands for 2 new plants. Half a leaf stands for 1. 3. Look for the day with the most new plants.  
+  *Parent does:* 1. After day 7, count the total. 2. Draw a pictograph. One leaf stands for 2 new plants. Half a leaf stands for 1. 3. Look for the day with the most new plants.  
   *Parent says:* Let's turn the numbers into a pictograph. One leaf means two new plants. Which day had the most?  
-  *Child mode:* Count your total. Draw one leaf for every 2 new plants. Draw half a leaf for 1.
+  *Child mode:* Count your total. Draw one leaf for every 2 new plants, and half a leaf for 1. Or line up one button for every 2 new plants.
   - Note: With only a few kinds of plant, only some kinds of gut microbe get fed, and the others go hungry. People who eat many kinds of plant tend to have more kinds of gut microbe.
   - Check: On Monday you ate 9 new plants. One leaf stands for 2 plants. How many leaves do you draw? → **4 and a half leaves**
   - Think: Did you reach 30? Different kinds of plant feed different gut microbes. What do you think happens to your gut microbes in a week with only a few kinds of plant?
@@ -583,7 +583,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 ## Challenges
 ### c1 · The Tiffin Week Challenge (30 min)
 - **problem:** Plan five school tiffins for one week. Each one must be balanced, with go, grow and glow foods. It must stay good until lunch without a fridge, and not get soggy. You must be able to help make it in 15 minutes in the morning.
-- **your turn:** Draw your five tiffins, one for each school day, and colour each part yellow, red or green. Make at least one with your own hands this week. Check how it looked at lunchtime.
+- **your turn:** Write your five tiffins, one for each school day, and mark each food go, grow or glow. You can also lay out one tiffin on a plate. Make at least one with your own hands this week. Check how it looked at lunchtime.
 - **constraints:** The tiffin has no fridge between morning and lunch, in Indian summer heat.; Your family's usual budget, with no special shopping.; Made in 15 minutes, with you helping.; Something you will happily eat. There is no point in a tiffin that comes home full.
 - **general:** Idli or dosa with a dry chutney powder and a fruit.; Chapati rolled with paneer or egg bhurji and vegetables.; Poha or upma with peanuts and peas, and a banana.; Vegetable pulao with a small box of roasted chana.
 - **creative:** Sprouted moong chaat with tomato and lemon, which stays fresh and has all three colours.; Ragi or bajra roti with a dry poriyal, using old grains that many families used to eat.; Last night's dal kneaded into the dough as dal paratha, so leftovers turn into tomorrow's tiffin.
@@ -592,9 +592,9 @@ When the first leaves came, small and round and green, I picked a handful. I was
   *Parent says:* Let's be tiffin engineers. What do we usually have at home that could go into a tiffin?  
   *Child mode:* Look in the kitchen. List the go, grow and glow foods you could use.
 - **s2 (12 min)**  
-  *Parent does:* Help your child plan five tiffins on paper. Check each one has all three colours and passes the 'no fridge' test.  
+  *Parent does:* Help your child plan five tiffins on paper. Check each one has go, grow and glow foods and passes the 'no fridge' test.  
   *Parent says:* For each tiffin, check three things. Does it have go, grow and glow? Will it keep until lunch? Can we make it in 15 minutes?  
-  *Child mode:* Plan five tiffins. Does each have all three colours? Will it keep until lunch?
+  *Child mode:* Plan five tiffins. Does each have go, grow and glow? Will it keep until lunch?
   - Note: Curd and cut fruit can spoil or go brown in heat. Dry chutneys, whole fruit, chapatis, rolls and roasted chana travel well. Squeeze lemon on cut apple to slow browning.
   - Check: Which tiffin is balanced and keeps well without a fridge? → **Chapati roll with paneer and vegetables, and a whole guava**
 - **s3 (10 min) · grown-up needed**  
@@ -615,7 +615,7 @@ When the first leaves came, small and round and green, I picked a handful. I was
 - **s2 (12 min)**  
   *Parent does:* Plan the menu for two days, meal by meal. Check each day has go, grow and glow foods, and water.  
   *Parent says:* Does each day have all three colours? Where will the glow foods come from on day two, when cut fruit has spoiled?  
-  *Child mode:* Plan each meal for two days. Check every day has all three colours.
+  *Child mode:* Plan each meal for two days. Check every day has go, grow and glow foods.
   - Check: Which is the best grow food for a trek with no fridge? → **Roasted chana**
 - **s3 (5 min)**  
   *Parent does:* If you have a scale, weigh one day's food for one person.  

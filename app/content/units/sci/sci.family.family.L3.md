@@ -208,11 +208,11 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   *Parent says:* Before you turn it over, tell us why you chose that carer.  
   *Child mode:* Pick a carer card. Say why. Then turn it over.
   - Note: Many children put every animal under 'Mother'. The penguin, seahorse, babbler and koel cards show that this is not always so.
-  - Check: Who carries a seahorse's eggs until they hatch? → **The father**
+  - Check: Who looks after the seahorse eggs until the babies hatch? → **The father**
 - **s3 (5 min)**  
-  *Parent does:* Talk about the surprises.  
-  *Parent says:* Which card surprised you most? Under which card would you put our family?  
-  *Child mode:* Which card surprised you? Where does our family go?
+  *Parent does:* Talk about the cards that surprised you. Then ask where your own family would go.  
+  *Parent says:* Which card surprised you most? Why?  
+  *Child mode:* Pick the card that surprised you most.
   - Ask: Where would you put our family, and why? (good: Both parents, because my mother and father both look after me.; A group, because my grandparents or neighbours also look after me.)
 
 ## Experiments
@@ -221,18 +221,18 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - **question:** How many minutes of home work does our home need in one evening, and who does it?
 - **predict:** Before you start, guess. Who will do the most minutes of home work this evening? How many minutes will all the jobs add up to? Why do you think so?
 - **fair test:** Count every person in the same way: the job, the start time and the end time, all from the same clock. Count everyone, including yourself, any house help or cook, and anyone looking after a baby or an elder. Ask everyone to have a normal evening, so the count shows a usual day. Count from 5 o'clock until bedtime.
-- **record:** Fill in the table. Then draw a pictograph with one clock for every 15 minutes of work, one row for each person.
+- **record:** Fill in the table. Then make a pictograph with one clock (drawn, or a bean or button) for every 15 minutes of work, one row for each person.
 - **results table:** Job | Who did it | Start time | End time | Minutes | Paid or unpaid?
 - **s1 (5 min)**  
   *Parent does:* 1. Sit together before 5 o'clock. 2. Ask your child to name the home jobs that happen in an evening. 3. Write their guesses in the notebook.  
-  *Parent says:* Tonight we will count every home job and time it. First, guess. Who will do the most minutes of work? How many minutes will it be in all? Why do you think so?  
-  *Child mode:* Tonight you count every home job. Guess first. Who will work the most? How many minutes in all? Why?
+  *Parent says:* Tonight we will count every home job and time it. First, guess. Who will do the most minutes of work? How many minutes will it be in all?  
+  *Child mode:* Guess who will work most tonight, and how many minutes in all.
   - Ask: Why do you think that person will do the most? (good: Because a grandparent does the cooking, and cooking takes long.; Because Amma comes home and starts the dinner and the washing.)
   - Note: Write down the guess with the reason. This is your child's prediction. A wrong guess is useful too, because it shows what the count taught them.
 - **s2 (3 min)**  
-  *Parent does:* 1. Draw the results table in the notebook. 2. Tell the family about the count. 3. Ask everyone to have a normal evening.  
+  *Parent does:* 1. Rule a table in the notebook with six columns: Job, Who did it, Start time, End time, Minutes, Paid or unpaid. 2. Tell the family about the count. 3. Ask everyone to have a normal evening.  
   *Parent says:* Please do everything as you always do. I am only counting, not checking anyone.  
-  *Child mode:* Draw the table. Ask everyone to do what they always do.
+  *Child mode:* Make the table. Ask everyone to do what they always do.
   - Note: This count is not about blaming anyone. Nobody should be told off for doing few minutes. If people change what they do because they are being watched, the count will not show a usual evening. Remember to count jobs such as feeding a baby, helping with homework and giving medicine. These are care work.
 - **s3 (20 min)**  
   *Parent does:* 1. From 5 o'clock, each time someone starts a home job, your child writes the job, the person and the start time. 2. When the job ends, they write the end time. 3. Write whether the person is paid for it.  
@@ -246,14 +246,14 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   *Child mode:* Add up each person's minutes. Who did the most?
   - Note: Help with the adding if the numbers are big. In most Indian homes, one or two people, very often women, do most of the work. Your result may be different. Whatever you found is a real result.
 - **s5 (5 min)**  
-  *Parent does:* 1. Draw a pictograph. 2. Draw one clock for every 15 minutes, in one row for each person. 3. Draw part of a clock for a part of 15 minutes.  
+  *Parent does:* 1. Make a pictograph. 2. Put down one clock for every 15 minutes, in one row for each person. Draw the clocks, or lay out one bean or button for each 15 minutes. 3. For a part of 15 minutes, draw part of a clock or use half a bean.  
   *Parent says:* Let's draw the minutes as clocks. One clock is 15 minutes. How many clocks does each person get?  
-  *Child mode:* Draw one clock for every 15 minutes. One row for each person.
+  *Child mode:* Show each person's minutes in a row. One clock, bean or button is 15 minutes.
   - Note: If one person's total is 140 minutes, that is 9 clocks and a bit more, because 9 times 15 is 135.
 - **s6 (5 min)**  
   *Parent does:* Ask your child what the count showed, which numbers show it, and why they think it turned out that way. Compare this with the guess from the start.  
   *Parent says:* Was your guess right? What did the count show? Who was paid, and who was not? Why do you think it is like that?  
-  *Child mode:* Was your guess right? Who did most? Who was paid?
+  *Child mode:* Compare your guess with your numbers. Tell your grown-up what is different.
   - Ask: What did the count show you that you did not know before? (good: A grandparent did much more work than I thought.; The jobs added up to more than three hours.; The house help is paid, but Amma is not, for the same kind of work.)
   - Think: Which job on your list did you not know about before the count?
 ### e2 · Many Hands: do two people fold clothes twice as fast? (25 min)
@@ -261,12 +261,12 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - **question:** If two people fold a pile of clothes together, do they finish in half the time?
 - **predict:** Guess how long it will take you to fold 20 clothes alone. Then guess how long it will take with two people, and with three. Why do you think so?
 - **fair test:** Use the same 20 clothes each time, and shake them out flat before each try. Fold them the same way each time. Time each try with the same clock. Fold alone at the start and again at the end, because practice can make you faster.
-- **record:** Fill in the table, and draw a bar for each try.
+- **record:** Fill in the table. Then draw a bar for each try, or just tell your grown-up which try was fastest.
 - **results table:** Try | How many people | Time in minutes and seconds
 - **s1 (3 min)**  
   *Parent does:* 1. Put 20 dry clothes in a heap on a mat or a bed. 2. Agree on one way to fold each kind. 3. Ask for guesses.  
   *Parent says:* How long will 20 clothes take you alone? With two people? With three? Why do you think so?  
-  *Child mode:* How long will 20 clothes take you alone? With two? Why?
+  *Child mode:* Guess the time for each try, and say why.
   - Note: Write down the guesses. Most children guess that two people take exactly half the time. If only two of you are at home, skip the three-person try.
 - **s2 (6 min)**  
   *Parent does:* 1. Start the stopwatch. 2. Your child folds all 20 alone. 3. Stop it and write the time.  
@@ -281,12 +281,12 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - **s4 (4 min)**  
   *Parent does:* Shake out the clothes again. Your child folds all 20 alone a second time. Time it.  
   *Parent says:* One more alone. Were you faster this time? Why might that be?  
-  *Child mode:* Fold alone once more. Were you faster?
+  *Child mode:* Fold alone once more. Write the time.
   - Note: If the second try alone is much faster, practice helped. Compare the helper tries with the average of the two alone tries.
 - **s5 (4 min)**  
   *Parent does:* Look at the results together. Ask your child what the times showed, which numbers show it, and why they think it turned out that way.  
   *Parent says:* Did two people take exactly half the time? If you tried three, did they take a third? Why not?  
-  *Child mode:* Did two of you take half the time? Why or why not?
+  *Child mode:* Look at your times in the table. Compare them.
   - Ask: Why might two people not take exactly half the time? (good: Because we bumped into each other.; Because one of us was faster than the other.; Because we had to decide who folds what.)
   - Think: Is the work of a home done faster when it is shared? Is it done more fairly?
 
@@ -295,7 +295,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - **problem:** In English, the word uncle is used for four different relatives. Many Indian languages have a separate word for each one. You will write the words in your home language and in English, and compare them.
 - **record:** A table with three columns: how the person is related to me, our word, the English word.
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw a table with three columns: 'How they are related to me', 'Our word', 'English word'. 2. Fill in Amma's brother, Amma's sister, Appa's brother and Appa's sister.  
+  *Parent does:* 1. Rule a table with three columns: 'How they are related to me', 'Our word', 'English word'. 2. Fill in Amma's brother, Amma's sister, Appa's brother and Appa's sister.  
   *Parent says:* What do we call Amma's brother? And Appa's younger brother? Let's write our words, then the English words.  
   *Child mode:* Write what you call Amma's brother. Then Appa's brother. Then the English words.
   - Note: In Tamil, for example: Amma's brother is Mama, Appa's younger brother is Chithappa, Appa's elder brother is Periyappa, Appa's sister is Athai. In Hindi: Mama, Chacha, Tau, Bua. In Bengali: Mama, Kaka, Jethu, Pishi. Use your own family's words.
@@ -307,16 +307,16 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - **s3 (5 min)**  
   *Parent does:* Count the people English calls uncle. Then count the words your language has for the same people.  
   *Parent says:* How many different people did English call uncle? How many words did our language use?  
-  *Child mode:* Count. How many people are 'uncle' in English? How many words do we have?
+  *Child mode:* Count the people called 'uncle' in English. Then count our words for them.
   - Note: Many Indian languages have separate words because, in a family, it matters whether a person is on the mother's side or the father's side, and whether they are older or younger. English groups them under one word.
   - Check: In Tamil, Mama is your mother's brother and Chithappa is your father's younger brother. What does English call both of them? → **Uncle**
   - Think: Why might a language have so many words for relatives?
 ### a2 · Our Family Tree: three generations (20 min)
 - **record:** The family tree, with each person's name and their relation word.
 - **s1 (8 min)**  
-  *Parent does:* 1. At the top, draw both pairs of grandparents. 2. Below, draw the parents and their brothers and sisters. 3. At the bottom, draw your child, their brothers and sisters, and their cousins.  
-  *Parent says:* Who is at the top of our tree? Who are your grandparents? Let's draw them in a row.  
-  *Child mode:* Draw your grandparents at the top. Then your parents. Then you.
+  *Parent does:* 1. At the top, put both pairs of grandparents. 2. Below, put the parents and their brothers and sisters. 3. At the bottom, put your child, their brothers and sisters, and their cousins. For each person, draw a small face, or write the name on a slip of paper and lay it down.  
+  *Parent says:* Who is at the top of our tree? Who are your grandparents? Let's put them in a row.  
+  *Child mode:* Put your grandparents at the top. Then your parents. Then you.
   - Note: Join people with lines: a line across for a married couple and a line down to their children. If your family has a different shape, such as one parent, adoption or step-parents, draw it the way it really is. Every shape is a real family tree.
 - **s2 (6 min)**  
   *Parent does:* 1. Write each person's name and the word your child calls them. 2. Colour your mother's side one colour and your father's side another.  
@@ -325,7 +325,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - **s3 (6 min)**  
   *Parent does:* Count the people in each generation. Then ask how many great-grandparents your child has.  
   *Parent says:* You have two parents and four grandparents. Each grandparent had two parents. How many great-grandparents is that?  
-  *Child mode:* Two parents. Four grandparents. How many great-grandparents?
+  *Child mode:* Count the people in each row of your tree.
   - Note: The number doubles each time: 2, 4, 8, 16, 32, 64, 128, 256, 512 and 1,024. So 10 generations ago you had 1,024 ancestors.
   - Check: Each person has 2 parents and 4 grandparents. How many great-grandparents does each person have? → **8**
   - Think: If the number doubles each generation, how many ancestors did you have 10 generations ago?
@@ -343,11 +343,11 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - **s3 (4 min)**  
   *Parent does:* Ask each person to say one job their hands do for the family. Write it inside the hand.  
   *Parent says:* What do your hands do for our family? Tell me, and I will write it in.  
-  *Child mode:* Ask each person. What do your hands do for the family?
+  *Child mode:* Ask each person for one job their hands do. Write it inside the hand.
   - Note: Usually not. A small hand can do a lot of work. What matters is what each person does for the family, not how big their hand is.
   - Think: Does the biggest hand do the most work?
 ### a4 · Games Our Grandparents Played (25 min)
-- **record:** Write the name of the game, who taught you, and the rules in three sentences.
+- **record:** Write the name of the game, who taught you, and the rules in three sentences. Or say them into a phone voice recorder.
 - **s1 (5 min)**  
   *Parent does:* Your child asks a grandparent, an older relative or a neighbour: What games did you play when you were my age? Where? With whom?  
   *Parent says:* Ask your elder what games they played when they were eight. Ask who they played with and where.  
@@ -378,7 +378,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - **s1 (12 min) · grown-up needed**  
   *Parent does:* Your child asks three or four women or girls from different generations: Up to which class did you study? Who decided? What work did you do at home as a child?  
   *Parent says:* Ask the oldest woman in your family first, then your mother, then a girl cousin. Write down each answer.  
-  *Child mode:* Ask three women in your family. How far did you study? Who decided?
+  *Child mode:* Ask three women in your family: How far did you study? Who decided?
   - Note: Phone calls to aunts and grandmothers far away work well. Some answers may be painful. Let the elder say as much or as little as they want.
 - **s2 (8 min)**  
   *Parent does:* Put the answers in a table, oldest first. Ask what changed from one generation to the next.  
@@ -403,7 +403,7 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
   *Child mode:* Turn the wheel. Read your job. Tick it tonight.
   - Wait: Do this on days 2 to 6
 - **s3 (20 min)**  
-  *Parent does:* On day 7, do the Home Work Count again for one evening. Draw a new pictograph and put it next to the first.  
+  *Parent does:* On day 7, do the Home Work Count again for one evening. Make a new pictograph the same way as before and put it next to the first. If you laid it out with beans, take a photo of each.  
   *Parent says:* Let's count again. Did the rows of clocks change?  
   *Child mode:* Count again. Compare the two pictographs. What changed?
   - Note: Look at the rows of clocks in the two pictographs. If the rows are closer in length the second time, the work was shared more evenly.
@@ -418,9 +418,9 @@ That evening Ajji had an hour with nothing to do. She sat with Kavya at the tabl
 - **general:** Make a list of jobs: washing, cutting, cooking, setting plates, serving, washing up.; Give each job to someone who can do it safely.; Put the jobs in order, so nobody waits too long.
 - **creative:** Give the youngest child a job that matters, such as tearing curry leaves or counting out the plates.; Choose a meal where most of the work is mixing, not cooking, such as curd rice with cucumber, poha or bhel.; Make a picture menu so a child who cannot read yet knows their job.
 - **s1 (10 min)**  
-  *Parent does:* Choose a simple meal. List every job it needs.  
-  *Parent says:* What will we make? What jobs does it need, from washing the rice to washing the plates?  
-  *Child mode:* Pick a meal. List every job, from start to end.
+  *Parent does:* Choose a simple meal. Write a list of every job it needs, from washing the rice to washing the plates.  
+  *Parent says:* What will we make? Let's think of every job, from the first to the last.  
+  *Child mode:* Pick a meal. Say every job it needs, in order.
 - **s2 (10 min)**  
   *Parent does:* Give each job to a person. Check that every job is safe for that person.  
   *Parent says:* Who can do each job safely? Does everyone have one?  

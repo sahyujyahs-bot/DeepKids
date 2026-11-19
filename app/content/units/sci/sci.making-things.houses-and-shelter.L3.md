@@ -202,17 +202,17 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **Printable score sheet: Builder's sheet:** My place:; Roof:; Walls:; Something extra:; Why my house suits my place:
 - **s1 (3 min)**  
   *Parent does:* 1. Each player takes a place card. 2. Spread the building cards face up. 3. Put the question cards in a pile.  
-  *Parent says:* Each of you has a place in India. You must build a home that suits it. Read your place card. What is the weather like there?  
-  *Child mode:* Read your place card. What is the weather there? What will your house need?
+  *Parent says:* Each of you has a place in India. You must build a home that suits it. Read your place card. What will a home there need?  
+  *Child mode:* Read your place card. Tell your grown-up what the weather or land is like there.
 - **s2 (14 min)**  
   *Parent does:* Take turns. The player on your left reads a question card and checks your answer on the back. A right answer wins one building card.  
   *Parent says:* Here is your question. If you get it right, choose a building card that suits your place.  
-  *Child mode:* Answer the question. If you are right, take a building card for your house.
+  *Child mode:* Listen to the question and answer it. Think about the weather at your place.
   - Note: Good matches: Kerala, steep tiled roof, laterite walls and a brace. Assam, a steep or thatch roof, bamboo walls and stilts. Ladakh, flat mud roof, thick mud walls and a small door. Kutch, cone roof, round mud walls and a brace. Chennai city, flat concrete roof, concrete frame and a lift. Nilgiris, rounded thatch roof, bamboo walls and a small door.
 - **s3 (3 min)**  
   *Parent does:* Each player who has three cards explains their house. The others say whether they agree.  
   *Parent says:* Tell us why your house suits your place. Which card would be a bad choice there?  
-  *Child mode:* Say why your house suits your place. Which card would be bad there?
+  *Child mode:* Show your three cards. Say why they suit your place.
   - Check: Which roof would suit a place with very heavy monsoon rain? → **A steep tiled roof**
 ### g2 · Lean or Stand? a quick sorting game (10 min)
 - **rules:** Shuffle the cards and place them face down.; Take turns. Turn the top card over, keeping the back hidden, and read the shape aloud. The other player says 'lean' or 'stand' before you count to three, then checks the back.; To check an answer, ask: do the strips split the shape completely into triangles? If they do, it stands. If not, it leans.; A right answer scores one point. The game ends when the cards run out, and the most points wins. Playing alone, read each card to yourself, answer, check the back, and try to beat your own score.
@@ -220,16 +220,16 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **s1 (2 min)**  
   *Parent does:* Remind your child of the Push Test, and shuffle the cards face down.  
   *Parent says:* In the Push Test you pushed a card square. Did it lean or stand? Now we will guess for other shapes.  
-  *Child mode:* In the Push Test you pushed a card square. Did it lean or stand? Now guess for other shapes.
+  *Child mode:* Remember pushing the card square. Get ready to guess for other shapes.
 - **s2 (6 min)**  
   *Parent does:* Take turns turning the cards over. The other player answers before you count to three.  
   *Parent says:* Lean or stand? Quick!  
-  *Child mode:* Lean or stand? Answer fast!
+  *Child mode:* Say 'lean' or 'stand' before the count of three.
   - Note: Stand: triangle, square with one diagonal, rectangle with a cross, row of three triangles, gate with a diagonal plank, pentagon with two diagonals from one corner. Lean: square, rectangle, row of three squares, ladder-shaped frame, gate with no plank, tall rectangle, pentagon, hexagon.
 - **s3 (2 min)**  
   *Parent does:* Ask how a pentagon could be made to stand.  
   *Parent says:* The pentagon leaned. How many strips would we need to add to make it stand?  
-  *Child mode:* How could you make the pentagon stand?
+  *Child mode:* Point with your finger to show where the strips would go.
   - Check: How many strips do you need to add to a five-sided frame so it cannot lean? → **2**
 
 ## Experiments
@@ -238,7 +238,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **predict:** Look at the strips. A square uses four strips and a triangle uses only three. Which frame do you think will lean the most when you push it? Which will lean the least? Why do you think so?
 - **fair test:** Use the same kind of strips, the same pins and the same push for every frame. Only the shape changes. Hold the bottom strip still each time. Push each frame 3 times, because one push on its own can give an odd result.
 - **safety:** A grown-up makes the holes with the compass point or a sharp pencil, pressing the card onto an eraser. Keep split pins away from babies, who may swallow them.
-- **record:** Fill in the table. Then draw the three frames, before and after the push, and write one sentence under each drawing.
+- **record:** Fill in the table. Then say one sentence about each frame, before and after the push. Draw them or take photos if you like.
 - **results table:** Frame | My guess: will it lean? (a lot, a little, not at all) | Push 1: how far the top corner moved (cm) | Push 2 (cm) | Push 3 (cm) | Did it fold flat? (yes or no)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Cut 7 card strips, each 2 cm wide and 15 cm long. 2. Cut one strip 25 cm long. 3. Make a hole 1 cm from each end of the short strips.  
@@ -253,7 +253,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **s3 (3 min)**  
   *Parent does:* 1. Hold up the square and the triangle. 2. Ask your child which one will lean more when pushed. 3. Write the guess and the reason in the table.  
   *Parent says:* The square has four strips and the triangle has only three. When I push the top sideways, which one will lean more? Why do you think so?  
-  *Child mode:* Look at the square and the triangle. Which will lean more when you push it? Why? Write your guess.
+  *Child mode:* Look at the square and the triangle. Make your guess, then write it in the table.
   - Ask: Why do you think that one will lean less? (good: The square has more strips, so it is stronger.; The triangle has a pointed top, so it is harder to push.; I don't know, let's test it.)
   - Note: Do not say what will happen. Many children guess the square is stronger because it has more strips. That is a fine guess. The test will answer it.
 - **s4 (8 min)**  
@@ -270,7 +270,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **s6 (3 min) · grown-up needed**  
   *Parent does:* 1. Put the square back together as a square. 2. Lay the long strip across it, from the bottom left corner to the top right corner. 3. With a sharp pencil, mark through the two corner holes onto the long strip. 4. A grown-up makes a hole at each mark. 5. Take out the pins at those two corners, and push them back through all three layers.  
   *Parent says:* What if we add one strip across the square, from corner to corner? Guess first: will it still lean?  
-  *Child mode:* Add the long strip across the square, from one corner to the opposite corner. Will it lean now? Guess first.
+  *Child mode:* Help fix the long strip across the square, from corner to corner.
   - Note: The long strip is 25 cm, so it reaches past both corners. Hold the square straight while you mark, so the brace fits exactly. The pins at the two corners now hold three layers each, so open them flat but keep them loose.
 - **s7 (2 min)**  
   *Parent does:* Push the braced square three times, the same way, and measure.  
@@ -288,16 +288,16 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **question:** Does water run off a steep roof faster than a flat one, and does any water stay behind on a flat roof?
 - **predict:** We will pour water on a roof that is flat, a little tilted and very tilted. Which roof will be dry first? Will any water stay on the flat one? Why do you think so?
 - **fair test:** Use the same roof, the same 4 spoons of water and the same pouring place each time. Only the slope changes. Wipe the roof dry between tries. Do each slope twice.
-- **record:** Fill in the table. Draw the three roofs and colour any puddles left on them.
+- **record:** Fill in the table. Then tell a grown-up where the water went on each roof. Draw it and colour the puddles if you like.
 - **results table:** Slope | Books under the high end | My guess: seconds to stop dripping | Try 1 (seconds) | Try 2 (seconds) | Water left in puddles? (yes or no)
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the tray flat on a table, with one edge over a bowl. 2. Show the cup of water and the spoon.  
   *Parent says:* This tray is our roof. Rain falls on it. Where will the water go if the roof is flat? Where will it go if we tilt it?  
-  *Child mode:* The tray is a roof. Will rain run off a flat roof? What about a tilted one?
+  *Child mode:* Look at the tray. Pretend it is a roof in the rain.
 - **s2 (3 min)**  
   *Parent does:* Ask for a guess for each slope: the tray flat, with one book under the high end, and with four books under the high end. Write the guesses in the table.  
   *Parent says:* Which roof will be dry first? Will any water stay on the flat roof? Why do you think so?  
-  *Child mode:* Guess which roof will be dry first. Will water stay on the flat one? Why?
+  *Child mode:* Make a guess for each slope and say why. A grown-up writes it in the table.
   - Note: Accept any guess with a reason. Do not explain yet.
 - **s3 (12 min)**  
   *Parent does:* 1. Pour 4 spoons of water onto the middle of the flat tray. 2. Start the stopwatch. 3. Stop it when no drop has fallen for 5 seconds, or after 60 seconds. 4. Wipe the tray dry. 5. Repeat with one book under the high end of the tray, then with four books. Do each slope twice.  
@@ -307,7 +307,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **s4 (4 min)**  
   *Parent does:* Look at the results together and talk about where houses have steep roofs.  
   *Parent says:* Kerala gets very heavy rain in the monsoon. Ladakh gets very little. Which roof would you build in each place? Why?  
-  *Child mode:* Kerala gets lots of rain. Ladakh gets very little. Which roof suits each place?
+  *Child mode:* Look at your table. Which slope dried fastest?
   - Check: Why do many old houses in Kerala have steep roofs? → **Rain runs off a steep roof quickly, before it can soak in or leak**
 - **s5 (3 min)**  
   *Parent does:* Ask your child to say what they think now, what they saw, and why.  
@@ -319,7 +319,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **predict:** On roof A, each higher tile lies on top of the tile below it. On roof B, each lower tile lies on top of the tile above it. Which roof will keep the tissue dry? Why do you think so?
 - **fair test:** Use the same tiles, the same slope and the same 4 spoons of water for both roofs. Only the way the tiles overlap changes. Do each roof twice, with a fresh dry tissue.
 - **safety:** A grown-up helps with the scissors.
-- **record:** Draw a side view of both roofs, with arrows showing where the water went. Mark where the tissue got wet.
+- **record:** Count the wet spots under each roof and write them in the table. Then tell a grown-up where the water went, or draw a side view with arrows.
 - **results table:** Roof | How the tiles overlap | My guess: will the tissue get wet? | Try 1: wet spots on the tissue | Try 2: wet spots on the tissue
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Cut a gap 3 cm wide down the middle of each card. Start 2 cm below the top and stop 2 cm above the bottom. 2. Tape 4 plastic tiles in rows across each card, over the gap. Overlap them by 2 cm.  
@@ -329,7 +329,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **s2 (3 min)**  
   *Parent does:* Show both roofs side by side and ask for a guess.  
   *Parent says:* Look at the edges of the tiles on each roof. When water runs down, which roof will let it in? Why do you think so?  
-  *Child mode:* Look at both roofs. Which one will let water through? Why?
+  *Child mode:* Run your finger down each roof, from top to bottom. Feel the tile edges.
   - Note: Ask your child to run a finger down each roof, from top to bottom. On roof B the finger catches on each tile edge. That is where water gets caught too.
 - **s3 (10 min)**  
   *Parent does:* 1. Tilt each roof on two books over a dry tissue. 2. Pour 4 spoons of water slowly along the top edge. 3. Lift the roof and look at the tissue. 4. Repeat with fresh tissues.  
@@ -349,33 +349,33 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **s1 (6 min)**  
   *Parent does:* 1. Walk to the main door, a window, the floor, a wall and the ceiling. 2. At each one, ask what it is made of. 3. Write it down.  
   *Parent says:* Let's be detectives in our own home. What is this door made of? Why do you think the builder chose that?  
-  *Child mode:* Look at the door, a window, the floor and a wall. What is each made of? Why?
+  *Child mode:* Look at the door, a window, the floor and a wall. What is each made of?
   - Ask: Why is the window made of glass, not wood? (good: So light can come in.; So we can see out.)
   - Note: Walls in most flats are brick or concrete blocks, covered with cement plaster and paint. Floors are often tiles, stone or concrete. Under the plaster, a concrete roof has steel rods inside.
 - **s2 (4 min)**  
   *Parent does:* Ask which materials came from nature with little change, and which were made in a factory.  
   *Parent says:* Which of these came from nature, like wood or stone? Which were made in a factory, like glass or cement?  
-  *Child mode:* Which materials came from nature? Which were made in a factory?
+  *Child mode:* Sort what you found into two groups: from nature, or made in a factory.
   - Note: Wood and stone come from nature. Glass is made from sand, and cement from limestone and clay, but both are heated in factories. Every material started in nature.
 ### a2 · Triangle Hunt (15 min)
 - **safety:** Look from inside a window or a balcony with a grill. Never lean over a balcony wall.
-- **record:** Draw five triangles you found. Under each, write what it holds up.
+- **record:** Write down five triangles you found and what each one holds up. Draw them if you like.
 - **s1 (8 min)**  
-  *Parent does:* 1. Look at stools, a cloth-drying stand, shelf brackets, a ladder and the ironing board. 2. Look out of the window at towers, cranes and roofs. 3. Draw each triangle you find.  
+  *Parent does:* 1. Look at stools, a cloth-drying stand, shelf brackets, a ladder and the ironing board. 2. Look out of the window at towers, cranes and roofs. 3. Count the triangles you find, and ask what each one holds up.  
   *Parent says:* In the Push Test, the triangle frame would not lean. Builders know that too. Let's find triangles that are holding something up.  
-  *Child mode:* Find triangles that hold something up. Look at home and out of the window. Draw them.
+  *Child mode:* Find triangles that hold something up. Look at home and out of the window. Point to each one and say what it holds up.
   - Note: Good finds: the bracket under a shelf, the legs of a folding stand, the A-shaped legs of a step ladder, a mobile tower, a crane, the steel roof of a bus stand or a railway station.
 - **s2 (7 min)**  
   *Parent does:* Look at photos of the Howrah Bridge in Kolkata, or a railway bridge near you. Count the triangles on one side.  
-  *Parent says:* This is the Howrah Bridge in Kolkata. Its sides are made of steel triangles. Why do you think the builders used so many?  
-  *Child mode:* Look at a photo of a steel bridge. Count the triangles. Why are there so many?
+  *Parent says:* This is the Howrah Bridge in Kolkata. Its sides are made of steel triangles. Let's count them.  
+  *Child mode:* Look at a photo of a steel bridge. Count the triangles on one side.
   - Check: Why does a steel bridge have triangles along its sides? → **Triangles keep their shape, so the bridge does not lean or sag**
 ### a3 · Homes of India: match the house to the place (15 min)
-- **record:** Stick or draw each house next to its place, with one reason.
+- **record:** Write each place, its house and one reason. Stick a picture or draw the house if you like.
 - **s1 (10 min)**  
   *Parent does:* 1. Lay out the six place cards: Kerala, Assam, Ladakh, Kutch, the Nilgiris, Chennai. 2. Read your child one home from the parent notes, without the place. 3. Ask which place it suits, and why. Do all six.  
   *Parent says:* Each of these homes suits its place. Which one is from the place with floods? Which is from the cold desert? How can you tell?  
-  *Child mode:* Listen while a home is read out. Which place does it suit? Why?
+  *Child mode:* Listen to the home. Put your finger on the place card it suits.
   - Note: Kerala: steep tiled roof, heavy rain. Assam: bamboo house on stilts, floods. Ladakh: flat mud roof and thick mud walls, very little rain and cold nights. Kutch: round bhunga with a light roof, earthquakes and heat. Nilgiris: the Toda hut with a rounded thatch roof, cool hills. Chennai: a block of flats, many people and little land.
 - **s2 (5 min)**  
   *Parent does:* Ask why a family in a city lives in a block of flats.  
@@ -393,26 +393,26 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **s2 (4 min)**  
   *Parent does:* Think about a builder, or look at a photo of builders on a phone or in a book. Ask why each piece of gear is needed.  
   *Parent says:* Why does a builder wear a hard helmet? Why strong boots? Why a harness when working high up?  
-  *Child mode:* Think about a builder. Why does a builder wear a helmet? Why strong boots? Why a harness?
+  *Child mode:* Picture a builder at work. What does the builder wear on the head, the feet and the body?
   - Check: Why do builders wear strong boots? → **Nails and broken glass lie on the ground at a building site**
 ### a5 · Who Else Builds a Home? (15 min)
 - **safety:** If a crow or pigeon is nesting near your window, watch from a distance and do not touch the nest.
-- **record:** Draw one animal home and write what problem that home solves.
+- **record:** Choose one animal home. Tell your grown-up, or write, what problem it solves. Draw it if you like.
 - **s1 (10 min)**  
-  *Parent does:* Look at the weaver nest photo first. Ask what danger the bird faces, and how the nest helps.  
+  *Parent does:* Look at the weaver nest photo first. Ask what danger the bird faces, and how the nest helps. Then look at the ant hill, the crow's nest and the spider's web the same way.  
   *Parent says:* Snakes and other hunters eat eggs and chicks. So where does the baya weaver hang his nest? Where is the door?  
-  *Child mode:* Snakes eat eggs. Where does the weaver hang his nest? Where is the door?
+  *Child mode:* Look at the photo of the nest. Point to where the door is.
   - Note: The male baya weaver hangs the nest from a thin branch, often over water, with the entrance as a long tube opening downwards. Females inspect the nests and choose one. Crows in cities often build nests of twigs and even bits of wire.
 - **s2 (5 min)**  
   *Parent does:* Compare the nest with your own home.  
   *Parent says:* What does our home do that the weaver's nest also does?  
-  *Child mode:* What does your home do that the nest also does?
+  *Child mode:* Name one job that your home and the nest both do.
   - Note: Both keep off rain and sun, keep young ones safe, and keep out hunters.
 
 ## Projects
 ### p1 · Build a Newspaper Hut You Can Sit In (90 min, 2 days)
 - **safety:** Build on the floor, away from the stove and lamps. Don't climb on the hut.
-- **record:** Draw your hut and mark every triangle. Write where it leaned and what you did to fix it.
+- **record:** Before you cover the hut, take a photo or draw it, and point out every triangle. Write where it leaned and what you did to fix it.
 - **schedule:** day 1: Roll 30 newspaper sticks. Tape them into triangles, and test a square of sticks against a triangle. (40 min); day 2: Join the triangles into a hut. Cover it with a sheet. Push it gently to test it, and add braces where it leans. (50 min)
 - **s1 (25 min)**  
   *Parent does:* 1. Lay a double sheet of newspaper flat. 2. Roll it tightly from one corner around a pencil. 3. Slide the pencil out and tape the end. 4. Make 30 sticks.  
@@ -439,7 +439,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 ## Challenges
 ### c1 · The Tower That Stands in the Fan's Wind (35 min)
 - **problem:** Build the tallest tower you can from newspaper and tape. It must stay standing for 30 seconds while a table fan blows on it.
-- **your turn:** Now design your own tower. Draw it first, build it, then test it in the fan's wind. Change one thing and test again.
+- **your turn:** Now design your own tower. Plan it first with sticks or a sketch, build it, then test it in the fan's wind. Change one thing and test again.
 - **constraints:** Use only 10 sheets of newspaper and 1 metre of tape.; The tower must stand on its own, with nothing holding it.; Put the fan on its highest speed, 1 metre away.
 - **general:** Roll the newspaper into sticks and tape them into a tower of triangles.; Make the base wide and the top narrow, like a mobile tower.; Add braces across each side so the tower cannot lean.
 - **creative:** Make the tower a hollow tube with diagonal strips on the outside, like the John Hancock Center in Chicago, where the engineer Fazlur Rahman Khan put diagonal braces across the outside.; Leave gaps in the sides so the wind can pass through, as it does through a steel tower.; Fold paper into a fan shape for the walls, because folds make paper stiff.
@@ -448,9 +448,9 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
   *Parent says:* Let's see the problem first. What does the wind do to a single stick?  
   *Child mode:* Hold one stick upright by its bottom end. Turn on the fan. What happens?
 - **s2 (5 min)**  
-  *Parent does:* Draw three tower ideas together before building.  
-  *Parent says:* Engineers draw before they build. Which shapes are good at not leaning?  
-  *Child mode:* Draw three ideas for a tower. Use what you learned about triangles.
+  *Parent does:* Lay out three tower ideas together before building, with sticks on the floor or in a sketch.  
+  *Parent says:* Engineers plan before they build. Which shapes are good at not leaning?  
+  *Child mode:* Lay out three ideas for a tower with sticks, or sketch them. Use what you learned about triangles.
 - **s3 (20 min)**  
   *Parent does:* 1. Build the best idea. 2. Measure its height. 3. Test it in the fan for 30 seconds. 4. Improve it and test again.  
   *Parent says:* Build it and test it. If it falls, look at where it bent first.  
@@ -470,7 +470,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **s1 (5 min)**  
   *Parent does:* Look at a photo of a house on stilts in Assam during a flood, on a phone or in a book. If you have none, picture a house with its floor high on poles and the river running underneath.  
   *Parent says:* When the river floods, the water flows under this house. Why does the family stay dry?  
-  *Child mode:* Look at the house on stilts. Why does the family stay dry in the flood?
+  *Child mode:* Look at the house on stilts. Where does the flood water go?
 - **s2 (20 min)**  
   *Parent does:* 1. Build a house. 2. Put the tissue inside on the floor. 3. Stand it in the tray. 4. Pour water slowly until it is 3 cm deep. 5. Check the tissue.  
   *Parent says:* Build it, then we will flood the tray. Pour slowly. Is the tissue still dry?  
@@ -479,7 +479,7 @@ But Meenakshi knew they were there. After lunch she found Arun on the stairs, ea
 - **s3 (5 min)**  
   *Parent does:* Ask your child what worked and what they would change.  
   *Parent says:* What kept the floor dry? What would you change for a bigger flood?  
-  *Child mode:* What kept your house dry? What would you change?
+  *Child mode:* Show which part of your house kept the tissue dry.
   - Note: A strong answer explains that raising the floor above the water keeps it dry, and that stilts need braces.
 
 ## Worksheets

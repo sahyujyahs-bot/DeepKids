@@ -516,7 +516,7 @@
       "setup": [
         {
           "art": "A long winding paper track of 40 squares drawn on chart paper, with a single cell at the start and a newborn at the finish.",
-          "caption": "1. Draw a winding track of 40 squares. Square 1 is one cell. Square 40 is birth."
+          "caption": "1. Use the printed track, or draw a winding track of 40 squares. Square 1 is one cell. Square 40 is birth."
         },
         {
           "art": "Small piles of folded paper cards marked GROW and WONDER beside a die, a few paper hearts and four coloured buttons used as counters.",
@@ -663,8 +663,8 @@
           "id": "s1",
           "mins": 3,
           "do": "1. Lay out the track. 2. Put the GROW and WONDER piles face down. 3. Give each player a button as a counter, on square 1. 4. Keep the hearts in a pile.",
-          "say": "Each square is one week of growing in the womb. We all start as one tiny cell on square 1. Let's see who gets born first.",
-          "kid": "Put your button on square 1. That is you, as one tiny cell. Each square is one week.",
+          "say": "Each square is one week of growing in the womb. We all start as one tiny cell on square 1. Let's see what happens to the baby each week.",
+          "kid": "Put your button on square 1. That is you, as one tiny cell.",
           "context": "This is the first step of Forty Weeks. You set up a board game where each square is one week of growing in the womb."
         },
         {
@@ -672,7 +672,7 @@
           "mins": 3,
           "do": "Read square 6 together before you start. Point at square 6 on the track.",
           "say": "At about six weeks, the baby is as small as a grain of rice. But their heart is already beating. Can you feel your heart now?",
-          "kid": "Look at square 6. The heart starts beating there. Put your hand on your chest. Feel yours beat.",
+          "kid": "Find square 6. Put your hand on your chest and feel your own heart beat.",
           "check": {
             "t": "mcq",
             "q": "At about six weeks, how big is the growing baby?",
@@ -689,9 +689,9 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "1. Take turns to roll and move. 2. Read aloud each square you land on. On a STAR, also take a GROW card. 3. When a player rolls a 6, read them a WONDER card.",
-          "say": "Remember, whenever you land on a square, read out what is happening to the baby that week.",
-          "kid": "Roll and move. Read out the square you land on. Is it a star? Then take a GROW card.",
+          "do": "1. Take turns to roll and move. 2. The player on your left reads out the square you land on. 3. On a STAR, take a GROW card. 4. When a player rolls a 6, read them a WONDER card.",
+          "say": "Roll the die and move. The player on your left will read out what is happening to the baby that week.",
+          "kid": "Roll and move. Listen to what happens that week. On a star, take a GROW card.",
           "ask": [
             {
               "q": "Why does the GROW card say 'move forward' when the mother eats well?",
@@ -706,9 +706,9 @@
         {
           "id": "s4",
           "mins": 4,
-          "do": "When a player reaches square 40, everyone takes a big breath with them. Finish the game. Count the heart tokens.",
+          "do": "When a player reaches square 40, everyone takes a big breath with them. Keep playing until everyone is born. Then count the heart tokens.",
           "say": "Square 40 is birth. Before birth, the baby's lungs were full of fluid. Now, for the first time, air rushes in. Let's all take that first breath together.",
-          "kid": "You reached square 40. You are born! Take a big first breath. Shout 'Hello, world!'",
+          "kid": "You reached square 40. You are born! Shout 'Hello, world!'",
           "think": "What do you think the very first breath felt like?",
           "check": {
             "t": "mcq",
@@ -731,7 +731,7 @@
       "title": "Who Waits Longest? Animal baby cards",
       "mins": 15,
       "players": "2 to 4 players",
-      "context": "This is a card game comparing how long different animal babies grow inside their mothers before birth. It is like the game of trumps: the longest wait wins.",
+      "context": "This is a card game comparing how long different animal babies grow inside their mothers before birth. It is like the game of trumps: the longest wait wins. You will find out which animal babies wait longest, and where a human baby fits.",
       "setup": [
         {
           "art": "Twelve hand-drawn cards, each with an animal name and a number of days written large.",
@@ -840,16 +840,16 @@
           "id": "s1",
           "mins": 3,
           "do": "1. Spread the 12 cards face up and find the human card. 2. Shuffle them and share them out face down.",
-          "say": "A human baby grows inside their mother for about 270 days. Let's see which animals wait longer, and which wait less.",
-          "kid": "Find the human card. 270 days! Then we shuffle and share the cards.",
+          "say": "Each card shows how many days a baby grows inside the mother before birth. A human baby grows for about 270 days. Let's see which animals wait longer, and which wait less.",
+          "kid": "Find the human card. Which animals have a bigger number of days? Which have a smaller number? Then we shuffle and share the cards.",
           "context": "This is the first step of Who Waits Longest?, a card game comparing how long animal babies grow before birth."
         },
         {
           "id": "s2",
           "mins": 8,
           "do": "Play the game. After each round, ask the winner how many more days their card has.",
-          "say": "Who wins this round? How many more days is that?",
-          "kid": "Turn your top card over. Longest wait wins. How many days more?",
+          "say": "Who wins this round? About how many more days did that baby wait than the next one?",
+          "kid": "Everyone turns over their top card at the same time. The biggest number of days wins.",
           "check": {
             "t": "mcq",
             "q": "In Who Waits Longest?, the card with the most days wins. An elephant card meets a mouse card. Which card wins?",
@@ -867,8 +867,8 @@
           "id": "s3",
           "mins": 4,
           "do": "At the end, gather all 12 cards and lay them in a line, shortest wait to longest.",
-          "say": "Look at the line. What do you notice about the small animals and the big ones?",
-          "kid": "Put all the cards in a line, from shortest wait to longest. What do you notice?",
+          "say": "Now look at the whole line. Look at the small animals and the big ones.",
+          "kid": "Put all the cards in a line, from the shortest wait to the longest.",
           "ask": [
             {
               "q": "What do you notice about the line of animal cards?",
@@ -949,8 +949,8 @@
           "id": "s1",
           "mins": 3,
           "do": "1. Put the two jars on a tray. 2. Ask your child to guess what will happen to each egg when shaken.",
-          "say": "Here is a pretend baby, a raw egg. Before birth, a real baby floats in water in the womb. Let's find out if water protects them. What do you think will happen?",
-          "kid": "This egg is a pretend baby. One jar will have water. One will be empty. Which egg will stay safe? Make a guess.",
+          "say": "Here is a pretend baby, a raw egg. Before birth, a real baby floats in water in the womb. Let's find out if water protects them.",
+          "kid": "One jar will have water. One will be empty. Which egg will stay whole when we shake it? Make a guess.",
           "ask": [
             {
               "q": "Why did you guess that?",
@@ -985,8 +985,8 @@
           "id": "s4",
           "mins": 4,
           "do": "Look at both eggs. Fill in the results table together.",
-          "say": "Which egg cracked? Let's write it down. Then we'll work out why.",
-          "kid": "Which egg cracked? Write it in your table.",
+          "say": "Let's write down what happened to each egg. Then we'll work out why.",
+          "kid": "Look at both eggs again. Write what you see in your table.",
           "check": {
             "t": "mcq",
             "q": "In the Floating Safe test, which egg usually stays whole?",
@@ -1088,8 +1088,8 @@
           "id": "s2",
           "mins": 6,
           "do": "1. Stand one step behind your child. 2. Hum low, then hum high (a squeaky hum), both at the same loudness, with no bag. 3. Hum both again while your child presses the bag of water on one ear and covers the other ear.",
-          "say": "I will make two hums. First with nothing on your ear. Then through the water. Tell me which comes through better.",
-          "kid": "Listen with no bag. Then hold the water bag on your ear. Cover your other ear. Which hum gets through better?",
+          "say": "A low hum is deep, like a big drum. A high hum is thin and squeaky, like a mosquito. I will hum each one, first with nothing on your ear, then through the water.",
+          "kid": "First listen with no bag. Then press the water bag on one ear and cover your other ear. Listen to each hum.",
           "parent": "Everything will sound muffled through the bag, and the difference between the low and the high hum may be small. The low hum usually comes through a little better. Scientists think a baby in the womb hears something like this: low sounds such as voices and the heartbeat, muffled. Your hand over the other ear does not block all sound, so compare the two tries rather than expecting silence.",
           "context": "This is the listening step of Hearing Through Water. A grown-up hums a low hum and a high hum, and you listen with and without a bag of water."
         },
@@ -1097,8 +1097,8 @@
           "id": "s3",
           "mins": 3,
           "do": "Fill in the table together.",
-          "say": "Which hum came through better?",
-          "kid": "Which hum came through better? Write it in your table.",
+          "say": "Let's write down how each hum sounded.",
+          "kid": "Fill in your table. For each hum, write clear, muffled or silent.",
           "check": {
             "t": "mcq",
             "q": "In the Hearing Through Water test, which hum usually comes through the water bag better?",
@@ -1175,7 +1175,7 @@
           "what": "Fill three bottles. Keep one alone, one wrapped, one held on a chest. Feel or measure them after 10 and 20 minutes."
         }
       ],
-      "record": "Fill in the table. If you have a thermometer, draw a bar chart of the temperatures after 20 minutes. Then write a claim, evidence and reasoning.",
+      "record": "Fill in the table. If you have a thermometer, draw a bar chart of the temperatures after 20 minutes, or just list the bottles from warmest to coolest. Then write a claim, evidence and reasoning.",
       "context": "Tiny newborns, especially early ones, lose heat fast. This experiment uses bottles of warm water as pretend babies, to test which way of holding keeps them warm longest.",
       "example_chart": {
         "type": "bar",
@@ -1229,7 +1229,7 @@
           "id": "s2",
           "mins": 3,
           "do": "1. Stand one bottle alone on the table. 2. Wrap one in a towel. 3. A grown-up wraps the third in the other towel and tucks it against their chest, under a dupatta or shirt.",
-          "say": "Holding a baby on a grown-up's bare chest, under a cloth, is called kangaroo care. Doctors in Bogotá, in Colombia, started it in 1978, to keep early babies warm.",
+          "say": "Holding a baby on a grown-up's bare chest, under a cloth, is called kangaroo care. Doctors use it to keep early babies warm.",
           "kid": "One bottle stays alone. One gets wrapped. One goes on a grown-up's chest, under a cloth.",
           "context": "This is the setting-up step of Keep the Baby Warm. Each pretend baby is kept a different way."
         },
@@ -1247,8 +1247,8 @@
           "id": "s4",
           "mins": 5,
           "do": "Compare the bottles. Help your child say a claim, evidence and reasoning.",
-          "say": "Which pretend baby stayed warmest? Why do you think so?",
-          "kid": "Which bottle is warmest? Say what you think, what you felt, and why.",
+          "say": "Let's compare. Put the bottles in order, from warmest to coolest.",
+          "kid": "Tell me what you felt on each bottle, and why you think it happened.",
           "check": {
             "t": "mcq",
             "q": "In Keep the Baby Warm, which pretend baby usually stays warmest?",
@@ -1294,7 +1294,7 @@
           "what": "Split one dough ball into 2, 4, 8 and 16. Count. Then colour some to show cells becoming different kinds."
         }
       ],
-      "record": "Draw your rows of dough balls: 1, 2, 4, 8, 16. Write how many there are in each row.",
+      "record": "Take a photo of your rows of dough balls. Write how many there are in each row: 1, 2, 4, 8, 16.",
       "context": "This activity uses a ball of dough as a pretend first cell. You split it again and again, to see how one cell becomes many, and how quickly the number grows.",
       "setup": [
         {
@@ -1315,8 +1315,8 @@
           "id": "s1",
           "mins": 2,
           "do": "1. Give your child one ball of dough on a plate. 2. Tell them it is the first cell.",
-          "say": "You began as one tiny cell, much smaller than this dough. Let's pretend this ball is that cell. What do you think happens next?",
-          "kid": "This dough ball is you, at the very start. You were one cell. What do you think happens next?",
+          "say": "You began as one tiny cell, much smaller than this dough. Let's pretend this ball is that cell.",
+          "kid": "This dough ball is you, at the very start, as one cell.",
           "ask": [
             {
               "q": "How do you think one cell becomes a whole baby?",
@@ -1341,9 +1341,9 @@
         {
           "id": "s3",
           "mins": 3,
-          "do": "Look at the rows: 1, 2, 4, 8, 16. Ask your child to guess the next number.",
-          "say": "Look at the numbers. 1, 2, 4, 8, 16. Each time it doubles. What comes next?",
-          "kid": "Look at your rows. 1, 2, 4, 8, 16. What comes next?",
+          "do": "Look at the rows: 1, 2, 4, 8, 16. Ask your child how the number changes each time.",
+          "say": "Look at the numbers: 1, 2, 4, 8, 16. Can you see how the number changes each time?",
+          "kid": "Count the balls in each row. Say how the number changes each time.",
           "check": {
             "t": "mcq",
             "q": "In the dough doubling, you had 16 balls. You split every ball once more. How many now?",
@@ -1362,7 +1362,7 @@
           "mins": 5,
           "do": "1. Rub a little turmeric on a few balls on one side of the plate. 2. Press a few others flat. 3. Leave some round.",
           "say": "At first all the cells look the same. Then some start to change. These yellow ones could become skin. These flat ones could become blood. They all came from the same first cell.",
-          "kid": "Make some balls yellow. Press some flat. Now they are different kinds of cell. But they all came from one ball.",
+          "kid": "Rub turmeric on a few balls to make them yellow. Press a few others flat. Leave the rest round.",
           "ask": [
             {
               "q": "All these balls came from one. So why are some yellow and some flat now?",
@@ -1410,7 +1410,7 @@
           "what": "Mark how long a baby is at 8, 12, 20, 30 and 40 weeks on a paper strip. Lay fruits beside the marks. Measure yourself and compare."
         }
       ],
-      "record": "Your marked paper strip, with each week labelled and a fruit drawn beside it.",
+      "record": "Your marked paper strip, with each week labelled and a fruit beside it. Use the real fruit, or draw one.",
       "context": "This activity shows how big a baby is at different weeks in the womb. You mark the lengths on a paper strip and put fruits beside them.",
       "setup": [
         {
@@ -1449,7 +1449,7 @@
           "mins": 4,
           "do": "Ask your child to look at the gaps between the marks.",
           "say": "Look at the gaps. Between which weeks did the baby grow the most?",
-          "kid": "Look at the gaps between marks. Where is the biggest jump?",
+          "kid": "Use your ruler to measure the gaps between the marks. Which gap is the biggest?",
           "check": {
             "t": "mcq",
             "q": "On the fruit line, a baby is about 6 cm at 12 weeks and about 25 cm at 20 weeks. How much did the baby grow?",
@@ -1468,7 +1468,7 @@
           "mins": 4,
           "do": "Measure your child's height now. Compare it with the 50 cm mark.",
           "say": "You were about 50 centimetres long when you were born. How tall are you now? How many newborns tall are you?",
-          "kid": "Lie down by the strip. A grown-up measures you. How many newborn lengths tall are you?",
+          "kid": "Lie down by the strip while a grown-up marks your height.",
           "think": "You were once smaller than a dot. What made all of you?",
           "context": "This is the last step of How Big Was I?. You compare your height now with a newborn's length of about 50 centimetres.",
           "parent": "The answer is cell splitting. The first cell split into two, then four, then eight, and on and on. The cells became different kinds, such as skin, bone and heart. Food from your mother's blood gave them what they needed to grow."
@@ -1508,7 +1508,7 @@
         }
       ],
       "record": "A page of family fingerprints, each labelled with the person's name and the pattern type.",
-      "context": "Your fingerprints formed in the womb, at about four months, and have never changed since. This activity lets you look closely at them, and at your family's.",
+      "context": "Your fingerprints formed in the womb, at about four months, and have never changed since. This activity lets you look closely at them, and at your family's. You will find out whether any two prints are the same.",
       "setup": [
         {
           "art": "A child pressing a thumb onto an ink pad, then onto white paper.",
@@ -1554,7 +1554,7 @@
           "mins": 5,
           "do": "Talk about why prints are all different.",
           "say": "Even twins who look exactly the same have different fingerprints. Tiny chance differences in how the skin grew made each pattern.",
-          "kid": "Even twins have different prints. Each pattern formed by chance, before birth.",
+          "kid": "Hold two prints side by side. Find one line that is different.",
           "check": {
             "t": "mcq",
             "q": "When were your fingerprints made?",
@@ -1591,10 +1591,10 @@
         {
           "day": 1,
           "mins": 15,
-          "what": "Ask a grown-up how you arrived in the family. Write or draw three things you learned."
+          "what": "Ask a grown-up how you arrived in the family. Write, draw or say three things you learned."
         }
       ],
-      "record": "Three things you learned about your arrival, written or drawn.",
+      "record": "Three things you learned about your arrival, written, drawn or told.",
       "context": "Every child arrived in their family in their own way, by birth, adoption or other paths. This activity is a gentle interview with a grown-up about your arrival.",
       "setup": [
         {
@@ -1610,9 +1610,9 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "1. Choose a quiet time. 2. Look at the questions together first.",
+          "do": "1. Choose a quiet time. 2. Sit together with the notebook.",
           "say": "Every child arrives in their family in their own way. Some are born into it. Some are adopted. Some are raised by grandparents or others. Let's ask about your arrival.",
-          "kid": "Every family is made in its own way. Let's ask about how you arrived.",
+          "kid": "Sit with your grown-up. Get your notebook ready.",
           "parent": "Share what feels right for your family, in words your child can understand. Adoption, foster care, surrogacy, IVF and other paths are all real families. If parts of the story are not known, it is fine to say so.",
           "context": "This is the first step of My Arrival Story. You get ready to ask a grown-up how you arrived in your family."
         },
@@ -1638,11 +1638,11 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "Your child writes or draws three things.",
-          "say": "Write or draw three things you learned. Which one will you remember most?",
-          "kid": "Write or draw three things you learned.",
+          "do": "Your child writes, draws or says three things. You write down what they say.",
+          "say": "What are three things you learned? Which one will you remember most?",
+          "kid": "Write three things you learned. You can draw them, or say them for your grown-up to write.",
           "think": "Who else might have looked after you before you could remember?",
-          "context": "This is the last step of My Arrival Story. You write or draw three things you learned from your interview."
+          "context": "This is the last step of My Arrival Story. You write, draw or tell three things you learned from your interview."
         }
       ]
     },
@@ -1693,7 +1693,7 @@
           "what": "Build a womb model with a bag of water, a toy baby, a cord and a placenta. Label each part."
         }
       ],
-      "record": "A labelled drawing of your model: womb, water, baby, cord, placenta.",
+      "record": "A photo of your labelled model: womb, water, baby, cord, placenta.",
       "context": "This activity builds a simple model of a baby in the womb, so you can see where the water, the cord and the placenta are.",
       "setup": [
         {
@@ -1777,7 +1777,7 @@
           "what": "Look through a folded clear bag at a face near and far. Find the distance where it looks clearest."
         }
       ],
-      "record": "Draw the face as it looked near, and as it looked far.",
+      "record": "Say or write which distance made the face clearest, and how far away it was.",
       "context": "A newborn sees the world blurry, and best at about 20 to 30 centimetres. This activity uses a folded clear plastic bag to give you a blurry view like a newborn's.",
       "setup": [
         {
@@ -1794,7 +1794,7 @@
           "id": "s1",
           "mins": 4,
           "do": "1. Your child holds the folded bag flat in front of their eyes. 2. You hold your face about 25 centimetres away, about one ruler. 3. Then step back across the room.",
-          "say": "A newborn baby sees blurry, a bit like through this bag. Can you see my face better close up or far away?",
+          "say": "A newborn baby sees blurry, a bit like through this bag. Let's look at my face through it, close up and far away.",
           "kid": "Hold the bag in front of your eyes. Look at a face close up. Then far away.",
           "context": "This is the first step of Newborn Eyes. You look through a folded clear bag to see the world blurry, the way a newborn does.",
           "parent": "Things close to you look clearer than things far away, so your face should look clearer close up. This is only a rough model: the face looks bigger when it is close, so you can make out more of it. A real newborn sees blurry for a different reason: their eyes cannot focus well yet. If everything looks like fog, use one layer of the bag instead of two."
@@ -1804,7 +1804,7 @@
           "mins": 3,
           "do": "Ask which was clearer.",
           "say": "When was my face clearer, close or far?",
-          "kid": "When was the face clearer, close or far?",
+          "kid": "Think about both looks. Tell your grown-up which one was clearer.",
           "check": {
             "t": "mcq",
             "q": "A newborn sees most clearly at about what distance?",
@@ -1823,7 +1823,7 @@
           "mins": 3,
           "do": "Talk about why this might help a baby.",
           "say": "Why might it be useful for a baby to see faces close up best?",
-          "kid": "Why might a baby need to see faces close up?",
+          "kid": "Think about who holds a newborn. How far away is their face?",
           "ask": [
             {
               "q": "Why might it help a baby to see close faces best?",
@@ -1867,21 +1867,21 @@
         {
           "day": 1,
           "mins": 20,
-          "what": "Mark 40 weeks along the scroll, 5 centimetres each. Draw weeks 1 to 12."
+          "what": "Mark 40 weeks along the scroll, 5 centimetres each. Show weeks 1 to 12."
         },
         {
           "day": 2,
           "mins": 20,
-          "what": "Draw weeks 13 to 28: kicking, fingerprints, hearing."
+          "what": "Label weeks 13 to 28: kicking, fingerprints, hearing."
         },
         {
           "day": 3,
           "mins": 20,
-          "what": "Draw weeks 29 to 40 and birth. Show the scroll to someone and explain it."
+          "what": "Show weeks 29 to 40 and birth. Show the scroll to someone and explain it."
         }
       ],
       "record": "Your finished scroll, and a photo of you explaining it.",
-      "context": "This 3-day project makes a long paper scroll, one mark for each of the 40 weeks a baby grows in the womb. You draw what happens week by week.",
+      "context": "This 3-day project makes a long paper scroll, one mark for each of the 40 weeks a baby grows in the womb. You show what happens week by week, so you can explain how a baby grows.",
       "setup": [
         {
           "art": "A long paper scroll unrolled on the floor with 40 small marks along it, a ruler beside it.",
@@ -1900,17 +1900,17 @@
         {
           "id": "s1",
           "mins": 20,
-          "do": "1. Mark 40 weeks along the scroll, 5 centimetres apart. 2. Draw week 1, one cell. 3. Week 2, a ball of cells. 4. Week 6, a beating heart. 5. Week 8, a grape-sized embryo. 6. Week 12, fingers and toes.",
-          "say": "In the first three months, all the main body parts form. The baby is still very small. Let's draw the baby.",
-          "kid": "Mark 40 weeks. Draw one cell at week 1. Draw a heart at week 6. Draw fingers at week 12.",
+          "do": "1. Mark 40 weeks along the scroll, 5 centimetres apart. 2. Show each of these, by drawing or sticking on a picture. Week 1, one cell. Week 2, a ball of cells. Week 6, a beating heart. Week 8, a grape-sized embryo. Week 12, fingers and toes.",
+          "say": "In the first three months, all the main body parts form. The baby is still very small. Let's show each week on the scroll.",
+          "kid": "Mark 40 weeks. Show a cell at week 1. Show a heart at week 6. Show fingers at week 12. Draw or stick on pictures.",
           "context": "This is day 1 of the Forty-Week Scroll project. You mark the 40 weeks and draw the first three months of growing."
         },
         {
           "id": "s2",
           "mins": 20,
-          "do": "Draw weeks 13 to 28: week 16, fingerprints forming. Week 18, first kicks the mother feels. Week 20, halfway, banana-sized. Week 24, hearing sounds. Week 28, eyes opening.",
+          "do": "Write a short label at each of these weeks. Week 16, fingerprints forming. Week 18, first kicks the mother feels. Week 20, halfway, banana-sized. Week 24, hearing sounds. Week 28, eyes opening. Add a picture to any label, if you like.",
           "say": "In the middle months, the baby moves a lot. They start to hear. Their fingerprints form.",
-          "kid": "Draw the middle months. Fingerprints at week 16. Kicks at week 18. Hearing at week 24.",
+          "kid": "Write the middle months on your scroll. Fingerprints at week 16. Kicks at week 18. Hearing at week 24.",
           "wait": "Do this on day 2.",
           "check": {
             "t": "mcq",
@@ -1928,9 +1928,9 @@
         {
           "id": "s3",
           "mins": 20,
-          "do": "1. Draw weeks 29 to 40: getting chubby, head turning down. 2. Draw birth at the very end. 3. Show the scroll to a family member and explain it.",
+          "do": "1. Show weeks 29 to 40: getting chubby, head turning down. 2. Show birth at the very end. You can draw it or stick on a picture. 3. Show the scroll to a family member and explain it.",
           "say": "In the last months, the baby grows big and fat, and their lungs get ready. Then comes birth. Now tell someone the whole story.",
-          "kid": "Draw the last months and birth. Then show your scroll to someone. Tell them the story.",
+          "kid": "Finish the last months and birth. Then show your scroll to someone and tell them the story.",
           "wait": "Do this on day 3.",
           "ask": [
             {
@@ -1972,7 +1972,7 @@
         "Hang the egg in the middle of a box on stretchy rubber bands, so it bounces gently.",
         "Use a ball of soft dough around the egg, like a thick cushion."
       ],
-      "your_turn": "Now design your own carrier. Draw it first. Then build it, test it on the stairs, and check the egg. What would you change?",
+      "your_turn": "Now design your own carrier. Tell your plan to a grown-up, or sketch it first. Then build it, test it on the stairs, and check the egg. What would you change?",
       "context": "This is a design challenge. You build a carrier that keeps a raw egg safe, using ideas from how the womb protects a baby.",
       "setup": [
         {
@@ -2010,9 +2010,9 @@
         {
           "id": "s2",
           "mins": 15,
-          "do": "Your child draws a design, then builds it.",
-          "say": "Draw it first. Then build it. Remember, it has to fit in one hand.",
-          "kid": "Draw your carrier. Then build it.",
+          "do": "Your child explains a plan, or sketches one, then builds it.",
+          "say": "Tell me your plan first. Then build it. Remember, it has to fit in one hand.",
+          "kid": "Tell your grown-up your plan. Then build it. You can sketch it first if you like.",
           "context": "This is the building step of the Egg-Baby Carrier challenge. You design and build a carrier for a raw egg."
         },
         {
@@ -2063,7 +2063,7 @@
         "Make a pocket in the cloth for the doll's bottom, like a kangaroo's pouch.",
         "Add a rolled towel as a head cushion."
       ],
-      "your_turn": "Now design your own sling. Draw it, tie it with a grown-up, and walk around the room. Does the head stay up? Is the face clear?",
+      "your_turn": "Now design your own sling. Tell your plan to a grown-up, or sketch it. Then tie it together and walk around the room. Does the head stay up? Is the face clear?",
       "context": "This is a design challenge. Newborns cannot hold up their heads, so you design a cloth sling that supports a doll's head safely.",
       "setup": [
         {
@@ -2091,9 +2091,9 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "Your child designs and, with help, ties a sling.",
-          "say": "Draw your idea first. Then we tie it together.",
-          "kid": "Draw your sling. Then tie it with a grown-up.",
+          "do": "Your child explains a plan, or sketches one, and with help ties a sling.",
+          "say": "Tell me your idea first. Then we tie it together.",
+          "kid": "Tell your grown-up your plan. Then tie the sling together. You can sketch it first if you like.",
           "adult": true,
           "parent": "Real slings for real babies should be checked by a health worker. This challenge is only with a doll or a toy.",
           "context": "This is the making step of the Hold My Head challenge. You design and tie a cloth sling for a doll."

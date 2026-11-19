@@ -522,15 +522,15 @@
      "mins": 3,
      "do": "1. Cut out the 20 cards and the sorting mat. 2. Shuffle the cards. 3. Put the pile face up next to the mat.",
      "say": "Animals learn in different ways. Each card is a true fact about an animal. Your job is to guess how they learned to do this.",
-     "kid": "Cut out the cards. Mix them up. Each card is a true animal fact. Guess how the animal learned to do this.",
+     "kid": "Cut out the 20 cards and the mat. Mix the cards up.",
      "context": "This is the first step of How Did They Learn?, a card game about the ways animals learn."
     },
     {
      "id": "s2",
      "mins": 3,
-     "do": "Play the spider card as a practice round.",
-     "say": "A baby spider spins her first web without ever seeing one made. Which box?",
-     "kid": "A baby spider spins her first web. She never saw one made. Which box?",
+     "do": "Read the spider card aloud as a practice round.",
+     "say": "Let's practise with one card first. It says: a baby spider spins her first web without ever seeing one made.",
+     "kid": "Listen to the practice card. Then pick the answer you think is right.",
      "check": {
       "t": "mcq",
       "q": "A baby spider spins her first web without ever seeing one made. How did she learn it?",
@@ -562,7 +562,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Count the cards. Look at the box with the most cards on the mat.",
+     "do": "Each player counts their cards. Look at which box has the most cards on the mat.",
      "say": "Most things animals do mix being born able with learning. Pick one card that could have fitted two boxes, and tell me why.",
      "kid": "Count your cards. Pick one card that could fit two boxes. Say why.",
      "parent": "Good answers: the weaver bird, who is born able to weave and gets better with practice. Or the dog who sits for a treat, because dogs are born able to learn from rewards. The point is that instinct and learning often work together."
@@ -621,7 +621,7 @@
      "mins": 2,
      "do": "1. Cut out the 8 cards and shuffle them. 2. Make a line of players.",
      "say": "We are going to pass actions along a line, without any words. Let's see if they arrive the same.",
-     "kid": "Make a line. You will copy actions with no words. Will they arrive the same?",
+     "kid": "Stand in a line. You will pass actions along it, with no words.",
      "context": "This is the first step of Action Telephone, a copying game."
     },
     {
@@ -629,7 +629,7 @@
      "mins": 10,
      "do": "Play 3 or 4 rounds, starting with a different player each time. After each round, read the card and compare.",
      "say": "What changed on the way? What stayed the same?",
-     "kid": "Copy what you see. At the end, check the card. What changed?",
+     "kid": "Copy the actions you see, then show them to the next player. At the end, check the card.",
      "ask": [
       {
        "q": "Which actions got lost or changed most often?",
@@ -645,7 +645,7 @@
      "mins": 3,
      "do": "Talk about why some actions arrived and others did not.",
      "say": "Scientists did this with chimpanzees and a puzzle box. A way of opening the box passed along a chain of six chimpanzees. Why do you think some of our actions got lost?",
-     "kid": "Scientists tested chimpanzees in a line like this. The chimpanzees passed a way of opening a box along the line.",
+     "kid": "Think about the last round. Who was each player copying?",
      "check": {
       "t": "mcq",
       "q": "In Action Telephone, why do some actions change along the line?",
@@ -681,7 +681,7 @@
    "title": "The Useless Step Test: do people copy a step that does nothing?",
    "mins": 30,
    "days": 1,
-   "context": "This is the main test of the unit. You show people how to open a clear box with a prize inside. One step does nothing. Do they copy it?",
+   "context": "This is the main test of the unit. You show people how to open a clear box with a prize inside. One step does nothing. You will find out whether people copy it anyway.",
    "question": "If you show people how to open a box, and one step clearly does nothing, will they copy that step?",
    "predict": "Guess first. When each person opens the box, will they tap the lid like you did? Will they turn the box around? Why do you think so?",
    "fair_test": "Every person sees exactly the same show, with the same words. Test one person at a time, while the others wait in another room, so nobody copies anybody but you. Put the box, the spoon and the prize back in the same place each time.",
@@ -726,9 +726,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Put the prize in the clear box and close the lid. 2. Put the box and the spoon on a table. 3. Practise the show three times. Tap the lid twice with the spoon. Turn the box around once. Lift the lid and take the prize.",
+     "do": "1. Put the prize in the clear box and close the lid. 2. Put the box and the spoon on a table. 3. Watch your child practise the show three times. The show is: tap the lid twice, turn the box once, lift the lid.",
      "say": "You are the scientist today. You will show people how to open this box. The tap and the turn do nothing. Only lifting the lid matters.",
-     "kid": "Put the prize in the box. Close the lid. Tap the lid twice with the spoon. Turn the box around once. Lift the lid and take the prize. Practise three times.",
+     "kid": "Learn the show. Tap the lid twice with the spoon. Turn the box around once. Lift the lid and take the prize. Practise it three times.",
      "parent": "The box must be clear, so everyone can see that tapping and turning do nothing. Your child should do the same show every time, at the same speed.",
      "context": "This is the first step of the Useless Step Test. Here you get the box ready and practise the show."
     },
@@ -737,7 +737,7 @@
      "mins": 3,
      "do": "Ask your child to guess what the people will do, and why. Write the guess at the top of the table.",
      "say": "What do you think? Will they tap the lid too? Will they turn the box? Why do you think so?",
-     "kid": "Guess first. Will they tap the lid? Will they turn the box? Why? Write your guess.",
+     "kid": "Make a guess before you test anyone. Write it at the top of your table.",
      "ask": [
       {
        "q": "Why might someone copy the tap, even though it does nothing?",
@@ -787,8 +787,8 @@
      "id": "s6",
      "mins": 5,
      "do": "1. Count how many people tapped and how many turned the box. 2. Help your child say what they think the answer is, what they saw, and why they think so. 3. Then tell them what chimpanzees did.",
-     "say": "Scientists did this test with chimpanzees and a clear box. Most chimpanzees skipped the useless step and went straight for the reward. Children kept copying it.",
-     "kid": "Count how many people tapped. Say what you think the answer is, what you saw, and why you think so. Then hear what the chimpanzees did.",
+     "say": "Scientists did this test with chimpanzees and a clear box. Most chimpanzees skipped the useless step and went straight for the reward.",
+     "kid": "Count how many people tapped the lid. Say what you saw and what you think it shows. Then hear what the chimpanzees did.",
      "check": {
       "t": "mcq",
       "q": "Chimpanzees were shown a clear puzzle box with a useless step. Most skipped that step. What did most children do?",
@@ -860,14 +860,14 @@
      "what": "Show the first person one door. Each person shows the next. Record the door each one uses."
     }
    ],
-   "record": "Fill in the table. Draw the chain as a row of stick people, with an arrow from each to the next and the door they used.",
+   "record": "Fill in the table. Then show the chain as a row of people, with an arrow from each to the next and the door they used. Draw stick people, or lay out name cards in a row.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Put the prize in the box. 2. Choose a door in secret: top or side. 3. Write it on a slip of paper and fold it.",
      "say": "This box opens two ways. Both work. You choose one way to show, and keep it secret.",
-     "kid": "Put the prize in the box. Choose a door: top or side. Write it on paper. Keep it secret.",
+     "kid": "Choose which door you will show: top or side. Write it on a slip of paper and fold it. Keep it secret.",
      "adult": true,
      "parent": "If you are making the box now, cut the flaps for your child. Both flaps must open just as easily, or people will choose the easy one.",
      "context": "This is the first step of Pass It On, a test of how a way of doing things travels from person to person."
@@ -875,9 +875,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Write the guess.",
+     "do": "Ask your child for a guess and a reason. Write the guess down.",
      "say": "Will the last person use the door you chose? Why do you think so?",
-     "kid": "Guess. Will the last person use your door? Why?"
+     "kid": "Make your guess and say why. Your grown-up writes it down."
     },
     {
      "id": "s3",
@@ -943,7 +943,7 @@
    "title": "Who Taught You That?",
    "mins": 10,
    "days": 1,
-   "context": "This activity starts the unit with you. You list things you can do, and work out how you learned each one.",
+   "context": "You will find out which of the things you can do you were born able to do, and which you learned. First you list 8 things you can do. Then you sort them by how you learned each one.",
    "materials": [
     {
      "item": "a sheet of paper and a pencil",
@@ -964,15 +964,15 @@
      "mins": 4,
      "do": "1. Draw four columns on the paper. 2. Label them: born knowing, from what happened before, by watching others, by being told. 3. Ask your child to name 8 things they can do.",
      "say": "Tell me 8 things you can do. Anything at all: eat with your hand, ride a cycle, whistle, cry, draw a kolam or rangoli.",
-     "kid": "Name 8 things you can do. Anything: eat, cycle, whistle, cry, draw a kolam or rangoli.",
+     "kid": "Think of 8 things you can do and say them out loud.",
      "context": "This is the first step of Who Taught You That?, about how you learned what you can do."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Put each thing in a column. Talk about the ones that fit two columns.",
-     "say": "Who taught you that? Did you watch someone, or try until it worked, or were you born able to do it?",
-     "kid": "Put each thing in a column. Who taught you? Did you watch, try, or just know?",
+     "say": "Who taught you that? Did you watch someone, try until it worked, get told how, or were you born able to do it?",
+     "kid": "Decide which column each of your 8 things goes in. Some may fit in two.",
      "ask": [
       {
        "q": "Pick one thing that fits in two columns. Why does it fit both?",
@@ -988,7 +988,7 @@
      "mins": 2,
      "do": "Look at the 'born knowing' column.",
      "say": "Babies are born able to cry, suck and grab a finger. Almost everything else you can do, you learned.",
-     "kid": "Babies can cry and grab a finger from birth. Almost everything else, you learned.",
+     "kid": "Look at your born knowing column. How many things are in it?",
      "think": "Which of your things did you learn by copying someone, without knowing why each step mattered?"
     }
    ],
@@ -1033,7 +1033,7 @@
      "mins": 3,
      "do": "1. Lay the 6 things in a row on the floor, mixed up. 2. Say: 'Please pass me the dax.' 3. Don't point or look at any of them.",
      "say": "Please pass me the dax.",
-     "kid": "Your grown-up will ask for 'the dax'. Pick the one you think it is.",
+     "kid": "'Dax' is a made-up word. Your grown-up will ask you for the dax. Pick the one you think it is.",
      "parent": "'Dax' is a made-up word. Most children pick the one thing they have no name for. Look at the floor, not at the new thing, so your eyes don't give a clue.",
      "context": "This is the first step of Pick the New One, an activity about learning new names."
     },
@@ -1041,8 +1041,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Ask your child why they picked that one.",
-     "say": "Why did you pick that one? Had you ever heard the word 'dax'?",
-     "kid": "Why did you pick that one? Had you heard 'dax' before?",
+     "say": "Had you ever heard the word 'dax' before?",
+     "kid": "Tell your grown-up how you chose.",
      "ask": [
       {
        "q": "How did you know which one was the dax?",
@@ -1056,8 +1056,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Tell your child about Chaser.",
-     "say": "Chaser was a sheepdog who knew the names of 1,022 toys. Given a new name, she picked the only new toy, just as you did.",
-     "kid": "Chaser was a dog who knew 1,022 toy names. She picked the new toy for a new name. Just like you!",
+     "say": "Chaser was a sheepdog who knew the names of 1,022 toys. One day her owner put a toy she had never seen among the toys she knew. Then he asked for it by a name she had never heard.",
+     "kid": "Chaser was a dog who knew 1,022 toy names. She heard a new name. Which toy would she pick?",
      "check": {
       "t": "mcq",
       "q": "Chaser heard a name she had never heard. Several toys were in front of her, and only one was new to her. Which did she pick?",
@@ -1088,7 +1088,7 @@
    "title": "Termite Fishing: watch first, then copy",
    "mins": 20,
    "days": 1,
-   "context": "Young chimpanzees learn to fish for termites by watching their mothers. In this activity you fish for puffed rice with a sticky stick, before and after watching someone who knows how.",
+   "context": "Young chimpanzees learn to fish for termites by watching their mothers. In this activity you fish for puffed rice with a sticky stick, before and after watching someone who knows how. You will find out if watching first helps.",
    "materials": [
     {
      "item": "a plastic bottle with a narrow neck, or a tall steel tumbler",
@@ -1125,7 +1125,7 @@
      "mins": 3,
      "do": "1. Put the puffed rice in the bottle. 2. Put the bottle on the tray. 3. Put the honey on the plate next to it.",
      "say": "The puffed rice are termites inside a mound. The stick is your grass stem. Chimpanzees use stems like this.",
-     "kid": "The puffed rice are termites. The bottle is their mound. The stick is your fishing stem.",
+     "kid": "Pretend the puffed rice are termites. The bottle is the mound. The stick is the grass stem.",
      "context": "This is the first step of Termite Fishing, an activity about learning a tool skill by watching."
     },
     {
@@ -1154,8 +1154,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Add up the grains before watching and after watching. Clean up the honey.",
-     "say": "At Gombe in Tanzania, young chimpanzee daughters watched their mothers fish a lot. They pushed their stems in just as deep as their mothers.",
-     "kid": "Add up your grains. Did watching help? Chimpanzee daughters copied how deep their mothers went.",
+     "say": "Let's compare your two totals. Young chimpanzees at Gombe in Tanzania learn termite fishing too. It takes them years.",
+     "kid": "Add up your grains from before watching and after watching. Which total is bigger?",
      "check": {
       "t": "mcq",
       "q": "Young chimpanzees at Gombe learn termite fishing. What did the daughters do that helped them learn younger?",
@@ -1224,11 +1224,11 @@
      "id": "s2",
      "mins": 5,
      "do": "For each animal, talk about how they might have learned what they did.",
-     "say": "Do you think that crow was born knowing the bins have food? Or did they learn it? How?",
-     "kid": "Pick one animal. Do you think they learned this? How?",
+     "say": "Pick one animal you saw. Do you think she was born knowing this, or did she learn it?",
+     "kid": "Choose the animal you found most interesting. Tell your grown-up what it did.",
      "ask": [
       {
-       "q": "How could you test whether the pigeons learned the feeding time?",
+       "q": "Pick an animal you saw near food. How could you test whether they learned when the food comes?",
        "good": [
         "Watch the same spot at the same time on a day when nobody feeds them.",
         "See if they come before the grain is thrown."
@@ -1316,8 +1316,8 @@
      "id": "s2",
      "mins": 20,
      "do": "On days 2 and 3, do the same, but swap the places of the plates each day.",
-     "say": "Why do we swap the places?",
-     "kid": "Swap the plates' places today. Watch again. Write it down.",
+     "say": "Today we swap the places of the two plates.",
+     "kid": "Swap the plates' places today. Watch for 5 minutes. Write which plate the first bird goes to.",
      "ask": [
       {
        "q": "Why swap the plates' places each day?",
@@ -1333,7 +1333,7 @@
      "mins": 10,
      "do": "On day 4, put a little rice on both plates, with the red plate on the side it was not on yesterday. Write which plate the first bird goes to.",
      "say": "Both plates have food today. Which one will the first bird pick?",
-     "kid": "Put rice on both plates. Which one does the first bird go to?",
+     "kid": "Put rice on both plates, with red on the other side from yesterday. Write which plate the first bird goes to.",
      "wait": "Come back tomorrow."
     },
     {
@@ -1341,7 +1341,7 @@
      "mins": 15,
      "do": "1. On day 5, swap the sides once more and test again with food on both plates. 2. Make a tally chart of all 5 days.",
      "say": "What does the chart show? Did the birds learn the red plate?",
-     "kid": "Test again. Make a tally chart. Did the birds learn the red plate?",
+     "kid": "Test again with rice on both plates. Then make a tally chart of all 5 days.",
      "parent": "Birds may not learn in 3 days, or the first bird may be a new one each day. That is still a result. Say what you would change, such as more days.",
      "check": {
       "t": "mcq",
@@ -1402,22 +1402,22 @@
     "Make the box clear by using a plastic bottle, so people can see inside."
    ],
    "your_turn": "Now design your own two-way box. Test it: time how long each door takes to open. If one is much quicker, change it until they match.",
-   "context": "This is an engineering challenge. You build the box used in the Pass It On test.",
+   "context": "This is an engineering challenge. You will build a box with two doors that are equally easy to open, so the Pass It On test is fair.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Look at the materials. Talk about what makes two doors equally easy.",
      "say": "If one door is easier, everyone will pick that one, and the test won't tell us anything about copying.",
-     "kid": "Plan your box. Both doors must be just as easy. Why does that matter?",
+     "kid": "Look at the materials. Think about how to make both doors just as easy to open.",
      "context": "This is the first step of the Two-Door Prize Box challenge."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "Draw the design. A grown-up cuts the flaps. Your child tapes on the handles.",
-     "say": "Draw it first. Show me where each door goes.",
-     "kid": "Draw your box. Show both doors. A grown-up cuts the flaps. You tape the handles.",
+     "do": "Help your child plan the box on paper or in pencil on the box. Cut the flaps yourself. Your child tapes on the handles.",
+     "say": "Show me where each door goes. Draw it on paper, or mark it on the box.",
+     "kid": "Show where both doors go, on paper or in pencil on the box. A grown-up cuts the flaps. Then you tape on the handles.",
      "adult": true
     },
     {

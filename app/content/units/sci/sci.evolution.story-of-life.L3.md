@@ -226,7 +226,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 - **s1 (2 min)**  
   *Parent does:* Shuffle the letter cards. Give each player a chain card.  
   *Parent says:* Each of you is a chain of RNA. You need to build your partner chain from the letters floating around.  
-  *Child mode:* Take a chain card. You are a chain of RNA. Build your partner chain.
+  *Child mode:* Take a chain card. Look at its letters. Which partner letters will you need?
 - **s2 (10 min)**  
   *Parent does:* Play until someone finishes their partner chain.  
   *Parent says:* Remember: A goes with U, C goes with G. You can place a card under any letter that has no partner yet.  
@@ -242,7 +242,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 - **s1 (2 min)**  
   *Parent does:* Put 'The Earth forms' on the table with its date side up. Shuffle the other cards with the event side up and deal them out.  
   *Parent says:* These cards are events in the story of life. We have to put them in order, oldest first.  
-  *Child mode:* These are events in the story of life. Put them in order, oldest first.
+  *Child mode:* Look at your cards. Which event do you think is the oldest?
 - **s2 (10 min)**  
   *Parent does:* Take turns placing cards and checking the dates.  
   *Parent says:* Where does this one go? Before or after the stromatolites?  
@@ -250,8 +250,8 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   - Note: The hardest ones are usually oxygen and animals. Many children put animals much earlier than they came. That surprise is the point.
 - **s3 (3 min)**  
   *Parent does:* Count the points.  
-  *Parent says:* Let's check one thing from the line. Which came first: the first animals, oxygen filling the air, or dinosaurs dying out?  
-  *Child mode:* Count your points. Which came first: the first animals, oxygen in the air, or dinosaurs dying out?
+  *Parent says:* Count up everyone's points. Then we will check one thing about the line.  
+  *Child mode:* Count your points. Then answer the question below.
   - Check: In the story of life, which of these came first? → **Oxygen starts to fill the air**
 
 ## Experiments
@@ -261,18 +261,18 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 - **predict:** Guess first. Which nail will rust most: the nail in open tap water, the nail in boiled water sealed under oil, or the nail in open salty water? Which will rust least? Why do you think so?
 - **fair test:** Use three nails of the same kind and size, three jars of the same size, and the same amount of water in each. Keep the jars side by side in the same place. Only one thing changes in each jar: open water, water with little oxygen, or salty water.
 - **safety:** A grown-up boils the water and pours it. Let it cool until just warm before anyone touches the jar. Nails can be sharp at the tip.
-- **record:** Fill in the table each time you look. Draw each nail on day 3, colouring any rust orange.
+- **record:** Fill in the table each time you look. On day 3, take a photo of each nail, or draw it and colour any rust orange.
 - **results table:** Jar | What is in it | After 3 hours | After 1 day | After 2 days | After 3 days
-- **schedule:** day 1: Boil water for jar B. Set up the three jars. Make your guess. Look again after 3 hours. (20 min); day 2: Look at all three nails. Write and draw what you see. (5 min); day 3: Look again, take the nails out, compare them and say what you found. (10 min)
+- **schedule:** day 1: Boil water for jar B. Set up the three jars. Make your guess. Look again after 3 hours. (20 min); day 2: Look at all three nails. Write down what you see and take a photo. (5 min); day 3: Look again, take the nails out, compare them and say what you found. (10 min)
 - **s1 (3 min)**  
-  *Parent does:* 1. Show your child the three nails. 2. Ask them to guess which nail will rust most, and which least, and why.  
-  *Parent says:* We'll put these iron nails in three jars of water. In one jar we'll keep oxygen away. Which nail do you think will rust most? Which will rust least? Why?  
-  *Child mode:* Look at the three nails. Which will rust most? Which will rust least? Why do you think so?
+  *Parent does:* 1. Show your child the three nails. 2. Say what each will sit in: open tap water, boiled water under oil, or open salty water. 3. Ask them to guess which nail will rust most, and which least, and why.  
+  *Parent says:* We'll put these three iron nails in three jars of water. In one jar we'll keep the air, with its oxygen, away from the nail. Make a guess first.  
+  *Child mode:* Which nail will rust most? Which will rust least? Why do you think so?
   - Note: Write the guess and the reason down before you start. Don't say what you expect. Any guess with a reason is good.
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Boil about one glass of water in a small vessel for 5 minutes. 2. Put the lid on and let it cool for about 10 minutes, until warm.  
   *Parent says:* Boiling drives most of the air out of water. Air has oxygen in it. So boiled water has very little oxygen.  
-  *Child mode:* A grown-up boils some water. Boiling pushes the air out of it. So it has very little oxygen now.
+  *Child mode:* Watch the grown-up boil the water. Look for tiny bubbles rising. That is air leaving the water.
   - Note: Keep the lid on while it cools, so less air gets back in. You can set up jars A and C while it cools.
 - **s3 (5 min)**  
   *Parent does:* 1. Label the jars A, B and C. 2. Fill jar A half full of tap water. 3. Fill jar C half full of tap water and stir in 1 teaspoon of salt. 4. Drop one nail into each.  
@@ -290,9 +290,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   - Note: The nail in salty water often shows an orange haze first. Tap water may show nothing yet. That is fine. Rust takes time.
   - Wait: Leave the jars for 3 hours
 - **s6 (5 min)**  
-  *Parent does:* 1. Look at each nail on day 2. 2. Write and draw what you see. 3. Do not stir or move the jars.  
-  *Parent says:* Which nail has changed most? Which has changed least?  
-  *Child mode:* Look at the nails again. Which one has the most orange? Which has none? Draw them.
+  *Parent does:* 1. Look at each nail on day 2. 2. Write what you see, and take a photo of each nail. 3. Do not stir or move the jars.  
+  *Parent says:* Just look, and don't touch the jars. What has changed since yesterday?  
+  *Child mode:* Look at the nails again. Which one has the most orange? Which has none? Take a photo, or draw them.
   - Check: In jar B, the nail sat in boiled water under a layer of oil. Why did the oil matter? → **The oil kept air, with its oxygen, out of the water**
   - Wait: Come back tomorrow
 - **s7 (5 min)**  
@@ -313,12 +313,12 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 - **predict:** Guess first. Will you see anything in the glass with no food? Will the banana or the peas give more threads? Why do you think so?
 - **fair test:** Use the same amounts of salt, washing liquid, water and spirit for every glass. Only the food changes: banana, green peas, or none.
 - **safety:** Spirit catches fire easily and is poisonous to drink. A grown-up keeps the bottle, pours it, and keeps it far from the stove, lamps and flames. Wash hands afterwards. Don't eat anything used in the test.
-- **record:** Fill in the table. Draw what you saw in each glass.
+- **record:** Fill in the table. Take a photo of each glass, or draw what you saw.
 - **results table:** Glass | Food | What I saw in the spirit layer | How much (none, a little, a lot)
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Put the spirit in the freezer 30 minutes before you start. 2. Show your child the banana, the peas and an empty glass. 3. Ask for a guess and a reason.  
-  *Parent says:* Every cell holds a long chain molecule called DNA. It holds the instructions for that living thing. Do you think we can see it? Will the empty glass show anything? Why?  
-  *Child mode:* Every cell has instructions inside, in a chain called DNA. Can we see it? What will the empty glass show? Why?
+  *Parent says:* Every cell holds a long chain molecule called DNA. It holds the instructions for that living thing. We will try to pull DNA out of a banana and some peas.  
+  *Child mode:* Will we be able to see DNA? What will the glass with no food show? Why do you think so?
 - **s2 (5 min)**  
   *Parent does:* 1. Mix 1 cup warm water, 2 teaspoons salt and 4 teaspoons washing liquid. Stir gently, without making foam. 2. Mash the banana in one bag and the peas in another, each with 1 tablespoon of the mix, for 2 minutes.  
   *Parent says:* Mashing breaks the cells apart. The washing liquid breaks their thin skins. Salt helps the long DNA strands clump together, so we can see them.  
@@ -347,25 +347,25 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 
 ## Activities
 ### a1 · The Chain of Mothers: who came before? (8 min)
-- **record:** Keep the drawing. You will add to it at the end of the unit.
+- **record:** Keep the strip. You will add to it at the end of the unit.
 - **s1 (3 min)**  
-  *Parent does:* 1. At the right end of the strip, ask your child to draw themself. 2. To the left, draw their mother (or a mother they picture), then her mother.  
-  *Parent says:* Draw yourself at this end. Who did you come from? Draw her next to you. And who did she come from?  
-  *Child mode:* Draw yourself at the right end. Draw your mother next to you. Then her mother.
+  *Parent does:* 1. At the right end of the strip, ask your child to draw themself, or write their name. 2. To the left, add their mother (or a mother they picture), then her mother.  
+  *Parent says:* Put yourself at this end. Who did you come from? Put her next to you. And who did she come from?  
+  *Child mode:* Draw or write yourself at the right end. Then add your mother next to you, and her mother.
 - **s2 (3 min)**  
-  *Parent does:* Keep drawing to the left: her mother, and her mother's mother. When your child runs out of people to draw, use dotted lines for the very long ago.  
+  *Parent does:* Keep going to the left: her mother, and her mother's mother. Your child can say each name, or point to a family photo. When they run out of people, make dots for the very long ago.  
   *Parent says:* Every living thing is born from another living thing. If we draw one mother after another, who do we get to at the very end?  
-  *Child mode:* Draw her mother next, and then her mother's mother. When you run out of people, draw dots for the very long ago.
-  - Note: Children often draw cave people, then animals, then a fish. Let them. All are on the real path back. Don't correct the order now.
+  *Child mode:* Say who comes next, and put a name on the strip for each one. When you run out of people, make dots for the very long ago.
+  - Note: Children often name cave people, then animals, then a fish. Let them. All are on the real path back. Don't correct the order now.
 - **s3 (2 min)**  
-  *Parent does:* At the far left end, draw a big question mark.  
+  *Parent does:* At the far left end, write a big question mark.  
   *Parent says:* Every living thing came from another living thing. So where did the very first one come from? That is what this unit is about.  
-  *Child mode:* Draw a big question mark at the far end. Who was first? Where did they come from?
+  *Child mode:* Write a big question mark at the far end. It stands for the very first living thing.
   - Note: There is no sure answer yet. Scientists have ideas, and this unit looks at the leading one. It is fine for your child to say 'nobody knows'.
   - Think: If life only comes from life, how could the first life begin?
 ### a2 · The Time String: 4.5 billion years along a corridor (15 min)
 - **problem:** The Earth is 4.5 billion years old. That is too long to picture. You will lay out a string where each metre is one billion years. Then you will see where life, oxygen, animals and people come in.
-- **record:** Take a photo of the string, or draw it with the labels in order.
+- **record:** Take a photo of the string with its labels, or write the labels in order on paper.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the string straight along a corridor or across two rooms. 2. Mark one end 'Earth forms, 4.5 billion years ago' and the other 'Today'.  
   *Parent says:* Each metre is one billion years. This end is when the Earth formed. That end is today.  
@@ -373,15 +373,15 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 - **s2 (6 min)**  
   *Parent does:* 1. Measure from the Earth end. 2. Stick 'first oceans' at 10 cm and 'oldest stromatolites' at 1 metre. 3. Stick 'oxygen fills the air' at 2 metres 10 cm. 4. Stick 'Vempalle stromatolites in India' at 2 metres 50 cm.  
   *Parent says:* The oldest signs of life come one metre along. For the whole first metre, we have found no sure sign of life.  
-  *Child mode:* Measure and stick on each label. Where is the first life? How far from the start?
+  *Child mode:* Measure and stick on each label. How far from the start is the oldest life?
   - Note: Children are often surprised that oxygen only fills the air halfway along. We have no sure fossils from the first metre, partly because very few rocks that old survive.
 - **s3 (5 min)**  
   *Parent does:* 1. Now measure from the Today end. 2. Stick 'first animals' at 60 cm and 'dinosaurs die out' at 6.6 cm. 3. Make a pencil dot right at the end for 'first people'.  
   *Parent says:* Animals only appear in the last 60 centimetres. Dinosaurs died out about 6 and a half centimetres from the end. People are just the last pencil tip.  
   *Child mode:* Measure from the Today end. Animals come 60 cm from the end. Where are people?
   - Note: They were making their own food from sunlight, making oxygen, and building stromatolites, layer by layer, for billions of years. For most of the Earth's story, all life was tiny.
-  - Check: On the time string, one metre is one billion years. The string is 4.5 metres long. For how much of it was there only life too small to see, or no life at all? → **About 3.9 metres, until the first animals**
-  - Think: For most of the Earth's story, the only life was too small to see. What were they doing all that time?
+  - Check: On the time string, one metre is one billion years. The string is 4.5 metres long. For how much of the string was there no life, or only tiny life? → **About 3.9 metres, until the first animals**
+  - Think: For most of the Earth's story, the only life was too small to see. What were those tiny living things doing all that time?
 ### a3 · Copy the Chain: how RNA letters make a copy (12 min)
 - **problem:** RNA is a chain of four kinds of letters: A, U, C and G. A pairs with U, and C pairs with G. You will use paper letters to see how a chain can make a partner chain, and then make a copy of itself.
 - **record:** Write your first chain, its partner and the partner's partner, one under the other.
@@ -400,8 +400,8 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   - Check: A chain reads A C G U. Which is its partner chain? → **U G C A**
 - **s4 (3 min)**  
   *Parent does:* Now write the partner of the partner chain on paper, letter by letter, under the partner chain. Compare it with the first chain.  
-  *Parent says:* Now write a partner for the partner. What do you notice when you compare it with your first chain?  
-  *Child mode:* Write a partner for the partner chain. Look at your first chain. What do you see?
+  *Parent says:* Now write a partner for the partner. Then look at your first chain.  
+  *Child mode:* Write a partner for the partner chain. Is it the same as your first chain?
   - Note: The third chain matches the first exactly. That is how a chain can be copied: partner, then partner again. In cells, proteins help with this copying. In the RNA idea, the first RNA chains copied themselves with help only from chemicals around them, and maybe from other RNA.
 ### a4 · Copy Mistakes: how one chain becomes many (10 min)
 - **problem:** No copy is perfect. You will copy a chain of letters again and again, each time from your last copy. Then you will see what happens to the mistakes.
@@ -421,7 +421,7 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Child mode:* Circle every letter that changed. Did a mistake stay in the copies after it?
   - Note: Mistakes are how new kinds appear. A few mistakes can make a copy that lasts or copies better. If there were never any mistakes, life could never change. A checker stops too many mistakes, which would spoil the copies.
   - Check: In a copying game, a mistake is made in copy 3. Why does it show up in copies 4 to 8 too? → **Each copy was made from the copy before, so the mistake was copied too**
-  - Think: Living cells copy their DNA with a checker that fixes most mistakes. Why might it be good to keep a few?
+  - Think: Living cells copy their DNA with a checker that fixes most mistakes. Why might it be good to let a few mistakes through?
 ### a5 · Find a Living Film (in the monsoon, or by a damp corner) (10 min)
 - **safety:** Wash hands after touching the film. Stay away from roads and deep drains.
 - **record:** Draw or photograph the film. Write where you found it and whether it was in sun or shade.
@@ -436,9 +436,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Child mode:* Zoom in with the lens or the phone. Can you see one microbe? Or a carpet?
   - Note: You won't see single cells, which are far too small. You may see threads or a velvety surface. A carpet of microbes like this is what built stromatolites.
 - **s3 (2 min)**  
-  *Parent does:* Draw or photograph it, and write where you found it.  
+  *Parent does:* Take a photo of it, or draw it. Write where you found it.  
   *Parent says:* Is it in the sun or the shade? Why might that matter to living things that make food from light?  
-  *Child mode:* Draw it. Was it in sun or shade? Write it down.
+  *Child mode:* Take a photo or draw it. Was it in sun or shade? Write it down.
   - Note: Microbes that make food from sunlight need light, so a film in the sun is often greener and thicker than one in deep shade. Any answer that links light to food is a good one.
 ### a6 · Where Did Life Begin? A debate with evidence (15 min)
 - **record:** Write which idea you think is best, and your best reason.
@@ -460,16 +460,16 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
 ## Projects
 ### p1 · The Story of Life, Told by RNA: make a picture book (60 min, 3 days)
 - **record:** The finished book. On the back, list one thing in it that scientists know and one thing that is still an idea.
-- **schedule:** day 1: Plan 6 pages: the young Earth, the building blocks, RNA copying, the first cell skins, stromatolites, and the first oxygen. (20 min); day 2: Draw and write each page, with one or two sentences in RNA's own voice. (25 min); day 3: Add a last page, 'What nobody knows yet', and read the book aloud to your family. (15 min)
+- **schedule:** day 1: Plan 6 pages: the young Earth, the building blocks, RNA copying, the first cell skins, stromatolites, and the first oxygen. (20 min); day 2: Draw or stick a picture on each page, and write one or two sentences in RNA's own voice. (25 min); day 3: Add a last page, 'What nobody knows yet', and read the book aloud to your family. (15 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Fold and staple the book. 2. Together, list 6 page titles. 3. For each page, your child says one true sentence.  
   *Parent says:* RNA is telling the story. What happened first? What came next? Let's list six pages.  
   *Child mode:* Make your book. Plan six pages. What does RNA say on each one?
   - Note: Help with order: young Earth and sea, building blocks forming, RNA chains copying, chains inside fatty bubbles, stromatolites, oxygen rusting the sea. Keep each sentence true. Where it is only an idea, RNA can say 'Many scientists think...'.
 - **s2 (25 min)**  
-  *Parent does:* Draw and write each page.  
-  *Parent says:* Draw each page and write RNA's words. Keep it true.  
-  *Child mode:* Draw each page. Write what RNA says. Is each sentence true?
+  *Parent does:* Draw or stick a picture on each page, and write RNA's words.  
+  *Parent says:* Make each page now. Write what RNA says, and keep it true.  
+  *Child mode:* Draw each page, or stick on a picture cut from an old magazine. Write what RNA says. Is each sentence true?
   - Check: On one page, RNA says 'I was the very first life, for certain.' Is that a good sentence for a true book? → **No, it should say many scientists think so, but it is still being tested**
   - Wait: Come back tomorrow
 - **s3 (15 min)**  
@@ -491,9 +491,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Child mode:* What does a nail need to rust? Think back to the jars.
   - Note: Iron needs oxygen and water to rust. So any coat that keeps both away should work.
 - **s2 (5 min)**  
-  *Parent does:* Draw three ideas for keeping water and air away from the nail.  
-  *Parent says:* Engineers draw before they build. Draw three ways to keep the nail grey.  
-  *Child mode:* Draw three ideas. How can you keep water and air off the nail?
+  *Parent does:* Choose three coatings from the list, such as oil, wax or nail polish. Lay them out on the table.  
+  *Parent says:* Engineers choose their ideas before they build. Which three things might keep the nail grey?  
+  *Child mode:* Choose three things from home. Tell why each one might keep water off the nail.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* 1. Coat one nail with the best idea. 2. Put it in a glass of tap water. 3. Put an uncoated nail in another glass beside it. 4. Check over three days.  
   *Parent says:* Now test it. We'll compare your coated nail with a plain one.  
@@ -516,9 +516,9 @@ Nila took the pencil and wrote a chain of her own. Then she made its partner, an
   *Parent says:* First, let's see how many mistakes we make with no method at all.  
   *Child mode:* Copy the chain five times, fast. Count the mistakes in the last copy.
 - **s2 (5 min)**  
-  *Parent does:* Draw or list three ideas for copying with fewer mistakes.  
+  *Parent does:* Say or list three ideas for copying with fewer mistakes.  
   *Parent says:* How could you copy with fewer mistakes, and still be quick?  
-  *Child mode:* Think of three ways to make fewer mistakes. Write them down.
+  *Child mode:* Think of three ways to make fewer mistakes. Tell your helper, or write them down.
 - **s3 (15 min)**  
   *Parent does:* Try the best idea. Copy the same 20-letter chain five times again, on a fresh sheet, and count the mistakes.  
   *Parent says:* Test your best idea. Did you make fewer mistakes this time?  

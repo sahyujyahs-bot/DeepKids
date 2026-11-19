@@ -316,7 +316,7 @@
     "with friends",
     "with the family"
    ],
-   "context": "This is a card game about animal families. You match each animal to the ones who look after their young.",
+   "context": "This is a card game about animal families. You will find out that it is not always the mother who looks after the babies.",
    "printables": [
     {
      "kind": "cards",
@@ -466,7 +466,7 @@
      "parent": "Many children put every animal under 'Mother'. The penguin, seahorse, babbler and koel cards show that this is not always so.",
      "check": {
       "t": "mcq",
-      "q": "Who carries a seahorse's eggs until they hatch?",
+      "q": "Who looks after the seahorse eggs until the babies hatch?",
       "options": [
        "The mother",
        "The father",
@@ -479,9 +479,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Talk about the surprises.",
-     "say": "Which card surprised you most? Under which card would you put our family?",
-     "kid": "Which card surprised you? Where does our family go?",
+     "do": "Talk about the cards that surprised you. Then ask where your own family would go.",
+     "say": "Which card surprised you most? Why?",
+     "kid": "Pick the card that surprised you most.",
      "ask": [
       {
        "q": "Where would you put our family, and why?",
@@ -511,7 +511,7 @@
    "title": "The Home Work Count: who keeps our home running in one evening?",
    "mins": 45,
    "days": 1,
-   "context": "In this experiment you write down every home job done in your home in one evening, who did it and how long it took.",
+   "context": "In this experiment you write down every home job done in your home in one evening, who did it and how long it took. You will find out how much work keeps your home going, and who does it.",
    "question": "How many minutes of home work does our home need in one evening, and who does it?",
    "predict": "Before you start, guess. Who will do the most minutes of home work this evening? How many minutes will all the jobs add up to? Why do you think so?",
    "fair_test": "Count every person in the same way: the job, the start time and the end time, all from the same clock. Count everyone, including yourself, any house help or cook, and anyone looking after a baby or an elder. Ask everyone to have a normal evening, so the count shows a usual day. Count from 5 o'clock until bedtime.",
@@ -533,7 +533,7 @@
      "qty": 1
     },
     {
-     "item": "a sheet of paper and coloured pencils for the pictograph",
+     "item": "a sheet of paper and coloured pencils for the pictograph, or beans or buttons to lay out instead",
      "qty": 1
     }
    ],
@@ -544,14 +544,14 @@
      "what": "Guess first. Then write down every home job from 5 o'clock until bedtime. Add up the minutes for each person and draw a pictograph."
     }
    ],
-   "record": "Fill in the table. Then draw a pictograph with one clock for every 15 minutes of work, one row for each person.",
+   "record": "Fill in the table. Then make a pictograph with one clock (drawn, or a bean or button) for every 15 minutes of work, one row for each person.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Sit together before 5 o'clock. 2. Ask your child to name the home jobs that happen in an evening. 3. Write their guesses in the notebook.",
-     "say": "Tonight we will count every home job and time it. First, guess. Who will do the most minutes of work? How many minutes will it be in all? Why do you think so?",
-     "kid": "Tonight you count every home job. Guess first. Who will work the most? How many minutes in all? Why?",
+     "say": "Tonight we will count every home job and time it. First, guess. Who will do the most minutes of work? How many minutes will it be in all?",
+     "kid": "Guess who will work most tonight, and how many minutes in all.",
      "ask": [
       {
        "q": "Why do you think that person will do the most?",
@@ -567,9 +567,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Draw the results table in the notebook. 2. Tell the family about the count. 3. Ask everyone to have a normal evening.",
+     "do": "1. Rule a table in the notebook with six columns: Job, Who did it, Start time, End time, Minutes, Paid or unpaid. 2. Tell the family about the count. 3. Ask everyone to have a normal evening.",
      "say": "Please do everything as you always do. I am only counting, not checking anyone.",
-     "kid": "Draw the table. Ask everyone to do what they always do.",
+     "kid": "Make the table. Ask everyone to do what they always do.",
      "parent": "This count is not about blaming anyone. Nobody should be told off for doing few minutes. If people change what they do because they are being watched, the count will not show a usual evening. Remember to count jobs such as feeding a baby, helping with homework and giving medicine. These are care work."
     },
     {
@@ -602,9 +602,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Draw a pictograph. 2. Draw one clock for every 15 minutes, in one row for each person. 3. Draw part of a clock for a part of 15 minutes.",
+     "do": "1. Make a pictograph. 2. Put down one clock for every 15 minutes, in one row for each person. Draw the clocks, or lay out one bean or button for each 15 minutes. 3. For a part of 15 minutes, draw part of a clock or use half a bean.",
      "say": "Let's draw the minutes as clocks. One clock is 15 minutes. How many clocks does each person get?",
-     "kid": "Draw one clock for every 15 minutes. One row for each person.",
+     "kid": "Show each person's minutes in a row. One clock, bean or button is 15 minutes.",
      "parent": "If one person's total is 140 minutes, that is 9 clocks and a bit more, because 9 times 15 is 135."
     },
     {
@@ -612,7 +612,7 @@
      "mins": 5,
      "do": "Ask your child what the count showed, which numbers show it, and why they think it turned out that way. Compare this with the guess from the start.",
      "say": "Was your guess right? What did the count show? Who was paid, and who was not? Why do you think it is like that?",
-     "kid": "Was your guess right? Who did most? Who was paid?",
+     "kid": "Compare your guess with your numbers. Tell your grown-up what is different.",
      "ask": [
       {
        "q": "What did the count show you that you did not know before?",
@@ -647,7 +647,7 @@
    "title": "Many Hands: do two people fold clothes twice as fast?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you time how long it takes to fold a pile of clothes alone, with two people and, if a third person is at home, with three.",
+   "context": "In this experiment you time how long it takes to fold a pile of clothes alone, with two people and, if a third person is at home, with three. You will find out if two people really finish in half the time.",
    "question": "If two people fold a pile of clothes together, do they finish in half the time?",
    "predict": "Guess how long it will take you to fold 20 clothes alone. Then guess how long it will take with two people, and with three. Why do you think so?",
    "fair_test": "Use the same 20 clothes each time, and shake them out flat before each try. Fold them the same way each time. Time each try with the same clock. Fold alone at the start and again at the end, because practice can make you faster.",
@@ -677,14 +677,14 @@
      "what": "Fold the same 20 clothes alone, with two people, with three people if you can, and alone again. Time each try."
     }
    ],
-   "record": "Fill in the table, and draw a bar for each try.",
+   "record": "Fill in the table. Then draw a bar for each try, or just tell your grown-up which try was fastest.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Put 20 dry clothes in a heap on a mat or a bed. 2. Agree on one way to fold each kind. 3. Ask for guesses.",
      "say": "How long will 20 clothes take you alone? With two people? With three? Why do you think so?",
-     "kid": "How long will 20 clothes take you alone? With two? Why?",
+     "kid": "Guess the time for each try, and say why.",
      "parent": "Write down the guesses. Most children guess that two people take exactly half the time. If only two of you are at home, skip the three-person try.",
      "context": "This is the first step of the Many Hands test. You time how long it takes to fold clothes alone and with helpers."
     },
@@ -719,7 +719,7 @@
      "mins": 4,
      "do": "Shake out the clothes again. Your child folds all 20 alone a second time. Time it.",
      "say": "One more alone. Were you faster this time? Why might that be?",
-     "kid": "Fold alone once more. Were you faster?",
+     "kid": "Fold alone once more. Write the time.",
      "parent": "If the second try alone is much faster, practice helped. Compare the helper tries with the average of the two alone tries."
     },
     {
@@ -727,7 +727,7 @@
      "mins": 4,
      "do": "Look at the results together. Ask your child what the times showed, which numbers show it, and why they think it turned out that way.",
      "say": "Did two people take exactly half the time? If you tried three, did they take a third? Why not?",
-     "kid": "Did two of you take half the time? Why or why not?",
+     "kid": "Look at your times in the table. Compare them.",
      "ask": [
       {
        "q": "Why might two people not take exactly half the time?",
@@ -764,7 +764,7 @@
    "title": "One Word, Four Uncles: the relation words in your home language",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you list your relatives and find the word for each one, in your home language and in English.",
+   "context": "In this activity you list your relatives and find the word for each one, in your home language and in English. You will find out why English needs one word where your language has many.",
    "materials": [
     {
      "item": "a sheet of paper and a pencil",
@@ -783,7 +783,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw a table with three columns: 'How they are related to me', 'Our word', 'English word'. 2. Fill in Amma's brother, Amma's sister, Appa's brother and Appa's sister.",
+     "do": "1. Rule a table with three columns: 'How they are related to me', 'Our word', 'English word'. 2. Fill in Amma's brother, Amma's sister, Appa's brother and Appa's sister.",
      "say": "What do we call Amma's brother? And Appa's younger brother? Let's write our words, then the English words.",
      "kid": "Write what you call Amma's brother. Then Appa's brother. Then the English words.",
      "parent": "In Tamil, for example: Amma's brother is Mama, Appa's younger brother is Chithappa, Appa's elder brother is Periyappa, Appa's sister is Athai. In Hindi: Mama, Chacha, Tau, Bua. In Bengali: Mama, Kaka, Jethu, Pishi. Use your own family's words.",
@@ -802,7 +802,7 @@
      "mins": 5,
      "do": "Count the people English calls uncle. Then count the words your language has for the same people.",
      "say": "How many different people did English call uncle? How many words did our language use?",
-     "kid": "Count. How many people are 'uncle' in English? How many words do we have?",
+     "kid": "Count the people called 'uncle' in English. Then count our words for them.",
      "check": {
       "t": "mcq",
       "q": "In Tamil, Mama is your mother's brother and Chithappa is your father's younger brother. What does English call both of them?",
@@ -835,10 +835,10 @@
    "title": "Our Family Tree: three generations",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you draw your family tree, from your grandparents down to you.",
+   "context": "In this activity you make your family tree, from your grandparents down to you. You will see how three generations of your family are joined.",
    "materials": [
     {
-     "item": "a large sheet of paper or newspaper",
+     "item": "a large sheet of paper or newspaper, and small slips of paper for names",
      "qty": 1
     },
     {
@@ -862,9 +862,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. At the top, draw both pairs of grandparents. 2. Below, draw the parents and their brothers and sisters. 3. At the bottom, draw your child, their brothers and sisters, and their cousins.",
-     "say": "Who is at the top of our tree? Who are your grandparents? Let's draw them in a row.",
-     "kid": "Draw your grandparents at the top. Then your parents. Then you.",
+     "do": "1. At the top, put both pairs of grandparents. 2. Below, put the parents and their brothers and sisters. 3. At the bottom, put your child, their brothers and sisters, and their cousins. For each person, draw a small face, or write the name on a slip of paper and lay it down.",
+     "say": "Who is at the top of our tree? Who are your grandparents? Let's put them in a row.",
+     "kid": "Put your grandparents at the top. Then your parents. Then you.",
      "parent": "Join people with lines: a line across for a married couple and a line down to their children. If your family has a different shape, such as one parent, adoption or step-parents, draw it the way it really is. Every shape is a real family tree.",
      "context": "This is the first step of drawing your family tree, from grandparents to you."
     },
@@ -880,7 +880,7 @@
      "mins": 6,
      "do": "Count the people in each generation. Then ask how many great-grandparents your child has.",
      "say": "You have two parents and four grandparents. Each grandparent had two parents. How many great-grandparents is that?",
-     "kid": "Two parents. Four grandparents. How many great-grandparents?",
+     "kid": "Count the people in each row of your tree.",
      "check": {
       "t": "mcq",
       "q": "Each person has 2 parents and 4 grandparents. How many great-grandparents does each person have?",
@@ -912,7 +912,7 @@
    "title": "Family Handprints: what each pair of hands does",
    "mins": 15,
    "days": 1,
-   "context": "In this activity everyone in the family traces a hand on one sheet and writes one job their hands do for the family.",
+   "context": "In this activity everyone in the family traces a hand on one sheet and writes one job their hands do for the family. You will find out that every pair of hands, big or small, does work for the family.",
    "materials": [
     {
      "item": "a large sheet of paper",
@@ -956,7 +956,7 @@
      "mins": 4,
      "do": "Ask each person to say one job their hands do for the family. Write it inside the hand.",
      "say": "What do your hands do for our family? Tell me, and I will write it in.",
-     "kid": "Ask each person. What do your hands do for the family?",
+     "kid": "Ask each person for one job their hands do. Write it inside the hand.",
      "think": "Does the biggest hand do the most work?",
      "parent": "Usually not. A small hand can do a lot of work. What matters is what each person does for the family, not how big their hand is."
     }
@@ -978,7 +978,7 @@
    "title": "Games Our Grandparents Played",
    "mins": 25,
    "days": 1,
-   "context": "In this activity a grandparent, an older relative or a neighbour teaches you a game they played as a child.",
+   "context": "In this activity a grandparent, an older relative or a neighbour teaches you a game they played as a child. You will learn a game from long ago and find out how their childhood was different from yours.",
    "materials": [
     {
      "item": "whatever the game needs: for pallanguzhi, 14 small steel katoris or cups drawn on paper and about 80 tamarind seeds, beans or shells (the elder says how many go in each cup). For nondi, chalk or tape to mark squares on the floor.",
@@ -992,7 +992,7 @@
      "what": "Ask an elder what games they played as a child. Learn one and play it."
     }
    ],
-   "record": "Write the name of the game, who taught you, and the rules in three sentences.",
+   "record": "Write the name of the game, who taught you, and the rules in three sentences. Or say them into a phone voice recorder.",
    "flow": [
     {
      "id": "s1",
@@ -1035,7 +1035,7 @@
    "title": "A Thank-You Card for the Hidden Work",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make a card for someone whose home work you counted, saying exactly what they did.",
+   "context": "In this activity you make a card for someone whose home work you counted, saying exactly what they did. You will show them that their work was seen and counted.",
    "materials": [
     {
      "item": "a sheet of paper or card folded in half",
@@ -1089,7 +1089,7 @@
    "title": "Then and Now: how far did each woman in the family study?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you ask the women and girls in your family up to which class they studied, and compare generations.",
+   "context": "In this activity you ask the women and girls in your family up to which class they studied, and compare generations. You will find out how school was different for girls in each generation.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -1114,7 +1114,7 @@
      "mins": 12,
      "do": "Your child asks three or four women or girls from different generations: Up to which class did you study? Who decided? What work did you do at home as a child?",
      "say": "Ask the oldest woman in your family first, then your mother, then a girl cousin. Write down each answer.",
-     "kid": "Ask three women in your family. How far did you study? Who decided?",
+     "kid": "Ask three women in your family: How far did you study? Who decided?",
      "adult": true,
      "parent": "Phone calls to aunts and grandmothers far away work well. Some answers may be painful. Let the elder say as much or as little as they want.",
      "context": "This is the first step of Then and Now. You ask women in your family how far they studied."
@@ -1147,7 +1147,7 @@
    "title": "The Family Job Wheel: share the home work for a week",
    "mins": 65,
    "days": 7,
-   "context": "In this week-long project the family shares out home jobs with a turning wheel. It builds on the Home Work Count, so do that first. You count again at the end to see what changed.",
+   "context": "In this week-long project the family shares out home jobs with a turning wheel. It builds on the Home Work Count, so do that first. You count again at the end to find out if sharing the jobs changed who works the most.",
    "materials": [
     {
      "item": "two circles of cardboard from an old box, one a little smaller than the other",
@@ -1223,7 +1223,7 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "On day 7, do the Home Work Count again for one evening. Draw a new pictograph and put it next to the first.",
+     "do": "On day 7, do the Home Work Count again for one evening. Make a new pictograph the same way as before and put it next to the first. If you laid it out with beans, take a photo of each.",
      "say": "Let's count again. Did the rows of clocks change?",
      "kid": "Count again. Compare the two pictographs. What changed?",
      "wait": "Day 7",
@@ -1248,7 +1248,7 @@
    "id": "c1",
    "title": "A Dinner Everyone Helps Make",
    "mins": 30,
-   "context": "This is a planning challenge. You plan a simple dinner that every person in the family helps to make.",
+   "context": "This is a planning challenge. You plan a simple dinner that every person in the family helps to make. You will find out if the whole family can make dinner together in 30 minutes.",
    "problem": "In many homes one person makes the whole dinner. Plan a simple dinner that the whole family makes together in 30 minutes, with a safe job for every person, from the youngest to the oldest.",
    "constraints": [
     "Every person has at least one job.",
@@ -1274,9 +1274,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Choose a simple meal. List every job it needs.",
-     "say": "What will we make? What jobs does it need, from washing the rice to washing the plates?",
-     "kid": "Pick a meal. List every job, from start to end.",
+     "do": "Choose a simple meal. Write a list of every job it needs, from washing the rice to washing the plates.",
+     "say": "What will we make? Let's think of every job, from the first to the last.",
+     "kid": "Pick a meal. Say every job it needs, in order.",
      "context": "This is the first step of the Dinner Everyone Helps Make challenge."
     },
     {

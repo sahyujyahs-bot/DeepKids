@@ -320,7 +320,7 @@
     "alone",
     "2 to 4 players"
    ],
-   "context": "This is a memory card game. Each pair is a source of pollution and a way to make less of it. When you find a pair, you also say whether it pollutes air, water or land.",
+   "context": "This is a memory card game. Each pair is a source of pollution and a way to make less of it. You will find out that every kind of pollution has a fix. When you find a pair, you also say whether it pollutes air, water or land.",
    "printables": [
     {
      "kind": "cards",
@@ -396,7 +396,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Play until all pairs are found. When someone finds a pair, ask: air, water or land?",
-     "say": "Burning plastic! Does that pollute the air, the water or the land? Can it be more than one?",
+     "say": "Take burning plastic. Does it pollute the air, the water or the land? Can it be more than one?",
      "kid": "Found a pair? Say if it dirties air, water or land.",
      "parent": "Some sources pollute more than one: burning plastic dirties the air, and its ash dirties the land. Give the point for any honest reason."
     },
@@ -404,8 +404,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "Let's check one pair. A neighbour burns dry leaves every morning. Which fix makes no smoke at all?",
-     "kid": "A neighbour burns dry leaves every day. Which fix makes no smoke at all?",
+     "say": "Let's check one pair before we stop.",
+     "kid": "Think about what happens to the leaves with each fix. Pick the one that makes no smoke.",
      "check": {
       "t": "mcq",
       "q": "A neighbour burns dry leaves every morning. Which fix makes no smoke at all?",
@@ -427,7 +427,7 @@
    "title": "The Sticky Card Test: what is in the air at your window?",
    "mins": 30,
    "days": 4,
-   "context": "In this experiment you put sticky cards in three places for three days, then count the specks the air leaves on them.",
+   "context": "In this experiment you put sticky cards in three places for three days, then count the specks the air leaves on them. You will find out whether air that looks clear is carrying dust.",
    "question": "Does the air at our window leave dust on a sticky card, even where nothing can fall on it? Does it leave more than on a card the air cannot reach?",
    "predict": "Guess first. After three days, which card will have the most specks: the flat one on the sill, the upright one on the grill, or the one in the closed dabba? Will the upright card catch anything at all? Why do you think so?",
    "fair_test": "All three cards are the same size, with the same square and the same thin layer of jelly, and stay out for the same three days. Only the place changes. The card in the closed dabba is the control: it shows what a card looks like when the air cannot reach it, so we know the specks on the others came from the air.",
@@ -484,7 +484,7 @@
      "what": "Bring the cards in. Look with the magnifying glass. Count the specks in one corner of each square. Fill in the table and say what you found."
     }
    ],
-   "record": "Fill in the table. Draw what the specks looked like under the glass. Stick the three cards in your notebook with clear tape over them.",
+   "record": "Fill in the table. Say or draw what the specks looked like under the glass. Stick the three cards in your notebook with clear tape over them.",
    "setup": [
     {
      "art": "A child drawing a square, as big as a thumbnail, in the middle of a white card with a ruler and pencil, with two more cards beside it labelled A, B and C on the back.",
@@ -526,7 +526,7 @@
      "mins": 3,
      "do": "Ask your child to guess which card will catch most, and why. Write the guess in the notebook.",
      "say": "One card lies flat on the sill. One stands upright on the grill, so nothing can fall on it. One goes in a closed dabba. Which will be dirtiest after three days? Why do you think so?",
-     "kid": "Which card will be dirtiest after three days? Will the standing card catch anything? Say why.",
+     "kid": "Point to the card you think will be dirtiest. Then say why.",
      "ask": [
       {
        "q": "Why might the upright card catch less than the flat one?",
@@ -599,7 +599,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three things: what they found out (the claim), what they saw that shows it (the evidence), and why they think it happened (the reason).",
      "say": "Tell me what you found out, what you saw that shows it, and why you think it happened.",
-     "kid": "Say three things: what you found out, what you saw that shows it, and why you think it happened.",
+     "kid": "Say three things. What you found out. What you saw that shows it. Why you think it happened.",
      "ask": [
       {
        "q": "What did you find out?",
@@ -620,7 +620,7 @@
    "title": "The Leaf Wipe: where does dust sit on a plant?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you wipe leaves of a potted plant with damp cotton to find where dust settles, and think about what it means for the plant.",
+   "context": "In this experiment you wipe leaves of a potted plant with damp cotton to find where dust settles, and think about what it means for the plant. You will find out which side of a leaf collects more dust.",
    "question": "On a potted plant near a window, is there more dust on the top of a leaf or underneath it? Is there more on an outer leaf or an inner one?",
    "predict": "Guess first. Will the top of a leaf be dirtier than the underside? Will a leaf on the outside of the plant, facing the window, be dirtier than one tucked inside? Why do you think so?",
    "fair_test": "Use the same size of cotton ball, damp the same amount, and wipe each leaf with three gentle strokes. Wipe leaves of about the same size and age. Only the side or the place of the leaf changes.",
@@ -654,7 +654,7 @@
      "what": "Wipe the top and underside of three leaves, lay out the cotton balls and compare."
     }
    ],
-   "record": "Lay the cotton balls on the labelled paper. Draw them, shading each one as grey as it is. Write which side of the leaf was dirtiest.",
+   "record": "Lay the cotton balls on the labelled paper, from whitest to greyest, and take a photo. Write which side of the leaf was dirtiest.",
    "setup": [
     {
      "art": "A child dipping a white cotton ball in a small bowl of water and squeezing it out over a potted tulsi on a balcony.",
@@ -675,7 +675,7 @@
      "mins": 3,
      "do": "Look at the plant together. Ask for a guess and a reason.",
      "say": "This plant has stood by the window for days. Where on their leaves do you think the dust has landed? Top, underside, outside or inside? Why do you think so?",
-     "kid": "Look at the plant. Where is the dust? Top of the leaf, or underneath? Say why.",
+     "kid": "Look closely at a leaf. Point to the place where you think the dust sits.",
      "context": "This is the first step of the Leaf Wipe. You find where dust settles on a potted plant.",
      "parent": "Wait for a guess and a reason. Most children guess the top, which is a good start. Fewer think about outer and inner leaves."
     },
@@ -691,8 +691,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Compare the six cotton balls. Ask the check question.",
-     "say": "Which ball is greyest? Which is whitest? What does that tell us?",
-     "kid": "Which ball is the greyest? Which leaf did it come from?",
+     "say": "What do you notice about the balls from the top of the leaves and the balls from underneath?",
+     "kid": "Line up the six balls from whitest to greyest. Point to the greyest one.",
      "check": {
       "t": "mcq",
       "q": "The cotton from the top of the leaf is grey. The cotton from underneath is nearly white. Why?",
@@ -709,8 +709,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Talk about what the dust means for the plant.",
-     "say": "A leaf makes the plant's food from sunlight. What does a layer of dust do to the sunlight? How does a plant outdoors get the dust off?",
-     "kid": "Leaves need sunlight to make food. What does dust do to the light?",
+     "say": "A leaf makes the plant's food from sunlight. What would a layer of dust do to the sunlight? How does a plant outdoors get clean?",
+     "kid": "The grey on the cotton is dust. Picture that grey layer sitting on a leaf.",
      "ask": [
       {
        "q": "Why is dust a problem for the plant?",
@@ -730,7 +730,7 @@
    "title": "Through the Soil: what does soil stop, and what goes through?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you pour dirty, salty water through soil in a cut bottle, then dry a spoonful to see what came through.",
+   "context": "In this experiment you pour dirty, salty water through soil in a cut bottle, then dry a spoonful to see what came through. You will find out whether soil cleans dirty water, and what it cannot stop.",
    "question": "When dirty water soaks into the ground, does the soil clean it? Does it stop the mud? Does it stop the salt?",
    "predict": "Guess first. We pour muddy, salty water through a bottle of soil. Will the water that comes out be clear? Will the salt stay in the soil, or come through? Why do you think so?",
    "fair_test": "Dry one spoonful of the water that came through the soil, and one spoonful of plain tap water, side by side on the same steel plate, in the same place. Only the water changes. The tap water spoonful is the control. Potting soil can add a little salt of its own, so compare what the two spoonfuls leave behind, instead of looking only at the crust from the soil water.",
@@ -773,7 +773,7 @@
      "what": "Build the soil filter, pour the dirty salt water through, and put two spoonfuls on a plate to dry in a sunny window. Look again when they are dry, after a few hours or overnight."
     }
    ],
-   "record": "Draw the soil filter, with the dirty water going in and the water coming out. Draw the two dry spots on the plate and label them.",
+   "record": "Take a photo of the soil filter and of the two dry spots on the plate, or draw them. Label the two spots.",
    "setup": [
     {
      "art": "A plastic bottle cut in half, the top half turned upside down inside the bottom half, with a cotton plug in the neck and soil filling the top half.",
@@ -804,7 +804,7 @@
      "mins": 4,
      "do": "1. Stir 2 teaspoons of salt into each of two glasses of water until you can't see it. 2. Add 1 spoon of soil to one glass and stir to make it muddy. 3. Pour a little of the muddy water into the small cup and keep it. 4. Ask for a guess and a reason.",
      "say": "This is our dirty water. It has mud we can see, and salt we can't see, because the salt has dissolved. Dissolved means broken up into pieces too small to see, spread all through the water. What will come out of the bottom? Why do you think so?",
-     "kid": "Stir salt into the water. Stir in some soil too. What will come out of the bottle? Say why.",
+     "kid": "Stir 2 spoons of salt into each glass. Stir some soil into one glass.",
      "ask": [
       {
        "q": "Will the salt come through?",
@@ -821,7 +821,7 @@
      "mins": 10,
      "do": "1. Pour the muddy salt water slowly onto the soil. Then pour the second glass of salt water in the same way, so enough water comes through. 2. Wait for the water to drip through, about 5 minutes. 3. Compare the water that came out with the muddy water you kept in the cup.",
      "say": "Look at the water dripping out. Is it clearer than what went in?",
-     "kid": "Pour the water in slowly. Wait. Is the water that comes out clearer?",
+     "kid": "Pour the water in slowly. Wait and watch the drips. Hold them next to the muddy water in the cup.",
      "parent": "The first drips may be brown, because some fine soil washes through. Pour the first half cup back through once, and it comes out clearer. Clean soil stops most of the mud. Dry soil soaks up a lot of water, so if only a few drops come out, pour in more water or wet the soil first."
     },
     {
@@ -836,8 +836,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Look at the dry plate together. Ask the check question.",
-     "say": "What is left where each spoonful dried?",
-     "kid": "Look at the plate. What is left where the water dried?",
+     "say": "Compare the two dried spots. What is left behind in each?",
+     "kid": "Look at the two dry spots. Point to the one with more left.",
      "check": {
       "t": "mcq",
       "q": "The water that came through the soil left a thick white crust. The tap water left only a faint ring. What does this show?",
@@ -861,7 +861,7 @@
    "title": "The White Cloth Wipe: is the window grill dirty?",
    "mins": 10,
    "days": 1,
-   "context": "In this quick activity you wipe a window grill and a cupboard shelf with a damp white cloth and compare.",
+   "context": "In this quick activity you wipe a window grill and a cupboard shelf with a damp white cloth and compare. You will find out whether the air leaves dirt on things.",
    "materials": [
     {
      "item": "two small pieces of old white cotton cloth, or two cotton balls",
@@ -900,8 +900,8 @@
      "id": "s1",
      "mins": 2,
      "do": "Show your child the two clean cloths. Ask for a guess.",
-     "say": "We are going to wipe the window grill and the inside of a cupboard. Which cloth will be dirtier? Why do you think so?",
-     "kid": "Which cloth will be dirtier? The window one or the cupboard one? Say why.",
+     "say": "We will wipe the window grill and the inside of a cupboard with two clean cloths. What do you think we will find?",
+     "kid": "Guess which place gives the dirtier cloth, the grill or the cupboard. Say why.",
      "context": "This is a quick wipe test. You find out whether the air leaves dirt on things.",
      "parent": "Wait for a reason, not just a guess."
     },
@@ -910,7 +910,7 @@
      "mins": 4,
      "do": "1. Dip the first cloth in water and squeeze it out. 2. Wipe one bar of the window grill, about as long as your hand. 3. Do the same inside a closed cupboard with the second cloth.",
      "say": "Wipe the same length on each, about as long as your hand. Then the test is fair.",
-     "kid": "Wet the cloth. Squeeze it. Wipe the grill, as long as your hand. Now wipe the cupboard shelf.",
+     "kid": "Wet the cloth. Squeeze it. Wipe the grill, as long as your hand. Wipe the cupboard shelf with the second cloth.",
      "parent": "A grill on the road side of the home usually leaves a dark grey or black streak within a few days of the last cleaning."
     },
     {
@@ -918,7 +918,7 @@
      "mins": 4,
      "do": "Compare the cloths. Talk about where the dirt came from.",
      "say": "Nobody poured dirt on the grill. Where did it come from?",
-     "kid": "Look at both cloths. Where did the black on the window cloth come from?",
+     "kid": "Hold the two cloths side by side. Which one is dirtier?",
      "ask": [
       {
        "q": "How did the dirt get onto the grill?",
@@ -939,7 +939,7 @@
    "title": "Smoke and Dust Hunt: where does our air pollution come from?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look around your home and out of the window, and list every source of smoke and dust you can find.",
+   "context": "In this activity you look around your home and out of the window, and list every source of smoke and dust you can find. You will find out where the smoke and dust around you come from.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -991,7 +991,7 @@
      "mins": 3,
      "do": "Look at the tally chart together.",
      "say": "Which source did you see most often? Which one do you think makes the most smoke?",
-     "kid": "Which did you see most? Which do you think is worst? Why?",
+     "kid": "Count the tally marks for each source. Point to the biggest number.",
      "ask": [
       {
        "q": "Is the source you saw most often the one that makes the most smoke?",
@@ -1010,7 +1010,7 @@
    "title": "Your Nose, the Dust Catcher",
    "mins": 8,
    "days": 2,
-   "context": "In this activity you look at the inside of your nose with a torch, and check a tissue after a dusty day and after a day at home.",
+   "context": "In this activity you look at the inside of your nose with a torch, and check a tissue after a dusty day and after a day at home. You will find out whether your nose catches more dust on a busy road day.",
    "materials": [
     {
      "item": "a mirror and a torch",
@@ -1034,7 +1034,7 @@
      "what": "In the evening after a day at home, blow your nose into a white tissue and compare."
     }
    ],
-   "record": "Draw what you saw inside your nose. Write the colour of each tissue: white, light grey or dark grey.",
+   "record": "Write the colour of each tissue: white, light grey or dark grey. Tell a grown-up what you saw inside your nose, or draw it.",
    "setup": [
     {
      "art": "A child holding a mirror and shining a torch up towards their nostril, seeing tiny hairs inside.",
@@ -1050,8 +1050,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Hold a mirror. Shine a torch towards one nostril and look inside.",
-     "say": "Can you see tiny hairs inside your nose? The inside is wet and sticky too. What do you think the hairs and the stickiness are for?",
-     "kid": "Look in the mirror with the torch. Can you see hairs inside your nose?",
+     "say": "The inside of your nose has tiny hairs, and it is wet and sticky too. What do you think the hairs and the stickiness are for?",
+     "kid": "Look in the mirror with the torch. Point out the hairs you can see.",
      "context": "In this step you look inside your nose, which catches dust from the air you breathe.",
      "parent": "The hairs catch bigger dust. The wet lining is mucus, which catches smaller dust."
     },
@@ -1059,7 +1059,7 @@
      "id": "s2",
      "mins": 2,
      "do": "On an evening after a trip on busy roads, blow your nose into a white tissue and look at it.",
-     "say": "Your nose has been catching dust all day, like the sticky card in the Sticky Card Test. What colour is the tissue?",
+     "say": "Your nose has been catching dust all day, like a sticky card. What colour is the tissue?",
      "kid": "Blow your nose into a white tissue. What colour is it?",
      "wait": "Do this on an evening after a trip out"
     },
@@ -1068,7 +1068,7 @@
      "mins": 3,
      "do": "On an evening after a day at home, do the same. Compare.",
      "say": "Which day did your nose catch more? Why?",
-     "kid": "Do it again after a day at home. Which tissue is greyer?",
+     "kid": "Do it again after a day at home. Then put the two tissues side by side.",
      "wait": "Do this on an evening after a day at home",
      "check": {
       "t": "mcq",
@@ -1090,7 +1090,7 @@
    "title": "Haze Watch: can you see the far tower today?",
    "mins": 10,
    "days": 5,
-   "context": "In this activity you look at the same far-away landmark from your window every morning for five days, and rate how clearly you see it.",
+   "context": "In this activity you look at the same far-away landmark from your window every morning for five days, and rate how clearly you see it. You will find out whether the air looks clearer on some days than others.",
    "materials": [
     {
      "item": "a window with a view of something far away, such as a water tank, a tower, a temple gopuram or a hill",
@@ -1166,7 +1166,7 @@
      "mins": 2,
      "do": "On day 5, rate the landmark once more, then compare all five days.",
      "say": "Which day was clearest? Did anything happen the day before, like rain, wind or a festival?",
-     "kid": "Which day was clearest? Which was haziest? What happened before?",
+     "kid": "Look at your five ratings. Point to the clearest day and the haziest day.",
      "ask": [
       {
        "q": "Why might the air be clearer after rain?",
@@ -1187,7 +1187,7 @@
    "title": "Clean-Air Week at Home",
    "mins": 50,
    "days": 5,
-   "context": "In this five-day project your family picks two changes that make less smoke at home, tries them for two days, and checks the kitchen air with a sticky card before and after.",
+   "context": "In this five-day project your family picks two changes that make less smoke at home, tries them for two days, and checks the kitchen air with a sticky card before and after. You will find out whether small changes really make less smoke.",
    "materials": [
     {
      "item": "2 sticky cards made as in the Sticky Card Test (white card, a 2 cm square, a thin layer of jelly), and cello tape",
@@ -1219,7 +1219,7 @@
     {
      "day": 5,
      "mins": 20,
-     "what": "Count the specks on the new card. Compare. Make a poster of what worked for the building notice board."
+     "what": "Count the specks on the new card. Compare. Make a poster for the building notice board about what worked, or tell a neighbour."
     }
    ],
    "record": "Keep the two cards side by side. Write down the counts, the two changes, and what each family member thought of them.",
@@ -1241,7 +1241,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "1. Make a sticky card. 2. Tape it on top of a kitchen cupboard, away from the flame. 3. Cook as usual for two days. 4. Together, list everything at home that makes smoke.",
+     "do": "1. Make a sticky card: draw a 2 cm square on white card and spread a thin layer of jelly in it. 2. Tape it on top of a kitchen cupboard, away from the flame. 3. Cook as usual for two days. 4. Together, list everything at home that makes smoke.",
      "say": "Let's find out how much smoke our kitchen air carries on ordinary days. Then we'll try to make less.",
      "kid": "Put a sticky card high up in the kitchen. Cook as usual. List what makes smoke at home.",
      "adult": true,
@@ -1250,7 +1250,7 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "1. Take the card down and count the specks in one corner of the square. 2. Choose two changes. 3. Put a fresh card in the same place.",
+     "do": "1. Take the card down and count the specks in one corner of the square. Count the same corner on the new card later. 2. Choose two changes. 3. Put a fresh card in the same place.",
      "say": "What could we change? The exhaust fan? A lid on the pan? No mosquito coil in the bedroom? Let's choose two, and keep everything else the same.",
      "kid": "Count the specks. Pick two changes with your family. Put up a new card in the same place.",
      "wait": "Leave the first card for 2 days",
@@ -1259,9 +1259,9 @@
     {
      "id": "s3",
      "mins": 20,
-     "do": "1. After two more days, count the specks on the new card. 2. Compare. 3. Make a poster for the building notice board.",
-     "say": "Did our changes make a difference? Was it a fair test? What else changed this week?",
-     "kid": "Count the specks on the new card. Did the changes work? Make a poster.",
+     "do": "1. After two more days, count the specks in the same corner of the new card. 2. Compare with the first card. 3. Make a poster for the building notice board, or tell a neighbour what worked.",
+     "say": "Look at both cards. Did our changes make a difference?",
+     "kid": "Count the specks on the new card. Is it greyer or cleaner than the first? Then tell a neighbour or make a poster.",
      "wait": "Leave the second card for 2 days",
      "ask": [
       {
@@ -1306,7 +1306,7 @@
     "Make a cloth roll that you only pull down on hazy days or when a building site next door is busy.",
     "Fold the cloth in pleats, so there is more cloth to catch dust in the same space."
    ],
-   "your_turn": "Now design your own filter. Draw it, build it, and test it with the two cards for two days. Did it stop dust? Did the tissue still flutter?",
+   "your_turn": "Now design your own filter. Plan it, build it, and test it with the two cards for two days. Did it stop dust? Did the tissue still flutter?",
    "setup": [
     {
      "art": "A cardboard frame covered with a single layer of white cotton cloth, taped to the inside of a window.",
@@ -1321,10 +1321,10 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Talk about the problem. Draw two ideas.",
+     "do": "Talk about the problem. Think of two ideas for a filter and say what each is made of.",
      "say": "We want fresh air but less dust. A wall stops dust but stops air too. What lets air through but catches specks?",
-     "kid": "Draw two ideas for a dust filter. Air must still get through!",
-     "context": "This is a design challenge: make a filter for a window that stops dust but not air."
+     "kid": "Think of two ideas for a dust filter. Tell your grown-up what you would use. Air must still get through!",
+     "context": "This is a design challenge: make a filter for a window that stops dust but not air. You will find out whether a filter made from things at home can stop dust."
     },
     {
      "id": "s2",
@@ -1338,8 +1338,8 @@
      "id": "s3",
      "mins": 7,
      "do": "After two days, compare the two cards.",
-     "say": "Which card has fewer specks? Did our filter work? What would you change?",
-     "kid": "Look at both cards. Which has fewer specks? What would you change?",
+     "say": "Look at both cards. Did our filter work? What would you change?",
+     "kid": "Count the specks in the same corner of each card. Point to the cleaner one.",
      "wait": "Leave the cards for 2 days",
      "ask": [
       {
@@ -1377,7 +1377,7 @@
     "Hold a swap morning in the building, where each family brings old things and takes what they need.",
     "Write what you want to let go of on a slip of paper, such as a bad habit, and tear it up for the compost."
    ],
-   "your_turn": "Now make your own plan for a smokeless Bhogi. Draw a poster for your building that explains it.",
+   "your_turn": "Now make your own plan for a smokeless Bhogi. Make a poster for your building that explains it, or tell it to your neighbours.",
    "setup": [
     {
      "art": "A child at a table listing old things on paper: old clothes, grass mat, broken toy, with arrows to 'kabadiwala', 'compost' and 'give away'.",
@@ -1402,15 +1402,15 @@
      "id": "s2",
      "mins": 15,
      "do": "List the old things in your home. For each, decide where it could go.",
-     "say": "Old clothes, old mats, broken toys. Where could each one go so it is useful again?",
+     "say": "Old clothes, old mats, broken toys. Where could each one go so it is useful again? The kabadiwala, who takes old things to reuse, a compost pit and giving away are three choices.",
      "kid": "List old things at home. Where could each one go? Write it next to it."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Make a poster with the plan.",
-     "say": "Our poster has to make people want to try it. What will we draw?",
-     "kid": "Draw a poster for your building. Show your smokeless Bhogi.",
+     "do": "Make a poster with the plan, or tell the plan to a neighbour.",
+     "say": "Our plan has to make people want to try it. What will we say or show?",
+     "kid": "Make a poster for your building, or tell a neighbour. Show your smokeless Bhogi.",
      "parent": "If your family does not celebrate Bhogi, the same plan works for clearing out before Diwali, Ugadi, Vishu, Onam or New Year."
     }
    ]

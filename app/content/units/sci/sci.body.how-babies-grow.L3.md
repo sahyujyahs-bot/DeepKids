@@ -267,22 +267,22 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **Printable tokens: 12 heart tokens:** Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token; Heart token
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the track. 2. Put the GROW and WONDER piles face down. 3. Give each player a button as a counter, on square 1. 4. Keep the hearts in a pile.  
-  *Parent says:* Each square is one week of growing in the womb. We all start as one tiny cell on square 1. Let's see who gets born first.  
-  *Child mode:* Put your button on square 1. That is you, as one tiny cell. Each square is one week.
+  *Parent says:* Each square is one week of growing in the womb. We all start as one tiny cell on square 1. Let's see what happens to the baby each week.  
+  *Child mode:* Put your button on square 1. That is you, as one tiny cell.
 - **s2 (3 min)**  
   *Parent does:* Read square 6 together before you start. Point at square 6 on the track.  
   *Parent says:* At about six weeks, the baby is as small as a grain of rice. But their heart is already beating. Can you feel your heart now?  
-  *Child mode:* Look at square 6. The heart starts beating there. Put your hand on your chest. Feel yours beat.
+  *Child mode:* Find square 6. Put your hand on your chest and feel your own heart beat.
   - Check: At about six weeks, how big is the growing baby? → **About as small as a grain of rice**
 - **s3 (10 min)**  
-  *Parent does:* 1. Take turns to roll and move. 2. Read aloud each square you land on. On a STAR, also take a GROW card. 3. When a player rolls a 6, read them a WONDER card.  
-  *Parent says:* Remember, whenever you land on a square, read out what is happening to the baby that week.  
-  *Child mode:* Roll and move. Read out the square you land on. Is it a star? Then take a GROW card.
+  *Parent does:* 1. Take turns to roll and move. 2. The player on your left reads out the square you land on. 3. On a STAR, take a GROW card. 4. When a player rolls a 6, read them a WONDER card.  
+  *Parent says:* Roll the die and move. The player on your left will read out what is happening to the baby that week.  
+  *Child mode:* Roll and move. Listen to what happens that week. On a star, take a GROW card.
   - Ask: Why does the GROW card say 'move forward' when the mother eats well? (good: Her food goes to the baby through the cord.; The baby needs food to grow.)
 - **s4 (4 min)**  
-  *Parent does:* When a player reaches square 40, everyone takes a big breath with them. Finish the game. Count the heart tokens.  
+  *Parent does:* When a player reaches square 40, everyone takes a big breath with them. Keep playing until everyone is born. Then count the heart tokens.  
   *Parent says:* Square 40 is birth. Before birth, the baby's lungs were full of fluid. Now, for the first time, air rushes in. Let's all take that first breath together.  
-  *Child mode:* You reached square 40. You are born! Take a big first breath. Shout 'Hello, world!'
+  *Child mode:* You reached square 40. You are born! Shout 'Hello, world!'
   - Note: Nobody remembers it, so any answer is fine. The air is cooler than the warm water in the womb, and the lungs open for the first time. That is why many newborns gasp and then cry.
   - Check: In Forty Weeks, square 40 is birth. What does a baby do first when they are born? → **Breathes air for the first time**
   - Think: What do you think the very first breath felt like?
@@ -291,17 +291,17 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **Printable cards: 12 animal cards (days a baby grows inside the mother, rounded):** Giraffe: about 450 days [picture]; Pig: about 114 days [picture]; Cow: about 280 days [picture]; Rabbit: about 31 days [picture]; Indian elephant: about 650 days [picture]; Human: about 270 days; Cat: about 65 days [picture]; Camel: about 390 days [picture]; House mouse: about 20 days [picture]; Horse: about 340 days [picture]; Dog: about 63 days [picture]; Goat: about 150 days [picture]
 - **s1 (3 min)**  
   *Parent does:* 1. Spread the 12 cards face up and find the human card. 2. Shuffle them and share them out face down.  
-  *Parent says:* A human baby grows inside their mother for about 270 days. Let's see which animals wait longer, and which wait less.  
-  *Child mode:* Find the human card. 270 days! Then we shuffle and share the cards.
+  *Parent says:* Each card shows how many days a baby grows inside the mother before birth. A human baby grows for about 270 days. Let's see which animals wait longer, and which wait less.  
+  *Child mode:* Find the human card. Which animals have a bigger number of days? Which have a smaller number? Then we shuffle and share the cards.
 - **s2 (8 min)**  
   *Parent does:* Play the game. After each round, ask the winner how many more days their card has.  
-  *Parent says:* Who wins this round? How many more days is that?  
-  *Child mode:* Turn your top card over. Longest wait wins. How many days more?
+  *Parent says:* Who wins this round? About how many more days did that baby wait than the next one?  
+  *Child mode:* Everyone turns over their top card at the same time. The biggest number of days wins.
   - Check: In Who Waits Longest?, the card with the most days wins. An elephant card meets a mouse card. Which card wins? → **The elephant, about 650 days**
 - **s3 (4 min)**  
   *Parent does:* At the end, gather all 12 cards and lay them in a line, shortest wait to longest.  
-  *Parent says:* Look at the line. What do you notice about the small animals and the big ones?  
-  *Child mode:* Put all the cards in a line, from shortest wait to longest. What do you notice?
+  *Parent says:* Now look at the whole line. Look at the small animals and the big ones.  
+  *Child mode:* Put all the cards in a line, from the shortest wait to the longest.
   - Ask: What do you notice about the line of animal cards? (good: Bigger animals usually wait longer.; Humans are in the middle.; The elephant waits the longest, almost two years.)
   - Note: No, it does not fit. This is why we say that bigger animals usually wait longer, not always. The pattern is a rough one, and scientists are still working out all the reasons.
   - Think: A blue whale is far bigger than an elephant, but a whale baby grows for about a year. Does that fit the pattern that bigger animals wait longer?
@@ -317,8 +317,8 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **results table:** Jar | What I guessed | After 5 gentle shakes | After 5 harder shakes (or "cracked already") | Cracked: yes or no
 - **s1 (3 min)**  
   *Parent does:* 1. Put the two jars on a tray. 2. Ask your child to guess what will happen to each egg when shaken.  
-  *Parent says:* Here is a pretend baby, a raw egg. Before birth, a real baby floats in water in the womb. Let's find out if water protects them. What do you think will happen?  
-  *Child mode:* This egg is a pretend baby. One jar will have water. One will be empty. Which egg will stay safe? Make a guess.
+  *Parent says:* Here is a pretend baby, a raw egg. Before birth, a real baby floats in water in the womb. Let's find out if water protects them.  
+  *Child mode:* One jar will have water. One will be empty. Which egg will stay whole when we shake it? Make a guess.
   - Ask: Why did you guess that? (good: The water is soft, like a cushion.; In the empty jar, the egg will hit the sides.)
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* 1. Gently put one egg in the empty jar. 2. Fill the other jar right to the top with water. 3. Gently put the second egg in it. 4. Close both lids tightly.  
@@ -332,8 +332,8 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   - Note: The egg in the empty jar usually cracks after a few firm shakes. The egg in the full water jar usually stays whole. Plastic jars are soft, so the result is not certain. If neither egg cracks, that is still a real result. Shake both jars again and listen. The egg bangs against the jar in the empty one, and hardly knocks in the full one. If both crack, you shook too hard, so try again more gently. If you use banana pieces instead of eggs, the piece in the empty jar gets squashed and bruised against the sides. The piece in water keeps its shape.
 - **s4 (4 min)**  
   *Parent does:* Look at both eggs. Fill in the results table together.  
-  *Parent says:* Which egg cracked? Let's write it down. Then we'll work out why.  
-  *Child mode:* Which egg cracked? Write it in your table.
+  *Parent says:* Let's write down what happened to each egg. Then we'll work out why.  
+  *Child mode:* Look at both eggs again. Write what you see in your table.
   - Check: In the Floating Safe test, which egg usually stays whole? → **The egg in the jar full of water**
 - **s5 (5 min)**  
   *Parent does:* Help your child write a claim, evidence and reasoning.  
@@ -355,13 +355,13 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Child mode:* Fill the bag with water. Close it tight with a rubber band. Check it does not drip.
 - **s2 (6 min)**  
   *Parent does:* 1. Stand one step behind your child. 2. Hum low, then hum high (a squeaky hum), both at the same loudness, with no bag. 3. Hum both again while your child presses the bag of water on one ear and covers the other ear.  
-  *Parent says:* I will make two hums. First with nothing on your ear. Then through the water. Tell me which comes through better.  
-  *Child mode:* Listen with no bag. Then hold the water bag on your ear. Cover your other ear. Which hum gets through better?
+  *Parent says:* A low hum is deep, like a big drum. A high hum is thin and squeaky, like a mosquito. I will hum each one, first with nothing on your ear, then through the water.  
+  *Child mode:* First listen with no bag. Then press the water bag on one ear and cover your other ear. Listen to each hum.
   - Note: Everything will sound muffled through the bag, and the difference between the low and the high hum may be small. The low hum usually comes through a little better. Scientists think a baby in the womb hears something like this: low sounds such as voices and the heartbeat, muffled. Your hand over the other ear does not block all sound, so compare the two tries rather than expecting silence.
 - **s3 (3 min)**  
   *Parent does:* Fill in the table together.  
-  *Parent says:* Which hum came through better?  
-  *Child mode:* Which hum came through better? Write it in your table.
+  *Parent says:* Let's write down how each hum sounded.  
+  *Child mode:* Fill in your table. For each hum, write clear, muffled or silent.
   - Check: In the Hearing Through Water test, which hum usually comes through the water bag better? → **The low hum**
 - **s4 (3 min)**  
   *Parent does:* Help your child say a claim, evidence and reasoning.  
@@ -376,7 +376,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **predict:** Guess which bottle will stay warmest after 20 minutes. Put the three bottles in order, from warmest to coolest. Why do you think so?
 - **fair test:** Use three bottles of the same size, filled with the same amount of warm water, from the same jug. Check them all at the same times. Change only how each one is kept.
 - **safety:** A grown-up warms the water. It must feel comfortably warm on the wrist, never hot. Do not use boiling water.
-- **record:** Fill in the table. If you have a thermometer, draw a bar chart of the temperatures after 20 minutes. Then write a claim, evidence and reasoning.
+- **record:** Fill in the table. If you have a thermometer, draw a bar chart of the temperatures after 20 minutes, or just list the bottles from warmest to coolest. Then write a claim, evidence and reasoning.
 - **results table:** Pretend baby | Start (warm, a bit warm or cool) | After 10 minutes | After 20 minutes
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Warm water in a pan and mix it with cold water until it feels comfortably warm on your wrist. 2. Fill three small bottles from the same jug. 3. Close the lids. 4. Let your child feel that they are all the same. 5. Keep all three in the same room, with the fan switched off.  
@@ -384,7 +384,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Child mode:* Feel all three bottles. They are all equally warm. These are pretend babies.
 - **s2 (3 min)**  
   *Parent does:* 1. Stand one bottle alone on the table. 2. Wrap one in a towel. 3. A grown-up wraps the third in the other towel and tucks it against their chest, under a dupatta or shirt.  
-  *Parent says:* Holding a baby on a grown-up's bare chest, under a cloth, is called kangaroo care. Doctors in Bogotá, in Colombia, started it in 1978, to keep early babies warm.  
+  *Parent says:* Holding a baby on a grown-up's bare chest, under a cloth, is called kangaroo care. Doctors use it to keep early babies warm.  
   *Child mode:* One bottle stays alone. One gets wrapped. One goes on a grown-up's chest, under a cloth.
 - **s3 (20 min)**  
   *Parent does:* 1. Start a timer for 10 minutes as soon as the three bottles are in place. 2. Feel each bottle against your cheek, or use a thermometer. 3. Write it down. 4. Do it again at 20 minutes.  
@@ -394,18 +394,18 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   - Wait: Check after 10 minutes, then after 20 minutes.
 - **s4 (5 min)**  
   *Parent does:* Compare the bottles. Help your child say a claim, evidence and reasoning.  
-  *Parent says:* Which pretend baby stayed warmest? Why do you think so?  
-  *Child mode:* Which bottle is warmest? Say what you think, what you felt, and why.
+  *Parent says:* Let's compare. Put the bottles in order, from warmest to coolest.  
+  *Child mode:* Tell me what you felt on each bottle, and why you think it happened.
   - Check: In Keep the Baby Warm, which pretend baby usually stays warmest? → **The one held on a chest under a cloth**
 
 ## Activities
 ### a1 · One Cell to Many: the dough doubling (15 min)
 - **safety:** Do not eat the raw dough.
-- **record:** Draw your rows of dough balls: 1, 2, 4, 8, 16. Write how many there are in each row.
+- **record:** Take a photo of your rows of dough balls. Write how many there are in each row: 1, 2, 4, 8, 16.
 - **s1 (2 min)**  
   *Parent does:* 1. Give your child one ball of dough on a plate. 2. Tell them it is the first cell.  
-  *Parent says:* You began as one tiny cell, much smaller than this dough. Let's pretend this ball is that cell. What do you think happens next?  
-  *Child mode:* This dough ball is you, at the very start. You were one cell. What do you think happens next?
+  *Parent says:* You began as one tiny cell, much smaller than this dough. Let's pretend this ball is that cell.  
+  *Child mode:* This dough ball is you, at the very start, as one cell.
   - Ask: How do you think one cell becomes a whole baby? (good: The cell grows bigger.; The cell splits into more cells.; The cell makes copies.)
 - **s2 (5 min)**  
   *Parent does:* 1. Split the ball into two equal halves. 2. Roll each into a ball. 3. Split each again. 4. Keep going: 4, then 8, then 16. 5. Lay each round in a new row.  
@@ -413,19 +413,19 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Child mode:* Split the ball into two. Roll them round. Split each one again. Count them each time.
   - Note: This matches real life. In the first five days, the cells get smaller with each split, and the ball of cells stays the same size. Later, once food from the mother reaches the ball, the cells grow between splits.
 - **s3 (3 min)**  
-  *Parent does:* Look at the rows: 1, 2, 4, 8, 16. Ask your child to guess the next number.  
-  *Parent says:* Look at the numbers. 1, 2, 4, 8, 16. Each time it doubles. What comes next?  
-  *Child mode:* Look at your rows. 1, 2, 4, 8, 16. What comes next?
+  *Parent does:* Look at the rows: 1, 2, 4, 8, 16. Ask your child how the number changes each time.  
+  *Parent says:* Look at the numbers: 1, 2, 4, 8, 16. Can you see how the number changes each time?  
+  *Child mode:* Count the balls in each row. Say how the number changes each time.
   - Check: In the dough doubling, you had 16 balls. You split every ball once more. How many now? → **32**
 - **s4 (5 min)**  
   *Parent does:* 1. Rub a little turmeric on a few balls on one side of the plate. 2. Press a few others flat. 3. Leave some round.  
   *Parent says:* At first all the cells look the same. Then some start to change. These yellow ones could become skin. These flat ones could become blood. They all came from the same first cell.  
-  *Child mode:* Make some balls yellow. Press some flat. Now they are different kinds of cell. But they all came from one ball.
+  *Child mode:* Rub turmeric on a few balls to make them yellow. Press a few others flat. Leave the rest round.
   - Ask: All these balls came from one. So why are some yellow and some flat now? (good: They changed into different kinds.; Cells read different instructions.; They become skin or bone or blood.)
   - Note: Scientists do not fully know yet. Their best idea is that cells send each other chemical messages. A cell reads different pages depending on how strong the message is where it sits. Any guess is welcome.
   - Think: Every real cell has the same instruction book. How do you think each cell knows which page to read?
 ### a2 · How Big Was I? The growing fruit line (20 min)
-- **record:** Your marked paper strip, with each week labelled and a fruit drawn beside it.
+- **record:** Your marked paper strip, with each week labelled and a fruit beside it. Use the real fruit, or draw one.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the strip flat. 2. Mark 0 at one end.  
   *Parent says:* Let's find out how big you were before you were born. We start at 0, when you were one cell, smaller than a dot.  
@@ -438,12 +438,12 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **s3 (4 min)**  
   *Parent does:* Ask your child to look at the gaps between the marks.  
   *Parent says:* Look at the gaps. Between which weeks did the baby grow the most?  
-  *Child mode:* Look at the gaps between marks. Where is the biggest jump?
+  *Child mode:* Use your ruler to measure the gaps between the marks. Which gap is the biggest?
   - Check: On the fruit line, a baby is about 6 cm at 12 weeks and about 25 cm at 20 weeks. How much did the baby grow? → **About 19 cm**
 - **s4 (4 min)**  
   *Parent does:* Measure your child's height now. Compare it with the 50 cm mark.  
   *Parent says:* You were about 50 centimetres long when you were born. How tall are you now? How many newborns tall are you?  
-  *Child mode:* Lie down by the strip. A grown-up measures you. How many newborn lengths tall are you?
+  *Child mode:* Lie down by the strip while a grown-up marks your height.
   - Note: The answer is cell splitting. The first cell split into two, then four, then eight, and on and on. The cells became different kinds, such as skin, bone and heart. Food from your mother's blood gave them what they needed to grow.
   - Think: You were once smaller than a dot. What made all of you?
 ### a3 · Prints From Before You Were Born (15 min)
@@ -460,16 +460,16 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 - **s3 (5 min)**  
   *Parent does:* Talk about why prints are all different.  
   *Parent says:* Even twins who look exactly the same have different fingerprints. Tiny chance differences in how the skin grew made each pattern.  
-  *Child mode:* Even twins have different prints. Each pattern formed by chance, before birth.
+  *Child mode:* Hold two prints side by side. Find one line that is different.
   - Note: The belly button is the mark of the cord. Some children also have birthmarks, which form before birth too.
   - Check: When were your fingerprints made? → **Before you were born, at about four months in the womb**
   - Think: What else on your body is a mark from before you were born?
 ### a4 · My Arrival Story: asking my family (15 min)
-- **record:** Three things you learned about your arrival, written or drawn.
+- **record:** Three things you learned about your arrival, written, drawn or told.
 - **s1 (3 min)**  
-  *Parent does:* 1. Choose a quiet time. 2. Look at the questions together first.  
+  *Parent does:* 1. Choose a quiet time. 2. Sit together with the notebook.  
   *Parent says:* Every child arrives in their family in their own way. Some are born into it. Some are adopted. Some are raised by grandparents or others. Let's ask about your arrival.  
-  *Child mode:* Every family is made in its own way. Let's ask about how you arrived.
+  *Child mode:* Sit with your grown-up. Get your notebook ready.
   - Note: Share what feels right for your family, in words your child can understand. Adoption, foster care, surrogacy, IVF and other paths are all real families. If parts of the story are not known, it is fine to say so.
 - **s2 (8 min)**  
   *Parent does:* Your child asks these questions: Where was I born? How big was I? Who was there when I arrived? What did I do in my first week? What was the first thing you felt?  
@@ -477,13 +477,13 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Child mode:* Ask your questions. Where was I born? How big was I? Who met me first?
   - Ask: What surprised you about your arrival story? (good: How small I was.; Who was there.; That I cried a lot.; That my family travelled to meet me.)
 - **s3 (4 min)**  
-  *Parent does:* Your child writes or draws three things.  
-  *Parent says:* Write or draw three things you learned. Which one will you remember most?  
-  *Child mode:* Write or draw three things you learned.
+  *Parent does:* Your child writes, draws or says three things. You write down what they say.  
+  *Parent says:* What are three things you learned? Which one will you remember most?  
+  *Child mode:* Write three things you learned. You can draw them, or say them for your grown-up to write.
   - Think: Who else might have looked after you before you could remember?
 ### a5 · Womb in a Bottle: a model (15 min)
 - **safety:** A grown-up cuts the bottle. Cover the cut edge with tape.
-- **record:** A labelled drawing of your model: womb, water, baby, cord, placenta.
+- **record:** A photo of your labelled model: womb, water, baby, cord, placenta.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Cut the top off the bottle. Tape the edge.  
   *Parent says:* This bottle is the mother's tummy. Inside it we will put the womb, the water and the baby.  
@@ -500,41 +500,41 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   - Check: In the Womb in a Bottle model, what does the string stand for? → **The umbilical cord, which carries food and oxygen**
 ### a6 · Newborn Eyes: what a baby sees (10 min)
 - **safety:** Never put the bag over anyone's head. Hold it only in front of the eyes, away from the nose and mouth.
-- **record:** Draw the face as it looked near, and as it looked far.
+- **record:** Say or write which distance made the face clearest, and how far away it was.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child holds the folded bag flat in front of their eyes. 2. You hold your face about 25 centimetres away, about one ruler. 3. Then step back across the room.  
-  *Parent says:* A newborn baby sees blurry, a bit like through this bag. Can you see my face better close up or far away?  
+  *Parent says:* A newborn baby sees blurry, a bit like through this bag. Let's look at my face through it, close up and far away.  
   *Child mode:* Hold the bag in front of your eyes. Look at a face close up. Then far away.
   - Note: Things close to you look clearer than things far away, so your face should look clearer close up. This is only a rough model: the face looks bigger when it is close, so you can make out more of it. A real newborn sees blurry for a different reason: their eyes cannot focus well yet. If everything looks like fog, use one layer of the bag instead of two.
 - **s2 (3 min)**  
   *Parent does:* Ask which was clearer.  
   *Parent says:* When was my face clearer, close or far?  
-  *Child mode:* When was the face clearer, close or far?
+  *Child mode:* Think about both looks. Tell your grown-up which one was clearer.
   - Check: A newborn sees most clearly at about what distance? → **About 20 to 30 centimetres, the distance to the face of the person holding them**
 - **s3 (3 min)**  
   *Parent does:* Talk about why this might help a baby.  
   *Parent says:* Why might it be useful for a baby to see faces close up best?  
-  *Child mode:* Why might a baby need to see faces close up?
+  *Child mode:* Think about who holds a newborn. How far away is their face?
   - Ask: Why might it help a baby to see close faces best? (good: They see the face of whoever holds them.; They learn faces first.; The faraway things don't matter yet.)
 
 ## Projects
 ### p1 · The Forty-Week Scroll (60 min, 3 days)
 - **record:** Your finished scroll, and a photo of you explaining it.
-- **schedule:** day 1: Mark 40 weeks along the scroll, 5 centimetres each. Draw weeks 1 to 12. (20 min); day 2: Draw weeks 13 to 28: kicking, fingerprints, hearing. (20 min); day 3: Draw weeks 29 to 40 and birth. Show the scroll to someone and explain it. (20 min)
+- **schedule:** day 1: Mark 40 weeks along the scroll, 5 centimetres each. Show weeks 1 to 12. (20 min); day 2: Label weeks 13 to 28: kicking, fingerprints, hearing. (20 min); day 3: Show weeks 29 to 40 and birth. Show the scroll to someone and explain it. (20 min)
 - **s1 (20 min)**  
-  *Parent does:* 1. Mark 40 weeks along the scroll, 5 centimetres apart. 2. Draw week 1, one cell. 3. Week 2, a ball of cells. 4. Week 6, a beating heart. 5. Week 8, a grape-sized embryo. 6. Week 12, fingers and toes.  
-  *Parent says:* In the first three months, all the main body parts form. The baby is still very small. Let's draw the baby.  
-  *Child mode:* Mark 40 weeks. Draw one cell at week 1. Draw a heart at week 6. Draw fingers at week 12.
+  *Parent does:* 1. Mark 40 weeks along the scroll, 5 centimetres apart. 2. Show each of these, by drawing or sticking on a picture. Week 1, one cell. Week 2, a ball of cells. Week 6, a beating heart. Week 8, a grape-sized embryo. Week 12, fingers and toes.  
+  *Parent says:* In the first three months, all the main body parts form. The baby is still very small. Let's show each week on the scroll.  
+  *Child mode:* Mark 40 weeks. Show a cell at week 1. Show a heart at week 6. Show fingers at week 12. Draw or stick on pictures.
 - **s2 (20 min)**  
-  *Parent does:* Draw weeks 13 to 28: week 16, fingerprints forming. Week 18, first kicks the mother feels. Week 20, halfway, banana-sized. Week 24, hearing sounds. Week 28, eyes opening.  
+  *Parent does:* Write a short label at each of these weeks. Week 16, fingerprints forming. Week 18, first kicks the mother feels. Week 20, halfway, banana-sized. Week 24, hearing sounds. Week 28, eyes opening. Add a picture to any label, if you like.  
   *Parent says:* In the middle months, the baby moves a lot. They start to hear. Their fingerprints form.  
-  *Child mode:* Draw the middle months. Fingerprints at week 16. Kicks at week 18. Hearing at week 24.
+  *Child mode:* Write the middle months on your scroll. Fingerprints at week 16. Kicks at week 18. Hearing at week 24.
   - Check: On the scroll, which of these happens first? → **The heart starts beating**
   - Wait: Do this on day 2.
 - **s3 (20 min)**  
-  *Parent does:* 1. Draw weeks 29 to 40: getting chubby, head turning down. 2. Draw birth at the very end. 3. Show the scroll to a family member and explain it.  
+  *Parent does:* 1. Show weeks 29 to 40: getting chubby, head turning down. 2. Show birth at the very end. You can draw it or stick on a picture. 3. Show the scroll to a family member and explain it.  
   *Parent says:* In the last months, the baby grows big and fat, and their lungs get ready. Then comes birth. Now tell someone the whole story.  
-  *Child mode:* Draw the last months and birth. Then show your scroll to someone. Tell them the story.
+  *Child mode:* Finish the last months and birth. Then show your scroll to someone and tell them the story.
   - Ask: Tell the story of the scroll from start to end. (good: The baby starts as one cell, splits into many, the heart beats, fingers form, the baby kicks and hears, gets big, and is born.)
   - Wait: Do this on day 3.
 
@@ -542,7 +542,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
 ### c1 · The Egg-Baby Carrier (30 min)
 - **problem:** Design a carrier that keeps a raw egg 'baby' safe while you walk up and down the stairs twice.
 - **safety:** Wash your hands with soap after touching a raw egg.
-- **your turn:** Now design your own carrier. Draw it first. Then build it, test it on the stairs, and check the egg. What would you change?
+- **your turn:** Now design your own carrier. Tell your plan to a grown-up, or sketch it first. Then build it, test it on the stairs, and check the egg. What would you change?
 - **constraints:** You can only use things from home.; The carrier must be small enough to hold in one hand.; You must be able to look at the egg without taking it out.
 - **general:** Pad the egg all round with cotton or cloth, so the egg cannot bang the sides.; Put the egg in a small wide-mouthed jar or dabba filled to the top with water, like a baby in the womb.; Wrap the carrier in a cloth for more padding, but leave a gap so you can still see the egg.
 - **creative:** Make a bag within a bag, like the womb inside the mother's tummy.; Hang the egg in the middle of a box on stretchy rubber bands, so it bounces gently.; Use a ball of soft dough around the egg, like a thick cushion.
@@ -552,9 +552,9 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Child mode:* How does the womb keep a baby safe? Use those ideas for your egg.
   - Ask: What protects a baby in the womb? (good: The water around the baby.; The soft, stretchy womb.; The mother's body and tummy muscles.)
 - **s2 (15 min)**  
-  *Parent does:* Your child draws a design, then builds it.  
-  *Parent says:* Draw it first. Then build it. Remember, it has to fit in one hand.  
-  *Child mode:* Draw your carrier. Then build it.
+  *Parent does:* Your child explains a plan, or sketches one, then builds it.  
+  *Parent says:* Tell me your plan first. Then build it. Remember, it has to fit in one hand.  
+  *Child mode:* Tell your grown-up your plan. Then build it. You can sketch it first if you like.
 - **s3 (10 min) · grown-up needed**  
   *Parent does:* Walk up and down the stairs twice with the carrier. No stairs? Step up and down a low, steady stool twice instead. Check the egg.  
   *Parent says:* Let's test it. Walk carefully, but normally. Then check.  
@@ -562,7 +562,7 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   - Check: Your egg cracked in a carrier with just one layer of paper. What would most likely help? → **Fill the space around the egg with water or soft padding**
 ### c2 · Hold My Head! A safe baby sling (25 min)
 - **problem:** A newborn cannot hold up their own head for the first few months. Design a sling from a dupatta or cloth that holds a doll safely, with its head supported.
-- **your turn:** Now design your own sling. Draw it, tie it with a grown-up, and walk around the room. Does the head stay up? Is the face clear?
+- **your turn:** Now design your own sling. Tell your plan to a grown-up, or sketch it. Then tie it together and walk around the room. Does the head stay up? Is the face clear?
 - **constraints:** Use only one long piece of cloth and, if you like, a safety pin a grown-up closes.; The doll's head must not flop backwards.; The doll's face must be visible, not covered.
 - **general:** Tie the cloth across one shoulder and the opposite hip, like a sash.; Hold the doll upright against the chest, tummy to tummy.; Pull a fold of cloth up behind the doll's head.
 - **creative:** Look at photos of how people in India carry babies on the hip or back with a sari.; Make a pocket in the cloth for the doll's bottom, like a kangaroo's pouch.; Add a rolled towel as a head cushion.
@@ -571,9 +571,9 @@ On Friday, Miss Fernandes held each book up for the class. When she reached Kavy
   *Parent says:* A newborn's head is big and heavy, and their neck muscles are still weak. So a grown-up always holds the head. A good sling must do that too.  
   *Child mode:* A newborn cannot hold up their head. A sling must hold it up.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* Your child designs and, with help, ties a sling.  
-  *Parent says:* Draw your idea first. Then we tie it together.  
-  *Child mode:* Draw your sling. Then tie it with a grown-up.
+  *Parent does:* Your child explains a plan, or sketches one, and with help ties a sling.  
+  *Parent says:* Tell me your idea first. Then we tie it together.  
+  *Child mode:* Tell your grown-up your plan. Then tie the sling together. You can sketch it first if you like.
   - Note: Real slings for real babies should be checked by a health worker. This challenge is only with a doll or a toy.
 - **s3 (8 min)**  
   *Parent does:* Walk around with the doll in the sling. Check the head and face.  
