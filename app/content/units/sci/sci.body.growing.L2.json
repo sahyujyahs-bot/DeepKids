@@ -267,7 +267,7 @@
    "title": "Bedtime Tall, Morning Tall: are you taller when you wake up?",
    "mins": 25,
    "days": 2,
-   "context": "In this experiment you mark your height on a paper strip at bedtime. Next morning, as soon as you get up, you mark it again. A grown-up does the same. Then you compare the marks.",
+   "context": "In this experiment you mark your height on a paper strip at bedtime. Next morning, as soon as you get up, you mark it again. A grown-up does the same. Then you compare the marks. You will find out whether your height changes overnight.",
    "question": "Are you the same height at bedtime and in the morning, or does your height change overnight?",
    "predict": "Guess first. Tomorrow morning, will you be taller, shorter or the same as at bedtime? Why do you think so?",
    "fair_test": "Everyone is measured at the same spot on the same wall, barefoot, with hair clips and buns taken out. The same book is used each time. Each person is measured three times, because one try can be a little wrong. We measure a grown-up too, so we can compare a child's change with a grown-up's.",
@@ -335,9 +335,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Ask your child the question, and wait for a guess and a reason. Write the guess at the top of the strip.",
+     "do": "Ask your child the question, and wait for a guess and a reason. Write the guess on a scrap of paper, to look at in the morning.",
      "say": "Tonight we will measure you. Tomorrow morning we will measure you again. Will you be taller, shorter or the same? Why do you think so?",
-     "kid": "Guess. In the morning, will you be taller, shorter or the same? Why?",
+     "kid": "Guess: in the morning, will you be taller, shorter or the same?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -380,7 +380,7 @@
      "mins": 5,
      "do": "1. Look at the blue and red lines for each person. 2. Put the ruler's zero on the middle blue line. 3. Count the tiny lines up to the middle red line. Each tiny line is one millimetre. 4. Write the numbers in the table.",
      "say": "Which line is higher, the blue one or the red one? Let's count the tiny lines between them. Each one is a millimetre.",
-     "kid": "Which line is higher? Count the tiny lines between them.",
+     "kid": "Count the tiny lines between the blue line and the red line.",
      "ask": [
       {
        "q": "Who changed the most?",
@@ -396,7 +396,7 @@
      "mins": 3,
      "do": "Ask your child what they think, what they saw, and why it happened.",
      "say": "Was your guess right? You did not grow a whole centimetre in one night. So why was the morning line higher?",
-     "kid": "Was your guess right? Why was the red line higher?",
+     "kid": "Look at your guess. Was it right?",
      "ask": [
       {
        "q": "Why was the morning line higher?",
@@ -426,7 +426,7 @@
    "title": "Arms Out: is your arm span the same as your height?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you stretch your arms out wide and measure from one fingertip to the other with a string. That length is your arm span. Then you compare it with your height, for everyone at home.",
+   "context": "In this experiment you stretch your arms out wide and measure from one fingertip to the other with a string. That length is your arm span. Then you compare it with your height, for everyone at home. You will find out whether your arms reach as wide as you are tall.",
    "question": "Is a person's arm span the same as their height, longer, or shorter?",
    "predict": "Guess first. Is your arm span longer than your height, shorter, or the same? Why do you think so?",
    "fair_test": "We measure everyone barefoot, against the same wall. Arms are stretched straight out at shoulder height, with fingers straight. We use the same string for every person, and cut each string in the same way.",
@@ -448,6 +448,10 @@
     },
     {
      "item": "cellotape and small paper labels",
+     "qty": 1
+    },
+    {
+     "item": "a hardback book, to lay flat on the head",
      "qty": 1
     },
     {
@@ -483,7 +487,7 @@
      "mins": 2,
      "do": "Ask for a guess and a reason.",
      "say": "Stretch your arms out wide. Is that longer than you are tall, or shorter, or the same? Why do you think so?",
-     "kid": "Stretch your arms wide. Is that longer than you are tall? Why?",
+     "kid": "Stretch your arms wide. Guess: is that longer, shorter or the same as your height?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -531,7 +535,7 @@
      "mins": 2,
      "do": "Talk about what you found.",
      "say": "Was your guess right? Whose two strings were closest, and whose were furthest apart?",
-     "kid": "Was your guess right? Are your two strings close?",
+     "kid": "Look at your two strings. Are they close in length?",
      "check": {
       "t": "mcq",
       "q": "You measure the arm span and the height of everyone in a family. What will you most likely find?",
@@ -595,7 +599,7 @@
      "mins": 5,
      "do": "Your child tries them on. Look together at the sleeves, the length, the waist and the chappal heels.",
      "say": "Where is it too short? Where is it too tight? Show me with your finger.",
-     "kid": "Put them on. Where are they too short? Where are they tight?",
+     "kid": "Put them on. Point to the places that are too short or too tight.",
      "ask": [
       {
        "q": "Which part of you grew the most?",
@@ -613,7 +617,7 @@
      "mins": 3,
      "do": "Talk about it.",
      "say": "You grew all this, but you never saw yourself grow. How did the clothes show it?",
-     "kid": "You did not see yourself grow. How did the clothes show it?",
+     "kid": "Think about how the old clothes show that you grew.",
      "check": {
       "t": "mcq",
       "q": "A girl of 7 tries on a frock she wore when she was 4. The sleeves stop above her wrists. What does this show?",
@@ -670,7 +674,7 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Each person stands barefoot on paper. 2. Your child draws round the foot. 3. Cut out each outline and write the name and age on it.",
+     "do": "1. Each person stands barefoot on paper. 2. Your child draws round the foot, or a grown-up does. 3. Cut out each outline and write the name and age on it.",
      "say": "Stand still while I draw round your foot. Now you draw round mine.",
      "kid": "Draw round each person's foot. Cut it out. Write their name and age."
     },
@@ -705,7 +709,7 @@
    "title": "As Heavy as a Newborn: the atta packet baby",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hold a bundle as heavy as a newborn baby. Then you think about how much heavier you are now.",
+   "context": "In this activity you hold a bundle as heavy as a newborn baby. You find out how many times heavier you are now.",
    "materials": [
     {
      "item": "three 1-kilogram packets of atta, rice, salt or sugar, or a kitchen scale and a bag of potatoes",
@@ -744,14 +748,14 @@
      "mins": 4,
      "do": "Wrap three 1-kilogram packets in the towel. Give the bundle to your child to hold.",
      "say": "Most babies weigh about 3 kilograms when they are born. Hold this bundle. That is how heavy you were.",
-     "kid": "Hold the bundle. You were about this heavy when you were born."
+     "kid": "Hold the bundle carefully, like a baby."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "If you have a bathroom scale, weigh your child. If not, ask how many packets they think they weigh.",
-     "say": "How many packets do you think you weigh now? Let's check.",
-     "kid": "How many packets do you weigh now? Guess, then check.",
+     "say": "How many of these 1-kilogram packets do you think you weigh now? Let's check.",
+     "kid": "Guess how many packets you weigh. Then check.",
      "parent": "Many 7-year-olds weigh about 18 to 25 kilograms, so about 6 to 8 times their birth weight. Every child is different. Do not compare children's weights in a way that hurts."
     },
     {
@@ -759,7 +763,7 @@
      "mins": 2,
      "do": "Talk about it.",
      "say": "Where did all that extra weight come from?",
-     "kid": "Where did all your extra weight come from?",
+     "kid": "Think about how your body got so much bigger.",
      "ask": [
       {
        "q": "Where did it come from?",
@@ -827,7 +831,7 @@
      "mins": 2,
      "do": "Your child stays lying down. Move the birth-length string along the floor beside them, end to end, from feet to head. Count how many string lengths it takes.",
      "say": "How many of these baby strings does it take to make you now?",
-     "kid": "How many baby strings make you now?",
+     "kid": "Count how many baby strings fit from your feet to your head.",
      "ask": [
       {
        "q": "How many?",
@@ -848,7 +852,7 @@
    "title": "Taller, Shorter or Same?",
    "mins": 15,
    "players": "2 to 5 players",
-   "context": "This is a guessing game about growing. Each card names two people, or one person at two times. Players guess who is usually taller, and show their answer with their hands.",
+   "context": "This is a guessing game about growing. Each card names two people, or one person at two times. Players guess if the person is taller, shorter or the same, and show their answer with their hands. You will find out who grows, when, and who does not.",
    "printables": [
     {
      "kind": "cards",
@@ -903,7 +907,7 @@
        "b": "The same. Grown-ups do not get taller."
       },
       {
-       "f": "Two children of 7. One eats well and is healthy. The other is often ill and hungry. After a year, is the child who eats well usually taller, shorter or the same as the other?",
+       "f": "Two children of 7. One eats well and is healthy. The other is often ill and hungry. After a year, is the one who eats well taller, shorter or the same?",
        "b": "Taller. Food and good health help a body grow."
       },
       {
@@ -932,7 +936,7 @@
      "id": "s2",
      "mins": 11,
      "do": "Take turns reading the cards. Everyone shows a hand sign. Read the back aloud.",
-     "say": "A woman of 30, and the same woman at 40. Show me! Now let's read the back.",
+     "say": "A woman of 30, and the same woman at 40. Is she taller, shorter or the same at 40? Show me! Now let's read the back.",
      "kid": "Read a card. Show your hand. Read the back.",
      "ask": [
       {
@@ -949,8 +953,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the points and talk.",
-     "say": "Which people on the cards were still growing? Which had stopped?",
-     "kid": "Count your points. Who was still growing?",
+     "say": "Let's count the points. Who got the most?",
+     "kid": "Count your points.",
      "check": {
       "t": "mcq",
       "q": "Which of these people is still growing taller?",
@@ -1038,9 +1042,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Draw the track of 20 squares on paper. Cut out the growing cards and put them face down.",
-     "say": "This is a life, from a newborn to a grown-up. Let's draw it.",
-     "kid": "Draw 20 squares. Write Start and Finish. Put the cards in a pile."
+     "do": "Draw the track of 20 squares on paper, or lay out 20 small pieces of paper in a winding line. Cut out the growing cards and put them face down.",
+     "say": "This is a life, from a newborn to a grown-up. Let's make the track.",
+     "kid": "Help make the 20 squares. Mark Start and Finish. Put the cards in a pile."
     },
     {
      "id": "s2",
@@ -1064,7 +1068,7 @@
      "mins": 3,
      "do": "Talk about the game.",
      "say": "Which card helped you grow the most? Which slowed you down? Is that true in real life?",
-     "kid": "Which card helped you grow most?"
+     "kid": "Pick the card that helped you grow most."
     }
    ],
    "setup": [
@@ -1133,8 +1137,8 @@
      "id": "s1",
      "mins": 10,
      "do": "1. Tape the strip so it does not move. 2. In the morning, measure your child the same way as in the Bedtime Tall, Morning Tall experiment: barefoot, against the wall, with a flat book on the head. 3. Draw a line and write the date and the time.",
-     "say": "We will measure you once a month, always in the morning. Why do we always choose the morning?",
-     "kid": "Stand straight. Draw your line. Write the date.",
+     "say": "We will measure you once a month, always in the morning.",
+     "kid": "Stand straight and still against the wall. Then write the date next to your line.",
      "ask": [
       {
        "q": "Why do we always measure in the morning?",
@@ -1199,7 +1203,7 @@
      "mins": 3,
      "do": "Read the challenge with your child.",
      "say": "Babies cannot stand up, and they wriggle. How do you think nurses measure them?",
-     "kid": "Babies cannot stand. How can we measure them lying down?"
+     "kid": "Think about how to measure someone who is lying down."
     },
     {
      "id": "s2",
@@ -1214,7 +1218,7 @@
      "mins": 5,
      "do": "Compare the three answers and improve the design.",
      "say": "Were your three answers the same? What made them different?",
-     "kid": "Were your answers the same? What can you change?",
+     "kid": "Look at your three numbers. Change one thing to make them match.",
      "check": {
       "t": "mcq",
       "q": "You measure a doll three times and get 30, 34 and 31 centimetres. What should you do?",
