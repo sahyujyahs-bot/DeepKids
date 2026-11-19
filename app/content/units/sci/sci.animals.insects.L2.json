@@ -291,7 +291,7 @@
    "title": "The Crumb Test: how big a crumb can an ant carry?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you put biscuit crumbs of four sizes beside a line of ants. You watch for 20 minutes. Then you count which crumbs the ants carried away, and how they did it.",
+   "context": "In this experiment you find out how big a crumb an ant can carry. You put biscuit crumbs of four sizes beside a line of ants. You watch for 20 minutes. Then you count which crumbs the ants carried away, and how they did it.",
    "question": "Which sizes of crumb can ants carry away, and which are too big?",
    "predict": "Guess first. Which crumbs will the ants carry away: the tiny ones, the rice-sized ones, the chana-sized ones, or even the big ones? Why do you think so?",
    "fair_test": "All the crumbs come from the same biscuit, so they taste the same. There are 5 crumbs of each size, because what happens to one crumb could be luck. All 20 crumbs go in one line, with the sizes mixed up, so every size is the same distance from the ants. We count at 10 minutes and again at 20 minutes.",
@@ -360,7 +360,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Find a line of ants in the kitchen, on the balcony or by a window. 2. Look at the ants with the magnifying glass. 3. Count the legs on one ant.",
-     "say": "Let's find some ants. Look at one through the glass. How many legs does she have? How big is her head?",
+     "say": "Let's find some ants. Look at one through the glass. How many legs does she have?",
      "kid": "Find a line of ants. Look at one through the glass. Count her legs.",
      "parent": "If you cannot find ants, put a pinch of sugar on a plate on the kitchen platform. Look again after an hour. In most Indian homes, ants come within a few hours. If none come, try again the next day."
     },
@@ -376,8 +376,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Ask your child which crumbs the ants will carry away, and why. Write the guess down.",
-     "say": "The ants will find these crumbs soon. Which sizes do you think they will carry away? Why do you think so?",
-     "kid": "Guess. Which crumbs will the ants carry away? Why?",
+     "say": "The ants will find these crumbs soon. Which sizes do you think they will carry away?",
+     "kid": "Guess which crumbs the ants will carry away.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -428,7 +428,7 @@
      "mins": 2,
      "do": "Ask your child which crumbs the ants carried away, which ones stayed, and why.",
      "say": "Which crumbs did the ants carry? Was your guess right? Did any ant carry a crumb bigger than her own head?",
-     "kid": "Which crumbs went? Did an ant carry a crumb bigger than her head?",
+     "kid": "Look at your counts. Which sizes went, and which stayed?",
      "ask": [
       {
        "q": "Why did the big crumbs stay?",
@@ -447,7 +447,7 @@
    "title": "Damp or Dry: where does an earthworm go? (if you can get earthworms)",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you give earthworms a choice between damp paper and dry paper, under a cover. After 10 minutes, you look where they went. Do this only if you can find earthworms after rain, or get them from a plant nursery that sells vermicompost.",
+   "context": "In this experiment you find out whether earthworms prefer damp or dry places. You give earthworms a choice between damp paper and dry paper, under a cover. After 10 minutes, you look where they went. Do this only if you can find earthworms after rain, or get them from a plant nursery that sells vermicompost.",
    "question": "If earthworms can choose, will they go to damp paper or dry paper?",
    "predict": "Guess first. Will the worms go to the damp side, the dry side, or stay in the middle? Why do you think so?",
    "fair_test": "Both sides are the same paper and the same size. Both are covered, so both are equally dark. Only one thing is different: one side is damp. We use 3 or more worms, because one worm could go either way by chance.",
@@ -486,7 +486,7 @@
      "what": "Set up a damp side and a dry side, put the worms in the middle, cover, wait 10 minutes and look."
     }
    ],
-   "record": "Draw the tray, the damp side and the dry side, and where each worm was after 10 minutes.",
+   "record": "Draw the tray with the damp side, the dry side and where each worm was after 10 minutes. Or take a photo, or tell your grown-up what you saw.",
    "setup": [
     {
      "art": "A steel tray with a damp dark paper towel on the left half and a dry pale paper towel on the right half.",
@@ -516,7 +516,7 @@
      "mins": 2,
      "do": "Ask your child to guess where the worms will go, and why.",
      "say": "Where do you think the worms will go? Why do you think so?",
-     "kid": "Guess. Damp side or dry side? Why?",
+     "kid": "Guess which side the worms will go to.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -532,7 +532,7 @@
      "mins": 12,
      "do": "1. Lay the worms gently along the middle, where the two paper towels meet. 2. Cover the tray. 3. Wait 10 minutes. 4. Lift the cover and see where each worm is.",
      "say": "Let's cover them, so it is dark on both sides. In ten minutes we will look.",
-     "kid": "Cover the tray. Wait ten minutes. Then look.",
+     "kid": "Cover the tray and wait ten minutes. Then see which side each worm is on.",
      "parent": "Most worms usually move to the damp side. An earthworm breathes through the skin, and the skin must stay damp to do that. If the worms stay in the middle or go to the dry side, write that down too. Worms sometimes do not move much.",
      "check": {
       "t": "mcq",
@@ -562,7 +562,7 @@
    "title": "Who Shares Our Flat? A small creature hunt",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you search your home for small creatures for 10 minutes. For each one you find, you count the legs from a safe distance, and decide: insect, spider, or something else?",
+   "context": "In this activity you find out who else lives in your home. You search your home for small creatures for 10 minutes. For each one you find, you count the legs from a safe distance, and decide: insect, spider, or something else?",
    "materials": [
     {
      "item": "a torch",
@@ -602,16 +602,16 @@
      "mins": 2,
      "do": "Tell your child where small creatures often hide: ceiling corners, near lights, window frames, the kitchen platform, under the sink.",
      "say": "Small creatures live in every home. Let's find as many as we can in ten minutes. Where should we look first?",
-     "kid": "Small creatures live in every home. Where will you look first?",
+     "kid": "Choose the first place you will look.",
      "adult": true,
      "parent": "Ants and spiders are found in almost every home. You may also find a mosquito, a housefly, a moth near a light, a silverfish behind books, or a cockroach."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Hunt together. For each creature, count the legs from a safe distance with the glass or the phone zoom. Write or draw each one.",
+     "do": "Hunt together. For each creature, count the legs from a safe distance with the glass or the phone zoom. Write down a short name for each one.",
      "say": "Found one! Let's count the legs without touching. How many on each side?",
-     "kid": "Count the legs. How many on each side? Write it down.",
+     "kid": "Count the legs, and write the number next to the creature.",
      "ask": [
       {
        "q": "Is it easier to count one side at a time?",
@@ -637,7 +637,7 @@
    "title": "Build an Insect and a Spider from Dough",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you make a model ant and a model spider from atta dough and broom sticks. Making them shows you the difference: how many body parts, how many legs, and where the legs join.",
+   "context": "In this activity you find out how an insect's body is different from a spider's. You make a model ant and a model spider from atta dough and broom sticks. You compare how many body parts, how many legs, and where the legs join.",
    "materials": [
     {
      "item": "a lump of atta dough, or clay, about the size of a lemon",
@@ -664,7 +664,7 @@
      "what": "Make an ant with three body parts and six legs, and a spider with two body parts and eight legs. Compare them."
     }
    ],
-   "record": "Draw your two models, and label the legs and body parts.",
+   "record": "Take a photo of your two models. Then point to the head, the legs and the other body parts, and say their names to your grown-up.",
    "setup": [
     {
      "art": "Three small balls of dough in a row on a steel plate: head, thorax and abdomen, with six sticks pushed into the middle ball and two short sticks in the head.",
@@ -696,7 +696,7 @@
      "mins": 4,
      "do": "Put the two models side by side and compare.",
      "say": "Look at the ant and the spider. What is different? What is the same?",
-     "kid": "Look at both. What is different? What is the same?",
+     "kid": "Look closely at both models, one part at a time.",
      "ask": [
       {
        "q": "What is different?",
@@ -726,12 +726,12 @@
    "title": "If I Were an Ant: draw a load my size",
    "mins": 15,
    "days": 1,
-   "context": "In this activity your child compares their body with an ant's. You draw round your child on newspaper. Then you draw a crumb next to the outline, bigger than your child's head, because an ant can carry a crumb bigger than her own head.",
+   "context": "In this activity you find out how big an ant's load would be if you were an ant. An ant can carry a crumb bigger than her own head. Your grown-up draws round you on newspaper. Then you scrunch newspaper into a crumb bigger than your head and put it next to your outline.",
    "problem": "An ant can carry a crumb bigger than her own head. A person cannot carry a load as heavy as their own body. The reason is size. When a body gets bigger, its weight grows faster than the strength of its muscles. So a very small body is light for its muscles, and a big body is heavy for its muscles. In this activity you see how big the ant's load is, compared with a body your size.",
    "materials": [
     {
-     "item": "old newspapers, taped together to be as long as your child",
-     "qty": "4 to 6 sheets"
+     "item": "old newspapers, taped together to be as long as your child, plus 2 sheets to scrunch into a crumb",
+     "qty": "6 to 8 sheets"
     },
     {
      "item": "a crayon or sketch pen",
@@ -746,10 +746,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw round your child on newspaper. Then draw a crumb bigger than your child's head, just as an ant's crumb is bigger than her head."
+     "what": "Draw round your child on newspaper. Then scrunch newspaper into a crumb bigger than your child's head, just as an ant's crumb is bigger than her head."
     }
    ],
-   "record": "A photo or a small drawing of your outline and your giant crumb.",
+   "record": "A photo of you next to your outline and your giant crumb.",
    "setup": [
     {
      "art": "A child lying on taped newspapers on the floor while a grown-up draws round her with a crayon.",
@@ -757,7 +757,7 @@
     },
     {
      "art": "The child's outline on the newspaper, and next to the head a big circle drawn larger than the head, labelled 'my crumb'.",
-     "caption": "2. Draw a crumb bigger than your head, like the ant's."
+     "caption": "2. Scrunch paper into a crumb bigger than your head, like the ant's."
     }
    ],
    "flow": [
@@ -771,9 +771,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Draw a crumb next to your child's outline, bigger than their head. Say that an ant can carry a crumb bigger than her own head.",
+     "do": "Scrunch two sheets of newspaper into a ball bigger than your child's head. Put it next to the outline. Say that an ant can carry a crumb bigger than her own head.",
      "say": "An ant can carry a crumb bigger than her own head. Here is a crumb bigger than your head.",
-     "kid": "Draw a crumb bigger than your head. That is your ant crumb."
+     "kid": "Scrunch newspaper into a ball bigger than your head. That is your ant crumb."
     },
     {
      "id": "s3",
@@ -800,7 +800,7 @@
    "title": "Butterfly Watch (if a butterfly visits your balcony or a park nearby)",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you watch a butterfly drinking from a flower. You count her legs, look for her long tongue and see how she holds her wings.",
+   "context": "In this activity you find out how a butterfly drinks and how many legs she stands on. You watch a butterfly drinking from a flower. You count her legs, look for her long tongue and see how she holds her wings.",
    "materials": [
     {
      "item": "a flowering plant on a balcony, or flowers in a park",
@@ -818,7 +818,7 @@
      "what": "Wait quietly near flowers in the late morning, watch a butterfly, and count her legs."
     }
    ],
-   "record": "A drawing of the butterfly, showing her legs, antennae and tongue.",
+   "record": "A photo of the butterfly. Or tell your grown-up what you saw of her legs, antennae and tongue.",
    "setup": [
     {
      "art": "A child sitting very still on a balcony next to a pot of flowering plants, with a butterfly on a flower.",
@@ -841,7 +841,7 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "When a butterfly lands, count her legs, look for her long tongue and look at her antennae. Take a photo if you can.",
+     "do": "When a butterfly lands, count her legs and look for her long tongue. Look at her antennae, the two thin feelers on her head. Take a photo if you can.",
      "say": "How many legs can you see holding on? Look near her head too. Can you see her tongue going into the flower?",
      "kid": "Count her legs. Look near her head. Find her long tongue.",
      "parent": "Many butterflies, like the plain tiger and the common crow, hold their two small front legs folded up. They seem to have four legs. A photo zoomed in shows all six."
@@ -855,7 +855,7 @@
    "title": "Six, Eight or None? A leg-counting race",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a sorting race about small creatures. Players turn over a creature card and race to the mat with the right number of legs: six, eight, none, or lots.",
+   "context": "This is a sorting race about small creatures. You will find out which ones have six legs, which have eight, and which have none or lots. Players turn over a creature card and race to the mat with the right number of legs: six, eight, none, or lots.",
    "setup": [
     {
      "art": "Four paper mats on a floor labelled 'Six legs', 'Eight legs', 'No legs' and 'Lots of legs', with a pile of face-down cards in the middle.",
@@ -1033,10 +1033,10 @@
      "mins": 10,
      "do": "1. Take turns to turn over a card and read the name. 2. Everyone races to the right mat. 3. Read the back aloud.",
      "say": "Scorpion! Six, eight, none or lots? Quick!",
-     "kid": "Turn over a card. Slap the right mat. Read the back.",
+     "kid": "Turn over a card. Put a hand on the right mat. Read the back.",
      "ask": [
       {
-       "q": "A butterfly seems to stand on four legs. Which mat does she go on?",
+       "q": "A butterfly folds two legs up, so she looks like she has four. Which mat does she go on?",
        "good": [
         "Six legs, because she keeps two folded up.",
         "Six, because a butterfly is an insect."
@@ -1049,8 +1049,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the cards on each mat together.",
-     "say": "Which mat has the most cards? That is because there are more kinds of insects than of any other animal group.",
-     "kid": "Which mat has the most cards?",
+     "say": "Which mat has the most cards? Why do you think so many are on that mat?",
+     "kid": "Count the cards on each mat.",
      "parent": "There are more kinds of insects than of any other animal group. Scientists have named about a million kinds."
     }
    ]
@@ -1107,7 +1107,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Tell the children how real honeybees dance.",
-     "say": "A bee who finds flowers flies home and dances on the honeycomb. She waggles as she walks. The direction tells her sisters which way to go. A longer waggle means the flowers are further away.",
+     "say": "A bee who finds flowers flies home and dances on the honeycomb. She waggles as she walks, which means she wiggles her body from side to side. The direction she walks tells her sisters which way to go. A longer waggle walk means the flowers are further away.",
      "kid": "Bees dance to show the way to flowers. A long waggle means far away."
     },
     {
@@ -1116,14 +1116,14 @@
      "do": "Play several rounds. Each time, the dancer hides the flower and dances, without talking.",
      "say": "No words! Only the dance. Which way is the dancer pointing? Is the waggle walk long or short?",
      "kid": "Watch the dance. Which way? Near or far? Go and find the flower!",
-     "parent": "Real bees dance on the honeycomb in the dark hive. The direction of the waggle walk shows which way to fly, and the length shows how far. In the game, the dancer simply walks towards the flower."
+     "parent": "Real bees dance on the honeycomb in the dark hive. The direction of the waggle walk shows which way to fly, and the length shows how far. In the game, the dancer waggles while walking towards the flower. A short walk means near, and a long walk means far."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Talk about what the game shows.",
      "say": "Was it easy to find the flower from a dance? What did the waggle show you: the way, how far, or both?",
-     "kid": "Was the dance easy to follow? What did the waggle show you?"
+     "kid": "Tell your grown-up what the dance showed you."
     }
    ]
   }
@@ -1134,7 +1134,7 @@
    "title": "Small Creature Diary: one window, five days",
    "mins": 25,
    "days": 5,
-   "context": "In this project you watch one place in your home for five minutes every day for five days: a window sill, a balcony corner or the kitchen platform. You write down every small creature you see, with their legs counted.",
+   "context": "In this project you find out who visits your home every day. You watch one place in your home for five minutes every day for five days: a window sill, a balcony corner or the kitchen platform. You write down every small creature you see, with their legs counted.",
    "materials": [
     {
      "item": "a notebook with a page for each day",
@@ -1187,9 +1187,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Choose the place with your child. Watch for 5 minutes. Your child draws each creature, counts the legs and makes a tally mark for each one.",
-     "say": "This is our watching place for five days. Let's see who visits. Draw each one and count their legs.",
-     "kid": "This is your watching place. Draw who you see. Count their legs."
+     "do": "Choose the place with your child. Watch for 5 minutes. Your child counts the legs of each creature. For each one, write its name and make a tally mark, a small line, beside it. A phone photo is fine too.",
+     "say": "This is our watching place for five days. Let's see who visits. Count their legs, and we will make a tally mark for each one.",
+     "kid": "This is your watching place. Count the legs of each creature you see."
     },
     {
      "id": "s2",
@@ -1205,7 +1205,7 @@
      "mins": 5,
      "do": "On day 5, watch for 5 minutes, then count up all the tally marks.",
      "say": "Let's count. How many insects did you see? How many spiders? Which creature came every day?",
-     "kid": "Count your marks. Who came most often?",
+     "kid": "Count the tally marks for each kind of creature.",
      "ask": [
       {
        "q": "Which creature did you see most often? Why might that be?",
@@ -1224,7 +1224,7 @@
    "id": "c1",
    "title": "Web Builder: make a web that catches the most paper flies",
    "mins": 25,
-   "context": "This is a design challenge. A spider builds a web of silk to catch flying insects. Now you build a web of thread on a clothes hanger, and test how many paper 'flies' it catches.",
+   "context": "This is a design challenge. You will find out what makes a web catch the most flies. A spider builds a web of silk to catch flying insects. Now you build a web of thread on a clothes hanger, and test how many paper 'flies' it catches.",
    "problem": "Can you build a thread web on a clothes hanger that catches some of the 10 paper balls thrown at it? Count the catches, change one thing, and try to catch more.",
    "constraints": [
     "Use one clothes hanger and one reel of sewing thread, or wool.",
@@ -1265,20 +1265,20 @@
      "mins": 3,
      "do": "Read the challenge together. Look at a real web in a corner if there is one, or at the picture.",
      "say": "A spider's web catches flying insects. Can you build a web that catches paper flies?",
-     "kid": "Build a web. Can it catch paper flies?"
+     "kid": "Look at a real web, or the picture. Where are the threads?"
     },
     {
      "id": "s2",
      "mins": 12,
-     "do": "Your child builds a web on the hanger. Help with knots if needed.",
+     "do": "Your child ties threads across the hanger. Help with knots if needed. Wrap short strips of cello tape round some threads, sticky side out, so the paper flies can stick.",
      "say": "Where will you tie the threads? How close together should they be?",
-     "kid": "Tie threads across the hanger. Make your web.",
+     "kid": "Tie threads across the hanger. Add tape, sticky side out, so it catches.",
      "parent": "Let your child try their own idea first, even if the gaps are big. The test will show what works."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Hang the web from a door handle. 2. Make 10 paper balls. 3. Throw them gently from three big steps away. 4. Count the catches. 5. Change one thing and test again.",
+     "do": "1. Hang the web from a door handle. 2. Make 10 small paper balls, each the size of a grape. 3. Throw them gently from three big steps away. 4. Count the catches. 5. Change one thing and test again.",
      "say": "Let's test it. How many flies did your web catch? What could you change to catch more?",
      "kid": "Throw 10 flies. Count the catches. Change one thing. Try again.",
      "ask": [

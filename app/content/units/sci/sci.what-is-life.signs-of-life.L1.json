@@ -255,7 +255,7 @@
    "title": "Mother and Baby: a matching game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a memory game about having young. Every living thing has young, and the young grow up to be like their parents. Players find the parent and the young that belong together.",
+   "context": "This is a memory game about having young. Every living thing has young, and the young grow up to be like their parents. You will find out which parent and young belong together, even when they look nothing alike.",
    "printables": [
     {
      "kind": "cards",
@@ -405,7 +405,7 @@
     }
    ],
    "rules": [
-    "Before you play, draw the living thing on each card under the name, so a child who cannot read can play. The parent draws the parents, the child draws the young.",
+    "Before you play, look at the five cards with no photo: chick, tadpole, crow chick, mother and baby. Draw a small picture on each, so a child who cannot read can play. Your child can draw too, or just watch.",
     "Mix the cards and lay them face down in rows.",
     "On your turn, turn over two cards and say what they are.",
     "If they are a parent and their young, keep the pair and have another turn.",
@@ -416,16 +416,16 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Read each card name to your child. 2. You draw the parent animals and your child draws the young, one small picture on each card. 3. Mix the cards and lay them face down in four rows of five.",
-     "say": "Every living thing has young. Let's make our cards first. You draw the hen, I'll read the next name.",
-     "kid": "Draw a picture on each card. A hen. A chick. A cow. Then mix them up."
+     "do": "1. Cut out the cards. 2. Read each name to your child. 3. Draw a small picture on the five cards with no photo, or let your child do it. 4. Mix the cards and lay them face down in four rows of five.",
+     "say": "Every living thing has young. First we get the cards ready. Then we play a memory game.",
+     "kid": "Help cut out the cards. Look at each picture and say its name."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "1. Take turns turning over two cards. 2. Read the names aloud for your child. 3. When a pair is found, ask the question below.",
-     "say": "Turn over two cards. Is that a mother and her baby? How do you know?",
-     "kid": "Turn over two cards. Do they go together? Keep them if they do.",
+     "say": "Turn over two cards. Is that a parent and its young? How do you know?",
+     "kid": "Turn over two cards. Keep them if they are a parent and its young.",
      "ask": [
       {
        "q": "The tadpole looks nothing like a frog. How do we know a tadpole is a young frog?",
@@ -458,7 +458,7 @@
    "setup": [
     {
      "art": "Twenty small cards on a table, each with a name and a child's drawing: hen, chick, cow, calf, frog, tadpole and more.",
-     "caption": "1. Draw a living thing on each card."
+     "caption": "1. Get the cards ready. Draw a picture on any card with no photo."
     },
     {
      "art": "Cards laid face down in four rows of five, with two cards turned up: a hen and a chick.",
@@ -471,7 +471,7 @@
    "title": "Wiggle, Sit or Statue",
    "mins": 10,
    "players": "1 or more players and a caller",
-   "context": "This is a moving game about alive, once alive and never alive. The caller says a thing, and the players move to show which kind of thing it is.",
+   "context": "This is a moving game about alive, once alive and never alive. The caller says a thing, and the players move to show which kind of thing it is. You will find out how well you can tell the three kinds apart.",
    "printables": [
     {
      "kind": "cards",
@@ -616,9 +616,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask the check question.",
+     "do": "Read the ceiling fan card. Then ask the check question.",
      "say": "One tricky one. The fan moves round and round. Why did we freeze for the fan?",
-     "kid": "The fan moves. Is the fan alive?",
+     "kid": "Think about what a living thing does. Does the fan do those things?",
      "check": {
       "t": "mcq",
       "q": "The ceiling fan moves. Is the fan alive?",
@@ -691,10 +691,10 @@
     {
      "day": 1,
      "mins": 25,
-     "what": "Two or three hours before, leave two mint sprigs out on a plate to go floppy. Feel the mint, the tej patta and the paper leaf. Guess which ones will stand up in water. Put one mint sprig, the tej patta and the paper leaf in cups of water, and leave the other mint sprig on the dry plate. Wait one hour. Feel them again and draw what you see."
+     "what": "Two or three hours before, leave two mint sprigs out on a plate to go floppy. Feel the mint, the tej patta and the paper leaf. Guess which ones will stand up in water. Put one mint sprig, the tej patta and the paper leaf in cups of water, and leave the other mint sprig on the dry plate. Wait one hour. Feel them again and say what changed."
     }
    ],
-   "record": "Draw the three cups and the plate, before and after. Circle the ones that changed.",
+   "record": "Take a photo of the three cups and the plate, before and after, or draw them. Then fill in the results table in words.",
    "flow": [
     {
      "id": "s1",
@@ -718,7 +718,7 @@
      "mins": 3,
      "do": "Ask your child to guess, and to say why. Write the guess down.",
      "say": "We will put each one in water. Which ones will stand up again? Why do you think so?",
-     "kid": "Guess. Which will stand up in water? Why?",
+     "kid": "Guess. Point to the ones you think will stand up.",
      "ask": [
       {
        "q": "Which ones will stand up in water, and why?",
@@ -743,7 +743,7 @@
      "mins": 1,
      "do": "Leave the cups for one hour. Play Wiggle, Sit or Statue while you wait.",
      "say": "Now we wait one hour. Water takes some time to move into a leaf.",
-     "kid": "Now we wait one hour.",
+     "kid": "Play while you wait. Then come back.",
      "wait": "Leave the cups for one hour."
     },
     {
@@ -751,7 +751,7 @@
      "mins": 7,
      "do": "1. Look at each cup together. 2. Let your child touch each leaf again. 3. Compare the mint in water with the mint on the plate.",
      "say": "Look and touch. What happened to each one?",
-     "kid": "Look at each cup. Touch each leaf. What changed?",
+     "kid": "Look at each cup and touch each leaf again.",
      "ask": [
       {
        "q": "What happened to the mint in water?",
@@ -773,9 +773,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Ask your child to say what they think, what they saw, and why. Then draw the cups together.",
+     "do": "Ask your child to say what they think, what they saw, and why. Then fill in the results table together, in words.",
      "say": "So, is the picked mint still alive? What did you see that tells you?",
-     "kid": "Is the mint still alive? Say what you saw. Then draw it.",
+     "kid": "Tell what you saw. Then say what it shows about the mint.",
      "ask": [
       {
        "q": "Why did only the mint stand up?",
@@ -852,10 +852,10 @@
    "title": "Three Plates: sort the kitchen",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you collect things from the kitchen and sort them onto three plates: alive, once alive and never alive.",
+   "context": "In this activity you collect things from the kitchen and sort them onto three plates: alive, once alive and never alive. You will find out how many things around you were once alive.",
    "materials": [
     {
-     "item": "three plates, labelled with a drawing: a smiling plant (alive), a leaf with a tick (once alive), a stone (never alive)",
+     "item": "three plates, each with a paper label: Alive, Once alive, Never alive",
      "qty": 3
     },
     {
@@ -870,14 +870,14 @@
      "what": "Collect 10 kitchen things. Sort them onto three plates. Say why for each one."
     }
    ],
-   "record": "Draw your three plates and what went on each one.",
+   "record": "Take a photo of your three plates, or draw them and what went on each one.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Make three paper labels: draw a small plant on one, a leaf with a tick on the next, and a stone on the last. Put one label on each plate. 2. Put out the three plates and show your child each drawing. 3. Bring out the kitchen things one at a time.",
+     "do": "1. Write three paper labels: Alive, Once alive and Never alive. Put one label on each plate. 2. Put out the three plates and read each label to your child. 3. Bring out the kitchen things one at a time.",
      "say": "This plate is for things that are alive now. This one is for things that were once alive. This one is for things that were never alive.",
-     "kid": "Look at the three plates. Alive. Once alive. Never alive."
+     "kid": "Point to the plate for things that are alive now."
     },
     {
      "id": "s2",
@@ -901,7 +901,7 @@
      "mins": 2,
      "do": "Pick up the potato and ask the question below.",
      "say": "Here is a tricky one. Is the potato alive?",
-     "kid": "Is the potato alive? What do you think?",
+     "kid": "Pick the plate for the potato. Say why.",
      "ask": [
       {
        "q": "Is a potato alive?",
@@ -929,7 +929,7 @@
    "title": "Breath on a Steel Plate",
    "mins": 5,
    "days": 1,
-   "context": "In this activity you breathe out on a cool steel plate and see a cloudy patch. Then you test a doll or a toy. Breathing is a sign of life.",
+   "context": "In this activity you breathe out on a cool steel plate and see a cloudy patch. Then you test a doll or a toy. You will find out how to see your own breath, and whether a doll breathes. Breathing is a sign of life.",
    "problem": "The air you breathe out is warm and wet. On a cool plate, the wet part makes a cloudy patch. So a cloudy patch shows that someone is breathing out. We try the plate near you and near a doll, to see which one breathes.",
    "materials": [
     {
@@ -948,14 +948,14 @@
      "what": "Ten minutes before, put a steel plate in the fridge. Breathe out on the plate and look for a cloudy patch. Then hold the plate near a toy's mouth and look again."
     }
    ],
-   "record": "Draw the plate with your breath patch, and the plate near the toy.",
+   "record": "Tell your grown-up what you saw on the plate near you and near the toy. You can draw it too.",
    "flow": [
     {
      "id": "s1",
      "mins": 2,
      "do": "1. Hold the plate a hand's width from your child's mouth. 2. Ask them to breathe out slowly, with an open mouth, like a 'haaa'.",
-     "say": "Breathe out on the plate, slowly. Haaa. What do you see?",
-     "kid": "Hold the plate near your mouth. Say haaa. Look!",
+     "say": "Breathe out on the plate, slowly. Haaa. Look closely.",
+     "kid": "Breathe out on the plate. Say haaa. Look!",
      "ask": [
       {
        "q": "What do you see on the plate?",
@@ -1002,7 +1002,7 @@
    "title": "I Am Growing: my hand now and later",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you draw round your hand and keep the drawing. You also try on something you wore as a baby. Growing is a sign of life.",
+   "context": "In this activity you draw round your hand and keep the drawing. You also try on something you wore as a baby. You will find out how much you have grown, and see how much more you grow in six months. Growing is a sign of life.",
    "materials": [
     {
      "item": "a sheet of paper and a pencil",
@@ -1027,17 +1027,17 @@
      "mins": 4,
      "do": "1. Put your child's hand flat on the paper. 2. Draw round it. 3. Write the date beside it.",
      "say": "Let's draw round your hand. We'll keep it and see if your hand grows.",
-     "kid": "Put your hand flat on the paper. Keep still. Now look!"
+     "kid": "Put your hand flat on the paper. Keep still while your grown-up draws round it."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Bring out the baby vest, sock or photo. Let your child try it on or hold it next to themselves.",
      "say": "You wore this when you were a baby. Does it fit now? Why not?",
-     "kid": "Try on your baby sock. Does it fit?",
+     "kid": "Try on your baby things, or hold them next to you.",
      "ask": [
       {
-       "q": "Why doesn't the baby sock fit any more?",
+       "q": "Why don't your baby things fit any more?",
        "good": [
         "Because I grew bigger.",
         "Because my feet grew."
@@ -1048,9 +1048,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask your child what their body grew from.",
-     "say": "You grew so much. What did your body grow from?",
-     "kid": "What helps you grow?",
+     "do": "Ask your child what helps their body grow.",
+     "say": "You grew so much! What helped you grow?",
+     "kid": "Think about what you eat and do every day.",
      "ask": [
       {
        "q": "What helps you grow?",
@@ -1079,7 +1079,7 @@
    "title": "A Tomato Full of Young",
    "mins": 8,
    "days": 1,
-   "context": "In this activity a grown-up cuts a tomato in half, and you look at the seeds inside. Each seed is a young tomato plant, waiting to grow.",
+   "context": "In this activity a grown-up cuts a tomato in half, and you look at the seeds inside. You will find out where a new tomato plant comes from. Each seed is a young tomato plant, waiting to grow.",
    "materials": [
     {
      "item": "a ripe tomato",
@@ -1102,14 +1102,14 @@
      "what": "Cut a tomato in half. Look at the seeds. Count the seeds on a spoon."
     }
    ],
-   "record": "Draw the cut tomato and the seeds.",
+   "record": "Tell your grown-up how many seeds were on the spoon. You can draw the cut tomato too.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "Cut the tomato across the middle, not from top to bottom. Show both halves.",
      "say": "Look inside the tomato. What do you see?",
-     "kid": "Look inside. What are the little round things?",
+     "kid": "Look inside the tomato. Point to the little pale things.",
      "adult": true,
      "ask": [
       {
@@ -1134,7 +1134,7 @@
      "mins": 2,
      "do": "Ask the check question.",
      "say": "If we planted all of these, what would happen?",
-     "kid": "What would grow from these seeds?",
+     "kid": "Look at the seeds. Think about what they could turn into.",
      "check": {
       "t": "mcq",
       "q": "What can grow from a tomato seed?",
@@ -1164,7 +1164,7 @@
    "title": "Window Watch: what is alive out there?",
    "mins": 6,
    "days": 1,
-   "context": "In this activity you look out of a window or a balcony for five minutes, and count the living things you see.",
+   "context": "In this activity you look out of a window or a balcony for five minutes, and count the living things you see. You will find out how many living things are close to your home.",
    "materials": [
     {
      "item": "a window or balcony",
@@ -1182,7 +1182,7 @@
      "what": "Look out of a window for five minutes. Make a mark for every living thing you see."
     }
    ],
-   "record": "A mark for each living thing, and a drawing of your favourite one.",
+   "record": "A mark for each living thing. Tell your grown-up about your favourite one, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1227,7 +1227,7 @@
    "title": "Mint Grows Roots",
    "mins": 20,
    "days": 14,
-   "context": "In this two-week project you keep a mint sprig in a glass of water and watch for new roots. A picked sprig that grows roots is clearly still alive.",
+   "context": "In this two-week project you keep a mint sprig in a glass of water and watch for new roots. You will find out if a picked sprig can start a new plant. A sprig that grows roots is clearly still alive.",
    "materials": [
     {
      "item": "two fresh mint (pudina) sprigs with long stalks",
@@ -1252,7 +1252,7 @@
     {
      "day": 8,
      "mins": 4,
-     "what": "Look for white roots. Draw them. Change the water."
+     "what": "Look for white roots. Measure the longest one against your finger. Change the water."
     },
     {
      "day": 14,
@@ -1260,7 +1260,7 @@
      "what": "Look at the roots. Plant one sprig in a pot of soil if you have one."
     }
    ],
-   "record": "Draw the stalk under the water on day 1, day 4, day 8 and day 14.",
+   "record": "On day 1, day 4, day 8 and day 14, take a photo of the stalk under the water, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1282,9 +1282,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Look for white roots. Draw them together. Change the water.",
+     "do": "Look for white roots. Measure the longest one against your child's finger. Change the water.",
      "say": "Look! Are those roots? Where are they growing from?",
-     "kid": "Look for roots. Draw them.",
+     "kid": "Look for roots. Find the longest one. Is it as long as your fingertip?",
      "parent": "Mint usually grows roots in about one or two weeks. In cold weather it can take longer. If one sprig goes brown and soft, take it out and keep watching the other.",
      "wait": "Leave the glass for 6 more days."
     },
@@ -1293,7 +1293,7 @@
      "mins": 8,
      "do": "Look at the roots together and ask the question below. If you have a pot of soil, plant one sprig.",
      "say": "The mint was picked from the plant. Now the mint has new roots. Is the mint alive?",
-     "kid": "The mint grew roots. Is it alive?",
+     "kid": "Look at the roots. Think about what they show.",
      "ask": [
       {
        "q": "How do you know the mint is alive?",
@@ -1322,7 +1322,7 @@
    "id": "c1",
    "title": "Make a Toy That Seems Alive",
    "mins": 20,
-   "context": "This is a making challenge. You make a paper toy that seems alive. Then you check which signs of life your toy has.",
+   "context": "This is a making challenge. You make a paper toy that seems alive. Then you check which signs of life your toy has. You will find out which signs of life a toy can copy, and which it cannot.",
    "problem": "Can you make a toy that looks alive? It should move or seem to eat. Then we check: which signs of life does your toy really have?",
    "constraints": [
     "Use only paper, card, string, tape and things from home.",
@@ -1351,23 +1351,23 @@
      "mins": 3,
      "do": "Read the challenge to your child. Show the materials.",
      "say": "Let's make a toy that seems alive. It can move, or open its mouth to eat. What will you make?",
-     "kid": "Make a toy that seems alive. What will you make?"
+     "kid": "Choose one idea: a toy that moves, or a toy that eats."
     },
     {
      "id": "s2",
      "mins": 12,
      "do": "Help your child make the toy. Cut where needed.",
      "say": "How will you make it move? Which part will move?",
-     "kid": "Make your toy. How will it move?",
+     "kid": "Build your toy. Think about which part will move.",
      "adult": true,
-     "parent": "Keep it simple: a folded paper snake on a string works well. Your child does the drawing and colouring."
+     "parent": "Keep it simple: a folded paper snake on a string works well. Colouring is optional."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Play with the toy. Go through the signs of life one by one.",
      "say": "Does your toy move? Does it eat? Does it grow? Does it breathe? Can it have babies?",
-     "kid": "Does your toy eat? Grow? Breathe? Have babies?",
+     "kid": "Answer yes or no for each sign. Thumbs up or thumbs down.",
      "ask": [
       {
        "q": "Your toy moves. Is your toy alive?",

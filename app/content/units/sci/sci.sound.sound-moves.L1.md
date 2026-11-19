@@ -218,28 +218,28 @@ It was only a whisper. But across the road, the light blinked off and on again.
   *Parent does:* Read the cards one by one. After each answer, ask why. Act out the ones you can at home.  
   *Parent says:* Who hears it louder? Why do you think so? Let's try it.  
   *Child mode:* Who hears it louder? Why? Let's try!
-  - Ask: Why does the person far away hear it more softly? (good: The sound spreads out on the way.; Less of it reaches them.)
+  - Ask: What happens to the sound on its way to the listener? (good: The sound spreads out on the way.; Less of it reaches them.)
 - **s3 (1 min)**  
   *Parent does:* Count the cards each player kept.  
   *Parent says:* Which card was the trickiest? Why?  
-  *Child mode:* Count your cards. Which was the hardest?
+  *Child mode:* Count how many cards you kept.
 
 ## Experiments
 ### e1 · Walk Away: how far can you hear it? (25 min)
 - **question:** Does every sound travel the same distance before you stop hearing it? And does a hard crinkle travel further than a gentle one?
 - **predict:** The grown-up will rub fingers, crinkle a plastic bag and tap a spoon on a steel tumbler. Which sound will you hear from furthest away? Which will fade first? Why do you think so?
 - **fair test:** The grown-up stays on the same spot and makes each sound at the same height, next to their shoulder. They make each sound the same way each time. You take the same small steps, with the heel of one foot touching the toes of the other, and you close your eyes before each sound.
-- **record:** Draw the hallway as a long box. Draw the grown-up at one end. Draw a chappal for each sound where it faded, with a small picture of the sound next to it: fingers, a bag, a tumbler.
+- **record:** Leave the three chappals where each sound faded. Take a photo, or tell your grown-up which sound went furthest and how many steps it took. They write the steps in the table.
 - **results table:** Sound | My guess: near, middle or far? | Steps until I could not hear it
 - **s1 (3 min)**  
   *Parent does:* 1. Switch off the fan, the TV and any music. 2. Find the longest straight line in your home. 3. Stand at one end with the bag, the tumbler and the spoon.  
   *Parent says:* We are going to find out how far a sound can travel in our home. First, let's make the house quiet.  
-  *Child mode:* Help make the house quiet. Switch off the TV and the fan.
+  *Child mode:* Help make the house very quiet. Other noises would hide the sounds we want to hear.
   - Note: A hallway, or two rooms joined by an open door, works well. Other noises make sounds fade sooner, so a quiet time of day helps.
 - **s2 (3 min)**  
   *Parent does:* Make each sound once while your child stands next to you. Rub your thumb and finger together beside your ear. Crinkle the bag. Tap the tumbler gently with the spoon.  
   *Parent says:* Here are our three sounds. Listen to each one. Which will you hear from furthest away? Which will fade first? Why do you think so?  
-  *Child mode:* Listen to the three sounds. Which will you hear from far away? Why?
+  *Child mode:* Listen closely to the three sounds, one after another.
   - Ask: Which sound do you think will go furthest? Why? (good: The tumbler, because it is loudest.; The bag, because it is crinkly.; The fingers, because I can hear them well now.)
   - Note: Write the guesses in the table. Any guess with a reason is good. Don't say what will happen.
 - **s3 (6 min)**  
@@ -257,7 +257,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 - **s5 (4 min)**  
   *Parent does:* 1. Stand your child at the chappal for the bag. 2. Crinkle the bag gently, then hard. 3. Ask which one they heard.  
   *Parent says:* You are standing where the bag faded. I will crinkle it gently. Now hard. Which one could you hear?  
-  *Child mode:* Listen. A gentle crinkle. Now a hard one. Which can you hear?
+  *Child mode:* Stand where the bag faded. Listen to a gentle crinkle, then a hard one.
   - Ask: Which crinkle reached you? (good: The hard one.; I heard the hard one, not the gentle one.)
   - Check: Which sound can travel further before it fades? → **A hard crinkle**
 - **s6 (4 min)**  
@@ -269,7 +269,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 - **question:** Does a paper cone make a voice easier to hear from far away? Does it matter which way the cone points?
 - **predict:** The grown-up will say the same words three ways: with no cone, with the cone pointing at you, and with the cone pointing at the wall. Which way will be clearest? Why do you think so?
 - **fair test:** The grown-up stays on the same spot and uses the same quiet voice each time. You stay at the same far spot. The words are different each time, so you cannot guess them.
-- **record:** Draw the grown-up speaking three ways: no cone, cone pointing at you, cone pointing at the wall. Draw a smiling ear next to the clearest one.
+- **record:** Tell your grown-up which way was clearest and why. They write it in the table next to the three ways.
 - **results table:** How the grown-up spoke | My guess: clear, a little, or not at all? | What I heard: clear, a little, or not at all?
 - **s1 (3 min)**  
   *Parent does:* Lay two sheets of newspaper on top of each other. Roll them into a cone, wide at one end and narrow at the other. Tape it.  
@@ -279,7 +279,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 - **s2 (3 min)**  
   *Parent does:* 1. Your child stands far away, at the spot where a quiet voice is only just clear. 2. Ask them to guess which way will be clearest, and why.  
   *Parent says:* I will say some words three ways: with no cone, with the cone pointing at you, and with the cone pointing at the wall. Which way will be clearest? Why?  
-  *Child mode:* Which way will you hear best? Why do you think so?
+  *Child mode:* Stand far away, where a quiet voice is only just clear. Think about which way will be clearest.
   - Ask: Which way do you think will be clearest? (good: The cone pointing at me.; The cone, because it is like a loudspeaker.)
   - Note: Find the spot by talking quietly and asking your child to step back until your words are only just clear. A whisper works too.
 - **s3 (5 min)**  
@@ -289,15 +289,15 @@ It was only a whisper. But across the road, the light blinked off and on again.
   - Ask: When was the voice clearest? (good: When the cone pointed at me.; With the cone, facing me.)
   - Note: Keep your voice at exactly the same loudness. Use new words each time, like 'Idli for breakfast', 'The crow is on the wall', 'Ten red bangles'. Usually the cone pointing at your child is clearest, and the cone pointing at the wall is the hardest to hear. The change is small but real. If you cannot tell the difference, stand a few steps further back.
 - **s4 (4 min)**  
-  *Parent does:* Ask your child what they think now, what they heard, and why they think the cone helped. Write the answers down in their words.  
-  *Parent says:* What do you think now? What did you hear? Why do you think the cone helped?  
+  *Parent does:* Ask your child what they think now, what they heard, and whether the cone helped. Write the answers down in their words.  
+  *Parent says:* What do you think now? What did you hear? Did the cone help? Why do you think so?  
   *Child mode:* Say what you think. Say what you heard. Say why.
   - Note: A strong answer sounds like this. 'With the cone pointing at me, the words were clearest. Pointing at the wall, they were hard to hear. The cone sends the voice one way, instead of to every side.'
   - Check: Your friend is far away, in front of you. Which way should the wide end of the cone point? → **At your friend**
 
 ## Activities
 ### a1 · All Around the Tumbler (8 min)
-- **record:** Draw the tumbler in the middle of the page. Draw yourself in every spot where you heard it. Draw sound lines going out from the tumbler to every side.
+- **record:** Put the tumbler on the floor. Put a chappal in every spot where you heard it. Take a photo, or draw it if you like.
 - **s1 (2 min)**  
   *Parent does:* Sit in the middle of the room with the tumbler. Your child stands in front of you, about three steps away. Tap the tumbler gently twice.  
   *Parent says:* Close your eyes. I will tap the tumbler. Point to where the sound is.  
@@ -310,14 +310,14 @@ It was only a whisper. But across the road, the light blinked off and on again.
   - Ask: Where could you hear the tap? (good: Everywhere.; Even behind and round the door.)
   - Note: Your child will hear the tap in every spot, even round the door. It may sound a little softer there. Don't explain yet. Let them notice.
 - **s3 (2 min)**  
-  *Parent does:* Ask your child what they found. Then ask them to draw it.  
+  *Parent does:* Ask your child what they found.  
   *Parent says:* The tumbler is in one place. But you heard it in front, behind, at the sides and round the door. What does that tell you about the sound?  
-  *Child mode:* You heard it everywhere. Which way did the sound go?
+  *Child mode:* The tumbler stayed in one place. You heard it in every spot.
   - Ask: Which way does a sound go from the tumbler? (good: Every way.; It spreads out to all sides.)
   - Note: The word to bring in now is 'spread out'. The sound spreads out to every side from its source, like ripples on water.
 ### a2 · Count After the Lightning (10 min)
 - **safety:** Watch from inside, through a window or from a covered balcony. Stay away from open terraces, water and tall trees in a storm.
-- **record:** Draw a line of lightning flashes. Under each one, write or draw the count you got: for example, five dots for a count of five.
+- **record:** Write the count for each flash in a list. For example: flash 1, count 5.
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* On a stormy evening, sit with your child by a closed window or on a covered balcony.  
   *Parent says:* Watch the sky. When you see a flash, we will count slowly together until the thunder comes.  
@@ -331,16 +331,16 @@ It was only a whisper. But across the road, the light blinked off and on again.
 - **s3 (2 min)**  
   *Parent does:* Look at the numbers together.  
   *Parent says:* Look at our numbers. Are they getting bigger or smaller? Is the storm coming closer, or going away? Why do you think so?  
-  *Child mode:* Are the numbers getting bigger or smaller? What does that mean?
+  *Child mode:* Look at the numbers you wrote. Are they getting bigger or smaller?
   - Ask: What does a bigger count mean? (good: The storm is further away.; The sound had further to travel.)
   - Note: Lightning and thunder are made at the same moment. The light arrives almost at once. The sound takes about three seconds to travel one kilometre. So a longer count means a storm further away.
 ### a3 · Be the Air: pass the sound along (8 min)
 - **problem:** We cannot see a sound move, so this act-out shows how it travels. The steel plate is the sound source, and the people in the line are the air. Each person gently taps the next, the way each bit of air pushes the next bit, until the push reaches the paper ear.
-- **record:** Draw your family in a line, with a steel plate at one end and a big ear at the other. Draw arrows from each person to the next.
+- **record:** Take a photo of the line, or tell another grown-up what each person did to pass the tap along.
 - **s1 (2 min)**  
-  *Parent does:* Draw a big ear on a sheet of paper and tape it to a wall. Everyone else stands in a line between the steel plate and the ear, facing the ear.  
+  *Parent does:* Write EAR on a sheet of paper and tape it to a wall. Everyone else stands in a line between the steel plate and the ear, facing the ear.  
   *Parent says:* The plate is the sound source. The paper is an ear. We are the air in between.  
-  *Child mode:* The plate makes the sound. The paper is an ear. We are the air.
+  *Child mode:* You are the air. Your job is to pass the tap along.
   - Note: With only two people, you tap the plate and your child is the air. They pass the tap on to the paper ear.
 - **s2 (4 min)**  
   *Parent does:* The first person taps the plate once, then gently taps the shoulder of the next person. Each person passes the tap on. The last person touches the ear and says 'I hear it!'  
@@ -348,9 +348,9 @@ It was only a whisper. But across the road, the light blinked off and on again.
   *Child mode:* Feel the tap on your shoulder. Pass it on gently.
   - Ask: Did anyone walk to the ear? (good: No.; We stayed in our places. Only the tap moved.)
 - **s3 (2 min)**  
-  *Parent does:* Talk about what happened.  
+  *Parent does:* Ask your child the question, then wait for their answer.  
   *Parent says:* Nobody walked to the ear. But the tap got there. How is that like a sound going through the air?  
-  *Child mode:* Nobody walked. But the tap reached the ear. How?
+  *Child mode:* You are the air. What did you do with the tap?
   - Ask: How does a sound get from the plate to your ear? (good: The air passes it along.; The air next to the plate pushes the next air, all the way to my ear.)
   - Note: This is a model, a way of showing what we cannot see. The air does not rush from the plate to your ear. Each bit of air pushes the next bit, and the push travels.
 
@@ -362,7 +362,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 - **s1 (12 min)**  
   *Parent does:* Walk round your home with your child. On the paper, draw a box for each room, in roughly the right places. Draw the cooker in the kitchen.  
   *Parent says:* Let's draw our home. Here is the kitchen. What room is next to it? Where is your bedroom?  
-  *Child mode:* Draw a box for each room. Draw the cooker in the kitchen.
+  *Child mode:* Draw a box for each room. Draw the cooker in the kitchen. Or lay a sheet of paper on the floor for each room.
   - Note: The map does not need to be neat. A box for each room, joined where the doors are, is enough.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* When the cooker starts to whistle, your child goes to each room and listens. They tell you loud, soft or can't hear. Colour each room on the map.  
@@ -374,7 +374,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 - **s3 (3 min)**  
   *Parent does:* Look at the finished map together.  
   *Parent says:* Look at the colours. Where is the red? Where is the blue? Why do you think the whistle was soft in some rooms?  
-  *Child mode:* Look at the colours. Why was it soft in some rooms?
+  *Child mode:* Find the red rooms and the blue rooms on your map.
   - Ask: Why was the whistle soft in the far rooms? (good: It had further to travel.; It spread out on the way.; The door was shut.)
   - Note: Rooms far from the kitchen are softer, because the sound has spread out more. A shut door also makes the sound softer.
 
@@ -388,7 +388,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
 - **s1 (2 min)**  
   *Parent does:* Read the problem. One person goes to the far room to be the listener. Tap the tumbler at the front door. Did the listener hear it?  
   *Parent says:* You are in the far room. I am the doorbell. Can you hear me? How could we help the sound get to you?  
-  *Child mode:* The listener can't hear the bell. How can the sound reach the far room?
+  *Child mode:* One of you is the listener in the far room. The other is the doorbell.
   - Ask: Why is the bell hard to hear in the far room? (good: It is far away.; The sound spreads out on the way.; The door is half shut.)
 - **s2 (7 min)**  
   *Parent does:* Let your child try two or three ideas. Tap the tumbler the same way each time. The listener says loud, soft or can't hear.  
@@ -399,7 +399,7 @@ It was only a whisper. But across the road, the light blinked off and on again.
   *Parent does:* Ask your child which idea worked best, and why.  
   *Parent says:* Which idea helped the listener hear the bell best? Why do you think it worked?  
   *Child mode:* Which idea worked best? Why?
-  - Ask: Why did opening the door help? (good: The sound did not have to go round the door.; More of the sound could get into the room.)
+  - Ask: Why did your best idea help the sound reach the far room? (good: The sound did not have to go round the door.; More of the sound could get into the room.)
 
 ## Worksheets
 ### Sound Travels (core) (core, 10 questions)

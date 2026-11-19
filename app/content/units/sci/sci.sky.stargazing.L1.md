@@ -169,7 +169,7 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 
 ## Games
 ### g1 · Moon, Star, Planet or Plane? A sorting card game (10 min)
-- **rules:** Mix the 16 cards and put them in a pile, face down.; Lay four papers on the floor: MOON, STAR, PLANET and OTHER. Draw a Moon, a twinkling star, a steady dot and an aeroplane on them.; Players take turns. On your turn, a grown-up reads the front of the top card.; Put the card on the paper you think is right, and say why.; Turn the card over and read the back. If the paper is right, keep the card. If not, put it to one side.; When the pile is finished, count your cards. With two or more children, the most cards wins, and a tie is a shared win. With one child, the goal is 12 cards or more.
+- **rules:** Mix the 16 cards and put them in a pile, face down.; Write MOON, STAR, PLANET and OTHER on four papers, one word on each. Lay them on the floor.; Players take turns. On your turn, a grown-up reads the front of the top card.; Put the card on the paper you think is right, and say why.; Turn the card over and read the back. If the paper is right, keep the card. If not, put it to one side.; When the pile is finished, count your cards. With two or more children, the most cards wins, and a tie is a shared win. With one child, the goal is 12 cards or more.
 - **Printable cards: 16 sky cards:** A big round light that changes shape over the month (back: MOON paper. It shines with sunlight.); A dot that twinkles and shivers (back: STAR paper. Stars make their own light.); A very bright dot, steady, low in the west just after sunset (back: PLANET paper. Probably Venus, shining with sunlight.); A light that moves across the sky and blinks red and green (back: OTHER paper. It is an aeroplane, with its own lamps.); A thin curved shape like a fingernail, just after sunset (back: MOON paper. A thin crescent Moon.); A bright steady dot that slowly changes its place among the stars over many weeks (back: PLANET paper. Planets wander among the stars.); Seven stars in the shape of a ladle (back: STAR paper. These stars are the Saptarishi.); The biggest, brightest light, seen only in the day (back: STAR paper. The Sun is our nearest star. Never look straight at it.); A pale, rocky ball you can sometimes see in the daytime sky (back: MOON paper. The Moon is often up in the day too.); A steady dot that glides smoothly across the sky in a few minutes, with no blinking (back: OTHER paper. It is the space station, with people living in it. It shines with sunlight, like a planet.); A tiny dot that looks reddish and steady (back: PLANET paper. It may be Mars.); A streak of light that flashes across the sky in one second (back: OTHER paper. A shooting star is really a tiny grain of space dust burning up in the air. It is not a star.); A bright dot that twinkles in many colours, very low near the rooftops (back: STAR paper. Low stars twinkle the most.); A round, lit face with grey patches on it (back: MOON paper. You can see these grey patches with your eyes alone.); A very bright, steady dot high up at midnight (back: PLANET paper. It may be Jupiter, Saturn or Mars. Venus is never up at midnight, because Venus stays close to the Sun in our sky.); A red light on top of a tall tower that blinks but never moves (back: OTHER paper. It is a warning lamp on a tower, for aeroplanes. It is not in the sky.)
 - **s1 (1 min)**  
   *Parent does:* Lay out the four papers. Read the rules together.  
@@ -182,8 +182,8 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
   - Note: The tricky cards are the steady dots, the space station and the shooting star. Ask: does it twinkle? Does it move? Does it make its own light?
 - **s3 (2 min)**  
   *Parent does:* Find the red tower lamp card and read it again.  
-  *Parent says:* A red light blinks on a tall tower, but it never moves. Is it a star in the sky?  
-  *Child mode:* A red light blinks on a tower and never moves. Is it a star?
+  *Parent says:* Here is a tricky one again. Listen to where the light is.  
+  *Child mode:* Think about where the red light is. Is it up in the sky?
   - Check: A red light blinks on top of a tall tower and never moves. Is it a star? → **No, it is a lamp on the tower**
 ### g2 · Twinkle, Steady, Fly! A moving game (8 min)
 - **rules:** One player is the caller. The caller holds the call cards.; At the start, the caller reads the back of each card aloud once, so everyone knows the moves.; The caller reads the front of a card out loud. Everyone else does the move, as fast as they can.; Anyone who does the wrong move, such as twinkling for PLANET, becomes the next caller. The caller also changes after every four calls.; If the cards run out, shuffle them and go on. Play until everyone has been the caller once. There is no winner: it is a game to move and laugh.
@@ -194,14 +194,14 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
   *Child mode:* Learn the moves. Star twinkles. Planet stays steady. Plane flies and blinks.
 - **s2 (6 min)**  
   *Parent does:* Play. Call the cards in any order, faster and faster.  
-  *Parent says:* Planet! Moon! Star! Hot air! Which shivers more in moving air, a star or a planet?  
+  *Parent says:* Planet! Moon! Star! Hot air! Faster now!  
   *Child mode:* Listen for the call. Do the move fast!
   - Note: At HOT AIR, ask: why do stars shiver more than planets? A star's light comes from one tiny point, so moving air shakes it more. At MOON, walk round the Moon player. The Moon player stands still, as the real Moon seems to stay put when we move.
 - **s3 (1 min)**  
   *Parent does:* End with one question.  
-  *Parent says:* When you walked round the Moon player, the Moon player stood still. What does that remind you of?  
-  *Child mode:* The Moon player stood still while we walked round. What does that remind you of?
-  - Ask: What does the Moon player standing still remind you of? (good: The Moon seems to stay in the same place when we move.; The Moon looks the same to everyone.)
+  *Parent says:* In the game, the Moon player stood still while someone walked round.  
+  *Child mode:* Think about the real Moon when you walk or ride past it.
+  - Ask: When you walk past, what does the faraway Moon seem to do? (good: The Moon seems to stay in the same place when we move.; The Moon looks the same to everyone.)
 
 ## Experiments
 ### e1 · Does the Moon Follow You? The window strip test (22 min)
@@ -209,30 +209,30 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 - **predict:** When you walk past the window, will the Moon slide away like the paper strips, or stay with you? Why do you think so?
 - **fair test:** We walk the same path each time, between two slippers. We keep our head at the same height, and close the same eye, so only our steps change what we see.
 - **safety:** On a balcony, stay well back from the railing. Never climb on a chair or a ledge to see the Moon. A grown-up stays beside the child.
-- **record:** Draw the window, the three strips and the Moon. Draw an arrow on each thing that slid. A grown-up writes 'near' or 'far' beside each one.
+- **record:** Say what each thing did: the three strips, the far building and the Moon. A grown-up writes 'slid' or 'stayed', and 'near' or 'far', beside each one. You can also draw an arrow on each thing that slid.
 - **results table:** What I watched | Did it slide when I walked? | Near or far?
 - **s1 (5 min)**  
   *Parent does:* 1. Put a steel tumbler on a stool in the middle of a room. 2. Your child stands three big steps away. 3. The tumbler should be in front of something on the far wall, such as a calendar.  
   *Parent says:* Close one eye. Is the tumbler in front of the calendar? Now take two big steps to the side. Where is the tumbler now?  
-  *Child mode:* Close one eye. Look at the tumbler and the calendar. Take two big steps sideways. Look again.
-  - Ask: What seemed to move? (good: The tumbler moved away from the calendar.; The near tumbler slid, and the far wall stayed.)
+  *Child mode:* Keep one eye closed. Take two big steps sideways. Watch the tumbler and the calendar.
+  - Ask: When you stepped sideways, what seemed to move? (good: The tumbler moved away from the calendar.; The near tumbler slid, and the far wall stayed.)
   - Note: Nothing moved except your child. The near tumbler seems to jump across the far wall. Don't explain yet. Let your child notice it and say it in their own words.
 - **s2 (3 min)**  
   *Parent does:* Tell your child about tonight's test. Ask for a guess and a reason. A grown-up writes both down in the table.  
   *Parent says:* Tonight we will walk past the window and watch the Moon. Will the Moon slide away, like the tumbler? Or will it come with you? Why do you think so?  
-  *Child mode:* Will the Moon slide away, or come with you? Why do you think so?
+  *Child mode:* Think about the tumbler. Then guess what the Moon will do, and why.
   - Ask: What will the Moon do, and why? (good: It will come with me, because it follows our car.; It will slide, like the tumbler did.)
   - Note: Any guess is fine. Most children of six say the Moon will come with them. Don't say what will happen.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. After dark, find a window or balcony where you can see the Moon. 2. Stick three paper strips on the glass, a hand-width apart, near the Moon. 3. Put a slipper at each end of a three-step path.  
   *Parent says:* Stand at this slipper. Close one eye. Is the Moon to the left or the right of the first strip?  
-  *Child mode:* Stand at the slipper. Close one eye. Find the Moon. Where is it next to the strips?
+  *Child mode:* Remember where the Moon is, compared with the strips.
   - Note: Pick an evening when the Moon is up (see the Look Closely at the Moon activity). A calendar that shows Purnima helps. If you cannot see the Moon, use the brightest dot in the sky. It works the same way. On a balcony, you can watch the grill bars instead of paper strips.
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* 1. Your child walks slowly to the other slipper, one eye closed, watching the Moon. 2. Then they walk back. 3. Ask them to watch a far building or water tank too.  
   *Parent says:* Walk slowly to the other slipper. Keep watching the Moon. What do the strips do? What does the Moon do? What does that far building do?  
-  *Child mode:* Walk slowly. Watch the Moon and the strips. What slides? What stays?
-  - Ask: What happened? (good: The strips slid past the Moon.; The far building slid a little.; The Moon stayed in the same place.)
+  *Child mode:* Walk slowly with one eye closed. Keep watching the Moon, the strips and the far building.
+  - Ask: What did the strips, the far building and the Moon do? (good: The strips slid past the Moon.; The far building slid a little.; The Moon stayed in the same place.)
   - Note: Look for three things. The strips slide past fast, because they are near. A far building slides a little. The Moon does not seem to move at all. If the strips seem to jump about, your child may be opening both eyes. Try again with one eye covered by a hand.
 - **s5 (4 min)**  
   *Parent does:* 1. Ask your child what they thought, what they saw, and why. 2. Then explain, using what they saw.  
@@ -245,29 +245,29 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 - **predict:** We will look at a small light across a hot tawa. Will the light stay steady, or will it shiver? Why do you think so?
 - **fair test:** We look at the same small light, from the same place, with our eyes at the height of the tawa. We look once with the tawa cold and once with it hot, so only the air above it changes.
 - **safety:** Only a grown-up lights the stove and handles the tawa. The child stands back, at least two big steps from the stove, and never touches the tawa. Keep dupattas, sleeves and paper away from the flame. Switch the stove off as soon as the test is done.
-- **record:** Draw the small light with straight lines when the tawa was cold, and with wiggly lines when it was hot.
+- **record:** Tell a grown-up what the light did when the tawa was cold, and when it was hot. They write one word for each, such as 'steady' or 'shivering'. You can also draw it.
 - **results table:** When I looked | Did the small light stay steady or shiver?
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Stand the phone on the steel box, a forearm's length behind the tawa, with its torch on. 2. Your child stands two big steps back. 3. They crouch so their eyes are at tawa height.  
   *Parent says:* Look across the tawa at the little light. Is it steady, or does it shiver?  
-  *Child mode:* Crouch down. Look across the tawa at the little light. Is it steady?
+  *Child mode:* Crouch so your eyes are level with the tawa. Look at the little light.
   - Note: The tawa is still cold. The light should look steady. Point the torch at the ceiling or the wall, not into your child's eyes.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason before you heat the tawa. A grown-up writes it in the table.  
-  *Parent says:* I will heat the tawa. The light will stay just the same. Will it still look steady, or will it shiver? Why do you think so?  
-  *Child mode:* The tawa will get hot. Will the light shiver? Why do you think so?
+  *Parent says:* I will heat the tawa. The torch will not change. Will the light still look steady, or will it shiver? Why do you think so?  
+  *Child mode:* The torch stays the same. Only the tawa changes. Make a guess.
   - Ask: What will happen, and why? (good: It will stay steady, because the light is the same.; It will shiver, because of the heat.)
   - Note: Any guess is fine. Don't say what will happen.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. Heat the tawa on a medium flame for about two minutes, as you would before making dosa. 2. Your child looks across it again, from the same place.  
-  *Parent says:* Look across the hot tawa at the little light. What is the light doing now?  
-  *Child mode:* Stay back. Look across the hot tawa. What does the light do?
-  - Ask: What do you see? (good: The light is shivering.; It is wobbling and dancing.; The things behind the tawa are wobbly.)
+  *Parent says:* Now the tawa is hot. Look across it at the little light.  
+  *Child mode:* Stay back. Keep your eyes level with the tawa. Watch the light.
+  - Ask: What is the light doing now? (good: The light is shivering.; It is wobbling and dancing.; The things behind the tawa are wobbly.)
   - Note: Warm air rises from the tawa in moving swirls. Light bends a little as it passes through warm and cool air, so the small light seems to shiver and dance. The shiver is small and quick, but you can see it. If you cannot, heat the tawa a minute longer and crouch lower, so your eyes are level with the tawa.
 - **s4 (2 min) · grown-up needed**  
   *Parent does:* 1. Switch off the stove. 2. Look again after one or two minutes, while the tawa cools. Do not touch it.  
   *Parent says:* The stove is off now. Look again. Is the light still shivering?  
-  *Child mode:* The stove is off. Look again. Is the light still shivering?
+  *Child mode:* Stay back. Watch the light as the tawa cools.
   - Note: As the tawa cools, the shivering gets weaker. A hot tawa stays hot for a long time, so keep everyone's hands away.
 - **s5 (3 min)**  
   *Parent does:* Ask what your child thought, what they saw, and why. Then link it to the stars.  
@@ -281,39 +281,39 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 - **s1 (4 min)**  
   *Parent does:* 1. After dark, switch off the room light. 2. Stand at a window with your child where you can see the Moon. 3. Look at it quietly together.  
   *Parent says:* Look at the Moon. What do you notice? What shape is it tonight? Can you see any dark patches?  
-  *Child mode:* Look at the Moon. What shape is it? Can you see dark patches?
+  *Child mode:* Look quietly at the Moon. Notice its shape and any dark patches.
   - Ask: What do you notice about the Moon? (good: It is half round tonight.; It has grey patches.; It is very bright.)
   - Note: The Moon is up in the evening for about two weeks of each month, from the thin new Moon to the full Moon. If it is not up tonight, try another evening, or look for it in the morning sky after Purnima.
 - **s2 (4 min)**  
-  *Parent does:* Your child draws the Moon's shape and shades in the dark patches. Ask what the patches look like to them.  
-  *Parent says:* Draw the Moon's shape. Shade the dark patches. What do the patches look like to you? The dark patches are flat plains of old, dark rock.  
-  *Child mode:* Draw the Moon's shape. Shade the dark patches. What do they look like?
-  - Note: Many people in India see a rabbit in the patches. Others see a face, or a woman with a pot. Any answer is fine. Keep the drawing for the window strip test.
+  *Parent does:* Your child draws the Moon's shape and shades in the dark patches, or points to them and says what they see. Ask what the patches look like to them.  
+  *Parent says:* What do the dark patches look like to you? They are really flat plains of old, dark rock.  
+  *Child mode:* Draw the Moon's shape and shade the dark patches. Or point to them and tell your grown-up what you see.
+  - Note: Many people in India see a rabbit in the patches. Others see a face, or a woman with a pot. Any answer is fine. If you drew one, keep it to compare with the Moon on another night.
 ### a2 · Twinkle or Steady? Find a planet (10 min)
 - **safety:** On a balcony, stay well back from the railing.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. In the early evening, look for the brightest dots in the sky. 2. Pick two or three. 3. Your child watches each one while counting slowly to ten.  
   *Parent says:* Look at that bright dot. Count to ten with me. Does it flicker and shiver, or shine steadily?  
-  *Child mode:* Look at one bright dot. Count to ten. Does it flicker, or stay steady?
+  *Child mode:* Pick one bright dot. Count slowly to ten and watch it closely.
   - Note: A very bright, steady dot low in the west just after sunset, or in the east before sunrise, is often Venus. Its name is Shukra in Sanskrit and Velli in Tamil. Another bright, steady dot may be Jupiter. A free sky map such as Stellarium Web shows which planets are up tonight. Dots very low near the rooftops twinkle more, even planets. If you see no steady dot tonight, that is fine: you still saw which dots twinkle. Try another evening.
 - **s2 (5 min)**  
-  *Parent does:* Your child draws each dot in a 'twinkles' column or a 'steady' column. Then tell them what the steady ones might be.  
-  *Parent says:* Which dots twinkled? Which were steady? The steady ones may be planets. A planet shines with sunlight, like the Moon.  
-  *Child mode:* Draw the dots that twinkled, and the steady ones. Steady dots may be planets.
-  - Ask: Why might the steady dot be a planet? (good: Planets usually don't twinkle.; Stars twinkle, and that one didn't.)
+  *Parent does:* Your child points at each dot and calls it 'twinkles' or 'steady'. A grown-up writes it in two columns. Then tell them what the steady ones might be.  
+  *Parent says:* Which dots twinkled? Which were steady? The steady ones may be planets. A planet is a world that goes round the Sun, like Earth. It shines with sunlight, like the Moon.  
+  *Child mode:* Point at each dot and say: twinkles, or steady? Steady dots may be planets.
+  - Ask: Why might a steady dot be a planet? (good: Planets usually don't twinkle.; Stars twinkle, and that one didn't.)
 ### a3 · Roll Like a Dung Beetle (10 min)
 - **s1 (2 min)**  
   *Parent does:* Tell your child about the dung beetle.  
   *Parent says:* In Africa, a dung beetle rolls a ball of dung away to eat. At night, the beetle rolls it in a straight line. Scientists found the beetle watches the sky to do it.  
-  *Child mode:* A dung beetle rolls a ball at night. The beetle keeps a straight line by watching the sky.
+  *Child mode:* Listen to the story of the dung beetle. Think about how a beetle keeps straight in the dark.
 - **s2 (3 min)**  
   *Parent does:* 1. Put the lit torch on a stool at the far end of the room. 2. Your child pushes the paper ball towards it on hands and knees, eyes open.  
   *Parent says:* Push your ball towards the light, like a beetle. Keep your eyes on the light.  
-  *Child mode:* Push your ball to the light. Keep looking at the light.
+  *Child mode:* Go on hands and knees. See if your ball goes straight.
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* 1. Start again from the same place. 2. Your child shuts their eyes and pushes the ball again. 3. Walk beside them so they don't bump into anything.  
   *Parent says:* Now close your eyes and roll the ball to the light again. Stop when I say stop.  
-  *Child mode:* Shut your eyes. Roll the ball to the light. Stop when told.
+  *Child mode:* Keep your eyes shut. Try to roll the ball straight.
   - Note: Most children curve away or go in circles within a few metres.
 - **s4 (2 min)**  
   *Parent does:* Talk about what happened, and about the real beetles.  
@@ -322,26 +322,26 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 
 ## Projects
 ### p1 · One Moon, Two Windows (20 min, 2 days)
-- **record:** Stick your drawing and the other person's drawing side by side. Write the two town names and the time.
-- **schedule:** day 1: Phone someone in another town. Both look at the Moon at the same time and draw it. (10 min); day 2: Compare the two drawings. Then do it again on another evening. (10 min)
+- **record:** Write the two town names, the time, and the Moon's shape each of you saw. You can draw it too, and stick the two drawings side by side.
+- **schedule:** day 1: Phone someone in another town. Both look at the Moon at the same time and say its shape. (10 min); day 2: Compare the two shapes. Then do it again on another evening. (10 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Choose an evening when the Moon is up. 2. Phone a relative or friend in another town. 3. Ask them to look for the Moon at the same time.  
   *Parent says:* Let's call a relative or friend in another town. We will both look at the Moon at the same time.  
   *Child mode:* Call someone far away. Ask them to look at the Moon now.
 - **s2 (7 min)**  
-  *Parent does:* 1. Both of you draw the Moon's shape. 2. Ask them to draw it too, and send a photo.  
-  *Parent says:* Draw the Moon's shape. Is it round, half or thin? Ask your friend what their Moon looks like.  
-  *Child mode:* Draw the Moon's shape. Ask what their Moon looks like.
+  *Parent does:* 1. Both of you look at the Moon and say its shape. 2. Each of you writes it down or draws it. 3. Ask them to send a photo of theirs.  
+  *Parent says:* Look at the Moon. Is it round, half or thin? Ask your friend what their Moon looks like. Then write it down or draw it.  
+  *Child mode:* Tell your friend the shape of your Moon. Ask about theirs.
 - **s3 (5 min)**  
-  *Parent does:* Put the two drawings side by side.  
-  *Parent says:* Look at both drawings. Are they the same shape? How can one Moon be at both windows at once?  
-  *Child mode:* Look at both drawings. Are they the same? How can that be?
-  - Ask: Why are they the same? (good: It is the same Moon.; The Moon is so far away that everyone sees it the same.)
+  *Parent does:* Put the two notes or drawings side by side.  
+  *Parent says:* Look at both. Are they the same shape? How can one Moon be at both windows at once?  
+  *Child mode:* Look at the two shapes side by side.
+  - Ask: Why do both towns see the same Moon shape? (good: It is the same Moon.; The Moon is so far away that everyone sees it the same.)
   - Wait: Next day
 - **s4 (5 min)**  
   *Parent does:* Do it again on another evening, with someone in a different town if you can.  
   *Parent says:* Let's try again with someone else. Will their Moon match ours too?  
-  *Child mode:* Try again with someone else. Will it match?
+  *Child mode:* Make a guess before you call. Then compare.
   - Note: Everyone in India sees the same shape of Moon on the same night. If you have no one in another town, call a friend in another part of your own city.
 
 ## Challenges
@@ -354,17 +354,17 @@ Appa looked at the Moon for a long time. "When I was small, in my village, I tho
 - **s1 (2 min)**  
   *Parent does:* Read the problem to your child. Ask what they could show the grown-up.  
   *Parent says:* A grandfather thinks the Moon follows his scooter. How could you show him why it only seems to?  
-  *Child mode:* A grandfather thinks the Moon follows his scooter. How could you show him?
+  *Child mode:* Think of something you can show him at home, with things you already have.
   - Ask: What could you show him? (good: The window strip test.; The tumbler and the far wall.; Phoning someone far away.)
 - **s2 (8 min)**  
   *Parent does:* Let your child set up their idea and show it to another grown-up. Help only if asked.  
   *Parent says:* Show your idea. Ask them what they see. Can they say why the Moon seems to follow?  
-  *Child mode:* Show your idea. Ask what they see.
+  *Child mode:* Set up your idea and show a grown-up. Ask what they see.
   - Note: The best ideas let the grown-up see near things slide past while a far thing stays put. Let your child do the explaining.
 - **s3 (2 min)**  
   *Parent does:* Talk about how it went.  
   *Parent says:* Did your idea work? What would you change to make it clearer?  
-  *Child mode:* Did it work? What would you change?
+  *Child mode:* Think about what worked, and what you would change.
 
 ## Worksheets
 ### Moon, Stars and Planets (core) (core, 10 questions)

@@ -158,34 +158,34 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 - **rules:** Mix the 13 cards and put them in a pile, face down.; Make three places on the floor: a yellow paper for DAY, a dark paper for NIGHT, and a place in the middle for BOTH.; Players take turns. On your turn, take the top card. A grown-up reads the front out.; Put it on DAY, NIGHT or BOTH, and say why.; A grown-up turns the card over and reads the back. If you were right, keep the card in front of you. If not, put it on the right place.; When all 13 cards are sorted, count the cards each player kept. The player with the most cards wins. If one child plays alone, play again and try to keep more cards than last time.; At the end, talk about the stars card: are the stars in the sky in the day?
 - **Printable cards: 13 sky cards:** The Sun, shining (back: DAY. When we can see the Sun, it is day where we are.) [picture]; A bright blue sky (back: DAY. Sunlight lights up the air and makes the sky blue.); Many twinkling stars (back: NIGHT is when we can see them. The stars are there all day too, but the bright sky hides them.); A full Moon (back: NIGHT. A full Moon rises as the Sun sets, and shines all night with sunlight.) [picture]; A pale half Moon (back: BOTH. A half Moon can often be seen in the afternoon sky, and in the evening too.); Clothes drying in the sunshine (back: DAY. The Sun's heat dries them.); An owl hunting (back: NIGHT. Many owls hunt at night, with their big eyes and sharp ears.) [picture]; A crow warming up on a ledge (back: DAY. Crows sit in the morning sun to get warm.) [picture]; Street lights switched on (back: NIGHT. We switch on lights when the Sun's light is gone.); A shadow on the floor from the window (back: DAY. Sunlight through the window makes the shadow.); Clouds (back: BOTH. Clouds float in the sky by day and by night.); A bat flying (back: NIGHT. Many bats fly out at dusk to find food.) [picture]; Fireflies flashing (back: NIGHT. Fireflies make their own light. We see it best in the dark.)
 - **s1 (1 min)**  
-  *Parent does:* Lay out the papers. Read the rules together.  
+  *Parent does:* Lay out the yellow paper, the dark paper and the middle space. Read the rules together.  
   *Parent says:* Yellow is for the day sky. Dark is for the night sky. The middle is for things we see in both.  
-  *Child mode:* Yellow is day. Dark is night. The middle is both.
+  *Child mode:* Help lay out the three places.
 - **s2 (7 min)**  
   *Parent does:* Play through all 13 cards. Read each front, wait for your child's choice and reason, then read the back.  
   *Parent says:* Many twinkling stars. Day, night or both? Why? Let's turn it over.  
-  *Child mode:* Read the card. Day, night or both? Why? Turn it over.
+  *Child mode:* Choose a place for the card, and say why.
   - Note: The stars and the Moon cards are the tricky ones. Remind your child of the torch star test if they have done it.
 - **s3 (2 min)**  
   *Parent does:* Talk about the stars card.  
   *Parent says:* We put the stars on night. But are the stars in the sky right now, in the day?  
-  *Child mode:* Are the stars in the sky right now?
+  *Child mode:* Think about the stars card. Tell what you think.
 ### g2 · Sun Up, Sun Down: a moving game (8 min)
 - **rules:** Stick a yellow paper Sun on a wall at one end of the room. This is the Sun.; Mix the 10 caller cards. The caller holds them.; The caller reads the front of a card, and then the back. A grown-up reads for a caller who cannot read yet.; Everyone else does the move on the back of the card.; After all 10 cards, swap the caller, and play again.
 - **Printable cards: 10 caller cards:** Sun up! (back: Stand tall and stretch your arms wide. Light and heat are coming.); Sun down! (back: Crouch down low. It is getting dark.); Stars at night! (back: Open and close your fingers fast, like twinkling stars.); Stars in the day! (back: Keep twinkling, but hide your hands behind your back. You still shine, but nobody can see you.); The Moon! (back: Make a big circle with your arms. Turn your face towards the paper Sun, because your light comes from the Sun.); Hot sunshine! (back: Fan your face. Phew, it is warm.); Into the shade! (back: Hold your hands over your head like a roof. Ahh, cooler.); Ice in the sun! (back: Melt slowly down to the floor.); A crow in the morning sun! (back: Puff yourself up and flap once. Warm feathers!); A plant by the window! (back: Lean your whole body towards the window, like leaves turning to the light.)
 - **s1 (2 min)**  
   *Parent does:* Practise 'Stars at night' and 'Stars in the day' together.  
   *Parent says:* Stars at night: twinkle your fingers. Stars in the day: keep twinkling, but hide your hands behind your back.  
-  *Child mode:* Stars at night: twinkle! Stars in the day: twinkle behind your back.
+  *Child mode:* Try both moves.
 - **s2 (5 min)**  
   *Parent does:* Play all 10 cards. After 'Stars in the day', ask why the hands are hidden.  
   *Parent says:* Stars in the day! Are you still twinkling? Why can nobody see you?  
-  *Child mode:* Do each move. Why can nobody see the day stars?
+  *Child mode:* Do each move the caller reads.
   - Ask: Why can nobody see the stars in the day? (good: The sky is too bright.; The Sun's light hides them.)
 - **s3 (1 min)**  
   *Parent does:* Finish with the Moon card and ask one question.  
   *Parent says:* When you were the Moon, which way did you face? Why?  
-  *Child mode:* When you were the Moon, which way did you face?
+  *Child mode:* Be the Moon one more time. Point to where your light comes from.
   - Ask: Why did the Moon face the Sun? (good: The Moon's light comes from the Sun.; The Sun lights the Moon up.)
 
 ## Experiments
@@ -195,12 +195,12 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 - **predict:** We will look at the torch star by a bright window, and then in a dark room. Where will you see it best? Why do you think so?
 - **fair test:** We use the same torch, the same tiny hole and the same thin paper every time. You stand the same distance away, three big steps, every time. Only one thing changes: how bright it is around the star.
 - **safety:** Never look at the Sun. Keep the Sun off to one side, out of your child's view.
-- **record:** Draw the torch star twice: once by the bright window, and once in the dark room. Draw it as big and bright as it looked each time.
+- **record:** Fill in the last column of the table: bright, faint or not at all. You can also draw the torch star as it looked in each place, or tell a grown-up.
 - **results table:** Where the star was | My guess: will I see it? | What I saw: bright, faint, or not at all
 - **s1 (3 min)**  
   *Parent does:* Ask your child where the stars are in the daytime. Listen, and don't correct the answer.  
   *Parent says:* At night we can see stars in the sky. Where do you think the stars are in the daytime?  
-  *Child mode:* Where do the stars go in the day? What do you think?
+  *Child mode:* Tell your grown-up your idea. Any idea is fine.
   - Ask: Where are the stars in the day? (good: They go away.; They go to sleep.; They are still there.; They are on the other side of the sky.)
   - Note: Many children say the stars go away, go to sleep or switch off. Any answer is fine. The test will answer it.
 - **s2 (4 min) · grown-up needed**  
@@ -209,33 +209,33 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
   *Child mode:* Watch the grown-up make the star. Light comes out of one tiny hole.
   - Note: Push the pencil gently, with the torch lying on a table, away from fingers. Real stars look small and dim to us because they are so far away. The paper makes the torch dot small and dim in the same way. If the cardboard glows all over, use thicker cardboard or two layers.
 - **s3 (3 min)**  
-  *Parent does:* Ask your child to guess. Write or draw the guesses in the table.  
-  *Parent says:* First we will hold the star by the bright window. Then we will take it into a dark room. Where will you see it best? Why do you think so?  
-  *Child mode:* Where will you see the star best? By the window, or in the dark? Why?
+  *Parent does:* Ask your child to guess. Write the guesses in the table.  
+  *Parent says:* First we will hold the star by the bright window. Then we will take it into a dark room. Where will you see it best?  
+  *Child mode:* Pick one place: by the window, or in the dark.
   - Ask: Why do you think so? (good: It is the same torch, so it will look the same.; It will look brighter in the dark.; In the sunshine it will get lost.)
   - Note: Wait for a guess and a reason. Do not say what will happen.
 - **s4 (4 min)**  
   *Parent does:* 1. Stand at the brightest window, or on the balcony, in the day. 2. Your child stands three big steps away, facing you. 3. Switch the star on and point it at your child. 4. Ask what they see.  
   *Parent says:* Here is our star, shining. Look at the hole in the cardboard. Can you see the star? Is it bright, faint, or can you not see it at all?  
-  *Child mode:* Look at the hole in the cardboard. Can you see the star?
+  *Child mode:* Look at the hole in the cardboard. Is the star bright, faint or gone?
   - Ask: What do you see? (good: I can only just see it.; It is very faint.; I can't see it.)
   - Note: Stand so the Sun is off to one side, not in your child's view. By a bright window, the dim star should look very faint or vanish. If your child still sees it clearly, tape on another square of paper and look again. Use that same star in the dark room.
 - **s5 (4 min)**  
   *Parent does:* 1. Go into a dark room, such as a bathroom, and shut the door. 2. Switch off the light. 3. Stand three big steps apart again. 4. Switch the star on.  
   *Parent says:* Same torch, same hole, same three steps. Now we are in the dark. Can you see the star now? Is it bright or faint?  
-  *Child mode:* Same star, now in the dark. Can you see it? Bright or faint?
+  *Child mode:* Look at the same star again, now in the dark.
   - Ask: What is different now? (good: Now it is bright.; I can see it clearly.; It looks like a real star.)
   - Note: In the dark, the same dim dot looks bright and sharp. This is the surprise. If you cannot see it in the dark either, take off one square of paper. Then look again by the window and in the dark room with this brighter star. A little light under the door is fine.
 - **s6 (2 min)**  
   *Parent does:* Keep the star shining. Switch the room light on, then off, then on again. Ask your child to watch the star each time.  
   *Parent says:* I am switching on the room light. Watch the star. Now I am switching it off. What happens to the star?  
-  *Child mode:* Watch the star. The room light goes on. Then off. What happens?
+  *Child mode:* Watch the star while the room light goes on and off.
   - Ask: Did the torch stop shining when the room light came on? (good: No, it was still on.; It was still shining, but hard to see.)
   - Note: Switching on the room light is like the Sun coming up in the morning. The torch star does not stop shining. The light around it makes the star hard to see.
 - **s7 (2 min)**  
   *Parent does:* Back in the bright room, look at the guesses. Ask your child what they think now, what they saw, and why.  
   *Parent says:* Was the star shining by the window? Why was it hard to see there? So where do you think the real stars are in the daytime?  
-  *Child mode:* Was the star shining by the window? Where are the real stars in the day?
+  *Child mode:* Look at your guesses. Tell your grown-up what you found out.
   - Ask: Where are the real stars in the day? (good: Still in the sky, shining.; They are there, but the sky is too bright to see them.)
   - Check: The torch star is held by a sunny window. It is switched on, but it is very hard to see. Why? → **The bright light around it hides the star**
 ### e2 · Sun or Shade: which ice cube melts first? (20 min)
@@ -243,32 +243,32 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 - **predict:** One ice cube goes in the sunshine, one in the shade. Which will melt first? Why do you think so?
 - **fair test:** We use two ice cubes of the same size, from the same tray. We use two bowls that are the same. We put them down at the same time, and we look at them at the same times.
 - **safety:** Never look at the Sun. A sunny floor or railing can be hot, so touch it gently first.
-- **record:** Draw the two bowls after 10 minutes. Show how big each ice cube was, and how much water was in each bowl.
+- **record:** Fill in the table at 5 and 10 minutes: big, small or gone. You can also take a photo of the two bowls, or draw them.
 - **results table:** Time | Ice in the sunshine | Ice in the shade
 - **s1 (3 min)**  
   *Parent does:* Find a patch of sunshine and a shady spot nearby. Let your child touch the floor in both places.  
   *Parent says:* Put your hand on the floor in the sunshine. Now in the shade. Which feels warmer?  
-  *Child mode:* Touch the floor in the sun. Now in the shade. Which is warmer?
+  *Child mode:* Feel both places. Point to the warmer one.
   - Note: If no sunshine comes into your home, use a sunny windowsill or balcony. On a cloudy day, try again on a sunny one.
 - **s2 (3 min)**  
   *Parent does:* Show the two ice cubes in their bowls. Ask your child to guess, and why.  
-  *Parent says:* One ice cube will sit in the sunshine. One will sit in the shade. Which one will melt first? Why do you think so?  
-  *Child mode:* Which ice cube will melt first? Why do you think so?
+  *Parent says:* One ice cube will sit in the sunshine. One will sit in the shade. Which one will melt first?  
+  *Child mode:* Pick the ice cube you think will melt first.
   - Ask: Why do you think so? (good: The Sun is hot.; Sunshine makes things warm.; They will melt the same, because it is the same ice.)
 - **s3 (2 min)**  
   *Parent does:* Put one bowl in the sunshine and one in the shade, at the same time. Note the time.  
   *Parent says:* Ready? We put them down together. Now we wait five minutes.  
-  *Child mode:* Put them down together. Now we wait five minutes.
+  *Child mode:* Help put both bowls down at the same time. Then wait.
 - **s4 (10 min)**  
   *Parent does:* Look at both bowls after 5 minutes and after 10 minutes. Each time, your child says which ice is smaller and which bowl has more water.  
   *Parent says:* Look into both bowls. Which ice cube is smaller? Which bowl has more water in it?  
-  *Child mode:* Look in both bowls. Which ice is smaller? Which has more water?
+  *Child mode:* Look into both bowls and compare the ice and the water.
   - Ask: What do you see? (good: The ice in the sunshine is smaller.; The sunny bowl has more water.)
   - Note: In strong sunshine, the ice in the sun is clearly smaller after 5 to 10 minutes. In winter or weak sunshine, wait a little longer.
 - **s5 (2 min)**  
   *Parent does:* Ask your child what they found and why.  
   *Parent says:* Which ice melted first? Nothing touched it except sunshine. So what did the sunshine bring?  
-  *Child mode:* Which ice melted first? What did the sunshine bring?
+  *Child mode:* Tell your grown-up what you found out.
   - Ask: What did the sunshine bring? (good: Heat.; Warmth from the Sun.; Light and heat.)
   - Check: You put one ice cube in the sunshine and one in the shade. Which melts first? → **The one in the sunshine**
 
@@ -279,18 +279,18 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 - **s1 (3 min)**  
   *Parent does:* Stand at a window or on the balcony with your child. Ask them to name everything they can see in the sky.  
   *Parent says:* Let's look at the sky. Don't look at the Sun. What can you see up there?  
-  *Child mode:* Look at the sky. Not at the Sun! What can you see?
+  *Child mode:* Look at the sky, but not at the Sun. Count the different things you find.
   - Ask: What is in the sky? (good: Clouds.; Birds.; An aeroplane.; The Moon, pale and white.)
   - Note: Sometimes the Moon can be seen in the day sky, as a pale white shape. If you spot it, point it out.
 - **s2 (2 min)**  
   *Parent does:* Ask what makes the day sky bright, and whether it is warm by the window.  
   *Parent says:* Why is the sky so bright now? Put your hand on the window glass. Is it warm?  
-  *Child mode:* Why is the sky bright? Touch the window. Is it warm?
+  *Child mode:* Touch the window glass. Is it warm?
   - Ask: What makes the day bright? (good: The Sun.; Sunlight.)
 - **s3 (3 min)**  
   *Parent does:* Ask your child what the night sky will show. Listen to the guesses.  
   *Parent says:* Tonight, what will we see in the sky? Will the Moon be there? Will there be stars?  
-  *Child mode:* What will the night sky show?
+  *Child mode:* Make a guess about tonight's sky.
   - Ask: What will the night sky show? (good: The Moon.; Stars.; Lights on the buildings.)
   - Note: Do not give answers. Write the guesses down, and check them at the window tonight. The torch star test will help your child find out where the stars are in the day.
 ### a2 · Window Star Count: lights on, lights off (10 min)
@@ -299,7 +299,7 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* On a clear night, stand at the window or on the balcony with the room lights on. Your child counts the stars and makes a tally mark for each.  
   *Parent says:* Let's count the stars we can see. Make one mark for each star.  
-  *Child mode:* Count the stars. Make one mark for each star.
+  *Child mode:* Find the stars and count them.
 - **s2 (5 min)**  
   *Parent does:* 1. Switch off the room lights behind you, and any balcony light. 2. Wait about two minutes in the dark, so your eyes get used to it. 3. Count again.  
   *Parent says:* Now we switch off our lights and wait a little. Our eyes need time in the dark. Now count again.  
@@ -309,53 +309,53 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 - **s3 (2 min)**  
   *Parent does:* Ask where the new stars came from.  
   *Parent says:* Did new stars come out when we switched off our lights? Or were they there all along?  
-  *Child mode:* Were the new stars there all along? Why do you think so?
+  *Child mode:* Think about where the new stars came from. Tell your grown-up.
   - Ask: Were they there all along? (good: Yes, our lights were hiding them.; They were there, but too faint to see.)
 ### a3 · Who Loves the Sunshine? A window hunt (10 min)
 - **safety:** Never look straight at the Sun.
-- **record:** Draw three things you found that use sunshine, and colour the Sun's light falling on each.
+- **record:** Tell a grown-up three things you found that use sunshine, and what each one gets: light, heat or both. You can also take a photo of each one.
 - **s1 (3 min)**  
   *Parent does:* Look at a potted plant near a window with your child.  
-  *Parent says:* Look at this plant by the window. Which way are their leaves turned? Why do you think so?  
-  *Child mode:* Look at the plant's leaves. Which way do they face? Why?
+  *Parent says:* Look at this plant by the window. Which way are its leaves turned?  
+  *Child mode:* Point the way the leaves face.
   - Ask: Why do the leaves face the window? (good: To get the sunlight.; The plant needs light to make food.)
-  - Note: A plant senses where the light is and turns their leaves towards it. They make their food from sunlight, air and water.
+  - Note: A plant senses where the light is and turns the leaves towards it. The leaves make food from sunlight, air and water. No plant by a window? Use one on a balcony or outside in the sun.
 - **s2 (5 min)**  
   *Parent does:* Look out of the window together for anyone or anything using sunshine.  
   *Parent says:* Who is using the sunshine out there? Look for birds, animals, people and things.  
-  *Child mode:* Who is using the sunshine? Look for birds, people and things.
+  *Child mode:* Find as many as you can, and point to them.
   - Ask: What did you find? (good: A crow sitting in the sun.; Clothes drying.; A dog lying in a sunny spot.; Papad drying on a roof.)
   - Note: Look for birds sitting in the morning sun to warm up, clothes or papad drying, and solar panels on a roof.
 - **s3 (2 min)**  
   *Parent does:* Ask what the sunshine gave each one.  
   *Parent says:* What did the sunshine give the plant? The crow? The clothes? Was it light, or heat, or both?  
-  *Child mode:* What did the sunshine give each one? Light, heat or both?
+  *Child mode:* Go back through the things you found, one by one.
   - Ask: Light, heat or both? (good: The plant uses the light.; The crow uses the heat.; The clothes dry in the heat.; Both.)
 
 ## Projects
 ### p1 · My Day Sky and Night Sky Book (25 min, 2 days)
 - **safety:** Never look straight at the Sun. A grown-up stays with your child on the balcony at night.
 - **record:** The finished book, with the day sky on the first pages and the night sky on the last pages.
-- **schedule:** day 1: In the day, make the book and draw the day sky pages. (13 min); day 2: After dark, look out of the same window and draw the night sky pages. (12 min)
+- **schedule:** day 1: In the day, make the book and draw the day sky pages. (13 min); day 2: After dark, look out of the same window and fill the night sky pages. (12 min)
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* A grown-up folds the two papers in half, puts one inside the other, and staples or ties them at the fold. Your child draws a Sun and a Moon on the cover.  
+  *Parent does:* A grown-up folds the two papers in half, puts one inside the other, and staples or ties them at the fold. Your child writes 'My Sky Book' and their name on the cover.  
   *Parent says:* We are making a sky book. The front pages are for the day sky, and the back pages are for the night sky.  
-  *Child mode:* Make your sky book. Draw a Sun and a Moon on the cover.
+  *Child mode:* Make your sky book. Write the title and your name on the cover.
 - **s2 (8 min)**  
-  *Parent does:* In the day, your child looks out of the window and draws the day sky on the first two pages. Write their words under the pictures.  
-  *Parent says:* Look out of the window. Draw what you see in the day sky. What is making it so bright?  
-  *Child mode:* Draw the day sky. What makes it so bright?
+  *Parent does:* In the day, your child looks out of the window and draws the day sky on the first two pages. Or they tell you, and you write it. Add their words under any picture.  
+  *Parent says:* Look out of the window. Draw what you see in the day sky, or tell me and I will write it. What is making it so bright?  
+  *Child mode:* Draw the day sky, or tell your grown-up what to write.
   - Ask: What makes the day sky bright? (good: The Sun.; Sunlight lights up the sky.)
 - **s3 (8 min) · grown-up needed**  
-  *Parent does:* After dark, look out of the same window. Switch off the room light. Your child draws the night sky on the last pages.  
+  *Parent does:* After dark, look out of the same window. Switch off the room light. Your child makes one dot on the last pages for each star. If the Moon is up, add a big circle.  
   *Parent says:* It is the same window, at night. What can you see now? Can you see the Moon? How many stars?  
-  *Child mode:* Same window, at night. Draw the Moon and the stars.
-  - Note: If the Moon is not up, or it is cloudy, your child can draw what they see and try again another night.
+  *Child mode:* Same window, at night. Make one dot for each star. Add a circle for the Moon.
+  - Note: If the Moon is not up, or it is cloudy, your child can make dots for the stars they see and try again another night.
   - Wait: Do this step after dark, on the same day or the next day.
 - **s4 (4 min)**  
   *Parent does:* Look at the day pages and the night pages side by side.  
   *Parent says:* Look at your day pages and your night pages. Were the stars in the sky in the day too? Where does the Moon get its light?  
-  *Child mode:* Were the stars there in the day? Where does the Moon's light come from?
+  *Child mode:* Turn the pages and compare the day sky with the night sky.
   - Ask: Were the stars there in the day? (good: Yes, but the bright sky hid them.; Yes, like the torch star by the window.)
   - Ask: Where does the Moon's light come from? (good: From the Sun.; The Sun shines on the Moon.)
 
@@ -369,17 +369,17 @@ Back in Bengaluru, on the first night home, Tara stood on the balcony. She count
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child and show the things they may use.  
   *Parent says:* An ice cube must stay in the sunshine. How can we help it last longer? What could we use?  
-  *Child mode:* How can you keep the ice from melting? What could you use?
+  *Child mode:* Look at the things you may use. Pick what you will try.
   - Ask: What is your idea? (good: Make some shade for it.; Cover it with a cloth.; Put a box in front of it.)
 - **s2 (10 min)**  
   *Parent does:* Your child sets up their idea on one ice cube, and leaves the other with nothing. Check both after 5 and 10 minutes.  
   *Parent says:* Put your idea on one ice cube. Leave the other one with nothing. Let's check them after five minutes.  
-  *Child mode:* Try your idea on one ice cube. Check both after five minutes.
+  *Child mode:* Build your idea over one ice cube. The other ice cube gets nothing.
   - Note: Anything that makes shade will help, because it stops the sunshine from reaching the ice. A steel lid in full sun gets warm itself, so it may not protect the ice well. Let your child touch the lid and notice this.
 - **s3 (2 min)**  
   *Parent does:* Ask which ice lasted longer and why.  
   *Parent says:* Which ice cube lasted longer? Why did your idea help?  
-  *Child mode:* Which lasted longer? Why?
+  *Child mode:* Compare the two ice cubes. Tell why one lasted longer.
   - Check: You put a cardboard roof over one ice cube in the sunshine. Why does that ice last longer? → **The roof makes shade, so less sunshine reaches the ice**
 
 ## Worksheets

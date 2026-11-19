@@ -344,7 +344,7 @@
    "title": "Covering Snap",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a fast sorting game about body coverings. Players turn over animal cards and race to slap the right covering mat.",
+   "context": "This is a fast sorting game about body coverings. Players turn over animal cards and race to slap the right covering mat. You will find out which covering each animal has, and which animals are tricky.",
    "printables": [
     {
      "kind": "cards",
@@ -549,7 +549,7 @@
     }
    ],
    "rules": [
-    "Before you play, share out the cards between the players. Each player draws a quick animal under the name on each of their cards, so that a child who cannot read yet can play. A simple shape is enough.",
+    "Before you play, share out the cards between the players. Each card has a name, and most have a photo, so a child who cannot read yet can play from the photo.",
     "Lay the five covering mats in a circle on the floor.",
     "Mix the cards and put them face down in a pile.",
     "One player turns over the top card and reads the name aloud.",
@@ -561,9 +561,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Share the 24 cards between you and draw a quick animal on each. 2. Lay the five mats in a circle.",
-     "say": "Let's draw the animals first. I will draw some and you draw some.",
-     "kid": "Draw an animal on your cards. Then lay out the five mats."
+     "do": "1. Share the 24 cards between you, with the animal names facing up. 2. Lay the five mats in a circle.",
+     "say": "Let's share out the cards. Read the name on each one. Do not peek at the back.",
+     "kid": "Look at your cards and say each animal's name. Then lay out the five mats."
     },
     {
      "id": "s2",
@@ -604,7 +604,7 @@
    "setup": [
     {
      "art": "Twenty-four small cards with animal names and children's drawings, spread on a floor.",
-     "caption": "1. Draw an animal on each card."
+     "caption": "1. Share out the cards."
     },
     {
      "art": "Five paper mats in a circle on the floor, labelled feathers, hair or fur, scales, shell or hard case, bare skin, with two children reaching for one mat.",
@@ -617,7 +617,7 @@
    "title": "Build-a-Beast",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a drawing game about how animal bodies go together. Players pick a covering, a number of legs and an extra part, and draw a made-up beast with that body. Then they try to name a real animal with that body.",
+   "context": "This is a game about how animal bodies go together. Players pick a covering, a number of legs and an extra part, and make up a beast with that body. Then they try to name a real animal with that body. You will find out which body mixes are real and which nobody has.",
    "printables": [
     {
      "kind": "cards",
@@ -667,7 +667,7 @@
    "rules": [
     "Put the covering cards, leg cards and extra cards in three face-down piles.",
     "On your turn, take one card from each pile. Put the cards back and mix the piles after each turn.",
-    "Everyone draws a beast with that body in two minutes, and gives the beast a name.",
+    "Everyone makes up a beast with that body in two minutes, and gives the beast a name. Draw it, or just describe it to the others.",
     "Then everyone tries to name a real animal with that body. Each player who names a real animal earns one point.",
     "If nobody can name one, talk about why. Is there really no animal like this? That earns everyone one point.",
     "After three turns each, the player with the most points wins. If you are tied, you all win."
@@ -683,9 +683,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Read the three cards aloud. 2. Draw for two minutes. 3. Then name real animals. 4. Play three turns each, taking turns to pick the cards.",
-     "say": "Feathers, two legs and wings. Draw your beast. Now, is there a real animal like this?",
-     "kid": "Draw your beast. Can you name a real animal like this?",
+     "do": "1. Read the three cards aloud. 2. Give everyone two minutes to draw the beast or describe it. 3. Then name real animals. 4. Play three turns each, taking turns to pick the cards.",
+     "say": "Say our cards are feathers, two legs and wings. Make up your beast. Is there a real animal like this?",
+     "kid": "Draw your beast, or tell the others about it. Then think of a real animal with this body.",
      "ask": [
       {
        "q": "Feathers and four legs. Is there a real animal like this?",
@@ -702,7 +702,7 @@
      "mins": 3,
      "do": "Look at all the beasts together. Ask the check question.",
      "say": "Which beast was the strangest? Could any of them really live?",
-     "kid": "Show your beasts. Which one could really live?",
+     "kid": "Show your beasts to each other. Pick the strangest one.",
      "check": {
       "t": "mcq",
       "q": "Which mix belongs to a real animal?",
@@ -723,7 +723,7 @@
     },
     {
      "art": "A child's drawing of a made-up beast with scales, six legs and wings, with a pencil beside it.",
-     "caption": "2. Draw the beast. Then name a real animal with that body."
+     "caption": "2. Make up the beast. Then name a real animal with that body."
     }
    ]
   }
@@ -734,7 +734,7 @@
    "title": "Dough Legs: how many legs does a body need to stand?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you make an animal body from atta dough, and give the body 1, 2, 3, 4 and then 6 legs. You test which ones stand by themselves. Then you stand on two legs with your eyes shut, and feel what your own feet do.",
+   "context": "In this experiment you find out how many legs a body needs to stand, and how you stand on only two. You make an animal body from atta dough, and give the body 1, 2, 3, 4 and then 6 legs. You test which ones stand by themselves. Then you stand on two legs with your eyes shut, and feel what your own feet do.",
    "question": "How many legs does a body need to stand still without help? And how do we stand on only two?",
    "predict": "Guess first. How many legs will the dough animal need to stand without help? Why do you think so?",
    "fair_test": "We use the same dough body and legs of the same length every time. Only the number of legs changes. We let go and count to five each time, and try each number twice, because one try can be luck.",
@@ -769,7 +769,7 @@
      "what": "Make a dough body. Test it on 1, 2, 3, 4 and 6 legs. Then stand with your eyes shut and feel your feet."
     }
    ],
-   "record": "Fill in the results table. Draw the dough animals that stood and the ones that fell.",
+   "record": "Fill in the results table. Take a photo of the dough animals that stood and the ones that fell.",
    "flow": [
     {
      "id": "s1",
@@ -782,8 +782,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Ask your child to guess and to say why. Write the guess on the paper.",
-     "say": "How many legs will our animal need to stand without help? Why do you think so?",
-     "kid": "Guess. How many legs does it need to stand? Why?",
+     "say": "How many legs will our animal need to stand without help?",
+     "kid": "Guess how many legs it needs. Then say why you think so.",
      "ask": [
       {
        "q": "Why do you think the dough animal needs that many legs?",
@@ -800,7 +800,7 @@
      "mins": 9,
      "do": "1. Stand the body on the board on one leg and let go. 2. Count to five. 3. Write down what happened. 4. Add a second leg and test again. 5. Then test three legs, four legs and six legs. 6. Try each number twice.",
      "say": "Let go gently and count to five. Did the animal stand, wobble or fall?",
-     "kid": "Let go. Count to five. Did it stand or fall?",
+     "kid": "Let go. Count to five. Watch what the animal does.",
      "ask": [
       {
        "q": "What happened with two legs?",
@@ -842,15 +842,15 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child what they think the answer is, what they saw in the test, and why it happened.",
-     "say": "So, how many legs did the dough animal need? And how do you stand on two?",
-     "kid": "How many legs did it need? How do you stand on two?",
+     "do": "Look at the results table together. Ask your child what they found.",
+     "say": "Look at your table. How many legs did the dough animal need to stand?",
+     "kid": "Look at your table. Say what you found.",
      "ask": [
       {
-       "q": "Why can you stand on two legs, when the dough animal could not?",
+       "q": "How many legs did the dough animal need to stand?",
        "good": [
-        "Because my feet and ankles keep moving to catch me.",
-        "Because my body keeps balancing, and the dough does not."
+        "Three, spread out. With two it fell over.",
+        "Three or more, spread out like a stool."
        ]
       }
      ],
@@ -929,7 +929,7 @@
    "title": "Roll Stopper: what does a fin do?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you float a plastic bottle in a bucket and make it roll. Then you tape a fin to the bottle and test again. This shows what the fins on a fish's back and belly do.",
+   "context": "In this experiment you float a plastic bottle in a bucket and make it roll. Then you tape a fin to the bottle and test again. You will find out what the fins on a fish's back and belly do.",
    "question": "Does a fin stop a floating bottle from rolling over?",
    "predict": "Guess first. When we add a fin, will the bottle roll more, less or the same? Why do you think so?",
    "fair_test": "We use the same bottle, the same water and the same flick each time. The only change is the fin. We try three flicks each way, because one flick can be harder than another.",
@@ -969,7 +969,7 @@
      "what": "Float the bottle. Flick it and count the turns. Tape on a fin. Flick and count again."
     }
    ],
-   "record": "Fill in the table. Draw the bottle with and without the fin.",
+   "record": "Fill in the table. Take a photo of the bottle with and without the fin.",
    "flow": [
     {
      "id": "s1",
@@ -991,7 +991,7 @@
      "mins": 3,
      "do": "Ask your child to guess and to say why.",
      "say": "Now we will tape a fin along the bottom. Will the bottle roll more, less or the same? Why?",
-     "kid": "We will add a fin. Will it roll more or less? Why?"
+     "kid": "Guess what the fin will do. Say why."
     },
     {
      "id": "s4",
@@ -1021,9 +1021,9 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child what they think the answer is, what they saw in the test, and why it happened.",
-     "say": "So what does a fin on a fish's back or belly do?",
-     "kid": "What does a fin do for a fish?",
+     "do": "Look at the results table together. Ask what changed with the fin, and why.",
+     "say": "Look at your counts. What changed when we added the fin?",
+     "kid": "Look at your counts. Say what changed.",
      "ask": [
       {
        "q": "Why did the fin stop the rolling?",
@@ -1089,7 +1089,7 @@
    "title": "Count an Ant's Legs",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you put out a few grains of sugar for ants. Then you look closely and count an ant's legs, using a phone camera to zoom in.",
+   "context": "In this activity you put out a few grains of sugar for ants. Then you count an ant's legs, using a phone camera to zoom in. You will find out how many legs an ant has.",
    "materials": [
     {
      "item": "a few grains of sugar",
@@ -1111,7 +1111,7 @@
      "what": "An hour before you start, put sugar out for ants. Then zoom in and count an ant's legs and feelers."
     }
    ],
-   "record": "Draw the ant with every leg. Write the number of legs.",
+   "record": "Write the number of legs you counted. Keep your photo of the ant.",
    "flow": [
     {
      "id": "s1",
@@ -1148,8 +1148,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Compare the ant's legs with your child's legs and a crow's legs.",
-     "say": "You have two legs. A crow has two. The ant has six. How many more legs does the ant have than you?",
-     "kid": "You have 2 legs. The ant has 6. How many more?",
+     "say": "You have two legs. A crow has two too. The ant has six.",
+     "kid": "Count on from your 2 legs up to the ant's 6.",
      "ask": [
       {
        "q": "How many more legs does the ant have than you?",
@@ -1188,7 +1188,7 @@
    "title": "Up Close: my hair, skin and nails",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look closely at your own body covering: the hair on your arm, your skin and your nails. You find out what they are made of.",
+   "context": "In this activity you look closely at your own hair, skin and nails. You will find out that your hair and nails are made of the same material as a bird's feathers.",
    "materials": [
     {
      "item": "a phone with a camera, or a magnifying glass",
@@ -1207,13 +1207,13 @@
      "what": "Zoom in on your arm hair, skin and nails. Compare them with a feather, if you have one."
     }
    ],
-   "record": "Draw your arm hair and a nail, as big as you saw them.",
+   "record": "Keep a photo of your arm hair and a photo of a nail.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Zoom in on the inside of your child's arm with the phone camera. 2. Then zoom in on a fingernail.",
-     "say": "Look closely at your arm. Can you see tiny hairs? Where do they come out of?",
+     "say": "Look closely at your arm. Can you see tiny hairs?",
      "kid": "Zoom in on your arm. Find the tiny hairs.",
      "ask": [
       {
@@ -1228,7 +1228,7 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "If you have a feather, zoom in on it and compare with the hair.",
+     "do": "If you have a feather, zoom in on it and compare with the hair. If not, look at a photo of a feather.",
      "say": "A feather grows out of a bird's skin, just as your hair grows out of your skin. How are they the same? How are they different?",
      "kid": "Look at the feather. How is it like your hair?",
      "parent": "Your hair, your nails, a bird's feathers, a cow's horns and a gecko's scales are all made of the same tough material, called keratin. Fish scales are made of a bony material instead."
@@ -1236,9 +1236,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about what body coverings are made of.",
-     "say": "Your covering is skin and hair. Which animals have a covering made of the same material as your nails?",
-     "kid": "Which animals are covered in the same material as your nails?",
+     "do": "Say that nails and feathers are made of the same material. Ask which other animals might have it.",
+     "say": "Your nails and a bird's feathers are made of the same tough material. Which other animals do you think have it?",
+     "kid": "Think of other animals that have the same material as your nails.",
      "check": {
       "t": "mcq",
       "q": "Your nails and a crow's feathers are made of the same material. What is it called?",
@@ -1268,7 +1268,7 @@
    "title": "Move Like Them",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you move the way different animals move: on two legs, on four, with wings, with fins, and with no legs at all.",
+   "context": "In this activity you move the way different animals move: on two legs, on four, with wings, with fins, and with no legs at all. You will find out how an animal's body decides how they move.",
    "materials": [
     {
      "item": "a clear space on the floor",
@@ -1282,14 +1282,14 @@
      "what": "Act out how six animals move. Guess which animal each person is."
     }
    ],
-   "record": "Draw the animal you liked being best, and how they move.",
+   "record": "Show the family the animal you liked being best, and tell them how that animal moves.",
    "flow": [
     {
      "id": "s1",
      "mins": 6,
      "do": "Call out each animal. Your child moves like them for 30 seconds: a sparrow (hops with both feet), a pigeon (walks one foot at a time), a cow (walks on hands and feet), a fish (arms by the sides, wiggling), a snake (slides on the tummy), a crow (flaps, then walks).",
      "say": "Be a sparrow! Sparrows hop with both feet together. Now be a pigeon. Pigeons walk one foot at a time.",
-     "kid": "Be a sparrow. Hop! Now be a pigeon. Walk!",
+     "kid": "Move like each animal your grown-up calls out.",
      "parent": "Sparrows mostly hop. Pigeons walk. Crows both walk and hop. Watch the birds at the window and check."
     },
     {
@@ -1336,7 +1336,7 @@
    "title": "Pet, Farm or Wild?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you draw animals you have seen near home and sort them into three groups: pets, farm animals and wild animals. Some are tricky.",
+   "context": "In this activity you write down animals you have seen near home and sort them into three groups: pets, farm animals and wild animals. You will find out what makes an animal a pet, a farm animal or a wild animal. Some are tricky.",
    "materials": [
     {
      "item": "12 small pieces of paper",
@@ -1347,7 +1347,7 @@
      "qty": 3
     },
     {
-     "item": "pencils or crayons",
+     "item": "a pencil",
      "qty": 1
     }
    ],
@@ -1355,17 +1355,17 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw 12 animals you have seen. Sort them into pet, farm and wild. Talk about the tricky ones."
+     "what": "Write the names of 12 animals you have seen. Sort them into pet, farm and wild. Talk about the tricky ones."
     }
    ],
-   "record": "Draw the three circles and the animals in each.",
+   "record": "Take a photo of the three plates with the papers sorted onto them.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Help your child draw 12 animals they have seen, one on each paper. Include a street dog, a pigeon, a crow, a cow, a gecko and a cat.",
-     "say": "Draw animals you have seen near home. One on each paper.",
-     "kid": "Draw 12 animals you have seen."
+     "do": "Help your child write the names of 12 animals they have seen, one on each paper. Include a street dog, a pigeon, a crow, a cow, a gecko and a cat.",
+     "say": "Tell me animals you have seen near home. We will write one name on each paper.",
+     "kid": "Write the name of an animal you have seen on each paper."
     },
     {
      "id": "s2",
@@ -1388,7 +1388,7 @@
      "mins": 4,
      "do": "Talk about the tricky ones: a street dog, a cow walking on the road, a parrot in a cage.",
      "say": "A street dog is fed by the whole lane. Is she a pet, or wild? What do you think?",
-     "kid": "Is a street dog a pet or wild? Why?",
+     "kid": "Decide where the street dog goes. Give a reason.",
      "parent": "There is no single right answer for a street dog. Some people call her a community dog. The important thing is the reason your child gives.",
      "check": {
       "t": "mcq",
@@ -1406,7 +1406,7 @@
    "setup": [
     {
      "art": "Twelve small drawings of animals on paper squares: a crow, a cat, a cow, a gecko, a pigeon, a street dog and more.",
-     "caption": "1. Draw the animals you have seen."
+     "caption": "1. Write the names of animals you have seen."
     },
     {
      "art": "Three plates labelled pet, farm and wild, with the drawings sorted onto them.",
@@ -1419,7 +1419,7 @@
    "title": "Feather and Water (if you find a feather)",
    "mins": 10,
    "days": 1,
-   "context": "If you find a feather on the balcony or on a walk, this activity shows how a feather keeps water off a bird.",
+   "context": "If you find a feather on the balcony or on a walk, you can use it here. You will find out why a bird does not get soaked in the rain.",
    "materials": [
     {
      "item": "a feather you have found",
@@ -1442,7 +1442,7 @@
      "what": "Drip water on a feather and on paper. Compare."
     }
    ],
-   "record": "Draw the feather and the paper, with the water drops.",
+   "record": "Take a photo of the feather and the paper with the water drops on them.",
    "flow": [
     {
      "id": "s1",
@@ -1462,9 +1462,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about what the water did on the feather and on the paper.",
-     "say": "Why does a crow need feathers that keep water off?",
-     "kid": "Why does a crow need dry feathers?",
+     "do": "Ask what the water did on the feather, and what it did on the paper.",
+     "say": "What did the water do on the feather? What did it do on the paper?",
+     "kid": "Say what the water did on each one.",
      "check": {
       "t": "mcq",
       "q": "The water rolled off the feather but soaked into the paper. Why is this useful for a bird?",
@@ -1494,7 +1494,7 @@
    "title": "Fish Tank Watch (if you can visit one)",
    "mins": 15,
    "days": 1,
-   "context": "If a friend has a fish tank, or you pass an aquarium shop, this activity is a chance to watch which fin a fish moves, and when.",
+   "context": "If a friend has a fish tank, or you pass an aquarium shop, you can watch a fish. You will find out which fins a fish uses to swim, turn and stop.",
    "materials": [
     {
      "item": "a fish tank to watch, at a friend's home or an aquarium shop",
@@ -1512,7 +1512,7 @@
      "what": "Watch one fish for seven minutes. Note which fins move when the fish swims, turns and stops."
     }
    ],
-   "record": "Draw one fish with all their fins. Draw an arrow on the fin that moves the most.",
+   "record": "Tell your grown-up which fin moved the most. You can also draw the fish and put an arrow on that fin.",
    "flow": [
     {
      "id": "s1",
@@ -1534,7 +1534,7 @@
      "mins": 3,
      "do": "Talk about which fins moved when the fish swam, turned and stopped.",
      "say": "What did the side fins do when the fish stopped?",
-     "kid": "What did the side fins do?",
+     "kid": "Tell your grown-up what the fins did.",
      "check": {
       "t": "mcq",
       "q": "Which fin pushes most fish forward?",
@@ -1555,7 +1555,7 @@
     },
     {
      "art": "A drawing of a fish with an arrow on the tail fin and small arrows on the side fins.",
-     "caption": "2. Draw the fish. Mark the fin that moves most."
+     "caption": "2. Watch which fin moves most."
     }
    ]
   }
@@ -1566,7 +1566,7 @@
    "title": "My Animal Comparison Book",
    "mins": 30,
    "days": 3,
-   "context": "In this three-day project you make a small book. Each day you draw one animal you saw and fill in their covering, legs, wings or fins, and whether they are a pet, a farm animal or wild.",
+   "context": "In this three-day project you make a small book about animals you see. Each page says what covers the animal, how many legs they have, whether they have wings or fins, and whether they are a pet, a farm animal or wild. You will find out how animals, and you, are alike and different.",
    "materials": [
     {
      "item": "3 sheets of paper folded in half and stapled, to make a small book",
@@ -1586,12 +1586,12 @@
     {
      "day": 2,
      "mins": 10,
-     "what": "Draw a second animal, very different from the first. Fill in the same things."
+     "what": "Write about a second animal, very different from the first. Fill in the same things."
     },
     {
      "day": 3,
      "mins": 10,
-     "what": "Draw yourself on the last page. Compare all three: what is the same, what is different?"
+     "what": "Write about yourself on the last page. Compare all three: what is the same, what is different?"
     }
    ],
    "record": "The finished book, with three pages filled in.",
@@ -1600,23 +1600,23 @@
      "id": "s1",
      "mins": 10,
      "do": "1. Fold and staple the paper into a book. 2. On page one, your child draws an animal they saw today. 3. Under it, write: covering, number of legs, wings or fins, pet or farm or wild.",
-     "say": "Which animal did you see today? Draw them. Now, what covers their body?",
-     "kid": "Draw an animal you saw. Fill in each line."
+     "say": "Which animal did you see today? Draw them, or write their name. Now, what covers their body?",
+     "kid": "Draw an animal you saw, or write the name. Fill in each line."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "On day two, your child draws a second animal, very different from the first.",
+     "do": "On day two, your child writes the name of a second animal, very different from the first. Then they fill in the same lines.",
      "say": "Find an animal that is very different from the first one. How are they different?",
-     "kid": "Draw a very different animal. What is different?",
+     "kid": "Write the name of a very different animal. Fill in the lines.",
      "wait": "Day 2"
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "On day three, your child draws themselves on the last page and fills in the same lines.",
-     "say": "Now draw yourself. What is your covering? How many legs? Do you have wings or fins?",
-     "kid": "Draw yourself. Fill in your lines too!",
+     "do": "On day three, your child writes their own name on the last page and fills in the same lines.",
+     "say": "Now it is your turn. What is your covering? How many legs? Do you have wings or fins?",
+     "kid": "Write your name. Fill in your lines too!",
      "wait": "Day 3",
      "ask": [
       {
@@ -1699,8 +1699,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Test the best design for a count of ten. Talk about why it works.",
-     "say": "Count to ten. Did it stand? Why does your design work?",
-     "kid": "Count to ten. Why does it stand?",
+     "say": "Let go and count to ten. Did it stand?",
+     "kid": "Let go. Count to ten out loud.",
      "ask": [
       {
        "q": "Why did your design stand?",

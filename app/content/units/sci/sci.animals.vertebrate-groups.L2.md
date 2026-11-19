@@ -224,12 +224,12 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 
 ## Games
 ### g1 · Backbone Detective: a yes-or-no question game (15 min)
-- **rules:** Draw the animal quickly on the front of each card, under the animal's name.; Mix the cards and put them face down in a pile.; One player is the keeper. The keeper takes the top card and reads the back secretly. The back has the clues.; The others take turns to ask one question each about the animal's body. The keeper may answer only yes or no, using the clues on the back.; Good questions are about clues: Does the animal have feathers? Does the mother make milk? Does the animal have gills?; When someone thinks they know the group, they say it. Then they try to guess the animal.; The player who guesses the animal wins the card and is the next keeper. A wrong guess means that player cannot guess again for this card.; If nobody has guessed after 15 questions, or everyone has guessed wrongly, the keeper keeps the card. The next keeper is the player on the keeper's left. With two players, you simply swap.; When the pile is finished, the player with the most cards wins.
+- **rules:** Look at the animal on the front of each card. The hen card has no photo, so say what a hen looks like.; Mix the cards and put them face down in a pile.; One player is the keeper. The keeper takes the top card and reads the back secretly. The back has the clues.; The others take turns to ask one question each about the animal's body. The keeper may answer only yes or no, using the clues on the back.; Good questions are about clues: Does the animal have feathers? Does the mother make milk? Does the animal have gills?; When someone thinks they know the group, they say it. Then they try to guess the animal.; The player who guesses the animal wins the card and is the next keeper. A wrong guess means that player cannot guess again for this card.; If nobody has guessed after 15 questions, or everyone has guessed wrongly, the keeper keeps the card. The next keeper is the player on the keeper's left. With two players, you simply swap.; When the pile is finished, the player with the most cards wins.
 - **Printable cards: 20 animal cards to cut out, with the group and the clues on the back:** Sardine (back: Fish. Fins, gills and scales.) [picture]; Shark (back: Fish. Fins and gills.) [picture]; Seahorse (back: Fish. Gills and a small fin on the back.) [picture]; Rohu (back: Fish. Fins, gills and scales.) [picture]; Frog (back: Amphibian. Smooth damp skin, and starts life as a tadpole.) [picture]; Toad (back: Amphibian. Damp, bumpy skin with no scales.) [picture]; Purple frog (back: Amphibian. Lives underground in the Western Ghats.) [picture]; House gecko (back: Reptile. Dry scales, lays eggs.) [picture]; Cobra (back: Reptile. Dry scales, no legs, lays eggs.) [picture]; Mugger crocodile (back: Reptile. Dry scales, lays eggs in a hole in the sand.) [picture]; Olive ridley turtle (back: Reptile. A shell and dry scales, lays eggs on a beach.) [picture]; Crow (back: Bird. Feathers and a beak.) [picture]; Peacock (back: Bird. Feathers and a beak, and can fly up into trees.) [picture]; Hen (back: Bird. Feathers, lays eggs with hard shells.); Duck (back: Bird. Feathers, and swims with webbed feet.) [picture]; Cow (back: Mammal. Hair, and feeds her calf milk.) [picture]; Bat (back: Mammal. Fur, and feeds her baby milk.) [picture]; River dolphin (back: Mammal. Breathes air and feeds her baby milk.) [picture]; Pangolin (back: Mammal. Scales, but some hair too, and feeds her baby milk.) [picture]; Elephant (back: Mammal. Hair, and feeds her calf milk.) [picture]
 - **s1 (4 min)**  
-  *Parent does:* 1. Cut out the 20 cards. 2. Share them and draw a quick animal on each.  
-  *Parent says:* Let's draw the animals first. You draw some, and I will draw some.  
-  *Child mode:* Draw an animal on each card.
+  *Parent does:* 1. Cut out the 20 cards. 2. Spread them out with the photos up. 3. Take turns to point at a card and say the animal's name.  
+  *Parent says:* Let's look at the animals first. You point at a card and name it. Then I will do one.  
+  *Child mode:* Point at a card. Say the animal's name.
 - **s2 (2 min)**  
   *Parent does:* Play one round with the grown-up as the keeper, to show how it works.  
   *Parent says:* I have a secret animal. Ask me yes-or-no questions. Try to find the group first.  
@@ -253,8 +253,8 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
   *Parent does:* Play through the cards. After each, ask which clue gave the answer away.  
   *Parent says:* Point together: one, two, three! Now tell me a clue. How do you know?  
   *Child mode:* Point at the odd one out. Say a clue.
-  - Ask: Why is the bat the odd one out? (good: The bat has fur, and the others have feathers.; The bat is a mammal.)
-  - Note: The best answers name a clue, like 'fur, not feathers', not just the group. The cards with no-backbone animals, like the butterfly and the crab, remind your child about invertebrates.
+  - Ask: In crow, sparrow, bat, peacock, why is the bat the odd one out? (good: The bat has fur, and the others have feathers.; The bat is a mammal.)
+  - Note: The best answers name a clue, like 'fur, not feathers', not just the group. The cards with no-backbone animals, like the butterfly and the crab, remind your child about invertebrates, which are animals with no backbone.
   - Check: Frog, toad, house gecko, tree frog. Which is the odd one out? → **House gecko**
 
 ## Experiments
@@ -262,16 +262,16 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 - **question:** Does a backbone bend better when it is one long piece, or many short pieces?
 - **predict:** Guess first. Which will wrap round the tumbler best: 1 long piece, 2 pieces, 4 pieces or 8 short pieces? Why do you think so?
 - **fair test:** We use the same straw every time, so the total length stays the same. We use the same wool, the same tumbler and the same gentle pull. Only the number of pieces changes. That way, any difference comes from the number of pieces.
-- **record:** Fill in the results table. Draw the shape each chain made round the tumbler.
-- **results table:** Number of pieces | How many pieces touch the tumbler | Biggest gap: how many fingers fit? | Draw the shape
+- **record:** Fill in the results table. Say the shape each chain made round the tumbler, or draw it, or take a photo.
+- **results table:** Number of pieces | How many pieces touch the tumbler | Biggest gap: how many fingers fit? | Shape: straight, bent or round?
 - **s1 (3 min)**  
   *Parent does:* 1. Wrap tape round one end of the wool to make a stiff tip. 2. Push the tip through the straw. 3. Tie a big knot at the other end.  
-  *Parent says:* This straw is our pretend backbone. The wool is like the spinal cord that runs through the middle of your own backbone.  
+  *Parent says:* This straw is our pretend backbone. The wool is like the spinal cord, the thick bundle of nerves that runs through the middle of your own backbone.  
   *Child mode:* Push the wool through the straw. This is your pretend backbone.
 - **s2 (3 min)**  
   *Parent does:* Tell your child the four chains you will test: 1, 2, 4 and 8 pieces. Ask for a guess and a reason. Write the guess down.  
-  *Parent says:* We will cut the straw into more and more pieces. Which one will wrap round the tumbler best? Why do you think so?  
-  *Child mode:* Guess. Which will wrap round the tumbler best? Why?
+  *Parent says:* We will cut the straw into more and more pieces. Which one will wrap round the tumbler best?  
+  *Child mode:* Pick one: 1, 2, 4 or 8 pieces.
   - Ask: Why do you think so? (good: Eight pieces, because it can bend in more places.; One piece, because it is strong.)
   - Note: Any guess is fine, as long as there is a reason. Do not tell your child what will happen.
 - **s3 (4 min)**  
@@ -287,8 +287,8 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
   - Note: Usually 2 pieces make a bent V and touch at 2 places. 4 pieces make a square-ish shape. 8 short pieces hug the tumbler almost all the way round, with gaps too small for a finger. Each joint only tilts a little, but more joints add up to a bigger curve. Keep the pull on the wool gentle, so it does not snap. Cutting and threading three times is fiddly, so the grown-up helps with the scissors and the wool.
 - **s5 (4 min)**  
   *Parent does:* 1. Look at the results table together. 2. Ask what your child thinks, what they saw, and why.  
-  *Parent says:* Which chain bent best? Was your guess right? Why can a backbone bend?  
-  *Child mode:* Which chain bent best? Why?
+  *Parent says:* Which chain bent best? Was your guess right?  
+  *Child mode:* Look at your results table. Compare it with your guess.
   - Ask: Why can your back bend, if every bone in it is hard? (good: Because it is many small bones, and each one tilts a little.; Like the 8-piece straw, it bends at lots of joints.)
   - Note: A strong answer uses the evidence: 'The 8-piece chain hugged the tumbler, but the whole straw stayed straight. A backbone has many bones, so it bends at many joints.' Now read the card on what a backbone is.
   - Check: A snake can curl up into rings. What does the Bendy Backbone test tell you about a snake's backbone? → **It has a great many small vertebrae**
@@ -299,10 +299,10 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 - **record:** Fill in the results table. Circle the clue with the fewest colours in all.
 - **results table:** Clue | Colours on each mat | Colours in all | Which animals were mixed up?
 - **s1 (8 min)**  
-  *Parent does:* 1. Write the 18 names from the list in the grown-up note below, one on each card. 2. Your child adds a tiny picture to each. 3. Out of sight, put a coloured dot on the back of each card.  
-  *Parent says:* Add a tiny picture to each card. I will put a coloured dot on the back, where you cannot see it. The dot shows the animal's true group.  
-  *Child mode:* Add a tiny picture to each card. Do not look at the backs!
-  - Note: The 18 animals: sardine, shark, seahorse, frog, toad, tree frog, house gecko, cobra, crocodile, sea turtle, crow, duck, peacock, bat, river dolphin, cow, pangolin, you. Dots: blue for sardine, shark, seahorse. Green for frog, toad, tree frog. Brown for gecko, cobra, crocodile, turtle. Red for crow, duck, peacock. Yellow for bat, river dolphin, cow, pangolin, you.
+  *Parent does:* 1. Write the 18 names from the list in the grown-up note below, one on each card. 2. Out of sight, put a coloured dot on the back of each card.  
+  *Parent says:* I will put a coloured dot on the back of each card, where you cannot see it. The dot shows the animal's true group.  
+  *Child mode:* Read the animal names on the cards. Do not look at the backs!
+  - Note: The 18 animals: sardine, shark, seahorse, frog, toad, tree frog, house gecko, cobra, crocodile, sea turtle, crow, duck, peacock, bat, river dolphin, cow, pangolin, and one card that says Me for your child. Dots: blue for sardine, shark, seahorse. Green for frog, toad, tree frog. Brown for gecko, cobra, crocodile, turtle. Red for crow, duck, peacock. Yellow for bat, river dolphin, cow, pangolin, Me.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason. Write it down.  
   *Parent says:* We will sort by three clues. Which clue will keep each group together best? Why do you think so?  
@@ -310,8 +310,8 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
   - Ask: Why do you think so? (good: Where they live, because fish all live in water.; The covering, because fish have scales and birds have feathers.)
 - **s3 (4 min)**  
   *Parent does:* 1. Lay 3 mats: Water, Land, Air. 2. Your child puts each card where that animal spends most time. 3. Turn the cards over and count the colours on each mat. 4. Add them up.  
-  *Parent says:* First clue: where do they live? Put each animal on Water, Land or Air. Now turn them over. How many colours on each mat?  
-  *Child mode:* Sort by where they live. Turn the cards over. Count the colours.
+  *Parent says:* First clue: where do they live? Put each animal on Water, Land or Air. Now turn them over. A mat with only one colour is sorted perfectly. How many colours are on each mat?  
+  *Child mode:* Sort by where they live. Turn the cards over. On each mat, count the different dot colours.
   - Note: There is no wrong place if your child has a reason. Usually the Water mat gets 4 or 5 colours, because the dolphin, turtle, crocodile and duck join the fish. The total is usually about 10 or 11.
 - **s4 (4 min)**  
   *Parent does:* 1. Lay 3 mats: Swims, Walks or crawls, Flies. 2. Sort again. 3. Turn over, count and add up.  
@@ -333,57 +333,57 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 
 ## Activities
 ### a1 · Find Your Own Backbone (5 min)
-- **record:** Draw a person from behind, with a row of dots for the backbone.
+- **record:** Tell a grown-up how many bumps you felt and where. Or take a photo of the bent back.
 - **s1 (2 min)**  
   *Parent does:* Your child puts their fingers on the back of their neck and nods their head forward slowly.  
   *Parent says:* Put your fingers on the back of your neck. Now nod your head down slowly. What do you feel?  
   *Child mode:* Touch the back of your neck. Nod your head down. Feel the bump?
-  - Note: Most people can feel one big bump at the bottom of the neck when they nod. That is a vertebra.
+  - Note: Most people can feel one big bump at the bottom of the neck when they nod. That is a vertebra, one small bone of the backbone.
 - **s2 (3 min)**  
   *Parent does:* A grown-up or older child bends forward. Your child runs a finger down the middle of their back and counts the bumps they can feel.  
-  *Parent says:* Now feel my back as I bend. Count the bumps you can feel. Are they joined, or separate?  
+  *Parent says:* Now feel my back as I bend. Count the bumps you can feel. Do they feel joined, or separate?  
   *Child mode:* Feel the grown-up's back as they bend. Count the bumps.
   - Ask: How many bumps did you count? (good: About 10 or 15.; Too many to count.)
   - Note: Most children feel 10 to 20 bumps. The backbone has 33 vertebrae in all, but some are hard to feel. The bumps stand out more when the back bends, because the bones tilt apart a little.
 ### a2 · Seven Neck Bones: a paper chain giraffe and you (15 min)
-- **record:** The two paper chains, with a drawing of a head on top of each.
+- **record:** The two paper chains, each with its label.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to guess who has more neck bones: a giraffe or a person.  
   *Parent says:* A giraffe has a very long neck. Do you think a giraffe has more neck bones than you, or the same?  
   *Child mode:* Guess. Does a giraffe have more neck bones than you?
 - **s2 (10 min)**  
-  *Parent does:* 1. Cut 7 short strips, each as long as your child's finger. 2. Cut 7 long strips, each as long as their forearm. 3. Make each set into a chain of rings. 4. Draw a head for each chain.  
+  *Parent does:* 1. Cut 7 short strips, each as long as your child's finger. 2. Cut 7 long strips, each as long as their forearm. 3. Make each set into a chain of 7 rings. 4. Write a paper label for each chain: Me and Giraffe.  
   *Parent says:* Make a short chain for your neck and a long chain for a giraffe's neck. Count the rings in each.  
   *Child mode:* Make two chains. Count 7 rings in each.
   - Note: Nearly every mammal has 7 neck bones, from a mouse to a giraffe. A giraffe's neck bones are each longer than your hand.
 - **s3 (2 min)**  
   *Parent does:* Hang the chains side by side and talk about them.  
   *Parent says:* Both chains have 7 rings. So how is the giraffe's neck so long?  
-  *Child mode:* Both have 7. Why is the giraffe's neck so long?
+  *Child mode:* Hold the two chains side by side. Look at the rings.
   - Ask: Why is the giraffe's neck longer? (good: Each bone is much longer.; The rings are bigger, not more.)
 ### a3 · A Real Fish Backbone (if your family eats fish) (10 min)
 - **safety:** Fish bones are thin and sharp. A grown-up lifts the bone out. Wash hands after touching it.
-- **record:** A drawing of the fish backbone, with the small bones in a row.
+- **record:** A photo of the fish backbone. Or draw it with the small bones in a row, or tell a grown-up what you saw.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up holds the tail of the cooked fish and lifts the backbone out in one piece. 2. Put the backbone on a clean plate.  
   *Parent says:* This is the fish's backbone. Look closely. Is it one long bone?  
-  *Child mode:* Look at the fish's backbone. Is it one long bone?
+  *Child mode:* Look closely at the fish's backbone.
 - **s2 (6 min)**  
   *Parent does:* Your child counts the small bones in the row and bends the backbone gently.  
   *Parent says:* Count the small bones in the row. Then hold both ends and bend it very gently. What happens?  
-  *Child mode:* Count the small bones. Bend it gently. What happens?
+  *Child mode:* Count the small bones. Bend it gently.
   - Ask: Why can the fish's backbone bend? (good: It is made of many small bones.; Each little bone moves a bit.)
   - Note: Most fish have a few dozen vertebrae. A child may lose count, and that is fine. The thin bones sticking out are ribs and spines that held the fish's muscles and fins.
 ### a4 · My Hand of Five: a five-finger chart (10 min)
 - **record:** The hand chart, with five groups, five clues and five animals.
 - **s1 (2 min)**  
   *Parent does:* Your child draws round one hand.  
-  *Parent says:* Draw round your hand. You have five fingers, and there are five groups of animals with a backbone.  
-  *Child mode:* Draw round your hand. Five fingers, five groups!
+  *Parent says:* Draw round your hand, or just hold it up. You have five fingers, and there are five groups of animals with a backbone.  
+  *Child mode:* Draw round your hand, or hold it up and count your fingers. Five fingers, five groups!
 - **s2 (8 min)**  
-  *Parent does:* For each finger, help your child write the group and one clue, and draw one animal. Thumb: fish, gills. Pointing finger: amphibians, damp skin. Middle finger: reptiles, dry scales. Ring finger: birds, feathers. Little finger: mammals, milk.  
-  *Parent says:* Which group goes on your thumb? What clue helps you know a fish? Draw a fish.  
-  *Child mode:* Write a group on each finger. Add a clue. Draw an animal.
+  *Parent does:* For each finger, help your child write the group, one clue and one animal name. If they do not want to write, they say it out loud. Thumb: fish, gills. Pointing finger: amphibians, damp skin. Middle finger: reptiles, dry scales. Ring finger: birds, feathers. Little finger: mammals, milk.  
+  *Parent says:* Which group goes on your thumb? What clue helps you know a fish? Which fish can you name?  
+  *Child mode:* Write a group on each finger. Add a clue. Add an animal name.
   - Ask: Which finger is your own group on? (good: The mammal finger, because I have hair and drank milk.)
   - Note: Let your child choose the animals. Help with the writing if needed. Keep the hand chart on the wall to look at.
 
@@ -392,7 +392,7 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 - **record:** A row of five dough animals with labels, and a photo or drawing of them.
 - **schedule:** day 1: Make five backbones of threaded straw pieces. Wrap dough round each to make a fish, a frog, a lizard, a bird and a person. (25 min); day 2: Add the coverings: pressed scales, smooth skin, paper feathers and wool hair. Make a label for each group and show someone at home. (15 min)
 - **s1 (25 min)**  
-  *Parent does:* 1. Thread 5 short chains of straw pieces. 2. Make the fish chain bendy and long. Make the frog chain very short. 3. Wrap dough round each chain to shape the five animals.  
+  *Parent does:* 1. Thread five chains of straw pieces on wool, one for each animal. 2. Make the fish chain long, with many pieces. Make the frog chain very short. 3. Wrap dough round each chain to shape the five animals.  
   *Parent says:* Every animal here has a backbone. Shall we make the frog's short and the lizard's long?  
   *Child mode:* Make five backbones. Wrap dough round each one.
   - Note: A frog's backbone is very short, with about nine vertebrae. A lizard's goes on into a long tail. Let your child shape the bodies freely.
@@ -411,18 +411,18 @@ That night Meenakshi drew two pictures side by side. One was the fish's backbone
 - **general:** Pull the wool tight and tie it, so the pieces press together. Real backbones are held tight by muscles and strong bands called ligaments.; Stand the chain on a flat base, like a bottle cap or a lump of dough.
 - **creative:** Put a small soft pad, like a bit of eraser or folded paper, between the pieces. Your backbone has soft pads called discs between the vertebrae.; Stretch two rubber bands along the sides, like the muscles on each side of your backbone.
 - **s1 (3 min)**  
-  *Parent does:* Stand the loose 8-piece chain from the Bendy Backbone test up on the table and let go. Watch it flop.  
-  *Parent says:* Our chain bent beautifully, but look. It cannot stand up. Your back can bend and stand. How?  
+  *Parent does:* 1. Thread 8 short straw pieces on wool, as in the Bendy Backbone test. 2. Stand the loose chain up on the table and let go. Watch it flop.  
+  *Parent says:* This chain bends beautifully, but look. It cannot stand up. Your back can bend and stand. How?  
   *Child mode:* Your chain flops. Can you make it bend and stand up?
 - **s2 (12 min)**  
   *Parent does:* Your child tries their own ideas with the materials.  
-  *Parent says:* Try one idea. Does it stand with the coin? Does it still bend?  
+  *Parent says:* Try one idea. Stand your backbone up and put the coin on top. Does it stand? Does it still bend?  
   *Child mode:* Try an idea. Test it. Change one thing and test again.
   - Note: Pulling the wool tight is usually the first thing that works. Too tight, and the chain stops bending. Let your child find the balance. It is hard to get both. A chain that stands but bends only a little, or bends well but needs a hand to stand, is still a good result. Your real backbone solves this with discs, ligaments and muscles all working together.
 - **s3 (5 min)**  
   *Parent does:* Test the best design twice: standing with the coin for 10 seconds, then wrapping round the tumbler.  
-  *Parent says:* Let's test it both ways. What made it work?  
-  *Child mode:* Test it both ways. What made it work?
+  *Parent says:* Let's test it both ways. First stand it with the coin. Then wrap it round the tumbler.  
+  *Child mode:* Test it both ways. Say what you changed.
   - Ask: What made your backbone stand and still bend? (good: Pulling the wool tight held the pieces together.; The rubber bands worked like muscles.)
 
 ## Worksheets

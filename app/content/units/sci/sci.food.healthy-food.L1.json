@@ -618,7 +618,7 @@
    "record": "Your chart of drops, with a word beside each drop for what you were doing when you felt thirsty.",
    "setup": [
     {
-     "art": "A sheet of paper with a big tumbler drawn on it, and a child drawing a blue drop beside it.",
+     "art": "A boy writing his name at the top of a sheet of paper stuck on the wall, while his mother stands behind him with a hand on his shoulder and a steel tumbler waits on a table nearby.",
      "caption": "1. Write your name at the top of the paper."
     },
     {
@@ -791,7 +791,7 @@
    ],
    "setup": [
     {
-     "art": "A big sheet on the floor with a blue, a green and a brown basket drawn on it, and a pile of food cards beside it.",
+     "art": "A girl kneeling on a floor mat setting out three baskets, one blue, one green and one brown, with a small pile of cards beside them and her father watching and smiling.",
      "caption": "1. Set out three baskets. Mix the cards."
     },
     {
@@ -1064,7 +1064,7 @@
      "caption": "1. Draw ten circles. Put a tiny bit of the food on a spoon."
     },
     {
-     "art": "The same sheet with faces drawn in the circles: frowning faces at the start, then flat faces, then a small smile in the last circle.",
+     "art": "A boy at a table tasting a tiny bit of karela from a steel spoon with a scrunched face, while his mother holds a pencil over a sheet with empty circles, ready to write his answer.",
      "caption": "2. Each day, taste and say how it was. Look at how the answers change."
     }
    ],
@@ -1144,7 +1144,7 @@
    "your_turn": "Now plan your own tiffin. Lay the foods out in the box, or tell your grown-up what you will pack. Pack it on a real day, and see if it worked by lunchtime.",
    "setup": [
     {
-     "art": "A child drawing a round tiffin box with three sections on paper, with cucumber, curd rice and an orange drawn inside.",
+     "art": "A girl laying cucumber slices, curd rice and fruit into an open steel tiffin box, with a water bottle and a paper and pencil beside it and her mother watching and smiling.",
      "caption": "1. Plan your tiffin. Put in one wet food."
     },
     {

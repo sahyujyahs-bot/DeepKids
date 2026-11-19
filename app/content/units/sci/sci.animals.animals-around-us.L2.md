@@ -214,13 +214,13 @@ That night the tube light went on, and the moths came, and so did Chikki.
 
 ## Games
 ### g1 · Covering Snap (15 min)
-- **rules:** Before you play, share out the cards between the players. Each player draws a quick animal under the name on each of their cards, so that a child who cannot read yet can play. A simple shape is enough.; Lay the five covering mats in a circle on the floor.; Mix the cards and put them face down in a pile.; One player turns over the top card and reads the name aloud.; Everyone races to put a hand on the right mat. A hand on a wrong mat means you sit out that card.; Turn the card over to check. The first hand on the right mat wins the card.; When the pile is finished, the player with the most cards wins. If two players have the same number, they both win.
+- **rules:** Before you play, share out the cards between the players. Each card has a name, and most have a photo, so a child who cannot read yet can play from the photo.; Lay the five covering mats in a circle on the floor.; Mix the cards and put them face down in a pile.; One player turns over the top card and reads the name aloud.; Everyone races to put a hand on the right mat. A hand on a wrong mat means you sit out that card.; Turn the card over to check. The first hand on the right mat wins the card.; When the pile is finished, the player with the most cards wins. If two players have the same number, they both win.
 - **Printable cards: 24 animal cards to cut out, with the covering on the back:** Crow (back: Feathers) [picture]; Peacock (back: Feathers) [picture]; Penguin (back: Feathers. A bird that swims and does not fly.) [picture]; Hen (back: Feathers) [picture]; Dog (back: Hair or fur) [picture]; Cow (back: Hair or fur) [picture]; Bat (back: Hair or fur. A bat is a mammal with wings.) [picture]; You (back: Hair or fur. You have hair and skin.); Elephant (back: Hair or fur. Elephants have thin, bristly hairs.) [picture]; Squirrel (back: Hair or fur) [picture]; Fish (back: Scales) [picture]; Snake (back: Scales) [picture]; Gecko (back: Scales) [picture]; Indian pangolin (back: Scales. A pangolin is a mammal with scales!); Crocodile (back: Scales) [picture]; Snail (back: Shell or hard case) [picture]; Tortoise (back: Shell or hard case) [picture]; Crab (back: Shell or hard case) [picture]; Ant (back: Shell or hard case. An ant's outside is a hard case.) [picture]; Beetle (back: Shell or hard case) [picture]; Frog (back: Bare skin) [picture]; Earthworm (back: Bare skin) [picture]; Dolphin (back: Bare skin. A dolphin is a mammal with almost no hair.) [picture]; Butterfly (back: Scales. A butterfly's wings are covered in tiny scales!) [picture]
 - **Printable board: 5 covering mats to lay on the floor:** Feathers; Hair or fur; Scales; Shell or hard case; Bare skin
 - **s1 (4 min)**  
-  *Parent does:* 1. Share the 24 cards between you and draw a quick animal on each. 2. Lay the five mats in a circle.  
-  *Parent says:* Let's draw the animals first. I will draw some and you draw some.  
-  *Child mode:* Draw an animal on your cards. Then lay out the five mats.
+  *Parent does:* 1. Share the 24 cards between you, with the animal names facing up. 2. Lay the five mats in a circle.  
+  *Parent says:* Let's share out the cards. Read the name on each one. Do not peek at the back.  
+  *Child mode:* Look at your cards and say each animal's name. Then lay out the five mats.
 - **s2 (8 min)**  
   *Parent does:* 1. Take turns turning over a card. 2. Race to the right mat. 3. Turn the card over to check.  
   *Parent says:* Crow! Which mat? Quick!  
@@ -233,7 +233,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Child mode:* Count your cards. Who has the most?
   - Check: A pangolin is covered in scales, and the mother feeds her baby milk. What is a pangolin? → **A mammal**
 ### g2 · Build-a-Beast (15 min)
-- **rules:** Put the covering cards, leg cards and extra cards in three face-down piles.; On your turn, take one card from each pile. Put the cards back and mix the piles after each turn.; Everyone draws a beast with that body in two minutes, and gives the beast a name.; Then everyone tries to name a real animal with that body. Each player who names a real animal earns one point.; If nobody can name one, talk about why. Is there really no animal like this? That earns everyone one point.; After three turns each, the player with the most points wins. If you are tied, you all win.
+- **rules:** Put the covering cards, leg cards and extra cards in three face-down piles.; On your turn, take one card from each pile. Put the cards back and mix the piles after each turn.; Everyone makes up a beast with that body in two minutes, and gives the beast a name. Draw it, or just describe it to the others.; Then everyone tries to name a real animal with that body. Each player who names a real animal earns one point.; If nobody can name one, talk about why. Is there really no animal like this? That earns everyone one point.; After three turns each, the player with the most points wins. If you are tied, you all win.
 - **Printable cards: 5 covering cards:** Feathers; Hair or fur; Scales; Shell; Bare skin
 - **Printable cards: 6 leg cards:** No legs; 2 legs; 4 legs; 6 legs; 8 legs; Many legs
 - **Printable cards: 4 extra cards:** Wings; Fins; A long tail; Nothing extra
@@ -243,15 +243,15 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Parent says:* We will make beasts. Take one card from each pile.  
   *Child mode:* Take one card from each pile.
 - **s2 (10 min)**  
-  *Parent does:* 1. Read the three cards aloud. 2. Draw for two minutes. 3. Then name real animals. 4. Play three turns each, taking turns to pick the cards.  
-  *Parent says:* Feathers, two legs and wings. Draw your beast. Now, is there a real animal like this?  
-  *Child mode:* Draw your beast. Can you name a real animal like this?
+  *Parent does:* 1. Read the three cards aloud. 2. Give everyone two minutes to draw the beast or describe it. 3. Then name real animals. 4. Play three turns each, taking turns to pick the cards.  
+  *Parent says:* Say our cards are feathers, two legs and wings. Make up your beast. Is there a real animal like this?  
+  *Child mode:* Draw your beast, or tell the others about it. Then think of a real animal with this body.
   - Ask: Feathers and four legs. Is there a real animal like this? (good: No. Every animal with feathers is a bird, and birds have two legs.; Not today. Birds have two legs and two wings.)
   - Note: Some mixes have many answers (feathers, 2 legs, wings: any bird). Some have none (feathers and 4 legs, fur and 6 legs). Others surprise: scales and no legs is a snake or a fish, and scales with 4 legs is a gecko or a crocodile.
 - **s3 (3 min)**  
   *Parent does:* Look at all the beasts together. Ask the check question.  
   *Parent says:* Which beast was the strangest? Could any of them really live?  
-  *Child mode:* Show your beasts. Which one could really live?
+  *Child mode:* Show your beasts to each other. Pick the strangest one.
   - Check: Which mix belongs to a real animal? → **Hair, two legs and no wings**
 
 ## Experiments
@@ -260,7 +260,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - **predict:** Guess first. How many legs will the dough animal need to stand without help? Why do you think so?
 - **fair test:** We use the same dough body and legs of the same length every time. Only the number of legs changes. We let go and count to five each time, and try each number twice, because one try can be luck.
 - **safety:** Toothpicks have sharp points. A grown-up cuts any sticks, and nobody waves the legs near eyes. Stand near a wall or a grown-up when you shut your eyes.
-- **record:** Fill in the results table. Draw the dough animals that stood and the ones that fell.
+- **record:** Fill in the results table. Take a photo of the dough animals that stood and the ones that fell.
 - **results table:** Number of legs | Did it stand without help? | Did it wobble?
 - **s1 (3 min)**  
   *Parent does:* 1. Roll the dough into a ball, then press it into a short, fat egg shape. 2. Push one leg into the middle of the bottom.  
@@ -268,14 +268,14 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Child mode:* Roll the dough into a fat egg. Push in one leg.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess and to say why. Write the guess on the paper.  
-  *Parent says:* How many legs will our animal need to stand without help? Why do you think so?  
-  *Child mode:* Guess. How many legs does it need to stand? Why?
+  *Parent says:* How many legs will our animal need to stand without help?  
+  *Child mode:* Guess how many legs it needs. Then say why you think so.
   - Ask: Why do you think the dough animal needs that many legs? (good: Two, because I stand on two legs.; Four, because a cow and a dog stand on four.)
   - Note: Many children guess two, because they stand on two legs themselves. Do not correct the guess. The test will answer it.
 - **s3 (9 min)**  
   *Parent does:* 1. Stand the body on the board on one leg and let go. 2. Count to five. 3. Write down what happened. 4. Add a second leg and test again. 5. Then test three legs, four legs and six legs. 6. Try each number twice.  
   *Parent says:* Let go gently and count to five. Did the animal stand, wobble or fall?  
-  *Child mode:* Let go. Count to five. Did it stand or fall?
+  *Child mode:* Let go. Count to five. Watch what the animal does.
   - Ask: What happened with two legs? (good: The dough animal fell over, forward or backward.; It fell every time unless I held it.)
   - Note: Push the legs in so they spread out a little, like the legs of a stool. With one or two legs, the body tips over every time. With three legs spread out, the body stands. With four and six legs, the body stands easily. If the body falls on three legs, spread the legs wider and keep the body in the middle.
 - **s4 (3 min)**  
@@ -290,10 +290,10 @@ That night the tube light went on, and the moths came, and so did Chikki.
   - Ask: What did you feel in your feet? (good: My toes pressed down and let go.; My ankles kept moving a tiny bit.; I kept swaying and stopping.)
   - Note: Your child will feel the toes press, the ankles tighten and loosen, and the body sway a little. Shutting the eyes makes the sway bigger, so these tiny moves are easier to feel. Standing on one foot makes them bigger still.
 - **s6 (3 min)**  
-  *Parent does:* Ask your child what they think the answer is, what they saw in the test, and why it happened.  
-  *Parent says:* So, how many legs did the dough animal need? And how do you stand on two?  
-  *Child mode:* How many legs did it need? How do you stand on two?
-  - Ask: Why can you stand on two legs, when the dough animal could not? (good: Because my feet and ankles keep moving to catch me.; Because my body keeps balancing, and the dough does not.)
+  *Parent does:* Look at the results table together. Ask your child what they found.  
+  *Parent says:* Look at your table. How many legs did the dough animal need to stand?  
+  *Child mode:* Look at your table. Say what you found.
+  - Ask: How many legs did the dough animal need to stand? (good: Three, spread out. With two it fell over.; Three or more, spread out like a stool.)
   - Note: A strong answer uses the test: the dough fell on two legs but stood on three, and their own feet kept making tiny moves. Now read the card on standing and balance together.
   - Check: The dough animal fell over on two legs, but stood on three. Why can you stand on two legs? → **Because your feet and ankles keep making tiny moves to keep you up**
 ### e2 · Roll Stopper: what does a fin do? (20 min)
@@ -301,7 +301,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - **predict:** Guess first. When we add a fin, will the bottle roll more, less or the same? Why do you think so?
 - **fair test:** We use the same bottle, the same water and the same flick each time. The only change is the fin. We try three flicks each way, because one flick can be harder than another.
 - **safety:** A grown-up cuts the plastic. Wipe up spilled water so nobody slips.
-- **record:** Fill in the table. Draw the bottle with and without the fin.
+- **record:** Fill in the table. Take a photo of the bottle with and without the fin.
 - **results table:** Bottle | Flick 1: turns | Flick 2: turns | Flick 3: turns
 - **s1 (4 min)**  
   *Parent does:* 1. Pour water into the bottle until it is about a quarter full. 2. Close the cap tight. 3. Stick a bindi on the side. 4. Lay the bottle on its side in the bucket.  
@@ -315,7 +315,7 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - **s3 (3 min)**  
   *Parent does:* Ask your child to guess and to say why.  
   *Parent says:* Now we will tape a fin along the bottom. Will the bottle roll more, less or the same? Why?  
-  *Child mode:* We will add a fin. Will it roll more or less? Why?
+  *Child mode:* Guess what the fin will do. Say why.
 - **s4 (3 min) · grown-up needed**  
   *Parent does:* 1. Dry the bottle. 2. Tape the plastic strip along the length of the bottle, standing out like a fin. 3. Float the bottle with the fin pointing down into the water.  
   *Parent says:* A fish has a fin on the back and one underneath. Our fin goes underneath, in the water.  
@@ -327,16 +327,16 @@ That night the tube light went on, and the moths came, and so did Chikki.
   - Ask: What happened with the fin? (good: The bottle rocked and stopped.; It did not roll over at all.)
   - Note: With the fin, the bottle rocks a little and stops. To turn, the fin has to push a lot of water out of the way, so the bottle hardly turns.
 - **s6 (3 min)**  
-  *Parent does:* Ask your child what they think the answer is, what they saw in the test, and why it happened.  
-  *Parent says:* So what does a fin on a fish's back or belly do?  
-  *Child mode:* What does a fin do for a fish?
+  *Parent does:* Look at the results table together. Ask what changed with the fin, and why.  
+  *Parent says:* Look at your counts. What changed when we added the fin?  
+  *Child mode:* Look at your counts. Say what changed.
   - Ask: Why did the fin stop the rolling? (good: Because the fin pushes against the water.; Because the water holds the fin back.)
   - Note: A strong answer uses the counts: without a fin, the bottle rolled. With a fin, the bottle rocked and stopped. Fins on a fish's back and belly do the same job. They push against the water and keep the fish upright.
   - Check: With a fin, the bottle stopped rolling. What does the fin on a fish's back do? → **Keeps the fish from rolling over**
 
 ## Activities
 ### a1 · Count an Ant's Legs (12 min)
-- **record:** Draw the ant with every leg. Write the number of legs.
+- **record:** Write the number of legs you counted. Keep your photo of the ant.
 - **s1 (2 min)**  
   *Parent does:* 1. About an hour before you start, put a pinch of sugar on a white plate. 2. Put the plate on the floor where you have seen ants.  
   *Parent says:* Ants find sugar fast. Let's give them some and see who comes.  
@@ -353,34 +353,34 @@ That night the tube light went on, and the moths came, and so did Chikki.
   - Note: An ant has six legs, three on each side, and two feelers called antennae on the head. Children sometimes count the feelers as legs. If no ants come, try again later, or look at an ant on the kitchen counter or the balcony.
 - **s4 (3 min)**  
   *Parent does:* Compare the ant's legs with your child's legs and a crow's legs.  
-  *Parent says:* You have two legs. A crow has two. The ant has six. How many more legs does the ant have than you?  
-  *Child mode:* You have 2 legs. The ant has 6. How many more?
+  *Parent says:* You have two legs. A crow has two too. The ant has six.  
+  *Child mode:* Count on from your 2 legs up to the ant's 6.
   - Ask: How many more legs does the ant have than you? (good: Four more. The ant has six and I have two.; Six take away two is four.)
   - Check: How many legs does an ant have? → **6**
 ### a2 · Up Close: my hair, skin and nails (10 min)
 - **safety:** If you use a feather you found outside, hold it by the end and wash your hands after.
-- **record:** Draw your arm hair and a nail, as big as you saw them.
+- **record:** Keep a photo of your arm hair and a photo of a nail.
 - **s1 (4 min)**  
   *Parent does:* 1. Zoom in on the inside of your child's arm with the phone camera. 2. Then zoom in on a fingernail.  
-  *Parent says:* Look closely at your arm. Can you see tiny hairs? Where do they come out of?  
+  *Parent says:* Look closely at your arm. Can you see tiny hairs?  
   *Child mode:* Zoom in on your arm. Find the tiny hairs.
   - Ask: Where does each hair come out of? (good: Out of a tiny hole in my skin.; Out of my skin.)
 - **s2 (3 min)**  
-  *Parent does:* If you have a feather, zoom in on it and compare with the hair.  
+  *Parent does:* If you have a feather, zoom in on it and compare with the hair. If not, look at a photo of a feather.  
   *Parent says:* A feather grows out of a bird's skin, just as your hair grows out of your skin. How are they the same? How are they different?  
   *Child mode:* Look at the feather. How is it like your hair?
   - Note: Your hair, your nails, a bird's feathers, a cow's horns and a gecko's scales are all made of the same tough material, called keratin. Fish scales are made of a bony material instead.
 - **s3 (3 min)**  
-  *Parent does:* Talk about what body coverings are made of.  
-  *Parent says:* Your covering is skin and hair. Which animals have a covering made of the same material as your nails?  
-  *Child mode:* Which animals are covered in the same material as your nails?
+  *Parent does:* Say that nails and feathers are made of the same material. Ask which other animals might have it.  
+  *Parent says:* Your nails and a bird's feathers are made of the same tough material. Which other animals do you think have it?  
+  *Child mode:* Think of other animals that have the same material as your nails.
   - Check: Your nails and a crow's feathers are made of the same material. What is it called? → **Keratin**
 ### a3 · Move Like Them (10 min)
-- **record:** Draw the animal you liked being best, and how they move.
+- **record:** Show the family the animal you liked being best, and tell them how that animal moves.
 - **s1 (6 min)**  
   *Parent does:* Call out each animal. Your child moves like them for 30 seconds: a sparrow (hops with both feet), a pigeon (walks one foot at a time), a cow (walks on hands and feet), a fish (arms by the sides, wiggling), a snake (slides on the tummy), a crow (flaps, then walks).  
   *Parent says:* Be a sparrow! Sparrows hop with both feet together. Now be a pigeon. Pigeons walk one foot at a time.  
-  *Child mode:* Be a sparrow. Hop! Now be a pigeon. Walk!
+  *Child mode:* Move like each animal your grown-up calls out.
   - Note: Sparrows mostly hop. Pigeons walk. Crows both walk and hop. Watch the birds at the window and check.
 - **s2 (4 min)**  
   *Parent does:* Take turns: one person moves like an animal, and the others guess.  
@@ -389,11 +389,11 @@ That night the tube light went on, and the moths came, and so did Chikki.
   - Ask: How did you know I was a snake? (good: Because you had no legs and slid along.; Because you moved your whole body.)
   - Check: Which animal moves with no legs? → **A snake**
 ### a4 · Pet, Farm or Wild? (15 min)
-- **record:** Draw the three circles and the animals in each.
+- **record:** Take a photo of the three plates with the papers sorted onto them.
 - **s1 (5 min)**  
-  *Parent does:* Help your child draw 12 animals they have seen, one on each paper. Include a street dog, a pigeon, a crow, a cow, a gecko and a cat.  
-  *Parent says:* Draw animals you have seen near home. One on each paper.  
-  *Child mode:* Draw 12 animals you have seen.
+  *Parent does:* Help your child write the names of 12 animals they have seen, one on each paper. Include a street dog, a pigeon, a crow, a cow, a gecko and a cat.  
+  *Parent says:* Tell me animals you have seen near home. We will write one name on each paper.  
+  *Child mode:* Write the name of an animal you have seen on each paper.
 - **s2 (6 min)**  
   *Parent does:* Label the plates Pet, Farm and Wild. Your child sorts each drawing and says why.  
   *Parent says:* Where does the crow go? Why?  
@@ -402,12 +402,12 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - **s3 (4 min)**  
   *Parent does:* Talk about the tricky ones: a street dog, a cow walking on the road, a parrot in a cage.  
   *Parent says:* A street dog is fed by the whole lane. Is she a pet, or wild? What do you think?  
-  *Child mode:* Is a street dog a pet or wild? Why?
+  *Child mode:* Decide where the street dog goes. Give a reason.
   - Note: There is no single right answer for a street dog. Some people call her a community dog. The important thing is the reason your child gives.
   - Check: A crow lives on the water tank of your building. What kind of animal is the crow? → **A wild animal**
 ### a5 · Feather and Water (if you find a feather) (10 min)
 - **safety:** Hold the feather by the end and wash your hands after.
-- **record:** Draw the feather and the paper, with the water drops.
+- **record:** Take a photo of the feather and the paper with the water drops on them.
 - **s1 (3 min)**  
   *Parent does:* Lay the feather and the paper side by side on a plate. Ask your child to guess.  
   *Parent says:* We will drip water on both. What will happen to the drops? Why?  
@@ -418,12 +418,12 @@ That night the tube light went on, and the moths came, and so did Chikki.
   *Child mode:* Drip the water. Watch the drops.
   - Note: On most feathers, the drops stay round and roll off. On the paper they soak in. Feathers hook together tightly, and birds spread oil on them from a spot near the tail. Wet feathers would be heavy and cold, so a bird whose feathers shed water stays light enough to fly and stays warm in the rain. If the drops soak into the feather, the feather may be dirty, or may be a soft, fluffy one. Try a bigger, smooth feather, such as a pigeon's wing feather.
 - **s3 (3 min)**  
-  *Parent does:* Talk about what the water did on the feather and on the paper.  
-  *Parent says:* Why does a crow need feathers that keep water off?  
-  *Child mode:* Why does a crow need dry feathers?
+  *Parent does:* Ask what the water did on the feather, and what it did on the paper.  
+  *Parent says:* What did the water do on the feather? What did it do on the paper?  
+  *Child mode:* Say what the water did on each one.
   - Check: The water rolled off the feather but soaked into the paper. Why is this useful for a bird? → **It keeps the bird dry and light in the rain**
 ### a6 · Fish Tank Watch (if you can visit one) (15 min)
-- **record:** Draw one fish with all their fins. Draw an arrow on the fin that moves the most.
+- **record:** Tell your grown-up which fin moved the most. You can also draw the fish and put an arrow on that fin.
 - **s1 (5 min)**  
   *Parent does:* Choose one fish. Count their fins together.  
   *Parent says:* Let's count this fish's fins. One on the back, one on the tail, two on the sides...  
@@ -436,26 +436,26 @@ That night the tube light went on, and the moths came, and so did Chikki.
 - **s3 (3 min)**  
   *Parent does:* Talk about which fins moved when the fish swam, turned and stopped.  
   *Parent says:* What did the side fins do when the fish stopped?  
-  *Child mode:* What did the side fins do?
+  *Child mode:* Tell your grown-up what the fins did.
   - Check: Which fin pushes most fish forward? → **The tail fin**
 
 ## Projects
 ### p1 · My Animal Comparison Book (30 min, 3 days)
 - **record:** The finished book, with three pages filled in.
-- **schedule:** day 1: Make the book. Draw an animal you saw today. Fill in the covering, legs and wings or fins. (10 min); day 2: Draw a second animal, very different from the first. Fill in the same things. (10 min); day 3: Draw yourself on the last page. Compare all three: what is the same, what is different? (10 min)
+- **schedule:** day 1: Make the book. Draw an animal you saw today. Fill in the covering, legs and wings or fins. (10 min); day 2: Write about a second animal, very different from the first. Fill in the same things. (10 min); day 3: Write about yourself on the last page. Compare all three: what is the same, what is different? (10 min)
 - **s1 (10 min)**  
   *Parent does:* 1. Fold and staple the paper into a book. 2. On page one, your child draws an animal they saw today. 3. Under it, write: covering, number of legs, wings or fins, pet or farm or wild.  
-  *Parent says:* Which animal did you see today? Draw them. Now, what covers their body?  
-  *Child mode:* Draw an animal you saw. Fill in each line.
+  *Parent says:* Which animal did you see today? Draw them, or write their name. Now, what covers their body?  
+  *Child mode:* Draw an animal you saw, or write the name. Fill in each line.
 - **s2 (10 min)**  
-  *Parent does:* On day two, your child draws a second animal, very different from the first.  
+  *Parent does:* On day two, your child writes the name of a second animal, very different from the first. Then they fill in the same lines.  
   *Parent says:* Find an animal that is very different from the first one. How are they different?  
-  *Child mode:* Draw a very different animal. What is different?
+  *Child mode:* Write the name of a very different animal. Fill in the lines.
   - Wait: Day 2
 - **s3 (10 min)**  
-  *Parent does:* On day three, your child draws themselves on the last page and fills in the same lines.  
-  *Parent says:* Now draw yourself. What is your covering? How many legs? Do you have wings or fins?  
-  *Child mode:* Draw yourself. Fill in your lines too!
+  *Parent does:* On day three, your child writes their own name on the last page and fills in the same lines.  
+  *Parent says:* Now it is your turn. What is your covering? How many legs? Do you have wings or fins?  
+  *Child mode:* Write your name. Fill in your lines too!
   - Ask: Which animal in your book is most like you? (good: The dog, because we both have hair and are mammals.; The crow, because we both have two legs.)
   - Check: Which of these is true about you? → **You have hair and two legs**
   - Wait: Day 3
@@ -478,8 +478,8 @@ That night the tube light went on, and the moths came, and so did Chikki.
   - Note: Wide flat feet, long toes, or a tail touching the ground all work. Let your child find one. Help only if they are stuck after a few tries.
 - **s3 (5 min)**  
   *Parent does:* Test the best design for a count of ten. Talk about why it works.  
-  *Parent says:* Count to ten. Did it stand? Why does your design work?  
-  *Child mode:* Count to ten. Why does it stand?
+  *Parent says:* Let go and count to ten. Did it stand?  
+  *Child mode:* Let go. Count to ten out loud.
   - Ask: Why did your design stand? (good: The big feet give it more floor to stand on.; The tail is like a third leg.)
   - Check: Which change helps a two-legged body stand without help? → **Wide feet with long toes**
 

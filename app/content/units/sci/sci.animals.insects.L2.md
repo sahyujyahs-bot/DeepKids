@@ -214,13 +214,13 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns to turn over a card and read the name. 2. Everyone races to the right mat. 3. Read the back aloud.  
   *Parent says:* Scorpion! Six, eight, none or lots? Quick!  
-  *Child mode:* Turn over a card. Slap the right mat. Read the back.
-  - Ask: A butterfly seems to stand on four legs. Which mat does she go on? (good: Six legs, because she keeps two folded up.; Six, because a butterfly is an insect.)
+  *Child mode:* Turn over a card. Put a hand on the right mat. Read the back.
+  - Ask: A butterfly folds two legs up, so she looks like she has four. Which mat does she go on? (good: Six legs, because she keeps two folded up.; Six, because a butterfly is an insect.)
   - Note: The tricky cards are the butterfly, the scorpion and the centipede. Let the children argue, then read the back.
 - **s3 (2 min)**  
   *Parent does:* Count the cards on each mat together.  
-  *Parent says:* Which mat has the most cards? That is because there are more kinds of insects than of any other animal group.  
-  *Child mode:* Which mat has the most cards?
+  *Parent says:* Which mat has the most cards? Why do you think so many are on that mat?  
+  *Child mode:* Count the cards on each mat.
   - Note: There are more kinds of insects than of any other animal group. Scientists have named about a million kinds.
 ### g2 · Bee Dance: find the hidden flower (15 min)
 - **rules:** The other players close their eyes. The first dancer takes a hiding card and hides the paper flower in that place.; The dancer stands in the middle of the room. No talking!; The dancer waggles their body from side to side while walking towards the flower, then walks back to the middle. They do this three times.; A short waggle walk of two or three steps means the flower is near. A long waggle walk of many steps means the flower is far.; The other players follow the dance and search. The first to find the flower is the next dancer.; Play until everyone has been the dancer once. With two players, the finder always becomes the dancer, so you take turns.
@@ -228,17 +228,17 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - **Printable tokens: 1 paper flower to cut out and colour:** Flower
 - **s1 (3 min)**  
   *Parent does:* Tell the children how real honeybees dance.  
-  *Parent says:* A bee who finds flowers flies home and dances on the honeycomb. She waggles as she walks. The direction tells her sisters which way to go. A longer waggle means the flowers are further away.  
+  *Parent says:* A bee who finds flowers flies home and dances on the honeycomb. She waggles as she walks, which means she wiggles her body from side to side. The direction she walks tells her sisters which way to go. A longer waggle walk means the flowers are further away.  
   *Child mode:* Bees dance to show the way to flowers. A long waggle means far away.
 - **s2 (10 min)**  
   *Parent does:* Play several rounds. Each time, the dancer hides the flower and dances, without talking.  
   *Parent says:* No words! Only the dance. Which way is the dancer pointing? Is the waggle walk long or short?  
   *Child mode:* Watch the dance. Which way? Near or far? Go and find the flower!
-  - Note: Real bees dance on the honeycomb in the dark hive. The direction of the waggle walk shows which way to fly, and the length shows how far. In the game, the dancer simply walks towards the flower.
+  - Note: Real bees dance on the honeycomb in the dark hive. The direction of the waggle walk shows which way to fly, and the length shows how far. In the game, the dancer waggles while walking towards the flower. A short walk means near, and a long walk means far.
 - **s3 (2 min)**  
   *Parent does:* Talk about what the game shows.  
   *Parent says:* Was it easy to find the flower from a dance? What did the waggle show you: the way, how far, or both?  
-  *Child mode:* Was the dance easy to follow? What did the waggle show you?
+  *Child mode:* Tell your grown-up what the dance showed you.
 
 ## Experiments
 ### e1 · The Crumb Test: how big a crumb can an ant carry? (40 min)
@@ -250,7 +250,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - **results table:** Crumb size | Crumbs at the start | Left after 10 minutes | Left after 20 minutes | How the ants moved them: one ant, a team, or bit by bit
 - **s1 (4 min)**  
   *Parent does:* 1. Find a line of ants in the kitchen, on the balcony or by a window. 2. Look at the ants with the magnifying glass. 3. Count the legs on one ant.  
-  *Parent says:* Let's find some ants. Look at one through the glass. How many legs does she have? How big is her head?  
+  *Parent says:* Let's find some ants. Look at one through the glass. How many legs does she have?  
   *Child mode:* Find a line of ants. Look at one through the glass. Count her legs.
   - Note: If you cannot find ants, put a pinch of sugar on a plate on the kitchen platform. Look again after an hour. In most Indian homes, ants come within a few hours. If none come, try again the next day.
 - **s2 (5 min)**  
@@ -260,8 +260,8 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
   - Note: The sizes do not need to be exact. What matters is four clearly different sizes, with the smallest about as small as a sugar grain.
 - **s3 (3 min)**  
   *Parent does:* Ask your child which crumbs the ants will carry away, and why. Write the guess down.  
-  *Parent says:* The ants will find these crumbs soon. Which sizes do you think they will carry away? Why do you think so?  
-  *Child mode:* Guess. Which crumbs will the ants carry away? Why?
+  *Parent says:* The ants will find these crumbs soon. Which sizes do you think they will carry away?  
+  *Child mode:* Guess which crumbs the ants will carry away.
   - Ask: Why do you think so? (good: Only the tiny ones, because ants are tiny.; The rice ones too, because I saw an ant carry a big crumb.; None of the big ones, because they are heavier than an ant.)
   - Note: Any guess is fine, as long as there is a reason. Do not tell your child what will happen.
 - **s4 (3 min)**  
@@ -282,7 +282,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - **s7 (2 min)**  
   *Parent does:* Ask your child which crumbs the ants carried away, which ones stayed, and why.  
   *Parent says:* Which crumbs did the ants carry? Was your guess right? Did any ant carry a crumb bigger than her own head?  
-  *Child mode:* Which crumbs went? Did an ant carry a crumb bigger than her head?
+  *Child mode:* Look at your counts. Which sizes went, and which stayed?
   - Ask: Why did the big crumbs stay? (good: They were too heavy for the ants.; The ants ate them in little bits instead.)
   - Note: A strong answer uses the numbers: 'All 5 tiny crumbs went, 2 rice crumbs went, and no big pieces moved.' Different ants give different results, and that is fine. Now read the card 'Small bodies are strong for their size'.
 ### e2 · Damp or Dry: where does an earthworm go? (if you can get earthworms) (20 min)
@@ -290,7 +290,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - **predict:** Guess first. Will the worms go to the damp side, the dry side, or stay in the middle? Why do you think so?
 - **fair test:** Both sides are the same paper and the same size. Both are covered, so both are equally dark. Only one thing is different: one side is damp. We use 3 or more worms, because one worm could go either way by chance.
 - **safety:** Wash your hands with soap after touching soil and worms. Handle the worms gently, with wet hands or a leaf, and put them back in the soil afterwards.
-- **record:** Draw the tray, the damp side and the dry side, and where each worm was after 10 minutes.
+- **record:** Draw the tray with the damp side, the dry side and where each worm was after 10 minutes. Or take a photo, or tell your grown-up what you saw.
 - **results table:** Worm | Where at the start | Where after 10 minutes
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Put two paper towels side by side on the tray. 2. Sprinkle water on one, until it is damp but not dripping. 3. Leave the other dry.  
@@ -300,12 +300,12 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess where the worms will go, and why.  
   *Parent says:* Where do you think the worms will go? Why do you think so?  
-  *Child mode:* Guess. Damp side or dry side? Why?
+  *Child mode:* Guess which side the worms will go to.
   - Ask: Why do you think so? (good: The damp side, because worms live in wet soil.; The dry side, because worms come out when it rains.)
 - **s3 (12 min)**  
   *Parent does:* 1. Lay the worms gently along the middle, where the two paper towels meet. 2. Cover the tray. 3. Wait 10 minutes. 4. Lift the cover and see where each worm is.  
   *Parent says:* Let's cover them, so it is dark on both sides. In ten minutes we will look.  
-  *Child mode:* Cover the tray. Wait ten minutes. Then look.
+  *Child mode:* Cover the tray and wait ten minutes. Then see which side each worm is on.
   - Note: Most worms usually move to the damp side. An earthworm breathes through the skin, and the skin must stay damp to do that. If the worms stay in the middle or go to the dry side, write that down too. Worms sometimes do not move much.
   - Check: Why do earthworms choose damp places? → **They breathe through their skin, and the skin must stay damp**
 - **s4 (2 min)**  
@@ -320,12 +320,12 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* Tell your child where small creatures often hide: ceiling corners, near lights, window frames, the kitchen platform, under the sink.  
   *Parent says:* Small creatures live in every home. Let's find as many as we can in ten minutes. Where should we look first?  
-  *Child mode:* Small creatures live in every home. Where will you look first?
+  *Child mode:* Choose the first place you will look.
   - Note: Ants and spiders are found in almost every home. You may also find a mosquito, a housefly, a moth near a light, a silverfish behind books, or a cockroach.
 - **s2 (10 min)**  
-  *Parent does:* Hunt together. For each creature, count the legs from a safe distance with the glass or the phone zoom. Write or draw each one.  
+  *Parent does:* Hunt together. For each creature, count the legs from a safe distance with the glass or the phone zoom. Write down a short name for each one.  
   *Parent says:* Found one! Let's count the legs without touching. How many on each side?  
-  *Child mode:* Count the legs. How many on each side? Write it down.
+  *Child mode:* Count the legs, and write the number next to the creature.
   - Ask: Is it easier to count one side at a time? (good: Yes. Three on one side and three on the other make six.; Yes, I counted four and four, so eight.)
   - Note: Moving legs are hard to count. A phone photo, zoomed in, makes it much easier.
 - **s3 (3 min)**  
@@ -334,7 +334,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
   *Child mode:* Sort your list. Six legs, eight legs, or other?
 ### a2 · Build an Insect and a Spider from Dough (20 min)
 - **safety:** A grown-up breaks the sticks, because the ends can be sharp. If you use matchsticks, break off the heads first.
-- **record:** Draw your two models, and label the legs and body parts.
+- **record:** Take a photo of your two models. Then point to the head, the legs and the other body parts, and say their names to your grown-up.
 - **s1 (8 min)**  
   *Parent does:* 1. Roll three small balls of dough for the ant: a head, a middle and a bigger back part. 2. Press them together in a row. 3. Push three legs into each side of the middle ball. 4. Push two antennae into the head.  
   *Parent says:* An ant has three body parts. All six legs go into the middle part. Where do the antennae go?  
@@ -347,20 +347,20 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - **s3 (4 min)**  
   *Parent does:* Put the two models side by side and compare.  
   *Parent says:* Look at the ant and the spider. What is different? What is the same?  
-  *Child mode:* Look at both. What is different? What is the same?
+  *Child mode:* Look closely at both models, one part at a time.
   - Ask: What is different? (good: The ant has six legs and the spider has eight.; The ant has three parts and the spider has two.; Only the ant has antennae.)
   - Check: On an insect, where do all six legs join the body? → **The middle part, the thorax**
 ### a3 · If I Were an Ant: draw a load my size (15 min)
 - **problem:** An ant can carry a crumb bigger than her own head. A person cannot carry a load as heavy as their own body. The reason is size. When a body gets bigger, its weight grows faster than the strength of its muscles. So a very small body is light for its muscles, and a big body is heavy for its muscles. In this activity you see how big the ant's load is, compared with a body your size.
-- **record:** A photo or a small drawing of your outline and your giant crumb.
+- **record:** A photo of you next to your outline and your giant crumb.
 - **s1 (5 min)**  
   *Parent does:* 1. Tape the newspapers together on the floor. 2. Your child lies on them. 3. Draw round your child's body.  
   *Parent says:* Lie still. I am drawing round you, so we can see how big you are.  
   *Child mode:* Lie still on the paper. Your grown-up draws round you.
 - **s2 (4 min)**  
-  *Parent does:* Draw a crumb next to your child's outline, bigger than their head. Say that an ant can carry a crumb bigger than her own head.  
+  *Parent does:* Scrunch two sheets of newspaper into a ball bigger than your child's head. Put it next to the outline. Say that an ant can carry a crumb bigger than her own head.  
   *Parent says:* An ant can carry a crumb bigger than her own head. Here is a crumb bigger than your head.  
-  *Child mode:* Draw a crumb bigger than your head. That is your ant crumb.
+  *Child mode:* Scrunch newspaper into a ball bigger than your head. That is your ant crumb.
 - **s3 (6 min)**  
   *Parent does:* Talk about carrying a load as heavy as your child.  
   *Parent says:* A big sack of rice weighs about as much as you. An ant can carry a load heavier than herself. Could you pick up a sack as heavy as you and run home with it?  
@@ -369,14 +369,14 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
   - Note: A 25 kg rice sack weighs about as much as a child in Class 2. Many ants can carry more than their own weight. This is the idea on the card 'Small bodies are strong for their size'.
   - Think: Is the ant strong, or is the ant small? Or both?
 ### a4 · Butterfly Watch (if a butterfly visits your balcony or a park nearby) (15 min)
-- **record:** A drawing of the butterfly, showing her legs, antennae and tongue.
+- **record:** A photo of the butterfly. Or tell your grown-up what you saw of her legs, antennae and tongue.
 - **s1 (8 min)**  
   *Parent does:* Sit about two big steps from the flowers, in the late morning when butterflies are busy. Keep still and quiet.  
   *Parent says:* Butterflies fly away from quick moves. Let's sit like statues and wait.  
   *Child mode:* Sit very still near the flowers. Wait for a butterfly.
   - Note: Butterflies like sunny, warm places with flowers such as ixora, lantana or nithyakalyani. If none comes in 10 minutes, try another day, or visit a park.
 - **s2 (7 min)**  
-  *Parent does:* When a butterfly lands, count her legs, look for her long tongue and look at her antennae. Take a photo if you can.  
+  *Parent does:* When a butterfly lands, count her legs and look for her long tongue. Look at her antennae, the two thin feelers on her head. Take a photo if you can.  
   *Parent says:* How many legs can you see holding on? Look near her head too. Can you see her tongue going into the flower?  
   *Child mode:* Count her legs. Look near her head. Find her long tongue.
   - Note: Many butterflies, like the plain tiger and the common crow, hold their two small front legs folded up. They seem to have four legs. A photo zoomed in shows all six.
@@ -386,9 +386,9 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - **record:** The five-day diary, with a final tally of insects, spiders and others.
 - **schedule:** day 1: Choose the place. Watch for 5 minutes. Draw each creature you see, count the legs and make a tally mark for each. (5 min); day 2: Watch the same place at the same time. Add any new creatures. (5 min); day 3: Watch again. Which creature has the most tally marks so far? (5 min); day 4: Watch again. Did the weather change what you saw? (5 min); day 5: Watch for the last time. Then count up: how many insects, how many spiders, how many others? (5 min)
 - **s1 (5 min)**  
-  *Parent does:* Choose the place with your child. Watch for 5 minutes. Your child draws each creature, counts the legs and makes a tally mark for each one.  
-  *Parent says:* This is our watching place for five days. Let's see who visits. Draw each one and count their legs.  
-  *Child mode:* This is your watching place. Draw who you see. Count their legs.
+  *Parent does:* Choose the place with your child. Watch for 5 minutes. Your child counts the legs of each creature. For each one, write its name and make a tally mark, a small line, beside it. A phone photo is fine too.  
+  *Parent says:* This is our watching place for five days. Let's see who visits. Count their legs, and we will make a tally mark for each one.  
+  *Child mode:* This is your watching place. Count the legs of each creature you see.
 - **s2 (15 min)**  
   *Parent does:* On days 2, 3 and 4, watch the same place at about the same time, for 5 minutes. Add tally marks. On day 4, also look at the weather and write whether it changed who came.  
   *Parent says:* Same place, same time. Who is here today? Is anyone new?  
@@ -398,7 +398,7 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - **s3 (5 min)**  
   *Parent does:* On day 5, watch for 5 minutes, then count up all the tally marks.  
   *Parent says:* Let's count. How many insects did you see? How many spiders? Which creature came every day?  
-  *Child mode:* Count your marks. Who came most often?
+  *Child mode:* Count the tally marks for each kind of creature.
   - Ask: Which creature did you see most often? Why might that be? (good: Ants, because they live in the wall nearby.; Mosquitoes, because they come in the evening.)
 
 ## Challenges
@@ -411,14 +411,14 @@ Meenakshi looked at the biscuit tin. 'I don't know,' she said. 'But I can find o
 - **s1 (3 min)**  
   *Parent does:* Read the challenge together. Look at a real web in a corner if there is one, or at the picture.  
   *Parent says:* A spider's web catches flying insects. Can you build a web that catches paper flies?  
-  *Child mode:* Build a web. Can it catch paper flies?
+  *Child mode:* Look at a real web, or the picture. Where are the threads?
 - **s2 (12 min)**  
-  *Parent does:* Your child builds a web on the hanger. Help with knots if needed.  
+  *Parent does:* Your child ties threads across the hanger. Help with knots if needed. Wrap short strips of cello tape round some threads, sticky side out, so the paper flies can stick.  
   *Parent says:* Where will you tie the threads? How close together should they be?  
-  *Child mode:* Tie threads across the hanger. Make your web.
+  *Child mode:* Tie threads across the hanger. Add tape, sticky side out, so it catches.
   - Note: Let your child try their own idea first, even if the gaps are big. The test will show what works.
 - **s3 (10 min)**  
-  *Parent does:* 1. Hang the web from a door handle. 2. Make 10 paper balls. 3. Throw them gently from three big steps away. 4. Count the catches. 5. Change one thing and test again.  
+  *Parent does:* 1. Hang the web from a door handle. 2. Make 10 small paper balls, each the size of a grape. 3. Throw them gently from three big steps away. 4. Count the catches. 5. Change one thing and test again.  
   *Parent says:* Let's test it. How many flies did your web catch? What could you change to catch more?  
   *Child mode:* Throw 10 flies. Count the catches. Change one thing. Try again.
   - Ask: What made your web catch more? (good: Putting the threads closer together.; Wrapping more sticky tape round the threads.)

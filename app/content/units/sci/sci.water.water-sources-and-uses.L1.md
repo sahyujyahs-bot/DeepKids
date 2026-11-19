@@ -148,22 +148,22 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 
 ## Games
 ### g1 · Water Jobs (15 min)
-- **rules:** Draw the five baskets on a big sheet. Mix the cards and put them face down in a pile.; Take turns. Turn over the top card and read it aloud (or ask the grown-up to). Say what the water is doing.; Put the card on the basket you think is right. Say why.; The grown-up reads the back of the card. The back names the right basket, such as Drinking or Plants. If the basket is right, the card stays there.; If it is wrong, the card goes to the bottom of the pile, to try again later.; With two players, take turns one after the other. With four, go round the circle. Everyone is helping to fill the baskets.; When the pile is finished, count each basket. Every basket should have 3 cards. If one has more or less, check it together.
+- **rules:** Draw the five baskets on a big sheet, or put out five bowls with a job written on each. Mix the cards and put them face down in a pile.; Take turns. Turn over the top card and read it aloud (or ask the grown-up to). Say what the water is doing.; Put the card on the basket you think is right. Say why.; The grown-up reads the back of the card. The back names the right basket, such as Drinking or Plants. If the basket is right, the card stays there.; If it is wrong, the card goes to the bottom of the pile, to try again later.; With two players, take turns one after the other. With four, go round the circle. Everyone is helping to fill the baskets.; When the pile is finished, count each basket. Every basket should have 3 cards. If one has more or less, check it together.
 - **Printable cards: 15 cards to cut out:** A girl drinking from a steel tumbler (back: Drinking); A baby having a bottle of water (back: Drinking); A grandmother drinking from a clay pot (back: Drinking); Rice boiling in a pot (back: Cooking); Urad dal soaking for idli batter (back: Cooking); Dal cooking in a pressure cooker (back: Cooking); Hands being washed under a tap (back: Washing); Plates being washed in the sink (back: Washing); Clothes soaking in a bucket (back: Washing); A child watering a tulsi pot (back: Plants) [picture]; Rain falling on a rice field (back: Plants); A money plant growing in a glass of water (back: Plants) [picture]; A crow drinking from a clay saucer (back: Animals) [picture]; A cow drinking from a trough (back: Animals) [picture]; Fish swimming in a pond (back: Animals) [picture]
 - **Printable board: Five baskets to draw on a big sheet:** A basket with a tumbler drawn on it: Drinking; A basket with a cooking pot: Cooking; A basket with a soap and bubbles: Washing; A basket with a leaf: Plants; A basket with a crow: Animals
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 15 cards. 2. Draw the five baskets on a big sheet. 3. Mix the cards and put them face down.  
+  *Parent does:* 1. Cut out the 15 cards. 2. Draw the five baskets on a big sheet, or write each job on a bowl. 3. Mix the cards and put them face down.  
   *Parent says:* Water does many jobs. These five baskets are five jobs. Can you guess which job each basket is for?  
   *Child mode:* Look at the five baskets. Each one is a job that water does.
 - **s2 (9 min)**  
   *Parent does:* Take turns. Turn over a card, say what the water is doing, and put it in a basket. Then read the back of the card aloud.  
-  *Parent says:* What is the water doing on your card? Which basket does it go in? Why?  
-  *Child mode:* Turn over a card. What is the water doing? Put it in a basket.
+  *Parent says:* Read your card. What is the water doing? Which basket does it go in? Why?  
+  *Child mode:* Put the card in the basket you think is right.
   - Ask: Why does the soaking dal go in the cooking basket? (good: It is for making idli.; The water goes inside the dal to make it soft for cooking.)
 - **s3 (3 min)**  
   *Parent does:* Count the cards in each basket together. There should be 3 in each. Ask which job your family does most.  
   *Parent says:* Which of these jobs does our family do every day?  
-  *Child mode:* Which of these jobs does your family do every day?
+  *Child mode:* Point to the baskets for jobs your family does every day.
   - Check: A girl pours water on a tulsi pot. Which job is that? → **Plants**
 ### g2 · Who Drinks How? A pairs game (15 min)
 - **rules:** Lay all 12 cards face down in rows. The back of every card is blank.; Take turns. Turn over two cards and read them aloud.; If an animal and their way of drinking match, keep the pair and have another turn.; If they do not match, turn them back over. The next player has a go.; When all the pairs are found, count your pairs. The player with the most pairs wins. If you are playing together, count the pairs and cheer.; Then act out each way of drinking together.
@@ -180,7 +180,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 - **s3 (3 min)**  
   *Parent does:* Act out each way of drinking together.  
   *Parent says:* Every one of these animals needs water. Which way of drinking would you like to try?  
-  *Child mode:* Act out each way of drinking.
+  *Child mode:* Pick one way of drinking and try it.
   - Check: How does an elephant drink? → **Fills their trunk and squirts the water into their mouth**
 
 ## Experiments
@@ -188,18 +188,18 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 - **question:** Water and oil are both liquids. Do they both make dry poha soft?
 - **predict:** Guess first. Which poha will be soft after ten minutes: the one in water, the one in oil, or the dry one? Why do you think so?
 - **fair test:** All three katoris get the same poha, from one packet, the same amount, for the same time. The only difference is what we pour on: water, oil, or nothing.
-- **record:** Draw the three katoris. Colour the soft poha one colour and the hard poha another colour.
+- **record:** Fill in the results table with your grown-up. Or draw the three katoris, and colour the soft poha one colour and the hard poha another colour.
 - **results table:** Katori | Before: hard or soft? | After 10 minutes: hard or soft? | Does it squash?
 - **s1 (4 min)**  
   *Parent does:* 1. Put 2 tablespoons of dry poha in each katori. 2. Put a label in front of each: water, oil, nothing. 3. Let your child pick up a dry flake and press it.  
-  *Parent says:* This is dry poha. Pick up one flake. Press it between your fingers. Is it hard or soft?  
-  *Child mode:* Pick up one flake of dry poha. Press it. Is it hard or soft?
+  *Parent says:* This is dry poha. Pick up one flake and press it between your fingers.  
+  *Child mode:* Press a dry flake. Feel it.
   - Ask: What does the dry poha feel like? (good: Hard.; Flat and crunchy.; It snaps.)
   - Note: Thick poha works best, because thin poha goes soft very fast. Any brand is fine.
 - **s2 (3 min)**  
   *Parent does:* Show your child the water and the oil. Ask for a guess and a reason for each katori. Write the guesses down for your child.  
-  *Parent says:* We will pour water on one katori and oil on another. The third gets nothing. After ten minutes, which poha will be soft? Why do you think so?  
-  *Child mode:* Water on one. Oil on one. Nothing on one. Which poha will go soft? Why?
+  *Parent says:* We will pour water on one katori and oil on another. The third gets nothing. We will wait ten minutes.  
+  *Child mode:* Water on one, oil on one, nothing on one. Make a guess.
   - Ask: Which poha will go soft, and why do you think so? (good: The water one, because we soak poha in water at home.; Both the water and the oil, because they are both wet.; None of them, because ten minutes is not long.)
   - Note: Many children guess that oil and water will both soften the poha, because both are wet. Do not say what will happen.
 - **s3 (2 min)**  
@@ -216,21 +216,21 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 - **s5 (4 min)**  
   *Parent does:* 1. Take one flake from each katori and put them on a plate. 2. Your child presses each flake with a finger. 3. Then let your child taste one flake from the water katori and one from the dry katori.  
   *Parent says:* Press each flake. Which one squashes? Which one snaps? Now taste the water poha and the dry poha.  
-  *Child mode:* Press a flake from each katori. Which one squashes? Which one snaps?
-  - Ask: Which poha went soft? (good: The one in water.; Only the water one.)
+  *Child mode:* Press a flake from each katori. Feel the difference.
+  - Ask: How did the water poha and the oil poha feel? (good: The water one squashed. The oil one snapped.; Water was soft. Oil was hard.)
   - Ask: The oil was wet too. Why did that poha stay hard? (good: The oil did not go inside.; The oil only stayed on the outside.)
   - Note: The oil poha can be eaten too: it is only poha and oil. If the oil poha feels a little softer at the edges, that is fine. It is still much harder than the water poha.
   - Check: After ten minutes, which poha was soft? → **The poha in water**
 - **s6 (2 min)**  
   *Parent does:* Ask your child what they think now, what they saw, and why they think it happened. If you have milk, try a fourth katori of poha in milk.  
   *Parent says:* So, what do you think now? What did you see? Why do you think it happened?  
-  *Child mode:* Say what you saw. Say why you think it happened.
+  *Child mode:* Tell your grown-up what you saw and why you think it happened.
   - Note: A good answer is: water gets inside poha and makes it soft, and oil does not. Poha in milk goes soft too, because milk is mostly water.
 ### e2 · The Sticky Plate: does soaking help washing? (15 min)
 - **question:** Dried dal sticks hard to a plate. Does soaking it in a little water for a few minutes make it easier to wipe off?
 - **predict:** Guess first. Which plate will be easier to wipe clean: the dry one, or the one soaked in water? Why do you think so?
 - **fair test:** Both plates get the same dal, dried for the same time. Both are wiped the same way, with a dry cloth, and we count the wipes. The only difference is the water.
-- **record:** Draw the two plates after wiping. Draw any dal that is left.
+- **record:** Fill in the table: how many wipes each plate needed, and whether any dal was left. Or take a photo of the two plates.
 - **results table:** Plate | How many wipes to clean? | Any dal left?
 - **s1 (3 min)**  
   *Parent does:* 1. Smear one teaspoon of thick cooked dal on each plate. 2. Spread it into a thin patch. 3. Leave both plates under a fan or in a sunny spot.  
@@ -240,8 +240,8 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   - Wait: Leave the plates under the fan for one or two hours.
 - **s2 (2 min)**  
   *Parent does:* Pour a little water on one plate, just enough to cover the dal. Ask your child to guess which plate will be easier to clean, and to say why.  
-  *Parent says:* One plate gets water. The other stays dry. Which plate will be easier to clean? Why do you think so?  
-  *Child mode:* Pour water on one plate. Which plate will be easier to clean? Why?
+  *Parent says:* One plate gets water. The other stays dry.  
+  *Child mode:* Pour water on one plate. Then make a guess.
   - Ask: Which plate will be easier to clean, and why do you think so? (good: The water one, because the water makes the dal soft.; The dry one, because there is no mess.)
 - **s3 (5 min)**  
   *Parent does:* 1. While the wet plate waits, wipe the dry plate with one dry cloth. Count the wipes, up to 10. 2. After five minutes, wipe the wet plate with the other dry cloth, the same way, and count.  
@@ -251,32 +251,32 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   - Note: The dry plate usually still has dal stuck on after 10 wipes. The soaked dal goes soft and comes off in a few wipes.
 - **s4 (5 min)**  
   *Parent does:* Put the two plates side by side. Ask your child what the water did to the dal.  
-  *Parent says:* What did the water do to the dried dal? In the Poha Test, water went inside the poha and made it soft. Did the same thing happen to the dal?  
-  *Child mode:* What did the water do to the dal? Was it like the poha in the Poha Test?
+  *Parent says:* What did the water do to the dried dal? In the Poha Test, when we poured water on poha, the water went inside and made it soft. Did the same thing happen to the dal?  
+  *Child mode:* Look at the two plates. What did the water do to the dal?
   - Check: Why did the soaked dal come off more easily? → **The water went inside the dal and made it soft**
   - Think: Why do we put dirty plates in water if we cannot wash them straight away?
 
 ## Activities
 ### a1 · Water Hunt at Home (10 min)
-- **record:** Draw the place where your family uses the most water.
+- **record:** Tell your grown-up which place uses the most water, and why. Or draw that place.
 - **s1 (6 min)**  
   *Parent does:* Walk round the home together. Visit the kitchen, the bathroom, the balcony and any water filter or tank. At each place, ask what the water is used for.  
   *Parent says:* Let's find every place where we use water. What job does the water do here?  
-  *Child mode:* Find every place in your home where water is used. What job does it do there?
+  *Child mode:* Find every place in your home where water is used.
   - Ask: What is the water for, here in the kitchen? (good: Drinking.; Cooking rice.; Washing plates.)
   - Note: Look for the water filter or the drinking pot, the kitchen tap, the bathroom tap and bucket, the washing machine or washing stone, plant pots and a pet bowl.
 - **s2 (4 min)**  
   *Parent does:* After the walk, ask your child which place uses the most water. Then ask where the water comes from before it reaches the tap.  
   *Parent says:* Which place do you think uses the most water? And where does the water come from before the tap?  
-  *Child mode:* Which place uses the most water? Where does the water come from before the tap?
+  *Child mode:* Which place do you think uses the most water?
   - Ask: Where does our tap water come from? (good: A tank on the roof.; Pipes.; A well or a lake.; The rain.)
   - Note: Most homes get water from a tank, a well, a borewell or a city pipe. All of these are filled by rain in the end. Most families use the most water for baths, washing clothes and plates, and flushing the toilet. A person drinks only a few tumblers a day.
 ### a2 · How Do Animals Drink? Act it out (10 min)
-- **record:** Draw your favourite drinking animal.
+- **record:** Show your grown-up how your favourite animal drinks. Or draw it.
 - **s1 (6 min)**  
   *Parent does:* Read out each animal one at a time. Your child acts it out. 1. A cat laps with the tongue, very fast. 2. A crow dips the beak, then lifts the head to swallow. 3. A pigeon keeps the beak in the water and sucks, like a straw. 4. An elephant fills the trunk, then squirts the water into the mouth. 5. A frog sits in water and drinks through the skin.  
-  *Parent says:* A cat drinks with her tongue. Show me. Now a crow: dip, lift, swallow. Now a pigeon: suck through a straw. Now an elephant!  
-  *Child mode:* Drink like a cat. Now a crow: dip, lift, swallow. Now a pigeon, with a straw.
+  *Parent says:* A cat drinks with her tongue. Show me. Now a crow: dip, lift, swallow. Now a pigeon: suck through a straw. Now an elephant! Last, a frog, who drinks through the skin.  
+  *Child mode:* Drink like each animal your grown-up reads out.
   - Note: Let your child really sip through the straw for the pigeon. For the frog, they can sit still and pretend to soak.
 - **s2 (4 min)**  
   *Parent does:* Ask your child which animal they liked best. Ask how your child drinks.  
@@ -284,7 +284,7 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
   *Child mode:* How do you drink? Which animal is most like you?
   - Check: How does a frog drink? → **Through their skin**
 ### a3 · My Water Tally (10 min)
-- **record:** Count your marks at bedtime. Draw that many tumblers.
+- **record:** Count your marks at bedtime. Line up that many real tumblers, or tell your grown-up the number.
 - **s1 (3 min)**  
   *Parent does:* In the morning, stick up the sheet and tie on the crayon. Show your child how to make one line for each tumbler.  
   *Parent says:* Every time you drink a tumbler of water today, make one line here. Let's count tonight.  
@@ -292,24 +292,24 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 - **s2 (7 min)**  
   *Parent does:* At bedtime, count the lines together. Ask when your child felt most thirsty.  
   *Parent says:* How many lines did you make? When did you feel most thirsty today? Why do you think that was?  
-  *Child mode:* Count your lines. When were you most thirsty?
+  *Child mode:* Count your lines.
   - Ask: When were you most thirsty? (good: After playing.; When it was hot.; After eating something salty.)
   - Note: We drink more on hot days. Some water also comes from food, milk and buttermilk.
 
 ## Projects
 ### p1 · A Water Bowl for Birds (25 min, 5 days)
 - **safety:** Pour out the old water and put in fresh water every day, so mosquitoes cannot breed in it. A child should not lean out of a window or over a balcony rail: a grown-up places the saucer.
-- **record:** Keep a bird diary: each day, draw who came to the bowl, or draw an empty bowl.
-- **schedule:** day 1: A grown-up places the saucer on a safe ledge. Fill it with water. Watch for 5 minutes. (8 min); day 2: Pour out the old water. Fill the saucer with fresh water. Watch for a few minutes. (4 min); day 3: Fresh water again. Did any bird or insect come? (4 min); day 4: Fresh water again. Draw any visitor in your diary. (4 min); day 5: Fresh water. Look at your diary. Who came to drink? (5 min)
+- **record:** Keep a bird diary: each day, write who came to the bowl, or write that nobody came. You can draw the bird too, or take a photo.
+- **schedule:** day 1: A grown-up places the saucer on a safe ledge. Fill it with water. Watch for 5 minutes. (8 min); day 2: Pour out the old water. Fill the saucer with fresh water. Watch for a few minutes. (4 min); day 3: Fresh water again. Did any bird or insect come? (4 min); day 4: Fresh water again. Write down or draw any visitor in your diary. (4 min); day 5: Fresh water. Look at your diary. Who came to drink? (5 min)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Choose a ledge or a balcony wall that birds can reach. 2. A grown-up puts the saucer there. 3. Fill it with water. 4. Watch quietly from inside for 5 minutes.  
   *Parent says:* Birds get thirsty too, especially in hot weather. Let's give them a place to drink. Who do you think will come?  
   *Child mode:* A grown-up puts the bowl out. You fill it. Who will come to drink?
   - Note: Birds may take a few days to find a new bowl. A quiet place with a perch nearby works best.
 - **s2 (12 min)**  
-  *Parent does:* Each day, pour out the old water and fill the saucer with fresh water. Watch for a few minutes. Draw any visitor in the diary.  
+  *Parent does:* Each day, pour out the old water and fill the saucer with fresh water. Watch for a few minutes. Write down or draw any visitor in the diary.  
   *Parent says:* Who came today? Did they drink, or have a bath? How did they drink?  
-  *Child mode:* Fill the saucer with fresh water. Watch. Who came? Draw them.
+  *Child mode:* Fill the saucer with fresh water. Watch. Who came? Write it down, or draw them.
   - Ask: If a crow came, how did the crow drink? (good: Dipped the beak and lifted the head.; Took a sip and looked up.)
   - Note: Crows, mynas, pigeons, bulbuls and sparrows often come, and bees and wasps too in hot weather. If nobody comes in 5 days, try a different spot, or keep going: some bowls take a week to be found.
   - Wait: Come back each day for three more days.
@@ -322,22 +322,22 @@ Meenakshi looked out of the window at the dark sky. 'Thank you, rain,' she said.
 ## Challenges
 ### c1 · Water the Plant While We Are Away (20 min)
 - **problem:** A pot plant needs water every day. Make something from home things that keeps the soil damp while nobody is home for two days. Test it for one day.
-- **your turn:** Now invent your own plant waterer. Draw it, make it, and test it for one day. Is the soil still damp?
+- **your turn:** Now invent your own plant waterer. Tell your grown-up your plan, or draw it. Then make it and test it for one day. Is the soil still damp?
 - **constraints:** Use only things from home.; The soil must still be damp after one day.
 - **general:** Fill a plastic bottle with water, poke a small hole in the cap, and push it upside down into the soil, so the water drips out slowly.; Put the pot on a plate with a little water, so the soil drinks from the bottom.
 - **creative:** Put one end of a wet cotton string in a tumbler of water and push the other end into the soil. The water creeps along the string into the pot.; Cover the soil with a layer of dry leaves or paper, so less water dries away.; Put the plant in the shade for two days, so the soil dries more slowly.
 - **s1 (5 min)**  
   *Parent does:* Show your child the pot plant and say the problem. Look at the ideas together.  
-  *Parent says:* We are going away for two days. Who will give our plant water? Can we make something that waters the plant while we are away?  
+  *Parent says:* We are going away for two days. Let's make something that waters the plant while we are gone.  
   *Child mode:* Your family is going away. How can the plant get water while you are gone?
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* 1. Your child picks an idea or invents one. 2. Help build it. If you have a second pot plant, water that plant by hand. Give it no waterer, so you can compare the two. For the string waterer, wet the string first and stand the tumbler higher than the pot.  
+  *Parent does:* 1. Your child picks an idea or invents one. 2. Help build it. If you have a second pot plant, give that plant no water and no waterer, so you can compare the two. For the string waterer, wet the string first and stand the tumbler higher than the pot.  
   *Parent says:* Which idea will you try? Let's make it.  
   *Child mode:* Pick an idea. Make it with a grown-up.
   - Note: A grown-up pokes any holes in bottle caps. The string idea works best with thick cotton string, wetted first, with the tumbler on books so the water is higher than the soil.
 - **s3 (5 min)**  
   *Parent does:* The next day, feel the soil and look at the water level.  
-  *Parent says:* Is the soil still damp? Did the water go down? Where did it go?  
+  *Parent says:* Is the soil still damp? Did the water go down?  
   *Child mode:* Feel the soil. Is it damp? Did the water go down?
   - Ask: Where did the water go? (good: Along the string into the soil.; Into the soil, and the plant drank some.)
   - Wait: Come back tomorrow.

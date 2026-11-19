@@ -279,7 +279,7 @@
      "what": "Guess which sound travels furthest, walk away from each sound until it fades, and mark the spots."
     }
    ],
-   "record": "Draw the hallway as a long box. Draw the grown-up at one end. Draw a chappal for each sound where it faded, with a small picture of the sound next to it: fingers, a bag, a tumbler.",
+   "record": "Leave the three chappals where each sound faded. Take a photo, or tell your grown-up which sound went furthest and how many steps it took. They write the steps in the table.",
    "setup": [
     {
      "art": "A grown-up standing at one end of a hallway in a flat, holding a steel tumbler, a spoon and a plastic bag, and a child standing next to her.",
@@ -304,7 +304,7 @@
      "mins": 3,
      "do": "1. Switch off the fan, the TV and any music. 2. Find the longest straight line in your home. 3. Stand at one end with the bag, the tumbler and the spoon.",
      "say": "We are going to find out how far a sound can travel in our home. First, let's make the house quiet.",
-     "kid": "Help make the house quiet. Switch off the TV and the fan.",
+     "kid": "Help make the house very quiet. Other noises would hide the sounds we want to hear.",
      "parent": "A hallway, or two rooms joined by an open door, works well. Other noises make sounds fade sooner, so a quiet time of day helps."
     },
     {
@@ -312,7 +312,7 @@
      "mins": 3,
      "do": "Make each sound once while your child stands next to you. Rub your thumb and finger together beside your ear. Crinkle the bag. Tap the tumbler gently with the spoon.",
      "say": "Here are our three sounds. Listen to each one. Which will you hear from furthest away? Which will fade first? Why do you think so?",
-     "kid": "Listen to the three sounds. Which will you hear from far away? Why?",
+     "kid": "Listen closely to the three sounds, one after another.",
      "ask": [
       {
        "q": "Which sound do you think will go furthest? Why?",
@@ -364,7 +364,7 @@
      "mins": 4,
      "do": "1. Stand your child at the chappal for the bag. 2. Crinkle the bag gently, then hard. 3. Ask which one they heard.",
      "say": "You are standing where the bag faded. I will crinkle it gently. Now hard. Which one could you hear?",
-     "kid": "Listen. A gentle crinkle. Now a hard one. Which can you hear?",
+     "kid": "Stand where the bag faded. Listen to a gentle crinkle, then a hard one.",
      "ask": [
       {
        "q": "Which crinkle reached you?",
@@ -401,7 +401,7 @@
    "title": "The Paper Cone: can we send a sound one way?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you roll a newspaper into a cone. A grown-up says the same words with and without the cone, and with the cone pointing at you or away from you. You listen from far away.",
+   "context": "In this experiment you roll a newspaper into a cone. A grown-up says the same words with and without the cone, and with the cone pointing at you or away from you. You listen from far away. You will find out if a cone makes a quiet voice easier to hear, and if it matters which way the cone points.",
    "question": "Does a paper cone make a voice easier to hear from far away? Does it matter which way the cone points?",
    "predict": "The grown-up will say the same words three ways: with no cone, with the cone pointing at you, and with the cone pointing at the wall. Which way will be clearest? Why do you think so?",
    "fair_test": "The grown-up stays on the same spot and uses the same quiet voice each time. You stay at the same far spot. The words are different each time, so you cannot guess them.",
@@ -431,7 +431,7 @@
      "what": "Make a paper cone, then listen from far away to a voice with and without it."
     }
    ],
-   "record": "Draw the grown-up speaking three ways: no cone, cone pointing at you, cone pointing at the wall. Draw a smiling ear next to the clearest one.",
+   "record": "Tell your grown-up which way was clearest and why. They write it in the table next to the three ways.",
    "setup": [
     {
      "art": "A grown-up and a boy rolling two sheets of newspaper into a long cone, wide at one end, and sticking it with tape.",
@@ -464,7 +464,7 @@
      "mins": 3,
      "do": "1. Your child stands far away, at the spot where a quiet voice is only just clear. 2. Ask them to guess which way will be clearest, and why.",
      "say": "I will say some words three ways: with no cone, with the cone pointing at you, and with the cone pointing at the wall. Which way will be clearest? Why?",
-     "kid": "Which way will you hear best? Why do you think so?",
+     "kid": "Stand far away, where a quiet voice is only just clear. Think about which way will be clearest.",
      "ask": [
       {
        "q": "Which way do you think will be clearest?",
@@ -496,8 +496,8 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Ask your child what they think now, what they heard, and why they think the cone helped. Write the answers down in their words.",
-     "say": "What do you think now? What did you hear? Why do you think the cone helped?",
+     "do": "Ask your child what they think now, what they heard, and whether the cone helped. Write the answers down in their words.",
+     "say": "What do you think now? What did you hear? Did the cone help? Why do you think so?",
      "kid": "Say what you think. Say what you heard. Say why.",
      "check": {
       "t": "mcq",
@@ -521,7 +521,7 @@
    "title": "All Around the Tumbler",
    "mins": 8,
    "days": 1,
-   "context": "In this activity a grown-up taps a steel tumbler in the middle of a room. You stand in front, behind, at the sides and round the door, and listen. Does the sound reach every spot?",
+   "context": "In this activity a grown-up taps a steel tumbler in the middle of a room. You stand in front, behind, at the sides and round the door, and listen. You will find out which way a sound goes from where it is made.",
    "materials": [
     {
      "item": "a steel tumbler and a spoon",
@@ -539,7 +539,7 @@
      "what": "Listen to a tapped tumbler from in front, behind, the sides and round the door."
     }
    ],
-   "record": "Draw the tumbler in the middle of the page. Draw yourself in every spot where you heard it. Draw sound lines going out from the tumbler to every side.",
+   "record": "Put the tumbler on the floor. Put a chappal in every spot where you heard it. Take a photo, or draw it if you like.",
    "setup": [
     {
      "art": "A grown-up sitting on a stool in the middle of a room, tapping a steel tumbler with a spoon, and a girl standing in front of her with eyes closed.",
@@ -587,9 +587,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask your child what they found. Then ask them to draw it.",
+     "do": "Ask your child what they found.",
      "say": "The tumbler is in one place. But you heard it in front, behind, at the sides and round the door. What does that tell you about the sound?",
-     "kid": "You heard it everywhere. Which way did the sound go?",
+     "kid": "The tumbler stayed in one place. You heard it in every spot.",
      "ask": [
       {
        "q": "Which way does a sound go from the tumbler?",
@@ -627,7 +627,7 @@
      "what": "On a stormy evening, count from each lightning flash to its thunder."
     }
    ],
-   "record": "Draw a line of lightning flashes. Under each one, write or draw the count you got: for example, five dots for a count of five.",
+   "record": "Write the count for each flash in a list. For example: flash 1, count 5.",
    "setup": [
     {
      "art": "A boy and his mother at a closed window at night, a white lightning flash far away over the city.",
@@ -669,7 +669,7 @@
      "mins": 2,
      "do": "Look at the numbers together.",
      "say": "Look at our numbers. Are they getting bigger or smaller? Is the storm coming closer, or going away? Why do you think so?",
-     "kid": "Are the numbers getting bigger or smaller? What does that mean?",
+     "kid": "Look at the numbers you wrote. Are they getting bigger or smaller?",
      "ask": [
       {
        "q": "What does a bigger count mean?",
@@ -688,7 +688,7 @@
    "title": "Be the Air: pass the sound along",
    "mins": 8,
    "days": 1,
-   "context": "In this act-out, the family stands in a line from a steel plate to a paper ear on the wall. Each person passes a gentle tap to the next, the way the air passes a sound along, until it reaches the ear at the end.",
+   "context": "In this act-out, the family stands in a line from a steel plate to a paper ear on the wall. Each person passes a gentle tap to the next, the way the air passes a sound along, until it reaches the ear at the end. You will see how a sound can get across a room without anything travelling the whole way.",
    "problem": "We cannot see a sound move, so this act-out shows how it travels. The steel plate is the sound source, and the people in the line are the air. Each person gently taps the next, the way each bit of air pushes the next bit, until the push reaches the paper ear.",
    "materials": [
     {
@@ -707,7 +707,7 @@
      "what": "Stand in a line and pass a tap from the steel plate to the paper ear, the way air passes a sound along."
     }
    ],
-   "record": "Draw your family in a line, with a steel plate at one end and a big ear at the other. Draw arrows from each person to the next.",
+   "record": "Take a photo of the line, or tell another grown-up what each person did to pass the tap along.",
    "setup": [
     {
      "art": "A girl at one end of a line of three family members, tapping a steel plate, and a big paper ear taped to the wall at the other end.",
@@ -722,9 +722,9 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "Draw a big ear on a sheet of paper and tape it to a wall. Everyone else stands in a line between the steel plate and the ear, facing the ear.",
+     "do": "Write EAR on a sheet of paper and tape it to a wall. Everyone else stands in a line between the steel plate and the ear, facing the ear.",
      "say": "The plate is the sound source. The paper is an ear. We are the air in between.",
-     "kid": "The plate makes the sound. The paper is an ear. We are the air.",
+     "kid": "You are the air. Your job is to pass the tap along.",
      "parent": "With only two people, you tap the plate and your child is the air. They pass the tap on to the paper ear."
     },
     {
@@ -746,9 +746,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Talk about what happened.",
+     "do": "Ask your child the question, then wait for their answer.",
      "say": "Nobody walked to the ear. But the tap got there. How is that like a sound going through the air?",
-     "kid": "Nobody walked. But the tap reached the ear. How?",
+     "kid": "You are the air. What did you do with the tap?",
      "ask": [
       {
        "q": "How does a sound get from the plate to your ear?",
@@ -769,7 +769,7 @@
    "title": "Whisper Walk",
    "mins": 10,
    "players": "2 or more: a whisperer and one or more walkers. A grown-up whispers first.",
-   "context": "This is a listening game. The whisperer stands at one end and whispers a word from a card. The walkers start far away and come one step closer each time, until someone can hear the word.",
+   "context": "This is a listening game. You will find out how close you must be to hear a whisper. The whisperer stands at one end and whispers a word from a card. The walkers start far away and come one step closer each time, until someone can hear the word.",
    "printables": [
     {
      "kind": "cards",
@@ -873,7 +873,7 @@
    "title": "Who Hears It Louder? A card game",
    "mins": 10,
    "players": "1 to 4 players. A grown-up reads the cards and does not play.",
-   "context": "This is a card game about sounds travelling. A grown-up reads a card. The players answer and act out the sound if they can.",
+   "context": "This is a card game about sounds travelling. You will think about who hears a sound, and why. A grown-up reads a card. The players answer and act out the sound if they can.",
    "printables": [
     {
      "kind": "cards",
@@ -955,7 +955,7 @@
      "kid": "Who hears it louder? Why? Let's try!",
      "ask": [
       {
-       "q": "Why does the person far away hear it more softly?",
+       "q": "What happens to the sound on its way to the listener?",
        "good": [
         "The sound spreads out on the way.",
         "Less of it reaches them."
@@ -968,7 +968,7 @@
      "mins": 1,
      "do": "Count the cards each player kept.",
      "say": "Which card was the trickiest? Why?",
-     "kid": "Count your cards. Which was the hardest?"
+     "kid": "Count how many cards you kept."
     }
    ]
   }
@@ -979,7 +979,7 @@
    "title": "Where Can You Hear the Cooker?",
    "mins": 25,
    "days": 2,
-   "context": "In this project you draw a map of your home. Then, when the pressure cooker whistles, you go from room to room and mark how loud the whistle is in each one.",
+   "context": "In this project you draw a map of your home. Then, when the pressure cooker whistles, you go from room to room and mark how loud the whistle is in each one. You will find out which rooms the whistle reaches, and which it does not.",
    "materials": [
     {
      "item": "a big sheet of paper and crayons in 3 colours: red, yellow and blue",
@@ -1024,7 +1024,7 @@
      "mins": 12,
      "do": "Walk round your home with your child. On the paper, draw a box for each room, in roughly the right places. Draw the cooker in the kitchen.",
      "say": "Let's draw our home. Here is the kitchen. What room is next to it? Where is your bedroom?",
-     "kid": "Draw a box for each room. Draw the cooker in the kitchen.",
+     "kid": "Draw a box for each room. Draw the cooker in the kitchen. Or lay a sheet of paper on the floor for each room.",
      "parent": "The map does not need to be neat. A box for each room, joined where the doors are, is enough."
     },
     {
@@ -1051,7 +1051,7 @@
      "mins": 3,
      "do": "Look at the finished map together.",
      "say": "Look at the colours. Where is the red? Where is the blue? Why do you think the whistle was soft in some rooms?",
-     "kid": "Look at the colours. Why was it soft in some rooms?",
+     "kid": "Find the red rooms and the blue rooms on your map.",
      "ask": [
       {
        "q": "Why was the whistle soft in the far rooms?",
@@ -1111,7 +1111,7 @@
      "mins": 2,
      "do": "Read the problem. One person goes to the far room to be the listener. Tap the tumbler at the front door. Did the listener hear it?",
      "say": "You are in the far room. I am the doorbell. Can you hear me? How could we help the sound get to you?",
-     "kid": "The listener can't hear the bell. How can the sound reach the far room?",
+     "kid": "One of you is the listener in the far room. The other is the doorbell.",
      "ask": [
       {
        "q": "Why is the bell hard to hear in the far room?",
@@ -1139,7 +1139,7 @@
      "kid": "Which idea worked best? Why?",
      "ask": [
       {
-       "q": "Why did opening the door help?",
+       "q": "Why did your best idea help the sound reach the far room?",
        "good": [
         "The sound did not have to go round the door.",
         "More of the sound could get into the room."

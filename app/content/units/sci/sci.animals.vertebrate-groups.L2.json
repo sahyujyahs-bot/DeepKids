@@ -372,7 +372,7 @@
    "title": "Bendy Backbone: how many pieces does a backbone need to bend?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you make a pretend backbone from a straw threaded on wool. First the straw is in one piece. Then you cut it into 2, 4 and 8 pieces. Each time you wrap it round a steel tumbler and see how well it bends.",
+   "context": "You will find out why your backbone can bend although bones are hard. You make a pretend backbone from a straw threaded on wool. First the straw is in one piece. Then you cut it into 2, 4 and 8 pieces. Each time you wrap it round a steel tumbler and see how well it bends.",
    "question": "Does a backbone bend better when it is one long piece, or many short pieces?",
    "predict": "Guess first. Which will wrap round the tumbler best: 1 long piece, 2 pieces, 4 pieces or 8 short pieces? Why do you think so?",
    "fair_test": "We use the same straw every time, so the total length stays the same. We use the same wool, the same tumbler and the same gentle pull. Only the number of pieces changes. That way, any difference comes from the number of pieces.",
@@ -380,7 +380,7 @@
     "Number of pieces",
     "How many pieces touch the tumbler",
     "Biggest gap: how many fingers fit?",
-    "Draw the shape"
+    "Shape: straight, bent or round?"
    ],
    "materials": [
     {
@@ -415,7 +415,7 @@
      "what": "Test a straw backbone in 1, 2, 4 and 8 pieces round a tumbler. Count, draw and compare."
     }
    ],
-   "record": "Fill in the results table. Draw the shape each chain made round the tumbler.",
+   "record": "Fill in the results table. Say the shape each chain made round the tumbler, or draw it, or take a photo.",
    "setup": [
     {
      "art": "A paper drinking straw threaded on a long piece of wool, next to a steel tumbler and a pair of children's scissors.",
@@ -439,15 +439,15 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Wrap tape round one end of the wool to make a stiff tip. 2. Push the tip through the straw. 3. Tie a big knot at the other end.",
-     "say": "This straw is our pretend backbone. The wool is like the spinal cord that runs through the middle of your own backbone.",
+     "say": "This straw is our pretend backbone. The wool is like the spinal cord, the thick bundle of nerves that runs through the middle of your own backbone.",
      "kid": "Push the wool through the straw. This is your pretend backbone."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Tell your child the four chains you will test: 1, 2, 4 and 8 pieces. Ask for a guess and a reason. Write the guess down.",
-     "say": "We will cut the straw into more and more pieces. Which one will wrap round the tumbler best? Why do you think so?",
-     "kid": "Guess. Which will wrap round the tumbler best? Why?",
+     "say": "We will cut the straw into more and more pieces. Which one will wrap round the tumbler best?",
+     "kid": "Pick one: 1, 2, 4 or 8 pieces.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -490,8 +490,8 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Look at the results table together. 2. Ask what your child thinks, what they saw, and why.",
-     "say": "Which chain bent best? Was your guess right? Why can a backbone bend?",
-     "kid": "Which chain bent best? Why?",
+     "say": "Which chain bent best? Was your guess right?",
+     "kid": "Look at your results table. Compare it with your guess.",
      "ask": [
       {
        "q": "Why can your back bend, if every bone in it is hard?",
@@ -521,7 +521,7 @@
    "title": "The Clue Test: which clue sorts animals into their groups?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you sort 18 animal cards three times, each time by a different clue: where they live, how they move, and what covers their body. A colour dot on the back of each card shows the animal's true group. You count which clue mixes up the groups least.",
+   "context": "You will find out which clue sorts animals into their true groups best. You sort 18 animal cards three times, each time by a different clue: where they live, how they move, and what covers their body. A colour dot on the back of each card shows the animal's true group. You count which clue mixes up the groups least.",
    "question": "Which clue sorts animals into their true groups best: where they live, how they move, or what covers their body?",
    "predict": "Guess first. Which clue will put the animals with their own group: where they live, how they move, or what covers their body? Why do you think so?",
    "fair_test": "We use the same 18 cards every time. Only the clue changes. We count the colours on each mat the same way every time. Then we add them up. Five colours in all would mean every group stayed together.",
@@ -579,10 +579,10 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Write the 18 names from the list in the grown-up note below, one on each card. 2. Your child adds a tiny picture to each. 3. Out of sight, put a coloured dot on the back of each card.",
-     "say": "Add a tiny picture to each card. I will put a coloured dot on the back, where you cannot see it. The dot shows the animal's true group.",
-     "kid": "Add a tiny picture to each card. Do not look at the backs!",
-     "parent": "The 18 animals: sardine, shark, seahorse, frog, toad, tree frog, house gecko, cobra, crocodile, sea turtle, crow, duck, peacock, bat, river dolphin, cow, pangolin, you. Dots: blue for sardine, shark, seahorse. Green for frog, toad, tree frog. Brown for gecko, cobra, crocodile, turtle. Red for crow, duck, peacock. Yellow for bat, river dolphin, cow, pangolin, you."
+     "do": "1. Write the 18 names from the list in the grown-up note below, one on each card. 2. Out of sight, put a coloured dot on the back of each card.",
+     "say": "I will put a coloured dot on the back of each card, where you cannot see it. The dot shows the animal's true group.",
+     "kid": "Read the animal names on the cards. Do not look at the backs!",
+     "parent": "The 18 animals: sardine, shark, seahorse, frog, toad, tree frog, house gecko, cobra, crocodile, sea turtle, crow, duck, peacock, bat, river dolphin, cow, pangolin, and one card that says Me for your child. Dots: blue for sardine, shark, seahorse. Green for frog, toad, tree frog. Brown for gecko, cobra, crocodile, turtle. Red for crow, duck, peacock. Yellow for bat, river dolphin, cow, pangolin, Me."
     },
     {
      "id": "s2",
@@ -604,8 +604,8 @@
      "id": "s3",
      "mins": 4,
      "do": "1. Lay 3 mats: Water, Land, Air. 2. Your child puts each card where that animal spends most time. 3. Turn the cards over and count the colours on each mat. 4. Add them up.",
-     "say": "First clue: where do they live? Put each animal on Water, Land or Air. Now turn them over. How many colours on each mat?",
-     "kid": "Sort by where they live. Turn the cards over. Count the colours.",
+     "say": "First clue: where do they live? Put each animal on Water, Land or Air. Now turn them over. A mat with only one colour is sorted perfectly. How many colours are on each mat?",
+     "kid": "Sort by where they live. Turn the cards over. On each mat, count the different dot colours.",
      "parent": "There is no wrong place if your child has a reason. Usually the Water mat gets 4 or 5 colours, because the dolphin, turtle, crocodile and duck join the fish. The total is usually about 10 or 11."
     },
     {
@@ -661,7 +661,7 @@
    "title": "Find Your Own Backbone",
    "mins": 5,
    "days": 1,
-   "context": "In this short activity you find your own backbone with your fingers. You feel the bumps of your vertebrae in your neck and down your back.",
+   "context": "You will find out what is under the skin of your back. You find your own backbone with your fingers. You feel the bumps of your vertebrae in your neck and down your back.",
    "materials": [
     {
      "item": "a grown-up or an older child to help",
@@ -675,7 +675,7 @@
      "what": "Feel the bumps on the back of your neck, then down a grown-up's back while they bend forward."
     }
    ],
-   "record": "Draw a person from behind, with a row of dots for the backbone.",
+   "record": "Tell a grown-up how many bumps you felt and where. Or take a photo of the bent back.",
    "setup": [
     {
      "art": "A girl touching the back of her own neck while she nods her head forward.",
@@ -693,13 +693,13 @@
      "do": "Your child puts their fingers on the back of their neck and nods their head forward slowly.",
      "say": "Put your fingers on the back of your neck. Now nod your head down slowly. What do you feel?",
      "kid": "Touch the back of your neck. Nod your head down. Feel the bump?",
-     "parent": "Most people can feel one big bump at the bottom of the neck when they nod. That is a vertebra."
+     "parent": "Most people can feel one big bump at the bottom of the neck when they nod. That is a vertebra, one small bone of the backbone."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "A grown-up or older child bends forward. Your child runs a finger down the middle of their back and counts the bumps they can feel.",
-     "say": "Now feel my back as I bend. Count the bumps you can feel. Are they joined, or separate?",
+     "say": "Now feel my back as I bend. Count the bumps you can feel. Do they feel joined, or separate?",
      "kid": "Feel the grown-up's back as they bend. Count the bumps.",
      "ask": [
       {
@@ -719,7 +719,7 @@
    "title": "Seven Neck Bones: a paper chain giraffe and you",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make two paper chains for two necks: yours and a giraffe's. Both chains have 7 rings, because a giraffe and you both have 7 neck bones.",
+   "context": "You will find out whether a giraffe has more neck bones than you. You make two paper chains for two necks: yours and a giraffe's. Each ring is one neck bone.",
    "materials": [
     {
      "item": "strips of old newspaper or paper, some short and some long",
@@ -730,7 +730,7 @@
      "qty": 1
     },
     {
-     "item": "a crayon to draw a head",
+     "item": "a pen, for two paper labels",
      "qty": 1
     }
    ],
@@ -741,7 +741,7 @@
      "what": "Make a 7-ring chain from short strips and a 7-ring chain from long strips. Compare them."
     }
    ],
-   "record": "The two paper chains, with a drawing of a head on top of each.",
+   "record": "The two paper chains, each with its label.",
    "setup": [
     {
      "art": "Fourteen paper strips on a table: seven short ones as long as a finger and seven long ones as long as a forearm.",
@@ -749,7 +749,7 @@
     },
     {
      "art": "Two paper chains hanging side by side, a short one with a child's head drawn on top and a tall one with a giraffe's head on top, each with 7 rings.",
-     "caption": "2. Make two chains of 7 rings. Add a head to each."
+     "caption": "2. Make two chains of 7 rings. Label each one."
     }
    ],
    "flow": [
@@ -763,7 +763,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Cut 7 short strips, each as long as your child's finger. 2. Cut 7 long strips, each as long as their forearm. 3. Make each set into a chain of rings. 4. Draw a head for each chain.",
+     "do": "1. Cut 7 short strips, each as long as your child's finger. 2. Cut 7 long strips, each as long as their forearm. 3. Make each set into a chain of 7 rings. 4. Write a paper label for each chain: Me and Giraffe.",
      "say": "Make a short chain for your neck and a long chain for a giraffe's neck. Count the rings in each.",
      "kid": "Make two chains. Count 7 rings in each.",
      "parent": "Nearly every mammal has 7 neck bones, from a mouse to a giraffe. A giraffe's neck bones are each longer than your hand."
@@ -773,7 +773,7 @@
      "mins": 2,
      "do": "Hang the chains side by side and talk about them.",
      "say": "Both chains have 7 rings. So how is the giraffe's neck so long?",
-     "kid": "Both have 7. Why is the giraffe's neck so long?",
+     "kid": "Hold the two chains side by side. Look at the rings.",
      "ask": [
       {
        "q": "Why is the giraffe's neck longer?",
@@ -791,7 +791,7 @@
    "title": "A Real Fish Backbone (if your family eats fish)",
    "mins": 10,
    "days": 1,
-   "context": "If your family cooks fish, this activity lets you see a real backbone. A grown-up lifts the backbone out of a cooked fish. You look at the small bones and bend the backbone gently.",
+   "context": "You will find out what a fish's backbone is made of. If your family cooks fish, you can see a real one. A grown-up lifts the backbone out of a cooked fish. You look at the small bones and bend the backbone gently.",
    "materials": [
     {
      "item": "a cooked fish with the bones still in, such as a mackerel, a sardine or a pomfret",
@@ -810,7 +810,7 @@
      "what": "After a fish meal, lift out the backbone. Count the small bones and bend the backbone gently."
     }
    ],
-   "record": "A drawing of the fish backbone, with the small bones in a row.",
+   "record": "A photo of the fish backbone. Or draw it with the small bones in a row, or tell a grown-up what you saw.",
    "setup": [
     {
      "art": "A grown-up's hands lifting a whole backbone out of a cooked mackerel on a steel plate.",
@@ -827,7 +827,7 @@
      "mins": 4,
      "do": "1. A grown-up holds the tail of the cooked fish and lifts the backbone out in one piece. 2. Put the backbone on a clean plate.",
      "say": "This is the fish's backbone. Look closely. Is it one long bone?",
-     "kid": "Look at the fish's backbone. Is it one long bone?",
+     "kid": "Look closely at the fish's backbone.",
      "adult": true
     },
     {
@@ -835,7 +835,7 @@
      "mins": 6,
      "do": "Your child counts the small bones in the row and bends the backbone gently.",
      "say": "Count the small bones in the row. Then hold both ends and bend it very gently. What happens?",
-     "kid": "Count the small bones. Bend it gently. What happens?",
+     "kid": "Count the small bones. Bend it gently.",
      "ask": [
       {
        "q": "Why can the fish's backbone bend?",
@@ -854,7 +854,7 @@
    "title": "My Hand of Five: a five-finger chart",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you draw round your hand. Each finger becomes one of the five groups of vertebrates. You write one clue and draw one animal for each.",
+   "context": "You will practise the five groups of animals with a backbone, one on each finger. You draw round your hand. Each finger becomes one group. You write one clue and one animal name for each.",
    "materials": [
     {
      "item": "a sheet of paper",
@@ -888,15 +888,15 @@
      "id": "s1",
      "mins": 2,
      "do": "Your child draws round one hand.",
-     "say": "Draw round your hand. You have five fingers, and there are five groups of animals with a backbone.",
-     "kid": "Draw round your hand. Five fingers, five groups!"
+     "say": "Draw round your hand, or just hold it up. You have five fingers, and there are five groups of animals with a backbone.",
+     "kid": "Draw round your hand, or hold it up and count your fingers. Five fingers, five groups!"
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "For each finger, help your child write the group and one clue, and draw one animal. Thumb: fish, gills. Pointing finger: amphibians, damp skin. Middle finger: reptiles, dry scales. Ring finger: birds, feathers. Little finger: mammals, milk.",
-     "say": "Which group goes on your thumb? What clue helps you know a fish? Draw a fish.",
-     "kid": "Write a group on each finger. Add a clue. Draw an animal.",
+     "do": "For each finger, help your child write the group, one clue and one animal name. If they do not want to write, they say it out loud. Thumb: fish, gills. Pointing finger: amphibians, damp skin. Middle finger: reptiles, dry scales. Ring finger: birds, feathers. Little finger: mammals, milk.",
+     "say": "Which group goes on your thumb? What clue helps you know a fish? Which fish can you name?",
+     "kid": "Write a group on each finger. Add a clue. Add an animal name.",
      "ask": [
       {
        "q": "Which finger is your own group on?",
@@ -916,7 +916,7 @@
    "title": "Backbone Detective: a yes-or-no question game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a guessing game about the five groups. One player picks a secret animal card. The others ask questions that can only be answered yes or no. First they find the group, then the animal.",
+   "context": "This game helps you learn which clues belong to which group. It is a guessing game about the five groups. One player picks a secret animal card. The others ask questions that can only be answered yes or no. First they find the group, then the animal.",
    "printables": [
     {
      "kind": "cards",
@@ -1082,7 +1082,7 @@
     }
    ],
    "rules": [
-    "Draw the animal quickly on the front of each card, under the animal's name.",
+    "Look at the animal on the front of each card. The hen card has no photo, so say what a hen looks like.",
     "Mix the cards and put them face down in a pile.",
     "One player is the keeper. The keeper takes the top card and reads the back secretly. The back has the clues.",
     "The others take turns to ask one question each about the animal's body. The keeper may answer only yes or no, using the clues on the back.",
@@ -1095,7 +1095,7 @@
    "setup": [
     {
      "art": "Twenty small cards on a table, each with an animal name and a quick drawing, being cut out with children's scissors.",
-     "caption": "1. Cut out the cards and draw each animal."
+     "caption": "1. Cut out the cards and look at each animal."
     },
     {
      "art": "A girl holding a card close to her chest while two other players ask questions, with a pile of cards on the table.",
@@ -1106,9 +1106,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Cut out the 20 cards. 2. Share them and draw a quick animal on each.",
-     "say": "Let's draw the animals first. You draw some, and I will draw some.",
-     "kid": "Draw an animal on each card."
+     "do": "1. Cut out the 20 cards. 2. Spread them out with the photos up. 3. Take turns to point at a card and say the animal's name.",
+     "say": "Let's look at the animals first. You point at a card and name it. Then I will do one.",
+     "kid": "Point at a card. Say the animal's name."
     },
     {
      "id": "s2",
@@ -1153,7 +1153,7 @@
    "title": "Odd One Out: four animals, one does not fit",
    "mins": 12,
    "players": "2 or more players",
-   "context": "This is a quick thinking game. Each card shows four animals. Three are in the same group, and one is not. Players find the odd one out and say which clue told them.",
+   "context": "This game helps you spot the clue that tells one group from another. Each card shows four animals. Three are in the same group, and one is not. Players find the odd one out and say which clue told them.",
    "printables": [
     {
      "kind": "cards",
@@ -1244,14 +1244,14 @@
      "kid": "Point at the odd one out. Say a clue.",
      "ask": [
       {
-       "q": "Why is the bat the odd one out?",
+       "q": "In crow, sparrow, bat, peacock, why is the bat the odd one out?",
        "good": [
         "The bat has fur, and the others have feathers.",
         "The bat is a mammal."
        ]
       }
      ],
-     "parent": "The best answers name a clue, like 'fur, not feathers', not just the group. The cards with no-backbone animals, like the butterfly and the crab, remind your child about invertebrates.",
+     "parent": "The best answers name a clue, like 'fur, not feathers', not just the group. The cards with no-backbone animals, like the butterfly and the crab, remind your child about invertebrates, which are animals with no backbone.",
      "check": {
       "t": "mcq",
       "q": "Frog, toad, house gecko, tree frog. Which is the odd one out?",
@@ -1273,7 +1273,7 @@
    "title": "Five Dough Animals on One Backbone",
    "mins": 40,
    "days": 2,
-   "context": "In this two-day project you make five dough animals, one from each group: a fish, a frog, a lizard, a bird and a person. Each animal is built round a backbone of straw pieces. Then you give each one the right covering.",
+   "context": "You will see that a fish, a frog, a lizard, a bird and a person are all built on a backbone. In this two-day project you make five dough animals, one from each group. Each animal is built round a backbone of straw pieces. Then you give each one the right covering.",
    "materials": [
     {
      "item": "a ball of atta dough, about two fists' worth",
@@ -1292,7 +1292,7 @@
      "qty": 1
     },
     {
-     "item": "a few scraps of paper, for feathers",
+     "item": "a few scraps of paper, for feathers and labels",
      "qty": 1
     },
     {
@@ -1327,7 +1327,7 @@
     {
      "id": "s1",
      "mins": 25,
-     "do": "1. Thread 5 short chains of straw pieces. 2. Make the fish chain bendy and long. Make the frog chain very short. 3. Wrap dough round each chain to shape the five animals.",
+     "do": "1. Thread five chains of straw pieces on wool, one for each animal. 2. Make the fish chain long, with many pieces. Make the frog chain very short. 3. Wrap dough round each chain to shape the five animals.",
      "say": "Every animal here has a backbone. Shall we make the frog's short and the lizard's long?",
      "kid": "Make five backbones. Wrap dough round each one.",
      "parent": "A frog's backbone is very short, with about nine vertebrae. A lizard's goes on into a long tail. Let your child shape the bodies freely."
@@ -1395,15 +1395,15 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Stand the loose 8-piece chain from the Bendy Backbone test up on the table and let go. Watch it flop.",
-     "say": "Our chain bent beautifully, but look. It cannot stand up. Your back can bend and stand. How?",
+     "do": "1. Thread 8 short straw pieces on wool, as in the Bendy Backbone test. 2. Stand the loose chain up on the table and let go. Watch it flop.",
+     "say": "This chain bends beautifully, but look. It cannot stand up. Your back can bend and stand. How?",
      "kid": "Your chain flops. Can you make it bend and stand up?"
     },
     {
      "id": "s2",
      "mins": 12,
      "do": "Your child tries their own ideas with the materials.",
-     "say": "Try one idea. Does it stand with the coin? Does it still bend?",
+     "say": "Try one idea. Stand your backbone up and put the coin on top. Does it stand? Does it still bend?",
      "kid": "Try an idea. Test it. Change one thing and test again.",
      "parent": "Pulling the wool tight is usually the first thing that works. Too tight, and the chain stops bending. Let your child find the balance. It is hard to get both. A chain that stands but bends only a little, or bends well but needs a hand to stand, is still a good result. Your real backbone solves this with discs, ligaments and muscles all working together."
     },
@@ -1411,8 +1411,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Test the best design twice: standing with the coin for 10 seconds, then wrapping round the tumbler.",
-     "say": "Let's test it both ways. What made it work?",
-     "kid": "Test it both ways. What made it work?",
+     "say": "Let's test it both ways. First stand it with the coin. Then wrap it round the tumbler.",
+     "kid": "Test it both ways. Say what you changed.",
      "ask": [
       {
        "q": "What made your backbone stand and still bend?",

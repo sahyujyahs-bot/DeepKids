@@ -306,7 +306,7 @@
    "title": "The La-La Test: can a message get through with no words?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment one person hides behind a door and sends four messages using only the made-up word 'la-la'. The listener cannot see them, and guesses each message from the sound alone.",
+   "context": "In this experiment one person hides behind a door and sends four messages using only the made-up word 'la-la'. The listener cannot see them, and guesses each message from the sound alone. You will find out whether the tune of a voice can carry a message when there are no words.",
    "question": "Can a listener tell which message you are sending, from the tune of 'la-la' alone, with no words and no face to see?",
    "predict": "Guess first. Out of 12 tries, how many will your listener get right? Which message will be easiest to guess, and which will be hardest? Why do you think so?",
    "fair_test": "The word is always 'la-la', so only the tune changes. The sender hides behind a door, so the face and hands cannot help. The slips are mixed in a bowl, so the listener cannot guess the order. Each message is sent 3 times, because one try can be luck.",
@@ -345,7 +345,7 @@
      "what": "Make 12 message slips. Guess how many the listener will get right. Send 12 la-la messages from behind a door, then count which messages got through. If there is time, swap places and send 12 more."
     }
    ],
-   "record": "Fill in the results table. Then draw a tally for each message: how many times out of 3 the listener got it right. Circle the easiest message.",
+   "record": "Fill in the results table. Then write a tally for each message: how many times out of 3 the listener got it right. Circle the easiest message.",
    "setup": [
     {
      "art": "Twelve paper slips on a table in four groups of three: an angry face with 'Go away!', a smiling face with 'I am happy', a scared face with 'Help, I'm scared!', and a waving hand with 'Come here!'.",
@@ -368,17 +368,17 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut 12 small slips of paper. 2. On 3 slips, draw an angry face and write 'Go away!'. 3. On 3 slips, draw a smiling face and write 'I am happy'. 4. On 3 slips, draw a scared face and write 'Help, I'm scared!'. 5. On 3 slips, draw a waving hand and write 'Come here!'.",
+     "do": "1. Cut 12 small slips of paper. 2. On 3 slips, write 'Go away!'. 3. On 3 slips, write 'I am happy'. 4. On 3 slips, write 'Help, I'm scared!'. 5. On 3 slips, write 'Come here!'.",
      "say": "Animals send messages without words. Let's see if we can do it too. We need four messages, and each one three times.",
-     "kid": "Make 12 slips. Draw the four messages. Make each one three times.",
-     "parent": "Your child can draw and you can write the words. The drawings help a child who is not reading yet."
+     "kid": "Make 12 slips. Write the four messages. Make each one three times.",
+     "parent": "Your child can write the words, or you can write them. If your child is not reading yet, whisper the message to them when they pick a slip."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Ask your child for a guess and a reason before you start.",
-     "say": "You will only say 'la-la'. I will not see you. Out of 12 tries, how many will I guess right? Which message will be easiest? Why do you think so?",
-     "kid": "Guess. How many will the listener get right? Which one is easiest? Why?",
+     "say": "You will only say 'la-la'. I will not see you. Out of 12 tries, how many will I guess right? Which message will be easiest?",
+     "kid": "Guess how many the listener will get right. Guess which message will be easiest.",
      "ask": [
       {
        "q": "Why do you think that message will be easiest?",
@@ -393,7 +393,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Fold all 12 slips and mix them in the bowl. 2. The sender takes the bowl behind the door. 3. The listener sits on the other side, back to the door.",
+     "do": "1. Fold all 12 slips and mix them in the bowl. 2. The sender takes the bowl behind the door. 3. The listener sits on the other side, back to the door. 4. Tell the listener the four messages, so they can choose one each time.",
      "say": "You are the sender first. Take the bowl behind the door. I will sit here and not look.",
      "kid": "Take the bowl behind the door. Do not let the listener see you.",
      "parent": "Hiding matters. If the listener can see a face, the face gives the answer away. Then we would not know what the sound alone can do."
@@ -450,7 +450,7 @@
    "title": "Do They Know Their Name? A test with a pet cat or dog (if you have one)",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you say four words that sound a little like a pet's name, and then the name itself. You watch whether the pet turns their ears or head more for their own name. Do it only with a pet cat or dog who lives with you or with a friend.",
+   "context": "In this experiment you say four words that sound a little like a pet's name, and then the name itself. You watch whether the pet turns their ears or head more for their own name. You will find out whether your pet knows their name, or just reacts to any word. Do it only with a pet cat or dog who lives with you or with a friend.",
    "question": "Does a pet cat or dog move more when they hear their own name than when they hear other words like it?",
    "predict": "Guess first. Will the pet move their ears or head more for their name, or the same for every word? Why do you think so?",
    "fair_test": "Every word is said in the same voice, at the same loudness, from the same place. The words have the same number of beats as the name. You wait the same time between words. The pet cannot see your face, so only the sound can help.",
@@ -482,7 +482,7 @@
      "what": "Choose four words like the pet's name, say them one by one, then the name, and watch what the pet does each time. Repeat with a second person."
     }
    ],
-   "record": "Fill in the table with a tick or a cross for each word. Draw the pet the moment you said their name.",
+   "record": "Fill in the table with a tick or a cross for each word. Take a photo of the pet at the moment you said their name, or write what they did.",
    "setup": [
     {
      "art": "A grey cat resting on a sofa, looking away, while a girl stands behind the sofa out of the cat's sight with a notebook.",
@@ -497,7 +497,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Choose four words with the same number of beats as the pet's name. For a cat called Bekku, as in the story, you might use 'pakku', 'tikku', 'mukku' and 'sakku'. 2. Write them in the table, with the name last.",
+     "do": "1. Choose four words with the same number of beats as the pet's name. For a cat called Bekku, you might use 'pakku', 'tikku', 'mukku' and 'sakku'. 2. Write them in the table, with the name last.",
      "say": "We will say four words that sound a bit like the pet's name. Then the real name. Which words shall we use?",
      "kid": "Choose four words that sound like the pet's name. Write them down.",
      "adult": true,
@@ -508,10 +508,10 @@
      "mins": 2,
      "do": "Ask your child for a guess and a reason.",
      "say": "Will the pet move more for the name, or the same for every word? Why do you think so?",
-     "kid": "Guess. Will the pet notice their name more? Why?",
+     "kid": "Guess what the pet will do for each word. Will they notice their name more?",
      "ask": [
       {
-       "q": "Why do you think so?",
+       "q": "Why do you think the pet will, or will not, notice their own name more?",
        "good": [
         "Yes, because we call the name when we give food.",
         "No, because all the words sound the same."
@@ -539,8 +539,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Ask your child what they think, what they saw and why.",
-     "say": "Did the pet move more for their name? What did you see? Why do you think so?",
-     "kid": "Did the pet notice their name most? What did you see?",
+     "say": "Did the pet move more for their name? What did you see?",
+     "kid": "Look at your ticks. Which word did the pet notice most?",
      "ask": [
       {
        "q": "Why might a pet notice their name?",
@@ -572,7 +572,7 @@
    "title": "Hum a Purr: feel a sound in your throat",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hum and feel your voice box vibrate, the way a cat's voice box vibrates when she purrs. Then you try to hum while breathing in, the way a cat purrs.",
+   "context": "In this activity you hum and feel your voice box (the part in your throat that makes sound) buzz, the way a cat's voice box buzzes when she purrs. You will find out why a cat's purr is hard to copy.",
    "materials": [
     {
      "item": "your own throat and hands",
@@ -590,7 +590,7 @@
      "what": "Hum low and high with fingers on the throat, try humming while breathing in, and feel a cat's purr if a cat is near."
     }
    ],
-   "record": "Draw your throat and the buzz you felt for a low hum and for a high hum. Write which one buzzed more.",
+   "record": "Write which hum buzzed more, the low one or the high one. You can draw your throat and the buzz too.",
    "setup": [
     {
      "art": "A child with two fingers resting gently on the front of their throat, lips closed, humming, with small buzz lines.",
@@ -607,7 +607,7 @@
      "mins": 3,
      "do": "1. Your child puts two fingers gently on the front of their throat. 2. They hum 'mmmm' with lips closed, low like a big drum. 3. Then they hum high, like a whistle.",
      "say": "Put your fingers on your throat. Hum low, mmmm. What do you feel? Now hum high. Is the buzz the same?",
-     "kid": "Fingers on your throat. Hum low. Now hum high. What do you feel?",
+     "kid": "Fingers on your throat. Hum low, then hum high.",
      "ask": [
       {
        "q": "Which hum made a bigger buzz under your fingers?",
@@ -631,8 +631,8 @@
      "id": "s3",
      "mins": 4,
      "do": "If a cat lives with you, wait until she purrs on her own, then rest a hand gently on her side. If there is no cat, hum low again and rest your hand on your own chest, and skip the question.",
-     "say": "Can you feel the buzz in the cat's body? Is it faster or slower than your hum? When does she purr?",
-     "kid": "Rest your hand gently on the cat. Can you feel the purr?",
+     "say": "Can you feel the buzz in the cat's body, like the buzz in your throat?",
+     "kid": "Rest a hand gently on the cat. No cat? Use your own chest. Feel the buzz.",
      "ask": [
       {
        "q": "What do you think a purring cat is saying right now?",
@@ -651,7 +651,7 @@
    "title": "Messages Without a Voice: be a cricket and a woodpecker",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make animal messages without using your voice: a cricket's chirp with a comb, a woodpecker's drumming with a pencil, and a touch message through a table.",
+   "context": "In this activity you make animal messages without using your voice: a cricket's chirp with a comb, a woodpecker's drumming with a pencil, and a touch message through a table. You will find out how animals send messages with no voice, and which message works best in the dark.",
    "materials": [
     {
      "item": "a plastic comb",
@@ -677,7 +677,7 @@
      "what": "Make a cricket chirp with a comb and card, drum like a woodpecker on a box, and send a knock message through a table."
     }
    ],
-   "record": "Draw the three messages you made and write who makes each one in nature.",
+   "record": "Write who makes each message in nature: the comb chirp, the pencil drumming and the table knock. You can draw them too.",
    "setup": [
     {
      "art": "A child running the edge of a card along the teeth of a plastic comb, with small sound marks.",
@@ -708,9 +708,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "1. Your child presses one ear flat on the table and covers the other ear. 2. You knock gently at the far end: once, then three times, then a fast roll. 3. Swap.",
-     "say": "Ear on the table. Cover your other ear. How many knocks did you feel? Was it loud through the table?",
-     "kid": "Ear on the table. Count the knocks. Then swap.",
+     "do": "1. Your child presses one ear flat on the table and covers the other ear. 2. You knock gently at the far end: once, then three times, then a fast roll. 3. Your child lifts their head and listens to the same knocks through the air. 4. Swap.",
+     "say": "Ear on the table. Cover your other ear. How many knocks do you feel?",
+     "kid": "Ear on the table. Count the knocks. Then lift your head and listen again.",
      "ask": [
       {
        "q": "Was the knock louder through the table or through the air?",
@@ -727,7 +727,7 @@
      "mins": 2,
      "do": "Ask which message would work best in the dark, and which would work far away.",
      "say": "Which of our messages would work in the dark? Which one could a friend hear far away?",
-     "kid": "Which message works in the dark? Which one goes far?",
+     "kid": "Think of the chirp, the drum and the knock. Which would you still hear in the dark?",
      "check": {
       "t": "mcq",
       "q": "A cricket sings at night in a potted plant. Why is a sound a good message at night?",
@@ -748,7 +748,7 @@
    "title": "Say Hello Like a Cat: the slow blink (if a cat is near)",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you try a cat's own way of saying 'I am friendly': a slow blink. You find out whether a cat blinks back. You need a cat who lives with you, or a calm cat at a friend's home.",
+   "context": "In this activity you try a slow blink, which scientists think is a cat's way of saying 'I am friendly'. You find out whether a cat blinks back, and what that might mean. You need a cat who lives with you, or a calm cat at a friend's home.",
    "materials": [
     {
      "item": "a calm cat who lives with you or a friend",
@@ -783,7 +783,7 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Sit on the floor about two big steps from the cat. 2. For one minute, look at the cat with a still, plain face. 3. Count any slow blinks the cat makes.",
-     "say": "First, just look at the cat with a still face. Does she blink slowly? Let's count.",
+     "say": "First, just look at the cat with a still face. A slow blink is when she closes her eyes for about a second, then opens them. Does she do it? Let's count.",
      "kid": "Sit still. Look at the cat. Count her slow blinks.",
      "parent": "Do not stare hard. A hard stare can feel like a threat to a cat. A soft look is enough."
     },
@@ -799,8 +799,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask your child what happened and what it might mean.",
-     "say": "Did the cat blink more after your slow blinks? Did she come closer? What do you think she was saying?",
-     "kid": "Did she blink back? What was she saying, do you think?",
+     "say": "Did the cat blink more after your slow blinks? Did she come closer?",
+     "kid": "Compare your two counts. Which minute had more slow blinks?",
      "ask": [
       {
        "q": "What might a cat's slow blink mean?",
@@ -820,7 +820,7 @@
    "title": "Who Said That? Act the sound, guess the message",
    "mins": 15,
    "players": "2 to 5 players",
-   "context": "This is an acting and guessing game. A player picks a card, makes the animal's sound or signal without saying who they are, and the others guess who is talking and what the message is.",
+   "context": "This is an acting and guessing game. A player picks a card, makes the animal's sound or signal without saying who they are, and the others guess who is talking and what the message is. You will find out which animal messages are easy to guess and which are tricky.",
    "setup": [
     {
      "art": "A pile of cards face down on a carpet, with a girl holding one card close to her chest so the others cannot see.",
@@ -927,7 +927,7 @@
      "kid": "Pick a card. Make the sound. No words!",
      "ask": [
       {
-       "q": "Two cards were both dogs barking. How did you tell which message it was?",
+       "q": "Two cards are dogs barking: one for play, one for a stranger. How could you tell them apart?",
        "good": [
         "One was low and fast, for a stranger. The other was higher with gaps, for play.",
         "The play one had a bow."
@@ -962,7 +962,7 @@
    "title": "Find My Chick: a voice game",
    "mins": 15,
    "players": "2 or more players",
-   "context": "King penguins live in huge crowds of thousands of birds. A parent coming back from the sea finds their own chick by the chick's voice. In this game a blindfolded 'parent' finds their 'chick' by a special call, while the other chicks call too.",
+   "context": "King penguins live in huge crowds of thousands of birds. A parent coming back from the sea finds their own chick by the chick's voice. In this game a blindfolded 'parent' finds their 'chick' by a special call, while the other chicks call too. You will find out why each chick needs a call that is their own.",
    "setup": [
     {
      "art": "Three children each holding a small call card, while a woman ties a soft dupatta over her eyes like a blindfold.",
@@ -990,7 +990,7 @@
     },
     {
      "kind": "tokens",
-     "title": "10 fish tokens to cut out and colour",
+     "title": "10 fish tokens to cut out",
      "items": [
       "Fish 1",
       "Fish 2",
@@ -1045,9 +1045,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask what made it hard and what made it easier.",
-     "say": "Was it hard with everyone calling? Would it be easier if every chick had the same call, or a different call?",
-     "kid": "Was it hard? Why does each chick need their own call?",
+     "do": "Ask what was hard, and what would happen if every chick had the same call.",
+     "say": "Was it hard with everyone calling at once? Imagine every chick had the same call. Could you find yours?",
+     "kid": "Was it hard with everyone calling? Imagine all the chicks had the same call.",
      "check": {
       "t": "mcq",
       "q": "Why does each penguin chick need their own call?",
@@ -1069,7 +1069,7 @@
    "title": "Our Sound Dictionary: one animal, three days",
    "mins": 20,
    "days": 3,
-   "context": "In this project you listen to one animal near your home for 5 minutes a day, for three days. Each time the animal makes a sound, you write what was happening. On day 3 you guess what each sound means. Scientists who study animal talk start exactly like this.",
+   "context": "In this project you listen to one animal near your home for 5 minutes a day, for three days. Each time the animal makes a sound, you write what was happening. On day 3 you guess what each sound means. You will find out what your animal's sounds may be saying, by looking at what happens each time. Scientists who study animal talk start exactly like this.",
    "materials": [
     {
      "item": "a notebook with a page for each day",
@@ -1116,7 +1116,7 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Choose one animal you can hear from home. 2. Draw three columns: 'How the sound goes', 'What was happening', 'Guess of the message'. 3. Listen for 5 minutes. Write each sound the way it sounds, and what was happening.",
+     "do": "1. Choose one animal you can hear from home. 2. Make three columns: 'How the sound goes', 'What was happening', 'Guess of the message'. Leave the last column empty until day 3. 3. Listen for 5 minutes. Write each sound the way it sounds, and what was happening.",
      "say": "Let's be animal-talk scientists. Which animal shall we listen to? Each time they make a sound, what is going on?",
      "kid": "Choose an animal. Listen. Write each sound and what was happening.",
      "parent": "Crows and pigeons are around nearly every flat. At night, a gecko's 'tchk-tchk-tchk' on the wall works well. Write the sound in letters, like 'caw-caw' or 'grrr'. A child of this age can say it while you write."
@@ -1134,8 +1134,8 @@
      "id": "s3",
      "mins": 7,
      "do": "On day 3, listen once more. Then, for each sound, your child guesses the message and says why.",
-     "say": "Look at our dictionary. What do you think each sound means? What is your evidence?",
-     "kid": "What does each sound mean? Say why you think so.",
+     "say": "Look at our dictionary. What was happening each time you heard each sound?",
+     "kid": "Read your dictionary. What do you think each sound means, and why?",
      "wait": "Do this on day 3.",
      "ask": [
       {
@@ -1199,7 +1199,7 @@
      "mins": 3,
      "do": "Tell your child about the tree cricket. Read the problem together.",
      "say": "A tree cricket chews a hole in a leaf and sings through it. The leaf makes his song much louder. Can we make a phone louder like that?",
-     "kid": "A tree cricket sings through a hole in a leaf. The leaf makes him louder. Can you do that for a phone?",
+     "kid": "Your job: make the phone's music reach farther, using only things from home.",
      "parent": "This is real. Natasha Mhatre, Rohini Balakrishnan and their team studied tree crickets in India. In 2017 they showed that the leaf makes the male's song louder, and that the crickets pick leaves of a good size and make the hole in a good place."
     },
     {
@@ -1231,9 +1231,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask why the designs worked, and why a cricket might want to be loud.",
-     "say": "Why do you think the tumbler or cone changed the music? Why might a cricket want to be loud?",
-     "kid": "Why was it louder? Why does a cricket want to be loud?",
+     "do": "Ask whether any design helped, and why. Then ask the question below.",
+     "say": "Did your design change how far the music went? Why do you think it did, or did not?",
+     "kid": "Compare your step counts. Did any design help? Why do you think so?",
      "check": {
       "t": "mcq",
       "q": "Why does a male tree cricket want his song to be loud?",

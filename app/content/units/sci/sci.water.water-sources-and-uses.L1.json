@@ -218,7 +218,7 @@
    "title": "Water Jobs",
    "mins": 15,
    "players": "1 to 4 players and a grown-up",
-   "context": "This is a sorting game about the jobs water does. Each card names something water is doing. Players put each card in the right basket: drinking, cooking, washing, plants or animals.",
+   "context": "This is a sorting game about the jobs water does. Each card names something water is doing. Players put each card in the right basket: drinking, cooking, washing, plants or animals. You will find out how many different jobs water does for us.",
    "printables": [
     {
      "kind": "cards",
@@ -319,7 +319,7 @@
     }
    ],
    "rules": [
-    "Draw the five baskets on a big sheet. Mix the cards and put them face down in a pile.",
+    "Draw the five baskets on a big sheet, or put out five bowls with a job written on each. Mix the cards and put them face down in a pile.",
     "Take turns. Turn over the top card and read it aloud (or ask the grown-up to). Say what the water is doing.",
     "Put the card on the basket you think is right. Say why.",
     "The grown-up reads the back of the card. The back names the right basket, such as Drinking or Plants. If the basket is right, the card stays there.",
@@ -341,7 +341,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the 15 cards. 2. Draw the five baskets on a big sheet. 3. Mix the cards and put them face down.",
+     "do": "1. Cut out the 15 cards. 2. Draw the five baskets on a big sheet, or write each job on a bowl. 3. Mix the cards and put them face down.",
      "say": "Water does many jobs. These five baskets are five jobs. Can you guess which job each basket is for?",
      "kid": "Look at the five baskets. Each one is a job that water does."
     },
@@ -349,8 +349,8 @@
      "id": "s2",
      "mins": 9,
      "do": "Take turns. Turn over a card, say what the water is doing, and put it in a basket. Then read the back of the card aloud.",
-     "say": "What is the water doing on your card? Which basket does it go in? Why?",
-     "kid": "Turn over a card. What is the water doing? Put it in a basket.",
+     "say": "Read your card. What is the water doing? Which basket does it go in? Why?",
+     "kid": "Put the card in the basket you think is right.",
      "ask": [
       {
        "q": "Why does the soaking dal go in the cooking basket?",
@@ -366,7 +366,7 @@
      "mins": 3,
      "do": "Count the cards in each basket together. There should be 3 in each. Ask which job your family does most.",
      "say": "Which of these jobs does our family do every day?",
-     "kid": "Which of these jobs does your family do every day?",
+     "kid": "Point to the baskets for jobs your family does every day.",
      "check": {
       "t": "mcq",
       "q": "A girl pours water on a tulsi pot. Which job is that?",
@@ -386,7 +386,7 @@
    "title": "Who Drinks How? A pairs game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a memory game about how animals drink. Half the cards show an animal. Half show a way of drinking. Find the pairs that go together.",
+   "context": "This is a memory game about how animals drink. Half the cards show an animal. Half show a way of drinking. Find the pairs that go together. You will find out that every animal needs water, but they all drink in their own way.",
    "printables": [
     {
      "kind": "cards",
@@ -466,7 +466,7 @@
      "mins": 3,
      "do": "Act out each way of drinking together.",
      "say": "Every one of these animals needs water. Which way of drinking would you like to try?",
-     "kid": "Act out each way of drinking.",
+     "kid": "Pick one way of drinking and try it.",
      "check": {
       "t": "mcq",
       "q": "How does an elephant drink?",
@@ -488,7 +488,7 @@
    "title": "The Poha Test: water, oil or nothing?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you put dry poha in three katoris. One gets water, one gets oil, and one gets nothing. After ten minutes, you press, look and taste.",
+   "context": "In this experiment you put dry poha in three katoris. One gets water, one gets oil, and one gets nothing. After ten minutes, you press, look and taste. You will find out whether water and oil both make poha soft.",
    "question": "Water and oil are both liquids. Do they both make dry poha soft?",
    "predict": "Guess first. Which poha will be soft after ten minutes: the one in water, the one in oil, or the dry one? Why do you think so?",
    "fair_test": "All three katoris get the same poha, from one packet, the same amount, for the same time. The only difference is what we pour on: water, oil, or nothing.",
@@ -520,7 +520,7 @@
      "qty": 1
     },
     {
-     "item": "3 paper labels with drawings: a water drop, an oil bottle, a cross",
+     "item": "3 paper labels: write Water, Oil and Nothing",
      "qty": 3
     },
     {
@@ -535,7 +535,7 @@
      "what": "Set up the three katoris, guess, wait ten minutes, then press, look and taste."
     }
    ],
-   "record": "Draw the three katoris. Colour the soft poha one colour and the hard poha another colour.",
+   "record": "Fill in the results table with your grown-up. Or draw the three katoris, and colour the soft poha one colour and the hard poha another colour.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -585,8 +585,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Put 2 tablespoons of dry poha in each katori. 2. Put a label in front of each: water, oil, nothing. 3. Let your child pick up a dry flake and press it.",
-     "say": "This is dry poha. Pick up one flake. Press it between your fingers. Is it hard or soft?",
-     "kid": "Pick up one flake of dry poha. Press it. Is it hard or soft?",
+     "say": "This is dry poha. Pick up one flake and press it between your fingers.",
+     "kid": "Press a dry flake. Feel it.",
      "ask": [
       {
        "q": "What does the dry poha feel like?",
@@ -603,8 +603,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Show your child the water and the oil. Ask for a guess and a reason for each katori. Write the guesses down for your child.",
-     "say": "We will pour water on one katori and oil on another. The third gets nothing. After ten minutes, which poha will be soft? Why do you think so?",
-     "kid": "Water on one. Oil on one. Nothing on one. Which poha will go soft? Why?",
+     "say": "We will pour water on one katori and oil on another. The third gets nothing. We will wait ten minutes.",
+     "kid": "Water on one, oil on one, nothing on one. Make a guess.",
      "ask": [
       {
        "q": "Which poha will go soft, and why do you think so?",
@@ -648,13 +648,13 @@
      "mins": 4,
      "do": "1. Take one flake from each katori and put them on a plate. 2. Your child presses each flake with a finger. 3. Then let your child taste one flake from the water katori and one from the dry katori.",
      "say": "Press each flake. Which one squashes? Which one snaps? Now taste the water poha and the dry poha.",
-     "kid": "Press a flake from each katori. Which one squashes? Which one snaps?",
+     "kid": "Press a flake from each katori. Feel the difference.",
      "ask": [
       {
-       "q": "Which poha went soft?",
+       "q": "How did the water poha and the oil poha feel?",
        "good": [
-        "The one in water.",
-        "Only the water one."
+        "The water one squashed. The oil one snapped.",
+        "Water was soft. Oil was hard."
        ]
       },
       {
@@ -683,7 +683,7 @@
      "mins": 2,
      "do": "Ask your child what they think now, what they saw, and why they think it happened. If you have milk, try a fourth katori of poha in milk.",
      "say": "So, what do you think now? What did you see? Why do you think it happened?",
-     "kid": "Say what you saw. Say why you think it happened.",
+     "kid": "Tell your grown-up what you saw and why you think it happened.",
      "parent": "A good answer is: water gets inside poha and makes it soft, and oil does not. Poha in milk goes soft too, because milk is mostly water."
     }
    ]
@@ -693,7 +693,7 @@
    "title": "The Sticky Plate: does soaking help washing?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you let a little dal dry hard on two plates. You wipe one plate while it is still dry. You soak the other plate in water first, and then wipe it. Then you see which one comes clean.",
+   "context": "In this experiment you let a little dal dry hard on two plates. You wipe one plate while it is still dry. You soak the other plate in water first, and then wipe it. Then you see which one comes clean. You will find out why we leave dirty plates in water.",
    "question": "Dried dal sticks hard to a plate. Does soaking it in a little water for a few minutes make it easier to wipe off?",
    "predict": "Guess first. Which plate will be easier to wipe clean: the dry one, or the one soaked in water? Why do you think so?",
    "fair_test": "Both plates get the same dal, dried for the same time. Both are wiped the same way, with a dry cloth, and we count the wipes. The only difference is the water.",
@@ -727,7 +727,7 @@
      "what": "Smear the dal and let it dry for an hour or two. Then wipe one plate while it is dry, and soak the other in water before you wipe it."
     }
    ],
-   "record": "Draw the two plates after wiping. Draw any dal that is left.",
+   "record": "Fill in the table: how many wipes each plate needed, and whether any dal was left. Or take a photo of the two plates.",
    "setup": [
     {
      "art": "Two steel plates under a ceiling fan, each with a small smear of yellow dal drying on it.",
@@ -756,8 +756,8 @@
      "id": "s2",
      "mins": 2,
      "do": "Pour a little water on one plate, just enough to cover the dal. Ask your child to guess which plate will be easier to clean, and to say why.",
-     "say": "One plate gets water. The other stays dry. Which plate will be easier to clean? Why do you think so?",
-     "kid": "Pour water on one plate. Which plate will be easier to clean? Why?",
+     "say": "One plate gets water. The other stays dry.",
+     "kid": "Pour water on one plate. Then make a guess.",
      "ask": [
       {
        "q": "Which plate will be easier to clean, and why do you think so?",
@@ -789,8 +789,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Put the two plates side by side. Ask your child what the water did to the dal.",
-     "say": "What did the water do to the dried dal? In the Poha Test, water went inside the poha and made it soft. Did the same thing happen to the dal?",
-     "kid": "What did the water do to the dal? Was it like the poha in the Poha Test?",
+     "say": "What did the water do to the dried dal? In the Poha Test, when we poured water on poha, the water went inside and made it soft. Did the same thing happen to the dal?",
+     "kid": "Look at the two plates. What did the water do to the dal?",
      "check": {
       "t": "mcq",
       "q": "Why did the soaked dal come off more easily?",
@@ -813,7 +813,7 @@
    "title": "Water Hunt at Home",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you walk round your home and find every place where water is used. For each place, you say what job the water does there.",
+   "context": "In this activity you walk round your home and find every place where water is used. For each place, you say what job the water does there. You will find out how many different jobs water does in one home.",
    "materials": [
     {
      "item": "paper and crayons",
@@ -827,7 +827,7 @@
      "what": "Walk round the home and find every tap, pot and place where water is used."
     }
    ],
-   "record": "Draw the place where your family uses the most water.",
+   "record": "Tell your grown-up which place uses the most water, and why. Or draw that place.",
    "setup": [
     {
      "art": "A child walking through a flat with a grown-up, pointing at the kitchen tap, a bathroom bucket and a plant pot on a balcony.",
@@ -844,7 +844,7 @@
      "mins": 6,
      "do": "Walk round the home together. Visit the kitchen, the bathroom, the balcony and any water filter or tank. At each place, ask what the water is used for.",
      "say": "Let's find every place where we use water. What job does the water do here?",
-     "kid": "Find every place in your home where water is used. What job does it do there?",
+     "kid": "Find every place in your home where water is used.",
      "ask": [
       {
        "q": "What is the water for, here in the kitchen?",
@@ -862,7 +862,7 @@
      "mins": 4,
      "do": "After the walk, ask your child which place uses the most water. Then ask where the water comes from before it reaches the tap.",
      "say": "Which place do you think uses the most water? And where does the water come from before the tap?",
-     "kid": "Which place uses the most water? Where does the water come from before the tap?",
+     "kid": "Which place do you think uses the most water?",
      "ask": [
       {
        "q": "Where does our tap water come from?",
@@ -883,7 +883,7 @@
    "title": "How Do Animals Drink? Act it out",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you act out how different animals drink. Each animal drinks in their own way.",
+   "context": "In this activity you act out how different animals drink. Each animal drinks in their own way. You will find out that every animal needs water, but no two drink the same way.",
    "materials": [
     {
      "item": "a bowl of water and a straw",
@@ -901,7 +901,7 @@
      "what": "Act out how a cat, a crow, a pigeon, an elephant and a frog drink."
     }
    ],
-   "record": "Draw your favourite drinking animal.",
+   "record": "Show your grown-up how your favourite animal drinks. Or draw it.",
    "setup": [
     {
      "art": "A child on hands and knees pretending to lap from a bowl like a cat, with a grown-up laughing.",
@@ -917,8 +917,8 @@
      "id": "s1",
      "mins": 6,
      "do": "Read out each animal one at a time. Your child acts it out. 1. A cat laps with the tongue, very fast. 2. A crow dips the beak, then lifts the head to swallow. 3. A pigeon keeps the beak in the water and sucks, like a straw. 4. An elephant fills the trunk, then squirts the water into the mouth. 5. A frog sits in water and drinks through the skin.",
-     "say": "A cat drinks with her tongue. Show me. Now a crow: dip, lift, swallow. Now a pigeon: suck through a straw. Now an elephant!",
-     "kid": "Drink like a cat. Now a crow: dip, lift, swallow. Now a pigeon, with a straw.",
+     "say": "A cat drinks with her tongue. Show me. Now a crow: dip, lift, swallow. Now a pigeon: suck through a straw. Now an elephant! Last, a frog, who drinks through the skin.",
+     "kid": "Drink like each animal your grown-up reads out.",
      "parent": "Let your child really sip through the straw for the pigeon. For the frog, they can sit still and pretend to soak."
     },
     {
@@ -946,7 +946,7 @@
    "title": "My Water Tally",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you keep count of how many tumblers of water you drink in one day. You make one mark for each tumbler.",
+   "context": "In this activity you keep count of how many tumblers of water you drink in one day. You make one mark for each tumbler. You will find out how much water you drink in one day.",
    "materials": [
     {
      "item": "a sheet of paper stuck on the fridge or wall",
@@ -964,7 +964,7 @@
      "what": "Make a mark each time you drink a tumbler of water. Count the marks at bedtime."
     }
    ],
-   "record": "Count your marks at bedtime. Draw that many tumblers.",
+   "record": "Count your marks at bedtime. Line up that many real tumblers, or tell your grown-up the number.",
    "setup": [
     {
      "art": "A sheet of paper on a fridge with a drawn tumbler at the top and a crayon hanging on a string.",
@@ -988,7 +988,7 @@
      "mins": 7,
      "do": "At bedtime, count the lines together. Ask when your child felt most thirsty.",
      "say": "How many lines did you make? When did you feel most thirsty today? Why do you think that was?",
-     "kid": "Count your lines. When were you most thirsty?",
+     "kid": "Count your lines.",
      "ask": [
       {
        "q": "When were you most thirsty?",
@@ -1010,7 +1010,7 @@
    "title": "A Water Bowl for Birds",
    "mins": 25,
    "days": 5,
-   "context": "In this project you put out a clay saucer of water for birds, on a window ledge or a balcony. You fill it fresh every day for five days, and watch who comes to drink.",
+   "context": "In this project you put out a clay saucer of water for birds, on a window ledge or a balcony. You fill it fresh every day for five days, and watch who comes to drink. You will find out which birds near your home need water.",
    "materials": [
     {
      "item": "a clay saucer, or a wide shallow steel plate",
@@ -1045,7 +1045,7 @@
     {
      "day": 4,
      "mins": 4,
-     "what": "Fresh water again. Draw any visitor in your diary."
+     "what": "Fresh water again. Write down or draw any visitor in your diary."
     },
     {
      "day": 5,
@@ -1053,7 +1053,7 @@
      "what": "Fresh water. Look at your diary. Who came to drink?"
     }
    ],
-   "record": "Keep a bird diary: each day, draw who came to the bowl, or draw an empty bowl.",
+   "record": "Keep a bird diary: each day, write who came to the bowl, or write that nobody came. You can draw the bird too, or take a photo.",
    "setup": [
     {
      "art": "A grown-up placing a clay saucer of water on a wide window ledge outside a flat, with a child watching from inside.",
@@ -1078,9 +1078,9 @@
      "id": "s2",
      "mins": 12,
      "wait": "Come back each day for three more days.",
-     "do": "Each day, pour out the old water and fill the saucer with fresh water. Watch for a few minutes. Draw any visitor in the diary.",
+     "do": "Each day, pour out the old water and fill the saucer with fresh water. Watch for a few minutes. Write down or draw any visitor in the diary.",
      "say": "Who came today? Did they drink, or have a bath? How did they drink?",
-     "kid": "Fill the saucer with fresh water. Watch. Who came? Draw them.",
+     "kid": "Fill the saucer with fresh water. Watch. Who came? Write it down, or draw them.",
      "ask": [
       {
        "q": "If a crow came, how did the crow drink?",
@@ -1129,7 +1129,7 @@
     "Cover the soil with a layer of dry leaves or paper, so less water dries away.",
     "Put the plant in the shade for two days, so the soil dries more slowly."
    ],
-   "your_turn": "Now invent your own plant waterer. Draw it, make it, and test it for one day. Is the soil still damp?",
+   "your_turn": "Now invent your own plant waterer. Tell your grown-up your plan, or draw it. Then make it and test it for one day. Is the soil still damp?",
    "setup": [
     {
      "art": "A tumbler of water standing on two books next to a pot plant, with a wet cotton string running from the water into the soil.",
@@ -1145,13 +1145,13 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the pot plant and say the problem. Look at the ideas together.",
-     "say": "We are going away for two days. Who will give our plant water? Can we make something that waters the plant while we are away?",
+     "say": "We are going away for two days. Let's make something that waters the plant while we are gone.",
      "kid": "Your family is going away. How can the plant get water while you are gone?"
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Your child picks an idea or invents one. 2. Help build it. If you have a second pot plant, water that plant by hand. Give it no waterer, so you can compare the two. For the string waterer, wet the string first and stand the tumbler higher than the pot.",
+     "do": "1. Your child picks an idea or invents one. 2. Help build it. If you have a second pot plant, give that plant no water and no waterer, so you can compare the two. For the string waterer, wet the string first and stand the tumbler higher than the pot.",
      "say": "Which idea will you try? Let's make it.",
      "kid": "Pick an idea. Make it with a grown-up.",
      "adult": true,
@@ -1162,7 +1162,7 @@
      "mins": 5,
      "wait": "Come back tomorrow.",
      "do": "The next day, feel the soil and look at the water level.",
-     "say": "Is the soil still damp? Did the water go down? Where did it go?",
+     "say": "Is the soil still damp? Did the water go down?",
      "kid": "Feel the soil. Is it damp? Did the water go down?",
      "ask": [
       {

@@ -531,7 +531,7 @@
     }
    ],
    "rules": [
-    "Before you play, draw each animal on that animal's card, so that a child who cannot read yet can play.",
+    "Before you play, say the name of each animal card aloud together. Write 'me' on the human card. Then a child who cannot read yet can play.",
     "Lay the 8 animal cards face up in a row. Put a coin on Start as the message.",
     "Mix the 12 place cards and put them face down in a pile.",
     "Turn over the top place card and read the place aloud, but do not read the back.",
@@ -545,16 +545,16 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Cut out the cards and draw the animals together. 2. Draw the track. 3. Lay out the animal cards and put the coin on Start.",
+     "do": "1. Cut out the cards. 2. Draw the track of 13 squares on paper. 3. Lay out the animal cards, write 'me' on the human card, and put the coin on Start.",
      "say": "We have to get a message all the way home. These animals will carry it for us.",
-     "kid": "Draw the animals. Put the coin on Start."
+     "kid": "Look at each animal card. Put the coin on Start."
     },
     {
      "id": "s2",
      "mins": 9,
      "do": "1. Turn over a place card. 2. Your child chooses an animal and says how that animal gets through. 3. Check the back and move the message.",
-     "say": "A tiny crack in the wall! Who can get through? How?",
-     "kid": "Who can get through? How do they move?",
+     "say": "Read the place card, such as: a tiny crack in the wall. Which animal can get through? How does that animal move?",
+     "kid": "Pick an animal who can get through. Tell how that animal moves.",
      "ask": [
       {
        "q": "Why can the crow cross the wide river, but not the narrow pipe?",
@@ -571,7 +571,7 @@
      "mins": 2,
      "do": "When the game ends, ask the check question.",
      "say": "Which animal could get through the most places? Which could get through the fewest?",
-     "kid": "Who could go to the most places?",
+     "kid": "Count the places each animal could go.",
      "check": {
       "t": "mcq",
       "q": "Which animal could go only where there is water?",
@@ -780,7 +780,7 @@
      "what": "Jump three ways from a start line: straight legs, a small bend and a big bend. Mark and measure each jump."
     }
    ],
-   "record": "Fill in the results table. Draw a stick picture of yourself just before your longest jump.",
+   "record": "Fill in the results table. Then take a photo, or draw a stick picture, of yourself just before your longest jump.",
    "flow": [
     {
      "id": "s1",
@@ -793,8 +793,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Show the three ways to jump: with straight legs, with a small bend, and with a big bend like sitting on a low stool. Ask for a guess and a reason. Write the guess down.",
-     "say": "Which jump do you think will go farthest? Why do you think so?",
-     "kid": "Which jump will go farthest? Straight, small bend or big bend? Why?",
+     "say": "Which jump do you think will go farthest?",
+     "kid": "Guess which jump will go farthest: straight legs, a small bend or a big bend.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -836,8 +836,8 @@
      "id": "s6",
      "mins": 2,
      "do": "Circle the longest jump for each way. Put the three longest jumps in order, from shortest to longest.",
-     "say": "Let's find your longest jump for each way. Which way won?",
-     "kid": "Circle your longest jumps. Which way went farthest?",
+     "say": "Let's find your longest jump for each way.",
+     "kid": "Circle your longest jump for each way.",
      "check": {
       "t": "mcq",
       "q": "Which jump usually goes farthest?",
@@ -854,8 +854,8 @@
      "id": "s7",
      "mins": 2,
      "do": "Ask your child what they think now, what they saw, and why. Then tell them about the frog's folded legs.",
-     "say": "So, what did you find out? What did you see? Why do you think it happened?",
-     "kid": "What did you find? Why did bending help?",
+     "say": "So, what did you find out? What did you see?",
+     "kid": "Look at your numbers. Tell your grown-up what you found.",
      "ask": [
       {
        "q": "Why did the big bend make you jump farther?",
@@ -923,21 +923,21 @@
      "what": "Press two leaves and rub two leaves with the bottom of a steel tumbler. Compare them. Then chew and feel how your own jaw moves."
     }
    ],
-   "record": "Stick or draw one pressed leaf and one rubbed leaf side by side, and write which way made smaller bits.",
+   "record": "Stick one pressed leaf and one rubbed leaf side by side on paper, or take a photo. Write which way made smaller bits.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "1. Put two leaves at one side of the plate and two at the other. 2. Show the two ways to crush a leaf with the bottom of the tumbler: press straight down and lift, or press and rub round and round.",
-     "say": "The tumbler is our tooth, and the plate is another tooth. We can crush the leaf two ways.",
-     "kid": "The tumbler is a tooth. The plate is a tooth too."
+     "say": "The tumbler is one tooth, and the plate is another. They can crush the leaf in two ways.",
+     "kid": "Pretend the tumbler and the plate are two teeth. Watch how your grown-up crushes a leaf."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Ask for a guess and a reason. Write it down.",
-     "say": "Which way will break the leaf into smaller bits, pressing or rubbing? Why do you think so?",
-     "kid": "Pressing or rubbing: which breaks the leaf more? Why?"
+     "say": "Which way will break the leaf into smaller bits, pressing or rubbing?",
+     "kid": "Pick one and say why you think so."
     },
     {
      "id": "s3",
@@ -951,8 +951,8 @@
      "id": "s4",
      "mins": 4,
      "do": "1. Now your child presses the tumbler on a new leaf and rubs it round and round and side to side, 10 times. 2. Do the same on the last leaf. 3. Compare all four.",
-     "say": "Now press and rub round and round. Count to ten. What happens to this leaf?",
-     "kid": "Press and rub round and round, ten times. What happens?",
+     "say": "Now press and rub round and round. Count to ten.",
+     "kid": "Press and rub round and round, ten times. Look at the leaf.",
      "ask": [
       {
        "q": "What do the rubbed leaves look like?",
@@ -969,8 +969,8 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Your child puts two fingers on each cheek, just in front of the ears. 2. Then they chew a piece of roti slowly. 3. Ask how the jaw moves.",
-     "say": "Put your fingers here, in front of your ears. Now chew slowly. Does your jaw only go up and down?",
-     "kid": "Fingers on your cheeks. Chew slowly. How does your jaw move?",
+     "say": "Put your fingers here, in front of your ears. Now chew slowly and feel your jaw.",
+     "kid": "Fingers on your cheeks. Chew slowly. Feel your jaw.",
      "ask": [
       {
        "q": "How does your jaw move when you chew?",
@@ -986,8 +986,8 @@
      "id": "s6",
      "mins": 3,
      "do": "Ask what your child thinks now, what they saw, and why.",
-     "say": "Which way broke the leaf more? So why does a cow move her jaw from side to side?",
-     "kid": "Which way broke the leaf? Why does a cow chew side to side?",
+     "say": "Which way made smaller bits? Now think about a cow.",
+     "kid": "Look at all four leaves again. Point to the one with the smallest bits.",
      "check": {
       "t": "mcq",
       "q": "A cow eats grass all day. Why does her jaw move from side to side?",
@@ -1037,22 +1037,22 @@
      "what": "Be a frog, a cat and a grasshopper getting ready to jump. Notice what each one does first."
     }
    ],
-   "record": "Draw one animal just before a jump.",
+   "record": "Draw one animal just before a jump, or strike the pose again and take a photo.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Call out a frog, a cat and a grasshopper, one at a time. 2. Your child shows how that animal gets ready to jump. 3. Then they make one small, soft jump.",
-     "say": "Be a frog on a wet path. Get ready to jump. Now be a cat who wants to jump onto a wall.",
-     "kid": "Be a frog. Get ready to jump! Now be a cat.",
+     "say": "Be a frog on a wet path. Get ready to jump. Now be a cat who wants to jump onto a wall. Last, be a grasshopper with big back legs.",
+     "kid": "Be a frog, then a cat, then a grasshopper. Get ready to jump each time.",
      "parent": "A frog sits low with legs folded. A cat crouches, wiggles a little and stares at the wall. A grasshopper's big back legs are folded high, like a bent letter V."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Ask what all three did before jumping.",
-     "say": "What did the frog, the cat and the grasshopper all do just before jumping?",
-     "kid": "What did every jumper do first?",
+     "say": "Do each one again, slowly. Look at what your legs do.",
+     "kid": "Be each animal again, slowly, and watch your own legs.",
      "ask": [
       {
        "q": "What did every jumper do before the jump?",
@@ -1092,7 +1092,7 @@
    "title": "Wing Push: flap a notebook like a wing",
    "mins": 10,
    "days": 1,
-   "context": "In this activity your child swings a big notebook down flat, like a bird's wing, and then edge first, like a knife. They watch what happens to small bits of tissue on the floor, and feel the air push back.",
+   "context": "In this activity your child swings a big notebook down flat, like a bird's wing, and then edge first, like a knife. They watch what happens to small bits of tissue on the floor, and feel the air push back. You will find out why a bird spreads her wings wide and flat.",
    "materials": [
     {
      "item": "a big notebook, a file or a piece of cardboard about the size of a notebook",
@@ -1110,13 +1110,13 @@
      "what": "Flap a notebook flat and then edge first above tissue bits. See which way blows them away, and feel the push."
     }
    ],
-   "record": "Draw a bird with wings spread wide, pushing air down, and arrows showing the air.",
+   "record": "Draw a bird with wings spread wide, pushing air down, with arrows showing the air. Or show your grown-up how a bird flaps, and say what the air does.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "1. Switch off the fan and close the window. 2. Put the tissue bits in a small pile on the floor. 3. Your child holds the notebook flat, about one hand-width above the bits. 4. Swing the notebook down fast, without touching the bits.",
-     "say": "Your notebook is a wing. Hold it flat and swing it down fast. Don't touch the tissue. What happens?",
+     "say": "Your notebook is a wing. Hold it flat and swing it down fast. Don't touch the tissue. Watch the bits.",
      "kid": "Hold the notebook flat. Swing it down fast. Watch the tissue!",
      "ask": [
       {
@@ -1134,15 +1134,15 @@
      "mins": 3,
      "do": "1. Pile up the bits again. 2. Now your child holds the notebook edge first, like a knife, and swings it down the same way.",
      "say": "Now hold it on its edge, like a knife. Swing it down the same way. What happens now?",
-     "kid": "Now hold it on its edge. Swing it down. What happens?",
+     "kid": "Hold the notebook on its edge. Swing it down. Watch the tissue again.",
      "parent": "Edge first, the notebook slices through the air and hardly moves the tissue. Flat, the notebook pushes a lot of air down. It is also harder to swing flat, because the air pushes back on the notebook."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Ask which way was harder to swing, and talk about how a bird uses the wing.",
-     "say": "Which way was harder to swing? A bird spreads her wings wide and flat to push down. Why?",
-     "kid": "Which way was harder? Why does a bird spread her wings wide?",
+     "say": "Which way was harder to swing? A bird spreads her wings wide and flat when she flaps down.",
+     "kid": "Feel the air push back on the notebook. Which way was harder to swing?",
      "check": {
       "t": "mcq",
       "q": "Why does a bird spread her wings wide and flat when she flaps down?",
@@ -1172,7 +1172,7 @@
    "title": "Snake Wiggle: move with no legs",
    "mins": 12,
    "days": 1,
-   "context": "In this activity your child lies on their tummy, keeps arms and legs still, and tries to move forward like a snake. They try first on a bare floor, then with cushions to push against.",
+   "context": "In this activity your child lies on their tummy, keeps arms and legs still, and tries to move forward like a snake. They try first on a bare floor, then with cushions to push against. You will find out why a snake needs bumps to push on.",
    "materials": [
     {
      "item": "a clear, clean floor about 2 metres long",
@@ -1190,7 +1190,7 @@
      "what": "Try to slide forward like a snake on a bare floor, then with cushions to push against."
     }
    ],
-   "record": "Draw a snake from above, in an S shape, with stones beside the curves.",
+   "record": "Lay a string, rope or dupatta on the floor in an S shape, with small things beside the curves for the snake to push on. Take a photo, or draw it.",
    "flow": [
     {
      "id": "s1",
@@ -1205,7 +1205,7 @@
      "mins": 5,
      "do": "1. Put cushions in two zigzag rows along the path, a little apart. 2. Your child tries again, pushing the sides of the body against the cushions.",
      "say": "These cushions are the stones on a snake's path. Push your sides against them as you wiggle.",
-     "kid": "Push your sides on the cushions. Can you move now?",
+     "kid": "Wiggle again. Push your sides against the cushions.",
      "ask": [
       {
        "q": "Was it easier with the cushions? Why?",
@@ -1222,7 +1222,7 @@
      "mins": 3,
      "do": "Talk about how real snakes and earthworms move.",
      "say": "A snake pushes the curves of her body against stones, sticks and bumps. What would happen to a snake on smooth glass?",
-     "kid": "How does a snake push? What about on smooth glass?",
+     "kid": "Remember the bare floor and the cushions. Where can a snake push?",
      "check": {
       "t": "mcq",
       "q": "How does a snake move forward without legs?",
@@ -1253,7 +1253,7 @@
    "title": "My Teeth Map: count, draw and bite",
    "mins": 12,
    "days": 1,
-   "context": "In this activity your child counts their own teeth in a mirror, finds any gaps where milk teeth have fallen out, and draws a map of their teeth. Then they bite a slice of cucumber to see the marks their front teeth leave.",
+   "context": "In this activity your child counts their own teeth in a mirror, finds any gaps where milk teeth have fallen out, and makes a map of their teeth. Then they bite a slice of cucumber to see the marks their front teeth leave. You will find out which of your teeth cut, which tear and which grind.",
    "materials": [
     {
      "item": "a mirror",
@@ -1264,7 +1264,7 @@
      "qty": 1
     },
     {
-     "item": "paper and a pencil",
+     "item": "about 30 small squares of paper or bottle caps, and a pencil",
      "qty": 1
     },
     {
@@ -1279,12 +1279,12 @@
      "what": "Count your teeth in a mirror and draw a teeth map. Bite a cucumber slice and look at the marks."
     }
    ],
-   "record": "Your teeth map, with cutting, pointed and grinding teeth coloured in three colours.",
+   "record": "Your teeth map, with cutting, pointed and grinding teeth in three colours. A photo of it is fine.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. At the mirror, your child counts the top teeth, then the bottom teeth. 2. Count gaps and new big teeth too. 3. Draw a top row and a bottom row of little boxes, one box for each tooth.",
+     "do": "1. At the mirror, your child counts the top teeth, then the bottom teeth. 2. Count gaps and new big teeth too. 3. Lay out a top row and a bottom row of small paper squares or bottle caps, one for each tooth.",
      "say": "Let's count your top teeth first, from one side to the other. Now the bottom ones.",
      "kid": "Count your top teeth. Now count your bottom teeth.",
      "parent": "A child has 20 milk teeth. Between about 6 and 12 years of age, these fall out one by one and bigger teeth grow in. A seven-year-old often has gaps at the front, and some new big front teeth or new back molars."
@@ -1292,15 +1292,15 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Colour the map: front cutting teeth blue, pointed teeth yellow, back grinding teeth green.",
+     "do": "In the mirror, touch each kind of tooth with a clean finger. Then colour the map: front cutting teeth blue, pointed teeth yellow, back grinding teeth green. Or put a coloured bit of paper on each.",
      "say": "The flat front ones are cutting teeth. The pointed ones are canines. The wide back ones are molars.",
-     "kid": "Colour cutting teeth blue, pointed ones yellow, back ones green."
+     "kid": "Find each kind of tooth in the mirror. Mark it blue, yellow or green on your map."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "1. Your child bites into the cucumber slice with only the front teeth. 2. Look at the marks together. 3. Compare your child's bite with a cow's: a cow has no top front teeth.",
-     "say": "Bite with just your front teeth. What shape are the marks?",
+     "say": "Bite the cucumber with just your front teeth. Then look at the marks.",
      "kid": "Bite with your front teeth. Look at the marks!",
      "ask": [
       {
@@ -1332,7 +1332,7 @@
     },
     {
      "art": "A drawing of two rows of small boxes for teeth, coloured blue at the front, yellow beside them and green at the back.",
-     "caption": "2. Draw and colour your teeth map."
+     "caption": "2. Make and colour your teeth map."
     },
     {
      "art": "A cucumber slice with a curved row of front-teeth bite marks.",
@@ -1345,7 +1345,7 @@
    "title": "Take-off Watch (if birds land near your window)",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you and your child watch a pigeon, crow or myna on a ledge or wire near your window, and look closely at how the bird takes off. Do this only if birds often come near your window.",
+   "context": "In this activity you and your child watch a pigeon, crow or myna on a ledge or wire near your window, and look closely at how the bird takes off. You will find out whether the bird jumps with her legs before she flaps. Do this only if birds often come near your window.",
    "materials": [
     {
      "item": "a window where pigeons, crows or mynas often sit",
@@ -1363,22 +1363,22 @@
      "what": "Watch a bird on a ledge or wire. See if the bird bends the legs and jumps before flying."
     }
    ],
-   "record": "Draw the bird in two pictures: just before take-off, and just after.",
+   "record": "Take a photo or a slow-motion video of the take-off. Or tell your grown-up what the bird's legs did first. You can draw it too.",
    "flow": [
     {
      "id": "s1",
      "mins": 6,
      "do": "1. Sit quietly at the window. 2. When a bird is about to fly, watch the legs. 3. If you can, film the take-off in slow motion and watch it again.",
      "say": "Watch the bird's legs, not the wings. What do the legs do when the bird takes off?",
-     "kid": "Watch the bird's legs. What happens when the bird flies?",
+     "kid": "Keep your eyes on the bird's legs until she flies.",
      "parent": "Many birds bend their legs and push off with a jump, then start flapping. Pigeons often clap their wings as they leave. If no bird comes, try another day."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Talk about what you saw.",
-     "say": "Did the bird jump first, or flap first? How is that like the Jump Test, where you bent your knees before jumping?",
-     "kid": "Did the bird jump first, or flap first?",
+     "say": "How is that like the Jump Test, where you bent your knees before jumping?",
+     "kid": "Show with your own legs what the bird's legs did.",
      "ask": [
       {
        "q": "What did the bird do first?",
@@ -1408,7 +1408,7 @@
    "title": "My Movers and Eaters Diary",
    "mins": 30,
    "days": 3,
-   "context": "In this three-day project your child watches one real animal each day. They draw how that animal moves, what the animal pushes on, and what the animal's mouth looks like.",
+   "context": "In this three-day project your child watches an ant, a bird and then themself. They write down or draw how each one moves, what each pushes on, and what each mouth looks like. You will find out that an ant, a bird and a child all push on something to move.",
    "materials": [
     {
      "item": "3 sheets of paper folded and stapled into a small book",
@@ -1423,7 +1423,7 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Watch ants on the floor or wall. Draw how they move and what their mouths do with food."
+     "what": "Watch ants on the floor or wall. Count their legs and see how they carry food."
     },
     {
      "day": 2,
@@ -1433,7 +1433,7 @@
     {
      "day": 3,
      "mins": 10,
-     "what": "Watch yourself or someone at home walk, jump and eat. Draw your legs and your teeth."
+     "what": "Walk and jump, and look at your teeth in a mirror. Tell what you push on and which teeth you have."
     }
    ],
    "record": "The finished diary, with three animals: how each moves, what each pushes on, and the shape of each mouth.",
@@ -1441,26 +1441,26 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Put a few grains of sugar where you have seen ants, and wait. 2. Your child watches an ant walk and carry food. 3. Draw the ant, with six legs, and write what the ant pushes on.",
+     "do": "1. Put a few grains of sugar where you have seen ants, and wait. 2. Your child watches an ant walk and carry food. 3. Count the ant's legs. Write in the diary how many, and what the ant pushes on.",
      "say": "What does the ant push on to walk? What does she do with the sugar?",
-     "kid": "Watch an ant walk. Draw her legs. What does she push on?",
+     "kid": "Watch an ant walk. Count her legs.",
      "parent": "Ants have six legs and strong jaws that work from side to side, like pincers. They carry food in their jaws. If no ants come, try again the next day."
     },
     {
      "id": "s2",
      "mins": 10,
      "wait": "Day 2",
-     "do": "Your child watches a crow, pigeon or myna and draws the bird's beak and how the bird moves: walking, hopping or flying.",
+     "do": "Your child watches a crow, pigeon or myna and sees how the bird moves: walking, hopping or flying. Then they draw the bird's beak, or take a photo of the beak.",
      "say": "Does this bird walk or hop? What shape is the beak? What food might that beak be good for?",
-     "kid": "Does the bird walk or hop? Draw the beak."
+     "kid": "Does the bird walk or hop? Draw the beak, or take a photo."
     },
     {
      "id": "s3",
      "mins": 10,
      "wait": "Day 3",
-     "do": "Your child draws themselves walking and jumping, and draws their teeth. Then compare all three pages.",
+     "do": "Your child walks and jumps, then looks at their teeth in a mirror. Write down what they push on and which teeth they have. Then compare all three pages.",
      "say": "Now you are the animal. What do you push on? What kinds of teeth do you have?",
-     "kid": "Draw yourself jumping. Draw your teeth.",
+     "kid": "Walk and jump. Look at your teeth in the mirror.",
      "check": {
       "t": "mcq",
       "q": "What do an ant, a crow and you all push on to walk?",
@@ -1477,7 +1477,7 @@
    "setup": [
     {
      "art": "A small stapled book open to a page with a drawing of an ant and arrows from the legs to the floor.",
-     "caption": "1. Day 1: draw an ant and what she pushes on."
+     "caption": "1. Day 1: count the ant's legs and write what she pushes on."
     },
     {
      "art": "A page with a drawing of a myna, the beak coloured yellow, walking on a ledge.",
@@ -1526,7 +1526,7 @@
      "id": "s2",
      "mins": 12,
      "adult": true,
-     "do": "Your child makes a paper lizard, drops the paper lizard from shoulder height and counts how long the fall takes. Then they change the shape and try again.",
+     "do": "1. Your child cuts a paper lizard with a thin body and wide flaps on both sides. 2. Clip the paper clip on the head. 3. Drop it from shoulder height and count how long the fall takes. 4. Change the shape and try again.",
      "say": "How long did that take? What could you change to make the fall slower?",
      "kid": "Drop your lizard. Count. Change the shape. Try again.",
      "parent": "A wide, flat shape falls slowly. A paper clip at the front stops it from tumbling, but its weight can also make the fall faster, so try with and without the clip. A grown-up helps with scissors."
@@ -1535,8 +1535,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Test the best design three times and talk about why it works.",
-     "say": "Why does your best lizard fall so slowly?",
-     "kid": "Why does your lizard fall slowly?",
+     "say": "Let's test your best lizard three times.",
+     "kid": "Drop your best lizard three times. Count each fall.",
      "ask": [
       {
        "q": "Why did your best lizard fall slowly?",

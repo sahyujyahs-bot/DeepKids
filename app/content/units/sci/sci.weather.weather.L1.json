@@ -221,7 +221,7 @@
    "title": "What Will We Wear? A weather and clothes game",
    "mins": 15,
    "players": "2 to 4 players. A grown-up helps read the cards.",
-   "context": "This is a card game about dressing for the weather. The 8 weather cards lie face up. The 8 clothes cards are a face-down pile. You draw a clothes card, put it beside a weather it suits, and say why.",
+   "context": "This is a card game about dressing for the weather. You will find out that each kind of clothes does a different job, such as shading you or stopping the wind. The 8 weather cards lie face up. The 8 clothes cards are a face-down pile. You draw a clothes card, put it beside a weather it suits, and say why.",
    "printables": [
     {
      "kind": "cards",
@@ -254,7 +254,7 @@
    ],
    "rules": [
     "Lay the 8 weather cards face up in two rows. Mix the 8 clothes cards and make a face-down pile.",
-    "Take turns. Draw the top clothes card and read it out. The grown-up helps with reading.",
+    "Take turns. Take the top clothes card and read it out. The grown-up helps with reading.",
     "Put the card beside a weather it suits, and say why. If the others agree it is a good reason, you score 1 point and the card stays there.",
     "One weather can have more than one clothes card, if each has a good reason.",
     "If the card suits no weather, or the others do not agree, put it face down at the bottom of the pile. The next player has a turn. If a card comes round a second time, the grown-up helps find the weather for it.",
@@ -267,7 +267,7 @@
     },
     {
      "art": "A child holding a raincoat card and putting it beside the card 'Heavy monsoon rain in Kochi'.",
-     "caption": "2. Draw a clothes card. Put it beside a weather it suits. Say why."
+     "caption": "2. Take a clothes card. Put it beside a weather it suits. Say why."
     }
    ],
    "flow": [
@@ -275,15 +275,15 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Cut out the 16 cards. 2. Lay the 8 weather cards face up in two rows. 3. Mix the 8 clothes cards and make a face-down pile.",
-     "say": "Some cards show weather. Some show clothes. We need to find the weather each clothes card suits, and say why.",
-     "kid": "Some cards show weather. Some show clothes. Put each clothes card beside a weather it suits."
+     "say": "Some cards show weather. Some show clothes. We will put each clothes card beside a weather it suits, and say why.",
+     "kid": "Look at the two kinds of cards. Your job is to match clothes to weather."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "Take turns drawing a clothes card, reading it out and putting it beside a weather it suits. Ask for a reason before the card stays.",
      "say": "Do these clothes suit this weather? Why? What job do they do?",
-     "kid": "Draw a card. Which weather does it suit? Say why.",
+     "kid": "Take a card. Put it beside a weather it suits. Say why.",
      "ask": [
       {
        "q": "Which clothes card suits more than one weather? Why?",
@@ -298,9 +298,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "At the end, ask about the cloudy day at the beach in Puri.",
-     "say": "Why does the cloudy day still need a cap?",
-     "kid": "Why wear a cap on a cloudy day?",
+     "do": "Point to the cap card beside the cloudy day at the beach in Puri. If it is not there, put it there. Then ask the question.",
+     "say": "A cap on a cloudy day sounds odd. Let us work out why it is a good match.",
+     "kid": "Look at the cap and the cloudy beach. Think about the Sun behind the clouds.",
      "check": {
       "t": "mcq",
       "q": "Why wear a cap at the beach on a cloudy day?",
@@ -320,7 +320,7 @@
    "title": "Weather Says: a moving game",
    "mins": 10,
    "players": "2 or more players",
-   "context": "This is a moving game. The caller says a weather, and everyone acts out what they would do and wear in that weather.",
+   "context": "This is a moving game. You will practise what to wear and do in each weather. The caller says a weather, and everyone acts out what they would do and wear in that weather.",
    "printables": [
     {
      "kind": "cards",
@@ -375,7 +375,7 @@
      "mins": 2,
      "do": "Cut out the six cards. Read the backs aloud so everyone knows the actions.",
      "say": "When I call a weather, show me what you would wear and do.",
-     "kid": "Listen to the weather. Show what you would wear and do."
+     "kid": "Listen for the weather. Then act it out with your whole body."
     },
     {
      "id": "s2",
@@ -432,7 +432,7 @@
      "qty": 1
     },
     {
-     "item": "paper and crayons",
+     "item": "paper and a pencil, for the results table",
      "qty": 1
     }
    ],
@@ -444,7 +444,7 @@
      "what": "Leave a steel tumbler in the fan's wind for 5 minutes, then feel it. Test each cloth with the paper strip, and feel the wind on your arm behind the cloth."
     }
    ],
-   "record": "Draw the fan, the cloth and the paper strip for each test. Draw the strip flying for 'a lot', and hanging down for 'still'.",
+   "record": "Fill in the results table. For each thing you held up, write if the strip moved 'a lot', 'a little' or stayed 'still', and how your arm felt. Or tell your grown-up, who writes it down.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -508,8 +508,8 @@
      "id": "s2",
      "mins": 5,
      "do": "1. While you wait for the 5 minutes, ask your child to hold a bare arm in the fan's wind. 2. Ask what they think will happen to the tumbler, and why. 3. Show the paper strip: it flies in the wind. Ask which cloth will stop the wind, and why.",
-     "say": "How does your arm feel in the wind? Will the tumbler in the wind get cold too? Why? This paper strip is our wind finder. It flies in wind and hangs down in still air. Which cloth will stop the wind best? Why?",
-     "kid": "Hold your arm in the wind. Will the tumbler get cold too? Which cloth will stop the wind? Why?",
+     "say": "How does your arm feel in the wind? This paper strip is our wind finder. It flies in wind and hangs down in still air. Now make two guesses, and say why.",
+     "kid": "Hold your bare arm in the wind and feel it. Then make your two guesses.",
      "ask": [
       {
        "q": "Will the tumbler in the wind get cold? Why?",
@@ -532,8 +532,8 @@
      "id": "s3",
      "mins": 2,
      "do": "After five minutes, ask your child to touch the tumbler in the wind, then the tumbler far away. Then ask your child to hold a hand in the fan's wind again.",
-     "say": "Touch the tumbler from the fan. Now touch the one from far away. Is one colder? Now put your hand in the wind. How does it feel?",
-     "kid": "Touch both tumblers. Is one colder? Now feel the wind on your hand.",
+     "say": "Touch the tumbler from the fan. Now touch the one from far away. Now put your hand in the wind.",
+     "kid": "Touch both tumblers. Then feel the wind on your hand.",
      "ask": [
       {
        "q": "Did the wind make the tumbler colder?",
@@ -562,7 +562,7 @@
      "adult": true,
      "do": "1. The grown-up holds each cloth flat, one arm's length in front of the fan. 2. Your child holds the strip just behind the middle of the cloth. 3. Test with no cloth first, then the dupatta, the sweater, the raincoat and the newspaper, one at a time.",
      "say": "Hold the strip just behind the cloth. Watch it. Does it fly, wave a little, or hang still?",
-     "kid": "Hold the strip just behind the cloth. Does it fly? Or hang still?",
+     "kid": "Hold the strip just behind the cloth and watch what it does.",
      "ask": [
       {
        "q": "What did the strip do behind the sweater?",
@@ -585,8 +585,8 @@
      "id": "s5",
      "mins": 2,
      "do": "1. Your child puts on the sweater and holds one arm in the fan's wind. 2. Then the grown-up wraps the raincoat or plastic sheet over the sweater sleeve. 3. Your child holds the same arm in the wind again.",
-     "say": "Feel the wind through the sweater. Now we put the raincoat over the top. What changed? Why did wind go through the sweater but not the raincoat?",
-     "kid": "Feel the wind through your sweater. Now cover it with the raincoat. What changed? Why?",
+     "say": "Feel the wind through the sweater. Now we put the raincoat over the top. Feel the wind again.",
+     "kid": "Feel the wind through your sweater. Then feel it again with the raincoat on top.",
      "ask": [
       {
        "q": "Why did your arm feel warmer with the raincoat on top?",
@@ -614,10 +614,10 @@
    "title": "Weather Detectives: find clues indoors",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hunt round your home for clues about today's weather, before you look at the sky. Then you check at the window.",
+   "context": "In this activity you find out that the weather leaves clues inside your home. You hunt round your home for clues about today's weather, before you look at the sky. Then you check at the window.",
    "materials": [
     {
-     "item": "paper and crayons",
+     "item": "a phone, to take a photo of a clue if you like",
      "qty": 1
     }
    ],
@@ -628,7 +628,7 @@
      "what": "Hunt for weather clues indoors. Then look out of the window to check."
     }
    ],
-   "record": "Draw the best clue you found, and the weather you think it shows.",
+   "record": "Tell your grown-up the best clue you found and the weather it shows. Or take a photo of the clue.",
    "setup": [
     {
      "art": "A child looking at wet chappals and a dripping umbrella by a front door.",
@@ -644,7 +644,7 @@
      "id": "s1",
      "mins": 6,
      "do": "Walk round the home together, without looking out of a window. Look for clues: a wet umbrella, damp chappals, a curtain moving, a bright patch of sun on the floor, clothes drying.",
-     "say": "Let's be weather detectives. Without looking at the sky, what clues tell us about the weather today?",
+     "say": "We will guess today's weather from clues inside the house, without looking at the sky. What clues can we find?",
      "kid": "Find weather clues inside your home. Do not look at the sky yet.",
      "ask": [
       {
@@ -662,7 +662,7 @@
      "mins": 4,
      "do": "Go to a window. Look at the sky, the trees and the road. Ask your child if the clues were right.",
      "say": "Now look outside. Is it sunny, rainy, windy or cloudy? Did our clues tell the truth?",
-     "kid": "Look outside. Is it sunny, rainy, windy or cloudy? Were your clues right?",
+     "kid": "Look outside and find out if your clues were right.",
      "parent": "Sometimes it is two at once, like sunny and windy. That is fine. Let your child say both."
     }
    ]
@@ -672,7 +672,7 @@
    "title": "A Cloud for the Torch: why are shadows soft on a cloudy day?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you shine a torch on a toy to make a sharp shadow, like on a sunny day. Then you hold a thin white cloth in front of the torch, like a cloud, and watch the shadow change.",
+   "context": "In this activity you find out why shadows look soft on a cloudy day. You shine a torch on a toy to make a sharp shadow, like on a sunny day. Then you hold a thin white cloth in front of the torch, like a cloud, and watch the shadow change.",
    "problem": "On a sunny day, shadows are dark and sharp. On a cloudy day, they are soft and pale. In this activity a torch stands for the Sun, and a thin white cloth stands for a cloud. We look at what the cloth does to the shadow, to find out what a cloud does to sunlight.",
    "materials": [
     {
@@ -699,7 +699,7 @@
      "what": "Make a sharp shadow with the torch. Then put a 'cloud' in front of the torch and look again."
     }
    ],
-   "record": "Draw the sharp shadow and the soft shadow side by side.",
+   "record": "Tell your grown-up how the two shadows looked different. Or take a photo of each shadow.",
    "setup": [
     {
      "art": "A torch shining on a small toy elephant in a dim room, making a sharp dark shadow on a white wall.",
@@ -716,14 +716,14 @@
      "mins": 4,
      "do": "1. Dim the room. 2. Stand the toy a hand-length in front of the white wall. 3. Shine the torch on the toy from about one arm's length away.",
      "say": "The torch is our Sun. Look at the toy's shadow. Is the edge sharp or fuzzy?",
-     "kid": "The torch is the Sun. Look at the shadow. Is the edge sharp?"
+     "kid": "Look at the shadow of your toy on the wall. Look closely at its edge."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Hold the thin white cloth flat, a hand's width in front of the torch, so the light passes through it. Ask your child to guess first what will happen to the shadow.",
      "say": "This cloth is our cloud. What do you think will happen to the shadow? Why? Now let's look.",
-     "kid": "The cloth is a cloud. What will happen to the shadow? Look!",
+     "kid": "Watch the shadow while the cloth is in front of the torch.",
      "ask": [
       {
        "q": "What happened to the shadow?",
@@ -740,7 +740,7 @@
      "mins": 2,
      "do": "Next time it is cloudy, look at your own shadow outside or on the balcony floor.",
      "say": "On a cloudy day, look for your shadow. Will it be sharp or soft?",
-     "kid": "On a cloudy day, look for your shadow. Sharp or soft?",
+     "kid": "Find your own shadow outside on a cloudy day.",
      "wait": "Do this on the next cloudy day. If it is cloudy now, do it now."
     }
    ]
@@ -750,14 +750,14 @@
    "title": "Sort the Cupboard: clothes for each weather",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you take clothes out of the family cupboard and sort them into piles: for sun, for rain, for wind and for cold. You say what job each one does.",
+   "context": "In this activity you find out which clothes keep off the sun, the rain, the wind or the cold. You take clothes out of the family cupboard and sort them into piles: for sun, for rain, for wind and for cold. You say what job each one does.",
    "materials": [
     {
      "item": "clothes from the cupboard: caps, cotton clothes, sweaters, shawls, a raincoat, an umbrella, chappals, socks",
      "qty": "10 to 15 things"
     },
     {
-     "item": "4 sheets of paper with a sun, a raincloud, wind lines and a snowflake drawn on them",
+     "item": "4 sheets of paper, each marked with one word: Sun, Rain, Wind and Cold",
      "qty": 4
     }
    ],
@@ -768,7 +768,7 @@
      "what": "Sort clothes into four weather piles and say the job of each one."
     }
    ],
-   "record": "Draw one thing from each pile.",
+   "record": "Take a photo of each pile. Or point to one thing in each pile and tell your grown-up its job.",
    "setup": [
     {
      "art": "Four papers on the floor with a sun, a raincloud, wind lines and a snowflake, and a pile of mixed clothes beside them.",
@@ -785,7 +785,7 @@
      "mins": 8,
      "do": "Lay out the four papers, one for each pile: sun, rain, wind and cold. Your child picks one thing at a time, puts it on a paper, and says its job.",
      "say": "Which weather is this for? What job does it do? Does it keep off the sun, the rain or the wind, or keep warmth in?",
-     "kid": "Pick a thing. Which weather is it for? What job does it do?",
+     "kid": "Pick one thing and put it on a paper.",
      "ask": [
       {
        "q": "What job does a cap do?",
@@ -801,8 +801,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Hold up the sweater. Ask which pile it goes on, and which job it cannot do. Remind your child of the fan test if you have done it.",
-     "say": "The sweater keeps us warm. But in the fan test, what happened when the fan blew on it? What could we wear on top on a windy day?",
-     "kid": "Where does the sweater go? What can you wear on top when it is windy?",
+     "say": "The sweater keeps us warm. But wind can blow through wool. What could we wear on top on a windy day?",
+     "kid": "Where does the sweater go? Is there a job it cannot do?",
      "ask": [
       {
        "q": "What can we wear over a sweater on a windy day?",
@@ -822,14 +822,14 @@
    "title": "Dress the Window Doll: five mornings",
    "mins": 30,
    "days": 5,
-   "context": "In this project you make a paper doll and paper clothes. Each morning for five days, you look out of the window and dress the doll for the weather. On the last day you count the kinds of weather.",
+   "context": "In this project you find out how the weather changes from day to day. You make a paper doll and paper clothes. Each morning for five days, you look out of the window and dress the doll for the weather. On the last day you count the kinds of weather.",
    "materials": [
     {
      "item": "card or a cereal box, for the doll",
      "qty": 1
     },
     {
-     "item": "paper, crayons and scissors",
+     "item": "paper, a pencil, scissors and scraps of cloth",
      "qty": 1
     },
     {
@@ -846,17 +846,17 @@
     {
      "day": 2,
      "mins": 3,
-     "what": "Look out of the window. Dress the doll. Draw today's weather picture on the chart."
+     "what": "Look out of the window. Dress the doll. Write today's weather in the chart."
     },
     {
      "day": 3,
      "mins": 3,
-     "what": "Look out of the window. Dress the doll. Draw today's weather picture on the chart."
+     "what": "Look out of the window. Dress the doll. Write today's weather in the chart."
     },
     {
      "day": 4,
      "mins": 3,
-     "what": "Look out of the window. Dress the doll. Draw today's weather picture on the chart."
+     "what": "Look out of the window. Dress the doll. Write today's weather in the chart."
     },
     {
      "day": 5,
@@ -864,7 +864,7 @@
      "what": "Dress the doll. Count each kind of weather on the chart."
     }
    ],
-   "record": "A chart with five boxes, one for each morning, with a weather picture in each.",
+   "record": "A chart with five boxes, one for each morning, with the weather word in each. A photo of the sky works too.",
    "setup": [
     {
      "art": "A paper doll made from card with paper clothes beside her: a cap, a cotton dress, a raincoat, a sweater and a jacket.",
@@ -872,15 +872,15 @@
     },
     {
      "art": "The paper doll taped by a window wearing a raincoat, and a chart with five boxes below, three with suns and two with rain clouds.",
-     "caption": "2. Each morning, look out, dress the doll and draw the weather."
+     "caption": "2. Each morning, look out, dress the doll and write the weather."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 12,
-     "do": "1. Draw and cut out a doll from card. 2. Draw and cut out a cap, a cotton dress or shirt, a raincoat, a sweater and a jacket. 3. Give the doll a name. 4. Draw a chart with five boxes. 5. Dress the doll for today and draw today's weather in box 1.",
-     "say": "This doll will live by our window. Every morning we will dress her for the weather. What clothes will she need?",
+     "do": "1. Cut a doll out of card. A grown-up can draw the shape first, or use a small toy instead. 2. Cut a cap, a cotton dress or shirt, a raincoat, a sweater and a jacket from paper or scrap cloth. 3. Give the doll a name. 4. Make a chart with five boxes. 5. Dress the doll for today and write today's weather in box 1.",
+     "say": "This doll will live by our window. Every morning we will dress her for the weather.",
      "kid": "Make a doll. Make clothes for sun, rain, wind and cold.",
      "ask": [
       {
@@ -892,24 +892,24 @@
        ]
       }
      ],
-     "parent": "You may draw the chart and the boxes. Let your child draw the weather pictures and choose the clothes."
+     "parent": "You may draw the chart and the boxes. Let your child write the weather words and choose the clothes."
     },
     {
      "id": "s2",
      "mins": 9,
      "wait": "Come back each morning on days 2, 3 and 4.",
-     "do": "Each morning, look out of the window together. Your child says the weather, dresses the doll and draws a weather picture in that day's box.",
+     "do": "Each morning, look out of the window together. Your child says the weather, dresses the doll and writes the weather in that day's box.",
      "say": "What is the weather this morning? What will the doll wear? Why?",
-     "kid": "Look out of the window. What is the weather? Dress the doll. Draw the weather.",
-     "parent": "If the weather is mixed, let your child draw both, like a sun behind a cloud."
+     "kid": "Look out of the window. What is the weather? Dress the doll. Write the weather in today's box.",
+     "parent": "If the weather is mixed, let your child write both, like sunny and cloudy."
     },
     {
      "id": "s3",
      "mins": 9,
      "wait": "Come back on day 5.",
-     "do": "Dress the doll and draw today's weather in the last box. Then count the sunny, rainy, windy and cloudy boxes on the chart.",
-     "say": "Let's count. How many sunny mornings? How many rainy ones? Which weather came most?",
-     "kid": "Count the suns. Count the clouds. Which came most?",
+     "do": "Dress the doll and write today's weather in the last box. Then count the sunny, rainy, windy and cloudy boxes on the chart.",
+     "say": "Look at the five boxes. How many sunny mornings? How many rainy ones? Which weather came most?",
+     "kid": "Count each kind of weather in the boxes. Which came most?",
      "ask": [
       {
        "q": "Did the weather stay the same all week?",
@@ -953,7 +953,7 @@
     "Cover a paper hat with a piece of plastic bag, so it does not go soggy.",
     "Make a hat that covers the head and the back, like a knup."
    ],
-   "your_turn": "Now invent your own rain hat. Draw it, make it and test it with the fan and the spoon of water. What would you change?",
+   "your_turn": "Now invent your own rain hat. Tell your grown-up your idea, or sketch it first if you like. Then make it and test it with the fan and the spoon of water. What would you change?",
    "setup": [
     {
      "art": "A small toy wearing a cone-shaped paper plate hat tied with string, standing in front of a table fan.",
@@ -970,7 +970,7 @@
      "mins": 4,
      "do": "Show your child the problem. A knup is a rain shield of bamboo and leaves that Khasi farmers wear on the head and back. Talk about why it suits rain and wind.",
      "say": "This toy needs a hat for a rainy, windy day. It must keep the water off and stay on in the wind. How could we make one?",
-     "kid": "Make a rain hat for your toy. It must stay on in the wind."
+     "kid": "Think of a hat that keeps the toy dry and stays on."
     },
     {
      "id": "s2",
@@ -985,7 +985,7 @@
      "mins": 4,
      "do": "1. Put the toy in front of the fan for 10 seconds. 2. Carry it far from the fan, over the tray. 3. Pour one spoon of water on top of the hat. 4. Feel the toy's head.",
      "say": "Did the hat stay on? Is the toy's head dry? What would you change?",
-     "kid": "Did the hat stay on? Is the head dry? What will you change?",
+     "kid": "Watch the hat in the wind. Then feel the toy's head after the water.",
      "ask": [
       {
        "q": "What shape works best in the wind?",

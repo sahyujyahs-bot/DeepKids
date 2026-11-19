@@ -192,22 +192,22 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 
 ## Games
 ### g1 · Born Ready, Learn Steady: a race through the first year (20 min)
-- **rules:** Print the board, or draw 20 squares on a big sheet of paper, in a snake shape. Write 'Born' on the first square and 'One year old' on the last. Number the squares.; Each player uses a coin or a button as a counter, and starts on 'Born'.; Mix the cards and put them face down in a pile.; Take turns. Turn over the top card, read the front aloud, then read the back and move as it says. You can never go back past 'Born'.; Put used cards at the bottom of the pile, so the pile never runs out.; If you land on a 'Say it!' square, tell the others one thing you learned to do, then move forward 1. Your turn ends on the new square, and nothing more happens there.; The first player to reach or pass 'One year old' wins. With two players, you can also play on until both reach the end.
+- **rules:** Print the board, or draw 20 squares on a big sheet of paper, or lay out 20 pieces of paper on the floor, in a snake shape. Write 'Born' on the first square and 'One year old' on the last. Number the squares.; Each player uses a coin or a button as a counter, and starts on 'Born'.; Mix the cards and put them face down in a pile.; Take turns. Turn over the top card, read the front aloud, then read the back and move as it says. You can never go back past 'Born'.; Put used cards at the bottom of the pile, so the pile never runs out.; If you land on a 'Say it!' square, tell the others one thing you learned to do, then move forward 1. Your turn ends on the new square, and nothing more happens there.; The first player to reach or pass 'One year old' wins. With two players, you can also play on until both reach the end.
 - **Printable cards: 16 race cards, with the move on the back:** You are a spiderling. You spin your first web, with no teacher. (back: Born ready. Move forward 3.); You are a calf. You stand up an hour after you are born. (back: Born ready. Move forward 3.); You are a turtle hatchling. You crawl to the bright sea. (back: Born ready. Move forward 3.) [picture]; You are a baby. You drink milk on your first day. (back: Born ready. Move forward 3.); You are a baby. You grip a grown-up's finger tight. (back: Born ready. Move forward 2.); You are a turtle hatchling. A street light is brighter than the sea, and you crawl to it. (back: Your born-with know-how was fooled by something new. Go back 2.) [picture]; You are a spiderling. Wind tears your web in the night. (back: Spin a new one in the same place. Move forward 1.); You are a kitten. Your first pounce misses the leaf. (back: Learning takes tries. Stay where you are this turn.); You are a kitten. You watch your mother hunt, then try again. (back: You learned. Move forward 3.); You are a baby. You try to walk and fall down. (back: Learning takes tries. Stay where you are this turn.); You are a baby. You take your first steps after months of trying. (back: You learned. Move forward 3.); You are a crow chick. A new balcony starts putting out rice. (back: You learn the new place and time. Move forward 3.); You are a chick. You miss most grains on your first day. (back: Born ready, but your aim needs practice. Move forward 1.); You are a chick. After a few days of pecking, you hit most grains. (back: Practice made your aim better. Move forward 2.); You are a baby. You hear your family talk every day. (back: You are learning your language. Move forward 2.); You are a weaver bird. Your first nest is untidy. (back: Weave again. Practice makes it neater. Move forward 1.) [picture]
 - **Printable board: A board of 20 squares to draw on paper:** Square 1: Born; Square 2; Square 3; Square 4; Square 5: Say it! Tell one thing you learned to do. Then move forward 1.; Square 6; Square 7; Square 8; Square 9; Square 10: Say it! Tell one thing you learned to do. Then move forward 1.; Square 11; Square 12; Square 13; Square 14; Square 15: Say it! Tell one thing you learned to do. Then move forward 1.; Square 16; Square 17; Square 18; Square 19; Square 20: One year old
 - **s1 (4 min)**  
-  *Parent does:* 1. Print or draw the board of 20 squares. 2. Cut out the 16 cards. 3. Give each player a coin or a button.  
+  *Parent does:* 1. Print the board, or lay out 20 pieces of paper on the floor in a snake shape. Number them. Write 'Born' on the first, 'One year old' on the last, and 'Say it!' on squares 5, 10 and 15. 2. Cut out the 16 cards. 3. Give each player a coin or a button.  
   *Parent says:* Let's make the board. Twenty squares, from the day you are born to your first birthday.  
-  *Child mode:* Draw 20 squares. Start on 'Born'.
+  *Child mode:* Help lay out the squares. Put your counter on 'Born'.
 - **s2 (13 min)**  
   *Parent does:* Play. On each card, ask: is this born-with know-how, or learning?  
-  *Parent says:* A street light fooled the hatchling! Was that born-with know-how or learning? Why did it go wrong?  
-  *Child mode:* Read your card. Is it born ready, or learning? Move.
-  - Ask: Why did the street light card send you back? (good: The hatchling follows the brightest light, and the street light was brighter.; Her born-with know-how did not expect a street light.)
+  *Parent says:* Read your card aloud. Is it born-with know-how, or learning? Then move as the back says.  
+  *Child mode:* Read your card aloud. Say if it is born ready or learning. Then move.
+  - Ask: Why did the street light card send the hatchling back? (good: The hatchling follows the brightest light, and the street light was brighter.; Her born-with know-how did not expect a street light.)
 - **s3 (3 min)**  
   *Parent does:* Talk about it after the game.  
   *Parent says:* Born-with know-how works at once. Learning takes tries. Which one helped when something new happened, like the new balcony with rice?  
-  *Child mode:* Which helped with something new: born ready, or learning?
+  *Child mode:* Think about the crow chick and the new balcony.
   - Note: Born-with know-how is ready on the first day, but it was made for the world the animal's parents lived in. Learning is slower, but it helps an animal with things that are new.
   - Check: A crow chick finds a new balcony that puts out rice. How does she come back at the right time? → **She learns where and when the rice comes**
 ### g2 · Turtle Run: find the sea in the dark (15 min)
@@ -216,18 +216,18 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* 1. Clear the floor and make the room dark. 2. Stand the sea torch on the floor at one end, and the second torch on a chair by the side wall. 3. The hatchlings crouch at the far end.  
   *Parent says:* You are baby turtles, just out of the sand. Nobody can show you the way to the sea. You only know one thing: crawl to the brightest light.  
-  *Child mode:* You are a baby turtle. Crawl to the brightest light you see.
+  *Child mode:* Crouch at the far end with your eyes closed. You are a baby turtle.
   - Note: Keep the floor clear and keep the crawling slow, so nobody is hurt in the dark. With only two of you, the grown-up is the sea and the reader, and the child is the hatchling.
 - **s2 (10 min)**  
   *Parent does:* Read each night card and do what the back says. Count the nights you reach the sea.  
-  *Parent says:* A street light comes on! Which way will you crawl?  
+  *Parent says:* Here is tonight's card. Open your eyes. Which light is brightest?  
   *Child mode:* Listen to the card. Crawl slowly to the brightest light.
   - Ask: Why did the hatchlings crawl to the street light? (good: It was the brightest light.; They follow the brightest light, and the street light was brighter than the sea.)
-  - Note: On a dark beach, the sky over the sea is usually brighter than the land behind the beach. Hatchlings are born knowing to crawl towards it. Lights from roads, houses and shops can lead them the wrong way.
+  - Note: Ask the question below on a night when the hatchlings crawled to the side torch. On a dark beach, the sky over the sea is usually brighter than the land behind the beach. Hatchlings are born knowing to crawl towards it. Lights from roads, houses and shops can lead them the wrong way.
 - **s3 (2 min)**  
   *Parent does:* Talk about it.  
-  *Parent says:* The hatchlings were born knowing the way. What can people do so that the hatchlings' born-with know-how leads them to the sea?  
-  *Child mode:* How can people help baby turtles find the sea?
+  *Parent says:* The hatchlings were born knowing the way, but lights on land fooled them. What can people do so that they still reach the sea?  
+  *Child mode:* Think of one way to help the baby turtles.
   - Check: A shop near a turtle beach puts a dark shade over the bright sign. What will the hatchlings do? → **Crawl to the sea, because the sky over the sea is now the brightest light**
 
 ## Experiments
@@ -236,16 +236,16 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 - **predict:** Guess first. When you try as hard as you can not to kick, will your leg still kick? And when you pull your hooked fingers hard, will the kick be smaller, the same or bigger? Why do you think so?
 - **fair test:** The same grown-up taps the same spot below the same knee, gently, with the side of the hand, 5 times in each way. You always look away, so that you cannot see the tap coming. We use 5 taps each time, because one tap can miss the spot.
 - **safety:** Tap gently, with the side of the hand, on the soft spot just below the kneecap. Never tap the kneecap itself, and never hit hard. Stand to the side of the foot, because the leg kicks forward.
-- **record:** Fill in the results table for the three ways. Draw your leg three times, with a short arrow for a small kick and a long arrow for a big kick.
+- **record:** Fill in the results table for the three ways. Then say in one sentence what you found, and a grown-up writes it under the table.
 - **results table:** Which way | Kicks (out of 5 taps) | How big: none, small or big
 - **s1 (2 min)**  
   *Parent does:* 1. Find a bed or table where your child can sit with feet hanging free. 2. Draw the results table on the paper. Your child can tell you what to write.  
-  *Parent says:* Your knee has a born-with action. Nobody taught it to you. Today we find out if you are the boss of it.  
-  *Child mode:* Sit where your feet hang free. Let your legs hang loose.
+  *Parent says:* Your knee has a born-with action. Nobody taught it to you. Today we find out if you can stop it.  
+  *Child mode:* Sit on the bed or table with your feet hanging free.
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess, and why. Write the guess on the paper.  
-  *Parent says:* When I tap your knee and you try hard not to kick, will your leg still kick? And if you pull your fingers hard, what will the kick do? Why do you think so?  
-  *Child mode:* Guess. Can you stop the kick if you try? Why?
+  *Parent says:* When I tap your knee and you try hard not to kick, will your leg still kick? And if you pull your fingers hard, will the kick get smaller, stay the same or get bigger?  
+  *Child mode:* Make a guess about your leg. Then tell your grown-up your reason.
   - Ask: Why do you think so? (good: I can stop it, because it is my leg and I move it.; I cannot stop it, because Sabari's leg kicked by itself in the story The Grip and the Web.; Pulling will make it smaller, because I will be busy.)
   - Note: Any guess is fine, as long as there is a reason. Do not tell your child what will happen.
 - **s3 (3 min) · grown-up needed**  
@@ -271,8 +271,8 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
   - Note: Most grown-ups kick too, at any age. The kick is the same kind of action in a baby, a child and an old person.
 - **s7 (3 min)**  
   *Parent does:* Ask what your child thinks, what they saw, and why.  
-  *Parent says:* Look at your table. Could you stop the kick by trying? When was it biggest? Why do you think that happened?  
-  *Child mode:* Look at your table. Could you stop the kick? When was it biggest?
+  *Parent says:* Look at your table. Could you stop the kick by trying? When was it biggest?  
+  *Child mode:* Point to the way that gave the biggest kicks.
   - Ask: Why is the kick so hard to stop? (good: It happens before I decide anything.; The message goes from my knee to my backbone and back, without asking me.; I was born with it, so it works by itself.)
   - Note: A strong answer uses the numbers: 'Relaxed, I kicked 5 times. Trying to stop, I still kicked 3 times, but small. Pulling, I kicked 5 big kicks.' Now read the card called 'Your born-with actions: reflexes'.
   - Check: In the stop test, what usually happens when you try hard not to kick? → **The leg often still kicks, maybe smaller**
@@ -280,46 +280,46 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 ## Activities
 ### a1 · Web Watch: a web that nobody taught (if you find a web) (15 min)
 - **safety:** Look, but do not touch the spider or break the web.
-- **record:** A drawing of the web, with the spider drawn where you found her.
+- **record:** A drawing or photo of the web, and the number of spokes you counted. Say where the spider was.
 - **s1 (6 min)**  
   *Parent does:* Search together: ceiling corners, behind cupboards, window frames, balcony grills and plant pots. Shine the torch from the side, so the threads shine.  
-  *Parent says:* Spiders spin webs in quiet corners. Let's look. Shine the torch from the side. Can you see the threads?  
+  *Parent says:* Spiders spin webs in quiet corners. Let's look. Can you see the threads?  
   *Child mode:* Look in corners and on the balcony. Shine the torch from the side.
   - Note: Most flats have at least one web in a corner. House spiders often spin messy tangle webs. Spiders that spin round webs are more often on balconies and in plants, and many spin at dusk. If you find no web, try again at dusk tomorrow, when round webs are spun.
 - **s2 (6 min)**  
-  *Parent does:* Your child draws the web. Look for spokes, a spiral, or a tangle.  
-  *Parent says:* Is this web round, with spokes and a spiral, or a messy tangle? Draw what you see.  
-  *Child mode:* Draw the web. Is it round, or a tangle?
+  *Parent does:* Your child looks closely at the web and counts the spokes, which are the straight lines from the middle outwards. A tangle web has none. Then they draw it, or take a photo.  
+  *Parent says:* Is this web round, with spokes and a spiral, or a messy tangle?  
+  *Child mode:* Count the spokes you can see, or say there are none. Then draw the web, or take a photo.
 - **s3 (3 min)**  
   *Parent does:* Talk about who taught the spider.  
-  *Parent says:* Most spider mothers are not there to teach their babies. Each kind of spider spins the web of her own kind. How do you think she knows how?  
+  *Parent says:* Most spider mothers are not there to teach their babies. Each kind of spider spins the web of her own kind.  
   *Child mode:* Who taught this spider? How does she know how to spin?
   - Note: Not usually. Each kind of spider spins the web shape of her own kind, so a round web and a tangle web were most likely spun by different kinds of spider.
   - Think: If you saw a round web and a tangle web, were they spun by the same kind of spider?
 ### a2 · A Newborn's Grip (only if there is a baby under three months in the family) (10 min)
 - **safety:** Wash your hands with soap first. Only do this with the baby's parent there, and when the baby is calm and awake. Never pull or lift the baby by the grip.
-- **record:** Draw the baby's hand around your finger. Write how long the baby held on.
+- **record:** Count in your head how many seconds the baby held on. A grown-up writes the number down.
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* Your child washes their hands with soap. Ask the baby's parent for permission.  
   *Parent says:* We must wash our hands first, because tiny babies catch germs easily.  
   *Child mode:* Wash your hands with soap first.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* With the parent holding the baby, your child lays one finger gently across the baby's open palm, and waits.  
-  *Parent says:* Put one finger gently across the baby's palm. Don't push. Just wait. What does the baby do?  
-  *Child mode:* Put one finger in the baby's palm. Wait. What happens?
+  *Parent says:* Put one finger gently across the baby's palm, the flat part of the open hand. Don't push. Just wait.  
+  *Child mode:* Wait and count the seconds. Does the baby hold on?
   - Ask: Did the baby decide to hold on? (good: No, the hand closed by itself.; Maybe. It happened so fast.)
   - Note: In a baby under about three months, the fingers usually close around the finger at once. This grip fades by about four to six months, and then the baby learns to reach and hold on purpose.
 - **s3 (3 min)**  
   *Parent does:* Talk about it afterwards.  
-  *Parent says:* Nobody taught the baby to grip. Who else is born knowing how to do something?  
-  *Child mode:* Who taught the baby to grip? What else are babies born knowing?
+  *Parent says:* Nobody taught the baby to grip. What else can a baby do on the first day, without being taught?  
+  *Child mode:* Tell your grown-up one more thing babies can do from the first day.
   - Check: Why does a newborn baby grip a finger? → **She is born able to do it**
 ### a3 · Born Ready for Any Language: can you say 'zh'? (15 min)
 - **record:** A table: each person's name, the language they heard as a baby, and whether the 'zh' sound was easy, a bit hard or very hard. A grown-up can write the names.
 - **s1 (4 min)**  
   *Parent does:* Listen to someone say 'Tamizh' (the name of the Tamil language) and 'mazhai' (rain) and 'vaazhaipazham' (banana).  
   *Parent says:* Listen to this sound. It is in Tamil and Malayalam. 'Tamizh'. 'Mazhai'. Can you hear the 'zh'?  
-  *Child mode:* Listen. 'Tamizh'. 'Mazhai'. Can you hear the 'zh' sound?
+  *Child mode:* Listen for the 'zh' sound in the middle of each word.
   - Note: To make the sound, curl the tip of your tongue up and back, and let the sound flow without the tongue touching the roof of the mouth. If nobody at home speaks Tamil or Malayalam, many free videos and dictionary apps say these words aloud.
 - **s2 (4 min)**  
   *Parent does:* Your child tries the words five times.  
@@ -333,19 +333,19 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 - **s4 (3 min)**  
   *Parent does:* Look at the table together.  
   *Parent says:* Who found it easy? Did they hear Tamil or Malayalam as babies? Were they born knowing the sound, or did they learn it?  
-  *Child mode:* Who found it easy? Did they learn the sound as a baby?
+  *Child mode:* Point to the people who found it easy. Which language did they hear as babies?
   - Note: Babies a few months old can hear the difference between sounds from many languages. By about one year, they hear best the sounds of the language around them. Scientists like Janet Werker found this.
   - Check: A baby is born in Bengaluru to a family who speak Malayalam at home. Which sounds will she learn to say easily? → **The sounds of Malayalam, the language she hears every day**
 
 ## Projects
 ### p1 · Night Light Count: three nights at the window (30 min, 3 days)
 - **problem:** At night, turtle hatchlings crawl towards the brightest light they see. On a dark beach, that is usually the sky over the sea. A bright street light or shop sign on land can lead them the wrong way. You count the lights you can see from your window, and then decide which ones could be switched off near a turtle beach.
-- **record:** A tally table for each night, and a poster.
-- **schedule:** day 1: At 8 in the evening, count the lights you can see from one window for 5 minutes. Sort them: street lights, homes, shops and signs, vehicles. (8 min); day 2: Count again from the same window at the same time. Which lights are on every night? (8 min); day 3: Count for the last time. Then make a poster: which lights could be dimmed or switched off near a turtle beach? (14 min)
+- **record:** A tally table for each night, and a poster or a short talk.
+- **schedule:** day 1: At 8 in the evening, count the lights you can see from one window for 5 minutes. Sort them: street lights, homes, shops and signs, vehicles. (8 min); day 2: Count again from the same window at the same time. Which lights are on every night? (8 min); day 3: Count for the last time. Then make a poster or give a short talk: which lights could be dimmed or switched off near a turtle beach? (14 min)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* At 8 in the evening, your child counts the lights they see from one window, for 5 minutes. They make tally marks in four groups: street lights, homes, shops and signs, vehicles.  
-  *Parent says:* Let's count the lights we can see. Make a tally mark for each one. Is it a street light, a home, a shop or a vehicle?  
-  *Child mode:* Count the lights you see. Make a tally mark for each one.
+  *Parent says:* Let's count the lights we can see. Make a tally mark for each one. Is it a street light, a home, a shop or sign, or a vehicle?  
+  *Child mode:* Make a tally mark for each light. Put it in the right group.
   - Note: Stay with your child at the window or balcony. A child should never lean out. If your window shows only a few lights, count what you can. Fewer lights is fine.
 - **s2 (8 min)**  
   *Parent does:* On day 2, count again from the same window at the same time.  
@@ -353,9 +353,9 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
   *Child mode:* Count again. Which lights are on every night?
   - Wait: Do this on day 2, at the same time as day 1.
 - **s3 (14 min)**  
-  *Parent does:* On day 3, count for the last time. Then your child makes a poster: which lights near a beach could be switched off or shaded in turtle season?  
+  *Parent does:* On day 3, count for the last time. Then your child shows which lights near a beach could be switched off or shaded in turtle season. They can make a poster, or explain it to the family.  
   *Parent says:* If our street were next to a turtle beach, which of these lights would lead the hatchlings the wrong way? Which ones could we switch off?  
-  *Child mode:* Count once more. Then make a poster to help baby turtles.
+  *Child mode:* Count once more. Then make a poster, or give a talk, to help baby turtles.
   - Ask: Which lights are brightest? (good: The street lights.; The shop sign that flashes.)
   - Check: Why do lights near a beach matter to turtle hatchlings? → **Hatchlings are born knowing to crawl to the brightest light, so a bright light on land leads them the wrong way**
   - Wait: Do this on day 3.
@@ -370,7 +370,7 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 - **s1 (3 min)**  
   *Parent does:* Read the challenge together. Talk about how a baya weaves his nest with only his beak and feet.  
   *Parent says:* A baya weaves a hanging nest with only his beak. Can you weave a mat with only two fingers of one hand?  
-  *Child mode:* Weave a mat with only two fingers. Can it hold 10 chana?
+  *Child mode:* Hold a strip with your thumb and first finger, like a beak. Can you do it?
 - **s2 (10 min)**  
   *Parent does:* A grown-up cuts the strips and folds the first 6 over the pencil. Your child weaves the first mat. Help only with the cutting and folding.  
   *Parent says:* Where will you start? How will you keep the strips from coming apart?  
@@ -379,7 +379,7 @@ She frowned. 'But it is my leg. If I try really, really hard, can I stop it from
 - **s3 (12 min)**  
   *Parent does:* 1. Lift the first mat by the pencil. Does it stay together? 2. Lay it flat and put 10 chana on it. 3. Weave a second mat. 4. Test it too.  
   *Parent says:* How many chana stayed on? Now weave a second one. What will you do differently?  
-  *Child mode:* Test it. Then weave a second mat. Is it better?
+  *Child mode:* Lift the mat and add the chana. Count how many stay on. Then weave a second mat.
   - Ask: Why was your second mat better? (good: I learned to tuck the ends in tight.; I knew where to start this time.; My fingers got better at it.)
   - Check: A young weaver bird's first nests are often untidy. Why are his later nests better? → **He gets better with practice**
 

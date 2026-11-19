@@ -209,7 +209,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   *Parent does:* Play rounds. Each player acts one card, and the others guess the animal and the message. Keep score on paper.  
   *Parent says:* Your turn. No words! Just the sound or the signal. Who are you, and what are you saying?  
   *Child mode:* Pick a card. Make the sound. No words!
-  - Ask: Two cards were both dogs barking. How did you tell which message it was? (good: One was low and fast, for a stranger. The other was higher with gaps, for play.; The play one had a bow.)
+  - Ask: Two cards are dogs barking: one for play, one for a stranger. How could you tell them apart? (good: One was low and fast, for a stranger. The other was higher with gaps, for play.; The play one had a bow.)
   - Note: The hardest cards are the two dog barks, and the cat's raised tail and slow blink. Let the children argue it out. Arguing about what a signal means is exactly what animal scientists do.
 - **s3 (3 min)**  
   *Parent does:* Ask which cards were easiest to guess, and why.  
@@ -220,7 +220,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 ### g2 · Find My Chick: a voice game (15 min)
 - **rules:** One player is the parent penguin. Everyone else is a chick. Use one call card for each chick.; Each chick picks one call card. One chick, chosen by the players, is the parent's own chick.; The parent's own chick says their call once in the parent's ear, so the parent learns it.; The parent puts on a soft blindfold, like a dupatta. A grown-up spins the parent gently once.; All the chicks stand around the room and say their own call again and again, at the same time.; The parent walks slowly with hands in front and listens, then touches one chick. If it is the parent's own chick, the parent takes a fish token. If not, that chick goes quiet, and the parent may try once more.; Swap roles. The game ends when everyone has been the parent twice. The player with the most fish wins. If it is a tie, the family shares the catch.; With only two players, the chick hides behind a sofa or a curtain and calls again and again. The parent finds the chick by the call.
 - **Printable cards: 8 call cards to cut out:** Pee-oo, pee-oo; Tik-tik-tweee; Woo-wip, woo-wip; Kee-kee-kee; Brrr-up; Toot-toot-tee; Ooo-ah-ooo; Chip-a-chee
-- **Printable tokens: 10 fish tokens to cut out and colour:** Fish 1; Fish 2; Fish 3; Fish 4; Fish 5; Fish 6; Fish 7; Fish 8; Fish 9; Fish 10
+- **Printable tokens: 10 fish tokens to cut out:** Fish 1; Fish 2; Fish 3; Fish 4; Fish 5; Fish 6; Fish 7; Fish 8; Fish 9; Fish 10
 - **s1 (3 min)**  
   *Parent does:* Tell the children how real king penguins find their chicks.  
   *Parent says:* King penguins live in crowds of thousands. When a parent comes back from the sea with fish, how do they find their own chick? By their voice!  
@@ -233,9 +233,9 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   - Ask: Parent, what helped you find the right chick? (good: I listened for the call I learned.; I walked to where that sound got louder.)
   - Note: It is harder than it sounds. Real penguin chicks also learn their parent's call and walk towards it. Both sides listen.
 - **s3 (3 min)**  
-  *Parent does:* Ask what made it hard and what made it easier.  
-  *Parent says:* Was it hard with everyone calling? Would it be easier if every chick had the same call, or a different call?  
-  *Child mode:* Was it hard? Why does each chick need their own call?
+  *Parent does:* Ask what was hard, and what would happen if every chick had the same call.  
+  *Parent says:* Was it hard with everyone calling at once? Imagine every chick had the same call. Could you find yours?  
+  *Child mode:* Was it hard with everyone calling? Imagine all the chicks had the same call.
   - Check: Why does each penguin chick need their own call? → **So their parent can pick them out from thousands of chicks**
 
 ## Experiments
@@ -243,21 +243,21 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 - **question:** Can a listener tell which message you are sending, from the tune of 'la-la' alone, with no words and no face to see?
 - **predict:** Guess first. Out of 12 tries, how many will your listener get right? Which message will be easiest to guess, and which will be hardest? Why do you think so?
 - **fair test:** The word is always 'la-la', so only the tune changes. The sender hides behind a door, so the face and hands cannot help. The slips are mixed in a bowl, so the listener cannot guess the order. Each message is sent 3 times, because one try can be luck.
-- **record:** Fill in the results table. Then draw a tally for each message: how many times out of 3 the listener got it right. Circle the easiest message.
+- **record:** Fill in the results table. Then write a tally for each message: how many times out of 3 the listener got it right. Circle the easiest message.
 - **results table:** Try | Message on the slip (secret) | Listener's guess | Right or wrong
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut 12 small slips of paper. 2. On 3 slips, draw an angry face and write 'Go away!'. 3. On 3 slips, draw a smiling face and write 'I am happy'. 4. On 3 slips, draw a scared face and write 'Help, I'm scared!'. 5. On 3 slips, draw a waving hand and write 'Come here!'.  
+  *Parent does:* 1. Cut 12 small slips of paper. 2. On 3 slips, write 'Go away!'. 3. On 3 slips, write 'I am happy'. 4. On 3 slips, write 'Help, I'm scared!'. 5. On 3 slips, write 'Come here!'.  
   *Parent says:* Animals send messages without words. Let's see if we can do it too. We need four messages, and each one three times.  
-  *Child mode:* Make 12 slips. Draw the four messages. Make each one three times.
-  - Note: Your child can draw and you can write the words. The drawings help a child who is not reading yet.
+  *Child mode:* Make 12 slips. Write the four messages. Make each one three times.
+  - Note: Your child can write the words, or you can write them. If your child is not reading yet, whisper the message to them when they pick a slip.
 - **s2 (2 min)**  
   *Parent does:* Ask your child for a guess and a reason before you start.  
-  *Parent says:* You will only say 'la-la'. I will not see you. Out of 12 tries, how many will I guess right? Which message will be easiest? Why do you think so?  
-  *Child mode:* Guess. How many will the listener get right? Which one is easiest? Why?
+  *Parent says:* You will only say 'la-la'. I will not see you. Out of 12 tries, how many will I guess right? Which message will be easiest?  
+  *Child mode:* Guess how many the listener will get right. Guess which message will be easiest.
   - Ask: Why do you think that message will be easiest? (good: 'Go away' is easy because I can make my voice cross.; 'Scared' is easy because my voice goes high and wobbly.)
   - Note: Write the guess at the top of the page. Any guess is fine. The test will answer it.
 - **s3 (2 min)**  
-  *Parent does:* 1. Fold all 12 slips and mix them in the bowl. 2. The sender takes the bowl behind the door. 3. The listener sits on the other side, back to the door.  
+  *Parent does:* 1. Fold all 12 slips and mix them in the bowl. 2. The sender takes the bowl behind the door. 3. The listener sits on the other side, back to the door. 4. Tell the listener the four messages, so they can choose one each time.  
   *Parent says:* You are the sender first. Take the bowl behind the door. I will sit here and not look.  
   *Child mode:* Take the bowl behind the door. Do not let the listener see you.
   - Note: Hiding matters. If the listener can see a face, the face gives the answer away. Then we would not know what the sound alone can do.
@@ -283,18 +283,18 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 - **predict:** Guess first. Will the pet move their ears or head more for their name, or the same for every word? Why do you think so?
 - **fair test:** Every word is said in the same voice, at the same loudness, from the same place. The words have the same number of beats as the name. You wait the same time between words. The pet cannot see your face, so only the sound can help.
 - **safety:** Do this only with a pet who knows you, and only when they are calm. Never wake a sleeping animal or disturb one who is eating. Do not try it with a street dog you do not know.
-- **record:** Fill in the table with a tick or a cross for each word. Draw the pet the moment you said their name.
+- **record:** Fill in the table with a tick or a cross for each word. Take a photo of the pet at the moment you said their name, or write what they did.
 - **results table:** Word said | Ears moved? | Head turned? | Came to you?
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* 1. Choose four words with the same number of beats as the pet's name. For a cat called Bekku, as in the story, you might use 'pakku', 'tikku', 'mukku' and 'sakku'. 2. Write them in the table, with the name last.  
+  *Parent does:* 1. Choose four words with the same number of beats as the pet's name. For a cat called Bekku, you might use 'pakku', 'tikku', 'mukku' and 'sakku'. 2. Write them in the table, with the name last.  
   *Parent says:* We will say four words that sound a bit like the pet's name. Then the real name. Which words shall we use?  
   *Child mode:* Choose four words that sound like the pet's name. Write them down.
   - Note: This test comes from Atsuko Saito and her team in Tokyo. In 2019 they found that many pet cats moved their ears and heads more for their own name than for similar words.
 - **s2 (2 min)**  
   *Parent does:* Ask your child for a guess and a reason.  
   *Parent says:* Will the pet move more for the name, or the same for every word? Why do you think so?  
-  *Child mode:* Guess. Will the pet notice their name more? Why?
-  - Ask: Why do you think so? (good: Yes, because we call the name when we give food.; No, because all the words sound the same.)
+  *Child mode:* Guess what the pet will do for each word. Will they notice their name more?
+  - Ask: Why do you think the pet will, or will not, notice their own name more? (good: Yes, because we call the name when we give food.; No, because all the words sound the same.)
 - **s3 (8 min)**  
   *Parent does:* 1. Stand where the pet cannot see your face. 2. Say the first word in a normal voice. 3. Watch for 15 seconds. Did the ears move? Did the head turn? 4. Write ticks or crosses. 5. Do the same for words 2, 3 and 4. 6. Then say the name, the same way.  
   *Parent says:* Same voice every time. Now watch closely. Did the ears move? Did the head turn?  
@@ -307,19 +307,19 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   - Wait: Do this an hour later, or the next day, so the pet is calm again.
 - **s5 (2 min)**  
   *Parent does:* Ask your child what they think, what they saw and why.  
-  *Parent says:* Did the pet move more for their name? What did you see? Why do you think so?  
-  *Child mode:* Did the pet notice their name most? What did you see?
+  *Parent says:* Did the pet move more for their name? What did you see?  
+  *Child mode:* Look at your ticks. Which word did the pet notice most?
   - Ask: Why might a pet notice their name? (good: Because good things happen after the name, like food or a cuddle.; Because people say the name a lot.)
   - Note: Some pets show little difference, and that is a real result too. In Saito's test, not every cat answered. Talk about what else the pet might be noticing: your footsteps, the time of day, the smell of food.
   - Check: Why did we say every word in the same voice? → **So that only the word changed, and not the tune**
 
 ## Activities
 ### a1 · Hum a Purr: feel a sound in your throat (10 min)
-- **record:** Draw your throat and the buzz you felt for a low hum and for a high hum. Write which one buzzed more.
+- **record:** Write which hum buzzed more, the low one or the high one. You can draw your throat and the buzz too.
 - **s1 (3 min)**  
   *Parent does:* 1. Your child puts two fingers gently on the front of their throat. 2. They hum 'mmmm' with lips closed, low like a big drum. 3. Then they hum high, like a whistle.  
   *Parent says:* Put your fingers on your throat. Hum low, mmmm. What do you feel? Now hum high. Is the buzz the same?  
-  *Child mode:* Fingers on your throat. Hum low. Now hum high. What do you feel?
+  *Child mode:* Fingers on your throat. Hum low, then hum high.
   - Ask: Which hum made a bigger buzz under your fingers? (good: The low hum buzzed more.; Both buzzed, but the low one felt stronger.)
   - Note: The low hum usually feels stronger. Your child is feeling their vocal folds vibrate inside the voice box. A cat's purr comes from her voice box too.
 - **s2 (3 min)**  
@@ -329,12 +329,12 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   - Note: Most people find humming while breathing in very hard, and it sounds strange. A purring cat keeps going through both breaths.
 - **s3 (4 min)**  
   *Parent does:* If a cat lives with you, wait until she purrs on her own, then rest a hand gently on her side. If there is no cat, hum low again and rest your hand on your own chest, and skip the question.  
-  *Parent says:* Can you feel the buzz in the cat's body? Is it faster or slower than your hum? When does she purr?  
-  *Child mode:* Rest your hand gently on the cat. Can you feel the purr?
+  *Parent says:* Can you feel the buzz in the cat's body, like the buzz in your throat?  
+  *Child mode:* Rest a hand gently on the cat. No cat? Use your own chest. Feel the buzz.
   - Ask: What do you think a purring cat is saying right now? (good: She is calm and likes being with us.; She wants us to stay close.)
   - Note: Never hold or squeeze a cat to make her purr. A purr is more than 20 vibrations every second, too fast to count.
 ### a2 · Messages Without a Voice: be a cricket and a woodpecker (15 min)
-- **record:** Draw the three messages you made and write who makes each one in nature.
+- **record:** Write who makes each message in nature: the comb chirp, the pencil drumming and the table knock. You can draw them too.
 - **s1 (4 min)**  
   *Parent does:* 1. Hold the comb still. 2. Run the edge of the card quickly along the comb's teeth. 3. Try fast and slow.  
   *Parent says:* A male cricket rubs one wing against the other. One wing has a row of tiny teeth, like this comb. Listen.  
@@ -346,15 +346,15 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   *Child mode:* Drum on the box with the pencil. Slow, then very fast.
   - Note: Woodpeckers drum on dead branches and even on metal poles, because these make a loud sound that carries far.
 - **s3 (5 min)**  
-  *Parent does:* 1. Your child presses one ear flat on the table and covers the other ear. 2. You knock gently at the far end: once, then three times, then a fast roll. 3. Swap.  
-  *Parent says:* Ear on the table. Cover your other ear. How many knocks did you feel? Was it loud through the table?  
-  *Child mode:* Ear on the table. Count the knocks. Then swap.
+  *Parent does:* 1. Your child presses one ear flat on the table and covers the other ear. 2. You knock gently at the far end: once, then three times, then a fast roll. 3. Your child lifts their head and listens to the same knocks through the air. 4. Swap.  
+  *Parent says:* Ear on the table. Cover your other ear. How many knocks do you feel?  
+  *Child mode:* Ear on the table. Count the knocks. Then lift your head and listen again.
   - Ask: Was the knock louder through the table or through the air? (good: Through the table. It was much clearer.; Through the table, I could feel it.)
   - Note: Sound travels well through solid things. Some termites knock their heads on the walls of their tunnels to warn the others. The warning travels through the wood.
 - **s4 (2 min)**  
   *Parent does:* Ask which message would work best in the dark, and which would work far away.  
   *Parent says:* Which of our messages would work in the dark? Which one could a friend hear far away?  
-  *Child mode:* Which message works in the dark? Which one goes far?
+  *Child mode:* Think of the chirp, the drum and the knock. Which would you still hear in the dark?
   - Note: Good answers are the comb chirp and the drumming, because sound needs no light. Drumming on a hard thing, like a dead branch, also carries far.
   - Check: A cricket sings at night in a potted plant. Why is a sound a good message at night? → **Sound works in the dark, when nobody can see a movement**
 ### a3 · Say Hello Like a Cat: the slow blink (if a cat is near) (10 min)
@@ -362,7 +362,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 - **record:** Write how many times the cat blinked slowly with a still face, and how many times after your slow blinks.
 - **s1 (4 min)**  
   *Parent does:* 1. Sit on the floor about two big steps from the cat. 2. For one minute, look at the cat with a still, plain face. 3. Count any slow blinks the cat makes.  
-  *Parent says:* First, just look at the cat with a still face. Does she blink slowly? Let's count.  
+  *Parent says:* First, just look at the cat with a still face. A slow blink is when she closes her eyes for about a second, then opens them. Does she do it? Let's count.  
   *Child mode:* Sit still. Look at the cat. Count her slow blinks.
   - Note: Do not stare hard. A hard stare can feel like a threat to a cat. A soft look is enough.
 - **s2 (4 min)**  
@@ -372,8 +372,8 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   - Note: In 2020, Tasmin Humphrey and Karen McComb tested this with cats in their homes. Cats slow-blinked more after people slow-blinked at them. They also came closer to a stranger who slow-blinked.
 - **s3 (2 min)**  
   *Parent does:* Ask your child what happened and what it might mean.  
-  *Parent says:* Did the cat blink more after your slow blinks? Did she come closer? What do you think she was saying?  
-  *Child mode:* Did she blink back? What was she saying, do you think?
+  *Parent says:* Did the cat blink more after your slow blinks? Did she come closer?  
+  *Child mode:* Compare your two counts. Which minute had more slow blinks?
   - Ask: What might a cat's slow blink mean? (good: I feel safe with you.; Hello, I am friendly.)
 
 ## Projects
@@ -381,7 +381,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 - **record:** A sound dictionary: one row for each sound, with how the sound goes, what was happening, a tally of how many times you heard it, and your guess of the message.
 - **schedule:** day 1: Choose an animal. Listen for 5 minutes. Write each sound and what was happening. (7 min); day 2: Listen to the same animal at about the same time. Add new sounds to the dictionary. (6 min); day 3: Listen again. Then guess what each sound means and write your guesses. (7 min)
 - **s1 (7 min)**  
-  *Parent does:* 1. Choose one animal you can hear from home. 2. Draw three columns: 'How the sound goes', 'What was happening', 'Guess of the message'. 3. Listen for 5 minutes. Write each sound the way it sounds, and what was happening.  
+  *Parent does:* 1. Choose one animal you can hear from home. 2. Make three columns: 'How the sound goes', 'What was happening', 'Guess of the message'. Leave the last column empty until day 3. 3. Listen for 5 minutes. Write each sound the way it sounds, and what was happening.  
   *Parent says:* Let's be animal-talk scientists. Which animal shall we listen to? Each time they make a sound, what is going on?  
   *Child mode:* Choose an animal. Listen. Write each sound and what was happening.
   - Note: Crows and pigeons are around nearly every flat. At night, a gecko's 'tchk-tchk-tchk' on the wall works well. Write the sound in letters, like 'caw-caw' or 'grrr'. A child of this age can say it while you write.
@@ -393,8 +393,8 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   - Wait: Do this on day 2.
 - **s3 (7 min)**  
   *Parent does:* On day 3, listen once more. Then, for each sound, your child guesses the message and says why.  
-  *Parent says:* Look at our dictionary. What do you think each sound means? What is your evidence?  
-  *Child mode:* What does each sound mean? Say why you think so.
+  *Parent says:* Look at our dictionary. What was happening each time you heard each sound?  
+  *Child mode:* Read your dictionary. What do you think each sound means, and why?
   - Ask: Which sound are you most sure about? Why? (good: The loud caw, because every time it came, a cat was on the wall.; The coo, because the pigeon cooed whenever another pigeon came close.)
   - Note: A guess backed by 'every time X happened, they made this sound' is real science. Scientists then test a guess by playing the sound back and watching.
   - Wait: Do this on day 3.
@@ -409,7 +409,7 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
 - **s1 (3 min)**  
   *Parent does:* Tell your child about the tree cricket. Read the problem together.  
   *Parent says:* A tree cricket chews a hole in a leaf and sings through it. The leaf makes his song much louder. Can we make a phone louder like that?  
-  *Child mode:* A tree cricket sings through a hole in a leaf. The leaf makes him louder. Can you do that for a phone?
+  *Child mode:* Your job: make the phone's music reach farther, using only things from home.
   - Note: This is real. Natasha Mhatre, Rohini Balakrishnan and their team studied tree crickets in India. In 2017 they showed that the leaf makes the male's song louder, and that the crickets pick leaves of a good size and make the hole in a good place.
 - **s2 (4 min)**  
   *Parent does:* 1. Play music on the phone at a low loudness. 2. Lay the phone on the table. 3. Your child walks away slowly, counting steps, until they cannot hear the music. 4. Write the number of steps.  
@@ -423,9 +423,9 @@ Rohan looked out of the window at the gate. Rani was asleep under the light. "Ca
   - Ask: Which design let you walk the most steps away? (good: The tumbler. I could hear it from the kitchen.; The tube with the cups, because the sound came out of both ends.)
   - Note: A tumbler, bowl or cone may make the music a little louder, because the hard sides send more of the sound the same way. The difference can be small. If you hear no difference, write that down. It is a real result, and another shape may do better.
 - **s4 (3 min)**  
-  *Parent does:* Ask why the designs worked, and why a cricket might want to be loud.  
-  *Parent says:* Why do you think the tumbler or cone changed the music? Why might a cricket want to be loud?  
-  *Child mode:* Why was it louder? Why does a cricket want to be loud?
+  *Parent does:* Ask whether any design helped, and why. Then ask the question below.  
+  *Parent says:* Did your design change how far the music went? Why do you think it did, or did not?  
+  *Child mode:* Compare your step counts. Did any design help? Why do you think so?
   - Check: Why does a male tree cricket want his song to be loud? → **So female crickets far away can hear him and come to him**
 
 ## Worksheets

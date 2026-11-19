@@ -280,7 +280,7 @@
    "title": "The Stop Test: can you stop your knee kick by trying?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment a grown-up taps just below your kneecap, 5 times in each of three ways. First you just relax. Then you try as hard as you can not to kick. Then you hook your fingers together and pull hard. You count the kicks and how big they are each time.",
+   "context": "You will find out whether you can stop your own knee from kicking just by trying. A grown-up taps just below your kneecap, 5 times in each of three ways. First you just relax. Then you try as hard as you can not to kick. Then you hook your fingers together and pull hard. You count the kicks and how big they are each time.",
    "question": "Can you stop a born-with action, like your knee kick, just by trying hard?",
    "predict": "Guess first. When you try as hard as you can not to kick, will your leg still kick? And when you pull your hooked fingers hard, will the kick be smaller, the same or bigger? Why do you think so?",
    "fair_test": "The same grown-up taps the same spot below the same knee, gently, with the side of the hand, 5 times in each way. You always look away, so that you cannot see the tap coming. We use 5 taps each time, because one tap can miss the spot.",
@@ -307,7 +307,7 @@
      "what": "Guess, then tap 5 times in each of three ways, count the kicks, test a grown-up's knee, and talk about what happened."
     }
    ],
-   "record": "Fill in the results table for the three ways. Draw your leg three times, with a short arrow for a small kick and a long arrow for a big kick.",
+   "record": "Fill in the results table for the three ways. Then say in one sentence what you found, and a grown-up writes it under the table.",
    "setup": [
     {
      "art": "A girl sitting on the edge of a bed with her legs hanging free, looking away, while a grown-up taps gently just below her kneecap with the side of her hand.",
@@ -331,15 +331,15 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Find a bed or table where your child can sit with feet hanging free. 2. Draw the results table on the paper. Your child can tell you what to write.",
-     "say": "Your knee has a born-with action. Nobody taught it to you. Today we find out if you are the boss of it.",
-     "kid": "Sit where your feet hang free. Let your legs hang loose."
+     "say": "Your knee has a born-with action. Nobody taught it to you. Today we find out if you can stop it.",
+     "kid": "Sit on the bed or table with your feet hanging free."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Ask your child to guess, and why. Write the guess on the paper.",
-     "say": "When I tap your knee and you try hard not to kick, will your leg still kick? And if you pull your fingers hard, what will the kick do? Why do you think so?",
-     "kid": "Guess. Can you stop the kick if you try? Why?",
+     "say": "When I tap your knee and you try hard not to kick, will your leg still kick? And if you pull your fingers hard, will the kick get smaller, stay the same or get bigger?",
+     "kid": "Make a guess about your leg. Then tell your grown-up your reason.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -401,8 +401,8 @@
      "id": "s7",
      "mins": 3,
      "do": "Ask what your child thinks, what they saw, and why.",
-     "say": "Look at your table. Could you stop the kick by trying? When was it biggest? Why do you think that happened?",
-     "kid": "Look at your table. Could you stop the kick? When was it biggest?",
+     "say": "Look at your table. Could you stop the kick by trying? When was it biggest?",
+     "kid": "Point to the way that gave the biggest kicks.",
      "ask": [
       {
        "q": "Why is the kick so hard to stop?",
@@ -435,7 +435,7 @@
    "title": "Web Watch: a web that nobody taught (if you find a web)",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look for a spider web in your home or on the balcony, and look closely at the pattern. The spider spun this web with no teacher.",
+   "context": "You will look for a spider web at home and see what shape the web is. The spider spun this web with no teacher, so you can ask how she knew how.",
    "materials": [
     {
      "item": "a torch",
@@ -455,10 +455,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Find a web, shine a torch on it, draw the pattern and look for the spider."
+     "what": "Find a web, shine a torch on it, look closely at the pattern, draw it or photograph it, and look for the spider."
     }
    ],
-   "record": "A drawing of the web, with the spider drawn where you found her.",
+   "record": "A drawing or photo of the web, and the number of spokes you counted. Say where the spider was.",
    "setup": [
     {
      "art": "A torch beam lighting up a round spider web between two bars of a balcony grill at dusk, with the threads shining.",
@@ -466,7 +466,7 @@
     },
     {
      "art": "A notebook drawing of a round web with spokes and a spiral, and a messy tangle web from a ceiling corner beside it.",
-     "caption": "2. Draw the pattern you see."
+     "caption": "2. Look at the pattern. Draw it, or take a photo."
     }
    ],
    "flow": [
@@ -474,22 +474,22 @@
      "id": "s1",
      "mins": 6,
      "do": "Search together: ceiling corners, behind cupboards, window frames, balcony grills and plant pots. Shine the torch from the side, so the threads shine.",
-     "say": "Spiders spin webs in quiet corners. Let's look. Shine the torch from the side. Can you see the threads?",
+     "say": "Spiders spin webs in quiet corners. Let's look. Can you see the threads?",
      "kid": "Look in corners and on the balcony. Shine the torch from the side.",
      "parent": "Most flats have at least one web in a corner. House spiders often spin messy tangle webs. Spiders that spin round webs are more often on balconies and in plants, and many spin at dusk. If you find no web, try again at dusk tomorrow, when round webs are spun."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Your child draws the web. Look for spokes, a spiral, or a tangle.",
-     "say": "Is this web round, with spokes and a spiral, or a messy tangle? Draw what you see.",
-     "kid": "Draw the web. Is it round, or a tangle?"
+     "do": "Your child looks closely at the web and counts the spokes, which are the straight lines from the middle outwards. A tangle web has none. Then they draw it, or take a photo.",
+     "say": "Is this web round, with spokes and a spiral, or a messy tangle?",
+     "kid": "Count the spokes you can see, or say there are none. Then draw the web, or take a photo."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Talk about who taught the spider.",
-     "say": "Most spider mothers are not there to teach their babies. Each kind of spider spins the web of her own kind. How do you think she knows how?",
+     "say": "Most spider mothers are not there to teach their babies. Each kind of spider spins the web of her own kind.",
      "kid": "Who taught this spider? How does she know how to spin?",
      "think": "If you saw a round web and a tangle web, were they spun by the same kind of spider?",
      "parent": "Not usually. Each kind of spider spins the web shape of her own kind, so a round web and a tangle web were most likely spun by different kinds of spider."
@@ -501,7 +501,7 @@
    "title": "A Newborn's Grip (only if there is a baby under three months in the family)",
    "mins": 10,
    "days": 1,
-   "context": "In this activity, if there is a very young baby in the family or among friends, you gently feel the grip that every baby is born with. Do this only with the parent's permission.",
+   "context": "You will find out that a newborn baby can hold a finger tight, with no teaching. If there is a very young baby in the family or among friends, you gently feel the grip that every baby is born with. Do this only with the baby's parent there and saying yes.",
    "materials": [
     {
      "item": "clean, washed hands",
@@ -516,7 +516,7 @@
      "what": "With the parent's permission, put a finger in the baby's palm and feel the grip."
     }
    ],
-   "record": "Draw the baby's hand around your finger. Write how long the baby held on.",
+   "record": "Count in your head how many seconds the baby held on. A grown-up writes the number down.",
    "setup": [
     {
      "art": "A girl washing her hands with soap at a steel sink.",
@@ -540,8 +540,8 @@
      "id": "s2",
      "mins": 5,
      "do": "With the parent holding the baby, your child lays one finger gently across the baby's open palm, and waits.",
-     "say": "Put one finger gently across the baby's palm. Don't push. Just wait. What does the baby do?",
-     "kid": "Put one finger in the baby's palm. Wait. What happens?",
+     "say": "Put one finger gently across the baby's palm, the flat part of the open hand. Don't push. Just wait.",
+     "kid": "Wait and count the seconds. Does the baby hold on?",
      "adult": true,
      "ask": [
       {
@@ -558,8 +558,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Talk about it afterwards.",
-     "say": "Nobody taught the baby to grip. Who else is born knowing how to do something?",
-     "kid": "Who taught the baby to grip? What else are babies born knowing?",
+     "say": "Nobody taught the baby to grip. What else can a baby do on the first day, without being taught?",
+     "kid": "Tell your grown-up one more thing babies can do from the first day.",
      "check": {
       "t": "mcq",
       "q": "Why does a newborn baby grip a finger?",
@@ -579,7 +579,7 @@
    "title": "Born Ready for Any Language: can you say 'zh'?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you try to say a sound from Tamil and Malayalam, the 'zh' in 'Tamizh' and 'mazhai'. You find out which people you know can say it easily, and which of them learned it as a baby.",
+   "context": "In this activity you try to say a sound from Tamil and Malayalam, the 'zh' in 'Tamizh' and 'mazhai'. You will find out why some people say it easily and others find it hard.",
    "materials": [
     {
      "item": "a family member who speaks Tamil or Malayalam, or a phone recording of these words",
@@ -614,7 +614,7 @@
      "mins": 4,
      "do": "Listen to someone say 'Tamizh' (the name of the Tamil language) and 'mazhai' (rain) and 'vaazhaipazham' (banana).",
      "say": "Listen to this sound. It is in Tamil and Malayalam. 'Tamizh'. 'Mazhai'. Can you hear the 'zh'?",
-     "kid": "Listen. 'Tamizh'. 'Mazhai'. Can you hear the 'zh' sound?",
+     "kid": "Listen for the 'zh' sound in the middle of each word.",
      "parent": "To make the sound, curl the tip of your tongue up and back, and let the sound flow without the tongue touching the roof of the mouth. If nobody at home speaks Tamil or Malayalam, many free videos and dictionary apps say these words aloud."
     },
     {
@@ -637,7 +637,7 @@
      "mins": 3,
      "do": "Look at the table together.",
      "say": "Who found it easy? Did they hear Tamil or Malayalam as babies? Were they born knowing the sound, or did they learn it?",
-     "kid": "Who found it easy? Did they learn the sound as a baby?",
+     "kid": "Point to the people who found it easy. Which language did they hear as babies?",
      "check": {
       "t": "mcq",
       "q": "A baby is born in Bengaluru to a family who speak Malayalam at home. Which sounds will she learn to say easily?",
@@ -660,7 +660,7 @@
    "title": "Born Ready, Learn Steady: a race through the first year",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a board race. Each player is a baby animal. Some cards show born-with know-how, which works at once. Other cards show learning, which takes time but helps when something new happens.",
+   "context": "In this board race, each player is a baby animal. You will find out which things a baby animal can do from birth, and which have to be learned. Cards about born-with know-how work at once. Cards about learning take time, but they help when something new happens.",
    "setup": [
     {
      "art": "A paper board of 20 squares in a snake shape, from 'Born' to 'One year old', with squares 5, 10 and 15 marked 'Say it!' and small counters made of coins or buttons at the start.",
@@ -782,7 +782,7 @@
     }
    ],
    "rules": [
-    "Print the board, or draw 20 squares on a big sheet of paper, in a snake shape. Write 'Born' on the first square and 'One year old' on the last. Number the squares.",
+    "Print the board, or draw 20 squares on a big sheet of paper, or lay out 20 pieces of paper on the floor, in a snake shape. Write 'Born' on the first square and 'One year old' on the last. Number the squares.",
     "Each player uses a coin or a button as a counter, and starts on 'Born'.",
     "Mix the cards and put them face down in a pile.",
     "Take turns. Turn over the top card, read the front aloud, then read the back and move as it says. You can never go back past 'Born'.",
@@ -794,19 +794,19 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Print or draw the board of 20 squares. 2. Cut out the 16 cards. 3. Give each player a coin or a button.",
+     "do": "1. Print the board, or lay out 20 pieces of paper on the floor in a snake shape. Number them. Write 'Born' on the first, 'One year old' on the last, and 'Say it!' on squares 5, 10 and 15. 2. Cut out the 16 cards. 3. Give each player a coin or a button.",
      "say": "Let's make the board. Twenty squares, from the day you are born to your first birthday.",
-     "kid": "Draw 20 squares. Start on 'Born'."
+     "kid": "Help lay out the squares. Put your counter on 'Born'."
     },
     {
      "id": "s2",
      "mins": 13,
      "do": "Play. On each card, ask: is this born-with know-how, or learning?",
-     "say": "A street light fooled the hatchling! Was that born-with know-how or learning? Why did it go wrong?",
-     "kid": "Read your card. Is it born ready, or learning? Move.",
+     "say": "Read your card aloud. Is it born-with know-how, or learning? Then move as the back says.",
+     "kid": "Read your card aloud. Say if it is born ready or learning. Then move.",
      "ask": [
       {
-       "q": "Why did the street light card send you back?",
+       "q": "Why did the street light card send the hatchling back?",
        "good": [
         "The hatchling follows the brightest light, and the street light was brighter.",
         "Her born-with know-how did not expect a street light."
@@ -819,7 +819,7 @@
      "mins": 3,
      "do": "Talk about it after the game.",
      "say": "Born-with know-how works at once. Learning takes tries. Which one helped when something new happened, like the new balcony with rice?",
-     "kid": "Which helped with something new: born ready, or learning?",
+     "kid": "Think about the crow chick and the new balcony.",
      "check": {
       "t": "mcq",
       "q": "A crow chick finds a new balcony that puts out rice. How does she come back at the right time?",
@@ -840,7 +840,7 @@
    "title": "Turtle Run: find the sea in the dark",
    "mins": 15,
    "players": "2 to 5 players",
-   "context": "This is a game about olive ridley turtle hatchlings on the beaches of Odisha and Chennai. Hatchlings are born knowing to crawl towards the brighter sky over the sea. In a dark room, a torch is the bright sky over the sea. Then a street light comes on. You play together as one group of hatchlings, and try to reach the sea on as many nights as you can.",
+   "context": "This is a game about olive ridley turtle hatchlings on the beaches of Odisha and Chennai. Hatchlings are born knowing to crawl towards the brighter sky over the sea. In a dark room, a torch is the bright sky over the sea. Then a street light comes on. You play together as one group of hatchlings, and try to reach the sea on as many nights as you can. You will find out why bright lights near a beach send baby turtles the wrong way.",
    "setup": [
     {
      "art": "A dark room with a child crouched on a mat at one end, and at the other end a torch standing on the floor, leaning on a book and pointing at the ceiling to make a soft glow, with a grown-up beside it.",
@@ -907,7 +907,7 @@
      "mins": 3,
      "do": "1. Clear the floor and make the room dark. 2. Stand the sea torch on the floor at one end, and the second torch on a chair by the side wall. 3. The hatchlings crouch at the far end.",
      "say": "You are baby turtles, just out of the sand. Nobody can show you the way to the sea. You only know one thing: crawl to the brightest light.",
-     "kid": "You are a baby turtle. Crawl to the brightest light you see.",
+     "kid": "Crouch at the far end with your eyes closed. You are a baby turtle.",
      "adult": true,
      "parent": "Keep the floor clear and keep the crawling slow, so nobody is hurt in the dark. With only two of you, the grown-up is the sea and the reader, and the child is the hatchling."
     },
@@ -915,7 +915,7 @@
      "id": "s2",
      "mins": 10,
      "do": "Read each night card and do what the back says. Count the nights you reach the sea.",
-     "say": "A street light comes on! Which way will you crawl?",
+     "say": "Here is tonight's card. Open your eyes. Which light is brightest?",
      "kid": "Listen to the card. Crawl slowly to the brightest light.",
      "ask": [
       {
@@ -926,14 +926,14 @@
        ]
       }
      ],
-     "parent": "On a dark beach, the sky over the sea is usually brighter than the land behind the beach. Hatchlings are born knowing to crawl towards it. Lights from roads, houses and shops can lead them the wrong way."
+     "parent": "Ask the question below on a night when the hatchlings crawled to the side torch. On a dark beach, the sky over the sea is usually brighter than the land behind the beach. Hatchlings are born knowing to crawl towards it. Lights from roads, houses and shops can lead them the wrong way."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Talk about it.",
-     "say": "The hatchlings were born knowing the way. What can people do so that the hatchlings' born-with know-how leads them to the sea?",
-     "kid": "How can people help baby turtles find the sea?",
+     "say": "The hatchlings were born knowing the way, but lights on land fooled them. What can people do so that they still reach the sea?",
+     "kid": "Think of one way to help the baby turtles.",
      "check": {
       "t": "mcq",
       "q": "A shop near a turtle beach puts a dark shade over the bright sign. What will the hatchlings do?",
@@ -955,7 +955,7 @@
    "title": "Night Light Count: three nights at the window",
    "mins": 30,
    "days": 3,
-   "context": "Turtle hatchlings are born knowing to crawl to the brightest light, which is usually the sky over the sea. In this project you count the lights you can see from your window at night, for three nights, and make a poster about which lights could be switched off.",
+   "context": "Turtle hatchlings are born knowing to crawl to the brightest light, which is usually the sky over the sea. In this project you count the lights you can see from your window at night, for three nights, and decide which lights could be switched off. You show your answer as a poster, or by telling your family.",
    "materials": [
     {
      "item": "a notebook and pencil",
@@ -980,10 +980,10 @@
     {
      "day": 3,
      "mins": 14,
-     "what": "Count for the last time. Then make a poster: which lights could be dimmed or switched off near a turtle beach?"
+     "what": "Count for the last time. Then make a poster or give a short talk: which lights could be dimmed or switched off near a turtle beach?"
     }
    ],
-   "record": "A tally table for each night, and a poster.",
+   "record": "A tally table for each night, and a poster or a short talk.",
    "setup": [
     {
      "art": "A child at a flat window at night, looking out at street lights, lit windows and a glowing shop sign, with a notebook of tally marks.",
@@ -991,7 +991,7 @@
     },
     {
      "art": "A child's poster showing a dark beach with turtle hatchlings crawling to a glowing sea, and a shop behind with its lights crossed out.",
-     "caption": "2. On day 3, make a poster about lights and turtles."
+     "caption": "2. On day 3, make a poster about lights and turtles, or tell your family."
     }
    ],
    "flow": [
@@ -999,8 +999,8 @@
      "id": "s1",
      "mins": 8,
      "do": "At 8 in the evening, your child counts the lights they see from one window, for 5 minutes. They make tally marks in four groups: street lights, homes, shops and signs, vehicles.",
-     "say": "Let's count the lights we can see. Make a tally mark for each one. Is it a street light, a home, a shop or a vehicle?",
-     "kid": "Count the lights you see. Make a tally mark for each one.",
+     "say": "Let's count the lights we can see. Make a tally mark for each one. Is it a street light, a home, a shop or sign, or a vehicle?",
+     "kid": "Make a tally mark for each light. Put it in the right group.",
      "adult": true,
      "parent": "Stay with your child at the window or balcony. A child should never lean out. If your window shows only a few lights, count what you can. Fewer lights is fine."
     },
@@ -1015,9 +1015,9 @@
     {
      "id": "s3",
      "mins": 14,
-     "do": "On day 3, count for the last time. Then your child makes a poster: which lights near a beach could be switched off or shaded in turtle season?",
+     "do": "On day 3, count for the last time. Then your child shows which lights near a beach could be switched off or shaded in turtle season. They can make a poster, or explain it to the family.",
      "say": "If our street were next to a turtle beach, which of these lights would lead the hatchlings the wrong way? Which ones could we switch off?",
-     "kid": "Count once more. Then make a poster to help baby turtles.",
+     "kid": "Count once more. Then make a poster, or give a talk, to help baby turtles.",
      "wait": "Do this on day 3.",
      "ask": [
       {
@@ -1049,7 +1049,7 @@
    "id": "c1",
    "title": "Beak Weaving: weave like a baya",
    "mins": 25,
-   "context": "This is a design challenge. A male baya weaver weaves a hanging nest of grass strips using only his beak and feet. Now you weave a small mat from paper strips, using only the thumb and first finger of one hand, like a beak.",
+   "context": "You will find out how hard a weaver bird's job is, and whether practice makes you better at it. A male baya weaver weaves a hanging nest of grass strips using only his beak and feet. Now you weave a small mat from paper strips, using only the thumb and first finger of one hand, like a beak.",
    "problem": "Weave a small mat from paper strips, using one hand as a beak. Does the mat stay together when you lift it by the pencil? Does it hold 10 chana when it lies flat?",
    "constraints": [
     "Weave with only the thumb and first finger of one hand. Your other hand may only hold the pencil, like a branch.",
@@ -1089,7 +1089,7 @@
      "mins": 3,
      "do": "Read the challenge together. Talk about how a baya weaves his nest with only his beak and feet.",
      "say": "A baya weaves a hanging nest with only his beak. Can you weave a mat with only two fingers of one hand?",
-     "kid": "Weave a mat with only two fingers. Can it hold 10 chana?"
+     "kid": "Hold a strip with your thumb and first finger, like a beak. Can you do it?"
     },
     {
      "id": "s2",
@@ -1104,7 +1104,7 @@
      "mins": 12,
      "do": "1. Lift the first mat by the pencil. Does it stay together? 2. Lay it flat and put 10 chana on it. 3. Weave a second mat. 4. Test it too.",
      "say": "How many chana stayed on? Now weave a second one. What will you do differently?",
-     "kid": "Test it. Then weave a second mat. Is it better?",
+     "kid": "Lift the mat and add the chana. Count how many stay on. Then weave a second mat.",
      "ask": [
       {
        "q": "Why was your second mat better?",

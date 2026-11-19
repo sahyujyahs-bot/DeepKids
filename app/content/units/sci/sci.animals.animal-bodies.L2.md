@@ -232,24 +232,24 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 
 ## Games
 ### g1 · Message Relay: who can get there? (15 min)
-- **rules:** Before you play, draw each animal on that animal's card, so that a child who cannot read yet can play.; Lay the 8 animal cards face up in a row. Put a coin on Start as the message.; Mix the 12 place cards and put them face down in a pile.; Turn over the top place card and read the place aloud, but do not read the back.; The team chooses one animal who can get through that place, and says how: with legs, wings, fins, sticky toes or the whole body. If the team is stuck, read the back aloud and choose from it.; Check the back. If your animal is named there, move the message one square forward. If not, nothing moves, and you choose again.; Each animal can carry the message only twice. When an animal has gone twice, turn that card face down to rest.; If every animal who can get through is resting, turn all 8 animal cards face up again. You can do this only once in a game. If it happens again, put the place card aside, and the message stays where it is.; The game ends when all 12 place cards are used. The team wins if the message is at Home. If not, count how many squares the message moved, and play again to beat that number.
+- **rules:** Before you play, say the name of each animal card aloud together. Write 'me' on the human card. Then a child who cannot read yet can play.; Lay the 8 animal cards face up in a row. Put a coin on Start as the message.; Mix the 12 place cards and put them face down in a pile.; Turn over the top place card and read the place aloud, but do not read the back.; The team chooses one animal who can get through that place, and says how: with legs, wings, fins, sticky toes or the whole body. If the team is stuck, read the back aloud and choose from it.; Check the back. If your animal is named there, move the message one square forward. If not, nothing moves, and you choose again.; Each animal can carry the message only twice. When an animal has gone twice, turn that card face down to rest.; If every animal who can get through is resting, turn all 8 animal cards face up again. You can do this only once in a game. If it happens again, put the place card aside, and the message stays where it is.; The game ends when all 12 place cards are used. The team wins if the message is at Home. If not, count how many squares the message moved, and play again to beat that number.
 - **Printable cards: 8 animal cards to cut out, with how they move on the back:** Duck (back: Walks on two webbed feet, swims by paddling, and flies with wings.) [picture]; Frog (back: Hops with long back legs, and swims by kicking webbed feet.) [picture]; Rohu fish (back: Swims with a tail fin and steers with side fins. Cannot leave the water.) [picture]; Snake (back: Slides by pushing curves of the body on bumps. Swims and climbs too.) [picture]; Crow (back: Walks and hops on two legs, and flies with wings.) [picture]; Gecko (back: Runs on four legs, and climbs walls and ceilings with gripping toes.) [picture]; Ant (back: Walks on six legs, climbs walls, and fits through tiny cracks.) [picture]; You, a human (back: Walks, runs and jumps on two legs. Climbs with hands and feet.)
 - **Printable cards: 12 place cards to cut out, with who can get through on the back:** 1. A pond (back: Swimmers can cross: duck, frog, rohu fish, snake.); 2. A dry, dusty road (back: Walkers and sliders can cross: duck, frog, snake, crow, gecko, ant, you. Not the fish.); 3. A tall, smooth wall (back: Climbers and fliers can get over: gecko, ant, crow, duck.); 4. A wide river (back: Swimmers and fliers can cross: duck, rohu fish, crow, snake, frog.); 5. A tiny crack in the wall (back: Only very small bodies fit: ant, gecko.); 6. Up to a high branch (back: Climbers and fliers can get there: crow, gecko, ant, snake, you.); 7. Down to the mud at the bottom of a pond (back: Divers can get there: rohu fish, frog, snake.); 8. A ditch too wide to step over (back: Jumpers and fliers can cross: frog, you, crow, duck.); 9. High in the sky over the city (back: Only fliers can go: crow, duck.); 10. Upside down along a ceiling (back: Only grippers can go: gecko, ant.); 11. The middle of a deep lake (back: Strong swimmers can get there: rohu fish, duck.); 12. Inside a narrow pipe (back: Long thin bodies and tiny bodies fit: snake, ant, gecko.)
 - **Printable board: A track of 13 squares to draw on paper:** Start; 1; 2; 3; 4; 5; 6; 7; 8; 9; 10; 11; Home: the message has arrived
 - **s1 (4 min)**  
-  *Parent does:* 1. Cut out the cards and draw the animals together. 2. Draw the track. 3. Lay out the animal cards and put the coin on Start.  
+  *Parent does:* 1. Cut out the cards. 2. Draw the track of 13 squares on paper. 3. Lay out the animal cards, write 'me' on the human card, and put the coin on Start.  
   *Parent says:* We have to get a message all the way home. These animals will carry it for us.  
-  *Child mode:* Draw the animals. Put the coin on Start.
+  *Child mode:* Look at each animal card. Put the coin on Start.
 - **s2 (9 min)**  
   *Parent does:* 1. Turn over a place card. 2. Your child chooses an animal and says how that animal gets through. 3. Check the back and move the message.  
-  *Parent says:* A tiny crack in the wall! Who can get through? How?  
-  *Child mode:* Who can get through? How do they move?
+  *Parent says:* Read the place card, such as: a tiny crack in the wall. Which animal can get through? How does that animal move?  
+  *Child mode:* Pick an animal who can get through. Tell how that animal moves.
   - Ask: Why can the crow cross the wide river, but not the narrow pipe? (good: The crow can fly over the river.; The crow is too big for the pipe, and her wings don't fit.)
   - Note: Let your child plan ahead. Only the ant and the gecko can go along the ceiling, so they should be saved for that card.
 - **s3 (2 min)**  
   *Parent does:* When the game ends, ask the check question.  
   *Parent says:* Which animal could get through the most places? Which could get through the fewest?  
-  *Child mode:* Who could go to the most places?
+  *Child mode:* Count the places each animal could go.
   - Note: Count the places on the back of each place card. The duck can get through the most places, seven, because a duck can walk, swim and fly. A human can get through the fewest, three.
   - Check: Which animal could go only where there is water? → **The rohu fish**
 ### g2 · Mouth Detective: guess the animal from the mouth (15 min)
@@ -278,7 +278,7 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 - **predict:** Guess first. Which jump will go farthest: straight legs, a small bend, or a big bend? Why do you think so?
 - **fair test:** The same child jumps every time, from the same start line, with both feet together and hands on hips. Hands on hips stop the arms from helping, so only the knee bend changes. We try each way three times, because one jump can be lucky or unlucky, and we keep the longest.
 - **safety:** Jump barefoot on a dry floor, or on a dhurrie or mat that does not slide. Socks on tiles are slippery. Move chairs and tables out of the way, and land with soft, bent knees.
-- **record:** Fill in the results table. Draw a stick picture of yourself just before your longest jump.
+- **record:** Fill in the results table. Then take a photo, or draw a stick picture, of yourself just before your longest jump.
 - **results table:** How I bent my knees | Jump 1 | Jump 2 | Jump 3 | Longest jump
 - **s1 (3 min)**  
   *Parent does:* 1. Clear about 2 metres of floor. 2. Lay the dupatta straight across the floor as the start line. 3. Your child stands with toes just behind the line, feet together, hands on hips.  
@@ -286,8 +286,8 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
   *Child mode:* Stand with your toes behind the line. Put your hands on your hips.
 - **s2 (3 min)**  
   *Parent does:* Show the three ways to jump: with straight legs, with a small bend, and with a big bend like sitting on a low stool. Ask for a guess and a reason. Write the guess down.  
-  *Parent says:* Which jump do you think will go farthest? Why do you think so?  
-  *Child mode:* Which jump will go farthest? Straight, small bend or big bend? Why?
+  *Parent says:* Which jump do you think will go farthest?  
+  *Child mode:* Guess which jump will go farthest: straight legs, a small bend or a big bend.
   - Ask: Why do you think so? (good: The big bend, because a frog crouches low.; Straight legs, because my legs are longer when they are straight.)
   - Note: Any guess is fine. Write it down exactly as your child says it. Do not explain anything yet. The test will answer it.
 - **s3 (5 min) · grown-up needed**  
@@ -306,29 +306,29 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
   - Note: Do not let your child squat all the way down to the floor. A bend about as low as a small stool is enough. If they wobble, let them rest and try again.
 - **s6 (2 min)**  
   *Parent does:* Circle the longest jump for each way. Put the three longest jumps in order, from shortest to longest.  
-  *Parent says:* Let's find your longest jump for each way. Which way won?  
-  *Child mode:* Circle your longest jumps. Which way went farthest?
+  *Parent says:* Let's find your longest jump for each way.  
+  *Child mode:* Circle your longest jump for each way.
   - Check: Which jump usually goes farthest? → **A big bend, like sitting on a low stool**
 - **s7 (2 min)**  
   *Parent does:* Ask your child what they think now, what they saw, and why. Then tell them about the frog's folded legs.  
-  *Parent says:* So, what did you find out? What did you see? Why do you think it happened?  
-  *Child mode:* What did you find? Why did bending help?
+  *Parent says:* So, what did you find out? What did you see?  
+  *Child mode:* Look at your numbers. Tell your grown-up what you found.
   - Ask: Why did the big bend make you jump farther? (good: My legs pushed on the floor for longer.; When my legs straightened, they pushed me hard.; Straight legs had nothing left to straighten.)
   - Note: A strong answer says what happened (claim), gives the numbers (evidence), and says why: the legs push only while they are straightening, so a bigger bend means a longer push. Then tell your child that a frog's long back legs fold up in a Z, so the frog gets a very long push.
 ### e2 · Press or Grind: how does a cow chew grass? (20 min)
 - **question:** Which way breaks a leaf into small bits: pressing straight down, or rubbing round and round?
 - **predict:** Guess first. Will pressing down hard or rubbing round and round break the leaf up more? Why do you think so?
 - **fair test:** We use the same kind of leaf, the same tumbler and the same plate. We move the tumbler 10 times each way, and press about as hard each time. Only the way of moving changes. We try each way with two leaves, because one leaf can be tougher than another.
-- **record:** Stick or draw one pressed leaf and one rubbed leaf side by side, and write which way made smaller bits.
+- **record:** Stick one pressed leaf and one rubbed leaf side by side on paper, or take a photo. Write which way made smaller bits.
 - **results table:** Way of crushing | What the leaf looked like after 10 moves | Any green juice on the plate?
 - **s1 (3 min)**  
   *Parent does:* 1. Put two leaves at one side of the plate and two at the other. 2. Show the two ways to crush a leaf with the bottom of the tumbler: press straight down and lift, or press and rub round and round.  
-  *Parent says:* The tumbler is our tooth, and the plate is another tooth. We can crush the leaf two ways.  
-  *Child mode:* The tumbler is a tooth. The plate is a tooth too.
+  *Parent says:* The tumbler is one tooth, and the plate is another. They can crush the leaf in two ways.  
+  *Child mode:* Pretend the tumbler and the plate are two teeth. Watch how your grown-up crushes a leaf.
 - **s2 (2 min)**  
   *Parent does:* Ask for a guess and a reason. Write it down.  
-  *Parent says:* Which way will break the leaf into smaller bits, pressing or rubbing? Why do you think so?  
-  *Child mode:* Pressing or rubbing: which breaks the leaf more? Why?
+  *Parent says:* Which way will break the leaf into smaller bits, pressing or rubbing?  
+  *Child mode:* Pick one and say why you think so.
 - **s3 (4 min)**  
   *Parent does:* 1. Your child presses the tumbler straight down on one leaf and lifts it, 10 times. 2. Do the same on the second leaf. 3. Look closely at both.  
   *Parent says:* Press straight down and lift. Count to ten. Press hard, like squeezing a lime.  
@@ -336,55 +336,55 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
   - Note: Pressed leaves usually go flat and get dark, bruised marks, and may leave a little juice, but they mostly stay in one piece. Leaves differ: curry leaves are tough and spinach is soft. If the result is not clear, count the bits.
 - **s4 (4 min)**  
   *Parent does:* 1. Now your child presses the tumbler on a new leaf and rubs it round and round and side to side, 10 times. 2. Do the same on the last leaf. 3. Compare all four.  
-  *Parent says:* Now press and rub round and round. Count to ten. What happens to this leaf?  
-  *Child mode:* Press and rub round and round, ten times. What happens?
+  *Parent says:* Now press and rub round and round. Count to ten.  
+  *Child mode:* Press and rub round and round, ten times. Look at the leaf.
   - Ask: What do the rubbed leaves look like? (good: They are torn into little bits.; There is green juice on the plate.; They are mushy.)
   - Note: Rubbed leaves tear into shreds and leave a green smear on the plate. Rubbing breaks the leaf because the tumbler and the plate slide past each other. That tears the leaf instead of only squeezing it.
 - **s5 (4 min)**  
   *Parent does:* 1. Your child puts two fingers on each cheek, just in front of the ears. 2. Then they chew a piece of roti slowly. 3. Ask how the jaw moves.  
-  *Parent says:* Put your fingers here, in front of your ears. Now chew slowly. Does your jaw only go up and down?  
-  *Child mode:* Fingers on your cheeks. Chew slowly. How does your jaw move?
+  *Parent says:* Put your fingers here, in front of your ears. Now chew slowly and feel your jaw.  
+  *Child mode:* Fingers on your cheeks. Chew slowly. Feel your jaw.
   - Ask: How does your jaw move when you chew? (good: Up and down, and a little bit side to side.; It goes round a bit.)
   - Note: People's jaws move up and down and also a little from side to side, so our back teeth can grind. A cow's jaw swings far from side to side, and her wide molars rub the grass into a mush. A tiger's jaw moves mostly up and down, and her back teeth cut meat like scissors.
 - **s6 (3 min)**  
   *Parent does:* Ask what your child thinks now, what they saw, and why.  
-  *Parent says:* Which way broke the leaf more? So why does a cow move her jaw from side to side?  
-  *Child mode:* Which way broke the leaf? Why does a cow chew side to side?
+  *Parent says:* Which way made smaller bits? Now think about a cow.  
+  *Child mode:* Look at all four leaves again. Point to the one with the smallest bits.
   - Check: A cow eats grass all day. Why does her jaw move from side to side? → **So her flat back teeth rub the grass into tiny bits**
 
 ## Activities
 ### a1 · Ready, Steady, Crouch: how jumpers get ready (8 min)
-- **record:** Draw one animal just before a jump.
+- **record:** Draw one animal just before a jump, or strike the pose again and take a photo.
 - **s1 (4 min)**  
   *Parent does:* 1. Call out a frog, a cat and a grasshopper, one at a time. 2. Your child shows how that animal gets ready to jump. 3. Then they make one small, soft jump.  
-  *Parent says:* Be a frog on a wet path. Get ready to jump. Now be a cat who wants to jump onto a wall.  
-  *Child mode:* Be a frog. Get ready to jump! Now be a cat.
+  *Parent says:* Be a frog on a wet path. Get ready to jump. Now be a cat who wants to jump onto a wall. Last, be a grasshopper with big back legs.  
+  *Child mode:* Be a frog, then a cat, then a grasshopper. Get ready to jump each time.
   - Note: A frog sits low with legs folded. A cat crouches, wiggles a little and stares at the wall. A grasshopper's big back legs are folded high, like a bent letter V.
 - **s2 (4 min)**  
   *Parent does:* Ask what all three did before jumping.  
-  *Parent says:* What did the frog, the cat and the grasshopper all do just before jumping?  
-  *Child mode:* What did every jumper do first?
+  *Parent says:* Do each one again, slowly. Look at what your legs do.  
+  *Child mode:* Be each animal again, slowly, and watch your own legs.
   - Ask: What did every jumper do before the jump? (good: They all bent their legs.; They crouched down low first.; They kept still and looked.)
   - Check: What does a cat do just before she jumps onto a wall? → **She crouches low with her legs bent**
 ### a2 · Wing Push: flap a notebook like a wing (10 min)
-- **record:** Draw a bird with wings spread wide, pushing air down, and arrows showing the air.
+- **record:** Draw a bird with wings spread wide, pushing air down, with arrows showing the air. Or show your grown-up how a bird flaps, and say what the air does.
 - **s1 (4 min)**  
   *Parent does:* 1. Switch off the fan and close the window. 2. Put the tissue bits in a small pile on the floor. 3. Your child holds the notebook flat, about one hand-width above the bits. 4. Swing the notebook down fast, without touching the bits.  
-  *Parent says:* Your notebook is a wing. Hold it flat and swing it down fast. Don't touch the tissue. What happens?  
+  *Parent says:* Your notebook is a wing. Hold it flat and swing it down fast. Don't touch the tissue. Watch the bits.  
   *Child mode:* Hold the notebook flat. Swing it down fast. Watch the tissue!
   - Ask: What happened to the tissue bits? (good: They blew away.; They flew everywhere.; The air pushed them.)
 - **s2 (3 min)**  
   *Parent does:* 1. Pile up the bits again. 2. Now your child holds the notebook edge first, like a knife, and swings it down the same way.  
   *Parent says:* Now hold it on its edge, like a knife. Swing it down the same way. What happens now?  
-  *Child mode:* Now hold it on its edge. Swing it down. What happens?
+  *Child mode:* Hold the notebook on its edge. Swing it down. Watch the tissue again.
   - Note: Edge first, the notebook slices through the air and hardly moves the tissue. Flat, the notebook pushes a lot of air down. It is also harder to swing flat, because the air pushes back on the notebook.
 - **s3 (3 min)**  
   *Parent does:* Ask which way was harder to swing, and talk about how a bird uses the wing.  
-  *Parent says:* Which way was harder to swing? A bird spreads her wings wide and flat to push down. Why?  
-  *Child mode:* Which way was harder? Why does a bird spread her wings wide?
+  *Parent says:* Which way was harder to swing? A bird spreads her wings wide and flat when she flaps down.  
+  *Child mode:* Feel the air push back on the notebook. Which way was harder to swing?
   - Check: Why does a bird spread her wings wide and flat when she flaps down? → **To push a lot of air down, so the air pushes her up**
 ### a3 · Snake Wiggle: move with no legs (12 min)
-- **record:** Draw a snake from above, in an S shape, with stones beside the curves.
+- **record:** Lay a string, rope or dupatta on the floor in an S shape, with small things beside the curves for the snake to push on. Take a photo, or draw it.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child lies on their tummy on the bare floor. 2. Arms stay by the sides, and feet do not push. 3. They try to move forward by wiggling for one minute.  
   *Parent says:* You are a snake. No arms and no feet. Can you move forward just by wiggling?  
@@ -393,63 +393,63 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
 - **s2 (5 min)**  
   *Parent does:* 1. Put cushions in two zigzag rows along the path, a little apart. 2. Your child tries again, pushing the sides of the body against the cushions.  
   *Parent says:* These cushions are the stones on a snake's path. Push your sides against them as you wiggle.  
-  *Child mode:* Push your sides on the cushions. Can you move now?
+  *Child mode:* Wiggle again. Push your sides against the cushions.
   - Ask: Was it easier with the cushions? Why? (good: Yes, because I could push on them.; The cushions gave me something to push against.)
   - Note: Cushions are softer than stones, so your child may still move only a little. Stack the cushions against a wall or use rolled-up mats to give a firmer push.
 - **s3 (3 min)**  
   *Parent does:* Talk about how real snakes and earthworms move.  
   *Parent says:* A snake pushes the curves of her body against stones, sticks and bumps. What would happen to a snake on smooth glass?  
-  *Child mode:* How does a snake push? What about on smooth glass?
+  *Child mode:* Remember the bare floor and the cushions. Where can a snake push?
   - Note: An earthworm makes her body long and thin, then short and fat, one part at a time. Tiny bristles on her body grip the soil.
   - Check: How does a snake move forward without legs? → **She pushes the curves of her body against bumps on the ground**
 ### a4 · My Teeth Map: count, draw and bite (12 min)
-- **record:** Your teeth map, with cutting, pointed and grinding teeth coloured in three colours.
+- **record:** Your teeth map, with cutting, pointed and grinding teeth in three colours. A photo of it is fine.
 - **s1 (5 min)**  
-  *Parent does:* 1. At the mirror, your child counts the top teeth, then the bottom teeth. 2. Count gaps and new big teeth too. 3. Draw a top row and a bottom row of little boxes, one box for each tooth.  
+  *Parent does:* 1. At the mirror, your child counts the top teeth, then the bottom teeth. 2. Count gaps and new big teeth too. 3. Lay out a top row and a bottom row of small paper squares or bottle caps, one for each tooth.  
   *Parent says:* Let's count your top teeth first, from one side to the other. Now the bottom ones.  
   *Child mode:* Count your top teeth. Now count your bottom teeth.
   - Note: A child has 20 milk teeth. Between about 6 and 12 years of age, these fall out one by one and bigger teeth grow in. A seven-year-old often has gaps at the front, and some new big front teeth or new back molars.
 - **s2 (3 min)**  
-  *Parent does:* Colour the map: front cutting teeth blue, pointed teeth yellow, back grinding teeth green.  
+  *Parent does:* In the mirror, touch each kind of tooth with a clean finger. Then colour the map: front cutting teeth blue, pointed teeth yellow, back grinding teeth green. Or put a coloured bit of paper on each.  
   *Parent says:* The flat front ones are cutting teeth. The pointed ones are canines. The wide back ones are molars.  
-  *Child mode:* Colour cutting teeth blue, pointed ones yellow, back ones green.
+  *Child mode:* Find each kind of tooth in the mirror. Mark it blue, yellow or green on your map.
 - **s3 (4 min)**  
   *Parent does:* 1. Your child bites into the cucumber slice with only the front teeth. 2. Look at the marks together. 3. Compare your child's bite with a cow's: a cow has no top front teeth.  
-  *Parent says:* Bite with just your front teeth. What shape are the marks?  
+  *Parent says:* Bite the cucumber with just your front teeth. Then look at the marks.  
   *Child mode:* Bite with your front teeth. Look at the marks!
   - Ask: What shape did your front teeth leave? (good: A curved row of flat cuts.; Straight lines, like a knife.; A gap where my tooth fell out.)
   - Check: A cow has no top front teeth. What does she have instead? → **A hard pad of gum**
 ### a5 · Take-off Watch (if birds land near your window) (10 min)
-- **record:** Draw the bird in two pictures: just before take-off, and just after.
+- **record:** Take a photo or a slow-motion video of the take-off. Or tell your grown-up what the bird's legs did first. You can draw it too.
 - **s1 (6 min)**  
   *Parent does:* 1. Sit quietly at the window. 2. When a bird is about to fly, watch the legs. 3. If you can, film the take-off in slow motion and watch it again.  
   *Parent says:* Watch the bird's legs, not the wings. What do the legs do when the bird takes off?  
-  *Child mode:* Watch the bird's legs. What happens when the bird flies?
+  *Child mode:* Keep your eyes on the bird's legs until she flies.
   - Note: Many birds bend their legs and push off with a jump, then start flapping. Pigeons often clap their wings as they leave. If no bird comes, try another day.
 - **s2 (4 min)**  
   *Parent does:* Talk about what you saw.  
-  *Parent says:* Did the bird jump first, or flap first? How is that like the Jump Test, where you bent your knees before jumping?  
-  *Child mode:* Did the bird jump first, or flap first?
+  *Parent says:* How is that like the Jump Test, where you bent your knees before jumping?  
+  *Child mode:* Show with your own legs what the bird's legs did.
   - Ask: What did the bird do first? (good: The bird bent the legs and jumped.; The bird crouched and then flapped.)
 
 ## Projects
 ### p1 · My Movers and Eaters Diary (30 min, 3 days)
 - **record:** The finished diary, with three animals: how each moves, what each pushes on, and the shape of each mouth.
-- **schedule:** day 1: Watch ants on the floor or wall. Draw how they move and what their mouths do with food. (10 min); day 2: Watch a bird at the window or on a wire. Draw how the bird moves and the shape of the beak. (10 min); day 3: Watch yourself or someone at home walk, jump and eat. Draw your legs and your teeth. (10 min)
+- **schedule:** day 1: Watch ants on the floor or wall. Count their legs and see how they carry food. (10 min); day 2: Watch a bird at the window or on a wire. Draw how the bird moves and the shape of the beak. (10 min); day 3: Walk and jump, and look at your teeth in a mirror. Tell what you push on and which teeth you have. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Put a few grains of sugar where you have seen ants, and wait. 2. Your child watches an ant walk and carry food. 3. Draw the ant, with six legs, and write what the ant pushes on.  
+  *Parent does:* 1. Put a few grains of sugar where you have seen ants, and wait. 2. Your child watches an ant walk and carry food. 3. Count the ant's legs. Write in the diary how many, and what the ant pushes on.  
   *Parent says:* What does the ant push on to walk? What does she do with the sugar?  
-  *Child mode:* Watch an ant walk. Draw her legs. What does she push on?
+  *Child mode:* Watch an ant walk. Count her legs.
   - Note: Ants have six legs and strong jaws that work from side to side, like pincers. They carry food in their jaws. If no ants come, try again the next day.
 - **s2 (10 min)**  
-  *Parent does:* Your child watches a crow, pigeon or myna and draws the bird's beak and how the bird moves: walking, hopping or flying.  
+  *Parent does:* Your child watches a crow, pigeon or myna and sees how the bird moves: walking, hopping or flying. Then they draw the bird's beak, or take a photo of the beak.  
   *Parent says:* Does this bird walk or hop? What shape is the beak? What food might that beak be good for?  
-  *Child mode:* Does the bird walk or hop? Draw the beak.
+  *Child mode:* Does the bird walk or hop? Draw the beak, or take a photo.
   - Wait: Day 2
 - **s3 (10 min)**  
-  *Parent does:* Your child draws themselves walking and jumping, and draws their teeth. Then compare all three pages.  
+  *Parent does:* Your child walks and jumps, then looks at their teeth in a mirror. Write down what they push on and which teeth they have. Then compare all three pages.  
   *Parent says:* Now you are the animal. What do you push on? What kinds of teeth do you have?  
-  *Child mode:* Draw yourself jumping. Draw your teeth.
+  *Child mode:* Walk and jump. Look at your teeth in the mirror.
   - Check: What do an ant, a crow and you all push on to walk? → **The ground**
   - Wait: Day 3
 
@@ -465,14 +465,14 @@ Anjali opened her notebook. She drew the frog twice: once folded up small on the
   *Parent says:* A paper ball falls fast. Can you make a paper lizard that falls very slowly?  
   *Child mode:* Drop a paper ball. Now make a slow paper lizard!
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* Your child makes a paper lizard, drops the paper lizard from shoulder height and counts how long the fall takes. Then they change the shape and try again.  
+  *Parent does:* 1. Your child cuts a paper lizard with a thin body and wide flaps on both sides. 2. Clip the paper clip on the head. 3. Drop it from shoulder height and count how long the fall takes. 4. Change the shape and try again.  
   *Parent says:* How long did that take? What could you change to make the fall slower?  
   *Child mode:* Drop your lizard. Count. Change the shape. Try again.
   - Note: A wide, flat shape falls slowly. A paper clip at the front stops it from tumbling, but its weight can also make the fall faster, so try with and without the clip. A grown-up helps with scissors.
 - **s3 (5 min)**  
   *Parent does:* Test the best design three times and talk about why it works.  
-  *Parent says:* Why does your best lizard fall so slowly?  
-  *Child mode:* Why does your lizard fall slowly?
+  *Parent says:* Let's test your best lizard three times.  
+  *Child mode:* Drop your best lizard three times. Count each fall.
   - Ask: Why did your best lizard fall slowly? (good: It is wide and flat, so it pushes on a lot of air.; The clip makes it glide forward.)
   - Check: Why does the flying lizard spread out the skin flaps on the sides? → **To make a wide, flat shape that pushes on a lot of air and falls slowly**
 

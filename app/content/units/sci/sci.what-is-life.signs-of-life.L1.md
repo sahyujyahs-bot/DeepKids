@@ -172,16 +172,16 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 
 ## Games
 ### g1 · Mother and Baby: a matching game (15 min)
-- **rules:** Before you play, draw the living thing on each card under the name, so a child who cannot read can play. The parent draws the parents, the child draws the young.; Mix the cards and lay them face down in rows.; On your turn, turn over two cards and say what they are.; If they are a parent and their young, keep the pair and have another turn.; If not, turn them back over in the same places. The next player has a turn.; When all the cards are matched, the player with the most pairs wins. If you have the same number, you both win.
+- **rules:** Before you play, look at the five cards with no photo: chick, tadpole, crow chick, mother and baby. Draw a small picture on each, so a child who cannot read can play. Your child can draw too, or just watch.; Mix the cards and lay them face down in rows.; On your turn, turn over two cards and say what they are.; If they are a parent and their young, keep the pair and have another turn.; If not, turn them back over in the same places. The next player has a turn.; When all the cards are matched, the player with the most pairs wins. If you have the same number, you both win.
 - **Printable cards: 20 cards to cut out: 10 parents and their 10 young:** Hen (back: Parent. Her young is a chick.) [picture]; Chick (back: Young. Grows up to be a hen or a rooster.); Cow (back: Parent. Her young is a calf.) [picture]; Calf (back: Young. Grows up to be a cow or a bull.) [picture]; Frog (back: Parent. Her young is a tadpole.) [picture]; Tadpole (back: Young. Grows legs and becomes a frog.); Butterfly (back: Parent. Her young is a caterpillar.) [picture]; Caterpillar (back: Young. Becomes a butterfly.) [picture]; Elephant (back: Parent. Her young is a baby elephant.) [picture]; Baby elephant (back: Young. Drinks milk for two years or more. Grows up to be an elephant.) [picture]; Dog (back: Parent. Her young is a puppy.) [picture]; Puppy (back: Young. Grows up to be a dog.) [picture]; Crow (back: Parent. Her young is a crow chick, hatched from an egg.) [picture]; Crow chick (back: Young. Grows feathers and learns to fly.); Mother (back: Parent. Her young is a baby.); Baby (back: Young. Grows up to be a grown-up.); Mango tree (back: Parent. Their young grow from mango seeds.) [picture]; Mango seedling (back: Young. Grows up to be a mango tree.) [picture]; Tomato plant (back: Parent. Their young grow from the seeds inside a tomato.) [picture]; Tomato seedling (back: Young. Grows up to be a tomato plant.) [picture]
 - **s1 (6 min)**  
-  *Parent does:* 1. Read each card name to your child. 2. You draw the parent animals and your child draws the young, one small picture on each card. 3. Mix the cards and lay them face down in four rows of five.  
-  *Parent says:* Every living thing has young. Let's make our cards first. You draw the hen, I'll read the next name.  
-  *Child mode:* Draw a picture on each card. A hen. A chick. A cow. Then mix them up.
+  *Parent does:* 1. Cut out the cards. 2. Read each name to your child. 3. Draw a small picture on the five cards with no photo, or let your child do it. 4. Mix the cards and lay them face down in four rows of five.  
+  *Parent says:* Every living thing has young. First we get the cards ready. Then we play a memory game.  
+  *Child mode:* Help cut out the cards. Look at each picture and say its name.
 - **s2 (7 min)**  
   *Parent does:* 1. Take turns turning over two cards. 2. Read the names aloud for your child. 3. When a pair is found, ask the question below.  
-  *Parent says:* Turn over two cards. Is that a mother and her baby? How do you know?  
-  *Child mode:* Turn over two cards. Do they go together? Keep them if they do.
+  *Parent says:* Turn over two cards. Is that a parent and its young? How do you know?  
+  *Child mode:* Turn over two cards. Keep them if they are a parent and its young.
   - Ask: The tadpole looks nothing like a frog. How do we know a tadpole is a young frog? (good: Because a tadpole grows legs and turns into a frog.; Because a frog lays eggs and tadpoles hatch from them.)
 - **s3 (2 min)**  
   *Parent does:* Count the pairs. Then ask the check question, using the mango tree card.  
@@ -202,9 +202,9 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
   - Ask: Why is a newspaper 'once alive'? (good: Because paper is made from trees.; Because it came from a tree that was alive.)
   - Note: Paper is made mostly from wood, so a newspaper was once alive. A ceiling fan moves, but a fan was never alive. Let your child argue, then read the card.
 - **s3 (2 min)**  
-  *Parent does:* Ask the check question.  
+  *Parent does:* Read the ceiling fan card. Then ask the check question.  
   *Parent says:* One tricky one. The fan moves round and round. Why did we freeze for the fan?  
-  *Child mode:* The fan moves. Is the fan alive?
+  *Child mode:* Think about what a living thing does. Does the fan do those things?
   - Check: The ceiling fan moves. Is the fan alive? → **No, the fan does not eat, grow or have young**
 
 ## Experiments
@@ -214,7 +214,7 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 - **predict:** Guess first. Which ones will stand up in water: the droopy mint, the dry tej patta, or the paper leaf? Why do you think so?
 - **fair test:** Each thing gets the same cup and the same water, for the same time. One droopy mint sprig stays on a dry plate, so we can see what water does.
 - **safety:** A grown-up uses the scissors.
-- **record:** Draw the three cups and the plate, before and after. Circle the ones that changed.
+- **record:** Take a photo of the three cups and the plate, before and after, or draw them. Then fill in the results table in words.
 - **results table:** Thing | At the start | After one hour
 - **s1 (4 min)**  
   *Parent does:* 1. Two or three hours before, leave two mint sprigs on a plate in the room until they go floppy. 2. Now lay out the two droopy sprigs, the tej patta and the paper leaf. 3. Let your child touch each one.  
@@ -225,7 +225,7 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess, and to say why. Write the guess down.  
   *Parent says:* We will put each one in water. Which ones will stand up again? Why do you think so?  
-  *Child mode:* Guess. Which will stand up in water? Why?
+  *Child mode:* Guess. Point to the ones you think will stand up.
   - Ask: Which ones will stand up in water, and why? (good: The mint will stand up, because the mint is still a bit alive.; The paper will go soggy, because paper soaks up water.)
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* 1. Snip a little off the bottom of one mint stalk. 2. Stand that sprig in a tumbler of water. 3. Lean the tej patta in the second tumbler, stalk end in the water. 4. Do the same with the paper leaf in the third. 5. Leave the second mint sprig on the dry plate.  
@@ -235,30 +235,30 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 - **s4 (1 min)**  
   *Parent does:* Leave the cups for one hour. Play Wiggle, Sit or Statue while you wait.  
   *Parent says:* Now we wait one hour. Water takes some time to move into a leaf.  
-  *Child mode:* Now we wait one hour.
+  *Child mode:* Play while you wait. Then come back.
   - Wait: Leave the cups for one hour.
 - **s5 (7 min)**  
   *Parent does:* 1. Look at each cup together. 2. Let your child touch each leaf again. 3. Compare the mint in water with the mint on the plate.  
   *Parent says:* Look and touch. What happened to each one?  
-  *Child mode:* Look at each cup. Touch each leaf. What changed?
+  *Child mode:* Look at each cup and touch each leaf again.
   - Ask: What happened to the mint in water? (good: The mint stood up straight.; The mint feels firm and fresh again.)
   - Ask: What happened to the tej patta and the paper? (good: The tej patta stayed brown and stiff.; The paper stalk went soggy and the leaf bent over.)
   - Note: The mint in water usually stands up firm within an hour. If it is still droopy, wait one more hour. The mint on the plate stays droopy or gets worse. The tej patta stays brown and stiff. The paper goes soft and floppy.
 - **s6 (5 min)**  
-  *Parent does:* Ask your child to say what they think, what they saw, and why. Then draw the cups together.  
+  *Parent does:* Ask your child to say what they think, what they saw, and why. Then fill in the results table together, in words.  
   *Parent says:* So, is the picked mint still alive? What did you see that tells you?  
-  *Child mode:* Is the mint still alive? Say what you saw. Then draw it.
+  *Child mode:* Tell what you saw. Then say what it shows about the mint.
   - Ask: Why did only the mint stand up? (good: Because the mint is still alive, so the mint can drink the water.; Because the tej patta is dry and no longer alive.)
   - Note: A strong answer uses what your child saw: the mint stood up in water, and the dry leaf did not. The living parts inside the mint fill up with water and push the leaf firm. Dry, dead leaves cannot do this.
   - Check: The droopy mint stood up in water, but the dry tej patta did not. What does this tell us? → **The picked mint was still alive**
 
 ## Activities
 ### a1 · Three Plates: sort the kitchen (10 min)
-- **record:** Draw your three plates and what went on each one.
+- **record:** Take a photo of your three plates, or draw them and what went on each one.
 - **s1 (3 min)**  
-  *Parent does:* 1. Make three paper labels: draw a small plant on one, a leaf with a tick on the next, and a stone on the last. Put one label on each plate. 2. Put out the three plates and show your child each drawing. 3. Bring out the kitchen things one at a time.  
+  *Parent does:* 1. Write three paper labels: Alive, Once alive and Never alive. Put one label on each plate. 2. Put out the three plates and read each label to your child. 3. Bring out the kitchen things one at a time.  
   *Parent says:* This plate is for things that are alive now. This one is for things that were once alive. This one is for things that were never alive.  
-  *Child mode:* Look at the three plates. Alive. Once alive. Never alive.
+  *Child mode:* Point to the plate for things that are alive now.
 - **s2 (5 min)**  
   *Parent does:* 1. Hand your child one thing at a time. 2. Let them put it on a plate. 3. Ask why.  
   *Parent says:* Where does the wooden spoon go? Why?  
@@ -268,16 +268,16 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 - **s3 (2 min)**  
   *Parent does:* Pick up the potato and ask the question below.  
   *Parent says:* Here is a tricky one. Is the potato alive?  
-  *Child mode:* Is the potato alive? What do you think?
+  *Child mode:* Pick the plate for the potato. Say why.
   - Ask: Is a potato alive? (good: Yes, because a potato can grow shoots and become a new plant.)
   - Note: A potato in a dark cupboard grows pale shoots after a few weeks. So a potato is alive, resting and waiting to grow.
 ### a2 · Breath on a Steel Plate (5 min)
 - **problem:** The air you breathe out is warm and wet. On a cool plate, the wet part makes a cloudy patch. So a cloudy patch shows that someone is breathing out. We try the plate near you and near a doll, to see which one breathes.
-- **record:** Draw the plate with your breath patch, and the plate near the toy.
+- **record:** Tell your grown-up what you saw on the plate near you and near the toy. You can draw it too.
 - **s1 (2 min)**  
   *Parent does:* 1. Hold the plate a hand's width from your child's mouth. 2. Ask them to breathe out slowly, with an open mouth, like a 'haaa'.  
-  *Parent says:* Breathe out on the plate, slowly. Haaa. What do you see?  
-  *Child mode:* Hold the plate near your mouth. Say haaa. Look!
+  *Parent says:* Breathe out on the plate, slowly. Haaa. Look closely.  
+  *Child mode:* Breathe out on the plate. Say haaa. Look!
   - Ask: What do you see on the plate? (good: A cloudy patch.; The plate went foggy, then it went away.)
   - Note: The breath we breathe out is warm and wet. On a cool plate the wetness makes a cloudy patch, which soon disappears. A steel plate at room temperature shows very little in a warm flat, so chill it first. Wipe off the drops from the fridge, then breathe on it at once. A clean mirror also works. If you see nothing, chill the plate for longer.
 - **s2 (3 min)**  
@@ -290,25 +290,25 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 - **s1 (4 min)**  
   *Parent does:* 1. Put your child's hand flat on the paper. 2. Draw round it. 3. Write the date beside it.  
   *Parent says:* Let's draw round your hand. We'll keep it and see if your hand grows.  
-  *Child mode:* Put your hand flat on the paper. Keep still. Now look!
+  *Child mode:* Put your hand flat on the paper. Keep still while your grown-up draws round it.
 - **s2 (4 min)**  
   *Parent does:* Bring out the baby vest, sock or photo. Let your child try it on or hold it next to themselves.  
   *Parent says:* You wore this when you were a baby. Does it fit now? Why not?  
-  *Child mode:* Try on your baby sock. Does it fit?
-  - Ask: Why doesn't the baby sock fit any more? (good: Because I grew bigger.; Because my feet grew.)
+  *Child mode:* Try on your baby things, or hold them next to you.
+  - Ask: Why don't your baby things fit any more? (good: Because I grew bigger.; Because my feet grew.)
 - **s3 (2 min)**  
-  *Parent does:* Ask your child what their body grew from.  
-  *Parent says:* You grew so much. What did your body grow from?  
-  *Child mode:* What helps you grow?
+  *Parent does:* Ask your child what helps their body grow.  
+  *Parent says:* You grew so much! What helped you grow?  
+  *Child mode:* Think about what you eat and do every day.
   - Ask: What helps you grow? (good: The food I eat.; Rice, dal, milk and fruit, and sleep.)
   - Note: Your body is built from the food you eat. A toy never grows, however much food you give it.
 ### a4 · A Tomato Full of Young (8 min)
 - **safety:** A grown-up cuts the tomato.
-- **record:** Draw the cut tomato and the seeds.
+- **record:** Tell your grown-up how many seeds were on the spoon. You can draw the cut tomato too.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Cut the tomato across the middle, not from top to bottom. Show both halves.  
   *Parent says:* Look inside the tomato. What do you see?  
-  *Child mode:* Look inside. What are the little round things?
+  *Child mode:* Look inside the tomato. Point to the little pale things.
   - Ask: What are the little things inside? (good: Seeds.; Baby tomato plants.)
 - **s2 (3 min)**  
   *Parent does:* Scoop out one spoonful of seeds onto the plate. Count them with your child.  
@@ -318,10 +318,10 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* If we planted all of these, what would happen?  
-  *Child mode:* What would grow from these seeds?
+  *Child mode:* Look at the seeds. Think about what they could turn into.
   - Check: What can grow from a tomato seed? → **A new tomato plant**
 ### a5 · Window Watch: what is alive out there? (6 min)
-- **record:** A mark for each living thing, and a drawing of your favourite one.
+- **record:** A mark for each living thing. Tell your grown-up about your favourite one, or draw it.
 - **s1 (5 min)**  
   *Parent does:* 1. Sit by a window or on the balcony. 2. Each time your child spots a living thing, they make one mark on the paper.  
   *Parent says:* Let's look out of the window. Every time you see something alive, make a mark. Trees count too!  
@@ -335,8 +335,8 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 
 ## Projects
 ### p1 · Mint Grows Roots (20 min, 14 days)
-- **record:** Draw the stalk under the water on day 1, day 4, day 8 and day 14.
-- **schedule:** day 1: Pull the lowest leaves off two mint stalks. Stand them in a clear glass of water by a bright window. (5 min); day 4: Look for tiny white bumps on the stalk under the water. Change the water. (3 min); day 8: Look for white roots. Draw them. Change the water. (4 min); day 14: Look at the roots. Plant one sprig in a pot of soil if you have one. (8 min)
+- **record:** On day 1, day 4, day 8 and day 14, take a photo of the stalk under the water, or draw it.
+- **schedule:** day 1: Pull the lowest leaves off two mint stalks. Stand them in a clear glass of water by a bright window. (5 min); day 4: Look for tiny white bumps on the stalk under the water. Change the water. (3 min); day 8: Look for white roots. Measure the longest one against your finger. Change the water. (4 min); day 14: Look at the roots. Plant one sprig in a pot of soil if you have one. (8 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Pull the leaves off the bottom part of each stalk. 2. Stand them in a clear glass of water. 3. Put the glass by a bright window, out of hot sun.  
   *Parent says:* Let's see if a picked mint sprig can grow. We'll check it every few days.  
@@ -349,15 +349,15 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
   - Note: Change the water every 3 or 4 days so it stays clean.
   - Wait: Leave the glass for 4 more days.
 - **s3 (4 min)**  
-  *Parent does:* Look for white roots. Draw them together. Change the water.  
+  *Parent does:* Look for white roots. Measure the longest one against your child's finger. Change the water.  
   *Parent says:* Look! Are those roots? Where are they growing from?  
-  *Child mode:* Look for roots. Draw them.
+  *Child mode:* Look for roots. Find the longest one. Is it as long as your fingertip?
   - Note: Mint usually grows roots in about one or two weeks. In cold weather it can take longer. If one sprig goes brown and soft, take it out and keep watching the other.
   - Wait: Leave the glass for 6 more days.
 - **s4 (8 min)**  
   *Parent does:* Look at the roots together and ask the question below. If you have a pot of soil, plant one sprig.  
   *Parent says:* The mint was picked from the plant. Now the mint has new roots. Is the mint alive?  
-  *Child mode:* The mint grew roots. Is it alive?
+  *Child mode:* Look at the roots. Think about what they show.
   - Ask: How do you know the mint is alive? (good: Because the mint grew new roots.; Because the mint is growing, and growing is a sign of life.)
 
 ## Challenges
@@ -370,16 +370,16 @@ The snail did not say anything. But the next morning, the cabbage was full of ho
 - **s1 (3 min)**  
   *Parent does:* Read the challenge to your child. Show the materials.  
   *Parent says:* Let's make a toy that seems alive. It can move, or open its mouth to eat. What will you make?  
-  *Child mode:* Make a toy that seems alive. What will you make?
+  *Child mode:* Choose one idea: a toy that moves, or a toy that eats.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* Help your child make the toy. Cut where needed.  
   *Parent says:* How will you make it move? Which part will move?  
-  *Child mode:* Make your toy. How will it move?
-  - Note: Keep it simple: a folded paper snake on a string works well. Your child does the drawing and colouring.
+  *Child mode:* Build your toy. Think about which part will move.
+  - Note: Keep it simple: a folded paper snake on a string works well. Colouring is optional.
 - **s3 (5 min)**  
   *Parent does:* Play with the toy. Go through the signs of life one by one.  
   *Parent says:* Does your toy move? Does it eat? Does it grow? Does it breathe? Can it have babies?  
-  *Child mode:* Does your toy eat? Grow? Breathe? Have babies?
+  *Child mode:* Answer yes or no for each sign. Thumbs up or thumbs down.
   - Ask: Your toy moves. Is your toy alive? (good: No, it only moves when I pull the string.; No, it does not eat, grow or have babies.)
   - Check: A paper snake wiggles when you pull the string. Why is the snake not alive? → **Because the snake is made of paper and only moves when the string is pulled**
 

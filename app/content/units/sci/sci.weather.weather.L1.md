@@ -144,23 +144,23 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 
 ## Games
 ### g1 · What Will We Wear? A weather and clothes game (15 min)
-- **rules:** Lay the 8 weather cards face up in two rows. Mix the 8 clothes cards and make a face-down pile.; Take turns. Draw the top clothes card and read it out. The grown-up helps with reading.; Put the card beside a weather it suits, and say why. If the others agree it is a good reason, you score 1 point and the card stays there.; One weather can have more than one clothes card, if each has a good reason.; If the card suits no weather, or the others do not agree, put it face down at the bottom of the pile. The next player has a turn. If a card comes round a second time, the grown-up helps find the weather for it.; When the pile is empty, count the points. The most points wins. If points are equal, everyone wins. Then say which card was the hardest, and why.
+- **rules:** Lay the 8 weather cards face up in two rows. Mix the 8 clothes cards and make a face-down pile.; Take turns. Take the top clothes card and read it out. The grown-up helps with reading.; Put the card beside a weather it suits, and say why. If the others agree it is a good reason, you score 1 point and the card stays there.; One weather can have more than one clothes card, if each has a good reason.; If the card suits no weather, or the others do not agree, put it face down at the bottom of the pile. The next player has a turn. If a card comes round a second time, the grown-up helps find the weather for it.; When the pile is empty, count the points. The most points wins. If points are equal, everyone wins. Then say which card was the hardest, and why.
 - **Printable cards: 8 weather cards to cut out:** Hot sun in Chennai in May; Heavy monsoon rain in Kochi; A cold, windy hill in Ooty; A cold, still winter morning in Lucknow; A cloudy day at the beach in Puri; Rain on the hills in Meghalaya; A hot, dry, windy day in the Thar desert; A windy day by the sea in Kanyakumari
 - **Printable cards: 8 clothes cards to cut out:** A cap and a cotton shirt; A raincoat and chappals; A sweater with a thin jacket on top; A woollen sweater; A cap, even though it is cloudy; A knup (a rain shield of bamboo and leaves) on your head and back; Loose cloth over your head and arms; A light jacket
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Lay the 8 weather cards face up in two rows. 3. Mix the 8 clothes cards and make a face-down pile.  
-  *Parent says:* Some cards show weather. Some show clothes. We need to find the weather each clothes card suits, and say why.  
-  *Child mode:* Some cards show weather. Some show clothes. Put each clothes card beside a weather it suits.
+  *Parent says:* Some cards show weather. Some show clothes. We will put each clothes card beside a weather it suits, and say why.  
+  *Child mode:* Look at the two kinds of cards. Your job is to match clothes to weather.
 - **s2 (10 min)**  
   *Parent does:* Take turns drawing a clothes card, reading it out and putting it beside a weather it suits. Ask for a reason before the card stays.  
   *Parent says:* Do these clothes suit this weather? Why? What job do they do?  
-  *Child mode:* Draw a card. Which weather does it suit? Say why.
+  *Child mode:* Take a card. Put it beside a weather it suits. Say why.
   - Ask: Which clothes card suits more than one weather? Why? (good: The cap suits hot sun, and also a cloudy day.; A sweater suits a still cold day, and with a jacket on top it suits a windy one.)
   - Note: Good reasons: a cap and cotton shirt shade you and let sweat dry. A raincoat has no holes, so rain stays out. A sweater keeps warmth in, and a jacket on top stops the wind. A knup keeps rain off and both hands free. Loose cloth shades the skin from desert sun. A light jacket stops the wind carrying your warmth away.
 - **s3 (2 min)**  
-  *Parent does:* At the end, ask about the cloudy day at the beach in Puri.  
-  *Parent says:* Why does the cloudy day still need a cap?  
-  *Child mode:* Why wear a cap on a cloudy day?
+  *Parent does:* Point to the cap card beside the cloudy day at the beach in Puri. If it is not there, put it there. Then ask the question.  
+  *Parent says:* A cap on a cloudy day sounds odd. Let us work out why it is a good match.  
+  *Child mode:* Look at the cap and the cloudy beach. Think about the Sun behind the clouds.
   - Check: Why wear a cap at the beach on a cloudy day? → **Clouds let some burning sunlight through**
 ### g2 · Weather Says: a moving game (10 min)
 - **rules:** Mix the 6 cards and make a pile. The caller takes the top card, reads the weather on the front aloud, and reads the back to remind everyone what to do.; Everyone else acts it out, with pretend things. No real umbrella or sweater is needed.; The caller can call two cards fast, one after the other. Put used cards at the bottom of the pile.; Each caller calls 3 cards, then the next player becomes the caller. The game ends when everyone has been the caller once.
@@ -168,7 +168,7 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 - **s1 (2 min)**  
   *Parent does:* Cut out the six cards. Read the backs aloud so everyone knows the actions.  
   *Parent says:* When I call a weather, show me what you would wear and do.  
-  *Child mode:* Listen to the weather. Show what you would wear and do.
+  *Child mode:* Listen for the weather. Then act it out with your whole body.
 - **s2 (8 min)**  
   *Parent does:* Call the cards one at a time, then faster. Let each player be the caller for 3 cards.  
   *Parent says:* Windy! Now cold and windy! What do you put on top?  
@@ -180,7 +180,7 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 - **predict:** Guess first. Will the tumbler in the wind get cold? Which cloth will stop the wind best? Why do you think so?
 - **fair test:** The fan stays on the same speed. Each cloth is held at the same place, one arm's length from the fan. The paper strip is held just behind the middle of each cloth, a finger's width away. Only the cloth changes.
 - **safety:** Keep fingers, hair, the dupatta and the paper strip away from the fan blades. Never put a plastic bag over anyone's head or face.
-- **record:** Draw the fan, the cloth and the paper strip for each test. Draw the strip flying for 'a lot', and hanging down for 'still'.
+- **record:** Fill in the results table. For each thing you held up, write if the strip moved 'a lot', 'a little' or stayed 'still', and how your arm felt. Or tell your grown-up, who writes it down.
 - **results table:** What we held up | Did the paper strip move? A lot, a little, or still | How did my arm feel behind it?
 - **s1 (2 min)**  
   *Parent does:* 1. Switch the fan on to medium. 2. Put one steel tumbler on a stool, an arm's length in front of the fan. 3. Put the other tumbler far away, on a shelf on the far side of the same room, out of the wind.  
@@ -189,98 +189,98 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
   - Note: Use dry tumblers that have been in the house for a while, so both start as warm as the room.
 - **s2 (5 min)**  
   *Parent does:* 1. While you wait for the 5 minutes, ask your child to hold a bare arm in the fan's wind. 2. Ask what they think will happen to the tumbler, and why. 3. Show the paper strip: it flies in the wind. Ask which cloth will stop the wind, and why.  
-  *Parent says:* How does your arm feel in the wind? Will the tumbler in the wind get cold too? Why? This paper strip is our wind finder. It flies in wind and hangs down in still air. Which cloth will stop the wind best? Why?  
-  *Child mode:* Hold your arm in the wind. Will the tumbler get cold too? Which cloth will stop the wind? Why?
+  *Parent says:* How does your arm feel in the wind? This paper strip is our wind finder. It flies in wind and hangs down in still air. Now make two guesses, and say why.  
+  *Child mode:* Hold your bare arm in the wind and feel it. Then make your two guesses.
   - Ask: Will the tumbler in the wind get cold? Why? (good: Yes, because the wind is cold.; No, because the fan doesn't make cold.)
   - Ask: Which cloth will stop the wind best? Why? (good: The sweater, because it is thickest.; The raincoat, because water can't get through it.)
   - Note: Most children guess the tumbler will get cold, and that the thick sweater will stop the wind. Write the guesses down. Don't say what will happen. If you only have a ceiling fan, stand under it. Hold each cloth flat like a roof, and hang the strip just under its middle.
 - **s3 (2 min)**  
   *Parent does:* After five minutes, ask your child to touch the tumbler in the wind, then the tumbler far away. Then ask your child to hold a hand in the fan's wind again.  
-  *Parent says:* Touch the tumbler from the fan. Now touch the one from far away. Is one colder? Now put your hand in the wind. How does it feel?  
-  *Child mode:* Touch both tumblers. Is one colder? Now feel the wind on your hand.
+  *Parent says:* Touch the tumbler from the fan. Now touch the one from far away. Now put your hand in the wind.  
+  *Child mode:* Touch both tumblers. Then feel the wind on your hand.
   - Ask: Did the wind make the tumbler colder? (good: No, they feel the same.; No, but my hand feels cold in the wind.)
   - Note: Both tumblers feel the same, a little cool, as steel always does. That is the surprise. The fan cools your hand because your hand is warmer than the air.
   - Check: The tumbler sat in the fan's wind for five minutes. How did it feel? → **The same as the other tumbler**
 - **s4 (4 min) · grown-up needed**  
   *Parent does:* 1. The grown-up holds each cloth flat, one arm's length in front of the fan. 2. Your child holds the strip just behind the middle of the cloth. 3. Test with no cloth first, then the dupatta, the sweater, the raincoat and the newspaper, one at a time.  
   *Parent says:* Hold the strip just behind the cloth. Watch it. Does it fly, wave a little, or hang still?  
-  *Child mode:* Hold the strip just behind the cloth. Does it fly? Or hang still?
+  *Child mode:* Hold the strip just behind the cloth and watch what it does.
   - Ask: What did the strip do behind the sweater? (good: It still moved.; It waved, so wind came through.)
   - Ask: What did the strip do behind the raincoat? (good: It hung still.; No wind came through.)
   - Note: The cloth must be wider than the paper strip, so wind does not curl round the edge. If the strip twitches a little behind the raincoat, that is air curling round the edges. Compare it with how much the strip moved behind the sweater.
 - **s5 (2 min)**  
   *Parent does:* 1. Your child puts on the sweater and holds one arm in the fan's wind. 2. Then the grown-up wraps the raincoat or plastic sheet over the sweater sleeve. 3. Your child holds the same arm in the wind again.  
-  *Parent says:* Feel the wind through the sweater. Now we put the raincoat over the top. What changed? Why did wind go through the sweater but not the raincoat?  
-  *Child mode:* Feel the wind through your sweater. Now cover it with the raincoat. What changed? Why?
+  *Parent says:* Feel the wind through the sweater. Now we put the raincoat over the top. Feel the wind again.  
+  *Child mode:* Feel the wind through your sweater. Then feel it again with the raincoat on top.
   - Ask: Why did your arm feel warmer with the raincoat on top? (good: The raincoat stopped the wind.; The wind couldn't take my warmth away.)
   - Ask: Why did wind go through the sweater but not the raincoat? (good: The sweater has tiny holes between the wool.; The raincoat has no holes.)
   - Note: Wrap the plastic round the arm only. Two layers, wool inside and a wind-stopper outside, is how people dress on cold, windy hills.
 
 ## Activities
 ### a1 · Weather Detectives: find clues indoors (10 min)
-- **record:** Draw the best clue you found, and the weather you think it shows.
+- **record:** Tell your grown-up the best clue you found and the weather it shows. Or take a photo of the clue.
 - **s1 (6 min)**  
   *Parent does:* Walk round the home together, without looking out of a window. Look for clues: a wet umbrella, damp chappals, a curtain moving, a bright patch of sun on the floor, clothes drying.  
-  *Parent says:* Let's be weather detectives. Without looking at the sky, what clues tell us about the weather today?  
+  *Parent says:* We will guess today's weather from clues inside the house, without looking at the sky. What clues can we find?  
   *Child mode:* Find weather clues inside your home. Do not look at the sky yet.
   - Ask: What does this clue tell us? (good: A wet umbrella means it rained.; The curtain is moving, so it is windy.; A bright patch on the floor means it is sunny.)
 - **s2 (4 min)**  
   *Parent does:* Go to a window. Look at the sky, the trees and the road. Ask your child if the clues were right.  
   *Parent says:* Now look outside. Is it sunny, rainy, windy or cloudy? Did our clues tell the truth?  
-  *Child mode:* Look outside. Is it sunny, rainy, windy or cloudy? Were your clues right?
+  *Child mode:* Look outside and find out if your clues were right.
   - Note: Sometimes it is two at once, like sunny and windy. That is fine. Let your child say both.
 ### a2 · A Cloud for the Torch: why are shadows soft on a cloudy day? (10 min)
 - **problem:** On a sunny day, shadows are dark and sharp. On a cloudy day, they are soft and pale. In this activity a torch stands for the Sun, and a thin white cloth stands for a cloud. We look at what the cloth does to the shadow, to find out what a cloud does to sunlight.
-- **record:** Draw the sharp shadow and the soft shadow side by side.
+- **record:** Tell your grown-up how the two shadows looked different. Or take a photo of each shadow.
 - **s1 (4 min)**  
   *Parent does:* 1. Dim the room. 2. Stand the toy a hand-length in front of the white wall. 3. Shine the torch on the toy from about one arm's length away.  
   *Parent says:* The torch is our Sun. Look at the toy's shadow. Is the edge sharp or fuzzy?  
-  *Child mode:* The torch is the Sun. Look at the shadow. Is the edge sharp?
+  *Child mode:* Look at the shadow of your toy on the wall. Look closely at its edge.
 - **s2 (4 min)**  
   *Parent does:* Hold the thin white cloth flat, a hand's width in front of the torch, so the light passes through it. Ask your child to guess first what will happen to the shadow.  
   *Parent says:* This cloth is our cloud. What do you think will happen to the shadow? Why? Now let's look.  
-  *Child mode:* The cloth is a cloud. What will happen to the shadow? Look!
+  *Child mode:* Watch the shadow while the cloth is in front of the torch.
   - Ask: What happened to the shadow? (good: It went pale and fuzzy.; It almost went away.)
   - Note: The cloth makes the light come from a wide patch, not one bright spot, so the edge of the shadow goes soft. If the edge does not change, move the toy a little further from the wall. A real cloud does the same to sunlight.
 - **s3 (2 min)**  
   *Parent does:* Next time it is cloudy, look at your own shadow outside or on the balcony floor.  
   *Parent says:* On a cloudy day, look for your shadow. Will it be sharp or soft?  
-  *Child mode:* On a cloudy day, look for your shadow. Sharp or soft?
+  *Child mode:* Find your own shadow outside on a cloudy day.
   - Wait: Do this on the next cloudy day. If it is cloudy now, do it now.
 ### a3 · Sort the Cupboard: clothes for each weather (12 min)
-- **record:** Draw one thing from each pile.
+- **record:** Take a photo of each pile. Or point to one thing in each pile and tell your grown-up its job.
 - **s1 (8 min)**  
   *Parent does:* Lay out the four papers, one for each pile: sun, rain, wind and cold. Your child picks one thing at a time, puts it on a paper, and says its job.  
   *Parent says:* Which weather is this for? What job does it do? Does it keep off the sun, the rain or the wind, or keep warmth in?  
-  *Child mode:* Pick a thing. Which weather is it for? What job does it do?
+  *Child mode:* Pick one thing and put it on a paper.
   - Ask: What job does a cap do? (good: It shades my head from the sun.; It keeps the sun out of my eyes.)
   - Note: Some things fit two piles. A raincoat works in rain and in wind. Let your child put it between the two papers and say why.
 - **s2 (4 min)**  
   *Parent does:* Hold up the sweater. Ask which pile it goes on, and which job it cannot do. Remind your child of the fan test if you have done it.  
-  *Parent says:* The sweater keeps us warm. But in the fan test, what happened when the fan blew on it? What could we wear on top on a windy day?  
-  *Child mode:* Where does the sweater go? What can you wear on top when it is windy?
+  *Parent says:* The sweater keeps us warm. But wind can blow through wool. What could we wear on top on a windy day?  
+  *Child mode:* Where does the sweater go? Is there a job it cannot do?
   - Ask: What can we wear over a sweater on a windy day? (good: A raincoat.; A jacket with no holes.)
 
 ## Projects
 ### p1 · Dress the Window Doll: five mornings (30 min, 5 days)
-- **record:** A chart with five boxes, one for each morning, with a weather picture in each.
-- **schedule:** day 1: Make the doll and clothes: a cap, a cotton dress or shirt, a raincoat, a sweater and a jacket. Dress the doll for today. (12 min); day 2: Look out of the window. Dress the doll. Draw today's weather picture on the chart. (3 min); day 3: Look out of the window. Dress the doll. Draw today's weather picture on the chart. (3 min); day 4: Look out of the window. Dress the doll. Draw today's weather picture on the chart. (3 min); day 5: Dress the doll. Count each kind of weather on the chart. (9 min)
+- **record:** A chart with five boxes, one for each morning, with the weather word in each. A photo of the sky works too.
+- **schedule:** day 1: Make the doll and clothes: a cap, a cotton dress or shirt, a raincoat, a sweater and a jacket. Dress the doll for today. (12 min); day 2: Look out of the window. Dress the doll. Write today's weather in the chart. (3 min); day 3: Look out of the window. Dress the doll. Write today's weather in the chart. (3 min); day 4: Look out of the window. Dress the doll. Write today's weather in the chart. (3 min); day 5: Dress the doll. Count each kind of weather on the chart. (9 min)
 - **s1 (12 min)**  
-  *Parent does:* 1. Draw and cut out a doll from card. 2. Draw and cut out a cap, a cotton dress or shirt, a raincoat, a sweater and a jacket. 3. Give the doll a name. 4. Draw a chart with five boxes. 5. Dress the doll for today and draw today's weather in box 1.  
-  *Parent says:* This doll will live by our window. Every morning we will dress her for the weather. What clothes will she need?  
+  *Parent does:* 1. Cut a doll out of card. A grown-up can draw the shape first, or use a small toy instead. 2. Cut a cap, a cotton dress or shirt, a raincoat, a sweater and a jacket from paper or scrap cloth. 3. Give the doll a name. 4. Make a chart with five boxes. 5. Dress the doll for today and write today's weather in box 1.  
+  *Parent says:* This doll will live by our window. Every morning we will dress her for the weather.  
   *Child mode:* Make a doll. Make clothes for sun, rain, wind and cold.
   - Ask: What clothes will the doll need? (good: A cap for sun.; A raincoat for rain.; A jacket for wind.)
-  - Note: You may draw the chart and the boxes. Let your child draw the weather pictures and choose the clothes.
+  - Note: You may draw the chart and the boxes. Let your child write the weather words and choose the clothes.
 - **s2 (9 min)**  
-  *Parent does:* Each morning, look out of the window together. Your child says the weather, dresses the doll and draws a weather picture in that day's box.  
+  *Parent does:* Each morning, look out of the window together. Your child says the weather, dresses the doll and writes the weather in that day's box.  
   *Parent says:* What is the weather this morning? What will the doll wear? Why?  
-  *Child mode:* Look out of the window. What is the weather? Dress the doll. Draw the weather.
-  - Note: If the weather is mixed, let your child draw both, like a sun behind a cloud.
+  *Child mode:* Look out of the window. What is the weather? Dress the doll. Write the weather in today's box.
+  - Note: If the weather is mixed, let your child write both, like sunny and cloudy.
   - Wait: Come back each morning on days 2, 3 and 4.
 - **s3 (9 min)**  
-  *Parent does:* Dress the doll and draw today's weather in the last box. Then count the sunny, rainy, windy and cloudy boxes on the chart.  
-  *Parent says:* Let's count. How many sunny mornings? How many rainy ones? Which weather came most?  
-  *Child mode:* Count the suns. Count the clouds. Which came most?
+  *Parent does:* Dress the doll and write today's weather in the last box. Then count the sunny, rainy, windy and cloudy boxes on the chart.  
+  *Parent says:* Look at the five boxes. How many sunny mornings? How many rainy ones? Which weather came most?  
+  *Child mode:* Count each kind of weather in the boxes. Which came most?
   - Ask: Did the weather stay the same all week? (good: No, it changed.; It was sunny most days.)
   - Wait: Come back on day 5.
 
@@ -288,14 +288,14 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 ### c1 · A Rain Hat That Stays On in the Wind (16 min)
 - **problem:** Your toy needs a hat for a rainy, windy day, like the knup that Khasi farmers wear in Meghalaya. The hat must keep water off the toy's head, and stay on in front of the fan.
 - **safety:** Pour the water far away from the fan and any socket, over the tray.
-- **your turn:** Now invent your own rain hat. Draw it, make it and test it with the fan and the spoon of water. What would you change?
+- **your turn:** Now invent your own rain hat. Tell your grown-up your idea, or sketch it first if you like. Then make it and test it with the fan and the spoon of water. What would you change?
 - **constraints:** Use only things from home.; The hat must stay on for 10 seconds in front of the fan.; A spoon of water poured on top, away from the fan, must not reach the toy's head.
 - **general:** Make a cone from a paper plate, so the water runs off the edge.; Tie the hat on with string under the toy's chin.; Make the hat wide, so the water drips off away from the toy.
 - **creative:** Make the hat low and curved, so the wind slides over it instead of lifting it.; Cover a paper hat with a piece of plastic bag, so it does not go soggy.; Make a hat that covers the head and the back, like a knup.
 - **s1 (4 min)**  
   *Parent does:* Show your child the problem. A knup is a rain shield of bamboo and leaves that Khasi farmers wear on the head and back. Talk about why it suits rain and wind.  
   *Parent says:* This toy needs a hat for a rainy, windy day. It must keep the water off and stay on in the wind. How could we make one?  
-  *Child mode:* Make a rain hat for your toy. It must stay on in the wind.
+  *Child mode:* Think of a hat that keeps the toy dry and stays on.
 - **s2 (8 min)**  
   *Parent does:* Your child chooses an idea, or invents one, and makes the hat.  
   *Parent says:* Which idea will you try? What shape will let the water run off?  
@@ -304,7 +304,7 @@ Back home in Chennai, Meenakshi held her red sweater in front of the fan and put
 - **s3 (4 min)**  
   *Parent does:* 1. Put the toy in front of the fan for 10 seconds. 2. Carry it far from the fan, over the tray. 3. Pour one spoon of water on top of the hat. 4. Feel the toy's head.  
   *Parent says:* Did the hat stay on? Is the toy's head dry? What would you change?  
-  *Child mode:* Did the hat stay on? Is the head dry? What will you change?
+  *Child mode:* Watch the hat in the wind. Then feel the toy's head after the water.
   - Ask: What shape works best in the wind? (good: A low, curved hat.; A hat tied on with string.)
 
 ## Worksheets

@@ -211,7 +211,7 @@
    "title": "Where Do the Stars Go in the Day? The torch star test",
    "mins": 22,
    "days": 1,
-   "context": "In this experiment you make a tiny star from a torch and a piece of cardboard. Then you look at it in a bright place and in a dark room, to find out where the stars go in the daytime.",
+   "context": "In this experiment you make a tiny star from a torch and a piece of cardboard. You look at it in a bright place and in a dark room. You will find out where the stars go in the daytime.",
    "problem": "A real star is a small light that is very far away. In this test, a torch with one tiny hole stands for a star. A bright window stands for the daytime sky, and a dark room stands for the night sky. We look at the same torch star in both places, to find out where the stars go in the day.",
    "question": "Does a small light still shine in a bright place? Can we see it there?",
    "predict": "We will look at the torch star by a bright window, and then in a dark room. Where will you see it best? Why do you think so?",
@@ -259,7 +259,7 @@
      "what": "Make a torch star, then look at it in a bright place and in a dark room."
     }
    ],
-   "record": "Draw the torch star twice: once by the bright window, and once in the dark room. Draw it as big and bright as it looked each time.",
+   "record": "Fill in the last column of the table: bright, faint or not at all. You can also draw the torch star as it looked in each place, or tell a grown-up.",
    "setup": [
     {
      "art": "A grown-up fixing a piece of cardboard over the front of a torch with a rubber band, poking one tiny hole in it with a pencil, and taping a small square of thin paper over the hole.",
@@ -284,7 +284,7 @@
      "mins": 3,
      "do": "Ask your child where the stars are in the daytime. Listen, and don't correct the answer.",
      "say": "At night we can see stars in the sky. Where do you think the stars are in the daytime?",
-     "kid": "Where do the stars go in the day? What do you think?",
+     "kid": "Tell your grown-up your idea. Any idea is fine.",
      "ask": [
       {
        "q": "Where are the stars in the day?",
@@ -310,9 +310,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask your child to guess. Write or draw the guesses in the table.",
-     "say": "First we will hold the star by the bright window. Then we will take it into a dark room. Where will you see it best? Why do you think so?",
-     "kid": "Where will you see the star best? By the window, or in the dark? Why?",
+     "do": "Ask your child to guess. Write the guesses in the table.",
+     "say": "First we will hold the star by the bright window. Then we will take it into a dark room. Where will you see it best?",
+     "kid": "Pick one place: by the window, or in the dark.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -330,7 +330,7 @@
      "mins": 4,
      "do": "1. Stand at the brightest window, or on the balcony, in the day. 2. Your child stands three big steps away, facing you. 3. Switch the star on and point it at your child. 4. Ask what they see.",
      "say": "Here is our star, shining. Look at the hole in the cardboard. Can you see the star? Is it bright, faint, or can you not see it at all?",
-     "kid": "Look at the hole in the cardboard. Can you see the star?",
+     "kid": "Look at the hole in the cardboard. Is the star bright, faint or gone?",
      "ask": [
       {
        "q": "What do you see?",
@@ -348,7 +348,7 @@
      "mins": 4,
      "do": "1. Go into a dark room, such as a bathroom, and shut the door. 2. Switch off the light. 3. Stand three big steps apart again. 4. Switch the star on.",
      "say": "Same torch, same hole, same three steps. Now we are in the dark. Can you see the star now? Is it bright or faint?",
-     "kid": "Same star, now in the dark. Can you see it? Bright or faint?",
+     "kid": "Look at the same star again, now in the dark.",
      "ask": [
       {
        "q": "What is different now?",
@@ -366,7 +366,7 @@
      "mins": 2,
      "do": "Keep the star shining. Switch the room light on, then off, then on again. Ask your child to watch the star each time.",
      "say": "I am switching on the room light. Watch the star. Now I am switching it off. What happens to the star?",
-     "kid": "Watch the star. The room light goes on. Then off. What happens?",
+     "kid": "Watch the star while the room light goes on and off.",
      "ask": [
       {
        "q": "Did the torch stop shining when the room light came on?",
@@ -383,7 +383,7 @@
      "mins": 2,
      "do": "Back in the bright room, look at the guesses. Ask your child what they think now, what they saw, and why.",
      "say": "Was the star shining by the window? Why was it hard to see there? So where do you think the real stars are in the daytime?",
-     "kid": "Was the star shining by the window? Where are the real stars in the day?",
+     "kid": "Look at your guesses. Tell your grown-up what you found out.",
      "ask": [
       {
        "q": "Where are the real stars in the day?",
@@ -412,7 +412,7 @@
    "title": "Sun or Shade: which ice cube melts first?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you put one ice cube in the sunshine and one in the shade. You find out whether sunshine brings heat.",
+   "context": "In this experiment you put one ice cube in the sunshine and one in the shade. You will find out whether sunshine brings heat, by seeing which ice melts first.",
    "question": "Does an ice cube melt faster in sunshine or in shade?",
    "predict": "One ice cube goes in the sunshine, one in the shade. Which will melt first? Why do you think so?",
    "fair_test": "We use two ice cubes of the same size, from the same tray. We use two bowls that are the same. We put them down at the same time, and we look at them at the same times.",
@@ -451,7 +451,7 @@
      "what": "Put one ice cube in the sunshine and one in the shade. Look at them every 5 minutes."
     }
    ],
-   "record": "Draw the two bowls after 10 minutes. Show how big each ice cube was, and how much water was in each bowl.",
+   "record": "Fill in the table at 5 and 10 minutes: big, small or gone. You can also take a photo of the two bowls, or draw them.",
    "setup": [
     {
      "art": "Two steel katoris side by side on a kitchen counter, each with one ice cube, and a girl holding them.",
@@ -472,15 +472,15 @@
      "mins": 3,
      "do": "Find a patch of sunshine and a shady spot nearby. Let your child touch the floor in both places.",
      "say": "Put your hand on the floor in the sunshine. Now in the shade. Which feels warmer?",
-     "kid": "Touch the floor in the sun. Now in the shade. Which is warmer?",
+     "kid": "Feel both places. Point to the warmer one.",
      "parent": "If no sunshine comes into your home, use a sunny windowsill or balcony. On a cloudy day, try again on a sunny one."
     },
     {
      "id": "s2",
      "mins": 3,
      "do": "Show the two ice cubes in their bowls. Ask your child to guess, and why.",
-     "say": "One ice cube will sit in the sunshine. One will sit in the shade. Which one will melt first? Why do you think so?",
-     "kid": "Which ice cube will melt first? Why do you think so?",
+     "say": "One ice cube will sit in the sunshine. One will sit in the shade. Which one will melt first?",
+     "kid": "Pick the ice cube you think will melt first.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -497,14 +497,14 @@
      "mins": 2,
      "do": "Put one bowl in the sunshine and one in the shade, at the same time. Note the time.",
      "say": "Ready? We put them down together. Now we wait five minutes.",
-     "kid": "Put them down together. Now we wait five minutes."
+     "kid": "Help put both bowls down at the same time. Then wait."
     },
     {
      "id": "s4",
      "mins": 10,
      "do": "Look at both bowls after 5 minutes and after 10 minutes. Each time, your child says which ice is smaller and which bowl has more water.",
      "say": "Look into both bowls. Which ice cube is smaller? Which bowl has more water in it?",
-     "kid": "Look in both bowls. Which ice is smaller? Which has more water?",
+     "kid": "Look into both bowls and compare the ice and the water.",
      "ask": [
       {
        "q": "What do you see?",
@@ -521,7 +521,7 @@
      "mins": 2,
      "do": "Ask your child what they found and why.",
      "say": "Which ice melted first? Nothing touched it except sunshine. So what did the sunshine bring?",
-     "kid": "Which ice melted first? What did the sunshine bring?",
+     "kid": "Tell your grown-up what you found out.",
      "ask": [
       {
        "q": "What did the sunshine bring?",
@@ -553,7 +553,7 @@
    "title": "What Is in the Sky Right Now? A window look",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you look out of a window in the day and say everything you can see in the sky. Then you guess what the night sky will show.",
+   "context": "In this activity you look out of a window in the day and say everything you can see in the sky. You will find out what the day sky holds, and then guess what the night sky will show.",
    "materials": [
     {
      "item": "nothing to buy: a window or a balcony, in the day",
@@ -585,7 +585,7 @@
      "mins": 3,
      "do": "Stand at a window or on the balcony with your child. Ask them to name everything they can see in the sky.",
      "say": "Let's look at the sky. Don't look at the Sun. What can you see up there?",
-     "kid": "Look at the sky. Not at the Sun! What can you see?",
+     "kid": "Look at the sky, but not at the Sun. Count the different things you find.",
      "ask": [
       {
        "q": "What is in the sky?",
@@ -604,7 +604,7 @@
      "mins": 2,
      "do": "Ask what makes the day sky bright, and whether it is warm by the window.",
      "say": "Why is the sky so bright now? Put your hand on the window glass. Is it warm?",
-     "kid": "Why is the sky bright? Touch the window. Is it warm?",
+     "kid": "Touch the window glass. Is it warm?",
      "ask": [
       {
        "q": "What makes the day bright?",
@@ -620,7 +620,7 @@
      "mins": 3,
      "do": "Ask your child what the night sky will show. Listen to the guesses.",
      "say": "Tonight, what will we see in the sky? Will the Moon be there? Will there be stars?",
-     "kid": "What will the night sky show?",
+     "kid": "Make a guess about tonight's sky.",
      "ask": [
       {
        "q": "What will the night sky show?",
@@ -640,7 +640,7 @@
    "title": "Window Star Count: lights on, lights off",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you count the stars you can see from a window at night. Then you switch off the lights near you, wait, and count again.",
+   "context": "In this activity you count the stars you can see from a window at night. Then you switch off the lights near you, wait, and count again. You will find out whether more stars show when our own lights are off.",
    "materials": [
     {
      "item": "a window or a balcony with some open sky, on a clear night",
@@ -676,7 +676,7 @@
      "mins": 3,
      "do": "On a clear night, stand at the window or on the balcony with the room lights on. Your child counts the stars and makes a tally mark for each.",
      "say": "Let's count the stars we can see. Make one mark for each star.",
-     "kid": "Count the stars. Make one mark for each star.",
+     "kid": "Find the stars and count them.",
      "adult": true
     },
     {
@@ -701,7 +701,7 @@
      "mins": 2,
      "do": "Ask where the new stars came from.",
      "say": "Did new stars come out when we switched off our lights? Or were they there all along?",
-     "kid": "Were the new stars there all along? Why do you think so?",
+     "kid": "Think about where the new stars came from. Tell your grown-up.",
      "ask": [
       {
        "q": "Were they there all along?",
@@ -719,7 +719,7 @@
    "title": "Who Loves the Sunshine? A window hunt",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look for people, animals, plants and things at home that use the Sun's light and heat.",
+   "context": "In this activity you look for people, animals, plants and things at home that use the Sun's light and heat. You will find out who uses its light, who uses its heat, and who uses both.",
    "materials": [
     {
      "item": "nothing to buy: your home and a window, on a sunny morning",
@@ -734,11 +734,11 @@
      "what": "Look around the home and out of the window for who and what uses the sunshine."
     }
    ],
-   "record": "Draw three things you found that use sunshine, and colour the Sun's light falling on each.",
+   "record": "Tell a grown-up three things you found that use sunshine, and what each one gets: light, heat or both. You can also take a photo of each one.",
    "setup": [
     {
      "art": "A potted tulsi plant on a sunny windowsill, with their leaves turned towards the window, and a boy pointing at it.",
-     "caption": "1. Look for a plant near a window. Which way do their leaves face?"
+     "caption": "1. Look for a plant near a window. Which way do its leaves face?"
     },
     {
      "art": "Out of a window, a crow sitting in the morning sun on a ledge, and clothes drying on a balcony line next door.",
@@ -750,8 +750,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Look at a potted plant near a window with your child.",
-     "say": "Look at this plant by the window. Which way are their leaves turned? Why do you think so?",
-     "kid": "Look at the plant's leaves. Which way do they face? Why?",
+     "say": "Look at this plant by the window. Which way are its leaves turned?",
+     "kid": "Point the way the leaves face.",
      "ask": [
       {
        "q": "Why do the leaves face the window?",
@@ -761,14 +761,14 @@
        ]
       }
      ],
-     "parent": "A plant senses where the light is and turns their leaves towards it. They make their food from sunlight, air and water."
+     "parent": "A plant senses where the light is and turns the leaves towards it. The leaves make food from sunlight, air and water. No plant by a window? Use one on a balcony or outside in the sun."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Look out of the window together for anyone or anything using sunshine.",
      "say": "Who is using the sunshine out there? Look for birds, animals, people and things.",
-     "kid": "Who is using the sunshine? Look for birds, people and things.",
+     "kid": "Find as many as you can, and point to them.",
      "ask": [
       {
        "q": "What did you find?",
@@ -787,7 +787,7 @@
      "mins": 2,
      "do": "Ask what the sunshine gave each one.",
      "say": "What did the sunshine give the plant? The crow? The clothes? Was it light, or heat, or both?",
-     "kid": "What did the sunshine give each one? Light, heat or both?",
+     "kid": "Go back through the things you found, one by one.",
      "ask": [
       {
        "q": "Light, heat or both?",
@@ -809,7 +809,7 @@
    "title": "Day Sky or Night Sky? A card sorting game",
    "mins": 10,
    "players": "1 or more players, and a grown-up to read the cards. Players take turns.",
-   "context": "This is a card game. You sort cards into the day sky, the night sky, or both.",
+   "context": "This is a card game. You sort cards into the day sky, the night sky, or both. You will find out what we can see in the day sky, in the night sky, and in both.",
    "printables": [
     {
      "kind": "cards",
@@ -913,16 +913,16 @@
     {
      "id": "s1",
      "mins": 1,
-     "do": "Lay out the papers. Read the rules together.",
+     "do": "Lay out the yellow paper, the dark paper and the middle space. Read the rules together.",
      "say": "Yellow is for the day sky. Dark is for the night sky. The middle is for things we see in both.",
-     "kid": "Yellow is day. Dark is night. The middle is both."
+     "kid": "Help lay out the three places."
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "Play through all 13 cards. Read each front, wait for your child's choice and reason, then read the back.",
      "say": "Many twinkling stars. Day, night or both? Why? Let's turn it over.",
-     "kid": "Read the card. Day, night or both? Why? Turn it over.",
+     "kid": "Choose a place for the card, and say why.",
      "parent": "The stars and the Moon cards are the tricky ones. Remind your child of the torch star test if they have done it."
     },
     {
@@ -930,7 +930,7 @@
      "mins": 2,
      "do": "Talk about the stars card.",
      "say": "We put the stars on night. But are the stars in the sky right now, in the day?",
-     "kid": "Are the stars in the sky right now?"
+     "kid": "Think about the stars card. Tell what you think."
     }
    ]
   },
@@ -939,7 +939,7 @@
    "title": "Sun Up, Sun Down: a moving game",
    "mins": 8,
    "players": "2 or more players. One person is the caller and reads the cards. The others do the moves.",
-   "context": "This is a moving game. The caller reads a card, and everyone shows with their hands and body what happens in the sky.",
+   "context": "This is a moving game. The caller reads a card, and everyone shows with their hands and body what happens in the sky. Acting it out helps you remember what the Sun, Moon and stars do.",
    "printables": [
     {
      "kind": "cards",
@@ -1011,14 +1011,14 @@
      "mins": 2,
      "do": "Practise 'Stars at night' and 'Stars in the day' together.",
      "say": "Stars at night: twinkle your fingers. Stars in the day: keep twinkling, but hide your hands behind your back.",
-     "kid": "Stars at night: twinkle! Stars in the day: twinkle behind your back."
+     "kid": "Try both moves."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Play all 10 cards. After 'Stars in the day', ask why the hands are hidden.",
      "say": "Stars in the day! Are you still twinkling? Why can nobody see you?",
-     "kid": "Do each move. Why can nobody see the day stars?",
+     "kid": "Do each move the caller reads.",
      "ask": [
       {
        "q": "Why can nobody see the stars in the day?",
@@ -1034,7 +1034,7 @@
      "mins": 1,
      "do": "Finish with the Moon card and ask one question.",
      "say": "When you were the Moon, which way did you face? Why?",
-     "kid": "When you were the Moon, which way did you face?",
+     "kid": "Be the Moon one more time. Point to where your light comes from.",
      "ask": [
       {
        "q": "Why did the Moon face the Sun?",
@@ -1054,7 +1054,7 @@
    "title": "My Day Sky and Night Sky Book",
    "mins": 25,
    "days": 2,
-   "context": "In this project you make a small book. One half shows the day sky, and the other half shows the night sky, from your own window.",
+   "context": "In this project you make a small book. One half shows the day sky, and the other half shows the night sky, from your own window. You will see how the same window looks by day and by night.",
    "materials": [
     {
      "item": "two sheets of paper, folded in half and stapled or tied with thread to make a small book",
@@ -1079,7 +1079,7 @@
     {
      "day": 2,
      "mins": 12,
-     "what": "After dark, look out of the same window and draw the night sky pages."
+     "what": "After dark, look out of the same window and fill the night sky pages."
     }
    ],
    "record": "The finished book, with the day sky on the first pages and the night sky on the last pages.",
@@ -1094,24 +1094,24 @@
     },
     {
      "art": "The same girl at the window at night with a grown-up, drawing the Moon and a few stars on a dark page.",
-     "caption": "3. At night, draw the night sky from the same window."
+     "caption": "3. At night, fill the night sky pages from the same window."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "A grown-up folds the two papers in half, puts one inside the other, and staples or ties them at the fold. Your child draws a Sun and a Moon on the cover.",
+     "do": "A grown-up folds the two papers in half, puts one inside the other, and staples or ties them at the fold. Your child writes 'My Sky Book' and their name on the cover.",
      "say": "We are making a sky book. The front pages are for the day sky, and the back pages are for the night sky.",
-     "kid": "Make your sky book. Draw a Sun and a Moon on the cover.",
+     "kid": "Make your sky book. Write the title and your name on the cover.",
      "adult": true
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "In the day, your child looks out of the window and draws the day sky on the first two pages. Write their words under the pictures.",
-     "say": "Look out of the window. Draw what you see in the day sky. What is making it so bright?",
-     "kid": "Draw the day sky. What makes it so bright?",
+     "do": "In the day, your child looks out of the window and draws the day sky on the first two pages. Or they tell you, and you write it. Add their words under any picture.",
+     "say": "Look out of the window. Draw what you see in the day sky, or tell me and I will write it. What is making it so bright?",
+     "kid": "Draw the day sky, or tell your grown-up what to write.",
      "ask": [
       {
        "q": "What makes the day sky bright?",
@@ -1125,19 +1125,19 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "After dark, look out of the same window. Switch off the room light. Your child draws the night sky on the last pages.",
+     "do": "After dark, look out of the same window. Switch off the room light. Your child makes one dot on the last pages for each star. If the Moon is up, add a big circle.",
      "say": "It is the same window, at night. What can you see now? Can you see the Moon? How many stars?",
-     "kid": "Same window, at night. Draw the Moon and the stars.",
+     "kid": "Same window, at night. Make one dot for each star. Add a circle for the Moon.",
      "adult": true,
      "wait": "Do this step after dark, on the same day or the next day.",
-     "parent": "If the Moon is not up, or it is cloudy, your child can draw what they see and try again another night."
+     "parent": "If the Moon is not up, or it is cloudy, your child can make dots for the stars they see and try again another night."
     },
     {
      "id": "s4",
      "mins": 4,
      "do": "Look at the day pages and the night pages side by side.",
      "say": "Look at your day pages and your night pages. Were the stars in the sky in the day too? Where does the Moon get its light?",
-     "kid": "Were the stars there in the day? Where does the Moon's light come from?",
+     "kid": "Turn the pages and compare the day sky with the night sky.",
      "ask": [
       {
        "q": "Were the stars there in the day?",
@@ -1163,7 +1163,7 @@
    "id": "c1",
    "title": "Save the Ice Cube from the Sunshine (if you have a sunny spot)",
    "mins": 15,
-   "context": "This is a problem to solve. An ice cube is sitting in the sunshine. How can you keep it from melting for as long as you can?",
+   "context": "This is a problem to solve. An ice cube is sitting in the sunshine. How can you keep it from melting for as long as you can? You will test your own idea.",
    "problem": "An ice cube must stay in a patch of sunshine. You want it to last as long as it can. What can you use to help it?",
    "constraints": [
     "The ice cube must stay in the same sunny spot.",
@@ -1203,7 +1203,7 @@
      "mins": 3,
      "do": "Read the problem to your child and show the things they may use.",
      "say": "An ice cube must stay in the sunshine. How can we help it last longer? What could we use?",
-     "kid": "How can you keep the ice from melting? What could you use?",
+     "kid": "Look at the things you may use. Pick what you will try.",
      "ask": [
       {
        "q": "What is your idea?",
@@ -1220,7 +1220,7 @@
      "mins": 10,
      "do": "Your child sets up their idea on one ice cube, and leaves the other with nothing. Check both after 5 and 10 minutes.",
      "say": "Put your idea on one ice cube. Leave the other one with nothing. Let's check them after five minutes.",
-     "kid": "Try your idea on one ice cube. Check both after five minutes.",
+     "kid": "Build your idea over one ice cube. The other ice cube gets nothing.",
      "parent": "Anything that makes shade will help, because it stops the sunshine from reaching the ice. A steel lid in full sun gets warm itself, so it may not protect the ice well. Let your child touch the lid and notice this."
     },
     {
@@ -1228,7 +1228,7 @@
      "mins": 2,
      "do": "Ask which ice lasted longer and why.",
      "say": "Which ice cube lasted longer? Why did your idea help?",
-     "kid": "Which lasted longer? Why?",
+     "kid": "Compare the two ice cubes. Tell why one lasted longer.",
      "check": {
       "t": "mcq",
       "q": "You put a cardboard roof over one ice cube in the sunshine. Why does that ice last longer?",

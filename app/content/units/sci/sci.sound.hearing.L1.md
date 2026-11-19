@@ -172,8 +172,8 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
   *Child mode:* Look at the three cards. Near, middle, far. Get ready to hop.
 - **s2 (8 min)**  
   *Parent does:* 1. Mix the sound cards. 2. Read one at a time. 3. Your child hops and says why. 4. Read the back. 5. After 7 cards, swap: your child reads and you hop.  
-  *Parent says:* Thunder in a storm. Is thunder near, middle or far? Hop! Why did you choose that one?  
-  *Child mode:* Listen to the card. Hop to near, middle or far. Say why.
+  *Parent says:* First sound: thunder in a storm. Is thunder near, middle or far? Hop!  
+  *Child mode:* Hop to near, middle or far. Then say why you chose it.
   - Ask: Thunder is very loud. Why is it on FAR? (good: Because it is up in the clouds.; It is loud, but it is far away.; Thunder is so big that we hear it from far.)
   - Note: Some cards have more than one good answer. Praise any reason that makes sense, like 'a koel is loud, so she could be far'.
 - **s3 (2 min)**  
@@ -191,9 +191,9 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
   *Child mode:* Look at your board. Listen for these sounds. Cross off each one you hear.
 - **s2 (8 min)**  
   *Parent does:* 1. Everyone listens quietly. 2. Help your child mark each sound N or F. 3. Ask how they knew.  
-  *Parent says:* You crossed off the horn. Was it near or far? How did you know?  
-  *Child mode:* Cross off a sound. Was it near or far? Write N or F.
-  - Ask: How did you know the horn was far? (good: It was soft.; It came from the road down there.; It sounded small.)
+  *Parent says:* You crossed off a sound. Was it near or far?  
+  *Child mode:* Cross off a sound. Then write N or F next to it.
+  - Ask: How did you know that sound was far? (good: It was soft.; It came from the road down there.; It sounded small.)
   - Note: In a flat, many sounds come from the street below or the flats around you. Some sounds are hard to place. That is fine. Ask your child for their best guess and their reason.
 - **s3 (2 min)**  
   *Parent does:* Count the N and F marks together. Ask the check question.  
@@ -207,7 +207,7 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 - **predict:** Guess first. With your eyes covered, will you always know if the tumbler is near or far? Could a soft tap close by trick you? Why do you think so?
 - **fair test:** You sit in the same chair every round, with your eyes covered. The grown-up uses the same tumbler and the same spoon. The grown-up moves only while you cover your ears and count, so footsteps do not give the place away. Which spot comes next is decided by the paper chits, so you cannot guess a pattern.
 - **safety:** Never hit the tumbler right next to anyone's ear. The near spot is one big step behind the chair, not at the ear.
-- **record:** Draw yourself on the chair. Draw the near spot and the far spot. Put a tick for each round you got right, and a cross for each round that tricked you.
+- **record:** Put a tick for each round you got right, and a cross for each round that tricked you. Tell a grown-up which rounds tricked you, and a grown-up writes it down.
 - **results table:** Round | Where the grown-up was: near or far | Normal, soft or hard tap | My guess: near or far | Right or wrong
 - **s1 (3 min)**  
   *Parent does:* 1. Switch off the fan and the TV. 2. Put a chair in the middle of the room. 3. Mark a near spot one big step behind the chair. 4. Mark a far spot across the room, by the door. 5. Make 6 paper chits.  
@@ -216,48 +216,48 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
   - Note: Write the chits secretly. The three normal chits say 'normal near', 'normal far' and 'normal near'. The three trick chits say 'soft near', 'hard far' and 'soft near'. Keep the normal chits in one pile and the trick chits in another, and mix each pile.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess. Write their guess down.  
-  *Parent says:* With your eyes covered, will you always know if I am near or far? Could I trick you? Why do you think so?  
-  *Child mode:* Guess. Will your ears always know near or far? Why?
+  *Parent says:* With your eyes covered, will you always know if I am near or far? Could I trick you?  
+  *Child mode:* Guess. Will your ears always know near or far?
   - Ask: Why do you think so? (good: Yes, because near sounds are loud.; No, because I can't see you.; Maybe, if you hit it softly.)
   - Note: Any guess is fine. Do not say what will happen.
 - **s3 (5 min) · grown-up needed**  
   *Parent does:* 1. Cover your child's eyes. 2. Pick a normal chit. 3. Your child covers their ears and counts to ten out loud. 4. Walk quietly to the spot. 5. After the count, hit the tumbler once, the same way each time. 6. Write the guess. Do all three normal chits.  
   *Parent says:* Cover your ears and count to ten, out loud. Now hands down. Listen. Was that near or far?  
-  *Child mode:* Cover your ears. Count to ten. Hands down. Listen. Near or far?
+  *Child mode:* Cover your ears and count to ten. Then hands down, and listen to the tap.
   - Ask: Near or far? How did you know? (good: Near, because it was loud.; Far, because it was soft and small.)
   - Note: A normal tap is a medium hit. Most children get these right. Do not say if a guess is right until the end.
 - **s4 (5 min) · grown-up needed**  
   *Parent does:* 1. Now use the three trick chits. 2. For 'soft near', just touch the tumbler gently with the spoon. 3. For 'hard far', hit it firmly, but not hard enough to dent it. 4. Write each guess.  
   *Parent says:* Same again. Cover your ears and count to ten. Hands down. Listen. Near or far?  
-  *Child mode:* Cover your ears. Count to ten. Listen. Near or far?
+  *Child mode:* Cover your ears and count to ten. Then listen to the tap and say near or far.
   - Note: Many children call the soft near tap 'far', and the hard far tap 'near'. In a small flat it may not work every time. If your child gets these right too, ask how they knew. Some children notice the echo in the room, and ears really do use echo. That is a good result too.
 - **s5 (4 min)**  
   *Parent does:* 1. Uncover your child's eyes. 2. Look at the results together. 3. Ask what they found, and why they think it happened. 4. Ask the check question.  
-  *Parent says:* Look at the normal rounds and the trick rounds. Which ones tricked you? Why do you think the soft tap close by sounded far away?  
-  *Child mode:* Which rounds tricked you? Why did the soft tap sound far?
+  *Parent says:* Look at the normal rounds and the trick rounds. Which ones tricked you?  
+  *Child mode:* Look at your results. Find the rounds that tricked you.
   - Check: In the trick round, a soft tap close by sounded far away. Why? → **Your ears heard a soft sound, and soft sounds are usually far**
   - Think: A loud sound can be far, and a soft sound can be near. So what else could help you tell where a sound is? Think about the echo in the room, and how loud you already know that sound usually is.
 
 ## Activities
 ### a1 · The Listening Window: near sounds and far sounds (10 min)
-- **record:** Fold a paper in half. On one side draw a near sound you heard, and on the other side a far sound.
+- **record:** Fold a paper in half. A grown-up writes each sound you heard on the near side or the far side, where you say it belongs. You can draw a picture of it too.
 - **s1 (4 min)**  
   *Parent does:* 1. Sit with your child by a window or on the balcony. 2. Both shut your eyes for two minutes. 3. Your child holds up one finger for each new sound.  
   *Parent says:* Shut your eyes. Let's be very quiet for two minutes. Hold up a finger every time you hear a new sound.  
   *Child mode:* Shut your eyes. Be very quiet. Hold up a finger for each sound.
 - **s2 (3 min)**  
   *Parent does:* Open your eyes. Your child names each sound and says near or far.  
-  *Parent says:* What did you hear? Was it near or far? How do you know?  
-  *Child mode:* Say each sound. Was it near or far? How do you know?
+  *Parent says:* What did you hear? Was it near or far?  
+  *Child mode:* Say each sound you heard. Say if it was near or far.
   - Ask: How do you know that sound was far? (good: It was soft.; It came from down the road.; It was a small sound.)
   - Note: Most children hear several sounds in two minutes, even in a quiet flat. Do not explain yet. Just collect their reasons.
 - **s3 (3 min)**  
-  *Parent does:* Your child draws one near sound and one far sound.  
-  *Parent says:* Draw one sound that was near, and one that was far.  
-  *Child mode:* Draw a near sound. Draw a far sound.
+  *Parent does:* Fold a paper in half. Write each sound on the near side or the far side, as your child tells you.  
+  *Parent says:* Which side does each sound go on, near or far?  
+  *Child mode:* Tell your grown-up which side each sound goes on.
 ### a2 · Look at Your Ears: flaps, folds, covering and cupping (10 min)
 - **safety:** Never put a finger, a cotton bud, a pencil or anything else inside an ear. Only touch the outside.
-- **record:** Draw your own ear from the mirror. Point to the ear flap and the ear hole, and a grown-up writes the names.
+- **record:** Point to the ear flap and the ear hole on your own ear in the mirror. Say each name, and a grown-up writes it down.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child looks at one ear in a mirror. 2. They touch the curly folds of the ear flap. 3. They find the ear hole. 4. Look at each other's ears.  
   *Parent says:* Look at your ear in the mirror. This part you can touch is the ear flap. The little opening is the ear hole. Are my ears the same shape as yours?  
@@ -271,19 +271,19 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
   - Note: Covering the ears blocks some sound. This is how we protect ears from very loud sounds like firecrackers. Cupping makes the ear flap bigger, so it catches more sound.
 - **s3 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Which of these is a safe way to look after your ears?  
-  *Child mode:* Which is a safe way to look after your ears?
+  *Parent says:* Let us check how to keep your ears safe.  
+  *Child mode:* Think about how to keep your ears safe.
   - Check: Which is a safe way to look after your ears? → **Cover them when a sound is very loud**
 ### a3 · Find the Hidden Song: louder means closer (12 min)
-- **record:** Draw a map of the room with the place where the phone was hidden. Draw arrows to show the way you walked.
+- **record:** Take a photo of each place the phone was hidden. Tell a grown-up how the song changed as you came closer.
 - **s1 (2 min)**  
   *Parent does:* 1. Your child waits in another room. 2. Play a song softly on a phone. 3. Hide the phone under a cushion, behind a curtain or in a basket. Never hide it in a high or unsafe place.  
   *Parent says:* I am hiding a phone that is playing a song. When I call you, find it with your ears.  
   *Child mode:* Wait in the other room. Then find the phone with your ears.
 - **s2 (7 min)**  
   *Parent does:* 1. Your child walks slowly around the room listening. 2. Ask if the song is louder or softer. 3. Do three rounds.  
-  *Parent says:* Is the song louder or softer now? Then are you getting closer, or further away?  
-  *Child mode:* Walk slowly. Is it louder? Then you are getting closer.
+  *Parent says:* Is the song louder or softer now? Are you getting closer, or further away?  
+  *Child mode:* Walk slowly and listen. Find the phone.
   - Ask: How did you find the phone? (good: I went where the song got louder.; When it got softer I turned back.)
   - Note: If your child finds it too fast, make the song softer. If it is too hard, make it a little louder.
 - **s3 (3 min)**  
@@ -292,7 +292,7 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
   *Child mode:* Now you hide the phone. A grown-up finds it.
   - Check: You walk towards the hidden phone. What happens to the song? → **It gets louder**
 ### a4 · Move Like a Listener: elephants, crickets and frogs (10 min)
-- **record:** Draw one of the animals and circle where their ears are.
+- **record:** Point to where a cricket's ears and a frog's eardrums would be on your own body, and tell a grown-up.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child stands barefoot, eyes shut. 2. You stamp gently on the floor a few steps away. 3. They raise a hand when they feel it.  
   *Parent says:* Elephants call their family with very low rumbles. They may feel some of them through their feet. Stand still and shut your eyes. Can you feel my stamp?  
@@ -308,26 +308,26 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 - **s3 (3 min)**  
   *Parent does:* 1. Your child sits like a frog. 2. Show where a frog's eardrum is, on the side of the head behind the eye.  
   *Parent says:* A frog's eardrum is a round circle on the outside, just behind the eye. Your eardrum is hidden deep inside, at the end of your ear hole. Can you point to where each one is?  
-  *Child mode:* Be a frog. Where is a frog's eardrum? Where is yours?
+  *Child mode:* Sit still like a frog. Point to where a frog's eardrum is.
 
 ## Projects
 ### p1 · My Sound Map: near and far sounds over three days (20 min, 3 days)
 - **record:** The finished sound map, with near sounds close to your home and far sounds near the edge.
-- **schedule:** day 1: Draw your home in the middle. Listen for two minutes in the morning. Draw each sound close or far. (8 min); day 2: Listen for two minutes in the afternoon. Add the new sounds. (6 min); day 3: Listen for two minutes in the evening. Add the new sounds. Show the map to someone. (6 min)
+- **schedule:** day 1: Draw your home in the middle. Listen for two minutes in the morning. Write or draw each sound, close or far. (8 min); day 2: Listen for two minutes in the afternoon. Add the new sounds. (6 min); day 3: Listen for two minutes in the evening. Add the new sounds. Show the map to someone. (6 min)
 - **s1 (8 min)**  
-  *Parent does:* 1. Draw your home in the middle of the big sheet. 2. Draw three big circles around it: near, middle and far. 3. Listen together for two minutes. 4. Your child draws each sound in a circle.  
+  *Parent does:* 1. Draw your home in the middle of the big sheet. 2. Draw three big circles around it: near, middle and far. 3. Listen together for two minutes. 4. Your child writes or draws each sound in a circle. A grown-up can write the word for them.  
   *Parent says:* This is a map of sounds. Our home is in the middle. Listen. Where does each sound go: near, middle or far?  
-  *Child mode:* Draw your home in the middle. Listen. Draw each sound close or far.
+  *Child mode:* Listen. Put each sound in its circle with a word or a picture.
 - **s2 (6 min)**  
   *Parent does:* In the afternoon, listen again for two minutes and add the new sounds.  
   *Parent says:* It is afternoon now. Are there new sounds? Are any of the morning sounds gone?  
-  *Child mode:* Listen again. Add any new sounds to your map.
+  *Child mode:* Add any new sounds to your map.
   - Wait: Do this again in the afternoon of day 2.
 - **s3 (6 min)**  
   *Parent does:* In the evening of day 3, listen and add sounds. Your child shows the map to someone.  
   *Parent says:* Which sound on your map is the farthest away? How do you know?  
-  *Child mode:* Show your map. Which sound was the farthest?
-  - Check: On your sound map, where do you draw an aeroplane flying high in the sky? → **Near the edge, with the far sounds**
+  *Child mode:* Show your map to someone and tell them about it.
+  - Check: On your sound map, where does an aeroplane flying high in the sky go? → **Near the edge, with the far sounds**
 
 ## Challenges
 ### c1 · Call Everyone for Dinner Without Shouting (15 min)
@@ -339,12 +339,12 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child.  
   *Parent says:* Dinner is ready, but the others are in far rooms. The baby next door is asleep, so no shouting. How could you call them?  
-  *Child mode:* Dinner is ready. No shouting. How will you call everyone?
+  *Child mode:* Think of a way to call everyone without shouting.
   - Ask: What could you do? (good: Walk to them and tell them.; Ring a bell.; Knock on the door.)
 - **s2 (6 min)**  
-  *Parent does:* Your child draws one or two ideas. Talk about each one.  
-  *Parent says:* Draw your idea. Will the sound reach the far room? Will it wake the baby?  
-  *Child mode:* Draw your idea. Will the far room hear it?
+  *Parent does:* Your child tells you two ideas, or acts one out. Talk about each one.  
+  *Parent says:* Tell me two ideas. Will the sound reach the far room? Will it wake the baby?  
+  *Child mode:* Say or act out two ideas. Will the far room hear them?
 - **s3 (4 min)**  
   *Parent does:* Try the best idea at home.  
   *Parent says:* Let's try it. I will wait in the far room.  
@@ -352,7 +352,7 @@ This time, Meena was not tricked. She reached out her hand, and there was Arjun,
 - **s4 (2 min)**  
   *Parent does:* Ask the check question.  
   *Parent says:* Did it work? What would you change?  
-  *Child mode:* Did it work? What would you change?
+  *Child mode:* Think about what you would change next time.
   - Check: Your voice is too soft to reach the far room. What is the simplest fix that is not shouting? → **Walk closer to the room and speak**
 
 ## Worksheets
