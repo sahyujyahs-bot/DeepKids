@@ -216,7 +216,7 @@
    "title": "Light Maker or Not? The dark room test",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you gather some things from home and guess which ones make their own light. Then you take them into a dark room and find out.",
+   "context": "In this experiment you gather some things from home and guess which ones make their own light. Then you take them into a dark room and find out. You will find out which of them can still be seen when no other light is on.",
    "question": "Which of these things make their own light, and which only look bright?",
    "predict": "Look at each thing on the tray. Will you be able to see it in the dark room? Why do you think so?",
    "fair_test": "We use the same dark room for every thing. We wait one whole minute in the dark before we start, so our eyes get used to it. We hold each thing in the same place, an arm's length in front of us.",
@@ -262,7 +262,7 @@
      "what": "Guess which things will shine in the dark, then test each one in a dark room."
     }
    ],
-   "record": "Draw two big circles. In one, draw the things you could see in the dark. In the other, draw the things that vanished. A grown-up writes the names.",
+   "record": "Make two piles: the things you could see in the dark, and the things that vanished. A grown-up writes the names, or you take a photo of the piles.",
    "setup": [
     {
      "art": "A tray in a bright room holding a torch, a phone, a steel spoon, a small mirror, a bangle and white paper.",
@@ -288,9 +288,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Ask your child to sort the things into two piles: 'will shine in the dark' and 'will vanish in the dark'. You write or draw their guesses in the table.",
-     "say": "Soon we will go into a dark room. Which things will you still be able to see there? Put them in this pile. Why do you think so?",
-     "kid": "Which things will you see in the dark? Make a pile. Why?",
+     "do": "Ask your child to sort the things into two piles: 'will shine in the dark' and 'will vanish in the dark'. You write their guesses in the table.",
+     "say": "Soon we will go into a dark room. Which things will you still be able to see there? Put them in this pile.",
+     "kid": "Sort the things into two piles: will shine, and will vanish.",
      "ask": [
       {
        "q": "Why did you put the spoon in that pile?",
@@ -307,7 +307,7 @@
      "mins": 2,
      "do": "1. Take the tray into the darkest room you have, such as a bathroom with no window. 2. Close the door and switch off the light. 3. Wait one whole minute. 4. Ask your child to hold up a hand.",
      "say": "Let's wait for one minute, so our eyes get used to the dark. Now hold up your hand. Can you see it?",
-     "kid": "Wait in the dark. Count to sixty with me. Can you see your hand?",
+     "kid": "Wait in the dark and count to sixty with me.",
      "parent": "Do this after dark if you can. If some light comes under the door, put a towel along the gap. A little light is fine: things will look dim instead of vanishing, and you can still compare them."
     },
     {
@@ -315,7 +315,7 @@
      "mins": 3,
      "do": "1. Hand your child the spoon, the mirror, the bangle, the paper and the switched-off torch, one at a time. 2. Each time, ask if they can see it. 3. Then ask them to switch the phone screen on.",
      "say": "Hold up the spoon. Can you see it? Now the mirror. Now the bangle. Now the torch, switched off. Now switch on the phone screen. What happens?",
-     "kid": "Hold up each thing. Can you see it? Now switch on the phone.",
+     "kid": "Hold up each thing in the dark. Then switch on the phone.",
      "ask": [
       {
        "q": "Which things could you see?",
@@ -331,7 +331,7 @@
      "mins": 3,
      "do": "1. Your child switches the torch on and points it at the ceiling. 2. They switch it off and on again, three times. 3. Then they shine it on the spoon, and then point it away from the spoon.",
      "say": "Switch the torch on. Now off. Is any light left? Now shine it on the spoon. Now point it away. What happens to the spoon?",
-     "kid": "Switch the torch on and off. Shine it on the spoon. Now point it away.",
+     "kid": "Switch the torch on and off, and watch the spoon.",
      "ask": [
       {
        "q": "What happened when you switched the torch off?",
@@ -341,7 +341,7 @@
        ]
       },
       {
-       "q": "What happened to the spoon when you shone the torch on it, and when you pointed the torch away?",
+       "q": "What did the spoon look like with the torch on it? What did it look like when you pointed the torch away?",
        "good": [
         "It shone when the torch was on it.",
         "It went dark when I pointed the torch away."
@@ -355,7 +355,7 @@
      "mins": 2,
      "do": "Back in the bright room, look at the guesses together. Ask your child to say what they think, what they saw, and why.",
      "say": "Which things shone in the dark? Which vanished? Were your guesses right? Why do you think the spoon vanished?",
-     "kid": "Which things shone in the dark? Which vanished? Why?",
+     "kid": "Look back at your two piles. Which guesses were right?",
      "ask": [
       {
        "q": "What did you find out in the dark room?",
@@ -385,7 +385,7 @@
    "title": "Which Light Shows the Far Wall?",
    "mins": 14,
    "days": 1,
-   "context": "In this experiment you stand at one end of a dark room with three different light sources. You find out which one lets you see a drawing on the far wall.",
+   "context": "In this experiment you stand at one end of a dark room with three different light sources. You find out which one lets you see a drawing on the far wall. You will find out if all light sources give the same amount of light.",
    "question": "Do all light sources give the same amount of light?",
    "predict": "Which will help you see the drawing best: the phone screen or the torch? Why do you think so? (If a grown-up will light a diya too, guess for the diya as well.)",
    "fair_test": "We stand in the same place each time, and hold each light at the same height. We use one light at a time. We look at the same drawing every time.",
@@ -420,7 +420,7 @@
      "what": "Light a far drawing with a phone screen, a torch and a diya, one at a time."
     }
    ],
-   "record": "Draw the three lights in a row. Next to each one, draw what you could see of the drawing on the wall.",
+   "record": "Put the lights you used in a row, from the one that showed the drawing best to the one that showed it worst. A grown-up writes the order down.",
    "setup": [
     {
      "art": "A colourful drawing of a red flower and a blue bird stuck on a wall, at the far end of a dark room.",
@@ -447,8 +447,8 @@
      "id": "s2",
      "mins": 2,
      "do": "Ask your child to guess which light will show the drawing best, and which worst. Write the guesses in the table.",
-     "say": "Phone screen or torch: which will show the drawing best? Why do you think so?",
-     "kid": "Which light will show the drawing best? Why?",
+     "say": "Which light will show the drawing best, the phone screen or the torch? Why do you think so?",
+     "kid": "Guess which light is best, and say why.",
      "ask": [
       {
        "q": "Why do you think that light will show the drawing best?",
@@ -465,7 +465,7 @@
      "mins": 6,
      "do": "1. Switch off the room light and wait one minute. 2. Your child holds up the phone screen, facing the drawing. 3. Then the torch, pointed at the drawing. 4. Extra, if a grown-up is happy to light a flame: you hold up the lit diya at the same spot.",
      "say": "First the phone screen. Can you see the drawing? Can you see its colours? Now the torch. (If you are using a diya: now the diya.)",
-     "kid": "Hold up the phone. Can you see the drawing? Now try the torch.",
+     "kid": "Hold up the phone, then the torch. Look for the red flower and the blue bird.",
      "adult": true,
      "ask": [
       {
@@ -483,7 +483,7 @@
      "mins": 4,
      "do": "Switch on the room light. Compare what happened with the guesses. Then ask the check question.",
      "say": "Which light made the most light? Were your guesses right? Do all light sources give the same amount of light?",
-     "kid": "Which light was brightest? Do all lights give the same light?",
+     "kid": "Look back at your guesses. Were they right?",
      "ask": [
       {
        "q": "What did you find out about the three lights?",
@@ -514,7 +514,7 @@
    "title": "Follow the Light Home",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you find bright patches in your home in the day, and follow each one back to where its light comes from.",
+   "context": "In this activity you find bright patches in your home in the day, and follow each one back to where its light comes from. You will find out which light source made most of them.",
    "materials": [
     {
      "item": "nothing to buy: a room with a window, in the day",
@@ -529,7 +529,7 @@
      "what": "Find bright patches at home and follow each one back to its light source."
     }
    ],
-   "record": "Draw one bright patch in your home, and draw a line back to its light source.",
+   "record": "Say how many patches the Sun made and how many a lamp made. A grown-up writes the two numbers.",
    "setup": [
     {
      "art": "A bright patch of sunlight on a tiled floor, and a girl pointing from the patch to the window.",
@@ -545,18 +545,18 @@
      "id": "s1",
      "mins": 2,
      "do": "Walk round the home with your child. Find a bright patch on the floor, a wall or a table.",
-     "say": "Look, this bit of the floor is bright. Where is its light coming from? Point to it.",
-     "kid": "Find a bright patch. Where does its light come from? Point."
+     "say": "Look, this bit of the floor is bright. Where does its light come from?",
+     "kid": "Walk round and find a bright patch. Point to where its light starts."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "1. Find three or four bright patches. 2. For each, your child points back to the light source: the window, a lamp, a screen. 3. If a patch comes from a mirror or a steel plate, ask where that light came from first.",
-     "say": "This one comes from the window. And the light at the window comes from the Sun. What about this shiny patch from the steel plate?",
+     "say": "This one comes from the window, and the window's light comes from the Sun. Now you find more.",
      "kid": "Find more bright patches. Follow each one back. Where does it start?",
      "ask": [
       {
-       "q": "Where did the light on the steel plate come from?",
+       "q": "If a patch came from a mirror or a steel plate, where did its light come from first?",
        "good": [
         "From the window first.",
         "From the Sun, and then the plate sent it on."
@@ -570,7 +570,7 @@
      "mins": 2,
      "do": "Ask how many patches started at the Sun, and how many at a lamp.",
      "say": "How many bright patches did the Sun make? How many did the lamps make? Which light source lit most of our home today?",
-     "kid": "Which light made most bright patches today? The Sun or a lamp?",
+     "kid": "Count the patches the Sun made, and the patches a lamp made.",
      "ask": [
       {
        "q": "Which light source lit most of the home?",
@@ -588,7 +588,7 @@
    "title": "The Little Lights Hunt at night",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you switch off the big lights at night and hunt for every tiny light that is still on in your home.",
+   "context": "In this activity you switch off the big lights at night and hunt for every tiny light that is still on in your home. You will find out how many light sources are on even when the big lights are off.",
    "materials": [
     {
      "item": "nothing to buy: your home at night, with the big lights off",
@@ -606,7 +606,7 @@
      "what": "Switch off the big lights and count the small light sources still on."
     }
    ],
-   "record": "Make one tally mark for each little light you find. Draw your favourite one.",
+   "record": "Make one tally mark for each little light you find. Then tell your grown-up which one was your favourite.",
    "setup": [
     {
      "art": "A dark living room at night with tiny glowing dots: a red dot on a TV, a green dot on a phone charger, and a glowing clock.",
@@ -623,13 +623,13 @@
      "mins": 2,
      "do": "After dark, switch off the fans and big lights in one or two rooms. Wait one minute together.",
      "say": "The big lights are off. Some tiny lights are still on. How many do you think we will find? Why?",
-     "kid": "The big lights are off. How many tiny lights will we find? Why?"
+     "kid": "Guess how many tiny lights we will find."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "1. Walk slowly round with your child. 2. Look for tiny lights: on the TV, a charger, a clock or the inverter. 3. Open the fridge, and look out of the window too. 4. Make a tally mark for each one.",
-     "say": "Look! A little red light on the TV. That is a light source. Make a mark. Can you find another one?",
+     "say": "Look! A little light here. That is a light source. Make a mark. Can you find another one?",
      "kid": "Find a tiny light. Make a mark. Find another.",
      "parent": "Most homes have more tiny lights than children expect. Don't touch switches or plugs. Just look."
     },
@@ -638,7 +638,7 @@
      "mins": 2,
      "do": "Count the marks together. Ask what all the little lights need to keep shining.",
      "say": "How many did we find? Was that more or fewer than you guessed? What do these lights need to keep shining?",
-     "kid": "How many did you find? What do they need to keep shining?",
+     "kid": "Count the marks. Is it more or fewer than your guess?",
      "ask": [
       {
        "q": "What do the little lights need to keep shining?",
@@ -656,7 +656,7 @@
    "title": "The Diya Up Close",
    "mins": 10,
    "days": 1,
-   "context": "In this activity a grown-up lights a diya, and you look closely at the flame from a safe distance.",
+   "context": "In this activity a grown-up lights a diya, and you look closely at the flame from a safe distance. You will find out what a flame looks like up close, and what it needs to keep burning.",
    "materials": [
     {
      "item": "a clay or brass diya with oil and a cotton wick, on a steel plate",
@@ -675,7 +675,7 @@
      "what": "Watch a diya flame closely, from a safe distance."
     }
    ],
-   "record": "Draw the diya and its flame. Colour the parts of the flame you saw.",
+   "record": "Draw the flame and colour the parts you saw, or tell your grown-up the colours from the top to the bottom.",
    "setup": [
     {
      "art": "A grown-up lighting a clay diya on a steel plate, and a boy sitting an arm's length away.",
@@ -700,7 +700,7 @@
      "mins": 4,
      "do": "Ask your child to look at the flame's shape and colours, and at the wick.",
      "say": "What shape is the flame? What colours can you see? Look at the bottom of the flame. Look at the wick.",
-     "kid": "What shape is the flame? What colours do you see?",
+     "kid": "Look at the flame and the wick.",
      "adult": true,
      "ask": [
       {
@@ -719,7 +719,7 @@
      "mins": 2,
      "do": "Hold the back of your own hand beside the flame, a hand's width away, never above it. Let your child do the same if they are careful.",
      "say": "Put the back of your hand beside the flame, not above it. Not too close. What do you feel?",
-     "kid": "Hold your hand beside the flame, not above. What do you feel?",
+     "kid": "Hold the back of your hand beside the flame, not above it.",
      "adult": true,
      "ask": [
       {
@@ -736,7 +736,7 @@
      "mins": 2,
      "do": "Ask what the flame needs to keep burning. Then blow it out.",
      "say": "What does the diya need to keep making light? What will happen when all the oil is gone? Now I will blow it out.",
-     "kid": "What does the diya need to keep shining? Watch it go out.",
+     "kid": "Watch the grown-up blow the flame out.",
      "adult": true,
      "ask": [
       {
@@ -769,7 +769,7 @@
    "title": "Yellow Paper, Dark Paper: a card sorting game",
    "mins": 10,
    "players": "1 to 4 players, and a grown-up to read the cards (the grown-up can play too).",
-   "context": "This is a card game. You sort cards onto three papers: things that make their own light, things that don't, and things that could but aren't right now.",
+   "context": "This is a card game. You sort cards onto three papers: things that make their own light, things that don't, and things that could but aren't right now. You will find out which things really make light and which only look bright.",
    "printables": [
     {
      "kind": "cards",
@@ -883,14 +883,14 @@
      "mins": 1,
      "do": "Lay out the yellow, dark and white papers. Read the rules together.",
      "say": "Yellow is for things that make their own light. Dark is for things that don't. White is for things that could, but are not making light right now. Let's sort the cards.",
-     "kid": "Yellow paper is for things that make their own light. Dark paper is for things that do not. White paper is for things that could, but are not right now."
+     "kid": "Look at the three papers. Which one is for things that make their own light?"
     },
     {
      "id": "s2",
      "mins": 7,
      "do": "Play through all 16 cards, taking turns. Read each card's front, wait for the player's choice and reason, then read the back.",
      "say": "A shiny gold bangle. Yellow, dark or white? Why? Let's turn it over and see.",
-     "kid": "Read the card. Yellow, dark or white? Why? Turn it over.",
+     "kid": "Listen to the card. Put it on the paper you think is right, and say why.",
      "parent": "The shiny cards (the spoon, the mirror and the bangle) are the tricky ones. Remind your child of the dark room test if they have done it."
     },
     {
@@ -898,7 +898,7 @@
      "mins": 2,
      "do": "Count the face-up cards. Then look at the cards on the white NOT NOW paper and ask what would make each one a light source. The answer is to switch the torch on, and to light the candle.",
      "say": "The torch is switched off, and the candle is not lit. What would make them light sources?",
-     "kid": "What would make the torch and the candle shine?",
+     "kid": "Look at the cards on the white paper. What does each one need to make light?",
      "check": {
       "t": "mcq",
       "q": "Someone says a mirror is a light source because it shines. Are they right?",
@@ -918,7 +918,7 @@
    "title": "Torch On, Torch Off: a moving game",
    "mins": 8,
    "players": "2 or more players. One player is the caller.",
-   "context": "This is a moving game. The caller reads a card, and everyone shows with their hands and body what the light does.",
+   "context": "This is a moving game. The caller reads a card, and everyone shows with their hands and body what the light does. You will find out what a light does when it is switched on, switched off, or loses its power.",
    "printables": [
     {
      "kind": "cards",
@@ -962,7 +962,7 @@
       },
       {
        "f": "A steel spoon! Stand still.",
-       "b": "A spoon makes no light. It waits for a light to shine on it."
+       "b": "A spoon makes no light. You can see it only when light from somewhere else falls on it."
       }
      ]
     }
@@ -991,15 +991,15 @@
      "id": "s1",
      "mins": 2,
      "do": "Practise the moves for 'Torch on' and 'Torch off' together.",
-     "say": "Torch on: open your hands wide, light is coming out. Torch off: fists, quick! The light stops at once.",
-     "kid": "When the caller says torch on, open your hands wide. When the caller says torch off, make fists, fast."
+     "say": "We will act out a torch. Torch on means light is coming out. Torch off means the light stops at once.",
+     "kid": "Open your hands wide for torch on. Make fists, fast, for torch off."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Play all 10 cards. After each move, ask 'why?' before you read the back. After 'Night time', ask where the Sun is.",
      "say": "Night time! Turn your back. Is the Sun still shining? Where?",
-     "kid": "Do each move. Is the Sun still shining at night?",
+     "kid": "Do each move as fast as you can. Say why when the caller asks.",
      "ask": [
       {
        "q": "Where is the Sun at night?",
@@ -1014,8 +1014,8 @@
      "id": "s3",
      "mins": 1,
      "do": "Ask the check question.",
-     "say": "When the power comes back, what do the tube lights have to do? What do they need?",
-     "kid": "The power is back! What do tube lights need to shine?",
+     "say": "Let us act out a power cut, and then the power coming back. What do the tube lights need to shine again?",
+     "kid": "Freeze for the power cut. Open your hands when the power is back.",
      "check": {
       "t": "mcq",
       "q": "In a power cut, a tube light goes dark. What does it need to shine again?",
@@ -1037,7 +1037,7 @@
    "title": "The Paper-Cup Star Lantern",
    "mins": 25,
    "days": 2,
-   "context": "In this project you make a lantern from a paper cup with holes in its bottom. The next night you put it over a torch, and fill the ceiling with spots of light.",
+   "context": "In this project you make a lantern from a paper cup with holes in its bottom. The next night you put it over a torch, and fill the ceiling with spots of light. You will find out where the light in each spot comes from.",
    "materials": [
     {
      "item": "a paper cup that fits over the lit end of your torch",
@@ -1073,7 +1073,7 @@
      "what": "At night, hold the cup over a torch and look at the spots of light."
     }
    ],
-   "record": "Draw your cup, and draw the spots of light it made on the ceiling.",
+   "record": "Count the spots on the ceiling, and tell your grown-up what shape they made. Did it match the shape of your dots?",
    "setup": [
     {
      "art": "A paper cup upside down with crayon dots drawn on its flat bottom, a ball of dough inside it, and a grown-up poking a pencil through a dot.",
@@ -1088,24 +1088,24 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Your child draws 6 to 10 dots on the flat bottom of the cup, keeping them apart. They can make a shape, like a star or a fish.",
+     "do": "Your child draws 6 to 10 dots on the flat bottom of the cup, keeping them apart. They can make a shape, like a star or a fish. If they do not want to draw, they point and you make the dots.",
      "say": "Draw dots on the bottom of the cup. Each dot will become a hole. What shape will you make?",
-     "kid": "Draw dots on the cup's bottom. You can make a shape."
+     "kid": "Make 6 to 10 dots, spaced apart, in a shape you like."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Press the ball of dough inside the cup, up under the flat bottom. 2. Hold the cup upside down on the table. 3. Push the pencil point through each dot into the dough. 4. Your child counts the holes.",
      "say": "I will make a hole through each dot. Let's count them. How many spots of light do you think we will see?",
-     "kid": "Count the holes. How many spots of light will you see?",
+     "kid": "Watch the holes being made, and count them.",
      "adult": true
     },
     {
      "id": "s3",
      "mins": 8,
      "do": "1. On the next night, switch off the lights. 2. Hold the torch switched on, pointing up. 3. Put the cup over its lit end, like a hat. 4. Slowly lift the torch and cup towards the ceiling, and back down.",
-     "say": "Look up! What do you see? How many spots? Where does each spot's light come from?",
-     "kid": "Look up at the ceiling. Count the spots. Where does the light come from?",
+     "say": "Look up! What do you see? How many spots?",
+     "kid": "Look up at the ceiling and count the spots.",
      "ask": [
       {
        "q": "Where does the light in the spots come from?",
@@ -1122,7 +1122,7 @@
      "mins": 2,
      "do": "Switch the torch off and on. Ask the check question.",
      "say": "Switch the torch off. What happens to the spots? Why?",
-     "kid": "Switch the torch off. Where did the spots go?",
+     "kid": "Switch the torch off, then on. Watch the spots.",
      "check": {
       "t": "mcq",
       "q": "You switch off the torch under the star lantern. What happens to the spots on the ceiling?",
@@ -1143,7 +1143,7 @@
    "id": "c1",
    "title": "Read in the Power Cut",
    "mins": 12,
-   "context": "This is a problem to solve. Pretend there is a power cut at night. You want to look at a picture book. How can you light it up?",
+   "context": "This is a problem to solve. Pretend there is a power cut at night. You want to look at a picture book. How can you light it up? You will find two ways, and find out which light source each one starts with.",
    "problem": "The power has gone at night. You and a grown-up want to read a picture book together. How can you light up the page well enough to see the pictures?",
    "constraints": [
     "Pretend the room lights and fans do not work.",
@@ -1185,7 +1185,7 @@
      "mins": 2,
      "do": "Switch off the lights. Read the problem to your child.",
      "say": "Pretend it is a power cut. We want to read this book. What could we use to light it up?",
-     "kid": "It is a pretend power cut. How can you light up the book?",
+     "kid": "Look at the things laid out. Pick one to try first.",
      "ask": [
       {
        "q": "What could we use to light up the book?",
@@ -1210,7 +1210,7 @@
      "mins": 2,
      "do": "Ask which way worked best, and why. Then the check question.",
      "say": "Which way was best? Which light source did it start with?",
-     "kid": "Which way was best? Which light did it start with?",
+     "kid": "Choose the way that showed the book best.",
      "check": {
       "t": "mcq",
       "q": "You hold a steel plate next to a book in the dark. No torch is on. Will the plate light up the book?",

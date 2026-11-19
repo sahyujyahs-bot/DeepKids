@@ -166,33 +166,33 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 - **s1 (1 min)**  
   *Parent does:* Lay out the yellow, dark and white papers. Read the rules together.  
   *Parent says:* Yellow is for things that make their own light. Dark is for things that don't. White is for things that could, but are not making light right now. Let's sort the cards.  
-  *Child mode:* Yellow paper is for things that make their own light. Dark paper is for things that do not. White paper is for things that could, but are not right now.
+  *Child mode:* Look at the three papers. Which one is for things that make their own light?
 - **s2 (7 min)**  
   *Parent does:* Play through all 16 cards, taking turns. Read each card's front, wait for the player's choice and reason, then read the back.  
   *Parent says:* A shiny gold bangle. Yellow, dark or white? Why? Let's turn it over and see.  
-  *Child mode:* Read the card. Yellow, dark or white? Why? Turn it over.
+  *Child mode:* Listen to the card. Put it on the paper you think is right, and say why.
   - Note: The shiny cards (the spoon, the mirror and the bangle) are the tricky ones. Remind your child of the dark room test if they have done it.
 - **s3 (2 min)**  
   *Parent does:* Count the face-up cards. Then look at the cards on the white NOT NOW paper and ask what would make each one a light source. The answer is to switch the torch on, and to light the candle.  
   *Parent says:* The torch is switched off, and the candle is not lit. What would make them light sources?  
-  *Child mode:* What would make the torch and the candle shine?
+  *Child mode:* Look at the cards on the white paper. What does each one need to make light?
   - Check: Someone says a mirror is a light source because it shines. Are they right? → **No, a mirror only sends back light from somewhere else**
 ### g2 · Torch On, Torch Off: a moving game (8 min)
 - **rules:** Mix the 10 caller cards. The caller holds them.; The caller reads the front of a card out loud. A grown-up reads for a caller who cannot read yet.; The caller and everyone else do the move on the front as fast as they can.; The caller asks: why? A player who can say why the light does that gets one point.; The caller reads the back, so everyone knows the answer.; After Night time, turn round to face the caller again before the next card.; After all 10 cards, the player with the most points wins. If only one child plays, try to get 7 points or more out of 10. Swap callers and play again if you like.
-- **Printable cards: 10 caller cards:** Torch on! Open both hands wide. (back: Light is coming out.); Torch off! Close both hands into fists. (back: The light stops at once.); The diya is lit! Wave your fingers up like a flame. (back: A diya flame makes light while it burns.); Blow out the diya! Blow, then make fists. (back: The light is gone.); The Sun rises! Stand tall and make a big circle with your arms. (back: The Sun is a star and makes its own light.); Night time! Turn your back. (back: The Sun still shines on the other side of the Earth.); A firefly flashes! Open and close one hand, quick as a blink. (back: A firefly makes light inside their body.); Power cut! Freeze with your fists closed. (back: Every tube light goes dark.); The power is back! Open your hands wide. (back: The tube lights make new light again.); A steel spoon! Stand still. (back: A spoon makes no light. It waits for a light to shine on it.)
+- **Printable cards: 10 caller cards:** Torch on! Open both hands wide. (back: Light is coming out.); Torch off! Close both hands into fists. (back: The light stops at once.); The diya is lit! Wave your fingers up like a flame. (back: A diya flame makes light while it burns.); Blow out the diya! Blow, then make fists. (back: The light is gone.); The Sun rises! Stand tall and make a big circle with your arms. (back: The Sun is a star and makes its own light.); Night time! Turn your back. (back: The Sun still shines on the other side of the Earth.); A firefly flashes! Open and close one hand, quick as a blink. (back: A firefly makes light inside their body.); Power cut! Freeze with your fists closed. (back: Every tube light goes dark.); The power is back! Open your hands wide. (back: The tube lights make new light again.); A steel spoon! Stand still. (back: A spoon makes no light. You can see it only when light from somewhere else falls on it.)
 - **s1 (2 min)**  
   *Parent does:* Practise the moves for 'Torch on' and 'Torch off' together.  
-  *Parent says:* Torch on: open your hands wide, light is coming out. Torch off: fists, quick! The light stops at once.  
-  *Child mode:* When the caller says torch on, open your hands wide. When the caller says torch off, make fists, fast.
+  *Parent says:* We will act out a torch. Torch on means light is coming out. Torch off means the light stops at once.  
+  *Child mode:* Open your hands wide for torch on. Make fists, fast, for torch off.
 - **s2 (5 min)**  
   *Parent does:* Play all 10 cards. After each move, ask 'why?' before you read the back. After 'Night time', ask where the Sun is.  
   *Parent says:* Night time! Turn your back. Is the Sun still shining? Where?  
-  *Child mode:* Do each move. Is the Sun still shining at night?
+  *Child mode:* Do each move as fast as you can. Say why when the caller asks.
   - Ask: Where is the Sun at night? (good: Still shining, on the other side of the Earth.; Our side has turned away from it.)
 - **s3 (1 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* When the power comes back, what do the tube lights have to do? What do they need?  
-  *Child mode:* The power is back! What do tube lights need to shine?
+  *Parent says:* Let us act out a power cut, and then the power coming back. What do the tube lights need to shine again?  
+  *Child mode:* Freeze for the power cut. Open your hands when the power is back.
   - Check: In a power cut, a tube light goes dark. What does it need to shine again? → **Electricity from the wires**
 
 ## Experiments
@@ -200,39 +200,39 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 - **question:** Which of these things make their own light, and which only look bright?
 - **predict:** Look at each thing on the tray. Will you be able to see it in the dark room? Why do you think so?
 - **fair test:** We use the same dark room for every thing. We wait one whole minute in the dark before we start, so our eyes get used to it. We hold each thing in the same place, an arm's length in front of us.
-- **record:** Draw two big circles. In one, draw the things you could see in the dark. In the other, draw the things that vanished. A grown-up writes the names.
+- **record:** Make two piles: the things you could see in the dark, and the things that vanished. A grown-up writes the names, or you take a photo of the piles.
 - **results table:** Thing | My guess: will I see it in the dark? | What happened in the dark
 - **s1 (2 min)**  
   *Parent does:* 1. In a bright room, put all the things on the tray. 2. Let your child hold and name each one. 3. Switch the torch and the phone screen on and off once.  
   *Parent says:* Here are some things from our home. Let's name them. Which ones look bright to you?  
   *Child mode:* Hold each thing. Say its name. Which ones look bright?
 - **s2 (3 min)**  
-  *Parent does:* Ask your child to sort the things into two piles: 'will shine in the dark' and 'will vanish in the dark'. You write or draw their guesses in the table.  
-  *Parent says:* Soon we will go into a dark room. Which things will you still be able to see there? Put them in this pile. Why do you think so?  
-  *Child mode:* Which things will you see in the dark? Make a pile. Why?
+  *Parent does:* Ask your child to sort the things into two piles: 'will shine in the dark' and 'will vanish in the dark'. You write their guesses in the table.  
+  *Parent says:* Soon we will go into a dark room. Which things will you still be able to see there? Put them in this pile.  
+  *Child mode:* Sort the things into two piles: will shine, and will vanish.
   - Ask: Why did you put the spoon in that pile? (good: It is shiny, so it will shine.; It has no light of its own, so it will vanish.)
   - Note: Any guess is fine. Many children put the spoon, the mirror and the bangle in the 'will shine' pile, because they look so bright. Don't say what will happen.
 - **s3 (2 min)**  
   *Parent does:* 1. Take the tray into the darkest room you have, such as a bathroom with no window. 2. Close the door and switch off the light. 3. Wait one whole minute. 4. Ask your child to hold up a hand.  
   *Parent says:* Let's wait for one minute, so our eyes get used to the dark. Now hold up your hand. Can you see it?  
-  *Child mode:* Wait in the dark. Count to sixty with me. Can you see your hand?
+  *Child mode:* Wait in the dark and count to sixty with me.
   - Note: Do this after dark if you can. If some light comes under the door, put a towel along the gap. A little light is fine: things will look dim instead of vanishing, and you can still compare them.
 - **s4 (3 min)**  
   *Parent does:* 1. Hand your child the spoon, the mirror, the bangle, the paper and the switched-off torch, one at a time. 2. Each time, ask if they can see it. 3. Then ask them to switch the phone screen on.  
   *Parent says:* Hold up the spoon. Can you see it? Now the mirror. Now the bangle. Now the torch, switched off. Now switch on the phone screen. What happens?  
-  *Child mode:* Hold up each thing. Can you see it? Now switch on the phone.
+  *Child mode:* Hold up each thing in the dark. Then switch on the phone.
   - Ask: Which things could you see? (good: Only the phone, when its screen was on.; I could not see the spoon or the mirror.)
 - **s5 (3 min)**  
   *Parent does:* 1. Your child switches the torch on and points it at the ceiling. 2. They switch it off and on again, three times. 3. Then they shine it on the spoon, and then point it away from the spoon.  
   *Parent says:* Switch the torch on. Now off. Is any light left? Now shine it on the spoon. Now point it away. What happens to the spoon?  
-  *Child mode:* Switch the torch on and off. Shine it on the spoon. Now point it away.
+  *Child mode:* Switch the torch on and off, and watch the spoon.
   - Ask: What happened when you switched the torch off? (good: It went dark straight away.; No light was left.)
-  - Ask: What happened to the spoon when you shone the torch on it, and when you pointed the torch away? (good: It shone when the torch was on it.; It went dark when I pointed the torch away.)
+  - Ask: What did the spoon look like with the torch on it? What did it look like when you pointed the torch away? (good: It shone when the torch was on it.; It went dark when I pointed the torch away.)
   - Note: Look for two things. The dark comes back the instant the torch goes off. And the spoon shines only while the torch beam is on it.
 - **s6 (2 min)**  
   *Parent does:* Back in the bright room, look at the guesses together. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* Which things shone in the dark? Which vanished? Were your guesses right? Why do you think the spoon vanished?  
-  *Child mode:* Which things shone in the dark? Which vanished? Why?
+  *Child mode:* Look back at your two piles. Which guesses were right?
   - Ask: What did you find out in the dark room? (good: Only the torch and the phone shone in the dark.; The spoon only shines when light is on it.; The torch made light only while it was on.)
   - Check: You are in a dark room with a steel spoon and a torch that is switched on. Which one makes its own light? → **The torch**
 ### e2 · Which Light Shows the Far Wall? (14 min)
@@ -240,7 +240,7 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 - **predict:** Which will help you see the drawing best: the phone screen or the torch? Why do you think so? (If a grown-up will light a diya too, guess for the diya as well.)
 - **fair test:** We stand in the same place each time, and hold each light at the same height. We use one light at a time. We look at the same drawing every time.
 - **safety:** If you use a diya or a candle, only a grown-up lights it, carries it and blows it out. Keep it on a steel plate, away from curtains and clothes.
-- **record:** Draw the three lights in a row. Next to each one, draw what you could see of the drawing on the wall.
+- **record:** Put the lights you used in a row, from the one that showed the drawing best to the one that showed it worst. A grown-up writes the order down.
 - **results table:** Light source (phone, torch, and diya if you use it) | My guess: can I see the drawing? | Could I see its colours?
 - **s1 (2 min)**  
   *Parent does:* 1. Stick the drawing on a wall at the far end of a room. 2. Mark a spot to stand at the other end, about four big steps away.  
@@ -248,61 +248,61 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
   *Child mode:* Look at the drawing. Soon it will be dark.
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess which light will show the drawing best, and which worst. Write the guesses in the table.  
-  *Parent says:* Phone screen or torch: which will show the drawing best? Why do you think so?  
-  *Child mode:* Which light will show the drawing best? Why?
+  *Parent says:* Which light will show the drawing best, the phone screen or the torch? Why do you think so?  
+  *Child mode:* Guess which light is best, and say why.
   - Ask: Why do you think that light will show the drawing best? (good: The torch, because it is the brightest.; The diya, because fire is strong.)
   - Note: Any guess is fine. Don't say what will happen.
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. Switch off the room light and wait one minute. 2. Your child holds up the phone screen, facing the drawing. 3. Then the torch, pointed at the drawing. 4. Extra, if a grown-up is happy to light a flame: you hold up the lit diya at the same spot.  
   *Parent says:* First the phone screen. Can you see the drawing? Can you see its colours? Now the torch. (If you are using a diya: now the diya.)  
-  *Child mode:* Hold up the phone. Can you see the drawing? Now try the torch.
+  *Child mode:* Hold up the phone, then the torch. Look for the red flower and the blue bird.
   - Ask: Which light showed the colours best? (good: The torch. I could see the red and the blue.; With the phone, it was too dark.)
   - Note: The torch usually shows the drawing clearly. The phone screen and the diya make much less light, so the drawing looks dim and its colours are hard to see. A bright phone torch works like a torch.
 - **s4 (4 min)**  
   *Parent does:* Switch on the room light. Compare what happened with the guesses. Then ask the check question.  
   *Parent says:* Which light made the most light? Were your guesses right? Do all light sources give the same amount of light?  
-  *Child mode:* Which light was brightest? Do all lights give the same light?
+  *Child mode:* Look back at your guesses. Were they right?
   - Ask: What did you find out about the three lights? (good: Some light sources make more light than others.; The torch was brightest.)
   - Check: You have a phone screen and a torch in a dark room. You want to see a toy far away. Which should you use? → **The torch**
 
 ## Activities
 ### a1 · Follow the Light Home (8 min)
 - **safety:** Never look straight at the Sun, not even through a window.
-- **record:** Draw one bright patch in your home, and draw a line back to its light source.
+- **record:** Say how many patches the Sun made and how many a lamp made. A grown-up writes the two numbers.
 - **s1 (2 min)**  
   *Parent does:* Walk round the home with your child. Find a bright patch on the floor, a wall or a table.  
-  *Parent says:* Look, this bit of the floor is bright. Where is its light coming from? Point to it.  
-  *Child mode:* Find a bright patch. Where does its light come from? Point.
+  *Parent says:* Look, this bit of the floor is bright. Where does its light come from?  
+  *Child mode:* Walk round and find a bright patch. Point to where its light starts.
 - **s2 (4 min)**  
   *Parent does:* 1. Find three or four bright patches. 2. For each, your child points back to the light source: the window, a lamp, a screen. 3. If a patch comes from a mirror or a steel plate, ask where that light came from first.  
-  *Parent says:* This one comes from the window. And the light at the window comes from the Sun. What about this shiny patch from the steel plate?  
+  *Parent says:* This one comes from the window, and the window's light comes from the Sun. Now you find more.  
   *Child mode:* Find more bright patches. Follow each one back. Where does it start?
-  - Ask: Where did the light on the steel plate come from? (good: From the window first.; From the Sun, and then the plate sent it on.)
+  - Ask: If a patch came from a mirror or a steel plate, where did its light come from first? (good: From the window first.; From the Sun, and then the plate sent it on.)
   - Note: Children love finding that a bright spot from a mirror or a steel plate leads back to the window. The light starts at a light source every time.
 - **s3 (2 min)**  
   *Parent does:* Ask how many patches started at the Sun, and how many at a lamp.  
   *Parent says:* How many bright patches did the Sun make? How many did the lamps make? Which light source lit most of our home today?  
-  *Child mode:* Which light made most bright patches today? The Sun or a lamp?
+  *Child mode:* Count the patches the Sun made, and the patches a lamp made.
   - Ask: Which light source lit most of the home? (good: The Sun, through the windows.; In the day, mostly the Sun.)
 ### a2 · The Little Lights Hunt at night (10 min)
-- **record:** Make one tally mark for each little light you find. Draw your favourite one.
+- **record:** Make one tally mark for each little light you find. Then tell your grown-up which one was your favourite.
 - **s1 (2 min)**  
   *Parent does:* After dark, switch off the fans and big lights in one or two rooms. Wait one minute together.  
   *Parent says:* The big lights are off. Some tiny lights are still on. How many do you think we will find? Why?  
-  *Child mode:* The big lights are off. How many tiny lights will we find? Why?
+  *Child mode:* Guess how many tiny lights we will find.
 - **s2 (6 min)**  
   *Parent does:* 1. Walk slowly round with your child. 2. Look for tiny lights: on the TV, a charger, a clock or the inverter. 3. Open the fridge, and look out of the window too. 4. Make a tally mark for each one.  
-  *Parent says:* Look! A little red light on the TV. That is a light source. Make a mark. Can you find another one?  
+  *Parent says:* Look! A little light here. That is a light source. Make a mark. Can you find another one?  
   *Child mode:* Find a tiny light. Make a mark. Find another.
   - Note: Most homes have more tiny lights than children expect. Don't touch switches or plugs. Just look.
 - **s3 (2 min)**  
   *Parent does:* Count the marks together. Ask what all the little lights need to keep shining.  
   *Parent says:* How many did we find? Was that more or fewer than you guessed? What do these lights need to keep shining?  
-  *Child mode:* How many did you find? What do they need to keep shining?
+  *Child mode:* Count the marks. Is it more or fewer than your guess?
   - Ask: What do the little lights need to keep shining? (good: Electricity.; If the power goes, they go out.)
 ### a3 · The Diya Up Close (10 min)
 - **safety:** Only a grown-up lights and blows out the diya. Sit an arm's length away. Never put your hand above the flame: the hot air rises straight up. Tie back long hair and keep dupattas away.
-- **record:** Draw the diya and its flame. Colour the parts of the flame you saw.
+- **record:** Draw the flame and colour the parts you saw, or tell your grown-up the colours from the top to the bottom.
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* Light the diya on its steel plate. Sit your child an arm's length away.  
   *Parent says:* I am lighting the diya. Sit here, an arm's length away. What do you see?  
@@ -310,44 +310,44 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* Ask your child to look at the flame's shape and colours, and at the wick.  
   *Parent says:* What shape is the flame? What colours can you see? Look at the bottom of the flame. Look at the wick.  
-  *Child mode:* What shape is the flame? What colours do you see?
+  *Child mode:* Look at the flame and the wick.
   - Ask: What colours can you see? (good: Yellow on top.; A little blue at the bottom.; The wick is black.)
   - Note: A diya flame is mostly yellow, with a small blue part at the bottom. The yellow light comes from tiny bits of soot that glow because they are so hot.
 - **s3 (2 min) · grown-up needed**  
   *Parent does:* Hold the back of your own hand beside the flame, a hand's width away, never above it. Let your child do the same if they are careful.  
   *Parent says:* Put the back of your hand beside the flame, not above it. Not too close. What do you feel?  
-  *Child mode:* Hold your hand beside the flame, not above. What do you feel?
+  *Child mode:* Hold the back of your hand beside the flame, not above it.
   - Ask: What did you feel? (good: It is warm.; The flame makes heat as well as light.)
 - **s4 (2 min) · grown-up needed**  
   *Parent does:* Ask what the flame needs to keep burning. Then blow it out.  
   *Parent says:* What does the diya need to keep making light? What will happen when all the oil is gone? Now I will blow it out.  
-  *Child mode:* What does the diya need to keep shining? Watch it go out.
+  *Child mode:* Watch the grown-up blow the flame out.
   - Ask: What does the diya need to keep making light? (good: Oil.; A wick.; Air.)
   - Check: A diya has burnt for a long time. Now its oil is all used up. What will happen? → **The flame goes out**
 
 ## Projects
 ### p1 · The Paper-Cup Star Lantern (25 min, 2 days)
 - **safety:** A grown-up makes the holes. Push the pencil point down into the dough inside the cup, away from fingers.
-- **record:** Draw your cup, and draw the spots of light it made on the ceiling.
+- **record:** Count the spots on the ceiling, and tell your grown-up what shape they made. Did it match the shape of your dots?
 - **schedule:** day 1: Draw dots on the cup, then a grown-up pokes a hole through each dot. (15 min); day 2: At night, hold the cup over a torch and look at the spots of light. (10 min)
 - **s1 (5 min)**  
-  *Parent does:* Your child draws 6 to 10 dots on the flat bottom of the cup, keeping them apart. They can make a shape, like a star or a fish.  
+  *Parent does:* Your child draws 6 to 10 dots on the flat bottom of the cup, keeping them apart. They can make a shape, like a star or a fish. If they do not want to draw, they point and you make the dots.  
   *Parent says:* Draw dots on the bottom of the cup. Each dot will become a hole. What shape will you make?  
-  *Child mode:* Draw dots on the cup's bottom. You can make a shape.
+  *Child mode:* Make 6 to 10 dots, spaced apart, in a shape you like.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* 1. Press the ball of dough inside the cup, up under the flat bottom. 2. Hold the cup upside down on the table. 3. Push the pencil point through each dot into the dough. 4. Your child counts the holes.  
   *Parent says:* I will make a hole through each dot. Let's count them. How many spots of light do you think we will see?  
-  *Child mode:* Count the holes. How many spots of light will you see?
+  *Child mode:* Watch the holes being made, and count them.
 - **s3 (8 min)**  
   *Parent does:* 1. On the next night, switch off the lights. 2. Hold the torch switched on, pointing up. 3. Put the cup over its lit end, like a hat. 4. Slowly lift the torch and cup towards the ceiling, and back down.  
-  *Parent says:* Look up! What do you see? How many spots? Where does each spot's light come from?  
-  *Child mode:* Look up at the ceiling. Count the spots. Where does the light come from?
+  *Parent says:* Look up! What do you see? How many spots?  
+  *Child mode:* Look up at the ceiling and count the spots.
   - Ask: Where does the light in the spots come from? (good: From the torch, through the holes.; The cup makes no light. The torch does.)
   - Note: Each hole lets a little torch light out, so each one makes one spot. Lifting the torch and cup makes the spots bigger and dimmer. If the cup is too small, hold the torch's lit end just under it.
 - **s4 (2 min)**  
   *Parent does:* Switch the torch off and on. Ask the check question.  
   *Parent says:* Switch the torch off. What happens to the spots? Why?  
-  *Child mode:* Switch the torch off. Where did the spots go?
+  *Child mode:* Switch the torch off, then on. Watch the spots.
   - Check: You switch off the torch under the star lantern. What happens to the spots on the ceiling? → **They vanish at once**
 
 ## Challenges
@@ -360,7 +360,7 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 - **s1 (2 min)**  
   *Parent does:* Switch off the lights. Read the problem to your child.  
   *Parent says:* Pretend it is a power cut. We want to read this book. What could we use to light it up?  
-  *Child mode:* It is a pretend power cut. How can you light up the book?
+  *Child mode:* Look at the things laid out. Pick one to try first.
   - Ask: What could we use to light up the book? (good: The torch.; The phone.; The mirror, with the torch.)
 - **s2 (8 min)**  
   *Parent does:* Let your child try their ideas. Help only if asked. If they try the mirror or the plate alone, ask why it does not work.  
@@ -370,7 +370,7 @@ Next morning, Meenu drew a picture. She drew the Sun, the brass lamp, the torch 
 - **s3 (2 min)**  
   *Parent does:* Ask which way worked best, and why. Then the check question.  
   *Parent says:* Which way was best? Which light source did it start with?  
-  *Child mode:* Which way was best? Which light did it start with?
+  *Child mode:* Choose the way that showed the book best.
   - Check: You hold a steel plate next to a book in the dark. No torch is on. Will the plate light up the book? → **No, the plate makes no light**
 
 ## Worksheets
