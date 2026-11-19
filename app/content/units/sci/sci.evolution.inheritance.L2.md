@@ -166,7 +166,7 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Lay the three mats on the floor. 3. Read the rules aloud.  
   *Parent says:* Some things about us come from our parents' genes. Some we learn. Some are a bit of both. Let us sort these cards and see.  
-  *Child mode:* Look at the three mats. They are Born with it, Learned it, and Both.
+  *Child mode:* Look at the three mats. Both means a bit born with it and a bit learned.
 - **s2 (9 min)**  
   *Parent does:* 1. Take turns with the cards. 2. Ask for a reason each time. 3. Turn the card over to check. 4. Give 1 point for a right answer.  
   *Parent says:* This card says Speaking Telugu. Which mat does it go on? Why do you think so? Now turn it over and check.  
@@ -174,9 +174,9 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
   - Ask: Why does riding a cycle go on Learned it? (good: Nobody is born riding a cycle.; You have to practise to get better.)
   - Note: Accept any good reason, then let the back of the card decide. The Both cards are the tricky ones. Talk about them a little longer.
 - **s3 (3 min)**  
-  *Parent does:* Count the cards on each mat together and add up the points, then ask the last question.  
-  *Parent says:* Which mat has the most cards? Which player has the most points? Now pick one card from the Both mat. What part of it comes from genes, and what part from life?  
-  *Child mode:* Count the cards on each mat. Count your points. Pick one Both card. What comes from genes? What comes from life?
+  *Parent does:* 1. Count the cards on each mat together. 2. Add up the points. 3. Ask your child to pick one card from the Both mat.  
+  *Parent says:* Which mat has the most cards? Who has the most points? Now pick one card from the Both mat. Which part comes from genes, and which part from life?  
+  *Child mode:* Count the cards on each mat. Count your points. Pick one Both card. Say what comes from genes and what comes from life.
   - Check: Which card goes on the Both mat? → **Being tall**
 ### g2 · How Did They Learn? A memory game (12 min)
 - **rules:** Mix the 16 cards and lay them face down in 4 rows of 4.; On your turn, turn over two cards and read them aloud.; If one card shows a skill and the other says how that same skill was learned, they are a pair. Keep the pair and take another turn.; If not, turn them face down again. The next player has a turn.; When all 8 pairs are found, the player with the most pairs wins. If you tie, you all win.
@@ -189,12 +189,12 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
   *Parent does:* Take turns turning over two cards. Read both aloud each time.  
   *Parent says:* A boy in Pune rides a cycle. The boy in Pune practised while his sister held the seat. Do those two belong together?  
   *Child mode:* Turn over two cards. Read them. Do they belong together?
-  - Ask: Who taught the young zebra finch his song? (good: An older male finch.; He learned it by listening.)
+  - Ask: Find the zebra finch cards. How did the finch learn his song? (good: An older male finch.; He learned it by listening.)
   - Note: The touch-me-not card may surprise your child. Scientists dropped these plants gently many times, and the plants stopped folding their leaves. Some scientists say this is learning, and some say it is getting used to something.
 - **s3 (2 min)**  
-  *Parent does:* When all pairs are found, ask the last question.  
-  *Parent says:* Now think about all eight skills. Which of them did someone have from the day they were born?  
-  *Child mode:* Which of these skills were there from birth?
+  *Parent does:* When all pairs are found, ask your child the question below.  
+  *Parent says:* Now look at all eight skills. Think about how each one was learned.  
+  *Child mode:* Look at the eight skill cards, one by one.
   - Ask: Were any of these skills there from birth? (good: No, every one was learned.; They all needed someone to watch, or lots of tries.)
 
 ## Experiments
@@ -213,7 +213,7 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
   - Note: Any guess is fine. Write it down and say nothing yet. Some children think stretching might make the thumb longer. The test will show them.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child uses the hand they do not write with. They lay the strip along that thumb, with the end of the strip level with the tip of the thumb. 2. You make a small pencil mark on the strip at the crease where the thumb joins the hand. 3. Write 'before' next to the mark.  
-  *Parent says:* Lay the strip along your thumb, from the tip to the line where your thumb joins your hand. Hold still while I mark it.  
+  *Parent says:* We measure your thumb first, so we can measure it again after practice. Lay the strip along your thumb, from the tip to the line where your thumb joins your hand. Hold still while I mark it.  
   *Child mode:* Lay the strip on your thumb. Hold still. We mark where your thumb joins your hand.
   - Note: Always measure from the same place, the tip of the thumb to the crease at the base. That keeps the test fair.
 - **s3 (4 min)**  
@@ -233,9 +233,9 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
   - Note: If the number did not go up, that can happen in one short session. Practise again tomorrow for five minutes and test again. Scores usually rise with more practice. The new thumb mark should be in the same place, or within the width of a pencil line. A tiny difference comes from measuring, not from growing.
   - Check: What did you find after practice? → **More balls went in, and the thumb stayed the same**
 - **s6 (4 min)**  
-  *Parent does:* 1. Ask your child three things, one at a time. What did you find? What did you see that shows it? Why do you think it happened? 2. Then read the explanation cards together.  
+  *Parent does:* 1. Ask the three questions one at a time, and wait for each answer. 2. Then read the explanation cards together.  
   *Parent says:* So, what changed with practice? What did you see that tells you? Why do you think the throws changed, but the thumb did not?  
-  *Child mode:* Say what you found. Say what you saw. Why do you think it happened?
+  *Child mode:* Tell what you found. Tell what you saw. Say why you think it happened.
   - Note: A strong answer: more balls went in after practice, but the thumb mark stayed in the same place. Throwing is a skill, so practice changes it. The length of the thumb is a feature inherited through genes, so practice does not change it. Let your child say it in their own words first.
 
 ## Activities
@@ -243,46 +243,46 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 - **record:** A table with four columns: Person, A feature they inherited, A skill they learned, Who taught them.
 - **s1 (3 min)**  
   *Parent does:* 1. Draw a table with four columns: Person, A feature they inherited, A skill they learned, Who taught them. 2. Choose two or three people to ask.  
-  *Parent says:* We are going to be scientists who ask questions. For each person, we find one thing they got from their parents, and one thing they learned.  
-  *Child mode:* Draw the table. Choose two or three people to ask.
+  *Parent says:* We will ask people in our family what they got from their parents and what they learned. First, let us make a table to write the answers in.  
+  *Child mode:* Choose two or three people to ask. Help your grown-up make the table.
 - **s2 (6 min)**  
-  *Parent does:* Your child asks each person these questions, and you help write the answers in the table. 1. What is one feature you got from your parents? 2. What is one thing you learned to do? 3. Who taught you?  
-  *Parent says:* Ask each person: what feature did you get from your parents? What is one thing you learned to do? Who taught you?  
-  *Child mode:* Ask each person. What did you get from your parents? What did you learn? Who taught you?
+  *Parent does:* Your child asks each person the three questions you say. You write the answers in the table, one row for each person.  
+  *Parent says:* Ask each person three things. What feature did you get from your parents, like eye colour or curly hair? What is one thing you learned to do? Who taught you?  
+  *Child mode:* Ask each person your three questions. Listen to the answers.
   - Note: Families are made in many ways. If your child is adopted, or some relatives are far away, ask anyone in the household. The learned column works for everyone.
 - **s3 (3 min)**  
   *Parent does:* Look at the table together and ask the questions below.  
-  *Parent says:* Look at the Who taught them column. Was it always a parent? Did anyone learn something from a friend, a teacher or a neighbour?  
-  *Child mode:* Look at the table. Who taught each skill? Was it always a parent?
+  *Parent says:* Look at the Who taught them column. Who taught each person?  
+  *Child mode:* Look at the table. Point to who taught each skill.
   - Ask: Did every skill come from a parent? (good: No, one person learned to cycle from a brother.; No, one person learned English at school.)
 ### a2 · What Could I Do When I Was Born? (10 min)
-- **record:** A chart with two columns: Born able to, and Learned later. Draw one picture in each column.
+- **record:** A chart with two columns: Born able to, and Learned later. Write or draw a few things in each column, or stick in a photo.
 - **s1 (4 min)**  
-  *Parent does:* 1. Show your child a baby photo or video, if you have one. 2. Tell them what they could do as a newborn: cry, drink milk, sneeze, grip a finger tightly.  
+  *Parent does:* 1. Fold a sheet in half. Write Born able to on one side and Learned later on the other. 2. Show your child a baby photo or video, if you have one. 3. Tell them what they could do as a newborn: cry, drink milk, sneeze, grip a finger tightly. Write these under Born able to.  
   *Parent says:* On the day you were born, you could already cry, drink milk and hold my finger very tightly. Nobody taught you those.  
   *Child mode:* Look at you as a baby! You could cry and hold a finger tight.
 - **s2 (4 min)**  
-  *Parent does:* 1. Ask your child to name things they learned later. Walking, talking, eating with their fingers, using the toilet, writing their name. 2. Your child draws one thing in each column.  
-  *Parent says:* What can you do now that you could not do as a baby? Who helped you learn it?  
-  *Child mode:* What can you do now? Who helped you learn? Draw it.
+  *Parent does:* 1. Ask your child to name things they learned later. Walking, talking, eating with their fingers, using the toilet, writing their name. 2. Write them under Learned later. Your child can draw one if they like.  
+  *Parent says:* Now tell me things you can do that you could not do as a baby. I will write them down.  
+  *Child mode:* Tell your grown-up what you can do now. Who helped you learn it? Draw one if you like.
   - Ask: What did you learn after you were born? (good: Walking.; Talking.; Riding a cycle.)
 - **s3 (2 min)**  
-  *Parent does:* Ask the last question and let your child think.  
-  *Parent says:* Your list of things you learned is much longer than your list of things you were born able to do. Where did you learn all those things? Who or what helped you?  
-  *Child mode:* Which list is longer? Where did you learn all those things?
+  *Parent does:* Ask the questions, and wait for your child to answer.  
+  *Parent says:* Count the things in each column. Which list is longer? Where did you learn all those things?  
+  *Child mode:* Count the things in each column. Which list is longer?
   - Note: Human babies are born able to do only a few things. They learn most things later, from the people around them and by trying again and again.
 ### a3 · Three New Words (8 min, 2 days)
 - **record:** You write the three words and what they mean (or your child draws them). Put a tick by each one your child remembered the next day.
 - **schedule:** day 1: Learn three words from someone who speaks another language. (6 min); day 2: Say the three words again without help. (2 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Find someone who speaks a language your child does not. A grandparent's language, a neighbour's, a friend's, or a relative on a phone call. 2. Your child asks them for three words: water, thank you, and good morning. 3. Your child says each word five times. 4. You write each word down, with what it means.  
-  *Parent says:* Ask them how to say water, thank you and good morning in their language. Say each word five times.  
-  *Child mode:* Ask for three words. Water. Thank you. Good morning. Say each one five times.
+  *Parent says:* Ask them how to say water, thank you and good morning in their language. Saying each word five times helps you remember it.  
+  *Child mode:* Listen to each word. Then say it five times.
   - Note: Any language works: Konkani, Tulu, Bengali, Mizo, Urdu, Kannada, or a language from abroad. The point is that your child was not born with these words, and learns them now.
 - **s2 (2 min)**  
   *Parent does:* The next day, your child says the three words without help. Tick the ones they remember.  
-  *Parent says:* Can you still say the three words? You were not born knowing them. Now they are part of you.  
-  *Child mode:* Say your three words. Did you remember them?
+  *Parent says:* Can you still say the three words, without any help?  
+  *Child mode:* Say the three words you learned yesterday.
   - Ask: Where did these words come from? (good: I learned them from the person who taught me.; Someone taught me.)
   - Note: It is fine if your child forgot one word. That shows how practice keeps a skill. Say the word again together a few times.
   - Wait: Come back tomorrow.
@@ -293,9 +293,9 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
 - **schedule:** day 1: Draw five dots and loop one line round them. Count the breaks in your line. Write the date. (6 min); day 2: Draw the same kolam. Count the breaks. (4 min); day 3: Draw the same kolam. Count the breaks. (4 min); day 4: Draw the same kolam. Count the breaks. (4 min); day 5: Draw the same kolam. Count the breaks. (4 min); day 6: Draw the same kolam. Count the breaks. (4 min); day 7: Draw the kolam one last time. Lay all seven in a row and compare. (9 min)
 - **s1 (6 min)**  
   *Parent does:* 1. Draw the pattern for your child to copy: five dots in a row, about two finger-widths apart. 2. Your child draws their own five dots. 3. Your child loops one line round all the dots, over and under the row, back to the start. 4. The pencil must not lift. 5. Count the places where the line broke or the pencil lifted. 6. Write the date and the number.  
-  *Parent says:* Every day this week, you will draw this same kolam. Today is day 1. Let us count how many times your line breaks.  
+  *Parent says:* Every day this week, you will draw this same kolam. Today is day 1. Count how many times your line breaks. A break is a place where the line stops and starts again.  
   *Child mode:* Make five dots. Loop one line round them. Count the breaks.
-  - Note: Use the same pattern every day, so you can compare fairly. A break is any place where the line stops and starts again.
+  - Note: Use the same pattern every day, so you can compare fairly. A break is any place where the line stops and starts again. If your child does not like drawing, pick a skill they can repeat each day and count, such as the paper-ball throw from the experiment. Count the balls that land in the bucket out of 10.
 - **s2 (4 min)**  
   *Parent does:* On days 2 to 6, your child draws the same kolam once. Count the breaks and write them down.  
   *Parent says:* Today you draw the same kolam again. Go slowly and evenly. How many breaks are there today?  
@@ -303,8 +303,8 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
   - Wait: Come back every day until day 7.
 - **s3 (9 min)**  
   *Parent does:* 1. On day 7, your child draws the kolam one last time. 2. Lay all seven drawings in a row. 3. Read the numbers of breaks aloud, from day 1 to day 7.  
-  *Parent says:* Look at day 1 and day 7 side by side. What changed? Did your fingers change, or did your skill change?  
-  *Child mode:* Lay out all seven. Look at day 1 and day 7. What changed?
+  *Parent says:* Look at day 1 and day 7 side by side. What changed?  
+  *Child mode:* Lay out all seven drawings. Read the number of breaks on each one.
   - Check: Your kolam got better over seven days. Why? → **You practised**
 
 ## Challenges
@@ -324,9 +324,9 @@ Meera grinned and gave him the flour. 'Start with five dots,' she said.
   *Child mode:* Teach your grown-up. Show slowly. Let them try.
   - Note: Be a real learner. Make the mistakes a beginner makes. This lets your child see how a skill passes from one person to another.
 - **s3 (5 min)**  
-  *Parent does:* The grown-up does the skill alone while your child watches. Then talk about it.  
-  *Parent says:* I can do it now. I was not born knowing it. Where did my new skill come from?  
-  *Child mode:* Watch your grown-up do it alone. Where did their skill come from?
+  *Parent does:* The grown-up does the skill alone while your child watches. Then ask the question below.  
+  *Parent says:* Watch me. I can do it by myself now. I was not born knowing it.  
+  *Child mode:* Watch your grown-up do it alone.
   - Ask: Where did the grown-up's new skill come from? (good: From me. I taught it.; From practice and watching.)
 
 ## Worksheets

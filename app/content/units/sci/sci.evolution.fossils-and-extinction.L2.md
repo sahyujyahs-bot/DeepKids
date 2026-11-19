@@ -222,12 +222,12 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - **question:** When we press hard things and soft things into dough in the same way, which ones leave a clear print?
 - **predict:** Guess first. Which of the eight things will leave the clearest print? Which will leave the worst? Why do you think so?
 - **fair test:** Every thing is pressed into the same dough, rolled to the same thickness. Each one is covered with the same steel plate and pressed for a count of 10. Each is lifted straight up. Only the thing we press changes.
-- **record:** Fill in the table for all eight things. Draw the clearest print and the blurriest print under it.
+- **record:** Fill in the table for all eight things. Draw the clearest print and the blurriest print under it, or take a photo of them.
 - **results table:** Thing pressed in | Hard or soft? | Print: clear, blurry or none
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the eight things. 2. Ask which will leave the clearest print, and why. 3. Write the guess at the top of the sheet.  
-  *Parent says:* We are going to press each of these into dough. Which one will leave the clearest print? Which will leave the worst? Why do you think so?  
-  *Child mode:* Look at the eight things. Which will leave the best print? Why?
+  *Parent says:* We are going to press each of these into dough and look at the prints. First, look at the eight things and make a guess.  
+  *Child mode:* Look closely at the eight things. Make a guess and say why.
   - Ask: Which do you think will leave the clearest print? (good: The key, because it is hard.; The banana, because it is big.; The coin, because it is heavy.)
   - Note: Write down any guess and say nothing yet. Many children pick the biggest or heaviest thing. The test will show them what matters.
 - **s2 (5 min)**  
@@ -266,17 +266,17 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - **s1 (3 min)**  
   *Parent does:* 1. Stack the newspapers with the oldest at the bottom. 2. Slip the leaf in near the bottom. 3. Put the ticket in the middle and the wrapper near the top, while your child is not looking. 4. Ask your child the question.  
   *Parent says:* This pile grew one paper a day. Which paper do you think is the oldest, the top one or the bottom one? Why?  
-  *Child mode:* This pile grew one paper each day. Is the oldest one at the top or the bottom? Why?
+  *Child mode:* This pile grew one paper each day. Make a guess and say why.
   - Note: If your pile has been mixed up, sort the papers by date first, with the newest on top. The activity only works if the pile grew in order. Pretend that each paper came on a different day, and that the leaf, the ticket and the wrapper each fell onto the pile on a different day, as the pile grew.
 - **s2 (7 min)**  
-  *Parent does:* 1. Your child lifts off one paper at a time. 2. Read the date together, and your child writes it on the list. 3. When a buried thing turns up, your child draws a star next to the date of the paper just above it.  
+  *Parent does:* 1. Your child lifts off one paper at a time. 2. Read the date together, and your child writes it on the list. 3. When a buried thing turns up, set it aside. Your child writes a star next to the next date they write, because the thing was lying on that paper.  
   *Parent says:* Lift off the top paper. What date does it say? Write it down. Now the next one.  
   *Child mode:* Lift off one paper. Read the date. Write it down. Do the next one.
   - Ask: Are the dates getting older or newer as you dig down? (good: Older. Each paper down is from an earlier day.)
 - **s3 (5 min)**  
   *Parent does:* 1. Look at the list and the stars together. 2. Ask which buried thing is the oldest.  
-  *Parent says:* Look at the dates next to the stars. Which thing was buried under the oldest papers? How do you know that one fell into the pile first?  
-  *Child mode:* Which thing was buried first? How do you know?
+  *Parent says:* Look at the dates next to the stars. Which thing fell into the pile first? How do you know?  
+  *Child mode:* Look at your stars. Point to the thing that fell in first.
   - Note: This is how scientists tell which fossils are older. Rock layers pile up like newspapers, with the oldest at the bottom.
   - Check: A scientist finds one fossil deep down and another near the top. Which is usually older? → **The deep one**
   - Think: Rock layers take thousands of years to pile up. Newspapers take one day each. What else in our home piles up in layers?
@@ -287,7 +287,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the newspaper in two lines and tape the ends. 2. Put the plate of water and the towel at the start of the first line. 3. Ask the question.  
   *Parent says:* When you walk fast, will your footprints be closer together or farther apart than when you walk slowly? Why do you think so?  
-  *Child mode:* Walk slowly, then walk fast. Will the prints be closer or farther apart? Why?
+  *Child mode:* You will walk slowly, then walk fast. Guess what your footprints will look like each time.
 - **s2 (5 min)**  
   *Parent does:* 1. Your child dips both feet in the water and walks slowly along the first line. 2. Then they dry their feet and stand at the start of the second line. 3. They dip again and walk with big quick steps, without running.  
   *Parent says:* Dip your feet and walk slowly along the paper. Now dry your feet. This time take big, quick steps, but do not run.  
@@ -301,7 +301,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - **s4 (2 min)**  
   *Parent does:* Ask what else the footprints show.  
   *Parent says:* Look at the prints again. What else could a detective tell about you from them?  
-  *Child mode:* What else do your footprints tell about you?
+  *Child mode:* Look at one wet print. Count the toes and look at its shape.
   - Ask: What else do your prints show? (good: How big my feet are.; That I have five toes.; That I walk on two legs.)
   - Note: Footprints are trace fossils. A trace fossil is a mark an animal left, not their body. Lines of dinosaur footprints, called trackways, have been found in many places around the world.
 
@@ -321,7 +321,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - **s3 (15 min)**  
   *Parent does:* 1. Your child writes a label for each print: what made it, and one thing it tells us. 2. Set them out on a shelf. 3. Your child shows someone at home round the museum.  
   *Parent says:* Write what made each print. Then add one thing a visitor can learn from it. Who will you show round your museum?  
-  *Child mode:* Write a label for each fossil. Show someone your museum.
+  *Child mode:* Write a label for each fossil. Then show someone your museum.
   - Ask: What does your museum visitor learn from one of your prints? (good: The print was made by a shell with ridges, so we can tell what made it.; Hard things make clear prints.)
   - Note: A good label says what made the print and what it tells us, like a real museum. If the prints are still soft on day three, leave them one more day in the sun.
   - Wait: Leave the prints to dry for one more day
@@ -336,7 +336,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - **s1 (3 min)**  
   *Parent does:* 1. Read the problem aloud. 2. Your child picks two or three materials to try.  
   *Parent says:* Real footprints in mud lasted millions of years. Can you make a print that is still clear two days later, even after some water falls on it?  
-  *Child mode:* Make a print that is still clear two days later, even after drops of water fall on it.
+  *Child mode:* Look at the materials. Pick two or three to try.
 - **s2 (8 min)**  
   *Parent does:* 1. Your child makes the same print in each material. 2. Put them all on a sunny windowsill to dry.  
   *Parent says:* Make the same print in each one, pressed in the same way. Then let them dry.  
@@ -344,7 +344,7 @@ Athai smiled and pointed at the crow. "Not all of them," she said. "Some small d
 - **s3 (9 min)**  
   *Parent does:* 1. Sprinkle five drops of water on each print. 2. Wait one minute and look. 3. Talk about which lasted best, and why.  
   *Parent says:* Sprinkle five drops of water on each print. Now look. Which print is still clear? Why do you think that one lasted?  
-  *Child mode:* Put five drops on each. Which print is still clear? Why?
+  *Child mode:* Put five drops on each print. Watch what happens.
   - Check: Five drops of water fall on a print that dried hard and on a print left soft and wet. Which is more likely to stay clear? → **The print that dried hard**
   - Wait: Leave the prints for two days
 

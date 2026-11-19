@@ -240,7 +240,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 - **s3 (2 min)**  
   *Parent does:* Count the cards and talk about the game.  
   *Parent says:* Which act was the hardest to guess? Which one do people do too?  
-  *Child mode:* Which act was hardest to guess? Which one do people do too?
+  *Child mode:* Which act was hardest to guess? Tell the others why.
   - Check: Which of these do people do too? → **Hug and make up after a quarrel**
 
 ## Experiments
@@ -249,7 +249,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 - **question:** When you laugh, does the air go out of your mouth, come in, or both? How many 'ha' sounds come out on one breath? Is a chimpanzee's laugh the same?
 - **predict:** Soon someone will make you laugh while a tissue flag hangs in front of your mouth. Will the flag blow away from you, move towards you, or do both? How many 'ha' sounds do you think you make in one breath? Why do you think so?
 - **fair test:** We hold the flag the same distance from every mouth, about three fingers away. We count the 'ha' sounds the same way for everyone: from the first 'ha' until the laugher breathes in. Each person laughs three times, because one laugh can be unusual.
-- **record:** Fill in the results table for each person. Draw yourself laughing with the flag, and draw an arrow to show which way the air went. Then draw the flag when you laughed like a chimpanzee.
+- **record:** Fill in the results table for each person. Then tell your grown-up which way the flag moved when you laughed, and when you laughed like a chimpanzee. Take a photo of the flag if you like.
 - **results table:** Person | Laugh number | The flag moved away, towards me, or both? | 'Ha' sounds in one breath
 - **s1 (3 min)**  
   *Parent does:* 1. Peel off one thin layer of tissue. 2. Tear a strip two fingers wide and as long as your hand. 3. Tape one end to a pencil, so the strip hangs down. 4. Your child holds the flag three fingers from their mouth. 5. They breathe out slowly, then breathe in fast through the mouth.  
@@ -260,7 +260,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 - **s2 (2 min)**  
   *Parent does:* 1. Ask for a guess and a reason. 2. Write the guesses at the top of the results table. 3. Don't say what will happen.  
   *Parent says:* Soon you will laugh with the flag in front of your mouth. Will the flag blow away, move towards you, or both? How many 'ha' sounds will you make in one breath? Why do you think so?  
-  *Child mode:* Soon you will laugh with the flag near your mouth. Which way will the flag move? How many 'ha' sounds will you make in one breath? Say why you think so.
+  *Child mode:* Soon you will laugh with the flag near your mouth. Which way will the flag move? How many 'ha' sounds will you make in one breath?
   - Ask: Why do you think so? (good: Laughing makes a noise, and noises come out.; I gasp when I laugh, so the air might come in.; I think I can say lots of 'ha' sounds at once.)
   - Note: Many children guess 'both', because laughing feels like gasping. Any guess with a reason is a good guess.
 - **s3 (5 min) · grown-up needed**  
@@ -282,14 +282,14 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 - **s6 (3 min)**  
   *Parent does:* 1. Ask your child to say what they think, what they saw and why. 2. Then tell them about the real study.  
   *Parent says:* Tell me three things. What did you find out about your laugh? What did you see that shows it? And how is a chimpanzee's laugh different? In 2009, a scientist named Marina Davila-Ross recorded tickled young apes and human babies. All of them laughed, each in their own way.  
-  *Child mode:* Say what you found out about your laugh. Say what the flag showed. Say how a chimpanzee's laugh is different.
+  *Child mode:* Tell your grown-up what you found out about your laugh. Then say how a chimpanzee's laugh is different.
   - Check: When you laughed, which way did the flag blow? → **Away from my mouth, because the air went out**
 ### e2 · The Hands-Free Test: how should a mother carry a baby? (20 min)
-- **problem:** A baby is heavy, and a mother needs both hands to work. A human mother can carry her baby in a cloth sling. A chimpanzee baby holds on to her mother's hair. In this test you carry a pretend baby in your arm, and then in a sling, and count how many things you can move in one minute.
+- **problem:** A baby is heavy, and a mother needs both hands to work. A human mother can carry her baby in a cloth sling. A chimpanzee baby holds on to their mother's hair. In this test you carry a pretend baby in your arm, and then in a sling, and count how many things you can move in one minute.
 - **question:** Which way of carrying a baby lets you get more work done: holding the baby in your arm, or carrying the baby in a cloth sling?
 - **predict:** You will move small things from one bowl to another for one minute while you carry a pretend baby. The first time, you hold the baby in your arm. The second time, the baby is in a sling. How many things do you think you will move each way? Why do you think so?
 - **fair test:** We use the same baby, the same bowls and the same 20 things, for exactly one minute each time. You carry only one thing in each free hand at a time. You try each way twice, because the first try is often slower.
-- **record:** Fill in the results table. Draw yourself carrying the baby both ways, and draw how a chimpanzee baby holds on.
+- **record:** Fill in the results table. Then take a photo of yourself carrying the baby each way, or tell your grown-up how a chimpanzee baby holds on.
 - **results table:** How I carried the baby | Try 1: things moved | Try 2: things moved
 - **s1 (3 min)**  
   *Parent does:* 1. Wrap the packet of atta in a small towel. This is the pretend baby. 2. Put 20 small things in one bowl. 3. Put the empty bowl one big step away.  
@@ -303,7 +303,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
   - Note: The baby must not be dropped or put down. If the arm gets tired, your child can swap arms, but the baby must be held all the time.
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* 1. Tie the baby to your child's back or front with the dupatta, over one shoulder and round the waist. 2. Check that it feels firm and comfortable. 3. Start the timer. 4. They move things with both hands, one in each hand. 5. Count. Then try again.  
-  *Parent says:* Now the baby is in a sling, like the way many mothers carry babies in a saree. Ready, go! You can use both hands now.  
+  *Parent says:* Now the baby is in a sling. Many mothers in India carry their babies in a saree like this. Ready, go! You can use both hands now.  
   *Child mode:* Now the baby is tied on with a cloth. Use both hands. Move as many as you can in one minute. Count them.
   - Note: Tie the knot yourself and check it does not press on the neck. Most children move many more things with the sling.
 - **s4 (4 min)**  
@@ -320,11 +320,11 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 
 ## Activities
 ### a1 · Grooming Time: take turns, like chimpanzees do (12 min)
-- **record:** Draw the two of you grooming. Under it, write or say one word for how it felt.
+- **record:** Say one word for how it felt. Take a photo of the two of you if you like.
 - **s1 (2 min)**  
   *Parent does:* Ask for a guess before you start.  
   *Parent says:* Chimpanzees spend a lot of time picking through each other's hair with their fingers. It is called grooming. Why do you think they do it?  
-  *Child mode:* Chimpanzees pick through each other's hair. This is called grooming. Why do you think they do it?
+  *Child mode:* Chimpanzees pick through each other's hair. This is called grooming.
   - Ask: Why do you think chimpanzees groom each other? (good: To get dirt out.; To find lice.; Because they like each other.)
   - Note: Any guess with a reason is good. Don't explain yet.
 - **s2 (3 min)**  
@@ -340,15 +340,15 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 - **s4 (4 min)**  
   *Parent does:* 1. Ask how it felt. 2. Ask who grooms whom at home. 3. Then explain why apes groom.  
   *Parent says:* How did it feel to be groomed? And to groom me? Who in our family combs or oils someone's hair? Chimpanzees groom to get out dirt and tiny insects. Grooming also keeps them friends, and calms them down after a fight.  
-  *Child mode:* How did it feel? Who combs or oils hair in your home? Chimpanzees groom to stay clean. Grooming keeps them friends too.
+  *Child mode:* Think about how it felt to groom and to be groomed. Then listen to why chimpanzees groom.
   - Ask: Who grooms whom in our home? (good: Paati oils my hair.; Amma plaits my sister's hair.; I comb my little brother's hair.)
   - Check: Which of these is a reason chimpanzees groom each other? → **To stay friends**
 ### a2 · Can Your Foot Grip Like an Ape's? (12 min)
-- **record:** Write how many seconds each try took. Draw your foot and a chimpanzee's foot side by side.
+- **record:** Write how many seconds each try took. Then hold up your thumb and your big toe. Say which one can bend across to the others.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child sits on the floor with bare feet. 2. Put the handkerchief on the floor. 3. Time how many seconds it takes to lift it with the toes of one foot.  
   *Parent says:* Can your foot grip like a hand? Pick up the handkerchief with your toes only. I'll count the seconds.  
-  *Child mode:* Sit on the floor with bare feet. Pick up the handkerchief with your toes. Count the seconds.
+  *Child mode:* Sit on the floor with bare feet. Pick up the handkerchief with your toes only. Your grown-up counts the seconds.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child tries to pick up the pencil with their toes. 2. Count the seconds, or stop after 1 minute. 3. Then they pick up the pencil with a hand, and you count again.  
   *Parent says:* Now try the pencil with your toes. Is it harder? Now pick it up with your hand. How many seconds?  
@@ -361,7 +361,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
   - Ask: Why might an ape need feet that grip? (good: To hold on to branches.; To climb trees.; So the hands are free to pick fruit.)
   - Note: Human feet are built for walking and running on the ground, so the big toe lines up with the other toes. Other great apes spend much time in trees, and their feet grip.
 ### a3 · The Gibbon Duet: India's own ape (10 min)
-- **record:** Draw a hoolock gibbon pair singing in a tree. Mark Assam on a small map of India.
+- **record:** Point to Assam on the map. Then sing the call and answer for a family member who was not there. Or draw the gibbon pair singing in a tree.
 - **s1 (3 min)**  
   *Parent does:* 1. Find Assam and the other North-eastern states on the map. 2. Tell your child about hoolock gibbons.  
   *Parent says:* India has her own ape, the hoolock gibbon. Hoolock gibbons live in the forests of the North-east, in Assam and the states around it. They have no tail. They swing arm over arm through the trees.  
@@ -369,7 +369,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 - **s2 (3 min)**  
   *Parent does:* Explain how gibbon families live and sing.  
   *Parent says:* A hoolock gibbon family is small: a mother, a father and their young. In the morning, the pair sing together, very loudly. Grown-up males are black and grown-up females are a pale golden brown. Why might a family sing together every morning?  
-  *Child mode:* A gibbon family is a mother, a father and their young. In the morning, the pair sing together, very loudly. Why might they sing?
+  *Child mode:* A gibbon family is a mother, a father and their young. In the morning, the pair sing together, very loudly.
   - Ask: Why might a gibbon family sing together every morning? (good: To tell other gibbons this is their part of the forest.; To say hello to each other.; Because they like singing.)
   - Note: Scientists think the songs tell other gibbons where a family lives, and help the pair stay together. Scientists are still finding out more about the songs.
 - **s3 (4 min)**  
@@ -381,16 +381,16 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 ## Projects
 ### p1 · Where Apes Live: a map of ape homes (40 min, 2 days)
 - **record:** Keep your map. Take a photo of it or put it on the wall.
-- **schedule:** day 1: Copy the shapes of Africa and Asia from the atlas. Colour the forests where apes live in green. (20 min); day 2: Draw each ape in their home. Label them. Mark your own city. (20 min)
+- **schedule:** day 1: Copy the shapes of Africa and Asia from the atlas. Colour the forests where apes live in green. (20 min); day 2: Stick a name on each ape's forest. Mark your own city. (20 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Open the atlas at the world map. 2. Your child copies the shapes of Africa and Asia, roughly. 3. Help them find Central Africa, West Africa, Borneo, Sumatra and North-east India. 4. They colour forest patches there in green.  
   *Parent says:* Apes live wild in only two parts of the world: Africa and Asia. Let's draw those two. Then we colour the forests where the apes live.  
   *Child mode:* Copy Africa and Asia from the atlas. Find the forests where apes live. Colour them green.
   - Note: Chimpanzees live across West, Central and East Africa. Bonobos live only in the Democratic Republic of the Congo. Gorillas live in Central Africa. Orangutans live in Borneo and Sumatra. Hoolock gibbons live in North-east India and nearby countries. A rough drawing is fine.
 - **s2 (20 min)**  
-  *Parent does:* 1. Your child draws each ape in their forest. 2. They write a label for each. 3. They put a dot where your family lives.  
-  *Parent says:* Now draw each ape at home. Then put a dot for our city. Measure with a ruler or a piece of string. Which ape lives nearest to us?  
-  *Child mode:* Draw each ape in their forest. Write their names. Put a dot for your city. Which ape lives nearest?
+  *Parent does:* 1. Your child writes each ape's name on a paper slip and glues it on that ape's forest. 2. They put a dot where your family lives. 3. They measure from the dot to each forest with the string.  
+  *Parent says:* Now put a name slip on each ape's forest. Then put a dot for our city. Measure from our dot to each forest with a ruler or a piece of string. Which ape lives nearest to us?  
+  *Child mode:* Stick each ape's name on their forest. Put a dot for your city. Measure from the dot to each forest.
   - Ask: Which ape lives nearest to us? Which lives farthest away? (good: I measured with a ruler on the map: the nearest forest is ...; Gorillas and bonobos are far away, in Africa.)
   - Check: Which great ape lives wild in Asia? → **Orangutan**
 
@@ -408,7 +408,7 @@ She thought about a chimpanzee mother, far away in a forest in Africa, parting h
 - **s2 (10 min)**  
   *Parent does:* 1. Your child rolls the sticks and builds a nest. 2. Help only when asked. 3. Test it with the toy and the notebooks for one minute.  
   *Parent says:* Build your nest. When you are ready, put the toy and the notebooks on it. I'll count to sixty.  
-  *Child mode:* Roll the sticks. Build your nest. Put the toy and notebooks on it. Count to sixty.
+  *Child mode:* Roll the sticks. Build your nest. Put the toy and notebooks on it. Wait one minute.
 - **s3 (5 min)**  
   *Parent does:* 1. Ask what worked and what did not. 2. Your child changes one thing and tests again.  
   *Parent says:* What happened? Where did it sag or slip? What one thing will you change?  

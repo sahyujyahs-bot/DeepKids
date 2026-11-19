@@ -1187,7 +1187,7 @@
      "mins": 2,
      "do": "Count the cards and talk about the game.",
      "say": "Which act was the hardest to guess? Which one do people do too?",
-     "kid": "Which act was hardest to guess? Which one do people do too?",
+     "kid": "Which act was hardest to guess? Tell the others why.",
      "check": {
       "t": "mcq",
       "q": "Which of these do people do too?",

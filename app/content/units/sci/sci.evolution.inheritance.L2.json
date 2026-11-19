@@ -250,7 +250,7 @@
    "title": "Born, Learned or Both? A sorting game",
    "mins": 15,
    "players": "1 to 4 players and a grown-up",
-   "context": "In this game you sort cards into three piles: things we are born with, things we learn, and things that come from a bit of both. Each card has the answer on the back.",
+   "context": "In this game you sort cards into three piles: things we are born with, things we learn, and things that come from a bit of both. You will find out which things come from genes, the instructions you get from your parents, and which come from learning. Each card has the answer on the back.",
    "printables": [
     {
      "kind": "cards",
@@ -360,7 +360,7 @@
      "mins": 3,
      "do": "1. Cut out the 16 cards. 2. Lay the three mats on the floor. 3. Read the rules aloud.",
      "say": "Some things about us come from our parents' genes. Some we learn. Some are a bit of both. Let us sort these cards and see.",
-     "kid": "Look at the three mats. They are Born with it, Learned it, and Both."
+     "kid": "Look at the three mats. Both means a bit born with it and a bit learned."
     },
     {
      "id": "s2",
@@ -382,9 +382,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Count the cards on each mat together and add up the points, then ask the last question.",
-     "say": "Which mat has the most cards? Which player has the most points? Now pick one card from the Both mat. What part of it comes from genes, and what part from life?",
-     "kid": "Count the cards on each mat. Count your points. Pick one Both card. What comes from genes? What comes from life?",
+     "do": "1. Count the cards on each mat together. 2. Add up the points. 3. Ask your child to pick one card from the Both mat.",
+     "say": "Which mat has the most cards? Who has the most points? Now pick one card from the Both mat. Which part comes from genes, and which part from life?",
+     "kid": "Count the cards on each mat. Count your points. Pick one Both card. Say what comes from genes and what comes from life.",
      "check": {
       "t": "mcq",
       "q": "Which card goes on the Both mat?",
@@ -404,7 +404,7 @@
    "title": "How Did They Learn? A memory game",
    "mins": 12,
    "players": "2 to 4 players",
-   "context": "This is a memory game with 8 pairs of cards. One card in each pair shows someone with a skill. The other card says how that skill was learned.",
+   "context": "This is a memory game with 8 pairs of cards. One card in each pair shows someone with a skill. The other card says how that skill was learned. You will find out how people and other animals pick up their skills.",
    "printables": [
     {
      "kind": "cards",
@@ -462,7 +462,7 @@
      "kid": "Turn over two cards. Read them. Do they belong together?",
      "ask": [
       {
-       "q": "Who taught the young zebra finch his song?",
+       "q": "Find the zebra finch cards. How did the finch learn his song?",
        "good": [
         "An older male finch.",
         "He learned it by listening."
@@ -474,9 +474,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "When all pairs are found, ask the last question.",
-     "say": "Now think about all eight skills. Which of them did someone have from the day they were born?",
-     "kid": "Which of these skills were there from birth?",
+     "do": "When all pairs are found, ask your child the question below.",
+     "say": "Now look at all eight skills. Think about how each one was learned.",
+     "kid": "Look at the eight skill cards, one by one.",
      "ask": [
       {
        "q": "Were any of these skills there from birth?",
@@ -496,7 +496,7 @@
    "title": "The Practice Test: what can practice change?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you practise two things for five minutes. One is throwing paper balls into a bucket. The other is wiggling and stretching your thumb. You measure both before and after, to see what practice changes.",
+   "context": "In this experiment you practise two things for five minutes. One is throwing paper balls into a bucket. The other is wiggling and stretching your thumb. You measure both before and after. You will find out if practice can change what you can do, what your body is like, or both.",
    "problem": "A skill is something you can do because you practised it. A feature like the length of your thumb comes from your genes. In this test you practise throwing and stretching your thumb for five minutes. You measure both before and after, to see which one practice can change.",
    "question": "If you practise throwing for five minutes, will more balls land in the bucket? If you practise stretching your thumb, will your thumb get longer?",
    "predict": "Guess first. After five minutes of practice, will more balls go in the bucket? Will your thumb be longer? Why do you think so?",
@@ -560,7 +560,7 @@
    "setup": [
     {
      "art": "A strip of paper laid along a child's thumb from the tip to the crease at the base, with a pencil making a small mark.",
-     "caption": "1. Lay the strip along your thumb. Mark where your thumb ends."
+     "caption": "1. Lay the strip along your thumb. Mark the crease at the base of your thumb."
     },
     {
      "art": "A child standing behind a chappal on the floor, throwing a scrunched newspaper ball at a bucket two big steps away, using the hand she does not write with.",
@@ -593,7 +593,7 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Your child uses the hand they do not write with. They lay the strip along that thumb, with the end of the strip level with the tip of the thumb. 2. You make a small pencil mark on the strip at the crease where the thumb joins the hand. 3. Write 'before' next to the mark.",
-     "say": "Lay the strip along your thumb, from the tip to the line where your thumb joins your hand. Hold still while I mark it.",
+     "say": "We measure your thumb first, so we can measure it again after practice. Lay the strip along your thumb, from the tip to the line where your thumb joins your hand. Hold still while I mark it.",
      "kid": "Lay the strip on your thumb. Hold still. We mark where your thumb joins your hand.",
      "parent": "Always measure from the same place, the tip of the thumb to the crease at the base. That keeps the test fair."
     },
@@ -644,9 +644,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "1. Ask your child three things, one at a time. What did you find? What did you see that shows it? Why do you think it happened? 2. Then read the explanation cards together.",
+     "do": "1. Ask the three questions one at a time, and wait for each answer. 2. Then read the explanation cards together.",
      "say": "So, what changed with practice? What did you see that tells you? Why do you think the throws changed, but the thumb did not?",
-     "kid": "Say what you found. Say what you saw. Why do you think it happened?",
+     "kid": "Tell what you found. Tell what you saw. Say why you think it happened.",
      "parent": "A strong answer: more balls went in after practice, but the thumb mark stayed in the same place. Throwing is a skill, so practice changes it. The length of the thumb is a feature inherited through genes, so practice does not change it. Let your child say it in their own words first."
     }
    ]
@@ -658,7 +658,7 @@
    "title": "Born With It or Learned It? A family survey",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you ask two or three people in your family about themselves. You find one feature each person inherited, and one skill each person learned, and who taught them.",
+   "context": "In this activity you ask two or three people in your family about themselves. You find one feature each person inherited, which means they got it from their parents, like eye colour. You also find one skill each person learned, and who taught them. You will find out where features and skills come from.",
    "materials": [
     {
      "item": "a sheet of paper with a table drawn on it, and a pencil",
@@ -692,23 +692,23 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Draw a table with four columns: Person, A feature they inherited, A skill they learned, Who taught them. 2. Choose two or three people to ask.",
-     "say": "We are going to be scientists who ask questions. For each person, we find one thing they got from their parents, and one thing they learned.",
-     "kid": "Draw the table. Choose two or three people to ask."
+     "say": "We will ask people in our family what they got from their parents and what they learned. First, let us make a table to write the answers in.",
+     "kid": "Choose two or three people to ask. Help your grown-up make the table."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Your child asks each person these questions, and you help write the answers in the table. 1. What is one feature you got from your parents? 2. What is one thing you learned to do? 3. Who taught you?",
-     "say": "Ask each person: what feature did you get from your parents? What is one thing you learned to do? Who taught you?",
-     "kid": "Ask each person. What did you get from your parents? What did you learn? Who taught you?",
+     "do": "Your child asks each person the three questions you say. You write the answers in the table, one row for each person.",
+     "say": "Ask each person three things. What feature did you get from your parents, like eye colour or curly hair? What is one thing you learned to do? Who taught you?",
+     "kid": "Ask each person your three questions. Listen to the answers.",
      "parent": "Families are made in many ways. If your child is adopted, or some relatives are far away, ask anyone in the household. The learned column works for everyone."
     },
     {
      "id": "s3",
      "mins": 3,
      "do": "Look at the table together and ask the questions below.",
-     "say": "Look at the Who taught them column. Was it always a parent? Did anyone learn something from a friend, a teacher or a neighbour?",
-     "kid": "Look at the table. Who taught each skill? Was it always a parent?",
+     "say": "Look at the Who taught them column. Who taught each person?",
+     "kid": "Look at the table. Point to who taught each skill.",
      "ask": [
       {
        "q": "Did every skill come from a parent?",
@@ -726,7 +726,7 @@
    "title": "What Could I Do When I Was Born?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you ask a grown-up what you could do on the day you were born, and what you learned later. You make a two-column chart.",
+   "context": "In this activity you ask a grown-up what you could do on the day you were born, and what you learned later. You make a two-column chart. You will find out which things you could already do as a baby, and which you learned later.",
    "materials": [
     {
      "item": "a sheet of paper and crayons",
@@ -744,7 +744,7 @@
      "what": "Ask a grown-up about the day you were born. Make a chart with two columns: Born able to, and Learned later."
     }
    ],
-   "record": "A chart with two columns: Born able to, and Learned later. Draw one picture in each column.",
+   "record": "A chart with two columns: Born able to, and Learned later. Write or draw a few things in each column, or stick in a photo.",
    "setup": [
     {
      "art": "A mother showing her child a baby photo on a phone, the baby holding an adult's finger tightly.",
@@ -759,16 +759,16 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Show your child a baby photo or video, if you have one. 2. Tell them what they could do as a newborn: cry, drink milk, sneeze, grip a finger tightly.",
+     "do": "1. Fold a sheet in half. Write Born able to on one side and Learned later on the other. 2. Show your child a baby photo or video, if you have one. 3. Tell them what they could do as a newborn: cry, drink milk, sneeze, grip a finger tightly. Write these under Born able to.",
      "say": "On the day you were born, you could already cry, drink milk and hold my finger very tightly. Nobody taught you those.",
      "kid": "Look at you as a baby! You could cry and hold a finger tight."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "1. Ask your child to name things they learned later. Walking, talking, eating with their fingers, using the toilet, writing their name. 2. Your child draws one thing in each column.",
-     "say": "What can you do now that you could not do as a baby? Who helped you learn it?",
-     "kid": "What can you do now? Who helped you learn? Draw it.",
+     "do": "1. Ask your child to name things they learned later. Walking, talking, eating with their fingers, using the toilet, writing their name. 2. Write them under Learned later. Your child can draw one if they like.",
+     "say": "Now tell me things you can do that you could not do as a baby. I will write them down.",
+     "kid": "Tell your grown-up what you can do now. Who helped you learn it? Draw one if you like.",
      "ask": [
       {
        "q": "What did you learn after you were born?",
@@ -783,9 +783,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask the last question and let your child think.",
-     "say": "Your list of things you learned is much longer than your list of things you were born able to do. Where did you learn all those things? Who or what helped you?",
-     "kid": "Which list is longer? Where did you learn all those things?",
+     "do": "Ask the questions, and wait for your child to answer.",
+     "say": "Count the things in each column. Which list is longer? Where did you learn all those things?",
+     "kid": "Count the things in each column. Which list is longer?",
      "parent": "Human babies are born able to do only a few things. They learn most things later, from the people around them and by trying again and again."
     }
    ]
@@ -795,7 +795,7 @@
    "title": "Three New Words",
    "mins": 8,
    "days": 2,
-   "context": "In this activity you learn three words in a language you do not speak yet, from someone who does. The next day you check if you still remember them.",
+   "context": "In this activity you learn three words in a language you do not speak yet, from someone who does. The next day you check if you still remember them. You will find out where a new skill comes from, and if it stays with you.",
    "materials": [
     {
      "item": "a family member, neighbour or friend who speaks another language, at home or on a phone call",
@@ -834,16 +834,16 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Find someone who speaks a language your child does not. A grandparent's language, a neighbour's, a friend's, or a relative on a phone call. 2. Your child asks them for three words: water, thank you, and good morning. 3. Your child says each word five times. 4. You write each word down, with what it means.",
-     "say": "Ask them how to say water, thank you and good morning in their language. Say each word five times.",
-     "kid": "Ask for three words. Water. Thank you. Good morning. Say each one five times.",
+     "say": "Ask them how to say water, thank you and good morning in their language. Saying each word five times helps you remember it.",
+     "kid": "Listen to each word. Then say it five times.",
      "parent": "Any language works: Konkani, Tulu, Bengali, Mizo, Urdu, Kannada, or a language from abroad. The point is that your child was not born with these words, and learns them now."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "The next day, your child says the three words without help. Tick the ones they remember.",
-     "say": "Can you still say the three words? You were not born knowing them. Now they are part of you.",
-     "kid": "Say your three words. Did you remember them?",
+     "say": "Can you still say the three words, without any help?",
+     "kid": "Say the three words you learned yesterday.",
      "ask": [
       {
        "q": "Where did these words come from?",
@@ -865,7 +865,7 @@
    "title": "Seven-Day Kolam: watch a skill grow",
    "mins": 35,
    "days": 7,
-   "context": "In this project you draw the same small kolam on paper every day for seven days. You keep every drawing, and count how many times your line breaks. Then you lay them in a row to see the skill grow.",
+   "context": "In this project you draw the same small kolam on paper every day for seven days. You keep every drawing, and count how many times your line breaks. Then you lay them in a row. You will find out if practice really makes a skill better.",
    "materials": [
     {
      "item": "7 sheets of paper, or a notebook",
@@ -929,9 +929,9 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Draw the pattern for your child to copy: five dots in a row, about two finger-widths apart. 2. Your child draws their own five dots. 3. Your child loops one line round all the dots, over and under the row, back to the start. 4. The pencil must not lift. 5. Count the places where the line broke or the pencil lifted. 6. Write the date and the number.",
-     "say": "Every day this week, you will draw this same kolam. Today is day 1. Let us count how many times your line breaks.",
+     "say": "Every day this week, you will draw this same kolam. Today is day 1. Count how many times your line breaks. A break is a place where the line stops and starts again.",
      "kid": "Make five dots. Loop one line round them. Count the breaks.",
-     "parent": "Use the same pattern every day, so you can compare fairly. A break is any place where the line stops and starts again."
+     "parent": "Use the same pattern every day, so you can compare fairly. A break is any place where the line stops and starts again. If your child does not like drawing, pick a skill they can repeat each day and count, such as the paper-ball throw from the experiment. Count the balls that land in the bucket out of 10."
     },
     {
      "id": "s2",
@@ -945,8 +945,8 @@
      "id": "s3",
      "mins": 9,
      "do": "1. On day 7, your child draws the kolam one last time. 2. Lay all seven drawings in a row. 3. Read the numbers of breaks aloud, from day 1 to day 7.",
-     "say": "Look at day 1 and day 7 side by side. What changed? Did your fingers change, or did your skill change?",
-     "kid": "Lay out all seven. Look at day 1 and day 7. What changed?",
+     "say": "Look at day 1 and day 7 side by side. What changed?",
+     "kid": "Lay out all seven drawings. Read the number of breaks on each one.",
      "check": {
       "t": "mcq",
       "q": "Your kolam got better over seven days. Why?",
@@ -967,7 +967,7 @@
    "id": "c1",
    "title": "Teach It in Five Minutes",
    "mins": 18,
-   "context": "This is a teaching challenge. Pick a small skill you can do and a grown-up does not know. Design the best way to teach it to them in five minutes.",
+   "context": "This is a teaching challenge. Pick a small skill you can do and a grown-up does not know. Design the best way to teach it to them in five minutes. You will find out how a skill passes from one person to another, and which way of teaching works best.",
    "problem": "Teach a grown-up a small skill they do not know yet, in five minutes, so that at the end they can do it alone.",
    "constraints": [
     "You have five minutes.",
@@ -1018,9 +1018,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "The grown-up does the skill alone while your child watches. Then talk about it.",
-     "say": "I can do it now. I was not born knowing it. Where did my new skill come from?",
-     "kid": "Watch your grown-up do it alone. Where did their skill come from?",
+     "do": "The grown-up does the skill alone while your child watches. Then ask the question below.",
+     "say": "Watch me. I can do it by myself now. I was not born knowing it.",
+     "kid": "Watch your grown-up do it alone.",
      "ask": [
       {
        "q": "Where did the grown-up's new skill come from?",

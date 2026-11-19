@@ -286,7 +286,7 @@
    "title": "Fossil Clues: what does this fossil tell us?",
    "mins": 15,
    "players": "2 to 4 players. A grown-up can be one of them.",
-   "context": "In this game each card shows a fossil that a scientist found. You say what you think the fossil tells us about life long ago. The answer is on the back.",
+   "context": "You will find out how scientists learn about life long ago from one small clue. In this game each card shows a fossil that a scientist found. You say what you think the fossil tells us. The answer is on the back.",
    "printables": [
     {
      "kind": "cards",
@@ -415,7 +415,7 @@
    "title": "Who Lived Through the Big Change?",
    "mins": 15,
    "players": "1 to 4 players. A grown-up can be one of them.",
-   "context": "Sixty-six million years ago the world suddenly became dark and cold, and many plants died. In this game you look at animals who were alive then, and guess who lived through it. The answer is on the back.",
+   "context": "Sixty-six million years ago the world suddenly became dark and cold, and many plants died. We call this the big change. You will find out what helped some animals live through it. In this game you look at animals who were alive then, and guess who lived through it. The answer is on the back.",
    "printables": [
     {
      "kind": "cards",
@@ -575,7 +575,7 @@
    "title": "The Print Test: which things leave a fossil print?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you press eight things into flat rounds of dough, four hard and four soft. Then you look at the prints they leave. A print in mud is how many fossils begin.",
+   "context": "In this experiment you press eight things into flat rounds of dough, four hard and four soft. Then you look at the prints they leave. A print in mud is how many fossils begin. You will find out why we find so many fossil bones and shells, and so few fossil worms.",
    "problem": "Many fossils begin as a print in mud. In this test you press hard things and soft things into dough, to see which ones leave a clear print. Then you can see why we find so many fossil bones and shells, and so few fossil worms.",
    "question": "When we press hard things and soft things into dough in the same way, which ones leave a clear print?",
    "predict": "Guess first. Which of the eight things will leave the clearest print? Which will leave the worst? Why do you think so?",
@@ -618,7 +618,7 @@
      "what": "Guess. Make eight dough rounds. Sort the things into hard and soft. Press each one. Score each print. Talk about what you saw."
     }
    ],
-   "record": "Fill in the table for all eight things. Draw the clearest print and the blurriest print under it.",
+   "record": "Fill in the table for all eight things. Draw the clearest print and the blurriest print under it, or take a photo of them.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -693,8 +693,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Show your child the eight things. 2. Ask which will leave the clearest print, and why. 3. Write the guess at the top of the sheet.",
-     "say": "We are going to press each of these into dough. Which one will leave the clearest print? Which will leave the worst? Why do you think so?",
-     "kid": "Look at the eight things. Which will leave the best print? Why?",
+     "say": "We are going to press each of these into dough and look at the prints. First, look at the eight things and make a guess.",
+     "kid": "Look closely at the eight things. Make a guess and say why.",
      "ask": [
       {
        "q": "Which do you think will leave the clearest print?",
@@ -785,7 +785,7 @@
    "title": "The Newspaper Pile: dig down through time",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you dig down through a pile of old newspapers, the way a scientist digs down through rock layers. You read the date on each paper to find out which layer is oldest.",
+   "context": "You will find out whether the deeper layer is always the older one. In this activity you dig down through a pile of old newspapers, the way a scientist digs down through rock layers. You read the date on each paper to find out which layer is oldest.",
    "problem": "Rock forms in layers, with each new layer on top of the older ones. A pile of newspapers grows in the same way, one paper at a time. In this activity you dig down through a pile and read the dates, to see whether deeper means older.",
    "materials": [
     {
@@ -829,13 +829,13 @@
      "mins": 3,
      "do": "1. Stack the newspapers with the oldest at the bottom. 2. Slip the leaf in near the bottom. 3. Put the ticket in the middle and the wrapper near the top, while your child is not looking. 4. Ask your child the question.",
      "say": "This pile grew one paper a day. Which paper do you think is the oldest, the top one or the bottom one? Why?",
-     "kid": "This pile grew one paper each day. Is the oldest one at the top or the bottom? Why?",
+     "kid": "This pile grew one paper each day. Make a guess and say why.",
      "parent": "If your pile has been mixed up, sort the papers by date first, with the newest on top. The activity only works if the pile grew in order. Pretend that each paper came on a different day, and that the leaf, the ticket and the wrapper each fell onto the pile on a different day, as the pile grew."
     },
     {
      "id": "s2",
      "mins": 7,
-     "do": "1. Your child lifts off one paper at a time. 2. Read the date together, and your child writes it on the list. 3. When a buried thing turns up, your child draws a star next to the date of the paper just above it.",
+     "do": "1. Your child lifts off one paper at a time. 2. Read the date together, and your child writes it on the list. 3. When a buried thing turns up, set it aside. Your child writes a star next to the next date they write, because the thing was lying on that paper.",
      "say": "Lift off the top paper. What date does it say? Write it down. Now the next one.",
      "kid": "Lift off one paper. Read the date. Write it down. Do the next one.",
      "ask": [
@@ -851,8 +851,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Look at the list and the stars together. 2. Ask which buried thing is the oldest.",
-     "say": "Look at the dates next to the stars. Which thing was buried under the oldest papers? How do you know that one fell into the pile first?",
-     "kid": "Which thing was buried first? How do you know?",
+     "say": "Look at the dates next to the stars. Which thing fell into the pile first? How do you know?",
+     "kid": "Look at your stars. Point to the thing that fell in first.",
      "check": {
       "t": "mcq",
       "q": "A scientist finds one fossil deep down and another near the top. Which is usually older?",
@@ -874,7 +874,7 @@
    "title": "Footprint Detective: what can footprints tell us?",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make wet footprints on newspaper, once walking slowly and once taking big quick steps. Then you see how far apart the prints are. Scientists read dinosaur footprints in rock the same way.",
+   "context": "In this activity you make wet footprints on newspaper, once walking slowly and once taking big quick steps. Then you see how far apart the prints are. Scientists read dinosaur footprints in rock the same way. You will find out how footprints show how fast someone was moving.",
    "problem": "Scientists measure the gaps between dinosaur footprints to work out how fast the dinosaur was moving. In this activity you make your own wet footprints, first walking slowly and then taking quick steps, and you measure the gaps.",
    "safety": "Walk, do not run. Tape the ends of the newspaper so it does not slide on a smooth floor. Dry your feet before stepping off the paper.",
    "materials": [
@@ -919,7 +919,7 @@
      "mins": 3,
      "do": "1. Lay the newspaper in two lines and tape the ends. 2. Put the plate of water and the towel at the start of the first line. 3. Ask the question.",
      "say": "When you walk fast, will your footprints be closer together or farther apart than when you walk slowly? Why do you think so?",
-     "kid": "Walk slowly, then walk fast. Will the prints be closer or farther apart? Why?"
+     "kid": "You will walk slowly, then walk fast. Guess what your footprints will look like each time."
     },
     {
      "id": "s2",
@@ -952,7 +952,7 @@
      "mins": 2,
      "do": "Ask what else the footprints show.",
      "say": "Look at the prints again. What else could a detective tell about you from them?",
-     "kid": "What else do your footprints tell about you?",
+     "kid": "Look at one wet print. Count the toes and look at its shape.",
      "ask": [
       {
        "q": "What else do your prints show?",
@@ -974,7 +974,7 @@
    "title": "My Fossil Museum: salt dough prints that last",
    "mins": 30,
    "days": 3,
-   "context": "In this project you make fossil prints in salt dough, dry them for two days until they are hard, and set up a small fossil museum at home with a label for each one.",
+   "context": "In this project you make fossil prints in salt dough, dry them for two days until they are hard, and set up a small fossil museum at home with a label for each one. You will find out how a print can show a visitor what made it, the way a fossil does for a scientist.",
    "materials": [
     {
      "item": "1 cup of atta or maida, half a cup of salt and about half a cup of water, mixed into a stiff dough",
@@ -1047,7 +1047,7 @@
      "wait": "Leave the prints to dry for one more day",
      "do": "1. Your child writes a label for each print: what made it, and one thing it tells us. 2. Set them out on a shelf. 3. Your child shows someone at home round the museum.",
      "say": "Write what made each print. Then add one thing a visitor can learn from it. Who will you show round your museum?",
-     "kid": "Write a label for each fossil. Show someone your museum.",
+     "kid": "Write a label for each fossil. Then show someone your museum.",
      "ask": [
       {
        "q": "What does your museum visitor learn from one of your prints?",
@@ -1107,7 +1107,7 @@
      "mins": 3,
      "do": "1. Read the problem aloud. 2. Your child picks two or three materials to try.",
      "say": "Real footprints in mud lasted millions of years. Can you make a print that is still clear two days later, even after some water falls on it?",
-     "kid": "Make a print that is still clear two days later, even after drops of water fall on it."
+     "kid": "Look at the materials. Pick two or three to try."
     },
     {
      "id": "s2",
@@ -1122,7 +1122,7 @@
      "wait": "Leave the prints for two days",
      "do": "1. Sprinkle five drops of water on each print. 2. Wait one minute and look. 3. Talk about which lasted best, and why.",
      "say": "Sprinkle five drops of water on each print. Now look. Which print is still clear? Why do you think that one lasted?",
-     "kid": "Put five drops on each. Which print is still clear? Why?",
+     "kid": "Put five drops on each print. Watch what happens.",
      "check": {
       "t": "mcq",
       "q": "Five drops of water fall on a print that dried hard and on a print left soft and wet. Which is more likely to stay clear?",
