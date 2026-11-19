@@ -362,7 +362,7 @@
      "what": "Guess the order. Watch the five solids on a plate for 10 minutes, then in warm water, then see wax melt near a flame. Put them in the fridge for 20 minutes and look again."
     }
    ],
-   "record": "Write your guess for the order at the top. Fill in the table with a tick or a cross. Draw what each solid looked like after the warm water.",
+   "record": "Write your guess for the order at the top. Fill in the table with a tick or a cross. Take a photo of the katoris after the warm water, or write one word for how each solid looked.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results, from a warm afternoon in Hyderabad",
@@ -445,8 +445,8 @@
      "mins": 4,
      "context": "This is the first step of the melting race. You set out the five solids and guess.",
      "do": "1. Put the five solids in a row on the steel plate. 2. Your child writes a label for each one. 3. Ask the questions below.",
-     "say": "Here are five solids: ice, chocolate, butter, coconut oil and wax. They will all sit in the same room. Which one will melt first? Which one last? Why do you think so?",
-     "kid": "Look at the five solids. Which will melt first? Which will melt last? Say why.",
+     "say": "Here are five solids: ice, chocolate, butter, coconut oil and wax. Melting means a solid turns into a liquid. They will all sit in the same room. Which one will melt first? Which one last?",
+     "kid": "Look at the five solids. Write a label for each one, then guess the order.",
      "ask": [
       {
        "q": "Which one will melt first? Why?",
@@ -484,7 +484,7 @@
      "context": "In this step of the melting race, the solids float in a bowl of warm water.",
      "do": "1. Fill the wide bowl with water as warm as a bath. 2. Your child tests it with a finger. 3. Put each solid in its own katori (scrape the runny ones in), and float the katoris on the water. 4. Watch for 5 minutes.",
      "say": "This water is as warm as a bath. Now which ones will melt? Will the wax melt too? Why do you think so?",
-     "kid": "Float each solid in its katori on the warm water. Watch for 5 minutes. Which ones melt now?",
+     "kid": "Float each solid in its katori on the warm water. Watch for 5 minutes.",
      "ask": [
       {
        "q": "What happened to the chocolate and the butter?",
@@ -550,7 +550,7 @@
      "context": "This is the last step of the melting race. You look in the fridge and say what you found.",
      "do": "1. Take out the katoris after 20 minutes. 2. Your child presses each one with a finger. 3. Fill in the last column. 4. Ask the three questions below.",
      "say": "Which ones are solid again? Which one is still a liquid? Now tell me: what did you think, what did you see, and why do you think it happened?",
-     "kid": "Press each one. Which are hard again? Which is still runny? What did you find out?",
+     "kid": "Press each one with a finger. Is it hard or runny now? Fill in the last column.",
      "ask": [
       {
        "q": "Which ones solidified in the fridge?",
@@ -637,7 +637,7 @@
      "what": "Fill both tumblers, guess, and put them in the freezer. Look every 30 minutes for about 3 hours. Each look takes 2 or 3 minutes. Write down where the ice is."
     }
    ],
-   "record": "Draw both tumblers at each look. Colour the ice blue and leave the water white.",
+   "record": "At each look, write in the table where the ice is in each tumbler, or take a photo. You can also draw both tumblers and colour the ice blue.",
    "setup": [
     {
      "art": "A steel tumbler and a plastic tumbler side by side, each half full of water.",
@@ -663,7 +663,7 @@
      "context": "This is the first step of the freezer watch. You fill the tumblers and guess.",
      "do": "1. Pour the same amount of water into both tumblers. 2. Ask the questions below. 3. Put both in the freezer, side by side.",
      "say": "Where will the first ice appear: at the top, the bottom, the sides or the middle? Which tumbler will freeze first? Why do you think so?",
-     "kid": "Where will the ice start? Which tumbler will freeze first? Say why.",
+     "kid": "Look at both tumblers of water. Think about what the freezer will do to them.",
      "ask": [
       {
        "q": "Where will the ice start? Why?",
@@ -680,9 +680,9 @@
      "id": "s2",
      "mins": 12,
      "context": "In this step of the freezer watch, you look at the tumblers every 30 minutes.",
-     "do": "1. Every 30 minutes, open the freezer and look at both tumblers. 2. Your child draws where the ice is. 3. Close the freezer quickly each time.",
+     "do": "1. Every 30 minutes, open the freezer and look at both tumblers. 2. Your child points to where the ice is, and you write it in the table. 3. Close the freezer quickly each time.",
      "say": "Look from the top and from the side. Is there ice yet? Where is it?",
-     "kid": "Look at both tumblers. Where is the ice? Draw it. Close the freezer fast.",
+     "kid": "Look at both tumblers. Point to where the ice is. Close the freezer fast.",
      "ask": [
       {
        "q": "Where did the ice start?",
@@ -701,7 +701,7 @@
      "context": "This is the last step of the freezer watch. You tap the ice and say what you found.",
      "do": "1. When one tumbler is mostly frozen, take both out. 2. Your child taps the top gently with the spoon. 3. Ask the questions below.",
      "say": "Which one froze first? Where did the ice start? Why do you think the middle froze last? Here is a clue about the tumblers. Warmth passes through steel quickly, and through plastic slowly.",
-     "kid": "Tap the ice gently. Which froze first? Where did the ice start?",
+     "kid": "Tap the ice gently with the spoon. Is it hard all the way down?",
      "ask": [
       {
        "q": "Why did the ice start at the top and the sides?",
@@ -741,7 +741,7 @@
    "title": "Melt It on Your Tongue: chocolate or ice?",
    "mins": 6,
    "days": 1,
-   "context": "In this activity you hold a small piece of chocolate on your tongue without chewing, then a small chip of ice. You notice what happens to each one, and which melts first.",
+   "context": "In this activity you hold a small piece of chocolate on your tongue without chewing, then a small chip of ice. You find out what melts them, and which one melts first.",
    "materials": [
     {
      "item": "one small piece of chocolate, about the size of a fingernail",
@@ -763,7 +763,7 @@
      "what": "Hold a piece of chocolate on your tongue without chewing. Then do the same with a chip of ice. Say what you noticed."
     }
    ],
-   "record": "Draw the chocolate before and after it was on your tongue.",
+   "record": "Tell your grown-up what the chocolate and the ice felt like, and which one melted first. Your grown-up writes one line.",
    "setup": [
     {
      "art": "A small square of chocolate and a small chip of ice side by side on a steel plate.",
@@ -780,7 +780,7 @@
      "mins": 3,
      "do": "1. Give your child the chocolate. 2. Ask them to hold it on their tongue and not chew. 3. Ask the questions below after a minute.",
      "say": "Put the chocolate on your tongue, but don't chew it. Keep your mouth closed. What is happening to it?",
-     "kid": "Put the chocolate on your tongue. Don't chew. What is happening?",
+     "kid": "Put the chocolate on your tongue. Don't chew. Keep your mouth closed for one minute.",
      "ask": [
       {
        "q": "What happened to the chocolate?",
@@ -798,7 +798,7 @@
      "mins": 3,
      "do": "1. Give your child the chip of ice. 2. Ask them to hold it on their tongue in the same way. 3. Ask the questions below.",
      "say": "Now hold the chip of ice on your tongue in the same way. Which one melted faster, the chocolate or the ice? Where did the warmth to melt them come from?",
-     "kid": "Now hold the ice on your tongue. Did it melt? Which melted first?",
+     "kid": "Now hold the chip of ice on your tongue in the same way. Don't chew.",
      "ask": [
       {
        "q": "Where did the warmth come from?",
@@ -937,7 +937,7 @@
    "setup": [
     {
      "art": "A sheet of paper with four columns headed in the room, in my hand, on the stove, never at home.",
-     "caption": "1. Draw the four columns."
+     "caption": "1. Make four columns on a sheet. Write a heading on each."
     },
     {
      "art": "A child looking into an open fridge at a butter box, a jar of ghee and an ice tray.",
@@ -948,7 +948,7 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Walk round the kitchen together. 2. Look in the fridge too. 3. For each solid, your child guesses where it would melt, and writes or draws it in a column.",
+     "do": "1. Walk round the kitchen together. 2. Look in the fridge too. 3. For each solid, your child guesses where it would melt, says it out loud, and writes its name in that column. If they prefer, they say it and you write it.",
      "say": "Look at the ghee jar. Is it solid or liquid today? Where would it melt? What about the steel tumbler? Why do you think so?",
      "kid": "Find solids in the kitchen. Where would each one melt? Put it in a column.",
      "ask": [
@@ -967,8 +967,8 @@
      "id": "s2",
      "mins": 3,
      "do": "1. Look at the four columns together. 2. Ask the question below.",
-     "say": "Look at your columns. Is the ghee in our home solid or liquid today? Why do you think so?",
-     "kid": "Is the ghee solid or liquid today? Why?",
+     "say": "Look at your columns and find the ghee. Now look at the ghee jar itself.",
+     "kid": "Find the ghee in your columns. Then look at the jar.",
      "ask": [
       {
        "q": "Is the ghee in our home solid or liquid today?",
@@ -1009,7 +1009,7 @@
      "what": "Lay a wet thread on an ice cube, sprinkle salt on it, wait a minute, and lift the ice cube."
     }
    ],
-   "record": "Draw the ice cube hanging from the thread.",
+   "record": "Take a photo of the ice cube hanging from the thread, or tell your grown-up what happened. You can also draw it.",
    "setup": [
     {
      "art": "An ice cube floating in a katori of water, with a wet thread lying across the top.",
@@ -1030,7 +1030,7 @@
      "mins": 3,
      "do": "1. Your child tries to lift the ice cube with the thread, without salt. 2. Ask the question below.",
      "say": "Lay the thread on the ice and lift it. Did the ice come up? Now we will add a little salt. What do you think will happen? Why?",
-     "kid": "Lift the thread. Did the ice come up? Now guess what salt will do.",
+     "kid": "Lay the thread on the ice and lift it. Does the ice come up?",
      "ask": [
       {
        "q": "What will the salt do? Why?",
@@ -1062,18 +1062,18 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Look closely at the thread in the ice. 2. Ask the question below.",
-     "say": "Look where the thread is. Salt lets ice melt even when the ice is cold. A little ice melted round the thread. Then the water froze again over the thread and held it. Can you see the thread inside the ice?",
+     "say": "Look where the thread is. Can you see it inside the ice? What did the salt do to the ice round the thread?",
      "kid": "Look at the thread. Is it inside the ice now?",
      "ask": [
       {
-       "q": "Why do kulfi sellers pack ice with salt?",
+       "q": "What did the salt do to the ice round the thread?",
        "good": [
-        "Salty ice gets colder.",
-        "It keeps the kulfi frozen."
+        "It melted a little ice.",
+        "The water froze again and held the thread."
        ]
       }
      ],
-     "parent": "Melting ice takes warmth from everything around it. With salt, more ice melts, so the mix of ice and salt gets colder than plain ice. That is how kulfi makers get their ice cold enough to freeze kulfi."
+     "parent": "After they answer, tell your child: salt lets ice melt even when the ice is cold. A little ice melted round the thread, then froze again over it and held it. Melting ice takes warmth from everything around it. With salt, more ice melts, so the mix of ice and salt gets colder than plain ice. That is how kulfi makers get their ice cold enough to freeze kulfi."
     }
    ]
   }
@@ -1186,7 +1186,7 @@
      "id": "s2",
      "mins": 11,
      "do": "1. Take turns reading a card. 2. Everyone shouts. 3. Read the back and give the card to the winner.",
-     "say": "Hot red lava turning into black rock. Melt or set? Why?",
+     "say": "Here is one example card: hot red lava turning into black rock. Is it melt or set? Why?",
      "kid": "Read a card out loud. Shout 'Melt!' or 'Set!' Check the back.",
      "ask": [
       {
@@ -1204,7 +1204,7 @@
      "mins": 2,
      "do": "1. Put all the 'Melt' cards in one pile. 2. Ask the question below.",
      "say": "Look at the 'Melt' cards. What made each one melt?",
-     "kid": "Look at the Melt cards. What made each one melt?",
+     "kid": "Look at the Melt cards in your pile. Read each one again.",
      "ask": [
       {
        "q": "What do all the 'Melt' cards have in common?",
@@ -1226,7 +1226,7 @@
    "printables": [
     {
      "kind": "board",
-     "title": "The four-column board, drawn on a big sheet of paper",
+     "title": "The four-column board, made on a big sheet of paper",
      "items": [
       "Melts in a warm room",
       "Melts in your warm hand",
@@ -1310,7 +1310,7 @@
     }
    ],
    "rules": [
-    "Draw the board: a big sheet split into four columns, with the labels at the top.",
+    "Make the board: fold a big sheet into four columns, and write a label at the top of each.",
     "Shuffle the 16 cards and put them face down in a pile.",
     "Take turns. Turn over a card, read it, and put it in a column. Say why.",
     "Turn the card over and read the back. If you were right, score one point. If not, move the card to the correct column.",
@@ -1319,7 +1319,7 @@
    "setup": [
     {
      "art": "A big sheet of paper with four columns labelled warm room, warm hand, flame and furnace, with a pile of cards beside it.",
-     "caption": "1. Draw the board. Shuffle the cards."
+     "caption": "1. Make the board. Shuffle the cards."
     },
     {
      "art": "A child placing a card that says 'A square of chocolate' in the warm hand column.",
@@ -1330,19 +1330,19 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Draw the board with your child. 2. Cut out the cards. 3. Read the four labels together.",
+     "do": "1. Make the board with your child: fold a big sheet into four columns and write a label on each. 2. Cut out the cards. 3. Read the four labels together.",
      "say": "Every solid melts somewhere. Some need only a warm room. Some need a furnace, which is a fire far hotter than a kitchen.",
-     "kid": "Draw the four columns. Read the labels. Cut out the cards."
+     "kid": "Fold the sheet into four columns. Write the labels. Cut out the cards."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Take turns turning over a card. 2. The player puts it in a column and says why. 3. Read the back and score.",
-     "say": "A gold bangle. Would it melt in your hand? Near a candle? Where would it melt? Why do you think so?",
+     "say": "Try the gold bangle card. Would it melt in your hand? Near a candle? Where would it melt? Why do you think so?",
      "kid": "Turn over a card. Where would it melt? Put it in a column.",
      "ask": [
       {
-       "q": "Why did you put chocolate in the 'warm hand' column?",
+       "q": "Why did you put that card in that column?",
        "good": [
         "It melts in my mouth and my hand.",
         "It melted in the warm water in our melting race."
@@ -1416,7 +1416,7 @@
      "what": "Take out the lollies. Dip each cup in warm water to loosen it. Compare the plain ice and the juice lolly. Eat and watch them melt."
     }
    ],
-   "record": "Draw your ice lolly before and after five minutes out of the freezer.",
+   "record": "Take a photo of your lolly when it comes out, and again after five minutes. Or tell your grown-up how it changed. You can also draw it.",
    "setup": [
     {
      "art": "Three small steel cups, two filled with orange juice and one with plain water, each with a stick standing in it.",
@@ -1437,7 +1437,7 @@
      "mins": 15,
      "do": "1. Your child pours juice into two cups and plain water into one. 2. Put a stick in each. 3. Put them in the freezer. 4. Ask the question below.",
      "say": "Which will be harder tomorrow, the plain water or the juice? Why do you think so?",
-     "kid": "Pour juice in two cups and water in one. Add sticks. Which will be harder?",
+     "kid": "Pour juice in two cups and plain water in one. Put a stick in each.",
      "ask": [
       {
        "q": "Which will freeze harder? Why?",
@@ -1455,7 +1455,7 @@
      "mins": 15,
      "do": "1. Take the cups out. 2. Dip each cup in warm water for about 10 seconds. 3. Pull out the lollies by the sticks. 4. Your child presses the plain ice and a juice lolly with a fingernail.",
      "say": "Press each one with your nail. Which is harder? Now eat your lolly. Where does it start to melt?",
-     "kid": "Press each one with your nail. Which is harder? Where does it melt first?",
+     "kid": "Press each one with a fingernail. Then eat your lolly and watch where it melts first.",
      "ask": [
       {
        "q": "Why did the warm water help the lolly come out?",
@@ -1520,7 +1520,7 @@
      "mins": 5,
      "do": "1. Read the problem together. 2. Ask the questions below.",
      "say": "An ice cube melts because warmth from the room goes into it. How could you slow the warmth down?",
-     "kid": "Warmth from the room melts ice. How could you slow it down?",
+     "kid": "Look at the things you can wrap an ice cube in. Pick one.",
      "ask": [
       {
        "q": "What could you wrap it in? Why?",
@@ -1604,7 +1604,7 @@
      "mins": 8,
      "adult": true,
      "do": "1. A grown-up fills a wide bowl with hot water. 2. Float a small steel bowl of broken chocolate on it. 3. Your child stirs until it is runny.",
-     "say": "The hot water melts the chocolate gently. Stir it slowly. Why do we not put it straight on the flame?",
+     "say": "The hot water melts the chocolate gently. Stir it slowly.",
      "kid": "Stir the chocolate slowly. Watch it turn runny.",
      "ask": [
       {
@@ -1629,8 +1629,8 @@
      "id": "s3",
      "mins": 10,
      "do": "1. Take out the mould after 30 minutes. 2. Your child pops out the chocolate. 3. Ask the questions below.",
-     "say": "Did it set? What shape is it now? Is it still chocolate?",
-     "kid": "Pop out your chocolate. What shape is it? Is it still chocolate?",
+     "say": "Did it set? Look at it closely. Has it turned into something new, or is it still chocolate?",
+     "kid": "Pop out your chocolate and look at its shape.",
      "ask": [
       {
        "q": "Why did the chocolate set in the fridge?",

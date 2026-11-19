@@ -272,7 +272,7 @@
    "title": "Find the Hungry Mouth: which chick gets fed in a dark nest?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you make a nest of paper chick mouths in four colours. In a dim room, you play the parent bird and feed every mouth you can find. Then you count which colours got fed most.",
+   "context": "In this experiment you find out whether the colour of a chick's mouth helps a parent find the hungry chick in the dark. You make a nest of paper chick mouths in four colours. In a dim room, you play the parent bird and feed every mouth you can find. Then you count which colours got fed most.",
    "question": "In a dark nest, which colour of chick mouth does a parent find and feed most often?",
    "predict": "Guess first. In the dim nest, which colour of mouth will you feed most: yellow, orange, brown or black? Why do you think so?",
    "fair_test": "All the mouths are the same size, and there are two of each colour. The grown-up mixes them up before every round, so no colour is always in the best place. Each round lasts the same 10 seconds. We do three rounds in dim light, because the result of one round can be luck. Then we do one round in bright light, to see if the light makes a difference.",
@@ -294,7 +294,7 @@
      "qty": 1
     },
     {
-     "item": "paper, and crayons or sketch pens in yellow, orange, brown and black",
+     "item": "paper, and crayons or sketch pens in yellow, orange, brown and black (or coloured paper to cut up)",
      "qty": "2 sheets"
     },
     {
@@ -318,7 +318,7 @@
      "what": "Make 8 paper mouths, line the nest, then feed the mouths in dim light three times and in bright light once. Count and compare."
     }
    ],
-   "record": "Fill in the results table with the number of chana on each colour. Draw a block for each chana under each colour to make a block graph.",
+   "record": "Fill in the results table with the number of chana on each colour. Stack the chana in a column under each colour to make a block graph. Take a photo, or draw a block for each chana.",
    "setup": [
     {
      "art": "Eight paper circles the size of a bottle cap on a table: two yellow, two orange, two brown and two black, with crayons and scissors beside them.",
@@ -341,9 +341,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Draw round a bottle cap 8 times on paper. 2. Colour 2 circles yellow, 2 orange, 2 brown and 2 black. Colour them fully. 3. Cut them out.",
+     "do": "1. Draw round a bottle cap 8 times on paper. 2. Colour 2 circles yellow, 2 orange, 2 brown and 2 black. Colour them fully. 3. Cut them out. (You can also cut circles from coloured paper instead of colouring.)",
      "say": "These circles are chick mouths. Real chicks have mouths of different colours. Let's make yellow, orange, brown and black ones.",
-     "kid": "Draw 8 circles. Colour 2 yellow, 2 orange, 2 brown, 2 black. Cut them out.",
+     "kid": "Make 8 round mouths: 2 yellow, 2 orange, 2 brown and 2 black.",
      "parent": "Colour the black and brown circles fully, so no white paper shows. A sketch pen works well."
     },
     {
@@ -400,9 +400,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "1. Add up the dim-light rounds for each colour. 2. Your child draws one block for each chana, to make a block graph. 3. Ask your child which colour got fed most, and why.",
+     "do": "1. Add up the dim-light rounds for each colour. 2. Your child stacks the chana in a column under each colour, to make a block graph. 3. Ask your child which colour got fed most, and why.",
      "say": "Which colour got fed most in the dark? Was your guess right? Why do you think that colour did best?",
-     "kid": "Add up. Which colour got the most food? Why?",
+     "kid": "Add up the chana for each colour. Is your guess right?",
      "ask": [
       {
        "q": "Why did that colour get the most food?",
@@ -441,7 +441,7 @@
      "qty": 1
     },
     {
-     "item": "6 small cards with a baby drawn on each: calf, hen's chick, kitten, puppy, human baby, goat kid",
+     "item": "6 small cards with the name of a baby on each: calf, hen's chick, kitten, puppy, human baby, goat kid (add a small drawing if you like)",
      "qty": 6
     }
    ],
@@ -452,7 +452,7 @@
      "what": "Lay the walking line, guess where each baby goes, then check and talk."
     }
    ],
-   "record": "Draw the line in your notebook with each baby in the right place.",
+   "record": "Take a photo of the line with each baby in the right place. Or tell a grown-up who walks first and who walks last.",
    "setup": [
     {
      "art": "A string across a floor, with a paper label 'just born' at one end and 'two years' at the other end, and small marks for 'one hour', 'one day', 'one month' and 'one year'.",
@@ -468,15 +468,15 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Lay the string across the room. 2. Put a paper at one end saying 'just born'. 3. Put papers along it: 'one hour', 'one day', 'one month', 'one year', and 'two years' at the far end.",
-     "say": "This line is time. Here is the day a baby is born. Over there, the baby is two years old.",
-     "kid": "This line is time. One end is birth. The far end is two years."
+     "say": "This line shows time. At one end, a baby is just born. At the far end, the baby is two years old.",
+     "kid": "Find the two ends of the line. Which end is birth?"
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Your child puts each baby card where they think that baby first walks.",
-     "say": "When does each baby first walk? Put each card on the line. Why did you put the calf there?",
-     "kid": "Put each baby where they first walk. Say why.",
+     "say": "Put each card where you think that baby first walks.",
+     "kid": "Put each baby card on the line.",
      "ask": [
       {
        "q": "Why did you put that baby there?",
@@ -499,11 +499,11 @@
      "id": "s4",
      "mins": 3,
      "do": "Talk about why some babies walk so early.",
-     "say": "A calf must follow her mother, who walks to find grass. Why can a human baby take so long?",
-     "kid": "Why can a human baby take so long to walk?",
+     "say": "A calf must walk with her mother to find grass.",
+     "kid": "Think about how a calf and a human baby are different.",
      "ask": [
       {
-       "q": "Why can a human baby take so long?",
+       "q": "Why can a human baby wait so long to walk?",
        "good": [
         "Because people carry the baby.",
         "Because the family looks after the baby."
@@ -544,10 +544,10 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Ask a grown-up four questions, write or draw the answers, and put your foods in order."
+     "what": "Ask a grown-up four questions, write the answers, and put your foods in order."
     }
    ],
-   "record": "A page with three pictures: my first food, my food when I was one, my food now.",
+   "record": "A page with three foods in order: my first food, my food when I was one, my food now.",
    "setup": [
     {
      "art": "A girl with a notebook asking a grown-up questions, the grown-up smiling and holding up a small steel bowl.",
@@ -555,7 +555,7 @@
     },
     {
      "art": "A notebook page with three drawings in a row: a baby drinking milk, a small bowl of ragi porridge, and a plate of idli and sambar.",
-     "caption": "2. Draw your foods in order."
+     "caption": "2. Write or draw your foods in order."
     }
    ],
    "flow": [
@@ -570,9 +570,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Your child draws or writes the answers in order: first food, food at about one year, food now.",
-     "say": "Draw your first food, then your food when you were one, then your food now. What changed?",
-     "kid": "Draw your three foods in order. What changed?",
+     "do": "Your child writes the answers in order: first food, food at about one year, food now. A child who likes to draw can draw them instead.",
+     "say": "Tell me your first food, then your food when you were one, then your food now. What changed?",
+     "kid": "Write your three foods in order.",
      "ask": [
       {
        "q": "Why does a baby eat soft food?",
@@ -597,7 +597,7 @@
    "title": "Nest Watch from the Window (if you can see a nest)",
    "mins": 15,
    "days": 1,
-   "context": "If you can see a bird's nest from your window or balcony, watch it for 10 minutes and count how often the parents bring food. Sparrows, mynas, pigeons and crows often nest near flats, mostly from February to June.",
+   "context": "If you can see a bird's nest from your window or balcony, watch it for 10 minutes and count how often the parents bring food. This shows how hard the parents work to feed their chicks. Sparrows, mynas, pigeons and crows often nest near flats, mostly from February to June.",
    "materials": [
     {
      "item": "a window or balcony from which you can see a nest",
@@ -616,7 +616,7 @@
      "what": "Watch a nest for 10 minutes. Make a tally mark each time a parent arrives. Count."
     }
    ],
-   "record": "A tally of parent visits in 10 minutes, and a drawing of the nest.",
+   "record": "A tally of parent visits in 10 minutes. If you can, add a photo of the nest, taken from far away.",
    "setup": [
     {
      "art": "A child at a window with a notebook, looking at a crow's nest of sticks in a tree outside.",
@@ -669,7 +669,7 @@
    "context": "In this activity you put animals in order by how long they take to grow up, from a mouse to a human. You compare their growing-up time with your own age.",
    "materials": [
     {
-     "item": "5 small cards with these written and drawn: a mouse, a dog, a cow, an elephant, a human",
+     "item": "5 small cards with one of these written on each: a mouse, a dog, a cow, an elephant, a human (add a small drawing if you like)",
      "qty": 5
     }
    ],
@@ -712,7 +712,7 @@
      "mins": 3,
      "do": "Compare with your child's age. Ask how old they are, and how many years are left until 18.",
      "say": "How old are you? A dog of that age is already a grown-up. How many more years until you are 18?",
-     "kid": "How old are you? How many years until you are 18?",
+     "kid": "Count how many years are left until you are 18.",
      "check": {
       "t": "mcq",
       "q": "Which animal takes longest to grow up?",
@@ -820,7 +820,6 @@
     }
    ],
    "rules": [
-    "Draw a quick baby on the front of each card, next to the name.",
     "Lay the two mats on the floor, a little apart.",
     "Mix the cards and put them face down in a pile.",
     "One player turns over the top card and reads the name aloud.",
@@ -832,9 +831,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Share the 16 cards and draw a quick baby on each. 2. Lay the two mats on the floor.",
-     "say": "Let's draw the babies first. You draw some, and I will draw some.",
-     "kid": "Draw a baby on your cards. Then lay out the two mats."
+     "do": "1. Cut out the 16 cards and share them out. 2. Lay the two mats on the floor, a little apart. 3. Put the cards face down in a pile.",
+     "say": "One mat is for babies who are ready soon after birth. The other is for babies who need a lot of help. We will race to the right mat.",
+     "kid": "Look at the two mats. Which baby do you think needs a lot of help?"
     },
     {
      "id": "s2",
@@ -844,7 +843,7 @@
      "kid": "Turn over a card. Slap the right mat. Read the back.",
      "ask": [
       {
-       "q": "The hen's chick can walk, but her mother still keeps her warm. Which mat is she on?",
+       "q": "A hen's chick can walk on the first day. Her mother still keeps her warm. Which mat does she go on?",
        "good": [
         "Ready, because she can walk and peck.",
         "Ready, but she still needs some care."
@@ -857,8 +856,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the cards.",
-     "say": "Which mat is the human baby on? Count your cards.",
-     "kid": "Count your cards. Which mat is the human baby on?",
+     "say": "Count your cards. The player with the most cards wins.",
+     "kid": "Count your cards.",
      "check": {
       "t": "mcq",
       "q": "Which baby needs the most help after birth?",
@@ -875,7 +874,7 @@
    "setup": [
     {
      "art": "Sixteen small cards with baby animals drawn on them, in a pile on a floor.",
-     "caption": "1. Draw a baby on each card."
+     "caption": "1. Cut out the cards."
     },
     {
      "art": "Two paper mats on a floor, one saying 'Ready soon after birth' and one saying 'Needs a lot of help', with two children's hands racing towards them.",
@@ -906,7 +905,7 @@
       "Carer: the mother cow, who licks the calf clean and feeds her milk",
       "Baby: a king cobra egg",
       "Carer: the mother king cobra, who builds a nest of leaves and guards the eggs",
-      "Baby: a tilapia fish",
+      "Baby: a baby tilapia fish",
       "Carer: the mother tilapia, who keeps her babies safe inside her mouth",
       "Baby: a human baby",
       "Carer: many people: parents, grandparents, aunts, uncles and older children"
@@ -932,11 +931,11 @@
      "id": "s2",
      "mins": 10,
      "do": "Take turns turning over two cards. Read them aloud. Keep a matching pair.",
-     "say": "A tilapia fish and a hen. Is that a pair? Why not?",
+     "say": "Say you turn over a baby tilapia fish and the mother hen. Is that a pair? Why not?",
      "kid": "Turn over two cards. Do they match?",
      "ask": [
       {
-       "q": "Which of these babies have more than one carer?",
+       "q": "Which babies in this game have more than one carer?",
        "good": [
         "Langur babies, because other langurs also hold them.",
         "Young honeybees, because many worker sisters feed them.",
@@ -950,8 +949,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Count the pairs. Talk about who cared for your child.",
-     "say": "Who looked after you when you were a baby? Is that more like the hen, or more like the langurs?",
-     "kid": "Who looked after you as a baby?",
+     "say": "Who looked after you when you were a baby? Was it one person, or many?",
+     "kid": "Tell your grown-up who looked after you.",
      "check": {
       "t": "mcq",
       "q": "Who feeds young honeybees?",
@@ -1042,12 +1041,12 @@
      "id": "s3",
      "mins": 10,
      "do": "Count up both columns. Compare them.",
-     "say": "Which column has more marks? Did you care for anyone today?",
-     "kid": "Count both columns. Which has more? Why?",
+     "say": "Which column has more marks? Did you care for someone in these three days?",
+     "kid": "Count the marks in each column. Write the two totals.",
      "wait": "Day 3",
      "ask": [
       {
-       "q": "Why does the 'cared for me' column have more marks?",
+       "q": "Why might the 'cared for me' column have more marks?",
        "good": [
         "Because I am still a child, and I need more care.",
         "Because grown-ups cook and help me."
@@ -1074,8 +1073,8 @@
    "id": "c1",
    "title": "Find Me in the Dark: design the easiest mouth to find",
    "mins": 20,
-   "context": "This is a design challenge. In the Find the Hungry Mouth test, yellow paper mouths were found more than dark ones in the dim nest. Now you design a paper mouth that is even easier to find in the dark.",
-   "problem": "Can you make a paper chick mouth that a grown-up finds faster than a plain yellow one, in a dim nest? In the Find the Hungry Mouth test, a mouth was easy to find when its colour was very different from the dark cloth around it. So a good design is a bright mouth that stands out from the cloth.",
+   "context": "This is a design challenge. In the Find the Hungry Mouth test, you saw which paper mouths a parent finds easily in a dim nest. Now you design a paper mouth that is even easier to find, and test it.",
+   "problem": "Can you make a paper chick mouth that a grown-up finds faster than a plain yellow one, in a dim nest? In the Find the Hungry Mouth test, mouths with colours very different from the dark cloth were easiest to find. So a good design is a bright mouth that stands out from the cloth.",
    "constraints": [
     "The mouth must be the same size as the others: a bottle-cap circle.",
     "Use only paper, crayons or sketch pens, glue, and silver foil if you have some.",
@@ -1102,14 +1101,14 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Read the challenge. Remind your child which mouths were easiest to find in the Find the Hungry Mouth experiment.",
-     "say": "In the Find the Hungry Mouth experiment, yellow mouths were found most in the dark nest. Can you make a mouth that is even easier to find?",
+     "do": "Read the challenge. Ask your child which mouths were easiest to find in the Find the Hungry Mouth experiment.",
+     "say": "Which colours were easiest to find in the dark nest? Can you make a mouth that is even easier to find than a plain yellow one?",
      "kid": "Make a mouth that is easy to find in the dark!"
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child designs and makes one or two mouths.",
+     "do": "Your child makes one or two mouths. They can colour, cut, glue foil, or tear coloured paper, whatever they like best.",
      "say": "What would make a mouth stand out in the dark? Try an idea.",
      "kid": "Make your mouth. What makes it stand out?",
      "parent": "White and silver foil often work best. Let your child try their own idea first."

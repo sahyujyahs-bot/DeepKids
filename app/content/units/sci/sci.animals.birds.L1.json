@@ -255,7 +255,7 @@
    "title": "Bird or Not a Bird? Look for the feathers",
    "mins": 10,
    "players": "2 to 4 players: a grown-up and a child, or more",
-   "context": "This is a sorting card game. Each card names an animal or a thing that flies, walks or swims. Players decide if each one is a bird, and the back of the card says why.",
+   "context": "This is a sorting card game. Each card names an animal or a thing that flies, walks or swims. Players decide if each one is a bird, and the back of the card says why. You will find out what really makes a bird a bird.",
    "printables": [
     {
      "kind": "cards",
@@ -375,8 +375,8 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Cut out the 12 cards. 2. Lay out the two sheets. 3. Ask your child how they will decide which animals are birds.",
-     "say": "What makes a bird a bird? How will you decide which cards go on BIRD?",
-     "kid": "How will you know if an animal is a bird?",
+     "say": "We will sort animals into birds and not birds. First, think about what a bird is.",
+     "kid": "Think of a bird you know. Say what it has.",
      "ask": [
       {
        "q": "How will you decide if an animal is a bird?",
@@ -393,8 +393,8 @@
      "id": "s2",
      "mins": 6,
      "do": "Take turns with the cards. After each card, read the back aloud.",
-     "say": "Is a hen a bird? She can hardly fly. What does she have that a bat does not?",
-     "kid": "Pick a card. Bird or not a bird? Say why.",
+     "say": "Read the name on the card. Is it a bird? What makes you say so?",
+     "kid": "Take a card. Put it on BIRD or NOT A BIRD.",
      "ask": [
       {
        "q": "Why is the bat not a bird?",
@@ -415,9 +415,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Look at the two piles together. Ask what every card on the BIRD sheet has.",
-     "say": "Look at all the birds. What does every one of them have?",
-     "kid": "What do all the birds have?",
+     "do": "Look at the two sheets together. Let your child study the animals on the BIRD sheet before answering.",
+     "say": "Look closely at every animal on the BIRD sheet. Look at their bodies.",
+     "kid": "Look at the BIRD sheet. Find what the birds share.",
      "check": {
       "t": "mcq",
       "q": "What do all the cards on the BIRD sheet have?",
@@ -437,7 +437,7 @@
    "title": "Danger Call: a running and freezing game",
    "mins": 10,
    "players": "2 or more players",
-   "context": "This is a moving game about alarm calls. Players are birds pecking for food. When the lookout bird gives the danger call, every bird flies to safety or freezes.",
+   "context": "This is a moving game about alarm calls. Players are birds pecking for food. When the lookout bird gives the danger call, every bird flies to safety or freezes. You will find out why a bird needs a different call for each danger.",
    "printables": [
     {
      "kind": "cards",
@@ -493,15 +493,15 @@
      "id": "s1",
      "mins": 2,
      "do": "1. Tear a sheet of newspaper into small scraps and scatter them. 2. Choose the tree. 3. Read the call cards aloud together.",
-     "say": "Birds use different calls for different dangers. Let's learn the calls first.",
-     "kid": "Learn the calls. Each call means something different.",
+     "say": "Each card has a call and a job for the birds. Read each one, then practise the sound.",
+     "kid": "Practise each call sound. Remember what the birds must do.",
      "parent": "These calls are made-up sounds for the game. Real alarm calls differ between kinds of birds, but many small birds do use one call for a danger on the ground and another for a hawk in the sky."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "Play. The grown-up is the first lookout, then the others take turns. Each lookout makes three calls.",
-     "say": "Peck, peck, peck. Listen carefully. What is the lookout saying?",
+     "say": "Peck, peck, peck. Listen for the lookout's call.",
      "kid": "Peck the seeds. Listen for the lookout's call. Then act fast.",
      "ask": [
       {
@@ -517,8 +517,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Sit down together. Ask why a bird needs more than one danger call.",
-     "say": "Why do birds need a different call for a cat and for a hawk?",
-     "kid": "Why does a bird have two danger calls? What should other birds do for each one?",
+     "say": "Think about where a cat is, and where a hawk is. Would the same hiding place work for both?",
+     "kid": "Where is a cat? Where is a hawk?",
      "check": {
       "t": "mcq",
       "q": "Why do birds need more than one danger call?",
@@ -532,7 +532,7 @@
      },
      "ask": [
       {
-       "q": "Why does a bird need a different call for a cat and for a hawk?",
+       "q": "What should a bird do when a cat is near? What about a hawk?",
        "good": [
         "A cat is on the ground, so birds fly up to the tree.",
         "A hawk is in the sky, so birds keep still and hide.",
@@ -550,7 +550,7 @@
    "title": "A Bean for Every Call: when do birds call most?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment you sit at a window for 5 minutes at three times of one day: early morning, afternoon and evening. Each time you hear a bird call, you drop one bean into a cup. At the end you compare the three cups.",
+   "context": "In this experiment you sit at a window for 5 minutes at three times of one day: early morning, afternoon and evening. Each time you hear a bird call, you drop one bean into a cup. At the end you compare the three cups. You will find out when the birds call most.",
    "question": "When do the birds outside our window call most: in the early morning, in the afternoon or in the evening?",
    "predict": "Guess first. Which cup will have the most beans: morning, afternoon or evening? Why do you think so?",
    "fair_test": "We listen at the same window each time, for the same 5 minutes, with the TV and music off. The same person drops the beans. One bean means one call, or one burst of calls when they come too fast.",
@@ -596,7 +596,7 @@
      "what": "Evening, about an hour before dark: listen for 5 minutes, then line up the beans and compare."
     }
    ],
-   "record": "Draw the three cups. Draw the beans from each cup in a line under it. Draw the birds you heard.",
+   "record": "Line up the beans from each cup and take a photo, or draw the three lines. Then fill in the table with a grown-up: the beans in each cup, the birds you heard, and whether one bird answered another.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results from a flat in Chennai",
@@ -646,8 +646,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Label the three cups Morning, Afternoon and Evening. 2. Show your child the beans. 3. Ask for a guess and a reason. 4. Write the guess down.",
-     "say": "We will listen three times today. Which cup do you think will get the most beans? Why do you think so?",
-     "kid": "Which cup will get the most beans? Why do you think so?",
+     "say": "We will listen three times today: morning, afternoon and evening. Each bird call is one bean.",
+     "kid": "Pick the cup you think will get the most beans.",
      "ask": [
       {
        "q": "Why do you think that cup will get the most beans?",
@@ -664,8 +664,8 @@
      "id": "s2",
      "mins": 6,
      "do": "1. Early morning, within an hour after sunrise, sit at the window. 2. Start a 5-minute timer. 3. Your child drops one bean in the Morning cup for every call. 4. Whisper the bird's name if you know it.",
-     "say": "Shh. Listen. Every time you hear a bird, drop a bean. Did that bird get an answer?",
-     "kid": "Listen. Drop one bean for each bird call. Is another bird answering?",
+     "say": "Shh. Every time you hear a bird, drop a bean in the cup.",
+     "kid": "Listen. Drop one bean in the Morning cup each time a bird calls.",
      "ask": [
       {
        "q": "Did one bird call, and then another bird answer?",
@@ -681,7 +681,7 @@
      "id": "s3",
      "mins": 6,
      "do": "In the afternoon, between 1 and 3 o'clock, do the same at the same window with the Afternoon cup.",
-     "say": "We sit at the same window for the same 5 minutes. Is it louder or quieter than the morning?",
+     "say": "Same window, same 5 minutes. Drop a bean for each call, just like this morning.",
      "kid": "Sit at the same window for 5 minutes. Drop one bean in the Afternoon cup for each bird call.",
      "ask": [
       {
@@ -706,8 +706,8 @@
      "id": "s5",
      "mins": 6,
      "do": "1. Tip each cup out. 2. Help your child lay the beans from each cup in a straight line, side by side. 3. Count each line together.",
-     "say": "Let's put the beans in lines. Which line is the longest? Was your guess right?",
-     "kid": "Put each cup's beans in a line. Which line is longest?",
+     "say": "Tip out each cup. Put the beans in a straight line, one line for each cup.",
+     "kid": "Make one line of beans for each cup. Count each line.",
      "ask": [
       {
        "q": "Which time had the most calls?",
@@ -730,11 +730,11 @@
      "id": "s6",
      "mins": 3,
      "do": "Ask your child to say what they found, what they saw and why they think it happened.",
-     "say": "What did you find? What did the beans show? Why do you think the birds called so much at that time?",
-     "kid": "Tell your grown-up what you found. Why do you think the birds called most at that time?",
+     "say": "Tell me what the three lines of beans showed.",
+     "kid": "Tell your grown-up what the three lines showed.",
      "ask": [
       {
-       "q": "Why do birds call so much in the morning?",
+       "q": "Why do you think the birds called most at that time?",
        "good": [
         "To say \"I am here\".",
         "To find their friends after the night."
@@ -744,7 +744,7 @@
      "think": "You may have heard one bird call and another answer. What might they have been saying to each other?",
      "check": {
       "t": "mcq",
-      "q": "At what time of day do most birds call the most?",
+      "q": "When do most birds call the most?",
       "options": [
        "Early morning",
        "In the hot afternoon",
@@ -764,7 +764,7 @@
    "title": "A Feather Up Close: unzip it and zip it back",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look closely at a real feather. You pull the strands apart and stroke them back together, the way a bird mends a feather with the beak. Do this if you have a feather.",
+   "context": "In this activity you look closely at a real feather. You pull the strands apart and stroke them back together, the way a bird mends a feather with the beak. You will find out how a feather holds together. Do this if you have a feather.",
    "materials": [
     {
      "item": "a clean feather, such as a craft feather from a stationery shop",
@@ -783,7 +783,7 @@
      "what": "Look at a feather. Unzip the strands, zip them back, and blow on the fluffy part."
     }
    ],
-   "record": "Draw your feather, big. Show the middle stem, the strands, and the fluffy bit at the bottom.",
+   "record": "Tell your grown-up the three parts you found: the stiff middle, the soft strands and the fluffy bit. Or draw the feather and name its parts. A photo of your feather also works.",
    "setup": [
     {
      "art": "A child's fingers gently pulling apart the strands of a grey feather to make a gap.",
@@ -799,15 +799,15 @@
      "id": "s1",
      "mins": 3,
      "do": "Give your child the feather. Ask them to touch the stiff middle and the soft strands, and the fluffy part at the bottom.",
-     "say": "Feel the feather. Which part is stiff? Which part is soft? Which part is fluffy?",
+     "say": "This feather has three parts. Feel each one and tell me what it is like.",
      "kid": "Feel the feather. Find the stiff part, the soft part, the fluffy part."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "1. Gently pull two strands apart to make a gap. 2. Ask your child to guess if the gap can be closed. 3. Stroke from the stem to the tip.",
-     "say": "I have made a gap. Can we mend it? What do you think will happen if we stroke it?",
-     "kid": "Pull two strands apart to make a gap. Now stroke the feather gently from the stem to the tip. What happens?",
+     "say": "I have made a gap. Do you think we can close it?",
+     "kid": "Pull two strands apart to make a gap. Then stroke the feather gently from the stem to the tip.",
      "ask": [
       {
        "q": "What happened to the gap?",
@@ -823,8 +823,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Hold the feather by the stem and blow gently on the fluffy part at the bottom.",
-     "say": "Blow on the fluffy part. Why do you think birds have fluffy feathers close to their skin?",
-     "kid": "Blow on the fluffy part. Why does a bird need fluff?",
+     "say": "Blow on the fluffy part. Watch how it moves.",
+     "kid": "Blow on the fluffy part. Feel how soft it is.",
      "ask": [
       {
        "q": "Why do birds have fluffy feathers?",
@@ -844,7 +844,7 @@
    "title": "Be a Sunbird: reach the juice at the bottom",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you try to drink juice from the bottom of a tall, narrow bottle, the way a sunbird reaches the sweet juice deep inside a flower.",
+   "context": "In this activity you try to drink juice from the bottom of a tall, narrow bottle, the way a sunbird reaches the sweet juice deep inside a flower. You will find out why a sunbird's beak is long and thin.",
    "materials": [
     {
      "item": "a tall, narrow bottle or a tall glass",
@@ -870,7 +870,7 @@
      "what": "Try to reach the juice with your tongue, a spoon and a straw."
     }
    ],
-   "record": "Draw a sunbird with a long, curved beak, reaching into a flower.",
+   "record": "Tell your grown-up how a sunbird's beak is like a straw. Or draw a sunbird with a long, curved beak reaching into a flower.",
    "setup": [
     {
      "art": "A tall narrow bottle with a little orange juice at the bottom, next to a spoon and a straw.",
@@ -886,8 +886,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Pour about 2 spoons of juice into the bottle. Ask your child how they could drink it without tipping the bottle.",
-     "say": "The juice is at the very bottom. You must not tip the bottle. How can you reach it?",
-     "kid": "Can you reach the juice without tipping the bottle?",
+     "say": "The juice is at the very bottom of the bottle. We must not tip the bottle.",
+     "kid": "Look at the juice at the bottom. Think of ways to reach it.",
      "ask": [
       {
        "q": "How can you reach the juice without tipping the bottle?",
@@ -903,8 +903,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Let your child try a spoon first, then the straw.",
-     "say": "Try the spoon. Now try the straw. Which works best? Why?",
-     "kid": "Try the spoon. Then try the straw. Which works?",
+     "say": "Try the spoon first. Does it reach? Now try the straw.",
+     "kid": "Which one reaches the juice?",
      "ask": [
       {
        "q": "Why did the straw work?",
@@ -920,8 +920,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Tell your child about the sunbird: she has a long, thin, curved beak and sips nectar from deep inside flowers. Ask how her beak is like the straw.",
-     "say": "A sunbird has a long, thin, curved beak. A flower keeps its sweet juice, called nectar, deep inside. How is her beak like the straw?",
-     "kid": "How is a sunbird's beak like the straw?",
+     "say": "A sunbird has a long, thin, curved beak. A flower keeps its sweet juice, called nectar, deep inside. Think about the straw.",
+     "kid": "Think about the straw and the bottle. Now think about the flower.",
      "check": {
       "t": "mcq",
       "q": "Which beak is best for sipping nectar deep inside a flower?",
@@ -941,7 +941,7 @@
    "title": "Bird Café: what is good for birds, and what is not?",
    "mins": 15,
    "days": 2,
-   "context": "In this activity you sort kitchen foods into good and bad for birds. Then you put out a bowl of water and a few grains, and check the next day who came.",
+   "context": "In this activity you sort kitchen foods into good and bad for birds. Then you put out a bowl of water and a few grains, and check the next day who came. You will find out which foods are safe for birds.",
    "materials": [
     {
      "item": "a shallow bowl, such as a clay saucer or a steel plate with a rim",
@@ -973,7 +973,7 @@
      "what": "Check the bowl and grains. Change the water. Who came?"
     }
    ],
-   "record": "Draw your bird café. Draw any bird you saw, or any sign, like a feather or droppings.",
+   "record": "Take a photo of your bird café, or draw the café. Tell your grown-up who came, or what sign you saw, like a feather or droppings.",
    "setup": [
     {
      "art": "Kitchen foods on a table in two groups: rice, banana and bajra on a green paper, a chip, a biscuit and salt on a red paper.",
@@ -989,7 +989,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Put a green paper and a red paper on the table. Your child sorts the foods: green for good for birds, red for not good.",
-     "say": "Which of these foods are good for a bird? Which could make a bird ill? Why do you think so?",
+     "say": "Look at each food. Is this good for a bird to eat, or could it make a bird ill?",
      "kid": "Put good bird food on green. Put bad bird food on red.",
      "ask": [
       {
@@ -1014,8 +1014,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Next day, look at the bowl and the grains. Tip out the old water, rinse the bowl and fill it again.",
-     "say": "Did anyone come? Are the grains gone? Why must we change the water every day?",
-     "kid": "Who came to your café? Change the water.",
+     "say": "Look at the bowl. Did anyone come? Are the grains gone?",
+     "kid": "Look for who came. Then help change the water.",
      "ask": [
       {
        "q": "Why change the water every day?",
@@ -1037,14 +1037,14 @@
    "title": "My Window Bird Book",
    "mins": 35,
    "days": 5,
-   "context": "In this five-day project you make a small book of the birds you see or hear from your home. Each day you draw one bird, and say what that bird was doing.",
+   "context": "In this five-day project you make a small book of the birds you see or hear from your home. Each day you add one page about a bird. You draw it, or tell a grown-up and they write your words. You will find out which birds live near your home and what they do.",
    "materials": [
     {
      "item": "3 sheets of paper, folded in half and stapled (a grown-up staples) into a little book",
      "qty": 1
     },
     {
-     "item": "crayons or colour pencils",
+     "item": "a pencil and crayons or colour pencils",
      "qty": 1
     }
    ],
@@ -1052,22 +1052,22 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Make the book. Watch from a window for 5 minutes and draw the first bird."
+     "what": "Make the book. Watch from a window for 5 minutes. Draw the first bird, or tell its colours and your grown-up writes them."
     },
     {
      "day": 2,
      "mins": 5,
-     "what": "Watch for 5 minutes. Draw a bird and the bird's beak."
+     "what": "Watch for 5 minutes. Look at a bird's beak and say what shape the beak is. Your grown-up writes it on the page."
     },
     {
      "day": 3,
      "mins": 5,
-     "what": "Watch for 5 minutes. Draw what a bird was doing: eating, calling, flying or resting."
+     "what": "Watch for 5 minutes. Act out what a bird was doing: eating, calling, flying or resting. Your grown-up writes it on the page."
     },
     {
      "day": 4,
      "mins": 5,
-     "what": "Listen with eyes closed. Draw the bird you heard."
+     "what": "Listen with eyes closed for 5 minutes. Count the different bird sounds you hear. Write the number on the page."
     },
     {
      "day": 5,
@@ -1075,7 +1075,7 @@
      "what": "Finish the cover. Show your book to someone at home and tell them about each page."
     }
    ],
-   "record": "One page for each day: the bird, the beak, and what the bird was doing.",
+   "record": "One page for each day: the bird, the shape of its beak, what a bird was doing, and how many bird sounds you heard. Draw, or tell a grown-up who writes it down.",
    "setup": [
     {
      "art": "Three folded sheets stapled into a small book, with 'My Window Birds' written on the cover.",
@@ -1083,24 +1083,24 @@
     },
     {
      "art": "A child at a window drawing a myna in the book, with the real myna on a wire outside.",
-     "caption": "2. Each day, draw one bird you saw or heard."
+     "caption": "2. Each day, add one bird to the book."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Fold the book. A grown-up staples it. 2. Write the title together. 3. Watch from a window for 5 minutes. 4. Your child draws the first bird.",
-     "say": "Let's make a book of our window birds. Which bird can you see? What colour is the beak?",
-     "kid": "Make your bird book. Watch the window. Draw a bird.",
+     "do": "1. Fold the book. A grown-up staples it. 2. Write the title together. 3. Watch from a window for 5 minutes. 4. Your child draws the first bird, or says its colours while you write them.",
+     "say": "This book will hold the birds you see and hear from our window. Look out. Which bird can you see?",
+     "kid": "Watch the window. Draw the first bird, or tell your grown-up its colours.",
      "parent": "If you see no bird, draw one you heard, or a bird you have seen before from this window. Crows and pigeons are nearly always about."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "On days 2, 3 and 4, watch or listen for 5 minutes and add one page each day.",
-     "say": "What was the bird doing? Eating, calling, flying or resting?",
-     "kid": "Watch the bird. What is the bird doing? Draw the bird.",
+     "do": "1. Day 2: watch for 5 minutes. Ask if the beak is short and thick, long and thin, or hooked. Write the answer on the page. 2. Day 3: watch for 5 minutes. Your child acts out what a bird was doing. Write it on the page. 3. Day 4: listen with eyes closed for 5 minutes. Write how many different bird sounds your child heard.",
+     "say": "Today's page needs one bird. Watch closely for 5 minutes.",
+     "kid": "Watch or listen. Tell your grown-up what to write on your page.",
      "ask": [
       {
        "q": "What was the bird doing?",
@@ -1116,8 +1116,8 @@
      "id": "s3",
      "mins": 10,
      "do": "On day 5, your child makes the cover. Then they show the book to someone at home and tell them about each page.",
-     "say": "Tell me about your bird book. Which bird did you like best? Why?",
-     "kid": "Show your book and tell about each page. Which bird was your favourite?"
+     "say": "Tell me about your book. What did you find out about the birds at our window?",
+     "kid": "Show your book. Tell about each page."
     }
    ]
   }
@@ -1127,7 +1127,7 @@
    "id": "c1",
    "title": "Stitch a Cradle Like a Tailorbird",
    "mins": 20,
-   "context": "This is a design challenge. A tailorbird sews leaves together to hide the nest. You make a leaf cradle that holds two chana as eggs, using thread and no glue.",
+   "context": "This is a design challenge. A tailorbird sews leaves together to hide the nest. You make a leaf cradle that holds two chana as eggs, using thread and no glue. You will find out if stitches can hold a cradle together.",
    "problem": "Make a cradle from leaves or paper leaves that holds two chana 'eggs'. The eggs must not fall out when you tip the cradle a little. Use thread, not glue or tape.",
    "constraints": [
     "No glue and no tape.",
@@ -1167,14 +1167,14 @@
      "id": "s1",
      "mins": 4,
      "do": "Tell your child how a tailorbird sews leaves into a cradle with her beak and thread.",
-     "say": "A tailorbird sews two leaves together with her beak. How could we do that with thread?",
-     "kid": "A tailorbird sews leaves. How could you sew them?"
+     "say": "A tailorbird sews two leaves into a cradle for her eggs. Her sharp beak is the needle.",
+     "kid": "Think about how you could join two leaves with thread and no glue."
     },
     {
      "id": "s2",
      "mins": 12,
      "do": "1. Cut two leaf shapes from paper. A grown-up helps poke holes with a pencil tip. 2. Your child pushes the wool through the holes. A grown-up ties the knots. 3. Put in two chana.",
-     "say": "Where do the holes need to go? How will the knots stop the thread coming out?",
+     "say": "Make a row of holes along the edge. Then push the wool through the holes.",
      "kid": "Poke holes. Push the wool through. Ask for help with the knot.",
      "ask": [
       {
@@ -1191,8 +1191,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Tip the cradle gently. If an egg falls out, ask your child what to change.",
-     "say": "Tip it gently. Did the eggs stay? What could you change?",
-     "kid": "Tip your cradle gently. Did the eggs stay in?"
+     "say": "Now we test it. Tip the cradle a little.",
+     "kid": "Do the chana stay in? If not, change one thing and try again."
     }
    ]
   }

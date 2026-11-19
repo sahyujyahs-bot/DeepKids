@@ -575,8 +575,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Cut out the 24 cards. Shuffle them. Make a pile in the middle with the clue side up. Decide who reads first.",
-          "say": "Cut out the cards and shuffle them. Put them in a pile with the clue side up. Who will be the first reader?",
-          "kid": "Cut out the cards. Shuffle them. Make a pile.",
+          "say": "We are going to play a clue game about cells. Each card has a clue on it. First we get the cards ready. Who will read first?",
+          "kid": "Help cut out the cards. Mix them up and make a pile with the clue side up.",
           "parent": "If you are playing alone, you are the reader and the player. Read the clue, say your answer aloud, then check the back.",
           "context": "This is the first step of Cell Detectives. You get the cards ready."
         },
@@ -584,15 +584,15 @@
           "id": "s2",
           "mins": 8,
           "do": "Play the first rounds. The reader reads the clue aloud and does not turn the card. Everyone answers. The reader turns the card and reads the back aloud. Whoever was right keeps the card.",
-          "say": "Read the clue aloud. Wait for the answers. Then turn the card and read the back. Whoever was right keeps the card.",
+          "say": "Here is a clue. Who am I? You have ten seconds.",
           "kid": "Read a clue. Answer. Turn the card. Did you get it right?",
           "ask": [
             {
-              "q": "Which part of a cell decides what comes in and goes out, and which part keeps the instructions?",
+              "q": "Which part of a cell keeps the instructions?",
               "good": [
-                "The membrane decides what passes.",
                 "The nucleus keeps the instructions.",
-                "The membrane is the skin, and the nucleus is the room that keeps the DNA."
+                "The DNA, which is kept in the nucleus.",
+                "The nucleus is like a library for the cell."
               ]
             }
           ],
@@ -603,7 +603,7 @@
           "id": "s3",
           "mins": 6,
           "do": "Keep playing until a player has 6 cards, or until the pile has been through once. Count the cards each player kept.",
-          "say": "Keep going until someone has six cards. Then count how many cards each player kept.",
+          "say": "Keep going. The first player to keep six cards wins.",
           "kid": "Keep playing. Count your cards at the end.",
           "check": {
             "t": "mcq",
@@ -622,8 +622,8 @@
           "id": "s4",
           "mins": 2,
           "do": "Ask your child which card was hardest. Ask them to explain it again in their own words.",
-          "say": "Which card was hardest? Explain it to me again in your own words.",
-          "kid": "Which card was hardest? Explain it again in your own words.",
+          "say": "Which card was hardest? Tell me the answer again in your own words.",
+          "kid": "Pick the card that was hardest for you. Tell your grown-up its answer in your own words.",
           "think": "Which three things does almost every cell have, and what does each one do?",
           "context": "This is the last step of Cell Detectives. You say the hardest card in your own words.",
           "parent": "The three things are the membrane, the cytoplasm and the DNA. The membrane is the skin that decides what passes in and out. The cytoplasm is the jelly where most of the cell's work happens. The DNA holds the instructions, and in most cells it is kept in the nucleus."
@@ -642,7 +642,7 @@
       "context": "This is a sorting game about the cell membrane. You are the gatekeeper in the skin of a cell. Each visitor card names something that wants to cross the skin, and you decide what happens to it.",
       "rules": [
         "Cut out the 13 visitor cards and the 4 gate signs: PASS, HELPER, PUMP and BLOCK. Cut out the 5 energy tokens. Put the tokens in the middle.",
-        "PASS means the visitor slips through the skin with no help. HELPER means a carrier protein passes the visitor across. PUMP means the cell uses 1 energy to push the visitor across. BLOCK means the visitor cannot get through.",
+        "PASS means the visitor slips through the skin with no help. HELPER means a carrier protein, a tiny helper built into the skin, passes the visitor across. PUMP means the cell uses 1 energy to push the visitor across. BLOCK means the visitor cannot get through.",
         "One player is the gatekeeper. The reader reads the front of a visitor card. The gatekeeper puts one gate sign face down. With 3 or 4 players, the others may whisper advice to the gatekeeper, but only the gatekeeper places the sign.",
         "The reader turns the card over. If the sign matches the back, the cell scores a point. If the sign was wrong, the cell loses 1 energy token. A correct PUMP also costs 1 energy token.",
         "If the energy tokens run out, the cell has stopped working and the game ends. If all 13 cards are played with energy left, the cell wins.",
@@ -742,7 +742,7 @@
           "id": "s1",
           "mins": 4,
           "do": "Cut out the cards, the signs and the tokens. Put the energy tokens in the middle. Read the four signs aloud and say what each one means.",
-          "say": "Cut out everything. PASS means the visitor slips through with no help. HELPER means a carrier protein passes the visitor across. PUMP means the cell uses energy to push the visitor across. BLOCK means the visitor cannot get through.",
+          "say": "Here are the four signs. PASS means the visitor slips through with no help. HELPER means a carrier protein, a tiny helper built into the skin, passes the visitor across. PUMP means the cell uses energy to push the visitor across. BLOCK means the visitor cannot get through.",
           "kid": "Cut out the cards. Learn the four signs: PASS, HELPER, PUMP, BLOCK.",
           "parent": "If you are playing alone, put the visitor cards in a pile and play the gatekeeper for every card.",
           "context": "This is the first step of Gatekeeper. You get the game ready and learn the four signs."
@@ -751,7 +751,7 @@
           "id": "s2",
           "mins": 12,
           "do": "The reader reads a visitor card. The gatekeeper puts a sign face down. The reader turns the card over and reads the back. Score a point for a match. Take away 1 energy for a wrong sign or a correct PUMP.",
-          "say": "Read the visitor. The gatekeeper picks a sign and puts it face down. Turn the card over and read the back aloud.",
+          "say": "Here is a visitor at the gate. Which sign will you put down?",
           "kid": "Read the visitor. Pick a sign. Turn the card. Were you right?",
           "ask": [
             {
@@ -1420,7 +1420,7 @@
         }
       ],
       "safety": "A grown-up boils the water. Do not drink or taste the pond water. Wash your hands after touching the jar. Keep the jar covered so mosquitoes cannot lay eggs in it, and throw the water down a drain at the end.",
-      "record": "Draw the jar on days 1, 3, 5 and 7. Write how cloudy the water is, what it smells like, and what you see in the torch beam.",
+      "record": "Take a photo of the jar on days 1, 3, 5 and 7, or draw it. Write how cloudy the water is, what it smells like, and what you see in the torch beam.",
       "context": "In this project you grow a small pond in a jar and look for single-celled living things over a week. You may see only cloudy water and tiny moving specks. A microscope would be needed to see their shapes.",
       "schedule": [
         {
@@ -1431,7 +1431,7 @@
         {
           "day": 3,
           "mins": 10,
-          "what": "Look at the water in a torch beam. Is it cloudy? Does it smell? Draw the jar."
+          "what": "Look at the water in a torch beam. Is it cloudy? Does it smell? Take a photo of the jar."
         },
         {
           "day": 5,
@@ -1441,7 +1441,7 @@
         {
           "day": 7,
           "mins": 20,
-          "what": "Look one last time. Draw what you see. Say who lives in your pond, and what they might be eating."
+          "what": "Look one last time. Take a photo. Say who lives in your pond, and what they might be eating."
         }
       ],
       "setup": [
@@ -1463,7 +1463,7 @@
           "id": "s1",
           "mins": 15,
           "do": "A grown-up boils the water and lets it cool. Pour 300 millilitres into the jar. Add the pinch of grass and 1 teaspoon of pond or vase water. Cover the jar loosely and put it near a window. Ask your child what might grow in the jar.",
-          "say": "Pour the cooled water into the jar. Add the grass and a teaspoon of pond or vase water. Cover it loosely. Put it by a window.",
+          "say": "We are making a tiny pond in a jar. In a week we will look for living things that are each just one cell. First, pour the cooled water into the jar. Add the grass and a teaspoon of pond or vase water. Cover it loosely and put it by a window.",
           "kid": "Make the pond. Put the cooled water in the jar. Add the grass. Add a teaspoon of pond or vase water. Cover it loosely.",
           "adult": true,
           "ask": [
@@ -1482,17 +1482,17 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "On day 3, look at the water. Is it cloudy? Does it smell? Shine the torch through the side of the jar in a dark room. Draw what you see.",
-          "say": "Shine the torch through the side. Is the water cloudy? Does it smell? Draw the jar.",
-          "kid": "Shine a torch through the jar. Is it cloudy? Draw what you see.",
+          "do": "On day 3, look at the water. Is it cloudy? Does it smell? Shine the torch through the side of the jar in a dark room. Take a photo of the jar.",
+          "say": "Shine the torch through the side of the jar. Is the water cloudy? Does it smell? Tell me what you see.",
+          "kid": "Shine a torch through the jar. Look closely at the water. Take a photo of the jar.",
           "parent": "By day 3 the water is usually cloudy, and may smell a little like a pond. That is normal. The cloudiness is mostly bacteria. Larger swimmers, if any, usually come in the next few days.",
           "context": "In this step you look at the pond on day 3. Cloudy water means that bacteria are growing."
         },
         {
           "id": "s3",
           "mins": 15,
-          "do": "On day 5, shine the torch through the side. Look slowly for tiny white specks that move. Use a magnifier or a phone camera close to the glass. Draw what you see.",
-          "say": "Look for tiny specks that move. Use the torch and the magnifier. Look slowly. Draw what you see.",
+          "do": "On day 5, shine the torch through the side. Look slowly for tiny white specks that move. Use a magnifier or a phone camera close to the glass. Take a photo if you can.",
+          "say": "Look for tiny specks that move. Use the torch and the magnifier. Look slowly.",
           "kid": "Look for tiny moving specks. Use the torch. Look slowly.",
           "ask": [
             {
@@ -1510,9 +1510,9 @@
         {
           "id": "s4",
           "mins": 20,
-          "do": "On day 7, look one last time. Compare your four drawings. Ask your child who lives in the pond, and what they might be eating. Then throw the water away and wash the jar.",
-          "say": "Compare your four drawings. Who lives in your pond? What might they be eating? What do they need?",
-          "kid": "Compare your drawings. Who lives in your pond? What do they eat?",
+          "do": "On day 7, look one last time. Compare your photos and notes from days 1, 3, 5 and 7. Ask your child who lives in the pond, and what they might be eating. Then throw the water away and wash the jar.",
+          "say": "Look at your photos from days 1, 3, 5 and 7. What changed in the jar? Who might live in your pond?",
+          "kid": "Look at your photos. Who might live in your pond? What might they eat?",
           "think": "Nobody put these living beings in the jar on purpose, and the water was boiled. Where could they have come from?",
           "check": {
             "t": "mcq",
@@ -1525,7 +1525,7 @@
             "a": 0,
             "why": "Boiling kills the microbes in the water. The pond water and the grass brought new ones, and they eat and divide, so the water turns cloudy. If you picked dissolved grass, look at whether the grass is still in the jar."
           },
-          "context": "This is the last step of the Hay Pond. You compare your drawings and think about who lives there.",
+          "context": "This is the last step of the Hay Pond. You look back at your photos and think about who lives there.",
           "parent": "A good answer is that the living beings came from the teaspoon of pond or vase water, and from the grass, where single-celled living things often wait as tiny resting cells. Boiling killed the living things in the first water, so any that grew must have arrived later with the pond water or the grass."
         }
       ]
@@ -1583,7 +1583,7 @@
         }
       ],
       "safety": "A grown-up cuts the potato with the knife. Do not eat the strips afterwards. Wash your hands when you finish.",
-      "record": "Write the sag in millimetres for each strip at the start, at 20 minutes and at 40 minutes, and what each strip feels like. Then draw a line graph with one line for each cup.",
+      "record": "Write the droop in millimetres for each strip at the start, at 20 minutes and at 40 minutes, and what each strip feels like. Then, if you like, draw a line graph with one line for each cup, or just say which cup changed the most.",
       "context": "In this experiment you find out what salt water does to the cells of a potato. You change one thing only, the salt, and measure how stiff the strips become.",
       "setup": [
         {
@@ -1608,8 +1608,8 @@
           "id": "s1",
           "mins": 5,
           "do": "Show the three cups. Say what goes in each. Ask your child to guess which strip will be stiffest and which will be floppiest, and to say why. Write down the guess and the reason.",
-          "say": "We will put potato strips in three cups. Cup A has plain water. Cup B has a little salt. Cup C has a lot of salt. After 40 minutes, which strip will be stiffest? Which will be floppiest? Why do you think so?",
-          "kid": "There are three cups of water. A is plain. B has a little salt. C has a lot of salt. Which potato strip will end up floppiest? Why?",
+          "say": "We will put potato strips in three cups. Cup A has plain water. Cup B has a little salt. Cup C has a lot of salt. After 40 minutes, which strip will be stiffest? Which will be floppiest?",
+          "kid": "Look at the three cups. Guess which potato strip will end up floppiest.",
           "ask": [
             {
               "q": "Why do you think that strip will be the floppiest?",
@@ -1628,7 +1628,7 @@
           "mins": 12,
           "do": "A grown-up cuts six strips from one potato, each 1 centimetre wide, 6 centimetres long and about 5 millimetres thick. Put 200 millilitres of water in each cup. Stir 1 teaspoon of salt into B and 4 teaspoons into C. Stir C for a full minute. Label the cups.",
           "say": "Pour 200 millilitres of water into each cup. Stir one level teaspoon of salt into B. Stir four teaspoons into C. Stir C until you cannot see any salt. Write A, B and C on the labels.",
-          "kid": "Pour water into three cups. Stir 1 spoon of salt into B. Stir 4 spoons into C.",
+          "kid": "Pour water into three cups. Stir 1 spoon of salt into B. Stir 4 spoons into C. Write A, B and C on the labels.",
           "adult": true,
           "parent": "Cut the strips about the same size, because thick strips stay stiff longer. Any cups that hold 200 millilitres will do, not only steel ones. With 2-4 children, give each child one cup to look after and measure, with one child as timer and one as recorder. One child alone does all three cups. Four teaspoons dissolve in 200 millilitres if you stir for a minute. Leave cup A with no salt, because it is the control.",
           "check": {
@@ -1698,9 +1698,9 @@
         {
           "id": "s5",
           "mins": 10,
-          "do": "Draw a line graph with minutes along the bottom and droop up the side. Draw one line for each cup. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.",
+          "do": "Draw a line graph with minutes along the bottom and droop up the side, with one line for each cup. If a graph is hard, just read out the numbers and say which cup changed the most. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.",
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-          "kid": "Draw a line for each cup. Say what you thought would happen. Say what you saw. Say why you think it happened.",
+          "kid": "Make your graph, or read out your numbers. Which cup changed the most?",
           "parent": "A strong answer says that the strip in strong salt water went floppy because the salt was outside, and that water left the cells. After they have said what they saw, explain: water passes through the thin skin of every cell in both directions, and ends up on the side with more dissolved stuff. This is osmosis. Plain water gives a firm strip, because the cells have more dissolved stuff inside than outside, so water moves in. For the think question, a good answer is that water keeps moving into the cells all night, because they hold more dissolved stuff than plain water, so the cells swell and the strip gets firmer.",
           "think": "A potato strip in plain water for a whole night might even grow a little longer and firmer. Why might that happen?",
           "context": "This is the last step of the Potato Strips test. You draw the graph and explain what you found."
@@ -1749,7 +1749,7 @@
         }
       ],
       "safety": "Handle the raw egg gently over a bowl, because it breaks easily. Do not eat the egg or taste the liquids. Raw egg can carry germs, so wash your hands and the bowl with soap after touching the egg. If your family does not handle raw egg, skip this and do the Potato Strips and Raisin Swell tests instead.",
-      "record": "Write the distance around the egg on days 3, 4 and 5, and what it looks and feels like. Draw the egg at each stage.",
+      "record": "Write the distance around the egg on days 3, 4 and 5, and what it looks and feels like. Take a photo of the egg at each stage, with the string beside it.",
       "context": "In this experiment you dissolve the shell of a raw egg and watch the thin skin that is left. The skin lets water through like the skin of a cell, so the egg swells or shrinks.",
       "schedule": [
         {
@@ -1801,8 +1801,8 @@
           "id": "s1",
           "mins": 10,
           "do": "Show your child the egg. Ask what will happen to the shell in vinegar, and what the egg will be like with no shell. Then put the egg in the jar. Cover it with vinegar. Watch the bubbles.",
-          "say": "We will put an egg in vinegar for two days. What do you think will happen to the shell? What will the egg be like without a shell? Why do you think so?",
-          "kid": "An egg goes into vinegar for two days. What happens to the shell? Why?",
+          "say": "We will put an egg in vinegar for two days. What do you think will happen to the shell? What will the egg be like without a shell?",
+          "kid": "Guess what the vinegar will do to the shell. Then put the egg in the jar and look at it.",
           "adult": true,
           "ask": [
             {
@@ -1863,8 +1863,8 @@
           "id": "s4",
           "mins": 10,
           "do": "On day 4, lift the egg out and measure around the middle. Write the number. Put the egg in a jar and pour honey or thick syrup over it until it is covered. The egg will float, so turn it over every few hours, or press a small plate on top.",
-          "say": "Measure around the egg again. What is different? Then move the egg into the honey or syrup jar.",
-          "kid": "Measure the egg again. Is it bigger? Put it in the honey or syrup.",
+          "say": "Measure around the egg again. Then move the egg into the honey or syrup jar.",
+          "kid": "Measure the egg again. Then put it in the honey or syrup.",
           "adult": true,
           "ask": [
             {
@@ -1927,10 +1927,10 @@
         {
           "day": 2,
           "mins": 25,
-          "what": "Cut the stem ends, stand half the bunch in plain water and half in salt water, and check after 15 and 30 minutes."
+          "what": "Cut the stem ends, stand half the bunch in plain water and half in salt water, and check after 15, 30 and 60 minutes."
         }
       ],
-      "record": "Draw the two bunches at the start and after 30 minutes. Measure with a ruler how high the tallest sprig stands above the cup rim at the start, at 30 minutes and at 60 minutes. Write which bunch stood up.",
+      "record": "Take a photo of the two bunches at the start and after 30 minutes, or draw them. Measure with a ruler how high the tallest sprig stands above the cup rim at the start, at 30 minutes and at 60 minutes. Write which bunch stood up.",
       "context": "In this activity you bring a wilted herb back to life with water, and see what salt water does instead. It shows why a plant stands up when her cells are full.",
       "setup": [
         {
@@ -1950,18 +1950,18 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Leave the bunch of herbs on the counter overnight, out of the fridge and out of the sun. Ask your child to guess how it will look tomorrow, and what will make it stand up again.",
+          "do": "Leave the bunch of herbs on the counter overnight, out of the fridge and out of the sun.",
           "say": "Leave this bunch out overnight. How do you think it will look tomorrow? What might make it stand up again? Why?",
-          "kid": "Leave the bunch out. Guess how it will look tomorrow. Why?",
+          "kid": "Guess how the bunch will look tomorrow. What could make it stand up again?",
           "parent": "In a warm kitchen, coriander goes limp in a few hours. If your bunch is still firm, leave it for longer.",
           "context": "This is the first step of Limp to Crisp. You let the herb go limp, and you guess."
         },
         {
           "id": "s2",
           "mins": 25,
-          "do": "A grown-up cuts 1 centimetre off the end of every stem. Split the bunch in two. Stand one half in plain water and one half in salt water. Look at both after 15, 30 and 60 minutes. Measure how high the tallest sprig stands above the rim each time. Draw what you see.",
-          "say": "Cut the stem ends. Put half the bunch in plain water and half in salt water. Look after 15 minutes and again after 30.",
-          "kid": "Cut the stems. Put half in plain water, half in salt water. Look after 30 minutes.",
+          "do": "Stir 2 level teaspoons of salt into 200 millilitres of water. A grown-up cuts 1 centimetre off the end of every stem. Split the bunch in two. Stand one half in 200 millilitres of plain water and one half in the salt water. Measure how high the tallest sprig stands above the rim at the start, at 30 minutes and at 60 minutes. Also look at both after 15 minutes, and take a photo each time you look.",
+          "say": "Cut the stem ends. Put half the bunch in plain water and half in salt water. Look after 15, 30 and 60 minutes.",
+          "kid": "Put one half in plain water and the other half in salt water. Look at both bunches again after 30 minutes.",
           "adult": true,
           "ask": [
             {
@@ -2037,7 +2037,7 @@
           "mins": 5,
           "do": "Show the two cubes. Ask your child which will melt first: a whole cube or the same amount crushed. Ask for a reason. Write down the guess and the reason.",
           "say": "Here are two cubes of ice. One will stay whole. One will be crushed into tiny pieces. Which will melt first? Why do you think so?",
-          "kid": "One ice cube stays whole. One is crushed. Which melts first? Why?",
+          "kid": "One ice cube stays whole. One is crushed. Guess which one melts first.",
           "ask": [
             {
               "q": "Why do you think that one will melt first?",
@@ -2055,7 +2055,7 @@
           "mins": 5,
           "do": "A grown-up wraps one cube in a cloth and crushes it with a rolling pin into small pieces. Put the whole cube in one katori and all the crushed ice in the other. Put both on the counter. Start the timer.",
           "say": "Wrap one cube in a cloth. A grown-up crushes it. Put the whole cube in one katori and the crushed ice in the other. Start the timer.",
-          "kid": "Crush one cube in a cloth. Put each in a katori. Start the timer.",
+          "kid": "Watch your grown-up crush one cube in a cloth. Put each in a katori. Start the timer.",
           "adult": true,
           "parent": "Use cubes from the same tray, so they weigh the same. Keep both katoris in the same spot, away from the fan.",
           "context": "In this step you crush one cube and start the race."
@@ -2065,7 +2065,7 @@
           "mins": 15,
           "do": "Check both katoris every 5 minutes. Write how much ice is left in each. Note the time when each one is fully melted. Ask your child to say what they thought would happen, what they saw, and why they think it happened.",
           "say": "Look every five minutes. When did the crushed ice finish melting? When did the whole cube finish? Why do you think that happened?",
-          "kid": "Look every five minutes. Which melts first? Why?",
+          "kid": "Look at both katoris every five minutes. Write how much ice is left in each.",
           "parent": "The times depend on how warm your kitchen is. Typically the crushed ice melts about two to four times faster than the whole cube. A whole cube may take 15 to 40 minutes, and the crushed ice 5 to 15. With 2-4 children, give one child each job: timer, whole-cube watcher, crushed-ice watcher and recorder. One child alone can do all four. After they have said what they saw, explain: heat only reaches the ice through its surface. The crushed pieces have much more surface in all, so heat reaches all of the ice faster. A cell takes in food and oxygen through her surface in the same way, which is why cells stay small. For the think question, a good answer is that food enters through the surface, so it would not reach the middle of a huge cell, and the middle would starve.",
           "think": "If a cell grew as big as a mango, how would food reach the middle?",
           "check": {
@@ -2127,7 +2127,7 @@
           "qty": 1
         }
       ],
-      "record": "Draw both cells and label the parts. Write the three parts that only the plant cell has.",
+      "record": "Take a photo of both models with their flags. Say or write the three parts that only the plant cell has.",
       "context": "In this activity you build a plant cell and an animal cell out of kitchen things. You see which parts they share, and which parts only a plant cell has.",
       "setup": [
         {
@@ -2148,8 +2148,8 @@
           "id": "s1",
           "mins": 10,
           "do": "Lay out all the things. Say the cell parts aloud: the skin (membrane), the jelly (cytoplasm), the instruction room (nucleus), the green parts (chloroplasts), the water bag (vacuole) and the stiff box (cell wall). Ask your child which kitchen thing could stand for each part. Let them choose first.",
-          "say": "Here are the kitchen things. Which one could be the jelly? Which could be the nucleus? Which could be the stiff wall? Choose first.",
-          "kid": "Look at the things. Which could be the jelly? The nucleus? The wall?",
+          "say": "We are going to build a plant cell and an animal cell from kitchen things. Which thing could be the jelly? Which could be the nucleus? Which could be the stiff wall?",
+          "kid": "Choose a kitchen thing for each part. Say why you chose it.",
           "ask": [
             {
               "q": "Which part of the cell is the stiff box?",
@@ -2165,7 +2165,7 @@
         {
           "id": "s2",
           "mins": 20,
-          "do": "Build the animal cell first. Spoon curd into a zip bag. Add a dough ball for the nucleus and a few rajma beans for mitochondria. Seal the bag. Then build the plant cell. Put a thin plastic sheet in the box, then curd, a dough ball, peas, beans and the water bag. Press the water bag against one side.",
+          "do": "Build the animal cell first. Spoon curd into a zip bag. Add a dough ball for the nucleus and a few rajma beans for mitochondria. Seal the bag. Then build the plant cell. Put a thin plastic sheet in the box. The box is the wall and the sheet is the membrane. Add curd, a dough ball, peas, beans and the water bag. Press the water bag against one side of the box, because a big vacuole pushes on the cell wall.",
           "say": "Build the animal cell in a zip bag with curd, a dough ball and beans. Build the plant cell in a box. Add peas and a water bag.",
           "kid": "Build the animal cell in a bag. Build the plant cell in a box.",
           "parent": "Wash hands before and after, and throw the food away afterwards. With 2-4 children, each child or pair builds one cell and then compares. One child alone builds both. Use a katori with cling film if you have no zip bag. The water bag is the big vacuole of the plant cell. In the animal cell you could add a very small water bag for a small vacuole.",
@@ -2185,9 +2185,9 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "Add a paper flag to each part. Look at both models. Ask your child what is the same, what is different, and what the plant cell can do that the animal cell cannot. Then your child closes their eyes while you hide one part, and names the missing part.",
-          "say": "Label every part. What is the same in both cells? What is different? What can the plant cell do that the animal cell cannot?",
-          "kid": "Label every part. What is the same? What is different?",
+          "do": "Add a paper flag to each part. Look at both models. Ask your child what is the same and what is different. Then your child closes their eyes while you hide one part, and names the missing part.",
+          "say": "Put a flag on every part. What is the same in both cells? What is different?",
+          "kid": "Flag every part. Then close your eyes while your grown-up hides one part. Name the missing part.",
           "ask": [
             {
               "q": "What can the plant cell do that the animal cell cannot?",
@@ -2229,7 +2229,7 @@
           "qty": 1
         }
       ],
-      "record": "Draw a raisin from each cup, and write how big each one looks and feels the next morning.",
+      "record": "Take a photo of the raisins from each cup side by side. Write how big each one looks and feels the next morning.",
       "context": "In this activity you leave raisins in plain water and in salt water overnight. Raisins are dried grapes, so you can see what water does to dried-up cells.",
       "schedule": [
         {
@@ -2257,9 +2257,9 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Measure the longest side of 3 raisins from the packet and write the average. Put 6 raisins in each cup. Pour plain water in one and strong salt water in the other. Ask your child to guess what each cup of raisins will look like tomorrow, and why.",
-          "say": "Put six raisins in each cup. One cup has plain water. One has strong salt water. What will each look like tomorrow? Why?",
-          "kid": "Put six raisins in each cup. Pour plain water in one and salt water in the other. Guess what each cup of raisins will look like tomorrow, and why.",
+          "do": "Measure the longest side of 3 raisins from the packet and write the average. Put 6 raisins in each cup. Stir 2 level teaspoons of salt into 100 millilitres of water to make strong salt water. Pour plain water into one cup and the strong salt water into the other. Ask your child to guess what each cup of raisins will look like tomorrow, and why.",
+          "say": "Raisins are dried grapes. We will see what water does to them. Put six raisins in each cup. One cup has plain water. One has strong salt water. What will each look like tomorrow?",
+          "kid": "Put six raisins in each cup. Pour plain water in one cup and salt water in the other.",
           "ask": [
             {
               "q": "Which raisins do you think will change the most? Why?",
@@ -2275,9 +2275,9 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "Next morning, take out 3 raisins from each cup. Look at them, measure the longest side of each, write the average and squeeze them gently. Draw both. Ask your child what they saw and why.",
-          "say": "Take one raisin out of each cup. Look, measure and squeeze. Tell me what you thought would happen, what you saw, and why you think it happened.",
-          "kid": "Take a raisin out of each cup. Look. Squeeze. What changed?",
+          "do": "Next morning, take out 3 raisins from each cup. Look at them, measure the longest side of each, write the average and squeeze them gently. Put the raisins from each cup side by side and take a photo. Ask your child what they saw and why.",
+          "say": "Take three raisins out of each cup. Look, measure and squeeze. Tell me what you thought would happen, what you saw, and why you think it happened.",
+          "kid": "Take three raisins out of each cup. Look, measure and squeeze them. Which cup made bigger raisins?",
           "parent": "Raisins in plain water are typically plump and smooth, often clearly bigger than at the start. Raisins in salt water stay smaller and more wrinkly, although they may swell a little. After they have said what they saw, explain: a raisin is a dried grape, packed with sugar. Plain water has less dissolved stuff than the raisin's cells, so water moves in. Strong salt water has nearly as much, so less water moves in. For the think question, a good answer is that the dry raisins soak up the warm liquid and swell, so they become soft and plump.",
           "think": "Why do we put raisins in warm milk or water before making payasam?",
           "check": {
@@ -2709,7 +2709,7 @@
       "creative": [
         "Stack three layers, the tea strainer on top, then muslin, then a paper towel. Pour slowly and compare the water at each layer.",
         "Add a few drops of turmeric water to the mix. See that the colour passes right through every filter, while the sand does not.",
-        "Make the layers like the skin of a cell, with different holes at different places, and draw which visitors from the Gatekeeper game each layer would stop."
+        "Make the layers like the skin of a cell, with different holes at different places, and lay out the visitor cards from the Gatekeeper game. Put each card next to the layer that would stop it."
       ],
       "your_turn": "Design your own filter from three layers. Test it with the mix. Then think about this: your filter cannot tell salt from sugar. Why is a real cell skin cleverer than your filter?",
       "context": "This is a design challenge about the cell membrane. A membrane stops some things and lets others through, and your filter will do something like that using only size.",
@@ -2732,8 +2732,8 @@
           "id": "s1",
           "mins": 5,
           "do": "Read the problem together. Ask your child what the filter must stop and what it must let through. Ask what in a real cell does a similar job.",
-          "say": "Your filter must stop rice, sago and sand. It must let water and salt through. What does a similar job in a real cell?",
-          "kid": "The filter stops rice, sago and sand. It lets water through. What part of a cell does a job like this?",
+          "say": "Your job is to build a filter. It must stop rice, sago and sand. It must let water and salt through.",
+          "kid": "Which things must the filter stop? Which things must it let through?",
           "ask": [
             {
               "q": "What in a cell stops some things and lets others in?",
@@ -2748,9 +2748,9 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "A grown-up cuts a clean plastic bottle in half. Turn the top half upside-down in the jug to make a funnel. Put the first layer into the funnel.",
+          "do": "A grown-up cuts a clean plastic bottle in half. Turn the top half upside-down in the jug to make a funnel. Put a folded paper towel into the funnel as the first layer.",
           "say": "Cut the bottle in half. Turn the top half upside-down in a jug. That is your funnel. Put a layer inside it.",
-          "kid": "A grown-up cuts the bottle. Make a funnel. Put a layer inside.",
+          "kid": "A grown-up cuts the bottle. Make a funnel. Put the paper towel inside.",
           "adult": true,
           "parent": "Smooth any sharp edge of the cut bottle with a strip of tape.",
           "context": "In this step you make the funnel and choose a first layer."
@@ -2758,7 +2758,7 @@
         {
           "id": "s3",
           "mins": 20,
-          "do": "Stir the mix and pour it slowly into the filter. Look at what stays on top and what drips through. Try a different layer. Test each layer three times. Write what stays behind and what goes through.",
+          "do": "Stir the pinches of rice, sago and sand into the salty water. This is your mix. Pour it slowly into the filter. Look at what stays on top and what drips through. Try a different layer. Test each layer three times. Write what stays behind and what goes through.",
           "say": "Pour the mix in slowly. What stays on top? What goes through? Try a different layer. Test each layer three times.",
           "kid": "Pour slowly. What stays? What goes through? Try another layer.",
           "ask": [
@@ -2788,8 +2788,8 @@
           "id": "s4",
           "mins": 10,
           "do": "Ask your child to explain their best filter. Then ask how a cell's skin is cleverer than the filter.",
-          "say": "Explain your best filter. Then tell me one thing that a cell skin can do and your filter cannot.",
-          "kid": "Explain your best filter. What can a cell skin do that your filter cannot?",
+          "say": "Tell me how your best filter works. What does it stop? What does it let through? Then tell me one thing a cell skin can do that your filter cannot.",
+          "kid": "Tell your grown-up how your best filter works.",
           "think": "Your filter picks only by size. A cell skin also picks by what the visitor is made of. How could it do that?",
           "context": "This is the last step of Be the Membrane. You explain your design and compare it with a cell skin.",
           "parent": "For the think question, a good answer is that a real cell skin has carrier proteins and pumps that pass some things and not others. Its fat layer also lets some things slip through and blocks the rest."

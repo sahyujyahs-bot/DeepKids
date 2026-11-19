@@ -192,28 +192,28 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
   *Child mode:* Melt means solid to liquid. Set means liquid to solid. Shuffle the cards.
 - **s2 (11 min)**  
   *Parent does:* 1. Take turns reading a card. 2. Everyone shouts. 3. Read the back and give the card to the winner.  
-  *Parent says:* Hot red lava turning into black rock. Melt or set? Why?  
+  *Parent says:* Here is one example card: hot red lava turning into black rock. Is it melt or set? Why?  
   *Child mode:* Read a card out loud. Shout 'Melt!' or 'Set!' Check the back.
   - Ask: Why is 'Hot red lava turning into black rock' a 'Set' card? (good: Lava is a liquid, and it turns into solid rock.; It cools down and goes hard.)
   - Note: The lava and hailstone cards surprise many children. Lava is rock that has melted. Hailstones are balls of ice.
 - **s3 (2 min)**  
   *Parent does:* 1. Put all the 'Melt' cards in one pile. 2. Ask the question below.  
   *Parent says:* Look at the 'Melt' cards. What made each one melt?  
-  *Child mode:* Look at the Melt cards. What made each one melt?
+  *Child mode:* Look at the Melt cards in your pile. Read each one again.
   - Ask: What do all the 'Melt' cards have in common? (good: Something warm made them melt.; They all got warmer.)
 ### g2 · Room, Hand, Flame or Furnace? a sorting game (15 min)
-- **rules:** Draw the board: a big sheet split into four columns, with the labels at the top.; Shuffle the 16 cards and put them face down in a pile.; Take turns. Turn over a card, read it, and put it in a column. Say why.; Turn the card over and read the back. If you were right, score one point. If not, move the card to the correct column.; When all 16 are placed, the player with the most points wins. If you play alone, try to beat your own score next time.
-- **Printable board: The four-column board, drawn on a big sheet of paper:** Melts in a warm room; Melts in your warm hand; Melts near a flame; Melts only in a furnace
+- **rules:** Make the board: fold a big sheet into four columns, and write a label at the top of each.; Shuffle the 16 cards and put them face down in a pile.; Take turns. Turn over a card, read it, and put it in a column. Say why.; Turn the card over and read the back. If you were right, score one point. If not, move the card to the correct column.; When all 16 are placed, the player with the most points wins. If you play alone, try to beat your own score next time.
+- **Printable board: The four-column board, made on a big sheet of paper:** Melts in a warm room; Melts in your warm hand; Melts near a flame; Melts only in a furnace
 - **Printable cards: 16 solid cards to cut out:** An ice cube (back: A warm room. Ice melts at 0 degrees Celsius.); Ice cream (back: A warm room. It is mostly frozen milk and water.); A hailstone (back: A warm room. A hailstone is a ball of ice.); Coconut oil set hard in winter (back: A warm room. It melts at about 24 degrees Celsius.); Kulfi (back: A warm room. Kulfi is frozen milk.); A square of chocolate (back: Your warm hand. Chocolate melts a little below the warmth of your body.); Butter from the fridge (back: Your warm hand. Butter melts a little below the warmth of your body.); Ghee set hard on a cold day (back: Your warm hand. Ghee softens and melts as it warms.); Candle wax (back: Near a flame. Most candle wax melts at around 45 to 70 degrees Celsius.) [picture]; A wax crayon (back: Near a flame. Crayons are made of wax and colour.); Beeswax (back: Near a flame. Honeybees make this wax for their honeycomb.); An iron nail (back: A furnace. Iron melts at about 1,500 degrees Celsius.); A steel spoon (back: A furnace. Steel is mostly iron.); A gold bangle (back: A furnace. Goldsmiths melt gold at about 1,060 degrees Celsius.); A glass bottle (back: A furnace. Glass is made by melting sand in a furnace.); A stone (back: A furnace, or deep inside the Earth. Melted rock is called lava when it comes out of a volcano.)
 - **s1 (2 min)**  
-  *Parent does:* 1. Draw the board with your child. 2. Cut out the cards. 3. Read the four labels together.  
+  *Parent does:* 1. Make the board with your child: fold a big sheet into four columns and write a label on each. 2. Cut out the cards. 3. Read the four labels together.  
   *Parent says:* Every solid melts somewhere. Some need only a warm room. Some need a furnace, which is a fire far hotter than a kitchen.  
-  *Child mode:* Draw the four columns. Read the labels. Cut out the cards.
+  *Child mode:* Fold the sheet into four columns. Write the labels. Cut out the cards.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns turning over a card. 2. The player puts it in a column and says why. 3. Read the back and score.  
-  *Parent says:* A gold bangle. Would it melt in your hand? Near a candle? Where would it melt? Why do you think so?  
+  *Parent says:* Try the gold bangle card. Would it melt in your hand? Near a candle? Where would it melt? Why do you think so?  
   *Child mode:* Turn over a card. Where would it melt? Put it in a column.
-  - Ask: Why did you put chocolate in the 'warm hand' column? (good: It melts in my mouth and my hand.; It melted in the warm water in our melting race.)
+  - Ask: Why did you put that card in that column? (good: It melts in my mouth and my hand.; It melted in the warm water in our melting race.)
   - Note: Many children say the stone or the steel spoon would never melt. Explain that rock and metal do melt if they get hot enough.
 - **s3 (3 min)**  
   *Parent does:* 1. Look at the board together. 2. Ask the question below.  
@@ -229,12 +229,12 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 - **predict:** Look at the five solids. Which one will melt first on the plate? Which will melt last? Will any of them not melt at all? Why do you think so?
 - **fair test:** Each solid is about the same small size, about as big as the tip of your thumb. They all sit on the same plate, in the same room, for the same time. In the warm water, they all float in the same bowl.
 - **safety:** A grown-up lights and holds the candle, and keeps it away from hair, cloth and paper. Melted wax near the flame is hot, so nobody touches the pool. The warm water must be only as warm as a bath, so your child can keep a finger in it.
-- **record:** Write your guess for the order at the top. Fill in the table with a tick or a cross. Draw what each solid looked like after the warm water.
+- **record:** Write your guess for the order at the top. Fill in the table with a tick or a cross. Take a photo of the katoris after the warm water, or write one word for how each solid looked.
 - **results table:** Solid | My guess: 1st to 5th | Melting on the plate after 10 minutes? | Melted in the warm water? | Melted near the flame? | After 20 minutes in the fridge
 - **s1 (4 min)**  
   *Parent does:* 1. Put the five solids in a row on the steel plate. 2. Your child writes a label for each one. 3. Ask the questions below.  
-  *Parent says:* Here are five solids: ice, chocolate, butter, coconut oil and wax. They will all sit in the same room. Which one will melt first? Which one last? Why do you think so?  
-  *Child mode:* Look at the five solids. Which will melt first? Which will melt last? Say why.
+  *Parent says:* Here are five solids: ice, chocolate, butter, coconut oil and wax. Melting means a solid turns into a liquid. They will all sit in the same room. Which one will melt first? Which one last?  
+  *Child mode:* Look at the five solids. Write a label for each one, then guess the order.
   - Ask: Which one will melt first? Why? (good: The ice, because it is cold and melts fast.; The butter, because it is soft.; The chocolate, because it melts in my mouth.)
   - Note: Take the coconut oil and butter out of the fridge just before you start, so they start hard. Don't say which guess is right. Many children say ice will melt first. Write the guessed order at the top of the table.
 - **s2 (10 min)**  
@@ -246,7 +246,7 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Fill the wide bowl with water as warm as a bath. 2. Your child tests it with a finger. 3. Put each solid in its own katori (scrape the runny ones in), and float the katoris on the water. 4. Watch for 5 minutes.  
   *Parent says:* This water is as warm as a bath. Now which ones will melt? Will the wax melt too? Why do you think so?  
-  *Child mode:* Float each solid in its katori on the warm water. Watch for 5 minutes. Which ones melt now?
+  *Child mode:* Float each solid in its katori on the warm water. Watch for 5 minutes.
   - Ask: What happened to the chocolate and the butter? (good: They went runny.; The chocolate melted in the warm water.)
   - Ask: What happened to the wax? (good: Nothing. It is still hard.; It did not melt in the warm water.)
   - Note: The chocolate and butter melt in a few minutes, because bath water is warmer than their melting points. Melted chocolate may keep its square shape until you poke it, so press it to check. The wax stays hard. Let your child press it with a finger to check. Don't explain why yet.
@@ -266,7 +266,7 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 - **s6 (4 min)**  
   *Parent does:* 1. Take out the katoris after 20 minutes. 2. Your child presses each one with a finger. 3. Fill in the last column. 4. Ask the three questions below.  
   *Parent says:* Which ones are solid again? Which one is still a liquid? Now tell me: what did you think, what did you see, and why do you think it happened?  
-  *Child mode:* Press each one. Which are hard again? Which is still runny? What did you find out?
+  *Child mode:* Press each one with a finger. Is it hard or runny now? Fill in the last column.
   - Ask: Which ones solidified in the fridge? (good: The chocolate, the butter and the coconut oil went hard again.; The water stayed water.)
   - Ask: Why did the water not freeze? (good: The fridge is not cold enough for water.; Water needs the freezer.)
   - Ask: What did the race show? (good: Each one melts at a different warmth.; Ice and coconut oil melt easily, wax needs a flame.)
@@ -278,24 +278,24 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 - **predict:** Where do you think the first ice will appear? Which tumbler will freeze first, the steel one or the plastic one? Why do you think so?
 - **fair test:** Both tumblers are about the same size, with the same amount of water from the same jug. They go into the freezer at the same time, side by side, and we look at both at the same times.
 - **safety:** Cold steel can stick to a wet finger. Dry your hands, and touch only the outside of the tumblers, through a cloth.
-- **record:** Draw both tumblers at each look. Colour the ice blue and leave the water white.
+- **record:** At each look, write in the table where the ice is in each tumbler, or take a photo. You can also draw both tumblers and colour the ice blue.
 - **results table:** Time | Steel tumbler: where is the ice? | Plastic tumbler: where is the ice?
 - **s1 (5 min)**  
   *Parent does:* 1. Pour the same amount of water into both tumblers. 2. Ask the questions below. 3. Put both in the freezer, side by side.  
   *Parent says:* Where will the first ice appear: at the top, the bottom, the sides or the middle? Which tumbler will freeze first? Why do you think so?  
-  *Child mode:* Where will the ice start? Which tumbler will freeze first? Say why.
+  *Child mode:* Look at both tumblers of water. Think about what the freezer will do to them.
   - Ask: Where will the ice start? Why? (good: At the bottom, because ice is heavy.; In the middle.; At the top, because the cold air touches it.)
   - Note: Write the guesses down. Don't say if they are right. Many children guess the bottom or the middle.
 - **s2 (12 min)**  
-  *Parent does:* 1. Every 30 minutes, open the freezer and look at both tumblers. 2. Your child draws where the ice is. 3. Close the freezer quickly each time.  
+  *Parent does:* 1. Every 30 minutes, open the freezer and look at both tumblers. 2. Your child points to where the ice is, and you write it in the table. 3. Close the freezer quickly each time.  
   *Parent says:* Look from the top and from the side. Is there ice yet? Where is it?  
-  *Child mode:* Look at both tumblers. Where is the ice? Draw it. Close the freezer fast.
+  *Child mode:* Look at both tumblers. Point to where the ice is. Close the freezer fast.
   - Ask: Where did the ice start? (good: A thin skin on the top.; A ring round the edge, next to the cup.; The middle is still water.)
   - Note: Ice usually forms first as a thin skin on top and a ring round the sides, because those parts touch the cold air and the cold cup. The middle freezes last. The steel tumbler usually freezes first, because steel lets warmth out of the water faster than plastic. Freezers vary, so it may take 2 to 4 hours, and the two tumblers may freeze at nearly the same time. That is a real result too.
 - **s3 (8 min)**  
   *Parent does:* 1. When one tumbler is mostly frozen, take both out. 2. Your child taps the top gently with the spoon. 3. Ask the questions below.  
   *Parent says:* Which one froze first? Where did the ice start? Why do you think the middle froze last? Here is a clue about the tumblers. Warmth passes through steel quickly, and through plastic slowly.  
-  *Child mode:* Tap the ice gently. Which froze first? Where did the ice start?
+  *Child mode:* Tap the ice gently with the spoon. Is it hard all the way down?
   - Ask: Why did the ice start at the top and the sides? (good: They touch the cold.; The cold air and the cold cup took the warmth out there first.)
   - Ask: Why did the steel tumbler freeze first? (good: Steel gets cold quickly.; Warmth goes out through steel faster.)
   - Note: A strong answer says the water froze first where it lost its warmth first: next to the cold air and the cold cup. Steel lets warmth pass through it more easily than plastic.
@@ -303,17 +303,17 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 
 ## Activities
 ### a1 · Melt It on Your Tongue: chocolate or ice? (6 min)
-- **record:** Draw the chocolate before and after it was on your tongue.
+- **record:** Tell your grown-up what the chocolate and the ice felt like, and which one melted first. Your grown-up writes one line.
 - **s1 (3 min)**  
   *Parent does:* 1. Give your child the chocolate. 2. Ask them to hold it on their tongue and not chew. 3. Ask the questions below after a minute.  
   *Parent says:* Put the chocolate on your tongue, but don't chew it. Keep your mouth closed. What is happening to it?  
-  *Child mode:* Put the chocolate on your tongue. Don't chew. What is happening?
+  *Child mode:* Put the chocolate on your tongue. Don't chew. Keep your mouth closed for one minute.
   - Ask: What happened to the chocolate? (good: It went soft.; It turned runny.; It melted in my mouth.)
   - Note: Chocolate melts a little below the warmth of the inside of your mouth, so it turns runny within a minute. A child who has diabetes or cannot eat chocolate can use a little cold butter on the tip of a spoon instead.
 - **s2 (3 min)**  
   *Parent does:* 1. Give your child the chip of ice. 2. Ask them to hold it on their tongue in the same way. 3. Ask the questions below.  
   *Parent says:* Now hold the chip of ice on your tongue in the same way. Which one melted faster, the chocolate or the ice? Where did the warmth to melt them come from?  
-  *Child mode:* Now hold the ice on your tongue. Did it melt? Which melted first?
+  *Child mode:* Now hold the chip of ice on your tongue in the same way. Don't chew.
   - Ask: Where did the warmth come from? (good: From my mouth.; From my tongue, because I am warm.)
   - Note: Both melt. The ice makes your tongue feel cold, because warmth is leaving your tongue to melt it. Don't explain melting points yet. The melting race comes next.
 ### a2 · Wax Drops: watch hot wax turn solid (10 min)
@@ -339,23 +339,23 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 ### a3 · The Home Hunt: what melts, and where? (10 min)
 - **record:** Fill in the four columns with the things you found.
 - **s1 (7 min)**  
-  *Parent does:* 1. Walk round the kitchen together. 2. Look in the fridge too. 3. For each solid, your child guesses where it would melt, and writes or draws it in a column.  
+  *Parent does:* 1. Walk round the kitchen together. 2. Look in the fridge too. 3. For each solid, your child guesses where it would melt, says it out loud, and writes its name in that column. If they prefer, they say it and you write it.  
   *Parent says:* Look at the ghee jar. Is it solid or liquid today? Where would it melt? What about the steel tumbler? Why do you think so?  
   *Child mode:* Find solids in the kitchen. Where would each one melt? Put it in a column.
   - Ask: Which things would never melt in our home? (good: The steel tumbler.; The stone grinder.; The glass bottle.)
   - Note: Ghee, butter, coconut oil and ice cream melt easily. Jaggery and sugar go runny on the stove. Steel, glass and stone melt only in a furnace, far hotter than any kitchen. Don't heat anything to test it.
 - **s2 (3 min)**  
   *Parent does:* 1. Look at the four columns together. 2. Ask the question below.  
-  *Parent says:* Look at your columns. Is the ghee in our home solid or liquid today? Why do you think so?  
-  *Child mode:* Is the ghee solid or liquid today? Why?
+  *Parent says:* Look at your columns and find the ghee. Now look at the ghee jar itself.  
+  *Child mode:* Find the ghee in your columns. Then look at the jar.
   - Ask: Is the ghee in our home solid or liquid today? (good: Solid, because it is cold today.; Liquid, because it is hot today.)
 ### a4 · Lift an Ice Cube with a Thread (10 min)
 - **problem:** Ice and salt together do something surprising. You will try to lift an ice cube with only a wet thread, first without salt and then with salt. Afterwards you will find out what salt does to ice, and why kulfi sellers use it.
-- **record:** Draw the ice cube hanging from the thread.
+- **record:** Take a photo of the ice cube hanging from the thread, or tell your grown-up what happened. You can also draw it.
 - **s1 (3 min)**  
   *Parent does:* 1. Your child tries to lift the ice cube with the thread, without salt. 2. Ask the question below.  
   *Parent says:* Lay the thread on the ice and lift it. Did the ice come up? Now we will add a little salt. What do you think will happen? Why?  
-  *Child mode:* Lift the thread. Did the ice come up? Now guess what salt will do.
+  *Child mode:* Lay the thread on the ice and lift it. Does the ice come up?
   - Ask: What will the salt do? Why? (good: It will make the ice melt.; It will make the thread stick.)
 - **s2 (5 min)**  
   *Parent does:* 1. Lay the thread across the ice again. 2. Your child sprinkles a pinch of salt on it. 3. Count slowly to 60. 4. Your child lifts the thread gently.  
@@ -365,26 +365,26 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
   - Note: Salt makes a little ice melt round the thread, even though the ice is still cold. Then the water freezes again over the thread and holds it. If the ice cube does not lift, wait another minute and add one more small pinch of salt.
 - **s3 (2 min)**  
   *Parent does:* 1. Look closely at the thread in the ice. 2. Ask the question below.  
-  *Parent says:* Look where the thread is. Salt lets ice melt even when the ice is cold. A little ice melted round the thread. Then the water froze again over the thread and held it. Can you see the thread inside the ice?  
+  *Parent says:* Look where the thread is. Can you see it inside the ice? What did the salt do to the ice round the thread?  
   *Child mode:* Look at the thread. Is it inside the ice now?
-  - Ask: Why do kulfi sellers pack ice with salt? (good: Salty ice gets colder.; It keeps the kulfi frozen.)
-  - Note: Melting ice takes warmth from everything around it. With salt, more ice melts, so the mix of ice and salt gets colder than plain ice. That is how kulfi makers get their ice cold enough to freeze kulfi.
+  - Ask: What did the salt do to the ice round the thread? (good: It melted a little ice.; The water froze again and held the thread.)
+  - Note: After they answer, tell your child: salt lets ice melt even when the ice is cold. A little ice melted round the thread, then froze again over it and held it. Melting ice takes warmth from everything around it. With salt, more ice melts, so the mix of ice and salt gets colder than plain ice. That is how kulfi makers get their ice cold enough to freeze kulfi.
 
 ## Projects
 ### p1 · Make Your Own Ice Lollies (30 min, 2 days)
-- **record:** Draw your ice lolly before and after five minutes out of the freezer.
+- **record:** Take a photo of your lolly when it comes out, and again after five minutes. Or tell your grown-up how it changed. You can also draw it.
 - **schedule:** day 1: Fill two cups with juice and one with plain water. Put a stick in each and freeze overnight. (15 min); day 2: Take out the lollies. Dip each cup in warm water to loosen it. Compare the plain ice and the juice lolly. Eat and watch them melt. (15 min)
 - **s1 (15 min)**  
   *Parent does:* 1. Your child pours juice into two cups and plain water into one. 2. Put a stick in each. 3. Put them in the freezer. 4. Ask the question below.  
   *Parent says:* Which will be harder tomorrow, the plain water or the juice? Why do you think so?  
-  *Child mode:* Pour juice in two cups and water in one. Add sticks. Which will be harder?
+  *Child mode:* Pour juice in two cups and plain water in one. Put a stick in each.
   - Ask: Which will freeze harder? Why? (good: The water, because it is just water.; The juice, because it is thicker.)
   - Note: If the sticks fall over, freeze the cups for an hour first, then push the sticks in.
   - Wait: Leave them in the freezer overnight.
 - **s2 (15 min)**  
   *Parent does:* 1. Take the cups out. 2. Dip each cup in warm water for about 10 seconds. 3. Pull out the lollies by the sticks. 4. Your child presses the plain ice and a juice lolly with a fingernail.  
   *Parent says:* Press each one with your nail. Which is harder? Now eat your lolly. Where does it start to melt?  
-  *Child mode:* Press each one with your nail. Which is harder? Where does it melt first?
+  *Child mode:* Press each one with a fingernail. Then eat your lolly and watch where it melts first.
   - Ask: Why did the warm water help the lolly come out? (good: It melted the outside a little.; The ice next to the cup melted first.)
   - Ask: Which was harder? (good: The plain ice was harder.; The juice lolly was softer.)
   - Note: The juice lolly is usually a little softer. The sugar in the juice means it must get colder than plain water to freeze hard. The outside melts first, because it touches the warm air and your warm mouth.
@@ -399,7 +399,7 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 - **s1 (5 min)**  
   *Parent does:* 1. Read the problem together. 2. Ask the questions below.  
   *Parent says:* An ice cube melts because warmth from the room goes into it. How could you slow the warmth down?  
-  *Child mode:* Warmth from the room melts ice. How could you slow it down?
+  *Child mode:* Look at the things you can wrap an ice cube in. Pick one.
   - Ask: What could you wrap it in? Why? (good: A woollen sock, because wool keeps things warm or cold.; Lots of newspaper.)
 - **s2 (10 min)**  
   *Parent does:* 1. Your child wraps one ice cube. 2. Put one bare ice cube on a plate beside it. 3. Start a timer for one hour.  
@@ -420,7 +420,7 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
 - **creative:** Pour a thin layer into a katori, let it set, then add a second layer, to make stripes.; Press a nut into each chocolate before it sets.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. A grown-up fills a wide bowl with hot water. 2. Float a small steel bowl of broken chocolate on it. 3. Your child stirs until it is runny.  
-  *Parent says:* The hot water melts the chocolate gently. Stir it slowly. Why do we not put it straight on the flame?  
+  *Parent says:* The hot water melts the chocolate gently. Stir it slowly.  
   *Child mode:* Stir the chocolate slowly. Watch it turn runny.
   - Ask: Why melt it in warm water, not on the flame? (good: The flame is too hot and could burn it.; Chocolate needs only a little warmth to melt.)
   - Note: Keep water out of the chocolate, or it goes thick and lumpy. Chocolate burns easily on a direct flame.
@@ -431,8 +431,8 @@ That night, Lakshmi wrote in her notebook: "Coconut oil is the same oil in Kochi
   - Wait: Leave it in the fridge for 30 minutes.
 - **s3 (10 min)**  
   *Parent does:* 1. Take out the mould after 30 minutes. 2. Your child pops out the chocolate. 3. Ask the questions below.  
-  *Parent says:* Did it set? What shape is it now? Is it still chocolate?  
-  *Child mode:* Pop out your chocolate. What shape is it? Is it still chocolate?
+  *Parent says:* Did it set? Look at it closely. Has it turned into something new, or is it still chocolate?  
+  *Child mode:* Pop out your chocolate and look at its shape.
   - Ask: Why did the chocolate set in the fridge? (good: It cooled down and solidified.; The fridge took the warmth out.)
   - Note: The chocolate may look a little dull or streaky. That is its fat setting in a new pattern, and it is still good chocolate.
 

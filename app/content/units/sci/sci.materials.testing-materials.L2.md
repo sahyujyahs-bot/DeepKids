@@ -175,26 +175,26 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 ## Games
 ### g1 · The Right Material for the Job (15 min)
 - **rules:** Cut out the cards. Lay the 10 material cards face up in the middle of the table. Put the job cards face down in a pile.; Turn over the top job card and read the job aloud. Do not read the back yet.; On the count of three, every player points to one material card in the middle. Players may point to the same card.; Each player says in one sentence why that material works for the job.; Read the back of the job card. A player whose material is listed gets one point. If another material would really work and everyone agrees, that player gets one point too.; If players disagree, test it at home if you can.; After all 10 jobs, the player with the most points wins. If two players tie, they both win.
-- **Printable cards: 10 job cards to cut out:** A raincoat (back: Needs to be waterproof. Good picks: Polythene, Rubber.); A towel (back: Needs to be absorbent. Good pick: Cotton cloth.); A hair band (back: Needs to be stretchy and elastic. Good pick: Rubber.); A shopping bag (back: Needs to be strong. Good picks: Cotton cloth, Jute.); A tiffin wrap for the rain (back: Needs to be waterproof. Good picks: Banana leaf, Foil, Polythene.); A rope to tie a boat (back: Needs to be strong. Good picks: Jute, Cotton cloth.); A cloth to wipe up spilt milk (back: Needs to be absorbent. Good picks: Paper napkin, Newspaper, Cotton cloth.); A kadhai for cooking (back: Needs to be strong and waterproof, and not bend or stretch. Good pick: Steel.); A catapult band (back: A catapult throws a small thing when you pull a band back and let go. The band needs to be very stretchy and elastic. Good pick: Rubber.); A scarf for a cold morning (back: Needs to be warm and soft. Good pick: Wool.)
+- **Printable cards: 10 job cards to cut out:** A raincoat (back: Needs to be waterproof. Good picks: Polythene, Rubber.); A towel (back: Needs to be absorbent. Good pick: Cotton cloth.); A hair band (back: Needs to be stretchy and elastic. Good pick: Rubber.); A shopping bag (back: Needs to be strong. Good picks: Cotton cloth, Jute.); A cover to keep a tiffin box dry in the rain (back: Needs to be waterproof. Good picks: Banana leaf, Foil, Polythene.); A rope to tie a boat (back: Needs to be strong. Good picks: Jute, Cotton cloth.); A cloth to wipe up spilt milk (back: Needs to be absorbent. Good picks: Paper napkin, Newspaper, Cotton cloth.); A kadhai for cooking (back: Needs to be strong and waterproof, and not bend or stretch. Good pick: Steel.); A catapult band (a catapult throws a small thing when you pull the band back and let go) (back: Needs to be very stretchy and elastic. Good pick: Rubber.); A scarf for a cold morning (back: Needs to be warm and soft. Good pick: Wool.)
 - **Printable cards: 10 material cards to cut out:** Rubber (back: Stretchy and elastic. Waterproof.) [picture]; Polythene (back: Waterproof. Stretches and stays stretched.); Cotton cloth (back: Strong and absorbent. Not waterproof.); Paper napkin (back: Absorbent and soft. Weak.); Newspaper (back: Absorbent. Hardly stretches.) [picture]; Foil (back: Waterproof. Tears easily.) [picture]; Banana leaf (back: Waterproof. Soft and bendy.) [picture]; Steel (back: Very strong and waterproof. Hard, does not stretch.); Jute (back: Strong. Absorbent.) [picture]; Wool (back: Warm and soft. Soaks up water slowly. Stretches a little.) [picture]
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards together. 2. Read each material card to your child. 3. Lay the material cards face up in the middle.  
   *Parent says:* Here are our materials. Some we tested ourselves. Listen to what each one is good at.  
-  *Child mode:* Look at your material cards. What is each one good at?
+  *Child mode:* Listen to what each material is good at. You tested some of them yourself.
 - **s2 (10 min)**  
   *Parent does:* 1. Turn over a job card and read it. 2. On the count of three, each player points to a material. 3. Each player says why. 4. Read the back and give points.  
-  *Parent says:* The job is a raincoat. Count to three and point to the material you would pick. Why that one?  
-  *Child mode:* Read the job. Point to a material. Say why it works.
+  *Parent says:* Here is the job. Count to three, then point to the material you would pick.  
+  *Child mode:* Listen to the job. On three, point to the material you would pick.
   - Ask: Why did you pick that one? (good: Polythene, because it was waterproof in the spot test.)
   - Note: Give a point for any material that really works, even if it is not the one on the back. A steel raincoat would keep water out. Ask your child if it would be easy to wear, because steel does not bend or stretch.
 - **s3 (2 min)**  
   *Parent does:* 1. Hold up the towel job card and the raincoat job card. 2. Ask the question below. 3. Let your child look at the material cards before they answer.  
   *Parent says:* A towel must soak up water. A raincoat must keep water out. Could one material be the best for both jobs? Why or why not?  
-  *Child mode:* A towel soaks up water. A raincoat keeps water out. Is one material best for both?
+  *Child mode:* Look at the towel card and the raincoat card. Look along the material cards for one that works for both.
   - Ask: Could one material be the best for both a towel and a raincoat? (good: No. Cotton soaks up water, so it is good for a towel but it would not keep the rain out.; No. Polythene keeps water out, so it is good for a raincoat but it would not dry you.)
   - Note: Each job needs something different from its material, so no one material is best for every job. Let your child answer in their own words before you say this.
 ### g2 · Stretch Line-up (15 min)
-- **rules:** Collect the six things on the cards. Cut out one set of six cards for each player.; Each player puts the six cards in a line on their score sheet, from least stretchy to most stretchy, without pulling anything.; Now test. One player holds each thing between two fingers of each hand, 5 cm apart, and pulls until it is hard to pull further.; Everyone watches and agrees on the order, from least stretchy to most stretchy.; Each player gets one point for every card in the right place.; The player with the most points wins. If two players tie, they both win.
+- **rules:** Collect the six things on the cards. Cut out one set of six cards for each player.; Each player puts the six cards in a line on their score sheet, from least stretchy to most stretchy, without pulling anything.; Now test. One player pulls each thing slowly. Hold it between the finger and thumb of each hand, 5 cm apart, and pull until it is hard to pull further. Do not tear it.; Everyone watches and agrees on the order, from least stretchy to most stretchy.; Each player gets one point for every card in the right place.; The player with the most points wins. If two players tie, they both win.
 - **Printable cards: 6 cards to cut out (one set for each player):** Rubber band; Sock top; Cotton hanky; T-shirt strip; Newspaper strip; Hair band
 - **Printable score sheet: Score sheet:** Player name; My order, from least stretchy (1) to most stretchy (6); The test order; Points: one for each card in the right place
 - **s1 (5 min)**  
@@ -210,7 +210,7 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 - **s3 (3 min)**  
   *Parent does:* 1. Score each player's line-up. 2. Look at the two ends of the true order, the stretchiest thing and the least stretchy thing. 3. Ask the question below.  
   *Parent says:* Which thing stretched the most? Which stretched the least? Was that the same as your guess?  
-  *Child mode:* Count your points. Which stretched most? Which stretched least?
+  *Child mode:* Count your points. You get one point for each card in the right place.
   - Ask: Which thing stretched the most, and which stretched the least? (good: The rubber band or the hair band stretched the most.; The newspaper strip or the cotton hanky stretched the least.)
   - Note: The point is to compare the guess with the test. If a guess was wrong, ask what the child saw that they did not expect. A wrong guess still taught them something.
 
@@ -220,12 +220,12 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 - **predict:** Pull each strip gently with your fingers. Then put them in a line, from the one you think will stretch the most to the one that will stretch the least. Why did you put your first one first?
 - **fair test:** Every strip gets the same full bottle, hung the same way. Each strip is 2 cm wide. We wait the same time, 10 seconds, before we measure. We use the same ruler, and measure from the broom handle to the paper clip every time. The rubber band is not 2 cm wide and starts shorter than the strips, so we compare how many centimetres longer each one gets.
 - **safety:** A grown-up cuts the strips. Lower the bottle gently, and keep feet away from under it, because a strip may tear. Keep faces away from a stretched rubber band.
-- **record:** Write your guess and your reason at the top. Fill in the results table. Draw each strip before the bottle and with the bottle. Circle the ones that came back.
+- **record:** Write your guess and your reason at the top. Fill in the results table. Take a photo of each strip before the bottle and with the bottle. You can draw them instead. Circle the ones that came back.
 - **results table:** Material | Length before (cm) | Length with the bottle (cm) | How much longer (cm) | Length after the bottle comes off (cm) | Did it come back?
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay out the rubber band and the three strips. 2. Let your child pull each one gently with their fingers. 3. Ask the question below. 4. Write down their order and their reason, word for word.  
-  *Parent says:* Pull each one gently. Which one will stretch the most when a heavy bottle hangs from it? Put them in a line. Why did you put that one first?  
-  *Child mode:* Pull each one gently. Which will stretch the most? Put them in a line. Say why.
+  *Parent does:* 1. Lay out the rubber band, the T-shirt strip, the hanky strip and the newspaper strip. 2. Let your child pull each one gently with their fingers. 3. Ask the question below. 4. Write down their order and their reason, word for word.  
+  *Parent says:* Pull each one gently. Which one will stretch the most when a heavy bottle hangs from it? Put that one first in a line, and the one that will stretch least last.  
+  *Child mode:* Pull each one gently with your fingers. Then line them up. Put the one you think will stretch most first.
   - Ask: Why did you put that one first? (good: The rubber band, because it got long when I pulled it.; The T-shirt, because my T-shirt stretches when I put it on.; The newspaper will stretch least, because paper tears.)
   - Note: Don't say if the guess is right. Any guess with a reason is good. The test will answer it.
 - **s2 (5 min) · grown-up needed**  
@@ -239,16 +239,16 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
   *Child mode:* Measure each one from the handle to the clip. Write it down.
   - Note: The strips should be about 10 cm. The rubber band will be about 6 cm. Small differences are fine. We look at how much longer each one gets.
 - **s4 (5 min)**  
-  *Parent does:* 1. Hook the bottle's string loop onto the rubber band's paper clip. 2. Lower the bottle slowly with your hand under it. 3. Let go, and count to 10. 4. Measure the length again and write it down. 5. Lift the bottle off. 6. Do the same for each strip.  
+  *Parent does:* 1. Hook the bottle's string loop onto the rubber band's paper clip. 2. Lower the bottle slowly with your hand under it. 3. Let go, and count to 10. 4. Measure the length again and write it down. 5. Lift the bottle off, and go to the next step to measure this strip again. 6. Then do the same for the next strip.  
   *Parent says:* Lower it slowly. Count to ten. Now measure. How long is it with the bottle?  
   *Child mode:* Lower the bottle slowly. Count to ten. Measure again. Write it down.
   - Ask: Which one got the longest? (good: The rubber band got much longer.; The T-shirt strip stretched a bit.; The newspaper did not change at all.)
   - Note: Usually the rubber band stretches the most, and the T-shirt strip comes next. The hanky and the newspaper hardly change. If a strip tears, that is a result too: write 'tore'.
   - Check: Why do we hang the same bottle on every strip? → **So the test is fair, and only the material is different**
 - **s5 (2 min)**  
-  *Parent does:* 1. After you take the bottle off each strip, count to 10. 2. Measure the length again. 3. Write it in the last column. 4. Ask the question below.  
+  *Parent does:* 1. Right after you lift the bottle off a strip, count to 10. 2. Measure the length again. 3. Write it in the last column. 4. Ask the question below.  
   *Parent says:* Now the bottle is off. Did each one go back to its old length?  
-  *Child mode:* Take the bottle off. Count to ten. Measure again. Did it come back?
+  *Child mode:* Take the bottle off. Count to ten. Measure again and write it in the last column.
   - Ask: Which ones came back? (good: The rubber band went back to its old length.; The T-shirt strip came back most of the way, but stayed a little longer.)
   - Note: The rubber band usually goes back to its old length, or within a few millimetres. A knitted T-shirt strip often stays a little longer, about 1 cm.
 - **s6 (3 min)**  
@@ -260,7 +260,7 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 - **s7 (3 min)**  
   *Parent does:* 1. Ask your child to say what they think, what they saw and why. 2. Then read them the card 'Stretchy and elastic: why a rubber band springs back'.  
   *Parent says:* So, which material is the stretchiest? What did you see that tells you? And why do you think the rubber band came back, but the milk packet did not?  
-  *Child mode:* Which one stretched most? What did you see? Why did the band come back?
+  *Child mode:* Look at your table. Which one stretched the most? Tell your grown-up what you saw.
   - Ask: Why do you think the rubber band came back? (good: Because rubber is elastic.; Because something inside the rubber pulls it back.)
   - Note: A strong answer uses the numbers: 'The rubber band got 7 cm longer, more than any other. When the bottle came off, it went back to 6 cm.' Only explain the curled chains after your child has had their say.
 ### e2 · The Spot Test: which materials keep water out? (20 min)
@@ -275,9 +275,9 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
   *Child mode:* Draw a circle on each paper. Put one square on each.
   - Note: Water-based sketch pens run when wet, so a wet paper is easy to see. Do not use a ball pen or a permanent marker. If you have no banana leaf, a cabbage leaf from the market works.
 - **s2 (3 min)**  
-  *Parent does:* 1. Let your child feel each square. 2. Ask the question below. 3. Write their guess for each one in the table.  
-  *Parent says:* Which squares will keep the water out? Why do you think so?  
-  *Child mode:* Feel each square. Which will keep the water out? Why?
+  *Parent does:* 1. Let your child feel each square. 2. Ask them to put the squares they think will keep water out on one side. 3. Ask the question below. 4. Write their guess for each one in the table.  
+  *Parent says:* Which squares will keep the water out? Put them on one side.  
+  *Child mode:* Feel each square. Put the ones you think will keep water out on one side.
   - Ask: Why do you think so? (good: The foil is shiny and smooth, so water will stay on top.; The hanky is cloth, and water goes into my clothes in the rain.; The napkin will soak it up, because we use napkins to wipe spills.)
   - Note: Don't correct the guesses. Many children think thick things keep water out. The test will show them.
 - **s3 (4 min)**  
@@ -293,8 +293,8 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
   - Ask: Which circles are still dry? (good: Under the foil, the milk packet and the leaf.; The circles under the newspaper, napkin and hanky have run.)
   - Note: Tip the water off the waterproof squares into the tray first, so it does not drip onto the paper as you lift. If a circle is only a little damp, count it as wet: water got through.
 - **s5 (4 min)**  
-  *Parent does:* 1. Ask your child to sort the squares into two heaps: waterproof and not waterproof. 2. Ask what they saw and why. 3. Then read the card 'Waterproof and absorbent'.  
-  *Parent says:* Sort them into two heaps. Which keep water out? Which let it through? Was your guess right? Why do you think the water got through the hanky?  
+  *Parent does:* 1. Ask your child to sort the squares into two heaps: waterproof and not waterproof. 2. Ask if their guess was right. 3. Ask the question below. 4. Then read the card 'Waterproof and absorbent'.  
+  *Parent says:* Sort the squares into two heaps. Which keep water out? Which let it through? Was your guess right?  
   *Child mode:* Make two heaps: waterproof and not waterproof. Was your guess right?
   - Ask: Why did water get through the hanky? (good: Because cloth has tiny gaps.; Because cotton soaks up water and passes it on.)
   - Note: A strong answer uses what your child saw: 'The circle under the foil stayed dry, so foil is waterproof.'
@@ -302,9 +302,9 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 
 ## Activities
 ### a1 · Stretch and Let Go: a home hunt (15 min)
-- **record:** Draw each thing on the sheet where it belongs.
+- **record:** Leave each thing on its sheet. Take a photo of the three sheets. Tell your grown-up one thing from each sheet.
 - **s1 (5 min)**  
-  *Parent does:* 1. Lay out the three sheets, one for each group: springs back, stays stretched, does not stretch. 2. Go round the home with your child and collect 8 to 10 things that might stretch.  
+  *Parent does:* 1. Lay out the three sheets, one for each group: springs back, stays stretched, does not stretch. 2. Go round the home with your child and collect 8 to 10 things that might stretch. 3. Try a hair band, a sock, a pyjama waistband, a milk packet strip, a dry leaf and a sheet of paper.  
   *Parent says:* Let's find things that might stretch. Look in the cupboard, the kitchen and the bathroom.  
   *Child mode:* Find things that might stretch. Bring them here.
   - Note: Roll a small piece of atta dough into a snake. Clay or play dough works too.
@@ -317,16 +317,16 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 - **s3 (3 min)**  
   *Parent does:* 1. Ask your child to pinch the skin on the back of their hand and let go. 2. Watch it go flat. 3. Ask which sheet their skin belongs on.  
   *Parent says:* Pinch the skin on the back of your hand. Let go. What happened? Which sheet does your skin go on?  
-  *Child mode:* Pinch the skin on your hand. Let go. Watch it go flat. Which sheet?
+  *Child mode:* Pinch the skin on the back of your hand. Let go. What does it do?
   - Ask: Is your skin elastic? (good: Yes, it springs back.; Yes, it goes flat again.)
   - Note: Skin is elastic, so it springs back. A grandparent's skin goes back more slowly, because skin becomes less elastic with age. Humans and other animals have elastic skin, so they can bend and move.
 ### a2 · The Bottle Lift: which strip is strongest? (18 min)
 - **safety:** A grown-up cuts the strips. Keep feet and hands away from under the bottle.
 - **record:** A table: material, my guess, number of cups when it tore (or 'held the full bottle').
 - **s1 (3 min)**  
-  *Parent does:* 1. Show your child the four strips. 2. Ask them to guess which will hold the most water, and why.  
-  *Parent says:* Which strip do you think will lift the most water before it tears? Why?  
-  *Child mode:* Which strip will hold the most water? Why do you think so?
+  *Parent does:* 1. Show your child the four strips. 2. Ask them to put the strips in a line, with the one they think is strongest first. 3. Ask the question below.  
+  *Parent says:* Which strip do you think will hold the most water before it tears? Put it first.  
+  *Child mode:* Feel the four strips. Put them in a line, with the strongest one first.
   - Ask: Why do you think that strip will hold the most water? (good: The cloth, because my clothes don't tear.; The napkin will tear first, because it is thin.)
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. Tape one strip to the broom handle. Fold the bottom of the strip over a paper clip and tape it. 2. Hang the empty bottle on the clip, over the bucket. 3. Pour in one cup of water. Wait 5 seconds. 4. Keep adding one cup at a time, and count. 5. Stop when the strip tears or the bottle is full. 6. Do the same for each strip.  
@@ -335,23 +335,23 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
   - Note: The napkin usually tears after only a few cups, often at the tape or the clip. The newspaper, carry bag and cloth may all hold the full bottle. If they do, write 'held the full bottle'. That shows they are much stronger than the napkin. The carry bag may stretch a lot instead of tearing, and the bottle may sink into the bucket. Write 'stretched a lot'. That is a result too.
 - **s3 (3 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask which strip was strongest, and how you know.  
-  *Parent says:* Which strip was strongest? How do you know? Was your guess right?  
-  *Child mode:* Which strip was strongest? How do you know?
+  *Parent says:* Which strip was strongest? Was your guess right?  
+  *Child mode:* Look at your table. Which strip held the most cups?
   - Ask: How do you know? (good: The cloth held the full bottle, and the napkin tore after 3 cups.)
   - Note: Read the card 'Strong and weak' after your child has answered.
 ### a3 · Pick the Material: the right one for the job (12 min)
-- **record:** Draw each job with the material you chose. Write the test that helped you.
+- **record:** Make a table with three columns: the job, the material, and the test that showed it. Say the words, and your grown-up can write them.
 - **s1 (8 min)**  
-  *Parent does:* 1. Read each job to your child, one at a time. 2. The jobs are a shower curtain and a dishcloth. 3. The others are a strap to carry a full water bottle and a pyjama waistband. 4. Another is a cover to keep a school book dry in the rain. 5. The last is a rope to pull up a bucket from a well. 6. For each one, ask which material from your tests they would use. 7. Ask which test told them.  
+  *Parent does:* 1. Read the six jobs to your child one at a time. 2. The jobs are a shower curtain and a dishcloth. 3. Then a strap to carry a full water bottle, and a pyjama waistband. 4. Then a cover to keep a school book dry in the rain. 5. Last is a rope to pull up a bucket from a well. 6. For each one, ask which material from your tests they would use. 7. Ask which test told them.  
   *Parent says:* For a shower curtain, which material would you choose? Which of our tests tells you it is right?  
-  *Child mode:* Pick a material for each job. Which test helps you choose?
+  *Child mode:* For each job, pick the material that fits best. Then say which test showed it.
   - Ask: Which material would you use for a dishcloth? Which test tells you? (good: Cotton, because it soaked up the water in the spot test.; A napkin is absorbent too, but it tore in the bottle lift.)
   - Note: There is often more than one good answer. A strong answer says what the job needs (waterproof, absorbent, strong or elastic), and names the test that showed it.
 - **s2 (4 min)**  
-  *Parent does:* Ask your child to draw two of the jobs with their chosen materials.  
-  *Parent says:* Draw two of the jobs. Write the material and the test next to each one.  
-  *Child mode:* Draw two jobs. Write the material and the test.
-  - Note: Spelling does not matter. You can write the words for your child if they ask.
+  *Parent does:* Ask your child to choose two of the jobs. They explain to another person at home which material they would use, and which test showed it. If no one else is home, they explain it to you.  
+  *Parent says:* Choose two jobs. Tell someone at home which material you would use and which test showed it.  
+  *Child mode:* Choose two jobs. Tell someone at home your material and your test.
+  - Note: Listen for the job, the material and the test. A child who likes drawing can draw the job too, but it is not needed.
 
 ## Projects
 
@@ -365,15 +365,15 @@ That evening she wrote in her notebook: "Do not believe it. Test it." Joseph rea
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut a paper doll from a notebook page. 2. Let your child colour it with sketch pen. 3. Read the challenge.  
   *Parent says:* The sketch pen will run if the doll gets wet. Which material will you use for the raincoat? Why?  
-  *Child mode:* Make a paper doll. Colour it. Which material will keep it dry? Why?
+  *Child mode:* Make a paper doll. Colour it with sketch pen, so you can see if it gets wet.
 - **s2 (10 min)**  
   *Parent does:* Let your child make the raincoat. Help only with cutting.  
   *Parent says:* Remember the spot test. Which squares kept the water out?  
   *Child mode:* Make the raincoat. Use what you found in the spot test.
 - **s3 (4 min)**  
-  *Parent does:* 1. Put the doll on the tray. 2. Pour 3 teaspoons of water slowly over the doll. 3. Take the raincoat off.  
+  *Parent does:* 1. Dress the doll in its raincoat and put it on the tray. 2. Pour 3 teaspoons of water slowly over the doll. 3. Take the raincoat off.  
   *Parent says:* Now the test. Is the doll dry? Where did any water get in?  
-  *Child mode:* Pour 3 spoons of water. Take the coat off. Is the doll dry?
+  *Child mode:* Pour 3 teaspoons of water over the doll in its coat. Take the coat off. Is the doll dry?
   - Ask: Where did the water get in? (good: At the neck.; Through the gap at the side.; Through the tape.)
   - Note: Water often gets in at the neck or the edges, even when the material is waterproof. This shows that the shape matters too.
 - **s4 (2 min)**  

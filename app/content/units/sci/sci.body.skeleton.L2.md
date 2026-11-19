@@ -198,7 +198,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 - **s1 (2 min)**  
   *Parent does:* Cut out the cards. Show the three hand signs.  
   *Parent says:* A fist means bone. A bending finger means a joint. An open soft hand means soft.  
-  *Child mode:* Fist means bone. Bending finger means joint. Open hand means soft.
+  *Child mode:* Learn the three signs: a fist, a bending finger and an open hand.
 - **s2 (11 min)**  
   *Parent does:* Take turns reading the cards. Everyone shows a sign, then checks on their own body, then reads the back.  
   *Parent says:* This card says: the tip of your nose. Show me your sign! Now press it gently. Were you right?  
@@ -208,7 +208,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 - **s3 (2 min)**  
   *Parent does:* Count the points and talk.  
   *Parent says:* Count the points. Which card fooled the most players? Why?  
-  *Child mode:* Count the points. Which card fooled the most players?
+  *Child mode:* Add up your points. Which card was the trickiest?
   - Check: Which of these is a joint? → **Your knee**
 ### g2 · Build a Skeleton: a bone card race (20 min)
 - **rules:** Print the page once for each player, so everyone has a set of 12 bone cards. Mix your set and put it face down in a pile.; On your turn, take the top card from your own pile. The player next to you reads the question on the back.; If you answer right, put the bone in the right place on the floor in your skeleton. If not, put the card at the bottom of your pile.; The first player to finish a whole skeleton, with every bone in the right place, wins.
@@ -216,30 +216,30 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 - **s1 (3 min)**  
   *Parent does:* Cut out one set of cards for each player. Each player clears a space on the floor.  
   *Parent says:* You will build a skeleton on the floor, bone by bone. Where will the skull go?  
-  *Child mode:* You will build a skeleton on the floor. Where does the skull go?
+  *Child mode:* Clear a space on the floor for your skeleton.
 - **s2 (14 min)**  
   *Parent does:* Play the game. Help place the bones in the right spots if needed.  
-  *Parent says:* Your card is the thigh bone. Here is your question. Which is the longest bone in your body?  
+  *Parent says:* Turn over your top card. I will read you the question on the back.  
   *Child mode:* Take a card. Answer the question. Put the bone in its place.
-  - Ask: Where does the thigh bone go? (good: Between the hip and the knee.; In the top part of the leg.)
+  - Ask: Where does this bone go in the skeleton? (good: Thigh bone: between the hip and the knee.; Skull: at the top, on the backbone.)
   - Note: Let your child touch the same bone on their own body each time they place a card.
 - **s3 (3 min)**  
   *Parent does:* Look at the finished skeletons together.  
   *Parent says:* Point to every joint in your skeleton. Which ones are hinges? Which are ball and socket joints?  
-  *Child mode:* Point to each joint. Which are hinges? Which are ball and socket joints?
-  - Check: In the Build a Skeleton game, a player puts the thigh bone between the hip and the knee. Is that right? → **Yes, the thigh bone goes from the hip to the knee**
+  *Child mode:* Point to a joint on your skeleton. Is it a hinge or a ball and socket?
+  - Check: Where does the thigh bone go in a skeleton? → **Between the hip and the knee**
 
 ## Experiments
 ### e1 · Torch on the Wall: which joints can draw a circle? (25 min)
 - **question:** If you move only one joint, which joints can make the torch light draw a whole circle on the wall, and which can only make it go back and forth in a line?
 - **predict:** Guess first, for each joint: shoulder, elbow, wrist, the big knuckle of your finger, and the middle joint of your finger. Will it draw a circle or only a line? Why do you think so?
 - **fair test:** Only one joint moves each time, so we know which joint made the shape. A grown-up gently holds the part above the joint still. You stand at the same spot each time. You try each joint three times, because one try can be a mistake.
-- **record:** Fill in the results table. Next to each joint, draw the shape the light made: a circle or a line.
+- **record:** Fill in the results table. For each joint, write what the light drew: a circle or a line.
 - **results table:** Joint | My guess: circle or line? | What the light drew | Was my guess right?
 - **s1 (4 min)**  
   *Parent does:* 1. Draw the results table on paper with five rows: shoulder, elbow, wrist, big knuckle, middle finger joint. 2. Ask your child to guess for each joint, and to give a reason. 3. Write each guess in the table.  
   *Parent says:* We will hold a torch and move only one joint at a time. For each joint, will the light draw a circle or only a line? Why do you think so?  
-  *Child mode:* Guess for each joint. Will the light draw a circle, or a line? Why?
+  *Child mode:* For each joint, guess: will the light draw a circle or a line?
   - Ask: Why do you think so? (good: The shoulder can go round, because I can swing my arm.; The elbow only bends, so it will make a line.; All of them can make circles, because I can move my arm round.)
   - Note: Any guess is fine, as long as there is a reason. Do not tell your child the answers. Many children guess that the elbow can draw a circle.
 - **s2 (3 min)**  
@@ -270,8 +270,8 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   - Note: The big knuckle can usually draw a small circle. The middle joint can only bend and straighten, so the dot goes back and forth. Put both results in the table.
 - **s7 (3 min)**  
   *Parent does:* Look at the table together. Ask your child what they think, what they saw, and why.  
-  *Parent says:* Which joints drew a circle? Which only drew a line? Why do you think the shoulder and the elbow are so different?  
-  *Child mode:* Which joints made a circle? Which made a line? Why are they different?
+  *Parent says:* Look at the table. Which joints drew a circle, and which only drew a line?  
+  *Child mode:* Look at your table. Which joints made a circle?
   - Ask: Why can the shoulder draw a circle when the elbow cannot? (good: The bones fit together in a different shape.; The shoulder is round, so it turns every way.; The elbow is like a door. It only opens and shuts.)
   - Note: A strong answer uses the table: 'My shoulder made a circle, but my elbow only made a line.' Then read the card on hinge joints and ball and socket joints.
   - Check: You hold a torch and move only your elbow. What does the light on the wall do? → **It goes up and down in a line**
@@ -279,7 +279,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 - **question:** On which parts of your body can you feel hard bone just under the skin, and on which parts can you feel only soft muscle and fat?
 - **predict:** Look at the list of 14 places. For each one, guess: will you feel hard bone, or only soft parts? Why do you think so?
 - **fair test:** You press every place the same way: gently, with two fingertips. You press each place on a grown-up too, to see if bodies are the same. You only count it as bone if it feels hard and does not squash.
-- **record:** Colour the body outline: a red dot where you felt hard bone, a blue dot where you felt only soft parts. Count the red dots and the blue dots.
+- **record:** Mark each place on the body outline: a red dot for hard bone, a blue dot for soft parts. If you do not want to colour, tick hard or soft on the list instead. Then count the hard places and the soft places.
 - **results table:** Place | My guess: hard or soft? | What I felt on me | What I felt on a grown-up
 - **s1 (4 min)**  
   *Parent does:* 1. Draw a simple body outline on paper. 2. Read out the 14 places on the list. 3. Ask your child to guess hard or soft for each one, with a reason.  
@@ -287,9 +287,9 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   *Child mode:* Guess for each place. Hard bone, or soft? Why?
   - Note: The 14 places are: top of the head, forehead, top of the nose, tip of the nose, ear flap, collarbone, sides of the chest, front of the tummy, point of the elbow, middle of the upper arm, kneecap, front of the shin, back of the calf, and the knobs at the ankle. Write the guesses in the table. Do not say the answers yet.
 - **s2 (8 min)**  
-  *Parent does:* Your child presses each place gently with two fingertips, one at a time. After each one, they put a red or a blue dot on the body outline.  
-  *Parent says:* Press gently, like you are feeling a ripe mango. If it is hard and does not squash, it is bone. Put a red dot. If it is soft, put a blue dot.  
-  *Child mode:* Press gently with two fingers. If it is hard, put a red dot. If it is soft, put a blue dot.
+  *Parent does:* Your child presses each place gently with two fingertips, one at a time, and says hard or soft. Then they put a red dot (hard) or a blue dot (soft) on the body outline. If they would rather not colour, they just say it and you put the dot.  
+  *Parent says:* Press gently, like you are feeling a ripe mango. If it is hard and does not squash, it is bone.  
+  *Child mode:* Press with two fingers. Hard or soft? Red dot for hard, blue dot for soft.
   - Ask: Which places felt hard, and which felt soft or bendy? (good: The shin and the kneecap felt hard.; My tummy felt soft.; The tip of my nose and my ear were bendy.)
   - Note: Hard bone is easy to feel on the head, the top of the nose, the collarbone, the ribs, the elbow, the kneecap, the shin and the ankle knobs. The tummy and the middle of the upper arm and calf feel soft. The nose tip and the ear flap bend, because they are cartilage, not bone. Press gently on the chest and tummy, never hard.
 - **s3 (4 min)**  
@@ -299,15 +299,15 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   - Note: The bones are in the same places on everyone. On a grown-up some may be harder to feel, because there is more muscle or fat over them.
 - **s4 (4 min)**  
   *Parent does:* Count the red dots and the blue dots. Talk about what you found.  
-  *Parent says:* How many red dots? How many blue dots? Why do you think there is bone over your chest but not over your tummy?  
-  *Child mode:* Count the red dots and the blue dots. Why is there no bone on your tummy?
+  *Parent says:* How many red dots? How many blue dots? Which did you find more of?  
+  *Child mode:* Count the red dots and the blue dots. Which are there more of?
   - Ask: Why is there bone over your chest but not at the front of your tummy? (good: The ribs keep my heart and lungs safe.; My tummy has to bend and get bigger after I eat.)
   - Note: Most children find about 9 or 10 red places and 4 or 5 blue ones. There is bone at the back of the tummy: the backbone. The front needs to bend and stretch when you bend over, breathe and eat.
   - Check: You press the tip of your nose and it bends. Why? → **The tip of the nose is cartilage, which is bendy**
 
 ## Activities
 ### a1 · Bend and Dot: how many bones are in your hand? (8 min)
-- **record:** Draw round your hand on paper. Draw the bones inside each finger as short lines, and the joints as dots.
+- **record:** Say how many bones are in your fingers and thumb, and a grown-up writes the number down. If you like, draw round your hand and add a short line for each bone.
 - **s1 (2 min)**  
   *Parent does:* Ask your child to bend one finger very slowly and watch where it bends.  
   *Parent says:* Bend your pointing finger very slowly. Where does it bend? How many places? Why do you think it bends there and not everywhere?  
@@ -319,59 +319,59 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   *Child mode:* Put a dot at every bend. Press between the dots. Hard or soft?
   - Note: Each finger bends in three places, so it has three bones. The thumb bends in two places that are easy to see, so it has two bones in the thumb part. Its third long bone is inside the palm.
 - **s3 (3 min)**  
-  *Parent does:* Draw round your child's hand on paper. Your child draws the bones and joints inside, and counts the finger bones.  
-  *Parent says:* Draw a short line for each bone, and a dot for each joint. How many bones are in your four fingers and thumb altogether?  
-  *Child mode:* Draw a line for each bone. Count them all. How many?
+  *Parent does:* Your child touches each hard part between the dots and counts the bones out loud, finger by finger. If they like, they can also draw round the hand and add a short line for each bone.  
+  *Parent says:* Touch each hard part between the dots and count out loud. How many bones are in your four fingers and thumb altogether?  
+  *Child mode:* Touch each hard part and count the bones. How many in all?
   - Note: Four fingers with 3 bones each make 12. The thumb adds 2. That makes 14 bones in the fingers and thumb of one hand. The whole hand, with the palm and the wrist, has 27 bones.
   - Check: You bend your middle finger slowly and count three bends. How many bones are in that finger? → **3 bones**
 ### a2 · Floppy Sock Arm: why do we need bones? (10 min)
-- **record:** Draw the three socks: floppy, stiff, and bending in the middle.
+- **record:** Show your grown-up each sock and say what it could do: flop, stay stiff, or bend in the middle. You can also draw the three socks.
 - **s1 (3 min)**  
   *Parent does:* Hold the empty sock up by its open end, so it hangs down. Then hold it out sideways.  
   *Parent says:* This sock is an arm with no bones. Can it point at the door? Why not?  
-  *Child mode:* This sock has no bones. Can it point at the door?
+  *Child mode:* Hold the sock out sideways. What does it do?
   - Note: The sock flops. Nothing inside holds it up.
 - **s2 (3 min)**  
   *Parent does:* Push the ruler into the sock and hold it out sideways again. Then try to bend it.  
   *Parent says:* Now it has one long bone. Can it point? Can it bend to scratch your nose?  
-  *Child mode:* Now it has one long bone. Can it point? Can it bend?
+  *Child mode:* Hold the sock out with the ruler inside. Then try to bend it.
   - Note: It points, but it cannot bend at all.
 - **s3 (4 min)**  
   *Parent does:* Take out the ruler. Push in two pencils, one after the other, so they meet in the middle of the sock. Bend the sock where they meet.  
   *Parent says:* Now it has two bones and a joint between them. What can it do now? Which part of your own arm is like this?  
-  *Child mode:* Now it has two bones. Bend it where they meet. Which part of you is like this?
+  *Child mode:* Put in two pencils so they meet in the middle. Bend the sock where they meet.
   - Ask: Which part of your body is like the sock with two pencils? (good: My elbow. It bends in the middle of my arm.; My finger. It has bones and bends between them.)
   - Note: A body needs both: stiff bones to hold it up, and joints so it can bend. In a real arm, muscles do the bending.
 ### a3 · Muscle Feel: what does a muscle do when it works? (8 min)
-- **record:** Draw your arm twice: once straight, with a long thin muscle, and once bent, with a short fat muscle.
+- **record:** Tell your grown-up what the muscle felt like when your arm was straight, and when it was bent. You can also take a photo of each, or draw your arm twice.
 - **s1 (4 min)**  
   *Parent does:* 1. Your child holds the bottle with the arm hanging straight. 2. They rest the other hand on the front of the upper arm. 3. They slowly bend the elbow and lift the bottle up, then slowly put it down.  
   *Parent says:* Feel the front of your upper arm. Now lift the bottle slowly. What happens under your hand? What happens when you put it down?  
-  *Child mode:* Feel your upper arm. Lift the bottle slowly. What changes under your hand?
+  *Child mode:* Hold the bottle in one hand. Put the other hand on the front of your upper arm. Lift slowly.
   - Ask: What did the muscle do? (good: It got hard and fat.; It went up into a bump.; It got short when I lifted.)
   - Note: The muscle gets shorter, fatter and harder as it pulls the forearm up. When the arm goes down, it gets long and soft again.
 - **s2 (4 min)**  
   *Parent does:* 1. Your child holds a chair and stands on tiptoe. 2. They feel the back of the ankle, just above the heel. 3. They go up and down a few times.  
-  *Parent says:* Stand on tiptoe. Feel just above your heel at the back. What is that hard cord? What happens to it when you go up?  
-  *Child mode:* Stand on tiptoe. Feel above your heel at the back. What is that cord?
+  *Parent says:* Stand on tiptoe. Feel just above your heel at the back. That hard cord is called a tendon. It joins your calf muscle to your heel bone. What happens to it when you go up?  
+  *Child mode:* Stand on tiptoe. Feel the hard cord above your heel. Does it get tighter?
   - Note: This is a tendon. It joins the big calf muscle to the heel bone. When the calf muscle pulls, the tendon pulls the heel up.
   - Check: You lift a bottle and feel the muscle in your upper arm get short and hard. What is the muscle doing? → **Pulling on a bone to bend your arm**
 ### a4 · Backward Knees? Look at a bird's leg (10 min)
-- **record:** Draw a bird's leg and your leg on tiptoe side by side. Label the knee, the ankle and the toes on both.
+- **record:** Tell your grown-up where the knee and the ankle are on the bird's leg and on yours, pointing as you say it. If you like, draw both legs and label them.
 - **s1 (3 min)**  
   *Parent does:* Watch a bird at the window, or look at a picture. Point to the bend halfway down the bird's leg.  
   *Parent says:* Look at the crow's leg. Which way does the bend in the middle point? Is it like your knee? Why do you think so?  
-  *Child mode:* Look at the bird's leg. Which way does it bend? Is it like your knee?
+  *Child mode:* Look at the bird's leg. Find the bend in the middle.
   - Note: If no bird comes, a clear photo from a book or the internet works. The bend points backwards, the opposite way to a human knee.
 - **s2 (4 min)**  
   *Parent does:* Your child stands on tiptoe, holding a chair. Point to their heel, which is now up off the floor.  
   *Parent says:* Stand on tiptoe. Look at your heel. Which way does your ankle bend now? Does it look like the bird's leg?  
-  *Child mode:* Stand on tiptoe. Look at your heel. Does it look like the bird's leg?
+  *Child mode:* Stand on tiptoe, holding a chair. Look at where your heel is.
   - Note: A bird stands on their toes all the time. The bend that looks like a backward knee is really the ankle. The bird's knee is higher up, hidden in the feathers, and bends forward like yours.
 - **s3 (3 min)**  
-  *Parent does:* Draw the two legs side by side and label them.  
-  *Parent says:* Let's draw the bird's leg and your tiptoe leg. Where is the knee on each? Where is the ankle?  
-  *Child mode:* Draw both legs. Mark the knee and the ankle on each.
+  *Parent does:* Your child points to the knee and the ankle on their own leg, then on the bird or the picture. Help them find the bird's knee, which is hidden in the feathers.  
+  *Parent says:* Show me your knee and your ankle. Now show me the same two on the bird.  
+  *Child mode:* Point to your knee and ankle. Then find them on the bird.
   - Check: The bend in a crow's leg that points backwards is really which joint? → **The ankle**
 
 ## Projects
@@ -383,20 +383,20 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
   *Parent says:* Lie very still, like a starfish. I will draw round you. What do you think is inside this outline?  
   *Child mode:* Lie still like a starfish. A grown-up draws round you.
 - **s2 (15 min)**  
-  *Parent does:* Your child feels each bone on their own body, then draws it inside the outline. Start with the skull, collarbones, ribs, backbone, arm bones and hands.  
-  *Parent says:* Feel your ribs first. How many can you count on one side? Now draw them.  
-  *Child mode:* Feel your ribs. Count them. Now draw them.
+  *Parent does:* Your child feels each bone on their own body, then draws it inside the outline, or lays a string along it. Start with the skull, collarbones, ribs, backbone, arm bones and hands.  
+  *Parent says:* Feel your ribs first. How many can you count on one side? Then show them on the map.  
+  *Child mode:* Press your ribs on one side and count them. Then draw them on the map, or lay a string along each one.
   - Note: Most people have 12 ribs on each side, but a child may count fewer, because the lowest ones are hard to feel. The forearm has two bones side by side.
 - **s3 (12 min)**  
-  *Parent does:* Your child feels and draws the hip bone, thigh bone, kneecap, the two shin bones and the feet. Then they circle every joint.  
-  *Parent says:* Now the legs. Where is your hip joint? Your knee? Your ankle? Circle each one.  
-  *Child mode:* Draw your leg bones. Circle every joint.
-  - Ask: Which joints did you circle? (good: Shoulder, elbow, wrist, hip, knee, ankle.; And the fingers and toes.)
+  *Parent does:* Your child feels the hip bone, thigh bone, kneecap, shin bones and feet. They draw each one, or lay a string along it. Then they point to every joint on the map and say its name, and a grown-up circles it.  
+  *Parent says:* Now the legs. Where is your hip joint? Your knee? Your ankle? Point to each one on the map.  
+  *Child mode:* Press your leg bones. Find each joint and point to it on the map.
+  - Ask: Which joints are circled on your map? (good: Shoulder, elbow, wrist, hip, knee, ankle.; And the fingers and toes.)
   - Wait: Day 2
 - **s4 (8 min)**  
-  *Parent does:* Hold a string from the hip joint to the knee, then from the knee to the ankle knob. Do the same on the arm. Measure each string with a ruler.  
+  *Parent does:* Hold a string from the hip joint to the knee, then from the knee to the ankle knob. Do the same on the arm, from the shoulder joint to the elbow. Measure each string with a ruler.  
   *Parent says:* Which do you think is longer, your thigh bone or your upper arm bone? Why? Let's measure with string.  
-  *Child mode:* Which is longer, your thigh bone or your arm bone? Measure with string.
+  *Child mode:* Guess which is longer, your thigh bone or your upper arm bone. Then measure with string.
   - Note: These string lengths are rough, because you are measuring over skin. The thigh bone should come out longest. It is about one quarter of a person's height.
   - Check: You measure your bones with string. Which one is most likely the longest? → **Your thigh bone**
 
@@ -408,9 +408,9 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 - **general:** Fold the card lightly in two places to make joints, so it has three bones.; Roll three short paper tubes round a pencil and tape one on each bone, on the same side.; Pass the thread through all three tubes, and tape the end to the tip of the finger. Pull the thread, and the finger curls.
 - **creative:** Make a whole hand of five fingers, each with its own thread, and pull them all to make a fist.; Add a second thread on the back of the finger, so you can pull it straight again, the way a second muscle does.
 - **s1 (3 min)**  
-  *Parent does:* Read the challenge with your child. Let them bend their own finger and feel the back of the hand.  
-  *Parent says:* When you bend your finger, something pulls it. What do you think pulls it? How could we make a paper finger do the same?  
-  *Child mode:* What pulls your finger to bend it? How can paper do the same?
+  *Parent does:* Read the challenge with your child. Let them put one hand on the inside of the other forearm, near the elbow, and curl their fingers.  
+  *Parent says:* Curl your fingers and feel your forearm. Something pulls your fingers. What do you think it is? Then we will make a paper finger that bends the same way.  
+  *Child mode:* Curl your fingers. Feel your forearm while you do it.
 - **s2 (17 min) · grown-up needed**  
   *Parent does:* Your child builds the finger. A grown-up helps cut the card and tubes.  
   *Parent says:* Make your finger. Where will the joints go? What will the thread be?  
@@ -419,7 +419,7 @@ Thatha laughed. "My doctor and my granddaughter have taught an old man two thing
 - **s3 (5 min)**  
   *Parent does:* Test the finger and improve it.  
   *Parent says:* Pull the thread. Does it curl? Does it bend only at the joints? What would make it better?  
-  *Child mode:* Pull the thread. Does it curl? What can you change?
+  *Child mode:* Pull the thread. Watch where the finger bends.
   - Check: In the paper finger, what does the thread stand for? → **A tendon, pulled by a muscle**
 
 ## Worksheets

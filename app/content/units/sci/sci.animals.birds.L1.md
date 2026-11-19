@@ -172,39 +172,39 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 - **Printable cards: 12 cards to cut out:** Hen (back: A bird. She has feathers, even though she can hardly fly.) [picture]; Bat (back: Not a bird. A bat flies, but has fur and no feathers.) [picture]; Ostrich (back: A bird. An ostrich cannot fly, but has feathers.) [picture]; Butterfly (back: Not a bird. A butterfly is an insect, with tiny scales on the wings.) [picture]; Crow (back: A bird. Feathers, a beak, two wings, two legs.) [picture]; Housefly (back: Not a bird. A fly is an insect with six legs and no feathers.) [picture]; Penguin (back: A bird. A penguin swims instead of flying, and has feathers.) [picture]; Peacock (back: A bird. His long tail is made of feathers.) [picture]; Paper kite (back: Not a bird. A paper kite flies, but was never alive.); Black kite (the brown bird circling over the city) (back: A bird. This kite is a bird of prey with feathers. The paper kite is a different thing.) [picture]; Duck (back: A bird. Her feathers keep her dry in the water.) [picture]; Aeroplane (back: Not a bird. An aeroplane flies, but has no feathers and is a machine.)
 - **s1 (2 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Lay out the two sheets. 3. Ask your child how they will decide which animals are birds.  
-  *Parent says:* What makes a bird a bird? How will you decide which cards go on BIRD?  
-  *Child mode:* How will you know if an animal is a bird?
+  *Parent says:* We will sort animals into birds and not birds. First, think about what a bird is.  
+  *Child mode:* Think of a bird you know. Say what it has.
   - Ask: How will you decide if an animal is a bird? (good: If it flies.; If it has feathers.; If it has a beak.)
   - Note: Most children say 'if it flies'. Don't correct them yet. The game will test that idea.
 - **s2 (6 min)**  
   *Parent does:* Take turns with the cards. After each card, read the back aloud.  
-  *Parent says:* Is a hen a bird? She can hardly fly. What does she have that a bat does not?  
-  *Child mode:* Pick a card. Bird or not a bird? Say why.
+  *Parent says:* Read the name on the card. Is it a bird? What makes you say so?  
+  *Child mode:* Take a card. Put it on BIRD or NOT A BIRD.
   - Ask: Why is the bat not a bird? (good: The bat has fur.; No feathers.)
   - Ask: Why is the ostrich a bird? (good: She has feathers.; She has a beak and feathers.)
 - **s3 (2 min)**  
-  *Parent does:* Look at the two piles together. Ask what every card on the BIRD sheet has.  
-  *Parent says:* Look at all the birds. What does every one of them have?  
-  *Child mode:* What do all the birds have?
+  *Parent does:* Look at the two sheets together. Let your child study the animals on the BIRD sheet before answering.  
+  *Parent says:* Look closely at every animal on the BIRD sheet. Look at their bodies.  
+  *Child mode:* Look at the BIRD sheet. Find what the birds share.
   - Check: What do all the cards on the BIRD sheet have? → **Feathers**
 ### g2 · Danger Call: a running and freezing game (10 min)
 - **rules:** Choose a safe place, like the sofa or a mat. This is the tree.; Tear newspaper into small scraps and scatter them on the floor. These are the seeds.; One player is the lookout bird. The others are birds, pecking up seeds with two fingers. With only two players, there is one lookout and one bird.; The lookout picks a call card and makes that call. The other birds do what the call means.; A bird who does the wrong thing says 'oops' and tries again at the next call.; Each lookout makes three calls, then passes the cards to the next player. Play until every player has been the lookout once.
 - **Printable cards: 6 call cards for the lookout:** Danger! A cat! (back: Call 'pit-pit-pit-pit' fast. Birds fly to the safe place.); Danger! A hawk above! (back: Call one long 'seeee'. Birds freeze and stay still.); Food here! (back: Call 'chuk-chuk'. Birds come to the lookout.); Where are you? (back: Call 'kaa'. Every bird calls 'kaa' back.); All safe now (back: Sing a long, happy tune. Birds go back to pecking.); Feed me! (back: Call 'cheep cheep'. The nearest bird brings you a paper scrap as a pretend worm.)
 - **s1 (2 min)**  
   *Parent does:* 1. Tear a sheet of newspaper into small scraps and scatter them. 2. Choose the tree. 3. Read the call cards aloud together.  
-  *Parent says:* Birds use different calls for different dangers. Let's learn the calls first.  
-  *Child mode:* Learn the calls. Each call means something different.
+  *Parent says:* Each card has a call and a job for the birds. Read each one, then practise the sound.  
+  *Child mode:* Practise each call sound. Remember what the birds must do.
   - Note: These calls are made-up sounds for the game. Real alarm calls differ between kinds of birds, but many small birds do use one call for a danger on the ground and another for a hawk in the sky.
 - **s2 (6 min)**  
   *Parent does:* Play. The grown-up is the first lookout, then the others take turns. Each lookout makes three calls.  
-  *Parent says:* Peck, peck, peck. Listen carefully. What is the lookout saying?  
+  *Parent says:* Peck, peck, peck. Listen for the lookout's call.  
   *Child mode:* Peck the seeds. Listen for the lookout's call. Then act fast.
   - Ask: Why did you freeze for the hawk call but run for the cat call? (good: Staying still hides me from a hawk above.; Going up the tree keeps me away from a cat on the ground.)
 - **s3 (2 min)**  
   *Parent does:* Sit down together. Ask why a bird needs more than one danger call.  
-  *Parent says:* Why do birds need a different call for a cat and for a hawk?  
-  *Child mode:* Why does a bird have two danger calls? What should other birds do for each one?
-  - Ask: Why does a bird need a different call for a cat and for a hawk? (good: A cat is on the ground, so birds fly up to the tree.; A hawk is in the sky, so birds keep still and hide.; Each danger needs a different thing to do.)
+  *Parent says:* Think about where a cat is, and where a hawk is. Would the same hiding place work for both?  
+  *Child mode:* Where is a cat? Where is a hawk?
+  - Ask: What should a bird do when a cat is near? What about a hawk? (good: A cat is on the ground, so birds fly up to the tree.; A hawk is in the sky, so birds keep still and hide.; Each danger needs a different thing to do.)
   - Check: Why do birds need more than one danger call? → **Each danger needs a different thing to do**
 
 ## Experiments
@@ -213,23 +213,23 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 - **predict:** Guess first. Which cup will have the most beans: morning, afternoon or evening? Why do you think so?
 - **fair test:** We listen at the same window each time, for the same 5 minutes, with the TV and music off. The same person drops the beans. One bean means one call, or one burst of calls when they come too fast.
 - **safety:** A grown-up stays with the child at an open window or on the balcony. Keep the beans away from babies and toddlers, who could choke on them.
-- **record:** Draw the three cups. Draw the beans from each cup in a line under it. Draw the birds you heard.
+- **record:** Line up the beans from each cup and take a photo, or draw the three lines. Then fill in the table with a grown-up: the beans in each cup, the birds you heard, and whether one bird answered another.
 - **results table:** Time | Beans in the cup | Which birds did we hear? | Did one bird answer another?
 - **s1 (3 min)**  
   *Parent does:* 1. Label the three cups Morning, Afternoon and Evening. 2. Show your child the beans. 3. Ask for a guess and a reason. 4. Write the guess down.  
-  *Parent says:* We will listen three times today. Which cup do you think will get the most beans? Why do you think so?  
-  *Child mode:* Which cup will get the most beans? Why do you think so?
+  *Parent says:* We will listen three times today: morning, afternoon and evening. Each bird call is one bean.  
+  *Child mode:* Pick the cup you think will get the most beans.
   - Ask: Why do you think that cup will get the most beans? (good: Birds wake up in the morning.; In the afternoon it is too hot.; Birds go to sleep in the evening.)
   - Note: Write the guess and the reason on a slip of paper and put it under the cup. Don't say what usually happens.
 - **s2 (6 min)**  
   *Parent does:* 1. Early morning, within an hour after sunrise, sit at the window. 2. Start a 5-minute timer. 3. Your child drops one bean in the Morning cup for every call. 4. Whisper the bird's name if you know it.  
-  *Parent says:* Shh. Listen. Every time you hear a bird, drop a bean. Did that bird get an answer?  
-  *Child mode:* Listen. Drop one bean for each bird call. Is another bird answering?
+  *Parent says:* Shh. Every time you hear a bird, drop a bean in the cup.  
+  *Child mode:* Listen. Drop one bean in the Morning cup each time a bird calls.
   - Ask: Did one bird call, and then another bird answer? (good: Yes, two crows were calling to each other.; The koel called and another koel called back.)
   - Note: If calls come too fast, drop one bean for each burst of calls. Crows, mynas, pigeons, bulbuls, sparrows, parakeets and, in the hot months, koels are the usual voices. Count only sounds you are sure are birds.
 - **s3 (6 min)**  
   *Parent does:* In the afternoon, between 1 and 3 o'clock, do the same at the same window with the Afternoon cup.  
-  *Parent says:* We sit at the same window for the same 5 minutes. Is it louder or quieter than the morning?  
+  *Parent says:* Same window, same 5 minutes. Drop a bean for each call, just like this morning.  
   *Child mode:* Sit at the same window for 5 minutes. Drop one bean in the Afternoon cup for each bird call.
   - Ask: Is it louder or quieter than the morning? (good: Quieter.; Only a crow and a pigeon.)
   - Note: Afternoons are often quiet, especially in hot weather, when many birds rest in the shade.
@@ -240,66 +240,66 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
   - Note: In many Indian cities, crows, mynas and parakeets gather noisily in big trees before dark. Your evening cup may be fuller than you expect.
 - **s5 (6 min)**  
   *Parent does:* 1. Tip each cup out. 2. Help your child lay the beans from each cup in a straight line, side by side. 3. Count each line together.  
-  *Parent says:* Let's put the beans in lines. Which line is the longest? Was your guess right?  
-  *Child mode:* Put each cup's beans in a line. Which line is longest?
+  *Parent says:* Tip out each cup. Put the beans in a straight line, one line for each cup.  
+  *Child mode:* Make one line of beans for each cup. Count each line.
   - Ask: Which time had the most calls? (good: The morning. That line is the longest.; The evening had more than the afternoon.)
   - Ask: Was your guess right? (good: Yes, I guessed morning.; No, I thought evening.)
   - Note: Lining up the beans makes a picture graph your child can see at a glance. In most homes the morning line is longest. If your result is different, that is a real result. Talk about why: rain, traffic or a tree nearby can change the result.
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say what they found, what they saw and why they think it happened.  
-  *Parent says:* What did you find? What did the beans show? Why do you think the birds called so much at that time?  
-  *Child mode:* Tell your grown-up what you found. Why do you think the birds called most at that time?
-  - Ask: Why do birds call so much in the morning? (good: To say "I am here".; To find their friends after the night.)
+  *Parent says:* Tell me what the three lines of beans showed.  
+  *Child mode:* Tell your grown-up what the three lines showed.
+  - Ask: Why do you think the birds called most at that time? (good: To say "I am here".; To find their friends after the night.)
   - Note: Nobody can be sure what each call means. Good answers are 'Where are you?', 'I am here' or 'Danger'. Any answer that treats the call as a message is a good one.
-  - Check: At what time of day do most birds call the most? → **Early morning**
+  - Check: When do most birds call the most? → **Early morning**
   - Think: You may have heard one bird call and another answer. What might they have been saying to each other?
 
 ## Activities
 ### a1 · A Feather Up Close: unzip it and zip it back (10 min)
 - **safety:** A feather found outside can carry germs. Use a craft feather, or ask a grown-up to wash a found feather in soapy water and dry it. Wash your hands afterwards.
-- **record:** Draw your feather, big. Show the middle stem, the strands, and the fluffy bit at the bottom.
+- **record:** Tell your grown-up the three parts you found: the stiff middle, the soft strands and the fluffy bit. Or draw the feather and name its parts. A photo of your feather also works.
 - **s1 (3 min)**  
   *Parent does:* Give your child the feather. Ask them to touch the stiff middle and the soft strands, and the fluffy part at the bottom.  
-  *Parent says:* Feel the feather. Which part is stiff? Which part is soft? Which part is fluffy?  
+  *Parent says:* This feather has three parts. Feel each one and tell me what it is like.  
   *Child mode:* Feel the feather. Find the stiff part, the soft part, the fluffy part.
 - **s2 (4 min)**  
   *Parent does:* 1. Gently pull two strands apart to make a gap. 2. Ask your child to guess if the gap can be closed. 3. Stroke from the stem to the tip.  
-  *Parent says:* I have made a gap. Can we mend it? What do you think will happen if we stroke it?  
-  *Child mode:* Pull two strands apart to make a gap. Now stroke the feather gently from the stem to the tip. What happens?
+  *Parent says:* I have made a gap. Do you think we can close it?  
+  *Child mode:* Pull two strands apart to make a gap. Then stroke the feather gently from the stem to the tip.
   - Ask: What happened to the gap? (good: It closed up.; The strands stuck together again.)
   - Note: Each strand has tiny hooks along the side, too small to see without a strong magnifier. Stroking hooks them together again. Birds do this with their beaks every day. Some craft feathers are cut or glued and zip poorly. A pigeon or crow feather picked up from the ground works best, once a grown-up has washed it in soapy water and dried it.
 - **s3 (3 min)**  
   *Parent does:* Hold the feather by the stem and blow gently on the fluffy part at the bottom.  
-  *Parent says:* Blow on the fluffy part. Why do you think birds have fluffy feathers close to their skin?  
-  *Child mode:* Blow on the fluffy part. Why does a bird need fluff?
+  *Parent says:* Blow on the fluffy part. Watch how it moves.  
+  *Child mode:* Blow on the fluffy part. Feel how soft it is.
   - Ask: Why do birds have fluffy feathers? (good: To keep warm.; Like a blanket.)
   - Note: She is holding warm air close to her skin, to keep warm. The fluffed-up feathers trap the warm air, like the soft fluff you just blew on.
   - Think: A pigeon fluffs up her feathers on a cold morning. What is she doing, and why?
 ### a2 · Be a Sunbird: reach the juice at the bottom (10 min)
-- **record:** Draw a sunbird with a long, curved beak, reaching into a flower.
+- **record:** Tell your grown-up how a sunbird's beak is like a straw. Or draw a sunbird with a long, curved beak reaching into a flower.
 - **s1 (3 min)**  
   *Parent does:* Pour about 2 spoons of juice into the bottle. Ask your child how they could drink it without tipping the bottle.  
-  *Parent says:* The juice is at the very bottom. You must not tip the bottle. How can you reach it?  
-  *Child mode:* Can you reach the juice without tipping the bottle?
+  *Parent says:* The juice is at the very bottom of the bottle. We must not tip the bottle.  
+  *Child mode:* Look at the juice at the bottom. Think of ways to reach it.
   - Ask: How can you reach the juice without tipping the bottle? (good: With my tongue.; With a spoon.; With a straw.)
 - **s2 (5 min)**  
   *Parent does:* Let your child try a spoon first, then the straw.  
-  *Parent says:* Try the spoon. Now try the straw. Which works best? Why?  
-  *Child mode:* Try the spoon. Then try the straw. Which works?
+  *Parent says:* Try the spoon first. Does it reach? Now try the straw.  
+  *Child mode:* Which one reaches the juice?
   - Ask: Why did the straw work? (good: It is long and thin.; It reaches the bottom.)
   - Note: A teaspoon should not reach the juice. If it does, use a taller, narrower bottle.
 - **s3 (2 min)**  
   *Parent does:* Tell your child about the sunbird: she has a long, thin, curved beak and sips nectar from deep inside flowers. Ask how her beak is like the straw.  
-  *Parent says:* A sunbird has a long, thin, curved beak. A flower keeps its sweet juice, called nectar, deep inside. How is her beak like the straw?  
-  *Child mode:* How is a sunbird's beak like the straw?
+  *Parent says:* A sunbird has a long, thin, curved beak. A flower keeps its sweet juice, called nectar, deep inside. Think about the straw.  
+  *Child mode:* Think about the straw and the bottle. Now think about the flower.
   - Check: Which beak is best for sipping nectar deep inside a flower? → **Long, thin and curved**
 ### a3 · Bird Café: what is good for birds, and what is not? (15 min, 2 days)
 - **safety:** A grown-up places the bowl, inside the balcony railing or on a sill with a grill. Never lean out of a window.
-- **record:** Draw your bird café. Draw any bird you saw, or any sign, like a feather or droppings.
+- **record:** Take a photo of your bird café, or draw the café. Tell your grown-up who came, or what sign you saw, like a feather or droppings.
 - **schedule:** day 1: Sort the foods. Put out a shallow bowl of water and a pinch of grains. (10 min); day 2: Check the bowl and grains. Change the water. Who came? (5 min)
 - **s1 (5 min)**  
   *Parent does:* Put a green paper and a red paper on the table. Your child sorts the foods: green for good for birds, red for not good.  
-  *Parent says:* Which of these foods are good for a bird? Which could make a bird ill? Why do you think so?  
+  *Parent says:* Look at each food. Is this good for a bird to eat, or could it make a bird ill?  
   *Child mode:* Put good bird food on green. Put bad bird food on red.
   - Ask: Why is the chip not good for a bird? (good: It is salty.; It is fried.)
   - Note: Grains, plain cooked rice and cut fruit are fine in small amounts. Salty, spicy, sugary and fried foods are not. Biscuits and bread fill a bird up but give little of what a bird needs.
@@ -309,30 +309,30 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
   *Child mode:* Put the bowl where birds can land. Can you see it from inside?
 - **s3 (5 min)**  
   *Parent does:* Next day, look at the bowl and the grains. Tip out the old water, rinse the bowl and fill it again.  
-  *Parent says:* Did anyone come? Are the grains gone? Why must we change the water every day?  
-  *Child mode:* Who came to your café? Change the water.
+  *Parent says:* Look at the bowl. Did anyone come? Are the grains gone?  
+  *Child mode:* Look for who came. Then help change the water.
   - Ask: Why change the water every day? (good: So it stays clean.; So mosquitoes don't lay eggs.)
   - Note: Birds may take a few days to find a new bowl. If no bird comes on day 2, that is still a real result. Keep the bowl out and look again. Mosquitoes can breed in water left for a few days, so change it daily.
   - Wait: Come back tomorrow
 
 ## Projects
 ### p1 · My Window Bird Book (35 min, 5 days)
-- **record:** One page for each day: the bird, the beak, and what the bird was doing.
-- **schedule:** day 1: Make the book. Watch from a window for 5 minutes and draw the first bird. (10 min); day 2: Watch for 5 minutes. Draw a bird and the bird's beak. (5 min); day 3: Watch for 5 minutes. Draw what a bird was doing: eating, calling, flying or resting. (5 min); day 4: Listen with eyes closed. Draw the bird you heard. (5 min); day 5: Finish the cover. Show your book to someone at home and tell them about each page. (10 min)
+- **record:** One page for each day: the bird, the shape of its beak, what a bird was doing, and how many bird sounds you heard. Draw, or tell a grown-up who writes it down.
+- **schedule:** day 1: Make the book. Watch from a window for 5 minutes. Draw the first bird, or tell its colours and your grown-up writes them. (10 min); day 2: Watch for 5 minutes. Look at a bird's beak and say what shape the beak is. Your grown-up writes it on the page. (5 min); day 3: Watch for 5 minutes. Act out what a bird was doing: eating, calling, flying or resting. Your grown-up writes it on the page. (5 min); day 4: Listen with eyes closed for 5 minutes. Count the different bird sounds you hear. Write the number on the page. (5 min); day 5: Finish the cover. Show your book to someone at home and tell them about each page. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Fold the book. A grown-up staples it. 2. Write the title together. 3. Watch from a window for 5 minutes. 4. Your child draws the first bird.  
-  *Parent says:* Let's make a book of our window birds. Which bird can you see? What colour is the beak?  
-  *Child mode:* Make your bird book. Watch the window. Draw a bird.
+  *Parent does:* 1. Fold the book. A grown-up staples it. 2. Write the title together. 3. Watch from a window for 5 minutes. 4. Your child draws the first bird, or says its colours while you write them.  
+  *Parent says:* This book will hold the birds you see and hear from our window. Look out. Which bird can you see?  
+  *Child mode:* Watch the window. Draw the first bird, or tell your grown-up its colours.
   - Note: If you see no bird, draw one you heard, or a bird you have seen before from this window. Crows and pigeons are nearly always about.
 - **s2 (15 min)**  
-  *Parent does:* On days 2, 3 and 4, watch or listen for 5 minutes and add one page each day.  
-  *Parent says:* What was the bird doing? Eating, calling, flying or resting?  
-  *Child mode:* Watch the bird. What is the bird doing? Draw the bird.
+  *Parent does:* 1. Day 2: watch for 5 minutes. Ask if the beak is short and thick, long and thin, or hooked. Write the answer on the page. 2. Day 3: watch for 5 minutes. Your child acts out what a bird was doing. Write it on the page. 3. Day 4: listen with eyes closed for 5 minutes. Write how many different bird sounds your child heard.  
+  *Parent says:* Today's page needs one bird. Watch closely for 5 minutes.  
+  *Child mode:* Watch or listen. Tell your grown-up what to write on your page.
   - Ask: What was the bird doing? (good: Eating seeds.; Calling to another crow.; Sitting in the sun.)
 - **s3 (10 min)**  
   *Parent does:* On day 5, your child makes the cover. Then they show the book to someone at home and tell them about each page.  
-  *Parent says:* Tell me about your bird book. Which bird did you like best? Why?  
-  *Child mode:* Show your book and tell about each page. Which bird was your favourite?
+  *Parent says:* Tell me about your book. What did you find out about the birds at our window?  
+  *Child mode:* Show your book. Tell about each page.
 
 ## Challenges
 ### c1 · Stitch a Cradle Like a Tailorbird (20 min)
@@ -343,18 +343,18 @@ That night Thenmozhi drew the nest, the two eggs, the cat and the four bulbuls. 
 - **creative:** Fold one big leaf into a cone and stitch only one side.; Stitch three small leaves into a bowl.; Line the cradle with cotton wool, like the soft cup inside a real nest.
 - **s1 (4 min)**  
   *Parent does:* Tell your child how a tailorbird sews leaves into a cradle with her beak and thread.  
-  *Parent says:* A tailorbird sews two leaves together with her beak. How could we do that with thread?  
-  *Child mode:* A tailorbird sews leaves. How could you sew them?
+  *Parent says:* A tailorbird sews two leaves into a cradle for her eggs. Her sharp beak is the needle.  
+  *Child mode:* Think about how you could join two leaves with thread and no glue.
 - **s2 (12 min)**  
   *Parent does:* 1. Cut two leaf shapes from paper. A grown-up helps poke holes with a pencil tip. 2. Your child pushes the wool through the holes. A grown-up ties the knots. 3. Put in two chana.  
-  *Parent says:* Where do the holes need to go? How will the knots stop the thread coming out?  
+  *Parent says:* Make a row of holes along the edge. Then push the wool through the holes.  
   *Child mode:* Poke holes. Push the wool through. Ask for help with the knot.
   - Ask: Why do you need knots? (good: So the thread doesn't slip out.; To hold the leaves tight.)
   - Note: Paper tears if holes are too close to the edge. Put them about one finger-width in. Twist the end of the wool tight so it goes through a hole easily.
 - **s3 (4 min)**  
   *Parent does:* Tip the cradle gently. If an egg falls out, ask your child what to change.  
-  *Parent says:* Tip it gently. Did the eggs stay? What could you change?  
-  *Child mode:* Tip your cradle gently. Did the eggs stay in?
+  *Parent says:* Now we test it. Tip the cradle a little.  
+  *Child mode:* Do the chana stay in? If not, change one thing and try again.
 
 ## Worksheets
 ### The World of Birds (core) (core, 10 questions)

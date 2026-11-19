@@ -351,7 +351,7 @@
      "what": "Pull each material and guess which will stretch the most. Hang the rubber band and the three strips. Measure each one before the bottle, with the bottle, and after the bottle comes off. Pull the milk packet strip by hand. Say what you found."
     }
    ],
-   "record": "Write your guess and your reason at the top. Fill in the results table. Draw each strip before the bottle and with the bottle. Circle the ones that came back.",
+   "record": "Write your guess and your reason at the top. Fill in the results table. Take a photo of each strip before the bottle and with the bottle. You can draw them instead. Circle the ones that came back.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -420,9 +420,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Lay out the rubber band and the three strips. 2. Let your child pull each one gently with their fingers. 3. Ask the question below. 4. Write down their order and their reason, word for word.",
-     "say": "Pull each one gently. Which one will stretch the most when a heavy bottle hangs from it? Put them in a line. Why did you put that one first?",
-     "kid": "Pull each one gently. Which will stretch the most? Put them in a line. Say why.",
+     "do": "1. Lay out the rubber band, the T-shirt strip, the hanky strip and the newspaper strip. 2. Let your child pull each one gently with their fingers. 3. Ask the question below. 4. Write down their order and their reason, word for word.",
+     "say": "Pull each one gently. Which one will stretch the most when a heavy bottle hangs from it? Put that one first in a line, and the one that will stretch least last.",
+     "kid": "Pull each one gently with your fingers. Then line them up. Put the one you think will stretch most first.",
      "ask": [
       {
        "q": "Why did you put that one first?",
@@ -456,7 +456,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "1. Hook the bottle's string loop onto the rubber band's paper clip. 2. Lower the bottle slowly with your hand under it. 3. Let go, and count to 10. 4. Measure the length again and write it down. 5. Lift the bottle off. 6. Do the same for each strip.",
+     "do": "1. Hook the bottle's string loop onto the rubber band's paper clip. 2. Lower the bottle slowly with your hand under it. 3. Let go, and count to 10. 4. Measure the length again and write it down. 5. Lift the bottle off, and go to the next step to measure this strip again. 6. Then do the same for the next strip.",
      "say": "Lower it slowly. Count to ten. Now measure. How long is it with the bottle?",
      "kid": "Lower the bottle slowly. Count to ten. Measure again. Write it down.",
      "ask": [
@@ -485,9 +485,9 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "1. After you take the bottle off each strip, count to 10. 2. Measure the length again. 3. Write it in the last column. 4. Ask the question below.",
+     "do": "1. Right after you lift the bottle off a strip, count to 10. 2. Measure the length again. 3. Write it in the last column. 4. Ask the question below.",
      "say": "Now the bottle is off. Did each one go back to its old length?",
-     "kid": "Take the bottle off. Count to ten. Measure again. Did it come back?",
+     "kid": "Take the bottle off. Count to ten. Measure again and write it in the last column.",
      "ask": [
       {
        "q": "Which ones came back?",
@@ -521,7 +521,7 @@
      "mins": 3,
      "do": "1. Ask your child to say what they think, what they saw and why. 2. Then read them the card 'Stretchy and elastic: why a rubber band springs back'.",
      "say": "So, which material is the stretchiest? What did you see that tells you? And why do you think the rubber band came back, but the milk packet did not?",
-     "kid": "Which one stretched most? What did you see? Why did the band come back?",
+     "kid": "Look at your table. Which one stretched the most? Tell your grown-up what you saw.",
      "ask": [
       {
        "q": "Why do you think the rubber band came back?",
@@ -540,7 +540,7 @@
    "title": "The Spot Test: which materials keep water out?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you put six squares of different materials over paper marked with sketch pen. You pour the same amount of water on each one, wait, and lift it up. If the sketch pen circle has run, which means the ink has spread, water got through.",
+   "context": "In this experiment you find out which materials keep water out. You put six squares of different materials over paper marked with sketch pen. You pour the same amount of water on each one, wait, and lift it up. If the sketch pen circle has run, which means the ink has spread, water got through.",
    "question": "Which of these materials are waterproof, and which let water through?",
    "predict": "Feel each square. Which ones do you think will keep the water out? Why do you think so?",
    "fair_test": "Every square is the same size. Every square gets one level teaspoon of water, poured in the middle, one after the other. We lift all of them after the same 2 minutes. The papers underneath are all the same, with the same kind of sketch pen circle.",
@@ -659,9 +659,9 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "1. Let your child feel each square. 2. Ask the question below. 3. Write their guess for each one in the table.",
-     "say": "Which squares will keep the water out? Why do you think so?",
-     "kid": "Feel each square. Which will keep the water out? Why?",
+     "do": "1. Let your child feel each square. 2. Ask them to put the squares they think will keep water out on one side. 3. Ask the question below. 4. Write their guess for each one in the table.",
+     "say": "Which squares will keep the water out? Put them on one side.",
+     "kid": "Feel each square. Put the ones you think will keep water out on one side.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -711,8 +711,8 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "1. Ask your child to sort the squares into two heaps: waterproof and not waterproof. 2. Ask what they saw and why. 3. Then read the card 'Waterproof and absorbent'.",
-     "say": "Sort them into two heaps. Which keep water out? Which let it through? Was your guess right? Why do you think the water got through the hanky?",
+     "do": "1. Ask your child to sort the squares into two heaps: waterproof and not waterproof. 2. Ask if their guess was right. 3. Ask the question below. 4. Then read the card 'Waterproof and absorbent'.",
+     "say": "Sort the squares into two heaps. Which keep water out? Which let it through? Was your guess right?",
      "kid": "Make two heaps: waterproof and not waterproof. Was your guess right?",
      "ask": [
       {
@@ -745,7 +745,7 @@
    "title": "Stretch and Let Go: a home hunt",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you hunt at home for things that stretch. You pull each one gently and let go, then sort them: springs back, stays stretched, or does not stretch.",
+   "context": "In this activity you hunt at home for things that stretch. You pull each one gently and let go, then sort them: springs back, stays stretched, or does not stretch. You find out which ones go back to their old shape.",
    "materials": [
     {
      "item": "things from home: a hair band, a sock, a pyjama waistband, a balloon if you have one, a small ball of atta dough or clay, a strip of milk packet, a dry leaf, a sheet of paper",
@@ -763,7 +763,7 @@
      "what": "Find things that might stretch. Pull and let go. Sort them into three groups."
     }
    ],
-   "record": "Draw each thing on the sheet where it belongs.",
+   "record": "Leave each thing on its sheet. Take a photo of the three sheets. Tell your grown-up one thing from each sheet.",
    "setup": [
     {
      "art": "Three labelled sheets on the floor: springs back, stays stretched, does not stretch, with a sock, a hair band and a ball of dough beside them.",
@@ -782,7 +782,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Lay out the three sheets, one for each group: springs back, stays stretched, does not stretch. 2. Go round the home with your child and collect 8 to 10 things that might stretch.",
+     "do": "1. Lay out the three sheets, one for each group: springs back, stays stretched, does not stretch. 2. Go round the home with your child and collect 8 to 10 things that might stretch. 3. Try a hair band, a sock, a pyjama waistband, a milk packet strip, a dry leaf and a sheet of paper.",
      "say": "Let's find things that might stretch. Look in the cupboard, the kitchen and the bathroom.",
      "kid": "Find things that might stretch. Bring them here.",
      "parent": "Roll a small piece of atta dough into a snake. Clay or play dough works too."
@@ -808,7 +808,7 @@
      "mins": 3,
      "do": "1. Ask your child to pinch the skin on the back of their hand and let go. 2. Watch it go flat. 3. Ask which sheet their skin belongs on.",
      "say": "Pinch the skin on the back of your hand. Let go. What happened? Which sheet does your skin go on?",
-     "kid": "Pinch the skin on your hand. Let go. Watch it go flat. Which sheet?",
+     "kid": "Pinch the skin on the back of your hand. Let go. What does it do?",
      "ask": [
       {
        "q": "Is your skin elastic?",
@@ -827,7 +827,7 @@
    "title": "The Bottle Lift: which strip is strongest?",
    "mins": 18,
    "days": 1,
-   "context": "In this activity you hang an empty bottle from strips of paper napkin, newspaper, polythene bag and cotton cloth. You pour water into the bottle, one small cup at a time, until the strip tears or the bottle is full.",
+   "context": "In this activity you find out which strip is strongest. You hang an empty bottle from strips of paper napkin, newspaper, carry bag and cotton cloth. You pour water into the bottle, one small cup at a time, until the strip tears or the bottle is full.",
    "materials": [
     {
      "item": "strips 1 cm wide and 16 cm long of: one layer of a paper napkin, newspaper, a thick carry bag (the kind shops give for groceries), and old cotton cloth",
@@ -877,9 +877,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Show your child the four strips. 2. Ask them to guess which will hold the most water, and why.",
-     "say": "Which strip do you think will lift the most water before it tears? Why?",
-     "kid": "Which strip will hold the most water? Why do you think so?",
+     "do": "1. Show your child the four strips. 2. Ask them to put the strips in a line, with the one they think is strongest first. 3. Ask the question below.",
+     "say": "Which strip do you think will hold the most water before it tears? Put it first.",
+     "kid": "Feel the four strips. Put them in a line, with the strongest one first.",
      "ask": [
       {
        "q": "Why do you think that strip will hold the most water?",
@@ -903,8 +903,8 @@
      "id": "s3",
      "mins": 3,
      "do": "1. Look at the table together. 2. Ask which strip was strongest, and how you know.",
-     "say": "Which strip was strongest? How do you know? Was your guess right?",
-     "kid": "Which strip was strongest? How do you know?",
+     "say": "Which strip was strongest? Was your guess right?",
+     "kid": "Look at your table. Which strip held the most cups?",
      "ask": [
       {
        "q": "How do you know?",
@@ -929,7 +929,7 @@
      "qty": 1
     },
     {
-     "item": "paper and colours",
+     "item": "the strips and squares from your tests, to touch and point at",
      "qty": 1
     }
    ],
@@ -940,7 +940,7 @@
      "what": "Choose a material for six jobs. Say which test shows it is right."
     }
    ],
-   "record": "Draw each job with the material you chose. Write the test that helped you.",
+   "record": "Make a table with three columns: the job, the material, and the test that showed it. Say the words, and your grown-up can write them.",
    "setup": [
     {
      "art": "Six small pictures on a page: a shower curtain, a dishcloth, a strap to carry a full water bottle, a pyjama waistband, a cover to keep a school book dry in the rain, and a rope to pull up a bucket from a well.",
@@ -955,9 +955,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "1. Read each job to your child, one at a time. 2. The jobs are a shower curtain and a dishcloth. 3. The others are a strap to carry a full water bottle and a pyjama waistband. 4. Another is a cover to keep a school book dry in the rain. 5. The last is a rope to pull up a bucket from a well. 6. For each one, ask which material from your tests they would use. 7. Ask which test told them.",
+     "do": "1. Read the six jobs to your child one at a time. 2. The jobs are a shower curtain and a dishcloth. 3. Then a strap to carry a full water bottle, and a pyjama waistband. 4. Then a cover to keep a school book dry in the rain. 5. Last is a rope to pull up a bucket from a well. 6. For each one, ask which material from your tests they would use. 7. Ask which test told them.",
      "say": "For a shower curtain, which material would you choose? Which of our tests tells you it is right?",
-     "kid": "Pick a material for each job. Which test helps you choose?",
+     "kid": "For each job, pick the material that fits best. Then say which test showed it.",
      "ask": [
       {
        "q": "Which material would you use for a dishcloth? Which test tells you?",
@@ -972,10 +972,10 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Ask your child to draw two of the jobs with their chosen materials.",
-     "say": "Draw two of the jobs. Write the material and the test next to each one.",
-     "kid": "Draw two jobs. Write the material and the test.",
-     "parent": "Spelling does not matter. You can write the words for your child if they ask."
+     "do": "Ask your child to choose two of the jobs. They explain to another person at home which material they would use, and which test showed it. If no one else is home, they explain it to you.",
+     "say": "Choose two jobs. Tell someone at home which material you would use and which test showed it.",
+     "kid": "Choose two jobs. Tell someone at home your material and your test.",
+     "parent": "Listen for the job, the material and the test. A child who likes drawing can draw the job too, but it is not needed."
     }
    ]
   }
@@ -1009,7 +1009,7 @@
        "b": "Needs to be strong. Good picks: Cotton cloth, Jute."
       },
       {
-       "f": "A tiffin wrap for the rain",
+       "f": "A cover to keep a tiffin box dry in the rain",
        "b": "Needs to be waterproof. Good picks: Banana leaf, Foil, Polythene."
       },
       {
@@ -1025,8 +1025,8 @@
        "b": "Needs to be strong and waterproof, and not bend or stretch. Good pick: Steel."
       },
       {
-       "f": "A catapult band",
-       "b": "A catapult throws a small thing when you pull a band back and let go. The band needs to be very stretchy and elastic. Good pick: Rubber."
+       "f": "A catapult band (a catapult throws a small thing when you pull the band back and let go)",
+       "b": "Needs to be very stretchy and elastic. Good pick: Rubber."
       },
       {
        "f": "A scarf for a cold morning",
@@ -1130,14 +1130,14 @@
      "mins": 3,
      "do": "1. Cut out the cards together. 2. Read each material card to your child. 3. Lay the material cards face up in the middle.",
      "say": "Here are our materials. Some we tested ourselves. Listen to what each one is good at.",
-     "kid": "Look at your material cards. What is each one good at?"
+     "kid": "Listen to what each material is good at. You tested some of them yourself."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "1. Turn over a job card and read it. 2. On the count of three, each player points to a material. 3. Each player says why. 4. Read the back and give points.",
-     "say": "The job is a raincoat. Count to three and point to the material you would pick. Why that one?",
-     "kid": "Read the job. Point to a material. Say why it works.",
+     "say": "Here is the job. Count to three, then point to the material you would pick.",
+     "kid": "Listen to the job. On three, point to the material you would pick.",
      "ask": [
       {
        "q": "Why did you pick that one?",
@@ -1153,7 +1153,7 @@
      "mins": 2,
      "do": "1. Hold up the towel job card and the raincoat job card. 2. Ask the question below. 3. Let your child look at the material cards before they answer.",
      "say": "A towel must soak up water. A raincoat must keep water out. Could one material be the best for both jobs? Why or why not?",
-     "kid": "A towel soaks up water. A raincoat keeps water out. Is one material best for both?",
+     "kid": "Look at the towel card and the raincoat card. Look along the material cards for one that works for both.",
      "ask": [
       {
        "q": "Could one material be the best for both a towel and a raincoat?",
@@ -1200,7 +1200,7 @@
    "rules": [
     "Collect the six things on the cards. Cut out one set of six cards for each player.",
     "Each player puts the six cards in a line on their score sheet, from least stretchy to most stretchy, without pulling anything.",
-    "Now test. One player holds each thing between two fingers of each hand, 5 cm apart, and pulls until it is hard to pull further.",
+    "Now test. One player pulls each thing slowly. Hold it between the finger and thumb of each hand, 5 cm apart, and pull until it is hard to pull further. Do not tear it.",
     "Everyone watches and agrees on the order, from least stretchy to most stretchy.",
     "Each player gets one point for every card in the right place.",
     "The player with the most points wins. If two players tie, they both win."
@@ -1245,7 +1245,7 @@
      "mins": 3,
      "do": "1. Score each player's line-up. 2. Look at the two ends of the true order, the stretchiest thing and the least stretchy thing. 3. Ask the question below.",
      "say": "Which thing stretched the most? Which stretched the least? Was that the same as your guess?",
-     "kid": "Count your points. Which stretched most? Which stretched least?",
+     "kid": "Count your points. You get one point for each card in the right place.",
      "ask": [
       {
        "q": "Which thing stretched the most, and which stretched the least?",
@@ -1308,7 +1308,7 @@
      "mins": 4,
      "do": "1. Cut a paper doll from a notebook page. 2. Let your child colour it with sketch pen. 3. Read the challenge.",
      "say": "The sketch pen will run if the doll gets wet. Which material will you use for the raincoat? Why?",
-     "kid": "Make a paper doll. Colour it. Which material will keep it dry? Why?",
+     "kid": "Make a paper doll. Colour it with sketch pen, so you can see if it gets wet.",
      "adult": true
     },
     {
@@ -1321,9 +1321,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Put the doll on the tray. 2. Pour 3 teaspoons of water slowly over the doll. 3. Take the raincoat off.",
+     "do": "1. Dress the doll in its raincoat and put it on the tray. 2. Pour 3 teaspoons of water slowly over the doll. 3. Take the raincoat off.",
      "say": "Now the test. Is the doll dry? Where did any water get in?",
-     "kid": "Pour 3 spoons of water. Take the coat off. Is the doll dry?",
+     "kid": "Pour 3 teaspoons of water over the doll in its coat. Take the coat off. Is the doll dry?",
      "ask": [
       {
        "q": "Where did the water get in?",

@@ -175,41 +175,41 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
 
 ## Games
 ### g1 · Ready or Needs Help? (15 min)
-- **rules:** Draw a quick baby on the front of each card, next to the name.; Lay the two mats on the floor, a little apart.; Mix the cards and put them face down in a pile.; One player turns over the top card and reads the name aloud.; Everyone, including the reader, races to put a hand on the right mat. A hand on the wrong mat means you sit out that card.; Turn the card over and read the back aloud to check. The first hand on the right mat wins the card. If nobody was right, put the card at the bottom of the pile.; Take turns to be the reader. When the pile is finished, the player with the most cards wins. If two players have the same number, they both win.
+- **rules:** Lay the two mats on the floor, a little apart.; Mix the cards and put them face down in a pile.; One player turns over the top card and reads the name aloud.; Everyone, including the reader, races to put a hand on the right mat. A hand on the wrong mat means you sit out that card.; Turn the card over and read the back aloud to check. The first hand on the right mat wins the card. If nobody was right, put the card at the bottom of the pile.; Take turns to be the reader. When the pile is finished, the player with the most cards wins. If two players have the same number, they both win.
 - **Printable cards: 16 baby animal cards to cut out, with the answer on the back:** Calf (back: Ready. A calf stands within about an hour and follows her mother.); Goat kid (back: Ready. A goat kid stands and drinks milk within about an hour.); Hen's chick (back: Ready. A chick walks and pecks on the day she hatches. Her mother still keeps her warm.); Duckling (back: Ready. A duckling walks and swims within a day of hatching.); Baby gecko (back: Ready. A baby gecko hatches and hunts insects alone.); Baby fish (back: Ready. Most baby fish swim off and feed alone.); Elephant calf (back: Ready. An elephant calf stands within a few hours, but drinks milk and learns from the herd for years.) [picture]; Baby spider (back: Ready. Baby spiders hatch and soon spread out to live alone.); Kitten (back: Needs help. A newborn kitten has shut eyes and cannot walk properly.); Puppy (back: Needs help. A newborn puppy has shut eyes and drinks only milk.); Sparrow chick (back: Needs help. A sparrow chick hatches with almost no feathers and shut eyes.); Crow chick (back: Needs help. A crow chick is fed by both parents in the nest for weeks.); Baby mouse (back: Needs help. A baby mouse is born pink, with no fur and shut eyes.); Bat pup (back: Needs help. A bat pup clings to the mother and drinks her milk.); Honeybee young (back: Needs help. A young bee is a tiny grub, fed by older sister bees.); Human baby (back: Needs help. A human baby cannot hold up their head at first, and needs care for years.)
 - **Printable board: 2 mats to lay on the floor:** Ready soon after birth; Needs a lot of help
 - **s1 (4 min)**  
-  *Parent does:* 1. Share the 16 cards and draw a quick baby on each. 2. Lay the two mats on the floor.  
-  *Parent says:* Let's draw the babies first. You draw some, and I will draw some.  
-  *Child mode:* Draw a baby on your cards. Then lay out the two mats.
+  *Parent does:* 1. Cut out the 16 cards and share them out. 2. Lay the two mats on the floor, a little apart. 3. Put the cards face down in a pile.  
+  *Parent says:* One mat is for babies who are ready soon after birth. The other is for babies who need a lot of help. We will race to the right mat.  
+  *Child mode:* Look at the two mats. Which baby do you think needs a lot of help?
 - **s2 (9 min)**  
   *Parent does:* 1. Take turns turning over a card. 2. Race to the right mat. 3. Read the back aloud.  
   *Parent says:* Kitten! Ready, or needs help? Quick!  
   *Child mode:* Turn over a card. Slap the right mat. Read the back.
-  - Ask: The hen's chick can walk, but her mother still keeps her warm. Which mat is she on? (good: Ready, because she can walk and peck.; Ready, but she still needs some care.)
+  - Ask: A hen's chick can walk on the first day. Her mother still keeps her warm. Which mat does she go on? (good: Ready, because she can walk and peck.; Ready, but she still needs some care.)
   - Note: The tricky cards are the chick and the elephant calf. They can walk early, but still get care. Let your child argue for their choice.
 - **s3 (2 min)**  
   *Parent does:* Count the cards.  
-  *Parent says:* Which mat is the human baby on? Count your cards.  
-  *Child mode:* Count your cards. Which mat is the human baby on?
+  *Parent says:* Count your cards. The player with the most cards wins.  
+  *Child mode:* Count your cards.
   - Check: Which baby needs the most help after birth? → **A sparrow chick**
 ### g2 · Who Looks After Me? A memory game (15 min)
 - **rules:** Mix all 16 cards and lay them face down in rows of four.; On your turn, turn over two cards and read them aloud.; If you turn over a baby and the carer of that baby, you keep the pair and have another turn.; If they do not match, turn them face down again. The next player has a turn.; When all the pairs are found, the player with the most pairs wins. If two players have the same number, they both win.
-- **Printable cards: 16 cards to cut out: 8 babies and 8 carers:** Baby: a hen's chick; Carer: the mother hen, who keeps the chicks warm under her wings; Baby: a sparrow chick; Carer: both sparrow parents, who bring insects many times an hour; Baby: a langur monkey; Carer: the mother, and the other female langurs, who take turns holding the baby; Baby: a young honeybee; Carer: the worker bees, the baby's older sisters, who feed the young; Baby: a calf; Carer: the mother cow, who licks the calf clean and feeds her milk; Baby: a king cobra egg; Carer: the mother king cobra, who builds a nest of leaves and guards the eggs; Baby: a tilapia fish; Carer: the mother tilapia, who keeps her babies safe inside her mouth; Baby: a human baby; Carer: many people: parents, grandparents, aunts, uncles and older children
+- **Printable cards: 16 cards to cut out: 8 babies and 8 carers:** Baby: a hen's chick; Carer: the mother hen, who keeps the chicks warm under her wings; Baby: a sparrow chick; Carer: both sparrow parents, who bring insects many times an hour; Baby: a langur monkey; Carer: the mother, and the other female langurs, who take turns holding the baby; Baby: a young honeybee; Carer: the worker bees, the baby's older sisters, who feed the young; Baby: a calf; Carer: the mother cow, who licks the calf clean and feeds her milk; Baby: a king cobra egg; Carer: the mother king cobra, who builds a nest of leaves and guards the eggs; Baby: a baby tilapia fish; Carer: the mother tilapia, who keeps her babies safe inside her mouth; Baby: a human baby; Carer: many people: parents, grandparents, aunts, uncles and older children
 - **s1 (2 min)**  
   *Parent does:* Mix the cards and lay them face down in four rows of four.  
   *Parent says:* Each baby has a card that says who looks after them. Let's find the pairs.  
   *Child mode:* Lay the cards face down in rows.
 - **s2 (10 min)**  
   *Parent does:* Take turns turning over two cards. Read them aloud. Keep a matching pair.  
-  *Parent says:* A tilapia fish and a hen. Is that a pair? Why not?  
+  *Parent says:* Say you turn over a baby tilapia fish and the mother hen. Is that a pair? Why not?  
   *Child mode:* Turn over two cards. Do they match?
-  - Ask: Which of these babies have more than one carer? (good: Langur babies, because other langurs also hold them.; Young honeybees, because many worker sisters feed them.; Human babies, because parents, grandparents and others care for them.)
+  - Ask: Which babies in this game have more than one carer? (good: Langur babies, because other langurs also hold them.; Young honeybees, because many worker sisters feed them.; Human babies, because parents, grandparents and others care for them.)
   - Note: Talk about each pair as it is found. The king cobra is one of the few snakes that builds a nest. Many people help raise a human baby.
 - **s3 (3 min)**  
   *Parent does:* Count the pairs. Talk about who cared for your child.  
-  *Parent says:* Who looked after you when you were a baby? Is that more like the hen, or more like the langurs?  
-  *Child mode:* Who looked after you as a baby?
+  *Parent says:* Who looked after you when you were a baby? Was it one person, or many?  
+  *Child mode:* Tell your grown-up who looked after you.
   - Check: Who feeds young honeybees? → **Their older sisters, the worker bees**
 
 ## Experiments
@@ -218,12 +218,12 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
 - **predict:** Guess first. In the dim nest, which colour of mouth will you feed most: yellow, orange, brown or black? Why do you think so?
 - **fair test:** All the mouths are the same size, and there are two of each colour. The grown-up mixes them up before every round, so no colour is always in the best place. Each round lasts the same 10 seconds. We do three rounds in dim light, because the result of one round can be luck. Then we do one round in bright light, to see if the light makes a difference.
 - **safety:** Keep the chana away from toddlers, who could choke on them.
-- **record:** Fill in the results table with the number of chana on each colour. Draw a block for each chana under each colour to make a block graph.
+- **record:** Fill in the results table with the number of chana on each colour. Stack the chana in a column under each colour to make a block graph. Take a photo, or draw a block for each chana.
 - **results table:** Colour of mouth | Round 1 | Round 2 | Round 3 | Total in dim light | Bright light round
 - **s1 (5 min)**  
-  *Parent does:* 1. Draw round a bottle cap 8 times on paper. 2. Colour 2 circles yellow, 2 orange, 2 brown and 2 black. Colour them fully. 3. Cut them out.  
+  *Parent does:* 1. Draw round a bottle cap 8 times on paper. 2. Colour 2 circles yellow, 2 orange, 2 brown and 2 black. Colour them fully. 3. Cut them out. (You can also cut circles from coloured paper instead of colouring.)  
   *Parent says:* These circles are chick mouths. Real chicks have mouths of different colours. Let's make yellow, orange, brown and black ones.  
-  *Child mode:* Draw 8 circles. Colour 2 yellow, 2 orange, 2 brown, 2 black. Cut them out.
+  *Child mode:* Make 8 round mouths: 2 yellow, 2 orange, 2 brown and 2 black.
   - Note: Colour the black and brown circles fully, so no white paper shows. A sketch pen works well.
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess which colour they will feed most in the dark, and why. Write the guess down.  
@@ -248,24 +248,24 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   *Child mode:* Now try in bright light. Is every mouth easy to find?
   - Note: In bright light, your child will usually find almost every mouth, whatever the colour. This shows that the colour matters most when the nest is dark.
 - **s6 (4 min)**  
-  *Parent does:* 1. Add up the dim-light rounds for each colour. 2. Your child draws one block for each chana, to make a block graph. 3. Ask your child which colour got fed most, and why.  
+  *Parent does:* 1. Add up the dim-light rounds for each colour. 2. Your child stacks the chana in a column under each colour, to make a block graph. 3. Ask your child which colour got fed most, and why.  
   *Parent says:* Which colour got fed most in the dark? Was your guess right? Why do you think that colour did best?  
-  *Child mode:* Add up. Which colour got the most food? Why?
+  *Child mode:* Add up the chana for each colour. Is your guess right?
   - Ask: Why did that colour get the most food? (good: Yellow is easy to see in the dark.; The black mouths looked like the cloth, so I missed them.)
   - Note: A strong answer uses the numbers: 'Yellow got 5 chana and black got 1, because yellow shows up in the dark.' Now read the card on why chick mouths are so bright.
   - Check: Sparrow chicks live in dark holes in walls. Why are yellow mouth edges useful to them? → **A parent can find yellow edges easily in the dark**
 
 ## Activities
 ### a1 · The Walking Line: how soon can each baby walk? (15 min)
-- **record:** Draw the line in your notebook with each baby in the right place.
+- **record:** Take a photo of the line with each baby in the right place. Or tell a grown-up who walks first and who walks last.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the string across the room. 2. Put a paper at one end saying 'just born'. 3. Put papers along it: 'one hour', 'one day', 'one month', 'one year', and 'two years' at the far end.  
-  *Parent says:* This line is time. Here is the day a baby is born. Over there, the baby is two years old.  
-  *Child mode:* This line is time. One end is birth. The far end is two years.
+  *Parent says:* This line shows time. At one end, a baby is just born. At the far end, the baby is two years old.  
+  *Child mode:* Find the two ends of the line. Which end is birth?
 - **s2 (4 min)**  
   *Parent does:* Your child puts each baby card where they think that baby first walks.  
-  *Parent says:* When does each baby first walk? Put each card on the line. Why did you put the calf there?  
-  *Child mode:* Put each baby where they first walk. Say why.
+  *Parent says:* Put each card where you think that baby first walks.  
+  *Child mode:* Put each baby card on the line.
   - Ask: Why did you put that baby there? (good: The calf goes near the start, because calves walk quickly.; The human baby goes far along, because babies take a long time.)
 - **s3 (5 min)**  
   *Parent does:* Read out the real answers and move the cards: calf and goat kid, about one hour. Chick, the first day. Kitten and puppy, about three weeks. Human baby, about one year.  
@@ -274,21 +274,21 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   - Note: Human babies walk at different ages, often between about 9 and 18 months. All of these are normal. The point is the big difference between the calf and the human baby.
 - **s4 (3 min)**  
   *Parent does:* Talk about why some babies walk so early.  
-  *Parent says:* A calf must follow her mother, who walks to find grass. Why can a human baby take so long?  
-  *Child mode:* Why can a human baby take so long to walk?
-  - Ask: Why can a human baby take so long? (good: Because people carry the baby.; Because the family looks after the baby.)
+  *Parent says:* A calf must walk with her mother to find grass.  
+  *Child mode:* Think about how a calf and a human baby are different.
+  - Ask: Why can a human baby wait so long to walk? (good: Because people carry the baby.; Because the family looks after the baby.)
   - Check: Which baby walks first? → **A calf**
 ### a2 · My First Food: ask the family (15 min)
-- **record:** A page with three pictures: my first food, my food when I was one, my food now.
+- **record:** A page with three foods in order: my first food, my food when I was one, my food now.
 - **s1 (8 min)**  
   *Parent does:* Your child asks a grown-up these questions: 1. What did I drink first? 2. What was my first solid food? 3. When did I start eating what the family eats? 4. Who fed me?  
   *Parent says:* You are a scientist asking questions. Ask your question, then listen to the whole answer before the next one.  
   *Child mode:* Ask your grown-up four questions. Listen to each answer.
   - Note: Many Indian families start babies on milk only, then soft foods at about six months, such as ragi porridge, mashed rice with dal, or mashed banana. Any true answer is good.
 - **s2 (5 min)**  
-  *Parent does:* Your child draws or writes the answers in order: first food, food at about one year, food now.  
-  *Parent says:* Draw your first food, then your food when you were one, then your food now. What changed?  
-  *Child mode:* Draw your three foods in order. What changed?
+  *Parent does:* Your child writes the answers in order: first food, food at about one year, food now. A child who likes to draw can draw them instead.  
+  *Parent says:* Tell me your first food, then your food when you were one, then your food now. What changed?  
+  *Child mode:* Write your three foods in order.
   - Ask: Why does a baby eat soft food? (good: Because I had no teeth.; Because a baby cannot chew hard food.)
 - **s3 (2 min)**  
   *Parent does:* Ask your child who fed them as a baby, and who or what they feed or help now.  
@@ -296,7 +296,7 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   *Child mode:* Who fed you? Who do you feed or help now?
 ### a3 · Nest Watch from the Window (if you can see a nest) (15 min)
 - **safety:** Watch from far away and never touch a nest. Crows dive at people who come close to their nest.
-- **record:** A tally of parent visits in 10 minutes, and a drawing of the nest.
+- **record:** A tally of parent visits in 10 minutes. If you can, add a photo of the nest, taken from far away.
 - **s1 (2 min)**  
   *Parent does:* Find a nest you can see from inside. Sit still and quiet.  
   *Parent says:* We will watch from here, so the parents are not scared. Can you see the nest?  
@@ -325,7 +325,7 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
 - **s3 (3 min)**  
   *Parent does:* Compare with your child's age. Ask how old they are, and how many years are left until 18.  
   *Parent says:* How old are you? A dog of that age is already a grown-up. How many more years until you are 18?  
-  *Child mode:* How old are you? How many years until you are 18?
+  *Child mode:* Count how many years are left until you are 18.
   - Check: Which animal takes longest to grow up? → **A human**
 
 ## Projects
@@ -343,25 +343,25 @@ Kavya drew one last picture in the notebook. It showed a dark hole, three yellow
   - Wait: Day 2
 - **s3 (10 min)**  
   *Parent does:* Count up both columns. Compare them.  
-  *Parent says:* Which column has more marks? Did you care for anyone today?  
-  *Child mode:* Count both columns. Which has more? Why?
-  - Ask: Why does the 'cared for me' column have more marks? (good: Because I am still a child, and I need more care.; Because grown-ups cook and help me.)
+  *Parent says:* Which column has more marks? Did you care for someone in these three days?  
+  *Child mode:* Count the marks in each column. Write the two totals.
+  - Ask: Why might the 'cared for me' column have more marks? (good: Because I am still a child, and I need more care.; Because grown-ups cook and help me.)
   - Check: In a Care Count, there are 30 marks for care you got and 12 marks for care you gave. What does that show? → **You get more care than you give, but you give care too**
   - Wait: Day 3
 
 ## Challenges
 ### c1 · Find Me in the Dark: design the easiest mouth to find (20 min)
-- **problem:** Can you make a paper chick mouth that a grown-up finds faster than a plain yellow one, in a dim nest? In the Find the Hungry Mouth test, a mouth was easy to find when its colour was very different from the dark cloth around it. So a good design is a bright mouth that stands out from the cloth.
+- **problem:** Can you make a paper chick mouth that a grown-up finds faster than a plain yellow one, in a dim nest? In the Find the Hungry Mouth test, mouths with colours very different from the dark cloth were easiest to find. So a good design is a bright mouth that stands out from the cloth.
 - **your turn:** Design your own mouth. Hide it in the nest with a plain yellow one. Ask a grown-up to find both in the dim light. Which did they find first? Try it three times.
 - **constraints:** The mouth must be the same size as the others: a bottle-cap circle.; Use only paper, crayons or sketch pens, glue, and silver foil if you have some.; The test is in the same dim room, on the same dark cloth.
 - **general:** Use the brightest colour you have, like yellow or white.; Give the mouth a bright edge all the way round, like a sparrow chick's yellow corners.; Make the mouth a different colour from the cloth.
 - **creative:** Glue a ring of silver foil round the edge, so the mouth shines in any little light.; Make a white edge and a darker middle, so the edge stands out and the middle looks like a hole.
 - **s1 (3 min)**  
-  *Parent does:* Read the challenge. Remind your child which mouths were easiest to find in the Find the Hungry Mouth experiment.  
-  *Parent says:* In the Find the Hungry Mouth experiment, yellow mouths were found most in the dark nest. Can you make a mouth that is even easier to find?  
+  *Parent does:* Read the challenge. Ask your child which mouths were easiest to find in the Find the Hungry Mouth experiment.  
+  *Parent says:* Which colours were easiest to find in the dark nest? Can you make a mouth that is even easier to find than a plain yellow one?  
   *Child mode:* Make a mouth that is easy to find in the dark!
 - **s2 (10 min)**  
-  *Parent does:* Your child designs and makes one or two mouths.  
+  *Parent does:* Your child makes one or two mouths. They can colour, cut, glue foil, or tear coloured paper, whatever they like best.  
   *Parent says:* What would make a mouth stand out in the dark? Try an idea.  
   *Child mode:* Make your mouth. What makes it stand out?
   - Note: White and silver foil often work best. Let your child try their own idea first.

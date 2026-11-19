@@ -221,18 +221,18 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 12 cards. 2. Find a steel plate, a spoon and a second light, such as a table lamp or another phone torch. 3. Make the room dim. 4. Rest the torch on a pile of books, pointing at a plain wall.  
   *Parent says:* Each of these cards asks for a shadow trick. You will need to think about where the light is.  
-  *Child mode:* Each card asks for a shadow trick. Think about where the light is.
+  *Child mode:* Look at the torch and the wall. Your hand will make the shadows.
   - Note: Keep the room dim but not pitch dark, so nobody trips. A phone torch gives the sharpest shadows.
 - **s2 (10 min)**  
   *Parent does:* 1. Players take turns to read a card and try it. 2. Give one minute for each card. 3. Write the points on the score sheet.  
-  *Parent says:* Read your card. How will you do it? Tell us your plan first, then try it.  
-  *Child mode:* Read your card. Say your plan. Then try it.
-  - Ask: How did you make the shadow grow so big? (good: I put my hand near the torch.; Near the torch my hand blocks more light.)
+  *Parent says:* It is your turn. Read your card aloud. How will you do it?  
+  *Child mode:* Tell your plan first. Then make the shadow.
+  - Ask: How did you make the shadow on your card? (good: I thought about where the light was, and moved my hand.; I moved the thing nearer to the torch or nearer to the wall.)
   - Note: Let your child try their own idea first. Only point to the hint on the back if they are stuck after the minute.
 - **s3 (2 min)**  
   *Parent does:* Add up the points. Then ask about the hardest card.  
   *Parent says:* Which card was the hardest? What did you find out from it?  
-  *Child mode:* Which card was hardest? What did you learn?
+  *Child mode:* Think about the card that was hardest.
   - Check: You want your hand's shadow to have a fuzzy edge. Where should you hold your hand? → **Close to the torch**
 ### g2 · Giant, Tiny, Gone! (10 min)
 - **rules:** Put a torch on the floor at one end of a room, pointing at a plain wall about four big steps away.; The caller stands near the torch. The other players stand between the torch and the wall, where they can see their shadows.; The caller holds up the top card and reads it aloud.; The players change their shadows to match the card. The caller reads the back aloud to check.; The first player to get it right keeps the card and becomes the next caller. If nobody gets it right, the caller keeps the card.; The game ends when the cards run out. The player with the most cards wins.
@@ -240,7 +240,7 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Cut out the 8 call cards. 2. Put the torch on the floor at one end of the room, pointing at a plain wall. 3. Move anything that people could trip on.  
   *Parent says:* Stand between the torch and the wall. Can you see your shadow? I will hold up a card. Change your shadow to match it.  
-  *Child mode:* Stand between the torch and the wall. Find your shadow. Watch for the card.
+  *Child mode:* Find your shadow on the wall. Watch for the card.
   - Note: Clear the floor first, because players will rush back and forth in the dim light. Keep the room only dim, not fully dark.
 - **s2 (6 min)**  
   *Parent does:* Hold up the cards one at a time, in any order. Read each one aloud.  
@@ -249,9 +249,9 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   - Ask: To make your shadow giant, did you go towards the torch or the wall? (good: Towards the torch.; Near the torch, I block more of the light.)
   - Note: If a child goes the wrong way, let them look at their shadow and try again. They will soon see the pattern.
 - **s3 (2 min)**  
-  *Parent does:* Sit down together and ask the question below. If the Hide! card did not come up, try it now.  
-  *Parent says:* When you stood behind the caller, your shadow seemed to vanish. Where did it go?  
-  *Child mode:* When you hid behind the caller, where did your shadow go?
+  *Parent does:* If the Hide! card did not come up, try it now. Then sit down together and ask the question below.  
+  *Parent says:* Everyone, hide behind the caller again. Look for your own shadow.  
+  *Child mode:* Hide behind the caller. Is your shadow still there?
   - Ask: Where did your shadow go when you hid behind the caller? (good: It was inside the caller's shadow.; No light reached me, so there was nothing to block.)
   - Note: A strong answer says that the caller was already blocking the light, so the child was standing in the dark and made no new shadow.
 
@@ -263,15 +263,15 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 - **record:** Fill in the results table. Leave the three pencil marks on the paper, with a label next to each: wall, halfway, torch.
 - **results table:** Where the toy stood | My guess: small, middle or big? | How tall the shadow was (centimetres or finger widths) | Sharp or fuzzy edge?
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw the results table on paper, with three rows: near the wall, halfway, near the torch. 2. Show your child the toy. 3. Ask for a guess and a reason for each place.  
-  *Parent says:* We will put this toy in three places between the torch and the wall. Where will its shadow be biggest? Why do you think so?  
-  *Child mode:* Where will the shadow be biggest? Near the wall, halfway, or near the torch? Why?
+  *Parent does:* 1. Rule a results table on paper, with three rows: near the wall, halfway, near the torch. 2. Show your child the toy. 3. Ask for a guess and a reason for each place.  
+  *Parent says:* We will put this toy in three places between the torch and the wall. Make a guess.  
+  *Child mode:* Guess where the shadow will be biggest. Near the wall, halfway, or near the torch?
   - Ask: Why do you think so? (good: Near the wall, because the wall is where the shadow is.; Near the torch, because it blocks more light.; It will be the same, because the toy stays the same.)
   - Note: Any guess is fine if it has a reason. Many children guess the shadow stays the same size, because the toy does not change. Do not explain yet.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* 1. Push the table against a plain wall, or work on the floor next to the wall. 2. Tape the two sheets of paper on the wall, one above the other, starting at the table top. 3. Lay the torch on its side on the table, about one metre from the wall, pointing at the paper. 4. Close the curtains and switch off the room lights.  
-  *Parent says:* This is our test track. The torch must stay exactly here the whole time. Why do you think that matters?  
-  *Child mode:* The torch stays in one place. Only the toy moves.
+  *Parent says:* This is our test track. The torch must stay exactly here the whole time.  
+  *Child mode:* Why must the torch stay still? Only the toy will move.
   - Note: One metre is about two big steps for a child of 7. If you use a phone, prop it against a box so the torch on the back faces the wall. Evening is easiest, with the curtains closed. Keep the torch as low as the table top, so the shadows start at the table. A good answer to the question above is that if the torch moved too, we would not know whether the toy or the torch changed the shadow.
 - **s3 (2 min)**  
   *Parent does:* 1. Put one paper strip half a ruler (about 15 centimetres) from the wall. 2. Put one halfway between the torch and the wall. 3. Put one a whole ruler (about 30 centimetres) from the torch. 4. All three go in a straight line between the torch and the wall.  
@@ -279,24 +279,24 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   *Child mode:* Put the three strips in a line. Near the wall, halfway, near the torch.
 - **s4 (3 min)**  
   *Parent does:* 1. Your child stands the toy on the strip near the wall. 2. They look at the shadow on the paper. 3. They make a pencil mark at the top of the shadow. 4. Write 'wall' next to the mark.  
-  *Parent says:* Stand the toy near the wall. Look at its shadow. Put a small mark at the very top of the shadow.  
-  *Child mode:* Stand the toy near the wall. Mark the top of its shadow.
+  *Parent says:* Stand the toy on the strip near the wall. Look at its shadow.  
+  *Child mode:* Make a small pencil dot at the very top of the shadow. Keep your hand out of the light.
   - Note: Your child must keep their own hand and head out of the light while they mark, or they will add their own shadow. Marking from the side works best.
 - **s5 (3 min)**  
   *Parent does:* 1. Move the toy to the halfway strip, and mark the top of the shadow. Write 'halfway'. 2. Move it to the strip near the torch. Mark the top and write 'torch'. 3. Try each place a second time to check the marks.  
-  *Parent says:* Now move the toy to halfway. Is the shadow changing? Now move it near the torch. What do you see? Look at the edge too.  
-  *Child mode:* Move the toy to halfway. Mark it. Then near the torch. Mark it. Look at the edge.
+  *Parent says:* Now move the toy to halfway, then near the torch. What do you notice about the shadow?  
+  *Child mode:* Mark the top of the shadow each time. Look at the edge too.
   - Ask: What happened to the edge of the shadow near the torch? (good: It went fuzzy.; It was blurry, not sharp.)
   - Note: Near the torch the shadow is much taller, and its edge is soft. Mark the middle of the soft edge. If the shadow goes above the top sheet, tape on a third sheet.
 - **s6 (2 min)**  
   *Parent does:* 1. Switch the room lights back on. 2. Measure each mark from the table top with a ruler, or count finger widths. 3. Write the numbers in the table.  
-  *Parent says:* Let us measure each mark. Which one is tallest? How many times taller is it than the one near the wall?  
-  *Child mode:* Measure each mark. Which is tallest? Write the numbers.
+  *Parent says:* Let us measure each mark. Which one is tallest?  
+  *Child mode:* Write each number in the table. How many times taller is the tallest than the one near the wall?
   - Note: With a toy about 8 centimetres tall and the torch one metre from the wall, expect about 9 or 10 centimetres near the wall, about 16 halfway and about 27 near the torch. Your numbers will be different, but the pattern will be the same.
 - **s7 (3 min)**  
   *Parent does:* Look at the table together. Ask your child what they saw, and why they think it happened. Then read the card Nearer the light, bigger shadow.  
-  *Parent says:* Was your guess right? The toy never changed size. So why did its shadow grow?  
-  *Child mode:* Was your guess right? The toy stayed the same. Why did the shadow grow?
+  *Parent says:* Look at the table. Was your guess right?  
+  *Child mode:* The toy stayed the same size. Compare your guess with your marks.
   - Ask: Why was the shadow biggest near the torch? (good: Near the torch, the toy blocks more of the light.; The light spreads out, so the blocked part gets bigger on the way to the wall.)
   - Note: A strong answer uses the marks: 'Near the wall the shadow was 10 centimetres, near the torch it was 30. The toy blocked more of the light near the torch.'
   - Check: You want a giant shadow of a small toy horse. Where should you put the horse? → **Close to the torch**
@@ -304,12 +304,12 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 - **question:** If two lights shine on one toy from different places, how many shadows will it make, and how dark will they be?
 - **predict:** Guess first. With two lights on, will the toy have one shadow, two shadows, or none? Will they be darker or paler than with one light? Why do you think so?
 - **fair test:** We use the same toy in the same place the whole time. We keep each light in the same spot. We change only which lights are switched on, so we know what made each change.
-- **record:** Fill in the results table. Draw what the wall looked like with both lights on.
+- **record:** Fill in the results table. Take a photo of the wall with both lights on, or tell a grown-up what the wall looked like.
 - **results table:** Which lights are on | My guess: how many shadows? | How many shadows I saw | Dark or pale?
 - **s1 (3 min)**  
-  *Parent does:* 1. Draw the results table with three rows: light A only, both lights, light B only. 2. Ask your child to guess, with a reason.  
-  *Parent says:* We have one toy and two lights. When both lights are on, how many shadows will the toy have? Why do you think so?  
-  *Child mode:* One toy. Two lights. How many shadows? Why?
+  *Parent does:* 1. Rule a results table with three rows: light A only, both lights, light B only. 2. Ask your child to guess, with a reason.  
+  *Parent says:* We have one toy and two lights. Make a guess.  
+  *Child mode:* Guess how many shadows the toy will make with both lights on.
   - Ask: Why do you think so? (good: One, because there is one toy.; Two, because each light makes a shadow.; None, because the second light will light up the shadow.)
   - Note: All three guesses are common. Do not say which is right.
 - **s2 (4 min) · grown-up needed**  
@@ -319,140 +319,140 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
   - Note: If you use phones, a grown-up handles them. A table lamp works as one of the lights if you take off the shade.
 - **s3 (3 min)**  
   *Parent does:* 1. Switch on light A only. 2. Your child counts the shadows and says how dark the shadow is. 3. Write it in the table.  
-  *Parent says:* Light A only. How many shadows? Is it dark or pale?  
-  *Child mode:* Light A only. How many shadows? Dark or pale?
+  *Parent says:* Let us switch on light A only. What do you see on the wall?  
+  *Child mode:* Count the shadows. Is the shadow dark or pale?
 - **s4 (4 min)**  
   *Parent does:* 1. Switch on light B as well. 2. Your child counts the shadows. 3. They look at where the shadows overlap. 4. Write it in the table.  
-  *Parent says:* Now both lights. How many shadows? Are they as dark as before? Look where they cross.  
-  *Child mode:* Both lights on. Count the shadows. Look where they cross.
+  *Parent says:* Now I switch on light B as well. What changes on the wall?  
+  *Child mode:* Count the shadows. Are they as dark as before? Look where they cross.
   - Note: You should see two shadows, each a paler grey than before. Where they overlap, it is dark. If the shadows are on top of each other, move one light a little further to the side. If they do not touch at all, move the lights closer together or the toy closer to the wall.
 - **s5 (3 min)**  
   *Parent does:* 1. Switch off light A, so only light B is on. 2. Your child says which shadow went away, and whether the other got darker. 3. Write it in the table.  
-  *Parent says:* I am switching off light A. Which shadow went away? What happened to the other one?  
-  *Child mode:* Light A is off. Which shadow went? Did the other get darker?
+  *Parent says:* I am switching off light A.  
+  *Child mode:* Which shadow went away? Did the other one get darker?
 - **s6 (3 min)**  
   *Parent does:* Look at the table together. Ask your child what they saw, and why they think it happened. Then read the card Two lights, two shadows.  
-  *Parent says:* How many shadows did the toy have with two lights? Why was each one paler than with one light?  
-  *Child mode:* How many shadows with two lights? Why were they paler?
+  *Parent says:* Look at the table. How many shadows did two lights make?  
+  *Child mode:* Look at the table and say what you found.
   - Ask: Why were the two shadows pale grey and not dark? (good: The other light shone on each shadow.; Light A lit up light B's shadow.)
   - Note: A strong answer: 'Two shadows, one from each light. Each one was pale, because the other light still shone there. Where they crossed, no light got in, so it was dark.'
   - Check: A room has a tube light and a table lamp switched on. How many shadows does a chair in that room make on the floor? → **Two**
 
 ## Activities
 ### a1 · Make a Shadow, Lose a Shadow (8 min)
-- **record:** Draw the three things a shadow needs: a light, a hand and a wall.
+- **record:** Tell a grown-up the three things a shadow needs: a light, something that blocks it, and a wall for the shadow to fall on. You can draw them too.
 - **s1 (2 min)**  
   *Parent does:* 1. Make the room dim. 2. A grown-up points the torch at a plain wall. 3. Your child holds one hand between the torch and the wall.  
-  *Parent says:* Hold your hand in front of the torch. What do you see on the wall?  
-  *Child mode:* Hold your hand in front of the torch. What is on the wall?
+  *Parent says:* Hold your hand in front of the torch. Wiggle your fingers.  
+  *Child mode:* Look at the wall. What do you see?
   - Note: Let your child play with the hand shadow for a moment before asking anything.
 - **s2 (4 min)**  
   *Parent does:* 1. Ask your child to find a way to make the shadow vanish. 2. Then a second way. 3. Then a third way. Give hints only if they are stuck.  
-  *Parent says:* Can you make the shadow disappear? Find a way. Now find another way. Is there a third way?  
-  *Child mode:* Make the shadow vanish. Then find another way. And another.
+  *Parent says:* Can you make the shadow disappear? Is there another way?  
+  *Child mode:* Find three different ways to make the shadow vanish.
   - Ask: What made the shadow vanish? (good: Switching off the torch.; Taking my hand away.; Pointing the torch where there is no wall.)
   - Note: The three ways are: switch off the light, take away the hand, or take away the wall by pointing the torch out of an open window at the night sky. Some children also hide the hand behind the torch, which is the same as taking it away from the light. Stay beside your child at the window and keep them back from the edge or grill.
 - **s3 (2 min)**  
-  *Parent does:* Ask your child to name what a shadow needs.  
+  *Parent does:* Ask your child to name what a shadow needs. Then ask the question below.  
   *Parent says:* So what does a shadow need? How many things?  
-  *Child mode:* What does a shadow need? Count them on your fingers.
+  *Child mode:* Hold up one finger for each thing a shadow needs.
   - Check: You switch off the torch. What happens to your hand shadow? → **It disappears at once**
 ### a2 · Make a Card Shadow Puppet (15 min)
 - **safety:** A grown-up makes the eye hole with a pencil point and helps with the scissors.
-- **record:** Draw your puppet and its shadow side by side. Colour the puppet, and leave the shadow dark.
+- **record:** Take a photo of your puppet and its shadow side by side, or show the family and tell them which parts showed in the shadow.
 - **s1 (4 min)**  
-  *Parent does:* 1. Open out an old box and use the plain inside. 2. Your child draws a big animal outline, about as big as their hand. 3. Choose an animal with a clear shape, such as a crow, an elephant, a fish or a cat.  
-  *Parent says:* Draw an animal as big as your hand. Make the outline clear, with a beak, a trunk or a tail that sticks out. Why do you think the outline matters?  
-  *Child mode:* Draw a big animal. Give it a clear outline.
+  *Parent does:* 1. Open out an old box and use the plain inside. 2. Choose an animal with a clear shape, such as a crow, an elephant, a fish or a cat. 3. Your child draws it about as big as their hand, or traces round a toy animal. 4. Add a face and some stripes inside with a pencil, so you can check later whether they show.  
+  *Parent says:* We will make a puppet. Pick an animal with a part that sticks out, such as a beak, a trunk or a tail. Why do you think the outline matters?  
+  *Child mode:* Draw your animal as big as your hand. You can trace a toy instead.
   - Note: A shadow shows only the outline, so shapes with a trunk, ears, a beak or a tail work best. Colours and faces drawn inside will not show.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Help your child cut along the outline. 2. Poke a small hole for the eye with a sharp pencil. 3. Tape the stick to the back, at the bottom.  
-  *Parent says:* Let us cut along your line. Now we make a hole for the eye. What do you think the hole will look like in the shadow?  
-  *Child mode:* Cut along the line. Make a hole for the eye. What will the hole look like?
+  *Parent says:* Let us cut along your line. Then we make a hole for the eye.  
+  *Child mode:* Guess what the eye hole will look like in the shadow.
   - Note: Help with tight corners like a beak. Make the hole yourself with the pencil point, pushing into a folded cloth or an eraser behind the card.
 - **s3 (4 min)**  
   *Parent does:* 1. Make the room dim. 2. Your child holds the puppet between the torch and the wall. 3. Ask them to look at the colours, the eye and the outline.  
-  *Parent says:* Hold your puppet in the light. Which parts show in the shadow? Did the colours show? What about the eye?  
-  *Child mode:* Hold up your puppet. Which parts show in the shadow? What about the eye?
+  *Parent says:* Hold your puppet between the torch and the wall.  
+  *Child mode:* Look at the shadow. Which parts of the puppet show? Do the stripes and the face show?
   - Ask: Why does the eye show as a dot of light? (good: Light goes through the hole.; The card blocks the light, but the hole lets it through.)
   - Note: Your child sees that the colours do not show, only the outline, and that the eye hole makes a bright dot.
 - **s4 (2 min)**  
   *Parent does:* Ask your child to make the puppet move, grow and shrink.  
-  *Parent says:* Can you make your puppet walk? Can you make it grow huge, then shrink?  
-  *Child mode:* Make your puppet walk. Make it grow. Make it shrink.
+  *Parent says:* Can you make your puppet walk across the wall?  
+  *Child mode:* Now make it grow huge, then shrink. Which way do you move it?
   - Think: If you cut a mouth hole too, what would the shadow look like?
 ### a3 · Which Way Does It Point? (10 min)
-- **record:** Keep the paper. It shows the toy's spot in the middle, four shadow drawings round it, and an arrow showing where the torch was for each one.
+- **record:** Take a photo of the paper. It shows the toy in the middle and four pencils round it. Each pencil lies along a shadow and points away from where the torch was.
 - **s1 (3 min)**  
-  *Parent does:* 1. Lay the paper on the floor and stand the toy in the middle. 2. Make the room dim. 3. Lay the torch on the paper, low down, on one side of the toy, pointing at it. Prop it on a small book to keep it still. 4. Your child draws round the shadow.  
-  *Parent says:* The torch is low, here on this side. Where is the shadow? Draw round it.  
-  *Child mode:* The torch is low on one side. Draw round the shadow.
+  *Parent does:* 1. Lay the paper on the floor and stand the toy in the middle. 2. Make the room dim. 3. Lay the torch on the paper, low down, on one side of the toy, pointing at it. Prop it on a small book to keep it still. 4. Your child lays a pencil on the paper along the shadow, with one end at the toy.  
+  *Parent says:* The torch is low, here on this side. Where is the shadow?  
+  *Child mode:* Lay a pencil along the shadow, starting at the toy.
 - **s2 (4 min)**  
-  *Parent does:* 1. Before each move, ask your child to guess where the shadow will go. 2. Move the torch to the other three sides in turn, and prop it to keep it still. 3. Draw each shadow, and an arrow showing where the torch was.  
+  *Parent does:* 1. Before each move, ask your child to guess where the shadow will go. 2. Move the torch to the other three sides in turn, and prop it to keep it still. 3. Each time, lay a pencil along the new shadow.  
   *Parent says:* Before you move the torch, guess: where will the shadow go now? Why?  
-  *Child mode:* Guess where the shadow will go. Then move the torch and see.
-  - Ask: Where will the shadow go if the torch is in front? (good: Behind the toy.; On the far side, away from the torch.)
+  *Child mode:* Move the torch to the next side. Lay a pencil along the new shadow.
+  - Ask: When the torch is on one side of the toy, which side is the shadow on? (good: On the opposite side of the toy.; On the far side, away from the torch.)
 - **s3 (3 min)**  
   *Parent does:* Hold the torch straight above the toy, pointing down. Ask what happened to the shadow.  
-  *Parent says:* Now the torch is high above the toy. Where is the shadow? Is it long or short?  
-  *Child mode:* Torch high up. Where is the shadow now? Long or short?
+  *Parent says:* Now the torch is high above the toy. Where is the shadow now?  
+  *Child mode:* Look at the bottom of the toy. Is the shadow long or short?
   - Note: With the light straight above, the shadow becomes short and sits round the bottom of the toy, like the shadow under a chair from a ceiling light.
   - Check: The torch is on the left of a toy. Where does the toy's shadow fall? → **On the right of the toy**
 ### a4 · Draw a Shadow Portrait (15 min)
 - **record:** The finished shadow portrait, with the person's name written underneath.
 - **s1 (4 min)**  
   *Parent does:* 1. Tape the paper on the wall at head height for someone sitting. 2. Seat the person side-on, close to the wall. 3. Put the light on the other side, about two big steps away, at the same height as their head.  
-  *Parent says:* Who shall we draw? Sit close to the wall, sideways. Why do you think they should sit close to the wall?  
-  *Child mode:* Pick someone to draw. They sit sideways, close to the wall.
+  *Parent says:* Who shall we draw? Please sit sideways, close to the wall.  
+  *Child mode:* Why do you think the person should sit close to the wall?
   - Note: Sitting close to the wall makes the shadow sharp and about the same size as the real face. The person must keep very still for about two minutes.
 - **s2 (6 min)**  
-  *Parent does:* 1. Your child traces round the shadow with a pencil. 2. Move the light a little if your child's own shadow gets in the way. 3. Then colour the inside dark.  
-  *Parent says:* Trace round the shadow slowly, keeping out of the light. Can you get the nose and the chin?  
-  *Child mode:* Trace round the shadow slowly. Keep out of the light.
+  *Parent does:* 1. Your child traces round the shadow with a pencil. A child who does not like drawing can be the model while a grown-up traces. 2. Move the light a little if your child's own shadow gets in the way. 3. Then colour the inside dark.  
+  *Parent says:* Go slowly. Can you get the nose and the chin?  
+  *Child mode:* Follow the edge of the shadow with your pencil. Keep out of the light.
   - Note: Your child will find their own hand makes a shadow too. Tracing from the side, with the hand low, helps.
 - **s3 (5 min)**  
   *Parent does:* Show the portrait to someone who did not watch it being made. Ask them to guess who it is.  
-  *Parent says:* Can someone who did not watch guess who this is from the outline alone? What gives it away?  
-  *Child mode:* Can someone guess who it is? What gives it away?
+  *Parent says:* Let us see if someone who did not watch can guess who this is.  
+  *Child mode:* Ask someone to guess who it is.
   - Ask: How can you tell who it is, with no eyes or colours? (good: The shape of the nose.; The hair bun.; The chin and the glasses.)
 ### a5 · Shadow Hunt at Home (10 min)
 - **record:** A list of the shadows you found, with the light that made each one, and how many shadows the most-shadowed thing had.
 - **s1 (5 min)**  
   *Parent does:* 1. Walk round the home with your child. 2. For each shadow you find, ask your child to point to the light that made it. 3. Make a tally mark for each shadow.  
-  *Parent says:* Find a shadow. Now point to the light that made it. How do you know it was that light?  
-  *Child mode:* Find a shadow. Point to its light. Make a tally mark.
+  *Parent says:* Let us look for shadows. Find one, and point to the light that made it.  
+  *Child mode:* Make a tally mark for each shadow you find.
   - Ask: How do you know which light made that shadow? (good: The shadow points away from it.; When I cover the light, the shadow goes.)
 - **s2 (5 min)**  
   *Parent does:* 1. At night, switch on two or three lights in one room. 2. Ask your child to find the thing with the most shadows. 3. Count its shadows together.  
-  *Parent says:* Which thing in this room has the most shadows? How many? Why so many?  
-  *Child mode:* Find the thing with the most shadows. Count them. Why so many?
+  *Parent says:* Which thing in this room has the most shadows?  
+  *Child mode:* Count its shadows. Why do you think there are so many?
   - Note: With two or more lights on, chairs and people have one shadow for each light. If sunlight comes in through a window in the day, look at the shadows it makes on the floor too.
 
 ## Projects
 ### p1 · Our Box Theatre Shadow Play (40 min, 2 days)
 - **safety:** A grown-up cuts the window in the box, because cardboard needs a sharp blade or strong scissors.
-- **record:** A drawing or photo of the box theatre, and the names of the three puppets and the story you told.
+- **record:** A photo of the box theatre, and the names of the three puppets and the story you told.
 - **schedule:** day 1: Build the box theatre with its screen, choose a story, and draw and cut three puppets. (20 min); day 2: Practise the play with the torch behind the screen, then perform it for the family. (20 min)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. Stand the box on its side, open end towards you. 2. Cut a big window in the far side, leaving a border of about two fingers. 3. Tape white paper or thin white cloth over the window.  
-  *Parent says:* This will be our theatre. The paper is the screen. Where do you think the light should go: in front of the screen, or behind it?  
-  *Child mode:* This box is our theatre. Where should the light go? In front, or behind?
+  *Parent says:* This will be our theatre. The paper is the screen.  
+  *Child mode:* Where should the light go, in front of the screen or behind it?
   - Note: The light goes behind the screen, with the puppets between the light and the screen. The audience sits in front and sees only shadows.
 - **s2 (12 min)**  
-  *Parent does:* 1. Choose a short story with three characters, such as The Thirsty Crow. 2. Your child draws three puppets on card. 3. Cut them out and tape on the stick handles.  
-  *Parent says:* Which story shall we tell? Who are the three characters? Draw each one with a clear outline.  
-  *Child mode:* Pick a story. Draw three puppets with clear outlines.
+  *Parent does:* 1. Choose a short story with three characters, such as The Thirsty Crow. 2. Your child draws three puppets on card, or traces round a toy, a lid or a spoon. 3. Cut them out and tape on the stick handles.  
+  *Parent says:* Which story shall we tell? Who are the three characters?  
+  *Child mode:* Choose the story. Then make three puppets with clear outlines.
   - Note: In The Thirsty Crow, a crow drops pebbles into a pot until the water rises high enough to drink. The three puppets are a crow, a pot and some pebbles. Only outlines show, so add holes for eyes or for water in the pot.
 - **s3 (10 min)**  
   *Parent does:* 1. On day 2, put the torch on a pile of books about one big step behind the box. 2. Your child holds a puppet between the torch and the screen. 3. Look at the shadow from the front together.  
-  *Parent says:* Hold the crow close to the screen. Now pull it back towards the torch. What happens to the crow's shadow?  
-  *Child mode:* Hold the puppet near the screen. Pull it back to the torch. Watch the shadow.
+  *Parent says:* Hold the crow close to the screen. Now pull it back towards the torch.  
+  *Child mode:* Watch the shadow from the front. What changes?
   - Ask: How can you make the crow look like they are flying far away? (good: Hold the puppet close to the screen, so the shadow gets small and sharp.; Move it away from the torch.)
   - Note: Close to the screen the shadow is small and sharp. Pulled back towards the torch, it grows big and fuzzy. Puppeteers use this to make a character arrive or seem huge.
 - **s4 (10 min)**  
   *Parent does:* 1. Practise the story once. 2. Gather the family in front, and switch off the room lights. 3. Your child performs the play.  
-  *Parent says:* Our show is about to start. Tell the story in your own words while you move the puppets.  
-  *Child mode:* Tell the story. Move the puppets. Enjoy the show!
+  *Parent says:* Our show is about to start.  
+  *Child mode:* You are the puppeteer. Tell the story in your own words and move the puppets.
   - Note: Afterwards, let the audience ask the puppeteer one question about how the shadows were made.
 
 ## Challenges
@@ -465,21 +465,21 @@ Paati blew out the little lamp. "Tomorrow," she said, "we will make Ravana. With
 - **s1 (3 min)**  
   *Parent does:* Read the challenge with your child. Show them the kitchen things they may use.  
   *Parent says:* Only the shadow of your monster will be seen. Which things do you think will make the scariest shadow? Why?  
-  *Child mode:* Only the shadow will show. Which things will make the best shadow? Why?
+  *Child mode:* Pick the kitchen things you want to build with.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Let your child build. Poke the eye holes for them. Help with tape.  
-  *Parent says:* Build your monster. Try it in the light as you go. Is it working?  
-  *Child mode:* Build your monster. Test it in the light as you go.
+  *Parent says:* Let us build your monster. Is its shadow working yet?  
+  *Child mode:* Hold it in front of the torch now and then. Look at the shadow.
   - Note: Let your child test the shadow often. If a fork looks like a thin line, turning it flat towards the torch shows all the prongs.
 - **s3 (5 min)**  
   *Parent does:* Your child shows the monster to the family, making it grow and shrink.  
   *Parent says:* Show us your monster! Make it grow. Make it shrink.  
-  *Child mode:* Show your monster. Make it grow and shrink.
-  - Ask: Why does the strainer make a dotted shadow? (good: It has lots of tiny holes.; Light comes through the holes, and the wire blocks it.)
+  *Child mode:* Make its shadow grow, then shrink. Which way do you move it?
+  - Ask: Why do the eyes show as bright dots in the shadow? (good: The eyes are holes in the monster.; Light goes through the holes, and the rest blocks it.)
 - **s4 (2 min)**  
   *Parent does:* Ask what your child would change next time.  
   *Parent says:* What would you change to make it even better?  
-  *Child mode:* What would you change next time?
+  *Child mode:* Pick one part you would change.
 
 ## Worksheets
 ### Shadows (core) (core, 10 questions)

@@ -159,6 +159,7 @@ document.addEventListener(
   },
   true,
 );
+document.addEventListener("keydown", fxBack);
 document.addEventListener("keydown", (e) => {
   if (e.key === "Enter" && e.target.dataset?.qa !== undefined) {
     e.preventDefault();

@@ -166,18 +166,18 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
   *Child mode:* Look at the animals in the row. Each one needs food.
 - **s2 (9 min)**  
   *Parent does:* Take turns. Turn over a food card, put it under an animal, then read the back aloud. Score 1 for a right match.  
-  *Parent says:* Who eats this food? How does that animal pick up or chew this food?  
-  *Child mode:* Turn over a card. Who eats this food? Put it under that animal.
+  *Parent says:* Which animal eats this food? Tell me how that animal's mouth gets the food.  
+  *Child mode:* Turn over a food card. Put the card under the animal who you think eats that food.
   - Ask: How does the gecko eat a moth? (good: The gecko snaps the moth up fast.; The gecko grips the moth with tiny teeth.)
   - Ask: Why does the grass go to the cow? (good: The cow has flat teeth to chew grass.; Cows eat grass all day.)
 - **s3 (3 min)**  
   *Parent does:* At the end, count the tally marks and look at the row together. Ask which animal got the most cards, and why.  
-  *Parent says:* Look at the row. Which animal got the most food cards, and which got the fewest? Why?  
-  *Child mode:* Which animal got the most food cards? Why?
+  *Parent says:* Look at the row. Which animal got the fewest food cards? Why do you think so?  
+  *Child mode:* Count the food cards under each animal. Then answer the question.
   - Note: If every card was matched right, the crow gets the most, 11 cards. The butterfly gets the fewest, only the flower. An animal that eats many kinds of food gets many cards.
   - Check: Which animal got the most food cards? → **The crow**
 ### g2 · Where Do I Live? A hide-and-seek game (15 min)
-- **rules:** The grown-up hides the 10 cards around the home, each in a place where that animal might really live.; The child searches the home and finds the cards. If a card is hard to find, the grown-up gives a clue.; For each card found, the child says why that animal might live there.; The grown-up then reads aloud what the back of the card says after the word Why.; When all 10 cards are found, put them on a drawing of the home.
+- **rules:** The grown-up hides the 10 cards around the home, each in a place where that animal might really live.; The child searches the home and finds the cards. If a card is hard to find, the grown-up gives a clue.; For each card found, the child says why that animal might live there.; The grown-up then reads aloud what the back of the card says after the word Why.; When all 10 cards are found, put each card back in the room where you found it. Then count them.
 - **Printable cards: 10 animal cards to cut out and hide:** Ant (back: Hide: near a kitchen corner or a crack in the floor. Why: Ants live in cracks, close to crumbs.) [picture]; Gecko (back: Hide: behind a photo frame or a cupboard. Why: Geckos hide in dark gaps in the day.) [picture]; Spider (back: Hide: in a corner of a room, where your child can reach. Why: Spiders make webs in quiet corners where insects fly in.) [picture]; Pigeon (back: Hide: on a low shelf near a window. Why: Pigeons rest on ledges and on air-conditioner boxes.); Mosquito (back: Hide: near a bucket or a plant pot saucer. Why: Mosquitoes lay eggs in still water.) [picture]; Cockroach (back: Hide: under the kitchen sink. Why: Cockroaches like dark, damp places near food.) [picture]; Crow (back: Hide: near the window that looks out at a tree. Why: Crows build nests high up in trees.) [picture]; Moth (back: Hide: near a light. Why: Many moths fly to lights at night.) [picture]; Squirrel (back: Hide: near a window with a tree outside. Why: Squirrels make nests of grass high in trees.) [picture]; Me, a human (back: Hide: on your bed. Why: You live here too!)
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the 10 cards. 2. While your child waits in another room, hide each card in the place written after the word Hide on its back.  
@@ -186,14 +186,14 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
   - Note: Hide every card where your child can reach it. Never hide one on a window ledge outside the grill.
 - **s2 (9 min)**  
   *Parent does:* Your child searches. For each card found, ask why that animal might live there. Read the words after Why aloud.  
-  *Parent says:* You found the gecko behind the photo frame. Why might a gecko live there?  
-  *Child mode:* Find a card. Why does this animal live there? Say why.
+  *Parent says:* You found a card! Which animal is this? Why might this animal live there?  
+  *Child mode:* Find a hidden card. Tell your grown-up why that animal lives in that place.
   - Ask: Why does a gecko hide behind a photo frame? (good: It is dark and safe there.; The gecko can hide there in the day.)
   - Ask: Why do ants live near the kitchen? (good: The food is there.; They eat our crumbs.)
 - **s3 (3 min)**  
-  *Parent does:* Draw a quick plan of your home together. Put each card on the room where it was found.  
-  *Parent says:* Look at our home. How many animals might live here with us?  
-  *Child mode:* Put each card on the drawing of your home. How many animals live here?
+  *Parent does:* Put each card back in the room where it was found. Then count the cards in each room.  
+  *Parent says:* Which room has the most animals? How many animals live here with us?  
+  *Child mode:* Put each card back in the room where you found it. Count the cards in each room.
   - Note: You found all 10 cards, and you are one of them. A real home has even more animals, such as ants and spiders in places you have not looked.
   - Check: Where does a gecko hide in the day? → **Behind a cupboard, in the dark**
 
@@ -203,37 +203,37 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
 - **predict:** Guess first. Which food will need the most chews? Which will need no chewing at all? Why do you think so?
 - **fair test:** Every solid piece is about the size of the top of your thumb. The curd is one small spoon. You chew in your usual way, and the grown-up counts every chew the same way. A grown-up does the same test, so we can compare.
 - **safety:** Sit down to eat, and stay with your child the whole time. Use small pieces and a thin carrot stick. Use only foods your child already eats, and wash hands first. A grown-up cuts the carrot.
-- **record:** Draw your mouth, with thin front teeth and wide back teeth. Next to each food, draw a tally of the chews.
+- **record:** Write the number of chews next to each food. Then show your front teeth and back teeth. Draw your mouth, or take a photo of your smile.
 - **results table:** Food | Which teeth bit it? | How many chews? | Which teeth chewed it?
 - **s1 (5 min)**  
   *Parent does:* 1. Stand at a mirror together. 2. Smile wide. 3. Look at the front teeth, then open wide and look at the back teeth. 4. Touch them gently with a clean finger.  
   *Parent says:* Look at your front teeth. Are they thin or wide? Now look right at the back. What shape are those teeth?  
-  *Child mode:* Look at your front teeth. Are they thin? Look at your back teeth. Are they wide and bumpy?
+  *Child mode:* Smile at the mirror. Find your front teeth. Then open wide and find your back teeth.
   - Ask: How are the front teeth and back teeth different? (good: The front ones are thin and flat, like a knife.; The back ones are big and wide and bumpy.)
   - Note: Many six-year-olds have a gap where a milk tooth fell out. That is fine. A bigger tooth is coming. Ask your child to notice if biting is harder there.
 - **s2 (3 min) · grown-up needed**  
   *Parent does:* 1. Cut one piece each of banana, carrot and chapati, each about the size of the top of your thumb. 2. Put one spoon of curd and a small pinch of puffed rice on the plate. 3. Ask your child to guess, and to say why.  
-  *Parent says:* Which food will need the most chews? Which will need none? Why do you think so?  
-  *Child mode:* Guess. Which food needs the most chews? Which needs none? Why?
+  *Parent says:* Here are five foods. Look at each one. Which one will need the most chewing?  
+  *Child mode:* Point to the food you think needs the most chews. Then point to the food that needs none.
   - Ask: Why do you think so? (good: The carrot is hard, so it needs lots of chews.; Curd is soft, so I can just swallow it.)
   - Note: Write down the guess. Don't say what will happen.
 - **s3 (10 min)**  
-  *Parent does:* 1. Your child eats one food at a time. 2. Before each one, ask which teeth will bite. 3. Count every chew aloud, and make a tally. 4. Ask which teeth did the chewing.  
-  *Parent says:* Take a bite. Did your front teeth or your back teeth bite it? Now chew, and I will count.  
-  *Child mode:* Bite the food. Which teeth bit it? Now chew. Your grown-up counts.
+  *Parent does:* 1. Your child eats one food at a time. 2. Count every chew aloud, and make a tally. 3. After each food, ask which teeth bit it and which teeth chewed it.  
+  *Parent says:* Take a bite. Now chew, and I will count your chews.  
+  *Child mode:* Bite the food and chew it. Notice which teeth bite and which teeth chew.
   - Ask: Which teeth chewed the carrot? (good: My back teeth.; The big ones at the back.)
   - Ask: Did you need to chew the curd? (good: No, I just swallowed it.; Only a little.)
   - Note: Put a finger on your child's cheek near the back teeth while they chew. They can feel the jaw working. Most children find the curd needs almost no chewing and the carrot needs the most.
 - **s4 (5 min)**  
   *Parent does:* Now swap. A grown-up eats the same five foods. Your child counts the grown-up's chews.  
   *Parent says:* Now it is my turn. You count my chews. Will I need more chews than you, or fewer?  
-  *Child mode:* Now count your grown-up's chews. Are they more or fewer than yours?
+  *Child mode:* Count your grown-up's chews out loud.
   - Ask: Did the same food need the most chews for both of us? And the fewest? (good: Yes, curd was fewest and carrot was most.; You needed fewer chews, but the carrot still needed the most.)
   - Note: A grown-up's chew counts are usually a little different, but the order of the foods is often the same. This shows that how much you chew depends on the food, not only on the person.
 - **s5 (2 min)**  
   *Parent does:* Look at the tally together. Ask your child to say what they found.  
-  *Parent says:* What did you find? What did your front teeth do, and what did your back teeth do?  
-  *Child mode:* Tell your grown-up what you found. What do front teeth do? What do back teeth do?
+  *Parent says:* Look at our tally. What did we find out?  
+  *Child mode:* Point to the food with the most chews. Point to the food with the fewest.
   - Ask: What do your front teeth do, and what do your back teeth do? (good: Front teeth bite pieces off.; Back teeth chew the food up small.)
   - Note: Grass is tough, so a cow has to chew a lot. Her wide, flat back teeth grind it small. A good answer says that grass is hard to chew, like the carrot.
   - Check: Which teeth bite a piece off a carrot? → **Front teeth**
@@ -241,62 +241,62 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
 
 ## Activities
 ### a1 · Who Else Lives in Our Home? (10 min)
-- **record:** Draw your home with every animal you found, and yourself.
+- **record:** A list of every animal you found, with yourself added. You can add a drawing or a photo if you like.
 - **s1 (6 min)**  
   *Parent does:* Walk slowly round the home. Look in the kitchen corners, under the sink, by the lights, in high corners and out of the windows. Use the torch for dark places.  
-  *Parent says:* Let's find every animal who lives in our home. Look for the animals, and for signs, like a web or droppings.  
-  *Child mode:* Look for animals in your home. Look in corners and under the sink. Look out of the window too.
-  - Ask: Where did you find the ants? Why do you think they live there? (good: Near the kitchen, because the food is there.; In a crack in the wall.)
+  *Parent says:* How many animals live with us? Let's find out. I will help you look.  
+  *Child mode:* Find every animal you can. Also find signs of animals, like a web or a line of ants.
+  - Ask: Where did you find your first animal? Why might it live there? (good: Near the kitchen, because the food is there.; In a crack in the wall.)
   - Note: Ants, a spider web, a gecko or gecko droppings, a mosquito, a moth or a pigeon on a ledge are the usual finds. Don't touch the animals. Look only. Wash hands afterwards, and do not put a hand into dark gaps.
 - **s2 (4 min)**  
-  *Parent does:* Draw the home together. Put in every animal found. Ask your child who they forgot.  
-  *Parent says:* Draw everyone who lives here. Did you forget anyone?  
-  *Child mode:* Draw every animal you found. Did you forget anyone? Draw yourself too.
-  - Ask: Did you draw yourself? Why should you? (good: Because I am an animal too.; People are animals.)
+  *Parent does:* Make a list together. Your child says every animal found, and you write the names. Ask who they forgot. Then count the list.  
+  *Parent says:* Let's list everyone who lives here. Did we forget anyone? Count yourself too.  
+  *Child mode:* Tell your grown-up every animal you found. Add yourself to the list. Then count the list.
+  - Ask: Did you add yourself to the list? Why should you? (good: Because I am an animal too.; People are animals.)
 ### a2 · Gecko by the Light (if a gecko lives with you) (10 min)
-- **record:** Draw the gecko, the light and any insect the gecko caught.
+- **record:** Tell your family what the gecko did. Or draw the gecko, the light and any insect the gecko caught.
 - **s1 (6 min)**  
   *Parent does:* After dark, switch on the wall light. Sit quietly where you can see the wall near the light. Watch for the gecko and the insects.  
-  *Parent says:* Let's sit very still. Where is the gecko waiting? Is the gecko moving or still?  
+  *Parent says:* Let's wait quietly. The gecko may take a while to come.  
   *Child mode:* Sit very still. Find the gecko. What is the gecko doing?
   - Ask: Why does the gecko wait near the light? (good: Because the moths come to the light.; To catch insects.)
   - Note: Geckos often wait still for a long time, then dash. If no gecko comes tonight, try another night, or look for small black-and-white droppings near the light.
 - **s2 (4 min)**  
-  *Parent does:* Talk about what you saw. Look at how the gecko held on to the wall.  
-  *Parent says:* How did the gecko move? How do you think the gecko stays on the wall without falling?  
-  *Child mode:* How did the gecko move? How does the gecko not fall?
+  *Parent does:* Talk about what you saw. Watch how the gecko moves across the wall.  
+  *Parent says:* Look at the gecko's toes. How do you think the gecko stays on the wall without falling?  
+  *Child mode:* Tell your grown-up how the gecko moved.
   - Ask: How does a gecko climb a wall? (good: Tiny hairs on the toes cling to the wall.; The toes have millions of tiny hairs that hold on.)
   - Note: The gecko most likely learned this. On earlier nights, moths came to this light, and the gecko remembered. Any answer about learning or remembering is a good answer.
   - Think: The gecko waits at the same light every night. How might the gecko know that moths come there?
 ### a3 · Walk or Hop? Watch a bird on the ledge (8 min)
-- **record:** Draw how the bird moved: one-two-one-two footprints for walking, or pairs side by side for hopping.
+- **record:** Tell your family how the bird moved. Or draw the footprints: one-two-one-two for walking, or pairs side by side for hopping.
 - **s1 (5 min)**  
   *Parent does:* An hour before you watch, put a few rice grains on the ledge or the balcony floor. Then stand back from the window and wait quietly. Watch how the bird moves.  
-  *Parent says:* Watch the bird's feet. Does the bird put down one foot, then the other? Or both feet together?  
+  *Parent says:* Stay quiet and watch. Look at how the bird's feet move.  
   *Child mode:* Watch the bird's feet. One foot, then the other? Or both feet together?
   - Ask: Did the bird walk or hop? (good: The pigeon walked, one foot then the other.; The sparrow hopped.)
   - Note: Pigeons and mynas walk, one foot at a time. Pigeons nod their head with each step. Sparrows hop with both feet together. Crows walk and also hop. Stay behind the window grill and never lean out. Birds may not come in five minutes. If none comes, watch again later in the day, or on a short walk outside.
 - **s2 (3 min)**  
   *Parent does:* Now your child tries it. Walk across the room like a pigeon, then hop like a sparrow.  
-  *Parent says:* Now you try. Walk like the pigeon. Now hop like a sparrow. Which is easier for you?  
-  *Child mode:* Walk like a pigeon. Now hop like a sparrow. Which is easier?
+  *Parent says:* Now you try. Be a pigeon, then be a sparrow.  
+  *Child mode:* Walk across the room like a pigeon. Then hop like a sparrow.
   - Ask: Which was easier for you, walking or hopping? Why? (good: Walking, because my legs are long.; Hopping makes me tired fast.)
 
 ## Projects
 ### p1 · Animal Puppet Show: eat, live, move (25 min, 2 days)
 - **record:** A photo or a drawing of your three puppets.
-- **schedule:** day 1: Choose three animals from your home. Draw them on cardboard, cut them out and tape them to sticks. (15 min); day 2: Put on the puppet show for your family. (10 min)
+- **schedule:** day 1: Choose three animals from your home. Make each one on cardboard by drawing it or sticking on a picture. Cut them out and tape them to sticks. (15 min); day 2: Put on the puppet show for your family. (10 min)
 - **s1 (15 min) · grown-up needed**  
-  *Parent does:* 1. Your child chooses three animals who live in or near your home. 2. They draw each one on cardboard, about the size of a hand. 3. A grown-up cuts them out. 4. Tape each one to a stick.  
+  *Parent does:* 1. Your child chooses three animals who live in or near your home. 2. They make each one on cardboard, about the size of a hand: they draw it, or stick on a picture cut from an old magazine. 3. A grown-up cuts out the shapes. 4. Tape each one to a stick.  
   *Parent says:* Which three animals live with us? Let's make a puppet of each one.  
-  *Child mode:* Choose three animals from your home. Draw each one. Your grown-up cuts them out.
+  *Child mode:* Choose three animals from your home. Draw each one, or stick on a picture. Your grown-up cuts them out.
   - Note: Good choices are animals your child has really seen: ants, a gecko, a crow, a pigeon or a spider.
   - Wait: Come back tomorrow for the show.
 - **s2 (10 min)**  
   *Parent does:* Your child holds up each puppet and speaks for that animal. The family asks the puppet questions.  
   *Parent says:* Hello, gecko! What do you eat? Where do you live? How do you move?  
   *Child mode:* Hold up a puppet. Talk like that animal. Say what you eat, where you live and how you move.
-  - Ask: Crow, where do you live, and what do you eat? (good: I live in a nest in a tall tree.; I eat rice, fruit, insects and scraps.)
+  - Ask: Crow, what do you eat? (good: I eat rice, fruit, insects and scraps.; I eat almost anything.)
 
 ## Challenges
 ### c1 · Invent an Animal Who Could Live in Our Flat (20 min)
@@ -308,11 +308,11 @@ Ponni put down her dosa. She picked up her pencil. In the middle of her picture,
 - **s1 (5 min)**  
   *Parent does:* Talk about the animals who already live in the flat. Ask what each one eats, where they hide and how they move.  
   *Parent says:* The gecko, the ants and the spider all live here already. How do they manage it?  
-  *Child mode:* Think about the gecko and the ants. How do they live in your flat?
+  *Child mode:* Say what the gecko eats and where the gecko hides.
 - **s2 (10 min)**  
-  *Parent does:* Your child invents an animal, draws them and makes them from dough or paper.  
+  *Parent does:* Your child invents an animal and makes them from dough or paper. A drawing is also fine.  
   *Parent says:* What will your animal eat? Where will they hide? How will they move around?  
-  *Child mode:* Invent an animal. What do they eat? Where do they hide? How do they move?
+  *Child mode:* Make your animal. Give them a mouth that fits their food.
   - Ask: Why does your animal have that mouth? (good: Because the mouth fits the food.; The long tongue gets the sugar out.)
 - **s3 (5 min)**  
   *Parent does:* Your child shows the family their animal and tells how the animal lives. The family asks one hard question.  

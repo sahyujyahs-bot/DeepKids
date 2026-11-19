@@ -197,18 +197,18 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   *Parent does:* Play six cards with your child as detective. After each guess, ask what moved, then let them turn and look.  
   *Parent says:* Listen. What made that sound? What moved? Turn round and see if you were right.  
   *Child mode:* Listen. What made that sound? What moved? Now turn and look.
-  - Ask: What moved to make the keys jingle? (good: The keys.; The keys hit each other.)
+  - Ask: What moved to make the sound you just heard? (good: The keys hit each other.; The paper ripped apart.)
   - Note: The tricky cards are the breath, the rubbing hands and the plastic bag. If your child is stuck, make the sound once more, a little louder.
 - **s3 (5 min)**  
   *Parent does:* Swap roles for the last six cards. Whisper each card to your child, then close your eyes and guess.  
   *Parent says:* Now you are the sound maker. I will whisper the card to you. Make the sound, and I will guess.  
-  *Child mode:* Now you make the sounds. Can you trick me?
+  *Child mode:* Now you make the sounds. Can I guess what made them?
   - Check: Every time a sound was made in this game, what was happening? → **Something was moving**
 ### g2 · Stamp, Tiptoe, Freeze (8 min)
 - **rules:** The drummer turns a plastic bucket or a big steel vessel upside down, and beats it with a wooden spoon.; The drummer takes a card and plays what it says.; Loud beats: players stamp around with big, heavy steps.; Soft beats: players tiptoe, quiet as a cat.; No sound: players freeze like statues until the next beat.; Anyone who moves in the silence swaps places with the drummer, and the new drummer plays the cards that are left. With one player, the player and the grown-up swap.; The game ends when all eight cards are played. Shuffle them and play again if you like.
 - **Printable cards: 8 drummer cards:** LOUD: 4 big beats; SOFT: 4 tiny beats; STOP: no sound, count to 5; LOUD: 6 big beats; SOFT: 2 tiny beats; LOUD, then SOFT; SOFT, then LOUD; STOP: no sound, count to 5
 - **s1 (1 min)**  
-  *Parent does:* Turn the bucket upside down. Show one loud beat and one soft beat.  
+  *Parent does:* Turn the bucket upside down. Give your child a wooden spoon. Show one loud beat and one soft beat.  
   *Parent says:* This is a loud beat. This is a soft beat. When it is loud, stamp. When it is soft, tiptoe. When it stops, freeze.  
   *Child mode:* Loud: stamp. Soft: tiptoe. No sound: freeze.
 - **s2 (5 min)**  
@@ -218,7 +218,7 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   - Note: Watch whether your child changes their steps as soon as the sound changes. That shows careful listening.
 - **s3 (2 min)**  
   *Parent does:* Let your child be the drummer. Ask how they make a beat loud or soft.  
-  *Parent says:* Now you are the drummer. How will you make a loud beat? How will you make a soft one?  
+  *Parent says:* Now you are the drummer. Play me some loud beats and some soft beats. I will stamp and tiptoe.  
   *Child mode:* You are the drummer now. Make loud beats and soft beats.
   - Ask: How do you make a loud beat? (good: Hit the bucket hard.; Bang it with a big swing.)
   - Ask: How do you make a soft beat? (good: Hit it gently.; Just touch it lightly.)
@@ -229,64 +229,64 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 - **predict:** Look at the four shakers: chana, rice, cotton and nothing. Which will be loudest? Which will be softest? Why do you think so?
 - **fair test:** All four shakers are the same kind of bottle or box. We put in two big spoons of chana and two big spoons of rice. The cotton is two balls, which fill about the same space. The empty one has nothing in it. Only what is inside is different. We shake each one five times, the same way.
 - **safety:** Chana and rice are small. Watch younger children so they do not put them in their mouth, nose or ears. Close the caps tightly.
-- **record:** Draw the four shakers in a line, from the loudest to the softest. Draw big zigzag lines around the loudest one, and tiny lines, or none, around the softest.
+- **record:** Put the four shakers in a line, from the loudest to the softest. Take a photo, or tell your grown-up why you put them in that order. You can also draw the line, with big zigzag lines around the loudest one.
 - **results table:** Shaker | My guess: loud, middle or soft? | What I heard: loud, middle or soft?
 - **s1 (6 min)**  
-  *Parent does:* 1. Put two big spoons of chana in the first bottle, through the paper funnel. 2. Put two big spoons of rice in the second. 3. Push two cotton balls into the third. 4. Leave the fourth empty. 5. Close all the caps tightly.  
-  *Parent says:* We are making four shakers. Each one gets something different inside. Let's draw a picture label for each one.  
-  *Child mode:* Help fill the bottles. Close the caps tight. Draw a picture label for each.
-  - Note: Picture labels help a child who cannot read yet: a bean, a grain of rice, a cloud of cotton and an empty circle.
+  *Parent does:* 1. Put two big spoons of chana in the first bottle, through the paper funnel. 2. Put two big spoons of rice in the second. 3. Push two cotton balls into the third. 4. Leave the fourth empty. 5. Close all the caps tightly. 6. Tape a little of what is inside onto each shaker as a label: one chana, a pinch of rice, a bit of cotton. On the empty one, write EMPTY.  
+  *Parent says:* We are making four shakers. Each one gets something different inside. Let's put a label on each one, so we know which is which.  
+  *Child mode:* Help fill the bottles. Close the caps tight. Tape a little of what is inside onto each one.
+  - Note: These labels help a child who cannot read yet tell the shakers apart: a chana, a pinch of rice, some cotton, and the word EMPTY.
 - **s2 (2 min)**  
   *Parent does:* Put all four shakers on the table. Ask your child to sit very still, lean close and listen for ten seconds.  
-  *Parent says:* Our shakers are sitting on the table. Put your ear close and listen very carefully. Can you hear them?  
-  *Child mode:* Put your ear close to the shakers. Can you hear them?
+  *Parent says:* Our shakers are sitting still on the table. Put your ear close and listen very carefully.  
+  *Child mode:* Put your ear close to the shakers. Listen for ten seconds.
   - Ask: What do you hear? (good: Nothing.; They make no sound when they sit still.)
   - Note: The still shakers are silent. Let your child notice this, and come back to it at the end. Don't explain it yet.
 - **s3 (4 min)**  
-  *Parent does:* 1. Ask your child to put the shakers in a line, from 'will be loudest' to 'will be softest'. 2. Draw or write the guesses in the table. A grown-up writes for a child who cannot write yet.  
-  *Parent says:* Soon you will shake each one. Which will be loudest? Put it at this end. Which will be softest? Put it at the other end. Why do you think so?  
-  *Child mode:* Which shaker will be loudest? Which will be softest? Line them up. Why?
+  *Parent does:* 1. Ask your child to put the shakers in a line, from 'will be loudest' to 'will be softest'. 2. Write the guesses in the table. A grown-up writes for a child who cannot write yet.  
+  *Parent says:* Soon you will shake each one. Put the one you think will be loudest at this end. Put the one you think will be softest at the other end.  
+  *Child mode:* Line up the shakers. Put the one you think is loudest first.
   - Ask: Why did you put that one first? (good: The chana is big and hard.; The rice has lots and lots of grains.)
   - Note: Any guess with a reason is good. Many children think the rice will be loudest, because there are so many grains. Don't say what will happen.
 - **s4 (6 min)**  
-  *Parent does:* 1. Your child shakes each shaker five times, the same way. 2. Hide all four under the dupatta. 3. Your child closes their eyes. 4. Shake one at a time under the dupatta. 5. Each time, your child says loud, middle or soft.  
-  *Parent says:* Shake each one five times. Now close your eyes. I will shake one under the dupatta. Is it loud, middle or soft? Which one do you think it is?  
-  *Child mode:* Shake each one five times. Now close your eyes. Is it loud, middle or soft?
+  *Parent does:* 1. Your child shakes each shaker five times, the same way, and listens. 2. Hide all four shakers under the dupatta. 3. Your child closes their eyes. 4. Shake one shaker five times under the dupatta. 5. Your child says loud, middle or soft, and which shaker they think it was. 6. Do the same with the other three.  
+  *Parent says:* Shake each one five times and listen. Now close your eyes. I will shake one under the dupatta. Is it loud, middle or soft?  
+  *Child mode:* Shake each one and listen. Then close your eyes. Which shaker is hiding?
   - Ask: Which was the loudest? (good: The chana.; The beans were loudest.)
   - Ask: Which was the softest? (good: The cotton.; The empty one made almost no sound.)
   - Note: Usually the chana is loudest, and the rice makes a softer, hissing rattle. The cotton and the empty bottle are nearly silent. If two shakers sound alike, shake them again, one after the other. Write what your child heard in the table.
 - **s5 (3 min)**  
   *Parent does:* 1. Give your child the chana shaker. 2. Ask them to shake it very gently. 3. Then very hard. 4. Then very gently again.  
-  *Parent says:* Now shake the chana shaker very gently. Now shake it hard. Now gently again. What changes?  
-  *Child mode:* Shake it gently. Now shake it hard. What changes?
+  *Parent says:* Now shake the chana shaker very gently. Now shake it hard. Now gently again. What do you notice?  
+  *Child mode:* Shake the chana shaker gently. Then shake it hard. Listen for the difference.
   - Ask: When was it loudest? (good: When I shook it hard.; A hard shake made a big sound.)
   - Check: How do you make the chana shaker louder? → **Shake it harder**
 - **s6 (2 min)**  
   *Parent does:* 1. Open the chana shaker and the cotton shaker. 2. Give your child one chana and one cotton ball. 3. Ask them to tap each one on the table.  
-  *Parent says:* Tap the chana on the table. Now tap the cotton. Which one makes a sound?  
-  *Child mode:* Tap a chana on the table. Now tap the cotton. Which makes a sound?
+  *Parent says:* We want to know why the cotton shaker was so quiet. Tap the chana on the table. Now tap the cotton. Which one makes a sound?  
+  *Child mode:* Tap one chana on the table. Then tap one cotton ball. Listen to each.
   - Ask: What did you hear? (good: The chana goes tak.; The cotton is soft, so it makes almost no sound.)
   - Note: This shows why the cotton shaker was so quiet. Hard things hitting make loud sounds. Soft things hitting make soft sounds.
 - **s7 (2 min)**  
   *Parent does:* Ask your child three things: what they think now, what they heard, and why they think it happened. Write the answers down in your child's words. Then ask what the shakers did while they sat still.  
-  *Parent says:* Tell me three things. What do you think now? What did you hear? Why do you think it happened?  
+  *Parent says:* Tell me three things. What do you think now? What did you hear? Why do you think it happened? And what did the shakers do while they sat still?  
   *Child mode:* Say what you think. Say what you heard. Say why.
   - Note: A strong answer sounds like this. 'The shakers were silent when they sat still. The chana was loudest. Shaking hard made it louder. Hard chana makes a loud sound, and soft cotton makes a soft sound.'
 ### e2 · Soft Landing: what makes a falling spoon quiet? (15 min)
 - **question:** When a steel spoon falls, does what it lands on change how loud the sound is?
 - **predict:** We will drop a spoon onto the bare floor, a folded newspaper, a folded towel and a pillow. Which will be loudest? Which will be softest? Why do you think so?
 - **fair test:** We use the same spoon every time. We drop it from the same height every time: as high as your knee. We let it fall, and never throw it. At the end we change the height on purpose, to see what changes.
-- **record:** Draw the four landing places in a row. Draw big zigzag lines next to the loudest landing, and one tiny line next to the softest.
+- **record:** Say the four landing places in order, from the loudest to the softest. A grown-up writes the order down. You can also draw the four places in a row, with big zigzag lines next to the loudest.
 - **results table:** What the spoon lands on | My guess: loud or soft? | What I heard: loud or soft?
 - **s1 (2 min)**  
   *Parent does:* Lay the folded newspaper, the folded towel and the pillow on the floor in a row. Leave a patch of bare floor next to them.  
   *Parent says:* Here are four landing places for our spoon: the bare floor, the newspaper, the towel and the pillow.  
   *Child mode:* Look at the four landing places. Touch each one.
 - **s2 (3 min)**  
-  *Parent does:* Ask your child to point to the landing that will be loudest, and the one that will be softest. Write or draw the guesses in the table.  
+  *Parent does:* Ask your child to point to the landing that will be loudest, and the one that will be softest. Write the guesses in the table. A grown-up writes for a child who cannot write yet.  
   *Parent says:* Which landing will make the loudest sound? Which will make the softest? Why do you think so?  
-  *Child mode:* Which will be loudest? Which will be softest? Why?
-  - Ask: Why do you think the pillow will be soft? (good: It is squishy.; It is soft, so the spoon will not bang.)
+  *Child mode:* Point to the landing you think will be loudest. Point to the softest.
+  - Ask: Why did you choose that one as the softest? (good: It is squishy.; It is soft, so the spoon will not bang.)
   - Note: Don't say what will happen. Any guess with a reason is good.
 - **s3 (5 min)**  
   *Parent does:* 1. Your child holds the spoon at knee height over each landing place. 2. They let it fall, without throwing. 3. Drop it twice on each one. 4. Your child says loud or soft each time.  
@@ -297,9 +297,8 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   - Note: The bare floor is loudest. The newspaper is a little softer, the towel is softer still, and the pillow is nearly silent.
 - **s4 (3 min)**  
   *Parent does:* 1. Your child drops the spoon on the bare floor from knee height. 2. Then from as high as their shoulder.  
-  *Parent says:* Now drop it on the floor from your knee. Now from your shoulder. Which was louder?  
-  *Child mode:* Drop it from your knee. Now drop it from your shoulder. Which was louder?
-  - Ask: Which drop was louder? (good: From my shoulder.; The higher drop hit the floor harder.)
+  *Parent says:* Now we change one thing on purpose: how high the spoon falls. Drop it on the floor from your knee. Now drop it from your shoulder.  
+  *Child mode:* Drop the spoon on the bare floor from your knee. Then drop it from your shoulder. Listen to both.
   - Check: The spoon was dropped from a knee and from a shoulder. Which drop was louder? → **From the shoulder**
 - **s5 (2 min)**  
   *Parent does:* Ask your child three things: what they think now, what they heard, and why they think it happened. Write the answers down in your child's words.  
@@ -309,7 +308,7 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 
 ## Activities
 ### a1 · One Minute of Listening (8 min)
-- **record:** A sound map: draw yourself in the middle of the page. Around you, draw every sound source you heard. Draw loud ones big and soft ones small.
+- **record:** Your list of sound sources, in order from the loudest to the softest. A grown-up writes it. You can also draw a sound map: yourself in the middle, and each sound source around you, loud ones big and soft ones small.
 - **s1 (2 min)**  
   *Parent does:* 1. Sit with your child somewhere in the home. 2. Both close your eyes. 3. Stay silent for one minute. 4. Your child counts each new sound on their fingers.  
   *Parent says:* Let's close our eyes and be very still for one minute. Each time you hear a new sound, put up one finger.  
@@ -317,25 +316,25 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 - **s2 (3 min)**  
   *Parent does:* Ask your child to name each sound, and what made it. Write a short list.  
   *Parent says:* How many sounds did you hear? Tell me each one. What made that sound? Was it a person, an animal, a thing, or the wind or rain?  
-  *Child mode:* Tell me each sound. What made it?
-  - Ask: What made the whirring sound? (good: The fan.; The fan going round.)
+  *Child mode:* Tell your grown-up each sound you heard. What made each one?
+  - Ask: What made the sound you heard most clearly? (good: The fan.; A crow calling.)
   - Ask: Were there more sounds than you thought? (good: Yes, lots more.; I heard sounds I never noticed.)
   - Note: Good answers in an Indian home: the fan, a pressure cooker, a scooter horn, a crow, a vegetable seller calling, a neighbour's TV, the fridge, our own breathing.
 - **s3 (3 min)**  
-  *Parent does:* Give your child paper and crayons. They draw themselves in the middle, and each sound source around them.  
-  *Parent says:* Draw yourself in the middle. Now draw each thing that made a sound. Make the loud ones big and the soft ones small.  
-  *Child mode:* Draw yourself in the middle. Draw each sound around you. Loud ones big, soft ones small.
+  *Parent does:* Read the list back to your child. Ask which sound was loudest and which was softest. Then ask them to say all the sounds in order, loudest first. Write the new order down.  
+  *Parent says:* Which sound was the loudest? Which was the softest? Now say all of them in order, loudest first.  
+  *Child mode:* Say your sounds in order. Start with the loudest.
 ### a2 · My Body Band (10 min)
-- **record:** Draw the body part that made your favourite sound, with sound lines around it.
+- **record:** Show your family your favourite body sound. Say which part of your body moved to make it.
 - **s1 (3 min)**  
-  *Parent does:* Make these sounds together, one at a time: clap, stamp, pat your knees, click your tongue, hum. After each one, ask what moved.  
+  *Parent does:* Make these sounds together, one at a time: clap, stamp, pat your knees, click your tongue, hum. After each one, ask what moved. For the hum, put your fingers gently on your throat and feel it buzz.  
   *Parent says:* Let's make sounds with our bodies. Clap. Stamp. Pat your knees. Click your tongue. Hum. What moved each time?  
   *Child mode:* Clap. Stamp. Pat your knees. Click your tongue. Hum. What moved?
   - Ask: What moved when you clapped? (good: My hands.; My hands hit each other.)
 - **s2 (4 min)**  
   *Parent does:* Make each sound loud, then soft. For a soft clap, clap with two fingers on your palm.  
   *Parent says:* Now make each sound loud. Now make it soft. How did you make it soft?  
-  *Child mode:* Make each sound loud. Now make it soft. How did you do it?
+  *Child mode:* Make each sound loud. Then make it soft.
   - Ask: How did you make the clap soft? (good: I clapped gently.; I used only two fingers.)
   - Note: Look for the idea that a gentle movement makes a soft sound and a hard movement makes a loud one.
 - **s3 (3 min)**  
@@ -343,7 +342,7 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   *Parent says:* Copy me. Clap, clap, stamp. Now soft clap, soft clap, loud stamp. Now you make one for me to copy. Which parts of yours were loud? What did you do to make them loud?  
   *Child mode:* Copy the pattern. Now make your own for me to copy.
 ### a3 · Who Is Calling? Listening at the window (10 min)
-- **record:** Draw each animal you heard, with their call written next to them by a grown-up.
+- **record:** A list of the animals you heard, with each call written next to the name by a grown-up. You can also draw the callers.
 - **s1 (4 min)**  
   *Parent does:* Stand at a window or a balcony with your child. Listen quietly together for animal sounds. Early morning or evening is best.  
   *Parent says:* Let's listen for animals. Who can you hear? Can you see who is calling?  
@@ -351,22 +350,22 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   - Ask: Who did you hear? (good: A crow.; Pigeons cooing.; A dog barking.)
   - Note: Crows, pigeons, mynas, dogs and cats live in almost every Indian city. If you hear no animals today, listen for people and traffic instead, and try again early tomorrow morning.
 - **s2 (3 min)**  
-  *Parent does:* Copy each call softly together. Ask how the animal makes that sound. If your child is not sure, tell them this. A crow pushes air out from deep in her chest to call.  
-  *Parent says:* Let's copy the crow, softly. Caw. How does a crow make that sound?  
-  *Child mode:* Copy the call softly. How does the animal make that sound?
-  - Ask: How does a crow call? (good: With her mouth.; She pushes air out.)
+  *Parent does:* Copy a call you heard, softly, together. If you heard no animals, copy a crow: caw. Ask how the animal makes that sound. If your child is not sure, tell them this. A crow pushes air out from deep in her chest, and the air makes her call.  
+  *Parent says:* Let's copy one of the calls, softly. How does that animal make that sound?  
+  *Child mode:* Copy the call softly, like the animal.
+  - Ask: How does that animal make the sound? (good: With their beak.; She pushes air out.)
 - **s3 (3 min)**  
-  *Parent does:* Your child draws the callers. You write each call beside its animal.  
-  *Parent says:* Draw each animal you heard. I will write their call next to them.  
-  *Child mode:* Draw each animal you heard.
+  *Parent does:* Your child acts out each animal they heard, with their call and their way of moving. You guess who it is. Then write each call beside the animal's name.  
+  *Parent says:* Act out each animal you heard. Make their call and move like them. I will guess who it is.  
+  *Child mode:* Act out each animal you heard. Make their call and move like them.
 ### a4 · Sound Scavenger Hunt (12 min)
-- **record:** On one half of the paper, draw five sound sources from nature. On the other half, draw five made by people.
+- **record:** On one half of the paper, write five sound sources from nature. On the other half, write five made by people. A grown-up writes for a child who cannot write yet. You can also draw them.
 - **s1 (2 min)**  
-  *Parent does:* Fold the paper in half. Draw a leaf at the top of one half, for nature. Draw a bell at the top of the other, for things people made.  
+  *Parent does:* Fold the paper in half. Write NATURE at the top of one half and PEOPLE at the top of the other.  
   *Parent says:* We are going to hunt for ten sound sources. Five from nature, like rain or a bird. Five made by people, like a bell or a mixie.  
   *Child mode:* Find five sounds from nature. Find five sounds people made.
 - **s2 (8 min)**  
-  *Parent does:* Walk around the home and look out of the windows. Your child draws each sound source they find on the half of the paper where it belongs.  
+  *Parent does:* Walk around the home and look out of the windows. When your child finds a sound source, they say what it is and which half it belongs in. Write its name on that half.  
   *Parent says:* What can you hear? What is making it? Is it from nature, or did people make it?  
   *Child mode:* Listen. What is making that sound? Nature or people?
   - Ask: Is the wind from nature or made by people? (good: Nature.; Nobody makes the wind.)
@@ -379,18 +378,18 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 ## Projects
 ### p1 · My Loud and Soft Sound Book (30 min, 2 days)
 - **record:** The finished book.
-- **schedule:** day 1: Make the book and draw two pages: one loud sound source and one soft sound source on each. (15 min); day 2: Find more sounds and finish the book, then read it to someone and make each sound. (15 min)
+- **schedule:** day 1: Make the book and fill the first two pages: a loud sound source on the left, a soft one on the right. (15 min); day 2: Find more sounds and finish the book, then read it to someone and make each sound. (15 min)
 - **s1 (5 min)**  
   *Parent does:* A grown-up folds the sheets and staples them into a book. Write LOUD at the top of each left page and SOFT at the top of each right page.  
   *Parent says:* We are making a sound book. Each left page is for a loud sound. Each right page is for a soft sound.  
   *Child mode:* Left page: a loud sound. Right page: a soft sound.
 - **s2 (10 min)**  
-  *Parent does:* Your child draws a loud sound source and a soft sound source on the first two pages. Write the names for them.  
-  *Parent says:* Think of a loud sound in our home. Draw what makes it. Now a soft sound. What makes it?  
-  *Child mode:* Draw a loud sound source. Now draw a soft one.
+  *Parent does:* Your child puts a loud sound source on the left page and a soft one on the right page. They can draw it, or stick a picture cut from an old newspaper, or write the name. Write the names for them if needed.  
+  *Parent says:* Think of a loud sound in our home. What makes it? Now think of a soft sound. What makes it? Show each one on its page.  
+  *Child mode:* Loud sound source on the left page. Soft one on the right. Draw, stick or write.
   - Ask: What makes your loud sound loud? (good: It bangs hard.; Lots of air rushes out.)
 - **s3 (15 min)**  
-  *Parent does:* On day 2, your child fills the other pages, then reads the book to a family member. For each page, they make the sound, loud or soft.  
+  *Parent does:* On day 2, your child fills the other pages in the same way, then reads the book to a family member. For each page, they make the sound, loud or soft.  
   *Parent says:* Let's finish the book. Then read it to someone at home, and make each sound as you show them the page.  
   *Child mode:* Finish your book. Read it to someone. Make each sound.
   - Note: Some sounds can be made both loud and soft, like a clap or a drum. If your child notices this, ask how they would draw it.
@@ -405,7 +404,7 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
 - **s1 (2 min)**  
   *Parent does:* Read the problem. Put the tumblers and the plate on the floor in one room, and the tray and towel beside them.  
   *Parent says:* A baby is sleeping in the next room. You must carry these to the kitchen shelf. How can you do it without a clang?  
-  *Child mode:* A baby is sleeping. Carry these without a clang. How will you do it?
+  *Child mode:* Make a plan to carry the tumblers and the plate with no clang.
   - Ask: What makes the loud clang? (good: The tumblers bang together.; Steel hitting steel.)
 - **s2 (7 min)**  
   *Parent does:* Let your child try their ideas. You sit with your eyes closed and listen. Say 'clang' if you hear a loud sound.  
@@ -416,7 +415,7 @@ Arjun looked at the picture. "Akka, can we find more sounds tomorrow?"
   *Parent does:* Ask your child which way was quietest, and why.  
   *Parent says:* Which way was quietest? Why do you think it worked?  
   *Child mode:* Which way was quietest? Why?
-  - Ask: Why did the towel help? (good: Steel landing on a soft towel makes a soft sound.; The tumblers did not bang.)
+  - Ask: Why was that way quiet? (good: Steel landing on a soft towel makes a soft sound.; The tumblers did not bang.)
 
 ## Worksheets
 ### Sound Sources (core) (core, 10 questions)

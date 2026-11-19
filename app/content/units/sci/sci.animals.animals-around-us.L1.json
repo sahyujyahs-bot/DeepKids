@@ -241,7 +241,7 @@
    "title": "Feed Us! A feeding card game",
    "mins": 15,
    "players": "2 to 4 players (a grown-up can be one of them)",
-   "context": "This is a card game about what animals eat. Eight animal cards lie in a row. Players turn over food cards and give each food to an animal who eats that food.",
+   "context": "This is a card game about what animals eat. Eight animal cards lie in a row. Players turn over food cards and give each food to an animal who eats that food. You find out which animals eat many foods and which eat only one.",
    "printables": [
     {
      "kind": "cards",
@@ -422,8 +422,8 @@
      "id": "s2",
      "mins": 9,
      "do": "Take turns. Turn over a food card, put it under an animal, then read the back aloud. Score 1 for a right match.",
-     "say": "Who eats this food? How does that animal pick up or chew this food?",
-     "kid": "Turn over a card. Who eats this food? Put it under that animal.",
+     "say": "Which animal eats this food? Tell me how that animal's mouth gets the food.",
+     "kid": "Turn over a food card. Put the card under the animal who you think eats that food.",
      "ask": [
       {
        "q": "How does the gecko eat a moth?",
@@ -445,8 +445,8 @@
      "id": "s3",
      "mins": 3,
      "do": "At the end, count the tally marks and look at the row together. Ask which animal got the most cards, and why.",
-     "say": "Look at the row. Which animal got the most food cards, and which got the fewest? Why?",
-     "kid": "Which animal got the most food cards? Why?",
+     "say": "Look at the row. Which animal got the fewest food cards? Why do you think so?",
+     "kid": "Count the food cards under each animal. Then answer the question.",
      "check": {
       "t": "mcq",
       "q": "Which animal got the most food cards?",
@@ -467,7 +467,7 @@
    "title": "Where Do I Live? A hide-and-seek game",
    "mins": 15,
    "players": "1 or more children and a grown-up who hides the cards",
-   "context": "This is a hide-and-seek game about animal homes. A grown-up hides animal cards around the flat, each in a place where that animal really might live. The child finds them and says why the animal lives there.",
+   "context": "This is a hide-and-seek game about animal homes. A grown-up hides animal cards around the flat, each in a place where that animal really might live. The child finds them and says why the animal lives there. You find out that animals live near their food and in safe places.",
    "printables": [
     {
      "kind": "cards",
@@ -553,7 +553,7 @@
     "The child searches the home and finds the cards. If a card is hard to find, the grown-up gives a clue.",
     "For each card found, the child says why that animal might live there.",
     "The grown-up then reads aloud what the back of the card says after the word Why.",
-    "When all 10 cards are found, put them on a drawing of the home."
+    "When all 10 cards are found, put each card back in the room where you found it. Then count them."
    ],
    "setup": [
     {
@@ -578,8 +578,8 @@
      "id": "s2",
      "mins": 9,
      "do": "Your child searches. For each card found, ask why that animal might live there. Read the words after Why aloud.",
-     "say": "You found the gecko behind the photo frame. Why might a gecko live there?",
-     "kid": "Find a card. Why does this animal live there? Say why.",
+     "say": "You found a card! Which animal is this? Why might this animal live there?",
+     "kid": "Find a hidden card. Tell your grown-up why that animal lives in that place.",
      "ask": [
       {
        "q": "Why does a gecko hide behind a photo frame?",
@@ -600,9 +600,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Draw a quick plan of your home together. Put each card on the room where it was found.",
-     "say": "Look at our home. How many animals might live here with us?",
-     "kid": "Put each card on the drawing of your home. How many animals live here?",
+     "do": "Put each card back in the room where it was found. Then count the cards in each room.",
+     "say": "Which room has the most animals? How many animals live here with us?",
+     "kid": "Put each card back in the room where you found it. Count the cards in each room.",
      "check": {
       "t": "mcq",
       "q": "Where does a gecko hide in the day?",
@@ -625,7 +625,7 @@
    "title": "The Chewing Test: which teeth do you use for each food?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you look at your own teeth in a mirror. Then you eat five small foods, one at a time. For each one, you notice which teeth bite and which teeth chew, and a grown-up counts your chews.",
+   "context": "In this experiment you look at your own teeth in a mirror. Then you eat five small foods, one at a time. For each one, you notice which teeth bite and which teeth chew, and a grown-up counts your chews. You find out which food needs the most chewing, and what your front and back teeth each do.",
    "question": "Which teeth do you use to bite and to chew each food? Which food needs the most chews?",
    "predict": "Guess first. Which food will need the most chews? Which will need no chewing at all? Why do you think so?",
    "fair_test": "Every solid piece is about the size of the top of your thumb. The curd is one small spoon. You chew in your usual way, and the grown-up counts every chew the same way. A grown-up does the same test, so we can compare.",
@@ -673,7 +673,7 @@
      "what": "Look at your teeth in a mirror. Guess which food needs the most chews. Eat five foods and count the chews. Then a grown-up does the same."
     }
    ],
-   "record": "Draw your mouth, with thin front teeth and wide back teeth. Next to each food, draw a tally of the chews.",
+   "record": "Write the number of chews next to each food. Then show your front teeth and back teeth. Draw your mouth, or take a photo of your smile.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results for one child",
@@ -736,7 +736,7 @@
      "mins": 5,
      "do": "1. Stand at a mirror together. 2. Smile wide. 3. Look at the front teeth, then open wide and look at the back teeth. 4. Touch them gently with a clean finger.",
      "say": "Look at your front teeth. Are they thin or wide? Now look right at the back. What shape are those teeth?",
-     "kid": "Look at your front teeth. Are they thin? Look at your back teeth. Are they wide and bumpy?",
+     "kid": "Smile at the mirror. Find your front teeth. Then open wide and find your back teeth.",
      "ask": [
       {
        "q": "How are the front teeth and back teeth different?",
@@ -753,8 +753,8 @@
      "mins": 3,
      "adult": true,
      "do": "1. Cut one piece each of banana, carrot and chapati, each about the size of the top of your thumb. 2. Put one spoon of curd and a small pinch of puffed rice on the plate. 3. Ask your child to guess, and to say why.",
-     "say": "Which food will need the most chews? Which will need none? Why do you think so?",
-     "kid": "Guess. Which food needs the most chews? Which needs none? Why?",
+     "say": "Here are five foods. Look at each one. Which one will need the most chewing?",
+     "kid": "Point to the food you think needs the most chews. Then point to the food that needs none.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -769,9 +769,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Your child eats one food at a time. 2. Before each one, ask which teeth will bite. 3. Count every chew aloud, and make a tally. 4. Ask which teeth did the chewing.",
-     "say": "Take a bite. Did your front teeth or your back teeth bite it? Now chew, and I will count.",
-     "kid": "Bite the food. Which teeth bit it? Now chew. Your grown-up counts.",
+     "do": "1. Your child eats one food at a time. 2. Count every chew aloud, and make a tally. 3. After each food, ask which teeth bit it and which teeth chewed it.",
+     "say": "Take a bite. Now chew, and I will count your chews.",
+     "kid": "Bite the food and chew it. Notice which teeth bite and which teeth chew.",
      "ask": [
       {
        "q": "Which teeth chewed the carrot?",
@@ -795,7 +795,7 @@
      "mins": 5,
      "do": "Now swap. A grown-up eats the same five foods. Your child counts the grown-up's chews.",
      "say": "Now it is my turn. You count my chews. Will I need more chews than you, or fewer?",
-     "kid": "Now count your grown-up's chews. Are they more or fewer than yours?",
+     "kid": "Count your grown-up's chews out loud.",
      "ask": [
       {
        "q": "Did the same food need the most chews for both of us? And the fewest?",
@@ -811,8 +811,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Look at the tally together. Ask your child to say what they found.",
-     "say": "What did you find? What did your front teeth do, and what did your back teeth do?",
-     "kid": "Tell your grown-up what you found. What do front teeth do? What do back teeth do?",
+     "say": "Look at our tally. What did we find out?",
+     "kid": "Point to the food with the most chews. Point to the food with the fewest.",
      "ask": [
       {
        "q": "What do your front teeth do, and what do your back teeth do?",
@@ -845,10 +845,10 @@
    "title": "Who Else Lives in Our Home?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you walk round your home and look for every animal who lives there, and for signs of them, like a web or an ant line. Count yourself too.",
+   "context": "In this activity you walk round your home and look for every animal who lives there, and for signs of them, like a web or an ant line. You find out how many animals share your home. Count yourself too.",
    "materials": [
     {
-     "item": "paper and crayons",
+     "item": "paper and a pencil",
      "qty": 1
     },
     {
@@ -860,10 +860,10 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Walk round the home. Find animals and signs of animals. Draw them."
+     "what": "Walk round the home. Find animals and signs of animals. Make a list of them."
     }
    ],
-   "record": "Draw your home with every animal you found, and yourself.",
+   "record": "A list of every animal you found, with yourself added. You can add a drawing or a photo if you like.",
    "setup": [
     {
      "art": "A child shining a torch into a dark corner under a kitchen sink, with a grown-up beside her.",
@@ -871,7 +871,7 @@
     },
     {
      "art": "A child's drawing of a flat with ants, a spider web, a gecko, a pigeon at the window and the child herself.",
-     "caption": "2. Draw every animal you found, and yourself."
+     "caption": "2. List every animal you found, and add yourself. A drawing is fine too."
     }
    ],
    "flow": [
@@ -879,12 +879,12 @@
      "id": "s1",
      "mins": 6,
      "do": "Walk slowly round the home. Look in the kitchen corners, under the sink, by the lights, in high corners and out of the windows. Use the torch for dark places.",
-     "say": "Let's find every animal who lives in our home. Look for the animals, and for signs, like a web or droppings.",
-     "kid": "Look for animals in your home. Look in corners and under the sink. Look out of the window too.",
+     "say": "How many animals live with us? Let's find out. I will help you look.",
+     "kid": "Find every animal you can. Also find signs of animals, like a web or a line of ants.",
      "parent": "Ants, a spider web, a gecko or gecko droppings, a mosquito, a moth or a pigeon on a ledge are the usual finds. Don't touch the animals. Look only. Wash hands afterwards, and do not put a hand into dark gaps.",
      "ask": [
       {
-       "q": "Where did you find the ants? Why do you think they live there?",
+       "q": "Where did you find your first animal? Why might it live there?",
        "good": [
         "Near the kitchen, because the food is there.",
         "In a crack in the wall."
@@ -895,12 +895,12 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Draw the home together. Put in every animal found. Ask your child who they forgot.",
-     "say": "Draw everyone who lives here. Did you forget anyone?",
-     "kid": "Draw every animal you found. Did you forget anyone? Draw yourself too.",
+     "do": "Make a list together. Your child says every animal found, and you write the names. Ask who they forgot. Then count the list.",
+     "say": "Let's list everyone who lives here. Did we forget anyone? Count yourself too.",
+     "kid": "Tell your grown-up every animal you found. Add yourself to the list. Then count the list.",
      "ask": [
       {
-       "q": "Did you draw yourself? Why should you?",
+       "q": "Did you add yourself to the list? Why should you?",
        "good": [
         "Because I am an animal too.",
         "People are animals."
@@ -915,7 +915,7 @@
    "title": "Gecko by the Light (if a gecko lives with you)",
    "mins": 10,
    "days": 1,
-   "context": "If a gecko lives in your home, this activity is a chance to watch the gecko at night by a light. You watch where the gecko waits, what the gecko eats and how the gecko moves.",
+   "context": "If a gecko lives in your home, this activity is a chance to watch the gecko at night by a light. You find out why the gecko waits there and how the gecko stays on the wall.",
    "materials": [
     {
      "item": "a room with a wall light or a tube light, after dark",
@@ -929,7 +929,7 @@
      "what": "After dark, watch the gecko by the light for 10 minutes."
     }
    ],
-   "record": "Draw the gecko, the light and any insect the gecko caught.",
+   "record": "Tell your family what the gecko did. Or draw the gecko, the light and any insect the gecko caught.",
    "setup": [
     {
      "art": "A dark room with a tube light on, moths flying round it, and a gecko on the wall nearby.",
@@ -945,7 +945,7 @@
      "id": "s1",
      "mins": 6,
      "do": "After dark, switch on the wall light. Sit quietly where you can see the wall near the light. Watch for the gecko and the insects.",
-     "say": "Let's sit very still. Where is the gecko waiting? Is the gecko moving or still?",
+     "say": "Let's wait quietly. The gecko may take a while to come.",
      "kid": "Sit very still. Find the gecko. What is the gecko doing?",
      "parent": "Geckos often wait still for a long time, then dash. If no gecko comes tonight, try another night, or look for small black-and-white droppings near the light.",
      "ask": [
@@ -961,9 +961,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Talk about what you saw. Look at how the gecko held on to the wall.",
-     "say": "How did the gecko move? How do you think the gecko stays on the wall without falling?",
-     "kid": "How did the gecko move? How does the gecko not fall?",
+     "do": "Talk about what you saw. Watch how the gecko moves across the wall.",
+     "say": "Look at the gecko's toes. How do you think the gecko stays on the wall without falling?",
+     "kid": "Tell your grown-up how the gecko moved.",
      "ask": [
       {
        "q": "How does a gecko climb a wall?",
@@ -983,7 +983,7 @@
    "title": "Walk or Hop? Watch a bird on the ledge",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you watch a bird on a window ledge, a balcony rail or the road. You look at how the bird moves on their feet: walking one foot at a time, or hopping with both feet together.",
+   "context": "In this activity you watch a bird on a window ledge, a balcony rail or the road. You find out if the bird walks one foot at a time, or hops with both feet together.",
    "materials": [
     {
      "item": "a window or balcony where birds come, or a short walk outside",
@@ -1001,7 +1001,7 @@
      "what": "Put out a few grains of rice. Watch a bird and see if the bird walks or hops."
     }
    ],
-   "record": "Draw how the bird moved: one-two-one-two footprints for walking, or pairs side by side for hopping.",
+   "record": "Tell your family how the bird moved. Or draw the footprints: one-two-one-two for walking, or pairs side by side for hopping.",
    "setup": [
     {
      "art": "A few rice grains on a window ledge, and a pigeon walking towards them with one foot forward.",
@@ -1017,7 +1017,7 @@
      "id": "s1",
      "mins": 5,
      "do": "An hour before you watch, put a few rice grains on the ledge or the balcony floor. Then stand back from the window and wait quietly. Watch how the bird moves.",
-     "say": "Watch the bird's feet. Does the bird put down one foot, then the other? Or both feet together?",
+     "say": "Stay quiet and watch. Look at how the bird's feet move.",
      "kid": "Watch the bird's feet. One foot, then the other? Or both feet together?",
      "parent": "Pigeons and mynas walk, one foot at a time. Pigeons nod their head with each step. Sparrows hop with both feet together. Crows walk and also hop. Stay behind the window grill and never lean out. Birds may not come in five minutes. If none comes, watch again later in the day, or on a short walk outside.",
      "ask": [
@@ -1034,8 +1034,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Now your child tries it. Walk across the room like a pigeon, then hop like a sparrow.",
-     "say": "Now you try. Walk like the pigeon. Now hop like a sparrow. Which is easier for you?",
-     "kid": "Walk like a pigeon. Now hop like a sparrow. Which is easier?",
+     "say": "Now you try. Be a pigeon, then be a sparrow.",
+     "kid": "Walk across the room like a pigeon. Then hop like a sparrow.",
      "ask": [
       {
        "q": "Which was easier for you, walking or hopping? Why?",
@@ -1062,7 +1062,7 @@
      "qty": 1
     },
     {
-     "item": "crayons or sketch pens",
+     "item": "crayons or sketch pens, or old magazine pictures",
      "qty": 1
     },
     {
@@ -1078,7 +1078,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Choose three animals from your home. Draw them on cardboard, cut them out and tape them to sticks."
+     "what": "Choose three animals from your home. Make each one on cardboard by drawing it or sticking on a picture. Cut them out and tape them to sticks."
     },
     {
      "day": 2,
@@ -1090,7 +1090,7 @@
    "setup": [
     {
      "art": "A child colouring a gecko, an ant and a crow drawn on cardboard, with a grown-up cutting one out.",
-     "caption": "1. Draw three animals, cut them out and tape them to sticks."
+     "caption": "1. Make three animals on cardboard, cut them out and tape them to sticks."
     },
     {
      "art": "A child behind a table holding up a crow puppet, with family watching.",
@@ -1102,9 +1102,9 @@
      "id": "s1",
      "mins": 15,
      "adult": true,
-     "do": "1. Your child chooses three animals who live in or near your home. 2. They draw each one on cardboard, about the size of a hand. 3. A grown-up cuts them out. 4. Tape each one to a stick.",
+     "do": "1. Your child chooses three animals who live in or near your home. 2. They make each one on cardboard, about the size of a hand: they draw it, or stick on a picture cut from an old magazine. 3. A grown-up cuts out the shapes. 4. Tape each one to a stick.",
      "say": "Which three animals live with us? Let's make a puppet of each one.",
-     "kid": "Choose three animals from your home. Draw each one. Your grown-up cuts them out.",
+     "kid": "Choose three animals from your home. Draw each one, or stick on a picture. Your grown-up cuts them out.",
      "parent": "Good choices are animals your child has really seen: ants, a gecko, a crow, a pigeon or a spider.",
      "wait": "Come back tomorrow for the show."
     },
@@ -1116,10 +1116,10 @@
      "kid": "Hold up a puppet. Talk like that animal. Say what you eat, where you live and how you move.",
      "ask": [
       {
-       "q": "Crow, where do you live, and what do you eat?",
+       "q": "Crow, what do you eat?",
        "good": [
-        "I live in a nest in a tall tree.",
-        "I eat rice, fruit, insects and scraps."
+        "I eat rice, fruit, insects and scraps.",
+        "I eat almost anything."
        ]
       }
      ]
@@ -1158,7 +1158,7 @@
    "setup": [
     {
      "art": "A child drawing a made-up animal with long sticky toes and a thin tongue on a sheet of paper.",
-     "caption": "1. Draw your animal. Decide their food, their home and how they move."
+     "caption": "1. Decide what your animal eats, where they hide and how they move."
     },
     {
      "art": "A dough animal with matchstick legs sitting next to a drawing of the flat, with an arrow to a hiding place behind the cupboard.",
@@ -1171,14 +1171,14 @@
      "mins": 5,
      "do": "Talk about the animals who already live in the flat. Ask what each one eats, where they hide and how they move.",
      "say": "The gecko, the ants and the spider all live here already. How do they manage it?",
-     "kid": "Think about the gecko and the ants. How do they live in your flat?"
+     "kid": "Say what the gecko eats and where the gecko hides."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child invents an animal, draws them and makes them from dough or paper.",
+     "do": "Your child invents an animal and makes them from dough or paper. A drawing is also fine.",
      "say": "What will your animal eat? Where will they hide? How will they move around?",
-     "kid": "Invent an animal. What do they eat? Where do they hide? How do they move?",
+     "kid": "Make your animal. Give them a mouth that fits their food.",
      "ask": [
       {
        "q": "Why does your animal have that mouth?",

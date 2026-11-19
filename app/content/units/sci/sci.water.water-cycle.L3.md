@@ -314,9 +314,9 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Child mode:* You are a drop of water! Put the 8 cards round the room. Put beads by each card. Tie a knot in your string.
 - **s2 (3 min)**  
   *Parent does:* Everyone starts at the SEA with a blue bead. Do the first roll together as practice.  
-  *Parent says:* Most of Earth's water is in the sea, so that's where we start. Roll the dice and read the SEA card. Where do you go?  
+  *Parent says:* Most of Earth's water is in the sea, so that is where every drop starts. Practise one roll together.  
   *Child mode:* Start at the SEA. Take a blue bead. Roll the dice. Read the card. Where do you go?
-  - Check: In the game, you go from the SEA to a CLOUD. What is that change called? → **Evaporation**
+  - Check: Say you roll a 4 and go from the SEA to a CLOUD. What is that change called? → **Evaporation**
 - **s3 (12 min)**  
   *Parent does:* 1. Take turns to roll and move. 2. At each place, the player threads a bead and says the name of the change. 3. Fill in the score sheet together.  
   *Parent says:* Remember to say the name of the change as you move. Cloud to sea is precipitation, falling as rain. Plant to cloud is transpiration.  
@@ -326,12 +326,12 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Note: The dice chances are a rough copy of the real world. Water stays in the sea and in ice for a long time, so those cards often say 'stay'. A cloud lets water go fast, because water stays in the air only about 9 days. Rain mostly falls back into the sea, because the sea covers most of the Earth.
 - **s4 (4 min)**  
   *Parent does:* After 10 turns each, lay the bracelets side by side and compare.  
-  *Parent says:* Look at all our bracelets. Is any journey the same as another? Which colour do you have most of?  
+  *Parent says:* Lay all our bracelets side by side. Every drop took its own journey.  
   *Child mode:* Look at your bracelet. Which colour do you have most of? Is anyone's bracelet the same as yours?
   - Check: In the game, nobody's bracelet was quite the same. What does that show about the real water cycle? → **Every drop takes its own path, but they all keep going round**
 - **s5 (2 min)**  
   *Parent does:* Let each player wear their bracelet and tell their drop's story in three sentences.  
-  *Parent says:* Tell me your drop's story, using your beads. Start with 'I began in the sea.'  
+  *Parent says:* I would like to hear where your drop has been.  
   *Child mode:* Wear your bracelet. Tell your drop's story. Start with: I began in the sea.
   - Think: The water in your glass today has also been to many places. Which places might it have been to?
 ### g2 · Sun, Cold, Heavy! The molecule game (15 min)
@@ -345,12 +345,12 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **s2 (9 min) · grown-up needed**  
   *Parent does:* 1. Turn over a card and shout it. 2. Watch who does it right. 3. The last one becomes the next caller. 4. Play all 12 cards.  
   *Parent says:* SUN! Jiggle fast and spread out! You've evaporated. You're vapour now, invisible gas, all over the room.  
-  *Child mode:* Listen! Do the call as fast as you can. Sun means spread out. Cold means hold hands. Heavy means fall!
+  *Child mode:* Listen! Do the call as fast as you can. Sun means spread out. Cold means hold hands. Heavy means fall! The card tells you what to do for the others.
   - Note: Keep the running gentle on a smooth floor. The big ideas to look for: heat spreads molecules apart into a gas. Cold brings them together into drops. Drops join until they are heavy enough to fall. Salt never flies with the vapour. The SPECK card shows that cloud drops need a speck to form on.
   - Check: In the game, the call was 'COLD!' and molecules held hands. What real change was that? → **Condensation: vapour turning back into drops**
 - **s3 (3 min)**  
   *Parent does:* Sit down together. Each player names one change they acted out, and says its name.  
-  *Parent says:* Which change did you like acting most? What is its real name?  
+  *Parent says:* You acted out real changes in water. Let us name them.  
   *Child mode:* Sit down. Which call did you like best? What is its real name?
   - Think: When the SALT player could not fly with the vapour, what did that show about rain?
 
@@ -360,12 +360,12 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **predict:** Guess first. When the drops form on the cling film, will they taste salty, a little salty, or not salty at all? Why do you think so?
 - **fair test:** Use the same salty water for everything. Taste a tiny drop of the salty water at the start, so you can compare. Collect the drops only from the cup, not from the bowl.
 - **safety:** Use clean dishes, so the water is safe to taste. Taste only a drop or two. Do not drink the salty water. Glass bowls get hot in the sun, so a grown-up should lift them.
-- **record:** Fill in the table at the start, after 30 minutes and at the end. Draw your still, with arrows showing where the water went.
+- **record:** Fill in the table at the start, after 30 minutes and at the end. Draw your still, with arrows showing where the water went. Or point to each part and tell your grown-up where the water went.
 - **results table:** Time | What I see on the cling film | How much water is in the cup | Taste: salty or not salty?
 - **s1 (5 min)**  
   *Parent does:* 1. Stir 2 teaspoons of salt into 2 cups of warm water until the salt disappears. 2. Let your child taste one drop on a fingertip. 3. Pour all the salty water into the big bowl.  
-  *Parent says:* This is our sea. Taste one tiny drop. Salty, isn't it? Real sea water is even saltier, about 6 teaspoons in every litre.  
-  *Child mode:* Stir 2 spoons of salt into 2 cups of warm water. Taste one tiny drop. Salty! Pour it into the big bowl. This is your sea.
+  *Parent says:* This is our sea. Real sea water is even saltier, about 6 teaspoons in every litre.  
+  *Child mode:* Stir 2 teaspoons of salt into 2 cups of warm water. Taste one tiny drop. Salty! Pour it into the big bowl. This is your sea.
   - Ask: Where do you think the salt went when you stirred it? (good: It dissolved. It is still in the water, in pieces too small to see.; It is hiding in the water.)
 - **s2 (5 min)**  
   *Parent does:* 1. Stand the small cup in the middle of the bowl. Its rim must be above the salty water, and no salty water may get in. 2. Stretch cling film tightly over the bowl and seal the edges. 3. Put the pebble on the film, right above the cup, so the film dips down to a point. 4. Put the bowl in full sun.  
@@ -374,13 +374,13 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Note: Late morning to mid-afternoon on a sunny day works best. A dark bowl, warm water and a tight seal all help. The film must dip down over the cup but not touch the water.
 - **s3 (5 min)**  
   *Parent does:* After about 30 minutes, look closely at the underside of the cling film. Do not open it.  
-  *Parent says:* Look underneath the film. What do you see? Where did those drops come from?  
-  *Child mode:* After 30 minutes, look under the film. Do not open it! What do you see?
+  *Parent says:* Look underneath the film. Tell me what you see.  
+  *Child mode:* After 30 minutes, look under the film. Do not open it! Are there drops?
   - Check: Drops have formed on the underside of the cling film over the bowl. Where did they come from? → **Water evaporated from the bowl and condensed on the film**
   - Wait: Leave the still in the sun for 3 to 4 hours.
 - **s4 (7 min) · grown-up needed**  
   *Parent does:* 1. After 3 to 4 hours, tap the film gently. The last drops run down to the point and drip into the cup. 2. Peel back the film carefully. 3. Lift out the cup without spilling any salty water into it. 4. Each person tastes one drop from the cup.  
-  *Parent says:* Let's taste the water in the cup. Remember, the sea water was salty. Is this?  
+  *Parent says:* Let's taste the water in the cup. Remember, the sea water was salty.  
   *Child mode:* Tap the film so the drops fall in the cup. Lift the cup out carefully. Taste one drop. Is it salty?
   - Note: On a hot, sunny day, you may get one to four teaspoons in the cup. It should taste of plain water. If it tastes salty, some salty water splashed into the cup, so try again more carefully. On a cloudy day, a grown-up can set the bowl over a pan of hot water and put a bag of ice cubes on the film in place of the pebble. Drops form within 10 minutes.
   - Check: In the Sea in a Bowl experiment, the water in the cup does not taste salty. Why? → **Only the water evaporated. The salt stayed in the bowl.**
@@ -388,7 +388,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Parent does:* Compare your still with the real water cycle. Point to each part.  
   *Parent says:* The salty water is the sea. The Sun is the Sun. The film is like the cold sky, and the drops are like clouds. The drips into the cup are rain. The drips are fresh because the salt stayed in the bowl. Rain is fresh for the same reason: the salt stays in the sea.  
   *Child mode:* Your bowl is the sea. The film is the cold sky. The drops are a cloud. The drips are rain. That is why rain is not salty!
-  - Think: Sea water is salty, but rain is fresh. Where does the salt that stays behind in the sea come from?
+  - Think: Rain is fresh, but the sea is salty. Where does the sea's salt come from?
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -399,15 +399,15 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **predict:** Guess first. Will a cloud form better with smoke in the jar, or without smoke? Why do you think so?
 - **fair test:** Do it twice. Use the same jar, the same amount of hot water and the same ice both times. Change only one thing: smoke or no smoke. Look at the jar against a dark cloth both times.
 - **safety:** A grown-up pours the hot water and lights the agarbatti or match. Very hot water can crack thin glass, so let it cool for 2 minutes first, and stand the jar on a cloth. Do it near an open window.
-- **record:** Fill in the table for both tries. Draw the jar with the cloud, and label the warm water, the vapour, the cold lid and the smoke specks.
+- **record:** Fill in the table for both tries. Take a photo of each try. Then point to the warm water, the vapour, the cold plate and the smoke specks, and tell your grown-up what each one does.
 - **results table:** Try | Smoke or no smoke? | How thick was the cloud: none, thin or thick? | What happened when I lifted the plate?
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Hang the dark cloth behind the jar. 2. A grown-up pours hot water into the jar, about 3 fingers deep. 3. Swirl it gently so the warm water wets the sides. 4. Put the steel plate on top with the ice cubes on it.  
-  *Parent says:* The warm water is our sea on a hot day. The ice on top is the cold sky, high up. Watch the top of the jar carefully.  
+  *Parent says:* The warm water is our sea on a hot day. The ice on top is the cold sky, high up.  
   *Child mode:* Ask a grown-up to pour hot water into the jar. Put the steel plate on top. Put ice on the plate. Watch the top of the jar.
 - **s2 (3 min)**  
   *Parent does:* Watch for 1 minute. Shine a torch through the side if you have one. Note how thick the mist is.  
-  *Parent says:* Do you see a little mist under the plate? Is it thick or thin?  
+  *Parent says:* The mist is made of tiny drops of water. Look for it just under the plate.  
   *Child mode:* Watch for one minute. Shine a torch through the side. Is there mist? Is it thick or thin?
   - Note: You may see a thin mist, or drops on the underside of the plate. That is fine. The next step usually makes it much thicker.
 - **s3 (5 min) · grown-up needed**  
@@ -418,7 +418,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Check: In the Cloud in a Jar experiment, why did the smoke make a thicker cloud? → **Vapour condensed onto the tiny smoke specks, making many more drops**
 - **s4 (3 min)**  
   *Parent does:* Lift the plate off and watch the cloud float out of the jar.  
-  *Parent says:* Let's let our cloud go. Watch it. Where does it go after it leaves the jar?  
+  *Parent says:* Let's let our cloud go. Watch it closely.  
   *Child mode:* Lift the plate. Your cloud floats out! Watch it. Where does it go?
   - Think: The cloud vanished when it left the jar. Did its water disappear, or go somewhere?
 - **s5 (5 min)**  
@@ -430,7 +430,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **question:** Do plants put water into the air?
 - **predict:** Guess first. If you tie a clear bag over a leafy branch, will water appear inside it? Will it appear in an empty bag tied up in the same place? Why do you think so?
 - **fair test:** Use two bags of the same kind. Tie one over a leafy branch. Seal the other with only air inside, and tie it to a bare stick or a bare branch next to the first. Leave both in the same sunny place for the same time.
-- **record:** Fill in the table. Draw the branch in its bag, with arrows showing water going up the stem and out of the leaves.
+- **record:** Fill in the table. Take a photo of both bags. Then tell your grown-up how the water got from the roots, up the stem and out of the leaves into the bag.
 - **results table:** Bag | After 1 hour | After 3 hours | How much water I collected
 - **s1 (8 min)**  
   *Parent does:* 1. Water the plant well, an hour before you start if you can. 2. Choose a leafy branch in the sun. 3. Slip a clear bag over 8 to 10 leaves. 4. Tie it gently but tightly around the stem with a rubber band. 5. Seal the second bag with only air inside and tie it to a bare stick beside the plant.  
@@ -439,7 +439,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Ask: Why do we need the empty bag too? (good: To check the water comes from the leaves, not from the air.; So we can compare.)
 - **s2 (4 min)**  
   *Parent does:* After about 1 hour, look at both bags. Do not open them.  
-  *Parent says:* Look at the bag on the leaves. Is it misty? Now look at the empty bag. What's different?  
+  *Parent says:* Look at the bag on the leaves first. Then look at the empty bag.  
   *Child mode:* After one hour, look at both bags. Which one is misty inside?
   - Note: On a sunny day the leaf bag usually turns misty within an hour. The empty bag stays clear. On a cool or cloudy day it may take two or three hours.
 - **s3 (8 min)**  
@@ -457,7 +457,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **question:** When a cold tumbler gets wet on the outside, where does the water come from?
 - **predict:** Guess first. If we put coloured water and ice inside a steel tumbler, what colour will the drops on the outside be? Why do you think so?
 - **fair test:** Use two tumblers of the same kind, side by side. Fill one with ice and coloured water. Fill the other with the same amount of coloured water at room temperature. Wipe both dry and check them after the same time.
-- **record:** Fill in the table. Draw the cold tumbler, with arrows showing water coming from the air onto it.
+- **record:** Fill in the table. Take a photo of both tumblers. Then tell your grown-up where the drops on the cold tumbler came from.
 - **results table:** Tumbler | Wet or dry outside after 5 minutes? | Colour of the drops on the outside | Taste of the drops: plain or salty?
 - **s1 (4 min)**  
   *Parent does:* 1. Stir a few drops of food colour, or a pinch of turmeric, into a jug of water. 2. Half fill tumbler A with ice, then top it up with the coloured water. 3. Fill tumbler B with the coloured water only. 4. Stir a pinch of salt into both. 5. Wipe the outsides completely dry.  
@@ -465,14 +465,14 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Child mode:* Colour some water with turmeric. Fill one tumbler with ice and coloured water. Fill the other with just coloured water. Add a pinch of salt to both. Wipe them dry.
 - **s2 (5 min)**  
   *Parent does:* Wait 5 minutes. Then run a dry fingertip down the outside of each tumbler. Look at the drops and wipe some onto white paper.  
-  *Parent says:* Which tumbler is wet on the outside? What colour are the drops on the paper?  
+  *Parent says:* Compare the outsides. The water inside is coloured. Will the drops outside be coloured too?  
   *Child mode:* Wait 5 minutes. Run a finger down each tumbler. Which is wet? Wipe a drop on white paper. What colour is it?
   - Note: On a humid day, the cold tumbler gets covered in drops within a minute or two. On a very dry winter day there may be only a little mist. Then breathe on it, and watch the mist appear. The drops on the paper will be clear, not yellow or coloured.
 - **s3 (3 min)**  
   *Parent does:* Let your child taste one drop from the outside of the cold tumbler.  
-  *Parent says:* The water inside is salty. Taste a drop from the outside. Is it salty too?  
+  *Parent says:* The water inside is salty. That is a clue about where the drops came from.  
   *Child mode:* Taste one drop from the outside of the cold tumbler. Is it salty, like the inside?
-  - Check: In the Cold Tumbler experiment, the drops on the outside are clear and not salty, though the water inside is coloured and salty. Where did they come from? → **Water vapour in the air condensed on the cold tumbler**
+  - Check: In the Cold Tumbler experiment, the drops on the outside are clear and not salty. The water inside is coloured and salty. Where did the drops come from? → **Water vapour in the air condensed on the cold tumbler**
 - **s4 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
@@ -496,8 +496,8 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Note: On a hot summer day, the sunny plate often dries in about 30 to 45 minutes. The fan plate is usually next, and the shade plate takes much longer. The narrow glass usually takes the longest, often until the next day. In cool or humid weather everything is slower, so use 1 teaspoon instead.
 - **s3 (5 min)**  
   *Parent does:* Help your child draw a bar chart, with one bar for each place.  
-  *Parent says:* Each place gets one bar. The taller the bar, the longer that water took to evaporate. Which bar is the shortest?  
-  *Child mode:* Draw one bar for each place. Make it as tall as its minutes. The shortest bar won the race!
+  *Parent says:* Each place gets one bar. The taller the bar, the longer that water took to evaporate.  
+  *Child mode:* Make one bar for each place. Draw it, or stack coins or blocks. Make it as tall as its minutes. The shortest bar won the race!
   - Check: In the Evaporation Race bar chart, the shortest bar shows the place where water… → **Evaporated fastest**
 - **s4 (5 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -507,56 +507,56 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 
 ## Activities
 ### a1 · The Vanishing Handprint (10 min)
-- **record:** Draw your handprint at the start and after one minute. Write one thing you noticed and one thing you wonder.
+- **record:** Take a photo of your handprint at the start and after one minute, or draw it. Say or write one thing you noticed and one thing you wonder.
 - **s1 (4 min)**  
   *Parent does:* 1. Dip your child's hand in water and shake it once. 2. Press it flat on a dry tile in the sun. 3. Make a second print on a tile in the shade. 4. Count slowly together and watch both prints.  
-  *Parent says:* Let's watch your handprints. Which one starts to fade first? Watch the fingers and the edges.  
+  *Parent says:* Let's watch your handprints. Look at the fingers and the edges first.  
   *Child mode:* Wet your hand. Press it on a tile in the sun. Press it again in the shade. Count slowly. Which print fades first?
   - Ask: What do you notice? (good: The fingers go first.; The sunny one goes faster.; It shrinks from the edges.)
 - **s2 (3 min)**  
   *Parent does:* When the sunny print has gone, ask where the water went. Do not explain yet. Collect all the ideas.  
-  *Parent says:* The water didn't soak into the tile. Where did it go? Any idea is a good idea for now.  
+  *Parent says:* Any idea is a good idea for now. I will remember them all.  
   *Child mode:* Your handprint has gone. It did not soak in. Where did the water go? Say your best guess.
   - Note: Children often say it went into the tile, it disappeared, or the Sun ate it. Just listen and write their ideas down. The unit will answer them. The water evaporated: it went into the air as invisible vapour.
 - **s3 (3 min)**  
   *Parent does:* 1. Hold the cool steel plate close to your child's mouth. 2. Ask them to breathe out slowly onto it, like a sigh. 3. Watch the mist appear and vanish.  
-  *Parent says:* Breathe on the plate. A little cloud! Where did that water come from? And now, where is it going?  
-  *Child mode:* Breathe out slowly on the cold plate. See the mist? Now watch it go. Where did it come from?
+  *Parent says:* Breathe on the plate. A little cloud! Now watch it fade away.  
+  *Child mode:* Breathe out slowly on the cold plate. See the mist? Now watch it go.
   - Check: You breathe on a cold steel plate and it mists up. Where did the water come from? → **From your breath: there is invisible water vapour in it**
   - Think: The water from the handprint went into the air. The water in your breath came out of the air onto the plate. Are these two the same change, going opposite ways?
 ### a2 · The Morning Dew Walk (15 min)
 - **record:** List 5 places where you found dew. Then write which ones were dry 2 hours later.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Go out just after sunrise. 2. Look for drops on grass, leaves, spider webs, car windscreens and railings. 3. Wipe a car window or a leaf with the dark cloth and look at the wet patch. 4. Shine the torch low across the grass to make drops sparkle.  
-  *Parent says:* It didn't rain last night. So where did all these drops come from?  
+  *Parent says:* Let's look closely. Which things have the most drops on them?  
   *Child mode:* Look for drops on grass, leaves, webs and car windows. It did not rain! Where did they come from?
   - Note: Dew forms best on clear, still nights, especially in winter and just after the monsoon. On a hot, dry summer night, you may find none. Then fill a steel tumbler with ice instead, and watch dew form on it. On a cloudy or windy night, there is less dew.
 - **s2 (5 min)**  
   *Parent does:* Go back to the same places about 2 hours later.  
-  *Parent says:* Look at the same leaves now. The dew has gone. Where did it go this time?  
+  *Parent says:* Look at the same leaves and grass again. Compare them with what you saw at sunrise.  
   *Child mode:* Go back to the same places later. Is the dew still there? Where did it go?
   - Check: On the dew walk, the grass was wet at sunrise but dry 2 hours later. What happened? → **The dew came from the air at night, and evaporated back into the air when the Sun warmed it**
   - Think: Dew comes out of the air at night and goes back in the morning. What changed: the light, the cold, or both?
 ### a3 · Cloud Watch: is it growing or shrinking? (20 min)
 - **safety:** Never look at the Sun, even through clouds.
-- **record:** Draw one cloud at 0, 5 and 10 minutes. Write whether it grew, shrank or changed shape. Name the kinds of clouds you saw.
+- **record:** Write how many fingers wide your cloud was at 0, 5 and 10 minutes, or take three photos. Say whether it grew, shrank or changed shape. Name the kinds of clouds you saw.
 - **s1 (3 min)**  
   *Parent does:* Learn three cloud names together. Puffy cauliflower clouds are cumulus. Flat grey sheets are stratus. Thin wispy streaks high up are cirrus.  
   *Parent says:* Scientists name clouds by their shape. Cumulus means 'heap'. Stratus means 'layer'. Cirrus means 'curl of hair'. Can you find any of them?  
-  *Child mode:* Puffy heaps are cumulus. Flat grey sheets are stratus. Thin wisps high up are cirrus. Can you see any?
+  *Child mode:* Look up. Can you find a puffy heap, a flat grey sheet or a thin wisp?
   - Note: Luke Howard, a London chemist who loved watching the sky, gave clouds these Latin names in 1802. People still use them today.
 - **s2 (12 min)**  
-  *Parent does:* 1. Choose one small puffy cloud. 2. Draw it now. 3. Draw it again after 5 minutes, and after 10 minutes. Use something still, like a tree or a roof, to keep track of where the cloud is.  
-  *Parent says:* Watch the edges of your cloud. Are they sharp or fuzzy? Is it getting bigger or smaller?  
-  *Child mode:* Pick one small puffy cloud. Draw it. Wait 5 minutes and draw it again. Then once more. Is it growing or shrinking?
+  *Parent does:* 1. Choose one small puffy cloud. 2. Stretch your arm out straight. Hold up your fingers side by side, and count how many fingers wide the cloud is. Write the number. 3. Do the same after 5 minutes, and after 10 minutes, with the same arm. Use something still, like a tree or a roof, to keep track of where the cloud is.  
+  *Parent says:* Watch the edges of your cloud. Are they sharp or fuzzy?  
+  *Child mode:* Pick one small puffy cloud. Hold your arm out and count how many fingers wide it is. Do it again after 5 minutes, and once more after 10. Is it growing or shrinking?
   - Note: Small puffy clouds often shrink and vanish in 10 to 15 minutes. Their edges evaporate into drier air. Others grow, because new vapour keeps condensing at the bottom. If the sky is clear with no clouds, do this activity another day. On a fully grey day, watch for gaps opening and closing instead.
 - **s3 (5 min)**  
-  *Parent does:* Look at the three drawings together.  
-  *Parent says:* Your cloud changed in just 10 minutes. Was it the same cloud at the end?  
-  *Child mode:* Look at your three drawings. Did your cloud change? Is it the same cloud?
+  *Parent does:* Look at the three numbers together.  
+  *Parent says:* Your cloud changed in just 10 minutes.  
+  *Child mode:* Look at your three numbers. Did your cloud change? Is it the same cloud?
   - Check: During Cloud Watch, a small cloud shrinks and vanishes in 10 minutes. What happened to its tiny drops? → **They evaporated into the air as invisible vapour**
 ### a4 · A Rainstorm in the Room: clap and dance the water cycle (15 min)
-- **record:** Draw the parts of your dance: rising, floating, gathering, falling and flowing back to the sea.
+- **record:** Show your grown-up the five parts of your dance in order: rising, floating, gathering, falling and flowing back to the sea. Say the name of each part.
 - **s1 (6 min)**  
   *Parent does:* Make a rainstorm together, following the leader. 1. Rub palms together: wind. 2. Snap fingers: first drops. 3. Pat your knees: rain. 4. Stamp feet and bang the plate: downpour and thunder. 5. Then go back down in the opposite order, until there is silence.  
   *Parent says:* Copy me. First the wind. Then the first drops. Now the rain is getting heavier. Here comes the downpour! Now it's easing off.  
@@ -568,13 +568,13 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Check: In the water cycle dance, you rose slowly up from the 'sea'. Which part of the water cycle was that? → **Evaporation**
 - **s3 (3 min)**  
   *Parent does:* Sit together quietly and talk.  
-  *Parent says:* Our storm got louder and louder, then quieter. Real storms do that too. Which part of the dance did you like best?  
+  *Parent says:* Our storm got louder and louder, then quieter. Real storms do that too.  
   *Child mode:* Sit down. Which part of the dance did you like best? Which part of the water cycle was it?
   - Think: In the dance, you went round and round. Where would the dance end, if it were real water?
 ### a5 · Make a Monsoon: the kettle and the mountain (25 min)
 - **problem:** The monsoon is wet wind that blows from the sea onto the land. When it meets mountains, it is pushed up and cooled, and it rains. In this activity, a kettle is the warm sea, its steam is the wet wind, and a cold plate is the mountain. Then you follow the monsoon across a map of India.
 - **safety:** Only a grown-up holds the plate near the steam. Steam burns. Children watch from at least an arm's length away.
-- **record:** Draw a simple map of India's west coast in your notebook. Draw arrows for the monsoon winds. Colour the wet sea side of the Western Ghats dark blue, and the rain shadow beyond it light yellow.
+- **record:** On your map, stick a blue note on the wet sea side of the Western Ghats, and a yellow note on the dry rain shadow beyond it. Then point to where the wet wind comes from, and tell your grown-up why the yellow side is dry.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* 1. A grown-up boils the kettle. 2. The grown-up holds the cold plate with a towel. Tilt it in the steam, like the slope of a mountain, about 20 centimetres above the spout. 3. Watch drops gather on the plate and drip off its lower edge.  
   *Parent says:* The kettle is the warm sea. The steam is the wet wind. The cold plate is the Western Ghats. Watch what happens when the wet air meets the cold mountain.  
@@ -582,8 +582,8 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Note: Drops form within a few seconds and soon drip. If the plate warms up, swap it for a second cold plate. On real mountains it is not the rock that is cold. Wet air is pushed up the slope, and rising air cools down.
   - Check: In Make a Monsoon, why did the drops form on the plate held in the steam? → **The cold plate cooled the vapour, so it condensed into drops**
 - **s2 (10 min)**  
-  *Parent does:* 1. Open the map of India. 2. Lay the string from the Arabian Sea to the Kerala coast. Put a sticky note saying 'about 1 June'. 3. Move the string up the west coast to Mumbai, and on across India to Delhi. 4. Put a sticky note on Mumbai and one on Pune, just over the Western Ghats.  
-  *Parent says:* The monsoon arrives in Kerala around the first of June. Then it moves north, week by week. It covers all of India by about the eighth of July. Mumbai gets about three times as much rain as Pune. Why do you think?  
+  *Parent does:* 1. Open the map of India. 2. Lay the string from the Arabian Sea to the Kerala coast. Put a sticky note saying 'about 1 June'. 3. Move the string up the west coast to Mumbai, and on across India to Delhi. 4. Put a blue sticky note on Mumbai and a yellow one on Pune, just over the Western Ghats.  
+  *Parent says:* The monsoon arrives in Kerala around the first of June. Then it moves north, week by week. It covers all of India by about the eighth of July. Mumbai gets about three times as much rain as Pune.  
   *Child mode:* Lay the string from the sea to Kerala. That is the monsoon arriving, around 1 June. Move it up to Mumbai, then to Delhi. Find Pune, just over the mountains.
   - Ask: Why does Pune, just over the mountains, get much less rain than Mumbai? (good: The wet wind drops its rain on the mountains first.; There is not much water left by the time it gets over.)
 - **s3 (7 min)**  
@@ -591,7 +591,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Parent says:* Wet winds from the Bay of Bengal hit the hills of Meghalaya and rise steeply. Mawsynram and Sohra get more than 11 metres of rain a year. That is taller than a three-storey building, if it all stayed in one place.  
   *Child mode:* Find Meghalaya. Mawsynram is one of the wettest places on Earth. Its rain in one year would be taller than a three-storey house!
 ### a6 · How Long Does a Drop Stay? The washing line of time (15 min)
-- **record:** Copy the line into your notebook as a strip, with the six places in order.
+- **record:** Take a photo of your finished line. Then say the six places in order to your grown-up, from the shortest stay to the longest.
 - **s1 (5 min)**  
   *Parent does:* Write one card each for: THE AIR, A RIVER, A PUDDLE, A PLANT, THE DEEP SEA, ANTARCTIC ICE. Ask your child to peg them on the line from the shortest stay to the longest.  
   *Parent says:* A drop of water can stay in some places for a short time, and in others for ages. Which do you think is quickest? Which is slowest?  
@@ -603,7 +603,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Note: These are rough averages. Scientists compare how much water is in each place with how fast it flows in and out. Scientists have drilled out Antarctic ice about 800,000 years old.
 - **s3 (4 min)**  
   *Parent does:* Stand at the shortest-stay end of the line, then walk to the ANTARCTIC ICE end.  
-  *Parent says:* Rain today was in the air only a week or so ago. But it might have been in the sea for thousands of years before that.  
+  *Parent says:* A drop of rain was in the air for only about a week. But before that, it may have been in the sea for thousands of years.  
   *Child mode:* Stand at the shortest end of your line. Walk to the ice end. That is a very long time for a drop to wait!
   - Check: Which of these places does water usually stay in for the shortest time? → **The air, about 9 days**
   - Think: If the air holds water for only 9 days, where does all the water in tomorrow's clouds come from?
@@ -611,8 +611,8 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 ## Projects
 ### p1 · A Rain Forest in a Jar: a water cycle that runs by itself (50 min, 14 days)
 - **safety:** Only a grown-up handles broken glass if the jar cracks.
-- **record:** Keep a jar diary: the date, where you see drops, what the plants look like, and a drawing. Write the jar's water cycle with arrows.
-- **schedule:** day 1: Build the jar garden, water it once, close the lid, and put it in bright light but not in direct sun. (25 min); day 2: Look in the morning and the afternoon. Where are the drops? Draw them. (5 min); day 4: Check again. Are the plants healthy? Is there mist? (5 min); day 7: Check again. Has any water been added? Is the soil still damp? (5 min); day 14: Two weeks without watering. Compare with day 1, and explain the jar's water cycle to someone. (10 min)
+- **record:** Keep a jar diary: the date, where you see drops, and what the plants look like. Take a photo each time, or draw the drops. On day 14, tell someone the jar's water cycle.
+- **schedule:** day 1: Build the jar garden, water it once, close the lid, and put it in bright light but not in direct sun. (25 min); day 2: Look in the morning and the afternoon. Where are the drops? Take a photo. (5 min); day 4: Check again. Are the plants healthy? Is there mist? (5 min); day 7: Check again. Has any water been added? Is the soil still damp? (5 min); day 14: Two weeks without watering. Compare with day 1, and explain the jar's water cycle to someone. (10 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Put the pebbles in the bottom of the jar. 2. Sprinkle the crushed charcoal on top. 3. Add the soil. 4. Make small holes and plant the moss, fern or cutting. Press the soil down gently. 5. Spray or spoon in water until the soil is damp, but no puddle forms at the bottom.  
   *Parent says:* We're building a tiny world. The pebbles at the bottom hold extra water away from the roots. The plants will drink from the soil. And once we close the lid, no water can get in or out.  
@@ -624,21 +624,21 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   *Child mode:* Close the lid. Put it near a bright window, not in the hot sun. No more watering!
   - Wait: Check the jar tomorrow, in the morning and in the afternoon.
 - **s3 (15 min)**  
-  *Parent does:* On days 2, 4 and 7, look closely at the jar. Draw where the drops are. Notice if they are on the walls, the lid or the leaves.  
+  *Parent does:* On days 2, 4 and 7, look closely at the jar. Notice if the drops are on the walls, the lid or the leaves. Take a photo each time.  
   *Parent says:* Where is the water now? Is it in the soil, the plants, the air or on the glass? Is it the same in the morning and the afternoon?  
-  *Child mode:* Look at your jar. Where are the drops? Draw them. Is it different in the morning and the afternoon?
+  *Child mode:* Look at your jar. Point to the drops. Take a photo, so you can compare later.
   - Note: Drops usually appear on the glass in the morning. They may clear later, as the jar warms. Is the glass always fogged and the soil soggy? Then open the lid for a few hours to let some water out. If you see white fuzzy mould, take out that leaf, and open the lid for a day.
   - Check: In the closed jar garden, drops form on the inside of the glass. Where did they come from? → **Water evaporated from the soil and leaves, and condensed on the cooler glass**
 - **s4 (10 min)**  
-  *Parent does:* On day 14, compare the jar with your day 1 drawing. Then your child explains the jar's water cycle to someone else in the family.  
-  *Parent says:* Two weeks, and we never watered it. In England, a man called David Latimer planted a bottle garden in 1960. He watered it only once more, in 1972. It was still growing more than 50 years later. Tell someone how our jar keeps its plants alive.  
+  *Parent does:* On day 14, compare the jar with your day 1 photo. Then your child explains the jar's water cycle to someone else in the family.  
+  *Parent says:* Two weeks, and we never watered it. In England, a man called David Latimer planted a bottle garden in 1960. He watered it only once more, in 1972. It was still growing more than 50 years later. Now compare our jar with how it looked on day 1.  
   *Child mode:* Two weeks with no watering! Tell someone how the water in your jar goes round. Use the words evaporate and condense.
   - Think: The jar needs no watering, because its water goes round and round. What would happen to the plants if you took the lid off for a week?
 
 ## Challenges
 ### c1 · Beat the Sun: keep the water from evaporating (30 min)
 - **problem:** On a hot day, ponds, tanks and reservoirs lose lots of water to evaporation. Your job: leave 10 spoons of water in the sun for a whole day, and have as much left as possible at the end.
-- **your turn:** Now invent your own way to beat the Sun. Draw it, build it, and test it against the open bowl for a whole day. How many spoons did you save?
+- **your turn:** Now invent your own way to beat the Sun. Build it and test it against the open bowl for a whole day. How many spoons did you save?
 - **constraints:** Every container starts with exactly 10 teaspoons of water.; Each container must stay in the same sunny place as an open bowl, the 'control', for the whole day.; You can only use things you find at home.; At the end, count the spoons left using the same spoon.
 - **general:** Cover the water with a lid or cling film, so the vapour can't escape.; Put it in a deep, narrow container, so less water is at the top.; Shade it with a plate, a cloth or leaves.
 - **creative:** Float a few drops of cooking oil on top. A thin layer of oil slows evaporation. Scientists have tested floating layers like this on reservoirs.; In Gujarat, solar panels have been put on top of canals since 2012. They make electricity and shade the water, so less of it evaporates.; Old stepwells keep water deep down, in cool shade, far below the hot air. Could you make a tiny stepwell?
@@ -649,7 +649,7 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
 - **s2 (8 min)**  
   *Parent does:* List three ideas before building anything. Think about what made water evaporate fastest in the Evaporation Race.  
   *Parent says:* Remember the Evaporation Race. Sun, wind and a wide surface all made water go faster. How can we block each one?  
-  *Child mode:* Think like an engineer. Draw three ideas first. What made water dry fastest in the Evaporation Race? Block it!
+  *Child mode:* Think like an engineer. Plan three ideas first. Draw them, or tell them to a grown-up. Try to block what made water dry fast in the Evaporation Race.
 - **s3 (7 min)**  
   *Parent does:* 1. Build your three ideas. 2. Put them all in the same sunny spot as the open bowl, in the morning. 3. Leave them all day.  
   *Parent says:* They must all sit in the same sun, for the same time, so the test is fair.  
@@ -657,34 +657,34 @@ Somewhere under these same clouds, she thought, was Mandvi. Maybe it was raining
   - Wait: Leave the bowls in the sun until evening.
 - **s4 (10 min)**  
   *Parent does:* In the evening, count the spoons left in each bowl, using the same spoon. Write the numbers down.  
-  *Parent says:* Let's count. How many spoons did the open bowl lose? Which idea saved the most?  
+  *Parent says:* Let's count. How many spoons did the open bowl lose?  
   *Child mode:* Count the spoons left in each bowl. Which idea saved the most water?
   - Note: On a hot, sunny day, the open bowl often loses half its water or more. A covered bowl usually loses almost none, though drops form under the lid. If it is cool or cloudy, leave them a second day. If you used oil, do not pour that water on plants. Wipe the bowl with soap.
   - Check: In Beat the Sun, a bowl covered with cling film kept almost all its water. Why? → **The vapour condensed on the film and dripped back, instead of escaping into the air**
   - Think: Big reservoirs lose a lot of water to evaporation. Should we cover them? What might go wrong?
 ### c2 · The Fog Catcher: water for a dry hill (30 min)
 - **problem:** Some dry places, high in the hills by the sea, get almost no rain, but thick fog drifts past most mornings. Design a net that catches water from the fog and drips it into a pot.
-- **your turn:** Now design your own fog catcher. Draw it, build it and test it. How many drops can you catch in 3 minutes of 'fog'?
+- **your turn:** Now design your own fog catcher. Build it and test it with 30 sprays of 'fog'. How many drops can you catch?
 - **constraints:** It must be cheap, light and easy to build.; It must stand up on its own, or hang from something.; It must lead the drops into one container.; Test it with 'fog' from a spray bottle in front of a fan.
 - **general:** Hang a fine net upright, facing the fog, like a volleyball net.; Put a gutter or a tray along the bottom to catch the drips.; Use a net with many fine threads, so lots of tiny drops hit it.
 - **creative:** In Chile, in the dry Atacama desert, villages have used big fog-catching nets since the 1980s.; In Morocco, a group called Dar Si Hmad set up fog nets in 2015 to bring water to mountain villages.; Beetles in the Namib desert tilt their backs into the morning fog. Drops gather on the back and roll down to the mouth.
 - **s1 (5 min)**  
   *Parent does:* 1. Set the fan on low, pointing at a wall or a window. 2. Spray mist from the bottle in front of the fan, so it blows like fog. 3. Feel the 'fog' on your hand.  
-  *Parent says:* Fog is a cloud on the ground, billions of tiny drops. Feel it on your hand. Your job is to catch it.  
+  *Parent says:* Fog is a cloud on the ground, billions of tiny drops. Your job is to catch it.  
   *Child mode:* Turn the fan on low. Spray mist in front of it. That is your fog! Feel it on your hand.
 - **s2 (8 min)**  
-  *Parent does:* Draw three designs before building anything.  
+  *Parent does:* Plan three designs before building anything. Each plan can be a drawing or something you say out loud.  
   *Parent says:* Think about this. Tiny fog drops pass through big holes. What kind of net will catch them?  
-  *Child mode:* Draw three fog catchers. Think: what will tiny drops bump into?
+  *Child mode:* Plan three fog catchers. Draw them, or say which things you would use and why.
 - **s3 (12 min)**  
   *Parent does:* 1. Build each design. 2. Stand it in the fog, with a tray underneath. 3. Spray 30 times in front of the fan. 4. Count the drops in the tray, or measure them with a spoon.  
-  *Parent says:* Test each catcher with exactly the same fog: 30 sprays each. Which one catches the most?  
+  *Parent says:* Each catcher must get exactly the same fog, so the test is fair.  
   *Child mode:* Test each catcher with 30 sprays. Count the drops in the tray. Which one wins?
   - Note: A fine onion net or mosquito net usually works best. Drops gather on the threads, join into bigger drops and run down. A solid cloth gets wet but drips less. Wipe up the floor afterwards, so nobody slips.
   - Check: In the Fog Catcher challenge, why does a net with fine threads catch more water than a net with big holes? → **More tiny drops bump into the threads, stick and join into bigger drops**
 - **s4 (5 min)**  
-  *Parent does:* Compare your design with the fog nets in Chile and Morocco, and with the beetles in the Namib desert.  
-  *Parent says:* Beetles in the Namib desert solved this long ago. Which idea would you copy for a real village?  
+  *Parent does:* Read out the fog net and beetle ideas from the challenge page. Then compare them with your design.  
+  *Parent says:* Villages and beetles have solved this problem before you.  
   *Child mode:* Desert beetles drink fog that gathers on their backs! Which idea would you use for a real village?
   - Think: A fog net works because tiny drops bump into the threads and join into bigger drops. Where else in this unit did tiny drops join into bigger ones?
 

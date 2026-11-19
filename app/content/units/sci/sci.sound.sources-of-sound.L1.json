@@ -270,7 +270,7 @@
    "title": "The Shaker Test: which shaker is loudest?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you make four shakers that look the same, with something different inside each one. You guess which will be loudest. Then you shake them and listen.",
+   "context": "In this experiment you make four shakers that look the same, with something different inside each one. You are finding out whether what is inside changes how loud a shaker sounds. First guess which will be loudest. Then shake them and listen.",
    "question": "Does what is inside a shaker change how loud it sounds? And does shaking harder make it louder?",
    "predict": "Look at the four shakers: chana, rice, cotton and nothing. Which will be loudest? Which will be softest? Why do you think so?",
    "fair_test": "All four shakers are the same kind of bottle or box. We put in two big spoons of chana and two big spoons of rice. The cotton is two balls, which fill about the same space. The empty one has nothing in it. Only what is inside is different. We shake each one five times, the same way.",
@@ -301,7 +301,7 @@
      "qty": 1
     },
     {
-     "item": "4 small pieces of paper, a pencil and tape, for picture labels",
+     "item": "4 small pieces of paper, a pencil and tape, for labels",
      "qty": 1
     },
     {
@@ -317,7 +317,7 @@
      "what": "Make four shakers, guess which will be loudest, then shake them and listen."
     }
    ],
-   "record": "Draw the four shakers in a line, from the loudest to the softest. Draw big zigzag lines around the loudest one, and tiny lines, or none, around the softest.",
+   "record": "Put the four shakers in a line, from the loudest to the softest. Take a photo, or tell your grown-up why you put them in that order. You can also draw the line, with big zigzag lines around the loudest one.",
    "setup": [
     {
      "art": "Four empty plastic bottles in a row, with small bowls of chana, rice and cotton balls beside them, and a paper funnel.",
@@ -340,17 +340,17 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Put two big spoons of chana in the first bottle, through the paper funnel. 2. Put two big spoons of rice in the second. 3. Push two cotton balls into the third. 4. Leave the fourth empty. 5. Close all the caps tightly.",
-     "say": "We are making four shakers. Each one gets something different inside. Let's draw a picture label for each one.",
-     "kid": "Help fill the bottles. Close the caps tight. Draw a picture label for each.",
-     "parent": "Picture labels help a child who cannot read yet: a bean, a grain of rice, a cloud of cotton and an empty circle."
+     "do": "1. Put two big spoons of chana in the first bottle, through the paper funnel. 2. Put two big spoons of rice in the second. 3. Push two cotton balls into the third. 4. Leave the fourth empty. 5. Close all the caps tightly. 6. Tape a little of what is inside onto each shaker as a label: one chana, a pinch of rice, a bit of cotton. On the empty one, write EMPTY.",
+     "say": "We are making four shakers. Each one gets something different inside. Let's put a label on each one, so we know which is which.",
+     "kid": "Help fill the bottles. Close the caps tight. Tape a little of what is inside onto each one.",
+     "parent": "These labels help a child who cannot read yet tell the shakers apart: a chana, a pinch of rice, some cotton, and the word EMPTY."
     },
     {
      "id": "s2",
      "mins": 2,
      "do": "Put all four shakers on the table. Ask your child to sit very still, lean close and listen for ten seconds.",
-     "say": "Our shakers are sitting on the table. Put your ear close and listen very carefully. Can you hear them?",
-     "kid": "Put your ear close to the shakers. Can you hear them?",
+     "say": "Our shakers are sitting still on the table. Put your ear close and listen very carefully.",
+     "kid": "Put your ear close to the shakers. Listen for ten seconds.",
      "ask": [
       {
        "q": "What do you hear?",
@@ -365,9 +365,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Ask your child to put the shakers in a line, from 'will be loudest' to 'will be softest'. 2. Draw or write the guesses in the table. A grown-up writes for a child who cannot write yet.",
-     "say": "Soon you will shake each one. Which will be loudest? Put it at this end. Which will be softest? Put it at the other end. Why do you think so?",
-     "kid": "Which shaker will be loudest? Which will be softest? Line them up. Why?",
+     "do": "1. Ask your child to put the shakers in a line, from 'will be loudest' to 'will be softest'. 2. Write the guesses in the table. A grown-up writes for a child who cannot write yet.",
+     "say": "Soon you will shake each one. Put the one you think will be loudest at this end. Put the one you think will be softest at the other end.",
+     "kid": "Line up the shakers. Put the one you think is loudest first.",
      "ask": [
       {
        "q": "Why did you put that one first?",
@@ -382,9 +382,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "1. Your child shakes each shaker five times, the same way. 2. Hide all four under the dupatta. 3. Your child closes their eyes. 4. Shake one at a time under the dupatta. 5. Each time, your child says loud, middle or soft.",
-     "say": "Shake each one five times. Now close your eyes. I will shake one under the dupatta. Is it loud, middle or soft? Which one do you think it is?",
-     "kid": "Shake each one five times. Now close your eyes. Is it loud, middle or soft?",
+     "do": "1. Your child shakes each shaker five times, the same way, and listens. 2. Hide all four shakers under the dupatta. 3. Your child closes their eyes. 4. Shake one shaker five times under the dupatta. 5. Your child says loud, middle or soft, and which shaker they think it was. 6. Do the same with the other three.",
+     "say": "Shake each one five times and listen. Now close your eyes. I will shake one under the dupatta. Is it loud, middle or soft?",
+     "kid": "Shake each one and listen. Then close your eyes. Which shaker is hiding?",
      "ask": [
       {
        "q": "Which was the loudest?",
@@ -407,8 +407,8 @@
      "id": "s5",
      "mins": 3,
      "do": "1. Give your child the chana shaker. 2. Ask them to shake it very gently. 3. Then very hard. 4. Then very gently again.",
-     "say": "Now shake the chana shaker very gently. Now shake it hard. Now gently again. What changes?",
-     "kid": "Shake it gently. Now shake it hard. What changes?",
+     "say": "Now shake the chana shaker very gently. Now shake it hard. Now gently again. What do you notice?",
+     "kid": "Shake the chana shaker gently. Then shake it hard. Listen for the difference.",
      "ask": [
       {
        "q": "When was it loudest?",
@@ -434,8 +434,8 @@
      "id": "s6",
      "mins": 2,
      "do": "1. Open the chana shaker and the cotton shaker. 2. Give your child one chana and one cotton ball. 3. Ask them to tap each one on the table.",
-     "say": "Tap the chana on the table. Now tap the cotton. Which one makes a sound?",
-     "kid": "Tap a chana on the table. Now tap the cotton. Which makes a sound?",
+     "say": "We want to know why the cotton shaker was so quiet. Tap the chana on the table. Now tap the cotton. Which one makes a sound?",
+     "kid": "Tap one chana on the table. Then tap one cotton ball. Listen to each.",
      "ask": [
       {
        "q": "What did you hear?",
@@ -451,7 +451,7 @@
      "id": "s7",
      "mins": 2,
      "do": "Ask your child three things: what they think now, what they heard, and why they think it happened. Write the answers down in your child's words. Then ask what the shakers did while they sat still.",
-     "say": "Tell me three things. What do you think now? What did you hear? Why do you think it happened?",
+     "say": "Tell me three things. What do you think now? What did you hear? Why do you think it happened? And what did the shakers do while they sat still?",
      "kid": "Say what you think. Say what you heard. Say why.",
      "parent": "A strong answer sounds like this. 'The shakers were silent when they sat still. The chana was loudest. Shaking hard made it louder. Hard chana makes a loud sound, and soft cotton makes a soft sound.'"
     }
@@ -462,7 +462,7 @@
    "title": "Soft Landing: what makes a falling spoon quiet?",
    "mins": 15,
    "days": 1,
-   "context": "In this experiment you drop a steel spoon onto different things and listen. Does the sound change with what the spoon lands on?",
+   "context": "In this experiment you find out whether a falling spoon sounds different on different things. You drop a steel spoon onto the bare floor, a newspaper, a towel and a pillow, and listen each time.",
    "question": "When a steel spoon falls, does what it lands on change how loud the sound is?",
    "predict": "We will drop a spoon onto the bare floor, a folded newspaper, a folded towel and a pillow. Which will be loudest? Which will be softest? Why do you think so?",
    "fair_test": "We use the same spoon every time. We drop it from the same height every time: as high as your knee. We let it fall, and never throw it. At the end we change the height on purpose, to see what changes.",
@@ -500,7 +500,7 @@
      "what": "Drop a spoon onto four different things and listen to each landing."
     }
    ],
-   "record": "Draw the four landing places in a row. Draw big zigzag lines next to the loudest landing, and one tiny line next to the softest.",
+   "record": "Say the four landing places in order, from the loudest to the softest. A grown-up writes the order down. You can also draw the four places in a row, with big zigzag lines next to the loudest.",
    "setup": [
     {
      "art": "A bare tiled floor with a folded newspaper, a folded towel and a pillow laid in a row, and a steel spoon beside them.",
@@ -526,12 +526,12 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Ask your child to point to the landing that will be loudest, and the one that will be softest. Write or draw the guesses in the table.",
+     "do": "Ask your child to point to the landing that will be loudest, and the one that will be softest. Write the guesses in the table. A grown-up writes for a child who cannot write yet.",
      "say": "Which landing will make the loudest sound? Which will make the softest? Why do you think so?",
-     "kid": "Which will be loudest? Which will be softest? Why?",
+     "kid": "Point to the landing you think will be loudest. Point to the softest.",
      "ask": [
       {
-       "q": "Why do you think the pillow will be soft?",
+       "q": "Why did you choose that one as the softest?",
        "good": [
         "It is squishy.",
         "It is soft, so the spoon will not bang."
@@ -568,17 +568,8 @@
      "id": "s4",
      "mins": 3,
      "do": "1. Your child drops the spoon on the bare floor from knee height. 2. Then from as high as their shoulder.",
-     "say": "Now drop it on the floor from your knee. Now from your shoulder. Which was louder?",
-     "kid": "Drop it from your knee. Now drop it from your shoulder. Which was louder?",
-     "ask": [
-      {
-       "q": "Which drop was louder?",
-       "good": [
-        "From my shoulder.",
-        "The higher drop hit the floor harder."
-       ]
-      }
-     ],
+     "say": "Now we change one thing on purpose: how high the spoon falls. Drop it on the floor from your knee. Now drop it from your shoulder.",
+     "kid": "Drop the spoon on the bare floor from your knee. Then drop it from your shoulder. Listen to both.",
      "check": {
       "t": "mcq",
       "q": "The spoon was dropped from a knee and from a shoulder. Which drop was louder?",
@@ -608,7 +599,7 @@
    "title": "One Minute of Listening",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you sit still for one minute and listen. Then you name the sound source of every sound you heard, and draw a sound map.",
+   "context": "In this activity you sit still for one minute and listen, to find out how many sounds are around you. A sound source is the thing that makes a sound, like a fan or a crow. You name the sound source of every sound you hear, then put the sounds in order from loudest to softest.",
    "materials": [
     {
      "item": "nothing to buy: a place to sit quietly",
@@ -623,10 +614,10 @@
     {
      "day": 1,
      "mins": 8,
-     "what": "Listen for one minute, name each sound source, then draw a sound map."
+     "what": "Listen for one minute, name each sound source, then put the sounds in order from loudest to softest."
     }
    ],
-   "record": "A sound map: draw yourself in the middle of the page. Around you, draw every sound source you heard. Draw loud ones big and soft ones small.",
+   "record": "Your list of sound sources, in order from the loudest to the softest. A grown-up writes it. You can also draw a sound map: yourself in the middle, and each sound source around you, loud ones big and soft ones small.",
    "setup": [
     {
      "art": "A grown-up and a child sitting on a mat with their eyes closed, the child holding up three fingers.",
@@ -634,7 +625,7 @@
     },
     {
      "art": "A child's drawing with a stick figure in the middle and a fan, a crow, a scooter and a clock drawn around the figure, big and small.",
-     "caption": "2. Draw a sound map of what you heard."
+     "caption": "2. Say the sounds in order, loudest first."
     }
    ],
    "flow": [
@@ -650,13 +641,13 @@
      "mins": 3,
      "do": "Ask your child to name each sound, and what made it. Write a short list.",
      "say": "How many sounds did you hear? Tell me each one. What made that sound? Was it a person, an animal, a thing, or the wind or rain?",
-     "kid": "Tell me each sound. What made it?",
+     "kid": "Tell your grown-up each sound you heard. What made each one?",
      "ask": [
       {
-       "q": "What made the whirring sound?",
+       "q": "What made the sound you heard most clearly?",
        "good": [
         "The fan.",
-        "The fan going round."
+        "A crow calling."
        ]
       },
       {
@@ -672,9 +663,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Give your child paper and crayons. They draw themselves in the middle, and each sound source around them.",
-     "say": "Draw yourself in the middle. Now draw each thing that made a sound. Make the loud ones big and the soft ones small.",
-     "kid": "Draw yourself in the middle. Draw each sound around you. Loud ones big, soft ones small."
+     "do": "Read the list back to your child. Ask which sound was loudest and which was softest. Then ask them to say all the sounds in order, loudest first. Write the new order down.",
+     "say": "Which sound was the loudest? Which was the softest? Now say all of them in order, loudest first.",
+     "kid": "Say your sounds in order. Start with the loudest."
     }
    ]
   },
@@ -683,7 +674,7 @@
    "title": "My Body Band",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you make sounds with your own body, each one loud and then soft. Your body is a sound source too.",
+   "context": "In this activity you make sounds with your own body, each one loud and then soft. Your body is a sound source too. You find out what you do to make a sound loud, and what you do to make it soft.",
    "materials": [
     {
      "item": "nothing to buy: just your body",
@@ -697,7 +688,7 @@
      "what": "Make sounds with hands, feet, mouth and voice, loud and soft, then play a pattern."
     }
    ],
-   "record": "Draw the body part that made your favourite sound, with sound lines around it.",
+   "record": "Show your family your favourite body sound. Say which part of your body moved to make it.",
    "setup": [
     {
      "art": "A girl clapping, a boy stamping, and a parent patting their knees, all in a circle on the floor.",
@@ -712,7 +703,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Make these sounds together, one at a time: clap, stamp, pat your knees, click your tongue, hum. After each one, ask what moved.",
+     "do": "Make these sounds together, one at a time: clap, stamp, pat your knees, click your tongue, hum. After each one, ask what moved. For the hum, put your fingers gently on your throat and feel it buzz.",
      "say": "Let's make sounds with our bodies. Clap. Stamp. Pat your knees. Click your tongue. Hum. What moved each time?",
      "kid": "Clap. Stamp. Pat your knees. Click your tongue. Hum. What moved?",
      "ask": [
@@ -730,7 +721,7 @@
      "mins": 4,
      "do": "Make each sound loud, then soft. For a soft clap, clap with two fingers on your palm.",
      "say": "Now make each sound loud. Now make it soft. How did you make it soft?",
-     "kid": "Make each sound loud. Now make it soft. How did you do it?",
+     "kid": "Make each sound loud. Then make it soft.",
      "ask": [
       {
        "q": "How did you make the clap soft?",
@@ -756,7 +747,7 @@
    "title": "Who Is Calling? Listening at the window",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you listen at a window for the voices of other animals, and find out who is calling.",
+   "context": "In this activity you listen at a window for the voices of other animals, and find out who is calling and how they make that sound.",
    "materials": [
     {
      "item": "nothing to buy: a window or a balcony",
@@ -771,10 +762,10 @@
     {
      "day": 1,
      "mins": 10,
-     "what": "Listen at the window for animal calls, copy them softly, and draw the callers."
+     "what": "Listen at the window for animal calls, copy them softly, and act out the callers."
     }
    ],
-   "record": "Draw each animal you heard, with their call written next to them by a grown-up.",
+   "record": "A list of the animals you heard, with each call written next to the name by a grown-up. You can also draw the callers.",
    "setup": [
     {
      "art": "A boy and a parent at an open window of a flat, listening, with a crow on a nearby wire and pigeons on a ledge.",
@@ -782,7 +773,7 @@
     },
     {
      "art": "The boy drawing a crow and a pigeon, with 'caw' and 'coo' written beside them.",
-     "caption": "2. Draw the callers you heard."
+     "caption": "2. Act out the callers you heard."
     }
    ],
    "flow": [
@@ -807,14 +798,14 @@
     {
      "id": "s2",
      "mins": 3,
-     "do": "Copy each call softly together. Ask how the animal makes that sound. If your child is not sure, tell them this. A crow pushes air out from deep in her chest to call.",
-     "say": "Let's copy the crow, softly. Caw. How does a crow make that sound?",
-     "kid": "Copy the call softly. How does the animal make that sound?",
+     "do": "Copy a call you heard, softly, together. If you heard no animals, copy a crow: caw. Ask how the animal makes that sound. If your child is not sure, tell them this. A crow pushes air out from deep in her chest, and the air makes her call.",
+     "say": "Let's copy one of the calls, softly. How does that animal make that sound?",
+     "kid": "Copy the call softly, like the animal.",
      "ask": [
       {
-       "q": "How does a crow call?",
+       "q": "How does that animal make the sound?",
        "good": [
-        "With her mouth.",
+        "With their beak.",
         "She pushes air out."
        ]
       }
@@ -823,9 +814,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Your child draws the callers. You write each call beside its animal.",
-     "say": "Draw each animal you heard. I will write their call next to them.",
-     "kid": "Draw each animal you heard."
+     "do": "Your child acts out each animal they heard, with their call and their way of moving. You guess who it is. Then write each call beside the animal's name.",
+     "say": "Act out each animal you heard. Make their call and move like them. I will guess who it is.",
+     "kid": "Act out each animal you heard. Make their call and move like them."
     }
    ]
   },
@@ -834,7 +825,7 @@
    "title": "Sound Scavenger Hunt",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you hunt for ten sound sources: five from nature and five made by people.",
+   "context": "In this activity you hunt for ten sound sources. A sound source is the thing that makes a sound. You find five from nature and five made by people, and sort them into two groups.",
    "materials": [
     {
      "item": "a sheet of paper folded in half, and a pencil",
@@ -848,7 +839,7 @@
      "what": "Find five sound sources from nature and five made by people."
     }
    ],
-   "record": "On one half of the paper, draw five sound sources from nature. On the other half, draw five made by people.",
+   "record": "On one half of the paper, write five sound sources from nature. On the other half, write five made by people. A grown-up writes for a child who cannot write yet. You can also draw them.",
    "setup": [
     {
      "art": "A sheet of paper folded in half, with a leaf drawn at the top of one side and a bell at the top of the other.",
@@ -856,21 +847,21 @@
     },
     {
      "art": "A girl at a balcony pointing at rain falling, with a mixie and a bicycle visible inside and outside.",
-     "caption": "2. Hunt for sounds and draw each one on the right side."
+     "caption": "2. Hunt for sounds and write each one on the right side."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 2,
-     "do": "Fold the paper in half. Draw a leaf at the top of one half, for nature. Draw a bell at the top of the other, for things people made.",
+     "do": "Fold the paper in half. Write NATURE at the top of one half and PEOPLE at the top of the other.",
      "say": "We are going to hunt for ten sound sources. Five from nature, like rain or a bird. Five made by people, like a bell or a mixie.",
      "kid": "Find five sounds from nature. Find five sounds people made."
     },
     {
      "id": "s2",
      "mins": 8,
-     "do": "Walk around the home and look out of the windows. Your child draws each sound source they find on the half of the paper where it belongs.",
+     "do": "Walk around the home and look out of the windows. When your child finds a sound source, they say what it is and which half it belongs in. Write its name on that half.",
      "say": "What can you hear? What is making it? Is it from nature, or did people make it?",
      "kid": "Listen. What is making that sound? Nature or people?",
      "ask": [
@@ -900,7 +891,7 @@
    "title": "Sound Detective: what made that sound?",
    "mins": 12,
    "players": "2 or more: a sound maker and a detective. With 2 players, the grown-up and the child take turns at both.",
-   "context": "This is a listening game. The detective closes their eyes, the sound maker makes a sound, and the detective says what made it and what moved.",
+   "context": "This is a listening game. The detective closes their eyes, the sound maker makes a sound, and the detective says what made it and what moved. Each round, you notice what moves to make a sound.",
    "printables": [
     {
      "kind": "cards",
@@ -993,10 +984,10 @@
      "kid": "Listen. What made that sound? What moved? Now turn and look.",
      "ask": [
       {
-       "q": "What moved to make the keys jingle?",
+       "q": "What moved to make the sound you just heard?",
        "good": [
-        "The keys.",
-        "The keys hit each other."
+        "The keys hit each other.",
+        "The paper ripped apart."
        ]
       }
      ],
@@ -1007,7 +998,7 @@
      "mins": 5,
      "do": "Swap roles for the last six cards. Whisper each card to your child, then close your eyes and guess.",
      "say": "Now you are the sound maker. I will whisper the card to you. Make the sound, and I will guess.",
-     "kid": "Now you make the sounds. Can you trick me?",
+     "kid": "Now you make the sounds. Can I guess what made them?",
      "check": {
       "t": "mcq",
       "q": "Every time a sound was made in this game, what was happening?",
@@ -1027,7 +1018,7 @@
    "title": "Stamp, Tiptoe, Freeze",
    "mins": 8,
    "players": "1 or more players, and a grown-up as the drummer.",
-   "context": "This is a moving game. The drummer beats loudly or softly on an upside-down bucket. Players stamp for loud, tiptoe for soft, and freeze when the sound stops.",
+   "context": "This is a moving game. The drummer beats loudly or softly on an upside-down bucket. Players stamp for loud, tiptoe for soft, and freeze when the sound stops. You practise telling loud sounds from soft ones, and making each one.",
    "printables": [
     {
      "kind": "cards",
@@ -1067,7 +1058,7 @@
     {
      "id": "s1",
      "mins": 1,
-     "do": "Turn the bucket upside down. Show one loud beat and one soft beat.",
+     "do": "Turn the bucket upside down. Give your child a wooden spoon. Show one loud beat and one soft beat.",
      "say": "This is a loud beat. This is a soft beat. When it is loud, stamp. When it is soft, tiptoe. When it stops, freeze.",
      "kid": "Loud: stamp. Soft: tiptoe. No sound: freeze."
     },
@@ -1083,7 +1074,7 @@
      "id": "s3",
      "mins": 2,
      "do": "Let your child be the drummer. Ask how they make a beat loud or soft.",
-     "say": "Now you are the drummer. How will you make a loud beat? How will you make a soft one?",
+     "say": "Now you are the drummer. Play me some loud beats and some soft beats. I will stamp and tiptoe.",
      "kid": "You are the drummer now. Make loud beats and soft beats.",
      "ask": [
       {
@@ -1111,14 +1102,14 @@
    "title": "My Loud and Soft Sound Book",
    "mins": 30,
    "days": 2,
-   "context": "In this project you make a small book of sound sources. Each page has a loud sound on one side and a soft sound on the other.",
+   "context": "In this project you make a small book of sound sources. A sound source is the thing that makes a sound. Each page shows a loud sound source on one side and a soft one on the other. At the end, you read the book to someone and make each sound.",
    "materials": [
     {
      "item": "3 sheets of paper, folded in half and stapled or stitched into a book",
      "qty": 1
     },
     {
-     "item": "crayons or sketch pens",
+     "item": "crayons or sketch pens, for drawing, or an old newspaper or magazine with scissors and glue, for sticking pictures instead",
      "qty": 1
     }
    ],
@@ -1126,7 +1117,7 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Make the book and draw two pages: one loud sound source and one soft sound source on each."
+     "what": "Make the book and fill the first two pages: a loud sound source on the left, a soft one on the right."
     },
     {
      "day": 2,
@@ -1156,9 +1147,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child draws a loud sound source and a soft sound source on the first two pages. Write the names for them.",
-     "say": "Think of a loud sound in our home. Draw what makes it. Now a soft sound. What makes it?",
-     "kid": "Draw a loud sound source. Now draw a soft one.",
+     "do": "Your child puts a loud sound source on the left page and a soft one on the right page. They can draw it, or stick a picture cut from an old newspaper, or write the name. Write the names for them if needed.",
+     "say": "Think of a loud sound in our home. What makes it? Now think of a soft sound. What makes it? Show each one on its page.",
+     "kid": "Loud sound source on the left page. Soft one on the right. Draw, stick or write.",
      "ask": [
       {
        "q": "What makes your loud sound loud?",
@@ -1172,7 +1163,7 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "On day 2, your child fills the other pages, then reads the book to a family member. For each page, they make the sound, loud or soft.",
+     "do": "On day 2, your child fills the other pages in the same way, then reads the book to a family member. For each page, they make the sound, loud or soft.",
      "say": "Let's finish the book. Then read it to someone at home, and make each sound as you show them the page.",
      "kid": "Finish your book. Read it to someone. Make each sound.",
      "parent": "Some sounds can be made both loud and soft, like a clap or a drum. If your child notices this, ask how they would draw it."
@@ -1225,7 +1216,7 @@
      "mins": 2,
      "do": "Read the problem. Put the tumblers and the plate on the floor in one room, and the tray and towel beside them.",
      "say": "A baby is sleeping in the next room. You must carry these to the kitchen shelf. How can you do it without a clang?",
-     "kid": "A baby is sleeping. Carry these without a clang. How will you do it?",
+     "kid": "Make a plan to carry the tumblers and the plate with no clang.",
      "ask": [
       {
        "q": "What makes the loud clang?",
@@ -1252,7 +1243,7 @@
      "kid": "Which way was quietest? Why?",
      "ask": [
       {
-       "q": "Why did the towel help?",
+       "q": "Why was that way quiet?",
        "good": [
         "Steel landing on a soft towel makes a soft sound.",
         "The tumblers did not bang."

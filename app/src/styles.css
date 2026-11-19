@@ -6827,6 +6827,9 @@ body {
   background: color-mix(in srgb, var(--kc) 32%, var(--surface));
   border-bottom: var(--edge);
 }
+.fxpbar .fxmeta {
+  color: var(--ink);
+}
 .fxpbar .fxbar {
   height: 6px;
   border-radius: 0;
@@ -6860,6 +6863,7 @@ body {
   display: flex;
   align-items: center;
   gap: 2px;
+  min-height: 40px;
   padding: 2px 4px 2px 14px;
   border-bottom: 2px dashed var(--rule);
   background: var(--surface);
@@ -7064,6 +7068,10 @@ body {
   }
   body:has(.fxdlg[open]) main {
     visibility: hidden;
+  }
+  body:has(.fxdlg[open]) header.top {
+    position: fixed;
+    inset: 0 0 auto var(--rail);
   }
 }
 @media (min-width: 1200px) {

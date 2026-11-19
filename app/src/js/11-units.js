@@ -1,5 +1,5 @@
-/* DeepKids-track units: the feed, what counts as done, the unit planner, prep and buy lists */
-/* parent mode shows what to do and say; child mode speaks to the child. ❤ saves a card, 🔊 reads it, 💬 asks DeepKids AI about it. */
+/* DeepKids-track units: the unit's page and its cards, what counts as done, the unit planner, prep and buy lists */
+/* Cards speak to the child. On each card ❤ saves it and 🔊 reads it aloud; 💬 asks DeepKids AI about it. */
 const FXE = {
   summary: "✨",
   intro: "👀",
@@ -249,12 +249,16 @@ function fxDialog() {
   document.body.appendChild(d);
   d.addEventListener("click", fxClick);
   d.addEventListener("cancel", fxBack);
-  d.addEventListener("keydown", fxBack);
   return d;
 }
-// the phone's back gesture, or Escape: an open part folds away first, then the unit closes
+// the phone's back gesture, or Escape: an open part folds away first, then the unit closes. On a big screen the unit is
+// not a pop-up, so Escape comes from the page; a pop-up that is open on top (a sheet, the chat) takes it instead
 function fxBack(e) {
-  if (e.type === "keydown" && (e.key !== "Escape" || e.currentTarget.matches(":modal"))) return;
+  if (
+    e.type === "keydown" &&
+    (e.key !== "Escape" || !document.getElementById("fxDlg")?.open || document.querySelector("dialog:modal"))
+  )
+    return;
   e.preventDefault();
   FXSI >= 0 ? fxMap() : fxClose();
 }
@@ -298,7 +302,7 @@ function fxFlowCards(u, kind, x) {
   C.push({
     key: "flow." + x.id,
     kind,
-    html: `${fxImg(u, "flow." + x.id, x.title)}<div class="fxtxt"><span class="fxeb">${FXE[kind]} ${FXN[kind]} · ${x.mins} min${x.days > 1 ? ` · ${x.days} days` : ""}${x.players ? ` · ${esc(x.players)} players` : ""}</span>
+    html: `${fxImg(u, "flow." + x.id, x.title)}<div class="fxtxt"><span class="fxeb">${FXE[kind]} ${FXN[kind]} · ${x.mins} min${x.days > 1 ? ` · ${x.days} days` : ""}${x.players ? ` · ${esc(x.players)}` : ""}</span>
     ${why ? `<div class="fxwhat"><b>What we are doing, and why</b><p>${esc(why)}</p></div>` : ""}
     ${x.problem && x.problem !== why ? `<p><b>The problem:</b> ${esc(x.problem)}</p>` : ""}${x.question && x.question !== why ? `<p><b>Question:</b> ${esc(x.question)}</p>` : ""}${x.predict ? `<p><b>Predict first:</b> ${esc(x.predict)}</p>` : ""}${x.fair_test ? `<p class="fxpo"><b>Fair test:</b> ${esc(x.fair_test)}</p>` : ""}
     ${
@@ -1026,7 +1030,7 @@ function fxShowSection(si, ci) {
     body = FXALL.filter((c) => c.sec === s.id);
   const end = {
     key: "end." + s.id,
-    html: `<div class="fxtxt fxlead">${fxStar()}<h2>Done: ${esc(s.title)}</h2><p class="fxsm" data-fx-time>⏱️ You took ${fxMin(T)} (planned ${s.mins} min)</p>${nx ? `<div class="fxnext" style="--kc:${fxKC(nx.kind)[2]}"><span class="fxeb">Next up ${fxPill(nx.kind)}</span><b>${nx.emoji} ${esc(nx.title)}</b><span class="fxsm">${nx.mins} min · ${esc(nx.lead || "")}</span></div><button class="fxb fxgo" data-fx="sec" data-s="${si + 1}">Next: ${fxKC(nx.kind)[0]} →</button>` : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow"><button class="fxb" aria-pressed="false" data-fx="map">Close this part</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
+    html: `<div class="fxtxt fxlead">${fxStar()}<h2>Done: ${esc(s.title)}</h2><p class="fxsm" data-fx-time>⏱️ ${T ? `You took ${fxMin(T)} (planned ${s.mins} min)` : `Planned: ${s.mins} min`}</p>${nx ? `<div class="fxnext" style="--kc:${fxKC(nx.kind)[2]}"><span class="fxeb">Next up ${fxPill(nx.kind)}</span><b>${nx.emoji} ${esc(nx.title)}</b><span class="fxsm">${nx.mins} min · ${esc(nx.lead || "")}</span></div><button class="fxb fxgo" data-fx="sec" data-s="${si + 1}">Next: ${fxKC(nx.kind)[0]} →</button>` : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow"><button class="fxb" aria-pressed="false" data-fx="map">Close this part</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
   };
   FXCARDS = [...body, end];
   const last = FXCARDS.length - 1,
@@ -1224,7 +1228,7 @@ async function fxPractise(ids) {
   FXSI = -3;
   fxSolo(
     "↻ Refresher",
-    `${items.map(({ u: x, r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf" data-uid="${esc(x.id)}"><div class="fxch"><span class="fxmeta">${i + 1} of ${items.length}${units.length > 1 ? " · " + esc(x.title) : ""}</span></div><div class="fxtxt">${fxItem(x, "rf." + Date.now() + "~" + r.k, it, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></section>`).join("")}<section class="fxc"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h2>Practice done</h2><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></section>`,
+    `${items.map(({ u: x, r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf" data-uid="${esc(x.id)}">${units.length > 1 ? `<div class="fxch"><span class="fxmeta">${esc(x.title)}</span></div>` : ""}<div class="fxtxt">${fxItem(x, "rf." + Date.now() + "~" + r.k, it, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></section>`).join("")}<section class="fxc"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h2>Practice done</h2><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></section>`,
   );
 }
 // A worksheet as a printable A4 sheet: each question type in a form a child can do with a pencil, answers on their own page
