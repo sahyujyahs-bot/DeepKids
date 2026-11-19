@@ -46,7 +46,8 @@ let FXCUR = 0,
   FXU = null,
   FXPU = {},
   FXCARDS = [],
-  FXOBS = null;
+  FXOBS = [],
+  FXENDT = 0;
 // the emoji of a step picture's activity, by the first letter of its id (e1, a2, g1, p1, c1)
 const FXSTEPE = { e: "🧪", a: "🤸", g: "🎲", p: "🛠️", c: "🧩" };
 function fxImg(u, key, brief, cls) {
@@ -236,8 +237,9 @@ function fxSheet(b) {
   };
   document.head.appendChild(sc);
 }
-/* the one full-screen dialog every DeepKids unit, song and refresher opens in; made on first use. The phone's back
-   gesture goes to the unit's map when a part is open, else closes it */
+/* the one dialog every DeepKids unit, song and refresher opens in; made on first use. On a phone or tablet it is a full
+   screen on top of everything. On a big screen it is not modal: it sits in the page area, so the side bar and the logo
+   stay in view and in use */
 function fxDialog() {
   let d = document.getElementById("fxDlg");
   if (d) return d;
@@ -246,28 +248,59 @@ function fxDialog() {
   d.className = "fxdlg";
   document.body.appendChild(d);
   d.addEventListener("click", fxClick);
-  d.addEventListener("cancel", (e) => {
-    e.preventDefault();
-    FXSI >= 0 ? fxMap() : fxClose();
-  });
+  d.addEventListener("cancel", fxBack);
+  d.addEventListener("keydown", fxBack);
   return d;
+}
+// the phone's back gesture, or Escape: an open part folds away first, then the unit closes
+function fxBack(e) {
+  if (e.type === "keydown" && (e.key !== "Escape" || e.currentTarget.matches(":modal"))) return;
+  e.preventDefault();
+  FXSI >= 0 ? fxMap() : fxClose();
+}
+// put a page in the unit dialog and show it
+function fxShow(html) {
+  const d = fxDialog();
+  d.innerHTML = html;
+  if (d.open) return d;
+  if (matchMedia("(min-width: 900px)").matches) {
+    if (sheet.open) sheet.close();
+    d.show();
+  } else d.showModal();
+  return d;
+}
+// scroll to a card or a part, gently unless the family has asked their device for less motion
+function fxScrollTo(el, block = "start") {
+  el?.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block });
+}
+// a song or a refresher: a slim bar with its name and a close button, then its cards in one column
+function fxSolo(name, cards) {
+  fxUnwatch();
+  fxShow(
+    `<div class="fxpage"><div class="fxsolo"><b>${name}</b><button class="fxround" data-fx="close" aria-label="Close">${icon("close")}</button></div><div class="fxstack">${cards}</div></div>`,
+  );
 }
 function fxOpenSong(id) {
   const sg = DATA.songs?.[id];
   if (!sg) return;
-  const d = fxDialog();
   FXSI = -2;
-  d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:100%"></i></div></div><div class="fxmap"><div class="fxin"><div class="fxtxt">${fxSongHtml(sg)}</div></div></div>`;
-  if (!d.open) d.showModal();
+  fxSolo("🎵 Song", `<section class="fxc"><div class="fxtxt">${fxSongHtml(sg)}</div></section>`);
 }
+/* an activity, experiment, game, project or challenge: one opening card that says what we are doing and why, what is
+   needed and how it is done (title, things to gather, safety and the pictures are said once, here), then one card for
+   each step with only that step on it, then what to write down at the end */
 function fxFlowCards(u, kind, x) {
   const C = [],
-    n = x.flow.length;
+    n = x.flow.length,
+    // a picture for every step: each step shows its own, and the row of all of them is not needed
+    own = Array.isArray(x.setup) && x.setup.length === n && fxHasPics(u, x),
+    why = x.context || x.problem || x.question || x.flow[0]?.context || "";
   C.push({
     key: "flow." + x.id,
     kind,
-    html: `${fxImg(u, "flow." + x.id, x.title)}<div class="fxtxt"><span class="fxeb">${FXE[kind]} ${FXN[kind]} · ${x.mins} min${x.days > 1 ? ` · ${x.days} days` : ""}</span><h2>${esc(x.title)}</h2>${fxSetup(u, x)}
-    ${x.problem ? `<p>${esc(x.problem)}</p>` : ""}${x.question ? `<p><b>Question:</b> ${esc(x.question)}</p>` : ""}${x.predict ? `<p><b>Predict first:</b> ${esc(x.predict)}</p>` : ""}${x.fair_test ? `<p class="fxpo"><b>Fair test:</b> ${esc(x.fair_test)}</p>` : ""}
+    html: `${fxImg(u, "flow." + x.id, x.title)}<div class="fxtxt"><span class="fxeb">${FXE[kind]} ${FXN[kind]} · ${x.mins} min${x.days > 1 ? ` · ${x.days} days` : ""}${x.players ? ` · ${esc(x.players)} players` : ""}</span>
+    ${why ? `<div class="fxwhat"><b>What we are doing, and why</b><p>${esc(why)}</p></div>` : ""}
+    ${x.problem && x.problem !== why ? `<p><b>The problem:</b> ${esc(x.problem)}</p>` : ""}${x.question && x.question !== why ? `<p><b>Question:</b> ${esc(x.question)}</p>` : ""}${x.predict ? `<p><b>Predict first:</b> ${esc(x.predict)}</p>` : ""}${x.fair_test ? `<p class="fxpo"><b>Fair test:</b> ${esc(x.fair_test)}</p>` : ""}
     ${
       (x.materials || []).length
         ? `<div class="fxneed"><b>You need</b>${x.materials
@@ -278,33 +311,41 @@ function fxFlowCards(u, kind, x) {
             })
             .join("")}</div>`
         : ""
-    }${x.players ? `<p class="fxsm"><b>Players:</b> ${esc(x.players)}</p>` : ""}
+    }
     ${x.safety && !/^(none|no special|not needed|nothing)\b/i.test(x.safety) ? `<p class="fxsm">⚠️ ${esc(x.safety)}</p>` : ""}${x.days > 1 && x.schedule ? `<p class="fxsm"><b>Over ${x.days} days:</b> ${x.schedule.map((s) => `Day ${s.day}: ${esc(s.what)}`).join(" · ")}</p>` : ""}
-    ${x.printables ? `<button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the game</button>` : ""}${x.example_chart ? `<p class="fxsm"><b>What results might look like (made-up example):</b></p>${fxChart(x.example_chart)}` : ""}<p class="fxhint">Scroll for ${x.printables ? "the game pieces and " : ""}the ${n} steps ↓</p></div>`,
+    ${own ? "" : fxSetup(u, x)}${x.printables ? `<button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the game</button>` : ""}${x.example_chart ? `<p class="fxsm"><b>What results might look like (made-up example):</b></p>${fxChart(x.example_chart)}` : ""}<p class="fxhint">${x.printables ? "The game pieces, then " : ""}${n} step${n === 1 ? "" : "s"}, one at a time ↓</p></div>`,
   });
   if (x.printables)
     C.push({
       key: "pieces." + x.id,
       kind,
-      html: `<div class="fxtxt"><span class="fxeb">🃏 ${esc(x.title)} · the game pieces</span><p class="fxsm">Print them, or play straight from the screen. Tap a card to pick it.</p>${x.printables.map((p) => `<h3>${esc(p.title)}</h3><div class="fxpieces ${p.kind.replace(/\W/g, "")}">${p.items.map((it, j) => fxPiece(it, j, p.kind)).join("")}</div>${p.items.some((it) => it.b) ? `<p class="fxhint">Tap a card to turn it over.</p>` : ""}`).join("")}<h3>How to play</h3><ol>${x.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol><button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the pieces</button></div>`,
+      html: `<div class="fxtxt"><span class="fxeb">🃏 The game pieces</span><p class="fxsm">Print them, or play straight from the screen. Tap a card to pick it.</p>${x.printables.map((p) => `<h3>${esc(p.title)}</h3><div class="fxpieces ${p.kind.replace(/\W/g, "")}">${p.items.map((it, j) => fxPiece(it, j, p.kind)).join("")}</div>${p.items.some((it) => it.b) ? `<p class="fxhint">Tap a card to turn it over.</p>` : ""}`).join("")}<h3>How to play</h3><ol>${x.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol><button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the pieces</button></div>`,
     });
-  x.flow.forEach((s, i) =>
+  x.flow.forEach((s, i) => {
+    const st = own && x.setup[i],
+      pic = st && (st.scene || u.img?.[`setup.${x.id}.${i}`]);
     C.push({
       key: `step.${x.id}.${s.id}`,
       kind,
       step: s,
-      html: `<div class="fxtxt fxstep"><span class="fxeb">${FXE[kind]} ${esc(x.title)} · step ${i + 1} of ${n} · ${s.mins} min</span>
-    ${fxHow(u, s) || (fxHasPics(u, x) ? fxSetup(u, x, true) : "")}${s.adult ? `<p class="fxadult">🧑 A grown-up needs to be here for this step.</p>` : ""}
-    <p class="fxkid">${esc(s.kid)}</p>${fxChart(s.chart)}
+      label: `Step ${i + 1} of ${n} · ${s.mins} min`,
+      html: `<div class="fxtxt fxstp">${pic ? (st.scene ? `<div class="fxscene">${fxScene(st)}</div>` : fxImg(u, `setup.${x.id}.${i}`, st.art || "", "fxsq")) : fxHow(u, s)}${s.adult ? `<p class="fxadult">🧑 A grown-up needs to be here for this step.</p>` : ""}
+    <p class="fxkid"><b class="fxnum">${i + 1}</b>${esc(s.kid)}</p>${fxChart(s.chart)}
     ${s.check ? fxMcq(u, `chk.${x.id}.${s.id}`, s.check.q, s.check.options, s.check.a, s.check.why || "", s.check) : ""}${s.wait ? `<p class="fxsm">⏳ ${esc(s.wait)}: DeepKids brings this back on the right day.</p>` : ""}
-    ${s.think ? `<p class="fxthink">🤔 ${esc(s.think)}</p>` : ""}<button class="fxb fxdone" data-fx="done" data-key="step.${x.id}.${s.id}">✓ Done</button></div>`,
-    }),
-  );
+    ${s.think ? `<p class="fxthink">🤔 ${esc(s.think)}</p>` : !s.check && s.ask?.[0]?.q ? `<p class="fxthink">💬 ${esc(s.ask[0].q)}</p>` : ""}<button class="fxb fxdone" data-fx="done" data-key="step.${x.id}.${s.id}">✓ Done</button></div>`,
+    });
+  });
   if (kind === "challenges")
     C.push({
       key: "sol." + x.id,
       kind,
-      html: `<div class="fxtxt"><span class="fxeb">🧩 ${esc(x.title)} · solutions</span><h3>Usual solutions</h3><ul>${x.general.map((g) => `<li>${esc(g)}</li>`).join("")}</ul><h3>Creative solutions</h3><ul>${x.creative.map((g) => `<li>${esc(g)}</li>`).join("")}</ul><h3>Your turn</h3><p>${esc(x.your_turn)}</p></div>`,
+      html: `<div class="fxtxt"><span class="fxeb">🧩 Solutions</span><h3>Usual solutions</h3><ul>${x.general.map((g) => `<li>${esc(g)}</li>`).join("")}</ul><h3>Creative solutions</h3><ul>${x.creative.map((g) => `<li>${esc(g)}</li>`).join("")}</ul><h3>Your turn</h3><p>${esc(x.your_turn)}</p></div>`,
+    });
+  if (x.record)
+    C.push({
+      key: "rec." + x.id,
+      kind,
+      html: `<div class="fxtxt"><span class="fxeb">✍️ What did you find?</span><p>${esc(x.record)}</p>${Array.isArray(x.results_table) ? `<p class="fxsm"><b>Draw this table in your notebook, with these columns:</b></p><ul>${x.results_table.map((c) => `<li>${esc(c)}</li>`).join("")}</ul>` : ""}</div>`,
     });
   return C;
 }
@@ -769,7 +810,6 @@ function fxSecMeta(u, o, ent) {
       kind: k,
       mins: x.mins || 10,
       lead: FXKL[k],
-      need: (x.materials || []).map((m) => (typeof m === "string" ? m : m.item)),
       what:
         x.question || x.problem || x.flow?.[0]?.do || (x.tier ? `${x.items.length} questions, ${x.tier} level.` : ""),
     };
@@ -879,7 +919,7 @@ async function fxOpen(id, straightIn) {
   FXU = u;
   FXALL = fxCards(u);
   const d = fxDialog();
-  if (!d.open) d.showModal();
+  FXSI = -1;
   fxMap();
   if (straightIn) {
     const n = fxProgress(id).next,
@@ -904,18 +944,19 @@ function fxSecState(u, s) {
   const F = fxSt();
   return F.done[u.id]?.["sec:" + s.id] ? "done" : F.time[u.id]?.[s.id] ? "started" : "";
 }
-function fxTop() {
-  return `<div class="fxtop"><button class="fxx" data-fx="map" aria-label="Back to the unit's first screen">${icon("back")}</button><div class="fxbar"><i style="width:0"></i></div></div>`;
-}
-function fxMap() {
+// Tara, the little notebook star with a third eye, who keeps the family company on a unit's page
+const fxStar = () =>
+  `<svg class="fxstar" viewBox="0 0 100 100" aria-hidden="true"><path class="b" d="M50 9 61 34 89 37 68 56 74 84 50 69 26 84 32 56 11 37 39 34Z"/><path class="e" d="M41 46v5M59 46v5"/><path class="m" d="M43 58q7 6 14 0"/><path class="t" d="M50 36l3 4-3 4-3-4Z"/></svg>`;
+/* The unit's one page: the cover and the title, one button to go on, a strip of tabs (one for each kind of part), then
+   every part by kind. On a wide screen the lesson plan (every part in teaching order) stays beside them. The part at
+   index `open` is unfolded in place, with `cards` stacked under its heading; nothing ever moves to another screen */
+function fxDraw(open, cards) {
   const u = FXU,
-    d = document.getElementById("fxDlg"),
     F = fxSt(),
-    SL = FXALL.sections;
-  FXSI = -1;
-  FXOBS?.disconnect();
-  voxCtl("stop");
-  const T = F.time[u.id] || {},
+    SL = FXALL.sections,
+    old = document.querySelector("#fxDlg .fxpage"),
+    y = old?.scrollTop || 0,
+    T = F.time[u.id] || {},
     done = SL.filter((s) => fxSecState(u, s) === "done").length,
     pos = F.pos[u.id],
     cont = pos && typeof pos === "object" ? pos.s : -1,
@@ -924,91 +965,115 @@ function fxMap() {
     cls = +u.id.slice(-1),
     day = { 1: 30, 2: 35, 3: 40, 4: 45, 5: 45 }[cls] || 40,
     it = unitBy("unit|" + u.id),
-    SD = it ? sessionsFor(it) : 0,
+    SD = (it ? sessionsFor(it) : 0) || Math.max(1, Math.round(tot / day)),
     ref = unitRef(u.id),
-    groups = [...new Set(SL.map((s) => fxGroup(s.kind)))];
-  d.innerHTML = `<div class="fxmap"><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}<button class="fxround" data-fx="close" aria-label="Close">${icon("back")}</button></div>
-    <div class="fxin fxsheetp"><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
-    <div class="fxpills">${SD ? `<span>${icon("today")}About ${SD} session${SD === 1 ? "" : "s"}</span><span>${SL.length} parts</span>` : `<span>${SL.length} parts · about ${Math.max(1, Math.round(tot / day))} days</span>`}${ref ? `<span>${esc(ref)}</span>` : ""}</div>
-    ${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
+    groups = [...new Set(SL.map((s) => fxGroup(s.kind)))],
+    meta = (s) => `${s.mins} min${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}`;
+  const part = (s) => {
+    const i = SL.indexOf(s),
+      st = fxSecState(u, s),
+      [kn, , kc, ki] = fxKC(s.kind),
+      head = `<span class="fxpe">${icon(st === "done" ? "check" : ki)}</span><span class="fxpt"><b>${esc(s.title)}</b><span class="fxmeta">${kn === s.title ? "" : kn + " · "}${meta(s)}</span></span>${icon("next")}`;
+    return i === open
+      ? `<li class="fxpart open ${st}" data-s="${i}" style="--kc:${kc}"><div class="fxpbar"><button class="fxph" data-fx="map" aria-expanded="true">${head}</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxstack">${cards}</div></li>`
+      : `<li class="fxpart ${st}" data-s="${i}" style="--kc:${kc}"><button class="fxph" data-fx="sec" data-s="${i}" aria-expanded="false">${head}</button></li>`;
+  };
+  const d = fxShow(`<div class="fxpage"><header class="fxhd"><div class="fxcover">${fxImg(u, "summary", u.summary.art, "fxhero")}</div>
+    <div class="fxtitle"><button class="fxround" data-fx="close" aria-label="Close this unit">${icon("close")}</button><span class="fxeb2">${esc(u.id.split(".")[1].replace(/-/g, " "))} · Class ${cls}</span><h1>${esc(u.title)}</h1><p class="fxsum">${esc(u.summary.text)}</p><button class="link sm" data-fx="sum">Read all</button>
+    <div class="fxtiles"><span><b>${SD}</b>${it ? "session" : "day"}${SD === 1 ? "" : "s"}</span><span><b>${SL.length}</b>parts</span><span><b>${done}</b>done</span>${fxStar()}</div>${ref ? `<p class="fxmeta">${esc(ref)}</p>` : ""}</div></header>
+    <div class="fxcols"><div class="fxlist">${done || spent ? `<div class="fxbar"><i style="width:${(100 * done) / SL.length}%"></i></div><p class="fxsm">${done} of ${SL.length} parts done · ${fxMin(spent)} spent. ${fxScore(u)}</p>` : ""}
     ${cont >= 0 && cont < SL.length ? `<button class="btn big fxstart" data-fx="sec" data-s="${cont}" data-c="${pos.c || 0}">${icon("play")}Continue: ${fxKC(SL[cont].kind)[0]}</button>` : `<button class="btn big fxstart" data-fx="sec" data-s="0">${icon("play")}Start</button>`}
-    <div class="fxjump">${groups.map((g) => `<button class="chip" data-fx="jump" data-g="${g}">${FXKC[g][4]}</button>`).join("")}</div>
+    <div class="fxjump">${groups.map((g) => `<button data-fx="jump" data-g="${g}" style="--kc:${FXKC[g][2]}">${icon(FXKC[g][3])}${FXKC[g][4]}</button>`).join("")}</div>
     ${groups
       .map((g) => {
         const L = SL.filter((s) => fxGroup(s.kind) === g),
           n = L.filter((s) => fxSecState(u, s) === "done").length;
-        return `<section class="fxgroup" data-g="${g}" style="--kc:${FXKC[g][2]}"><h2>${icon(FXKC[g][3])}${FXKC[g][4]}<span>${n ? `${n} of ${L.length} done` : `${L.length} part${L.length === 1 ? "" : "s"}`}</span></h2><ol class="fxparts">${L.map(
-          (s) => {
-            const st = fxSecState(u, s),
-              [, , kc, ki] = fxKC(s.kind);
-            return `<li><button data-fx="sec" data-s="${SL.indexOf(s)}" class="${st}" style="--kc:${kc}"><span class="fxpe">${icon(st === "done" ? "check" : ki)}</span><span><b>${esc(s.title)}</b><span class="fxsm">${s.mins} min planned${T[s.id] ? ` · ${fxMin(T[s.id])} spent` : ""}</span></span>${icon("next")}</button></li>`;
-          },
-        ).join("")}</ol></section>`;
+        return `<section class="fxgroup" data-g="${g}" style="--kc:${FXKC[g][2]}"><h2>${icon(FXKC[g][3])}${FXKC[g][4]}<span>${n ? `${n} of ${L.length} done` : `${L.length} part${L.length === 1 ? "" : "s"}`}</span></h2><ol class="fxparts">${L.map(part).join("")}</ol></section>`;
       })
-      .join("")}</div></div>`;
+      .join("")}</div>
+    <aside class="fxplan" aria-label="Lesson plan"><h2>Lesson plan</h2><p class="fxsm">Every part, in the order we teach it.</p><ol>${SL.map((s, i) => `<li><button data-fx="sec" data-s="${i}" class="${fxSecState(u, s)}${i === open ? " now" : ""}" style="--kc:${fxKC(s.kind)[2]}"><i>${i + 1}</i><span>${esc(s.title)}</span><em>${s.mins} min</em></button></li>`).join("")}</ol></aside></div></div>`);
+  d.querySelector(".fxpage").scrollTop = y;
+  return d;
 }
+// stop watching which card is on screen
+function fxUnwatch() {
+  FXOBS.forEach((o) => o.disconnect());
+  FXOBS = [];
+  clearTimeout(FXENDT);
+}
+// the unit's page with every part folded; after folding a part away, its row stays in view
+function fxMap() {
+  const was = FXSI;
+  FXSI = -1;
+  fxUnwatch();
+  voxCtl("stop");
+  const d = fxDraw(-1, "");
+  if (was >= 0) d.querySelector(`.fxpart[data-s="${was}"]`)?.scrollIntoView({ block: "center" });
+  else d.querySelector(".fxpage").scrollTop = 0;
+}
+// unfold part `si` in place, with its cards in one column, and go to card `ci`
 function fxShowSection(si, ci) {
   const u = FXU,
-    d = document.getElementById("fxDlg"),
     F = fxSt(),
     SL = FXALL.sections,
     s = SL[si];
   if (!s) return fxMap();
   FXSI = si;
+  fxUnwatch();
   const T = F.time[u.id]?.[s.id] || 0,
     nx = SL[si + 1],
     body = FXALL.filter((c) => c.sec === s.id);
-  const lead = {
-    key: "lead." + s.id,
-    html: `<div class="fxtxt fxlead"><span class="fxeb">Part ${si + 1} of ${SL.length}</span>${fxPill(s.kind)}<div class="fxbige">${s.emoji}</div><h1>${esc(s.title)}</h1><p class="fxsm">⏱️ About ${s.mins} min${T ? ` · ${fxMin(T)} so far` : ""}</p>${s.need?.length ? `<p class="fxsm"><b>Get ready:</b> ${s.need.map(esc).join(", ")}</p>` : ""}<button class="fxb" data-fx="begin">Let's begin ↓</button></div>`,
-  };
   const end = {
     key: "end." + s.id,
-    html: `<div class="fxtxt fxlead"><div class="fxbige">✅</div><h1>Done: ${esc(s.title)}</h1><p class="fxsm" data-fx-time>⏱️ You took ${fxMin(T)} (planned ${s.mins} min)</p>${nx ? `<div class="fxnext" style="--kc:${fxKC(nx.kind)[2]}"><span class="fxeb">Next up ${fxPill(nx.kind)}</span><b>${nx.emoji} ${esc(nx.title)}</b><span class="fxsm">${nx.mins} min · ${esc(nx.lead || "")}</span></div><button class="fxb fxgo" data-fx="sec" data-s="${si + 1}">Next: ${fxKC(nx.kind)[0]} →</button>` : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow"><button class="fxb" aria-pressed="false" data-fx="map">🗺️ Back to the map</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
+    html: `<div class="fxtxt fxlead">${fxStar()}<h2>Done: ${esc(s.title)}</h2><p class="fxsm" data-fx-time>⏱️ You took ${fxMin(T)} (planned ${s.mins} min)</p>${nx ? `<div class="fxnext" style="--kc:${fxKC(nx.kind)[2]}"><span class="fxeb">Next up ${fxPill(nx.kind)}</span><b>${nx.emoji} ${esc(nx.title)}</b><span class="fxsm">${nx.mins} min · ${esc(nx.lead || "")}</span></div><button class="fxb fxgo" data-fx="sec" data-s="${si + 1}">Next: ${fxKC(nx.kind)[0]} →</button>` : `<p>🎉 That was the last part. ${fxScore(u)}</p>`}<div class="fxrow"><button class="fxb" aria-pressed="false" data-fx="map">Close this part</button><button class="fxb" aria-pressed="false" data-fx="sec" data-s="${si}">↻ Do it again</button></div></div>`,
   };
-  // the title page of a part only shows when there is something to get ready; otherwise the part opens on its first card
-  FXCARDS = [
-    ...(s.need?.length ? [lead] : []),
-    ...body.map((c, j) => ({
-      ...c,
-      html:
-        `<div class="fxcrumb"><button class="fxcl" data-fx="map">${esc(u.title)}</button> › ${esc(fxKC(s.kind)[0])}${fxKC(s.kind)[0] === s.title ? "" : ` › ${esc(s.title)}`}</div>` +
-        c.html,
-    })),
-    end,
-  ];
-  d.innerHTML =
-    fxTop() +
-    `<div class="fxfeed" style="--kc:${fxKC(s.kind)[2]}">${FXCARDS.map((c, i) => `<section class="fxc${F.done[u.id]?.[c.key] ? " isdone" : ""}" data-i="${i}" data-key="${esc(c.key)}"><div class="fxin">${c.html}</div></section>`).join("")}</div>
-   <div class="fxact"><button data-fx="save" aria-label="Save this card">🤍</button><button data-fx="read" aria-label="Read this card aloud">🔊</button></div>`;
-  const feed = d.querySelector(".fxfeed"),
-    bar = d.querySelector(".fxbar i");
-  FXOBS?.disconnect();
-  FXOBS = new IntersectionObserver(
-    (es) => {
-      for (const e of es)
-        if (e.isIntersecting) {
-          const i = +e.target.dataset.i;
-          bar.style.width = (100 * (i + 1)) / FXCARDS.length + "%";
-          FXCUR = i;
-          const sv = d.querySelector('.fxact [data-fx="save"]');
-          sv.textContent = fxSt().saved[u.id]?.[FXCARDS[i].key] ? "❤️" : "🤍";
-          const F2 = fxSt();
-          F2.pos[u.id] = { s: si, c: i, k: s.kind };
-          if (i === FXCARDS.length - 1) {
-            const D = (F2.done[u.id] = F2.done[u.id] || {});
-            D["sec:" + s.id] = 1;
-            const t = e.target.querySelector("[data-fx-time]");
-            if (t) t.textContent = `⏱️ You took ${fxMin(F2.time[u.id]?.[s.id] || 0)} (planned ${s.mins} min)`;
-            if (i > 0) sfx?.("chime");
-          }
-          save();
-        }
+  FXCARDS = [...body, end];
+  const last = FXCARDS.length - 1,
+    d = fxDraw(
+      si,
+      FXCARDS.map(
+        (c, i) =>
+          `<section class="fxc${F.done[u.id]?.[c.key] ? " isdone" : ""}" data-i="${i}" data-key="${esc(c.key)}">${i < last ? `<div class="fxch"><span class="fxmeta">${c.label || `${i + 1} of ${last}`}</span><button data-fx="save" aria-label="Save this card" aria-pressed="${!!F.saved[u.id]?.[c.key]}">${F.saved[u.id]?.[c.key] ? "❤️" : "🤍"}</button><button data-fx="read" aria-label="Read this card aloud">🔊</button></div>` : ""}${c.html}</section>`,
+      ).join(""),
+    ),
+    page = d.querySelector(".fxpage"),
+    li = d.querySelector(".fxpart.open"),
+    bar = li.querySelector(".fxbar i"),
+    at = (i) => {
+      FXCUR = i;
+      bar.style.width = (100 * (i + 1)) / FXCARDS.length + "%";
+      fxSt().pos[u.id] = { s: si, c: i, k: s.kind };
+      save();
+    };
+  // the card crossing a line a third of the way down the screen is the one being read
+  const reading = new IntersectionObserver((es) => es.forEach((e) => e.isIntersecting && at(+e.target.dataset.i)), {
+    root: page,
+    rootMargin: "-30% 0px -60% 0px",
+  });
+  li.querySelectorAll(".fxc").forEach((c) => reading.observe(c));
+  // the part is done once its last card has stayed on screen for a moment
+  const ending = new IntersectionObserver(
+    ([e]) => {
+      clearTimeout(FXENDT);
+      if (!e.isIntersecting) return;
+      FXENDT = setTimeout(() => {
+        const F2 = fxSt(),
+          D = (F2.done[u.id] = F2.done[u.id] || {}),
+          t = e.target.querySelector("[data-fx-time]");
+        at(last);
+        if (t) t.textContent = `⏱️ You took ${fxMin(F2.time[u.id]?.[s.id] || 0)} (planned ${s.mins} min)`;
+        if (!D["sec:" + s.id]) sfx?.("chime");
+        D["sec:" + s.id] = 1;
+        li.classList.add("done");
+        save();
+      }, 1500);
     },
-    { root: feed, threshold: 0.6 },
+    { root: page, threshold: 0.6 },
   );
-  feed.querySelectorAll(".fxc").forEach((c) => FXOBS.observe(c));
-  if (ci > 0) feed.children[Math.min(ci, FXCARDS.length - 1)]?.scrollIntoView({ block: "start" });
+  ending.observe(li.querySelector(`.fxc[data-i="${last}"]`));
+  FXOBS = [reading, ending];
+  if (ci > 0) li.querySelector(`.fxc[data-i="${Math.min(ci, last)}"]`)?.scrollIntoView({ block: "start" });
+  else fxScrollTo(li);
 }
 function fxGo(si, ci) {
   const r = fxShowSection(si, ci),
@@ -1033,7 +1098,7 @@ function fxClose() {
   clearInterval(FXTICK);
   save();
   voxCtl("stop");
-  FXOBS?.disconnect();
+  fxUnwatch();
   const d = document.getElementById("fxDlg");
   if (d?.open) d.close();
 }
@@ -1042,7 +1107,7 @@ function fxCardText(sec) {
   if (c?.step) return c.step.kid;
   // the whole card as it reads on screen in this mode, without its labels ("Part 2 of 36", "ACTIVITY")
   const el = sec.querySelector(".fxtxt,.fxflip")?.cloneNode(true);
-  el?.querySelectorAll(`.fxeb,.fxkp,.fxcrumb`).forEach((x) => x.remove());
+  el?.querySelectorAll(`.fxeb,.fxkp`).forEach((x) => x.remove());
   return readable(el);
 }
 function fxRecordAnswer(u, key, ok, q) {
@@ -1155,10 +1220,11 @@ async function fxPractise(ids) {
     spare.push(...more.slice(n));
   });
   items.push(...spare.slice(0, Math.max(0, 5 - items.length)));
-  const d = fxDialog();
   FXSI = -3;
-  d.innerHTML = `<div class="fxtop"><button class="fxx" data-fx="close" aria-label="Close">✕</button><div class="fxbar"><i style="width:0"></i></div></div><div class="fxfeed">${items.map(({ u: x, r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf" data-uid="${esc(x.id)}"><div class="fxin"><div class="fxcrumb">↻ Refresher · ${i + 1} of ${items.length}${units.length > 1 ? " · " + esc(x.title) : ""}</div><div class="fxtxt">${fxItem(x, "rf." + Date.now() + "~" + r.k, it, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></div></section>`).join("")}<section class="fxc"><div class="fxin"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h1>Practice done</h1><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></div></section></div>`;
-  if (!d.open) d.showModal();
+  fxSolo(
+    "↻ Refresher",
+    `${items.map(({ u: x, r, it, wrong }, i) => `<section class="fxc" data-i="${i}" data-key="rf" data-uid="${esc(x.id)}"><div class="fxch"><span class="fxmeta">${i + 1} of ${items.length}${units.length > 1 ? " · " + esc(x.title) : ""}</span></div><div class="fxtxt">${fxItem(x, "rf." + Date.now() + "~" + r.k, it, i, items.length).replace(/Question \d+ of \d+/, wrong ? "Let's try this one again" : "$&")}</div></section>`).join("")}<section class="fxc"><div class="fxtxt fxlead"><div class="fxbige">🌱</div><h2>Practice done</h2><p class="fxsm">Right answers have left your refresher list. The rest stay for next time.</p><button class="fxb" data-fx="close">Close</button></div></section>`,
+  );
 }
 // A worksheet as a printable A4 sheet: each question type in a form a child can do with a pencil, answers on their own page
 const WS_PRINT_CSS = `@page{size:A4;margin:14mm}*{box-sizing:border-box}body{margin:0;font:15px/1.45 Mukta,system-ui,sans-serif;color:#1f2440}
@@ -1330,15 +1396,11 @@ function fxClick(e) {
   if (a === "close") return fxClose();
   if (a === "map") return fxMap();
   if (a === "sec") return fxGo(+b.dataset.s, +(b.dataset.c || 0));
-  if (a === "jump")
-    return [...d.querySelectorAll(".fxgroup")]
-      .find((x) => x.dataset.g === b.dataset.g)
-      ?.scrollIntoView({ behavior: "smooth" });
+  if (a === "jump") return fxScrollTo([...d.querySelectorAll(".fxgroup")].find((x) => x.dataset.g === b.dataset.g));
   if (a === "sum") {
     b.textContent = d.querySelector(".fxsum").classList.toggle("open") ? "Show less" : "Read all";
     return;
   }
-  if (a === "begin") return sec?.nextElementSibling?.scrollIntoView({ behavior: "smooth" });
   if (a === "save") {
     const S1 = (F.saved[u.id] = F.saved[u.id] || {}),
       k = sec.dataset.key;
@@ -1391,7 +1453,7 @@ function fxClick(e) {
     sec.classList.add("isdone");
     celebrate();
     const nx = sec.nextElementSibling;
-    return nx && setTimeout(() => nx.scrollIntoView({ behavior: "smooth" }), 250);
+    return nx && setTimeout(() => fxScrollTo(nx), 250);
   }
   if (a === "play") {
     const v = b.parentNode;

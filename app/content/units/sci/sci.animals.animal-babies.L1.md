@@ -194,11 +194,11 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
   *Child mode:* Listen. Show how this parent carries the baby. Then say why.
   - Ask: Which of these parents were fathers? (good: The seahorse and the penguin.; A human father can carry a baby too.)
 - **s3 (2 min)**  
-  *Parent does:* 1. Read the turtle card again. Tell your child how the babies find the sea. 2. Ask who carries the eggs in a seahorse family.  
-  *Parent says:* The turtle babies hatch in the sand, with no parent to help. They crawl towards the brightest part of the sky, because that is usually over the sea. That is how they find it. Now think of the seahorse. Who carries the eggs in a seahorse family?  
-  *Child mode:* Turtle babies crawl towards the bright sky to find the sea. Who carries the eggs in a seahorse family?
-  - Note: Olive ridley hatchlings crawl towards the brightest sky, which is usually over the sea. Lights on the beach can lead them the wrong way.
-  - Check: Who carries the eggs in a seahorse family? → **The father**
+  *Parent does:* Read the seahorse card again. Then ask the question.  
+  *Parent says:* Think about the seahorse family. The mother seahorse lays eggs, and a tiny baby grows inside each egg. Now, which parent keeps the eggs safe on their body until the babies hatch?  
+  *Child mode:* A seahorse mother lays eggs. A tiny baby grows inside each egg. Think about it, then choose.
+  - Note: In seahorses, the mother puts her eggs into the father's belly pouch. He carries them for a few weeks, and then the tiny seahorses come out. Most animals are not like this, which is why the game has this card.
+  - Check: Which seahorse parent keeps the eggs, with the tiny babies inside, safe on their body until they hatch? → **The father**
 
 ## Experiments
 ### e1 · Heads Tall: is a baby shaped like a small grown-up? (25 min)
@@ -244,13 +244,13 @@ Nandini turned to the last page of her notebook. She drew a pink chick on the le
 - **record:** Keep the four drawings. Write the real grown-up's name under each one.
 - **s1 (6 min)**  
   *Parent does:* Describe each baby, one at a time, without saying the animal's name. Your child draws the grown-up they think the baby becomes. 1. 'This baby is a small wriggling swimmer with a tail and no legs.' 2. 'This baby crawls on leaves and eats them all day.' 3. 'This baby is fluffy and yellow, with webbed feet.' 4. 'This baby is white and wriggly, with no legs, and lives in old fruit.'  
-  *Parent says:* Listen to this baby. What will the baby look like when they grow up? Draw the grown-up.  
-  *Child mode:* Listen to the baby. Draw the grown-up you think they become.
+  *Parent says:* I will tell you clues about a baby animal, but not its name. Listen to the clues. Then draw the grown-up animal you think this baby becomes.  
+  *Child mode:* Your grown-up gives clues about a baby animal. Draw the grown-up animal you think it becomes.
   - Note: The four babies are a tadpole (frog), a caterpillar (butterfly or moth), a duckling (duck) and a maggot (fly). The maggot is the hardest. Any guess is fine.
 - **s2 (4 min)**  
   *Parent does:* Say what each baby really grows up into. Your child draws an arrow from the baby to the grown-up, and draws the baby if they like.  
   *Parent says:* The wriggling swimmer with a tail is a tadpole, and a tadpole grows into a frog. The leaf eater is a caterpillar, and a caterpillar grows into a butterfly or a moth. The fluffy yellow baby is a duckling, and a duckling grows into a duck. The white wriggler in old fruit is a maggot, and a maggot grows into a fly. Were your drawings right? Which baby changes the most when they grow up, and why?  
-  *Child mode:* Hear what each baby grows into. Which baby changes the most?
+  *Child mode:* Find out what each baby really becomes. Which baby changes the most?
   - Ask: Which baby changes the most when they grow up? Why? (good: The maggot, because a fly has wings.; The caterpillar, because a butterfly has wings.; The duckling changes the least, because a duckling already looks like a duck.)
   - Note: The duckling changes the least. The tadpole, the caterpillar and the maggot change their whole body, so any of those with a reason is a good answer.
 ### a2 · Busy Beaks: feed the hungry chicks (12 min)
