@@ -276,7 +276,7 @@
    "title": "The Tickle Test: does your own touch tickle less?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you stroke the bottom of your own foot with a feather and give it a tickle score. Then someone else strokes it in exactly the same way, and you score it again. You test everyone at home who wants to play, and count the results.",
+   "context": "You will find out whether your own touch or someone else's touch tickles more. You stroke the bottom of your own foot with a feather and give it a tickle score. Then someone else strokes it in exactly the same way, and you score it again. You test everyone at home who wants to play, and count the results.",
    "question": "Does your own stroke on your foot tickle less, more, or the same as someone else's stroke done the same way?",
    "predict": "Guess first. Will your own stroke tickle less, more or the same as someone else's? Why do you think so?",
    "fair_test": "Use the same feather, the same spot on the foot, and the same five slow strokes every time. Keep your eyes shut for the strokes, then open them to point to a face. Each person gets two tries of each kind, because one try can be a fluke.",
@@ -337,7 +337,7 @@
      "mins": 2,
      "do": "Ask the question and wait for a guess and a reason. Write the guess at the top of the paper.",
      "say": "We are going to test tickles. Will your own stroke tickle less, more or the same as mine? Why do you think so?",
-     "kid": "Guess. Will your own stroke tickle less, more or the same? Why?",
+     "kid": "Make your guess: less, more or the same.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -353,16 +353,16 @@
     {
      "id": "s2",
      "mins": 2,
-     "do": "1. Draw the four faces: straight face 0, small smile 1, big smile 2, laughing face 3. 2. Make the results table.",
+     "do": "1. Draw the four faces: straight face 0, small smile 1, big smile 2, laughing face 3. Or write 0, 1, 2 and 3 on four scraps of paper. 2. Make the results table.",
      "say": "These faces are our tickle scores. Zero means not ticklish at all. Three means very ticklish.",
-     "kid": "Draw four faces. Zero is a straight face. Three is a laughing face."
+     "kid": "Draw four faces, or write 0 to 3 on scraps of paper. Zero is not ticklish. Three is very ticklish."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "Agree the fair rules together and say them out loud: same feather, same spot, five slow strokes, eyes shut.",
      "say": "What must we keep the same each time, so the test is fair?",
-     "kid": "Keep it fair. Use the same feather and the same spot. Do five slow strokes, with your eyes shut.",
+     "kid": "Think of what we must keep the same each time.",
      "ask": [
       {
        "q": "Why must the strokes be the same?",
@@ -386,14 +386,14 @@
      "mins": 4,
      "do": "Swap. Test every other person at home who agrees, the same way, two tries each.",
      "say": "Now let's test someone else at home who wants to play. Who will stroke their own foot first?",
-     "kid": "Now test someone else at home. You do the stroking for them."
+     "kid": "Test another person at home. They stroke their own foot first. Then you stroke it."
     },
     {
      "id": "s6",
      "mins": 3,
      "do": "Count together. How many people had a lower score for their own stroke? How many the same? How many higher?",
      "say": "Look at the table. What did you notice? Was your guess right?",
-     "kid": "Count. For how many people did their own stroke tickle less? Was your guess right?",
+     "kid": "Count how many people scored their own stroke lower.",
      "ask": [
       {
        "q": "What did you see?",
@@ -458,7 +458,7 @@
      "what": "Set up the glove and the book that hides the hand. Then do the same-moment strokes and the different-moment strokes, and ask each person what they felt."
     }
    ],
-   "record": "Write yes, a bit or no for each try. Draw the set-up.",
+   "record": "Write yes, a bit or no for each try. Take a photo of the set-up, or draw it.",
    "setup": [
     {
      "art": "A table with a standing book. A child's real left hand lies behind the book, out of sight. A water-filled glove lies in front of the child, where the hand would be.",
@@ -485,14 +485,14 @@
      "id": "s2",
      "mins": 4,
      "do": "1. The child sits with both arms on the table. 2. Stand a book up to hide their left hand. 3. Put the glove 15 cm from the hidden hand, in line with the arm. 4. Drape a towel from the child's shoulder to the glove.",
-     "say": "Keep your hidden hand very still. Look only at the glove.",
-     "kid": "Keep your hidden hand still. Look at the glove."
+     "say": "Rest your left hand behind the book. Keep it very still.",
+     "kid": "Look only at the glove."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Stroke the same finger of the glove and of the hidden hand at exactly the same moment, slowly, for about two minutes.",
-     "say": "Keep watching the glove. Tell me if anything changes.",
+     "say": "Keep watching the glove. If you feel the stroke in the glove, tell me.",
      "kid": "Watch the glove. Say if it starts to feel like your hand."
     },
     {
@@ -529,7 +529,7 @@
    "title": "That's Not Me! Hear your voice the way others hear it",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you record your voice on a phone and listen to it. Then you ask your family whether it sounds like you.",
+   "context": "You will find out whether your voice sounds the same to you as it does to your family. You record your voice on a phone and listen to it. Then you ask your family whether it sounds like you.",
    "materials": [
     {
      "item": "a phone that can record sound",
@@ -571,7 +571,7 @@
      "mins": 3,
      "do": "Play it back. Ask the child, then ask everyone else at home.",
      "say": "Does that sound like you? Now let's ask everyone else.",
-     "kid": "Listen. Does it sound like you? Ask your family too.",
+     "kid": "Listen to your recording. Then ask your family what they think.",
      "ask": [
       {
        "q": "Does it sound like you?",
@@ -588,7 +588,7 @@
      "mins": 3,
      "do": "The child puts two fingers on their throat and hums, then hums with fingers gently in their ears.",
      "say": "Hum with your fingers on your throat. Now hum with your fingers in your ears. What changed?",
-     "kid": "Hum. Feel your throat shake. Now hum with fingers in your ears. Is it louder?",
+     "kid": "Hum with two fingers on your throat. Then hum with your fingers in your ears.",
      "ask": [
       {
        "q": "What changed when you hummed with your fingers in your ears?",
@@ -655,23 +655,23 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "The child asks a grown-up who knew them then, row by row, what they liked at 3. The child draws the answers on the left, or the grown-up writes them.",
+     "do": "The child asks a grown-up who knew them then, row by row, what they liked at 3. The grown-up writes the answers on the left, and the child can add a small drawing. Old photos from then can help.",
      "say": "Ask me, or another grown-up who knew you then: what was my favourite food when I was three?",
-     "kid": "Ask a grown-up: what did I like at 3? Draw or write it."
+     "kid": "Ask a grown-up: what did I like at 3? Listen to the answer."
     },
     {
      "id": "s3",
      "mins": 4,
      "do": "The child fills in the right side with what they like now.",
      "say": "Now fill in what you like today.",
-     "kid": "Now write what you like today."
+     "kid": "Now write what you like today, or say it and your grown-up writes it."
     },
     {
      "id": "s4",
      "mins": 3,
      "do": "Count how many likes stayed the same and how many changed.",
      "say": "How many likes are the same? How many changed? Why do you think they changed?",
-     "kid": "Count the same ones. Count the changed ones. Why did they change?",
+     "kid": "Count the likes that stayed the same. Count the ones that changed.",
      "ask": [
       {
        "q": "Why might a like change?",
@@ -691,7 +691,7 @@
    "title": "Mirror Me, Photo Me: which one do you like better?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you look at yourself in a mirror and in a photo. A mirror shows you the other way round from a photo. Other people see you the way a photo does.",
+   "context": "You will find out which picture of you looks more like you. You look at yourself in a mirror and in a photo. A mirror shows you the other way round from a photo. Other people see you the way a photo does.",
    "materials": [
     {
      "item": "a mirror",
@@ -713,7 +713,7 @@
      "what": "Put a sticker on one cheek, look in the mirror, take a photo, and compare the two."
     }
    ],
-   "record": "Draw yourself as the mirror shows you and as the photo shows you. Mark which cheek has the sticker.",
+   "record": "Write which side the sticker is on in the mirror and which side it is on in the photo. Keep the photo too.",
    "setup": [
     {
      "art": "A girl with a small sticker on her right cheek looking into a mirror, the sticker on the right side of the reflection.",
@@ -730,7 +730,7 @@
      "mins": 3,
      "do": "Put a sticker on the child's right cheek. The child looks in the mirror and lifts their right hand.",
      "say": "Lift your right hand. Which hand does the you in the mirror lift? Where is the sticker in the mirror?",
-     "kid": "Lift your right hand. Look at yourself in the mirror. Which hand did the mirror you lift?"
+     "kid": "Lift your right hand. Watch yourself in the mirror."
     },
     {
      "id": "s2",
@@ -749,7 +749,7 @@
      "think": "You see the mirror you every day. Your friends see the photo you. Which is the real you?",
      "ask": [
       {
-       "q": "Scientists asked many people this question. Most liked their mirror face better, and their friends liked the photo better. Why might that be?",
+       "q": "Most people liked their mirror face better. Their friends liked the photo better. Why?",
        "good": [
         "People like the face they are used to seeing. I see my mirror face every day.",
         "My friends see the photo face, so that is the one they are used to."
@@ -764,7 +764,7 @@
    "title": "Find Your Own Touch: what is your brain turning down right now?",
    "mins": 8,
    "days": 1,
-   "context": "In this activity you notice touches your brain usually turns down: your clothes, your tongue, your own breath.",
+   "context": "You will find out how many touches you were not feeling a minute ago. You notice touches your brain usually turns down: your clothes, your tongue, your own breath.",
    "materials": [
     {
      "item": "nothing but you",
@@ -778,7 +778,7 @@
      "what": "Sit still and notice four touches you did not feel a minute ago."
     }
    ],
-   "record": "Draw yourself and mark the four places where you found a touch.",
+   "record": "Tell a grown-up the four places where you found a touch. The grown-up can write them down.",
    "setup": [
     {
      "art": "A child sitting cross-legged with eyes closed, small dots on the shoulders, tongue and feet.",
@@ -795,7 +795,7 @@
      "mins": 2,
      "do": "The child sits still with eyes closed.",
      "say": "Close your eyes. Can you feel your shirt on your shoulders? Were you feeling it a minute ago?",
-     "kid": "Close your eyes. Feel your shirt on your shoulders."
+     "kid": "Feel your shirt on your shoulders."
     },
     {
      "id": "s2",
@@ -807,9 +807,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about why these touches were not noticed before.",
+     "do": "Count the four touches together. Then ask why they were not noticed before.",
      "say": "Why didn't you notice these before?",
-     "kid": "Why didn't you feel them before?",
+     "kid": "Which touch surprised you most?",
      "ask": [
       {
        "q": "Why didn't you notice them?",
@@ -923,7 +923,7 @@
      "mins": 3,
      "do": "Count the piles. Then look at the Not sure pile together and ask the question below.",
      "say": "Look at the Not sure pile. Why were those cards hard to place?",
-     "kid": "Count each pile. Look at the Not sure pile. Why were those cards hard?",
+     "kid": "Count the cards on each pile. Look at the Not sure pile.",
      "think": "Did anyone in your family put a card on a different pile from you?",
      "ask": [
       {
@@ -996,7 +996,7 @@
      "mins": 2,
      "do": "Talk about the results. Then ask the question below.",
      "say": "Could anyone guess all of your likes? Why not?",
-     "kid": "Could anyone guess all of your likes? Why not?",
+     "kid": "Count your points. Which of your likes did nobody guess?",
      "think": "Do you know all of your own likes? Did you have to think hard about any of them?",
      "ask": [
       {
@@ -1027,7 +1027,7 @@
    "title": "My Me Book: five pages, one a day",
    "mins": 50,
    "days": 5,
-   "context": "In this project you make a small book about yourself, one page each day: your body, your voice, your likes, your feelings, and what others see in you.",
+   "context": "In this project you make a small book about yourself, one page each day: your body, your voice, your likes, your feelings, and what others see in you. At the end you will read it to someone and see what has changed and what only you can know.",
    "materials": [
     {
      "item": "five sheets of paper, folded and stapled or tied with thread into a book",
@@ -1052,12 +1052,12 @@
     {
      "day": 3,
      "mins": 10,
-     "what": "Page 3, My likes: draw three likes now and one like that changed (from Then and Now)."
+     "what": "Page 3, My likes: write or draw three likes now and one like that changed (from Then and Now)."
     },
     {
      "day": 4,
      "mins": 10,
-     "what": "Page 4, My feelings: draw a face for how you felt this morning, at lunch and now."
+     "what": "Page 4, My feelings: write a feeling word, or draw a face, for how you felt this morning, at lunch and now."
     },
     {
      "day": 5,
@@ -1089,21 +1089,21 @@
      "mins": 10,
      "do": "Day 2. The child fills in the voice page, using what they found in the That's Not Me! activity.",
      "say": "What did your voice sound like on the phone? What did the family say?",
-     "kid": "Write about your voice on the phone."
+     "kid": "Write about your voice, or say it for a grown-up to write."
     },
     {
      "id": "s3",
      "mins": 10,
      "do": "Day 3. The child fills in the likes page, using their Then and Now paper.",
      "say": "Which three things do you like now? Which like has changed since you were small?",
-     "kid": "Draw three likes you have now and one that changed."
+     "kid": "Write three likes you have now and one that changed. You can draw them instead."
     },
     {
      "id": "s4",
      "mins": 10,
-     "do": "Day 4. The child fills in the feelings page with three faces: morning, lunch and now.",
+     "do": "Day 4. The child fills in the feelings page for three times: morning, lunch and now.",
      "say": "How did you feel this morning? At lunch? Now?",
-     "kid": "Draw three faces. Morning, lunch and now."
+     "kid": "For morning, lunch and now, write a feeling word or draw a face."
     },
     {
      "id": "s5",
@@ -1118,7 +1118,7 @@
      "mins": 3,
      "do": "Read the whole book together.",
      "say": "Read your Me book to us. Which page shows something that has changed since you were small? Which page shows something only you can know?",
-     "kid": "Read your book out loud. Which page shows something that changed? Which shows something only you know?",
+     "kid": "Read your book out loud to someone.",
      "ask": [
       {
        "q": "Which page shows something that changed, and which shows something only you can know?",
@@ -1180,7 +1180,7 @@
      "mins": 5,
      "do": "Test fairly and compare scores.",
      "say": "Score your hand stroke. Now score your machine stroke. Which was higher?",
-     "kid": "Score your hand. Score your machine. Which tickled more?",
+     "kid": "Do both strokes and give each a score from 0 to 3.",
      "parent": "It may or may not tickle more. Either result is useful. Ask the child why they think it worked or didn't."
     }
    ],

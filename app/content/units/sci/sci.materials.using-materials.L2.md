@@ -174,9 +174,9 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
   - Note: Give a point for any move with a good reason, even if the back says otherwise. A tug-of-war rope needs grip for the hands.
 - **s3 (1 min)**  
   *Parent does:* Ask the question below to finish.  
-  *Parent says:* Was there a card where grip would be a problem?  
-  *Child mode:* Which job would go wrong with too much grip?
-  - Ask: Which job would go wrong with grip? (good: The slide. You would get stuck.; The drawer would not open.)
+  *Parent says:* Look back through the cards we played.  
+  *Child mode:* Find a card where too much grip would be a problem.
+  - Ask: Which job would go wrong with too much grip? (good: The slide. You would get stuck.; The drawer would not open.)
 ### g2 · Job Detective (15 min)
 - **rules:** Cut out all the cards. Lay the 8 question cards face up. Put the job cards face down.; One player is the keeper. The keeper takes a job card and looks at it secretly.; The other players take turns to pick a question card and ask it. The keeper answers 'yes' or 'no', using the back of the job card.; After 5 questions, the other players guess the job and name a good material.; A right job gets 1 point. A suitable material gets 1 more point. Then the next player is keeper.
 - **Printable cards: 10 secret job cards to cut out:** A window (back: Needs: see-through, rigid, waterproof. Good material: glass.); A towel (back: Needs: soaks up water, flexible. Good material: cotton.); A raincoat (back: Needs: waterproof, flexible. Good material: plastic.); A tray mat (back: Needs: grip. Good material: rubber.); A slide in the park (back: Needs: slippery, strong, rigid. Good material: steel or plastic.); A water bucket (back: Needs: waterproof, strong. Good material: plastic or steel.); An umbrella cover (back: Needs: waterproof, flexible, strong. Good material: nylon or polyester umbrella cloth.); A bathroom mat (back: Needs: grip, waterproof. Good material: rubber or rough plastic.); A school bag (back: Needs: strong, flexible. Good material: canvas or nylon cloth.); A rope to dry clothes (back: Needs: strong, flexible. Good material: nylon or coir rope.)
@@ -184,17 +184,17 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 - **s1 (3 min)**  
   *Parent does:* 1. Cut out the cards. 2. Read the 8 question cards aloud with your child.  
   *Parent says:* These are our detective questions. Each one asks about a property a job might need.  
-  *Child mode:* Read the question cards. Each asks what a job needs.
+  *Child mode:* Read each question card out loud. Say one job that needs it.
 - **s2 (10 min)**  
   *Parent does:* 1. You start as the keeper, to show how it works. 2. Answer each question from the back of your card. 3. Swap roles after each round.  
   *Parent says:* I have a secret job. Ask me a question card.  
   *Child mode:* Ask a question. Listen to yes or no. Guess the job.
-  - Ask: A card says only 'Needs: grip'. Which job is it, and which material is good? (good: A tray mat. Rubber would be good.)
+  - Ask: Imagine a job card says only 'Needs: grip'. What could the job be? Which material is good? (good: A tray mat. Rubber would be good.)
   - Note: Help your child use the answers together: 'It needs grip and it needs to be waterproof. What could that be?'
 - **s3 (2 min)**  
   *Parent does:* Ask the question below to finish.  
-  *Parent says:* Why did asking about properties help you find the job?  
-  *Child mode:* Why did the questions help you find the job?
+  *Parent says:* Now think about how we found each job.  
+  *Child mode:* Think about what each yes or no answer told you.
   - Ask: Why did asking about properties help you find the job? (good: Each yes or no answer got rid of jobs that did not need that property.; Every job needs its own mix of properties, so a few answers showed which job it was.)
   - Note: This is the same idea as choosing a material. Start with what the job needs, then look for the material that has those properties.
 
@@ -208,7 +208,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the five surfaces: rubber bands, cloth, newspaper, plastic and the bare board. 2. Let your child rub each one with a finger. 3. Ask the question below. 4. Write down their guess and reason, word for word.  
   *Parent says:* Feel each one. Which will hold the katori on the steepest tilt? Which will let it slide first? Why do you think so?  
-  *Child mode:* Feel each one. Which will hold the katori best? Which will let it slide first? Say why.
+  *Child mode:* Rub each surface with a finger. Which feels grippy? Which feels slippery?
   - Ask: Why do you think that one will hold best? (good: The rubber, because it feels sticky.; The cloth, because it is rough.; The plastic will slide first, because it is smooth.)
   - Note: Don't say whether the guess is right. Any guess with a reason is good. The test will answer it.
 - **s2 (4 min)**  
@@ -218,7 +218,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
   - Note: If the rubber bands are too small for the board, cut open a balloon, lay it flat and tape its edges down. Keep the bands flat and close together, so the katori sits on rubber, not on the gaps.
 - **s3 (5 min)**  
   *Parent does:* 1. Hold the ruler upright on the floor, beside the end you will lift. 2. Lift that end very slowly, about as fast as a snail. 3. Stop the moment the katori starts to slide. 4. Read the height on the ruler. 5. Write it down. 6. Do it twice more.  
-  *Parent says:* Lift it slowly, slowly. Watch the katori. Say 'Stop!' the moment it moves. How high is the end now?  
+  *Parent says:* Lift it slowly, slowly. Watch the katori. Say 'Stop!' the moment it moves.  
   *Child mode:* Lift the end very slowly. Shout 'Stop!' when the katori moves. Read the ruler.
   - Ask: How high did the end go before the katori slid? (good: About 20 cm.; Very high. It nearly tipped over before it slid.)
   - Note: A jerk makes the katori slide early, so lift smoothly. You can lift while your child reads the ruler, or the other way round. If the katori tips over instead of sliding, write 'tipped' and the height. That still means the rubber held it.
@@ -236,7 +236,7 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 - **s6 (2 min)**  
   *Parent does:* 1. Ask the first question below. 2. Then ask the second one. 3. Let your child answer both from the table.  
   *Parent says:* We want a mat for a tray, so the tumblers don't slide. Which material should we use? Now a park needs a new slide. Which material should cover it?  
-  *Child mode:* Which material is best for a tray mat? Which is best for a slide? Look at your table.
+  *Child mode:* Look at your table. Pick a material for the tray mat and one for the slide.
   - Ask: Why is the best tray material not the best slide material? (good: The tray needs grip and the slide needs slip.; Rubber grips, so you would get stuck on a rubber slide.)
   - Note: This is the main idea of the unit. The same result, rubber gripping, makes rubber the best for one job and the worst for the other. Let your child say it in their own words before you add anything.
 
@@ -245,8 +245,8 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 - **record:** For each thing, write its job, its material and its properties. Cross out the properties that do not help the job.
 - **s1 (4 min)**  
   *Parent does:* 1. Pick up the steel tumbler. 2. Ask your child what job it does. 3. Ask them to name as many properties of steel as they can. 4. Write them all down.  
-  *Parent says:* What is the tumbler's job? Now tell me everything steel is like. Hard? Shiny? Cold? Heavy?  
-  *Child mode:* What is the tumbler for? Say everything steel is like.
+  *Parent says:* What is the tumbler's job? Now let's find words for steel. Is it hard? Shiny? Cold? Heavy?  
+  *Child mode:* Hold the tumbler. Say what it is for. Then say words that describe steel.
   - Ask: What is steel like? (good: Hard, shiny, cold, heavy, does not break, waterproof.)
   - Note: Write every property they say, even ones that do not matter. Crossing out comes next.
 - **s2 (4 min)**  
@@ -262,17 +262,17 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
   - Note: For the umbrella cloth, being waterproof and flexible matter, but its colour does not. For the chappal, being grippy and bendy matter. For the towel, being absorbent and soft matter. There is often more than one good answer.
   - Check: Which property does a towel need for its job? → **Soaks up water**
 ### a2 · The Grip and Slip Hunt (12 min)
-- **record:** Draw the grip things in green and the slip things in blue. Write the material under each one.
+- **record:** Make two lists, one for grip things and one for slip things. Write the material by each one. You can also take a photo of each thing.
 - **s1 (7 min)**  
-  *Parent does:* 1. Walk round the home with your child. 2. Look under the mixie, at chappal soles, the bathroom mat, bottle lids and bicycle handles. 3. Ask what each one is made of.  
+  *Parent does:* 1. Walk round the home with your child. 2. Look under the mixie, at chappal soles, the bathroom mat, bottle lids and bicycle handles. 3. Ask what each one is made of. 4. Write each grip thing in a list called Grip.  
   *Parent says:* Let's find things that are made to grip. Look under the mixie. Look at your chappal. What material is it?  
-  *Child mode:* Find 5 things that grip. Look under the mixie and at your chappal.
+  *Child mode:* Find 5 things that grip. Add them to your Grip list.
   - Ask: What is the grippy part made of? (good: Rubber.; Rough plastic with little bumps.)
   - Note: Good things to find that grip are chappal soles, the feet of a mixie, a bathroom mat, the ridges on a bottle lid, a bicycle handle and a rough doormat. Many of them are rubber.
 - **s2 (5 min)**  
-  *Parent does:* 1. Now look for things that need to slip. 2. Try a drawer, the carrom board, the flat bottom of an iron box, and a plastic comb going through hair. 3. Draw all the things.  
-  *Parent says:* Now find things that are meant to slide. What would happen if a drawer had a rubber bottom?  
-  *Child mode:* Find 3 things that slip. Draw all your things.
+  *Parent does:* 1. Now look for things that need to slip. 2. Try a drawer, the carrom board, the flat bottom of an iron box, and a plastic comb going through hair. 3. Write each slip thing in a list called Slip.  
+  *Parent says:* Now find things that are meant to slide. Slide a drawer open and shut. Run your hand over the carrom board.  
+  *Child mode:* Find 3 things that slip. Add them to your Slip list.
   - Ask: What would happen if a drawer had a rubber bottom? (good: It would grip the drawer frame, so it would be hard to pull open.; It would stick instead of sliding.)
   - Note: Do not test slipperiness by walking on wet floors. Looking and sliding things with your hands is enough. Look at the iron box only when it is unplugged and cool.
 ### a3 · Heavy or Light: does a heavier katori grip better? (12 min)
@@ -280,41 +280,41 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 - **s1 (2 min)**  
   *Parent does:* Ask the question below, and write down your child's guess and reason.  
   *Parent says:* Which will stay on a steeper tilt: the empty katori or the katori with 20 coins in it? Why do you think so?  
-  *Child mode:* Which katori will stay on the board longer: the empty one or the one with 20 coins? Why?
-  - Ask: Why do you think that katori will stay on longer? (good: The full one, because it is heavy and presses down more.; The empty one, because it is light.)
+  *Child mode:* Pick the katori you think will stay on the board longer.
+  - Ask: Why did you pick that katori? (good: The full one, because it is heavy and presses down more.; The empty one, because it is light.)
 - **s2 (8 min)**  
   *Parent does:* 1. Lay a sheet of newspaper on the board. 2. Test the empty katori 3 times, lifting slowly. 3. Write the heights. 4. Put 20 coins in it. 5. Test it 3 times again.  
   *Parent says:* We use the same board, the same newspaper on it and the same slow lifting. Only the weight changes.  
   *Child mode:* Test the empty one 3 times. Add the coins. Test 3 times again.
   - Note: On newspaper, the two usually slide at about the same height. A difference of 1 or 2 cm counts as the same. If you see a big difference, check that you lifted at the same speed.
 - **s3 (2 min)**  
-  *Parent does:* Compare the middle numbers. Ask the question below.  
-  *Parent says:* Did the heavy katori stay on a steeper tilt? What does that tell us about the guess?  
+  *Parent does:* Circle the middle number of each set of three, the one that is not the biggest and not the smallest. Compare the two middle numbers. Ask the question below.  
+  *Parent says:* Look at the two middle numbers. What do you notice? What does that tell us about your guess?  
   *Child mode:* Did the two katoris slide at about the same height? Was your guess right?
   - Ask: Did the heavy katori stay on a steeper tilt than the empty one? (good: They slid at about the same height, so heavier does not grip better on a slope.)
   - Note: The heavier katori presses down harder and grips more. But it is also pulled down the slope more. The two balance out.
 ### a4 · A Suit for a Superhero (15 min)
-- **record:** Draw the suit. Label each part with its material and the job it does.
+- **record:** For each part of the suit, say or write its material and the job it does. You can take a photo of the pieces.
 - **s1 (5 min)**  
   *Parent does:* 1. Tell your child about the superhero below. 2. Ask what she will need.  
   *Parent says:* Our superhero, Mazhai Rani, rescues people on wet, muddy hills in the rain. What will her boots need? Her gloves? Her cape?  
-  *Child mode:* Mazhai Rani rescues people on wet hills. What does her suit need?
+  *Child mode:* Think about the rain and the mud. What must her suit do?
   - Ask: What do her boots need? (good: Grip, so she doesn't slip on the mud.; Waterproof, so her feet stay dry.)
   - Note: 'Mazhai' means rain in Tamil and Malayalam. Let your child name her too, if they like.
 - **s2 (10 min)**  
-  *Parent does:* 1. Your child draws Mazhai Rani. 2. They label each part with a material and the job it does.  
-  *Parent says:* Draw her suit. For each part, write the material and why you chose it.  
-  *Child mode:* Draw her suit. Write a material for each part. Say why.
-  - Note: Strong answers include rubber boots and gloves for grip, a cape of plastic or umbrella cloth to keep water out, and a bright colour so that people can see her. Ask: 'Would a slippery material be good anywhere on her suit?'
+  *Parent does:* 1. Put small pieces of different materials on the table. 2. Write BOOTS, GLOVES and CAPE on three bits of paper. 3. Your child puts the best material beside each part and says the job it does.  
+  *Parent says:* Pick a material for each part of her suit. Tell me why you chose it.  
+  *Child mode:* Put a material beside each part. Say what job it does.
+  - Note: Strong answers include rubber boots and gloves for grip, a cape of plastic or umbrella cloth to keep water out, and a bright colour so that people can see her. Ask: 'Would a slippery material be good anywhere on her suit?' If your child likes, they can also draw the suit.
 
 ## Projects
 ### p1 · The Grip Map of Our Home (30 min, 3 days)
-- **record:** The finished map, with green and blue marks, a material by each mark, and one fix drawn in a box.
-- **schedule:** day 1: Draw a simple map of the rooms in your home. (10 min); day 2: Mark grip places in green and slip places in blue, with the material. (10 min); day 3: Find one place that gets slippery when it should grip. Draw a fix. (10 min)
+- **record:** The finished map, with green and blue marks, a material by each mark, and one fix written in a box.
+- **schedule:** day 1: Draw a simple map of the rooms in your home. (10 min); day 2: Mark grip places in green and slip places in blue, with the material. Use pencils or sticky notes. (10 min); day 3: Find one place that gets slippery when it should grip. Write a fix in a box. (10 min)
 - **s1 (10 min)**  
-  *Parent does:* 1. Help your child draw each room as a box. 2. Label the rooms.  
+  *Parent does:* 1. Help your child draw each room as a box. Or lay a sheet of paper for each room on the floor. 2. Label the rooms.  
   *Parent says:* Let's draw our home from above, like a bird looking down. Each room is a box.  
-  *Child mode:* Draw each room as a box. Write its name.
+  *Child mode:* Draw each room as a box. Write its name. Or lay out paper sheets as rooms.
 - **s2 (10 min)**  
   *Parent does:* 1. Walk round with the map. 2. Mark grip places green and slip places blue. 3. Write the material by each mark.  
   *Parent says:* Where in the kitchen do we need grip? Where do we need things to slide?  
@@ -322,9 +322,9 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
   - Note: If you did the Grip and Slip Hunt, use the things you found in it.
   - Wait: Do this the next day.
 - **s3 (10 min)**  
-  *Parent does:* 1. Ask your child where someone could slip at home. 2. Draw a box on the map showing a fix, and the material.  
+  *Parent does:* 1. Ask your child where someone could slip at home. 2. On the map, draw a box and write the fix and its material in it.  
   *Parent says:* Where could someone slip in our home? What material could we put there to help?  
-  *Child mode:* Where could someone slip? Draw a fix. What material is it?
+  *Child mode:* Pick one slippery place. Write a fix and its material in a box.
   - Note: The wet bathroom floor is the usual answer. A rubber or rough mat, or rough tiles, are good fixes. Look and talk about it. Do not test it by slipping.
   - Wait: Do this on the third day.
 
@@ -337,18 +337,18 @@ Arjun drew a picture beside it. It showed a boy stuck halfway down a slide, on a
 - **creative:** Rub an unlit candle all over the card, so a thin layer of wax makes it slippery.; Rub the candle on the bottom of the matchbox too.
 - **s1 (3 min)**  
   *Parent does:* Read the challenge to your child. Ask which material from the tilt test they will start with.  
-  *Parent says:* This time we want slip, not grip. Which material let the katori slide first in our tilt test?  
-  *Child mode:* This time you want slip. Which material slipped most in the tilt test?
+  *Parent says:* This time we want slip, not grip. Think back to the tilt test. Which material let the katori slide first?  
+  *Child mode:* Look at your tilt test table. Use it to choose a cover to try first.
   - Ask: Which material will you try first? (good: The plastic, because the katori slid off it first.)
 - **s2 (12 min)**  
-  *Parent does:* 1. Your child covers the card. 2. They lift one end slowly and measure the height when the matchbox slides. 3. They try other covers and compare.  
+  *Parent does:* 1. Your child covers the card and puts 2 coins in the matchbox. 2. They lift one end slowly and measure the height when the matchbox slides. 3. They try other covers and compare.  
   *Parent says:* Lift slowly. When does the matchbox start to slide? Can you make it slide lower?  
   *Child mode:* Cover the card. Lift slowly. Measure. Try another cover.
   - Note: Waxed card is usually very slippery. Keep the candle unlit. Lifting smoothly matters more than anything else.
 - **s3 (5 min)**  
   *Parent does:* Ask the questions below.  
-  *Parent says:* Which cover made the best slide? Would it make a good tray mat?  
-  *Child mode:* Which cover was best for the slide? Would it be good on a tray?
+  *Parent says:* Which cover made the best slide?  
+  *Child mode:* Look at your heights. Find the cover with the lowest one.
   - Ask: Would your slide cover make a good tray mat? (good: No. The tumblers would slide off it.)
 
 ## Worksheets

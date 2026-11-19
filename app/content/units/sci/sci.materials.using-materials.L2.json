@@ -250,7 +250,7 @@
    "title": "The Tilt Test: which material makes the best tray mat?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you cover a board with rubber, cloth, newspaper, plastic or nothing. You put a steel katori on it and lift one end slowly. You measure how high the end is when the katori starts to slide.",
+   "context": "In this experiment you cover a board with rubber, cloth, newspaper, plastic or nothing. You put a steel katori on it and lift one end slowly. You measure how high the end is when the katori starts to slide. You will find out which material grips best, so you can choose a mat that stops tumblers sliding on a tray.",
    "question": "Which material holds a steel katori on the steepest tilt? Which one lets it slide first?",
    "predict": "Feel each material with your fingers. Which one will hold the katori on the steepest tilt? Which one will let it slide first? Why do you think so?",
    "fair_test": "We use the same katori, with the same 10 coins in it, every time. We use the same board and lift the same end, slowly. We put the katori in the same place, in the middle. Only the material on the board changes. We try each material 3 times, because one try can be a fluke.",
@@ -372,7 +372,7 @@
      "mins": 3,
      "do": "1. Lay out the five surfaces: rubber bands, cloth, newspaper, plastic and the bare board. 2. Let your child rub each one with a finger. 3. Ask the question below. 4. Write down their guess and reason, word for word.",
      "say": "Feel each one. Which will hold the katori on the steepest tilt? Which will let it slide first? Why do you think so?",
-     "kid": "Feel each one. Which will hold the katori best? Which will let it slide first? Say why.",
+     "kid": "Rub each surface with a finger. Which feels grippy? Which feels slippery?",
      "ask": [
       {
        "q": "Why do you think that one will hold best?",
@@ -398,7 +398,7 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Hold the ruler upright on the floor, beside the end you will lift. 2. Lift that end very slowly, about as fast as a snail. 3. Stop the moment the katori starts to slide. 4. Read the height on the ruler. 5. Write it down. 6. Do it twice more.",
-     "say": "Lift it slowly, slowly. Watch the katori. Say 'Stop!' the moment it moves. How high is the end now?",
+     "say": "Lift it slowly, slowly. Watch the katori. Say 'Stop!' the moment it moves.",
      "kid": "Lift the end very slowly. Shout 'Stop!' when the katori moves. Read the ruler.",
      "ask": [
       {
@@ -451,7 +451,7 @@
      "mins": 2,
      "do": "1. Ask the first question below. 2. Then ask the second one. 3. Let your child answer both from the table.",
      "say": "We want a mat for a tray, so the tumblers don't slide. Which material should we use? Now a park needs a new slide. Which material should cover it?",
-     "kid": "Which material is best for a tray mat? Which is best for a slide? Look at your table.",
+     "kid": "Look at your table. Pick a material for the tray mat and one for the slide.",
      "ask": [
       {
        "q": "Why is the best tray material not the best slide material?",
@@ -472,7 +472,7 @@
    "title": "Does the Job Need It? Cross out what doesn't matter",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you look at four things in your home. You list the properties of each one's material, and cross out the properties its job does not need.",
+   "context": "In this activity you look at four things in your home. A property is something a material is like, such as hard, shiny or waterproof. You will find out that a thing is made from a material because of what its job needs, not because of everything the material is like.",
    "materials": [
     {
      "item": "a steel tumbler, an umbrella, a rubber chappal and a cotton towel",
@@ -506,8 +506,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Pick up the steel tumbler. 2. Ask your child what job it does. 3. Ask them to name as many properties of steel as they can. 4. Write them all down.",
-     "say": "What is the tumbler's job? Now tell me everything steel is like. Hard? Shiny? Cold? Heavy?",
-     "kid": "What is the tumbler for? Say everything steel is like.",
+     "say": "What is the tumbler's job? Now let's find words for steel. Is it hard? Shiny? Cold? Heavy?",
+     "kid": "Hold the tumbler. Say what it is for. Then say words that describe steel.",
      "ask": [
       {
        "q": "What is steel like?",
@@ -561,10 +561,10 @@
    "title": "The Grip and Slip Hunt",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you walk round your home and find things that are made to grip, and things that are made to slip.",
+   "context": "In this activity you walk round your home and find things that are made to grip, and things that are made to slip. Grip is when something holds and does not slide. Slip is when it slides easily. You will find out that both are chosen on purpose.",
    "materials": [
     {
-     "item": "paper, a green colour and a blue colour",
+     "item": "paper and a pencil, and a phone for photos if you like",
      "qty": 1
     }
    ],
@@ -572,10 +572,10 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Find 5 things made to grip and 3 made to slip. Draw them."
+     "what": "Find 5 things made to grip and 3 made to slip. Write them in two lists."
     }
    ],
-   "record": "Draw the grip things in green and the slip things in blue. Write the material under each one.",
+   "record": "Make two lists, one for grip things and one for slip things. Write the material by each one. You can also take a photo of each thing.",
    "setup": [
     {
      "art": "A child turning over a mixie to look at the rubber feet underneath.",
@@ -590,9 +590,9 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Walk round the home with your child. 2. Look under the mixie, at chappal soles, the bathroom mat, bottle lids and bicycle handles. 3. Ask what each one is made of.",
+     "do": "1. Walk round the home with your child. 2. Look under the mixie, at chappal soles, the bathroom mat, bottle lids and bicycle handles. 3. Ask what each one is made of. 4. Write each grip thing in a list called Grip.",
      "say": "Let's find things that are made to grip. Look under the mixie. Look at your chappal. What material is it?",
-     "kid": "Find 5 things that grip. Look under the mixie and at your chappal.",
+     "kid": "Find 5 things that grip. Add them to your Grip list.",
      "ask": [
       {
        "q": "What is the grippy part made of?",
@@ -607,9 +607,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "1. Now look for things that need to slip. 2. Try a drawer, the carrom board, the flat bottom of an iron box, and a plastic comb going through hair. 3. Draw all the things.",
-     "say": "Now find things that are meant to slide. What would happen if a drawer had a rubber bottom?",
-     "kid": "Find 3 things that slip. Draw all your things.",
+     "do": "1. Now look for things that need to slip. 2. Try a drawer, the carrom board, the flat bottom of an iron box, and a plastic comb going through hair. 3. Write each slip thing in a list called Slip.",
+     "say": "Now find things that are meant to slide. Slide a drawer open and shut. Run your hand over the carrom board.",
+     "kid": "Find 3 things that slip. Add them to your Slip list.",
      "parent": "Do not test slipperiness by walking on wet floors. Looking and sliding things with your hands is enough. Look at the iron box only when it is unplugged and cool.",
      "ask": [
       {
@@ -628,7 +628,7 @@
    "title": "Heavy or Light: does a heavier katori grip better?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you test a guess many people make: that a heavier katori will stay on a steeper tilt than a light one.",
+   "context": "In this activity you test a guess many people make: that a heavier katori will stay on a steeper tilt than a light one. You will find out whether adding weight helps a katori grip.",
    "materials": [
     {
      "item": "the board from the tilt test, covered with newspaper",
@@ -671,10 +671,10 @@
      "mins": 2,
      "do": "Ask the question below, and write down your child's guess and reason.",
      "say": "Which will stay on a steeper tilt: the empty katori or the katori with 20 coins in it? Why do you think so?",
-     "kid": "Which katori will stay on the board longer: the empty one or the one with 20 coins? Why?",
+     "kid": "Pick the katori you think will stay on the board longer.",
      "ask": [
       {
-       "q": "Why do you think that katori will stay on longer?",
+       "q": "Why did you pick that katori?",
        "good": [
         "The full one, because it is heavy and presses down more.",
         "The empty one, because it is light."
@@ -693,8 +693,8 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Compare the middle numbers. Ask the question below.",
-     "say": "Did the heavy katori stay on a steeper tilt? What does that tell us about the guess?",
+     "do": "Circle the middle number of each set of three, the one that is not the biggest and not the smallest. Compare the two middle numbers. Ask the question below.",
+     "say": "Look at the two middle numbers. What do you notice? What does that tell us about your guess?",
      "kid": "Did the two katoris slide at about the same height? Was your guess right?",
      "ask": [
       {
@@ -713,10 +713,10 @@
    "title": "A Suit for a Superhero",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you design a suit for a superhero who rescues people on a rainy, slippery hillside. You choose a material for each part, by its job.",
+   "context": "In this activity you design a suit for a superhero who rescues people on a rainy, slippery hillside. You choose a material for each part, by its job. You will find out how the job of each part decides the material.",
    "materials": [
     {
-     "item": "a big sheet of paper and colours",
+     "item": "small pieces of different materials from home (a rubber band, a plastic bag, cloth, foil, newspaper), and paper and a pencil",
      "qty": 1
     }
    ],
@@ -724,18 +724,18 @@
     {
      "day": 1,
      "mins": 15,
-     "what": "Draw the superhero. Choose and label a material for each part of the suit."
+     "what": "Choose a material for each part of the suit and say why."
     }
    ],
-   "record": "Draw the suit. Label each part with its material and the job it does.",
+   "record": "For each part of the suit, say or write its material and the job it does. You can take a photo of the pieces.",
    "setup": [
     {
      "art": "A girl superhero standing on a wet, muddy hillside in the rain, with empty labels pointing to her boots, gloves, cape and hood.",
-     "caption": "1. Draw the superhero on a rainy hill."
+     "caption": "1. Mazhai Rani rescues people on a rainy hill."
     },
     {
      "art": "The same drawing with labels filled in: 'boots: rubber, grip', 'cape: plastic, waterproof', 'gloves: rubber, grip'.",
-     "caption": "2. Label each part: material and job."
+     "caption": "2. Put a material beside each part. Say its job."
     }
    ],
    "flow": [
@@ -744,7 +744,7 @@
      "mins": 5,
      "do": "1. Tell your child about the superhero below. 2. Ask what she will need.",
      "say": "Our superhero, Mazhai Rani, rescues people on wet, muddy hills in the rain. What will her boots need? Her gloves? Her cape?",
-     "kid": "Mazhai Rani rescues people on wet hills. What does her suit need?",
+     "kid": "Think about the rain and the mud. What must her suit do?",
      "ask": [
       {
        "q": "What do her boots need?",
@@ -759,10 +759,10 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Your child draws Mazhai Rani. 2. They label each part with a material and the job it does.",
-     "say": "Draw her suit. For each part, write the material and why you chose it.",
-     "kid": "Draw her suit. Write a material for each part. Say why.",
-     "parent": "Strong answers include rubber boots and gloves for grip, a cape of plastic or umbrella cloth to keep water out, and a bright colour so that people can see her. Ask: 'Would a slippery material be good anywhere on her suit?'"
+     "do": "1. Put small pieces of different materials on the table. 2. Write BOOTS, GLOVES and CAPE on three bits of paper. 3. Your child puts the best material beside each part and says the job it does.",
+     "say": "Pick a material for each part of her suit. Tell me why you chose it.",
+     "kid": "Put a material beside each part. Say what job it does.",
+     "parent": "Strong answers include rubber boots and gloves for grip, a cape of plastic or umbrella cloth to keep water out, and a bright colour so that people can see her. Ask: 'Would a slippery material be good anywhere on her suit?' If your child likes, they can also draw the suit."
     }
    ]
   }
@@ -773,7 +773,7 @@
    "title": "Grip or Slip?",
    "mins": 10,
    "players": "2 or more players",
-   "context": "This is a moving game. A job card is read out. Everyone stamps their feet if the job needs grip, or slides their hands together if it needs slip.",
+   "context": "This is a moving game. A job card is read out. Everyone stamps their feet if the job needs grip, or slides their hands together if it needs slip. You will practise telling which jobs need grip and which need slip.",
    "printables": [
     {
      "kind": "cards",
@@ -875,11 +875,11 @@
      "id": "s3",
      "mins": 1,
      "do": "Ask the question below to finish.",
-     "say": "Was there a card where grip would be a problem?",
-     "kid": "Which job would go wrong with too much grip?",
+     "say": "Look back through the cards we played.",
+     "kid": "Find a card where too much grip would be a problem.",
      "ask": [
       {
-       "q": "Which job would go wrong with grip?",
+       "q": "Which job would go wrong with too much grip?",
        "good": [
         "The slide. You would get stuck.",
         "The drawer would not open."
@@ -894,7 +894,7 @@
    "title": "Job Detective",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a guessing game. One player picks a secret job card. The others ask questions about the properties the job needs, and guess the job and a good material.",
+   "context": "This is a guessing game. One player picks a secret job card. The others ask questions about the properties the job needs, and guess the job and a good material. A property is something a material is like, such as waterproof. You will practise working out what a job needs.",
    "printables": [
     {
      "kind": "cards",
@@ -980,7 +980,7 @@
      "mins": 3,
      "do": "1. Cut out the cards. 2. Read the 8 question cards aloud with your child.",
      "say": "These are our detective questions. Each one asks about a property a job might need.",
-     "kid": "Read the question cards. Each asks what a job needs."
+     "kid": "Read each question card out loud. Say one job that needs it."
     },
     {
      "id": "s2",
@@ -990,7 +990,7 @@
      "kid": "Ask a question. Listen to yes or no. Guess the job.",
      "ask": [
       {
-       "q": "A card says only 'Needs: grip'. Which job is it, and which material is good?",
+       "q": "Imagine a job card says only 'Needs: grip'. What could the job be? Which material is good?",
        "good": [
         "A tray mat. Rubber would be good."
        ]
@@ -1002,8 +1002,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Ask the question below to finish.",
-     "say": "Why did asking about properties help you find the job?",
-     "kid": "Why did the questions help you find the job?",
+     "say": "Now think about how we found each job.",
+     "kid": "Think about what each yes or no answer told you.",
      "ask": [
       {
        "q": "Why did asking about properties help you find the job?",
@@ -1024,7 +1024,7 @@
    "title": "The Grip Map of Our Home",
    "days": 3,
    "mins": 30,
-   "context": "In this project you make a map of your home over three days. You mark the places that need grip and the places that need slip, and find one place that needs better grip.",
+   "context": "In this project you make a map of your home over three days. You mark the places that need grip and the places that need slip, and find one place that needs better grip. You will see how many things at home were made for grip or for slip.",
    "materials": [
     {
      "item": "a big sheet of paper, a pencil, a green colour and a blue colour",
@@ -1040,15 +1040,15 @@
     {
      "day": 2,
      "mins": 10,
-     "what": "Mark grip places in green and slip places in blue, with the material."
+     "what": "Mark grip places in green and slip places in blue, with the material. Use pencils or sticky notes."
     },
     {
      "day": 3,
      "mins": 10,
-     "what": "Find one place that gets slippery when it should grip. Draw a fix."
+     "what": "Find one place that gets slippery when it should grip. Write a fix in a box."
     }
    ],
-   "record": "The finished map, with green and blue marks, a material by each mark, and one fix drawn in a box.",
+   "record": "The finished map, with green and blue marks, a material by each mark, and one fix written in a box.",
    "setup": [
     {
      "art": "A child drawing a simple map of a flat: kitchen, bathroom, bedroom, hall and balcony as boxes.",
@@ -1060,16 +1060,16 @@
     },
     {
      "art": "A small box on the map showing a rubber mat drawn on a wet bathroom floor.",
-     "caption": "3. Day 3: draw one fix."
+     "caption": "3. Day 3: write one fix."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Help your child draw each room as a box. 2. Label the rooms.",
+     "do": "1. Help your child draw each room as a box. Or lay a sheet of paper for each room on the floor. 2. Label the rooms.",
      "say": "Let's draw our home from above, like a bird looking down. Each room is a box.",
-     "kid": "Draw each room as a box. Write its name."
+     "kid": "Draw each room as a box. Write its name. Or lay out paper sheets as rooms."
     },
     {
      "id": "s2",
@@ -1083,9 +1083,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "1. Ask your child where someone could slip at home. 2. Draw a box on the map showing a fix, and the material.",
+     "do": "1. Ask your child where someone could slip at home. 2. On the map, draw a box and write the fix and its material in it.",
      "say": "Where could someone slip in our home? What material could we put there to help?",
-     "kid": "Where could someone slip? Draw a fix. What material is it?",
+     "kid": "Pick one slippery place. Write a fix and its material in a box.",
      "wait": "Do this on the third day.",
      "parent": "The wet bathroom floor is the usual answer. A rubber or rough mat, or rough tiles, are good fixes. Look and talk about it. Do not test it by slipping."
     }
@@ -1138,8 +1138,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the challenge to your child. Ask which material from the tilt test they will start with.",
-     "say": "This time we want slip, not grip. Which material let the katori slide first in our tilt test?",
-     "kid": "This time you want slip. Which material slipped most in the tilt test?",
+     "say": "This time we want slip, not grip. Think back to the tilt test. Which material let the katori slide first?",
+     "kid": "Look at your tilt test table. Use it to choose a cover to try first.",
      "ask": [
       {
        "q": "Which material will you try first?",
@@ -1152,7 +1152,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "1. Your child covers the card. 2. They lift one end slowly and measure the height when the matchbox slides. 3. They try other covers and compare.",
+     "do": "1. Your child covers the card and puts 2 coins in the matchbox. 2. They lift one end slowly and measure the height when the matchbox slides. 3. They try other covers and compare.",
      "say": "Lift slowly. When does the matchbox start to slide? Can you make it slide lower?",
      "kid": "Cover the card. Lift slowly. Measure. Try another cover.",
      "parent": "Waxed card is usually very slippery. Keep the candle unlit. Lifting smoothly matters more than anything else."
@@ -1161,8 +1161,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Ask the questions below.",
-     "say": "Which cover made the best slide? Would it make a good tray mat?",
-     "kid": "Which cover was best for the slide? Would it be good on a tray?",
+     "say": "Which cover made the best slide?",
+     "kid": "Look at your heights. Find the cover with the lowest one.",
      "ask": [
       {
        "q": "Would your slide cover make a good tray mat?",

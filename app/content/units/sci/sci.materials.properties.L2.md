@@ -167,7 +167,7 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 
 ## Games
 ### g1 · Four Boxes (15 min)
-- **rules:** Draw the board: a big square split into four boxes, with the labels written in.; Shuffle the 16 cards and put them face down in a pile.; Take turns. Turn over the top card, read it, and put it in a box. Say why.; Then turn the card over and read the back. If you were right, keep the card in the box. If not, move it, and say why it goes there.; Each right card scores one point. When all 16 are placed, the player with the most points wins. Playing alone, try to beat your own score next time.
+- **rules:** Make the board: a big square split into four boxes, with the labels written in. You can draw lines, or use four plates or sheets of paper.; Shuffle the 16 cards and put them face down in a pile.; Take turns. Turn over the top card, read it, and put it in a box. Say why.; Then turn the card over and read the back. If you were right, keep the card in the box. If not, move it, and say why it goes there.; Each right card scores one point. When all 16 are placed, the player with the most points wins. Playing alone, try to beat your own score next time.
 - **Printable board: The four-box board, drawn on a big sheet of paper:** Box 1: See-through, keeps water out; Box 2: See-through, lets water through; Box 3: Not see-through, keeps water out; Box 4: Not see-through, lets water through
 - **Printable cards: 16 thing cards to cut out:** A glass tumbler (back: See-through, keeps water out); A clear polythene bag (back: See-through, keeps water out); A clear plastic water bottle (back: See-through, keeps water out); Spectacles (back: See-through, keeps water out); A steel tea strainer (back: See-through, lets water through. Its holes let both through.); A mosquito net (back: See-through, lets water through. Its holes let both through.); An atta sieve (back: See-through, lets water through. Its holes let both through.); An onion net bag (back: See-through, lets water through. Its holes let both through.); A steel plate (back: Not see-through, keeps water out); Kitchen foil (back: Not see-through, keeps water out); A black umbrella (back: Not see-through, keeps water out); A rubber chappal (back: Not see-through, keeps water out); Newspaper (back: Not see-through, lets water through); A cotton towel (back: Not see-through, lets water through); A kitchen sponge (back: Not see-through, lets water through); A clay pot (matka) (back: Not see-through, lets water through, very slowly. That is how a matka keeps water cool.)
 - **s1 (3 min)**  
@@ -177,13 +177,13 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 - **s2 (10 min)**  
   *Parent does:* 1. Take turns turning over a card. 2. The player puts it in a box and says why. 3. Read the back and score.  
   *Parent says:* A mosquito net. Can you see through it? Does water go through it? Which box? Why?  
-  *Child mode:* Turn over a card. Can you see through it? Does water go through? Pick a box.
+  *Child mode:* Turn over a card. Pick a box for it. Say why.
   - Ask: Why did you put the mosquito net in box 2? (good: I can see through it, and water goes through the holes.)
   - Note: Box 2 is the one that surprises most children. Everything in it is see-through because of holes. Box 1 things are see-through with no holes.
 - **s3 (2 min)**  
   *Parent does:* 1. Look at boxes 1 and 2 together. 2. Ask the question below.  
-  *Parent says:* Everything in boxes 1 and 2 is see-through. What is different about the things in box 2?  
-  *Child mode:* Look at box 1 and box 2. What do box 2 things have?
+  *Parent says:* Everything in boxes 1 and 2 is see-through. Look at them closely and compare.  
+  *Child mode:* Compare the things in box 1 with the things in box 2. Look for what is different.
   - Ask: What do all the box 2 things have? (good: Holes.; Little gaps that water can get through.)
 ### g2 · Go Through or Freeze! (10 min)
 - **rules:** Mark a start line and a finish line, about 8 big jumps apart. A long hallway or the middle of a room works.; The players stand on the start line. One person is the caller.; The caller reads the front of a card out loud.; Players decide fast. If it would go through, jump forward one big jump. If it would be stopped, freeze where you are.; The caller reads the back. Anyone who moved the wrong way goes back one jump.; The first player to cross the finish line wins, and becomes the next caller.
@@ -200,8 +200,8 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 - **s3 (1 min)**  
   *Parent does:* 1. At the end, ask the question below.  
   *Parent says:* Light and water both met the glass window. Why did one jump and one freeze?  
-  *Child mode:* Why did light go through the glass window, but water was stopped?
-  - Ask: Why? (good: Glass has no holes for water, but light goes through glass itself.)
+  *Child mode:* Think about the glass window. Tell your grown-up your idea.
+  - Ask: Why did light go through the glass window, but water was stopped? (good: Glass has no holes for water, but light goes through glass itself.)
 
 ## Experiments
 ### e1 · Light and Water: what gets through? (25 min)
@@ -209,21 +209,21 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 - **predict:** Look at the five materials. For each one, guess: will light get through? Will water get through? Most of all, guess about the clear polythene. You can see through it. So will water go through it too? Why do you think so?
 - **fair test:** Every material gets the same two tests. For the light test, we hold each one close to one eye and look at the same window. For the water test, each one covers the same tumbler and gets 1 teaspoon of water. We wait 1 minute every time before we look.
 - **safety:** Look at a window or a tube light, never straight at the Sun. Looking at the Sun can hurt your eyes, even through a material.
-- **record:** Write your guesses at the top, with your reason for the polythene. Fill in the table. Draw the polythene and the tea strainer with water on them.
+- **record:** Write your guesses at the top, with your reason for the polythene. Fill in the table. Draw the polythene and the tea strainer with water on them, or take a photo of each.
 - **results table:** Material | Light: a clear picture, only a glow, or dark? | Water: stayed on top, or got through?
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the five materials on the tray. 2. Let your child touch each one. 3. Ask the questions below. 4. Write their guesses and their reason for the polythene.  
   *Parent says:* We will do two tests on each one. Will light get through? Will water get through? Guess for each one. Now look at the polythene. You can see through it. Will water go through it too? Why do you think so?  
-  *Child mode:* Touch each material. Guess: will light get through? Will water get through? Say why for the polythene.
+  *Child mode:* Touch each material. Guess what each one will let through. Say why you think so for the polythene.
   - Ask: Will water go through the polythene? Why? (good: Yes, because I can see through it, so it must be open.; No, because a polythene bag holds water.; Yes, because it is thin.)
   - Note: Don't say if a guess is right. Many children say yes, because they can see through it. Any guess with a reason is good.
 - **s2 (6 min)**  
   *Parent does:* 1. Stand by the window together. 2. Your child holds each material about 2 cm from one eye. 3. They look at the window through it. 4. They say: a clear picture, only a glow, or dark. 5. Write it in the table.  
   *Parent says:* Hold it close to one eye and look at the window. Can you see the trees clearly? Is there only a glow? Or is it dark?  
-  *Child mode:* Hold it near one eye. Look at the window. Clear picture, a glow, or dark?
+  *Child mode:* Hold each material near one eye. Look at the window. Tell your grown-up what you see.
   - Ask: Which ones gave a clear picture? (good: The polythene, because I could see the trees.; The tea strainer, through the little holes.)
   - Note: The polythene gives a clear picture. The strainer gives a picture through its holes, a little dim. The cloth glows. The newspaper glows faintly, with print in the way. The foil is dark. Remind your child never to look at the Sun.
-  - Check: The foil let no light through. Which word is right for the foil? → **Opaque**
+  - Check: The foil let no light through. What do scientists call a material like that? → **Opaque**
 - **s3 (4 min)**  
   *Parent does:* 1. Stand the glass tumbler on the tray. 2. Lay the polythene over the top. 3. Hold it on with the rubber band. 4. Press the middle gently so it dips a little, like a bowl.  
   *Parent says:* We put the polythene over the tumbler like a lid. If water gets through, we will see it at the bottom of the tumbler.  
@@ -232,13 +232,13 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 - **s4 (8 min)**  
   *Parent does:* 1. Pour 1 teaspoon of water slowly into the middle. 2. Count slowly to 60. 3. Look at the tumbler from the side. 4. Lift the cover and feel the bottom of it. 5. Write the result. 6. Wipe the tumbler dry and do the next material. 7. For the tea strainer, rest it on top of the tumbler. It does not need the rubber band.  
   *Parent says:* Pour the water slowly into the middle. Now count to sixty with me. Look at the bottom of the tumbler. Is there any water? Feel underneath the cover. Is it wet or dry?  
-  *Child mode:* Pour one spoon of water in the middle. Count to sixty. Look in the tumbler. Is there water? Feel under the cover.
+  *Child mode:* Pour one spoon of water in the middle. Count to sixty. Is there water in the tumbler? Do the same for each material.
   - Ask: Which ones kept the water out? (good: The polythene and the foil. The water sat on top.; The tumbler stayed dry under them.)
   - Note: Water sits on the polythene and the foil, and the tumbler stays dry. It drips through the cloth within a few seconds. The newspaper soaks it up and goes soggy. It is wet underneath, and a few drops may fall. Count that as 'got through'. Water runs straight through the strainer.
 - **s5 (4 min)**  
   *Parent does:* 1. Put the polythene and the strainer side by side. 2. Ask your child to look closely at each, and hold each up to the window. 3. Ask the questions below. 4. Listen to their answer before you explain.  
-  *Parent says:* You could see through the polythene and through the strainer. But water went through only one of them. Look closely. What does the strainer have that the polythene does not? Then how did the light get through the polythene?  
-  *Child mode:* Look closely at the strainer and the polythene. What does the strainer have? How did light get through the polythene?
+  *Parent says:* You could see through the polythene and through the strainer. But water went through only one of them. Look closely. What does the strainer have that the polythene does not?  
+  *Child mode:* Look closely at the strainer and the polythene. Hold each one up to the window.
   - Ask: Why did water go through the strainer but not the polythene? (good: The strainer has holes. The polythene has none.; Water needs a gap. Light went through the plastic itself.)
   - Note: After your child answers, say it plainly. The strainer is see-through because of its holes, so water gets through. The polythene has no holes, so water stays on top. Light passes through the plastic itself.
   - Think: Can you think of something else that lets light in but keeps water out?
@@ -251,18 +251,18 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
   *Parent says:* We will ask four questions about each thing. Can I see through it? Does it keep water out? Does it stretch? Is it hard to break?  
   *Child mode:* Help draw the grid. Write the four things down the side. Write the four words across the top.
 - **s2 (6 min)**  
-  *Parent does:* 1. For each thing, your child looks through it, pulls it gently, and squeezes or tugs it. 2. For waterproof, they think about whether water would go through. 3. Mark a tick, a cross or a dot for 'a bit'.  
-  *Parent says:* Look through the tumbler. Can you see through it? Now pull the rubber band. Does it stretch? Try to tear the hanky gently. Is it hard to break?  
-  *Child mode:* Look through it. Pull it gently. Try to tear it gently. Mark the grid.
+  *Parent does:* 1. For each thing, your child looks through it, pulls it gently, and squeezes or tugs it to feel how strong it is. 2. For waterproof, they think about whether water would go through. 3. Mark a tick, a cross or a dot for 'a bit'.  
+  *Parent says:* Take one thing at a time. Look through it. Pull it gently. Squeeze it. Waterproof means water cannot get through. Think about water poured on it. Do not tear or break anything.  
+  *Child mode:* Look through it. Pull it gently. Squeeze it. Mark the grid.
   - Note: Rough answers are fine. The steel tumbler is not see-through, it is waterproof, it is not stretchy and it is strong. The polythene bag is see-through, waterproof, a bit stretchy and a bit strong. The rubber band is not see-through, it is waterproof, stretchy and a bit strong. The hanky only glows, it is not waterproof, it is a bit stretchy and it is strong.
 - **s3 (2 min)**  
   *Parent does:* 1. Look at the four rows together. 2. Ask the question below.  
-  *Parent says:* Look at the rows. Do any two things have exactly the same answers?  
-  *Child mode:* Look at the rows. Are any two the same?
+  *Parent says:* Look along the four rows. Compare the ticks and crosses.  
+  *Child mode:* Look at the rows. Point to two that match, if you can find any.
   - Ask: Are any two rows the same? (good: No. Every thing has its own mix.; The tumbler and the band are both waterproof, but only the band stretches.)
   - Note: Every row is different. Each material has many properties, and its own mix of them.
 ### a2 · Pull, Not Push: which way is a thread strong? (10 min)
-- **record:** Draw the thread pulling the toy, and the thread trying to push it. Write 'pull: yes or no' and 'push: yes or no' under each.
+- **record:** Make a small table with two rows, thread and pencil. Write 'pull: yes or no' and 'push: yes or no' for each. Or tell a grown-up, who writes it down.
 - **s1 (3 min)**  
   *Parent does:* 1. Tape one end of the thread to the front of the toy. 2. Your child pulls the toy across the floor with the thread.  
   *Parent says:* Pull the toy along with the thread. Is the thread strong enough?  
@@ -273,14 +273,14 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
   *Child mode:* Can the thread push the toy? Guess and say why. Now try.
   - Ask: What happened when you pushed? (good: The thread went floppy and bent.; The toy did not move.)
 - **s3 (4 min)**  
-  *Parent does:* 1. Now your child pulls and pushes the toy with the pencil. 2. Ask the question below.  
-  *Parent says:* The pencil can push and pull. The thread can only pull. So is the thread strong or weak?  
-  *Child mode:* Push the toy with the pencil. Pull it too. Is the thread strong or weak?
-  - Ask: Is the thread strong? (good: It is strong when you pull it.; It is no good for pushing, because it bends.)
+  *Parent does:* 1. Your child pushes the toy with the pencil. 2. Tape the pencil to the toy, and your child pulls it by the pencil. 3. Ask the question below.  
+  *Parent says:* Push the toy with the pencil. Now we tape the pencil on, and you pull. The pencil can push and pull. What could the thread not do?  
+  *Child mode:* Push the toy with the pencil. Then pull it by the pencil. Think about what the thread could not do.
+  - Ask: In which way is a thread strong: pulling or pushing? (good: It is strong when you pull it.; It is no good for pushing, because it bends.)
   - Note: A thread is strong when pulled, and floppy when pushed. That is why ropes, kite strings and cables pull things, and posts and pillars push.
   - Check: Which job suits a rope best? → **Pulling a bucket up from a well**
 ### a3 · The Tight Bundle: why a hair band holds (10 min)
-- **record:** Draw both bundles after 3 pencils came out. Write which one stayed tight.
+- **record:** Draw both bundles after 3 pencils came out, or take a photo of each. Write which one stayed tight.
 - **s1 (3 min)**  
   *Parent does:* 1. Make a bundle of 10 pencils with the rubber band, wrapped twice. 2. Make a bundle of 10 with the thread. 3. Wrap the thread twice, pull it tight and tie a knot.  
   *Parent says:* Both bundles are tight now. Feel them.  
@@ -291,9 +291,9 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
   *Child mode:* Guess which bundle stays tight. Say why. Pull out 3 pencils from each. Hold them up.
   - Ask: What happened? (good: The rubber band bundle stayed tight.; The thread went loose, and pencils slid out.)
 - **s3 (3 min)**  
-  *Parent does:* 1. Ask the question below. 2. Point at the band, which is now shorter.  
-  *Parent says:* Why did the rubber band still hold the pencils?  
-  *Child mode:* Why did the rubber band still hold? Look at it.
+  *Parent does:* 1. Point at the rubber band and the thread. 2. Ask the question below.  
+  *Parent says:* Look closely at the rubber band. Then look at the thread. What do you notice about each one?  
+  *Child mode:* Look at the rubber band and the thread. Is each one tight or loose now?
   - Ask: Why did the rubber band keep holding? (good: It was stretched, and it got shorter to hold the pencils that were left.; The thread cannot get shorter, so it went loose.)
   - Note: The rubber band was stretched round the bundle. When pencils came out, it shrank back and stayed tight. A thread hardly stretches, so it stays the same length and goes loose. This is why hair bands, waistbands and fruit sellers' bands are stretchy.
 
@@ -308,21 +308,21 @@ Thangam folded the plastic bag and put it back on top of the cupboard.
 - **creative:** Make a clear polythene roof that slopes, so the water runs off the edge.; Put a piece of mosquito net under the polythene. Then the window keeps out both insects and rain.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Cut a window in the lid, about the size of a matchbox. 2. Cut a peep hole, as big as a coin, in one side. 3. Put the dotted paper on the floor of the box.  
-  *Parent says:* The window must do two jobs. What are they? Which material will you use? Why?  
-  *Child mode:* What two jobs must the window do? Which material will you pick? Why?
+  *Parent says:* Your skylight must do two jobs. Can you say what they are? Then choose a material from the list.  
+  *Child mode:* Pick the material you think will do both jobs. Say why.
 - **s2 (6 min)**  
   *Parent does:* 1. Your child covers the window with their chosen material. 2. They use at most 4 pieces of tape.  
   *Parent says:* Cover the window. Make it tight at the edges, so water cannot creep in there.  
   *Child mode:* Cover the window. Tape the edges tight.
 - **s3 (6 min)**  
   *Parent does:* 1. Put the box on the tray, next to a window or a lamp. 2. Your child peeps in through the side hole. 3. Pour 3 teaspoons of water on the skylight, one at a time. 4. Wait one minute, then open the lid and check the dots.  
-  *Parent says:* Peep in first. Is it bright inside? Now pour the water. Wait a minute. Are the dots still sharp?  
-  *Child mode:* Peep in. Is it bright? Pour the water. Wait. Are the dots dry?
+  *Parent says:* Peep in first. Is it bright inside? Now pour the water. Wait a minute. Then open the lid. Are the dots dry?  
+  *Child mode:* Peep in. Is it bright? Pour the water. Wait. Open the lid and look at the dots.
   - Ask: Did your window do both jobs? (good: Yes. It was bright inside and the dots stayed sharp.; No. Water crept in at the tape, so I need to tape the edges better.)
 - **s4 (4 min)**  
   *Parent does:* 1. If the dots ran, find where the water got in. 2. Your child changes one thing and tests again.  
-  *Parent says:* Where did the water get in? What one thing will you change?  
-  *Child mode:* Where did water get in? Change one thing. Test again.
+  *Parent says:* Look at the dots to see where the water came in. What one thing will you change?  
+  *Child mode:* Change one thing. Test again.
 
 ## Worksheets
 ### What Gets Through? (core) (core, 11 questions)

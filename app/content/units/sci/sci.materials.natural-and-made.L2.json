@@ -288,7 +288,7 @@
    "title": "The Sugar Test: can heat turn white grains into a clear sheet?",
    "mins": 31,
    "days": 1,
-   "context": "In this experiment a grown-up melts sugar with a little water and pours it onto an oiled plate. When it cools, you compare it with a heap of dry sugar. Glass is made from sand in the same way, but sand needs a furnace far hotter than a kitchen stove.",
+   "context": "You will find out why white sugar grains can turn into a clear sheet, the way sand turns into glass. In this experiment a grown-up melts sugar with a little water and pours it onto an oiled plate. When it cools, you compare it with a heap of dry sugar. Glass is made from sand in the same way, but sand needs a furnace far hotter than a kitchen stove.",
    "question": "White sugar grains are not see-through. If we melt them and let them cool, what will they look like?",
    "predict": "Look at the heap of white sugar. When it is melted and cooled, will it be white, clear, or something else? Why do you think so?",
    "fair_test": "We keep one spoon of dry sugar aside, not heated, so we can compare. We put the heap of dry sugar and the cooled sugar sheet on the same newspaper, over words of the same size. We count how many letters we can read through each one.",
@@ -335,7 +335,7 @@
      "what": "Look at the sugar and guess what it will look like after it is melted and cooled. A grown-up melts and pours it. While it cools, fill in the table for the dry heap. Then compare the sheet with the dry sugar on a newspaper. Crush a piece and look again."
     }
    ],
-   "record": "Fill in the table. Draw the dry heap and the sheet side by side, on top of the newspaper words. Write one sentence: what heat did to the sugar.",
+   "record": "Fill in the table. Take a photo of the heap and the sheet side by side on the newspaper words, or draw them. Write one sentence: what heat did to the sugar.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -391,7 +391,7 @@
      "mins": 3,
      "do": "1. Put one spoon of dry sugar in a heap on a newspaper word. 2. Let your child look closely. 3. Ask for a guess and a reason.",
      "say": "Can you read the word under the sugar? Now, if I melt this sugar and let it cool, what will it look like? Why do you think so?",
-     "kid": "Look at the sugar heap. Can you see the word under it? What will melted sugar look like? Why?",
+     "kid": "Look closely at the sugar heap. Can you see the word under it?",
      "ask": [
       {
        "q": "What will the melted sugar look like when it cools?",
@@ -410,7 +410,7 @@
      "adult": true,
      "do": "1. Put 4 tablespoons of sugar and 2 tablespoons of water in the pan. 2. Heat on a medium flame. 3. Stir until the sugar is gone, then stop stirring. 4. Let it bubble for about 6 to 10 minutes.",
      "say": "Stay back where you are. Watch the bubbles. Tell me when they change.",
-     "kid": "Stand back from the stove. Watch the bubbles. Do they change?",
+     "kid": "Stand back from the stove. Watch the bubbles get smaller and slower.",
      "parent": "After a few minutes the bubbles get smaller and slower, and the syrup turns pale gold. Drop a little into cold water. If it goes hard and snaps, it is ready. If it bends like chewing gum, heat one or two minutes more. Take it off before it turns dark brown. If the syrup turns white and grainy, it has set back into crystals. Start again in a clean pan, and add 3 drops of lemon juice."
     },
     {
@@ -419,13 +419,13 @@
      "adult": true,
      "do": "1. Pour the syrup slowly onto the oiled steel plate. 2. Tilt the plate a little so it spreads thin. 3. Put the plate somewhere safe to cool.",
      "say": "I am pouring it now. Don't touch it. It is hotter than boiling water.",
-     "kid": "A grown-up pours it. Don't touch. It is very hot.",
+     "kid": "Watch the syrup spread on the plate. Keep your hands back.",
      "parent": "A thin layer, about as thick as a coin, gives the clearest sheet."
     },
     {
      "id": "s4",
      "mins": 10,
-     "do": "1. Set a timer for 10 minutes. 2. While you wait, fill in the 'Dry sugar heap' column of your table. 3. After 10 minutes, tap the sheet with a spoon to check it is hard.",
+     "do": "1. Set a timer for 10 minutes. 2. While you wait, fill in the 'Dry sugar heap' column of your table: its colour, and how many letters you can read through it. 3. After 10 minutes, tap the sheet with a spoon to check it is hard.",
      "say": "While it cools, look at the dry heap again. What colour is it? Can you read the word under it? Let's write that in the table.",
      "kid": "Fill in the 'Dry sugar heap' column of your table while you wait."
     },
@@ -433,7 +433,7 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Lift the cool sheet off the plate. 2. Lay it on a newspaper word next to the dry heap. 3. Count the letters you can read through each. 4. Wrap a small piece in a cloth and tap it with a spoon until it is powder. 5. Look at the powder.",
-     "say": "How many letters can you read through the heap? Through the sheet? Now, what colour is the crushed sheet? Why do you think it changed?",
+     "say": "How many letters can you read through the heap? Through the sheet? Now, what colour is the crushed sheet?",
      "kid": "Count the letters you can read through each one. Now crush a small piece. What colour is it now?",
      "ask": [
       {
@@ -465,7 +465,7 @@
    "title": "The Soil Cup Test: which materials break down?",
    "mins": 22,
    "days": 14,
-   "context": "In this experiment you bury small pieces of four materials in damp soil. Two are natural and two are made by people. You dig them up after one week and after two weeks to see which ones have started to break down.",
+   "context": "You will find out which things go back into the soil and which stay for a long time. In this experiment you bury small pieces of four materials in damp soil. Two are natural and two are made by people. You dig them up after one week and after two weeks to see which ones have started to break down.",
    "question": "Which materials break down in damp soil in two weeks: banana peel, newspaper, cotton cloth or a plastic bag?",
    "predict": "Which piece do you think will change the most in two weeks? Which will change the least? Why do you think so?",
    "fair_test": "Every piece is about the size of a matchbox. Each one goes in its own cup, under the same amount of soil from the same pot. Every cup gets the same 2 spoons of water twice a week, and all cups stay in the same place.",
@@ -526,7 +526,7 @@
      "what": "Dig up each piece. Compare them. Which changed the most? Sort them: broke down, changed a little, did not change."
     }
    ],
-   "record": "Draw each piece on day 1, day 7 and day 14. Write 'natural' or 'made' under each.",
+   "record": "Fill in the table for each piece. You can also take a photo of each piece on day 1, day 7 and day 14. Write 'natural' or 'made' beside each.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -578,7 +578,7 @@
      "mins": 3,
      "do": "1. Show your child the four pieces. 2. Ask which are natural and which are made by people. 3. Ask for a guess and a reason.",
      "say": "Which of these come from nature, and which did people make? Which one will change most in the soil? Why?",
-     "kid": "Which pieces are natural? Which are made? Which will change most? Why?",
+     "kid": "Sort the four pieces into two groups: natural and made by people.",
      "ask": [
       {
        "q": "Which will change most?",
@@ -603,9 +603,9 @@
      "id": "s3",
      "mins": 5,
      "wait": "Leave the cups for 7 days. Water them twice a week.",
-     "do": "1. Dig each piece up with a spoon. 2. Put it on a newspaper and look. 3. Write what you see. 4. Bury it again.",
-     "say": "What has changed? Look at the colour, and feel how soft it is with the spoon.",
-     "kid": "Dig up each piece with a spoon. What has changed?",
+     "do": "1. Dig each piece up with a spoon. 2. Put it on a newspaper and look. 3. Write what you see in the table. 4. Bury it again.",
+     "say": "What has changed since day 1? Look at the colour, and feel how soft it is with the spoon.",
+         "kid": "Dig up each piece with a spoon. Look at its colour. Is it softer?",
      "ask": [
       {
        "q": "Which piece has changed most?",
@@ -655,7 +655,7 @@
    "title": "The Changing Line: how much did people change it?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you collect things from home and lay them on a line on the floor. At one end go things just as nature made them. At the other end go things that people changed a lot.",
+   "context": "You will find out how much people changed the things around you. In this activity you collect things from home and lay them on a line on the floor. At one end go things just as nature made them. At the other end go things that people changed a lot.",
    "materials": [
     {
      "item": "two sheets of paper: one says 'As nature made it', one says 'Changed a lot by people'",
@@ -677,7 +677,7 @@
      "what": "Collect 8 things. Put each one on the line. Count how many are nearer each end."
     }
    ],
-   "record": "Draw the line in your notebook with all 8 things on it, in order.",
+   "record": "Take a photo of your line with all 8 things on it. Or write the 8 names in order in your notebook.",
    "setup": [
     {
      "art": "A dupatta laid in a straight line on a floor, with a paper at one end reading 'As nature made it' and at the other 'Changed a lot by people'.",
@@ -694,7 +694,7 @@
      "mins": 3,
      "do": "1. Lay the string or dupatta on the floor. 2. Put a sign at each end: 'As nature made it' and 'Changed a lot by people'. 3. Collect 8 things with your child.",
      "say": "Let's find 8 things. Find some that came straight from nature, and some that people made.",
-     "kid": "Find 8 things. Some from nature. Some made by people.",
+     "kid": "Find 8 things around the house and bring them to the line.",
      "parent": "Try to include one of each: something living or grown, something from the ground, something cut from wood, and some glass, paper and plastic."
     },
     {
@@ -702,7 +702,7 @@
      "mins": 5,
      "do": "1. Pick up one thing at a time. 2. Ask your child where it goes on the line, and why. 3. Let them move things as they change their minds.",
      "say": "Where does the wooden spoon go? It is still wood, but someone carved it. How much did people change it?",
-     "kid": "Put each thing on the line. How much did people change it?",
+     "kid": "Put each thing on the line. Move it if you change your mind.",
      "ask": [
       {
        "q": "Why did you put the glass tumbler near the 'Changed a lot by people' end?",
@@ -764,7 +764,7 @@
      "what": "Sprinkle a few grains on dark paper. Shine a torch. Look at one grain, then at a heap."
     }
    ],
-   "record": "Draw one grain big, and a heap small. Colour them as you saw them.",
+   "record": "Take a close photo of one grain and of a heap. Or draw them. Then tell your grown-up one difference.",
    "setup": [
     {
      "art": "A few sugar grains scattered on black paper, lit by a torch from the side, each grain sparkling like a tiny clear crystal.",
@@ -780,8 +780,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Sprinkle a few grains of sugar on the dark paper, spread apart. 2. Shine the torch from the side. 3. Look with a magnifying glass or zoom in with the phone camera.",
-     "say": "Look at just one grain. What colour is it? Can you see light inside it?",
-     "kid": "Look at one grain. What colour is it? Can you see light inside?",
+     "say": "Look at just one grain. Shine the torch on it and see what happens.",
+          "kid": "Look at one grain with the torch shining on it.",
      "ask": [
       {
        "q": "What does one grain look like?",
@@ -796,8 +796,8 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Now pour a small heap of sugar next to the single grains. 2. Compare. 3. Try the same with salt.",
-     "say": "One grain looks clear. So why does the heap look white?",
-     "kid": "Now look at a heap. Why does the heap look white?",
+     "say": "One grain looks clear. Now look at the whole heap.",
+          "kid": "Look at the heap next to the single grains. Then try salt.",
      "ask": [
       {
        "q": "Why does the heap look white?",
@@ -816,7 +816,7 @@
    "title": "The Water Shake: paper or plastic?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you shake a piece of tissue paper and a piece of plastic bag in jars of water. You see which one falls apart, and why.",
+   "context": "You will find out what paper is made of, and why plastic is different. In this activity you shake a piece of tissue paper and a piece of plastic bag in jars of water. You see which one falls apart, and why.",
    "materials": [
     {
      "item": "2 glass jars or wide bottles with lids, half full of water",
@@ -842,7 +842,7 @@
      "what": "Put the tissue in one jar and the plastic in the other. Shake for 1 minute. Look. Pour each onto a plate."
     }
    ],
-   "record": "Draw what came out of each jar.",
+   "record": "Take a photo of what came out of each jar. Or tell your grown-up what you saw in each.",
    "setup": [
     {
      "art": "Two jars of water side by side, one with a piece of white tissue, one with a piece of blue plastic bag.",
@@ -863,7 +863,7 @@
      "mins": 2,
      "do": "1. Put the tissue in one jar and the plastic in the other. 2. Close the lids. 3. Ask for a guess.",
      "say": "What will happen to each one when we shake it? Why do you think so?",
-     "kid": "What will happen to each one when you shake it? Why?"
+     "kid": "Watch the tissue and the plastic go into the jars. Then make a guess."
     },
     {
      "id": "s2",
@@ -876,8 +876,8 @@
      "id": "s3",
      "mins": 5,
      "do": "1. Pour each jar onto the plate. 2. Pick up some of the tissue bits and feel them. 3. Read the card 'How paper is made from plants'.",
-     "say": "The tissue fell into tiny soft bits. These are plant fibres. Paper is made of them, pressed together. Why did the plastic stay whole?",
-     "kid": "Feel the soft bits. They are plant fibres. Why did the plastic stay whole?",
+     "say": "Feel the soft bits from the tissue. Why do you think the tissue came apart, but the plastic stayed whole?",
+          "kid": "Feel the soft bits from the tissue. What are they like?",
      "ask": [
       {
        "q": "Why did the tissue come apart?",
@@ -887,7 +887,7 @@
        ]
       }
      ],
-     "parent": "Toilet paper falls apart fastest. Newspaper takes longer. Throw the mush in the dustbin, not down the sink."
+     "parent": "After your child answers, say: the soft bits are plant fibres, and paper is made of them pressed together. Toilet paper falls apart fastest. Newspaper takes longer. Throw the mush in the dustbin, not down the sink."
     }
    ]
   },
@@ -896,7 +896,7 @@
    "title": "The Plastic Count: how many plastic things are in one room?",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you count the plastic things in one room, then find out which of them could be made from a natural material instead.",
+   "context": "You will find out how many things in one room are plastic. In this activity you count the plastic things, then find out which of them could be made from a natural material instead.",
    "materials": [
     {
      "item": "a notebook and a pencil",
@@ -927,12 +927,12 @@
      "mins": 2,
      "do": "1. Pick one room, such as the kitchen or the bathroom. 2. Ask your child to guess how many plastic things are in it.",
      "say": "How many plastic things do you think are in the kitchen? Guess a number.",
-     "kid": "Guess. How many plastic things are in this room?"
+     "kid": "Say a number out loud. That is your guess."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. Walk round the room together. 2. For every plastic thing, your child writes its name or draws it, and makes a tally mark. 3. Count the marks.",
+     "do": "1. Walk round the room together. 2. For every plastic thing, your child says its name and makes a tally mark. 3. Count the marks.",
      "say": "Look on shelves and inside cupboards too. Every plastic thing gets a mark.",
      "kid": "Find every plastic thing. Make a mark for each one. Count them.",
      "parent": "Lids, packets, the handle of a knife and the switches on the wall all count."
@@ -942,7 +942,7 @@
      "mins": 4,
      "do": "1. Go down the list. 2. For each thing, ask if a natural material could do the job. 3. Circle those.",
      "say": "Could this be made of wood, clay, cloth or leaf instead? Which ones would be hard to replace?",
-     "kid": "Could it be wood, clay or cloth instead? Circle those.",
+     "kid": "Go down the list. Circle the things that could be made of something natural.",
      "ask": [
       {
        "q": "Which plastic thing would be hardest to replace?",
@@ -962,7 +962,7 @@
    "title": "Where Did It Start? A memory game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "This is a memory card game. Each made thing has a partner card: the natural material it was made from. You find the pairs by turning over two cards at a time.",
+   "context": "This is a memory card game. You practise which natural material each made thing started from. Each made thing has a partner card: the natural material it was made from. You find the pairs by turning over two cards at a time.",
    "printables": [
     {
      "kind": "cards",
@@ -1072,9 +1072,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Count the pairs. Ask one last question.",
-     "say": "Which start material was changed the most? Which was changed the least?",
-     "kid": "Count your pairs. Which was changed the most?",
+     "do": "1. Count the pairs. 2. Ask which start material was changed the most, and which the least.",
+          "say": "Which start material was changed the most? Which was changed the least?",
+          "kid": "Count your pairs. Say who has the most.",
      "check": {
       "t": "mcq",
       "q": "Which of these says correctly what a thing is made from?",
@@ -1094,7 +1094,7 @@
    "title": "Stand Up, Sit Down: natural or made?",
    "mins": 10,
    "players": "2 or more players",
-   "context": "This is a moving game. A caller names a thing. Everyone stands up tall for a natural material and sits down for a material made by people.",
+   "context": "This is a moving game to practise telling natural materials from made ones. A caller names a thing. Everyone stands up tall for a natural material and sits down for a material made by people.",
    "printables": [
     {
      "kind": "cards",
@@ -1205,8 +1205,8 @@
      "id": "s2",
      "mins": 6,
      "do": "Play through the cards. When a tricky card comes, stop and let each player give a reason.",
-     "say": "A bird's nest. Is the nest natural or made? The bird made the nest from grass. People make paper from wood. What is the difference?",
-     "kid": "A bird's nest. Natural or made? Why?",
+     "say": "This card is tricky. Everyone stop. Tell me what you think, and why.",
+          "kid": "Stop and think. Then give your reason.",
      "ask": [
       {
        "q": "Is a bird's nest natural or made?",
@@ -1222,9 +1222,9 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "Ask one last question.",
-     "say": "Which card was hardest? Why?",
-     "kid": "Which card was hardest? Why?"
+     "do": "Ask which card was hardest, and why.",
+          "say": "Which card was hardest? Why?",
+          "kid": "Think back over the cards. Pick the hardest one."
     }
    ]
   }
@@ -1235,7 +1235,7 @@
    "id": "c1",
    "title": "A Window for a Shoebox House",
    "mins": 20,
-   "context": "This is a making challenge. Before glass was cheap, people in many places used other materials to let light into their homes. You make a window for a shoebox house without using glass.",
+   "context": "You will find out which materials let light in and keep water out. This is a making challenge. Before glass was cheap, people in many places used other materials to let light into their homes. You make a window for a shoebox house without using glass.",
    "problem": "Cut a window in a shoebox. Cover it with a material that lets light in and keeps a few drops of water out. You must be able to tell that a toy is inside without opening the box.",
    "constraints": [
     "No glass.",
@@ -1279,14 +1279,14 @@
      "adult": true,
      "do": "1. A grown-up cuts a window in the side of the box. 2. Your child puts a toy inside and closes the lid.",
      "say": "Glass makes a good window, because the sand melted into one clear piece. What else could let light in?",
-     "kid": "Put a toy in the box. What could make a window, without glass?"
+     "kid": "Put a toy in the box and close the lid. Then look around for things light can pass through."
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "1. Let your child try each material over the hole. 2. Rub a few drops of oil into a piece of white paper and try that too.",
-     "say": "Hold each one over the window. Which lets in the most light? Look at the oily paper. What changed? Remember the sugar sheet, which had no grain edges inside. The oil fills the gaps between the paper fibres in a similar way.",
-     "kid": "Try each material. Which lets in the most light?",
+     "say": "Hold each one over the window. Which lets in the most light? Now look at the oily paper. What changed?",
+          "kid": "Try each material over the hole. Line them up from most light to least light.",
      "ask": [
       {
        "q": "Why does the oily paper let more light through?",
@@ -1303,7 +1303,7 @@
      "mins": 6,
      "do": "1. Your child tapes the best material over the window, with the toy right behind it. 2. Shine a torch at the window from the side and look through. 3. Sprinkle a few drops of water on the outside.",
      "say": "Can you tell the toy is inside? Did the water get in?",
-     "kid": "Tape on your window. Shine a torch from the side. Can you see the toy?"
+     "kid": "Tape your best material over the window. Shine a torch from the side and look through. Then sprinkle a few drops of water on the outside."
     },
     {
      "id": "s4",

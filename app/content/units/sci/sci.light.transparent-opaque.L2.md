@@ -177,24 +177,24 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 - **s1 (2 min)**  
   *Parent does:* Read the rules together. Practise the three hand signs. Decide who reads first.  
   *Parent says:* Open hands mean see through. Wiggly fingers mean glows. Fists mean dark. Let's try each one.  
-  *Child mode:* Open hands: see through. Wiggly fingers: glows. Fists: dark.
+  *Child mode:* Practise all three hand signs.
 - **s2 (9 min)**  
   *Parent does:* Play all 12 cards. The reader reads each front, waits for every hand sign and reason, then reads the back. Pass the cards to the next reader.  
   *Parent says:* One paper napkin. Show me with your hands. Why did you choose that?  
   *Child mode:* Listen to the card. Show your answer with your hands.
-  - Note: The gold leaf and the rock slice are the surprises. If your child shows a fist, ask: what happened to the thin cucumber slice?
+  - Note: The gold leaf and the rock slice are the surprises. If your child shows a fist for a thin thing, ask: what happens when a thin slice of cucumber is held up to a window?
 - **s3 (4 min)**  
   *Parent does:* Lay the cards face up and find the pairs together.  
   *Parent says:* Find a thin thing and a thick thing made of the same material. What is the same about every pair?  
-  *Child mode:* Find the pairs. What is the same in every pair?
-  - Check: Two cards say 'one glass of water' and 'the deep sea'. Why is one see through and the other dark? → **The deep sea has much more water in the way**
+  *Child mode:* Match each thin thing with its thick partner.
+  - Check: A glass of water is see through. The deep sea is dark. Why? → **The deep sea has much more water in the way**
 ### g2 · Window, Curtain, Wall: a moving game (8 min)
 - **rules:** Window: stand tall and make a square frame with your hands in front of your eyes, and look through it.; Curtain: sway gently from side to side, like a curtain in the breeze.; Wall: stand stiff and still, with your arms tight at your sides.; A grown-up calls out a thing. Everyone moves as fast as they can.; The grown-up says the answer. Anyone who chose differently says why. A good reason counts too.; When all 12 calls are done, count how many you got right at the first try. Try to beat that next time.
 - **Printable cards: 12 calls for the grown-up:** A glass tumbler (back: Window) [picture]; A wooden door (back: Wall); A thin cotton dupatta (back: Curtain); A clear polythene bag (back: Window); A steel almirah (back: Wall); One paper napkin (back: Curtain); A whole packet of paper napkins (back: Wall) [picture]; A dry onion skin (back: Curtain); Clean water in a bucket (back: Window); A thick quilt (back: Wall); A leaf held up to the sky (back: Curtain); Your spectacles, or a pair of reading glasses (back: Window)
 - **s1 (2 min)**  
   *Parent does:* Show the three moves. Practise each one twice.  
   *Parent says:* Window: look through your hands. Curtain: sway. Wall: stand stiff. Let's try them.  
-  *Child mode:* Window: look through your hands. Curtain: sway. Wall: stand stiff.
+  *Child mode:* Learn the three moves: window, curtain and wall.
 - **s2 (5 min)**  
   *Parent does:* Call out all 12 things, in any order. After each call, say the answer. Keep count of the right moves.  
   *Parent says:* One paper napkin! Now: a whole packet of paper napkins! Why did you change?  
@@ -203,7 +203,7 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 - **s3 (1 min)**  
   *Parent does:* Ask one last question.  
   *Parent says:* Which thing made you change from curtain to wall, just by adding more of it?  
-  *Child mode:* Which thing turned from curtain to wall when there was more of it?
+  *Child mode:* Think back over the calls. Find the pair of things.
   - Check: The grown-up calls out 'a thin cotton dupatta'. Which move should you make? → **Curtain**
 
 ## Experiments
@@ -212,18 +212,18 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 - **predict:** Which material will hide the drawing with the fewest layers? Which will need the most? Why do you think so?
 - **fair test:** We use the same drawing, the same window light and squares of the same size every time. We add one layer at a time and look from the same place. We change only the material.
 - **safety:** Don't shine the torch into anyone's eyes. Keep plastic bags and squares away from babies and toddlers.
-- **record:** Fill in the table (a grown-up can write the words, and your child writes the numbers). Then draw a tower of squares for each material, as tall as the number of layers it took.
+- **record:** Fill in the table (a grown-up can write the words, and your child writes the numbers). Then build a tower of real squares for each material, as tall as the number of layers it took. Take a photo of your three towers.
 - **results table:** Material | My guess: how many layers to hide the drawing? | How many layers it really took | With the torch behind that pile: glow or dark?
 - **s1 (4 min)**  
-  *Parent does:* 1. Your child draws a sun with a thick black sketch pen on white paper. 2. You cut ten squares of each material. 3. Your child holds one square of each up to the window.  
+  *Parent does:* 1. Your child draws a sun with a thick black sketch pen on white paper. A grown-up can draw it if your child prefers. 2. You cut ten squares of each material. 3. Your child holds one square of each up to the window.  
   *Parent says:* Here are three materials: clear polythene, tissue and white paper. Hold one square of each up to the window. What do you see through each one?  
-  *Child mode:* Draw a big, thick sun. Hold one square of each up to the window. What can you see?
+  *Child mode:* Hold one square of each material up to the window. Look through each one.
   - Note: Never let your child look at the Sun itself, even through the squares. A window with daylight, or a bright tube light, is enough.
 - **s2 (3 min)**  
   *Parent does:* Ask your child to guess how many layers of each material will hide the sun. Write the guesses in the table.  
   *Parent says:* We will pile squares on the sun, one at a time. How many layers of polythene will hide it? How many of tissue, and of paper? Why do you think so?  
-  *Child mode:* Guess how many layers of each will hide the sun. Why?
-  - Ask: Why do you think paper will need fewer layers than polythene? (good: Paper is thicker.; I can see through polythene, but not really through paper.)
+  *Child mode:* Say a number of layers for each material. A grown-up writes your guesses in the table.
+  - Ask: Which material will need the fewest layers? Why do you think so? (good: Paper is thicker.; I can see through polythene, but not really through paper.)
   - Note: Any guess is fine. Write it down and don't say what will happen.
 - **s3 (8 min)**  
   *Parent does:* 1. Put the drawing on a table near the window. 2. Your child lays polythene squares on it one at a time, flat. 3. After each one, they look from where they sit. 4. Count the layers until the sun is gone. 5. Do the same with tissue, then paper. 6. Last, lay the steel plate on it.  
@@ -233,15 +233,15 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   - Note: Paper usually hides a thick drawing in about 3 to 6 layers. Tissue often needs more, because each layer is thinner. The sun usually still shows through all 10 polythene squares, a little greyer. If a material still shows the sun at 10, write 'more than 10'. Your numbers may be different from these. What matters is what you see.
 - **s4 (6 min)**  
   *Parent does:* 1. Draw the curtains or go to a dim room. 2. Lay the torch on the table with its light pointing up. If you use a phone, lay it face down so its torch points up. 3. Switch it on. 4. Lay the paper pile that hid the sun over the light, and look down at it. 5. Do the same with the tissue pile and the steel plate.  
-  *Parent says:* This paper pile hid the sun completely. Now I put the torch behind it. Do you think any light will get through? Why?  
-  *Child mode:* The paper pile hid the sun. Will the torch glow through it?
+  *Parent says:* This paper pile hid the sun completely. Now the torch will shine up from underneath. Do you think any light will get through? Why?  
+  *Child mode:* Say your guess first. Then look down at the pile.
   - Ask: Did the paper pile glow? (good: Yes, it glowed.; Light came through, but I still can't see the sun.)
   - Ask: Did the steel plate glow? (good: No. It stayed dark.; Only the edges were bright, around the plate.)
   - Note: The paper and tissue piles glow, even though they hid the drawing. The steel plate gives no glow. If you have time, try a whole closed notebook over the torch. A thick notebook often stops the glow, or lets only a very faint glow through.
 - **s5 (4 min)**  
   *Parent does:* Look at the table together. Ask your child what they think, what they saw and why.  
   *Parent says:* Which material hid the sun with the fewest layers? The paper pile hid the sun, but did it stop all the light? What does each layer do to the light?  
-  *Child mode:* Which hid the sun fastest? Did the paper pile stop all the light? How do you know?
+  *Child mode:* Look at your table. Tell your grown-up which material needed the fewest layers.
   - Ask: What does each layer do to the light? (good: It stops a little bit.; Some light goes through, and some is stopped.)
   - Ask: Is the pile of paper translucent or opaque? (good: Translucent, because the torch glowed through it.; It hides the picture, but light gets through, so translucent.)
   - Check: You pile 5 paper squares on a drawing. The drawing is hidden. Then you shine a torch behind the pile. What will you see? → **The pile glows**
@@ -249,16 +249,16 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 - **question:** How many drops of milk does it take to hide a coin at the bottom of a glass of water? If we take half the cloudy water out, can we see the coin again?
 - **predict:** How many drops do you think it will take to hide the coin? When we take half the water out, will the coin show again? Why do you think so?
 - **fair test:** We use the same glass, the same coin and the same window light. We stir the same way after every 5 drops. We always look straight down from the same height.
-- **record:** Write how many drops it took. Draw the glass full, with the coin hidden, and half full, with the coin showing or not.
+- **record:** Write how many drops it took. Take a photo of the glass full and half full, or draw them.
 - **results table:** What we did | My guess | What I saw
 - **s1 (2 min)**  
   *Parent does:* Fill the glass with water. Drop the coin in. Your child looks straight down at it.  
-  *Parent says:* Look down into the glass. Can you see the coin? Is the water transparent?  
-  *Child mode:* Look down at the coin. Can you see it clearly?
+  *Parent says:* Look down into the glass. Can you see the coin clearly? Water you can see clearly through is called transparent.  
+  *Child mode:* Look straight down. Point to the coin.
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess how many drops of milk will hide the coin. Write it down.  
   *Parent says:* We will drip in milk, five drops at a time. How many drops will hide the coin? Why do you think so?  
-  *Child mode:* Guess how many drops will hide the coin. Why?
+  *Child mode:* Say a number of drops. Tell why you think so.
   - Note: Milk is mostly water, with tiny drops of fat and other tiny bits floating in it. These send light off in all directions.
 - **s3 (7 min)**  
   *Parent does:* 1. Dip the teaspoon in the milk. 2. Tilt it over the glass so drops fall in. 3. Count 5 drops. 4. Stir and look. 5. Keep going in fives until the coin is gone.  
@@ -269,20 +269,20 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 - **s4 (4 min)**  
   *Parent does:* Use the katori to scoop about half the cloudy water into the other tumbler. Do not move the coin. Your child looks straight down into the half-full glass.  
   *Parent says:* The water is just as cloudy as before. But now there is only half as much. Will the coin show again? Why?  
-  *Child mode:* Now there is half as much water. Can you see the coin?
-  - Ask: Why can you see the coin again? (good: There is less water in the way.; Fewer layers of cloudy water.)
+  *Child mode:* Look straight down into the half-full glass.
+  - Ask: Can you see the coin now? Why, or why not? (good: There is less water in the way.; Fewer layers of cloudy water.)
   - Note: Usually the coin shows again, faintly. If it doesn't, scoop out a little more. If you have time, shine a torch at the side of the glass in a dim room. The cloudy water glows, so light gets through it. It is translucent.
 - **s5 (3 min)**  
-  *Parent does:* Talk about the test.  
+  *Parent does:* Talk about the glass of cloudy water and the pile of paper squares together.  
   *Parent says:* Clear water was transparent. With milk, it became cloudy. A full glass hid the coin, but half a glass did not. How is this like the Layer Test?  
-  *Child mode:* How is the cloudy water like the pile of paper?
+  *Child mode:* Think about the pile of paper squares. What is the same?
   - Note: A good answer is that the cloudy water is like the paper. The more of it that is in the way, the more light it stops. Taking half the water out is like taking squares off the pile.
   - Check: You have a full glass of cloudy, milky water. You cannot see the coin at the bottom. What can you do to see the coin, without adding anything? → **Take half the water out**
 
 ## Activities
 ### a1 · Three Plates: see through, glow or dark? (10 min)
 - **safety:** Never look at the Sun itself, even through something.
-- **record:** Draw the three plates and what you put on each.
+- **record:** Take a photo of your three plates, or tell a grown-up what is on each plate.
 - **s1 (2 min)**  
   *Parent does:* Show the three plates. Explain the labels.  
   *Parent says:* The eye plate is for things you can see straight through. The glow plate is for things that glow in the light, but you can't see through. The dark plate is for things that don't let light through.  
@@ -296,31 +296,31 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 - **s3 (2 min)**  
   *Parent does:* Look at the three plates together. Tell your child the three words.  
   *Parent says:* Things on the eye plate are called transparent. Things on the glow plate are called translucent. Things on the dark plate are called opaque. Which plate has the most things?  
-  *Child mode:* Eye plate: transparent. Glow plate: translucent. Dark plate: opaque.
+  *Child mode:* Say the three new words back to your grown-up: transparent, translucent, opaque.
   - Check: You hold a paper napkin up to the window. It glows, but you cannot see the window through it. Which plate does it go on? → **Glow plate: translucent**
 ### a2 · Thin Slice, Thick Piece: the cucumber test (10 min)
 - **safety:** A grown-up does all the cutting.
-- **record:** Draw the three pieces, and colour the ones that glowed.
+- **record:** Take a photo of your line of pieces, or tell a grown-up which ones glowed.
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* Cut three pieces of cucumber. Make one slice as thin as you can. Make one slice as thick as a finger. Cut one chunk as long as your thumb.  
+  *Parent does:* Cut three pieces of cucumber. Make one slice as thin as you can. Make one slice as thick as a finger. Cut one big chunk as long as your whole hand, with the skin on.  
   *Parent says:* These three pieces are all cucumber. Which ones will let light through? Why do you think so?  
-  *Child mode:* All three are cucumber. Which will let light through? Why?
+  *Child mode:* All three are cucumber. Point to the pieces you think will let light through.
 - **s2 (4 min)**  
   *Parent does:* Your child holds each piece up to the window.  
   *Parent says:* Hold up the thin slice. What do you see? Now the thick slice. Now the chunk.  
-  *Child mode:* Hold each piece up to the window. Which ones glow?
+  *Child mode:* Hold each piece up to the window. Then line them up, from most glow to least glow.
   - Ask: Which pieces glowed? (good: The thin slice glowed the most.; The thick slice glowed a little, and the chunk was dark.)
-  - Note: If you have an onion, peel off one thin layer of the white part. Hold it up too, and then hold up the whole onion.
+  - Note: If you have an onion, peel off one thin layer of the white part. Hold it up too, and then hold up the whole onion. A thick piece may glow only a little. That is fine. Let your child say what they see.
 - **s3 (3 min)**  
   *Parent does:* Talk about it. Then eat the cucumber.  
   *Parent says:* Is cucumber translucent or opaque? Can it be both?  
-  *Child mode:* Is cucumber translucent or opaque? What does it depend on?
+  *Child mode:* Is cucumber translucent or opaque? Use the three pieces to show your answer.
   - Ask: What made the difference? (good: How thick it was.; Thin pieces let light through, thick ones don't.)
   - Check: You hold a very thin slice of potato up to the window. What will you most likely see? → **It glows a little**
 
 ## Projects
 ### p1 · The Window Letter: a message only light can show (25 min)
-- **record:** Draw your letter on the table and at the window. Write how many layers you used.
+- **record:** Write how many sheets hid the message on the table. Take a photo of your letter on the table and at the window.
 - **s1 (5 min)**  
   *Parent does:* Your child writes a short message in big, thick letters, pressing hard.  
   *Parent says:* Write a secret message for someone. Make the letters big and thick. Who will you give it to?  
@@ -331,13 +331,13 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
   *Child mode:* Add one sheet at a time. Stop when you can't read it.
   - Note: One sheet often still shows the letters. Two sheets usually hide them on a table. If they still show, add a third sheet.
 - **s3 (8 min)**  
-  *Parent does:* Your child draws a picture on the top sheet with crayons, lightly, so it doesn't cover all of it.  
-  *Parent says:* Draw a picture on top, so nobody guesses there is a message inside.  
-  *Child mode:* Draw a picture on top. Keep the message a secret.
+  *Parent does:* Your child makes the top sheet look like an ordinary card. They can draw a light picture with crayons, or just write a name on the front.  
+  *Parent says:* Make the top sheet look like an ordinary card, so nobody guesses there is a message inside.  
+  *Child mode:* Draw a light picture, or write a name on the front. Keep the message a secret.
 - **s4 (6 min)**  
   *Parent does:* Hold the letter up to a bright window. Then give it to someone, and show them the trick.  
   *Parent says:* The paper hid your message on the table. Why can we read it at the window?  
-  *Child mode:* Hold it up to the window. What do you see? Why?
+  *Child mode:* Hold it up to the window. Read your message.
   - Ask: Why does the message show at the window? (good: Light comes through the paper, but not through the black ink.; The paper is translucent, and the ink blocks light.)
   - Check: You cover your message with 2 sheets of paper. Someone can still read it on the table. What should you do? → **Add another layer of paper on top**
 
@@ -351,16 +351,16 @@ Varun dragged the quilt over. Nila pulled it over the sheet. Now the glow was go
 - **c-s1 (3 min)**  
   *Parent does:* Set up the shoebox next to a bright window. Your child looks through the peephole. Read the problem.  
   *Parent says:* Can you see the white paper cat through the peephole? Now we must make the room dark, with as few layers as we can.  
-  *Child mode:* Look through the peephole. Can you see the cat? Now make it dark.
+  *Child mode:* Look through the peephole and find the cat. Then look at the things you can use.
   - Ask: What could you use? (good: Lots of newspaper.; Something opaque, like foil or cardboard.)
 - **c-s2 (12 min)**  
   *Parent does:* Let your child try their ideas. Count the layers each time. Help only if asked.  
   *Parent says:* Try your idea. Count the layers. Look through the peephole. Can you still see the cat?  
-  *Child mode:* Try your idea. Count the layers. Can you still see the cat?
+  *Child mode:* Try a cover. Count the layers you used.
 - **c-s3 (5 min)**  
   *Parent does:* Talk about which way worked best.  
   *Parent says:* Which cover used the fewest layers? Why did it need so few?  
-  *Child mode:* Which cover used the fewest layers? Why?
+  *Child mode:* Line up your covers, fewest layers first.
   - Check: You need 8 sheets of newspaper to make the shoebox dark. A friend uses only 1 layer. What might the friend have used? → **A piece of cardboard**
 
 ## Worksheets

@@ -263,7 +263,7 @@
    "title": "Light and Water: what gets through?",
    "mins": 25,
    "days": 1,
-   "context": "In this experiment you look at a window through five materials. Then you put each one over a glass tumbler and pour a teaspoon of water on it. You find out which materials let light through, which let water through, and whether they are the same ones.",
+   "context": "You will find out whether a material that lets light through also lets water through. First you look at a window through five materials. Then you cover a glass tumbler with each one and pour a teaspoon of water on it.",
    "question": "Which materials let light through, and which let water through? If light gets through a material, does water always get through too?",
    "predict": "Look at the five materials. For each one, guess: will light get through? Will water get through? Most of all, guess about the clear polythene. You can see through it. So will water go through it too? Why do you think so?",
    "fair_test": "Every material gets the same two tests. For the light test, we hold each one close to one eye and look at the same window. For the water test, each one covers the same tumbler and gets 1 teaspoon of water. We wait 1 minute every time before we look.",
@@ -322,7 +322,7 @@
      "what": "Guess for each material. Look at the window through each one. Pour a teaspoon of water on each one over the tumbler. Fill in the table and say what you found."
     }
    ],
-   "record": "Write your guesses at the top, with your reason for the polythene. Fill in the table. Draw the polythene and the tea strainer with water on them.",
+   "record": "Write your guesses at the top, with your reason for the polythene. Fill in the table. Draw the polythene and the tea strainer with water on them, or take a photo of each.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -383,7 +383,7 @@
      "mins": 3,
      "do": "1. Lay out the five materials on the tray. 2. Let your child touch each one. 3. Ask the questions below. 4. Write their guesses and their reason for the polythene.",
      "say": "We will do two tests on each one. Will light get through? Will water get through? Guess for each one. Now look at the polythene. You can see through it. Will water go through it too? Why do you think so?",
-     "kid": "Touch each material. Guess: will light get through? Will water get through? Say why for the polythene.",
+     "kid": "Touch each material. Guess what each one will let through. Say why you think so for the polythene.",
      "ask": [
       {
        "q": "Will water go through the polythene? Why?",
@@ -402,7 +402,7 @@
      "mins": 6,
      "do": "1. Stand by the window together. 2. Your child holds each material about 2 cm from one eye. 3. They look at the window through it. 4. They say: a clear picture, only a glow, or dark. 5. Write it in the table.",
      "say": "Hold it close to one eye and look at the window. Can you see the trees clearly? Is there only a glow? Or is it dark?",
-     "kid": "Hold it near one eye. Look at the window. Clear picture, a glow, or dark?",
+     "kid": "Hold each material near one eye. Look at the window. Tell your grown-up what you see.",
      "ask": [
       {
        "q": "Which ones gave a clear picture?",
@@ -415,7 +415,7 @@
      "parent": "The polythene gives a clear picture. The strainer gives a picture through its holes, a little dim. The cloth glows. The newspaper glows faintly, with print in the way. The foil is dark. Remind your child never to look at the Sun.",
      "check": {
       "t": "mcq",
-      "q": "The foil let no light through. Which word is right for the foil?",
+      "q": "The foil let no light through. What do scientists call a material like that?",
       "options": [
        "Transparent",
        "Translucent",
@@ -440,7 +440,7 @@
      "mins": 8,
      "do": "1. Pour 1 teaspoon of water slowly into the middle. 2. Count slowly to 60. 3. Look at the tumbler from the side. 4. Lift the cover and feel the bottom of it. 5. Write the result. 6. Wipe the tumbler dry and do the next material. 7. For the tea strainer, rest it on top of the tumbler. It does not need the rubber band.",
      "say": "Pour the water slowly into the middle. Now count to sixty with me. Look at the bottom of the tumbler. Is there any water? Feel underneath the cover. Is it wet or dry?",
-     "kid": "Pour one spoon of water in the middle. Count to sixty. Look in the tumbler. Is there water? Feel under the cover.",
+     "kid": "Pour one spoon of water in the middle. Count to sixty. Is there water in the tumbler? Do the same for each material.",
      "ask": [
       {
        "q": "Which ones kept the water out?",
@@ -457,8 +457,8 @@
      "id": "s5",
      "mins": 4,
      "do": "1. Put the polythene and the strainer side by side. 2. Ask your child to look closely at each, and hold each up to the window. 3. Ask the questions below. 4. Listen to their answer before you explain.",
-     "say": "You could see through the polythene and through the strainer. But water went through only one of them. Look closely. What does the strainer have that the polythene does not? Then how did the light get through the polythene?",
-     "kid": "Look closely at the strainer and the polythene. What does the strainer have? How did light get through the polythene?",
+     "say": "You could see through the polythene and through the strainer. But water went through only one of them. Look closely. What does the strainer have that the polythene does not?",
+     "kid": "Look closely at the strainer and the polythene. Hold each one up to the window.",
      "ask": [
       {
        "q": "Why did water go through the strainer but not the polythene?",
@@ -481,7 +481,7 @@
    "title": "One Thing, Many Properties: the yes-or-no grid",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you ask four questions about four things from home. You find that every thing has many properties, and no two things give the same answers.",
+   "context": "You will find out that every thing has many properties. A property is something you can notice about it, such as being see-through or stretchy. You ask four questions about four things from home. No two things give the same answers.",
    "materials": [
     {
      "item": "a steel tumbler, a polythene bag, a rubber band and a cotton hanky",
@@ -525,17 +525,17 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "1. For each thing, your child looks through it, pulls it gently, and squeezes or tugs it. 2. For waterproof, they think about whether water would go through. 3. Mark a tick, a cross or a dot for 'a bit'.",
-     "say": "Look through the tumbler. Can you see through it? Now pull the rubber band. Does it stretch? Try to tear the hanky gently. Is it hard to break?",
-     "kid": "Look through it. Pull it gently. Try to tear it gently. Mark the grid.",
+     "do": "1. For each thing, your child looks through it, pulls it gently, and squeezes or tugs it to feel how strong it is. 2. For waterproof, they think about whether water would go through. 3. Mark a tick, a cross or a dot for 'a bit'.",
+     "say": "Take one thing at a time. Look through it. Pull it gently. Squeeze it. Waterproof means water cannot get through. Think about water poured on it. Do not tear or break anything.",
+     "kid": "Look through it. Pull it gently. Squeeze it. Mark the grid.",
      "parent": "Rough answers are fine. The steel tumbler is not see-through, it is waterproof, it is not stretchy and it is strong. The polythene bag is see-through, waterproof, a bit stretchy and a bit strong. The rubber band is not see-through, it is waterproof, stretchy and a bit strong. The hanky only glows, it is not waterproof, it is a bit stretchy and it is strong."
     },
     {
      "id": "s3",
      "mins": 2,
      "do": "1. Look at the four rows together. 2. Ask the question below.",
-     "say": "Look at the rows. Do any two things have exactly the same answers?",
-     "kid": "Look at the rows. Are any two the same?",
+     "say": "Look along the four rows. Compare the ticks and crosses.",
+     "kid": "Look at the rows. Point to two that match, if you can find any.",
      "ask": [
       {
        "q": "Are any two rows the same?",
@@ -554,7 +554,7 @@
    "title": "Pull, Not Push: which way is a thread strong?",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you tie a cotton thread to a small toy. You try to pull the toy with the thread, then push it. Then you try the same with a pencil.",
+   "context": "You will find out that a thread is strong in one way but not in another. You tape a cotton thread to a small toy. You try to pull the toy with the thread, then push it. Then you try the same with a pencil.",
    "materials": [
     {
      "item": "a piece of cotton thread or string, about 50 cm long",
@@ -580,7 +580,7 @@
      "what": "Pull the toy with a thread, then try to push it. Do the same with a pencil. Say which is strong in which way."
     }
    ],
-   "record": "Draw the thread pulling the toy, and the thread trying to push it. Write 'pull: yes or no' and 'push: yes or no' under each.",
+   "record": "Make a small table with two rows, thread and pencil. Write 'pull: yes or no' and 'push: yes or no' for each. Or tell a grown-up, who writes it down.",
    "setup": [
     {
      "art": "A child pulling a toy car across a floor with a cotton thread taped to its front.",
@@ -622,12 +622,12 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "1. Now your child pulls and pushes the toy with the pencil. 2. Ask the question below.",
-     "say": "The pencil can push and pull. The thread can only pull. So is the thread strong or weak?",
-     "kid": "Push the toy with the pencil. Pull it too. Is the thread strong or weak?",
+     "do": "1. Your child pushes the toy with the pencil. 2. Tape the pencil to the toy, and your child pulls it by the pencil. 3. Ask the question below.",
+     "say": "Push the toy with the pencil. Now we tape the pencil on, and you pull. The pencil can push and pull. What could the thread not do?",
+     "kid": "Push the toy with the pencil. Then pull it by the pencil. Think about what the thread could not do.",
      "ask": [
       {
-       "q": "Is the thread strong?",
+       "q": "In which way is a thread strong: pulling or pushing?",
        "good": [
         "It is strong when you pull it.",
         "It is no good for pushing, because it bends."
@@ -654,7 +654,7 @@
    "title": "The Tight Bundle: why a hair band holds",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you hold one bundle of pencils with a rubber band and one with a cotton thread. Then you take some pencils out of each bundle and see which one still holds tight.",
+   "context": "You will find out why a rubber band holds a bundle better than a thread. You tie one bundle of pencils with a rubber band and one with a cotton thread. Then you take some pencils out of each and see which bundle stays tight.",
    "materials": [
     {
      "item": "20 pencils, crayons or sketch pens (two bundles of 10)",
@@ -676,7 +676,7 @@
      "what": "Make two bundles. Take 3 pencils out of each. Hold them up and see which bundle stays tight."
     }
    ],
-   "record": "Draw both bundles after 3 pencils came out. Write which one stayed tight.",
+   "record": "Draw both bundles after 3 pencils came out, or take a photo of each. Write which one stayed tight.",
    "setup": [
     {
      "art": "Two bundles of ten pencils on a table, one wrapped twice with a rubber band, one tied with a cotton thread.",
@@ -719,9 +719,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "1. Ask the question below. 2. Point at the band, which is now shorter.",
-     "say": "Why did the rubber band still hold the pencils?",
-     "kid": "Why did the rubber band still hold? Look at it.",
+     "do": "1. Point at the rubber band and the thread. 2. Ask the question below.",
+     "say": "Look closely at the rubber band. Then look at the thread. What do you notice about each one?",
+     "kid": "Look at the rubber band and the thread. Is each one tight or loose now?",
      "ask": [
       {
        "q": "Why did the rubber band keep holding?",
@@ -742,7 +742,7 @@
    "title": "Four Boxes",
    "mins": 15,
    "players": "1 to 4 players",
-   "context": "This is a sorting game. Each card shows a thing from home. You put it in one of four boxes: see-through or not, and keeps water out or lets it through.",
+   "context": "This is a sorting game. You will find out that some things you can see through let water through, and some keep it out. Each card shows a thing from home. You put it in one of four boxes.",
    "printables": [
     {
      "kind": "board",
@@ -826,7 +826,7 @@
     }
    ],
    "rules": [
-    "Draw the board: a big square split into four boxes, with the labels written in.",
+    "Make the board: a big square split into four boxes, with the labels written in. You can draw lines, or use four plates or sheets of paper.",
     "Shuffle the 16 cards and put them face down in a pile.",
     "Take turns. Turn over the top card, read it, and put it in a box. Say why.",
     "Then turn the card over and read the back. If you were right, keep the card in the box. If not, move it, and say why it goes there.",
@@ -855,7 +855,7 @@
      "mins": 10,
      "do": "1. Take turns turning over a card. 2. The player puts it in a box and says why. 3. Read the back and score.",
      "say": "A mosquito net. Can you see through it? Does water go through it? Which box? Why?",
-     "kid": "Turn over a card. Can you see through it? Does water go through? Pick a box.",
+     "kid": "Turn over a card. Pick a box for it. Say why.",
      "ask": [
       {
        "q": "Why did you put the mosquito net in box 2?",
@@ -870,8 +870,8 @@
      "id": "s3",
      "mins": 2,
      "do": "1. Look at boxes 1 and 2 together. 2. Ask the question below.",
-     "say": "Everything in boxes 1 and 2 is see-through. What is different about the things in box 2?",
-     "kid": "Look at box 1 and box 2. What do box 2 things have?",
+     "say": "Everything in boxes 1 and 2 is see-through. Look at them closely and compare.",
+     "kid": "Compare the things in box 1 with the things in box 2. Look for what is different.",
      "ask": [
       {
        "q": "What do all the box 2 things have?",
@@ -889,7 +889,7 @@
    "title": "Go Through or Freeze!",
    "mins": 10,
    "players": "2 or more players, with one caller",
-   "context": "This is a running and jumping game. The caller reads a card, such as 'Light meets foil'. If it would go through, the players jump forward. If it would be stopped, they freeze.",
+   "context": "This is a running and jumping game. You practise telling what light, water and air can go through. The caller reads a card, such as 'Light meets foil'. If it would go through, the players jump forward. If it would be stopped, they freeze.",
    "printables": [
     {
      "kind": "cards",
@@ -1001,10 +1001,10 @@
      "mins": 1,
      "do": "1. At the end, ask the question below.",
      "say": "Light and water both met the glass window. Why did one jump and one freeze?",
-     "kid": "Why did light go through the glass window, but water was stopped?",
+     "kid": "Think about the glass window. Tell your grown-up your idea.",
      "ask": [
       {
-       "q": "Why?",
+       "q": "Why did light go through the glass window, but water was stopped?",
        "good": [
         "Glass has no holes for water, but light goes through glass itself."
        ]
@@ -1020,7 +1020,7 @@
    "id": "c1",
    "title": "A Rain Window for a Shoebox Room",
    "mins": 20,
-   "context": "This is a making challenge. You cut a window in the lid of a shoebox and cover it. It must let light into the box and keep the rain out.",
+   "context": "This is a making challenge. You make a skylight, which is a window in a roof. It must let light into the box and keep the rain out.",
    "problem": "Make a skylight in the lid of a shoebox. When you peep in through a small hole in the side, the box must be bright inside. When you pour 3 teaspoons of water on the skylight, the paper on the floor of the box must stay dry.",
    "constraints": [
     "Use only things from home.",
@@ -1062,8 +1062,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Cut a window in the lid, about the size of a matchbox. 2. Cut a peep hole, as big as a coin, in one side. 3. Put the dotted paper on the floor of the box.",
-     "say": "The window must do two jobs. What are they? Which material will you use? Why?",
-     "kid": "What two jobs must the window do? Which material will you pick? Why?",
+     "say": "Your skylight must do two jobs. Can you say what they are? Then choose a material from the list.",
+     "kid": "Pick the material you think will do both jobs. Say why.",
      "adult": true
     },
     {
@@ -1077,8 +1077,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Put the box on the tray, next to a window or a lamp. 2. Your child peeps in through the side hole. 3. Pour 3 teaspoons of water on the skylight, one at a time. 4. Wait one minute, then open the lid and check the dots.",
-     "say": "Peep in first. Is it bright inside? Now pour the water. Wait a minute. Are the dots still sharp?",
-     "kid": "Peep in. Is it bright? Pour the water. Wait. Are the dots dry?",
+     "say": "Peep in first. Is it bright inside? Now pour the water. Wait a minute. Then open the lid. Are the dots dry?",
+     "kid": "Peep in. Is it bright? Pour the water. Wait. Open the lid and look at the dots.",
      "ask": [
       {
        "q": "Did your window do both jobs?",
@@ -1093,8 +1093,8 @@
      "id": "s4",
      "mins": 4,
      "do": "1. If the dots ran, find where the water got in. 2. Your child changes one thing and tests again.",
-     "say": "Where did the water get in? What one thing will you change?",
-     "kid": "Where did water get in? Change one thing. Test again."
+     "say": "Look at the dots to see where the water came in. What one thing will you change?",
+     "kid": "Change one thing. Test again."
     }
    ]
   }

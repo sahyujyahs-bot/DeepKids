@@ -190,7 +190,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **s3 (3 min)**  
   *Parent does:* Count the piles. Then look at the Not sure pile together and ask the question below.  
   *Parent says:* Look at the Not sure pile. Why were those cards hard to place?  
-  *Child mode:* Count each pile. Look at the Not sure pile. Why were those cards hard?
+  *Child mode:* Count the cards on each pile. Look at the Not sure pile.
   - Ask: Why were the Not sure cards hard to place? (good: A fallen hair or a milk tooth was part of me once, but it is not any more.; A shadow moves with me, but it is not part of my body.)
   - Note: These cards are hard because something can once have been part of you, or can move with you, without being part of your body now. There is no single right answer. Accept any reason that makes sense.
   - Think: Did anyone in your family put a card on a different pile from you?
@@ -208,7 +208,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **s3 (2 min)**  
   *Parent does:* Talk about the results. Then ask the question below.  
   *Parent says:* Could anyone guess all of your likes? Why not?  
-  *Child mode:* Could anyone guess all of your likes? Why not?
+  *Child mode:* Count your points. Which of your likes did nobody guess?
   - Ask: Could anyone guess all of your likes? (good: No. Only I know exactly what I like, and other people can only guess.; No. Some of my likes change, and others cannot see that.)
   - Think: Do you know all of your own likes? Did you have to think hard about any of them?
 
@@ -222,17 +222,17 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **s1 (2 min)**  
   *Parent does:* Ask the question and wait for a guess and a reason. Write the guess at the top of the paper.  
   *Parent says:* We are going to test tickles. Will your own stroke tickle less, more or the same as mine? Why do you think so?  
-  *Child mode:* Guess. Will your own stroke tickle less, more or the same? Why?
+  *Child mode:* Make your guess: less, more or the same.
   - Ask: Why do you think so? (good: Less, because I know when it is coming.; The same, because a feather is a feather.; More, because I can press harder.)
   - Note: Any guess is fine if it has a reason. Do not say what will happen. Tickle only people who say yes, and stop the moment anyone says stop.
 - **s2 (2 min)**  
-  *Parent does:* 1. Draw the four faces: straight face 0, small smile 1, big smile 2, laughing face 3. 2. Make the results table.  
+  *Parent does:* 1. Draw the four faces: straight face 0, small smile 1, big smile 2, laughing face 3. Or write 0, 1, 2 and 3 on four scraps of paper. 2. Make the results table.  
   *Parent says:* These faces are our tickle scores. Zero means not ticklish at all. Three means very ticklish.  
-  *Child mode:* Draw four faces. Zero is a straight face. Three is a laughing face.
+  *Child mode:* Draw four faces, or write 0 to 3 on scraps of paper. Zero is not ticklish. Three is very ticklish.
 - **s3 (2 min)**  
   *Parent does:* Agree the fair rules together and say them out loud: same feather, same spot, five slow strokes, eyes shut.  
   *Parent says:* What must we keep the same each time, so the test is fair?  
-  *Child mode:* Keep it fair. Use the same feather and the same spot. Do five slow strokes, with your eyes shut.
+  *Child mode:* Think of what we must keep the same each time.
   - Ask: Why must the strokes be the same? (good: So only who is stroking changes.; If one stroke is harder, that is not fair.)
 - **s4 (7 min)**  
   *Parent does:* 1. The child strokes the middle of their own sole five times with eyes shut, then opens them and points to a face. 2. The child shuts their eyes again. You stroke the same spot five times at the same speed, and the child opens their eyes and points to a face. 3. Repeat both once more. 4. Write every score.  
@@ -242,11 +242,11 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **s5 (4 min)**  
   *Parent does:* Swap. Test every other person at home who agrees, the same way, two tries each.  
   *Parent says:* Now let's test someone else at home who wants to play. Who will stroke their own foot first?  
-  *Child mode:* Now test someone else at home. You do the stroking for them.
+  *Child mode:* Test another person at home. They stroke their own foot first. Then you stroke it.
 - **s6 (3 min)**  
   *Parent does:* Count together. How many people had a lower score for their own stroke? How many the same? How many higher?  
   *Parent says:* Look at the table. What did you notice? Was your guess right?  
-  *Child mode:* Count. For how many people did their own stroke tickle less? Was your guess right?
+  *Child mode:* Count how many people scored their own stroke lower.
   - Ask: What did you see? (good: My own stroke got 0 or 1, and the other person's got 3.; Everyone's own stroke was lower.)
   - Note: Most people score their own stroke lower, often 0 or 1. A few find their own stroke a little tickly too, but it is usually still lower. If your result is different, write it down as it is. Only after the child has said what they saw, read the card on why you can't tickle yourself.
   - Check: You stroke your own foot five times and score 0. Someone else strokes it the same way, and you score 3. What does this show? → **Your own stroke tickles less than someone else's**
@@ -255,7 +255,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **question:** If you watch a glove being stroked while your hidden hand is stroked at the same time, does the glove start to feel like your hand?
 - **predict:** Guess first. Will the glove start to feel like part of you, or will it always feel like just a glove? Why do you think so?
 - **fair test:** Do it twice. In the first try, stroke the glove and the real hand at exactly the same moment. In the second try, stroke them at different moments. Only the timing changes.
-- **record:** Write yes, a bit or no for each try. Draw the set-up.
+- **record:** Write yes, a bit or no for each try. Take a photo of the set-up, or draw it.
 - **results table:** Person | Same moment: did the glove feel like my hand? (yes, a bit, no) | Different moments: did the glove feel like my hand? (yes, a bit, no)
 - **s1 (3 min)**  
   *Parent does:* Fill the glove with water over a sink and tie the top tightly. Ask for a guess and a reason.  
@@ -263,11 +263,11 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
   *Child mode:* Guess. Will the glove feel like your hand? Why?
 - **s2 (4 min)**  
   *Parent does:* 1. The child sits with both arms on the table. 2. Stand a book up to hide their left hand. 3. Put the glove 15 cm from the hidden hand, in line with the arm. 4. Drape a towel from the child's shoulder to the glove.  
-  *Parent says:* Keep your hidden hand very still. Look only at the glove.  
-  *Child mode:* Keep your hidden hand still. Look at the glove.
+  *Parent says:* Rest your left hand behind the book. Keep it very still.  
+  *Child mode:* Look only at the glove.
 - **s3 (5 min)**  
   *Parent does:* Stroke the same finger of the glove and of the hidden hand at exactly the same moment, slowly, for about two minutes.  
-  *Parent says:* Keep watching the glove. Tell me if anything changes.  
+  *Parent says:* Keep watching the glove. If you feel the stroke in the glove, tell me.  
   *Child mode:* Watch the glove. Say if it starts to feel like your hand.
 - **s4 (4 min)**  
   *Parent does:* First take the towel off and let the child shake their hands out for a minute. Then put the towel back. Now stroke the glove and the hand at different moments: first the glove, then the hand, for two minutes.  
@@ -291,13 +291,13 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **s2 (3 min)**  
   *Parent does:* Play it back. Ask the child, then ask everyone else at home.  
   *Parent says:* Does that sound like you? Now let's ask everyone else.  
-  *Child mode:* Listen. Does it sound like you? Ask your family too.
+  *Child mode:* Listen to your recording. Then ask your family what they think.
   - Ask: Does it sound like you? (good: No, it sounds squeaky.; A little, but higher.)
   - Note: Most children say it does not sound like them, while the family says it does. Both are right.
 - **s3 (3 min)**  
   *Parent does:* The child puts two fingers on their throat and hums, then hums with fingers gently in their ears.  
   *Parent says:* Hum with your fingers on your throat. Now hum with your fingers in your ears. What changed?  
-  *Child mode:* Hum. Feel your throat shake. Now hum with fingers in your ears. Is it louder?
+  *Child mode:* Hum with two fingers on your throat. Then hum with your fingers in your ears.
   - Ask: What changed when you hummed with your fingers in your ears? (good: The hum got louder inside my head.; I could hear my own hum much more.)
   - Note: With the ears blocked, less of the sound leaks out through the air, so you hear more of the sound that travels through the bones of your head. That bone sound is the part of your voice that you hear and a phone cannot.
 - **s4 (2 min)**  
@@ -312,25 +312,25 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
   *Parent says:* We will find out what you liked when you were three. Do you remember?  
   *Child mode:* Help write the five rows: food, toy, song, colour, game.
 - **s2 (6 min)**  
-  *Parent does:* The child asks a grown-up who knew them then, row by row, what they liked at 3. The child draws the answers on the left, or the grown-up writes them.  
+  *Parent does:* The child asks a grown-up who knew them then, row by row, what they liked at 3. The grown-up writes the answers on the left, and the child can add a small drawing. Old photos from then can help.  
   *Parent says:* Ask me, or another grown-up who knew you then: what was my favourite food when I was three?  
-  *Child mode:* Ask a grown-up: what did I like at 3? Draw or write it.
+  *Child mode:* Ask a grown-up: what did I like at 3? Listen to the answer.
 - **s3 (4 min)**  
   *Parent does:* The child fills in the right side with what they like now.  
   *Parent says:* Now fill in what you like today.  
-  *Child mode:* Now write what you like today.
+  *Child mode:* Now write what you like today, or say it and your grown-up writes it.
 - **s4 (3 min)**  
   *Parent does:* Count how many likes stayed the same and how many changed.  
   *Parent says:* How many likes are the same? How many changed? Why do you think they changed?  
-  *Child mode:* Count the same ones. Count the changed ones. Why did they change?
+  *Child mode:* Count the likes that stayed the same. Count the ones that changed.
   - Ask: Why might a like change? (good: I tried it more times.; I grew bigger and can do new things.; My friends like it too.)
   - Think: If most of your likes changed, are you still the same you?
 ### a3 · Mirror Me, Photo Me: which one do you like better? (10 min)
-- **record:** Draw yourself as the mirror shows you and as the photo shows you. Mark which cheek has the sticker.
+- **record:** Write which side the sticker is on in the mirror and which side it is on in the photo. Keep the photo too.
 - **s1 (3 min)**  
   *Parent does:* Put a sticker on the child's right cheek. The child looks in the mirror and lifts their right hand.  
   *Parent says:* Lift your right hand. Which hand does the you in the mirror lift? Where is the sticker in the mirror?  
-  *Child mode:* Lift your right hand. Look at yourself in the mirror. Which hand did the mirror you lift?
+  *Child mode:* Lift your right hand. Watch yourself in the mirror.
 - **s2 (3 min)**  
   *Parent does:* Someone else takes a photo of the child facing the camera, using the back camera, and shows it. A selfie view on a phone is often flipped like a mirror.  
   *Parent says:* Now look at the photo. Is the sticker on the same side as in the mirror?  
@@ -339,29 +339,29 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
   *Parent does:* Ask which picture looks more like them, then ask the family the same question.  
   *Parent says:* Which one looks more like you, the mirror or the photo? Let's ask everyone.  
   *Child mode:* Which one looks like you? Ask your family too.
-  - Ask: Scientists asked many people this question. Most liked their mirror face better, and their friends liked the photo better. Why might that be? (good: People like the face they are used to seeing. I see my mirror face every day.; My friends see the photo face, so that is the one they are used to.)
+  - Ask: Most people liked their mirror face better. Their friends liked the photo better. Why? (good: People like the face they are used to seeing. I see my mirror face every day.; My friends see the photo face, so that is the one they are used to.)
   - Note: Read the question below after your child has chosen. In a study in 1977, many people liked their mirror face better, while their friends liked the photo better. The researchers thought each person liked the face they were used to seeing.
   - Think: You see the mirror you every day. Your friends see the photo you. Which is the real you?
 ### a4 · Find Your Own Touch: what is your brain turning down right now? (8 min)
-- **record:** Draw yourself and mark the four places where you found a touch.
+- **record:** Tell a grown-up the four places where you found a touch. The grown-up can write them down.
 - **s1 (2 min)**  
   *Parent does:* The child sits still with eyes closed.  
   *Parent says:* Close your eyes. Can you feel your shirt on your shoulders? Were you feeling it a minute ago?  
-  *Child mode:* Close your eyes. Feel your shirt on your shoulders.
+  *Child mode:* Feel your shirt on your shoulders.
 - **s2 (3 min)**  
   *Parent does:* Name three more touches, one by one. First the floor under the feet. Then the tongue in the mouth. Then the breath under the nose.  
   *Parent says:* Now feel your feet on the floor. Now feel your tongue in your mouth. Now the air under your nose.  
   *Child mode:* Feel your feet. Feel your tongue. Feel your breath.
 - **s3 (3 min)**  
-  *Parent does:* Talk about why these touches were not noticed before.  
+  *Parent does:* Count the four touches together. Then ask why they were not noticed before.  
   *Parent says:* Why didn't you notice these before?  
-  *Child mode:* Why didn't you feel them before?
+  *Child mode:* Which touch surprised you most?
   - Ask: Why didn't you notice them? (good: My brain turns down touches that are always there.; Because they are my own and they don't change.)
 
 ## Projects
 ### p1 · My Me Book: five pages, one a day (50 min, 5 days)
 - **record:** The finished five-page book.
-- **schedule:** day 1: Page 1, My body: draw round your hand and write three things your body can do. (10 min); day 2: Page 2, My voice: write what your recorded voice sounded like (from That's Not Me!), and what your family said. (10 min); day 3: Page 3, My likes: draw three likes now and one like that changed (from Then and Now). (10 min); day 4: Page 4, My feelings: draw a face for how you felt this morning, at lunch and now. (10 min); day 5: Page 5, What others see: ask two people to say one thing they know about you, and write it. Then read the whole book aloud to someone. (10 min)
+- **schedule:** day 1: Page 1, My body: draw round your hand and write three things your body can do. (10 min); day 2: Page 2, My voice: write what your recorded voice sounded like (from That's Not Me!), and what your family said. (10 min); day 3: Page 3, My likes: write or draw three likes now and one like that changed (from Then and Now). (10 min); day 4: Page 4, My feelings: write a feeling word, or draw a face, for how you felt this morning, at lunch and now. (10 min); day 5: Page 5, What others see: ask two people to say one thing they know about you, and write it. Then read the whole book aloud to someone. (10 min)
 - **s1 (10 min)**  
   *Parent does:* Day 1. A parent folds the five sheets into a book. The child draws round their hand and writes three things their body can do, or says them for a parent to write.  
   *Parent says:* This is your Me book. Today's page is your body. What can your body do?  
@@ -369,15 +369,15 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **s2 (10 min)**  
   *Parent does:* Day 2. The child fills in the voice page, using what they found in the That's Not Me! activity.  
   *Parent says:* What did your voice sound like on the phone? What did the family say?  
-  *Child mode:* Write about your voice on the phone.
+  *Child mode:* Write about your voice, or say it for a grown-up to write.
 - **s3 (10 min)**  
   *Parent does:* Day 3. The child fills in the likes page, using their Then and Now paper.  
   *Parent says:* Which three things do you like now? Which like has changed since you were small?  
-  *Child mode:* Draw three likes you have now and one that changed.
+  *Child mode:* Write three likes you have now and one that changed. You can draw them instead.
 - **s4 (10 min)**  
-  *Parent does:* Day 4. The child fills in the feelings page with three faces: morning, lunch and now.  
+  *Parent does:* Day 4. The child fills in the feelings page for three times: morning, lunch and now.  
   *Parent says:* How did you feel this morning? At lunch? Now?  
-  *Child mode:* Draw three faces. Morning, lunch and now.
+  *Child mode:* For morning, lunch and now, write a feeling word or draw a face.
 - **s5 (7 min)**  
   *Parent does:* Day 5. The child asks two people one thing they know about them, and writes it or draws it.  
   *Parent says:* Ask two people: what is one thing you know about me?  
@@ -386,7 +386,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **s6 (3 min)**  
   *Parent does:* Read the whole book together.  
   *Parent says:* Read your Me book to us. Which page shows something that has changed since you were small? Which page shows something only you can know?  
-  *Child mode:* Read your book out loud. Which page shows something that changed? Which shows something only you know?
+  *Child mode:* Read your book out loud to someone.
   - Ask: Which page shows something that changed, and which shows something only you can know? (good: The likes page shows something that changed since I was small.; The feelings page shows something only I can feel from the inside.)
 
 ## Challenges
@@ -407,7 +407,7 @@ Anu crawled over again and grabbed Appa's toe. Appa squealed. Everybody laughed,
 - **s3 (5 min)**  
   *Parent does:* Test fairly and compare scores.  
   *Parent says:* Score your hand stroke. Now score your machine stroke. Which was higher?  
-  *Child mode:* Score your hand. Score your machine. Which tickled more?
+  *Child mode:* Do both strokes and give each a score from 0 to 3.
   - Note: It may or may not tickle more. Either result is useful. Ask the child why they think it worked or didn't.
 
 ## Worksheets

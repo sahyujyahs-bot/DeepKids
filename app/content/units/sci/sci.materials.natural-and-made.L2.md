@@ -191,9 +191,9 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
   *Child mode:* Turn over two cards. Is it a pair? How was it changed?
   - Ask: How did the sand become a bottle? (good: It was melted in a furnace and blown into a shape.; People heated it until it melted.)
 - **s3 (2 min)**  
-  *Parent does:* Count the pairs. Ask one last question.  
+  *Parent does:* 1. Count the pairs. 2. Ask which start material was changed the most, and which the least.  
   *Parent says:* Which start material was changed the most? Which was changed the least?  
-  *Child mode:* Count your pairs. Which was changed the most?
+  *Child mode:* Count your pairs. Say who has the most.
   - Check: Which of these says correctly what a thing is made from? → **A glass bottle, made from sand**
 ### g2 · Stand Up, Sit Down: natural or made? (10 min)
 - **rules:** One player is the caller. The caller shuffles the cards and holds them. Everyone else stands in a line.; The caller reads the front of a card aloud, but not the back.; If it is a natural material, stand up tall. If it is made by people, sit down on the floor.; The caller reads the back. Anyone who got it wrong does 3 jumps, then plays on.; If the back says 'Tricky', everyone stops. Each player says natural or made, and why. No one does jumps.; After 8 cards, a new player becomes the caller. The game ends after all 16 cards.
@@ -204,14 +204,14 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
   *Child mode:* Natural: stand up. Made by people: sit down.
 - **s2 (6 min)**  
   *Parent does:* Play through the cards. When a tricky card comes, stop and let each player give a reason.  
-  *Parent says:* A bird's nest. Is the nest natural or made? The bird made the nest from grass. People make paper from wood. What is the difference?  
-  *Child mode:* A bird's nest. Natural or made? Why?
+  *Parent says:* This card is tricky. Everyone stop. Tell me what you think, and why.  
+  *Child mode:* Stop and think. Then give your reason.
   - Ask: Is a bird's nest natural or made? (good: Natural, because a bird is part of nature.; Made, because the bird built the nest.; Both. The grass is natural, and the bird made the nest.)
   - Note: There is no single right answer to the tricky cards. Humans are animals too, so this is a real question.
 - **s3 (2 min)**  
-  *Parent does:* Ask one last question.  
+  *Parent does:* Ask which card was hardest, and why.  
   *Parent says:* Which card was hardest? Why?  
-  *Child mode:* Which card was hardest? Why?
+  *Child mode:* Think back over the cards. Pick the hardest one.
 
 ## Experiments
 ### e1 · The Sugar Test: can heat turn white grains into a clear sheet? (31 min)
@@ -219,31 +219,31 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 - **predict:** Look at the heap of white sugar. When it is melted and cooled, will it be white, clear, or something else? Why do you think so?
 - **fair test:** We keep one spoon of dry sugar aside, not heated, so we can compare. We put the heap of dry sugar and the cooled sugar sheet on the same newspaper, over words of the same size. We count how many letters we can read through each one.
 - **safety:** Melted sugar is much hotter than boiling water and sticks to skin. Only a grown-up heats and pours it. Children stand at least an arm's length from the stove. Do not touch the sheet until it has cooled for 10 minutes. Soak the pan in water to clean it.
-- **record:** Fill in the table. Draw the dry heap and the sheet side by side, on top of the newspaper words. Write one sentence: what heat did to the sugar.
+- **record:** Fill in the table. Take a photo of the heap and the sheet side by side on the newspaper words, or draw them. Write one sentence: what heat did to the sugar.
 - **results table:**  | Dry sugar heap | Melted and cooled sugar
 - **s1 (3 min)**  
   *Parent does:* 1. Put one spoon of dry sugar in a heap on a newspaper word. 2. Let your child look closely. 3. Ask for a guess and a reason.  
   *Parent says:* Can you read the word under the sugar? Now, if I melt this sugar and let it cool, what will it look like? Why do you think so?  
-  *Child mode:* Look at the sugar heap. Can you see the word under it? What will melted sugar look like? Why?
+  *Child mode:* Look closely at the sugar heap. Can you see the word under it?
   - Ask: What will the melted sugar look like when it cools? (good: White again, because sugar is white.; Clear, like a sweet.; Brown, because it might burn.)
   - Note: Write the guess down. Don't correct it. Many children think it will still be white, because they have only seen sugar as white grains.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. Put 4 tablespoons of sugar and 2 tablespoons of water in the pan. 2. Heat on a medium flame. 3. Stir until the sugar is gone, then stop stirring. 4. Let it bubble for about 6 to 10 minutes.  
   *Parent says:* Stay back where you are. Watch the bubbles. Tell me when they change.  
-  *Child mode:* Stand back from the stove. Watch the bubbles. Do they change?
+  *Child mode:* Stand back from the stove. Watch the bubbles get smaller and slower.
   - Note: After a few minutes the bubbles get smaller and slower, and the syrup turns pale gold. Drop a little into cold water. If it goes hard and snaps, it is ready. If it bends like chewing gum, heat one or two minutes more. Take it off before it turns dark brown. If the syrup turns white and grainy, it has set back into crystals. Start again in a clean pan, and add 3 drops of lemon juice.
 - **s3 (2 min) · grown-up needed**  
   *Parent does:* 1. Pour the syrup slowly onto the oiled steel plate. 2. Tilt the plate a little so it spreads thin. 3. Put the plate somewhere safe to cool.  
   *Parent says:* I am pouring it now. Don't touch it. It is hotter than boiling water.  
-  *Child mode:* A grown-up pours it. Don't touch. It is very hot.
+  *Child mode:* Watch the syrup spread on the plate. Keep your hands back.
   - Note: A thin layer, about as thick as a coin, gives the clearest sheet.
 - **s4 (10 min)**  
-  *Parent does:* 1. Set a timer for 10 minutes. 2. While you wait, fill in the 'Dry sugar heap' column of your table. 3. After 10 minutes, tap the sheet with a spoon to check it is hard.  
+  *Parent does:* 1. Set a timer for 10 minutes. 2. While you wait, fill in the 'Dry sugar heap' column of your table: its colour, and how many letters you can read through it. 3. After 10 minutes, tap the sheet with a spoon to check it is hard.  
   *Parent says:* While it cools, look at the dry heap again. What colour is it? Can you read the word under it? Let's write that in the table.  
   *Child mode:* Fill in the 'Dry sugar heap' column of your table while you wait.
 - **s5 (4 min)**  
   *Parent does:* 1. Lift the cool sheet off the plate. 2. Lay it on a newspaper word next to the dry heap. 3. Count the letters you can read through each. 4. Wrap a small piece in a cloth and tap it with a spoon until it is powder. 5. Look at the powder.  
-  *Parent says:* How many letters can you read through the heap? Through the sheet? Now, what colour is the crushed sheet? Why do you think it changed?  
+  *Parent says:* How many letters can you read through the heap? Through the sheet? Now, what colour is the crushed sheet?  
   *Child mode:* Count the letters you can read through each one. Now crush a small piece. What colour is it now?
   - Ask: Why is the crushed sugar white again? (good: Because it is grains again.; The light bounces off all the little pieces.; It has edges again, so we can't see through.)
   - Note: A strong answer uses what your child saw: 'The sheet let me read the word, but the crushed bits did not.' In damp weather the sheet turns sticky after a few hours, so compare it soon after it cools. Now read the card 'How glass is made from sand'. When the sheet is fully cool, your child may taste a small piece. Break it in the cloth first, as the edges can be sharp.
@@ -253,13 +253,13 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 - **predict:** Which piece do you think will change the most in two weeks? Which will change the least? Why do you think so?
 - **fair test:** Every piece is about the size of a matchbox. Each one goes in its own cup, under the same amount of soil from the same pot. Every cup gets the same 2 spoons of water twice a week, and all cups stay in the same place.
 - **safety:** Mould may grow on the peel. Dig with a spoon, don't sniff it, and wash hands with soap afterwards.
-- **record:** Draw each piece on day 1, day 7 and day 14. Write 'natural' or 'made' under each.
+- **record:** Fill in the table for each piece. You can also take a photo of each piece on day 1, day 7 and day 14. Write 'natural' or 'made' beside each.
 - **results table:** Material | Natural or made? | My guess | After 1 week | After 2 weeks
 - **schedule:** day 1: Guess which piece will change the most. Bury one piece in each cup, label the cups, and water them. (8 min); day 4: Add 2 spoons of water to each cup. (1 min); day 7: Dig each piece up with a spoon, look, write what you see, and bury it again. Add 2 spoons of water. (5 min); day 11: Add 2 spoons of water to each cup. (1 min); day 14: Dig up each piece. Compare them. Which changed the most? Sort them: broke down, changed a little, did not change. (7 min)
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the four pieces. 2. Ask which are natural and which are made by people. 3. Ask for a guess and a reason.  
   *Parent says:* Which of these come from nature, and which did people make? Which one will change most in the soil? Why?  
-  *Child mode:* Which pieces are natural? Which are made? Which will change most? Why?
+  *Child mode:* Sort the four pieces into two groups: natural and made by people.
   - Ask: Which will change most? (good: The banana peel, because peels go rotten.; The paper, because it gets soggy.; The plastic will not change, because plastic lasts.)
   - Note: Newspaper is a made material, but it is made of plant fibres. Watch whether it breaks down like a natural material or like plastic.
 - **s2 (5 min)**  
@@ -268,9 +268,9 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
   *Child mode:* Put one piece in each cup. Cover it with soil. Give it 2 spoons of water.
   - Note: Keep the cups on a windowsill or a balcony, out of heavy rain. Damp soil works best, not soaking wet.
 - **s3 (5 min)**  
-  *Parent does:* 1. Dig each piece up with a spoon. 2. Put it on a newspaper and look. 3. Write what you see. 4. Bury it again.  
-  *Parent says:* What has changed? Look at the colour, and feel how soft it is with the spoon.  
-  *Child mode:* Dig up each piece with a spoon. What has changed?
+  *Parent does:* 1. Dig each piece up with a spoon. 2. Put it on a newspaper and look. 3. Write what you see in the table. 4. Bury it again.  
+  *Parent says:* What has changed since day 1? Look at the colour, and feel how soft it is with the spoon.  
+  *Child mode:* Dig up each piece with a spoon. Look at its colour. Is it softer?
   - Ask: Which piece has changed most? (good: The banana peel. It is dark and soft.; The plastic looks the same.)
   - Note: Bacteria and fungi, tiny living beings in the soil, are eating the peel. They break it down.
   - Wait: Leave the cups for 7 days. Water them twice a week.
@@ -285,16 +285,16 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 
 ## Activities
 ### a1 · The Changing Line: how much did people change it? (10 min)
-- **record:** Draw the line in your notebook with all 8 things on it, in order.
+- **record:** Take a photo of your line with all 8 things on it. Or write the 8 names in order in your notebook.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay the string or dupatta on the floor. 2. Put a sign at each end: 'As nature made it' and 'Changed a lot by people'. 3. Collect 8 things with your child.  
   *Parent says:* Let's find 8 things. Find some that came straight from nature, and some that people made.  
-  *Child mode:* Find 8 things. Some from nature. Some made by people.
+  *Child mode:* Find 8 things around the house and bring them to the line.
   - Note: Try to include one of each: something living or grown, something from the ground, something cut from wood, and some glass, paper and plastic.
 - **s2 (5 min)**  
   *Parent does:* 1. Pick up one thing at a time. 2. Ask your child where it goes on the line, and why. 3. Let them move things as they change their minds.  
   *Parent says:* Where does the wooden spoon go? It is still wood, but someone carved it. How much did people change it?  
-  *Child mode:* Put each thing on the line. How much did people change it?
+  *Child mode:* Put each thing on the line. Move it if you change your mind.
   - Ask: Why did you put the glass tumbler near the 'Changed a lot by people' end? (good: Because sand had to be melted to make glass.; You can't find a glass tumbler in nature.)
   - Note: There is no single right answer for the middle things. The reasons matter more than the places.
 - **s3 (2 min)**  
@@ -303,49 +303,49 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
   *Child mode:* Count each half. Which half has more things?
   - Check: You have a cotton hanky and a plastic bottle. Which one goes nearer the 'Changed a lot by people' end? → **The plastic bottle**
 ### a2 · Grains Up Close: is one grain white? (8 min)
-- **record:** Draw one grain big, and a heap small. Colour them as you saw them.
+- **record:** Take a close photo of one grain and of a heap. Or draw them. Then tell your grown-up one difference.
 - **s1 (4 min)**  
   *Parent does:* 1. Sprinkle a few grains of sugar on the dark paper, spread apart. 2. Shine the torch from the side. 3. Look with a magnifying glass or zoom in with the phone camera.  
-  *Parent says:* Look at just one grain. What colour is it? Can you see light inside it?  
-  *Child mode:* Look at one grain. What colour is it? Can you see light inside?
+  *Parent says:* Look at just one grain. Shine the torch on it and see what happens.  
+  *Child mode:* Look at one grain with the torch shining on it.
   - Ask: What does one grain look like? (good: Clear and shiny, like a tiny piece of glass.; A little box shape.)
 - **s2 (4 min)**  
   *Parent does:* 1. Now pour a small heap of sugar next to the single grains. 2. Compare. 3. Try the same with salt.  
-  *Parent says:* One grain looks clear. So why does the heap look white?  
-  *Child mode:* Now look at a heap. Why does the heap look white?
+  *Parent says:* One grain looks clear. Now look at the whole heap.  
+  *Child mode:* Look at the heap next to the single grains. Then try salt.
   - Ask: Why does the heap look white? (good: The light bounces off all the grains.; There are so many edges.)
   - Note: If your child is stuck on why the heap looks white, say this: light bounces off the edges of every grain, in all directions, so very little of it goes straight through. Salt grains are tiny clear cubes. Glass-making sand is made of tiny clear grains too, which is why melted sand can be clear.
 ### a3 · The Water Shake: paper or plastic? (10 min)
-- **record:** Draw what came out of each jar.
+- **record:** Take a photo of what came out of each jar. Or tell your grown-up what you saw in each.
 - **s1 (2 min)**  
   *Parent does:* 1. Put the tissue in one jar and the plastic in the other. 2. Close the lids. 3. Ask for a guess.  
   *Parent says:* What will happen to each one when we shake it? Why do you think so?  
-  *Child mode:* What will happen to each one when you shake it? Why?
+  *Child mode:* Watch the tissue and the plastic go into the jars. Then make a guess.
 - **s2 (3 min)**  
   *Parent does:* 1. Your child shakes each jar hard for 1 minute. 2. Hold the jars up to the light.  
   *Parent says:* Shake it hard! Now look. What happened to the tissue? What happened to the plastic?  
   *Child mode:* Shake each jar hard. Count to 60. Now look.
 - **s3 (5 min)**  
   *Parent does:* 1. Pour each jar onto the plate. 2. Pick up some of the tissue bits and feel them. 3. Read the card 'How paper is made from plants'.  
-  *Parent says:* The tissue fell into tiny soft bits. These are plant fibres. Paper is made of them, pressed together. Why did the plastic stay whole?  
-  *Child mode:* Feel the soft bits. They are plant fibres. Why did the plastic stay whole?
+  *Parent says:* Feel the soft bits from the tissue. Why do you think the tissue came apart, but the plastic stayed whole?  
+  *Child mode:* Feel the soft bits from the tissue. What are they like?
   - Ask: Why did the tissue come apart? (good: Water got between the fibres and they let go.; Paper is made of tiny threads stuck together.)
-  - Note: Toilet paper falls apart fastest. Newspaper takes longer. Throw the mush in the dustbin, not down the sink.
+  - Note: After your child answers, say: the soft bits are plant fibres, and paper is made of them pressed together. Toilet paper falls apart fastest. Newspaper takes longer. Throw the mush in the dustbin, not down the sink.
 ### a4 · The Plastic Count: how many plastic things are in one room? (12 min)
 - **record:** A tally chart of plastic things, with the ones that could be natural circled.
 - **s1 (2 min)**  
   *Parent does:* 1. Pick one room, such as the kitchen or the bathroom. 2. Ask your child to guess how many plastic things are in it.  
   *Parent says:* How many plastic things do you think are in the kitchen? Guess a number.  
-  *Child mode:* Guess. How many plastic things are in this room?
+  *Child mode:* Say a number out loud. That is your guess.
 - **s2 (6 min)**  
-  *Parent does:* 1. Walk round the room together. 2. For every plastic thing, your child writes its name or draws it, and makes a tally mark. 3. Count the marks.  
+  *Parent does:* 1. Walk round the room together. 2. For every plastic thing, your child says its name and makes a tally mark. 3. Count the marks.  
   *Parent says:* Look on shelves and inside cupboards too. Every plastic thing gets a mark.  
   *Child mode:* Find every plastic thing. Make a mark for each one. Count them.
   - Note: Lids, packets, the handle of a knife and the switches on the wall all count.
 - **s3 (4 min)**  
   *Parent does:* 1. Go down the list. 2. For each thing, ask if a natural material could do the job. 3. Circle those.  
   *Parent says:* Could this be made of wood, clay, cloth or leaf instead? Which ones would be hard to replace?  
-  *Child mode:* Could it be wood, clay or cloth instead? Circle those.
+  *Child mode:* Go down the list. Circle the things that could be made of something natural.
   - Ask: Which plastic thing would be hardest to replace? (good: The bucket, because it must be light and not break.; The light switch, because it must keep electricity in.)
 
 ## Projects
@@ -360,17 +360,17 @@ Nila did not know. Amma did not say. They walked home with the green glass in Ni
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up cuts a window in the side of the box. 2. Your child puts a toy inside and closes the lid.  
   *Parent says:* Glass makes a good window, because the sand melted into one clear piece. What else could let light in?  
-  *Child mode:* Put a toy in the box. What could make a window, without glass?
+  *Child mode:* Put a toy in the box and close the lid. Then look around for things light can pass through.
 - **s2 (8 min)**  
   *Parent does:* 1. Let your child try each material over the hole. 2. Rub a few drops of oil into a piece of white paper and try that too.  
-  *Parent says:* Hold each one over the window. Which lets in the most light? Look at the oily paper. What changed? Remember the sugar sheet, which had no grain edges inside. The oil fills the gaps between the paper fibres in a similar way.  
-  *Child mode:* Try each material. Which lets in the most light?
+  *Parent says:* Hold each one over the window. Which lets in the most light? Now look at the oily paper. What changed?  
+  *Child mode:* Try each material over the hole. Line them up from most light to least light.
   - Ask: Why does the oily paper let more light through? (good: The oil fills the gaps between the fibres.; It has fewer edges for the light to bounce off.)
   - Note: This is the same idea as the Sugar Test, where the melted sugar had no grain edges inside and was clear. The oil fills the gaps between the fibres, so less light bounces about.
 - **s3 (6 min)**  
   *Parent does:* 1. Your child tapes the best material over the window, with the toy right behind it. 2. Shine a torch at the window from the side and look through. 3. Sprinkle a few drops of water on the outside.  
   *Parent says:* Can you tell the toy is inside? Did the water get in?  
-  *Child mode:* Tape on your window. Shine a torch from the side. Can you see the toy?
+  *Child mode:* Tape your best material over the window. Shine a torch from the side and look through. Then sprinkle a few drops of water on the outside.
 - **s4 (2 min)**  
   *Parent does:* Ask your child to change one thing and try again.  
   *Parent says:* What would make your window better?  
