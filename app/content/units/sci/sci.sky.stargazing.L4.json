@@ -509,7 +509,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a question game with a sky clock. A reader asks a question about how the sky turns, where the Pole Star stands, or how stars are measured, and players answer it.",
+   "context": "This is a question game with a sky clock. A reader asks a question about how the sky turns, where the Pole Star stands, or how stars are measured, and players answer it. You play to practise telling where the stars will be hours later.",
    "setup": [
     {
      "art": "A round sky clock board with twelve numbered places round a circle and a drawn Pole Star in the middle, with a paper arrow pinned in the centre.",
@@ -676,8 +676,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Play the first four cards that say CLOCK. After each one, ask which way the arrow turned and by how many numbers.",
-     "say": "Set the arrow where the card says. Which way do the stars go? Every two hours, the arrow moves back one number. Where does it point now?",
-     "kid": "Set the arrow. The stars go anticlockwise. Two hours moves it back one number.",
+     "say": "Set the arrow where the card says. The stars go anticlockwise, so every two hours the arrow moves back one number. Where does it point now?",
+     "kid": "Set the arrow where the card says. Then turn it the way the stars go.",
      "check": {
       "t": "mcq",
       "q": "At 8 pm the pointer stars point to 12 o'clock. At 2 am, where do they point?",
@@ -696,7 +696,7 @@
      "mins": 4,
      "do": "Play four cards about the Pole Star's height and the places in India. Show the answer with your fist held out at arm's length.",
      "say": "A fist at arm's length covers about 10 degrees. Hold up your fist for Chennai. How many fists high is the Pole Star? Now do Delhi.",
-     "kid": "Use your fist for the height. Chennai is about one fist. Delhi is about three.",
+     "kid": "Use your fist to show how high the Pole Star is.",
      "ask": [
       {
        "q": "Why is the Pole Star higher in Delhi than in Chennai?",
@@ -721,7 +721,7 @@
      "mins": 3,
      "do": "Add up the points. Then ask which of the ideas in the game could be checked with real stars on a clear night.",
      "say": "Add up your points. Now think about the ideas in this game. Which one could you check with real stars, on a clear night?",
-     "kid": "Add up your points. Which idea could you check with real stars?",
+     "kid": "Add up your points.",
      "ask": [
       {
        "q": "Which of the ideas in the game could you check with real stars?",
@@ -786,7 +786,7 @@
      "what": "Guess what will happen. Mark a wall strip. Measure the pencil's jump at 25, 50 and 100 centimetres. Then your grown-up holds the pencil at a distance they keep secret, and you use your results to work out how far away it is."
     }
    ],
-   "record": "Fill in the results table. Then draw a line graph with the distance across the bottom and the jump up the side. Write down how close your guess for the hidden pencil came.",
+   "record": "Fill in the results table. Then draw a line graph with the distance across the bottom and the jump up the side, or tell your grown-up the pattern you see. Write down how close your guess for the hidden pencil came.",
    "context": "In this experiment you measure how far a pencil seems to jump when you swap eyes, at three distances. You then use your results to guess the distance of a hidden pencil. It is how astronomers first measured the distance to a star.",
    "setup": [
     {
@@ -846,7 +846,7 @@
      "mins": 4,
      "do": "Show your child the pencil and the wall. Ask them to close one eye, then the other, with the pencil at arm's length. Then ask for the guess and the reason.",
      "say": "Look at the pencil against the wall. Close one eye, then the other. It seems to jump. If I bring the pencil twice as close, will it jump the same, twice as much, or four times as much? Why?",
-     "kid": "Close one eye, then the other. Does the pencil jump? Guess what happens when it is closer. Why?",
+     "kid": "Close one eye, then the other. Does the pencil jump? Then guess what happens when it is closer.",
      "ask": [
       {
        "q": "Why do you think it will jump more, or less, when it is closer?",
@@ -883,7 +883,7 @@
      "mins": 3,
      "do": "Look at the three jumps together. Ask what happens to the jump each time the pencil is brought twice as close.",
      "say": "From 100 centimetres to 50, the distance was halved. What happened to the jump? And from 50 to 25?",
-     "kid": "When the distance is halved, what happens to the jump?",
+     "kid": "Look at your three jumps one after another. Compare them.",
      "check": {
       "t": "mcq",
       "q": "When the pencil was brought to half the distance from your nose, what happened to the jump?",
@@ -963,7 +963,7 @@
      "what": "Guess. Choose a star and mark your spot. Measure at the start, after 30 minutes and after 60 minutes. Work out how far the sky turns in an hour."
     }
    ],
-   "record": "Fill in the results table. Draw the roof edge and the star at the three times, on one page, with arrows to show the way the star moves.",
+   "record": "Fill in the results table. Draw the roof edge and the star at the three times, on one page, with arrows to show the way the star moves, or tell your grown-up which way and how far it went.",
    "context": "In this experiment you watch a star move across the sky over an hour and measure how far it goes with your fist. It shows that the sky turns at a steady rate, because the Earth is spinning.",
    "setup": [
     {
@@ -1011,7 +1011,7 @@
      "mins": 3,
      "do": "Ask for the guess and the reason before you go outside. Write it down.",
      "say": "The stars seem to move across the sky. If we watch one star for an hour, how far will it move? Half a fist, one and a half fists, or five fists? Why do you think so?",
-     "kid": "How far does a star move in one hour? Half a fist? One and a half? Five? Why?",
+     "kid": "Guess how far a star moves in one hour. Half a fist, one and a half, or five?",
      "ask": [
       {
        "q": "Why do you think it will move that far?",
@@ -1038,9 +1038,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Draw the roof edge and the star in your notebook, with the first measurement. Then go inside or sit down for 30 minutes.",
-     "say": "Draw what you see. Where will the star be in half an hour? Draw a small cross there. We will check your cross after the next measurement.",
-     "kid": "Draw the star and the roof edge. Draw where you think the star will be soon.",
+     "do": "Ask your child to guess how many fists the star will be above the roof edge in half an hour. Write the guess next to the first number. Then go inside or sit down for 30 minutes.",
+     "say": "Where will the star be in half an hour? Will it be higher, lower or the same? Say how many fists you think. We will check your guess after the next measurement.",
+     "kid": "Guess how many fists the star will be in half an hour.",
      "wait": "Leave it for 30 minutes before the second measurement."
     },
     {
@@ -1132,7 +1132,7 @@
      "what": "Guess. Build the sighting tool. Test it by day on a roof. Find the Pole Star from the Saptarishi at night. Take five readings. Compare the middle one with your latitude."
     }
    ],
-   "record": "Fill in the results table. Write your city's latitude from a map next to your answer. Draw the north horizon and the Pole Star with its height in degrees.",
+   "record": "Fill in the results table. Write your city's latitude from a map next to your answer. Then tell your grown-up in one sentence how high the Pole Star is where you live.",
    "context": "In this experiment you build a simple tool to measure the height of the Pole Star, and compare it with your latitude. It shows that the stars tell you where you are.",
    "setup": [
     {
@@ -1193,8 +1193,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Ask for the guess and the reason. Write it down. Show the city list below.",
-     "say": "The Pole Star is about 8 degrees up in Kanyakumari, 13 in Chennai, and 29 in Delhi. Where do we live? Is the Pole Star higher or lower here than in Delhi? Why do you think so?",
-     "kid": "Is the Pole Star higher here than in Delhi? Or lower? Guess. Why?",
+     "say": "The Pole Star is about 8 degrees up in Kanyakumari, 13 in Chennai, and 29 in Delhi. Think about where we live. Is the Pole Star higher or lower here than in Delhi? Why do you think so?",
+     "kid": "Guess if the Pole Star is higher or lower here than in Delhi.",
      "ask": [
       {
        "q": "Why do you think it will be lower, or higher, from where we live?",
@@ -1242,7 +1242,7 @@
      "id": "s4",
      "mins": 7,
      "do": "At night, go outside with your grown-up to a spot with a clear view to the north. Find the Saptarishi. Follow a line through the two pointer stars, Kratu and Pulaha, about five times the gap, to the Pole Star. Use a sky map if you cannot see it.",
-     "say": "Find the seven stars of the Saptarishi. Take the two stars at the outer edge of the bowl. Draw a line through them, and carry on about five gaps. The star at the end is the Pole Star. It is not very bright, so look carefully.",
+     "say": "Find the seven stars of the Saptarishi. Take the two stars at the outer edge of the bowl. Imagine a line through them, and carry on about five gaps. The star at the end is the Pole Star. It is not very bright, so look carefully.",
      "kid": "Find the Saptarishi. Follow the two pointer stars. The Pole Star is at the end.",
      "adult": true,
      "parent": "The Pole Star may be hard to see from a city, and low in the south of India it can be hidden by haze or buildings. Let your eyes get used to the dark for 15 minutes, and use a red torch only. If you cannot see it, use Stellarium Web to find where it is and look there. If it is cloudy tonight, try another night. The Saptarishi is low or even below the horizon in the evening in autumn and early winter, especially in the south. If you cannot see it, use Cassiopeia, the W-shaped group on the other side of the Pole Star, which is high on autumn and winter evenings: the Pole Star lies in line with the middle point of the W, a little way off."
@@ -1304,7 +1304,7 @@
     }
    ],
    "safety": "A grown-up switches the lamp on and off. A bare bulb can get hot, so use a cool LED bulb if you have one, and make sure nobody touches the bulb. Keep the cord out of the ring you walk on so nobody trips.",
-   "record": "A table with the twelve months, the group of stars highest at midnight in each, and the group hidden by the Sun. Draw the lamp, the ring and the cards from above.",
+   "record": "A table with the twelve months, the group of stars highest at midnight in each, and the group hidden by the Sun. Take a photo of your lamp, ring and cards, or draw them from above.",
    "context": "In this activity you turn a room into the solar system, with a lamp as the Sun and twelve cards as the star groups round it. You walk round the lamp as the Earth does, and find out why the stars change with the seasons.",
    "setup": [
     {
@@ -1390,8 +1390,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Ask where the full Moon would be, if it is always opposite the Sun. Link it to the Karthigai Deepam festival in November or December, when the full Moon is near Krittika, which is in Taurus.",
-     "say": "The full Moon is always on the opposite side of the Earth from the Sun. Where would it be in your room? So in which group of stars is the full Moon in December?",
-     "kid": "The full Moon is opposite the Sun. Where is it in your room?",
+     "say": "The full Moon is always on the opposite side of the Earth from the Sun. Where would it be in your room?",
+     "kid": "Point to where the full Moon would be in your room.",
      "ask": [
       {
        "q": "In which group of stars is the full Moon in December, and why?",
@@ -1446,7 +1446,7 @@
      "what": "Guess. Set the ball so its north pole faces the far star. Mark five latitudes on it. Fix a straw and a flat card at each one, and measure the angle between them."
     }
    ],
-   "record": "A table with each place, its latitude, and the angle you measured between the straw and the card. Draw the ball with the straw and card at the equator, at Chennai and at the pole.",
+   "record": "A table with each place, its latitude, and the angle you measured between the straw and the card. Take a photo of the ball from the side with the straw and card at the equator, at Chennai and at the pole.",
    "context": "In this activity you use a ball as the Earth and a star on the wall as the Pole Star. You find out how the angle of the Pole Star above the horizon changes with latitude.",
    "setup": [
     {
@@ -1472,7 +1472,7 @@
      "mins": 3,
      "do": "Ask your child to imagine being a tiny person on the ball. Ask where the far star would be in the sky at the equator, and at the North Pole. Write down the guess and the reason.",
      "say": "Imagine you are tiny, and standing on this ball, on the equator. Where would you see the Pole Star: overhead or on the horizon? And at the North Pole? Why do you think so?",
-     "kid": "You are tiny, on the ball. Where is the star at the equator? At the pole? Why?",
+     "kid": "You are tiny, on the ball. Where is the star at the equator? And at the pole?",
      "ask": [
       {
        "q": "Why do you think the star is there?",
@@ -1569,7 +1569,7 @@
     }
    ],
    "safety": "A grown-up does all the heating, lights the stove and the diya, and moves the hot tawa. Keep the child at least 1.5 metres from the tawa, the flame and the diya. Do not carry the tawa: leave it on the stove ring where it was heated, with a dim light on beside it so it can be seen. Tie back long hair and keep loose clothes away from the flames. Let the tawa cool fully before it is touched or washed.",
-   "record": "Write which light flickered more, the tiny hole or the wider hole. Draw the gas flame and the diya flame and colour them. Write the colour of Betelgeuse and of Rigel, and which one is hotter.",
+   "record": "Write which light flickered more, the tiny hole or the wider hole. Write which flame was bluer. Write the colour of Betelgeuse and of Rigel, and which one is hotter.",
    "context": "In this activity you make a small light twinkle by looking at it through hot, rising air, and you compare the colours of flames and stars. It shows why stars twinkle and planets mostly do not, and how colour shows temperature.",
    "setup": [
     {
@@ -1595,7 +1595,7 @@
      "mins": 3,
      "do": "Ask for the guess and the reason before you start.",
      "say": "A star is a tiny point of light. A planet is a tiny disc. Which one do you think will flicker more when its light comes through moving air? Why?",
-     "kid": "A star is a point. A planet is a tiny disc. Which twinkles more? Why?",
+     "kid": "Guess which light will flicker more, the star or the planet.",
      "ask": [
       {
        "q": "Why do you think that one flickers more?",
@@ -1632,9 +1632,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "A grown-up lights a gas stove ring and a diya. Look at both flames from a safe distance of about 1 metre. Notice the colours. Draw them.",
+     "do": "A grown-up lights a gas stove ring and a diya. Look at both flames from a safe distance of about 1 metre. Notice the colours. Ask your child which flame is bluer.",
      "say": "Look at the gas flame and the diya flame. Which has more blue in it? A hotter flame has more blue. Stars are similar: the bluer a star's surface looks, the hotter it is.",
-     "kid": "Look at the gas flame and the diya flame. Which is bluer? Colour them in.",
+     "kid": "Look closely at the two flames. Point to the bluer one.",
      "adult": true,
      "parent": "Stay with your child by the stove, and keep hair and loose clothes away. Blue is a rough sign of heat in fire. The colour of a flame also depends on what is burning, so this is only a hint about stars. Stars are balls of hot gas glowing, and for them, colour is a good thermometer. The yellow in a diya flame is mostly glowing bits of soot, and a gas flame burns cleaner and hotter, so it is blue."
     },
@@ -1642,8 +1642,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Open a sky map and look at Orion. Find Betelgeuse at one shoulder and Rigel at one foot. Zoom in and look at the colour of each. If it is a clear winter night and Orion is up, look outside too.",
-     "say": "Betelgeuse is called Ardra in India. Rigel is at the opposite corner of Orion. What colour is each? Which one do you think is hotter? Why?",
-     "kid": "Find the two stars in Orion. What colour is each? Which is hotter?",
+     "say": "Betelgeuse is called Ardra in India. Rigel is at the opposite corner of Orion. Look at the colour of each.",
+     "kid": "Find Betelgeuse and Rigel in Orion. Look at the colour of each.",
      "ask": [
       {
        "q": "Which star is hotter, and how can you tell?",
@@ -1750,7 +1750,7 @@
      "mins": 25,
      "do": "Draw a clock face with 60 small marks on a page, with 12 at the top. Put a small star in the middle for the Pole Star. At 8:30 pm, go outside with your grown-up. Find the Pole Star and the Saptarishi. Look at the line from the Pole Star through the pointer stars. Decide which minute-mark it points at, as if it were the minute hand of a clock. Draw the line and write the date.",
      "say": "Think of the line from the Pole Star through the two pointer stars as the minute hand of a clock. Which number does it point at? Draw that line. We will draw it again every week at the same time.",
-     "kid": "Draw a clock. Find the Pole Star. Draw the line to the pointer stars.",
+     "kid": "Find the Pole Star and the pointer stars. Which minute-mark does the line point at? Draw it, or ask your grown-up to draw it.",
      "adult": true,
      "parent": "Do the same each week at exactly the same clock time, from the same spot. The line points a different way at different times of night, so the same hour each week matters. If you are not sure of the minute-mark, hold your page up to the sky and compare. In a week the line moves back by about 1 minute-mark. To read the angle well, hold the thread with the weight at arm's length so it hangs straight down through the Pole Star, then use the protractor on your page to copy the angle of the pointer line from it. If a night is cloudy, draw on the next clear night and write the date: the sky shifts about 1 degree a day, so you can still compare. You can also use Stellarium Web, set to your city, and move the date and time to show where the line points. The Saptarishi sits low in the north on autumn and early winter evenings and may be hidden, especially in the south of India. If so, use Cassiopeia, the W-shaped group on the other side of the Pole Star, and draw the line from the Pole Star to the middle point of the W. Use the same group all month. With 2 to 4 children, each child draws their own clock, and then they compare. They can take turns to hold the thread while another draws.",
      "context": "This is the first step of Dhruva's Clock. You make the diary page and draw the first sky clock."
@@ -1760,7 +1760,7 @@
      "mins": 12,
      "do": "A week later, at the same time, go out and draw the sky clock again. Compare with the first one. Has the line moved? Which way?",
      "say": "Same time, same spot. Where does the line point tonight? Is it the same as last week, or has it moved?",
-     "kid": "Same time, same place. Draw the line again. Has it moved?",
+     "kid": "Same time, same place. Find the line again. Which minute-mark is it now? Draw it, or write the number.",
      "adult": true,
      "wait": "Wait 7 days before the second drawing.",
      "ask": [
@@ -1780,7 +1780,7 @@
      "mins": 24,
      "do": "Repeat the drawing at the same time on day 15 and on day 22. Each time, write the date and compare with the one before.",
      "say": "Two more times. The line should keep moving in the same direction. Do you see a pattern? How many minute-marks after three weeks?",
-     "kid": "Draw the line on day 15 and day 22. Compare each with the last.",
+     "kid": "On day 15 and day 22, find the minute-mark again. Draw it, or write the number. Compare each with the last.",
      "adult": true,
      "wait": "Wait 7 days between each drawing.",
      "parent": "Expect the line to have moved back about 3 to 4 minute-marks after three weeks. If the sky is cloudy on the night, use Stellarium Web with the date set, to see where the line would be."
@@ -1858,8 +1858,8 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read the problem. Choose a far thing and decide on a baseline. Sketch the plan. Ask your child to guess the distance first.",
-     "say": "Surveyors found the distance across India this way. In 1802 they started the great survey near Chennai by measuring one baseline of several kilometres, and building triangles from it. How far do you think the tree is?",
+     "do": "Read the problem. Choose a far thing. Choose two spots, A and B, a few metres apart, and measure the gap. This is your baseline. Ask your child to guess the distance first.",
+     "say": "Surveyors measure far distances with triangles. They start from one short line they can measure. How far do you think the tree is?",
      "kid": "Pick a far tree or tank. How far do you think it is? Guess.",
      "ask": [
       {
@@ -1906,8 +1906,8 @@
      "id": "s4",
      "mins": 10,
      "do": "Check your answer. A grown-up measures the distance on a map or by pacing. Work out how many metres you were out and what fraction of the distance. Talk about what would make the answer better.",
-     "say": "How close were we? Out by a few metres is very good. What could we change next time? A longer baseline? More careful aiming?",
-     "kid": "How close were you? What would you change next time?",
+     "say": "Out by a few metres is very good. A longer baseline or more careful aiming could make it closer.",
+     "kid": "Compare your answer with the real distance.",
      "ask": [
       {
        "q": "What would give a more accurate answer next time?",

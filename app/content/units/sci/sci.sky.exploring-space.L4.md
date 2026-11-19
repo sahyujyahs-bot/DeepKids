@@ -281,7 +281,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   *Parent does:* Play the first eight cards. After each card, read the back and ask for a reason. After the third card, ask the question below.  
   *Parent says:* I read the front. Choose a token. Turn them over together. Now the back says the answer. Who can say why in their own words?  
   *Child mode:* The reader reads. Pick a token. Turn it over. Check the back.
-  - Ask: Which cards so far were about slower or faster, and what rule decided them? (good: Higher orbits are slower.; More weight means less speed from the same push.; Closer to the Earth is faster.)
+  - Ask: Which card so far was about speed? What decided the answer? (good: Higher orbits are slower.; More weight means less speed from the same push.; Closer to the Earth is faster.)
 - **s3 (7 min)**  
   *Parent does:* Play the rest of the cards. Swap the reader after each card. Keep a score on paper.  
   *Parent says:* Next card. Make a guess first. Do not look at the back. Why do you think so?  
@@ -318,13 +318,13 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 - **predict:** Before you start, guess. Will a faster marble land farther away, in the same place, or nearer? Will it take longer to fall? Why do you think so?
 - **fair test:** Use the same marble, the same ramp and the same table every time. Change only the height on the ramp where you let the marble go: 5, 10 and 15 centimetres above the table top. Let go of the marble without pushing it. Roll it three times from each height. Use the middle one of the three landing distances, because one try can be a fluke.
 - **safety:** Keep marbles away from children under five, who might put them in their mouths. Wipe up any water that drips on the floor, so nobody slips. Pick up stray marbles at once, because stepping on one can make you fall. Haldi stains cloth, so keep the saucer off carpets.
-- **record:** Fill in the table. Then draw three bars, one for each start height, as long as its middle landing distance. Write one sentence under the bars that says what the pattern is.
+- **record:** Fill in the table. Then lay out three paper strips, one for each start height, as long as its middle landing distance. Write one sentence that says what the pattern is.
 - **results table:** Start height above the table (cm) | My guess for the landing distance (cm) | Try 1 (cm) | Try 2 (cm) | Try 3 (cm) | Middle number (cm)
 - **s1 (5 min)**  
   *Parent does:* Show your child the marble, the ramp and the newspaper on the floor. Ask for a guess and a reason. Write down the guess.  
   *Parent says:* A marble will roll off the edge of the table. Does a faster marble land farther away? Does it take longer to fall? Why do you think so?  
-  *Child mode:* A marble rolls off a table. If it is faster, where does it land? Why?
-  - Ask: Why do you think the faster marble will land there? (good: It has more speed, so it flies farther.; It stays in the air longer.; It lands in the same place because gravity is the same.)
+  *Child mode:* Guess where the faster marble will land.
+  - Ask: Why do you think so? (good: It has more speed, so it flies farther.; It stays in the air longer.; It lands in the same place because gravity is the same.)
   - Note: Do not correct the guess. Many children say a faster marble takes longer in the air. Any guess with a reason is a good start.
 - **s2 (6 min)**  
   *Parent does:* Lay the ruler so its low end rests on the table, 15 centimetres from the edge. Stack books under the other end. Tape a line on the newspaper right under the table edge. This is the zero line.  
@@ -333,14 +333,14 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   - Note: The marble runs off the low end, across 15 centimetres of flat table, and over the edge. Use a ruler with a groove so the marble goes straight. Raise the high end so that the marble starts 5 centimetres above the table. Mark 5, 10 and 15 centimetres on a pencil line on the books if you wish.
   - Check: Why do you use the same marble and ramp each time, and change only the starting height? → **So only the speed changes and every other thing stays the same**
 - **s3 (15 min) · grown-up needed**  
-  *Parent does:* Dip the marble in the water and shake it once. Let it go from the 5 centimetre mark. Look for the wet spot nearest to the table. Mark it with a pencil dot. Measure from the zero line. Do it three times, then at 10 and at 15 centimetres.  
+  *Parent does:* Dip the marble in the water, so it leaves a wet spot where it lands, and shake it once. Let it go from the 5 centimetre mark. Look for the wet spot nearest to the table. Mark it with a pencil dot. Measure from the zero line. Do it three times, then at 10 and at 15 centimetres.  
   *Parent says:* Let the marble go. Do not push it. Watch where it first touches the paper. Mark the first wet spot only. It may bounce on after that.  
   *Child mode:* Wet the marble. Let it go. Mark the first spot. Measure from zero.
   - Note: It is hard to roll and watch at the same time. With one child, the child lets go and the grown-up watches the landing. With 2 to 4 children: one lets go, one watches and marks the spot, one measures, one writes; swap after each height. The marble may bounce. Only the first wet spot counts. If a try goes very differently from the other two, repeat it. If the wet spots are too faint, wet the marble more, or change to a dry newspaper and mark each spot with a dark pen dot. Typical landings are roughly 30 to 80 centimetres from the edge, but your numbers will differ. What matters is that the higher start lands farther.
 - **s4 (7 min)**  
-  *Parent does:* Find the middle number for each height. Draw the three bars. Look at how the distance grew when the start height grew. Then run the two-marble race. Put two marbles side by side at the table edge. A partner flicks one off sideways, hard, while you let the other just slide off at the same moment. Listen for one click or two. Do it five times.  
+  *Parent does:* Find the middle number for each height. Cut a paper strip as long as each middle landing distance and lay the strips side by side. Look at how the distance grew when the start height grew. Then run the two-marble race, to see which marble lands first. Put two marbles side by side at the table edge. A partner flicks one off sideways, hard, while you let the other just slide off at the same moment. Listen for one click or two. Do it five times.  
   *Parent says:* Look at our numbers. Which start height gave the farthest landing? Did the landing double when the height doubled?  
-  *Child mode:* Which height landed farthest? Draw a bar for each one.
+  *Child mode:* Cut a strip for each height. Lay them side by side.
   - Note: The distance grows with the speed, but not in step with the height. Doubling the height does not double the distance. The marble's speed does not grow as fast as the height does. So the marble from 10 centimetres is faster than the one from 5, but not twice as fast. Do not explain this yet. Just notice what your numbers do. In the race, most clean tries sound like one click, because both marbles fall the same height in the same time. Two clicks usually mean one marble was let go late, so repeat and count only the clean tries.
   - Check: The marble that started higher left the table faster. Where did it land? → **Farther from the table**
 - **s5 (7 min)**  
@@ -359,8 +359,8 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 - **s1 (5 min)**  
   *Parent does:* Show your child the balloon, the straw and the paper clips. Say that the clips stand for the weight of a rocket's payload. Ask for a guess and a reason.  
   *Parent says:* This balloon will be a rocket. Clips are the weight it must carry. How far will it fly with none? With 10? With 20? Why do you think so?  
-  *Child mode:* A balloon rocket carries clips. How far will it fly with more clips? Why?
-  - Ask: Why do you think more weight will change how far it flies? (good: A heavier rocket is harder to push.; The same air push has to move more.; It will fly just as far because the push is the same.)
+  *Child mode:* Guess how far the rocket will fly with more clips.
+  - Ask: Why do you think so? (good: A heavier rocket is harder to push.; The same air push has to move more.; It will fly just as far because the push is the same.)
   - Note: Do not correct the guess. Write each guess in the table.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* Thread the straw on the string. Tie the string between two chairs, 3 metres apart, at knee height, pulled tight. Tape the balloon to the straw. Mark a start line with a peg.  
@@ -381,7 +381,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 - **s5 (4 min)**  
   *Parent does:* Find the average of the two tries for each load. Draw the line graph. Look at how the distance changes with each extra clip.  
   *Parent says:* Look at our numbers. What happened to the distance when we added clips? Did every 10 clips take away the same amount?  
-  *Child mode:* Draw a graph of distance against clips. What do you see?
+  *Child mode:* Draw a graph of distance against clips, or tell your grown-up what you see.
   - Note: The distance falls as clips are added. It may fall faster at first or in a steady way. Your own numbers decide. A rocket with no load would go farthest.
 - **s6 (8 min)**  
   *Parent does:* Ask your child to say three things: what I think, what I saw, and why. Then ask why a real rocket drops its empty tanks.  
@@ -394,16 +394,16 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 - **predict:** Before you start, guess. Will a faraway wall look bigger, smaller or the same through two lenses? Will it look the right way up or upside down? Why do you think so?
 - **fair test:** Use the same two lenses and look at the same faraway wall from the same spot every time. Only the gap between the two lenses changes. Try the gap that looks sharpest, then a gap 3 centimetres shorter and a gap 3 centimetres longer. Look at the same patch of wall each time.
 - **safety:** Never point the lenses at the Sun, and never look at the Sun through them. Sunlight through a lens can burn eyes and start a fire. Put the lenses away in a drawer when you finish. Go on a terrace or balcony only with a grown-up.
-- **record:** Fill in the table. Draw the wall as it looks through the telescope and as it looks to your bare eye. Write the gap at which the picture was sharpest, the focal length of each lens, and whether your brick count was close to the front focal length divided by the eyepiece focal length.
+- **record:** Fill in the table. Draw the wall as it looks through the telescope and to your bare eye, or tell your grown-up how the two differ. Write the gap at which the picture was sharpest, the focal length of each lens, and whether your brick count was close to the front focal length divided by the eyepiece focal length.
 - **results table:** Gap between the lenses (cm) | Is the picture sharp, a little blurry or very blurry? | Right way up or upside down? | How many plain bricks or tiles fit across one magnified one?
 - **s1 (5 min)**  
   *Parent does:* Show your child the two lenses. Ask for a guess and a reason. Write the guess.  
   *Parent says:* These two lenses will make a telescope. Will a faraway wall look bigger or smaller? The right way up, or upside down? Why do you think so?  
-  *Child mode:* Two lenses make a telescope. What will a faraway wall look like? Why?
-  - Ask: Why do you think the picture will look that way? (good: A telescope makes things bigger.; It might flip the picture.; Lenses bend light, so it might turn upside down.)
+  *Child mode:* Guess how a faraway wall will look through two lenses.
+  - Ask: Why do you think so? (good: A telescope makes things bigger.; It might flip the picture.; Lenses bend light, so it might turn upside down.)
   - Note: Do not correct the guess. A lens can turn a picture upside down. A magnifying glass held far from a window does this. Your child will see it in the next step.
 - **s2 (9 min)**  
-  *Parent does:* Look at the faraway wall through each lens alone. Hold the weak lens at arm's length. Hold the strong magnifier close to your eye. Write what each one does. Then find each lens's focal length. Face a far window or a faraway building, never the Sun. Hold the lens up with a sheet of paper behind it. Slide the paper until a small, sharp, upside-down picture appears. Measure from lens to paper.  
+  *Parent does:* Look at the faraway wall through each lens alone. Hold the weak lens at arm's length. Hold the strong magnifier close to your eye. Write what each one does. Then find each lens's focal length, the distance from the lens to its sharp picture. Face a far window or a faraway building, never the Sun. Hold the lens up with a sheet of paper behind it. Slide the paper until a small, sharp, upside-down picture appears. Measure from lens to paper.  
   *Parent says:* Hold the weak lens far from your eye. What do you see? Now look through the strong magnifier. Which one makes the wall look bigger?  
   *Child mode:* Look through each lens alone. What does each one do?
   - Note: The weak lens held at arm's length usually gives a blurry or upside-down picture. The strong magnifier close to the eye gives a very blurry wall, because it is made for near things. Neither is a telescope alone. The window picture gives the focal length: expect about 40 to 50 centimetres for the glasses lens and about 3 to 5 centimetres for a pocket magnifier. Do not hold the paper in sunlight from the window.
@@ -441,7 +441,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   - Check: On the map the space station's circle is almost touching the Earth's circle. What does this tell you? → **The space station is very close to the Earth, compared to the size of the Earth**
 - **s3 (9 min)**  
   *Parent does:* Draw two more circles. One has a radius of 26.6 centimetres, for the GPS navigation satellites. One has a radius of 42.2 centimetres, for geostationary satellites. Write the lap times beside the circles: 90 minutes, 12 hours and 24 hours.  
-  *Parent says:* Now two much bigger circles. The GPS navigation satellites go round every 12 hours. The geostationary ones go round every 24 hours. Which satellites take longer to go round?  
+  *Parent says:* Now two much bigger circles. The space station goes round in 90 minutes. The GPS navigation satellites take 12 hours. The geostationary ones take 24 hours. Which take longest?  
   *Child mode:* Draw two big circles, 26.6 and 42.2 centimetres. Write the lap times.
   - Note: Each radius is the Earth's radius plus the height of the orbit: 6,371 plus 20,200 kilometres, and 6,371 plus 35,786 kilometres. The bigger the circle, the longer the lap.
 - **s4 (8 min)**  
@@ -457,8 +457,8 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 - **s1 (5 min)**  
   *Parent does:* Show your child the cups and the string. Ask for a guess. Will the whisper travel along the string? What if the string is slack? Write the guesses down.  
   *Parent says:* We will make a telephone from two cups. Will a whisper go along the string? What if the string is slack? Why do you think so?  
-  *Child mode:* Two cups and a string make a phone. Will a whisper travel? Why?
-  - Ask: Why do you think the string might carry the sound? (good: The string shakes and passes the shaking on.; The sound goes along the string.; It will not work, because there is only a string.)
+  *Child mode:* Guess if a whisper will travel along the string.
+  - Ask: Why do you think so? (good: The string shakes and passes the shaking on.; The sound goes along the string.; It will not work, because there is only a string.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* A grown-up makes a small hole in the bottom of each cup with a sharp pencil tip or a skewer. Thread the string through each hole from the outside. Tie the end to a button inside, with a double knot, so it cannot slip out.  
@@ -479,7 +479,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   - Check: Two astronauts float outside the space station, and one shouts. Why can the other not hear her shout directly? → **There is almost no air to carry the sound across the gap**
 ### a3 · Whispering Dishes: how a curved dish gathers waves (20 min)
 - **problem:** A radio telescope is a huge curved dish. It gathers faint radio waves from space and bounces them all to one spot. You will do the same with sound. Two curved bowls will carry a whisper across a room, and you will find the spot where it is loudest.
-- **record:** Draw the two bowls facing each other. Mark with a cross the spot where the whisper was loudest. Write how many of the 5 numbers were heard right at the middle, at the side and with no bowl.
+- **record:** Draw the two bowls facing each other, or tell your grown-up about them. Mark with a cross, or say, where the whisper was loudest. Write how many of the 5 numbers were heard right at the middle, at the side and with no bowl.
 - **s1 (3 min)**  
   *Parent does:* Show your child the two bowls. Ask whether a whisper from one bowl can be heard from the other, 2 metres away. Ask them to guess where the best place to listen is. Write down the guess.  
   *Parent says:* Radio telescopes use a big curved dish. We will use a bowl for sound. Can a whisper cross the room from one bowl to another? Where is the best place to put your ear? Why?  
@@ -517,8 +517,8 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   - Note: With 2 to 4 children, each child cuts one strip, and then they lay the strips together. One child alone cuts all four. Make the cuts as exact as you can. The Apollo 11 strip is only 4 millimetres long, about the width of a pencil. Seeing how short it is next to the others is the point.
 - **s3 (7 min)**  
   *Parent does:* Lay the strips side by side with their left ends together. Compare them. Then count how many 4 millimetre Apollo strips would fit along the Mangalyaan strip. Ask why Chandrayaan-3 took ten times as long as Apollo 11, though the Moon is the same distance away.  
-  *Parent says:* Both flew to the same Moon. Why did one journey take 4 days and the other 40? Think about the rocket and the burns.  
-  *Child mode:* Why did the same Moon trip take 4 days and 40 days?
+  *Parent says:* Both flew to the same Moon. Why did one journey take 4 days and the other 40? What do you think?  
+  *Child mode:* Line up the strips. How many Apollo strips fit along the Mangalyaan strip?
   - Note: About 75 Apollo trips would fit in one Mangalyaan trip (the real trip took about 300 days). Apollo used the huge Saturn V rocket, which threw the spacecraft straight to the Moon. Chandrayaan-3 used a much smaller rocket, and used many small burns of its own engine to climb in steps. The first is fast but needs a giant rocket. The second is slow but cheaper. Mangalyaan was longer because Mars is far away and the planets had to be in the right places.
   - Check: Chandrayaan-3 took 40 days to reach the Moon and Apollo 11 took about 4. What is the best reason? → **Chandrayaan-3 used a smaller rocket and made many small engine burns**
 
@@ -526,12 +526,12 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 ### p1 · Straw Rockets: what do fins and a heavy nose do? (40 min)
 - **problem:** A paper rocket can tumble in the air, or it can fly straight. You will build three rockets and blow them off a straw. Then you will find out what fins and a heavy nose do, and why a real rocket in space must steer another way.
 - **safety:** A grown-up helps with the scissors. Never aim a straw rocket at a face, and keep away from windows and glass. Test in a cleared space. The child only blows into the straw and never sucks in through it, because the rocket or the clay could be breathed in. Keep the clay away from children under five.
-- **record:** Draw the three rockets. Under each one, write how far it flew on each try and whether it flew nose first or tumbled.
+- **record:** Make a table with a row for each rocket. Write how far it flew on each try and whether it flew nose first or tumbled.
 - **s1 (4 min)**  
   *Parent does:* Show your child the paper, the straw and the clay. Say that you will make three rockets, one plain, one with fins and one with fins and a heavy nose. Ask for a guess and a reason.  
   *Parent says:* We will make three paper rockets. One has no fins. One has three fins. One has fins and a clay nose. Which will fly straightest and farthest? Why do you think so?  
-  *Child mode:* Three rockets: plain, with fins, and with fins and a heavy nose. Which flies best? Why?
-  - Ask: Why do you think that one will fly the best? (good: Fins keep it pointing the right way.; A heavy nose pulls it forward.; The plain one will go farthest because it is lightest.)
+  *Child mode:* Guess which of the three rockets will fly best.
+  - Ask: Why do you think that rocket will fly best? (good: Fins keep it pointing the right way.; A heavy nose pulls it forward.; The plain one will go farthest because it is lightest.)
   - Note: Do not correct the guess. Write the guesses at the top of the page.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Roll a sheet of paper tightly round the pencil, 12 centimetres long. Tape it along the seam. Fold the top end flat and tape it shut to make the nose. Slide the tube off the pencil. Make three the same.  
@@ -560,14 +560,14 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
 ### c1 · Soft Landing: land five coins from one metre without a bounce (40 min)
 - **problem:** Build a lander out of things you have at home. A stack of five coins must ride inside it. A grown-up drops the lander from one metre. The coins must stay in a tidy stack inside, and the lander must stay the right way up.
 - **safety:** A grown-up does the dropping and helps with the scissors. Clear the floor of people and of glass before each drop. Keep coins and plastic bags away from children under five.
-- **your turn:** Sketch your lander. Build it and drop it from one metre. Change one thing, such as the legs or the cushion, and drop it again. Drop each design three times and count how many drops kept the coins in a stack. Which design did best? Why do you think it worked?
+- **your turn:** Plan your lander, with a sketch or the parts laid out. Build it and drop it from one metre. Change one thing, such as the legs or the cushion, and drop it again. Drop each design three times and count how many drops kept the coins in a stack. Which design did best? Why do you think it worked?
 - **constraints:** Use only paper, cups, straws, rubber bands, cotton wool or tissue, string and tape.; The lander must be no taller than 20 centimetres.; A grown-up drops it from one metre, with no throw and no push.; The five coins ride in a stack inside the lander (a paper sleeve or tube to hold them is allowed), and are still in a stack after the landing.
 - **general:** Cushion the coins inside the lander with crumpled paper or cotton wool, so that they stop slowly.; Make legs from straws that bend and crush, so that they soak up the landing.; A parachute from a plastic bag slows the fall.
 - **creative:** Make the lander land on a ring of paper cups, like air bags.; Hang the coin box inside by rubber bands, so it floats like a seat in a car.; Combine a small parachute with crushable legs.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem and the rules together. Ask your child to sketch two or three different lander designs. Ask which part of their lander takes the first hit.  
-  *Parent says:* Your lander must keep five coins safe from a one metre drop. How could you make it stop slowly instead of suddenly? Draw some ideas first.  
-  *Child mode:* Keep five coins safe from a drop. Draw some ideas first.
+  *Parent does:* Read the problem and the rules together. Ask your child to plan two or three different lander designs, by drawing them or laying out the parts. Ask which part of their lander takes the first hit.  
+  *Parent says:* Your lander must keep five coins safe from a one metre drop. Show me two or three ideas first. Draw them, or lay out the parts.  
+  *Child mode:* Plan two or three landers. Draw them or lay out the parts.
   - Ask: What would make a lander stop more gently? (good: Soft stuff to squash.; Legs that bend.; A parachute to slow it down.)
 - **s2 (17 min) · grown-up needed**  
   *Parent does:* Build the first design. Put the five coins inside. A grown-up drops it from one metre onto the floor. Write down what happened to the coins and to the lander.  
@@ -596,7 +596,7 @@ She took a pebble from her pocket. She held it out over the dark sea and opened 
   *Child mode:* Five places. Which would be best for a telescope? Why?
   - Note: The heights are approximate. Real telescopes stand at Hanle, Devasthal, Mount Abu and Kavalur. Each was chosen for its strengths.
 - **s2 (12 min)**  
-  *Parent does:* Draw the table with five rows and five columns. Score each place from 0 to 3 on each need. Add up the scores and find the winner.  
+  *Parent does:* Make a table with five rows and five columns. Score each place from 0 to 3 on each need. Add up the scores and find the winner.  
   *Parent says:* Give each place a score from 0 to 3 for each need. A high score is good. Add them up. Which place wins?  
   *Child mode:* Give each place a score. Add them up.
   - Note: With 2 to 4 children, each argues for a different place first, then you score together. With one child, ask them to argue for two different places. There is no single right answer. Hanle usually scores highest for the sky and lowest for access. A city rooftop scores highest for access and lowest for the sky. Let your child argue for the scores. They should say why.

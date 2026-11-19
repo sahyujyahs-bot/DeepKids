@@ -259,7 +259,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 - **s2 (4 min)**  
   *Parent does:* Take the practice card. Read the front out loud. Ask your child to guess the mat and give a reason. Then read the back. Put the card on its mat. Nobody wins a token.  
   *Parent says:* Let's practise. A torch beam goes at a slant from air into water. Which mat? Why do you think so?  
-  *Child mode:* Practice card. A beam goes at a slant from air into water. Which mat?
+  *Child mode:* Read the practice card. Choose a mat and say why.
   - Check: A torch beam goes at a slant from air into a tank of water. What does the light do? → **Bends toward the normal**
 - **s3 (10 min)**  
   *Parent does:* Take turns. Each player takes the top card, reads the front, puts it on a mat and gives a reason. Then they read the back. Give tokens as the rules say.  
@@ -271,12 +271,12 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
   *Parent does:* When a TEST IT card comes up, stop the game and do the test together. Everyone guesses first. Then try it and read the back.  
   *Parent says:* A TEST IT card. Before we try it, everyone say what you think will happen and why. Then we look.  
   *Child mode:* A TEST IT card. First guess what will happen. Why do you think so? Then try it.
-  - Ask: The same top of the water was a mirror in one test and a window in another. What changed? (good: The angle you looked from.; The slant of the light reaching the top of the water.; Nothing about the water changed, only the angle.)
+  - Ask: Seen from underneath, the top of water can be a mirror or a window. What changes it? (good: The angle you looked from.; The slant of the light reaching the top of the water.; Nothing about the water changed, only the angle.)
   - Think: The water did not change between the two tests. So what makes a surface a mirror or a window?
 - **s5 (2 min)**  
   *Parent does:* Count the tokens to find the winner. Then look at the TRAPPED mat together and read its cards again.  
   *Parent says:* Let's count the tokens. Then look at the TRAPPED mat. Where do we use trapped light in real life?  
-  *Child mode:* Count your tokens. Who won? Look at the TRAPPED mat. Where is trapped light used?
+  *Child mode:* Count your tokens. Who won? Then read the TRAPPED cards again.
   - Think: Trapped light can travel round a bend. What could you send along it?
 
 ## Experiments
@@ -285,7 +285,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 - **predict:** Before you start, guess. When the beam goes in at 60 degrees from the normal, will it turn toward the normal or away from it, and by about how many degrees? What will it do when it goes in straight on? Why do you think so?
 - **fair test:** The box, the water, the torch, the slit card and the spot where the beam goes in stay the same every time. Only the angle of the torch changes. You measure every angle twice, with the same protractor, because one try can be a fluke. You read each angle from the normal line, not from the surface.
 - **safety:** Never shine the torch into anyone's eyes. A grown-up cuts the slit, and uses scissors or a craft knife on a firm table. Keep the phone away from the water, and wipe up spills at once, because a wet floor is slippery. Do not drink the water, especially if you added milk. If anyone at home is allergic to milk, leave it out.
-- **record:** Fill in the table. Then draw the bend diagram for your 60 degree try: the surface line, the normal, the beam in the air in one colour and the beam in the water in another, with both angles written on it. Last, write what you think, what you saw, and why.
+- **record:** Fill in the table. Then show the bend for your 60 degree try. Draw the bend diagram, or point to the lines and tell your grown-up what the beam did. The diagram has the surface line, the normal, the beam in the air in one colour and the beam in the water in another, with both angles written on it. Last, write what you think, what you saw, and why.
 - **results table:** Angle of the torch beam in the air (degrees from the normal) | Angle in the water, first try (degrees) | Angle in the water, second try (degrees) | Average angle in the water (degrees) | How many degrees did the water turn the beam? | Did it turn toward or away from the normal?
 - **s1 (5 min)**  
   *Parent does:* Show your child the box, the water and the torch. Ask for a guess about the 60 degree beam and the reason. Write the guess at the top of the table.  
@@ -307,7 +307,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 - **s4 (5 min)**  
   *Parent does:* Put the box on the paper. Its long front wall goes on the surface line. Its left end goes about 4 centimetres left of O. Pour in the water, 3 centimetres deep. Add a few drops of milk, if you use it. Switch off the room light. Lay the torch at the end of the normal line, pointing at O. Look at where the bright line leaves the far wall.  
   *Parent says:* First the straight-on beam. The torch is on the normal line. Watch the line that comes out of the far wall. Does it carry on straight, or does it bend?  
-  *Child mode:* Put the torch on the normal line. Switch off the light. Does the beam bend?
+  *Child mode:* Put the torch on the normal line. Switch off the light. Watch the line that leaves the far wall.
   - Ask: Did the beam bend when it went in straight on? What does that tell you? (good: No, it carried on straight.; Light that arrives along the normal does not bend.; The bend only happens when the beam is slanted.)
   - Note: The outgoing line should lie exactly on the normal line. If it is off to one side, the box is crooked. Straighten it, and try again. Expect the straight-on beam to be slightly dimmer than the slanted ones. That is nothing to worry about.
   - Check: The torch shines straight along the normal into the water. What does the beam do? → **Goes straight on without bending**
@@ -324,7 +324,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 - **s7 (4 min)**  
   *Parent does:* Ask your child to say what they think, what they saw and why. Compare with the guess from the start. Write the answer under the diagram.  
   *Parent says:* Tell me three things. What did you think at the start? What did you see? Why do you think it happened?  
-  *Child mode:* Say what you thought, what you saw, and why it happened.
+  *Child mode:* Look at your table and your first guess. Was your guess right?
   - Ask: What do you think now, what did you see, and why did it happen? (good: The water bent the beam toward the normal. At 60 degrees in the air I measured about 40 degrees in the water. Light slows down in water, so it turns.; The bigger the slant, the bigger the turn. At 0 degrees there was no turn.; The angle in the water was always smaller than the angle in the air.)
   - Note: A strong answer uses their own numbers, says toward the normal, and mentions that light moves more slowly in water. If their numbers are different from the expected ones, do not worry. Ask what could make the beam hard to measure, such as a wide beam or a crooked box.
   - Think: If the beam went from the water back into the air, which way would it turn?
@@ -333,12 +333,12 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 - **predict:** Before you start, guess. If you move the card back a little, will the picture stay sharp? Will a lens from a short-sighted person's spectacles fix it, or a lens from reading spectacles? Why do you think so?
 - **fair test:** The magnifying glass, the window and the room stay the same. You never change the magnifying glass in your model eye. Only the place of the card and the spectacle lens in front change. Each time, you slide the card slowly to find the sharpest picture, and you check it twice.
 - **safety:** Never look at the Sun through the magnifying glass or the spectacle lenses, and never leave them where sunlight shines through them onto paper, cloth or skin, because they can start a fire or burn. Borrowed spectacles belong to someone, so hold them by the frame and give them back unscratched.
-- **record:** Fill in the table. Then draw your model eye from the side: the magnifying glass, the card and the window, with the light from the window bending in the lens to a point on the card. Draw it once for the sharp picture and once for the blurry picture. Last, write what you think, what you saw, and why.
+- **record:** Fill in the table. Then draw your model eye from the side: the magnifying glass, the card and the window, with the light from the window bending in the lens to a point on the card. Draw it once for the sharp picture and once for the blurry picture, or take a photo of each setup. Last, write what you think, what you saw, and why.
 - **results table:** The model eye | Distance from the magnifying glass to the card for the sharpest picture (centimetres) | Was the picture of the window sharp, blurry or too dim to tell? | What fixed it, if anything
 - **s1 (5 min)**  
   *Parent does:* Show your child the magnifying glass, the card and the two pairs of spectacles. Check which pair makes print look smaller. Ask for a guess and a reason. Write it down.  
   *Parent says:* A magnifying glass can make a small picture of a window on a card. That is a little like your eye. If we move the card back, what will happen to the picture? Can a spectacle lens fix it? Why do you think so?  
-  *Child mode:* A lens can make a picture of a window. What if the card is too far back? Why?
+  *Child mode:* Look at the lens and the card. If you move the card back, will the picture stay sharp?
   - Ask: Why do you think moving the card might change the picture? (good: The light comes together at one place only.; The picture is only sharp at the right distance.; It will stay the same, because the lens is the same.)
   - Note: With 2 to 4 children, one holds the magnifying glass steady in clay, one slides the card, one reads the ruler and one writes; swap for each step. Do not correct the guess. Let your child test each pair of spectacles by looking at print through the lens. The pair where print looks smaller has hollow lenses, which are for short sight. The pair where print looks bigger has bulging lenses.
 - **s2 (8 min)**  
@@ -348,7 +348,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
   - Note: Switch off the room light, if the window is not very bright, or stand in a shaded part of the room. The picture is upside down, as in a real eye. The sharp distance is the focal length of your magnifying glass. It is usually between 10 and 30 centimetres. Mark the place on the ruler, because you will want to come back to it.
   - Check: The picture of the window on the card is sharp at one distance only. What does that tell you about a lens? → **A lens brings light together to a sharp point at one distance behind it**
 - **s3 (9 min)**  
-  *Parent does:* Move the card 3 centimetres further back. The picture goes blurry. This is your short-sighted eye. Now hold the hollow spectacle lens right in front of the magnifying glass, touching it. Slide the card to find the new sharp place. Measure the distance. Write down what happened.  
+  *Parent does:* Move the card 3 centimetres further back. The picture goes blurry. This is your short-sighted eye. Now hold the hollow spectacle lens (the one that is thinner in the middle) right in front of the magnifying glass, touching it. Slide the card to find the new sharp place. Measure the distance. Write down what happened.  
   *Parent says:* Move the card back by a few centimetres. The picture goes blurry. This is like an eyeball that is a little too long. Now put the short-sighted spectacle lens in front. Slide the card again. What do you find?  
   *Child mode:* Move the card back 3 centimetres. It is blurry. Hold the hollow lens in front. Slide the card.
   - Ask: Where did the sharp picture move to when you added the hollow lens? (good: It moved further back, away from the magnifying glass.; The card had to be further back to get a sharp picture.; The hollow lens made the light come together later.)
@@ -361,21 +361,21 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
   - Ask: Where did the sharp picture move to when you added the bulging lens? (good: It moved closer to the magnifying glass.; The card had to be nearer to get a sharp picture.; The bulging lens made the light come together sooner.)
   - Note: Typically the sharp place moves closer by about 2 to 4 centimetres, depending on the strength. Record how far it moved in centimetres, and compare it with the hollow lens: which moved it more? If the move is too small to see, try a stronger pair, or two pairs held together.
 - **s5 (5 min)**  
-  *Parent does:* Fill in the table with your three sharp distances. Draw the model eye for the sharp picture and the blurry picture. Compare your results with the guess from the start.  
+  *Parent does:* Fill in the table with your three sharp distances. Say which distance is the longest and which is the shortest. Compare your results with the guess from the start.  
   *Parent says:* Look at your table. For the plain model eye, where was the sharp place? With the hollow lens, did it move back or forward? With the reading lens?  
-  *Child mode:* Fill in the table. Draw the model eye. Was your guess right?
+  *Child mode:* Fill in the table with your three distances. Which one is the longest?
   - Note: A good table has three distances in centimetres. The hollow lens moves the sharp place back. The bulging lens moves it closer.
 - **s6 (5 min)**  
-  *Parent does:* Ask your child to say what they think, what they saw and why. Write the answer under the drawing.  
+  *Parent does:* Ask your child to say what they think, what they saw and why. Write the answer under the table.  
   *Parent says:* Tell me three things. What did you think at the start? What did you see? Why do you think it happened?  
-  *Child mode:* Say what you thought, what you saw, and why it happened.
+  *Child mode:* Look at your table and your first guess. Was your guess right?
   - Ask: What do you think now, what did you see, and why did it happen? (good: A spectacle lens can move the sharp place of the picture. My hollow lens moved it back by about 5 centimetres. Hollow lenses spread the light, so it comes together later.; The picture is only sharp at one distance, so an eye that is too long or too short needs a lens to fix it.; The reading lens moved the sharp picture closer, because bulging lenses bend light more.)
   - Think: Spectacles move the sharp picture to where the back of the eye is. Why can they not shorten or lengthen the eye itself?
 
 ## Activities
 ### a1 · The Water Mirror: when the window turns silver (20 min)
 - **safety:** Keep the box in a tray and never hold it above anyone's head. Have a towel ready. A wet floor is slippery, so wipe up spills at once.
-- **record:** A drawing of the box from the side, with the eye in two places. Mark the place where the underside of the water looked clear, and the place where it looked silver. Write one sentence on what changed.
+- **record:** A drawing of the box from the side, or a photo of two pencils showing the sight lines, with the eye in two places. Mark the place where the underside of the water looked clear, and the place where it looked silver. Write one sentence on what changed.
 - **s1 (3 min)**  
   *Parent does:* Show your child the box of water. Ask what the top of the water will look like if you look up at it from underneath. Write down the guess and the reason.  
   *Parent says:* The box of water will be above our eyes, and we will look up at the top of the water from underneath. What do you think we will see? Why do you think so?  
@@ -395,13 +395,13 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
   - Note: The change happens roughly where your line of sight makes an angle of about 40 degrees with the water's top, which is about 50 degrees from the normal. Your child may find that it is hard to find the exact place. That is fine. It is the idea that matters. The flip angle is the same with half the water, because it depends on the angle, not on how much water there is. If nothing silver shows, sit closer to the box, and use a box with clean, dry, scratch-free walls.
   - Think: The water did not change. Only your angle of looking did. So what decides whether the top of the water is a window or a mirror?
 - **s4 (4 min)**  
-  *Parent does:* Draw the box from the side, with the eye in two places. For each place, draw the line of sight to the underside of the water. Draw one going through, and one bouncing back. Write one sentence on what changed.  
-  *Parent says:* Draw the box from the side. Draw two sight lines to the top of the water. One goes through, and one bounces. Write one sentence about what changed.  
-  *Child mode:* Draw the box. Draw two sight lines. One goes through. One bounces.
+  *Parent does:* Draw the box from the side, with the eye in two places. Or lay two pencils on the box to show the two lines of sight. One line goes through the water, and one bounces back. Say one sentence on what changed.  
+  *Parent says:* Show me two sight lines to the top of the water, by drawing them or with two pencils. One goes through, and one bounces. Tell me one sentence about what changed.  
+  *Child mode:* Show two sight lines, with a drawing or two pencils. One goes through. One bounces.
   - Ask: Why is the top of the water a window from one place and a mirror from another? (good: At a steep angle the light passes through. At a shallow angle it cannot get out, so it bounces back.; The angle of the light changes what the surface does.; Beyond about 49 degrees from the normal, all the light is bounced back.)
 ### a2 · Shimmer Watch: the road that looks wet (20 min)
 - **safety:** A grown-up heats the plate and the plate stays where it is, on the stove with the flame or ring switched off. It stays hot for many minutes and can burn badly. Do not touch it, and keep children an arm's length away. Do not use any plastic near it. Stay at the window or terrace for the road part, never on the road.
-- **record:** A drawing of the shiny patch on the road, with the sky in it. A drawing of the wobbling stripes. A sentence on why light bends in hot air.
+- **record:** Your photo of the shiny patch on the road, or a drawing of it with the sky in it. A sentence on what the stripes did, or a drawing of them. A sentence on why light bends in hot air.
 - **s1 (5 min)**  
   *Parent does:* On a hot sunny afternoon, stand at a window or on a terrace. You need a view along a road or a dark paved path. Look at the far part of the road. Look for a shiny patch that looks like water. Zoom in with the phone, and take a picture. Compare it with the same road in the evening, if you can.  
   *Parent says:* Look along the road, far into the distance. Do you see a shiny patch that looks like water? Zoom in with the phone and take a picture. What do you think it is?  
@@ -415,17 +415,17 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
   - Note: Keep children at arm's length from the plate. The stripes should wave and wobble within a few seconds, as the hot air rises. The cold plate is your fair-test comparison. The plate stays hot for 10 minutes or more. When you finish, leave it on the stove until cool and keep children away. With 2 to 4 children, take turns to look while one holds the striped paper, and everyone draws. If the wobble is faint, use a hotter plate (3 minutes), thicker stripes, or look in a dim kitchen with a bright window behind the stripes.
   - Check: The stripes wobbled when you looked through the air above the hot plate. What bent the light? → **Hot air rising from the plate, which bends light differently from cool air**
 - **s3 (5 min)**  
-  *Parent does:* Draw the stripes as you saw them above the hot plate. Draw the road mirage if you saw one. Write one sentence on why the stripes wobbled, and one on why the road looked wet.  
-  *Parent says:* Draw what you saw. The wobbling stripes, and the shiny road, if you saw it. Then write a sentence on why light bends in hot air.  
-  *Child mode:* Draw the wobbling stripes. Write why they wobbled.
+  *Parent does:* Tell your grown-up what the stripes did above the hot plate, and what the road looked like if you saw it. You can draw the stripes too. Then say one sentence on why the stripes wobbled, and one on why the road looked wet.  
+  *Parent says:* Tell me what you saw. The wobbling stripes, and the shiny road, if you saw it. Then tell me why light bends in hot air.  
+  *Child mode:* Say what the stripes did. Say why they wobbled.
   - Ask: Why does the road look wet when it is dry? (good: Light from the sky bends in the hot air above the road, and curves up to your eyes. You see a picture of the sky on the road.; It is a picture of the sky made by bent light.; Hot air near the ground bends the light, so the sky looks like it is on the road.)
 ### a3 · The Glowing Water Jet (25 min)
 - **safety:** A grown-up makes the hole (a sharp point), holding the bottle firmly against a table and pushing the nail slowly away from their hand; children stay back until it is done. Do the pouring over the sink or the tray, and keep the phone or torch away from the water. Wipe up spills, because wet floors are slippery.
-- **record:** A drawing of the bottle, the torch and the curved jet, with the light shown following the jet. One sentence on why the light stays inside the water.
+- **record:** A drawing of the bottle, the torch and the curved jet, with the light shown following the jet, or a photo of the glowing jet. One sentence on why the light stays inside the water.
 - **s1 (4 min)**  
   *Parent does:* Show your child the bottle and the torch. Ask what the light will do when the torch shines into the water and a jet of water pours out of the bottle. Write down the guess and the reason.  
   *Parent says:* We will shine a torch through a bottle of water, toward a hole, and let the water pour out in a jet. Will the light go straight on, past the jet, or follow the water? Why do you think so?  
-  *Child mode:* Shine a torch at a water jet. Will the light follow the water? Why?
+  *Child mode:* Look at the bottle and the torch. Water will pour out of a hole. What will the light do?
   - Ask: Why do you think the light might go straight, or follow the curve? (good: Light goes in straight lines, so it should go straight.; The water is see-through, so the light goes through.; Maybe the light is trapped in the water.)
   - Note: With 2 to 4 children, one holds the torch, one holds the bottle, one watches the splash and one draws. Make a bottle each if you have spare bottles, or take turns. Do not correct the guess. Light going straight is the usual first idea, and it is a good one to test.
 - **s2 (6 min) · grown-up needed**  
@@ -441,16 +441,16 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
   - Note: If the jet does not glow, make the room darker, bring the torch closer to the hole, and make sure it is aimed right at the hole. A thinner, steadier jet works best. A bright LED torch works better than a phone torch. Fill the bottle again, and try once more. Typical result: a glowing jet for the first 10 seconds or so, which fades as the bottle empties. The torch tilted away gives a much dimmer jet, so the aim is part of the proof.
   - Check: The jet glowed all the way along its curve. What was keeping the light inside the water? → **Total internal reflection, with the light bouncing off the edge of the jet**
 - **s4 (5 min)**  
-  *Parent does:* Draw the bottle, the torch and the curved jet. Draw the light inside the jet as a zigzag line that follows the curve. Write one sentence on why the light does not escape.  
-  *Parent says:* Draw the bottle and the jet. Draw the light as a zigzag inside the jet. Then write why it does not escape.  
-  *Child mode:* Draw the jet. Draw a zigzag of light inside it. Write why it stays in.
+  *Parent does:* Draw the bottle, the torch and the curved jet. Draw the light inside the jet as a zigzag line that follows the curve. Or trace the curve with your finger and tell your grown-up where the light goes. Say one sentence on why the light does not escape.  
+  *Parent says:* Draw the bottle and the jet, with the light as a zigzag inside the jet. Or trace it with your finger. Then say why the light does not escape.  
+  *Child mode:* Draw the jet and a zigzag of light inside it. Or trace it with your finger. Say why the light stays in.
   - Ask: Where does the light finally come out? (good: Where the jet breaks into drops, and where it lands in the sink.; At the splash, where the angle is no longer shallow.; At the end, where the water scatters.)
   - Think: A glass fibre does the same thing as the jet. What could you send along it?
 
 ## Projects
 ### p1 · Two-Lens Telescope: see faraway things upside down (60 min)
 - **safety:** Never look at the Sun through the telescope or the lenses. It can blind. Keep lenses out of direct sunlight, because they can start fires. A grown-up helps with the scissors. Borrowed spectacles belong to someone: tape only the card ring, not the lens.
-- **record:** A drawing of the telescope with the two lenses labelled. The two focal lengths in centimetres, the length of the tube, and how many times you think it magnifies. A sentence on why things look upside down.
+- **record:** A drawing of the telescope with the two lenses labelled, or a photo of it with the lenses pointed out. The two focal lengths in centimetres, the length of the tube, and how many times you think it magnifies. A sentence on why things look upside down.
 - **s1 (5 min)**  
   *Parent does:* Show your child the two lenses and the card tubes. Ask for a guess about what the telescope will show, and which way up. Write down the guess and the reason.  
   *Parent says:* We will make a telescope from two lenses. What do you think we will see when we look at something faraway? Will it be bigger? Which way up? Why do you think so?  
@@ -476,27 +476,27 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
 - **s5 (15 min) · grown-up needed**  
   *Parent does:* Take the telescope to a window or a terrace. Look through the strong lens at a signboard or a tree 50 metres away or more. Slide the thin tube in and out until the picture is sharp. Look at how big and which way up the picture is. Never point it at the Sun.  
   *Parent says:* Look through the strong lens at a far signboard. Slide the tube in and out. When the picture is sharp, tell me what you see. Which way up is it?  
-  *Child mode:* Look through the small lens at a far sign. Slide the tube. What do you see?
+  *Child mode:* Look through the strong lens at a far sign. Slide the tube. What do you see?
   - Ask: Which way up is the picture? Why do you think that is? (good: It is upside down, because the first lens crosses the rays over.; The lens makes an upside-down picture, and the eyepiece does not turn it back.; It is upside down, like the picture on the card.)
   - Note: The picture will look upside down. This is correct for this kind of telescope. Here is why. Light from the top of the signboard slants downward as it reaches the front lens, and light from the bottom slants upward. After the lens, these rays cross over each other. So the top of the sign ends up at the bottom of the picture. If it is blurry, slide the tube further. If you see colour fringes, that is expected with a simple lens. If the picture stays blurry at every position, check that the two focal lengths are right, and hold the tube against a wall or a window frame to keep it steady. Typical magnification is only about 4 to 8 times. Choose a far sign, a tree or a building to look at. Do not look at the Sun, ever.
 - **s6 (5 min)**  
   *Parent does:* Work out how much your telescope magnifies, by dividing the weak lens's focal length by the strong lens's focal length. Check by looking at a row of bricks or tiles with one eye through the telescope and the other eye bare. Count how many bricks seen with the bare eye fit in one brick seen through the telescope.  
   *Parent says:* Divide the weak lens's focal length by the strong lens's focal length. That is how many times it magnifies. Then check with a wall of bricks.  
-  *Child mode:* Divide the long focal length by the short one. That is the magnification.
+  *Child mode:* Divide the long focal length by the short one. That is the magnification, how many times bigger things look.
   - Ask: Does the number you counted match the number you worked out? (good: It is close, but not exactly the same.; Yes. My telescope magnifies about 6 times.; No, because it is hard to count with one eye in each place.)
   - Note: A weak lens of 50 centimetres and a strong lens of 8 centimetres gives about 6 times. The bricks test is difficult, so a count that is within one and a half times the worked-out number is good. If the numbers are far apart, check the two focal lengths again.
 
 ## Challenges
 ### c1 · Bottle Bulb: light a dark box with a bottle of water (40 min)
 - **problem:** A small storeroom with no window stays dark in the daytime. Make a model of it from a shoebox with a closed lid. Use a clear bottle of water and the Sun to light up the inside, so that you can read a line of print in the far corner.
-- **your turn:** Sketch your design. Build it and test it in the sun. How well can you read the print in the far corner? Change one thing, such as adding milk, and test again. Which design lit the box best? Why do you think it did? Does it light the whole box evenly, or just one bright spot?
+- **your turn:** Sketch your design, or show it with the parts. Build it and test it in the sun. How well can you read the print in the far corner? Change one thing, such as adding milk, and test again. Which design lit the box best? Why do you think it did? Does it light the whole box evenly, or just one bright spot?
 - **constraints:** Use only sunlight. No lamp, no torch and no mirror.; Use one clear plastic bottle full of water. Do not add any chemicals.; The lid of the shoebox must stay closed. The only way for light in is through the bottle.; You must be able to read a line of print, in the far corner of the box, from outside, through a small viewing hole.
 - **general:** A plain water-filled bottle pushed halfway into a round hole in the lid, with the neck outside in the sun.; A bottle with a piece of black paper wrapped around the part outside the box, leaving only the top open to the sun, so that light goes mostly down into the bottle.; A bottle fixed so that its middle is level with the lid, and tape sealing the gaps around it so no stray light gets in.
 - **creative:** Add two or three drops of milk to the water, which scatters the light more widely inside the box.; Use two bottles in two holes, one over each end of the box.; Cover the part of the bottle inside the box with a strip of frosted tape, which makes a softer, wider glow.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch two or three different ways to put the bottle into the lid. Ask what the water will do to the sunlight.  
-  *Parent says:* A room with no window stays dark. You have a bottle of water and some sunlight. How could the bottle bring light inside? Draw some ideas first.  
-  *Child mode:* A dark box. A bottle of water. Sunlight. Draw ideas for bringing light in.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to show two or three different ways to put the bottle into the lid, using the bottle, the lid and their hands. Ask what the water will do to the sunlight.  
+  *Parent says:* A room with no window stays dark. You have a bottle of water and some sunlight. How could the bottle bring light inside? Show me some ideas first.  
+  *Child mode:* A dark box. A bottle of water. Sunlight. Show ideas for bringing light in, using the bottle and the lid.
   - Ask: What do you think the water will do to the sunlight? (good: It will bend the light.; It will spread the light out inside the box.; The water will act like a big lens.)
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* A grown-up cuts a round hole in the lid, a little smaller than the bottle. Push the bottle halfway into the hole, so that the neck points out and up. Tape around the bottle where it meets the lid, so that no light leaks in. Cut a small viewing hole in the side of the box, near the far corner. Tape a line of large print in the far corner inside.  
@@ -505,7 +505,7 @@ Murugan looked at the sea. Then, very slowly, he put one foot in.
   - Note: Make the hole a bit smaller than the bottle, so it sits tight. Scissors can slip on a hard lid, so a grown-up should cut it. Black paper inside the box stops the light from bouncing about and makes the result clearer. Keep the first design simple, so you have something to beat.
 - **s3 (10 min)**  
   *Parent does:* Take the box to a sunny window, balcony or terrace, with the bottle on top. Water in a bottle can focus sunlight like a lens. Keep paper, cloth and skin away from the bright spot. Never look at the Sun through it. Look through the viewing hole, and try to read the print in the far corner. Note how bright the box looks inside. Compare with a plain round hole of the same size in a second lid, if you have time.  
-  *Parent says:* Put the box in the Sun. Look in through the little hole. Can you read the print in the far corner? How bright is the inside? Is the light a spot or all over?  
+  *Parent says:* Put the box in the Sun. Look in through the little hole. Can you read the print in the far corner? How bright is the inside?  
   *Child mode:* Put the box in the Sun. Look in. Can you read the print?
   - Ask: Is the bottle lighting the whole box, or just one bright spot? (good: The whole box glows softly.; The light spreads out from the bottle.; A plain hole makes one bright spot, but the bottle spreads the light out.)
   - Note: A plain hole makes a bright spot of sunlight, but leaves the rest dark. The bottle bends the light and spreads it widely, so the whole box glows. This is the idea behind the real bottle lights people have fitted through roofs. If the box looks dark, check for gaps in the tape, and try a brighter, sunnier place.

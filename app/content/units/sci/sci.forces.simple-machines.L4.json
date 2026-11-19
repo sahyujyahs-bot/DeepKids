@@ -511,7 +511,7 @@
         "with a parent",
         "with friends"
       ],
-      "context": "This is a card game about the trade you found with the reels. Each card describes a load and a machine. You work out the pull or the distance, then turn the card over to check.",
+      "context": "This is a card game about the trade you found with the reels. Each card describes a load and a machine. You work out the pull or the distance, then turn the card over to check. You will find out that more ropes make the pull smaller but the rope you pull longer.",
       "setup": [
         {
           "art": "Twenty-four cards in a pile, with a pencil and a strip of paper for each player.",
@@ -689,7 +689,7 @@
           "id": "s4",
           "mins": 3,
           "do": "Play the last eight cards. When the pile is finished, count each player's points.",
-          "say": "These are the last cards. Think about what trades with what. Is it force and distance, or turns and strength?",
+          "say": "These are the last cards. Remember, more ropes make the pull smaller, but you must pull more rope.",
           "kid": "Play the last cards. Count your points.",
           "context": "In this step, you finish the pile of cards and count the points."
         },
@@ -752,8 +752,8 @@
         }
       ],
       "safety": "A grown-up must check that the beam (the broom handle tied across two chair backs) is tied down and holds the bottle. A full bottle weighs about 1 kilogram, and the fixed reel carries about double that when you pull, so use heavy chairs with books on the seats, or a window grill. Keep feet away from under the bottle in case it falls. Keep your face away from the stretched band in case it snaps.",
-      "record": "For each set-up, write the stretch of the band on both tries, and how far the knot moved for a 10 centimetre lift. Measure the knot, not your hand, because the band stretches. Then draw a bar chart with one bar for each set-up, using the bigger of the two stretches.",
-      "context": "In this experiment, you lift a bottle three ways and use a rubber band to feel the pull. You find out what a fixed reel and a moving reel really do.",
+      "record": "For each set-up, write the stretch of the band on both tries, and how far the knot moved for a 10 centimetre lift. Measure the knot, not your hand, because the band stretches. Then show them as a bar chart or as paper strips, one for each set-up, using the bigger of the two stretches.",
+      "context": "In this experiment, you lift a bottle three ways and use a rubber band to feel the pull. You will find out why a pulley can make a heavy lift feel lighter, and what you pay for it.",
       "setup": [
         {
           "art": "A thread reel with a short string loop through its hole, hanging from a broom handle laid across two chair backs.",
@@ -773,14 +773,14 @@
         },
         {
           "art": "Three bars of different heights, one for each way of lifting, with a number on each bar.",
-          "caption": "5. Draw a bar for each way, using the bigger stretch."
+          "caption": "5. Show each way as a bar or a paper strip, using the bigger stretch."
         }
       ],
       "flow": [
         {
           "id": "s1",
           "mins": 4,
-          "do": "Show your child the bottle, the reels, the band and the string. Ask for a guess and a reason. Write both at the top of the table.",
+          "do": "Show your child the bottle, the reels, the band and the string. Ask for a guess and a reason. Make a table with one row for each way, and write the guess and reason above it.",
           "say": "We will lift this bottle three ways. First we lift it straight up. Then we lift it over one reel. Then we use a moving reel as well. In which way will the band stretch least? Why do you think so?",
           "kid": "Three ways to lift a bottle. Which way stretches the band least? Why?",
           "ask": [
@@ -889,9 +889,9 @@
         {
           "id": "s6",
           "mins": 7,
-          "do": "Draw a bar chart with one bar for each way, using the bigger of the two stretches. Then ask your child to say what they thought, what they saw and why.",
+          "do": "Make a bar chart with one bar for each way, using the bigger of the two stretches. Draw the bars, or cut a paper strip as long as each stretch. Then ask your child to say what they thought, what they saw and why.",
           "say": "Tell me three things. What did you think would happen? What did you see in the table? Why do you think it happened?",
-          "kid": "Draw a bar for each way. Say what you thought, what you saw, and why.",
+          "kid": "Show each stretch as a bar or a paper strip. Say what you thought, what you saw, and why.",
           "think": "The stretch got smaller and the knot moved further. What stayed the same when you multiplied the pull by the distance?",
           "parent": "A strong answer says that the fixed reel only changed direction, and that the moving reel halved the pull but doubled the distance. After they have said what they saw, explain it. A bottle of 1 kilogram needs about 10 newtons. Lifting it 0.1 metres is 1 joule of work. With two strings, the pull is about 5 newtons and the knot moves 0.2 metres, which is again 1 joule. The extra stretch in your results is friction.",
           "context": "This is the last step of Count the Ropes. You draw the chart and explain what you found."
@@ -933,7 +933,7 @@
       ],
       "safety": "A grown-up must turn the bicycle upside down onto its seat and handlebars, or lift the back wheel on its stand. Keep fingers away from the chain, the teeth and the spokes, because they can pinch. Chain grease stains clothes, so wear old clothes. Only the grown-up turns the pedal.",
       "record": "Write the number of teeth on each gear, the number of wheel turns you counted for each pedal turn, and the number you worked out by dividing the teeth.",
-      "context": "In this experiment, you count the teeth on a bicycle's gears and the turns of its wheel, and find the gear ratio.",
+      "context": "In this experiment, you count the teeth on a bicycle's gears and the turns of its wheel, and find the gear ratio. You will find out why a few pedal turns can spin the wheel many times.",
       "setup": [
         {
           "art": "A bicycle upside down on its seat and handlebars, with a bright tape mark on the back tyre and another on one tooth of the pedal gear.",
@@ -1081,7 +1081,7 @@
         }
       ],
       "record": "A table with two paper screws, how many turns each made and the gap between the threads. Then a note on the real screw thread you measured.",
-      "context": "In this activity, you cut two paper ramps with the same length and different heights, wind them round a pencil and see what each makes.",
+      "context": "In this activity, you cut two paper ramps with the same length and different heights, wind them round a pencil and see what each makes. You will find out that a screw is a ramp wrapped round, and why a steeper ramp makes bigger gaps.",
       "setup": [
         {
           "art": "Two paper right-angled triangles with the same long side of 20 centimetres, one 2 centimetres tall and one 4 centimetres tall, with the slopes coloured.",
@@ -1102,7 +1102,7 @@
           "mins": 6,
           "do": "Cut two right-angled triangles from paper. Both are 20 centimetres long on the bottom edge. One is 2 centimetres tall at the end, and the other is 4 centimetres tall. Colour the sloping edge of each.",
           "say": "These two ramps are the same length, but one is steeper. We will wind each round a pencil. Which one do you think will make the spiral with the bigger gaps? Why?",
-          "kid": "Cut two paper ramps. One is steep. One is gentle. Colour the slopes. Guess which has bigger gaps.",
+          "kid": "Cut two paper ramps, one steep and one gentle. Colour the sloping edge of each.",
           "ask": [
             {
               "q": "Which paper ramp will have the bigger gaps between its turns?",
@@ -1180,7 +1180,7 @@
         }
       ],
       "record": "How many times the minute hand went round while the hour hand went round once, and what that tells you about the gears inside.",
-      "context": "In this activity, you turn the hands of a clock and find the gear ratio hidden inside it.",
+      "context": "In this activity, you turn the hands of a clock and find the gear ratio hidden inside it. You will find out why the hour hand moves so much more slowly than the minute hand.",
       "setup": [
         {
           "art": "An alarm clock with the hour hand and the minute hand both pointing at 12.",
@@ -1241,7 +1241,7 @@
           "mins": 3,
           "do": "Ask your child what they saw and why. Tell them that the second hand goes round 60 times for one turn of the minute hand. Ask what ratio that is. If your clock has a second hand, watch it spin while you turn the knob.",
           "say": "Tell me what you saw. The hour hand turns 12 times slower than the minute hand. What do you think is inside the clock to do that?",
-          "kid": "The hour hand is 12 times slower. What is inside to do that?",
+          "kid": "Say what you saw. Then guess what is inside the clock.",
           "think": "A gear train multiplies the ratios. If one pair of gears gives 3 to 1 and another gives 4 to 1, what ratio do they give together?",
           "parent": "The answer is 12 to 1, because 3 times 4 is 12. Many clocks reach 12 to 1 with two pairs of gears. This is how compound machines multiply.",
           "context": "This is the last step of Clock Gears. You think about what is inside."
@@ -1271,7 +1271,7 @@
         }
       ],
       "record": "A table with the tool, the simple machines inside it, and what each one trades.",
-      "context": "In this activity, you take everyday tools and find the simple machines hidden inside them.",
+      "context": "In this activity, you take everyday tools and find the simple machines hidden inside them. You will find out that even a kitchen tool is made of levers, screws and wedges.",
       "setup": [
         {
           "art": "A table with a scissors, a peeler, a bottle opener, a pressure cooker lid and a tap laid out in a row.",
@@ -1309,7 +1309,7 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "Look closely at each tool, one at a time. Write down every simple machine you can find and what it trades, force for distance or turns for strength. Scissors test: measure the blade from the screw to the tip, and the handle from the screw to where your finger pushes. Then cut a strip of thick card near the tips and again deep near the screw, and feel which is easier. A grown-up should handle the blades and the can opener's cutting edge. Use only a cold, empty pressure cooker lid.",
+          "do": "Look closely at each tool, one at a time. Write down every simple machine you can find and what it trades. A machine trades when your push becomes stronger but your hand moves further. Scissors test: measure the blade from the screw to the tip, and the handle from the screw to where your finger pushes. Then cut a strip of thick card near the tips and again deep near the screw, and feel which is easier. A grown-up should handle the blades and the can opener's cutting edge. Use only a cold, empty pressure cooker lid.",
           "say": "For each tool, find each machine. For each machine, say what it trades. Does it make your push stronger, or does it make your hand move further?",
           "kid": "Find each machine in each tool. Say what it trades.",
           "adult": true,
@@ -1331,7 +1331,7 @@
           "mins": 8,
           "do": "Ask your child to choose the tool with the most machines. Ask where the friction is, and what a drop of oil would do.",
           "say": "Which tool has the most machines inside? Where do you think the rubbing is? What would a drop of oil do?",
-          "kid": "Which tool has most machines? Where is the rubbing?",
+          "kid": "Which tool has most machines? Where do parts rub together?",
           "think": "If a tool has three machines, each 90 percent efficient, how much of your effort comes out?",
           "parent": "The answer is about 73 percent, because 0.9 times 0.9 times 0.9 is 0.729. Each part loses a share.",
           "context": "This is the last step of the Kitchen Machine Detective. You think about friction."
@@ -1357,7 +1357,7 @@
         }
       ],
       "record": "A list of at least five places with a pulley, how many ropes hold the load, and whether the pulley turns the pull or shrinks it.",
-      "context": "In this activity, you hunt for pulleys in your home and street and count the ropes.",
+      "context": "In this activity, you hunt for pulleys in your home and street and count the ropes. You will find out where pulleys help us every day, and which ones make a pull smaller.",
       "setup": [
         {
           "art": "A ceiling clothes drying rack with a rope and two small pulleys, raised high above a room.",
@@ -1378,7 +1378,7 @@
           "mins": 6,
           "do": "Walk round your home. Look for a ceiling clothes rack, a curtain cord, a window blind, a flagpole or a well. Write down each place.",
           "say": "Look for a rope that goes over a wheel. Where is one in our home? Let us walk round and look.",
-          "kid": "Look for a rope over a wheel. Where is one in our home?",
+          "kid": "Find a rope that goes over a wheel. Write down each place.",
           "ask": [
             {
               "q": "Where would you expect to find a pulley in a home?",
@@ -1464,8 +1464,8 @@
           "what": "Build the wheels and the box frame. Fit the belt. Turn the big wheel and count the turns of the small one."
         }
       ],
-      "record": "Draw the belt drive, with the sizes of the wheels, and write how many times the small wheel turned for each turn of the big wheel.",
-      "context": "In this project, you build a simple belt drive like the one on a charkha and find how many times the small wheel turns for one turn of the big wheel.",
+      "record": "Draw the belt drive with the sizes of the wheels, or take a photo of it. Then write how many times the small wheel turned for each turn of the big wheel.",
+      "context": "In this project, you build a simple belt drive like the one on a charkha and find how many times the small wheel turns for one turn of the big wheel. You will find out why a big wheel turning slowly can make a small wheel spin fast.",
       "setup": [
         {
           "art": "Two card wheels, a big one and a small one, each with a hole in the centre and a pencil through it.",
@@ -1485,7 +1485,7 @@
           "id": "s1",
           "mins": 5,
           "do": "Show your child a picture of a charkha, or remind them of one they have seen. Ask for a guess and a reason. The big wheel is 12 centimetres across and the small one is 3 centimetres across.",
-          "say": "On a charkha, a big wheel turns a thin spindle. If I turn the big wheel once, how many times will the small wheel turn? Why do you think so?",
+          "say": "A charkha is a spinning wheel for making thread. A big wheel turns a thin spindle. Our big wheel is 12 centimetres across and the small one is 3. If I turn the big wheel once, how many times will the small wheel turn? Why do you think so?",
           "kid": "Big wheel turns once. How many turns for the small wheel? Why?",
           "ask": [
             {
@@ -1522,7 +1522,7 @@
         {
           "id": "s4",
           "mins": 10,
-          "do": "Turn the big wheel exactly 5 times, slowly. One child turns, one counts the big turns aloud, one counts the small wheel's mark. Divide the small wheel's turns by 5. Compare with the guess. Do it twice.",
+          "do": "Turn the big wheel exactly 5 times, slowly. One person turns the big wheel and counts its turns aloud. Another counts the small wheel's mark. Divide the small wheel's turns by 5. Compare with the guess. Do it twice.",
           "say": "Turn the big wheel five times, slowly. Count how many times the small wheel's mark goes round. How many turns for each big turn?",
           "kid": "Turn the big wheel 5 times. Count the small wheel's turns.",
           "check": {
@@ -1582,12 +1582,12 @@
         "Use bigger, smoother reels, so there is less rubbing and the pull gets closer to the ideal numbers.",
         "Use a different string, such as thread, and test whether friction goes down."
       ],
-      "your_turn": "Sketch your design. Build it and test it. Count the strings that hold the bottle. Work out the pull you should get, and measure the real stretch. How close were they? Where did the extra pull go?",
+      "your_turn": "Build your design, and sketch it or take a photo. Test it. Count the strings that hold the bottle. Work out the pull you should get, and measure the real stretch. How close were they? Where did the extra pull go?",
       "context": "This is a design challenge about pulleys. You find the way of raising the bottle that stretches the band least.",
       "setup": [
         {
           "art": "A child sketching three pulley designs on paper with arrows for the strings.",
-          "caption": "1. Sketch some designs. Count the strings holding the bottle."
+          "caption": "1. Try some set-ups with the reels. Count the strings that would hold the bottle."
         },
         {
           "art": "A bottle hanging from two reels, one inside the other's loop, with a rubber band at the loose end held by a hand.",
@@ -1602,9 +1602,9 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Read the problem together. Look at the constraints. Ask your child to sketch two or three different designs. Ask them to count the strings holding the bottle in each.",
-          "say": "You have up to three reels. How could you set them up so that the band stretches the least? Draw some ideas first, and count the strings that hold the bottle.",
-          "kid": "You have 3 reels. Draw some ideas. Count the strings holding the bottle.",
+          "do": "Read the problem together. Look at the constraints. Ask your child to try two or three different set-ups of the reels and string on the beam, without the bottle yet. Ask them to count the strings that would hold the bottle in each.",
+          "say": "You have up to three reels. How could you set them up so that the band stretches the least? Try some ideas on the beam first, and count the strings that would hold the bottle.",
+          "kid": "You have 3 reels. Try some set-ups on the beam. Count the strings that would hold the bottle.",
           "ask": [
             {
               "q": "What makes the pull smaller?",
@@ -1640,7 +1640,7 @@
         {
           "id": "s3",
           "mins": 12,
-          "do": "Compare all your designs. Pick the best and draw it. Work out the force times the distance for the best design, and for the straight lift.",
+          "do": "Compare all your designs. Pick the best and take a photo of it. Work out the force times the distance for the best design, and for the straight lift.",
           "say": "Which design gave the smallest stretch? How far did the knot move? Multiply the stretch by the distance for the best design and for the straight lift. What do you notice?",
           "kid": "Which design was best? Multiply stretch by distance. Compare with the straight lift.",
           "think": "Did the best design cost something? What did you give up to get the smaller pull?",

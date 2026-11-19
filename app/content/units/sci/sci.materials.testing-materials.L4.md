@@ -263,14 +263,14 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
   - Ask: How do you know when a difference is real? (good: The ranges do not touch.; The gap is bigger than the wobble.)
   - Note: If the children say 'the bigger number wins', ask: could another set of tries change the order? Then turn the card over and read the answer.
 - **s3 (12 min)**  
-  *Parent does:* Play cards 2 to 18. After every four cards, stop and ask the question below.  
+  *Parent does:* Play cards 2 to 18. Each player who chose the right token scores one point. After every four cards, stop and ask the question below.  
   *Parent says:* Read the card. Choose a token. Turn it over together. Now check the back.  
   *Child mode:* Read the card. Choose a token. Turn it over. Check the back. Keep score.
   - Ask: What do the Cannot tell cards have in common? (good: The ranges overlap.; The wobble is bigger than the gap.)
   - Check: Two groups have ranges 10 to 14 and 13 to 17. What should you say? → **Cannot tell, because the ranges overlap**
 - **s4 (6 min)**  
   *Parent does:* Play cards 19 to 24, the catch cards. Talk about each one before you turn it over.  
-  *Parent says:* These cards have a catch. Think about tries, the tester and the tools.  
+  *Parent says:* These cards have a catch, something that makes the numbers less trustworthy. Think about how many tries, who did the test and what tools were used.  
   *Child mode:* Play the catch cards. Look for the catch.
   - Note: The catch cards are for deeper talk. Card 22 shows that a zero error changes every reading but not the gap between two readings.
 - **s5 (3 min)**  
@@ -288,11 +288,11 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
   *Child mode:* Put out the three mats. Shuffle the cards.
 - **s2 (4 min)**  
   *Parent does:* Read the three mats aloud. Ask the question below before you play card 1.  
-  *Parent says:* The three mats are: the thing varies, the measuring is rough and we hoped for it. Can you think of an example for each one?  
+  *Parent says:* The three mats are: the thing varies, the measuring is rough and we hoped for it.  
   *Child mode:* Read the mats. Think of one example for each.
   - Ask: What is one way a test can go wrong that fits each mat? (good: A strip with a hidden nick fits the first mat.; A chipped ruler fits the second mat.; Wanting one cloth to win fits the third mat.)
 - **s3 (14 min)**  
-  *Parent does:* Play cards 1 to 12. Turn each card over after the group has chosen a mat. Read the fix aloud.  
+  *Parent does:* Play cards 1 to 12. Turn each card over after the group has chosen a mat. Read the fix aloud. Each right choice wins a token from the bowl.  
   *Parent says:* Read a card. Choose a mat. Then read the back together.  
   *Child mode:* Read a card. Choose a mat. Check the back.
   - Check: A tester measures with a ruler whose end is chipped. Which mat fits? → **The measuring is rough**
@@ -316,12 +316,12 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 - **s1 (4 min)**  
   *Parent does:* Show your child the four things. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* We will drop four things from the same height. Which will bounce highest? Which will bounce lowest? If we drop one ball ten times, will it bounce the same each time? Why do you think so?  
-  *Child mode:* We will drop four things. Which will bounce highest? Will one ball bounce the same each time? Why?
+  *Child mode:* Look at the four things. Point to the one you think will bounce highest.
   - Ask: Why do you think that thing will bounce highest? (good: It is the hardest.; It is the lightest.; It is made of rubber.)
   - Ask: Will one ball bounce to the same height every time? Why? (good: Yes, because nothing changes.; No, because it is hard to drop exactly the same.)
   - Note: Do not correct any guess. Write each guess and each reason on paper. The guess about the same height each time matters most, because the experiment is built to test it.
 - **s2 (6 min)**  
-  *Parent does:* 1. Tape the tape measure up a wall, with zero at the floor. 2. Stick a flag of tape at 50 centimetres. 3. Tape a square on the floor below. 4. Write the name of each ball on a paper chit, fold the four chits and put them in a bowl. 5. Draw the results table.  
+  *Parent does:* 1. Tape the tape measure up a wall, with zero at the floor. 2. Stick a flag of tape at 50 centimetres. 3. Tape a square on the floor below. 4. Write the name of each ball on a paper chit, fold the four chits and put them in a bowl. 5. Make the results table.  
   *Parent says:* We need a place where every drop is the same. The flag marks the height. The square marks the spot. The bowl will decide the order.  
   *Child mode:* Tape up the measure. Mark the flag and the square.
   - Note: If the floor is soft, such as carpet or a mat, put a smooth hard board, a ceramic tile or a thick book on the floor under the square. The same hard floor must be used for every ball.
@@ -332,13 +332,13 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
   *Child mode:* Let go. Crouch. Read the height of the ball's bottom at the top of the bounce.
   - Note: Reading a bounce by eye is hard. If you have a phone, film the three practice drops in slow motion next to the tape measure, then play them back. Show your child how the eye misses the highest point. Roles: with one child and a parent, the child lets go and both of you read. With 2 to 4 children, one lets go, two read, one writes. Swap jobs after each ball, but keep the same person letting go for all ten drops of one ball.
 - **s4 (8 min)**  
-  *Parent does:* 1. Draw the four chits. That is the order of the balls. 2. Drop each ball once in that order. 3. Then drop each ball once in the reverse order. 4. Both of you write down every reading, without looking at each other's paper. 5. Do steps 2 to 4 once more, so each ball has four drops.  
-  *Parent says:* Draw the chits for the order. Drop each ball once. Then go backwards. Write what you see. Do not look at each other's paper.  
-  *Child mode:* Draw the order. Drop each ball. Then go backwards. Write the numbers.
+  *Parent does:* 1. Pick the four chits from the bowl, one by one. That is the order of the balls. 2. Drop each ball once in that order. 3. Then drop each ball once in the reverse order. 4. Both of you write down every reading, without looking at each other's paper. 5. Do steps 2 to 4 once more, so each ball has four drops.  
+  *Parent says:* Pick the chits for the order. Drop each ball once. Then go backwards. Write what you see. Do not look at each other's paper.  
+  *Child mode:* Pick the order from the bowl. Drop each ball, then go backwards. Write the numbers.
   - Ask: Is the same ball giving the same number each time? (good: No, the numbers are close but different.; Almost, but not quite.)
   - Note: Writing without looking at each other's paper matters. Looking would make the readings agree for the wrong reason. Expect the numbers for one ball to differ by a few centimetres.
 - **s5 (8 min)**  
-  *Parent does:* Keep going until each ball has been dropped ten times. Keep the same method: drop each ball once in the drawn order, then once in the reverse order. After every two rounds like this, draw the chits again for a new order.  
+  *Parent does:* Keep going until each ball has been dropped ten times. Keep the same method: drop each ball once in the picked order, then once in the reverse order. After every two rounds like this, pick the chits again for a new order.  
   *Parent says:* Ten drops for each ball. Same method, same flag, same square. Keep writing every number, even the odd ones.  
   *Child mode:* Finish ten drops for each ball. Write every number.
   - Note: If a ball rolls off the square, call it a miss and drop again, but write down that it was a miss. Do not hide misses. The clay ball will not bounce. Write 0 for it every time.
@@ -349,9 +349,9 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
   - Ask: Why did two careful people read the same drop differently? (good: Our eyes were at different heights.; The ball is fast and the top is hard to see.; One of us looked a moment later.)
   - Note: A gap of 1 to 3 centimetres is normal. A gap bigger than that suggests one reader was standing, not crouching.
 - **s7 (6 min)**  
-  *Parent does:* Draw a number line from 0 to 60 across a page. Make a row of dots for each ball, using your readings. Stack equal results. Write the range and the middle value for each ball.  
-  *Parent says:* Draw the dot plot. One row for each ball. Look at the rows. Which rows overlap? Which rows are far apart?  
-  *Child mode:* Draw a dot plot. One row for each ball. Which rows overlap?
+  *Parent does:* Draw a number line from 0 to 60 across a page. Make a row of dots for each ball, using your readings, or use a row of coins. Stack equal results. Write the range and the middle value for each ball.  
+  *Parent says:* Make a dot plot. That is a number line with one dot for each reading. Use one row for each ball.  
+  *Child mode:* Make a dot plot with one row for each ball. Look at the rows.
   - Ask: Which balls have rows that overlap? Which are far apart? (good: The rubber ball and the table-tennis ball overlap.; The clay ball is far from all the others.)
   - Note: Typically each row is about 2 to 6 centimetres wide, but your numbers depend on your balls and your floor. Some may overlap and some may not. Both are good results. If your rows are very wide, look at the biggest gaps between your readings and your helper's readings for a hint.
 - **s8 (6 min)**  
@@ -369,14 +369,14 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 - **results table:** Person | Open round: Premium score (0 to 10) | Open round: Basic score (0 to 10) | Open round: Premium minus Basic | Blind round: first square score | Blind round: second square score | Blind round: first minus second
 - **s1 (4 min)**  
   *Parent does:* Show your child the cloth. Ask for a guess and a reason. Do not say yet what the test will show.  
-  *Parent says:* We will ask people how soft two squares feel. One is labelled Premium. One is labelled Basic. Will they say Premium is softer? Why do you think so?  
-  *Child mode:* There are two squares of cloth. One says Premium. One says Basic. Which will people call softer? Why?
-  - Ask: Why do you think people will give those scores? (good: Premium sounds better.; The label makes them think it is softer.; They will just feel the cloth and give the same score.)
+  *Parent says:* We will ask people how soft two squares feel. One is labelled Premium. One is labelled Basic.  
+  *Child mode:* Imagine two squares of cloth, one labelled Premium and one labelled Basic. Which will people call softer?
+  - Ask: Why do you think people will call that one softer? (good: Premium sounds better.; The label makes them think it is softer.; They will just feel the cloth and give the same score.)
   - Note: Do not tell your child how the test will turn out, and do not hint. Write the guess and the reason down.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* A grown-up cuts four squares from the same cloth. Put a Premium label on one square and a Basic label on a second. Leave two squares plain. Mark them K and M underneath in pencil.  
   *Parent says:* The squares are cut from one cloth. They are exactly the same. Two will have labels. Two will have secret letters.  
-  *Child mode:* Cut four squares from one cloth. Label two. Mark two with letters.
+  *Child mode:* A grown-up cuts four squares from one cloth. You label two and mark two with letters.
   - Note: The two plain squares are for the blind round. Mark their letters on the underside, where people will not see. Keep all four away from other cloth, so people cannot compare them with a different towel.
 - **s3 (6 min)**  
   *Parent does:* Ask the first person to feel both labelled squares. Toss a coin to decide which square they feel first. Heads means the Premium square first. Ask for a softness score from 0 to 10 for each. Write the scores. Say nothing else.  
@@ -398,7 +398,7 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 - **s6 (6 min)**  
   *Parent does:* For each person, work out 'Premium minus Basic' for the open round, and 'first minus second' for the blind round. Draw both rows of differences as dots on one number line from minus 5 to plus 5.  
   *Parent says:* Take each person's Premium score and subtract the Basic score. Do the same for the blind round. Plot the dots. Where do they sit?  
-  *Child mode:* Work out the differences. Plot two rows of dots.
+  *Child mode:* Work out each difference. Put the dots in two rows on one number line.
   - Ask: What do you notice about the two rows of dots? (good: The open round dots sit mostly above zero.; Both rows are all over the place.; The blind round dots sit around zero.)
   - Note: Be honest about what you see. With five people, the dots may be messy. If the open round sits mostly above zero and the blind round is spread around zero, the label pushed the scores. If both rows look alike, you have found no push. Both results are fine. Do not delete anyone's score.
 ### e3 · The Rub Test: which cloth wears through first? (45 min)
@@ -413,12 +413,12 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
   *Parent says:* We will rub four cloths on sandpaper until they wear through. Which will wear through first? Which will last longest? Why do you think so?  
   *Child mode:* We will rub four cloths. Which wears out first? Which lasts longest? Why?
   - Ask: Why do you think that cloth will last longest? (good: It is thick.; It is tightly woven.; It is the strongest.)
-  - Ask: What is this cloth used for in real life? (good: A school bag.; A shirt.; A kitchen duster.)
+  - Ask: Where is each of these cloths used at home? (good: A school bag.; A shirt.; A kitchen duster.)
   - Note: Do not correct any guess. Write each guess and the reason.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Tape the sandpaper flat to the table. 2. Draw eight lanes as wide as the katori, along the long side of the sheets (three lanes fit on one sheet). 3. Number them 1 to 8. 4. Put the coins in the katori. 5. Cut two squares of each cloth.  
+  *Parent does:* 1. Tape the sandpaper flat to the table. 2. Mark eight lanes with a pencil, each as wide as the katori, along the long side of the sheets (three lanes fit on one sheet). 3. Number them 1 to 8. 4. Put the coins in the katori. 5. Cut two squares of each cloth.  
   *Parent says:* We are building a rubbing machine. The sandpaper is the rough road. The katori with coins is the weight. Each lane is used only once.  
-  *Child mode:* Tape down the sandpaper. Draw eight lanes. Number them.
+  *Child mode:* Tape down the sandpaper. Mark eight lanes with a pencil. Number them.
   - Note: The sandpaper clogs with lint, so a used lane rubs more gently. That is why each run gets a new lane. First find the right weight, using the scrap of sandpaper: put 30 coins in the katori and rub a square of the thinnest cotton. If it has no hole after 50 rubs, add more coins or stones and try again on a new patch. Aim for a hole in the thinnest cloth in about 20 to 50 rubs, then keep this load for the whole test. These numbers are only typical; home sandpaper and katoris differ.
 - **s3 (4 min)**  
   *Parent does:* Fix a square of cotton over the flat bottom of the katori. Hold it with a rubber band. Check that the cloth is tight and has no wrinkles.  
@@ -426,25 +426,25 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
   *Child mode:* Stretch the cloth tight. Fix it with a rubber band.
   - Check: Why must every cloth be pulled tight in the same way? → **A loose cloth wrinkles and wears in a different way, so the cloth is not the only thing that changed**
 - **s4 (3 min)**  
-  *Parent does:* Draw the four chits. That is the order of the cloths for the first round. Write the order down. Practise one rub on the scrap of sandpaper, counting 'one-two' for the way there and back.  
-  *Parent says:* Draw the order. Then practise one rub. Slide there, slide back. Count one-two. Keep the same speed.  
-  *Child mode:* Draw the order. Practise one rub. Count one-two.
+  *Parent does:* Write each cloth's name on a paper chit and put the chits in a bowl. Pick them out one by one. That is the order of the cloths for the first round. Write the order down. Practise one rub on the scrap of sandpaper, counting 'one-two' for the way there and back.  
+  *Parent says:* Pick the order. Then practise one rub. Slide there, slide back. Count one-two. Keep the same speed.  
+  *Child mode:* Pick the order from the bowl. Practise one rub. Count one-two.
   - Note: The speed matters. A steady count of one second each way is easy to keep. Use a clock with a second hand, or sing a steady beat. Do not press down. Let the weight do the work.
 - **s5 (10 min)**  
-  *Parent does:* Run each cloth in the drawn order, in a fresh lane. Slide the katori to the end of the lane and back for each rub. Count the rubs aloud. Every ten rubs, stop and hold the cloth up to the window. Look for a point of light. Stop at the first hole, or at 100 rubs.  
+  *Parent does:* Run each cloth in the picked order, in a fresh lane. Slide the katori to the end of the lane and back for each rub. Count the rubs aloud. Every ten rubs, stop and hold the cloth up to the window. Look for a point of light. Stop at the first hole, or at 100 rubs.  
   *Parent says:* One rub is there and back. Count out loud. Every ten rubs, hold the cloth up to the light. A tiny point of light means a hole. Write the number.  
   *Child mode:* Slide there and back. Count. Every ten rubs, look for light.
   - Ask: Now that you have watched, which cloth do you think will last longest? (good: The jeans.; The cotton.; I cannot tell yet.)
   - Note: If no cloth has a hole after 100 rubs, write '100 or more' and give it a light score. Thick denim often does not wear through at all in this test, and that is a real result. If every cloth lasts to 100, add weight and start again in new lanes, and note that the load changed. Roles: one person slides (the same person for a whole round, so the speed stays the same), one counts, one checks the light, one writes. With one child and a parent, swap sliding and counting between rounds.
 - **s6 (9 min)**  
-  *Parent does:* Run a second round. Draw the chits again for a new order. Use fresh lanes and new squares of cloth. Write the numbers for the second run.  
-  *Parent says:* Run every cloth a second time. Draw a new order. Use new lanes.  
-  *Child mode:* Run a second round. Draw a new order. Use new lanes.
+  *Parent does:* Run a second round. Pick the chits again for a new order. Use fresh lanes and new squares of cloth. Write the numbers for the second run.  
+  *Parent says:* Run every cloth a second time. Pick a new order. Use new lanes.  
+  *Child mode:* Run a second round. Pick a new order. Use new lanes.
   - Note: If a second run is very different from the first, do not be surprised. Cloth is not the same everywhere. Write both.
 - **s7 (7 min)**  
   *Parent does:* Draw a dot plot with a row for each cloth, using both runs. Work out the range. Circle any cloth where the two runs are far apart. Write a claim, evidence and reasoning, and say how sure you are.  
-  *Parent says:* Draw the dot plot. Which cloth lasted longest? Is the gap bigger than the wobble between its two runs?  
-  *Child mode:* Draw a dot plot. Which cloth lasted longest? Say how sure you are.
+  *Parent says:* Make the dot plot. Then write a claim, the evidence and the reasoning. Say how sure you are.  
+  *Child mode:* Make a dot plot, one row for each cloth. Say how sure you are about the winner.
   - Ask: Is the winner clear, or do two cloths overlap? (good: The winner is clear.; Two cloths overlap.; We would need more runs.)
   - Ask: What does this test leave out about real life? (good: Sunlight.; Washing.; Water and sweat.)
   - Note: With only two runs per cloth, many pairs will overlap, and that is a good result to talk about. Ask: how many more runs would you want before you told a friend which cloth to buy?
@@ -464,8 +464,8 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
   *Child mode:* Measure with the cloth tape. Write your number.
 - **s3 (6 min)**  
   *Parent does:* Make a paper ruler on stiff paper with a school ruler, marking each centimetre. Start the zero mark half a centimetre in from the end of the paper. Mark the ruler 'home-made'.  
-  *Parent says:* Draw a ruler on stiff paper. Make a mark for every centimetre. But start your zero half a centimetre from the end. This is a ruler with a fault.  
-  *Child mode:* Draw a ruler. Put the zero half a centimetre from the end.
+  *Parent says:* Make a ruler on stiff paper. Mark every centimetre. But start your zero half a centimetre from the end. This ruler has a fault on purpose, so we can learn to find one.  
+  *Child mode:* Make a ruler. Put the zero half a centimetre from the end.
   - Note: The aim is a ruler that reads wrong in the same way every time (here, 0.5 centimetres too little). Do not tell the helper where the zero is. Ask the helper to measure the strip with the home-made ruler.
 - **s4 (5 min)**  
   *Parent does:* Ask your helper to measure the strip with the home-made ruler, starting from the end of the paper. Write down the reading and compare it with the school ruler.  
@@ -476,7 +476,7 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
   *Parent does:* Lay the home-made ruler beside the school ruler with the centimetre marks lined up. Find the zero error. Write it. This is calibrating.  
   *Parent says:* Put the two rulers side by side. Line up the marks. Where does the home-made zero sit? That gap is the zero error.  
   *Child mode:* Line up the rulers. Find the gap between the zeros.
-  - Ask: Which tool had the biggest gap between you and your helper? Which tool had a zero error? (good: The cloth tape had the biggest gap.; The home-made ruler had a zero error.)
+  - Ask: Which tool gave you and your helper the widest gap? (good: The cloth tape had the biggest gap.; The home-made ruler had a zero error.)
 ### a2 · Rice Lengths: are two kinds of rice really different? (30 min)
 - **record:** A table of 20 lengths for each of the three samples in millimetres, three dot plots on one number line, and the range and the middle value of each.
 - **s1 (5 min)**  
@@ -491,23 +491,23 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
   *Child mode:* Measure each grain. Write its length in millimetres.
   - Note: Broken grains give odd results. Keep them, but write 'broken'. Reading to the nearest half-millimetre is possible if your eyes are sharp. Two children can share the measuring. Typical grains are roughly 4 to 6 millimetres for short rice and 6 to 8 for basmati, but measure your own. With 2 to 4 children, each measures one pile and another child writes. Do not eat the rice you handled, and keep it from toddlers.
 - **s3 (7 min)**  
-  *Parent does:* Draw a number line from 3 to 10 millimetres. Make a row of dots for each pile. Mark the range of each pile with a bracket. Find the middle value of each.  
-  *Parent says:* Draw one number line. Make three rows of dots. Which rows overlap? Which row is on its own?  
-  *Child mode:* Draw three rows of dots on one number line.
+  *Parent does:* Draw a number line from 3 to 10 millimetres. Make a row of dots for each pile. Or lay the grains themselves in three rows beside a ruler. Mark the range of each pile with a bracket. Find the middle value of each.  
+  *Parent says:* Make one number line with a dot for every grain. Use one row for each pile.  
+  *Child mode:* Make a row of dots for each pile on one number line.
   - Ask: Do piles B and C overlap? Does either overlap with pile A? (good: B and C overlap almost completely.; A is far from B and C.)
   - Check: Piles B and C are two spoonfuls of the same rice from the same packet. Their middle values differ by 0.2 millimetres. What does that tell you? → **Even the same rice shows a small difference by chance, so a gap this small is not a real difference between kinds**
 - **s4 (6 min)**  
   *Parent does:* Ask your child to write a claim, evidence and reasoning about A and B. Then ask them to say why the control, pile C, was useful.  
   *Parent says:* Write a claim about the long rice and the short rice. Give your evidence and reasoning. Why did we measure a second spoonful of the short rice?  
-  *Child mode:* Write a claim about A and B. Why was pile C useful?
+  *Child mode:* Write what you think is true about A and B. Why was pile C useful?
   - Note: A good claim may be: the long rice is longer than the short rice, because the ranges do not touch. The control tells us how big a gap can be by chance alone.
 ### a3 · The Eight Matchboxes: is your hand better than luck? (30 min)
 - **record:** A table with five rounds. For each round, how many of the four heavy boxes you found. A second row for ten rounds of luck, drawn from the bowl of slips. Two dot plots on one number line from 0 to 4.
 - **s1 (5 min)**  
   *Parent does:* Ask your child to guess how many of the four heavy boxes they will find. Explain only the rules: four boxes are heavy, four are light, and the child must put four in each pile.  
   *Parent says:* Four boxes are heavy and four are light. You sort them by feel into two piles of four. How many of the four heavy ones will you find? Why do you think so?  
-  *Child mode:* Four heavy, four light. Sort by feel. How many will you find? Why?
-  - Ask: What is the chance of getting all four right just by luck? Is it likely? (good: Not likely.; It could happen sometimes.)
+  *Child mode:* Sort the boxes by feel. Guess how many heavy ones you will find.
+  - Ask: Could you get all four right just by luck? Is it likely? (good: Not likely.; It could happen sometimes.)
   - Note: If a child asks about luck, say we will find out. Do not give the numbers yet.
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* The helper puts 6 coins in four boxes and 4 coins in the other four boxes. The helper shuffles them behind a screen and places them in a row. The helper writes down which are which and keeps it secret.  
@@ -520,9 +520,9 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
   *Child mode:* Feel each box. Make a Heavy pile and a Light pile.
   - Note: Do not tell the child which boxes were right until all five rounds are finished. If you tell them, they learn from it, and then it is no longer a fair test.
 - **s4 (6 min)**  
-  *Parent does:* Now find out what pure luck gives. Put 4 red and 4 blue slips in a bowl. Draw 4 slips without looking. Count the red ones. Do this ten times, putting the slips back each time. Write down the ten counts.  
-  *Parent says:* Now we find out what luck gives. Draw four slips from the bowl. Count the red ones. Put them back. Do it ten times.  
-  *Child mode:* Draw four slips. Count the red ones. Do it ten times.
+  *Parent does:* Now find out what pure luck gives. Put 4 red and 4 blue slips in a bowl. Pick 4 slips without looking. Count the red ones. Do this ten times, putting the slips back each time. Write down the ten counts.  
+  *Parent says:* Now we find out what luck gives. Pick four slips from the bowl. Count the red ones. Put them back. Do it ten times.  
+  *Child mode:* Pick four slips. Count the red ones. Do it ten times.
   - Ask: How often did luck give 4 out of 4? (good: Almost never.; Maybe once, or never.)
 - **s5 (6 min)**  
   *Parent does:* Draw both sets of counts as dots on one number line from 0 to 4. Use one row for your hands and one for luck. Ask your child to say whether their hands beat luck, and how sure they are.  
@@ -551,14 +551,14 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 - **record:** A table with the six cases and your decision, with one sentence of reasoning for each.
 - **s1 (6 min)**  
   *Parent does:* Read cases 1 to 3 aloud. Case 1: a strip held 14, 15 and 3 coins, and the 3-coin strip had a nick. Case 2: a marble bounced 25, 24, 26 and 12, and you saw it hit the edge of a tile. Case 3: a rubber ball bounced 30, 31, 32 and 45, and you saw nothing special.  
-  *Parent says:* Read each case. What would you do with the odd number? Keep it, test again, or explain it?  
-  *Child mode:* Read three cases. What do you do with each odd number?
+  *Parent says:* Here are three cases, each with one odd number. What would you do with it? Keep it, test again, or explain it?  
+  *Child mode:* Listen to three cases. Decide what to do with each odd number.
   - Ask: What would you do in case 3, where nothing seems wrong? (good: Test again.; Keep it and look for the cause.)
   - Note: Case 1 has a known cause: explain it, keep a note, test again. Case 2 has a known cause too. Case 3 has no known cause, so test again and do not delete the 45 in secret.
 - **s2 (6 min)**  
   *Parent does:* Read cases 4 to 6 aloud. Case 4: in 1965 a chemist made a cloudy, thin liquid that others would throw away. She had it spun into a fibre anyway. Case 5: a fifth strip held 80 coins when the others held 20, because the helper added coins by mistake. Case 6: a cloth lasted 20 rubs one time and 90 the next, with no known reason.  
-  *Parent says:* Read the last three cases. Which odd results are mistakes? Which could be discoveries?  
-  *Child mode:* Read three more cases. Mistake or discovery?
+  *Parent says:* Here are three more cases. Which odd results are mistakes? Which could be discoveries?  
+  *Child mode:* Listen to three more cases. Decide which is a mistake and which could be a discovery.
   - Ask: How can you tell a mistake from a discovery? (good: You cannot tell by looking. You have to test again.; Check what went wrong and repeat.)
   - Note: In case 4, say that the chemist was Stephanie Kwolek, and the fibre became Kevlar. Not every odd result is a discovery. The scientist's skill is to check it, not delete it or believe it at once.
 - **s3 (5 min)**  
@@ -576,22 +576,22 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 - **s1 (4 min)**  
   *Parent does:* Show your child the four papers. Ask for a guess and a reason. Which paper will hold the most when dry? Which when wet? Will the order change?  
   *Parent says:* We will test four papers, dry and wet. Which holds most when dry? Which holds most when wet? Will the order change? Why do you think so?  
-  *Child mode:* We will test four papers, dry and wet. Will the order change? Why?
-  - Ask: Why do you think wetting will change the order? (good: Water makes paper weak.; Some papers are made to survive water.; Water pushes the fibres apart.)
+  *Child mode:* Look at the four papers. Which do you think is strongest dry, and which wet?
+  - Ask: Will wetting change the order of the papers? Why do you think so? (good: Water makes paper weak.; Some papers are made to survive water.; Water pushes the fibres apart.)
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Rest the pencil on two piles of books. 2. Clip one strip in a peg and hang the peg on the pencil. 3. Clip a second peg at the bottom of the strip. 4. Tie a thread from the second peg to a light cup.  
   *Parent says:* We hang a strip from a pencil. At the bottom, a cup hangs on a thread. We will pour water into the cup slowly.  
   *Child mode:* Hang the strip. Hang a cup below it.
   - Note: The cup should hang about 20 centimetres above the floor. Put a tray or plate under it. Check that the strip is straight and not nicked.
 - **s3 (12 min)**  
-  *Parent does:* Draw four chits for the order. For each paper, test one dry strip. Dip a second strip in water for 10 seconds. Let it drip for 5 seconds. Then test it wet. Pour water slowly, in a steady stream, until the strip tears. Measure the water in the cup.  
+  *Parent does:* Write each paper's name on a chit and pick the chits from a bowl to set the order. For each paper, test one dry strip. Dip a second strip in water for 10 seconds. Let it drip for 5 seconds. Then test it wet. Pour water slowly, in a steady stream, until the strip tears. Measure the water in the cup.  
   *Parent says:* Pour slowly and steadily into the cup. Stop when the strip tears. Then pour the water from the hanging cup into the medicine cup to measure it. Write the millilitres.  
   *Child mode:* Pour slowly. Stop when it tears. Measure the water.
   - Note: A wet strip may tear at the peg. If it slips out, note it and try a new strip. Tissue paper may tear very early, with only a spoon of water. A strip as narrow as 1 centimetre is used because wide strips of paper are very strong. If a strip carries a full cup without tearing, write 'cup full' with the millilitres, which means that paper is stronger than the rig; do not hide it. Pour over a plate and wipe up spills so nobody slips. Roles: one pours, one holds the cup steady, one writes; with one child and a parent, the child pours.
 - **s4 (6 min)**  
-  *Parent does:* Rank the papers from strongest to weakest, once for dry and once for wet. Draw the two rankings side by side.  
+  *Parent does:* Rank the papers from strongest to weakest, once for dry and once for wet. Write the two rankings side by side.  
   *Parent says:* Rank the papers for dry. Rank them again for wet. Did the order change?  
-  *Child mode:* Rank the papers dry and wet. Did the order change?
+  *Child mode:* Rank the papers dry and wet. Put the two lists side by side.
   - Ask: Which paper changed the most when wet? (good: Printer paper.; Tissue paper.; Newspaper.)
   - Check: You want a paper bag for rainy days. Which test should you trust? → **The wet test, because rain makes bags wet**
 - **s5 (5 min)**  
@@ -611,12 +611,12 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
   - Ask: What could make this test unfair? (good: Testing one thing more carefully.; Hoping for an answer.; A different order.)
   - Note: Good projects are small. Two things, ten pieces each, one measurement. Keep the test safe: no flame, hot water, chemicals, blades or foods that anyone is allergic to, and a grown-up checks the plan. Use the six questions from Claim Detective to check your plan.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* 1. Prepare ten pieces of each thing. 2. Ask the helper to tie a secret letter on each piece and keep the list. 3. Draw the order of testing from a bowl. 4. Draw the results table.  
-  *Parent says:* The helper tags the pieces with secret letters. We test in the order we draw from the bowl. Nobody who tests knows which is which.  
-  *Child mode:* Helper: tag the pieces. Tester: draw the order.
+  *Parent does:* 1. Prepare ten pieces of each thing. 2. Ask the helper to tie a secret letter on each piece and keep the list. 3. Put the letters on chits in a bowl. Pick them out one by one to set the order of testing. 4. Make a results table.  
+  *Parent says:* The helper tags the pieces with secret letters. We test in the order we pick from the bowl. Nobody who tests knows which is which.  
+  *Child mode:* Helper: tag the pieces. Tester: pick the order.
   - Note: The helper can be anyone, even a younger sibling. Keep the list folded until the last number is written. With 2 to 4 children, one is the helper who tags, one is the tester and one writes. Swap roles for a second claim if there is time.
 - **s3 (15 min)**  
-  *Parent does:* Test all twenty pieces in the drawn order. Use the same method each time. Write down every number against its letter.  
+  *Parent does:* Test all twenty pieces in the picked order. Use the same method each time. Write down every number against its letter.  
   *Parent says:* Test each piece the same way. Write the number against its letter. Do not peek at the list.  
   *Child mode:* Test each piece the same way. Write each number.
   - Note: If a piece is spoiled, write what went wrong and do not hide the number.
@@ -635,23 +635,23 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 ## Challenges
 ### c1 · Steady Hands: shrink the wobble of a drop (40 min)
 - **problem:** When you drop a ball by hand ten times, the bounces vary. Build a gadget from cardboard, paper and tape that makes the ten bounces of one ball vary less than they do by hand.
-- **your turn:** Sketch your gadget. Build it and test it with ten drops. Compare its range with the range of ten hand drops. Change one thing, such as the length of the tube, and test again. Which design gave the smallest range? Why do you think it did?
+- **your turn:** Sketch your gadget, or tell your grown-up how it works. Build it and test it with ten drops. Compare its range with the range of ten hand drops. Change one thing, such as the length of the tube, and test again. Which design gave the smallest range? Why do you think it did?
 - **constraints:** Use only cardboard, paper, tape and string from home. No electric parts.; The ball must start with its bottom at the same height every time.; You must drop the same ball ten times by hand and ten times with the gadget, in a random order.; Read all bounces from eye level, or with a phone video.
 - **general:** A cardboard tube held upright on the floor, with the ball dropped from the top, so it falls straight and lands in the same spot.; A paper funnel taped to a stand, that lets the ball go the same way each time.; A thin card slid out from under the ball to release it, instead of a finger.
 - **creative:** A tilted ramp that releases the ball with no spin.; Two tubes, one for the fall and one to catch the ball after the bounce.; A sheet of paper with a hole in it, that holds the ball, and is pulled away.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. First, drop the ball ten times by hand and write the ten heights. Draw the dot plot and find the range.  
+  *Parent does:* Read the problem together. First, drop the ball ten times by hand and write the ten heights. Find the range, the biggest height minus the smallest.  
   *Parent says:* First drop the ball ten times by hand. Write each height. This range is the one to beat.  
   *Child mode:* Drop ten times by hand. Find the range.
   - Note: Use the same tape measure and floor square as in the Bounce Test.
 - **s2 (6 min)**  
-  *Parent does:* Ask your child to sketch two or three gadgets. Ask what makes the drop vary by hand.  
-  *Parent says:* Why do the drops vary by hand? What could a gadget do better than fingers?  
-  *Child mode:* Sketch two or three gadgets.
+  *Parent does:* Ask your child to sketch two or three gadgets, or describe them out loud. Ask what makes the drop vary by hand.  
+  *Parent says:* Think about how your fingers let go of the ball. What could a gadget do better than fingers?  
+  *Child mode:* Sketch two or three gadgets, or describe them to your grown-up.
   - Ask: What causes the wobble when you drop by hand? (good: The fingers let go a little differently.; The ball spins a little.; It lands on a different spot.)
 - **s3 (16 min)**  
   *Parent does:* Build the first gadget. Drop the ball ten times through it, in a random order mixed with hand drops. Read each bounce. Write the numbers.  
-  *Parent says:* Build your gadget. Test it ten times. Mix the gadget drops with hand drops. Draw the order from a bowl.  
+  *Parent says:* Build your gadget. Test it ten times. Mix the gadget drops with hand drops. Pick the order from a bowl.  
   *Child mode:* Build the gadget. Test it ten times.
   - Note: Mix hand drops and gadget drops in a random order. Otherwise the ball warming up, or the tester getting better with practice, could favour one kind of drop.
 - **s4 (10 min)**  
@@ -666,12 +666,12 @@ Her mother bought the green rope for the biggest boat, where a snap would be wor
 - **general:** Write the recipe as numbered steps, with every size and amount.; Draw a picture for each step, like the step pictures in this unit.; Add a results table to the recipe so the friend writes in the same format.
 - **creative:** Film yourself doing the test, and send only the film, not the words.; Write the recipe in two languages, such as English and Tamil or Hindi.; Ask two friends to test it, and compare all three results.
 - **s1 (8 min)**  
-  *Parent does:* Pick a simple test, such as how far a rubber band stretches with 10 coins. Do it five times yourself. Write the five numbers and the range.  
+  *Parent does:* Pick a simple test, such as how far a rubber band stretches with 10 coins. Do it five times yourself. Write the five numbers and the range, from the smallest to the biggest.  
   *Parent says:* Do the test five times. Write each number. Find the range. This is your own answer.  
   *Child mode:* Do your test five times. Find the range.
   - Note: Stretch a rubber band gently and never close to the face or past its limit, because it can snap back.
 - **s2 (12 min)**  
-  *Parent does:* Write the recipe as numbered steps, with every size, amount and time. Add a picture for each step if you can, and a blank results table.  
+  *Parent does:* Write the recipe as numbered steps, with every size, amount and time. Add a blank results table. Add a picture for a step only if words are not enough.  
   *Parent says:* Write the recipe. Name every size and every amount. Another child must be able to follow it.  
   *Child mode:* Write the recipe. Name every size and amount.
   - Ask: What might your friend not know? (good: Which rubber band.; How to hang the coins.; Where to read the length.)

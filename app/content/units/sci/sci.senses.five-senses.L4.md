@@ -226,7 +226,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - **Printable score sheet: Score sheet:** Player; Right idea (1 point each); Good reason (1 point each); Total
 - **s1 (4 min)**  
   *Parent does:* Cut out the cards and the tokens. Shuffle the cards and put them in a pile. Read the five ideas on the tokens aloud once. No printer? Write the five ideas on paper slips. Read the cards from the screen.  
-  *Parent says:* We have five ideas that explain odd things your senses do. Adapting receptors. Too small a change. The brain guesses. Signals take time. A flexible brain. Each story fits one idea.  
+  *Parent says:* We have five ideas that explain odd things your senses do. Adapting receptors means a sense stops reporting something that stays the same. Too small a change means a tiny difference goes unnoticed. The brain guesses means it fills in what it expects. Signals take time means a message needs a moment to reach the brain. A flexible brain means the brain changes with practice. Each story fits one idea.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Read the five ideas.
 - **s2 (6 min)**  
   *Parent does:* Play the first six cards. After each card, read the back aloud. After card three, ask the question below.  
@@ -247,7 +247,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - **s5 (3 min)**  
   *Parent does:* Add up the scores. Ask each player which idea they found hardest, and which story surprised them most.  
   *Parent says:* Add up your scores. Which idea was hardest for you to spot? What story could you make up for that idea?  
-  *Child mode:* Add up your points. Make up your own story for one idea.
+  *Child mode:* Add up your points. Say which idea was hardest to spot.
   - Ask: Can you invent a new story for one of the five ideas? (good: Something that fits 'adapting receptors', like a smell that fades.; A story with a clear clue.; A story where the sense changes over time.)
 
 ## Experiments
@@ -256,13 +256,13 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - **predict:** Before you start, guess. Will you catch the ruler soonest by seeing it, hearing a word or feeling a tap? Which will be slowest? Why do you think so?
 - **fair test:** Use the same ruler, the same catcher and the same hand every time. The catcher's thumb and finger start at the 0 centimetre end, with the ruler hanging between them. The dropper waits a different time before each drop, so the catcher cannot guess. Each cue is tried 3 times as practice and then 7 times for the record. The rounds are done in one order, and then in the opposite order after the two people swap roles, so that tiredness or practice does not favour one cue. Only the cue changes, so any difference comes from the cue. With 2 to 4 children, give three jobs: catcher, dropper and recorder. Rotate so each child is the catcher once, and give each catcher their own table. Two catchers fit in 45 minutes, so let the others catch in a second sitting.
 - **safety:** Use a light ruler, so a miss does not hurt anyone's foot. The catcher sits down. Do not throw the ruler. Take a short break if your eyes feel tired. Do not use a steel ruler.
-- **record:** For each cue, write the seven counted catch distances. Cross out the three practice tries. Then find the middle value of the seven. Draw a bar for each cue using its middle value.
+- **record:** For each cue, write the seven counted catch distances. Cross out the three practice tries. Then find the middle value of the seven. Show each cue's middle value as a bar. Draw the bars, or cut a paper strip of each length and lay them side by side.
 - **results table:** Try (counted) | Seeing: centimetres caught | Hearing: centimetres caught | Touch: centimetres caught
 - **s1 (5 min)**  
   *Parent does:* Show your child the ruler. Explain the three rounds. Ask for a guess and a reason, and write both at the top of the results table.  
-  *Parent says:* A friend will drop this ruler, and you will catch it. In one round you will watch it, in one you will hear a word, and in one you will feel a tap. Which will let you catch it soonest? Which will be slowest? Why do you think so?  
-  *Child mode:* A friend drops a ruler. You catch it. You can see, hear or feel the cue. Which is fastest? Why?
-  - Ask: Why do you think that cue will be the quickest? (good: Seeing is quickest, because the eye is quick.; Touch is quickest, because the tap is on the body.; I do not know, so I will find out.)
+  *Parent says:* A friend will drop this ruler, and you will catch it. In one round you will watch it, in one you will hear a word, and in one you will feel a tap. Each one is a signal to catch. Which signal will let you catch it soonest? Which will be slowest? Why do you think so?  
+  *Child mode:* A friend drops a ruler and you catch it. Guess which signal is fastest: seeing, hearing or touch.
+  - Ask: Why do you think that signal will be the quickest? (good: Seeing is quickest, because the eye is quick.; Touch is quickest, because the tap is on the body.; I do not know, so I will find out.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Most children say that seeing will be quickest. Write the guess down, because the result may surprise them.
 - **s2 (6 min)**  
   *Parent does:* Sit the catcher at a table. Rest their arm on the edge with the hand hanging over. The dropper holds the ruler by the 30 centimetre end. The 0 centimetre end is level with the top of the catcher's thumb. Do three practice drops with sight.  
@@ -288,9 +288,9 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - **s6 (8 min)**  
   *Parent does:* For each cue, put the seven numbers in order and pick the middle one. Look at the three middle numbers. Ask your child for their claim, their evidence and their reasoning before you explain anything.  
   *Parent says:* Put the seven numbers for each cue in order, smallest to biggest. The middle one is the one to use. Which cue gave the shortest distance? What is your claim? What is your evidence? Why do you think it happened?  
-  *Child mode:* Put each set of seven in order. Pick the middle one. Which cue was fastest? Why?
+  *Child mode:* Put each set of seven in order. Pick the middle one for each.
   - Ask: Which cue gave the shortest catch distance, and does it match your guess? (good: Touch or hearing was quickest and seeing was slowest.; They were all about the same, so the cue did not matter much.; My guess was wrong, and I can say why I think so.)
-  - Ask: Light travels almost instantly. So where was the time spent? (good: In the eye, the nerve and the brain.; In deciding to catch.; In the signal going down the arm to the hand.)
+  - Ask: Light reaches your eye almost at once. So where was the time spent between seeing the ruler fall and catching it? (good: In the eye, the nerve and the brain.; In deciding to catch.; In the signal going down the arm to the hand.)
   - Note: Typical results (not promised): a middle value of about 12 to 22 centimetres for each cue, which is a fifth of a second or less. Touch and hearing are often 1 to 3 centimetres shorter than seeing, but luck can hide it. If the cues look the same, say so. That is a real result. Do not explain anything yet. Let your child say where they think the time went. A guide to time: 5 cm is 0.10 seconds, 10 cm is 0.14, 15 cm is 0.17, 20 cm is 0.20, 25 cm is 0.23, and 30 cm is 0.25 seconds.
   - Check: Why do we use the middle value of seven tries and not the biggest or smallest? → **One lucky or sleepy try cannot change the middle value much**
 ### e2 · The Bottle Lift: how big must a change be to feel it? (35 min)
@@ -303,12 +303,12 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - **s1 (5 min)**  
   *Parent does:* Show your child the bottles and the jug. Say that you will find the smallest extra weight they can feel, for a light bottle and for a heavy one. Write their guess and their reason.  
   *Parent says:* I will put some water in six bottles. We will find how much extra water a bottle needs before you can tell it is heavier. We will do it for a light bottle, and then for a heavy one. Will the heavy one need the same extra, more or less? Why do you think so?  
-  *Child mode:* How much extra water can you feel? Is it the same for a heavy bottle? Why do you think so?
+  *Child mode:* You will hold bottles with your eyes covered and say which one is heavier.
   - Ask: Do you think a heavy bottle needs more extra water than a light bottle, or less? Why? (good: A heavy bottle needs more extra, because a small bit gets lost in a big weight.; It will be the same, because my hand is the same.; I think it needs less, because my arm works harder.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write it at the top of the table.
 - **s2 (8 min)**  
   *Parent does:* Fill the first bottle with 100 millilitres of water. Fill five more with 110, 120, 130, 140 and 160 millilitres. Put a secret letter on each base. Write which letter is which on the helper's paper. Close all the caps tightly.  
-  *Parent says:* Bottle A has 100 millilitres of water. This is the standard. The other five have a little more, from 110 up to 160. Put a secret letter on each base, so the lifter cannot tell. Close the caps tight.  
+  *Parent says:* Bottle A has 100 millilitres of water. This is the standard, the bottle we compare the others with. The other five have a little more, from 110 up to 160. Put a secret letter on each base, so the lifter cannot tell. Close the caps tight.  
   *Child mode:* Fill bottle A with 100 millilitres. Fill the others a little more. Close the caps tight.
   - Note: The bottles must look the same and feel the same on the outside. The helper keeps the key and does not tell the lifter. If you have fewer than six bottles, use two or three and add water between rounds with the jug.
 - **s3 (8 min)**  
@@ -337,17 +337,17 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - **s1 (4 min)**  
   *Parent does:* Show your child the katori of spices and the orange peel. Ask for a guess and a reason about how long the smell will last. Write the guess down.  
   *Parent says:* I will hold this spice a hand's width from your nose. You will tell me when the smell has almost gone. How long will that take? Will a second smell fade too? Why do you think so?  
-  *Child mode:* How long until the smell fades? Will a new smell fade too? Why?
+  *Child mode:* Guess how long the spice smell will last. Guess if a second smell will fade too.
   - Ask: Why do you think a smell might fade when it is still there? (good: My nose gets used to it.; The smell gets used up.; I stop paying attention to it.)
   - Note: Do not correct the guess. A common idea is that the smell runs out. The test can show that it does not.
 - **s2 (6 min)**  
   *Parent does:* Hold the katori about 10 centimetres from your child's nose and start the timer. Your child breathes normally and raises a hand when the smell is almost gone. Write the number of seconds.  
-  *Parent says:* Breathe normally. Tell me what you smell. Raise your hand when it is almost gone. I will watch the clock.  
+  *Parent says:* Breathe normally. Raise your hand when it is almost gone. I will watch the clock.  
   *Child mode:* Breathe normally. Raise a hand when the smell is almost gone.
   - Note: Most people say the smell fades within about 30 seconds to 2 minutes. If nothing fades after 3 minutes, stop and say so. That is a real result. Keep the katori at the same distance, and do not let the nose touch it. If the spice is too faint to start with, crush it more or hold it 5 centimetres away. If the smell does not fade in 3 minutes, try orange peel as the first smell instead. Compare two children's fade times only as a fun fact, because noses and distances differ.
   - Check: The smell has almost gone. The cloves are still in the katori. What has changed? → **The nose is reporting the smell less**
 - **s3 (8 min)**  
-  *Parent does:* Take the katori away. Your child rests by the open window. After 30 seconds, hold the katori to the nose again and score the smell from 0 to 5. Repeat after 1 minute and after 3 minutes. Write the scores.  
+  *Parent does:* Take the katori away. Your child rests by the open window. After 30 seconds, hold the katori to the nose again and score the smell from 0 (no smell) to 5 (very strong). Repeat after 1 minute and after 3 minutes. Write the scores.  
   *Parent says:* Come to the window and breathe the fresh air. After half a minute I will hold the spice again. Tell me how strong it is, from nothing to very strong.  
   *Child mode:* Rest at the window. Smell the spice again after a while. Give it a score.
   - Note: Typical, not promised: the smell is weak after 30 seconds, stronger after 1 minute and nearly full after 3 minutes. The nose recovers in a few minutes. The numbers may vary, so write what you find.
@@ -368,7 +368,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - **s1 (4 min)**  
   *Parent does:* Show the glove, the screen and the brushes. Explain that you will stroke a hidden hand and a rubber hand. Ask for a guess and a reason.  
   *Parent says:* Your real hand will be behind this screen. You will look at this rubber hand while I stroke both with a brush. What do you think you will feel? Why do you think so?  
-  *Child mode:* You will look at a rubber hand. A brush strokes it and your real hand. What will you feel?
+  *Child mode:* You will look at a rubber hand. A brush strokes it and your hidden hand.
   - Ask: What do you think will happen to the feeling of the stroke on your hidden hand? (good: I will feel it in my real hand only.; I might feel it in the rubber hand.; I do not know.)
   - Note: Do not correct the guess. Most children say they will feel only their real hand. It is fine to be surprised.
 - **s2 (6 min)**  
@@ -397,13 +397,13 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - **s1 (3 min)**  
   *Parent does:* Tell your child that two made-up words, 'bouba' and 'kiki', are names for two shapes. Ask for a guess and a reason about which word goes with which shape.  
   *Parent says:* These two words are made up. They do not mean anything. Which shape do you think is called 'bouba', the round one or the spiky one? Why do you think so?  
-  *Child mode:* Two made-up words. Bouba and kiki. Which shape is bouba? Why?
+  *Child mode:* Bouba and kiki are made-up words. One names the round shape. One names the spiky shape.
   - Ask: What makes you pick that word for that shape? (good: Bouba sounds soft and round.; Kiki sounds sharp and pointy.; I say it with my mouth and it feels that way.)
   - Note: Do not correct the guess. Most children say that 'bouba' is the round one. Do not tell the child that this is what most people say until the test is over.
 - **s2 (5 min)**  
-  *Parent does:* Draw a soft, round, cloud-like shape on one sheet and a sharp, spiky, star-like shape on the other. Make them about the same size. Do not write any names on them.  
-  *Parent says:* Draw one soft round shape and one sharp spiky shape. Make them about the same size. Do not put names on them.  
-  *Child mode:* Draw a soft round shape. Draw a spiky shape. Make them the same size.
+  *Parent does:* Tear a soft, round, cloud-like shape out of one sheet and a sharp, spiky, star-like shape out of the other. Make them about the same size. Do not write any names on them. Drawing them is fine too.  
+  *Parent says:* Tear out one soft round shape and one sharp spiky shape, or draw them. Make them about the same size. Do not put names on them.  
+  *Child mode:* Tear out a round shape and a spiky shape. Make them the same size.
   - Note: Keep the shapes clear and simple. If one is much bigger, people may pick by size.
 - **s3 (8 min)**  
   *Parent does:* Show both shapes to one person at a time. Ask them which is 'bouba' and which is 'kiki'. Do not give a hint. Put a tick in the column for their answer. Swap which sheet is on the left for every other person.  
@@ -426,7 +426,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - **s1 (5 min)**  
   *Parent does:* Show your child the cardboard strip. Explain that you will mark it so that it shows reaction time in seconds. Ask for a guess about what changes the time.  
   *Parent says:* We will make a ruler that shows your reaction time directly. Then we will test the whole family. Do you think a person is faster in the morning or in the evening? Is a person slower when their mind is busy? Why do you think so?  
-  *Child mode:* We make a ruler that shows time. Who is fastest? Does time of day matter? Why?
+  *Child mode:* We make a ruler that shows time. Then we test everyone at home.
   - Ask: What do you think might make a person faster or slower? (good: Being sleepy makes you slower.; Being busy thinking about something else makes you slower.; Practice makes you faster.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (12 min)**  
@@ -447,7 +447,7 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
   - Note: Results may be close, or noisy. If the numbers are about the same, that is a real result. Tiredness, hunger and mood can change reaction time, but only by a small amount.
   - Wait: Do this on day 2, at a different time of day from day 1.
 - **s5 (18 min)**  
-  *Parent does:* On day 3, test everyone while they count backwards from 100 in sevens. Then draw the league table and ask for the claim, evidence and reasoning.  
+  *Parent does:* On day 3, test everyone while they count backwards from 100 in sevens. Then write out the league table and ask for the claim, evidence and reasoning.  
   *Parent says:* Today you must catch the strip while counting backwards from 100 in sevens, out loud. What do you think will happen to your time? Then we will look at all three tests together and see who was fastest, and what changed.  
   *Child mode:* Count backwards from 100 in sevens. Catch the strip too. Is it harder?
   - Ask: Why might a busy mind slow down a reaction? (good: The brain has to do two jobs at once.; The decision to move waits for the counting.; Attention is shared and not all of it goes to the strip.)
@@ -464,9 +464,9 @@ That evening Ammamma sat on a stool and looked at Devika for a long time. 'Why d
 - **general:** A tap code that counts taps for each letter, one tap for A, two for B, and so on. It is simple and slow.; A grid code: write the alphabet in a 5 by 5 grid, and tap the row number, pause, then the column number for each letter.; Short and long taps like Morse code, with a pause between letters and a longer pause between words.; A code that only taps for the most common letters, and spells the rest out.
 - **creative:** Use six fingers or six spots on the hand as the six dots of a Braille cell, and tap the dots that make up each letter.; Use how hard the tap is as part of the code, soft and hard, so each tap carries two kinds of information.; Agree on short signs for common words like 'please', 'a' and 'me', to cut the time down.; Use pairs of taps in a rhythm, so the receiver recognises rhythms and not only counts taps.
 - **s1 (6 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to draw two or three different code ideas on paper.  
-  *Parent says:* You have to send a whole message with only taps on a hand. How could you turn letters into taps? Draw some ideas before you try them.  
-  *Child mode:* Send letters with taps only. Draw two ideas for a code.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to tap out two or three different code ideas on the table and say how each would work.  
+  *Parent says:* You have to send a whole message with only taps on a hand. How could you turn letters into taps? Tap out some ideas on the table before you try them.  
+  *Child mode:* Send letters with taps only. Tap out two ideas for a code.
   - Ask: What can a tap change to carry more information? (good: How many taps.; How long the pause is.; How hard the tap is.; Which finger or spot is tapped.)
 - **s2 (10 min)**  
   *Parent does:* Choose one code. Write it on paper. Practise sending the word 'TEA' and the word 'BOOK'. Swap roles and practise again.  

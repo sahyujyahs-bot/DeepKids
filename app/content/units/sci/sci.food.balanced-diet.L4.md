@@ -228,7 +228,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 - **Printable board: A feast mat for each player, to draw on a sheet of paper:** Draw three big boxes in a row. Label them ENERGY, BODY-BUILDING and PROTECTIVE.; Under the boxes, draw six small circles in a row. Write one taste by each circle: sweet, sour, salty, pungent, bitter and astringent.; At the bottom, write the word SCORE and leave a space for a number.
 - **s1 (3 min)**  
   *Parent does:* Cut out the 24 cards with blunt scissors. No printer? Copy the dish names onto 24 paper slips and let the parent read the back from the phone. Draw a feast mat for each player. Shuffle the cards into a pile with the dish names facing up. Give each player a pencil.  
-  *Parent says:* Today we will build a feast. Each dish gives energy, or builds the body, or protects it. Each dish also has tastes. Let us see how many we can fill.  
+  *Parent says:* Today we will build a feast. Each dish gives energy, or builds the body, or protects it. Each dish also has tastes. Let us see how many job boxes and taste circles we can fill.  
   *Child mode:* Cut out the cards. Draw your feast mat. Shuffle the cards.
   - Note: The game works for 1 to 4 players, and 24 cards give each of 4 players 6 cards. Some cards have fish or meat. Take out any card your family does not eat, and count the cards on the mats at the end. The game uses three food jobs. Energy foods are mostly grains, sugar and fats. Body-building foods are pulses, milk, eggs, fish, meat and nuts. Protective foods are vegetables and fruits. Explain these three jobs to your child, and explain the six tastes of shad rasa.
 - **s2 (6 min)**  
@@ -259,12 +259,12 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 - **predict:** Before you start, draw a tongue and mark where you think each taste is strongest: sweet, salty, sour and bitter. Say why you think so.
 - **fair test:** Every touch uses the same amount of liquid on a new cotton bud, for the same 2 seconds, with the tongue dried first. The tester has their eyes shut and does not know which cup is which. Only two things change: the taste and the part of the tongue. Plain water is the control. It checks whether the tester is really tasting or only guessing. The order of the touches is shuffled, so that no taste is always tested first or last.
 - **safety:** Every tester gets their own new buds and never shares a bud. Everything in the cups is ordinary food in tiny amounts. Do not test anyone who is allergic to lemon, karela or methi. A grown-up grates the karela. Use only drops of karela juice, and use a new bud for every touch. Never put a used bud back in a cup, and do not let the child bite the bud. Touch the back of the tongue gently, and stop at once if the child coughs or gags.
-- **record:** Write the taste that was said and the strength from 0 to 3 for every touch. Then colour a drawing of the tongue to show where each taste was named correctly.
+- **record:** Write the taste that was said and the strength from 0 to 3 for every touch. Then count how many times each taste was named correctly in each zone.
 - **results table:** Cup | Tip: taste said and strength (0 to 3) | Left edge: taste said and strength (0 to 3) | Right edge: taste said and strength (0 to 3) | Back: taste said and strength (0 to 3)
 - **s1 (5 min)**  
   *Parent does:* Draw a large tongue on paper. Ask your child to mark where they think sweet, salty, sour and bitter are strongest. Ask why. Write the guess down. Do not correct it.  
   *Parent says:* Here is a tongue. Where do you think sweet is strongest? Where is bitter strongest? Why do you think so?  
-  *Child mode:* Draw a tongue. Mark where each taste is strongest. Say why you think so.
+  *Child mode:* Draw a tongue and mark where each taste is strongest. Or point to the places on your own tongue. Say why you think so.
   - Ask: Why do you think that taste is strongest there? (good: My teacher showed a map like that.; I think the tip tastes sweet things first.; I am not sure, I am guessing.)
   - Note: Many children have seen the old tongue map in a book, and will draw it. That is fine. Write down exactly what they say, and do not say yet that the map is wrong. If your child does not know, ask them to guess anyway.
 - **s2 (7 min) · grown-up needed**  
@@ -286,9 +286,9 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
   - Note: Here is the order of the 20 touches. Each one gives the cup, then the part of the tongue. 1: sweet, back. 2: sour, tip. 3: water, left edge. 4: salty, right edge. 5: sweet, left edge. 6: water, back. 7: sour, right edge. 8: salty, tip. 9: water, right edge. 10: sweet, tip. 11: salty, left edge. 12: sour, back. 13: water, tip. 14: bitter, left edge. 15: salty, back. 16: sour, left edge. 17: sweet, right edge. 18: bitter, right edge. 19: bitter, back. 20: bitter, tip. With 2 to 4 children, give each child a job and swap after each tester: tester (eyes shut), toucher (dips and touches), recorder (writes the table), and timer or rinse-helper. Every child can do the whole list in turn, which takes about 15 minutes each. If time is short, split the list: the first tester does touches 1 to 7, the next 8 to 14, the next 15 to 20, and you pool all the dots on one tongue drawing. One child alone with a parent works as written. Bitter comes mostly at the end on purpose, because it lingers and would spoil the other tastes. Your child may start to guess bitter near the end. Note it if they do. Use a new bud every time. The left edge and right edge are about halfway back along the side. For the back, touch the middle of the tongue as far back as is comfortable. Some answers may be wrong, or the strength may be 0. That is a result. Write down exactly what the child says.
   - Check: Your child says 'sweet' for a touch of plain water. What does that mean for the test? → **Sometimes the tester guesses, so the other answers need careful reading**
 - **s5 (8 min)**  
-  *Parent does:* Draw a tongue with four zones. For each taste, put a coloured dot in every zone where it was named correctly. Count the dots. Ask your child to say what they thought, what they saw, and why. Then compare with their first guess.  
+  *Parent does:* Look at your list of 20 touches. For each taste, count how many times it was named correctly in each zone. Ask your child to say what they thought, what they saw, and why. Then compare with their first guess.  
   *Parent says:* Tell me three things. What did you think? What did you find? Why do you think it came out that way?  
-  *Child mode:* Colour a dot where each taste was named right. Say what you thought, what you found, and why.
+  *Child mode:* Count how often each taste was named right in each zone. Say what you thought, what you found, and why.
   - Note: Most children find that every taste was named correctly in most zones, though some were stronger than others. If nothing is tasted at the back, check that the bud was wet enough, and try again with a bit more liquid on the bud. The tip and the edges are often a little stronger than the middle, because they tend to have more taste buds. The back is often strongest for bitter. These differences are small and vary from person to person. If the dots do not look like that, say so. Messy results are real results. Wet buds, nerves and guessing can all spoil a result. After your child has said what they found, you can explain: taste buds for every taste are spread across the tongue. The old map came from a mistake in the 1940s. The card on the tongue map tells the whole story.
   - Think: Look at your first drawing. Which part did the test show to be wrong?
 ### e2 · Wake Up the Moong: what do soaking and sprouting change in a seed? (74 min, 3 days)
@@ -296,7 +296,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 - **predict:** Before you start, guess. Which will cook softest first: dry moong, soaked moong or sprouted moong? Why do you think so?
 - **fair test:** All three batches start as 50 grams of the same moong. Twelve seeds from each batch are counted out and tied loosely in a small cloth bag, with a different colour of string for each batch. All three bags cook together in the same big pan of gently boiling water, so the heat is exactly the same. Only the preparation differs: dry, soaked, or soaked and sprouted. The dry batch is the control. Each bag is tested for softness the same way, by pressing one cooled seed between thumb and finger.
 - **safety:** A grown-up does all the cooking, because the pan, the boiling water and the steam are hot. A grown-up lifts the bags out with a long spoon. Children stand back from the stove. They press a seed, on a plate or between thumb and finger, only after the seed has cooled for a minute. Do not eat raw sprouts if anyone at home is very young, old or ill. Wash sprouts well and cook them. This test cooks them well, so it is safe to taste at the end. Skip tasting if anyone has a pulse allergy.
-- **record:** Write the weights, the tail length and the cooking times in the table. Draw the three kinds of seed: dry, soaked and sprouted. Then write what you thought, what you saw and why.
+- **record:** Write the weights, the tail length and the cooking times in the table. Take a photo of the three kinds of seed, dry, soaked and sprouted, or draw them. Then write what you thought, what you saw and why.
 - **results table:** Seeds | Weight at the start (g) | Weight after soaking or sprouting (g) | Length of the tail (mm) | Minutes to turn soft
 - **schedule:** day 1: Guess which moong will cook fastest. Weigh three portions of moong. In the evening, put bowls B and C to soak in water. (12 min); day 2: In the morning, drain B and C for 2 minutes, then weigh them. Put B in fresh water in the fridge. Cover C with a damp cloth and let it sprout. Rinse C twice, morning and evening. (8 min); day 3: Weigh and measure all three. Cook 12 seeds of each in three bags in one pan and test every 5 minutes. Write what you found. (54 min)
 - **s1 (12 min)**  
@@ -313,9 +313,9 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
   - Check: The soaked moong weighs more than the dry moong. Where did the extra weight come from? → **Water that the seeds soaked up**
   - Wait: Leave C to sprout for about a day, rinsing the seeds in the morning and evening.
 - **s3 (8 min)**  
-  *Parent does:* On day 3, look at C. Measure the longest tail with a ruler in millimetres. Weigh A, B and C and write the weights. Count out 12 seeds from each bowl for the cooking test. Put the pan of water on to boil now. Draw one dry, one soaked and one sprouted seed.  
+  *Parent does:* On day 3, look at C. Measure the longest tail with a ruler in millimetres. Weigh A, B and C and write the weights. Count out 12 seeds from each bowl for the cooking test. Put the pan of water on to boil now. Lay one dry, one soaked and one sprouted seed side by side on a plate.  
   *Parent says:* Look closely at the three kinds of seed. What is different? How long is the tail on the sprouted ones?  
-  *Child mode:* Look at A, B and C. Measure a tail on C. Draw one seed of each kind.
+  *Child mode:* Look at A, B and C. Measure a tail on C. Lay one seed of each kind side by side. Tell a grown-up how they differ.
   - Ask: What is the white tail on the sprouted moong? (good: It is a root.; It is the start of a new plant.; The seed has woken up.)
   - Note: The weights will not be exact. Soaked moong often weighs roughly double the dry moong, but yours may differ. A tail is the first root, and a good length is a few millimetres to a centimetre. If your sprouts are very short, write that down. The seeds are alive, and have started to grow.
 - **s4 (40 min) · grown-up needed**  
@@ -338,8 +338,8 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 - **record:** Write each taste and its strength from 0 to 3. Then write the strength of the mixed pachadi, and which taste is the strongest in it.
 - **s1 (5 min)**  
   *Parent does:* Lay out the six ingredients, each in a separate spoon, with its name beside it. Ask your child which taste each one will have, and which they think will be the strongest.  
-  *Parent says:* Here are six ingredients. Which taste will each one have? Which do you think is the strongest? Why do you think so?  
-  *Child mode:* Look at the six spoons. Guess the taste of each one. Which is strongest?
+  *Parent says:* Here are six ingredients. Which taste will each one have? Which do you think is the strongest?  
+  *Child mode:* Look at the six spoons. Guess the taste of each one.
   - Ask: Which ingredient do you think will taste the strongest, and why? (good: The bitter one, because bitter is always strong.; The chilli, because it burns.; The jaggery, because it is very sweet.)
 - **s2 (8 min)**  
   *Parent does:* Taste the ingredients one by one. Rinse your mouth with water between each. After each, say the taste and score it from 0 to 3. Write the scores on the paper.  
@@ -355,13 +355,13 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
   - Check: Your pachadi tastes mostly of tamarind. What should you do to balance it? → **Add a little more of the other tastes, and not more tamarind**
 - **s4 (4 min)**  
   *Parent does:* Taste the finished pachadi from the tip, the side and the back of the tongue. Ask your child to say whether any taste is missing, and why a festival might begin with this dish.  
-  *Parent says:* Taste from the tip of your tongue, then the side, then the back. Can you find all six? Why do you think a festival begins with this?  
-  *Child mode:* Taste the pachadi. Can you find all six? Why start a year with it?
+  *Parent says:* Taste from the tip of your tongue, then the side, then the back. Can you find all six? Why do you think people eat this at the start of the new year?  
+  *Child mode:* Taste the pachadi. Can you find all six? Why eat it at the start of the new year?
   - Note: Tradition says the pachadi reminds us that a year holds joy, sadness, anger and surprise, and that we should take all of it. There is no single right answer. If the pachadi is hard to eat, a few spoonfuls is enough.
   - Think: Many families say the six tastes stand for the different feelings of the year to come. What do you think?
 ### a2 · The Seven-Day Food Diary: which group goes missing? (50 min, 7 days)
-- **record:** Make a mark for every dish you ate, in its row, each day. At the end, draw a pictograph with one picture standing for 2 marks.
-- **schedule:** day 1: Draw the table. Write down yesterday's food as a practice. Learn which row each food goes in. (10 min); day 2: In the evening, mark each food you ate today in its row. (5 min); day 3: In the evening, mark each food you ate today in its row. (5 min); day 4: In the evening, mark each food you ate today in its row. (5 min); day 5: In the evening, mark each food you ate today in its row. (5 min); day 6: In the evening, mark each food you ate today in its row. (5 min); day 7: Mark today's foods. Count each row. Draw a pictograph and say which group goes missing. (15 min)
+- **record:** Make a mark for every dish you ate, in its row, each day. At the end, make a pictograph with one bean, button or stone standing for 2 marks, and take a photo of it.
+- **schedule:** day 1: Draw the table. Write down yesterday's food as a practice. Learn which row each food goes in. (10 min); day 2: In the evening, mark each food you ate today in its row. (5 min); day 3: In the evening, mark each food you ate today in its row. (5 min); day 4: In the evening, mark each food you ate today in its row. (5 min); day 5: In the evening, mark each food you ate today in its row. (5 min); day 6: In the evening, mark each food you ate today in its row. (5 min); day 7: Mark today's foods. Count each row. Make a pictograph and say which group goes missing. (15 min)
 - **s1 (10 min)**  
   *Parent does:* Draw the table with 7 columns and 4 rows. Talk through yesterday's food and mark it in a practice column. Check each dish goes in the right row. A dish can go in more than one row.  
   *Parent says:* Let us practise with yesterday. What did you eat? Which job does it do? A dish can do more than one job, so it can go in more than one row.  
@@ -374,9 +374,9 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
   *Child mode:* Write down what you ate today. Mark a row for each dish.
   - Note: Repeat this each evening for days 2 to 6. If your child forgets a meal, ask what they had at school or at a friend's home. A snack counts. Do not change meals to make a better diary. With 2 to 4 children, each child keeps their own diary, because school lunches and snacks differ. Compare the pictographs on day 7.
 - **s3 (10 min)**  
-  *Parent does:* On day 7, mark today's food. Count the marks in each row. Draw a pictograph with one picture for every 2 marks. Mark the shortest row with a circle.  
+  *Parent does:* On day 7, mark today's food. Count the marks in each row. Make a pictograph on the table. In each row, put one bean, button or stone for every 2 marks. Mark the shortest row with a circle.  
   *Parent says:* Let us count each row. One picture stands for two marks. Which row is longest? Which is shortest?  
-  *Child mode:* Count each row. Draw one picture for every 2 marks.
+  *Child mode:* Count each row. Put one bean for every 2 marks.
   - Ask: What does your pictograph show? Is any row empty or very short? (good: The protective row is the shortest.; We eat a lot of energy foods.; The snack row is bigger than I thought.)
   - Check: A diary shows many energy foods and very few protective foods. What should the family do? → **Add more vegetables and fruits over the next week, without blaming anyone**
 - **s4 (5 min)**  
@@ -390,7 +390,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 - **s1 (8 min)**  
   *Parent does:* Draw a wheel of twelve months. Place six foods on it. Pongal sweet goes in January, and til-gul at Makar Sankranti goes in January too. Ugadi pachadi goes in March or April, and Bihu pitha in January (Magh Bihu) or April (Bohag Bihu). Onam sadya goes in August or September, and Diwali sweets in October or November.  
   *Parent says:* Here is a wheel of the year. Let us put six festival foods on it, each in the month where it belongs.  
-  *Child mode:* Draw a wheel with 12 months. Put six festival foods in their months.
+  *Child mode:* Draw a wheel of 12 months, or lay 12 slips in a circle. Put six festival foods on it.
   - Ask: Which foods are close together on the wheel? Which are far apart? (good: Pongal and til-gul are both in January.; Diwali sweets are far from Ugadi.; There is a gap in the summer.)
   - Note: Festival dates change a little each year. Eid moves through the whole year, because it follows the moon. Pongal, Sankranti and Lohri fall in mid-January. Onam is in August or September. Diwali is in October or November.
 - **s2 (8 min)**  
@@ -401,7 +401,7 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
 - **s3 (9 min)**  
   *Parent does:* Ask a grown-up one question: what is made for one festival at home, and why? Write down what they say, and add the dish to your wheel with its food job.  
   *Parent says:* Ask someone: what is made at your home for one festival? Why is that dish made? Write down what they tell you.  
-  *Child mode:* Ask a grown-up what they cook for a festival, and why. Write it down.
+  *Child mode:* Ask a grown-up what they cook for a festival, and why. Write it down, or say it back to them.
   - Note: With 2 to 4 children, each child asks a different person and adds their dish to the one shared wheel. Listen to the answer without correcting it. Families often have a reason that goes beyond nutrition: it is what a mother made, it keeps well, or it is shared with neighbours. These reasons are part of the answer. Add a dish from your own family's tradition to the wheel.
   - Think: Why do people cook special food on special days, and not the same food every day?
 ### a4 · Millet Hunt: find, cook and compare (25 min)
@@ -477,9 +477,9 @@ In June, Ajji was drinking her morning coffee when she stopped, with the steel t
   *Child mode:* Pick 5 or 6 dishes. Write who can eat each one.
   - Check: A dish of dal with a spoon of groundnut chutney on top is on the menu. What should you do? → **Change it, or serve the chutney separately, since one guest is allergic to groundnuts**
 - **s3 (8 min)**  
-  *Parent does:* Colour the six taste circles for the whole menu. If any is missing, change a dish or add a small one. Write the final menu with a note on each dish.  
+  *Parent does:* Put a coin or button on each of the six taste circles that the menu covers. If any is missing, change a dish or add a small one. Write the final menu with a note on each dish.  
   *Parent says:* Which tastes are on the menu now? Which are missing? What small dish could fill the gap?  
-  *Child mode:* Colour the taste circles. Add a small dish for any missing taste.
+  *Child mode:* Put a coin on each taste circle your menu has. Add a small dish for any missing taste.
 - **s4 (7 min)**  
   *Parent does:* Show your menu to a grown-up. Ask what they would change. Write down one thing you would change after hearing them.  
   *Parent says:* Show your menu to someone. Ask what they would change. Do you agree with them?  

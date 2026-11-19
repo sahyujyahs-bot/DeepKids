@@ -715,8 +715,8 @@
           "id": "s2",
           "mins": 4,
           "do": "Play a practice card together. Read the first clue and choose a layer. Then check the back.",
-          "say": "Here is a practice clue. It says the layer is where the Sun's energy is made. Which layer is that?",
-          "kid": "Read a practice clue. Pick a layer. Check the back.",
+          "say": "Here is a practice clue. It says: this layer is where the Sun's energy is made.",
+          "kid": "Place the practice clue by the layer you think it is. Then check the back.",
           "check": {
             "t": "mcq",
             "q": "Where is the Sun's energy made?",
@@ -752,8 +752,8 @@
           "id": "s4",
           "mins": 4,
           "do": "Count the points and find the winner. Then ask the question below.",
-          "say": "Look at the stack. Which layer has the most clue cards? Why do you think that is?",
-          "kid": "Count points. Look at the stack. Which layer has the most clues?",
+          "say": "Count the points. Then look at the Sun we built. We can only see into it as far as one layer.",
+          "kid": "Count the points. Look at the layers you built.",
           "check": {
             "t": "mcq",
             "q": "Why can we see into the Sun only as far as the photosphere?",
@@ -956,8 +956,8 @@
           "id": "s2",
           "mins": 3,
           "do": "Play one practice card. The reader reads the first card and the team gives an answer. Check the back together.",
-          "say": "Here is a practice event. A flare has flashed. When does its light reach the Earth? Talk together.",
-          "kid": "Read a practice card. Talk as a team. Check the back.",
+          "say": "Here is a practice event. A flare has flashed on the Sun. Talk together about it.",
+          "kid": "Talk as a team about the practice card. Then check the back.",
           "check": {
             "t": "mcq",
             "q": "A flare flashes on the Sun. How long does its light take to reach the Earth?",
@@ -993,8 +993,8 @@
           "id": "s4",
           "mins": 4,
           "do": "Count the shields. Decide if the team won. Talk about the hardest card.",
-          "say": "Count the shields on the Earth. Did we win? Then think about the cards on the flare and the cloud. Which one arrives first, and why?",
-          "kid": "Count your shields. Did the team win? Which arrives first, a flare's light or a storm cloud? Why?",
+          "say": "Count the shields on the Earth. Did we win? Then look at the cards about a flare and a cloud.",
+          "kid": "Count your shields. Did the team win?",
           "check": {
             "t": "mcq",
             "q": "Why do storm clouds from the Sun take longer to arrive than a flare's light?",
@@ -1065,8 +1065,8 @@
           "what": "You can see right through a glass of clear water. When you add a little milk, how far into the cloudy water can you see? And does a cloud have an edge?"
         }
       ],
-      "record": "Fill in the table. Draw the jar twice: once with clear water and once with a lot of milk. Show where the black patch faded from sight.",
-      "context": "In this experiment, you make a cloud in a jar and find out how far you can see into it. You are testing what the edge of a glowing ball of gas really is.",
+      "record": "Fill in the table. Show the jar twice, once with clear water and once with a lot of milk, and where the black patch faded from sight. Draw it, or take two photos.",
+      "context": "In this experiment, you make a cloud in a jar and find out how far you can see into it. You will find out whether a cloud has a sharp edge, as the Sun's glowing edge seems to.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results",
@@ -1121,7 +1121,7 @@
           "mins": 5,
           "do": "Show your child the jar, the water, the card and the milk. Ask for a guess and a reason. Write the guess down.",
           "say": "We will make a cloud in a jar. The black patch on this card is easy to see in clear water. If I add a little milk, how deep can you see it? Why do you think so?",
-          "kid": "Guess first. How deep can you see the black patch in milky water? Why?",
+          "kid": "Make a guess and say why you think so.",
           "ask": [
             {
               "q": "What do you think the milk will do to the black patch?",
@@ -1274,8 +1274,8 @@
           "what": "When a pot of water is heated from below, which way does the water move? Does it go round in loops, and how long does one loop take?"
         }
       ],
-      "record": "Fill in the table. Draw the pan from above, with arrows showing which way the specks went. Mark where they rose and where they sank.",
-      "context": "In this experiment, you warm a pan of water and watch pepper specks to see how hot water moves. The Sun's surface moves in a similar way.",
+      "record": "Fill in the table. Show where the specks rose and where they sank. Draw the pan from above with arrows, or point and tell your grown-up.",
+      "context": "In this experiment, you warm a pan of water and watch pepper specks to see how hot water moves. You will find out which way hot water moves, and why the Sun's surface churns in a similar way.",
       "setup": [
         {
           "art": "A wide steel pan of water on a stove with a low flame and half a teaspoon of pepper sprinkled evenly on top, seen from above.",
@@ -1296,7 +1296,7 @@
           "mins": 4,
           "do": "Show your child the pan, the water and the pepper. Ask for a guess and a reason. Write it down.",
           "say": "We will warm this water slowly and sprinkle pepper on it. Will the water stay still, or will it move before it boils? If it moves, where? Why do you think so?",
-          "kid": "Guess first. Will the water move? Where? Why do you think so?",
+          "kid": "Make a guess and say why you think so.",
           "ask": [
             {
               "q": "Where in the pan do you think the water will move first?",
@@ -1449,7 +1449,7 @@
           "what": "White light is a mix of colours. When you split the light from a white torch, a candle and a red torch, do they all make the same band of colours?"
         }
       ],
-      "record": "Fill in the table. Draw the colour band for each light, in order, with the colours you saw.",
+      "record": "Fill in the table. Show the colour band for each light, in order. Draw it, or tell your grown-up the colours you saw.",
       "context": "In this experiment, you use a CD to spread light into its colours. You find out whether every light makes the same rainbow, as a step towards how astronomers read the Sun.",
       "setup": [
         {
@@ -1471,7 +1471,7 @@
           "mins": 4,
           "do": "Show your child the CD, the torch, the candle and the red cellophane. Ask for a guess and a reason. Write it down.",
           "say": "We will use a CD to split light into colours. We will look at a white torch, a candle and a red torch. Will they make the same rainbow? Why do you think so?",
-          "kid": "Guess first. Will the three lights make the same rainbow? Why?",
+          "kid": "Make a guess and say why you think so.",
           "ask": [
             {
               "q": "What do you think a red torch will show?",
@@ -1489,8 +1489,8 @@
           "id": "s2",
           "mins": 6,
           "do": "1. Tape two black cards to a torch. 2. Leave a thin gap between them, about as thin as a coin's edge. 3. Make the room dark. 4. Switch on the torch. 5. Stand 2 metres away.",
-          "say": "Tape two black cards over the torch, nearly touching. Leave a very thin gap between them. This makes a thin line of light, like a slit.",
-          "kid": "Tape two cards over the torch. Leave a thin gap. Switch it on in the dark.",
+          "say": "We need a very thin line of light. A line like that is called a slit.",
+          "kid": "Switch the torch on in the dark. Look at the thin line of light.",
           "parent": "The slit must be thin, about 1 millimetre. If the line is too wide, the colours smear and you will see only a smudge. Practise holding the torch steady, or rest it on a book. Hold the CD close to your eye and look at the reflection of the slit in it. Turn the CD round in your hand, like a plate, until the colours stretch sideways from the line.",
           "check": {
             "t": "mcq",
@@ -1603,8 +1603,8 @@
           "what": "The Sun in Pictures: what do you notice?"
         }
       ],
-      "record": "Draw the Sun as you saw it in the picture. Write three things you notice, and one question.",
-      "context": "This is a quick start to the unit. You look at real pictures of the Sun and wonder about its edge, its spots and its glow.",
+      "record": "Tell or write three things you notice in the picture, and one question. You can draw the Sun too, if you like.",
+      "context": "You will look closely at a real picture of the Sun. You will find out what its edge, its spots and its glow look like.",
       "setup": [
         {
           "art": "A child holding a phone that shows a round picture of the Sun with dark spots and bright loops.",
@@ -1612,7 +1612,7 @@
         },
         {
           "art": "A child drawing the Sun on paper, with a ring round it and three notes.",
-          "caption": "2. Draw what you see and write three things you notice."
+          "caption": "2. Point to three things you notice and say what they are."
         }
       ],
       "flow": [
@@ -1621,7 +1621,7 @@
           "mins": 4,
           "do": "Open a recent picture of the Sun taken by a spacecraft. A grown-up can search for the Solar Dynamics Observatory pictures. Look together for one minute without talking.",
           "say": "Look at the Sun. Take a whole minute. What do you notice? What do you wonder?",
-          "kid": "Look at the picture of the Sun. What do you notice? What do you wonder?",
+          "kid": "Look closely at the picture of the Sun for one whole minute.",
           "ask": [
             {
               "q": "Is there a sharp edge to the Sun? Is there anything beyond the edge?",
@@ -1638,9 +1638,9 @@
         {
           "id": "s2",
           "mins": 4,
-          "do": "Ask your child to draw the Sun and note three things. Then ask the question below.",
-          "say": "Draw what you saw. Write three things you noticed. Here is a puzzle. If we flew to the Sun, where would we put our feet?",
-          "kid": "Draw the Sun. Write three things you noticed. Where would you land?",
+          "do": "Ask your child to point to three things in the picture and say what each one is. Then ask the question below.",
+          "say": "Point to three things you noticed and tell me what they are. Here is a puzzle. If we flew to the Sun, where would we put our feet?",
+          "kid": "Point to three things you noticed. Tell your grown-up what each one is.",
           "check": {
             "t": "mcq",
             "q": "If a spacecraft tried to land on the Sun, what would it find?",
@@ -1693,8 +1693,8 @@
           "what": "Spin the Orange: how a spot proves the Sun turns"
         }
       ],
-      "record": "Draw the orange at three positions: spot at the edge coming in, spot in the middle, spot at the edge going out. Write how many seconds the spot was hidden.",
-      "context": "In this activity, you make a model Sun from an orange and follow a spot as it turns. You find out how a spot crosses, hides and comes back, as in the story The Spot That Went Round the Back.",
+      "record": "Show the orange at three positions: spot at the edge coming in, spot in the middle, spot at the edge going out. Take three photos, or draw them. Write how many seconds the spot was hidden.",
+      "context": "In this activity, you make a model Sun from an orange and follow a spot as it turns. You will find out whether a sunspot that vanishes at the edge has died, or has gone round the back.",
       "setup": [
         {
           "art": "An orange pushed on a pencil with three round stickers stuck at different places, held up in front of a lamp.",
@@ -1856,8 +1856,8 @@
           "what": "A Stream Past a Stone: how a wind flows round the Earth"
         }
       ],
-      "record": "Draw the tray from above, with the katori and arrows showing how the water flowed round it. Mark where the water was calm behind the katori.",
-      "context": "In this activity, you make a model of the Sun's wind flowing past the Earth. You see how a stream bends round an obstacle.",
+      "record": "Show how the water flowed round the katori, and where it was calm behind it. Draw the tray from above with arrows, or point and tell your grown-up.",
+      "context": "In this activity, you make a model of the Sun's wind flowing past the Earth. You will find out how a stream of water bends round something in its way, as the Sun's wind bends round the Earth.",
       "setup": [
         {
           "art": "A tray tilted on a book with an upside-down katori at the centre and a jug of water ready at the high end.",
@@ -1874,7 +1874,7 @@
           "mins": 4,
           "do": "Show your child the tray, the katori and the jug. Ask for a guess and a reason.",
           "say": "The katori is the Earth, and the water is the wind from the Sun. When I pour water from the top, what will it do when it meets the katori? Why do you think so?",
-          "kid": "Guess first. What will the water do when it reaches the katori? Why?",
+          "kid": "Make a guess and say why you think so.",
           "ask": [
             {
               "q": "What do you think will happen behind the katori?",
@@ -1985,12 +1985,12 @@
           "what": "Copy the spot on to circle 5. Make the table. Predict when the spot will reach the edge."
         }
       ],
-      "record": "Draw a spot on each sheet and measure its position from the line through the middle. Write the distance it moved each day. Then work out when it will reach the edge.",
+      "record": "Mark a dot for the spot on each sheet and measure its position from the line through the middle. Write the distance it moved each day. Then work out when it will reach the edge.",
       "context": "In this project, you follow a real sunspot for five days using pictures from a spacecraft. You work out how fast it moves and when it will reach the edge of the Sun.",
       "setup": [
         {
           "art": "A phone showing the Sun with a dark spot, beside a sheet of paper with a 10 centimetre circle and a pencil dot where the spot is.",
-          "caption": "1. Look at the Sun's picture. Copy the spot on to your circle."
+          "caption": "1. Look at the Sun's picture. Mark a dot for the spot on your circle."
         },
         {
           "art": "Five paper circles in a row, each with the dot a little further across, and a ruler measuring the gap.",
@@ -2001,9 +2001,9 @@
         {
           "id": "s1",
           "mins": 10,
-          "do": "On day 1, find a recent picture of the Sun with at least one dark spot. Copy the Sun's circle and the spot on to your paper circle. Measure how far the spot is from the line through the middle. Write the date.",
-          "say": "We will follow a spot for five days. Find a picture with a clear spot, near the middle or at one side. Copy it on to your circle and measure from the middle line. Write the number.",
-          "kid": "Find a picture with a spot. Copy it on to your circle. Measure its place.",
+          "do": "On day 1, find a recent picture of the Sun with at least one dark spot. Mark a dot on your paper circle in the same place as the spot. Measure how far the dot is from the line through the middle. Write the date.",
+          "say": "We will follow a spot for five days. Find a picture with a clear spot, near the middle or at one side. Mark a dot for it on your circle and measure from the middle line. Write the number.",
+          "kid": "Find a picture with a spot. Mark it with a dot on your circle. Measure its place.",
           "adult": true,
           "ask": [
             {
@@ -2021,9 +2021,9 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "On day 2, find the new picture. Copy the spot on to a new circle. Measure its place and write the date.",
-          "say": "Day 2. Has the spot moved? Which way? Copy it on to a new circle, measure, and write the number.",
-          "kid": "Find today's picture. Copy the spot. Measure its place.",
+          "do": "On day 2, find the new picture. Mark the spot with a dot on a new circle. Measure its place and write the date.",
+          "say": "Day 2. Has the spot moved? Which way? Mark it with a dot on a new circle, measure, and write the number.",
+          "kid": "Find today's picture. Mark the spot with a dot. Measure its place.",
           "parent": "Make sure it is the same spot. Spots keep their shape for several days, so you can match them by size and by the spots round them.",
           "wait": "Leave it until tomorrow",
           "context": "This is day 2 of the Sunspot Diary. You copy the same spot again."
@@ -2031,9 +2031,9 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "On days 3 and 4, do the same. Copy the spot and measure its place on a new circle each day.",
+          "do": "On days 3 and 4, do the same. Mark the spot with a dot and measure its place on a new circle each day.",
           "say": "Days 3 and 4. Keep following your spot. Measure each day. Is it moving the same distance each day?",
-          "kid": "Copy the spot. Measure its place. Do the same tomorrow.",
+          "kid": "Mark the spot with a dot. Measure its place. Do the same tomorrow.",
           "ask": [
             {
               "q": "Is the spot moving the same distance every day?",
@@ -2049,7 +2049,7 @@
         {
           "id": "s4",
           "mins": 10,
-          "do": "On day 5, copy the spot for the last time. Make a table of the five places. Find how far the spot moved each day by subtracting each day's place from the next day's. Find the average. Use it to say when the spot will reach the edge.",
+          "do": "On day 5, mark the spot with a dot for the last time. Make a table of the five places. Find how far the spot moved each day by subtracting each day's place from the next day's. Find the average. Use it to say when the spot will reach the edge.",
           "say": "Day 5. Let's make a table. How far did the spot move each day? Subtract each day's number from the next day's to find out. Then work out how many more days to the edge.",
           "kid": "Make a table of the five places. Find how far it moved each day.",
           "ask": [
@@ -2126,7 +2126,7 @@
         "Make a stand with two pencils, so you can see the Sun's east-west direction as well as its height.",
         "Ask a neighbour with solar panels how their panels are tilted and compare with your answer."
       ],
-      "your_turn": "Now design your own stand. Draw it, build it and test it at noon. What tilt did you find? Is it closer to your city's latitude, or higher, or lower? Why might it change in other months?",
+      "your_turn": "Now design your own stand. Draw it or tell your grown-up your plan, then build it and test it at noon. What tilt did you find? Is it closer to your city's latitude, or higher, or lower? Why might it change in other months?",
       "context": "This is a design challenge about the angle of the Sun. You use a pencil shadow to find the tilt that makes a card face the Sun straight on, and decide what tilt is best for a solar panel.",
       "setup": [
         {
@@ -2142,9 +2142,9 @@
         {
           "id": "s1",
           "mins": 6,
-          "do": "Read the problem together. Look at the constraints. Ask your child to draw how they think the card will sit at noon in your city.",
-          "say": "A solar panel works best when it faces the Sun straight on. At noon, will the card lie flat, lean a little, or stand nearly upright? Draw what you think.",
-          "kid": "A panel works best facing the Sun. Will the card lie flat or lean? Draw it.",
+          "do": "Read the problem together. Look at the constraints. Ask your child to show, by holding the card, how they think it will sit at noon in your city.",
+          "say": "A solar panel works best when it faces the Sun straight on. At noon, will the card lie flat, lean a little, or stand nearly upright? Hold the card the way you think it will sit.",
+          "kid": "A panel works best facing the Sun. Hold the card the way you think it will sit at noon.",
           "ask": [
             {
               "q": "In what month and in what city is the card most likely to lie nearly flat?",
@@ -2181,7 +2181,7 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "1. Hold the protractor against the side of the card and the floor. 2. Read the angle between them. 3. Write it down with the date and time. 4. Look up your city's latitude with a grown-up.",
+          "do": "1. Hold the protractor against the side of the card and the floor. 2. Read the angle between them. 3. Write it down with the date and time. 4. With a grown-up, look up your city's latitude. Latitude tells how far north of the equator your city is.",
           "say": "Now measure the tilt with the protractor. Write down the angle, the date and the time. What is your city's latitude?",
           "kid": "Measure the tilt. Write the angle, the date and the time.",
           "ask": [
@@ -2200,9 +2200,9 @@
         {
           "id": "s4",
           "mins": 9,
-          "do": "Talk about what you found and what you would change.",
+          "do": "Listen to your child's answers. Then ask the question below.",
           "say": "What tilt did you find? Would it be the same in June? What would you set for a panel that stays fixed all year?",
-          "kid": "What tilt did you find? Would it be the same in June?",
+          "kid": "Tell your grown-up what you found and what you would change.",
           "check": {
             "t": "mcq",
             "q": "A panel is fixed in one place all year. Which tilt is a good compromise?",

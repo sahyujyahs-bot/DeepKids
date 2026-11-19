@@ -233,14 +233,14 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 - **results table:** Load in the box | Gap between the dots, try 1 (cm) | Gap between the dots, try 2 (cm) | Gap between the dots, try 3 (cm) | Typical stretch: the middle one of the three gaps, minus the 4 cm the dots start apart (cm)
 - **s1 (5 min)**  
   *Parent does:* Show your child the box, the packets and the band. Ask for both guesses, and for a reason for each. Write them down.  
-  *Parent says:* We will add weight to a box and pull it along the floor. How much harder will two packets be than one? Why do you think so? Then I will ask a second question.  
-  *Child mode:* Guess two things. How much harder is the box to pull with two packets? Which side needs a bigger pull? Why?
+  *Parent says:* We will add packets to a box and pull it along the floor. How much harder will two packets be to pull than one? Why do you think so?  
+  *Child mode:* Guess how much harder two packets are to pull than one. Say why. Then answer the question below.
   - Ask: Which side of the box will need the bigger pull, the big face or the narrow end? Why do you think so? (good: The big face, because more of it touches the floor.; The narrow end, because it is pressed harder.; They are the same.)
   - Note: Do not correct the guesses. Any guess with a reason is a good start. Most people think the big face will grip more. Write the guesses at the top of the table.
 - **s2 (8 min)**  
   *Parent does:* Lay the rubber band flat and draw two dots on it, 4 centimetres apart. Loop the band round the end of the box. Tape the lid shut. Put the box on the floor.  
   *Parent says:* Mark two dots on the band, 4 centimetres apart. When the band stretches, the dots move apart. The gap tells us how hard we pull.  
-  *Child mode:* Draw two dots on the band, 4 cm apart. Loop the band round the box.
+  *Child mode:* Mark two dots on the band, 4 cm apart. Loop the band round the box.
   - Note: A broad, flat band works best. If the band stretches more than about 15 centimetres with three packets, use two bands side by side. If it stretches less than 1 centimetre with one packet, use a thinner band. A forcemeter from Class 3 also works. Read newtons instead of centimetres.
   - Check: Why do we mark two dots on the band? → **The gap between the dots shows how hard we pull**
 - **s3 (15 min)**  
@@ -257,9 +257,9 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   - Ask: Which face needed the bigger pull? Were you surprised? (good: They were nearly the same.; The big face needed a little more pull.; I thought the big face would need much more pull.)
   - Note: For a cardboard box, the two results are usually within about 10 per cent of each other. Differences of one or two millimetres are noise. If one face has a rougher cardboard surface, the result can differ, so tape a piece of smooth paper under both faces if you can. Fix the band low on the box, near the floor, in both positions. A band that pulls high up on the tall narrow end tips the box and spoils the test. In damp weather cardboard bottoms get rougher, so do both faces on the same day.
 - **s5 (4 min)**  
-  *Parent does:* Draw a line graph. Put the packets along the bottom and the stretch up the side. Ask your child to say their claim, their evidence and their reason.  
+  *Parent does:* Make a line graph with the packets along the bottom and the stretch up the side. If your child would rather not draw, lay pencils side by side, each as long as one stretch. Ask your child to say their claim, their evidence and their reason.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw your graph. Say what you thought, what you saw and why.
+  *Child mode:* Make your graph, or lay a pencil as long as each stretch. Say what you thought, what you saw and why.
   - Note: Wait for the child's own reason first. Then you can say: friction grows with how hard the surfaces press together, which is the weight on the floor. A wide face spreads the same weight over more of the tiny bumps on the floor, and a narrow face puts it on fewer. The total grip stays about the same. Surfaces touch only at the tops of their bumps, and pressing harder makes more of them touch.
   - Think: If the face on the floor does not matter, what does the grip depend on?
 ### e2 · Wrap the Thread: how many turns hold the bottle? (40 min)
@@ -273,11 +273,11 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   *Parent does:* Show your child the pencil, the bottle and the clips. Ask how many clips one turn will need, and ask for the reason. Write the guess down.  
   *Parent says:* A bottle hangs from this thread. After the thread goes round the pencil once, how many clips do you think will hold the bottle? Why do you think so?  
   *Child mode:* Guess how many clips one turn needs. Say why you think so.
-  - Ask: Will each extra turn take away the same number of clips, or the same share of the clips? Why do you think so? (good: The same number, because each turn does the same job.; The same share, because each turn multiplies the grip.; I do not know, so I will test it.)
+  - Ask: Will each extra turn take away the same number of clips, or the same fraction of the clips left, such as half? Why do you think so? (good: The same number, because each turn does the same job.; The same share, because each turn multiplies the grip.; I do not know, so I will test it.)
   - Note: Do not correct the guesses. Few people guess a number close to the real one. Write the guess at the top of the table.
 - **s2 (8 min)**  
   *Parent does:* Tape the pencil so 8 centimetres stick out past the table edge. Put a heavy book on the taped end. Tie one end of the thread round the bottle's neck. Tie a small bag to the other end.  
-  *Parent says:* Tape the pencil to the table so it sticks out past the edge. Put a heavy book on the taped end. Tie the bottle to one end of the thread and the bag to the other.  
+  *Parent says:* First we build the test. The thread will go round the pencil. The bottle hangs on one end and the clips go in the bag on the other.  
   *Child mode:* Tape the pencil so it sticks out. Tie the bottle to the thread. Tie the bag to the other end.
   - Note: The pencil must not roll. Use a round pencil, because a six-sided pencil has corners that grip like gears. Put the cushion on the floor under the bottle. If the thread keeps slipping off the end of the pencil, tape a small stopper of paper at the tip.
   - Check: Why do we use the same bottle, thread and pencil each time? → **So only the number of turns changes**
@@ -304,7 +304,7 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 ## Activities
 ### a1 · The Walking Ruler: two fingers that take turns (15 min)
 - **safety:** Keep the ruler low over a table, so that it cannot fall on a foot.
-- **record:** Draw the ruler and mark where your fingers met each time. Write which finger slid first. Measure from the 0 end, in centimetres, where the fingers met without the clay and with the clay. Then balance the ruler on one finger and measure its balance point, and compare it with where the fingers met.
+- **record:** Take a photo of the ruler where your fingers met each time, or draw it. Write which finger slid first. Measure from the 0 end, in centimetres, where the fingers met without the clay and with the clay. Then balance the ruler on one finger and measure its balance point, and compare it with where the fingers met.
 - **s1 (4 min)**  
   *Parent does:* Rest the ruler flat on your two index fingers, near its ends. Ask your child where the fingers will meet when they slide together. Ask why.  
   *Parent says:* Hold the ruler on two fingers, far apart. Slide your fingers slowly together. Where do you think they will meet? Why do you think so?  
@@ -313,8 +313,8 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 - **s2 (5 min)**  
   *Parent does:* Slide both fingers slowly together. Do not look away. Watch which finger slides and which finger stays still. Mark the meeting point.  
   *Parent says:* Slide your fingers together slowly. Watch which finger moves. Do both fingers ever slide at the same time? Where do they meet?  
-  *Child mode:* Slide your fingers together slowly. Which finger moves first? Where do they meet?
-  - Ask: What did your fingers do? (good: They took turns sliding.; They met in the middle.; One finger stuck while the other slid.)
+  *Child mode:* Slide your fingers together slowly. Watch the ruler and your fingers.
+  - Ask: Which finger moved first? Did both slide at once? Where did they meet? (good: They took turns sliding.; They met in the middle.; One finger stuck while the other slid.)
   - Note: The fingers take turns because of stick-slip. The finger nearer the middle carries more of the ruler's weight, so it presses harder and its friction is bigger. It stays stuck, and the other finger slides. As the sliding finger gets nearer the middle, it carries more weight and its friction grows, until it sticks and the first finger slides instead. They always meet at the balance point, which is the middle of a plain ruler.
 - **s3 (6 min)**  
   *Parent does:* Stick the clay on one end of the ruler. Guess where the fingers will meet now. Slide them together again, and mark the new meeting point.  
@@ -337,9 +337,9 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   *Child mode:* Pull the box steadily. Read the gap while it moves. Do it three times.
   - Note: Read the gap while the box is moving, not just before it moves. Sliding friction is a little less than starting friction. If you have a helper, one person pulls and one reads the gap.
 - **s3 (8 min)**  
-  *Parent does:* Lay three pencils side by side. Put the box on them. Pull gently. When the box rolls off the back pencil, move that pencil to the front. Read the gap. Do it three times.  
-  *Parent says:* Put the box on the pencils and pull. As the box rolls forward, it leaves the back pencil behind. Move that pencil to the front. Read the gap while the box rolls.  
-  *Child mode:* Put the box on three pencils. Pull it. Read the gap while it rolls.
+  *Parent does:* Lay three pencils side by side. Put the box on them. Pull gently. When the box rolls off the back pencil, move that pencil to the front. Read the gap. Do it three times. If you have marbles, spread them in the tray. Lay the cardboard on them and set the box on it. Pull the cardboard slowly and read the gap.  
+  *Parent says:* Put the box on the pencils and pull. As the box rolls forward, it leaves the back pencil behind. Move that pencil to the front. Read the gap while the box rolls. Then, if you have marbles, try the same on the marbles.  
+  *Child mode:* Put the box on three pencils. Pull it. Read the gap while it rolls. Try marbles too, if you have them.
   - Ask: How did the gap between the dots change? (good: It got much smaller.; The band barely stretched.; The box rolled with a tiny pull.)
   - Note: Many families see a gap that is half or less of the sliding gap, and sometimes much less. Marbles, if you have them, go even lower. Rolling friction is smaller, but it is not zero. The box and the pencils squash a little as they roll. Who does what: one child pulls, one reads the dots, one moves the pencils. Alone, film the dots and move the pencils yourself between short pulls.
   - Check: Why is the pull smaller on pencils? → **The pencils roll, so nothing rubs and slides at the touching spot**
@@ -373,9 +373,9 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   *Child mode:* Why do fingers wrinkle? Will they pick up wet marbles faster? Why?
   - Note: Scientists disagree about what wrinkles are for. Do not tell your child the answer. Any guess with a reason is good.
 - **s2 (20 min)**  
-  *Parent does:* Soak one hand in warm water for 20 minutes. Do something else with the other hand, such as drawing or reading, while you wait.  
-  *Parent says:* Soak one hand for twenty minutes. Draw or read with the other hand while you wait.  
-  *Child mode:* Soak one hand for 20 minutes. Draw while you wait.
+  *Parent does:* Soak one hand in warm water for 20 minutes. Do something else with the other hand, such as reading or a quiet game, while you wait.  
+  *Parent says:* Soak one hand for twenty minutes. Read or play a quiet game with the other hand while you wait.  
+  *Child mode:* Soak one hand for 20 minutes. Read while you wait.
   - Note: Wrinkling can take 5 to 30 minutes, depending on the person and the water. If the fingers have not wrinkled after 20 minutes, top up the bowl with warm water, because it cools. Some people wrinkle slowly. Wrinkling is controlled by the nerves, and it can fail in people with some nerve injuries.
   - Wait: Wait 20 minutes for the fingers to wrinkle.
 - **s3 (12 min)**  
@@ -391,14 +391,14 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
 ## Challenges
 ### c1 · Lower the Load: hold a heavy bottle with one finger (40 min)
 - **problem:** Lower a 500 millilitre bottle of water from a table to the floor at a slow, steady speed, taking about 10 seconds. You may hold the thread with only one finger and thumb. Find a way of winding the thread that works with the fewest turns.
-- **your turn:** Sketch your design and say how many turns you expect to need. Try it. Change one thing at a time. Which design lowered the bottle most smoothly? How do you know?
+- **your turn:** Show or sketch your design and say how many turns you expect to need. Try it. Change one thing at a time. Which design lowered the bottle most smoothly? How do you know?
 - **constraints:** Use only cotton thread or string, and things you can find in the kitchen or on your desk as posts, such as pencils, spoons and tumblers.; You may hold the loose end with one finger and thumb only. You may not wind it round your fingers.; The bottle must go down slowly and steadily, with no sudden drops.; Count the number of turns you use.; Safety: fix the post so that it cannot roll. Never wind the string round your fingers, and keep feet clear of the bottle.
 - **general:** Wind the string round a single taped-down pencil, as in the Wrap the Thread test. Try one turn, then two. Three or four turns on a smooth pencil may lock the string so firmly that the bottle will not move.; Wind the string round a thicker post, such as a steel tumbler laid on its side and held in place with tape or a heavy book.; Use a rough string to give more friction.
 - **creative:** Weave the string over and under three pencils in a zigzag, like a shoelace, so each pencil adds its own grip.; Wind the string round the post in a figure-of-eight, which makes the string cross itself.; Tie a loose knot round a pencil to act as a brake. Loosen the knot a little at a time to let the bottle down.
 - **s1 (6 min)**  
-  *Parent does:* Read the problem together. Ask your child to sketch two or three different ways of winding the string.  
-  *Parent says:* You have to lower the bottle slowly, using one finger. How could you wind the string? Draw some ideas first.  
-  *Child mode:* You must lower a bottle slowly with one finger. Draw some ideas.
+  *Parent does:* Read the problem together. Ask your child to show two or three ways of winding the string. They can try them on a pencil or sketch them.  
+  *Parent says:* You have to lower the bottle slowly, using one finger. How could you wind the string? Show me some ideas first.  
+  *Child mode:* You must lower a bottle slowly with one finger. Try winding the string on a pencil, or sketch your ideas.
   - Ask: What will happen if you use too few turns? What will happen if you use too many? (good: Too few, and the bottle will drop fast.; Too many, and the bottle will not move at all.; We need the right number.)
 - **s2 (12 min)**  
   *Parent does:* Build your first design. Put a cushion under the bottle. Hold the loose end and ease it gently. Count how many seconds the bottle takes to reach the floor.  
@@ -412,9 +412,9 @@ That night, Anjana wound her thread round the pencil again. Four turns. She hung
   - Note: A good run takes about 10 seconds with a smooth, steady descent. If the bottle sticks and then jerks, that is stick-slip. A wet thread or a slightly rougher string usually helps.
   - Check: Your bottle sticks and then jumps down in jerks. What is happening? → **Starting friction is bigger than sliding friction, so the string sticks and then slips**
 - **s4 (7 min)**  
-  *Parent does:* Ask your child to explain how their best design works. Ask them to draw the string, the post and the arrows for the pull and the grip.  
-  *Parent says:* Tell me why your design works. Where does the grip come from? Draw the string, the post and the arrows.  
-  *Child mode:* Say why your design works. Draw the string and the post.
+  *Parent does:* Ask your child to explain how their best design works. Ask them to point to where the string grips the post and where the pull is.  
+  *Parent says:* Tell me why your design works. Where does the grip come from? Point to it.  
+  *Child mode:* Say why your design works. Point to where the string grips.
   - Think: Why would a friend with a very smooth steel rod need more turns?
 
 ## Worksheets

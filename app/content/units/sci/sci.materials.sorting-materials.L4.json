@@ -652,7 +652,7 @@
      "mins": 5,
      "do": "Play a practice round. You are the Judge, with a secret cut-off of 10. Ask your child to ask about one card at a time. Show how each answer moves a card to the Yes row or the No row.",
      "say": "I have a secret cut-off. A card with a score at or above it is squishy. Point at a card and ask me if it is squishy. Which card will you ask about first? Why?",
-     "kid": "Pick one card. Ask the Judge if it is squishy. Which card first, and why?",
+     "kid": "Pick one card. Ask the Judge if it is squishy.",
      "ask": [
       {
        "q": "Which card would you ask about first, and why?",
@@ -709,7 +709,7 @@
      "mins": 3,
      "do": "Count the tokens and name the winner. Then ask which cards were never in doubt, and which cards changed groups from round to round.",
      "say": "Count your tokens. Now think. Which cards stayed in the same group in every round? Which cards changed?",
-     "kid": "Count your tokens. Which cards always stayed put? Which ones moved?",
+     "kid": "Count your tokens. Look at which cards moved.",
      "ask": [
       {
        "q": "Which cards never changed group, whatever the cut-off?",
@@ -1553,7 +1553,7 @@
    ],
    "safety": "Do not eat the foods in this test. Flour dust can make you sneeze, so pour slowly and keep your face away. Leave out any food that your child is allergic to, and use another dry food from the kitchen. Wash your hands after the test. Keep small grains and seeds away from the mouths and noses of little brothers and sisters. A grown-up should help anyone under six.",
    "record": "For each food, write the mass of one katori and two heap heights. Then find the average height. Last, draw the map, with one dot for each food, and ring the clumps you see.",
-   "context": "In this experiment, you weigh one katori of each of ten foods and measure how tall each food piles up. Then you draw a map with both numbers and look for clumps.",
+   "context": "In this experiment, you weigh one katori of each of ten foods and measure how tall each food piles up. Then you draw a map with both numbers and look for clumps. You will find out whether foods fall into groups.",
    "setup": [
     {
      "art": "A steel katori filled level with rice on a kitchen scale showing a number in grams.",
@@ -1582,7 +1582,7 @@
      "mins": 4,
      "do": "Line up the ten foods. Ask your child to guess which will be the heaviest in a katori and which the lightest. Ask which will make the tallest heap. Write the guesses and the reasons.",
      "say": "We will measure two things about ten foods. First, how heavy one katori of each is. Second, how tall a heap each makes. Which will be heaviest? Which will make the tallest heap? Why do you think so?",
-     "kid": "Guess first. Which food is heaviest in a katori? Which piles tallest? Why?",
+     "kid": "Guess first. Which food is heaviest in a katori, and which piles tallest?",
      "ask": [
       {
        "q": "Why do you think that food will be the heaviest, or make the tallest heap?",
@@ -1621,7 +1621,7 @@
      "mins": 5,
      "do": "Write the ten foods in a column, from the lightest to the heaviest. This is your ladder. Draw a line where you think the heavy foods begin. Ask a family member to draw their line on their own copy. Compare the two lines.",
      "say": "Write the foods in order, lightest to heaviest. Draw a line where heavy foods begin. Ask someone else to draw theirs. Are the groups the same?",
-     "kid": "Make the ladder. Draw your line. Ask a friend to draw theirs.",
+     "kid": "Make the ladder. Draw your line. Ask a family member to draw theirs.",
      "ask": [
       {
        "q": "Which foods were in the same group whatever line was drawn?",
@@ -1658,9 +1658,9 @@
     {
      "id": "s5",
      "mins": 9,
-     "do": "Draw two lines on the paper. Along the bottom, write mass in grams. Up the side, write height in millimetres. For each food, find its mass across and its average height up, and put a dot there. Write the food name by the dot. Then ring any dots that sit close together.",
+     "do": "Draw two lines on the paper. Along the bottom, write mass in grams. Up the side, write height in millimetres. For each food, find its mass across and its average height up, and put a dot there. Write the food name by the dot. Then ring any dots that sit close together. A group of dots close together is a clump.",
      "say": "Draw your map. Mass goes across and height goes up. Put a dot for each food. Which dots sit close together? Draw a ring round each clump.",
-     "kid": "Draw the map. One dot for each food. Ring the dots that sit together.",
+     "kid": "Draw the map, or lay it out on the floor with the katoris. One dot for each food. Ring the clumps.",
      "ask": [
       {
        "q": "What do you notice about the dots on your map?",
@@ -1727,7 +1727,7 @@
    ],
    "safety": "Dry dal can be a choking risk for children under five. Do not eat the dal in this test. Wash your hands after. Pick up any dal that falls on the floor, so nobody slips.",
    "record": "For each round, write how many pieces are in the toor bowl. Then count carefully how many of those are chana dal. Work out how many toor dal pieces are not in the bowl.",
-   "context": "In this experiment, you sort a mix of toor dal and chana dal twice, in thirty seconds each time. In one round you are strict and in the other you are relaxed. Then you count the two kinds of mistake.",
+   "context": "In this experiment, you sort a mix of toor dal and chana dal twice, in thirty seconds each time. In one round you are strict and in the other you are relaxed. Then you count the two kinds of mistake. You will find out why being careful and being quick pull against each other.",
    "setup": [
     {
      "art": "Twenty toor dal and twenty chana dal in two small heaps side by side on a tray, with a hand pointing at the small difference in size and shade.",
@@ -1775,7 +1775,7 @@
      "mins": 6,
      "do": "A grown-up counts out 20 toor dal and 20 chana dal. Put them in two heaps side by side. Ask your child what is different about them. Then mix the two heaps into one on the tray.",
      "say": "Look at the two dals side by side. What is different? What is alike? Now we mix them into one heap.",
-     "kid": "Look at both dals. How are they different? Now mix them up.",
+     "kid": "Look closely at both dals. Then mix them into one heap.",
      "adult": true,
      "ask": [
       {
@@ -1892,7 +1892,7 @@
    ],
    "safety": "Press with a fingernail gently. Do not use a knife or any sharp thing. Use an unlit candle, and keep it away from flames and matches.",
    "record": "For each thing, write how many voters said hard in round 1 and how many found no dent in round 2. Then put the ten things in order, from the most votes for hard to the fewest. Also count how many things all the voters agreed on in each round.",
-   "context": "In this experiment, five voters decide whether ten things are soft or hard, first by their own feeling and then by a fingernail test. You find which things split the vote.",
+   "context": "In this experiment, five voters decide whether ten things are soft or hard, first by their own feeling and then by a fingernail test. You find which things split the vote. A thing splits the vote when some voters say soft and some say hard.",
    "setup": [
     {
      "art": "Ten household things laid in a row on a tray: cotton wool, a sponge, a towel, dough, an eraser, a plastic bottle, a candle, a wooden spoon, a steel katori and a ceramic cup.",
@@ -1917,7 +1917,7 @@
      "mins": 4,
      "do": "Show your child the ten things and the voters. Ask for a guess and a reason. Write the guess at the top of the results table.",
      "say": "We have ten things and five voters. Each voter decides if each thing is soft or hard. Will they all agree? Which things might split the vote? Why do you think so?",
-     "kid": "Guess first. Will all the voters agree? Which things might split the vote?",
+     "kid": "Guess first. Will all the voters agree?",
      "ask": [
       {
        "q": "Which thing do you think will split the vote?",
@@ -2090,7 +2090,7 @@
     {
      "id": "a1s3",
      "mins": 7,
-     "do": "Read what the numbers mean: 1 is PET, often clear drink bottles. 2 is HDPE, often milk cans and shampoo bottles. 5 is polypropylene, often tiffin boxes and curd cups. 7 is other. Also, 3 is PVC, 4 is LDPE like milk pouches and carry bags, and 6 is polystyrene like some cups. Check each row against your list.",
+     "do": "Read what the numbers mean: 1 is PET, often clear drink bottles. 2 is HDPE, often milk cans and shampoo bottles. 5 is polypropylene, often tiffin boxes and curd cups. 3 is PVC, 4 is LDPE like milk pouches and carry bags, and 6 is polystyrene like some cups. 7 is other. Check each row against your list.",
      "say": "The number names the family of plastic. Check your rows. Does each row hold what the number says?",
      "kid": "Check your rows against the list. Which row was the biggest?",
      "ask": [
@@ -2183,9 +2183,9 @@
     {
      "id": "a2s2",
      "mins": 6,
-     "do": "Split each of the four groups again to make about eight groups. Some groups may hold only one spice. Draw a tree on the big sheet. Put the two first groups at the top and the eight small groups at the bottom.",
-     "say": "Split the groups again, until you have about eight. Draw a tree. Two groups at the top, eight at the bottom.",
-     "kid": "Split again to make eight groups. Draw the tree.",
+     "do": "Split each of the four groups again to make about eight groups. Some groups may hold only one spice. Show the levels as a tree on the big sheet: write the group names, or lay the katoris out in rows and take a photo. Put the two first groups at the top and the eight small groups at the bottom.",
+     "say": "Split the groups again, until you have about eight. Show them as a tree. Two groups at the top, eight at the bottom.",
+     "kid": "Split again to make eight groups. Show the levels as a tree.",
      "parent": "Do not worry if the groups are uneven. The tree is a way to show the levels. It is fine if some groups have one spice.",
      "check": {
       "t": "mcq",
@@ -2257,7 +2257,7 @@
     }
    ],
    "record": "A star map with sixteen dots, rings round the clumps, and a name for each clump.",
-   "context": "In this activity, you place sixteen real stars on a map by colour and brightness, as Hertzsprung and Russell did. You look for families of stars.",
+   "context": "In this activity, you place sixteen real stars on a map by colour and brightness, as two scientists, Hertzsprung and Russell, did over a hundred years ago. You look for families of stars.",
    "setup": [
     {
      "art": "A 5 by 5 grid on paper with colour across the bottom from red on the left to blue on the right, and brightness up the side from very faint to very bright.",
@@ -2296,7 +2296,7 @@
      "mins": 8,
      "do": "Look at the map. Do the dots spread evenly, or do they gather? Draw a ring round the long band of dots from bottom left to top right. Draw a ring round the dots above the band, and a ring round the dot below the band.",
      "say": "Look at the map. Where do the dots gather? Draw a ring round each clump. Is there a band? What sits above it? What sits below it?",
-     "kid": "Ring the clumps. Find the band, the dots above and the dot below.",
+     "kid": "Ring the clumps. Find the band, the dots above and the dot below. Ring each clump, or point to it and tell your grown-up.",
      "ask": [
       {
        "q": "What would you call the stars above the band, and the star below it?",
@@ -2360,7 +2360,7 @@
     }
    ],
    "record": "A list of the shelf groups, the rule for each, the number of levels, and two things that could go in two places.",
-   "context": "In this activity, you look at how a real store sorts its goods. You find the rules, the levels and the tricky things that could go in two places.",
+   "context": "In this activity, you look at how a real store sorts its goods. You find the rules, the levels and the tricky things that could go in two places. You will find out why the same thing can sit in different places in different shops.",
    "setup": [
     {
      "art": "A kirana store shelf with groups labelled rice, dals, oils and spices, and a child writing the names in a notebook.",
@@ -2394,9 +2394,9 @@
     {
      "id": "a4s2",
      "mins": 8,
-     "do": "Find a group that has smaller groups inside it, such as dals with toor dal and moong dal inside. Draw a tree of these levels. Pick one item, such as turmeric, and count the groups you check before you find it. Count the levels. Then look for one thing that could go in two places, and say where you would put it.",
+     "do": "Find a group that has smaller groups inside it, such as dals with toor dal and moong dal inside. Show these levels as a tree. Draw the tree, or say the levels out loud to your grown-up. Pick one item, such as turmeric, and count the groups you check before you find it. Count the levels. Then look for one thing that could go in two places, and say where you would put it.",
      "say": "Find a group with smaller groups inside. Draw the tree. How many levels? Find a thing that could go in two places.",
-     "kid": "Draw the levels as a tree. Find a thing that fits two groups.",
+     "kid": "Show the levels as a tree. Find a thing that fits two groups.",
      "parent": "Good examples are salt, turmeric, tea, jaggery and papad. Ask the shopkeeper why the shop put the thing there.",
      "check": {
       "t": "mcq",
@@ -2477,7 +2477,7 @@
      "mins": 7,
      "do": "Take out your Katori Map. Look at the six new foods. For each one, decide which clump it will join, and mark a cross where you think its dot will be. Write the reason in one short line.",
      "say": "Look at your map and the six new foods. Where will each one land? Mark a cross. Write why.",
-     "kid": "Mark a cross for each new food. Write why you put it there.",
+     "kid": "Mark a cross for each new food.",
      "ask": [
       {
        "q": "Why do you think that food will land there?",
@@ -2571,7 +2571,7 @@
     "Two sorters one after the other: the first sorts by size, and then a second person picks by colour.",
     "A slope with a bump or a lip that makes the heavier or rounder pieces bounce further."
    ],
-   "your_turn": "Sketch your sorter. Measure the width of five pieces of each dal with a ruler, and choose a first gap. Build it and test it. Count both kinds of mistake. Change the gap, and test again. Which gap gave the fewest mistakes? Why can no gap give none?",
+   "your_turn": "Measure the width of five pieces of each dal with a ruler, and choose a first gap. Build it and test it. Count both kinds of mistake. Change the gap, and test again. Which gap gave the fewest mistakes? Why can no gap give none?",
    "context": "This is a design challenge about a sorter with an adjustable cut-off. You build a slot sorter, count both kinds of mistake, and move the cut-off to see what happens.",
    "setup": [
     {
@@ -2591,9 +2591,9 @@
     {
      "id": "c1s1",
      "mins": 8,
-     "do": "Read the problem together. Ask your child to measure the width of five pieces of each dal and write the numbers. Then ask them to sketch the sorter and choose a first gap.",
-     "say": "You have a mix of two dals. Measure five pieces of each. Which gap will let toor dal through but not chana dal? Draw your sorter.",
-     "kid": "Measure five pieces of each dal. Draw a sorter. Choose a gap.",
+     "do": "Read the problem together. Ask your child to measure the width of five pieces of each dal and write the numbers. Then ask them to choose a first gap and sketch the sorter, or say how it will work.",
+     "say": "You have a mix of two dals. Measure five pieces of each. Which gap will let toor dal through but not chana dal? Draw your sorter, or tell me how it will work.",
+     "kid": "Measure five pieces of each dal. Choose a gap. Sketch the sorter, or explain it out loud.",
      "ask": [
       {
        "q": "What gap would you choose, and why?",

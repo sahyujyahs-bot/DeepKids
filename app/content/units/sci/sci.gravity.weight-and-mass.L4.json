@@ -484,7 +484,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about mass and weight. Each card describes something you could measure or do. Players decide if it would give the same answer on the Moon, or a different one, and then say why.",
+   "context": "This is a card game about mass and weight. Mass is how much stuff something holds. Weight is how hard a world pulls on it. Each card describes something you could measure or do. Players decide if it would give the same answer on the Moon, or a different one, and then say why.",
    "setup": [
     {
      "art": "A pile of cut-out cards, a row of world cards and eight round tokens on a table, with a pencil and a score sheet.",
@@ -689,8 +689,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Play a practice turn with the card about the two-pan balance. Place tokens, turn them over together, and read the back.",
-     "say": "Practice turn. A balance shows a mango level with a 300-gram weight. On the Moon, will the pans still be level? Why?",
-     "kid": "A balance shows a mango level with a 300-gram weight. On the Moon, would it be the same or different? Why?",
+     "say": "Practice turn. Read the card about the two-pan balance. Think about it, then put down your token.",
+     "kid": "Put down a token: Same or Different. Turn it over with the others.",
      "check": {
       "t": "mcq",
       "q": "A balance shows a mango level with a 300-gram weight. On the Moon, what will the pans do?",
@@ -726,7 +726,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Look at the world cards together. Pick one world card and a mass, and work out the weight. Then do the same with the next world card.",
-     "say": "Pick a world and a mass. Multiply the mass by the number on the back of the world card. What do you get?",
+     "say": "Pick a world and a mass. The number on the back of the world card says how hard that world pulls on each kilogram. Multiply the mass by that number. What do you get?",
      "kid": "Pick a world. Pick a mass. Multiply to find the weight.",
      "check": {
       "t": "mcq",
@@ -829,8 +829,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the band, the cup, the ruler and the water. Ask for a guess and a reason. Write both down at the top of the table.",
-     "say": "We will hang a cup from a rubber band, and add water to it. 100 grams of water stretches the band a little. What will 300 grams do? And 500 grams? Why do you think so?",
-     "kid": "You will hang a cup of water from a rubber band. If 100 grams stretches the band by 1 centimetre, how far will 300 grams stretch it? Why?",
+     "say": "We will hang a cup from a rubber band, and add water to it. Say 100 grams of water stretches the band by 1 centimetre. What will 300 grams do? And 500 grams? Why do you think so?",
+     "kid": "Guess how far 300 grams will stretch the band. Then guess for 500 grams.",
      "ask": [
       {
        "q": "Why do you think it will stretch that far?",
@@ -887,9 +887,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Draw the graph. Put the mass along the bottom and the stretch up the side. Mark a dot for each reading. Draw a smooth line through the dots. Ask your child what shape the line makes.",
-     "say": "Let's draw what happened. Grams go along the bottom. Stretch goes up the side. What shape do the dots make? Is it a straight line?",
-     "kid": "Draw the graph. Mark a dot for each reading. What shape is it?",
+     "do": "Draw the graph. Put the mass along the bottom and the stretch up the side. Mark a dot for each reading. Draw a smooth line through the dots. Ask your child what shape the line makes. If they would rather not draw, they can point to each dot on a ready-made graph and say where it goes.",
+     "say": "Let's draw what happened. Grams go along the bottom. Stretch goes up the side. Look at the dots. Do they make a straight line?",
+     "kid": "Mark a dot on the graph for each reading. Join the dots.",
      "parent": "If the dots lie on a straight line through zero, then twice the load gives twice the stretch. That is Hooke's law. A rubber band often bends a little, because rubber is softer at first and stiffer later. Both results are real. A steel spring gives a straighter line.",
      "check": {
       "t": "mcq",
@@ -932,7 +932,7 @@
    "mins": 28,
    "days": 1,
    "question": "Where does a flat cardboard shape balance? Can the balance point be a place where there is no cardboard at all?",
-   "predict": "Before you start, guess. Draw a dot on a paper copy of each shape where you think it will balance on a pencil tip. The shapes are a blob, a crescent and a ring. Why do you think the dot goes there?",
+   "predict": "Before you start, guess. Point to where each shape will balance on a pencil tip. The shapes are a blob, a crescent and a ring. Why do you think it balances there?",
    "fair_test": "Cut all three shapes from the same cardboard. Hang each one from three different holes, from the same pin, using the same plumb line. Wait until the shape and the thread have stopped swinging before you mark the line. If you do this for each shape in the same way, any difference between the shapes comes from the shape.",
    "results_table": [
     "Shape",
@@ -974,8 +974,8 @@
      "what": "Guess. Cut three shapes. Hang each from three holes, draw the plumb lines, and find where they cross. Try to balance each shape on a pencil tip."
     }
    ],
-   "record": "On each shape, draw three lines from the holes. Mark the crossing point with a dot. Draw each shape in your notebook with the dot, and write whether the dot is on the cardboard or in the air. Measure in millimetres how far your first guess was from the crossing point.",
-   "context": "In this experiment, you hang three cardboard shapes from a pin and draw plumb lines on them. The lines cross at the centre of gravity, and you see where that is.",
+   "record": "On each shape, draw three lines from the holes. Mark the crossing point with a dot. Write whether the dot is on the cardboard or in the air. Measure in millimetres how far your first guess was from the crossing point.",
+   "context": "In this experiment, you hang three cardboard shapes from a pin. A plumb line is a thread with a weight, which hangs straight down. You use it to find each shape's centre of gravity, which is its balance point. You will find out if a balance point can be in empty air.",
    "setup": [
     {
      "art": "Three cardboard shapes on a table: a map-like blob, a banana-shaped crescent and a ring, each with three small holes near the edge.",
@@ -994,9 +994,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Show your child the three shapes drawn on paper. Ask them to mark with a dot where each will balance on a pencil tip, and why.",
-     "say": "Here are three shapes: a blob, a crescent and a ring. Where would each one balance on the tip of a pencil? Put a dot. Why there?",
-     "kid": "Here are three shapes: a blob, a crescent and a ring. Where would each one balance on a pencil tip? Put a dot. Why there?",
+     "do": "Show your child the three shapes drawn on paper. Ask them to point to where each will balance on a pencil tip, and why. Mark each guess with a small dot for later.",
+     "say": "Here are three shapes: a blob, a crescent and a ring. Where would each one balance on the tip of a pencil? Point to the spot. Why there?",
+     "kid": "Point to the spot where each shape would balance on a pencil tip.",
      "ask": [
       {
        "q": "Why did you put the dot there?",
@@ -1150,7 +1150,7 @@
      "mins": 4,
      "do": "Show your child the scale and all the things. Ask for a guess and a reason for each test. The tests are sugar in water, melting ice and fizzing. Write the guesses down.",
      "say": "We will weigh things before and after they change: sugar dissolving in water, ice melting, and a bottle fizzing. Will the mass stay the same, go down or go up? Why do you think so?",
-     "kid": "You will weigh sugar in water, melting ice and a fizzing bottle, before and after they change. Will the mass stay the same, go down or go up? Why?",
+     "kid": "For each test, pick one. The mass stays the same, goes down, or goes up.",
      "ask": [
       {
        "q": "Why do you think the mass will change, or stay the same?",
@@ -1298,7 +1298,7 @@
      "what": "Build the balance and make it level. Weigh a tomato against water. Then make the arms unequal, weigh the tomato on each side, and average the two answers. This is the swap trick."
     }
    ],
-   "record": "Draw your balance. Write the mass you found for the tomato, and the mass on the kitchen scale. Write the two answers from the swap trick and their average.",
+   "record": "Draw your balance, or take a photo of it. Write the mass you found for the tomato, and the mass on the kitchen scale. Write the two answers from the swap trick and their average.",
    "context": "In this activity, you build a two-pan balance from a ruler and cups. You use water as a standard mass, and then catch a cheating balance with the swap trick.",
    "setup": [
     {
@@ -1318,9 +1318,9 @@
     {
      "id": "a1s1",
      "mins": 4,
-     "do": "Show your child the ruler, the cups, the water and a tomato. Ask how many millilitres of water they think will balance the tomato, and why. Write the guess down.",
+     "do": "Show your child the ruler, the cups, the water and a tomato. Ask how many millilitres of water they think will balance the tomato, and why. Write the guess down. A millilitre of water has a mass of about 1 gram.",
      "say": "We are going to build a balance. A tomato goes in one cup and water goes in the other. How much water will balance the tomato? Why do you think so?",
-     "kid": "A tomato goes in one cup and water goes in the other. How much water will balance the tomato?",
+     "kid": "Guess a number of millilitres of water.",
      "ask": [
       {
        "q": "Why do you think it will take that much?",
@@ -1338,7 +1338,7 @@
      "id": "a1s2",
      "mins": 9,
      "do": "Tie a thread loop round the middle of the ruler. Tape it so it cannot slide. Hang it from the hook. Tape a thread loop near each end, the same distance from the middle on both sides, about 12 centimetres. Hang a cup from each loop. Slide a loop a few millimetres or tape a coin on the high side until the empty balance is level.",
-     "say": "First we build the balance. The cups hang the same distance from the middle. We make it level with the cups empty. Why must it be level when it is empty?",
+     "say": "First we build the balance. The cups hang the same distance from the middle. Slide a loop a little until the empty ruler is level.",
      "kid": "Hang the ruler. Hang two cups. Make it level when empty.",
      "parent": "The ruler hangs from a loop at its middle. The cups hang below it, which keeps it steady. If it swings too much, shorten the thread of the cups. A tiny amount of tape on the lighter side is enough to fix a small lean.",
      "check": {
@@ -1359,7 +1359,7 @@
      "mins": 10,
      "do": "Put the tomato in the left cup. Pour water into the right cup, a little at a time, from the measuring cup. Stop when the ruler is level. Add up the water you poured. Check the tomato on the kitchen scale.",
      "say": "Put the tomato in one cup. Pour water into the other, a little at a time, until the ruler is level. How much water balanced the tomato?",
-     "kid": "Put the tomato in one cup. Pour water into the other cup until the ruler is level. How much water did it take?",
+     "kid": "Pour the water slowly. Stop when the ruler is level.",
      "parent": "Pour 10 millilitres at a time near the end. The water in millilitres is the tomato's mass in grams. Your answer should be within about 10 grams of the kitchen scale. A tomato is mostly water, so it makes a good test.",
      "check": {
       "t": "mcq",
@@ -1397,9 +1397,9 @@
     {
      "id": "a1s5",
      "mins": 3,
-     "do": "Ask your child where this balance would work, and where a spring scale would not. Then ask for three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "Would your balance work on the Moon? Would a spring scale? Tell me what you think, what you saw, and why.",
-     "kid": "Would your balance work on the Moon? Why?",
+     "do": "Ask your child if this balance would work on the Moon, and if a spring scale would. Ask why.",
+     "say": "Would your balance work on the Moon? Would a spring scale? Why do you think so?",
+     "kid": "Think about the Moon. Does the balance still work there?",
      "parent": "A good answer sounds like this. What I think: a balance compares masses, so it would work on the Moon. What I saw: water in millilitres matched the tomato's mass in grams, and swapping the pans caught the cheat. Why: gravity pulls both pans in the same way, so only the masses matter.",
      "context": "In this step, you think about where the balance would work."
     }
@@ -1457,8 +1457,8 @@
      "id": "a2s1",
      "mins": 4,
      "do": "Give your child a 1-litre bottle of water to hold with the arm out straight. Ask how the same bottle would feel on the Moon. Write the guess.",
-     "say": "This bottle has a mass of 1 kilogram. It pulls on your hand with about 10 newtons on Earth. On the Moon, would it feel heavier or lighter? How much?",
-     "kid": "Hold the bottle. How would it feel on the Moon? Lighter or heavier?",
+     "say": "This bottle has a mass of 1 kilogram. A newton is a way to measure a pull. On Earth the bottle pulls on your hand with about 10 newtons. On the Moon, would it feel heavier or lighter? How much?",
+     "kid": "Hold the bottle with your arm out straight. Feel how much it pulls.",
      "parent": "Do not correct the guess. The Moon pulls about one sixth as hard as the Earth. So the bottle would feel about as heavy as a small bag of 160 millilitres of water feels on Earth.",
      "context": "This is the first step of Feel Another World. You guess before you test."
     },
@@ -1467,7 +1467,7 @@
      "mins": 6,
      "do": "Pour 160 millilitres of water into the small bottle or bag. This pulls on your hand like 1 kilogram on the Moon. Hold it, then hold the 1-litre bottle again. Repeat with 380 millilitres for Mars and 900 millilitres for Venus. Then one person shuts their eyes, and another hands over the Moon, Mars and Venus bags in a mixed order. Can they sort them from lightest to heaviest by feel?",
      "say": "A bag of 160 millilitres of water is how a 1-kilogram bottle would feel on the Moon. Hold it. Then hold 380 millilitres for Mars, and 900 millilitres for Venus.",
-     "kid": "Make a Moon bag, a Mars bag and a Venus bag. Hold each one.",
+     "kid": "Make a Moon bag, a Mars bag and a Venus bag. Hold each one. Then shut your eyes and put them in order, lightest first.",
      "parent": "The numbers come from the pull of each world: Moon 1.6, Mars 3.7, Venus 8.9 newtons for each kilogram, and Earth 9.8. Divide each by 9.8 to get the fraction of a kilogram. The bag does not have less matter. It is pulled less. The empty bottle adds about 20 to 30 grams, which is small enough to ignore. With 2 to 4 children, one fills the bags and the others sort them blind, then swap. One child with a parent: the parent hands over the bags.",
      "check": {
       "t": "mcq",
@@ -1497,7 +1497,7 @@
      "mins": 4,
      "do": "Talk about what changed and what did not. Ask your child about the mass of the bottle on each world.",
      "say": "On every world, the bottle has the same amount of water in it. What changed? What stayed the same?",
-     "kid": "On each world, what changed in the bottle? What stayed the same?",
+     "kid": "Tell your grown-up one thing that changed and one that stayed the same.",
      "parent": "A good answer sounds like this. The mass stayed the same because the bottle has the same matter. The weight changed, because each world pulls differently. On the Moon you would have only a sixth of your Earth weight, so your bones would carry much less. This is one reason why astronauts' bones get weaker.",
      "think": "If you lived on the Moon, would your bones get stronger or weaker than on Earth? Why do you think so?",
      "context": "In this step, you think about what changes from world to world, and what does not."
@@ -1532,7 +1532,7 @@
      "what": "Guess the mass of the air in a room. Measure the room, work out its volume, and multiply by 1.2 kilograms for each cubic metre. Compare with a child and a car. Then, if you have a football and a pump, weigh the air you pump into it."
     }
    ],
-   "record": "Draw the room as a box with its length, width and height. Write the volume in cubic metres and the mass of the air in kilograms. If you did the ball, write how many grams it gained.",
+   "record": "Write the length, width and height of the room. You can draw the room as a box if you like. Write the volume in cubic metres and the mass of the air in kilograms. If you did the ball, write how many grams it gained.",
    "context": "In this activity, you measure a room and work out how much mass the air in it has. It shows that air, which feels like nothing, has mass.",
    "setup": [
     {
@@ -1554,7 +1554,7 @@
      "mins": 4,
      "do": "Ask your child to guess the mass of the air in the room. Offer choices: a packet of rice, a child, an auto-rickshaw. Write the guess down.",
      "say": "The air in this room feels like nothing. But air is made of tiny particles, and they have mass. Is the air in this room as heavy as a packet of rice, a child, or an auto?",
-     "kid": "Guess the mass of the air in this room. A packet of rice, a child, or an auto?",
+     "kid": "Pick one: rice, a child, or an auto.",
      "ask": [
       {
        "q": "Why did you pick that one?",
@@ -1581,7 +1581,7 @@
      "id": "a3s3",
      "mins": 6,
      "do": "Multiply length by width by height to get the volume in cubic metres. Then multiply the volume by 1.2 to get the mass of the air in kilograms. Write the answer.",
-     "say": "Length times width times height is the volume of the room. Each cubic metre of air has a mass of about 1.2 kilograms. So how much does the air in this room weigh?",
+     "say": "Length times width times height is the volume of the room. That is how much space it fills. Each cubic metre of air has a mass of about 1.2 kilograms. So how much does the air in this room weigh?",
      "kid": "Multiply the length by the width by the height. Then multiply by 1.2. How many kilograms of air is that?",
      "parent": "For a 3 by 4 by 2.7 room, the volume is 32.4 cubic metres, and the air has a mass of about 39 kilograms. That is as much as a child of ten or eleven. A classroom can hold a few hundred kilograms of air.",
      "check": {
@@ -1600,8 +1600,8 @@
     {
      "id": "a3s4",
      "mins": 4,
-     "do": "Compare the answer with a child, a bag of rice and a small car. Then tell your child that the air above every square metre of ground has a mass of about 10 tonnes.",
-     "say": "The air in this room has about the mass of a child. And above every square metre of ground, the air has a mass of about ten tonnes. Why are we not squashed flat?",
+     "do": "Compare the answer with a child (about 30 kilograms), a bag of rice (5 kilograms) and a small car (about 1000 kilograms). Then tell your child that the air above every square metre of ground has a mass of about 10 tonnes. That is as much as ten small cars. We are not squashed, because the air inside our bodies pushes outward just as hard.",
+     "say": "Is your answer closer to a child, a bag of rice or a car? And above every square metre of ground, the air has a mass of about ten tonnes. Why are we not squashed flat?",
      "kid": "The air has mass. Above every square metre is about 10 tonnes of air. Why are we not squashed?",
      "parent": "A good answer sounds like this. The air presses on us from all sides, and the fluids inside our bodies push back with the same pressure, so we are not squashed. Atmospheric scientists estimate that a small fair-weather cloud holds about 500 tonnes of water, which is reported to be about the mass of 100 elephants.",
      "think": "Air pushes on you from every side, and your body pushes back from inside. What happens when the two pushes are equal?",
@@ -1654,7 +1654,7 @@
      "what": "Fill four identical jars with four different things. Guess which jar has the most mass. Check by hand, on the balance, and on the scale."
     }
    ],
-   "record": "Draw the four jars. Under each, write what is in it, your guess for its mass, and its real mass in grams. Put the jars in order from the least to the most mass.",
+   "record": "Put the four jars in a row, from the least to the most mass, and take a photo. Make a table. For each jar, write what is in it, your guess for its mass, and its real mass in grams.",
    "context": "In this activity, you fill four identical jars with different things and compare their masses. You find that the same size does not mean the same mass.",
    "setup": [
     {
@@ -1676,7 +1676,7 @@
      "mins": 5,
      "do": "Fill each jar to the top with a different thing: cotton wool, flour, rice and salt. Shake gently so they settle and add more. Put on the lids. Ask your child to guess the order from the least to the most mass. Write it down.",
      "say": "Here are four jars of the same size. One has cotton, one flour, one rice and one salt. Which has the most mass? Which has the least? Put them in order before you test.",
-     "kid": "Four jars hold cotton, flour, rice and salt. Guess the order, from the least mass to the most.",
+     "kid": "Guess the order, from the least mass to the most.",
      "ask": [
       {
        "q": "Why did you put them in that order?",
@@ -1837,7 +1837,7 @@
     {
      "id": "p1s2",
      "mins": 20,
-     "do": "Dry the soil in the sun for a day. Weigh 200 grams into each pot. Weigh the 8 dry seeds. Write both. Plant the seeds just under the soil in one pot. Leave the other pot with no seeds. Water both pots the same amount until the soil is damp. Put them side by side on a sunny sill.",
+     "do": "Weigh 200 grams of the dry soil into each pot. Weigh the 8 dry seeds. Write both. Plant the seeds just under the soil in one pot. Leave the other pot with no seeds. Water both pots the same amount until the soil is damp. Put them side by side on a sunny sill.",
      "say": "Weigh the dry soil. Weigh the dry seeds. Write both numbers down. Plant the seeds. Water the pot. Put it in the sun.",
      "kid": "Weigh the dry soil and the seeds. Plant them. Water the pot.",
      "parent": "The soil must be dry at the start and dry at the end. Sun-dried soil on a tray for a day is dry enough for a kitchen scale. Eight moong seeds weigh only about half a gram, so the scale may show 0 or 1. Just weigh all 8 together. The comparison pot is there because sun-dried soil keeps a little water in damp weather, and both pots dry in the same way. With 2 to 4 children, each plants their own seed pot and all share one comparison pot. One child with a parent: the child does the weighing and the parent checks the numbers.",
@@ -1914,7 +1914,7 @@
     "Add a counterweight: a second stack, or a heavy book, on the table side of the stack, to hold the back down.",
     "Try to make the total overhang more than one whole box length with only 4 boxes."
    ],
-   "your_turn": "Sketch your plan. Build it and measure the overhang in box lengths. Change one thing and try again. How far did the best stack stick out? Why do you think it stayed up?",
+   "your_turn": "Sketch your plan, or tell your grown-up how you will stack them. Build it and measure the overhang in box lengths. Change one thing and try again. How far did the best stack stick out? Why do you think it stayed up?",
    "safety": "Use empty matchboxes only, never boxes with matches. Work on the floor or a low table, so falling boxes do not hit anyone's toes. Keep small boxes away from small children who put things in their mouths.",
    "context": "This is a challenge about the centre of gravity. You stack matchboxes to stick out over the edge of a table without falling.",
    "setup": [
@@ -1937,7 +1937,7 @@
      "mins": 5,
      "do": "Read the problem together. Ask your child to guess how many box lengths the top box can stick out with 8 boxes. Write the guess.",
      "say": "You have 8 matchboxes and a table edge. How far can the top box stick out without falling? Half a box? A whole box? Why do you think so?",
-     "kid": "You have 8 matchboxes and a table edge. How far can the top box stick out without falling? Guess.",
+     "kid": "Guess how many box lengths the top box can stick out. A box length is the long side of one box.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -1964,7 +1964,7 @@
      "id": "c1s3",
      "mins": 8,
      "do": "Look at the top box alone. Ask how far it can stick out over the box below. Test it. Then add the second box, and test how far the top two together can stick out over the third box. Write the answers.",
-     "say": "The top box on its own can stick out half its length. The top two boxes together can stick out a quarter more. Test it. What is the pattern?",
+     "say": "The top box on its own can stick out half its length. The top two boxes together can stick out a quarter of a length over the third. Test it. What is the pattern?",
      "kid": "Test how far the top box can stick out. Then test the top two boxes together.",
      "parent": "For the top two boxes together, the centre of gravity of the pair lies halfway along them. They can stick out a quarter of a box length over the third box. Then the top three can stick out a sixth over the fourth, and so on. The steps are a half, a quarter, a sixth, an eighth.",
      "check": {
@@ -1983,7 +1983,7 @@
     {
      "id": "c1s4",
      "mins": 10,
-     "do": "Build the stack from the top down. Use steps of a half, a quarter, a sixth, an eighth and so on, of a box length. Measure the total overhang in box lengths. Compare it with your first stack.",
+     "do": "Build the stack from the top down. Hold the top box. Slide the second box under it so the top sticks out half a length. Slide a third box under the pair so they stick out a quarter. Keep going with a sixth, an eighth and so on. Put the pile on the table edge with the last step. Measure the total overhang in box lengths. Compare it with your first stack.",
      "say": "Now use the pattern. Build from the top down. The top box sticks out a half. The next step is a quarter, then a sixth. How far does the whole stack stick out now?",
      "kid": "Build from the top down, with steps of a half, a quarter and a sixth of a box length. Measure the overhang again.",
      "parent": "With 8 boxes, start with 1. Then add one half, one third, one quarter, one fifth, one sixth, one seventh and one eighth. Take half of that total. The answer is about 1.36 box lengths. Real boxes will give a little less, typically 1.1 to 1.3, because it is hard to place them exactly, so leave a gap of a millimetre or two. Matchboxes are light and slide, so move them gently. If they keep sliding, use small books or blocks. Matchboxes are about 5 centimetres long, so the overhang is about 7 centimetres.",
@@ -2003,7 +2003,7 @@
     {
      "id": "c1s5",
      "mins": 4,
-     "do": "Compare the stacks. Ask where the centre of gravity of the whole stack lies, and why the stack does not fall.",
+     "do": "Compare the stacks. Ask where the centre of gravity of the whole stack lies, and why the stack does not fall. The answer is that it lies over the table, so the table holds the stack up.",
      "say": "Which stack stuck out the furthest? Where is the centre of gravity of the whole stack? Why does it not fall?",
      "kid": "Which stack stuck out the furthest? Where is its centre of gravity? Why does it stay up?",
      "parent": "The centre of gravity of the whole stack must lie over the table. The overhang looks as if it should fall, but the boxes on the table side hold the balance. A good answer is that the whole stack, taken as one thing, has its centre of gravity above the table.",

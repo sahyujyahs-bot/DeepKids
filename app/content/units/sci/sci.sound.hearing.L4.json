@@ -582,7 +582,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about loud and quiet sounds. You guess how loud each sound is in decibels, place it on a ladder, and learn how long it is safe to listen.",
+   "context": "This is a card game about loud and quiet sounds. A decibel is the unit that says how loud a sound is. You guess how loud each sound is in decibels, place it on a ladder, and find out how long it is safe to listen.",
    "setup": [
     {
      "art": "Twenty-four sound cards in a pile and a large paper ladder with six bands drawn on it, from very quiet at the bottom to hurts at once at the top.",
@@ -727,9 +727,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Cut out the 24 cards and shuffle them. Draw the ladder with six bands on a big sheet of paper, with the quietest band at the bottom. Put the ladder in the middle of the table. Write the six bands on the ladder. They are 20 to 39, 40 to 59, 60 to 79, 80 to 99, 100 to 119 and 120 up.",
+     "do": "Cut out the 24 cards and shuffle them. Make the ladder on a big sheet of paper, with six bands and the quietest band at the bottom. Put the ladder in the middle of the table. Write the six bands on the ladder. They are 20 to 39, 40 to 59, 60 to 79, 80 to 99, 100 to 119 and 120 up.",
      "say": "Each card has a sound on the front. On the back is how loud it is. We will guess how loud each sound is. Then we place it on a ladder, from quiet at the bottom to loud at the top.",
-     "kid": "Cut out the cards. Shuffle them. Draw the ladder with six bands.",
+     "kid": "Help cut out the cards and shuffle them.",
      "context": "This is the first step of the Decibel Ladder. You make the cards and the ladder.",
      "parent": "With 2 to 4 players, everyone guesses at once and keeps their own score. Take turns to read the cards. Playing alone works too."
     },
@@ -784,8 +784,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Take the cards of 85 decibels and above. Put them in order of the safe time on the back, from longest to shortest. Ask the question below, and let your child work it out before you say the answer.",
-     "say": "At 85 decibels the safe time is 8 hours. Each 3 decibels louder halves it. So how long is it safe at 100 decibels?",
-     "kid": "Each 3 decibels louder halves the safe time. How long is it safe at 100 decibels?",
+     "say": "At 85 decibels the safe time is 8 hours. Each 3 decibels louder halves it. Now let us work out 100 decibels.",
+     "kid": "Count up from 85 to 100 in steps of 3. Halve the time at each step.",
      "check": {
       "t": "mcq",
       "q": "The safe time at 85 decibels is 8 hours, and every 3 decibels more halves it. About how long is it safe at 100 decibels?",
@@ -808,7 +808,7 @@
    "title": "The Sound Clock: can you find a sound with one ear?",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you sit with your eyes shut while someone clinks a spoon in different places around you, and you point to each one. You do it with two ears and then with one ear covered.",
+   "context": "In this experiment you sit with your eyes shut while someone clinks a spoon in different places around you, and you point to each one. You do it with two ears and then with one ear covered. You will find out why having two ears helps you tell where a sound comes from.",
    "question": "How well can you find where a sound is with two ears, and how much worse is it with one ear covered?",
    "predict": "Before you start, guess. Out of 16 clicks, how many will you point to exactly right with two ears, and how many with one ear covered? Why do you think so?",
    "fair_test": "Use the same chair, the same spoon and katori, the same distance of 1.5 metres and the same eight places every time. Each place is clicked twice in each round, in a mixed-up order. Only the ears change. Keep your eyes shut or covered for every click. Keep your head still in Rounds A and B. Do it in the quietest room, with fans and the TV off.",
@@ -860,9 +860,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show your child the chair, the katori and the eight places. Ask for a guess and a reason. Write the guess in the table.",
+     "do": "Show your child the chair, the katori and the eight paper slips. Ask for a guess and a reason. Write the guess in the table.",
      "say": "I will click a spoon on a katori around you, and you will point to it with your eyes shut. First with two ears, then with one ear covered. How many out of 16 will you get exactly right each time? Why do you think so?",
-     "kid": "You will shut your eyes and point to each click. Guess how many you will get right. Why?",
+     "kid": "You will shut your eyes and point to each click. Guess how many you will get right.",
      "ask": [
       {
        "q": "Why do you think covering one ear will change your pointing?",
@@ -1007,7 +1007,7 @@
    "title": "Hiding a Whisper: how far can a whisper reach in noise?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment a grown-up whispers numbers from different distances, first in a quiet room and then with a tap running. You find out how far a whisper reaches each time.",
+   "context": "In this experiment a grown-up whispers numbers from different distances, first in a quiet room and then with a tap running. You will find out how a noise can hide a quiet voice, and what helps the voice be heard.",
    "question": "How much shorter is the distance a whisper reaches when there is noise, and what can a speaker do to be heard?",
    "predict": "Before you start, guess. How far will a whisper reach in a quiet room? How far with a tap running gently? How far with the tap running hard? Why do you think so?",
    "fair_test": "The listener sits in the same place with eyes shut for every test. The whisperer uses the same quiet whisper for every digit. Only the noise changes. Five digits are whispered at each distance, picked in a mixed-up order. A distance counts as heard if the listener gets at least 4 of the 5 right. The whisperer practises one steady whisper at 1 metre first. Fans and the TV are off, except the noise being tested.",
@@ -1058,7 +1058,7 @@
      "mins": 5,
      "do": "Show your child the corridor, the tap and the list of digits. Ask for a guess and a reason. Write the guess in the table.",
      "say": "I will whisper numbers to you from different distances. First in a quiet room. Then with a tap running gently. Then with it running hard. How far will my whisper reach each time? Why do you think so?",
-     "kid": "Guess how far a whisper will reach in quiet, and in noise. Why?",
+     "kid": "Guess how far a whisper will reach in quiet, and in noise.",
      "ask": [
       {
        "q": "Why do you think the noise will change how far the whisper reaches?",
@@ -1206,7 +1206,7 @@
    "title": "Doubling the Distance: how fast does a sound fade as you move away?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment you measure how loud a steady sound is at four distances with a free sound meter app, and find what happens each time you double the distance.",
+   "context": "In this experiment you measure how loud a steady sound is at four distances with a free sound meter app. Loudness is counted in decibels. You will find out how much quieter a sound gets each time you walk twice as far away.",
    "question": "Each time you double your distance from a steady sound, how many decibels does it drop?",
    "predict": "Before you start, guess. If the fan reads 60 decibels at 1 metre, what will it read at 2 metres, 4 metres and 8 metres? Why do you think so?",
    "fair_test": "Use the same sound on the same setting, the same phone and app, and the same height, one metre from the floor, for every reading. Only the distance changes. Take three readings at each distance and use the middle one, because the number on the app jumps around.",
@@ -1259,7 +1259,7 @@
      "mins": 5,
      "do": "Show your child the fan and the app. Ask for a guess and a reason. Write the guess in the table for each distance.",
      "say": "We will measure the sound of the fan at four distances. If it reads 60 decibels at 1 metre, what will it read at 2 metres? At 4 metres? Why do you think so?",
-     "kid": "Guess how loud the fan is when you double the distance. Why?",
+     "kid": "Guess how loud the fan is when you double the distance.",
      "ask": [
       {
        "q": "Why do you think the sound will get quieter in that way?",
@@ -1405,7 +1405,7 @@
    "title": "Sound Map: eyes shut, point and draw",
    "mins": 12,
    "days": 1,
-   "context": "This is a short activity to start the unit. You sit with your eyes shut, point to every sound you hear, and then draw a map of where the sounds were.",
+   "context": "This is a short activity to start the unit. You sit with your eyes shut and point to every sound you hear. Then you check on a map where each sound really was. You will find out which sounds are easy to place and which are hard.",
    "materials": [
     {
      "item": "a chair in the middle of a room, or a mat on the floor",
@@ -1484,7 +1484,7 @@
     {
      "id": "s4",
      "mins": 2,
-     "do": "Look at the map together. Count how many sounds were at your sides, and how many were in front of you or behind you. Ask the question below, and let your child answer before you say anything.",
+     "do": "Look at the map together. Count how many sounds were at your sides, and how many were in front of you or behind you. Then ask which sounds were easiest to point to, and let your child answer before you say anything.",
      "say": "Look at the map. Which sounds were at your sides? Which were in front or behind? Which were easier to point to?",
      "kid": "Count the sounds at your sides. Count the sounds in front and behind. Which were easier?",
      "think": "Why might sounds at your sides be easier to find than sounds in front or behind?",
@@ -1512,7 +1512,7 @@
    "problem": "The inner ear sorts high and low notes. It uses a strip called the basilar membrane. A wave runs along the strip and peaks at one place. The place depends on the pitch. In this activity a paper strip stands for the membrane. One end is narrow. The other end is wide, like the real one. Pitch is measured in hertz. One hertz is one shake of the wave each second. You mark where each pitch peaks. Then you curl the strip into a snail, like the real cochlea.",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you make a paper strip that is a model of the basilar membrane, and mark where the high and low pitches peak along it.",
+   "context": "In this activity you make a paper model of the cochlea, the coiled tube deep inside your ear that sorts high and low sounds. You will find out where along it each pitch is picked up.",
    "materials": [
     {
      "item": "chart paper or thin card cut into a strip at least 36 centimetres long and 6 centimetres wide, or two A4 sheets taped end to end",
@@ -1548,8 +1548,8 @@
      "id": "s1",
      "mins": 7,
      "do": "Draw a strip 35 centimetres long. Make one end 1 centimetre wide and the other end 5 centimetres wide. Join the sides with straight lines. Cut it out.",
-     "say": "The cochlea is a coiled tube about 3.5 centimetres long. Our model is 10 times as long, so 35 centimetres. The strip stands for the basilar membrane. It is narrow at one end and about five times wider at the other.",
-     "kid": "Draw a strip 35 centimetres long. Make one end 1 centimetre wide and the other end 5 centimetres wide.",
+     "say": "The cochlea is a coiled tube about 3.5 centimetres long. Our model is 10 times as long, so 35 centimetres. The strip stands for the basilar membrane, a thin stretchy sheet inside the cochlea that shakes when sound arrives. It is narrow at one end and about five times wider at the other.",
+     "kid": "Cut a long strip. Make one end thin and the other end wide.",
      "parent": "Use the ruler to mark both ends and join them with straight lines. The narrow end is where the sound enters the cochlea. The wide end is deep inside. Real cochleas are tiny, so our model is ten times bigger than life in length. With 2 to 4 children, each makes a strip. Share one ruler and one pair of scissors.",
      "check": {
       "t": "mcq",
@@ -1568,7 +1568,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Mark the strip with a ruler from the narrow end. At 0 centimetres write 20,000 hertz. At 7 write 8,000. At 14 write 3,000. At 21 write 1,000. At 28 write 300. At 35 write 20.",
-     "say": "Each mark shows where a sound of that pitch makes the wave peak. The narrow end is for the highest sounds. The wide end is for the lowest. A police whistle is about 3,000 hertz, so it peaks at 14 centimetres.",
+     "say": "Hertz counts how many times a sound shakes each second. More shakes means a higher pitch. Each mark shows where a sound of that pitch makes the wave peak. The narrow end is for the highest sounds. The wide end is for the lowest. A police whistle is about 3,000 hertz, so it peaks at 14 centimetres.",
      "kid": "Mark the pitches along the strip. High at the narrow end. Low at the wide end.",
      "parent": "These marks are rounded from measurements of the human cochlea. A bat's squeak at 50,000 hertz is off the narrow end, so humans do not hear it. A deep drum at 100 hertz is near the wide end. Colour the high end red and the low end blue.",
      "check": {
@@ -1587,9 +1587,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw a wave on the strip that peaks at the 14 centimetre mark. Draw a second wave in another colour that peaks at the 28 centimetre mark. Label each with a sound it could be. Then guess where 5,000 hertz would go, and mark it with a dot.",
-     "say": "A police whistle makes a wave that peaks at 14 centimetres. Draw it on the strip. A low voice at about 300 hertz peaks at 28 centimetres. Draw that too, in another colour.",
-     "kid": "Draw a wave that peaks at 14 centimetres. Draw another that peaks at 28.",
+     "do": "Put a coloured dot on the 14 centimetre mark, where a high wave peaks. Put a dot of another colour on the 28 centimetre mark, where a low wave peaks. Label each with a sound it could be. Then guess where 5,000 hertz would go, and mark it with a third dot.",
+     "say": "A police whistle makes a wave that peaks at 14 centimetres. Mark it with a dot. A low voice at about 300 hertz peaks at 28 centimetres. Mark that with a dot of another colour.",
+     "kid": "Mark where the whistle peaks. Then mark where the low voice peaks.",
      "parent": "A real wave starts at the narrow end, grows bigger as it travels, then rises to a peak and dies away very fast just past the peak. The hair cells at the peak are the ones that signal strongly. Draw the wave as a bump that grows and then drops. The 5,000 hertz dot belongs at about 10 centimetres, between the 8,000 and 3,000 marks. Check your guess against it.",
      "context": "In this step, you draw two travelling waves on the strip."
     },
@@ -1613,7 +1613,7 @@
     },
     {
      "art": "The strip with two waves drawn on it, one peaking early and one peaking late.",
-     "caption": "3. Draw a high wave and a low wave."
+     "caption": "3. Mark where a high sound and a low sound peak."
     },
     {
      "art": "The paper strip curled into a snail-shaped coil with the narrow end outside, held with a piece of tape.",
@@ -1655,14 +1655,14 @@
      "what": "Hold a balloon near a speaker playing a drum beat. Feel the beat. Hum against the balloon. Compare low and high sounds."
     }
    ],
-   "record": "Draw the balloon and write down which sounds you could feel the most: a low drum, a high whistle, or your own humming. Give each sound a score from 0 (nothing) to 5 (buzzes strongly).",
+   "record": "Write down which sounds you could feel the most: a low drum, a high whistle, or your own humming. Give each sound a score from 0 (nothing) to 5 (buzzes strongly).",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "Show your child the balloon and the speaker. Ask them to guess whether they can feel sound with their hands, and which sounds they will feel the most.",
      "say": "Sound is a wave in the air. If a wave is strong enough, we can feel it with our skin. Do you think we can feel sound with our hands? Which sounds, low drums or high whistles? Why do you think so?",
-     "kid": "Can you feel music with your hands? Which sounds? Why do you think so?",
+     "kid": "Can you feel music with your hands?",
      "ask": [
       {
        "q": "Which sounds do you think you will feel the most, and why?",
@@ -1753,7 +1753,7 @@
      "mins": 3,
      "do": "Show your child how to stand on one leg, with the other foot lifted and the arms free, next to the wall. Ask them to guess which will be longer, eyes open or eyes shut, and why.",
      "say": "We will time how long you can stand on one leg. First with your eyes open, then with your eyes shut. Which do you think will be longer? Why do you think so?",
-     "kid": "Stand on one leg. Eyes open or eyes shut? Which lasts longer? Why?",
+     "kid": "Stand on one leg. Will it last longer with eyes open or eyes shut?",
      "ask": [
       {
        "q": "Why do you think shutting your eyes will change how long you can stand?",
@@ -1835,7 +1835,7 @@
      "what": "Chat for one minute with no sound. Then watch a short lesson in Indian Sign Language, learn a few signs, and use them in a silent chat."
     }
    ],
-   "record": "A list of the signs you learned, with a drawing or a note of how each one looks, and one thing you noticed about talking without sound.",
+   "record": "A list of the signs you learned, with a note or a photo of how each one looks, and one thing you noticed about talking without sound.",
    "flow": [
     {
      "id": "s1",
@@ -1956,7 +1956,7 @@
      "mins": 5,
      "do": "Show your child the paper, the phone and the corridor. Ask which size of trumpet mouth will let them hear furthest, and why.",
      "say": "Long ago, before hearing aids, people used ear trumpets to hear better. Today we make three. The mouth of a trumpet is its wide, open end. One trumpet has a small mouth, one a medium mouth and one a big mouth. Which do you think will help most? Why do you think so?",
-     "kid": "We make three ear trumpets. Which size of mouth helps you hear furthest? Why?",
+     "kid": "We make three ear trumpets. Which size of mouth helps you hear furthest?",
      "ask": [
       {
        "q": "Why do you think that size will help the most?",
@@ -2013,9 +2013,9 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Draw a bar chart with the trumpets along the bottom: none, small, medium, large, large pointed away. Draw a bar for each distance. Ask your child to say which was best and why.",
-     "say": "Draw a bar for each distance. Which trumpet was best? Which was worst? Why do you think the wide mouth helped?",
-     "kid": "Draw a bar for each trumpet. Which is tallest? Why?",
+     "do": "Draw a bar chart with the trumpets along the bottom: none, small, medium, large, large pointed away. Draw a bar for each distance. If your child would rather not draw, write the five distances in order, longest first. Ask your child to say which was best and why.",
+     "say": "Look at the distances. Which trumpet was best? Which was worst? Why do you think the wide mouth helped?",
+     "kid": "Show each trumpet's distance, as a bar or in a list. Which is longest?",
      "check": {
       "t": "mcq",
       "q": "A wider ear trumpet lets you hear a quiet sound from further away. What does the wide mouth do?",
@@ -2074,11 +2074,11 @@
     "A phone on a table that vibrates when called, with a ring of cups to make the vibration more visible. Test whether the helper notices the movement.",
     "Three light signals, each made with a different colour of cloth, that mean different visitors, such as family, a friend or a delivery."
    ],
-   "your_turn": "Sketch two ideas. Pick the one you think is best. Build it, and test it with a helper in another room. Did they notice it? How fast? What would make it better?",
+   "your_turn": "Say or sketch two ideas. Pick the one you think is best. Build it, and test it with a helper in another room. Did they notice it? How fast? What would make it better?",
    "setup": [
     {
      "art": "A child sketching two doorbell ideas on paper: a flashing lamp and a string with a flag.",
-     "caption": "1. Sketch two ideas for a doorbell without sound."
+     "caption": "1. Think of two ideas for a doorbell without sound."
     },
     {
      "art": "A string running from a front door handle along a hallway to a cloth flag in the kitchen, with the flag raised.",
@@ -2093,9 +2093,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Ask your child to think about how a Deaf person might notice a visitor. Ask for two sketches.",
-     "say": "Some people cannot hear a doorbell. How could they find out that a visitor has come, with no sound at all? Think of light, movement or touch. Sketch two ideas.",
-     "kid": "How could someone who cannot hear know a visitor came? Sketch two ideas.",
+     "do": "Read the problem together. Ask your child to think about how a Deaf person might notice a visitor. Ask for two ideas, said out loud or sketched.",
+     "say": "Some people cannot hear a doorbell. How could they find out that a visitor has come, with no sound at all? Think of light, movement or touch. Tell me two ideas, or sketch them.",
+     "kid": "Think of light, movement or touch. Say two ideas, or sketch them.",
      "ask": [
       {
        "q": "What sort of signal would be easiest to notice if you were busy cooking?",

@@ -774,7 +774,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Print or draw the 25 journey cards and the 10 cut cards on card or paper before the game. 2. Cut them out. A group can share the cutting. 3. Shuffle the journey cards. 4. Spread them out, writing side up.",
+     "do": "1. Print the 25 journey cards and 10 cut cards, or copy them on to small papers. 2. Cut them out. A group can share the cutting. 3. Shuffle the journey cards. 4. Spread them out, writing side up.",
      "say": "Five parasites are mixed up in this pile. Each one has five steps. Your job is to sort them into five journeys, and put each in order.",
      "kid": "Cut out the cards. Shuffle the journey cards. Spread them out.",
      "context": "This is the first step of Order the Journey. You set out the cards."
@@ -1048,7 +1048,7 @@
      "what": "Make the filters. Run six tests with seeds and one test with coloured water. Fill in the table and decide which filter is best."
     }
    ],
-   "record": "Fill in the table. Then draw a bar for each filter, as tall as the number of seeds that got through. Mark the filter that you would choose for a village pot.",
+   "record": "Fill in the table. Then show how many seeds got through each filter. Draw a bar for each one, or make a pile of seeds for each and take a photo. Mark the filter that you would choose for a village pot.",
    "context": "In this experiment you pour water with pretend copepods through different cloths. You find which filter catches them, and how much slower a finer filter is.",
    "example_chart": {
     "type": "table",
@@ -1121,8 +1121,8 @@
      "id": "s1",
      "mins": 3,
      "do": "1. Show your child the cloths, the strainer and the seeds. 2. Say that the seeds stand in for copepods. 3. Ask for a guess and a reason. 4. Write the guesses at the top of the table.",
-     "say": "A copepod is about as big as a poppy seed. Mustard seeds are our big copepods, and khus khus are our small ones. Which filter will catch them all? Which will be the slowest? Why do you think so?",
-     "kid": "Seeds stand in for copepods. Which cloth will catch them all? Which will be slowest? Why?",
+     "say": "A copepod is about as big as a poppy seed. Mustard seeds are our big copepods, and khus khus are our small ones. Which cloth do you think will catch them all? Which will let the water through slowest? Why?",
+     "kid": "Pick the cloth you think will catch all the seeds. Pick the one you think will be slowest.",
      "ask": [
       {
        "q": "Why do you think that filter will catch the seeds?",
@@ -1214,8 +1214,8 @@
      "id": "s7",
      "mins": 4,
      "do": "1. Look at the table together. 2. Ask your child to say what they think, what they saw, and why. 3. Ask the question below.",
-     "say": "What do you think happened? What did you see that shows it? Why do you think it happened that way? Which filter would you choose for a village pot, and why?",
-     "kid": "Say what you think, what you saw, and why. Which filter would you choose?",
+     "say": "Look at the table with me. Which filter caught the most seeds? Which was the slowest? Which would you choose for a village pot?",
+     "kid": "Point to the numbers in your table that show what happened.",
      "ask": [
       {
        "q": "What do you think happened, what did you see, and why?",
@@ -1315,7 +1315,7 @@
      "what": "Count the wrigglers in each pot, then empty and scrub every pot."
     }
    ],
-   "record": "Fill in the table on day 1, day 3 and day 5. Then draw a bar for each pot, as tall as the number of wrigglers you counted.",
+   "record": "Fill in the table on day 1, day 3 and day 5. Then show the wrigglers you counted in each pot. Draw a bar for each pot, or line up one button for each wriggler and take a photo.",
    "context": "In this experiment you put out four pots of water covered in different ways, and find where mosquitoes lay their eggs. It shows how a life cycle can be broken before it begins.",
    "example_chart": {
     "type": "bar",
@@ -1368,8 +1368,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Show your child the four pots and the covers. 2. Say that mosquitoes lay eggs on or near still water. 3. Ask for a guess and a reason. 4. Write the guesses in the table.",
-     "say": "A female mosquito needs still water for her eggs. We will put out four pots with four different covers. Which pots will have wrigglers? Which will have none? Why do you think so?",
-     "kid": "Four pots, four covers. Which will grow wrigglers? Why do you think so?",
+     "say": "A female mosquito needs still water for her eggs. Baby mosquitoes live in water and wriggle, so we call them wrigglers. We will put out four pots with four different covers. Which pots will have wrigglers? Which will have none? Why do you think so?",
+     "kid": "Look at the four pots. Point to the pots that you think will grow wrigglers.",
      "ask": [
       {
        "q": "Why do you think that pot will get wrigglers, or not?",
@@ -1407,9 +1407,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "On day 3, look at each pot with a torch. Look at the surface and the walls just above the water. Draw what you see in each pot. Do not move the covers more than you need.",
-     "say": "Shine the torch across the water. Do you see tiny dark commas hanging from the surface? Those are wrigglers. Draw what you see in each pot.",
-     "kid": "Shine a torch into each pot. Look for tiny wrigglers. Draw what you see.",
+     "do": "On day 3, look at each pot with a torch. Look at the surface and the walls just above the water. Note which pots have wrigglers, and take a photo of each pot. Do not move the covers more than you need.",
+     "say": "Shine the torch across the water. Do you see tiny dark commas hanging from the surface? Those are wrigglers. Which pots have them today?",
+     "kid": "Shine a torch into each pot. Look for tiny wrigglers. Say yes or no for each pot.",
      "wait": "Day 3: look at the pots.",
      "parent": "Wrigglers are tiny at first, about the size of a comma. They hang head-down from the surface and dive when the water is disturbed. A magnifying glass helps. A little rainwater or a stray leaf is not a problem. If you see a big wriggler with a fat head, that is a pupa, called a tumbler.",
      "context": "In this step you look at the pots on day 3."
@@ -1457,7 +1457,7 @@
      "mins": 6,
      "adult": true,
      "do": "A grown-up pours the water from every pot down the toilet and flushes. Scrub each pot with a brush and soap and turn it upside down to dry. Wash your hands.",
-     "say": "Today we must empty every pot, so no wriggler can grow up into a mosquito. Why must we empty on day 5 or day 6 and not leave it for a week?",
+     "say": "Today we must empty every pot, so no wriggler can grow up into a mosquito. If we left the pots for a week, the wrigglers would turn into flying mosquitoes.",
      "kid": "A grown-up pours out the water. Scrub the pots. Turn them upside down. Wash your hands.",
      "think": "A wriggler needs about a week to become a mosquito. What would happen in a pot left out for two weeks?",
      "context": "In this step you empty and scrub the pots."
@@ -1492,8 +1492,8 @@
      "what": "Measure 80 centimetres of string. Wind 2 centimetres on to a pencil. Work out how many days the whole worm would take."
     }
    ],
-   "record": "A small table of days for different lengths and speeds, a sentence saying how many days it would take to wind the whole worm, and a drawing of the string wound round the stick.",
-   "context": "In this activity you wind a pretend Guinea worm slowly on to a stick, the way it was done in villages, and work out how many days it takes.",
+   "record": "A small table of days for different lengths and speeds, a sentence saying how many days it would take to wind the whole worm, and a photo of the string wound round the stick.",
+   "context": "In this activity you wind a pretend Guinea worm slowly on to a stick, the way it was done in villages. You will find out why taking the worm out needed so many days.",
    "setup": [
     {
      "art": "A length of thick string laid beside a forearm to show how long a Guinea worm can be.",
@@ -1537,11 +1537,11 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Work out how many days the whole string would take. 2. Write the answer. 3. Try a 60 centimetre worm and a 100 centimetre worm, at 2 and at 3 centimetres a day. 4. Fill a small table. 5. Talk about the question below.",
-     "say": "The pretend worm is 80 centimetres long, and we wind on 2 centimetres each day. How many days will it take to wind the whole worm? Was your guess close? A Guinea worm larva is about half a millimetre long. How many times longer than the larva is the adult?",
-     "kid": "Work out 80 divided by 2. How many days is that? Was your guess close?",
+     "say": "The pretend worm is 80 centimetres long, and we wind on 2 centimetres each day. How many days will it take to wind the whole worm? Was your guess close?",
+     "kid": "Divide 80 by 2 to find the days. Then compare with your guess.",
      "ask": [
       {
-       "q": "A larva is about half a millimetre. How many times longer is a worm of 80 centimetres?",
+       "q": "A Guinea worm larva, the tiny baby worm, is about half a millimetre long. How many times longer is a worm of 80 centimetres?",
        "good": [
         "1,600 times longer. 80 centimetres is 800 millimetres, and 800 divided by one half is 1,600."
        ]
@@ -1625,14 +1625,14 @@
      "mins": 4,
      "do": "1. Draw three sets of axes with the days along the bottom and the temperature up the side. 2. Ask your child to guess what a malaria chart would look like.",
      "say": "Malaria parasites burst out of red blood cells all at the same time, about every two days. What shape do you think the fever chart will make? Why do you think so?",
-     "kid": "Draw three graphs. Guess what a malaria chart looks like.",
+     "kid": "Guess what shape a malaria fever chart will make.",
      "context": "This is the first step of Fever Chart Detective. You guess before you draw.",
      "parent": "Alone: draw all three patients. In a group: one patient each, then swap and compare. Squared paper is not needed; mark a ruler line for each degree."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "Draw each patient's line. Patient A, evening readings from Monday to Friday: 38.5, 38.8, 38.2, 37.4, 36.8. Patient B, evening readings from Monday to Saturday: 39.8, 37.0, 39.9, 37.1, 40.0, 37.2. Patient C, evening readings from Monday to Friday: 37.8, 38.4, 38.9, 39.4, 39.8.",
+     "do": "Draw each patient's line. The numbers are body temperatures in degrees Celsius. Patient A, evening readings from Monday to Friday: 38.5, 38.8, 38.2, 37.4, 36.8. Patient B, evening readings from Monday to Saturday: 39.8, 37.0, 39.9, 37.1, 40.0, 37.2. Patient C, evening readings from Monday to Friday: 37.8, 38.4, 38.9, 39.4, 39.8.",
      "say": "Mark each reading with a dot. Join the dots with a line. Do it for all three patients. What shape does each make?",
      "kid": "Draw a dot for each reading. Join the dots. Do all three patients.",
      "parent": "These are made-up numbers. Patient A falls slowly, like many viral fevers. Patient B rises on every second evening, like waves, as in many kinds of malaria. Patient C climbs day by day, which doctors call a step-ladder, a pattern seen in typhoid. A pattern is only a clue. Only a test can tell which illness it is.",
@@ -1653,8 +1653,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Look at the three graphs together. 2. Ask which one has waves. 3. Ask why the waves happen.",
-     "say": "Which chart has waves? Why do you think a fever would go up and down in waves? What happens inside the blood every two days?",
-     "kid": "Which chart has waves? Why would the fever come in waves?",
+     "say": "Look at all three lines. Which one goes up and down in waves? Every two days, many parasites burst out of red blood cells at the same time.",
+     "kid": "Point to the chart that has waves.",
      "ask": [
       {
        "q": "Why does the fever of malaria come in waves?",
@@ -1758,9 +1758,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Count out 36 beans. 2. Put the four plates in a row. 3. Ask your child to guess how many beans will get through all four gates.",
+     "do": "1. Count out 36 beans. 2. Write Gate 1 to Gate 4 on four small papers and put them in a row. 3. Ask your child to guess how many beans will get through all four gates.",
      "say": "Each bean is an egg of a parasite. It must pass four gates to become an adult. Gate 1 is reaching water. Gate 2 is being eaten by the right animal. Gate 3 is reaching a new host. Gate 4 is growing up. How many of 36 will make it? Why do you think so?",
-     "kid": "36 eggs. Four gates. Guess how many get through. Why?",
+     "kid": "Guess how many of the 36 eggs will get through all four gates.",
      "context": "This is the first step of the Odds Gates. You guess before you roll."
     },
     {
@@ -1796,8 +1796,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Compare the two runs. Ask your child to say what they think, what they saw, and why.",
-     "say": "How many came through in the plain run? How many in the snail run? One parasite lays thousands of eggs. Another makes copies of herself in a snail. Why do both ways work?",
-     "kid": "Compare the two runs. Which gave more adults? Why?",
+     "say": "How many came through in the plain run? How many in the snail run? One parasite lays thousands of eggs. Another makes copies of herself in a snail.",
+     "kid": "Compare your two tables. Which run gave more adults?",
      "ask": [
       {
        "q": "Why does a parasite lay so many eggs?",
@@ -1844,7 +1844,7 @@
     }
    ],
    "record": "The finished wheel, and a sentence saying which stages happen in which host.",
-   "context": "In this activity you make a turning wheel that shows the five stages of one parasite's journey, one at a time, through a window.",
+   "context": "In this activity you make a turning wheel that shows the five stages of one parasite's journey, one at a time, through a window. You will use it to explain the journey to someone at home.",
    "setup": [
     {
      "art": "A paper plate divided into five equal segments, each with a small drawing of one stage of the Guinea worm and a number.",
@@ -1859,17 +1859,17 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "1. Choose one journey, such as the Guinea worm, filaria or malaria. 2. Look at the five steps of that journey in the cards. 3. Decide what to draw in each step.",
-     "say": "Pick a journey you like. Each plate segment shows one stage. Which five pictures will you draw?",
-     "kid": "Choose a journey. Decide what to draw for each of the five stages.",
+     "do": "1. Choose one journey, such as the Guinea worm, filaria or malaria. 2. Look at the five steps of that journey in the cards from the game Order the Journey. 3. Decide how to show each step.",
+     "say": "Pick a journey you like. Each plate segment shows one stage. Which five stages will you show?",
+     "kid": "Choose a journey. Decide how to show each of the five stages.",
      "context": "This is the first step of the Life-Cycle Wheel. You choose a journey."
     },
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Divide one plate into five equal segments. 2. Draw one stage in each segment, in order, with a number. 3. Under each drawing, write the host it happens in: person, copepod, mosquito or snail.",
-     "say": "Draw the stages in order, round the plate. Write which host each stage is in.",
-     "kid": "Draw five stages round the plate. Write the number and the host under each.",
+     "do": "1. Divide one plate into five equal segments. 2. Show one stage in each segment, in order, with a number. Draw it, or write a few words. 3. Under each drawing, write the host it happens in: person, copepod, mosquito or snail.",
+     "say": "Show the stages in order, round the plate, with a drawing or a few words. Write which host each stage is in.",
+     "kid": "Show five stages round the plate. Write the number and the host under each.",
      "context": "In this step you draw the five stages round the first plate.",
      "parent": "Two to four children: each picks a different journey and makes a wheel, then swaps wheels to guess the stage in the window. One child with a parent: the parent plays the guesser. One more paper plate is cheap at a kirana or stationery shop. Thick card cut into circles works too."
     },
@@ -1886,8 +1886,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Show the wheel to someone at home and explain the journey. Then ask them which link they would cut.",
-     "say": "Explain your wheel to someone. Where would you cut the journey? Why there?",
-     "kid": "Show your wheel to someone. Explain the journey. Where would you cut it?",
+     "say": "Explain your wheel to someone. Which stage happens in a person, and which in the carrier? Where would you cut the journey, and why there?",
+     "kid": "Turn your wheel for someone and explain the journey.",
      "ask": [
       {
        "q": "Which stage is in a person, and which is in the carrier?",
@@ -1945,7 +1945,7 @@
      "mins": 3,
      "adult": true,
      "do": "1. Find out how your family treats drinking water. It may be a ceramic candle filter, a UV purifier, an RO purifier, boiling, a cloth or none. 2. Ask your child to guess what it holds back.",
-     "say": "Our drinking water goes through something before we drink it. What do you think it holds back? Copepods, germs, or both? Why do you think so?",
+     "say": "Our drinking water goes through something before we drink it. What do you think it holds back? Tiny water animals called copepods, germs, or both? Why do you think so?",
      "kid": "How does our family clean drinking water? Guess what it holds back.",
      "context": "This is the first step of Look at Our Own Water Filter."
     },
@@ -2056,9 +2056,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "1. Draw and colour the twelve panels. 2. Write a few words in each. 3. Read the comic to someone. 4. Ask them where they would cut the journey, and why.",
-     "say": "Draw your comic neatly, with a few words in each panel. When you read it aloud, ask your listener where they would cut the journey. Do they choose the same place as you?",
-     "kid": "Draw and colour the comic. Read it to someone. Ask where they would cut it.",
+     "do": "1. Make the twelve panels. Draw them, or set up each scene with small toys and take a photo. 2. Write a few words in each. 3. Read the comic to someone. 4. Ask them where they would cut the journey, and why.",
+     "say": "Make your panels, with a few words in each. When you read it aloud, ask your listener where they would cut the journey. Do they choose the same place as you?",
+     "kid": "Make the twelve panels. Read the comic to someone. Ask where they would cut it.",
      "wait": "Day 2: draw the final comic and read it aloud.",
      "context": "This is the second day of the project. You finish the comic and read it aloud."
     }
@@ -2098,8 +2098,8 @@
     "A cloth stretched over a wide ring, so that it has more area and the water passes more quickly.",
     "A funnel made from a cut plastic bottle with a cloth in the neck, to pour from a jug without spilling."
    ],
-   "your_turn": "Sketch your design. Build it and test it with seeds and one litre of water. Write how many seeds got through and how many seconds it took. Change one thing, such as the number of layers, and test again. Which design was best, and what did you give up to get it?",
-   "context": "This is a design challenge that follows the Sari Filter Test. You build the best pot filter you can, and measure how well it works.",
+   "your_turn": "Sketch your design, or describe it to your grown-up. Build it and test it with seeds and one litre of water. Write how many seeds got through and how many seconds it took. Change one thing, such as the number of layers, and test again. Which design was best, and what did you give up to get it?",
+   "context": "This is a design challenge that follows the Sari Filter Test. You build the best pot filter you can, and measure how well it works. You will find out what a village could use to keep copepods out of its water.",
    "setup": [
     {
      "art": "A child sketching three pot-filter designs on paper: a cloth tied over a pot, a strainer lined with cloth and a hanging bag.",
@@ -2118,9 +2118,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two or three designs.",
-     "say": "A village needs a filter that is cheap, fast and strong enough to hold back copepods. How could you build one? Draw your ideas first.",
-     "kid": "Draw two or three ideas for a pot filter.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to describe or sketch two or three designs.",
+     "say": "A village needs a filter that is cheap, fast and strong enough to hold back copepods. How could you build one? Say or sketch your ideas first.",
+     "kid": "Tell or sketch two or three ideas for a pot filter.",
      "ask": [
       {
        "q": "What makes a filter slow, and what makes it catch more?",
@@ -2214,9 +2214,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Talk about the problem. Ask your child to sketch two designs.",
+     "do": "Talk about the problem. Ask your child to describe or sketch two designs.",
      "say": "A person with a blister wants cool water on her foot. But the worm lets out her young into any water that touches the blister. How can she cool her foot without the water ever reaching the well?",
-     "kid": "Draw two ideas for a foot-soaking station.",
+     "kid": "Tell or sketch two ideas for a foot-soaking station.",
      "context": "This is the first step of the Foot-Soaking Station challenge. You plan."
     },
     {

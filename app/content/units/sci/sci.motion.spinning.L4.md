@@ -233,7 +233,7 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 - **s2 (3 min)**  
   *Parent does:* Play one practice card together. A stone is whirled on a string, and the string snaps. Everyone picks a token and turns it over together.  
   *Parent says:* Practice card. A stone is whirled in a circle on a string, and the string snaps. Pick a token, then turn it over.  
-  *Child mode:* Practice card. A stone is whirled on a string, and the string snaps. Pick a token. Turn it over.
+  *Child mode:* Pick your token. Turn it over together.
   - Check: A stone is whirled in a circle on a string, and the string snaps. What does the stone do? → **Flies off straight, along the way it was moving**
 - **s3 (5 min)**  
   *Parent does:* Take turns as the reader. Play the first 6 cards. After each card, ask who can say why.  
@@ -263,8 +263,8 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 - **results table:** Coins hanging | Turns in 10 seconds, try 1 | Try 2 | Try 3 | Middle result
 - **s1 (4 min)**  
   *Parent does:* Show your child the pen, the string, the bag and the pouch of coins. Explain how it works: the coins hang below and pull the string down. The string runs through the pen, so that pull tugs the bag inward, towards the pen. Ask for a guess and a reason.  
-  *Parent says:* The coins hang below and pull the string down. The string runs through the pen, so the pull tugs the bag towards the pen. The bag must go round fast enough to stay in its circle while the coins pull on it. If we use four times as many coins, how much faster must the bag go? Why do you think so?  
-  *Child mode:* The coins pull the string down. The string pulls the bag towards the pen. The bag goes round to stay in its circle. With four times as many coins, how much faster must the bag go? Why?
+  *Parent says:* The coins hang below and pull the string down. The string runs through the pen, so the pull tugs the bag towards the pen. The bag must go round fast enough to stay in its circle while the coins pull on it. Now make a guess, and tell me why.  
+  *Child mode:* Look at the whirler. The coins pull the string down. The string pulls the bag towards the pen.
   - Ask: If the coins are four times as many, how many times as fast must the bag go round? Why? (good: Four times as fast, because the pull is four times as big.; Less than four times as fast.; Twice as fast.)
   - Note: Do not correct the guess. Most children say four times as fast. Write down the guess and the reason.
 - **s2 (8 min) · grown-up needed**  
@@ -287,7 +287,7 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 - **s5 (5 min)**  
   *Parent does:* Ask your child to say or write three things: their claim, their evidence and their reason. Then ask the question below.  
   *Parent says:* What did you find? What numbers show it? Why do you think it happened?  
-  *Child mode:* Say what you found. Say what numbers show it. Say why you think it happened.
+  *Child mode:* Use your numbers to tell your grown-up what you found and why.
   - Ask: When the coins became four times as many, how many times as many turns did the bag need? (good: About twice as many turns.; Less than four times as many.; The turns grew more slowly than the coins.)
   - Note: After your child has said their ideas, tell them: this fits the rule. Twice the speed needs four times the pull. Four times the coins needed only about twice the turns. If the results were messy, say that scientists see that too, and that is why we do each setting three times.
   - Think: The pouch of coins is the thing that pulled the bag inward. If the string snapped, where would the bag go?
@@ -296,12 +296,12 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 - **predict:** Before you start, guess. Which coin will slide off first, the one near the middle or the one near the edge? Will a heavy stack of coins slide off before a single coin? Why do you think so?
 - **fair test:** Use the same plate and the same type of coin every time. In Part A, put three coins on rings marked at 4, 8 and 12 centimetres from the middle, on different sides of the plate. Turn the plate faster in steps: one turn in 4 seconds, in 3 seconds, in 2 seconds, and then as fast as you safely can. In Part B, put a single coin and a stack of 3 coins taped together on the same ring, on opposite sides. Do 3 tries of each part, because one try can be a fluke.
 - **safety:** Nobody sits on the turntable. Keep fingers away from the moving turntable, and turn it by hand only. Stand a metre back, because a coin can fly off. Keep coins away from children under five.
-- **record:** Fill in the table for each try. Draw a picture of the plate from above, with the three coins on their rings, and number them in the order that they slid off.
+- **record:** Fill in the table for each try. Write the order the coins slid off, for example edge coin first. You can also draw the plate from above and number the coins, or take a photo of the plate.
 - **results table:** Try | First coin to slide off | Second coin | Third coin | Speed when the first coin slid off
 - **s1 (4 min)**  
   *Parent does:* Show your child the plate, the coins and the turntable. Ask for a guess and a reason for each question. Write the guesses on a sheet of paper.  
-  *Parent says:* We will put coins on a plate and turn it faster and faster. The only thing holding each coin on the plate is friction, which is the grip between the coin and the plate. Which coin do you think will slide off first? Will a heavy stack slide off before a single coin? Why do you think so?  
-  *Child mode:* Coins sit on a plate that turns faster and faster. Friction, the grip of the plate, is all that holds them. Which coin slides off first? Will a heavy stack slide off before a single coin? Why?
+  *Parent says:* We will put coins on a plate and turn it faster and faster. The only thing holding each coin on the plate is friction, which is the grip between the coin and the plate. Which coin do you think will slide off first? Will a heavy stack slide off before a single coin?  
+  *Child mode:* Coins sit on a plate that turns faster and faster. Friction, the grip of the plate, is all that holds them.
   - Ask: Which coin do you think will slide off first, and why? (good: The one near the edge, because it goes round a bigger circle.; The one near the middle.; The heavy one, because it is harder to hold.)
   - Note: Do not correct the guess. Many children say a heavy stack will slide off first. Write down what your child says and why.
 - **s2 (6 min)**  
@@ -333,11 +333,11 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 ## Activities
 ### a1 · Feel the Pull: three little tests with one sock (15 min)
 - **safety:** Whirl only a soft sock, in a flat circle at about waist height, away from faces and from other people. A grown-up stays close. Knot the heavy sock very tightly so nothing can fly out, and loop the string round your wrist or hold the very end firmly. Keep coins and rice away from children under five.
-- **record:** Draw the sock going round, with an arrow along the string showing the pull. Draw a long arrow for the strong pull and a short arrow for the weak pull. Also write the score from 1 to 5 for the pull each time, and the turns in 5 seconds.
+- **record:** Write the score from 1 to 5 for the pull each time. Then show the pull with arrows on a drawing of the sock going round, long for a strong pull and short for a weak pull. Or just point and tell your grown-up which way the string pulled the sock.
 - **s1 (2 min)**  
   *Parent does:* Show the sock on its string. Ask your child to guess how the pull on their fingers will change when the sock goes faster, and when the sock is heavier. Ask why.  
   *Parent says:* We will whirl the sock slowly, then faster. Then we will put coins in it. What do you think will happen to the pull on your fingers? Why?  
-  *Child mode:* Whirl the sock slowly, then fast, then with coins. How will the pull feel? Why?
+  *Child mode:* We will whirl the sock slowly, then fast, then with coins inside.
   - Ask: What do you think will happen to the pull when you whirl faster? (good: It will pull harder.; It will pull about twice as hard.; I am not sure.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (5 min) · grown-up needed**  
@@ -353,17 +353,17 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
   - Note: Tie the sock tightly, so no coin can fly out. The pull from the heavier sock at the same speed should feel clearly bigger, because a bigger mass needs a bigger pull to be turned. Use a sock with about 50 grams in it (10 coins or a handful of rice), so the difference is easy to feel; the plain rolled sock weighs only about 20 to 30 grams. Whirl both at the same count of turns in 5 seconds.
 - **s4 (2 min)**  
   *Parent does:* Ask the question below. Let your child answer first.  
-  *Parent says:* Your fingers felt the string pulling outward on them. What was the string doing to the sock?  
-  *Child mode:* Your fingers feel a pull. What is the string doing to the sock?
+  *Parent says:* Your fingers felt the string pulling outward on them. Think about the sock.  
+  *Child mode:* Think about what the string is doing to the sock as you whirl it.
   - Ask: The string pulled your fingers outward. In which direction was it pulling the sock? (good: Inward, towards my hand.; To the middle of the circle.; The string pulls both ways, as hard each way.)
   - Note: After your child has answered: the string pulls the sock inward, towards the middle, and the sock pulls the string outward just as hard. Your fingers feel the outward pull of the sock. The pull on the sock itself is the one that makes it go round.
 ### a2 · Marble in the Kadai: how high will it climb? (15 min)
 - **safety:** Use a clean, cool kadai, never one that has just been used for cooking. Keep the marble away from children under five, who might put it in their mouths. Do this over a table or the floor, not on a high shelf.
-- **record:** Draw the kadai from above and from the side. Draw the path of the marble when you swirl gently and when you swirl hard.
+- **record:** Write how high the marble climbed each time: low, middle or high. Then draw its path from above for a gentle swirl and a hard swirl, or show each path with your finger and tell your grown-up.
 - **s1 (3 min)**  
   *Parent does:* Show the kadai and the marble. Ask your child to guess how high the marble will climb if the kadai is swirled gently, and then harder. Ask why.  
   *Parent says:* I will put a marble in this kadai and swirl it. How high up the wall do you think it will go if I swirl it harder? Why?  
-  *Child mode:* Swirl the marble in the kadai. If you swirl harder, will the marble go higher? Why do you think so?
+  *Child mode:* We will swirl a marble round in the kadai, gently and then harder.
   - Ask: What do you think will happen to the marble when the swirl gets faster? (good: It will climb higher up the wall.; It will fly out of the kadai.; It will go round faster.)
   - Note: Do not correct the guess. Some children think the marble will fly out. It stays in, because the wall pushes it inward.
 - **s2 (5 min)**  
@@ -380,21 +380,21 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 - **s4 (3 min)**  
   *Parent does:* Ask the question below. Let your child answer first.  
   *Parent says:* While the marble went round, it seemed to press on the wall as if it wanted to go outward. What was really pushing it inward?  
-  *Child mode:* The marble seems to push outward on the wall. What is pushing it inward?
+  *Child mode:* The marble seems to push outward on the wall. Think about what pushes it back inward.
   - Ask: The marble pressed on the wall. What was pushing the marble inward? (good: The wall of the kadai.; The wall pushes back on it.; The kadai gives the pull to the middle.)
   - Note: After your child has answered: the marble presses on the wall because it tries to go straight on. The wall pushes back inward, and that push is what bends the marble's path into a circle. The wall pushes the marble inward. The outward press on the wall comes from the marble itself.
 ### a3 · Water Stays Up: the slowest swing that keeps the water in (15 min)
 - **safety:** A grown-up must be there. Swing only a light plastic bucket with a strong handle. Keep everyone at least 3 metres away, and make sure the floor is not slippery. Stop if you feel dizzy.
-- **record:** Draw the bucket at the top of its swing, with the water inside it. Write how long one turn took when the water just stayed in.
+- **record:** Write how long one turn took when the water just stayed in. You can also draw the bucket at the top of its swing, or tell your grown-up what you saw.
 - **s1 (3 min)**  
   *Parent does:* Show the bucket and the water. Ask your child to guess what the water will do when the bucket is upside down at the top. Ask why.  
   *Parent says:* When the bucket is upside down at the top, what do you think will happen to the water? Will it fall out? What if I swing very fast?  
-  *Child mode:* The bucket goes upside down at the top. What happens to the water? Why?
+  *Child mode:* We will swing a bucket with water in a big circle. At the top, the bucket is upside down.
   - Ask: What do you think will happen to the water at the top of the swing? Why? (good: It will fall out on my head.; It will stay in if I swing fast.; It will stay in because it is pushed outward.)
   - Note: Do not correct the guess. Many children think the water will fall out whatever the speed. Write down what your child says.
 - **s2 (4 min) · grown-up needed**  
   *Parent does:* Hold the empty bucket by its handle with your arm straight. Swing it in a full circle beside your body. Practise until the circle is smooth and the bucket does not hit you.  
-  *Parent says:* Swing the empty bucket in a full circle, beside your body. Keep your arm straight. Make it smooth. Is the pull on your arm bigger at the top or at the bottom?  
+  *Parent says:* Swing the empty bucket in a full circle, beside your body. Keep your arm straight. Make it smooth.  
   *Child mode:* Swing the empty bucket in a full circle. Keep your arm straight. Make it smooth.
   - Note: The circle goes up and over beside the body, not in front of it. Stand with feet apart. A grown-up stays at a distance. If the child cannot swing a full circle smoothly, stop and do not add water.
 - **s3 (6 min) · grown-up needed**  
@@ -405,17 +405,17 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
   - Check: The water stayed in the upside-down bucket when you swung fast, but fell out when you swung slowly. What is the best explanation? → **At the top, the bucket must move downward faster than the water would fall on its own**
 - **s4 (2 min)**  
   *Parent does:* Ask the question below. Let your child answer first.  
-  *Parent says:* The water stayed in because the bucket was going round fast. What do you think a roller-coaster loop has in common with the bucket?  
-  *Child mode:* Why does the water stay in? What does a roller-coaster loop have in common?
+  *Parent says:* The water stayed in because the bucket was going round fast. Now think about a roller-coaster loop.  
+  *Child mode:* Picture a roller coaster going upside down in a loop.
   - Ask: What do a swung bucket and a roller-coaster loop have in common? (good: They both go in a circle that goes upside down.; They both need enough speed at the top.; If they go too slowly, the water or the car falls.)
   - Note: After your child has answered: a thing in a vertical circle must go fast enough at the top, so that gravity alone does not pull it away from the track or the bucket. This is why a roller coaster has to start high, and why a loop must be built carefully.
 ### a4 · Watch the Dryer: where do the water drops go? (15 min)
 - **safety:** A grown-up starts any machine. Never open a spin dryer or lift its lid while it is turning, and stand a metre back. Wash the leaves first. Hold the open umbrella by the handle only, well away from everyone and at least 2 metres from faces, because the metal rib ends are sharp; or whirl the wet sock on its string instead, in a flat circle at waist height. Mop up the water at once, because a wet floor is slippery.
-- **record:** Draw the drum or the spinner from above, with the leaves against the wall and arrows showing where the drops go. Draw the umbrella from above with arrows for the drops, and a ring where the drops landed.
+- **record:** Take a photo of the newspaper to show the ring where the drops landed. Then tell your grown-up where the water and the leaves went in the spinner, or draw the spinner from above with arrows for the water.
 - **s1 (3 min)**  
   *Parent does:* Show the spinner or the dryer. Ask your child to guess what will happen to the water and to the leaves or clothes when the machine spins. Ask why.  
   *Parent says:* We will spin wet leaves. What do you think will happen to the water? What will happen to the leaves? Why do you think so?  
-  *Child mode:* We spin wet leaves in a spinner. Where does the water go? Where do the leaves go? Why?
+  *Child mode:* We will spin wet leaves in a spinner and see what happens.
   - Ask: Where do you think the water will go when the spinner turns, and why? (good: Out through the holes.; To the outside of the basket.; The water will go to the middle.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (5 min) · grown-up needed**  
@@ -431,8 +431,8 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
   - Note: Each drop leaves the rim along a straight line that just touches the circle, so the spots land in a wide ring or spray, further out than the umbrella. They do not fall straight down. Keep the umbrella upright, stand clear, and mop up the water at once.
 - **s4 (2 min)**  
   *Parent does:* Ask the question below. Let your child answer first.  
-  *Parent says:* In the spinner, the water got out and the leaves did not. Nobody picked out the water by hand. What did the sorting?  
-  *Child mode:* Nobody picked out the water. What did the sorting?
+  *Parent says:* In the spinner, the water got out and the leaves did not. Nobody picked out the water by hand.  
+  *Child mode:* Think about how the water got out while the leaves stayed in.
   - Ask: What did the sorting in the spinner, if nobody picked out the water? (good: The spinning did it.; The wall holds the leaves, but the holes let the water go.; Things that are not held go straight.)
   - Note: After your child has answered: the spin does the work. Whatever is held goes round, and whatever is not held goes straight on. A cream separator and a laboratory centrifuge use the same idea, with heavier parts moving to the outside.
 
@@ -442,8 +442,8 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 - **record:** Make a table with three rows, one for each string length. Write the middle result of three tries for each. Draw a bar chart of the three results.
 - **s1 (4 min)**  
   *Parent does:* Say that Mercury goes round the Sun in about 88 days, the Earth in one year and Jupiter in about 12 years. Then ask your child to guess what a longer string will do to the bag, and to give a reason.  
-  *Parent says:* Far planets take much longer to go round the Sun. With the whirler, the pull stays the same, but we make the string longer. Will the bag go round faster, slower or the same? Why do you think so?  
-  *Child mode:* Far planets go round slowly. If the string is longer and the pull is the same, will the bag go round faster, slower, or the same? Why?
+  *Parent says:* Far planets take much longer to go round the Sun. With the whirler, the pull stays the same, but we make the string longer. Now make a guess about the bag, and tell me why.  
+  *Child mode:* Far planets go round the Sun slowly. We will see if a longer string makes the bag slower too.
   - Ask: If the string is longer and the pull is the same, will the bag go round faster, slower or the same? Why? (good: Slower, because it has a longer way to go.; Slower, because the circle is bigger.; The same.)
   - Note: Do not correct the guess. Write down the guess and the reason.
 - **s2 (6 min) · grown-up needed**  
@@ -464,8 +464,8 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
   - Ask: What happened to the number of turns when the string got longer? (good: The turns got fewer.; The bag went round more slowly.; A longer string means a slower circle.)
 - **s5 (7 min)**  
   *Parent does:* Ask the question below. Let your child answer first. Then read the note for the parent.  
-  *Parent says:* Mercury takes about 88 days to go round the Sun. Jupiter takes about 12 years. How is that like the bag on the longer string?  
-  *Child mode:* Far planets take longer to go round the Sun. How is that like the bag on the longer string?
+  *Parent says:* Mercury takes about 88 days to go round the Sun. Jupiter takes about 12 years.  
+  *Child mode:* Think about Mercury and Jupiter. Then think about the bag on the longer string.
   - Ask: How are far planets like the bag on the longer string? (good: They go round more slowly.; They have a bigger circle.; They take longer for each turn.)
   - Note: After your child has answered: in the solar system, the Sun's gravity is the pull, and it gets weaker with distance. That makes far planets even slower than the bag on the longer string. Mercury goes round the Sun in about 88 days, the Earth in one year, Jupiter in about 12 years, and Neptune in about 165 years.
 
@@ -473,14 +473,14 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 ### c1 · The Coin Keeper: keep three coins on a plate at one turn a second (40 min)
 - **problem:** Make a plate that keeps three coins on it, starting at 15 centimetres from the middle, while the turntable turns once every second for 5 turns. Then see how fast it can turn and still keep the coins.
 - **safety:** A grown-up cuts the cardboard and any sandpaper. Stand a metre back from the turntable, because a coin can fly off. Keep coins away from children under five.
-- **your turn:** Sketch your plate. Build it and test it 3 times at one turn every second. Change one thing, and test again. Which change worked best? Why do you think it did?
+- **your turn:** Sketch your plate, or just say how you will build it. Build it and test it 3 times at one turn every second. Change one thing, and test again. Which change worked best? Why do you think it did?
 - **constraints:** The three coins must start on the ring 15 centimetres from the middle.; You may change the plate's surface, tilt it, or add a rim. You may not tape, glue or stick the coins down.; The turntable must turn once every second, counted aloud, for 5 turns.; The coins must all stay on the plate for the whole test.; Test it 3 times, and the best of the three counts.
 - **general:** Put a rough surface on the plate, such as a rubber mat or sandpaper, to give more friction.; Cover the plate with a towel or a cloth, so the coins grip.; Use a plate with a surface that grips better than a smooth steel thali.
 - **creative:** Add a low cardboard rim round the edge of the plate. The rim can push the coins inward, and the push does not depend on friction.; Make a shallow dish shape by laying a rubber mat over a bowl, so the dish wall pushes the coins inward.; Raise the plate's outer edge a little, so the coins lean inward towards the middle.
 - **s1 (6 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch two or three plate designs.  
-  *Parent says:* The coins start at the edge, and the plate must turn once every second. How could you stop the coins sliding off? Draw some ideas first.  
-  *Child mode:* The coins start at the edge, and the plate turns fast. How can you keep them on? Draw some ideas.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to tell you, or sketch, two or three plate designs.  
+  *Parent says:* The coins start at the edge, and the plate must turn once every second. How could you stop the coins sliding off? Tell me some ideas first, or sketch them.  
+  *Child mode:* The coins start at the edge, and the plate turns fast. Tell your ideas, or sketch them.
   - Ask: What would stop a coin from sliding off a fast turntable? (good: More friction, so the plate grips the coin.; A wall at the edge, to push the coin inward.; A dish shape, so the plate tilts the coin inward.)
 - **s2 (14 min) · grown-up needed**  
   *Parent does:* Build your first design. Put it on the turntable. Put three coins on the ring at 15 centimetres. Check that the plate is centred on the turntable.  
@@ -496,7 +496,7 @@ When the order was done, Mani Anna painted four little marks on the knob, and wr
 - **s4 (8 min)**  
   *Parent does:* Compare designs. Ask which change helped most. Ask the question below.  
   *Parent says:* Which change worked best? What does that tell you about the pull towards the middle?  
-  *Child mode:* Which change worked best? Why do you think so?
+  *Child mode:* Look back at your tests and compare the plates.
   - Ask: Which change worked best, and where did the pull towards the middle come from? (good: The rim worked best, because the wall gave the pull.; A rough mat worked, because friction gave the pull.; A dish shape worked, because the slope gave an inward push.)
 
 ## Worksheets

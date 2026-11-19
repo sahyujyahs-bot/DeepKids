@@ -426,7 +426,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a guessing game. Each card describes a magnet and something near it. You decide whether it attracts, repels or does nothing, and then you give a reason.",
+   "context": "This is a guessing game. You will find out how many of your guesses about magnets are right. Each card describes a magnet and something near it. You decide whether it attracts, repels or does nothing, and then you give a reason.",
    "setup": [
     {
      "art": "Twenty-four cards in a shuffled pile in the middle of a table with three kinds of token in front of each player: Attract, Repel and No force.",
@@ -586,8 +586,8 @@
      "id": "s2",
      "mins": 3,
      "do": "Play one practice card together. Use the card about a magnet and a ball of aluminium foil. Show how to turn the tokens over together.",
-     "say": "A magnet is held next to a ball of foil. Which token would you choose? Choose and say why.",
-     "kid": "A magnet is next to a ball of foil. Pick a token.",
+     "say": "Let's try one card together. Pick your token and tell me why.",
+     "kid": "Pick a token and put it face down.",
      "check": {
       "t": "mcq",
       "q": "A magnet is held 1 centimetre from a ball of aluminium foil. What does it do?",
@@ -622,9 +622,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Play the last ten cards. Pay attention to the cards about distance, shielding, and two magnets side by side. Talk about why they are different.",
-     "say": "On some cards, the answer depends on how far away the magnet is, or on what is in between. Say what is happening to the field.",
-     "kid": "Some cards are about distance, or about what is in between. Say what the field does.",
+     "do": "Play the last eleven cards. Pay attention to the cards about distance, shielding, and two magnets side by side. Talk about why they are different.",
+     "say": "On some cards, the answer depends on how far away the magnet is, or on what is in between. Why is that?",
+     "kid": "Watch for cards about distance, or about what is in between.",
      "ask": [
       {
        "q": "Why does an iron lid stop a magnet from pulling a clip, but paper does not?",
@@ -640,8 +640,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Add up the points. Then choose the card that surprised everyone most, and talk about why.",
-     "say": "Which card surprised you most? What did you think before, and what do you think now?",
-     "kid": "Which card surprised you most? Why?",
+     "say": "Pick the card that surprised you most. What did you think before, and what do you think now?",
+     "kid": "Pick the card that surprised you most.",
      "ask": [
       {
        "q": "Which card changed your mind, and why?",
@@ -662,7 +662,7 @@
    "title": "Add or Cancel? How far does a paper clip jump?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you measure how far a magnet can pull a paper clip across a table. You test one magnet at its end and at its side, and two magnets side by side, turned two different ways.",
+   "context": "In this experiment you find out whether two magnets reach further than one, and what happens when you turn one round. You measure how far a magnet can pull a paper clip across a table. You test one magnet at its end and at its side, and two magnets side by side, turned two different ways.",
    "question": "Does a paper clip jump from further away at the end of a magnet than at its side? And how does the reach change when two magnets are put side by side, first with like poles together and then with unlike poles together?",
    "predict": "Before you start, guess. Which set-up will make the clip jump from furthest away? Which will make it jump from the shortest distance? Why do you think so?",
    "fair_test": "Use the same clip, the same smooth table and the same speed of moving the magnet each time. Slide the magnet one centimetre at a time. Only the set-up of the magnets changes. Do each set-up three times and find the mean.",
@@ -716,7 +716,7 @@
      "what": "Mark the poles. Measure the reach of one magnet at its end and at its side, then of two magnets side by side with like poles together and with unlike poles together. Do each three times."
     }
    ],
-   "record": "Fill in the table. For each set-up, work out the mean reach. Draw a bar chart with one bar for each set-up. Circle the set-up with the longest reach.",
+   "record": "Fill in the table. For each set-up, work out the mean reach. Cut a paper strip for each mean and line them up, or draw a bar chart. Mark the set-up with the longest reach.",
    "flow": [
     {
      "id": "s1",
@@ -731,8 +731,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Ask for a guess and a reason for the reach of each set-up. Write the guesses in the table.",
-     "say": "We will test four set-ups: one magnet with its end towards the clip, one magnet with its side towards the clip, two magnets side by side with north next to north, and two magnets side by side with north next to south. Which will make the clip jump from furthest away? Why do you think so?",
-     "kid": "Guess which set-up reaches furthest. Say why.",
+     "say": "We will test four set-ups: one magnet with its end towards the clip, one magnet with its side towards the clip, two magnets side by side with north next to north, and two magnets side by side with north next to south. Make your guess before we start.",
+     "kid": "Think about the four set-ups. Pick your guess.",
      "ask": [
       {
        "q": "Which set-up do you think will reach furthest, and why?",
@@ -787,9 +787,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "1. Work out the mean for each set-up. 2. Draw a bar for each mean. 3. Look at the chart together.",
-     "say": "Which set-up reached furthest? Which reached least? Tell me what you think, what you saw and why.",
-     "kid": "Find each mean. Draw the bars. What do you see?",
+     "do": "1. Work out the mean for each set-up: add the three gaps and divide by three. 2. Cut a paper strip as long as each mean. 3. Lay the strips side by side and look at them together.",
+     "say": "Which set-up reached furthest? Which reached least? Tell me what you saw and why.",
+     "kid": "Find each mean. Cut a strip for each. Line them up.",
      "ask": [
       {
        "q": "What did you find out?",
@@ -871,9 +871,9 @@
    "title": "Walk the Compass: draw the field of a magnet",
    "mins": 35,
    "days": 1,
-   "context": "In this experiment you use a small compass to find the direction of a magnet's field at many places, and you draw field lines step by step.",
+   "context": "In this experiment you find out where the invisible field of a magnet goes. You use a small compass to find the direction of the field at many places, and you draw field lines step by step.",
    "question": "What path does a compass needle follow as you walk it away from the north pole of a bar magnet, and where does it end?",
-   "predict": "Before you start, guess. Draw on paper the path you think a compass would take from the north pole of a magnet. Where will it end up? Why do you think so?",
+   "predict": "Before you start, guess. Trace with your finger the path you think a compass would take from the north pole of a magnet. Where will it end up? Why do you think so?",
    "fair_test": "Use the same magnet, the same compass and the same sheet of paper without moving them. Keep steel things and other magnets away. Draw each line with the same size of step.",
    "results_table": [
     "Line number",
@@ -924,18 +924,18 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "1. Tape the paper to a wooden table. 2. Put the bar magnet in the middle and draw round it. 3. Use the compass to find the north end, as you did in the Add or Cancel test. If the red end points at one end of the magnet, that end is the south pole. The other end is the north pole. 4. Write N and S on the paper by the ends. 5. Tape the magnet down with a small piece of tape on one side.",
+     "do": "1. Tape the paper to a wooden table. 2. Put the bar magnet in the middle of the paper. 3. Use the compass to find the north end, as you did in the Add or Cancel test. If the red end points at one end of the magnet, that end is the south pole. The other end is the north pole. 4. Write N and S on the paper by the ends. 5. Tape the magnet down with a small piece of tape on one side.",
      "say": "The paper will keep our drawing. The red end of the compass points to a south pole, so it tells us which end is north.",
-     "kid": "Tape the paper down. Draw round the magnet. Mark N and S.",
+     "kid": "Tape the paper down. Put the magnet in the middle. Mark N and S.",
      "parent": "Keep metal objects away from the table, because iron can bend the field and give a wrong picture. A steel table leg or a metal tray nearby can confuse the compass. Tap the compass gently and let the needle settle before each mark, because a cheap needle can stick. Keep phones, watches and steel at least 30 centimetres away.",
      "context": "This is the first step of the field map. You fix the magnet on paper and mark its poles."
     },
     {
      "id": "s2",
      "mins": 6,
-     "do": "Ask your child to draw, with a pencil, the paths they think the compass will follow from the north pole. Ask why.",
-     "say": "Draw some lines to show where you think the compass needle will point as it goes round the magnet. Where do they start? Where do they end? Why?",
-     "kid": "Draw lines to show where you think the needle will point. Say why.",
+     "do": "Ask your child to trace, with a finger, the path they think the needle will follow from the north pole. Ask where it ends and why.",
+     "say": "Trace with your finger where you think the compass needle will point as it goes round the magnet. Where does the path start? Where does it end?",
+     "kid": "Trace the path with your finger.",
      "ask": [
       {
        "q": "What do you think the lines will look like? Why?",
@@ -953,8 +953,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Put the compass on the paper at about eight different places around the magnet. 2. At each place, look at where the red end points. 3. Say it aloud: towards the south pole, away from the north pole, or along the side.",
-     "say": "Move the compass slowly round the magnet. At every spot, which way does the red end point? What do you notice near the poles, and far from the magnet?",
-     "kid": "Move the compass round the magnet. Watch the red end. What do you notice?",
+     "say": "Move the compass slowly round the magnet. At every spot, which way does the red end point?",
+     "kid": "Move the compass round the magnet. Watch the red end.",
      "ask": [
       {
        "q": "What do you notice about the red end near the poles?",
@@ -980,9 +980,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "1. Look at the lines you drew with the compass. 2. Compare them with the lines you drew as a guess before you started. 3. Say where the lines are close together and where they are far apart.",
-     "say": "Look at your lines. Where do they start and where do they end? Where are they close together, and where are they spread out?",
-     "kid": "Where do the lines start and end? Where are they close together?",
+     "do": "1. Look at the lines you drew with the compass. 2. Compare them with the path you traced with your finger as a guess before you started. 3. Say where the lines are close together and where they are far apart.",
+     "say": "Look at your lines. Where are they close together, and where are they spread out?",
+     "kid": "Find where your lines are close together.",
      "check": {
       "t": "mcq",
       "q": "Where do the field lines you drew leave the magnet and where do they end up?",
@@ -1000,7 +1000,7 @@
    "setup": [
     {
      "art": "A sheet of paper taped to a wooden table with a bar magnet in the middle and its outline drawn, and N and S written by the ends.",
-     "caption": "1. Tape the paper down. Draw round the magnet. Mark N and S."
+     "caption": "1. Tape the paper down. Put the magnet in the middle. Mark N and S."
     },
     {
      "art": "A small compass placed at four spots around the magnet with its red end pointing along different curved directions.",
@@ -1025,7 +1025,7 @@
    "title": "The Fading Pull: how far away can a compass feel a magnet?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment you place a compass at different distances from a magnet and measure how far the needle turns. You find out how quickly the pull fades.",
+   "context": "In this experiment you find out whether a magnet's pull gets half as strong when you go twice as far away. You place a compass at different distances from a magnet and measure how far the needle turns.",
    "question": "As you move a compass further from a magnet, how does the turn of the needle change? Is it half as much when the distance doubles?",
    "predict": "Before you start, guess. At 5 centimetres the needle will turn a lot. At 10 centimetres, will it turn half as much? What about at 20 centimetres? Why do you think so?",
    "fair_test": "Use the same magnet, the same compass and the same line on the paper. Only the distance changes. Keep steel things away. Do each distance twice, and use the mean.",
@@ -1084,8 +1084,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Ask for a guess and a reason. Write it in the table.",
-     "say": "We will place the compass at five distances. At 5 centimetres the needle turns a lot. Will it turn half as much at 10 centimetres? Why do you think so?",
-     "kid": "Guess how much the needle turns at 10 and 20 centimetres. Say why.",
+     "say": "We will place the compass at five distances. At 5 centimetres the needle turns a lot. Will it turn half as much at 10 centimetres?",
+     "kid": "Make your guess before you test.",
      "ask": [
       {
        "q": "How much do you think the needle will turn at 10 centimetres? Why?",
@@ -1111,7 +1111,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Do the whole set again to get a second try. Work out the mean for each distance.",
+     "do": "Do the whole set again to get a second try. Work out the mean for each distance: add the two turns and divide by two.",
      "say": "Do it all a second time. Then add the two turns at each distance and divide by two.",
      "kid": "Do it all again. Find the mean at each distance.",
      "parent": "If a pair of results is far apart, do that distance a third time.",
@@ -1122,7 +1122,7 @@
      "mins": 2,
      "do": "Draw the line graph. Ask your child to say what they notice.",
      "say": "Look at the graph. Does the turn halve each time the distance doubles? Tell me what you think, what you saw and why.",
-     "kid": "Look at the graph. Does the turn halve when the distance doubles?",
+     "kid": "Look at the graph. Find where the line drops fastest.",
      "ask": [
       {
        "q": "What did you find out?",
@@ -1214,7 +1214,7 @@
    "title": "The Floating Clip: a clip held in the air",
    "mins": 10,
    "days": 1,
-   "context": "This is a quick start to the unit. You hold a paper clip in the air with a magnet and no touching. It shows that a magnet's pull reaches across a gap.",
+   "context": "This is a quick start to the unit. You will find out that a magnet can hold a paper clip in the air with nothing touching it. The pull reaches across a gap.",
    "materials": [
     {
      "item": "a steel paper clip that a magnet picks up",
@@ -1244,7 +1244,7 @@
      "what": "Tie a clip to a thread, tape the thread down, and hold the clip up in the air with a magnet. Slide things into the gap."
     }
    ],
-   "record": "Draw the magnet, the gap and the clip. Measure the biggest gap at which the clip still floats, and write it down as about that many centimetres. Write one thing you noticed and one thing you wonder.",
+   "record": "Take a photo of the floating clip, or draw the magnet, the gap and the clip. Measure the biggest gap at which the clip still floats, and write it down as about that many centimetres. Write one thing you noticed and one thing you wonder.",
    "flow": [
     {
      "id": "s1",
@@ -1278,8 +1278,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Ask for a guess and a reason, and write it down for later.",
-     "say": "What do you think is holding the clip up? How far could we raise the magnet before the clip falls? Why do you think so?",
-     "kid": "What holds the clip up? Make a guess and say why.",
+     "say": "How far could we raise the magnet before the clip falls? Make a guess.",
+     "kid": "Guess how high the magnet can go.",
      "ask": [
       {
        "q": "What do you think is reaching across the gap? Why?",
@@ -1308,7 +1308,7 @@
    "title": "What Stands Between? Which things block a magnet's pull",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you put different things between a magnet and a paper clip and see which stop the clip from moving. You find out what shields the clip.",
+   "context": "In this activity you find out which things a magnet's pull can go through and which things stop it. You put different things between a magnet and a paper clip and see which stop the clip from moving.",
    "materials": [
     {
      "item": "a bar magnet and a steel paper clip",
@@ -1358,8 +1358,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Ask for a guess for each thing. Write the guesses in the table.",
-     "say": "We will slide each thing into the gap. Which will stop the clip from moving? Which will not? Why?",
-     "kid": "Guess which things will stop the clip. Say why.",
+     "say": "We will slide each thing into the gap. Which will stop the clip from moving?",
+     "kid": "Sort the things into two groups: will stop the clip, and will not.",
      "ask": [
       {
        "q": "Which things do you think will block the pull, and why?",
@@ -1397,8 +1397,8 @@
      "id": "s4",
      "mins": 3,
      "do": "Look at your table. Ask your child what the blockers have in common.",
-     "say": "Which things blocked the pull? What do they have in common?",
-     "kid": "Which things blocked the pull? What do they share?",
+     "say": "Look at your table. Put the things that blocked the pull in one group.",
+     "kid": "Pick out the things that blocked the pull.",
      "ask": [
       {
        "q": "What do the things that block the pull have in common?",
@@ -1427,7 +1427,7 @@
    "title": "See the Field with Iron Filings (if you have them)",
    "mins": 20,
    "days": 1,
-   "context": "In this activity a grown-up helps you see the pattern of a magnet's field with iron filings sealed in a bag. It is a picture of what the compass found.",
+   "context": "In this activity a grown-up helps you see the pattern of a magnet's field with iron filings sealed in a bag. You will see the pattern of the field with your own eyes. It matches what the compass found.",
    "materials": [
     {
      "item": "OPTIONAL: about a teaspoon of iron filings. A pot comes in many school science kits; a welding, lathe or grinding workshop will often give a spoonful for free",
@@ -1458,7 +1458,7 @@
      "what": "Seal a teaspoon of filings flat in a bag, lay the bag over a magnet and tap gently to see the lines."
     }
    ],
-   "record": "Draw what you see. Compare it with the field lines you drew with the compass.",
+   "record": "Take a photo of what you see, or draw it. Compare it with the field lines you made with the compass.",
    "flow": [
     {
      "id": "s1",
@@ -1491,9 +1491,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Draw what you see. Then lay your compass drawing next to it.",
-     "say": "Draw the pattern. Is it like the field lines you drew with the compass? Where is it the same, and where is it different?",
-     "kid": "Draw the pattern. Compare it with your compass lines.",
+     "do": "Take a photo of the pattern, or draw it. Then lay your compass paper next to it.",
+     "say": "Look at the pattern. Is it like the field lines you made with the compass? Where is it the same, and where is it different?",
+     "kid": "Take a photo or draw the pattern. Compare it with your compass lines.",
      "check": {
       "t": "mcq",
       "q": "Why do the iron filings line up along the field lines?",
@@ -1524,7 +1524,7 @@
    "title": "Home Magnet Survey: which magnet reaches furthest?",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you find magnets in your home and test how far each one reaches. You rank them by a fair test, and compare your ranking with your guess.",
+   "context": "In this activity you find out which magnet in your home reaches furthest. You find magnets in your home and test how far each one reaches. You rank them by a fair test, and compare your ranking with your guess.",
    "materials": [
     {
      "item": "up to 5 magnets from around the home, such as fridge magnets, a cupboard door catch, a pencil box clasp, a school bar magnet and a toy magnet (3 is enough if you cannot find 5)",
@@ -1557,8 +1557,8 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Walk round the home with a grown-up. 2. Find five magnets that can be taken out or lifted off. 3. Lay them on the table. 4. Write down what each one is.",
-     "say": "Let's find five magnets in the house. Look for a fridge magnet, a cupboard catch, a clasp and others. Which do you think reaches furthest?",
-     "kid": "Find five magnets. Lay them out. Guess which reaches furthest.",
+     "say": "Let's find five magnets in the house. Look for a fridge magnet, a cupboard catch, a clasp and others.",
+     "kid": "Find five magnets. Lay them out in a row.",
      "ask": [
       {
        "q": "Which magnet do you think reaches furthest? Why?",
@@ -1584,7 +1584,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Work out the mean for each magnet. Rank them. Compare with your guess.",
+     "do": "Work out the mean for each magnet: add the three gaps and divide by three. Put the magnets in order, furthest reach first. Compare with your guess.",
      "say": "Find the mean for each magnet. Which reached furthest? Did that match your guess?",
      "kid": "Find each mean. Rank the magnets. Was your guess right?",
      "check": {
@@ -1667,14 +1667,14 @@
      "what": "Lead the clip through the maze. Add layers of card under the maze to find the thickest board the magnet can lead through."
     }
    ],
-   "record": "Draw your maze. Write how many layers of card the magnet led the clip through and the total thickness, including the lid. Compare it with the reach you measured in the Add or Cancel test.",
+   "record": "Take a photo of your maze, or draw it. Write how many layers of card the magnet led the clip through and the total thickness, including the lid. Compare it with the reach you measured in the Add or Cancel test.",
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Draw a maze on paper, with a start and an end. 2. Make the walls from card strips, glued to the shoebox lid. The lid is the floor of the maze. 3. Leave paths about 3 centimetres wide. 4. Let the glue dry.",
+     "do": "1. Lay the card strips on the shoebox lid to plan a maze, with a start and an end. Move them until it works. 2. Glue the strips down. The lid is the floor of the maze. 3. Leave paths about 3 centimetres wide. 4. Let the glue dry.",
      "say": "Plan the maze first. Make the paths wide enough for a clip to move along. Which walls will make it hard?",
-     "kid": "Draw a maze. Glue card walls to the lid. Make the paths wide.",
+     "kid": "Lay out a maze with the strips. Glue them down. Make the paths wide.",
      "parent": "Keep the maze simple. Four or five walls are enough. The glue needs time to dry, so you may prefer tape. Plain glue takes hours to dry, so tape the walls for a quick start or build on Day 1 and test on Day 2. With 2 to 4 children, each builds a small maze on their own lid, or all build one big one, then swap and lead each other's clip: one leads, one times the run with a phone, one watches the clip. One magnet and one clip can be shared.",
      "context": "This is the first day of the Ghost Maze. You plan the maze and build its walls."
     },
@@ -1692,8 +1692,8 @@
      "mins": 10,
      "wait": "Day 2: continue from here.",
      "do": "1. Tape a piece of cardboard on the flat top of the magnet. 2. Hold the magnet with the cardboard touching the underside of the lid and try to lead the clip through the maze. 3. Tape another piece on top of the first. 4. Keep adding pieces until the clip will not follow.",
-     "say": "Add one sheet of card at a time between the magnet and the lid. How many sheets can the magnet lead the clip through?",
-     "kid": "Add card between the magnet and the lid. How many layers can it manage?",
+     "say": "Add one sheet of card at a time between the magnet and the lid. Keep going until the clip will not follow.",
+     "kid": "Add card between the magnet and the lid. Count the layers.",
      "parent": "Count the sheets. Then measure the total thickness of all the layers with a ruler, including the lid. This is the thickness your magnet can reach through. Taping the pieces to the magnet keeps the pile together while you slide it. The cardboard of the lid counts as part of the thickness.",
      "context": "This is the second day of the project. You add card layers to find the thickest board that works."
     },
@@ -1720,9 +1720,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Draw your maze and write down the thickest pile your magnet could lead the clip through.",
-     "say": "What was the thickest pile? Why can't the magnet reach through more? What would let it?",
-     "kid": "Write the thickest pile. Why can't it reach through more?",
+     "do": "Take a photo of your maze and write down the thickest pile your magnet could lead the clip through.",
+     "say": "What was the thickest pile? What would let the magnet reach through more?",
+     "kid": "Write the thickest pile.",
      "ask": [
       {
        "q": "Why does the clip stop following when the pile gets too thick?",
@@ -1784,7 +1784,7 @@
     "Try different arrangements, such as end to end or at an angle, and find which is quietest.",
     "Put the pair on the other side of the compass and see if the turn changes."
    ],
-   "your_turn": "Now design your own quiet pair. Draw your arrangement, test it, and record the turn. Does the quietest pair match what you expected from the field picture?",
+   "your_turn": "Now design your own quiet pair. Take a photo of your arrangement, test it, and write down the turn. Does the quietest pair match what you expected from the field picture?",
    "flow": [
     {
      "id": "s1",
@@ -1815,9 +1815,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Draw your quietest pair with the field lines you expect. Explain why it is quiet.",
-     "say": "Draw your quietest pair and draw how the field lines go. Why does the needle hardly turn?",
-     "kid": "Draw your quietest pair. Why does the needle hardly turn?",
+     "do": "Take a photo of your quietest pair. Then trace with a finger how you think the field lines go around it.",
+     "say": "Show me with your finger how the field lines go around your quietest pair.",
+     "kid": "Take a photo of your quietest pair. Show how the field lines go.",
      "check": {
       "t": "mcq",
       "q": "Two identical magnets are side by side, with a north pole next to a south pole. Why is the pair quieter than one magnet?",
@@ -1843,7 +1843,7 @@
     },
     {
      "art": "A drawing of the paired magnets with field lines that loop between them instead of going out into space.",
-     "caption": "3. Draw your quietest pair with the field lines you expect."
+     "caption": "3. Show how the field lines go around your quietest pair."
     }
    ]
   }

@@ -282,8 +282,8 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
   - Note: Many children say the magnet pulls harder. Do not correct them yet. Let the backs of the cards show them, and watch whether the answer changes by the fourth card.
 - **s3 (4 min)**  
   *Parent does:* Play four more cards. These cards have people on roller skates, or the Earth and an apple. Ask the question below after the last one.  
-  *Parent says:* These cards have people and planets, but the rule is the same. Does the rule about equal pulls still work?  
-  *Child mode:* Play four more cards. People and planets follow the same rule.
+  *Parent says:* These cards have people on skates, and the Earth and an apple. Play them the same way.  
+  *Child mode:* Play four more cards. Guess first, then check the back.
   - Ask: Does the rule about equal pulls work for people on skates as well as for magnets? (good: Yes, the rope pulls both skaters equally.; Yes, a pull always comes in a pair.; Yes, the lighter skater moves further.)
   - Note: If your child is surprised that the Earth moves when an apple falls, say that it moves by an amount far too small to see. The rule still holds.
 - **s4 (8 min)**  
@@ -312,13 +312,13 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
   - Note: The word 'soft' is easy to mix up with squashy. Remind your child that here it only means that the material loses its magnetism easily.
 - **s3 (5 min)**  
   *Parent does:* Play the next six cards. Before each one, say whether you think the job needs a hard material or a soft one. Ask the question below after the last one.  
-  *Parent says:* Look for the pattern now. What do all the KEEP jobs have in common? What do the DROP jobs have in common?  
+  *Parent says:* Look for the pattern now. What do the KEEP jobs have in common?  
   *Child mode:* Play six more cards. Look for a pattern in the KEEP cards and the DROP cards.
   - Ask: What do you notice about the jobs on the DROP mat? (good: They all have electricity or a coil.; The magnet has to switch off.; They need to let go of something.)
 - **s4 (5 min)**  
   *Parent does:* Play the last eight cards. Stop at a card with a coil of wire and ask the check question.  
-  *Parent says:* An electromagnet is a coil of wire with electricity running through it. While the electricity flows, the coil acts as a magnet. Some of these jobs use a coil like this. What must the middle of the coil be made of?  
-  *Child mode:* Play the last eight cards. Some use a coil. Think about what the middle of the coil must be made of.
+  *Parent says:* An electromagnet is a coil of wire with electricity running through it. While the electricity flows, the coil acts as a magnet. Some of these jobs use a coil like this. The middle of the coil is called the core.  
+  *Child mode:* Play the last eight cards. Some use a coil.
   - Check: An electric crane uses a magnet to lift scrap iron, and must drop the scrap when the electricity is off. What should the core be made of? → **Soft iron, so it loses its magnetism when the electricity stops**
 - **s5 (2 min)**  
   *Parent does:* Count the cards each player won. Name the winner. Then ask each player which card changed their mind.  
@@ -332,23 +332,23 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 - **predict:** Before you start, guess. When a magnet on a raft and a nail on a raft are 8 centimetres apart, which raft will move, or will both? What if the nail raft is three times as heavy? Why do you think so?
 - **fair test:** Every trial uses the same tub, the same still water and the same starting gap of 8 centimetres. The two rafts are made the same size and, except in the last trial, the same mass. We wait for the water to go still before each trial and let go of both rafts at the same moment. Only one thing changes at a time: first a wooden pencil in place of the nails, as a control, then the nail raft held still, then both rafts free, then a heavy nail raft. Each trial is done three times, because one try can be a fluke.
 - **safety:** Keep magnets away from phones, watches and bank cards. Keep the magnet and nails away from children under five, who might put them in their mouths. Wipe up spills so nobody slips.
-- **record:** For every trial write how far each raft moved, in centimetres. Do each trial three times and write down the middle value. Then draw a bar for the magnet raft and a bar for the nail raft in each trial.
+- **record:** For every trial write how far each raft moved, in centimetres. Do each trial three times and write down the middle value. Then make a bar for the magnet raft and a bar for the nail raft in each trial. Draw them, or cut paper strips as long as the distances.
 - **results table:** Trial | Magnet raft moved (cm) | Nail raft moved (cm) | Where they met (cm from the magnet's start)
 - **s1 (5 min)**  
   *Parent does:* Show your child the tub, the rafts, the magnet and the nails. Ask for a guess and a reason for each question. Write the guesses at the top of the table.  
   *Parent says:* We will float a magnet on one raft and a nail on another, 8 centimetres apart. What do you think will happen? Will only one raft move, or both? Why do you think so?  
-  *Child mode:* A magnet on one raft. A nail on another. What will happen? Why do you think so?
+  *Child mode:* Picture a magnet on one raft and a nail on another. Tell your grown-up what will happen, and why.
   - Ask: What do you think the nail raft will do when the magnet raft comes close? (good: It will stay still, because a nail cannot pull.; It will move too, because the magnet pulls it.; It will move a little.)
   - Note: Do not correct any guess. Most children say only the nail moves, and a few say the magnet. Any guess with a reason is a good start. Write the exact words down.
 - **s2 (8 min)**  
   *Parent does:* Cut two rafts of the same size. Put the magnet on one raft and three nails on the other. Float both in the middle of the tub. Add a pinch of clay to the lighter one until both rafts float equally low.  
-  *Parent says:* We need two rafts with the same mass. If one raft were heavier, it would be harder to move. So add clay to the lighter one until both rafts sit at the same height in the water.  
+  *Parent says:* We need two rafts that weigh the same. The weight of a thing is called its mass. If one raft were heavier, it would be harder to move. So add clay to the lighter one until both rafts sit at the same height in the water.  
   *Child mode:* Put the magnet on one raft. Put three nails on the other. Add clay until both sit equally low.
   - Note: A kitchen scale makes this easier. If you have one, weigh both rafts and add clay to make them equal. If the rafts tip, stick the magnet down with a little clay. Keep the tub away from any steel sink, almirah or gas stove, because steel nearby can pull a raft.
 - **s3 (6 min)**  
   *Parent does:* Swap the nails for a wooden pencil stub on the nail raft. Wait for the water to go still. Put the rafts 8 cm apart and let go of both. Watch for 20 seconds. Do it 3 times.  
-  *Parent says:* First we run a control. We put a pencil on one raft instead of the nails. If the rafts move now, something other than magnetism is moving them. Does anything happen?  
-  *Child mode:* Put a pencil on one raft. No nails. Let go of both rafts. Does anything happen?
+  *Parent says:* First we do a check called a control. We put a pencil on one raft instead of the nails. If the rafts move now, something other than magnetism is moving them. Does anything happen?  
+  *Child mode:* Put a pencil on one raft, with no nails. Let go of both rafts and watch.
   - Note: Nothing should happen. If the rafts drift together, they are too close. Floating things that are very close, within about 2 centimetres, drift together because of the way the surface of the water pulls on them. This has nothing to do with magnetism. That is why we start 8 centimetres apart. If they drift, wait longer for the water to calm and try again.
   - Check: Why do we run a trial with a wooden pencil in place of the nails first? → **To see if the rafts move by themselves, from ripples or the water**
 - **s4 (7 min)**  
@@ -370,26 +370,26 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
   - Ask: Did the heavy nail raft feel a smaller pull than the magnet raft? (good: No, the pull was the same, but it is harder to move a heavy raft.; The pull was equal and the heavy one moved less.; The pull on both rafts was the same, and the heavy one needs more push to move.)
   - Note: The magnet raft should now travel most of the way, and the heavy raft only creeps. If the heavy raft does not move at all, that is fine. The magnet raft still moved because of the nail's pull on it.
 - **s7 (5 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then draw the bar chart.  
+  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then show the distances as bars. Draw them, or cut paper strips as long as each distance.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
   *Child mode:* Say or write three things: what you think, what you saw, and why it happened.
   - Note: Any honest answer with all three parts is good. A good answer sounds like this. What I think: the magnet and the nail pull each other equally. What I saw: when both rafts were free they met in the middle, and when the nail raft was heavy it moved less. Why: the pulls are a pair of equal forces, and the force moves light things further than heavy things.
 ### e2 · The Hanging V: why do two nails spread apart? (25 min)
 - **question:** If two nails hang side by side from one magnet, will they hang straight, stick together, or spread apart? And do longer nails spread further?
-- **predict:** Before you start, draw what you think two hanging nails will look like. Then guess. Will the two free ends hang straight down, move together or spread apart? Why do you think so?
+- **predict:** Before you start, show with two fingers how you think two hanging nails will look. Then guess. Will the two free ends hang straight down, move together or spread apart? Why do you think so?
 - **fair test:** We use the same magnet and hold it still above the table. We touch the heads of the nails to the same flat face of the magnet, side by side. We measure the gap between the tips with the same ruler held in the same place. Only the nail length changes, so any difference in the gap comes from the length. Each pair is tested three times, because one try can be a fluke.
 - **safety:** Nails have sharp points. Hold them by the head and keep the points away from faces. A grown-up should stay beside a younger child. Keep magnets away from phones and bank cards.
-- **record:** Fill in the results table. Draw the magnet and the two nails in each try, and draw the V of the hanging tips to scale.
+- **record:** Fill in the results table. Take a photo of each try, or draw the V of the hanging tips.
 - **results table:** Nails | Gap try 1 (cm) | Gap try 2 (cm) | Gap try 3 (cm) | Middle value (cm)
 - **s1 (4 min)**  
-  *Parent does:* Show your child the magnet and the nails. Ask them to draw what two hanging nails will look like, then to guess and give a reason.  
-  *Parent says:* I will hang two nails from the magnet, side by side. Draw what you think they will look like. Will they hang straight, or lean in, or lean out? Why do you think so?  
-  *Child mode:* Two nails hang from a magnet. Draw them. Will they hang straight? Why?
+  *Parent does:* Show your child the magnet and the nails. Ask them to show with two fingers how two hanging nails will look, then to give a reason.  
+  *Parent says:* I will hang two nails from the magnet, side by side. Show me with two fingers how you think they will hang. Straight, leaning in, or leaning out?  
+  *Child mode:* Two nails will hang side by side from a magnet. Show with two fingers how they will hang.
   - Ask: Why do you think the nails will hang that way? (good: They are both heavy, so they hang straight down.; They are both pulled to the magnet, so they will lean together.; They push each other apart.)
   - Note: Do not correct the drawing. Most children draw two parallel nails hanging straight down. Keep the drawing to compare with the result.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* Hold the magnet still above the table. Touch the heads of the two short nails to its flat face, side by side. Let go gently. Look at the tips.  
-  *Parent says:* Touch the heads of two nails to the flat face of the magnet, side by side. Let go gently. What do the tips do? Do they hang straight?  
+  *Parent says:* Touch the heads of two nails to the flat face of the magnet, side by side. Let go gently. What do the tips do? Do they hang straight, or make a V?  
   *Child mode:* Touch two nail heads to the magnet. Let go gently. What do the tips do?
   - Note: The tips should hang apart in a V, though the gap may be small, around half a centimetre to two centimetres. If the nails will not hang, use a stronger magnet or lighter, thinner nails. If the V is too small to see, hold a sheet of paper behind and look from the side.
   - Check: The two nail tips spread apart. What is the best explanation? → **Both tips became the same kind of pole, so they repel**
@@ -413,13 +413,13 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 - **predict:** Before you start, line up the four things from the one you think will keep its magnetism longest to the one that will lose it first. Why do you think so?
 - **fair test:** We stroke each thing the same number of times, 40, with the same magnet, in the same direction. We test each one with the same heap of staples, the same way, at the same times. Only the thing changes, so any difference comes from the steel. Each test is done three times, because one try can be a fluke.
 - **safety:** A needle and a pin are sharp. A grown-up handles them and puts them away afterwards. Staples are small and sharp, so keep them away from children under five. Keep the magnet away from phones and cards.
-- **record:** Fill in the table for every thing. Then draw a bar for each thing, as tall as the number of staples it held right after, and another bar, in a different colour, as tall as the number it held the next day.
+- **record:** Fill in the table for every thing. Then make a bar for each thing, drawn or lined up with real staples, as tall as the number of staples it held right after, and another bar, in a different colour, as tall as the number it held the next day.
 - **results table:** Thing | Staples right after stroking | After 10 minutes | After 20 taps on the table | The next day
 - **schedule:** day 1: Stroke each thing 40 times. Count the staples it lifts right after, after 10 minutes, and after 20 taps. (30 min); day 2: Count the staples each thing lifts the next day. Say what you think, what you saw and why. (10 min)
 - **s1 (5 min)**  
   *Parent does:* Line up the nail, needle, pin and paper clip. Ask your child to put them in order from keeps the magnetism longest to loses it first, and to give a reason. Write the order down.  
-  *Parent says:* We will make each of these a magnet with the same magnet, in the same way. Which one will keep its magnetism longest? Which will lose it first? Why do you think so?  
-  *Child mode:* Line them up. Which keeps the magnetism longest? Which loses it first? Why?
+  *Parent says:* We will magnetise each of these, which means make it act like a magnet. We use the same magnet, in the same way. Which one will keep its magnetism longest? Which will lose it first? Why do you think so?  
+  *Child mode:* Line them up. Put the one that keeps its magnetism longest first.
   - Ask: Why do you think that one will keep its magnetism longest? (good: It is the thickest.; It is the hardest.; It is made of the best metal.)
   - Note: Do not correct the order. Children often say the biggest, thickest thing will keep it longest. Write the order to compare later.
 - **s2 (10 min) · grown-up needed**  
@@ -438,7 +438,7 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
   *Child mode:* Wait 10 minutes. Test again. Tap each one 20 times. Test again.
   - Check: After 10 minutes the nail lifts fewer staples than before, and the needle lifts almost the same. What does this show? → **The needle is a harder magnetic material than the nail**
 - **s5 (5 min)**  
-  *Parent does:* The next day, test every thing again on the staples, and write the numbers. Then draw the bar chart.  
+  *Parent does:* The next day, test every thing again on the staples, and write the numbers. Then show the numbers as bars. Draw them, or line up that many real staples for each thing.  
   *Parent says:* A day has passed. Test each thing on the staples again. Which ones still have some magnetism?  
   *Child mode:* A day later, test each one on the staples. Which ones still hold some?
   - Note: The needle and pin may still hold a few staples. The nail may hold none or one. Your numbers may differ, because the steel in nails, needles and clips differs from maker to maker. Write what you see.
@@ -450,11 +450,11 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 
 ## Activities
 ### a1 · Hold Still, Magnet! A hanging magnet and a nail (12 min)
-- **record:** Draw the hanging magnet before and after the nail comes near it, and write one sentence about what you saw.
+- **record:** Write one sentence about what you saw. Take a photo of the magnet before and after the nail comes near, or draw it.
 - **s1 (4 min)**  
   *Parent does:* Tape the pencil across the table edge, so it sticks out. Tie the thread to the pencil and hang the magnet from it. Wait until it hangs still. Ask your child to guess what the magnet will do when a nail comes near.  
   *Parent says:* Here is a magnet hanging from a thread. I will hold a nail near it, but not touch it. What will the magnet do? Why do you think so?  
-  *Child mode:* A magnet hangs on a thread. What will it do when a nail comes near? Why?
+  *Child mode:* A magnet hangs on a thread. Tell your grown-up what you think it will do. Say why.
   - Ask: Will the magnet move, or will it stay still? (good: It will stay still, because the nail is not a magnet.; It will lean towards the nail.; It will move a little.)
   - Note: Keep the table away from any steel. Do not correct the guess. Most children say the magnet will stay still.
 - **s2 (4 min)**  
@@ -499,7 +499,7 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
   *Child mode:* Now you hide the magnets. Let your parent test them. Were they right?
   - Note: Let your child explain the push test back to you in their own words. This is the best way to find out what they have understood.
 ### a3 · Two Faces of a Fridge Magnet: test both sides, then cut it in two (25 min)
-- **record:** A table: front, back, half 1 front, half 2 front, with the number of staples each held. Draw the cut magnet with the staples on it.
+- **record:** A table: front, back, half 1 front, half 2 front, with the number of staples each held. Take a photo of each half with its staples, or draw them.
 - **s1 (6 min)**  
   *Parent does:* Find the front of the magnet, which is the side that grips the fridge. Ask your child to guess how many staples the front will pick up, and how many the back will pick up. Then lay the front on the heap of staples and lift it straight up. Count the staples.  
   *Parent says:* The front of this magnet sticks to the fridge. Will the back stick just as well? Guess how many staples each side will lift, and why.  
@@ -514,11 +514,11 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* A grown-up cuts the magnet into two equal halves with scissors. Test the front of each half on the staples, and count. Write the numbers.  
   *Parent says:* Now a grown-up cuts the magnet in two. Is each half still a magnet? Is each half as strong as the whole? Test and see.  
-  *Child mode:* A grown-up cuts the magnet in two. Test each half on the staples. Is each half a magnet?
-  - Ask: Did you get one magnet and one piece of plain rubber? (good: No, both halves are magnets.; Each half has its own strong face.; Each half has its own north and south, so each half is a magnet.)
+  *Child mode:* A grown-up cuts the magnet in two. Test each half on the staples and count.
+  - Ask: Is each half still a magnet, or is one half only plain rubber? (good: No, both halves are magnets.; Each half has its own strong face.; Each half has its own north and south, so each half is a magnet.)
   - Note: Each half should still lift staples, usually about half as many as the whole, because it has half the area. Cut with sharp scissors by pulling the blade through the rubber in one go. Keep the small pieces away from children under five.
 - **s4 (6 min)**  
-  *Parent does:* Lay the two halves front to front and slide one over the other slowly. Notice what it feels like. Then press one half to the fridge and count how many sheets of paper it holds. Write what you found.  
+  *Parent does:* Lay the two halves front to front and slide one over the other slowly. Notice what it feels like. Write what you found.  
   *Parent says:* Slide one half over the other, front to front. Do you feel any bumps or clicks? That feeling is the stripes lining up and slipping past each other.  
   *Child mode:* Slide the two halves over each other. Do you feel little bumps?
   - Note: Not every magnet sheet feels bumpy, because the stripes can be very fine. If you feel nothing, write that down. It is still a true result. Some science museums have a magnetic viewing film that shows the stripes.
@@ -528,7 +528,7 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 - **s1 (6 min)**  
   *Parent does:* Tape the magnet face down at the table edge, so its face overhangs. Stick the nail to its face. Tie the thread to the nail and hang the cup from the thread. Ask your child to guess how many grams of rice the magnet will hold, and why.  
   *Parent says:* The Earth is pulling this nail down. The magnet is pulling it up. How much rice can we put in the cup before the Earth wins? Make a guess, and give a reason.  
-  *Child mode:* The Earth pulls the nail down. The magnet pulls it up. How much rice can the cup hold? Guess.
+  *Child mode:* The Earth pulls the nail down. The magnet pulls it up. Will the cup hold a little rice or a lot?
   - Ask: How many grams of rice do you think the cup can hold before the nail falls? (good: About 100 grams.; A lot, because the magnet is strong.; Hardly any.)
   - Note: A small ceramic magnet usually holds the nail and some rice, maybe 50 to 300 grams in all. A neodymium magnet may hold much more. Put a cushion on the floor below to catch the cup.
 - **s2 (10 min)**  
@@ -552,7 +552,7 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 - **record:** A list: where you looked, what the paper clip did, what the hanging magnet did, and your verdict: a magnet, or only magnetic.
 - **s1 (5 min)**  
   *Parent does:* Make a list of places that may have magnets. Try the fridge door seal, cupboard catches, old earphones, a loudspeaker, a bag flap, a pencil box and a toy. Ask your child to guess which three have a real magnet.  
-  *Parent says:* Many things at home have hidden magnets. Here is a list of places. Which three do you think have a real magnet in them? Why?  
+  *Parent says:* Many things at home have hidden magnets. Here is a list of places. Which three do you think have a real magnet in them, one that can push as well as pull? Why?  
   *Child mode:* Where could magnets hide? Make a list. Which three have a real magnet?
   - Note: Do not take things apart, because batteries and small parts are not safe to open. Only test from the outside. Keep the hanging magnet and paper clip away from phones, watches and bank cards.
 - **s2 (12 min)**  
@@ -562,8 +562,8 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
   - Note: The rubber seal of the fridge door nearly always has a magnetic strip, so the clip clings and some spots may push the hanging magnet. Loudspeakers and old earphones often have strong ceramic or neodymium magnets inside.
   - Check: The fridge door pulls a paper clip, but it does not push the hanging magnet away at any spot. What is the door? → **Plain magnetic steel, which is not a magnet**
 - **s3 (8 min)**  
-  *Parent does:* Make two lists: real magnets and plain magnetic metals. Count your finds. Pick the most surprising place and draw it.  
-  *Parent says:* Which places had real magnets? Which had only plain magnetic metal? Which find surprised you most? Draw it.  
+  *Parent does:* Make two lists: real magnets and plain magnetic metals. Count your finds. Pick the most surprising place and tell the family about it, or draw it.  
+  *Parent says:* Which places had real magnets? Which had only plain magnetic metal? Which find surprised you most? Tell us about it.  
   *Child mode:* Make two lists. Real magnets. Plain magnetic metal. Which surprised you most?
   - Think: A fridge door seal has a magnet inside, and nobody can see it. What other useful things are hidden inside everyday things?
 - **s4 (5 min)**  
@@ -580,7 +580,7 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
   - Ask: How would you write the letter D with five arrows? (good: D is the number 4, so 00100: down, down, up, down, down.; D is number 4, written 00100 with five arrows.; D is the fourth letter, so its number is 4.)
   - Note: Reading from the right, the places are worth 1, 2, 4, 8 and 16. So 00101 is 4 plus 1, which is 5, the letter E. Help your child read a place at a time, from the right.
 - **s2 (10 min)**  
-  *Parent does:* Write your child's first name in the code. Look up each letter's number, turn it into five arrows, and lay the arrows along the strip. Leave one empty square between letters.  
+  *Parent does:* Write your child's first name in the code. Use up to four letters, so the name fits the strip. Look up each letter's number, turn it into five arrows, and lay the arrows along the strip. Leave one empty square between letters.  
   *Parent says:* Write your name in ups and downs. Find each letter's number. Turn it into five arrows. Put them along the strip.  
   *Child mode:* Find each letter's number. Write it with five arrows. Lay them on the strip.
   - Note: The letters are numbered 1 to 26. Z, the 26th, is 11010. Take your time. The number for K is 11, which is 01011.
@@ -600,10 +600,10 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 ## Projects
 ### p1 · Build a Magnetic Toy Train, then make it meet softly (50 min, 2 days)
 - **safety:** Keep the small magnets and nails away from children under five. Do not let a magnet near phones, watches or bank cards.
-- **record:** Draw your train. Write the start gap, which car moved, how hard the cars met, and what you changed on day 2.
+- **record:** Take a photo of your train, or draw it. Write the start gap, which car moved, how hard the cars met, and what you changed on day 2.
 - **schedule:** day 1: Build the engine and a carriage. Test how far apart they can start and still join. Try the pair on a smooth table. (30 min); day 2: Balance the weights with clay. Try a weaker magnet. Make the join soft. Show the train to someone and say what you changed and why. (20 min)
 - **s1 (8 min)**  
-  *Parent does:* Show your child the cars, magnets and nails. Ask them to draw how to join two cars without a hook. Then ask which car will move when they are let go.  
+  *Parent does:* Show your child the cars, magnets and nails. Ask how two cars could join without a hook. Then ask which car will move when they are let go.  
   *Parent says:* We will make a train whose carriages join without hooks. We put a magnet in the engine and nails in the carriage. When we let go, which car do you think will move? Why do you think so?  
   *Child mode:* A magnet in the engine. A nail in the carriage. Which will move? Why?
   - Note: Do not correct the guess. If you have not done the Rafts experiment, do it first. It makes this project easier to explain.
@@ -619,13 +619,13 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
   *Child mode:* Move the cars apart 1 cm at a time. When do they stop joining? Swap the roles.
   - Note: The gap is usually the same whichever car has the magnet. Pulls are always a pair.
 - **s4 (12 min)**  
-  *Parent does:* On day 2, make the two cars weigh the same by adding clay to the lighter car. Use a weaker magnet or one nail fewer. Let go again. Aim for a soft click rather than a bang.  
+  *Parent does:* On day 2, make the two cars weigh the same by adding clay to the lighter car. Use a weaker magnet, or take away one nail. Let go again. Aim for a soft click rather than a bang.  
   *Parent says:* Today we make the join gentle. Add clay to the lighter car so the two weigh the same. Then try a weaker magnet. We want the cars to meet softly, in the middle.  
   *Child mode:* Add clay to the lighter car. Use a weaker magnet. Let go. Is the click softer?
   - Ask: Why does a heavier car move less than a lighter car? (good: The same pull moves a light thing further.; A heavy thing is harder to get moving.; Pulling a heavy thing is like pushing a heavy school bag. It moves slowly.)
   - Note: A kitchen scale helps to weigh both cars. If you do not have one, hold the cars one in each hand and add clay until they feel equal.
 - **s5 (8 min)**  
-  *Parent does:* Show the train to a friend or a grown-up. Ask your child to say what they changed and why, using the words pull, mass and equal.  
+  *Parent does:* Show the train to a friend or a grown-up. Ask your child to say what they changed and why, using the words pull, mass (how heavy a thing is) and equal.  
   *Parent says:* Show someone your train. Tell them what you changed on day 2, and why it made the meeting softer.  
   *Child mode:* Show your train. Tell someone what you changed and why.
   - Think: In the story The Train That Met in the Middle, the engine twitched backwards when the carriage rushed forward. What does that tell you about the pull?
@@ -633,14 +633,14 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
 ## Challenges
 ### c1 · Lift the Heaviest Load with One Magnet (40 min)
 - **problem:** You have one magnet, one steel nail or bolt, thread, a cup and rice. Find the way to arrange the steel so the magnet holds the most grams of rice before the steel falls.
-- **your turn:** Sketch your design and build it. Test it three times. Change one thing and test again. Which arrangement held the most rice? Why do you think it did?
+- **your turn:** Build your design. Test it three times. Change one thing and test again. Which arrangement held the most rice? Why do you think it did?
 - **constraints:** You may use only one magnet. You may not tape the steel to the magnet.; You may use any of these steel things: a nail, a bolt, a spoon, a thin sheet of tin and a few paper clips.; Add the rice gently, one spoonful at a time.; Weigh the rice at the end, in grams.
 - **general:** Use a thick bolt rather than a thin nail, because it has more iron to magnetise.; Press the flat face of the steel firmly against the flat face of the magnet, with no gap.; Use two steel things stacked, so there is more iron close to the magnet.
 - **creative:** Put a thick flat steel washer on the face of the magnet and hang the load from the washer, so the washer spreads the pull.; Rub the surfaces smooth so that no tiny gaps remain, or use a drop of water to fill them.; Hang the load from the steel as low down as possible, so the load pulls the steel straight off and not sideways.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch two or three designs, and to say which they think will hold the most.  
-  *Parent says:* You have one magnet. How can you arrange the steel so the magnet holds as much rice as possible? Draw some ideas first, and say which will win.  
-  *Child mode:* One magnet. How can you hold the most rice? Draw some ideas first.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to lay out two or three designs with the real steel things. Ask which will hold the most.  
+  *Parent says:* You have one magnet. How can you arrange the steel so the magnet holds as much rice as possible? Lay out some ideas with the steel first, and say which will win.  
+  *Child mode:* One magnet. Lay the steel out in two or three ways. Which will hold the most rice?
   - Ask: What would make the pull stronger? (good: More iron close to the magnet.; No gap between the steel and the magnet.; A thicker piece of steel.)
 - **s2 (15 min)**  
   *Parent does:* Build your first design. Add rice until the steel falls. Weigh the rice. Write the number, which is the one to beat.  
@@ -654,19 +654,19 @@ Mrs Khan ordered two hundred trains. Uncle Mohan painted the faces on every one,
   - Check: A thick bolt holds more rice than a thin nail on the same magnet. What is the best explanation? → **A thick bolt has more iron with domains that can turn, so it makes a stronger induced magnet**
 - **s4 (5 min)**  
   *Parent does:* Compare all your designs. Pick the winner, and write why you think it won, using the word saturated.  
-  *Parent says:* Which design held the most? Why do you think it won? Use the word saturated if you can.  
+  *Parent says:* Which design held the most? Why do you think it won? Saturated means the steel cannot become any more magnetic. Use that word if you can.  
   *Child mode:* Which design held the most? Why do you think it won?
   - Think: A magnet can lift more with a thick bolt than with a thin nail. Where do you think the extra strength comes from?
 ### c2 · The Gentle Gate: a door catch that shuts itself and opens with one finger (40 min)
 - **problem:** Make a small cardboard cupboard door that swings shut and is held closed by a magnet. It must stay shut if the cupboard is bumped, but a child must be able to open it with one finger.
-- **your turn:** Sketch your door. Build it. Tap the table 5 times and open it with one finger. Change the strength of the grip by changing the gap. Which gap gave a door that stays shut but opens easily? Why do you think so?
+- **your turn:** Build your door. Tap the table 5 times and open it with one finger. Change the strength of the grip by changing the gap. Which gap gave a door that stays shut but opens easily? Why do you think so?
 - **constraints:** Use cardboard for the door and the frame. Use tape for the hinge.; Use only magnets and steel that you already have.; The door must stay shut when you tap the table 5 times, and must open with one finger.; Keep magnets away from phones and bank cards.
 - **general:** Tape a magnet to the edge of the frame and a steel washer to the edge of the door, so they touch when the door shuts.; Use a weak magnet, so a finger can open the door easily.; Make the door and the frame close with no gap.
 - **creative:** Use two bendy magnets with their stripes lined up, so the door clicks into one place only.; Put a thin sheet of paper between the magnet and the steel, to make the grip a little weaker.; Put a small magnet at the top and one at the bottom of the door, so it shuts straight and evenly.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem. Ask your child to say what makes a good catch, and to draw the door, the frame, the magnet and the steel.  
-  *Parent says:* We want a door that stays shut when the cupboard is bumped, but opens with one finger. What should the catch be like? Not too strong and not too weak. Draw your idea.  
-  *Child mode:* A door that stays shut but opens with one finger. Draw your idea.
+  *Parent does:* Read the problem. Ask your child to say what makes a good catch. Then ask them to show with the cardboard where the magnet and steel will go.  
+  *Parent says:* We want a door that stays shut when the cupboard is bumped, but opens with one finger. What should the catch be like? Not too strong and not too weak. Show me where the magnet and the steel will go.  
+  *Child mode:* A door that stays shut but opens with one finger. Where will the magnet and the steel go?
   - Ask: What could you change to make the catch weaker or stronger? (good: A weaker magnet.; A gap between the magnet and the steel.; More steel.)
 - **s2 (15 min)**  
   *Parent does:* Build the door and the frame. Tape the magnet to the frame and the steel to the door. Shut the door. Tap the table 5 times, and then open it with one finger.  

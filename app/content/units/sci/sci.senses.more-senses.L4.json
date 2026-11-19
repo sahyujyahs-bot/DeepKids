@@ -701,7 +701,7 @@
           "kid": "Read a moment. Pick a token and put it face down. Turn it up, then check the back of the card.",
           "ask": [
             {
-              "q": "Why is the mattress with eyes shut harder than the mattress with eyes open?",
+              "q": "Why is it harder to stand on a mattress with your eyes shut than with your eyes open?",
               "good": [
                 "With eyes open the eyes help the unsure feet.",
                 "With eyes shut only the ears are left.",
@@ -840,7 +840,7 @@
           "mins": 5,
           "do": "Set out the six stations. Fold a blanket three times and flatten it for station 3. One spotter walks beside the player from station to station.",
           "say": "We will visit six stations. At each one, a helper for your balance is taken away. Which station do you think will be hardest? Why?",
-          "kid": "Set out six stations. Guess which will be the hardest.",
+          "kid": "You will visit six stations. At each one, a helper is taken away.",
           "adult": true,
           "ask": [
             {
@@ -873,7 +873,7 @@
           "kid": "Add your points. Which station was hardest?",
           "check": {
             "t": "mcq",
-            "q": "At station 4 you stand on one foot with your eyes shut and touch a wall with one finger. Why is this often easier than station 2?",
+            "q": "You stand on one foot with your eyes shut. Why is it often easier if you also touch a wall with one finger?",
             "options": [
               "The fingertip gives the brain a fourth source of information",
               "The wall holds your weight",
@@ -951,14 +951,14 @@
           "what": "Guess, set up, do the four tests twice, draw the bars and explain the result."
         }
       ],
-      "record": "Fill in the table. Take the best of the two tries for each test. Draw four bars, one for each test, and write under each bar which helpers were still working well.",
+      "record": "Fill in the table. Take the best of the two tries for each test. Make four rows of coins, one for each test, and write next to each row which helpers were still working well.",
       "flow": [
         {
           "id": "s1",
           "mins": 5,
           "do": "Show your child the four tests. Ask for a guess and a reason for each question. Write the guess at the top of the table.",
           "say": "We will stand on one foot four ways. Eyes open or shut, and bare floor or blanket. Which test will be hardest? Which easiest? Why?",
-          "kid": "You will stand on one foot four ways. Which will be hardest? Which easiest? Why?",
+          "kid": "You will stand on one foot four ways: eyes open or shut, on the bare floor or on a blanket.",
           "ask": [
             {
               "q": "Which test do you think will be hardest, and why do you think so?",
@@ -1005,9 +1005,9 @@
         {
           "id": "s5",
           "mins": 5,
-          "do": "Draw a bar for the best time in each test. Look for the longest and shortest bars. Compare with the guess.",
-          "say": "Look at your bars. Which test gave the longest time? Which the shortest? Was your guess right?",
-          "kid": "Draw a bar for each test. Which bar is longest? Which is shortest?",
+          "do": "Make a row of coins or buttons for each test, one coin for each second of the best time. Look for the longest and shortest rows. Compare with the guess.",
+          "say": "Look at your rows. Which test gave the longest time? Which the shortest? Was your guess right?",
+          "kid": "Make a row of coins for each test, one coin for each second. Which row is longest? Which is shortest?",
           "parent": "A common pattern is the longest time for eyes open on the floor and the shortest for eyes shut on the blanket. Eyes shut on the floor and eyes open on the blanket often fall between. If your results differ, write them down as they are. A pattern that surprises you is worth explaining.",
           "context": "In this step, you draw the results and compare them with your guess."
         },
@@ -1015,7 +1015,7 @@
           "id": "s6",
           "mins": 4,
           "do": "Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.",
-          "say": "What do you think was happening? What did you see? Why did eyes shut on the blanket give the shortest time?",
+          "say": "What do you think was happening in your body? What did you see that shows it?",
           "kid": "Say what you think happened. Say what you saw. Say why it happened.",
           "check": {
             "t": "mcq",
@@ -1031,7 +1031,7 @@
           "context": "In this step, you explain the result and check your reasoning."
         }
       ],
-      "context": "In this experiment, you stand on one foot four ways, and find out which of your three balance helpers you rely on most.",
+      "context": "In this experiment, you stand on one foot four ways, and find out which of your three balance helpers you rely on most. The three helpers are your eyes, your inner ears, and the feel of the floor in your feet.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example: seconds on one foot",
@@ -1132,14 +1132,14 @@
           "what": "Guess, then read lines three ways, twice each: with head and page still, with your head shaking, and with the page shaking."
         }
       ],
-      "record": "Write the words read right for each line. Add the two rounds for each test. Draw three bars, one for each test.",
+      "record": "Write the words read right for each line. Add the two rounds for each test. Make three rows of coins, one for each test.",
       "flow": [
         {
           "id": "s1",
           "mins": 4,
           "do": "Show your child the page and the three tests. Ask for a guess and a reason. Write the guess down.",
           "say": "We will read in three ways. Head still and page still. Head shaking and page still. Head still and page shaking. Which will be hardest? Why?",
-          "kid": "You will read three ways. Which will be hardest? Why do you think so?",
+          "kid": "You will read three ways: head and page still, head shaking, and page shaking.",
           "ask": [
             {
               "q": "Why do you think shaking the page might be harder than shaking your head?",
@@ -1186,9 +1186,9 @@
         {
           "id": "s5",
           "mins": 5,
-          "do": "Add the two rounds for each test. Draw three bars. Compare the head shake with the page shake. Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.",
+          "do": "Add the two rounds for each test. Make three rows of coins or buttons, one coin for each word read right. Compare the head shake with the page shake. Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.",
           "say": "Which was harder, the head or the page? Both moved the same amount at the same beat. What do you think your eyes were doing differently?",
-          "kid": "Add up your words. Which was harder, head or page? Why?",
+          "kid": "Add up your words. Which row is longer, head shake or page shake?",
           "parent": "A common result is that a shaking head makes reading only a little harder, and a shaking page makes it much harder. If so, the head-turn reflex is working: the inner ears tell the eyes to move opposite to the head within a hundredth of a second. Following a moving page on purpose is slower. If your results are the same for both, the shakes may have been too gentle. Shake faster and try again.",
           "check": {
             "t": "mcq",
@@ -1302,7 +1302,7 @@
           "mins": 4,
           "do": "Show your child the ice, the cloth and the scale from 0 to 10. Ask for a guess and a reason, and write them down.",
           "say": "We will hold an ice cube for 20 seconds. Sometimes you will only watch it. Sometimes you will count backwards. Will the ache change? Why?",
-          "kid": "You will hold an ice cube for 20 seconds. Will counting change the ache? Why?",
+          "kid": "You will hold an ice cube twice. Once you only watch. Once you count backwards.",
           "ask": [
             {
               "q": "Why do you think counting might change how much the ice aches?",
@@ -1460,7 +1460,7 @@
           "mins": 3,
           "do": "Show your child the umbrella. Ask for a guess and a reason. Write the guess down.",
           "say": "I will turn this umbrella slowly over your head while you sit still. Will you feel anything? Will you feel the umbrella turning, or yourself turning?",
-          "kid": "An umbrella will turn above you. Will you feel anything? Why?",
+          "kid": "An umbrella will turn slowly above you while you sit still.",
           "ask": [
             {
               "q": "Why do you think you might feel something, when you are not moving?",
@@ -1487,9 +1487,9 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "Swap places. Then ask your child to describe the feeling, and to say which part of the body noticed the turning.",
-          "say": "Now it is my turn. After this, tell me: was it your eyes, your ears or your feet that told you that you were turning?",
-          "kid": "Swap. Now you turn the umbrella. Then say what you felt.",
+          "do": "Swap places. Then ask your child to describe the feeling in their own words. Then ask the check question.",
+          "say": "Now it is my turn. Afterwards, tell me what you felt when the umbrella turned over you.",
+          "kid": "Swap. Now you turn the umbrella over your grown-up. Then say what you felt when it turned over you.",
           "check": {
             "t": "mcq",
             "q": "Under a turning umbrella, you may feel that you are turning, though you sit still. Which sense is giving the wrong message?",
@@ -1566,7 +1566,7 @@
           "mins": 4,
           "do": "Weigh the tomato on the scale. Let your child feel how light 100 grams is. Practise touching the scale with one fingertip so that it reads under 100 grams. Ask for a guess and a reason.",
           "say": "This tomato is about 100 grams. Your fingertip will touch the scale more lightly than that. Do you think a touch that light can help you stand? Why?",
-          "kid": "A tomato weighs about 100 grams. Touch the scale so lightly that it reads less than 100 grams. Can a touch that light help you stand?",
+          "kid": "A tomato weighs about 100 grams. Touch the scale very lightly. It must read less than 100 grams.",
           "ask": [
             {
               "q": "Do you think a touch lighter than a tomato will help you stand? Why do you think so?",
@@ -1605,7 +1605,7 @@
           "mins": 4,
           "do": "Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.",
           "say": "Which was steadier, no touch or light touch? Was the hard push much better? What does the light touch do, if it does not hold you up?",
-          "kid": "Which was steadiest? Why did a light touch help?",
+          "kid": "Compare your seconds for no touch, light touch and hard push.",
           "check": {
             "t": "mcq",
             "q": "A touch of less than 100 grams cannot hold up a child who weighs 25 kilograms. Why does it still help?",
@@ -1682,7 +1682,7 @@
           "mins": 4,
           "do": "A grown-up mixes the warm water and checks it with the wrist, or with a thermometer. Pour it into the two bowls. Ask for a guess and a reason.",
           "say": "Both bowls have the same warm water. If you dip one finger, and then your whole hand, will the warmth feel the same? Why do you think so?",
-          "kid": "The water is the same. Will a finger and a whole hand feel the same? Why?",
+          "kid": "The water in both bowls is the same warmth. You will dip a finger, then a hand, then both hands.",
           "adult": true,
           "ask": [
             {
@@ -1760,7 +1760,7 @@
         }
       ],
       "record": "A table with four rows: at rest by feeling, at rest by pulse, after exercise by feeling, after exercise by pulse. For each pair, write the difference.",
-      "context": "In this activity, you count your heartbeats without touching your wrist, and then check by taking your pulse, to see how well a sense that looks inward works.",
+      "context": "In this activity, you count your heartbeats without touching your wrist, and then check by taking your pulse, to find out how well you can feel your own heart.",
       "setup": [
         {
           "art": "A child sitting quietly on a chair with her eyes closed and her hands on her knees, a phone stopwatch on the table.",
@@ -1901,7 +1901,7 @@
           "mins": 4,
           "do": "Show your child both tumblers and the cloths. Ask for a guess and a reason. Write the guess down.",
           "say": "One cloth will be wet and one dry. Both tumblers hold the same warm water, in front of a fan. Which will cool more? Why do you think so?",
-          "kid": "One cloth is wet. One is dry. Which tumbler cools more? Why?",
+          "kid": "One cloth is wet. One is dry. Both tumblers get the same warm water.",
           "ask": [
             {
               "q": "Why do you think the wet cloth might cool the water more, or less?",
@@ -1930,7 +1930,7 @@
           "mins": 15,
           "do": "Put the tumblers side by side in front of the fan. Start a timer for 15 minutes. While you wait, talk about when you feel cool in a breeze after swimming or sweating.",
           "say": "While we wait, think. When do you feel cold in a breeze? What is on your skin then?",
-          "kid": "Put the tumblers in the breeze. Wait 15 minutes. Think about sweat.",
+          "kid": "Put the tumblers in the breeze. Wait 15 minutes.",
           "adult": true,
           "wait": "Leave the tumblers in front of the fan for 15 minutes.",
           "parent": "On a very humid day, such as in Chennai during the monsoon, the difference may be small. A table fan helps a lot. Do not touch the tumblers during the wait. Typical result: the wet cloth cools the water a few degrees more in 15 minutes, but the numbers depend on the weather. In a hot room the water may not cool much at all, so also compare how the two feel. If the fever thermometer shows Lo, write under 32. With two to four children, one measures each tumbler, one writes and one watches the clock. Repeat with the cloths swapped, so the test is fair to both tumblers.",
@@ -2116,8 +2116,8 @@
           "what": "Add up, find the average for each test, draw a bar chart and discuss what you found."
         }
       ],
-      "record": "A table with a row for each person and four columns for the tests. Then a row for the average of each test, and a bar chart of the four averages.",
-      "context": "In this project, you test eight people with the four Balance Team tests and look for a pattern across the group.",
+      "record": "A table with a row for each person and four columns for the tests. Then a row for the average of each test, and four rows of coins, one for each average.",
+      "context": "In this project, you test eight people with the four Balance Team tests, to find out whether the same test is hardest for everyone.",
       "setup": [
         {
           "art": "A table ruled on paper with names of family members down the left and four test names across the top.",
@@ -2129,7 +2129,7 @@
         },
         {
           "art": "A bar chart on paper with four bars, one for each test, and a child colouring the longest bar.",
-          "caption": "3. Find the average for each test and draw four bars."
+          "caption": "3. Find the average for each test and make four rows of coins."
         }
       ],
       "flow": [
@@ -2166,9 +2166,9 @@
         {
           "id": "s3",
           "mins": 15,
-          "do": "Add the seconds for each test, and divide by the number of people to find the average. Draw four bars. Discuss what you found, and ask the check question.",
-          "say": "Add up each column. Divide by the number of people. Draw a bar for each average. Which is the lowest bar? Is it the test you expected?",
-          "kid": "Add each column. Divide by the number of people. Draw the bars.",
+          "do": "Add the seconds for each test, and divide by the number of people to find the average. Make four rows of coins or buttons, one coin for each whole second of the average. Discuss what you found, and ask the check question.",
+          "say": "Add up each column. Divide by the number of people. Make a row of coins for each average. Which is the shortest row? Is it the test you expected?",
+          "kid": "Add each column. Divide by the number of people. Make a row of coins for each average.",
           "check": {
             "t": "mcq",
             "q": "Why is an average of eight people more trustworthy than the result of one person?",
@@ -2215,7 +2215,7 @@
         "A change in how the floor feels, such as a ridged mat placed one step before each turn, so the feet get a message before the eyes need one.",
         "A walking stick kept by the bed, with a bright tip, for touching the floor lightly as a sensor."
       ],
-      "your_turn": "Draw your path from the bed to the toilet. Mark where each balance helper is helped. Test it with the lights off and a grown-up beside you, and write what you would change.",
+      "your_turn": "Build your path from the bed to the toilet. Mark where each balance helper is helped. Test it with the lights off and a grown-up beside you, and write what you would change.",
       "context": "This is a design challenge about the balance team. You design a path that helps someone whose feet no longer tell them as much as before.",
       "setup": [
         {
@@ -2235,9 +2235,9 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Read the problem together. List the dangers on the path, and which balance helpers are weak in the dark. Ask your child to draw two ideas.",
-          "say": "In the dark, the eyes help little, and tired feet tell less. What can we add so that someone walking has more help? Draw two ideas.",
-          "kid": "Think of dangers in a dark passage. Draw two ideas.",
+          "do": "Read the problem together. List the dangers on the path, and which balance helpers are weak in the dark. Ask your child to tell you two ideas, or draw them.",
+          "say": "In the dark, the eyes help little, and tired feet tell less. What can we add so that someone walking has more help? Tell me two ideas, or draw them.",
+          "kid": "Think of dangers in a dark passage. Tell your grown-up two ideas, or draw them.",
           "ask": [
             {
               "q": "Which helper does each of your ideas help: the eyes, the feet, or a light touch?",
@@ -2276,7 +2276,7 @@
       "id": "c2",
       "title": "Heat Cloak: hide a warm tumbler from a pit viper",
       "mins": 40,
-      "problem": "In Be a Pit Viper, a child with eyes shut finds a warm tumbler by the warmth coming off the outside of the tumbler. Make a cover that hides the warm tumbler from a classmate who is playing the pit viper, with their cheek 5 centimetres away. The viper should not be able to find the tumbler better than by luck.",
+      "problem": "In Be a Pit Viper, a child with eyes shut finds a warm tumbler by the warmth coming off the outside of the tumbler. Make a cover that hides the warm tumbler from someone who is playing the pit viper, with their cheek 5 centimetres away. The viper should not be able to find the tumbler better than by luck.",
       "constraints": [
         "The warm tumbler must hold warm water, never hotter than 40 degrees Celsius.",
         "The cover must be made only from kitchen and craft things, and must fit round the tumbler.",
@@ -2300,8 +2300,8 @@
         "A cover with an air gap, made with a rolled newspaper tube, so the outside stays cool.",
         "A warm tumbler inside a big cold tumbler, with the gap filled by crumpled paper."
       ],
-      "your_turn": "Design and make your cloak. Draw it and say which layer does what. Test it in 12 rounds and count the right answers. If the pit viper gets more than 6 of 12, change one thing and test again.",
-      "context": "This is a design challenge about heat. You hide a warm object from a heat sense like the one a snake has.",
+      "your_turn": "Design and make your cloak. Say which layer does what, and take a photo or draw it. Test it in 12 rounds and count the right answers. If the pit viper gets more than 6 of 12, change one thing and test again.",
+      "context": "This is a design challenge about heat. You hide a warm object from a heat sense like the one a snake has, to find out which materials slow heat best.",
       "setup": [
         {
           "art": "Three steel tumblers on a table, one wrapped in layers of cloth and foil, and a girl with closed eyes holding her cheek near them.",
@@ -2309,7 +2309,7 @@
         },
         {
           "art": "A drawing of layers of a cloak: foil, an air gap, cloth and the warm tumbler, with arrows for heat.",
-          "caption": "2. Draw the layers, and say what each layer does."
+          "caption": "2. Show the layers, and say what each layer does."
         },
         {
           "art": "A score sheet with 12 rows and ticks for the right answers.",
@@ -2320,9 +2320,9 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Read the problem together. Talk about how heat leaves a warm tumbler. Draw two ideas for a cloak.",
-          "say": "A pit viper finds heat. How can we slow heat on its way from the warm water to the outside? Draw two ideas.",
-          "kid": "How can you slow heat leaving a warm cup? Draw two ideas.",
+          "do": "Read the problem together. Talk about how heat leaves a warm tumbler. Say or draw two ideas for a cloak.",
+          "say": "A pit viper finds heat. How can we slow heat on its way from the warm water to the outside? Tell me two ideas, or draw them.",
+          "kid": "How can you slow heat leaving a warm cup? Tell two ideas, or draw them.",
           "ask": [
             {
               "q": "Which materials do you think are good at slowing heat?",
@@ -2339,7 +2339,7 @@
           "id": "s2",
           "mins": 20,
           "do": "Make your cloak. Cover the warm tumbler in it. Cover the two cold tumblers in the same way. Test with 12 rounds of Be a Pit Viper, at 5 centimetres. Count the right answers.",
-          "say": "Make your cloak and cover all three tumblers in the same way. Your classmate plays the pit viper. How many do they get right?",
+          "say": "Make your cloak and cover all three tumblers in the same way. Your grown-up plays the pit viper. How many do they get right?",
           "kid": "Make your cloak. Cover all three cups. Test it for 12 rounds.",
           "adult": true,
           "parent": "Warm water must not be hotter than 40 degrees. Use scissors only with a grown-up. Check that all three cups look the same. Bubble wrap is optional: a folded towel or extra newspaper works too. With two to four children, split into a cloak team and a pit viper who is a different child, and swap after the test. Use the same shuffling and recording as in Be a Pit Viper.",

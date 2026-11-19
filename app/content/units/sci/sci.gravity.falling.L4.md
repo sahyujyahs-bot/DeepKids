@@ -218,7 +218,7 @@ She squeezed the lime, and smelled it, and smiled.
   *Parent says:* These cards ask what happens when things fall or move. We write an answer and a reason. Then we check the back.  
   *Child mode:* Cut out the cards. Shuffle them. Take a pencil and some paper.
 - **s2 (6 min)**  
-  *Parent does:* Play the first six cards. After each card, the reader reads the back aloud. Keep a tally of points on the score sheet.  
+  *Parent does:* Play the first six cards. After each card, the reader reads the back aloud. A right answer scores one point, and a right reason scores one more. Keep a tally of points on the score sheet.  
   *Parent says:* The reader reads the front. Everyone writes an answer and a reason. Now the reader reads the back. Who gets a point?  
   *Child mode:* The reader reads a card. Write your answer and a reason. Check the back.
   - Ask: What do the cards about speeding up have in common? (good: Falling things gain the same speed each second.; The air only matters at higher speeds.; The numbers go up by 10 each time.)
@@ -243,12 +243,12 @@ She squeezed the lime, and smelled it, and smiled.
 - **predict:** Before you start, guess. Will the stack of four land first, last or together with the single liner? Why do you think so?
 - **fair test:** Every liner is the same. Every drop starts from the same height, marked with tape on the wall. Every liner is held with its opening facing up and is let go, not thrown. Only the number of liners changes. Each stack is dropped three times, because one drop can be a fluke, and a drop where the liner tumbles over is repeated. A phone stopwatch started by hand is off by about 0.2 to 0.3 seconds, so only a gap bigger than that is real.
 - **safety:** The grown-up drops the liners while standing on the floor. Nobody stands on a chair or a stool. Keep the small liners away from very young children, who might put them in their mouths. A grown-up does any cutting with scissors if you make newspaper cones. Keep the area under the drop clear of toys and wet floor.
-- **record:** For each stack, write the three times and the middle time. Then draw a bar chart with one bar for each stack, using the middle time.
+- **record:** For each stack, write the three times and the middle time. Then draw a bar chart with one bar for each stack, using the middle time, or lay paper strips side by side.
 - **results table:** Number of liners | Drop 1 (seconds) | Drop 2 (seconds) | Drop 3 (seconds) | Middle time (seconds)
 - **s1 (5 min)**  
   *Parent does:* Show your child one liner and a stack of four. Ask for a guess and a reason. Write both at the top of the results table.  
   *Parent says:* I will drop one liner and a stack of four liners. Which will land first? Why do you think so?  
-  *Child mode:* One liner or a stack of four? Which lands first? Why do you think so?
+  *Child mode:* Make a guess. Will one liner or a stack of four land first?
   - Ask: Why do you think that one will land first? (good: The stack is heavier.; They are the same shape, so they land together.; The air will hold up the single one.)
   - Note: Do not correct the guess. Many children say they will land together, because heavy and light things fall together. That is a good reason to test it.
 - **s2 (5 min)**  
@@ -271,9 +271,9 @@ She squeezed the lime, and smelled it, and smiled.
   - Note: The times are rough, because a stopwatch is started a fraction of a second late. That is why each stack is dropped three times, and we use the middle time. Typically, one liner takes about 1.2 to 2 seconds and a stack of four takes about 0.8 to 1.2 seconds from 2 metres. Yours may differ, and the times for stacks of two and three may sit close together. Trust the side-by-side race of one liner against the stack of four most, and the middle times second. A wobble does not count.
   - Check: Three drops of a stack took 1.6, 1.9 and 1.7 seconds. Which is the middle time? → **1.7 seconds**
 - **s5 (5 min)**  
-  *Parent does:* Draw a bar for each stack, using the middle times. Then ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Draw a bar for each stack, using the middle times. If your child would rather not draw, lay strips of paper side by side, each as long as a middle time. Then ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a bar for each stack. Say what you thought, what you saw and why.
+  *Child mode:* Draw a bar, or lay a paper strip, for each stack. Say what you thought, what you saw and why.
   - Note: Listen first. Then say: the air pushes harder the faster a thing falls. A heavier stack must go faster before the push of the air matches its weight. So it has a higher top speed. Four times the weight gives only about twice the top speed. That is why the stack of four falls faster, but not four times faster.
   - Think: Would a stack of a hundred liners fall a hundred times faster?
 ### e2 · The Walking Drop: where does a ball land if you drop it while walking? (25 min)
@@ -284,13 +284,13 @@ She squeezed the lime, and smelled it, and smiled.
 - **record:** For each drop, write the distance from the mark to the sticky note where the ball landed. For each pace, write the middle of the three distances.
 - **results table:** Pace (seconds to walk 3 m) | Drop 1 (cm ahead of the mark) | Drop 2 (cm ahead) | Drop 3 (cm ahead) | Middle distance (cm)
 - **s1 (4 min)**  
-  *Parent does:* Show the dough ball and the drop mark. Ask your child to draw three dots on paper. The dots show the three places the ball may land: behind the mark, under it or ahead of it. Ask her which dot she picks, and why.  
+  *Parent does:* Show the dough ball and the drop mark. Ask your child to point to where she thinks the ball will land: behind the mark, under it or ahead of it. Ask her why.  
   *Parent says:* You will walk past the mark and let go of the ball as your hand passes it. Where will it land? Behind the mark, under it or ahead of it? Why?  
   *Child mode:* Walk past the mark and let go. Where will the ball land? Behind, under or ahead? Why?
   - Ask: Will walking faster change where the ball lands? (good: Yes, it will land farther ahead.; No, it will always drop straight down.; It will land behind, because the ball is slow.)
   - Note: Do not correct the guess. Many children say the ball falls straight down under the hand. Write it down so they can compare later.
 - **s2 (6 min)**  
-  *Parent does:* Stick the drop mark on the floor. Measure the height of your child's shoulder and write it down. Stand still with your hand above the mark and let go of the ball. The helper puts a sticky note where it lands. Measure from the mark to the note.  
+  *Parent does:* Stick the drop mark on the floor. Stand still with your hand above the mark and let go of the ball. The helper puts a sticky note where it lands. Measure from the mark to the note.  
   *Parent says:* First we stand still. Let go of the ball above the mark. It should land right under your hand. This is our check.  
   *Child mode:* Stand still over the mark. Let go of the ball. Where does it land?
   - Ask: Why did we drop the ball while standing still first? (good: To see what happens with no walking.; So we have something to compare with.; To check our measuring works.)
@@ -318,7 +318,7 @@ She squeezed the lime, and smelled it, and smiled.
 - **predict:** Before you start, guess. Which height will dig the deepest dent? Will the dent from 40 centimetres be about the same as the 10 centimetre dent, 2 times as deep, or 4 times as deep? Why do you think so?
 - **fair test:** The marble, the dough and the way you let go stay the same. Each drop lands on a fresh patch of smooth dough. Only the drop height changes. Each height is tried three times, because one drop can be a fluke. With 2 to 4 children, a different child drops each of the three tries.
 - **safety:** Keep the marble away from children under five, who might put it in their mouths. Atta dough has wheat in it: do not use it if anyone has a wheat allergy (use modelling clay), do not eat it, and wash hands after. Toothpicks are sharp, so a grown-up helps. Push them in gently with the point down, and throw them away afterwards. In hot weather, cover the dough with a damp cloth between rounds so it does not dry out.
-- **record:** Write the depth of each dent in millimetres. For each height, write the middle of the three depths. Then draw a bar chart with one bar for each height.
+- **record:** Write the depth of each dent in millimetres. For each height, write the middle of the three depths. Then draw a bar chart with one bar for each height, or lay paper strips side by side.
 - **results table:** Drop height (cm) | Dent 1 depth (mm) | Dent 2 depth (mm) | Dent 3 depth (mm) | Middle depth (mm)
 - **s1 (4 min)**  
   *Parent does:* Show the marble and explain that it will be dropped from 10, 20 and 40 centimetres. Ask your child to guess which dent will be deepest and how much deeper the dent from 40 centimetres will be. Ask for a reason.  
@@ -344,9 +344,9 @@ She squeezed the lime, and smelled it, and smiled.
   - Note: The numbers will be small, a few millimetres, so measure carefully. A dent from 40 centimetres is usually clearly deeper than one from 10 centimetres, but dough is soft and springy, so measure to the nearest millimetre and expect a 1 millimetre error. If a dent is hard to read, measure its width across with the ruler too.
   - Check: You push a toothpick to the bottom of a dent, with a ruler lying across the top. Where do you pinch the toothpick? → **At the edge of the ruler**
 - **s5 (3 min)**  
-  *Parent does:* Draw a bar for each height, using the middle depths. Then ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Draw a bar for each height, using the middle depths. If your child would rather not draw, lay strips of paper side by side, each as long as a middle depth. Then ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a bar for each height. Say what you thought, what you saw and why.
+  *Child mode:* Draw a bar, or lay a paper strip, for each height. Say what you thought, what you saw and why.
   - Note: Listen first. Then say: a marble dropped from 4 times the height lands with twice the speed. In the 1720s, a scientist named Willem 's Gravesande dropped balls into clay, and found that twice the speed made a dent about 4 times as deep. Emilie du Chatelet used this to argue that the strength of a hit grows with speed times speed. Dough is softer and springs back, so in your tray the 40 centimetre dent will probably be about 1.5 to 4 times the 10 centimetre one, not exactly 4. That is normal: real soft things do not follow the neat rule. The sure result is that a faster hit digs deeper. Look for the trend.
   - Think: Why does a car going fast need so much more room to stop?
 
@@ -356,7 +356,7 @@ She squeezed the lime, and smelled it, and smiled.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to toss the ball straight up a little above her head while standing still, and to catch it. Then ask her what will happen if she walks and tosses the ball straight up.  
   *Parent says:* You will walk and toss the ball straight up. Will it land in front of you, behind you or in your hand? Why?  
-  *Child mode:* Walk and toss the ball straight up. Will it land in front, behind or in your hand? Why?
+  *Child mode:* Think about what will happen when you walk and toss the ball straight up.
   - Ask: Where do you think the ball will land? (good: Behind me, because I moved on.; In my hand.; In front of me, because I am moving.)
   - Note: Do not correct the guess. Many children think the ball will be left behind.
 - **s2 (4 min)**  
@@ -366,7 +366,7 @@ She squeezed the lime, and smelled it, and smiled.
   - Ask: Did the ball ever land behind you? (good: No, it came back to my hand.; No, it moved forward with me.; Once, but I tossed it backward.)
   - Note: Count only good tosses. She must toss straight up, not forward. If the ball goes forward, call it a bad toss and repeat it.
 - **s3 (4 min) · grown-up needed**  
-  *Parent does:* Ask your child to walk a little faster and do five more tosses. If you are travelling by train or bus today, a grown-up sits next to her. On a smooth, straight stretch, she tosses a soft ball only 20 centimetres up from her seat.  
+  *Parent does:* Ask your child to walk a little faster and do five more tosses. Only if you are travelling by train or bus today: a grown-up sits next to her. On a smooth, straight stretch, she tosses a soft ball only 20 centimetres up from her seat.  
   *Parent says:* Walk a little faster this time. Toss and catch five times. Does the ball still come back to your hand?  
   *Child mode:* Walk faster. Toss and catch five times. Does the ball still come back?
   - Note: Never stand up in a moving vehicle for this. A seated toss is enough. The ball may drift if the vehicle sways, brakes or turns. That is part of what you are finding out.
@@ -405,7 +405,7 @@ She squeezed the lime, and smelled it, and smiled.
 - **s1 (5 min)**  
   *Parent does:* Tie one washer to the end of the string. Tape the other end so that the string is 50 centimetres long from the tape to the washer. Ask your child to guess whether three washers will swing faster than one. Ask for a reason.  
   *Parent says:* One swing is the washer going out and back. Will three washers swing faster than one? Will a shorter string swing faster? Why?  
-  *Child mode:* Will three washers swing faster than one? Will a short string swing faster? Why?
+  *Child mode:* Make a guess. What will change how fast the washer swings?
   - Ask: What do you think will change the swing: the weight or the length? (good: The weight, because heavy things are stronger.; The length, because a shorter swing has less distance.; Neither, they will all be the same.)
   - Note: Do not correct the guess. One swing means out and back to where you let go. Keep the swing small, no more than a hand's width from the middle. Keep faces out of the swing path, and keep washers away from very young children.
 - **s2 (6 min)**  
@@ -444,7 +444,7 @@ She squeezed the lime, and smelled it, and smiled.
 - **s3 (15 min)**  
   *Parent does:* Play the clearest clip one frame at a time. Find the frame where the ball first moves, and call it frame 0. Move on to frame 5, frame 10, frame 15 and frame 18. At each frame, read where the middle of the ball is on the tape. Write each reading.  
   *Parent says:* Find the frame where the ball first moves. Call it frame 0. Then step on five frames and read where the ball is.  
-  *Child mode:* Step through the video one frame at a time. Write where the ball is at frame 5, 10, 15 and 18.
+  *Child mode:* Step through the video one frame at a time. A frame is one still picture in the video. Write where the ball is at frame 5, 10, 15 and 18.
   - Note: Frame 0 is the last frame where the ball is still at the top mark. Being one frame out changes your answer by about 1 metre a second every second, so check a second clip. At 30 frames a second, 5 frames is one sixth of a second. If your phone cannot step one frame at a time, ask a grown-up to load the clip into the free VLC player on a computer. Then press E to move one frame on.
 - **s4 (7 min)**  
   *Parent does:* For each frame, work out the time in seconds by dividing the frame number by 30. Work out the distance fallen by taking the reading away from the height of the top mark. Look for a pattern. Then use the last frame to find how much speed the ball gains each second. First change the distance into metres. Then double it. Then divide by the time multiplied by itself.  

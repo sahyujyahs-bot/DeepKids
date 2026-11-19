@@ -854,7 +854,7 @@
      "mins": 3,
      "do": "Play the Earth card and the imaginary card 5 million kilometres from the Sun together. Then play the TRAPPIST-1 card for planet g. Compare.",
      "say": "Earth is 150 million kilometres from the Sun. An imaginary planet is only 5 million kilometres from the Sun. Which is hotter? Planet g is about 7 million kilometres from its star, TRAPPIST-1. Is it hot or cold? Why is it different?",
-     "kid": "Compare 3 cards. Two planets are about the same distance from their stars, but the stars are different. Why is the answer different?",
+     "kid": "Put the Earth card, the 5 million kilometre card and planet g side by side.",
      "check": {
       "t": "mcq",
       "q": "A planet is 7 million kilometres from a star. Why might it be too hot around the Sun but just right around TRAPPIST-1?",
@@ -1631,7 +1631,7 @@
     }
    ],
    "safety": "A grown-up does the boiling. Water for the bottles should feel like a comfortable bath, never hot. Do not eat the yeast, and keep the yeast powder out of eyes. Balloons are a choking risk for children under eight, so keep them away from small children, and nobody should blow them up by mouth or put them in their mouths. Wash hands afterwards.",
-   "record": "Fill in the table. Draw each bottle at 40 minutes, with its balloon. Draw a bar chart of the balloon sizes at 40 minutes.",
+   "record": "Fill in the table. Take a photo of the four bottles side by side at 40 minutes, or draw them with their balloons.",
    "setup": [
     {
      "art": "Four bottles in a row labelled A to D, with yeast, sugar and warm water being added in different amounts, shown by small labels.",
@@ -1687,7 +1687,7 @@
      "mins": 4,
      "do": "Show your child the four bottles, the yeast, the sugar and the balloons. Say what will go into each bottle. Ask for a guess and a reason. Write the guess down.",
      "say": "We have four bottles. A gets yeast and sugar. B gets yeast and no sugar. C gets sugar and no yeast. D gets sugar and yeast that has been boiled. Which balloon will swell the most? Which will not swell at all? Why do you think so?",
-     "kid": "Four bottles with different things in them. Which balloon swells the most? Why?",
+     "kid": "Look at the four bottles. Guess which balloon will swell the most.",
      "ask": [
       {
        "q": "Why do you think a balloon might swell on one bottle and not the others?",
@@ -1763,9 +1763,9 @@
     {
      "id": "s6",
      "mins": 10,
-     "do": "Ask your child three things: what they think now, what they saw that shows it, and why they think it happened. Then ask your child to be a space probe that can see only the balloons. Draw a bar chart of the balloon sizes at 40 minutes.",
+     "do": "Ask your child three things: what they think now, what they saw that shows it, and why they think it happened. Then ask your child to put the bottles in a row, biggest balloon first. Ask them to be a space probe that can see only the balloons.",
      "say": "Let's put it together. First, what do you think now? Second, what did you see that shows it? Third, why do you think it happened? Now pretend you are a space probe that can see only the balloons. Which bottles would you say hold life?",
-     "kid": "Say three things: what you think, what you saw, and why it happened. Then pretend you can see only the balloons.",
+     "kid": "Put the bottles in a row, biggest balloon first. Say three things: what you think, what you saw, and why it happened.",
      "parent": "A good answer. What I think: living yeast change the gas in the bottle. What I saw: only the bottle with yeast and sugar swelled the balloon. The dead yeast and the sugar alone did nothing. Why: living yeast eat sugar and give out carbon dioxide gas, and the gas swells the balloon. A probe that saw only the balloons would say bottle A holds life, and it would be right. But a probe seeing only a swollen balloon could be fooled by something else that makes gas. For example, warm air takes up more room, and baking soda mixed with vinegar makes gas without any life. So a scientist would want a second sign. Give this last part only after your child has given their own ideas.",
      "think": "What other thing could swell a balloon on a bottle, without any life?",
      "context": "In this step, you say what the balloons show, and you play the part of a probe that sees only the gas."
@@ -1827,7 +1827,7 @@
      "what": "Next morning, look at the four cups. Move cups A and D to the warm box. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table. Draw each cup and show whether the curd set or stayed liquid.",
+   "record": "Fill in the table: set or still liquid, for each cup. Take a photo of the four cups, or draw them.",
    "setup": [
     {
      "art": "Four labelled steel katoris in a row, each holding a spoonful of white curd.",
@@ -1852,7 +1852,7 @@
      "mins": 4,
      "do": "Show your child the four cups, the milk and the curd. Say where each cup will go. Ask for a guess and a reason. Write the guess down.",
      "say": "We will put the same milk and the same curd in four places. A goes in the fridge. B stays on the kitchen counter. C goes in a warm box. D gets milk that was just boiled. Which cup will set first? Which will never set? Why do you think so?",
-     "kid": "Four cups in four places. Which one makes curd? Which does not? Why?",
+     "kid": "Four cups, four places. Guess which cup will make curd and which will not.",
      "ask": [
       {
        "q": "Why do you think one place might make curd and another not?",
@@ -1869,7 +1869,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "A grown-up boils the milk. Pour a little hot milk into cup D straight away, and stir in 1 teaspoon of curd while it is steaming. Let the rest cool until you can keep a clean finger in it for 10 seconds, about 40 to 45 degrees. Pour 100 millilitres of the cooled milk into cups A, B and C.",
+     "do": "A grown-up boils the milk. A grown-up pours 100 millilitres of hot milk into cup D straight away. Stir in 1 teaspoon of curd while it is steaming. Let the rest cool until you can keep a clean finger in it for 10 seconds, about 40 to 45 degrees. Pour 100 millilitres of the cooled milk into cups A, B and C.",
      "say": "Cup D gets the curd while the milk is still steaming hot. For the others, we wait until the milk is warm like a bath. Keep a clean finger in it for ten seconds. If it hurts, it is too hot.",
      "kid": "A grown-up boils the milk. Wait until it is warm. Pour it into cups A, B and C.",
      "adult": true,
@@ -1988,7 +1988,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Ask your child to rank the five signs from the easiest to fake with no life to the hardest to fake. Talk about which sign would still be there if all the people on Earth vanished.",
+     "do": "Ask your child to write each sign on a slip of paper and lay the slips in a row, from the easiest to fake with no life to the hardest to fake. Talk about which sign would still be there if all the people on Earth vanished.",
      "say": "Now rank the signs. Which one could non-living things fake easily? Which one would be hardest to fake? And which sign would still be there if all the people vanished?",
      "kid": "Rank your 5 signs. Which is easiest to fake? Which is hardest?",
      "check": {
@@ -2074,7 +2074,7 @@
      "mins": 7,
      "do": "Draw the graph for Star X. Put days 1 to 18 along the bottom and brightness 985 to 1000 up the side. Plot a dot for each day. Join the dots with a line. Mark each dip with an arrow.",
      "say": "Days go along the bottom, from 1 to 18. Brightness goes up the side, from 985 to 1000. Put a dot for each day. Most dots are at the top. Three dots are lower. Join them up. What do you see?",
-     "kid": "Draw a graph. Days along the bottom. Brightness up the side. Plot Star X.",
+     "kid": "Make a graph on squared paper. Days along the bottom, brightness up the side. Put a dot for each day of Star X.",
      "check": {
       "t": "mcq",
       "q": "Star X dips on days 5, 11 and 17. How long is the planet's year?",
@@ -2093,7 +2093,7 @@
      "mins": 5,
      "do": "Now draw Star Y on the same graph in a different colour. Star Y is 1000 on every day from 1 to 18, except 999 on days 3, 7, 11, 15. Find the length of its planet's year.",
      "say": "Now Star Y. It is 1000 every day, except 999 on days 3, 7, 11 and 15. Plot it in another colour on the same graph. How long is its planet's year? Which dip is deeper?",
-     "kid": "Draw Star Y in another colour. Dips on days 3, 7, 11, 15. How long is its year?",
+     "kid": "Plot Star Y in another colour. Its dips are on days 3, 7, 11 and 15.",
      "parent": "Star Y's planet has a 4-day year. Its dips are tiny, only 1 part in 1,000. Star X's dips are 10 parts in 1,000, which is 1 part in 100, the size of a Jupiter-sized planet in front of a Sun-like star.",
      "context": "In this step, you draw Star Y and find its planet's year."
     },
@@ -2242,7 +2242,7 @@
      "what": "Make a rainbow with a CD and a torch. Put coloured cellophane in the beam. See which colours go missing."
     }
    ],
-   "record": "Draw the rainbow with no cellophane. Draw it again with each coloured sheet, showing which colours are missing.",
+   "record": "For the rainbow with no cellophane, and again with each coloured sheet, say or write which colours are missing. Take a photo of each rainbow if you can.",
    "setup": [
     {
      "art": "A torch beam shining on a tilted CD in a dark room, with a rainbow band on the wall.",
@@ -2254,7 +2254,7 @@
     },
     {
      "art": "Three small rainbow strips side by side, each with a different part missing.",
-     "caption": "3. Try each coloured sheet. Draw what is missing."
+     "caption": "3. Try each coloured sheet. Which colours are missing?"
     }
    ],
    "flow": [
@@ -2263,7 +2263,7 @@
      "mins": 4,
      "do": "Explain that a gas takes away its own colours from the light. Show the CD and the cellophane. Ask your child to guess what a red sheet in front of the torch will do to the rainbow.",
      "say": "Starlight is a rainbow of colours. When it passes through a planet's air, each gas takes away its own colours. Today, a coloured sheet is our gas. What will a red sheet do to the rainbow? Which colours will disappear? Why do you think so?",
-     "kid": "A coloured sheet takes away some colours. What will red do to a rainbow? Why?",
+     "kid": "A coloured sheet takes away some colours from light. Guess what the red sheet will do to the rainbow.",
      "ask": [
       {
        "q": "Which colours do you think a red sheet will take away?",
@@ -2290,8 +2290,8 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Hold the red sheet in front of the torch. Look at the rainbow. Write which colours are missing. Do the same with the green sheet and the yellow sheet.",
-     "say": "Hold the red sheet in front of the torch. What happens to the rainbow? Which colours are gone? Now try green, and then yellow. Write down what is missing each time.",
+     "do": "Hold the red sheet in front of the torch. Look at the rainbow. Say which colours are missing. Do the same with the green sheet and the yellow sheet.",
+     "say": "Hold the red sheet in front of the torch. What happens to the rainbow? Which colours are gone? Now try green, and then yellow. Tell me what is missing each time.",
      "kid": "Hold a coloured sheet in front of the torch. Which rainbow colours go missing?",
      "check": {
       "t": "mcq",
@@ -2376,7 +2376,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Draw the table. For each thing, tick the signs it shows. Then decide: alive, not alive, or hard to say. Talk about the ones that disagree with your first guess.",
+     "do": "Rule a table on paper. For each thing, tick the signs it shows. Then put its card in one of three piles: alive, not alive, or hard to say. Talk about the ones that disagree with your first guess.",
      "say": "For each card, tick the signs it shows. A flame uses energy and grows. But does it make copies of itself, or carry a code? Count the ticks. Then decide.",
      "kid": "Tick the signs each thing shows. Then decide: alive, not alive, or hard to say.",
      "check": {
@@ -2550,7 +2550,7 @@
     "Two collectors, one for large drops and one for tiny mist, joined together.",
     "A collector with a soft surface that stops drops from bouncing, such as folded cloth."
    ],
-   "your_turn": "Sketch your design. Build it. Walk past the plume once and count the coloured drops. Change one thing and test again. Which design caught the most? Why do you think it did?",
+   "your_turn": "Plan your design: sketch it or tell someone. Build it. Walk past the plume once and count the coloured drops. Change one thing and test again. Which design caught the most? Why do you think it did?",
    "setup": [
     {
      "art": "A spray bottle on a table, with a plume of coloured water in the air and a child holding a white card.",
@@ -2558,7 +2558,7 @@
     },
     {
      "art": "Three drawn collector designs on paper: a flat card with a lip, a cone and a towel strip.",
-     "caption": "2. Sketch three designs before building."
+     "caption": "2. Plan three designs before building."
     },
     {
      "art": "A white sheet with a scatter of coloured dots, and a grid drawn over it for counting.",
@@ -2569,9 +2569,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Explain that Cassini flew through the plumes of Enceladus at very high speed and caught tiny grains. Ask your child to sketch two or three designs.",
-     "say": "The spacecraft Cassini flew through the jets of Enceladus and caught tiny pieces of ice. Our spray bottle is the jet. How would you catch as many drops as possible? Sketch two or three designs first.",
-     "kid": "A spray bottle is the jet. Sketch 3 ways to catch the drops.",
+     "do": "Read the problem together. Explain that Cassini flew through the plumes of Enceladus at very high speed and caught tiny grains. Ask your child to plan two or three designs. They can sketch them or just describe them.",
+     "say": "The spacecraft Cassini flew through the jets of Enceladus and caught tiny pieces of ice. Our spray bottle is the jet. How would you catch as many drops as possible? Plan two or three designs first. Sketch them or tell me.",
+     "kid": "A spray bottle is the jet. Plan 3 ways to catch the drops. Sketch them or tell your grown-up.",
      "ask": [
       {
        "q": "What would make a collector catch more drops?",

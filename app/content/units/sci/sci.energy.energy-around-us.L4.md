@@ -237,9 +237,9 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 - **Printable board: Battery board: draw 30 squares in 3 rows of 10:** Each square is 100 watt-hours.; Thirty squares is a battery of 3,000 watt-hours.; Cross out a square for every 100 watt-hours your cards use.
 - **Printable score sheet: Night plan score sheet:** Player; Cards chosen; Squares used; Points
 - **g1s1 (4 min)**  
-  *Parent does:* Cut out the 16 cards. Put the 12 appliance cards face up. Draw a battery of 30 squares for each player. One square is 100 watt-hours.  
-  *Parent says:* This battery holds 3,000 watt-hours. A watt-hour is one watt used for one hour. We draw 30 squares, and each square is 100 watt-hours.  
-  *Child mode:* Cut out the cards. Draw a battery of 30 squares.
+  *Parent does:* Cut out the 16 cards. Put the 12 appliance cards face up. Make a battery of 30 squares for each player. Draw it, or lay out 30 buttons or coins. One square is 100 watt-hours.  
+  *Parent says:* This battery holds 3,000 watt-hours. A watt-hour is one watt used for one hour. We make 30 squares, and each square is 100 watt-hours.  
+  *Child mode:* Cut out the cards. Make a battery of 30 squares.
   - Note: You need scissors, paper, a pencil and a calculator. With 2 to 4 players, each draws a battery and everyone plays at once from the same face-up cards. Check that your child can say what a watt-hour is. If not, say that a 10 watt bulb on for 1 hour uses 10 watt-hours.
 - **g1s2 (8 min)**  
   *Parent does:* Each player works out the watt-hours for every appliance card. Write the number under each card. Then turn the card over to check, and score one point for each right.  
@@ -248,9 +248,9 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   - Note: Let your child use a calculator. If a card uses minutes, change them to part of an hour first. 12 minutes is one fifth of an hour, and 4 minutes is one fifteenth. A wrong answer is a chance to ask what they multiplied.
   - Check: A 100 watt television runs for 3 hours. How many watt-hours is that? → **300 watt-hours**
 - **g1s3 (8 min)**  
-  *Parent does:* Now plan the night. Choose the cards you will run, and cross out the squares. You may use up to 30 squares. Write down the points.  
-  *Parent says:* Which things matter most tonight? Which cost too much? Choose your cards, and cross out the squares. Do not go over 30.  
-  *Child mode:* Choose cards. Cross out squares. Stay at 30 or under.
+  *Parent does:* Now plan the night. Choose the cards you will run, and cross out or take away the squares. You may use up to 30 squares. Write down the points.  
+  *Parent says:* Which things matter most tonight? Which cost too much? Choose your cards, and cross out or take away the squares. Do not go over 30.  
+  *Child mode:* Choose cards. Cross out or take away squares. Stay at 30 or under.
   - Ask: Which card costs a lot but gives few points? (good: The lift.; The kettle.; The pump.)
   - Note: Let your child decide. The breathing machine is worth 20 points but takes 24 squares, so it leaves only 6. Ask what they would give up to keep it. There is no wrong plan, only plans with more or fewer points.
 - **g1s4 (5 min)**  
@@ -265,12 +265,12 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 - **predict:** Before you climb, guess. Will the fast climb use more energy than the slow one? Will it use more watts? Why do you think so?
 - **fair test:** The same stairs, the same child and the same clothes are used for every climb. Nothing is carried. Only the speed changes: slow, steady and fast. Each speed is done twice, with two minutes of rest in between, so one odd climb does not fool you. The climb is always a walk, never a run.
 - **safety:** Use dry stairs with a rail, and wear shoes or chappals with a good grip. Always walk, never run, and hold the rail. A grown-up stands at the top and the bottom. Rest two minutes between climbs, and stop at once if your child feels dizzy or very out of breath. Do the climbs when the stairs are quiet.
-- **record:** Fill in a row of the table for each climb. Then draw a bar chart of the watts for the six climbs, using the same scale for every bar.
+- **record:** Fill in a row of the table for each climb. Then show the watts of the six climbs as a bar chart, drawn or stacked from coins, using the same scale for every bar.
 - **results table:** Climb | Steps climbed | Seconds taken | Energy in joules | Power in watts
 - **s1 (5 min)**  
   *Parent does:* Show your child the stairs. Say they will climb three times: slowly, at a steady pace, and fast. Write down their guess and their reason.  
   *Parent says:* We will climb these stairs three ways. Slowly, then steady, then fast. Will the fast climb use more energy than the slow one? Will it use more watts? Why do you think so?  
-  *Child mode:* You will climb three ways. Slow, steady and fast. Which uses more energy? Which uses more watts? Why?
+  *Child mode:* You will climb the stairs three ways: slow, steady and fast. Guess which climb uses more energy, and which uses more watts.
   - Ask: Why do you think the fast climb will use more? (good: Because I go quicker.; Because I get tired.; Because I use more energy.)
   - Note: Do not correct the guess. Many children say the fast climb uses more of everything. Write the guess and the reason at the top of the table.
 - **s2 (8 min)**  
@@ -293,9 +293,9 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   - Note: If the climb is 1,020 joules, a 30 second climb is 34 watts. A 10 second climb is 102 watts. Check that the joules column is nearly the same in every row, because it is the same climb. Only the watts change. If the joules look different, the climb was not the same height. Check the step count.
   - Check: A climb used 900 joules and took 10 seconds. How many watts did the child make? → **90 watts**
 - **s5 (5 min)**  
-  *Parent does:* Draw a bar for the watts of each climb. Then ask your child to say what they thought, what they saw, and why. Compare their best climb with a 9 watt bulb and a 60 watt fan.  
+  *Parent does:* Show the watts of each climb as a bar. Draw it, or stack coins, one coin for every 10 watts. Then ask your child to say what they thought, what they saw, and why. Compare their best climb with a 9 watt bulb and a 60 watt fan.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see in the table? Why do you think it happened?  
-  *Child mode:* Say what you thought, what you saw, and why.
+  *Child mode:* Look at your bars. Which climb made the most watts?
   - Note: A good answer says the joules stayed about the same, because the climb was the same height, and the watts were bigger when the time was shorter. After they have said this, say the idea: the same energy in less time is more power. Say too that the muscles use about four times the watts you measured, because they turn only a quarter of their food energy into lifting. The other three quarters become heat, which is why you feel hot. A quick walk up may give about 80 to 120 watts, more than a fan, but nobody can keep that up for hours.
   - Think: You made more watts than a bulb for a few seconds. Why can you not light a bulb all night this way?
 ### e2 · Meter Blink: how many watts is each appliance? (30 min)
@@ -308,7 +308,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 - **s1 (4 min)**  
   *Parent does:* List four appliances in your home. Ask your child to put them in order from the fastest blink to the slowest, and say why. Write down the order.  
   *Parent says:* When we switch something on, the light on the meter blinks. Which of these will make it blink fastest? Which slowest? Why do you think so?  
-  *Child mode:* Put the appliances in order. Fastest blink first. Say why.
+  *Child mode:* Put the four appliances in order, with the fastest blink first.
   - Ask: What makes you think that one will blink fastest? (good: It is the hottest.; It is the biggest.; It does the hardest job.)
   - Note: Do not correct the order. Many children say the biggest or loudest machine blinks fastest. Others pick the one used most. Write down the guess and the reason.
 - **s2 (6 min) · grown-up needed**  
@@ -347,7 +347,7 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   - Ask: How many apples weigh the same as the bottle? (good: Ten apples.; About ten.; Ten times heavier.)
   - Note: The bottle is about 10 times heavier than the apple, so lifting it the same height takes about 10 times the energy, 10 joules. Let your child say this before you do.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* First guess how many lifts you can do before you feel tired, and write it. Measure the table height in metres. Lift the bottle from the floor to the table, 20 times, at an easy pace. Your child counts each lift out loud and the grown-up times the 20 lifts.  
+  *Parent does:* First guess how many lifts you can do before you feel tired, and write it. Measure the table height in metres. Lift the bottle from the floor to the table, 20 times, at an easy pace. Your child counts each lift out loud and the grown-up times the 20 lifts. Then work out the joules of one lift (10 times the table height in metres, about 8) and of 20 lifts.  
   *Parent says:* Lift the bottle onto the table, then put it back on the floor, and lift again. Count out loud. Stop if you get tired.  
   *Child mode:* Lift the bottle onto the table. Count each lift. Do it 20 times.
   - Note: Only the lifts up count as energy, not the lowering. A table 80 centimetres high is 0.8 metres. One lift is 10 joules times 0.8, which is 8 joules. Twenty lifts are 160 joules. Time them. Twenty lifts in 40 seconds is 4 watts of lifting, but your body used about four times that. With 2 to 4 children, each lifts 20 times while a sibling counts and another times. Compare the seconds: the joules are the same, so the child who was quicker made more watts. If your table is not about 80 centimetres, use its measured height.
@@ -355,9 +355,9 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   *Parent does:* First ask: how many bottle lifts would equal the energy of one chapati? Write a guess and a reason. Then work it out. A chapati holds about 420,000 joules. Divide by 8 joules for one lift.  
   *Parent says:* A chapati holds about 420,000 joules. One bottle lift is 8 joules. How many lifts is one chapati? First guess, and tell me why. Then use the calculator.  
   *Child mode:* How many lifts equal one chapati? Guess first. Then work it out.
-  - Ask: Why does eating one chapati not let you lift the bottle 52,500 times at once? (good: The body lets the energy out slowly.; Muscles get tired.; Some energy becomes heat.)
+  - Ask: Why can one chapati not let you lift the bottle thousands of times at once? (good: The body lets the energy out slowly.; Muscles get tired.; Some energy becomes heat.)
   - Note: The sum is 420,000 divided by 8, which is 52,500 lifts. Your child will probably guess far too low. Say that this number is only right if none of the chapati's energy is wasted. Your muscles use about four times what the lift needs, so in real life it is about 13,000 lifts. A chapati could keep you lifting for hours. The 420,000 joules is typical for one chapati of about 100 kilocalories, and real chapatis vary.
-  - Check: A chapati holds about 420,000 joules. Lifting the bottle once takes about 10 joules. About how many lifts is that? → **About 42,000 lifts**
+  - Check: A chapati holds about 420,000 joules. Pretend lifting the bottle once takes 10 joules. About how many lifts is that? → **About 42,000 lifts**
 ### a2 · Rating Plate Hunt: the watts in our home (20 min)
 - **safety:** Read the plates only on appliances that are switched off and cool. A grown-up reads the geyser plate and moves the heavy things. Stand on the floor, never on a chair. Do not pull plugs or open anything.
 - **record:** A table with the appliance, its watts, the hours it runs in a day, the watt-hours, and the order from most to least.
@@ -414,8 +414,8 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
   - Note: Chargers, laptops and fan motors are usually warm. A filament bulb would be too hot to touch, so only look at it. If nothing feels warm, the appliance may not have been on long enough. Switch it on for 10 minutes more. For a fair comparison, also feel a charger that is plugged in with no phone on it. It should be cooler than the one that is charging. With 2 to 4 children, each scores separately without talking, then compare scores. Different scores are normal, because warmth is hard to judge by hand.
 - **s3 (3 min)**  
   *Parent does:* Ask: the machine was meant to make light, sound or movement. Why is it warm too? Say where the warmth came from.  
-  *Parent says:* That machine was not meant to make warmth. Where did the warmth come from? Where does it go next?  
-  *Child mode:* Why is it warm? Where does that warmth go next?
+  *Parent says:* That machine was meant to make light, sound or movement, not warmth. So where did the warmth come from?  
+  *Child mode:* Where does that warmth go next?
   - Note: A strong answer says some of the energy that went in turned into heat on the way, and that the warmth spreads into the air around. It is not gone. It is the spread-out energy. Let your child say it first.
   - Check: A phone charger is warm. What does that tell you? → **Some of the energy it takes in becomes heat instead of charging the phone**
 
@@ -432,14 +432,14 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 - **p1s2 (10 min)**  
   *Parent does:* Find the units used and the number of days on the bill. Divide the units by the days. Then divide by the number of people in the home. Write both answers.  
   *Parent says:* Look for the word units, or kilowatt-hours. Find how many days the bill covers. Divide units by days. Then divide by how many of us live here.  
-  *Child mode:* Find the units and the days. Divide to find units a day.
+  *Child mode:* Find the units and the days. Divide to find units a day. Then divide by the people at home.
   - Ask: Which appliances do you think use most of those units? (good: The fridge.; The fan or the air conditioner.; The geyser.)
   - Note: A bill for 240 units over 30 days is 8 units a day. For four people, that is 2 units each. Some bills show tiers, with the first units cheaper. Ignore the money for now. If you cannot find the bill, use these made-up numbers and say so.
   - Check: A bill shows 240 units used over 30 days. How many units a day is that? → **8 units a day**
 - **p1s3 (5 min)**  
-  *Parent does:* On day 1, if your meter shows the total units (kWh) on its screen or when you press a button, write the number and the time. On day 2, at the same time, read it again and subtract. That is the units for one day. Write it down.  
-  *Parent says:* Let us check the sum on another day. Did we use about the same units today? Why might it change?  
-  *Child mode:* Check one more day. Did we use the same?
+  *Parent does:* On day 1, look for the total units (kWh) on your meter. It may show on the screen or when you press a button. Write the number and the time. On day 2, at the same time, read it again and subtract. That is the units for one day. Write it down.  
+  *Parent says:* Read the meter now and write the number. Read it again tomorrow at the same time. The difference is one day's units.  
+  *Child mode:* Read the meter today and tomorrow. Subtract. Is it close to your first answer?
   - Note: Meters in many flats are out of reach, and some prepaid meters show units only in an app. If you cannot read it, skip this step and use the bill's number. Days with a geyser, a guest or an air conditioner use more.
 - **p1s4 (15 min)**  
   *Parent does:* Turn the units a day into chapatis. One unit is about nine chapatis of 100 kilocalories each. Compare it with the food a person eats, about 20 chapatis a day. Name the three biggest users and choose one change.  
@@ -450,15 +450,15 @@ Mr. Pillai looked at it for a long time. 'Tomorrow,' he said, 'you will come to 
 
 ## Challenges
 ### c1 · The Energy Ladder: ten rungs, each ten times bigger (35 min)
-- **problem:** Build a ladder of energy on a wall or a long strip of paper. The bottom rung is 1 joule, and every rung above is exactly ten times bigger. For each rung, find or draw a real thing that holds about that much energy.
+- **problem:** Build a ladder of energy on a wall or a long strip of paper. The bottom rung is 1 joule, and every rung above is exactly ten times bigger. For each rung, find a real thing that holds about that much energy, and write its name or draw it.
 - **your turn:** Build your ladder with the rungs you choose. Which rung was hardest to fill? Which was the biggest surprise? Add one thing of your own that is not in this unit.
 - **constraints:** The bottom rung is 1 joule (lifting an apple 1 metre).; Each rung is exactly ten times the one below.; You need at least 9 rungs, up to 100 million joules.; Every rung needs a real thing, with a number you worked out or looked up, and where you got it.
 - **general:** Use things from this unit: an apple lift, a bottle lift, a cell, a phone battery, a chapati, an electricity unit and a litre of petrol.; Put your stair climb on the ladder, at the rung nearest to your joules.; Write the number of zeros beside each rung.
 - **creative:** Draw each rung as a rung of a real ladder against a house wall, so the ladder climbs from a pebble to a petrol tanker.; Add a second ladder beside it for watts, from a phone charger to the whole Sun.; Add the energy of something nobody has measured at home, such as a lightning flash or a small earthquake, and say where you found it.
 - **c1s1 (5 min)**  
-  *Parent does:* Read the problem together. Draw a ladder of ten rungs on a long strip of paper. Write 1 joule on the lowest rung and an apple lift beside it.  
+  *Parent does:* Read the problem together. Make a ladder of ten rungs. Draw it on a long strip of paper, or stick ten sticky notes in a column on a wall. Write 1 joule on the lowest rung and an apple lift beside it.  
   *Parent says:* We will build a ladder. Each rung is ten times bigger than the one below. The bottom rung is one joule. What is the next rung?  
-  *Child mode:* Draw ten rungs. Write 1 joule at the bottom.
+  *Child mode:* Make ten rungs. Write 1 joule at the bottom.
   - Ask: What number is the third rung? (good: 100 joules.; One hundred.; A 1 with two zeros.)
   - Note: Write the rungs as 1, 10, 100, 1,000, and so on. Count the zeros. Explain that one kilojoule is 1,000 joules and one megajoule is 1,000,000.
 - **c1s2 (15 min)**  

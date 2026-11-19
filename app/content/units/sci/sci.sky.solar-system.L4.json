@@ -668,7 +668,7 @@
      "mins": 4,
      "do": "Play four more cards. Then stop and ask the question below.",
      "say": "Look at the clues for the rocky planets and the clues for the giants. What kinds of clues belong to each?",
-     "kid": "Think about the clues so far. What kind of clue belongs to a giant?",
+     "kid": "Look back at the clues you have heard so far.",
      "ask": [
       {
        "q": "What do the clues for the giants have in common, compared with the clues for the rocky planets?",
@@ -779,7 +779,7 @@
      "what": "Make your guess and prepare the tray. Drop the marble from 10, 20, 40 and 80 centimetres, three times each. Then make three overlapping craters and work out which came first. Last, sift fresh flour over half the tray as 'weather' and see how the craters soften."
     }
    ],
-   "record": "Fill in the results table. Then draw a bar chart with one bar for each height, using the average width. Sketch the three overlapping craters and write which came first.",
+   "record": "Fill in the results table. Then draw a bar chart with one bar for each height, using the average width. Take a photo of the three overlapping craters and write which came first.",
    "context": "In this experiment you make craters in flour with a marble. You find out how the size of a crater changes with the speed of the hit, and how to read which crater is oldest.",
    "setup": [
     {
@@ -850,7 +850,7 @@
      "mins": 4,
      "do": "Show your child the tray, the marble and the ruler. Ask for the guess and the reason. Write both down at the top of the table.",
      "say": "The marble is a rock from space. The flour is the ground of a planet. If I drop the marble from 8 times as high, how much wider will the crater be? Why do you think so?",
-     "kid": "The marble is a space rock. If you drop it from 8 times as high, how much wider will the crater be? Guess. Say why.",
+     "kid": "The marble is a space rock. Drop it from 8 times as high. Guess how much wider the crater will be.",
      "ask": [
       {
        "q": "Why do you think the crater will be that much wider?",
@@ -916,7 +916,7 @@
      "id": "s5",
      "mins": 4,
      "do": "Take the sieve and shake a thin layer of fresh flour over half of the tray. This is the 'weather'. Leave the other half alone. Compare the craters in the two halves.",
-     "say": "Half of this tray has had weather. Look at the craters in each half. Which craters are sharper? Which are softer? What could the Earth do that the Moon cannot?",
+     "say": "Half of this tray has had weather. Look at the craters in each half. Which craters are sharper? Which are softer?",
      "kid": "Sift some flour over half the tray. Look at both halves. Which craters are sharper?",
      "ask": [
       {
@@ -991,7 +991,7 @@
      "what": "Make your guess. Put three ice cubes in each tumbler, cover one with film, and place both in the sun. Check every 5 minutes. Repeat once if you have time."
     }
    ],
-   "record": "Fill in the results table. Draw the two tumblers at the end of the test. Write which melted first and by how many minutes.",
+   "record": "Fill in the results table. Take a photo of the two tumblers at the end of the test. Write which melted first and by how many minutes.",
    "context": "In this experiment you put ice in two tumblers, one covered and one open, in the same sunshine. It is a small model of why a blanket of air makes a planet hotter.",
    "setup": [
     {
@@ -1053,7 +1053,7 @@
      "mins": 4,
      "do": "Show your child the two tumblers and the film. Ask for a guess and a reason. Write it down.",
      "say": "One tumbler has a clear lid and one does not. Both sit in the same sunshine. Which ice melts first? Why do you think so?",
-     "kid": "One tumbler is covered. One is open. Which ice melts first? Why?",
+     "kid": "One tumbler is covered and one is open. Guess which ice melts first.",
      "ask": [
       {
        "q": "Why do you think that one will melt first?",
@@ -1155,7 +1155,7 @@
      "what": "Guess how far the Earth should be from the Sun. Make the Sun and the planets to the same scale. Measure your step. Walk to Mercury, Venus, the Earth and Mars. Work out where the giants would be."
     }
    ],
-   "record": "Make a table with each planet, its size in this model, its distance in metres and its distance in your steps. Draw the row of planets with the Sun, and mark how far away the nearest star would be.",
+   "record": "Make a table with each planet, its size in this model, its distance in metres and its distance in your steps. Take a photo of the row of planets with the Sun, and write how far away the nearest star would be.",
    "context": "In this activity you build a model of the solar system where the sizes and the distances are both shrunk by the same amount. It shows how small the planets are and how far apart.",
    "setup": [
     {
@@ -1179,9 +1179,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show your child the 14 centimetre Sun disc. Explain that the Earth is a mustard seed in this model. Ask for a guess on how far away the Earth should be, in steps.",
+     "do": "Cut a Sun disc 14 centimetres wide from the card and show it to your child. Explain that the Earth is a mustard seed in this model. Ask for a guess on how far away the Earth should be, in steps.",
      "say": "Here is the Sun, 14 centimetres wide. The Earth is this mustard seed, about 1 millimetre wide. How many steps from the Sun do you think the seed should go? Why?",
-     "kid": "Here is the Sun. The Earth is a seed. How many steps away should the seed go? Guess. Why?",
+     "kid": "Here is the Sun. The Earth is a seed. Guess how many steps away the seed should go.",
      "ask": [
       {
        "q": "Why do you think that many steps?",
@@ -1198,7 +1198,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Cut a Sun disc 14 centimetres wide. Tape each planet to a slip of paper and write its name. Then walk 10 steps along a tape measure and read how far you went. Divide by 10 to find the length of one step.",
+     "do": "Tape each planet to a slip of paper and write its name. Then walk 10 steps along a tape measure and read how far you went. Divide by 10 to find the length of one step.",
      "say": "In this model, 1 millimetre stands for 10,000 kilometres. So the Sun is 14 centimetres, the Earth is about 1 millimetre, and Jupiter is 14 millimetres. Now find how long your step is.",
      "kid": "Make the Sun and the planets. Walk 10 steps and measure how far you went. Divide by 10 to get the length of one step.",
      "parent": "A grown-up helps with the scissors. With one child: the child walks and counts, and you tape the planets down. With 2 to 4 children: one walks and counts steps, one holds the tape, one places and labels the planets, and one writes the table. All take turns being the walker. Each child can make a different planet. Sizes in this model: Mercury 0.5 millimetres, a pinch of pepper powder. Venus 1.2 and the Earth 1.3 millimetres, mustard seeds. Mars 0.7, a grain of salt. Jupiter 14 millimetres, a marble. Saturn 12, a smaller bead. Uranus and Neptune 5 each, peppercorns. A child's step is about 50 centimetres, so 2 steps make a metre.",
@@ -1243,9 +1243,9 @@
     {
      "id": "s5",
      "mins": 2,
-     "do": "Ask your child to draw the row of planets from the Sun, with distances. Ask what they would tell a friend who has only seen book pictures.",
+     "do": "Ask your child to walk back along the row of planets. Ask what they would tell a friend who has only seen book pictures.",
      "say": "What would you tell a friend who thinks the planets are close together, the way books draw them?",
-     "kid": "Draw your row of planets. What would you tell a friend about the space between them?",
+     "kid": "Walk back along your row. Look at the space between the planets.",
      "ask": [
       {
        "q": "What would you tell your friend?",
@@ -1308,7 +1308,7 @@
      "mins": 4,
      "do": "Write this table for your child, with each planet's distance from the Sun in astronomical units (AU) and its year in Earth years. Earth: 1 and 1. Mars: 1.52 and 1.88. Jupiter: 5.2 and 11.86. Saturn: 9.54 and 29.46. Then ask for a guess.",
      "say": "The Earth is 1 unit from the Sun and has a year of 1. Jupiter is about 5 times as far. Will its year be 5 times as long? Why do you think so?",
-     "kid": "Jupiter is 5 times as far as Earth. Is its year 5 times as long? Guess. Why?",
+     "kid": "Jupiter is 5 times as far as Earth. Guess how long its year is.",
      "ask": [
       {
        "q": "Why do you think its year will be that long?",
@@ -1430,7 +1430,7 @@
      "mins": 4,
      "do": "Lay out the course with six cushions between a start line and a spoon, which the rover must reach. The start line and the spoon are about 3 metres apart. Explain that a message to Mars takes about 12 minutes each way on average. In this game, each message and its reply cost about 25 minutes. You keep a tally of these 'Mars minutes'.",
      "say": "A rover on Mars has a camera, but Mission Control on the Earth gets its answers late. Each message and answer takes about 25 minutes. We will count those Mars minutes.",
-     "kid": "You are the rover on Mars. Close your eyes. Your helper is Mission Control.",
+     "kid": "One of you is the rover on Mars and closes their eyes. The other is Mission Control.",
      "adult": true,
      "parent": "Clear the floor of sharp or breakable things. The rover walks slowly with small steps and the grown-up stays close. With one child, the grown-up plays the other part. With 3 or 4 children, add an observer who keeps the tally and a second Mission Control who writes the plan together with the first. Swap roles after the three rounds so both children, or both you and your child, play each part. The real time ranges from about 3 to 22 minutes each way, depending on where the planets are.",
      "context": "This is the first step of Drive a Rover. You set up the course and the rules."
@@ -1523,7 +1523,7 @@
      "what": "Guess the order of the layers. Put everything in the jar and shake it hard. Watch it settle for 10 minutes. Compare the jar with the layers of the Earth."
     }
    ],
-   "record": "Draw the jar at the start, after 1 minute, after 5 minutes and after 10 minutes. Label the layers. Next to it, draw the Earth with its core, mantle, oceans and air.",
+   "record": "Write down the order of the layers from bottom to top, and the layer of the Earth each one stands for. Take a photo of the jar after 10 minutes, or draw it.",
    "context": "In this activity you shake a jar of mixed things and watch the heavy ones sink and the light ones rise. It is a small model of how a young planet sorted itself into layers.",
    "setup": [
     {
@@ -1545,7 +1545,7 @@
      "mins": 4,
      "do": "Show your child the things for the jar. Ask for a guess on the order from the bottom to the top. Ask why.",
      "say": "We have steel nuts, sand, water and oil. We will shake them all together and let them settle. Which one will end up at the bottom? Which at the top? Why?",
-     "kid": "Nuts, sand, water and oil. Shake them. What goes to the bottom? What goes to the top?",
+     "kid": "Nuts, sand, water and oil will be shaken together. Guess which goes to the bottom and which to the top.",
      "ask": [
       {
        "q": "Why do you think that one will be on the bottom?",
@@ -1572,9 +1572,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Stand the jar still. Look at it after 1 minute, after 5 minutes and after 10 minutes. Draw what you see each time. Write the minute when the nuts land, the sand settles and the oil clears. Label the layers from the bottom to the top.",
+     "do": "Stand the jar still. Look at it after 1 minute, after 5 minutes and after 10 minutes. Write the minute when the nuts land, the sand settles and the oil clears. After 10 minutes, take a photo of the jar, or draw it. Say the layers from the bottom to the top.",
      "say": "Watch carefully. What is happening to the nuts? To the sand? To the oil? What order are the layers in?",
-     "kid": "Watch the jar. Draw it after 1 minute. Draw it again after 5. Draw it again after 10.",
+     "kid": "Watch the jar after 1 minute, 5 minutes and 10 minutes. Which layer settles first?",
      "parent": "The nuts fall at once. The sand follows in seconds and settles in a layer. The water clears slowly as the finest sand sinks. The oil drops rise and join into a layer on top after a few minutes. With one child: the child shakes and draws, and you keep time. With 2 to 4 children: give each child their own bottle and compare how fast each layer settles, or let each child try a different material. If the oil stays cloudy after 10 minutes, wait a little longer.",
      "check": {
       "t": "mcq",
@@ -1591,7 +1591,7 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Draw the Earth with its core, mantle, oceans and air next to your jar. Match each layer of the jar to a layer of the Earth. Then talk about what the model leaves out.",
+     "do": "Tell your child that the Earth has a core, a mantle, oceans and air. Match each layer of the jar to one of them. Then talk about what the model leaves out.",
      "say": "The steel nuts are like the Earth's iron core. The sand is like the rocky mantle. The water is like the oceans. The oil is like the air. When did the Earth sort itself like this? Was it in 10 minutes?",
      "kid": "Match each layer in the jar to a layer of the Earth. Was the Earth sorted in 10 minutes?",
      "ask": [
@@ -1654,7 +1654,7 @@
      "what": "Cut the Earth in half. Make a Jupiter, not to scale, and cut that too. Label both and compare."
     }
    ],
-   "record": "A labelled drawing of both cut-open planets, with the thickness of each layer in centimetres for the Earth. Write which layers of Jupiter are certain and which are only an idea.",
+   "record": "A photo of both cut-open planets, with each layer named, with the thickness of each layer in centimetres for the Earth. Write which layers of Jupiter are certain and which are only an idea.",
    "context": "In this project you build the layers of the Earth to scale in dough, then cut the dough ball open like a fruit. You also make a Jupiter, whose insides are still partly an idea.",
    "setup": [
     {
@@ -1676,7 +1676,7 @@
      "mins": 5,
      "do": "Show your child the dough and the ruler. Explain that 1 centimetre stands for 2,000 kilometres. Ask for a guess on how thick the layers will be.",
      "say": "The Earth is about 12,700 kilometres wide. In our model, 1 centimetre stands for 2,000 kilometres. How wide will the Earth ball be? And which layer do you think is the thickest?",
-     "kid": "In this model, 1 centimetre stands for 2,000 kilometres. Guess how wide the Earth ball will be. Which layer is thickest?",
+     "kid": "In this model, 1 centimetre stands for 2,000 kilometres. Guess how wide the Earth ball will be.",
      "ask": [
       {
        "q": "Why do you think that layer is the thickest?",
@@ -1722,7 +1722,7 @@
     {
      "id": "s4",
      "mins": 15,
-     "do": "Put flags on each layer with its name. Draw both planets with labels. Write one sentence under each saying what is known and what is an idea. Show your planets to someone at home.",
+     "do": "Put flags on each layer with its name. Take a photo of both planets. Write one sentence for each saying what is known and what is an idea. Show your planets to someone at home.",
      "say": "Label your planets. Which parts are certain? Which parts are only ideas? Why do scientists know the Earth's layers but not all of Jupiter's?",
      "kid": "Label both planets. Which layers are certain? Which are only ideas? Show someone.",
      "parent": "Toothpicks have sharp points. Help younger children push them in, and put them away afterwards.",
@@ -1771,12 +1771,12 @@
     "Add a ring of straws that bend and spring back, like landing legs.",
     "Put the tomato inside a bag puffed up with air, with crumpled paper around it, like airbags."
    ],
-   "your_turn": "Now design your own lander. Sketch two ideas first. Build the one you like and test it three times. Change one thing, such as the size of the pad, and test again. Which design worked best? Why do you think so?",
-   "context": "This is a design challenge about landing on a world with very thin air. You use what you know about atmospheres to plan a safe landing.",
+   "your_turn": "Now design your own lander. Plan two ideas first. Draw them or say them out loud. Build the one you like and test it three times. Change one thing, such as the size of the pad, and test again. Which design worked best? Why do you think so?",
+   "context": "This is a design challenge about landing on a world with very thin air. You will build a lander that keeps a cherry tomato astronaut from bursting. You use what you know about atmospheres to plan a safe landing.",
    "setup": [
     {
      "art": "A child sketching two lander designs on paper: one with a small round parachute and one with a ring of cups under the tomato.",
-     "caption": "1. Sketch two ideas. Cut the parachute no wider than 15 centimetres."
+     "caption": "1. Plan two ideas. Cut the parachute no wider than 15 centimetres."
     },
     {
      "art": "A cherry tomato inside a paper cup packed with tissue paper, tied under a small tissue parachute.",
@@ -1791,9 +1791,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read the problem with your child. Ask them to sketch two different landers. Remind them that Mars has air less than 1 percent as thick as the Earth's.",
-     "say": "On Mars the air is very thin, so a parachute has very little air to catch. Our parachute can be only 15 centimetres wide. What else could stop the tomato from bursting?",
-     "kid": "The air on Mars is thin. Your parachute is small. Draw two ideas for a safe landing.",
+     "do": "Read the problem with your child. Ask them to plan two different landers, and to draw them or tell you about them. Remind them that Mars has air less than 1 percent as thick as the Earth's.",
+     "say": "On Mars the air is very thin, so a parachute has very little air to catch. Our parachute can be only 15 centimetres wide. We need another way to protect the tomato.",
+     "kid": "The air on Mars is thin. Your parachute is small. Think of two ideas for a safe landing. Draw them, or tell them to your grown-up.",
      "ask": [
       {
        "q": "What could stop the tomato from bursting, other than a big parachute?",

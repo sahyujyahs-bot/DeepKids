@@ -507,7 +507,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about the three jobs in a test. Each card describes someone's test. You say what they change, what they measure and what they keep the same.",
+   "context": "This is a card game about the three jobs in a test. Each card describes someone's test. You say what they change, what they measure and what they keep the same. You will practise spotting what makes a test fair.",
    "setup": [
     {
      "art": "Twenty test cards in a pile and a mat with three boxes headed change, measure and keep the same.",
@@ -653,7 +653,7 @@
      "mins": 5,
      "do": "Read the first card as a practice. Ask your child to say the three jobs out loud before you read the back.",
      "say": "Here is the first test. What is being changed? What is being measured? What must stay the same?",
-     "kid": "Read the first card. Say what is changed, what is measured and what stays the same.",
+     "kid": "Read the first card. Say the three jobs out loud.",
      "context": "In this step, you play one practice card to learn how the game works.",
      "parent": "Children often mix up the thing that is changed and the thing that is measured. Ask: 'What was changed on purpose? What was looked at afterwards to see what happened?'",
      "check": {
@@ -846,7 +846,7 @@
      "mins": 4,
      "do": "Read the first card as a practice round. Ask your child to compare the gap between the two averages with the wobble in each set.",
      "say": "Look at the two sets of times. How far apart are the averages? How far do the numbers wobble inside each set? Is the gap bigger than the wobble?",
-     "kid": "Read the first card. Is the gap bigger than the wobble?",
+     "kid": "Read the first card. Look at the two sets of times.",
      "context": "In this step, you play one practice card and learn to compare the gap with the wobble.",
      "parent": "A simple rule for a child: if the gap between the averages is bigger than the spread within each set, the difference is probably real. If the gap is smaller, we cannot tell yet.",
      "check": {
@@ -882,7 +882,7 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Add up the points. Choose the card that you found the hardest. Ask your child to rewrite its conclusion so that it says no more than the results show.",
+     "do": "Add up the points. Choose the card that you found the hardest. Ask your child to rewrite or say its conclusion so that it says no more than the results show.",
      "say": "Which card was hardest? Rewrite its conclusion so that it says only what the results show.",
      "kid": "Pick the hardest card. Rewrite its conclusion.",
      "context": "In this step, you add up the points and rewrite one conclusion.",
@@ -942,7 +942,7 @@
     }
    ],
    "safety": "Use scissors with a grown-up near. Keep the fan off. Stand on the floor, not on a chair, to drop the spinners. Paper clips are small parts: keep them away from children under five.",
-   "record": "Fill in the results table. Work out the average and range for each wing length. Draw a line graph of average time against wing length.",
+   "record": "Fill in the results table. Work out the average and range for each wing length. Draw a line graph of average time against wing length, or line up the spinners from slowest to fastest and tell what you see.",
    "context": "In this experiment, you make three paper spinners with different wing lengths and drop each of them five times. You find out what changes the time and how much the time wobbles.",
    "setup": [
     {
@@ -972,7 +972,7 @@
      "mins": 4,
      "do": "Show your child the strips. Write three headings: Change, Measure, Keep the same. Ask your child to fill them in. Then ask for a guess and a reason. Also ask how much the five times for one spinner will differ.",
      "say": "We will test spinners with different wing lengths. What do we change? What do we measure? What do we keep the same? Which spinner will fall slowest? How much will five times for the same spinner differ?",
-     "kid": "Fill in: change, measure, keep the same. Which spinner will fall slowest? Why?",
+     "kid": "Fill in the three headings. Then make your guess.",
      "context": "This is the first step of the Paper Spinner test. You plan the three jobs and guess.",
      "ask": [
       {
@@ -1068,9 +1068,9 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "Ask your child to draw a line graph of the three averages against wing length, using the table. Then ask them to write a claim, evidence and reasoning, and one limit. Read the explanation 'Why a longer wing slows a spinner'.",
+     "do": "Ask your child to draw a line graph of the three averages, or to line the spinners up from slowest to fastest. Then ask for a claim, evidence and reasoning, and one limit. Read the explanation 'Why a longer wing slows a spinner'.",
      "say": "What can you say from your numbers? What is the claim? What is the evidence? Why does it happen? What can you not say?",
-     "kid": "What did you find? What is the evidence? Why? What can't you say?",
+     "kid": "Tell us your claim, your evidence, and why it happens.",
      "context": "In this step, you draw a line graph and write a careful conclusion.",
      "ask": [
       {
@@ -1137,7 +1137,7 @@
     }
    ],
    "safety": "Coins are small parts: keep them away from children under five, who might put them in their mouths. Do the test on a table, not on a shelf, so falling coins do not hit feet. Use tape and scissors with a grown-up near.",
-   "record": "Fill in the results table. Work out the average and the range for each shape. Draw a bar chart of the averages.",
+   "record": "Fill in the results table. Work out the average and the range for each shape. Draw a bar chart of the averages, or stack coins into four piles.",
    "context": "In this experiment, you fold paper into four bridge shapes and find out how many coins each can carry across a gap. You repeat each shape three times.",
    "setup": [
     {
@@ -1163,7 +1163,7 @@
      "mins": 5,
      "do": "Show your child the strips and the books. Ask for the three jobs in this test. Ask for a guess and a reason, and for a guess about how many coins the flat strip will hold.",
      "say": "We will fold paper into four bridges. What do we change? What do we measure? What do we keep the same? Which will hold the most coins? Why do you think so?",
-     "kid": "There are four bridge shapes. Which will hold the most coins? Which will hold the fewest? Why?",
+     "kid": "Look at the strips and the books. Guess how many coins a flat strip will hold.",
      "context": "This is the first step of the Paper Bridge test. You plan and guess.",
      "ask": [
       {
@@ -1253,9 +1253,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Ask your child to draw a bar chart of the four averages. Ask for a claim, evidence and reasoning. Ask what cannot be said. Read the explanation 'Why a fold makes paper strong'.",
+     "do": "Ask your child to draw a bar chart of the four averages, or to stack coins in four piles. Ask for a claim, evidence and reasoning. Ask what cannot be said. Read the explanation 'Why a fold makes paper strong'.",
      "say": "What is your claim about the bridges? What numbers support it? Why does a fold make paper stronger? What can't you say from three tries?",
-     "kid": "Draw the bar chart. What did you find? What can't you say?",
+     "kid": "Show the four averages as a bar chart or as piles of coins. Say what you found.",
      "context": "In this step, you draw a bar chart and write a careful conclusion.",
      "ask": [
       {
@@ -1305,7 +1305,7 @@
     }
    ],
    "record": "A list of every measurement, with the smallest, the biggest, the range and the average.",
-   "context": "In this activity, you measure the same table edge several times and see that the numbers differ a little. This is the wobble that makes repeating worth doing.",
+   "context": "In this activity, you measure the same table edge several times and see that the numbers differ a little. This is the wobble that makes repeating worth doing. You will find out why one measurement is not enough.",
    "setup": [
     {
      "art": "A child laying a tape measure along the edge of a table and reading the number at the end.",
@@ -1325,7 +1325,7 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Choose one straight edge of the table. 2. Your child measures it five times, to the nearest centimetre. They write each number on a new line without looking at the earlier ones. 3. Each other person measures it once and writes the number on a slip, without showing anyone. If you are only two, you measure five times too, without looking at your child's numbers. With 2 to 4 children, each child measures five times, so you have 10 to 20 numbers.",
-     "say": "Measure this edge of the table to the nearest centimetre. Write the number. Then do it again, as if it were the first time. Do you think all five numbers will be the same?",
+     "say": "Measure this edge of the table to the nearest centimetre. Write the number. Then do it again, as if it were the first time.",
      "kid": "Measure the table edge five times. Write each number. Do not peek at the old ones.",
      "context": "This is the first step of Measure the Table Ten Times. You measure the same edge again and again.",
      "ask": [
@@ -1363,8 +1363,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Measure the same edge once with something else, such as a string or a hand span. Compare it with the ruler numbers. Ask which way of measuring gave a steadier answer.",
-     "say": "Now measure with your hand span, or a string. Is it the same as the ruler? Which way of measuring would you trust the most? Why?",
-     "kid": "Measure the edge with a string or a hand span. Which is steadier?",
+     "say": "Now measure with your hand span, or a string. Is it the same as the ruler? Which way of measuring would you trust the most?",
+     "kid": "Measure the edge with a string or a hand span. Write the number.",
      "context": "In this step, you try a different way of measuring and compare the wobble.",
      "ask": [
       {
@@ -1431,7 +1431,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "While your child is out of the room, take two cloths, one a bit bigger than the other. Wet one with two spoonfuls of water and the other with one. Hang the first in the corner and the second near the fan. Tell your child that the test is to find which cloth dries faster.",
+     "do": "While your child is out of the room, take two cloths, one a bit bigger than the other. Wet one with two spoonfuls of water and the other with one. Hang the first in the corner and the second near the fan. Call your child in. Tell them that the test is to find which cloth dries faster.",
      "say": "I have set up a test to find which cloth dries faster. I think there is something wrong with it. Can you find out what?",
      "kid": "A grown-up sets up two cloths. Something is not fair. Wait until you are called in.",
      "context": "This is the first step of The Sneaky Variable. A grown-up sets up the unfair test in secret.",
@@ -1442,8 +1442,8 @@
      "id": "s2",
      "mins": 6,
      "do": "Ask your child to look at the two cloths and say every difference they can see. Write them down. Ask them to say which differences matter.",
-     "say": "Look closely at the two cloths. What is different about them? What else is different about where they hang? Write down every difference you find.",
-     "kid": "Look at both cloths. Write every difference you find.",
+     "say": "Look closely at the two cloths and where they hang. Find every difference. Write each one down.",
+     "kid": "Look at both cloths. Find every difference. Tell it or write it.",
      "context": "In this step, you look for the things that were not kept the same.",
      "ask": [
       {
@@ -1473,8 +1473,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Now ask your child to say how they would make it fair. Fix the test. Wet both cloths the same, use the same size, and hang them side by side in the same place. You do not need to wait for them to dry. If you like, leave the unfair set-up and look again after an hour. Ask: did one cloth dry first because of the cloth, the water, the size or the place? Nobody can say, and that is the point.",
-     "say": "How would you fix it? What do you keep the same? What is the one thing you change?",
-     "kid": "Fix the test. What stays the same? What is the one thing you change?",
+     "say": "How would you fix it? What do you keep the same?",
+     "kid": "Fix the test so it is fair. Say what stays the same.",
      "context": "In this step, you fix the unfair test and name the three jobs.",
      "ask": [
       {
@@ -1517,7 +1517,7 @@
     }
    ],
    "record": "A table of five sets of ten tosses with the number of heads in each, the range and the average.",
-   "context": "In this activity, you toss one coin in sets of ten and see how much the count of heads wobbles by chance alone.",
+   "context": "In this activity, you toss one coin in sets of ten and see how much the count of heads wobbles by chance alone. You will find out why two tests treated the same can still give different counts.",
    "setup": [
     {
      "art": "A child tossing a coin onto a table with a tally of heads and tails written in a notebook.",
@@ -1537,8 +1537,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Ask your child to guess how many heads they will get in ten tosses. Ask if they think the number will be the same each time they toss the coin ten times. Ask why.",
-     "say": "If you toss a coin ten times, how many heads will you get? Will you get that number every time you do ten tosses? Why do you think so?",
-     "kid": "If you toss a coin ten times, how many heads will you get? Will it be the same number every time? Why?",
+     "say": "We will toss a coin ten times and count the heads. How many heads do you think you will get?",
+     "kid": "Guess how many heads you will get in ten tosses.",
      "context": "This is the first step of Coin Wobble. You guess before you toss.",
      "ask": [
       {
@@ -1566,8 +1566,8 @@
      "id": "s3",
      "mins": 6,
      "do": "Find the smallest and biggest count. Work out the range and the average. Ask whether any set was exactly five. Ask what this means for a test where one plate of 10 seeds has 3 sprouted seeds and another has 6.",
-     "say": "What was your smallest count of heads? What was your biggest? Was any set exactly five? If a coin can give 3 in one set and 7 in another, what does that mean for a test?",
-     "kid": "Find the smallest and the biggest. What does the wobble tell you?",
+     "say": "What was your smallest count of heads? What was your biggest? Was any set exactly five?",
+     "kid": "Find the smallest and the biggest count of heads.",
      "context": "In this step, you look at how much chance moved the counts, and think about what that means for a test.",
      "ask": [
       {
@@ -1677,9 +1677,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "Ask your child to put a finger on the graph where a wing of 5 centimetres would be. They read off a guess for the time. Ask whether a guess for 20 centimetres would be safe. Ask them to write three sentences about what the graph shows.",
-     "say": "Put your finger at 5 centimetres. What time do you think a spinner with 5 centimetre wings would take? Would a guess for 20 centimetres be safe? Why not?",
-     "kid": "Find 5 centimetres on the graph. What time do you guess? Is 20 centimetres a safe guess?",
+     "do": "Ask your child to put a finger on the graph where a wing of 5 centimetres would be. They read off a guess for the time. Ask whether a guess for 20 centimetres would be safe. Ask them to write or say three sentences about what the graph shows.",
+     "say": "Put your finger at 5 centimetres. What time do you think a spinner with 5 centimetre wings would take? Would a guess for 20 centimetres be safe?",
+     "kid": "Put a finger on 5 centimetres on the graph. Read off the time.",
      "context": "In this step, you read a value between your points and think about guesses beyond them.",
      "ask": [
       {
@@ -1768,7 +1768,7 @@
      "id": "s1",
      "mins": 25,
      "do": "1. Cut six pieces of tissue to fit the katoris. 2. Put one piece in each katori. 3. Count ten unbroken seeds onto each. 4. Label the katoris: A and B for no water, C and D for one teaspoon, and E and F for three teaspoons. 5. Add the first water to C, D, E and F. 6. Put all six in the same place, away from sun and fan. 7. Write down the three jobs and your guess.",
-     "say": "We have three amounts of water: none, a little and plenty. Each amount gets two katoris, so we can see how much chance moves the counts. What do we change? What do we measure? What do we keep the same? Which katori will have the most sprouted seeds? Why do you think so?",
+     "say": "We have three amounts of water: none, a little and plenty. Each amount gets two katoris, so we can see how much chance moves the counts. Which katori will have the most sprouted seeds? Why do you think so?",
      "kid": "Set up six katoris. Two get none, two get a little, two get plenty. Which sprouts best? Why?",
      "context": "This is day 1 of Thirsty Seeds. You plan the test and set up the katoris.",
      "ask": [
@@ -1807,7 +1807,7 @@
      "mins": 10,
      "do": "On day 4, count the sprouted seeds in each katori. Work out the average and range for each amount of water. Write a claim, evidence and reasoning, with one limit.",
      "say": "Count the sprouted seeds in each katori. A and B are one amount, so find their average. Do the same for C and D, and for E and F. What can you say? What can't you say?",
-     "kid": "Count the sprouted seeds. Find the average for each amount. What can you say? What can't you say?",
+     "kid": "Count the sprouted seeds. Find the average for each amount.",
      "context": "In this step, you count the seeds, work out the averages and write a careful conclusion.",
      "ask": [
       {
@@ -1866,7 +1866,7 @@
    ],
    "safety": "Use scissors with a grown-up near. Stand on the floor, not on a chair, to drop the spinners. Keep the fan off. Paper clips are small parts: keep them away from children under five.",
    "your_turn": "Choose a different thing to slow down, such as a paper cup parachute or a leaf-shaped glider. Plan a test with the three jobs, repeat it five times, and show your averages and ranges.",
-   "context": "This is a design challenge. You improve a paper spinner by changing one thing at a time and prove it with repeated measurements.",
+   "context": "This is a design challenge. You improve a paper spinner by changing one thing at a time and prove it with repeated measurements. You will find out if you can really make it fall slower.",
    "setup": [
     {
      "art": "A child sketching three spinner designs on paper with different wing shapes, and circling one.",
@@ -1885,9 +1885,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read the problem together. Ask your child to sketch two or three ideas. Ask which one thing they will change. Ask what they will keep the same.",
-     "say": "You need to make a spinner that falls more slowly than the one with 6 centimetre wings. What could make a spinner fall slower? Which one thing will you change first?",
-     "kid": "Sketch two ideas. Choose one thing to change first.",
+     "do": "Read the problem together. Ask your child to sketch two or three ideas, or to describe them out loud. Ask which one thing they will change. Ask what they will keep the same.",
+     "say": "You need to make a spinner that falls more slowly than the one with 6 centimetre wings. What could make a spinner fall slower?",
+     "kid": "Sketch or describe two ideas. Choose one to try first.",
      "context": "This is the first step of the Slowest Fall challenge. You plan the design.",
      "ask": [
       {
@@ -1915,7 +1915,7 @@
      "mins": 10,
      "do": "Work out the average and range for both designs. Ask whether the gap between the averages is bigger than the spread in each set. Ask for a claim, evidence and reasoning.",
      "say": "What is the average for the old spinner? What is it for the new one? Is the gap bigger than the spread within each set? Can you prove your design is slower?",
-     "kid": "Find both averages and ranges. Is the gap bigger than the spread? Did you prove it?",
+     "kid": "Find both averages and both ranges.",
      "context": "In this step, you compare the two designs honestly, using the averages and the ranges.",
      "ask": [
       {

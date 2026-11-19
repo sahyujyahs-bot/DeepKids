@@ -470,7 +470,7 @@
    "title": "Grain or No Grain?",
    "mins": 20,
    "players": "2 to 4 players, or one child playing against a grown-up",
-   "context": "This is a card game. Each card names a material or a thing. You decide whether it has a grain, which means a direction in which it behaves differently, and then you say how you could test it.",
+   "context": "This is a card game. Each card names a material or a thing. You decide whether it has a grain, which means a direction in which it behaves differently, and then you say how you could test it. You will find out which everyday things have a grain, and why.",
    "setup": [
     {
      "art": "Twenty-four cards in a shuffled pile in the middle of a table, with two tokens in front of each player: Has a grain and No grain.",
@@ -693,8 +693,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Count the points. Look at the cards you got wrong, and read the backs again. Ask which card surprised each person most.",
-     "say": "Count your points. Which card surprised you most? Why?",
-     "kid": "Count the points. Which card surprised you most?",
+     "say": "Count your points. Then read again the backs of the cards you got wrong.",
+     "kid": "Count your points.",
      "ask": [
       {
        "q": "Which card surprised you most, and why?",
@@ -1530,8 +1530,8 @@
     }
    ],
    "safety": "A grown-up cuts the strips, or stays close while an older child does it. Keep the scissors closed when you walk with them.",
-   "record": "For each paper, write which way the tear ran straight. Then write the droop of each strip, three tries each. Last, find the average droop of each strip and draw a bar for each strip.",
-   "context": "In this experiment, you tear paper two ways and cut strips along and across the paper's grain. Then you measure how far each strip droops.",
+   "record": "For each paper, write which way the tear ran straight. Then write the droop of each strip, three tries each. Last, find the average droop of each strip. Draw a bar for each strip, or just write the averages.",
+   "context": "In this experiment, you tear paper two ways and cut strips along and across the paper's grain. Then you measure how far each strip droops. You will find out if paper is equally strong in every direction.",
    "setup": [
     {
      "art": "A sheet of newspaper torn from top to bottom with a straight tear, and another sheet torn from side to side with a crooked tear.",
@@ -1560,7 +1560,7 @@
      "mins": 5,
      "do": "Show your child the newspaper, the printer paper and the ruler. Ask for a guess and a reason before anything is touched. Write the guess at the top of the results table.",
      "say": "We have newspaper and plain paper. First we tear. Then we cut strips and see which droops more. Will paper act the same in every direction? Why do you think so?",
-     "kid": "Guess first. Is paper the same in every direction? Why do you think so?",
+     "kid": "Make a guess, and say why you think so.",
      "ask": [
       {
        "q": "Why do you think paper will be the same, or different, in different directions?",
@@ -1579,7 +1579,7 @@
      "mins": 7,
      "do": "Hold a newspaper sheet by its top edge. Tear a strip down it from top to bottom for about 20 centimetres. Take a second sheet and tear from side to side, for the same distance. Look at the two tears.",
      "say": "Tear one sheet from top to bottom. Tear another from side to side. Which tear is straighter? Which one wanders?",
-     "kid": "Tear one sheet downward. Tear another sideways. Which tear is straighter?",
+     "kid": "Tear one sheet downward. Tear another sideways. Look at the two tears.",
      "parent": "Newspaper usually tears straight from top to bottom, along the columns of print. If yours tears straight the other way, that is fine. Use whichever way tears straight in your paper.",
      "check": {
       "t": "mcq",
@@ -1636,9 +1636,9 @@
     {
      "id": "s6",
      "mins": 9,
-     "do": "Find the average droop for each strip. Add the three numbers and divide by 3. Draw a bar for each strip. Then ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
+     "do": "Find the average droop for each strip. Add the three numbers and divide by 3. Draw a bar for each strip, or just write the averages in the table. Then ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "say": "Write three sentences. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
+     "kid": "Tell your grown-up what you thought, what you saw, and why.",
      "ask": [
       {
        "q": "What did you notice about the strips cut in the two directions?",
@@ -1700,7 +1700,7 @@
    ],
    "safety": "A grown-up does the cutting. Hang the bottle low over a bed or a rug, in case the strip slips.",
    "record": "For each strip, write the length between the marks without weight and with the bottle hanging. Subtract to find the stretch. Do each strip twice, and write all the numbers.",
-   "context": "In this experiment, you cut two strips of woven cloth, one along the threads and one on the slant. You hang the same weight from each to see which stretches more.",
+   "context": "In this experiment, you cut two strips of woven cloth, one along the threads and one on the slant. You hang the same weight from each to see which stretches more. You will find out why tailors cut cloth on the slant.",
    "setup": [
     {
      "art": "A square of woven cotton cloth with a single thread being pulled out near the edge, leaving a straight gap along the threads.",
@@ -1729,7 +1729,7 @@
      "mins": 5,
      "do": "Show your child the cloth, the bottle and the clips. Ask for a guess and a reason before anything is cut. Write the guess at the top of the table.",
      "say": "We will cut two strips from one cloth. One strip runs along the threads. The other runs on the slant. Each carries the same bottle. Which will stretch more? Why do you think so?",
-     "kid": "Guess first. Which strip will stretch more? Why do you think so?",
+     "kid": "Make a guess, and say why you think so.",
      "ask": [
       {
        "q": "Why do you think one strip might stretch more than the other?",
@@ -1796,10 +1796,10 @@
      "mins": 4,
      "do": "Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened. Then look closely at the cloth and its threads in bright light.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened? Then look closely at the threads.",
-     "kid": "Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
+     "kid": "Tell your grown-up what you thought, what you saw, and why.",
      "ask": [
       {
-       "q": "What do you think the threads did on the slant?",
+       "q": "When the slanted strip stretched, how do you think the threads moved?",
        "good": [
         "They turned, so the squares became diamonds.",
         "They did not stretch, but they moved.",
@@ -1849,7 +1849,7 @@
    ],
    "safety": "A grown-up stays close and straightens the clips. The wire can spring and the snapped ends are sharp. Hold the wire low and away from your face, and wear glasses if you have them. Put the pieces in the bowl at once, then in the bin, and keep them away from children under five.",
    "record": "For each clip, write the size of bend and the number of bends before it snapped. Then find the average for the big bends and for the small bends.",
-   "context": "In this experiment, you bend straightened paper clips back and forth until they snap. You count how many bends it takes, for big bends and for small bends.",
+   "context": "In this experiment, you bend straightened paper clips back and forth until they snap. You count how many bends it takes, for big bends and for small bends. You will find out which kind of bend breaks a wire sooner.",
    "setup": [
     {
      "art": "A paper clip being unfolded and straightened into a single piece of wire about 9 centimetres long.",
@@ -1878,7 +1878,7 @@
      "mins": 5,
      "do": "Show your child the paper clips and the bowl. Ask for a guess and a reason before bending anything. Write the guess at the top of the table.",
      "say": "We will bend a paper clip back and forth until it snaps. How many bends will it take? Will small bends take more or fewer? Why do you think so?",
-     "kid": "Guess first. How many bends will snap a paper clip? Why do you think so?",
+     "kid": "Make a guess, and say why you think so.",
      "ask": [
       {
        "q": "Why do you think a clip might snap after only a few bends?",
@@ -1955,9 +1955,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Find the average for the big bends and for the small bends. Add the three numbers and divide by 3. Draw a bar for each group. Then ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
+     "do": "Find the average for the big bends and for the small bends. Add the three numbers and divide by 3. Draw a bar for each group, or just write the two averages. Then ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "say": "Find the average number of bends for each group. Then write three sentences. What did you think? What did you see? Why do you think it happened?",
-     "kid": "Find the average for each group. Then say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
+     "kid": "Find the average for each group. Then tell your grown-up what you thought, what you saw, and why.",
      "parent": "A good reason says that each bend does a little damage to the inside of the metal. Tiny cracks start and grow. Bigger bends do more damage each time. Let your child try first. Then read the Fatigue card together.",
      "context": "In this step, you work out the averages and explain what you found."
     }
@@ -2004,8 +2004,8 @@
      "what": "Guess where each thing splits. Test each one. Draw the grain arrows. Sort the things."
     }
    ],
-   "record": "A table with each thing, your guess, what happened and an arrow drawn along its grain.",
-   "context": "In this activity, you try to split, tear and snap six things in two directions. You find which direction gives way more easily, and draw the grain.",
+   "record": "A table with each thing, your guess, what happened, and which way its grain runs: along its length or across it.",
+   "context": "In this activity, you try to split, tear and snap six things in two directions. You find which direction gives way more easily. That direction is the grain, the way the fibres lie in a line. You will find out which things have a grain, and which way it runs.",
    "setup": [
     {
      "art": "Six things lined up on a tray: two bamboo skewers, two ice-cream sticks, a celery stalk and a banana leaf, each with a pencil arrow beside it.",
@@ -2021,7 +2021,7 @@
     },
     {
      "art": "A magnifying glass held over the torn edge of a leaf and over a split stick, showing long fibres.",
-     "caption": "4. Look at each torn edge. Draw an arrow along the grain."
+     "caption": "4. Look at each torn edge. Point along the grain."
     }
    ],
    "flow": [
@@ -2075,9 +2075,9 @@
     {
      "id": "a1s4",
      "mins": 5,
-     "do": "Look at each torn or split edge with the magnifying glass. Draw each thing on your paper. Draw an arrow along its grain.",
-     "say": "Look at the torn edges. What do you see? Draw each thing. Draw an arrow along the grain.",
-     "kid": "Look at the edges. Draw each thing. Draw its grain arrow.",
+     "do": "Look at each torn or split edge with the magnifying glass. Then lay the six things side by side, each one pointing along its grain. Ask your child to point to the grain of each and say how they know.",
+     "say": "Look at the torn edges. What do you see? Lay the six things side by side, each one pointing along its grain.",
+     "kid": "Look at the edges. Lay the things side by side, each pointing along its grain.",
      "context": "In this step, you look closely at the edges and draw the grain arrows."
     },
     {
@@ -2085,7 +2085,7 @@
      "mins": 4,
      "do": "Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened?",
-     "kid": "Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
+     "kid": "Tell your grown-up what you thought, what you saw, and why.",
      "parent": "A good reason says that these materials are built of long fibres or veins lying in lines. A split slips between the lines, and a snap has to break through them.",
      "context": "In this step, you explain what you found."
     }
@@ -2130,8 +2130,8 @@
      "what": "Find the flutes. Cut two strips. Test each strip as a bridge. Compare."
     }
    ],
-   "record": "A table with two strips, the direction of the flutes, the sag with the bottle and a drawing of each bridge.",
-   "context": "In this activity, you cut two strips from a corrugated cardboard box. One has the flutes along its length and the other has them across. You test which makes a stronger bridge.",
+   "record": "A table with two strips, the direction of the flutes, the sag with the bottle and a photo of each bridge.",
+   "context": "In this activity, you cut two strips from a corrugated cardboard box. One has the flutes along its length and the other has them across. You test which makes a stronger bridge. You will find out why the waves inside cardboard matter.",
    "setup": [
     {
      "art": "The cut edge of a corrugated cardboard sheet, showing a wavy middle layer between two flat layers, with an arrow along the waves.",
@@ -2156,7 +2156,7 @@
      "mins": 5,
      "do": "Show your child the flat cardboard and the bottle. Ask which strip will make the stronger bridge, and why. Write the guess.",
      "say": "We will cut two strips from a cardboard box. One runs along the waves inside. The other runs across the waves. Which will carry the bottle better? Why?",
-     "kid": "Guess first. Which strip makes the stronger bridge? Why do you think so?",
+     "kid": "Make a guess, and say why you think so.",
      "ask": [
       {
        "q": "Why do you think one strip might be stronger than the other?",
@@ -2173,7 +2173,7 @@
     {
      "id": "a2s2",
      "mins": 6,
-     "do": "A grown-up looks at the cut edge of the box for the waves inside. These are the flutes. Draw an arrow along them. Cut a strip 4 centimetres wide and 30 centimetres long with the flutes along its length. Cut another with the flutes across its length.",
+     "do": "Look at the cut edge of the box together. You can see waves between the flat layers. These are the flutes. Draw a pencil arrow along them. Cut a strip 4 centimetres wide and 30 centimetres long with the flutes along its length. Cut another with the flutes across its length.",
      "say": "Look at the cut edge. See the waves between the flat layers? Draw an arrow along them. Now cut the two strips.",
      "kid": "Find the waves on the cut edge. Draw an arrow. A grown-up cuts two strips.",
      "adult": true,
@@ -2203,9 +2203,9 @@
     {
      "id": "a2s4",
      "mins": 7,
-     "do": "Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened. Then look at the cut edge again and draw it with its waves.",
-     "say": "Write three sentences. What did you think? What did you see? Why do you think it happened? Then draw the cut edge.",
-     "kid": "Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
+     "do": "Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened. Then look at the cut edge again. Ask your child to point to the waves and say how they might help.",
+     "say": "Write three sentences. What did you think? What did you see? Why do you think it happened? Then look at the cut edge again. Point to the waves. How might they help?",
+     "kid": "Tell your grown-up what you thought, what you saw, and why.",
      "parent": "A good reason says that the waves hold the two flat layers apart, like a row of arches. Along the waves, they work as a beam. Across the waves, the strip folds easily at each wave.",
      "context": "In this step, you explain what you found and draw the cut edge."
     }
@@ -2250,8 +2250,8 @@
      "what": "Make four bridges from four identical sheets. Load each with coins. Compare."
     }
    ],
-   "record": "A table with four bridges, their shape and the number of coins each one carried. Draw each bridge from the side.",
-   "context": "In this activity, you make four bridges from identical sheets of paper in four shapes. You find which shape carries the most coins.",
+   "record": "A table with four bridges, their shape and the number of coins each one carried. Take a photo of each bridge from the side.",
+   "context": "In this activity, you make four bridges from identical sheets of paper in four shapes. You find which shape carries the most coins. You will find out how folding paper can make it much stronger.",
    "setup": [
     {
      "art": "Four paper bridges side by side: a flat sheet, a zigzag-folded sheet, a rolled tube and a sheet with its edges folded up like a tray.",
@@ -2276,7 +2276,7 @@
      "mins": 5,
      "do": "Show your child the four sheets. Say that all four are the same paper. Ask which shape will carry the most coins, and which will carry the fewest. Write the guess.",
      "say": "We have four sheets of paper, all the same. We fold them into four shapes. Which bridge will carry the most coins? Which the fewest? Why do you think so?",
-     "kid": "Guess first. Which shape carries the most coins? Why do you think so?",
+     "kid": "Make a guess, and say why you think so.",
      "ask": [
       {
        "q": "Why do you think that shape will be the strongest?",
@@ -2295,7 +2295,7 @@
      "mins": 10,
      "do": "Make the four bridges. Leave the first sheet flat. Fold the second into a zigzag with six folds each about 2 centimetres wide. Roll the third into a tube and tape the seam. Fold the edges of the fourth up by 2 centimetres on the two long sides, so it looks like a tray.",
      "say": "Leave one sheet flat. Fold one into a zigzag. Roll one into a tube and tape it. Fold the edges of one up, like a tray.",
-     "kid": "Make four bridges. Flat. Zigzag. Tube. Tray.",
+     "kid": "Make four bridges: flat, zigzag, tube and tray.",
      "parent": "Keep the long edge of the paper as the span, so the folds run along the bridge. Use the same amount of tape on every bridge, or none if the shape stays. Make sure each bridge rests 2 centimetres on each stack of books.",
      "context": "In this step, you build the four bridges from the same paper."
     },
@@ -2324,7 +2324,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
      "say": "Write three sentences. What did you think? What did you see? Why do you think it happened?",
-     "kid": "Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.",
+     "kid": "Tell your grown-up what you thought, what you saw, and why.",
      "parent": "A good reason says that the material is the same, but the shape is different. A property of a material, such as how stiff paper is, does not change. A property of an object, such as how stiff the bridge is, depends on its shape.",
      "context": "In this step, you explain what you found."
     }
@@ -2360,8 +2360,8 @@
      "what": "Look at the edge of a plywood item. Count the layers. Draw the grain of each layer."
     }
    ],
-   "record": "A drawing of the plywood edge, with the layers counted and the grain direction of each one marked.",
-   "context": "In this activity, you look closely at the edge of a piece of plywood. You find the layers, and see how their grains are turned across each other.",
+   "record": "The number of layers, and for each layer whether its grain runs along the edge or across it. A photo of the edge is a good extra.",
+   "context": "In this activity, you look closely at the edge of a piece of plywood. You find the layers, and see how their grains are turned across each other. You will find out how plywood is built.",
    "setup": [
     {
      "art": "The cut edge of a plywood board showing five thin layers with lines of different directions, and a magnifying glass above it.",
@@ -2369,7 +2369,7 @@
     },
     {
      "art": "A drawing of a plywood edge with five layers, and a short arrow drawn on each layer showing which way its grain runs.",
-     "caption": "2. Count the layers. Draw an arrow for the grain on each one."
+     "caption": "2. Count the layers. Point to the grain on each one."
     }
    ],
    "flow": [
@@ -2378,7 +2378,7 @@
      "mins": 4,
      "do": "Find an item made of plywood. Look at its cut edge. Ask your child what they notice. Do not explain yet.",
      "say": "Look at the edge of this board. What do you notice? What do you wonder?",
-     "kid": "Look at the edge of the board. What do you notice?",
+     "kid": "Look closely at the cut edge of the board.",
      "ask": [
       {
        "q": "What do you notice about the edge?",
@@ -2395,9 +2395,9 @@
     {
      "id": "a4s2",
      "mins": 8,
-     "do": "Count the layers. Use the magnifying glass if you have one. Look at the surface of each layer if you can see it. Draw the edge and an arrow for the grain on each layer.",
-     "say": "Count the layers. Draw the edge, layer by layer. Draw an arrow for each grain direction.",
-     "kid": "Count the layers. Draw each one. Add its grain arrow.",
+     "do": "Count the layers. Use the magnifying glass if you have one. Point to each layer. Ask your child if its grain runs along the edge or across it.",
+     "say": "Count the layers. Point to each one. Can you tell which way its grain runs?",
+     "kid": "Count the layers. Point to each one and say which way its grain runs.",
      "check": {
       "t": "mcq",
       "q": "A plywood board has five layers. Why do most plywood boards have an odd number of layers?",
@@ -2479,7 +2479,7 @@
     }
    ],
    "record": "A table with two boards, the droop of a strip cut each way from each board, and a sentence about what you found.",
-   "context": "In this project, you make two small boards from layers of newspaper. In one board all the layers have the grain the same way. In the other, the layers are crossed. You test which board is more even.",
+   "context": "In this project, you make two small boards from layers of newspaper. In one board all the layers have the grain the same way. In the other, the layers are crossed. You test which board is more even. You will find out why plywood has layers turned across each other.",
    "setup": [
     {
      "art": "Eight rectangles of newspaper, each with a pencil arrow, six with the arrow along the long side and two with the arrow across.",
@@ -2508,7 +2508,7 @@
      "mins": 5,
      "do": "Show your child the newspaper and the glue. Ask which board will be more even in every direction, and why. Write the guess.",
      "say": "We will make two boards from four layers of newspaper each. In one, the layers all lie the same way. In the other, every second layer is turned across. Which board will be more even? Why?",
-     "kid": "Guess first. Which board will be more even? Why do you think so?",
+     "kid": "Make a guess, and say why you think so.",
      "ask": [
       {
        "q": "Why might turning one layer across make the board more even?",
@@ -2525,9 +2525,9 @@
     {
      "id": "p1s2",
      "mins": 8,
-     "do": "Tear a corner of each newspaper sheet down and across to find the straight tear. Draw an arrow along it. A grown-up cuts eight rectangles, each 20 centimetres by 30 centimetres. Cut six with the arrow along the long side. Cut two with the arrow along the short side.",
+     "do": "Tear a corner of each newspaper sheet down and across to find the straight tear. The straight tear shows the grain. Draw an arrow along it. A grown-up cuts eight rectangles, each 20 centimetres by 30 centimetres. Cut six with the arrow along the long side. Cut two with the arrow along the short side.",
      "say": "Find the straight tear on each sheet. Draw an arrow. Then a grown-up cuts eight pieces. Six have the arrow along the long side, and two have it along the short side.",
-     "kid": "Find the grain on each sheet. Draw an arrow. A grown-up cuts eight pieces.",
+     "kid": "Find the straight tear, the grain, on each sheet. Draw an arrow. A grown-up cuts eight pieces.",
      "adult": true,
      "parent": "Find the grain as in the Which Way Does It Tear experiment: the straight tear runs along the grain. Keep the arrows visible on every piece. Board A uses four pieces with the arrow along the long side. Board B uses two of those, and the two pieces with the arrow along the short side go second and fourth.",
      "context": "In this step, you find the grain and cut eight pieces of newspaper."
@@ -2614,12 +2614,12 @@
     "A tube with rings of tape around it at intervals, like the nodes of bamboo, to stop the walls from folding in.",
     "Two thin tubes side by side, joined by a flat top, like an I-beam, with the grain of the paper along the span."
    ],
-   "your_turn": "Sketch your design. Find the grain of the paper with a tear test, and decide which way to put it. Build your beam and test it. Change one thing, such as the shape or the way the grain runs, and test again. Which design carried the most coins? Why do you think it did?",
+   "your_turn": "Plan your design with folded scrap paper, or a sketch. Find the grain of the paper with a tear test, and decide which way to put it. Build your beam and test it. Change one thing, such as the shape or the way the grain runs, and test again. Which design carried the most coins? Why do you think it did?",
    "context": "This is a design challenge about how shape and grain make paper stiffer. You build the strongest beam you can from two sheets of paper.",
    "setup": [
     {
      "art": "A child sketching three beam designs on paper: a tube, a zigzag and a triangular tube, with arrows showing the grain.",
-     "caption": "1. Sketch some designs and decide which way the grain runs."
+     "caption": "1. Plan some designs and decide which way the grain runs."
     },
     {
      "art": "A paper tube bridging a 20 centimetre gap between two stacks of books, with a cup of coins on its middle.",
@@ -2634,9 +2634,9 @@
     {
      "id": "c1s1",
      "mins": 8,
-     "do": "Read the problem together. Ask your child to tear a corner of the paper to find the grain. Then ask them to sketch two or three different beam designs, and mark the grain direction on each.",
-     "say": "You have two sheets of paper and a little tape. How could you shape them to carry the most? Find the grain first. Then draw some ideas.",
-     "kid": "Find the grain of the paper. Draw some beam ideas.",
+     "do": "Read the problem together. Ask your child to tear a corner of the paper to find the grain. The straighter tear runs along the grain. Then ask them to plan two or three different beam designs by folding scrap paper, or by sketching if they prefer. Ask them to say which way the grain runs in each.",
+     "say": "You have two sheets of paper and a little tape. How could you shape them to carry the most? Find the grain first. Then plan some ideas.",
+     "kid": "Tear a corner to find the grain. Then plan some beam ideas.",
      "ask": [
       {
        "q": "What would make a paper beam carry more?",

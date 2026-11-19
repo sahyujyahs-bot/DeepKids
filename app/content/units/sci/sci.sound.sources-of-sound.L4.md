@@ -250,12 +250,12 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 - **predict:** Before you start, guess. Will tapping and blowing put the bottles in the same order from the lowest note to the highest? Which bottle will give the highest note when tapped, and which when blown? Why do you think so?
 - **fair test:** Use five bottles of the same kind. The water amounts are the same for both tests. Tap each bottle in the same place with the same spoon. Blow across each bottle from the same distance. The listener closes their eyes and says which of two bottles gives the higher note. Each pair is tried three times. Only the way of making the sound changes, so any difference comes from tapping or blowing.
 - **safety:** Use glass bottles with no chips or cracks, and stand them on a folded towel. Tap gently with a wooden spoon, never a steel one. Wipe up spills at once. When blowing, rest between tries, and stop if anyone feels dizzy. Each child blows into their own bottle, or wipes the bottle's mouth with a clean cloth before the next child blows.
-- **record:** Fill in the table. For each way of making the sound, write the place of each bottle from lowest note to highest. Draw a line to join the water amounts to the places, once for tapping and once for blowing.
+- **record:** Fill in the table. For each way of making the sound, write the place of each bottle from lowest note to highest. Join the water amounts to the places with a line, once for tapping and once for blowing. Or tell your grown-up what you see.
 - **results table:** Water in the bottle (millilitres) | Air column length (centimetres) | Tapping: place from lowest (1) to highest (5) | Blowing: place from lowest (1) to highest (5)
 - **s1 (5 min)**  
   *Parent does:* Show your child the bottles and the spoon. Explain that you will tap them and then blow across them. Ask for a guess and a reason, and write both down.  
   *Parent says:* We have five bottles with different amounts of water. First we tap them, then we blow across them. Will the order of the notes be the same both times? Which bottle will be highest when tapped, and which when blown? Why do you think so?  
-  *Child mode:* We will tap the bottles, then blow across them. Will the order of the notes be the same? Why do you think so?
+  *Child mode:* Look at the five bottles. We will tap them, and then blow across them.
   - Ask: Why do you think the order will be the same, or different? (good: It will be the same, because it is the same bottle and water.; More water makes it heavier, so lower.; I think blowing will be different, because it is air.)
   - Note: Do not correct the guess. Most children say the order will be the same. Write the guess at the top of the table, because the result may surprise them. Roles: with one child, you are the helper who listens and writes. With 2 to 4 children, one taps, one listens with eyes shut, one writes the table, and one blows. Swap after each bottle pair, so everyone gets a turn at tapping, blowing and listening.
 - **s2 (6 min)**  
@@ -264,7 +264,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
   *Child mode:* Fill the bottles. Label each one. Measure the air from the water to the top.
   - Note: The air column gets shorter as the water goes up. If your bottles differ in size, use the same kind for all five. These amounts suit bottles of 250 to 300 millilitres. For a bigger bottle, make equal steps up to about three quarters full. Keep the water below the shoulder of the bottle. If you have fewer than five bottles, use three (for example 0, 100 and 200 millilitres) and say so.
 - **s3 (8 min)**  
-  *Parent does:* Tap each bottle halfway up with the wooden spoon, once, gently. The helper keeps their eyes shut. Play two bottles one after the other and ask which is higher. Repeat each pair three times. Then give each bottle its place.  
+  *Parent does:* Tap each bottle halfway up with the wooden spoon, once, gently. The helper keeps their eyes shut. Play two bottles one after the other and ask which is higher. Repeat each pair three times. Then line the five bottles up from the lowest note to the highest.  
   *Parent says:* Close your eyes. I will tap two bottles. Which note is higher, the first or the second? We will do this for every pair of neighbours, three times each. Then we can put the five in order.  
   *Child mode:* Tap two bottles. Which is higher? Do every pair. Then put all five in order.
   - Note: Expected: the empty bottle gives the highest tapped note, and the fullest gives the lowest. If your bottles are plastic, the difference is hard to hear, so use glass. Steps of 50 millilitres are easy to hear on glass, but if two neighbours sound alike, compare the empty bottle and the fullest one first. Real tapped notes are short and dull, so listen closely and let the helper hear each pair more than once. Write the places from 1 (lowest) to 5 (highest).
@@ -276,7 +276,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
   - Note: Blowing takes a little practice. Tilt the bottle a bit, and aim the stream of air so that it hits the far edge of the mouth. Rest between tries. If a bottle will not sing after a minute or two, try the one with the most water first, since its short air column sings more easily. A weak, airy hiss is normal at the start. Expected: the empty bottle gives the lowest blown note, and the fullest bottle gives the highest. This is the opposite of tapping.
 - **s5 (8 min)**  
   *Parent does:* Compare the two orders. Ask your child for their claim, evidence and reasoning before you explain anything.  
-  *Parent says:* Look at the two orders. What do you notice? What is your claim? What is your evidence? Why do you think the orders are different? What is shaking when you tap, and what is shaking when you blow?  
+  *Parent says:* Look at the two orders. Are they the same or different? How do you know? What is shaking when you tap, and what is shaking when you blow?  
   *Child mode:* Compare the two orders. What do you notice? What is shaking each time?
   - Ask: What changed between tapping and blowing, if the bottles and water stayed the same? (good: What is shaking changed.; When you tap, the glass shakes. When you blow, the air shakes.; The air column is the part that matters when blowing.)
   - Ask: Why does more water give a higher note when you blow? (good: There is less air, so the air column is shorter.; A short air column makes a higher note.; The water takes up room that was air.)
@@ -297,7 +297,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 - **s1 (4 min)**  
   *Parent does:* Show your child the glass and the five finger conditions: dry, damp, very wet, soapy and oily. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will drag a finger across clean glass five ways: dry, damp, very wet, soapy and oily. Which will squeak loudest? Which will not squeak at all? Why do you think so?  
-  *Child mode:* We will try five kinds of finger on glass: dry, damp, very wet, soapy and oily. Which squeaks loudest? Which is silent? Why?
+  *Child mode:* Look at the glass. We will try five kinds of finger on it: dry, damp, very wet, soapy and oily.
   - Ask: Why do you think that finger will squeak the most? (good: A wet finger sticks to glass.; A dry finger grips the most.; Soap makes a noise like bubbles.)
   - Note: Do not correct the guess. Many children say a dry finger will squeak most, because it grips most. Write the guess at the top of the table. Roles: with one child, you are the listener and scorer. With 2 to 4 children, one drags the finger, one listens with eyes shut, and one writes the scores. Swap roles after each condition. If each child uses their own finger on the same condition, compare the scores. Fingers differ, which is why one finger is used for a fair test.
 - **s2 (5 min)**  
@@ -318,8 +318,8 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
   - Note: Expected: a soapy finger may squeak, though usually less than damp, and it can also be silent. Soap films vary, so report what you hear. An oily finger is silent. Wipe the oil off the glass with a dry cloth, then a damp one, so that nobody slips.
 - **s5 (3 min)**  
   *Parent does:* Compare the totals. Ask your child for their claim, evidence and reasoning before you explain anything.  
-  *Parent says:* Which finger squeaked most? Which did not squeak? What is your claim? What is your evidence? Why do you think the damp finger is different from the dry one and the very wet one?  
-  *Child mode:* Which finger squeaked most? Which was silent? Why do you think so?
+  *Parent says:* Look at the totals. Which finger squeaked most? Which was silent? Was your guess right?  
+  *Child mode:* Look at your totals. Was your guess right?
   - Ask: Why does a damp finger squeak, but a dry or a very wet finger does not? (good: The damp finger grips and slips again and again.; A dry finger grips too much and a wet finger slips too much.; The grip has to be in the middle.)
   - Note: Do not explain the cards yet. A good answer says that squeaking needs both gripping and slipping. If the child can say 'the grip is not too much and not too little', that is the idea. To go further, use the damp finger and try three speeds (slow, medium, fast). Does the pitch of the squeak change?
   - Check: A squeaky door hinge goes quiet after a drop of oil. What is the best reason? → **The oil lets the metal slide without sticking, so the stick and slip stops**
@@ -331,24 +331,24 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 - **record:** A table with four columns and at least twelve sounds sorted into them. A note on the sound that was hardest to place.
 - **s1 (4 min)**  
   *Parent does:* Show your child the four columns. Say that sounds start in four ways. Ask which column they think will hold the most sounds in the house, and why.  
-  *Parent says:* We will hunt for sounds and sort them into four columns: shake, blow, pop and rub. Which column do you think will have the most sounds in our home? Why do you think so?  
+  *Parent says:* We will hunt for sounds and sort them into four columns. Shake means a solid thing shakes. Blow means air shakes in a space. Pop means one sudden push of air. Rub means two surfaces stick and slip. Which column do you think will have the most sounds in our home? Why do you think so?  
   *Child mode:* Hunt for sounds. Sort them into four columns. Which will have the most? Why?
   - Ask: Which column do you think will have the fewest sounds? (good: Pop, because pops are rare.; Blow, because you need a bottle.; Rub, because I do not know any.)
   - Note: Do not correct the guess. The shake column is usually biggest and the rub column smallest. Roles: with one child, you walk round together and you write. With 2 to 4 children, each keeps their own sheet and hunts in a different room for 5 minutes, then everyone compares sheets. Count which column grew biggest. No sound needs to be loud, so ask everyone to keep the volume low for the neighbours.
 - **s2 (10 min)**  
   *Parent does:* Walk round the house. Make each of these sounds, and write each one in a column. Tap a tumbler. Blow across the bottle. Clap. Open the door slowly. Squeak a damp finger on the glass.  
-  *Parent says:* Make each sound and listen. Tap the tumbler. Blow across the bottle. Clap your hands. Open the door slowly. Squeak a damp finger on the glass. Which column does each one go in?  
+  *Parent says:* Listen closely to each sound. Which column does it go in: shake, blow, pop or rub?  
   *Child mode:* Tap the tumbler. Blow across the bottle. Clap. Open the door. Squeak the glass.
   - Note: The squeaky glass needs a damp finger on clean glass. If it will not squeak, count the door or a rubbed balloon instead. Expected: tumbler in shake, bottle in blow, clap in pop, door and glass in rub. Let your child decide first. If they put the clap in shake, ask where the shaking is.
   - Check: A clap goes in the pop column. What is the best reason? → **The air between the hands gets one sudden push**
 - **s3 (7 min)**  
-  *Parent does:* Find at least seven more sounds and write them in the columns. Think of the fridge, the fan, the pressure cooker, the mixie, a bird at the window and your own voice.  
+  *Parent does:* Find at least seven more sounds and write them in the columns.  
   *Parent says:* Find seven more sounds in the house or outside the window. Think of the fridge, the fan, the cooker, the mixie and a bird. Write each in a column. If you are not sure, write it between two columns.  
   *Child mode:* Find seven more sounds. Put each in a column. Write between two columns if unsure.
   - Note: Some sounds fit two columns. A pressure cooker whistle, a mixie and a bird's call each use more than one way. That is fine. Ask the child where the shaking is.
 - **s4 (4 min)**  
   *Parent does:* Ask your child to choose the sound that was hardest to place, and to explain why. Ask them for their claim, evidence and reasoning.  
-  *Parent says:* Which sound was the hardest to place? Why? What is your claim about how it starts? What did you notice? Why do you think so?  
+  *Parent says:* Which sound was the hardest to place? Why? How do you think it starts? What did you hear that tells you?  
   *Child mode:* Which sound was hard to place? Why? What do you think starts it?
   - Ask: Can one sound use two ways at once? (good: A violin: the bow rubs and the string shakes.; My voice: the vocal folds shake and the mouth shapes it.; A conch: lips buzz and the air inside shakes.)
 ### a2 · Whisper Vowels: can you hear 'ee' and 'oo' with no buzz? (30 min)
@@ -356,7 +356,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 - **record:** A table with two rows, spoken and whispered, and the number of vowels the listener got right out of ten in each row. Note the number you would expect from guessing alone.
 - **s1 (5 min)**  
   *Parent does:* Ask your child to put two fingers on their throat and say 'aaa' out loud, then whisper 'aaa'. Ask what they feel. Then ask them to guess whether a listener can tell whispered vowels apart, and why.  
-  *Parent says:* Put two fingers on your throat. Say 'aaa' out loud. Now whisper 'aaa'. What do you feel? In the test, a listener will try to tell 'ee', 'aa' and 'oo' in a whisper. Can they? Why do you think so?  
+  *Parent says:* Put two fingers on your throat. Say 'aaa' out loud. Now whisper 'aaa'. What do you feel? In the test, a listener will try to tell 'ee', 'aa' and 'oo' in a whisper.  
   *Child mode:* Touch your throat. Say 'aaa', then whisper it. What do you feel?
   - Ask: Do you think a listener will be able to tell whispered vowels apart? Why? (good: No, because there is no voice.; Yes, because the mouth is a different shape.; Only some of them.)
   - Note: Do not correct the guess. The child should feel a buzz when speaking and none when whispering. Many children expect that whispered vowels will be hard to tell apart.
@@ -379,8 +379,8 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
   - Check: The listener got 9 out of 10 whispered vowels right. What does that show? → **The mouth's shape gives each vowel its sound, even with no buzz**
 - **s5 (4 min)**  
   *Parent does:* Count the right answers for each row. Ask your child for their claim, evidence and reasoning. Then ask them to try pinching their nose and saying 'mama'.  
-  *Parent says:* Count the right answers for spoken and whispered. What is your claim about where vowels come from? What is your evidence? Why do you think so? Now pinch your nose and say 'mama'. What changes?  
-  *Child mode:* Count the right answers. Where do vowels come from? Pinch your nose and say 'mama'.
+  *Parent says:* Count the right answers for spoken and whispered. What do you notice? Now pinch your nose and say 'mama'. What changes?  
+  *Child mode:* Count the right answers. Pinch your nose and say 'mama'.
   - Ask: If a whisper has no buzz, where do the vowels come from? (good: From the shape of the mouth.; From the way the mouth shapes the hiss.; The mouth changes the sound, not the throat.)
   - Note: With a group, each child takes a turn as speaker and as listener, and you compare their scores. Different people and rooms give different scores, and that is a real result.
 ### a3 · The Pot That Hums Back: finding the hidden note of a space (20 min)
@@ -389,7 +389,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 - **record:** Write which vessel boomed at which kind of note (low, middle or high). Write the depth of each vessel in centimetres. Write whether the bathroom boomed at any note.
 - **s1 (3 min)**  
   *Parent does:* Show your child the big pot and the small vessel. Ask which will boom at a lower note when a person hums near it, and why.  
-  *Parent says:* We will hum near the mouth of a pot, slowly from low to high. At one note the pot will answer back. Which will answer at a lower note, the big pot or the small tumbler? Why do you think so?  
+  *Parent says:* We will hum near the mouth of a pot, slowly from low to high. At one note the pot will answer back. Which will answer at a lower note, the big pot or the small tumbler?  
   *Child mode:* Hum near a pot. Find the note where it booms. Which booms at a lower note, the big pot or the small tumbler?
   - Ask: Why might a big pot answer at a lower note? (good: It has more air inside.; It is like a long string.; A bigger space makes a deeper sound.)
   - Note: Do not correct the guess. Most children say bigger means lower. The test can show it.
@@ -405,9 +405,9 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
   - Note: Expected: the small vessel answers at a higher note than the big one. The small bathroom often has a note where a hum sounds big, and this is why singing in the bathroom sounds good. A bathroom's note is very low, so a deep adult voice finds it more easily, and a child may find none. Let a deep-voiced adult try if there is one. In a group, one person hums and the others listen from the doorway to say if it sounded bigger. Compare depth too: the deeper vessel should answer at the lower note. If nothing booms, that is a real result.
   - Check: The small tumbler booms at a higher note than the big pot. What is the best reason? → **The smaller space has a shorter air column, so its natural note is higher**
 - **s4 (5 min)**  
-  *Parent does:* Ask your child for their claim, evidence and reasoning. Then ask where else they have heard a space answer back, such as a stairwell, a temple hall or a well.  
-  *Parent says:* What is your claim about which space answers at the lowest note? What did you notice? Why do you think so? Where else have you heard a place answer back when you sing or shout?  
-  *Child mode:* Which space gave the lowest note? Why? Where else have you heard this?
+  *Parent does:* Ask which space answered at the lowest note and how they know. Then ask where else they have heard a space answer back, such as a stairwell, a temple hall or a well.  
+  *Parent says:* Which space answered at the lowest note? What did you notice? Where else have you heard a place answer back when you sing or shout?  
+  *Child mode:* Which space gave the lowest note? Where else have you heard a place answer back?
   - Ask: Why does singing in a bathroom sound better than singing in a field? (good: The walls bounce the sound back.; The room boosts some notes.; The space answers at some notes and makes them louder.)
 
 ## Projects
@@ -417,12 +417,12 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 - **schedule:** day 1: Tune the five bottles to Sa, Re, Ga, Pa and Dha by adding water, and label them. (30 min); day 2: Practise a short tune, play it for the family, and record the water amounts in a table. (20 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the bottles and the harmonium or keyboard. Ask for a guess and a reason about which bottle will need the most water for Sa and which for Dha.  
-  *Parent says:* We will tune five bottles to Sa, Re, Ga, Pa and Dha, by changing the water. Which note needs the most water, Sa or Dha? Why do you think so?  
+  *Parent says:* We will tune five bottles to five notes of the scale: Sa, Re, Ga, Pa and Dha. We do it by changing the water. Which note needs the most water, Sa or Dha?  
   *Child mode:* Tune five bottles to a scale with water. Which needs most water, Sa or Dha?
   - Ask: Why do you think that note needs more water? (good: More water means a shorter air column and a higher note.; A low note needs lots of air, so little water.; I will have to try it.)
   - Note: Do not correct the guess. The answer is that Dha, the highest, needs the most water, because the air column is shortest. Children may need the Tap or Blow test first to remember this. Roles: with one child, you play the keyboard note and your child tunes the bottle. With 2 to 4 children, each child tunes one or two bottles, then all come together to play the tune, one bottle each.
 - **s2 (25 min)**  
-  *Parent does:* First blow across the empty bottle and find its note on the harmonium or keyboard. Call that note Sa. Now play Re, Ga, Pa and Dha above it. For each next bottle, start with the first-guess amount in the parent note and blow across it. If the note is too low, add water. If it is too high, pour a little out. Match it, and label the bottle. Each bottle needs more water than the one before.  
+  *Parent does:* First blow across the empty bottle and find its note on the harmonium or keyboard. Call that note Sa. Now play Re, Ga, Pa and Dha above it. For each next bottle, pour in a little water and blow across it. If the note is too low, add water. If it is too high, pour a little out. Match it, and label the bottle. Each bottle needs more water than the one before.  
   *Parent says:* Blow across the empty bottle. Play that note on the harmonium. We will call it Sa. Now fill the next bottle a little and blow across it. Is it lower or higher than Sa? Add water to go higher, or pour some out to go lower. Match it, and label it. Then do Re, Ga, Pa and Dha.  
   *Child mode:* Play a note. Blow across a bottle. Add water to go higher. Pour out to go lower.
   - Note: A bottle's lowest blown note is often below the harmonium's usual Sa, so we start from the bottle's own note, and the empty bottle is Sa. Typical first guesses for a 250 to 300 millilitre bottle, to be tuned by ear: Re about 50 millilitres, Ga about 90, Pa about 140, Dha about 170. Your bottles will differ, so trust your ears. Add water in small amounts, 10 millilitres at a time. Blow gently, because a hard blow jumps to a higher note. Each higher note needs more water. If you have no harmonium, use a keyboard app on a phone, or sing the scale and match by ear. Write the amounts of water as you go.
@@ -435,7 +435,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
   - Wait: Do this on day 2.
 - **s4 (15 min)**  
   *Parent does:* Choose a short tune made of those five notes. Practise it, and then play it for the family. Write down the water amounts and the air column lengths in your table. Notice if equal steps in notes needed equal steps in water.  
-  *Parent says:* Choose a tune that uses only these five notes. Practise it a few times, and then play it for the family. Afterwards, look at your table. Did each step up the scale need the same extra water?  
+  *Parent says:* Choose a tune that uses only these five notes. Practise it a few times, and then play it for the family. Afterwards, look at your table.  
   *Child mode:* Pick a tune. Practise it. Play it for your family. Look at your water amounts.
   - Ask: Did each step up the scale need the same extra water? (good: No, the higher steps needed more water.; Some steps needed a lot more than others.; The water amounts were not even.)
   - Note: Expected: the amounts of water do not rise evenly. Notes are spaced by ratios, not by equal steps, and a bottle's note depends on its air volume in a more complicated way than a plain pipe. Do not worry if your numbers look uneven. The Dha bottle usually has roughly a third as much air in it as the Sa bottle, though this varies. If you have only a few bottles, play a three-note tune (Sa, Ga, Pa).
@@ -444,14 +444,14 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
 ## Challenges
 ### c1 · One Tube, Three Notes (40 min)
 - **problem:** You have one cardboard tube, such as a kitchen foil roll tube. Make it play three clearly different notes without making it any longer. Then play three notes in a row, each held for two seconds.
-- **your turn:** Sketch your design on paper. Build it and test it. Change one thing, such as the position of a hole, and test again. Which design gave the three clearest notes? Why do you think it worked?
+- **your turn:** Plan your design by sketching it or telling a grown-up. Build it and test it. Change one thing, such as the position of a hole, and test again. Which design gave the three clearest notes? Why do you think it worked?
 - **constraints:** Use only one cardboard tube, about 25 to 30 centimetres long. You may use tape, clay and paper.; A grown-up does all the cutting. Cut off no more than a third of the tube, and keep every piece.; The notes must be made only by blowing across the tube. No humming into it, and no buzzing of the lips.; The three notes must be clearly different, so that a listener with their eyes closed can tell them apart.; Hold each note steady for two seconds.
 - **general:** Cover the far end of the tube with your palm for a lower note, and uncover it for a higher note. A tube closed at one end sounds an octave lower than the same tube open at both ends.; Stop the far end with a plug of clay, and slide a second piece of tube in to shorten the air column.; Cut the tube shorter in steps and use three different lengths.
 - **creative:** Make two small holes in the side, covered with tape, like a bansuri. Uncover them one at a time to shorten the air column.; Slide one tube inside another, like a trombone, to change the length as you play.; Use a funnel of paper at the end to make the note louder, and tune it by pushing the paper in.; Fill part of the tube with water to shorten the air column, using a tube that is closed at the bottom.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch two or three ways to change the air column in the tube.  
-  *Parent says:* You have one tube, and you must get three notes out of it. What changes the note of an air column? Draw some ideas for how you could make the air column longer or shorter.  
-  *Child mode:* Get three notes from one tube. Draw two ideas for changing the air column.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to tell you, or sketch, two or three ways to change the air column in the tube.  
+  *Parent says:* You have one tube, and you must get three notes out of it. Tell me some ideas for changing the air inside it. You can draw them if you like.  
+  *Child mode:* Get three notes from one tube. Tell your grown-up two ideas for changing the air column. You can draw them too.
   - Ask: What changes the note of a tube? (good: The length of the air column.; Whether the far end is open or closed.; How hard I blow.)
 - **s2 (8 min)**  
   *Parent does:* Learn to get a note first. Hold the tube upright and rest your lower lip on one edge of the open end. Blow a thin stream across the opening. Find the position that gives a clear note. Then cover the far end with your palm and listen again.  
@@ -460,7 +460,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
   - Note: It takes time to find the position that gives a clear note. Tilt the tube a little. If it still will not sing, wet your lower lip. Expected: with the far end closed, the note is about an octave lower. If your child cannot make a note, use a shorter tube first, or tape a thin paper strip over half of the opening, so the air has a sharp edge to hit. It is harder to get a note from a wide tube than a narrow one, so a thinner tube or a plastic bottle neck also works. In a group, each child needs their own tube. Children can take turns helping the grown-up who cuts, but they never use the scissors.
   - Check: Covering the far end of the tube makes the note lower. What is the best reason? → **A tube closed at one end has a natural note about an octave lower than the same tube open at both ends**
 - **s3 (12 min)**  
-  *Parent does:* Build your first design. Test whether it gives three clearly different notes. Ask a listener with their eyes closed to tell the notes apart. Write down what works.  
+  *Parent does:* Build your first design, for example side holes covered with tape that you uncover one at a time. Test whether it gives three clearly different notes. Ask a listener with their eyes closed to tell the notes apart. Write down what works.  
   *Parent says:* Build your first design. Play your three notes. Ask a listener with their eyes closed whether they can tell them apart. Write down what worked and what did not.  
   *Child mode:* Build your design. Play three notes. Can a listener tell them apart?
   - Note: A grown-up cuts any holes with scissors, with the child watching from a distance, and keeps all the pieces. With 2 to 4 children, each child designs and tests their own tube, then the group votes which tube gave the clearest notes. Mark the hole positions with a pencil first. Tell the child that holes nearer the far end change the note less than holes near the blowing end. The first try rarely works, and that is fine.
@@ -471,7 +471,7 @@ Valli had an idea. With Muthu Thatha's help she poured different amounts of wate
   - Ask: What did you change, and what did it do to the note? (good: I moved the hole closer to my mouth and the note went higher.; A shorter air column gave a higher note.; Closing the end gave a lower note.)
 - **s5 (4 min)**  
   *Parent does:* Ask your child to explain which design worked best, and how it uses the length of the air column.  
-  *Parent says:* Which design gave the three clearest notes? How did you change the air column? How is a bansuri like your tube?  
+  *Parent says:* Which design gave the three clearest notes? How did you change the air column?  
   *Child mode:* Which design was best? How did you change the air?
   - Ask: How is a bansuri like your tube? (good: Both have holes to shorten the air column.; Both make the note by blowing across an edge.; A bansuri is a tube with holes in the side.)
 

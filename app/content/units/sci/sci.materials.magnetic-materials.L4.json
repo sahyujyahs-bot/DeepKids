@@ -652,8 +652,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Play the next six cards. Ask the question below after the last one.",
-     "say": "Look for the pattern now. What do the SLOW things have in common? And the SKIP things?",
-     "kid": "Play six more cards. Look for a pattern in the SLOW cards and the SKIP cards.",
+     "say": "Look for a pattern now. What do the SKIP things have in common?",
+     "kid": "Play six more cards. Look for a pattern.",
      "ask": [
       {
        "q": "What do the SLOW things have in common?",
@@ -669,9 +669,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Play six more cards. Stop at the card with the cup of tea, and ask the check question.",
-     "say": "Tea is mostly water, and water carries a little electricity. But is the effect on a fast magnet large enough to see? Think before you answer.",
-     "kid": "Play six more cards. Think about the cup of tea.",
+     "do": "Play six more cards. Then ask the check question.",
+     "say": "Think about all the cards where the fast magnet dragged something. What was that thing made of?",
+     "kid": "Play six more cards. Then answer the question.",
      "check": {
       "t": "mcq",
       "q": "A fast magnet drags an aluminium can but not a plastic bottle. What is the best reason?",
@@ -809,7 +809,7 @@
      "mins": 4,
      "do": "Play one practice card together. Ask the question below after the answer is revealed.",
      "say": "Here is a practice card. Reveal one clue at a time. Which clue made you most sure?",
-     "kid": "Play a practice card. Which clue made you most sure?",
+     "kid": "Play a practice card. Guess after each clue.",
      "ask": [
       {
        "q": "Which kind of clue helps most to name a metal?",
@@ -846,7 +846,7 @@
      "mins": 5,
      "do": "Play the remaining cards. After each one, ask whether the magnet clue or the use clue helped more.",
      "say": "Which kind of clue helped most this time? What a magnet does to the metal, what the metal is used for, its colour or what it is mixed with?",
-     "kid": "Play the other cards. Which kind of clue helped most?",
+     "kid": "Play the other cards. Notice which clue helps you most.",
      "context": "In this step you play the remaining cards and think about which clues help most."
     },
     {
@@ -906,7 +906,7 @@
     }
    ],
    "safety": "Keep the magnet away from phones, watches and bank cards. Keep magnets away from children under five, who might put them in their mouths. Hold vessels by the sides so nothing slips and drops on a foot.",
-   "record": "Fill in the results table. Then draw a tumbler and a spoon. Next to every spot you tested, write the middle score of its three tries. Colour the spots with a score of 2 or 3.",
+   "record": "Fill in the results table with the middle score of the three tries for every spot. You may also draw a tumbler and a spoon and colour the spots with a 2 or 3, or just point to them and tell your grown-up.",
    "schedule": [
     {
      "day": 1,
@@ -934,7 +934,7 @@
     },
     {
      "art": "Outline drawings of a tumbler and a spoon with scores written next to the spots.",
-     "caption": "5. Draw each thing and write the score at each spot."
+     "caption": "5. Write the middle score at each spot. Point to the sticky ones."
     }
    ],
    "flow": [
@@ -942,8 +942,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Put the steel things on the table. Ask your child to guess a score from 0 to 3 for each spot, for how firmly the magnet will hold there. Ask which part of a tumbler will hold the magnet best. Write the guesses in the table.",
-     "say": "All of these are called steel. Will a magnet stick to all of them in the same way? And will it stick to every part of one tumbler? Guess a score from 0 to 3 for each spot. 0 means the magnet does not hold at all, and 3 means it holds firmly. Why do you think so?",
-     "kid": "All of these are steel. Will the magnet stick to all of them in the same way? Guess. Why do you think so?",
+     "say": "All of these are called steel. Will a magnet stick to all of them in the same way? Guess a score from 0 to 3 for each spot. 0 means the magnet does not hold at all, and 3 means it holds firmly. Why do you think so?",
+     "kid": "Guess how firmly the magnet will hold on each spot. Say why you think so.",
      "ask": [
       {
        "q": "Which part of the tumbler do you think will hold the magnet best?",
@@ -1019,9 +1019,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Work out the middle score of the three tries for each spot. Draw the tumbler and the spoon, and write the middle score next to each spot. Colour in the spots with a 2 or a 3.",
-     "say": "The middle score is the one in the middle when you put your three scores in order. For example, scores of 1, 3 and 2 have a middle score of 2. Find the middle score for each spot. Draw a tumbler and a spoon. Write the score at each spot, and colour the sticky places.",
-     "kid": "Find the middle score of the three tries. Draw a tumbler and a spoon with the scores. Colour the sticky spots.",
+     "do": "Work out the middle score of the three tries for each spot, and write it in the table. Then ask your child to point to the spots that scored a 2 or a 3. Ask for each score.",
+     "say": "The middle score is the one in the middle when you put your three scores in order. For example, scores of 1, 3 and 2 have a middle score of 2. Find the middle score for each spot and write it in the table. Then point to the places on the tumbler and the spoon where the magnet held well, and tell me the score.",
+     "kid": "Find the middle score of the three tries. Point to the sticky spots on the tumbler and the spoon.",
      "context": "In this step you turn your scores into a map of where the magnet sticks."
     },
     {
@@ -1029,7 +1029,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
+     "kid": "Look at your table. Tell what you think now, what you saw, and why.",
      "parent": "A good answer sounds like this. What I think: steel is a family, and a magnet does not stick to every kind or every spot. What I saw: the spoon stuck at its neck and not at its bowl, and the pan base scored 3. Why: steels are different mixtures, and bending changes the steel inside.",
      "context": "In this last step you say what you think, what you saw and why."
     }
@@ -1078,7 +1078,7 @@
     }
    ],
    "safety": "Strong magnets can pinch skin and chip if they snap together or onto steel. Wrap the magnet in cloth and keep it away from the steel tin. Keep strong magnets away from children under five, phones, watches and bank cards. A grown-up must remove the lid of the steel tin with a smooth-edge opener, and cover the rim with tape.",
-   "record": "Fill in the table. Draw the three things in a row, and draw an arrow for how far each rolled after a fast swish.",
+   "record": "Fill in the table. Line up the three things from the one that rolled furthest after a fast swish to the one that rolled least. You may also draw them in a row.",
    "schedule": [
     {
      "day": 1,
@@ -1086,7 +1086,7 @@
      "what": "Tape a start line on a flat table. Test a still magnet on each thing. Swish slowly and fast five times each. Compare the three things. Say what you think, what you saw and why."
     }
    ],
-   "context": "In this experiment, you swish a strong magnet past an aluminium can, a plastic bottle and a steel tin. You find out which ones move, and when.",
+   "context": "In this experiment, you swish a strong magnet past an aluminium can, a plastic bottle and a steel tin. You find out whether a magnet can move a can that it does not stick to, and which of the three things moves.",
    "setup": [
     {
      "art": "A smooth table with a taped start line, a tape measure laid beside it and an aluminium can lying on its side.",
@@ -1106,7 +1106,7 @@
     },
     {
      "art": "A bar chart of roll distances for the can, the bottle and the tin.",
-     "caption": "5. Draw a bar for each thing, as long as its fast roll."
+     "caption": "5. Line the things up, from the furthest roll to the shortest."
     }
    ],
    "flow": [
@@ -1115,7 +1115,7 @@
      "mins": 4,
      "do": "Show your child the three things and the magnet. Ask what will happen to each thing when the magnet is held still, and when it is swished quickly past. Ask for a reason. Write the guesses at the top of the table.",
      "say": "Here is a strong magnet, an aluminium can, a plastic bottle and a steel tin. What will the magnet do to each when I hold it still? What about when I swish it quickly past? Why do you think so?",
-     "kid": "You have a strong magnet and three things. What will happen to each thing if the magnet is still? What if it moves fast? Why do you think so?",
+     "kid": "Guess what each thing does when the magnet is still. Then guess what it does when the magnet moves fast. Say why.",
      "ask": [
       {
        "q": "Do you think the aluminium can will move towards the magnet?",
@@ -1172,8 +1172,8 @@
      "id": "s5",
      "mins": 8,
      "do": "Swish the magnet past the plastic bottle slowly and fast, five times each, and write the rolls. Then do the same for the steel tin, keeping the magnet from touching it.",
-     "say": "Now the plastic bottle, which does not carry electricity. Does it move? And the steel tin. What is different about how it moves?",
-     "kid": "Swish the magnet past the plastic bottle. Does it move? Now the steel tin. What is different?",
+     "say": "Now the plastic bottle. Does it move? Then the steel tin.",
+     "kid": "Swish the magnet past the plastic bottle. Does it move? Now try the steel tin.",
      "ask": [
       {
        "q": "How is the steel tin different from the aluminium can?",
@@ -1190,9 +1190,9 @@
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then draw the three things in a row, with an arrow for how far each rolled after a fast swish.",
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then line the three things up on the table. Put the one that rolled furthest first.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
+     "kid": "Look at your table. Tell what you think now, what you saw, and why.",
      "parent": "A good answer sounds like this. What I think: a moving magnet pushes an aluminium can, though a still magnet does not. What I saw: the can rolled after a fast swish, the bottle did not, and the tin stuck to a still magnet. Why: a moving magnet makes swirling currents in the can, and the currents push back.",
      "context": "In this last step you say what you think, what you saw and why."
     }
@@ -1241,7 +1241,7 @@
     }
    ],
    "safety": "Strong magnets can chip or snap onto steel. Wrap the magnet in tape and do not let it hit the plates hard. Keep magnets away from children under five, phones and bank cards. If a magnet sticks to the steel plate, do not use that plate.",
-   "record": "Fill in the table. Then draw a bar for each plate, as tall as its middle number of swings.",
+   "record": "Fill in the table. Then line up the plates from the one that stopped the magnet soonest to the one that stopped it last, with the middle number of swings beside each. You may also draw a bar for each plate, as tall as its middle number.",
    "schedule": [
     {
      "day": 1,
@@ -1265,7 +1265,7 @@
     },
     {
      "art": "A bar chart with four bars for the wooden board, the plastic tray, the aluminium plate and the steel plate.",
-     "caption": "4. Draw a bar for each plate."
+     "caption": "4. Line up the plates. Put each middle count beside its plate."
     }
    ],
    "flow": [
@@ -1274,7 +1274,7 @@
      "mins": 4,
      "do": "Show your child the plates and the magnet. Ask them to put the plates in order, from the one that will stop the magnet soonest to the one that will stop it last, and to give a reason. Write the order down.",
      "say": "We will swing a magnet over four plates. Which plate do you think will stop it soonest? Which will stop it last? Why do you think so?",
-     "kid": "A magnet swings over four plates. Which stops it soonest? Which last? Why?",
+     "kid": "Put the four plates in order. Which will stop the magnet soonest? Which last?",
      "ask": [
       {
        "q": "Why do you think that plate will stop the magnet soonest?",
@@ -1339,9 +1339,9 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Take the middle count for each plate. Draw one bar for each plate, as tall as its middle count.",
-     "say": "Put your three counts in order and take the one in the middle. Draw a bar for each plate. The shorter the bar, the sooner the plate stopped the magnet.",
-     "kid": "Find the middle count for each plate. Draw a bar for each. A short bar means a good stopper.",
+     "do": "Take the middle count for each plate. Line the four plates up on the table. Put the soonest stopper first. Put a note with the middle count beside each plate.",
+     "say": "Put your three counts in order and take the one in the middle. Line the plates up from the one that stopped the magnet soonest to the one that stopped it last. Put each middle count beside its plate.",
+     "kid": "Find the middle count for each plate. Line the plates up from the soonest stopper to the last.",
      "context": "In this step you turn your counts into a bar chart."
     },
     {
@@ -1349,7 +1349,7 @@
      "mins": 2,
      "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say or write three things: what you think, what you saw, and why you think it happened.",
+     "kid": "Look at your table. Tell what you think now, what you saw, and why.",
      "parent": "A good answer sounds like this. What I think: metals that carry electricity well stop a swinging magnet. What I saw: the aluminium plate stopped it in a few swings, and the wood and plastic did not. Why: the moving magnet made swirling currents in the aluminium, and those pushed back.",
      "context": "In this last step you say what you think, what you saw and why."
     }
@@ -1409,8 +1409,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Put the vessels on the counter. Ask your child to guess which ones would heat on an induction stove, and why. Write the guesses on the sheet.",
-     "say": "An induction stove heats a pan using magnets and electricity, with no flame. Which of these vessels do you think would work on it? Why do you think so?",
-     "kid": "Which vessels would heat on an induction stove? Guess. Why?",
+     "say": "An induction stove heats a pan using magnets and electricity, with no flame. Some pans work on it and some do not.",
+     "kid": "Guess which vessels would heat on an induction stove. Say why.",
      "ask": [
       {
        "q": "Which vessel do you think will work best on an induction stove?",
@@ -1447,8 +1447,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Sort the vessels into the three boxes: sticks firmly, sticks weakly, does not stick. Mark a star next to every vessel that did not match your guess.",
-     "say": "Which vessels went into each box? Were any of your guesses wrong? Which one surprised you?",
-     "kid": "Sort the vessels into three boxes: sticks firmly, sticks weakly, does not stick. Which one surprised you?",
+     "say": "Put each vessel in a box. Were any of your guesses wrong?",
+     "kid": "Sort the vessels into three boxes: sticks firmly, sticks weakly, does not stick.",
      "ask": [
       {
        "q": "Which vessel surprised you most?",
@@ -1467,7 +1467,7 @@
      "mins": 2,
      "do": "Ask your child to say one sentence about what the magnet can and cannot tell you about a vessel.",
      "say": "A magnet test is a quick guide. What can it tell us about a pan? And what can it not tell us?",
-     "kid": "What can the magnet tell you about a pan? What can it not tell you?",
+     "kid": "Finish this: a magnet can tell me ..., but it cannot tell me ...",
      "think": "A magnet that sticks says the base is magnetic steel. A magnet that does not stick does not say what the vessel is made of. Why not?",
      "context": "In this last step you think about what the magnet test can and cannot tell you."
     }
@@ -1508,7 +1508,7 @@
      "what": "Write five questions. Visit a kabadiwala, a scrap dealer or a waste picker with a grown-up. Listen. Write down how they tell metals apart. Compare with what you know."
     }
    ],
-   "record": "The notebook with the five questions and the answers, and one drawing of a way of telling metals apart that you did not know before.",
+   "record": "The notebook with the five questions and the answers, and one sentence about a way of telling metals apart that you did not know before. You may add a drawing.",
    "context": "In this activity, you ask someone who sorts metal for a living how they tell iron, aluminium, brass and copper apart. You compare their ways with the magnet tests in this unit.",
    "setup": [
     {
@@ -1521,7 +1521,7 @@
     },
     {
      "art": "A page in a notebook with drawings of a magnet, a tapping hand and a hand weighing a piece of metal.",
-     "caption": "3. Draw the ways of telling metals apart that you learned."
+     "caption": "3. Show a way of telling metals apart that you learned."
     }
    ],
    "flow": [
@@ -1548,7 +1548,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Visit the sorter with your child. Be polite and listen. Ask the five questions, and write down the answers. If they agree, ask them to sort your four test things and say how they know.",
+     "do": "Visit the sorter with your child. If you cannot find one, ask a utensil or hardware shop owner. Be polite and listen. Ask the five questions, and write down the answers. If they agree, ask them to sort your four test things and say how they know.",
      "say": "Thank you for talking to us. We are learning about metals and magnets. How do you tell different metals apart? Could you show us with these four things?",
      "kid": "Ask your questions politely. Listen carefully. Write the answers.",
      "adult": true,
@@ -1577,9 +1577,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Draw one way of telling metals apart that you did not know before. Write one sentence under it.",
-     "say": "Draw the new way you learned. Write one sentence about it.",
-     "kid": "Draw a new way you learned. Write one sentence.",
+     "do": "Ask your child to show one new way of telling metals apart, using the four test things. Then write one sentence about it.",
+     "say": "Show me the new way you learned, using these things. Then we will write one sentence about it.",
+     "kid": "Show a new way you learned, using the test things. Write one sentence.",
      "think": "A sorter and a recycling centre both sort metal. What can the sorter do that the machine cannot?",
      "context": "In this last step you draw the new way you learned."
     }
@@ -1616,7 +1616,7 @@
     }
    ],
    "record": "The big sheet with three columns and all 20 cards laid out, and a ring around the cards you got wrong.",
-   "context": "In this activity, you sort twenty things into three columns by what a very strong magnet would do to them: attract them strongly, attract them very weakly, or push them away very weakly.",
+   "context": "In this activity, you sort twenty things into three columns by what a very strong magnet would do to them: attract them strongly, attract them very weakly, or push them away very weakly. You find out that a strong magnet acts a little on almost everything, not only on iron.",
    "setup": [
     {
      "art": "A big sheet of paper with three columns marked strong pull, tiny pull and tiny push.",
@@ -1636,8 +1636,8 @@
      "id": "s1",
      "mins": 6,
      "do": "Draw three columns on the big sheet. Then write twenty things on cards. Use iron, nickel, cobalt, a steel nail, aluminium, magnesium, platinum, the oxygen in the air and titanium. Add copper, gold, silver, water, wood, glass, a diamond, lead, zinc, bismuth and your own hand.",
-     "say": "A very strong magnet pulls a few of these a lot. It pulls some a tiny bit, and pushes the rest a tiny bit. Write each name on a card. We need three columns on the big sheet. The first column is 'pulled strongly'. The second is 'pulled a tiny bit'. The third is 'pushed away a tiny bit'. Then guess which column each card belongs in.",
-     "kid": "Draw three columns: pulled strongly, pulled a tiny bit, pushed away a tiny bit. Write the twenty names on cards. Guess which column each one goes in.",
+     "say": "A very strong magnet pulls a few of these a lot. It pulls some a tiny bit, and pushes the rest a tiny bit. Write each name on a card. Make three columns on the big sheet. The first column is 'pulled strongly'. The second is 'pulled a tiny bit'. The third is 'pushed away a tiny bit'.",
+     "kid": "Write the twenty names on cards. Make three columns: pulled strongly, pulled a tiny bit, pushed away a tiny bit.",
      "parent": "Bismuth is a brittle silvery metal, and the strongest of the pushed-away materials. The oxygen in the air is pulled a tiny bit. The key that you read out later gives the column for everything else in the list.",
      "context": "This is the first step of Three Columns. You write the cards."
     },
@@ -1683,7 +1683,7 @@
      "mins": 4,
      "do": "Ask your child which cards surprised them most, and why. Then ask whether there is a card in the 'tiny push' column that is also a metal. Count how many of the metals are in each column.",
      "say": "Which card surprised you most? How many metals are in the tiny push column? Can a metal be pushed away by a magnet?",
-     "kid": "Which card surprised you most? Are there metals in the tiny push column?",
+     "kid": "Count the metals in each column. Tell your grown-up which card surprised you most.",
      "think": "A fridge magnet cannot show the tiny pulls and pushes. A huge magnet can. Are the tiny pulls and pushes there even when nobody measures them?",
      "context": "In this last step you talk about which cards surprised you."
     }
@@ -1719,7 +1719,7 @@
      "what": "Draw a conveyor belt. Decide the order of the four machines. Run the eight waste cards through your line. Explain your design."
     }
    ],
-   "record": "The drawing of your sorting line, with the four machines in order, and a list of what ended up in each bin.",
+   "record": "The sheet with your sorting line, with the four machine cards in order, and a list of what ended up in each bin.",
    "context": "In this activity, you plan the order of the machines in a recycling centre on paper. You use what a magnet and a spinning magnet drum do to sort a heap of mixed waste.",
    "setup": [
     {
@@ -1741,7 +1741,7 @@
      "mins": 5,
      "do": "Lay out the eight waste cards and the four machine cards. Explain what each machine does. The Magnet lifts steel. The Spinning Magnet Drum throws aluminium, brass and copper off the belt. The Air Blower lifts light paper and film. Hands pick everything else.",
      "say": "A recycling centre has four stations. The Magnet lifts steel. The Spinning Drum throws off aluminium, brass and copper. The Blower lifts light paper. Hands pick the rest. In what order would you put them?",
-     "kid": "There are four machines. Which should come first? Which should come last? Guess.",
+     "kid": "Look at the four machine cards. Guess what order they should go in.",
      "ask": [
       {
        "q": "Which machine do you think should come first?",
@@ -1760,7 +1760,7 @@
      "mins": 8,
      "do": "Draw the belt on the big sheet. Place the four machine cards along it in the order your child chooses. Ask them to explain why each machine is where it is.",
      "say": "Put the machines along the belt. Explain why each one goes where it does. What goes wrong if two are swapped?",
-     "kid": "Put the four machines along the belt. Say why each goes where it does.",
+     "kid": "Put the four machine cards along the belt in your order.",
      "check": {
       "t": "mcq",
       "q": "Why does a real centre take the steel out before the spinning magnet drum?",
@@ -1777,7 +1777,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Run each of the eight waste cards through your line, one at a time. Say which machine takes it out, and put it in a bin at the end. Mark any card that goes wrong.",
+     "do": "Run each of the eight waste cards through your line, one at a time. Say which machine takes it out, and put it in a bin, a spot at the end of the belt. Mark any card that goes wrong.",
      "say": "Take the steel can first. Which machine takes it out? Then the aluminium can. Then the plastic bottle. Go card by card.",
      "kid": "Run each card along the belt. Which machine takes it out?",
      "parent": "Expected: the steel can is lifted by the Magnet. The aluminium can, the brass key and the copper wire are thrown by the Drum. The paper goes with the Blower. The plastic bottle, the glass jar and the rubber slipper are picked by Hands, or fall off the end.",
@@ -1787,7 +1787,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Talk about the people who work in a centre like this. Ask: where in the line does a person do something that a machine cannot?",
-     "say": "A machine cannot tell a glass jar from a clear plastic jar. Who does? What would happen to this line without them?",
+     "say": "Our machines cannot tell a clear glass jar from a clear plastic jar. Who could? What would happen to this line without them?",
      "kid": "Which jobs on the line need a person? Why?",
      "think": "In India, waste pickers often do the sorting by hand. Where on this line would their skill help most?",
      "context": "In this last step you think about the people who work in sorting."
@@ -1825,8 +1825,8 @@
      "what": "Guess whether rust sticks. Test the rusty nail and its flakes with a wrapped magnet. Explain what you found."
     }
    ],
-   "record": "A short table: new nail, rusty nail, rust flakes, and whether each stuck to the magnet. A drawing of the rusty nail cut in half.",
-   "context": "In this activity, you test a rusty nail and the brown flakes that fall off it with a magnet, to find out what a magnet can see in rust.",
+   "record": "A short table: new nail, rusty nail, rust flakes, and whether each stuck to the magnet. One sentence about where the iron is and where the rust is on the nail.",
+   "context": "In this activity, you test a rusty nail and the brown flakes that fall off it with a magnet, to find out if rust itself is magnetic.",
    "setup": [
     {
      "art": "A clean new nail and a rusty old nail side by side on white paper.",
@@ -1894,9 +1894,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask your child to draw the rusty nail cut in half, with the iron core and the rust coat. Ask one sentence about what a magnet can and cannot tell about rust.",
-     "say": "Draw the nail cut in half. Show the iron in the middle and the rust outside. What does the magnet feel?",
-     "kid": "Draw the nail cut in half. Where is the iron? Where is the rust?",
+     "do": "Scrape one small spot of the rusty nail with the edge of the spoon, until grey metal shows. Ask your child where the iron is and where the rust is. Ask one sentence about what a magnet can and cannot tell about rust.",
+     "say": "Look at the scraped spot. The grey is iron, and the brown is rust. Which one does the magnet feel?",
+     "kid": "Look at the scraped spot. Which part is iron? Which part is rust?",
      "think": "A magnet finds iron that is still iron. Can it find iron that has turned to rust?",
      "context": "In this last step you draw the inside of a rusty nail and think about what the magnet feels."
     }
@@ -1958,7 +1958,7 @@
     },
     {
      "art": "A big poster on the fridge with three coloured zones and drawings of kitchen things in each.",
-     "caption": "3. Draw a poster with three zones and stick it on the fridge."
+     "caption": "3. Make a poster with three zones and stick it on the fridge."
     }
    ],
    "flow": [
@@ -2012,9 +2012,9 @@
     {
      "id": "s4",
      "mins": 15,
-     "do": "On day 2, draw the poster on the big sheet with three zones: sticks firmly, sticks weakly, does not stick. Draw or write each thing in its zone. Add a note: an induction stove needs a pan that holds a magnet firmly on its base.",
-     "say": "Draw the map of our kitchen. Make three zones. Put each thing in its zone. Add a note for the induction stove.",
-     "kid": "Draw a poster with three zones. Put each kitchen thing in its zone.",
+     "do": "On day 2, make the poster on the big sheet with three zones: sticks firmly, sticks weakly, does not stick. Write each thing on a sticky note and stick it in its zone. Add a note: an induction stove needs a pan that holds a magnet firmly on its base.",
+     "say": "Make the map of our kitchen. Make three zones. Put each thing in its zone. Add a note for the induction stove.",
+     "kid": "Make a poster with three zones. Put each kitchen thing in its zone.",
      "parent": "Make the poster large, with clear drawings, so it is useful to the whole family. Add a line saying that a magnet test cannot tell which metal a thing is made of.",
      "context": "On day 2, you draw the poster with the three zones."
     },
@@ -2059,7 +2059,7 @@
     "Add a fourth kind of test if you can, such as how heavy the piece feels, and see if it removes a question.",
     "Draw a second flowchart with a different order of questions, and see which one is shorter."
    ],
-   "your_turn": "Draw your flowchart. Test it on all six pieces. Count the questions each piece needed. Can you find a shorter flowchart? Which question was most useful?",
+   "your_turn": "Draw your flowchart, or lay it out with slips of paper. Test it on all six pieces. Count the questions each piece needed. Can you find a shorter flowchart? Which question was most useful?",
    "context": "This is a design challenge about using tests wisely. You find the fewest questions that name six mystery metals.",
    "setup": [
     {
@@ -2080,8 +2080,8 @@
      "id": "s1",
      "mins": 8,
      "do": "A helper chooses the six pieces and numbers them in secret. Look at them with your child. Ask them to guess what each piece is made of, and which test would help most.",
-     "say": "Here are six mystery pieces. Which test would split them into two groups most evenly? Think before you begin.",
-     "kid": "Six mystery pieces. Which test splits them best? Guess.",
+     "say": "Here are six mystery pieces of metal. What do you think each one is made of? Why?",
+     "kid": "Look at the six pieces. Guess what each one is made of.",
      "ask": [
       {
        "q": "What is the best first question to ask about the pieces?",
@@ -2117,9 +2117,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "Draw a flowchart. Start with the question you chose. Draw a box for each question and arrows for yes and no. Make sure every piece reaches a name in three questions or fewer.",
-     "say": "Draw your flowchart. Start with the question you think is best. Each piece must end at a name in three questions or fewer.",
-     "kid": "Draw a flowchart of yes or no questions. Every piece must end at a name.",
+     "do": "Draw a flowchart. Start with the question you chose. Draw a box for each question and arrows for yes and no. Make sure every piece reaches a name in three questions or fewer. If your child does not like drawing, they can write each question on a slip of paper and lay the slips out in order.",
+     "say": "A flowchart is a map of yes or no questions. Each answer sends you down one path until you reach a name. Start with the question you think is best. Each piece must end at a name in three questions or fewer.",
+     "kid": "Make a flowchart of yes or no questions. Every piece must end at a name.",
      "parent": "Check each branch. If two pieces share a path, the flowchart needs another question. Let your child find the problem before you say.",
      "context": "In this step you draw the flowchart."
     },
@@ -2162,8 +2162,8 @@
     "Draw colours on the card: green for holds firmly, yellow for weak and red for none.",
     "Add a warning that the maker's label is the final word, since a magnet only tells you about the base."
    ],
-   "your_turn": "Sketch your tester. Make it and test it on 8 vessels. Ask someone to use it without your help. Could they follow the instructions? Change the card and test again.",
-   "context": "This is a design challenge about using a simple tool for a real job. You make a magnet-based tester that anyone can use.",
+   "your_turn": "Sketch or describe your tester. Make it and test it on 8 vessels. Ask someone to use it without your help. Could they follow the instructions? Change the card and test again.",
+   "context": "This is a design challenge about using a simple tool for a real job. You make a card with a magnet that tells anyone, in ten seconds, if a pan will probably work on an induction stove.",
    "setup": [
     {
      "art": "A card with a magnet taped to it, a string and short instructions written below.",
@@ -2182,9 +2182,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem. Ask your child to sketch a tester and to say what the three answers should mean.",
-     "say": "A shopkeeper wants a ten-second tester for pans. What should it look like? What should the three answers say? Draw an idea first.",
-     "kid": "Draw a pocket tester for pans. What are the three answers?",
+     "do": "Read the problem. Ask your child to explain, or sketch, how a tester could work, and to say what the three answers should mean.",
+     "say": "A shopkeeper wants a ten-second tester for pans. How could a card and a magnet do that? What should the three answers say?",
+     "kid": "Think of a pocket tester for pans. What should its three answers be?",
      "ask": [
       {
        "q": "What will the tester tell the customer when the magnet holds firmly on the base?",

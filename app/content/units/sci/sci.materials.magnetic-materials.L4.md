@@ -260,13 +260,13 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   - Note: Children usually guess STICK for every metal. Let the card backs correct them. Do not explain before the card is turned.
 - **s3 (5 min)**  
   *Parent does:* Play the next six cards. Ask the question below after the last one.  
-  *Parent says:* Look for the pattern now. What do the SLOW things have in common? And the SKIP things?  
-  *Child mode:* Play six more cards. Look for a pattern in the SLOW cards and the SKIP cards.
+  *Parent says:* Look for a pattern now. What do the SKIP things have in common?  
+  *Child mode:* Play six more cards. Look for a pattern.
   - Ask: What do the SLOW things have in common? (good: They are metals with no iron in them.; They carry electricity very well.; They are aluminium, copper or brass.)
 - **s4 (5 min)**  
-  *Parent does:* Play six more cards. Stop at the card with the cup of tea, and ask the check question.  
-  *Parent says:* Tea is mostly water, and water carries a little electricity. But is the effect on a fast magnet large enough to see? Think before you answer.  
-  *Child mode:* Play six more cards. Think about the cup of tea.
+  *Parent does:* Play six more cards. Then ask the check question.  
+  *Parent says:* Think about all the cards where the fast magnet dragged something. What was that thing made of?  
+  *Child mode:* Play six more cards. Then answer the question.
   - Check: A fast magnet drags an aluminium can but not a plastic bottle. What is the best reason? → **The can carries electricity well, so swirls of electricity form in it**
 - **s5 (2 min)**  
   *Parent does:* Add up the points and name the winner. Talk about which card was hardest.  
@@ -284,7 +284,7 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
 - **s2 (4 min)**  
   *Parent does:* Play one practice card together. Ask the question below after the answer is revealed.  
   *Parent says:* Here is a practice card. Reveal one clue at a time. Which clue made you most sure?  
-  *Child mode:* Play a practice card. Which clue made you most sure?
+  *Child mode:* Play a practice card. Guess after each clue.
   - Ask: Which kind of clue helps most to name a metal? (good: What a magnet does to it.; What it is used for.; What it is mixed with.)
 - **s3 (6 min)**  
   *Parent does:* Play four more cards. Write each guess and its points on the score sheet.  
@@ -294,7 +294,7 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
 - **s4 (5 min)**  
   *Parent does:* Play the remaining cards. After each one, ask whether the magnet clue or the use clue helped more.  
   *Parent says:* Which kind of clue helped most this time? What a magnet does to the metal, what the metal is used for, its colour or what it is mixed with?  
-  *Child mode:* Play the other cards. Which kind of clue helped most?
+  *Child mode:* Play the other cards. Notice which clue helps you most.
 - **s5 (2 min)**  
   *Parent does:* Add up the points and name the winner. Then ask each player which metal was hardest to guess.  
   *Parent says:* Who won? Which metal was hardest to guess, and why?  
@@ -307,12 +307,12 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
 - **predict:** Before you start, look at the steel things. For each spot, guess a score from 0 to 3 for how firmly the magnet will hold: 0 means not at all and 3 means firmly. Also guess which part of a tumbler will hold the magnet best: the rim, the wall or the base. Why do you think so?
 - **fair test:** We use the same magnet and press it for the same three seconds at every spot. We score each spot by how firmly the magnet holds, using the same 0 to 3 scale every time. Each spot is tested three times, because one try can be a fluke. Only the thing and the spot change, so any difference comes from the steel.
 - **safety:** Keep the magnet away from phones, watches and bank cards. Keep magnets away from children under five, who might put them in their mouths. Hold vessels by the sides so nothing slips and drops on a foot.
-- **record:** Fill in the results table. Then draw a tumbler and a spoon. Next to every spot you tested, write the middle score of its three tries. Colour the spots with a score of 2 or 3.
+- **record:** Fill in the results table with the middle score of the three tries for every spot. You may also draw a tumbler and a spoon and colour the spots with a 2 or 3, or just point to them and tell your grown-up.
 - **results table:** Thing and spot | My guess (0 to 3) | Try 1 | Try 2 | Try 3 | Middle score
 - **s1 (5 min)**  
   *Parent does:* Put the steel things on the table. Ask your child to guess a score from 0 to 3 for each spot, for how firmly the magnet will hold there. Ask which part of a tumbler will hold the magnet best. Write the guesses in the table.  
-  *Parent says:* All of these are called steel. Will a magnet stick to all of them in the same way? And will it stick to every part of one tumbler? Guess a score from 0 to 3 for each spot. 0 means the magnet does not hold at all, and 3 means it holds firmly. Why do you think so?  
-  *Child mode:* All of these are steel. Will the magnet stick to all of them in the same way? Guess. Why do you think so?
+  *Parent says:* All of these are called steel. Will a magnet stick to all of them in the same way? Guess a score from 0 to 3 for each spot. 0 means the magnet does not hold at all, and 3 means it holds firmly. Why do you think so?  
+  *Child mode:* Guess how firmly the magnet will hold on each spot. Say why you think so.
   - Ask: Which part of the tumbler do you think will hold the magnet best? (good: The base, because it is thickest.; All parts the same, because it is all steel.; The rim, because it is rolled.)
   - Note: Do not correct any guess. Many children say all steel will stick the same. Write the guesses down to compare later.
 - **s2 (6 min)**  
@@ -334,25 +334,25 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   - Note: Expect some things to score 3, some 0, and some in between. A pan sold for induction cooking should score 2 or 3 on its base. Write exactly what you find, even if it is odd.
   - Check: A steel spoon sticks weakly at the bent neck and not at the smooth bowl. What is the best explanation? → **Bending changed the steel inside, so more of its tiny magnets can line up**
 - **s5 (5 min)**  
-  *Parent does:* Work out the middle score of the three tries for each spot. Draw the tumbler and the spoon, and write the middle score next to each spot. Colour in the spots with a 2 or a 3.  
-  *Parent says:* The middle score is the one in the middle when you put your three scores in order. For example, scores of 1, 3 and 2 have a middle score of 2. Find the middle score for each spot. Draw a tumbler and a spoon. Write the score at each spot, and colour the sticky places.  
-  *Child mode:* Find the middle score of the three tries. Draw a tumbler and a spoon with the scores. Colour the sticky spots.
+  *Parent does:* Work out the middle score of the three tries for each spot, and write it in the table. Then ask your child to point to the spots that scored a 2 or a 3. Ask for each score.  
+  *Parent says:* The middle score is the one in the middle when you put your three scores in order. For example, scores of 1, 3 and 2 have a middle score of 2. Find the middle score for each spot and write it in the table. Then point to the places on the tumbler and the spoon where the magnet held well, and tell me the score.  
+  *Child mode:* Find the middle score of the three tries. Point to the sticky spots on the tumbler and the spoon.
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things: what you think, what you saw, and why you think it happened.
+  *Child mode:* Look at your table. Tell what you think now, what you saw, and why.
   - Note: A good answer sounds like this. What I think: steel is a family, and a magnet does not stick to every kind or every spot. What I saw: the spoon stuck at its neck and not at its bowl, and the pan base scored 3. Why: steels are different mixtures, and bending changes the steel inside.
 ### e2 · The Can That Follows: does a moving magnet push aluminium? (35 min)
 - **question:** A still magnet ignores an aluminium can. Will a magnet swished quickly past it move the can, and what happens with a plastic bottle and a steel can?
 - **predict:** Before you start, guess. Will the aluminium can move when a strong magnet is held still next to it? Will it move when the magnet is swished past quickly? What about a plastic bottle and a steel can? Why do you think so?
 - **fair test:** We use the same strong magnet, held at the same gap of about 1 centimetre, on the same smooth table. We swish the magnet past each thing at a slow speed and at a fast speed, five times each. Only the thing and the speed change, so any difference comes from them. We measure how far each thing rolls, in centimetres.
 - **safety:** Strong magnets can pinch skin and chip if they snap together or onto steel. Wrap the magnet in cloth and keep it away from the steel tin. Keep strong magnets away from children under five, phones, watches and bank cards. A grown-up must remove the lid of the steel tin with a smooth-edge opener, and cover the rim with tape.
-- **record:** Fill in the table. Draw the three things in a row, and draw an arrow for how far each rolled after a fast swish.
+- **record:** Fill in the table. Line up the three things from the one that rolled furthest after a fast swish to the one that rolled least. You may also draw them in a row.
 - **results table:** Thing | Still magnet: did it move? (yes or no) | Slow swish: roll in cm (middle of 5) | Fast swish: roll in cm (middle of 5) | What I noticed
 - **s1 (4 min)**  
   *Parent does:* Show your child the three things and the magnet. Ask what will happen to each thing when the magnet is held still, and when it is swished quickly past. Ask for a reason. Write the guesses at the top of the table.  
   *Parent says:* Here is a strong magnet, an aluminium can, a plastic bottle and a steel tin. What will the magnet do to each when I hold it still? What about when I swish it quickly past? Why do you think so?  
-  *Child mode:* You have a strong magnet and three things. What will happen to each thing if the magnet is still? What if it moves fast? Why do you think so?
+  *Child mode:* Guess what each thing does when the magnet is still. Then guess what it does when the magnet moves fast. Say why.
   - Ask: Do you think the aluminium can will move towards the magnet? (good: No, aluminium is not magnetic.; Yes, because it is a metal.; Only when the magnet moves.)
   - Note: Do not correct any guess. Most children say the can will stay still, and some say it will move because it is metal. Write the guesses down.
 - **s2 (6 min) · grown-up needed**  
@@ -373,26 +373,26 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   - Check: The aluminium can ignores a still magnet but rolls after a fast one. What is the best explanation? → **The moving magnet makes swirls of electric current in the can, and these push against the magnet**
 - **s5 (8 min)**  
   *Parent does:* Swish the magnet past the plastic bottle slowly and fast, five times each, and write the rolls. Then do the same for the steel tin, keeping the magnet from touching it.  
-  *Parent says:* Now the plastic bottle, which does not carry electricity. Does it move? And the steel tin. What is different about how it moves?  
-  *Child mode:* Swish the magnet past the plastic bottle. Does it move? Now the steel tin. What is different?
+  *Parent says:* Now the plastic bottle. Does it move? Then the steel tin.  
+  *Child mode:* Swish the magnet past the plastic bottle. Does it move? Now try the steel tin.
   - Ask: How is the steel tin different from the aluminium can? (good: The tin moves towards a still magnet, and the can does not.; The tin sticks, and the can only follows when the magnet moves.; The tin is magnetic and the can is not.)
   - Note: The plastic bottle should not move at all. The steel tin is attracted even by a still magnet, so it rolls towards it whatever the speed. Keep the magnet from snapping onto the tin.
 - **s6 (3 min)**  
-  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then draw the three things in a row, with an arrow for how far each rolled after a fast swish.  
+  *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then line the three things up on the table. Put the one that rolled furthest first.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things: what you think, what you saw, and why you think it happened.
+  *Child mode:* Look at your table. Tell what you think now, what you saw, and why.
   - Note: A good answer sounds like this. What I think: a moving magnet pushes an aluminium can, though a still magnet does not. What I saw: the can rolled after a fast swish, the bottle did not, and the tin stuck to a still magnet. Why: a moving magnet makes swirling currents in the can, and the currents push back.
 ### e3 · The Pendulum That Stops: swing a magnet over four plates (30 min)
 - **question:** A magnet swings on a thread over a wooden board, a plastic tray, an aluminium plate and a stainless steel plate. Over which will it stop soonest?
 - **predict:** Before you start, line up the four plates from the one you think will stop the magnet soonest to the one that will stop it last. Why do you think so?
 - **fair test:** We use the same magnet, the same thread and the same starting push each time. We keep the same small gap of about 2 millimetres between the magnet and the plate, by raising each plate on books. We count the swings until the magnet stops, three times for each plate. Only the plate changes, so any difference comes from the plate.
 - **safety:** Strong magnets can chip or snap onto steel. Wrap the magnet in tape and do not let it hit the plates hard. Keep magnets away from children under five, phones and bank cards. If a magnet sticks to the steel plate, do not use that plate.
-- **record:** Fill in the table. Then draw a bar for each plate, as tall as its middle number of swings.
+- **record:** Fill in the table. Then line up the plates from the one that stopped the magnet soonest to the one that stopped it last, with the middle number of swings beside each. You may also draw a bar for each plate, as tall as its middle number.
 - **results table:** Plate | Swings try 1 | Swings try 2 | Swings try 3 | Middle value
 - **s1 (4 min)**  
   *Parent does:* Show your child the plates and the magnet. Ask them to put the plates in order, from the one that will stop the magnet soonest to the one that will stop it last, and to give a reason. Write the order down.  
   *Parent says:* We will swing a magnet over four plates. Which plate do you think will stop it soonest? Which will stop it last? Why do you think so?  
-  *Child mode:* A magnet swings over four plates. Which stops it soonest? Which last? Why?
+  *Child mode:* Put the four plates in order. Which will stop the magnet soonest? Which last?
   - Ask: Why do you think that plate will stop the magnet soonest? (good: It is a metal.; It is the heaviest.; It is the roughest.)
   - Note: Do not correct the order. Children often say the steel plate, because steel is the metal a magnet clings to. Write the order to compare later.
 - **s2 (7 min) · grown-up needed**  
@@ -412,13 +412,13 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   - Ask: Which plate stopped the magnet soonest? (good: The aluminium plate.; The steel plate.; The plate that is a metal.)
   - Note: Expect the wooden board and plastic tray to give about the same count as no plate. The aluminium plate should stop the magnet in only a few swings. The stainless steel plate may give a smaller effect than aluminium. If a count is odd, repeat it and write both.
 - **s5 (3 min)**  
-  *Parent does:* Take the middle count for each plate. Draw one bar for each plate, as tall as its middle count.  
-  *Parent says:* Put your three counts in order and take the one in the middle. Draw a bar for each plate. The shorter the bar, the sooner the plate stopped the magnet.  
-  *Child mode:* Find the middle count for each plate. Draw a bar for each. A short bar means a good stopper.
+  *Parent does:* Take the middle count for each plate. Line the four plates up on the table. Put the soonest stopper first. Put a note with the middle count beside each plate.  
+  *Parent says:* Put your three counts in order and take the one in the middle. Line the plates up from the one that stopped the magnet soonest to the one that stopped it last. Put each middle count beside its plate.  
+  *Child mode:* Find the middle count for each plate. Line the plates up from the soonest stopper to the last.
 - **s6 (2 min)**  
   *Parent does:* Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
   *Parent says:* Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say or write three things: what you think, what you saw, and why you think it happened.
+  *Child mode:* Look at your table. Tell what you think now, what you saw, and why.
   - Note: A good answer sounds like this. What I think: metals that carry electricity well stop a swinging magnet. What I saw: the aluminium plate stopped it in a few swings, and the wood and plastic did not. Why: the moving magnet made swirling currents in the aluminium, and those pushed back.
 
 ## Activities
@@ -426,8 +426,8 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
 - **record:** The sheet with three boxes: sticks firmly, sticks weakly, does not stick. The name of every vessel is written in one of the boxes, with a star next to the ones you guessed wrongly.
 - **s1 (4 min)**  
   *Parent does:* Put the vessels on the counter. Ask your child to guess which ones would heat on an induction stove, and why. Write the guesses on the sheet.  
-  *Parent says:* An induction stove heats a pan using magnets and electricity, with no flame. Which of these vessels do you think would work on it? Why do you think so?  
-  *Child mode:* Which vessels would heat on an induction stove? Guess. Why?
+  *Parent says:* An induction stove heats a pan using magnets and electricity, with no flame. Some pans work on it and some do not.  
+  *Child mode:* Guess which vessels would heat on an induction stove. Say why.
   - Ask: Which vessel do you think will work best on an induction stove? (good: The steel pan, because it is steel.; The aluminium kadai, because it is a metal.; The cast iron tawa, because it is iron.)
   - Note: Do not correct the guesses. Do not use the stove for this activity. A magnet gives a rough guide only, and the maker's instructions are the final word.
 - **s2 (5 min)**  
@@ -437,17 +437,17 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   - Check: A magnet sticks firmly to the base of a pan. What does this say about using it on an induction stove? → **The pan will probably heat well, because its base is magnetic steel**
 - **s3 (4 min)**  
   *Parent does:* Sort the vessels into the three boxes: sticks firmly, sticks weakly, does not stick. Mark a star next to every vessel that did not match your guess.  
-  *Parent says:* Which vessels went into each box? Were any of your guesses wrong? Which one surprised you?  
-  *Child mode:* Sort the vessels into three boxes: sticks firmly, sticks weakly, does not stick. Which one surprised you?
+  *Parent says:* Put each vessel in a box. Were any of your guesses wrong?  
+  *Child mode:* Sort the vessels into three boxes: sticks firmly, sticks weakly, does not stick.
   - Ask: Which vessel surprised you most? (good: The steel tumbler, because it did not stick.; The aluminium kadai, because it did not stick.; The pressure cooker, because the base was different from the sides.)
   - Note: Aluminium and copper should not stick. A cast iron tawa should hold firmly. Stainless steel varies. Pans made for induction cooking usually hold a magnet firmly on the base. A vessel might stick on the sides and not on the base, or the other way round.
 - **s4 (2 min)**  
   *Parent does:* Ask your child to say one sentence about what the magnet can and cannot tell you about a vessel.  
   *Parent says:* A magnet test is a quick guide. What can it tell us about a pan? And what can it not tell us?  
-  *Child mode:* What can the magnet tell you about a pan? What can it not tell you?
+  *Child mode:* Finish this: a magnet can tell me ..., but it cannot tell me ...
   - Think: A magnet that sticks says the base is magnetic steel. A magnet that does not stick does not say what the vessel is made of. Why not?
 ### a2 · Ask a Kabadiwala or Waste Picker: how do you tell metals apart? (25 min)
-- **record:** The notebook with the five questions and the answers, and one drawing of a way of telling metals apart that you did not know before.
+- **record:** The notebook with the five questions and the answers, and one sentence about a way of telling metals apart that you did not know before. You may add a drawing.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* Ask your child to write five questions for a metal sorter. Help with ideas, such as these. How do you tell iron from aluminium? How do you tell brass from copper? Which metal is worth most? What do you do with a magnet?  
   *Parent says:* People who sort metal every day know many things we do not. What would you like to ask them? Write five questions.  
@@ -455,7 +455,7 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   - Ask: What do you think a sorter does to tell iron from aluminium? (good: Uses a magnet.; Lifts the piece, because aluminium is lighter.; Taps it and listens.)
   - Note: Choose a kabadiwala, scrap dealer or waste picker your family already knows or can reach safely, and go with your child. Ask permission before you ask questions or take notes. Do not take photographs without asking.
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* Visit the sorter with your child. Be polite and listen. Ask the five questions, and write down the answers. If they agree, ask them to sort your four test things and say how they know.  
+  *Parent does:* Visit the sorter with your child. If you cannot find one, ask a utensil or hardware shop owner. Be polite and listen. Ask the five questions, and write down the answers. If they agree, ask them to sort your four test things and say how they know.  
   *Parent says:* Thank you for talking to us. We are learning about metals and magnets. How do you tell different metals apart? Could you show us with these four things?  
   *Child mode:* Ask your questions politely. Listen carefully. Write the answers.
   - Note: Stay by your child. Do not touch sharp or dirty scrap. Treat the person as an expert, because they are. Offer a small thanks, such as chai or a few rupees for their time, if appropriate. If they say no, that is fine.
@@ -465,16 +465,16 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   *Child mode:* What did the sorter tell you? Which ways use a magnet? Which do not?
   - Check: A sorter says, 'I tap it. Brass rings long and warm, and steel rings short and dull.' Is this a good way to tell them apart? → **Yes, because different metals ring differently, and a trained ear can hear it**
 - **s4 (4 min)**  
-  *Parent does:* Draw one way of telling metals apart that you did not know before. Write one sentence under it.  
-  *Parent says:* Draw the new way you learned. Write one sentence about it.  
-  *Child mode:* Draw a new way you learned. Write one sentence.
+  *Parent does:* Ask your child to show one new way of telling metals apart, using the four test things. Then write one sentence about it.  
+  *Parent says:* Show me the new way you learned, using these things. Then we will write one sentence about it.  
+  *Child mode:* Show a new way you learned, using the test things. Write one sentence.
   - Think: A sorter and a recycling centre both sort metal. What can the sorter do that the machine cannot?
 ### a3 · Three Columns: sort the world by how it answers a magnet (20 min)
 - **record:** The big sheet with three columns and all 20 cards laid out, and a ring around the cards you got wrong.
 - **s1 (6 min)**  
   *Parent does:* Draw three columns on the big sheet. Then write twenty things on cards. Use iron, nickel, cobalt, a steel nail, aluminium, magnesium, platinum, the oxygen in the air and titanium. Add copper, gold, silver, water, wood, glass, a diamond, lead, zinc, bismuth and your own hand.  
-  *Parent says:* A very strong magnet pulls a few of these a lot. It pulls some a tiny bit, and pushes the rest a tiny bit. Write each name on a card. We need three columns on the big sheet. The first column is 'pulled strongly'. The second is 'pulled a tiny bit'. The third is 'pushed away a tiny bit'. Then guess which column each card belongs in.  
-  *Child mode:* Draw three columns: pulled strongly, pulled a tiny bit, pushed away a tiny bit. Write the twenty names on cards. Guess which column each one goes in.
+  *Parent says:* A very strong magnet pulls a few of these a lot. It pulls some a tiny bit, and pushes the rest a tiny bit. Write each name on a card. Make three columns on the big sheet. The first column is 'pulled strongly'. The second is 'pulled a tiny bit'. The third is 'pushed away a tiny bit'.  
+  *Child mode:* Write the twenty names on cards. Make three columns: pulled strongly, pulled a tiny bit, pushed away a tiny bit.
   - Note: Bismuth is a brittle silvery metal, and the strongest of the pushed-away materials. The oxygen in the air is pulled a tiny bit. The key that you read out later gives the column for everything else in the list.
 - **s2 (5 min)**  
   *Parent does:* Lay the cards in the three columns by guessing. Say a reason out loud for each guess.  
@@ -489,33 +489,33 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
 - **s4 (4 min)**  
   *Parent does:* Ask your child which cards surprised them most, and why. Then ask whether there is a card in the 'tiny push' column that is also a metal. Count how many of the metals are in each column.  
   *Parent says:* Which card surprised you most? How many metals are in the tiny push column? Can a metal be pushed away by a magnet?  
-  *Child mode:* Which card surprised you most? Are there metals in the tiny push column?
+  *Child mode:* Count the metals in each column. Tell your grown-up which card surprised you most.
   - Think: A fridge magnet cannot show the tiny pulls and pushes. A huge magnet can. Are the tiny pulls and pushes there even when nobody measures them?
 ### a4 · Plan a Sorting Line on Paper (25 min)
-- **record:** The drawing of your sorting line, with the four machines in order, and a list of what ended up in each bin.
+- **record:** The sheet with your sorting line, with the four machine cards in order, and a list of what ended up in each bin.
 - **s1 (5 min)**  
   *Parent does:* Lay out the eight waste cards and the four machine cards. Explain what each machine does. The Magnet lifts steel. The Spinning Magnet Drum throws aluminium, brass and copper off the belt. The Air Blower lifts light paper and film. Hands pick everything else.  
   *Parent says:* A recycling centre has four stations. The Magnet lifts steel. The Spinning Drum throws off aluminium, brass and copper. The Blower lifts light paper. Hands pick the rest. In what order would you put them?  
-  *Child mode:* There are four machines. Which should come first? Which should come last? Guess.
+  *Child mode:* Look at the four machine cards. Guess what order they should go in.
   - Ask: Which machine do you think should come first? (good: The magnet, to take out steel.; The blower, to take out paper.; The hands, to take out big things.)
   - Note: In a real centre, the steel is taken out first, so it does not stick to the spinning drum. Let your child guess before you tell them.
 - **s2 (8 min)**  
   *Parent does:* Draw the belt on the big sheet. Place the four machine cards along it in the order your child chooses. Ask them to explain why each machine is where it is.  
   *Parent says:* Put the machines along the belt. Explain why each one goes where it does. What goes wrong if two are swapped?  
-  *Child mode:* Put the four machines along the belt. Say why each goes where it does.
+  *Child mode:* Put the four machine cards along the belt in your order.
   - Check: Why does a real centre take the steel out before the spinning magnet drum? → **Steel would stick to the drum, since a still magnet attracts it**
 - **s3 (8 min)**  
-  *Parent does:* Run each of the eight waste cards through your line, one at a time. Say which machine takes it out, and put it in a bin at the end. Mark any card that goes wrong.  
+  *Parent does:* Run each of the eight waste cards through your line, one at a time. Say which machine takes it out, and put it in a bin, a spot at the end of the belt. Mark any card that goes wrong.  
   *Parent says:* Take the steel can first. Which machine takes it out? Then the aluminium can. Then the plastic bottle. Go card by card.  
   *Child mode:* Run each card along the belt. Which machine takes it out?
   - Note: Expected: the steel can is lifted by the Magnet. The aluminium can, the brass key and the copper wire are thrown by the Drum. The paper goes with the Blower. The plastic bottle, the glass jar and the rubber slipper are picked by Hands, or fall off the end.
 - **s4 (4 min)**  
   *Parent does:* Talk about the people who work in a centre like this. Ask: where in the line does a person do something that a machine cannot?  
-  *Parent says:* A machine cannot tell a glass jar from a clear plastic jar. Who does? What would happen to this line without them?  
+  *Parent says:* Our machines cannot tell a clear glass jar from a clear plastic jar. Who could? What would happen to this line without them?  
   *Child mode:* Which jobs on the line need a person? Why?
   - Think: In India, waste pickers often do the sorting by hand. Where on this line would their skill help most?
 ### a5 · Does Rust Stick? An old nail and its flakes (15 min)
-- **record:** A short table: new nail, rusty nail, rust flakes, and whether each stuck to the magnet. A drawing of the rusty nail cut in half.
+- **record:** A short table: new nail, rusty nail, rust flakes, and whether each stuck to the magnet. One sentence about where the iron is and where the rust is on the nail.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Show your child the two nails. Ask them to guess if each will stick to the magnet, and whether the rust flakes will stick too. Write the guesses.  
   *Parent says:* Rust is what iron turns into when it stays wet. Will a magnet stick to a rusty nail? And to the flakes of rust? Why do you think so?  
@@ -534,9 +534,9 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   - Note: Many rust flakes stick faintly or not at all, though some dark ones may. Write what you see. Wash hands after handling rust.
   - Check: The rusty nail sticks to a magnet, but most of the rust flakes do not. What is the best reason? → **Under the rust there is still iron, but the rust itself is only weakly magnetic**
 - **s4 (3 min)**  
-  *Parent does:* Ask your child to draw the rusty nail cut in half, with the iron core and the rust coat. Ask one sentence about what a magnet can and cannot tell about rust.  
-  *Parent says:* Draw the nail cut in half. Show the iron in the middle and the rust outside. What does the magnet feel?  
-  *Child mode:* Draw the nail cut in half. Where is the iron? Where is the rust?
+  *Parent does:* Scrape one small spot of the rusty nail with the edge of the spoon, until grey metal shows. Ask your child where the iron is and where the rust is. Ask one sentence about what a magnet can and cannot tell about rust.  
+  *Parent says:* Look at the scraped spot. The grey is iron, and the brown is rust. Which one does the magnet feel?  
+  *Child mode:* Look at the scraped spot. Which part is iron? Which part is rust?
   - Think: A magnet finds iron that is still iron. Can it find iron that has turned to rust?
 
 ## Projects
@@ -561,9 +561,9 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   *Child mode:* Count the scores. How many things stick firmly? How many do not stick?
   - Wait: Come back tomorrow to make the poster.
 - **s4 (15 min)**  
-  *Parent does:* On day 2, draw the poster on the big sheet with three zones: sticks firmly, sticks weakly, does not stick. Draw or write each thing in its zone. Add a note: an induction stove needs a pan that holds a magnet firmly on its base.  
-  *Parent says:* Draw the map of our kitchen. Make three zones. Put each thing in its zone. Add a note for the induction stove.  
-  *Child mode:* Draw a poster with three zones. Put each kitchen thing in its zone.
+  *Parent does:* On day 2, make the poster on the big sheet with three zones: sticks firmly, sticks weakly, does not stick. Write each thing on a sticky note and stick it in its zone. Add a note: an induction stove needs a pan that holds a magnet firmly on its base.  
+  *Parent says:* Make the map of our kitchen. Make three zones. Put each thing in its zone. Add a note for the induction stove.  
+  *Child mode:* Make a poster with three zones. Put each kitchen thing in its zone.
   - Note: Make the poster large, with clear drawings, so it is useful to the whole family. Add a line saying that a magnet test cannot tell which metal a thing is made of.
 - **s5 (5 min)**  
   *Parent does:* Stick the poster on the fridge. Ask your child to teach one new thing from the poster to another family member.  
@@ -574,14 +574,14 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
 ## Challenges
 ### c1 · Six Mystery Pieces: name them with the fewest tests (40 min)
 - **problem:** A helper gives you six mystery pieces of metal, numbered 1 to 6. You may use three kinds of test: a magnet, colour, and the sound when you tap or drop the piece. Draw a flowchart with the fewest questions that names every piece, then check it.
-- **your turn:** Draw your flowchart. Test it on all six pieces. Count the questions each piece needed. Can you find a shorter flowchart? Which question was most useful?
+- **your turn:** Draw your flowchart, or lay it out with slips of paper. Test it on all six pieces. Count the questions each piece needed. Can you find a shorter flowchart? Which question was most useful?
 - **constraints:** Use only these tests: the magnet, colour and sound. No scratching and no heating.; Each test is a yes or no question, for example 'Does the magnet stick?'; Your flowchart must reach a name for every one of the six pieces.; No piece may take more than three questions.
 - **general:** Ask about the magnet first, to split the pieces into two groups.; Ask about colour next, to split each group again.; Use the sound test to tell apart two pieces that look and feel alike.
 - **creative:** Put the question that splits the pieces most evenly first, so that fewer questions are needed.; Add a fourth kind of test if you can, such as how heavy the piece feels, and see if it removes a question.; Draw a second flowchart with a different order of questions, and see which one is shorter.
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* A helper chooses the six pieces and numbers them in secret. Look at them with your child. Ask them to guess what each piece is made of, and which test would help most.  
-  *Parent says:* Here are six mystery pieces. Which test would split them into two groups most evenly? Think before you begin.  
-  *Child mode:* Six mystery pieces. Which test splits them best? Guess.
+  *Parent says:* Here are six mystery pieces of metal. What do you think each one is made of? Why?  
+  *Child mode:* Look at the six pieces. Guess what each one is made of.
   - Ask: What is the best first question to ask about the pieces? (good: Does the magnet stick?; What colour is it?; Does it ring when I tap it?)
 - **s2 (12 min)**  
   *Parent does:* Test all six pieces with the magnet, then by colour, then by sound. Write the results in a table, one row for each piece.  
@@ -589,9 +589,9 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   *Child mode:* Test each piece with the magnet, by colour and by sound. Write the results in a table.
   - Check: Colour splits six pieces into 3 and 3. The magnet test splits them into 2 and 4. Which is usually the better first question for a short flowchart? → **Colour, because 3 and 3 is the more even split**
 - **s3 (12 min)**  
-  *Parent does:* Draw a flowchart. Start with the question you chose. Draw a box for each question and arrows for yes and no. Make sure every piece reaches a name in three questions or fewer.  
-  *Parent says:* Draw your flowchart. Start with the question you think is best. Each piece must end at a name in three questions or fewer.  
-  *Child mode:* Draw a flowchart of yes or no questions. Every piece must end at a name.
+  *Parent does:* Draw a flowchart. Start with the question you chose. Draw a box for each question and arrows for yes and no. Make sure every piece reaches a name in three questions or fewer. If your child does not like drawing, they can write each question on a slip of paper and lay the slips out in order.  
+  *Parent says:* A flowchart is a map of yes or no questions. Each answer sends you down one path until you reach a name. Start with the question you think is best. Each piece must end at a name in three questions or fewer.  
+  *Child mode:* Make a flowchart of yes or no questions. Every piece must end at a name.
   - Note: Check each branch. If two pieces share a path, the flowchart needs another question. Let your child find the problem before you say.
 - **s4 (8 min)**  
   *Parent does:* Run each piece through your flowchart. Ask the helper to say whether each name is right. Count how many questions each piece took, and the total.  
@@ -600,14 +600,14 @@ Pappathi stood watching with her arms folded and her sleeves still rolled up. Th
   - Think: A magnet is very good at saying yes to iron. It is bad at telling brass from copper. Which test is best for that job?
 ### c2 · The Pocket Induction Tester: a card that checks a pan in ten seconds (40 min)
 - **problem:** A shopkeeper wants to help customers check whether a pan will work on an induction stove, without a stove in the shop. Design a pocket tester from a card, a magnet and a string, with instructions that anyone can follow in ten seconds.
-- **your turn:** Sketch your tester. Make it and test it on 8 vessels. Ask someone to use it without your help. Could they follow the instructions? Change the card and test again.
+- **your turn:** Sketch or describe your tester. Make it and test it on 8 vessels. Ask someone to use it without your help. Could they follow the instructions? Change the card and test again.
 - **constraints:** The tester must use only a magnet and things on a card, with no electricity.; A person must be able to use it after reading no more than five short lines.; It must give one of three answers: works, may work or will not work.; Test it on at least 8 vessels.
 - **general:** Tape the magnet to a card and write 'Press this on the base of the pan.'; Give three answers on the card: holds firmly, holds weakly and does not hold.; Add a picture of a pan with a magnet pressed to its base.
 - **creative:** Add a string with a small weight to the card. The user tilts the pan so that an edge of its base lifts off the table, and presses the magnet on the base. If the magnet holds, the pan works.; Draw colours on the card: green for holds firmly, yellow for weak and red for none.; Add a warning that the maker's label is the final word, since a magnet only tells you about the base.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem. Ask your child to sketch a tester and to say what the three answers should mean.  
-  *Parent says:* A shopkeeper wants a ten-second tester for pans. What should it look like? What should the three answers say? Draw an idea first.  
-  *Child mode:* Draw a pocket tester for pans. What are the three answers?
+  *Parent does:* Read the problem. Ask your child to explain, or sketch, how a tester could work, and to say what the three answers should mean.  
+  *Parent says:* A shopkeeper wants a ten-second tester for pans. How could a card and a magnet do that? What should the three answers say?  
+  *Child mode:* Think of a pocket tester for pans. What should its three answers be?
   - Ask: What will the tester tell the customer when the magnet holds firmly on the base? (good: The pan will probably work.; The base is magnetic steel.; Buy it for the induction stove.)
 - **s2 (15 min)**  
   *Parent does:* Build the tester. Tape the magnet on the card, and write the five lines of instructions. Test it on 8 vessels and write down what it says for each.  

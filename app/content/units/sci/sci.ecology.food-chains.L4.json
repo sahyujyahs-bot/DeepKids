@@ -611,7 +611,7 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Play the first five cards. After each one, read the back aloud and check the working. Ask the question below after the third card.",
+          "do": "Play the first five cards. After each one, read the back aloud and check the working. When the five are done, ask the question below.",
           "say": "The reader reads the front. Everyone writes a guess. Show your slips. Now the reader turns the card and reads the working.",
           "kid": "Read a card. Write a guess. Show it. Check the back.",
           "ask": [
@@ -647,9 +647,9 @@
         {
           "id": "s4",
           "mins": 5,
-          "do": "Play the last cards until you have played ten. Add up the points. Then ask the last question.",
+          "do": "Play the last cards until you have played ten. Add up the points. Then ask your child to find the highest and the lowest card.",
           "say": "Add up your points. Who scored the most? Now look at the cards again. Which animal was highest, and which was lowest?",
-          "kid": "Add your points. Which card gave the highest level? Which gave the lowest?",
+          "kid": "Add your points. Then look through the cards for the highest and the lowest level.",
           "parent": "A tiger eats deer, who eat plants, so she is at 3. Sea animals often have more levels because the chain starts with tiny algae, and many small steps lie between algae and tuna. Do not worry if your child has not guessed this. It is a thing to wonder about.",
           "think": "A tiger is only at level 3. Why do you think a hunter on land is often lower than a hunter in the sea?",
           "context": "This is the last step of Level Detective. You count the points and think about what you found."
@@ -1379,7 +1379,7 @@
           "mins": 5,
           "do": "Show your child a peanut and a tin of water. Say what you will do. Ask for a guess and a reason, and write both down.",
           "say": "We will burn a peanut under 100 millilitres of water. How many degrees will the water warm? Will a foil shield help? Why do you think so?",
-          "kid": "We will burn a peanut under a tin of water. How much will the water warm? Will foil help? Why?",
+          "kid": "Look at the peanut and the tin. Guess how much the water will warm, and whether foil will help.",
           "ask": [
             {
               "q": "Why do you think the water will warm by that much?",
@@ -1511,8 +1511,8 @@
         }
       ],
       "safety": "A grown-up boils the moong and drains it. Hot water scalds. Do not eat any moong from this test, because it sits warm for a day. Keep the tubs away from toddlers, because moong seeds are small. Wash your hands after touching the seeds.",
-      "record": "Write each temperature in the table. Draw a line graph with one line for each tub. Say which tub was warmest, and by how many degrees.",
-      "context": "In this experiment, you look for heat made by living seeds. Sprouting seeds respire, and respiration gives off heat. You compare living moong, dead moong and an empty tub.",
+      "record": "Write each temperature in the table. Draw a line graph with one line for each tub, or just read across the table. Say which tub was warmest, and by how many degrees.",
+      "context": "In this experiment, you find out if living seeds make heat. Sprouting seeds respire, which means they use their stored food for energy, and some of it becomes heat. You compare living moong, dead moong and an empty tub.",
       "schedule": [
         {
           "day": 1,
@@ -1554,7 +1554,7 @@
           "mins": 10,
           "do": "On day 1, wash the moong. Put it in a bowl with plenty of water. Leave it overnight. Ask your child to guess the result and the reason, and write both down.",
           "say": "We will soak these seeds tonight. Tomorrow we will look for heat. Will living seeds make any heat? Why do you think so?",
-          "kid": "Soak the moong in water tonight. Will living seeds make heat? Why do you think so?",
+          "kid": "Soak the moong in water tonight. Then guess what you will find tomorrow.",
           "ask": [
             {
               "q": "Do you think a living seed makes heat? Why?",
@@ -1611,9 +1611,9 @@
         {
           "id": "s5",
           "mins": 10,
-          "do": "On day 3, read all four numbers again. Draw a line graph, one line for each tub. Ask your child to say what they thought, what they saw and why. Then throw the moong away.",
+          "do": "On day 3, read all four numbers again. Draw a line graph with one line for each tub, or just write the numbers in rows. Ask your child to say what they thought, what they saw and why. Then throw the moong away.",
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-          "kid": "Draw a line for each tub. Say what you thought, what you saw and why.",
+          "kid": "Draw a line for each tub, or read the numbers row by row. Say what you thought, what you saw and why.",
           "parent": "A strong answer says that tub A warmed more than B and C because the living seeds respire. After they have spoken, explain: respiration frees the energy in food, and some of it always turns into heat. Tub B may warm slightly after a day if microbes start to grow on the boiled moong. That is also respiration. If A is no warmer than C, say so. A small tub of seeds may not make enough heat to measure, and a larger heap would. A compost heap shows it clearly.",
           "think": "A compost heap can get hot enough to steam. What do you think is happening inside it?",
           "check": {
@@ -1653,7 +1653,7 @@
         }
       ],
       "record": "Glue your pyramids on one sheet. Under each, write one sentence about its shape.",
-      "context": "In this activity, you build three kinds of pyramid from paper strips. They show why a pyramid of numbers can be upside down but a pyramid of energy cannot.",
+      "context": "In this activity, you build three kinds of pyramid from paper strips. Each strip shows how many, how heavy, or how much energy is at one level of a food chain. You will find out why a pyramid of numbers can be upside down but a pyramid of energy cannot.",
       "setup": [
         {
           "art": "Four paper strips of different widths glued one above the other and centred, forming a pyramid, with the numbers 1000, 100, 10 and 1 written on them.",
@@ -1672,8 +1672,8 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Read the numbers for a grass field out loud: 1000 grass plants, 100 grasshoppers, 10 frogs and 1 snake. Cut four paper strips, one for each level. Make each strip 1 centimetre wide for every 100 beings. So the grass strip is 10 centimetres wide and the grasshopper strip is 1 centimetre wide. The frogs and the snake are so thin that you can draw them as lines. Glue the strips one above the other, centred, to make a pyramid.",
-          "say": "These are made-up numbers for a grass field. We will draw how wide each level is. The widest strip is the grass. The snake is just a line.",
+          "do": "Read the numbers for a grass field out loud: 1000 grass plants, 100 grasshoppers, 10 frogs and 1 snake. Cut four paper strips, one for each level. Make each strip 1 centimetre wide for every 100 beings. So the grass strip is 10 centimetres wide and the grasshopper strip is 1 centimetre wide. The frogs and the snake are so thin that you can make them as thin lines. Glue the strips one above the other, centred, to make a pyramid.",
+          "say": "These are made-up numbers for a grass field. We will show how many beings live at each level, using paper strips. The widest strip is the grass. The snake is just a line.",
           "kid": "Cut a wide strip for the grass. Make the grasshoppers narrower. Make the frogs and snake thin lines. Glue them in a pyramid.",
           "ask": [
             {
@@ -1690,9 +1690,9 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Now make a pyramid of numbers for a banyan tree. There is 1 tree, 1000 insects who eat her leaves, 20 birds who eat the insects, and 1 hawk. First sketch the shape you expect. Then use the same rule, 1 centimetre for every 100 beings. The tree is a line. The insect strip is 10 centimetres wide. Glue the strips one above the other and look at the shape.",
-          "say": "Now we make a pyramid for a banyan tree. There is one tree, but 1000 insects live on her leaves. First sketch the shape you expect. Then make the strips. What shape do you get?",
-          "kid": "Make strips for one banyan tree. One tree is a line. Then 1000 insects, 20 birds and 1 hawk. What shape is it?",
+          "do": "Now make a pyramid of numbers for a banyan tree. There is 1 tree, 1000 insects who eat her leaves, 20 birds who eat the insects, and 1 hawk. First say what shape you expect. Then use the same rule, 1 centimetre for every 100 beings. The tree is a line. The insect strip is 10 centimetres wide. Glue the strips one above the other and look at the shape.",
+          "say": "Now we make a pyramid for a banyan tree. There is one tree, but 1000 insects live on her leaves. First say what shape you expect. Then make the strips and look.",
+          "kid": "Make strips for one banyan tree. One tree is a line. Then 1000 insects, 20 birds and 1 hawk. Look at the shape you get.",
           "parent": "The shape is thin, wide, thin, thinner. This is correct. Counting the number of beings makes the tree look unimportant, even though she feeds everyone.",
           "check": {
             "t": "mcq",
@@ -1760,8 +1760,8 @@
         }
       ],
       "safety": "A grown-up cuts the bottle. The bulb gets hot, so keep it 15 centimetres above the soil (10 for an LED) and away from the plastic. Do not touch it. Stay in the room while it is on. Centipedes can bite, so lift nothing with your fingers. Use a spoon or paper strip. Wash your hands after touching soil or compost. Do not touch any animals with your bare hands.",
-      "record": "Draw the animals you find, and write how many you counted and what each might eat.",
-      "context": "In this activity, you find the small animals that live on dead leaves. They are the first eaters in the dead-leaf chain. A lamp drives them out of the leaves and into a jar.",
+      "record": "Draw the animals you find, or take a photo of them. Write how many kinds you counted and what each might eat.",
+      "context": "In this activity, you find out which small animals live in dead leaves. They eat the dead leaves, so they start the dead-leaf food chain. A lamp drives them out of the leaves and into a jar, so you can see them.",
       "setup": [
         {
           "art": "A bottle top turned upside down as a funnel, with a net inside and a jar of damp tissue underneath.",
@@ -1790,7 +1790,7 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "Put the lamp 15 centimetres above the leaves and switch it on. Set a timer for 1 hour. Do not move the funnel. Let your child draw what they think they will see.",
+          "do": "Put the lamp 15 centimetres above the leaves and switch it on. Set a timer for 1 hour. Do not move the funnel.",
           "say": "Turn the lamp on. The animals dislike the dry heat, so they crawl down and fall into the jar. We wait one hour.",
           "kid": "Switch the lamp on. Wait 1 hour. Do not touch the funnel.",
           "parent": "Keep the lamp away from anything that burns. A paper towel under the jar is fine. If you see nothing, wait another hour. A big catch needs 2 hours.",
@@ -1800,9 +1800,9 @@
         {
           "id": "s3",
           "mins": 15,
-          "do": "Put a little of what fell into the jar on the white plate. Look with the magnifying glass. Count how many kinds you see. Draw two. Say what each one might be eating.",
-          "say": "Look at the plate. Count the kinds of animals. Draw two of them. What might each one eat?",
-          "kid": "Tip the jar on to the plate. Look with the magnifying glass. Count the kinds. Draw two.",
+          "do": "Put a little of what fell into the jar on the white plate. Look with the magnifying glass. Count how many kinds you see. Point to two and say what each one might be eating.",
+          "say": "Look at the plate. Count the kinds of animals. Point to two of them. What might each one eat?",
+          "kid": "Tip the jar on to the plate. Look with the magnifying glass. Count the kinds. Point to two and say what they might eat.",
           "ask": [
             {
               "q": "Which of these animals eats leaves, and which eats other animals?",
@@ -1844,8 +1844,8 @@
           "qty": 1
         }
       ],
-      "record": "Draw your lunch with an arrow from each food to the being it came from. Write the level number next to each food.",
-      "context": "In this activity, you find the trophic level of each food on your lunch plate, and then of yourself. Most animals eat at more than one level, and so do you.",
+      "record": "Write the level number next to each food on your list. Then take a photo of your lunch, or draw it with an arrow from each food to the being it came from.",
+      "context": "In this activity, you find out where your lunch sits in a food chain. A trophic level is a step in a food chain. Plants are level 1, and animals that eat them are one step higher. You find the level of each food, and then your own. Most animals eat at more than one level, and so do you.",
       "setup": [
         {
           "art": "A thali with rice, sambar, a vegetable, curd and a fish fry, with a label on each food showing the being it came from.",
@@ -1866,7 +1866,7 @@
           "mins": 7,
           "do": "Look at a lunch plate, yours or one from a photograph. List each food. For each, write what living being it came from. Rice came from a rice plant. Curd came from a cow. A fish fry came from a fish.",
           "say": "Look at the food on your plate. Write each food on a list. Next to it, write the living being it came from.",
-          "kid": "List the foods on your plate. Next to each, write the living being it came from.",
+          "kid": "Name each food on your plate. Say which living being it came from, and write it on a list.",
           "parent": "A plain vegetarian plate is fine. Its level will be low, and the method is the point. Use real foods from your own lunch. A thali with rice, sambar, a vegetable, curd and an egg or fish is a good example.",
           "context": "In this step, you list your lunch and find where each food came from."
         },
@@ -1895,7 +1895,7 @@
           "mins": 5,
           "do": "First guess your own level. Then add the level numbers of all the foods. Divide by the number of foods. This is the average level of your food. Add 1. That is your level for this lunch. Compare it with your family's.",
           "say": "Add up the numbers. Divide by how many foods there are. Add 1. That is your level for this lunch.",
-          "kid": "Add the numbers. Divide by how many foods. Add 1. That is your level.",
+          "kid": "Guess your level first. Then add the numbers, divide by how many foods, and add 1.",
           "parent": "For a lunch of rice 1, sambar 1, curd 2 and fish fry 2.5, the sum is 6.5. Dividing by 4 gives 1.6, and adding 1 gives 2.6. This treats every food as an equal share. A real plate has more rice than curd, so your true level is a little lower. With 2 to 4 children, each works out one plate and you compare. Most people land between 2 and 3. Scientists estimate that people around the world average about 2.2.",
           "think": "If you swapped the fish fry for a vegetable, what would your level be?",
           "context": "In this step, you work out your own trophic level for one lunch."
@@ -1944,8 +1944,8 @@
           "what": "Draw the poster: a pie chart of foods by level, and one chain from the Sun to your favourite meal, with a small red arrow of heat leaving each step."
         }
       ],
-      "record": "Write the pie chart numbers and your family's average level. Write one sentence about what surprised you.",
-      "context": "In this project, you trace a whole day of your family's food back to the Sun. You find what level each food is at, and show how the Sun's energy reaches your plate.",
+      "record": "Write how many foods are in each pile and your family's average level. Write one sentence about what surprised you.",
+      "context": "In this project, you trace a whole day of your family's food back to the Sun. You find the level of each food. Level 1 is a plant, and animals that eat plants are level 2 or higher. Then you show how the Sun's energy reaches your plate.",
       "setup": [
         {
           "art": "A notebook page with breakfast, lunch, snack and dinner listed in four boxes, with foods written in each.",
@@ -1957,7 +1957,7 @@
         },
         {
           "art": "A poster with a pie chart in three colours for level 1, level 2 and level 3 or more, and a chain from the Sun to a plate of food.",
-          "caption": "3. Day 3: draw the pie chart and the chain."
+          "caption": "3. Day 3: sort the foods by level and show the chain."
         }
       ],
       "flow": [
@@ -1966,7 +1966,7 @@
           "mins": 20,
           "do": "On day 1, list every food your family eats. Write each food and a rough amount, such as 3 spoons or 2 pieces. Add drinks like milk and buttermilk. Ask your child to guess how many foods come from plants.",
           "say": "Today we write down everything we eat. Next to each food, write how much. How many foods will come from plants? Why?",
-          "kid": "Write every food we eat today. How many come from plants? Guess.",
+          "kid": "Write every food we eat today and how much. Then guess how many come from plants.",
           "parent": "With 2 to 4 children, each notes one meal as it is eaten. Include oil, sugar and salt. Oil comes from seeds, sugar from cane or beet, and salt from the sea or mines, which is neither plant nor animal. Mark it 'not a living being'.",
           "context": "This is the first step of the project. You write down everything your family eats in one day."
         },
@@ -1982,9 +1982,9 @@
         {
           "id": "s3",
           "mins": 25,
-          "do": "On day 3, draw a pie chart of the foods by level. Use three colours: level 1, level 2, and above 2. Then draw one chain from the Sun to a favourite meal. Put a small red arrow of heat leaving each step.",
-          "say": "Draw a pie chart of your foods by level. Then draw one chain from the Sun to your favourite meal. At each step, draw a little red arrow for heat leaving.",
-          "kid": "Draw a pie chart. Then draw a chain from the Sun to your favourite meal. Add red heat arrows.",
+          "do": "On day 3, sort the foods into three piles: level 1, level 2, and above 2. Count each pile. Then show one chain from the Sun to a favourite meal. Draw it with a small red arrow of heat leaving each step, or tell it out loud.",
+          "say": "Sort your foods into piles by level, and count each pile. Then show one chain from the Sun to your favourite meal. Draw it, or tell it out loud. Show heat leaving at each step.",
+          "kid": "Sort the foods into piles by level. Count each pile. Then show a chain from the Sun to your favourite meal.",
           "think": "What is the level of your whole family's food? What would change it most?",
           "context": "This is the last step of the project. You draw the poster and say what you found."
         }
@@ -2059,7 +2059,7 @@
         {
           "id": "s2",
           "mins": 17,
-          "do": "Try three plans. For each, write the number of rice, grass and fish fields. Work out the people-months from rice, fish, grass and straw. Check that the total is at least 80, and at least 8 come from animals.",
+          "do": "Try three plans. For each, write the number of rice, grass and fish fields. Work out the people-months from rice, fish, grass and straw. A people-month is one person fed for one month. Check that the total is at least 80, and at least 8 come from animals.",
           "say": "Try three plans. Add up the people-months. Does each plan feed 80? Do 8 come from milk or fish?",
           "kid": "Try three plans. Add up the people-months. Check each rule.",
           "parent": "The best plans keep 9 or 10 rice fields, with 1 or 2 grass fields and one pond if there are enough fields. The straw makes the cows worth keeping, because they turn something people cannot eat into milk. Help your child with the straw rule, which is the hard part.",

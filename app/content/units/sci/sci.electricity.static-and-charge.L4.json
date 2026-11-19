@@ -663,8 +663,8 @@
      "id": "s3",
      "mins": 6,
      "do": "Play round 2 with three cards at a time, and then round 3 with a middle card. Score the points as in the rules.",
-     "say": "Three cards are up. Which is minus against both the others? Which is plus against both? Which is in the middle?",
-     "kid": "Three cards are up. Which is minus, which is plus, which is in the middle?",
+     "say": "Three cards are up. Look at where they sit on the ladder. Which card is minus against both the others?",
+     "kid": "Say which card is minus, which is plus, and which is in the middle.",
      "ask": [
       {
        "q": "Why can the middle card be plus with one card and minus with another?",
@@ -693,7 +693,7 @@
      "mins": 4,
      "do": "Count the points. Compare this ladder with the ladder you built in the Charge Ladder experiment. Where do the two ladders disagree? Talk about why.",
      "say": "Count the points. Now compare this ladder with the one you built yourself in the Charge Ladder experiment. Do they match? Where do they differ, and why might that be?",
-     "kid": "Count your points. Compare this ladder with the one you built in the Charge Ladder experiment.",
+     "kid": "Count your points. Find one place where the two ladders differ.",
      "think": "If two published ladders disagree about close neighbours, which should you trust?",
      "parent": "Your ladder from the Charge Ladder experiment may differ from this one. That is a normal result. Ladders agree about the ends, and not about close neighbours. Real data from your own home is worth more than a table in a book.",
      "context": "This is the last step of Ladder Duel. You compare the game's ladder with your own."
@@ -749,8 +749,8 @@
     }
    ],
    "safety": "Balloons and small cut pieces can choke young children, so keep them away from children under three. If anyone at home has a latex allergy, do not use latex balloons. Do this indoors, in a room away from the kitchen gas, and never during a thunderstorm. A grown-up should be near whenever the hair dryer is used.",
-   "record": "Fill in the results table for all five things. Then lay the seven cards in a ladder with wool at the top and polythene at the bottom, and draw it.",
-   "context": "In this experiment, you rub five things on wool and on polythene, and use a hanging balloon to see which way the charge went. Then you build a ladder from your results.",
+   "record": "Fill in the results table for all five things. Then lay the seven cards in a ladder with wool at the top and polythene at the bottom. Take a photo of it, or draw it.",
+   "context": "In this experiment, you rub five things on wool and on polythene, and use a hanging balloon to see which way the charge went. You will find out which things take electrons easily and which give them up. Then you build a ladder from your results.",
    "setup": [
     {
      "art": "A balloon hanging by a 40-centimetre thread from a pencil taped to a table edge, with a child rubbing it along a folded woollen shawl.",
@@ -778,7 +778,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Lay out the five things, the wool and the polythene. Ask your child to guess for each thing, and to say why. Write every guess down.",
-     "say": "We will rub five things on wool, and then on polythene. Which will take electrons and push our balloon away? Why do you think so?",
+     "say": "We will rub five things on wool, and then on polythene. After each rub, we hold the thing near a hanging balloon and see if it pushes the balloon away.",
      "kid": "Guess which things will push the balloon away. Say why.",
      "ask": [
       {
@@ -826,7 +826,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Hold the plain, unrubbed ruler 3 centimetres from the balloon, at the same height. Watch for 5 seconds. Write R if the balloon is pushed away, A if it is pulled closer, and 0 if nothing happens.",
-     "say": "First, a control. A control is a test to compare the others with. This ruler has not been rubbed. What does the balloon do? Write R, A or 0.",
+     "say": "First, a control. A control is a test to compare the others with. This ruler has not been rubbed. What does the balloon do? Write R if it pushes away, A if it pulls closer, or 0 if nothing happens.",
      "kid": "Hold the plain ruler near the balloon. Write R, A or 0.",
      "ask": [
       {
@@ -894,7 +894,7 @@
      "id": "s6",
      "mins": 7,
      "do": "Cut seven small cards: wool, polythene, and the five things. Put wool at the top and polythene at the bottom. A thing that pushed the balloon after wool goes below wool. A thing that pushed it after wool and pulled it after polythene goes in the middle. Now pick two things that are far apart on your ladder. Say which will get the minus charge. Rub them together, test each one on the balloon, and check.",
-     "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
+     "say": "Look at your ladder. Pick two things that are far apart. Which one will get the minus charge when you rub them together?",
      "kid": "Put the cards in a ladder. Pick two far apart. Rub them together. Test your guess.",
      "think": "Which of your five things sits in the middle of the ladder, and what does that mean?",
      "ask": [
@@ -954,7 +954,7 @@
     }
    ],
    "safety": "Keep balloons and bits of burst balloon away from children under three. If anyone at home has a latex allergy, do not use latex balloons.",
-   "record": "Fill in the table. Draw a bar chart with one bar for each number of rubs, using the gap beyond the resting gap.",
+   "record": "Fill in the table. Make a bar chart with one bar for each number of rubs, using the gap beyond the resting gap. Draw it, or lay a thread as long as each gap and take a photo.",
    "context": "In this experiment, you charge two balloons the same amount and measure how far apart they hang. You find out whether twice the rubbing pushes them twice as far apart.",
    "setup": [
     {
@@ -1022,7 +1022,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Repeat step 3 with 10 rubs on each balloon. Do two tries, and clear the charge with a damp hand afterwards.",
-     "say": "Now ten rubs each. Hang them up, wait ten seconds, and measure. Is the gap twice as big as with five rubs?",
+     "say": "Now ten rubs each. Hang them up, wait ten seconds, and measure the gap. Write it down.",
      "kid": "Rub each balloon 10 times. Hang them. Measure the gap.",
      "ask": [
       {
@@ -1059,9 +1059,9 @@
     {
      "id": "s6",
      "mins": 5,
-     "do": "Subtract the resting gap from each gap. Draw a bar chart with one bar for 5, 10 and 20 rubs. Ask your child to say what they thought, what they saw and why.",
+     "do": "Subtract the resting gap from each gap. Make a bar chart with one bar for 5, 10 and 20 rubs. Draw the bars, or lay a thread as long as each gap. Ask your child to say what they thought, what they saw and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a bar for each number of rubs. Say what you saw.",
+     "kid": "Make a bar for each number of rubs. Draw it, or lay a thread as long as each gap. Say what you saw.",
      "think": "If you could rub forever, would the gap keep growing?",
      "parent": "After they have said what they saw, explain: more rubs moved more electrons, so each balloon had more charge and pushed harder. But the gap did not grow as fast as the number of rubs, for two reasons. The push gets weaker as the balloons move apart. And the balloons can hold only so much charge before it leaks into the air as tiny sparks you cannot see.",
      "context": "This is the last step of the Two Balloons test. You draw the chart and explain what you found."
@@ -1102,8 +1102,8 @@
      "what": "Make the foil ball. Watch what it does near a charged balloon. Touch it with a finger."
     }
    ],
-   "record": "Draw the foil ball three times: before the balloon, just after it touches, and after you touch it with your finger. Add arrows for what happens. Write the seconds the ball kept away from the balloon.",
-   "context": "In this activity, you hang a little foil ball near a charged balloon and watch it change what it does. Do this before you read the explanations.",
+   "record": "Write or say what the foil ball did three times: before the balloon, just after it touches, and after you touch it with your finger. You can draw it too. Write the seconds the ball kept away from the balloon.",
+   "context": "In this activity, you hang a little foil ball near a charged balloon and watch it change what it does. You will find out why the ball first jumps to the balloon and then runs away from it. Do this before you read the explanations.",
    "setup": [
     {
      "art": "A small ball of foil on a thread hanging from a pencil taped to the edge of a table.",
@@ -1127,7 +1127,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Tear a piece of foil 5 centimetres square. Scrunch it around the end of the thread into a ball the size of a marble. Tie the other end to a pencil. Tape the pencil to the edge of a table so the ball hangs free.",
-     "say": "This foil ball hangs on a thread. Foil is a metal. Before we use it, what do you think will happen when a charged balloon comes near?",
+     "say": "This foil ball hangs on a thread. Foil is a metal. Next we will bring a charged balloon near it.",
      "kid": "Make a foil ball on a thread. Hang it from a table edge.",
      "ask": [
       {
@@ -1146,7 +1146,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Rub a balloon 15 times on the wool. Move it slowly towards the ball, from the side, until it is about 5 centimetres away. Let the ball touch the balloon. Watch what happens next.",
-     "say": "Fifteen rubs on wool. Now bring the balloon slowly to the ball. What does the ball do? What does it do after it touches?",
+     "say": "Fifteen rubs on wool. Now bring the balloon slowly to the ball. Watch closely, before and after it touches.",
      "kid": "Rub the balloon on wool. Bring it near the ball. Watch.",
      "ask": [
       {
@@ -1175,8 +1175,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Move the balloon slowly towards the ball again. Try to chase the ball with the balloon. Watch how it runs away. Count how many seconds the ball keeps away before it comes back, and write the number.",
-     "say": "Chase the ball with the balloon. What does it do? Why do you think it runs away now, when it did not before?",
-     "kid": "Chase the ball with the balloon. What does it do?",
+     "say": "Chase the ball with the balloon. Does it come to the balloon, or run away?",
+     "kid": "Chase the ball with the balloon. Count how long it keeps away.",
      "ask": [
       {
        "q": "Why does the ball run away from the balloon now, when before it jumped to it?",
@@ -1192,9 +1192,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Touch the ball with your finger for two seconds. Then bring the balloon near again. Watch what the ball does now. Draw the ball three times: before the balloon, just after it touches, and after you touch it with your finger.",
-     "say": "Touch the ball with your finger. Now bring the balloon near. What does it do now? Where did the ball's charge go?",
-     "kid": "Touch the ball with your finger. Bring the balloon near. Draw it.",
+     "do": "Touch the ball with your finger for two seconds. Then bring the balloon near again. Watch what the ball does now. Ask your child to say what the ball did three times: before the balloon, just after it touches, and after you touch it with your finger.",
+     "say": "Touch the ball with your finger. Now bring the balloon near. What does the ball do now?",
+     "kid": "Touch the ball with your finger. Bring the balloon near. Tell what the ball did each time.",
      "ask": [
       {
        "q": "Where did the ball's charge go when you touched it?",
@@ -1363,7 +1363,7 @@
      "what": "Make two pairs of tape twins. Pull each pair apart. See which push and which pull."
     }
    ],
-   "record": "Draw the four strips and write T or B on each. Write which pairs pushed apart and which pulled together.",
+   "record": "Write T or B for each of the four strips. Write which pairs pushed apart and which pulled together.",
    "context": "In this activity, you peel two strips of tape apart and find that they carry opposite charges. You see both kinds of charge at once, without any cloth.",
    "setup": [
     {
@@ -1384,7 +1384,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Tear four strips of tape, each 20 centimetres long. Fold over 1 centimetre at one end of each strip to make a handle. Write B on the handles of two strips and T on the other two. Stick the two B strips firmly on the table. Press the two T strips on top of them.",
-     "say": "We have two pairs of strips. The strips on the table are B for bottom. The strips on top are T for top. Before we peel them, what do you think will happen?",
+     "say": "We have two pairs of strips. The strips on the table are B for bottom. The strips on top are T for top. Next we will peel each pair apart and see what the strips do.",
      "kid": "Stick two strips on the table. Press two more on top. Label them B and T.",
      "ask": [
       {
@@ -1403,7 +1403,7 @@
      "id": "s2",
      "mins": 6,
      "do": "Hold the handles of the first pair. Peel both strips off the table together in one smooth pull. Then pull the two strips apart quickly. Hang each strip by its handle from the edge of the table. Do the second pair in the same way.",
-     "say": "Peel both strips off together. Then pull them apart fast. Hang them by their handles. What do you notice about how they hang?",
+     "say": "Peel both strips off together. Then pull them apart fast. Hang them by their handles. Watch how they hang.",
      "kid": "Peel a pair off the table. Pull the strips apart fast. Hang them.",
      "ask": [
       {
@@ -1451,8 +1451,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Ask your child to explain what happened. Ask where the charges came from when nobody rubbed anything. Then press a T and a B strip flat together, smooth them, and bring them near the paper scraps. Compare with a lone T strip near the scraps.",
-     "say": "Nobody rubbed these strips. Where did the charge come from? Why do the top and bottom strips have opposite charges?",
-     "kid": "Where did the charge come from? Say what you think.",
+     "say": "Nobody rubbed these strips. Where did the charge come from? Say what you think.",
+     "kid": "Press a T and a B strip flat together. Hold them near paper scraps. Then try a T strip alone.",
      "think": "If the charges are equal and opposite, what would happen if you pressed the two strips together again?",
      "parent": "A strong answer says that peeling moved electrons from one strip to the other, so one has extra and the other has a shortage. Pressing them together lets the electrons go back, and the strips become neutral again. The pressed pair should pick up little or nothing, because the two charges cancel. A lone strip may lift tiny scraps.",
      "context": "In this step, you say where the charge came from."
@@ -1532,7 +1532,7 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Hang and charge the balloon as you did in the Charge Ladder test. Rub each new thing ten times on the wool and then on the polythene. Hold each 3 centimetres from the balloon and write R, A or 0. Wipe each one clean before the next test. Also time, with a phone, how long the balloon leans towards your plain hand.",
+     "do": "Hang and charge the balloon as you did in the Charge Ladder test. Rub each new thing ten times on the wool and then on the polythene. Hold each 3 centimetres from the balloon and write R, A or 0. Wipe each one clean before the next test. Also time, with a phone, how long the balloon leans towards your plain hand. You will compare this on the damp day.",
      "say": "This is the same test as the Charge Ladder, with four new things. Rub ten times, hold it near the balloon, and write R, A or 0.",
      "kid": "Test each new thing on wool and polythene. Write R, A or 0.",
      "check": {
@@ -1554,7 +1554,7 @@
      "wait": "Do this on another day, in a damp place such as a bathroom after a hot shower.",
      "adult": true,
      "do": "On the second day, hang the balloon in a damp place, such as a bathroom after a shower. Test the same four things on wool and polythene in the same way. Write R, A or 0 for each, in a new column. Time how long the balloon leans towards your plain hand, as on day 1.",
-     "say": "Today the air is damp. Do the same tests as before. Do the things push the balloon as strongly? Why might that be?",
+     "say": "Today the air is damp. Do the same tests as before.",
      "kid": "Test the same things in damp air. Write R, A or 0.",
      "ask": [
       {
@@ -1573,9 +1573,9 @@
      "id": "s4",
      "mins": 20,
      "wait": "Do this on the third day.",
-     "do": "Put the two columns side by side. Did the order of the things change? Draw your final ladder with all eleven rungs. Write three sentences about what you found.",
+     "do": "Put the two columns side by side. Did the order of the things change? Make a card for each of the eleven rungs and lay them in order. Take a photo, or draw it. Write three sentences about what you found.",
      "say": "Look at both columns. Did the order change on the damp day? Or only how strongly they pushed? What do you think that tells us?",
-     "kid": "Compare the two days. Draw your ladder with eleven rungs.",
+     "kid": "Compare the two days. Lay out your ladder with eleven cards.",
      "think": "If damp air weakens the pushes but keeps the order, what is the water doing?",
      "parent": "Many families find that the order stays but the pushes weaken, because water on the surface lets charge leak. Some find the order shifts a little. Both are real results. Published ladders also disagree, partly for this reason.",
      "context": "This is the last day of the Home Ladder project. You compare the two days and draw your final ladder."
@@ -1614,7 +1614,7 @@
     "Press the strip onto the wall next to a steel almirah or a metal pipe, and see if the charge drains away.",
     "Use a damp bathroom for the whole test and see whether the strip falls faster."
    ],
-   "your_turn": "Sketch your idea first. Build it and test it three times. Write the times. Change one thing, and test again. Which idea made the strip fall fastest? Why do you think it worked?",
+   "your_turn": "Say your idea first, or sketch it. Build it and test it three times. Write the times. Change one thing, and test again. Which idea made the strip fall fastest? Why do you think it worked?",
    "context": "This is a design challenge about charge. You find ways to let the charge leave a strip, using what you know about conductors and points.",
    "setup": [
     {
@@ -1652,9 +1652,9 @@
     {
      "id": "s2",
      "mins": 7,
-     "do": "Sketch two or three ideas for making the charge leave the strip. Choose one to test first.",
-     "say": "How could we let the charge leave the strip? Think of the things that let the charge run away in the Charge Walk. Draw two or three ideas.",
-     "kid": "Draw two ideas for making the strip fall. Pick one.",
+     "do": "Think of two or three ideas for making the charge leave the strip. Say them out loud, or lay out the things for each. Choose one to test first.",
+     "say": "How could we let the charge leave the strip? Think of the things that let the charge run away in the Charge Walk. Tell me two or three ideas.",
+     "kid": "Say two ideas for making the strip fall. Pick one.",
      "ask": [
       {
        "q": "Which things would let the charge run away, and why?",

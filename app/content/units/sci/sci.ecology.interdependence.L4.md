@@ -210,14 +210,14 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   - Note: The six links are Food, Shelter, Making new plants, Travel, Clean-up and Changing the place. Read them out loud before you start. With 2 to 4 players, the reader changes every card, so each child reads in turn. Children may cut the cards with blunt-tipped scissors, or the parent cuts them. One child can lay out the tokens while another shuffles.
 - **s2 (12 min)**  
   *Parent does:* Read the front of one card aloud, and nothing else. Everyone says who made the sign and picks a token. Read the back and give points. Play ten cards.  
-  *Parent says:* Read me the sign. I will say who I think made it, and I will pick a link. Then we check the back. There is one point for a sensible guess about who made it, and one point for a link that the back mentions.  
-  *Child mode:* Read a card. Say who made the sign. Pick a link token. Check the back.
+  *Parent says:* I will read you a sign. Say who you think made it, and pick a link. Then we check the back. There is one point for a sensible guess about who made it, and one point for a link that the back mentions.  
+  *Child mode:* Listen to the sign. Say who made it. Pick a link token. Check the back.
   - Ask: Which clue on the front helped you most? (good: The shape of the hole or the tube.; The place where it was found.; What was inside the dropping.)
   - Check: A thin mud tube climbs a tree trunk. Which link does it show most clearly? → **Clean-up**
 - **s3 (3 min)**  
   *Parent does:* Add up the points. Choose the sign that was hardest to read. Talk about who else gains from that sign.  
   *Parent says:* Which sign was hardest to read? Who else gains from it? On a real trail, we look first and touch nothing.  
-  *Child mode:* Count your points. Which sign was hardest? Who else gains from it?
+  *Child mode:* Count your points. Pick the sign that was hardest to read.
   - Note: Good answers see a second link. A dropping full of seeds shows food for the animal and travel for the plant.
 
 ## Experiments
@@ -226,12 +226,12 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
 - **predict:** Before you start, guess. Which plate will send off the most water, and which will send off the muddiest water? Why do you think so?
 - **fair test:** Every plate is the same size, is lifted to the same slope, and gets the same amount of rain from the same strainer. Plate A, bare soil, is the starting point. Plate B changes one thing from A: dry leaves on top. Plate C has the same leaves as B but no soil. Because each plate differs in only one way, a difference in the runoff comes from that one thing.
 - **safety:** Do the test over a bucket, a sink or a bathroom floor, because it is messy. Wash your hands after touching soil. Do not put soil or leaves near your mouth. Keep the dry leaves away from any flame.
-- **record:** Write the seconds until the first drop, the millilitres that ran off in each rain, and how muddy the water was. Then draw a bar chart of the runoff in rain 1.
+- **record:** Write the seconds until the first drop, the millilitres that ran off in each rain, and how muddy the water was. Then draw a bar chart of the runoff in rain 1, or take a photo of the glasses lined up.
 - **results table:** Plate | What is on it | Seconds to first drop (rain 1) | Runoff in rain 1 (ml) | Runoff in rain 2 (ml) | How muddy (clear, a little, very)
 - **s1 (5 min)**  
   *Parent does:* Set out three identical plates, a tea strainer, a tumbler of soil and a bowl of crushed dry leaves. Show your child what goes on each plate. Write down their guess and their reason.  
-  *Parent says:* We will pour pretend rain on three plates. Plate A will have only soil. Plate B will have soil with dry leaves on top. Plate C will have dry leaves and no soil. Which plate will send off the most water? Which will send off the muddiest water? Why do you think so?  
-  *Child mode:* Plate A has soil. Plate B has soil and leaves. Plate C has only leaves. Which sends off the muddiest water? Why do you think so?
+  *Parent says:* We will pour pretend rain on three plates. Which plate will send off the most water? Which will send off the muddiest water? Why do you think so?  
+  *Child mode:* Plate A has only soil. Plate B has soil with leaves on top. Plate C has only leaves. Make your guess.
   - Ask: Why do you think that plate will send off the most water? (good: Bare soil has nothing to stop the water.; Leaves will slow the water down.; Soil soaks up water like a sponge.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the results table.
 - **s2 (10 min)**  
@@ -260,9 +260,9 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   - Note: Muddy water from plate A is the most common result. If all the glasses look the same, the soil may be too coarse. Try again with finer, drier soil.
   - Check: Brown water running off bare soil is carrying something away. What is it? → **Tiny bits of soil**
 - **s6 (8 min)**  
-  *Parent does:* Draw a bar chart. Put the three plates along the bottom and the runoff in rain 1 up the side. Ask your child to say what they thought, what they saw and why. Then ask what would change if the leaves were taken off plate B.  
+  *Parent does:* Line up the three glasses from rain 1 side by side, like a bar chart. Ask your child to say what they thought, what they saw and why. Then ask what would change if the leaves were taken off plate B.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a bar for each plate. Say what you thought, what you saw, and why.
+  *Child mode:* Line up the glasses, with the most runoff first. Say what you thought, what you saw, and why.
   - Note: A strong answer says that plate B kept more water, or sent out clearer water, than plate A, and that plate C let the water run off. After they have said what they saw, explain: leaves slow the drops and the flow, soak up some water, and protect the soil from the beating of the drops. The soil below soaks up the rest. Each needs the other. In a forest, roots, worms, termites and fungi also open tunnels and bind the soil. If plate B did not do better than plate A, say so. That is also a result.
   - Think: Plate C had leaves too. Why didn't leaves alone hold the water?
 ### e2 · Blanket Test: do dead leaves keep soil damp? (44 min, 5 days)
@@ -270,19 +270,19 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
 - **predict:** Before you start, guess. Which cup will dry out first, and which will stay damp longest? Why do you think so?
 - **fair test:** Every cup has the same soil, the same depth, the same amount of water and the same place in the sun. Cup A, bare soil, is the control: the plain cup that we compare the others with. Cup B and cup C differ from A in one way only: a cover of leaves. B and C differ from each other only in how thick the cover is.
 - **safety:** Keep the cups away from the edge of a sill or balcony so that they cannot fall. Mould can grow on damp leaves, so do not sniff the leaves. If your child has asthma or an allergy, an adult should check the cups. Wash your hands after touching soil or leaves.
-- **record:** Each day, write the length of the pale, dry part of the stick in the table. On day 5, draw a line graph with one line for each cup.
+- **record:** Each day, write the length of the pale, dry part of the stick in the table. On day 5, draw a line graph with one line for each cup, or read down the table and say which cup dried first.
 - **results table:** Cup | What covers the soil | Day 1 dry part (cm) | Day 2 (cm) | Day 3 (cm) | Day 4 (cm) | Day 5 (cm)
 - **schedule:** day 1: Guess. Set up the three cups. Do the first stick test. (17 min); day 2: Stick test on each cup. Write the pale part in the table. (4 min); day 3: Stick test on each cup. Look under the leaves. (4 min); day 4: Stick test on each cup. Guess the number for day 5. (4 min); day 5: Last stick test. Draw the graph. Say what you found and why. (15 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the three cups. Say that A will stay bare, B will get a thin cover of leaves and C will get a thick cover. Write down their guess and their reason.  
   *Parent says:* We will keep three cups of damp soil in the sun for five days. One is bare. One has a thin blanket of leaves. One has a thick blanket. Which will dry out first? Which will stay damp longest? Why do you think so?  
-  *Child mode:* Cup A is bare. Cup B has a few leaves. Cup C has a thick layer of leaves. Which dries out first? Why?
+  *Child mode:* Cup A is bare. Cup B has a few leaves. Cup C has a thick layer of leaves. Guess which dries out first.
   - Ask: Why do you think that cup will dry out first? (good: The sun can reach the bare soil.; Leaves keep the sun off.; A thick blanket will keep more water in.)
   - Note: Do not correct the guess. Write the guesses at the top of the results table.
 - **s2 (12 min)**  
   *Parent does:* In a bowl, mix all the soil with the 12 tablespoons of water until it is evenly damp, like a wrung-out cloth. Fill each cup with this soil to 6 centimetres. Leave cup A bare. Cover cup B with a layer of crushed leaves about 1 centimetre thick. Cover cup C with a layer about 3 centimetres thick. Put all three side by side in a sunny place. Do the first stick test.  
   *Parent says:* All three cups have the same soil, the same water and the same sun. Only the covering is different. To test how dry the soil is, we push a stick to the bottom, pull it out and measure the pale part.  
-  *Child mode:* Fill the cups with soil. Add water. Cover B a little and C a lot. Put them in the sun.
+  *Child mode:* Mix the soil with water. Fill the cups. Cover B a little and C a lot. Put them in the sun.
   - Note: To do a stick test, push a clean stick straight down to the bottom of the cup. Pull it out. Damp soil makes the stick dark and dry soil leaves it pale. Measure the pale part of the stick, from the soil line down to where it turns dark, in centimetres, and write it in the table. On day 1 it should be 0 for all the cups. Use a new stick for every reading, or wipe the stick dry. Push the stick in at a new spot near the edge each day, and lift the leaves aside rather than pulling them off. For a covered cup, measure the pale part from the soil surface under the leaves. Two to four children: each child looks after one cup, or two children share a cup and take turns to push and to measure. Alone, you do all three cups. If it rains a lot or the air is very damp, put the cups where the sun reaches, and out of the rain. If all three cups still stay dark after five days, write that down. It is a result. Carry on for five more days, or move the cups to a warmer, sunnier place, and see which cup begins to pale first. Dry weather gives clearer results than monsoon days.
   - Check: Why do all the cups get exactly the same water and the same sun? → **So that only the cover is different**
 - **s3 (4 min)**  
@@ -304,9 +304,9 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   - Note: This is a good moment to ask for a prediction. A pattern like 0, 1, 2, 3 suggests 4 for the next day.
   - Wait: Come back tomorrow at the same time.
 - **s6 (15 min)**  
-  *Parent does:* Do the last stick test. Draw a line graph. Put the days along the bottom and the pale length up the side, with one line for each cup. Ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Do the last stick test. Draw a line graph, or read down the table. For a graph, put the days along the bottom and the pale length up the side, with one line for each cup. Ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a line for each cup. Say what you thought, what you saw, and why.
+  *Child mode:* Draw a line for each cup, or read the table. Say what you thought, what you saw, and why.
   - Note: A strong answer says that the bare cup dried fastest, and that the thicker cover slowed the drying more. After they have said what they saw, explain: sun and wind turn the water in soil into vapour. Leaves shade the soil, keep the wind off and keep it cooler, so less water escapes. This is why farmers use mulch. If the bare cup did not dry fastest, say so, and look for what else was different between the cups.
   - Check: A farmer spreads straw around young vegetable plants in summer. Why? → **The straw slows the loss of water from the soil**
   - Think: If the thick cover kept the soil damp, would a plant grow better under it? How could you test that?
@@ -314,41 +314,41 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
 ## Activities
 ### a1 · Window Trail: a nature trail from one spot (17 min)
 - **safety:** A grown-up stays with you on a balcony or terrace. Never lean over the railing. Do not touch a wasp or bee nest, a spider or any creature you do not know.
-- **record:** Write a list of at least eight living beings or signs of them. Then draw three arrows between pairs of them and write the link on each arrow.
+- **record:** Write a list of at least eight living beings or signs of them. Then write three pairs of them and the link for each pair. You may draw an arrow between each pair.
 - **s1 (3 min) · grown-up needed**  
   *Parent does:* Choose a spot with plants or sky in view, such as a window, a balcony or a terrace. A grown-up comes along. Read the trail rules aloud. Set a timer for ten minutes.  
   *Parent says:* We are going on a trail without going anywhere. The rules are simple. Stay put. Stay quiet. Touch nothing you do not know. Take your rubbish home.  
   *Child mode:* Sit near the window. Stay still and quiet. Touch nothing you do not know.
   - Note: In a flat you may see few animals. That is fine. Ants, a crow, a pigeon, a potted plant, a lizard on the wall and a spider's web all count.
 - **s2 (10 min)**  
-  *Parent does:* Look, listen and smell for ten minutes. Write down at least eight things. Include signs, such as a nibbled leaf, a feather, a web or a snail trail. Draw the one you like best.  
+  *Parent does:* Look, listen and smell for ten minutes. Write down at least eight things. Include signs, such as a nibbled leaf, a feather, a web or a snail trail. Tell your grown-up which one you like best.  
   *Parent says:* What do you see? What do you hear? Is anything moving? Is anything chewed, dropped, built or dug? Write it all down.  
-  *Child mode:* Look and listen. Write down everything alive, and every sign of life. Draw your favourite.
+  *Child mode:* Look and listen. Write down everything alive, and every sign of life. Tell which one you like best.
   - Ask: Which things on your list are living beings, and which are signs? (good: The crow is a living being. The feather is a sign.; The ants are living beings. The line on the wall is a sign.; The nibbled leaf is a sign.)
   - Note: Do not tell your child what they should find. Accept anything that they notice. Ask for a second look at a leaf or a wall corner. Two to four children: each sits at a different side of the window or balcony with their own notebook, then everyone compares lists and finds things only one child saw. If your list is short, count plants, sounds, and signs such as a feather or a web.
 - **s3 (4 min)**  
-  *Parent does:* Choose three pairs from the list. For each pair, draw an arrow from the one who gives to the one who gains. Then write the link: food, shelter, making new plants, travel, clean-up or changing the place.  
-  *Parent says:* Pick two things from your list. Does one of them need the other? What does she get? Draw an arrow, and name the link.  
-  *Child mode:* Pick two things. Draw an arrow from the giver to the one who gains. Name the link.
+  *Parent does:* Choose three pairs from the list. For each pair, say which one gives and which one gains. Then name the link: food, shelter, making new plants, travel, clean-up or changing the place. Write it down, with an arrow if you like.  
+  *Parent says:* Pick two things from your list. Does one of them need the other? What does the other one get? Name the link.  
+  *Child mode:* Pick two things. Who gives and who gains? Name the link.
   - Check: A crow sits on a wire and eats a fruit from a tree. Which link is this? → **Food**
 ### a2 · One Tree, Many Lives: a census of a tree near you (25 min)
 - **safety:** A grown-up comes with you. Do not climb the tree or shake her. Do not touch nests, hives or hairy caterpillars. Stay away from busy roads.
-- **record:** Make a tally of the kinds of living beings and signs you find in five places: bark, leaves, flowers and fruit, the ground below, and the air around the tree. Then draw the tree with an arrow for each link.
+- **record:** Make a tally of the kinds of living beings and signs you find in five places: bark, leaves, flowers and fruit, the ground below, and the air around the tree. Then write each visitor and the link, for example: a bee gets nectar from the flowers. You may draw the tree with arrows.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* A grown-up comes along. Choose one tree, such as a neem, a mango, a gulmohar or a peepal. Make five boxes in the notebook. Write a title on each: bark, leaves, flowers and fruit, ground, and air.  
   *Parent says:* We will spend three minutes on each part of this tree. We are counting how many kinds of living beings we find, not how many of each kind. Do not touch what you do not know.  
   *Child mode:* Pick a tree. Draw five boxes. Name each one.
   - Note: A road tree in a city counts. Choose one you can reach without crossing a busy road.
 - **s2 (15 min)**  
-  *Parent does:* Spend three minutes on each of the five boxes: bark, leaves, flowers and fruit, ground, and air. Make a mark or a drawing for every kind you find.  
+  *Parent does:* Spend three minutes on each of the five boxes: bark, leaves, flowers and fruit, ground, and air. Make a tally mark or write a word for every kind you find.  
   *Parent says:* What is on the bark? What is on the leaves? Who visits the flowers or fruit? What lies on the ground? What flies near her?  
-  *Child mode:* Look at each part of the tree for three minutes. Draw each kind you find in its box.
+  *Child mode:* Look at each part of the tree for three minutes. Make a mark in its box for each kind you find.
   - Ask: Which part of the tree had the most different visitors? (good: The flowers or the fruit.; The bark, with ants and beetles.; The ground, with ants and fallen leaves.)
   - Note: Count kinds, not numbers. Ten ants are one kind. Accept 'a small black beetle' as a kind. If it is quiet, wait. Visitors often come after you are still for a few minutes. Two to four children: give each child one or two boxes to start, then swap and add what the others missed. One child alone does all five boxes in turn. Keep away from ants' nests and bee hives, and wash hands afterwards.
 - **s3 (5 min)**  
-  *Parent does:* Draw the tree. Add an arrow for each visitor and write the link. Then ask your child what would be lost if the tree were cut.  
-  *Parent says:* Draw an arrow for each visitor, and name the link. If this tree were cut down, who would lose something?  
-  *Child mode:* Draw the tree. Draw an arrow to each visitor. If the tree were cut down, who would lose something?
+  *Parent does:* For each visitor you found, ask your child what the visitor gets from the tree, and name the link. Then ask what would be lost if the tree were cut.  
+  *Parent says:* What does each visitor get from the tree? Name the link. If this tree were cut down, who would lose something?  
+  *Child mode:* Say what each visitor gets from the tree. Then think about what the tree gives that nobody else can.
   - Note: Good answers name more than one loser: birds that nest, insects that eat the leaves, ants on the bark, the soil that the roots hold. Some visitors give back to the tree, such as the bee who carries pollen and the bird who carries seeds.
   - Think: Does the tree need any of her visitors?
 ### a3 · Ask an Elder: an old rule that looks after nature (30 min)
@@ -365,9 +365,9 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   - Ask: What does the rule look after? (good: A tree, a pond or an animal.; The soil or the water.; Food for the next season.)
   - Note: Listen without correcting. Some rules are about belief, and some are about practice. Both are worth hearing. Several children can ask the same elder together, taking turns with the three questions, or each ask a different elder and bring the answers back to compare. If no elder is near, a neighbour, a teacher or a relative on a phone call will do.
 - **s3 (10 min)**  
-  *Parent does:* Draw the rule and what it looks after. Ask: does it take only what grows back? Does it keep a link in the web, such as shelter, clean-up or food? Does science tell us why it works?  
+  *Parent does:* Ask your child to tell the rule back in their own words. Then ask: does it take only what grows back? Does it keep a link in the web, such as shelter, clean-up or food? Does science tell us why it works?  
   *Parent says:* Does this rule take only what grows back? Which link does it protect? Is there a reason that science can see?  
-  *Child mode:* Draw the rule. Does it take only what grows back? Which link does it protect?
+  *Child mode:* Tell the rule in your own words. Which link does it protect?
   - Note: Good answers see a plain link, such as neem leaves keeping insects out. Some rules have a reason we do not yet know. It is fine to leave that open.
   - Check: A family puts dried neem leaves in the grain tin to keep insects out. What is the best way to test whether this works? → **Store grain with and without neem leaves, and compare**
   - Think: Can an old rule be good even if the old reason is not the one that science would give?
@@ -400,7 +400,7 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
 ## Projects
 ### p1 · Grow a Root Mat: do living roots hold soil? (63 min, 7 days)
 - **safety:** Do not eat the seeds or the sprouts from this plate, because the soil is not clean. Wash your hands after touching soil. Keep the plate away from the edge of a sill. Methi can upset a child who is allergic to it, so an adult decides if your child should handle it. Wash your hands after the rain test.
-- **record:** Draw the root mat plate on day 1 and on day 7. For both plates, write the seconds to the first drop, the millilitres that ran off and how muddy the water was.
+- **record:** Draw or take a photo of the root mat plate on day 1 and on day 7. For both plates, write the seconds to the first drop, the millilitres that ran off and how muddy the water was.
 - **schedule:** day 1: Spread soil on two plates. Scatter the methi seeds on one. Sprinkle both with water. (18 min); day 2: Sprinkle a little water so the soil stays damp. Look for sprouts. (3 min); day 3: Sprinkle a little water. Measure the tallest sprout. (3 min); day 4: Sprinkle a little water. Draw what you see. (3 min); day 5: Sprinkle a little water. Look at the roots at the edge of the plate. (3 min); day 6: Sprinkle a little water. Stop watering after today. (3 min); day 7: Pour the pretend rain on the root mat plate and on the bare plate. Compare them. Explain what you see. (30 min)
 - **s1 (18 min)**  
   *Parent does:* Soak the methi seeds in water overnight if you can. Spread one tumbler of soil on each plate, about as thick as a fingertip. On plate 1, scatter the methi seeds evenly and press them in lightly. Leave plate 2 bare, as the comparison. Sprinkle both plates with the same amount of water until the soil is damp. Put both in the same light place.  
@@ -409,9 +409,9 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
   - Ask: What do you think will happen when rain falls on a plate full of roots? (good: The roots will hold the soil.; Less mud will wash away.; The water will soak in.)
   - Note: Do not eat the seeds or the sprouts from this plate, because the soil is not clean. Keep the soil damp, not soaked. If your home is cold, put the plate near a window. Two to four children: each pair of children grows their own pair of plates, or one pair of plates is shared and the children take turns to water and to measure. Methi usually sprouts in two to three days in warm weather, and may take longer in the cold.
 - **s2 (3 min)**  
-  *Parent does:* Sprinkle the same small amount of water on both plates. Look at the sprouts. On one day, measure the tallest one with a ruler. On another day, draw what you see.  
+  *Parent does:* Sprinkle the same small amount of water on both plates. Look at the sprouts. On one day, measure the tallest one with a ruler. On another day, take a photo or tell your grown-up what you see.  
   *Parent says:* What has changed since yesterday? Are the roots visible at the edge of the plate?  
-  *Child mode:* Sprinkle a little water. Look at the sprouts. Draw or measure them.
+  *Child mode:* Sprinkle a little water. Look at the sprouts. Measure one, or tell what you see.
   - Note: Water for the last time on day 6, so the soil is damp but not wet on day 7.
   - Wait: Come back each day, from day 2 to day 6.
 - **s3 (23 min)**  
@@ -438,7 +438,7 @@ By the end of the week, each coconut palm in the compound stood in a patch of un
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Talk about what makes soil wash away. Ask for two ideas for slowing the rain.  
   *Parent says:* In the Forest Floor Test, leaves helped. What else might slow the rain down on a slope? Think of things from home.  
-  *Child mode:* Rain washes soil away. How can you slow it down? Think of two ideas.
+  *Child mode:* Rain washes soil down a slope. Think of two things from home that could slow it.
   - Ask: What stops a stream of water from running fast? (good: A wall or a ridge across it.; Something rough or soft.; A place for it to sink in.)
 - **s2 (20 min)**  
   *Parent does:* Build two ideas on two plates, one idea on each. Use the same soil and the same slope. Pour 200 millilitres of rain on each, as in the Forest Floor Test. Catch the runoff in a glass.  

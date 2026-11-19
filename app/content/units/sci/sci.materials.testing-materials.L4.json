@@ -780,7 +780,7 @@
         {
           "id": "s3",
           "mins": 12,
-          "do": "Play cards 2 to 18. After every four cards, stop and ask the question below.",
+          "do": "Play cards 2 to 18. Each player who chose the right token scores one point. After every four cards, stop and ask the question below.",
           "say": "Read the card. Choose a token. Turn it over together. Now check the back.",
           "kid": "Read the card. Choose a token. Turn it over. Check the back. Keep score.",
           "ask": [
@@ -809,7 +809,7 @@
           "id": "s4",
           "mins": 6,
           "do": "Play cards 19 to 24, the catch cards. Talk about each one before you turn it over.",
-          "say": "These cards have a catch. Think about tries, the tester and the tools.",
+          "say": "These cards have a catch, something that makes the numbers less trustworthy. Think about how many tries, who did the test and what tools were used.",
           "kid": "Play the catch cards. Look for the catch.",
           "parent": "The catch cards are for deeper talk. Card 22 shows that a zero error changes every reading but not the gap between two readings.",
           "context": "In this step, you play the hard cards. Each has a catch, such as too few tries, a hopeful tester or a chipped ruler."
@@ -984,7 +984,7 @@
           "id": "s2",
           "mins": 4,
           "do": "Read the three mats aloud. Ask the question below before you play card 1.",
-          "say": "The three mats are: the thing varies, the measuring is rough and we hoped for it. Can you think of an example for each one?",
+          "say": "The three mats are: the thing varies, the measuring is rough and we hoped for it.",
           "kid": "Read the mats. Think of one example for each.",
           "ask": [
             {
@@ -1001,7 +1001,7 @@
         {
           "id": "s3",
           "mins": 14,
-          "do": "Play cards 1 to 12. Turn each card over after the group has chosen a mat. Read the fix aloud.",
+          "do": "Play cards 1 to 12. Turn each card over after the group has chosen a mat. Read the fix aloud. Each right choice wins a token from the bowl.",
           "say": "Read a card. Choose a mat. Then read the back together.",
           "kid": "Read a card. Choose a mat. Check the back.",
           "check": {
@@ -1091,7 +1091,7 @@
       ],
       "safety": "Keep marbles away from children under five, and pick up every marble after the test so nobody slips on one. Use a marble without chips or cracks, and keep faces back from the bounce.",
       "record": "Draw a table with one row for each ball. Write your ten readings and your helper's ten readings. Then draw a dot plot with a row for each ball on one number line. Write the range and the middle value of each ball.",
-      "context": "In this experiment, you drop a rubber ball, a table-tennis ball, a marble and a ball of clay ten times each from the same height, and look at how much the bounces vary. Then you decide which differences between balls are real.",
+      "context": "In this experiment, you drop a rubber ball, a table-tennis ball, a marble and a ball of clay ten times each from the same height, and look at how much the bounces vary. Then you decide which differences between balls are real. You will find out why one drop is not enough to say which ball bounces highest.",
       "setup": [
         {
           "art": "A tailor's tape measure taped up a wall with its zero at the floor, a small flag of masking tape at 50 centimetres and a square of tape on the floor below.",
@@ -1099,7 +1099,7 @@
         },
         {
           "art": "Four paper chits in a steel bowl, with a hand drawing one, and the four balls in a row beside the bowl.",
-          "caption": "2. Draw the four chits to set the order of the balls."
+          "caption": "2. Pick the four chits to set the order of the balls."
         },
         {
           "art": "A child holding a rubber ball with its bottom at the flag, and the ball falling toward the taped square.",
@@ -1120,7 +1120,7 @@
           "mins": 4,
           "do": "Show your child the four things. Ask for a guess and a reason. Write the guess down.",
           "say": "We will drop four things from the same height. Which will bounce highest? Which will bounce lowest? If we drop one ball ten times, will it bounce the same each time? Why do you think so?",
-          "kid": "We will drop four things. Which will bounce highest? Will one ball bounce the same each time? Why?",
+          "kid": "Look at the four things. Point to the one you think will bounce highest.",
           "ask": [
             {
               "q": "Why do you think that thing will bounce highest?",
@@ -1144,7 +1144,7 @@
         {
           "id": "s2",
           "mins": 6,
-          "do": "1. Tape the tape measure up a wall, with zero at the floor. 2. Stick a flag of tape at 50 centimetres. 3. Tape a square on the floor below. 4. Write the name of each ball on a paper chit, fold the four chits and put them in a bowl. 5. Draw the results table.",
+          "do": "1. Tape the tape measure up a wall, with zero at the floor. 2. Stick a flag of tape at 50 centimetres. 3. Tape a square on the floor below. 4. Write the name of each ball on a paper chit, fold the four chits and put them in a bowl. 5. Make the results table.",
           "say": "We need a place where every drop is the same. The flag marks the height. The square marks the spot. The bowl will decide the order.",
           "kid": "Tape up the measure. Mark the flag and the square.",
           "parent": "If the floor is soft, such as carpet or a mat, put a smooth hard board, a ceramic tile or a thick book on the floor under the square. The same hard floor must be used for every ball.",
@@ -1173,9 +1173,9 @@
         {
           "id": "s4",
           "mins": 8,
-          "do": "1. Draw the four chits. That is the order of the balls. 2. Drop each ball once in that order. 3. Then drop each ball once in the reverse order. 4. Both of you write down every reading, without looking at each other's paper. 5. Do steps 2 to 4 once more, so each ball has four drops.",
-          "say": "Draw the chits for the order. Drop each ball once. Then go backwards. Write what you see. Do not look at each other's paper.",
-          "kid": "Draw the order. Drop each ball. Then go backwards. Write the numbers.",
+          "do": "1. Pick the four chits from the bowl, one by one. That is the order of the balls. 2. Drop each ball once in that order. 3. Then drop each ball once in the reverse order. 4. Both of you write down every reading, without looking at each other's paper. 5. Do steps 2 to 4 once more, so each ball has four drops.",
+          "say": "Pick the chits for the order. Drop each ball once. Then go backwards. Write what you see. Do not look at each other's paper.",
+          "kid": "Pick the order from the bowl. Drop each ball, then go backwards. Write the numbers.",
           "ask": [
             {
               "q": "Is the same ball giving the same number each time?",
@@ -1191,7 +1191,7 @@
         {
           "id": "s5",
           "mins": 8,
-          "do": "Keep going until each ball has been dropped ten times. Keep the same method: drop each ball once in the drawn order, then once in the reverse order. After every two rounds like this, draw the chits again for a new order.",
+          "do": "Keep going until each ball has been dropped ten times. Keep the same method: drop each ball once in the picked order, then once in the reverse order. After every two rounds like this, pick the chits again for a new order.",
           "say": "Ten drops for each ball. Same method, same flag, same square. Keep writing every number, even the odd ones.",
           "kid": "Finish ten drops for each ball. Write every number.",
           "parent": "If a ball rolls off the square, call it a miss and drop again, but write down that it was a miss. Do not hide misses. The clay ball will not bounce. Write 0 for it every time.",
@@ -1219,9 +1219,9 @@
         {
           "id": "s7",
           "mins": 6,
-          "do": "Draw a number line from 0 to 60 across a page. Make a row of dots for each ball, using your readings. Stack equal results. Write the range and the middle value for each ball.",
-          "say": "Draw the dot plot. One row for each ball. Look at the rows. Which rows overlap? Which rows are far apart?",
-          "kid": "Draw a dot plot. One row for each ball. Which rows overlap?",
+          "do": "Draw a number line from 0 to 60 across a page. Make a row of dots for each ball, using your readings, or use a row of coins. Stack equal results. Write the range and the middle value for each ball.",
+          "say": "Make a dot plot. That is a number line with one dot for each reading. Use one row for each ball.",
+          "kid": "Make a dot plot with one row for each ball. Look at the rows.",
           "ask": [
             {
               "q": "Which balls have rows that overlap? Which are far apart?",
@@ -1309,7 +1309,7 @@
       ],
       "safety": "Use scissors only with a grown-up. Ask each person if they are happy to take part, and tell everyone the whole truth at the end.",
       "record": "Draw a table with one row for each person. Write each person's scores in both rounds. Work out the difference for each person. Then draw a dot plot of the open-round differences and a dot plot of the blind-round differences on the same number line from minus 5 to plus 5.",
-      "context": "In this experiment, you find out whether a label can change what people feel, and whether a blind test can stop it. The cloth is the same in every square.",
+      "context": "In this experiment, you find out whether a label can change what people feel, and whether a blind test can stop it. A blind test means the person cannot see which square they are feeling. The cloth is the same in every square.",
       "setup": [
         {
           "art": "A grown-up cutting four squares of the same soft cotton cloth, each about 8 centimetres wide, and laying them in a row.",
@@ -1333,11 +1333,11 @@
           "id": "s1",
           "mins": 4,
           "do": "Show your child the cloth. Ask for a guess and a reason. Do not say yet what the test will show.",
-          "say": "We will ask people how soft two squares feel. One is labelled Premium. One is labelled Basic. Will they say Premium is softer? Why do you think so?",
-          "kid": "There are two squares of cloth. One says Premium. One says Basic. Which will people call softer? Why?",
+          "say": "We will ask people how soft two squares feel. One is labelled Premium. One is labelled Basic.",
+          "kid": "Imagine two squares of cloth, one labelled Premium and one labelled Basic. Which will people call softer?",
           "ask": [
             {
-              "q": "Why do you think people will give those scores?",
+              "q": "Why do you think people will call that one softer?",
               "good": [
                 "Premium sounds better.",
                 "The label makes them think it is softer.",
@@ -1353,7 +1353,7 @@
           "mins": 5,
           "do": "A grown-up cuts four squares from the same cloth. Put a Premium label on one square and a Basic label on a second. Leave two squares plain. Mark them K and M underneath in pencil.",
           "say": "The squares are cut from one cloth. They are exactly the same. Two will have labels. Two will have secret letters.",
-          "kid": "Cut four squares from one cloth. Label two. Mark two with letters.",
+          "kid": "A grown-up cuts four squares from one cloth. You label two and mark two with letters.",
           "parent": "The two plain squares are for the blind round. Mark their letters on the underside, where people will not see. Keep all four away from other cloth, so people cannot compare them with a different towel.",
           "adult": true,
           "context": "In this step, you make the four squares for the two rounds."
@@ -1410,7 +1410,7 @@
           "mins": 6,
           "do": "For each person, work out 'Premium minus Basic' for the open round, and 'first minus second' for the blind round. Draw both rows of differences as dots on one number line from minus 5 to plus 5.",
           "say": "Take each person's Premium score and subtract the Basic score. Do the same for the blind round. Plot the dots. Where do they sit?",
-          "kid": "Work out the differences. Plot two rows of dots.",
+          "kid": "Work out each difference. Put the dots in two rows on one number line.",
           "ask": [
             {
               "q": "What do you notice about the two rows of dots?",
@@ -1482,7 +1482,7 @@
       ],
       "safety": "Do this on a table covered with newspaper. Rub gently on the sandpaper only, never on skin. Do not blow the dust. Wipe up the dust with a damp cloth when you finish, and wash your hands. Work in a room with fresh air, and anyone with asthma or a dust allergy should stay out of it. A grown-up should cut the cloth and handle the sandpaper edges.",
       "record": "Write the number of rubs until the first hole for every run, or '100 or more' if no hole appeared. Then draw a dot plot with a row for each cloth. Work out the range for each cloth. If a run ends with no hole, hold the cloth up to the window and write a light score from 0 (no light) to 5 (almost a hole), so every run still gives you something to compare.",
-      "context": "In this experiment, you make a small rubbing machine from a katori and sandpaper, and you count how many rubs each cloth takes to wear through. It is a wear test.",
+      "context": "In this experiment, you make a small rubbing machine from a katori and sandpaper, and you count how many rubs each cloth takes to wear through. A wear test shows which cloth lasts longest. You will find out whether the answer stays the same when you test it twice.",
       "setup": [
         {
           "art": "A sheet of sandpaper taped to a table with eight lanes drawn on it in pencil, each 20 centimetres long, and a chit bowl beside it.",
@@ -1518,7 +1518,7 @@
               ]
             },
             {
-              "q": "What is this cloth used for in real life?",
+              "q": "Where is each of these cloths used at home?",
               "good": [
                 "A school bag.",
                 "A shirt.",
@@ -1532,9 +1532,9 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "1. Tape the sandpaper flat to the table. 2. Draw eight lanes as wide as the katori, along the long side of the sheets (three lanes fit on one sheet). 3. Number them 1 to 8. 4. Put the coins in the katori. 5. Cut two squares of each cloth.",
+          "do": "1. Tape the sandpaper flat to the table. 2. Mark eight lanes with a pencil, each as wide as the katori, along the long side of the sheets (three lanes fit on one sheet). 3. Number them 1 to 8. 4. Put the coins in the katori. 5. Cut two squares of each cloth.",
           "say": "We are building a rubbing machine. The sandpaper is the rough road. The katori with coins is the weight. Each lane is used only once.",
-          "kid": "Tape down the sandpaper. Draw eight lanes. Number them.",
+          "kid": "Tape down the sandpaper. Mark eight lanes with a pencil. Number them.",
           "parent": "The sandpaper clogs with lint, so a used lane rubs more gently. That is why each run gets a new lane. First find the right weight, using the scrap of sandpaper: put 30 coins in the katori and rub a square of the thinnest cotton. If it has no hole after 50 rubs, add more coins or stones and try again on a new patch. Aim for a hole in the thinnest cloth in about 20 to 50 rubs, then keep this load for the whole test. These numbers are only typical; home sandpaper and katoris differ.",
           "adult": true,
           "context": "In this step, you build the rubbing machine. Eight lanes mean every run starts with fresh sandpaper."
@@ -1561,16 +1561,16 @@
         {
           "id": "s4",
           "mins": 3,
-          "do": "Draw the four chits. That is the order of the cloths for the first round. Write the order down. Practise one rub on the scrap of sandpaper, counting 'one-two' for the way there and back.",
-          "say": "Draw the order. Then practise one rub. Slide there, slide back. Count one-two. Keep the same speed.",
-          "kid": "Draw the order. Practise one rub. Count one-two.",
+          "do": "Write each cloth's name on a paper chit and put the chits in a bowl. Pick them out one by one. That is the order of the cloths for the first round. Write the order down. Practise one rub on the scrap of sandpaper, counting 'one-two' for the way there and back.",
+          "say": "Pick the order. Then practise one rub. Slide there, slide back. Count one-two. Keep the same speed.",
+          "kid": "Pick the order from the bowl. Practise one rub. Count one-two.",
           "parent": "The speed matters. A steady count of one second each way is easy to keep. Use a clock with a second hand, or sing a steady beat. Do not press down. Let the weight do the work.",
           "context": "In this step, you draw the order and practise a steady speed."
         },
         {
           "id": "s5",
           "mins": 10,
-          "do": "Run each cloth in the drawn order, in a fresh lane. Slide the katori to the end of the lane and back for each rub. Count the rubs aloud. Every ten rubs, stop and hold the cloth up to the window. Look for a point of light. Stop at the first hole, or at 100 rubs.",
+          "do": "Run each cloth in the picked order, in a fresh lane. Slide the katori to the end of the lane and back for each rub. Count the rubs aloud. Every ten rubs, stop and hold the cloth up to the window. Look for a point of light. Stop at the first hole, or at 100 rubs.",
           "say": "One rub is there and back. Count out loud. Every ten rubs, hold the cloth up to the light. A tiny point of light means a hole. Write the number.",
           "kid": "Slide there and back. Count. Every ten rubs, look for light.",
           "ask": [
@@ -1589,9 +1589,9 @@
         {
           "id": "s6",
           "mins": 9,
-          "do": "Run a second round. Draw the chits again for a new order. Use fresh lanes and new squares of cloth. Write the numbers for the second run.",
-          "say": "Run every cloth a second time. Draw a new order. Use new lanes.",
-          "kid": "Run a second round. Draw a new order. Use new lanes.",
+          "do": "Run a second round. Pick the chits again for a new order. Use fresh lanes and new squares of cloth. Write the numbers for the second run.",
+          "say": "Run every cloth a second time. Pick a new order. Use new lanes.",
+          "kid": "Run a second round. Pick a new order. Use new lanes.",
           "parent": "If a second run is very different from the first, do not be surprised. Cloth is not the same everywhere. Write both.",
           "context": "In this step, you run the second round. Two runs of each cloth show how much the same cloth varies."
         },
@@ -1599,8 +1599,8 @@
           "id": "s7",
           "mins": 7,
           "do": "Draw a dot plot with a row for each cloth, using both runs. Work out the range. Circle any cloth where the two runs are far apart. Write a claim, evidence and reasoning, and say how sure you are.",
-          "say": "Draw the dot plot. Which cloth lasted longest? Is the gap bigger than the wobble between its two runs?",
-          "kid": "Draw a dot plot. Which cloth lasted longest? Say how sure you are.",
+          "say": "Make the dot plot. Then write a claim, the evidence and the reasoning. Say how sure you are.",
+          "kid": "Make a dot plot, one row for each cloth. Say how sure you are about the winner.",
           "ask": [
             {
               "q": "Is the winner clear, or do two cloths overlap?",
@@ -1662,7 +1662,7 @@
         }
       ],
       "record": "A table with the name of each tool and the readings by you and your helper. A short note on which tool had the widest spread and which tool had a zero error.",
-      "context": "In this activity, you measure the same strip with three different tools, and you find out how rough measuring is. You also make a ruler with a fault on purpose.",
+      "context": "In this activity, you measure the same strip with three different tools, and you find out whether two careful people get the same number for the same strip. You also make a ruler with a fault on purpose.",
       "setup": [
         {
           "art": "A paper strip lying beside a school ruler, a tailor's tape and a home-made ruler, with a child and a helper each holding a pencil.",
@@ -1708,8 +1708,8 @@
           "id": "s3",
           "mins": 6,
           "do": "Make a paper ruler on stiff paper with a school ruler, marking each centimetre. Start the zero mark half a centimetre in from the end of the paper. Mark the ruler 'home-made'.",
-          "say": "Draw a ruler on stiff paper. Make a mark for every centimetre. But start your zero half a centimetre from the end. This is a ruler with a fault.",
-          "kid": "Draw a ruler. Put the zero half a centimetre from the end.",
+          "say": "Make a ruler on stiff paper. Mark every centimetre. But start your zero half a centimetre from the end. This ruler has a fault on purpose, so we can learn to find one.",
+          "kid": "Make a ruler. Put the zero half a centimetre from the end.",
           "parent": "The aim is a ruler that reads wrong in the same way every time (here, 0.5 centimetres too little). Do not tell the helper where the zero is. Ask the helper to measure the strip with the home-made ruler.",
           "context": "In this step, you make a ruler with a zero error on purpose, so you can find a fault like it later."
         },
@@ -1740,7 +1740,7 @@
           "kid": "Line up the rulers. Find the gap between the zeros.",
           "ask": [
             {
-              "q": "Which tool had the biggest gap between you and your helper? Which tool had a zero error?",
+              "q": "Which tool gave you and your helper the widest gap?",
               "good": [
                 "The cloth tape had the biggest gap.",
                 "The home-made ruler had a zero error."
@@ -1832,9 +1832,9 @@
         {
           "id": "s3",
           "mins": 7,
-          "do": "Draw a number line from 3 to 10 millimetres. Make a row of dots for each pile. Mark the range of each pile with a bracket. Find the middle value of each.",
-          "say": "Draw one number line. Make three rows of dots. Which rows overlap? Which row is on its own?",
-          "kid": "Draw three rows of dots on one number line.",
+          "do": "Draw a number line from 3 to 10 millimetres. Make a row of dots for each pile. Or lay the grains themselves in three rows beside a ruler. Mark the range of each pile with a bracket. Find the middle value of each.",
+          "say": "Make one number line with a dot for every grain. Use one row for each pile.",
+          "kid": "Make a row of dots for each pile on one number line.",
           "ask": [
             {
               "q": "Do piles B and C overlap? Does either overlap with pile A?",
@@ -1862,7 +1862,7 @@
           "mins": 6,
           "do": "Ask your child to write a claim, evidence and reasoning about A and B. Then ask them to say why the control, pile C, was useful.",
           "say": "Write a claim about the long rice and the short rice. Give your evidence and reasoning. Why did we measure a second spoonful of the short rice?",
-          "kid": "Write a claim about A and B. Why was pile C useful?",
+          "kid": "Write what you think is true about A and B. Why was pile C useful?",
           "parent": "A good claim may be: the long rice is longer than the short rice, because the ranges do not touch. The control tells us how big a gap can be by chance alone.",
           "context": "In this step, you write what you can honestly say about the two kinds of rice."
         }
@@ -1920,7 +1920,7 @@
         },
         {
           "art": "A bowl with four red slips and four blue slips, and a hand drawing four slips.",
-          "caption": "3. For luck, draw four slips from the bowl and count the red ones."
+          "caption": "3. For luck, pick four slips from the bowl and count the red ones."
         }
       ],
       "flow": [
@@ -1929,10 +1929,10 @@
           "mins": 5,
           "do": "Ask your child to guess how many of the four heavy boxes they will find. Explain only the rules: four boxes are heavy, four are light, and the child must put four in each pile.",
           "say": "Four boxes are heavy and four are light. You sort them by feel into two piles of four. How many of the four heavy ones will you find? Why do you think so?",
-          "kid": "Four heavy, four light. Sort by feel. How many will you find? Why?",
+          "kid": "Sort the boxes by feel. Guess how many heavy ones you will find.",
           "ask": [
             {
-              "q": "What is the chance of getting all four right just by luck? Is it likely?",
+              "q": "Could you get all four right just by luck? Is it likely?",
               "good": [
                 "Not likely.",
                 "It could happen sometimes."
@@ -1964,9 +1964,9 @@
         {
           "id": "s4",
           "mins": 6,
-          "do": "Now find out what pure luck gives. Put 4 red and 4 blue slips in a bowl. Draw 4 slips without looking. Count the red ones. Do this ten times, putting the slips back each time. Write down the ten counts.",
-          "say": "Now we find out what luck gives. Draw four slips from the bowl. Count the red ones. Put them back. Do it ten times.",
-          "kid": "Draw four slips. Count the red ones. Do it ten times.",
+          "do": "Now find out what pure luck gives. Put 4 red and 4 blue slips in a bowl. Pick 4 slips without looking. Count the red ones. Do this ten times, putting the slips back each time. Write down the ten counts.",
+          "say": "Now we find out what luck gives. Pick four slips from the bowl. Count the red ones. Put them back. Do it ten times.",
+          "kid": "Pick four slips. Count the red ones. Do it ten times.",
           "ask": [
             {
               "q": "How often did luck give 4 out of 4?",
@@ -2122,8 +2122,8 @@
           "id": "s1",
           "mins": 6,
           "do": "Read cases 1 to 3 aloud. Case 1: a strip held 14, 15 and 3 coins, and the 3-coin strip had a nick. Case 2: a marble bounced 25, 24, 26 and 12, and you saw it hit the edge of a tile. Case 3: a rubber ball bounced 30, 31, 32 and 45, and you saw nothing special.",
-          "say": "Read each case. What would you do with the odd number? Keep it, test again, or explain it?",
-          "kid": "Read three cases. What do you do with each odd number?",
+          "say": "Here are three cases, each with one odd number. What would you do with it? Keep it, test again, or explain it?",
+          "kid": "Listen to three cases. Decide what to do with each odd number.",
           "ask": [
             {
               "q": "What would you do in case 3, where nothing seems wrong?",
@@ -2140,8 +2140,8 @@
           "id": "s2",
           "mins": 6,
           "do": "Read cases 4 to 6 aloud. Case 4: in 1965 a chemist made a cloudy, thin liquid that others would throw away. She had it spun into a fibre anyway. Case 5: a fifth strip held 80 coins when the others held 20, because the helper added coins by mistake. Case 6: a cloth lasted 20 rubs one time and 90 the next, with no known reason.",
-          "say": "Read the last three cases. Which odd results are mistakes? Which could be discoveries?",
-          "kid": "Read three more cases. Mistake or discovery?",
+          "say": "Here are three more cases. Which odd results are mistakes? Which could be discoveries?",
+          "kid": "Listen to three more cases. Decide which is a mistake and which could be a discovery.",
           "ask": [
             {
               "q": "How can you tell a mistake from a discovery?",
@@ -2244,10 +2244,10 @@
           "mins": 4,
           "do": "Show your child the four papers. Ask for a guess and a reason. Which paper will hold the most when dry? Which when wet? Will the order change?",
           "say": "We will test four papers, dry and wet. Which holds most when dry? Which holds most when wet? Will the order change? Why do you think so?",
-          "kid": "We will test four papers, dry and wet. Will the order change? Why?",
+          "kid": "Look at the four papers. Which do you think is strongest dry, and which wet?",
           "ask": [
             {
-              "q": "Why do you think wetting will change the order?",
+              "q": "Will wetting change the order of the papers? Why do you think so?",
               "good": [
                 "Water makes paper weak.",
                 "Some papers are made to survive water.",
@@ -2270,7 +2270,7 @@
         {
           "id": "s3",
           "mins": 12,
-          "do": "Draw four chits for the order. For each paper, test one dry strip. Dip a second strip in water for 10 seconds. Let it drip for 5 seconds. Then test it wet. Pour water slowly, in a steady stream, until the strip tears. Measure the water in the cup.",
+          "do": "Write each paper's name on a chit and pick the chits from a bowl to set the order. For each paper, test one dry strip. Dip a second strip in water for 10 seconds. Let it drip for 5 seconds. Then test it wet. Pour water slowly, in a steady stream, until the strip tears. Measure the water in the cup.",
           "say": "Pour slowly and steadily into the cup. Stop when the strip tears. Then pour the water from the hanging cup into the medicine cup to measure it. Write the millilitres.",
           "kid": "Pour slowly. Stop when it tears. Measure the water.",
           "parent": "A wet strip may tear at the peg. If it slips out, note it and try a new strip. Tissue paper may tear very early, with only a spoon of water. A strip as narrow as 1 centimetre is used because wide strips of paper are very strong. If a strip carries a full cup without tearing, write 'cup full' with the millilitres, which means that paper is stronger than the rig; do not hide it. Pour over a plate and wipe up spills so nobody slips. Roles: one pours, one holds the cup steady, one writes; with one child and a parent, the child pours.",
@@ -2279,9 +2279,9 @@
         {
           "id": "s4",
           "mins": 6,
-          "do": "Rank the papers from strongest to weakest, once for dry and once for wet. Draw the two rankings side by side.",
+          "do": "Rank the papers from strongest to weakest, once for dry and once for wet. Write the two rankings side by side.",
           "say": "Rank the papers for dry. Rank them again for wet. Did the order change?",
-          "kid": "Rank the papers dry and wet. Did the order change?",
+          "kid": "Rank the papers dry and wet. Put the two lists side by side.",
           "ask": [
             {
               "q": "Which paper changed the most when wet?",
@@ -2358,7 +2358,7 @@
         }
       ],
       "record": "A one-page report with: the claim, the plan, the table, the dot plot, the claim-evidence-reasoning, how sure you are, and what your test left out.",
-      "context": "In this project, you test one real claim from start to finish, with ten pieces of each thing, secret tags and a random order. Then you write a report that says how sure you are.",
+      "context": "In this project, you test one real claim from start to finish, with ten pieces of each thing, secret tags and a random order. Then you write a report that says how sure you are. You will find out whether your test can honestly tell the two things apart.",
       "setup": [
         {
           "art": "A planning board with three columns: what changes, what stays the same, what is measured, written on a large sheet.",
@@ -2396,9 +2396,9 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "1. Prepare ten pieces of each thing. 2. Ask the helper to tie a secret letter on each piece and keep the list. 3. Draw the order of testing from a bowl. 4. Draw the results table.",
-          "say": "The helper tags the pieces with secret letters. We test in the order we draw from the bowl. Nobody who tests knows which is which.",
-          "kid": "Helper: tag the pieces. Tester: draw the order.",
+          "do": "1. Prepare ten pieces of each thing. 2. Ask the helper to tie a secret letter on each piece and keep the list. 3. Put the letters on chits in a bowl. Pick them out one by one to set the order of testing. 4. Make a results table.",
+          "say": "The helper tags the pieces with secret letters. We test in the order we pick from the bowl. Nobody who tests knows which is which.",
+          "kid": "Helper: tag the pieces. Tester: pick the order.",
           "parent": "The helper can be anyone, even a younger sibling. Keep the list folded until the last number is written. With 2 to 4 children, one is the helper who tags, one is the tester and one writes. Swap roles for a second claim if there is time.",
           "adult": true,
           "context": "In this step, you prepare the blind test. The tester must not know which is which."
@@ -2406,7 +2406,7 @@
         {
           "id": "s3",
           "mins": 15,
-          "do": "Test all twenty pieces in the drawn order. Use the same method each time. Write down every number against its letter.",
+          "do": "Test all twenty pieces in the picked order. Use the same method each time. Write down every number against its letter.",
           "say": "Test each piece the same way. Write the number against its letter. Do not peek at the list.",
           "kid": "Test each piece the same way. Write each number.",
           "parent": "If a piece is spoiled, write what went wrong and do not hide the number.",
@@ -2483,8 +2483,8 @@
         "Two tubes, one for the fall and one to catch the ball after the bounce.",
         "A sheet of paper with a hole in it, that holds the ball, and is pulled away."
       ],
-      "your_turn": "Sketch your gadget. Build it and test it with ten drops. Compare its range with the range of ten hand drops. Change one thing, such as the length of the tube, and test again. Which design gave the smallest range? Why do you think it did?",
-      "context": "This is a design challenge about cutting down the wobble in a test. You build a dropping gadget and measure how much it narrows the range of the bounces.",
+      "your_turn": "Sketch your gadget, or tell your grown-up how it works. Build it and test it with ten drops. Compare its range with the range of ten hand drops. Change one thing, such as the length of the tube, and test again. Which design gave the smallest range? Why do you think it did?",
+      "context": "This is a design challenge about cutting down the wobble in a test. You build a dropping gadget and measure how much it narrows the range of the bounces. You will find out how much of the wobble comes from the way you let go.",
       "setup": [
         {
           "art": "Three sketches of dropping gadgets on paper: a tube, a funnel and a sliding card.",
@@ -2503,7 +2503,7 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Read the problem together. First, drop the ball ten times by hand and write the ten heights. Draw the dot plot and find the range.",
+          "do": "Read the problem together. First, drop the ball ten times by hand and write the ten heights. Find the range, the biggest height minus the smallest.",
           "say": "First drop the ball ten times by hand. Write each height. This range is the one to beat.",
           "kid": "Drop ten times by hand. Find the range.",
           "parent": "Use the same tape measure and floor square as in the Bounce Test.",
@@ -2512,9 +2512,9 @@
         {
           "id": "s2",
           "mins": 6,
-          "do": "Ask your child to sketch two or three gadgets. Ask what makes the drop vary by hand.",
-          "say": "Why do the drops vary by hand? What could a gadget do better than fingers?",
-          "kid": "Sketch two or three gadgets.",
+          "do": "Ask your child to sketch two or three gadgets, or describe them out loud. Ask what makes the drop vary by hand.",
+          "say": "Think about how your fingers let go of the ball. What could a gadget do better than fingers?",
+          "kid": "Sketch two or three gadgets, or describe them to your grown-up.",
           "ask": [
             {
               "q": "What causes the wobble when you drop by hand?",
@@ -2531,7 +2531,7 @@
           "id": "s3",
           "mins": 16,
           "do": "Build the first gadget. Drop the ball ten times through it, in a random order mixed with hand drops. Read each bounce. Write the numbers.",
-          "say": "Build your gadget. Test it ten times. Mix the gadget drops with hand drops. Draw the order from a bowl.",
+          "say": "Build your gadget. Test it ten times. Mix the gadget drops with hand drops. Pick the order from a bowl.",
           "kid": "Build the gadget. Test it ten times.",
           "parent": "Mix hand drops and gadget drops in a random order. Otherwise the ball warming up, or the tester getting better with practice, could favour one kind of drop.",
           "context": "In this step, you build and test your gadget."
@@ -2603,7 +2603,7 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Pick a simple test, such as how far a rubber band stretches with 10 coins. Do it five times yourself. Write the five numbers and the range.",
+          "do": "Pick a simple test, such as how far a rubber band stretches with 10 coins. Do it five times yourself. Write the five numbers and the range, from the smallest to the biggest.",
           "say": "Do the test five times. Write each number. Find the range. This is your own answer.",
           "kid": "Do your test five times. Find the range.",
           "parent": "Stretch a rubber band gently and never close to the face or past its limit, because it can snap back.",
@@ -2612,7 +2612,7 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "Write the recipe as numbered steps, with every size, amount and time. Add a picture for each step if you can, and a blank results table.",
+          "do": "Write the recipe as numbered steps, with every size, amount and time. Add a blank results table. Add a picture for a step only if words are not enough.",
           "say": "Write the recipe. Name every size and every amount. Another child must be able to follow it.",
           "kid": "Write the recipe. Name every size and amount.",
           "ask": [

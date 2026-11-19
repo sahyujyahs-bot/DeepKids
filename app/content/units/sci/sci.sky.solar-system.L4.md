@@ -226,7 +226,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 - **s3 (4 min)**  
   *Parent does:* Play four more cards. Then stop and ask the question below.  
   *Parent says:* Look at the clues for the rocky planets and the clues for the giants. What kinds of clues belong to each?  
-  *Child mode:* Think about the clues so far. What kind of clue belongs to a giant?
+  *Child mode:* Look back at the clues you have heard so far.
   - Ask: What do the clues for the giants have in common, compared with the clues for the rocky planets? (good: The giants are big, light for their size and have no ground.; The giants have rings and many moons and are far from the Sun.; The rocky planets have craters, volcanoes, or dry land.)
   - Check: A clue says: 'I am so light for my size that I would float in water.' Is this planet rocky or a giant, and why? → **A giant, because only gas giants are less dense than water**
 - **s4 (6 min)**  
@@ -246,12 +246,12 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 - **predict:** Before you start, guess. If you drop a marble from 8 times as high, will the crater be 8 times as wide, about twice as wide, or only a little wider? Why do you think so?
 - **fair test:** Use the same marble, the same tray, and flour of the same depth, smoothed flat before every drop. Let the marble fall from a measured height. Never throw it. Only the drop height changes, so any change in the crater comes from the height. Drop three times from each height, because one drop can be a fluke.
 - **safety:** Flour dust can make you cough, so do not blow on the tray. Work away from a fan. Keep marbles away from children under five, who might swallow them. Wheat flour is a problem for anyone allergic to wheat or gluten: use rice flour or fine dry sand instead, and wash hands afterwards. If the flour is damp or lumpy, dry it in the sun and sift it first. Do not eat the flour or cocoa from the tray.
-- **record:** Fill in the results table. Then draw a bar chart with one bar for each height, using the average width. Sketch the three overlapping craters and write which came first.
+- **record:** Fill in the results table. Then draw a bar chart with one bar for each height, using the average width. Take a photo of the three overlapping craters and write which came first.
 - **results table:** Drop height (cm) | Width of crater 1 (cm) | Width of crater 2 (cm) | Width of crater 3 (cm) | Average width (cm)
 - **s1 (4 min)**  
   *Parent does:* Show your child the tray, the marble and the ruler. Ask for the guess and the reason. Write both down at the top of the table.  
   *Parent says:* The marble is a rock from space. The flour is the ground of a planet. If I drop the marble from 8 times as high, how much wider will the crater be? Why do you think so?  
-  *Child mode:* The marble is a space rock. If you drop it from 8 times as high, how much wider will the crater be? Guess. Say why.
+  *Child mode:* The marble is a space rock. Drop it from 8 times as high. Guess how much wider the crater will be.
   - Ask: Why do you think the crater will be that much wider? (good: A faster rock hits harder, so it digs more.; Eight times as high should make a crater eight times as wide.; The crater will not change much, because the marble is the same.)
   - Note: Do not correct the guess. Many children say 8 times as wide. That is a natural idea, and the tray will answer it.
 - **s2 (6 min)**  
@@ -273,7 +273,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   - Check: Crater A has a complete round rim. Crater B's rim cuts into A, so a piece of A's rim is missing. Which crater is older? → **Crater A, because B cut into it**
 - **s5 (4 min)**  
   *Parent does:* Take the sieve and shake a thin layer of fresh flour over half of the tray. This is the 'weather'. Leave the other half alone. Compare the craters in the two halves.  
-  *Parent says:* Half of this tray has had weather. Look at the craters in each half. Which craters are sharper? Which are softer? What could the Earth do that the Moon cannot?  
+  *Parent says:* Half of this tray has had weather. Look at the craters in each half. Which craters are sharper? Which are softer?  
   *Child mode:* Sift some flour over half the tray. Look at both halves. Which craters are sharper?
   - Ask: On the Earth, what kinds of weather wipe out craters? (good: Rain washes the sides down.; Wind carries dust that fills them in.; Plants grow in them and rivers fill them up.)
   - Note: The craters under the flour layer will look softer and shallower, and the oldest craters will fade first. This is the same reason the Earth has so few craters and the Moon has so many.
@@ -287,12 +287,12 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 - **predict:** Before you start, guess. Two tumblers with ice sit in the sun, one open and one covered with clear film. Which ice will melt first? Why do you think so?
 - **fair test:** Use two tumblers of the same kind, the same number of ice cubes of the same size from the same tray, and the same dark paper under each. Put them side by side in the same sunny spot, at the same time. Only the lid changes. Check every 5 minutes with the same clock, and also note the minute the last piece of ice disappears in each tumbler.
 - **safety:** A grown-up must be there if the test is on a balcony or terrace. Keep tumblers away from the edge. Do not touch a tumbler that has been in strong sun without checking that it is not hot. Plastic tumblers are safer than glass. Never look straight at the Sun.
-- **record:** Fill in the results table. Draw the two tumblers at the end of the test. Write which melted first and by how many minutes.
+- **record:** Fill in the results table. Take a photo of the two tumblers at the end of the test. Write which melted first and by how many minutes.
 - **results table:** Minutes in the sun | Open tumbler: how much ice is left? (all, half, little, none) | Covered tumbler: how much ice is left? (all, half, little, none)
 - **s1 (4 min)**  
   *Parent does:* Show your child the two tumblers and the film. Ask for a guess and a reason. Write it down.  
   *Parent says:* One tumbler has a clear lid and one does not. Both sit in the same sunshine. Which ice melts first? Why do you think so?  
-  *Child mode:* One tumbler is covered. One is open. Which ice melts first? Why?
+  *Child mode:* One tumbler is covered and one is open. Guess which ice melts first.
   - Ask: Why do you think that one will melt first? (good: The lid keeps the heat in.; The open one has more air going past it.; They will melt at the same time, because the sun is the same.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (6 min)**  
@@ -320,15 +320,15 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 ## Activities
 ### a1 · Walk the Solar System: the Sun is a disc 14 centimetres wide (30 min)
 - **problem:** In books, the planets are drawn close together and almost as big as the Sun. That is not true. You will build a model where every size and every distance is made smaller by the same amount. Then you will walk it, and see how tiny the planets are and how far apart.
-- **record:** Make a table with each planet, its size in this model, its distance in metres and its distance in your steps. Draw the row of planets with the Sun, and mark how far away the nearest star would be.
+- **record:** Make a table with each planet, its size in this model, its distance in metres and its distance in your steps. Take a photo of the row of planets with the Sun, and write how far away the nearest star would be.
 - **s1 (5 min)**  
-  *Parent does:* Show your child the 14 centimetre Sun disc. Explain that the Earth is a mustard seed in this model. Ask for a guess on how far away the Earth should be, in steps.  
+  *Parent does:* Cut a Sun disc 14 centimetres wide from the card and show it to your child. Explain that the Earth is a mustard seed in this model. Ask for a guess on how far away the Earth should be, in steps.  
   *Parent says:* Here is the Sun, 14 centimetres wide. The Earth is this mustard seed, about 1 millimetre wide. How many steps from the Sun do you think the seed should go? Why?  
-  *Child mode:* Here is the Sun. The Earth is a seed. How many steps away should the seed go? Guess. Why?
+  *Child mode:* Here is the Sun. The Earth is a seed. Guess how many steps away the seed should go.
   - Ask: Why do you think that many steps? (good: The Sun is far from the Earth, so a lot of steps.; The seed is tiny, so the Earth must be a long way off.; Maybe five steps, because the planets are drawn close in books.)
   - Note: Do not correct the guess. Most people guess a few steps. The real answer is about 30 steps for a child.
 - **s2 (6 min)**  
-  *Parent does:* Cut a Sun disc 14 centimetres wide. Tape each planet to a slip of paper and write its name. Then walk 10 steps along a tape measure and read how far you went. Divide by 10 to find the length of one step.  
+  *Parent does:* Tape each planet to a slip of paper and write its name. Then walk 10 steps along a tape measure and read how far you went. Divide by 10 to find the length of one step.  
   *Parent says:* In this model, 1 millimetre stands for 10,000 kilometres. So the Sun is 14 centimetres, the Earth is about 1 millimetre, and Jupiter is 14 millimetres. Now find how long your step is.  
   *Child mode:* Make the Sun and the planets. Walk 10 steps and measure how far you went. Divide by 10 to get the length of one step.
   - Note: A grown-up helps with the scissors. With one child: the child walks and counts, and you tape the planets down. With 2 to 4 children: one walks and counts steps, one holds the tape, one places and labels the planets, and one writes the table. All take turns being the walker. Each child can make a different planet. Sizes in this model: Mercury 0.5 millimetres, a pinch of pepper powder. Venus 1.2 and the Earth 1.3 millimetres, mustard seeds. Mars 0.7, a grain of salt. Jupiter 14 millimetres, a marble. Saturn 12, a smaller bead. Uranus and Neptune 5 each, peppercorns. A child's step is about 50 centimetres, so 2 steps make a metre.
@@ -344,9 +344,9 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   *Child mode:* The nearest star would be 4,000 kilometres away. That is more than the length of India!
   - Check: In the model, the Sun is a 14-centimetre disc and the Earth is a seed 15 metres away. What does this tell you about the solar system? → **Most of the solar system is empty space, with tiny planets very far apart**
 - **s5 (2 min)**  
-  *Parent does:* Ask your child to draw the row of planets from the Sun, with distances. Ask what they would tell a friend who has only seen book pictures.  
+  *Parent does:* Ask your child to walk back along the row of planets. Ask what they would tell a friend who has only seen book pictures.  
   *Parent says:* What would you tell a friend who thinks the planets are close together, the way books draw them?  
-  *Child mode:* Draw your row of planets. What would you tell a friend about the space between them?
+  *Child mode:* Walk back along your row. Look at the space between the planets.
   - Ask: What would you tell your friend? (good: The planets are tiny and far apart.; Space is mostly empty.; Book pictures squeeze the planets close to fit on a page.)
 ### a2 · Planet Data Detective: the rule linking distance and year (30 min)
 - **problem:** A planet's year is the time it takes to go once round the Sun. Kepler found a rule that links a planet's year to its distance from the Sun. You will try one simple idea and see it fail. Then you will find the rule that works, using real numbers.
@@ -354,7 +354,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 - **s1 (4 min)**  
   *Parent does:* Write this table for your child, with each planet's distance from the Sun in astronomical units (AU) and its year in Earth years. Earth: 1 and 1. Mars: 1.52 and 1.88. Jupiter: 5.2 and 11.86. Saturn: 9.54 and 29.46. Then ask for a guess.  
   *Parent says:* The Earth is 1 unit from the Sun and has a year of 1. Jupiter is about 5 times as far. Will its year be 5 times as long? Why do you think so?  
-  *Child mode:* Jupiter is 5 times as far as Earth. Is its year 5 times as long? Guess. Why?
+  *Child mode:* Jupiter is 5 times as far as Earth. Guess how long its year is.
   - Ask: Why do you think its year will be that long? (good: It goes 5 times as far, so it takes 5 times as long.; Its path is longer, and it moves slower, so it takes even longer.; It depends on how fast it moves.)
   - Note: Many children guess 5 times. The real year is 11.86 Earth years, more than twice as long as that guess. Do not give this away yet. With one child: your child does all the sums. With 2 to 4 children: each child takes one planet for Test 1 and Test 2, and then everyone shares answers on one table. All you need is paper and one phone calculator.
 - **s2 (8 min)**  
@@ -385,7 +385,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Lay out the course with six cushions between a start line and a spoon, which the rover must reach. The start line and the spoon are about 3 metres apart. Explain that a message to Mars takes about 12 minutes each way on average. In this game, each message and its reply cost about 25 minutes. You keep a tally of these 'Mars minutes'.  
   *Parent says:* A rover on Mars has a camera, but Mission Control on the Earth gets its answers late. Each message and answer takes about 25 minutes. We will count those Mars minutes.  
-  *Child mode:* You are the rover on Mars. Close your eyes. Your helper is Mission Control.
+  *Child mode:* One of you is the rover on Mars and closes their eyes. The other is Mission Control.
   - Note: Clear the floor of sharp or breakable things. The rover walks slowly with small steps and the grown-up stays close. With one child, the grown-up plays the other part. With 3 or 4 children, add an observer who keeps the tally and a second Mission Control who writes the plan together with the first. Swap roles after the three rounds so both children, or both you and your child, play each part. The real time ranges from about 3 to 22 minutes each way, depending on where the planets are.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* Round 1. The rover stands at the start with eyes closed. Mission Control gives one command at a time, such as forward 2 steps, or turn right. Each command is one message. Write a tally mark for every command. Multiply the marks by 25 for the Mars minutes. Write down the bumps.  
@@ -405,11 +405,11 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   - Check: Why do real Mars rovers carry their own rules for avoiding rocks, instead of being driven step by step from the Earth? → **Every message takes minutes to arrive, so step by step control would be very slow and the rover could not react in time**
 ### a4 · Planet in a Jar: why the heavy stuff goes to the middle (25 min)
 - **problem:** A young rocky planet was hot and partly melted. The heavy iron sank to the middle, and the lighter rock floated above it. You will shake a jar of heavy and light things and watch them sort themselves in the same way.
-- **record:** Draw the jar at the start, after 1 minute, after 5 minutes and after 10 minutes. Label the layers. Next to it, draw the Earth with its core, mantle, oceans and air.
+- **record:** Write down the order of the layers from bottom to top, and the layer of the Earth each one stands for. Take a photo of the jar after 10 minutes, or draw it.
 - **s1 (4 min)**  
   *Parent does:* Show your child the things for the jar. Ask for a guess on the order from the bottom to the top. Ask why.  
   *Parent says:* We have steel nuts, sand, water and oil. We will shake them all together and let them settle. Which one will end up at the bottom? Which at the top? Why?  
-  *Child mode:* Nuts, sand, water and oil. Shake them. What goes to the bottom? What goes to the top?
+  *Child mode:* Nuts, sand, water and oil will be shaken together. Guess which goes to the bottom and which to the top.
   - Ask: Why do you think that one will be on the bottom? (good: It is the heaviest.; It is the biggest.; It is the thickest.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (5 min) · grown-up needed**  
@@ -418,13 +418,13 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   *Child mode:* Put everything in the jar. Close the lid. Shake hard for 20 seconds.
   - Note: Use a plastic bottle or a strong jar, not thin glass, because the nuts knock against the sides. A plastic bottle is the safest choice. Do not drink or taste anything in it, and wipe up any spilled oil, which is slippery. Check the lid is tight. After shaking, the water will look cloudy and the oil will be in tiny drops. Both are normal. Put the jar down on a flat table.
 - **s3 (10 min)**  
-  *Parent does:* Stand the jar still. Look at it after 1 minute, after 5 minutes and after 10 minutes. Draw what you see each time. Write the minute when the nuts land, the sand settles and the oil clears. Label the layers from the bottom to the top.  
+  *Parent does:* Stand the jar still. Look at it after 1 minute, after 5 minutes and after 10 minutes. Write the minute when the nuts land, the sand settles and the oil clears. After 10 minutes, take a photo of the jar, or draw it. Say the layers from the bottom to the top.  
   *Parent says:* Watch carefully. What is happening to the nuts? To the sand? To the oil? What order are the layers in?  
-  *Child mode:* Watch the jar. Draw it after 1 minute. Draw it again after 5. Draw it again after 10.
+  *Child mode:* Watch the jar after 1 minute, 5 minutes and 10 minutes. Which layer settles first?
   - Note: The nuts fall at once. The sand follows in seconds and settles in a layer. The water clears slowly as the finest sand sinks. The oil drops rise and join into a layer on top after a few minutes. With one child: the child shakes and draws, and you keep time. With 2 to 4 children: give each child their own bottle and compare how fast each layer settles, or let each child try a different material. If the oil stays cloudy after 10 minutes, wait a little longer.
   - Check: After settling, which layer was at the bottom of the jar, and which was at the top? → **The steel nuts at the bottom and the oil at the top**
 - **s4 (5 min)**  
-  *Parent does:* Draw the Earth with its core, mantle, oceans and air next to your jar. Match each layer of the jar to a layer of the Earth. Then talk about what the model leaves out.  
+  *Parent does:* Tell your child that the Earth has a core, a mantle, oceans and air. Match each layer of the jar to one of them. Then talk about what the model leaves out.  
   *Parent says:* The steel nuts are like the Earth's iron core. The sand is like the rocky mantle. The water is like the oceans. The oil is like the air. When did the Earth sort itself like this? Was it in 10 minutes?  
   *Child mode:* Match each layer in the jar to a layer of the Earth. Was the Earth sorted in 10 minutes?
   - Ask: What does the jar not show about how a planet really sorted itself? (good: A young planet was hot and partly melted, and it took much longer.; Real planets are not full of water and oil.; The real Earth is a ball and has gravity pulling to its middle.)
@@ -438,12 +438,12 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 ## Projects
 ### p1 · Cut-Open Planets: Earth and Jupiter in dough (70 min, 2 days)
 - **problem:** Nobody has dug to the middle of the Earth, yet scientists know its layers from earthquakes. You will build the Earth's layers to scale in dough and cut it open. You will also make a Jupiter, and see which of its layers are known and which are only an idea.
-- **record:** A labelled drawing of both cut-open planets, with the thickness of each layer in centimetres for the Earth. Write which layers of Jupiter are certain and which are only an idea.
+- **record:** A photo of both cut-open planets, with each layer named, with the thickness of each layer in centimetres for the Earth. Write which layers of Jupiter are certain and which are only an idea.
 - **schedule:** day 1: Make the Earth to scale: an inner core, an outer core, a mantle and a coating of crust. Wrap it and leave it to rest overnight. (40 min); day 2: Cut the Earth in half. Make a Jupiter, not to scale, and cut that too. Label both and compare. (30 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the dough and the ruler. Explain that 1 centimetre stands for 2,000 kilometres. Ask for a guess on how thick the layers will be.  
   *Parent says:* The Earth is about 12,700 kilometres wide. In our model, 1 centimetre stands for 2,000 kilometres. How wide will the Earth ball be? And which layer do you think is the thickest?  
-  *Child mode:* In this model, 1 centimetre stands for 2,000 kilometres. Guess how wide the Earth ball will be. Which layer is thickest?
+  *Child mode:* In this model, 1 centimetre stands for 2,000 kilometres. Guess how wide the Earth ball will be.
   - Ask: Why do you think that layer is the thickest? (good: The mantle is the biggest, because rock is most of the Earth.; The core, because it is the heaviest part.; The crust, because we can see it.)
   - Note: The answer is the mantle, which is about 2,900 kilometres thick. The Earth ball will be 6.4 centimetres wide, a little smaller than a cricket ball.
 - **s2 (35 min)**  
@@ -459,7 +459,7 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
   - Note: A grown-up does the cutting. With one child: the child builds and you cut. With 2 to 4 children: one child builds the Earth, another builds the Jupiter, and the others measure and label. They swap jobs for the drawing. The layers may smear when cut. That is normal, so measure from the cut face and not from the colours alone. Jupiter's insides are partly an idea. Many scientists think it has a thick outer layer of hydrogen gas. Below that is hydrogen squeezed so hard that it acts like a metal. At the middle is a small, fuzzy centre of heavier stuff. Label those layers 'idea'. No spacecraft has seen inside.
   - Check: In the cut-open Earth, which layer is the thickest? → **The mantle**
 - **s4 (15 min)**  
-  *Parent does:* Put flags on each layer with its name. Draw both planets with labels. Write one sentence under each saying what is known and what is an idea. Show your planets to someone at home.  
+  *Parent does:* Put flags on each layer with its name. Take a photo of both planets. Write one sentence for each saying what is known and what is an idea. Show your planets to someone at home.  
   *Parent says:* Label your planets. Which parts are certain? Which parts are only ideas? Why do scientists know the Earth's layers but not all of Jupiter's?  
   *Child mode:* Label both planets. Which layers are certain? Which are only ideas? Show someone.
   - Ask: Why do we know more about the Earth's layers than Jupiter's? (good: We can feel the Earth's earthquakes, but Jupiter has no ground to put instruments on.; We live on the Earth, so scientists can measure it more.; Spacecraft can only measure Jupiter's pull from outside.)
@@ -468,14 +468,14 @@ Later, Kavya stood at the window. The Sun was high over the neem tree. She remem
 ## Challenges
 ### c1 · Land on Mars: a parachute that hardly works (40 min)
 - **problem:** A cherry tomato is your astronaut. You must land the tomato safely on the floor from a height of 1.5 metres. On Mars the air is so thin that a parachute works very poorly. So your parachute can be no wider than 15 centimetres. Design a lander that stops the tomato from bursting.
-- **your turn:** Now design your own lander. Sketch two ideas first. Build the one you like and test it three times. Change one thing, such as the size of the pad, and test again. Which design worked best? Why do you think so?
+- **your turn:** Now design your own lander. Plan two ideas first. Draw them or say them out loud. Build the one you like and test it three times. Change one thing, such as the size of the pad, and test again. Which design worked best? Why do you think so?
 - **constraints:** The parachute can be no wider than 15 centimetres, because Mars has very thin air.; The tomato must ride inside the lander and must not burst or split when it lands.; The lander is dropped from 1.5 metres onto a folded newspaper on the floor.; Use only things from home, with no more than 6 paper cups and 10 straws.
 - **general:** Make a crumple zone. A paper cup around the tomato, with tissue paper packed inside, softens the landing.; Use the parachute to slow the fall even a little, and a soft pad on the bottom to take the rest.; Real landers on Mars have used airbags, which bounced across the surface like a ball.
 - **creative:** Hang the tomato below the parachute on strings, like the sky crane that lowered rovers on cables.; Add a ring of straws that bend and spring back, like landing legs.; Put the tomato inside a bag puffed up with air, with crumpled paper around it, like airbags.
 - **s1 (6 min)**  
-  *Parent does:* Read the problem with your child. Ask them to sketch two different landers. Remind them that Mars has air less than 1 percent as thick as the Earth's.  
-  *Parent says:* On Mars the air is very thin, so a parachute has very little air to catch. Our parachute can be only 15 centimetres wide. What else could stop the tomato from bursting?  
-  *Child mode:* The air on Mars is thin. Your parachute is small. Draw two ideas for a safe landing.
+  *Parent does:* Read the problem with your child. Ask them to plan two different landers, and to draw them or tell you about them. Remind them that Mars has air less than 1 percent as thick as the Earth's.  
+  *Parent says:* On Mars the air is very thin, so a parachute has very little air to catch. Our parachute can be only 15 centimetres wide. We need another way to protect the tomato.  
+  *Child mode:* The air on Mars is thin. Your parachute is small. Think of two ideas for a safe landing. Draw them, or tell them to your grown-up.
   - Ask: What could stop the tomato from bursting, other than a big parachute? (good: Something soft around it.; Something that crumples when it lands.; A cushion or airbag under it.)
 - **s2 (14 min) · grown-up needed**  
   *Parent does:* Build your first lander. Cut the parachute to 15 centimetres at most. Pack the tomato in the cup with tissue paper. Drop it from 1.5 metres onto the newspaper. Check the tomato. Write down what happened.  

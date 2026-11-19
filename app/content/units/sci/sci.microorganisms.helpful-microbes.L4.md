@@ -239,7 +239,7 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 - **s3 (6 min)**  
   *Parent does:* Play the next eight cards. Swap the reader's job after every card. Keep a tally of points on paper.  
   *Parent says:* Keep going. Remember what microbes need: food, water and the right warmth. Too cold slows them. Too hot kills them.  
-  *Child mode:* Play on. Remember food, water and warmth. Too cold slows them. Too hot kills them.
+  *Child mode:* Play the next eight cards. Take turns being the reader.
   - Ask: What did the cards where the microbes stopped have in common? (good: Most were too hot.; They had no microbes to begin with.; The heat killed them.)
 - **s4 (3 min)**  
   *Parent does:* Play the last ten cards. When the pile is finished, count each player's points.  
@@ -248,7 +248,7 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 - **s5 (2 min)**  
   *Parent does:* Say who won. Ask your child which card surprised them most, and why.  
   *Parent says:* Who got the most points? Which card surprised you most? Why did it surprise you?  
-  *Child mode:* Who won? Which card surprised you most? Why?
+  *Child mode:* Tell your grown-up which card surprised you most, and why.
   - Think: Pick one card. What would you change on it to get a different verdict?
 
 ## Experiments
@@ -257,17 +257,17 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 - **predict:** Before you start, guess. Which balloon will fill the most? Which will stay flat? Why do you think so?
 - **fair test:** Every bottle is the same size, with 200 millilitres of water and the same kind of balloon. Bottle A has everything. Bottle B has no sugar. Bottle C is kept in the fridge. Bottle D has no yeast. Each bottle differs from A in only one way, so any difference in the balloons comes from that one thing. Bottle D is the control. A control is a bottle that is left without the thing we are testing, so we can compare the other bottles with it.
 - **safety:** Use warm water, never hot, because hot water kills yeast and can scald. A grown-up checks the water first. Do not drink anything in the bottles. Keep the balloon away from the mouth, and do not blow into it. Wash hands after handling the yeast water. Keep burst balloon pieces away from children under five, because they can choke on them.
-- **record:** Write the balloon size, in centimetres around the widest part, at 10, 20, 30 and 40 minutes. Then draw a line graph with one line for each bottle. There are no right sizes. Whatever you measure is your result.
+- **record:** Write the balloon size, in centimetres around the widest part, at 10, 20, 30 and 40 minutes. Then draw a line graph with one line for each bottle, or list the numbers side by side. There are no right sizes. Whatever you measure is your result.
 - **results table:** Bottle | What is in it | 10 min (cm) | 20 min (cm) | 30 min (cm) | 40 min (cm)
 - **s1 (5 min)**  
   *Parent does:* Show your child the four bottles on the tray, labelled A, B, C and D. Read out what goes in each bottle. Write down their guess and their reason.  
   *Parent says:* We will test four bottles. Bottle A gets yeast, sugar and warm water. Bottle B gets yeast and warm water, but no sugar. Bottle C gets yeast and sugar, but stays in the fridge. Bottle D gets sugar and warm water, but no yeast. Which balloon will fill the most? Which will stay flat? Why do you think so?  
-  *Child mode:* There are four bottles. A has everything. B has no sugar. C goes in the fridge. D has no yeast. Which balloon fills the most? Why do you think so?
+  *Child mode:* Look at the four bottles. A has everything. B has no sugar. C goes in the fridge. D has no yeast. Which balloon will fill the most?
   - Ask: Why do you think that bottle will fill the most? (good: Yeast eat sugar to make gas.; Warm helps them work.; It has everything the yeast need.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table.
 - **s2 (5 min)**  
   *Parent does:* Pour 200 millilitres of warm water into bottles A, B and D. Pour 200 millilitres of cold water into bottle C. Add two level teaspoons of sugar to A, C and D. Stir each until the sugar disappears.  
-  *Parent says:* Pour the warm water into bottles A, B and D, and the cold water into bottle C. Put two teaspoons of sugar into bottles A, C and D. Bottle B gets no sugar, because it is the bottle without sugar. Stir until the sugar has dissolved.  
+  *Parent says:* Pour the warm water into bottles A, B and D, and the cold water into bottle C. Put two teaspoons of sugar into bottles A, C and D. Bottle B gets no sugar. Stir until the sugar has dissolved.  
   *Child mode:* Pour 200 millilitres of warm water into A, B and D. Pour cold water into C. Add two teaspoons of sugar to A, C and D. Stir.
   - Note: Warm means about 40 degrees. You can hold a finger in it for 10 seconds. If it is too hot to hold, let it cool first. Hot water kills the yeast. Roles: with one child, you pour and your child stirs and labels. With 2 to 4 children, each child owns one bottle (A, B, C or D), adds its ingredients and measures its balloon; a grown-up checks the water.
   - Check: Why do we leave sugar out of bottle B? → **To see if yeast make gas without sugar**
@@ -284,9 +284,9 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
   - Note: While you wait, read the card about yeast together. Bottle A usually starts to swell after about 15 to 20 minutes, and it keeps growing for about an hour. Sizes depend on your bottle, yeast and room, so do not worry if your numbers are small. If A is still tiny at 40 minutes, keep measuring at 50 and 60 minutes. If every balloon stays flat, check for a leaking neck, old yeast or water that was too hot, and say what you think happened. Bottle B may swell a little, because a little food may come in with the yeast sachet. That is also a result.
   - Check: After 30 minutes, balloon A is much bigger than balloon D. What does this show? → **Yeast are needed to make the gas**
 - **s5 (10 min)**  
-  *Parent does:* Draw a line graph with minutes along the bottom and balloon size up the side. Draw one line for each bottle. Then ask your child to say what they thought, what they saw and why. Pour the liquid down the sink and wash the bottles.  
+  *Parent does:* Draw a line graph with minutes along the bottom and balloon size up the side. Draw one line for each bottle. If drawing is hard, list the numbers side by side instead. Then ask your child to say what they thought, what they saw and why. Pour the liquid down the sink and wash the bottles.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a line for each bottle. Say what you thought, what you saw, and why.
+  *Child mode:* Draw a line for each bottle, or list the numbers. Then say what you thought, what you saw, and why.
   - Note: A strong answer says that bottle A grew most because the yeast had sugar and warmth, and that D made no gas because it had no yeast. After they have said what they saw, explain: yeast eat sugar and make carbon dioxide gas. Cold slows them down. If B or C also swelled a little, say so. That is also a result.
   - Think: A baker wakes dry yeast with warm water and a little sugar. Why does that help?
 ### e2 · The Curd Test: does milk need a starter, and does it need warmth? (38 min, 2 days)
@@ -300,13 +300,13 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 - **s1 (5 min)**  
   *Parent does:* Show your child the four cups and say what goes in each. Write down their guess and their reason.  
   *Parent says:* We have four cups of milk. A, B and C each get a spoon of starter curd. D gets none. A goes in a warm place, B and D go on the counter, and C goes in the fridge. Which will set first? Which will not set at all? Why do you think so?  
-  *Child mode:* Four cups of milk. A, B and C get starter curd. D does not. A is warm. B and D are on the counter. C is in the fridge. Which sets first? Why?
+  *Child mode:* Look at the four cups. Only D has no starter curd. Which cup do you think will set first?
   - Ask: Why do you think cup D will stay milk? (good: The milk has no bacteria added.; It has no starter.; The boiling killed the bacteria.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Roles: with one child, you boil the milk and your child fills the cups and writes the table. With 2 to 4 children, each child owns one cup (A, B, C or D) and its labels, spoon and number.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* A grown-up boils the milk, then lets it cool until a clean finger can stay in it for 10 seconds. Pour 150 millilitres into each of four cups. Label them A, B, C and D. Add one teaspoon of starter to A, B and C. Use a clean spoon each time. Stir gently. Do not add starter to D.  
   *Parent says:* The milk must be boiled first, then cooled to finger-warm. If it is too hot, it will kill the bacteria in the starter. Pour the same amount into each cup. Add a spoon of starter to A, B and C, and stir gently.  
-  *Child mode:* Ask a grown-up to boil the milk. Let it cool to finger-warm. Fill four cups. Add starter to A, B and C. Not D.
+  *Child mode:* Ask a grown-up to boil the milk. Let it cool to finger-warm. Fill four cups. Add starter to A, B and C, but not to D.
   - Note: Too hot is worse than too cool. If the milk burns your finger, wait. Use a clean spoon for each cup so you do not carry starter into D.
   - Check: Why must the milk cool before the starter goes in? → **Hot milk would kill the bacteria in the starter**
 - **s3 (3 min)**  
@@ -329,25 +329,25 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 - **s6 (8 min)**  
   *Parent does:* Ask your child to say what they thought, what they saw and why. Then sort the cups from the firmest to the runniest, and write which thing mattered more, the starter or the warmth.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Which mattered more, the starter or the warmth?  
-  *Child mode:* Say what you thought, what you saw, and why. Which mattered more, the starter or the warmth?
+  *Child mode:* Line up the cups from firmest to runniest. Say what you thought, what you saw, and why. Which mattered more, the starter or the warmth?
   - Note: A strong answer says that the starter was needed, because D did not set. Warmth made it faster, because A and B set before C. After they have said what they saw, explain: the bacteria in the starter eat milk sugar and make lactic acid. The acid makes the milk protein join into a net. Cold slows the bacteria down.
   - Think: How could you make curd in a very cold winter kitchen?
 
 ## Activities
 ### a1 · Batter Watch: one bowl, one night (20 min, 2 days)
 - **safety:** Do not eat batter that smells bad or has pink, green or black colour on it. Do not taste the raw batter.
-- **record:** Write the height of the batter at the start and in the morning. Draw the inside of the jar, with bubbles.
+- **record:** Write the height of the batter at the start and in the morning. Take a photo of the jar, with the bubbles, or write what you saw, smelled and heard.
 - **schedule:** day 1: Pour the batter into the jar. Mark the level. Guess how high it will be in the morning. (8 min); day 2: Measure the rise. Smell, listen and look. Draw the batter. Say why it changed. (12 min)
 - **s1 (8 min)**  
   *Parent does:* Pour the batter into the jar until it is one third full. Slip a rubber band around the jar at the top of the batter. Measure the height with a ruler. Write the number down. Cover the jar loosely with a plate. If you have a second jar, fill it the same way and put it in the fridge. Ask your child for a guess and a reason.  
   *Parent says:* We will leave the batter overnight. How high do you think it will be in the morning? Why do you think so?  
-  *Child mode:* Pour batter into the jar. Mark the top with a rubber band. Measure it. How high will it be tomorrow? Why?
+  *Child mode:* Pour batter into the jar. Mark the top with a rubber band. Measure it. Guess how high it will be tomorrow.
   - Ask: Why do you think the batter will rise? (good: Tiny living things in it make gas.; Gas gets trapped in the batter.; Warmth helps it rise.)
   - Note: A third full leaves room to rise. Cover loosely, never tight, so the gas can escape. Keep the jar in a warm part of the kitchen, away from the fan. If your kitchen is cold, the batter may not rise much. That is also a result. With 2 to 4 children, each child can set up and measure their own jar: one on the counter, one in the fridge.
 - **s2 (12 min)**  
-  *Parent does:* The next morning, look at the jar. Measure how high the batter is now. Write down the number. Look at the bubbles. Smell the top. Hold your ear close, and listen. Draw the inside of the jar, with the bubbles. If you have the fridge jar, measure it too and compare.  
+  *Parent does:* The next morning, look at the jar. Measure how high the batter is now. Write down the number. Look at the bubbles. Smell the top. Hold your ear close, and listen. Take a photo of the jar, with the bubbles. If you have the fridge jar, measure it too and compare.  
   *Parent says:* What do you see? What do you smell? What do you hear? How high did it rise? Why do you think it rose?  
-  *Child mode:* Measure the batter. Look at the bubbles. Smell it. Listen. Draw what you see.
+  *Child mode:* Measure the batter. Look at the bubbles. Smell it. Listen. Take a photo, or tell your grown-up what you see.
   - Ask: What do the bubbles tell you? (good: Something made gas.; Microbes were working.; The gas is trapped.)
   - Note: Fresh-ground batter in a warm kitchen usually rises well overnight; the fridge jar hardly rises. In hot weather it may rise a lot and smell quite sour, which is fine. A good rise is about one and a half times the starting height or more, with bubbles through the batter and a slightly sour smell. If it did not rise, check the room temperature and try the Winter Batter challenge. After they have shared what they saw, explain: the microbes ate the sugars and made carbon dioxide, and the sticky dal held the gas.
   - Check: A jar of batter rose in the night and smells a little sour. What made the sour smell? → **Bacteria making lactic acid**
@@ -370,25 +370,25 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
   *Child mode:* For each food, guess the microbe. Bacteria make acid. Yeast make gas. Write your guess.
   - Note: Many foods have both bacteria and yeast. Curd and buttermilk are mostly bacteria. Bread, appam and toddy are mostly yeast. Idli batter has both. Any sensible guess is fine.
 - **s4 (6 min)**  
-  *Parent does:* Draw a rough outline of India. Mark where each food comes from, and draw a tiny picture of it. Look for foods from three different parts of India.  
+  *Parent does:* Find India on a printed map, or on a phone. Put a dot where each food comes from, and write its name beside the dot. Look for foods from three different parts of India.  
   *Parent says:* Where in India is each food from? Are they all from the same region? Why might different places make different foods?  
-  *Child mode:* Draw India. Mark where each food comes from. Draw a tiny picture of it.
+  *Child mode:* Find India on the map. Put a dot where each food comes from. Say its name.
   - Note: People use what grows near them: rice and dal in the south, gram flour in Gujarat, black carrots in Punjab and soybeans in the north-east. Look at the card on fermented foods across India for ideas.
   - Think: Why do you think different places in India have different fermented foods?
 ### a3 · Kitchen Safari: which foods were made with microbes? (15 min)
 - **record:** A list of at least eight foods, sorted into two groups: made with microbes, and not made with microbes, with a count for each group and a note on how your first guess compared.
 - **s1 (5 min)**  
-  *Parent does:* Walk through the kitchen with your child. First, ask your child to guess how many of the foods you will see were made with microbes. Then find at least eight foods that you think were made with microbes. Write down the names.  
+  *Parent does:* Walk through the kitchen with your child. First, ask your child to guess how many foods in the kitchen were made with microbes. Then find at least eight foods that you think were made with microbes. Write down the names.  
   *Parent says:* Let's look for foods that microbes helped to make. Curd and bread are easy. What else can you find?  
-  *Child mode:* Look around the kitchen. Find foods you think microbes helped make. Write them down.
+  *Child mode:* Guess how many foods in the kitchen were made with microbes. Then look around, find them, and write them down.
   - Note: Easy finds: curd, buttermilk, bread, idli or dosa batter, cheese, soy sauce, and some pickles, which are fermented in salt. Tricky ones: oil-and-spice pickles are only preserved, and some cheap vinegar and soy sauce are made with chemicals, so the label decides. Ketchup is not fermented, but its vinegar is made by microbes. Papad is not fermented. Foods that are not made with microbes: rice, plain milk, paneer, dal, fresh vegetables, sugar. With 2 to 4 children, each takes a shelf and then they compare. A grown-up opens the fridge and handles glass jars and knives.
 - **s2 (5 min)**  
   *Parent does:* Pick up three packets. Read the labels together. Look for the words yeast, culture, starter or fermented. Write down which words you find.  
   *Parent says:* Many labels tell you if microbes were used. Look for the words yeast, culture, starter or fermented. What do you find?  
   *Child mode:* Read the label. Look for yeast, culture, starter or fermented. Write what you find.
-  - Check: Which of these is not made by microbes? → **Paneer, made by adding lemon juice or vinegar to hot milk**
+  - Check: Which of these is not made by microbes? → **Paneer, made with lemon juice and hot milk**
 - **s3 (5 min)**  
-  *Parent does:* Draw two columns on a sheet. Write Made with microbes on one side and Not made with microbes on the other. Sort your foods. Count each column and compare with your first guess. Talk about the ones you are not sure about.  
+  *Parent does:* Fold a sheet in half. Write Made with microbes on one half and Not made with microbes on the other. Sort your foods onto the two halves. Count each column and compare with your first guess. Talk about the ones you are not sure about.  
   *Parent says:* Which column does each food go in? Which ones are you not sure about? How could you find out?  
   *Child mode:* Sort your foods into two columns. Which ones are you not sure about?
   - Think: How could you find out whether a food was made with microbes?
@@ -396,11 +396,11 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 ## Projects
 ### p1 · Make idli from scratch: from rice and dal to soft idli (70 min, 2 days)
 - **safety:** A grown-up works the grinder, because the blades are sharp. A grown-up does the steaming. The steam and the pot are very hot. Children stay back when the lid is opened. Nobody tastes the raw batter.
-- **record:** Write the height of the batter before and after the night, how it smelled, and how your idlis turned out. Draw an idli cut in half.
+- **record:** Write the height of the batter before and after the night, how it smelled, and how your idlis turned out. Write how many big holes you counted in half an idli.
 - **schedule:** day 1: Wash and soak the rice and the dal. Four to five hours later, a grown-up grinds them. Mix, add salt and set the batter in a warm place for the night. (35 min); day 2: Check the batter. Steam the idlis with a grown-up. Taste them, and compare with idli you have eaten before. (35 min)
 - **s1 (10 min)**  
   *Parent does:* Wash one cup of rice and the dal separately, until the water runs almost clear. Soak the rice in one bowl, and the dal with the fenugreek seeds in a different bowl. Cover both with water. Leave them for 4 to 5 hours.  
-  *Parent says:* Rice and dal soak separately. Soaking softens them so they grind smoothly. It also wakes up the microbes that live on the grains. Which microbe do you think will do the work?  
+  *Parent says:* Rice and dal soak separately. Soaking softens them so they grind smoothly. It also wakes up the microbes that live on the grains.  
   *Child mode:* Wash the rice and the dal. Soak them in two bowls. Wait 4 to 5 hours.
   - Ask: Why do you think we soak the rice and dal before grinding? (good: To make them soft.; So they grind easily.; To get them ready for the microbes.)
   - Note: Use cool water. While the rice and dal soak, you can do other lessons. The grains are already covered with microbes that will wake up in the batter. Roles: with one child, your child washes and soaks while you grind and steam. With 2 to 4 children, one washes the rice, one the dal, one marks and measures the batter, and one greases the plates (a grown-up fills them).
@@ -427,9 +427,9 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
   *Child mode:* Ask a grown-up to fill the plates and steam the idlis. Wait until they are cool enough to touch.
   - Note: An idli is done when a clean spoon comes out dry. Let it cool for a few minutes so it does not break.
 - **s6 (12 min)**  
-  *Parent does:* Cut an idli in half. Look at the holes inside. Draw what you see. Taste it with a chutney or sambar. Say what you think made the holes.  
+  *Parent does:* Cut an idli in half. Look at the holes inside. Count the big holes you can see in one half. Taste it with a chutney or sambar. Say what you think made the holes.  
   *Parent says:* Look at the holes inside the idli. What made them? Where did the gas go? How is it different from an idli you have had before?  
-  *Child mode:* Cut an idli in half. Draw the holes. Taste it. What made the holes?
+  *Child mode:* Cut an idli in half. Count the big holes. Taste it. What made the holes?
   - Note: The holes were made by gas bubbles that the microbes made. The sticky dal held them in place, and the steam set them. If your idlis are flat, the batter may have been too cold or too thin. Try again with the Winter Batter ideas.
   - Think: How would you change the recipe to make the idlis softer?
 
@@ -448,12 +448,12 @@ Reena Aunty went to bed smiling. Thara stayed in the kitchen a little longer, th
 - **s2 (15 min)**  
   *Parent does:* Fill three identical bottles with the same warm water. Leave one bare. Wrap one in a towel. Wrap one in a towel and put it in a box. Leave them for 3 hours. Then feel each one, or measure it with a thermometer.  
   *Parent says:* We are testing three ways to keep something warm. Which will stay warm the longest? Why do you think so?  
-  *Child mode:* Fill three bottles with warm water. Wrap them in different ways. Check them in 3 hours.
+  *Child mode:* Fill three bottles with the same warm water. Leave one bare. Wrap one in a towel. Put one in a towel and a box. Check them in 3 hours.
   - Note: The warm water should feel comfortable on your wrist, not hot. The bottle wrapped in a towel inside the box will usually stay warmest, because wrapping slows the escape of heat.
 - **s3 (10 min)**  
-  *Parent does:* Pick your best way. Draw your design, and say why you chose it. Add one idea of your own.  
+  *Parent does:* Pick your best way. Draw your design, or tell your grown-up how you will build it. Say why you chose it. Add one idea of your own.  
   *Parent says:* Which way kept the water warmest? How could you make it even better? What is your own idea?  
-  *Child mode:* Choose the best way. Draw it. Add your own idea.
+  *Child mode:* Choose the best way. Draw it or explain it out loud. Add your own idea.
 - **s4 (10 min)**  
   *Parent does:* Put a pot of fresh batter into your design. Mark the level with a rubber band. In the morning, check how high it has risen, and how it smells.  
   *Parent says:* Did it work? How high did the batter rise? What would you do differently next time?  

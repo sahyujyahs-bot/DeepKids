@@ -262,7 +262,7 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 - **s5 (2 min)**  
   *Parent does:* Sit together and ask the question below. Do not give the answer. Let each person say what they think.  
   *Parent says:* Look back at the cards. Why do lights make things brighter and paints make things darker?  
-  *Child mode:* Why do lights get brighter when mixed? Why do paints get darker?
+  *Child mode:* Look back at the cards and say what you think.
   - Note: A good answer sounds like this. Each torch sends new light to the spot, so there is more of it. Each paint or filter takes some light away before it reaches your eye, so there is less of it.
   - Think: Lights add light to the spot. Paints and filters take light away. Is there a mix that adds and takes away at the same time?
 
@@ -271,12 +271,12 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 - **question:** When a red torch and a green torch shine on one white wall, what colour is the wall where they overlap? And what colour is each shadow of a pencil in front of the wall?
 - **predict:** Before you start, guess. What colour will the wall be where the red and green lights overlap? What colour will the pencil's shadows be? Why do you think so?
 - **fair test:** Use the same two torches, the same wall, the same pencil and the same dim room each time. Keep both torches between half a metre and one metre from the wall, and move them closer if the patches look faint. Change one thing at a time: first only red, then only green, then both. Look at each set-up for a full ten seconds, because your eyes need time to settle in a dim room. Safety: use LED or phone torches, because cellophane can melt on a hot bulb, and never shine a torch into anyone's eyes. Who does what: with one child, the child holds the red torch and the parent holds the green. With two to four children, one child holds each torch, one holds the pencil and one is the recorder with the table. Swap jobs for each set-up. If you have only one phone, use a small LED torch for the second light.
-- **record:** Fill in the table. Draw the wall and the pencil's two shadows with coloured pencils. Write what you thought, what you saw and why you think it happened.
+- **record:** Fill in the table. Take a photo of the wall and the pencil's two shadows, or draw them with coloured pencils. Write what you thought, what you saw and why you think it happened.
 - **results table:** Lights on | Colour of the wall where the light lands | Colours of the pencil's shadows | Was my guess right? (yes or no)
 - **s1 (5 min)**  
   *Parent does:* Show your child the two torches, the cellophane and the white wall. Ask what colour the wall will be where the two lights overlap, and what colour the pencil's shadows will be. Ask for a reason each time. Write the guesses at the top of the table.  
   *Parent says:* We will cover one torch with red cellophane and one with green cellophane. Then we shine both on the wall. What colour will the wall be where the two lights meet? Why do you think so?  
-  *Child mode:* A red torch and a green torch will both shine on one wall. What colour will the wall be? Why do you think so?
+  *Child mode:* Look at the two torches, the cellophane and the white wall. Get ready to make a guess.
   - Ask: Why do you think the wall will be that colour? (good: Red and green paint make brown, so it might be brown.; The two colours will mix.; It might look like a colour from the middle of the rainbow.)
   - Ask: What colour will the pencil's shadows be? (good: Black or grey, like all shadows.; One red and one green.; Dark.)
   - Note: Do not correct the guess. Many children guess brown, because they know paints. That is a good guess, and the test will show if it holds. Write what they say, word for word.
@@ -294,7 +294,7 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 - **s4 (6 min)**  
   *Parent does:* Switch on both torches. Stand them about 40 centimetres apart and about one metre from the wall, so the two patches overlap. Look at the middle. Then look at the pencil's two shadows. Write the colours in the table. Then move one torch back a hand-span at a time, and write how the middle colour changes each time.  
   *Parent says:* Switch on both torches now, side by side, so the patches overlap. What colour is the wall in the middle? How many shadows does the pencil have? What colour is each one?  
-  *Child mode:* Switch on both torches. Make the patches overlap. What colour is the middle? What colour is each shadow?
+  *Child mode:* Switch on both torches. Make the two patches overlap. Look at the middle and at the shadows.
   - Ask: What do you notice about the shadows? (good: There are two shadows.; One shadow is red and one is green.; The shadows are not black or grey.)
   - Note: Expect the overlap to look yellow, or orange-yellow, or sometimes pale green-yellow, depending on which torch is stronger. If it looks orange, the red is too strong, so move the red torch a little further back. If it looks green-yellow, move the green torch back. One shadow should look green and the other red. The shadows can be faint, so a darker room helps. The yellow will not be perfect. That is a real result.
   - Check: One of the pencil's shadows is green. Why? → **The pencil blocks the red torch there, but the green torch still lights that spot**
@@ -312,12 +312,12 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 - **question:** When you colour one highlighter over another on white paper, do the colours add up like torch light, or do they take colours away?
 - **predict:** Before you start, guess. What colour will yellow over blue be? What colour will pink over yellow be? Where two colours cross, will the crossing look brighter or darker than the single colours? Why do you think so?
 - **fair test:** Use the same three highlighters and the same kind of white paper every time. Colour each stripe with one slow stroke and the same pressure. Only the colours you put on top of each other change. At the end, check whether the order of the layers matters.
-- **record:** Fill in the table. Draw the nine crossing squares and colour each one in with coloured pencils. Write which crossings are darker than the single stripes.
+- **record:** Fill in the table with the colour of each of the nine crossings. Keep your striped page. Write which crossings are darker than the single stripes.
 - **results table:** Bottom layer | Top layer | My guess for the colour | The colour I saw | Lighter or darker than the single colours?
 - **s1 (4 min)**  
   *Parent does:* Show your child the three highlighters and the paper. Ask what colour yellow over blue will be. Ask what colour pink over yellow will be. Ask whether the crossings will look brighter or darker than the single stripes. Ask for a reason each time. Write the guesses at the top of the table.  
   *Parent says:* We will colour stripes across each other. What colour will yellow over blue be? What about pink over yellow? Will the crossings be brighter or darker? Why do you think so?  
-  *Child mode:* You will draw highlighter stripes across each other. What colours will the crossings be? Why?
+  *Child mode:* Look at the three highlighters. Guess what colour yellow over blue will make. Why?
   - Ask: Will the crossings look brighter or darker than the single stripes? (good: Darker, like mixing paints.; Brighter, like mixing torches.; I am not sure.)
   - Note: Do not correct the guess. Children who have just done Two Torches, Two Shadows often guess brighter. Others who know paints guess darker. Both are good guesses. Write what they say.
 - **s2 (5 min)**  
@@ -331,7 +331,7 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
   *Child mode:* Draw three tall stripes down the page. Make them blue, yellow and pink. Cross the first stripes.
   - Note: Wait a few seconds for the ink to dry before you look closely. Where a stripe crosses a stripe of the same colour, the square should look deeper than the single stripe. Where two different colours cross, you get a new colour.
 - **s4 (6 min)**  
-  *Parent does:* Look at the nine crossing squares in daylight or under a lamp. Colour each square in your table and write whether it is lighter or darker than the two single stripes.  
+  *Parent does:* Look at the nine crossing squares in daylight or under a lamp. Write the colour of each square in your table. Say whether it is lighter or darker than the two single stripes.  
   *Parent says:* Look at each crossing. What colour is it? Is it brighter than the stripes, or darker?  
   *Child mode:* Look at the nine crossings. What colours do you see? Brighter or darker?
   - Ask: What do you notice about the crossings of two different colours? (good: They are new colours, like green or orange.; They are darker than the stripes.; Blue and yellow make green.)
@@ -350,10 +350,10 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 
 ## Activities
 ### a1 · The Wrong-Colour Flag: afterimages in your eyes (15 min)
-- **record:** Draw the flag you drew, and next to it draw the flag you saw on the white wall. Colour both. Write how long the ghost flag lasted.
+- **record:** Write the three colours you saw on the white wall, top to bottom. Write how long the ghost flag lasted. You can also draw it, or take a photo of your flag.
 - **s1 (5 min)**  
-  *Parent does:* Draw a rectangle 12 centimetres wide and 9 centimetres tall. Divide it into three stripes. Colour the top stripe blue-green, the middle stripe black and the bottom stripe pink. Leave a small round spot in the middle uncoloured.  
-  *Parent says:* We will draw India's flag in the wrong colours. Top is blue-green. Middle is black. Bottom is pink. In the middle, leave a little white dot to stare at. What colours do you think you will see on a white wall afterwards?  
+  *Parent does:* Draw a rectangle 12 centimetres wide and 9 centimetres tall. Divide it into three stripes. Colour the top stripe blue-green, the middle stripe black and the bottom stripe pink. (You can stick strips of coloured paper instead.) Leave a small round spot in the middle uncoloured.  
+  *Parent says:* We will draw India's flag in the wrong colours. Top is blue-green. Middle is black. Bottom is pink. In the middle, leave a little white dot to stare at.  
   *Child mode:* Draw three stripes. Colour the top blue-green. Colour the middle black and the bottom pink. Leave a white dot in the middle.
   - Ask: What colours do you think you will see on the white wall after staring? (good: The same colours as the flag.; No colours at all.; Different colours.)
   - Note: The real flag has saffron on top, white in the middle and green at the bottom. Do not say this yet. Let your child guess first. Colour the stripes boldly, so the colours are strong.
@@ -369,15 +369,15 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
   *Child mode:* Ask someone else to try. Do they see the same flag?
   - Note: People differ. Some see a clear tricolour, some see faint patches. That tells us that afterimages depend on the eye that makes them. If you can, draw the ghost flag that each person saw.
 - **s4 (3 min)**  
-  *Parent does:* Now draw a large red square on a new page, with a white dot in the middle. Ask your child to guess the colour of the ghost square. Then stare at it for 30 seconds and look at the white wall.  
+  *Parent does:* Now take a large red square: draw one on a new page, or use a red cloth or red card. Put a small white paper dot in the middle. Ask your child to guess the colour of the ghost square. Then stare at it for 30 seconds and look at the white wall.  
   *Parent says:* Let's try one more. Guess first. If you stare at a red square, what colour will the ghost be on the white wall? Then try it.  
-  *Child mode:* Draw a red square. Guess what colour the ghost will be. Stare at it, then look at the white wall.
+  *Child mode:* Guess what colour the ghost will be. Stare at the red square, then look at the white wall.
   - Note: Expect a pale blue-green ghost. The ghost of green is pink. The ghost of yellow is blue. These pairs are called complementary colours. The white wall has none of these colours. They are made in the eye.
   - Think: The ghost of red was blue-green, and the ghost of blue-green was red. What do you notice about the pairs?
 ### a2 · Stripes That Blend: colours that mix in your eye (20 min)
-- **record:** Fill in a small table: the stripe colours, the number of steps at which they blended, and the colour you saw from far away. Draw the colours of the dots you found in the newspaper photo.
+- **record:** Fill in a small table: the stripe colours, the number of steps at which they blended, and the colour you saw from far away. Write the colours of the dots you found in the newspaper photo.
 - **s1 (6 min)**  
-  *Parent does:* Draw two squares, each 3 centimetres wide and 3 centimetres tall. In the first, draw thin stripes side by side. Go red, green, red, green, with no gaps, until the square is full. In the second, do the same with blue and yellow.  
+  *Parent does:* Draw two squares, each 3 centimetres wide and 3 centimetres tall (or cut them from coloured paper strips). In the first, draw thin stripes side by side. Go red, green, red, green, with no gaps, until the square is full. In the second, do the same with blue and yellow.  
   *Parent says:* Draw two small squares. Fill the first with thin stripes of red and green, side by side. Fill the second with blue and yellow. Use the thin tip of the pen and no gaps.  
   *Child mode:* Draw two squares. Fill one with thin red and green stripes. Fill the other with thin blue and yellow stripes.
   - Ask: What colour do you think each square will look from far away? (good: Red and green might look brown.; Red and green might look yellow.; Blue and yellow might look green.)
@@ -394,9 +394,9 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
   - Note: Red and green stripes usually look a dull yellow or yellow-brown. Blue and yellow stripes usually look a pale grey or a greyish green. Felt-pen colours are not pure, so the result is duller than the lights in Two Torches, Two Shadows. Write what you really see. The blue and yellow stripes do not blend into a clear green, which is what you would get by mixing blue and yellow paints.
   - Check: From far away, the red and green stripes looked like a dull yellow-brown. What does this show? → **Light from the red and green stripes lands on the same part of your eye and adds up**
 - **s4 (4 min)**  
-  *Parent does:* Look closely at a colour photo in a newspaper or magazine, with a magnifying glass, or with a phone camera zoomed in. Find the small dots. Draw the colours of the dots you can find.  
-  *Parent says:* Now look at a printed photo, very close. What do you see? Draw the colours of the little dots. How many different colours of dots are there?  
-  *Child mode:* Look closely at a printed photo. Draw the dots you see.
+  *Parent does:* Look closely at a colour photo in a newspaper or magazine, with a magnifying glass, or with a phone camera zoomed in. Find the small dots. Name the colours of the dots you can see.  
+  *Parent says:* Now look at a printed photo, very close. What do you see? What colours are the little dots? How many different colours of dots are there?  
+  *Child mode:* Look closely at a printed photo. Find the little dots and name their colours.
   - Note: You should find tiny dots of cyan (blue-green), magenta (pink), yellow and black. Together these make every colour in the picture. Use a colour picture from a newspaper supplement, magazine or flyer, not a black-and-white page. Cheap printing shows the dots best. If you only see a blur, use a stronger magnifier or a bigger zoom.
   - Think: A printed photo is made of only four colours of ink. Where do all the other colours come from?
 ### a3 · Navy or Black? Colours under different lamps (24 min)
@@ -404,7 +404,7 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 - **s1 (4 min)**  
   *Parent does:* Lay the dark things on a table. Point out the navy one and the black one. Ask your child to guess whether it will be easy or hard to tell them apart under each light.  
   *Parent says:* Here are four dark things. Two look almost alike, the navy and the black. In which light will it be easiest to tell them apart? In which will it be hardest? Why do you think so?  
-  *Child mode:* Here are four dark things. Navy and black look alike. In which light is it hardest to tell them apart? Why?
+  *Child mode:* Look at the four dark things. Find the navy one and the black one.
   - Ask: Which light do you think will make navy and black easiest to tell apart? (good: Daylight, because it is the brightest.; The cool white bulb.; The warm bulb.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (7 min)**  
@@ -425,15 +425,15 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
   - Note: Cool white light gives out more blue, so navy shows up as blue. Most homes have a cool-white bulb but no warm one. If so, make the warm light of step 3 with a phone torch and yellow cellophane. Scores are small numbers, so treat them as a clue, not proof.
 - **s5 (2 min)**  
   *Parent does:* Compare the three rows of the table. Ask your child: if you had to choose the colour of a school uniform, in which light would you choose it? Why?  
-  *Parent says:* Look at your table. In which light was it easiest to tell the colours apart? Why do you think a shopkeeper takes the cloth to the door?  
-  *Child mode:* Look at your table. Which light was best for telling dark colours apart?
+  *Parent says:* Look at your table. In which light was it easiest to tell dark colours apart? Which light would you use to choose a school uniform?  
+  *Child mode:* Look at your table. Find the light with the best score.
   - Think: The cloth was the same in every light. What was different?
 ### a4 · The Vanishing Message: red words that disappear (12 min)
-- **record:** Draw the two words. Write what each looked like through the red sheet and through the green sheet.
+- **record:** Write what each word looked like through the red sheet and through the green sheet.
 - **s1 (4 min)**  
   *Parent does:* Write the word RED in red felt pen, in big letters, on the white paper. Write the word GREEN in green felt pen below it. Ask your child to guess what each word will look like through red cellophane.  
-  *Parent says:* Write RED in red, and GREEN in green. Hold the red cellophane over one eye. What do you think each word will look like? Why?  
-  *Child mode:* Write RED in red. Write GREEN in green. What will they look like through red cellophane? Why?
+  *Parent says:* Write RED in red, and GREEN in green. Now guess what each word will look like through red cellophane. Why?  
+  *Child mode:* Write RED in red, in big letters. Write GREEN in green, in big letters.
   - Ask: What do you think will happen to the red word through red cellophane? (good: It will look even redder.; It will vanish.; Nothing will change.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Never look at the Sun through cellophane.
 - **s2 (4 min)**  
@@ -451,22 +451,22 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 ## Projects
 ### p1 · A Coloured Shadow Puppet Show (50 min, 2 days)
 - **safety:** A grown-up cuts the windows in the card, because scissors and craft knives can slip. Use LED or phone torches only, because cellophane can melt on a hot bulb.
-- **record:** Draw one puppet. Colour its windows. Write what each window looked like in white light, in red light and in green light.
+- **record:** Write what each window of one puppet looked like in white light, in red light and in green light. A photo of each also works.
 - **schedule:** day 1: Plan and draw three puppets. Cut out their windows and stick cellophane on them. Leave the glue to dry. (30 min); day 2: Hang the screen. Put on a short show with a white torch, and then with coloured torches. (20 min)
 - **s1 (5 min)**  
-  *Parent does:* Show your child the cardboard, cellophane and torches. Ask what the puppets will look like on the screen. Ask them to draw three puppet shapes on paper with windows marked in colour.  
+  *Parent does:* Show your child the cardboard, cellophane and torches. Ask what the puppets will look like on the screen. Ask them to choose three puppet shapes, such as a bird, a fish or a person. Ask where the windows will go. A quick sketch is fine but not needed.  
   *Parent says:* We will make shadow puppets with coloured windows. What colour will the puppet's body be on the screen? What will the windows look like? Why do you think so?  
-  *Child mode:* You will make puppets with coloured windows. What will the body look like on the screen? What will the windows look like?
+  *Child mode:* Look at the cardboard, cellophane and torches. Choose three puppet shapes and where their windows go.
   - Ask: What will the puppet's body look like on the screen? (good: Dark, like a shadow.; Black.; Coloured.)
   - Ask: What will the windows look like? (good: Bright and coloured.; Dark.; The same as the body.)
   - Note: Do not correct the guess. In the tradition of tholu bommalata in Andhra Pradesh, puppeteers use large puppets of thin, painted leather. Light shines through the leather, and the colours appear on the screen.
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* Draw each puppet on the card. A grown-up cuts out the shape and cuts two or three windows in each, about 3 centimetres wide. Stick coloured cellophane over each window with glue or tape. Stick each puppet to a stick.  
-  *Parent says:* Draw a puppet on card. Cut out the shape. Ask a grown-up to cut windows in it. Cover each window with cellophane. Stick the puppet to a stick.  
+  *Parent says:* Draw a puppet on card. Cut out the shape. A grown-up cuts the windows in it. Cover each window with cellophane. Stick the puppet to a stick.  
   *Child mode:* Draw a puppet on card. A grown-up cuts it out. Cover the windows with cellophane. Add a stick.
   - Note: A grown-up should do all the cutting. Keep the windows big, so the colour is bright on the screen. Use one colour per window. Make three puppets, so you have different colour windows to compare.
 - **s3 (10 min)**  
-  *Parent does:* Let the glue dry until tomorrow. Meanwhile, hang the screen between two chairs or on a clothes line. Make the room dim. Try a test: hold a puppet close behind the screen and shine a torch from behind.  
+  *Parent does:* Let the glue dry. (Tape needs no waiting.) Hang the screen between two chairs or on a clothes line. Make the room dim. Try a test: hold a puppet close behind the screen and shine a torch from behind.  
   *Parent says:* While the glue dries, hang the white cloth between two chairs. Switch off the lights. Hold the puppet close to the cloth and shine a torch from behind it. Look from the front.  
   *Child mode:* Hang the cloth. Hold the puppet close behind it. Shine a torch from behind. Look from the front.
   - Note: The puppet must be close to the screen to make a sharp shadow. Hold the torch about a metre behind the puppet. Make the room dim, and shine the torch so that it lights the screen from behind. If the coloured windows look dim, make the room darker and move the torch closer to the puppet.
@@ -490,7 +490,7 @@ Ilakkiya thought about it for a long time. "The red and the green both landed in
 ## Challenges
 ### c1 · Eight Looks From Three Torches (35 min)
 - **problem:** You have a red torch, a green torch and a blue torch, and a white wall. Make as many different colours on the wall as you can, using only these three. Find out how many different looks the wall can have, and write down the recipe for each.
-- **your turn:** Make your own list of looks. Draw a picture of each and write the recipe. How many different looks did you make? Can you make a colour that is not on anyone else's list?
+- **your turn:** Make your own list of looks. Write the recipe for each, and take a photo of each look on the wall if you can. How many different looks did you make? Can you make a colour that is not on anyone else's list?
 - **constraints:** Use only red, green and blue cellophane. No other colours of paper, paint or pens.; Each torch is either on or off, with nothing in between, for the main count.; Write the recipe each time, for example red and green.; Keep the torches the same distance from the wall for the main count, and keep the room dim.
 - **general:** Switch on one torch at a time: red, then green, then blue.; Switch on two torches at a time: red and green, green and blue, red and blue.; Switch on all three torches, and switch off all three.
 - **creative:** Move one torch further away so that it is fainter, and see how the colour changes. A strong red torch and a weak green torch make orange.; Fold the cellophane into three layers on one torch to dim it, and mix again.; Set up a little light show with a sequence of looks, and give each look a name, like sunrise, sea and sunset.

@@ -286,20 +286,20 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **Printable tokens: 4 markers: coins, buttons or paper circles:** Marker 1; Marker 2; Marker 3; Marker 4
 - **Printable score sheet: Round record: write the number of ticks each round took:** Round 1, listen rule. Ticks until everyone flashed together twice: ____; Round 2, ignore rule. Ticks until everyone flashed together twice, or 40 if it never happened: ____; Round 3, listen rule, with new cards. Ticks until everyone flashed together twice: ____
 - **s1 (3 min) · grown-up needed**  
-  *Parent does:* Cut out the six firefly cards, the 14 start-number cards and four markers. Draw a counting track of ten boxes for each player. Set up the metronome at 60 beats a minute.  
+  *Parent does:* Cut out the six firefly cards, the 14 start-number cards and four markers. Make a counting track of ten boxes for each player. Draw the boxes, or lay out ten coins or buttons in a row. Set up the metronome at 60 beats a minute.  
   *Parent says:* Today we are fireflies. Each of us has a beat. Some fireflies flash every 7 ticks, some every 8 and some every 9. Will we ever flash together?  
   *Child mode:* Cut out the cards. Make a counting track with ten boxes. Each player is a firefly.
   - Note: A phone metronome app works well. If you have none, the youngest player calls tick out loud every second, and still plays. Keep the room clear so players can stand up safely.
 - **s2 (4 min)**  
-  *Parent does:* Deal the cards and start numbers. Everyone puts a marker on their start number. Run the metronome for 10 ticks to practise moving the marker and flashing, using the ignore rule.  
+  *Parent does:* Deal the cards and start numbers. Everyone puts a marker on their start number. Run the metronome for 10 ticks to practise moving the marker and flashing at your own number.  
   *Parent says:* Look at your card. Your flash number is how many boxes your marker must move before you flash. Move one box on every tick. When you reach your number, stand up, say flash, and go back to zero.  
   *Child mode:* Take a firefly card and a start number. Move your marker one box on every tick. Flash at your number.
   - Ask: Before we play, do you think fireflies with different beats could ever flash at the same moment? Why do you think so? (good: Only by luck, when their beats happen to match.; Yes, if they watch each other and change.; No, because each one has their own beat.)
   - Note: Do not correct any guess. Write each guess and reason on the back of the round record.
 - **s3 (4 min)**  
   *Parent does:* Play round 1 with the listen rule. Start the beat. Everyone moves a box on each tick. Flash at your own flash number, and join other flashes as the listen rule says. Count the ticks until everyone flashes together twice in a row.  
-  *Parent says:* Round one. Listen to each other. If you see a flash and your marker is halfway or more, flash too. Let's count the ticks until all of us flash together two times.  
-  *Child mode:* This is round 1. If you see a flash, check your marker. If it is at halfway or further, flash too. Count the ticks.
+  *Parent says:* Round one. Listen to each other. If you see a flash and your marker is halfway to your flash number or further, flash too. Let's count the ticks until all of us flash together two times.  
+  *Child mode:* This is round 1. If you see a flash, check your marker. If it is halfway to your flash number or further, flash too. Count the ticks.
   - Check: In round 1, a player sees a flash when their marker is before the halfway number. What do they do? → **Nothing, they carry on counting to their own flash number**
 - **s4 (4 min)**  
   *Parent does:* Play round 2 with the ignore rule. Use new start numbers. Stop at 40 ticks if the group never flashes together twice in a row. Write the number on the round record.  
@@ -319,7 +319,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **Printable cards: 26 two-sided cards: something that shines on the front, and how it shines on the back:** A candle flame in a dark room. (back: Hot. The flame is very hot, and the heat makes the glow.); A firefly flashing over a dark field. (back: Made by chemistry. Living light needs no light shining on it.); A yellow highlighter line seen under a UV torch. (back: Sent back at once (fluorescence). It takes in UV and sends out visible light. It goes dark the moment the torch goes off.); A glow-in-the-dark star, ten minutes after the lamp is switched off. (back: Stored (phosphorescence). It keeps some light and lets it out slowly.); The Moon on a clear night. (back: Only bounced. The Moon sends back sunlight and makes no light.); A glow stick, bent so that it starts to shine. (back: Made by chemistry. Two liquids react. Nothing alive is involved.); A white shirt glowing blue-white under a UV lamp after washing with detergent. (back: Sent back at once. Many detergents leave a chemical that sends out visible light under UV.); A filament bulb in an old lamp. (back: Hot. A thin wire is heated until it glows.); The blue sparkle of a wave breaking at night, when the water holds sea sparkle. (back: Made by chemistry. Tiny living plankton flash when the water around them is stirred.); A mirror in a dark room with a torch shining on it. (back: Only bounced. The mirror makes no light of its own.); A scorpion lit by a UV torch. (back: Sent back at once. Their hard outer skin sends out blue-green light under UV. It stops when the torch is off.); The glowing hands of a clock that sat in a bright room all day, now in a dark room. (back: Stored. The paint kept light from the day and lets it out slowly.); A hatchetfish with lights on their belly, deep in the sea. (back: Made by chemistry. Their belly lights make light in the dark.); A sparkler at Diwali. (back: Hot. The burning chemicals glow because they are extremely hot.); A reflective strip on a road sign lit by a car's headlights. (back: Only bounced. Tiny reflectors send the car's light straight back.); A coral on a reef lit by a blue torch, glowing green. (back: Sent back at once. Many corals have proteins that turn blue light into green light. It stops when the torch is off.); A glowing mushroom on a rotting log in a rainforest. (back: Made by chemistry. Living fungi make this light.); A bottle of tonic water glowing blue under a UV torch. (back: Sent back at once. A chemical in tonic water called quinine sends out blue light under UV.); A red-hot iron rod in a blacksmith's fire. (back: Hot. Very hot iron glows red.); A cat's eyes shining green in a torch beam. (back: Only bounced. A mirror-like layer at the back of the eye sends light back.); A white page of a book in bright lamplight. (back: Only bounced. The page makes no light.); The lure of an anglerfish, deep in the sea. (back: Made by chemistry. Glowing bacteria live inside the lure.); A leaf under strong blue light glowing a faint red. (back: Sent back at once. Chlorophyll in a leaf sends out a little red light when blue light falls on it.); Paint on the edge of a stair, glowing in a power cut. (back: Stored. The paint kept light from earlier and lets it out slowly.); A tubelight in a classroom. (back: Sent back at once. Inside the tube, UV light makes a white powder glow. That is why it is called a fluorescent tube.); The Sun at noon. (back: Hot. The Sun's surface is extremely hot, and the heat makes the light.)
 - **Printable tokens: 5 kind-of-light tokens to cut out for each player:** Hot; Made by chemistry; Sent back at once; Stored; Only bounced
 - **s1 (4 min) · grown-up needed**  
-  *Parent does:* Cut out the 26 cards and the tokens. Make five tokens for each player. Shuffle the cards. Read the five kinds of light aloud, with one example each: candle, firefly, highlighter under UV, glow star, Moon.  
+  *Parent does:* Cut out the 26 cards and the tokens. Make five tokens for each player, one for each kind of light. Shuffle the cards. Read the five kinds of light aloud, with one example each: candle, firefly, highlighter under UV, glow star, Moon.  
   *Parent says:* There are five ways a thing can shine. It can be hot, like a candle. It can make light by chemistry, like a firefly. It can send light back at once in a new colour. It can store light and let it out slowly. Or it can only bounce light, like the Moon.  
   *Child mode:* Cut out the cards and tokens. There are five kinds of light. Say each kind aloud.
   - Note: A UV torch is not needed for this game. If you have one, show a highlighter line under it, and then switch the torch off, to show the glow stops at once.
@@ -329,9 +329,9 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   *Child mode:* Read three cards together. Pick a kind for each. Say why.
   - Check: The Moon looks bright at night. Which kind of light is the Moon? → **Only bounced, because the Moon sends back sunlight**
 - **s3 (8 min)**  
-  *Parent does:* Play the game as the rules say. Keep a pile of the cards you got wrong, to look at again at the end.  
+  *Parent does:* Play the game. The reader reads the front of a card. Everyone puts down the token for the kind they think it is, face down. Turn them over together, then read the back. Keep a pile of the cards you got wrong, to look at again at the end.  
   *Parent says:* Reader, read the front. Everyone, lay a token face down. Turn them over together. Now the reader reads the back. Who has it? Who can say why?  
-  *Child mode:* Read a card. Lay a token. Turn it over. Check the back.
+  *Child mode:* Read a card. Lay the token for the kind you think it is. Turn it over. Check the back.
   - Ask: A glow-in-the-dark star and a highlighter under a UV torch both seem to glow in the dark. How can you tell them apart? (good: Switch off the light. The highlighter stops at once, and the star fades slowly.; The star keeps glowing after the light goes off.; The highlighter needs the UV torch on all the time.)
   - Note: The two kinds that are easy to mix up are 'sent back at once' and 'stored'. The test is to switch the light off. A thing that sends light back stops glowing the moment the light stops. A thing that stores light keeps glowing for a while.
 - **s4 (4 min)**  
@@ -346,12 +346,12 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **predict:** Before you start, guess. After 20 minutes in the dark, will you see the glow through more sheets, fewer sheets or the same number as at the start? Why do you think so?
 - **fair test:** Use the same glow stick, the same 12 half-sheets of paper, the same table and the same seat every time. Remove the sheets in the same way each time, one at a time from the top. Look from the same distance, about 30 centimetres. Only the time you have spent in the dark changes. Use no torch and no phone screen in the dark, because any light would spoil the test.
 - **safety:** Stay in the room with your child the whole time. Clear the floor so that nobody trips in the dark. Never cut or bite a glow stick. If one leaks, wash hands and keep it away from eyes. If your child is frightened of the dark, sit close and talk, or stop and try again another day.
-- **record:** Write the number of sheets left on top at each time: 1 minute, 5 minutes, 10 minutes and 20 minutes. Then draw a line graph of your four numbers.
+- **record:** Write the number of sheets left on top at each time: 1 minute, 5 minutes, 10 minutes and 20 minutes. Then draw a line graph of your four numbers, or just say whether the numbers went up or down.
 - **results table:** Minutes in the dark | Sheets left on top when I first saw the glow | Anything else I noticed
 - **s1 (4 min)**  
   *Parent does:* Show your child the glow stick and the stack of paper. Say that the stick will be hidden under 12 sheets. Ask for a guess and a reason. Write it down.  
   *Parent says:* This glow stick will lie under twelve sheets of paper. Each sheet hides some of the light. We will sit in a dark room and see how many sheets we can see the glow through. After twenty minutes, will we see it through more sheets, fewer sheets or the same? Why do you think so?  
-  *Child mode:* A glow stick is hidden under 12 sheets of paper. You will wait 20 minutes in the dark. Will you see the glow through more sheets or fewer? Why?
+  *Child mode:* A glow stick is hidden under 12 sheets of paper. You will sit in the dark for 20 minutes. Will you see the glow through more sheets or fewer?
   - Ask: Why do you think the number of sheets might change, or stay the same? (good: My eyes will get used to the dark.; The glow stick will get dimmer.; It will be the same, because the light does not change.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Expect to hear that the glow stick will fade. A glow stick does fade over hours, but over 20 minutes it hardly changes, and that is part of why this is a fair test of eyes.
 - **s2 (5 min) · grown-up needed**  
@@ -387,7 +387,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   - Note: If your child still sees the glow through all 12 sheets, write 12 or more, and next time use 20 sheets. If the numbers stay the same, write that down. It is still a real result. Dim glow sticks and very dark rooms give smaller numbers. Do not worry if your numbers are different from the example.
   - Check: At 20 minutes, your child sees the glow with 9 sheets left. The glow stick has hardly changed. What does the change in numbers show? → **Their eyes became able to catch fainter light**
 - **s8 (4 min)**  
-  *Parent does:* Ask your child three things: what they think now, what they saw in their numbers that shows it, and why they think it happened. Draw a line graph of the four numbers, with minutes along the bottom and sheets up the side.  
+  *Parent does:* Ask your child three things: what they think now, what they saw in their numbers that shows it, and why they think it happened. Write the four numbers in a row and look at how they change. You can also draw a line graph, with minutes along the bottom and sheets up the side.  
   *Parent says:* Let's put it together. First, what do you think now? Second, what did you see in your numbers that shows it? Third, why do you think it happened?  
   *Child mode:* Tell me three things. What do you think now? What did you see in your numbers? Why did it happen?
   - Note: A good answer. What I think: eyes can see fainter and fainter light the longer they are in the dark. What I saw: at 1 minute I saw the glow through a few sheets, and at 20 minutes through more. Why: the light and the stack did not change, so my eyes must have. After bright light, the rod cells need time to build back their light-catching chemical. Do not give this explanation first. Ask for the child's own idea, and then add this.
@@ -397,12 +397,12 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **predict:** Before you start, guess. Which glass will have the most foam? Which will have the least? Why do you think so?
 - **fair test:** Every glass gets 3 cubes of potato of the same size, 1 centimetre on each side, the same amount of hydrogen peroxide and one drop of dish-wash liquid. You pour all the glasses at the same time and measure after the same 2 minutes. Only the potato changes: raw, boiled or cold. A fourth glass with no potato at all shows what the peroxide does alone.
 - **safety:** A grown-up does the cutting, the boiling and the pouring of the peroxide. Hydrogen peroxide is a mild chemical. Keep it off skin and out of eyes, never drink it, wash your hands afterwards and keep the bottle away from small children. If it touches skin or eyes, rinse with plenty of water. Wear old clothes, because it can bleach cloth. Do the test on a tray. Do not eat any of the potato cubes afterwards.
-- **record:** Fill in the table. Draw each glass after 2 minutes, with the foam. Draw a bar chart of the foam heights.
+- **record:** Fill in the table. Take a photo of the glasses after 2 minutes. Draw a bar chart of the foam heights, or line up the glasses from most foam to least.
 - **results table:** Glass | What is in it | Foam height after 2 minutes (centimetres) | What I saw
 - **s1 (4 min)**  
   *Parent does:* Show your child the potato, the peroxide and the four glasses. Say what will go into each glass. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* We will drop potato cubes into hydrogen peroxide. Glass A gets raw potato. Glass B gets boiled potato. Glass C gets raw potato that was very cold. Glass D gets no potato. Which glass will have the most foam? Why do you think so?  
-  *Child mode:* There are four glasses: raw potato, boiled potato, cold potato and no potato. Which makes the most foam? Why?
+  *Child mode:* There are four glasses: raw potato, boiled potato, cold potato and no potato. Which makes the most foam?
   - Ask: Why do you think boiling might change what a potato does? (good: Boiling cooks it, and cooked things are different.; Boiling kills it.; The heat might break something inside.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Do not say yet what the potato holds.
 - **s2 (12 min) · grown-up needed**  
@@ -423,12 +423,12 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   - Note: Expected: glass A foams strongly and fastest. Glass B has little or no foam. Glass C foams more slowly than A. Glass D has no foam. If A does not foam at all, the peroxide may be old: buy a new bottle. If B still foams a little, the middle of the cube did not get hot enough. That is a real result, so write it down. If the foam climbs out of the glass, stop the test, wipe up, and write 'over the top'. Cold cubes warm up fast in the liquid, so the difference between glass A and glass C may be small by 2 minutes. If so, also look at the foam after 30 seconds.
   - Check: The foam in glass A is made of tiny bubbles of a gas. Which gas is it? → **Oxygen**
 - **s5 (3 min)**  
-  *Parent does:* Look at the glasses again at 5 minutes. Draw each glass with its foam. Ask your child to compare the glasses.  
+  *Parent does:* Look at the glasses again at 5 minutes. Ask your child to compare the glasses. Take a photo of the four glasses in a row.  
   *Parent says:* Look at the four glasses now. What is the same? What is different? Which cubes still seem to be working?  
-  *Child mode:* Look again at the glasses. Draw what you see.
+  *Child mode:* Look again at the glasses. Point to the ones still making bubbles.
   - Note: The cold cubes in glass C may start fizzing faster as they warm. That is a good thing to talk about, because it shows that cold slows the helper but does not break it.
 - **s6 (4 min)**  
-  *Parent does:* Ask your child three things: what they think now, what they saw that shows it, and why they think it happened. Draw a bar chart of the foam heights.  
+  *Parent does:* Ask your child three things: what they think now, what they saw that shows it, and why they think it happened. Draw a bar chart of the foam heights, or line up the four glasses from most foam to least.  
   *Parent says:* Let's put it together. First, what do you think now? Second, what did you see that shows it? Third, why do you think it happened?  
   *Child mode:* Tell me three things. What do you think? What did you see? Why did it happen?
   - Note: A good answer. What I think: raw potato makes peroxide fizz, and heat stops it. What I saw: raw foamed the most, boiled hardly at all, cold a medium amount, and no potato did nothing. Why: raw potato holds a helper chemical, an enzyme. Heat bends the enzyme out of shape so it cannot help. Cold only slows it. In the 1880s, Raphael Dubois found that heat also stopped the helper in a glowing beetle but left the fuel unharmed. Give this last part only after your child has given their own ideas.
@@ -438,18 +438,18 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **predict:** Before you start, guess. Which things on the table will glow? Which will keep glowing after the torch goes off? Why do you think so?
 - **fair test:** Test every thing in the same dark room with the same UV torch held at the same distance, about 10 centimetres, for the same count of five. Then switch the torch off and watch for another count of five. Only the thing you test changes.
 - **safety:** UV light can harm eyes. A grown-up holds the torch. Never shine it at anyone's eyes, including your own or a pet's, and never at a mirror. Keep it pointing down at the table, and do not look into the beam. Do not shine the torch on bare skin for long. Small button batteries are dangerous if swallowed, so keep them away from children under five. Do not drink the tonic water after it has been in a test.
-- **record:** Fill in the table. Draw the thing that glowed the brightest, with its colour.
+- **record:** Fill in the table. Write which thing glowed the brightest, and what colour it was.
 - **results table:** Thing | Did it glow under the UV torch? | What colour? | Did it keep glowing after the torch went off?
 - **s1 (4 min)**  
   *Parent does:* Lay out the nine things on a table. Show your child the UV torch, but do not switch it on yet. Ask for a guess for each thing and a reason. Write the guesses in the table.  
   *Parent says:* This torch makes a light your eyes cannot see. It is called ultraviolet. We will shine it on each thing. Which will glow? Which will keep glowing when we switch the torch off? Why do you think so?  
-  *Child mode:* There are nine things on the table, and a UV torch. Which will glow? Which will keep glowing after the torch goes off? Why?
+  *Child mode:* There are nine things on the table, and a UV torch. Which will glow? Which will keep glowing after the torch goes off?
   - Ask: Why do you think a light we cannot see might make some things glow? (good: The light gives them energy.; Some things change the light into another colour.; I do not know, but it might make the paint glow.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Do not switch on the torch yet.
 - **s2 (5 min) · grown-up needed**  
-  *Parent does:* Draw a line of yellow highlighter and a line of blue pen on a plain sheet of paper. Darken the room. A grown-up holds the torch pointing down. Shine it on the white paper first.  
+  *Parent does:* Make a line with the yellow highlighter and a line with the blue pen on a plain sheet of paper. Darken the room. A grown-up holds the torch pointing down. Shine it on the white paper first.  
   *Parent says:* We switch off the room light. I will hold the torch. Look at the paper. Does it glow? What colour? Next we will test the other things.  
-  *Child mode:* Draw 2 lines on paper. Darken the room. Look at the paper under the UV torch.
+  *Child mode:* Make 2 lines on paper, one with the highlighter and one with the pen. Darken the room. Look at the paper under the UV torch.
   - Note: Do not worry if the torch itself looks violet. That is only a little visible light that the torch gives out. Most white paper has a chemical that glows blue-white under UV, but some paper does not. Write down what yours does.
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* Test each thing in turn for a count of five. Do the highlighter line, the blue pen line, the newspaper and the washed cloth first. Then do the unwashed cloth, the leaf, the plain water, the tonic water and the glow-in-the-dark star. Write what you see in the table.  
@@ -473,7 +473,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 ## Activities
 ### a1 · The Little Black Windows: watch your pupils change (12 min)
 - **safety:** Never shine a torch into anyone's eyes. This activity needs only a bright room and your own hands.
-- **record:** Draw one eye twice: the pupil just after the hands are taken away, and the pupil two seconds later. Write whether it grew or shrank.
+- **record:** Write whether the pupil grew or shrank just after the hands were taken away. You can also draw one eye twice, big and small.
 - **s1 (3 min)**  
   *Parent does:* Sit facing your child in a bright room. Look at their eyes. Find the black circle in the middle. Ask them to look at yours. Ask for a guess.  
   *Parent says:* Look at my eye. The black circle in the middle is the pupil. It is a hole that lets light into the eye. Now, if I cover my eyes with my hands for a while, what do you think will happen to my pupils? Why do you think so?  
@@ -487,9 +487,9 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   - Note: Expected: just after the hands move, the pupils are wide, and within about two seconds they shrink. It can be quick, so repeat the test two or three times. Keep the room just as bright each time.
   - Check: When hands are taken away from the eyes in a bright room, what happens to the pupils? → **They start wide and then get smaller**
 - **s3 (3 min)**  
-  *Parent does:* Swap roles. Now you cover your eyes, and your child watches your pupils. Then draw one eye twice: the pupil just after the hands moved, and the pupil two seconds later.  
-  *Parent says:* Now it is my turn. I will cover my eyes. You watch my pupils when I take my hands away. Then draw one eye twice, once big and once small.  
-  *Child mode:* Swap. Watch your partner's pupils. Draw one eye twice.
+  *Parent does:* Swap roles. Now you cover your eyes, and your child watches your pupils. Then ask your child to show with their hands what your pupils did: hands wide for big, hands close together for small.  
+  *Parent says:* Now it is my turn. I will cover my eyes. You watch my pupils when I take my hands away. Then show me with your hands what my pupils did. Hands wide for big, hands close together for small.  
+  *Child mode:* Swap. Watch your partner's pupils. Show with your hands what they did.
 - **s4 (2 min)**  
   *Parent does:* Ask your child three things: what they think now, what they saw, and why they think pupils change. Then mention that cat pupils are slits and an octopus has a rectangular pupil.  
   *Parent says:* What do you think now? What did you see? Why do you think pupils change? A cat's pupil is a thin slit by day and a big circle at night. Why might that help a cat?  
@@ -502,7 +502,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **s1 (3 min)**  
   *Parent does:* Sit in the dark room with your child for at least 15 minutes first. Or do this straight after the Eyes in the Dark test. Stick a small piece of tape on the table 10 centimetres to the left of the stack. Ask for a guess.  
   *Parent says:* We will look for a glow in two ways. First, we look straight at the middle of the stack. Second, we look at the tape, and use the corner of our eye. Which do you think will let you see the glow through more sheets? Why do you think so?  
-  *Child mode:* Look straight at the stack, then at the tape beside it. Which shows the glow better? Why?
+  *Child mode:* Look straight at the stack, then at the tape beside it. Which shows the glow better?
   - Ask: Why do you think looking at one place might be better than another? (good: Looking straight is better because you point your eye at it.; The corner of my eye might see better in the dark.; Maybe there is no difference.)
   - Note: Do not correct the guess. Many people expect that looking straight at a thing is best. In dim light, it is often the opposite.
 - **s2 (4 min)**  
@@ -527,7 +527,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **s1 (4 min)**  
   *Parent does:* Show your child the glass, the jug and the coloured signal water. Explain that each spoonful is the signal from one bacterium. Ask for a guess: how many spoonfuls will the jug need compared with the glass?  
   *Parent says:* Each spoonful of coloured water is the signal that one bacterium makes. The glass is like a squid's tiny light organ. The jug is like the open sea. When the water looks coloured, the bacteria know the crowd is big enough. How many spoonfuls will the glass need? And the jug? Why do you think so?  
-  *Child mode:* A spoonful of coloured water is one bacterium's signal. How many spoonfuls will the glass need? How many will the jug need? Why?
+  *Child mode:* A spoonful of coloured water is one bacterium's signal. How many spoonfuls will the glass need? How many will the jug need?
   - Ask: Why do you think the jug will need more or fewer spoonfuls than the glass? (good: The jug is bigger, so the colour spreads out more.; It will need the same, because it is the same colour.; The jug will need a lot more.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (4 min)**  
@@ -556,7 +556,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **s1 (4 min)**  
   *Parent does:* Number the squares on the back and mix up their order. Lay them in a row on a tray, 1 metre from where your child will sit. Ask for a guess: will they be able to name the colours in a very dim light?  
   *Parent says:* Here are six paper squares of different colours. Soon we will put out the lights and make a very dim light. Do you think you will be able to name every colour? Why do you think so?  
-  *Child mode:* There are six coloured squares. In very dim light, can you name every colour? Why?
+  *Child mode:* There are six coloured squares. In very dim light, can you name every colour?
   - Ask: Why might colours look different in very dim light? (good: There is not enough light to see the colour.; Colours look grey at night.; I will see all colours as usual.)
   - Note: Do not correct the guess. Make sure your child does not see the order of the squares before the test.
 - **s2 (4 min) · grown-up needed**  
@@ -579,7 +579,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 ## Projects
 ### p1 · How Dark Is Our Sky? A star count in three conditions (65 min, 3 days)
 - **safety:** Go outside only with a grown-up. Stay on the balcony, terrace or a safe open space. Keep the red torch dim and never point it at anyone's eyes.
-- **record:** Each night write the date, the time, the place, the weather and the number of stars. On night 3, draw a bar chart.
+- **record:** Each night write the date, the time, the place, the weather and the number of stars. After night 3, draw a bar chart of the three counts, or list them from most to fewest.
 - **schedule:** day 1: Make the card window. Go out with all the lights on. Count the stars straight overhead straight away, without waiting. Write the number. (20 min); day 2: Switch off the lights near you. Wait 20 minutes in the dark. Count the stars again. Write the number. (25 min); day 3: Count again from a darker place, or very late at night when more lights are off. Make a bar chart of the three counts and write a short report. (20 min)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* A grown-up cuts a 15 centimetre square window in the card. Tie a 60 centimetre string to one corner. Ask your child to guess how many stars they will count in the window on the three nights, and why.  
@@ -605,9 +605,9 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
   - Note: A dark place may be a relative's village, a hill or a field outside the city. If you cannot get to one, choose the darkest hour you can, with the fewest lights on. Write what you did.
   - Wait: Do this on the third night
 - **s5 (8 min)**  
-  *Parent does:* Draw a bar chart with three bars. Write a short report: where, when, what you counted and what you think.  
-  *Parent says:* Let's draw a bar for each night. Which night had the most stars? What was different on that night? Now write a short report. What do you think, what did you count, and why?  
-  *Child mode:* Draw 3 bars. Which night had the most stars? Why? Write a short report.
+  *Parent does:* Draw a bar chart with three bars, or write the three counts from most to fewest. Then write a short report, or say it aloud while a grown-up writes: where, when, what you counted and what you think.  
+  *Parent says:* Let's show the three counts. Which night had the most stars? What was different on that night? Now write a short report. What do you think, what did you count, and why?  
+  *Child mode:* Show your 3 counts as bars, or list them from most to fewest. Then give a short report.
   - Note: A good report. Light from lamps and buildings makes the sky glow, so faint stars cannot be seen. In a village far from lights, hundreds of stars can be seen. Many astronomers around the world use star counts like this one to measure light pollution.
   - Think: Where would you go in your state to see the most stars, and who could tell you?
 
@@ -621,7 +621,7 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Explain the trickster fireflies. Ask for ideas on what a trickster could copy easily and what would be hard to copy.  
   *Parent says:* Some female fireflies copy the answer flash of another kind of firefly, and then catch the males who come. Our trickster is a person who watches and copies. What is easy to copy about a flash? What is hard?  
-  *Child mode:* A trickster watches your flashes. What is easy to copy? What is hard to copy?
+  *Child mode:* A trickster watches your flashes and tries to copy them. What could a trickster copy easily?
   - Ask: What part of a flash code would be hardest to copy? (good: A secret that is not in the flash.; The exact time between flashes.; A change that happens every time.)
 - **s2 (8 min)**  
   *Parent does:* Your child and a friend, or your child and you, design a code and write it down. They decide the flashes, the wait before the reply, and what the reply is.  
@@ -646,13 +646,13 @@ In the morning, the rocks were plain and black, and the sea was only grey. Mythi
 - **creative:** A rule where you move your marker forward by 2 boxes whenever you see a flash, but never flash early. Test whether this works.; A very shy rule: join only if your marker is one box from your own flash number. Test whether this works.; A rule that joins a flash only when two or more fireflies flash together, as if the louder the crowd, the more you listen.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Recall the listen rule from the Flash Together game, and how many ticks the group took to line up. Ask your child to guess how to make a rule that is faster.  
-  *Parent says:* In the game, we lined up after about a dozen ticks. Can you make a rule that is faster? Can you make one that fails? Think of a rule, and write it in one sentence.  
+  *Parent says:* In the game, we counted the ticks until we lined up. Can you make a rule that is faster? Can you make one that fails? Think of a rule, and write it in one sentence.  
   *Child mode:* Think of a new rule. Could it be faster than the game rule? Write it in one sentence.
   - Ask: What would make a group line up faster? (good: Joining a flash sooner.; Joining every flash I see.; Moving closer to the flash.)
 - **s2 (10 min)**  
   *Parent does:* Choose three rules to test: the game rule, your child's own rule and one more rule. Write each in one sentence. Fix the cards and start numbers, so each rule is tested the same way.  
-  *Parent says:* We test three rules. The game rule, your rule, and one more. We use the same cards and the same start numbers for each. Why is that important?  
-  *Child mode:* Pick 3 rules. Use the same cards and start numbers for each. Why is that fair?
+  *Parent says:* We test three rules. The game rule, your rule, and one more. We use the same cards and the same start numbers for each.  
+  *Child mode:* Pick 3 rules. Use the same cards and start numbers for each.
   - Check: Why must every rule be tested with the same cards and start numbers? → **So only the rule changes, and the result comes from the rule**
 - **s3 (10 min)**  
   *Parent does:* Test each rule three times. For each round, count the ticks until everyone flashes together twice in a row, or stop at 40. Write each result in a table.  

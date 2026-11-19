@@ -518,8 +518,8 @@
     }
    ],
    "safety": "Every tester gets their own new buds and never shares a bud. Everything in the cups is ordinary food in tiny amounts. Do not test anyone who is allergic to lemon, karela or methi. A grown-up grates the karela. Use only drops of karela juice, and use a new bud for every touch. Never put a used bud back in a cup, and do not let the child bite the bud. Touch the back of the tongue gently, and stop at once if the child coughs or gags.",
-   "record": "Write the taste that was said and the strength from 0 to 3 for every touch. Then colour a drawing of the tongue to show where each taste was named correctly.",
-   "context": "In this experiment, you test the tongue map from old books. You touch tiny drops of four tastes to different parts of the tongue, with the tester's eyes shut.",
+   "record": "Write the taste that was said and the strength from 0 to 3 for every touch. Then count how many times each taste was named correctly in each zone.",
+   "context": "In this experiment, you test the tongue map from old books. You will find out if each taste really has its own place on the tongue. You touch tiny drops of four tastes to different parts of the tongue, with the tester's eyes shut.",
    "setup": [
     {
      "art": "Five numbered katoris in a row: sugar water, salt water, lemon water, karela water and plain water, with a folded paper key beside them.",
@@ -544,7 +544,7 @@
      "mins": 5,
      "do": "Draw a large tongue on paper. Ask your child to mark where they think sweet, salty, sour and bitter are strongest. Ask why. Write the guess down. Do not correct it.",
      "say": "Here is a tongue. Where do you think sweet is strongest? Where is bitter strongest? Why do you think so?",
-     "kid": "Draw a tongue. Mark where each taste is strongest. Say why you think so.",
+     "kid": "Draw a tongue and mark where each taste is strongest. Or point to the places on your own tongue. Say why you think so.",
      "ask": [
       {
        "q": "Why do you think that taste is strongest there?",
@@ -621,9 +621,9 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "Draw a tongue with four zones. For each taste, put a coloured dot in every zone where it was named correctly. Count the dots. Ask your child to say what they thought, what they saw, and why. Then compare with their first guess.",
+     "do": "Look at your list of 20 touches. For each taste, count how many times it was named correctly in each zone. Ask your child to say what they thought, what they saw, and why. Then compare with their first guess.",
      "say": "Tell me three things. What did you think? What did you find? Why do you think it came out that way?",
-     "kid": "Colour a dot where each taste was named right. Say what you thought, what you found, and why.",
+     "kid": "Count how often each taste was named right in each zone. Say what you thought, what you found, and why.",
      "think": "Look at your first drawing. Which part did the test show to be wrong?",
      "parent": "Most children find that every taste was named correctly in most zones, though some were stronger than others. If nothing is tasted at the back, check that the bud was wet enough, and try again with a bit more liquid on the bud. The tip and the edges are often a little stronger than the middle, because they tend to have more taste buds. The back is often strongest for bitter. These differences are small and vary from person to person. If the dots do not look like that, say so. Messy results are real results. Wet buds, nerves and guessing can all spoil a result. After your child has said what they found, you can explain: taste buds for every taste are spread across the tongue. The old map came from a mistake in the 1940s. The card on the tongue map tells the whole story.",
      "context": "This is the last step of the Blind Taste Test. You mark your results on a tongue and say what they show."
@@ -677,8 +677,8 @@
     }
    ],
    "safety": "A grown-up does all the cooking, because the pan, the boiling water and the steam are hot. A grown-up lifts the bags out with a long spoon. Children stand back from the stove. They press a seed, on a plate or between thumb and finger, only after the seed has cooled for a minute. Do not eat raw sprouts if anyone at home is very young, old or ill. Wash sprouts well and cook them. This test cooks them well, so it is safe to taste at the end. Skip tasting if anyone has a pulse allergy.",
-   "record": "Write the weights, the tail length and the cooking times in the table. Draw the three kinds of seed: dry, soaked and sprouted. Then write what you thought, what you saw and why.",
-   "context": "In this experiment, you wake up moong seeds by soaking and sprouting them. Then you cook all three batches together and time how long each takes to turn soft.",
+   "record": "Write the weights, the tail length and the cooking times in the table. Take a photo of the three kinds of seed, dry, soaked and sprouted, or draw them. Then write what you thought, what you saw and why.",
+   "context": "In this experiment, you wake up moong seeds by soaking and sprouting them. You will find out if this makes moong cook faster. Then you cook all three batches together and time how long each takes to turn soft.",
    "setup": [
     {
      "art": "Three small bowls labelled A dry, B soaked and C sprouted, each with 50 grams of moong, and a kitchen scale on the table.",
@@ -758,9 +758,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "On day 3, look at C. Measure the longest tail with a ruler in millimetres. Weigh A, B and C and write the weights. Count out 12 seeds from each bowl for the cooking test. Put the pan of water on to boil now. Draw one dry, one soaked and one sprouted seed.",
+     "do": "On day 3, look at C. Measure the longest tail with a ruler in millimetres. Weigh A, B and C and write the weights. Count out 12 seeds from each bowl for the cooking test. Put the pan of water on to boil now. Lay one dry, one soaked and one sprouted seed side by side on a plate.",
      "say": "Look closely at the three kinds of seed. What is different? How long is the tail on the sprouted ones?",
-     "kid": "Look at A, B and C. Measure a tail on C. Draw one seed of each kind.",
+     "kid": "Look at A, B and C. Measure a tail on C. Lay one seed of each kind side by side. Tell a grown-up how they differ.",
      "ask": [
       {
        "q": "What is the white tail on the sprouted moong?",
@@ -971,7 +971,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 24 cards with blunt scissors. No printer? Copy the dish names onto 24 paper slips and let the parent read the back from the phone. Draw a feast mat for each player. Shuffle the cards into a pile with the dish names facing up. Give each player a pencil.",
-     "say": "Today we will build a feast. Each dish gives energy, or builds the body, or protects it. Each dish also has tastes. Let us see how many we can fill.",
+     "say": "Today we will build a feast. Each dish gives energy, or builds the body, or protects it. Each dish also has tastes. Let us see how many job boxes and taste circles we can fill.",
      "kid": "Cut out the cards. Draw your feast mat. Shuffle the cards.",
      "parent": "The game works for 1 to 4 players, and 24 cards give each of 4 players 6 cards. Some cards have fish or meat. Take out any card your family does not eat, and count the cards on the mats at the end. The game uses three food jobs. Energy foods are mostly grains, sugar and fats. Body-building foods are pulses, milk, eggs, fish, meat and nuts. Protective foods are vegetables and fruits. Explain these three jobs to your child, and explain the six tastes of shad rasa.",
      "context": "This is the first step of Feast Builder. You make the mat and set up the cards."
@@ -1102,8 +1102,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Lay out the six ingredients, each in a separate spoon, with its name beside it. Ask your child which taste each one will have, and which they think will be the strongest.",
-     "say": "Here are six ingredients. Which taste will each one have? Which do you think is the strongest? Why do you think so?",
-     "kid": "Look at the six spoons. Guess the taste of each one. Which is strongest?",
+     "say": "Here are six ingredients. Which taste will each one have? Which do you think is the strongest?",
+     "kid": "Look at the six spoons. Guess the taste of each one.",
      "ask": [
       {
        "q": "Which ingredient do you think will taste the strongest, and why?",
@@ -1159,8 +1159,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Taste the finished pachadi from the tip, the side and the back of the tongue. Ask your child to say whether any taste is missing, and why a festival might begin with this dish.",
-     "say": "Taste from the tip of your tongue, then the side, then the back. Can you find all six? Why do you think a festival begins with this?",
-     "kid": "Taste the pachadi. Can you find all six? Why start a year with it?",
+     "say": "Taste from the tip of your tongue, then the side, then the back. Can you find all six? Why do you think people eat this at the start of the new year?",
+     "kid": "Taste the pachadi. Can you find all six? Why eat it at the start of the new year?",
      "think": "Many families say the six tastes stand for the different feelings of the year to come. What do you think?",
      "parent": "Tradition says the pachadi reminds us that a year holds joy, sadness, anger and surprise, and that we should take all of it. There is no single right answer. If the pachadi is hard to eat, a few spoonfuls is enough.",
      "context": "In this step, you taste the finished bowl and think about why it is part of a festival."
@@ -1178,7 +1178,7 @@
      "qty": 1
     },
     {
-     "item": "a pencil and coloured pencils",
+     "item": "a pencil, and 20 or more beans, buttons or small stones",
      "qty": 1
     },
     {
@@ -1220,10 +1220,10 @@
     {
      "day": 7,
      "mins": 15,
-     "what": "Mark today's foods. Count each row. Draw a pictograph and say which group goes missing."
+     "what": "Mark today's foods. Count each row. Make a pictograph and say which group goes missing."
     }
    ],
-   "record": "Make a mark for every dish you ate, in its row, each day. At the end, draw a pictograph with one picture standing for 2 marks.",
+   "record": "Make a mark for every dish you ate, in its row, each day. At the end, make a pictograph with one bean, button or stone standing for 2 marks, and take a photo of it.",
    "context": "In this activity, you keep a diary of everything you eat for seven days. You sort it into groups, and find out which group is thin or missing.",
    "setup": [
     {
@@ -1236,7 +1236,7 @@
     },
     {
      "art": "A pictograph with four rows and little pictures, one standing for 2 marks, with the shortest row circled.",
-     "caption": "3. On day 7, count each row and draw the pictograph."
+     "caption": "3. On day 7, count each row and make the pictograph."
     }
    ],
    "flow": [
@@ -1271,9 +1271,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "On day 7, mark today's food. Count the marks in each row. Draw a pictograph with one picture for every 2 marks. Mark the shortest row with a circle.",
+     "do": "On day 7, mark today's food. Count the marks in each row. Make a pictograph on the table. In each row, put one bean, button or stone for every 2 marks. Mark the shortest row with a circle.",
      "say": "Let us count each row. One picture stands for two marks. Which row is longest? Which is shortest?",
-     "kid": "Count each row. Draw one picture for every 2 marks.",
+     "kid": "Count each row. Put one bean for every 2 marks.",
      "ask": [
       {
        "q": "What does your pictograph show? Is any row empty or very short?",
@@ -1295,7 +1295,7 @@
       "a": 0,
       "why": "A short row shows what the week is missing. The answer is to add some of that group in ways the family enjoys. Energy foods are still needed, so there is no reason to stop them."
      },
-     "context": "In this step, you count your marks and draw a pictograph of the week."
+     "context": "In this step, you count your marks and make a pictograph of the week."
     },
     {
      "id": "s4",
@@ -1350,7 +1350,7 @@
      "mins": 8,
      "do": "Draw a wheel of twelve months. Place six foods on it. Pongal sweet goes in January, and til-gul at Makar Sankranti goes in January too. Ugadi pachadi goes in March or April, and Bihu pitha in January (Magh Bihu) or April (Bohag Bihu). Onam sadya goes in August or September, and Diwali sweets in October or November.",
      "say": "Here is a wheel of the year. Let us put six festival foods on it, each in the month where it belongs.",
-     "kid": "Draw a wheel with 12 months. Put six festival foods in their months.",
+     "kid": "Draw a wheel of 12 months, or lay 12 slips in a circle. Put six festival foods on it.",
      "ask": [
       {
        "q": "Which foods are close together on the wheel? Which are far apart?",
@@ -1388,7 +1388,7 @@
      "mins": 9,
      "do": "Ask a grown-up one question: what is made for one festival at home, and why? Write down what they say, and add the dish to your wheel with its food job.",
      "say": "Ask someone: what is made at your home for one festival? Why is that dish made? Write down what they tell you.",
-     "kid": "Ask a grown-up what they cook for a festival, and why. Write it down.",
+     "kid": "Ask a grown-up what they cook for a festival, and why. Write it down, or say it back to them.",
      "think": "Why do people cook special food on special days, and not the same food every day?",
      "parent": "With 2 to 4 children, each child asks a different person and adds their dish to the one shared wheel. Listen to the answer without correcting it. Families often have a reason that goes beyond nutrition: it is what a mother made, it keeps well, or it is shared with neighbours. These reasons are part of the answer. Add a dish from your own family's tradition to the wheel.",
      "context": "In this step, you ask someone about a festival dish from your own family and add it to the wheel."
@@ -1647,7 +1647,7 @@
     "Add a sesame-and-jaggery sweet if nobody has an allergy to sesame, or a fruit sweet if anyone does. Ask the guests first."
    ],
    "your_turn": "Plan your own meal for the five guests. Write the dishes, say which guest each one suits, and show on your mat that the jobs and tastes are covered. Then ask a grown-up what they would change.",
-   "context": "This is a design challenge about balanced food for different people. You plan one meal that every guest can eat well.",
+   "context": "This is a design challenge about balanced food for different people. You will find out how one meal can work for guests who need very different things. You plan one meal that every guest can eat well.",
    "setup": [
     {
      "art": "Five guests sitting at a table, each with a small label: vegetarian grandmother, toddler, friend with a nut allergy, friend who eats no onion or garlic, and a runner.",
@@ -1704,9 +1704,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Colour the six taste circles for the whole menu. If any is missing, change a dish or add a small one. Write the final menu with a note on each dish.",
+     "do": "Put a coin or button on each of the six taste circles that the menu covers. If any is missing, change a dish or add a small one. Write the final menu with a note on each dish.",
      "say": "Which tastes are on the menu now? Which are missing? What small dish could fill the gap?",
-     "kid": "Colour the taste circles. Add a small dish for any missing taste.",
+     "kid": "Put a coin on each taste circle your menu has. Add a small dish for any missing taste.",
      "context": "In this step, you check all six tastes and fix any gaps."
     },
     {
@@ -2507,7 +2507,7 @@
    "explain": "2 pictures of 2 servings each is 4 servings of protective food. Energy has 7 pictures of 2, which is 14 servings. 14 take away 4 is 10 more servings of energy food.",
    "math_unit": "math.data.pictographs.L4",
    "how": "a2",
-   "context": "In the Seven-Day Food Diary, you draw a pictograph of your week. One picture stands for 2 servings.",
+   "context": "In the Seven-Day Food Diary, you make a pictograph of your week. One picture stands for 2 servings.",
    "why_maths": "A pictograph shows at a glance which group is long and which is short, and you multiply by what one picture stands for to find the real number."
   },
   {

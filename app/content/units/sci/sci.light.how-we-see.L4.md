@@ -294,12 +294,12 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 - **predict:** Before you start, guess. What will happen to the spot of light on the wall when the middle card is moved a little? Can light bend round the edge of a hole? Why do you think so?
 - **fair test:** Use the same three cards, the same torch and the same wall. Keep the torch at the same place and pointing the same way each time. Change only one thing: how far the middle card is moved sideways. Use the ruler to measure each shift, and look at the spot for a few seconds each time.
 - **safety:** A grown-up makes the holes, because a hole punch or a pencil point can slip. Never look at the Sun through the holes or the straws.
-- **record:** Fill in the table. Draw the three cards in a row with the torch and the spot of light. Draw them again with the middle card moved, and draw where the light stops.
+- **record:** Fill in the table. Take a photo of the spot with the three cards in a row, and another with the middle card moved. Or draw what happened.
 - **results table:** How far the middle card is moved sideways (mm) | Spot of light on the wall (bright, dim or none) | Looking through a straw bent at the elbow: can I see the lamp? (yes or no)
 - **s1 (3 min)**  
   *Parent does:* Show your child the cards, the torch and the clay. Ask for a guess and a reason. Write the guess at the top of the table.  
   *Parent says:* We will shine a torch through three cards with holes. Then we will slide the middle card a little to the side. What will happen to the light on the wall? Why do you think so?  
-  *Child mode:* A torch will shine through three holes. You will slide the middle card sideways. What will happen to the light? Why?
+  *Child mode:* Look at the cards and the torch. Guess what the light will do, and say why.
   - Ask: What do you think will happen to the spot when the middle card is moved a little? (good: It will still be there, because light bends round the edge of the hole.; It will vanish, because light goes in a straight line.; It will get dimmer.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Some children think light will curve round the hole, as sound does round a corner. That is a good idea to test.
 - **s2 (6 min) · grown-up needed**  
@@ -334,12 +334,12 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 - **predict:** Before you start, guess. When you swap eyes, will a pencil held close jump more or less than a pencil held far? Will it be easier or harder to touch two pencil tips together with one eye closed? Why do you think so?
 - **fair test:** Sit on the same chair, at the same distance from the strip on the wall. Hold the pencil still with your elbow on a table or against your side. Change only one thing at a time: first the distance of the pencil from your eyes, and then whether one eye or two eyes are open. Do each measurement twice, and use the middle of the two numbers if they differ.
 - **safety:** Use blunt pencils and keep the tips well away from faces and eyes. Move the pencils slowly, and keep the nearest pencil at least a hand-span from the nose. A grown-up stays close by.
-- **record:** Fill in the table. Count the pencil tips that touched with both eyes and with one eye, and draw a bar chart with one bar for each. Write how many centimetres the jump changed as the pencil got nearer.
+- **record:** Fill in the table. Count the pencil tips that touched with both eyes and with one eye. Build a tower of coins for each, one coin for each touch, and compare the two towers. Write how many centimetres the jump changed as the pencil got nearer.
 - **results table:** Pencil held this far from my eyes | Number on the strip with only my left eye open | Number with only my right eye open | The jump (the difference, in centimetres)
 - **s1 (3 min)**  
   *Parent does:* Show your child the strip, the pencils and the chair. Ask for a guess and a reason for each question. Write the guesses at the top of the table.  
   *Parent says:* We will hold a pencil in front of a strip on the wall and swap eyes. Does a close pencil jump more or less than a far pencil? And is it harder to touch two pencils with one eye? Why do you think so?  
-  *Child mode:* You will swap eyes while holding a pencil in front of a wall. Does a close pencil jump more or less than a far one? Why do you think so?
+  *Child mode:* Look at the strip and the pencils. Guess which jumps more, and say why.
   - Ask: What do you think will happen to the pencil when you swap eyes? (good: It will stay in the same place.; It will jump sideways.; A close pencil will jump more.)
   - Ask: Why do you think touching the tips might be harder with one eye? (good: With one eye, I cannot tell how far away the tips are.; Two eyes give a better view.; I think it will be the same.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write what they say.
@@ -370,12 +370,12 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 - **predict:** Before you start, guess. If you hold a magnifying glass between a bright window and a white card, what will you see on the card? Will it be the right way up or upside down? Why do you think so?
 - **fair test:** Use the same lens, the same card and the same dim room each time. Keep the lens pointing at the bright thing. Change only one thing: how far the bright thing is from the lens. Measure from the lens to the card when the picture is sharpest. Measure twice.
 - **safety:** Never point the lens at the Sun. A lens can focus sunlight into a tiny hot spot that can burn skin, damage eyes and set paper alight. Use a window that does not show the Sun, or a lamp.
-- **record:** Fill in the table. Draw the picture of the window that you saw on the card, and mark which way up it is.
+- **record:** Fill in the table. Take a photo of the picture on the card, or draw it. Write whether it was the right way up or upside down.
 - **results table:** The bright thing | How far it is from the lens | How far the card is from the lens when the picture is sharp | Upside down or right way up?
 - **s1 (4 min)**  
   *Parent does:* Show your child the lens, the card and the window. Ask for a guess and a reason. Write the guess at the top of the table.  
   *Parent says:* We will hold a magnifying glass between a bright window and a white card. What do you think we will see on the card? Will it be upside down? Why do you think so?  
-  *Child mode:* You will hold a lens between a window and a card. What will you see on the card? Why do you think so?
+  *Child mode:* Look at the lens and the card. Guess what the card will show, and say why.
   - Ask: Which way up do you think the picture will be? (good: The right way up, like the window.; Upside down.; I do not know, so we will see.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Remind your child about the safety rule: never point the lens at the Sun.
 - **s2 (6 min) · grown-up needed**  
@@ -397,8 +397,8 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
   - Check: The bright phone screen was nearer to the lens. The card had to be a little further from the lens for a sharp picture. What does this show? → **A lens needs the card in a different place for near things and far things**
 - **s5 (3 min)**  
   *Parent does:* Ask your child: your retina cannot move back and forth like the card. What must change in your eye when you look from a far window to a near book?  
-  *Parent says:* The card had to move for near and far things. Your retina cannot move. So what must change in your eye when you look from a far window to a near book?  
-  *Child mode:* The card had to move. Your retina cannot move. So what changes in your eye?
+  *Parent says:* The card had to move for near and far things. The retina is the screen at the back of your eye, like the card, and it cannot move. So what must change in your eye when you look from a far window to a near book?  
+  *Child mode:* Think about the card and your eye. Say what you think changes.
   - Note: A good answer: the lens in the eye changes shape. It gets thicker for near things, which bends the rays more, and thinner for far things. This is called focusing.
   - Think: The lens in your eye can change shape. Which shape do you think it takes for a near book?
 - **s6 (2 min)**  
@@ -409,11 +409,11 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 
 ## Activities
 ### a1 · Hole in Your Hand: two eyes, two pictures (12 min)
-- **record:** Draw your hand with the hole in it. Write which eye you found to be your leading eye, and which eyes your family members favour.
+- **record:** Tell your grown-up what the hole looked like, or draw it. Write which eye you found to be your leading eye, and which eyes your family members favour.
 - **s1 (3 min)**  
   *Parent does:* Roll the paper into a tube about 3 centimetres wide and tape it. Ask your child to guess what they will see. They look through the tube with one eye, and at their hand with the other.  
   *Parent says:* Here is a paper tube. Look through it with one eye. Keep the other eye on your hand beside it. What do you think you will see?  
-  *Child mode:* Look through the tube with one eye. Keep the other eye on your hand. What will you see?
+  *Child mode:* Look at the tube and your hand. Guess what you will see.
   - Ask: What do you think you will see on your hand? (good: Nothing special.; A round spot.; A hole.)
   - Note: Do not correct the guess. Any guess is fine. It is a surprise for most children.
 - **s2 (5 min)**  
@@ -429,11 +429,11 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
   - Note: Most people favour the right eye, but many favour the left. The leading eye is the one the brain uses when the two pictures disagree. It does not mean that the other eye is weaker.
   - Think: Most people favour one eye, as they favour one hand. Who in your family favours the left eye?
 ### a2 · How Wide Can You See? The clock-face test (20 min)
-- **record:** Fill in the table. Draw a top-down picture of a head with two wedges showing how wide you could see movement, and how wide you could name the colour.
+- **record:** Fill in the table. Say which came first on each side, movement or colour, and at which paper number. Or draw a head from above with two wedges, one for movement and one for colour.
 - **s1 (4 min)**  
   *Parent does:* Show your child the clock face on the floor. Ask them to guess where on the clock they will first notice the pen moving. Ask where they will first be able to name its colour.  
   *Parent says:* You will sit in the middle and stare straight ahead at the sticker. I will move a red pen in from behind you. Where on the clock will you first notice it? Where will you first know that it is red?  
-  *Child mode:* Stare at the sticker. A pen comes in from behind. Where will you notice it? Where will you know it is red?
+  *Child mode:* Look at the clock face. Where will you notice the pen? Where will you know it is red?
   - Ask: Will you notice the pen moving before you can say its colour, or after? (good: Before, because movement is easy to see.; After, because I need to see it to know it moves.; At the same time.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (5 min)**  
@@ -454,11 +454,11 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
   - Note: Left and right usually give similar results. A person with glasses should wear them for the test. Draw the two wedges on a top-down picture of a head, one for movement and one for colour.
   - Think: You can see a lot without turning your head, but you see colour well only in a smaller part of it. How much of the world do you really see in colour at one time?
 ### a3 · Near Point: how close can you focus? (15 min)
-- **record:** Fill in the table with each person's age and near point. Draw a bar chart with one bar for each person.
+- **record:** Fill in the table with each person's age and near point. Then put the people in order, from the closest near point to the furthest.
 - **s1 (3 min)**  
   *Parent does:* Show your child the card. Ask them to guess who in the family can read the card closest to their eyes. Ask who will need it furthest away. Write the guesses.  
   *Parent says:* We will bring a card with small writing closer to the eye until the words turn blurry. Who in our family do you think will manage the closest? Who the furthest? Why do you think so?  
-  *Child mode:* Bring the writing close until it blurs. Who in our family can go closest? Why?
+  *Child mode:* Think about your family. Guess who can go closest, and why.
   - Ask: Who do you think will have the closest near point, and why? (good: The child, because her eyes are young.; The grandparent, because she has seen so much.; Everyone is the same.)
   - Note: Do not correct the guess. Any guess with a reason is good. Remember to ask the person to take off reading glasses for the test. Hold the card steady and keep its sharp corners away from the eye. If someone cannot read even at arm's length, write 'more than arm's length'. If you have two to four children, they can work in pairs. One tests, the other measures and writes, and then they swap. If you have one child, a parent measures.
 - **s2 (5 min)**  
@@ -473,17 +473,17 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
   *Child mode:* Test two other people. Write their ages and near points.
   - Note: Typical near points: a child, 7 to 12 centimetres. An adult in the forties, 15 to 30 centimetres. A person over 60, 40 to 100 centimetres or more. People vary a lot. If someone cannot read even at arm's length, they may need reading glasses and an eye test. That is normal with age.
 - **s4 (2 min)**  
-  *Parent does:* Look at the table or bar chart. Ask your child what pattern they see. Ask why the lens might be less able to get thick as people get older.  
+  *Parent does:* Look at the table. Ask your child what pattern they see. Ask why the lens might be less able to get thick as people get older.  
   *Parent says:* Look at the numbers. Who had the closest near point? Who the furthest? What pattern do you see?  
   *Child mode:* Look at the numbers. What pattern do you see?
   - Note: A good answer: older people have a further near point, because the lens gets stiffer and cannot thicken as much. Reading glasses add a lens in front of the eye to help.
   - Think: The lens gets stiffer with age. How does that change the near point?
 ### a4 · How Big Does It Look? A ruler at arm's length (15 min)
-- **record:** Fill in the table. Draw a bar chart with one bar for each distance. Write what happened to the apparent height each time the distance doubled.
+- **record:** Fill in the table. Lay out your three paper strips. Write what happened to the apparent height each time the distance doubled.
 - **s1 (3 min)**  
   *Parent does:* Show your child the ruler, the pole and the marks. Ask what will happen to the pole's height on the ruler when the pole moves from 2 metres to 4 metres. Will it look the same, or half as tall? Ask why they think so.  
   *Parent says:* We will measure how tall a pole looks on a ruler at arm's length. At 2 metres, then 4 metres, then 8. What happens to its height on the ruler when it moves back? Why do you think so?  
-  *Child mode:* We will measure how tall a pole looks on a ruler. What happens when the pole moves back? Why?
+  *Child mode:* Look at the ruler and the pole. Guess what happens to its height on the ruler when the pole moves back.
   - Ask: What will happen to the pole's height on the ruler when the pole is twice as far away? (good: It will be half as big.; It will stay the same, because the pole is the same size.; It will get a bit smaller.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (6 min)**  
@@ -498,25 +498,25 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
   - Note: Typically the apparent height halves, roughly, each time the distance doubles. If the pole is 60 centimetres tall and your arm's length is about 50 centimetres, it should look about 15 centimetres tall at 2 metres, about 7 to 8 at 4 metres and about 4 at 8 metres. Your numbers will differ. Measurements are rough, because it is hard to read a ruler at arm's length. At 8 metres, read to the nearest millimetre, and do it twice.
   - Check: The pole looked half as tall at 4 metres as at 2 metres. What does this show about distance and size? → **Twice as far away makes a thing look half as tall**
 - **s4 (2 min)**  
-  *Parent does:* Draw a bar chart of your three measurements. Ask what happens to the height each time the distance doubles.  
+  *Parent does:* Cut a paper strip as long as each of your three measurements and lay the strips side by side. Ask what happens to the height each time the distance doubles.  
   *Parent says:* Look at your three numbers. What happens each time the pole is twice as far away?  
-  *Child mode:* Look at your three numbers. What pattern do you see?
+  *Child mode:* Look at your three strips. What pattern do you see?
   - Think: If you wanted a sign to look the same size from twice as far away, how big would you have to make it?
 
 ## Projects
 ### p1 · A Bird in a Cage: pictures that join in your eye (45 min)
 - **safety:** A grown-up cuts out the card discs with scissors.
-- **record:** Keep the thaumatrope and the flip book. Draw the bird and the cage joined together, as you saw them. Write how fast you had to twirl or flick for the pictures to join.
+- **record:** Keep the thaumatrope and the flip book. Tell your grown-up how the bird and the cage looked when they joined. Write how fast you had to twirl or flick for the pictures to join.
 - **s1 (4 min)**  
   *Parent does:* Show your child the card, the strings and the notepad. Ask what they think will happen if a bird on one side and a cage on the other are twirled very quickly.  
   *Parent says:* We will draw a bird on one side of a card and a cage on the other. Then we twirl it very fast. What do you think we will see? Why?  
-  *Child mode:* One side of the card has a bird. The other side has a cage. We twirl it fast. What will you see? Why?
+  *Child mode:* Look at the card. Guess what you will see when it spins fast.
   - Ask: What will you see when the card spins fast? (good: Just a blur.; The bird inside the cage.; A bird, then a cage, then a bird.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* A grown-up draws round a mug on the card and cuts out two discs. Draw a bird on one disc and a cage on the other. Hold the two discs back to back and flip them over like a page of a calendar, top to bottom. The cage must be the right way up when it comes round. Then glue the two discs back to back, with a string between them on each side.  
-  *Parent says:* Draw a bird on one disc. Draw a cage on the other. Make the cage the right way up when you flip the card like a page. Glue the two discs together with a string on each side.  
-  *Child mode:* Draw a bird on one disc and a cage on the other. Glue them back to back with strings.
+  *Parent does:* A grown-up draws round a mug on the card and cuts out two discs. Draw a bird in the middle of one disc and a cage in the middle of the other. You can stick on magazine pictures instead. Hold the discs back to back and turn them over like a page, top to bottom. Check that the cage is the right way up. Then glue the two discs back to back, with a string between them on each side.  
+  *Parent says:* Put a bird on one disc and a cage on the other, in the middle. Turn the discs like a page, and check the cage is the right way up. Glue the two discs together with a string on each side.  
+  *Child mode:* Make a bird disc and a cage disc. Glue them back to back with strings.
   - Note: When the card twirls between the strings, it flips over top to bottom. Both pictures must be the right way up as they come round. A good way: draw the bird, then flip the card over like a page of a calendar, and draw the cage on the back so that it looks right way up in that position. Make both pictures simple and bold, in the middle of the disc. If the bird and cage do not line up, redraw.
   - Check: Why do the two pictures have to be drawn in the middle of each disc? → **So that they sit on top of each other when the disc flips quickly**
 - **s3 (6 min)**  
@@ -525,7 +525,7 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
   *Child mode:* Twirl the disc. What do you see? Spin it slowly, too. What changes?
   - Note: At a fast spin, the bird should seem to sit inside the cage. At a slow spin, you see the bird, then the cage, flicking. If the picture does not join, spin faster, or redraw the pictures bolder and in the middle. To spin fast: twist the strings by rolling them between the fingers about 20 times, then pull the strings gently apart and let the disc untwist. Typically the join is clear at about 10 spins a second, so the strings must be tight. Each child makes their own disc, with their own pictures (for example a fish and a bowl, or a flower and a vase). Swap discs and guess what the other child drew on the hidden side. If you have one child, the child and the parent can each make a disc and compare them.
 - **s4 (15 min)**  
-  *Parent does:* Use the notepad. On the corner of the last page, draw a small ball at the bottom. On the page before it, draw the ball a little higher. Go on, page by page, moving the ball up and then down. Flick the pages from the first to the last with your thumb.  
+  *Parent does:* Use the notepad. On the corner of the last page, draw a small ball at the bottom. A dot is enough. On the page before it, draw the ball a little higher. Go on, page by page, moving the ball up and then down. Flick the pages from the first to the last with your thumb.  
   *Parent says:* Draw a little ball at the corner of each page, a bit higher each time. Then flick the pages with your thumb. What do you see?  
   *Child mode:* Draw a ball on each page. Move it a bit each time. Flick the pages. What do you see?
   - Note: Draw from the back of the pad to the front, so the flick runs from the first page to the last. Keep the ball the same size and move it a small amount each time. About 15 pages is enough to make a short bounce, but 25 or more pages last longer. Press hard with a pen so that the ball shows, and draw it near the corner where the thumb flicks the pages. If the pages are thick, the ball may be hard to see through the page, so use a dark pen. The smaller the moves, the smoother the motion. Scientists have long said that the eye holds on to each picture for a moment. This is called persistence of vision. Many now think that the brain also builds movement from still pictures. They are still working out how.
@@ -544,14 +544,14 @@ From that evening, Thamarai fielded wherever the ball was most likely to go high
 ## Challenges
 ### c1 · Readable From the Far End: design the best sign (35 min)
 - **problem:** A visitor is looking for your door from the far end of the lane or corridor. Make a sign with one word on it that a friend can read from as far away as possible. Find out which size of letter and which pair of colours can be read from the furthest distance.
-- **your turn:** Now design the best sign for your own front door. Draw it, make it and test it from the lane. How far away could your friend read it? How could you make it readable from further?
+- **your turn:** Now design the best sign for your own front door. Make it and test it from the lane. How far away could your friend read it? How could you make it readable from further?
 - **constraints:** Use one sheet of paper or chart paper for each sign, and one plain word in capital letters, such as EXIT or HOME.; Test every sign in the same light, with the same reader, and let her wear her glasses if she has them.; Measure the distance at which the reader can first read every letter, with a tape measure or with big steps that you have measured once.; Change only one thing between two signs, so that you know what made the difference.
 - **general:** Make the letters bigger. A thing twice as tall can be read from about twice as far.; Use thick strokes, so each letter makes a bold shape.; Use two colours that are very different in brightness, such as black on white or black on yellow.
 - **creative:** Leave a wide gap between letters, so that they do not run together from far away.; Add a thick black border round the word, so the eye finds it first.; Try colours that are alike in brightness, such as red on green, and see why signs do not use them. Remember that some people see red and green alike.
 - **s1 (5 min)**  
   *Parent does:* Read the challenge together. Ask your child what they think makes a sign easy to read from far away.  
   *Parent says:* Here is your job. Make a sign that a friend can read from as far away as possible. What do you think makes a sign easy to read from far away?  
-  *Child mode:* Make a sign that is easy to read from far away. What helps? Big letters? Colours?
+  *Child mode:* Think about signs you have seen. Say what you think makes one easy to read from far away.
   - Ask: What do you think will make a sign easier to read from far away? (good: Bigger letters.; Thicker letters.; A bright colour against a dark one.)
   - Note: Let your child make a plan. A good plan changes one thing at a time. Do not give the answer.
 - **s2 (10 min)**  

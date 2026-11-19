@@ -301,7 +301,7 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 - **s2 (3 min)**  
   *Parent does:* Play the Earth card and the imaginary card 5 million kilometres from the Sun together. Then play the TRAPPIST-1 card for planet g. Compare.  
   *Parent says:* Earth is 150 million kilometres from the Sun. An imaginary planet is only 5 million kilometres from the Sun. Which is hotter? Planet g is about 7 million kilometres from its star, TRAPPIST-1. Is it hot or cold? Why is it different?  
-  *Child mode:* Compare 3 cards. Two planets are about the same distance from their stars, but the stars are different. Why is the answer different?
+  *Child mode:* Put the Earth card, the 5 million kilometre card and planet g side by side.
   - Check: A planet is 7 million kilometres from a star. Why might it be too hot around the Sun but just right around TRAPPIST-1? → **TRAPPIST-1 is much dimmer than the Sun**
 - **s3 (7 min)**  
   *Parent does:* Play the game as the rules say. For each card, ask the player who answers to say if the world also needs air and water.  
@@ -321,12 +321,12 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 - **predict:** Before you start, guess. Which bottle will swell its balloon the most? Which will not swell at all? Why do you think so?
 - **fair test:** Every bottle gets the same amount of warm water, the same kind of balloon, and the same warm place. Only what is in the bottle changes. You measure all four balloons at the same times. Bottle C, with no yeast, and bottle D, with dead yeast, are the controls. They show what the sugar does without living yeast.
 - **safety:** A grown-up does the boiling. Water for the bottles should feel like a comfortable bath, never hot. Do not eat the yeast, and keep the yeast powder out of eyes. Balloons are a choking risk for children under eight, so keep them away from small children, and nobody should blow them up by mouth or put them in their mouths. Wash hands afterwards.
-- **record:** Fill in the table. Draw each bottle at 40 minutes, with its balloon. Draw a bar chart of the balloon sizes at 40 minutes.
+- **record:** Fill in the table. Take a photo of the four bottles side by side at 40 minutes, or draw them with their balloons.
 - **results table:** Bottle | What is in it | Around the balloon at 10 minutes (centimetres) | At 20 minutes | At 30 minutes | At 40 minutes
 - **s1 (4 min)**  
   *Parent does:* Show your child the four bottles, the yeast, the sugar and the balloons. Say what will go into each bottle. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* We have four bottles. A gets yeast and sugar. B gets yeast and no sugar. C gets sugar and no yeast. D gets sugar and yeast that has been boiled. Which balloon will swell the most? Which will not swell at all? Why do you think so?  
-  *Child mode:* Four bottles with different things in them. Which balloon swells the most? Why?
+  *Child mode:* Look at the four bottles. Guess which balloon will swell the most.
   - Ask: Why do you think a balloon might swell on one bottle and not the others? (good: Something in the bottle makes a gas.; The yeast is alive and eats the sugar.; The sugar makes gas when it gets warm.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Do not tell your child yet what yeast does.
 - **s2 (10 min) · grown-up needed**  
@@ -352,9 +352,9 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
   *Child mode:* Measure at 30 and 40 minutes. Sniff near the neck of each bottle.
   - Note: Expected: balloon A swells steadily, the others stay flat or nearly flat. Bottle A smells like bread or batter. If balloon A has not swelled after 30 minutes, the yeast may be old or the water too hot or cold. Write it down, and try again with fresh yeast and bath-warm water.
 - **s6 (10 min)**  
-  *Parent does:* Ask your child three things: what they think now, what they saw that shows it, and why they think it happened. Then ask your child to be a space probe that can see only the balloons. Draw a bar chart of the balloon sizes at 40 minutes.  
+  *Parent does:* Ask your child three things: what they think now, what they saw that shows it, and why they think it happened. Then ask your child to put the bottles in a row, biggest balloon first. Ask them to be a space probe that can see only the balloons.  
   *Parent says:* Let's put it together. First, what do you think now? Second, what did you see that shows it? Third, why do you think it happened? Now pretend you are a space probe that can see only the balloons. Which bottles would you say hold life?  
-  *Child mode:* Say three things: what you think, what you saw, and why it happened. Then pretend you can see only the balloons.
+  *Child mode:* Put the bottles in a row, biggest balloon first. Say three things: what you think, what you saw, and why it happened.
   - Note: A good answer. What I think: living yeast change the gas in the bottle. What I saw: only the bottle with yeast and sugar swelled the balloon. The dead yeast and the sugar alone did nothing. Why: living yeast eat sugar and give out carbon dioxide gas, and the gas swells the balloon. A probe that saw only the balloons would say bottle A holds life, and it would be right. But a probe seeing only a swollen balloon could be fooled by something else that makes gas. For example, warm air takes up more room, and baking soda mixed with vinegar makes gas without any life. So a scientist would want a second sign. Give this last part only after your child has given their own ideas.
   - Think: What other thing could swell a balloon on a bottle, without any life?
 ### e2 · Curd Zones: how warm must it be for curd bacteria to live? (30 min, 2 days)
@@ -362,17 +362,17 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 - **predict:** Before you start, guess. Which cup will set first? Which will never set? Why do you think so?
 - **fair test:** Every cup gets the same amount of the same milk and 1 teaspoon of the same curd. Only the place, and so the warmth, changes. Cup D is the only one that starts too hot, because the curd goes into milk that has just been boiled. You look at all four at the same time next morning.
 - **safety:** A grown-up boils the milk and pours the hot milk. Hot milk burns, so keep children back. Keep all cups covered and clean. Do not eat what is in cups A and D. If any cup looks pink, fizzy or smells rotten, throw it away. Wash hands.
-- **record:** Fill in the table. Draw each cup and show whether the curd set or stayed liquid.
+- **record:** Fill in the table: set or still liquid, for each cup. Take a photo of the four cups, or draw them.
 - **results table:** Cup | Where it sat | Did it set by morning? (yes, a little or no) | How it smelled | What happened when I moved it to the warm box
 - **schedule:** day 1: Guess. A grown-up boils the milk. Put curd in the four cups and put each in its place. (17 min); day 2: Next morning, look at the four cups. Move cups A and D to the warm box. Say what you think, what you saw and why. (13 min)
 - **s1 (4 min)**  
   *Parent does:* Show your child the four cups, the milk and the curd. Say where each cup will go. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* We will put the same milk and the same curd in four places. A goes in the fridge. B stays on the kitchen counter. C goes in a warm box. D gets milk that was just boiled. Which cup will set first? Which will never set? Why do you think so?  
-  *Child mode:* Four cups in four places. Which one makes curd? Which does not? Why?
+  *Child mode:* Four cups, four places. Guess which cup will make curd and which will not.
   - Ask: Why do you think one place might make curd and another not? (good: The curd bacteria like warmth.; Cold makes them stop.; Hot milk would kill them.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Do not say yet that curd is made by bacteria.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* A grown-up boils the milk. Pour a little hot milk into cup D straight away, and stir in 1 teaspoon of curd while it is steaming. Let the rest cool until you can keep a clean finger in it for 10 seconds, about 40 to 45 degrees. Pour 100 millilitres of the cooled milk into cups A, B and C.  
+  *Parent does:* A grown-up boils the milk. A grown-up pours 100 millilitres of hot milk into cup D straight away. Stir in 1 teaspoon of curd while it is steaming. Let the rest cool until you can keep a clean finger in it for 10 seconds, about 40 to 45 degrees. Pour 100 millilitres of the cooled milk into cups A, B and C.  
   *Parent says:* Cup D gets the curd while the milk is still steaming hot. For the others, we wait until the milk is warm like a bath. Keep a clean finger in it for ten seconds. If it hurts, it is too hot.  
   *Child mode:* A grown-up boils the milk. Wait until it is warm. Pour it into cups A, B and C.
   - Note: Do the finger test with a clean finger. If you have a thermometer, the milk for A, B and C should be 40 to 45 degrees. Curd bacteria die quickly above about 60 degrees, so the bacteria in cup D will die at once.
@@ -406,7 +406,7 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
   - Ask: What on Earth could show life from very far away? (good: Green patches of forest, which change with the seasons.; Oxygen in the air.; Lights of cities at night, and radio signals.)
   - Note: Possible answers: green land that changes colour with the seasons, oxygen and methane in the air, lights of cities at night, radio signals from phones and towers, cloud patterns. Accept any sensible sign.
 - **s2 (5 min)**  
-  *Parent does:* Ask your child to rank the five signs from the easiest to fake with no life to the hardest to fake. Talk about which sign would still be there if all the people on Earth vanished.  
+  *Parent does:* Ask your child to write each sign on a slip of paper and lay the slips in a row, from the easiest to fake with no life to the hardest to fake. Talk about which sign would still be there if all the people on Earth vanished.  
   *Parent says:* Now rank the signs. Which one could non-living things fake easily? Which one would be hardest to fake? And which sign would still be there if all the people vanished?  
   *Child mode:* Rank your 5 signs. Which is easiest to fake? Which is hardest?
   - Check: If all the people on Earth vanished, which sign of life would a far-off visitor still see? → **Oxygen and methane in the air, kept there by plants and microbes**
@@ -422,12 +422,12 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 - **s2 (7 min)**  
   *Parent does:* Draw the graph for Star X. Put days 1 to 18 along the bottom and brightness 985 to 1000 up the side. Plot a dot for each day. Join the dots with a line. Mark each dip with an arrow.  
   *Parent says:* Days go along the bottom, from 1 to 18. Brightness goes up the side, from 985 to 1000. Put a dot for each day. Most dots are at the top. Three dots are lower. Join them up. What do you see?  
-  *Child mode:* Draw a graph. Days along the bottom. Brightness up the side. Plot Star X.
+  *Child mode:* Make a graph on squared paper. Days along the bottom, brightness up the side. Put a dot for each day of Star X.
   - Check: Star X dips on days 5, 11 and 17. How long is the planet's year? → **6 days, the time from one dip to the next**
 - **s3 (5 min)**  
   *Parent does:* Now draw Star Y on the same graph in a different colour. Star Y is 1000 on every day from 1 to 18, except 999 on days 3, 7, 11, 15. Find the length of its planet's year.  
   *Parent says:* Now Star Y. It is 1000 every day, except 999 on days 3, 7, 11 and 15. Plot it in another colour on the same graph. How long is its planet's year? Which dip is deeper?  
-  *Child mode:* Draw Star Y in another colour. Dips on days 3, 7, 11, 15. How long is its year?
+  *Child mode:* Plot Star Y in another colour. Its dips are on days 3, 7, 11 and 15.
   - Note: Star Y's planet has a 4-day year. Its dips are tiny, only 1 part in 1,000. Star X's dips are 10 parts in 1,000, which is 1 part in 100, the size of a Jupiter-sized planet in front of a Sun-like star.
 - **s4 (4 min)**  
   *Parent does:* Compare the two planets. Ask which is bigger and which is closer to its star. Then ask your child three things: what they think, what they saw, and why.  
@@ -463,11 +463,11 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 ### a4 · Colours Taken Away: how light shows what is in the air (20 min)
 - **problem:** Scientists cannot visit a far planet, so they read the gases in its air from starlight. Each gas takes away its own colours from the light. You will make a rainbow with a CD and a torch. Then you will take colours away with coloured sheets, as a model of what a gas does.
 - **safety:** Never shine a torch into anyone's eyes. Keep the beam pointing at the CD and the wall.
-- **record:** Draw the rainbow with no cellophane. Draw it again with each coloured sheet, showing which colours are missing.
+- **record:** For the rainbow with no cellophane, and again with each coloured sheet, say or write which colours are missing. Take a photo of each rainbow if you can.
 - **s1 (4 min)**  
   *Parent does:* Explain that a gas takes away its own colours from the light. Show the CD and the cellophane. Ask your child to guess what a red sheet in front of the torch will do to the rainbow.  
   *Parent says:* Starlight is a rainbow of colours. When it passes through a planet's air, each gas takes away its own colours. Today, a coloured sheet is our gas. What will a red sheet do to the rainbow? Which colours will disappear? Why do you think so?  
-  *Child mode:* A coloured sheet takes away some colours. What will red do to a rainbow? Why?
+  *Child mode:* A coloured sheet takes away some colours from light. Guess what the red sheet will do to the rainbow.
   - Ask: Which colours do you think a red sheet will take away? (good: Everything except red.; Blue and green.; I do not know.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (6 min) · grown-up needed**  
@@ -476,8 +476,8 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
   *Child mode:* Hold the CD by the edges. Shine the torch on it. Tilt it to find a rainbow.
   - Note: It may take a minute to find the angle. Keep the room as dark as you can, and make the torch beam small by holding it close to the CD. If you have no CD, a glass of water in strong sunshine on a windowsill can also throw a rainbow on the wall.
 - **s3 (6 min)**  
-  *Parent does:* Hold the red sheet in front of the torch. Look at the rainbow. Write which colours are missing. Do the same with the green sheet and the yellow sheet.  
-  *Parent says:* Hold the red sheet in front of the torch. What happens to the rainbow? Which colours are gone? Now try green, and then yellow. Write down what is missing each time.  
+  *Parent does:* Hold the red sheet in front of the torch. Look at the rainbow. Say which colours are missing. Do the same with the green sheet and the yellow sheet.  
+  *Parent says:* Hold the red sheet in front of the torch. What happens to the rainbow? Which colours are gone? Now try green, and then yellow. Tell me what is missing each time.  
   *Child mode:* Hold a coloured sheet in front of the torch. Which rainbow colours go missing?
   - Note: Expected: red leaves only the red end. Green leaves mostly the green part. Yellow takes away the blue and violet end, leaving red, orange, yellow and green. Real gases are more precise. Each takes away very narrow lines of colour, like a barcode.
   - Check: A red sheet in front of the torch leaves only red in the rainbow. What does this show? → **The sheet takes away the other colours from the light**
@@ -496,7 +496,7 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
   - Ask: Which of the eight things is the hardest to decide, and why? (good: Viruses, because they cannot live on their own.; A dry seed, because the seed does nothing.; The candle flame, because it grows and eats.)
   - Note: Do not correct the guesses. Mules are alive but cannot have babies. A virus has a code and changes over generations, but needs a host cell. A dry seed is alive and waiting.
 - **s2 (6 min)**  
-  *Parent does:* Draw the table. For each thing, tick the signs it shows. Then decide: alive, not alive, or hard to say. Talk about the ones that disagree with your first guess.  
+  *Parent does:* Rule a table on paper. For each thing, tick the signs it shows. Then put its card in one of three piles: alive, not alive, or hard to say. Talk about the ones that disagree with your first guess.  
   *Parent says:* For each card, tick the signs it shows. A flame uses energy and grows. But does it make copies of itself, or carry a code? Count the ticks. Then decide.  
   *Child mode:* Tick the signs each thing shows. Then decide: alive, not alive, or hard to say.
   - Check: A fire uses fuel, grows and responds to the wind. Why do most scientists not call it alive? → **It is not made of cells and does not pass on a code that can change**
@@ -536,14 +536,14 @@ Paati poured the good batter into the idli plates, and the kitchen filled with s
 ## Challenges
 ### c1 · Catch the Plume: design a sampler to catch drops from a jet (30 min)
 - **problem:** A spray bottle shoots a plume of coloured water. Design a collector that you carry past the plume at a steady walking speed, 30 centimetres from the nozzle. It must catch as many coloured drops as it can, in one pass.
-- **your turn:** Sketch your design. Build it. Walk past the plume once and count the coloured drops. Change one thing and test again. Which design caught the most? Why do you think it did?
+- **your turn:** Plan your design: sketch it or tell someone. Build it. Walk past the plume once and count the coloured drops. Change one thing and test again. Which design caught the most? Why do you think it did?
 - **constraints:** The collector may be at most 15 centimetres across.; You must walk past at a steady pace, taking about 3 seconds, and must not stop.; A helper gives exactly 5 sprays from the bottle during one pass.; The collector must be held at 30 centimetres from the nozzle, and not touch it.
 - **general:** A flat sheet of white paper held up in front of the plume, to catch drops on its surface.; A card with a rim or lip around the edge to stop the drops running off.; A sheet of kitchen towel that soaks up drops, so they cannot bounce away.
 - **creative:** A cone or funnel that points towards the plume, to gather drops from a wide area.; Two collectors, one for large drops and one for tiny mist, joined together.; A collector with a soft surface that stops drops from bouncing, such as folded cloth.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Explain that Cassini flew through the plumes of Enceladus at very high speed and caught tiny grains. Ask your child to sketch two or three designs.  
-  *Parent says:* The spacecraft Cassini flew through the jets of Enceladus and caught tiny pieces of ice. Our spray bottle is the jet. How would you catch as many drops as possible? Sketch two or three designs first.  
-  *Child mode:* A spray bottle is the jet. Sketch 3 ways to catch the drops.
+  *Parent does:* Read the problem together. Explain that Cassini flew through the plumes of Enceladus at very high speed and caught tiny grains. Ask your child to plan two or three designs. They can sketch them or just describe them.  
+  *Parent says:* The spacecraft Cassini flew through the jets of Enceladus and caught tiny pieces of ice. Our spray bottle is the jet. How would you catch as many drops as possible? Plan two or three designs first. Sketch them or tell me.  
+  *Child mode:* A spray bottle is the jet. Plan 3 ways to catch the drops. Sketch them or tell your grown-up.
   - Ask: What would make a collector catch more drops? (good: A bigger surface.; A surface that soaks up drops.; A lip, so drops do not run off.)
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* Build your first design. A helper holds the spray bottle and gives 5 sprays while you walk past at a steady pace. Count the coloured drops on your collector in a 5 centimetre square. Write the number.  

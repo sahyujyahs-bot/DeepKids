@@ -719,7 +719,7 @@
    ],
    "safety": "Keep the pull low and slow so the rubber band cannot snap back at a face. Pull away from your body and keep your face to the side. Put the packets on a table afterwards, not on your feet.",
    "record": "Write the gap between the dots for each pull in the table. For each load, take the middle one of the three gaps and take away 4. This is the typical stretch. Draw a line graph with the number of packets along the bottom and the stretch up the side. Then write your claim, your evidence and your reason.",
-   "context": "In this experiment, you add weight to a box, pull it with a rubber band and measure how hard the pull must be. Then you turn the box onto its end and pull again.",
+   "context": "In this experiment, you add weight to a box, pull it with a rubber band and measure how hard the pull must be. You will find out how much harder a heavier box is to pull, and whether the side it lies on matters. Then you turn the box onto its end and pull again.",
    "setup": [
     {
      "art": "A wide rubber band lying flat with two marker dots drawn 4 centimetres apart, and a loop of the band round the end of a shoebox.",
@@ -747,8 +747,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the box, the packets and the band. Ask for both guesses, and for a reason for each. Write them down.",
-     "say": "We will add weight to a box and pull it along the floor. How much harder will two packets be than one? Why do you think so? Then I will ask a second question.",
-     "kid": "Guess two things. How much harder is the box to pull with two packets? Which side needs a bigger pull? Why?",
+     "say": "We will add packets to a box and pull it along the floor. How much harder will two packets be to pull than one? Why do you think so?",
+     "kid": "Guess how much harder two packets are to pull than one. Say why. Then answer the question below.",
      "ask": [
       {
        "q": "Which side of the box will need the bigger pull, the big face or the narrow end? Why do you think so?",
@@ -767,7 +767,7 @@
      "mins": 8,
      "do": "Lay the rubber band flat and draw two dots on it, 4 centimetres apart. Loop the band round the end of the box. Tape the lid shut. Put the box on the floor.",
      "say": "Mark two dots on the band, 4 centimetres apart. When the band stretches, the dots move apart. The gap tells us how hard we pull.",
-     "kid": "Draw two dots on the band, 4 cm apart. Loop the band round the box.",
+     "kid": "Mark two dots on the band, 4 cm apart. Loop the band round the box.",
      "parent": "A broad, flat band works best. If the band stretches more than about 15 centimetres with three packets, use two bands side by side. If it stretches less than 1 centimetre with one packet, use a thinner band. A forcemeter from Class 3 also works. Read newtons instead of centimetres.",
      "check": {
       "t": "mcq",
@@ -834,9 +834,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Draw a line graph. Put the packets along the bottom and the stretch up the side. Ask your child to say their claim, their evidence and their reason.",
+     "do": "Make a line graph with the packets along the bottom and the stretch up the side. If your child would rather not draw, lay pencils side by side, each as long as one stretch. Ask your child to say their claim, their evidence and their reason.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw your graph. Say what you thought, what you saw and why.",
+     "kid": "Make your graph, or lay a pencil as long as each stretch. Say what you thought, what you saw and why.",
      "parent": "Wait for the child's own reason first. Then you can say: friction grows with how hard the surfaces press together, which is the weight on the floor. A wide face spreads the same weight over more of the tiny bumps on the floor, and a narrow face puts it on fewer. The total grip stays about the same. Surfaces touch only at the tops of their bumps, and pressing harder makes more of them touch.",
      "think": "If the face on the floor does not matter, what does the grip depend on?",
      "context": "In this step, you draw the graph and say what you found."
@@ -885,7 +885,7 @@
    ],
    "safety": "Never use kite thread coated with glass powder, called manja, because it cuts skin. Put a cushion on the floor under the bottle, so it cannot land on a foot. Hold the thread with your fingertips and never wind it round your fingers. Paper clips and coins are small parts, so keep them away from children under five.",
    "record": "Write the clips needed for each number of turns. Look at the numbers, and find how many times fewer clips each extra turn needs than the one before. Then write your claim, your evidence and your reason.",
-   "context": "In this experiment, you hang a bottle of water from a thread wound round a pencil, and find how few paper clips you need at the other end. The more turns, the fewer clips.",
+   "context": "In this experiment, you hang a bottle of water from a thread wound round a pencil, and find how few paper clips you need at the other end. You will find out how a few turns of thread can hold a heavy bottle. The more turns, the fewer clips.",
    "setup": [
     {
      "art": "A pencil taped to a table edge so it sticks out over the edge, with a heavy book on the taped end and a cushion on the floor below.",
@@ -913,7 +913,7 @@
      "kid": "Guess how many clips one turn needs. Say why you think so.",
      "ask": [
       {
-       "q": "Will each extra turn take away the same number of clips, or the same share of the clips? Why do you think so?",
+       "q": "Will each extra turn take away the same number of clips, or the same fraction of the clips left, such as half? Why do you think so?",
        "good": [
         "The same number, because each turn does the same job.",
         "The same share, because each turn multiplies the grip.",
@@ -928,7 +928,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Tape the pencil so 8 centimetres stick out past the table edge. Put a heavy book on the taped end. Tie one end of the thread round the bottle's neck. Tie a small bag to the other end.",
-     "say": "Tape the pencil to the table so it sticks out past the edge. Put a heavy book on the taped end. Tie the bottle to one end of the thread and the bag to the other.",
+     "say": "First we build the test. The thread will go round the pencil. The bottle hangs on one end and the clips go in the bag on the other.",
      "kid": "Tape the pencil so it sticks out. Tie the bottle to the thread. Tie the bag to the other end.",
      "parent": "The pencil must not roll. Use a round pencil, because a six-sided pencil has corners that grip like gears. Put the cushion on the floor under the bottle. If the thread keeps slipping off the end of the pencil, tape a small stopper of paper at the tip.",
      "check": {
@@ -1030,8 +1030,8 @@
      "what": "Guess where your fingers will meet. Slide them together. Add a weight and try again."
     }
    ],
-   "record": "Draw the ruler and mark where your fingers met each time. Write which finger slid first. Measure from the 0 end, in centimetres, where the fingers met without the clay and with the clay. Then balance the ruler on one finger and measure its balance point, and compare it with where the fingers met.",
-   "context": "In this activity, you balance a ruler on two fingers and slide the fingers together. You see friction stick and slip, and you see how a heavier press makes more grip.",
+   "record": "Take a photo of the ruler where your fingers met each time, or draw it. Write which finger slid first. Measure from the 0 end, in centimetres, where the fingers met without the clay and with the clay. Then balance the ruler on one finger and measure its balance point, and compare it with where the fingers met.",
+   "context": "In this activity, you balance a ruler on two fingers and slide the fingers together. You will find out why your fingers never slide at the same time, and where they meet. You see friction stick and slip, and you see how a heavier press makes more grip.",
    "setup": [
     {
      "art": "A ruler resting flat on the tips of a child's two index fingers held wide apart, near the two ends.",
@@ -1061,10 +1061,10 @@
      "mins": 5,
      "do": "Slide both fingers slowly together. Do not look away. Watch which finger slides and which finger stays still. Mark the meeting point.",
      "say": "Slide your fingers together slowly. Watch which finger moves. Do both fingers ever slide at the same time? Where do they meet?",
-     "kid": "Slide your fingers together slowly. Which finger moves first? Where do they meet?",
+     "kid": "Slide your fingers together slowly. Watch the ruler and your fingers.",
      "ask": [
       {
-       "q": "What did your fingers do?",
+       "q": "Which finger moved first? Did both slide at once? Where did they meet?",
        "good": [
         "They took turns sliding.",
         "They met in the middle.",
@@ -1137,7 +1137,7 @@
     }
    ],
    "record": "Write the dot gap and the stretch (the gap minus the 4 centimetres the dots start apart) for sliding, for rolling on pencils and for rolling on marbles. Write how many times smaller the pencil stretch was than the sliding stretch. Write which was the easiest to pull.",
-   "context": "In this activity, you pull the same box three ways and see how rolling changes the pull. It is a test of rolling friction.",
+   "context": "In this activity, you pull the same box three ways and find out which way needs the smallest pull: sliding, rolling on pencils or rolling on marbles. Rolling friction is the small grip that holds back a rolling thing.",
    "setup": [
     {
      "art": "The loaded box pulled with a banded rubber band along a floor, with a long gap between the dots.",
@@ -1174,9 +1174,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Lay three pencils side by side. Put the box on them. Pull gently. When the box rolls off the back pencil, move that pencil to the front. Read the gap. Do it three times.",
-     "say": "Put the box on the pencils and pull. As the box rolls forward, it leaves the back pencil behind. Move that pencil to the front. Read the gap while the box rolls.",
-     "kid": "Put the box on three pencils. Pull it. Read the gap while it rolls.",
+     "do": "Lay three pencils side by side. Put the box on them. Pull gently. When the box rolls off the back pencil, move that pencil to the front. Read the gap. Do it three times. If you have marbles, spread them in the tray. Lay the cardboard on them and set the box on it. Pull the cardboard slowly and read the gap.",
+     "say": "Put the box on the pencils and pull. As the box rolls forward, it leaves the back pencil behind. Move that pencil to the front. Read the gap while the box rolls. Then, if you have marbles, try the same on the marbles.",
+     "kid": "Put the box on three pencils. Pull it. Read the gap while it rolls. Try marbles too, if you have them.",
      "ask": [
       {
        "q": "How did the gap between the dots change?",
@@ -1236,7 +1236,7 @@
     }
    ],
    "record": "Write the three times. Write which liquid had the most friction on the falling nut, and what warming the honey did.",
-   "context": "In this activity, you drop the same nut into water, oil and honey. Liquids have friction too. It is called fluid friction.",
+   "context": "In this activity, you drop the same nut into water, oil and honey. You will find out which liquid holds the nut back most. Liquids have friction too. It is called fluid friction.",
    "setup": [
     {
      "art": "Three tall glasses side by side, filled with water, oil and honey, with a marble held above each.",
@@ -1306,7 +1306,7 @@
        "It stays the same"
       ],
       "a": 0,
-      "why": "Warmer honey is less viscous, which means it has less internal friction. A wrong pick often means thinking that warm honey is stickier. Honey becomes thicker when cold, not when warm."
+      "why": "Warmer honey is thinner and runnier, which means it has less internal friction. A wrong pick often means thinking that warm honey is stickier. Honey becomes thicker when cold, not when warm."
      },
      "context": "In this step, you warm the honey and see how heat changes the fall."
     }
@@ -1368,9 +1368,9 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Soak one hand in warm water for 20 minutes. Do something else with the other hand, such as drawing or reading, while you wait.",
-     "say": "Soak one hand for twenty minutes. Draw or read with the other hand while you wait.",
-     "kid": "Soak one hand for 20 minutes. Draw while you wait.",
+     "do": "Soak one hand in warm water for 20 minutes. Do something else with the other hand, such as reading or a quiet game, while you wait.",
+     "say": "Soak one hand for twenty minutes. Read or play a quiet game with the other hand while you wait.",
+     "kid": "Soak one hand for 20 minutes. Read while you wait.",
      "parent": "Wrinkling can take 5 to 30 minutes, depending on the person and the water. If the fingers have not wrinkled after 20 minutes, top up the bowl with warm water, because it cools. Some people wrinkle slowly. Wrinkling is controlled by the nerves, and it can fail in people with some nerve injuries.",
      "wait": "Wait 20 minutes for the fingers to wrinkle.",
      "context": "In this step, you wait until the fingers on one hand wrinkle."
@@ -1440,12 +1440,12 @@
     "Wind the string round the post in a figure-of-eight, which makes the string cross itself.",
     "Tie a loose knot round a pencil to act as a brake. Loosen the knot a little at a time to let the bottle down."
    ],
-   "your_turn": "Sketch your design and say how many turns you expect to need. Try it. Change one thing at a time. Which design lowered the bottle most smoothly? How do you know?",
-   "context": "This is a design challenge about the rope rule. You use turns of string round a post to lower a bottle slowly.",
+   "your_turn": "Show or sketch your design and say how many turns you expect to need. Try it. Change one thing at a time. Which design lowered the bottle most smoothly? How do you know?",
+   "context": "This is a design challenge about the rope rule. You will find out how a few turns of string round a post can let one finger lower a heavy bottle slowly.",
    "setup": [
     {
      "art": "A child sketching three ways of winding string round pencils: round one pencil, in a zigzag over three pencils, and in a figure of eight.",
-     "caption": "1. Sketch some designs on paper."
+     "caption": "1. Try some designs, or sketch them on paper."
     },
     {
      "art": "A bottle hanging from a string wound three times round a pencil taped to a table edge, with a cushion underneath.",
@@ -1460,9 +1460,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read the problem together. Ask your child to sketch two or three different ways of winding the string.",
-     "say": "You have to lower the bottle slowly, using one finger. How could you wind the string? Draw some ideas first.",
-     "kid": "You must lower a bottle slowly with one finger. Draw some ideas.",
+     "do": "Read the problem together. Ask your child to show two or three ways of winding the string. They can try them on a pencil or sketch them.",
+     "say": "You have to lower the bottle slowly, using one finger. How could you wind the string? Show me some ideas first.",
+     "kid": "You must lower a bottle slowly with one finger. Try winding the string on a pencil, or sketch your ideas.",
      "ask": [
       {
        "q": "What will happen if you use too few turns? What will happen if you use too many?",
@@ -1507,9 +1507,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Ask your child to explain how their best design works. Ask them to draw the string, the post and the arrows for the pull and the grip.",
-     "say": "Tell me why your design works. Where does the grip come from? Draw the string, the post and the arrows.",
-     "kid": "Say why your design works. Draw the string and the post.",
+     "do": "Ask your child to explain how their best design works. Ask them to point to where the string grips the post and where the pull is.",
+     "say": "Tell me why your design works. Where does the grip come from? Point to it.",
+     "kid": "Say why your design works. Point to where the string grips.",
      "think": "Why would a friend with a very smooth steel rod need more turns?",
      "context": "In this step, you explain your best design."
     }

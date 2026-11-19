@@ -262,10 +262,10 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 - **s2 (4 min)**  
   *Parent does:* Play two practice cards. Read the front, ask for a sign and a reason, and then read the back.  
   *Parent says:* Let's try two cards together. Read the front. Which sign? Say why you think so. Then we check the back.  
-  *Child mode:* Practice with two cards. Pick a sign and say why.
+  *Child mode:* Read the front of a card. Which sign does it go under?
   - Check: A steel spoon with many fine scratches gives a hazy image. What is the best reason? → **The scratches scatter part of the light**
 - **s3 (8 min)**  
-  *Parent does:* Take turns. Each player takes the top card, picks a sign, says why, then reads the back. Give stars as the rules say.  
+  *Parent does:* Take turns. Each player takes the top card, picks a sign, says why, then reads the back. A right sign wins two stars.  
   *Parent says:* Read your card. Pick a sign. Tell us why in one sentence. Then read the back.  
   *Child mode:* Take turns. Read a card, pick a sign, say why, check the back.
   - Ask: What do the cards under the clear image sign have in common? (good: They are all very smooth.; They are polished or still.; Their bumps are tiny.)
@@ -273,12 +273,12 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 - **s4 (3 min)**  
   *Parent does:* Count the stars. Look at the cards under each sign. Pick one card from the No image pile and ask what would make that surface shinier.  
   *Parent says:* Look at the pile with no image. Pick one card. What could you do to make it show an image?  
-  *Child mode:* Pick a no-image card. How could you make it shine?
+  *Child mode:* Pick one card from the no-image pile.
   - Check: How could you make a rough clay matka show a faint image? → **Wet it, or polish it with wax, to fill the bumps**
 - **s5 (2 min)**  
   *Parent does:* Talk about which card surprised you most. Make up a new card for the game.  
-  *Parent says:* Which card surprised you? Can you make up a card of your own, with the answer on the back?  
-  *Child mode:* Which card surprised you most? Make up one new card.
+  *Parent says:* Which card surprised you? Now make up a card of your own, with the answer on the back.  
+  *Child mode:* Make up one new card, with the answer on the back.
   - Think: A wet road gives long streaks of light, but a dry road does not. What does water change about the road?
 ### g2 · Mirror Maze: where does the beam come out? (20 min)
 - **rules:** Draw a 5 by 5 grid on paper, about 3 centimetres for each square. Row 1 is the top. Column 1 is on the left.; Take a Maze card. Copy its mirrors onto your grid. R is a line like a slash. L is a line like a backslash. A dot is an empty square.; Put your finger where the beam enters. The beam goes straight until it meets a mirror. A mirror turns it through a right angle, as the key shows.; Trace the beam until it leaves the grid. Say where it leaves and how many times it turned. Then read the back.; If you have the exit right, take 2 stars. If you also have the number of turns right, take 1 more star.; Play all 12 cards, or as many as you like. The player with the most stars wins. If you tie, you share the win.; Playing alone: score 3 stars for each card you get fully right. Try for 30 or more.
@@ -286,25 +286,25 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 - **Printable board: The grid and the key to the mirrors:** The grid: 5 rows from the top and 5 columns from the left, each square about 3 centimetres wide; R means a mirror leaning right, drawn as a slash /; L means a mirror leaning left, drawn as a backslash \; A dot means an empty square; A beam going right and meeting R turns up. Going left, it turns down. Going up, it turns right. Going down, it turns left.; A beam going right and meeting L turns down. Going left, it turns up. Going up, it turns left. Going down, it turns right.
 - **Printable tokens: Paper stars, buttons or coins for points (30 are enough):** Cut out 30 small paper stars, or use buttons or coins
 - **s1 (4 min)**  
-  *Parent does:* Cut out the cards, the key and the stars. Draw the 5 by 5 grid. Read the key together.  
-  *Parent says:* A mirror turns a beam through a right angle. When a beam going right meets a mirror that leans right, it turns upward. Let's check the key.  
-  *Child mode:* Draw the grid. Read the key for R and L.
+  *Parent does:* Cut out the cards, the key and the stars. Draw a 5 by 5 grid on a big sheet. Make ten small paper slips, five marked R and five marked L. Read the key together.  
+  *Parent says:* A mirror turns a beam through a right angle. Let's read the key to see which way each kind of mirror turns it.  
+  *Child mode:* Make the grid and the R and L slips. Read the key for R and L.
   - Ask: A beam going right meets a mirror leaning right. Which way does it go? (good: Up.; It turns upward.; Toward the top.)
   - Note: Draw a slash and a backslash on a bit of paper, and use a pencil as a beam. It is easier to see the turn with a real pencil. A real mirror leaning at 45 degrees turns a beam through a right angle.
 - **s2 (4 min)**  
-  *Parent does:* Try Maze 1 together. Copy it to the grid, trace the beam and check the back.  
+  *Parent does:* Try Maze 1 together. Put a slip on each square that has a mirror, trace the beam and check the back.  
   *Parent says:* Put your finger where the beam enters. Go straight until you meet a mirror. Which way does the beam turn? Keep going until it leaves the grid.  
   *Child mode:* Trace the first maze with your finger. Where does the beam leave?
   - Check: A beam travelling down meets a mirror leaning left, which is a backslash. Which way does it go? → **Right**
 - **s3 (8 min)**  
-  *Parent does:* Take turns with the cards. Each player copies the maze, traces the beam, says the exit and the turns, then reads the back.  
-  *Parent says:* Copy the mirrors. Trace the beam. Tell us where it leaves and how many times it turned. Then check the back.  
+  *Parent does:* Take turns with the cards. Each player sets up the maze with slips, traces the beam, says the exit and the turns, then reads the back.  
+  *Parent says:* Place the mirrors. Trace the beam. Tell us where it leaves and how many times it turned. Then check the back.  
   *Child mode:* Take turns. Trace each maze. Say where the beam leaves.
   - Note: If your child gets lost, trace with a pencil on the grid and mark each turn with a dot. Check the first turn together, then let them carry on.
   - Think: If you swapped every slash for a backslash in a maze, would the beam leave in the same place?
 - **s4 (5 min)**  
-  *Parent does:* Make your own maze. Put in six mirrors, choose where the beam enters and work out where it leaves. Swap with someone to check.  
-  *Parent says:* Now you are the puzzle maker. Draw six mirrors, pick where the beam enters, and work out where it leaves. Then give it to someone else.  
+  *Parent does:* Make your own maze. Put six slips on the grid, choose where the beam enters and work out where it leaves. Swap with someone to check.  
+  *Parent says:* Now you are the puzzle maker. Place six mirrors, pick where the beam enters, and work out where it leaves. Then give it to someone else.  
   *Child mode:* Make your own maze with six mirrors. Swap with someone.
   - Check: In a maze, a beam enters at the left of row 2 and meets no mirrors at all. Where does it leave? → **The right side of row 2**
 - **s5 (2 min)**  
@@ -319,24 +319,24 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 - **predict:** Before you start, guess. Which surface will show the lit spot from the most places? Which from the fewest? Why do you think so?
 - **fair test:** The torch, the card with the small hole, the angle of the beam and the distance stay the same every time. The torch is always at the same mark, 40 centimetres from the surface. Only the surface changes. You look from the same five marks each time, and you do each surface twice, because one try can be a fluke.
 - **safety:** Never look straight into the torch or its bright flash in the mirror. Glance for a moment only, from the side. A grown-up tapes the mirror's edges and draws the marks.
-- **record:** Fill in the table. Then draw the surface in the middle and the five marks around it, and colour the marks that saw a lit spot. Do one drawing for the mirror and one for the white paper.
+- **record:** Fill in the table. Then, for the mirror and for the white paper, tell your grown-up which marks saw a lit spot. You can also draw the five marks and colour the ones that saw it.
 - **results table:** Surface | Which of the 5 marks could you see a lit spot from? | How many of the 5 marks? | What it looked like: sharp bright flash, even glow, faint or almost nothing
 - **s1 (5 min)**  
-  *Parent does:* Show your child the six surfaces and the torch. Ask which will show a lit spot from the most places and which from the fewest. Ask for reasons. Write the guesses on the table. Roles: with one child, the parent holds the torch and the child looks and writes. With 2 to 4 children, one holds the torch and one writes the table. The others each lie at a different mark. They call out together if they see the spot. Then swap places.  
-  *Parent says:* A thin beam of light will land on each of these. We will look at the spot from five different places. Which surface will let you see it from the most places? Which from the fewest? Why do you think so?  
-  *Child mode:* A torch beam lands on six surfaces. Which shows the spot from the most places? Why?
+  *Parent does:* Show your child the six surfaces and the torch. Ask which will show a lit spot from the most places and which from the fewest. Ask for reasons. Write the guesses in the table. Roles: with one child, the parent holds the torch and the child looks and writes. With 2 to 4 children, one holds the torch and one writes the table. The others each lie at a different mark. They call out together if they see the spot. Then swap places.  
+  *Parent says:* A thin beam of light will land on each of these. We will look at the lit spot from five different places. Which surface will show it from the most places? Which from the fewest?  
+  *Child mode:* Look at the six surfaces. Pick your guess, and tell your grown-up why.
   - Ask: Why do you think a mirror will be different from paper? (good: A mirror is smooth.; A mirror bounces light in one direction.; Paper is rough and spreads the light.)
   - Note: Do not correct the guess. Many children think the mirror will show the spot from the most places because it is the shiniest. That is a very good guess to test.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* A grown-up draws a dot in the middle of the big sheet, and a straight line through the dot. Use a string 40 centimetres long to draw a half circle round the dot, on one side of the line. With a protractor, measure angles from the left end of the line. Mark the torch spot at 45 degrees. Mark five viewing marks at 15, 75, 105, 135 and 165 degrees. Number them 1 to 5.  
   *Parent says:* The dot in the middle is where each surface will stand. The torch goes at its mark. We will look at the surface from five marks around the half circle.  
-  *Child mode:* Draw a dot and a half circle. Mark the torch spot and five viewing marks.
+  *Child mode:* Your grown-up marks a dot and a half circle. Find the torch mark and the five viewing marks.
   - Note: Measure the angles from the left end of the straight line through the dot. The torch mark is at 45 degrees. The five viewing marks are at 15, 75, 105, 135 and 165 degrees, so the mirror bounce lands on mark 4. Use a ruler or string to make sure each mark is 40 centimetres from the dot. If you lack a protractor, trace one from a maths box.
   - Check: Why must the torch stay at the same mark for every surface? → **So that only the surface changes**
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* Make the room dark. Stand the mirror upright on the dot with clay, facing the viewing marks. Switch on the torch at its mark, aimed at the dot through the card with the hole. Put your chin on the table at mark 1. Look at the mirror. Move to marks 2, 3, 4 and 5 in turn. Write which marks show a lit spot.  
-  *Parent says:* Put your chin on the table. Look at the mirror from mark 1. Can you see the lit spot? Now look from mark 2. Keep going to mark 5. Where does the bright flash appear?  
-  *Child mode:* Put your chin on the table. Look at the mirror from each mark. Where do you see the spot?
+  *Parent says:* Put your chin on the table, so your eyes are low. Look at the mirror from mark 1. Can you see the lit spot? Now look from mark 2. Keep going to mark 5.  
+  *Child mode:* Look at the mirror from mark 1, then 2, 3, 4 and 5. At which marks do you see the lit spot?
   - Note: Expected: a bright flash of the torch itself at mark 4, and almost nothing at the other marks. The flash can be dazzling, so glance for a moment only. A thin beam makes no visible spot on a clean mirror from any other mark. Then test the smooth foil in the same way. It should act like a weaker mirror. The mirror must stand along the straight line through the dot, with its shiny side facing the viewing marks. If nobody sees the flash, nudge the mirror a little.
 - **s4 (12 min)**  
   *Parent does:* Swap in the crumpled foil, then the white paper, the black cloth and the glossy page, one at a time. For each, look from marks 1 to 5. Write which marks show a lit spot, and what it looks like. Repeat each surface once.  
@@ -346,8 +346,8 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
   - Check: You can see the lit spot on the white paper from all five marks, but on the mirror from only one. What is the best reason? → **Paper scatters the light in every direction, and the mirror sends it in one direction**
 - **s5 (5 min)**  
   *Parent does:* Look at your table. Sort the surfaces by how many marks saw a lit spot. Ask your child what the surfaces with the most marks have in common, and what the mirror does differently.  
-  *Parent says:* The mirror showed the spot from one mark. The paper showed it from five. The same torch, the same beam. What is different about the surfaces?  
-  *Child mode:* Sort the surfaces by how many marks saw the spot. What is different about the mirror?
+  *Parent says:* Look at your table. The same torch, the same beam. What is different about the mirror and the white paper?  
+  *Child mode:* Put the surfaces in order, from the most marks to the fewest. What do the top ones have in common?
   - Ask: Did the white paper bounce the light, or soak it up? (good: It bounced it, in every direction.; It scattered it.; It bounced it, because we could see the spot.)
   - Note: The key idea is that the paper reflects too. We see the lit spot on the paper only because paper reflects light into our eyes, wherever we stand. The mirror sends all of its light in one direction. They follow the same rule, but the bumps in paper face every way.
 ### e2 · Make a Dull Thing Shine: how does polish work? (30 min)
@@ -355,12 +355,12 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 - **predict:** Before you start, guess. Which strip will show the sharpest reflection of the torch, and which the fuzziest? Why do you think so?
 - **fair test:** The four strips are cut from the same sheet of black paper. The torch, the distance and the height of your eye stay the same. You look at each strip in the same way, from the same place. Only the treatment changes. The untouched strip is the control.
 - **safety:** Do not light the candle. Use it only as a block of wax. A grown-up supervises the water and the scissors.
-- **record:** Fill in the table. Then draw the four strips in a row, with a picture of the torch's reflection on each. Write which treatment made the strip shine most.
+- **record:** Fill in the table. Then line up the four strips from the sharpest reflection to the fuzziest. Take a photo, or tell your grown-up the order. Write which treatment made the strip shine most.
 - **results table:** Strip | Reflection of the torch when I look from a low angle: sharp, fuzzy or none | Reflection when I look from a high angle: sharp, fuzzy or none
 - **s1 (4 min)**  
   *Parent does:* Show your child the four strips and what will be done to each. Ask which will shine most and which least. Write the guesses and reasons. With 2 to 4 children, each makes and judges their own set of four strips, then you compare scores. With one child, the parent is the second judge.  
-  *Parent says:* Strip A we leave alone. Strip B gets wiped with a wet cloth. Strip C gets rubbed with wax and polished. Strip D gets covered with clear tape. Which will show the best reflection of a torch? Why do you think so?  
-  *Child mode:* Four strips of dull paper, four treatments. Which will shine best? Why?
+  *Parent says:* Strip A we leave alone. It is our control, so we can compare the others with it. Strip B gets wiped with a wet cloth. Strip C gets rubbed with wax and polished. Strip D gets covered with clear tape. Which will show the best reflection of a torch? Why do you think so?  
+  *Child mode:* Pick the strip you think will shine best. Tell your grown-up why.
   - Ask: Why might wax or tape make paper shine? (good: They make the paper smoother.; They fill the tiny bumps.; They make a shiny layer on top.)
   - Note: Do not correct the guess. Many children think water will be best because wet things look shiny. Test it. Wet paper wrinkles, and the water soaks in, so it may help less than they expect.
 - **s2 (8 min) · grown-up needed**  
@@ -375,21 +375,21 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
   *Child mode:* Put your chin on the table. Look across each strip at the torch. Is the reflection sharp or fuzzy?
   - Note: Expected: A shows a faint fuzzy smear. D, the taped strip, shows the sharpest reflection of the torch. C is usually better than A. B varies, and may be no better than A. If B looks as good as D, write that down. Do not look directly at the torch. If every strip looks the same, darken the room and lower your chin until it touches the table. The effect needs a very low angle.
 - **s4 (8 min)**  
-  *Parent does:* Now raise your head until you are looking down at each strip from about 30 centimetres above it. Look at each one again. Write whether the torch's reflection is sharp, fuzzy or gone. Then explain what the low angle did.  
-  *Parent says:* Now look down at the strips from above. Which strips still show the torch? Which have lost it? What did lowering your head do?  
-  *Child mode:* Raise your head. Look down at each strip. Which still show the torch?
+  *Parent does:* Now raise your head until you are looking down at each strip from about 30 centimetres above it. Look at each one again. Write whether the torch's reflection is sharp, fuzzy or gone. Then say how looking from low down was different from looking from above.  
+  *Parent says:* Now look down at the strips from above. Which strips still show the torch? Which have lost it? How is that different from looking from low down?  
+  *Child mode:* Raise your head. Look down at each strip. Write sharp, fuzzy or gone.
   - Check: Strip A showed a faint reflection from a low angle and none from a high angle. What does this suggest? → **Even a dull surface acts more like a mirror when you look at it from a low angle**
 ### e3 · Send It Straight Back: two mirrors at a right angle (35 min)
 - **question:** A thin beam of light hits two mirrors set at a right angle. Where does it come out, and does the answer change when the beam comes in at a different angle?
 - **predict:** Before you start, guess. After bouncing off both mirrors, will the beam come out going the same way it went in, the opposite way, or somewhere else? Will it change when the beam arrives at a different angle? Why do you think so?
 - **fair test:** The two mirrors stay fixed in the same place at a right angle. The slit torch lies flat on the paper each time. Only the angle of the beam changes. You try three angles, and then repeat with one mirror alone for comparison.
 - **safety:** A grown-up cuts the slit and tapes the edges of the mirrors. Never shine a torch into anyone's eyes.
-- **record:** Fill in the table. Draw the two mirrors and your three beams on the paper, with arrows to show the way in and the way out. Use a different colour for each beam, with its line in and its line out in the same colour.
+- **record:** Fill in the table. The lines you drew on the paper already show your three beams. Add an arrow on each line to show the way in and the way out. Then tell your grown-up what you found.
 - **results table:** Beam angle (about) | With two mirrors: did the beam leave parallel to the way it came in? | With one mirror alone: did the beam leave parallel to the way it came in?
 - **s1 (5 min)**  
   *Parent does:* Show your child the two mirrors, the slit torch and the reflective strip. Ask where the beam will go after bouncing off both mirrors. Write the guess and reason. Roles: one child holds the torch, one holds the mirrors steady, one marks the dots. With one child, the parent holds the mirrors and the child marks the dots. With 4 children, two pairs can each build a corner and compare.  
-  *Parent says:* Two mirrors make a corner, like the inside of an open book. A thin beam goes into the corner. It bounces off one mirror, and then the other. Which way will it come out? Why do you think so?  
-  *Child mode:* Two mirrors make a corner. A beam goes in. Which way will it come out? Why?
+  *Parent says:* Two mirrors make a corner, like the inside of an open book. A thin beam goes into the corner. It bounces off one mirror, and then the other. Which way will it come out?  
+  *Child mode:* Guess which way the beam will come out of the corner.
   - Ask: Why do you think the beam will come out that way? (good: It bounces off each mirror once.; It will go straight back.; It will go off to the side.)
   - Note: Do not correct the guess. The beam bounces twice, once on each mirror, and each bounce follows the rule that the angle out equals the angle in.
 - **s2 (8 min) · grown-up needed**  
@@ -400,7 +400,7 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 - **s3 (12 min)**  
   *Parent does:* Lay the torch flat on the paper, aimed at the corner at about 20 degrees to the first mirror. Mark two dots on the thin line going in. Mark two dots on the line coming out. Join each pair of dots with a ruler. Use the protractor to measure the angle between the line going in and the line coming out. It should be close to 0 degrees, which means the two lines are parallel. Repeat at about 45 degrees and 70 degrees. Then remove one mirror and try again with one mirror alone.  
   *Parent says:* Lay the torch down. Mark two dots on the beam going in. Mark two dots on the beam coming out. Join each pair with a ruler. Two lines are parallel when they run side by side, like the two rails of a railway track. How do the two lines compare? Are they parallel? Do the same for a different angle.  
-  *Child mode:* Mark the beam going in. Mark the beam coming out. Join the dots. How do the lines compare?
+  *Child mode:* Mark two dots on the beam going in. Mark two on the beam coming out. Join each pair.
   - Note: Expected: with two mirrors at a right angle, the line out is parallel to the line in, and goes back the way it came, at all three angles. With one mirror alone, the beam goes off in a different direction every time. Tiny errors are normal. Check that the lines look parallel, not that they match exactly.
   - Check: With two mirrors at a right angle, the beam came out parallel to the way it went in, at all three angles. What does this show? → **Two right-angle mirrors send light back the way it came, whatever the angle**
 - **s4 (10 min) · grown-up needed**  
@@ -415,7 +415,7 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 - **record:** A table with twelve things, your guess for each, what you saw in each one (clear window, fuzzy window or none), and a final sort into three piles.
 - **s1 (6 min)**  
   *Parent does:* Line up the twelve things on a table near the window. Ask your child to guess for each one whether it will show the window clearly, fuzzily or not at all. Write the guesses in a table. With 2 to 4 children, share the twelve things out. Each child guesses and tests their own. Then check each other's results.  
-  *Parent says:* Look at each thing. If we hold it up to the window, will we see the window in it? Clearly, fuzzily or not at all? Write down your guess for each one.  
+  *Parent says:* Look at each thing. If you hold it up with your back to the window, will you see the window in it? Clearly, fuzzily or not at all? Write down your guess for each one.  
   *Child mode:* Look at twelve things. Guess which show the window. Write your guesses.
   - Ask: Which is the hardest to guess? (good: The glossy magazine page.; The crumpled foil.; The wooden table.)
   - Note: Do not correct the guesses. Any guess is fine. The foil, the tile and the stone often surprise children.
@@ -435,11 +435,11 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
   *Parent says:* Make three piles. What do the things in the clear pile have in common? What about the none pile?  
   *Child mode:* Sort into three piles. What do the clear ones have in common?
 ### a2 · Colour Bounce: a white page catches the colour next to it (20 min)
-- **record:** Draw the two cards side by side, and colour the white card where it picked up a tint. Write what you saw with red, green and no coloured card.
+- **record:** Write what you saw with red, green and no coloured card. You can also take a photo, or draw the two cards and colour the white card where it picked up a tint.
 - **s1 (4 min)**  
   *Parent does:* Show your child the red card and the white card. Ask what will happen to the white card if you shine a torch on the red card only. Ask for a reason. Write it down.  
   *Parent says:* We stand a red card next to a white card. We shine the torch only on the red card. Will the white card change? How? Why do you think so?  
-  *Child mode:* A red card next to a white card. Light only the red one. Will the white card change? Why?
+  *Child mode:* Guess if the white card will change when only the red card is lit.
   - Ask: Why do you think the white card might change colour? (good: The red light might bounce onto it.; It might not change at all.; Some red might spread across.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (8 min)**  
@@ -451,19 +451,19 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 - **s3 (5 min)**  
   *Parent does:* Swap the red for the green card, and shine the torch on the green only. Look at the white card. Then take the coloured card away and shine the torch at the white one alone. Compare.  
   *Parent says:* Now the green card. What colour does the white card take? Now take the green away. What does the white card look like by itself?  
-  *Child mode:* Swap in the green card. Light it. What colour does the white card take?
+  *Child mode:* Swap in the green card. Light only the green one. Look at the white card.
   - Note: The white card should pick up a green tint near the fold, and none when the coloured card is removed. This is the same reason a person standing beside a bright red wall looks slightly red.
 - **s4 (3 min)**  
-  *Parent does:* Talk about where you see this at home. Sunlight on a green wall can turn a white ceiling slightly green. A yellow wall can make a room glow warm.  
-  *Parent says:* Where might this happen at home? A bright curtain in the sun, a coloured wall, a red cloth near a white sheet. Have you ever seen a white thing look tinted?  
-  *Child mode:* Where could a bright wall tint a white thing at home?
+  *Parent does:* Ask your child where they have seen this at home. If they are stuck, say that sunlight on a green wall can turn a white ceiling slightly green.  
+  *Parent says:* Where might this happen at home? Think of a bright curtain in the sun, a coloured wall, or a red cloth near a white sheet.  
+  *Child mode:* Look around the room. Point to a white thing that has a bright coloured thing next to it.
 ### a3 · Steel Katori Beam: a bowl that gathers light and a back that spreads it (22 min)
 - **safety:** Use a torch only, never sunlight. A curved mirror can focus sunlight into a spot hot enough to burn skin or start a fire, and can harm eyes. Never look into the bright reflection.
-- **record:** Draw the torch, the katori and the card. Show where the bright spot was smallest. Write what the back of the katori did to the beam.
+- **record:** Write the distance from the bowl to the card where the spot was smallest. Write what the back of the katori did to the beam. You can also take a photo of the two spots on the card.
 - **s1 (4 min)**  
   *Parent does:* Show your child the katori. Ask what a torch beam will do after bouncing off the inside of the bowl, and off the outside. Ask for guesses and reasons. Write them.  
-  *Parent says:* The inside of the katori curves in. The back curves out. If we shine a torch on each, will the light look different on a card? How? Why do you think so?  
-  *Child mode:* A torch shines on the inside of a bowl and on its back. Will the light look different? Why?
+  *Parent says:* The inside of the katori curves in, which is called concave. The back curves out, which is called convex. If we shine a torch on each, will the light look different on a card? How?  
+  *Child mode:* Guess if the light will look different from the back of the bowl.
   - Ask: Why do you think the bowl will change the beam? (good: It curves, so it bends the light.; It will gather the light.; It will spread the light.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (9 min) · grown-up needed**  
@@ -474,17 +474,17 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
   - Check: The inside of the katori made the light into a small, bright spot. What does a concave mirror do? → **It gathers light to a point**
 - **s3 (9 min)**  
   *Parent does:* Turn the katori round, so that its back faces the torch. Catch the light on the card and move the card as before. Compare it with the inside. Then switch on the room light. Look at your face in the inside of a large steel spoon, at arm's length. Look in the back of the spoon too.  
-  *Parent says:* Now the back of the katori. Where does the light go? Is it small and bright, or large and dim? What is different from before?  
-  *Child mode:* Turn the katori round. Shine the torch on its back. Is the spot big or small?
+  *Parent says:* Now the back of the katori. Where does the light go? Is it small and bright, or large and dim? What is different from before? Then switch on the room light. Look at your face in the front of a large steel spoon, then in the back. What is different?  
+  *Child mode:* Turn the katori round. Shine the torch on its back. Is the spot big or small? Then look at your face in the front and back of a large steel spoon.
   - Note: The back spreads the beam into a wide, dim patch with no sharp spot. That is why convex mirrors, which curve outward, are used on cars and in shop corners. They show a wide view. This is a good moment to name the two kinds, concave and convex. Expected: the back never makes a small bright spot, only a dim wide patch. In the inside of the spoon, your face is usually upside down. That happens because the curve makes the rays cross over, which turns the picture over. In the back of the spoon, your face is upright and small.
 ### a4 · Dusk Reflector Hunt: what glows back at a torch? (25 min)
 - **safety:** A grown-up must come. Stay on the pavement or in a safe space, away from traffic. Never shine a torch into a driver's eyes or at people.
 - **record:** A list of at least six things that glowed back at the torch, and three that did not, with a note on where you were standing when each glowed.
 - **s1 (5 min)**  
-  *Parent does:* Before you go out, ask your child to guess what kinds of things will glow back at a torch. Write the guesses. Check the torch works. With 2 to 4 children, give each their own torch and a job: one spots things, one writes them down, and one steps to the side to look from there. One grown-up can look after up to four children on a quiet path.  
-  *Parent says:* We will walk at dusk with a torch. What kinds of things do you think will glow back at us when we shine the torch on them? Why do you think so?  
-  *Child mode:* Walk at dusk with a torch. What kinds of things will glow back? Why?
-  - Ask: What do you expect to glow back? (good: Mirrors.; Bicycle reflectors.; Shiny things.)
+  *Parent does:* Before you go out, ask your child to guess what kinds of things will glow back at a torch. Write the guesses. Check the torch works. Never shine it into a driver's eyes. With 2 to 4 children, give each their own torch and a job: one spots things, one writes them down, and one steps to the side to look from there. One grown-up can look after up to four children on a quiet path.  
+  *Parent says:* We will walk at dusk with a torch. What kinds of things do you think will glow back at us when we shine the torch on them?  
+  *Child mode:* Think of things on the road that might glow back. Tell your grown-up your guess.
+  - Ask: Which will glow more, a bicycle reflector or a painted wall? (good: Mirrors.; Bicycle reflectors.; Shiny things.)
   - Note: Do not correct the guess. Most children expect shiny things such as mirrors, and are surprised by the reflective patches on signs, bags and clothes.
 - **s2 (14 min) · grown-up needed**  
   *Parent does:* Walk with a grown-up. Hold the torch beside your eye. Shine it at bicycle reflectors, the red patches on autos and trucks, and road signs. Try number plates, school bag stripes and cat's eyes in the road. Write down each thing that glows. Try a painted wall and a plain sign for comparison.  
@@ -493,25 +493,25 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
   - Note: Expected: bicycle reflectors, signs, number plates, cat's eyes and reflective stripes glow brightly. Painted walls and plain signs do not. Do not shine the torch at drivers. If there is nothing to see, look at the reflectors on your own bicycle or bag.
 - **s3 (6 min)**  
   *Parent does:* Choose one glowing reflector. Stand in front of it with the torch beside your eye and note the glow. Then step to the side, keep the torch pointing at it, and look from where you stand. Compare the two. Then step back a few paces at a time and count how many paces away you can still see the glow.  
-  *Parent says:* Look at the reflector with the torch beside your eye. Now step to the side but keep the torch pointed at it. Does it glow as brightly from here?  
-  *Child mode:* Look from beside the torch. Then step to the side. Does the glow stay?
+  *Parent says:* Look at the reflector with the torch beside your eye. Now step to the side but keep the torch pointed at it. Does it glow as brightly from here? Now step back a few paces at a time. How far can you go and still see the glow?  
+  *Child mode:* Look from beside the torch. Then step to the side. Then step back, a few paces at a time, and count.
   - Check: A bicycle reflector glows brightly when a car's headlight shines on it. Why does the driver see the glow so well? → **It sends the light straight back toward the headlight, near the driver's eyes**
 
 ## Projects
 ### p1 · Milk-Carton Periscope: see over the wall (75 min, 2 days)
 - **safety:** A grown-up does all the cutting with the craft knife and scissors. Tape over the edges of the mirrors, because the edges can be sharp. Glass mirrors break, so keep them away from small children and handle them over a table.
-- **record:** Draw a side view of your periscope with the two mirrors, the two windows and a ray of light zigzagging through them. Write what you saw when you looked into it, and which way up the picture was.
+- **record:** Show the path of the light through your periscope. Draw a side view with the two mirrors, the two windows and a zigzag ray, or trace the path with your finger and tell your grown-up. Write what you saw when you looked into it, and which way up the picture was.
 - **schedule:** day 1: Prepare the carton, cut the windows, make the two wedges and stick the mirrors on them. (45 min); day 2: Fit the wedges, test the periscope, fix any problems and use it to see over a wall. (30 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the carton and mirrors. Ask what they will see if they look into the lower window while holding the periscope above a wall. Ask if the picture will be the right way up. Write the guesses. With 2 to 4 children, work in pairs. One pair builds the carton and the other makes the wedges. Then join them. With one child, the parent does the cutting and the child folds, tapes and tests.  
-  *Parent says:* A periscope uses two mirrors to look over a wall. What will you see through the lower window? Will the picture be upside down, back to front or the right way up? Why do you think so?  
-  *Child mode:* A periscope has two mirrors. Will the picture be the right way up? Why?
+  *Parent says:* A periscope uses two mirrors to look over a wall. What will you see through the lower window? Will the picture be upside down, back to front or the right way up?  
+  *Child mode:* Think about what you will see in the lower window.
   - Ask: Why do you think the picture will come out that way? (good: One mirror reverses it, and the other reverses it back.; It will be upside down.; It will be the right way up.)
   - Note: Do not correct the guess. Many children expect the picture to be flipped or upside down. Test it.
 - **s2 (15 min) · grown-up needed**  
-  *Parent does:* A grown-up cuts off the top and bottom of the carton. Cut a window 5 centimetres wide and 4 centimetres tall in the front face, starting 1 centimetre below the top edge. Turn the carton round. Cut a window of the same size in the back face, starting 1 centimetre above the bottom edge. Colour the inside black.  
+  *Parent does:* A grown-up cuts off the top and bottom of the carton. Cut a window 5 centimetres wide and 4 centimetres tall in the front face, starting 1 centimetre below the top edge. Turn the carton round. Cut a window of the same size in the back face, starting 1 centimetre above the bottom edge. Colour the inside black, so light does not bounce around inside.  
   *Parent says:* The two windows must be on opposite faces. One is near the top on the front. One is near the bottom on the back. Make sure they face opposite ways.  
-  *Child mode:* Cut the ends off. Cut a window at the top front. Cut one at the bottom back.
+  *Child mode:* Your grown-up cuts the carton. Check the windows: one at the top front, one at the bottom back.
   - Note: Check that the carton is clean and dry. The windows must be on opposite faces, one high and one low. Colouring the inside black cuts down stray reflections and makes the picture clearer.
 - **s3 (25 min) · grown-up needed**  
   *Parent does:* Take a card strip. Fold it at 7 centimetres and at 14 centimetres, so the three sides are 7, 7 and about 10 centimetres. Check that the corner between the two 7 centimetre sides is a right angle. Tape the ends together to make a triangle tube. Tape a mirror onto the long side, shiny side out. Make the second wedge the same way.  
@@ -528,7 +528,7 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 - **s5 (15 min)**  
   *Parent does:* Hold the periscope up beside a wall, a sofa or a door, with the top window facing the far side. Look into the lower window. Write what you see. Test whether writing, such as a word on a page, looks the right way round. Measure how much higher the top window is than the lower one. Find something that height to see over.  
   *Parent says:* Hold the periscope above the wall with the top window facing the far side. Look in the lower window. What do you see? Is the picture the right way up? Can you read a word held up in front of the top window?  
-  *Child mode:* Hold the periscope up. Look in the lower window. What do you see? Is it the right way up?
+  *Child mode:* Hold the periscope up and look in the lower window. Try reading a word through it.
   - Ask: Why does the picture come out the right way up? (good: The first mirror reverses it and the second reverses it back.; The two reversals cancel each other.; Two bounces turn it back the right way.)
   - Note: A single flat mirror reverses a picture, the way your right hand looks like a left hand in a bathroom mirror. The first mirror reverses the picture, and the second mirror reverses it back. So the picture is upright and not reversed. Writing held in front of the top window reads the right way round. A 19 centimetre periscope lifts your eye by only about 12 to 14 centimetres. That is enough to see over a sofa arm, a box or a low wall, not a tall wall. For a taller thing, make a taller tube.
 
@@ -536,14 +536,14 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 ### c1 · Look Round Two Corners: a bendy periscope (40 min)
 - **problem:** One toy sits on the floor on the far side of a sofa. Another toy sits round a corner of the hallway. Make a periscope with three or more mirrors that lets you see a toy without moving your head from one spot.
 - **safety:** Tape the edges of every mirror. Use a torch only, never sunlight.
-- **your turn:** Sketch the path of light from the toy to your eye, with a mirror at each turn. Build it and test it. Which design showed the toy most clearly? How many mirrors did you need, and why?
+- **your turn:** Lay a string for the path of light from the toy to your eye, with a mirror at each bend. Build it and test it. Which design showed the toy most clearly? How many mirrors did you need, and why?
 - **constraints:** Use only mirrors, card, tape and clay or books to hold them.; Do not move the toy, and do not move your head from the spot you chose.; You must be able to see the toy clearly.; Try it with at least three mirrors.
 - **general:** A periscope with two mirrors set parallel, like the Milk-Carton Periscope, to see over the sofa.; Two mirrors, each turning the light through a right angle, one after the other.; Three mirrors in a row, each turning the path a quarter turn, to go round a corner and back.
 - **creative:** Four mirrors in a Z shape, to look round two corners.; A long cardboard tube with mirrors at each end.; Use a torch first to find the path from the toy to your eye, then place a mirror at each corner.
 - **s1 (10 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch the path of the light from the toy to their eye, and mark where each mirror goes. With 2 to 4 children, each sketches a path first and then you pick one to build together. With one child, the parent holds mirrors while the child adjusts.  
-  *Parent says:* The light from the toy must get to your eye. Draw its path as straight lines. Wherever the line turns, there must be a mirror. How many turns do you need?  
-  *Child mode:* Draw the path from the toy to your eye. A mirror goes at each turn.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to lay a string from the toy to their eye, bent where each mirror goes, with a lump of clay at each bend. With 2 to 4 children, each lays a path first and then you pick one to build together. With one child, the parent holds mirrors while the child adjusts.  
+  *Parent says:* The light from the toy must get to your eye along straight lines. Lay a string for its path. Wherever the string bends, there must be a mirror. How many bends do you need?  
+  *Child mode:* Lay a string from the toy to your eye. A mirror goes at each bend.
   - Ask: How do you know where to put each mirror? (good: Where the path turns.; At every corner of the light's path.; I put it where the light needs to go next.)
 - **s2 (20 min)**  
   *Parent does:* Place the mirrors and test them. Start by shining the torch from your eye position and follow the beam from mirror to mirror to the toy. Adjust each mirror by a small amount at a time.  
@@ -551,20 +551,20 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
   *Child mode:* Place the mirrors. Shine the torch along the path. Adjust each mirror a little.
   - Note: Light can travel the same path in either direction. If the torch's beam can go from your eye to the toy, the toy's light can go back to your eye. Tiny changes of angle move the beam a lot, so adjust slowly. Work in a dim room so the beam shows on the walls.
 - **s3 (10 min)**  
-  *Parent does:* When you can see the toy, count the mirrors you used. Ask how a different layout might need fewer. Draw the final path.  
-  *Parent says:* You can see the toy. How many mirrors did you use? Could you have used fewer? Draw the path the light takes.  
-  *Child mode:* Count the mirrors you used. Could you use fewer? Draw the path.
+  *Parent does:* When you can see the toy, count the mirrors you used. Ask how a different layout might need fewer. Ask your child to tell the path the light takes.  
+  *Parent says:* You can see the toy. How many mirrors did you use? Could you have used fewer? Tell me the path the light takes.  
+  *Child mode:* Count the mirrors you used. Could you use fewer? Say the path from the toy to your eye.
   - Check: Your bendy periscope shows the toy. Which statement fits best? → **Each mirror turns the path, and an even number of mirrors keeps the picture the right way round**
 ### c2 · Wide-View Shop Mirror: see the whole room from one spot (30 min)
 - **problem:** You are a shopkeeper in a small room with a door on one side and two corners on the other. Find which shiny thing from the kitchen lets you see the most of the room from your chair, without moving.
-- **your turn:** Sketch the room, the chair and the toys. Test each shiny thing and count the toys you can see. Which showed the most? What did you lose with the wider view? How would you improve it?
+- **your turn:** Test each shiny thing and count the toys you can see. Line the things up from the most toys to the fewest. Which showed the most? What did you lose with the wider view? How would you improve it?
 - **constraints:** Test at least four different shiny things.; Place five small toys around the room: two in corners, one by the door and two on the walls.; Sit in one chair and do not move your head.; Count how many of the five toys you can see in each shiny thing.
 - **general:** A flat mirror or flat plate shows only a small part of the room.; The back of a spoon or the back of a katori curves outward and shows a wider view.; A convex surface shows more of the room, but everything looks smaller.
 - **creative:** Hang a steel katori by a string in a corner at the height of your eyes.; Try a steel tumbler on its side, which curves in only one direction.; Combine a flat mirror and a curved one, to see the door in one and the corner in the other.
 - **s1 (7 min)**  
   *Parent does:* Read the problem together. Place the five toys round the room. Ask your child to guess which shiny thing will show the most toys. Write the guess.  
   *Parent says:* A shopkeeper wants to see the whole shop from one chair. Which of these shiny things do you think will show the most toys? Why?  
-  *Child mode:* Which shiny thing shows the most toys? Why? Guess first.
+  *Child mode:* Look at the shiny things. Guess which one will show the most toys.
   - Ask: What shape of mirror do you think shows the widest view? (good: One that bulges outward.; A round one.; A big one.)
 - **s2 (15 min)**  
   *Parent does:* Sit on the chair. Hold each shiny thing at arm's length in front of you. Count how many of the five toys you can see in it. Write the number. Test at least four things, and repeat each once. With 2 to 4 children, each child sits in the chair in turn and counts, and the others check the count. With one child, the parent places the toys.  
@@ -574,7 +574,7 @@ Selvi thought about it. 'Because each dent is a tiny mirror too,' she said. 'It 
 - **s3 (8 min)**  
   *Parent does:* Compare the numbers. Ask why the best one showed more of the room. Ask what you lose with the wide view. Try to improve your design with one change.  
   *Parent says:* Which showed the most? Why does a shape that curves outward show more of the room? What do the toys look like in it?  
-  *Child mode:* Which showed the most toys? What do the toys look like in it?
+  *Child mode:* Put the shiny things in order, from the most toys seen to the fewest. How do the toys look in the best one?
   - Check: The back of the katori showed more of the room than a flat plate, but the toys looked smaller. Why? → **A curve that bulges outward spreads the view over a wider space, so each thing is squeezed smaller**
 
 ## Worksheets

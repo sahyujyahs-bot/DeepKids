@@ -273,7 +273,7 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   *Child mode:* Play the last ten cards. Add up your points.
 - **s5 (4 min)**  
   *Parent does:* Lay out all the cards in order of how long the plant lives. Ask which plants flower only once, and what they have in common.  
-  *Parent says:* Look at the plants that flower only once. Some are short-lived and some wait for decades. What do they have in common?  
+  *Parent says:* Look at the plants that flower only once. Some are short-lived and some wait for decades.  
   *Child mode:* Sort the cards by how long each plant lives. Which plants flower only once?
   - Ask: What do the plants that flower once have in common? (good: They put everything into one big flowering.; They die after making seeds.; Some are small and quick, and some wait a long time.)
   - Note: There is no single right answer about the banana. A banana stem flowers once and the banana clump flowers many times, so a banana can be described either way.
@@ -289,7 +289,7 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   *Child mode:* Lay out the mats. Read the fruit names.
 - **s2 (3 min)**  
   *Parent does:* Play a practice round with banana and grapes. Put each on a mat and give a reason.  
-  *Parent says:* A green banana will turn yellow on the shelf. What about a sour green grape? Which mat does each go on? Why?  
+  *Parent says:* A green banana will turn yellow on the shelf. What about a sour green grape? Which mat does each go on?  
   *Child mode:* Put banana and grapes on mats. Say why.
   - Ask: Why might a grape not ripen more after it is picked? (good: It is picked ripe already.; It does not make the ripening gas.; A grape only ripens on the vine.)
   - Note: Fruit that keep ripening after picking are called climacteric. They make a burst of ethylene as they ripen. Others, such as grapes, are non-climacteric and ripen only on the plant.
@@ -300,8 +300,8 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   - Check: A shopper picks a sour green pineapple, hoping it will sweeten on the shelf. What will probably happen? → **It will stay about as sour, because pineapples do not sweeten after picking**
 - **s4 (3 min)**  
   *Parent does:* Look at the fruit on each mat. Ask what the fruit on the KEEPS RIPENING mat have in common.  
-  *Parent says:* Look at the fruit on the first mat. What do you notice? Which fruit would you put in a bag with a hard mango?  
-  *Child mode:* Look at the fruit on the first mat. What do they have in common?
+  *Parent says:* Look at the fruit on the KEEPS RIPENING mat. Which one would you put in a bag with a hard mango?  
+  *Child mode:* Point to the fruit on the KEEPS RIPENING mat.
   - Note: Many of the fruit that keep ripening are soft and sweet, with a strong smell. Those fruit also give off a lot of ethylene, so they make good helpers in a ripening bag.
   - Think: If you wanted to ripen a hard avocado, which fruit would you put in the bag with it?
 
@@ -311,13 +311,13 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 - **predict:** Before you start, guess. After four days, which mango will be softest: the one in a bag with a ripe banana, the one in a bag alone, or the one left in the open? Why do you think so?
 - **fair test:** The three mangoes are the same kind, the same size and equally hard. They sit in the same warm room, out of the sun. Both bags are the same kind of paper bag, folded shut the same way. Compare A with B to see what the banana does. Compare B with C to see what the bag does. You check at the same time every day, and press with the same thumb.
 - **safety:** A grown-up cuts and checks the mangoes at the end. Wash the mangoes before eating. Mango sap near the stalk can sting the skin and lips, so wash your hands. Do not give mango to anyone who is allergic to it. Do not eat any fruit that smells sour or fizzy, or looks rotten. Keep the banana and mangoes out of reach of pets.
-- **record:** Fill in the table each day. Use the softness scale: 1 is hard as a stone, 2 is firm, 3 gives a little, 4 is soft, 5 is very soft. Draw the three mangoes on the last day, with their colours. Draw a bar chart of the softness on day 4. Also write the first day each fruit showed yellow and the first day it reached 3 (gives a little). The day it first changes is a better measure than the final softness.
+- **record:** Fill in the table each day. Use the softness scale: 1 is hard as a stone, 2 is firm, 3 gives a little, 4 is soft, 5 is very soft. Take a photo of the three mangoes on the last day. Draw a bar chart of the softness on day 4, or say which was softest. Also write the first day each fruit showed yellow and the first day it reached 3 (gives a little). The day it first changes is a better measure than the final softness.
 - **results table:** Day | A: mango with a ripe banana in a bag (colour and softness 1 to 5) | B: mango alone in a bag | C: mango in the open | The banana: still ripe?
 - **schedule:** day 1: Guess. Put mango A with the banana in a bag, mango B in a bag alone and mango C on a plate. Fold the bags shut. (15 min); day 2: Open the bags for a minute. Press each mango and write the colour and softness. (3 min); day 3: Check again. (3 min); day 4: Check again. (3 min); day 5: Check again. (3 min); day 6: Check for the last time. A grown-up cuts the mangoes. Say what you think, what you saw and why. (18 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the mangoes, the banana and the bags. Ask for a guess and a reason. Write the guess in the table.  
   *Parent says:* We will put a hard green mango with a ripe banana in a bag. Another mango goes in a bag alone. A third sits in the open. Which will be softest after four days? Why do you think so?  
-  *Child mode:* There are three mangoes. One shares a bag with a ripe banana. Which will ripen first? Why?
+  *Child mode:* Look at the three mangoes and the ripe banana. Make a guess.
   - Ask: Do you think the mango with the banana will ripen first? Why, or why not? (good: The banana is ripe and gives it something.; The banana is sweet and warms the mango.; The bag keeps the smell in.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guess at the top of the table. Choose the hardest green mangoes you can find. Mangoes that are already turning yellow will not show a clear difference. Who: one child does everything and a parent presses a second time to check. With 2 to 4 children, each child owns one fruit (A, B or C), presses it and says the number out loud, and a different child writes it down. Swap jobs each day. If you have more children than fruit, each pair can run its own A, B and C with cheap green bananas.
 - **s2 (10 min)**  
@@ -333,7 +333,7 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   - Note: On the first day or two, you will probably see little change. By day 3 or 4 mango A is often a little softer and yellower. The gap may be one or two days. If all three look the same, write that down. It can mean the mangoes were already ripening, or the room was cool. If all three still look the same on day 6, do not give up: carry on checking until day 8. A hard, sour raw mango can need a week or more to soften, and that is why green bananas or a mango with a yellow tinge at the stalk work better. A flat result is still a result: write it down and say what you would change.
   - Wait: Check each day for four days, about 3 minutes
 - **s4 (10 min) · grown-up needed**  
-  *Parent does:* 1. On day 6, check all three mangoes for the last time. 2. Line them up. 3. Draw them. 4. A grown-up cuts each one open and compares the flesh. 5. Draw a bar chart of the softness on day 4.  
+  *Parent does:* 1. On day 6, check all three mangoes for the last time. 2. Line them up. 3. Take a photo of them. 4. A grown-up cuts each one open and compares the flesh. 5. Draw a bar chart of the softness on day 4, or say which was softest.  
   *Parent says:* Look at the three mangoes side by side. Which is softest? Which is yellowest? Which is still hard? Is that what you guessed?  
   *Child mode:* Line up the mangoes. Which is softest? A grown-up cuts them open.
   - Ask: The banana never touched the mango. How could it change the mango? (good: Something goes from the banana to the mango.; A smell or a gas.; The bag keeps the banana's air close to the mango.)
@@ -349,7 +349,7 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 - **predict:** Before you start, guess. By day 6, which leaves will be yellowest: the ones in the light, the ones in the dark, or the ones in the dark with a ripe banana? Why do you think so?
 - **fair test:** All three bunches have the same kind of leaves, the same number of leaves, the same size glass and the same water. Both boxes are the same kind of box with a loose lid. Compare the dark box with the light shelf to see the effect of darkness. Compare the two dark boxes to see the effect of the banana.
 - **safety:** Do not eat the leaves from this test. Throw away any leaves that smell bad. Wash your hands afterwards. Keep the lids on, because a ripe banana in a box can attract fruit flies. Do not tape the boxes airtight.
-- **record:** Fill in the table with the colour of each bunch on each day, using the colour scale. Draw one leaf from each bunch on the last day, coloured as you see it.
+- **record:** Fill in the table with the colour of each bunch on each day, using the colour scale. Take a photo of one leaf from each bunch on the last day, side by side.
 - **results table:** Day | A: in the light (colour 1 to 5) | B: dark box with a ripe banana | C: dark box with no banana | Notes: smell, softness
 - **schedule:** day 1: Guess. Make three bunches. Put bunch A on a bright shelf, bunch B with the banana in a dark box and bunch C in a dark box alone. (14 min); day 3: Take a quick look at all three and write the colours. (3 min); day 4: Look again. (3 min); day 5: Look again. (3 min); day 6: Look at the leaves for the last time. Say what you think, what you saw and why. (13 min)
 - **s1 (4 min)**  
@@ -371,8 +371,8 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   - Note: Palak and coriander often start to yellow after about three to five days in the dark, but this depends on the warmth. Cut leaves in water may also go limp or slimy before they turn yellow, especially in hot, humid weather. Score a slimy leaf as 5 and write 'slimy' in the notes. If all three still look the same on day 6, keep looking until day 8. If they still look the same, write that down: it is a real result.
   - Wait: Check on days 3, 4 and 5, about 3 minutes each
 - **s4 (8 min)**  
-  *Parent does:* On day 6, take a leaf from each bunch and lay them side by side. Match each to the colour scale. Draw them. Draw a bar chart of the colour numbers.  
-  *Parent says:* Look at the three leaves. Which is greenest? Which is yellowest? What do you think happened to the green?  
+  *Parent does:* On day 6, take a leaf from each bunch and lay them side by side. Match each to the colour scale. Take a photo of the three leaves side by side. Write the three colour numbers in a row.  
+  *Parent says:* Look at the three leaves. Which is greenest? Which is yellowest?  
   *Child mode:* Lay one leaf from each bunch side by side. Which is yellowest?
   - Ask: What do you think happened to the green in the yellow leaves? (good: It was taken apart.; The leaf stopped making green.; The plant took the useful parts back.)
   - Note: The green is chlorophyll. When a leaf starts to age, the plant takes the chlorophyll apart and moves out the nitrogen. The yellow was in the leaf all along and shows once the green goes. A leaf cut from the plant cannot send the nitrogen anywhere, but the ageing still starts.
@@ -387,13 +387,13 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 - **predict:** Before you start, guess. Which cuttings will grow roots: the ones with a node and a leaf, the ones with a node and no leaf, or the ones with no node? Why do you think so?
 - **fair test:** All nine cuttings come from the same vine and are about the same length (cuttings A and B are about 8 centimetres; C is as long as the gap between two nodes allows, at least 4 centimetres, and you write its length down). All three jars have the same water, in the same bright place, out of hot sun. The only difference between the jars is whether the cuttings have a node and a leaf.
 - **safety:** A grown-up does the cutting with scissors. Money plant sap can irritate skin and is harmful if eaten, so wash your hands after touching the cut stems. Keep the jars away from pets and small children.
-- **record:** Fill in the table on each day. Draw one cutting from each jar on day 15 and mark where the roots are. Write the length in millimetres of the longest root on each cutting.
+- **record:** Fill in the table on each day. Draw or photograph one cutting from each jar on day 15 and mark where the roots are. Write the length in millimetres of the longest root on each cutting.
 - **results table:** Day | Jar A: node and leaf (roots, length in mm) | Jar B: node, no leaf | Jar C: no node | Notes: colour, smell
 - **schedule:** day 1: Guess. A grown-up cuts nine pieces. Set up three jars. (22 min); day 5: Look for roots and write what you see. (3 min); day 8: Look again. (3 min); day 11: Look again. (3 min); day 15: Measure the roots. Draw the jars. Say what you think, what you saw and why. (13 min)
 - **s1 (4 min)**  
   *Parent does:* Show your child the vine. Point to a node, a small bump on the stem where a leaf joins, and to the small brown root stubs there. Ask for a guess and a reason. Write it in the table.  
-  *Parent says:* A node is a bump on the stem where a leaf joins. We will cut the vine into pieces and put them in water. Which will grow roots? Where will they come from? Why do you think so?  
-  *Child mode:* Find a node on the vine. Which cuttings will grow roots? Why?
+  *Parent says:* A node is a bump on the stem where a leaf joins. We will cut the vine into pieces and put them in water. Which will grow roots? Why do you think so?  
+  *Child mode:* Find a node on the vine and point to it.
   - Ask: Where on the stem do you think the roots will come from? (good: From the node, where the leaf joins.; From the cut end.; From anywhere on the stem.)
   - Note: Do not correct the guess. Note that a money plant already has small aerial roots at the nodes. That is a clue your child might notice.
 - **s2 (12 min) · grown-up needed**  
@@ -414,9 +414,9 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   - Note: Roots often appear at the nodes in about one to two weeks, and more slowly in cool winter weather, when it may take three weeks. Cuttings with a leaf are often a little quicker. The cuttings with no node usually grow nothing and may go soft at the cut. If nothing has rooted by day 11, give it up to ten more days and keep topping up the water.
   - Wait: Check on days 5, 8 and 11, about 3 minutes each
 - **s5 (8 min)**  
-  *Parent does:* On day 15, take out the cuttings from each jar. Measure the longest root on each. Write down the numbers. Draw one cutting from each jar and mark where the roots came from.  
-  *Parent says:* Look at the cuttings. Where did the roots come from? Which jar has the longest roots? Which has none?  
-  *Child mode:* Measure the roots on each cutting. Draw one from each jar.
+  *Parent does:* On day 15, take out the cuttings from each jar. Measure the longest root on each. Write down the numbers. Draw one cutting from each jar and mark where the roots came from, or take a photo and point to the roots.  
+  *Parent says:* Look at the cuttings. Which jar has the longest roots? Which has none?  
+  *Child mode:* Measure the roots on each cutting. Draw one from each jar, or photograph it.
   - Ask: Where did the roots grow? (good: At the nodes.; Not from the plain stem.; More roots came from the cutting with a leaf.)
   - Note: Roots grow from the nodes, where the plant keeps cells that can become roots. A leaf makes food and a growth hormone called auxin, which flows to the cut end and helps roots start. So the cuttings with a leaf usually grow more roots, sooner.
 - **s6 (5 min)**  
@@ -430,13 +430,13 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 - **predict:** Before you start, guess. After six days, which tomato will be reddest, and which will be greenest? Why do you think so? What will happen to the fridge tomato if you take it out?
 - **fair test:** All three tomatoes are the same kind, the same size and equally green. Each one sits in a paper bag, folded shut the same way. Only the place is different. You check at the same time each day.
 - **safety:** Do not eat a tomato that smells sour or looks rotten. Wash your hands after touching the tomatoes. Write 'science, do not eat' on the fridge bag, so nobody cooks it by mistake.
-- **record:** Fill in the table each time you check. Write the temperature of each place if you can. Draw the three tomatoes on day 6 and again on day 12.
+- **record:** Fill in the table each time you check. Write the temperature of each place if you can. Take a photo of the three tomatoes on day 6 and again on day 12.
 - **results table:** Day | Warm shelf: colour 1 to 5 (1 is green, 5 is red) | Window: colour 1 to 5 | Fridge: colour 1 to 5 | Notes: softness, smell, marks
 - **schedule:** day 1: Guess. Put one tomato in a bag on a warm shelf, one in a bag on a bright windowsill and one in a bag in the fridge. (12 min); day 3: Check the colour and softness. (3 min); day 5: Check again. (3 min); day 6: Take the fridge tomato out and put it on the warm shelf. Compare. (6 min); day 9: Check again. (3 min); day 12: Check for the last time. Say what you think, what you saw and why. (10 min)
 - **s1 (4 min)**  
   *Parent does:* Show your child the tomatoes and the three places. Ask for a guess and a reason. Write it in the table.  
   *Parent says:* We will put three green tomatoes in three places. One goes on a warm shelf. One goes on a window. One goes in the fridge. Which will be red first? Why do you think so?  
-  *Child mode:* There are three tomatoes in three places. Which will ripen first? Why?
+  *Child mode:* Look at the three tomatoes and the three places. Make a guess.
   - Ask: Why do you think the fridge tomato will ripen slowly, or not at all? (good: It is too cold for it to change.; Cold stops things from working.; A fridge is dark.)
   - Note: Do not correct the guess. Many children think the window will be best because of the sun. Write down their reason. Who: one child does everything. With 2 to 4 children, each child owns one place and one bag. All the children guess first, then each one checks and scores their own bag. The writer rotates.
 - **s2 (8 min)**  
@@ -452,8 +452,8 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   - Note: In a warm room (25 to 30 degrees) a mature green tomato typically starts to turn pink in about four to eight days. It is slower in a cool room. The window tomato may be a little quicker or slower, depending on the warmth. The fridge tomato usually stays green and firm. Do not promise a red tomato by day 6. If nothing has changed on any tomato, wait: the later checks will show it.
   - Wait: Check on days 3 and 5, about 3 minutes each
 - **s4 (6 min)**  
-  *Parent does:* On day 6: 1. Take the fridge tomato out of the fridge. 2. Put it on the warm shelf, in its bag. 3. Compare all three tomatoes. 4. Draw them.  
-  *Parent says:* The fridge tomato has been cold for six days. Let's warm it up. Will it ripen now? Will it ripen as well as the others?  
+  *Parent does:* On day 6: 1. Take the fridge tomato out of the fridge. 2. Put it on the warm shelf, in its bag. 3. Compare all three tomatoes. 4. Take a photo of them.  
+  *Parent says:* The fridge tomato has been cold for six days. Let's warm it up.  
   *Child mode:* Take the fridge tomato out. Put it on the warm shelf. Compare all three.
   - Ask: What do you think will happen to the fridge tomato now? (good: It will start to ripen slowly.; It will ripen as well as the others.; It might go soft and pale without turning red.)
   - Note: A tomato that has been cold for days often ripens slowly and patchy after warming, and may stay pale or go mealy. Cold can damage fruit from warm places. That is why ripening fruit is best kept out of the fridge.
@@ -464,7 +464,7 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   - Note: Let a grown-up cut the tomatoes. Look at the colour and the feel of the flesh. A tomato damaged by cold can look watery or mealy inside.
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
-  *Parent says:* What do you think about where fruit ripen best? What did you see? Why do you think it happened?  
+  *Parent says:* What do you think about where tomatoes ripen best? What did you see? Why do you think it happened?  
   *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
   - Note: A good answer sounds like this. What I think: fruit ripen best in a warm place and not in the fridge. What I saw: the shelf tomato turned pink first, the window tomato was a little behind or ahead, and the fridge tomato stayed green. After warming, it ripened slowly or in patches. Your days and colours will differ. Why: ripening is chemistry, and chemistry runs slowly in the cold. A long spell in the cold can also damage a fruit from a warm place. A ripe fruit can go in the fridge to slow it down.
   - Think: If you want to keep a ripe mango for another day, where would you put it?
@@ -472,12 +472,12 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 ## Activities
 ### a1 · The Sleeping Pantry: which kitchen foods are a plant's savings? (33 min, 10 days)
 - **safety:** A grown-up cuts the tops and pushes in the toothpicks, which are sharp. Do not eat potatoes that have turned green or sprouted, because they can make you ill. Do not eat any of the foods from this activity after they have sat in water for days. If a food smells bad or grows fuzzy mould, throw it away, wash the saucer and write 'rotted' in the table. Wash your hands afterwards.
-- **record:** A table with six foods. For each one, write your guess, the day a shoot or root first showed, and the longest shoot on day 10. Draw the three that grew the most.
+- **record:** A table with six foods. For each one, write your guess, the day a shoot or root first showed, and the longest shoot on day 10. Take a photo of the three that grew the most.
 - **schedule:** day 1: Guess. A grown-up cuts the tops. Set out all six foods. (14 min); day 4: Look at the foods and measure any shoots. (3 min); day 7: Look again. (3 min); day 10: Measure the shoots. Draw them. Say what you think, what you saw and why. (13 min)
 - **s1 (4 min)**  
   *Parent does:* Show your child the six foods. Ask which parts of the plant they are and which ones will sprout. Write the guesses in the table.  
   *Parent says:* Each of these foods is a store of food. A plant saved it for later. Which ones do you think will grow green shoots? Why do you think so?  
-  *Child mode:* Here are six foods from the kitchen. Which will grow shoots? Why?
+  *Child mode:* Look at the six foods from the kitchen. Make a guess for each one.
   - Ask: Which part of a plant do you think a carrot is, a root, a stem or a leaf? (good: A root.; A stem.; I am not sure.)
   - Note: Do not correct the guess. A carrot and a beetroot are swollen roots. An onion is a bulb, made of thick leaf bases on a tiny stem. A potato is a swollen underground stem. A sweet potato is a swollen root, and ginger is a rhizome, a thick underground stem. Who: one child sets out all six. With 2 to 4 children, each child takes two or three foods and guesses for them, then they compare. The cost is small: all six foods are a few rupees at a kirana.
 - **s2 (10 min) · grown-up needed**  
@@ -493,9 +493,9 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   - Note: Onion usually grows roots in two or three days, and a green shoot soon after. Carrot and beetroot tops make leaves in a week. Sweet potato makes leafy shoots in one to two weeks.
   - Wait: Check on days 4 and 7, about 3 minutes each
 - **s4 (8 min)**  
-  *Parent does:* On day 10: 1. Measure the longest shoot on each food. 2. Draw the three that grew the most. 3. Sort the foods into those that grew shoots and those that did not.  
+  *Parent does:* On day 10: 1. Measure the longest shoot on each food. 2. Line up the three that grew the most and take a photo. 3. Sort the foods into those that grew shoots and those that did not.  
   *Parent says:* Which foods grew shoots? How long are they? Are the shoots green? How do they get their food?  
-  *Child mode:* Measure the longest shoot on each food. Draw the three that grew the most.
+  *Child mode:* Measure the longest shoot on each food. Line up the three that grew the most.
   - Ask: The carrot top grew leaves. Will the carrot top grow a new carrot? (good: No, the top will just grow leaves.; It has no new root to store food.; The leaves live on the old carrot.)
   - Note: The leaves are using the food stored in the carrot top. They cannot make a new carrot, because a carrot is a store, not a seed. The foods that did not sprout may have been treated, or been too old. Write that down.
 - **s5 (5 min)**  
@@ -506,23 +506,23 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   - Think: We eat these stores. What would a carrot plant do if we did not?
 ### a2 · Spore Print: the dust under a fern leaf (22 min, 2 days)
 - **safety:** Ask the owner before you cut a frond. Do not blow on the spores or breathe them in. Wash your hands afterwards.
-- **record:** Draw the underside of the frond with its rows of dots, and the print the frond left on the paper. Write what the dust looks like.
+- **record:** Draw the underside of the frond with its rows of dots, and the print the frond left on the paper, or photograph them. Write what the dust looks like.
 - **schedule:** day 1: Guess. Find a frond with brown dots. Lay it dots-down on white paper under a bowl. (11 min); day 2: Lift the frond. Look at the print and the dots. (11 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child a fern. Ask what the plant does instead of making flowers and seeds. Write down the guess.  
-  *Parent says:* A fern never makes flowers or seeds. Yet new ferns appear. How do you think ferns make new ferns? Why do you think so?  
-  *Child mode:* A fern has no flowers or seeds. How do you think ferns make new ferns?
+  *Parent says:* A fern never makes flowers or seeds. Yet new ferns appear. We will look for how.  
+  *Child mode:* Look at the fern. Do you see any flowers or seeds?
   - Ask: How do you think a fern makes new ferns? (good: Maybe with seeds too small to see.; From pieces of the plant.; From dust under the leaves.)
   - Note: Do not correct the guess. For hundreds of years, people believed that ferns had invisible seeds. Your child may guess something close to this.
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* 1. Find a frond with brown dots on the back. 2. A grown-up cuts it off with scissors. 3. Lay it dots-down on white paper. 4. Cover it with a bowl. 5. Leave it overnight, away from drafts.  
   *Parent says:* These brown dots are spore cases. When they are ripe, they let go of a fine dust. We will catch the dust on paper.  
-  *Child mode:* Cut a frond with dots on the back. Lay it dots-down on white paper. Cover it with a bowl.
+  *Child mode:* A grown-up cuts a frond with dots on the back. Lay it dots-down on white paper. Cover it with a bowl.
   - Note: The dots must be dark brown or black to be ripe. Pale green dots are not ripe yet. Not every fern has dots on every frond. Some, such as many ferns in pots, make dots only when they are mature. If you find no dots, try another fern.
 - **s3 (6 min)**  
-  *Parent does:* The next day: 1. Lift the bowl and the frond carefully. 2. Look at the dust on the paper. 3. Look at it with a magnifying glass. 4. Draw it.  
+  *Parent does:* The next day: 1. Lift the bowl and the frond carefully. 2. Look at the dust on the paper. 3. Look at it with a magnifying glass. 4. Ask your child what the dust looks like.  
   *Parent says:* The paper has a pattern. What do you see? What colour is the dust? Does it look like seeds? Look closely.  
-  *Child mode:* Lift the frond. Look at the dust on the paper. Draw what you see.
+  *Child mode:* Lift the frond. Look at the dust on the paper. Say what it looks like.
   - Note: The dust is a very fine powder, orange-brown or dark brown, in the shape of the frond. It is made of millions of spores. Each is much smaller than a seed. Do not blow on it, and wash your hands. If the paper stays clean after a day, the dots were not ripe. Leave the frond one more day, or try a darker-dotted frond. A pale or tiny print is normal. A print is not guaranteed, so also draw the dots you saw. Who: one frond serves 1 to 4 children, who take turns lifting it and each draw the print. If you find two fronds, two children can each make a print and compare.
   - Check: The dust on the paper is a fern's spores. How are spores different from seeds? → **A spore is a single tiny cell, with no store of food**
   - Wait: Leave overnight
@@ -537,7 +537,7 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 - **safety:** Handle a real log with care because it can give splinters. A grown-up at a carpenter's or tree-cutting site does any cutting. Do not saw it yourself.
 - **record:** Draw the rings of tree A on paper using 5 millimetres of paper for each millimetre of ring, so the widest 6 millimetre ring is a 30 millimetre bar. Mark the narrow rings. Write the two driest years. Write the year the log's last ring was formed.
 - **s1 (5 min)**  
-  *Parent does:* If you have a real log or branch, show it. Count the rings and ask what each ring might mean. Otherwise, draw a circle with several rings and ask the same.  
+  *Parent does:* If you have a real log or branch, show it. Count the rings and ask what each ring might mean. Otherwise, show a photo of a cut tree stump and ask the same.  
   *Parent says:* This is a slice of a tree. Do you see the rings? What do you think each ring means? Why do some rings look wider than others?  
   *Child mode:* Look at the rings. What does each ring mean? Why are some wider?
   - Ask: Why might one ring be wider than the next? (good: The tree grew more that year.; There was more rain.; It was a good year.)
@@ -548,9 +548,9 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   *Child mode:* Draw tree A's rings from the numbers. Circle the two narrowest rings.
   - Note: The widths for tree A, from 2012 to 2023, are 4, 5, 3, 6, 1, 4, 5, 5, 2, 6, 4 and 5. The two narrowest are 2016 with 1 millimetre and 2020 with 2 millimetres. These were the driest years.
 - **s3 (7 min)**  
-  *Parent does:* 1. Tree B was planted in 2016. Its ring widths for 2016 to 2023 are 1, 3, 4, 4, 1, 5, 3, 4. 2. Draw tree B's strip. 3. Compare it with tree A. 4. Which years are narrow in both?  
+  *Parent does:* 1. Tree B was planted in 2016. Its ring widths for 2016 to 2023 are 1, 3, 4, 4, 1, 5, 3, 4. 2. Write tree B's numbers under the matching years on tree A's strip. 3. Compare the two trees. 4. Which years are narrow in both?  
   *Parent says:* Tree B is a different tree in the same place. Does it have narrow rings in the same years as tree A? What does that tell you about those years?  
-  *Child mode:* Draw tree B's rings. Are the same years narrow in both trees?
+  *Child mode:* Write tree B's numbers under the matching years on tree A's strip.
   - Note: Tree B's ring for 2016 is 1 and for 2020 is 1. They match tree A's two narrow years. This agreement is how scientists tell that the weather was the cause.
   - Check: Two trees in the same region both have a narrow ring in the same year. What is the best explanation? → **The weather that year was poor for all trees, such as a drought**
 - **s4 (5 min)**  
@@ -564,20 +564,20 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 - **record:** Write a table with the plants, their lifespans in years and their length on the tape in millimetres. Photograph or draw the strip.
 - **s1 (3 min)**  
   *Parent does:* Show your child the list of plants. Ask which will be the longest on the strip and which the shortest. Write the guesses.  
-  *Parent says:* We will make a strip where one millimetre is one year. How long do you think the strip for a moong plant will be? How long for the oldest tree? Why do you think so?  
-  *Child mode:* One millimetre is one year. How long will the strip for a moong plant be? For a tree?
+  *Parent says:* We will make a strip where one millimetre is one year. We will mark how long each plant lives.  
+  *Child mode:* Look at the list of plants. Point to the one you think will be longest on the strip.
   - Ask: How long do you think the moong plant's strip will be? (good: A tiny dot.; A few centimetres.; As long as my finger.)
   - Note: Do not correct the guess. Most children guess far too long for a moong plant. The answer, about 3 months, is a quarter of one millimetre.
 - **s2 (12 min)**  
   *Parent does:* 1. Tape sheets into a strip about 5 metres long. 2. Mark a 'start' line. 3. Measure and mark each plant: moong 0.25 millimetres, which is a dot. Papaya 4 millimetres. Coconut palm 70 millimetres. Mango tree 100 millimetres. Great Banyan 250 millimetres. Peepal 2,300 millimetres. Bristlecone pine 4,800 millimetres. 4. Write the plant's name at each mark.  
-  *Parent says:* One millimetre is one year. A moong plant lives about three months. That is a quarter of a millimetre, less than the tip of a pencil. A bristlecone pine is 4,800 millimetres. How long is that?  
+  *Parent says:* One millimetre is one year. A moong plant lives about three months. That is a quarter of a millimetre, less than the tip of a pencil. A bristlecone pine is 4,800 millimetres. How many metres is that?  
   *Child mode:* Make a strip. One millimetre is one year. Mark each plant at the right length.
   - Note: 4,800 millimetres is 480 centimetres, which is 4 metres and 80 centimetres. The peepal's 2,300 millimetres is 2 metres 30 centimetres. The numbers for the trees are reported and rounded. A coconut palm is given a lifespan of about 70 years, and the Great Banyan is said to be about 250 years old. A moong plant, at about 3 months, is a quarter of a millimetre, which is a speck of a dot. Who: one child can do it alone, but it is faster with 2 to 4: one measures with the tailor's tape, one marks, one writes the names, one checks the numbers. A metre stick or tailor's tape saves a lot of time. For a quick version, use chalk on the floor and skip the taping. All the tree ages here are reported or about, not exact.
   - Check: On the tape, a mango tree that lives 100 years is 100 millimetres long. How many centimetres is that? → **10 centimetres**
 - **s3 (6 min)**  
   *Parent does:* Walk along the strip together. Stop at each plant. Ask what surprised your child.  
   *Parent says:* Walk along the strip. Which plant is so short that you can hardly see it? Which plant is the longest? A moong plant lives a quarter of a year. How many moong lifetimes would fit in one year?  
-  *Child mode:* Walk along the strip. Which plant is the longest? Which can you hardly see?
+  *Child mode:* Walk along the strip with your grown-up. Stop at each plant.
   - Ask: Which plants are tiny on the strip, and which is very long? What does that show about how long plants live? (good: The moong is a tiny dot.; The bristlecone pine is so long.; Most plants are very short compared with the pine.)
 - **s4 (4 min)**  
   *Parent does:* Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.  
@@ -594,11 +594,11 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 - **s1 (5 min)**  
   *Parent does:* Show your child the seedlings. Explain that three plants will have their old flowers pinched off and three will not. Ask for a guess and a reason. Write it down.  
   *Parent says:* Marigolds flower for a long time. We will pinch the old flowers off three plants. The other three keep their flowers to make seeds. After eight weeks, which group will have more flowers? Why do you think so?  
-  *Child mode:* Pinch three plants. Leave three alone. Which group flowers more? Why?
+  *Child mode:* Look at the six seedlings. Three will be pinched and three left alone.
   - Ask: Why might pinching off old flowers make a plant flower longer? (good: The plant tries again to make seeds.; The plant has more energy for new flowers.; The plant does not waste food on seeds.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Gardeners call pinching off old flowers deadheading. The best months to start are October to January. In peak summer heat or a heavy monsoon, seedlings struggle. Nurseries often sell marigolds already in bud, which gives flowers sooner.
 - **s2 (15 min)**  
-  *Parent does:* 1. Fill six pots with soil. 2. Plant one seedling in each pot, at the same depth as the seedling was before. 3. Water well. 4. Label three P1, P2 and P3 and three L1, L2 and L3. 5. Put all six pots side by side in the sun.  
+  *Parent does:* 1. Fill six pots with soil. 2. Plant one seedling in each pot, at the same depth as the seedling was before. 3. Water well. 4. Label three pots Pinch (P1, P2, P3) and three Let Go (L1, L2, L3). 5. Put all six pots side by side in the sun.  
   *Parent says:* Plant all six the same way. Same soil, same sun, same water. Only the pinching will be different. Put the labels on the pots, not on the plants.  
   *Child mode:* Plant six seedlings the same way. Label three Pinch and three Let Go. Put them in the sun.
   - Note: Pick seedlings of the same size and health. Water every day or two, so the soil is damp but not soggy. Keep the pots where they get at least five hours of direct sun. Marigolds like heat.
@@ -610,7 +610,7 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
   - Note: Count only the open, fresh flowers, not the buds or the dry ones. Expect no flowers in the first week or two, because the seedlings are small. If a plant dies, say so in your notes and carry on with the rest. Pinching means taking off the whole flower head just above the first leaf. Wash your hands afterwards. Who: one child can look after all six pots. With 2 to 4 children, one child looks after the Pinch pots and another the Let Go pots, and they swap and count each other's plants, so the counts are fair. Three plants in a group is a small sample: if there is no clear difference, say so.
   - Wait: Every week for 7 weeks, about 5 minutes
 - **s4 (12 min)**  
-  *Parent does:* 1. At week eight, count the open flowers on each plant for the last time. 2. Add up the flowers for each group, week by week. 3. Draw a line graph with a line for each group. 4. Collect the dry seed heads from the Let Go plants and open one.  
+  *Parent does:* 1. At week eight, count the open flowers on each plant for the last time. 2. Add up the flowers for each group, week by week. 3. Draw a line graph with a line for each group, or write the totals side by side. 4. Collect the dry seed heads from the Let Go plants and open one.  
   *Parent says:* Add up the flowers for each group. Which group had more? Look at the dry seed heads. What is inside?  
   *Child mode:* Add up the flowers. Draw the graph. Open a dry seed head.
   - Ask: What do you notice about the two groups? (good: The Pinch group has more flowers.; The Let Go plants have dry seed heads.; They look about the same.)
@@ -626,14 +626,14 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 ### c1 · Ripe on Time: have a mango ready for a family dinner (40 min)
 - **problem:** Your family is having a dinner in four days. You need one hard green mango to be soft and ripe on that day, no sooner and no later. Design the best way to ripen it, using only things from the kitchen.
 - **safety:** A grown-up cuts and checks the mangoes at the end. Wash the mangoes before eating. Do not give mango to anyone who is allergic to it. Mango sap can sting the skin. Do not eat any fruit that smells sour or looks rotten. Do not use carbide to ripen fruit. It is dangerous, and it is not allowed.
-- **your turn:** Now invent your own plan. Draw it, build it and press the mango each day. Did your mango get ripe on dinner day? What would you change?
+- **your turn:** Now invent your own plan. Plan it, build it and press the mango each day. Did your mango get ripe on dinner day? What would you change?
 - **constraints:** Use one hard green mango for each design. All the mangoes must be the same kind and size.; Use only ripe bananas or other ripe fruit, paper bags or boxes, cloth, newspaper, uncooked rice and a plate. No heater, stove, carbide or sealed plastic bag.; Every design must be opened for fresh air at least once a day.; On the dinner day, press each mango. The one closest to a soft, ripe mango, but not too mushy, is the winner.
 - **general:** A paper bag with one ripe banana, opened once a day.; A cardboard box with a loose cloth lid and a ripe banana, opened once a day.; A basket of rice with the mango buried halfway and a cloth over the top.
 - **creative:** Two ripe bananas in a bag with the mango, to make the gas stronger.; A layer of newspaper around the mango inside a box, so the warmth and gas stay close.; A ripe apple instead of a banana, since an apple also gives off a lot of ethylene.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. Look at the usual designs and the creative ones. Ask your child to draw two or three plans.  
-  *Parent says:* You have four days to ripen one mango. What do you need to make fruit ripen? What do you need to avoid? Draw some ideas first.  
-  *Child mode:* Draw two or three ways to ripen the mango in four days.
+  *Parent does:* Read the problem together. Look at the usual designs and the creative ones. Ask your child to plan two or three ways, by laying out kitchen things or by telling you.  
+  *Parent says:* You have four days to ripen one mango. Think about what makes fruit ripen, and what you must avoid. Show me some ideas first.  
+  *Child mode:* Show two or three ways to ripen the mango in four days.
   - Ask: What do you know about how fruit ripen? (good: A ripe fruit makes a gas.; Warmth helps.; The fruit also needs fresh air.)
   - Note: Who: one child builds two or three designs and compares them. With 2 to 4 children, each child invents one design and owns one mango, and the whole group presses all the mangoes each day. Honest warning: a very hard, sour raw mango can need a week to soften, so four days may not be enough. A mango with a yellow tinge is more likely to be ripe in four days. If none is ready, that is a result. Say what you would change.
 - **s2 (16 min)**  
@@ -652,14 +652,14 @@ That night, Anjana sat with Ammamma on the doorstep. 'So the rice was doing the 
 ### c2 · Keep the Greens Green: store coriander for a week (40 min)
 - **problem:** A bunch of coriander goes yellow and slimy in the fridge within days. Design the best way to keep four bunches fresh and green for seven days.
 - **safety:** Do not eat coriander that has turned slimy or smells bad. Wash your hands afterwards. Wash coriander well before you eat any.
-- **your turn:** Now invent your own way to store coriander. Draw it, set it up and rate it on day 7. Which design kept the coriander greenest? Why do you think it worked?
+- **your turn:** Now invent your own way to store coriander. Plan it, set it up and rate it on day 7. Which design kept the coriander greenest? Why do you think it worked?
 - **constraints:** Use bunches of coriander of the same kind, size and freshness.; Use only things from the kitchen: boxes, jars, bags, cloth, paper towels, water.; No freezer, and no store-bought chemicals.; On day 7, rate each bunch from 1 for fresh green to 5 for yellow or slimy, and count the yellow or slimy leaves out of 10 leaves taken at random.
 - **general:** Stand the stems in a jar of water and cover the leaves loosely with a bag.; Wrap the bunch in a damp paper towel and put it in a box with a loose lid.; Keep the bunch away from ripe fruit such as bananas and mangoes.
 - **creative:** Wrap the bunch in a dry cloth, and put it in a jar of water, in the fridge.; Trim the stems fresh every two days, and take away any yellow leaves.; Put the bunch in the fridge in a box with a small hole, so the gas can leave.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. Look at the usual designs and the creative ones. Ask your child to sketch two or three plans.  
-  *Parent says:* Coriander goes yellow in days. What makes a leaf age? What helps a leaf stay fresh? Draw some ideas first.  
-  *Child mode:* Draw two or three ways to keep coriander green for a week.
+  *Parent does:* Read the problem together. Look at the usual designs and the creative ones. Ask your child to plan two or three ways, by laying out the things or by telling you.  
+  *Parent says:* Coriander goes yellow in days. What helps a leaf stay fresh? Show me some ideas first.  
+  *Child mode:* Show two or three ways to keep coriander green for a week.
   - Ask: What makes leaves turn yellow? (good: Being in the dark.; Ripe fruit nearby.; Drying out.)
   - Note: Who: one child sets up four designs. With 2 to 4 children, each child invents one design and keeps a bunch, and all rate all bunches on day 7. Coriander costs a few rupees a bunch. Choose bunches that look as alike as you can.
 - **s2 (16 min)**  

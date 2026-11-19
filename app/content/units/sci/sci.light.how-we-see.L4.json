@@ -1415,7 +1415,7 @@
         }
       ],
       "safety": "A grown-up makes the holes, because a hole punch or a pencil point can slip. Never look at the Sun through the holes or the straws.",
-      "record": "Fill in the table. Draw the three cards in a row with the torch and the spot of light. Draw them again with the middle card moved, and draw where the light stops.",
+      "record": "Fill in the table. Take a photo of the spot with the three cards in a row, and another with the middle card moved. Or draw what happened.",
       "context": "In this experiment, you stand three cards with holes in a row and shine a torch through them. You find out whether the light goes in a straight line or can go round a corner.",
       "setup": [
         {
@@ -1445,7 +1445,7 @@
           "mins": 3,
           "do": "Show your child the cards, the torch and the clay. Ask for a guess and a reason. Write the guess at the top of the table.",
           "say": "We will shine a torch through three cards with holes. Then we will slide the middle card a little to the side. What will happen to the light on the wall? Why do you think so?",
-          "kid": "A torch will shine through three holes. You will slide the middle card sideways. What will happen to the light? Why?",
+          "kid": "Look at the cards and the torch. Guess what the light will do, and say why.",
           "ask": [
             {
               "q": "What do you think will happen to the spot when the middle card is moved a little?",
@@ -1615,7 +1615,7 @@
         }
       ],
       "safety": "Use blunt pencils and keep the tips well away from faces and eyes. Move the pencils slowly, and keep the nearest pencil at least a hand-span from the nose. A grown-up stays close by.",
-      "record": "Fill in the table. Count the pencil tips that touched with both eyes and with one eye, and draw a bar chart with one bar for each. Write how many centimetres the jump changed as the pencil got nearer.",
+      "record": "Fill in the table. Count the pencil tips that touched with both eyes and with one eye. Build a tower of coins for each, one coin for each touch, and compare the two towers. Write how many centimetres the jump changed as the pencil got nearer.",
       "context": "In this experiment, you swap eyes while holding a pencil at three distances, and measure how far it seems to jump against a strip on the wall. Then you try to touch two pencil tips together with one eye and with two.",
       "setup": [
         {
@@ -1641,7 +1641,7 @@
           "mins": 3,
           "do": "Show your child the strip, the pencils and the chair. Ask for a guess and a reason for each question. Write the guesses at the top of the table.",
           "say": "We will hold a pencil in front of a strip on the wall and swap eyes. Does a close pencil jump more or less than a far pencil? And is it harder to touch two pencils with one eye? Why do you think so?",
-          "kid": "You will swap eyes while holding a pencil in front of a wall. Does a close pencil jump more or less than a far one? Why do you think so?",
+          "kid": "Look at the strip and the pencils. Guess which jumps more, and say why.",
           "ask": [
             {
               "q": "What do you think will happen to the pencil when you swap eyes?",
@@ -1817,7 +1817,7 @@
         }
       ],
       "safety": "Never point the lens at the Sun. A lens can focus sunlight into a tiny hot spot that can burn skin, damage eyes and set paper alight. Use a window that does not show the Sun, or a lamp.",
-      "record": "Fill in the table. Draw the picture of the window that you saw on the card, and mark which way up it is.",
+      "record": "Fill in the table. Take a photo of the picture on the card, or draw it. Write whether it was the right way up or upside down.",
       "context": "In this experiment, you use a magnifying glass to make a picture of a window on a white card. You find out which way up the picture is, and how the sharp place moves.",
       "setup": [
         {
@@ -1843,7 +1843,7 @@
           "mins": 4,
           "do": "Show your child the lens, the card and the window. Ask for a guess and a reason. Write the guess at the top of the table.",
           "say": "We will hold a magnifying glass between a bright window and a white card. What do you think we will see on the card? Will it be upside down? Why do you think so?",
-          "kid": "You will hold a lens between a window and a card. What will you see on the card? Why do you think so?",
+          "kid": "Look at the lens and the card. Guess what the card will show, and say why.",
           "ask": [
             {
               "q": "Which way up do you think the picture will be?",
@@ -1935,8 +1935,8 @@
           "id": "s5",
           "mins": 3,
           "do": "Ask your child: your retina cannot move back and forth like the card. What must change in your eye when you look from a far window to a near book?",
-          "say": "The card had to move for near and far things. Your retina cannot move. So what must change in your eye when you look from a far window to a near book?",
-          "kid": "The card had to move. Your retina cannot move. So what changes in your eye?",
+          "say": "The card had to move for near and far things. The retina is the screen at the back of your eye, like the card, and it cannot move. So what must change in your eye when you look from a far window to a near book?",
+          "kid": "Think about the card and your eye. Say what you think changes.",
           "parent": "A good answer: the lens in the eye changes shape. It gets thicker for near things, which bends the rays more, and thinner for far things. This is called focusing.",
           "think": "The lens in your eye can change shape. Which shape do you think it takes for a near book?",
           "context": "In this step, you link the lens test to how the eye focuses."
@@ -1984,7 +1984,7 @@
           "what": "Make a tube. See a hole in your hand. Find out which eye leads."
         }
       ],
-      "record": "Draw your hand with the hole in it. Write which eye you found to be your leading eye, and which eyes your family members favour.",
+      "record": "Tell your grown-up what the hole looked like, or draw it. Write which eye you found to be your leading eye, and which eyes your family members favour.",
       "context": "In this activity, you look through a paper tube with one eye and at your hand with the other. You see a hole in your hand, and learn how the brain joins two pictures.",
       "setup": [
         {
@@ -2006,7 +2006,7 @@
           "mins": 3,
           "do": "Roll the paper into a tube about 3 centimetres wide and tape it. Ask your child to guess what they will see. They look through the tube with one eye, and at their hand with the other.",
           "say": "Here is a paper tube. Look through it with one eye. Keep the other eye on your hand beside it. What do you think you will see?",
-          "kid": "Look through the tube with one eye. Keep the other eye on your hand. What will you see?",
+          "kid": "Look at the tube and your hand. Guess what you will see.",
           "ask": [
             {
               "q": "What do you think you will see on your hand?",
@@ -2094,7 +2094,7 @@
           "what": "Lay out a clock face on the floor. Move a red pen in from behind, and find where you notice movement and where you can name its colour."
         }
       ],
-      "record": "Fill in the table. Draw a top-down picture of a head with two wedges showing how wide you could see movement, and how wide you could name the colour.",
+      "record": "Fill in the table. Say which came first on each side, movement or colour, and at which paper number. Or draw a head from above with two wedges, one for movement and one for colour.",
       "context": "In this activity, you sit in the middle of a clock face on the floor and stare straight ahead. A helper moves a red pen in from behind. You find where you notice it and where you can name its colour.",
       "setup": [
         {
@@ -2116,7 +2116,7 @@
           "mins": 4,
           "do": "Show your child the clock face on the floor. Ask them to guess where on the clock they will first notice the pen moving. Ask where they will first be able to name its colour.",
           "say": "You will sit in the middle and stare straight ahead at the sticker. I will move a red pen in from behind you. Where on the clock will you first notice it? Where will you first know that it is red?",
-          "kid": "Stare at the sticker. A pen comes in from behind. Where will you notice it? Where will you know it is red?",
+          "kid": "Look at the clock face. Where will you notice the pen? Where will you know it is red?",
           "ask": [
             {
               "q": "Will you notice the pen moving before you can say its colour, or after?",
@@ -2201,7 +2201,7 @@
           "what": "Find the nearest distance at which you can still read the small writing. Test other people in the family and compare."
         }
       ],
-      "record": "Fill in the table with each person's age and near point. Draw a bar chart with one bar for each person.",
+      "record": "Fill in the table with each person's age and near point. Then put the people in order, from the closest near point to the furthest.",
       "context": "In this activity, you bring a card with small writing slowly towards your eye until it turns blurry. You measure the distance, which is your near point, and compare with people of other ages.",
       "setup": [
         {
@@ -2223,7 +2223,7 @@
           "mins": 3,
           "do": "Show your child the card. Ask them to guess who in the family can read the card closest to their eyes. Ask who will need it furthest away. Write the guesses.",
           "say": "We will bring a card with small writing closer to the eye until the words turn blurry. Who in our family do you think will manage the closest? Who the furthest? Why do you think so?",
-          "kid": "Bring the writing close until it blurs. Who in our family can go closest? Why?",
+          "kid": "Think about your family. Guess who can go closest, and why.",
           "ask": [
             {
               "q": "Who do you think will have the closest near point, and why?",
@@ -2292,7 +2292,7 @@
         {
           "id": "s4",
           "mins": 2,
-          "do": "Look at the table or bar chart. Ask your child what pattern they see. Ask why the lens might be less able to get thick as people get older.",
+          "do": "Look at the table. Ask your child what pattern they see. Ask why the lens might be less able to get thick as people get older.",
           "say": "Look at the numbers. Who had the closest near point? Who the furthest? What pattern do you see?",
           "kid": "Look at the numbers. What pattern do you see?",
           "parent": "A good answer: older people have a further near point, because the lens gets stiffer and cannot thicken as much. Reading glasses add a lens in front of the eye to help.",
@@ -2335,7 +2335,7 @@
           "what": "Measure how tall a 60 centimetre pole looks on a ruler at arm's length when it stands at 2, 4 and 8 metres. Find the pattern."
         }
       ],
-      "record": "Fill in the table. Draw a bar chart with one bar for each distance. Write what happened to the apparent height each time the distance doubled.",
+      "record": "Fill in the table. Lay out your three paper strips. Write what happened to the apparent height each time the distance doubled.",
       "context": "In this activity, you hold a ruler at arm's length and measure how tall a pole looks when a friend holds it at different distances. You find out how the size that a thing looks depends on its distance.",
       "setup": [
         {
@@ -2357,7 +2357,7 @@
           "mins": 3,
           "do": "Show your child the ruler, the pole and the marks. Ask what will happen to the pole's height on the ruler when the pole moves from 2 metres to 4 metres. Will it look the same, or half as tall? Ask why they think so.",
           "say": "We will measure how tall a pole looks on a ruler at arm's length. At 2 metres, then 4 metres, then 8. What happens to its height on the ruler when it moves back? Why do you think so?",
-          "kid": "We will measure how tall a pole looks on a ruler. What happens when the pole moves back? Why?",
+          "kid": "Look at the ruler and the pole. Guess what happens to its height on the ruler when the pole moves back.",
           "ask": [
             {
               "q": "What will happen to the pole's height on the ruler when the pole is twice as far away?",
@@ -2425,9 +2425,9 @@
         {
           "id": "s4",
           "mins": 2,
-          "do": "Draw a bar chart of your three measurements. Ask what happens to the height each time the distance doubles.",
+          "do": "Cut a paper strip as long as each of your three measurements and lay the strips side by side. Ask what happens to the height each time the distance doubles.",
           "say": "Look at your three numbers. What happens each time the pole is twice as far away?",
-          "kid": "Look at your three numbers. What pattern do you see?",
+          "kid": "Look at your three strips. What pattern do you see?",
           "think": "If you wanted a sign to look the same size from twice as far away, how big would you have to make it?",
           "context": "In this step, you look for the pattern in the numbers."
         }
@@ -2478,8 +2478,8 @@
           "what": "Make the thaumatrope. Make the flip book. Test them at different speeds."
         }
       ],
-      "record": "Keep the thaumatrope and the flip book. Draw the bird and the cage joined together, as you saw them. Write how fast you had to twirl or flick for the pictures to join.",
-      "context": "In this project, you make a card with a bird on one side and a cage on the other, and a flip book. You find out how pictures that come quickly join in your eye and brain.",
+      "record": "Keep the thaumatrope and the flip book. Tell your grown-up how the bird and the cage looked when they joined. Write how fast you had to twirl or flick for the pictures to join.",
+      "context": "In this project, you make a spinning card with a bird on one side and a cage on the other (a thaumatrope), and a flip book. You find out how pictures that come quickly join in your eye and brain.",
       "setup": [
         {
           "art": "A round card disc with a bird drawn on the front, and the same disc turned over with a cage drawn on the back.",
@@ -2500,7 +2500,7 @@
           "mins": 4,
           "do": "Show your child the card, the strings and the notepad. Ask what they think will happen if a bird on one side and a cage on the other are twirled very quickly.",
           "say": "We will draw a bird on one side of a card and a cage on the other. Then we twirl it very fast. What do you think we will see? Why?",
-          "kid": "One side of the card has a bird. The other side has a cage. We twirl it fast. What will you see? Why?",
+          "kid": "Look at the card. Guess what you will see when it spins fast.",
           "ask": [
             {
               "q": "What will you see when the card spins fast?",
@@ -2517,9 +2517,9 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "A grown-up draws round a mug on the card and cuts out two discs. Draw a bird on one disc and a cage on the other. Hold the two discs back to back and flip them over like a page of a calendar, top to bottom. The cage must be the right way up when it comes round. Then glue the two discs back to back, with a string between them on each side.",
-          "say": "Draw a bird on one disc. Draw a cage on the other. Make the cage the right way up when you flip the card like a page. Glue the two discs together with a string on each side.",
-          "kid": "Draw a bird on one disc and a cage on the other. Glue them back to back with strings.",
+          "do": "A grown-up draws round a mug on the card and cuts out two discs. Draw a bird in the middle of one disc and a cage in the middle of the other. You can stick on magazine pictures instead. Hold the discs back to back and turn them over like a page, top to bottom. Check that the cage is the right way up. Then glue the two discs back to back, with a string between them on each side.",
+          "say": "Put a bird on one disc and a cage on the other, in the middle. Turn the discs like a page, and check the cage is the right way up. Glue the two discs together with a string on each side.",
+          "kid": "Make a bird disc and a cage disc. Glue them back to back with strings.",
           "parent": "When the card twirls between the strings, it flips over top to bottom. Both pictures must be the right way up as they come round. A good way: draw the bird, then flip the card over like a page of a calendar, and draw the cage on the back so that it looks right way up in that position. Make both pictures simple and bold, in the middle of the disc. If the bird and cage do not line up, redraw.",
           "check": {
             "t": "mcq",
@@ -2547,7 +2547,7 @@
         {
           "id": "s4",
           "mins": 15,
-          "do": "Use the notepad. On the corner of the last page, draw a small ball at the bottom. On the page before it, draw the ball a little higher. Go on, page by page, moving the ball up and then down. Flick the pages from the first to the last with your thumb.",
+          "do": "Use the notepad. On the corner of the last page, draw a small ball at the bottom. A dot is enough. On the page before it, draw the ball a little higher. Go on, page by page, moving the ball up and then down. Flick the pages from the first to the last with your thumb.",
           "say": "Draw a little ball at the corner of each page, a bit higher each time. Then flick the pages with your thumb. What do you see?",
           "kid": "Draw a ball on each page. Move it a bit each time. Flick the pages. What do you see?",
           "parent": "Draw from the back of the pad to the front, so the flick runs from the first page to the last. Keep the ball the same size and move it a small amount each time. About 15 pages is enough to make a short bounce, but 25 or more pages last longer. Press hard with a pen so that the ball shows, and draw it near the corner where the thumb flicks the pages. If the pages are thick, the ball may be hard to see through the page, so use a dark pen. The smaller the moves, the smoother the motion. Scientists have long said that the eye holds on to each picture for a moment. This is called persistence of vision. Many now think that the brain also builds movement from still pictures. They are still working out how.",
@@ -2616,7 +2616,7 @@
         "Add a thick black border round the word, so the eye finds it first.",
         "Try colours that are alike in brightness, such as red on green, and see why signs do not use them. Remember that some people see red and green alike."
       ],
-      "your_turn": "Now design the best sign for your own front door. Draw it, make it and test it from the lane. How far away could your friend read it? How could you make it readable from further?",
+      "your_turn": "Now design the best sign for your own front door. Make it and test it from the lane. How far away could your friend read it? How could you make it readable from further?",
       "context": "This is a design challenge about seeing. You make signs and find out how big and what colour the letters must be to be read from far away.",
       "setup": [
         {
@@ -2638,7 +2638,7 @@
           "mins": 5,
           "do": "Read the challenge together. Ask your child what they think makes a sign easy to read from far away.",
           "say": "Here is your job. Make a sign that a friend can read from as far away as possible. What do you think makes a sign easy to read from far away?",
-          "kid": "Make a sign that is easy to read from far away. What helps? Big letters? Colours?",
+          "kid": "Think about signs you have seen. Say what you think makes one easy to read from far away.",
           "ask": [
             {
               "q": "What do you think will make a sign easier to read from far away?",

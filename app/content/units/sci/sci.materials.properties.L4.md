@@ -262,8 +262,8 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   - Note: Let the children argue. Plywood still has a grain in each layer. It is only the sheet as a whole that is evened out. This is the idea of the Crossed Layers card. For a quicker game, play only 12 cards, but always finish with plywood. With two or three players, a full game of 24 cards takes about 25 minutes.
 - **s5 (2 min)**  
   *Parent does:* Count the points. Look at the cards you got wrong, and read the backs again. Ask which card surprised each person most.  
-  *Parent says:* Count your points. Which card surprised you most? Why?  
-  *Child mode:* Count the points. Which card surprised you most?
+  *Parent says:* Count your points. Then read again the backs of the cards you got wrong.  
+  *Child mode:* Count your points.
   - Ask: Which card surprised you most, and why? (good: The modelling clay.; The celery stalk.; Water.)
 
 ## Experiments
@@ -272,18 +272,18 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 - **predict:** Before you start, guess. Will a sheet of newspaper tear in the same way from top to bottom and from side to side? Will two strips cut in these two directions droop the same amount? Why do you think so?
 - **fair test:** The two strips for each paper come from the same sheet, with the same width and the same length. They stick out over the table by the same amount, with the same book on the end. Only the direction of the cut changes. So any difference in the droop comes from the direction, and not from the paper, the width or the table.
 - **safety:** A grown-up cuts the strips, or stays close while an older child does it. Keep the scissors closed when you walk with them.
-- **record:** For each paper, write which way the tear ran straight. Then write the droop of each strip, three tries each. Last, find the average droop of each strip and draw a bar for each strip.
+- **record:** For each paper, write which way the tear ran straight. Then write the droop of each strip, three tries each. Last, find the average droop of each strip. Draw a bar for each strip, or just write the averages.
 - **results table:** Paper | Which way the tear ran straight | Droop of strip A, cut along the arrow (cm, three tries) | Droop of strip X, cut across the arrow (cm, three tries) | Which drooped more
 - **s1 (5 min)**  
   *Parent does:* Show your child the newspaper, the printer paper and the ruler. Ask for a guess and a reason before anything is touched. Write the guess at the top of the results table.  
   *Parent says:* We have newspaper and plain paper. First we tear. Then we cut strips and see which droops more. Will paper act the same in every direction? Why do you think so?  
-  *Child mode:* Guess first. Is paper the same in every direction? Why do you think so?
+  *Child mode:* Make a guess, and say why you think so.
   - Ask: Why do you think paper will be the same, or different, in different directions? (good: It is flat and smooth, so it is the same.; Newspaper has lines of print, so it might tear along them.; Paper is made of fibres, and they might lie one way.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write your child's own words. With 2 to 4 children, give each child one paper to test. One holds the strip and the book, one reads the ruler, and one writes. Swap roles for the next strip, then put all the tables side by side.
 - **s2 (7 min)**  
   *Parent does:* Hold a newspaper sheet by its top edge. Tear a strip down it from top to bottom for about 20 centimetres. Take a second sheet and tear from side to side, for the same distance. Look at the two tears.  
   *Parent says:* Tear one sheet from top to bottom. Tear another from side to side. Which tear is straighter? Which one wanders?  
-  *Child mode:* Tear one sheet downward. Tear another sideways. Which tear is straighter?
+  *Child mode:* Tear one sheet downward. Tear another sideways. Look at the two tears.
   - Note: Newspaper usually tears straight from top to bottom, along the columns of print. If yours tears straight the other way, that is fine. Use whichever way tears straight in your paper.
   - Check: Which tear ran straighter, and what does that tell you? → **The straight tear shows the way most fibres lie, so it marks the grain**
 - **s3 (6 min)**  
@@ -303,9 +303,9 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   - Note: Newspaper is floppy, so let 6 centimetres stick out for newspaper and 10 for printer paper. Use the same length for both strips of one paper. If a printer-paper strip also folds right down, use 6 for it too. Typical droop for printer paper is about 2 to 5 centimetres, and the strip cut along the grain usually droops less. The difference can be small with thin paper, so measure carefully to the millimetre and write down what you see.
   - Check: The two strips are the same width, length and paper. Why do you measure each one three times? → **One try can be a fluke, and three tries show whether the result repeats**
 - **s6 (9 min)**  
-  *Parent does:* Find the average droop for each strip. Add the three numbers and divide by 3. Draw a bar for each strip. Then ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.  
+  *Parent does:* Find the average droop for each strip. Add the three numbers and divide by 3. Draw a bar for each strip, or just write the averages in the table. Then ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.  
   *Parent says:* Write three sentences. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.
+  *Child mode:* Tell your grown-up what you thought, what you saw, and why.
   - Ask: What did you notice about the strips cut in the two directions? (good: The strip cut along the arrow drooped less.; The strips were different even though they came from one sheet.; Newspaper showed a bigger difference than printer paper.)
   - Note: A good reason mentions fibres lying mostly one way, a tear running between them, and a strip being stiffer along the fibres. Do not give the reason first. Let your child try, and then read the Paper has a grain card together. An extra for later: wet one strip of each kind and watch which way it curls.
 ### e2 · The Tailor's Trick: which way does cloth stretch? (40 min)
@@ -318,7 +318,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 - **s1 (5 min)**  
   *Parent does:* Show your child the cloth, the bottle and the clips. Ask for a guess and a reason before anything is cut. Write the guess at the top of the table.  
   *Parent says:* We will cut two strips from one cloth. One strip runs along the threads. The other runs on the slant. Each carries the same bottle. Which will stretch more? Why do you think so?  
-  *Child mode:* Guess first. Which strip will stretch more? Why do you think so?
+  *Child mode:* Make a guess, and say why you think so.
   - Ask: Why do you think one strip might stretch more than the other? (good: The threads are in the way on the slant.; They are the same cloth, so they will be the same.; The threads cross, so the slant might give.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write your child's own words. With 2 to 4 children, each child cuts a pair of strips from a different cloth, such as a kitchen cloth, a dupatta and an old shirt. One holds the bag steady, one reads the ruler at eye level, and one writes. Then compare which cloth stretched most.
 - **s2 (8 min) · grown-up needed**  
@@ -344,8 +344,8 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 - **s6 (4 min)**  
   *Parent does:* Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened. Then look closely at the cloth and its threads in bright light.  
   *Parent says:* Write three sentences. What did you think? What did you see? Why do you think it happened? Then look closely at the threads.  
-  *Child mode:* Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.
-  - Ask: What do you think the threads did on the slant? (good: They turned, so the squares became diamonds.; They did not stretch, but they moved.; They swung to a new angle.)
+  *Child mode:* Tell your grown-up what you thought, what you saw, and why.
+  - Ask: When the slanted strip stretched, how do you think the threads moved? (good: They turned, so the squares became diamonds.; They did not stretch, but they moved.; They swung to a new angle.)
   - Note: A good reason says that threads hardly stretch. Along the threads, the pull goes straight into them. On the slant, the threads swing to a new angle, so the cloth gets longer without stretching its threads. Let your child try first. Then read the Cloth card together.
 ### e3 · Bend Until It Snaps: how many bends does a paper clip survive? (35 min)
 - **question:** How many bends does it take to snap a paper clip? Does a big bend or a small bend snap it sooner?
@@ -357,7 +357,7 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 - **s1 (5 min)**  
   *Parent does:* Show your child the paper clips and the bowl. Ask for a guess and a reason before bending anything. Write the guess at the top of the table.  
   *Parent says:* We will bend a paper clip back and forth until it snaps. How many bends will it take? Will small bends take more or fewer? Why do you think so?  
-  *Child mode:* Guess first. How many bends will snap a paper clip? Why do you think so?
+  *Child mode:* Make a guess, and say why you think so.
   - Ask: Why do you think a clip might snap after only a few bends? (good: The metal gets tired.; Each bend hurts the metal a little.; It breaks when it cannot bend any more.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write your child's own words. With 2 to 4 children, each child bends 3 or 4 wires. One bends, one counts aloud, and one writes. Swap roles. Put every count in one table. A box of 100 clips is enough for four children.
 - **s2 (5 min) · grown-up needed**  
@@ -383,15 +383,15 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   - Ask: Where do you think the warmth came from? (good: From bending. Bending is work, and work makes heat.; From my fingers.; From rubbing inside the metal.)
   - Note: The bent place may feel a little warm after many bends. The work done by your hand turns into a little heat. Compare it with the straight part of the wire. If you feel nothing, bend a fresh wire quickly 20 times and touch it at once. The broken ends often look bright and grainy, because a fresh break shows the metal's inside. The snapped ends are sharp, so keep them in the bowl.
 - **s6 (5 min)**  
-  *Parent does:* Find the average for the big bends and for the small bends. Add the three numbers and divide by 3. Draw a bar for each group. Then ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.  
+  *Parent does:* Find the average for the big bends and for the small bends. Add the three numbers and divide by 3. Draw a bar for each group, or just write the two averages. Then ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.  
   *Parent says:* Find the average number of bends for each group. Then write three sentences. What did you think? What did you see? Why do you think it happened?  
-  *Child mode:* Find the average for each group. Then say or write three sentences: what I thought would happen, what I saw, and why I think it happened.
+  *Child mode:* Find the average for each group. Then tell your grown-up what you thought, what you saw, and why.
   - Note: A good reason says that each bend does a little damage to the inside of the metal. Tiny cracks start and grow. Bigger bends do more damage each time. Let your child try first. Then read the Fatigue card together.
 
 ## Activities
 ### a1 · Grain Hunt: split, tear and snap (30 min)
 - **safety:** Use the blunt ends of the skewers and keep the sharp points on the tray. Do not put sticks near your face, and watch for splinters when wood snaps. Snap sticks pointing away from everyone. A grown-up checks that nobody is allergic to celery, and the celery is not for eating. Wash your hands after touching the leaf and the celery.
-- **record:** A table with each thing, your guess, what happened and an arrow drawn along its grain.
+- **record:** A table with each thing, your guess, what happened, and which way its grain runs: along its length or across it.
 - **a1s1 (4 min)**  
   *Parent does:* Line up the six things on the tray. Ask your child to guess for each one whether it will split more easily along its length or across it. Write the guesses.  
   *Parent says:* Look at each thing. Where do you think it will split most easily? Along its length, or across? Write your guess for each one.  
@@ -409,25 +409,25 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   *Child mode:* Peel a string off the celery. Tear the leaf along its veins. Then tear across them.
   - Check: The leaf tore easily along its veins, but not across them. What does that show? → **The veins run in lines, and the leaf splits between them**
 - **a1s4 (5 min)**  
-  *Parent does:* Look at each torn or split edge with the magnifying glass. Draw each thing on your paper. Draw an arrow along its grain.  
-  *Parent says:* Look at the torn edges. What do you see? Draw each thing. Draw an arrow along the grain.  
-  *Child mode:* Look at the edges. Draw each thing. Draw its grain arrow.
+  *Parent does:* Look at each torn or split edge with the magnifying glass. Then lay the six things side by side, each one pointing along its grain. Ask your child to point to the grain of each and say how they know.  
+  *Parent says:* Look at the torn edges. What do you see? Lay the six things side by side, each one pointing along its grain.  
+  *Child mode:* Look at the edges. Lay the things side by side, each pointing along its grain.
 - **a1s5 (4 min)**  
   *Parent does:* Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.  
   *Parent says:* Write three sentences. What did you think? What did you see? Why do you think it happened?  
-  *Child mode:* Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.
+  *Child mode:* Tell your grown-up what you thought, what you saw, and why.
   - Note: A good reason says that these materials are built of long fibres or veins lying in lines. A split slips between the lines, and a snap has to break through them.
 ### a2 · The Cardboard Bridge: flutes along or flutes across? (30 min)
 - **safety:** A grown-up does the cutting. Keep the bottle away from the edge of the table, and keep your feet away from the books in case they fall.
-- **record:** A table with two strips, the direction of the flutes, the sag with the bottle and a drawing of each bridge.
+- **record:** A table with two strips, the direction of the flutes, the sag with the bottle and a photo of each bridge.
 - **a2s1 (5 min)**  
   *Parent does:* Show your child the flat cardboard and the bottle. Ask which strip will make the stronger bridge, and why. Write the guess.  
   *Parent says:* We will cut two strips from a cardboard box. One runs along the waves inside. The other runs across the waves. Which will carry the bottle better? Why?  
-  *Child mode:* Guess first. Which strip makes the stronger bridge? Why do you think so?
+  *Child mode:* Make a guess, and say why you think so.
   - Ask: Why do you think one strip might be stronger than the other? (good: The waves might work like little arches.; Both strips are the same cardboard.; The waves might make it stiffer one way.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. With 2 to 4 children, each child makes and tests a pair of strips from a different box or a different panel. One lays the bottle, one reads the ruler, and one writes. Compare all the boxes.
 - **a2s2 (6 min) · grown-up needed**  
-  *Parent does:* A grown-up looks at the cut edge of the box for the waves inside. These are the flutes. Draw an arrow along them. Cut a strip 4 centimetres wide and 30 centimetres long with the flutes along its length. Cut another with the flutes across its length.  
+  *Parent does:* Look at the cut edge of the box together. You can see waves between the flat layers. These are the flutes. Draw a pencil arrow along them. Cut a strip 4 centimetres wide and 30 centimetres long with the flutes along its length. Cut another with the flutes across its length.  
   *Parent says:* Look at the cut edge. See the waves between the flat layers? Draw an arrow along them. Now cut the two strips.  
   *Child mode:* Find the waves on the cut edge. Draw an arrow. A grown-up cuts two strips.
   - Note: Cut both strips to the same size from the same panel. The strips need to be 30 centimetres long so that they rest well on the books. Cardboard cuts best with slow cuts. Write 'flutes along' on one and 'flutes across' on the other.
@@ -438,23 +438,23 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
   - Note: Typical sags are a few millimetres for the strip with flutes along its length, and about 1 to 3 centimetres for the strip with flutes across, which may even fold flat. If it folds, write 'folded'. A thin box sags more and a thick one less, so numbers differ from box to box. If the sag is too small to read, use a longer gap. The direction of the flutes should still make the difference.
   - Check: The strip with the flutes along its length sagged much less. Why? → **The flutes work like a row of little arches along the strip**
 - **a2s4 (7 min)**  
-  *Parent does:* Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened. Then look at the cut edge again and draw it with its waves.  
-  *Parent says:* Write three sentences. What did you think? What did you see? Why do you think it happened? Then draw the cut edge.  
-  *Child mode:* Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.
+  *Parent does:* Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened. Then look at the cut edge again. Ask your child to point to the waves and say how they might help.  
+  *Parent says:* Write three sentences. What did you think? What did you see? Why do you think it happened? Then look at the cut edge again. Point to the waves. How might they help?  
+  *Child mode:* Tell your grown-up what you thought, what you saw, and why.
   - Note: A good reason says that the waves hold the two flat layers apart, like a row of arches. Along the waves, they work as a beam. Across the waves, the strip folds easily at each wave.
 ### a3 · Paper Bridges: flat, folded or rolled? (30 min)
 - **safety:** Keep coins away from children under five, who might put them in their mouths.
-- **record:** A table with four bridges, their shape and the number of coins each one carried. Draw each bridge from the side.
+- **record:** A table with four bridges, their shape and the number of coins each one carried. Take a photo of each bridge from the side.
 - **a3s1 (5 min)**  
   *Parent does:* Show your child the four sheets. Say that all four are the same paper. Ask which shape will carry the most coins, and which will carry the fewest. Write the guess.  
   *Parent says:* We have four sheets of paper, all the same. We fold them into four shapes. Which bridge will carry the most coins? Which the fewest? Why do you think so?  
-  *Child mode:* Guess first. Which shape carries the most coins? Why do you think so?
+  *Child mode:* Make a guess, and say why you think so.
   - Ask: Why do you think that shape will be the strongest? (good: It is thicker.; It has folds that hold it up.; A tube is strong.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. With 2 to 4 children, each child builds one shape from a sheet. One adds the coins, one counts, and one writes. Then swap the shapes around and test again.
 - **a3s2 (10 min)**  
   *Parent does:* Make the four bridges. Leave the first sheet flat. Fold the second into a zigzag with six folds each about 2 centimetres wide. Roll the third into a tube and tape the seam. Fold the edges of the fourth up by 2 centimetres on the two long sides, so it looks like a tray.  
   *Parent says:* Leave one sheet flat. Fold one into a zigzag. Roll one into a tube and tape it. Fold the edges of one up, like a tray.  
-  *Child mode:* Make four bridges. Flat. Zigzag. Tube. Tray.
+  *Child mode:* Make four bridges: flat, zigzag, tube and tray.
   - Note: Keep the long edge of the paper as the span, so the folds run along the bridge. Use the same amount of tape on every bridge, or none if the shape stays. Make sure each bridge rests 2 centimetres on each stack of books.
 - **a3s3 (10 min)**  
   *Parent does:* Lay the flat sheet across the gap. Put the cup in the middle. Add coins one at a time, gently. Stop when the middle touches the table, the bridge slips, or you reach 60 coins. Count the coins. Test the other three in the same way.  
@@ -465,21 +465,21 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 - **a3s4 (5 min)**  
   *Parent does:* Ask your child to say or write three sentences: what I thought would happen, what I saw, and why I think it happened.  
   *Parent says:* Write three sentences. What did you think? What did you see? Why do you think it happened?  
-  *Child mode:* Say or write three sentences: what I thought would happen, what I saw, and why I think it happened.
+  *Child mode:* Tell your grown-up what you thought, what you saw, and why.
   - Note: A good reason says that the material is the same, but the shape is different. A property of a material, such as how stiff paper is, does not change. A property of an object, such as how stiff the bridge is, depends on its shape.
 ### a4 · Plywood Edge Detective: find the crossed layers (20 min)
 - **safety:** Look and do not pick at the edge, because cut wood can have splinters. Wash your hands afterwards.
-- **record:** A drawing of the plywood edge, with the layers counted and the grain direction of each one marked.
+- **record:** The number of layers, and for each layer whether its grain runs along the edge or across it. A photo of the edge is a good extra.
 - **a4s1 (4 min)**  
   *Parent does:* Find an item made of plywood. Look at its cut edge. Ask your child what they notice. Do not explain yet.  
   *Parent says:* Look at the edge of this board. What do you notice? What do you wonder?  
-  *Child mode:* Look at the edge of the board. What do you notice?
+  *Child mode:* Look closely at the cut edge of the board.
   - Ask: What do you notice about the edge? (good: There are thin stripes.; It is made of layers.; Some lines go one way and some another.)
   - Note: Plywood furniture is common: look at the back of a cupboard, a drawer bottom, a bed base or a school desk. The layers are thin and look like stripes. Let your child count them. If your furniture is made of a pressed board with no layers, just a speckled brown mass of tiny chips, it is not plywood. That is a result too. Compare it with a plywood edge. With 2 to 4 children, each child examines a different item and draws it.
 - **a4s2 (8 min)**  
-  *Parent does:* Count the layers. Use the magnifying glass if you have one. Look at the surface of each layer if you can see it. Draw the edge and an arrow for the grain on each layer.  
-  *Parent says:* Count the layers. Draw the edge, layer by layer. Draw an arrow for each grain direction.  
-  *Child mode:* Count the layers. Draw each one. Add its grain arrow.
+  *Parent does:* Count the layers. Use the magnifying glass if you have one. Point to each layer. Ask your child if its grain runs along the edge or across it.  
+  *Parent says:* Count the layers. Point to each one. Can you tell which way its grain runs?  
+  *Child mode:* Count the layers. Point to each one and say which way its grain runs.
   - Note: Layers whose grain runs along the edge look like stripes. Layers whose grain runs into the edge look rougher and dotted. Plywood usually has 3, 5 or 7 layers, and the glue lines show as thin dark stripes.
   - Check: A plywood board has five layers. Why do most plywood boards have an odd number of layers? → **So that the board is balanced and does not curl**
 - **a4s3 (8 min)**  
@@ -496,13 +496,13 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 - **p1s1 (5 min)**  
   *Parent does:* Show your child the newspaper and the glue. Ask which board will be more even in every direction, and why. Write the guess.  
   *Parent says:* We will make two boards from four layers of newspaper each. In one, the layers all lie the same way. In the other, every second layer is turned across. Which board will be more even? Why?  
-  *Child mode:* Guess first. Which board will be more even? Why do you think so?
+  *Child mode:* Make a guess, and say why you think so.
   - Ask: Why might turning one layer across make the board more even? (good: The turned layer is strong where the others are weak.; It has more glue.; The layers cross.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. With 2 to 4 children, one child or pair makes each board. One brushes and one lays the layers. At the end each child tests one strip, and all the numbers go in one table.
 - **p1s2 (8 min) · grown-up needed**  
-  *Parent does:* Tear a corner of each newspaper sheet down and across to find the straight tear. Draw an arrow along it. A grown-up cuts eight rectangles, each 20 centimetres by 30 centimetres. Cut six with the arrow along the long side. Cut two with the arrow along the short side.  
+  *Parent does:* Tear a corner of each newspaper sheet down and across to find the straight tear. The straight tear shows the grain. Draw an arrow along it. A grown-up cuts eight rectangles, each 20 centimetres by 30 centimetres. Cut six with the arrow along the long side. Cut two with the arrow along the short side.  
   *Parent says:* Find the straight tear on each sheet. Draw an arrow. Then a grown-up cuts eight pieces. Six have the arrow along the long side, and two have it along the short side.  
-  *Child mode:* Find the grain on each sheet. Draw an arrow. A grown-up cuts eight pieces.
+  *Child mode:* Find the straight tear, the grain, on each sheet. Draw an arrow. A grown-up cuts eight pieces.
   - Note: Find the grain as in the Which Way Does It Tear experiment: the straight tear runs along the grain. Keep the arrows visible on every piece. Board A uses four pieces with the arrow along the long side. Board B uses two of those, and the two pieces with the arrow along the short side go second and fourth.
 - **p1s3 (15 min)**  
   *Parent does:* Mix the glue with an equal amount of water. For board A, brush glue on one piece. Lay a second piece on it with the arrow the same way. Brush it and add a third, then a fourth. For board B, do the same but turn every second piece so its arrow points across. Smooth out the bubbles with your hand.  
@@ -526,14 +526,14 @@ By noon the two kites hung side by side in the blue. Hiral felt the string pulli
 ## Challenges
 ### c1 · The Paper Beam: carry the most with two sheets (40 min)
 - **problem:** You have two sheets of A4 printer paper and a little tape. Build a beam that spans a gap of 20 centimetres between two stacks of books, and carries as many coins as possible in a cup at its middle.
-- **your turn:** Sketch your design. Find the grain of the paper with a tear test, and decide which way to put it. Build your beam and test it. Change one thing, such as the shape or the way the grain runs, and test again. Which design carried the most coins? Why do you think it did?
+- **your turn:** Plan your design with folded scrap paper, or a sketch. Find the grain of the paper with a tear test, and decide which way to put it. Build your beam and test it. Change one thing, such as the shape or the way the grain runs, and test again. Which design carried the most coins? Why do you think it did?
 - **constraints:** Use only two sheets of A4 paper and up to 40 centimetres of tape.; The beam must rest on the two stacks of books, 20 centimetres apart, with 2 centimetres on each stack.; The coins must go in a cup in the middle, and be added one at a time.; The beam must hold for ten seconds with the coins on it.
 - **general:** A paper tube rolled along the span and taped, so the paper wall is round.; A zigzag-folded sheet laid across the gap, like the folded bridge in Paper Bridges.; A tray shape with the edges folded up, to stiffen it along its length.
 - **creative:** A triangular tube, which is stiffer than a round one because its corners hold its shape.; A tube with rings of tape around it at intervals, like the nodes of bamboo, to stop the walls from folding in.; Two thin tubes side by side, joined by a flat top, like an I-beam, with the grain of the paper along the span.
 - **c1s1 (8 min)**  
-  *Parent does:* Read the problem together. Ask your child to tear a corner of the paper to find the grain. Then ask them to sketch two or three different beam designs, and mark the grain direction on each.  
-  *Parent says:* You have two sheets of paper and a little tape. How could you shape them to carry the most? Find the grain first. Then draw some ideas.  
-  *Child mode:* Find the grain of the paper. Draw some beam ideas.
+  *Parent does:* Read the problem together. Ask your child to tear a corner of the paper to find the grain. The straighter tear runs along the grain. Then ask them to plan two or three different beam designs by folding scrap paper, or by sketching if they prefer. Ask them to say which way the grain runs in each.  
+  *Parent says:* You have two sheets of paper and a little tape. How could you shape them to carry the most? Find the grain first. Then plan some ideas.  
+  *Child mode:* Tear a corner to find the grain. Then plan some beam ideas.
   - Ask: What would make a paper beam carry more? (good: A tube shape.; Folds that run along the beam.; The grain running along the beam.)
   - Note: With 2 to 4 children, each child designs and builds a beam from two sheets. One adds the load, one counts, and one writes. Then compare all the designs and combine the best ideas.
 - **c1s2 (12 min)**  

@@ -263,8 +263,8 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 - **Printable tokens: 30 nitrogen tokens, small paper squares marked N (dry beans or buttons will do instead):** N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N; N
 - **Printable score sheet: Score sheet for one field:** Season 1 to 8: the crop played, the nitrogen bank after the season, the points; Total points
 - **s1 (3 min)**  
-  *Parent does:* Cut out the cards and tokens. Draw a nitrogen bank circle for each player. Put 4 tokens in each bank. Deal 3 cards each.  
-  *Parent says:* We are farmers for eight seasons. Each of us has a field with a bank of nitrogen. Some crops spend the bank. Some fill it up.  
+  *Parent does:* Cut out the cards and tokens. Draw a circle for each player's nitrogen bank, or use a small plate. Put 4 tokens in each bank. Deal 3 cards each.  
+  *Parent says:* We are farmers for eight seasons. Each of us has a field with a bank of nitrogen, the plant food in the soil. Some crops spend the bank. Some fill it up.  
   *Child mode:* Make your bank circle. Put in 4 tokens. Take 3 cards.
 - **s2 (4 min)**  
   *Parent does:* Play one practice season together. Each player picks one card, plays it, pays or takes the tokens, and scores.  
@@ -280,7 +280,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 - **s4 (3 min)**  
   *Parent does:* Stop after season 4. Look at every bank. Compare the banks of players who played only cereals with the banks of players who mixed in pulses.  
   *Parent says:* We are halfway through. Whose bank is fullest? Who played what? What do you notice?  
-  *Child mode:* Compare the banks. Whose is fullest? What did they play?
+  *Child mode:* Look at every bank. Count the tokens in each.
   - Ask: What do the fullest banks have in common? (good: They played a pulse or fallow between the cereals.; They did not play rice every time.; They played crops that need little.)
   - Note: A good answer says that pulses and fallow refill the bank, and that the same crop twice in a row loses points. If a player did best with only cereals, check the season where they struggled.
 - **s5 (8 min)**  
@@ -309,7 +309,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 - **s3 (4 min)**  
   *Parent does:* Talk about the game. Pick the card that was hardest to guess. Say why.  
   *Parent says:* Which clue was the hardest? What question helped most?  
-  *Child mode:* Which card was hardest? What question helped?
+  *Child mode:* Think of the hardest card. Tell the others why it was hard.
   - Ask: Which kind of question helped you most? (good: Is it living or not living?; Is it in the soil or in the air?; Is it a gas, a liquid or a solid?)
   - Note: Good players ask questions that split the answers into two groups, instead of guessing one answer at a time.
 
@@ -319,19 +319,19 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 - **predict:** Look at the three dry materials. Which one will the water climb highest in? Which will it climb fastest in? Which will it not climb in at all? Why do you think so?
 - **fair test:** All three cups are the same size and are filled to the same line with dry material. Each is tapped five times on the table to settle it. All three stand in the same tray with the same depth of water at the same moment. Only the size of the grains changes, so any difference in the climb comes from the grains. Measure all three cups at the same times.
 - **safety:** A grown-up makes the holes in the cups, because the nail is sharp. When you rub the dry soil through the tea strainer, do it gently and do not breathe in the dust. Wash hands after touching soil. Do the hole-making over a towel, and keep the nail and scissors away from small children.
-- **record:** Fill in the table at each time. Then draw the three cups with their wet lines at 60 minutes. Write which cup was wet to the top first and which stayed mostly dry.
+- **record:** Fill in the table at each time. Then take a photo of the three cups at 60 minutes, or draw them with their wet lines. Write which cup was wet to the top first and which stayed mostly dry.
 - **results table:** Time | Gravel: height of the wet line (cm) | Sand: height of the wet line (cm) | Fine soil: height of the wet line (cm) | What I notice
 - **schedule:** day 1: Look at the materials, guess, make the cups, fill them and start the water. Look at the cups after 5, 15, 30 and 60 minutes. (35 min); day 2: Look again the next morning and measure the final wet line. (5 min)
 - **s1 (5 min)**  
   *Parent does:* Spread a little of each dry material on a plate. Look closely and feel each one. Ask for a guess and a reason, and write it down.  
   *Parent says:* Here are gravel, sand and fine soil, all dry. We will stand each in a little water. How high will the water climb? How fast? Why do you think so?  
-  *Child mode:* Look at the gravel, the sand and the fine soil. In which one will the water climb highest? Why?
+  *Child mode:* Look closely at the gravel, the sand and the fine soil. Feel each one. Which has the biggest gaps between the grains?
   - Ask: Why do you think that one will let the water climb best? (good: It has the most gaps.; It has the smallest grains.; Water goes where it is easiest.)
   - Note: Do not correct the guess. Many children think that big gaps let water move best. The test will show that very big gaps are not best for climbing. One child with a parent: do every cup yourselves. Two to four children: each child makes and fills one cup (A, B or C, and a fourth child can repeat the sand), and all stand together in one tray. One child keeps the clock, one marks the lines, one writes the table.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* Ask a grown-up to make five small holes in the bottom of each cup. Lay a cloth circle inside each cup. Draw a line every centimetre up the outside with the marker.  
   *Parent says:* Fine grains must not fall out of the holes, so the cloth goes in first. The lines on the side are our ruler.  
-  *Child mode:* A grown-up makes holes in the bottom of each cup. Put a cloth circle inside. Draw lines up the side.
+  *Child mode:* Watch a grown-up make holes in the bottom of each cup. Put a cloth circle inside. Draw a line every centimetre up the side.
   - Note: Use the nail to make the holes. Press it through slowly, over a towel. The cloth stops the soil falling out but still lets water in. Mark the cups A for gravel, B for sand and C for fine soil.
 - **s3 (6 min)**  
   *Parent does:* Fill cup A with gravel, cup B with sand and cup C with fine soil, each to the 9 centimetre line. Tap each cup on the table five times. Top it up to the 9 centimetre line.  
@@ -366,13 +366,13 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 - **predict:** Four saucers will have water with no salt, a little salt, more salt and a lot of salt. How many seeds will sprout in each? Which saucer will sprout first? Why do you think so?
 - **fair test:** Each saucer has 10 seeds from the same packet, the same kind of tissue and the same amount of liquid. All four sit in the same place. The only thing that changes is the amount of salt. Seeds are counted at the same time each day. The saucer with no salt shows how well the seeds sprout in plain water.
 - **safety:** Do not eat the soaked seeds, and do not taste the salty water. Wash your hands after touching the seeds. Keep the salty water away from your eyes and away from small children. Even though moong is food, do not eat these seeds, because they sit in salty water on tissue for days.
-- **record:** Fill in the table after each count. A seed has sprouted when a tiny white root is at least 2 millimetres long. Draw the four saucers on day 3.
+- **record:** Fill in the table after each count. A seed has sprouted when a tiny white root is at least 2 millimetres long. Take a photo of the four saucers on day 3, or draw them.
 - **results table:** Saucer and salt in 100 millilitres of water | Seeds sprouted after day 1 | Seeds sprouted after day 2 | Seeds sprouted after day 3 | After rinsing in plain water: seeds sprouted by day 6
 - **schedule:** day 1: Make four salt waters. Put 10 soaked seeds on wet tissue in each saucer. (20 min); day 2: Count the sprouted seeds (many may not have sprouted yet). Add a tablespoon of its own water to each saucer: water A to saucer A, and so on. (3 min); day 3: Count again, and add its own water to each saucer. (3 min); day 4: Count again. Rinse the seeds that have not sprouted and put them on plain wet tissue. (3 min); day 6: Count the rinsed seeds that have sprouted. Fill in the last column and talk about the results. (5 min)
 - **s1 (4 min)**  
   *Parent does:* Show the four saucers and the salt. Say that the water will have different amounts of salt. Ask for a guess and a reason. Write it down.  
   *Parent says:* We have four saucers, each with a different water. One has no salt. One has a pinch. One has half a teaspoon. One has a whole teaspoon. How many seeds will sprout in each? Why do you think so?  
-  *Child mode:* Four saucers have water with different amounts of salt. How many seeds will sprout in each? Why?
+  *Child mode:* Look at the four saucers and the salt. Think about which saucer will sprout the most seeds.
   - Ask: Why do you think salt might change how seeds sprout? (good: Salt is bad for plants.; Salt takes the water out of the seed.; Salt makes the water too heavy for the seed.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Sea water has about 6 level teaspoons of salt in a litre, which is a little more than saucer C holds in the same amount of water (about 5 teaspoons in a litre).
 - **s2 (8 min)**  
@@ -409,13 +409,13 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 - **predict:** Which cup will have the thickest dry layer at the top after three days? Will the cover of leaves make a difference? Will loosening the top make a difference? Why do you think so?
 - **fair test:** All three cups have the same soil, the same depth of soil, and the same amount of water poured in slowly. They sit side by side in the same sunny place. Only the top changes: leaf cover, bare, or loosened soil. We measure the pale dry layer at the same time each day.
 - **safety:** Wash hands after touching soil and leaves. Keep the cups where small children or pets will not knock them over.
-- **record:** Fill in the table each day. Draw the three cups on day 4 with the dark damp soil and the pale dry layer.
+- **record:** Fill in the table each day. Take a photo of the three cups on day 4, or draw them with the dark damp soil and the pale dry layer.
 - **results table:** Day | Bare cup: thickness of the pale dry layer (mm) | Covered cup: thickness of the pale dry layer (mm) | Loosened cup: thickness of the pale dry layer (mm) | What I notice
 - **schedule:** day 1: Fill the cups, wet them, cover one and loosen the top of another. Put them in the sun. (12 min); day 2: Lift the cover aside and measure the pale dry layer in each cup. (5 min); day 3: Measure again. (5 min); day 4: Measure again, then talk about the results. (5 min)
 - **s1 (3 min)**  
   *Parent does:* Show the three cups, the soil and the leaves. Ask for a guess and a reason, and write it down.  
   *Parent says:* Three cups of the same soil, in the same Sun. One gets a cover of dry leaves, one stays bare and one has loose soil on top. Some farmers loosen the top of their soil with a hoe, and they say it saves water. That is why one cup has loose soil. Which cup dries out most? Why do you think so?  
-  *Child mode:* Three cups hold the same soil. One is covered with dry leaves, one is bare and one is loosened. Which will dry out most? Why?
+  *Child mode:* Look at the three cups of the same soil. One has dry leaves on top. One is bare. One has loose soil on top.
   - Ask: Why do you think the leaves will make a difference? (good: The leaves keep the Sun off the soil.; The leaves keep the wind away.; The leaves will soak up the water.)
   - Note: Do not correct the guess. Some children think the leaves will soak up the water and make the soil drier.
 - **s2 (7 min)**  
@@ -426,7 +426,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
   - Check: Why do we pour the same amount of water on each cup? → **So that only the cover is different**
 - **s3 (2 min)**  
   *Parent does:* Put the three cups side by side in the same sunny place. Do not move them.  
-  *Parent says:* All the cups get the same Sun and the same wind. Now we wait one day.  
+  *Parent says:* All the cups get the same Sun and the same wind. Now we wait and look each day.  
   *Child mode:* Put the cups in the sun. Do not move them.
   - Wait: Leave the cups in the Sun until tomorrow.
 - **s4 (5 min)**  
@@ -467,21 +467,21 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 - **s4 (2 min)**  
   *Parent does:* Write what you found in the table. Ask: which of these soils would hold the most water, and which would drain the fastest?  
   *Parent says:* Which soil would hold the most water in a pot? Which would let it run through? How can you tell by feel?  
-  *Child mode:* Which soil would hold the most water? Which would drain the fastest?
+  *Child mode:* Use what you felt in your hands. Which soil would hold the most water? Which would let it run through?
   - Note: Clay holds the most water and drains slowest. Sand drains fastest. The garden soil is in between.
 ### a2 · Takers and Givers: sort twelve crops by what they do to the soil (20 min)
-- **record:** Your three columns of crops, and your four-season plan for one field.
+- **record:** Your three columns of crops, and your eight-season plan for one field.
 - **s1 (5 min)**  
   *Parent does:* Write one crop on each paper square: rice, wheat, maize, sugarcane, cotton, ragi, bajra, moong, urad, chana, groundnut, red gram.  
-  *Parent says:* Write one crop on each square. Some of these take a lot from the soil. Some give to it. Some ask for little.  
+  *Parent says:* Write one crop on each square. Plants take a food called nitrogen from the soil. Some of these crops take a lot of it. Some give it back. Some ask for little.  
   *Child mode:* Write one crop on each square.
 - **s2 (8 min)**  
   *Parent does:* Fold a sheet into three columns: Takes a lot of nitrogen, Gives nitrogen, and Needs little. Put each card in the column you think is right. Ask for the reason as you go.  
-  *Parent says:* Where does each crop go? Which are the legumes? Which are the cereals that grow tall and fast? Which grow even in poor soil?  
+  *Parent says:* Where does each crop go? Which are the legumes, the plants with pods like moong? Which are the cereals that grow tall and fast? Which grow even in poor soil?  
   *Child mode:* Sort the cards into three columns. Say why.
   - Ask: Which crops put nitrogen into the soil, and how can you tell? (good: Moong, urad, chana, groundnut and red gram.; They have pods.; They are the beans and pulses.)
   - Note: The answers are these. Takes a lot: rice, wheat, maize, sugarcane, cotton. Gives: moong, urad, chana, groundnut, red gram. Needs little: ragi and bajra. Legumes have seeds in pods. The millets are tough crops that grow well in poor, dry soil.
-  - Check: Which of these crops fixes nitrogen with bacteria in her roots? → **Groundnut**
+  - Check: Which of these crops puts nitrogen back into the soil? → **Groundnut**
 - **s3 (7 min)**  
   *Parent does:* Plan eight seasons for one field with the cards. Put one crop in each season. Use at least three pulses. Never put the same crop in two seasons in a row.  
   *Parent says:* Plan a field for eight seasons. A cereal, then a pulse, then a cereal again. How will you keep the soil from getting tired?  
@@ -490,7 +490,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
   - Think: What would happen to the soil after eight seasons of only rice?
 ### a3 · Nodule Hunt: find the nodules on a bean's roots (if you can get a whole plant) (20 min)
 - **safety:** A grown-up cuts the nodules, because the knife is sharp. Groundnut is a common allergen: if anyone in the family is allergic to peanuts, use a moong or pea plant instead. Wash hands after touching the roots and the soil.
-- **record:** Draw the roots with the nodules on them. Draw one cut nodule and colour the inside.
+- **record:** Take a photo of the roots with the nodules and of one cut nodule. Or draw them and colour the inside.
 - **s1 (5 min)**  
   *Parent does:* Hold the plant over the bowl. Wash the soil off the roots very gently, by dipping them and swirling them in water. Do not pull.  
   *Parent says:* Wash the roots gently. Dip, swirl, and look. Do not pull, because the nodules can break off.  
@@ -517,28 +517,28 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 - **record:** A plan for the field in three sentences: what the card says, what the field needs and what the farmer should do.
 - **s1 (6 min)**  
   *Parent does:* Read this made-up card for a field near Thanjavur. Nitrogen is low. Phosphorus is medium. Potassium is high. The pH is 8.1, which is slightly alkaline. Salt is low. Humus is low.  
-  *Parent says:* This is a card for a farmer's field. Nitrogen is low. Phosphorus is medium. Potassium is high. The soil is slightly alkaline. That means it is on the opposite side from acid, like baking soda in water. Salt is low. Humus is low, which means there are few rotted leaves and roots in the soil.  
+  *Parent says:* This is a card for a farmer's field. Nitrogen, a plant food, is low. Phosphorus is medium. Potassium is high. The soil is slightly alkaline. That means it is on the opposite side from acid, like baking soda in water. Salt is low. Humus is low, which means there are few rotted leaves and roots in the soil.  
   *Child mode:* Read the card. What is low? What is high?
   - Ask: Which parts of the card are not good for a crop? (good: Nitrogen is low.; Humus is low.; The others are fine.)
   - Note: The card is made up. A real Soil Health Card from the Government of India lists the same kinds of things for a real field. A farmer gets one free every two years or so.
 - **s2 (8 min)**  
-  *Parent does:* Write what the field needs. Choose from these: grow a pulse, add compost or manure, add urea, leave the field fallow, do nothing. Choose two things and say why.  
+  *Parent does:* Write what the field needs. Choose from these: grow a pulse, add compost or manure, add urea (a bought plant food with nitrogen), leave the field fallow (empty for one season), do nothing. Choose two things and say why.  
   *Parent says:* Which two things would you do for this field? Why? What does each one fix?  
   *Child mode:* Choose two things for the field. Say why.
   - Note: Good answers: grow a pulse to add nitrogen and add compost to raise the humus. Adding some urea is also reasonable for a quick boost of nitrogen. Leaving the field fallow does not add nitrogen. Adding nothing is not wise, because nitrogen and humus are both low. With two to four children, each picks two things alone, then the group argues for the best pair.
   - Check: The card says nitrogen is low and humus is low. Which two things help most? → **Grow a pulse and add compost**
 - **s3 (6 min)**  
-  *Parent does:* Write your plan in three sentences for the farmer. Say what the card says, what the field needs and what to do.  
+  *Parent does:* Write your plan in three sentences for the farmer, or say it and let your grown-up write it. Say what the card says, what the field needs and what to do.  
   *Parent says:* Write three sentences for the farmer. What does the card say? What does the field need? What should she do?  
   *Child mode:* Write three sentences for the farmer.
   - Think: How would the farmer know in two years whether the plan worked?
 ### a5 · Crack Maker: why does clay crack when it dries? (20 min, 2 days)
 - **safety:** Wash hands after touching the clay, in a bowl, not the sink, because clay can block drains. Do not put clay in your mouth.
-- **record:** Draw both plates. Write which one cracked, and the width of the widest crack.
+- **record:** Take a photo of both plates, or draw them. Write which one cracked, and the width of the widest crack.
 - **schedule:** day 1: Make two pastes, spread them on plates and put them in the Sun. (15 min); day 2: Look at the cracks and measure them. (5 min)
 - **s1 (5 min)**  
   *Parent does:* Mix 4 tablespoons of multani mitti with water to make a thick paste. Mix 2 tablespoons of multani mitti, 2 tablespoons of sand and water to make a second paste.  
-  *Parent says:* Plate A is all clay. Plate B is half clay and half sand. Which will crack more when it dries? Why do you think so?  
+  *Parent says:* Plate A is all clay. Plate B is half clay and half sand. We will dry both in the Sun.  
   *Child mode:* Make two pastes. One is all clay. One is half sand.
   - Ask: Which plate do you think will crack more, and why? (good: The clay one, because it holds more water.; The sandy one, because it is rough.; Neither will crack.)
   - Note: Do not correct the guess.
@@ -548,7 +548,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
   *Child mode:* Spread both pastes. Put them in the sun.
   - Wait: Leave the plates until tomorrow.
 - **s3 (6 min)**  
-  *Parent does:* Look at both plates. Measure the widest crack in each with a ruler. Draw what you see.  
+  *Parent does:* Look at both plates. Measure the widest crack in each with a ruler. Take a photo of each plate.  
   *Parent says:* Look at the plates. Which one cracked? How wide is the widest crack? Here is why. Clay holds a lot of water. As the water dries out, the clay shrinks, and the shrinking pulls it apart into cracks. Sand does not shrink, so the sand in plate B stops most of the cracking.  
   *Child mode:* Look at both plates. Which one cracked?
   - Note: The all-clay plate usually cracks into pieces with wide gaps. The sandy plate usually cracks much less, or not at all. If both crack alike, write that down. The cracking is stronger when the paste is thick and dries fast. Multani mitti paste in strong sun usually cracks in a few hours. In a damp or cloudy spell it can take two or three days: leave it longer and keep the plates in the same place. One child with a parent: make the two plates. Two to four children: each child makes a plate with a different mix (all clay, three clay to one sand, one clay to one sand, one clay to three sand) and you line the plates up from most to least cracked.
@@ -563,13 +563,13 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
   - Note: Let the water cool before children touch it. The liquid turns pink with acid and blue-green with alkali. No red cabbage? Stir a teaspoon of turmeric powder into half a glass of water: it stays yellow with vinegar and turns red-brown with baking soda. The colours are less clear than cabbage, but it works. With two to four children, each child tests one glass and says the colour before the others look.
 - **s2 (6 min)**  
   *Parent does:* Pour the same amount of purple liquid into three glasses. Add a spoon of vinegar to one. Add half a spoon of baking soda to another. Leave the third plain. Look at the colours.  
-  *Parent says:* Vinegar is acid. Baking soda is alkaline. What colour does each make? What does the plain glass look like?  
+  *Parent says:* Vinegar is an acid, and it tastes sour. Baking soda is an alkali, the opposite of an acid. What colour does each make? What does the plain glass look like?  
   *Child mode:* Add vinegar to one glass. Add baking soda to another. Look at the colours.
   - Ask: What colour did the vinegar make, and what colour did the baking soda make? (good: Pink for the vinegar.; Green or blue for the baking soda.; The plain one stays purple.)
   - Note: Vinegar turns the liquid pink or red. Baking soda turns it blue-green. Plain is purple. These are your colour guide.
 - **s3 (12 min)**  
   *Parent does:* Stir a spoon of garden soil into a glass of water. Stir a spoon of wood ash (or chalk powder) into another glass of water. Let both settle for 5 minutes. Pour the clear water on top into two fresh glasses of purple liquid. Compare the colours.  
-  *Parent says:* Which colour does the soil water make? Which does the ash or chalk water make? Compare them with your guide.  
+  *Parent says:* Which colour does the soil water make? Which does the ash or chalk water make? Compare them with the colours in your first three glasses.  
   *Child mode:* Test the soil water and the ash water. Compare the colours.
   - Note: Garden soil water usually stays close to purple, and may lean a little pink or blue. Ash water turns the liquid green or blue-green, because wood ash is alkaline. Some school chalk is gypsum, which is nearly neutral, so chalk water may show little change: if so, say so, and use ash. A soil that fizzes with vinegar has chalk in it. If your soil water changes colour a little, say which side it leans towards.
   - Check: The ash water turns the purple liquid blue-green. What does this tell you? → **Ash is alkaline**
@@ -577,17 +577,17 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 ## Projects
 ### p1 · Bean Before Methi: does a pot that grew moong feed the next crop? (60 min, 43 days)
 - **safety:** Wash hands after touching soil. Keep seeds and scissors away from small children, and do not eat the seeds or the plants from these pots.
-- **record:** A table with the pot, the number of methi seedlings, the height of the tallest and the leaf colour on days 36 and 43. Draw the two pots on day 43.
+- **record:** A table with the pot, the number of methi seedlings, the height of the tallest and the leaf colour on days 36 and 43. Take a photo of the two pots on day 43, or draw them.
 - **schedule:** day 1: Fill two pots with the same poor soil. Sow 6 moong seeds in pot A. Leave pot B bare. Water both. (15 min); day 21: Pull up one moong plant from pot A and look for nodules. Cut the other plants at soil level and leave the roots. (10 min); day 22: Sow 10 methi seeds in each pot. (10 min); day 36: Count and measure the methi in each pot. (10 min); day 43: Measure again, compare the pots and write your result. (15 min)
 - **s1 (15 min)**  
   *Parent does:* Fill both pots with the same poor soil. In pot A, sow 6 moong seeds about 2 centimetres deep. Leave pot B with no seeds. Water both with the same amount, and put them side by side.  
-  *Parent says:* Both pots have the same poor soil. Pot A grows moong. Pot B stays bare. Later we will grow methi in both. Which pot will grow better methi? Why do you think so?  
+  *Parent says:* Both pots have the same poor soil. Pot A grows moong. Pot B stays bare. Later we will grow methi in both.  
   *Child mode:* Fill two pots with the same soil. Sow moong in pot A. Sow nothing in pot B. Water both.
   - Ask: Why do you think one pot might grow better methi than the other? (good: The moong roots left something in the soil.; The moong gave nitrogen.; Both pots will be the same.)
   - Note: Do not correct the guess. Use soil that has had beans or pulses grown in it, so the right bacteria are in the soil. Poor soil makes any difference easier to see. One child with a parent: one pair of pots. Two to four children: each child grows their own pair, and you pool the results at the end. If most pairs go the same way the result is more believable.
 - **s2 (10 min)**  
   *Parent does:* Water both pots the same amount every day or two, so the soil stays slightly damp (every day in hot weather). Pull weeds out of both pots. On day 21, pull up one moong plant from pot A. Wash the roots in a bowl. Look for nodules. Cut the rest of the moong at soil level and leave the roots in the pot.  
-  *Parent says:* After three weeks, pull up one moong plant. Look for round bumps on her roots. These are called nodules. Cut the others at the soil and leave the roots in, because roots that rot in the soil add nitrogen to it.  
+  *Parent says:* After three weeks, pull up one moong plant. Look for round bumps on its roots. These are called nodules. Cut the others at the soil and leave the roots in, because roots that rot in the soil add nitrogen to it.  
   *Child mode:* Pull up one moong plant. Look for round bumps. Cut the rest at the soil.
   - Ask: What do you see on the roots? (good: Small round bumps.; No bumps at all.; Tiny white beads.)
   - Note: If you see nodules, cut one open to see the pink colour. If you see none, the soil may not hold the right bacteria. Carry on with the project, and write down that there were none.
@@ -606,21 +606,21 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 - **s5 (15 min)**  
   *Parent does:* On day 43, measure again. Compare the pots. Ask your child for three things: what they think the project showed, what they saw, and why.  
   *Parent says:* What is different between the pots now? What do you think the moong did? How could we be sure?  
-  *Child mode:* What is different now? What did the moong do?
+  *Child mode:* Look at both pots. Count, measure and compare.
   - Note: Be honest with your child. Two pots are a small test, and many things can differ. A strong test uses many pots. Ask what they would change to be surer.
   - Check: Methi in the pot that grew moong stands taller and greener. What is the best explanation? → **Bacteria in the moong roots added nitrogen to the soil**
 
 ## Challenges
 ### c1 · Wick the Pot: water a plant for three days without pouring (40 min)
 - **problem:** A family will be away for three days. Design a way to keep a potted plant's soil damp for three days with one 500 millilitre bottle of water, and without anyone pouring water on the soil.
-- **your turn:** Now design your own way. Draw it first. Build it and fill the bottle. Check the soil with the pencil each day. Which design kept the soil damp for three days, and why?
+- **your turn:** Now design your own way. Draw it or describe it first. Build it and fill the bottle. Check the soil with the pencil each day. Which design kept the soil damp for three days, and why?
 - **constraints:** Use one bottle that holds 500 millilitres of water. Fill it once at the start.; Nobody may pour water on the soil for three days.; Use only things from home, such as cotton rope, strips of old cloth and a bucket.; Check the soil with a clean pencil pushed 5 centimetres into the soil. Wet, dark soil sticks to the pencil.; Use the same kind of pot, soil and plant for every design.
 - **general:** Stand the bottle next to the pot. Run a cotton wick from the water to the soil. The water climbs the wick, just as it climbed the cup of sand in the Water Climb test.; Stand the pot on a plate of water, with a wick from the plate through the hole in the bottom of the pot.; Water the pot very well before you leave, then lay a thick cover of dry leaves on the soil.
 - **creative:** Bury a small unglazed clay pot in the soil and fill it with water. The water slowly seeps through the clay into the soil. This is called pitcher irrigation, and farmers use it in dry places.; Use two wicks from two sides, to spread the water.; Hang the bottle upside down with a wick running out of the cap.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. Look at the materials. Ask your child to draw two or three different designs.  
+  *Parent does:* Read the problem together. Look at the materials. Ask your child to draw or describe two or three different designs.  
   *Parent says:* A plant must drink for three days, with no one pouring. What have we learned about how water moves? How can we use it?  
-  *Child mode:* Draw two or three ways to water the pot without pouring.
+  *Child mode:* Think of two or three ways to water the pot without pouring. Draw them, or tell your grown-up.
   - Ask: In the Water Climb test, what helped the water to climb in the cup of sand? (good: The tiny gaps between the grains.; The gaps in the cloth.; Water sticking to the grains.)
 - **s2 (12 min)**  
   *Parent does:* Build your first design. Fill the bottle. Water the soil well at the start. Push a pencil 5 centimetres into the soil and write down how it looks.  
@@ -636,7 +636,7 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 - **s4 (15 min)**  
   *Parent does:* Choose the design that kept the soil damp best. Ask why. Change one thing and test again, if you have time.  
   *Parent says:* Which design worked best? Why? What would you change to make it better?  
-  *Child mode:* Which design worked best? Why? What would you change?
+  *Child mode:* Pick the design that worked best. Then change one thing and test it again.
   - Check: Your wick pulled water from the bottle into the soil. What lifted the water? → **Water sticking to the threads of the cloth and pulling the water behind it**
   - Think: How could a wick tell when the plant has had enough?
 ### c2 · The Four-Year Plan: plan a field that never runs out of nitrogen (30 min)
@@ -647,8 +647,8 @@ Murugan Mama took a handful of ulundu seeds from Paati's tin. He said they were 
 - **creative:** Grow ragi with a row of red gram between, and count the red gram as a pulse in the same season.; Grow azolla in the rice field to feed the rice with nitrogen, and count it as a gift of 1 token.; Leave one season fallow, and plant a cover crop of any plant so the soil is not bare.
 - **s1 (6 min)**  
   *Parent does:* Read the problem. Write down the numbers: the bank starts at 4, and every season ends with 1 token added.  
-  *Parent says:* Our bank starts at 4. Every season adds 1 token at the end. Rice takes 3. How low will the bank be after two rice seasons?  
-  *Child mode:* The bank starts at 4. Rice takes 3. Work out two rice seasons.
+  *Parent says:* Our bank starts at 4. Every season adds 1 token at the end. Rice takes 3.  
+  *Child mode:* Use your tokens to show two rice seasons in a row.
   - Ask: What happens to the bank if you grow rice two seasons in a row? (good: It falls to about 1 or 0.; The next rice fails.; You must put a pulse in.)
   - Note: Rice, then rice: 4 minus 3 is 1, plus 1 is 2. Then 2 is not enough for 3, so the crop fails. The rule says never to grow the same crop twice in a row, and the sums show why.
 - **s2 (14 min)**  

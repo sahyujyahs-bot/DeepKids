@@ -521,7 +521,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about things that go round. Each card describes a moment. You decide what happens next, and say why.",
+   "context": "This is a card game about things that go round. Each card describes a moment. You decide what happens next, and say why. You will find out when a spinning thing flies off straight and when it keeps going round.",
    "printables": [
     {
      "kind": "cards",
@@ -687,7 +687,7 @@
      "mins": 3,
      "do": "Play one practice card together. A stone is whirled on a string, and the string snaps. Everyone picks a token and turns it over together.",
      "say": "Practice card. A stone is whirled in a circle on a string, and the string snaps. Pick a token, then turn it over.",
-     "kid": "Practice card. A stone is whirled on a string, and the string snaps. Pick a token. Turn it over.",
+     "kid": "Pick your token. Turn it over together.",
      "check": {
       "t": "mcq",
       "q": "A stone is whirled in a circle on a string, and the string snaps. What does the stone do?",
@@ -767,7 +767,7 @@
    "title": "The Whirler: how fast must a bag go round for each size of pull?",
    "mins": 35,
    "days": 1,
-   "context": "This is the main experiment of the unit. A small bag whirls round on a string through a pen, while coins hang from the other end. You count how many turns the bag makes for each size of pull.",
+   "context": "This is the main experiment of the unit. A small bag whirls round on a string through a pen, while coins hang from the other end. You count how many turns the bag makes for each size of pull. You will find out how much faster the bag must go when the pull gets bigger.",
    "question": "A small bag whirls in a circle on a string, and the pull on the string comes from coins hanging at the other end. When the pull is bigger, how much faster must the bag go round to stay in the same circle?",
    "predict": "Before you start, guess. If you use four times as many coins, will the bag need to go round four times as fast, or less than four times as fast, or more? Why do you think so?",
    "fair_test": "Use the same bag, the same string, the same pen, and the same length of string from the pen to the bag every time. A piece of tape on the string marks the length. Only the number of coins at the hanging end changes: 4, 8, then 16. Keep the tape at the top of the pen while you whirl. The helper counts how many turns the bag makes in 10 seconds. Do 3 tries for each number of coins, because one try can be a fluke, and use the middle result.",
@@ -878,8 +878,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the pen, the string, the bag and the pouch of coins. Explain how it works: the coins hang below and pull the string down. The string runs through the pen, so that pull tugs the bag inward, towards the pen. Ask for a guess and a reason.",
-     "say": "The coins hang below and pull the string down. The string runs through the pen, so the pull tugs the bag towards the pen. The bag must go round fast enough to stay in its circle while the coins pull on it. If we use four times as many coins, how much faster must the bag go? Why do you think so?",
-     "kid": "The coins pull the string down. The string pulls the bag towards the pen. The bag goes round to stay in its circle. With four times as many coins, how much faster must the bag go? Why?",
+     "say": "The coins hang below and pull the string down. The string runs through the pen, so the pull tugs the bag towards the pen. The bag must go round fast enough to stay in its circle while the coins pull on it. Now make a guess, and tell me why.",
+     "kid": "Look at the whirler. The coins pull the string down. The string pulls the bag towards the pen.",
      "ask": [
       {
        "q": "If the coins are four times as many, how many times as fast must the bag go round? Why?",
@@ -950,7 +950,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three things: their claim, their evidence and their reason. Then ask the question below.",
      "say": "What did you find? What numbers show it? Why do you think it happened?",
-     "kid": "Say what you found. Say what numbers show it. Say why you think it happened.",
+     "kid": "Use your numbers to tell your grown-up what you found and why.",
      "ask": [
       {
        "q": "When the coins became four times as many, how many times as many turns did the bag need?",
@@ -1014,7 +1014,7 @@
     }
    ],
    "safety": "Nobody sits on the turntable. Keep fingers away from the moving turntable, and turn it by hand only. Stand a metre back, because a coin can fly off. Keep coins away from children under five.",
-   "record": "Fill in the table for each try. Draw a picture of the plate from above, with the three coins on their rings, and number them in the order that they slid off.",
+   "record": "Fill in the table for each try. Write the order the coins slid off, for example edge coin first. You can also draw the plate from above and number the coins, or take a photo of the plate.",
    "setup": [
     {
      "art": "A steel plate seen from above with three rings drawn round its middle and a one-rupee coin on each ring, on different sides.",
@@ -1072,8 +1072,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the plate, the coins and the turntable. Ask for a guess and a reason for each question. Write the guesses on a sheet of paper.",
-     "say": "We will put coins on a plate and turn it faster and faster. The only thing holding each coin on the plate is friction, which is the grip between the coin and the plate. Which coin do you think will slide off first? Will a heavy stack slide off before a single coin? Why do you think so?",
-     "kid": "Coins sit on a plate that turns faster and faster. Friction, the grip of the plate, is all that holds them. Which coin slides off first? Will a heavy stack slide off before a single coin? Why?",
+     "say": "We will put coins on a plate and turn it faster and faster. The only thing holding each coin on the plate is friction, which is the grip between the coin and the plate. Which coin do you think will slide off first? Will a heavy stack slide off before a single coin?",
+     "kid": "Coins sit on a plate that turns faster and faster. Friction, the grip of the plate, is all that holds them.",
      "ask": [
       {
        "q": "Which coin do you think will slide off first, and why?",
@@ -1203,7 +1203,7 @@
     }
    ],
    "safety": "Whirl only a soft sock, in a flat circle at about waist height, away from faces and from other people. A grown-up stays close. Knot the heavy sock very tightly so nothing can fly out, and loop the string round your wrist or hold the very end firmly. Keep coins and rice away from children under five.",
-   "record": "Draw the sock going round, with an arrow along the string showing the pull. Draw a long arrow for the strong pull and a short arrow for the weak pull. Also write the score from 1 to 5 for the pull each time, and the turns in 5 seconds.",
+   "record": "Write the score from 1 to 5 for the pull each time. Then show the pull with arrows on a drawing of the sock going round, long for a strong pull and short for a weak pull. Or just point and tell your grown-up which way the string pulled the sock.",
    "setup": [
     {
      "art": "A girl holding the end of a string between her finger and thumb and whirling a rolled sock slowly in a flat circle at waist height.",
@@ -1224,7 +1224,7 @@
      "mins": 2,
      "do": "Show the sock on its string. Ask your child to guess how the pull on their fingers will change when the sock goes faster, and when the sock is heavier. Ask why.",
      "say": "We will whirl the sock slowly, then faster. Then we will put coins in it. What do you think will happen to the pull on your fingers? Why?",
-     "kid": "Whirl the sock slowly, then fast, then with coins. How will the pull feel? Why?",
+     "kid": "We will whirl the sock slowly, then fast, then with coins inside.",
      "ask": [
       {
        "q": "What do you think will happen to the pull when you whirl faster?",
@@ -1273,8 +1273,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask the question below. Let your child answer first.",
-     "say": "Your fingers felt the string pulling outward on them. What was the string doing to the sock?",
-     "kid": "Your fingers feel a pull. What is the string doing to the sock?",
+     "say": "Your fingers felt the string pulling outward on them. Think about the sock.",
+     "kid": "Think about what the string is doing to the sock as you whirl it.",
      "ask": [
       {
        "q": "The string pulled your fingers outward. In which direction was it pulling the sock?",
@@ -1319,7 +1319,7 @@
     }
    ],
    "safety": "Use a clean, cool kadai, never one that has just been used for cooking. Keep the marble away from children under five, who might put it in their mouths. Do this over a table or the floor, not on a high shelf.",
-   "record": "Draw the kadai from above and from the side. Draw the path of the marble when you swirl gently and when you swirl hard.",
+   "record": "Write how high the marble climbed each time: low, middle or high. Then draw its path from above for a gentle swirl and a hard swirl, or show each path with your finger and tell your grown-up.",
    "setup": [
     {
      "art": "A girl holding a steel kadai by its two handles over a towel on a table, with a marble resting in the bottom.",
@@ -1340,7 +1340,7 @@
      "mins": 3,
      "do": "Show the kadai and the marble. Ask your child to guess how high the marble will climb if the kadai is swirled gently, and then harder. Ask why.",
      "say": "I will put a marble in this kadai and swirl it. How high up the wall do you think it will go if I swirl it harder? Why?",
-     "kid": "Swirl the marble in the kadai. If you swirl harder, will the marble go higher? Why do you think so?",
+     "kid": "We will swirl a marble round in the kadai, gently and then harder.",
      "ask": [
       {
        "q": "What do you think will happen to the marble when the swirl gets faster?",
@@ -1388,7 +1388,7 @@
      "mins": 3,
      "do": "Ask the question below. Let your child answer first.",
      "say": "While the marble went round, it seemed to press on the wall as if it wanted to go outward. What was really pushing it inward?",
-     "kid": "The marble seems to push outward on the wall. What is pushing it inward?",
+     "kid": "The marble seems to push outward on the wall. Think about what pushes it back inward.",
      "ask": [
       {
        "q": "The marble pressed on the wall. What was pushing the marble inward?",
@@ -1432,7 +1432,7 @@
     }
    ],
    "safety": "A grown-up must be there. Swing only a light plastic bucket with a strong handle. Keep everyone at least 3 metres away, and make sure the floor is not slippery. Stop if you feel dizzy.",
-   "record": "Draw the bucket at the top of its swing, with the water inside it. Write how long one turn took when the water just stayed in.",
+   "record": "Write how long one turn took when the water just stayed in. You can also draw the bucket at the top of its swing, or tell your grown-up what you saw.",
    "setup": [
     {
      "art": "A girl holding a plastic bucket by its handle with her arm straight, swinging it in a circle in the air beside her.",
@@ -1453,7 +1453,7 @@
      "mins": 3,
      "do": "Show the bucket and the water. Ask your child to guess what the water will do when the bucket is upside down at the top. Ask why.",
      "say": "When the bucket is upside down at the top, what do you think will happen to the water? Will it fall out? What if I swing very fast?",
-     "kid": "The bucket goes upside down at the top. What happens to the water? Why?",
+     "kid": "We will swing a bucket with water in a big circle. At the top, the bucket is upside down.",
      "ask": [
       {
        "q": "What do you think will happen to the water at the top of the swing? Why?",
@@ -1471,7 +1471,7 @@
      "id": "s2",
      "mins": 4,
      "do": "Hold the empty bucket by its handle with your arm straight. Swing it in a full circle beside your body. Practise until the circle is smooth and the bucket does not hit you.",
-     "say": "Swing the empty bucket in a full circle, beside your body. Keep your arm straight. Make it smooth. Is the pull on your arm bigger at the top or at the bottom?",
+     "say": "Swing the empty bucket in a full circle, beside your body. Keep your arm straight. Make it smooth.",
      "kid": "Swing the empty bucket in a full circle. Keep your arm straight. Make it smooth.",
      "adult": true,
      "parent": "The circle goes up and over beside the body, not in front of it. Stand with feet apart. A grown-up stays at a distance. If the child cannot swing a full circle smoothly, stop and do not add water.",
@@ -1502,8 +1502,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask the question below. Let your child answer first.",
-     "say": "The water stayed in because the bucket was going round fast. What do you think a roller-coaster loop has in common with the bucket?",
-     "kid": "Why does the water stay in? What does a roller-coaster loop have in common?",
+     "say": "The water stayed in because the bucket was going round fast. Now think about a roller-coaster loop.",
+     "kid": "Picture a roller coaster going upside down in a loop.",
      "ask": [
       {
        "q": "What do a swung bucket and a roller-coaster loop have in common?",
@@ -1547,7 +1547,7 @@
     }
    ],
    "safety": "A grown-up starts any machine. Never open a spin dryer or lift its lid while it is turning, and stand a metre back. Wash the leaves first. Hold the open umbrella by the handle only, well away from everyone and at least 2 metres from faces, because the metal rib ends are sharp; or whirl the wet sock on its string instead, in a flat circle at waist height. Mop up the water at once, because a wet floor is slippery.",
-   "record": "Draw the drum or the spinner from above, with the leaves against the wall and arrows showing where the drops go. Draw the umbrella from above with arrows for the drops, and a ring where the drops landed.",
+   "record": "Take a photo of the newspaper to show the ring where the drops landed. Then tell your grown-up where the water and the leaves went in the spinner, or draw the spinner from above with arrows for the water.",
    "setup": [
     {
      "art": "A salad spinner with wet green leaves inside, being closed by a girl.",
@@ -1568,7 +1568,7 @@
      "mins": 3,
      "do": "Show the spinner or the dryer. Ask your child to guess what will happen to the water and to the leaves or clothes when the machine spins. Ask why.",
      "say": "We will spin wet leaves. What do you think will happen to the water? What will happen to the leaves? Why do you think so?",
-     "kid": "We spin wet leaves in a spinner. Where does the water go? Where do the leaves go? Why?",
+     "kid": "We will spin wet leaves in a spinner and see what happens.",
      "ask": [
       {
        "q": "Where do you think the water will go when the spinner turns, and why?",
@@ -1617,8 +1617,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask the question below. Let your child answer first.",
-     "say": "In the spinner, the water got out and the leaves did not. Nobody picked out the water by hand. What did the sorting?",
-     "kid": "Nobody picked out the water. What did the sorting?",
+     "say": "In the spinner, the water got out and the leaves did not. Nobody picked out the water by hand.",
+     "kid": "Think about how the water got out while the leaves stayed in.",
      "ask": [
       {
        "q": "What did the sorting in the spinner, if nobody picked out the water?",
@@ -1641,7 +1641,7 @@
    "title": "Planets on a String: do far planets go round slower?",
    "mins": 40,
    "days": 1,
-   "context": "In this project, you use the whirler from the Whirler experiment, and change the length of the string to see how fast the bag goes round. You link it to the planets in the solar system.",
+   "context": "In this project, you use the whirler from the Whirler experiment, and change the length of the string to see how fast the bag goes round. You will find out if a bigger circle takes longer to go round. Then you link it to the planets in the solar system.",
    "materials": [
     {
      "item": "the whirler from the main experiment: a plastic pen barrel, a string, a soft bag with 2 coins, and a pouch",
@@ -1692,8 +1692,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Say that Mercury goes round the Sun in about 88 days, the Earth in one year and Jupiter in about 12 years. Then ask your child to guess what a longer string will do to the bag, and to give a reason.",
-     "say": "Far planets take much longer to go round the Sun. With the whirler, the pull stays the same, but we make the string longer. Will the bag go round faster, slower or the same? Why do you think so?",
-     "kid": "Far planets go round slowly. If the string is longer and the pull is the same, will the bag go round faster, slower, or the same? Why?",
+     "say": "Far planets take much longer to go round the Sun. With the whirler, the pull stays the same, but we make the string longer. Now make a guess about the bag, and tell me why.",
+     "kid": "Far planets go round the Sun slowly. We will see if a longer string makes the bag slower too.",
      "ask": [
       {
        "q": "If the string is longer and the pull is the same, will the bag go round faster, slower or the same? Why?",
@@ -1760,8 +1760,8 @@
      "id": "s5",
      "mins": 7,
      "do": "Ask the question below. Let your child answer first. Then read the note for the parent.",
-     "say": "Mercury takes about 88 days to go round the Sun. Jupiter takes about 12 years. How is that like the bag on the longer string?",
-     "kid": "Far planets take longer to go round the Sun. How is that like the bag on the longer string?",
+     "say": "Mercury takes about 88 days to go round the Sun. Jupiter takes about 12 years.",
+     "kid": "Think about Mercury and Jupiter. Then think about the bag on the longer string.",
      "ask": [
       {
        "q": "How are far planets like the bag on the longer string?",
@@ -1783,7 +1783,7 @@
    "id": "c1",
    "title": "The Coin Keeper: keep three coins on a plate at one turn a second",
    "mins": 40,
-   "context": "This is a design challenge. You make a turntable surface that keeps three coins on it while it turns once every second, with the coins starting at the edge. The plate that keeps its coins at the fastest speed wins.",
+   "context": "This is a design challenge. You make a turntable surface that keeps three coins on it while it turns once every second, with the coins starting at the edge. You will find out what really holds a coin on a turning plate. The plate that keeps its coins at the fastest speed wins.",
    "problem": "Make a plate that keeps three coins on it, starting at 15 centimetres from the middle, while the turntable turns once every second for 5 turns. Then see how fast it can turn and still keep the coins.",
    "constraints": [
     "The three coins must start on the ring 15 centimetres from the middle.",
@@ -1810,7 +1810,7 @@
     "Make a shallow dish shape by laying a rubber mat over a bowl, so the dish wall pushes the coins inward.",
     "Raise the plate's outer edge a little, so the coins lean inward towards the middle."
    ],
-   "your_turn": "Sketch your plate. Build it and test it 3 times at one turn every second. Change one thing, and test again. Which change worked best? Why do you think it did?",
+   "your_turn": "Sketch your plate, or just say how you will build it. Build it and test it 3 times at one turn every second. Change one thing, and test again. Which change worked best? Why do you think it did?",
    "setup": [
     {
      "art": "A child sketching three plate designs on paper: one with a rubber mat, one with a cardboard rim, and one shaped like a shallow dish.",
@@ -1829,9 +1829,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two or three plate designs.",
-     "say": "The coins start at the edge, and the plate must turn once every second. How could you stop the coins sliding off? Draw some ideas first.",
-     "kid": "The coins start at the edge, and the plate turns fast. How can you keep them on? Draw some ideas.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to tell you, or sketch, two or three plate designs.",
+     "say": "The coins start at the edge, and the plate must turn once every second. How could you stop the coins sliding off? Tell me some ideas first, or sketch them.",
+     "kid": "The coins start at the edge, and the plate turns fast. Tell your ideas, or sketch them.",
      "ask": [
       {
        "q": "What would stop a coin from sliding off a fast turntable?",
@@ -1879,7 +1879,7 @@
      "mins": 8,
      "do": "Compare designs. Ask which change helped most. Ask the question below.",
      "say": "Which change worked best? What does that tell you about the pull towards the middle?",
-     "kid": "Which change worked best? Why do you think so?",
+     "kid": "Look back at your tests and compare the plates.",
      "ask": [
       {
        "q": "Which change worked best, and where did the pull towards the middle come from?",

@@ -269,7 +269,7 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 - **Printable score sheet: Market scores:** Round number and the SKY card; Round number and the SOIL card; Trades made; Branches grown by each tree; Mushrooms grown by the fungus; Who traded the most, and who grew the most?
 - **s1 (4 min)**  
   *Parent does:* Choose who is the fungus. Give each tree 2 sugar tokens and the fungus 1 of each mineral. Shuffle the two decks face down.  
-  *Parent says:* One of us is the fungus and the rest are trees. The trees make sugar. The fungus finds minerals. Can either side grow alone?  
+  *Parent says:* One of us is the fungus and the rest are trees. The trees make sugar. The fungus finds minerals.  
   *Child mode:* One player is the fungus. The others are trees. Take your tokens.
   - Ask: Do you think a tree can build a branch without the fungus? Why? (good: No, because the tree needs minerals.; Yes, because the tree has sugar.; Only if the tree has some minerals already.)
   - Note: Do not correct the guess. Write it on the score sheet and check at the end.
@@ -293,7 +293,7 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 - **s5 (4 min)**  
   *Parent does:* Read the score sheet together. Compare the game with what happens in a real forest.  
   *Parent says:* Did anyone grow without trading? What does this game suggest about trees and the fungi on their roots?  
-  *Child mode:* Did anyone grow without trading? What does that show?
+  *Child mode:* Look at the score sheet. Who grew, and who did not?
   - Ask: In the game, the tree gave sugar to the fungus. Why would a tree do that? (good: Because the fungus brings minerals the tree needs.; It is a trade where both gain.; The tree cannot get enough phosphorus alone.)
   - Think: Scientists agree that trees and fungi trade. They disagree about how much trees share with each other. How could you test that?
 ### g2 · Plant Doctor: read the clues and find the problem (25 min)
@@ -302,7 +302,7 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 - **Printable tokens: Diagnosis tokens to cut out, one set of seven for each player:** SHORT OF NITROGEN; SHORT OF IRON, PHOSPHORUS OR POTASSIUM; ROOTS HAVE NO AIR; TOO MUCH FERTILISER; TOO LITTLE WATER; TOO LITTLE LIGHT; HEALTHY, LEAVE THE PLANT ALONE
 - **s1 (4 min)**  
   *Parent does:* Cut out the cards and tokens. Put the cards in a pile and the tokens in a row. Read the first card together.  
-  *Parent says:* You are the plant doctor. Each card describes a sick plant. Read the clues, and choose what is wrong.  
+  *Parent says:* Each card describes a sick plant. Read the clues together, and choose what is wrong.  
   *Child mode:* Cut out the cards and tokens. You are the plant doctor.
   - Ask: What clues would you look at first on a sick plant? (good: Which leaves are yellow, old or new.; Whether the soil is wet or dry.; How much light the plant gets.)
 - **s2 (8 min)**  
@@ -328,12 +328,12 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 - **predict:** Before you start, guess. Will the gaps in 100 millilitres of soil hold about 10, 25, 50 or 75 millilitres of water? Will loose or packed soil hold more? Why do you think so?
 - **fair test:** Every cup is the same size and holds exactly 100 millilitres of dry soil, filled the same way. You pour water at the same slow speed each time and stop at the same sign: a thin shine of water that stays on top for 30 seconds. Only the kind of soil, or how tightly it is packed, changes. So any difference in the water that went in comes from the soil.
 - **safety:** Do not breathe in dry soil dust. Spoon it gently and do not blow on it. Wash hands afterwards.
-- **record:** For each cup, write the water that went in and the percentage of gaps. Write whether the soil was loose or packed. Draw one cup with its bubbles.
+- **record:** For each cup, write the water that went in and the percentage of gaps. Write whether the soil was loose or packed. Take a photo of one cup with its bubbles, or draw it.
 - **results table:** Soil | Loose or packed | Water that filled the gaps (millilitres) | Gaps out of every 100 (percent) | Bubbles: none, a few or lots
 - **s1 (4 min)**  
-  *Parent does:* Show the soil, the cup and the water. Ask for a guess and a reason. Write the guess at the top of the table.  
-  *Parent says:* Here is 100 millilitres of dry soil. We will pour water on it until the water just reaches the top. How much water will go in? Why do you think so?  
-  *Child mode:* Here is dry soil in a cup. How much water will go in before it reaches the top? Why?
+  *Parent does:* Show the soil, the cup and the water. Ask for a guess and a reason. Write the guess down.  
+  *Parent says:* We will fill a cup with 100 millilitres of dry soil. Then we will pour water on it until the water just reaches the top. How much water will go in? Why do you think so?  
+  *Child mode:* Make your guess, and tell your grown-up why.
   - Ask: Where do you think the water will go? (good: Into the soil, between the bits.; It will soak in.; The soil will swell.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Most children guess a small amount, such as 10 to 25 millilitres. With one child, the child pours and watches, and the parent reads the jug. With two to four children, give each child one cup, let the parent read the jug, and compare the numbers on the board.
 - **s2 (8 min)**  
@@ -356,9 +356,9 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
   - Ask: Why does packed soil take less water? (good: Pressing squeezes the gaps smaller.; There is less air space.; There is more soil and fewer gaps.)
   - Note: Sand usually takes about 30 to 40 millilitres. Packed soil takes a little less than loose soil, often 3 to 10 millilitres less. Packing sand changes it only a little, and that is a real result. If the packed cup gives the same number as the loose one, repeat both and press harder. A gardener's path or a trampled field is like packed soil.
 - **s5 (6 min)**  
-  *Parent does:* Write down all the results. Ask your child what they found (the claim), what they saw that shows it (the evidence) and why it happens (the reasoning). Draw one cup with its bubbles.  
+  *Parent does:* Write down all the results. Ask your child what they found (the claim), what they saw that shows it (the evidence) and why it happens (the reasoning). Take a photo of one cup with its bubbles.  
   *Parent says:* What did you find? What did you see that shows it? Why does that matter for a root in a pot?  
-  *Child mode:* What did you find? What did you see? Why does it matter for roots?
+  *Child mode:* Tell your grown-up what you found and what you saw.
   - Ask: What would happen to the air in the soil if you filled the gaps with water and left them full? (good: The roots would have no air.; The roots would drown.; The air would be pushed out and the roots could not breathe.)
   - Check: A pot of soil stays filled with water for many days. What happens to the roots? → **They run out of air and begin to die**
   - Think: If the gaps are half of the soil, where are most of a plant's roots living: in the grains, or in the gaps?
@@ -367,13 +367,13 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 - **predict:** Before you start, guess. After two weeks, which jar will have the tallest, greenest seedlings? Which will have the smallest? Why do you think so?
 - **fair test:** All three jars are the same size, hold the same amount of the same water, and get the same light. Each has three seedlings of the same age and kind. Only the fertiliser changes: none in jar A, a small dose in jar B and a big dose in jar C. So any difference comes from the fertiliser.
 - **safety:** A grown-up reads the label and measures the fertiliser, because it can irritate eyes and skin. Keep it away from the mouth, and wash hands after touching the jars. Do not drink the water. Raw rajma seeds and sprouts are poisonous if eaten, so do not taste them, and do not cook any of these beans for food.
-- **record:** Counting from the day you soak the seeds, on days 4, 8, 12 and 18, measure the tallest shoot in each jar, match the leaf colour to a crayon, and note any brown or soft roots. Draw the three jars at the end.
+- **record:** Counting from the day you soak the seeds, on days 4, 8, 12 and 18, measure the tallest shoot in each jar, match the leaf colour to a crayon, and note any brown or soft roots. Take a photo of the three jars at the end, or draw them.
 - **results table:** Day | Jar A (plain water): height and leaf colour | Jar B (a small dose): height and leaf colour | Jar C (a big dose): height and leaf colour
 - **schedule:** day 1: Soak the seeds and wrap them in a damp cloth. Keep the cloth damp. (10 min); day 4: Make the three jars and set up the sprouts. Measure the starting height. (25 min); day 8: Measure the shoots and match the leaf colours. (5 min); day 12: Measure again and match the colours. Change the water. (5 min); day 18: Measure, check the roots and draw the jars. Write what you found, what you saw that shows it, and why it happened. (15 min)
 - **s1 (5 min)**  
-  *Parent does:* Show the seeds, the jars and the fertiliser. Ask for a guess and a reason. Write the guess at the top of the table.  
+  *Parent does:* Show the seeds, the jars and the fertiliser. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* We will grow beans with their roots in water, with no soil. One jar has plain water. One has a little fertiliser. One has a lot. Which will grow best? Why?  
-  *Child mode:* Beans will grow in water with no soil. One jar has plain water, one has a little fertiliser and one has a lot. Which will grow best? Why?
+  *Child mode:* Look at the three jars. Guess which jar will grow the best beans, and say why.
   - Ask: Do you think a bean can grow in plain water? For how long? (good: Yes, because the seed has food stored.; Only for a few days.; No, because plants need soil.)
   - Note: Do not correct the guess. A bean has a food store in the seed, so the seedling can grow for a while in plain water. The question is for how long.
 - **s2 (10 min)**  
@@ -383,21 +383,21 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
   - Note: Sprout a few more than nine seeds, in case some do not sprout. Rinse the cloth once a day with clean water. If a seed turns soft or smells sour, throw that seed away. At the end, choose nine seeds with matching roots.
   - Wait: Wait 3 days for the roots
 - **s3 (15 min) · grown-up needed**  
-  *Parent does:* A grown-up reads the fertiliser label and mixes 1 litre of strong solution in the bottle, at double the label dose. Pour 300 millilitres of strong solution into jar C. For jar B, mix 75 millilitres (five tablespoons) of strong solution with 225 millilitres of low-mineral water, which means distilled water or clean rainwater. Fill jar A with 300 millilitres of low-mineral water only.  
-  *Parent says:* Jar A gets plain low-mineral water. Jar C gets the strong solution, double the label dose. Jar B gets one quarter of that, which is half the label dose. A grown-up measures. Mark the jars.  
-  *Child mode:* A grown-up measures the fertiliser. Mark the jars A, B and C.
+  *Parent does:* A grown-up reads the fertiliser label and mixes 1 litre of strong solution in the bottle, at double the label dose. Pour 300 millilitres of strong solution into jar C. For jar B, mix 75 millilitres (five tablespoons) of strong solution with 225 millilitres of low-mineral water, which means distilled water or clean rainwater. Fill jar A with 300 millilitres of low-mineral water only. Lay a card on each jar. Rest three sprouts in the holes. The roots hang down into the water, and the seeds stay above it. Leave a small air gap under the card. Wrap each jar in dark paper.  
+  *Parent says:* Jar A gets plain low-mineral water. Jar C gets the strong solution, double the label dose. Jar B gets one quarter of that, which is half the label dose. A grown-up measures. Mark the jars. Then rest three sprouts on each card, with their roots in the water.  
+  *Child mode:* A grown-up measures the fertiliser. Mark the jars A, B and C. Rest three sprouts on each card, with their roots in the water.
   - Note: Labels usually give a dose per litre, so double it for the strong solution (for example, 2.5 millilitres per litre becomes 5). Measure carefully, because the point of the test is the difference in dose. Ordinary tap water already holds some minerals, so jar A is only low in minerals, not empty, and the difference may be smaller. Wrap each jar in dark paper to stop green slime growing on the roots. Tape the card over each jar and push the sprouts through, so that the seed rests on the card and only the roots reach the water. Leave a small air gap between the water and the card, because roots need air too. Top up with the same solution when the water drops. With one child, the child sets up and measures all three jars. With two to four children, each child takes one jar, and then they compare.
   - Check: Why do we leave a small air gap between the water and the card? → **Roots in water still need air to breathe**
 - **s4 (5 min)**  
   *Parent does:* On days 4, 8 and 12, measure the tallest shoot in each jar and match the leaf colour. Write the results. Top up the water.  
   *Parent says:* Measure the tallest shoot in each jar. Match the leaf colour to a crayon. What is changing? What is the same?  
-  *Child mode:* Measure the tallest shoot in each jar. Match the leaf colour.
+  *Child mode:* Measure the tallest shoot in each jar. Match the leaf colour to a green crayon.
   - Ask: Which jar is doing best so far? Which is doing worst? (good: Jar B is tallest and greenest.; Jar A is pale.; Jar C has brown tips.)
   - Note: Seeds have their own store, so the three jars may look alike for the first week or so. Differences usually start to show in the second or third week, and the full signs can take 2 to 4 weeks. Change all the water and solutions every 5 days, or every 3 days in hot weather, with the same doses. Use a bright window, because in a dim room all three jars stay pale. If a root turns slimy or smells sour, rinse the root and write it down.
 - **s5 (10 min)**  
-  *Parent does:* On day 18, measure and match the colours again. Check the roots. Draw the three jars. Write what you found (the claim), what you saw that shows it (the evidence) and why it happened (the reasoning).  
-  *Parent says:* Compare the three jars. Which seedlings look healthiest? What happened to the roots in jar C? What does this show?  
-  *Child mode:* Compare the three jars. Check the roots. Which grew best?
+  *Parent does:* On day 18, measure and match the colours again. Check the roots. Take a photo of the three jars. Write what you found (the claim), what you saw that shows it (the evidence) and why it happened (the reasoning).  
+  *Parent says:* Which seedlings look healthiest? What happened to the roots in jar C? What does this show?  
+  *Child mode:* Look at the roots in each jar. Which jar grew best?
   - Ask: Why might a big dose of fertiliser be worse than a small dose? (good: Strong fertiliser can burn the roots.; Too many salts make it hard for roots to take in water.; More is not always better.)
   - Note: If all three jars still look alike on day 18, the seeds' store may have lasted. That is a real result too. Leave the jars up to day 28 and measure on days 22 and 28, or repeat with smaller seeds such as moong. Jar C may look as good as jar B, because a houseplant fertiliser at double dose does not always burn roots. That is also a real result: the harm starts at a much stronger dose, which a child should not handle alone.
   - Check: Seedlings in plain water are pale and small after two weeks, though the seeds were healthy. What is the best explanation? → **Plain water has almost no minerals, and the seeds' store has run out**
@@ -407,11 +407,11 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 - **predict:** Before you start, guess. After ten days, which jar will have more and longer roots: the one with air in the water, or the one with the air shut out? Why do you think so?
 - **fair test:** Both jars hold the same boiled and cooled water, five cuttings each of the same plant, in the same light. Boiling drives most of the dissolved air out of the water. In jar A, a thin layer of oil on top keeps new air from getting in. In jar B, there is no oil, and you stir the water each day so that air mixes in. Only the air in the water changes.
 - **safety:** A grown-up boils the water and lets it cool completely before it is poured. Take care with oil, which makes floors slippery. Do not eat the cuttings from the test. Wash the spoon and jars well afterwards.
-- **record:** On days 3, 6 and 10, count the new roots and measure the longest root in each jar. Draw one cutting from each jar.
+- **record:** On days 3, 6 and 10, count the new roots and measure the longest root in each jar. Take a photo of one cutting from each jar, or draw it.
 - **results table:** Jar | Air in the water | Number of new roots at day 10 | Length of the longest root (centimetres) | Colour and feel of the roots
 - **schedule:** day 1: A grown-up boils the water. Let it cool. Set up the two jars with cuttings, and add the oil to jar A. (27 min); day 3: Stir jar B. Count and measure the roots. (5 min); day 6: Stir jar B. Count and measure the roots. (5 min); day 10: Count and measure the roots one last time. Draw a cutting from each jar. Write what you found, what you saw that shows it, and why it happened. (10 min)
 - **s1 (5 min)**  
-  *Parent does:* Show the cuttings and the jars. Ask for a guess and a reason. Write the guess at the top of the table.  
+  *Parent does:* Show the cuttings and the jars. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* Boiling water drives out its air. Oil on top keeps air out. Will roots grow well in water with no air? Why do you think so?  
   *Child mode:* One jar has water with no air. The other has water with air. In which jar will roots grow better? Why?
   - Ask: Do you think roots need air? How could we find out? (good: Yes, because roots are alive and breathe.; We could grow roots with and without air.; No, because roots are in water, not air.)
@@ -423,58 +423,58 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
   - Note: Dissolved air comes out of water when it is heated. If you pour the water into the jars while it is still hot, you risk cracking glass and burning a child. Cool it to room temperature, then use it. Do not pour it from a great height, which mixes air back in.
   - Check: Why do we boil the water for this test? → **Boiling drives out the dissolved air**
 - **s3 (10 min)**  
-  *Parent does:* Put five cuttings in each jar. Pour in the cooled water gently. Add a thin layer of oil on the top of jar A. Leave both jars in the same bright place.  
-  *Parent says:* Put five cuttings in each jar. Pour in the water gently. Add the oil to jar A only. Put both jars side by side.  
-  *Child mode:* Five cuttings in each jar. Add oil to jar A only.
+  *Parent does:* Put five cuttings in each jar. Pour 300 millilitres of the cooled water gently into each jar. Add a thin layer of oil on top of jar A, the no-air jar. Jar B has no oil, and it is the air jar. Leave both jars in the same bright place.  
+  *Parent says:* Put five cuttings in each jar. Pour in the water gently. Add the oil to jar A only. Jar B gets no oil, and you will stir it each day so that air mixes back in. Put both jars side by side.  
+  *Child mode:* Five cuttings in each jar. Oil on jar A only. Jar B is the one you will stir.
   - Note: Cut each cutting just below a joint, and remove the bottom leaves so that none sit in the water. Pour the water slowly down the side of the jar to keep air out. Put the oil in after the cuttings, so that the oil does not coat the stems when you push them in. Stir jar B gently with a clean spoon each day for about 30 seconds, to let air in. Do not touch jar A. With one child, the child sets up both jars and does the daily stir. With two to four children, each child takes one cutting in each jar, labels them with a tag, and measures their own.
   - Check: What is the oil layer for? → **It stops new air from dissolving into the water**
 - **s4 (5 min)**  
   *Parent does:* On days 3, 6 and 10, count the new roots and measure the longest in each jar. Stir jar B each day. Write the results.  
-  *Parent says:* Count the new roots. Measure the longest. Compare the two jars. Do you see a difference?  
-  *Child mode:* Count the roots in each jar. Measure the longest.
+  *Parent says:* Count the new roots in each jar. Measure the longest. Then stir jar B gently.  
+  *Child mode:* Count the new roots. Measure the longest one with a ruler.
   - Ask: Which jar has more roots so far? Is that what you expected? (good: Jar B has more roots.; There is no difference yet.; Jar A has fewer and they look brown.)
   - Note: Roots may take 5 to 7 days to show, sooner in hot weather. Mint and coleus root easily even in still water, and a cutting can carry some air down inside the stem, so the difference may be small, or none. That is a real result: say so, and repeat with more cuttings or a plant that roots more slowly. Do not top up jar A, because new water brings in air. If the roots in jar A look brown or soft, or the water smells sour, that is a sign of too little air.
 - **s5 (8 min)**  
-  *Parent does:* Between day 10 and day 12, count and measure the roots one last time. Draw one cutting from each jar. Write what you found (the claim), what you saw that shows it (the evidence) and why it happened (the reasoning).  
+  *Parent does:* Between day 10 and day 12, count and measure the roots one last time. Take a photo of one cutting from each jar. Write what you found (the claim), what you saw that shows it (the evidence) and why it happened (the reasoning).  
   *Parent says:* Which jar grew more and longer roots? What does that tell us about roots and air?  
-  *Child mode:* Which jar has more roots? What does that tell you about air?
+  *Child mode:* Count and measure the roots one last time in both jars.
   - Ask: What might a rice plant or a lotus do that a mint cutting cannot? (good: They carry air down to their roots through channels in the stem.; They have air tubes.; They live in mud where there is no air.)
   - Check: Cuttings in water with air grew more roots than cuttings in water with the air kept out. What does this show? → **Roots grow better when they can get oxygen**
   - Think: A paddy plant grows in water for months. How might the plant get air to the roots?
 
 ## Activities
 ### a1 · Soil in a Jar: what is soil made of? (20 min, 2 days)
-- **record:** Draw the jar after 1 minute, after 1 hour and after 1 day. Label the layers and measure each with a ruler.
+- **record:** Take a photo of the jar after 1 minute, after 1 hour and after 1 day, or draw it. Name the layers and measure each with a ruler.
 - **schedule:** day 1: Shake soil and water in a jar. Watch it settle for 1 minute, then leave it. (15 min); day 2: Measure and draw the layers. (5 min)
 - **s1 (5 min)**  
   *Parent does:* Ask your child to guess how many layers the soil will make. Write the guess.  
   *Parent says:* We will shake soil in water and wait. How many layers do you think will form? What will each be made of? Why do you think so?  
-  *Child mode:* You will shake soil in water. How many layers will you see? Why?
+  *Child mode:* Guess how many layers will form. Say why.
   - Ask: Do you think the heavy bits or the light bits will settle first? (good: The heavy bits, like sand.; The big bits.; The light bits float.)
   - Note: Do not correct the guess. If you want more to compare, use two soils (garden soil and sandy or red soil) in two jars. Two to four children can take one jar each, with soil from different places. Most soils make three layers of mineral grains, with floating bits of dead leaf on top.
 - **s2 (10 min)**  
-  *Parent does:* Fill the jar one-third with soil. Add water to three-quarters. Close the lid. Shake hard for one minute. Stand the jar still. Draw it after one minute and after one hour.  
-  *Parent says:* Shake the jar for one whole minute. Put it down and watch. What settles first? Draw the jar now.  
+  *Parent does:* Fill the jar one-third with soil. Add water to three-quarters. Close the lid. Shake hard for one minute. Stand the jar still. Take a photo of it after one minute and after one hour.  
+  *Parent says:* Shake the jar for one whole minute. Put it down and watch. What settles first? Take a photo of the jar now.  
   *Child mode:* Shake the jar for one minute. Put it down. Watch what settles first.
   - Ask: What do you see settling at the bottom first? What stays cloudy? (good: Sand falls first.; The fine bits stay in the water.; Leaf bits float on top.)
   - Note: Sand settles in about a minute. Silt settles over an hour or two. Clay can take a day or more and may still cloud the water, so after a day the layers may not be sharp. That is normal. Layer thicknesses depend on your soil. Dark floating bits are humus and leaf. Do not shake the jar again after the first minute.
   - Check: Why does sand settle first in the jar? → **Its grains are bigger and heavier, so they sink faster**
 - **s3 (5 min)**  
-  *Parent does:* The next day, look at the jar. Measure each layer with a ruler. Draw and label the jar. Talk about where the gaps are and where roots live.  
-  *Parent says:* Measure each layer. Which is thickest? Where do you think the air gaps are in dry soil? What does this soil have that sand alone would not?  
-  *Child mode:* Measure each layer. Which is thickest? Draw the jar.
+  *Parent does:* The next day, look at the jar. Measure each layer with a ruler. Take a photo. Point to each layer and name it: sand at the bottom, then silt, then clay. Talk about where the gaps are and where roots live.  
+  *Parent says:* Which layer is thickest? Where do you think the air gaps are in dry soil? What does this soil have that sand alone would not?  
+  *Child mode:* Measure each layer with a ruler. Point to the thickest one.
   - Think: Soil is mostly tiny rock grains with a little dead leaf. Why does a plant grow better in soil than in pure sand?
 ### a2 · Who Lives in the Soil? A spoonful of life (if you have a garden or a park nearby) (25 min)
-- **record:** Draw up to five different creatures. Write how many of each you found, and what you think each one eats.
+- **record:** Take a photo of up to five different creatures, or draw them. Write how many of each you found, and what you think each one eats.
 - **s1 (5 min)**  
   *Parent does:* Ask your child to guess how many different kinds of living thing will be in one spoonful. Write the guess.  
   *Parent says:* We will look at one spoonful of soil. How many different living things do you think we will find? Why do you think so?  
-  *Child mode:* Here is a spoonful of soil. How many living things will you find? Guess.
+  *Child mode:* Make your guess, and say why.
   - Note: Do not correct the guess. Use a spoon and never your fingers, and stay away from anything that stings or bites. Put every creature back where you found them. If you have no garden, use a park, the soil from under a plant pot, or leaf litter from beneath a tree. In hot dry weather, look under stones, pots or damp leaves. One child can do it alone with a parent watching. Two to four children can take one sheet each, with soil from different spots, and compare.
 - **s2 (15 min)**  
-  *Parent does:* Spread the spoonful on the white sheet. Look slowly with the magnifier for five minutes. Draw each kind you find and tally how many.  
-  *Parent says:* Wait and watch. Some creatures are very small and slow. Draw each kind you find. Count how many of each.  
-  *Child mode:* Spread the soil on the sheet. Look with a magnifier. Draw and count.
+  *Parent does:* Spread the spoonful on the white sheet. Look slowly with the magnifier for five minutes. Use the spoon tip to sort them into groups of the same kind. Count each group.  
+  *Parent says:* Wait and watch. Some creatures are very small and slow. Put creatures of the same kind in a group. Count each group.  
+  *Child mode:* Spread the soil on the sheet. Look with a magnifier. Sort and count.
   - Ask: What do you think each creature eats? What do they do in the soil? (good: They eat dead leaves.; They break down the leaves into smaller bits.; Some eat other tiny creatures.)
   - Note: You may find ants, mites, springtails, small worms, beetle grubs and millipedes. Many are decomposers that eat dead leaves. Do not worry if you find few. In a very dry or very sandy soil, you will find less. Try under a damp leaf pile.
   - Check: Why are creatures in the soil useful to plants? → **They break dead leaves into minerals and keep the soil loose**
@@ -485,20 +485,20 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
   - Think: There are more living things in a spoon of healthy soil than you can count. What do they do while we are not looking?
 ### a3 · Find the Pink Factories: nodules on a bean's roots (25 min)
 - **safety:** A grown-up does the cutting with the blade. Wash hands after handling roots and soil.
-- **record:** Draw the root with the nodules. Count them. Draw one cut nodule and its colour.
+- **record:** Count the nodules. Take a photo of the root and of one cut nodule, or draw them. Write the colour inside.
 - **s1 (5 min)**  
   *Parent does:* Show the plant and ask your child what lives on the roots. Ask for a guess and a reason. Write the answer.  
   *Parent says:* Some plants have helpers on their roots. What might you see? What do you think the helpers do?  
   *Child mode:* Look at the roots. What might live there? Guess.
   - Note: Do not correct the guess. You can get a whole groundnut plant from a market in the groundnut season, or from a field. Moong or chana plants grown in garden soil for five weeks can show small nodules. Potting mix from a bag often has no bacteria, and so no nodules. This is the activity most likely to fail at home, so check a market or a farmer's field for a pulled-up plant. If you find no nodules, look at the pictures and say honestly what you did not see. Two to four children can share one plant and one magnifier, and take turns to count.
 - **s2 (10 min)**  
-  *Parent does:* Wash the roots gently in a bowl of water. Look for round lumps along the roots. Count them. Do not pull them off.  
+  *Parent does:* Wash the roots gently in a bowl of water. Look for round lumps along the roots. These lumps are called nodules. Count them. Do not pull them off.  
   *Parent says:* Look closely at the roots. Do you see small round lumps? Count them. Don't pull them off, as they are part of the root.  
   *Child mode:* Wash the roots. Look for round lumps. Count them.
   - Ask: What do you think the lumps are? Are they part of the plant? (good: They are lumps made by the plant.; They are houses for bacteria.; They are swellings.)
   - Note: Nodules are firm, round lumps stuck to the root. They are not the same as the long, thin hairs or the root's own swellings. Old, dead nodules look grey or green inside.
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* A grown-up cuts one nodule in half. Look at the colour inside. Pink or red means the nodule is working. Draw it.  
+  *Parent does:* A grown-up cuts one nodule in half. Look at the colour inside. Pink or red means the nodule is working. Take a photo of it.  
   *Parent says:* A grown-up cuts one lump in half. What colour is the inside? A pink inside means the bacteria are fixing nitrogen.  
   *Child mode:* A grown-up cuts a nodule. What colour is the inside?
   - Ask: The plant gives sugar to the bacteria. What does the plant get back? (good: Nitrogen that the plant can use.; Food for making leaves and seeds.; A kind of fertiliser.)
@@ -507,9 +507,9 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 ### a4 · Plant Check-up Walk: read the leaves and feel the soil (25 min)
 - **record:** A table with five plants: where the plant grows, which leaves look unusual, soil wet or dry by the finger test, light, and your best guess.
 - **s1 (5 min)**  
-  *Parent does:* Draw a table with five rows. Write the columns: plant, leaves, soil, light, my guess. Explain the finger test: push a clean finger two knuckles deep into the soil. If it feels dry, the plant needs water. If it feels damp or wet, wait.  
+  *Parent does:* Make a table with five rows. Write the columns: plant, leaves, soil, light, my guess. Explain the finger test: push a clean finger two knuckles deep into the soil. If it feels dry, the plant needs water. If it feels damp or wet, wait.  
   *Parent says:* We will check five plants like a plant doctor. For each one, look at the leaves, feel the soil and think about the light.  
-  *Child mode:* Draw a table. Look at five plants. Do the finger test on each soil.
+  *Child mode:* Make a table. Look at five plants. Do the finger test on each soil.
   - Note: Play Plant Doctor first, or copy a few clues from its tokens. Two to four children can each take different plants, and then compare guesses. Only touch plants that belong to you or that you have permission to touch. For the finger test, push a clean finger two knuckles deep into the soil, away from the stem. Wash hands afterwards.
 - **s2 (15 min)**  
   *Parent does:* Visit each plant in turn. Check the old and new leaves. Do the finger test. Note the light. Write a guess for each.  
@@ -521,15 +521,15 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 - **s3 (5 min)**  
   *Parent does:* Share your guesses with a family member. Which plant had the clearest clues? Which was hardest to guess?  
   *Parent says:* Tell me about your plants. Which clue was the clearest? Which plant was hardest to guess? What more would you need to know?  
-  *Child mode:* Tell someone about your plants. Which was hardest to guess?
+  *Child mode:* Tell a family member about your five plants.
   - Think: A plant doctor never knows for sure from one look. What else could you check to be more certain?
 ### a5 · Liebig's Bottle: the shortest plank sets the level (20 min)
 - **safety:** A grown-up cuts the bottle with scissors, and smooths the cut edges so they are not sharp.
-- **record:** Draw the bottle with its five notches labelled with minerals. Mark where the water level stopped each time. Count how many cups of water the bottle held each time.
+- **record:** Take a photo of the bottle each time the water spills. Write which notch it spilled from. Count how many cups of water the bottle held each time.
 - **s1 (5 min)**  
-  *Parent does:* Show the bottle and ask your child to guess where the water will spill. Write the guess.  
+  *Parent does:* A grown-up cuts five notches in the rim of the bottle, at different depths. Label them N, P, K, Ca and Fe, for nitrogen, phosphorus, potassium, calcium and iron. Ask your child to guess where the water will spill. Write the guess.  
   *Parent says:* Each notch is a mineral. The water is how well the plant can grow. When we fill the bottle, where will the water spill? Why do you think so?  
-  *Child mode:* The water level stands for how well the plant grows. Where will the water spill? Why?
+  *Child mode:* Guess which notch the water will spill from. Say why.
   - Ask: If you pour more water in, will the water level go higher than the lowest notch? (good: No, it will spill out of the lowest one.; Yes, if I pour fast.; It stays at the lowest notch.)
   - Note: Do not correct the guess. Make the notches at five clearly different heights, 1 to 2 centimetres apart, on the rim of the cut bottle. Label the notches N for nitrogen, P for phosphorus, K for potassium, Ca for calcium and Fe for iron. Dry the outside before taping. With one child, the child pours and the parent counts. With two to four children, one pours, one tapes, one counts cups and one records. Or each child makes a bottle with different notch heights and predicts where the water will spill.
 - **s2 (10 min)**  
@@ -545,7 +545,7 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
   - Think: In a bottle, you can see the lowest notch. A farmer cannot see it in the soil. How could she find it?
 ### a6 · Air Pipes in a Lotus Stem: how roots in mud get air (15 min)
 - **safety:** A grown-up cuts the stem with the knife. Never put a raw lotus stem in your mouth, because raw water plants can carry germs and parasites. Wash hands afterwards. Blow through a clean drinking straw, not the stem.
-- **record:** Draw the cut end of the stem and count the holes. Draw the bubbles in the water.
+- **record:** Count the holes in the cut end of the stem. Take a photo of the bubbles in the water, or draw them.
 - **s1 (3 min)**  
   *Parent does:* Show the lotus stem and ask what the holes might be for. Write the guess.  
   *Parent says:* A lotus grows with their roots in mud, where there is almost no air. How might the roots get air? Why do you think so?  
@@ -559,25 +559,25 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
   - Note: Cut pieces fresh, because the cut ends dry out. Blow gently. Air passes along a segment but joints often block it, so use one piece between two joints. If no bubbles appear, try another piece, or cut off a little more at the end. A taro (arbi) leaf stalk also works. With one child, the parent cuts and seals, and the child blows. Two to four children take turns, each with their own clean straw.
   - Check: Why do plants that grow in mud, such as lotus and rice, have air channels? → **To carry oxygen from the leaves down to roots in mud that has none**
 - **s3 (4 min)**  
-  *Parent does:* Draw what you saw. Talk about how a pot plant, a rice plant and a lotus get air to their roots.  
+  *Parent does:* Tell your grown-up what you saw in the stem and in the water. Talk about how a pot plant, a rice plant and a lotus get air to their roots.  
   *Parent says:* How does a pot plant get air to their roots? How does a rice plant? Are the ways the same?  
-  *Child mode:* Draw what you saw. How do roots in mud get air?
+  *Child mode:* Tell your grown-up what you saw. How do roots in mud get air?
   - Think: A mangrove tree grows in salty mud, and sends up pencil-like roots into the air. What might those roots be for?
 
 ## Projects
 ### p1 · From Peels to Plant Food: a compost bottle (40 min, 35 days)
 - **safety:** A grown-up cuts the bottle and makes the holes. Wash hands after touching compost. Do not put your nose close to the heap. Sniff gently from a distance. Keep the bottle away from food and from small children who might put the compost in their mouths. Anyone with asthma or a mould allergy should not handle the compost, and a grown-up should wear a mask when stirring it if the heap looks mouldy.
-- **record:** A table with the date, the height of the heap, the smell, the colour and anything alive you see. Draw the bottle on days 1, 21 and 35.
-- **schedule:** day 1: Build the compost bottle in layers. Mark the starting height. Cover the top with cloth. (40 min); day 4: Stir with a stick. Check that it feels like a wrung-out sponge. Write what you see and smell. (5 min); day 11: Stir. Measure the height. Add water or dry leaves if needed. (5 min); day 21: Stir. Measure the height. Draw the colours. (5 min); day 35: Look, smell and measure. Compare with day 1. Write what the decomposers did. (15 min)
+- **record:** A table with the date, the height of the heap, the smell, the colour and anything alive you see. Take a photo of the bottle on days 1, 21 and 35, or draw it.
+- **schedule:** day 1: Build the compost bottle in layers. Mark the starting height. Cover the top with cloth. (40 min); day 4: Stir with a stick. Check that it feels like a wrung-out sponge. Write what you see and smell. (5 min); day 11: Stir. Measure the height. Add water or dry leaves if needed. (5 min); day 21: Stir. Measure the height. Write down the colours, or take a photo. (5 min); day 35: Look, smell and measure. Compare with day 1. Write what the decomposers did. (15 min)
 - **s1 (5 min)**  
   *Parent does:* Show the peels, the leaves and the bottle. Ask for a guess and a reason about what will happen over five weeks. Write it down.  
   *Parent says:* We will fill a bottle with peels and leaves and leave it for five weeks. What do you think will happen? Why do you think so?  
-  *Child mode:* We will leave peels and leaves in a bottle for five weeks. What will happen? Why?
+  *Child mode:* Make your guess. What will happen to the peels and leaves? Say why.
   - Ask: Who do you think will do the work in the bottle? (good: Tiny living things like bacteria and fungi.; Worms.; Nobody. It will just dry out.)
   - Note: Do not correct the guess. To compare, two to four children can each build a bottle with one change (no dry leaves, large pieces of peel, or no soil starter) and compare after five weeks. One child alone can build two bottles. Any guess with a reason is a good start. The bacteria and fungi are already on the peels and leaves.
 - **s2 (25 min) · grown-up needed**  
   *Parent does:* A grown-up cuts the bottle and pokes holes. Layer a handful of dry leaves, a handful of chopped peels, and a handful of soil. Repeat. Spray with water until damp.  
-  *Parent says:* Build it in layers: dry leaves, then peels, then soil. Then do the three layers again. Spray with water until it feels like a wrung-out sponge. The air holes, and the stirring, bring oxygen to the tiny decomposers, which need it to breathe.  
+  *Parent says:* Build it in layers: dry leaves, then peels, then soil. Then do the three layers again. Spray with water until it feels like a wrung-out sponge. Tiny living things called decomposers will rot the peels. They need air to breathe, so the bottle has air holes, and we will stir the heap.  
   *Child mode:* A grown-up cuts the bottle. Add layers of leaves, peels and soil. Spray with water.
   - Note: Cut the peels small, which helps them rot faster. Mix about two parts dry leaves to one part peels. The heap should be damp but not dripping. If it is too wet, it will smell sour, because the gaps fill with water and run out of air. Add dry leaves, and stir.
   - Check: Why do we poke air holes in the bottle and stir the heap? → **The decomposers need oxygen to work and rot the waste**
@@ -587,7 +587,7 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
   *Child mode:* Cover the top. Mark the height. Put it in a warm, shady place.
   - Wait: Look again every 1 to 2 weeks
 - **s4 (10 min)**  
-  *Parent does:* On the checking days, stir the heap, measure the height and write down the smell and colour. On day 35, compare with day 1.  
+  *Parent does:* On days 4, 11, 21 and 35, stir the heap, measure the height and write down the smell and colour. On day 35, compare with day 1.  
   *Parent says:* Stir the heap. Measure the height. How does it smell? What colour is it? Has it shrunk? Who did that?  
   *Child mode:* Stir the heap. Measure it. Smell it gently. Write what you find.
   - Ask: The heap has shrunk and turned dark. Where did the material go? (good: Some became carbon dioxide and water that went into the air.; The decomposers ate it and breathed it out.; Some turned into dark compost.)
@@ -597,18 +597,18 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 ## Challenges
 ### c1 · The Pot That Never Drowns: design a pot that drains well and still holds water (40 min)
 - **problem:** Design a pot from recycled things that lets extra water out in a heavy monsoon shower, so the roots never drown, but that still keeps some water for a hot summer day. Test it with 300 millilitres of water poured in over 10 seconds.
-- **your turn:** Sketch your design. Build it and test it with 300 millilitres. Measure the water that drains out and the water that stays. Change one thing and test again. Which design worked best? Why do you think so?
+- **your turn:** Sketch your design, or describe it to your grown-up. Build it and test it with 300 millilitres. Measure the water that drains out and the water that stays. Change one thing and test again. Which design worked best? Why do you think so?
 - **constraints:** Use only recycled things, such as plastic bottles, tins, cups, stones, sand and coconut husk.; Do not use electricity or any pump.; Fill your pot to the same level with the same soil for every test.; After the test, at least 100 millilitres of the water must stay in the soil, and at least 100 millilitres must drain out within 2 minutes.
 - **general:** A pot with several holes in the bottom and a layer of small stones at the bottom.; A pot raised on two bricks, so that the water drains into the saucer and never touches the pot.; Soil mixed with sand and coconut husk to open up more gaps.
 - **creative:** A two-part pot, with the soil in an upper bottle and a water store in a lower bottle, joined by a strip of cloth that pulls up water as the soil dries.; Side holes a little above the bottom, so a small pool of water stays low for dry days.; A bed of coconut husk in a ring around the roots, which holds water like a sponge and still lets air in.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem and the rules together. Ask your child to sketch two or three pot designs. Write down a guess of how much water will drain out.  
-  *Parent says:* Your pot must let extra water out, but keep some for a dry day. How could you do both? Draw some ideas first.  
-  *Child mode:* Your pot must drain but still hold some water. Draw some ideas first.
+  *Parent does:* Read the problem and the rules together. Ask your child to plan two or three pot designs, as quick sketches or by telling you. Write down a guess of how much water will drain out.  
+  *Parent says:* Your pot must let extra water out, but keep some for a dry day. How could you do both?  
+  *Child mode:* Think of two or three pot designs. Sketch them, or tell your grown-up.
   - Ask: What makes water drain out of a pot? What makes it stay in? (good: Holes at the bottom let water out.; Sand and stones let water run through.; Fine soil and husk hold water like a sponge.)
 - **s2 (20 min)**  
   *Parent does:* Build your first pot. Fill it with soil to a marked level. Pour 300 millilitres of water over 10 seconds. Measure what drains out after 2 minutes.  
-  *Parent says:* Build your pot. Pour in 300 millilitres. Wait two minutes. How much drained out? How much stayed?  
+  *Parent says:* Build your pot. Pour in 300 millilitres over 10 seconds. Wait two minutes.  
   *Child mode:* Build your pot. Pour in 300 millilitres. Measure what drains out.
   - Ask: How much drained out? How much stayed in the soil? (good: More than half drained.; Less than 100 millilitres stayed.; Hardly anything drained.)
   - Note: The water that stays is 300 minus what drained out, though a little will cling to the cup and the tray. A grown-up cuts the pot and pokes the holes, and smooths any sharp edges. Pour slowly onto the middle of the soil, because water that runs over the rim counts as drained. A plain bottle with a few holes usually drains about 50 to 150 millilitres. More holes or sand drain more. Coconut husk or cocopeat holds more. Let the soil start dry each time, or note if it started damp. Two to four children can each build a pot, and then compare. One child can build a second pot after the first.
@@ -626,8 +626,8 @@ Paati stood at the balcony with her arms folded. 'Check the soil with your finge
 - **creative:** Mix the crops in a smart order: rice, then black gram, then maize, then groundnut, then rice, then black gram.; Plan around a neighbour: share the fertiliser bag between two fields.; Add a fallow season, in which the field is left to rest and nothing is grown.
 - **s1 (5 min)**  
   *Parent does:* Read the rules. Ask your child why a farmer might grow dal after rice. Write the answer.  
-  *Parent says:* Rice takes nitrogen from the soil. Black gram puts it back. What plan do you think will give the most food over six seasons? Why?  
-  *Child mode:* Rice takes nitrogen. Dal puts it back. What plan gives the most food?
+  *Parent says:* Rice takes nitrogen from the soil. Black gram, a kind of dal, puts it back. What plan do you think will give the most food over six seasons? Why?  
+  *Child mode:* Think about which crop to grow in each season. Guess which plan gives the most food.
   - Ask: What happens if the farmer grows only rice for six seasons? (good: The nitrogen runs out after two seasons.; The rice stops growing well.; She has to buy fertiliser.)
 - **s2 (15 min)**  
   *Parent does:* Try a plan. Write each season's crop, the nitrogen left and the harvest points. Add up the harvest. Then try a second plan.  

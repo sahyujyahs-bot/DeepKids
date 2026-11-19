@@ -248,7 +248,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 - **s2 (4 min)**  
   *Parent does:* Find the wall clock card and turn it over. Read both sides aloud: this is the anchor card. Then read the front of the card for the heart of a resting child, and let your child choose a token.  
   *Parent says:* The clock card ticks once each second. The next card is the heart of a resting child. Does it beat faster or slower than the clock ticks? Choose a token and turn it over.  
-  *Child mode:* A clock ticks once a second. A child's heart beats about one and a half times a second. Faster or slower?
+  *Child mode:* The clock card ticks once a second. Does the heart card repeat faster or slower? Choose a token.
   - Check: A clock ticks once each second. A resting child's heart beats about 90 times each minute. Which repeats more often? → **The heart beats more often**
 - **s3 (8 min)**  
   *Parent does:* Play the rest of the pile. After every four cards, ask the question below. Keep a score of right guesses.  
@@ -263,8 +263,8 @@ That evening Dechen counted the swings again, from the very middle of the bridge
   - Check: In the line, the ceiling fan, the bee, the violin string and the police whistle are all in a row. Which one repeats most often? → **The police whistle**
 - **s5 (3 min)**  
   *Parent does:* Look at the line together. Ask the question below, and let your child answer before you say anything.  
-  *Parent says:* Look at the line. Some things beat once a day. Some things beat billions of times a second. What do you notice about the cards at the fast end?  
-  *Child mode:* Look at the fast end of the line. What kinds of things are there?
+  *Parent says:* Look at the line. Some things beat once a day. Some things beat billions of times a second.  
+  *Child mode:* Look closely at the cards at the fast end of the line.
   - Ask: What kinds of things are at the fast end of the line? (good: Waves, like radio and light.; Things you can hear, like whistles and wings.; Things too small or too fast to see.)
   - Note: The slow end is full of big things, such as the Earth and the Moon. The fast end is full of waves. Light and radio repeat so fast that we cannot count them, but we can work out how often from their wavelength.
 
@@ -279,7 +279,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 - **s1 (5 min)**  
   *Parent does:* Show your child the washer, the thread and the stopwatch. Ask for a guess and a reason for each of the three things. Write the guesses in the table.  
   *Parent says:* We will hang a washer on a thread. Three things might change how long it takes to swing: a longer thread, a heavier washer, or a wider swing. For each one, will the swing take more time, less time or the same? Why do you think so?  
-  *Child mode:* A washer on a thread. Will a longer thread, a heavier washer or a wider swing change the time? Why?
+  *Child mode:* Look at the washer and thread. Guess what could change the swing time: the length, the weight, or the width.
   - Ask: Will a wider swing take longer? Why do you think so? (good: It has further to go.; It goes faster, so it takes the same time.; It is the same washer, so the same.)
   - Note: Do not correct any guess. Many children say a heavier washer swings faster, and many say a wider swing takes longer. Write each guess with its reason so you can come back to it.
 - **s2 (8 min) · grown-up needed**  
@@ -374,11 +374,11 @@ That evening Dechen counted the swings again, from the very middle of the bridge
   - Think: Which of your three beats can you change on purpose, and which can you hardly change at all?
 ### a2 · The Wave Grid: shift and colour (20 min)
 - **problem:** A wave moves along a line. In this paper activity, each row is one beat of time. Each column is a place along the line. A coloured square is a crest. A wave-maker at the left end makes new crests. Every crest slides along the line. You change how often crests are made. You also change how far they slide each beat. Then you measure the gap between crests.
-- **record:** Three coloured grids. Under each, write the beat, the speed and the gap between coloured squares in a row.
+- **record:** Your coloured grid, and your grain lines. For each of the three tries, write the beat, the speed and the gap between crests.
 - **s1 (4 min)**  
-  *Parent does:* Draw a grid with 12 columns and 12 rows. Number the rows 1 to 12 down the side. Each row is one beat of time. The columns are places along a line.  
+  *Parent does:* On squared paper, mark a block 12 squares across and 12 squares down. Number the rows 1 to 12 down the side. Each row is one beat of time. The columns are places along a line.  
   *Parent says:* This grid shows a line of 12 places. Each row down is one beat of time. A wave-maker stands at the left end, and we will see what the wave does as the beats go by.  
-  *Child mode:* Draw a grid. 12 columns across. 12 rows down. Number the rows.
+  *Child mode:* Mark 12 squares across and 12 down. Number the rows.
 - **s2 (6 min)**  
   *Parent does:* In row 1, colour the left square. In each row below, copy the row above, but slide every colour one square to the right. Colour the left square again in rows 5 and 9 only.  
   *Parent says:* The rule is simple. Copy the row above and slide every coloured square one place to the right. The wave-maker adds a new coloured square at the left end every fourth row.  
@@ -386,20 +386,20 @@ That evening Dechen counted the swings again, from the very middle of the bridge
   - Note: You should see slanting stripes. In every row the coloured squares are 4 apart. That is the wavelength: 4 squares. The wave moves at 1 square each beat, and the source makes a new crest every 4 beats, so one wave stretches over 4 squares.
   - Check: In your grid, the wave moves 1 square each beat, and the wave-maker colours a new square every 4 beats. How far apart are the coloured squares in a row? → **4 squares apart**
 - **s3 (5 min)**  
-  *Parent does:* Draw a second grid. As in the first grid, copy each row from the row above and slide every colour one square to the right. This time, colour the left square every second row. Measure the gap between coloured squares in one row.  
-  *Parent says:* The wave-maker now beats twice as often, every second row. Before you colour, guess. Will the coloured squares be closer together or further apart? Why do you think so?  
-  *Child mode:* This time, colour the left square every 2nd row. Guess the gap first.
+  *Parent does:* Do not draw again. Use a line of 12 squares and dal grains, beads or buttons as crests. Each beat, slide every grain one square to the right. This time, add a new grain at the left every second beat. Do 8 beats. Measure the gap between grains.  
+  *Parent says:* The wave-maker now beats twice as often, every second row. Before you start, guess. Will the grains be closer together or further apart? Why do you think so?  
+  *Child mode:* Slide the grains one square each beat. Add a new grain every 2nd beat. Guess the gap first.
   - Note: The coloured squares are now 2 squares apart. A faster beat with the same speed gives a shorter wavelength. This matches Tap Faster, where faster taps gave ripples that were closer together.
 - **s4 (5 min)**  
-  *Parent does:* Draw a third grid, 16 squares wide and 12 rows down. Slide each row two squares to the right instead of one. Colour the left square in rows 1, 5 and 9, as in the first grid. Measure the gap between coloured squares in the lower rows.  
-  *Parent says:* Now the wave moves faster, two places each beat. The wave-maker beats every 4 rows, as before. Guess the gap before you colour. Closer, further, or the same?  
-  *Child mode:* Slide two squares each row. Colour the left square every 4th row. Guess the gap.
-  - Note: The coloured squares are now 8 apart. A faster wave with the same beat gives a longer wavelength. The gap is the speed (2 squares each beat) times the 4 beats between crests. This is the rule: wavelength is speed times the time between beats. The third grid needs 16 columns so that two crests are on the page together. With 2 to 4 children, each draws one grid and the group compares; alone with a parent, take turns colouring a row each.
+  *Parent does:* Use a line of 16 squares and grains again. Slide every grain two squares to the right each beat. Add a new grain at the left on beats 1, 5 and 9, as in the first grid. Do 10 beats. Measure the gap between grains.  
+  *Parent says:* Now the wave moves faster, two places each beat. The wave-maker beats every 4 rows, as before. Guess the gap before you start. Closer, further, or the same?  
+  *Child mode:* Slide the grains two squares each beat. Add a new grain every 4th beat. Guess the gap.
+  - Note: The coloured squares are now 8 apart. A faster wave with the same beat gives a longer wavelength. The gap is the speed (2 squares each beat) times the 4 beats between crests. This is the rule: wavelength is speed times the time between beats. The third grid needs 16 columns so that two crests are on the page together. With 2 to 4 children, each does one try and the group compares. Alone with a parent, take turns moving the grains.
   - Check: A wave moves 2 squares each beat, and the source makes a crest every 3 beats. How far apart will the crests be? → **6 squares**
 ### a3 · Rainbow from a CD: light has wavelengths too (15 min)
 - **problem:** White light is a mix of colours. A CD spreads it out into a rainbow. Each colour is light with its own wavelength. A wavelength is the distance from one crest to the next. In this activity you make the rainbow. Then you find which colour has the longest waves.
 - **safety:** Never look straight at the Sun, and never shine sunlight or a torch into anyone's eyes. Keep the shiny side of the CD pointing at the wall, not at faces. Use a CD with no cracks, because a broken edge is sharp. Use a plastic cup or a strong glass for the water, and a grown-up stays close. Do not leave a glass of water in strong sun near paper or cloth, because it can focus the sunlight into a hot spot.
-- **record:** Draw the rainbow in order. Write 'longest waves' under the red end and 'shortest waves' under the violet end.
+- **record:** Draw the rainbow in order, or say the colours in order to your grown-up. Write 'longest waves' under the red end and 'shortest waves' under the violet end.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Hold the CD with its shiny side, the side without a label, facing the light. Tilt it until a band of colours shows on the wall. Ask your child what they see.  
   *Parent says:* Here is an old CD. Let the light fall on the shiny side and tilt it slowly. What do you see on the wall? Which colour is at which end?  
@@ -407,7 +407,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
   - Ask: Which colour is at each end of the rainbow? (good: Red at one end and violet at the other.; Red on the outside and blue or violet on the inside.)
   - Note: The CD has tiny grooves that spread white light into its colours. In a dim room, a phone torch about 20 centimetres from the CD gives a sharp rainbow on a wall 1 metre away. If you cannot make it work, try holding the CD at different angles. In bright sunshine, the effect is strongest. It works best with the room darkened, the torch about 20 centimetres from the CD, and the wall about 1 metre away. With 2 to 4 children: one holds the CD, one holds the torch, one marks the band on the wall with a pencil or a sticky note, one draws it. If you see only a white blur, tilt the CD slowly; the colours show only at one angle.
 - **s2 (4 min)**  
-  *Parent does:* Write down the colours in order along the band, starting from the end nearest the bright spot of reflected light. Measure the width of the band on the wall. Then move back so the CD is twice as far from the wall, and measure the band again. If it is sunny, you can also let a beam of sunshine pass through a glass of water onto white paper, and move the glass until a rainbow appears.  
+  *Parent does:* Write down the colours in order along the band. If it is sunny, try this too. Let a beam of sunshine pass through a glass of water onto white paper. Move the glass until a rainbow appears.  
   *Parent says:* Say the colours in order: red, orange, yellow, green, blue, violet. Red has the longest waves, about 700 nanometres. Violet has the shortest, about 400 nanometres.  
   *Child mode:* Say the colours in order. Red has the longest waves. Violet has the shortest.
   - Note: A nanometre is a billionth of a metre. A hair is about a hundred times wider than a red light wave. The glass of water works best when a beam of sunshine passes through it onto a white paper. Move the glass until a rainbow appears. On a CD, red is the end furthest from the bright spot, because longer waves spread out more; a prism or a raindrop does the opposite. The band should be about twice as wide when the wall is twice as far away, because light travels in straight lines. The glass of water often fails: it needs strong, low sunshine and some luck, so do not worry if nothing appears.
@@ -439,23 +439,23 @@ That evening Dechen counted the swings again, from the very middle of the bridge
   - Note: 340 divided by 200 is 1.7 metres for the voice. 340 divided by 3,000 is about 0.11 metres, or 11 centimetres, for the whistle. Notice that the higher sound has the shorter wavelength, just as with ripples. This rule is the same for every wave.
 ### a5 · Spreading Rings: where does the energy go? (12 min)
 - **safety:** Keep marbles and small nuts away from younger children, because they can be swallowed. Wipe up any splashed water at once, because a wet floor is slippery.
-- **record:** Draw the rings for each drop height. Mark where each ring seemed to fade away.
+- **record:** For each drop height, write how many rings you saw and how far the last one reached. You can also take a photo of each.
 - **s1 (3 min)**  
   *Parent does:* Put the bowl on a dark cloth on a flat table. Let the water go still. Ask your child to guess what will happen to a ring as it spreads, and why.  
   *Parent says:* A marble will make a ring of ripples. As the ring spreads out, will it get taller, lower or stay the same? Why do you think so?  
-  *Child mode:* Drop a marble. Will the ring get taller, lower or stay the same? Why?
+  *Child mode:* Look at the still water. A marble will make a ring of ripples. Guess what the ring will do as it spreads.
   - Ask: Why do you think the ring will change as it spreads? (good: It will get lower, because it runs out of push.; It will stay the same, because nothing takes it away.; It will get lower because it spreads out.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (5 min)**  
-  *Parent does:* Hold the marble 20 centimetres above the middle of the water. Let it go. Watch the ring spread, and count how many rings you can see. Lay a ruler beside the bowl and note how far from the splash the last ring can still be seen. Draw it. Then drop from 5 centimetres and from 40 centimetres, and do the same. Repeat each height twice.  
+  *Parent does:* Hold the marble 20 centimetres above the middle of the water. Let it go. Watch the ring spread, and count how many rings you can see. Lay a ruler beside the bowl and note how far from the splash the last ring can still be seen. Write the count and the distance in your table. Then drop from 5 centimetres and from 40 centimetres, and do the same. Repeat each height twice.  
   *Parent says:* Drop the marble from 20 centimetres and watch the first ring closely. Then drop from 5 centimetres, and from 40. What changes about the ring?  
   *Child mode:* Drop from 20 centimetres. Watch the ring. Then drop from 5 and 40.
   - Note: A higher drop gives a taller ring that spreads further before it fades. Every ring gets lower as it spreads. If the dark cloth under a clear bowl is not enough, shine a torch from the side. Wipe up any splashes. In a small thali the ring reaches the rim in under a second and bounces back, which muddles the result; a big tray or the Tap Faster tray is better. Shine a torch from the side in a dim room. A phone slow-motion video helps a lot. With 2 to 4 children: one drops, one holds the ruler and torch, one films, one draws and counts.
   - Check: A ring of ripples spreads out and gets lower. What is most likely happening to the wave's energy? → **It is shared out over a longer and longer ring, so each part has less**
 - **s3 (4 min)**  
-  *Parent does:* Compare your three drawings. Ask which ring was tallest at the start, and which went furthest before fading.  
-  *Parent says:* Look at your three drawings. Which drop made the tallest first ring? Which ring went the furthest? What does the height tell you about the energy?  
-  *Child mode:* Compare the drawings. Which ring was tallest? Which went furthest?
+  *Parent does:* Compare your three counts and distances. Ask which ring was tallest at the start, and which went furthest before fading.  
+  *Parent says:* Look at your three results. Which drop made the tallest first ring? Which ring went the furthest? What does the height tell you about the energy?  
+  *Child mode:* Compare your numbers. Which ring was tallest? Which went furthest?
   - Note: A higher drop gives the marble more energy, and the tall ring carries more of it. Amplitude is the height of a wave above its rest level, and it tells you the energy of the wave.
   - Think: A higher drop gave a taller ring. What do you think that tells us about the energy it carried?
 ### a6 · Tiny Taps, Big Swing: pushing a pendulum at the right time (15 min)
@@ -464,7 +464,7 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 - **s1 (4 min)**  
   *Parent does:* Hang the pendulum so it is still. Ask your child to guess whether many small taps will make a big swing, and whether it matters when they tap.  
   *Parent says:* We have a still pendulum. We will tap it with one finger, very lightly. If we tap it many times, will it swing wide? Does it matter when we tap? Why do you think so?  
-  *Child mode:* Tap the still washer many times. Will it swing wide? Does timing matter? Why?
+  *Child mode:* Look at the still washer. If you tap it many times, will it swing wide? Does the timing of the taps matter?
   - Ask: Why do you think the timing of the taps matters, or does not matter? (good: Tapping at the right moment is like pushing a swing.; Taps add up whenever you do them.; Tapping at the wrong time will stop it.)
   - Note: Do not correct the guess. A pendulum 50 centimetres long swings once about every 1.4 seconds.
 - **s2 (6 min)**  
@@ -516,21 +516,21 @@ That evening Dechen counted the swings again, from the very middle of the bridge
 - **s6 (6 min)**  
   *Parent does:* Draw a line graph. Put depth along the bottom and speed up the side. Plot the three points and join them. Ask your child what the graph shows.  
   *Parent says:* Draw a graph with depth along the bottom and speed up the side. Put a dot for each depth and join the dots. What does the line do as the water gets deeper?  
-  *Child mode:* Draw the graph. Depth along the bottom. Speed up the side. Join the dots.
+  *Child mode:* Draw the graph, or lay three pencils side by side, one for each speed. Depth goes along the bottom. Speed goes up the side.
   - Check: In your graph, the line rises as the depth increases. What does this say about ripples? → **Ripples travel faster in deeper water**
 
 ## Challenges
 ### c1 · The Thirty-Second Pendulum: build a timer from a thread (35 min)
 - **problem:** Build a pendulum that makes exactly 30 swings in 30 seconds, give or take one second. It must do this twice in a row. Then use it to time 30 seconds of something fun.
 - **safety:** A grown-up fixes the thread high up. Hang it where nobody walks past and nothing breakable is near, and stand to the side of the swing, because a steel washer that hits a face can hurt.
-- **your turn:** Sketch your pendulum. Predict the length you need. Build it and test it. If 30 swings take more than 30 seconds, make the thread shorter. If less, make it longer. How close can you get?
+- **your turn:** Sketch your pendulum, or tell your plan to your grown-up. Predict the length you need. Build it and test it. If 30 swings take more than 30 seconds, make the thread shorter. If less, make it longer. How close can you get?
 - **constraints:** Use only thread, a washer or nut, tape and a measuring tape. Use the stopwatch only to test, not while building.; The pendulum must hang free and swing in a straight line, without touching anything.; Release the washer without pushing it. The swing must be small, under 15 centimetres to the side.; It must pass the test twice in a row: 30 swings must take between 29 and 31 seconds.
 - **general:** Use what you learned in Counting Swings: the 25 centimetre pendulum swung about once each second. Start at 25 centimetres and adjust.; Test 30 swings each time, then lengthen or shorten the thread by a centimetre and test again.
 - **creative:** Make a metronome from a ruler hung from a pin: tape a weight near the bottom, and slide it up or down the ruler to change the beat.; Build a pendulum that swings once every two seconds. Start from the 25 centimetre one and change the thread until you find how long it must be.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Look at the results from Counting Swings. Ask your child to guess the length and draw a sketch.  
-  *Parent says:* We need 30 swings in 30 seconds. That is one swing each second. Which length gave about one swing each second in Counting Swings? Draw your pendulum and write your guess.  
-  *Child mode:* You need one swing each second. Which length was that? Draw your plan.
+  *Parent does:* Read the problem together. Look at the results from Counting Swings. Ask your child to guess the length. They can draw a plan or just tell you.  
+  *Parent says:* We need 30 swings in 30 seconds. That is one swing each second. Which length gave about one swing each second in Counting Swings? Draw your pendulum or tell me your plan, and say your guess.  
+  *Child mode:* You need one swing each second. Which length was that? Draw your plan, or tell your grown-up.
   - Ask: What length do you think you will need? (good: About 25 centimetres, like the shortest thread in Counting Swings.; Something near 25 centimetres, but I will check.; I do not know, so I will test a few.)
 - **s2 (10 min)**  
   *Parent does:* Hang a washer on a thread at your guessed length. Time 30 swings with the stopwatch. Write the time. Is it more or less than 30 seconds?  

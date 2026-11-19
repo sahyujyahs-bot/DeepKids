@@ -267,7 +267,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   - Ask: Why do you think everyone drew something different for the same word? (good: We each have different memories of that word.; The word can mean many things.; The first thing you think of depends on where you live and what you do.)
   - Note: A word like HOME may give a house, a family, a kitchen or a village. A word like ROUND may give a ball, a roti, a moon or a bangle. Do not say any drawing is wrong.
 - **s3 (7 min)**  
-  *Parent does:* Play the next six cards in the same way. Add up the team's score. Notice which words gave the most different drawings and which gave the fewest.  
+  *Parent does:* Play the next six cards in the same way. Notice which words gave the most different drawings and which gave the fewest.  
   *Parent says:* Which words gave us the most different drawings? Which gave the fewest? What do you notice about the two kinds of word?  
   *Child mode:* Play six more cards. Which word gave the most different drawings?
   - Note: Often, words for one clear thing, such as ROUND, give fewer kinds of drawing than words with wide meanings, such as HOME or SAFE. If your results differ, write them down as they are.
@@ -306,13 +306,13 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 - **question:** How many times does a cube drawing flip in one minute? Can you hold it to one reading by trying? Does it flip at different rates for different people?
 - **predict:** Before you start, guess. How many times will the cube flip in one minute? Will trying to hold it still make it flip less, the same or more? Why do you think so?
 - **fair test:** Every person looks at the same drawing, at arm's length, in the same light, for exactly 60 seconds. You say the same words to every person. Half of the people start with just watching and half start with trying to hold one reading, so that practice does not help one test more than the other. Nobody taps or counts in their head. Only what the person tries to do changes.
-- **record:** Fill in the table. For each person, add the two just-watching counts and divide by two. Draw a bar for each person's average, and a mark for their trying-to-hold count.
+- **record:** Fill in the table. For each person, add the two just-watching counts and divide by two. Draw a bar for each person's average, and a mark for their trying-to-hold count. Or just write the numbers and circle the biggest.
 - **results table:** Person | Flips in 60 seconds, just watching (try 1) | Flips in 60 seconds, just watching (try 2) | Flips in 60 seconds, trying to hold one reading | What it felt like, in their own words
 - **s1 (4 min)**  
   *Parent does:* Show your child a cube drawing in a book, or draw a quick one. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* I will draw a cube with lines. You will look at it for one minute. Will the cube stay the same? Will it change? Why do you think so?  
-  *Child mode:* You will look at a cube made of lines for one minute. Will it stay the same? Why?
-  - Ask: Why do you think a drawing that does not change might look different? (good: My eyes might get tired.; It could look like a cube from the front or from the back.; My brain might change its mind.)
+  *Child mode:* You will look at a cube made of lines for one minute. First, make a guess.
+  - Ask: Why might a drawing that never changes look different? (good: My eyes might get tired.; It could look like a cube from the front or from the back.; My brain might change its mind.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Many children guess that it will not change.
 - **s2 (6 min)**  
   *Parent does:* 1. Draw a square 5 centimetres wide with the ruler. 2. Draw a second square of the same size, starting 2 centimetres to the right and 2 centimetres up. The squares overlap. 3. Join each corner of the first square to the matching corner of the second with a straight line. 4. Go over the lines with the black pen.  
@@ -337,7 +337,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 - **s6 (4 min)**  
   *Parent does:* Compare the numbers. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.  
   *Parent says:* Did the cube flip the same number of times for everyone? Did trying to hold it change the number? What do you think is happening, if the lines never change?  
-  *Child mode:* Did the cube flip the same number of times for everyone? Did trying to hold it change the number?
+  *Child mode:* Look at your table. Tell your grown-up what you notice about the numbers.
   - Note: Common results are that most people see several flips a minute, that trying slows the flips for many people, and that people differ a lot. Your results may differ. If one reading was seen far more than the other, write it down.
   - Check: Why does a cube drawing flip, though the lines on the paper never change? → **The lines fit two cubes equally well, and the brain switches between them**
 ### e2 · The Blink Tray: how long does a big change stay unseen? (30 min)
@@ -345,7 +345,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 - **predict:** Before you start, guess. Each time the card covers the tray is one blink. How many blinks will it take a watcher to find a big red cup that appears and disappears? Will a small button at the edge take more or fewer? Why do you think so?
 - **fair test:** Every watcher sees the same tray with the same ten things. The card covers the tray for about one second each time, and the tray is in view for about three seconds. The same person holds the card and the same person changes the thing each time. The only difference between the two tests is which thing changes: the big red cup in the middle, or the small button at the edge. You move the other things between tests so that a watcher will not recall where they were.
 - **safety:** Keep small things such as buttons and bangles away from children under five, who might put them in their mouths.
-- **record:** For each watcher, write how many blinks it took to find each change, up to 15. Add the numbers for the big change and for the small change. Draw two bars.
+- **record:** For each watcher, write how many blinks it took to find each change, up to 15. Add the numbers for the big change and for the small change. Write the two totals side by side, or draw two bars.
 - **results table:** Watcher | Blinks to find the big red cup in the middle | Blinks to find the small button at the edge | Did the watcher see it at once when the cup was taken away in plain sight? (yes or no)
 - **s1 (4 min)**  
   *Parent does:* Show your child the tray and the ten things. Explain that a card will cover the tray for a moment, and a thing will change. Ask for a guess and a reason. Write it down.  
@@ -369,7 +369,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   *Child mode:* Watch the tray. After each blink, say what changed. Count the blinks.
   - Note: Write down the number of blinks. If the watcher guesses wrongly, say no and carry on. Give each watcher the tests in a different order. People who find the cup quickly may take more blinks for the button, and some people find both at once. If every watcher sees the change on the very first blink, the scene is too easy: add four or five more things to the tray, or shorten the time the tray is in view to about two seconds. If nobody sees it by blink 15, stop and say so. That is a real result, and it shows how hard this is. Typical results are a few blinks for the big red cup and more for the small button, but yours may differ.
 - **s5 (4 min)**  
-  *Parent does:* Add up the blinks for the big change and the small change. Draw two bars. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.  
+  *Parent does:* Add up the blinks for the big change and the small change. Write the two totals side by side. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.  
   *Parent says:* Which change took more blinks? Was the plain-sight change easy? What was different when the card was down?  
   *Child mode:* Add up the blinks. Which change took more? Why?
   - Check: A big change in a tray goes unseen when a card covers the moment of change. What is the best explanation? → **The brain does not see the change happen, and it compares before and after only in the place it is attending to**
@@ -378,7 +378,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 - **predict:** Before you start, guess. A face has its eyes and mouth turned upside down. How strange will it look when the whole face is upright? How strange will it look when the whole face is upside down? Why do you think so?
 - **fair test:** Every rater sees the same four cards for exactly three seconds each, in the same light, and answers the same question: how strange does the face look, from 0 for normal to 5 for very strange. The two upside-down cards are always shown first, so that no rater has seen the changed face upright before rating the upside-down cards. This order is not perfect, but it keeps the changed face from being given away. Only the card changes.
 - **safety:** A grown-up does the cutting with the scissors. Ask the person in the photo before you use it, and do not post the cards or the photos online.
-- **record:** Fill in the table. Work out the average score of the raters for each of the four cards. Draw four bars.
+- **record:** Fill in the table. Work out the average score of the raters for each of the four cards. Write each average on its card, or draw four bars.
 - **results table:** Rater | Normal face, upside down (0 to 5) | Changed face, upside down (0 to 5) | Normal face, upright (0 to 5) | Changed face, upright (0 to 5)
 - **s1 (3 min)**  
   *Parent does:* Show your child a photo of a face. Explain that you will turn the eyes and the mouth upside down inside the face. Ask for a guess and a reason. Write it down.  
@@ -397,9 +397,9 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   *Child mode:* Show a face for three seconds. Ask how strange it looks, from 0 to 5.
   - Note: Show the upside-down cards first, with the card held upside down. Do not say what you changed. Some raters will say the changed upright face looks horrible, and that is the main result. With fewer than five people, three raters are enough; the pattern shows with a few. The children can take turns to hold the card, time three seconds and write the score.
 - **s4 (4 min)**  
-  *Parent does:* Work out the average score for each card. Draw four bars. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.  
+  *Parent does:* Work out the average score for each card. Write each average on its card. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.  
   *Parent says:* Which card has the highest average? Is the changed face much stranger upright or upside down? What does that tell you about how we read faces?  
-  *Child mode:* Find the average for each card. Draw four bars. Which is highest?
+  *Child mode:* Find the average for each card. Which is highest?
   - Note: A common result is that the changed face looks much stranger upright than upside down, even though it is the same photo. Your results may differ. If the changed face looks equally odd in both, write that down.
   - Check: A face with its eyes and mouth turned upside down looks horrible upright, but almost normal upside down. What does this show? → **The brain reads an upright face as a whole, and the oddness of its parts shows up only when it is upright**
 
@@ -413,7 +413,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   - Note: Write the sentence out in full. Let your child write down the number. Then try the other people. Do not tell anyone the answer yet. Many people find three, and some find four or five.
 - **s2 (5 min)**  
   *Parent does:* Ask your child to point to each word with a pencil and count the F in each word slowly. There are six in all: in FINISHED, FILES, OF, SCIENTIFIC, OF and OF. Then test two other people with the 15-second count and write what they say.  
-  *Parent says:* Now point at each word and count the F's slowly. How many now? Where did you miss them? Which little word hides three of them?  
+  *Parent says:* Now point at each word and count the F's slowly. How many now? Where did you miss them? Which little word did you miss most?  
   *Child mode:* Point at each word. Count the F's slowly. How many now?
   - Note: Most people find they missed the F in the word OF. The brain skips small, common words when it reads for meaning. The F's were there. The eyes saw them, but they were not noticed.
 - **s3 (6 min)**  
@@ -427,12 +427,12 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 - **s1 (4 min)**  
   *Parent does:* Show your child the idea: a drawing in which a vase and two faces share the same edge. Ask for a guess and a reason about whether they can see both at once. Write it down.  
   *Parent says:* We will make a drawing in which you might see a vase, or two faces. Do you think you can see both at the same moment? Why?  
-  *Child mode:* We will make a drawing with a vase and two faces. Can you see both at once?
+  *Child mode:* Make a guess: will you see the vase, the faces, or both?
   - Note: Do not correct the guess. If you have a book with a vase-and-faces drawing, show it first.
 - **s2 (11 min) · grown-up needed**  
   *Parent does:* 1. Fold the black paper in half, short side to short side, with the fold on the left. 2. To the right of the fold, draw the side view of a face looking left, about 2 to 4 centimetres from the fold. 3. Give it a forehead, a nose, lips and a chin. 4. A grown-up cuts along the line and removes the strip next to the fold. 5. Open the paper over the white sheet.  
   *Parent says:* Fold the black paper in half. Draw the side of a face near the fold, with a forehead, a nose, lips and a chin. A grown-up will cut it out. Then open it on a white sheet.  
-  *Child mode:* Fold the paper. Draw the side of a face near the fold. A grown-up cuts it out.
+  *Child mode:* Fold the paper. Draw a face side near the fold, or ask a grown-up to. A grown-up cuts it out.
   - Note: To draw the outline, mark points about 1 centimetre apart down the page, each measured from the fold in centimetres: the top 3.5, forehead 3, brow 2.2, nose tip 1, under the nose 2, upper lip 1.7, mouth 2.2, lower lip 1.8, chin 2, under the chin 3.2. If your outline does not look like faces, copy a vase-and-faces drawing from a book. Draw on the black paper with a white pencil, chalk or pale crayon, as a normal pencil does not show. When the strip is removed, the paper falls into two halves: lay them on the white sheet with the cut edges facing each other and a small gap, and tape them down. With 2 to 4 children, each child can draw their own face outline and the grown-up cuts them one by one. A wobbly outline is fine. If it does not look like a face, try again with a bigger nose.
 - **s3 (10 min)**  
   *Parent does:* Show the picture to five people one at a time. Ask: what do you see first? Then ask: can you see something else? Can you see both at once? Write each answer. Then ask the check question.  
@@ -461,19 +461,19 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 - **safety:** Walk outside only with a grown-up, and stay away from roads and traffic.
 - **record:** A list for each person of the things in which they found a face. Count how many each person found, and how many were found by more than one person.
 - **s1 (10 min)**  
-  *Parent does:* Set a timer for 5 minutes. Everyone walks around the house, and outside, if it is safe, looking for faces in things. Each person writes down or sketches each face. Stop when the timer ends. Count the faces found by each person.  
+  *Parent does:* Set a timer for 5 minutes. Everyone walks around the house, and outside, if it is safe, looking for faces in things. Each person writes down each face, takes a photo, or sketches it. Stop when the timer ends. Count the faces found by each person.  
   *Parent says:* In five minutes, how many faces can you find in things that are not faces? Write each one. A face can be two circles and a line.  
   *Child mode:* Find faces in things. Plug sockets, taps and scooters may have them.
   - Note: Common finds are plug sockets, the front of a scooter or an auto, a tap and a steel tumbler, a window with a lamp and a door, and a burnt chapati. Do not say that any find is wrong. Walk outside only if it is safe.
 - **s2 (5 min)**  
   *Parent does:* Compare the lists. Which things did more than one person find? Which faces did only one person find? Draw three dots, two above one, on a piece of paper. Turn the paper upside down. Which looks more like a face?  
-  *Parent says:* Which things did two people find? Which did only one find? Now look at these three dots. Two above one, and then turned upside down. Which looks like a face?  
-  *Child mode:* Compare your lists. Draw three dots, two above one. Turn the paper upside down. Which way looks like a face?
+  *Parent says:* Which things did two people find? Which did only one find? Now draw three dots, two above one. Turn the paper upside down. Which way looks like a face?  
+  *Child mode:* Compare your lists. Then try the three dots.
   - Note: Two dots above one usually looks like a face, and it looks much less like one when turned upside down. Brain scientists think that our brain looks for a pattern of two eyes above a mouth. Newborn babies have been found to look longer at such patterns.
 - **s3 (5 min)**  
   *Parent does:* Ask the check question. Then talk about why the brain might find faces in things that are not faces.  
   *Parent says:* Why do you think the brain finds faces in sockets and clouds? What would happen if it missed a real face?  
-  *Child mode:* Why does the brain find faces in sockets and clouds?
+  *Child mode:* Think about it with your family, then pick an answer.
   - Check: Why does a plug socket sometimes look like a face? → **The brain's face finder responds to any rough pattern of two eyes above a mouth**
 ### a5 · One Room, Four Worlds (25 min)
 - **safety:** Hot tea can scald. Use warm tea in a cup that a grown-up carries and places, away from small children, or just talk about a hot cup instead. Leave the fan and the lamp as they are, on or off, and do not touch the lamp.
@@ -489,9 +489,9 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
   *Child mode:* Listen to the facts. Which of your guesses changed?
   - Note: For example, a cup of hot tea shows up for a pit viper as a bright warm spot. A flower may have a pattern in ultraviolet that a bee follows to the middle. A plate of food is a strong cloud of smell to a dog. For things such as a fan, a lamp or a window, the facts are less clear, so discuss them.
 - **s3 (9 min)**  
-  *Parent does:* Choose one thing and one animal. Draw the thing the way that animal would sense it. Use colour, lines or clouds to show smell, heat or ultraviolet. Then ask the check question.  
-  *Parent says:* Pick one thing and one animal. Draw how that animal would sense the thing. Show smell with clouds, heat with red, or ultraviolet with stripes.  
-  *Child mode:* Pick one thing and one animal. Draw the thing the way that animal senses it.
+  *Parent does:* Choose one thing and one animal. Tell your grown-up how that animal would sense the thing, or act like the animal. Smell is a strong whiff, heat is a glow, and ultraviolet is a hidden pattern. Then ask the check question.  
+  *Parent says:* Pick one thing and one animal. Tell me how that animal would sense the thing, or act like the animal.  
+  *Child mode:* Pick one thing and one animal. Show or tell what that animal would notice.
   - Check: A flower looks plain yellow to you. A bee sees a dark pattern on the flower, in ultraviolet. What does this suggest? → **The flower has more than one appearance, depending on who looks**
 ### a6 · Say It Thirty Times: when a word loses its meaning (10 min)
 - **record:** A table with a row for each person: how the word felt after thirty times (the same, odd, or it lost its meaning), and the word used. Also ask each person to rate how strange the word sounds from 0 to 5 after 10 times and after 30 times.
@@ -551,14 +551,14 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 ### c1 · Hide the Beetle: the best camouflage in plain view (40 min)
 - **problem:** Make a small paper beetle and hide it in plain view in a room, so that people take the longest time to find it. The beetle must not be covered or hidden behind anything. Anyone with good eyes must be able to see it if they look in the right place.
 - **safety:** A grown-up cuts the paper with the scissors. Do not put anything where a person could trip over it.
-- **your turn:** Draw your beetle and your hiding place. Say which trick you are using: matching the background, or breaking the outline. Test with five watchers and write the time each takes. Change one thing and test again with five new watchers.
+- **your turn:** Show your beetle and its hiding place, with a drawing or a photo. Say which trick you are using: matching the background, or breaking the outline. Test with five watchers and write the time each takes. Change one thing and test again with five new watchers.
 - **constraints:** The beetle must be no longer than 4 centimetres.; The watcher must be able to see the beetle from where they sit. It must not be covered or hidden behind anything.; You may colour and shape the beetle, and you may choose where to put it, but you may not change the background.; You have five watchers, and each looks for up to 60 seconds.
 - **general:** Colour the beetle the same colour as the background where it sits.; Put the beetle on a pattern that has a similar colour and shape, such as a cloth with many small spots.; Make the beetle a shape that is common in the background, such as a leaf-like shape on a leafy cloth.
 - **creative:** Paint stripes across the beetle that carry on the lines of the background, so that the outline of the beetle is broken up.; Put the beetle among a group of other small things of similar size and colour, such as a few black seeds or buttons.; Make the beetle flat and grey and put it on a patch of the wall that has a shadow.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. Talk about what makes a thing easy to find: its colour, its outline and its place. Ask your child to draw three beetle designs and pick the best hiding place.  
-  *Parent says:* A hunter finds a beetle by colour, outline and place. How can you make a beetle hard to find on a cloth or a wall? Draw three ideas.  
-  *Child mode:* What makes a beetle hard to find? Draw three ideas.
+  *Parent does:* Read the problem together. Talk about what makes a thing easy to find: its colour, its outline and its place. Ask your child to plan three beetle designs, by telling them or sketching, and pick the best hiding place.  
+  *Parent says:* A hunter finds a beetle by colour, outline and place. How can you make a beetle hard to find on a cloth or a wall? Tell me three ideas, or sketch them.  
+  *Child mode:* What makes a beetle hard to find? Plan three ideas.
   - Ask: What are two tricks that an animal can use to be hard to find? (good: Look like the background.; Break up her outline with stripes.; Stay among things that look the same.)
 - **s2 (17 min) · grown-up needed**  
   *Parent does:* Make the beetle from paper. A grown-up cuts it out. Colour it. Put it in its place in the room, in plain view. Watchers sit at a fixed spot and look for it, up to 60 seconds each. Write the time each takes. Do the test with five watchers.  
@@ -580,7 +580,7 @@ As for the leaf insect, Chithi carried her back to the station in her box, and p
 - **s1 (10 min)**  
   *Parent does:* Read the problem together. Look at two-way pictures in a book, or at the cube drawing, the vase and faces drawing and the duck-rabbit drawing. Ask your child to sketch five ideas, each a shape that might be read two ways.  
   *Parent says:* What can a curved line be? What can a pointed shape be? Sketch five shapes that could be two different things.  
-  *Child mode:* Sketch five shapes that could be two different things.
+  *Child mode:* Look at two-way pictures. Then sketch five ideas.
   - Ask: What makes a picture easy to read in only one way? (good: Too many clues for one reading.; A lot of detail that fits only one thing.; A very clear outline.)
 - **s2 (20 min)**  
   *Parent does:* Redraw the best sketch in black pen inside a 10 centimetre square. Write on the back the two readings you meant. Show it to ten people, one at a time, and ask what they see first. Make a tally of the readings.  

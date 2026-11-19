@@ -243,7 +243,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   *Parent says:* Each card shows a flyer with a problem. There are three choices, A, B and C. We pick one and say why.  
   *Child mode:* Cut out the cards and tokens. Shuffle the cards. Take an A, a B and a C.
 - **s2 (6 min)**  
-  *Parent does:* Play the first eight cards. After each card, read the back aloud. After card four, ask the question below.  
+  *Parent does:* Play the first eight cards. After each card, read the back aloud. A right answer scores one point. After card four, ask the question below.  
   *Parent says:* The reader reads the front. Choose a token and turn it over together. Then the reader reads the back. Who can say why?  
   *Child mode:* Read a card. Pick a token. Turn it over. Check the back.
   - Ask: What do the fixes have in common? (good: They change how much the air pushes.; They move the balance point.; They change the lift or drag on one part.)
@@ -270,7 +270,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   *Child mode:* Stand with your arms out like wings. You are a plane.
 - **s2 (5 min)**  
   *Parent does:* Read the first six cards, in order. Read the front, let your child act, then read the back and ask the question below.  
-  *Parent says:* Pilot says, nose up! Now tell me. What is the elevator doing on a real plane?  
+  *Parent says:* Pilot says, nose up! Move like a plane. Now I will read what a real plane does.  
   *Child mode:* Do each move. Then listen to what the real plane does.
   - Ask: What is different between a roll and a yaw? (good: In a roll, the wings tip.; In a yaw, the nose swings but the wings stay level.; A roll tips the wings and a yaw turns the nose.)
 - **s3 (5 min)**  
@@ -289,18 +289,18 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 - **predict:** Before you start, guess. Which will land first: a small parachute or a big one with the same coin? Will a parachute with 4 coins fall 4 times as fast as one with 1 coin? Why do you think so?
 - **fair test:** Every parachute is made from the same polythene, the same four strings and the same coins. Each is dropped from the same height, by the same person, in the same still room. Only one thing changes at a time: the size of the canopy, or the number of coins. Each is dropped three times and the times are averaged, because one drop can be spoilt by a gust or a tangle. The scrunched-up sheet is the control. It shows what the same polythene does with no canopy.
 - **safety:** A grown-up holds each parachute at the 2 metre mark and does all the dropping from a steady floor. Nobody climbs on a chair. Coins are small parts: keep them away from children under five.
-- **record:** Write the three fall times for each parachute. Add the three times and divide by 3 to get the average. Then draw a bar chart with one bar for each parachute, using the averages.
+- **record:** Write the three fall times for each parachute. Add the three times and divide by 3 to get the average. Then make a bar chart with one bar for each parachute, using the averages. Draw the bars, or cut a paper strip as long as each average.
 - **results table:** Parachute | Canopy and load | Fall time 1 (seconds) | Fall time 2 (seconds) | Fall time 3 (seconds) | Average (seconds)
 - **s1 (4 min)**  
   *Parent does:* Show your child the polythene, the strings and the coins. Ask for a guess and a reason. Write the guesses at the top of the table.  
   *Parent says:* We will make parachutes. Which do you think will land first, a small one or a big one? And will 4 coins fall 4 times as fast as 1 coin? Why do you think so?  
-  *Child mode:* We make parachutes. Which lands first, a small or a big one? Why?
-  - Ask: Why do you think the big parachute will fall more slowly? (good: It catches more air.; It has more drag.; It is bigger, so the air pushes on it more.)
+  *Child mode:* Look at the polythene, the strings and the coins. Tell your grown-up your guess.
+  - Ask: Which parachute do you think will land first, and why? (good: It catches more air.; It has more drag.; It is bigger, so the air pushes on it more.)
   - Note: Do not correct the guesses. Any guess with a reason is a good start. Write the guess for 4 coins as a number, such as '4 times as fast' or 'twice as fast'.
 - **s2 (8 min)**  
-  *Parent does:* Cut a 20 centimetre square and a 40 centimetre square from the polythene. Tape a 30 centimetre string to each corner. Tape the loose ends of the four strings to one coin, so that all four strings are the same length.  
-  *Parent says:* Cut the squares with a ruler. Tape one string to each corner. Gather the four loose ends and tape them to a coin.  
-  *Child mode:* Cut two squares. Tape a string to each corner. Tape the strings to a coin.
+  *Parent does:* Build four parachutes. A is a 20 centimetre square with one coin. B is a 40 centimetre square with one coin. C is a 40 centimetre square with four coins. D is a 40 centimetre sheet scrunched into a ball, taped round one coin. Tape a 30 centimetre string to each corner of A, B and C. Tape the four loose ends to the coins.  
+  *Parent says:* Cut the squares with a ruler. Tape one string to each corner. Gather the four loose ends and tape them to the coins.  
+  *Child mode:* Build A, B, C and D. Tape a string to each corner of the squares.
   - Note: Make the squares exact, and keep the strings even, or the canopy will lean. Make a third parachute with a big square and 4 coins taped together. Label the three parachutes A (small, 1 coin), B (big, 1 coin) and C (big, 4 coins). For D, scrunch a big sheet into a tight ball and tape it round 1 coin. With 2 to 4 children, each child makes one of A, B, C and D, so all four are built at once. The same child then does the timing for it, and the grown-up does all the dropping.
   - Check: Why must the strings and the polythene be the same for every parachute? → **So only the size or the load changes**
 - **s3 (5 min)**  
@@ -317,9 +317,9 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   - Note: Typical times from 2 metres are about 2 seconds for the small parachute, about 3 to 4 for the big one, about 2 for the big one with 4 coins and under 1 second for the scrunched ball. Your numbers will differ, so trust your own table. The big parachute is the slowest and the scrunched ball the fastest. Those two results should be clear. The same person should use the stopwatch each time, because reaction time adds about a fifth of a second of error. Mark the time as a failed drop if the canopy folds, and drop it again. With several children, one drops, one times and one writes, and everyone swaps after each parachute. If the times are all too short to tell apart, a grown-up can drop from the top of a flight of stairs with a clear floor below.
   - Check: Parachute B takes 2.8, 2.6 and 2.7 seconds. What is the average? → **2.7 seconds**
 - **s5 (5 min)**  
-  *Parent does:* Work out each average. Draw a bar chart with a bar for each of A, B, C and D. Compare C with A.  
-  *Parent says:* Add the three times for each one, and divide by 3. Draw a bar for each parachute. Now look at C and A. What do you notice?  
-  *Child mode:* Find each average. Draw a bar for each one. Compare C and A.
+  *Parent does:* Work out each average. Make a bar chart with a bar for each of A, B, C and D. Draw it, or cut a paper strip as long as each average. Compare C with A.  
+  *Parent says:* Add the three times for each one, and divide by 3. Make a bar for each parachute. Now look at C and A. What do you notice?  
+  *Child mode:* Find each average. Make a bar for each one. Compare C and A.
   - Ask: Does the parachute with 4 coins fall 4 times as fast as the one with 1 coin? (good: No, it is faster but not 4 times.; About twice as fast.; The time only got a bit shorter.)
   - Note: The big parachute with 1 coin (B) usually takes about twice as long as the same parachute with 4 coins (C), not four times. This is because four times the weight gives only about twice the terminal speed. C and A (big and heavy, small and light) often land at similar times. If nothing seems to differ between parachutes, check that the strings are even and the canopy opens, then try again. A big canopy with a heavy load can fall as fast as a small canopy with a light one.
 - **s6 (4 min)**  
@@ -333,13 +333,13 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 - **predict:** Before you start, guess. What will a plane do if you bend the back edges of both wings up? What will it do if you bend one up and one down? Why do you think so?
 - **fair test:** You fold every plane the same way, from the same kind of paper, and throw each one at the same speed, level, from the same spot. Only the bends at the back of the wings change. Each plane is thrown three times, because one throw can be spoilt by a wobbly arm. The plane with no bends is the control. It shows how the plane flies with no steering.
 - **safety:** Throw only when nobody is in front of you, and never at a face. Keep the pointed nose away from eyes.
-- **record:** For each plane, write what the nose does, where it lands, and whether it turns. Draw the path of each plane from above, with the start line and the landing spot.
+- **record:** For each plane, write what the nose does, where it lands, and whether it turns. Measure how far each plane landed to the left or right of the straight line, in shoe-lengths. Then tell your grown-up which bend did what.
 - **results table:** Bends at the back of the wings | What the nose does | Where it lands (steps from the start, and left or right) | Turn left, turn right, climb or dive?
 - **s1 (4 min)**  
   *Parent does:* Show your child the paper and the ruler. Ask for a guess and a reason for each bend. Write the guesses on the results table.  
   *Parent says:* We will fold a paper plane and bend the back of its wings. What will happen if both are bent up? And if one is up and one is down? Why do you think so?  
-  *Child mode:* We bend the back of the wings. What will the plane do? Why?
-  - Ask: Why do you think a bend at the back of a wing changes the flight? (good: It changes how the air pushes on the wing.; It pushes the air up or down.; It tips the plane.)
+  *Child mode:* Look at the back edge of a wing. We will bend it up or down.
+  - Ask: What do you think each bend will do to the plane, and why? (good: It changes how the air pushes on the wing.; It pushes the air up or down.; It tips the plane.)
   - Note: Do not correct the guesses. Write L and R in pencil on the left and right wings. Left and right are as a pilot sitting in the plane and looking forward would see them.
 - **s2 (8 min)**  
   *Parent does:* Fold one plane with the steps in the pictures. Press every crease flat with your fingernail. Make four more planes exactly the same way. Mark L and R on each.  
@@ -374,7 +374,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Tape a coin to the bottom edge of the card so it hangs steady. Tape the thread to the top of the card. Tape the other end of the thread to a shelf, 50 centimetres in front of the fan. Lay the ruler on the floor under the card, with zero under the thread.  
   *Parent says:* The card hangs by a thread in front of the fan. The ruler on the floor will show how far the wind blows it. Which way of holding the card do you think the wind will push hardest? Why?  
-  *Child mode:* Hang the card. Lay a ruler under it. Guess which way gets pushed most.
+  *Child mode:* Hang the card. Lay a ruler under it.
   - Ask: Which way of holding the card do you think the wind will push hardest, and why? (good: Flat to the fan, because it faces the most air.; The cup, because it catches the air.; Edge-on gets the least push.)
   - Note: Put the fan on its lowest setting. Keep the card at the same distance each time. The card should swing a clear 10 to 30 centimetres when flat to the wind. If the wind blows the card almost out sideways, add a second coin. If the card hardly moves, move it closer to the fan. Then keep the coins and the distance the same for every test. Switch off the fan's side-to-side swing.
 - **s2 (10 min) · grown-up needed**  
@@ -386,16 +386,16 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   - Check: The open cup is blown further than the rounded back of the same cup. What does this show? → **Shape changes how hard the air pushes**
 - **s3 (5 min)**  
   *Parent does:* Ask your child what they noticed. Compare the four readings. Ask where else they have felt the same difference.  
-  *Parent says:* Which way got the most push? Which got the least? Where have you felt this before, when you ran or rode a cycle?  
-  *Child mode:* Which way got the most push? Which got the least?
+  *Parent says:* Where have you felt this push before, when you ran or rode a cycle?  
+  *Child mode:* Think of a time the wind pushed you hard.
   - Think: Why does an open umbrella pull so hard in the wind?
 ### a2 · Whirls Behind a Spoon: the wake in a tray (20 min)
 - **safety:** Keep pepper away from eyes and noses, and skip it if anyone is allergic to pepper or turmeric. Wipe up spilled water at once so nobody slips.
-- **record:** Draw the pepper on the water behind the round spoon and behind the flat ruler. Say which one left the bigger whirls, and for how long they kept turning.
+- **record:** Take a photo of the pepper behind the round spoon and behind the flat ruler, or draw it. Say which one left the bigger whirls, and count the seconds they kept turning.
 - **s1 (5 min)**  
   *Parent does:* Fill the tray with 2 centimetres of water. Wait until the water is still. Sprinkle a very thin layer of pepper over it. Ask your child to guess which shape will leave the bigger swirl behind it.  
   *Parent says:* We will pull two shapes through the water. One is round and one is a thin edge. Which do you think will leave the bigger whirl behind it? Why?  
-  *Child mode:* There is pepper on still water. Which shape will leave the bigger swirl? Why?
+  *Child mode:* Look at the pepper on the still water.
   - Ask: Which shape do you think leaves the bigger whirls, and why? (good: The round spoon, because it is wider.; The spoon, because the water cannot close behind it.; The ruler edge, because it is thin.)
   - Note: Wait until the water is still, or the whirls will be mixed with ripples. Use a very thin sprinkle of pepper. A thick layer will not move.
 - **s2 (10 min)**  
@@ -412,11 +412,11 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   - Think: The spoon has stopped, but the water behind it is still moving. Where did that movement come from?
 ### a3 · Swish in the Smoke: what a card leaves in the air (15 min)
 - **safety:** A grown-up lights the incense and keeps it away from paper and cloth. If anyone has asthma, an allergy to smoke or breathing trouble, skip this activity and use Whirls Behind a Spoon instead. Keep the activity short, with under ten minutes of smoke. When you finish, the grown-up puts the stick out in a bowl of water and opens a window.
-- **record:** Draw the smoke line before the swish, and the whirls after it. Write how long the whirls kept turning.
+- **record:** Tell your grown-up what the smoke looked like before the swish and after it, or draw it. Write how long the whirls kept turning.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* A grown-up lights the incense stick and puts it in the holder. Close the windows and turn off the fans. Wait until the smoke rises in a thin, straight ribbon. Ask your child what the card will do to the smoke.  
   *Parent says:* The smoke is rising in a thin line. If I swish this card past it, what do you think the smoke will do? Why do you think so?  
-  *Child mode:* The smoke rises in a thin line. What will the card do to it?
+  *Child mode:* Watch the smoke rise in a thin line.
   - Ask: What do you think the smoke will do when the card swishes past, and why? (good: It will wobble.; It will be pushed away.; It will curl, because the card moves the air.)
   - Note: The room must be still. Even a person walking past will bend the smoke. Wait a minute for it to settle.
 - **s2 (8 min) · grown-up needed**  
@@ -434,11 +434,11 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   - Think: If the moving air carries on after a bird has gone, who could use that air?
 ### a4 · Find the Balance Point: hang it and mark it (20 min)
 - **safety:** A grown-up makes the holes by pushing a sharp pencil point through the card, on a pad of old newspaper, never over a hand.
-- **record:** Draw the shape and the two lines. Mark where they cross. Write whether the shape balanced on a pencil tip at that spot.
+- **record:** Keep the card with its two lines. Mark where they cross. Write whether the shape balanced on a pencil tip at that spot.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Cut a lopsided shape from the card. A grown-up makes three small holes near the edge. Ask your child to guess where the shape will balance.  
   *Parent says:* Here is a lopsided shape. If I put one finger under it, where do you think it will balance? Why?  
-  *Child mode:* Here is a lopsided shape. Where will it balance? Why?
+  *Child mode:* Look at the lopsided shape. Point to where you think it will balance.
   - Ask: Where do you think the shape will balance, and why? (good: In the middle.; Near the heavy part.; Where there is the same weight on both sides.)
   - Note: The balance point is usually not the middle of a lopsided shape. It is nearer to the heavier part.
 - **s2 (10 min) · grown-up needed**  
@@ -454,11 +454,11 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   *Child mode:* Find the balance point of the bird shape. Is it near the wings?
   - Think: What do you think would happen if a plane's balance point was in the wrong place?
 ### a5 · Why a Shuttlecock Always Turns Round (15 min)
-- **record:** Draw the path of a shuttlecock thrown feathers-first. Mark the point where it turns round.
+- **record:** Tally how many of your six tosses turned cork-first. Tell your grown-up where in the air the shuttlecock turned round.
 - **s1 (4 min)**  
   *Parent does:* Hold the shuttlecock by the cork. Ask your child to guess what will happen if you toss it into the air with the feathers pointing forward.  
   *Parent says:* I will toss the shuttlecock with the feathers pointing forward. What do you think it will do? Why?  
-  *Child mode:* I toss it feathers-first. What will it do? Why?
+  *Child mode:* Look at the shuttlecock. The rounded end is the cork. The feathers spread out at the other end.
   - Ask: What do you think a shuttlecock will do when it is thrown feathers-first, and why? (good: It will keep going feathers-first.; It will turn round.; The heavy end will go first.)
 - **s2 (8 min)**  
   *Parent does:* Toss the shuttlecock gently, about 2 metres, with the feathers forward. Watch it turn. Try six tosses, in different directions, and tally how many turned cork-first. Then try the homemade shuttlecock, a paper ball with paper strips, and a ball with no strips for comparison.  
@@ -478,7 +478,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Stand the book upright in front of the fan, about 30 centimetres away. A grown-up turns on the fan, low. Ask your child to guess what the ribbon will do right behind the book.  
   *Parent says:* The book stands in the wind. What will the ribbon do if I hold it right behind the book? What if I move it further back? Why?  
-  *Child mode:* A book stands in the wind. What will the ribbon do behind it? Why?
+  *Child mode:* Look at the book standing in front of the fan.
   - Ask: What do you think the ribbon will do behind the book, and why? (good: Hang still, because the book blocks the wind.; Flutter less.; Flap about as the wind goes round.)
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* Hold the ribbon in the open wind first. Then hold it 5 centimetres behind the book. Move it back to 10, 20 and 40 centimetres. Write what the ribbon does at each place.  
@@ -494,16 +494,16 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   - Think: What if the rider in front gets tired? What could the line do?
 ### a7 · Flock Watch: lines, tails and tilts (20 min)
 - **safety:** Never look at the Sun, with or without binoculars. Stay behind the railing on a balcony or terrace, with a grown-up present. Do not touch or feed wild birds, and wash your hands afterwards.
-- **record:** A tally of birds that flew in a line, birds that spread their tails, and birds that tilted their wings to turn. Add a drawing of one bird turning.
+- **record:** A tally of birds that flew in a line, birds that spread their tails, and birds that tilted their wings to turn. Say how one bird turned, or draw her.
 - **s1 (3 min)**  
   *Parent does:* Choose a spot with a view of the sky, such as a window, a balcony or a terrace. Write the three things to look for: lines, spread tails and tilting wings.  
   *Parent says:* We are going to watch the birds. Look for three things. Birds flying in a line. Birds spreading their tails. Birds tilting their wings. Which do you think we will see most?  
   *Child mode:* Watch the birds. Look for lines, spread tails and tilting wings.
   - Ask: Which of the three do you think you will see most often, and why? (good: Tilting wings, because birds turn all the time.; Spread tails, when they land.; Lines, at sunset.)
 - **s2 (15 min)**  
-  *Parent does:* Watch for 15 minutes. Make a tally mark for each bird in a line. Make one for each spread tail, and one for each wing tilt. Draw one bird turning.  
+  *Parent does:* Watch for 15 minutes. Make a tally mark for each bird in a line. Make one for each spread tail, and one for each wing tilt. Watch one bird turn, and see what her wings and tail do.  
   *Parent says:* Make a mark each time you see one of the three. Watch a bird landing. What does her tail do? What do her wings do?  
-  *Child mode:* Make a mark for each thing you see. Draw one bird turning.
+  *Child mode:* Make a mark for each thing you see. Tell your grown-up how one bird turns.
   - Ask: What does a bird do with her tail and wings when she lands? (good: She spreads her tail wide.; She tilts her wings up.; She flaps hard to slow down.)
   - Note: Crows, pigeons, mynas and kites are usually easy to find, even in a city. In the evening, egrets and parakeets often fly in lines to their roosts. If no birds come, try again at dusk or in the early morning. A landing bird spreads her tail to add drag and slow down. A kite circling with tilted wings is the easiest to see. With several children, each takes one tally (lines, tails or tilts) and then you add them up.
   - Check: A pigeon spreads her tail wide as she lands. Why? → **The wide tail adds drag and slows her down**
@@ -516,11 +516,11 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 ## Projects
 ### p1 · Straw Hoop Glider: a plane with no wings (40 min)
 - **safety:** Use scissors carefully. Do not throw the glider near anyone's face. Stand all other children behind the thrower.
-- **record:** Draw the glider with its two hoops. Write how far it flew with the small hoop in front. Write what happened when you changed one thing.
+- **record:** Take a photo of your glider, or draw it with its two hoops. Write how far it flew with the small hoop in front. Write what happened when you changed one thing.
 - **s1 (4 min)**  
   *Parent does:* Show your child the straw and the paper strips. Ask them to guess if a straw with two paper rings can fly, and why.  
   *Parent says:* This is a glider with no wings. It is a straw with two paper rings. Do you think it will fly? Why?  
-  *Child mode:* This is a straw with two rings. Will it fly? Why?
+  *Child mode:* Look at the straw and the two paper rings.
   - Ask: Do you think a glider with no wings will fly, and why? (good: No, because it has no wings.; Yes, because the rings are like wings.; The rings catch the air.)
   - Note: Do not correct the guess. Most children are surprised that it flies.
 - **s2 (12 min)**  
@@ -536,7 +536,7 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   - Note: A good throw is gentle and level, not hard and upward. It should glide a few metres. If it dives, move the front ring slightly back. If it stalls and drops, move the big ring a little further back. The rings work as round wings that push air down. If it still dives, tape a small ball of clay or a few pieces of tape to the straw's front. Measure the best throw in steps. Each child makes one glider and the group compares distances. Hold the straw at its middle and throw it level, not hard.
   - Check: Why is it better to throw the hoop glider gently than hard? → **A hard throw makes drag very large and the glider tumbles**
 - **s4 (10 min)**  
-  *Parent does:* Change one thing at a time and throw again. Turn the glider round so the big ring is in front. Tilt the small ring a little to one side. Then make the small ring smaller. Write what each change does.  
+  *Parent does:* Change one thing at a time and throw again. Turn the glider round so the big ring is in front. Tilt the small ring a little to one side. Then make the small ring smaller. Put the glider back the way it was after each test. Write what each change does.  
   *Parent says:* Change just one thing. First put the big ring in front. Then tilt the small ring a little. What does each change do?  
   *Child mode:* Change one thing. Throw it again. What changes?
   - Ask: What happens when the big ring is in front? (good: It flies badly or tumbles.; It does not go straight.; It turns round.)
@@ -545,15 +545,15 @@ Thendral looked at the others. Then she took the binoculars and found the line o
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say what they saw and why. Ask which ring does the job of the tail.  
   *Parent says:* Why does it fly with the small ring in front? Which ring works like a tail?  
-  *Child mode:* Why does it fly with the small ring in front?
+  *Child mode:* Say why it flies. Point to the ring that works like a tail.
   - Think: Why is the big ring at the back like the feathers of a shuttlecock?
 ### p2 · A Cup Wind Meter: spin it and count (45 min)
 - **safety:** A grown-up pushes the pin and helps with the stapler, and puts the pin and staples away after, because both are sharp and small. Keep fingers away from the fan grill.
-- **record:** A table with the fan setting (low, medium, high) and the number of turns in 30 seconds. Draw a bar chart of the three results.
+- **record:** A table with the fan setting (low, medium, high) and the number of turns in 30 seconds. Draw a bar chart of the three results, or lay paper strips side by side, one centimetre for each turn.
 - **s1 (5 min)**  
   *Parent does:* Show your child a cup and the straws. Ask for a guess about which way the cups will spin, and why.  
   *Parent says:* We will make a wind meter, with four cups. Each cup has an open side and a rounded back. Which do you think the wind pushes harder? Why?  
-  *Child mode:* A cup has an open side and a rounded back. Which gets pushed more?
+  *Child mode:* Look at the cup. It has an open side and a rounded back.
   - Ask: Which part of the cup will the wind push harder, and why? (good: The open side, because it catches the air.; The rounded back.; The open side has more air to push on.)
   - Note: If your child did The Card in the Fan activity, remind them of the cup in the fan's wind. Anna Mani, an Indian physicist from Kerala, led work on making wind and sunshine instruments for India's weather service.
 - **s2 (20 min) · grown-up needed**  
@@ -569,25 +569,25 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   - Ask: What happens to the number of turns as the fan speed goes up? (good: It goes up.; More turns on high.; The faster the wind, the more turns.)
   - Note: Hold it at the same distance each time. Your numbers will differ. A meter like this might make roughly 10 to 60 turns in 30 seconds, depending on your fan. If it spins too fast to count, count for 10 seconds and multiply by 3. The count shows which wind is stronger, not the speed in kilometres an hour. Each child can build a meter and the group can compare them. Count with a partner, one watching the cup and one watching the clock.
 - **s4 (5 min)**  
-  *Parent does:* Draw a bar chart of the three results. Ask your child what the chart shows, and how a weather station might use a meter like this.  
+  *Parent does:* Draw a bar chart of the three results. Or cut paper strips, one centimetre for each turn, and lay them side by side. Ask your child what the chart shows, and how a weather station might use a meter like this.  
   *Parent says:* What does the chart show? How could a weather station use a spinning wind meter?  
-  *Child mode:* What does your chart show? How could a weather station use a meter like this?
+  *Child mode:* Look at your three results. Which fan speed turned the cups most?
   - Think: How could you turn the number of turns into a wind speed in kilometres an hour?
 
 ## Challenges
 ### c1 · Soft Landing: the slowest parachute (35 min)
 - **problem:** Make a parachute that carries 2 coins and takes the longest time to fall about 2 metres. It must open, stay open, and land upright.
-- **your turn:** Draw your design. Build it and time three drops. Change one thing, such as the size of the canopy or the length of the strings, and time it again. Which design fell most slowly? Why do you think it did?
+- **your turn:** Draw your design, or tell your grown-up how it is made. Build it and time three drops. Change one thing, such as the size of the canopy or the length of the strings, and time it again. Which design fell most slowly? Why do you think it did?
 - **constraints:** Use one thin polythene sheet, no bigger than 50 centimetres by 50 centimetres, and thread, tape and scissors only.; The load is 2 coins taped together. The parachute must carry both.; An adult drops it from the same 2 metre mark every time.; Time three drops and use the average.
 - **general:** A big square canopy with a string at each corner, like the ones in the Parachute Races.; A round canopy cut in a circle, which opens evenly.; Long strings so that the canopy opens fully before the load.
 - **creative:** A small hole in the middle of the canopy, called a vent, to stop it swaying from side to side.; A canopy in the shape of a bowl, with more strings so that the edge stays wide open.; Two canopies, one above the other, joined by the same strings.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem aloud. Ask your child to sketch two or three designs and say which they expect to be slowest.  
-  *Parent says:* We want the slowest fall. Which design will do best? What makes a parachute slow?  
-  *Child mode:* Sketch some designs. Which will fall most slowly?
+  *Parent does:* Read the problem aloud. Ask your child to plan two or three designs. They can sketch them or tell you. Ask which they expect to be slowest.  
+  *Parent says:* We want the slowest fall. Which design do you think will do best?  
+  *Child mode:* Think of two or three designs. You can sketch them or just tell your grown-up.
   - Ask: What makes a parachute fall slowly? (good: A big canopy.; More drag.; A light load.)
 - **s2 (15 min)**  
-  *Parent does:* Build your best design and test it. Time three drops from the 2 metre mark. Write each time and work out the average.  
+  *Parent does:* Build your best design and test it. Tape a mark 2 metres up a wall. Time three drops from the mark. Write each time and work out the average.  
   *Parent says:* Build your best design. Time it three times, and find the average.  
   *Child mode:* Build your parachute. Time it three times.
   - Note: If the canopy folds up and falls fast, it did not open. Try longer strings or a stiffer rim.
@@ -598,17 +598,17 @@ Thendral looked at the others. Then she took the binoculars and found the line o
   - Think: Why would a hole in the middle of the canopy make it steadier, though it lets air through?
 ### c2 · Fly Straight, Then Fly Left: control a paper plane (30 min)
 - **problem:** Make one paper plane that lands on a target mat 5 metres away, and then change the same plane so that it curves left to land on a mat 2 metres to the left.
-- **your turn:** Sketch your plane and say where you will put the bends and clips. Fly it at the first target five times. Then change it to reach the second target. What did you change, and why did that steer the plane?
+- **your turn:** Say where you will put the bends and clips, or sketch your plane. Fly it at the first target five times. Then change it to reach the second target. What did you change, and why did that steer the plane?
 - **constraints:** Use one A4 sheet of paper, tape and up to two paper clips.; Throw from a fixed line. The target mat is a sheet of newspaper.; You may bend the back edges of the wings or move the clips, but you may not cut the plane.; Try each target five times and count how many land on the mat.
 - **general:** A dart plane with a clip on the nose to make it fly straight.; A small bend at the back of both wings to fine-tune the climb.; A smooth, level throw that stays the same each time.
 - **creative:** Bend only the left wing's back edge down a little, so that the plane turns right. To turn it left, bend the right wing's back edge down instead.; A paper tail fin made of a folded strip at the back.; Moving a paper clip to one wing tip to make the plane lean.
 - **s1 (5 min)**  
   *Parent does:* Read the problem aloud. Ask your child to say what they will change to make a plane fly straight, and what they will change to make it turn left.  
   *Parent says:* What will you change to make it fly straight? What will you change to make it curve left? Why?  
-  *Child mode:* What makes a plane fly straight? What makes it turn left?
+  *Child mode:* Think about what you can bend or clip on the plane.
   - Ask: What would you change to turn a plane left? (good: Bend the left wing's back edge up.; Make the left wing lift less.; Tilt the left wing down.)
 - **s2 (12 min)**  
-  *Parent does:* Fold your plane. Tune it with bends and clips until it lands on the near mat. Fly it five times and count the hits.  
+  *Parent does:* Fold your plane any way you like. Tune it with bends and clips until it lands on the near mat. Fly it five times and count the hits.  
   *Parent says:* Fold your plane. Tune it with bends and clips. Fly it five times at the near mat. Count the hits.  
   *Child mode:* Tune your plane. Fly it five times at the near mat.
   - Note: If the plane dives, move a clip back. If it climbs and stalls, bend the back edges down a little. If it drifts, check the wings are equal.

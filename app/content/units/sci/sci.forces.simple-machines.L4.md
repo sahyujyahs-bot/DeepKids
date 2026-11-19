@@ -259,7 +259,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
   - Ask: Which card was the trickiest, and why? (good: The one with a fixed pulley on top.; The one with friction.; The gear that goes slower.)
 - **s4 (3 min)**  
   *Parent does:* Play the last eight cards. When the pile is finished, count each player's points.  
-  *Parent says:* These are the last cards. Think about what trades with what. Is it force and distance, or turns and strength?  
+  *Parent says:* These are the last cards. Remember, more ropes make the pull smaller, but you must pull more rope.  
   *Child mode:* Play the last cards. Count your points.
 - **s5 (2 min)**  
   *Parent does:* Say who won. Ask your child which card taught them the most, and why.  
@@ -273,10 +273,10 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 - **predict:** Before you start, guess. You will lift the bottle three ways: straight up, over one fixed reel, and with a moving reel as well. In which way will the rubber band stretch least? Will the string move further in any of them? Why do you think so?
 - **fair test:** The same bottle, the same rubber band and the same 10 centimetre lift are used every time. Only the way the string runs changes. The straight lift is the control: the plain lift that you compare the other two with. Each way is done twice, so one odd try does not mislead you.
 - **safety:** A grown-up must check that the beam (the broom handle tied across two chair backs) is tied down and holds the bottle. A full bottle weighs about 1 kilogram, and the fixed reel carries about double that when you pull, so use heavy chairs with books on the seats, or a window grill. Keep feet away from under the bottle in case it falls. Keep your face away from the stretched band in case it snaps.
-- **record:** For each set-up, write the stretch of the band on both tries, and how far the knot moved for a 10 centimetre lift. Measure the knot, not your hand, because the band stretches. Then draw a bar chart with one bar for each set-up, using the bigger of the two stretches.
+- **record:** For each set-up, write the stretch of the band on both tries, and how far the knot moved for a 10 centimetre lift. Measure the knot, not your hand, because the band stretches. Then show them as a bar chart or as paper strips, one for each set-up, using the bigger of the two stretches.
 - **results table:** Set-up | Ropes holding the bottle | Band stretch in centimetres: try 1 | Band stretch in centimetres: try 2 | Distance the knot (where the string meets the band) moved for a 10 centimetre lift, in centimetres
 - **s1 (4 min)**  
-  *Parent does:* Show your child the bottle, the reels, the band and the string. Ask for a guess and a reason. Write both at the top of the table.  
+  *Parent does:* Show your child the bottle, the reels, the band and the string. Ask for a guess and a reason. Make a table with one row for each way, and write the guess and reason above it.  
   *Parent says:* We will lift this bottle three ways. First we lift it straight up. Then we lift it over one reel. Then we use a moving reel as well. In which way will the band stretch least? Why do you think so?  
   *Child mode:* Three ways to lift a bottle. Which way stretches the band least? Why?
   - Ask: Do you think the string will move further in any of the three ways? (good: Yes, in the one with more string.; No, the bottle lifts the same height.; I am not sure.)
@@ -307,9 +307,9 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
   - Note: The stretch is usually a little more than half of Test A, because of rubbing. A rubber band also does not stretch evenly, so compare the stretch with your half-full-bottle reading. The knot should move about 20 centimetres. If the stretch is exactly the same as in Test A, check that the string runs under the moving reel. Count the strings that touch it. If nothing seems to change, the reels may be rubbing too hard: widen the loops or use smoother reels.
   - Check: In Test C the band stretches about half as much as in Test A, and the knot moves about twice as far. What does this show? → **Two strings share the load, so each carries half, but the string must be pulled twice as far**
 - **s6 (7 min)**  
-  *Parent does:* Draw a bar chart with one bar for each way, using the bigger of the two stretches. Then ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Make a bar chart with one bar for each way, using the bigger of the two stretches. Draw the bars, or cut a paper strip as long as each stretch. Then ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see in the table? Why do you think it happened?  
-  *Child mode:* Draw a bar for each way. Say what you thought, what you saw, and why.
+  *Child mode:* Show each stretch as a bar or a paper strip. Say what you thought, what you saw, and why.
   - Note: A strong answer says that the fixed reel only changed direction, and that the moving reel halved the pull but doubled the distance. After they have said what they saw, explain it. A bottle of 1 kilogram needs about 10 newtons. Lifting it 0.1 metres is 1 joule of work. With two strings, the pull is about 5 newtons and the knot moves 0.2 metres, which is again 1 joule. The extra stretch in your results is friction.
   - Think: The stretch got smaller and the knot moved further. What stayed the same when you multiplied the pull by the distance?
 ### e2 · Bicycle Gears: how many times does the wheel turn for one turn of the pedals? (30 min)
@@ -355,7 +355,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 - **s1 (6 min)**  
   *Parent does:* Cut two right-angled triangles from paper. Both are 20 centimetres long on the bottom edge. One is 2 centimetres tall at the end, and the other is 4 centimetres tall. Colour the sloping edge of each.  
   *Parent says:* These two ramps are the same length, but one is steeper. We will wind each round a pencil. Which one do you think will make the spiral with the bigger gaps? Why?  
-  *Child mode:* Cut two paper ramps. One is steep. One is gentle. Colour the slopes. Guess which has bigger gaps.
+  *Child mode:* Cut two paper ramps, one steep and one gentle. Colour the sloping edge of each.
   - Ask: Which paper ramp will have the bigger gaps between its turns? (good: The steeper one, because it climbs more.; The tall one.; I am not sure.)
   - Note: Do not correct the guess. Any guess with a reason is good.
 - **s2 (8 min)**  
@@ -392,7 +392,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 - **s3 (3 min)**  
   *Parent does:* Ask your child what they saw and why. Tell them that the second hand goes round 60 times for one turn of the minute hand. Ask what ratio that is. If your clock has a second hand, watch it spin while you turn the knob.  
   *Parent says:* Tell me what you saw. The hour hand turns 12 times slower than the minute hand. What do you think is inside the clock to do that?  
-  *Child mode:* The hour hand is 12 times slower. What is inside to do that?
+  *Child mode:* Say what you saw. Then guess what is inside the clock.
   - Note: The answer is 12 to 1, because 3 times 4 is 12. Many clocks reach 12 to 1 with two pairs of gears. This is how compound machines multiply.
   - Think: A gear train multiplies the ratios. If one pair of gears gives 3 to 1 and another gives 4 to 1, what ratio do they give together?
 ### a3 · Kitchen Machine Detective: what is inside a pair of scissors, a peeler and a pressure cooker? (25 min)
@@ -404,14 +404,14 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
   - Ask: Which simple machines can you spot in a pair of scissors? (good: Two levers.; The blades are wedges.; The screw in the middle holds them.)
   - Note: Scissors have two levers joined at a screw or rivet, and each blade is a wedge. A peeler has a wedge blade and a lever handle. A can opener has a wheel and axle with a handle, a wedge and a lever. A pressure cooker lid locks with a twist that slides on small ramps. An older style tap has a screw inside it and a wheel and axle for the handle, and a door handle is a lever on an axle. Use blunt child scissors when you cut the thick card in the next step, and keep little hands off sharp blades.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* Look closely at each tool, one at a time. Write down every simple machine you can find and what it trades, force for distance or turns for strength. Scissors test: measure the blade from the screw to the tip, and the handle from the screw to where your finger pushes. Then cut a strip of thick card near the tips and again deep near the screw, and feel which is easier. A grown-up should handle the blades and the can opener's cutting edge. Use only a cold, empty pressure cooker lid.  
+  *Parent does:* Look closely at each tool, one at a time. Write down every simple machine you can find and what it trades. A machine trades when your push becomes stronger but your hand moves further. Scissors test: measure the blade from the screw to the tip, and the handle from the screw to where your finger pushes. Then cut a strip of thick card near the tips and again deep near the screw, and feel which is easier. A grown-up should handle the blades and the can opener's cutting edge. Use only a cold, empty pressure cooker lid.  
   *Parent says:* For each tool, find each machine. For each machine, say what it trades. Does it make your push stronger, or does it make your hand move further?  
   *Child mode:* Find each machine in each tool. Say what it trades.
   - Check: A pair of scissors cuts thick card more easily near the screw than near the tips. Why? → **The load is closer to the fulcrum, so the same push cuts with more force**
 - **s3 (8 min)**  
   *Parent does:* Ask your child to choose the tool with the most machines. Ask where the friction is, and what a drop of oil would do.  
   *Parent says:* Which tool has the most machines inside? Where do you think the rubbing is? What would a drop of oil do?  
-  *Child mode:* Which tool has most machines? Where is the rubbing?
+  *Child mode:* Which tool has most machines? Where do parts rub together?
   - Note: The answer is about 73 percent, because 0.9 times 0.9 times 0.9 is 0.729. Each part loses a share.
   - Think: If a tool has three machines, each 90 percent efficient, how much of your effort comes out?
 ### a4 · Rope Count at Home and Outside: where are the hidden pulleys? (20 min)
@@ -419,7 +419,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 - **s1 (6 min)**  
   *Parent does:* Walk round your home. Look for a ceiling clothes rack, a curtain cord, a window blind, a flagpole or a well. Write down each place.  
   *Parent says:* Look for a rope that goes over a wheel. Where is one in our home? Let us walk round and look.  
-  *Child mode:* Look for a rope over a wheel. Where is one in our home?
+  *Child mode:* Find a rope that goes over a wheel. Write down each place.
   - Ask: Where would you expect to find a pulley in a home? (good: A clothes drying rack.; A curtain or a blind.; A well.)
   - Note: A ceiling clothes drying rack has a rope and two or more small pulleys. Pull the rope down and the rack rises. Count the ropes that hold the rack.
 - **s2 (8 min)**  
@@ -437,10 +437,10 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 
 ## Projects
 ### p1 · Charkha Belt Drive: a big wheel that turns a small wheel fast (45 min)
-- **record:** Draw the belt drive, with the sizes of the wheels, and write how many times the small wheel turned for each turn of the big wheel.
+- **record:** Draw the belt drive with the sizes of the wheels, or take a photo of it. Then write how many times the small wheel turned for each turn of the big wheel.
 - **s1 (5 min)**  
   *Parent does:* Show your child a picture of a charkha, or remind them of one they have seen. Ask for a guess and a reason. The big wheel is 12 centimetres across and the small one is 3 centimetres across.  
-  *Parent says:* On a charkha, a big wheel turns a thin spindle. If I turn the big wheel once, how many times will the small wheel turn? Why do you think so?  
+  *Parent says:* A charkha is a spinning wheel for making thread. A big wheel turns a thin spindle. Our big wheel is 12 centimetres across and the small one is 3. If I turn the big wheel once, how many times will the small wheel turn? Why do you think so?  
   *Child mode:* Big wheel turns once. How many turns for the small wheel? Why?
   - Ask: Will the small wheel turn more or fewer times than the big one? (good: More, because it is smaller.; More, because the belt has to go round it too.; The same.)
   - Note: Do not correct the guess. The answer is 4, because the big wheel is 4 times as wide.
@@ -455,7 +455,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
   *Child mode:* Pencils through the straws. Belt round both wheels. Pull it tight. Turn the big wheel.
   - Note: If the belt slips, wrap a rubber band round the rim of each wheel for grip. If the wheels rub on the box, tape a bit of card between them. Stick a blob of tape on each pencil on both sides of its straw so the pencil does not slide along. The belt should be tight but the wheels must still turn easily.
 - **s4 (10 min)**  
-  *Parent does:* Turn the big wheel exactly 5 times, slowly. One child turns, one counts the big turns aloud, one counts the small wheel's mark. Divide the small wheel's turns by 5. Compare with the guess. Do it twice.  
+  *Parent does:* Turn the big wheel exactly 5 times, slowly. One person turns the big wheel and counts its turns aloud. Another counts the small wheel's mark. Divide the small wheel's turns by 5. Compare with the guess. Do it twice.  
   *Parent says:* Turn the big wheel five times, slowly. Count how many times the small wheel's mark goes round. How many turns for each big turn?  
   *Child mode:* Turn the big wheel 5 times. Count the small wheel's turns.
   - Note: A result between 3.5 and 4 turns for each big turn is normal, because the belt slips a little and the pencil and the belt add a little thickness. If the small wheel goes too fast to count, turn the big wheel slower, or count the small wheel's turns for only 2 big turns. With one child, the parent counts the big turns.
@@ -470,14 +470,14 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
 ## Challenges
 ### c1 · The Lazy Lift: raise the bottle with the lightest pull (40 min)
 - **problem:** Raise a full 1 litre bottle by 10 centimetres so that the rubber band stretches as little as you can make it. You may use up to 3 reels, one length of string and the beam. The bottle must rise at least 10 centimetres and hang still for 5 seconds.
-- **your turn:** Sketch your design. Build it and test it. Count the strings that hold the bottle. Work out the pull you should get, and measure the real stretch. How close were they? Where did the extra pull go?
+- **your turn:** Build your design, and sketch it or take a photo. Test it. Count the strings that hold the bottle. Work out the pull you should get, and measure the real stretch. How close were they? Where did the extra pull go?
 - **constraints:** Use no more than 3 reels.; Use only reels, string (you may cut it into pieces and tie them), the beam and the rubber band. A drop of cooking oil is allowed.; The bottle must rise at least 10 centimetres and hang still for 5 seconds.; Write down the band stretch and how far the knot moved.
 - **general:** One fixed reel and one moving reel, with two strings holding the bottle, as in Test C.; One moving reel with two strings holding the bottle, and the pull going up, so no fixed reel is needed.; The Test C set-up, with a drop of oil on each reel's string loop to cut the rubbing.
 - **creative:** Hang a second moving reel from the first one's string, so the pull is a quarter, with 3 reels in all.; Use bigger, smoother reels, so there is less rubbing and the pull gets closer to the ideal numbers.; Use a different string, such as thread, and test whether friction goes down.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch two or three different designs. Ask them to count the strings holding the bottle in each.  
-  *Parent says:* You have up to three reels. How could you set them up so that the band stretches the least? Draw some ideas first, and count the strings that hold the bottle.  
-  *Child mode:* You have 3 reels. Draw some ideas. Count the strings holding the bottle.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to try two or three different set-ups of the reels and string on the beam, without the bottle yet. Ask them to count the strings that would hold the bottle in each.  
+  *Parent says:* You have up to three reels. How could you set them up so that the band stretches the least? Try some ideas on the beam first, and count the strings that would hold the bottle.  
+  *Child mode:* You have 3 reels. Try some set-ups on the beam. Count the strings that would hold the bottle.
   - Ask: What makes the pull smaller? (good: More strings holding the bottle.; Moving reels.; Smoother reels.)
 - **s2 (20 min)**  
   *Parent does:* Build your first design. Lift the bottle 10 centimetres and hold it for 5 seconds. Read the band's stretch. Measure how far the knot moved. Then change one thing and test again.  
@@ -486,7 +486,7 @@ Ajji watched the water run. 'It is a fair price,' she said. 'The bullocks pay it
   - Note: A cascade of two moving reels, with the second reel hanging from the string of the first, can give a quarter of the pull. The knot then moves about 40 centimetres. Friction is bigger, so expect a stretch somewhat above a quarter, and small stretches are hard to read, so measure to the nearest millimetre. Same safety as Count the Ropes: a grown-up checks the beam, heavy chairs or a window grill, feet and faces away from the bottle and band. With 2 to 4 children, each designs their own and you take turns on the one bottle and beam. Keep fingers away from the string when the bottle is hanging.
   - Check: A design has 4 strings holding the bottle. The band stretches 10 centimetres in the straight lift. About how far should it stretch now, with no friction? → **About 2.5 centimetres**
 - **s3 (12 min)**  
-  *Parent does:* Compare all your designs. Pick the best and draw it. Work out the force times the distance for the best design, and for the straight lift.  
+  *Parent does:* Compare all your designs. Pick the best and take a photo of it. Work out the force times the distance for the best design, and for the straight lift.  
   *Parent says:* Which design gave the smallest stretch? How far did the knot move? Multiply the stretch by the distance for the best design and for the straight lift. What do you notice?  
   *Child mode:* Which design was best? Multiply stretch by distance. Compare with the straight lift.
   - Note: The pull-times-distance numbers should be about the same, or a little bigger for the best design. That is the trade, plus friction.

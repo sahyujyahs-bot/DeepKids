@@ -414,7 +414,7 @@
    "setup": [
     {
      "art": "Sixteen cards laid out in rows on a table, with a hand-drawn battery of thirty squares on a sheet of paper.",
-     "caption": "1. Cut out the cards. Draw a battery of 30 squares."
+     "caption": "1. Cut out the cards. Make a battery of 30 squares."
     },
     {
      "art": "A child writing watt-hours under a card that shows a fan with 60 watts and 10 hours.",
@@ -529,9 +529,9 @@
     {
      "id": "g1s1",
      "mins": 4,
-     "do": "Cut out the 16 cards. Put the 12 appliance cards face up. Draw a battery of 30 squares for each player. One square is 100 watt-hours.",
-     "say": "This battery holds 3,000 watt-hours. A watt-hour is one watt used for one hour. We draw 30 squares, and each square is 100 watt-hours.",
-     "kid": "Cut out the cards. Draw a battery of 30 squares.",
+     "do": "Cut out the 16 cards. Put the 12 appliance cards face up. Make a battery of 30 squares for each player. Draw it, or lay out 30 buttons or coins. One square is 100 watt-hours.",
+     "say": "This battery holds 3,000 watt-hours. A watt-hour is one watt used for one hour. We make 30 squares, and each square is 100 watt-hours.",
+     "kid": "Cut out the cards. Make a battery of 30 squares.",
      "parent": "You need scissors, paper, a pencil and a calculator. With 2 to 4 players, each draws a battery and everyone plays at once from the same face-up cards. Check that your child can say what a watt-hour is. If not, say that a 10 watt bulb on for 1 hour uses 10 watt-hours.",
      "context": "This is the first step of Budget the Battery. You set up the cards and the battery."
     },
@@ -558,9 +558,9 @@
     {
      "id": "g1s3",
      "mins": 8,
-     "do": "Now plan the night. Choose the cards you will run, and cross out the squares. You may use up to 30 squares. Write down the points.",
-     "say": "Which things matter most tonight? Which cost too much? Choose your cards, and cross out the squares. Do not go over 30.",
-     "kid": "Choose cards. Cross out squares. Stay at 30 or under.",
+     "do": "Now plan the night. Choose the cards you will run, and cross out or take away the squares. You may use up to 30 squares. Write down the points.",
+     "say": "Which things matter most tonight? Which cost too much? Choose your cards, and cross out or take away the squares. Do not go over 30.",
+     "kid": "Choose cards. Cross out or take away squares. Stay at 30 or under.",
      "ask": [
       {
        "q": "Which card costs a lot but gives few points?",
@@ -629,8 +629,8 @@
     }
    ],
    "safety": "Use dry stairs with a rail, and wear shoes or chappals with a good grip. Always walk, never run, and hold the rail. A grown-up stands at the top and the bottom. Rest two minutes between climbs, and stop at once if your child feels dizzy or very out of breath. Do the climbs when the stairs are quiet.",
-   "record": "Fill in a row of the table for each climb. Then draw a bar chart of the watts for the six climbs, using the same scale for every bar.",
-   "context": "In this experiment, you climb a staircase at three speeds and turn each climb into joules and watts.",
+   "record": "Fill in a row of the table for each climb. Then show the watts of the six climbs as a bar chart, drawn or stacked from coins, using the same scale for every bar.",
+   "context": "In this experiment, you climb a staircase at three speeds. You will find out if a fast climb takes more energy, or only more power. Energy is counted in joules. Power is how fast you use energy, counted in watts.",
    "setup": [
     {
      "art": "A child measuring the height of one stair step with a ruler while a parent holds the end.",
@@ -659,7 +659,7 @@
      "mins": 5,
      "do": "Show your child the stairs. Say they will climb three times: slowly, at a steady pace, and fast. Write down their guess and their reason.",
      "say": "We will climb these stairs three ways. Slowly, then steady, then fast. Will the fast climb use more energy than the slow one? Will it use more watts? Why do you think so?",
-     "kid": "You will climb three ways. Slow, steady and fast. Which uses more energy? Which uses more watts? Why?",
+     "kid": "You will climb the stairs three ways: slow, steady and fast. Guess which climb uses more energy, and which uses more watts.",
      "ask": [
       {
        "q": "Why do you think the fast climb will use more?",
@@ -746,9 +746,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Draw a bar for the watts of each climb. Then ask your child to say what they thought, what they saw, and why. Compare their best climb with a 9 watt bulb and a 60 watt fan.",
+     "do": "Show the watts of each climb as a bar. Draw it, or stack coins, one coin for every 10 watts. Then ask your child to say what they thought, what they saw, and why. Compare their best climb with a 9 watt bulb and a 60 watt fan.",
      "say": "Tell me three things. What did you think would happen? What did you see in the table? Why do you think it happened?",
-     "kid": "Say what you thought, what you saw, and why.",
+     "kid": "Look at your bars. Which climb made the most watts?",
      "parent": "A good answer says the joules stayed about the same, because the climb was the same height, and the watts were bigger when the time was shorter. After they have said this, say the idea: the same energy in less time is more power. Say too that the muscles use about four times the watts you measured, because they turn only a quarter of their food energy into lifting. The other three quarters become heat, which is why you feel hot. A quick walk up may give about 80 to 120 watts, more than a fan, but nobody can keep that up for hours.",
      "think": "You made more watts than a bulb for a few seconds. Why can you not light a bulb all night this way?",
      "context": "In this step, you draw the results and say what they show. You compare your power with a bulb and a fan."
@@ -795,7 +795,7 @@
    ],
    "safety": "Only look at the meter. Never open the meter box or touch the wires. A grown-up switches the big appliance on and off, because irons and kettles get very hot. Do not leave the big appliance running longer than the count needs. Keep hands dry and away from plugs and sockets, keep the iron on its stand and never leave it alone, and keep fingers out of the mixer grinder.",
    "record": "Write each appliance, how you counted, the seconds, and the watts you worked out. Add the rating plate watts and say if they are close.",
-   "context": "In this experiment, you use the blinking light on your energy meter to find how many watts each appliance takes.",
+   "context": "In this experiment, you use the blinking light on your energy meter to find how many watts each appliance takes. You will find out if the meter can tell you the watts of a fan, and if the label on the fan agrees.",
    "setup": [
     {
      "art": "A white energy meter on a wall with a small red light blinking and the number 3200 imp/kWh printed on it.",
@@ -820,7 +820,7 @@
      "mins": 4,
      "do": "List four appliances in your home. Ask your child to put them in order from the fastest blink to the slowest, and say why. Write down the order.",
      "say": "When we switch something on, the light on the meter blinks. Which of these will make it blink fastest? Which slowest? Why do you think so?",
-     "kid": "Put the appliances in order. Fastest blink first. Say why.",
+     "kid": "Put the four appliances in order, with the fastest blink first.",
      "ask": [
       {
        "q": "What makes you think that one will blink fastest?",
@@ -945,7 +945,7 @@
    ],
    "record": "Write the joules of one lift, the joules of twenty lifts, and how many lifts equal one chapati.",
    "safety": "Close the bottle cap tightly. Lift with bent knees and a straight back, and put the bottle down gently. Keep your feet clear of the bottle. Stop if you feel tired or your back hurts.",
-   "context": "In this activity, you feel what a joule is by lifting an apple and a bottle. Then you compare your lifting with the energy in a chapati.",
+   "context": "In this activity, you feel what a joule is by lifting an apple and a bottle. Then you compare your lifting with the energy in a chapati. You will find out how many bottle lifts the energy in one chapati equals.",
    "setup": [
     {
      "art": "A child lifting a small apple one metre up beside a ruler with 1 joule written beside it.",
@@ -983,7 +983,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "First guess how many lifts you can do before you feel tired, and write it. Measure the table height in metres. Lift the bottle from the floor to the table, 20 times, at an easy pace. Your child counts each lift out loud and the grown-up times the 20 lifts.",
+     "do": "First guess how many lifts you can do before you feel tired, and write it. Measure the table height in metres. Lift the bottle from the floor to the table, 20 times, at an easy pace. Your child counts each lift out loud and the grown-up times the 20 lifts. Then work out the joules of one lift (10 times the table height in metres, about 8) and of 20 lifts.",
      "say": "Lift the bottle onto the table, then put it back on the floor, and lift again. Count out loud. Stop if you get tired.",
      "kid": "Lift the bottle onto the table. Count each lift. Do it 20 times.",
      "adult": true,
@@ -998,7 +998,7 @@
      "kid": "How many lifts equal one chapati? Guess first. Then work it out.",
      "ask": [
       {
-       "q": "Why does eating one chapati not let you lift the bottle 52,500 times at once?",
+       "q": "Why can one chapati not let you lift the bottle thousands of times at once?",
        "good": [
         "The body lets the energy out slowly.",
         "Muscles get tired.",
@@ -1009,7 +1009,7 @@
      "parent": "The sum is 420,000 divided by 8, which is 52,500 lifts. Your child will probably guess far too low. Say that this number is only right if none of the chapati's energy is wasted. Your muscles use about four times what the lift needs, so in real life it is about 13,000 lifts. A chapati could keep you lifting for hours. The 420,000 joules is typical for one chapati of about 100 kilocalories, and real chapatis vary.",
      "check": {
       "t": "mcq",
-      "q": "A chapati holds about 420,000 joules. Lifting the bottle once takes about 10 joules. About how many lifts is that?",
+      "q": "A chapati holds about 420,000 joules. Pretend lifting the bottle once takes 10 joules. About how many lifts is that?",
       "options": [
        "About 42,000 lifts",
        "About 420 lifts",
@@ -1305,8 +1305,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Ask: the machine was meant to make light, sound or movement. Why is it warm too? Say where the warmth came from.",
-     "say": "That machine was not meant to make warmth. Where did the warmth come from? Where does it go next?",
-     "kid": "Why is it warm? Where does that warmth go next?",
+     "say": "That machine was meant to make light, sound or movement, not warmth. So where did the warmth come from?",
+     "kid": "Where does that warmth go next?",
      "parent": "A strong answer says some of the energy that went in turned into heat on the way, and that the warmth spreads into the air around. It is not gone. It is the spread-out energy. Let your child say it first.",
      "check": {
       "t": "mcq",
@@ -1366,7 +1366,7 @@
     }
    ],
    "record": "Write the units used, the days, the units a day and a person, the chapatis, and the three biggest users with one change.",
-   "context": "In this project, you read your family's electricity bill like a detective and turn the units into chapatis, to compare electricity with food.",
+   "context": "In this project, you read your family's electricity bill like a detective and turn the units into chapatis, to compare electricity with food. You will find out how much electricity each person in your home uses in a day.",
    "setup": [
     {
      "art": "A child reading an electricity bill at a table with a pencil and calculator, with the word units circled.",
@@ -1396,7 +1396,7 @@
      "mins": 10,
      "do": "Find the units used and the number of days on the bill. Divide the units by the days. Then divide by the number of people in the home. Write both answers.",
      "say": "Look for the word units, or kilowatt-hours. Find how many days the bill covers. Divide units by days. Then divide by how many of us live here.",
-     "kid": "Find the units and the days. Divide to find units a day.",
+     "kid": "Find the units and the days. Divide to find units a day. Then divide by the people at home.",
      "ask": [
       {
        "q": "Which appliances do you think use most of those units?",
@@ -1424,9 +1424,9 @@
     {
      "id": "p1s3",
      "mins": 5,
-     "do": "On day 1, if your meter shows the total units (kWh) on its screen or when you press a button, write the number and the time. On day 2, at the same time, read it again and subtract. That is the units for one day. Write it down.",
-     "say": "Let us check the sum on another day. Did we use about the same units today? Why might it change?",
-     "kid": "Check one more day. Did we use the same?",
+     "do": "On day 1, look for the total units (kWh) on your meter. It may show on the screen or when you press a button. Write the number and the time. On day 2, at the same time, read it again and subtract. That is the units for one day. Write it down.",
+     "say": "Read the meter now and write the number. Read it again tomorrow at the same time. The difference is one day's units.",
+     "kid": "Read the meter today and tomorrow. Subtract. Is it close to your first answer?",
      "parent": "Meters in many flats are out of reach, and some prepaid meters show units only in an app. If you cannot read it, skip this step and use the bill's number. Days with a geyser, a guest or an air conditioner use more.",
      "context": "In this step, you check your sum on another day."
     },
@@ -1449,7 +1449,7 @@
    "id": "c1",
    "title": "The Energy Ladder: ten rungs, each ten times bigger",
    "mins": 35,
-   "problem": "Build a ladder of energy on a wall or a long strip of paper. The bottom rung is 1 joule, and every rung above is exactly ten times bigger. For each rung, find or draw a real thing that holds about that much energy.",
+   "problem": "Build a ladder of energy on a wall or a long strip of paper. The bottom rung is 1 joule, and every rung above is exactly ten times bigger. For each rung, find a real thing that holds about that much energy, and write its name or draw it.",
    "constraints": [
     "The bottom rung is 1 joule (lifting an apple 1 metre).",
     "Each rung is exactly ten times the one below.",
@@ -1473,11 +1473,11 @@
     "Add the energy of something nobody has measured at home, such as a lightning flash or a small earthquake, and say where you found it."
    ],
    "your_turn": "Build your ladder with the rungs you choose. Which rung was hardest to fill? Which was the biggest surprise? Add one thing of your own that is not in this unit.",
-   "context": "This is a design challenge about the size of energy. You build a ladder that shows how much energy things hold, from one joule to a hundred million.",
+   "context": "This is a design challenge about the size of energy. You build a ladder that shows how much energy things hold, from one joule to a hundred million. You will see how a chapati, a bottle lift and your stair climb compare.",
    "setup": [
     {
      "art": "A long sheet of paper on a wall with ten rungs drawn, the lowest labelled 1 J and the next 10 J.",
-     "caption": "1. Draw ten rungs. Label the bottom one 1 joule."
+     "caption": "1. Make ten rungs. Label the bottom one 1 joule."
     },
     {
      "art": "A child writing a real thing next to each rung, such as a bottle at 10 joules and a phone battery at 60 kilojoules.",
@@ -1492,9 +1492,9 @@
     {
      "id": "c1s1",
      "mins": 5,
-     "do": "Read the problem together. Draw a ladder of ten rungs on a long strip of paper. Write 1 joule on the lowest rung and an apple lift beside it.",
+     "do": "Read the problem together. Make a ladder of ten rungs. Draw it on a long strip of paper, or stick ten sticky notes in a column on a wall. Write 1 joule on the lowest rung and an apple lift beside it.",
      "say": "We will build a ladder. Each rung is ten times bigger than the one below. The bottom rung is one joule. What is the next rung?",
-     "kid": "Draw ten rungs. Write 1 joule at the bottom.",
+     "kid": "Make ten rungs. Write 1 joule at the bottom.",
      "ask": [
       {
        "q": "What number is the third rung?",

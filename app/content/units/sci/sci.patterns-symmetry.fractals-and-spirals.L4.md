@@ -270,8 +270,8 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Check: Why do the arms of the cluster keep growing longer? → **A wandering walker is most likely to bump into a tip before it reaches a hollow**
 - **s5 (8 min)**  
   *Parent does:* Play round 2, and round 3 if there is time (a second sitting is fine). Write the walker counts on the score sheet. Add up the rounds won and name the winner.  
-  *Parent says:* Play another round, or two. Are the clusters exactly the same? Are they the same kind of shape?  
-  *Child mode:* Play round 2, and round 3 if there is time. Count the walkers. Is each shape the same?
+  *Parent says:* Play another round, or two. Write the walker counts on the score sheet.  
+  *Child mode:* Play round 2, and round 3 if there is time. Count the walkers each time.
   - Ask: Were the three clusters exactly the same? (good: No, but they were the same kind of shape.; No. Each had arms, but in different places.)
   - Note: Every cluster is different because the die is random. But all of them have arms with smaller branches on them. The kind of shape is the same each time, and the exact shape is not.
 
@@ -285,13 +285,13 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - **results table:** Box size | Boxes touched by the straight line | Boxes touched by my coast | Coast ratio: this count divided by the count for boxes twice as big
 - **s1 (3 min)**  
   *Parent does:* Show your child a squared page. Ask them to guess how the box counts will change, and to give a reason. Write the guess at the top of the table.  
-  *Parent says:* A straight line touches 5 boxes when the boxes are 4 centimetres wide. How many will it touch when the boxes are half as wide? What will a crinkly coast do? Why do you think so?  
-  *Child mode:* A line touches 5 big boxes. How many small boxes will it touch? What about a crinkly coast?
+  *Parent says:* A straight line touches 5 boxes when the boxes are 4 centimetres wide. We will make the boxes half as wide, then half again, and count each time.  
+  *Child mode:* Look at the squared page. Soon the boxes will get smaller. Think about what happens to the count.
   - Ask: Will the coast's count grow by more than the line's, less, or the same? Why? (good: More, because the coast has more bends to go through.; The same, because both are lines.; Less, because the line is straight and goes through every box.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. The test will answer it.
 - **s2 (8 min)**  
   *Parent does:* On page 1, draw a straight line through the middle of a row of squares. Make it 20 centimetres long. Do not draw it along a grid line. On page 2, draw a coast from the left edge to the right edge. First draw 4 big bays and points. Then add smaller bays on those. Then add tiny wiggles.  
-  *Parent says:* The straight line goes through the middle of a row, not along a grid line. For the coast, start with big bays. Then put smaller bays inside them. Then even smaller ones. Make it as crinkly as you can.  
+  *Parent says:* The straight line goes through the middle of a row, not along a grid line. For the coast, start with big bays. Then put smaller bays inside them. Then even smaller ones. Make it as crinkly as you can. If drawing a coast is hard, trace a real coast from a map instead.  
   *Child mode:* Draw a straight line in a row of squares. Draw a crinkly coast on page two. Add bays inside bays.
   - Note: A coast with bays inside bays gives a better result than a smooth wobbly line. Keep the coast from crossing itself. Keep the pencil line thin so the shaded boxes are easy to see.
 - **s3 (3 min)**  
@@ -319,8 +319,8 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Think: If you drew a smooth coast with only two or three gentle curves, what ratio would you expect?
 - **s7 (4 min)**  
   *Parent does:* Ask your child to say what they found. Write down what they found, the numbers that show it, and the reason.  
-  *Parent says:* What did you find? What numbers show it? Why do you think the coast grew faster than the line but slower than a filled page?  
-  *Child mode:* What did you find? Which numbers show it? Why?
+  *Parent says:* What did you find? What numbers show it?  
+  *Child mode:* Tell your grown-up what you found. Point to the numbers that show it.
   - Ask: Why did the coast's count grow faster than the line's, but slower than a page's? (good: The coast has bends, so it needs more boxes than a straight line.; It does not fill the page, so it needs fewer boxes than a filled page.)
   - Note: A strong answer says: the line's count doubles, the filled page's would quadruple, and the coast's grew by about 2.4 times, in between. The reasoning is that a crinkly line has more to cover than a straight one, but it does not fill the whole page. The number between 1 and 2 describes how much it fills.
   - Check: A coast's box count grows by 3.0 times each time the boxes are halved. What can you say about the coast? → **It is much rougher than a straight line and nearer to filling a page, with a roughness number about 1.6**
@@ -329,12 +329,12 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - **predict:** Before you start, guess. How many leaves up the stem will you go before you find one directly above the first? Will each leaf turn half a circle, a third, or something else? Why do you think so?
 - **fair test:** Use the same method on every stem: tag the leaves from the bottom, find the first leaf directly above the bottom one, count the leaves and follow a thread round the stem to count the turns. Count each stem twice, starting from a different leaf the second time, because one count can be wrong. Only the plant changes. With one child, the parent does the second count. With 2 to 4 children, each child takes a different plant: one holds the thread and one reads the tag numbers from above, then swap roles and compare.
 - **safety:** Do not pick leaves or bend the stem. Use only plants you know are safe to touch. Some plants, such as chilli, can sting the eyes, and brinjal stems can have small thorns, so keep hands away from your face and touch gently. Wash hands afterwards. Do not taste any leaf.
-- **record:** Fill in the table for each stem. Draw the stem seen from above, with the leaves in order and an arrow showing which way they turn.
+- **record:** Fill in the table for each stem. Draw the stem seen from above, with the leaves in order and an arrow showing which way they turn. Or take a photo from above and write the tag numbers beside it.
 - **results table:** Plant or stem | Leaves counted from bottom leaf to the leaf directly above it (n) | Turns round the stem (t) | Fraction of a turn per leaf (t divided by n) | Angle per leaf in degrees (360 times t divided by n)
 - **s1 (3 min)**  
   *Parent does:* Show your child the plant. Ask for a guess and a reason. Write the guess at the top of the table.  
-  *Parent says:* The leaves climb the stem. Does each leaf turn half a circle from the last, or less? How many leaves will you pass before one sits directly above the first? Why do you think so?  
-  *Child mode:* Look at the leaves on the stem. How far does each leaf turn? Why do you think so?
+  *Parent says:* The leaves climb the stem like stairs. Does each leaf sit right above the last, or does it turn round the stem?  
+  *Child mode:* Look at the leaves going up the stem. Which side of the stem is each one on?
   - Ask: How far do you think each leaf turns round the stem from the last one? (good: Half a circle, so the leaves are on two sides.; A little less than half.; It is random.)
   - Note: Do not correct the guess. Any guess with a reason is good. The test will answer it.
 - **s2 (5 min)**  
@@ -350,20 +350,20 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Check: A thread winds twice round the stem from leaf 0 to the first leaf directly above it, which is leaf 5. How many degrees does each leaf turn from the last? → **144 degrees**
 - **s4 (5 min)**  
   *Parent does:* Work out t divided by n, the fraction of a turn per leaf. Multiply by 360 to find the angle. Write both in the table. Compare your fraction with 1 over 2, 1 over 3, 2 over 5 and 3 over 8.  
-  *Parent says:* Divide the turns by the leaves. That is how much of a circle each leaf turns. Multiply by 360 for the angle. Is your fraction close to 1 over 2, 1 over 3, 2 over 5 or 3 over 8?  
+  *Parent says:* Divide the turns by the leaves. That is how much of a circle each leaf turns. A full circle is 360 degrees, so multiply by 360 to get the angle. Is your fraction close to 1 over 2, 1 over 3, 2 over 5 or 3 over 8?  
   *Child mode:* Divide turns by leaves. Multiply by 360 for the angle.
   - Ask: Which of 1 over 2, 1 over 3, 2 over 5 and 3 over 8 is your fraction nearest to? (good: 2 over 5.; 3 over 8.; 1 over 2.)
   - Note: In degrees, 1 over 2 is 180, 1 over 3 is 120, 2 over 5 is 144 and 3 over 8 is 135. Many plants are near 2 over 5 or 3 over 8. Both are close to the golden angle, 137.5 degrees. Do not worry if your stem is not tidy. Real stems are never perfect.
 - **s5 (3 min)**  
   *Parent does:* Do the same for a second plant or a second stem. Fill in the next row of the table.  
   *Parent says:* Now try a different plant. Is it the same fraction, or a different one?  
-  *Child mode:* Try a second plant. Is it the same?
+  *Child mode:* Tag and measure a second plant the same way.
   - Ask: Did the second plant have the same fraction as the first? (good: No, it was different.; Yes, both were about the same.; It was close but not the same.)
   - Note: Different plants often differ. A plant with leaves in pairs gives a pattern of pairs, with each pair turned a quarter of a circle from the last. This is a different arrangement from the one-at-a-time leaves.
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say what they found. Write down what they found, the numbers that show it, and the reason.  
-  *Parent says:* What did you find? What numbers show it? Why might a plant turn the leaves by this much and not by half a circle?  
-  *Child mode:* What did you find? Which numbers show it? Why not half a circle?
+  *Parent says:* What did you find? What numbers show it?  
+  *Child mode:* Tell your grown-up what you found. Point to the numbers that show it.
   - Ask: Why might it help a plant to turn each leaf by about 140 degrees and not by half a circle? (good: With half a circle, leaves would line up in two rows and shade each other.; A turn like 140 degrees spreads the leaves so each gets light.)
   - Note: A strong answer says: a half turn puts leaf 2 straight over leaf 0, so the leaves line up and shade each other. A turn near 137.5 degrees never lines a leaf up exactly above an earlier leaf, so leaves spread out and share the light.
   - Check: Which turn between neighbouring leaves would put leaf 2 directly above leaf 0? → **Half a circle**
@@ -374,8 +374,8 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - **record:** A table with columns for the round, the number of pieces, the length of each piece and the total length. Add your guess for round 3.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to draw a straight line 27 centimetres long, near the middle of the page. Ask them to guess what happens to the length if you replace the middle third with a tent.  
-  *Parent says:* Here is a line 27 centimetres long. We will cut out the middle third and put in a tent. Will the new line be longer, shorter or the same? Why do you think so?  
-  *Child mode:* Draw a line 27 centimetres long. Will a tent in the middle make it longer or shorter?
+  *Parent says:* Here is a line 27 centimetres long. We will cut out the middle third and put in a tent. A tent is two sloping sides that meet at a point, like a tent roof.  
+  *Child mode:* Draw a line 27 centimetres long, near the middle of the page.
   - Ask: Will the line with a tent be longer, shorter or the same length? Why? (good: Longer, because the tent goes up and down.; The same, because we only moved it.; Longer, because there are two sides in place of one.)
   - Note: Do not correct the guess. Any guess with a reason is good. Most children say the same or longer.
 - **s2 (8 min)**  
@@ -397,9 +397,9 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Note: Round 3 has 64 pieces of 1 centimetre, so 64 centimetres. Round 4 has 256 pieces of one third of a centimetre, so about 85 centimetres. To check the guess for round 3 without drawing 64 tiny pieces, draw round 3 on just one 3 centimetre piece: it becomes 4 pieces of 1 centimetre, so 4 centimetres, one third longer. Each round multiplies the length by 4 over 3, which is the same as adding one third.
   - Check: Each round of a Koch curve makes the line 4 over 3 times as long. The length is 48 centimetres after round 2. What is it after round 3? → **64 centimetres**
 - **s5 (4 min)**  
-  *Parent does:* Ask your child to imagine going on for ever. Show them that three Koch curves joined in a triangle make a snowflake. Ask the question below.  
-  *Parent says:* If we kept going for ever, how long would the line be? Could it ever fit on the page? Does it ever stop?  
-  *Child mode:* Keep going for ever. How long would the line be? Would it fit on the page?
+  *Parent does:* Ask your child to imagine repeating the rule for ever. Tell them that three Koch curves joined in a triangle make a snowflake. Ask the question below.  
+  *Parent says:* Imagine we kept going for ever and ever. Three of these curves joined in a triangle make a snowflake.  
+  *Child mode:* Imagine doing this for ever and ever.
   - Ask: If the rule were repeated for ever, would the line fit on the page, and how long would it be? (good: It would fit on the page but be endless in length.; It would never stop getting longer.; It would be longer than any number.)
   - Note: The curve never leaves the page, because the tents stay small. Yet the length grows by one third each round, without end. This is why the curve is a fractal.
 ### a2 · Equal Gaps or Growing Gaps? A rope coil against a shell (25 min)
@@ -407,8 +407,8 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - **record:** A table with the width of each turn for the coil and for the shell, and the ratio of each turn to the one before.
 - **s1 (4 min)**  
   *Parent does:* Show your child the coil and the shell. Ask them to guess whether the gaps will be equal or growing. Write the guess down.  
-  *Parent says:* Look at the coil and the shell. Are the turns the same distance apart all the way out, or do they get further apart? Why do you think so?  
-  *Child mode:* Look at the coil and the shell. Are the gaps equal, or do they grow?
+  *Parent says:* Look at the coil and the shell. Follow the turns with a finger, from the middle outwards.  
+  *Child mode:* Follow the turns with a finger, from the middle outwards. Look at the gaps between them.
   - Ask: Do you think the gaps in each will be equal or growing? Why? (good: The rope will be equal and the shell will grow.; Both will be equal.; Both will grow.)
   - Note: Do not correct the guess. Any guess with a reason is good.
 - **s2 (7 min)**  
@@ -419,52 +419,52 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Check: A coil has gaps of 12, 12 and 11 millimetres. Which kind of spiral grows by adding the same amount each turn? → **An Archimedean spiral, like this coil**
 - **s3 (7 min)**  
   *Parent does:* Measure the width of each whorl of the shell, from the biggest to the smallest. Hold the ruler across the shell at the same place each time. Write the widths in a list. If you have no shell, measure a picture of one.  
-  *Parent says:* Hold the shell with the tip up. Measure the width of each whorl. Start with the biggest. Write them down.  
+  *Parent says:* Hold the shell with the tip up. A whorl is one full turn of the shell. Measure the width of each whorl. Start with the biggest. Write them down.  
   *Child mode:* Measure the width of each whorl, from the biggest to the smallest.
   - Note: A pointed shell may have five or six whorls. Measure at the widest part of each. Hold the ruler at the same angle each time. The small whorls near the tip are hard to measure, so stop when the whorls are too small. If you have no shell, search for a photo of a pointed shell, hold the ruler to the screen and use the pictured widths.
 - **s4 (5 min)**  
   *Parent does:* Subtract each width from the next bigger one. Then divide each width by the next smaller one. Write both answers. Ask which of the two is nearly the same each time.  
   *Parent says:* Take away each width from the next bigger one. Do the answers match? Now divide each width by the next smaller one. Which gives nearly the same answer each time?  
-  *Child mode:* Take away. Then divide. Which gives the same answer each time?
+  *Child mode:* Work out the take-aways. Then work out the divisions.
   - Ask: Did taking away or dividing give nearly the same answer each time? (good: Dividing.; The take-aways kept getting bigger but the divisions stayed near the same.; Dividing gave about 1.5 each time.)
   - Note: For a shell, the take-aways grow while the divisions stay near the same number, often between 1.2 and 2. That number is the fraction by which each whorl is wider than the last. Real shells are only roughly regular, especially if the shell is damaged or the growth was uneven. If the divisions are within about 0.2 of one another while the take-aways clearly grow, the shell is growing by a fraction. If nothing is steady, say so honestly: the shell may be damaged, or you may have measured at different places. With 2 to 4 children, each measures a different shell, and then they compare the ratios. Two shells of the same kind should give similar ratios, and different kinds can differ. One child alone measures two shells with a parent.
   - Check: A shell has whorl widths of 10, 15 and 22.5 millimetres. What do you get by dividing each width by the one before? → **About 1.5 each time, so the shell grows by a fraction**
 - **s5 (2 min)**  
   *Parent does:* Ask your child to explain the difference between the two spirals.  
-  *Parent says:* What is the difference between the way the rope coils and the way the shell coils? Which one keeps the same shape as it grows?  
-  *Child mode:* How is the shell different from the rope? Which keeps its shape?
+  *Parent says:* Look at your two lists of numbers. Which list adds the same amount each turn? Which one multiplies by the same number?  
+  *Child mode:* Tell your grown-up how the shell and the rope are different.
   - Ask: How does the shell grow differently from the rope coil? (good: The shell grows by multiplying, and the rope by adding.; The shell's gaps get bigger. The rope's stay the same.; The shell keeps the same shape as it gets bigger.)
 ### a3 · Fold a Dragon: a fractal from a paper strip (25 min)
 - **safety:** A grown-up helps younger children with the scissors when cutting the paper strips. Fold slowly: thin paper can give a paper cut.
-- **record:** Draw the shape you get after 1, 2, 3 and 4 folds. Write the number of creases for each.
+- **record:** Draw the shape you get after 1, 2, 3 and 4 folds, or take a photo of each. Write the number of creases for each.
 - **s1 (3 min)**  
   *Parent does:* Show the strip. Explain that you will fold it in half, then in half again, and then open it with every fold at a right angle. Ask your child to guess what shape will appear.  
-  *Parent says:* We will fold a strip in half, and in half again, always the same way. Then we will open it with every fold at a right angle. What shape do you think we will get? Why?  
-  *Child mode:* Fold the strip twice. Open the folds to right angles. What shape will you see?
+  *Parent says:* We will fold a strip in half, and in half again, always the same way. Then we will open it with every fold at a right angle.  
+  *Child mode:* Fold the strip in half, then in half again, the same way.
   - Ask: What shape do you think the folded strip will make? (good: A zig-zag.; A square.; A staircase.)
   - Note: Do not correct the guess. Any guess with a reason is good.
 - **s2 (6 min)**  
-  *Parent does:* Take one strip. Fold the right end to the left end, to make a half-length strip. Open it and look at the one crease. Then fold in half again the same way and open it. There are now three creases. Open each crease to a right angle. Lay the strip on paper and trace it.  
+  *Parent does:* Take one strip. Fold the right end to the left end, to make a half-length strip. Open it and look at the one crease. Then fold in half again the same way and open it. There are now three creases. Open each crease to a right angle. Lay the strip on paper and trace it, or just look at it and tell your grown-up what shape it makes.  
   *Parent says:* Fold the right end to the left end. Always the same direction. Fold again. Open it out. Each crease becomes a right angle. Trace the shape.  
   *Child mode:* Fold the strip in half twice, the same way. Open it. Make each fold a right angle.
   - Note: The folds must always go the same way: right end over to the left end. If you flip the strip over between folds, you will get a different shape. Open the creases so the strip makes right angles and stands flat on the page.
   - Check: A strip is folded in half twice and opened. How many creases does it have? → **3**
 - **s3 (8 min)**  
-  *Parent does:* Take a new strip and fold it in half three times in the same direction. Open it and set the creases to right angles. Trace the shape. Do the same with a fourth strip folded four times. Count the creases each time.  
+  *Parent does:* Take a new strip and fold it in half three times in the same direction. Open it and set the creases to right angles. Trace the shape, or take a photo. Do the same with a fourth strip folded four times. Count the creases each time.  
   *Parent says:* Now fold a new strip three times, and another strip four times. Always fold the same way. Open each one and trace it. Count the creases.  
-  *Child mode:* Fold three times. Open. Trace. Then fold four times. Open. Trace.
+  *Child mode:* Fold three times, open it and look. Then fold four times, open it and look.
   - Note: After three folds there are 7 creases, and after four there are 15. After four folds, the shape starts to look like a curly dragon. After five folds the paper is thick and hard to fold, so stop at four. If the creases will not hold, press each one flat with a ruler edge. With 2 to 4 children, each folds and traces their own strip, and then they lay the shapes side by side to compare. One child with a parent can fold one strip each and compare.
 - **s4 (5 min)**  
   *Parent does:* Fill in the number of creases for 1, 2, 3 and 4 folds. Ask your child to find the pattern and to guess the creases after 5 folds.  
-  *Parent says:* The creases are 1, 3, 7 and 15. What do you notice? How many creases after five folds?  
-  *Child mode:* The creases are 1, 3, 7 and 15. What is the pattern?
+  *Parent says:* The creases are 1, 3, 7 and 15. What do you notice?  
+  *Child mode:* Count the creases on each of your strips.
   - Ask: What is the pattern in the number of creases, and what is next? (good: Double and add 1. After 15 comes 31.; Each is one less than 2, 4, 8 or 16.; It goes 1, 3, 7, 15, 31.)
   - Note: Each fold doubles the creases and adds one more. So 1 becomes 3, 3 becomes 7, 7 becomes 15 and 15 becomes 31. Each of these numbers is one less than 2, 4, 8, 16 or 32.
   - Check: A strip folded 4 times has 15 creases. How many creases would it have after 5 folds? → **31**
 - **s5 (3 min)**  
   *Parent does:* Compare the shapes after 3 and 4 folds. Ask your child how the bigger shape contains the smaller shape.  
-  *Parent says:* Look at the shape after four folds. Can you see the shape from three folds inside it? What does that remind you of?  
-  *Child mode:* Look at the four-fold shape. Can you see the three-fold shape inside?
+  *Parent says:* Put your three-fold shape on top of your four-fold shape. Look for the small one inside the big one.  
+  *Child mode:* Put the three-fold shape on top of the four-fold shape.
   - Ask: Can you find a smaller dragon inside the bigger one? (good: Yes, the first half is the same shape as the three-fold dragon.; Each part looks like a smaller dragon.; It looks like the Koch curve, with a shape made of smaller copies.)
   - Note: The curve after many folds is called the dragon curve. It was first worked out by three physicists, John Heighway, Bruce Banks and William Harter, in 1966, and it was made famous by the writer Martin Gardner in 1967. Each part looks like a smaller dragon, so it is a fractal. If you folded for ever, the dragon curve would cover a patch of the page without crossing itself.
 ### a4 · The Chaos Game: a pattern from dots chosen by a die (26 min)
@@ -472,8 +472,8 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - **record:** Stick your page in your notebook. Write how many dots you made, and what shape they made.
 - **s1 (4 min)**  
   *Parent does:* On the page, mark corner A at the bottom left and corner B at the bottom right. Mark corner C at the top middle. Each corner is about 18 centimetres from the others. Write the letters. Ask your child to guess what the dots will look like after 50 rolls.  
-  *Parent says:* There are three corners, and a die chooses one each time. The rule is to move halfway to the corner the die picks, and put a dot. What will the dots look like after fifty rolls? Why do you think so?  
-  *Child mode:* Mark three corners. Guess what the dots will look like after 50 rolls.
+  *Parent says:* There are three corners, and a die chooses one each time. The rule is to move halfway to the corner the die picks, and put a dot.  
+  *Child mode:* Mark three corners. Write the letters A, B and C beside them.
   - Ask: What shape do you think the dots will make? (good: A triangle full of dots.; A mess.; A pattern with holes.)
   - Note: Do not correct the guess. Many children expect a filled triangle or a mess.
 - **s2 (2 min)**  
@@ -487,8 +487,8 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Note: Measuring in millimetres helps. A ruler placed from the dot to the corner gives the distance, and half of it is the new place. Ignore the first three or four dots, because they may fall outside the pattern. Fifty dots take about 12 to 15 minutes alone. If it is slow, stop at 40 dots, or share the work: one person rolls and calls the corner, one measures, and one marks the dot. Swap jobs every 10 dots. Do not worry about small errors, because each halving shrinks an earlier mistake. If you have no die, mark six paper chits A, A, B, B, C and C, pick one from a bowl each time, and put it back. Two to four children can each make their own page and then compare where the holes fall. This shows that chance changes the dots but not the pattern.
 - **s4 (4 min)**  
   *Parent does:* Look at the dots together. Ask where there are gaps, and what shape the gaps make.  
-  *Parent says:* Look at the page. Are there places with no dots? What shape are they? What do you see inside the gaps?  
-  *Child mode:* Look at the dots. Where are there gaps? What shape are the gaps?
+  *Parent says:* Look at the page. Are there places with no dots? What shape are they?  
+  *Child mode:* Point to the empty places between the dots.
   - Ask: What do you notice about the gaps in the dots? (good: There is a hole in the middle, shaped like a triangle.; There are smaller holes round the edges too.; The dots make triangles with triangles inside.)
   - Note: After 50 dots, the middle of the triangle usually has a clear hole, and smaller holes appear nearer the corners. With only 50 dots the holes are faint and your page may look a little different, so say what you really see. With 200 or more dots, the pattern becomes the Sierpinski triangle, a triangle made of three smaller triangles, each made of three smaller ones, and so on. It is a triangle with triangles inside triangles.
   - Check: In the Chaos Game, the dots go wherever the die says. Why does the same pattern still appear each time? → **The rule of moving halfway to a corner never lands a dot in the middle holes, however the die falls**
@@ -506,7 +506,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - **s1 (20 min)**  
   *Parent does:* On day 1, draw a triangle with three sides of 4 centimetres on card and cut it out as a template. Trace it on the coloured paper 27 times. A grown-up cuts them out. Count the pieces.  
   *Parent says:* Make a template triangle with every side 4 centimetres. Trace it on the coloured paper. We need 27 of them. Count as you go.  
-  *Child mode:* Make a template. Trace 27 triangles. Cut them out.
+  *Child mode:* Make a template. Trace 27 triangles. A grown-up cuts them out.
   - Note: To draw a triangle with three equal sides, use a set square or a protractor, or measure a 4 centimetre line and use a thread of 4 centimetres to find the third point. Alternate two colours if you like. Stack several sheets so one cut makes several triangles.
 - **s2 (20 min)**  
   *Parent does:* On day 2, glue the triangles in groups of 3. Put two triangles side by side with the corners touching, then the third on top, touching both. Make 9 groups. Count the holes. Triangles that touch only at corners hold badly. Overlap each corner by 5 millimetres and glue the overlap.  
@@ -516,7 +516,7 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
   - Wait: Next day
 - **s3 (20 min)**  
   *Parent does:* On day 3, lightly draw a guide triangle with 32 centimetre sides on the backing card. Lay 3 of the groups corner to corner to make a bigger group. Make 3 of these. Lay the 3 big groups corner to corner inside the guide. Check the holes, then glue every group down onto the card, in its place. Count the holes of different sizes.  
-  *Parent says:* Now we put 3 groups together, then 3 of those, on the card. The same rule, bigger each time. How many sizes of hole can you see?  
+  *Parent says:* Now we put 3 groups together, then 3 of those, on the card. The same rule, bigger each time.  
   *Child mode:* Lay 3 groups together. Make 3 bigger groups. Place them in one big triangle, then glue them down on the card.
   - Ask: How many different sizes of triangular hole do you see? (good: Three sizes: small, medium and big.; A big one in the middle and smaller ones in the groups.)
   - Note: The finished triangle has 27 paper triangles and holes of three sizes. The paper covers 27 out of 64 of the area of a full triangle of the same side, which is a little less than half. If you carried on for ever, the paper would cover less and less, and in the end almost nothing. One child with a parent spreads the work over three days. Three children can finish in one sitting: each cuts 9 triangles, makes 3 groups and builds one big group of 9, then the three big groups go on the card together. Four children: the fourth draws the guide triangle and checks the holes. Scissors and glue are the only things to watch; a glue stick is safe for children.
@@ -531,8 +531,8 @@ Dr. Fathima bought the broken shell, and she asked if she could keep Revathi's d
 - **creative:** An H-tree: split the pipe into two, then each into two, again and again, so every pot is reached after the same number of splits. This is a fractal.; Try the same idea with 64 pots in an 8 by 8 square. How much more pipe do you need?; Try a tree that splits into three at each step. Does it still deliver water to every pot equally?
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Mark the 16 pots and the tap on squared paper. Ask your child to sketch a first idea.  
-  *Parent says:* There are sixteen pots, and one tap in the middle. The water should reach every pot after the same distance. How could the pipes go? Draw a first idea.  
-  *Child mode:* Mark the 16 pots and the tap. Draw a first idea for the pipes.
+  *Parent says:* There are sixteen pots, and one tap in the middle. The water should reach every pot after the same distance.  
+  *Child mode:* Mark the 16 pots and the tap. Try a first idea for the pipes: draw it, or lay string on the paper.
   - Ask: How could the pipes go so that every pot is the same distance from the tap? (good: Split the pipe into two again and again.; A pipe straight to each pot.; The same number of bends to every pot.)
 - **s2 (8 min)**  
   *Parent does:* Draw a separate pipe from the tap to each pot, along the grid lines. Count the squares from the tap to the nearest pot and to the furthest pot. Add up the pipe.  

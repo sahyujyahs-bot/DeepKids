@@ -642,8 +642,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask your child what all four roads had in common. Look for a step where someone doubted and a step where others checked.",
-     "say": "What step is on every road? Look for a step where someone doubted, and a step where others checked.",
-     "kid": "Which step is on all four roads? Look for a step where someone doubted, and a step where others checked.",
+     "say": "What step is on every road?",
+     "kid": "Look for a step where someone doubted, and a step where others checked.",
      "ask": [
       {
        "q": "What did all four roads have in common?",
@@ -787,7 +787,7 @@
      "mins": 5,
      "do": "Play a practice round with the ants card. The Discoverer reads it and gives the steps. The Doubter asks one question. Do the check if you can.",
      "say": "Ants follow a smell trail. If you wipe the trail, the line breaks. Doubter, what is your question? Discoverer, how would we check it?",
-     "kid": "Ants follow a smell trail. How would you check it?",
+     "kid": "Discoverer: say how to check it. Doubter: ask one question.",
      "check": {
       "t": "mcq",
       "q": "A Discoverer says that ants follow a smell trail. Which is the best question for a Doubter to ask?",
@@ -906,7 +906,7 @@
      "mins": 5,
      "do": "Tell the story of Leeuwenhoek and his lens in a few words. Ask your child to guess which hole will make the dots look biggest, and to give a reason. Write both at the top of the page.",
      "say": "A cloth seller in the 1670s looked at water through a tiny lens and saw living beings. Nobody else could check. We will make our own lens and count dots in a newspaper picture. Which hole will make the dots look biggest? Why?",
-     "kid": "You will make three water lenses. Which hole makes the dots look biggest? Why?",
+     "kid": "You will make three tiny water lenses and look at dots through each one.",
      "ask": [
       {
        "q": "Which hole do you think will make the dots look bigger, the smaller one or the bigger one? Why?",
@@ -982,7 +982,7 @@
      "mins": 5,
      "do": "Compare your counts with the second person's. Did the holes come in the same order? Fix the least clear step and write the new version.",
      "say": "Do the two sets of counts agree about which hole is strongest? Where were the numbers different? Which of your steps needs fixing?",
-     "kid": "Compare your counts. Did the holes come in the same order? Fix one step.",
+     "kid": "Compare your counts with the second person's. Then fix the step that was least clear.",
      "ask": [
       {
        "q": "Did the second person get the same order? What does that tell you about your steps?",
@@ -1136,7 +1136,7 @@
      "what": "Look for the last time, compare the jars, and decide what the test shows."
     }
    ],
-   "record": "Fill in the table. For each jar and each day, write how many flies you see on or near the jar, any tiny white wriggling things inside, and any mould. Draw the three jars on day 7.",
+   "record": "Fill in the table. For each jar and each day, write how many flies you see on or near the jar, any tiny white wriggling things inside, and any mould. On day 7, take a photo of the three jars, or draw them.",
    "flow": [
     {
      "id": "s1",
@@ -1172,7 +1172,7 @@
      "mins": 20,
      "do": "On day 7, look one last time. Compare the three jars. Ask your child what the jars show. A grown-up seals the jars in a bag and throws them away.",
      "say": "Which jars had flies near them? Which had maggots inside? What does this say about where the flies come from?",
-     "kid": "Compare the three jars. Where did the maggots appear? What does that show?",
+     "kid": "Compare the three jars. Find where the maggots appeared.",
      "check": {
       "t": "mcq",
       "q": "Maggots appeared in the open jar of banana but not in the jar with the lid. What does this show?",
@@ -1270,7 +1270,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Say in a very sure voice: you cannot fold a sheet of paper in half more than seven times. Ask your child to doubt this kindly. Offer three starter questions on a card.",
-     "say": "You cannot fold a sheet of paper in half more than seven times. Everyone knows it. Now doubt it kindly. You may ask: can I try it? What would show that you are wrong? Did you do it yourself?",
+     "say": "You cannot fold a sheet of paper in half more than seven times. Everyone knows it. Now doubt it kindly. You may ask: can I try it? What would show that you are wrong? How do you know?",
      "kid": "Doubt the claim kindly. Ask: Can I try it? What would show that you are wrong?",
      "ask": [
       {
@@ -1299,7 +1299,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Ask your child what the test showed about the claim. Then tell the story of Britney Gallivan from the parent note. Ask whether the claim was right, wrong or half right.",
-     "say": "What did your folds show? Was the claim right, wrong or half right? What did the claim leave out?",
+     "say": "What did your folds show? What did the claim leave out?",
      "kid": "What did your folds show? Was the claim right, wrong, or half right?",
      "check": {
       "t": "mcq",
@@ -1363,7 +1363,7 @@
      "what": "Trace the coasts, fit them, sort the evidence slips, and decide how strong the case is."
     }
    ],
-   "record": "Draw your fitted coasts. Under the drawing, write the five evidence slips in two lists: for the idea, and against it. Write one sentence on what you would need to be sure.",
+   "record": "Stick your two fitted shapes on the page. Under them, write the five evidence slips in two lists: for the idea, and against it. Write one sentence on what you would need to be sure.",
    "flow": [
     {
      "id": "s1",
@@ -1409,7 +1409,7 @@
      "mins": 7,
      "do": "Ask your child which slip made people doubt Wegener, and what had to happen for them to change their minds. Write one sentence on what you would need to be sure.",
      "say": "Which slip made people doubt Wegener? What new evidence would you need to be sure? Is the fit of your two paper shapes a proof, or only a clue?",
-     "kid": "Which slip made people doubt Wegener? What new evidence would help?",
+     "kid": "Pick the slip that made people doubt Wegener.",
      "ask": [
       {
        "q": "What evidence did people need, in the end, to change their minds?",
@@ -1465,14 +1465,14 @@
      "what": "Cut three strings to the right lengths, label them, and compare."
     }
    ],
-   "record": "Draw the three strings side by side, with a label on each saying who it is for and how many years it waited.",
+   "record": "Lay the three strings side by side and take a photo. Put a label on each saying who it is for and how many years it waited.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Tell the first story. Leeuwenhoek told London about his tiny creatures around 1674. Hooke and others looked for themselves and saw the same creatures in 1677. That is about 3 years. Cut a 3 centimetre piece of string and label it.",
      "say": "Leeuwenhoek told London about his tiny creatures around 1674. Others looked for themselves and saw the same creatures in 1677. How many years is that? Cut a piece of string, one centimetre for each year.",
-     "kid": "Leeuwenhoek told London in 1674. Others saw the creatures in 1677. How many years is that? Cut that many centimetres of string.",
+     "kid": "Count the years from 1674 to 1677. Cut that many centimetres of string.",
      "context": "This is the first step of A String of Years. You cut a string for Leeuwenhoek's wait."
     },
     {
@@ -1480,7 +1480,7 @@
      "mins": 6,
      "do": "Tell the second story. Wegener put forward his idea in 1912, and it was accepted in the 1960s. That is about 50 years. Cut a 50 centimetre piece and label it. Hold it next to the first.",
      "say": "Wegener put forward his idea in 1912. It was accepted in the 1960s. About how many years is that? Cut the string and compare.",
-     "kid": "Wegener spoke up in 1912. People accepted his idea in the 1960s. That is about 50 years. Cut 50 centimetres of string.",
+     "kid": "Wegener spoke up in 1912 and was believed in the 1960s. Cut 50 centimetres of string.",
      "parent": "The exact date is a matter of opinion, because acceptance came step by step through the 1960s. About 50 years is a fair round figure, so cut 50 centimetres.",
      "context": "In this step, you cut a string for Wegener's wait and compare it with the first."
     },
@@ -1557,7 +1557,7 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "Your child draws a simple picture. It has a house with a door and a window. It has a tree next to the house, and a sun above. Do not let the other person see it. Sit back to back.",
+     "do": "Your child draws a simple picture. If they would rather not draw, use a square, a circle and a triangle. It has a house with a door and a window. It has a tree next to the house, and a sun above. Do not let the other person see it. Sit back to back.",
      "say": "Draw a house with a door, a window, a tree and a sun. Keep it hidden. In a moment, you will describe it in words, and I will draw it.",
      "kid": "Draw a house, a tree and a sun. Keep it hidden.",
      "context": "This is the first step of Describe It, Then Draw It. You draw a picture and keep it hidden."
@@ -1680,14 +1680,14 @@
      "what": "Write a letter that tells a stranger how to repeat your test, and ask a friend to say which step is unclear."
     }
    ],
-   "record": "A notebook with one dated page for each day. On each page: the date, a drawing, the length of the three longest sprouts in each bowl, and one sentence on what changed. On the last page, a letter to a stranger.",
+   "record": "A notebook with one dated page for each day. On each page: the date, a drawing or photo, the length of the three longest sprouts in each bowl, and one sentence on what changed. On the last page, a letter to a stranger.",
    "flow": [
     {
      "id": "s1",
      "mins": 20,
-     "do": "Soak 2 tablespoons of moong in water for 6 to 8 hours. Drain them. Split them between two cloths. Put one in a bowl on a window sill and one in a bowl in a dark cupboard. Wet both cloths lightly. Write the date in the notebook and draw the seeds.",
+     "do": "Soak 2 tablespoons of moong in water for 6 to 8 hours. Drain them. Split them between two cloths. Put one in a bowl on a window sill and one in a bowl in a dark cupboard. Wet both cloths lightly. Write the date in the notebook and take a photo of the seeds.",
      "say": "Maria Sibylla Merian watched caterpillars change for years and drew every stage. We will watch moong seeds. Will the seeds in the dark sprout? Will they look different from the ones in the light? Why do you think so?",
-     "kid": "Soak moong seeds. Put half in the light and half in the dark. Draw them.",
+     "kid": "Soak moong seeds. Put half in the light and half in the dark. Take a photo.",
      "ask": [
       {
        "q": "Why do you think the seeds in the dark will, or will not, sprout?",
@@ -1704,9 +1704,9 @@
     {
      "id": "s2",
      "mins": 35,
-     "do": "Each day at about the same time, rinse each cloth gently with a little water. Measure the three longest sprouts in each bowl. Draw what you see. Write the date and one sentence on what changed.",
+     "do": "Each day at about the same time, rinse each cloth gently with a little water. Measure the three longest sprouts in each bowl. Draw what you see, or take a photo. Write the date and one sentence on what changed.",
      "say": "Rinse gently. Look closely at each bowl. Measure the three longest sprouts. Draw what you see. Write one sentence about what changed.",
-     "kid": "Rinse the seeds. Measure three sprouts in each bowl. Draw. Write the date.",
+     "kid": "Rinse the seeds. Measure three sprouts in each bowl. Draw or take a photo. Write the date.",
      "wait": "Do this on days 2 to 6, about seven minutes each day.",
      "parent": "Measure in millimetres, from the seed to the tip of the sprout. Measure the same three sprouts each day if you can tell them apart. Draw what you see, even on days when little changes. Dated pages are what make a notebook useful to a stranger.",
      "context": "In this step, you look, measure and draw once a day."
@@ -1782,7 +1782,7 @@
      "mins": 6,
      "do": "Tell your child that Leeuwenhoek had no ruler fine enough to measure tiny creatures. So he compared their sizes with a grain of sand and the width of a hair. Ask why he did not just give numbers.",
      "say": "Leeuwenhoek compared the tiny creatures to a grain of sand and the width of a hair. Why do you think he used things like that, instead of a number?",
-     "kid": "Leeuwenhoek compared sizes to a grain of sand. Why not use a number?",
+     "kid": "Think about what Leeuwenhoek could hold in his hand.",
      "ask": [
       {
        "q": "Why would a comparison work better than a number for a tiny thing?",
@@ -1799,16 +1799,16 @@
     {
      "id": "s2",
      "mins": 18,
-     "do": "Look at each of the three things through your lens. For each one, draw the circle with the thing in it. Say how much of the circle the thing fills. Write a comparison. Put all three on one card.",
-     "say": "Look at the grain of salt through the lens. How much of the circle does it fill? Draw it. Write a comparison with something your reader knows.",
-     "kid": "Look at three tiny things. Draw each in a circle. Write a comparison.",
+     "do": "Look at each of the four things through your lens. Say how much of the circle each one fills. Write a comparison for each. Draw the circle for at least one. Put all four on one card.",
+     "say": "Look at the grain of salt through the lens. How much of the circle does it fill? Write a comparison with something your reader knows.",
+     "kid": "Look at four tiny things. Say how much of the circle each fills. Write a comparison.",
      "parent": "Use the same lens, the same distance and the same coins every time. Keep a note of the hole size you used so a reader can repeat it.",
      "context": "In this step, you look at the three things and make your card."
     },
     {
      "id": "s3",
      "mins": 11,
-     "do": "Give the card to a second person who has not seen the things. They draw each thing from the card alone. Compare their drawings with the real things through the lens.",
+     "do": "Give the card to a second person who has not seen the things. They draw each thing from the card alone, or tell you how big it is. Compare their drawings with the real things through the lens.",
      "say": "Please draw each thing from this card. Do not look at the real thing. Then we will compare.",
      "kid": "A stranger draws from your card. Compare it with the real thing.",
      "check": {

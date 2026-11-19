@@ -263,7 +263,7 @@ Karthik laughed. This time Meera did too.
   - Note: If a card causes an argument, test it in water and oil if you have the thing at home. Arguments are good here. Soap and hand sanitiser are the hardest.
 - **s4 (4 min)**  
   *Parent does:* Play the last eight cards. Add up the points on the score sheet.  
-  *Parent says:* These are the last eight cards. Which mat have we used the least? Why do you think so?  
+  *Parent says:* These are the last eight cards. Same as before: put the card on a mat, say why, then check.  
   *Child mode:* Play the last eight cards. Count your points.
   - Note: Count the cards on each mat. BOTH usually has the fewest. That is because very few things dissolve well in both water and oil. Soap and hand sanitiser are the special ones.
 - **s5 (2 min)**  
@@ -279,13 +279,13 @@ Karthik laughed. This time Meera did too.
 - **predict:** Before you start, guess. Which liquid will take the yellow of turmeric? The red of chilli? The food colour? Why do you think so?
 - **fair test:** Each jar gets the same amount of liquid and the same amount of colour. Every jar is stirred for the same time, and looked at after the same wait. Only the liquid changes between each pair of jars, so any difference comes from water and oil.
 - **safety:** Chilli powder burns the eyes and mouth, so do not touch your face and wash your hands afterwards. Do not taste anything. A grown-up makes the warm water, and it must be only bath-warm, never hot. Turmeric stains clothes and plastic, so wear old clothes and use glass or steel cups you do not mind staining.
-- **record:** Fill in the table, a row for each colour. Draw the six jars at the end with their colours. Then write what you think, what you saw, and why.
+- **record:** Fill in the table, a row for each colour. Take a photo of the six jars at the end, or draw them. Then write what you think, what you saw, and why.
 - **results table:** Colour | In water: what you see | In oil: what you see | Which liquid took more colour?
 - **s1 (5 min)**  
   *Parent does:* Show your child the powders, the water and the oil. Ask for a guess and a reason for each colour. Write the guesses.  
   *Parent says:* Here are three colours and two liquids. Where will each colour go, into the water or into the oil? Why do you think so?  
-  *Child mode:* There are three colours and two liquids. Where will each colour go? Why do you think so?
-  - Ask: Why do you think turmeric will go into the oil? (good: Turmeric stains my plate and water does not wash it.; Oil is yellow like turmeric.; Cooks put turmeric in hot oil.)
+  *Child mode:* Make a guess for each colour: water or oil?
+  - Ask: Where do you think the turmeric will go, and why? (good: Turmeric stains my plate and water does not wash it.; Oil is yellow like turmeric.; Cooks put turmeric in hot oil.)
   - Note: Do not correct the guess. Most children guess that all three go into water, because water is the liquid they know best. Any guess with a reason is a good start. Write the guesses at the top of the table.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* 1. Label six jars with a letter and a colour: a water jar and an oil jar for each colour. 2. Pour 3 tablespoons of water into each water jar. 3. Pour 3 tablespoons of oil into each oil jar. 4. Add the same colour to one water jar and one oil jar. Use a quarter of a teaspoon of powder, or 2 drops of food colour.  
@@ -320,7 +320,7 @@ Karthik laughed. This time Meera did too.
 - **predict:** Before you start, guess. Which balloon will grow bigger, the one on the cold soda or the one on the warm soda? Why do you think so?
 - **fair test:** Use two bottles of the same drink, the same size, opened the same way. Use two balloons of the same kind, stretched the same way, and swirl each bottle the same number of times. Only the warmth of the soda changes, so any difference comes from warmth.
 - **safety:** A grown-up opens the bottles, slowly, over the sink, because a warm soda can spray. Never shake a bottle before opening it, and keep faces away from the neck. The warm water must be only bath-warm, never hot. A child under six should not blow up balloons by mouth. Throw away the pieces of a burst balloon, because a small child can choke on them. Wear old clothes, as foam may spill.
-- **record:** Fill in the table. Draw the two bottles with their balloons. Then write what you think, what you saw, and why.
+- **record:** Fill in the table. Take a photo of the two bottles with their balloons, or draw them. Then write what you think, what you saw, and why.
 - **results table:** Bottle | Cold or warm | Distance around the balloon (cm) | What the drink looks like at the end
 - **s1 (5 min)**  
   *Parent does:* Show your child the two bottles. Ask for a guess and a reason. Write the guess.  
@@ -341,7 +341,7 @@ Karthik laughed. This time Meera did too.
   - Note: Hold the balloon on the neck with your hand, as the gas pushes it. Open the warm bottle very slowly, as it may foam. Pour out the same amount from each bottle first, so foam does not rush into the balloon. If foam does get in, the balloon still shows the difference. Stand both bottles back in their bowls and leave them for five minutes. If the balloon comes off, put it back quickly, and tie a rubber band round the neck if it keeps slipping. With 2 to 4 children, one holds each balloon, one swirls, one times and one measures. One child alone can do both bottles with a parent. If you have a third bottle left at room temperature, add it as a middle case.
 - **s4 (5 min)**  
   *Parent does:* 1. Wrap the string around the widest part of each balloon. 2. Hold the string flat along the ruler. 3. Write each length in the table. 4. Look at the drink in each bottle.  
-  *Parent says:* Wrap the string around the middle of the balloon. Mark where it meets. Lay it along the ruler. Which balloon is bigger? What does the drink in each bottle look like now?  
+  *Parent says:* Wrap the string around the middle of the balloon. Pinch where it meets. Lay it along the ruler. Which balloon is bigger? What does the drink in each bottle look like now?  
   *Child mode:* Wrap the string round each balloon. Measure it on the ruler. Write the numbers.
   - Note: Expect the warm bottle's balloon to be clearly bigger, and the drink inside to look flatter. The cold bottle's balloon is smaller, and the drink still has bubbles. Your numbers will be different from the example, and a balloon can be small or large depending on how stretchy it is, so compare the two balloons only with each other. If the two balloons are the same size, swirl the warm bottle ten more times and measure again. If both are tiny, the soda was flat before you began, so try a fresh bottle.
 - **s5 (4 min)**  
@@ -355,7 +355,7 @@ Karthik laughed. This time Meera did too.
 - **predict:** Before you start, guess. Will the milk freeze in the bag with plain ice? In the bag with ice and salt? Why do you think so?
 - **fair test:** Both bags get the same amount of milk, the same amount of ice, and the same shaking for the same time. Only the salt changes, so any difference comes from salt.
 - **safety:** Salted ice gets far below zero and can hurt bare skin, so hold the bags in a tea towel or with gloves, and not for long. Do not let salt water into your eyes or mouth. Rinse the small bag under the tap before opening it. Do not do this test with a child who is allergic to milk, and do not eat the milk if the bag leaked.
-- **record:** Fill in the table. Draw what the milk looks like in each bag. Then write what you think, what you saw, and why.
+- **record:** Fill in the table. Tell your grown-up what the milk looks like in each bag, or draw it. Then write what you think, what you saw, and why.
 - **results table:** Bag | Ice only, or ice with salt | The milk after ten minutes | The outside of the big bag
 - **s1 (5 min)**  
   *Parent does:* Show your child the milk, the ice and the salt. Ask for a guess and a reason. Write the guess.  
@@ -393,17 +393,17 @@ Karthik laughed. This time Meera did too.
 
 ## Activities
 ### a1 · Fizz Watch: where does the fizz come from? (15 min)
-- **record:** Draw the glass with the bubbles. Mark where the bubbles begin. Write one sentence saying where you think the gas was before you opened the bottle.
+- **record:** Draw the glass with the bubbles and mark where they begin, or point and tell your grown-up. Write one sentence saying where you think the gas was before you opened the bottle.
 - **s1 (4 min)**  
   *Parent does:* 1. Pour the cold soda slowly into one glass. 2. Look closely for the first minute. 3. Ask your child where the bubbles begin and where they go.  
-  *Parent says:* Pour it slowly and watch. Where do the bubbles begin? Where do they go? Before we opened the bottle, was there any gas in it? Why do you think so?  
-  *Child mode:* Pour the soda slowly. Watch the bubbles. Where do they start? Where do they go?
+  *Parent says:* Pour it slowly and watch. Where do the bubbles begin? Where do they go?  
+  *Child mode:* Pour the soda slowly and find the spot where the bubbles start.
   - Ask: Where do you think the gas was before the bottle was opened? (good: It was in the soda, but too small to see.; It was squeezed into the water.; It was in the air above the water.)
   - Note: Do not explain yet. Bubbles often begin at tiny scratches and specks on the glass, or on the side where you poured. Write what your child says.
 - **s2 (6 min)**  
   *Parent does:* 1. Drop six raisins into the glass. 2. Watch for five minutes. 3. Count how many times one chosen raisin reaches the top in the first two minutes. Write the number.  
-  *Parent says:* Watch the raisins. What do they do? Why do you think they move?  
-  *Child mode:* Drop in six raisins. Watch for five minutes. What do they do?
+  *Parent says:* Watch the raisins. What do they do? Why do you think they move? Pick one raisin and count how many times it reaches the top.  
+  *Child mode:* Drop in six raisins. Pick one and count how many times it reaches the top.
   - Note: The raisins sink at first. Bubbles collect on their wrinkled skins, and the raisins rise to the top. At the top the bubbles pop, and the raisins sink again. They keep dancing, a few trips a minute at first, then slower as the soda goes flat. If nothing happens, use a fresh, very fizzy soda that was cold and unopened, as flat soda will not work; thin-skinned dry raisins work best.
 - **s3 (5 min)**  
   *Parent does:* 1. Pour a second glass of the same soda. 2. Stir one glass hard for thirty seconds with the spoon. 3. Leave the other still. 4. Count the bubble streams rising in each glass for ten seconds, and compare.  
@@ -438,14 +438,14 @@ Karthik laughed. This time Meera did too.
 - **s5 (4 min)**  
   *Parent does:* Teach the three words: solution, suspension and colloid. Ask your child to sort the glasses into the three kinds using the look, torch and wait tests.  
   *Parent says:* A solution is clear and never settles. A suspension is cloudy and settles. A colloid is cloudy and never settles, and a torch shows the beam. Which glass is which?  
-  *Child mode:* Sort the glasses. Clear and never settles: solution. Cloudy and settles: suspension. Cloudy and never settles: colloid.
-  - Check: A glass is cloudy, a torch beam shows inside it, and nothing settles after an hour. What kind of mixture is it? → **A colloid**
+  *Child mode:* Sort the four glasses into solution, suspension and colloid.
+  - Check: A glass is cloudy, a torch beam shows inside it, and nothing settles after twenty minutes. What kind of mixture is it? → **A colloid**
 ### a3 · Thread on Ice: can salt make ice grab a thread? (12 min)
-- **record:** Draw the glass, the ice cube and the thread. Write how long you waited and what happened when you lifted the thread.
+- **record:** Write how long you waited and what happened when you lifted the thread. Draw the glass, the ice cube and the thread, or take a photo.
 - **s1 (3 min)**  
   *Parent does:* 1. Put two ice cubes in a glass of cold water so they float. 2. Lay a thread across the top of each cube. 3. Ask your child whether the thread will lift the ice when you pull it.  
   *Parent says:* If you pull this thread up, will the ice come with it? Now, what if we sprinkle salt on it first? Why do you think so?  
-  *Child mode:* Lay the thread on the ice. Will it lift the ice? What if we add salt?
+  *Child mode:* Lay a thread across each ice cube. Will the ice lift? Guess.
   - Note: Do not say what will happen. Most children think the thread will not lift the ice. Try a gentle lift first to show that the thread slides off.
 - **s2 (6 min)**  
   *Parent does:* 1. Sprinkle a quarter teaspoon of salt along the thread on one cube only. Leave the other cube plain. 2. Count slowly to sixty, or watch the clock for one minute. 3. Lift each thread gently, straight up. Write how long you waited.  
@@ -455,14 +455,14 @@ Karthik laughed. This time Meera did too.
 - **s3 (3 min)**  
   *Parent does:* Ask your child to explain what they saw. Then give the explanation.  
   *Parent says:* What did the thread do this time? What do you think the salt did? Where did the cold come from?  
-  *Child mode:* What did the salt do? Why did the ice stick to the thread?
+  *Child mode:* Look at the ice and the thread. Tell your grown-up what you think the salt did.
   - Note: A strong answer goes like this. The salt dissolves in the thin film of water on the ice, and that makes a little ice melt. Melting takes heat, so the water around the thread becomes colder than zero degrees. That small amount of salty water gets mixed with the water from the melting ice, so the salt spreads thinner. The very cold ice nearby then freezes that water again. As it freezes, it traps the thread inside the ice.
   - Check: Why did the thread end up frozen into the ice cube? → **The salt made a little ice melt and the mixture colder, then the water froze again round the thread**
 ### a4 · Curd, Water or Nothing: what soothes a chilli? (30 min)
 - **safety:** Only a grown-up eats the chilli, and only a small piece. Do not touch the eyes after cutting or handling chilli. Wash hands afterwards. Do not do this with a grown-up who has stomach trouble, acidity or a milk allergy or lactose problem. Stop and drink milk if it is too hot.
 - **record:** Make a table with the rows: nothing, water, curd. Write the heat score from 0 to 5 at 30 seconds and at 60 seconds in each row. Circle the row where the score dropped the most.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* 1. Set out the chilli, water and curd. 2. Explain the 0 to 5 score: 0 is no heat and 5 is very hot. 3. Ask your child to guess what will soothe the chilli best and why. 4. Write NOTHING, WATER and CURD on three slips of paper. Fold the slips and draw them one by one to set the order.  
+  *Parent does:* 1. Set out the chilli, water and curd. 2. Explain the 0 to 5 score: 0 is no heat and 5 is very hot. 3. Ask your child to guess what will soothe the chilli best and why. 4. Write NOTHING, WATER and CURD on three slips of paper. Fold the slips and pick them one by one to set the order.  
   *Parent says:* A grown-up will eat a small piece of chilli. Then we try water and curd, one at a time. Which do you think will soothe it better? Why do you think so?  
   *Child mode:* A grown-up eats a little chilli. Which soothes it better, water or curd? Why?
   - Ask: Why do you think that one will work better? (good: Water washes things away.; Curd is cool and thick.; Milk has fat in it.)
@@ -479,7 +479,7 @@ Karthik laughed. This time Meera did too.
   - Note: Waiting until the burn is gone before each new piece matters, or you cannot tell the remedies apart. Expect curd to help more than water, and expect the burn to fade slowly when the grown-up does nothing. One tasting by one person is only a hint, not proof, and the effect can be modest. That is a fine result. Say so, and try it with another adult if you can.
   - Check: Why does the test include a piece of chilli where the grown-up does nothing? → **To see how much the burn fades by itself**
 ### a5 · TDS Detective: how much is dissolved in your water? (20 min)
-- **record:** Write the five readings in a table. Draw a bar for each water and mark which has the most dissolved.
+- **record:** Write the five readings in a table. Draw a bar for each water, or line up spoons or coins as bars, and mark which has the most dissolved.
 - **s1 (5 min)**  
   *Parent does:* 1. Explain that TDS means total dissolved solids, shown as milligrams of dissolved things in each litre. 2. Ask your child to guess which glass will read highest and which lowest. 3. Write the guesses.  
   *Parent says:* TDS means the dissolved solids in the water. Which glass do you think reads highest? Which lowest? Why do you think so?  
@@ -494,7 +494,7 @@ Karthik laughed. This time Meera did too.
 - **s3 (5 min)**  
   *Parent does:* Ask your child to compare the readings. Ask why the sugar water and the salt water gave such different readings.  
   *Parent says:* Look at the numbers. Which glass is highest? Which is lowest? Sugar and salt both dissolved. Why did they read so differently?  
-  *Child mode:* Compare the numbers. Why did sugar read so low and salt so high?
+  *Child mode:* Put the glasses in a line from the lowest number to the highest.
   - Check: Sugar dissolved fully in the water, yet the TDS meter barely changed. What is the best explanation? → **The meter measures charged particles, and sugar does not make any**
 
 ## Projects
@@ -505,13 +505,13 @@ Karthik laughed. This time Meera did too.
 - **s1 (5 min)**  
   *Parent does:* Show your child the four materials and the white cloth. Ask which dye they think will stay in the cloth best and which will wash out first.  
   *Parent says:* We will make four dyes. Then we will wash the cloth. Which dye do you think will stay the longest? Which will wash out first? Why do you think so?  
-  *Child mode:* There are four dyes. Which will stay in the cloth after washing? Which will wash out? Why?
+  *Child mode:* Guess which dye will stay and which will wash out.
   - Ask: Why do you think that colour will stay best? (good: It is the strongest colour.; Onion skin is brown like old cloth.; Turmeric stains everything.)
   - Note: Do not correct the guesses. Turmeric stains fingers and plates, so many children guess it will hold best. Write the guesses.
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* 1. A grown-up puts each material in its own pan with two cups of water. 2. Bring each to a gentle simmer for ten minutes. 3. Strain the dye into a cup or a bowl. 4. Let it cool until comfortable to touch.  
-  *Parent says:* A grown-up will simmer each material in water for ten minutes. The hot water pulls the colour out of the material. Which colours dissolved into the water?  
-  *Child mode:* A grown-up simmers each material in water. The colour dissolves into the water. Let it cool.
+  *Parent says:* A grown-up will simmer each material in water for ten minutes. The hot water pulls the colour out of the material. The colour dissolves into the water.  
+  *Child mode:* A grown-up simmers each material in water. Watch the water change colour. Let it cool.
   - Note: Hot water dissolves colour faster, just as it dissolves sugar faster. Strain out the skins, tea leaves and beetroot, so you are left with coloured water. Label the four bowls. Old pans may stay stained. With 2 to 4 children, each child takes one dye and its cloth. One child alone can do two dyes (onion and turmeric) on day 1 if time is short. Keep children away from the stove.
 - **s3 (20 min)**  
   *Parent does:* 1. Wet each white cloth under the tap and squeeze it. 2. Push one cloth into each cooled dye so it is fully covered. 3. Stir now and then for half an hour. For a stronger colour, leave it soaking for a few hours. 4. Take out each cloth. 5. Rinse it briefly in cold water until the water runs lighter. 6. Hang it up to dry overnight.  
@@ -520,7 +520,7 @@ Karthik laughed. This time Meera did too.
   - Note: The cloths look darker wet than dry. Tea and onion skin usually give tan or orange-brown. Turmeric gives a bright yellow. Beetroot gives a pink that may look weak, and sometimes only beige. Nothing is added to fix the dye to the cloth, so the colours are gentle, which is fine for the test. Use cotton, as nylon or polyester will not take the dye. Hang the cloths where drips do not matter.
 - **s4 (10 min) · grown-up needed**  
   *Parent does:* 1. Next day, cut each dry cloth in half. 2. Keep one half dry. 3. Wash the other half in warm soapy water, rubbing it 20 times. 4. Rinse and hang to dry.  
-  *Parent says:* Cut each cloth in half. Keep one half as it is. Wash the other half with soap and rub it twenty times. Which colours stay? Which fade?  
+  *Parent says:* Cut each cloth in half. Keep one half as it is. Wash the other half with soap and rub it twenty times.  
   *Child mode:* Cut each cloth in half. Wash one half. Rub it twenty times. Rinse and dry it.
   - Note: Washing is a fair test only if every cloth is rubbed the same number of times and rinsed the same way. Dry the washed halves quickly in a breeze or under a fan.
   - Wait: Leave to dry overnight
@@ -535,7 +535,7 @@ Karthik laughed. This time Meera did too.
 ### c1 · Rescue the Salt: separate a four-part mix (45 min)
 - **problem:** A bowl holds one tablespoon each of rice, rava and salt, and five steel paper clips, all mixed together. Plan and carry out a way to get all four back as separate piles, with the salt dry and clean. Use only things from home.
 - **safety:** A grown-up does any heating on the stove. Do not taste or eat any part of the mix.
-- **your turn:** Draw your plan as a chain of steps. Write the reason for each step. Try it, then write down which pile was hardest to get clean and why. Could you change the order of the steps? What would go wrong?
+- **your turn:** Show your plan as a chain of steps: draw it, or lay out cards or objects in order. Write the reason for each step. Try it, then write down which pile was hardest to get clean and why. Could you change the order of the steps? What would go wrong?
 - **constraints:** Use only things from home.; Do not taste or eat any part of the mix.; A grown-up must do any heating on the stove.; Your plan must be written down before you start.; Every pile must be as pure as you can make it.
 - **general:** Use the magnet to pick out the paper clips first, because only the steel is magnetic.; Pour the mix through the strainer. The rice stays in it, and the rava and salt fall through.; Stir the rava and salt into water. The salt dissolves and the rava does not. Pour it through the cloth to keep the rava.; Pour the salty water onto the plate and let the water evaporate in the sun, or heat it gently, until white salt is left.
 - **creative:** Wrap the magnet in a thin plastic bag, so the clips come off the bag easily when you take the magnet away.; Use warm water for the salt step, so the salt dissolves faster.; Put a damp cloth over a bowl and tip the rava and salt on it with water. The salt water drips through and the rava stays on the cloth.; Test your salt pile by dropping a little of it into clean water. It should dissolve and leave no bits. Do not taste it.

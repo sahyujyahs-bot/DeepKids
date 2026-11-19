@@ -251,8 +251,8 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   *Child mode:* Read the mystery. Lay out the 16 guest cards.
   - Note: Do not give the answer away. Let the child say what they think first, and write it down. Children often suspect the food they like least.
 - **s2 (5 min)**  
-  *Parent does:* Draw the tally table with a row for each of the four foods. Take the first four guest cards. Make a mark for each food, in the right column of its row.  
-  *Parent says:* Guest 1 ate only fruit chaat, and was ill. So in the fruit chaat row, we make a mark in the column for ate and ill. Guest 1 did not eat any of the other three foods, and was ill. So in each of those three rows, we make a mark in the column for did not eat and ill.  
+  *Parent does:* Draw the tally table with a row for each of the four foods. The columns are: ate and ill, ate and well, did not eat and ill, did not eat and well. Take the first four guest cards. Make a mark for each food, in the right column of its row.  
+  *Parent says:* Guest 1 ate only fruit chaat, and was ill. In the fruit chaat row, mark ate and ill. In each of the other three rows, mark did not eat and ill.  
   *Child mode:* Draw the table. Do the first four guests. Mark every row for each guest.
   - Check: A guest ate the fruit chaat and stayed well. Which column of the fruit chaat row do you mark? → **Ate and well**
 - **s3 (7 min)**  
@@ -281,14 +281,14 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   *Child mode:* Make four spaces. Read the meanings. Shuffle the cards.
   - Note: Read the answer slips aloud. Note that natural poisons, such as aflatoxin, count as chemical hazards, although a mould made them.
 - **s2 (8 min)**  
-  *Parent does:* Play the first ten cards. After each one, the reader reads the back. Talk about the fix.  
+  *Parent does:* Play the first ten cards. After each one, the reader reads the back. Talk about the fix. A right space scores one point, and a good fix scores one point.  
   *Parent says:* The reader reads the front. Choose a space. Give one fix. Then the reader reads the back. Who got it right?  
   *Child mode:* The reader reads a card. Pick a space. Say a fix.
   - Ask: Which hazards were easy to spot, and which were hard? (good: Stones and glass were easy because you can see them.; Microbes were hard because you cannot see them.; Natural poisons were surprising.)
   - Check: A cook with an uncovered cut on her finger is mixing a salad. What kind of hazard is this? → **Biological, because bacteria can move from the cut into the food**
 - **s3 (7 min)**  
   *Parent does:* Play the other ten cards in the same way. Add up each player's points.  
-  *Parent says:* Now we play the other ten cards. Which kind of hazard is hardest to see? Which one is the easiest to fix?  
+  *Parent says:* Now we play the other ten cards in the same way. Choose a space, give a fix, and then the reader reads the back.  
   *Child mode:* Play the other ten cards. Add up your points.
   - Check: A potato has green patches and sprouts. What kind of hazard is this? → **Chemical, because green potato holds a natural poison**
 - **s4 (2 min)**  
@@ -304,23 +304,23 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 - **predict:** Before you start, guess which glass will have the most foam after two hours, and which will have the least. Why do you think so?
 - **fair test:** All four glasses are the same kind of glass, and they start with the same mixture and the same amount. They stand on the same kind of surface, and you measure them at the same times. Only the temperature is different, so any difference in foam comes from the temperature.
 - **safety:** A grown-up heats the pan for glass D and handles all hot water. Steam can scald, so keep children away from the stove. Never taste the yeast mixture. Do not seal the glasses with a lid, because the gas can build up. Wash your hands afterwards, and a grown-up pours the mixture down the sink.
-- **record:** Fill in the table every 30 minutes for two hours. At the end, draw the four glasses side by side with their foam, and write what you think, what you saw and why.
+- **record:** Fill in the table every 30 minutes for two hours. At the end, take a photo of the four glasses side by side, or draw them, and write what you think, what you saw and why.
 - **results table:** Time | A: fridge (centimetres of foam) | B: counter (centimetres of foam) | C: warm-water bath (centimetres of foam) | D: heated first, then counter (centimetres of foam)
 - **s1 (5 min)**  
   *Parent does:* Show your child the four glasses and the places they will go. Say that one glass will be heated first. Ask for a guess and a reason, and write it down.  
   *Parent says:* The same yeast and the same sugar will go into four glasses. One goes in the fridge. One stays on the counter. One goes in a warm-water bath. One is heated first. Which will foam the most? Which the least? Why?  
-  *Child mode:* Four glasses of yeast go in four places: the fridge, the counter, a warm bath, and one that is heated first. Which will foam the most? Why?
+  *Child mode:* Look at the four glasses. Guess which one will foam the most.
   - Ask: Why do you think that glass will foam the most? (good: Warmth helps yeast to grow.; Yeast likes warm places.; The fridge will slow it down.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Yeast is a microbe that eats sugar and makes the gas that makes the foam. More foam means more yeast, busy and growing.
 - **s2 (12 min) · grown-up needed**  
-  *Parent does:* In the jug, stir 4 level teaspoons of sugar and the whole packet of yeast into 800 millilitres of lukewarm water. Right away, pour 200 millilitres into a small pan, and a grown-up heats it until it steams. Keep it hot for 2 minutes. Pour it into glass D and let it cool for 15 minutes. When D is lukewarm, stir the jug. Pour 200 millilitres into each of A, B and C. Now all four start together.  
+  *Parent does:* Label four glasses A, B, C and D. In the jug, stir 4 level teaspoons of sugar and the whole packet of yeast into 800 millilitres of lukewarm water. Right away, pour 200 millilitres into a small pan, and a grown-up heats it until it steams. Keep it hot for 2 minutes. Pour it into glass D and let it cool for 15 minutes. When D is lukewarm, stir the jug. Pour 200 millilitres into each of A, B and C. Now all four start together.  
   *Parent says:* This mixture is full of yeast. Glasses A, B and C get it just as it is. Glass D is heated until it steams, so we can see what heat does to the yeast. Never taste any of it.  
-  *Child mode:* Stir sugar and yeast into warm water. Pour 200 millilitres into each glass. A grown-up heats D.
+  *Child mode:* Stir the sugar and yeast into warm water. Pour the same amount into each glass. A grown-up heats the mixture for D first.
   - Note: The water for the mixture should be lukewarm, like a bath for a baby. If it is too hot, it will kill the yeast in all the glasses and nothing will happen. Use a tray, because foam can spill. Check the date on the yeast packet. Old or damp yeast will not foam at all, and then the whole test shows nothing. Instant or dry baking yeast from a bakery or kirana shop is fine. The 'bath water' for glass C must not be so hot that you pull your finger out, because that kills yeast.
   - Check: Why do we heat the mixture for glass D until it steams? → **To find out what heat does to yeast**
 - **s3 (8 min)**  
   *Parent does:* Put a rubber band around each glass at the top of the liquid. Put A on a shelf in the fridge. Put B on the counter, in the shade. Stand C in a bowl of warm bath water. Put D on the counter next to B, once it is lukewarm. Write down the time.  
-  *Parent says:* Mark the top of the liquid with a rubber band. A goes in the fridge. B goes on the counter. C stands in a bowl of warm bath water. D sits beside B. Write down the time, so we know when to measure.  
+  *Parent says:* The rubber band shows where the liquid starts, so we can measure the new foam above it. Write down the time, so we know when to measure.  
   *Child mode:* Mark the liquid level on each glass. Put A in the fridge, B on the counter, C in warm water and D beside B.
   - Note: Change the water in C's bowl for fresh warm bath water after an hour, since it cools. Check that D is lukewarm before it goes on the counter, so it starts like the others. Write the room temperature if you can. With 2 to 4 children, each child owns one glass: they label it, take it to its place, measure it and write its column. Two children can share a glass. With one child, the grown-up holds the ruler and the child does the writing.
 - **s4 (12 min)**  
@@ -340,13 +340,13 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 - **predict:** Before you start, guess which potato slice will grow the most spots, and which will grow the fewest. Will a quick rinse be enough? Why do you think so?
 - **fair test:** The slices come from one potato, cooked together and cut with the same clean knife. The same finger is used each time, pressed for the same 5 seconds, after being dirtied in the same way. All the bags sit side by side on one shelf. Only what was done to the finger is different.
 - **safety:** A grown-up boils the potato and cuts it. Never open the bags once they are sealed, and never smell them, because some of the growth may be harmful. Keep little children away from the bags. At the end, a grown-up puts the closed bags into a rubbish bag, ties it, and puts it in the outside bin. Wash your hands after rubbing your finger on the shoe, and after touching the bags.
-- **record:** Fill in the table. On day 7, draw the four bags side by side and shade the spots and fuzzy patches you can see. Write what you think, what you saw and why.
+- **record:** Fill in the table. On day 7, take a photo of the four bags side by side, or draw them and shade the spots and fuzzy patches you can see. Write what you think, what you saw and why.
 - **results table:** Slice and what touched it | Day 3: spots | Day 5: spots | Day 7: spots and fuzzy patches
 - **schedule:** day 1: Guess. A grown-up boils and cuts the potato. Press each finger on its slice. Seal and tape the bags. (30 min); day 3: Look at the bags without opening them. Count the spots. Write them down. In hot weather, take a quick look on day 2 too. (3 min); day 5: Look again. Count the spots. Write them down. (3 min); day 7: Look and count. Compare. Draw the four slices. Say what you think, what you saw and why. A grown-up disposes of the bags. (19 min)
 - **s1 (5 min)**  
   *Parent does:* Explain the four slices. A is not touched. B is touched with a dirty finger. C is touched after a quick rinse with water. D is touched after soap and 20 seconds of washing. Ask for a guess and a reason, and write it down.  
   *Parent says:* We have four potato slices. Slice A is not touched. B gets a dirty finger. C gets a finger rinsed with water. D gets a finger washed with soap. Which slice will grow the most spots of microbes? Which the least? Why?  
-  *Child mode:* There are four potato slices. One is not touched, one gets a dirty finger, one a rinsed finger and one a soapy finger. Which will grow the most spots? Which the least? Why do you think so?
+  *Child mode:* There are four potato slices. One is not touched. One gets a dirty finger. One gets a rinsed finger. One gets a soapy finger. Guess which will grow the most spots of microbes.
   - Ask: Do you think a quick rinse is as good as soap? Why? (good: Water alone should wash it off.; Soap is needed to take the oil off.; I'm not sure.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (12 min) · grown-up needed**  
@@ -361,13 +361,13 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   - Note: Use the same finger of the same hand each time. A child's dry fingers pick up less than a damp or sticky finger, so rub the finger on the shoe each time for the same time. Wash your own hands after this step. With 2 to 4 children: one child does the whole set of four bags, or two children each do a full set of four (8 bags) and compare. Do not split one set between children, because then the finger is different as well. The others are the timer (counts the 20 seconds), the recorder and the artist who draws the bags on day 7.
   - Check: Slice A is not touched by a finger, but its bag is opened and closed. Why do we do that? → **To see how much grows from the air alone**
 - **s4 (9 min)**  
-  *Parent does:* Look at each bag without opening it. Count the round spots and the fuzzy patches. Write the numbers in the table. If there are too many to count, write many.  
+  *Parent does:* Look at each bag without opening it. Count the round spots and the fuzzy patches. Write the numbers in the table. If there are too many to count, write many. Look again every two days for a week.  
   *Parent says:* Look through the bag without opening it. Do you see round spots? Do you see fuzzy patches? Count them. Which bag has the most today?  
   *Child mode:* Look at each bag. Do not open it. Count the spots. Write them down.
   - Note: Spots are colonies of bacteria or yeast, each grown from one microbe or a few. Fuzzy patches are moulds. The first spots usually show on day 2 or 3. Never open a bag, and never smell it. If a bag is leaking, put it in a second bag and a grown-up puts it in the outside bin. In hot, damp weather spots can show on day 2, and by day 5 every bag may be covered, even the clean one. Then the best clue is which bag showed spots first, so look for 30 seconds each day and write down the day. If a bag puffs up with gas, do not open it. A grown-up puts it into a second bag and then the outside bin. The magnifying glass is optional.
   - Wait: Look at the bags on days 3, 5 and 7.
 - **s5 (16 min)**  
-  *Parent does:* Put the four bags side by side. Compare the spots and patches. Check your guess from step 1. Draw the four slices. Say or write three things: what I think, what I saw, and why. A grown-up puts the closed bags in the outside bin.  
+  *Parent does:* Put the four bags side by side. Compare the spots and patches. Check your guess from step 1. Say or write three things: what I think, what I saw, and why. A grown-up puts the closed bags in the outside bin.  
   *Parent says:* Which slice grew most? Which least? Did soap make a difference? Tell me what you think, what you saw and why.  
   *Child mode:* Compare the four bags. Say what you think, what you saw, and why.
   - Note: A good answer sounds like this. I thought that soap and 20 seconds of washing would take most microbes off the finger, and that a quick rinse would take fewer. I saw that slice B had the most spots, and slice D had fewer than slice C. This is because soap lifts oily dirt and microbes, and the water carries them away. If your result differs, such as slice C having fewer spots than slice D, write it down. One finger and one potato is a small test. You can link this to the card called How soap works.
@@ -377,12 +377,12 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 - **predict:** Before you start, guess which plate will have the most liquid after an hour, and which the least. Why do you think so?
 - **fair test:** All the slices come from one cucumber, cut to the same thickness. Each plate holds four slices in one layer and sits tilted the same way. You use one level teaspoon of salt or sugar. Only what is sprinkled on the slices is different, so any difference comes from that.
 - **safety:** A grown-up cuts the cucumber with the knife. The cucumber slices are safe to eat afterwards, since they have only had salt or sugar on clean plates, but do not eat slices that have been sitting for more than a few hours.
-- **record:** Fill in the table at 30 minutes and 60 minutes. Draw one slice from each plate, with the liquid around it. Write what you think, what you saw and why.
+- **record:** Fill in the table at 30 minutes and 60 minutes. Take a photo of one slice from each plate, or draw it, with the liquid around it. Write what you think, what you saw and why.
 - **results table:** Plate and what is sprinkled | Liquid at 30 minutes (teaspoons) | Liquid at 60 minutes (teaspoons) | How a slice feels when you bend it
 - **s1 (4 min)**  
   *Parent does:* Show your child the cucumber, the salt and the sugar. Ask for a guess and a reason, and write it down.  
   *Parent says:* We will sprinkle salt on some cucumber slices and sugar on others, and leave some plain. After an hour, which plate will have the most liquid? Why?  
-  *Child mode:* Cucumber slices get salt, sugar or nothing. Which plate will have the most liquid? Why?
+  *Child mode:* Cucumber slices get salt, sugar or nothing. Guess which plate will have the most liquid.
   - Ask: Why do you think that plate will have the most liquid? (good: Salt takes water out.; The cucumber has lots of water inside.; Sugar will melt and make a puddle.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (8 min) · grown-up needed**  
@@ -414,15 +414,15 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 - **safety:** No tasting is needed. Read milk and paneer packets closed, and do not open any packet. Look at the allergen lines for any food allergy in your family.
 - **record:** A table with a row for each packet and columns for: the first three ingredients, the type of date, the vegetarian mark, the licence number, the allergens and the storage advice.
 - **s1 (5 min)**  
-  *Parent does:* Lay out the five packets. Ask your child to guess what the first ingredient on each one will be. Write down the guesses.  
-  *Parent says:* Before we read the labels, what do you think is the biggest ingredient in each of these? Why?  
-  *Child mode:* Look at the five packets. Guess the first ingredient on each. Why?
-  - Ask: Which packet do you think has the most sugar, and why? (good: The biscuits, because they are sweet.; The jam, because it tastes very sweet.; I think the namkeen has none.)
+  *Parent does:* Lay out the five packets. Ask your child to guess which packet has the most sugar. Write down the guess.  
+  *Parent says:* Look at the five packets. Before we read any label, let us guess.  
+  *Child mode:* Look at the five packets. Pick the one you think has the most sugar.
+  - Ask: Why do you think that packet has the most sugar? (good: The biscuits, because they are sweet.; The jam, because it tastes very sweet.; I think the namkeen has none.)
   - Note: Do not correct the guesses. The first ingredient on a label is the largest part by weight, but children often guess the one they can taste.
 - **s2 (10 min)**  
   *Parent does:* On each packet, find six things and write them in the table. First, the first three ingredients. Second, the date, and whether it says best before or use by. Third, the vegetarian or non-vegetarian mark. Fourth, the FSSAI number. Fifth, any allergen line. Sixth, any storage advice. Write none if you cannot find it.  
-  *Parent says:* Look for a green dot or a brown mark in a square. Look for a date. Look for a long number that begins with 1 or 2. Read the first three ingredients. What does the packet say about keeping it?  
-  *Child mode:* Find the date, the mark and the number. Read the first three ingredients.
+  *Parent says:* Look for a green dot or a brown mark in a square. Look for a date. Look for a long number that begins with 1 or 2. It is the food licence number. Read the first three ingredients. What does the packet say about keeping it?  
+  *Child mode:* On each packet, find the date and the green or brown mark. Find the long licence number. Read the first three ingredients.
   - Note: The FSSAI licence or registration number has 14 digits. The green dot in a green-edged square means vegetarian. A brown mark in a brown-edged square means non-vegetarian. If a packet has none of these, note that it does not show them. With 2 to 4 children, each child takes one or two packets and fills in those rows, then everyone compares. A packet with no FSSAI number or no date is itself a finding.
   - Check: A packet lists its ingredients as sugar, wheat flour, oil, salt. What does this order tell you? → **There is more sugar than anything else in it**
 - **s3 (10 min)**  
@@ -432,17 +432,17 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   - Note: Some packets, such as namkeen, list sugar as zero or a very small amount. A jar of jam is often over half sugar, which is part of why it keeps.
   - Think: Which packet surprised you the most, and why?
 - **s4 (5 min)**  
-  *Parent does:* Ask the questions below. Choose which of the five packets should go in the fridge after opening, and why.  
+  *Parent does:* Ask your child which of the five packets should go in the fridge after opening, and why. Then ask the question below.  
   *Parent says:* Which of these should we keep in the fridge after opening? Which can sit in a cupboard? What does the date on each packet mean?  
   *Child mode:* Which packets go in the fridge after opening? Which stay in the cupboard?
   - Check: A packet of fresh paneer has a use by date of yesterday. What should you do? → **Throw it away, because it spoils easily and may not be safe**
 ### a2 · Starch Detective: is there flour hiding in this milk? (25 min)
 - **safety:** Tincture of iodine is poisonous if swallowed. It stains clothes and skin, and it hurts if it gets in the eyes. It catches fire easily, so keep it away from the stove. Do not use it if anyone taking part is allergic to iodine. A grown-up uses it, puts the drops on, and puts the bottle away. Do not taste any of the samples. Pour the milk and iodine down the sink and wash the saucers with soap. Wear old clothes, because iodine stains. Only the grown-up touches the bottle, and iodine goes only on the saucers, never on skin or on food that will be eaten.
-- **record:** A table with three rows: milk, milk with flour, and potato. Write the colour of each before and after adding iodine. Draw the three saucers with their colours.
+- **record:** A table with three rows: milk, milk with flour, and potato. Write the colour of each before and after adding iodine. Take a photo of the three saucers if you like.
 - **s1 (5 min)**  
-  *Parent does:* Show your child the three saucers. Ask for a guess about the colour in each one after iodine is added. Write down the guesses.  
-  *Parent says:* The iodine is brown. We will add two drops to each saucer. Will the colour change? Which saucers will change, and why?  
-  *Child mode:* Iodine will go on three saucers. Will it change colour? On which saucers? Why?
+  *Parent does:* Show your child the iodine, the plain milk, the flour and the potato. Ask which of the three samples will change colour when iodine is added. Write down the guesses.  
+  *Parent says:* The iodine is brown. We will add two drops to each saucer. Will the colour change?  
+  *Child mode:* Iodine will go on plain milk, milk with flour, and a potato slice. Guess which will change colour.
   - Ask: Which saucer do you think will change colour, and why? (good: The one with flour, because it is the only one with something added.; The potato, because it is food from a plant.; I think none of them will.)
   - Note: Do not correct the guess. Do not say what the iodine will do. Any guess with a reason is a good start.
 - **s2 (8 min)**  
@@ -463,29 +463,29 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   - Think: If the test does not turn blue, does that prove the milk is perfect?
 ### a3 · The Fridge Shelf Puzzle: where does each food go? (20 min)
 - **safety:** Use blunt-ended scissors, and ask a grown-up to cut the card if you need to. If you check a real fridge, ask a grown-up to open it, and wash your hands afterwards.
-- **record:** A drawing of the fridge with the 12 cards in their places, and a list of the foods that do not need a fridge.
+- **record:** A photo of the 12 cards laid out in their places, and a list of the foods that do not need a fridge.
 - **s1 (7 min)**  
-  *Parent does:* Draw a fridge with a freezer on top, three shelves, a drawer at the bottom and a door. Write one food on each of 12 cards. The 12 foods are: raw fish in a covered box, cooked dal, cut papaya, curd, milk, washed vegetables, a sealed jar of lemon pickle, boiled eggs, leftover rice, idli batter, a sealed jar of jam and cut coconut.  
-  *Parent says:* Here is a fridge, and here are twelve foods. Where would you put each one, and why? Some may not need to go in a fridge at all.  
-  *Child mode:* Draw a fridge. Make 12 food cards. Guess where each one goes.
+  *Parent does:* Write seven labels on slips of paper: freezer, top shelf, middle shelf, bottom shelf, drawer, door, and outside the fridge. Lay them out like a fridge, with the freezer on top. Write one food on each of 12 cards. The 12 foods are: raw fish in a covered box, cooked dal, cut papaya, curd, milk, washed vegetables, a sealed jar of lemon pickle, boiled eggs, leftover rice, idli batter, a sealed jar of jam and cut coconut.  
+  *Parent says:* Here are the places in a fridge, and here are twelve foods. Where would you put each one, and why? Some may not need to go in a fridge at all.  
+  *Child mode:* Lay out the fridge places. Write the 12 food cards. Guess where each food goes.
   - Note: No fridge at home? Draw one anyway, and also draw a cool, shaded corner of the kitchen. The puzzle is about reasons, not about the fridge. In a vegetarian home, the raw fish card can be a picture on the card only, or be swapped for raw eggs in a tray. It stands for any raw meat that drips.
 - **s2 (8 min)**  
-  *Parent does:* Place each card on the fridge drawing. Say a reason for each. Put the foods that do not need a fridge to one side.  
+  *Parent does:* Place each card in its place in the fridge. Say a reason for each. Put the foods that do not need a fridge to one side.  
   *Parent says:* Where does the raw fish go? Where do the cooked foods go? Which foods stay out of the fridge, and why?  
-  *Child mode:* Put each card in the fridge. Say why. Which ones stay out?
+  *Child mode:* Put each card where it belongs. Say why. Which ones stay out?
   - Note: A good plan puts raw fish in a covered box on the bottom shelf. Cooked dal, rice and cut papaya go in covered containers on the middle shelves. Curd and milk go in covered. Vegetables go in the drawer. Jam and pickle can stay in a cupboard, and the jam should go in the fridge once it is opened. Idli batter goes in a large covered container, because the cold slows its rising. Score yourself: 1 point for each card placed where this plan puts it, and 1 more for a good reason, out of 24. Then, with a grown-up opening the real fridge, check if anything raw sits above cooked food and if everything is covered. If there is a fridge thermometer, it should read 5 degrees or less. With 2 to 4 children, each child places 3 or 4 cards, and the others agree or argue.
   - Check: Raw fish is kept in a covered box on the bottom shelf of the fridge. Why the bottom shelf? → **So that its juices cannot drip onto other food**
 - **s3 (5 min)**  
   *Parent does:* Ask the questions below and listen to each answer.  
-  *Parent says:* Many families do not have a fridge. How could they keep food safe on a hot day? Could they cook only as much as they need? What could they dry, pickle, or boil twice?  
-  *Child mode:* How can a home without a fridge keep food safe?
+  *Parent says:* Many families do not have a fridge. Could they cook only as much as they need? What could they dry, pickle, or boil twice?  
+  *Child mode:* Imagine you have no fridge. Tell your grown-up one thing you could do.
   - Ask: How can a family with no fridge keep food safe in May? (good: Cook only what will be eaten soon.; Keep food covered and in a cool place.; Boil milk again before it spoils.)
   - Think: Which foods in our kitchen are safe to leave out, and which are not?
 ### a4 · The Temperature Strip: where does each kitchen thing sit? (20 min)
 - **safety:** A grown-up carries and pours anything hot, such as tea or boiling water. Children only read the thermometer. Never put a glass thermometer into boiling water or the freezer.
 - **record:** A strip from minus 20 to 120 degrees Celsius, with the zones coloured and at least eight things placed on it.
 - **s1 (8 min)**  
-  *Parent does:* Draw a line 28 centimetres long. Mark it every 2 centimetres, and write the temperatures from minus 20 to 120, going up by 10 each time. Colour the zone below 5 degrees blue, the zone from 5 to 60 red, and the zone above 60 orange. Label the red zone: danger zone.  
+  *Parent does:* Draw a line 28 centimetres long. Mark it every 2 centimetres, and write the temperatures from minus 20 to 120, going up by 10 each time. Colour the zone below 5 degrees blue, the zone from 5 to 60 red, and the zone above 60 orange. Label the red zone: danger zone. Or skip the drawing. Lay a long piece of string on the table and use sticky notes as the marks.  
   *Parent says:* This strip is like a giant thermometer. The blue part is cold. The red part is the danger zone, where bacteria grow fastest. The orange part is hot enough to stop them.  
   *Child mode:* Draw a long strip. Mark it every 10 degrees. Colour the three zones.
   - Note: The danger zone runs from about 5 to 60 degrees Celsius. The strip need not be exact. A careful drawing is enough.
@@ -496,7 +496,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   - Note: With a kitchen thermometer, you could measure the fridge and a cup of tap water. A fridge should be at or below 5 degrees. A freezer should be at minus 18. Predict first. Each child puts each note where they think it goes before they are told the numbers, then corrects it. Count how many were right within one mark. With 2 to 4 children, share the notes out and then compare strips. 'A Chennai kitchen in May is at 35' is a typical figure, not exact.
   - Check: Cooked rice sits on a kitchen counter in May at about 35 degrees Celsius. Which zone is it in? → **The danger zone, where bacteria grow fastest**
 - **s3 (4 min)**  
-  *Parent does:* Ask the questions below. Draw an arrow on your strip showing how hot food should cool, and how cold food should warm up.  
+  *Parent does:* Ask your child to run a finger down the strip, from the hot end to the cold end, to show how fast hot food should cool. Then ask the question.  
   *Parent says:* Hot dal has to cool before it goes into the fridge. Does it help to leave it in a deep pot, or to spread it in a shallow dish? Why?  
   *Child mode:* How can hot food leave the red zone quickly?
   - Note: Optional test (10 minutes extra): a grown-up pours the same amount of hot tap water into a deep katori and into a wide plate. After 10 minutes the children feel both with a finger (or read a thermometer). The plate is cooler, which is why shallow dishes cool food faster.
@@ -510,7 +510,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 - **s1 (5 min)**  
   *Parent does:* Show your child the four cups and what goes in each. Ask for a guess about which cup will set first, which will not set at all, and why. Write down the guesses.  
   *Parent says:* Cup 1 gets no starter. Cup 2 gets a teaspoon of curd. Cup 3 gets a tablespoon. Cup 4 gets a teaspoon, but goes in the fridge. Which will turn to curd first? Which will not? Why?  
-  *Child mode:* There are four cups of milk. Which will become curd first? Which never will? Why?
+  *Child mode:* There are four cups of milk. Guess which will become curd first, and which never will.
   - Ask: Why do you think a spoon of curd can turn a cup of milk into curd? (good: The curd has tiny living things in it.; It changes the milk.; It makes the milk sour.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (15 min) · grown-up needed**  
@@ -531,7 +531,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   - Note: In a warm kitchen at about 30 degrees, cup 3 usually sets first, in about 6 to 8 hours, and cup 2 a little later, in about 8 to 10 hours. Cup 1 stays liquid, and may smell sour or look odd after a day. Cup 4 in the fridge is still liquid. In a cold kitchen everything is slower, and may take a day. These times are typical, not promised. If nothing has set in cup 3 after 24 hours, the milk was probably too hot when the starter went in, or the starter was old. Say so, and try again with fresh curd.
   - Wait: Leave the cups for 6 to 12 hours before the first check.
 - **s5 (15 min)**  
-  *Parent does:* Check the cups again. Compare them. Check your guess from step 1. Say or write three things: what I think, what I saw, and why. A grown-up decides if cups 2 and 3 are safe to taste.  
+  *Parent does:* Check the cups again on day 3. Compare them. Check your guess from step 1. Say or write three things: what I think, what I saw, and why. A grown-up decides if cups 2 and 3 are safe to taste.  
   *Parent says:* Which cup set first? Which never set? What did the starter do? Tell me what you think, what you saw and why.  
   *Child mode:* Look at all four cups. Say what you think, what you saw, and why.
   - Note: A good answer sounds like this. I thought that the curd microbes in the starter would turn milk into curd, and that more starter would work faster. I saw that cup 3 set first, and cup 1 did not set. This is because the bacteria in the starter multiply in warm milk and make acid, and the cold in the fridge slows them. You can link this to the card called Friend or foe. Never taste cup 1 or any cup that smells off. Here is an extra test to show that cold does not kill. On day 3, take cup 4 out of the fridge and leave it in the warm cupboard overnight. It will usually start to thicken, which shows the cold only slowed the curd bacteria. Cup 4 may also thicken a little in the fridge by day 3.
@@ -540,14 +540,14 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
 ## Challenges
 ### c1 · Keep the Ice: a lunch box that keeps cold (45 min)
 - **problem:** Build a box that keeps ice frozen for as long as possible on a warm kitchen counter. The box that gives the least meltwater after one hour wins.
-- **your turn:** Sketch your box. Build it and put in three ice cubes. After one hour, pour the water into the measuring cup and write down how much. Change one thing, such as one more layer, and test again. Which box kept the most ice? Why do you think it worked?
+- **your turn:** Say your plan for your box out loud, or sketch it. Build it and put in three ice cubes. After one hour, pour the water into the measuring cup and write down how much. Change one thing, such as one more layer, and test again. Which box kept the most ice? Why do you think it worked?
 - **constraints:** Use only things from home, and no ice pack bought for the purpose.; Start with three ice cubes from the same tray, of the same size, taken out at the same moment. Use the same kind of dabba for every design. Use one more dabba of the same kind, with no wrapping, as a plain box to compare.; Close the box with a lid, a plate or a cloth.; Leave every box on the same counter for exactly one hour, then measure the meltwater. If even the best box has lost all its ice, repeat with bigger ice: freeze water overnight in a small katori and use one block in each box.
 - **general:** Wrap the box in several layers of newspaper or cloth.; Line the inside with foil, shiny side in.; Put the box inside a bigger box with a layer of crumpled paper between them.
 - **creative:** Wrap the box in a wet cloth, and put it in the shade, so that the water cools the box as it evaporates.; Make a box inside a box inside a box, with air pockets in between.; Pack the ice cubes tightly together, so that there is less surface to melt.
 - **s1 (10 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch two box designs and to guess which box will have the least meltwater.  
-  *Parent says:* Heat flows from the warm kitchen into the cold ice. How could you slow it down? Sketch two ideas, and guess which one will keep the most ice.  
-  *Child mode:* Read the problem. Sketch two boxes. Guess which keeps more ice.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to say two ways to wrap a box, and to guess which box will have the least meltwater.  
+  *Parent says:* Heat moves from the warm kitchen into the cold ice, and that melts it. Think of two ways to wrap a box, and guess which one will keep the most ice.  
+  *Child mode:* Read the problem. Tell your grown-up two ways to wrap a box. Guess which keeps more ice.
   - Ask: What could slow the heat reaching the ice? (good: A thick layer of cloth or paper.; Trapped air in between layers.; A shiny layer that bounces heat back.)
 - **s2 (15 min)**  
   *Parent does:* Build your box. Put in three ice cubes. Build a plain box with no wrapping too. Put them side by side on the counter. Write down the time.  
@@ -573,7 +573,7 @@ That evening, Sharanya wrote the table in her own notebook. At the bottom she wr
   - Ask: Which food would you not sell at this stall, and why? (good: Curd rice, because it would sit in the danger zone.; Cut fruit, because flies and the sun would spoil it.; Egg sandwiches, because eggs spoil in the heat.)
 - **s2 (15 min)**  
   *Parent does:* For each food, write how it is kept safe: dry, salty, sour, hot or cold. Write one rule for the helpers about hands, covering or temperature. Say what water you will use.  
-  *Parent says:* For each food, how does it stay safe? Is it dry, salty, hot, cold or covered? Then write one rule for your helpers.  
+  *Parent says:* For each food, how does it stay safe? Is it dry, salty, sour, hot or cold? Then write one rule for your helpers.  
   *Child mode:* Write how each food stays safe. Write one helper rule.
   - Check: Which food stays safest on a hot stall for five hours? → **Roasted chana in a closed tin**
 - **s3 (10 min)**  

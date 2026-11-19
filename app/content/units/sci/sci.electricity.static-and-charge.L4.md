@@ -268,15 +268,15 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
   - Note: Ask for the reason every time. The rule is always the same: the lower card takes electrons and gets the minus.
 - **s3 (6 min)**  
   *Parent does:* Play round 2 with three cards at a time, and then round 3 with a middle card. Score the points as in the rules.  
-  *Parent says:* Three cards are up. Which is minus against both the others? Which is plus against both? Which is in the middle?  
-  *Child mode:* Three cards are up. Which is minus, which is plus, which is in the middle?
+  *Parent says:* Three cards are up. Look at where they sit on the ladder. Which card is minus against both the others?  
+  *Child mode:* Say which card is minus, which is plus, and which is in the middle.
   - Ask: Why can the middle card be plus with one card and minus with another? (good: It gives to the ones below it and takes from the ones above.; Its partner changes.)
   - Note: The card in the middle is both. This is the main idea of the ladder: plus and minus belong to the pair, not to one material.
   - Check: A card is in the middle of the ladder. It meets one card above it and one below it. What happens? → **It is minus with the one above and plus with the one below**
 - **s4 (4 min)**  
   *Parent does:* Count the points. Compare this ladder with the ladder you built in the Charge Ladder experiment. Where do the two ladders disagree? Talk about why.  
   *Parent says:* Count the points. Now compare this ladder with the one you built yourself in the Charge Ladder experiment. Do they match? Where do they differ, and why might that be?  
-  *Child mode:* Count your points. Compare this ladder with the one you built in the Charge Ladder experiment.
+  *Child mode:* Count your points. Find one place where the two ladders differ.
   - Note: Your ladder from the Charge Ladder experiment may differ from this one. That is a normal result. Ladders agree about the ends, and not about close neighbours. Real data from your own home is worth more than a table in a book.
   - Think: If two published ladders disagree about close neighbours, which should you trust?
 
@@ -286,11 +286,11 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 - **predict:** Before you start, guess for each of the five things. After it is rubbed on wool, will it push the hanging balloon away? After it is rubbed on polythene, will it push the balloon or pull it? Say why you think so.
 - **fair test:** Every thing gets ten strokes, always in one direction. Every thing is held 3 centimetres from the balloon, at the same height, for 5 seconds. Each thing is wiped clean before the next test, and the hanging balloon is charged again on wool after every three tests. The same wool, the same polythene and the same room are used all the way through. Only the thing being rubbed changes.
 - **safety:** Balloons and small cut pieces can choke young children, so keep them away from children under three. If anyone at home has a latex allergy, do not use latex balloons. Do this indoors, in a room away from the kitchen gas, and never during a thunderstorm. A grown-up should be near whenever the hair dryer is used.
-- **record:** Fill in the results table for all five things. Then lay the seven cards in a ladder with wool at the top and polythene at the bottom, and draw it.
+- **record:** Fill in the results table for all five things. Then lay the seven cards in a ladder with wool at the top and polythene at the bottom. Take a photo of it, or draw it.
 - **results table:** Thing | After wool: R, A or 0 | After polythene: R, A or 0 | Its rung on my ladder
 - **s1 (4 min)**  
   *Parent does:* Lay out the five things, the wool and the polythene. Ask your child to guess for each thing, and to say why. Write every guess down.  
-  *Parent says:* We will rub five things on wool, and then on polythene. Which will take electrons and push our balloon away? Why do you think so?  
+  *Parent says:* We will rub five things on wool, and then on polythene. After each rub, we hold the thing near a hanging balloon and see if it pushes the balloon away.  
   *Child mode:* Guess which things will push the balloon away. Say why.
   - Ask: Which thing do you think will charge the most, and why? (good: The balloon, because it worked before.; The plastic ruler, because plastic holds charge.; I am not sure, but the cloth looks too soft.)
   - Note: Write the guesses and reasons at the top of the table. Do not correct them. Some will be right by luck, and that is fine. One child with a parent: the child rubs and tests, the parent writes R, A or 0. Two to four children: share one hanging balloon and one wool. Each child takes one or two of the five things and rubs it, one child holds the thread steady and one writes in a single shared table, then swap jobs. Everyone helps lay the final ladder.
@@ -303,7 +303,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
   - Check: The charged balloon leans towards your plain hand. What does that show? → **A pull alone does not prove the other thing is charged**
 - **s3 (5 min)**  
   *Parent does:* Hold the plain, unrubbed ruler 3 centimetres from the balloon, at the same height. Watch for 5 seconds. Write R if the balloon is pushed away, A if it is pulled closer, and 0 if nothing happens.  
-  *Parent says:* First, a control. A control is a test to compare the others with. This ruler has not been rubbed. What does the balloon do? Write R, A or 0.  
+  *Parent says:* First, a control. A control is a test to compare the others with. This ruler has not been rubbed. What does the balloon do? Write R if it pushes away, A if it pulls closer, or 0 if nothing happens.  
   *Child mode:* Hold the plain ruler near the balloon. Write R, A or 0.
   - Ask: Why do we test a ruler we have not rubbed? (good: To see what a plain ruler does.; To have something to compare with.; To check the ruler is not already charged.)
   - Note: Often the balloon leans a little towards the plain ruler. That is polarisation, and it is why we trust only a push. If the balloon moves away from a plain ruler, the ruler already has a charge. Wipe it with a damp cloth, dry it, and try again.
@@ -322,7 +322,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
   - Note: Expect results that differ from the wool step. The paper tube and the cotton often pull the balloon after polythene, because they gave electrons to the polythene. Remember that a pull is only a hint. Do not worry if some results are messy. Write down what you saw.
 - **s6 (7 min)**  
   *Parent does:* Cut seven small cards: wool, polythene, and the five things. Put wool at the top and polythene at the bottom. A thing that pushed the balloon after wool goes below wool. A thing that pushed it after wool and pulled it after polythene goes in the middle. Now pick two things that are far apart on your ladder. Say which will get the minus charge. Rub them together, test each one on the balloon, and check.  
-  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
+  *Parent says:* Look at your ladder. Pick two things that are far apart. Which one will get the minus charge when you rub them together?  
   *Child mode:* Put the cards in a ladder. Pick two far apart. Rub them together. Test your guess.
   - Ask: Which thing gives electrons to some partners and takes them from others? (good: The one in the middle.; Cotton, or paper.; The thing that pushed after wool but pulled after polythene.)
   - Note: Only after they have said what they saw, explain: each thing can give to the ones lower on the ladder and take from the ones higher. So a thing in the middle is plus with one partner and minus with another. Your ladder may not match a book's. Books disagree about close neighbours, and damp air changes the order.
@@ -332,7 +332,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 - **predict:** Before you start, guess how far apart the balloons will hang after 5, 10 and 20 rubs. Will 20 rubs give a gap four times as big as 5? Say why you think so.
 - **fair test:** Both balloons are the same size, hang on threads of the same length from the same pencil, and are rubbed on the same wool with the same number of strokes. The gap is measured 10 seconds after hanging, between the same two knots. The charge is cleared from the balloons before each new number of rubs. Only the number of rubs changes.
 - **safety:** Keep balloons and bits of burst balloon away from children under three. If anyone at home has a latex allergy, do not use latex balloons.
-- **record:** Fill in the table. Draw a bar chart with one bar for each number of rubs, using the gap beyond the resting gap.
+- **record:** Fill in the table. Make a bar chart with one bar for each number of rubs, using the gap beyond the resting gap. Draw it, or lay a thread as long as each gap and take a photo.
 - **results table:** Rubs on each balloon | Gap between knots, try 1 (cm) | Gap between knots, try 2 (cm) | Gap beyond the resting gap (cm)
 - **s1 (4 min)**  
   *Parent does:* Show your child the two balloons, the wool and the ruler. Ask for a guess about the gap after 5, 10 and 20 rubs, and for a reason. Write the guesses down.  
@@ -353,7 +353,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
   - Note: Measure at 10 seconds each time, because the charge leaks away. Do two tries. If the gap is nearly the same as the resting gap, rub six more times. On a damp day the gaps may be small and similar for every level. If so, dry the wool in the sun first, or write what you see. A flat result is still a result.
 - **s4 (5 min)**  
   *Parent does:* Repeat step 3 with 10 rubs on each balloon. Do two tries, and clear the charge with a damp hand afterwards.  
-  *Parent says:* Now ten rubs each. Hang them up, wait ten seconds, and measure. Is the gap twice as big as with five rubs?  
+  *Parent says:* Now ten rubs each. Hang them up, wait ten seconds, and measure the gap. Write it down.  
   *Child mode:* Rub each balloon 10 times. Hang them. Measure the gap.
   - Ask: Is the gap twice as big as before? What does it tell you? (good: It is bigger but not twice as big.; More rubbing gives more charge, so more push.; Maybe some charge leaked away.)
   - Note: Do not tell your child the answer. The gap often grows, and usually by less than double, but your numbers may differ.
@@ -363,39 +363,39 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
   *Child mode:* Rub each balloon 20 times. Hang them. Measure the gap.
   - Check: Two balloons rubbed 20 times each hang further apart than after 5 rubs. What does this show? → **More rubbing gave each balloon more charge, so they push harder**
 - **s6 (5 min)**  
-  *Parent does:* Subtract the resting gap from each gap. Draw a bar chart with one bar for 5, 10 and 20 rubs. Ask your child to say what they thought, what they saw and why.  
+  *Parent does:* Subtract the resting gap from each gap. Make a bar chart with one bar for 5, 10 and 20 rubs. Draw the bars, or lay a thread as long as each gap. Ask your child to say what they thought, what they saw and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a bar for each number of rubs. Say what you saw.
+  *Child mode:* Make a bar for each number of rubs. Draw it, or lay a thread as long as each gap. Say what you saw.
   - Note: After they have said what they saw, explain: more rubs moved more electrons, so each balloon had more charge and pushed harder. But the gap did not grow as fast as the number of rubs, for two reasons. The push gets weaker as the balloons move apart. And the balloons can hold only so much charge before it leaks into the air as tiny sparks you cannot see.
   - Think: If you could rub forever, would the gap keep growing?
 
 ## Activities
 ### a1 · The Foil Ball That Changes Its Mind (15 min)
 - **safety:** If anyone at home has a latex allergy, use foil-wrapped or non-latex balloons or skip the balloon steps. Foil edges can be sharp, so fold them in. Keep balloons and bits of burst balloon away from children under three.
-- **record:** Draw the foil ball three times: before the balloon, just after it touches, and after you touch it with your finger. Add arrows for what happens. Write the seconds the ball kept away from the balloon.
+- **record:** Write or say what the foil ball did three times: before the balloon, just after it touches, and after you touch it with your finger. You can draw it too. Write the seconds the ball kept away from the balloon.
 - **s1 (4 min)**  
   *Parent does:* Tear a piece of foil 5 centimetres square. Scrunch it around the end of the thread into a ball the size of a marble. Tie the other end to a pencil. Tape the pencil to the edge of a table so the ball hangs free.  
-  *Parent says:* This foil ball hangs on a thread. Foil is a metal. Before we use it, what do you think will happen when a charged balloon comes near?  
+  *Parent says:* This foil ball hangs on a thread. Foil is a metal. Next we will bring a charged balloon near it.  
   *Child mode:* Make a foil ball on a thread. Hang it from a table edge.
   - Ask: What do you think the ball will do when the charged balloon comes near, and why? (good: It will move towards the balloon, because it is light.; It will be pulled, like paper.; It will move away.)
   - Note: Keep the foil ball smooth, with no sharp points. Silk thread is best, and cotton works too. Write your child's guess down. One child with a parent: the child makes the ball and the parent holds the balloon and counts seconds. Two to four children: each child makes their own foil ball, shares the balloons and wool, and takes a turn as the timer.
 - **s2 (5 min)**  
   *Parent does:* Rub a balloon 15 times on the wool. Move it slowly towards the ball, from the side, until it is about 5 centimetres away. Let the ball touch the balloon. Watch what happens next.  
-  *Parent says:* Fifteen rubs on wool. Now bring the balloon slowly to the ball. What does the ball do? What does it do after it touches?  
+  *Parent says:* Fifteen rubs on wool. Now bring the balloon slowly to the ball. Watch closely, before and after it touches.  
   *Child mode:* Rub the balloon on wool. Bring it near the ball. Watch.
   - Ask: What did the ball do first, and what did it do after it touched the balloon? (good: First it jumped to the balloon, then it was pushed away.; It was pulled, and then it was repelled.)
   - Note: The ball should jump to the balloon, touch it, and then swing away. If it does not, rub the balloon ten more times. Try a drier room if you can. Do not explain yet.
   - Check: The foil ball touched the balloon, and then it was pushed away. What does that show? → **The ball took some of the balloon's charge, so both now have the same kind of charge**
 - **s3 (3 min)**  
   *Parent does:* Move the balloon slowly towards the ball again. Try to chase the ball with the balloon. Watch how it runs away. Count how many seconds the ball keeps away before it comes back, and write the number.  
-  *Parent says:* Chase the ball with the balloon. What does it do? Why do you think it runs away now, when it did not before?  
-  *Child mode:* Chase the ball with the balloon. What does it do?
+  *Parent says:* Chase the ball with the balloon. Does it come to the balloon, or run away?  
+  *Child mode:* Chase the ball with the balloon. Count how long it keeps away.
   - Ask: Why does the ball run away from the balloon now, when before it jumped to it? (good: Now it has the same charge as the balloon.; It took charge when it touched.)
   - Note: The ball should swing away as you push the balloon towards it. Wait for your child to say why, before you explain. If the ball sticks to the balloon instead of swinging away, use a smaller, lighter ball and a longer thread, and keep the thread dry. On a damp day the ball keeps away for fewer seconds.
 - **s4 (3 min)**  
-  *Parent does:* Touch the ball with your finger for two seconds. Then bring the balloon near again. Watch what the ball does now. Draw the ball three times: before the balloon, just after it touches, and after you touch it with your finger.  
-  *Parent says:* Touch the ball with your finger. Now bring the balloon near. What does it do now? Where did the ball's charge go?  
-  *Child mode:* Touch the ball with your finger. Bring the balloon near. Draw it.
+  *Parent does:* Touch the ball with your finger for two seconds. Then bring the balloon near again. Watch what the ball does now. Ask your child to say what the ball did three times: before the balloon, just after it touches, and after you touch it with your finger.  
+  *Parent says:* Touch the ball with your finger. Now bring the balloon near. What does the ball do now?  
+  *Child mode:* Touch the ball with your finger. Bring the balloon near. Tell what the ball did each time.
   - Ask: Where did the ball's charge go when you touched it? (good: It ran through my finger and my body into the floor.; My body took it away.)
   - Note: The ball should jump to the balloon again. Your finger and body let the extra charge run away into the floor. After your child has said this, tell them that the ball can do this again and again, because each touch of a finger lets its charge run away.
 ### a2 · Charge Walk: which things let charge run away? (25 min)
@@ -427,16 +427,16 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
   - Think: Where did the charge go when it ran away?
 ### a3 · Tape Twins: one peel, two charges (22 min)
 - **safety:** Peel tape gently. Tear it, and use scissors only with a grown-up nearby if you need them.
-- **record:** Draw the four strips and write T or B on each. Write which pairs pushed apart and which pulled together.
+- **record:** Write T or B for each of the four strips. Write which pairs pushed apart and which pulled together.
 - **s1 (4 min)**  
   *Parent does:* Tear four strips of tape, each 20 centimetres long. Fold over 1 centimetre at one end of each strip to make a handle. Write B on the handles of two strips and T on the other two. Stick the two B strips firmly on the table. Press the two T strips on top of them.  
-  *Parent says:* We have two pairs of strips. The strips on the table are B for bottom. The strips on top are T for top. Before we peel them, what do you think will happen?  
+  *Parent says:* We have two pairs of strips. The strips on the table are B for bottom. The strips on top are T for top. Next we will peel each pair apart and see what the strips do.  
   *Child mode:* Stick two strips on the table. Press two more on top. Label them B and T.
   - Ask: What do you think will happen when we peel a pair apart, and why? (good: They will stick to each other.; They might get charged, like the balloon.; Nothing will happen.)
   - Note: Press each strip down well with a finger, but leave the handles free. Keep the strips clean and dry. A bit of dust spoils the result, and a damp day weakens it. One child with a parent: the child peels and the parent holds the hanging strips. Two to four children: each child makes one pair and shares the tests, so all four strips are tried against each other.
 - **s2 (6 min)**  
   *Parent does:* Hold the handles of the first pair. Peel both strips off the table together in one smooth pull. Then pull the two strips apart quickly. Hang each strip by its handle from the edge of the table. Do the second pair in the same way.  
-  *Parent says:* Peel both strips off together. Then pull them apart fast. Hang them by their handles. What do you notice about how they hang?  
+  *Parent says:* Peel both strips off together. Then pull them apart fast. Hang them by their handles. Watch how they hang.  
   *Child mode:* Peel a pair off the table. Pull the strips apart fast. Hang them.
   - Ask: What do you notice about how the strips hang? (good: They swing towards or away from things.; They are not straight.; They seem to cling to me.)
   - Note: Pull the strips apart in one quick movement, because slow pulling lets the charge leak. Strips should swing towards your hand. If they do not, try a drier room. Hang the strips from a pencil taped out over the table edge so they do not cling to the table. Not all cello tape works the same. If the tape is weak, try another roll.
@@ -449,8 +449,8 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
   - Check: Two T strips push apart. A T strip and a B strip pull together. What does this show? → **T and B carry opposite kinds of charge**
 - **s4 (5 min)**  
   *Parent does:* Ask your child to explain what happened. Ask where the charges came from when nobody rubbed anything. Then press a T and a B strip flat together, smooth them, and bring them near the paper scraps. Compare with a lone T strip near the scraps.  
-  *Parent says:* Nobody rubbed these strips. Where did the charge come from? Why do the top and bottom strips have opposite charges?  
-  *Child mode:* Where did the charge come from? Say what you think.
+  *Parent says:* Nobody rubbed these strips. Where did the charge come from? Say what you think.  
+  *Child mode:* Press a T and a B strip flat together. Hold them near paper scraps. Then try a T strip alone.
   - Note: A strong answer says that peeling moved electrons from one strip to the other, so one has extra and the other has a shortage. Pressing them together lets the electrons go back, and the strips become neutral again. The pressed pair should pick up little or nothing, because the two charges cancel. A lone strip may lift tiny scraps.
   - Think: If the charges are equal and opposite, what would happen if you pressed the two strips together again?
 
@@ -465,21 +465,21 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
   *Child mode:* Pick four new things. Guess where each goes on your ladder.
   - Note: Do not worry about being right. Writing the guess first is what matters. If you have no thermocol, use a plastic bottle, a foam slipper or a nylon cloth. One child with a parent: the child tests and the parent records. Two to four children: each child tests one new thing on both wool and polythene, then swaps. Write in one shared table.
 - **s2 (20 min)**  
-  *Parent does:* Hang and charge the balloon as you did in the Charge Ladder test. Rub each new thing ten times on the wool and then on the polythene. Hold each 3 centimetres from the balloon and write R, A or 0. Wipe each one clean before the next test. Also time, with a phone, how long the balloon leans towards your plain hand.  
+  *Parent does:* Hang and charge the balloon as you did in the Charge Ladder test. Rub each new thing ten times on the wool and then on the polythene. Hold each 3 centimetres from the balloon and write R, A or 0. Wipe each one clean before the next test. Also time, with a phone, how long the balloon leans towards your plain hand. You will compare this on the damp day.  
   *Parent says:* This is the same test as the Charge Ladder, with four new things. Rub ten times, hold it near the balloon, and write R, A or 0.  
   *Child mode:* Test each new thing on wool and polythene. Write R, A or 0.
   - Check: A new thing pushes the balloon away after wool, and also after polythene. Where does it sit on the ladder? → **Below both wool and polythene**
 - **s3 (25 min) · grown-up needed**  
   *Parent does:* On the second day, hang the balloon in a damp place, such as a bathroom after a shower. Test the same four things on wool and polythene in the same way. Write R, A or 0 for each, in a new column. Time how long the balloon leans towards your plain hand, as on day 1.  
-  *Parent says:* Today the air is damp. Do the same tests as before. Do the things push the balloon as strongly? Why might that be?  
+  *Parent says:* Today the air is damp. Do the same tests as before.  
   *Child mode:* Test the same things in damp air. Write R, A or 0.
   - Ask: Did the damp air change your results? How? (good: The pushes were weaker.; Some things did nothing.; The balloon lost its charge quickly.)
   - Note: Expect weaker pushes, or none. The charge leaks away through the thin film of water on every surface. If you get no results at all, that is the result: write 0. A grown-up should stay in the room, because wet floors are slippery. Keep the tap water cool and keep every plug and electric appliance well away. Do not try to dry the things with a heater.
   - Wait: Do this on another day, in a damp place such as a bathroom after a hot shower.
 - **s4 (20 min)**  
-  *Parent does:* Put the two columns side by side. Did the order of the things change? Draw your final ladder with all eleven rungs. Write three sentences about what you found.  
+  *Parent does:* Put the two columns side by side. Did the order of the things change? Make a card for each of the eleven rungs and lay them in order. Take a photo, or draw it. Write three sentences about what you found.  
   *Parent says:* Look at both columns. Did the order change on the damp day? Or only how strongly they pushed? What do you think that tells us?  
-  *Child mode:* Compare the two days. Draw your ladder with eleven rungs.
+  *Child mode:* Compare the two days. Lay out your ladder with eleven cards.
   - Note: Many families find that the order stays but the pushes weaken, because water on the surface lets charge leak. Some find the order shifts a little. Both are real results. Published ladders also disagree, partly for this reason.
   - Think: If damp air weakens the pushes but keeps the order, what is the water doing?
   - Wait: Do this on the third day.
@@ -488,7 +488,7 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
 ### c1 · Stop the Cling: make a charged strip fall off the wall (40 min)
 - **problem:** A strip of polythene, 30 centimetres by 5 centimetres, is rubbed ten times on wool and pressed on a wall. It clings. Find a way to make it fall off within 5 seconds, using only things from your home, and without wetting the strip.
 - **safety:** Use scissors only with a grown-up nearby. Do not use a flame or a heater. Foil edges can be sharp. If anyone at home has a latex allergy, use foil-wrapped or non-latex balloons or skip the balloon steps.
-- **your turn:** Sketch your idea first. Build it and test it three times. Write the times. Change one thing, and test again. Which idea made the strip fall fastest? Why do you think it worked?
+- **your turn:** Say your idea first, or sketch it. Build it and test it three times. Write the times. Change one thing, and test again. Which idea made the strip fall fastest? Why do you think it worked?
 - **constraints:** Cut the strip from a clean, dry plastic bag. Use the same size every time.; Rub it ten times on the wool, in one direction, before each try.; You may do one thing to the strip or near it, in the first 3 seconds after you press it on the wall.; You may not wet the strip or heat it. Do not use a flame.; Time each try with a timer, and do each idea three times.
 - **general:** Touch the strip with a steel spoon held in your hand, so the charge can run through you to the floor.; Wipe the strip with your bare hand.; Hold a metal spoon or a foil strip near it without touching.
 - **creative:** Make a brush of thin foil strips taped to a pencil, and wave it over the strip so each fine tip leaks charge.; Press the strip onto the wall next to a steel almirah or a metal pipe, and see if the charge drains away.; Use a damp bathroom for the whole test and see whether the strip falls faster.
@@ -499,9 +499,9 @@ That Deepavali, labels printed on those sheets went onto cracker boxes in shops 
   - Ask: Why do we time the strip when we do nothing to it? (good: To have a number to beat.; So we know what the idea changes.)
   - Note: On a dry day, the strip may stay up for a minute or more. On a damp day it may fall in seconds, and then you have already found one answer. Try again in a drier room. One child with a parent: the child rubs and presses, the parent times. Two to four children: one rubs, one presses, one times and one writes, and they swap jobs after each try. Each child can test a different idea.
 - **s2 (7 min)**  
-  *Parent does:* Sketch two or three ideas for making the charge leave the strip. Choose one to test first.  
-  *Parent says:* How could we let the charge leave the strip? Think of the things that let the charge run away in the Charge Walk. Draw two or three ideas.  
-  *Child mode:* Draw two ideas for making the strip fall. Pick one.
+  *Parent does:* Think of two or three ideas for making the charge leave the strip. Say them out loud, or lay out the things for each. Choose one to test first.  
+  *Parent says:* How could we let the charge leave the strip? Think of the things that let the charge run away in the Charge Walk. Tell me two or three ideas.  
+  *Child mode:* Say two ideas for making the strip fall. Pick one.
   - Ask: Which things would let the charge run away, and why? (good: Metal, because it is a conductor.; My hand, because I am a conductor.; Something pointed, because charge leaks off points.)
   - Note: Remember what you learned about conductors and points. There is no single right answer. Any idea with a reason is a good one to test.
 - **s3 (15 min)**  

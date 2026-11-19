@@ -226,14 +226,14 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
   *Child mode:* Cut out the clock, the arrow and the cards. Pin the arrow in the middle.
 - **s2 (5 min)**  
   *Parent does:* Play the first four cards that say CLOCK. After each one, ask which way the arrow turned and by how many numbers.  
-  *Parent says:* Set the arrow where the card says. Which way do the stars go? Every two hours, the arrow moves back one number. Where does it point now?  
-  *Child mode:* Set the arrow. The stars go anticlockwise. Two hours moves it back one number.
+  *Parent says:* Set the arrow where the card says. The stars go anticlockwise, so every two hours the arrow moves back one number. Where does it point now?  
+  *Child mode:* Set the arrow where the card says. Then turn it the way the stars go.
   - Note: If a child turns the arrow the wrong way, ask them to look at a real clock and then to turn the arrow the opposite way. The stars circle anticlockwise when you look north.
   - Check: At 8 pm the pointer stars point to 12 o'clock. At 2 am, where do they point? → **9 o'clock**
 - **s3 (4 min)**  
   *Parent does:* Play four cards about the Pole Star's height and the places in India. Show the answer with your fist held out at arm's length.  
   *Parent says:* A fist at arm's length covers about 10 degrees. Hold up your fist for Chennai. How many fists high is the Pole Star? Now do Delhi.  
-  *Child mode:* Use your fist for the height. Chennai is about one fist. Delhi is about three.
+  *Child mode:* Use your fist to show how high the Pole Star is.
   - Ask: Why is the Pole Star higher in Delhi than in Chennai? (good: Delhi is further north.; The Pole Star's height is the same as how far north you are.; As you go north, the Pole Star climbs.)
 - **s4 (5 min)**  
   *Parent does:* Play the rest of the cards you have time for, including the ones about seasons, distance, colour and brightness. Keep the score.  
@@ -243,7 +243,7 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 - **s5 (3 min)**  
   *Parent does:* Add up the points. Then ask which of the ideas in the game could be checked with real stars on a clear night.  
   *Parent says:* Add up your points. Now think about the ideas in this game. Which one could you check with real stars, on a clear night?  
-  *Child mode:* Add up your points. Which idea could you check with real stars?
+  *Child mode:* Add up your points.
   - Ask: Which of the ideas in the game could you check with real stars? (good: How far the stars turn in an hour.; How high the Pole Star is.; Which stars are up in which month.)
 
 ## Experiments
@@ -252,12 +252,12 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 - **predict:** Before you start, guess. Will the pencil jump more when it is close to your nose, or when it is far away? And if you bring it twice as close, will the jump be the same, twice as big, or four times as big? Why do you think so?
 - **fair test:** Stand on the same spot, 3 metres from the wall, every time. Use the same pencil, held upright, with its tip lined up with the same mark on the wall strip. Use the same two eyes, one at a time. Only the distance from your nose to the pencil changes. Measure each distance with a string, and do each one twice.
 - **safety:** Hold the pencil with the sharp tip pointing up and away from faces. Clear the floor so that nobody trips while stepping back from the wall.
-- **record:** Fill in the results table. Then draw a line graph with the distance across the bottom and the jump up the side. Write down how close your guess for the hidden pencil came.
+- **record:** Fill in the results table. Then draw a line graph with the distance across the bottom and the jump up the side, or tell your grown-up the pattern you see. Write down how close your guess for the hidden pencil came.
 - **results table:** Distance from my nose to the pencil (cm) | Number on the wall strip with my right eye only | Number on the wall strip with my left eye only | Jump between the two numbers (cm)
 - **s1 (4 min)**  
   *Parent does:* Show your child the pencil and the wall. Ask them to close one eye, then the other, with the pencil at arm's length. Then ask for the guess and the reason.  
   *Parent says:* Look at the pencil against the wall. Close one eye, then the other. It seems to jump. If I bring the pencil twice as close, will it jump the same, twice as much, or four times as much? Why?  
-  *Child mode:* Close one eye, then the other. Does the pencil jump? Guess what happens when it is closer. Why?
+  *Child mode:* Close one eye, then the other. Does the pencil jump? Then guess what happens when it is closer.
   - Ask: Why do you think it will jump more, or less, when it is closer? (good: Closer things look different from each eye.; The pencil is nearer to my eyes so the two views are more different.; It will be the same, because it is the same pencil.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Many children say twice as big, and that is close to the truth.
 - **s2 (7 min) · grown-up needed**  
@@ -273,7 +273,7 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 - **s4 (3 min)**  
   *Parent does:* Look at the three jumps together. Ask what happens to the jump each time the pencil is brought twice as close.  
   *Parent says:* From 100 centimetres to 50, the distance was halved. What happened to the jump? And from 50 to 25?  
-  *Child mode:* When the distance is halved, what happens to the jump?
+  *Child mode:* Look at your three jumps one after another. Compare them.
   - Check: When the pencil was brought to half the distance from your nose, what happened to the jump? → **It about doubled**
 - **s5 (8 min) · grown-up needed**  
   *Parent does:* Turn your back. Your grown-up holds the pencil at a secret distance from your nose, between 30 and 90 centimetres. They measure it with the string and keep the number hidden. You stand on the spot, measure the jump, and use your table to guess the distance. Then your grown-up shows the string.  
@@ -290,12 +290,12 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 - **predict:** Before you start, guess. In one hour, will a star move about half a fist, about one and a half fists, or about five fists? Why do you think so?
 - **fair test:** Stand on exactly the same spot every time, marked with chalk or tape. Use the same arm, held straight, and the same fist. Measure from the same fixed roof edge to the same star each time. Only the time changes.
 - **safety:** A grown-up stays with the child outside at night. On a terrace, keep well away from the edge. Do not use a bright white light, which spoils your night vision.
-- **record:** Fill in the results table. Draw the roof edge and the star at the three times, on one page, with arrows to show the way the star moves.
+- **record:** Fill in the results table. Draw the roof edge and the star at the three times, on one page, with arrows to show the way the star moves, or tell your grown-up which way and how far it went.
 - **results table:** Time | Fists from the roof edge to the star | Change since the first measurement (fists)
 - **s1 (3 min)**  
   *Parent does:* Ask for the guess and the reason before you go outside. Write it down.  
   *Parent says:* The stars seem to move across the sky. If we watch one star for an hour, how far will it move? Half a fist, one and a half fists, or five fists? Why do you think so?  
-  *Child mode:* How far does a star move in one hour? Half a fist? One and a half? Five? Why?
+  *Child mode:* Guess how far a star moves in one hour. Half a fist, one and a half, or five?
   - Ask: Why do you think it will move that far? (good: It crosses the whole sky in one night, so it should move a lot.; I cannot see it moving, so it must be slow.; The Moon moves about that much.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. This takes about an hour on the clock, with two waits of 30 minutes. Use the waits for tea or the drawing. If the night is cloudy, as is common in the monsoon, wait for a clear night.
 - **s2 (6 min) · grown-up needed**  
@@ -304,9 +304,9 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
   *Child mode:* Stand on your mark. Hold out your fist. Count the fists to the star.
   - Note: Choose a star in the east or the west, not in the south, because stars there move mostly sideways. If you cannot find a bright star, use the Moon. A grown-up can point to Venus, Jupiter or Sirius using the sky map. If it is cloudy tonight, open Stellarium Web and watch the time slider, which shows the same turning.
 - **s3 (3 min)**  
-  *Parent does:* Draw the roof edge and the star in your notebook, with the first measurement. Then go inside or sit down for 30 minutes.  
-  *Parent says:* Draw what you see. Where will the star be in half an hour? Draw a small cross there. We will check your cross after the next measurement.  
-  *Child mode:* Draw the star and the roof edge. Draw where you think the star will be soon.
+  *Parent does:* Ask your child to guess how many fists the star will be above the roof edge in half an hour. Write the guess next to the first number. Then go inside or sit down for 30 minutes.  
+  *Parent says:* Where will the star be in half an hour? Will it be higher, lower or the same? Say how many fists you think. We will check your guess after the next measurement.  
+  *Child mode:* Guess how many fists the star will be in half an hour.
   - Wait: Leave it for 30 minutes before the second measurement.
 - **s4 (5 min) · grown-up needed**  
   *Parent does:* After 30 minutes, stand on the same mark. Hold out your fist. Count the fists from the roof edge to the star again. Write the time and the number.  
@@ -330,12 +330,12 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 - **predict:** Before you start, guess. Is the Pole Star higher or lower in your city than in Delhi? Will it be about one fist high, two fists, or three? Why do you think so?
 - **fair test:** Use the same sighting tool for every reading. Stand in the same spot with a clear view to the north. Take five readings and use the middle one. Check the tool by day first, on something whose height you know.
 - **safety:** A grown-up stays with the child outside at night. On a terrace, keep away from the edge. Never point the straw at the Sun or look at the Sun through it. By day, test the tool on buildings only.
-- **record:** Fill in the results table. Write your city's latitude from a map next to your answer. Draw the north horizon and the Pole Star with its height in degrees.
+- **record:** Fill in the results table. Write your city's latitude from a map next to your answer. Then tell your grown-up in one sentence how high the Pole Star is where you live.
 - **results table:** Reading number | Scale reading (degrees) | Angle above the horizon (degrees)
 - **s1 (3 min)**  
   *Parent does:* Ask for the guess and the reason. Write it down. Show the city list below.  
-  *Parent says:* The Pole Star is about 8 degrees up in Kanyakumari, 13 in Chennai, and 29 in Delhi. Where do we live? Is the Pole Star higher or lower here than in Delhi? Why do you think so?  
-  *Child mode:* Is the Pole Star higher here than in Delhi? Or lower? Guess. Why?
+  *Parent says:* The Pole Star is about 8 degrees up in Kanyakumari, 13 in Chennai, and 29 in Delhi. Think about where we live. Is the Pole Star higher or lower here than in Delhi? Why do you think so?  
+  *Child mode:* Guess if the Pole Star is higher or lower here than in Delhi.
   - Ask: Why do you think it will be lower, or higher, from where we live? (good: It depends on how far north we are.; I think it is higher in the north.; It is always in the same place, so it will be the same.)
   - Note: Do not correct the guess. Latitudes, to the nearest degree: Kanyakumari 8, Thiruvananthapuram 9, Kochi 10, Madurai 10, Chennai 13, Bengaluru 13, Hyderabad 17, Mumbai 19, Kolkata 23, Ahmedabad 23, Jaipur 27, Delhi 29, Srinagar 34.
 - **s2 (7 min) · grown-up needed**  
@@ -352,7 +352,7 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
   - Wait: Do this by day. Do the night part when it is dark.
 - **s4 (7 min) · grown-up needed**  
   *Parent does:* At night, go outside with your grown-up to a spot with a clear view to the north. Find the Saptarishi. Follow a line through the two pointer stars, Kratu and Pulaha, about five times the gap, to the Pole Star. Use a sky map if you cannot see it.  
-  *Parent says:* Find the seven stars of the Saptarishi. Take the two stars at the outer edge of the bowl. Draw a line through them, and carry on about five gaps. The star at the end is the Pole Star. It is not very bright, so look carefully.  
+  *Parent says:* Find the seven stars of the Saptarishi. Take the two stars at the outer edge of the bowl. Imagine a line through them, and carry on about five gaps. The star at the end is the Pole Star. It is not very bright, so look carefully.  
   *Child mode:* Find the Saptarishi. Follow the two pointer stars. The Pole Star is at the end.
   - Note: The Pole Star may be hard to see from a city, and low in the south of India it can be hidden by haze or buildings. Let your eyes get used to the dark for 15 minutes, and use a red torch only. If you cannot see it, use Stellarium Web to find where it is and look there. If it is cloudy tonight, try another night. The Saptarishi is low or even below the horizon in the evening in autumn and early winter, especially in the south. If you cannot see it, use Cassiopeia, the W-shaped group on the other side of the Pole Star, which is high on autumn and winter evenings: the Pole Star lies in line with the middle point of the W, a little way off.
 - **s5 (5 min) · grown-up needed**  
@@ -370,7 +370,7 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 ### a1 · The Year in a Room: a lamp, a ring of star cards and a walk round the Sun (30 min)
 - **problem:** Different stars are high in the sky at midnight in different months. This activity shows why. The lamp is the Sun, and you are the Earth. The cards on the walls are groups of stars far away. At night you face away from the Sun. So the card ahead of you is your midnight sky. Walk round the lamp, and a new card comes ahead of you.
 - **safety:** A grown-up switches the lamp on and off. A bare bulb can get hot, so use a cool LED bulb if you have one, and make sure nobody touches the bulb. Keep the cord out of the ring you walk on so nobody trips.
-- **record:** A table with the twelve months, the group of stars highest at midnight in each, and the group hidden by the Sun. Draw the lamp, the ring and the cards from above.
+- **record:** A table with the twelve months, the group of stars highest at midnight in each, and the group hidden by the Sun. Take a photo of your lamp, ring and cards, or draw them from above.
 - **s1 (4 min)**  
   *Parent does:* Ask your child to think about the night sky in January and in July. Ask for the guess and the reason.  
   *Parent says:* At midnight in January we look at some stars. At midnight in July, will we look at the same stars or different ones? Why do you think so?  
@@ -395,16 +395,16 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
   - Ask: Why do we never see the group of stars that is near the Sun? (good: The Sun is so bright in the day that the stars near it are hidden.; Those stars are up in the day, not the night.; They are on the same side of the sky as the Sun.)
 - **s5 (3 min)**  
   *Parent does:* Ask where the full Moon would be, if it is always opposite the Sun. Link it to the Karthigai Deepam festival in November or December, when the full Moon is near Krittika, which is in Taurus.  
-  *Parent says:* The full Moon is always on the opposite side of the Earth from the Sun. Where would it be in your room? So in which group of stars is the full Moon in December?  
-  *Child mode:* The full Moon is opposite the Sun. Where is it in your room?
+  *Parent says:* The full Moon is always on the opposite side of the Earth from the Sun. Where would it be in your room?  
+  *Child mode:* Point to where the full Moon would be in your room.
   - Ask: In which group of stars is the full Moon in December, and why? (good: In Taurus, because that is the group highest at midnight in December.; The full Moon is opposite the Sun, so it is in the midnight group.; That is why Karthigai Deepam is lit when the full Moon is near Krittika.)
 ### a2 · Ball, Straw and Far Star: why the Pole Star stands higher as you go north (30 min)
 - **problem:** The Pole Star is very far away. Its light comes from the same direction to every place on Earth. In this activity the ball is the Earth. A sticker on the wall is the Pole Star. At each place on the ball, a straw points at the sticker. A flat card is the ground there. You measure the angle between the straw and the card. That angle is how high the Pole Star stands at that place.
-- **record:** A table with each place, its latitude, and the angle you measured between the straw and the card. Draw the ball with the straw and card at the equator, at Chennai and at the pole.
+- **record:** A table with each place, its latitude, and the angle you measured between the straw and the card. Take a photo of the ball from the side with the straw and card at the equator, at Chennai and at the pole.
 - **s1 (3 min)**  
   *Parent does:* Ask your child to imagine being a tiny person on the ball. Ask where the far star would be in the sky at the equator, and at the North Pole. Write down the guess and the reason.  
   *Parent says:* Imagine you are tiny, and standing on this ball, on the equator. Where would you see the Pole Star: overhead or on the horizon? And at the North Pole? Why do you think so?  
-  *Child mode:* You are tiny, on the ball. Where is the star at the equator? At the pole? Why?
+  *Child mode:* You are tiny, on the ball. Where is the star at the equator? And at the pole?
   - Ask: Why do you think the star is there? (good: At the pole it is straight above because the pole is the top.; At the equator it is on the horizon because it is far to the side.; I think it is the same everywhere, because the star is so far away.)
   - Note: Do not correct the guess. Many people guess that the star is higher at the equator, because the equator is the middle of the Earth.
 - **s2 (7 min)**  
@@ -431,11 +431,11 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 ### a3 · Twinkle and Colour: why stars flicker and what their colours show (25 min)
 - **problem:** Stars twinkle because moving air bends their light. Warm air rises above a hot tawa. In this activity, that warm air stands for the Earth's moving air. A tiny hole in front of a torch stands for a star. A star is one point of light. A wider hole stands for a planet. A planet is a tiny disc. Look at both through the warm air. Which one flickers more? Then compare the colours of flames and of stars.
 - **safety:** A grown-up does all the heating, lights the stove and the diya, and moves the hot tawa. Keep the child at least 1.5 metres from the tawa, the flame and the diya. Do not carry the tawa: leave it on the stove ring where it was heated, with a dim light on beside it so it can be seen. Tie back long hair and keep loose clothes away from the flames. Let the tawa cool fully before it is touched or washed.
-- **record:** Write which light flickered more, the tiny hole or the wider hole. Draw the gas flame and the diya flame and colour them. Write the colour of Betelgeuse and of Rigel, and which one is hotter.
+- **record:** Write which light flickered more, the tiny hole or the wider hole. Write which flame was bluer. Write the colour of Betelgeuse and of Rigel, and which one is hotter.
 - **s1 (3 min)**  
   *Parent does:* Ask for the guess and the reason before you start.  
   *Parent says:* A star is a tiny point of light. A planet is a tiny disc. Which one do you think will flicker more when its light comes through moving air? Why?  
-  *Child mode:* A star is a point. A planet is a tiny disc. Which twinkles more? Why?
+  *Child mode:* Guess which light will flicker more, the star or the planet.
   - Ask: Why do you think that one flickers more? (good: The point is smaller so it gets pushed about more.; The planet is bigger so it stays steady.; They both flicker the same, because they are both far away.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (10 min) · grown-up needed**  
@@ -445,14 +445,14 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
   - Note: Keep your child at least 1.5 metres from the hot tawa and do not let them touch it. The tawa stays hot for a long time. First check the shimmer: look at the edge of a wall or window over the tawa, and it should wobble. If it has stopped wobbling, the tawa has cooled, so reheat it. The tiny hole should usually flicker and shimmer clearly, but the effect is modest and depends on the room, so look for a difference, not a big show. A pinhole is also dimmer, which can make it look more flickery, so also try a hole of about 5 millimetres in between. With 2 to 4 children, one holds the torch at the far end while the others watch in turns and say 'flickering' or 'steady' for each hole; compare what everyone saw. The wider hole should look steadier. If you cannot see the difference, make the pinhole smaller or the wider hole larger. As an alternative with no heat, watch a far-off street lamp through the shimmer above a hot road on a sunny day.
   - Check: The tiny hole flickered more than the wider hole. Which is like a star, and which is like a planet? → **The tiny hole is like a star, and the wider hole is like a planet**
 - **s3 (5 min) · grown-up needed**  
-  *Parent does:* A grown-up lights a gas stove ring and a diya. Look at both flames from a safe distance of about 1 metre. Notice the colours. Draw them.  
+  *Parent does:* A grown-up lights a gas stove ring and a diya. Look at both flames from a safe distance of about 1 metre. Notice the colours. Ask your child which flame is bluer.  
   *Parent says:* Look at the gas flame and the diya flame. Which has more blue in it? A hotter flame has more blue. Stars are similar: the bluer a star's surface looks, the hotter it is.  
-  *Child mode:* Look at the gas flame and the diya flame. Which is bluer? Colour them in.
+  *Child mode:* Look closely at the two flames. Point to the bluer one.
   - Note: Stay with your child by the stove, and keep hair and loose clothes away. Blue is a rough sign of heat in fire. The colour of a flame also depends on what is burning, so this is only a hint about stars. Stars are balls of hot gas glowing, and for them, colour is a good thermometer. The yellow in a diya flame is mostly glowing bits of soot, and a gas flame burns cleaner and hotter, so it is blue.
 - **s4 (4 min)**  
   *Parent does:* Open a sky map and look at Orion. Find Betelgeuse at one shoulder and Rigel at one foot. Zoom in and look at the colour of each. If it is a clear winter night and Orion is up, look outside too.  
-  *Parent says:* Betelgeuse is called Ardra in India. Rigel is at the opposite corner of Orion. What colour is each? Which one do you think is hotter? Why?  
-  *Child mode:* Find the two stars in Orion. What colour is each? Which is hotter?
+  *Parent says:* Betelgeuse is called Ardra in India. Rigel is at the opposite corner of Orion. Look at the colour of each.  
+  *Child mode:* Find Betelgeuse and Rigel in Orion. Look at the colour of each.
   - Ask: Which star is hotter, and how can you tell? (good: Rigel, because it is blue-white.; Betelgeuse is red, so it is cooler.; The bluer star is hotter.)
   - Note: Betelgeuse is red-orange and about 3,500 degrees Celsius at the surface. Rigel is blue-white and about 12,000 degrees. Both look quite similar in brightness to the eye, but the colours differ if you look carefully, especially with binoculars. On a clear night, if Jupiter or Venus is up, compare it with a star near it: the star twinkles more.
 - **s5 (3 min)**  
@@ -469,19 +469,19 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 - **s1 (25 min) · grown-up needed**  
   *Parent does:* Draw a clock face with 60 small marks on a page, with 12 at the top. Put a small star in the middle for the Pole Star. At 8:30 pm, go outside with your grown-up. Find the Pole Star and the Saptarishi. Look at the line from the Pole Star through the pointer stars. Decide which minute-mark it points at, as if it were the minute hand of a clock. Draw the line and write the date.  
   *Parent says:* Think of the line from the Pole Star through the two pointer stars as the minute hand of a clock. Which number does it point at? Draw that line. We will draw it again every week at the same time.  
-  *Child mode:* Draw a clock. Find the Pole Star. Draw the line to the pointer stars.
+  *Child mode:* Find the Pole Star and the pointer stars. Which minute-mark does the line point at? Draw it, or ask your grown-up to draw it.
   - Note: Do the same each week at exactly the same clock time, from the same spot. The line points a different way at different times of night, so the same hour each week matters. If you are not sure of the minute-mark, hold your page up to the sky and compare. In a week the line moves back by about 1 minute-mark. To read the angle well, hold the thread with the weight at arm's length so it hangs straight down through the Pole Star, then use the protractor on your page to copy the angle of the pointer line from it. If a night is cloudy, draw on the next clear night and write the date: the sky shifts about 1 degree a day, so you can still compare. You can also use Stellarium Web, set to your city, and move the date and time to show where the line points. The Saptarishi sits low in the north on autumn and early winter evenings and may be hidden, especially in the south of India. If so, use Cassiopeia, the W-shaped group on the other side of the Pole Star, and draw the line from the Pole Star to the middle point of the W. Use the same group all month. With 2 to 4 children, each child draws their own clock, and then they compare. They can take turns to hold the thread while another draws.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* A week later, at the same time, go out and draw the sky clock again. Compare with the first one. Has the line moved? Which way?  
   *Parent says:* Same time, same spot. Where does the line point tonight? Is it the same as last week, or has it moved?  
-  *Child mode:* Same time, same place. Draw the line again. Has it moved?
+  *Child mode:* Same time, same place. Find the line again. Which minute-mark is it now? Draw it, or write the number.
   - Ask: Did the line move? Which way, and by how much? (good: A little. It moved back.; About one minute-mark anticlockwise.; The stars are rising earlier each night.)
   - Note: Expect the line to move about 1 minute-mark in a week. The stars shift by about 7 degrees in a week, and a minute-mark is 6 degrees. It is easy to be a mark out by eye, so the month total is more reliable than any one week. The pointer stars move anticlockwise round the Pole Star. It is a small shift, so measure carefully.
   - Wait: Wait 7 days before the second drawing.
 - **s3 (24 min) · grown-up needed**  
   *Parent does:* Repeat the drawing at the same time on day 15 and on day 22. Each time, write the date and compare with the one before.  
   *Parent says:* Two more times. The line should keep moving in the same direction. Do you see a pattern? How many minute-marks after three weeks?  
-  *Child mode:* Draw the line on day 15 and day 22. Compare each with the last.
+  *Child mode:* On day 15 and day 22, find the minute-mark again. Draw it, or write the number. Compare each with the last.
   - Note: Expect the line to have moved back about 3 to 4 minute-marks after three weeks. If the sky is cloudy on the night, use Stellarium Web with the date set, to see where the line would be.
   - Wait: Wait 7 days between each drawing.
 - **s4 (14 min) · grown-up needed**  
@@ -500,8 +500,8 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
 - **general:** Measure a baseline of 10 metres between points A and B. Choose a scale that fits your paper: 1 centimetre for 1 metre if the thing is within about 25 metres, or 1 centimetre for 2 metres if it is farther. Draw the baseline on the paper. At each end, draw a line towards the thing, then see where the two lines meet.; Make the baseline long compared with the distance. A baseline of about one-third of the distance works well.; Take your measurement three times and use the middle one, because one try can be a fluke.
 - **creative:** Use two photos taken from the two ends, and see how far the thing shifts against the background, as the pencil did in the Jump of Your Thumb experiment.; Use a longer baseline for a farther thing, as astronomers use the whole width of the Earth's orbit for a star.; Pick a thing whose real distance a grown-up can find on a map, and test how close you can get.
 - **s1 (6 min)**  
-  *Parent does:* Read the problem. Choose a far thing and decide on a baseline. Sketch the plan. Ask your child to guess the distance first.  
-  *Parent says:* Surveyors found the distance across India this way. In 1802 they started the great survey near Chennai by measuring one baseline of several kilometres, and building triangles from it. How far do you think the tree is?  
+  *Parent does:* Read the problem. Choose a far thing. Choose two spots, A and B, a few metres apart, and measure the gap. This is your baseline. Ask your child to guess the distance first.  
+  *Parent says:* Surveyors measure far distances with triangles. They start from one short line they can measure. How far do you think the tree is?  
   *Child mode:* Pick a far tree or tank. How far do you think it is? Guess.
   - Ask: How could a triangle help you find a distance you cannot measure? (good: If I know one side and two angles, I can draw the triangle.; I can draw it small on paper and measure.; The two lines from the ends meet at the tree.)
 - **s2 (12 min) · grown-up needed**  
@@ -517,8 +517,8 @@ That night on the terrace of Leela's building, Dhruva stood high above the water
   - Check: On your scale drawing, 1 centimetre stands for 2 metres. The crossing point is 19 centimetres from a. How far is the tree from spot A? → **About 38 metres**
 - **s4 (10 min)**  
   *Parent does:* Check your answer. A grown-up measures the distance on a map or by pacing. Work out how many metres you were out and what fraction of the distance. Talk about what would make the answer better.  
-  *Parent says:* How close were we? Out by a few metres is very good. What could we change next time? A longer baseline? More careful aiming?  
-  *Child mode:* How close were you? What would you change next time?
+  *Parent says:* Out by a few metres is very good. A longer baseline or more careful aiming could make it closer.  
+  *Child mode:* Compare your answer with the real distance.
   - Ask: What would give a more accurate answer next time? (good: A longer baseline.; Aiming the ruler more carefully.; Taking the measurement three times.)
   - Note: Any answer within 20 percent is a good result for the first attempt. If your answer was far out, check that the board did not turn between sights and that the baseline was measured straight.
 

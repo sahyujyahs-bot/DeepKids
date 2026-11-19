@@ -427,7 +427,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each card describes a circuit and asks what happens. You say what you think and why, then check the back.",
+   "context": "This is a card game. Each card describes a circuit and asks what happens. You say what you think and why, then check the back. You will find out which circuits light a bulb, and why.",
    "setup": [
     {
      "art": "Twenty-four cards in a shuffled pile in the middle of a table, with a score sheet and pencil beside it.",
@@ -586,16 +586,16 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Play the next 16 cards. Keep the scores. If a card is hard, draw the circuit on paper to work it out.",
-     "say": "Keep going. If a card is hard, draw the circuit with the symbols. Is the bulb in a row, or side by side? Can the current find a whole loop?",
-     "kid": "Keep playing. Draw the circuit if a card is hard.",
+     "do": "Play the next 16 cards. Keep the scores. If a card is hard, build it with the circuit parts, or draw it on paper, to work it out.",
+     "say": "Keep going. If a card is hard, build it with the parts, or draw it with the symbols. Is the bulb in a row, or side by side? Can the current find a whole loop?",
+     "kid": "Keep playing. If a card is hard, build or draw the circuit.",
      "context": "In this step, you play the rest of the cards and draw circuits to help."
     },
     {
      "id": "s4",
      "mins": 3,
      "do": "Add up the scores. Ask which card was the hardest, and why. Put the cards the child got wrong back in the pile and try them again.",
-     "say": "Add up the points. Which card was hardest? What would you draw to work it out? Let us try the hard ones again.",
+     "say": "Add up the points. Which card was hardest? How would you work it out? Let us try the hard ones again.",
      "kid": "Add up your points. Try the hard cards again.",
      "context": "This is the last step of Circuit Detectives. You count points and replay the hard cards."
     }
@@ -649,8 +649,8 @@
     }
    ],
    "safety": "Use only AA cells, never a wall socket or a plug. Disconnect the cells after each test. Bulbs can be warm after a minute, so touch only the holders. Do not use cells that look swollen or leaking.",
-   "record": "For each layout, write the score of each bulb from 0 to 5, and what the others did when you unscrewed one. Then draw a bar chart with one bar for each layout.",
-   "context": "In this experiment, you light bulbs in different layouts on the same two cells, and find out how bright each one is.",
+   "record": "For each layout, write the score of each bulb from 0 to 5, and what the others did when you unscrewed one. Then show the scores as a bar chart, one bar for each layout: draw it, or stack blocks.",
+   "context": "In this experiment, you light bulbs in different layouts on the same two cells, and find out how bright each one is. You will find out why a string of festival lights can go dark when one bulb fails.",
    "setup": [
     {
      "art": "A cell holder with two AA cells, one torch bulb in a holder and two wires making a loop, the bulb glowing brightly on a table in a dim room.",
@@ -679,10 +679,10 @@
      "mins": 5,
      "do": "Show your child the cells, the three bulbs and the wires. Ask for a guess about each layout before you build anything. Write each guess as a score from 0 to 5 in the table.",
      "say": "We will light one bulb, then two in a row, then three in a row. Then we will put bulbs side by side. How bright will each be, compared with one bulb alone? Why do you think so?",
-     "kid": "Guess first. Will two bulbs be dimmer? Will three? Say why.",
+     "kid": "Guess first. Will two bulbs in a row be dimmer than one? Will three?",
      "ask": [
       {
-       "q": "Why do you think two bulbs in a row will be that bright?",
+       "q": "Why do you think so?",
        "good": [
         "Two bulbs need more electricity, so each gets less.",
         "They share the cell.",
@@ -706,8 +706,8 @@
      "id": "s3",
      "mins": 7,
      "do": "Join a second bulb into the same loop, so the electricity goes through one bulb and then the other. Score each bulb from 0 to 5. Write whether the two look the same.",
-     "say": "Put the second bulb in the same loop, one after the other. Is it brighter or dimmer than the single bulb? Is the first bulb brighter than the second? Why do you think so?",
-     "kid": "Add a second bulb in the same loop. Score both bulbs. Is the first one brighter?",
+     "say": "Put the second bulb in the same loop, one after the other. Is it brighter or dimmer than the single bulb? Is the first bulb brighter than the second?",
+     "kid": "Add a second bulb in the same loop. Score both bulbs.",
      "ask": [
       {
        "q": "What do you notice about the first bulb and the second bulb?",
@@ -793,9 +793,9 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "Ask your child to say what they thought (claim), what they saw (evidence), and why (reasoning). Write one line for each. Then ask them to draw both circuits.",
+     "do": "Ask your child to say what they thought (claim), what they saw (evidence), and why (reasoning). Write one line for each. Then ask them to show both circuits: build them again, or draw them.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Say what you thought, what you saw, and why. Then draw both circuits.",
+     "kid": "Say what you thought, what you saw, and why. Then show both circuits: build them again, or draw them.",
      "parent": "A strong answer says the same flow goes through every bulb in the row and the cells' push is shared between them, so each bulb gets less. Side by side, each bulb has its own path and gets the whole push. After they have said what they saw, explain it. Two bulbs make the path harder, so less flow goes round, and each bulb gets about half of the 3 volts. Side by side, each bulb gets all 3 volts, but the cells give out twice as much flow, so they run down about twice as fast.",
      "think": "If the first bulb in a row does not use up the electricity, what makes the bulbs dim?",
      "context": "This is the last step of Bulb Teams. You explain your results."
@@ -842,8 +842,8 @@
     }
    ],
    "safety": "A coin cell can badly hurt a child who swallows it. A grown-up holds it and keeps it away from children under five. Put it back in its packet and tape the packet when you have finished. Never join an LED straight to two AA cells, because the current is too big and the LED burns out.",
-   "record": "In the table, write what the bulb did and what the LED did with the cell each way round. Draw an LED and mark which leg is plus.",
-   "context": "In this experiment, you test whether a bulb and an LED care about which way round the cell is joined.",
+   "record": "In the table, write what the bulb did and what the LED did with the cell each way round. Draw an LED and mark which leg is plus, or take a photo of it.",
+   "context": "In this experiment, you test whether a bulb and an LED care about which way round the cell is joined. You will find out why some parts of a circuit must go in the right way round.",
    "setup": [
     {
      "art": "A bulb circuit with the cells joined one way and, beside it, the same circuit with the cell holder turned round, both bulbs glowing equally.",
@@ -896,7 +896,7 @@
      "mins": 6,
      "do": "A grown-up holds the coin cell. Look at the LED. Find the long leg and the short leg. Touch the long leg to the cell's flat side marked plus. Touch the short leg to the other face of the cell. Write down what you see.",
      "say": "Hold the LED by its legs. One leg is longer. Touch the long leg to the plus face of the cell. Touch the short leg to the other face. What happens?",
-     "kid": "A grown-up holds the cell. Touch the long leg to the plus face and the short leg to the minus face. What happens?",
+     "kid": "A grown-up holds the cell. Touch the long leg to the plus face. Touch the short leg to the minus face. What happens?",
      "adult": true,
      "parent": "The long leg is the plus leg. The coin cell has a plus face with writing on it and a flat minus face. If nothing happens, check the legs are touching the faces and not each other. A fresh coin cell typically gives a clear red glow. Keep the bent legs off the metal rim of the cell, because the rim joins to the plus face and the LED would be shorted and stay dark. If it is still dark, try the other LED or a new coin cell. With 2 to 4 children, only the grown-up holds the cell: the children take turns as the one who turns the LED, the one who records, and the one who draws. Put the cell back in its packet when you are finished.",
      "context": "In this step, you light an LED from a coin cell, one way round."
@@ -905,7 +905,7 @@
      "id": "s4",
      "mins": 4,
      "do": "Turn the LED round, so the long leg touches the minus face and the short leg touches the plus face. Watch it. Turn it back. Do this twice. Write down what you see each time.",
-     "say": "Now turn the LED round the other way. Does it light? Turn it back. Is anything damaged? What does this tell you about how the electricity moves through an LED?",
+     "say": "Now turn the LED round the other way. Does it light? Turn it back. Is anything damaged?",
      "kid": "Turn the LED round. Does it light? Turn it back.",
      "adult": true,
      "parent": "The LED will not light the wrong way round, and it is not damaged. The wrong way round stops the current.",
@@ -935,9 +935,9 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Ask your child to say what they thought, what they saw, and why. Tell them that the arrow in circuit diagrams is a guess from 1747. Ask which way they think the electrons go.",
+     "do": "Ask your child to say what they thought, what they saw, and why. Tell them that in 1747 Benjamin Franklin guessed that electricity flows from plus to minus. We now know the electrons in a wire go the other way.",
      "say": "Tell me three things. What did you think? What did you see? Why do you think it happened? Which part does not care which way round the cell is, and which part does?",
-     "kid": "Say what you thought, what you saw, and why. Draw an LED with its long leg marked plus.",
+     "kid": "Say what you thought, what you saw, and why. Then point to the LED leg that goes to plus.",
      "parent": "A strong answer says the bulb's thin wire heats whichever way the current goes, but an LED has a special material inside that lets current through one way only. After they have answered, tell them that the arrow in a diagram, from plus to minus, was guessed by Benjamin Franklin in 1747. The electrons in a wire go the other way.",
      "think": "If a bulb works both ways, but an LED works one way, what must be different inside an LED?",
      "context": "This is the last step of Which Way Round. You explain your results."
@@ -964,7 +964,7 @@
    ],
    "schedule": [],
    "record": "Keep your diagrams. Stick them in your notebook next to a photo of each circuit.",
-   "context": "In this activity, you learn the four symbols used in circuit diagrams and draw the circuits that you built.",
+   "context": "In this activity, you learn the four symbols used in circuit diagrams and draw the circuits that you built. You will find out how an engineer can send a circuit on paper so that anyone can build it.",
    "setup": [
     {
      "art": "Four circuit symbols drawn large on a sheet of paper, each with its name written underneath: cell, bulb, switch, wire.",
@@ -983,9 +983,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show the four symbols on a piece of paper: cell, bulb, switch and wire. Say what each one means. Ask your child to copy each symbol twice.",
+     "do": "Show the four symbols on a piece of paper: cell, bulb, switch and wire. Say what each one means. Then lay out the real parts and ask your child to point to the part for each symbol.",
      "say": "Engineers draw circuits with the same four symbols all over the world. A cell is a long line and a short fat line. The long line is the plus end. A bulb is a circle with a cross. A switch is a gap with a lever. A wire is a straight line.",
-     "kid": "Learn four symbols. Cell, bulb, switch, wire. Copy each one twice.",
+     "kid": "Learn four symbols. Cell, bulb, switch, wire. Point to the real part for each symbol.",
      "ask": [
       {
        "q": "Which end of the cell is the long line?",
@@ -1054,8 +1054,8 @@
    ],
    "schedule": [],
    "safety": "A grown-up shaves the pencil with a blade, cutting away from their body, on a table, with the pencil held flat. Children do not use the blade. Keep the bare lead away from clothes: it marks them.",
-   "record": "Draw the circuit and write what the bulb did when the clip was near and when it was far.",
-   "context": "In this activity, you use a pencil lead as a wire and slide a clip along it to dim a bulb.",
+   "record": "Write what the bulb did when the clip was near and when it was far. Take a photo of the circuit, or draw it.",
+   "context": "In this activity, you use a pencil lead as a wire and slide a clip along it to dim a bulb. You will find out how a dimmer or a fan regulator works.",
    "setup": [
     {
      "art": "A pencil with the wood shaved from one side to show a strip of dark lead, held by a grown-up's hand, with a blade lying safely to the side.",
@@ -1134,8 +1134,8 @@
    ],
    "schedule": [],
    "safety": "A grown-up does all of this activity. The strand gets very hot and can burn skin and set paper alight. Use a metal tray, keep paper and cloth away, and have a bowl of water ready. Never do this with a wall socket, plug or phone charger. Sparks and tiny hot bits can fly, so the adult keeps their face back, children watch from arm's length, and everyone stays at least one step from the tray. Steel wool fibres can stick in skin like splinters, so wash hands afterwards. The battery and the used strand stay hot for a minute.",
-   "record": "Draw the strand before and after, and write one sentence about why a fuse is a thin wire.",
-   "context": "In this activity, a grown-up shows how a thin wire heats up and melts first, as a fuse does.",
+   "record": "Take a photo of the strand before and after, or draw it. Write one sentence about why a fuse is a thin wire.",
+   "context": "In this activity, a grown-up shows how a thin wire heats up and melts first, as a fuse does. You will find out why a fuse is made of thin wire.",
    "setup": [
     {
      "art": "A metal tray on a table with a 9 volt battery, three thin strands of steel wool, and a bowl of water, with nothing flammable near.",
@@ -1209,8 +1209,8 @@
     }
    ],
    "schedule": [],
-   "record": "Draw the ring and the two lanes as circuit diagrams, and mark where the break was.",
-   "context": "In this activity, you act out a series circuit and a parallel circuit, and see what a break does to each.",
+   "record": "Draw the ring and the two lanes as circuit diagrams and mark the break, or take a photo and say where the break was.",
+   "context": "In this activity, you act out a series circuit and a parallel circuit, and see what a break does to each. You will find out why festival lights behave differently when one bulb breaks.",
    "setup": [
     {
      "art": "Five children standing in a ring, passing a small bag from one to the next, one child labelled cell and four labelled bulb.",
@@ -1239,8 +1239,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Make a ring. Pass one bag of beans from the cell, through each bulb in turn, and back to the cell. Everyone holds their hands out when the bag arrives. Now one bulb sits down and refuses to pass the bag. Watch what happens to the ring.",
-     "say": "This ring is a series circuit. The bag goes round, bulb to bulb. Now one bulb sits down. What happens to the bag? What happens to the others?",
-     "kid": "Make a ring. Pass the bag round. One bulb sits down. What happens?",
+     "say": "This ring is a series circuit. The bag goes round, bulb to bulb. Now one bulb sits down.",
+     "kid": "Make a ring. Pass the bag round. Then one bulb sits down.",
      "ask": [
       {
        "q": "What happened when one person sat down?",
@@ -1257,9 +1257,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Now make two lanes from the cell to a finish line and back, one bulb in each lane. The cell hands out two bags at the same time, one for each lane. One bulb sits down. Watch the other lane. Count how many beans the cell hands out in 30 seconds, first in the ring and then with the two lanes.",
-     "say": "Now each bulb has its own lane. The cell hands a bag to each lane. One bulb sits down. What does the other lane do? What is the cell doing now compared with before?",
-     "kid": "Make two lanes. One bulb sits down. What does the other lane do?",
+     "do": "Now make two lanes from the cell to a finish line and back, one bulb in each lane. The cell splits the beans into two bags and hands one to each lane at the same time. One bulb sits down. Watch the other lane. Count how many bags the cell sends out in 30 seconds, first in the ring and then with the two lanes.",
+     "say": "Now each bulb has its own lane. The cell hands a bag to each lane. One bulb sits down. What does the other lane do?",
+     "kid": "Make two lanes. One bulb sits down. What does the other lane do? Count the bags the cell sends out.",
      "ask": [
       {
        "q": "What is different for the cell now?",
@@ -1324,7 +1324,7 @@
    "safety": "Use only AA cells. Keep the two rails apart so they never touch. Keep small parts such as drawing pins away from children under five. If the rails touch, the wires and cells may get warm: open the switch and move the rails apart at once. Open the switch when you are not testing, because the cells run down fast.",
    "schedule": [],
    "record": "Keep the circuit diagram. Write a table of the two strings: brightness, and what the others do when one is unscrewed.",
-   "context": "In this project, you build a small festival string where each bulb has its own path, and compare it with a string wired in a row.",
+   "context": "In this project, you build a small festival string where each bulb has its own path, and compare it with a string wired in a row. You will find out which string is better to hang across a lane.",
    "setup": [
     {
      "art": "A circuit diagram on paper showing a cell, a switch in the main wire, and three bulbs on three branches side by side.",
@@ -1343,9 +1343,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Draw a circuit diagram of the string you will build. It has a cell holder, a switch, and three bulbs side by side. Put the switch in the main wire. Check that each bulb has its own path.",
-     "say": "We will build a small festival string where each bulb has its own path. First draw it with symbols. Put the switch where it can turn all three off at once. Where must it go?",
-     "kid": "Draw your string with symbols. Three bulbs side by side. One switch for all.",
+     "do": "Plan the string you will build: draw a circuit diagram, or lay the parts out on the table. It has a cell holder, a switch, and three bulbs side by side. Put the switch in the main wire. Check that each bulb has its own path.",
+     "say": "We will build a small festival string where each bulb has its own path. First draw it with symbols. Put the switch where it can turn all three off at once.",
+     "kid": "Plan your string: draw it with symbols, or lay out the parts. Three bulbs side by side. One switch for all.",
      "ask": [
       {
        "q": "Where does the switch go so that it turns all three bulbs off at once?",
@@ -1429,8 +1429,8 @@
     "A light that comes on when a door is open and it is dark, using a switch for the door and a light-sensitive part in a row (a light-sensitive part is hard to buy, so draw this one).",
     "A three-door alarm: a bulb that lights if any one of three doors is opened."
    ],
-   "your_turn": "Invent a problem for your family: a rule about when a light should come on. Draw a circuit for it. Build it and test every combination. Which switches ended up in a row, and which side by side?",
-   "context": "This is a design challenge about switches. You make circuits that follow the rules 'both are needed' and 'either is enough'.",
+   "your_turn": "Invent a problem for your family: a rule about when a light should come on. Draw a circuit for it, or just build it. Test it and test every combination. Which switches ended up in a row, and which side by side?",
+   "context": "This is a design challenge about switches. You make a door bell that rings from either door, and a safe light that comes on only when both keys are turned.",
    "setup": [
     {
      "art": "A circuit diagram of a bulb, a cell, and two switches in one loop, one after the other.",
@@ -1449,9 +1449,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the two problems together. Ask your child to sketch a circuit for each, using symbols, before they build anything.",
+     "do": "Read the two problems together. Before building, ask your child to sketch a circuit for each, using symbols. They can say how they would join the switches instead.",
      "say": "Here are two problems. A bell must ring when the front door button or the back door button is pressed. A safe light must come on only when two keys are both turned. Sketch a circuit for each.",
-     "kid": "Two problems. Sketch a circuit for each, with symbols.",
+     "kid": "Two problems. Sketch each circuit, or say how you would join the switches.",
      "ask": [
       {
        "q": "Which problem needs both switches, and which needs either?",
@@ -1496,8 +1496,8 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "Ask your child to design a third circuit of their own and test it. Then ask what computers do with millions of such switches.",
-     "say": "Now design your own. For example, a light that comes on when a door is open and it is dark. Which switches go in a row? Which go side by side?",
+     "do": "Ask your child to design a third circuit of their own and test it.",
+     "say": "Now design your own. For example, a light that comes on when a door is open and it is dark. Use two plain switches to stand for the door and the dark. Which switches go in a row? Which go side by side?",
      "kid": "Design your own switch circuit. Test it. Which switches are in a row?",
      "parent": "Claude Shannon showed in 1937 that switch circuits like these can do logic. Computer chips join millions of tiny switches in rows and side by side.",
      "context": "In this step, you design your own switch circuit."

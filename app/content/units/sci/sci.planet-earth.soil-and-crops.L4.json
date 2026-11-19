@@ -741,8 +741,8 @@
         {
           "id": "s1",
           "mins": 3,
-          "do": "Cut out the cards and tokens. Draw a nitrogen bank circle for each player. Put 4 tokens in each bank. Deal 3 cards each.",
-          "say": "We are farmers for eight seasons. Each of us has a field with a bank of nitrogen. Some crops spend the bank. Some fill it up.",
+          "do": "Cut out the cards and tokens. Draw a circle for each player's nitrogen bank, or use a small plate. Put 4 tokens in each bank. Deal 3 cards each.",
+          "say": "We are farmers for eight seasons. Each of us has a field with a bank of nitrogen, the plant food in the soil. Some crops spend the bank. Some fill it up.",
           "kid": "Make your bank circle. Put in 4 tokens. Take 3 cards.",
           "context": "This is the first step of Soil Bank, a card game about crops and nitrogen."
         },
@@ -788,7 +788,7 @@
           "mins": 3,
           "do": "Stop after season 4. Look at every bank. Compare the banks of players who played only cereals with the banks of players who mixed in pulses.",
           "say": "We are halfway through. Whose bank is fullest? Who played what? What do you notice?",
-          "kid": "Compare the banks. Whose is fullest? What did they play?",
+          "kid": "Look at every bank. Count the tokens in each.",
           "ask": [
             {
               "q": "What do the fullest banks have in common?",
@@ -982,7 +982,7 @@
           "mins": 4,
           "do": "Talk about the game. Pick the card that was hardest to guess. Say why.",
           "say": "Which clue was the hardest? What question helped most?",
-          "kid": "Which card was hardest? What question helped?",
+          "kid": "Think of the hardest card. Tell the others why it was hard.",
           "ask": [
             {
               "q": "Which kind of question helped you most?",
@@ -1075,14 +1075,14 @@
           "what": "Look again the next morning and measure the final wet line."
         }
       ],
-      "record": "Fill in the table at each time. Then draw the three cups with their wet lines at 60 minutes. Write which cup was wet to the top first and which stayed mostly dry.",
+      "record": "Fill in the table at each time. Then take a photo of the three cups at 60 minutes, or draw them with their wet lines. Write which cup was wet to the top first and which stayed mostly dry.",
       "flow": [
         {
           "id": "s1",
           "mins": 5,
           "do": "Spread a little of each dry material on a plate. Look closely and feel each one. Ask for a guess and a reason, and write it down.",
           "say": "Here are gravel, sand and fine soil, all dry. We will stand each in a little water. How high will the water climb? How fast? Why do you think so?",
-          "kid": "Look at the gravel, the sand and the fine soil. In which one will the water climb highest? Why?",
+          "kid": "Look closely at the gravel, the sand and the fine soil. Feel each one. Which has the biggest gaps between the grains?",
           "ask": [
             {
               "q": "Why do you think that one will let the water climb best?",
@@ -1101,7 +1101,7 @@
           "mins": 7,
           "do": "Ask a grown-up to make five small holes in the bottom of each cup. Lay a cloth circle inside each cup. Draw a line every centimetre up the outside with the marker.",
           "say": "Fine grains must not fall out of the holes, so the cloth goes in first. The lines on the side are our ruler.",
-          "kid": "A grown-up makes holes in the bottom of each cup. Put a cloth circle inside. Draw lines up the side.",
+          "kid": "Watch a grown-up make holes in the bottom of each cup. Put a cloth circle inside. Draw a line every centimetre up the side.",
           "adult": true,
           "parent": "Use the nail to make the holes. Press it through slowly, over a towel. The cloth stops the soil falling out but still lets water in. Mark the cups A for gravel, B for sand and C for fine soil.",
           "context": "In this step you make three cups that can sit in water and show the wet line on their sides."
@@ -1182,7 +1182,7 @@
           "context": "This step asks you to say what you found, what you saw and why. Scientists call it claim, evidence and reasoning."
         }
       ],
-      "context": "In this experiment you stand cups of gravel, sand and fine soil in a tray of water. You watch how far and how fast the water climbs through the gaps between the grains.",
+      "context": "In this experiment you stand cups of gravel, sand and fine soil in a tray of water. You watch how far and how fast the water climbs through the gaps between the grains. You will find out which soil lets water rise highest, which decides how well a plant's roots can drink.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results",
@@ -1317,14 +1317,14 @@
           "what": "Count the rinsed seeds that have sprouted. Fill in the last column and talk about the results."
         }
       ],
-      "record": "Fill in the table after each count. A seed has sprouted when a tiny white root is at least 2 millimetres long. Draw the four saucers on day 3.",
+      "record": "Fill in the table after each count. A seed has sprouted when a tiny white root is at least 2 millimetres long. Take a photo of the four saucers on day 3, or draw them.",
       "flow": [
         {
           "id": "s1",
           "mins": 4,
           "do": "Show the four saucers and the salt. Say that the water will have different amounts of salt. Ask for a guess and a reason. Write it down.",
           "say": "We have four saucers, each with a different water. One has no salt. One has a pinch. One has half a teaspoon. One has a whole teaspoon. How many seeds will sprout in each? Why do you think so?",
-          "kid": "Four saucers have water with different amounts of salt. How many seeds will sprout in each? Why?",
+          "kid": "Look at the four saucers and the salt. Think about which saucer will sprout the most seeds.",
           "ask": [
             {
               "q": "Why do you think salt might change how seeds sprout?",
@@ -1414,7 +1414,7 @@
           "context": "This step asks you to say what you found, what you saw and why."
         }
       ],
-      "context": "In this experiment you sprout moong seeds in plain water and in water with different amounts of salt. You find out how much salt stops seeds from sprouting.",
+      "context": "In this experiment you sprout moong seeds in plain water and in water with different amounts of salt. You find out how much salt stops seeds from sprouting. This shows why farmers cannot grow crops in very salty soil.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results",
@@ -1528,14 +1528,14 @@
           "what": "Measure again, then talk about the results."
         }
       ],
-      "record": "Fill in the table each day. Draw the three cups on day 4 with the dark damp soil and the pale dry layer.",
+      "record": "Fill in the table each day. Take a photo of the three cups on day 4, or draw them with the dark damp soil and the pale dry layer.",
       "flow": [
         {
           "id": "s1",
           "mins": 3,
           "do": "Show the three cups, the soil and the leaves. Ask for a guess and a reason, and write it down.",
           "say": "Three cups of the same soil, in the same Sun. One gets a cover of dry leaves, one stays bare and one has loose soil on top. Some farmers loosen the top of their soil with a hoe, and they say it saves water. That is why one cup has loose soil. Which cup dries out most? Why do you think so?",
-          "kid": "Three cups hold the same soil. One is covered with dry leaves, one is bare and one is loosened. Which will dry out most? Why?",
+          "kid": "Look at the three cups of the same soil. One has dry leaves on top. One is bare. One has loose soil on top.",
           "ask": [
             {
               "q": "Why do you think the leaves will make a difference?",
@@ -1573,7 +1573,7 @@
           "id": "s3",
           "mins": 2,
           "do": "Put the three cups side by side in the same sunny place. Do not move them.",
-          "say": "All the cups get the same Sun and the same wind. Now we wait one day.",
+          "say": "All the cups get the same Sun and the same wind. Now we wait and look each day.",
           "kid": "Put the cups in the sun. Do not move them.",
           "wait": "Leave the cups in the Sun until tomorrow."
         },
@@ -1617,7 +1617,7 @@
           "context": "This step asks you to say what you found, what you saw and why."
         }
       ],
-      "context": "In this experiment you compare three cups of damp soil in the Sun, to see how a cover of leaves changes how fast the soil dries.",
+      "context": "In this experiment you compare three cups of damp soil in the Sun, to see how a cover of leaves changes how fast the soil dries. You will find out why gardeners and farmers put leaves on the soil.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results (day 2, 3 and 4)",
@@ -1759,11 +1759,11 @@
           "mins": 2,
           "do": "Write what you found in the table. Ask: which of these soils would hold the most water, and which would drain the fastest?",
           "say": "Which soil would hold the most water in a pot? Which would let it run through? How can you tell by feel?",
-          "kid": "Which soil would hold the most water? Which would drain the fastest?",
+          "kid": "Use what you felt in your hands. Which soil would hold the most water? Which would let it run through?",
           "parent": "Clay holds the most water and drains slowest. Sand drains fastest. The garden soil is in between."
         }
       ],
-      "context": "In this activity you wet three soils until each is like soft dough, then squeeze them into balls and ribbons. The feel of each soil tells you how much sand, silt and clay it has.",
+      "context": "In this activity you wet three soils until each is like soft dough, then squeeze them into balls and ribbons. The feel of each soil tells you how much sand, silt and clay it has. You will find out how to tell sandy soil from sticky clay soil with just your hands.",
       "setup": [
         {
           "art": "Three small piles on a plate: sand, pot soil and a smooth clay paste, each with a few drops of water being added.",
@@ -1809,13 +1809,13 @@
           "what": "Write twelve crop cards, sort them by what they do to nitrogen, and plan a rotation."
         }
       ],
-      "record": "Your three columns of crops, and your four-season plan for one field.",
+      "record": "Your three columns of crops, and your eight-season plan for one field.",
       "flow": [
         {
           "id": "s1",
           "mins": 5,
           "do": "Write one crop on each paper square: rice, wheat, maize, sugarcane, cotton, ragi, bajra, moong, urad, chana, groundnut, red gram.",
-          "say": "Write one crop on each square. Some of these take a lot from the soil. Some give to it. Some ask for little.",
+          "say": "Write one crop on each square. Plants take a food called nitrogen from the soil. Some of these crops take a lot of it. Some give it back. Some ask for little.",
           "kid": "Write one crop on each square.",
           "context": "This is the first step of Takers and Givers. You make twelve crop cards."
         },
@@ -1823,7 +1823,7 @@
           "id": "s2",
           "mins": 8,
           "do": "Fold a sheet into three columns: Takes a lot of nitrogen, Gives nitrogen, and Needs little. Put each card in the column you think is right. Ask for the reason as you go.",
-          "say": "Where does each crop go? Which are the legumes? Which are the cereals that grow tall and fast? Which grow even in poor soil?",
+          "say": "Where does each crop go? Which are the legumes, the plants with pods like moong? Which are the cereals that grow tall and fast? Which grow even in poor soil?",
           "kid": "Sort the cards into three columns. Say why.",
           "ask": [
             {
@@ -1838,7 +1838,7 @@
           "parent": "The answers are these. Takes a lot: rice, wheat, maize, sugarcane, cotton. Gives: moong, urad, chana, groundnut, red gram. Needs little: ragi and bajra. Legumes have seeds in pods. The millets are tough crops that grow well in poor, dry soil.",
           "check": {
             "t": "mcq",
-            "q": "Which of these crops fixes nitrogen with bacteria in her roots?",
+            "q": "Which of these crops puts nitrogen back into the soil?",
             "options": [
               "Wheat",
               "Groundnut",
@@ -1906,7 +1906,7 @@
           "what": "Wash the roots, find the nodules, cut one open and look at the colour inside."
         }
       ],
-      "record": "Draw the roots with the nodules on them. Draw one cut nodule and colour the inside.",
+      "record": "Take a photo of the roots with the nodules and of one cut nodule. Or draw them and colour the inside.",
       "flow": [
         {
           "id": "s1",
@@ -1965,7 +1965,7 @@
           "parent": "Grasses and cereals have no nodules. They take their nitrogen from the soil."
         }
       ],
-      "context": "In this activity you look for the nodules on the roots of a legume, and cut one open to see if it is working.",
+      "context": "In this activity you look for the nodules on the roots of a legume, and cut one open to see if it is working. You will find out how a bean plant gets help from tiny living things in its roots.",
       "setup": [
         {
           "art": "A whole groundnut plant being dipped in a bowl of water, with soil clouding the water.",
@@ -2009,7 +2009,7 @@
           "id": "s1",
           "mins": 6,
           "do": "Read this made-up card for a field near Thanjavur. Nitrogen is low. Phosphorus is medium. Potassium is high. The pH is 8.1, which is slightly alkaline. Salt is low. Humus is low.",
-          "say": "This is a card for a farmer's field. Nitrogen is low. Phosphorus is medium. Potassium is high. The soil is slightly alkaline. That means it is on the opposite side from acid, like baking soda in water. Salt is low. Humus is low, which means there are few rotted leaves and roots in the soil.",
+          "say": "This is a card for a farmer's field. Nitrogen, a plant food, is low. Phosphorus is medium. Potassium is high. The soil is slightly alkaline. That means it is on the opposite side from acid, like baking soda in water. Salt is low. Humus is low, which means there are few rotted leaves and roots in the soil.",
           "kid": "Read the card. What is low? What is high?",
           "ask": [
             {
@@ -2027,7 +2027,7 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Write what the field needs. Choose from these: grow a pulse, add compost or manure, add urea, leave the field fallow, do nothing. Choose two things and say why.",
+          "do": "Write what the field needs. Choose from these: grow a pulse, add compost or manure, add urea (a bought plant food with nitrogen), leave the field fallow (empty for one season), do nothing. Choose two things and say why.",
           "say": "Which two things would you do for this field? Why? What does each one fix?",
           "kid": "Choose two things for the field. Say why.",
           "parent": "Good answers: grow a pulse to add nitrogen and add compost to raise the humus. Adding some urea is also reasonable for a quick boost of nitrogen. Leaving the field fallow does not add nitrogen. Adding nothing is not wise, because nitrogen and humus are both low. With two to four children, each picks two things alone, then the group argues for the best pair.",
@@ -2047,7 +2047,7 @@
         {
           "id": "s3",
           "mins": 6,
-          "do": "Write your plan in three sentences for the farmer. Say what the card says, what the field needs and what to do.",
+          "do": "Write your plan in three sentences for the farmer, or say it and let your grown-up write it. Say what the card says, what the field needs and what to do.",
           "say": "Write three sentences for the farmer. What does the card say? What does the field need? What should she do?",
           "kid": "Write three sentences for the farmer.",
           "think": "How would the farmer know in two years whether the plan worked?"
@@ -2105,13 +2105,13 @@
           "what": "Look at the cracks and measure them."
         }
       ],
-      "record": "Draw both plates. Write which one cracked, and the width of the widest crack.",
+      "record": "Take a photo of both plates, or draw them. Write which one cracked, and the width of the widest crack.",
       "flow": [
         {
           "id": "s1",
           "mins": 5,
           "do": "Mix 4 tablespoons of multani mitti with water to make a thick paste. Mix 2 tablespoons of multani mitti, 2 tablespoons of sand and water to make a second paste.",
-          "say": "Plate A is all clay. Plate B is half clay and half sand. Which will crack more when it dries? Why do you think so?",
+          "say": "Plate A is all clay. Plate B is half clay and half sand. We will dry both in the Sun.",
           "kid": "Make two pastes. One is all clay. One is half sand.",
           "ask": [
             {
@@ -2137,7 +2137,7 @@
         {
           "id": "s3",
           "mins": 6,
-          "do": "Look at both plates. Measure the widest crack in each with a ruler. Draw what you see.",
+          "do": "Look at both plates. Measure the widest crack in each with a ruler. Take a photo of each plate.",
           "say": "Look at the plates. Which one cracked? How wide is the widest crack? Here is why. Clay holds a lot of water. As the water dries out, the clay shrinks, and the shrinking pulls it apart into cracks. Sand does not shrink, so the sand in plate B stops most of the cracking.",
           "kid": "Look at both plates. Which one cracked?",
           "parent": "The all-clay plate usually cracks into pieces with wide gaps. The sandy plate usually cracks much less, or not at all. If both crack alike, write that down. The cracking is stronger when the paste is thick and dries fast. Multani mitti paste in strong sun usually cracks in a few hours. In a damp or cloudy spell it can take two or three days: leave it longer and keep the plates in the same place. One child with a parent: make the two plates. Two to four children: each child makes a plate with a different mix (all clay, three clay to one sand, one clay to one sand, one clay to three sand) and you line the plates up from most to least cracked.",
@@ -2222,7 +2222,7 @@
           "id": "s2",
           "mins": 6,
           "do": "Pour the same amount of purple liquid into three glasses. Add a spoon of vinegar to one. Add half a spoon of baking soda to another. Leave the third plain. Look at the colours.",
-          "say": "Vinegar is acid. Baking soda is alkaline. What colour does each make? What does the plain glass look like?",
+          "say": "Vinegar is an acid, and it tastes sour. Baking soda is an alkali, the opposite of an acid. What colour does each make? What does the plain glass look like?",
           "kid": "Add vinegar to one glass. Add baking soda to another. Look at the colours.",
           "ask": [
             {
@@ -2240,7 +2240,7 @@
           "id": "s3",
           "mins": 12,
           "do": "Stir a spoon of garden soil into a glass of water. Stir a spoon of wood ash (or chalk powder) into another glass of water. Let both settle for 5 minutes. Pour the clear water on top into two fresh glasses of purple liquid. Compare the colours.",
-          "say": "Which colour does the soil water make? Which does the ash or chalk water make? Compare them with your guide.",
+          "say": "Which colour does the soil water make? Which does the ash or chalk water make? Compare them with the colours in your first three glasses.",
           "kid": "Test the soil water and the ash water. Compare the colours.",
           "parent": "Garden soil water usually stays close to purple, and may lean a little pink or blue. Ash water turns the liquid green or blue-green, because wood ash is alkaline. Some school chalk is gypsum, which is nearly neutral, so chalk water may show little change: if so, say so, and use ash. A soil that fizzes with vinegar has chalk in it. If your soil water changes colour a little, say which side it leans towards.",
           "check": {
@@ -2329,13 +2329,13 @@
           "what": "Measure again, compare the pots and write your result."
         }
       ],
-      "record": "A table with the pot, the number of methi seedlings, the height of the tallest and the leaf colour on days 36 and 43. Draw the two pots on day 43.",
+      "record": "A table with the pot, the number of methi seedlings, the height of the tallest and the leaf colour on days 36 and 43. Take a photo of the two pots on day 43, or draw them.",
       "flow": [
         {
           "id": "s1",
           "mins": 15,
           "do": "Fill both pots with the same poor soil. In pot A, sow 6 moong seeds about 2 centimetres deep. Leave pot B with no seeds. Water both with the same amount, and put them side by side.",
-          "say": "Both pots have the same poor soil. Pot A grows moong. Pot B stays bare. Later we will grow methi in both. Which pot will grow better methi? Why do you think so?",
+          "say": "Both pots have the same poor soil. Pot A grows moong. Pot B stays bare. Later we will grow methi in both.",
           "kid": "Fill two pots with the same soil. Sow moong in pot A. Sow nothing in pot B. Water both.",
           "ask": [
             {
@@ -2354,7 +2354,7 @@
           "id": "s2",
           "mins": 10,
           "do": "Water both pots the same amount every day or two, so the soil stays slightly damp (every day in hot weather). Pull weeds out of both pots. On day 21, pull up one moong plant from pot A. Wash the roots in a bowl. Look for nodules. Cut the rest of the moong at soil level and leave the roots in the pot.",
-          "say": "After three weeks, pull up one moong plant. Look for round bumps on her roots. These are called nodules. Cut the others at the soil and leave the roots in, because roots that rot in the soil add nitrogen to it.",
+          "say": "After three weeks, pull up one moong plant. Look for round bumps on its roots. These are called nodules. Cut the others at the soil and leave the roots in, because roots that rot in the soil add nitrogen to it.",
           "kid": "Pull up one moong plant. Look for round bumps. Cut the rest at the soil.",
           "ask": [
             {
@@ -2391,7 +2391,7 @@
           "mins": 15,
           "do": "On day 43, measure again. Compare the pots. Ask your child for three things: what they think the project showed, what they saw, and why.",
           "say": "What is different between the pots now? What do you think the moong did? How could we be sure?",
-          "kid": "What is different now? What did the moong do?",
+          "kid": "Look at both pots. Count, measure and compare.",
           "parent": "Be honest with your child. Two pots are a small test, and many things can differ. A strong test uses many pots. Ask what they would change to be surer.",
           "check": {
             "t": "mcq",
@@ -2456,14 +2456,14 @@
         "Use two wicks from two sides, to spread the water.",
         "Hang the bottle upside down with a wick running out of the cap."
       ],
-      "your_turn": "Now design your own way. Draw it first. Build it and fill the bottle. Check the soil with the pencil each day. Which design kept the soil damp for three days, and why?",
+      "your_turn": "Now design your own way. Draw it or describe it first. Build it and fill the bottle. Check the soil with the pencil each day. Which design kept the soil damp for three days, and why?",
       "flow": [
         {
           "id": "s1",
           "mins": 8,
-          "do": "Read the problem together. Look at the materials. Ask your child to draw two or three different designs.",
+          "do": "Read the problem together. Look at the materials. Ask your child to draw or describe two or three different designs.",
           "say": "A plant must drink for three days, with no one pouring. What have we learned about how water moves? How can we use it?",
-          "kid": "Draw two or three ways to water the pot without pouring.",
+          "kid": "Think of two or three ways to water the pot without pouring. Draw them, or tell your grown-up.",
           "ask": [
             {
               "q": "In the Water Climb test, what helped the water to climb in the cup of sand?",
@@ -2499,7 +2499,7 @@
           "mins": 15,
           "do": "Choose the design that kept the soil damp best. Ask why. Change one thing and test again, if you have time.",
           "say": "Which design worked best? Why? What would you change to make it better?",
-          "kid": "Which design worked best? Why? What would you change?",
+          "kid": "Pick the design that worked best. Then change one thing and test it again.",
           "think": "How could a wick tell when the plant has had enough?",
           "check": {
             "t": "mcq",
@@ -2565,8 +2565,8 @@
           "id": "s1",
           "mins": 6,
           "do": "Read the problem. Write down the numbers: the bank starts at 4, and every season ends with 1 token added.",
-          "say": "Our bank starts at 4. Every season adds 1 token at the end. Rice takes 3. How low will the bank be after two rice seasons?",
-          "kid": "The bank starts at 4. Rice takes 3. Work out two rice seasons.",
+          "say": "Our bank starts at 4. Every season adds 1 token at the end. Rice takes 3.",
+          "kid": "Use your tokens to show two rice seasons in a row.",
           "ask": [
             {
               "q": "What happens to the bank if you grow rice two seasons in a row?",

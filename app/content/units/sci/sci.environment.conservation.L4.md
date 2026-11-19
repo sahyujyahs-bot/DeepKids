@@ -245,9 +245,9 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 - **Printable tokens: Fish tokens: 24 dried beans, buttons or paper fish:** Fish token: a dried bean, a button or a small paper fish. You need 24.; Villager bowl: a small bowl or a circle on paper for each player to keep their catch.; Year marker: a coin or a bottle cap that moves along the year track.
 - **Printable cards: 12 weather cards, to use from the second game onwards:** Normal year. Nothing changes.; Normal year. Nothing changes.; Normal year. Nothing changes.; Normal year. Nothing changes.; Normal year. Nothing changes.; Normal year. Nothing changes.; Good rains. Add 2 fish to the pond, up to 24.; Good rains. Add 2 fish to the pond, up to 24.; Good rains. Add 2 fish to the pond, up to 24.; Hot summer. Take 2 fish out of the pond, if there are 2 or more.; Hot summer. Take 2 fish out of the pond, if there are 2 or more.; Hot summer. Take 2 fish out of the pond, if there are 2 or more.
 - **s1 (4 min)**  
-  *Parent does:* Draw the pond board. Put 16 fish tokens in the pond. Give each player a bowl. Put the year marker on Year 1.  
+  *Parent does:* Use a plate as the pond. Put 16 fish tokens (beans) in the pond. Give each player a bowl. Put the year marker on Year 1. If 3 or fewer fish are left, the pond is lost.  
   *Parent says:* This pond has 16 fish. We are three villagers, and we all live from this pond. Fish have young every year. Let's find out how many we can catch.  
-  *Child mode:* Draw a pond. Put 16 beans in it. Each player gets a bowl.
+  *Child mode:* Use a plate as the pond. Put 16 beans in it. Each player gets a bowl.
   - Note: Three players works best. With two, one player plays two villagers. Keep the weather cards aside for now. Dried beans can choke a child under five, so keep them away from little ones. With four villagers, use the same 16 fish. It gets tighter, which is part of the lesson. With one child and a parent, the parent plays one villager and the child plays two.
 - **s2 (6 min)**  
   *Parent does:* Play Year 1 with every villager catching 4 fish. Take 12 fish from the pond. Count what is left. Then add 1 new fish for every 2 left.  
@@ -255,7 +255,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
   *Child mode:* Everyone catches 4 fish. Take 12 out. Count what is left. Add new fish.
   - Ask: Next year, if everyone catches 4 again, what will happen to the pond? (good: There are only 6 fish, so 12 cannot be caught.; The pond will be lost, because too few parents are left.; There will be almost no fish left.)
   - Note: Greedy play leaves 4 fish, which breed to 6. The pond is not lost yet, but it is almost empty. Say nothing about what is right. Let the children see the numbers.
-  - Check: After the catch, 10 fish are left in a pond. For every 2 fish, 1 new fish is born. How many fish are in the pond after breeding? → **15 fish**
+  - Check: In another pond, 10 fish are left after the catch. For every 2 fish, 1 new fish is born. How many fish are in the pond after breeding? → **15 fish**
 - **s3 (8 min)**  
   *Parent does:* Reset the pond to 16 fish. Play Years 1 to 4. Each year, everyone holds out a fist, takes the catch, counts and breeds. Write each catch in the table.  
   *Parent says:* Now we play for real. Think about your own bowl, and about the pond. How many fish will you try for this year?  
@@ -283,7 +283,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 - **s1 (4 min)**  
   *Parent does:* Each family draws a farm sheet. Lay out the five variety cards. Each family writes a variety in each of five boxes, and one in the seed jar. Do it in secret.  
   *Parent says:* You are a farm family. Choose what to grow in each of your five fields. You can grow one kind or many. Pick one kind to keep in your seed jar.  
-  *Child mode:* Draw five boxes and a jar. Write a rice in each. Keep it secret.
+  *Child mode:* Make five boxes and a jar on paper. Write a rice in each. Keep it secret.
   - Note: Do not explain the blight yet. Let the children choose without knowing what is coming. You need no special items: use scrap paper for the sheets and cut paper for the cards. Two to four players. Alone, play two families.
 - **s2 (5 min)**  
   *Parent does:* Reveal the farm sheets. Turn over the first trouble card. Rub out the fields it names. Count the grain for each family. Write it in the tally.  
@@ -320,12 +320,12 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 - **s1 (5 min)**  
   *Parent does:* Show your child the jar of beans. Do not say how many there are. Ask for a guess, and a reason for it. Write the guess at the top of the table.  
   *Parent says:* This jar has beans in it, and I know how many. You do not. How many do you think there are? How did you decide?  
-  *Child mode:* Look at the jar. Guess how many beans. Why do you think so?
+  *Child mode:* Look at the jar. Guess how many beans are in it.
   - Ask: How did you decide on your number? (good: I looked at how big the jar is.; I guessed how many would fit in my hand.; I compared it with a jar I know.)
   - Note: A grown-up counts the beans in tens the day before, puts exactly 240 in the jar, and writes the number on a folded slip hidden under the lid. Do not correct the guess. Any guess with a reason is a good start. One child: the parent counts and hides the beans, the child does everything else. Two to four children: one scoops, one counts all the beans (C), one counts the dotted beans (R), one writes the table, and swap roles for each scoop. For a fair race, each pair can use its own jar and then compare averages.
 - **s2 (5 min)**  
   *Parent does:* Scoop one spoonful of beans onto the plate. Count the beans in the scoop. Write the number as M. Put a dot on each bean with the marker.  
-  *Parent says:* We take a scoop of beans and count them. Then we put a dot on each one. This is the number we marked.  
+  *Parent says:* We take a scoop of beans and count them. Then we put a dot on each one. We call this number M, the number we marked.  
   *Child mode:* Scoop some beans. Count them. This is M. Put a dot on each bean.
   - Note: Test your spoon first by scooping from the jar and counting: it should hold about 30 to 45 chickpeas. If it holds fewer than 20 the dots are too few and the estimates swing wildly. If it holds more than 60, use a smaller spoon. M can be any number, as long as you count it exactly.
 - **s3 (4 min)**  
@@ -355,13 +355,13 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 - **predict:** Before you start, guess which cup will grow the tallest sprouts and which the shortest. Why do you think so?
 - **fair test:** The seeds come from the same packet, the cups and paper towels are the same, and each cup gets the same amount of liquid at the same time of day. The cups sit side by side at one window. Only the liquid is different, so any difference comes from the liquid.
 - **safety:** Do not taste any of the liquids. If anyone in the family is allergic to moong or other pulses, a grown-up handles the seeds. Pour the soapy and salty water down the drain at the end, not on garden plants. Wash your hands after touching the towels. A little white fuzz on the paper towel is mould, so do not breathe it in. A grown-up throws away the towels and seeds in a closed bag.
-- **record:** Fill in the table. On day 6, draw one sprout from each cup, side by side, and colour the roots and leaves as they look.
+- **record:** Fill in the table. On day 6, take a photo of the four cups side by side, or draw one sprout from each cup and colour the roots and leaves as they look.
 - **results table:** Cup and liquid | Seeds sprouted by day 3 (out of 10) | Height of the 3 tallest sprouts on day 6 (cm) | What the roots and leaves looked like
 - **schedule:** day 1: Guess. Make the four liquids and set up the four cups with 10 seeds each. (20 min); day 2: Add 1 tablespoon of each liquid to its cup. Look at the seeds. (3 min); day 3: Add 1 tablespoon of liquid. Count how many seeds have a root showing. Write it down. (5 min); day 4: Add 1 tablespoon of liquid to each cup. (3 min); day 5: Add 1 tablespoon of liquid to each cup. (3 min); day 6: Measure the 3 tallest sprouts in each cup. Draw one sprout from each. Say what you think, what you saw and why. (11 min)
 - **s1 (5 min)**  
-  *Parent does:* Show your child the four liquids. Say what is in each one. Ask which cup will grow the tallest sprouts, and why. Write the guess down.  
+  *Parent does:* Tell your child about the four kinds of water you will use. Say what is in each one. Ask which cup will grow the tallest sprouts, and why. Write the guess down.  
   *Parent says:* These are four kinds of water. One is clean tap water. One is the water we rinsed rice in. One has a little washing-up liquid. One has a little salt. Which will grow the best moong? Why?  
-  *Child mode:* Four kinds of water. Which grows moong best? Which grows worst? Why?
+  *Child mode:* Think about the four kinds of water. Which will grow moong best, and which worst?
   - Ask: Why do you think that water will be the best? (good: The rice water has food in it.; Clean water is the best for plants.; Salt is bad for plants, and so is soap.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. People often think rice water will win, and soapy water may surprise them.
 - **s2 (8 min) · grown-up needed**  
@@ -381,7 +381,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
   - Note: In hot weather the towels can dry out in a few hours. If the towel is dry to touch, add the same extra spoon to every cup in the evening, and write it down. In monsoon, if the towels turn slimy or fuzzy, change the towels in every cup the same way. A root is a thin white tip poking out of the seed. Moong usually sprouts in plain water within 2 days. If cup A has not sprouted by day 3, the seeds are old, and the test is not fair. Start again with fresher seeds.
   - Wait: Add a spoon of liquid to each cup every morning, and look closely on day 3.
 - **s5 (11 min)**  
-  *Parent does:* On day 6, measure the 3 tallest sprouts in each cup from the seed to the tip. Write them in the table. Draw one sprout from each cup. Say what you think, what you saw and why.  
+  *Parent does:* On day 6, measure the 3 tallest sprouts in each cup from the seed to the tip. Write them in the table. Take a photo of each cup, or draw one sprout from each. Say what you think, what you saw and why.  
   *Parent says:* Measure the three tallest in each cup. Which cup did best? Which did worst? Was your guess right? Tell me what you think, what you saw and why.  
   *Child mode:* Measure the three tallest sprouts in each cup. Say what you think, what you saw, and why.
   - Note: On day 6, healthy moong sprouts on paper towel are typically about 3 to 8 centimetres tall. Typical results: tap water and rice water are both good, and rice water is often as good or a little better. Soapy water and salty water slow the sprouts, and may stop some seeds. If every cup looks the same, write that down. It may mean the teaspoon was too little to harm moong in 6 days, and you could try 2 teaspoons next time. Rice-washing water is used water that can safely go on plants. Soap and salt should not go on plants.
@@ -391,12 +391,12 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 - **predict:** Before you start, guess the order of the four, from the fastest to let the water through to the slowest. Why do you think so?
 - **fair test:** Each funnel is cut from the same kind of bottle, plugged with the same cloth and filled to the same height. You pour the same 100 millilitres in the same way and start timing at the same moment. Only the material is different, so any difference comes from the material.
 - **safety:** A grown-up cuts the bottles with scissors or a knife. Rub the cut edge with a spoon handle so it is not sharp. Do the experiment on a tray or in a sink, as it will drip. Wash your hands after touching the soil.
-- **record:** Fill in the table. Draw the four funnels in a row with a line showing the height of the material, and draw blue arrows to show how much water came out of each.
+- **record:** Fill in the table. Take a photo of the four glasses in a row, or line them up and write the amount of water under each one.
 - **results table:** Funnel and material | Time for the first drip (seconds) | Water collected after 3 minutes (millilitres) | Water still held in the material (millilitres)
 - **s1 (5 min)**  
   *Parent does:* Show your child the four materials. Ask them to put the four in order, from the fastest to let water through to the slowest. Write the order down, and the reason for it.  
   *Parent says:* Here are stones, sand, loose soil and pressed-down soil. We will pour the same water on each. Which lets water through the fastest? Which the slowest? Why?  
-  *Child mode:* Stones, sand, soil, pressed soil. Which lets water through fastest? Why?
+  *Child mode:* Put the four in order, from fastest to slowest.
   - Ask: Why do you think that one will be the fastest? (good: Stones have big gaps between them.; Sand is loose.; Soil is soft, so water will go through easily.)
   - Note: Do not correct the guess. Many children think soil will be fastest, because it is the 'real' ground.
 - **s2 (8 min) · grown-up needed**  
@@ -439,8 +439,8 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
   - Think: How is the answer different from what you see today?
 - **s3 (10 min)**  
   *Parent does:* Fill in the left column with the elder's answers. Fill in the right column with what you see today. Look at the rows where the two columns differ most.  
-  *Parent says:* Let's put what we heard on the left and what we see now on the right. Where is the biggest difference? Which row surprises you?  
-  *Child mode:* Fill in your table. Elder on the left. Today on the right. Where is the biggest difference?
+  *Parent says:* Let's put what we heard on the left and what we see now on the right.  
+  *Child mode:* Fill in your table. Elder on the left. Today on the right.
   - Ask: Which row shows the biggest change? (good: The birds.; The water.; The number of trees.)
 - **s4 (5 min)**  
   *Parent does:* Ask the questions below. Then write down one thing you could check with a record, such as an old photo, a map or a bird count.  
@@ -449,16 +449,16 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
   - Check: A child grows up seeing few sparrows and thinks that is how it has always been. Her grandmother remembers many. What is this called? → **A shifting baseline**
   - Think: What would you want a child 50 years from now to remember about today?
 ### a2 · Borewell in a Tub: how pumping lowers the water for everyone nearby (25 min)
-- **record:** A drawing of the tub from the side at the start, after pumping and after rain. Mark the water level on each. Write the heights in centimetres.
+- **record:** The heights of the water in centimetres at the start, after pumping and after rain. You can also draw the tub from the side at each stage and mark the water level.
 - **s1 (6 min)**  
   *Parent does:* Fill the clear tub with about 6 centimetres of damp sand. Stand a card tube in each end against the front wall, and pack damp sand around and between them. The tubes are the two wells. (Plain holes in sand tend to collapse, so the tubes keep the wells open.) Ask your child to guess what will happen to the water in one well when you empty the other.  
-  *Parent says:* The sand is the ground. Each hole is a well. If we take water out of the left well, what will happen to the right well? Why do you think so?  
-  *Child mode:* Fill the tub with sand. Stand two tubes by the wall. These are the wells. Guess what will happen.
+  *Parent says:* The sand is the ground. Each tube is a well. If we take water out of the left well, what will happen to the right well? Why do you think so?  
+  *Child mode:* Fill the tub with sand. Stand two tubes by the wall. These are the wells.
   - Ask: If we pump water from one well, will the other well change? Why? (good: Yes, because the water is connected under the sand.; No, because the wells are far apart.; I'm not sure.)
   - Note: Damp sand stays in place better than dry sand. If you skip the tubes and dig plain holes, they may collapse, which the tubes avoid. Measure the water depth in each well by dipping a ruler or pencil to the bottom and reading the wet mark. One child: do all the jobs. Two to four children: one pumps, one measures each well, one writes, and swap after each round.
 - **s2 (5 min)**  
-  *Parent does:* Pour water slowly onto the sand until the water in both holes is 3 centimetres above the bottom. Draw a line on the outside wall of the tub at the level of the water. Write the height of each hole.  
-  *Parent says:* We are adding rain to the ground, until the water table is 3 centimetres high. Mark it. This is our starting point.  
+  *Parent does:* Pour water slowly onto the sand until the water in both tubes is 3 centimetres above the bottom. Draw a line on the outside wall of the tub at the level of the water. Write the height of each hole.  
+  *Parent says:* We are adding rain to the ground, until the water under it is 3 centimetres high. This water level is called the water table. Mark it. This is our starting point.  
   *Child mode:* Pour water slowly. Stop when both holes show 3 centimetres of water. Mark the line.
   - Note: If the sand sucks up all the water, keep pouring slowly. It can take a cupful. Stop when you can see water standing in both holes.
 - **s3 (7 min)**  
@@ -473,9 +473,9 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
   *Child mode:* Drip rain on the sand. Five spoons. Measure both holes.
   - Note: The water comes back slowly, and not as fast as it was taken out. This is the point of the model. Pumping can be fast. Recharge is slow.
 - **s5 (2 min)**  
-  *Parent does:* Draw the tub from the side three times: at the start, after pumping, and after the rain. Mark the water level in each drawing. Ask the question below.  
+  *Parent does:* Look at the heights you wrote. Tell your grown-up how the water changed: at the start, after pumping, and after the rain. You can draw the tub from the side to show it. Ask the question below.  
   *Parent says:* What happens to a city that pumps water fast and lets only a little rain soak in? What could it do?  
-  *Child mode:* Draw the tub three times. Start, pumping, rain. Mark the water.
+  *Child mode:* Tell how the water changed: start, pumping, rain. Or draw it.
   - Think: Near the sea, what do you think might creep into the ground if the fresh water falls too low?
 ### a3 · Seed Packets: save seeds from the kitchen (25 min, 4 days)
 - **safety:** A grown-up cuts the vegetables and fruit. Chilli seeds sting the eyes and skin, so wear gloves or wash your hands very well with soap, and keep them away from your eyes. Keep small seeds away from children under five.
@@ -488,7 +488,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
   - Note: Chilli seeds sting. Wear gloves or wash your hands very well with soap, and keep them away from eyes. Use seeds from a variety you like. Many shop tomatoes and chillies are hybrids, so their seeds may grow into plants that differ from the fruit. Local or traditional kinds usually grow the same as their parents. Tomato and papaya seeds are slimy, so rub them in a sieve under running water, and dry them on a plate, not paper, or they stick. Count the seeds each fruit gave and compare. One child: choose two fruits. Two to four children: each child takes a different fruit.
 - **s2 (5 min)**  
   *Parent does:* Spread the seeds in a single layer on paper. Put them in the shade, where air can reach them, and not in direct sun. Stir them once a day for 3 days.  
-  *Parent says:* Seeds that stay damp go mouldy. They need to dry, in the shade, for a few days. Why do you think we keep them out of strong sun?  
+  *Parent says:* Seeds that stay damp go mouldy. They need to dry, in the shade, for a few days.  
   *Child mode:* Spread the seeds on paper. Put them in the shade. Stir them each day.
   - Ask: Why do you think damp seeds are a problem? (good: They can go mouldy.; They can start to grow too early.; They can rot.)
   - Wait: Leave the seeds to dry for 3 days. In damp monsoon weather you should dry them indoors near a fan and give them 5 to 7 days. Put a spoon of dry rice in the tin to soak up moisture.
@@ -514,7 +514,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 - **s3 (7 min)**  
   *Parent does:* Ask the questions below. If you have a tiger photo, compare the stripes on two photos.  
   *Parent says:* Scientists put cameras in a forest. Each photo shows a tiger's stripes. How can they tell how many different tigers there are, without ever touching one?  
-  *Child mode:* How can stripes show how many tigers live in a forest?
+  *Child mode:* Think about the cameras in the forest. If you have a tiger photo, look at the stripes.
   - Ask: How can photos show how many different tigers there are? (good: Each tiger has different stripes, so you can count the different patterns.; If the same stripes appear again, it is the same tiger.; You count the patterns that are not the same.)
   - Think: If a tiger walked past the camera twice, how would you know she was the same tiger?
 ### a5 · Flower Watch: who visits the flowers? (40 min, 3 days)
@@ -522,9 +522,9 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 - **record:** A tally table with morning, midday and evening, and the number of each kind of visitor. A note of which time was busiest.
 - **schedule:** day 1: Choose your flower. Watch for 10 minutes in the morning. Make a tally. (15 min); day 2: Watch for 10 minutes at midday. Make a tally. (12 min); day 3: Watch for 10 minutes in the evening. Compare the three tallies. (13 min)
 - **s1 (15 min)**  
-  *Parent does:* Choose one flowering plant. Ask your child to guess who will visit, and when. Sit a step back. Watch for 10 minutes, and make a tally mark for each visit.  
-  *Parent says:* We will watch one plant. Who do you think will visit it? When will she get most visitors, morning, midday or evening? Why?  
-  *Child mode:* Pick a flower. Guess who comes and when. Watch for 10 minutes.
+  *Parent does:* Choose one flowering plant. Ask your child to guess who will visit, and when. Sit a step back. In the morning, watch for 10 minutes, and make a tally mark for each visit.  
+  *Parent says:* We will watch one plant. Who do you think will visit it? When will it get most visitors: morning, midday or evening? Why?  
+  *Child mode:* Pick a flower. Watch it for 10 minutes. Make a mark for each visitor.
   - Ask: When do you think the plant will have the most visitors, and why? (good: In the morning, because bees wake early.; At midday, because it is warm.; In the evening, because it is cooler.)
   - Note: Count a visit each time a creature lands on a flower. Do not count one that only passes. Do not worry if few come. Write down zero if no one comes. If few or no visitors come, try another plant (marigold, tulsi in flower, ixora or a flowering weed often draw more), and also count the open flowers so that counts can be compared. Write the weather and whether the flower was in sun or shade. One child: watch and tally alone. Two to four children: one watches the clock, one tallies, and each takes a different plant or time.
 - **s2 (12 min)**  
@@ -542,12 +542,12 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 ## Projects
 ### p1 · Kitchen Seed Bank: which seeds in my kitchen are still alive? (55 min, 8 days)
 - **safety:** Keep the seeds away from children under five, as they can choke on them. Do not eat the sprouted seeds from a damp towel. If anyone in the family is allergic to pulses, mustard or fenugreek, a grown-up handles those seeds. Do not sniff mouldy towels. Throw them away in a closed bag. Wash your hands afterwards.
-- **record:** A table with a row for each seed and a column for each day you counted. At the end, work out the percentage of seeds that sprouted: sprouted seeds, divided by 10, times 100. Draw a bar chart.
+- **record:** A table with a row for each seed and a column for each day you counted. At the end, work out the percentage of seeds that sprouted: sprouted seeds, divided by 10, times 100. Draw a bar chart, or line up the sprouted seeds in rows.
 - **schedule:** day 1: Guess. Count 10 of each seed onto a damp paper towel in its own plate. (20 min); day 2: Look. Add a spoon of water if the towel is drying. Count the sprouted seeds. (5 min); day 3: Look. Add water if needed. Count the sprouted seeds. (5 min); day 5: Look. Add water if needed. Count the sprouted seeds. (5 min); day 8: Count the sprouted seeds. Work out the percentage for each. Draw a bar chart. Say what you think, what you saw and why. (20 min)
 - **s1 (5 min)**  
   *Parent does:* Lay out the six kinds of seeds. Ask your child to guess how many of 10 will sprout from each kind, and why. Write the guesses in a table.  
   *Parent says:* Here are six kinds of seeds from our kitchen. Some are alive, and some are not. How many of ten do you think will sprout from each? Why?  
-  *Child mode:* Look at the six seeds. Guess how many of ten will sprout. Why?
+  *Child mode:* Look at the six seeds. Guess how many of ten will sprout from each.
   - Ask: Which seeds do you think will not sprout, and why? (good: The roasted chana, because it has been cooked.; The split dal, because it is broken.; The old seeds, because they are dried out.)
   - Note: Do not say which seeds are alive. Any guess with a reason is a good start.
 - **s2 (15 min)**  
@@ -563,9 +563,9 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
   - Note: Moong and mustard usually sprout within 2 days, and chana in 2 to 3. The split dal and roasted chana will not sprout, and may go mouldy or smell sour. Throw those away in a closed bag when you are done.
   - Wait: Look at the plates on days 2, 3 and 5.
 - **s4 (20 min)**  
-  *Parent does:* On day 8, count the sprouted seeds in each plate. For each, divide the number by 10 and multiply by 100 to get the percentage. Draw a bar chart. Say what you think, what you saw and why.  
-  *Parent says:* For each plate, how many of ten sprouted? Work out the percentage. Which seeds are alive? Which are not? Why do you think so?  
-  *Child mode:* Count the sprouts. Work out the percentage. Draw a bar chart.
+  *Parent does:* On day 8, count the sprouted seeds in each plate. For each, divide the number by 10 and multiply by 100 to get the percentage. Draw a bar chart, or line up the sprouted seeds from each plate in rows to compare. Say what you think, what you saw and why.  
+  *Parent says:* For each plate, how many of ten sprouted? Work out the percentage. Which seeds are alive? Which are not?  
+  *Child mode:* Count the sprouts. Work out the percentage. Show it as a bar chart or rows of seeds.
   - Ask: Why did some seeds not sprout? (good: The roasted chana was cooked, so it died.; The split dal was broken, so the baby plant inside was damaged.; Those seeds were old.)
   - Note: A good answer sounds like this. I thought that whole raw seeds would be alive, and roasted or split seeds would not. I saw that most of the whole moong, kala chana, mustard and methi sprouted, and none of the roasted chana or split dal did. This is because a seed holds a tiny plant, and heat or breaking kills that plant. Seed banks test their seeds in the same way every few years.
 
@@ -573,14 +573,14 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 ### c1 · Rain Home: send the roof's rain into the ground (40 min)
 - **problem:** Build a model house from a box, with a roof, a gutter and a pipe. Pour 500 millilitres of rain over the roof. Send as much of it as you can into a recharge pit, so that very little runs away across the table.
 - **safety:** A grown-up cuts the bottle and the cardboard. Rub the cut edges with a spoon handle so they are not sharp. Do the pouring over a tray or a sink.
-- **your turn:** Sketch your design. Build it and pour on 500 millilitres of rain. Measure the water that ran away. Change one thing, such as the gutter or the slope, and test again. Which design sent the most water to the pit? Why do you think so?
+- **your turn:** Plan your design by sketching it or telling your grown-up. Build it and pour on 500 millilitres of rain. Measure the water that ran away. Change one thing, such as the gutter or the slope, and test again. Which design sent the most water to the pit? Why do you think so?
 - **constraints:** Use only things from home, with no tape on the pit, and nothing bought for this.; Pour the rain from a mug over the roof in 20 seconds, the same way each time.; The pit must be a cup or tub filled with stones and sand, standing in a tray of soil.; Measure the water that runs away into a tray. The less water runs away, the better.
 - **general:** A sloping roof with a gutter along the lower edge, and a pipe from the gutter into the pit.; A pit with stones at the bottom and sand on top, as in the Rain Pit Model.; A lip or tray around the pit to catch drops that bounce.
 - **creative:** Two roofs sloping towards the same gutter, to catch more rain.; A small filter of cloth at the top of the pit, to stop leaves and dirt from blocking the stones.; A second pit for any overflow, joined to the first by a channel in the soil.
 - **s1 (10 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch two designs, and to guess how much water each will send to the pit.  
-  *Parent says:* Your house has a roof, a gutter and a pit. Rain must go from the roof to the pit with as little as possible running away. Sketch two ideas.  
-  *Child mode:* Read the problem. Sketch two designs. Guess how much water reaches the pit.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to plan two designs, by sketching or telling you. Ask them to guess how much water each will send to the pit.  
+  *Parent says:* Your house has a roof, a gutter and a pit. Rain must go from the roof to the pit with as little as possible running away. Think of two ideas.  
+  *Child mode:* Read the problem. Plan two designs. Guess how much water reaches the pit.
   - Ask: What could make the rain run past the pit? (good: A gutter with a gap.; A pit that is too small.; A roof that is too steep, so the water shoots over the gutter.)
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* Build your first design in the tray. Pour 500 millilitres from a mug over the roof in 20 seconds. Measure the water that ran away. Subtract it from 500 to find the water that reached the pit.  
@@ -589,7 +589,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
   - Note: A grown-up cuts the bottle and the cardboard. Some water will stay on the roof and in the cup. That is fine. The first number is the one to beat.
 - **s3 (10 min)**  
   *Parent does:* Change one thing in your design. Pour 500 millilitres again. Measure again. Compare the two numbers. Ask the question below.  
-  *Parent says:* What did you change? Did more water reach the pit? In a real city, what would stop rain from reaching the ground?  
+  *Parent says:* What did you change? Did more water reach the pit?  
   *Child mode:* Change one thing. Test again. Which design was better?
   - Check: In a real city, why does less rain soak into the ground than in a forest? → **Roofs and roads send the rain into drains**
 ### c2 · Write the Fishing Rule: a rule a whole village will follow (30 min)
@@ -611,7 +611,7 @@ A year later, the new shell on Ammamma's shelf was 4 centimetres across. It was 
 - **s3 (5 min)**  
   *Parent does:* Change one thing in your rule. Play again, or work it out on paper. Then ask the question below.  
   *Parent says:* What if one villager breaks the rule in Year 5? How would the village find out? What should happen to them?  
-  *Child mode:* Change your rule. Try again. What if someone cheats?
+  *Child mode:* Change your rule. Try again.
   - Check: Nobody checks whether the rule is followed, and one villager breaks it. Why does this matter for the whole village? → **The pond can be emptied by one person's extra catch**
   - Think: Who should watch the pond, and how should the village decide?
 

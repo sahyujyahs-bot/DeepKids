@@ -575,7 +575,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Play the next six cards in the same way. Add up the team's score. Notice which words gave the most different drawings and which gave the fewest.",
+     "do": "Play the next six cards in the same way. Notice which words gave the most different drawings and which gave the fewest.",
      "say": "Which words gave us the most different drawings? Which gave the fewest? What do you notice about the two kinds of word?",
      "kid": "Play six more cards. Which word gave the most different drawings?",
      "parent": "Often, words for one clear thing, such as ROUND, give fewer kinds of drawing than words with wide meanings, such as HOME or SAFE. If your results differ, write them down as they are.",
@@ -822,17 +822,17 @@
      "what": "Draw the cube, test yourself twice with just watching and once trying to hold it, then test three other people and compare."
     }
    ],
-   "record": "Fill in the table. For each person, add the two just-watching counts and divide by two. Draw a bar for each person's average, and a mark for their trying-to-hold count.",
+   "record": "Fill in the table. For each person, add the two just-watching counts and divide by two. Draw a bar for each person's average, and a mark for their trying-to-hold count. Or just write the numbers and circle the biggest.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "Show your child a cube drawing in a book, or draw a quick one. Ask for a guess and a reason. Write the guess down.",
      "say": "I will draw a cube with lines. You will look at it for one minute. Will the cube stay the same? Will it change? Why do you think so?",
-     "kid": "You will look at a cube made of lines for one minute. Will it stay the same? Why?",
+     "kid": "You will look at a cube made of lines for one minute. First, make a guess.",
      "ask": [
       {
-       "q": "Why do you think a drawing that does not change might look different?",
+       "q": "Why might a drawing that never changes look different?",
        "good": [
         "My eyes might get tired.",
         "It could look like a cube from the front or from the back.",
@@ -884,7 +884,7 @@
      "mins": 4,
      "do": "Compare the numbers. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.",
      "say": "Did the cube flip the same number of times for everyone? Did trying to hold it change the number? What do you think is happening, if the lines never change?",
-     "kid": "Did the cube flip the same number of times for everyone? Did trying to hold it change the number?",
+     "kid": "Look at your table. Tell your grown-up what you notice about the numbers.",
      "parent": "Common results are that most people see several flips a minute, that trying slows the flips for many people, and that people differ a lot. Your results may differ. If one reading was seen far more than the other, write it down.",
      "check": {
       "t": "mcq",
@@ -1000,7 +1000,7 @@
      "what": "Practise covering the tray with the card, with no watcher. Then test three watchers, each with the big change and the small change."
     }
    ],
-   "record": "For each watcher, write how many blinks it took to find each change, up to 15. Add the numbers for the big change and for the small change. Draw two bars.",
+   "record": "For each watcher, write how many blinks it took to find each change, up to 15. Add the numbers for the big change and for the small change. Write the two totals side by side, or draw two bars.",
    "flow": [
     {
      "id": "s1",
@@ -1053,7 +1053,7 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Add up the blinks for the big change and the small change. Draw two bars. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.",
+     "do": "Add up the blinks for the big change and the small change. Write the two totals side by side. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.",
      "say": "Which change took more blinks? Was the plain-sight change easy? What was different when the card was down?",
      "kid": "Add up the blinks. Which change took more? Why?",
      "check": {
@@ -1157,7 +1157,7 @@
      "what": "Make the normal card and the changed card, then show four cards to five raters and write their scores."
     }
    ],
-   "record": "Fill in the table. Work out the average score of the raters for each of the four cards. Draw four bars.",
+   "record": "Fill in the table. Work out the average score of the raters for each of the four cards. Write each average on its card, or draw four bars.",
    "flow": [
     {
      "id": "s1",
@@ -1200,9 +1200,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Work out the average score for each card. Draw four bars. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.",
+     "do": "Work out the average score for each card. Write each average on its card. Ask your child what they think is true, which numbers show it, and why it happens. Then ask the check question.",
      "say": "Which card has the highest average? Is the changed face much stranger upright or upside down? What does that tell you about how we read faces?",
-     "kid": "Find the average for each card. Draw four bars. Which is highest?",
+     "kid": "Find the average for each card. Which is highest?",
      "parent": "A common result is that the changed face looks much stranger upright than upside down, even though it is the same photo. Your results may differ. If the changed face looks equally odd in both, write that down.",
      "check": {
       "t": "mcq",
@@ -1218,7 +1218,7 @@
      "context": "In this step, you work out the averages and explain what the cards show about faces."
     }
    ],
-   "context": "In this experiment, you turn the eyes and the mouth of a photo upside down, and ask people how strange it looks upright and upside down.",
+   "context": "In this experiment, you turn the eyes and the mouth of a photo upside down, and ask people how strange it looks upright and upside down. You will find out how the brain reads a face.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example: how strange the face looks (0 to 5)",
@@ -1328,7 +1328,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Ask your child to point to each word with a pencil and count the F in each word slowly. There are six in all: in FINISHED, FILES, OF, SCIENTIFIC, OF and OF. Then test two other people with the 15-second count and write what they say.",
-     "say": "Now point at each word and count the F's slowly. How many now? Where did you miss them? Which little word hides three of them?",
+     "say": "Now point at each word and count the F's slowly. How many now? Where did you miss them? Which little word did you miss most?",
      "kid": "Point at each word. Count the F's slowly. How many now?",
      "parent": "Most people find they missed the F in the word OF. The brain skips small, common words when it reads for meaning. The F's were there. The eyes saw them, but they were not noticed.",
      "context": "In this step, you count slowly, word by word, and find the missing F's."
@@ -1412,7 +1412,7 @@
      "mins": 4,
      "do": "Show your child the idea: a drawing in which a vase and two faces share the same edge. Ask for a guess and a reason about whether they can see both at once. Write it down.",
      "say": "We will make a drawing in which you might see a vase, or two faces. Do you think you can see both at the same moment? Why?",
-     "kid": "We will make a drawing with a vase and two faces. Can you see both at once?",
+     "kid": "Make a guess: will you see the vase, the faces, or both?",
      "parent": "Do not correct the guess. If you have a book with a vase-and-faces drawing, show it first.",
      "context": "This is the first step of Vase or Faces. You guess before you cut."
     },
@@ -1421,7 +1421,7 @@
      "mins": 11,
      "do": "1. Fold the black paper in half, short side to short side, with the fold on the left. 2. To the right of the fold, draw the side view of a face looking left, about 2 to 4 centimetres from the fold. 3. Give it a forehead, a nose, lips and a chin. 4. A grown-up cuts along the line and removes the strip next to the fold. 5. Open the paper over the white sheet.",
      "say": "Fold the black paper in half. Draw the side of a face near the fold, with a forehead, a nose, lips and a chin. A grown-up will cut it out. Then open it on a white sheet.",
-     "kid": "Fold the paper. Draw the side of a face near the fold. A grown-up cuts it out.",
+     "kid": "Fold the paper. Draw a face side near the fold, or ask a grown-up to. A grown-up cuts it out.",
      "adult": true,
      "parent": "To draw the outline, mark points about 1 centimetre apart down the page, each measured from the fold in centimetres: the top 3.5, forehead 3, brow 2.2, nose tip 1, under the nose 2, upper lip 1.7, mouth 2.2, lower lip 1.8, chin 2, under the chin 3.2. If your outline does not look like faces, copy a vase-and-faces drawing from a book. Draw on the black paper with a white pencil, chalk or pale crayon, as a normal pencil does not show. When the strip is removed, the paper falls into two halves: lay them on the white sheet with the cut edges facing each other and a small gap, and tape them down. With 2 to 4 children, each child can draw their own face outline and the grown-up cuts them one by one. A wobbly outline is fine. If it does not look like a face, try again with a bigger nose.",
      "context": "In this step, you make the two-way picture from black and white paper."
@@ -1589,7 +1589,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Set a timer for 5 minutes. Everyone walks around the house, and outside, if it is safe, looking for faces in things. Each person writes down or sketches each face. Stop when the timer ends. Count the faces found by each person.",
+     "do": "Set a timer for 5 minutes. Everyone walks around the house, and outside, if it is safe, looking for faces in things. Each person writes down each face, takes a photo, or sketches it. Stop when the timer ends. Count the faces found by each person.",
      "say": "In five minutes, how many faces can you find in things that are not faces? Write each one. A face can be two circles and a line.",
      "kid": "Find faces in things. Plug sockets, taps and scooters may have them.",
      "parent": "Common finds are plug sockets, the front of a scooter or an auto, a tap and a steel tumbler, a window with a lamp and a door, and a burnt chapati. Do not say that any find is wrong. Walk outside only if it is safe.",
@@ -1599,8 +1599,8 @@
      "id": "s2",
      "mins": 5,
      "do": "Compare the lists. Which things did more than one person find? Which faces did only one person find? Draw three dots, two above one, on a piece of paper. Turn the paper upside down. Which looks more like a face?",
-     "say": "Which things did two people find? Which did only one find? Now look at these three dots. Two above one, and then turned upside down. Which looks like a face?",
-     "kid": "Compare your lists. Draw three dots, two above one. Turn the paper upside down. Which way looks like a face?",
+     "say": "Which things did two people find? Which did only one find? Now draw three dots, two above one. Turn the paper upside down. Which way looks like a face?",
+     "kid": "Compare your lists. Then try the three dots.",
      "parent": "Two dots above one usually looks like a face, and it looks much less like one when turned upside down. Brain scientists think that our brain looks for a pattern of two eyes above a mouth. Newborn babies have been found to look longer at such patterns.",
      "context": "In this step, you compare lists and test the three-dot pattern."
     },
@@ -1609,7 +1609,7 @@
      "mins": 5,
      "do": "Ask the check question. Then talk about why the brain might find faces in things that are not faces.",
      "say": "Why do you think the brain finds faces in sockets and clouds? What would happen if it missed a real face?",
-     "kid": "Why does the brain find faces in sockets and clouds?",
+     "kid": "Think about it with your family, then pick an answer.",
      "check": {
       "t": "mcq",
       "q": "Why does a plug socket sometimes look like a face?",
@@ -1660,7 +1660,7 @@
     },
     {
      "art": "A girl drawing the room as a dog senses the room, with bright trails of smell rising from the food and the floor.",
-     "caption": "2. Draw one thing as an animal would sense that thing."
+     "caption": "2. Tell or act out what one animal would notice."
     }
    ],
    "flow": [
@@ -1685,9 +1685,9 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "Choose one thing and one animal. Draw the thing the way that animal would sense it. Use colour, lines or clouds to show smell, heat or ultraviolet. Then ask the check question.",
-     "say": "Pick one thing and one animal. Draw how that animal would sense the thing. Show smell with clouds, heat with red, or ultraviolet with stripes.",
-     "kid": "Pick one thing and one animal. Draw the thing the way that animal senses it.",
+     "do": "Choose one thing and one animal. Tell your grown-up how that animal would sense the thing, or act like the animal. Smell is a strong whiff, heat is a glow, and ultraviolet is a hidden pattern. Then ask the check question.",
+     "say": "Pick one thing and one animal. Tell me how that animal would sense the thing, or act like the animal.",
+     "kid": "Pick one thing and one animal. Show or tell what that animal would notice.",
      "check": {
       "t": "mcq",
       "q": "A flower looks plain yellow to you. A bee sees a dark pattern on the flower, in ultraviolet. What does this suggest?",
@@ -1699,7 +1699,7 @@
       "a": 0,
       "why": "The pattern is really there, in ultraviolet light, but our eyes cannot sense that light. So the flower looks plain to us and patterned to the bee. The bee is not imagining the pattern, and the flower does not change when the bee arrives."
      },
-     "context": "In this step, you draw one thing as one animal senses it, and think about what that means."
+     "context": "In this step, you tell how one animal would notice one thing, and think about what that means."
     }
    ],
    "safety": "Hot tea can scald. Use warm tea in a cup that a grown-up carries and places, away from small children, or just talk about a hot cup instead. Leave the fan and the lamp as they are, on or off, and do not touch the lamp."
@@ -2011,12 +2011,12 @@
     "Put the beetle among a group of other small things of similar size and colour, such as a few black seeds or buttons.",
     "Make the beetle flat and grey and put it on a patch of the wall that has a shadow."
    ],
-   "your_turn": "Draw your beetle and your hiding place. Say which trick you are using: matching the background, or breaking the outline. Test with five watchers and write the time each takes. Change one thing and test again with five new watchers.",
+   "your_turn": "Show your beetle and its hiding place, with a drawing or a photo. Say which trick you are using: matching the background, or breaking the outline. Test with five watchers and write the time each takes. Change one thing and test again with five new watchers.",
    "context": "This is a design challenge about camouflage. You use what you know about how the brain groups things and what it expects, to make something hard to find.",
    "setup": [
     {
      "art": "A child drawing three beetle designs on paper, one plain brown, one with stripes, one spotted, with a patterned cloth beside them.",
-     "caption": "1. Draw three beetle designs. Pick the best hiding place."
+     "caption": "1. Plan three beetle designs. Pick the best hiding place."
     },
     {
      "art": "A small paper beetle with stripes sitting on a patterned cloth, almost invisible.",
@@ -2031,9 +2031,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem together. Talk about what makes a thing easy to find: its colour, its outline and its place. Ask your child to draw three beetle designs and pick the best hiding place.",
-     "say": "A hunter finds a beetle by colour, outline and place. How can you make a beetle hard to find on a cloth or a wall? Draw three ideas.",
-     "kid": "What makes a beetle hard to find? Draw three ideas.",
+     "do": "Read the problem together. Talk about what makes a thing easy to find: its colour, its outline and its place. Ask your child to plan three beetle designs, by telling them or sketching, and pick the best hiding place.",
+     "say": "A hunter finds a beetle by colour, outline and place. How can you make a beetle hard to find on a cloth or a wall? Tell me three ideas, or sketch them.",
+     "kid": "What makes a beetle hard to find? Plan three ideas.",
      "ask": [
       {
        "q": "What are two tricks that an animal can use to be hard to find?",
@@ -2118,7 +2118,7 @@
      "mins": 10,
      "do": "Read the problem together. Look at two-way pictures in a book, or at the cube drawing, the vase and faces drawing and the duck-rabbit drawing. Ask your child to sketch five ideas, each a shape that might be read two ways.",
      "say": "What can a curved line be? What can a pointed shape be? Sketch five shapes that could be two different things.",
-     "kid": "Sketch five shapes that could be two different things.",
+     "kid": "Look at two-way pictures. Then sketch five ideas.",
      "ask": [
       {
        "q": "What makes a picture easy to read in only one way?",

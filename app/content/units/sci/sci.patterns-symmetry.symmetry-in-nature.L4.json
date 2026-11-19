@@ -744,11 +744,11 @@
      "id": "s4",
      "mins": 5,
      "do": "Play on from card 13 while time allows. If you are short of time, jump to the letter F, the letter S, the fan and the hand. Talk about why their counts are low.",
-     "say": "The letter F and the hand fit in only one way. The S fits in two. Why do these have so few ways?",
+     "say": "The letter F and the hand fit in only one way. The S fits in two. The fan with twisted blades fits only by turning. Why so few ways?",
      "kid": "Look at the F, the S and the hand. Why do they have so few ways?",
      "ask": [
       {
-       "q": "Why does the fan with twisted blades have turns but no flips?",
+       "q": "Why does the fan with twisted blades fit by turning but not by flipping?",
        "good": [
         "A flip would twist the blades the other way.",
         "A flip makes the mirror twin, which is a different fan."
@@ -762,7 +762,7 @@
      "id": "s5",
      "mins": 2,
      "do": "Add up the points and name the winner. Ask your child to make up a new card for the next game.",
-     "say": "Who won? Make a card for the next game. Draw a shape, and work out its count first.",
+     "say": "Who won? Make a card for the next game. Pick a shape, cut it out or draw it, and work out its count first.",
      "kid": "Add up your points. Make a new card with a shape of your own.",
      "check": {
       "t": "mcq",
@@ -827,8 +827,8 @@
     }
    ],
    "safety": "A grown-up cuts the card and pushes the pin. Keep fingers behind the scissors. Put the pin back in its cushion or stick it in an eraser when done.",
-   "record": "Fill in the table. For each shape, also write down one of the letter patterns you found, going round the outline from the star. Draw the outline of the square with the star and the letters.",
-   "context": "In this experiment, you cut six shapes from card and count how many ways each one can fit back into its own outline. You look for a pattern in your numbers.",
+   "record": "Fill in the table. For each shape, also write down one of the letter patterns you found, going round the outline from the star. Draw the outline of the square with the star and the letters, or take a photo of it.",
+   "context": "In this experiment, you cut six shapes from card and count how many ways each one can fit back into its own outline. You will find out whether shapes with more equal sides fit back in more ways.",
    "setup": [
     {
      "art": "A square of card, 6 centimetres on each side, being cut from a cereal box with a ruler and scissors beside it.",
@@ -856,8 +856,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child a card square and its outline. Ask them to guess how many ways it fits back. Write the guesses for all six shapes in the table.",
-     "say": "Here is a square and its outline. How many different ways can it fit back in? Which of our six shapes will have the most ways? Which will have the fewest? Why do you think so?",
-     "kid": "Guess how many ways the square fits its outline. Which shape fits most ways? Why?",
+     "say": "Here is a square and its outline. One fit is one way to put the square back in exactly. How many different fits can it have? Which of our six shapes will have the most fits? Which will have the fewest?",
+     "kid": "Look at the square and its outline. Guess how many ways it fits back.",
      "ask": [
       {
        "q": "Which shape do you think has the most ways, and why?",
@@ -944,8 +944,8 @@
      "id": "s6",
      "mins": 5,
      "do": "Look at the table. Ask your child what they found, which numbers show it, and why they think it happens. Ask them to look at the square and the triangle with three equal sides.",
-     "say": "What did you find? What did you see in the numbers? Why do you think the count is the way it is? Look at the equal-sided shapes. What is the link between sides and ways?",
-     "kid": "What did you find? What numbers show it? Why does it happen?",
+     "say": "What did you find? Which numbers show it? Why do you think the count is the way it is?",
+     "kid": "Look at the table and the equal-sided shapes. Tell your grown-up what you notice.",
      "ask": [
       {
        "q": "What is the link between the number of equal sides and the number of ways?",
@@ -1013,7 +1013,7 @@
     }
    ],
    "safety": "Keep the strip away from your face and eyes when you push it. Push slowly. Fold over any sharp corner of card.",
-   "record": "Make a tally mark in the table for every try. Draw one strip bent towards you and one bent away, seen from above, with the dot on the side facing you.",
+   "record": "Make a tally mark in the table for every try. Draw one strip bent towards you and one bent away, seen from above, with the dot on the side facing you. Or take a photo of each.",
    "context": "In this experiment, you push card strips from both ends and see which way they bend. You find what decides the direction when the push is the same from both ends.",
    "setup": [
     {
@@ -1039,7 +1039,7 @@
      "mins": 3,
      "do": "Show the card, a strip and the pencil. Ask your child to guess and give a reason. Write the guess at the top of the table.",
      "say": "We will push a straight strip from both ends, evenly. Which way will the middle bend, towards you or away from you? Will it be the same every time? Why do you think so?",
-     "kid": "Push a straight strip from both ends. Which way will it bend? Why?",
+     "kid": "Hold a straight strip by its ends. Think about how the middle will bend.",
      "ask": [
       {
        "q": "Which way will a straight strip bend, and why?",
@@ -1115,7 +1115,7 @@
      "mins": 3,
      "do": "Take strip A again. Turn it over so the dot faces away from you. Push the ends together six times. Tally the bends.",
      "say": "Now turn strip A over. The dot faces away from you. Does it bend towards you or away from you this time?",
-     "kid": "Turn strip A over. Push it six times. Does it bend the same way?",
+     "kid": "Turn strip A over. Push it six times and tally each bend.",
      "ask": [
       {
        "q": "When you turned strip A over, did it bend the same way as before?",
@@ -1133,7 +1133,7 @@
      "mins": 5,
      "do": "Look at the table. Ask your child what they found, which numbers show it, and why they think it happened. Then ask the question below.",
      "say": "What did you find? What numbers show it? Why do you think a perfectly even push gave a lopsided bend? What decided which way?",
-     "kid": "What did you find? What numbers show it? What decided the bend?",
+     "kid": "Look at your table. Tell your grown-up what the tallies show.",
      "ask": [
       {
        "q": "The push was the same at both ends. Why did the strip bend to one side?",
@@ -1198,7 +1198,7 @@
     }
    ],
    "record": "Stick your five borders in a column in your notebook. Write the name of the move beside each one: slide, flip across, flip along, half turn or glide.",
-   "context": "In this activity, you build five border patterns from the letter F using one move each time. You then look for the same moves on a saree or a temple wall.",
+   "context": "In this activity, you build five border patterns from the letter F using one move each time. You will find out that every border pattern is made from just five moves. You then look for them on a saree or a temple wall.",
    "setup": [
     {
      "art": "A card stencil of the letter F lying on a paper strip, and a row of F shapes traced along the strip, each one slid to the right.",
@@ -1215,7 +1215,7 @@
      "mins": 4,
      "do": "A grown-up cuts out an F stencil from card. Show your child the five moves with the stencil on the table. Ask them to say what each move does.",
      "say": "This F can do five things. It can slide. It can flip over a line across the border. It can flip over a line along the border. It can turn halfway. It can glide, which is a flip and a slide together. What will a row of slid Fs look like?",
-     "kid": "The F can slide, flip, turn and glide. What will a row of slid Fs look like?",
+     "kid": "Watch the grown-up show the five moves with the F. Say what each move does.",
      "ask": [
       {
        "q": "What will a border made by sliding the F look like?",
@@ -1357,7 +1357,7 @@
      "mins": 4,
      "do": "Draw four angles on the sheet, all starting from the same corner point. Use 120, 90, 60 and 45 degrees. Ask your child to guess how many objects they will see at each angle.",
      "say": "We will put one small object between two mirrors. How many objects will you see in all, counting the real one? Guess for 90 degrees, then 60, then 45. Why do you think so?",
-     "kid": "Guess how many objects you will see between two mirrors. Why?",
+     "kid": "Look at the angles and the object. Make a guess for each angle.",
      "ask": [
       {
        "q": "How many objects will you see at 90 degrees, and why?",
@@ -1521,7 +1521,7 @@
      "mins": 5,
      "do": "Write the capital letters F, A, S, H, R and T big and dark on thin paper. Hold the paper up to a window. Look at each letter from the back. Sort the letters into 'looks the same from the back' and 'looks reversed'.",
      "say": "Write each letter big and dark. Hold the page to the window and look from the back. Which letters look the same? Which look reversed?",
-     "kid": "Write six big letters. Look at them from the back. Which look the same?",
+     "kid": "Write six big letters. Hold them up to the window and look from the back.",
      "ask": [
       {
        "q": "Which letters look the same from the back, and which look reversed?",
@@ -1637,7 +1637,7 @@
      "what": "Cut a bump from the square, tape it to the opposite side, and use the new tile to cover a whole sheet with no gaps."
     }
    ],
-   "record": "Stick your finished tiling in your notebook. Draw the tile on its own. Write: which move did I use to make the tile, and which move did I use to cover the page?",
+   "record": "Stick your finished tiling in your notebook. Draw the tile on its own, or stick the cut tile beside it. Write: which move did I use to make the tile, and which move did I use to cover the page?",
    "context": "In this activity, you change a square tile into a curvy shape that still covers a flat sheet with no gaps. You find which move keeps the tiling working.",
    "setup": [
     {
@@ -1659,7 +1659,7 @@
      "mins": 3,
      "do": "Show your child the square. Ask whether a curvy shape cut from the square could still cover a page with no gaps.",
      "say": "Squares cover a page with no gaps. If I change the shape of the square with a curvy cut, could it still cover a page with no gaps? Why do you think so?",
-     "kid": "Squares cover a page with no gaps. Will a curvy tile?",
+     "kid": "Look at the square. Think about a curvy cut.",
      "ask": [
       {
        "q": "Do you think a curvy tile can still cover a page with no gaps?",
@@ -1705,8 +1705,8 @@
      "id": "s4",
      "mins": 6,
      "do": "Colour the tiles so they look like creatures. Add eyes, tails or wings.",
-     "say": "Now make your tile a creature. What does the bump look like? A tail? A nose? Draw an eye.",
-     "kid": "Colour your tiles. Make them into creatures.",
+     "say": "Now make your tile a creature. What does the bump look like? A tail? A nose? Colour a few tiles, or just tell us what it looks like.",
+     "kid": "Turn your tile into a creature. Colour it, or tell what it looks like.",
      "ask": [
       {
        "q": "What creature did your tile become?",
@@ -1725,7 +1725,7 @@
      "mins": 3,
      "do": "Count how many tiles covered your sheet. Compare with the number of plain 6 centimetre squares that would cover it (about 17 for a whole A4 sheet). Ask your child to say which move covered the page, and which move made the tile.",
      "say": "How many tiles covered the sheet? About how many plain squares would it take? Which move did you use to make the tile from the square? Which move covered the page? What would a flip do instead?",
-     "kid": "Which move made the tile? Which move covered the page?",
+     "kid": "Count your tiles. Think about which moves you used.",
      "ask": [
       {
        "q": "Which move covered the page, and which move made the tile?",
@@ -1791,8 +1791,8 @@
      "what": "Find one thing that is lopsided on purpose, and write how the lopsided part helps."
     }
    ],
-   "record": "Four notebook pages, one for each day, with drawings and a sentence on each.",
-   "context": "In this project, you spend four short days looking for different kinds of symmetry around you. Each day has a question, and you keep your finds in a notebook.",
+   "record": "Four notebook pages, one for each day, with a drawing or photo and a sentence on each.",
+   "context": "In this project, you spend four short days looking for different kinds of symmetry around you. Each day has a question, and you keep your finds in a notebook. You will see that symmetry, and things that are on purpose not symmetrical, are all around your home.",
    "setup": [
     {
      "art": "A notebook page headed Day 1 with three drawings, a butterfly, a leaf and a katori, each with a dotted mirror line.",
@@ -1811,18 +1811,18 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "On day 1, find three things around you that have a line of symmetry. Draw each one and add a dotted line. Find one thing with no line of symmetry and draw it.",
+     "do": "On day 1, find three things around you that have a line of symmetry. Draw each one and add a dotted line, or take a photo and show the line with your finger. Find one thing with no line of symmetry.",
      "say": "Find three things with a line of symmetry. Draw them and add the dotted line. Find one thing with none. How do you test it?",
-     "kid": "Find three things with a mirror line. Draw each one. Add the line.",
+     "kid": "Find three things with a mirror line. Show where the line goes.",
      "context": "This is day 1 of the Symmetry Notebook. You find mirror lines.",
      "parent": "Each child keeps their own notebook. With 2 to 4 children, compare finds at the end of each day. Never touch live animals or pick up sharp tools while searching. Look and draw only."
     },
     {
      "id": "s2",
      "mins": 15,
-     "do": "On day 2, find a real border pattern, such as a saree border, a tile edge or a carving in a picture. Draw one unit and an arrow showing how it repeats. Write the name of the move.",
-     "say": "Find a border today. What is the unit that repeats? Does it slide, flip, turn or glide? Draw an arrow.",
-     "kid": "Find a border. What repeats? Draw an arrow. Name the move.",
+     "do": "On day 2, find a real border pattern, such as a saree border, a tile edge or a carving in a picture. Take a photo of one unit, or draw it. Show with your finger how it repeats. Write the name of the move.",
+     "say": "Find a border today. What is the unit that repeats? Does it slide, flip, turn or glide?",
+     "kid": "Find a border. What repeats? Name the move.",
      "wait": "Next day",
      "context": "This is day 2 of the Symmetry Notebook. You find a border pattern."
     },
@@ -1831,7 +1831,7 @@
      "mins": 15,
      "do": "On day 3, find three handed things, such as a left and right chappal, gloves or a jar lid. Write whether each one tightens or fits left or right. Find one pair that you can buy as left and right.",
      "say": "Find three handed things today. How do you know they are handed? Can you buy the twin of each?",
-     "kid": "Find three things that come in a left and a right. Draw them.",
+     "kid": "Find three things that come in a left and a right. Tell your grown-up how you can tell.",
      "wait": "Next day",
      "context": "This is day 3 of the Symmetry Notebook. You find handed things."
     },
@@ -1908,8 +1908,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together. Draw an 8 centimetre circle for each badge. Talk about the three badges needed first.",
-     "say": "We need a badge with exactly three symmetries. What shapes have three turns but no flips? Think of a fan. Draw some ideas first.",
-     "kid": "Draw some ideas for a badge with exactly three symmetries.",
+     "say": "We need a badge with exactly three symmetries. What shapes have three turns but no flips? Think of a windmill with three blades. Try some ideas first.",
+     "kid": "Try ideas for a badge with exactly three symmetries. Sketch them, or arrange small things like leaves or coins in the circle.",
      "ask": [
       {
        "q": "What kind of shape has turns but no flips?",
@@ -1920,7 +1920,7 @@
        ]
       }
      ],
-     "context": "This is the first step of the Badge Designer challenge. You plan."
+     "context": "This is the first step of the Badge Designer challenge. You plan badges that turn and flip in exactly the way you choose."
     },
     {
      "id": "s2",

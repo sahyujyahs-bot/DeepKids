@@ -263,8 +263,8 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
   - Note: On the Redi road, steps 4 and 5 are easy to mix up. Step 4 is about the open jar and the sealed jar. Step 5 is about the cloth-covered jar. Accept either order if your child can explain it. The back of each card gives the reason for its step.
 - **s4 (2 min)**  
   *Parent does:* Ask your child what all four roads had in common. Look for a step where someone doubted and a step where others checked.  
-  *Parent says:* What step is on every road? Look for a step where someone doubted, and a step where others checked.  
-  *Child mode:* Which step is on all four roads? Look for a step where someone doubted, and a step where others checked.
+  *Parent says:* What step is on every road?  
+  *Child mode:* Look for a step where someone doubted, and a step where others checked.
   - Ask: What did all four roads have in common? (good: Somebody noticed something first.; Somebody doubted.; Others checked or found more evidence before it was believed.)
 ### g2 · The Doubter and the Discoverer: a game of kind doubt (20 min)
 - **rules:** One player is the Discoverer, and the other is the Doubter. Shuffle the 16 claim cards and the 8 Doubter cards into two piles.; The Discoverer takes a claim card and reads the claim aloud. The Discoverer does not turn the card over.; The Doubter takes a Doubter card and asks the question on it, kindly. The Discoverer answers in their own words.; The Discoverer then says the steps to check the claim, so clearly that the Doubter could do them alone. The Doubter may ask one more question.; Do the check together if you have the things. Then read the back. One point to the Discoverer if the steps worked, and one to the Doubter for a good question.; Swap roles after every card. Play as many cards as you like. The most points wins, and equal scores share the win.; Playing alone: pick a claim card, write three steps to check it, do the check, then read the back and score yourself.
@@ -277,7 +277,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 - **s2 (5 min)**  
   *Parent does:* Play a practice round with the ants card. The Discoverer reads it and gives the steps. The Doubter asks one question. Do the check if you can.  
   *Parent says:* Ants follow a smell trail. If you wipe the trail, the line breaks. Doubter, what is your question? Discoverer, how would we check it?  
-  *Child mode:* Ants follow a smell trail. How would you check it?
+  *Child mode:* Discoverer: say how to check it. Doubter: ask one question.
   - Check: A Discoverer says that ants follow a smell trail. Which is the best question for a Doubter to ask? → **What would you see if the claim were wrong, and how could we test it?**
 - **s3 (10 min)**  
   *Parent does:* Play more rounds, swapping roles each time. Do the check where you have the things at home. Score as in the rules.  
@@ -301,7 +301,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 - **s1 (5 min)**  
   *Parent does:* Tell the story of Leeuwenhoek and his lens in a few words. Ask your child to guess which hole will make the dots look biggest, and to give a reason. Write both at the top of the page.  
   *Parent says:* A cloth seller in the 1670s looked at water through a tiny lens and saw living beings. Nobody else could check. We will make our own lens and count dots in a newspaper picture. Which hole will make the dots look biggest? Why?  
-  *Child mode:* You will make three water lenses. Which hole makes the dots look biggest? Why?
+  *Child mode:* You will make three tiny water lenses and look at dots through each one.
   - Ask: Which hole do you think will make the dots look bigger, the smaller one or the bigger one? Why? (good: A smaller drop is rounder, so it bends more light.; A bigger drop shows more, so it should be stronger.; I do not know, so we will count.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Do not explain how the drop works yet.
 - **s2 (8 min) · grown-up needed**  
@@ -328,7 +328,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 - **s6 (5 min)**  
   *Parent does:* Compare your counts with the second person's. Did the holes come in the same order? Fix the least clear step and write the new version.  
   *Parent says:* Do the two sets of counts agree about which hole is strongest? Where were the numbers different? Which of your steps needs fixing?  
-  *Child mode:* Compare your counts. Did the holes come in the same order? Fix one step.
+  *Child mode:* Compare your counts with the second person's. Then fix the step that was least clear.
   - Ask: Did the second person get the same order? What does that tell you about your steps? (good: Yes, the small hole showed the fewest dots for both of us, so the steps worked.; The order was the same but the numbers were a little different.; No. One step was not clear, so I rewrote it.)
   - Note: The numbers will rarely match exactly, because hands and drops differ. What matters is whether the order matches. If the second person could not make a lens at all, the steps are the problem. That is a useful finding, not a failure.
 ### e2 · Redi's Jars: do flies come from the banana? (55 min, 7 days)
@@ -336,7 +336,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 - **predict:** Before you start, guess. In which jar will flies or maggots appear? In which will they not appear? Why do you think so?
 - **fair test:** All three jars are the same size, hold the same amount of banana and stand side by side in the same place. Only the cover is different: open, thin cloth, or a lid. We look at them at the same time each day and write down what we see, even on days when nothing happens.
 - **safety:** Do not smell the jars closely and do not open them after mould appears. Keep them out of reach of small children. If anyone has asthma or allergies, a grown-up handles the jars. Wash hands after touching. At the end, a grown-up seals the jars in a bag and throws them away.
-- **record:** Fill in the table. For each jar and each day, write how many flies you see on or near the jar, any tiny white wriggling things inside, and any mould. Draw the three jars on day 7.
+- **record:** Fill in the table. For each jar and each day, write how many flies you see on or near the jar, any tiny white wriggling things inside, and any mould. On day 7, take a photo of the three jars, or draw them.
 - **results table:** Jar | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7
 - **schedule:** day 1: Mash the banana, fill the jars, cover them, label them and set them out. (15 min); day 2: Look at each jar and write what you see. (4 min); day 3: Look at each jar and write what you see. (4 min); day 4: Look at each jar and write what you see. (4 min); day 5: Look at each jar and write what you see. (4 min); day 6: Look at each jar and write what you see. (4 min); day 7: Look for the last time, compare the jars, and decide what the test shows. (20 min)
 - **s1 (15 min)**  
@@ -354,7 +354,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 - **s3 (20 min)**  
   *Parent does:* On day 7, look one last time. Compare the three jars. Ask your child what the jars show. A grown-up seals the jars in a bag and throws them away.  
   *Parent says:* Which jars had flies near them? Which had maggots inside? What does this say about where the flies come from?  
-  *Child mode:* Compare the three jars. Where did the maggots appear? What does that show?
+  *Child mode:* Compare the three jars. Find where the maggots appeared.
   - Ask: What did the cloth-covered jar show that the lid jar could not? (good: The smell could get through the cloth, but the flies could not, and no maggots came.; Flies landed on the cloth, so the flies were looking for the banana. The banana had not made them.)
   - Note: Redi saw that flies laid eggs on the gauze, and few young reached the meat. If your cloth jar has a few maggots, check whether the cloth had a gap or was thin. Report what you saw. Mould can grow in the lid jar too. Mould starts from tiny spores already on the fruit, so it is a separate matter from the flies.
   - Check: Maggots appeared in the open jar of banana but not in the jar with the lid. What does this show? → **The maggots came from flies that could reach the banana**
@@ -364,7 +364,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 - **record:** Write the claim. Write how many times you could fold each sheet in half. Then write one sentence about what the claim gets right and what it leaves out.
 - **s1 (5 min)**  
   *Parent does:* Say in a very sure voice: you cannot fold a sheet of paper in half more than seven times. Ask your child to doubt this kindly. Offer three starter questions on a card.  
-  *Parent says:* You cannot fold a sheet of paper in half more than seven times. Everyone knows it. Now doubt it kindly. You may ask: can I try it? What would show that you are wrong? Did you do it yourself?  
+  *Parent says:* You cannot fold a sheet of paper in half more than seven times. Everyone knows it. Now doubt it kindly. You may ask: can I try it? What would show that you are wrong? How do you know?  
   *Child mode:* Doubt the claim kindly. Ask: Can I try it? What would show that you are wrong?
   - Ask: What kind question could you ask before you believe this? (good: Can I try it myself?; Did you try it, or did you hear it?; What would show that you are wrong?)
   - Note: Sound very sure at first, so your child has to ask. Then say: yes, try it. A doubter who asks to try is doing what the Royal Society asked of Leeuwenhoek.
@@ -376,13 +376,13 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
   - Wait: Each sheet takes about a minute.
 - **s3 (5 min)**  
   *Parent does:* Ask your child what the test showed about the claim. Then tell the story of Britney Gallivan from the parent note. Ask whether the claim was right, wrong or half right.  
-  *Parent says:* What did your folds show? Was the claim right, wrong or half right? What did the claim leave out?  
+  *Parent says:* What did your folds show? What did the claim leave out?  
   *Child mode:* What did your folds show? Was the claim right, wrong, or half right?
   - Note: In 2002 Britney Gallivan, a high school student in California, worked out how long a roll of paper had to be, and folded a roll more than a kilometre long in half twelve times. She turned a popular saying into a measurable question. Each fold doubles the thickness, so 7 folds make 128 layers.
   - Check: A claim says paper cannot be folded in half more than seven times. A school student once folded paper twelve times, using a very long, thin roll. What does this show? → **The claim was true for ordinary sheets but not for every kind of paper**
 ### a2 · Fit the Coasts: how much does a puzzle prove? (22 min)
 - **safety:** A grown-up cuts with blunt-ended scissors. Keep fingers away from the blades.
-- **record:** Draw your fitted coasts. Under the drawing, write the five evidence slips in two lists: for the idea, and against it. Write one sentence on what you would need to be sure.
+- **record:** Stick your two fitted shapes on the page. Under them, write the five evidence slips in two lists: for the idea, and against it. Write one sentence on what you would need to be sure.
 - **s1 (7 min) · grown-up needed**  
   *Parent does:* Lay the tracing paper over South America on the map and trace it. Then trace Africa on a second piece. Cut out both shapes with blunt scissors.  
   *Parent says:* Trace South America and Africa. Cut them out. Then try to slide the two shapes together to see if they fit.  
@@ -398,18 +398,18 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 - **s3 (7 min)**  
   *Parent does:* Ask your child which slip made people doubt Wegener, and what had to happen for them to change their minds. Write one sentence on what you would need to be sure.  
   *Parent says:* Which slip made people doubt Wegener? What new evidence would you need to be sure? Is the fit of your two paper shapes a proof, or only a clue?  
-  *Child mode:* Which slip made people doubt Wegener? What new evidence would help?
+  *Child mode:* Pick the slip that made people doubt Wegener.
   - Ask: What evidence did people need, in the end, to change their minds? (good: A way for the continents to move.; Maps of the sea floor and rock magnetism that showed the sea floor spreads.; Satellite measurements of the movement.)
 ### a3 · A String of Years: how long does belief take? (18 min)
-- **record:** Draw the three strings side by side, with a label on each saying who it is for and how many years it waited.
+- **record:** Lay the three strings side by side and take a photo. Put a label on each saying who it is for and how many years it waited.
 - **s1 (5 min)**  
   *Parent does:* Tell the first story. Leeuwenhoek told London about his tiny creatures around 1674. Hooke and others looked for themselves and saw the same creatures in 1677. That is about 3 years. Cut a 3 centimetre piece of string and label it.  
   *Parent says:* Leeuwenhoek told London about his tiny creatures around 1674. Others looked for themselves and saw the same creatures in 1677. How many years is that? Cut a piece of string, one centimetre for each year.  
-  *Child mode:* Leeuwenhoek told London in 1674. Others saw the creatures in 1677. How many years is that? Cut that many centimetres of string.
+  *Child mode:* Count the years from 1674 to 1677. Cut that many centimetres of string.
 - **s2 (6 min)**  
   *Parent does:* Tell the second story. Wegener put forward his idea in 1912, and it was accepted in the 1960s. That is about 50 years. Cut a 50 centimetre piece and label it. Hold it next to the first.  
   *Parent says:* Wegener put forward his idea in 1912. It was accepted in the 1960s. About how many years is that? Cut the string and compare.  
-  *Child mode:* Wegener spoke up in 1912. People accepted his idea in the 1960s. That is about 50 years. Cut 50 centimetres of string.
+  *Child mode:* Wegener spoke up in 1912 and was believed in the 1960s. Cut 50 centimetres of string.
   - Note: The exact date is a matter of opinion, because acceptance came step by step through the 1960s. About 50 years is a fair round figure, so cut 50 centimetres.
 - **s3 (7 min)**  
   *Parent does:* Tell the third story. Redi showed in 1668 that flies do not come from meat. The wider question, whether microbes appear on their own in broth, was settled by Pasteur in the 1860s. That is about 190 years. Cut a string about 190 centimetres long, which is nearly two metres, and stretch it across the floor.  
@@ -420,7 +420,7 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 ### a4 · Describe It, Then Draw It: steps that carry a picture (14 min)
 - **record:** Keep the first and second drawings and write which words made the difference.
 - **s1 (3 min)**  
-  *Parent does:* Your child draws a simple picture. It has a house with a door and a window. It has a tree next to the house, and a sun above. Do not let the other person see it. Sit back to back.  
+  *Parent does:* Your child draws a simple picture. If they would rather not draw, use a square, a circle and a triangle. It has a house with a door and a window. It has a tree next to the house, and a sun above. Do not let the other person see it. Sit back to back.  
   *Parent says:* Draw a house with a door, a window, a tree and a sun. Keep it hidden. In a moment, you will describe it in words, and I will draw it.  
   *Child mode:* Draw a house, a tree and a sun. Keep it hidden.
 - **s2 (4 min)**  
@@ -438,18 +438,18 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 ## Projects
 ### p1 · My Sprout Notebook: watch, draw and write for a stranger (65 min, 7 days)
 - **safety:** Moong seeds are small, so keep them away from children under five. Do not eat the sprouts raw. A grown-up should cook them first. Wash hands after touching the seeds.
-- **record:** A notebook with one dated page for each day. On each page: the date, a drawing, the length of the three longest sprouts in each bowl, and one sentence on what changed. On the last page, a letter to a stranger.
+- **record:** A notebook with one dated page for each day. On each page: the date, a drawing or photo, the length of the three longest sprouts in each bowl, and one sentence on what changed. On the last page, a letter to a stranger.
 - **schedule:** day 1: Soak the moong, drain them, and put half in a damp cloth in the light and half in a damp cloth in the dark. (20 min); day 2: Rinse gently, look, measure the three longest sprouts in each bowl, and draw. (7 min); day 3: Rinse gently, look, measure, and draw. (7 min); day 4: Rinse gently, look, measure, and draw. (7 min); day 5: Rinse gently, look, measure, and draw. (7 min); day 6: Rinse gently, look, measure, and draw. Write down one question for next time. (7 min); day 7: Write a letter that tells a stranger how to repeat your test, and ask a friend to say which step is unclear. (25 min)
 - **s1 (20 min)**  
-  *Parent does:* Soak 2 tablespoons of moong in water for 6 to 8 hours. Drain them. Split them between two cloths. Put one in a bowl on a window sill and one in a bowl in a dark cupboard. Wet both cloths lightly. Write the date in the notebook and draw the seeds.  
+  *Parent does:* Soak 2 tablespoons of moong in water for 6 to 8 hours. Drain them. Split them between two cloths. Put one in a bowl on a window sill and one in a bowl in a dark cupboard. Wet both cloths lightly. Write the date in the notebook and take a photo of the seeds.  
   *Parent says:* Maria Sibylla Merian watched caterpillars change for years and drew every stage. We will watch moong seeds. Will the seeds in the dark sprout? Will they look different from the ones in the light? Why do you think so?  
-  *Child mode:* Soak moong seeds. Put half in the light and half in the dark. Draw them.
+  *Child mode:* Soak moong seeds. Put half in the light and half in the dark. Take a photo.
   - Ask: Why do you think the seeds in the dark will, or will not, sprout? (good: Seeds need light to grow, so the dark ones will not.; Seeds need only water and warmth, so both will sprout.; I do not know, so we will watch.)
   - Note: Do not correct the guess. Both bowls usually sprout. The dark sprouts are often paler and a bit longer. If neither sprouts, check that the cloth stays damp and the room is warm. Report what happens.
 - **s2 (35 min)**  
-  *Parent does:* Each day at about the same time, rinse each cloth gently with a little water. Measure the three longest sprouts in each bowl. Draw what you see. Write the date and one sentence on what changed.  
+  *Parent does:* Each day at about the same time, rinse each cloth gently with a little water. Measure the three longest sprouts in each bowl. Draw what you see, or take a photo. Write the date and one sentence on what changed.  
   *Parent says:* Rinse gently. Look closely at each bowl. Measure the three longest sprouts. Draw what you see. Write one sentence about what changed.  
-  *Child mode:* Rinse the seeds. Measure three sprouts in each bowl. Draw. Write the date.
+  *Child mode:* Rinse the seeds. Measure three sprouts in each bowl. Draw or take a photo. Write the date.
   - Note: Measure in millimetres, from the seed to the tip of the sprout. Measure the same three sprouts each day if you can tell them apart. Draw what you see, even on days when little changes. Dated pages are what make a notebook useful to a stranger.
   - Wait: Do this on days 2 to 6, about seven minutes each day.
 - **s3 (25 min)**  
@@ -468,16 +468,16 @@ Ammamma laughed and folded the newspaper. "Tomorrow we look at the Onam sale adv
 - **s1 (6 min)**  
   *Parent does:* Tell your child that Leeuwenhoek had no ruler fine enough to measure tiny creatures. So he compared their sizes with a grain of sand and the width of a hair. Ask why he did not just give numbers.  
   *Parent says:* Leeuwenhoek compared the tiny creatures to a grain of sand and the width of a hair. Why do you think he used things like that, instead of a number?  
-  *Child mode:* Leeuwenhoek compared sizes to a grain of sand. Why not use a number?
+  *Child mode:* Think about what Leeuwenhoek could hold in his hand.
   - Ask: Why would a comparison work better than a number for a tiny thing? (good: Everyone knows what a grain of sand is.; There was no ruler small enough.; A comparison needs no tool.)
   - Note: Leeuwenhoek really did compare the sizes of tiny creatures with a grain of coarse sand and with the width of a hair, and he said how many fitted across. Today we use units like the millimetre and the micrometre, but a good comparison still helps.
 - **s2 (18 min)**  
-  *Parent does:* Look at each of the three things through your lens. For each one, draw the circle with the thing in it. Say how much of the circle the thing fills. Write a comparison. Put all three on one card.  
-  *Parent says:* Look at the grain of salt through the lens. How much of the circle does it fill? Draw it. Write a comparison with something your reader knows.  
-  *Child mode:* Look at three tiny things. Draw each in a circle. Write a comparison.
+  *Parent does:* Look at each of the four things through your lens. Say how much of the circle each one fills. Write a comparison for each. Draw the circle for at least one. Put all four on one card.  
+  *Parent says:* Look at the grain of salt through the lens. How much of the circle does it fill? Write a comparison with something your reader knows.  
+  *Child mode:* Look at four tiny things. Say how much of the circle each fills. Write a comparison.
   - Note: Use the same lens, the same distance and the same coins every time. Keep a note of the hole size you used so a reader can repeat it.
 - **s3 (11 min)**  
-  *Parent does:* Give the card to a second person who has not seen the things. They draw each thing from the card alone. Compare their drawings with the real things through the lens.  
+  *Parent does:* Give the card to a second person who has not seen the things. They draw each thing from the card alone, or tell you how big it is. Compare their drawings with the real things through the lens.  
   *Parent says:* Please draw each thing from this card. Do not look at the real thing. Then we will compare.  
   *Child mode:* A stranger draws from your card. Compare it with the real thing.
   - Check: A card says a grain of salt fills half the circle and is as wide as a sesame seed looks without a lens. What makes this card useful to a stranger? → **It compares the size with things the reader knows, and gives a fraction**

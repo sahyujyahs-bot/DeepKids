@@ -700,7 +700,7 @@
      "mins": 4,
      "context": "In this step you sort the cards and look for patterns.",
      "do": "Lay out all the cards in order of how long the plant lives. Ask which plants flower only once, and what they have in common.",
-     "say": "Look at the plants that flower only once. Some are short-lived and some wait for decades. What do they have in common?",
+     "say": "Look at the plants that flower only once. Some are short-lived and some wait for decades.",
      "kid": "Sort the cards by how long each plant lives. Which plants flower only once?",
      "ask": [
       {
@@ -868,7 +868,7 @@
      "mins": 3,
      "context": "In this step you play a practice round with two fruit.",
      "do": "Play a practice round with banana and grapes. Put each on a mat and give a reason.",
-     "say": "A green banana will turn yellow on the shelf. What about a sour green grape? Which mat does each go on? Why?",
+     "say": "A green banana will turn yellow on the shelf. What about a sour green grape? Which mat does each go on?",
      "kid": "Put banana and grapes on mats. Say why.",
      "ask": [
       {
@@ -906,8 +906,8 @@
      "mins": 3,
      "context": "In this step you look for patterns in the sorted fruit.",
      "do": "Look at the fruit on each mat. Ask what the fruit on the KEEPS RIPENING mat have in common.",
-     "say": "Look at the fruit on the first mat. What do you notice? Which fruit would you put in a bag with a hard mango?",
-     "kid": "Look at the fruit on the first mat. What do they have in common?",
+     "say": "Look at the fruit on the KEEPS RIPENING mat. Which one would you put in a bag with a hard mango?",
+     "kid": "Point to the fruit on the KEEPS RIPENING mat.",
      "parent": "Many of the fruit that keep ripening are soft and sweet, with a strong smell. Those fruit also give off a lot of ethylene, so they make good helpers in a ripening bag.",
      "think": "If you wanted to ripen a hard avocado, which fruit would you put in the bag with it?"
     }
@@ -1581,7 +1581,7 @@
    "title": "Ripe in a Bag: does a ripe banana ripen a raw mango?",
    "mins": 45,
    "days": 6,
-   "context": "This is the ripening bag test. You put hard green mangoes in three places: in a bag with a ripe banana, in a bag alone and in the open. Then you check each day to see which one ripens first.",
+   "context": "This is the ripening bag test. You put hard green mangoes in three places: in a bag with a ripe banana, in a bag alone and in the open. You will find out if a ripe banana makes a mango ripen sooner, even when they never touch.",
    "question": "Does a ripe banana make a hard green mango ripen sooner, even if the two never touch?",
    "predict": "Before you start, guess. After four days, which mango will be softest: the one in a bag with a ripe banana, the one in a bag alone, or the one left in the open? Why do you think so?",
    "fair_test": "The three mangoes are the same kind, the same size and equally hard. They sit in the same warm room, out of the sun. Both bags are the same kind of paper bag, folded shut the same way. Compare A with B to see what the banana does. Compare B with C to see what the bag does. You check at the same time every day, and press with the same thumb.",
@@ -1648,7 +1648,7 @@
      "what": "Check for the last time. A grown-up cuts the mangoes. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table each day. Use the softness scale: 1 is hard as a stone, 2 is firm, 3 gives a little, 4 is soft, 5 is very soft. Draw the three mangoes on the last day, with their colours. Draw a bar chart of the softness on day 4. Also write the first day each fruit showed yellow and the first day it reached 3 (gives a little). The day it first changes is a better measure than the final softness.",
+   "record": "Fill in the table each day. Use the softness scale: 1 is hard as a stone, 2 is firm, 3 gives a little, 4 is soft, 5 is very soft. Take a photo of the three mangoes on the last day. Draw a bar chart of the softness on day 4, or say which was softest. Also write the first day each fruit showed yellow and the first day it reached 3 (gives a little). The day it first changes is a better measure than the final softness.",
    "setup": [
     {
      "art": "A hard green mango and a spotty ripe banana lying together inside an open brown paper bag labelled A.",
@@ -1698,7 +1698,7 @@
      "context": "This is the first step of the ripening bag test. You guess before you start.",
      "do": "Show your child the mangoes, the banana and the bags. Ask for a guess and a reason. Write the guess in the table.",
      "say": "We will put a hard green mango with a ripe banana in a bag. Another mango goes in a bag alone. A third sits in the open. Which will be softest after four days? Why do you think so?",
-     "kid": "There are three mangoes. One shares a bag with a ripe banana. Which will ripen first? Why?",
+     "kid": "Look at the three mangoes and the ripe banana. Make a guess.",
      "ask": [
       {
        "q": "Do you think the mango with the banana will ripen first? Why, or why not?",
@@ -1746,7 +1746,7 @@
      "mins": 10,
      "context": "In this step you compare the three mangoes on the last day.",
      "adult": true,
-     "do": "1. On day 6, check all three mangoes for the last time. 2. Line them up. 3. Draw them. 4. A grown-up cuts each one open and compares the flesh. 5. Draw a bar chart of the softness on day 4.",
+     "do": "1. On day 6, check all three mangoes for the last time. 2. Line them up. 3. Take a photo of them. 4. A grown-up cuts each one open and compares the flesh. 5. Draw a bar chart of the softness on day 4, or say which was softest.",
      "say": "Look at the three mangoes side by side. Which is softest? Which is yellowest? Which is still hard? Is that what you guessed?",
      "kid": "Line up the mangoes. Which is softest? A grown-up cuts them open.",
      "ask": [
@@ -1843,7 +1843,7 @@
      "what": "Look at the leaves for the last time. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table with the colour of each bunch on each day, using the colour scale. Draw one leaf from each bunch on the last day, coloured as you see it.",
+   "record": "Fill in the table with the colour of each bunch on each day, using the colour scale. Take a photo of one leaf from each bunch on the last day, side by side.",
    "setup": [
     {
      "art": "Three glasses of water, each with five palak leaves standing in them, labelled A, B and C, beside a drawn colour scale from green to yellow.",
@@ -1940,8 +1940,8 @@
      "id": "s4",
      "mins": 8,
      "context": "In this step you compare the three leaves on the last day.",
-     "do": "On day 6, take a leaf from each bunch and lay them side by side. Match each to the colour scale. Draw them. Draw a bar chart of the colour numbers.",
-     "say": "Look at the three leaves. Which is greenest? Which is yellowest? What do you think happened to the green?",
+     "do": "On day 6, take a leaf from each bunch and lay them side by side. Match each to the colour scale. Take a photo of the three leaves side by side. Write the three colour numbers in a row.",
+     "say": "Look at the three leaves. Which is greenest? Which is yellowest?",
      "kid": "Lay one leaf from each bunch side by side. Which is yellowest?",
      "ask": [
       {
@@ -2035,7 +2035,7 @@
      "what": "Measure the roots. Draw the jars. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table on each day. Draw one cutting from each jar on day 15 and mark where the roots are. Write the length in millimetres of the longest root on each cutting.",
+   "record": "Fill in the table on each day. Draw or photograph one cutting from each jar on day 15 and mark where the roots are. Write the length in millimetres of the longest root on each cutting.",
    "setup": [
     {
      "art": "A money plant vine laid on a table with three kinds of piece marked: one with a node and a leaf, one with a node and no leaf, and one with no node.",
@@ -2084,8 +2084,8 @@
      "mins": 4,
      "context": "This is the first step of the cutting test. You guess before you start.",
      "do": "Show your child the vine. Point to a node, a small bump on the stem where a leaf joins, and to the small brown root stubs there. Ask for a guess and a reason. Write it in the table.",
-     "say": "A node is a bump on the stem where a leaf joins. We will cut the vine into pieces and put them in water. Which will grow roots? Where will they come from? Why do you think so?",
-     "kid": "Find a node on the vine. Which cuttings will grow roots? Why?",
+     "say": "A node is a bump on the stem where a leaf joins. We will cut the vine into pieces and put them in water. Which will grow roots? Why do you think so?",
+     "kid": "Find a node on the vine and point to it.",
      "ask": [
       {
        "q": "Where on the stem do you think the roots will come from?",
@@ -2142,9 +2142,9 @@
      "id": "s5",
      "mins": 8,
      "context": "In this step you measure the roots on the last day.",
-     "do": "On day 15, take out the cuttings from each jar. Measure the longest root on each. Write down the numbers. Draw one cutting from each jar and mark where the roots came from.",
-     "say": "Look at the cuttings. Where did the roots come from? Which jar has the longest roots? Which has none?",
-     "kid": "Measure the roots on each cutting. Draw one from each jar.",
+     "do": "On day 15, take out the cuttings from each jar. Measure the longest root on each. Write down the numbers. Draw one cutting from each jar and mark where the roots came from, or take a photo and point to the roots.",
+     "say": "Look at the cuttings. Which jar has the longest roots? Which has none?",
+     "kid": "Measure the roots on each cutting. Draw one from each jar, or photograph it.",
      "ask": [
       {
        "q": "Where did the roots grow?",
@@ -2237,7 +2237,7 @@
      "what": "Check for the last time. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table each time you check. Write the temperature of each place if you can. Draw the three tomatoes on day 6 and again on day 12.",
+   "record": "Fill in the table each time you check. Write the temperature of each place if you can. Take a photo of the three tomatoes on day 6 and again on day 12.",
    "setup": [
     {
      "art": "Three hard green tomatoes, each in a folded brown paper bag, labelled Shelf, Window and Fridge.",
@@ -2292,7 +2292,7 @@
      "context": "This is the first step of the ripening place test. You guess before you start.",
      "do": "Show your child the tomatoes and the three places. Ask for a guess and a reason. Write it in the table.",
      "say": "We will put three green tomatoes in three places. One goes on a warm shelf. One goes on a window. One goes in the fridge. Which will be red first? Why do you think so?",
-     "kid": "There are three tomatoes in three places. Which will ripen first? Why?",
+     "kid": "Look at the three tomatoes and the three places. Make a guess.",
      "ask": [
       {
        "q": "Why do you think the fridge tomato will ripen slowly, or not at all?",
@@ -2339,8 +2339,8 @@
      "id": "s4",
      "mins": 6,
      "context": "In this step you move the fridge tomato to the warm shelf and compare all three.",
-     "do": "On day 6: 1. Take the fridge tomato out of the fridge. 2. Put it on the warm shelf, in its bag. 3. Compare all three tomatoes. 4. Draw them.",
-     "say": "The fridge tomato has been cold for six days. Let's warm it up. Will it ripen now? Will it ripen as well as the others?",
+     "do": "On day 6: 1. Take the fridge tomato out of the fridge. 2. Put it on the warm shelf, in its bag. 3. Compare all three tomatoes. 4. Take a photo of them.",
+     "say": "The fridge tomato has been cold for six days. Let's warm it up.",
      "kid": "Take the fridge tomato out. Put it on the warm shelf. Compare all three.",
      "ask": [
       {
@@ -2369,7 +2369,7 @@
      "mins": 5,
      "context": "In this step you say what the test showed: what you think, what you saw and why you think it happened.",
      "do": "Ask your child to say or write three sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
-     "say": "What do you think about where fruit ripen best? What did you see? Why do you think it happened?",
+     "say": "What do you think about where tomatoes ripen best? What did you see? Why do you think it happened?",
      "kid": "Say three things: what you think, what you saw, and why you think it happened.",
      "parent": "A good answer sounds like this. What I think: fruit ripen best in a warm place and not in the fridge. What I saw: the shelf tomato turned pink first, the window tomato was a little behind or ahead, and the fridge tomato stayed green. After warming, it ripened slowly or in patches. Your days and colours will differ. Why: ripening is chemistry, and chemistry runs slowly in the cold. A long spell in the cold can also damage a fruit from a warm place. A ripe fruit can go in the fridge to slow it down.",
      "think": "If you want to keep a ripe mango for another day, where would you put it?"
@@ -2430,7 +2430,7 @@
      "what": "Measure the shoots. Draw them. Say what you think, what you saw and why."
     }
    ],
-   "record": "A table with six foods. For each one, write your guess, the day a shoot or root first showed, and the longest shoot on day 10. Draw the three that grew the most.",
+   "record": "A table with six foods. For each one, write your guess, the day a shoot or root first showed, and the longest shoot on day 10. Take a photo of the three that grew the most.",
    "setup": [
     {
      "art": "A carrot top and a beetroot top, cut side down, in saucers with 1 centimetre of water.",
@@ -2456,7 +2456,7 @@
      "context": "This is the first step of the Sleeping Pantry. You guess before you start.",
      "do": "Show your child the six foods. Ask which parts of the plant they are and which ones will sprout. Write the guesses in the table.",
      "say": "Each of these foods is a store of food. A plant saved it for later. Which ones do you think will grow green shoots? Why do you think so?",
-     "kid": "Here are six foods from the kitchen. Which will grow shoots? Why?",
+     "kid": "Look at the six foods from the kitchen. Make a guess for each one.",
      "ask": [
       {
        "q": "Which part of a plant do you think a carrot is, a root, a stem or a leaf?",
@@ -2504,9 +2504,9 @@
      "id": "s4",
      "mins": 8,
      "context": "In this step you measure and draw the shoots on the last day.",
-     "do": "On day 10: 1. Measure the longest shoot on each food. 2. Draw the three that grew the most. 3. Sort the foods into those that grew shoots and those that did not.",
+     "do": "On day 10: 1. Measure the longest shoot on each food. 2. Line up the three that grew the most and take a photo. 3. Sort the foods into those that grew shoots and those that did not.",
      "say": "Which foods grew shoots? How long are they? Are the shoots green? How do they get their food?",
-     "kid": "Measure the longest shoot on each food. Draw the three that grew the most.",
+     "kid": "Measure the longest shoot on each food. Line up the three that grew the most.",
      "ask": [
       {
        "q": "The carrot top grew leaves. Will the carrot top grow a new carrot?",
@@ -2573,7 +2573,7 @@
      "what": "Lift the frond. Look at the print and the dots."
     }
    ],
-   "record": "Draw the underside of the frond with its rows of dots, and the print the frond left on the paper. Write what the dust looks like.",
+   "record": "Draw the underside of the frond with its rows of dots, and the print the frond left on the paper, or photograph them. Write what the dust looks like.",
    "setup": [
     {
      "art": "The underside of a fern frond showing neat rows of brown dots.",
@@ -2594,8 +2594,8 @@
      "mins": 5,
      "context": "This is the first step of Spore Print. You guess before you look.",
      "do": "Show your child a fern. Ask what the plant does instead of making flowers and seeds. Write down the guess.",
-     "say": "A fern never makes flowers or seeds. Yet new ferns appear. How do you think ferns make new ferns? Why do you think so?",
-     "kid": "A fern has no flowers or seeds. How do you think ferns make new ferns?",
+     "say": "A fern never makes flowers or seeds. Yet new ferns appear. We will look for how.",
+     "kid": "Look at the fern. Do you see any flowers or seeds?",
      "ask": [
       {
        "q": "How do you think a fern makes new ferns?",
@@ -2615,16 +2615,16 @@
      "adult": true,
      "do": "1. Find a frond with brown dots on the back. 2. A grown-up cuts it off with scissors. 3. Lay it dots-down on white paper. 4. Cover it with a bowl. 5. Leave it overnight, away from drafts.",
      "say": "These brown dots are spore cases. When they are ripe, they let go of a fine dust. We will catch the dust on paper.",
-     "kid": "Cut a frond with dots on the back. Lay it dots-down on white paper. Cover it with a bowl.",
+     "kid": "A grown-up cuts a frond with dots on the back. Lay it dots-down on white paper. Cover it with a bowl.",
      "parent": "The dots must be dark brown or black to be ripe. Pale green dots are not ripe yet. Not every fern has dots on every frond. Some, such as many ferns in pots, make dots only when they are mature. If you find no dots, try another fern."
     },
     {
      "id": "s3",
      "mins": 6,
      "context": "In this step you look at the print.",
-     "do": "The next day: 1. Lift the bowl and the frond carefully. 2. Look at the dust on the paper. 3. Look at it with a magnifying glass. 4. Draw it.",
+     "do": "The next day: 1. Lift the bowl and the frond carefully. 2. Look at the dust on the paper. 3. Look at it with a magnifying glass. 4. Ask your child what the dust looks like.",
      "say": "The paper has a pattern. What do you see? What colour is the dust? Does it look like seeds? Look closely.",
-     "kid": "Lift the frond. Look at the dust on the paper. Draw what you see.",
+     "kid": "Lift the frond. Look at the dust on the paper. Say what it looks like.",
      "parent": "The dust is a very fine powder, orange-brown or dark brown, in the shape of the frond. It is made of millions of spores. Each is much smaller than a seed. Do not blow on it, and wash your hands. If the paper stays clean after a day, the dots were not ripe. Leave the frond one more day, or try a darker-dotted frond. A pale or tiny print is normal. A print is not guaranteed, so also draw the dots you saw. Who: one frond serves 1 to 4 children, who take turns lifting it and each draw the print. If you find two fronds, two children can each make a print and compare.",
      "check": {
       "t": "mcq",
@@ -2695,7 +2695,7 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the first step of Read a Tree's Diary. You look at rings and guess what they mean.",
-     "do": "If you have a real log or branch, show it. Count the rings and ask what each ring might mean. Otherwise, draw a circle with several rings and ask the same.",
+     "do": "If you have a real log or branch, show it. Count the rings and ask what each ring might mean. Otherwise, show a photo of a cut tree stump and ask the same.",
      "say": "This is a slice of a tree. Do you see the rings? What do you think each ring means? Why do some rings look wider than others?",
      "kid": "Look at the rings. What does each ring mean? Why are some wider?",
      "ask": [
@@ -2723,9 +2723,9 @@
      "id": "s3",
      "mins": 7,
      "context": "In this step you compare a second tree with the first.",
-     "do": "1. Tree B was planted in 2016. Its ring widths for 2016 to 2023 are 1, 3, 4, 4, 1, 5, 3, 4. 2. Draw tree B's strip. 3. Compare it with tree A. 4. Which years are narrow in both?",
+     "do": "1. Tree B was planted in 2016. Its ring widths for 2016 to 2023 are 1, 3, 4, 4, 1, 5, 3, 4. 2. Write tree B's numbers under the matching years on tree A's strip. 3. Compare the two trees. 4. Which years are narrow in both?",
      "say": "Tree B is a different tree in the same place. Does it have narrow rings in the same years as tree A? What does that tell you about those years?",
-     "kid": "Draw tree B's rings. Are the same years narrow in both trees?",
+     "kid": "Write tree B's numbers under the matching years on tree A's strip.",
      "parent": "Tree B's ring for 2016 is 1 and for 2020 is 1. They match tree A's two narrow years. This agreement is how scientists tell that the weather was the cause.",
      "check": {
       "t": "mcq",
@@ -2757,7 +2757,7 @@
    "title": "The Lifespan Tape: plants on a very long strip of paper",
    "mins": 25,
    "days": 1,
-   "context": "In this activity, you draw a very long strip of paper in which 1 millimetre stands for 1 year. You mark how long different plants live, and see how big the differences are.",
+   "context": "In this activity, you make a very long strip of paper in which 1 millimetre stands for 1 year. You mark how long different plants live, and see how big the differences are.",
    "materials": [
     {
      "item": "a long strip of paper 5 metres long: a roll of paper, newspaper sheets taped end to end (about 20 to 25 sheets), or chalk on the floor of a veranda or terrace",
@@ -2801,8 +2801,8 @@
      "mins": 3,
      "context": "This is the first step of the Lifespan Tape. You guess before you measure.",
      "do": "Show your child the list of plants. Ask which will be the longest on the strip and which the shortest. Write the guesses.",
-     "say": "We will make a strip where one millimetre is one year. How long do you think the strip for a moong plant will be? How long for the oldest tree? Why do you think so?",
-     "kid": "One millimetre is one year. How long will the strip for a moong plant be? For a tree?",
+     "say": "We will make a strip where one millimetre is one year. We will mark how long each plant lives.",
+     "kid": "Look at the list of plants. Point to the one you think will be longest on the strip.",
      "ask": [
       {
        "q": "How long do you think the moong plant's strip will be?",
@@ -2820,7 +2820,7 @@
      "mins": 12,
      "context": "In this step you measure and mark the plant lifespans on the tape.",
      "do": "1. Tape sheets into a strip about 5 metres long. 2. Mark a 'start' line. 3. Measure and mark each plant: moong 0.25 millimetres, which is a dot. Papaya 4 millimetres. Coconut palm 70 millimetres. Mango tree 100 millimetres. Great Banyan 250 millimetres. Peepal 2,300 millimetres. Bristlecone pine 4,800 millimetres. 4. Write the plant's name at each mark.",
-     "say": "One millimetre is one year. A moong plant lives about three months. That is a quarter of a millimetre, less than the tip of a pencil. A bristlecone pine is 4,800 millimetres. How long is that?",
+     "say": "One millimetre is one year. A moong plant lives about three months. That is a quarter of a millimetre, less than the tip of a pencil. A bristlecone pine is 4,800 millimetres. How many metres is that?",
      "kid": "Make a strip. One millimetre is one year. Mark each plant at the right length.",
      "parent": "4,800 millimetres is 480 centimetres, which is 4 metres and 80 centimetres. The peepal's 2,300 millimetres is 2 metres 30 centimetres. The numbers for the trees are reported and rounded. A coconut palm is given a lifespan of about 70 years, and the Great Banyan is said to be about 250 years old. A moong plant, at about 3 months, is a quarter of a millimetre, which is a speck of a dot. Who: one child can do it alone, but it is faster with 2 to 4: one measures with the tailor's tape, one marks, one writes the names, one checks the numbers. A metre stick or tailor's tape saves a lot of time. For a quick version, use chalk on the floor and skip the taping. All the tree ages here are reported or about, not exact.",
      "check": {
@@ -2841,7 +2841,7 @@
      "context": "In this step you walk along the strip and compare.",
      "do": "Walk along the strip together. Stop at each plant. Ask what surprised your child.",
      "say": "Walk along the strip. Which plant is so short that you can hardly see it? Which plant is the longest? A moong plant lives a quarter of a year. How many moong lifetimes would fit in one year?",
-     "kid": "Walk along the strip. Which plant is the longest? Which can you hardly see?",
+     "kid": "Walk along the strip with your grown-up. Stop at each plant.",
      "ask": [
       {
        "q": "Which plants are tiny on the strip, and which is very long? What does that show about how long plants live?",
@@ -2975,7 +2975,7 @@
      "context": "This is the first step of Pinch or Let Go. You guess before you plant.",
      "do": "Show your child the seedlings. Explain that three plants will have their old flowers pinched off and three will not. Ask for a guess and a reason. Write it down.",
      "say": "Marigolds flower for a long time. We will pinch the old flowers off three plants. The other three keep their flowers to make seeds. After eight weeks, which group will have more flowers? Why do you think so?",
-     "kid": "Pinch three plants. Leave three alone. Which group flowers more? Why?",
+     "kid": "Look at the six seedlings. Three will be pinched and three left alone.",
      "ask": [
       {
        "q": "Why might pinching off old flowers make a plant flower longer?",
@@ -2992,7 +2992,7 @@
      "id": "s2",
      "mins": 15,
      "context": "In this step you plant the six seedlings and label them.",
-     "do": "1. Fill six pots with soil. 2. Plant one seedling in each pot, at the same depth as the seedling was before. 3. Water well. 4. Label three P1, P2 and P3 and three L1, L2 and L3. 5. Put all six pots side by side in the sun.",
+     "do": "1. Fill six pots with soil. 2. Plant one seedling in each pot, at the same depth as the seedling was before. 3. Water well. 4. Label three pots Pinch (P1, P2, P3) and three Let Go (L1, L2, L3). 5. Put all six pots side by side in the sun.",
      "say": "Plant all six the same way. Same soil, same sun, same water. Only the pinching will be different. Put the labels on the pots, not on the plants.",
      "kid": "Plant six seedlings the same way. Label three Pinch and three Let Go. Put them in the sun.",
      "parent": "Pick seedlings of the same size and health. Water every day or two, so the soil is damp but not soggy. Keep the pots where they get at least five hours of direct sun. Marigolds like heat.",
@@ -3022,7 +3022,7 @@
      "id": "s4",
      "mins": 12,
      "context": "In this step you add up the flowers, draw the graph and look at the seeds.",
-     "do": "1. At week eight, count the open flowers on each plant for the last time. 2. Add up the flowers for each group, week by week. 3. Draw a line graph with a line for each group. 4. Collect the dry seed heads from the Let Go plants and open one.",
+     "do": "1. At week eight, count the open flowers on each plant for the last time. 2. Add up the flowers for each group, week by week. 3. Draw a line graph with a line for each group, or write the totals side by side. 4. Collect the dry seed heads from the Let Go plants and open one.",
      "say": "Add up the flowers for each group. Which group had more? Look at the dry seed heads. What is inside?",
      "kid": "Add up the flowers. Draw the graph. Open a dry seed head.",
      "ask": [
@@ -3070,7 +3070,7 @@
     "about 1 kilogram of uncooked rice in a big bowl or basket, for the burying design. Wash and use it normally afterwards.",
     "a pencil, paper and labels"
    ],
-   "context": "This is a design challenge about ripening. You use what you know about the ripening gas to plan how to ripen a mango in a set time.",
+   "context": "This is a design challenge about ripening. You use what you know about the gas that ripe fruit give off, called ethylene, to plan how to ripen a mango in a set time.",
    "general": [
     "A paper bag with one ripe banana, opened once a day.",
     "A cardboard box with a loose cloth lid and a ripe banana, opened once a day.",
@@ -3081,7 +3081,7 @@
     "A layer of newspaper around the mango inside a box, so the warmth and gas stay close.",
     "A ripe apple instead of a banana, since an apple also gives off a lot of ethylene."
    ],
-   "your_turn": "Now invent your own plan. Draw it, build it and press the mango each day. Did your mango get ripe on dinner day? What would you change?",
+   "your_turn": "Now invent your own plan. Plan it, build it and press the mango each day. Did your mango get ripe on dinner day? What would you change?",
    "setup": [
     {
      "art": "Four different set-ups on a table: a paper bag with a banana, a box with a cloth, a basket of rice and a mango alone.",
@@ -3101,9 +3101,9 @@
      "id": "s1",
      "mins": 8,
      "context": "This is the first step of the Ripe on Time challenge. You plan before you build.",
-     "do": "Read the problem together. Look at the usual designs and the creative ones. Ask your child to draw two or three plans.",
-     "say": "You have four days to ripen one mango. What do you need to make fruit ripen? What do you need to avoid? Draw some ideas first.",
-     "kid": "Draw two or three ways to ripen the mango in four days.",
+     "do": "Read the problem together. Look at the usual designs and the creative ones. Ask your child to plan two or three ways, by laying out kitchen things or by telling you.",
+     "say": "You have four days to ripen one mango. Think about what makes fruit ripen, and what you must avoid. Show me some ideas first.",
+     "kid": "Show two or three ways to ripen the mango in four days.",
      "ask": [
       {
        "q": "What do you know about how fruit ripen?",
@@ -3180,7 +3180,7 @@
     "Trim the stems fresh every two days, and take away any yellow leaves.",
     "Put the bunch in the fridge in a box with a small hole, so the gas can leave."
    ],
-   "your_turn": "Now invent your own way to store coriander. Draw it, set it up and rate it on day 7. Which design kept the coriander greenest? Why do you think it worked?",
+   "your_turn": "Now invent your own way to store coriander. Plan it, set it up and rate it on day 7. Which design kept the coriander greenest? Why do you think it worked?",
    "setup": [
     {
      "art": "Four coriander bunches in four different set-ups: stems in a jar with a loose bag, wrapped in a damp towel, in a box with a banana, and on a shelf in the open.",
@@ -3200,9 +3200,9 @@
      "id": "s1",
      "mins": 8,
      "context": "This is the first step of the Keep the Greens Green challenge. You plan before you build.",
-     "do": "Read the problem together. Look at the usual designs and the creative ones. Ask your child to sketch two or three plans.",
-     "say": "Coriander goes yellow in days. What makes a leaf age? What helps a leaf stay fresh? Draw some ideas first.",
-     "kid": "Draw two or three ways to keep coriander green for a week.",
+     "do": "Read the problem together. Look at the usual designs and the creative ones. Ask your child to plan two or three ways, by laying out the things or by telling you.",
+     "say": "Coriander goes yellow in days. What helps a leaf stay fresh? Show me some ideas first.",
+     "kid": "Show two or three ways to keep coriander green for a week.",
      "ask": [
       {
        "q": "What makes leaves turn yellow?",

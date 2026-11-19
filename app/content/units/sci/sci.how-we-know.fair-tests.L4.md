@@ -282,7 +282,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 - **s2 (5 min)**  
   *Parent does:* Read the first card as a practice. Ask your child to say the three jobs out loud before you read the back.  
   *Parent says:* Here is the first test. What is being changed? What is being measured? What must stay the same?  
-  *Child mode:* Read the first card. Say what is changed, what is measured and what stays the same.
+  *Child mode:* Read the first card. Say the three jobs out loud.
   - Note: Children often mix up the thing that is changed and the thing that is measured. Ask: 'What was changed on purpose? What was looked at afterwards to see what happened?'
   - Check: A test asks whether a longer rubber band shoots a paper ball farther. What is the thing that is measured? → **How far the ball travels**
 - **s3 (14 min)**  
@@ -309,7 +309,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 - **s2 (4 min)**  
   *Parent does:* Read the first card as a practice round. Ask your child to compare the gap between the two averages with the wobble in each set.  
   *Parent says:* Look at the two sets of times. How far apart are the averages? How far do the numbers wobble inside each set? Is the gap bigger than the wobble?  
-  *Child mode:* Read the first card. Is the gap bigger than the wobble?
+  *Child mode:* Read the first card. Look at the two sets of times.
   - Note: A simple rule for a child: if the gap between the averages is bigger than the spread within each set, the difference is probably real. If the gap is smaller, we cannot tell yet.
   - Check: Two sets of times have averages of 2.0 and 1.2 seconds. Each set spreads by about 0.4. What does that suggest? → **The gap is bigger than the wobble, so the difference is probably real**
 - **s3 (9 min)**  
@@ -318,7 +318,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
   *Child mode:* Take turns. Read a card. Pick a token. Say why.
   - Ask: What makes a conclusion go too far? (good: It says 'every' or 'always' from a few tries.; It says one thing causes another from a pattern.; It claims a number nobody tested.)
 - **s4 (4 min)**  
-  *Parent does:* Add up the points. Choose the card that you found the hardest. Ask your child to rewrite its conclusion so that it says no more than the results show.  
+  *Parent does:* Add up the points. Choose the card that you found the hardest. Ask your child to rewrite or say its conclusion so that it says no more than the results show.  
   *Parent says:* Which card was hardest? Rewrite its conclusion so that it says only what the results show.  
   *Child mode:* Pick the hardest card. Rewrite its conclusion.
   - Think: Good scientists would rather write a smaller true sentence than a bigger shaky one. Why?
@@ -329,12 +329,12 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 - **predict:** Before you start, guess. Which spinner will fall slowest: short wings, middle wings or long wings? How much will the five times for the same spinner differ from each other? Why do you think so? Write your guess and your reason.
 - **fair test:** The thing we change is the length of the wings: 4, 6 and 8 centimetres. The thing we measure is the time to fall from the same height, in seconds. We keep the same: the paper, the size of the strip, the paper clip, the person who drops, the person who times, the height and the room with the fan switched off. We drop the spinners in turns, short, middle, long, short, middle, long, so tiredness and draughts affect all three. We repeat each spinner five times.
 - **safety:** Use scissors with a grown-up near. Keep the fan off. Stand on the floor, not on a chair, to drop the spinners. Paper clips are small parts: keep them away from children under five.
-- **record:** Fill in the results table. Work out the average and range for each wing length. Draw a line graph of average time against wing length.
+- **record:** Fill in the results table. Work out the average and range for each wing length. Draw a line graph of average time against wing length, or line up the spinners from slowest to fastest and tell what you see.
 - **results table:** Wing length (cm) | Drop 1 (s) | Drop 2 (s) | Drop 3 (s) | Drop 4 (s) | Drop 5 (s) | Average (s) | Range (s)
 - **s1 (4 min)**  
   *Parent does:* Show your child the strips. Write three headings: Change, Measure, Keep the same. Ask your child to fill them in. Then ask for a guess and a reason. Also ask how much the five times for one spinner will differ.  
   *Parent says:* We will test spinners with different wing lengths. What do we change? What do we measure? What do we keep the same? Which spinner will fall slowest? How much will five times for the same spinner differ?  
-  *Child mode:* Fill in: change, measure, keep the same. Which spinner will fall slowest? Why?
+  *Child mode:* Fill in the three headings. Then make your guess.
   - Ask: Which spinner will fall slowest, and why? (good: The one with the longest wings, because the air pushes them more.; The short wings, because they are lighter.; The middle, because it is just right.)
   - Note: Do not correct the guess. Write both guesses at the top. The second guess, about how much the times will differ, is new. Let your child say a number, such as a quarter of a second. Roles: with one child, the child times and writes while you drop. With 2 to 4 children, one times, one writes in the table and one watches the spinner land and calls 'bumped' if it hits something. The dropper and the timer stay the same for all 15 drops, so the others can swap jobs only between spinners. Two children can also make their own set of three spinners and run them as a second set of drops, which gives you ten drops for each wing length.
   - Check: In this test, which is the thing we change? → **The length of the wings**
@@ -363,9 +363,9 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
   - Note: To avoid decimals, you can use tenths of a second: 14, 16, 15, 13 and 17. The total is 75 and the average is 15 tenths. The range is 17 minus 13, which is 4 tenths.
   - Check: Five times were 1.4, 1.6, 1.5, 1.3 and 1.7 seconds. What is the average? → **1.5 seconds**
 - **s6 (6 min)**  
-  *Parent does:* Ask your child to draw a line graph of the three averages against wing length, using the table. Then ask them to write a claim, evidence and reasoning, and one limit. Read the explanation 'Why a longer wing slows a spinner'.  
+  *Parent does:* Ask your child to draw a line graph of the three averages, or to line the spinners up from slowest to fastest. Then ask for a claim, evidence and reasoning, and one limit. Read the explanation 'Why a longer wing slows a spinner'.  
   *Parent says:* What can you say from your numbers? What is the claim? What is the evidence? Why does it happen? What can you not say?  
-  *Child mode:* What did you find? What is the evidence? Why? What can't you say?
+  *Child mode:* Tell us your claim, your evidence, and why it happens.
   - Ask: What can you not say from your numbers? (good: What happens with a wing of 20 centimetres.; That it works for every kind of paper.; That a bigger wing always slows it by the same amount.)
   - Ask: Is the gap between the averages bigger than the wobble in each set? (good: Yes, so the difference is probably real.; No, so we cannot be sure yet.)
   - Note: A typical result is that longer wings give longer times, by a few tenths of a second or more. The times are usually about 1 to 2 seconds in all. Yours will differ, and the order can even come out wrong for one pair. If the three averages are close together, say 'we cannot tell' and repeat with more drops or a bigger change in wing length.
@@ -374,12 +374,12 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 - **predict:** Before you start, guess. Which shape will hold the most coins, and which the fewest? About how many coins will the flat strip hold? Why do you think so? Write your guess and your reason.
 - **fair test:** The thing we change is the shape of the paper: flat, channel, pleated or tube. The thing we measure is the number of coins held before the bridge sags to the table. We keep the same: the paper and the strip size, the gap between the books, the overlap on each stack, the cup that holds the coins, and the way we add the coins, gently and one at a time. We use a fresh strip for each try, because a bent strip is weaker. We test each shape three times, in turns.
 - **safety:** Coins are small parts: keep them away from children under five, who might put them in their mouths. Do the test on a table, not on a shelf, so falling coins do not hit feet. Use tape and scissors with a grown-up near.
-- **record:** Fill in the results table. Work out the average and the range for each shape. Draw a bar chart of the averages.
+- **record:** Fill in the results table. Work out the average and the range for each shape. Draw a bar chart of the averages, or stack coins into four piles.
 - **results table:** Shape | Try 1 (coins) | Try 2 (coins) | Try 3 (coins) | Average (coins) | Range (coins)
 - **s1 (5 min)**  
   *Parent does:* Show your child the strips and the books. Ask for the three jobs in this test. Ask for a guess and a reason, and for a guess about how many coins the flat strip will hold.  
   *Parent says:* We will fold paper into four bridges. What do we change? What do we measure? What do we keep the same? Which will hold the most coins? Why do you think so?  
-  *Child mode:* There are four bridge shapes. Which will hold the most coins? Which will hold the fewest? Why?
+  *Child mode:* Look at the strips and the books. Guess how many coins a flat strip will hold.
   - Ask: Which bridge do you think will hold the most, and why? (good: The tube, because it is round and thick.; The pleats, because folding makes it thicker.; The channel, because the edges are like walls.)
   - Note: Do not correct the guess. Write the guess and the reason at the top. If your child guesses a number for the flat strip, write it. Roles: with one child, you hold the strip steady and the child adds coins and counts. With 2 to 4 children, one adds coins, one counts aloud, one watches the middle of the bridge and calls 'stop', and one writes. Swap jobs after each shape. Two children can each build a set and test them, which gives you more tries for each shape.
 - **s2 (8 min)**  
@@ -407,9 +407,9 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
   - Note: If one of the three numbers for a shape is very different from the other two, test that shape two more times before deciding.
   - Check: A shape held 9, 11 and 10 coins. What is its average? → **10 coins**
 - **s6 (5 min)**  
-  *Parent does:* Ask your child to draw a bar chart of the four averages. Ask for a claim, evidence and reasoning. Ask what cannot be said. Read the explanation 'Why a fold makes paper strong'.  
+  *Parent does:* Ask your child to draw a bar chart of the four averages, or to stack coins in four piles. Ask for a claim, evidence and reasoning. Ask what cannot be said. Read the explanation 'Why a fold makes paper strong'.  
   *Parent says:* What is your claim about the bridges? What numbers support it? Why does a fold make paper stronger? What can't you say from three tries?  
-  *Child mode:* Draw the bar chart. What did you find? What can't you say?
+  *Child mode:* Show the four averages as a bar chart or as piles of coins. Say what you found.
   - Ask: What can't you say from your test? (good: That the same order holds for every kind of paper.; That it works over a longer gap.; That one shape is best for every job.)
   - Note: Typical results are that the flat strip holds almost nothing and the folded shapes hold many coins, with the tube and the pleats often best. Yours may differ. Honest results are the point. If the ranges overlap between two shapes, say 'we cannot tell which is better'.
 
@@ -418,7 +418,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 - **record:** A list of every measurement, with the smallest, the biggest, the range and the average.
 - **s1 (8 min)**  
   *Parent does:* 1. Choose one straight edge of the table. 2. Your child measures it five times, to the nearest centimetre. They write each number on a new line without looking at the earlier ones. 3. Each other person measures it once and writes the number on a slip, without showing anyone. If you are only two, you measure five times too, without looking at your child's numbers. With 2 to 4 children, each child measures five times, so you have 10 to 20 numbers.  
-  *Parent says:* Measure this edge of the table to the nearest centimetre. Write the number. Then do it again, as if it were the first time. Do you think all five numbers will be the same?  
+  *Parent says:* Measure this edge of the table to the nearest centimetre. Write the number. Then do it again, as if it were the first time.  
   *Child mode:* Measure the table edge five times. Write each number. Do not peek at the old ones.
   - Ask: Do you think all your numbers will be the same? Why? (good: Yes, because it is the same table.; No, because I might hold the tape differently.)
   - Note: Do not say what you expect. Let the numbers come out as they come. Ask your child to start the tape at the very end of the table each time.
@@ -430,29 +430,29 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
   - Check: Five measurements of a table are 120, 121, 120, 122 and 120 centimetres. What is the range? → **2 centimetres**
 - **s3 (5 min)**  
   *Parent does:* Measure the same edge once with something else, such as a string or a hand span. Compare it with the ruler numbers. Ask which way of measuring gave a steadier answer.  
-  *Parent says:* Now measure with your hand span, or a string. Is it the same as the ruler? Which way of measuring would you trust the most? Why?  
-  *Child mode:* Measure the edge with a string or a hand span. Which is steadier?
+  *Parent says:* Now measure with your hand span, or a string. Is it the same as the ruler? Which way of measuring would you trust the most?  
+  *Child mode:* Measure the edge with a string or a hand span. Write the number.
   - Ask: Which way of measuring gave the steadiest numbers, and why? (good: The ruler, because it has fixed marks.; The tape, because it bends around the edge.; The string, because I can mark the length.)
   - Think: If a measurement can wobble by a centimetre, how big must a difference be before you trust it?
 ### a2 · The Sneaky Variable: spot what was not kept the same (15 min)
 - **safety:** A grown-up switches the fan on and off.
 - **record:** A list of every difference you found, and a sentence saying how you would make the test fair.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* While your child is out of the room, take two cloths, one a bit bigger than the other. Wet one with two spoonfuls of water and the other with one. Hang the first in the corner and the second near the fan. Tell your child that the test is to find which cloth dries faster.  
+  *Parent does:* While your child is out of the room, take two cloths, one a bit bigger than the other. Wet one with two spoonfuls of water and the other with one. Hang the first in the corner and the second near the fan. Call your child in. Tell them that the test is to find which cloth dries faster.  
   *Parent says:* I have set up a test to find which cloth dries faster. I think there is something wrong with it. Can you find out what?  
   *Child mode:* A grown-up sets up two cloths. Something is not fair. Wait until you are called in.
   - Note: Make three differences, not more: the amount of water, the place, and the size of the cloth. Do not tell your child how many. Keep the setup safe and dry underneath. With brothers and sisters, an older child can set it up for the others, with a grown-up checking the fan. Take turns.
 - **s2 (6 min)**  
   *Parent does:* Ask your child to look at the two cloths and say every difference they can see. Write them down. Ask them to say which differences matter.  
-  *Parent says:* Look closely at the two cloths. What is different about them? What else is different about where they hang? Write down every difference you find.  
-  *Child mode:* Look at both cloths. Write every difference you find.
+  *Parent says:* Look closely at the two cloths and where they hang. Find every difference. Write each one down.  
+  *Child mode:* Look at both cloths. Find every difference. Tell it or write it.
   - Ask: What is different about the cloths and where they hang? (good: One is bigger.; One is wetter.; One is near the fan.; One is in a corner.)
   - Note: Some children find only the obvious difference. Prompt them with: 'What about the water? What about the size? What about where each one hangs?'
   - Check: One cloth hangs near a fan and the other in a corner. The test is to find which cloth dries faster. What is wrong with this? → **The place is different as well as the cloth**
 - **s3 (4 min)**  
   *Parent does:* Now ask your child to say how they would make it fair. Fix the test. Wet both cloths the same, use the same size, and hang them side by side in the same place. You do not need to wait for them to dry. If you like, leave the unfair set-up and look again after an hour. Ask: did one cloth dry first because of the cloth, the water, the size or the place? Nobody can say, and that is the point.  
-  *Parent says:* How would you fix it? What do you keep the same? What is the one thing you change?  
-  *Child mode:* Fix the test. What stays the same? What is the one thing you change?
+  *Parent says:* How would you fix it? What do you keep the same?  
+  *Child mode:* Fix the test so it is fair. Say what stays the same.
   - Ask: What is the one thing you would change, and what would you measure? (good: The kind of cloth. I would time how long each takes to dry.; The place. I would time how long each takes to dry.)
   - Think: A test with a hidden difference can look fair. How can you check your own tests for sneaky variables?
 ### a3 · Coin Wobble: how far can chance move a count? (20 min)
@@ -460,8 +460,8 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 - **record:** A table of five sets of ten tosses with the number of heads in each, the range and the average.
 - **s1 (4 min)**  
   *Parent does:* Ask your child to guess how many heads they will get in ten tosses. Ask if they think the number will be the same each time they toss the coin ten times. Ask why.  
-  *Parent says:* If you toss a coin ten times, how many heads will you get? Will you get that number every time you do ten tosses? Why do you think so?  
-  *Child mode:* If you toss a coin ten times, how many heads will you get? Will it be the same number every time? Why?
+  *Parent says:* We will toss a coin ten times and count the heads. How many heads do you think you will get?  
+  *Child mode:* Guess how many heads you will get in ten tosses.
   - Ask: Will the count of heads be the same in each set of ten tosses? (good: No, because it is luck.; Yes, it should be five each time.; It will be near five but not always five.)
   - Note: Do not say anything about chance yet. Write the guess. Most children say five.
 - **s2 (10 min)**  
@@ -472,8 +472,8 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
   - Wait: If you get tired, take a short break after set 3.
 - **s3 (6 min)**  
   *Parent does:* Find the smallest and biggest count. Work out the range and the average. Ask whether any set was exactly five. Ask what this means for a test where one plate of 10 seeds has 3 sprouted seeds and another has 6.  
-  *Parent says:* What was your smallest count of heads? What was your biggest? Was any set exactly five? If a coin can give 3 in one set and 7 in another, what does that mean for a test?  
-  *Child mode:* Find the smallest and the biggest. What does the wobble tell you?
+  *Parent says:* What was your smallest count of heads? What was your biggest? Was any set exactly five?  
+  *Child mode:* Find the smallest and the biggest count of heads.
   - Ask: The count of heads wobbled from set to set. What does that tell you about a test that counts how many of 10 seeds sprout? (good: A difference of one or two seeds might be chance.; We need to repeat the test to be sure.)
   - Check: Two identical plates of ten seeds, with the same water, gave 7 and 9 sprouted seeds. What is the best thing to say? → **The difference of 2 can come from chance alone**
   - Think: If each set had 100 tosses, not 10, would the share of heads wobble more or less?
@@ -491,9 +491,9 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
   - Ask: What shape does the line make? (good: It goes up as the wings get longer.; It goes up faster after 6 centimetres.; It is nearly a straight line.)
   - Check: Why do we plot the average and not a single try? → **The average is steadier than one try**
 - **s3 (6 min)**  
-  *Parent does:* Ask your child to put a finger on the graph where a wing of 5 centimetres would be. They read off a guess for the time. Ask whether a guess for 20 centimetres would be safe. Ask them to write three sentences about what the graph shows.  
-  *Parent says:* Put your finger at 5 centimetres. What time do you think a spinner with 5 centimetre wings would take? Would a guess for 20 centimetres be safe? Why not?  
-  *Child mode:* Find 5 centimetres on the graph. What time do you guess? Is 20 centimetres a safe guess?
+  *Parent does:* Ask your child to put a finger on the graph where a wing of 5 centimetres would be. They read off a guess for the time. Ask whether a guess for 20 centimetres would be safe. Ask them to write or say three sentences about what the graph shows.  
+  *Parent says:* Put your finger at 5 centimetres. What time do you think a spinner with 5 centimetre wings would take? Would a guess for 20 centimetres be safe?  
+  *Child mode:* Put a finger on 5 centimetres on the graph. Read off the time.
   - Ask: Why is a guess for 20 centimetres less safe than a guess for 5? (good: I did not test anything near 20.; The line may bend or flatten out beyond 8.; 5 is between points I tested, but 20 is far outside.)
   - Think: A guess between two tested points is usually fairly safe. A guess far beyond the tested points is a much bigger gamble. Why?
 
@@ -504,7 +504,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 - **schedule:** day 1: Make the plan. Set up six katoris with ten seeds each. Add the first water. (25 min); day 2: Add the morning water. Look at each katori and note anything unusual. (10 min); day 3: Add the morning water. Count the sprouted seeds in each katori. (10 min); day 4: Count again. Work out the averages and ranges. Write the conclusion. (10 min)
 - **s1 (25 min)**  
   *Parent does:* 1. Cut six pieces of tissue to fit the katoris. 2. Put one piece in each katori. 3. Count ten unbroken seeds onto each. 4. Label the katoris: A and B for no water, C and D for one teaspoon, and E and F for three teaspoons. 5. Add the first water to C, D, E and F. 6. Put all six in the same place, away from sun and fan. 7. Write down the three jobs and your guess.  
-  *Parent says:* We have three amounts of water: none, a little and plenty. Each amount gets two katoris, so we can see how much chance moves the counts. What do we change? What do we measure? What do we keep the same? Which katori will have the most sprouted seeds? Why do you think so?  
+  *Parent says:* We have three amounts of water: none, a little and plenty. Each amount gets two katoris, so we can see how much chance moves the counts. Which katori will have the most sprouted seeds? Why do you think so?  
   *Child mode:* Set up six katoris. Two get none, two get a little, two get plenty. Which sprouts best? Why?
   - Ask: What do we change, what do we measure, and what do we keep the same? (good: We change the water. We count the seeds that sprout. We keep the same seeds, katoris, tissue, warmth and number of days.)
   - Note: Use the same kind of seed from the same packet. Throw out cracked seeds. Keep the katoris side by side so the warmth is the same. Whatever you find is a real result. Before you begin, soak 5 seeds overnight: if they do not show a tail in 2 days, the packet is too old, so use another. Roles: with one child, the child sets up and you check. With 2 to 4 children, each looks after one amount of water (none, a little or plenty) and writes down the counts for their own two katoris; the youngest counts the seeds out. If nothing sprouts even with plenty of water, the cause is old seeds or cold weather, so repeat in a warmer place. In hot, dry weather the one-teaspoon katoris can dry out by evening, so say so in your conclusion. Typically moong with plenty of water shows tails within 2 to 3 days, but your numbers will differ.
@@ -518,7 +518,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 - **s3 (10 min)**  
   *Parent does:* On day 4, count the sprouted seeds in each katori. Work out the average and range for each amount of water. Write a claim, evidence and reasoning, with one limit.  
   *Parent says:* Count the sprouted seeds in each katori. A and B are one amount, so find their average. Do the same for C and D, and for E and F. What can you say? What can't you say?  
-  *Child mode:* Count the sprouted seeds. Find the average for each amount. What can you say? What can't you say?
+  *Child mode:* Count the sprouted seeds. Find the average for each amount.
   - Ask: Is the difference between amounts bigger than the difference between two katoris with the same amount? (good: Yes, so the water probably made a difference.; No, so we cannot tell the two amounts apart yet.)
   - Check: Katori C had 7 sprouted seeds and katori D had 9, both with one teaspoon. Katori E had 10 and F had 8, both with three teaspoons. What is the best thing to say? → **We cannot tell whether one teaspoon and three teaspoons differ, because the two katoris with the same amount already differ by 2**
   - Think: If you wanted to find a small difference between a little and plenty, what would you change in the test?
@@ -532,9 +532,9 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 - **general:** Make the wings longer or wider. More wing area means more air resistance.; Fold the wings a little further apart, so they catch more air as they spin.
 - **creative:** Try tilting the wings at a different angle by bending them more or less, and see which angle gives the slowest fall.; Fold the tips of the wings a little to keep them stiff, so they do not droop as the spinner spins.; Try a very different shape, such as a single-winged spinner like a maple seed, and time that.
 - **s1 (6 min)**  
-  *Parent does:* Read the problem together. Ask your child to sketch two or three ideas. Ask which one thing they will change. Ask what they will keep the same.  
-  *Parent says:* You need to make a spinner that falls more slowly than the one with 6 centimetre wings. What could make a spinner fall slower? Which one thing will you change first?  
-  *Child mode:* Sketch two ideas. Choose one thing to change first.
+  *Parent does:* Read the problem together. Ask your child to sketch two or three ideas, or to describe them out loud. Ask which one thing they will change. Ask what they will keep the same.  
+  *Parent says:* You need to make a spinner that falls more slowly than the one with 6 centimetre wings. What could make a spinner fall slower?  
+  *Child mode:* Sketch or describe two ideas. Choose one to try first.
   - Ask: What one thing will you change? (good: The length of the wings.; The width of the wings.; The angle of the wings.)
   - Note: If your child wants to change two things at once, ask: 'If it works, how will you know which one did it?' With 2 to 4 children, each child builds their own design and all of them compete against the same baseline, with one dropper and one timer. With one child, you can be the dropper.
 - **s2 (14 min)**  
@@ -545,7 +545,7 @@ That evening, Appooppan took the timer himself. Aadhira noticed that he wrote th
 - **s3 (10 min)**  
   *Parent does:* Work out the average and range for both designs. Ask whether the gap between the averages is bigger than the spread in each set. Ask for a claim, evidence and reasoning.  
   *Parent says:* What is the average for the old spinner? What is it for the new one? Is the gap bigger than the spread within each set? Can you prove your design is slower?  
-  *Child mode:* Find both averages and ranges. Is the gap bigger than the spread? Did you prove it?
+  *Child mode:* Find both averages and both ranges.
   - Ask: What would you do if the gap is smaller than the spread? (good: Drop more times.; Make a bigger change to the wing.; Measure more carefully, for example with slow-motion video.)
   - Note: This step is about judging the result honestly. Many first designs are only slightly different. A bigger change, such as doubling the wing area, shows up more clearly. A slow-motion phone video can time the fall more steadily than a stopwatch.
   - Check: The old spinner averages 1.4 seconds, with times from 1.2 to 1.6. The new spinner averages 1.6, with times from 1.4 to 1.8. What is the best conclusion? → **The gap of 0.2 is smaller than the spread of 0.4, so it is too close to call**

@@ -336,7 +336,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 - **s4 (4 min)**  
   *Parent does:* Add up the points. Ask which checks were the best at telling ideas apart. Ask what they had in common.  
   *Parent says:* Let's count. What did the best checks all have in common?  
-  *Child mode:* Add up your points. What did the best checks have in common?
+  *Child mode:* Add up your points. Then look at the best checks together.
   - Ask: What did the best checks have in common? (good: The two ideas gave different results.; They changed or watched one thing that the ideas disagree about.)
   - Think: Can you make your own card about something that puzzled you this week?
 
@@ -346,18 +346,18 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 - **predict:** Before you start, guess. What will happen to the outside of a tumbler filled with ice water? Where do you think the water will come from? Why do you think so? Write your guess and your reason.
 - **fair test:** This test puts two ideas against each other. It does not change one thing to see what it does. The deciding question is: what colour are the drops? Leaking predicts coloured drops, and water from the air predicts clear drops. To keep it fair, both tumblers are the same size and start dry. They stand on the same kind of plate in the same place and are checked at the same times. The warm tumbler is the control, because it shows what the room does when the steel is not cold.
 - **safety:** Use warm tap water, never hot water from a kettle. A grown-up should pour for young children, and handle glass tumblers, since glass can break. Food colour and haldi stain clothes, so work on a tray or a table you can wipe.
-- **record:** Fill in the results table at 5, 10 and 15 minutes. Write the minute you first saw drops on the cold tumbler. Draw both tumblers at 15 minutes, and colour in the water inside and the drops outside.
+- **record:** Fill in the results table at 5, 10 and 15 minutes. Write the minute you first saw drops on the cold tumbler. Draw both tumblers at 15 minutes and colour the water and the drops, or take a photo and tell what colour the drops were.
 - **results table:** Time (minutes) | Cold tumbler: what the outside looks like | Cold tumbler: colour of the drops | Warm tumbler: what the outside looks like
 - **s1 (5 min)**  
   *Parent does:* Show your child the two tumblers and the ice. Ask what will happen to the outside of the ice-water tumbler. Ask why. Write the guess and the reason at the top of the page.  
   *Parent says:* We will fill this tumbler with ice water. In ten minutes, what do you think the outside will look like? Why do you think so?  
-  *Child mode:* We will fill a tumbler with ice water. What will the outside look like in ten minutes? Why?
+  *Child mode:* Look at the two tumblers and the ice. You will make a guess before we start, and give a reason.
   - Ask: What do you think will happen on the outside? Why? (good: It will get wet, because the ice makes it sweat.; Nothing, because the steel is shut.; It will get wet, because the water leaks through.)
   - Note: Do not correct the guess. Write exactly what your child says. Any guess with a reason is a good start.
 - **s2 (5 min)**  
   *Parent does:* Tell your child that people disagree about where the water comes from. Write two ideas. Idea A: the water leaked through the steel. Idea B: the water came from the air. Ask for a third idea. Then ask for an if-then sentence for each idea about the colour of the drops.  
   *Parent says:* Some people say the water leaks through the steel. Some say it comes from the air. Do you have another idea? If we colour the water inside red, what will we see outside if idea A is true? And if idea B is true?  
-  *Child mode:* There are two ideas about the drops. A: the water leaked through the steel. B: the water came from the air. If the water inside is red, what colour will the drops be for each idea?
+  *Child mode:* There are two ideas about the drops. A: the water leaked through the steel. B: the water came from the air. We will colour the water inside red to tell the ideas apart.
   - Ask: If the water leaked through, what colour would the drops be? (good: Red, like the water inside.; The same colour as the water inside.)
   - Ask: If the water came from the air, what colour would the drops be? (good: Clear.; No colour, because the air has no colour.)
   - Note: If your child says 'sweat from my hands' or 'from the ice', write it down as Idea C. A good deciding question for Idea C is: do the drops also appear when no hand has touched the tumbler? The coloured water in the next step will help with that too.
@@ -368,7 +368,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
   *Child mode:* Fill one tumbler with ice water. Fill one with warm water. Add colour. Dry the outsides.
   - Note: Wipe up every drop of colour from the outside when you pour. If colour is on the outside, the drops there will look coloured and spoil the test. Use warm tap water, not hot. Stand the plates side by side so the room is the same for both.
 - **s4 (12 min)**  
-  *Parent does:* At 5, 10 and 15 minutes, look at both tumblers. Write what the outside looks like. Then lift a drop from the cold tumbler on a dry tissue and look at its colour. Draw the cold tumbler at 15 minutes.  
+  *Parent does:* At 5, 10 and 15 minutes, look at both tumblers. Write what the outside looks like. Then lift a drop from the cold tumbler on a dry tissue and look at its colour. At 15 minutes, take a photo of both tumblers.  
   *Parent says:* Look at the cold tumbler. What do you see on the outside? Touch a dry tissue to a drop. What colour is it? Now look at the warm tumbler. What is different?  
   *Child mode:* Look at both tumblers at 5, 10 and 15 minutes. What colour are the drops?
   - Note: Roles for 2 to 4 children: one watches the cold tumbler, one watches the warm tumbler, one keeps the timer and one writes the table. Swap roles at each look. With one child, you take the timer and the writing. Hold the tissue to a drop and look at the damp spot it leaves. A red spot means colour, and a spot with no colour means a clear drop. In a humid kitchen, the cold tumbler is usually covered in fine drops within 5 to 10 minutes. On a dry day, or in an air-conditioned room, it can take 15 to 20 minutes. If there are no drops after 15 minutes, add more ice and wait 10 more minutes. You can also breathe gently onto the cold steel. Your breath is full of water vapour, so mist forms at once. The warm tumbler should stay dry or show only a very faint mist at the start. Drops that look slightly pink mean there was a little colour on the outside. Wipe it and look again.
@@ -383,7 +383,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 - **s6 (3 min)**  
   *Parent does:* Ask your child to say or write three things: what they think happened (the claim), what they saw that shows it (the evidence), and why it happened that way (the reasoning). Then read the explanation 'Why drops form on the outside of a cold tumbler'.  
   *Parent says:* What do you think happened? What did you see that shows it? Why do you think it happened that way?  
-  *Child mode:* What did you find? What did you see? Why do you think so?
+  *Child mode:* Tell your grown-up what you found, what you saw, and why you think so.
   - Ask: What do you think happened? What did you see that shows it? Why did it happen that way? (good: The water came from the air. The drops were clear but the water inside was red. The air has water vapour that turns to drops on the cold steel.; I was wrong. I thought it leaked, but the colour stayed inside.)
   - Ask: Was your first guess right? Does it matter if it was wrong? (good: It does not matter. The test shows what happens.; I was surprised, and that is useful.)
   - Note: Say well done for any honest result. If the drops were coloured, look for colour on the outside from pouring, or for a crack in the tumbler. Repeat with a clean tumbler.
@@ -427,7 +427,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say three things: what they found (the claim), which numbers show it (the evidence), and why they think so (the reason). Then ask what the numbers cannot tell us. Read the explanation 'Looking for a pattern in many cases'.  
   *Parent says:* What can you say about span and height from your numbers? What can you not say?  
-  *Child mode:* What did you find? What can't you say from only a few people?
+  *Child mode:* Tell your grown-up what you found and which numbers show it.
   - Ask: What can't we say from only a few people? (good: That it is true for everyone in the world.; That it is true for babies or for very old people.; That one thing causes the other.)
   - Note: A typical result is that most people are within a few centimetres of zero, with some a little over and some under. Grown-ups, especially men, often have a span a few centimetres longer than their height. The numbers wobble more with a small group, so do not be surprised if only half your people are within 3 centimetres. Leonardo drew arm span equal to height, but real people vary. If your child's numbers are all over the place, check the measuring before you decide there is no pattern.
   - Check: Six people have an arm span within 4 centimetres of their height. Which claim goes too far? → **Everybody in the world has an arm span exactly equal to their height**
@@ -442,7 +442,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
   *Child mode:* Wait outside. A grown-up sets up a scene. Then come in and look. Do not touch.
   - Note: Keep the scene gentle and silly. Avoid anything that looks like a real mess or a real accident.
 - **s2 (8 min)**  
-  *Parent does:* Ask your child to write six things they saw and three things they think happened. Draw two columns. Help them move any sentence with 'because' or 'must have' into the I think column.  
+  *Parent does:* Ask your child to write, or say while you write, six things they saw and three things they think happened. Draw two columns. Help them move any sentence with 'because' or 'must have' into the I think column.  
   *Parent says:* Write six things you can see. Then write three things you think happened. A sentence with 'because' or 'must have' goes in the second column.  
   *Child mode:* Write six things you see. Write three things you think happened.
   - Ask: How can you tell a sentence is in the wrong column? (good: It has 'because' in it.; Someone else might say something different.; I did not see it, I worked it out.)
@@ -454,7 +454,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
   - Ask: What could you check to tell the stories apart? (good: Whether the peel is still wet or fresh.; Whether the glass is still cold.; Ask who was here.)
   - Note: Good deciding questions often use time: is the water ring still wet? Is the peel brown? Let your child swap places next. Your child sets up a scene for you, and you write the columns. With 2 to 4 children, one sets up the scene while the rest wait outside. Everyone writes their own two columns and then compares them. Whose 'I saw' lists match, and whose 'I think' stories differ?
 ### a2 · Message or Noise? Listening for a signal (15 min)
-- **record:** Draw a line of dots for each set of taps you heard, using short and long gaps. Write 'signal' or 'noise' under each. Write how many of the 12 taps you heard with the fan on low, medium and high.
+- **record:** Show each set of taps as a line of dots, using short and long gaps. Draw them, or lay out buttons and take a photo. Write 'signal' or 'noise' under each. Write how many of the 12 taps you heard with the fan on low, medium and high.
 - **s1 (5 min)**  
   *Parent does:* Ask your helper to go behind a door. Ask them to tap the plate 12 times in an uneven rhythm. Your child draws a dot for each tap and leaves a longer space for a longer gap.  
   *Parent says:* Listen carefully. Draw a dot every time you hear a tap. If the gap is long, leave a long space.  
@@ -468,9 +468,9 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
   - Note: Say 'steady beat' rather than 'message'. We do not know what it means yet. We only know it is not random.
   - Check: A row of dots has gaps that are all the same size. What is the best thing to say? → **It looks like a signal, because a steady beat is unlikely to happen by chance**
 - **s3 (5 min)**  
-  *Parent does:* Switch on a fan or a radio next to the helper. Ask them to tap the steady beat again. Ask your child to listen for it through the noise and draw the dots. Then ask how they could be sure the beat was there.  
-  *Parent says:* Now there is background noise. Can you still hear the beat? How could you be sure, if you could not see the helper?  
-  *Child mode:* Now there is noise. Can you still find the beat? How could you be sure?
+  *Parent does:* Switch on a fan or a radio next to the helper. Ask them to tap the steady beat again. Ask your child to listen for it through the noise and count the taps they hear. Repeat with the fan on low, medium and high. Then ask how they could be sure the beat was there.  
+  *Parent says:* Now there is background noise. Count the taps you hear. Can you still hear the beat? How could you be sure, if you could not see the helper?  
+  *Child mode:* Listen for the steady beat through the noise. Count the taps you hear.
   - Ask: How could you be sure the beat was there? (good: Listen again at another time.; Ask the helper to tap it again and see if it comes back.; Record it on a phone and listen again.)
   - Note: Measure how well your child hears the beat through the noise. Before you start, ask your child to predict whether they will still hear the beat. Switch the fan or radio on low, then medium, then high. Each time, ask your child to count how many of the 12 taps they heard. Write the three counts. The count usually drops as the noise rises, and that drop shows how noise hides a signal. Keep the radio at a sensible volume to protect ears.
   - Think: A signal that comes back every time is much more believable than a one-off. How many times would you want it to come back?
@@ -488,32 +488,32 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
   - Note: With 2 to 4 children, each child sorts a set of strips alone first. Then they compare and argue. With one child, you sort too and say why. Expect arguments, and enjoy them. The fairness and the cage questions are about what people value. A test cannot decide them alone, although evidence can help the talk.
   - Check: 'Do taller people have longer feet?' Which column fits best? → **Test it at home, by measuring many people**
 - **s3 (3 min)**  
-  *Parent does:* Ask your child to pick one strip from the first column. Ask them to write two possible answers. Ask them to write an if-then sentence for each answer.  
+  *Parent does:* Ask your child to pick one strip from the first column. Ask them to write, or say while you write, two possible answers. Then ask for an if-then sentence for each answer. An if-then sentence says what you would see if that answer is true.  
   *Parent says:* Choose one question you can test. Write two possible answers. For each answer, write an if-then sentence about what you would see.  
   *Child mode:* Pick one question. Write two answers. Write an if-then sentence for each.
   - Think: Which question in the 'Talk about it' column would you most like to talk about with someone who disagrees?
 ### a4 · Draw the Invisible Water (12 min)
-- **record:** Two drawings of the cold tumbler, one before and one after reading the explanation, with the differences circled.
+- **record:** One drawing of the cold tumbler, with what you added after reading the explanation in a second colour. Take a photo of your rice model.
 - **s1 (4 min)**  
   *Parent does:* Give your child a sheet of paper. Ask them to draw the cold tumbler, the air around it and the drops. Ask them to draw arrows to show where they think the water comes from. Include the parts you cannot see.  
   *Parent says:* Draw the cold tumbler, the air around it and the drops. Draw arrows to show where the water comes from. Draw the parts we cannot see too.  
-  *Child mode:* Draw the tumbler, the air and the drops. Draw arrows for the water.
+  *Child mode:* Show where you think the water comes from. Add the parts you cannot see.
   - Note: Do not correct the drawing. Any drawing is a good start. Ask about the arrows.
 - **s2 (4 min)**  
-  *Parent does:* Read the card 'Why drops form on the outside of a cold tumbler' aloud. Then give your child a second sheet to draw it again with new ideas.  
-  *Parent says:* Here is what scientists say. Let's read it. Now draw it again. What would you add or change?  
-  *Child mode:* Read the card. Draw it again. What do you change?
-  - Ask: What did you add the second time? (good: Water vapour in the air.; Arrows from the air to the steel.; Cold air near the wall.)
+  *Parent does:* Read the card 'Why drops form on the outside of a cold tumbler' aloud. Then show your child how to build it: put the cold tumbler on the table. Each grain of rice is a tiny bit of invisible water. Ask your child to place grains in the air around the tumbler, and then move them to show where the water goes.  
+  *Parent says:* Here is what scientists say. Let's read it. Each grain of rice is a tiny bit of invisible water. Show me where the water is, and where it goes.  
+  *Child mode:* Read the card. Use the rice to show where the invisible water is.
+  - Ask: What does the rice model show that your first drawing did not? (good: Water vapour in the air.; Arrows from the air to the steel.; Cold air near the wall.)
   - Check: In a model of a cold tumbler, what is missing if you only draw the tumbler and the drops? → **The air with water vapour in it**
 - **s3 (4 min)**  
-  *Parent does:* Put the two drawings side by side. Ask your child to circle what is different. Ask which parts they could not see, but they now know are there.  
-  *Parent says:* Put your two drawings side by side. Circle what is different. Which parts can you not see, but you now know are there?  
-  *Child mode:* Put your two drawings side by side. Circle what changed.
+  *Parent does:* Put the drawing next to the rice model. Ask your child to point to one part the model shows that the drawing does not. They add it to the drawing, or tell you. Ask which parts they could not see, but they now know are there.  
+  *Parent says:* Put your drawing next to the rice model. Point to one part the drawing does not show. Add it, or tell your grown-up. Which parts can you not see, but you now know are there?  
+  *Child mode:* Compare your drawing with the rice model. Add what is missing.
   - Think: A model is not a photograph. It shows what we think is going on, including the parts we cannot see. Use your second drawing to predict: would a cold tumbler sweat as much in a dry room? Write your prediction in an if-then sentence, then test it if you can: compare a cold tumbler in the kitchen with one in a room with an air conditioner. Each child can draw their own model, then compare them.
 ### a5 · Two Ideas for Something at Home (20 min)
 - **record:** A page with the puzzle, what you saw, two rival ideas with if-then sentences, and one deciding question.
 - **s1 (6 min)**  
-  *Parent does:* Walk around your home with your child for two minutes. Ask them to pick something that puzzles them. Ask them to write three observations about it, with no 'because'.  
+  *Parent does:* Walk around your home with your child for two minutes. Ask them to pick something that puzzles them. Ask them to write, or say while you write, three observations about it, with no 'because'.  
   *Parent says:* Let's find something that puzzles you. A fan, a tap, a sound, a smell. Write three things you can see or hear about it. Do not use the word because.  
   *Child mode:* Find something that puzzles you. Write three things you notice. No 'because'.
   - Note: Good puzzles include a noisy fan, a dripping tap, a door that sticks, damp on a wall, or a humming fridge. With 2 to 4 children, each can pick a puzzle, or the group can choose one and write ideas separately. Then compare whose ideas differ.
@@ -521,7 +521,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 - **s2 (8 min)**  
   *Parent does:* Ask your child to write two rival ideas for the puzzle. Under each idea, write an if-then sentence about something else they would see.  
   *Parent says:* What is one idea about why it happens? Is there a different idea? If your first idea is true, what else would you see? And if the second is true?  
-  *Child mode:* Write two ideas. For each, write an if-then sentence.
+  *Child mode:* Write two ideas. For each, write: if this idea is true, then I will see this.
   - Ask: If idea A is true, what would you see that you would not see if idea B is true? (good: Something that only happens with A.; A different sound or a different time.)
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* Ask your child to choose the question that the two ideas answer differently. Ask whether they can check it safely at home, with a grown-up. If they can, do it now or tomorrow.  
@@ -537,12 +537,12 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 - **s1 (15 min)**  
   *Parent does:* 1. Choose a light that comes on by itself, such as a streetlight or a security light. 2. Write two ideas. Idea A: a timer switches it on at the same clock time every day. Idea B: a light sensor switches it on when it gets dark. 3. Write an if-then sentence for each, for a very cloudy evening. 4. Draw the table.  
   *Parent says:* Some lights come on by themselves. Maybe a timer switches them on at the same time every day. Maybe a sensor switches them on when it is dark. What would you see on a dark, cloudy evening for each idea?  
-  *Child mode:* Choose a light that comes on by itself. Write two ideas: a timer switches it on, or a light sensor does. What would each idea show on a very cloudy evening?
+  *Child mode:* Choose a light that comes on by itself. Write two ideas: a timer switches it on, or a light sensor does.
   - Ask: What would each idea show on a dark, cloudy evening? (good: A timer would switch the light on at the usual time.; A sensor would switch the light on earlier, because it is dark sooner.)
   - Note: Some lights are switched by a person, or by a timer that moves with the seasons. Whatever you find is a real result. Write 'could not see' on any evening you miss.
   - Check: Sunset is at 6:00 pm. On a clear evening the light comes on at 6:10 pm. On a very cloudy evening it comes on at 5:35 pm. Which idea fits? → **Light sensor, because the time changed with the darkness**
 - **s2 (25 min)**  
-  *Parent does:* Each evening for the next five days, write the date, the sky, the sunset time and the time the light came on. Work out the difference between the sunset time and the time the light came on.  
+  *Parent does:* Each evening for a week, write the date, the sky, the sunset time and the time the light came on. Work out the difference between the sunset time and the time the light came on.  
   *Parent says:* Watch the light from about twenty minutes before sunset. Write what time it comes on. Look at the sky. Was it clear or cloudy?  
   *Child mode:* Each evening, write the time the light comes on. Is the sky clear or cloudy?
   - Note: Look at the light for ten minutes around the usual time. If you miss an evening, write 'missed'. Do not guess. A phone weather app often shows the sunset time. With 2 to 4 children, share jobs each evening: one reads the sunset time, one watches the light, one judges the sky, one writes. Swap daily. Many city lights come on a little after sunset, and some are switched by hand or by a central timer, so whatever you see is a real result. Sunset moves by only a minute or less a day, so a week of the same clock time may still fit a timer. In dry months you may not get a cloudy evening. Then look at how the gap between sunset and light-on changes, and say honestly that you could not tell the ideas apart.
@@ -550,7 +550,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 - **s3 (10 min)**  
   *Parent does:* On day 7, look at the whole table. Mark the cloudiest evening. Ask which idea fits the evidence. Ask what cannot be said from only one week.  
   *Parent says:* Look at the cloudiest evening. When did the light come on that day? What does that say about the two ideas? What can you not say from one week?  
-  *Child mode:* Look at your week. Which idea fits? What can't you say?
+  *Child mode:* Look at your week. Find the cloudiest evening.
   - Ask: Which idea does your evidence support, and what can't you say? (good: The light follows the dark, so it is a sensor. I only watched one light.; It came on at the same time every day, so it is a timer. But I did not have a really dark day.)
   - Think: If you had no cloudy evenings, could you still tell the ideas apart? What else could you look at?
 
@@ -565,7 +565,7 @@ Kiran took the notebook, turned to a fresh page and wrote the question at the to
 - **s1 (8 min)**  
   *Parent does:* Write the two ideas. Idea A: the light goes off when the door closes. Idea B: the light stays on when the door closes. Ask your child what is hard about checking. Ask for their design.  
   *Parent says:* There are two ideas about the fridge light. It goes off when the door shuts, or it stays on. Why can't we just look? How could we find out without opening the door?  
-  *Child mode:* Two ideas about the fridge light. Why can't you just look? How could you find out?
+  *Child mode:* Two ideas: the light goes off when the door shuts, or it stays on. Think of a way to find out without opening the door.
   - Ask: Why can't we just open the door and look? (good: Opening the door might switch the light on.; The room light gets in.; We would change the thing we want to look at.)
 - **s2 (14 min) · grown-up needed**  
   *Parent does:* 1. Switch the phone to video. 2. Turn the screen brightness to the lowest. 3. Place the phone on a fridge shelf with the camera facing the door. 4. Start the video, close the door and wait 30 seconds. 5. Open the door, stop the video and take the phone out. 6. Do the same in the dark cupboard.  

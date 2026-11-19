@@ -254,7 +254,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 - **s2 (4 min)**  
   *Parent does:* Read the gola card first, as a practice. Let your child pick a token and give a reason before you turn the card.  
   *Parent says:* On days when more golas are sold, more people get sunburnt. What is really going on? Why do you think so?  
-  *Child mode:* On days when more golas are sold, more people get sunburnt. What is really going on?
+  *Child mode:* Pick a token for what is really going on, and say why.
   - Check: On days when more golas are sold on a beach, more people get sunburnt. What is the best explanation? → **Hot sun makes people buy golas and also burns skin**
 - **s3 (11 min)**  
   *Parent does:* Play through the pile. Take turns to be the reader. After each card, ask each player how they could check their answer.  
@@ -277,7 +277,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 - **s2 (3 min)**  
   *Parent does:* Read the toothpaste card as a practice. Ask your child which trick it is and why before you turn the card.  
   *Parent says:* Four people were tested and all four said their teeth felt cleaner. Which trick is it? Why?  
-  *Child mode:* Four people tried a toothpaste, and all four liked it. Which trick is this?
+  *Child mode:* Pick the token that names the trick, and say why.
   - Check: An advert says: We tested our paste on 4 people, and all 4 said their teeth felt cleaner. What is the main problem? → **Four is too few, so chance alone could give this**
 - **s3 (9 min)**  
   *Parent does:* Play the rest. After each card, ask each player what question they would ask the seller. Give points as in the rules.  
@@ -296,18 +296,18 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 - **predict:** Before you start, guess. Out of 20 sets of 10 flips, how many sets will show 7 or more heads? Will your coin ever show 3 or fewer? Why do you think so?
 - **fair test:** We use the same coin and toss it from the same height onto the same plate every time. Nobody wishes for heads, and nobody tries any tricks. Each set is exactly 10 flips, and heads is always the side with the picture on it. We write down every set, even the boring ones, and we do not throw away a set because it looks odd. Only chance decides the result.
 - **safety:** Keep coins away from children under five, who might put them in their mouths.
-- **record:** Fill in 20 rows, one for each set of 10 flips. Then count how many sets had 7 or more heads, and how many had 3 or fewer. Add up all the heads in the 200 flips. Last, draw a bar chart: one bar for each number of heads, from 0 to 10, showing how many sets had that number.
+- **record:** Fill in 20 rows, one for each set of 10 flips. Then count how many sets had 7 or more heads, and how many had 3 or fewer. Add up all the heads in the 200 flips. Last, draw a bar chart: one bar for each number of heads, from 0 to 10, showing how many sets had that number. Or stack one coin on each number for every set that had it.
 - **results table:** Set number | Heads out of 10 | Longest streak of one side | 7 or more heads, or 3 or fewer?
 - **s1 (5 min)**  
   *Parent does:* Tell the story of the friend who got 7 heads in 10 flips. Ask for a guess and a reason, and write both at the top of the page.  
   *Parent says:* A friend flipped a coin ten times and got seven heads. She says she wished it. If an ordinary coin is flipped ten times, how often do you think it gives seven or more heads? Why do you think so?  
-  *Child mode:* A friend got 7 heads in 10 flips. Is that special? What do you guess? Why?
+  *Child mode:* A friend got 7 heads in 10 flips and says she wished for it. Guess how often a plain coin does that.
   - Ask: Why do you think an ordinary coin will, or will not, give 7 heads sometimes? (good: It should give 5 heads each time, so 7 is odd.; It is a coin, so any number can come.; It is random, so sometimes 7 will come.)
   - Note: Do not correct the guess. Many children think 5 heads should come every time. Any guess with a reason is a good start.
 - **s2 (4 min)**  
-  *Parent does:* Help your child draw a table with 20 rows and the four columns. Put the plate on a cloth. Practise two flips from about 20 centimetres above the plate.  
+  *Parent does:* Help your child draw a table with 20 rows and four columns: Set number, Heads out of 10, Longest streak of one side, and 7 or more heads or 3 or fewer. Put the plate on a cloth. Practise two flips from about 20 centimetres above the plate.  
   *Parent says:* We flip the same way every time. Hold the coin about this high above the plate and let it drop. Heads is the side with the picture.  
-  *Child mode:* Draw the table. Flip from the same height onto the plate. Heads is the picture side.
+  *Child mode:* Help draw the table. Then practise flipping from the same height onto the plate. Heads is the picture side.
   - Check: Why must every flip be done in the same way, from the same height onto the same plate? → **So the coin only lands the way chance decides**
 - **s3 (16 min)**  
   *Parent does:* Your child flips 10 times for the first set. The helper tallies heads in a notebook. Do the next set and the next, up to 20 sets. Swap the flipper after every 5 sets.  
@@ -316,9 +316,9 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
   - Note: Stay calm about odd sets. If your child gets 8 heads or 2 heads in a set, say nothing and write it down. Also write the longest streak in each set, for example HHHH is a streak of four. If the coin rolls off the plate, repeat that flip.
   - Wait: The 20 sets take about 15 minutes. Take a short break after set 10.
 - **s4 (5 min)**  
-  *Parent does:* Count the sets with 7 or more heads. Count the sets with 3 or fewer. Find the longest streak in all 20 sets. Write these three numbers under the table.  
+  *Parent does:* Count the sets with 7 or more heads. Count the sets with 3 or fewer. Find the longest streak of one side in any set. Write these three numbers under the table.  
   *Parent says:* How many sets had seven or more heads? How many had three or fewer? What is the longest streak you found?  
-  *Child mode:* Count the sets with 7 or more heads. Count the sets with 3 or fewer. Find the longest streak.
+  *Child mode:* Count the sets with 7 or more heads. Count the sets with 3 or fewer. Find the longest run of one side.
   - Ask: Did the coin change in the sets that had many heads? What do you think made those sets happen? (good: No. It is the same coin. It was just luck.; I wished nothing, and it still happened.; Maybe ten flips is too few.)
   - Note: Most families find that 2 to 5 of the 20 sets show 7 or more heads. The exact number varies. If you got none, or ten, write it down and talk about it. Results that jump around like this are called the spread.
 - **s5 (4 min)**  
@@ -357,9 +357,9 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
   - Note: Count every seed, even the tiny pale ones. A tender pod may have fewer and smaller seeds. If your child loses count, start that pod again. An honest recount is better than a guess.
   - Wait: Counting takes about one minute a pod. Take a short break if your child tires.
 - **s4 (5 min)**  
-  *Parent does:* For each pod, divide the number of seeds by the length to get the seeds for each centimetre. Line up the pods from shortest to longest on the plate with the seed count under each. Look for the pattern and circle any odd pod.  
+  *Parent does:* For each pod, line up the pods from shortest to longest on the plate with the seed count under each. Look for the pattern and circle any odd pod.  
   *Parent says:* Put the pods in a line, from the shortest to the longest. What do you notice about the seeds? Which pod does not fit?  
-  *Child mode:* Line up the pods. Do longer pods have more seeds? Find an odd pod.
+  *Child mode:* Line up the pods from shortest to longest. Put the seed count under each. Point to any pod that does not fit.
   - Ask: What pattern do you see? Is there any pod that does not fit? (good: Longer pods have more seeds, mostly.; Pod F is long but has few seeds.; The seeds for each centimetre are about the same.)
   - Note: Most families see that longer pods have more seeds, with a few that do not fit. The seeds for each centimetre will often be close to each other. That is a strong pattern but it is not perfect, and the odd pod is worth talking about.
 - **s5 (5 min)**  
@@ -375,7 +375,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 - **s1 (4 min)**  
   *Parent does:* Copy this table for your child. A shop in Chennai. January: 20 cold drinks and 2 fans. March: 90 and 11. May: 200 and 24. July: 150 and 17. October: 60 and 6. December: 15 and 1. Ask what goes together.  
   *Parent says:* This shop sold cold drinks and fans each month. Look at the numbers. What do you notice goes together?  
-  *Child mode:* A shop sold cold drinks and fans. What goes together in the numbers?
+  *Child mode:* A shop sold cold drinks and fans each month. Go down the numbers. What goes up together?
   - Ask: What goes together in this table? (good: When cold drinks go up, fans go up too.; May is the biggest for both, and December is the smallest.)
 - **s2 (5 min)**  
   *Parent does:* Ask your child if cold drinks make people buy fans. Ask what is different about May and December. Then read the question below.  
@@ -386,7 +386,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 - **s3 (5 min)**  
   *Parent does:* Copy the second table. A school, by class. Class 1: foot length 17 centimetres, spelling mark 4 out of 10. Class 2: 18.5 and 5. Class 3: 20 and 6. Class 4: 21.5 and 7. Class 5: 23 and 8. Ask for the hidden third thing.  
   *Parent says:* Children with longer feet get better spelling marks. Does a bigger foot help spelling? What is behind both? How could we check?  
-  *Child mode:* Children with longer feet get better spelling marks. What is behind both? How could you check?
+  *Child mode:* Children with longer feet get better spelling marks. Do bigger feet help spelling?
   - Ask: What is the hidden third thing here, and how could you check it? (good: Age. Older children have bigger feet and know more spelling.; Look only at children of the same age, and see if bigger feet still go with better spelling.)
   - Note: Comparing only children of the same age is the way to hold the third thing the same. Among children of one age, foot length and spelling mark do not go together. That is the check.
 - **s4 (4 min)**  
@@ -425,11 +425,11 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
   - Note: Studies of tasting have found that price and label can change what people report. In a home test with a handful of tasters, chance can hide the effect or make it look bigger. If your results differ, write them down as they are. That is also a useful result.
   - Check: Most tasters picked the POSH SHOP cup in round 1. In round 2, about half picked cup 1. Both cups held the same drink. What does this suggest? → **The label changed what people said**
 ### a3 · Same Numbers, Two Charts: does the starting line fool us? (22 min)
-- **record:** Keep your two charts. Under each one, write the answer each person gave to the question: how much better is Brand Two? The answer is a little, a bit, or much.
+- **record:** Keep your two charts. Under each one, write the answer each person gave to the question: how much better is Brand Two? The answer is a little, some, or a lot.
 - **s1 (5 min)**  
   *Parent does:* Tell your child about two biscuit brands. In a crunch test, Brand One scored 92 out of 100 and Brand Two scored 95. Draw chart A with the side numbers from 0 to 100. Draw one bar for each brand.  
   *Parent says:* Two biscuit brands got crunch scores. Brand One scored ninety-two. Brand Two scored ninety-five. Draw a bar for each, with the side scale starting at zero.  
-  *Child mode:* Brand One scored 92. Brand Two scored 95. Draw two bars. Start the scale at 0.
+  *Child mode:* Brand One scored 92. Brand Two scored 95. Draw two bars, or cut two paper strips. Start the scale at 0.
   - Note: One square on the paper can stand for 5 points. The bars should look almost the same height.
 - **s2 (5 min)**  
   *Parent does:* Draw chart B on a new page with the same two numbers. This time start the side scale at 90, so the side numbers run from 90 to 100. Draw one bar for each brand.  
@@ -437,8 +437,8 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
   *Child mode:* Draw the same numbers again. Start the scale at 90 this time.
   - Ask: How do the two bars look in chart B? (good: Brand Two's bar looks much taller.; One bar is tiny and the other is big.)
 - **s3 (8 min)**  
-  *Parent does:* Show chart A to one person and chart B to another, or to the same person on another day. Cover the numbers. Ask: how much better is Brand Two? A little, a bit, or much? Write each answer.  
-  *Parent says:* Look at this chart of biscuit crunch. How much better is Brand Two than Brand One? A little, a bit, or much?  
+  *Parent does:* Show chart A to one person and chart B to another, or to the same person on another day. Cover the numbers. Ask: how much better is Brand Two? A little, some, or a lot? Write each answer.  
+  *Parent says:* Look at this chart of biscuit crunch. How much better is Brand Two than Brand One? A little, some, or a lot?  
   *Child mode:* Show each chart to a different person. Ask: how much better is Brand Two?
   - Note: Say exactly the same words to both people. Keep the numbers on the side of the chart covered, so they judge only by how tall the bars look.
 - **s4 (4 min)**  
@@ -454,7 +454,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 - **record:** A table with six rows (bananas 1 to 6) and columns for Pair, Wrapped or bare, and the colour score on each of days 1 to 6. At the end, a line for each pair that says which banana ripened faster, or that they tied.
 - **schedule:** day 1: Separate the bananas, number them, make pairs, flip coins, wrap, and set them on a tray. (25 min); day 2: Score the colour of each banana on the 1 to 5 scale. (4 min); day 3: Score the colour of each banana. (4 min); day 4: Score the colour of each banana. (4 min); day 5: Score the colour of each banana. (4 min); day 6: Score the colour, compare each pair, count, and decide what the test shows. (25 min)
 - **s1 (25 min)**  
-  *Parent does:* 1. Gently break a hand (a bunch) of 6 bananas into single bananas. Give each a tag, 1 to 6. 2. Make three pairs: 1 and 2, 3 and 4, 5 and 6. 3. For each pair, flip a coin. Heads, the first banana is wrapped. Tails, the second one is. 4. Wrap the stalk end of the chosen bananas in foil. 5. Lay all six on a tray in the same place. 6. Draw the colour scale on the page.  
+  *Parent does:* 1. Gently break a hand (a bunch) of 6 bananas into single bananas. Give each a tag, 1 to 6. 2. Make three pairs: 1 and 2, 3 and 4, 5 and 6. 3. For each pair, flip a coin. Heads, the first banana is wrapped. Tails, the second one is. 4. Wrap the stalk end of the chosen bananas in foil. 5. Lay all six on a tray in the same place. 6. Write the colour scale on the page: 1 all green, 2 green with a little yellow, 3 mostly yellow, 4 all yellow, 5 yellow with brown spots.  
   *Parent says:* People say wrapping the stalk makes bananas last longer. We will test it. First, guess. Will the wrapped bananas ripen slower, faster, or the same? Why do you think so?  
   *Child mode:* Number the bananas. Make three pairs. Flip a coin for each pair. Wrap the chosen ones.
   - Ask: Why do we use a coin to choose which banana is wrapped? (good: So I cannot pick the greener one by accident.; So it is fair.; Because I might wrap the one I think will last longer.)
@@ -482,7 +482,7 @@ That evening Uncle Basheer filled a cone with red syrup and held it out to her. 
 - **s1 (6 min)**  
   *Parent does:* Read this report aloud: 'Our test proves that okra seeds make pods grow long. Everyone knows seeds make fruit big.' Ask your child what is wrong with it.  
   *Parent says:* Here is a report: 'Our test proves that okra seeds make pods grow long. Everyone knows seeds make fruit big.' What is wrong with it?  
-  *Child mode:* This report says seeds make pods long. What is wrong with it?
+  *Child mode:* Listen to the report. Does it say more than a test can show?
   - Ask: What is wrong with this report? (good: It says proves, but the table only shows the seeds and length go together.; It says everyone knows, but that is not evidence.; It does not say how many pods.)
 - **s2 (16 min)**  
   *Parent does:* Your child writes the four boxes for their own test. Check that each box has at most 40 words and that box four names one risk and one next test.  

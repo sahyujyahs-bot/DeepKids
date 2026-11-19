@@ -900,8 +900,8 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Play the last 8 cards. For the cards where the load gets heavier or lighter, write how many times the load changed, and the square root of that number, before you pick your token.",
-     "say": "For the cards where the load gets heavier or lighter, work out the square root of the change. Four times the load means twice the time. What does nine times the load mean?",
+     "do": "Play the last 8 cards. For the cards where the load gets heavier or lighter, say how many times the load changed. Then say the square root of that number before you pick your token.",
+     "say": "The square root of a number is the number that, multiplied by itself, gives it. The square root of 4 is 2. So four times the load means twice the time. What does nine times the load mean?",
      "kid": "Play the last 8 cards. When the load gets heavier or lighter, find the square root of the change.",
      "check": {
       "t": "mcq",
@@ -974,7 +974,7 @@
    ],
    "safety": "Stand to the side and keep your face away from the bands, in case one snaps. Never use more than 1 kilogram of load. Keep the cushion on the floor under the bag, so that nothing lands on your feet. Put a heavy book on each chair seat so the chairs cannot tip, and keep a grown-up in the room.",
    "record": "Write the time for ten bounces for each test and each try. For each test, find the middle time and divide it by ten to get the time of one bounce. Write your claims for the size of the bounce and for the load, with your evidence and your reasons.",
-   "context": "In this experiment, you hang a bag of rice on two rubber bands and time its bounces. You change the size of the bounce and then the load, and see what changes the beat.",
+   "context": "In this experiment, you hang a bag of rice on two rubber bands and time its bounces. You will find out what makes a bounce slower or faster: how far you pull it, or how heavy the bag is.",
    "setup": [
     {
      "art": "A long stick lying across the backs of two chairs and taped down, with two linked rubber bands hanging from the middle and a carrier bag with a packet of rice at the bottom.",
@@ -1003,7 +1003,7 @@
      "mins": 4,
      "do": "Show your child the bands, the bag and the rice. Ask for two guesses and the reasons. Write them at the top of the page. With one child, the parent holds the ruler and the clock while the child pulls and counts. With 2 to 4 children, one rig is enough. One pulls, one holds the ruler, one times and one writes. Swap after each load.",
      "say": "We will bounce a bag of rice on two bands. Will a big bounce take longer than a small bounce? And if the rice is four times heavier, how will the bounce time change? Why do you think so?",
-     "kid": "A bag bounces on bands. Does a big bounce take longer? What if the bag is four times heavier? Why?",
+     "kid": "A bag bounces on bands. Does a big bounce take longer? What if the bag is four times heavier?",
      "ask": [
       {
        "q": "You guessed how long a big bounce will take. Why do you think so?",
@@ -1092,8 +1092,8 @@
      "id": "s5",
      "mins": 7,
      "do": "Find the middle time for each test. Divide each by ten for one bounce. Look at your first guesses. Write three sentences for the size of the bounce, and three for the load: what you think (claim), what you saw (evidence) and why (reasoning).",
-     "say": "What did you think? What did you find? Why did the load change the bounce time, but not the size of the bounce? Write what you think, what you saw and why.",
-     "kid": "Find the middle time for each test. Was your guess right? Write what you think, what you saw and why.",
+     "say": "What did you think? What did you find? Tell me what you think, what you saw and why.",
+     "kid": "Find the middle time for each test. Was your guess right? Tell what you think, what you saw and why.",
      "ask": [
       {
        "q": "Why does the size of the bounce not change the time, when the load does?",
@@ -1173,7 +1173,7 @@
      "mins": 4,
      "do": "Show your child the bands and the bag. Say that you will shake the top end of the bands at different speeds. Write the guess and the reason. With one child, the parent is the helper. With 2 to 4 children: one shakes, one reads the ruler, one calls the time or watches the metronome, one writes. Swap after each load.",
      "say": "I will hold the top of the bands and move my hand up and down, a small amount. Which speed will make the bag bounce the most, slow, medium or fast? Why do you think so?",
-     "kid": "Move the top of the bands up and down. Which speed makes the bag bounce most? Why?",
+     "kid": "Move the top of the bands up and down. Which speed makes the bag bounce most?",
      "ask": [
       {
        "q": "You guessed which speed will make the biggest bounce. Why do you think so?",
@@ -1291,7 +1291,7 @@
     }
    ],
    "record": "A table with each thing, its relaxed length, its length with the load, its extension and its stiffness. A bar chart of the stiffness of the four things. The extension of the spring and the wide band with 250 grams and with 500 grams.",
-   "context": "In this activity, you hang the same load on four stretchy things and measure how far each stretches. You work out which is the stiffest and which is the softest.",
+   "context": "In this activity, you hang the same load on four stretchy things and measure how far each stretches. You will find out which one is stiffest, which means it stretches least, and which is softest.",
    "setup": [
     {
      "art": "Four stretchy things in a row on a table: a wide rubber band, a thin rubber band, a hair tie and a pen spring.",
@@ -1303,14 +1303,14 @@
     },
     {
      "art": "A bar chart with four bars of different heights labelled with the four things, and a stiffness number above each.",
-     "caption": "3. Work out each stiffness. Draw a bar for each."
+     "caption": "3. Work out each stiffness. Make a bar for each."
     }
    ],
    "flow": [
     {
      "id": "s1",
      "mins": 5,
-     "do": "Line up the four things. Ask your child to guess the order, from softest to stiffest, and to say why. Write the guess down. With one child, the parent measures while the child hangs and writes. With 2 to 4 children, each child tests a different thing, then everyone shares the numbers and draws the chart.",
+     "do": "Line up the four things. Ask your child to guess the order, from softest to stiffest, and to say why. Write the guess down. With one child, the parent measures while the child hangs and writes. With 2 to 4 children, each child tests a different thing, then everyone shares the numbers and makes the chart.",
      "say": "Pull each thing gently with your fingers. Which feels softest and which feels stiffest? Put them in order and say why.",
      "kid": "Pull each thing gently. Put them in order, softest to stiffest. Why?",
      "ask": [
@@ -1329,7 +1329,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Measure the relaxed length of the first thing. Hang the 250 gram bag from it and wait for it to stop moving. Measure the new length. Take the relaxed length away from the new length to get the extension. Do this for all four.",
+     "do": "Measure the relaxed length of the first thing. That is its length with nothing hanging on it. Hang the 250 gram bag from it and wait for it to stop moving. Measure the new length. Take the relaxed length away from the new length to get the extension. Do this for all four.",
      "say": "Measure the relaxed length. Hang the bag and wait. Measure again. The extension is the second length minus the first. Do this for each thing.",
      "kid": "Measure the length. Hang the bag. Measure again. Take away the first number.",
      "adult": true,
@@ -1350,9 +1350,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Work out each stiffness. Divide 2.5 newtons by the extension in centimetres. Draw a bar chart with four bars. Then hang a second 250 gram packet too (500 grams in all) on the pen spring and on the wide band. Does the stretch double?",
-     "say": "The load is 2.5 newtons. Divide it by the extension in centimetres. A bigger answer means a stiffer thing. Draw a bar for each one.",
-     "kid": "Divide 2.5 by each extension. A bigger answer is stiffer. Draw a bar for each.",
+     "do": "Work out each stiffness. Divide 2.5 newtons by the extension in centimetres. Make a bar chart with four bars, drawn or built from paper strips. Then hang a second 250 gram packet too (500 grams in all) on the pen spring and on the wide band. Does the stretch double?",
+     "say": "The load is 2.5 newtons. A newton is a unit of pull. Divide 2.5 by the extension in centimetres. A bigger answer means a stiffer thing. Make a bar for each one.",
+     "kid": "Divide 2.5 by each extension. A bigger answer is stiffer. Draw a bar for each, or cut paper strips.",
      "parent": "For example, an extension of 5 centimetres gives 2.5 divided by 5, which is 0.5 newtons for each centimetre. Your numbers will differ with your things. A pen spring is often about 1 to 3 newtons for each centimetre, and a wide band is often about 0.3 to 1. A thin band is usually softer than a wide band of the same length. With 500 grams, a pen spring stretches about twice as far as with 250 grams, because a spring follows the rule that double the pull gives double the stretch. A rubber band may stretch more or less than double, because it is not so regular. Say what you saw, whatever it is.",
      "check": {
       "t": "mcq",
@@ -1525,9 +1525,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "A grown-up bends one clip a little and lets go, and then bends another a lot and lets go. Ask your child what happened in each case. Ask them to guess how many back and forth bends it takes to break a clip. Before the counting starts, gently open each clip out into a straight wire, so that every clip is bent at a fresh spot in the middle. With one child, the parent bends and the child counts. With 2 to 4 children, one counts, one touches the bend, one writes.",
+     "do": "A grown-up bends one clip a little and lets go, and then bends another a lot and lets go. Ask your child what happened in each case. Then open each clip out into a straight wire, so that every clip bends at a fresh spot. Ask your child to guess how many back and forth bends it takes to break a clip. With one child, the parent bends and the child counts. With 2 to 4 children, one counts, one touches the bend, one writes.",
      "say": "The first clip sprang back. The second stayed bent. Now I will bend a clip back and forth. How many bends do you think it will take to break? Why?",
-     "kid": "Bend a clip once. It springs back or stays bent. How many bends back and forth will break it?",
+     "kid": "Watch one clip bend a little and another bend a lot. What is different about them?",
      "adult": true,
      "ask": [
       {
@@ -1604,7 +1604,7 @@
      "what": "Pull the tape out and see how stiff it is. Press the end until it kinks. Flatten the curve and try again. Measure how far a curved tape and a card strip stand out sideways."
     }
    ],
-   "record": "A drawing of the tape standing out, the tape kinked, and a note about what flattening the curve did. How far the curved tape, the card strip and the pinched tape stand out before they droop.",
+   "record": "A photo or drawing of the tape standing out and the tape kinked, and a note about what flattening the curve did. How far the curved tape, the card strip and the pinched tape stand out before they droop.",
    "context": "In this activity, you pull out a tape measure and press the end until it suddenly folds. You find that a curved strip stays straight, then snaps into a fold.",
    "setup": [
     {
@@ -1667,7 +1667,7 @@
      "mins": 9,
      "do": "Squeeze the tape flat between your finger and thumb, and press the end again. Compare it with the first time. Now lay the case on the table edge and slowly pull the tape out sideways. Measure how far it stands out before it droops. Do the same with the card strip held at one end, and then pinch the tape flat just outside the case.",
      "say": "Squeeze the tape flat for a moment. Now it is floppy. Why is the curved tape stiff, and the flat tape floppy?",
-     "kid": "Squeeze the tape flat. Is it still stiff? Try a flat card strip.",
+     "kid": "Squeeze the tape flat. Is it still stiff? Then try the flat card strip.",
      "adult": true,
      "think": "Why does a curve make a thin strip stiff?",
      "parent": "The curve makes the tape like a very shallow tube, and a tube resists bending much more than a flat strip of the same material. Engineers use curved and tubular shapes for the same reason, in bicycle frames, bamboo, drinking straws and aeroplane bodies. A curved tape typically stands out about half a metre to over a metre, depending on its width. A flat card strip droops at about 10 to 15 centimetres. A tape pinched flat folds at once. No tape measure? Roll a sheet of paper into a tube and tape it: stood on end, it holds a few books, while the same flat sheet folds at once.",
@@ -1740,8 +1740,8 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Work out the load you need. The bounce time must grow from your time to 1 second. First divide 1 by your time. Then multiply the answer by itself. Last, multiply that by 500 grams. The result is the load to hang. Write it down.",
-     "say": "We need a bigger bounce time, so we need a heavier load. Divide one second by your time. Multiply the answer by itself. That tells you how many times heavier the load must be. Then multiply by 500 grams.",
+     "do": "Work out the load you need. The bounce time must change from your time to 1 second. First divide 1 by your time. Then multiply the answer by itself. Last, multiply that by 500 grams. The result is the load to hang. Write it down.",
+     "say": "If your bounce time is under one second, we need a heavier load. Divide one second by your time. Multiply the answer by itself. That is how many times heavier the load must be. Then multiply by 500 grams.",
      "kid": "Divide 1 by your time. Multiply the answer by itself. Then multiply by 500 grams.",
      "think": "Why do you multiply the answer by itself?",
      "parent": "Bounce time grows with the square root of the load, so the load grows with the square of the time. For example, suppose your bounce time is 0.75 seconds and you want 1 second. 1 divided by 0.75 is 1.33. 1.33 times 1.33 is 1.78. 1.78 times 500 grams is about 890 grams. Use your own numbers. If the answer is over 1000 grams, stop at 1000 grams, add a third band to the chain (that makes it softer and slower), and start again from the first step. If your time with 500 grams is already over one second, you need a lighter load.",
@@ -1859,7 +1859,7 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Hold the ruler under a heavy book, with 20 centimetres sticking out over the table edge. Ask your child to guess what happens to the wobble when the clay is heavier, and why. Tape the ruler down over the book as well. Press the clay firmly round the end, with a strip of tape over it. With one child, the parent times and the child flicks and counts. With 2 to 4 children, one flicks, one times, one counts, one writes.",
+     "do": "Put the ruler on the table with a heavy book on it and 20 centimetres sticking out over the edge. Tape it down. Ask your child to guess what happens to the wobble when the clay is heavier, and why. With one child, the parent times and the child flicks and counts. With 2 to 4 children, one flicks, one times, one counts, one writes.",
      "say": "A ruler is a springy stick. Put a lump of clay on its end and flick it. If the lump is heavier, will it wobble faster or slower? Why do you think so?",
      "kid": "Stick clay on the ruler's end. Flick it. Will a heavier lump wobble faster or slower?",
      "ask": [
@@ -1878,7 +1878,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Stick the 20 gram lump on the end of the ruler. Flick the end down about 1 centimetre and let go. Time ten wobbles. Do it three times and use the middle time. Do the same with 40 grams and 80 grams.",
+     "do": "Press the 20 gram lump firmly round the end of the ruler, with a strip of tape over it. Flick the end down about 1 centimetre and let go. Time ten wobbles. Do it three times and use the middle time. Do the same with 40 grams and 80 grams.",
      "say": "Stick the lump to the end. Flick the end down a little and let go. Count ten wobbles and stop the clock. Do it three times. Then do the same with the 40 gram and 80 gram lumps.",
      "kid": "Stick the clay on the end. Flick. Time ten wobbles. Do it three times. Then try heavier clay.",
      "parent": "With a thin, bendy plastic ruler, ten wobbles typically take about 3 to 8 seconds. The 80 gram time should be about 1.7 to 2 times the 20 gram time, not exactly 2, because the ruler has a little mass of its own. A stiff or thick ruler wobbles faster: if ten wobbles take under 3 seconds, slide more of the ruler out, or time 20 wobbles and halve. If the ruler droops more than about 5 centimetres under the 80 gram lump, slide less out. Use the same flick size each time. If the wobbles die away before ten, count eight and divide.",
@@ -1898,7 +1898,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Draw a graph with the mass in grams along the bottom and the time for ten wobbles up the side. Plot the three points. Draw a smooth curve through them, and carry it from 0 to 100 grams.",
+     "do": "Draw a graph with the mass in grams along the bottom and the time for ten wobbles up the side. Plot the three points. Draw a smooth curve through them, and carry it from 0 to 100 grams. If drawing is hard, a grown-up can draw while you read out the numbers.",
      "say": "Plot the three points. Draw a smooth curve through them. It will curve a little, because the time grows with the square root of the mass. This graph is your scale.",
      "kid": "Plot three points. Draw a smooth curve through them.",
      "parent": "The curve should bend over, rising quickly at first and then more slowly. Do not draw a straight line. Do not extend the curve far past 80 grams.",
@@ -1978,12 +1978,12 @@
     "Stand the card on a tower of paper cups that crush gently in the drop.",
     "Use a long band spring under the card and a sponge on top, to take both the bounce and the squash."
    ],
-   "your_turn": "Draw your design. Build it, and drop it three times. Change one thing and drop it three times again. Which design protects the tallest stack? Why do you think it did?",
+   "your_turn": "Build your design, and show it with a photo or a drawing. Drop it three times. Change one thing and drop it three times again. Which design protects the tallest stack? Why do you think it did?",
    "context": "This is a design challenge about springs and damping. You build a cushion that stops a jolt, so that a stack of coins stays standing.",
    "setup": [
     {
      "art": "A page with three sketches of cushions: a box with crumpled newspaper, a card on a sponge, and a card hanging on rubber bands.",
-     "caption": "1. Sketch some ideas for the cushion."
+     "caption": "1. Pick things that could make a cushion."
     },
     {
      "art": "A box with the coin stack on a card inside a nest of rubber bands, held at 50 centimetres above a mat with a ruler beside it.",
@@ -1998,9 +1998,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem and the constraints together. Ask your child to sketch two or three different cushions. Ask which design they think will work best, and why.",
-     "say": "We have to keep a stack of coins standing when the box is dropped. What could soak up the jolt? Draw some ideas first.",
-     "kid": "Draw two or three cushion ideas. Which will work best? Why?",
+     "do": "Read the problem and the constraints together. Ask your child to pick two or three things from the table that could make a cushion, and to say how each might soak up a jolt. Ask which will work best, and why.",
+     "say": "We have to keep a stack of coins standing when the box is dropped. What could soak up the jolt? Pick two or three things from the table and tell me how each might help.",
+     "kid": "Pick two or three things that could make a cushion. Which will work best?",
      "ask": [
       {
        "q": "What would stop a stack of coins from falling over when the box lands?",
@@ -2016,7 +2016,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Build your first cushion. Put a stack of 3 coins on the card. Close the box. Drop it flat from 50 centimetres onto the mat. Open the lid and see whether the stack is standing. Do it three times.",
+     "do": "Build your first cushion. Put a stack of 3 coins on top of the cushion. Close the box. Drop it flat from 50 centimetres onto the mat. Open the lid and see whether the stack is standing. Do it three times.",
      "say": "Build your first design. Start with a stack of three coins. Drop the box from 50 centimetres and check. Do it three times. Write down how many times the stack stayed standing.",
      "kid": "Build your cushion. Stack 3 coins. Drop the box. Is the stack standing?",
      "parent": "Measure the drop height from the bottom of the box. Drop the box flat, without throwing it. If three coins stay standing every time, try five, then seven.",

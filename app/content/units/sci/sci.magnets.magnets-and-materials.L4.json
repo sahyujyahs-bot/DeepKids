@@ -714,8 +714,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Play four more cards. These cards have people on roller skates, or the Earth and an apple. Ask the question below after the last one.",
-     "say": "These cards have people and planets, but the rule is the same. Does the rule about equal pulls still work?",
-     "kid": "Play four more cards. People and planets follow the same rule.",
+     "say": "These cards have people on skates, and the Earth and an apple. Play them the same way.",
+     "kid": "Play four more cards. Guess first, then check the back.",
      "ask": [
       {
        "q": "Does the rule about equal pulls work for people on skates as well as for magnets?",
@@ -920,7 +920,7 @@
      "id": "s3",
      "mins": 5,
      "do": "Play the next six cards. Before each one, say whether you think the job needs a hard material or a soft one. Ask the question below after the last one.",
-     "say": "Look for the pattern now. What do all the KEEP jobs have in common? What do the DROP jobs have in common?",
+     "say": "Look for the pattern now. What do the KEEP jobs have in common?",
      "kid": "Play six more cards. Look for a pattern in the KEEP cards and the DROP cards.",
      "ask": [
       {
@@ -938,8 +938,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Play the last eight cards. Stop at a card with a coil of wire and ask the check question.",
-     "say": "An electromagnet is a coil of wire with electricity running through it. While the electricity flows, the coil acts as a magnet. Some of these jobs use a coil like this. What must the middle of the coil be made of?",
-     "kid": "Play the last eight cards. Some use a coil. Think about what the middle of the coil must be made of.",
+     "say": "An electromagnet is a coil of wire with electricity running through it. While the electricity flows, the coil acts as a magnet. Some of these jobs use a coil like this. The middle of the coil is called the core.",
+     "kid": "Play the last eight cards. Some use a coil.",
      "check": {
       "t": "mcq",
       "q": "An electric crane uses a magnet to lift scrap iron, and must drop the scrap when the electricity is off. What should the core be made of?",
@@ -1017,7 +1017,7 @@
     }
    ],
    "safety": "Keep magnets away from phones, watches and bank cards. Keep the magnet and nails away from children under five, who might put them in their mouths. Wipe up spills so nobody slips.",
-   "record": "For every trial write how far each raft moved, in centimetres. Do each trial three times and write down the middle value. Then draw a bar for the magnet raft and a bar for the nail raft in each trial.",
+   "record": "For every trial write how far each raft moved, in centimetres. Do each trial three times and write down the middle value. Then make a bar for the magnet raft and a bar for the nail raft in each trial. Draw them, or cut paper strips as long as the distances.",
    "schedule": [
     {
      "day": 1,
@@ -1054,7 +1054,7 @@
      "mins": 5,
      "do": "Show your child the tub, the rafts, the magnet and the nails. Ask for a guess and a reason for each question. Write the guesses at the top of the table.",
      "say": "We will float a magnet on one raft and a nail on another, 8 centimetres apart. What do you think will happen? Will only one raft move, or both? Why do you think so?",
-     "kid": "A magnet on one raft. A nail on another. What will happen? Why do you think so?",
+     "kid": "Picture a magnet on one raft and a nail on another. Tell your grown-up what will happen, and why.",
      "ask": [
       {
        "q": "What do you think the nail raft will do when the magnet raft comes close?",
@@ -1072,7 +1072,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Cut two rafts of the same size. Put the magnet on one raft and three nails on the other. Float both in the middle of the tub. Add a pinch of clay to the lighter one until both rafts float equally low.",
-     "say": "We need two rafts with the same mass. If one raft were heavier, it would be harder to move. So add clay to the lighter one until both rafts sit at the same height in the water.",
+     "say": "We need two rafts that weigh the same. The weight of a thing is called its mass. If one raft were heavier, it would be harder to move. So add clay to the lighter one until both rafts sit at the same height in the water.",
      "kid": "Put the magnet on one raft. Put three nails on the other. Add clay until both sit equally low.",
      "parent": "A kitchen scale makes this easier. If you have one, weigh both rafts and add clay to make them equal. If the rafts tip, stick the magnet down with a little clay. Keep the tub away from any steel sink, almirah or gas stove, because steel nearby can pull a raft.",
      "context": "In this step you build the two rafts and make their masses equal."
@@ -1081,8 +1081,8 @@
      "id": "s3",
      "mins": 6,
      "do": "Swap the nails for a wooden pencil stub on the nail raft. Wait for the water to go still. Put the rafts 8 cm apart and let go of both. Watch for 20 seconds. Do it 3 times.",
-     "say": "First we run a control. We put a pencil on one raft instead of the nails. If the rafts move now, something other than magnetism is moving them. Does anything happen?",
-     "kid": "Put a pencil on one raft. No nails. Let go of both rafts. Does anything happen?",
+     "say": "First we do a check called a control. We put a pencil on one raft instead of the nails. If the rafts move now, something other than magnetism is moving them. Does anything happen?",
+     "kid": "Put a pencil on one raft, with no nails. Let go of both rafts and watch.",
      "check": {
       "t": "mcq",
       "q": "Why do we run a trial with a wooden pencil in place of the nails first?",
@@ -1158,7 +1158,7 @@
     {
      "id": "s7",
      "mins": 5,
-     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then draw the bar chart.",
+     "do": "Ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Then show the distances as bars. Draw them, or cut paper strips as long as each distance.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
      "kid": "Say or write three things: what you think, what you saw, and why it happened.",
      "parent": "Any honest answer with all three parts is good. A good answer sounds like this. What I think: the magnet and the nail pull each other equally. What I saw: when both rafts were free they met in the middle, and when the nail raft was heavy it moved less. Why: the pulls are a pair of equal forces, and the force moves light things further than heavy things.",
@@ -1172,7 +1172,7 @@
    "mins": 25,
    "days": 1,
    "question": "If two nails hang side by side from one magnet, will they hang straight, stick together, or spread apart? And do longer nails spread further?",
-   "predict": "Before you start, draw what you think two hanging nails will look like. Then guess. Will the two free ends hang straight down, move together or spread apart? Why do you think so?",
+   "predict": "Before you start, show with two fingers how you think two hanging nails will look. Then guess. Will the two free ends hang straight down, move together or spread apart? Why do you think so?",
    "fair_test": "We use the same magnet and hold it still above the table. We touch the heads of the nails to the same flat face of the magnet, side by side. We measure the gap between the tips with the same ruler held in the same place. Only the nail length changes, so any difference in the gap comes from the length. Each pair is tested three times, because one try can be a fluke.",
    "results_table": [
     "Nails",
@@ -1206,7 +1206,7 @@
     }
    ],
    "safety": "Nails have sharp points. Hold them by the head and keep the points away from faces. A grown-up should stay beside a younger child. Keep magnets away from phones and bank cards.",
-   "record": "Fill in the results table. Draw the magnet and the two nails in each try, and draw the V of the hanging tips to scale.",
+   "record": "Fill in the results table. Take a photo of each try, or draw the V of the hanging tips.",
    "schedule": [
     {
      "day": 1,
@@ -1237,9 +1237,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Show your child the magnet and the nails. Ask them to draw what two hanging nails will look like, then to guess and give a reason.",
-     "say": "I will hang two nails from the magnet, side by side. Draw what you think they will look like. Will they hang straight, or lean in, or lean out? Why do you think so?",
-     "kid": "Two nails hang from a magnet. Draw them. Will they hang straight? Why?",
+     "do": "Show your child the magnet and the nails. Ask them to show with two fingers how two hanging nails will look, then to give a reason.",
+     "say": "I will hang two nails from the magnet, side by side. Show me with two fingers how you think they will hang. Straight, leaning in, or leaning out?",
+     "kid": "Two nails will hang side by side from a magnet. Show with two fingers how they will hang.",
      "ask": [
       {
        "q": "Why do you think the nails will hang that way?",
@@ -1257,7 +1257,7 @@
      "id": "s2",
      "mins": 7,
      "do": "Hold the magnet still above the table. Touch the heads of the two short nails to its flat face, side by side. Let go gently. Look at the tips.",
-     "say": "Touch the heads of two nails to the flat face of the magnet, side by side. Let go gently. What do the tips do? Do they hang straight?",
+     "say": "Touch the heads of two nails to the flat face of the magnet, side by side. Let go gently. What do the tips do? Do they hang straight, or make a V?",
      "kid": "Touch two nail heads to the magnet. Let go gently. What do the tips do?",
      "adult": true,
      "parent": "The tips should hang apart in a V, though the gap may be small, around half a centimetre to two centimetres. If the nails will not hang, use a stronger magnet or lighter, thinner nails. If the V is too small to see, hold a sheet of paper behind and look from the side.",
@@ -1356,7 +1356,7 @@
     }
    ],
    "safety": "A needle and a pin are sharp. A grown-up handles them and puts them away afterwards. Staples are small and sharp, so keep them away from children under five. Keep the magnet away from phones and cards.",
-   "record": "Fill in the table for every thing. Then draw a bar for each thing, as tall as the number of staples it held right after, and another bar, in a different colour, as tall as the number it held the next day.",
+   "record": "Fill in the table for every thing. Then make a bar for each thing, drawn or lined up with real staples, as tall as the number of staples it held right after, and another bar, in a different colour, as tall as the number it held the next day.",
    "schedule": [
     {
      "day": 1,
@@ -1393,8 +1393,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Line up the nail, needle, pin and paper clip. Ask your child to put them in order from keeps the magnetism longest to loses it first, and to give a reason. Write the order down.",
-     "say": "We will make each of these a magnet with the same magnet, in the same way. Which one will keep its magnetism longest? Which will lose it first? Why do you think so?",
-     "kid": "Line them up. Which keeps the magnetism longest? Which loses it first? Why?",
+     "say": "We will magnetise each of these, which means make it act like a magnet. We use the same magnet, in the same way. Which one will keep its magnetism longest? Which will lose it first? Why do you think so?",
+     "kid": "Line them up. Put the one that keeps its magnetism longest first.",
      "ask": [
       {
        "q": "Why do you think that one will keep its magnetism longest?",
@@ -1449,7 +1449,7 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "The next day, test every thing again on the staples, and write the numbers. Then draw the bar chart.",
+     "do": "The next day, test every thing again on the staples, and write the numbers. Then show the numbers as bars. Draw them, or line up that many real staples for each thing.",
      "say": "A day has passed. Test each thing on the staples again. Which ones still have some magnetism?",
      "kid": "A day later, test each one on the staples. Which ones still hold some?",
      "parent": "The needle and pin may still hold a few staples. The nail may hold none or one. Your numbers may differ, because the steel in nails, needles and clips differs from maker to maker. Write what you see.",
@@ -1500,7 +1500,7 @@
      "what": "Hang the magnet. Bring a nail near it. Then hang the nail and bring the magnet near it."
     }
    ],
-   "record": "Draw the hanging magnet before and after the nail comes near it, and write one sentence about what you saw.",
+   "record": "Write one sentence about what you saw. Take a photo of the magnet before and after the nail comes near, or draw it.",
    "context": "In this short activity, you hang a magnet on a thread and bring a nail close. You see which one moves.",
    "setup": [
     {
@@ -1513,7 +1513,7 @@
     },
     {
      "art": "A child drawing the magnet leaning towards the nail in a notebook.",
-     "caption": "3. Swap them. Hang the nail and hold the magnet. Draw what you see."
+     "caption": "3. Swap them. Hang the nail and hold the magnet. Watch what happens."
     }
    ],
    "flow": [
@@ -1522,7 +1522,7 @@
      "mins": 4,
      "do": "Tape the pencil across the table edge, so it sticks out. Tie the thread to the pencil and hang the magnet from it. Wait until it hangs still. Ask your child to guess what the magnet will do when a nail comes near.",
      "say": "Here is a magnet hanging from a thread. I will hold a nail near it, but not touch it. What will the magnet do? Why do you think so?",
-     "kid": "A magnet hangs on a thread. What will it do when a nail comes near? Why?",
+     "kid": "A magnet hangs on a thread. Tell your grown-up what you think it will do. Say why.",
      "ask": [
       {
        "q": "Will the magnet move, or will it stay still?",
@@ -1723,7 +1723,7 @@
      "what": "Test the front and the back of the magnet on staples. A grown-up cuts it in two. Test the pieces. Slide the pieces over each other."
     }
    ],
-   "record": "A table: front, back, half 1 front, half 2 front, with the number of staples each held. Draw the cut magnet with the staples on it.",
+   "record": "A table: front, back, half 1 front, half 2 front, with the number of staples each held. Take a photo of each half with its staples, or draw them.",
    "context": "In this activity, you find out why a fridge magnet grips on one face only, and what happens when you cut a magnet in two.",
    "setup": [
     {
@@ -1783,11 +1783,11 @@
      "mins": 8,
      "do": "A grown-up cuts the magnet into two equal halves with scissors. Test the front of each half on the staples, and count. Write the numbers.",
      "say": "Now a grown-up cuts the magnet in two. Is each half still a magnet? Is each half as strong as the whole? Test and see.",
-     "kid": "A grown-up cuts the magnet in two. Test each half on the staples. Is each half a magnet?",
+     "kid": "A grown-up cuts the magnet in two. Test each half on the staples and count.",
      "adult": true,
      "ask": [
       {
-       "q": "Did you get one magnet and one piece of plain rubber?",
+       "q": "Is each half still a magnet, or is one half only plain rubber?",
        "good": [
         "No, both halves are magnets.",
         "Each half has its own strong face.",
@@ -1801,7 +1801,7 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Lay the two halves front to front and slide one over the other slowly. Notice what it feels like. Then press one half to the fridge and count how many sheets of paper it holds. Write what you found.",
+     "do": "Lay the two halves front to front and slide one over the other slowly. Notice what it feels like. Write what you found.",
      "say": "Slide one half over the other, front to front. Do you feel any bumps or clicks? That feeling is the stripes lining up and slipping past each other.",
      "kid": "Slide the two halves over each other. Do you feel little bumps?",
      "think": "A magnet cut in two gives two magnets, each with its own two sides. What do you think would happen if you cut one of the halves in two again?",
@@ -1873,7 +1873,7 @@
      "mins": 6,
      "do": "Tape the magnet face down at the table edge, so its face overhangs. Stick the nail to its face. Tie the thread to the nail and hang the cup from the thread. Ask your child to guess how many grams of rice the magnet will hold, and why.",
      "say": "The Earth is pulling this nail down. The magnet is pulling it up. How much rice can we put in the cup before the Earth wins? Make a guess, and give a reason.",
-     "kid": "The Earth pulls the nail down. The magnet pulls it up. How much rice can the cup hold? Guess.",
+     "kid": "The Earth pulls the nail down. The magnet pulls it up. Will the cup hold a little rice or a lot?",
      "ask": [
       {
        "q": "How many grams of rice do you think the cup can hold before the nail falls?",
@@ -1989,7 +1989,7 @@
      "id": "s1",
      "mins": 5,
      "do": "Make a list of places that may have magnets. Try the fridge door seal, cupboard catches, old earphones, a loudspeaker, a bag flap, a pencil box and a toy. Ask your child to guess which three have a real magnet.",
-     "say": "Many things at home have hidden magnets. Here is a list of places. Which three do you think have a real magnet in them? Why?",
+     "say": "Many things at home have hidden magnets. Here is a list of places. Which three do you think have a real magnet in them, one that can push as well as pull? Why?",
      "kid": "Where could magnets hide? Make a list. Which three have a real magnet?",
      "parent": "Do not take things apart, because batteries and small parts are not safe to open. Only test from the outside. Keep the hanging magnet and paper clip away from phones, watches and bank cards.",
      "context": "This is the first step of the Hidden Magnets hunt. You guess before you test."
@@ -2017,8 +2017,8 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Make two lists: real magnets and plain magnetic metals. Count your finds. Pick the most surprising place and draw it.",
-     "say": "Which places had real magnets? Which had only plain magnetic metal? Which find surprised you most? Draw it.",
+     "do": "Make two lists: real magnets and plain magnetic metals. Count your finds. Pick the most surprising place and tell the family about it, or draw it.",
+     "say": "Which places had real magnets? Which had only plain magnetic metal? Which find surprised you most? Tell us about it.",
      "kid": "Make two lists. Real magnets. Plain magnetic metal. Which surprised you most?",
      "think": "A fridge door seal has a magnet inside, and nobody can see it. What other useful things are hidden inside everyday things?",
      "context": "In this step you sort your finds into two lists and draw the most surprising one."
@@ -2103,7 +2103,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Write your child's first name in the code. Look up each letter's number, turn it into five arrows, and lay the arrows along the strip. Leave one empty square between letters.",
+     "do": "Write your child's first name in the code. Use up to four letters, so the name fits the strip. Look up each letter's number, turn it into five arrows, and lay the arrows along the strip. Leave one empty square between letters.",
      "say": "Write your name in ups and downs. Find each letter's number. Turn it into five arrows. Put them along the strip.",
      "kid": "Find each letter's number. Write it with five arrows. Lay them on the strip.",
      "check": {
@@ -2185,7 +2185,7 @@
      "what": "Balance the weights with clay. Try a weaker magnet. Make the join soft. Show the train to someone and say what you changed and why."
     }
    ],
-   "record": "Draw your train. Write the start gap, which car moved, how hard the cars met, and what you changed on day 2.",
+   "record": "Take a photo of your train, or draw it. Write the start gap, which car moved, how hard the cars met, and what you changed on day 2.",
    "context": "In this project, you build a small magnetic train like the toy makers of Channapatna might. You make the carriages join without hooks, and you make the join gentle.",
    "setup": [
     {
@@ -2205,7 +2205,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Show your child the cars, magnets and nails. Ask them to draw how to join two cars without a hook. Then ask which car will move when they are let go.",
+     "do": "Show your child the cars, magnets and nails. Ask how two cars could join without a hook. Then ask which car will move when they are let go.",
      "say": "We will make a train whose carriages join without hooks. We put a magnet in the engine and nails in the carriage. When we let go, which car do you think will move? Why do you think so?",
      "kid": "A magnet in the engine. A nail in the carriage. Which will move? Why?",
      "parent": "Do not correct the guess. If you have not done the Rafts experiment, do it first. It makes this project easier to explain.",
@@ -2244,7 +2244,7 @@
     {
      "id": "s4",
      "mins": 12,
-     "do": "On day 2, make the two cars weigh the same by adding clay to the lighter car. Use a weaker magnet or one nail fewer. Let go again. Aim for a soft click rather than a bang.",
+     "do": "On day 2, make the two cars weigh the same by adding clay to the lighter car. Use a weaker magnet, or take away one nail. Let go again. Aim for a soft click rather than a bang.",
      "say": "Today we make the join gentle. Add clay to the lighter car so the two weigh the same. Then try a weaker magnet. We want the cars to meet softly, in the middle.",
      "kid": "Add clay to the lighter car. Use a weaker magnet. Let go. Is the click softer?",
      "ask": [
@@ -2263,7 +2263,7 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "Show the train to a friend or a grown-up. Ask your child to say what they changed and why, using the words pull, mass and equal.",
+     "do": "Show the train to a friend or a grown-up. Ask your child to say what they changed and why, using the words pull, mass (how heavy a thing is) and equal.",
      "say": "Show someone your train. Tell them what you changed on day 2, and why it made the meeting softer.",
      "kid": "Show your train. Tell someone what you changed and why.",
      "think": "In the story The Train That Met in the Middle, the engine twitched backwards when the carriage rushed forward. What does that tell you about the pull?",
@@ -2301,7 +2301,7 @@
     "Rub the surfaces smooth so that no tiny gaps remain, or use a drop of water to fill them.",
     "Hang the load from the steel as low down as possible, so the load pulls the steel straight off and not sideways."
    ],
-   "your_turn": "Sketch your design and build it. Test it three times. Change one thing and test again. Which arrangement held the most rice? Why do you think it did?",
+   "your_turn": "Build your design. Test it three times. Change one thing and test again. Which arrangement held the most rice? Why do you think it did?",
    "context": "This is a design challenge about the pull of a magnet. You find the best way to use one magnet to hold the heaviest load.",
    "setup": [
     {
@@ -2321,9 +2321,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two or three designs, and to say which they think will hold the most.",
-     "say": "You have one magnet. How can you arrange the steel so the magnet holds as much rice as possible? Draw some ideas first, and say which will win.",
-     "kid": "One magnet. How can you hold the most rice? Draw some ideas first.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to lay out two or three designs with the real steel things. Ask which will hold the most.",
+     "say": "You have one magnet. How can you arrange the steel so the magnet holds as much rice as possible? Lay out some ideas with the steel first, and say which will win.",
+     "kid": "One magnet. Lay the steel out in two or three ways. Which will hold the most rice?",
      "ask": [
       {
        "q": "What would make the pull stronger?",
@@ -2368,7 +2368,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Compare all your designs. Pick the winner, and write why you think it won, using the word saturated.",
-     "say": "Which design held the most? Why do you think it won? Use the word saturated if you can.",
+     "say": "Which design held the most? Why do you think it won? Saturated means the steel cannot become any more magnetic. Use that word if you can.",
      "kid": "Which design held the most? Why do you think it won?",
      "think": "A magnet can lift more with a thick bolt than with a thin nail. Where do you think the extra strength comes from?",
      "context": "In this last step you compare your designs and explain the winner."
@@ -2403,7 +2403,7 @@
     "Put a thin sheet of paper between the magnet and the steel, to make the grip a little weaker.",
     "Put a small magnet at the top and one at the bottom of the door, so it shuts straight and evenly."
    ],
-   "your_turn": "Sketch your door. Build it. Tap the table 5 times and open it with one finger. Change the strength of the grip by changing the gap. Which gap gave a door that stays shut but opens easily? Why do you think so?",
+   "your_turn": "Build your door. Tap the table 5 times and open it with one finger. Change the strength of the grip by changing the gap. Which gap gave a door that stays shut but opens easily? Why do you think so?",
    "context": "This is a design challenge about the strength of a magnet's pull and how it changes with a gap. You make a gentle door catch.",
    "setup": [
     {
@@ -2423,9 +2423,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem. Ask your child to say what makes a good catch, and to draw the door, the frame, the magnet and the steel.",
-     "say": "We want a door that stays shut when the cupboard is bumped, but opens with one finger. What should the catch be like? Not too strong and not too weak. Draw your idea.",
-     "kid": "A door that stays shut but opens with one finger. Draw your idea.",
+     "do": "Read the problem. Ask your child to say what makes a good catch. Then ask them to show with the cardboard where the magnet and steel will go.",
+     "say": "We want a door that stays shut when the cupboard is bumped, but opens with one finger. What should the catch be like? Not too strong and not too weak. Show me where the magnet and the steel will go.",
+     "kid": "A door that stays shut but opens with one finger. Where will the magnet and the steel go?",
      "ask": [
       {
        "q": "What could you change to make the catch weaker or stronger?",

@@ -570,7 +570,7 @@
    "setup": [
     {
      "art": "A drawn pond on a sheet of paper with 8 blue paper squares for oxygen, 2 green paper leaves for plants and 3 paper fish.",
-     "caption": "1. Draw a pond. Put in 8 oxygen, 2 plants and 3 fish."
+     "caption": "1. Use a sheet of paper as the pond. Put in 8 oxygen, 2 plants and 3 fish."
     },
     {
      "art": "A pile of twelve weather cards face down beside the pond, with one card turned up showing a sun.",
@@ -674,9 +674,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Draw the pond and cut out the tokens. Put in 8 oxygen, 2 plants and 3 fish. Shuffle the weather cards face down.",
+     "do": "Use a sheet of paper as the pond, and another as the pond diary. Cut out the tokens. Put in 8 oxygen, 2 plants and 3 fish. Shuffle the weather cards face down.",
      "say": "This is our pond. It starts with 8 oxygen, 2 plants and 3 fish. We win if at least 2 fish are alive after 6 days.",
-     "kid": "Draw a pond. Put in 8 oxygen, 2 plants and 3 fish.",
+     "kid": "Use a sheet of paper as your pond. Put in 8 oxygen, 2 plants and 3 fish.",
      "ask": [
       {
        "q": "What do you think will be the biggest danger to the fish?",
@@ -1785,7 +1785,7 @@
     }
    ],
    "safety": "A grown-up pours the hot water. Blow out gently through the straw and never suck in, because the water is not for drinking. Stop and rest if you feel dizzy. Wash hands afterwards. Cabbage water stains clothes and fingers. Keep the jars where the sun is bright but the glass does not get hot to touch; hot water kills the plants. Wash the water plants first, and wash hands after touching pond plants.",
-   "record": "Match each jar to the colour ladder and write its number. Photograph all four jars side by side on the white paper at the start and after one day. Colour in the table. Write your claim, your evidence and your reasoning.",
+   "record": "Match each jar to the colour ladder and write its number. Photograph all four jars side by side on the white paper at the start and after one day. Write each number in the table. Write your claim, your evidence and your reasoning.",
    "context": "In this experiment, you blow your breath into cabbage water, which changes colour. Then you find out what a leaf does to that breath in the light and in the dark.",
    "setup": [
     {
@@ -1809,9 +1809,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show the jars, the leaves and the cabbage. Ask for a guess and a reason. Write both at the top of the table.",
-     "say": "We will blow our breath into cabbage water. Then we will put leaves in some jars. What do you think will happen? Why do you think so?",
-     "kid": "We will blow into cabbage water. Then we add leaves. What will happen? Why?",
+     "do": "Show the jars, the water plant and the cabbage. Ask for a guess and a reason. Write both at the top of the table.",
+     "say": "We will blow our breath into cabbage water. Then we will put a water plant in two of the jars. What do you think will happen? Why do you think so?",
+     "kid": "Guess what the leaves will do to the water. Say why you think so.",
      "ask": [
       {
        "q": "What do you think the leaves will do to the water in the light, and in the dark?",
@@ -1891,9 +1891,9 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "Unwrap jar C. Put all four jars side by side on the white paper. Match each to the colour ladder. Photograph them. Colour in the table.",
+     "do": "The next day, unwrap jar C. Put all four jars side by side on the white paper. Make a colour ladder: fill 4 small cups with cabbage water. Add lemon juice to one, nothing to the second and third, and baking soda to the fourth. Number the cups 1 to 4 from pinkest to bluest. Match each jar to a cup. Photograph the jars. Write each jar's number in the table.",
      "say": "Look at the four jars together. Which is the bluest? Which is the pinkest? What did you expect? What did you see?",
-     "kid": "Unwrap jar C. Look at all four jars. Which is the bluest? Which is the pinkest?",
+     "kid": "Unwrap jar C. Put the four jars in a row, from the pinkest to the bluest.",
      "ask": [
       {
        "q": "What do you think the leaves in the light did to the breath? What did the leaves in the dark do?",
@@ -1996,7 +1996,7 @@
     }
    ],
    "safety": "Do not drink the water. A grown-up measures the fertiliser, which must be kept away from eyes and mouth. Wash your hands after touching it. Cover every jar with cloth, because uncovered standing water can breed mosquitoes. When the test is over, pour the water on the soil of a plant, away from the house. Wash hands after touching pond or tank water.",
-   "record": "On days 1, 3, 5 and 8, hold each jar in front of the white card with the cross. Give it a see-through score from 0 to 3. Draw the three jars on day 8.",
+   "record": "On days 1, 3, 5 and 8, hold each jar in front of the white card with the cross. Give it a see-through score from 0 to 3. Photograph the three jars on day 8.",
    "context": "In this experiment, you grow a crowd of tiny floating plants in three jars with different amounts of light. You find out how light changes how green a pond gets.",
    "setup": [
     {
@@ -2018,7 +2018,7 @@
      "mins": 5,
      "do": "Show the three jars and the water. Ask for a guess and a reason. Write the guess at the top of the table.",
      "say": "Tiny green plants called algae live in pond water. We will give three jars different amounts of light. Which will turn greenest? Why?",
-     "kid": "We give three jars different amounts of light. Which jar turns greenest? Why?",
+     "kid": "Guess which jar will turn the greenest.",
      "ask": [
       {
        "q": "Why do you think that jar will be the greenest?",
@@ -2085,9 +2085,9 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "On days 5 and 8, score the jars again. On day 8, draw all three jars side by side. Write your claim, evidence and reasoning.",
-     "say": "Score the jars again. Draw all three side by side. Which is the greenest? What does light seem to do?",
-     "kid": "Score the jars. Draw them side by side. Which one is greenest?",
+     "do": "On days 5 and 8, score the jars again. On day 8, photograph all three jars side by side. Write your claim, evidence and reasoning.",
+     "say": "Score the jars again. Photograph all three side by side. Which is the greenest? What does light seem to do?",
+     "kid": "Score the jars. Take a photo of all three side by side.",
      "ask": [
       {
        "q": "Why does light make a pond turn green?",
@@ -2204,7 +2204,7 @@
      "mins": 4,
      "do": "Show the three glasses and the bowls. Ask for a guess and a reason. Write the guess down.",
      "say": "We will stand glasses of cold water in icy, cool and warm bowls. Which glass will get the most bubbles? Why do you think so?",
-     "kid": "Three glasses of cold water stand in an icy bowl, a cool bowl and a warm bowl. Which glass gets the most bubbles? Why?",
+     "kid": "Guess which glass will get the most bubbles. Say why you think so.",
      "ask": [
       {
        "q": "Where do you think the bubbles will come from?",
@@ -2243,9 +2243,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Look at the glasses after 10 minutes with the magnifying glass. Score the bubbles from 0 to 5. Wait and score again at 30 minutes.",
-     "say": "Look at the walls of each glass. Do you see tiny bubbles? Give each glass a score. Look again later and score again.",
-     "kid": "Look at each glass with the magnifier. Score the bubbles. Look again later.",
+     "do": "Look at the glasses after 10 minutes with the magnifying glass. Score the bubbles from 0 to 5. Score again after 30 minutes.",
+     "say": "Look at the walls of each glass. Do you see tiny bubbles? Give each glass a score. Look again after 30 minutes and score again.",
+     "kid": "Look at each glass with the magnifier. Score the bubbles. Look again after 30 minutes.",
      "ask": [
       {
        "q": "Which glass has the most bubbles? What are the bubbles made of?",
@@ -2264,7 +2264,7 @@
      "mins": 8,
      "do": "Photograph the three glasses together. Write your claim, evidence and reasoning. Talk about what this means for a pond in hot weather.",
      "say": "Which glass had the most air come out? What does that tell us about warm water? What could that mean for a fish pond in hot weather?",
-     "kid": "Which glass got the most bubbles? What does that tell us about warm water?",
+     "kid": "Look at your photo of the three glasses. Point to the glass with the most bubbles.",
      "ask": [
       {
        "q": "If warm water holds less air, what might happen to the fish in a pond on a very hot night?",
@@ -2326,7 +2326,7 @@
      "what": "Paint a patch of nail polish on a leaf. Let it dry. Peel it off with tape. Look at the print."
     }
    ],
-   "record": "Draw what you see in the print. Count how many tiny mouth shapes fit in one small square of your view. Write which side of the leaf has more.",
+   "record": "Count how many stomata fit in one view of the magnifier. Take a photo of the print. If you made a print from the top too, write which side has more.",
    "context": "In this activity, you make a copy of the skin of a leaf and look for stomata, the tiny holes that let carbon dioxide in and oxygen out.",
    "setup": [
     {
@@ -2387,9 +2387,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Stick the tape with the print on a slide. Look at it under the magnifier. Find the tiny lip-shaped pairs of cells. Draw what you see.",
-     "say": "Look closely. Find the small pairs of curved cells with a gap between them. Each gap is a stoma. Can you count them?",
-     "kid": "Look through the magnifier. Find the tiny mouths. Draw what you see.",
+     "do": "Stick the tape with the print on a slide. Look at it under the magnifier. Find the tiny lip-shaped pairs of cells. Count how many you can see in one view. If you have time, make a second print from the top of the leaf and count again.",
+     "say": "Look closely. Find the small pairs of curved cells with a gap between them. Each gap is a stoma, a tiny door for air. How many can you count?",
+     "kid": "Look through the magnifier. Find the curved pairs with a gap between them. Count them.",
      "ask": [
       {
        "q": "Why might a leaf need so many tiny holes, and not a few big ones?",
@@ -2460,7 +2460,7 @@
      "mins": 5,
      "do": "Ask for a guess about how the two leaves will differ. Pick the leaves.",
      "say": "One leaf grew in the sun and one in the shade. How will they be different? Why do you think so?",
-     "kid": "One leaf grew in the sun and one in the shade. How are they different? Why?",
+     "kid": "Guess how the two leaves are different. Say why you think so.",
      "ask": [
       {
        "q": "Which leaf do you think will be bigger, and why?",
@@ -2508,9 +2508,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Write your claim, evidence and reasoning. Say what the plant did to adapt to the light each leaf got.",
+     "do": "Write your claim, evidence and reasoning. Say how the plant made each leaf to suit the light it got.",
      "say": "What did you find? Why do you think the plant made leaves that are different on the same plant?",
-     "kid": "What did you find? Why are the leaves different on one plant?",
+     "kid": "Say what is different about the two leaves. Then say why you think so.",
      "think": "Each leaf grew in a different amount of light. Could a plant sense the light and change the kind of leaf they make? What does that tell you?",
      "context": "In this step, you say what the two leaves show about how plants respond to light."
     }
@@ -2551,7 +2551,7 @@
      "what": "A grown-up lights the diya. Hold a cold spoon above the flame to catch black carbon. Talk about where it came from."
     }
    ],
-   "record": "Draw the diya, the spoon and the black patch. Write the chain: air, plant, oil, flame, soot.",
+   "record": "Take a photo of the diya, the spoon and the black patch. Write the chain: air, plant, oil, flame, soot.",
    "context": "In this activity, you catch black carbon from a flame on a spoon. Then you work out that this carbon was once carbon dioxide in the air.",
    "setup": [
     {
@@ -2591,8 +2591,8 @@
      "id": "s2",
      "mins": 8,
      "adult": true,
-     "do": "A grown-up lights the diya. Hold a cold spoon in a cloth so its underside touches the yellow flame tip for 3 to 5 seconds. Rest it on the steel plate. Try again low in the blue part and compare.",
-     "say": "Watch the spoon. A black patch is forming. It is soot, which is mostly carbon. The oil is made of carbon and a few other things, and the flame burns it. The soot is carbon that did not burn away. Where could that carbon have come from in the first place?",
+     "do": "A grown-up lights the diya. Hold a cold spoon in a cloth so its underside touches the yellow flame tip for 3 to 5 seconds. Rest it on the steel plate. Try again low in the blue part and compare which patch is blacker.",
+     "say": "Watch the spoon. A black patch is forming. It is soot, which is mostly carbon. The oil is made of carbon and a few other things, and the flame burns it. The soot is carbon that did not burn away.",
      "kid": "A grown-up lights the diya and holds the spoon. Look for black.",
      "parent": "Use a clean, cool spoon. The black soot forms on the underside of the spoon where it cools the yellow part of the flame, which has glowing bits of unburnt carbon. In the blue part near the wick there is plenty of air and the carbon burns away, so there should be much less soot. If the soot is faint, hold the spoon in the yellow tip a second longer. Take care that the spoon does not smother the flame.",
      "check": {
@@ -2612,9 +2612,9 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Let the spoon cool. Rub a little soot on white paper. Draw the chain from air to soot. Talk about candles and wax.",
-     "say": "Let the spoon cool. Rub a little soot on the paper. This carbon was once in the air. Which plant took it in? How long ago?",
-     "kid": "Rub a little black on paper. This carbon was once in the air.",
+     "do": "Let the spoon cool. Rub a little soot on white paper. Write air, plant, oil, flame and soot on five slips of paper. Put the slips in order. Talk about candles and wax.",
+     "say": "Let the spoon cool. Rub a little soot on the paper. This carbon was once in the air. A sesame plant took it in and made the oil. Put your five slips in order, from air to soot.",
+     "kid": "Rub a little black on paper. Put the five slips in order, from air to soot.",
      "ask": [
       {
        "q": "A candle is made from wax that usually comes from oil under the ground. How is its soot different from the diya's soot?",
@@ -2658,7 +2658,7 @@
    ],
    "safety": "Stop and sit down if you feel dizzy or breathless. Never hold your breath, and jump only on a clear, non-slippery floor.",
    "record": "Make a table with your three counts of breaths in one minute. Write the biggest change and what it tells you.",
-   "context": "In this activity, you count how fast you breathe at rest and after exercise. This shows how respiration speeds up when your cells need more energy.",
+   "context": "In this activity, you count how fast you breathe at rest and after exercise. Respiration is how your cells get energy from food, using oxygen. You will find out that it speeds up when your cells need more energy.",
    "setup": [
     {
      "art": "A child sitting still and a parent counting breaths with a clock.",
@@ -2696,12 +2696,12 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Count breaths for one minute sitting. Do 30 jumps. Count for one minute. Rest 3 minutes. Count again. Write all three numbers.",
-     "say": "Sit still for two minutes. Count each time your chest goes up. Do that for one minute. Then jump and count again.",
+     "do": "Sit still for 2 minutes. Count breaths for one minute. Do 30 jumps. Count for one minute. Rest 3 minutes. Count again. Write all three numbers.",
+     "say": "Sit still for two minutes. Then count each time your chest goes up for one minute. Now jump 30 times and count again for one minute. Rest, and count a third time.",
      "kid": "Sit still and count breaths for a minute. Then jump 30 times and count again.",
      "ask": [
       {
-       "q": "What changed after the jumps? Why?",
+       "q": "What changed after the jumps?",
        "good": [
         "We breathed faster, because the muscles needed more oxygen.",
         "More respiration is happening in the muscles.",
@@ -2779,7 +2779,7 @@
      "mins": 5,
      "do": "Show the table. Ask for a guess about the shape of the line. Write the guess.",
      "say": "A pond is measured every three hours for a day and a night. What shape do you think the oxygen line will make? Why do you think so?",
-     "kid": "What shape will the oxygen line make over a day? Why?",
+     "kid": "Guess the shape of the line. Say why you think so.",
      "ask": [
       {
        "q": "When do you think the oxygen will be highest, and when lowest?",
@@ -2908,7 +2908,7 @@
      "what": "Look, draw and write what the jar did without being opened for four weeks."
     }
    ],
-   "record": "Draw the jar on days 1, 7, 14 and 28. Measure the tallest stem in centimetres each time. Write how many water drops there were, whether the plants grew, and anything that went wrong.",
+   "record": "Take a photo of the jar on days 1, 7, 14 and 28. Measure the tallest stem in centimetres each time. Write how many water drops there were, whether the plants grew, and anything that went wrong.",
    "context": "In this project, you seal a small garden in a jar and leave it for four weeks. You find out how plants, soil and air can recycle each other, with no new air or water.",
    "setup": [
     {
@@ -2947,7 +2947,7 @@
     {
      "id": "s2",
      "mins": 20,
-     "do": "Put pebbles in the jar, then soil about 6 centimetres deep. Plant the two plants. Spray lightly with water. Close the lid.",
+     "do": "Put pebbles in the jar, then soil about 6 centimetres deep. Plant the two plants. Measure the tallest stem and write it down. Spray lightly with water. Close the lid.",
      "say": "Put the pebbles in first. Add the soil. Plant the two plants gently. Spray the soil with water, just a little, and close the lid.",
      "kid": "Add pebbles, then soil. Plant two plants. Spray lightly. Close the lid.",
      "parent": "The soil should be damp, not wet. Water should not pool at the bottom. If water drips down the glass at the start, open the lid for an hour to let some out. Use plants that like moist air. Cacti and succulents will rot in a sealed jar. In the damp monsoon, mould grows easily, so spray very lightly and keep the soil a little drier. With 2 to 4 children, each builds a jar of their own, and one child can make a second jar with the lid left off and not watered, to compare with the sealed one.",
@@ -2968,9 +2968,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Place the jar in bright light. On day 2, look for water drops on the glass and draw the jar.",
-     "say": "Look at the inside of the glass. Do you see water drops? Where did they come from? Will they stay there?",
-     "kid": "Look for drops on the glass. Draw the jar.",
+     "do": "Place the jar in bright light, out of direct sun. On day 2, look for water drops on the glass and take a photo of the jar.",
+     "say": "Look at the inside of the glass. Do you see water drops?",
+     "kid": "Look for drops on the glass. Take a photo of the jar.",
      "ask": [
       {
        "q": "Where did the water drops come from, and where will they go?",
@@ -2987,9 +2987,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "On day 28, compare your drawings. Write what the jar did. Do not open it before then, unless mould spreads.",
-     "say": "Compare the drawings. What changed? What stayed the same? Where do you think the plants got air and water from?",
-     "kid": "Compare the drawings. What changed? What stayed the same?",
+     "do": "On day 28, compare your photos. Write what the jar did. Do not open it before then, unless mould spreads.",
+     "say": "Compare the photos. What changed? What stayed the same? Where do you think the plants got air and water from?",
+     "kid": "Compare your photos. What changed? What stayed the same?",
      "ask": [
       {
        "q": "How did the plants breathe and drink for four weeks in a sealed jar?",
@@ -3057,7 +3057,7 @@
      "mins": 5,
      "do": "Read the problem and the price list. Ask your child to say what limits a plant on a dim day. Write down the answer.",
      "say": "A plant grows only as fast as the lowest of the three levels: light, carbon dioxide and warmth. If one is low, does it help to raise the other two? Why do you think so?",
-     "kid": "A plant grows as fast as its lowest factor. Does raising the others help?",
+     "kid": "Put the three cards in a row. Which factor do you think holds the plant back? Say why.",
      "ask": [
       {
        "q": "If light is level 1, would more carbon dioxide help?",

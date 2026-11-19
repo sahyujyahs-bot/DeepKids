@@ -231,7 +231,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   - Note: No printer or scissors? Copy each front on a slip of paper, or read the fronts from the screen while someone else holds the backs. With 2 to 4 players, take turns, and the others may help with a hint. This game is cards only: never light a match, diya or stove for it. A grown-up should do any cutting.
 - **s2 (8 min)**  
   *Parent does:* Play the first eight cards. For each, read the front, say the store and the trigger, and then check the back.  
-  *Parent says:* Take a card. Read the front. Which label does it go under? What is the trigger? Then turn it over and check.  
+  *Parent says:* Take a card. Read the front. Which label does it go under? What is the trigger? Then turn it over and check. Score a point for each right answer.  
   *Child mode:* Take a card. Pick a label. Say the trigger. Turn it over.
   - Ask: What is holding the energy back on this card? (good: A hand.; A closed tap.; A spring that is held.; The chemicals are kept apart.)
   - Note: Let your child answer before they turn the card. If they pick the wrong store, read the back together and move on. It is a game, not a test.
@@ -270,7 +270,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **predict:** Before you start, guess. How far will the soap slide after a 2 centimetre pull-back, and after a 4 centimetre pull-back? Will twice the pull-back give twice the slide? Why do you think so?
 - **fair test:** The same band, the same soap, the same pencils and the same floor are used every time. The pencils are always 10 centimetres apart. The soap always starts straight behind the band, and you always let go of it without flicking. Only the pull-back changes, so any change in the slide comes from the pull-back. Each pull-back is tried three times, because one try can be a fluke.
 - **safety:** A rubber band can snap, so stand to the side of the band's line and never pull the soap back more than 6 centimetres. Push each pencil with the pointed end deep into the clay and the flat end up, so nobody can fall on a point. Tape the clay lumps to the floor. Keep your face away from the band. A grown-up should be near, because pencils are sharp.
-- **record:** Write each slide in the table. Circle the middle one of the three for each pull-back. Then draw a bar for each pull-back, using the middle slide.
+- **record:** Write each slide in the table. Circle the middle one of the three for each pull-back. Then lay a piece of string as long as the middle slide for each pull-back, and put them side by side.
 - **results table:** Pull-back (cm) | Slide 1 (cm) | Slide 2 (cm) | Slide 3 (cm) | Middle slide (cm)
 - **s1 (5 min)**  
   *Parent does:* Show your child the soap, the band and the pencils. Ask for a guess and a reason, and write both down.  
@@ -292,7 +292,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   - Note: The soap leaves the band when the band is straight again at the pencils. If the soap barely moves, write the small number or 0. That is a real result. If the soap skids sideways, start again and slide it straight back. Put the soap in the same spot each time. If even the 6 centimetre pull-back moves the soap less than about 10 centimetres, the band is too weak: use a thicker band, or two bands side by side, or move the pencils 2 centimetres closer. If the soap flies far even at 2 centimetres, use a thinner band.
 - **s4 (5 min)**  
   *Parent does:* 1. Slide the soap back until its front edge is at 4 centimetres on the ruler. 2. Let go. 3. Read where the front edge stops on the tape, and write the number. 4. Do this three times.  
-  *Parent says:* Now pull the soap back to 4 centimetres. That is twice as far as before. Let go, and read where it stops. Do it three times. Is the slide twice as far?  
+  *Parent says:* Now pull the soap back to 4 centimetres. That is twice as far as before. Let go, and read where it stops. Do it three times.  
   *Child mode:* Now pull the soap back 4 centimetres, twice as far. Let go. Read where it stops. Do it three times.
   - Ask: How does this slide compare with the 2 centimetre slide? (good: It is much longer.; It is more than twice as far.; It is about four times as far.)
   - Note: Do not explain yet. Let your child compare the numbers. Expect the slide to be more than twice the first one, often 3 to 10 times. Yours may differ.
@@ -302,9 +302,9 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   *Child mode:* Pull the soap back 6 centimetres. Stand to the side. Let go. Read where it stops. Do it three times.
   - Note: If the soap flies off the end of the tape, write 'more than' and the length of the tape. If the band feels very tight or thin, stop and use a thicker band. Do not pull back more than 6 centimetres.
 - **s6 (8 min)**  
-  *Parent does:* 1. In each row of the table, circle the middle of the three slides. 2. Draw a bar for each pull-back. 3. Divide the 4 centimetre slide by the 2 centimetre slide. 4. Ask your child to say what they thought, what they saw, and why.  
+  *Parent does:* 1. In each row of the table, circle the middle of the three slides. 2. Lay a piece of string as long as the middle slide for each pull-back, side by side. 3. Divide the 4 centimetre slide by the 2 centimetre slide. 4. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? How many times as far did the soap slide when we doubled the pull-back?  
-  *Child mode:* Draw a bar for each pull-back. Say what you thought, what you saw, and why.
+  *Child mode:* Lay a piece of string as long as each slide. Say what you thought, what you saw, and why.
   - Note: After your child has said what they saw, you can explain. The soap slides until friction uses up all the energy the band gave it. Friction is the grip between two things that touch. Here it is the grip between the soap and the floor. So the slide shows how much energy the band passed on. Bands differ a lot, so your numbers may be small or large. Twice the pull-back usually gives much more than twice the slide, often 3 to 10 times, but with a very small first slide the ratio is not reliable. If the 2 centimetre slide is under 2 centimetres, compare the 6 centimetre slide with the 4 centimetre slide instead. There are two reasons. The first is that the band pulls back harder the more it is stretched. The second is that the soap pulls the middle of the band into a V shape. Each extra centimetre of pull-back then stretches the band by a little more than the one before. If your numbers differ, say so. Real rubber is not a perfect spring.
   - Check: The 2 centimetre pull-back gave a slide of 12 centimetres. The 4 centimetre pull-back gave 48 centimetres. What does this show? → **Doubling the pull-back stored about four times the energy**
   - Think: Why did a pull-back twice as long make the soap slide more than twice as far?
@@ -318,7 +318,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **s1 (5 min)**  
   *Parent does:* Show your child the ball and the dough ball. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will drop this ball from 30, 60 and 90 centimetres. Will it come back up to where we dropped it from? If we drop it from twice as high, will it bounce twice as high? Why do you think so?  
-  *Child mode:* Drop a ball from 30, 60 and 90 centimetres. Will it bounce back up to the start? Why do you think so?
+  *Child mode:* Drop a ball from 30, 60 and 90 centimetres. Think about how high it will bounce.
   - Ask: When the ball comes back up, will it reach the place it was dropped from? Why? (good: Yes, because the ball springs back.; No, because some energy is lost.; A bit lower, because the floor takes some of the energy.)
   - Note: Do not correct the guess. Write the guess and reason at the top of the table. Most people think the ball comes back all the way, or they have not thought about it.
 - **s2 (6 min)**  
@@ -347,13 +347,13 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **s6 (3 min)**  
   *Parent does:* 1. Hold the dough ball with its top at the 90 centimetre flag. 2. Let go. 3. Write how high it bounces.  
   *Parent says:* Now drop the ball of dough from 90. How high does it bounce? What do you think the dough ball is missing?  
-  *Child mode:* Drop the dough ball from 90. How high does it bounce? What is it missing?
+  *Child mode:* Drop the dough ball from 90. Watch what it does.
   - Ask: What does the dough ball not have that the other ball has? (good: It does not spring back.; It does not store the squash.; It stays squashed.)
   - Note: The dough ball lands with a thud and stays squashed. Its energy goes into changing its shape for good and into a little heat. It stores almost none of the squash to give back.
 - **s7 (5 min)**  
-  *Parent does:* 1. Circle the middle of the three bounces for each height. 2. Divide each middle bounce by its drop height. 3. Draw a bar for each drop height. 4. Ask your child to say what they thought, what they saw, and why.  
+  *Parent does:* 1. Circle the middle of the three bounces for each height. 2. Divide each middle bounce by its drop height. 3. Draw a bar for each drop height, or lay a piece of string as long as each bounce. 4. Ask your child to say what they thought, what they saw, and why.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? What fraction of the drop height came back each time?  
-  *Child mode:* Draw a bar for each drop. Say what you thought, what you saw, and why.
+  *Child mode:* Show each bounce as a bar. Draw it, or lay a string. Say what you saw.
   - Note: After your child has said what they saw, you can explain. The energy of height turns into movement, then into a squash in the ball, then into movement and height again. Each time, a little turns into heat and sound in the ball and the floor. Many balls return about half to two thirds of the height, and the fraction stays about the same at every drop height. Doubling the drop height doubles the energy stored in height, so the bounce also doubles. If your numbers differ, say so.
   - Check: A ball dropped from 40 centimetres bounces to 25. Dropped from 80 centimetres, about how high will it bounce? → **About 50 centimetres**
   - Think: Why does a ball never bounce back as high as it was dropped from?
@@ -365,7 +365,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **s1 (3 min)**  
   *Parent does:* Show your child the band and the bottle. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will hang a bottle from a band and add water, 100 millilitres at a time. The band will stretch. Each time we add the same water, will it stretch the same amount again? Or more, or less? Why do you think so?  
-  *Child mode:* Hang a bottle from a band. Add water 100 millilitres at a time. Will the band stretch the same each time? Why?
+  *Child mode:* Hang a bottle from a band. Add water 100 millilitres at a time. Watch the band.
   - Ask: Will every 100 millilitres stretch the band by the same amount? Why? (good: Yes, because the weight is the same.; No, the band gets harder to stretch.; No, it stretches more each time.)
   - Note: Do not correct the guess. A guess with a reason is a good start. Water is a good weight, because 100 millilitres weighs about 100 grams. With 2 to 4 children, one pours, one marks, one measures and one writes; swap after each step. With one child, you pour and your child marks and measures.
 - **s2 (7 min)**  
@@ -382,8 +382,8 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   - Note: Rubber slowly creeps, so wait before you read. The numbers are only about right: a thin band might stretch about 1 centimetre for each 100 millilitres, and a thick one about half a centimetre. The steps are usually about equal. The first step is often a little different from the rest, and the last steps are often slightly smaller. Stop at 400 millilitres. If the band stretches less than 3 millimetres per step, it is too stiff to read, so use a thinner band or two thin bands together.
 - **s4 (5 min)**  
   *Parent does:* 1. Draw a graph with water on the bottom and stretch up the side. 2. Mark each pair of numbers and join the dots with a ruler. 3. Ask your child to say what they thought, what they saw, and why.  
-  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Where would the line be for 200 millilitres more?  
-  *Child mode:* Draw the graph. Say what you thought, what you saw, and why.
+  *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Where would the next dot go, for 500 millilitres?  
+  *Child mode:* Draw the graph, or ask your grown-up to help. Say what you thought, what you saw, and why.
   - Note: After your child has said what they saw, you can explain. A straight line means that the stretch grows in step with the weight, so the band pulls back twice as hard when it is stretched twice as far. Now think about storing energy. To stretch the band twice as far, you pull twice as hard at the end. You also pull through twice the distance. Twice as hard, through twice the distance, is 2 times 2, which is 4. That is why twice the pull-back stores about four times the energy.
   - Check: A band stretches 2 centimetres with 200 millilitres of water. About how much would it stretch with 400 millilitres? → **About 4 centimetres**
   - Think: If twice the weight gives about twice the stretch, how hard must you pull to hold a band stretched twice as far?
@@ -393,7 +393,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **s1 (3 min)**  
   *Parent does:* Show your child the stool and the ball. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will hold the ball in one place, and drop it onto the stool. Then we take the stool away and drop it from the same place. Will the bounces be the same height? Why do you think so?  
-  *Child mode:* Drop the ball onto a stool. Take the stool away. Drop the ball from the same spot. Will the bounce be the same? Why?
+  *Child mode:* Drop the ball onto a stool. Then take the stool away and drop the ball from the same spot.
   - Ask: The ball is held in exactly the same place. Will it bounce the same height both times? Why? (good: Yes, because it is the same ball.; No, it falls further the second time.; Higher the second time, because it drops from higher.)
   - Note: Do not correct the guess. The key point is that your child's hand and the ball do not move. Only the stool does.
 - **s2 (5 min)**  
@@ -415,7 +415,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
   - Think: Does a ball in your hand hold one fixed amount of energy?
 ### a3 · The Syringe Spring: air that pushes back (15 min)
 - **safety:** Use a syringe with no needle, and keep it out of your mouth. The syringe has small parts, so it is not for children under five. The clay plug can pop out when the air is squashed hard, so never push past 4 millilitres and do not point it at anyone's face. Never point a pump at anyone's face. Do the water step over a tray or sink.
-- **record:** Draw the syringe with the plunger pulled back and then pushed in. Draw arrows for the push of the air.
+- **record:** Tell your grown-up what the air did when you pushed the plunger in and let go. Or draw the syringe pulled back and pushed in, with arrows for the push of the air.
 - **s1 (2 min)**  
   *Parent does:* Show your child the syringe. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will block the end of this syringe with clay, and push the plunger in. What do you think will happen when we let go? Why do you think so?  
@@ -430,7 +430,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **s3 (4 min)**  
   *Parent does:* 1. Try to push the plunger in to 4 millilitres, but no further. 2. Notice how hard you have to push. 3. Let go, and watch.  
   *Parent says:* Try pushing the plunger in a bit further, to 4, but not past it. Is it harder or easier to push the last bit? What does that remind you of?  
-  *Child mode:* Push to 4. Not further. Is the last bit harder or easier? What does that remind you of?
+  *Child mode:* Push to 4. Not further. Feel how hard the last bit is.
   - Ask: Is the last part of the push harder or easier than the first part? What does that remind you of? (good: Harder.; It is like pulling the rubber band further.; It pushes back more the more it is squashed.)
   - Note: Most children notice that the last part is harder, as with the band. Squashed air, like a stretched band, pushes back harder the more it is squeezed, so squashing it more stores more energy.
   - Check: Why does the plunger spring back when you let go? → **The squashed air stored energy and pushes the plunger out**
@@ -480,8 +480,8 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **creative:** Put the small ball on top of the big ball and drop them together. The small ball can shoot much higher than 50 centimetres.; Try the smallest and lightest ball on top, and the biggest and heaviest underneath.; Try three balls in a stack, with the lightest ball at the top.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Ask your child for ideas before trying anything, and write down their guess and reason.  
-  *Parent says:* Can a ball bounce higher than the place it was dropped from? Think about it. What would a ball need to bounce that high? Why do you think so?  
-  *Child mode:* Can a ball bounce higher than where it was dropped? What would it need? Why do you think so?
+  *Parent says:* Here is a puzzle. Can a ball bounce higher than the place it was dropped from? What do you think it would need? Why do you think so?  
+  *Child mode:* Think of ideas. What might help a ball bounce higher than where it was dropped?
   - Ask: Can a ball bounce higher than where it was dropped from? How? (good: No, it loses energy.; Yes, if something gives it extra energy.; Maybe with another ball.)
   - Note: Most children and many adults think it is impossible. That is a fair idea. A ball dropped alone cannot do it. Write down their guess and reason.
 - **s2 (5 min)**  
@@ -503,7 +503,7 @@ On Tuesday, it was Karthik who asked her how a wheel could make light. She told 
 - **s5 (3 min)**  
   *Parent does:* Ask your child to explain how the small ball could go higher than the place it was dropped from.  
   *Parent says:* Where did the extra energy come from? The small ball went higher than a single ball can. Why do you think the big ball hardly bounced?  
-  *Child mode:* Where did the small ball's extra energy come from? Why did the big ball hardly bounce?
+  *Child mode:* Where did the small ball's extra energy come from?
   - Note: After your child has said what they think, you can explain. Both balls started with energy of height. When the big ball hit the floor and began to rise, it hit the small ball, which was still falling. Most of the big ball's energy passed on to the small ball, and the big ball almost stopped. So the small ball got energy from the big ball. No energy was made. It was passed from one ball to the other.
   - Think: Did the two balls make new energy, or share the energy they had?
 

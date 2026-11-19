@@ -561,7 +561,7 @@
    "title": "Toward, Away, Straight or Trapped?",
    "mins": 25,
    "players": "1 to 4 players. Alone, with a parent, or with friends.",
-   "context": "This is a card game about the rule of the bend. For each card, players decide what the light does: bend toward the normal, bend away from it, go straight on, or get trapped.",
+   "context": "This is a card game about the rule of the bend. For each card, players decide what the light does: bend toward the normal, bend away from it, go straight on, or get trapped. You will learn to tell which way light will turn before you see it.",
    "printables": [
     {
      "kind": "cards",
@@ -726,7 +726,7 @@
      "mins": 4,
      "do": "Take the practice card. Read the front out loud. Ask your child to guess the mat and give a reason. Then read the back. Put the card on its mat. Nobody wins a token.",
      "say": "Let's practise. A torch beam goes at a slant from air into water. Which mat? Why do you think so?",
-     "kid": "Practice card. A beam goes at a slant from air into water. Which mat?",
+     "kid": "Read the practice card. Choose a mat and say why.",
      "check": {
       "t": "mcq",
       "q": "A torch beam goes at a slant from air into a tank of water. What does the light do?",
@@ -768,7 +768,7 @@
      "kid": "A TEST IT card. First guess what will happen. Why do you think so? Then try it.",
      "ask": [
       {
-       "q": "The same top of the water was a mirror in one test and a window in another. What changed?",
+       "q": "Seen from underneath, the top of water can be a mirror or a window. What changes it?",
        "good": [
         "The angle you looked from.",
         "The slant of the light reaching the top of the water.",
@@ -784,7 +784,7 @@
      "mins": 2,
      "do": "Count the tokens to find the winner. Then look at the TRAPPED mat together and read its cards again.",
      "say": "Let's count the tokens. Then look at the TRAPPED mat. Where do we use trapped light in real life?",
-     "kid": "Count your tokens. Who won? Look at the TRAPPED mat. Where is trapped light used?",
+     "kid": "Count your tokens. Who won? Then read the TRAPPED cards again.",
      "think": "Trapped light can travel round a bend. What could you send along it?",
      "context": "In this step, you finish the game and think about where trapped light is used."
     }
@@ -850,7 +850,7 @@
     }
    ],
    "safety": "Never shine the torch into anyone's eyes. A grown-up cuts the slit, and uses scissors or a craft knife on a firm table. Keep the phone away from the water, and wipe up spills at once, because a wet floor is slippery. Do not drink the water, especially if you added milk. If anyone at home is allergic to milk, leave it out.",
-   "record": "Fill in the table. Then draw the bend diagram for your 60 degree try: the surface line, the normal, the beam in the air in one colour and the beam in the water in another, with both angles written on it. Last, write what you think, what you saw, and why.",
+   "record": "Fill in the table. Then show the bend for your 60 degree try. Draw the bend diagram, or point to the lines and tell your grown-up what the beam did. The diagram has the surface line, the normal, the beam in the air in one colour and the beam in the water in another, with both angles written on it. Last, write what you think, what you saw, and why.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: angle of the beam in the water for four angles in the air",
@@ -880,7 +880,7 @@
      }
     ]
    },
-   "context": "In this experiment, you shine a thin beam of light into water at four different slants and measure how much the water turns it. You use a protractor, a plastic box of water and a torch with a slit.",
+   "context": "In this experiment, you shine a thin beam of light into water at four different slants and measure how much the water turns it. You will find out which way the water turns the beam, and whether a bigger slant gives a bigger turn. You use a protractor, a plastic box of water and a torch with a slit.",
    "setup": [
     {
      "art": "A big sheet of white paper with a straight line near the middle, an upright dotted line through its centre marked O, and three lines fanning out from O marked 20, 40 and 60 degrees, with a protractor on one of them.",
@@ -959,7 +959,7 @@
      "mins": 5,
      "do": "Put the box on the paper. Its long front wall goes on the surface line. Its left end goes about 4 centimetres left of O. Pour in the water, 3 centimetres deep. Add a few drops of milk, if you use it. Switch off the room light. Lay the torch at the end of the normal line, pointing at O. Look at where the bright line leaves the far wall.",
      "say": "First the straight-on beam. The torch is on the normal line. Watch the line that comes out of the far wall. Does it carry on straight, or does it bend?",
-     "kid": "Put the torch on the normal line. Switch off the light. Does the beam bend?",
+     "kid": "Put the torch on the normal line. Switch off the light. Watch the line that leaves the far wall.",
      "ask": [
       {
        "q": "Did the beam bend when it went in straight on? What does that tell you?",
@@ -1019,7 +1019,7 @@
      "mins": 4,
      "do": "Ask your child to say what they think, what they saw and why. Compare with the guess from the start. Write the answer under the diagram.",
      "say": "Tell me three things. What did you think at the start? What did you see? Why do you think it happened?",
-     "kid": "Say what you thought, what you saw, and why it happened.",
+     "kid": "Look at your table and your first guess. Was your guess right?",
      "ask": [
       {
        "q": "What do you think now, what did you see, and why did it happen?",
@@ -1079,8 +1079,8 @@
     }
    ],
    "safety": "Never look at the Sun through the magnifying glass or the spectacle lenses, and never leave them where sunlight shines through them onto paper, cloth or skin, because they can start a fire or burn. Borrowed spectacles belong to someone, so hold them by the frame and give them back unscratched.",
-   "record": "Fill in the table. Then draw your model eye from the side: the magnifying glass, the card and the window, with the light from the window bending in the lens to a point on the card. Draw it once for the sharp picture and once for the blurry picture. Last, write what you think, what you saw, and why.",
-   "context": "In this experiment, you use a magnifying glass and a white card as a model of an eye. You move the card to make the model short-sighted or long-sighted, and then you use spectacle lenses to fix it.",
+   "record": "Fill in the table. Then draw your model eye from the side: the magnifying glass, the card and the window, with the light from the window bending in the lens to a point on the card. Draw it once for the sharp picture and once for the blurry picture, or take a photo of each setup. Last, write what you think, what you saw, and why.",
+   "context": "In this experiment, you use a magnifying glass and a white card as a model of an eye. You will find out why some people need spectacles, and how a lens makes a blurry picture sharp again. You move the card to make the model short-sighted or long-sighted, and then you use spectacle lenses to fix it.",
    "setup": [
     {
      "art": "A magnifying glass standing upright in clay on a table, a white card behind it on a stack of books, and a bright window far away, with a ruler along the table.",
@@ -1105,7 +1105,7 @@
      "mins": 5,
      "do": "Show your child the magnifying glass, the card and the two pairs of spectacles. Check which pair makes print look smaller. Ask for a guess and a reason. Write it down.",
      "say": "A magnifying glass can make a small picture of a window on a card. That is a little like your eye. If we move the card back, what will happen to the picture? Can a spectacle lens fix it? Why do you think so?",
-     "kid": "A lens can make a picture of a window. What if the card is too far back? Why?",
+     "kid": "Look at the lens and the card. If you move the card back, will the picture stay sharp?",
      "ask": [
       {
        "q": "Why do you think moving the card might change the picture?",
@@ -1143,7 +1143,7 @@
     {
      "id": "s3",
      "mins": 9,
-     "do": "Move the card 3 centimetres further back. The picture goes blurry. This is your short-sighted eye. Now hold the hollow spectacle lens right in front of the magnifying glass, touching it. Slide the card to find the new sharp place. Measure the distance. Write down what happened.",
+     "do": "Move the card 3 centimetres further back. The picture goes blurry. This is your short-sighted eye. Now hold the hollow spectacle lens (the one that is thinner in the middle) right in front of the magnifying glass, touching it. Slide the card to find the new sharp place. Measure the distance. Write down what happened.",
      "say": "Move the card back by a few centimetres. The picture goes blurry. This is like an eyeball that is a little too long. Now put the short-sighted spectacle lens in front. Slide the card again. What do you find?",
      "kid": "Move the card back 3 centimetres. It is blurry. Hold the hollow lens in front. Slide the card.",
      "ask": [
@@ -1193,18 +1193,18 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Fill in the table with your three sharp distances. Draw the model eye for the sharp picture and the blurry picture. Compare your results with the guess from the start.",
+     "do": "Fill in the table with your three sharp distances. Say which distance is the longest and which is the shortest. Compare your results with the guess from the start.",
      "say": "Look at your table. For the plain model eye, where was the sharp place? With the hollow lens, did it move back or forward? With the reading lens?",
-     "kid": "Fill in the table. Draw the model eye. Was your guess right?",
+     "kid": "Fill in the table with your three distances. Which one is the longest?",
      "parent": "A good table has three distances in centimetres. The hollow lens moves the sharp place back. The bulging lens moves it closer.",
      "context": "In this step, you write down your results and draw your model eye."
     },
     {
      "id": "s6",
      "mins": 5,
-     "do": "Ask your child to say what they think, what they saw and why. Write the answer under the drawing.",
+     "do": "Ask your child to say what they think, what they saw and why. Write the answer under the table.",
      "say": "Tell me three things. What did you think at the start? What did you see? Why do you think it happened?",
-     "kid": "Say what you thought, what you saw, and why it happened.",
+     "kid": "Look at your table and your first guess. Was your guess right?",
      "ask": [
       {
        "q": "What do you think now, what did you see, and why did it happen?",
@@ -1252,9 +1252,9 @@
      "what": "Guess. Look up at the water from below at a slant and from straight below. Find where the window turns into a mirror. Explain it."
     }
    ],
-   "record": "A drawing of the box from the side, with the eye in two places. Mark the place where the underside of the water looked clear, and the place where it looked silver. Write one sentence on what changed.",
+   "record": "A drawing of the box from the side, or a photo of two pencils showing the sight lines, with the eye in two places. Mark the place where the underside of the water looked clear, and the place where it looked silver. Write one sentence on what changed.",
    "safety": "Keep the box in a tray and never hold it above anyone's head. Have a towel ready. A wet floor is slippery, so wipe up spills at once.",
-   "context": "In this activity, you sit on the floor and look up at the underside of the water in a clear box on a table. You find the place where the water's top turns from a window into a mirror.",
+   "context": "In this activity, you sit on the floor and look up at the underside of the water in a clear box on a table. You will find out why, from underneath, the top of water can be a window or a mirror. You find the place where the water's top turns from a window into a mirror.",
    "setup": [
     {
      "art": "A child sitting on the floor beside a table, looking up through the side of a clear box of water in a tray above eye level, at a steep angle and seeing the ceiling light.",
@@ -1324,9 +1324,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Draw the box from the side, with the eye in two places. For each place, draw the line of sight to the underside of the water. Draw one going through, and one bouncing back. Write one sentence on what changed.",
-     "say": "Draw the box from the side. Draw two sight lines to the top of the water. One goes through, and one bounces. Write one sentence about what changed.",
-     "kid": "Draw the box. Draw two sight lines. One goes through. One bounces.",
+     "do": "Draw the box from the side, with the eye in two places. Or lay two pencils on the box to show the two lines of sight. One line goes through the water, and one bounces back. Say one sentence on what changed.",
+     "say": "Show me two sight lines to the top of the water, by drawing them or with two pencils. One goes through, and one bounces. Tell me one sentence about what changed.",
+     "kid": "Show two sight lines, with a drawing or two pencils. One goes through. One bounces.",
      "ask": [
       {
        "q": "Why is the top of the water a window from one place and a mirror from another?",
@@ -1371,9 +1371,9 @@
      "what": "Look along a hot road for a shiny patch. Then, with a grown-up, watch stripes wobble above a hot plate. Explain what you saw."
     }
    ],
-   "record": "A drawing of the shiny patch on the road, with the sky in it. A drawing of the wobbling stripes. A sentence on why light bends in hot air.",
+   "record": "Your photo of the shiny patch on the road, or a drawing of it with the sky in it. A sentence on what the stripes did, or a drawing of them. A sentence on why light bends in hot air.",
    "safety": "A grown-up heats the plate and the plate stays where it is, on the stove with the flame or ring switched off. It stays hot for many minutes and can burn badly. Do not touch it, and keep children an arm's length away. Do not use any plastic near it. Stay at the window or terrace for the road part, never on the road.",
-   "context": "In this activity, you look for the shiny patch that appears on a hot road, and you look through the air above a hot plate to see light bending in hot air.",
+   "context": "In this activity, you look for the shiny patch that appears on a hot road, and you look through the air above a hot plate to see light bending in hot air. You will find out why a hot, dry road can look wet.",
    "setup": [
     {
      "art": "A child at a window on a hot afternoon, looking along a straight road where a shiny wet-looking patch shines in the distance and a lorry is mirrored upside down in it.",
@@ -1433,9 +1433,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw the stripes as you saw them above the hot plate. Draw the road mirage if you saw one. Write one sentence on why the stripes wobbled, and one on why the road looked wet.",
-     "say": "Draw what you saw. The wobbling stripes, and the shiny road, if you saw it. Then write a sentence on why light bends in hot air.",
-     "kid": "Draw the wobbling stripes. Write why they wobbled.",
+     "do": "Tell your grown-up what the stripes did above the hot plate, and what the road looked like if you saw it. You can draw the stripes too. Then say one sentence on why the stripes wobbled, and one on why the road looked wet.",
+     "say": "Tell me what you saw. The wobbling stripes, and the shiny road, if you saw it. Then tell me why light bends in hot air.",
+     "kid": "Say what the stripes did. Say why they wobbled.",
      "ask": [
       {
        "q": "Why does the road look wet when it is dry?",
@@ -1484,9 +1484,9 @@
      "what": "Guess. Make a hole in a bottle. Fill it with water, shine a torch in from the far side, and watch the jet glow. Explain it."
     }
    ],
-   "record": "A drawing of the bottle, the torch and the curved jet, with the light shown following the jet. One sentence on why the light stays inside the water.",
+   "record": "A drawing of the bottle, the torch and the curved jet, with the light shown following the jet, or a photo of the glowing jet. One sentence on why the light stays inside the water.",
    "safety": "A grown-up makes the hole (a sharp point), holding the bottle firmly against a table and pushing the nail slowly away from their hand; children stay back until it is done. Do the pouring over the sink or the tray, and keep the phone or torch away from the water. Wipe up spills, because wet floors are slippery.",
-   "context": "In this activity, you make a jet of water pour from a bottle in a dark room and shine a torch along it. You find that the light follows the jet round its curve.",
+   "context": "In this activity, you make a jet of water pour from a bottle in a dark room and shine a torch along it. You will find out how light can be trapped inside water and made to turn a corner. You find that the light follows the jet round its curve.",
    "setup": [
     {
      "art": "A grown-up pushing a nail through the side of a plastic bottle, near the bottom, while a child holds a towel.",
@@ -1507,7 +1507,7 @@
      "mins": 4,
      "do": "Show your child the bottle and the torch. Ask what the light will do when the torch shines into the water and a jet of water pours out of the bottle. Write down the guess and the reason.",
      "say": "We will shine a torch through a bottle of water, toward a hole, and let the water pour out in a jet. Will the light go straight on, past the jet, or follow the water? Why do you think so?",
-     "kid": "Shine a torch at a water jet. Will the light follow the water? Why?",
+     "kid": "Look at the bottle and the torch. Water will pour out of a hole. What will the light do?",
      "ask": [
       {
        "q": "Why do you think the light might go straight, or follow the curve?",
@@ -1565,9 +1565,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Draw the bottle, the torch and the curved jet. Draw the light inside the jet as a zigzag line that follows the curve. Write one sentence on why the light does not escape.",
-     "say": "Draw the bottle and the jet. Draw the light as a zigzag inside the jet. Then write why it does not escape.",
-     "kid": "Draw the jet. Draw a zigzag of light inside it. Write why it stays in.",
+     "do": "Draw the bottle, the torch and the curved jet. Draw the light inside the jet as a zigzag line that follows the curve. Or trace the curve with your finger and tell your grown-up where the light goes. Say one sentence on why the light does not escape.",
+     "say": "Draw the bottle and the jet, with the light as a zigzag inside the jet. Or trace it with your finger. Then say why the light does not escape.",
+     "kid": "Draw the jet and a zigzag of light inside it. Or trace it with your finger. Say why the light stays in.",
      "ask": [
       {
        "q": "Where does the light finally come out?",
@@ -1621,9 +1621,9 @@
      "what": "Find the focal length of each lens. Build the tube. Slide it to focus on a far signboard. Work out how many times it magnifies."
     }
    ],
-   "record": "A drawing of the telescope with the two lenses labelled. The two focal lengths in centimetres, the length of the tube, and how many times you think it magnifies. A sentence on why things look upside down.",
+   "record": "A drawing of the telescope with the two lenses labelled, or a photo of it with the lenses pointed out. The two focal lengths in centimetres, the length of the tube, and how many times you think it magnifies. A sentence on why things look upside down.",
    "safety": "Never look at the Sun through the telescope or the lenses. It can blind. Keep lenses out of direct sunlight, because they can start fires. A grown-up helps with the scissors. Borrowed spectacles belong to someone: tape only the card ring, not the lens.",
-   "context": "In this project, you build a telescope from two lenses, and a tube made from card. You find how much it magnifies, and why the picture is upside down.",
+   "context": "In this project, you build a telescope from two lenses, and a tube made from card. You will find out how a telescope makes faraway things look bigger, and why they look upside down. You find how much it magnifies, and why the picture is upside down.",
    "setup": [
     {
      "art": "A pair of reading spectacles held in front of a bright window, throwing a small upside-down picture of the window onto a white card, with a ruler measuring the distance.",
@@ -1707,7 +1707,7 @@
      "mins": 15,
      "do": "Take the telescope to a window or a terrace. Look through the strong lens at a signboard or a tree 50 metres away or more. Slide the thin tube in and out until the picture is sharp. Look at how big and which way up the picture is. Never point it at the Sun.",
      "say": "Look through the strong lens at a far signboard. Slide the tube in and out. When the picture is sharp, tell me what you see. Which way up is it?",
-     "kid": "Look through the small lens at a far sign. Slide the tube. What do you see?",
+     "kid": "Look through the strong lens at a far sign. Slide the tube. What do you see?",
      "adult": true,
      "ask": [
       {
@@ -1727,7 +1727,7 @@
      "mins": 5,
      "do": "Work out how much your telescope magnifies, by dividing the weak lens's focal length by the strong lens's focal length. Check by looking at a row of bricks or tiles with one eye through the telescope and the other eye bare. Count how many bricks seen with the bare eye fit in one brick seen through the telescope.",
      "say": "Divide the weak lens's focal length by the strong lens's focal length. That is how many times it magnifies. Then check with a wall of bricks.",
-     "kid": "Divide the long focal length by the short one. That is the magnification.",
+     "kid": "Divide the long focal length by the short one. That is the magnification, how many times bigger things look.",
      "ask": [
       {
        "q": "Does the number you counted match the number you worked out?",
@@ -1773,8 +1773,8 @@
     "Use two bottles in two holes, one over each end of the box.",
     "Cover the part of the bottle inside the box with a strip of frosted tape, which makes a softer, wider glow."
    ],
-   "your_turn": "Sketch your design. Build it and test it in the sun. How well can you read the print in the far corner? Change one thing, such as adding milk, and test again. Which design lit the box best? Why do you think it did? Does it light the whole box evenly, or just one bright spot?",
-   "context": "This is a design challenge about using bent light. Real people in homes without windows have used water-filled bottles through the roof to bring daylight in, and you make a model.",
+   "your_turn": "Sketch your design, or show it with the parts. Build it and test it in the sun. How well can you read the print in the far corner? Change one thing, such as adding milk, and test again. Which design lit the box best? Why do you think it did? Does it light the whole box evenly, or just one bright spot?",
+   "context": "This is a design challenge about using bent light. Real people in homes without windows have used water-filled bottles through the roof to bring daylight in, and you make a model. You will find out whether a bottle of water can light up a dark box.",
    "setup": [
     {
      "art": "A child sketching three designs for a bottle in a shoebox lid: a plain bottle, a bottle wrapped in black paper, and two bottles.",
@@ -1793,9 +1793,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two or three different ways to put the bottle into the lid. Ask what the water will do to the sunlight.",
-     "say": "A room with no window stays dark. You have a bottle of water and some sunlight. How could the bottle bring light inside? Draw some ideas first.",
-     "kid": "A dark box. A bottle of water. Sunlight. Draw ideas for bringing light in.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to show two or three different ways to put the bottle into the lid, using the bottle, the lid and their hands. Ask what the water will do to the sunlight.",
+     "say": "A room with no window stays dark. You have a bottle of water and some sunlight. How could the bottle bring light inside? Show me some ideas first.",
+     "kid": "A dark box. A bottle of water. Sunlight. Show ideas for bringing light in, using the bottle and the lid.",
      "ask": [
       {
        "q": "What do you think the water will do to the sunlight?",
@@ -1822,7 +1822,7 @@
      "id": "s3",
      "mins": 10,
      "do": "Take the box to a sunny window, balcony or terrace, with the bottle on top. Water in a bottle can focus sunlight like a lens. Keep paper, cloth and skin away from the bright spot. Never look at the Sun through it. Look through the viewing hole, and try to read the print in the far corner. Note how bright the box looks inside. Compare with a plain round hole of the same size in a second lid, if you have time.",
-     "say": "Put the box in the Sun. Look in through the little hole. Can you read the print in the far corner? How bright is the inside? Is the light a spot or all over?",
+     "say": "Put the box in the Sun. Look in through the little hole. Can you read the print in the far corner? How bright is the inside?",
      "kid": "Put the box in the Sun. Look in. Can you read the print?",
      "ask": [
       {

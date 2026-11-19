@@ -419,7 +419,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game. Each card describes a time when heat moved. You decide if it was conduction, convection, radiation, or more than one, and then say why.",
+   "context": "This is a card game. Each card describes a time when heat moved. You decide if it was conduction, convection, radiation, or more than one, and then say why. You will get better at spotting how heat moves in everyday things.",
    "setup": [
     {
      "art": "Twenty-four cards in a shuffled pile in the middle of a table, and four tokens in front of each player labelled conduction, convection, radiation and more than one.",
@@ -588,7 +588,7 @@
      "kid": "The reader reads a card. Pick a token. Turn it over. Check the back.",
      "ask": [
       {
-       "q": "What clue on the card tells you it is conduction?",
+       "q": "What clue on the card tells you which kind it is?",
        "good": [
         "Two things are touching.",
         "The heat goes through a solid.",
@@ -681,8 +681,8 @@
     }
    ],
    "safety": "A grown-up pours all the hot water. The hot drop should be about 50 to 60 degrees: too hot to sip, but you can still hold the outside of the katori. Never suck on a straw that has hot water in it. You fill the straw by dipping it in and pressing a finger on the top end, so no sucking is needed. Wipe spills at once, so nobody slips. Food colour and ink stain clothes, so wear an old shirt.",
-   "record": "Fill in the table for each drop. Then write three sentences: what you thought would happen (claim), what you saw (evidence), and why you think it happened (reasoning). Draw the glass with an arrow for each drop to show where it went.",
-   "context": "In this experiment, you let go of four drops of red water at different temperatures in one glass of still water, and watch which way each one travels. This shows how heat moves in water.",
+   "record": "Fill in the table for each drop. Then write three sentences: what you thought would happen (claim), what you saw (evidence), and why you think it happened (reasoning). Draw the glass with an arrow for each drop to show where it went, or tell your grown-up where each one went.",
+   "context": "In this experiment, you let go of four drops of red water at different temperatures in one glass of still water, and watch which way each one travels. You will find out why a hot drop rises and a cold drop sinks, and what that shows about how heat moves in water.",
    "setup": [
     {
      "art": "Four small katoris in a row on a table, labelled hot, warm, room and ice-cold, each with red water and a straw standing in it.",
@@ -711,7 +711,7 @@
      "mins": 4,
      "do": "Show your child the materials. Say that four drops will be let go in one glass. Ask for a guess and a reason for each drop. Write them down.",
      "say": "We will let four drops of red water go in the same glass. One is hot, one is warm, one is room-temperature, and one is ice-cold. What will each drop do? Rise, sink or stay? Why do you think so?",
-     "kid": "Four red drops go in one glass. One is hot, one is warm, one is room-temperature and one is ice-cold. What will each one do? Why?",
+     "kid": "Guess what each drop will do. Why?",
      "ask": [
       {
        "q": "Which drop do you think will move fastest? Why?",
@@ -730,7 +730,7 @@
      "mins": 7,
      "do": "A grown-up makes the four katoris. Put 50 millilitres of water and 3 drops of red food colour or ink in each. Make one very hot, one warm like a bath, one room-temperature, and one ice-cold with ice cubes. Take the ice out before you test.",
      "say": "The grown-up makes four katoris of red water. One is hot, like tea you wait to sip. One is warm, like bath water. One is room-temperature. One is cold from the ice. Take the ice cubes out before you use it.",
-     "kid": "A grown-up makes four katoris of red water. One is hot, one is warm, one is room-temperature and one is ice-cold.",
+     "kid": "Put 3 drops of red colour in each katori.",
      "adult": true,
      "parent": "Mix half kettle water and half cold tap water for the hot katori. It should be too hot to sip but safe to hold the outside of the katori. If you have a thermometer, about 55 degrees is right, but you do not need one. Use the same number of colour drops in each. If the red is too strong, use 2 drops. Too much colour can make the drop heavier than the water for a different reason. Keep the ice-cold katori in the fridge or with ice cubes for 10 minutes before you use it, and take the ice out just before you test, because floating ice cubes will make swirls. If you have no ice, a katori that has sat in the fridge overnight also works. Do the hot katori last, and keep it covered with a plate or saucer so it does not cool while you wait.",
      "check": {
@@ -751,7 +751,7 @@
      "mins": 5,
      "do": "Fill the glass with room-temperature tap water, to about 8 centimetres deep. Stand it in front of the white paper. Wait two minutes. Watch the water until nothing moves.",
      "say": "Fill the glass with tap water. Wait two minutes. The water is still when you cannot see anything moving. Hold the white paper behind the glass so the red will show up well.",
-     "kid": "Fill the glass. Wait two minutes. Wait until the water is still.",
+     "kid": "Fill the glass and wait until the water is perfectly still.",
      "ask": [
       {
        "q": "Why do we wait for the water to be still?",
@@ -798,9 +798,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Draw the glass with four arrows to show where each drop went. Then ask your child to say three things: what they thought (claim), what they saw (evidence), and why it happened (reasoning).",
+     "do": "Ask your child to point to where each drop went in the glass. Then ask them to say three things: what they thought (claim), what they saw (evidence), and why it happened (reasoning).",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think the hot drop and the cold drop went opposite ways?",
-     "kid": "Draw four arrows in the glass. Say what you thought, what you saw, and why.",
+     "kid": "Point to where each drop went. Say what you thought, what you saw, and why.",
      "parent": "A strong answer says the hot water was lighter and rose, and the cold water was heavier and sank. After they have said what they saw, you can add: hot water expands, so it is less dense. The cooler water around it is heavier, so it sinks underneath the hot water and pushes it up. Moving water that carries heat is called convection. If your results were different, for example the room-temperature drop sank, say that too. It may be because of the colour. Test again with less colour to check.",
      "think": "If the hot drop went up, where did the cooler water come from to take its place?",
      "context": "This is the last step of Colour Currents. You say what you found out."
@@ -863,8 +863,8 @@
     }
    ],
    "safety": "Do not look at sunlight reflected off the foil. It can hurt your eyes. Keep the tumblers where they cannot fall or break, and do not leave small children alone on a terrace edge. Paper and glass left in the Sun can feel hot, so touch them first with the back of one finger. Glass thermometers can break: a grown-up holds them.",
-   "record": "Fill in the table. Then draw a bar for the rise in each tumbler. Write three sentences: what you thought (claim), what you saw (evidence), and why it happened (reasoning).",
-   "context": "In this experiment, you wrap three tumblers of water in black paper, white paper and shiny foil, and find out which one the Sun warms most. This shows how radiation is taken in or sent back.",
+   "record": "Fill in the table. Then show the rise in each tumbler with a stack of coins, or draw a bar. Write three sentences: what you thought (claim), what you saw (evidence), and why it happened (reasoning).",
+   "context": "In this experiment, you wrap three tumblers of water in black paper, white paper and shiny foil, and find out which one the Sun warms most. You will find out which wrapping keeps a drink coolest on a hot day. This shows how radiation is taken in or sent back.",
    "setup": [
     {
      "art": "Three tumblers in a row on a table, one wrapped in black paper, one in white paper and one in shiny foil, each held by a rubber band, with a fourth plain tumbler on the end.",
@@ -893,7 +893,7 @@
      "mins": 4,
      "do": "Show your child the tumblers, the paper and the foil. Ask for a guess and a reason. Write the order they choose.",
      "say": "The Sun will shine on three tumblers. One is wrapped in black, one in white, and one in shiny foil. Which will get warmest? Which will stay coolest? Why do you think so?",
-     "kid": "Three tumblers sit in the Sun. One is wrapped in black paper, one in white paper and one in foil. Which will warm the most? Why?",
+     "kid": "Guess which wrapping will warm the water most. Why?",
      "ask": [
       {
        "q": "Which do you think will warm the least, and why?",
@@ -911,8 +911,8 @@
      "id": "s2",
      "mins": 8,
      "do": "Wrap the black paper round the first tumbler and hold it with a rubber band. Wrap the white paper round the second. Wrap the foil round the third, with the shiny side out. Leave the fourth plain. Make a lid for each from the same paper or foil, with a small slit for the thermometer. Fill each tumbler with the same amount of water, about 100 millilitres. Put on the lids.",
-     "say": "Wrap each tumbler all the way round, with the shiny side of the foil facing out. Put the same amount of room-temperature water in each. Put a lid on each, made of the same paper or foil as its wrapper. Now each tumbler is covered all over by one kind of wrapping.",
-     "kid": "Wrap three tumblers. Fill them all the same. Put on lids of the same colour.",
+     "say": "Wrap three tumblers all the way round, with the shiny side of the foil facing out. Leave the fourth plain. Put the same amount of room-temperature water in each. Put a lid on each, made of the same paper or foil as its wrapper.",
+     "kid": "Wrap each tumbler. Pour the same amount of water in each. Put on a lid made of the same wrapping.",
      "parent": "The Sun is high at midday in India, so it hits the top of a tumbler more than the sides. That is why each lid is the same colour as its wrapper. Fill each tumbler to the same mark with water from the same jug, about 100 millilitres, because a small amount of water warms by a bigger, easier-to-read number of degrees. Wrap two layers of white paper, or the light goes through it. If the foil is crumpled, smooth it out so it stays shiny. With 2 to 4 children, each child wraps and looks after one tumbler. With one child, the child wraps all of them.",
      "check": {
       "t": "mcq",
@@ -973,9 +973,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Work out the rise for each tumbler by taking away its starting temperature from its last temperature. Draw a bar for each. Then ask your child to say what they thought, what they saw, and why.",
-     "say": "Take away the starting number from the last number. That is the rise. Draw a bar for each tumbler. Which rose most? Tell me what you thought, what you saw, and why you think it happened.",
-     "kid": "Work out the rise for each one. Draw the bars. Say why.",
+     "do": "Work out the rise for each tumbler by taking away its starting temperature from its last temperature. Show each rise as a stack of coins, one coin for each degree. Then ask your child to say what they thought, what they saw, and why.",
+     "say": "Take away the starting number from the last number. That is the rise. Make a stack of coins for each tumbler, one coin for each degree of rise. Which stack is tallest? Tell me what you thought, what you saw, and why you think it happened.",
+     "kid": "Work out the rise for each one. Build the stacks. Say why.",
      "parent": "A strong answer says that dark, dull paper takes in more of the Sun's radiation and turns it into heat, while white paper and foil send much of it back. After they have said what they saw, explain: the Sun's heat travels as radiation, and what happens next depends on the surface it lands on. If the shaded tumbler warmed too, subtract its rise from the others to see what the Sun added.",
      "think": "If the Sun's warmth reached the black paper through empty space and clear air, what did the paper do with it?",
      "context": "This is the last step of Dark, White and Shiny. You say what you found out."
@@ -1024,8 +1024,8 @@
      "what": "Guess, feel the warmth in two places, block it with a card, and draw what you found."
     }
    ],
-   "record": "A drawing of the diya with two palms near it, one at the side and one above, and for each one a word: none, a little, or a lot. Write the seconds it took for the side palm to feel warm, with and without the card. Then write which warmth the card blocked.",
-   "context": "In this activity, you hold a palm in different places near a flame, and block the warmth with a card. You find that the flame sends warmth in two different ways.",
+   "record": "For the side palm and the palm above, write one word: none, a little, or a lot. Write the seconds it took for the side palm to feel warm, with and without the card. Then write which warmth the card blocked.",
+   "context": "In this activity, you hold a palm in different places near a flame, and block the warmth with a card. You will find out why the warmth feels different beside the flame and above it, and what a card can stop.",
    "setup": [
     {
      "art": "A lit diya on a steel plate on a table, with a ruler laid beside it marking 10 centimetres to the side and 30 centimetres above.",
@@ -1108,9 +1108,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to draw the diya and the two palms. Write one word near each: radiation or convection, with an arrow to show where the warmth travels. Ask them to explain.",
-     "say": "Draw the diya and your two palms. Draw an arrow to show how the warmth got to each palm. One kind went in straight lines. The other was carried upwards by hot air. Which was which?",
-     "kid": "Draw the flame and both hands. Draw arrows. Which kind of warmth was which?",
+     "do": "Ask your child to point to each palm and say which kind of warmth reached it: radiation or convection. Ask them to explain.",
+     "say": "How did the warmth get to your side palm? And to the palm above the flame? One kind went in straight lines. The other was carried upwards by hot air. Which was which?",
+     "kid": "Say which kind of warmth reached each palm.",
      "parent": "Now you can say the words. Warmth in straight lines that a card can block is radiation. Warm air rising and carrying heat is convection. A flame does both at once, and also conducts heat slowly into the plate.",
      "think": "Why can you feel strong warmth above the flame, but only gentle warmth beside it?",
      "context": "This is the last step of Hands Around a Diya. You draw what the heat did."
@@ -1157,8 +1157,8 @@
      "what": "Cut a spiral, hang it above a flame, and find out what makes it turn."
     }
    ],
-   "record": "A drawing of the spiral above the flame, with arrows showing where the air moves. Write how many turns the spiral made in 20 seconds at each height you tried.",
-   "context": "In this activity, you make a paper spiral and hang it above a small flame. You find out what moves it, and where the air comes from.",
+   "record": "Draw the spiral above the flame with arrows for the air, or write one sentence about where the air moves. Write how many turns the spiral made in 20 seconds at each height you tried.",
+   "context": "In this activity, you make a paper spiral and hang it above a small flame. You will find out what turns the spiral when nobody blows it, and where the air comes from.",
    "setup": [
     {
      "art": "A circle drawn on thin paper with a spiral line drawn inside it, from the edge to the centre.",
@@ -1201,7 +1201,7 @@
      "adult": true,
      "ask": [
       {
-       "q": "What is turning the spiral? Nobody is blowing it.",
+       "q": "Does the spiral turn faster when it is closer to the flame? Why?",
        "good": [
         "The air above the flame.",
         "Hot air going up.",
@@ -1234,9 +1234,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to draw the diya and the spiral, with arrows showing where the air goes. Ask where the air comes from at the bottom.",
-     "say": "Draw the flame and the spiral. Draw arrows for the air. The air goes up over the flame. Where does the air come from at the bottom? Draw that too.",
-     "kid": "Draw the flame, the spiral and the air. Where does new air come from?",
+     "do": "Ask your child to trace with a finger where the air goes around the flame and the spiral. Ask where the air comes from at the bottom.",
+     "say": "Show me with your finger where the air goes. The air goes up over the flame. Where does the air come from at the bottom?",
+     "kid": "Trace the air with your finger. Where does new air come from?",
      "parent": "A good drawing has air rising over the flame and cooler air flowing in from the sides along the table to take its place. That is a convection current.",
      "think": "If you put the flame in a tall jar with a lid on, what would happen to the spiral?",
      "context": "This is the last step of the Paper Spiral. You draw the loop of moving air."
@@ -1273,8 +1273,8 @@
      "what": "Test a steel spoon and a wooden spoon in hot water, then draw a pot on a stove and show three ways the heat travels."
     }
    ],
-   "record": "A drawing of a pot of dal on a stove, with a ladle in it and a child nearby, and three coloured arrows for conduction, convection and radiation.",
-   "context": "In this activity, you draw a pot on a stove and show all three ways heat travels in one picture. Drawing the parts you cannot see helps you understand them.",
+   "record": "A drawing of a pot of dal on a stove, with a ladle in it and a child nearby, and three coloured arrows for conduction, convection and radiation (or a photo of your set-up).",
+   "context": "In this activity, you draw a pot on a stove and show all three ways heat travels in one picture. You will find out how one hot pot sends heat to the ladle, the dal and the child at once.",
    "setup": [
     {
      "art": "A large sheet of paper with a drawing of a pot of dal on a gas flame, a steel ladle in the pot, and a child standing close on the right.",
@@ -1286,7 +1286,7 @@
     },
     {
      "art": "Orange wavy lines going from the flame and the hot pot sideways to the child's face.",
-     "caption": "3. Draw orange wavy lines from the pot to the child's face. Name each arrow."
+     "caption": "3. Point from the pot to the child's face. Put a name by each arrow."
     }
    ],
    "flow": [
@@ -1295,7 +1295,7 @@
      "mins": 10,
      "do": "First a quick test. A grown-up pours hot (not boiling) water into the steel glass. Stand the steel spoon and the wooden spoon in it, leaning on the rim. Ask your child to guess which handle will feel warm first. After 2 minutes, touch both handles with a fingertip and say which is warmer. Then ask your child to draw a stove with a pot of dal on it. Add a steel ladle in the dal. Add a child standing close. Do not add the arrows yet.",
      "say": "Draw a gas stove with a pot of dal on it. Put a steel ladle in the pot. Draw a child standing near, on the right. We will add the heat arrows next.",
-     "kid": "Draw a stove, a pot, a ladle and a child. No arrows yet.",
+     "kid": "Draw a stove, a pot, a ladle and a child, or set them out with real things.",
      "context": "This is the first step of Draw the Heat's Journey. You draw the picture first.",
      "parent": "The steel handle warms noticeably in a minute or two. The wooden one stays nearly cool. This is a real test of how well each material conducts heat. Write which was warmer, and whether it felt a little warmer or a lot warmer. Do not correct the guess before the test. If both feel the same, the spoons may be too short or the water too cool, so use more hot water. With 2 to 4 children, each child feels one spoon at a time and says what they notice."
     },
@@ -1304,7 +1304,7 @@
      "mins": 5,
      "do": "Ask your child to draw a red arrow up the handle of the ladle. Then ask them to draw a blue loop of arrows inside the pot of dal. Ask where the dal at the bottom goes when it is heated.",
      "say": "Draw a red arrow up the ladle handle. Draw a blue loop of arrows inside the dal. Which way does the hot dal go? Where does it go when it reaches the top?",
-     "kid": "Draw a red arrow up the ladle. Draw a blue loop in the dal.",
+     "kid": "Draw a red arrow up the ladle and a blue loop in the dal, or use string.",
      "ask": [
       {
        "q": "Which way does the dal at the bottom go when it is hot? Where does it go after that?",
@@ -1320,12 +1320,12 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Ask your child to draw orange wavy lines from the pot and the flame to the child's face. Then label each of the three kinds of arrow with its name.",
-     "say": "Draw wavy orange lines from the flame and the hot pot to the child's face. The child feels warmth on the face, but the air between is not carrying it. Now write the name next to each kind of arrow.",
-     "kid": "Draw wavy lines to the face. Label all three kinds of arrows.",
+     "do": "Ask your child to point from the pot and the flame to the child's face and say how the warmth gets there. Then write the three names on small bits of paper and put each by its arrow.",
+     "say": "Point from the flame and the hot pot to the child's face. The child feels warmth on the face, but the air between is not carrying it. How does it get there? Now put a name paper by each kind of arrow.",
+     "kid": "Point to how the warmth reaches the face. Put each name by its arrow.",
      "ask": [
       {
-       "q": "Why are the lines to the face wavy and in every direction?",
+       "q": "How does the warmth reach the child's face?",
        "good": [
         "Because radiation goes out in all directions.",
         "It is like light."
@@ -1374,8 +1374,8 @@
      "what": "Act out a hot afternoon and a cool night at the beach."
     }
    ],
-   "record": "A drawing of a beach in the afternoon and at night, with arrows to show which way the wind blows each time.",
-   "context": "In this activity, you act out why the wind blows from the sea to the land in the day and the other way at night. Acting out a loop helps you remember which way it goes.",
+   "record": "Tell your grown-up which way the wind blows in the afternoon and at night, or draw a beach with arrows for each time.",
+   "context": "In this activity, you act out why the wind blows from the sea to the land in the day and the other way at night. You will find out why the wind blows from the sea in the day and from the land at night. Acting out the loop helps you remember which way it goes.",
    "setup": [
     {
      "art": "A floor with a blue sheet on one side as the sea and a yellow sheet on the other side as the land, and a child standing in the middle as the Sun, with arms raised.",
@@ -1453,9 +1453,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Ask your child to draw the beach at noon and at midnight, with arrows for the wind. Ask what would happen to the sea breeze on a cloudy day, when the Sun is hidden.",
-     "say": "Draw the beach in the afternoon and at night. Use arrows for the wind. Now think about a cloudy day, when the land stays cool. What will the sea breeze do?",
-     "kid": "Draw the beach by day and by night. Draw arrows for the wind.",
+     "do": "Ask your child to point which way the wind blows in the afternoon and at night. Ask what would happen to the sea breeze on a cloudy day, when the Sun is hidden.",
+     "say": "Point which way the wind blows in the afternoon. Now at night. Now think about a cloudy day, when the land stays cool. What will the sea breeze do?",
+     "kid": "Point which way the wind blows by day and by night.",
      "parent": "On a cloudy day, the land does not warm up as much, so the sea breeze is weak or comes late. That is why a cloudy afternoon on the coast can feel still. To see the real reason, try this on a sunny day: put one katori of dry sand or soil and one katori of water of the same amount on a window ledge in the Sun for 15 minutes. Touch each with the back of a finger. The sand is warmer to touch than the water. This is why the land warms faster than the sea.",
      "think": "Which is warmer in the evening, a rock on the beach or a tub of sea water? Why does that matter for the wind?",
      "context": "This is the last step of Act Out the Sea Breeze. You draw both winds."
@@ -1517,7 +1517,7 @@
      "what": "Build the oven, aim it at the Sun, and watch the chocolate."
     }
    ],
-   "record": "Write the time you put both pieces of chocolate in, and the time each began to soften and to melt. Draw the oven and the path of the sunlight into it.",
+   "record": "Write the time you put both pieces of chocolate in, and the time each began to soften and to melt. Draw the oven and the path of the sunlight into it, or tell your grown-up the path.",
    "context": "In this project, you build a simple oven that uses sunlight alone, and test how long it takes to melt chocolate. It works by reflecting radiation onto a black base that absorbs it, and by trapping warm air.",
    "setup": [
     {
@@ -1608,9 +1608,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Ask your child to draw the oven with the sunlight arrows going in and bouncing. Ask which two ideas from this unit made the oven work. Ask how they could make it hotter.",
-     "say": "Draw your oven and the sunlight. Which two ideas from this unit made the oven work? How could we make it hotter next time?",
-     "kid": "Draw the oven and the sunlight. What made it work? How can we make it hotter?",
+     "do": "Ask your child to trace with a finger the path of the sunlight going into the oven and bouncing. Ask which two ideas from this unit made the oven work. Ask how they could make it hotter.",
+     "say": "Show me with your finger where the sunlight goes. Which two ideas from this unit made the oven work? How could we make it hotter next time?",
+     "kid": "Trace the sunlight with your finger. What made it work? How can we make it hotter?",
      "parent": "Good answers are that the foil reflects radiation onto a dark surface, and that the cling film traps warm air so convection cannot carry the heat away. To make it hotter, use a bigger reflector, a better seal, or a black pot with a lid.",
      "think": "Why do real solar cookers in India often have a black pot and a curved mirror?",
      "context": "This is the last step of the Foil Sun Oven. You think about what made it work."
@@ -1649,8 +1649,8 @@
     "A white roof with a wet cloth on top, to see if water helps too.",
     "A roof with a high gap at the top of the walls, so hot air can escape, like the ventilators in an old courtyard house."
    ],
-   "your_turn": "Sketch your plan. Build it, and test it in the Sun. Change one thing, such as the air gap above the roof, and test again. Which roof kept the inside coolest? Why do you think it did?",
-   "context": "This is a design challenge about radiation and cool roofs. You make the best shoebox roof you can for a hot day.",
+   "your_turn": "Say or sketch your plan. Build it, and test it in the Sun. Change one thing, such as the air gap above the roof, and test again. Which roof kept the inside coolest? Why do you think it did?",
+   "context": "This is a design challenge about radiation and cool roofs. You will find out which roof covering keeps a shoebox house coolest in the Sun.",
    "setup": [
     {
      "art": "Three identical shoeboxes in a row, one with a black paper roof, one with a white paper roof and one with a shiny foil roof.",
@@ -1669,9 +1669,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read the problem together. Ask your child to sketch three roof designs, and to guess which one will keep the box coolest.",
-     "say": "You have three shoebox houses and half an hour of hot sunlight. How could you cover the roofs to keep the inside cool? Draw three ideas. Which do you think will work best, and why?",
-     "kid": "You have three boxes and three roofs. Draw some ideas. Which box will stay coolest?",
+     "do": "Read the problem together. Ask your child to choose three roof designs (tell them, or sketch them), and to guess which one will keep the box coolest.",
+     "say": "You have three shoebox houses and half an hour of hot sunlight. How could you cover the roofs to keep the inside cool? Tell me three ideas. Which do you think will work best, and why?",
+     "kid": "Pick three roof coverings. Which box will stay coolest?",
      "ask": [
       {
        "q": "What would make a roof stay cooler?",
@@ -1687,9 +1687,9 @@
     {
      "id": "s2",
      "mins": 14,
-     "do": "Build the three boxes. Cover each roof with a different covering. Cut a small hole in the side of each box to put the thermometer in. Read the starting temperatures and write them down.",
-     "say": "Cover each roof with something different. Make a small hole in the side of each box for the thermometer. Read the starting temperatures. Write them down.",
-     "kid": "Cover each roof. Put a thermometer in each box. Write the starting numbers.",
+     "do": "Build the three boxes. Cover each roof with something different: black paper, white paper or foil. Cut a small hole in the side of each box to put the thermometer in. Read the starting temperatures and write them down.",
+     "say": "Cover each roof with black paper, white paper or foil, one each. Make a small hole in the side of each box for the thermometer. Read the starting temperatures. Write them down.",
+     "kid": "Cover each roof. Put the thermometer in each box in turn. Write the starting numbers.",
      "parent": "Seal the gaps at the lid with tape so air cannot leak. All three boxes must start at about the same temperature. If they do not, wait a little in the shade.",
      "context": "In this step, you build the boxes and take the starting temperatures."
     },
@@ -1753,7 +1753,7 @@
     "Put a thin sheet of foil between the ice and the room, so the ice takes in less heat from the air."
    ],
    "your_turn": "Make a plan. Test it against a jug with the ice weighed down at the bottom. Which jug had the coolest water at the top after 10 minutes? Why do you think so?",
-   "context": "This is a design challenge about convection. You find out where the ice should go to cool a drink fastest.",
+   "context": "This is a design challenge about convection. You will find out whether ice cools a drink faster at the top or at the bottom, and why.",
    "setup": [
     {
      "art": "Two identical jugs of warm water side by side, one with a bag of ice held at the top and one with a bag of ice weighed down at the bottom with a steel spoon.",
@@ -1774,7 +1774,7 @@
      "mins": 5,
      "do": "Read the problem together. Ask your child to guess which jug will be cooler at the top after 10 minutes. Is it the jug with ice on top, or ice at the bottom? Ask why.",
      "say": "You have two jugs of warm water and two bags of ice. Where should the ice go to cool the water fastest, at the top or at the bottom? Why do you think so?",
-     "kid": "There are two jugs. One has ice at the top and one has ice at the bottom. Which cools faster? Why?",
+     "kid": "Guess: which cools faster, ice at the top or ice at the bottom? Why?",
      "ask": [
       {
        "q": "What do you think cold water does in a jug?",

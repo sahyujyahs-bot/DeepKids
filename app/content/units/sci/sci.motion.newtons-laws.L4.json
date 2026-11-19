@@ -729,7 +729,7 @@
      "mins": 7,
      "do": "Play the next 6 cards. Then ask the question below.",
      "say": "Keep playing in the same way. Which cards made you change your mind?",
-     "kid": "Play six more cards. Which card made you change your mind?",
+     "kid": "Play six more cards. Watch for a card that changes your mind.",
      "ask": [
       {
        "q": "Look at the cards where the answer was 'The same'. What do they have in common?",
@@ -748,7 +748,7 @@
      "mins": 2,
      "do": "Add up the points. Ask which card was the hardest, and why.",
      "say": "Add up your points. Which card was the hardest? What would you check next time?",
-     "kid": "Add up your points. Which card was the hardest? Why?",
+     "kid": "Add up your points.",
      "check": {
       "t": "mcq",
       "q": "A cart's net force triples and its mass doubles. Compared with before, is the change in speed each second bigger, smaller or the same?",
@@ -771,7 +771,7 @@
    "title": "The Hanging Bag Cart: what changes how quickly the cart speeds up?",
    "mins": 40,
    "days": 1,
-   "context": "This is the main experiment of the unit. A bag of water hangs over a table edge and pulls a cart. You change the water in the bag and the load on the cart, and time the trip.",
+   "context": "You will find out what makes a cart speed up faster: a bigger pull, or a lighter cart. A bag of water hangs over a table edge and pulls the cart. You change the water in the bag and the load on the cart, and time the trip.",
    "question": "A bag of water pulls a cart across a table. How does the time for the trip change when the bag has more water? How does it change when the cart carries more load?",
    "predict": "Before you start, guess. Will a bag with more water make the trip quicker, slower or the same? Will more load on the cart make it quicker, slower or the same? Why do you think so?",
    "fair_test": "Use the same cart, the same table, the same thread and the same start line every time. In Part A, only the water in the bag changes: 100, 200, then 400 millilitres. The cart carries two bottles. In Part B, the bag stays at 100 millilitres and only the load changes: one bottle, two bottles, three bottles. Time every setting 3 times, because one try can be a fluke. Use the middle time of the three.",
@@ -898,7 +898,7 @@
      "mins": 4,
      "do": "Show your child the cart, the bottles and the bag. Ask for a guess and a reason for each question. Write the guesses at the top of the table.",
      "say": "A bag of water will pull this cart across the table. What happens if the bag has more water? What happens if the cart has more load? Why do you think so?",
-     "kid": "A bag of water pulls a cart. What happens with more water in the bag? What happens with more load on the cart? Why?",
+     "kid": "Guess what happens with more water, and with more load.",
      "ask": [
       {
        "q": "Why do you think that will happen?",
@@ -937,7 +937,7 @@
      "mins": 4,
      "do": "Put a towel on the floor. Put 100 millilitres of water in the bag and tie it shut. Hold the bag at the height of the table, away from the cart, and let it drop onto the towel. Notice how quickly it lands.",
      "say": "First, a test with no cart. Let the bag drop onto the towel. It lands in a blink. Will the bag fall as fast when it is pulling the cart?",
-     "kid": "Let the bag drop onto the towel. It lands in a blink. Will it fall as fast with the cart?",
+     "kid": "Let the bag drop onto the towel. Watch how fast it lands.",
      "ask": [
       {
        "q": "Do you think the bag will fall as fast when it pulls the cart? Why?",
@@ -1017,7 +1017,7 @@
    "title": "The Ramp Surprise: does a heavy cart take longer to roll down?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment, a cart rolls down a ramp. You change how steep the ramp is, and then you change the load on the cart. One of the results is a surprise.",
+   "context": "You will find out if a heavy cart takes longer to roll down a ramp than an empty one. You change how steep the ramp is, and then the load on the cart. One of the results is a surprise.",
    "question": "A cart rolls down a ramp. Does the trip take less time when the ramp is steeper? Does it take longer when the cart carries a load?",
    "predict": "Before you start, guess. Will a steeper ramp make the trip quicker, slower or the same? Will a loaded cart take longer, less time or the same time? Why do you think so?",
    "fair_test": "Use the same ramp, the same cart, the same start line and the same finish line every time. In Part A, only the height of the ramp changes: 6, 12 and 24 centimetres. In Part B, the ramp stays at 12 centimetres and only the load changes: none, one bottle, three bottles. Release the cart by letting go, never by pushing. Time every setting 3 times and use the middle time.",
@@ -1132,7 +1132,7 @@
      "mins": 4,
      "do": "Show your child the ramp, the cart and the bottles. Ask for a guess and a reason for each question. Write the guesses at the top of the table.",
      "say": "A cart will roll down this ramp. What happens if the ramp is steeper? What happens if the cart carries a heavy load? Why do you think so?",
-     "kid": "A cart rolls down a ramp. What happens if it is steeper? What happens with a load? Why?",
+     "kid": "Guess what happens with a steeper ramp, and with a load.",
      "ask": [
       {
        "q": "Do you think the loaded cart will take longer? Why?",
@@ -1210,8 +1210,8 @@
      "id": "s5",
      "mins": 4,
      "do": "Ask your child what surprised them. Then ask the question below. Write the answer under the chart.",
-     "say": "What surprised you? In the Hanging Bag Cart test on the table, a heavier cart was slower. On the ramp, it was not. Why do you think that was?",
-     "kid": "What surprised you? The heavier cart was slower on the table. On the ramp it was not. Why?",
+     "say": "What surprised you? Look at your times for the loaded cart and the empty cart.",
+     "kid": "Tell your grown-up which result surprised you.",
      "ask": [
       {
        "q": "In the Hanging Bag Cart test on the table, the heavier cart was slower. On the ramp it was not. What was different?",
@@ -1235,7 +1235,7 @@
    "title": "Empty or Full: which is harder to get going?",
    "mins": 15,
    "days": 1,
-   "context": "In this short activity, you push the same wheeled thing when it is empty and when it is full. You feel which is harder to start and which is harder to stop.",
+   "context": "You will find out why a full bag is harder to push than an empty one. You push the same wheeled thing when it is empty and when it is full. You feel which is harder to start and which is harder to stop.",
    "materials": [
     {
      "item": "a wheeled suitcase, a trolley bag or a rolling stool that rolls easily",
@@ -1258,7 +1258,7 @@
     }
    ],
    "safety": "A grown-up lifts the heavy load. Keep toes and fingers away from the wheels.",
-   "record": "Measure how far each rolls after you let go (count floor tiles or steps, or use a tape) and do it 3 times for each. Draw two pictures, one for the empty thing and one for the full thing, each with an arrow for the push. Write 'harder' or 'easier' beside the words 'to start' and 'to stop'.",
+   "record": "Measure how far each rolls after you let go (count floor tiles or steps, or use a tape) and do it 3 times for each. Say or write 'harder' or 'easier' for the full thing, once for 'to start' and once for 'to stop'.",
    "setup": [
     {
      "art": "A girl giving a gentle one-handed push to an empty trolley bag on a tiled floor, and it rolling away.",
@@ -1279,7 +1279,7 @@
      "mins": 3,
      "do": "Show the empty wheeled thing. Ask your child to guess how it will feel to push when it is empty and when it is full. Ask why.",
      "say": "I will give this a gentle push. Then we will load it and push again, just the same. What do you think will be different? Why?",
-     "kid": "Push this gently. Then load it and push again. What will be different? Why?",
+     "kid": "Look at the empty thing. Guess how it will feel when it is full.",
      "ask": [
       {
        "q": "What do you think will be different about the full one?",
@@ -1307,7 +1307,7 @@
      "mins": 5,
      "do": "A grown-up loads the thing with books or rice. Push it in the same way for the count of two, then let go. Stop it with your hand.",
      "say": "Now it is full. Push it just as gently, for the same count. Does it move as far? Which was harder to start? Which was harder to stop?",
-     "kid": "A grown-up loads it. Push the same way. Which is harder to start? Which is harder to stop?",
+     "kid": "A grown-up loads it. Push it the same way.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -1328,7 +1328,7 @@
      "mins": 2,
      "do": "Ask the question below. Let your child answer first.",
      "say": "Where else have you felt this? Think of a full water can, a gas cylinder, or a heavy door.",
-     "kid": "Where else have you felt this? Think of a full water can or a heavy door.",
+     "kid": "Think of a full water can or a heavy door.",
      "ask": [
       {
        "q": "Where else is a heavy thing harder to start and harder to stop?",
@@ -1377,7 +1377,7 @@
     }
    ],
    "safety": "Drop things onto a cushion, away from feet. Keep faces out of the way, and make sure the bottle caps are tight.",
-   "record": "Do the bottle drop 5 times and tally which landed first: full, empty or together. Draw a picture for each drop and write 'together' or 'not together' under it. Write one sentence on why the full and empty bottles landed as they did.",
+   "record": "Do the bottle drop 5 times and tally which landed first: full, empty or together. Write 'together' or 'not together' for each drop. Write one sentence on why the full and empty bottles landed as they did.",
    "setup": [
     {
      "art": "A girl holding a book flat at shoulder height with a sheet of paper lying on top of it, over a cushion on the floor.",
@@ -1398,7 +1398,7 @@
      "mins": 3,
      "do": "Show the book, the paper and the two bottles. Ask your child to guess what will happen in each drop. Ask why.",
      "say": "We will drop a book with a paper on top. Then we will drop a full bottle and an empty bottle together. What do you think will happen? Why?",
-     "kid": "Guess what happens in each drop. Why do you think so?",
+     "kid": "Guess what will happen in each drop.",
      "ask": [
       {
        "q": "Which do you think will land first, the full bottle or the empty bottle? Why?",
@@ -1436,8 +1436,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Lay the bottles on their sides, side by side, at chest height above the cushion. Let go of both together. Listen for one thud or two. Do it five times and tally the result: full first, empty first, or together.",
-     "say": "Let go of both at the same moment. Listen. Is it one thud, or two? The full bottle is heavier. The Earth pulls it harder. Did it land first?",
-     "kid": "Drop both bottles together. Listen. One thud or two? Do it five times and tally the result.",
+     "say": "Let go of both at the same moment. Listen. Is it one thud, or two? Do it five times.",
+     "kid": "Drop both bottles together. Listen for one thud or two. Make a tally mark each time.",
      "parent": "You should hear one thud, or two thuds very close together. Hold the bottles level, and let go at the same moment, because even a small head start spoils the result. If one bottle is slightly early every time, check that your hands are level. A cushion makes the thud quiet, so for the bottles put a folded towel on a hard floor, or film the drop with a phone in slow motion and watch it frame by frame. With 2 to 4 children: one drops, one listens with eyes closed, one films, one tallies. Swap each round.",
      "ask": [
       {
@@ -1456,7 +1456,7 @@
      "mins": 2,
      "do": "Ask your child to say why heavy and light things fell together. Then read the note for the parent.",
      "say": "Say it in your own words. Why did the full bottle and the empty bottle land together?",
-     "kid": "Say why the two bottles landed together.",
+     "kid": "Tell your grown-up why the two bottles landed together.",
      "parent": "After your child has answered: the Earth pulls the full bottle harder, but the full bottle has more mass, so it needs a bigger force to speed up in the same way. The bigger pull and the bigger mass cancel, so both gain speed at the same rate. This is the second law at work. Without air, a feather and a hammer would fall together too.",
      "context": "In this step, you explain why heavy and light things fall together."
     }
@@ -1490,7 +1490,7 @@
     }
    ],
    "safety": "Use a soft ball, never a cricket ball. The jump is a tiny step-down only, with a grown-up beside you, on a non-slip floor. Stop if your knees hurt.",
-   "record": "Give each catch a score from 1 (soft) to 5 (sharp) and do 3 catches of each kind. Draw a pair of pictures for the catch and a pair for the jump. Under each, write 'soft' or 'sharp' for how it felt.",
+   "record": "Give each catch a score from 1 (soft) to 5 (sharp) and do 3 catches of each kind. Write 'soft' or 'sharp' for how each catch and each jump felt.",
    "setup": [
     {
      "art": "A boy catching a soft ball with stiff hands held out in front of him, not moving.",
@@ -1511,7 +1511,7 @@
      "mins": 3,
      "do": "Show the ball. Ask your child which will feel gentler: a catch with stiff hands or a catch with hands that move back. Ask why.",
      "say": "A fielder pulls her hands back when she catches a fast ball. Which catch do you think feels gentler, stiff hands or hands that move back? Why?",
-     "kid": "Which catch is gentler, stiff hands or hands that move back? Why do you think so?",
+     "kid": "Guess which catch is gentler, stiff hands or hands that move back.",
      "ask": [
       {
        "q": "Why do you think the fielder pulls her hands back?",
@@ -1560,7 +1560,7 @@
      "mins": 2,
      "do": "Ask the question below. Let your child answer first. Then read the note for the parent.",
      "say": "Your body has to stop in both cases. What did your hands and your knees do to make it gentler?",
-     "kid": "Your hands and knees made the stop longer. Why does that help?",
+     "kid": "Think about what your hands and your knees did.",
      "ask": [
       {
        "q": "What do the fielder's hands and your bent knees have in common?",
@@ -1608,7 +1608,7 @@
     }
    ],
    "safety": "A grown-up must come. Use the lift at a quiet time, hold the rail, stand still and do not jump. Do not hold the lift door open. Put the scale flat on the floor away from the door gap, and step on and off it slowly. If you have no lift and do the knee-bend at home instead, stand near a wall or a grown-up so you cannot fall off the scale.",
-   "record": "Write the number at rest, the highest number and the lowest number going up, and the same going down. Draw a small picture of the lift with an arrow for the direction.",
+   "record": "Write the number at rest, the highest number and the lowest number going up, and the same going down. Say which way the lift was going for each number.",
    "setup": [
     {
      "art": "A girl standing on a bathroom scale in a flat, with a pencil and paper beside it, reading the number.",
@@ -1629,7 +1629,7 @@
      "mins": 5,
      "do": "Weigh your child at home on the scale. Write down the number. Ask for a guess about the number in the lift, and a reason.",
      "say": "This is your weight on the scale at home. We will stand on it in the lift. Will the number change when the lift starts? Why do you think so?",
-     "kid": "Stand on the scale and read it. Will the number change in the lift? Why?",
+     "kid": "Stand on the scale and read the number out loud.",
      "ask": [
       {
        "q": "Do you think the number will change when the lift starts to move? Why?",
@@ -1679,7 +1679,7 @@
      "mins": 3,
      "do": "Ask the question below. Let your child answer first.",
      "say": "The number changed only when the lift started or stopped. When it moved at a steady speed, it read as usual. Why do you think that was?",
-     "kid": "The number changed when the lift started or stopped. Why only then?",
+     "kid": "Remember what the number did when the lift moved at a steady speed.",
      "ask": [
       {
        "q": "Why did the scale read as usual when the lift moved at a steady speed?",
@@ -1755,7 +1755,7 @@
      "mins": 4,
      "do": "Show your child the car, the ramp and the towel. Say that a car let go from four times the height reaches the bottom at about twice the speed. Ask for a guess and a reason.",
      "say": "A car let go from four times as high reaches the bottom at about twice the speed. How much further will it go on the towel before it stops? Twice as far? Four times? Why do you think so?",
-     "kid": "A car goes twice as fast. Will it go twice as far on the towel before it stops? Four times as far? Why?",
+     "kid": "Look at the car, the ramp and the towel. Make a guess.",
      "ask": [
       {
        "q": "If the car goes twice as fast, how much further do you think it will go before it stops? Why?",
@@ -1772,9 +1772,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "1. Lift one end of the board by 8 centimetres and check with the ruler. 2. Lay the towel flat on the floor at the bottom, and tape its edge so the car does not bump. 3. Tape a line where the towel begins. 4. Mark a start line near the top of the board.",
+     "do": "1. Lift one end of the board by 4 centimetres and check with the ruler. 2. Lay the towel flat on the floor at the bottom, and tape its edge so the car does not bump. 3. Tape a line where the towel begins. 4. Mark a start line near the top of the board.",
      "say": "We will build a test track. The car rolls down the board, and the towel is its brake. We measure from the tape line to where the car stops.",
-     "kid": "Lift the board 8 centimetres. Lay the towel at the bottom. Tape a line where the towel begins.",
+     "kid": "Lift the board 4 centimetres. Lay the towel at the bottom. Tape a line where the towel begins.",
      "parent": "The car must roll smoothly from the board onto the towel. Fold or tape the towel edge so it does not catch. The towel should be long enough for the highest run. If the car stops before reaching the towel at 4 centimetres, use 6, 12 and 24 centimetres instead. If it rolls off the end of the towel, fold the towel in two so it brakes harder; a thick doormat or a folded blanket also works.",
      "check": {
       "t": "mcq",
@@ -1792,7 +1792,7 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "Run the car from the start line at 4 centimetres, then 8 centimetres, then 16 centimetres. Let go of the car, never push it. Measure the distance it goes on the towel. Do 3 runs at each height.",
+     "do": "Run the car from the start line with the board at 4 centimetres, then 8 centimetres, then 16 centimetres. Let go of the car, never push it. Measure the distance it goes on the towel. Do 3 runs at each height.",
      "say": "Let go of the car at the start line. Where does it stop? Measure from the tape line to the front of the car. Do each height three times.",
      "kid": "Let the car go. Measure how far it goes on the towel. Do three runs at each height.",
      "parent": "Change the height by changing the books. Check each height with the ruler. Use the middle distance of the three runs. Expect the distances to grow roughly as fast as the heights, but not exactly: this is a rough test. With 2 to 4 children: one releases, one marks the stop with a pencil, one measures, one records. Swap after each height. If the car bounces or skids sideways, tape the board edges as guide rails.",
@@ -1801,9 +1801,9 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "Make a table and draw a bar chart of the middle distances. Ask your child to say or write a claim, evidence and reason.",
+     "do": "Make a table and draw a bar chart of the middle distances, or stack blocks to match each distance. Ask your child to say or write a claim, evidence and reason.",
      "say": "What did you find? What numbers show it? Why do you think it happened?",
-     "kid": "Draw a bar for each height. Say what you found and why.",
+     "kid": "Make a bar for each height. Say what you found and why.",
      "ask": [
       {
        "q": "How did the stopping distance change when the speed doubled?",
@@ -1833,7 +1833,7 @@
      "mins": 8,
      "do": "Ask the question below. Let your child answer first. Then read the note for the parent.",
      "say": "A car goes at 20 kilometres an hour and another at 40, with the same brakes. How much more road does the faster car need? What does this tell a driver?",
-     "kid": "A car goes twice as fast. How much more road does it need to stop? What should a driver do?",
+     "kid": "Think about a car on a road, going twice as fast.",
      "ask": [
       {
        "q": "A car goes twice as fast as another one, with the same brakes. How much more road does it need to stop? What should a driver do near a school?",
@@ -1882,7 +1882,7 @@
     "A cart with smooth round pencils as rollers instead of wheels, to reduce the friction.",
     "Two thin runners made from smooth plastic lids instead of wheels. Does it slide better than it rolls?"
    ],
-   "your_turn": "Sketch your cart. Build it and time it 3 times. Change one thing, such as the weight of the cart or the way the wheels turn, and time it again. Which change helped most? Why do you think it did?",
+   "your_turn": "Sketch your cart, or describe it. Build it and time it 3 times. Change one thing, such as the weight of the cart or the way the wheels turn, and time it again. Which change helped most? Why do you think it did?",
    "setup": [
     {
      "art": "A child sketching three cart designs on paper: a box with bottle-cap wheels, a flat tray on pencils, and a thin frame.",
@@ -1901,9 +1901,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two or three cart designs.",
-     "say": "You have the same pull every time. How could you make the cart cross the table faster? Draw some ideas first.",
-     "kid": "The pull is always the same. Draw some ways to make the cart faster.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to show two or three cart ideas, by drawing or by telling you.",
+     "say": "You have the same pull every time. How could you make the cart cross the table faster? Share some ideas first, by drawing or by telling me.",
+     "kid": "The pull is always the same. Think of ways to make the cart faster.",
      "ask": [
       {
        "q": "What would make a cart cross the table in a shorter time?",

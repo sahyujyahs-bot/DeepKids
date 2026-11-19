@@ -3175,7 +3175,9 @@
       {
         "source": "Tao Te Ching 11",
         "teaching": "Clay is shaped into a pot, but it is the empty space inside that makes the pot useful. Doors and windows are cut to make a room, but it is the empty space inside that makes the room useful.",
-        "link": "A fatty skin matters because of the space it closes off. Inside that space, molecules could stay together long enough to work with each other. The skin made an inside possible."
+        "link": "A fatty skin matters because of the space it closes off. Inside that space, molecules could stay together long enough to work with each other. The skin made an inside possible.",
+        "verse": ["三十輻共一轂，當其無，有車之用。", "埏埴以為器，當其無，有器之用。"],
+        "verse_lang": "zh"
       },
       {
         "source": "Charles Darwin, letter to Joseph Hooker, 1 February 1871",

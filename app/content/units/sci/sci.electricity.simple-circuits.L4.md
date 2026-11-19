@@ -231,12 +231,12 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
   - Ask: What do the cards where a bulb stays lit have in common? (good: Each bulb has its own path.; They are in parallel.; The break is in a different branch.)
   - Note: Let children argue their reasons before the back is read. A right answer with a weak reason earns one point. A good reason is worth the second.
 - **s3 (8 min)**  
-  *Parent does:* Play the next 16 cards. Keep the scores. If a card is hard, draw the circuit on paper to work it out.  
-  *Parent says:* Keep going. If a card is hard, draw the circuit with the symbols. Is the bulb in a row, or side by side? Can the current find a whole loop?  
-  *Child mode:* Keep playing. Draw the circuit if a card is hard.
+  *Parent does:* Play the next 16 cards. Keep the scores. If a card is hard, build it with the circuit parts, or draw it on paper, to work it out.  
+  *Parent says:* Keep going. If a card is hard, build it with the parts, or draw it with the symbols. Is the bulb in a row, or side by side? Can the current find a whole loop?  
+  *Child mode:* Keep playing. If a card is hard, build or draw the circuit.
 - **s4 (3 min)**  
   *Parent does:* Add up the scores. Ask which card was the hardest, and why. Put the cards the child got wrong back in the pile and try them again.  
-  *Parent says:* Add up the points. Which card was hardest? What would you draw to work it out? Let us try the hard ones again.  
+  *Parent says:* Add up the points. Which card was hardest? How would you work it out? Let us try the hard ones again.  
   *Child mode:* Add up your points. Try the hard cards again.
 
 ## Experiments
@@ -245,13 +245,13 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
 - **predict:** Before you build anything, guess. How bright will two bulbs in a row be, compared with one bulb alone? How bright will two bulbs side by side be? Why do you think so?
 - **fair test:** Use the same two fresh cells and the same kind of bulb every time. Test in the same dim room, after your eyes have rested for one minute. Only the layout changes. The single bulb is the control: you compare every other bulb with it, and it always scores 5. Ask a second person to score the bulbs too, without seeing your scores. If you both give the same score, you can trust it.
 - **safety:** Use only AA cells, never a wall socket or a plug. Disconnect the cells after each test. Bulbs can be warm after a minute, so touch only the holders. Do not use cells that look swollen or leaking.
-- **record:** For each layout, write the score of each bulb from 0 to 5, and what the others did when you unscrewed one. Then draw a bar chart with one bar for each layout.
+- **record:** For each layout, write the score of each bulb from 0 to 5, and what the others did when you unscrewed one. Then show the scores as a bar chart, one bar for each layout: draw it, or stack blocks.
 - **results table:** Layout | My guess (0 to 5) | Brightness (0 to 5) | Do the bulbs look the same? | Unscrew one bulb: what do the others do?
 - **s1 (5 min)**  
   *Parent does:* Show your child the cells, the three bulbs and the wires. Ask for a guess about each layout before you build anything. Write each guess as a score from 0 to 5 in the table.  
   *Parent says:* We will light one bulb, then two in a row, then three in a row. Then we will put bulbs side by side. How bright will each be, compared with one bulb alone? Why do you think so?  
-  *Child mode:* Guess first. Will two bulbs be dimmer? Will three? Say why.
-  - Ask: Why do you think two bulbs in a row will be that bright? (good: Two bulbs need more electricity, so each gets less.; They share the cell.; They will be brighter, because there are more bulbs.)
+  *Child mode:* Guess first. Will two bulbs in a row be dimmer than one? Will three?
+  - Ask: Why do you think so? (good: Two bulbs need more electricity, so each gets less.; They share the cell.; They will be brighter, because there are more bulbs.)
   - Note: Do not correct any guess. Many children say two bulbs will be brighter, because there are more of them. Score the single bulb as 5. Write each guess as a score from 0 to 5. With 2 to 4 children, one builds, one scores, one keeps the table and one draws; swap jobs for each layout. Each child writes their own guess before anyone speaks.
 - **s2 (5 min)**  
   *Parent does:* Dim the room. Build one loop with the cell holder, a bulb and two wires. Wait one minute for your eyes to adjust. This glow is the control: you compare every other bulb with it. It scores 5.  
@@ -260,8 +260,8 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
   - Note: Use fresh cells and 2.5 volt bulbs. If the room cannot be made dark, cup a hand round each bulb and score every layout in the same way. Never leave a circuit joined for more than a minute. The cells run down. Cheap bulbs are often not quite equal, so light each bulb alone first and use the three that look most alike. Damp weather can make clips and bulb holders touch badly, so press each joint firmly.
 - **s3 (7 min)**  
   *Parent does:* Join a second bulb into the same loop, so the electricity goes through one bulb and then the other. Score each bulb from 0 to 5. Write whether the two look the same.  
-  *Parent says:* Put the second bulb in the same loop, one after the other. Is it brighter or dimmer than the single bulb? Is the first bulb brighter than the second? Why do you think so?  
-  *Child mode:* Add a second bulb in the same loop. Score both bulbs. Is the first one brighter?
+  *Parent says:* Put the second bulb in the same loop, one after the other. Is it brighter or dimmer than the single bulb? Is the first bulb brighter than the second?  
+  *Child mode:* Add a second bulb in the same loop. Score both bulbs.
   - Ask: What do you notice about the first bulb and the second bulb? (good: They look the same.; Both are dimmer than one bulb alone.; Neither is brighter than the other.)
   - Note: Typically both bulbs glow equally, with a dull orange light, clearly dimmer than the single bulb. Exact brightness depends on your cells and bulbs. If neither glows, check that the bulbs are 2.5 volts and the cells are fresh, and that every wire is touching bare metal.
   - Check: Both bulbs in a row glow equally dimly. What does that show about the electricity going through the first bulb? → **The same flow goes through both bulbs, so the first one did not use it up**
@@ -284,9 +284,9 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
   - Note: In the row, both bulbs go out. Side by side, the other bulb stays as bright as before. Bulbs are usually only warm at 3 volts, but hold them by their holders. If the bulb in the row circuit stays lit when you unscrew the other, a wire is joining the two sides of the empty holder. Check the wiring.
   - Check: A string of festival lights goes completely dark when one bulb fails. How are its bulbs most likely joined? → **In a row, in one single path**
 - **s7 (5 min)**  
-  *Parent does:* Ask your child to say what they thought (claim), what they saw (evidence), and why (reasoning). Write one line for each. Then ask them to draw both circuits.  
+  *Parent does:* Ask your child to say what they thought (claim), what they saw (evidence), and why (reasoning). Write one line for each. Then ask them to show both circuits: build them again, or draw them.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Say what you thought, what you saw, and why. Then draw both circuits.
+  *Child mode:* Say what you thought, what you saw, and why. Then show both circuits: build them again, or draw them.
   - Note: A strong answer says the same flow goes through every bulb in the row and the cells' push is shared between them, so each bulb gets less. Side by side, each bulb has its own path and gets the whole push. After they have said what they saw, explain it. Two bulbs make the path harder, so less flow goes round, and each bulb gets about half of the 3 volts. Side by side, each bulb gets all 3 volts, but the cells give out twice as much flow, so they run down about twice as fast.
   - Think: If the first bulb in a row does not use up the electricity, what makes the bulbs dim?
 ### e2 · Which Way Round? A bulb and an LED (28 min)
@@ -294,7 +294,7 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
 - **predict:** Before you test, guess. Will the bulb light with the cell turned round? Will the LED? Why do you think so?
 - **fair test:** Use the same cell and the same wires for every test. Only the direction changes. Try each way twice, because a loose wire can fool you. If the LED does not light either way, check the legs touch the faces of the cell and do not touch each other.
 - **safety:** A coin cell can badly hurt a child who swallows it. A grown-up holds it and keeps it away from children under five. Put it back in its packet and tape the packet when you have finished. Never join an LED straight to two AA cells, because the current is too big and the LED burns out.
-- **record:** In the table, write what the bulb did and what the LED did with the cell each way round. Draw an LED and mark which leg is plus.
+- **record:** In the table, write what the bulb did and what the LED did with the cell each way round. Draw an LED and mark which leg is plus, or take a photo of it.
 - **results table:** Part | Cell one way | Cell the other way | What I think this means
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* Show your child the bulb circuit, the LED and the coin cell. Keep the coin cell in your hand. Ask for a guess about each part, and the reason.  
@@ -310,11 +310,11 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* A grown-up holds the coin cell. Look at the LED. Find the long leg and the short leg. Touch the long leg to the cell's flat side marked plus. Touch the short leg to the other face of the cell. Write down what you see.  
   *Parent says:* Hold the LED by its legs. One leg is longer. Touch the long leg to the plus face of the cell. Touch the short leg to the other face. What happens?  
-  *Child mode:* A grown-up holds the cell. Touch the long leg to the plus face and the short leg to the minus face. What happens?
+  *Child mode:* A grown-up holds the cell. Touch the long leg to the plus face. Touch the short leg to the minus face. What happens?
   - Note: The long leg is the plus leg. The coin cell has a plus face with writing on it and a flat minus face. If nothing happens, check the legs are touching the faces and not each other. A fresh coin cell typically gives a clear red glow. Keep the bent legs off the metal rim of the cell, because the rim joins to the plus face and the LED would be shorted and stay dark. If it is still dark, try the other LED or a new coin cell. With 2 to 4 children, only the grown-up holds the cell: the children take turns as the one who turns the LED, the one who records, and the one who draws. Put the cell back in its packet when you are finished.
 - **s4 (4 min) · grown-up needed**  
   *Parent does:* Turn the LED round, so the long leg touches the minus face and the short leg touches the plus face. Watch it. Turn it back. Do this twice. Write down what you see each time.  
-  *Parent says:* Now turn the LED round the other way. Does it light? Turn it back. Is anything damaged? What does this tell you about how the electricity moves through an LED?  
+  *Parent says:* Now turn the LED round the other way. Does it light? Turn it back. Is anything damaged?  
   *Child mode:* Turn the LED round. Does it light? Turn it back.
   - Note: The LED will not light the wrong way round, and it is not damaged. The wrong way round stops the current.
   - Check: Your LED lit with the long leg on the plus face and stayed dark when turned round. What does this show? → **An LED lets current through in one direction only**
@@ -324,9 +324,9 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
   *Child mode:* Two LEDs face opposite ways. Which lights? Turn the cell over. Now which?
   - Note: Only one LED lights. When the cell is turned over, the other LED lights and the first goes dark. If both stay dark, check that each LED has one leg on each face.
 - **s6 (4 min)**  
-  *Parent does:* Ask your child to say what they thought, what they saw, and why. Tell them that the arrow in circuit diagrams is a guess from 1747. Ask which way they think the electrons go.  
+  *Parent does:* Ask your child to say what they thought, what they saw, and why. Tell them that in 1747 Benjamin Franklin guessed that electricity flows from plus to minus. We now know the electrons in a wire go the other way.  
   *Parent says:* Tell me three things. What did you think? What did you see? Why do you think it happened? Which part does not care which way round the cell is, and which part does?  
-  *Child mode:* Say what you thought, what you saw, and why. Draw an LED with its long leg marked plus.
+  *Child mode:* Say what you thought, what you saw, and why. Then point to the LED leg that goes to plus.
   - Note: A strong answer says the bulb's thin wire heats whichever way the current goes, but an LED has a special material inside that lets current through one way only. After they have answered, tell them that the arrow in a diagram, from plus to minus, was guessed by Benjamin Franklin in 1747. The electrons in a wire go the other way.
   - Think: If a bulb works both ways, but an LED works one way, what must be different inside an LED?
 
@@ -334,9 +334,9 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
 ### a1 · Draw It Like an Engineer: circuit diagrams (20 min)
 - **record:** Keep your diagrams. Stick them in your notebook next to a photo of each circuit.
 - **s1 (5 min)**  
-  *Parent does:* Show the four symbols on a piece of paper: cell, bulb, switch and wire. Say what each one means. Ask your child to copy each symbol twice.  
+  *Parent does:* Show the four symbols on a piece of paper: cell, bulb, switch and wire. Say what each one means. Then lay out the real parts and ask your child to point to the part for each symbol.  
   *Parent says:* Engineers draw circuits with the same four symbols all over the world. A cell is a long line and a short fat line. The long line is the plus end. A bulb is a circle with a cross. A switch is a gap with a lever. A wire is a straight line.  
-  *Child mode:* Learn four symbols. Cell, bulb, switch, wire. Copy each one twice.
+  *Child mode:* Learn four symbols. Cell, bulb, switch, wire. Point to the real part for each symbol.
   - Ask: Which end of the cell is the long line? (good: The plus end.)
   - Note: Write the symbols large on paper. Let your child copy them. The cell symbol can be tricky: long thin line for plus, short thick line for minus.
 - **s2 (8 min)**  
@@ -352,7 +352,7 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
   - Note: Mistakes are useful. A drawing with a gap, or a cell drawn with no wire to it, will not light. Let them find the fault themselves.
 ### a2 · Pencil Dimmer: slide the clip, change the glow (20 min)
 - **safety:** A grown-up shaves the pencil with a blade, cutting away from their body, on a table, with the pencil held flat. Children do not use the blade. Keep the bare lead away from clothes: it marks them.
-- **record:** Draw the circuit and write what the bulb did when the clip was near and when it was far.
+- **record:** Write what the bulb did when the clip was near and when it was far. Take a photo of the circuit, or draw it.
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* A grown-up carefully shaves the wood off one side of a pencil, to show about 12 centimetres of lead. Test the lead with a bulb and cells. If the bulb does not light, use a softer pencil.  
   *Parent says:* A pencil's lead is graphite. It carries electricity, but holds it back more than copper does. A grown-up will shave one side of the pencil to show the lead.  
@@ -371,7 +371,7 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
   - Note: A strong answer says that more lead in the loop holds back the flow more, so less current reaches the bulb. A fan regulator and a light dimmer do the same job, in cleverer ways.
 ### a3 · Fuse Test: why a fuse is a thin wire (15 min)
 - **safety:** A grown-up does all of this activity. The strand gets very hot and can burn skin and set paper alight. Use a metal tray, keep paper and cloth away, and have a bowl of water ready. Never do this with a wall socket, plug or phone charger. Sparks and tiny hot bits can fly, so the adult keeps their face back, children watch from arm's length, and everyone stays at least one step from the tray. Steel wool fibres can stick in skin like splinters, so wash hands afterwards. The battery and the used strand stay hot for a minute.
-- **record:** Draw the strand before and after, and write one sentence about why a fuse is a thin wire.
+- **record:** Take a photo of the strand before and after, or draw it. Write one sentence about why a fuse is a thin wire.
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* A grown-up sets up on a metal tray, away from paper, with a bowl of water nearby. Pull out a few strands of fine steel wool, about 5 centimetres long. Hold up one strand and a copper wire. Ask which will get hotter if the same current flows.  
   *Parent says:* Here is one thin strand of steel wool and one thick copper wire. If we send the same current through both, which one will get hotter? Why do you think so?  
@@ -389,7 +389,7 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
   *Child mode:* Find the MCB box at home. Look, do not touch. It protects the wires.
   - Note: A fuse or MCB protects the wires, but it does not protect a person who touches a live wire. Only an adult resets an MCB, and only after finding out why it tripped.
 ### a4 · Be the Festival Lights: a human circuit (15 min)
-- **record:** Draw the ring and the two lanes as circuit diagrams, and mark where the break was.
+- **record:** Draw the ring and the two lanes as circuit diagrams and mark the break, or take a photo and say where the break was.
 - **s1 (5 min)**  
   *Parent does:* Gather 5 people, or use toys as bulbs. Choose one person as the cell. Everyone else is a bulb. Give the cell a bag of 20 small things, such as dry beans, to be the charges.  
   *Parent says:* We are going to be a circuit. One person is the cell. The others are bulbs. The beans are the charges. The cell starts them moving round.  
@@ -397,14 +397,14 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
   - Note: With only two or three people, use soft toys or cushions as bulbs and let the child move the beans themselves. The beans are only for passing: they are not to be eaten, and keep them away from children under three who might swallow them.
 - **s2 (5 min)**  
   *Parent does:* Make a ring. Pass one bag of beans from the cell, through each bulb in turn, and back to the cell. Everyone holds their hands out when the bag arrives. Now one bulb sits down and refuses to pass the bag. Watch what happens to the ring.  
-  *Parent says:* This ring is a series circuit. The bag goes round, bulb to bulb. Now one bulb sits down. What happens to the bag? What happens to the others?  
-  *Child mode:* Make a ring. Pass the bag round. One bulb sits down. What happens?
+  *Parent says:* This ring is a series circuit. The bag goes round, bulb to bulb. Now one bulb sits down.  
+  *Child mode:* Make a ring. Pass the bag round. Then one bulb sits down.
   - Ask: What happened when one person sat down? (good: The bag stopped.; Everyone stopped.; The loop was broken.)
   - Note: The bag stops at the person who sat down, and everyone after them has nothing to pass. This is why one broken bulb darkens a whole series string.
 - **s3 (5 min)**  
-  *Parent does:* Now make two lanes from the cell to a finish line and back, one bulb in each lane. The cell hands out two bags at the same time, one for each lane. One bulb sits down. Watch the other lane. Count how many beans the cell hands out in 30 seconds, first in the ring and then with the two lanes.  
-  *Parent says:* Now each bulb has its own lane. The cell hands a bag to each lane. One bulb sits down. What does the other lane do? What is the cell doing now compared with before?  
-  *Child mode:* Make two lanes. One bulb sits down. What does the other lane do?
+  *Parent does:* Now make two lanes from the cell to a finish line and back, one bulb in each lane. The cell splits the beans into two bags and hands one to each lane at the same time. One bulb sits down. Watch the other lane. Count how many bags the cell sends out in 30 seconds, first in the ring and then with the two lanes.  
+  *Parent says:* Now each bulb has its own lane. The cell hands a bag to each lane. One bulb sits down. What does the other lane do?  
+  *Child mode:* Make two lanes. One bulb sits down. What does the other lane do? Count the bags the cell sends out.
   - Ask: What is different for the cell now? (good: It has to hand out two bags at once.; It works twice as hard.; It will get tired sooner.)
   - Note: The other lane carries on. The cell has to hand out two bags at once, so with two lanes it hands out about twice as many beans in the same 30 seconds as in the ring, which is why cells run down faster in parallel. Counts will not be exact. With one child and one parent, use toys for the bulbs and count the beans yourselves.
   - Check: In Be the Festival Lights, the bulb in one lane sat down and the other lane carried on. What does that show about a parallel circuit? → **A break in one branch leaves the other branches working**
@@ -414,9 +414,9 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
 - **safety:** Use only AA cells. Keep the two rails apart so they never touch. Keep small parts such as drawing pins away from children under five. If the rails touch, the wires and cells may get warm: open the switch and move the rails apart at once. Open the switch when you are not testing, because the cells run down fast.
 - **record:** Keep the circuit diagram. Write a table of the two strings: brightness, and what the others do when one is unscrewed.
 - **s1 (8 min)**  
-  *Parent does:* Draw a circuit diagram of the string you will build. It has a cell holder, a switch, and three bulbs side by side. Put the switch in the main wire. Check that each bulb has its own path.  
-  *Parent says:* We will build a small festival string where each bulb has its own path. First draw it with symbols. Put the switch where it can turn all three off at once. Where must it go?  
-  *Child mode:* Draw your string with symbols. Three bulbs side by side. One switch for all.
+  *Parent does:* Plan the string you will build: draw a circuit diagram, or lay the parts out on the table. It has a cell holder, a switch, and three bulbs side by side. Put the switch in the main wire. Check that each bulb has its own path.  
+  *Parent says:* We will build a small festival string where each bulb has its own path. First draw it with symbols. Put the switch where it can turn all three off at once.  
+  *Child mode:* Plan your string: draw it with symbols, or lay out the parts. Three bulbs side by side. One switch for all.
   - Ask: Where does the switch go so that it turns all three bulbs off at once? (good: In the main wire, before the bulbs split.; In the part that all three paths share.)
   - Note: The switch goes in a wire that carries all the current: next to the cell holder, before the paths split. A switch in one branch would turn off only one bulb.
 - **s2 (20 min)**  
@@ -440,14 +440,14 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
 ## Challenges
 ### c1 · Two Doors, One Bell: switches in a row and side by side (40 min)
 - **problem:** Make two circuits using a cell holder, a bulb or buzzer and two switches. In the first, the bulb must light when either switch is pressed. In the second, the bulb must light only when both switches are pressed.
-- **your turn:** Invent a problem for your family: a rule about when a light should come on. Draw a circuit for it. Build it and test every combination. Which switches ended up in a row, and which side by side?
+- **your turn:** Invent a problem for your family: a rule about when a light should come on. Draw a circuit for it, or just build it. Test it and test every combination. Which switches ended up in a row, and which side by side?
 - **constraints:** Use only 2 AA cells.; Use exactly two switches in each circuit.; Draw the circuit diagram before you build.; Test every combination: neither switch, one switch, the other switch, and both.
 - **general:** Two switches side by side for the 'either' circuit, like a doorbell with a front and a back button.; Two switches in a row for the 'both' circuit, like a safe that needs two keys.; Draw the diagram first, then build the circuit, then make a table of every combination.
 - **creative:** A staircase light that can be switched on or off from the top or the bottom of the stairs, using two special switches.; A light that comes on when a door is open and it is dark, using a switch for the door and a light-sensitive part in a row (a light-sensitive part is hard to buy, so draw this one).; A three-door alarm: a bulb that lights if any one of three doors is opened.
 - **s1 (5 min)**  
-  *Parent does:* Read the two problems together. Ask your child to sketch a circuit for each, using symbols, before they build anything.  
+  *Parent does:* Read the two problems together. Before building, ask your child to sketch a circuit for each, using symbols. They can say how they would join the switches instead.  
   *Parent says:* Here are two problems. A bell must ring when the front door button or the back door button is pressed. A safe light must come on only when two keys are both turned. Sketch a circuit for each.  
-  *Child mode:* Two problems. Sketch a circuit for each, with symbols.
+  *Child mode:* Two problems. Sketch each circuit, or say how you would join the switches.
   - Ask: Which problem needs both switches, and which needs either? (good: The safe needs both.; The bell needs either one.)
   - Note: Do not give the answer. Let them try. The bell has two switches side by side. The safe has two switches in a row.
 - **s2 (15 min)**  
@@ -462,8 +462,8 @@ All forty-six bulbs came on at once. The lane cheered so loudly that the crows f
   - Note: Two switches in a row means the electricity must pass through both, so both must be closed.
   - Check: A circuit lights a bulb only when two switches are both closed. How are the switches joined? → **In a row**
 - **s4 (8 min)**  
-  *Parent does:* Ask your child to design a third circuit of their own and test it. Then ask what computers do with millions of such switches.  
-  *Parent says:* Now design your own. For example, a light that comes on when a door is open and it is dark. Which switches go in a row? Which go side by side?  
+  *Parent does:* Ask your child to design a third circuit of their own and test it.  
+  *Parent says:* Now design your own. For example, a light that comes on when a door is open and it is dark. Use two plain switches to stand for the door and the dark. Which switches go in a row? Which go side by side?  
   *Child mode:* Design your own switch circuit. Test it. Which switches are in a row?
   - Note: Claude Shannon showed in 1937 that switch circuits like these can do logic. Computer chips join millions of tiny switches in rows and side by side.
 

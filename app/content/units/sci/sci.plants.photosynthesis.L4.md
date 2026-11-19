@@ -260,9 +260,9 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 - **Printable tokens: Tokens and pond to make at home:** OXYGEN: cut 30 small squares of blue paper, or use 30 blue beads. This is the pond's oxygen supply.; PLANTS: cut 4 small green paper leaves. You start with 2.; FISH: cut 5 small paper fish. You start with 3.; POND: draw a big rectangle on a sheet of paper. The pond holds at most 12 oxygen. If it goes over 12, the extra is lost.
 - **Printable score sheet: Pond diary: write one line for each day:** Day number and the action I chose; Weather card; Oxygen after the day; Oxygen at dawn after the night; Fish left at dawn; What I would do differently next time
 - **s1 (4 min)**  
-  *Parent does:* Draw the pond and cut out the tokens. Put in 8 oxygen, 2 plants and 3 fish. Shuffle the weather cards face down.  
+  *Parent does:* Use a sheet of paper as the pond, and another as the pond diary. Cut out the tokens. Put in 8 oxygen, 2 plants and 3 fish. Shuffle the weather cards face down.  
   *Parent says:* This is our pond. It starts with 8 oxygen, 2 plants and 3 fish. We win if at least 2 fish are alive after 6 days.  
-  *Child mode:* Draw a pond. Put in 8 oxygen, 2 plants and 3 fish.
+  *Child mode:* Use a sheet of paper as your pond. Put in 8 oxygen, 2 plants and 3 fish.
   - Ask: What do you think will be the biggest danger to the fish? (good: Not enough sun.; The night.; Too many fish.)
   - Note: Do not correct any guess. Write the guess at the top of the pond diary and look at it again at the end. With 2 to 4 players, share the jobs: one turns the weather card, one keeps the oxygen, one keeps plants and fish, one writes the diary. Swap jobs each day. Cards and tokens take about 10 minutes to cut out before the first game; beads or dried beans work for oxygen.
 - **s2 (7 min)**  
@@ -321,13 +321,13 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 - **predict:** Before you start, guess. After one day, which jar will be the bluest? Which will be the pinkest? Why do you think so?
 - **fair test:** All four jars hold the same amount of the same cabbage water. Jars A, B and C get exactly the same breath, one minute each. Jars B and C get the same number of the same kind of leaf. Only the light changes between B and C, and only the leaves change between A and B. Jar D has no breath and no leaves, so it shows the starting colour. Any difference in colour then comes from the leaves and the light. One child blows into all three jars, so every jar gets the same breath.
 - **safety:** A grown-up pours the hot water. Blow out gently through the straw and never suck in, because the water is not for drinking. Stop and rest if you feel dizzy. Wash hands afterwards. Cabbage water stains clothes and fingers. Keep the jars where the sun is bright but the glass does not get hot to touch; hot water kills the plants. Wash the water plants first, and wash hands after touching pond plants.
-- **record:** Match each jar to the colour ladder and write its number. Photograph all four jars side by side on the white paper at the start and after one day. Colour in the table. Write your claim, your evidence and your reasoning.
+- **record:** Match each jar to the colour ladder and write its number. Photograph all four jars side by side on the white paper at the start and after one day. Write each number in the table. Write your claim, your evidence and your reasoning.
 - **results table:** Jar | What is in it | Colour after blowing, at the start | Colour after one day (ladder number, 1 blue to 5 pink) | Bluer or pinker than jar A?
 - **schedule:** day 1: Make the cabbage water. Blow into three jars. Add leaves. Wrap one jar in foil. Leave all four at the window. (38 min); day 2: Unwrap jar C. Compare the four colours side by side. Photograph them. Write the claim, evidence and reasoning. (14 min)
 - **s1 (5 min)**  
-  *Parent does:* Show the jars, the leaves and the cabbage. Ask for a guess and a reason. Write both at the top of the table.  
-  *Parent says:* We will blow our breath into cabbage water. Then we will put leaves in some jars. What do you think will happen? Why do you think so?  
-  *Child mode:* We will blow into cabbage water. Then we add leaves. What will happen? Why?
+  *Parent does:* Show the jars, the water plant and the cabbage. Ask for a guess and a reason. Write both at the top of the table.  
+  *Parent says:* We will blow our breath into cabbage water. Then we will put a water plant in two of the jars. What do you think will happen? Why do you think so?  
+  *Child mode:* Guess what the leaves will do to the water. Say why you think so.
   - Ask: What do you think the leaves will do to the water in the light, and in the dark? (good: In the light they will use up the breath.; The dark leaves will not do anything.; Leaves give out air.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write it down so you can look at it again at the end.
 - **s2 (12 min) · grown-up needed**  
@@ -350,9 +350,9 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
   - Note: Use fresh water plant of one kind. Weigh the two bunches, or judge them by eye, so that they are the same. Keep every jar full to the top with the lid on, because air above the water would change the result. With water plants the change often shows within 3 to 5 hours of sun, so peek in the afternoon. If the day is gloomy, leave them for two days. In very hot weather, move the jars to a bright but cooler spot.
   - Wait: Leave the jars for one day
 - **s5 (8 min)**  
-  *Parent does:* Unwrap jar C. Put all four jars side by side on the white paper. Match each to the colour ladder. Photograph them. Colour in the table.  
+  *Parent does:* The next day, unwrap jar C. Put all four jars side by side on the white paper. Make a colour ladder: fill 4 small cups with cabbage water. Add lemon juice to one, nothing to the second and third, and baking soda to the fourth. Number the cups 1 to 4 from pinkest to bluest. Match each jar to a cup. Photograph the jars. Write each jar's number in the table.  
   *Parent says:* Look at the four jars together. Which is the bluest? Which is the pinkest? What did you expect? What did you see?  
-  *Child mode:* Unwrap jar C. Look at all four jars. Which is the bluest? Which is the pinkest?
+  *Child mode:* Unwrap jar C. Put the four jars in a row, from the pinkest to the bluest.
   - Ask: What do you think the leaves in the light did to the breath? What did the leaves in the dark do? (good: The leaves in the light took the carbon dioxide out, so the water went bluer.; The leaves in the dark added carbon dioxide, so the water went pinker.; The light made the difference.)
   - Note: Make the colour ladder first, from spare cabbage water: put the same amount in 5 small cups and add 0, 1, 2, 3 and 4 drops of lemon juice or vinegar, so they go from blue to pink. Number the cups 1 (blue) to 5 (pink); jar D is about 1. Expected with water plant: jar D stays blue. Jar A stays pink-purple. Jar B is bluer than A. Jar C is pinker than A. The changes can be small, so judge side by side on white paper. If all jars look the same, the plants may be too few or the light too weak, or your water is hard. Leave them one more day, or repeat with more plant. With house-plant leaves, expect little or no change; that is also a real result, so write it down.
   - Think: Jar A had no leaves and stayed pink. What does that tell you about the colour change in B?
@@ -368,13 +368,13 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 - **predict:** Before you start, guess. Which jar will be the greenest after a week? Which will be the clearest? Why do you think so?
 - **fair test:** All three jars hold the same amount of the same water from the same source, with the same tiny pinch of fertiliser. They are the same kind of jar and are covered in the same way. Only the amount of light changes: sunny window, shady corner and dark cupboard. So any difference in the greenness comes from the light. With 2 to 4 children, each child owns one jar and does the same jobs, or the children share the jobs of filler, scorer and recorder.
 - **safety:** Do not drink the water. A grown-up measures the fertiliser, which must be kept away from eyes and mouth. Wash your hands after touching it. Cover every jar with cloth, because uncovered standing water can breed mosquitoes. When the test is over, pour the water on the soil of a plant, away from the house. Wash hands after touching pond or tank water.
-- **record:** On days 1, 3, 5 and 8, hold each jar in front of the white card with the cross. Give it a see-through score from 0 to 3. Draw the three jars on day 8.
+- **record:** On days 1, 3, 5 and 8, hold each jar in front of the white card with the cross. Give it a see-through score from 0 to 3. Photograph the three jars on day 8.
 - **results table:** Day | Jar A (sunny window): see-through score | Jar B (shady corner): see-through score | Jar C (dark cupboard): see-through score
 - **schedule:** day 1: Fill and set up the three jars. Give each jar its first see-through score. (20 min); day 3: Score the three jars. (5 min); day 5: Score the three jars. (5 min); day 8: Score the three jars, draw them, and write the claim, the evidence and the reasoning. (10 min)
 - **s1 (5 min)**  
   *Parent does:* Show the three jars and the water. Ask for a guess and a reason. Write the guess at the top of the table.  
   *Parent says:* Tiny green plants called algae live in pond water. We will give three jars different amounts of light. Which will turn greenest? Why?  
-  *Child mode:* We give three jars different amounts of light. Which jar turns greenest? Why?
+  *Child mode:* Guess which jar will turn the greenest.
   - Ask: Why do you think that jar will be the greenest? (good: It has the most light, and algae need light to grow.; The sun helps it.; The dark one will stay clear because nothing can grow.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (10 min)**  
@@ -396,9 +396,9 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
   - Ask: Which jar is changing first? Is that what you expected? (good: The jar in the sun is going green first.; Nothing has changed yet.; I did not expect the shade one to change.)
   - Note: Use the same card, the same spot and the same lighting to judge every jar every time. Take a photograph too. If nothing has changed by day 3, wait. In warm sunny weather the green is usually clear in about 5 to 8 days; in cool or cloudy weather it can take two weeks, so keep scoring every 2 days if you need to.
 - **s5 (7 min)**  
-  *Parent does:* On days 5 and 8, score the jars again. On day 8, draw all three jars side by side. Write your claim, evidence and reasoning.  
-  *Parent says:* Score the jars again. Draw all three side by side. Which is the greenest? What does light seem to do?  
-  *Child mode:* Score the jars. Draw them side by side. Which one is greenest?
+  *Parent does:* On days 5 and 8, score the jars again. On day 8, photograph all three jars side by side. Write your claim, evidence and reasoning.  
+  *Parent says:* Score the jars again. Photograph all three side by side. Which is the greenest? What does light seem to do?  
+  *Child mode:* Score the jars. Take a photo of all three side by side.
   - Ask: Why does light make a pond turn green? (good: The tiny plants use light to make food, so they grow and multiply.; Light helps the algae grow and they make the water green.; More light, more green things.)
   - Note: If all three jars stayed clear after 8 days, the water may have had no algae to start, or the weather was cool. That is a real result. Add a spoon of green pond water and begin again, or carry on to day 12. If all three went green, check whether the shade jar got more light than you thought.
   - Check: The jar in the dark stayed clear. What does that tell you about algae? → **They need light to grow and multiply**
@@ -413,7 +413,7 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 - **s1 (4 min)**  
   *Parent does:* Show the three glasses and the bowls. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* We will stand glasses of cold water in icy, cool and warm bowls. Which glass will get the most bubbles? Why do you think so?  
-  *Child mode:* Three glasses of cold water stand in an icy bowl, a cool bowl and a warm bowl. Which glass gets the most bubbles? Why?
+  *Child mode:* Guess which glass will get the most bubbles. Say why you think so.
   - Ask: Where do you think the bubbles will come from? (good: From the air in the water.; From the glass.; The warm water boils a little.)
   - Note: Do not correct the guess. Accept any reason.
 - **s2 (8 min) · grown-up needed**  
@@ -423,15 +423,15 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
   - Note: The warm bowl should feel like a pleasant bath, about 40 degrees Celsius. Pour all three glasses from the same jug at the same time. Do not shake the jug before pouring. With 2 to 4 children, give each child one glass and bowl to watch and score, and compare the scores at the end. In hot weather, tap water is already warm, so the cool bowl will be about room temperature, not cold.
   - Check: Why do we pour all three glasses from the same jug of fridge-cold water? → **So the water in every glass starts the same**
 - **s3 (10 min)**  
-  *Parent does:* Look at the glasses after 10 minutes with the magnifying glass. Score the bubbles from 0 to 5. Wait and score again at 30 minutes.  
-  *Parent says:* Look at the walls of each glass. Do you see tiny bubbles? Give each glass a score. Look again later and score again.  
-  *Child mode:* Look at each glass with the magnifier. Score the bubbles. Look again later.
+  *Parent does:* Look at the glasses after 10 minutes with the magnifying glass. Score the bubbles from 0 to 5. Score again after 30 minutes.  
+  *Parent says:* Look at the walls of each glass. Do you see tiny bubbles? Give each glass a score. Look again after 30 minutes and score again.  
+  *Child mode:* Look at each glass with the magnifier. Score the bubbles. Look again after 30 minutes.
   - Ask: Which glass has the most bubbles? What are the bubbles made of? (good: The warm one. They are air that came out of the water.; The bubbles are gas, like oxygen.; Air that was dissolved in the water.)
   - Note: Expected: the glass in the warm bowl grows tiny bubbles first and the most, the cool bowl a few, and the icy bowl the fewest or none. The glass in the cool bowl also warms up to room temperature, so it may get bubbles later. Bubbles are small. Look closely, with a magnifier or phone zoom, against a white sheet. If you see no difference, the water may have been too warm to start; repeat with water straight from the fridge, and make the icy bowl really icy.
 - **s4 (8 min)**  
   *Parent does:* Photograph the three glasses together. Write your claim, evidence and reasoning. Talk about what this means for a pond in hot weather.  
   *Parent says:* Which glass had the most air come out? What does that tell us about warm water? What could that mean for a fish pond in hot weather?  
-  *Child mode:* Which glass got the most bubbles? What does that tell us about warm water?
+  *Child mode:* Look at your photo of the three glasses. Point to the glass with the most bubbles.
   - Ask: If warm water holds less air, what might happen to the fish in a pond on a very hot night? (good: There is less oxygen for them.; They might gasp.; They use more oxygen because they are warm, and there is less to use.)
   - Check: In the test, the warm water grew more bubbles than the cold water. What does this show? → **Warm water holds less dissolved air**
   - Think: On a hot night, a pond has less oxygen to start with, and the fish and plants use oxygen faster. What would you do if you looked after the pond?
@@ -439,7 +439,7 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 ## Activities
 ### a1 · Stomata Prints: see the tiny doors in a leaf (25 min)
 - **safety:** A grown-up paints the nail polish, in a room with an open window, because the smell is strong. Keep it away from your face and from flames. Nail polish must never be swallowed or touched to the eyes. Nail polish catches fire easily, so keep any diya or match out of the room.
-- **record:** Draw what you see in the print. Count how many tiny mouth shapes fit in one small square of your view. Write which side of the leaf has more.
+- **record:** Count how many stomata fit in one view of the magnifier. Take a photo of the print. If you made a print from the top too, write which side has more.
 - **s1 (5 min)**  
   *Parent does:* Ask your child to guess how many holes a leaf has and where they are. Write the guess.  
   *Parent says:* A leaf must take in air. Where do you think the air goes in? How many holes do you think there are? Why do you think so?  
@@ -453,9 +453,9 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
   - Note: Open a window for the smell. Make the patch about the size of a coin. If the polish lifts off in a clean thin sheet, it has worked. If it tears, make a thicker coat. Repeat on the top of the leaf in a different spot. With 2 to 4 children, each child picks a different leaf and a grown-up paints one patch for each. Clear nail polish costs about Rs 30 at a general store.
   - Check: The polish print shows the shape of the leaf's skin. What does the polish do? → **It sets into the shape of the skin, like a mould**
 - **s3 (10 min)**  
-  *Parent does:* Stick the tape with the print on a slide. Look at it under the magnifier. Find the tiny lip-shaped pairs of cells. Draw what you see.  
-  *Parent says:* Look closely. Find the small pairs of curved cells with a gap between them. Each gap is a stoma. Can you count them?  
-  *Child mode:* Look through the magnifier. Find the tiny mouths. Draw what you see.
+  *Parent does:* Stick the tape with the print on a slide. Look at it under the magnifier. Find the tiny lip-shaped pairs of cells. Count how many you can see in one view. If you have time, make a second print from the top of the leaf and count again.  
+  *Parent says:* Look closely. Find the small pairs of curved cells with a gap between them. Each gap is a stoma, a tiny door for air. How many can you count?  
+  *Child mode:* Look through the magnifier. Find the curved pairs with a gap between them. Count them.
   - Ask: Why might a leaf need so many tiny holes, and not a few big ones? (good: So that air can reach every part of the leaf.; Small holes can close easily to save water.; Many small holes let in more air without letting out too much water.)
   - Note: A phone clip-on lens that magnifies about 60 times works best (optional, about Rs 250 to 500). A plain magnifying glass or phone zoom shows the print only as a faint pattern of cell outlines, and the stomata may not be clear. That is fine: record what you can see, then count the cell outlines instead of stomata, or look at the print under a school or friend's microscope.
   - Think: A leaf can close the stomata. What would be the cost of closing them on a very hot day?
@@ -465,7 +465,7 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 - **s1 (5 min)**  
   *Parent does:* Ask for a guess about how the two leaves will differ. Pick the leaves.  
   *Parent says:* One leaf grew in the sun and one in the shade. How will they be different? Why do you think so?  
-  *Child mode:* One leaf grew in the sun and one in the shade. How are they different? Why?
+  *Child mode:* Guess how the two leaves are different. Say why you think so.
   - Ask: Which leaf do you think will be bigger, and why? (good: The shade leaf, to catch more of the weak light.; The sun leaf, because it gets more food.; They will be the same.)
   - Note: Choose leaves of the same kind and about the same age. Do not correct any guess.
 - **s2 (12 min)**  
@@ -476,13 +476,13 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
   - Note: Expected: the shade leaf is usually larger, thinner and darker, and the sun leaf is smaller, thicker and a little paler. The differences may be small. Count a square only if more than half of it is inside the line. If the leaves look the same, try a different plant. For a fairer comparison, take three leaves from the sun and three from the shade and use the average (add the three areas and divide by 3). With 2 to 4 children, each child traces and counts one pair of leaves, then the group compares results.
   - Check: A shade leaf is often bigger, thinner and darker green than a sun leaf. Which is the best reason? → **It catches as much of the weak light as possible**
 - **s3 (8 min)**  
-  *Parent does:* Write your claim, evidence and reasoning. Say what the plant did to adapt to the light each leaf got.  
+  *Parent does:* Write your claim, evidence and reasoning. Say how the plant made each leaf to suit the light it got.  
   *Parent says:* What did you find? Why do you think the plant made leaves that are different on the same plant?  
-  *Child mode:* What did you find? Why are the leaves different on one plant?
+  *Child mode:* Say what is different about the two leaves. Then say why you think so.
   - Think: Each leaf grew in a different amount of light. Could a plant sense the light and change the kind of leaf they make? What does that tell you?
 ### a3 · From Air to Lamp Black: the carbon in a flame (20 min)
 - **safety:** A grown-up lights the diya and holds the spoon. Keep long hair tied back and loose sleeves away from the flame. Keep the bowl of water close. The spoon gets hot, so hold it with a cloth. Never leave a lit diya alone. Use coconut oil if anyone at home is allergic to sesame. Children watch from at least one metre away and never touch the spoon until it has cooled for a few minutes. Keep the diya on a steel plate on a steady table, away from curtains and paper.
-- **record:** Draw the diya, the spoon and the black patch. Write the chain: air, plant, oil, flame, soot.
+- **record:** Take a photo of the diya, the spoon and the black patch. Write the chain: air, plant, oil, flame, soot.
 - **s1 (5 min)**  
   *Parent does:* Show the diya and the oil. Ask where the oil came from. Write down the answers.  
   *Parent says:* This oil burns and gives light. Where did the oil come from? And where did the plant get what the oil is made of?  
@@ -490,15 +490,15 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
   - Ask: What is the oil made from? What do you think is in the flame? (good: It comes from sesame seeds or coconut.; The plant made it from sunlight and air.; The flame has heat and light.)
   - Note: Do not correct the answers. Sesame or coconut oil is pressed out of seeds or flesh that a plant made.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* A grown-up lights the diya. Hold a cold spoon in a cloth so its underside touches the yellow flame tip for 3 to 5 seconds. Rest it on the steel plate. Try again low in the blue part and compare.  
-  *Parent says:* Watch the spoon. A black patch is forming. It is soot, which is mostly carbon. The oil is made of carbon and a few other things, and the flame burns it. The soot is carbon that did not burn away. Where could that carbon have come from in the first place?  
+  *Parent does:* A grown-up lights the diya. Hold a cold spoon in a cloth so its underside touches the yellow flame tip for 3 to 5 seconds. Rest it on the steel plate. Try again low in the blue part and compare which patch is blacker.  
+  *Parent says:* Watch the spoon. A black patch is forming. It is soot, which is mostly carbon. The oil is made of carbon and a few other things, and the flame burns it. The soot is carbon that did not burn away.  
   *Child mode:* A grown-up lights the diya and holds the spoon. Look for black.
   - Note: Use a clean, cool spoon. The black soot forms on the underside of the spoon where it cools the yellow part of the flame, which has glowing bits of unburnt carbon. In the blue part near the wick there is plenty of air and the carbon burns away, so there should be much less soot. If the soot is faint, hold the spoon in the yellow tip a second longer. Take care that the spoon does not smother the flame.
   - Check: The black patch on the spoon is soot, mostly carbon. Where did that carbon come from, in the end? → **From carbon dioxide in the air, taken in by the plant**
 - **s3 (7 min)**  
-  *Parent does:* Let the spoon cool. Rub a little soot on white paper. Draw the chain from air to soot. Talk about candles and wax.  
-  *Parent says:* Let the spoon cool. Rub a little soot on the paper. This carbon was once in the air. Which plant took it in? How long ago?  
-  *Child mode:* Rub a little black on paper. This carbon was once in the air.
+  *Parent does:* Let the spoon cool. Rub a little soot on white paper. Write air, plant, oil, flame and soot on five slips of paper. Put the slips in order. Talk about candles and wax.  
+  *Parent says:* Let the spoon cool. Rub a little soot on the paper. This carbon was once in the air. A sesame plant took it in and made the oil. Put your five slips in order, from air to soot.  
+  *Child mode:* Rub a little black on paper. Put the five slips in order, from air to soot.
   - Ask: A candle is made from wax that usually comes from oil under the ground. How is its soot different from the diya's soot? (good: The candle's carbon is from very old plants and plankton.; The diya's carbon is from a plant that grew recently.; Both were once carbon dioxide in the air.)
   - Think: The diya's carbon was in the air last year. A candle's carbon was in the air millions of years ago. Is the flame the same?
 ### a4 · Your Breath, Counted: respiration you can feel (20 min)
@@ -511,10 +511,10 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
   - Ask: Why do you think we breathe faster when we move? (good: Our body needs more air.; Our muscles use more oxygen.; We are tired.)
   - Note: Do not correct the guess. Children at rest often take about 18 to 25 breaths a minute.
 - **s2 (10 min)**  
-  *Parent does:* Count breaths for one minute sitting. Do 30 jumps. Count for one minute. Rest 3 minutes. Count again. Write all three numbers.  
-  *Parent says:* Sit still for two minutes. Count each time your chest goes up. Do that for one minute. Then jump and count again.  
+  *Parent does:* Sit still for 2 minutes. Count breaths for one minute. Do 30 jumps. Count for one minute. Rest 3 minutes. Count again. Write all three numbers.  
+  *Parent says:* Sit still for two minutes. Then count each time your chest goes up for one minute. Now jump 30 times and count again for one minute. Rest, and count a third time.  
   *Child mode:* Sit still and count breaths for a minute. Then jump 30 times and count again.
-  - Ask: What changed after the jumps? Why? (good: We breathed faster, because the muscles needed more oxygen.; More respiration is happening in the muscles.; The body needed more energy.)
+  - Ask: What changed after the jumps? (good: We breathed faster, because the muscles needed more oxygen.; More respiration is happening in the muscles.; The body needed more energy.)
   - Note: Stop at once if your child feels dizzy or unwell. Count a breath each time the chest rises. Counting together is easier than counting alone. With 2 to 4 children, work in pairs: one counts, one is counted, then swap. Count while the child reads or looks away, because people breathe differently when they watch their own breath. A resting count differs from child to child, so there is no exact right number.
   - Check: Why do you breathe faster after jumping? → **Your cells are using more oxygen and making more carbon dioxide**
 - **s3 (5 min)**  
@@ -527,7 +527,7 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 - **s1 (5 min)**  
   *Parent does:* Show the table. Ask for a guess about the shape of the line. Write the guess.  
   *Parent says:* A pond is measured every three hours for a day and a night. What shape do you think the oxygen line will make? Why do you think so?  
-  *Child mode:* What shape will the oxygen line make over a day? Why?
+  *Child mode:* Guess the shape of the line. Say why you think so.
   - Ask: When do you think the oxygen will be highest, and when lowest? (good: Highest in the afternoon, lowest at dawn.; Highest at noon.; Lowest at night.)
   - Note: These are made-up numbers for practice, in milligrams of oxygen per litre of water. The table is: Time then sunny day then cloudy day. 6 am: 3.0, 2.8. 9 am: 4.5, 3.2. 12 noon: 7.0, 4.0. 3 pm: 9.0, 4.5. 6 pm: 8.0, 4.2. 9 pm: 6.5, 3.6. 12 midnight: 5.0, 3.0. 3 am: 3.8, 2.2. 6 am the next day: 2.8, 1.5.
 - **s2 (15 min)**  
@@ -548,7 +548,7 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 ## Projects
 ### p1 · Sealed Jar Garden: a garden that recycles its own air (40 min, 28 days)
 - **safety:** Wash your hands after touching the soil. If mould grows, a grown-up removes it and you do not sniff it. Keep the jar out of direct sun, because a closed jar in strong sun gets hot enough to cook the plants.
-- **record:** Draw the jar on days 1, 7, 14 and 28. Measure the tallest stem in centimetres each time. Write how many water drops there were, whether the plants grew, and anything that went wrong.
+- **record:** Take a photo of the jar on days 1, 7, 14 and 28. Measure the tallest stem in centimetres each time. Write how many water drops there were, whether the plants grew, and anything that went wrong.
 - **schedule:** day 1: Build the jar garden. Close the lid. Place it in bright light, out of direct sun. (40 min); day 2: Look for water drops on the glass. Draw the jar. (5 min); day 7: Look and draw. Note any new leaves, mould or wilting. (5 min); day 14: Look and draw. Compare with day 1. (5 min); day 28: Look, draw and write what the jar did without being opened for four weeks. (10 min)
 - **s1 (5 min)**  
   *Parent does:* Show the jar and plants. Ask what will happen to a sealed garden over four weeks. Write the guess.  
@@ -557,21 +557,21 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
   - Ask: Do you think the plants will live? What will they need from outside the jar? (good: They will die because they have no new air.; They need light, which comes through the glass.; They will live because they recycle the air and water.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. The jar needs light from outside, but no air and no water.
 - **s2 (20 min)**  
-  *Parent does:* Put pebbles in the jar, then soil about 6 centimetres deep. Plant the two plants. Spray lightly with water. Close the lid.  
+  *Parent does:* Put pebbles in the jar, then soil about 6 centimetres deep. Plant the two plants. Measure the tallest stem and write it down. Spray lightly with water. Close the lid.  
   *Parent says:* Put the pebbles in first. Add the soil. Plant the two plants gently. Spray the soil with water, just a little, and close the lid.  
   *Child mode:* Add pebbles, then soil. Plant two plants. Spray lightly. Close the lid.
   - Note: The soil should be damp, not wet. Water should not pool at the bottom. If water drips down the glass at the start, open the lid for an hour to let some out. Use plants that like moist air. Cacti and succulents will rot in a sealed jar. In the damp monsoon, mould grows easily, so spray very lightly and keep the soil a little drier. With 2 to 4 children, each builds a jar of their own, and one child can make a second jar with the lid left off and not watered, to compare with the sealed one.
   - Check: Why is the jar kept in bright light but out of direct sun? → **The plants need light, but a closed jar in strong sun gets too hot**
 - **s3 (5 min)**  
-  *Parent does:* Place the jar in bright light. On day 2, look for water drops on the glass and draw the jar.  
-  *Parent says:* Look at the inside of the glass. Do you see water drops? Where did they come from? Will they stay there?  
-  *Child mode:* Look for drops on the glass. Draw the jar.
+  *Parent does:* Place the jar in bright light, out of direct sun. On day 2, look for water drops on the glass and take a photo of the jar.  
+  *Parent says:* Look at the inside of the glass. Do you see water drops?  
+  *Child mode:* Look for drops on the glass. Take a photo of the jar.
   - Ask: Where did the water drops come from, and where will they go? (good: From the soil and the leaves. They rise as vapour and turn back into drops.; They will run down and water the plants again.; It's a little rain inside the jar.)
   - Wait: Look again on days 7, 14 and 28
 - **s4 (10 min)**  
-  *Parent does:* On day 28, compare your drawings. Write what the jar did. Do not open it before then, unless mould spreads.  
-  *Parent says:* Compare the drawings. What changed? What stayed the same? Where do you think the plants got air and water from?  
-  *Child mode:* Compare the drawings. What changed? What stayed the same?
+  *Parent does:* On day 28, compare your photos. Write what the jar did. Do not open it before then, unless mould spreads.  
+  *Parent says:* Compare the photos. What changed? What stayed the same? Where do you think the plants got air and water from?  
+  *Child mode:* Compare your photos. What changed? What stayed the same?
   - Ask: How did the plants breathe and drink for four weeks in a sealed jar? (good: They used the air in the jar over and over.; In light, they made oxygen and used carbon dioxide. At night and in the soil, the other way round.; The water went round and round.)
   - Note: Many sealed jars last for months. A man named David Latimer is reported to have planted a bottle garden in 1960, watered it once in 1972 and then sealed it, and the plants were said to be alive decades later. If mould grows, open the lid for a day and remove it. If the plants die, that is a result too. Ask which need was missing.
   - Think: The jar had plants and soil bacteria and fungi. What do you think each does in the air cycle?
@@ -586,7 +586,7 @@ A week later, the sun was strong at noon, and Anjana sat on a stone by the pond.
 - **s1 (5 min)**  
   *Parent does:* Read the problem and the price list. Ask your child to say what limits a plant on a dim day. Write down the answer.  
   *Parent says:* A plant grows only as fast as the lowest of the three levels: light, carbon dioxide and warmth. If one is low, does it help to raise the other two? Why do you think so?  
-  *Child mode:* A plant grows as fast as its lowest factor. Does raising the others help?
+  *Child mode:* Put the three cards in a row. Which factor do you think holds the plant back? Say why.
   - Ask: If light is level 1, would more carbon dioxide help? (good: No, because light is still the lowest.; Not by itself.; Only if light goes up too.)
 - **s2 (15 min)**  
   *Parent does:* Make two or three different plans. Add up the cost and find the growth for each. Write them in a table.  

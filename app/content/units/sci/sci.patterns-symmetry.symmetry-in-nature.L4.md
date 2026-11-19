@@ -273,13 +273,13 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   - Ask: What is the link between the number of equal sides and the number of ways? (good: The ways are double the sides.; A triangle has 3 sides and 6 ways. A square has 4 sides and 8 ways.; There are as many turns as sides, and as many flips as sides.)
 - **s4 (5 min)**  
   *Parent does:* Play on from card 13 while time allows. If you are short of time, jump to the letter F, the letter S, the fan and the hand. Talk about why their counts are low.  
-  *Parent says:* The letter F and the hand fit in only one way. The S fits in two. Why do these have so few ways?  
+  *Parent says:* The letter F and the hand fit in only one way. The S fits in two. The fan with twisted blades fits only by turning. Why so few ways?  
   *Child mode:* Look at the F, the S and the hand. Why do they have so few ways?
-  - Ask: Why does the fan with twisted blades have turns but no flips? (good: A flip would twist the blades the other way.; A flip makes the mirror twin, which is a different fan.)
+  - Ask: Why does the fan with twisted blades fit by turning but not by flipping? (good: A flip would twist the blades the other way.; A flip makes the mirror twin, which is a different fan.)
   - Note: The fan and the pinwheel are handed. A flip turns them into their mirror twins, which are different shapes. Handed shapes have turns only. Playing alone or with a parent, the reader and the player can be the same person. With 3 or 4 children, the reader changes after every card.
 - **s5 (2 min)**  
   *Parent does:* Add up the points and name the winner. Ask your child to make up a new card for the next game.  
-  *Parent says:* Who won? Make a card for the next game. Draw a shape, and work out its count first.  
+  *Parent says:* Who won? Make a card for the next game. Pick a shape, cut it out or draw it, and work out its count first.  
   *Child mode:* Add up your points. Make a new card with a shape of your own.
   - Check: A regular shape has 7 equal sides. How many ways does it fit back into its outline? → **14**
 
@@ -289,12 +289,12 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 - **predict:** Before you start, guess. How many ways will the square fit back into its outline? Which of the six shapes will have the most ways, and which the fewest? Why do you think so?
 - **fair test:** Every shape is cut from the same card and labelled the same way, with a letter at each corner on both the front and the back. You find the ways the same way each time, by turning and flipping until no new letter pattern appears. Only the shape changes, so differences in the count come from the shape. You check each count twice.
 - **safety:** A grown-up cuts the card and pushes the pin. Keep fingers behind the scissors. Put the pin back in its cushion or stick it in an eraser when done.
-- **record:** Fill in the table. For each shape, also write down one of the letter patterns you found, going round the outline from the star. Draw the outline of the square with the star and the letters.
+- **record:** Fill in the table. For each shape, also write down one of the letter patterns you found, going round the outline from the star. Draw the outline of the square with the star and the letters, or take a photo of it.
 - **results table:** Shape | Number of equal sides | My guess | Ways by turning only | Ways by turning and flipping
 - **s1 (4 min)**  
   *Parent does:* Show your child a card square and its outline. Ask them to guess how many ways it fits back. Write the guesses for all six shapes in the table.  
-  *Parent says:* Here is a square and its outline. How many different ways can it fit back in? Which of our six shapes will have the most ways? Which will have the fewest? Why do you think so?  
-  *Child mode:* Guess how many ways the square fits its outline. Which shape fits most ways? Why?
+  *Parent says:* Here is a square and its outline. One fit is one way to put the square back in exactly. How many different fits can it have? Which of our six shapes will have the most fits? Which will have the fewest?  
+  *Child mode:* Look at the square and its outline. Guess how many ways it fits back.
   - Ask: Which shape do you think has the most ways, and why? (good: The circle, because it looks the same however you turn it.; The square, because it has four equal sides.; The one with the most corners.)
   - Note: Do not correct the guesses. Any guess with a reason is a good start. Write them at the top of the table.
 - **s2 (8 min) · grown-up needed**  
@@ -322,8 +322,8 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   - Note: Expect: square 8, rectangle 4, equal-sided triangle 6, triangle with two equal sides 2, triangle with three different sides 1, circle endless. If a count looks wrong, check for a letter pattern counted twice, or a shape that did not fit properly. The triangle with three different sides has only the start pattern. With 2 to 4 children: one child turns and flips, one reads the letters from the star, and one writes them down. Swap roles for each shape. Each pair or group needs only one set of shapes, but a second child can cut a spare square to check the count on their own.
 - **s6 (5 min)**  
   *Parent does:* Look at the table. Ask your child what they found, which numbers show it, and why they think it happens. Ask them to look at the square and the triangle with three equal sides.  
-  *Parent says:* What did you find? What did you see in the numbers? Why do you think the count is the way it is? Look at the equal-sided shapes. What is the link between sides and ways?  
-  *Child mode:* What did you find? What numbers show it? Why does it happen?
+  *Parent says:* What did you find? Which numbers show it? Why do you think the count is the way it is?  
+  *Child mode:* Look at the table and the equal-sided shapes. Tell your grown-up what you notice.
   - Ask: What is the link between the number of equal sides and the number of ways? (good: The number of ways is double the number of sides.; The triangle has 3 sides and 6 ways. The square has 4 sides and 8 ways.; There are as many turns as sides and as many flips as sides.)
   - Note: A strong answer says: the equal-sided shapes have as many fits by turning as they have sides, and the same number again by flipping. So the count is double the number of sides. Shapes with unequal sides have fewer. A shape that is not the same as its mirror twin has no flip that fits.
   - Check: A shape with 5 equal sides and 5 equal angles fits back into its outline in how many ways? → **10**
@@ -332,12 +332,12 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 - **predict:** Before you start, guess. When you push the ends of a straight strip together, will the middle bend towards you, away from you, or sometimes each way? Will a curled strip behave differently? Why do you think so?
 - **fair test:** Use strips of the same card, the same length and the same width. Push slowly, with the same hands, in the same way each time. Do ten tries for each strip. Change only the strip. Flatten the strip between tries so the last bend does not set the next.
 - **safety:** Keep the strip away from your face and eyes when you push it. Push slowly. Fold over any sharp corner of card.
-- **record:** Make a tally mark in the table for every try. Draw one strip bent towards you and one bent away, seen from above, with the dot on the side facing you.
+- **record:** Make a tally mark in the table for every try. Draw one strip bent towards you and one bent away, seen from above, with the dot on the side facing you. Or take a photo of each.
 - **results table:** Strip | How it was prepared | Tries bent towards me | Tries bent away from me
 - **s1 (3 min)**  
   *Parent does:* Show the card, a strip and the pencil. Ask your child to guess and give a reason. Write the guess at the top of the table.  
   *Parent says:* We will push a straight strip from both ends, evenly. Which way will the middle bend, towards you or away from you? Will it be the same every time? Why do you think so?  
-  *Child mode:* Push a straight strip from both ends. Which way will it bend? Why?
+  *Child mode:* Hold a straight strip by its ends. Think about how the middle will bend.
   - Ask: Which way will a straight strip bend, and why? (good: It will bend either way, because both sides are the same.; It will go towards me, because I am pushing.; It will go the same way each time.)
   - Note: Do not correct the guess. Many children say it will go in any direction at random. Others say it must go straight. All guesses with a reason are good.
 - **s2 (4 min)**  
@@ -361,13 +361,13 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 - **s5 (3 min)**  
   *Parent does:* Take strip A again. Turn it over so the dot faces away from you. Push the ends together six times. Tally the bends.  
   *Parent says:* Now turn strip A over. The dot faces away from you. Does it bend towards you or away from you this time?  
-  *Child mode:* Turn strip A over. Push it six times. Does it bend the same way?
+  *Child mode:* Turn strip A over. Push it six times and tally each bend.
   - Ask: When you turned strip A over, did it bend the same way as before? (good: No, it bent the other way.; Yes, it still goes towards me.)
   - Note: If strip A bends the opposite way after turning over, its own hidden curve decided. If it still bends the same way, your hands or the way you stand may be deciding. Both are real results.
 - **s6 (5 min)**  
   *Parent does:* Look at the table. Ask your child what they found, which numbers show it, and why they think it happened. Then ask the question below.  
   *Parent says:* What did you find? What numbers show it? Why do you think a perfectly even push gave a lopsided bend? What decided which way?  
-  *Child mode:* What did you find? What numbers show it? What decided the bend?
+  *Child mode:* Look at your table. Tell your grown-up what the tallies show.
   - Ask: The push was the same at both ends. Why did the strip bend to one side? (good: The strip has a tiny curve that decides.; A tiny difference in the strip made it go one way.; It had to go one way, and the tiny curve picked it.)
   - Note: A strong answer uses the numbers: strip A mostly went one way, B and C went opposite ways every time, and turning A over changed its direction. The reasoning is that an even push has no side to favour, so a tiny difference in the strip does. Scientists call this symmetry breaking. Your child can use other words for it.
   - Check: You push a flat strip evenly from both ends and it bows towards the dot 8 times out of 10. What is the most likely reason? → **The strip has a tiny hidden curve that favours that side**
@@ -379,7 +379,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 - **s1 (4 min)**  
   *Parent does:* A grown-up cuts out an F stencil from card. Show your child the five moves with the stencil on the table. Ask them to say what each move does.  
   *Parent says:* This F can do five things. It can slide. It can flip over a line across the border. It can flip over a line along the border. It can turn halfway. It can glide, which is a flip and a slide together. What will a row of slid Fs look like?  
-  *Child mode:* The F can slide, flip, turn and glide. What will a row of slid Fs look like?
+  *Child mode:* Watch the grown-up show the five moves with the F. Say what each move does.
   - Ask: What will a border made by sliding the F look like? (good: The same F again and again, all facing the same way.; Like a row of the same picture.; Like a train.)
   - Note: Cut the F from stiff card so it can be traced many times. The F has no symmetry of its own. That makes every move easy to see.
 - **s2 (6 min)**  
@@ -410,7 +410,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 - **s1 (4 min)**  
   *Parent does:* Draw four angles on the sheet, all starting from the same corner point. Use 120, 90, 60 and 45 degrees. Ask your child to guess how many objects they will see at each angle.  
   *Parent says:* We will put one small object between two mirrors. How many objects will you see in all, counting the real one? Guess for 90 degrees, then 60, then 45. Why do you think so?  
-  *Child mode:* Guess how many objects you will see between two mirrors. Why?
+  *Child mode:* Look at the angles and the object. Make a guess for each angle.
   - Ask: How many objects will you see at 90 degrees, and why? (good: Two, one real and one in the mirror.; Four, because the mirrors also reflect each other.; More as the angle gets smaller.)
   - Note: Do not correct the guesses. Many children guess 2 for every angle. The answers are 3, 4, 6 and 8 for 120, 90, 60 and 45 degrees. Draw 90 degrees from the corner of the paper, 45 by folding that corner in half, 60 from the corner of the equal-sided card triangle, and 120 with a protractor (or by drawing two 60 degree angles side by side).
 - **s2 (4 min) · grown-up needed**  
@@ -447,7 +447,7 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 - **s1 (5 min)**  
   *Parent does:* Write the capital letters F, A, S, H, R and T big and dark on thin paper. Hold the paper up to a window. Look at each letter from the back. Sort the letters into 'looks the same from the back' and 'looks reversed'.  
   *Parent says:* Write each letter big and dark. Hold the page to the window and look from the back. Which letters look the same? Which look reversed?  
-  *Child mode:* Write six big letters. Look at them from the back. Which look the same?
+  *Child mode:* Write six big letters. Hold them up to the window and look from the back.
   - Ask: Which letters look the same from the back, and which look reversed? (good: A, H and T look the same.; F, S and R look reversed.)
   - Note: A, H and T look the same, because each has a line of symmetry. F, S and R look reversed. A letter that looks different from the back is handed in a flat drawing.
   - Check: A flat shape looks reversed when you see it from the back. What does that tell you? → **It has no line of symmetry, so it is handed**
@@ -471,11 +471,11 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   - Note: Most snail shells coil one way, so a shell that coils the other way is a rare find. For hair swirls, more people are clockwise than anticlockwise, but both are common. Both directions are normal in people. Report what you find. If you have no shell, search for a picture.
 ### a4 · A Tile That Tiles: cut a bump and slide it across (30 min)
 - **safety:** A grown-up helps younger children with the scissors.
-- **record:** Stick your finished tiling in your notebook. Draw the tile on its own. Write: which move did I use to make the tile, and which move did I use to cover the page?
+- **record:** Stick your finished tiling in your notebook. Draw the tile on its own, or stick the cut tile beside it. Write: which move did I use to make the tile, and which move did I use to cover the page?
 - **s1 (3 min)**  
   *Parent does:* Show your child the square. Ask whether a curvy shape cut from the square could still cover a page with no gaps.  
   *Parent says:* Squares cover a page with no gaps. If I change the shape of the square with a curvy cut, could it still cover a page with no gaps? Why do you think so?  
-  *Child mode:* Squares cover a page with no gaps. Will a curvy tile?
+  *Child mode:* Look at the square. Think about a curvy cut.
   - Ask: Do you think a curvy tile can still cover a page with no gaps? (good: Yes, if what I cut out goes back in somewhere.; No, curvy shapes leave gaps.; Maybe, if the bumps and dents match.)
   - Note: Do not correct the guess. Any guess with a reason is good. The trick is that the piece you cut away is added back on the opposite side.
 - **s2 (8 min)**  
@@ -490,35 +490,35 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
   - Check: Why does the curvy tile leave no gaps when you slide it? → **Every bump you cut off was added back as a matching bump on the opposite side**
 - **s4 (6 min)**  
   *Parent does:* Colour the tiles so they look like creatures. Add eyes, tails or wings.  
-  *Parent says:* Now make your tile a creature. What does the bump look like? A tail? A nose? Draw an eye.  
-  *Child mode:* Colour your tiles. Make them into creatures.
+  *Parent says:* Now make your tile a creature. What does the bump look like? A tail? A nose? Colour a few tiles, or just tell us what it looks like.  
+  *Child mode:* Turn your tile into a creature. Colour it, or tell what it looks like.
   - Ask: What creature did your tile become? (good: A bird.; A fish.; A dragon.)
   - Note: The artist M. C. Escher became famous for making tilings of birds, fish and lizards from tiles like this. He made many of them from simple shapes, cut and slid in the same way.
 - **s5 (3 min)**  
   *Parent does:* Count how many tiles covered your sheet. Compare with the number of plain 6 centimetre squares that would cover it (about 17 for a whole A4 sheet). Ask your child to say which move covered the page, and which move made the tile.  
   *Parent says:* How many tiles covered the sheet? About how many plain squares would it take? Which move did you use to make the tile from the square? Which move covered the page? What would a flip do instead?  
-  *Child mode:* Which move made the tile? Which move covered the page?
+  *Child mode:* Count your tiles. Think about which moves you used.
   - Ask: Which move covered the page, and which move made the tile? (good: Sliding covered the page and sliding the pieces made the tile.; Sliding for both.)
   - Note: Both moves are slides. A slide keeps every copy the same way up, so bumps and dents always meet. The count of tiles should be about the same as the count of squares, because the piece was moved, not thrown away. Edge tiles that run off the sheet make the count only approximate. With 2 to 4 children: each child cuts and tapes their own tile, then all tile one big sheet together, or swap tiles and try each other's.
 
 ## Projects
 ### p1 · The Symmetry Notebook: four days of finding (60 min, 4 days)
-- **record:** Four notebook pages, one for each day, with drawings and a sentence on each.
+- **record:** Four notebook pages, one for each day, with a drawing or photo and a sentence on each.
 - **schedule:** day 1: Find three things with a line of symmetry and one thing with none. Draw them with dotted lines. (15 min); day 2: Find one real border pattern at home or nearby and name the move that repeats it. (15 min); day 3: Find three handed things, and one thing that has a mirror twin you could buy. (15 min); day 4: Find one thing that is lopsided on purpose, and write how the lopsided part helps. (15 min)
 - **s1 (15 min)**  
-  *Parent does:* On day 1, find three things around you that have a line of symmetry. Draw each one and add a dotted line. Find one thing with no line of symmetry and draw it.  
+  *Parent does:* On day 1, find three things around you that have a line of symmetry. Draw each one and add a dotted line, or take a photo and show the line with your finger. Find one thing with no line of symmetry.  
   *Parent says:* Find three things with a line of symmetry. Draw them and add the dotted line. Find one thing with none. How do you test it?  
-  *Child mode:* Find three things with a mirror line. Draw each one. Add the line.
+  *Child mode:* Find three things with a mirror line. Show where the line goes.
   - Note: Each child keeps their own notebook. With 2 to 4 children, compare finds at the end of each day. Never touch live animals or pick up sharp tools while searching. Look and draw only.
 - **s2 (15 min)**  
-  *Parent does:* On day 2, find a real border pattern, such as a saree border, a tile edge or a carving in a picture. Draw one unit and an arrow showing how it repeats. Write the name of the move.  
-  *Parent says:* Find a border today. What is the unit that repeats? Does it slide, flip, turn or glide? Draw an arrow.  
-  *Child mode:* Find a border. What repeats? Draw an arrow. Name the move.
+  *Parent does:* On day 2, find a real border pattern, such as a saree border, a tile edge or a carving in a picture. Take a photo of one unit, or draw it. Show with your finger how it repeats. Write the name of the move.  
+  *Parent says:* Find a border today. What is the unit that repeats? Does it slide, flip, turn or glide?  
+  *Child mode:* Find a border. What repeats? Name the move.
   - Wait: Next day
 - **s3 (15 min)**  
   *Parent does:* On day 3, find three handed things, such as a left and right chappal, gloves or a jar lid. Write whether each one tightens or fits left or right. Find one pair that you can buy as left and right.  
   *Parent says:* Find three handed things today. How do you know they are handed? Can you buy the twin of each?  
-  *Child mode:* Find three things that come in a left and a right. Draw them.
+  *Child mode:* Find three things that come in a left and a right. Tell your grown-up how you can tell.
   - Wait: Next day
 - **s4 (15 min)**  
   *Parent does:* On day 4, find something lopsided on purpose. A heart, a spiral shell, a picture of a crab claw, or a pair of scissors all work. Only look: do not pick up live animals or sharp tools. Write how the lopsided part helps. Read all four pages to someone.  
@@ -537,8 +537,8 @@ Ayesha grinned. 'Start with Ammamma's tailor friends. I bet they have been cutti
 - **creative:** Make a badge with 2 symmetries that uses a half turn and no mirror line, like the letter S or a yin-yang symbol.; Make a badge with 4 symmetries using two mirror lines and a half turn, like a rectangle.; Make a badge with exactly 5 symmetries. Think about a fan with five twisted blades.
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Draw an 8 centimetre circle for each badge. Talk about the three badges needed first.  
-  *Parent says:* We need a badge with exactly three symmetries. What shapes have three turns but no flips? Think of a fan. Draw some ideas first.  
-  *Child mode:* Draw some ideas for a badge with exactly three symmetries.
+  *Parent says:* We need a badge with exactly three symmetries. What shapes have three turns but no flips? Think of a windmill with three blades. Try some ideas first.  
+  *Child mode:* Try ideas for a badge with exactly three symmetries. Sketch them, or arrange small things like leaves or coins in the circle.
   - Ask: What kind of shape has turns but no flips? (good: A fan with twisted blades.; A pinwheel.; A shape that looks different in a mirror.)
 - **s2 (10 min)**  
   *Parent does:* Draw a badge with exactly 3 symmetries. Draw one with exactly 2. Draw one with exactly 1.  

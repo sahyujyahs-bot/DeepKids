@@ -534,7 +534,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about frequency. Each card shows something that repeats, and you guess whether it repeats faster or slower than the card before.",
+   "context": "This is a card game about frequency. Each card shows something that repeats, and you guess whether it repeats faster or slower than the card before. You will see how wide the range is, from once a day to billions of times a second.",
    "setup": [
     {
      "art": "Twenty-four cards and eight tokens spread on a table, with a pile of cards face down and two cards laid side by side face up.",
@@ -692,7 +692,7 @@
      "mins": 4,
      "do": "Find the wall clock card and turn it over. Read both sides aloud: this is the anchor card. Then read the front of the card for the heart of a resting child, and let your child choose a token.",
      "say": "The clock card ticks once each second. The next card is the heart of a resting child. Does it beat faster or slower than the clock ticks? Choose a token and turn it over.",
-     "kid": "A clock ticks once a second. A child's heart beats about one and a half times a second. Faster or slower?",
+     "kid": "The clock card ticks once a second. Does the heart card repeat faster or slower? Choose a token.",
      "check": {
       "t": "mcq",
       "q": "A clock ticks once each second. A resting child's heart beats about 90 times each minute. Which repeats more often?",
@@ -748,8 +748,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Look at the line together. Ask the question below, and let your child answer before you say anything.",
-     "say": "Look at the line. Some things beat once a day. Some things beat billions of times a second. What do you notice about the cards at the fast end?",
-     "kid": "Look at the fast end of the line. What kinds of things are there?",
+     "say": "Look at the line. Some things beat once a day. Some things beat billions of times a second.",
+     "kid": "Look closely at the cards at the fast end of the line.",
      "ask": [
       {
        "q": "What kinds of things are at the fast end of the line?",
@@ -829,7 +829,7 @@
      "mins": 5,
      "do": "Show your child the washer, the thread and the stopwatch. Ask for a guess and a reason for each of the three things. Write the guesses in the table.",
      "say": "We will hang a washer on a thread. Three things might change how long it takes to swing: a longer thread, a heavier washer, or a wider swing. For each one, will the swing take more time, less time or the same? Why do you think so?",
-     "kid": "A washer on a thread. Will a longer thread, a heavier washer or a wider swing change the time? Why?",
+     "kid": "Look at the washer and thread. Guess what could change the swing time: the length, the weight, or the width.",
      "ask": [
       {
        "q": "Will a wider swing take longer? Why do you think so?",
@@ -1209,7 +1209,7 @@
    "title": "Hertz Hunt: how often does it happen?",
    "mins": 15,
    "days": 1,
-   "context": "This is a short activity to start the unit. You count how often a few things repeat, and turn each count into a number each second.",
+   "context": "This is a short activity to start the unit. You count how often your pulse, breath and steps repeat, and turn each count into a number each second. That number is called hertz. You will find out which repeats most often.",
    "materials": [
     {
      "item": "a phone with a stopwatch, or a clock with a seconds hand",
@@ -1324,7 +1324,7 @@
      "qty": 1
     },
     {
-     "item": "a coloured pen to mark the gaps",
+     "item": "a handful of dal grains, beads or buttons, and a coloured pen to mark the gaps",
      "qty": 1
     },
     {
@@ -1339,14 +1339,14 @@
      "what": "Colour three grids. Change the beat in the second and the speed in the third. Measure the gap between coloured squares in each."
     }
    ],
-   "record": "Three coloured grids. Under each, write the beat, the speed and the gap between coloured squares in a row.",
+   "record": "Your coloured grid, and your grain lines. For each of the three tries, write the beat, the speed and the gap between crests.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
-     "do": "Draw a grid with 12 columns and 12 rows. Number the rows 1 to 12 down the side. Each row is one beat of time. The columns are places along a line.",
+     "do": "On squared paper, mark a block 12 squares across and 12 squares down. Number the rows 1 to 12 down the side. Each row is one beat of time. The columns are places along a line.",
      "say": "This grid shows a line of 12 places. Each row down is one beat of time. A wave-maker stands at the left end, and we will see what the wave does as the beats go by.",
-     "kid": "Draw a grid. 12 columns across. 12 rows down. Number the rows.",
+     "kid": "Mark 12 squares across and 12 down. Number the rows.",
      "context": "This is the first step of the Wave Grid. You make the grid."
     },
     {
@@ -1372,19 +1372,19 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw a second grid. As in the first grid, copy each row from the row above and slide every colour one square to the right. This time, colour the left square every second row. Measure the gap between coloured squares in one row.",
-     "say": "The wave-maker now beats twice as often, every second row. Before you colour, guess. Will the coloured squares be closer together or further apart? Why do you think so?",
-     "kid": "This time, colour the left square every 2nd row. Guess the gap first.",
+     "do": "Do not draw again. Use a line of 12 squares and dal grains, beads or buttons as crests. Each beat, slide every grain one square to the right. This time, add a new grain at the left every second beat. Do 8 beats. Measure the gap between grains.",
+     "say": "The wave-maker now beats twice as often, every second row. Before you start, guess. Will the grains be closer together or further apart? Why do you think so?",
+     "kid": "Slide the grains one square each beat. Add a new grain every 2nd beat. Guess the gap first.",
      "parent": "The coloured squares are now 2 squares apart. A faster beat with the same speed gives a shorter wavelength. This matches Tap Faster, where faster taps gave ripples that were closer together.",
      "context": "In this step, you make the wave-maker beat twice as fast, and see what happens to the gap."
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "Draw a third grid, 16 squares wide and 12 rows down. Slide each row two squares to the right instead of one. Colour the left square in rows 1, 5 and 9, as in the first grid. Measure the gap between coloured squares in the lower rows.",
-     "say": "Now the wave moves faster, two places each beat. The wave-maker beats every 4 rows, as before. Guess the gap before you colour. Closer, further, or the same?",
-     "kid": "Slide two squares each row. Colour the left square every 4th row. Guess the gap.",
-     "parent": "The coloured squares are now 8 apart. A faster wave with the same beat gives a longer wavelength. The gap is the speed (2 squares each beat) times the 4 beats between crests. This is the rule: wavelength is speed times the time between beats. The third grid needs 16 columns so that two crests are on the page together. With 2 to 4 children, each draws one grid and the group compares; alone with a parent, take turns colouring a row each.",
+     "do": "Use a line of 16 squares and grains again. Slide every grain two squares to the right each beat. Add a new grain at the left on beats 1, 5 and 9, as in the first grid. Do 10 beats. Measure the gap between grains.",
+     "say": "Now the wave moves faster, two places each beat. The wave-maker beats every 4 rows, as before. Guess the gap before you start. Closer, further, or the same?",
+     "kid": "Slide the grains two squares each beat. Add a new grain every 4th beat. Guess the gap.",
+     "parent": "The coloured squares are now 8 apart. A faster wave with the same beat gives a longer wavelength. The gap is the speed (2 squares each beat) times the 4 beats between crests. This is the rule: wavelength is speed times the time between beats. The third grid needs 16 columns so that two crests are on the page together. With 2 to 4 children, each does one try and the group compares. Alone with a parent, take turns moving the grains.",
      "check": {
       "t": "mcq",
       "q": "A wave moves 2 squares each beat, and the source makes a crest every 3 beats. How far apart will the crests be?",
@@ -1447,7 +1447,7 @@
      "what": "Shine light on the shiny side of a CD to make a rainbow on a wall. Name the colours in order. Match each colour to a wavelength."
     }
    ],
-   "record": "Draw the rainbow in order. Write 'longest waves' under the red end and 'shortest waves' under the violet end.",
+   "record": "Draw the rainbow in order, or say the colours in order to your grown-up. Write 'longest waves' under the red end and 'shortest waves' under the violet end.",
    "flow": [
     {
      "id": "s1",
@@ -1471,7 +1471,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Write down the colours in order along the band, starting from the end nearest the bright spot of reflected light. Measure the width of the band on the wall. Then move back so the CD is twice as far from the wall, and measure the band again. If it is sunny, you can also let a beam of sunshine pass through a glass of water onto white paper, and move the glass until a rainbow appears.",
+     "do": "Write down the colours in order along the band. If it is sunny, try this too. Let a beam of sunshine pass through a glass of water onto white paper. Move the glass until a rainbow appears.",
      "say": "Say the colours in order: red, orange, yellow, green, blue, violet. Red has the longest waves, about 700 nanometres. Violet has the shortest, about 400 nanometres.",
      "kid": "Say the colours in order. Red has the longest waves. Violet has the shortest.",
      "parent": "A nanometre is a billionth of a metre. A hair is about a hundred times wider than a red light wave. The glass of water works best when a beam of sunshine passes through it onto a white paper. Move the glass until a rainbow appears. On a CD, red is the end furthest from the bright spot, because longer waves spread out more; a prism or a raindrop does the opposite. The band should be about twice as wide when the wall is twice as far away, because light travels in straight lines. The glass of water often fails: it needs strong, low sunshine and some luck, so do not worry if nothing appears.",
@@ -1641,14 +1641,14 @@
      "what": "Drop a marble from 5, 20 and 40 centimetres. Watch how tall the first ring is and how far it spreads before it fades."
     }
    ],
-   "record": "Draw the rings for each drop height. Mark where each ring seemed to fade away.",
+   "record": "For each drop height, write how many rings you saw and how far the last one reached. You can also take a photo of each.",
    "flow": [
     {
      "id": "s1",
      "mins": 3,
      "do": "Put the bowl on a dark cloth on a flat table. Let the water go still. Ask your child to guess what will happen to a ring as it spreads, and why.",
      "say": "A marble will make a ring of ripples. As the ring spreads out, will it get taller, lower or stay the same? Why do you think so?",
-     "kid": "Drop a marble. Will the ring get taller, lower or stay the same? Why?",
+     "kid": "Look at the still water. A marble will make a ring of ripples. Guess what the ring will do as it spreads.",
      "ask": [
       {
        "q": "Why do you think the ring will change as it spreads?",
@@ -1665,7 +1665,7 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Hold the marble 20 centimetres above the middle of the water. Let it go. Watch the ring spread, and count how many rings you can see. Lay a ruler beside the bowl and note how far from the splash the last ring can still be seen. Draw it. Then drop from 5 centimetres and from 40 centimetres, and do the same. Repeat each height twice.",
+     "do": "Hold the marble 20 centimetres above the middle of the water. Let it go. Watch the ring spread, and count how many rings you can see. Lay a ruler beside the bowl and note how far from the splash the last ring can still be seen. Write the count and the distance in your table. Then drop from 5 centimetres and from 40 centimetres, and do the same. Repeat each height twice.",
      "say": "Drop the marble from 20 centimetres and watch the first ring closely. Then drop from 5 centimetres, and from 40. What changes about the ring?",
      "kid": "Drop from 20 centimetres. Watch the ring. Then drop from 5 and 40.",
      "parent": "A higher drop gives a taller ring that spreads further before it fades. Every ring gets lower as it spreads. If the dark cloth under a clear bowl is not enough, shine a torch from the side. Wipe up any splashes. In a small thali the ring reaches the rim in under a second and bounces back, which muddles the result; a big tray or the Tap Faster tray is better. Shine a torch from the side in a dim room. A phone slow-motion video helps a lot. With 2 to 4 children: one drops, one holds the ruler and torch, one films, one draws and counts.",
@@ -1680,14 +1680,14 @@
       "a": 0,
       "why": "The same energy is spread over a ring that grows longer all the time, so each little piece of it has less, and the ring is lower. A small part also turns into a tiny amount of heat. If you picked the marble, remember that it stopped on the bottom as soon as the ring left."
      },
-     "context": "In this step, you drop the marble from three heights and draw the rings."
+     "context": "In this step, you drop the marble from three heights and count the rings."
     },
     {
      "id": "s3",
      "mins": 4,
-     "do": "Compare your three drawings. Ask which ring was tallest at the start, and which went furthest before fading.",
-     "say": "Look at your three drawings. Which drop made the tallest first ring? Which ring went the furthest? What does the height tell you about the energy?",
-     "kid": "Compare the drawings. Which ring was tallest? Which went furthest?",
+     "do": "Compare your three counts and distances. Ask which ring was tallest at the start, and which went furthest before fading.",
+     "say": "Look at your three results. Which drop made the tallest first ring? Which ring went the furthest? What does the height tell you about the energy?",
+     "kid": "Compare your numbers. Which ring was tallest? Which went furthest?",
      "think": "A higher drop gave a taller ring. What do you think that tells us about the energy it carried?",
      "parent": "A higher drop gives the marble more energy, and the tall ring carries more of it. Amplitude is the height of a wave above its rest level, and it tells you the energy of the wave."
     }
@@ -1699,7 +1699,7 @@
     },
     {
      "art": "Three bowls in a row with rings: a small ring from a 5 centimetre drop, a larger ring from 20, and the largest from 40.",
-     "caption": "2. Drop from three heights and draw the rings."
+     "caption": "2. Drop from three heights and count the rings."
     }
    ]
   },
@@ -1751,7 +1751,7 @@
      "mins": 4,
      "do": "Hang the pendulum so it is still. Ask your child to guess whether many small taps will make a big swing, and whether it matters when they tap.",
      "say": "We have a still pendulum. We will tap it with one finger, very lightly. If we tap it many times, will it swing wide? Does it matter when we tap? Why do you think so?",
-     "kid": "Tap the still washer many times. Will it swing wide? Does timing matter? Why?",
+     "kid": "Look at the still washer. If you tap it many times, will it swing wide? Does the timing of the taps matter?",
      "ask": [
       {
        "q": "Why do you think the timing of the taps matters, or does not matter?",
@@ -1919,7 +1919,7 @@
      "mins": 6,
      "do": "Draw a line graph. Put depth along the bottom and speed up the side. Plot the three points and join them. Ask your child what the graph shows.",
      "say": "Draw a graph with depth along the bottom and speed up the side. Put a dot for each depth and join the dots. What does the line do as the water gets deeper?",
-     "kid": "Draw the graph. Depth along the bottom. Speed up the side. Join the dots.",
+     "kid": "Draw the graph, or lay three pencils side by side, one for each speed. Depth goes along the bottom. Speed goes up the side.",
      "check": {
       "t": "mcq",
       "q": "In your graph, the line rises as the depth increases. What does this say about ripples?",
@@ -1984,7 +1984,7 @@
     "Make a metronome from a ruler hung from a pin: tape a weight near the bottom, and slide it up or down the ruler to change the beat.",
     "Build a pendulum that swings once every two seconds. Start from the 25 centimetre one and change the thread until you find how long it must be."
    ],
-   "your_turn": "Sketch your pendulum. Predict the length you need. Build it and test it. If 30 swings take more than 30 seconds, make the thread shorter. If less, make it longer. How close can you get?",
+   "your_turn": "Sketch your pendulum, or tell your plan to your grown-up. Predict the length you need. Build it and test it. If 30 swings take more than 30 seconds, make the thread shorter. If less, make it longer. How close can you get?",
    "setup": [
     {
      "art": "A child sketching a pendulum with a length arrow and a guess of 25 centimetres written beside it.",
@@ -2003,9 +2003,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Look at the results from Counting Swings. Ask your child to guess the length and draw a sketch.",
-     "say": "We need 30 swings in 30 seconds. That is one swing each second. Which length gave about one swing each second in Counting Swings? Draw your pendulum and write your guess.",
-     "kid": "You need one swing each second. Which length was that? Draw your plan.",
+     "do": "Read the problem together. Look at the results from Counting Swings. Ask your child to guess the length. They can draw a plan or just tell you.",
+     "say": "We need 30 swings in 30 seconds. That is one swing each second. Which length gave about one swing each second in Counting Swings? Draw your pendulum or tell me your plan, and say your guess.",
+     "kid": "You need one swing each second. Which length was that? Draw your plan, or tell your grown-up.",
      "ask": [
       {
        "q": "What length do you think you will need?",

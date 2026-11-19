@@ -691,7 +691,7 @@
      "mins": 8,
      "do": "Play the game. After each turn with the thing cards, take a question card.",
      "say": "Your turn. Take two cards. Which needs more heat to warm by one degree? Why do you think so? Which would warm by more degrees from the same heat?",
-     "kid": "Take two cards. Which needs more heat for each degree? Why?",
+     "kid": "Take two cards. Pick the one you think needs more heat for each degree.",
      "ask": [
       {
        "q": "Why does a bucket of water need so much more heat than a cup of water?",
@@ -789,7 +789,7 @@
      "what": "Guess. Measure the oil and the water. Make the bath. Read both every 3 minutes for 12 minutes. Draw the graph and say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table. Then draw two lines on one graph, one for the oil and one for the water, with time along the bottom. Write how many degrees each one rose in 12 minutes.",
+   "record": "Fill in the table. Then draw two lines on one graph, one for the oil and one for the water, with time along the bottom, or just tell your grown-up which rose more. Write how many degrees each one rose in 12 minutes.",
    "context": "In this experiment, you put a tumbler of oil and a tumbler of water in the same hot bath. You find out which warms up more, and by how much.",
    "setup": [
     {
@@ -811,7 +811,7 @@
      "mins": 4,
      "do": "Show your child the two tumblers, the oil, the water and the thermometers. Ask for a guess and a reason. Write both down at the top of the table.",
      "say": "We will put one tumbler of oil and one of water in the same hot bath. After 12 minutes, which will have warmed up more? Why do you think so?",
-     "kid": "A tumbler of oil and a tumbler of water stand in the same hot bath. Which warms more? Why do you think so?",
+     "kid": "Guess which tumbler will warm more. Then say why you think so.",
      "ask": [
       {
        "q": "Why do you think that one will warm up more?",
@@ -879,9 +879,9 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Draw a line graph with two lines. Then ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Draw a line graph with two lines, or just point to the line that rose more. Then ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Draw two lines on one graph. Then say what I think, what I saw, and why.",
+     "kid": "Draw two lines on one graph, or point to the line that rose more. Then say what I think, what I saw, and why.",
      "parent": "This is called claim, evidence and reasoning. A good answer sounds like this. What I think: oil warms about twice as fast as water in the same bath. What I saw: the oil rose from 29 to 60, and the water from 29 to 47. Why: water needs about twice as much heat as oil for each degree, so the same heat warms the oil by more degrees.",
      "check": {
       "t": "mcq",
@@ -947,7 +947,7 @@
      "what": "Guess. Make the hot katori and the warm bowl. Add the ice. Count the cubes left at 5 and 10 minutes."
     }
    ],
-   "record": "Write the temperature of each container at the start and at the end. Write how many cubes were left at 5 and 10 minutes. Draw each container with the cubes left.",
+   "record": "Write the temperature of each container at the start and at the end. Write how many cubes were left at 5 and 10 minutes. Take a photo of each container with the cubes left, or draw them.",
    "context": "In this experiment, you add the same ice to a small katori of hot water and to a big bowl of warm water, and find which one melts more.",
    "setup": [
     {
@@ -969,7 +969,7 @@
      "mins": 3,
      "do": "Show your child the katori, the bowl and the ice. Explain that the katori will hold hotter water and the bowl will hold cooler water. Ask for a guess and a reason. Write both down.",
      "say": "A small katori will hold hot water. A big bowl will hold warm water, but cooler than the katori. We will drop the same ice in both. Which will melt more? Why?",
-     "kid": "A small katori holds very hot water. A big bowl holds warm water. Which melts more ice? Why?",
+     "kid": "Guess which one will melt more ice. Then say why you think so.",
      "ask": [
       {
        "q": "Why do you think that one will melt more ice?",
@@ -997,7 +997,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Take 12 ice cubes from the same tray. Let them stand on a plate for 2 minutes, so the surface starts to melt. Then put 6 in the katori and 6 in the bowl at the same moment. Start the timer.",
-     "say": "Six cubes in each, at the same moment. Why do we use the same number of cubes, from the same tray?",
+     "say": "Six cubes in each, at the same moment, all from the same tray.",
      "kid": "Put six ice cubes in each. Start the timer.",
      "parent": "Standing the cubes for 2 minutes lets them reach about 0 degrees, rather than the freezer's minus 18. If the cubes are tiny and all melt in both containers, repeat with 12 cubes in each. Home ice trays make cubes from about 15 to 25 grams. Six cubes is then 90 to 150 grams, more than the katori can melt (about 75 grams) and less than the bowl can melt (about 500 grams).",
      "check": {
@@ -1017,7 +1017,7 @@
      "id": "s4",
      "mins": 9,
      "do": "Stir both gently with a spoon. At 5 minutes and at 10 minutes, count the ice cubes still floating, big or small, and write the numbers. At 10 minutes, read both temperatures.",
-     "say": "Stir gently. How many cubes are left now? How many are left in the bowl? What is happening to each temperature?",
+     "say": "Stir gently. How many cubes are left in the katori? How many in the bowl? What is happening to each temperature?",
      "kid": "Stir. Count the cubes left. Read the temperatures. Write them down.",
      "parent": "A typical result: after 10 minutes the katori still has two to four pieces floating, and reads about 0 to 3 degrees. The bowl has no ice, and reads about 25 to 30 degrees (the numbers depend on your cube size). The katori has too little heat to melt all its ice, even though it started hotter. If the katori melts all the ice too, add 4 more cubes to each and repeat.",
      "check": {
@@ -1103,7 +1103,7 @@
      "what": "Guess. Crack the ice. Stand the tumbler in the bath. Read it every 2 minutes for 24 minutes, or longer if ice is still left. Draw the graph and say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table. Then draw a line graph with time along the bottom and temperature up the side. Circle the flat part, and write when the last ice melted.",
+   "record": "Fill in the table. Then draw a line graph with time along the bottom and temperature up the side, and circle the flat part. Or point to the flat part in your numbers. Write when the last ice melted.",
    "context": "In this experiment, you watch a thermometer in melting ice. The warm bath keeps giving heat, and you see what happens to the temperature.",
    "setup": [
     {
@@ -1125,7 +1125,7 @@
      "mins": 4,
      "do": "Show your child the ice, the thermometer and the bath. Ask for a guess and a reason. Write both down.",
      "say": "We will stand a tumbler of ice in warm water. Heat will keep flowing into the ice. What will the thermometer do? Why do you think so?",
-     "kid": "Warm water gives heat to the ice. What will the thermometer do? Why?",
+     "kid": "Guess what the thermometer will do. Then say why you think so.",
      "ask": [
       {
        "q": "Why do you think the thermometer will do that?",
@@ -1182,9 +1182,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Draw a line graph. Circle the flat part. Then ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
+     "do": "Draw a line graph and circle the flat part, or point to the flat part in the numbers. Then ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Draw the graph. Circle the flat part. Say what I think, what I saw, and why.",
+     "kid": "Draw the graph, or point to the flat part. Say what I think, what I saw, and why.",
      "parent": "A good answer sounds like this. What I think: while ice melts, heat goes in but the temperature stays at zero. What I saw: the reading stayed at 0 for about 12 minutes, and then rose quickly after the last ice melted. Why: the heat was used to melt the ice, and only when the ice was gone could the heat make the water warmer.",
      "check": {
       "t": "mcq",
@@ -1239,7 +1239,7 @@
      "what": "Guess. Fit the balloon. Stand the bottle in hot water, then in ice water. Measure the balloon each time."
     }
    ],
-   "record": "Draw the bottle and balloon three times: at the start, in hot water and in ice water. Write the measurement round the balloon under each drawing.",
+   "record": "Make a table with three rows: at the start, in hot water and in ice water. Write the measurement round the balloon in each row. Take a photo of the balloon each time, if you like.",
    "context": "In this activity, you fit a balloon on a bottle and stand the bottle in hot water and then in ice water. You find out what happens to the air inside.",
    "setup": [
     {
@@ -1261,7 +1261,7 @@
      "mins": 4,
      "do": "Show your child the bottle, the balloon and the two basins. Ask for a guess about the hot water and the ice water, with a reason. Write both down.",
      "say": "The balloon sits on the bottle. We stand the bottle in hot water. What will the balloon do? Then we stand it in ice water. What will it do? Why?",
-     "kid": "A balloon sits on a bottle. The bottle stands in hot water, then in ice water. What happens to the balloon each time? Why?",
+     "kid": "Guess what the balloon will do in hot and in ice water. Say why.",
      "ask": [
       {
        "q": "Why do you think the balloon will do that?",
@@ -1279,7 +1279,7 @@
      "id": "a1s2",
      "mins": 6,
      "do": "Fit the balloon over the mouth of the empty bottle. Wrap a string round the widest part of the balloon, and measure the string with a ruler. Write it down as the start.",
-     "say": "The bottle looks empty, but it is full of air. The balloon seals the air inside. Measure round the balloon. What does the string measure?",
+     "say": "The bottle looks empty, but it is full of air. The balloon seals the air inside. Let's measure round the balloon.",
      "kid": "Fit the balloon on the bottle. Measure round it. Write the number.",
      "parent": "The balloon will be flat, so the string measure is small, a few centimetres. The balloon must fit tightly. If you can hear air hissing out, press the neck of the balloon down or use another balloon.",
      "context": "In this step, you fit the balloon on the bottle and measure it."
@@ -1288,7 +1288,7 @@
      "id": "a1s3",
      "mins": 8,
      "do": "A grown-up pours hot water into a basin, deep enough to come up to the bottle's shoulder, about 10 centimetres. The empty bottle floats, so stand it in the water and hold it down by its neck. Watch the balloon for 3 to 4 minutes. Then measure round the balloon again.",
-     "say": "Watch the balloon. What is it doing? Is the bottle leaking? Where is the air coming from?",
+     "say": "Watch the balloon. What is it doing?",
      "kid": "A grown-up pours the hot water. Stand the bottle in it. Watch the balloon.",
      "adult": true,
      "parent": "Expect the balloon to swell slowly to about the size of a small lime, and the string measure to climb by 4 to 10 centimetres (these numbers are rough; a soft, well-stretched balloon swells more). The balloon has to stretch before it starts, so the first minute can look slow. If nothing happens, the balloon may be too stiff or leaking: stretch it more, check it fits tightly, and make sure the water comes high up the bottle.",
@@ -1379,7 +1379,7 @@
      "mins": 4,
      "do": "Ask your child to rub both palms together hard for 20 seconds, then stop and press them to their cheeks. Ask where the warmth came from.",
      "say": "Rub your hands together hard for 20 seconds. Then press them on your cheeks. How warm are they? Where did that warmth come from?",
-     "kid": "Rub your hands hard for 20 seconds. Press them to your cheeks. Are they warm?",
+     "kid": "Rub your hands hard for 20 seconds. Press them to your cheeks.",
      "ask": [
       {
        "q": "Where did the warmth come from?",
@@ -1396,7 +1396,7 @@
     {
      "id": "a2s2",
      "mins": 7,
-     "do": "A grown-up watches. First bend a clip back and forth 5 times and touch the bend lightly to the upper lip or wrist. Then use a fresh clip, bend it 15 times, quickly, away from the face, and touch the bend again. Compare it with a part of the clip that was not bent.",
+     "do": "A grown-up watches. Bend a clip back and forth 15 times, quickly, away from the face. Then touch the bend lightly to the upper lip or wrist. Compare it with a part of the clip that was not bent.",
      "say": "Bend the clip back and forth, 15 times, fast. Then touch the bend to your lip, only lightly. Now touch a part you did not bend. What do you notice?",
      "kid": "A grown-up watches. Bend the clip 15 times. Touch the bend lightly to your lip.",
      "adult": true,
@@ -1492,7 +1492,7 @@
      "mins": 4,
      "do": "Ask your child to feel a bit of wet cloth on the back of the hand, then blow on it. Ask for a guess about the thermometers, with a reason. Write it down.",
      "say": "Put a wet cloth on your hand and blow on it. It feels cool. Now we wrap one thermometer in wet cloth and another in dry cloth. Which will read lower? Why?",
-     "kid": "One thermometer has a wet cloth round it. The other has a dry cloth. Which reads lower? Why?",
+     "kid": "Guess which thermometer will read lower. Then say why you think so.",
      "ask": [
       {
        "q": "Why do you think that one will read lower?",
@@ -1510,7 +1510,7 @@
      "id": "a3s2",
      "mins": 6,
      "do": "Read both thermometers in the air in a shady spot, and write the starting numbers. They should match. Dip one strip of cloth in tap water and squeeze it so it does not drip. Tie it round one bulb with a rubber band. Tie a dry strip round the other bulb.",
-     "say": "First we check that both thermometers agree in the air. Then one gets a wet jacket and one gets a dry jacket. Why does the other one get a dry jacket?",
+     "say": "First we check that both thermometers agree in the air. Then one gets a wet jacket and one gets a dry jacket.",
      "kid": "Read both thermometers. Tie a wet cloth round one. Tie a dry cloth round the other.",
      "parent": "Use the same kind of cloth for both. Keep the thermometers away from direct sun.",
      "check": {
@@ -1609,7 +1609,7 @@
     }
    ],
    "record": "Write the water's starting temperature, its highest temperature, and the rise. Multiply the rise by 100 to get the calories the water caught. Compare it with the heat in a groundnut.",
-   "context": "In this activity, a grown-up burns a groundnut under a katori of water. You measure how much heat the food gives, in calories.",
+   "context": "In this activity, a grown-up burns a groundnut under a katori of water. You measure how much heat the food gives, in calories. One calorie is the heat that warms 1 gram of water by 1 degree.",
    "setup": [
     {
      "art": "A groundnut stuck on the end of a skewer standing in a lump of dough on a steel plate, with a bowl of water close by.",
@@ -1630,7 +1630,7 @@
      "mins": 5,
      "do": "Explain that food holds heat, which our bodies release slowly. Ask your child to guess how many degrees 100 millilitres of water will rise when one groundnut burns under it. Write the guess.",
      "say": "A groundnut is food, and food holds heat. We will burn one under a katori of water. How many degrees do you think the water will rise? One? Ten? Fifty? Why?",
-     "kid": "A grown-up burns a groundnut under a katori of water. How many degrees will the water rise? Why?",
+     "kid": "A grown-up burns a groundnut under a katori of water. Guess how many degrees the water will rise, and why.",
      "ask": [
       {
        "q": "Why do you think the water will rise by that many degrees?",
@@ -1648,7 +1648,7 @@
      "id": "a4s2",
      "mins": 8,
      "do": "A grown-up sets up everything. Push the skewer into the groundnut, and stand the skewer in the dough on the steel plate. Pour 100 millilitres of water into the katori and stand the thermometer in it. Read the starting temperature and write it down.",
-     "say": "I am setting up the fire part, so you will not touch it. The katori hangs about 3 centimetres above the nut. First, we read the water. What does it say?",
+     "say": "I am setting up the fire part, so you will not touch it. The katori will be held about 3 centimetres above the nut. First, we read the water. What does it say?",
      "kid": "A grown-up sets up the groundnut and the katori. Read the water's temperature. Write it down.",
      "adult": true,
      "parent": "If you have a kitchen scale, weigh the nut before, and the leftover charred nut after. The difference in grams shows how much burned. Do not stir with the thermometer while it is over the flame.",
@@ -1689,7 +1689,7 @@
      "mins": 6,
      "do": "Tell your child that a raw groundnut kernel holds roughly 3,000 to 6,000 calories, depending on its size. Compare it with the water's answer. Ask where the rest of the heat went.",
      "say": "A real groundnut holds about three thousand calories or more. Your water caught fewer. Where do you think the rest of the heat went?",
-     "kid": "A groundnut holds about 3,000 calories. Your water caught fewer. Where did the rest go?",
+     "kid": "A groundnut holds about 3,000 calories. Your water caught fewer.",
      "ask": [
       {
        "q": "Where did the rest of the heat go?",
@@ -1753,7 +1753,7 @@
      "what": "Read both at 6 in the morning. Draw a graph with two lines and say what you think, what you saw and why."
     }
    ],
-   "record": "Make a table with five times and two columns, sand and water. Then draw a line graph with two lines, with time along the bottom and temperature up the side.",
+   "record": "Make a table with five times and two columns, sand and water. Then draw a line graph with two lines, with time along the bottom and temperature up the side, or tell your grown-up which plate was hotter at each time.",
    "context": "In this two-day project, you put a plate of sand and a plate of water in the sun and read their temperatures through a day and a night. You find which one warms faster, and which cools faster.",
    "setup": [
     {
@@ -1775,7 +1775,7 @@
      "mins": 8,
      "do": "Show your child the plates, the sand, the water and the thermometers. Ask for guesses and reasons. Which plate will be hotter at noon? Which will be warmer at 6 the next morning? Write the guesses down.",
      "say": "Two plates in the sun, one with sand and one with water. Which will be hotter at noon? Which will be warmer next morning at 6? Why do you think so?",
-     "kid": "A plate of sand and a plate of water stand in the sun. Which is hotter at noon? Which is warmer at night? Why?",
+     "kid": "Guess which plate is hotter at noon, and which is warmer at night.",
      "ask": [
       {
        "q": "Why do you think the sand will be hotter, or the water?",
@@ -1802,7 +1802,7 @@
      "id": "p1s3",
      "mins": 6,
      "do": "Read both thermometers at noon and at 4 in the afternoon. Write the numbers. Stir the water gently before reading. Do not move the plates.",
-     "say": "Time for the noon reading. Which plate is hotter? By how many degrees? Look at the 4 o'clock numbers later. What do you notice?",
+     "say": "Time for the noon reading. Which plate is hotter? By how many degrees? We read again at 4 o'clock.",
      "kid": "Read both at noon. Write the numbers. Again at four.",
      "parent": "On a clear day, expect the sand to be 5 to 15 degrees hotter than the water at noon. On a cloudy or rainy day, the difference can be small. If the day is cloudy, wait for a sunnier day and start again.",
      "wait": "Come back at noon and again at 4 in the afternoon.",
@@ -1832,9 +1832,9 @@
     {
      "id": "p1s5",
      "mins": 10,
-     "do": "Draw a line graph with two lines, sand and water. Then ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Pour out the water.",
+     "do": "Draw a line graph with two lines, sand and water, or just say which plate was hotter at each time. Then ask your child to say or write three short sentences. First, what I think. Second, what I saw. Third, why I think it happened. Pour out the water.",
      "say": "Now tell me three things. What do you think now? What did you see that shows it? And why do you think it happened? Then we pour the water away so that mosquitoes cannot breed.",
-     "kid": "Draw your two lines. Say what I think, what I saw, and why. Then pour out the water.",
+     "kid": "Draw your two lines, or say which plate was hotter at each time. Say what I think, what I saw, and why. Then pour out the water.",
      "parent": "A good answer sounds like this (example numbers; yours will differ). What I think: sand warms and cools faster than water. What I saw: the sand reached 44 degrees at noon but fell to 26 by morning, while the water went only from 28 to 35 and back to 29. Why: water needs more heat for each degree, so it changes temperature slowly.",
      "think": "How does this explain why a town by the sea has a smaller difference between day and night than a town in the desert?",
      "context": "In this step, you draw the graph and explain what happened, using what you think, what you saw, and why."
@@ -1871,9 +1871,9 @@
     "Pack crumpled newspaper around the water jars to hold the air still, and leave a gap round the thermometer.",
     "Put the box inside a bigger box with a layer of cloth between them."
    ],
-   "your_turn": "Draw your design. Build it and test it for 20 minutes. Change one thing, such as the number of bottles or the wrapping, and test again. Which design kept the box warmest? Why do you think it did?",
+   "your_turn": "Plan your design, by drawing it or laying it out. Build it and test it for 20 minutes. Change one thing, such as the number of bottles or the wrapping, and test again. Which design kept the box warmest? Why do you think it did?",
    "safety": "A grown-up pours the hot water. Do not use boiling water in plastic bottles. Tighten lids before moving a bottle. Keep the box away from small children, and wipe up any spill. The hot box goes in the fridge only with a grown-up's say-so and away from food, and is taken out again afterwards.",
-   "context": "This is a design challenge about heat stores. You use water to keep a shut box warm in a cold place.",
+   "context": "This is a design challenge about heat stores. You use water to keep a shut box warm in a cold place. You will find out how a litre of hot water can do it, and which design keeps the box warmest.",
    "setup": [
     {
      "art": "A shoebox with the lid off, holding one big jar of hot water in the middle and a probe thermometer, on a kitchen table.",
@@ -1894,7 +1894,7 @@
      "mins": 5,
      "do": "Read the problem together. Look at the constraints. Ask your child which design would keep the box warmest, and why.",
      "say": "You have one litre of hot water and a shoebox. How would you keep the box warm for twenty minutes in the cold? Why would your idea work?",
-     "kid": "You have a shoebox, one litre of hot water and a cold place. How will you keep the box warm?",
+     "kid": "Think of a way to keep the box warm. Tell your grown-up your idea.",
      "ask": [
       {
        "q": "What would keep the box warmer for longer?",
@@ -1911,9 +1911,9 @@
     {
      "id": "c1s2",
      "mins": 7,
-     "do": "Ask your child to draw two or three designs. For each, say where the water goes, what the box is wrapped in, and where the thermometer sits.",
-     "say": "Draw two or three different designs first. Where will the water go? What will go round the box? Where does the thermometer sit?",
-     "kid": "Draw two or three designs. Show the water, the wrapping and the thermometer.",
+     "do": "Ask your child to plan two or three designs: draw them, or lay out the jars and wrapping. For each, say where the water goes, what the box is wrapped in, and where the thermometer sits.",
+     "say": "Plan two or three different designs first. You can draw them or lay out the things. Where will the water go? What will go round the box? Where does the thermometer sit?",
+     "kid": "Plan two or three designs. Show the water, the wrapping and the thermometer, by drawing or laying them out.",
      "think": "Which will keep the box warmer: one big jar of hot water, or four small bottles with the same total water? Why?",
      "context": "In this step, you plan your designs on paper."
     },

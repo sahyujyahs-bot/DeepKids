@@ -701,7 +701,7 @@
           "id": "s1",
           "mins": 4,
           "do": "Choose who is the fungus. Give each tree 2 sugar tokens and the fungus 1 of each mineral. Shuffle the two decks face down.",
-          "say": "One of us is the fungus and the rest are trees. The trees make sugar. The fungus finds minerals. Can either side grow alone?",
+          "say": "One of us is the fungus and the rest are trees. The trees make sugar. The fungus finds minerals.",
           "kid": "One player is the fungus. The others are trees. Take your tokens.",
           "ask": [
             {
@@ -779,7 +779,7 @@
           "mins": 4,
           "do": "Read the score sheet together. Compare the game with what happens in a real forest.",
           "say": "Did anyone grow without trading? What does this game suggest about trees and the fungi on their roots?",
-          "kid": "Did anyone grow without trading? What does that show?",
+          "kid": "Look at the score sheet. Who grew, and who did not?",
           "ask": [
             {
               "q": "In the game, the tree gave sugar to the fungus. Why would a tree do that?",
@@ -913,7 +913,7 @@
           "id": "s1",
           "mins": 4,
           "do": "Cut out the cards and tokens. Put the cards in a pile and the tokens in a row. Read the first card together.",
-          "say": "You are the plant doctor. Each card describes a sick plant. Read the clues, and choose what is wrong.",
+          "say": "Each card describes a sick plant. Read the clues together, and choose what is wrong.",
           "kid": "Cut out the cards and tokens. You are the plant doctor.",
           "ask": [
             {
@@ -1766,7 +1766,7 @@
         }
       ],
       "safety": "Do not breathe in dry soil dust. Spoon it gently and do not blow on it. Wash hands afterwards.",
-      "record": "For each cup, write the water that went in and the percentage of gaps. Write whether the soil was loose or packed. Draw one cup with its bubbles.",
+      "record": "For each cup, write the water that went in and the percentage of gaps. Write whether the soil was loose or packed. Take a photo of one cup with its bubbles, or draw it.",
       "context": "In this experiment, you pour water onto dry soil and find out how much of the soil is gaps filled with air. This is the air that roots breathe.",
       "setup": [
         {
@@ -1790,9 +1790,9 @@
         {
           "id": "s1",
           "mins": 4,
-          "do": "Show the soil, the cup and the water. Ask for a guess and a reason. Write the guess at the top of the table.",
-          "say": "Here is 100 millilitres of dry soil. We will pour water on it until the water just reaches the top. How much water will go in? Why do you think so?",
-          "kid": "Here is dry soil in a cup. How much water will go in before it reaches the top? Why?",
+          "do": "Show the soil, the cup and the water. Ask for a guess and a reason. Write the guess down.",
+          "say": "We will fill a cup with 100 millilitres of dry soil. Then we will pour water on it until the water just reaches the top. How much water will go in? Why do you think so?",
+          "kid": "Make your guess, and tell your grown-up why.",
           "ask": [
             {
               "q": "Where do you think the water will go?",
@@ -1880,9 +1880,9 @@
         {
           "id": "s5",
           "mins": 6,
-          "do": "Write down all the results. Ask your child what they found (the claim), what they saw that shows it (the evidence) and why it happens (the reasoning). Draw one cup with its bubbles.",
+          "do": "Write down all the results. Ask your child what they found (the claim), what they saw that shows it (the evidence) and why it happens (the reasoning). Take a photo of one cup with its bubbles.",
           "say": "What did you find? What did you see that shows it? Why does that matter for a root in a pot?",
-          "kid": "What did you find? What did you see? Why does it matter for roots?",
+          "kid": "Tell your grown-up what you found and what you saw.",
           "ask": [
             {
               "q": "What would happen to the air in the soil if you filled the gaps with water and left them full?",
@@ -1954,7 +1954,7 @@
         }
       ],
       "safety": "A grown-up reads the label and measures the fertiliser, because it can irritate eyes and skin. Keep it away from the mouth, and wash hands after touching the jars. Do not drink the water. Raw rajma seeds and sprouts are poisonous if eaten, so do not taste them, and do not cook any of these beans for food.",
-      "record": "Counting from the day you soak the seeds, on days 4, 8, 12 and 18, measure the tallest shoot in each jar, match the leaf colour to a crayon, and note any brown or soft roots. Draw the three jars at the end.",
+      "record": "Counting from the day you soak the seeds, on days 4, 8, 12 and 18, measure the tallest shoot in each jar, match the leaf colour to a crayon, and note any brown or soft roots. Take a photo of the three jars at the end, or draw them.",
       "context": "In this experiment, you grow bean seedlings with their roots in water, with no soil. You find out if they need minerals, and if more fertiliser is better.",
       "setup": [
         {
@@ -1978,9 +1978,9 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Show the seeds, the jars and the fertiliser. Ask for a guess and a reason. Write the guess at the top of the table.",
+          "do": "Show the seeds, the jars and the fertiliser. Ask for a guess and a reason. Write the guess down.",
           "say": "We will grow beans with their roots in water, with no soil. One jar has plain water. One has a little fertiliser. One has a lot. Which will grow best? Why?",
-          "kid": "Beans will grow in water with no soil. One jar has plain water, one has a little fertiliser and one has a lot. Which will grow best? Why?",
+          "kid": "Look at the three jars. Guess which jar will grow the best beans, and say why.",
           "ask": [
             {
               "q": "Do you think a bean can grow in plain water? For how long?",
@@ -2008,9 +2008,9 @@
           "id": "s3",
           "mins": 15,
           "adult": true,
-          "do": "A grown-up reads the fertiliser label and mixes 1 litre of strong solution in the bottle, at double the label dose. Pour 300 millilitres of strong solution into jar C. For jar B, mix 75 millilitres (five tablespoons) of strong solution with 225 millilitres of low-mineral water, which means distilled water or clean rainwater. Fill jar A with 300 millilitres of low-mineral water only.",
-          "say": "Jar A gets plain low-mineral water. Jar C gets the strong solution, double the label dose. Jar B gets one quarter of that, which is half the label dose. A grown-up measures. Mark the jars.",
-          "kid": "A grown-up measures the fertiliser. Mark the jars A, B and C.",
+          "do": "A grown-up reads the fertiliser label and mixes 1 litre of strong solution in the bottle, at double the label dose. Pour 300 millilitres of strong solution into jar C. For jar B, mix 75 millilitres (five tablespoons) of strong solution with 225 millilitres of low-mineral water, which means distilled water or clean rainwater. Fill jar A with 300 millilitres of low-mineral water only. Lay a card on each jar. Rest three sprouts in the holes. The roots hang down into the water, and the seeds stay above it. Leave a small air gap under the card. Wrap each jar in dark paper.",
+          "say": "Jar A gets plain low-mineral water. Jar C gets the strong solution, double the label dose. Jar B gets one quarter of that, which is half the label dose. A grown-up measures. Mark the jars. Then rest three sprouts on each card, with their roots in the water.",
+          "kid": "A grown-up measures the fertiliser. Mark the jars A, B and C. Rest three sprouts on each card, with their roots in the water.",
           "parent": "Labels usually give a dose per litre, so double it for the strong solution (for example, 2.5 millilitres per litre becomes 5). Measure carefully, because the point of the test is the difference in dose. Ordinary tap water already holds some minerals, so jar A is only low in minerals, not empty, and the difference may be smaller. Wrap each jar in dark paper to stop green slime growing on the roots. Tape the card over each jar and push the sprouts through, so that the seed rests on the card and only the roots reach the water. Leave a small air gap between the water and the card, because roots need air too. Top up with the same solution when the water drops. With one child, the child sets up and measures all three jars. With two to four children, each child takes one jar, and then they compare.",
           "check": {
             "t": "mcq",
@@ -2031,7 +2031,7 @@
           "mins": 5,
           "do": "On days 4, 8 and 12, measure the tallest shoot in each jar and match the leaf colour. Write the results. Top up the water.",
           "say": "Measure the tallest shoot in each jar. Match the leaf colour to a crayon. What is changing? What is the same?",
-          "kid": "Measure the tallest shoot in each jar. Match the leaf colour.",
+          "kid": "Measure the tallest shoot in each jar. Match the leaf colour to a green crayon.",
           "ask": [
             {
               "q": "Which jar is doing best so far? Which is doing worst?",
@@ -2048,9 +2048,9 @@
         {
           "id": "s5",
           "mins": 10,
-          "do": "On day 18, measure and match the colours again. Check the roots. Draw the three jars. Write what you found (the claim), what you saw that shows it (the evidence) and why it happened (the reasoning).",
-          "say": "Compare the three jars. Which seedlings look healthiest? What happened to the roots in jar C? What does this show?",
-          "kid": "Compare the three jars. Check the roots. Which grew best?",
+          "do": "On day 18, measure and match the colours again. Check the roots. Take a photo of the three jars. Write what you found (the claim), what you saw that shows it (the evidence) and why it happened (the reasoning).",
+          "say": "Which seedlings look healthiest? What happened to the roots in jar C? What does this show?",
+          "kid": "Look at the roots in each jar. Which jar grew best?",
           "ask": [
             {
               "q": "Why might a big dose of fertiliser be worse than a small dose?",
@@ -2145,7 +2145,7 @@
         }
       ],
       "safety": "A grown-up boils the water and lets it cool completely before it is poured. Take care with oil, which makes floors slippery. Do not eat the cuttings from the test. Wash the spoon and jars well afterwards.",
-      "record": "On days 3, 6 and 10, count the new roots and measure the longest root in each jar. Draw one cutting from each jar.",
+      "record": "On days 3, 6 and 10, count the new roots and measure the longest root in each jar. Take a photo of one cutting from each jar, or draw it.",
       "context": "In this experiment, you grow cuttings in water that has had its air boiled out, and in water that has air. You find out if roots need to breathe.",
       "setup": [
         {
@@ -2169,7 +2169,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Show the cuttings and the jars. Ask for a guess and a reason. Write the guess at the top of the table.",
+          "do": "Show the cuttings and the jars. Ask for a guess and a reason. Write the guess down.",
           "say": "Boiling water drives out its air. Oil on top keeps air out. Will roots grow well in water with no air? Why do you think so?",
           "kid": "One jar has water with no air. The other has water with air. In which jar will roots grow better? Why?",
           "ask": [
@@ -2210,9 +2210,9 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "Put five cuttings in each jar. Pour in the cooled water gently. Add a thin layer of oil on the top of jar A. Leave both jars in the same bright place.",
-          "say": "Put five cuttings in each jar. Pour in the water gently. Add the oil to jar A only. Put both jars side by side.",
-          "kid": "Five cuttings in each jar. Add oil to jar A only.",
+          "do": "Put five cuttings in each jar. Pour 300 millilitres of the cooled water gently into each jar. Add a thin layer of oil on top of jar A, the no-air jar. Jar B has no oil, and it is the air jar. Leave both jars in the same bright place.",
+          "say": "Put five cuttings in each jar. Pour in the water gently. Add the oil to jar A only. Jar B gets no oil, and you will stir it each day so that air mixes back in. Put both jars side by side.",
+          "kid": "Five cuttings in each jar. Oil on jar A only. Jar B is the one you will stir.",
           "parent": "Cut each cutting just below a joint, and remove the bottom leaves so that none sit in the water. Pour the water slowly down the side of the jar to keep air out. Put the oil in after the cuttings, so that the oil does not coat the stems when you push them in. Stir jar B gently with a clean spoon each day for about 30 seconds, to let air in. Do not touch jar A. With one child, the child sets up both jars and does the daily stir. With two to four children, each child takes one cutting in each jar, labels them with a tag, and measures their own.",
           "check": {
             "t": "mcq",
@@ -2232,8 +2232,8 @@
           "id": "s4",
           "mins": 5,
           "do": "On days 3, 6 and 10, count the new roots and measure the longest in each jar. Stir jar B each day. Write the results.",
-          "say": "Count the new roots. Measure the longest. Compare the two jars. Do you see a difference?",
-          "kid": "Count the roots in each jar. Measure the longest.",
+          "say": "Count the new roots in each jar. Measure the longest. Then stir jar B gently.",
+          "kid": "Count the new roots. Measure the longest one with a ruler.",
           "ask": [
             {
               "q": "Which jar has more roots so far? Is that what you expected?",
@@ -2250,9 +2250,9 @@
         {
           "id": "s5",
           "mins": 8,
-          "do": "Between day 10 and day 12, count and measure the roots one last time. Draw one cutting from each jar. Write what you found (the claim), what you saw that shows it (the evidence) and why it happened (the reasoning).",
+          "do": "Between day 10 and day 12, count and measure the roots one last time. Take a photo of one cutting from each jar. Write what you found (the claim), what you saw that shows it (the evidence) and why it happened (the reasoning).",
           "say": "Which jar grew more and longer roots? What does that tell us about roots and air?",
-          "kid": "Which jar has more roots? What does that tell you about air?",
+          "kid": "Count and measure the roots one last time in both jars.",
           "ask": [
             {
               "q": "What might a rice plant or a lotus do that a mint cutting cannot?",
@@ -2339,7 +2339,7 @@
           "what": "Measure and draw the layers."
         }
       ],
-      "record": "Draw the jar after 1 minute, after 1 hour and after 1 day. Label the layers and measure each with a ruler.",
+      "record": "Take a photo of the jar after 1 minute, after 1 hour and after 1 day, or draw it. Name the layers and measure each with a ruler.",
       "context": "In this activity, you shake soil in water and watch it settle into layers. This shows the different grains that soil is made of.",
       "setup": [
         {
@@ -2361,7 +2361,7 @@
           "mins": 5,
           "do": "Ask your child to guess how many layers the soil will make. Write the guess.",
           "say": "We will shake soil in water and wait. How many layers do you think will form? What will each be made of? Why do you think so?",
-          "kid": "You will shake soil in water. How many layers will you see? Why?",
+          "kid": "Guess how many layers will form. Say why.",
           "ask": [
             {
               "q": "Do you think the heavy bits or the light bits will settle first?",
@@ -2378,8 +2378,8 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "Fill the jar one-third with soil. Add water to three-quarters. Close the lid. Shake hard for one minute. Stand the jar still. Draw it after one minute and after one hour.",
-          "say": "Shake the jar for one whole minute. Put it down and watch. What settles first? Draw the jar now.",
+          "do": "Fill the jar one-third with soil. Add water to three-quarters. Close the lid. Shake hard for one minute. Stand the jar still. Take a photo of it after one minute and after one hour.",
+          "say": "Shake the jar for one whole minute. Put it down and watch. What settles first? Take a photo of the jar now.",
           "kid": "Shake the jar for one minute. Put it down. Watch what settles first.",
           "ask": [
             {
@@ -2409,9 +2409,9 @@
         {
           "id": "s3",
           "mins": 5,
-          "do": "The next day, look at the jar. Measure each layer with a ruler. Draw and label the jar. Talk about where the gaps are and where roots live.",
-          "say": "Measure each layer. Which is thickest? Where do you think the air gaps are in dry soil? What does this soil have that sand alone would not?",
-          "kid": "Measure each layer. Which is thickest? Draw the jar.",
+          "do": "The next day, look at the jar. Measure each layer with a ruler. Take a photo. Point to each layer and name it: sand at the bottom, then silt, then clay. Talk about where the gaps are and where roots live.",
+          "say": "Which layer is thickest? Where do you think the air gaps are in dry soil? What does this soil have that sand alone would not?",
+          "kid": "Measure each layer with a ruler. Point to the thickest one.",
           "think": "Soil is mostly tiny rock grains with a little dead leaf. Why does a plant grow better in soil than in pure sand?",
           "context": "In this step, you measure the layers and think about what soil is."
         }
@@ -2444,7 +2444,7 @@
           "what": "Spread a spoonful of soil and leaf litter on a white sheet. Look for living things. Draw and count them."
         }
       ],
-      "record": "Draw up to five different creatures. Write how many of each you found, and what you think each one eats.",
+      "record": "Take a photo of up to five different creatures, or draw them. Write how many of each you found, and what you think each one eats.",
       "context": "In this activity, you look at a spoonful of leaf litter and soil on a white sheet and find the living things that make soil work.",
       "setup": [
         {
@@ -2457,7 +2457,7 @@
         },
         {
           "art": "A notebook page with drawings of an ant, a mite, a springtail, a small worm and a millipede, each with a tally.",
-          "caption": "3. Draw and count what you find. Put the creatures back."
+          "caption": "3. Sort and count what you find. Put the creatures back."
         }
       ],
       "flow": [
@@ -2466,16 +2466,16 @@
           "mins": 5,
           "do": "Ask your child to guess how many different kinds of living thing will be in one spoonful. Write the guess.",
           "say": "We will look at one spoonful of soil. How many different living things do you think we will find? Why do you think so?",
-          "kid": "Here is a spoonful of soil. How many living things will you find? Guess.",
+          "kid": "Make your guess, and say why.",
           "parent": "Do not correct the guess. Use a spoon and never your fingers, and stay away from anything that stings or bites. Put every creature back where you found them. If you have no garden, use a park, the soil from under a plant pot, or leaf litter from beneath a tree. In hot dry weather, look under stones, pots or damp leaves. One child can do it alone with a parent watching. Two to four children can take one sheet each, with soil from different spots, and compare.",
           "context": "This is the first step of Who Lives in the Soil? You guess before you look."
         },
         {
           "id": "s2",
           "mins": 15,
-          "do": "Spread the spoonful on the white sheet. Look slowly with the magnifier for five minutes. Draw each kind you find and tally how many.",
-          "say": "Wait and watch. Some creatures are very small and slow. Draw each kind you find. Count how many of each.",
-          "kid": "Spread the soil on the sheet. Look with a magnifier. Draw and count.",
+          "do": "Spread the spoonful on the white sheet. Look slowly with the magnifier for five minutes. Use the spoon tip to sort them into groups of the same kind. Count each group.",
+          "say": "Wait and watch. Some creatures are very small and slow. Put creatures of the same kind in a group. Count each group.",
+          "kid": "Spread the soil on the sheet. Look with a magnifier. Sort and count.",
           "ask": [
             {
               "q": "What do you think each creature eats? What do they do in the soil?",
@@ -2544,8 +2544,8 @@
           "what": "Wash the roots. Find the nodules. A grown-up cuts one open. Look inside."
         }
       ],
-      "record": "Draw the root with the nodules. Count them. Draw one cut nodule and its colour.",
-      "context": "In this activity, you look at the roots of a bean-family plant and find the lumps where helpful bacteria live and fix nitrogen.",
+      "record": "Count the nodules. Take a photo of the root and of one cut nodule, or draw them. Write the colour inside.",
+      "context": "In this activity, you look at the roots of a bean-family plant and find the lumps where helpful bacteria live. These bacteria fix nitrogen, which means they turn nitrogen gas from the air into plant food.",
       "setup": [
         {
           "art": "A groundnut plant with the roots shaken and gently rinsed in a bowl of water.",
@@ -2573,7 +2573,7 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "Wash the roots gently in a bowl of water. Look for round lumps along the roots. Count them. Do not pull them off.",
+          "do": "Wash the roots gently in a bowl of water. Look for round lumps along the roots. These lumps are called nodules. Count them. Do not pull them off.",
           "say": "Look closely at the roots. Do you see small round lumps? Count them. Don't pull them off, as they are part of the root.",
           "kid": "Wash the roots. Look for round lumps. Count them.",
           "ask": [
@@ -2593,7 +2593,7 @@
           "id": "s3",
           "mins": 10,
           "adult": true,
-          "do": "A grown-up cuts one nodule in half. Look at the colour inside. Pink or red means the nodule is working. Draw it.",
+          "do": "A grown-up cuts one nodule in half. Look at the colour inside. Pink or red means the nodule is working. Take a photo of it.",
           "say": "A grown-up cuts one lump in half. What colour is the inside? A pink inside means the bacteria are fixing nitrogen.",
           "kid": "A grown-up cuts a nodule. What colour is the inside?",
           "ask": [
@@ -2639,7 +2639,7 @@
           "buy": "b-lens"
         },
         {
-          "item": "a plant clue chart, drawn by your child from the clues in the Plant Doctor game",
+          "item": "a plant clue chart, written by your child from the clues in the Plant Doctor game",
           "qty": 1
         }
       ],
@@ -2670,9 +2670,9 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Draw a table with five rows. Write the columns: plant, leaves, soil, light, my guess. Explain the finger test: push a clean finger two knuckles deep into the soil. If it feels dry, the plant needs water. If it feels damp or wet, wait.",
+          "do": "Make a table with five rows. Write the columns: plant, leaves, soil, light, my guess. Explain the finger test: push a clean finger two knuckles deep into the soil. If it feels dry, the plant needs water. If it feels damp or wet, wait.",
           "say": "We will check five plants like a plant doctor. For each one, look at the leaves, feel the soil and think about the light.",
-          "kid": "Draw a table. Look at five plants. Do the finger test on each soil.",
+          "kid": "Make a table. Look at five plants. Do the finger test on each soil.",
           "parent": "Play Plant Doctor first, or copy a few clues from its tokens. Two to four children can each take different plants, and then compare guesses. Only touch plants that belong to you or that you have permission to touch. For the finger test, push a clean finger two knuckles deep into the soil, away from the stem. Wash hands afterwards.",
           "context": "This is the first step of the Plant Check-up Walk. You set up your table."
         },
@@ -2712,7 +2712,7 @@
           "mins": 5,
           "do": "Share your guesses with a family member. Which plant had the clearest clues? Which was hardest to guess?",
           "say": "Tell me about your plants. Which clue was the clearest? Which plant was hardest to guess? What more would you need to know?",
-          "kid": "Tell someone about your plants. Which was hardest to guess?",
+          "kid": "Tell a family member about your five plants.",
           "think": "A plant doctor never knows for sure from one look. What else could you check to be more certain?",
           "context": "In this step, you share your guesses and think about what else you would check."
         }
@@ -2749,7 +2749,7 @@
           "what": "Make five notches in the rim of a bottle at different heights. Pour water to find the limit. Tape over the lowest notch and pour again."
         }
       ],
-      "record": "Draw the bottle with its five notches labelled with minerals. Mark where the water level stopped each time. Count how many cups of water the bottle held each time.",
+      "record": "Take a photo of the bottle each time the water spills. Write which notch it spilled from. Count how many cups of water the bottle held each time.",
       "context": "In this activity, you build a bottle model of the idea that the shortest supply sets how well a plant can grow.",
       "setup": [
         {
@@ -2769,9 +2769,9 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Show the bottle and ask your child to guess where the water will spill. Write the guess.",
+          "do": "A grown-up cuts five notches in the rim of the bottle, at different depths. Label them N, P, K, Ca and Fe, for nitrogen, phosphorus, potassium, calcium and iron. Ask your child to guess where the water will spill. Write the guess.",
           "say": "Each notch is a mineral. The water is how well the plant can grow. When we fill the bottle, where will the water spill? Why do you think so?",
-          "kid": "The water level stands for how well the plant grows. Where will the water spill? Why?",
+          "kid": "Guess which notch the water will spill from. Say why.",
           "ask": [
             {
               "q": "If you pour more water in, will the water level go higher than the lowest notch?",
@@ -2858,7 +2858,7 @@
           "what": "A grown-up cuts a slice of lotus stem. Look at the holes. Blow through a long piece in a bowl of water and watch the bubbles."
         }
       ],
-      "record": "Draw the cut end of the stem and count the holes. Draw the bubbles in the water.",
+      "record": "Count the holes in the cut end of the stem. Take a photo of the bubbles in the water, or draw them.",
       "context": "In this activity, you look at a lotus stem and find the air channels that carry air down to the roots in the mud.",
       "setup": [
         {
@@ -2919,9 +2919,9 @@
         {
           "id": "s3",
           "mins": 4,
-          "do": "Draw what you saw. Talk about how a pot plant, a rice plant and a lotus get air to their roots.",
+          "do": "Tell your grown-up what you saw in the stem and in the water. Talk about how a pot plant, a rice plant and a lotus get air to their roots.",
           "say": "How does a pot plant get air to their roots? How does a rice plant? Are the ways the same?",
-          "kid": "Draw what you saw. How do roots in mud get air?",
+          "kid": "Tell your grown-up what you saw. How do roots in mud get air?",
           "think": "A mangrove tree grows in salty mud, and sends up pencil-like roots into the air. What might those roots be for?",
           "context": "In this step, you draw what you saw and compare different ways plants get air to their roots."
         }
@@ -2980,7 +2980,7 @@
         {
           "day": 21,
           "mins": 5,
-          "what": "Stir. Measure the height. Draw the colours."
+          "what": "Stir. Measure the height. Write down the colours, or take a photo."
         },
         {
           "day": 35,
@@ -2988,7 +2988,7 @@
           "what": "Look, smell and measure. Compare with day 1. Write what the decomposers did."
         }
       ],
-      "record": "A table with the date, the height of the heap, the smell, the colour and anything alive you see. Draw the bottle on days 1, 21 and 35.",
+      "record": "A table with the date, the height of the heap, the smell, the colour and anything alive you see. Take a photo of the bottle on days 1, 21 and 35, or draw it.",
       "context": "In this project, you turn kitchen peels and dry leaves into compost in a bottle over five weeks. You watch decomposers turn waste into plant food.",
       "setup": [
         {
@@ -3010,7 +3010,7 @@
           "mins": 5,
           "do": "Show the peels, the leaves and the bottle. Ask for a guess and a reason about what will happen over five weeks. Write it down.",
           "say": "We will fill a bottle with peels and leaves and leave it for five weeks. What do you think will happen? Why do you think so?",
-          "kid": "We will leave peels and leaves in a bottle for five weeks. What will happen? Why?",
+          "kid": "Make your guess. What will happen to the peels and leaves? Say why.",
           "ask": [
             {
               "q": "Who do you think will do the work in the bottle?",
@@ -3029,7 +3029,7 @@
           "mins": 25,
           "adult": true,
           "do": "A grown-up cuts the bottle and pokes holes. Layer a handful of dry leaves, a handful of chopped peels, and a handful of soil. Repeat. Spray with water until damp.",
-          "say": "Build it in layers: dry leaves, then peels, then soil. Then do the three layers again. Spray with water until it feels like a wrung-out sponge. The air holes, and the stirring, bring oxygen to the tiny decomposers, which need it to breathe.",
+          "say": "Build it in layers: dry leaves, then peels, then soil. Then do the three layers again. Spray with water until it feels like a wrung-out sponge. Tiny living things called decomposers will rot the peels. They need air to breathe, so the bottle has air holes, and we will stir the heap.",
           "kid": "A grown-up cuts the bottle. Add layers of leaves, peels and soil. Spray with water.",
           "parent": "Cut the peels small, which helps them rot faster. Mix about two parts dry leaves to one part peels. The heap should be damp but not dripping. If it is too wet, it will smell sour, because the gaps fill with water and run out of air. Add dry leaves, and stir.",
           "check": {
@@ -3058,7 +3058,7 @@
         {
           "id": "s4",
           "mins": 10,
-          "do": "On the checking days, stir the heap, measure the height and write down the smell and colour. On day 35, compare with day 1.",
+          "do": "On days 4, 11, 21 and 35, stir the heap, measure the height and write down the smell and colour. On day 35, compare with day 1.",
           "say": "Stir the heap. Measure the height. How does it smell? What colour is it? Has it shrunk? Who did that?",
           "kid": "Stir the heap. Measure it. Smell it gently. Write what you find.",
           "ask": [
@@ -3107,7 +3107,7 @@
         "Side holes a little above the bottom, so a small pool of water stays low for dry days.",
         "A bed of coconut husk in a ring around the roots, which holds water like a sponge and still lets air in."
       ],
-      "your_turn": "Sketch your design. Build it and test it with 300 millilitres. Measure the water that drains out and the water that stays. Change one thing and test again. Which design worked best? Why do you think so?",
+      "your_turn": "Sketch your design, or describe it to your grown-up. Build it and test it with 300 millilitres. Measure the water that drains out and the water that stays. Change one thing and test again. Which design worked best? Why do you think so?",
       "context": "This is a design challenge about roots, air and water. You build a pot that stops roots drowning and still holds enough water.",
       "setup": [
         {
@@ -3127,9 +3127,9 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Read the problem and the rules together. Ask your child to sketch two or three pot designs. Write down a guess of how much water will drain out.",
-          "say": "Your pot must let extra water out, but keep some for a dry day. How could you do both? Draw some ideas first.",
-          "kid": "Your pot must drain but still hold some water. Draw some ideas first.",
+          "do": "Read the problem and the rules together. Ask your child to plan two or three pot designs, as quick sketches or by telling you. Write down a guess of how much water will drain out.",
+          "say": "Your pot must let extra water out, but keep some for a dry day. How could you do both?",
+          "kid": "Think of two or three pot designs. Sketch them, or tell your grown-up.",
           "ask": [
             {
               "q": "What makes water drain out of a pot? What makes it stay in?",
@@ -3146,7 +3146,7 @@
           "id": "s2",
           "mins": 20,
           "do": "Build your first pot. Fill it with soil to a marked level. Pour 300 millilitres of water over 10 seconds. Measure what drains out after 2 minutes.",
-          "say": "Build your pot. Pour in 300 millilitres. Wait two minutes. How much drained out? How much stayed?",
+          "say": "Build your pot. Pour in 300 millilitres over 10 seconds. Wait two minutes.",
           "kid": "Build your pot. Pour in 300 millilitres. Measure what drains out.",
           "ask": [
             {
@@ -3232,8 +3232,8 @@
           "id": "s1",
           "mins": 5,
           "do": "Read the rules. Ask your child why a farmer might grow dal after rice. Write the answer.",
-          "say": "Rice takes nitrogen from the soil. Black gram puts it back. What plan do you think will give the most food over six seasons? Why?",
-          "kid": "Rice takes nitrogen. Dal puts it back. What plan gives the most food?",
+          "say": "Rice takes nitrogen from the soil. Black gram, a kind of dal, puts it back. What plan do you think will give the most food over six seasons? Why?",
+          "kid": "Think about which crop to grow in each season. Guess which plan gives the most food.",
           "ask": [
             {
               "q": "What happens if the farmer grows only rice for six seasons?",

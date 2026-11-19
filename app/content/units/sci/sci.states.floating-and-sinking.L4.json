@@ -453,7 +453,7 @@
    "title": "Harbour Master: will it float?",
    "mins": 20,
    "players": "2 to 4 players",
-   "context": "This is a guessing game. Each card shows something in or near water, or in the air. You decide if it floats or sinks, and then say why.",
+   "context": "This is a guessing game. Each card shows something in or near water, or in the air. You decide if it floats or sinks, and then say why. Dense means heavy for its size. You will find out what makes things float or sink.",
    "setup": [
     {
      "art": "Twenty-four cards in a shuffled pile in the middle of a table, with two tokens in front of each player: floats or rises, and sinks.",
@@ -645,7 +645,7 @@
      "id": "s4",
      "mins": 3,
      "do": "Play the last ten cards. When the pile is finished, count each player's points.",
-     "say": "These are the last cards. Think about the density of the thing and the density of what is around it.",
+     "say": "These are the last cards. Is the thing heavier or lighter than the same amount of what is around it?",
      "kid": "Play the last cards. Count your points.",
      "context": "In this step, you finish the pile of cards and count the points."
     },
@@ -654,7 +654,7 @@
      "mins": 2,
      "do": "Say who won. Ask your child which card was the hardest to guess, and why.",
      "say": "Who got the most points? Which card was hardest? Why was it hard?",
-     "kid": "Who won? Which card was hardest? Why?",
+     "kid": "Count the points. Tell everyone which card was hardest, and why.",
      "think": "Which card would change if the liquid were different?",
      "context": "This is the last step of Harbour Master. You look back at the game.",
      "parent": "A good answer names a card where the liquid changes the result. The potato sinks in plain water but floats in very salty water. A ship sits higher in the sea than in a river. A person floats more easily in the Dead Sea than in a pool."
@@ -706,8 +706,8 @@
     }
    ],
    "safety": "Fold the foil edges over, because cut foil can be sharp. Keep coins and steel nuts away from children under five, who might put them in their mouths. Wipe up spilt water at once so nobody slips.",
-   "record": "For each boat, write how many coins it carried before it tipped or water came over the rim. Test each boat twice. Then draw a bar chart with one bar for each boat, using the bigger of the two numbers.",
-   "context": "In this experiment, you fold the same foil into three different boats and find out how many coins each can carry. You also test a ball of foil.",
+   "record": "For each boat, write how many coins it carried before it tipped or water came over the rim. Test each boat twice. Then show the results as a bar chart, drawn or made from stacked coins, with one bar for each boat. Use the bigger of the two numbers.",
+   "context": "In this experiment, you fold the same foil into three different boats and find out how many coins each can carry. You also test a ball of foil. You will find out whether the shape of a boat matters when the foil is the same.",
    "setup": [
     {
      "art": "A square of foil on a table with a ruler, and the four edges being folded up by 1 centimetre, 3 centimetres and 5 centimetres into three different trays.",
@@ -736,7 +736,7 @@
      "mins": 5,
      "do": "Show your child the foil, the basin and the coins. Say that all three boats are made from the same size of foil. Write down your child's guess and reason.",
      "say": "We will fold three boats from the same size of foil. One is wide and shallow. One is medium. One is narrow and deep. We will also squeeze one square into a ball. Which boat will carry the most coins? Which will carry the fewest? Why do you think so?",
-     "kid": "Three boats from the same foil. One is wide. One is medium. One is deep. Which carries the most coins? Why?",
+     "kid": "Look at the foil, the basin and the coins. Guess which boat will carry the most coins.",
      "ask": [
       {
        "q": "Why do you think that boat will carry the most?",
@@ -753,7 +753,7 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Measure and cut four squares of foil, each 15 centimetres by 15 centimetres. Fold the first square up 1 centimetre on every side. Fold the second up 3 centimetres on every side. Fold the third up 5 centimetres on every side. Pinch the corners so the sides stand up. Squeeze the fourth into a ball.",
+     "do": "Measure and cut four squares of foil, each 15 centimetres by 15 centimetres. Fold the first square (boat A) up 1 centimetre on every side. Fold the second (boat B) up 3 centimetres on every side. Fold the third (boat C) up 5 centimetres on every side. Pinch the corners so the sides stand up. Squeeze the fourth into a ball.",
      "say": "Fold each edge up, and press the corners to make the sides stand. The first boat has low sides and a wide base. The second has medium sides. The third has tall sides and a narrow base. The fourth is a ball.",
      "kid": "Cut four squares of foil. Fold up the edges of three. Make a ball with the last one.",
      "parent": "Make the squares exactly the same size. Fold the sharp edges inwards so nobody scratches a finger. Label the boats with small pieces of paper: A for the boat with 1 centimetre sides, B for 3 centimetre sides and C for 5 centimetre sides. Fold the four corners flat against the sides and press them hard, so water cannot leak in through the corner folds.",
@@ -775,7 +775,7 @@
      "mins": 5,
      "do": "Fill the basin with water about 10 centimetres deep. Put the foil ball in the water, and watch what it does. Then float boat A in the middle of the basin.",
      "say": "First, the ball. Put it in gently. What does it do? Now take it out. Float the first boat in the middle of the basin. What is different?",
-     "kid": "Put the foil ball in the water. What does it do? Now float boat A. What is different?",
+     "kid": "Watch what the foil ball does in the water. Then watch what boat A does.",
      "ask": [
       {
        "q": "The ball and the boat are the same foil. Why does one sink and the other float?",
@@ -822,9 +822,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Draw a bar chart with one bar for each boat. Use the bigger of the two numbers. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.",
+     "do": "Make a bar chart with one bar for each boat. Draw it, or stack the coins in one tower for each boat. Use the bigger of the two numbers. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a bar for each boat. Say what you thought would happen, what you saw, and why you think it happened.",
+     "kid": "Make a bar or a coin tower for each boat. Say what you thought would happen, what you saw, and why you think it happened.",
      "think": "Why did the ball of foil sink but every boat float?",
      "parent": "A strong answer says that the boat with the most room for air pushed aside the most water. If you work out the volume of each boat, the medium boat should carry the most and the narrow, deep boat the fewest. But a tall boat can tip, and a wide shallow boat can fill over its low rim, so the order in your basin may differ. Write what you actually saw, and give a reason for it. After your child has said what they saw, explain: each cubic centimetre of water pushed aside weighs one gram. The boat can carry cargo until the water it pushes aside weighs as much as the boat and the cargo together.",
      "context": "This is the last step of the Foil Boats test. You draw the chart and explain what you found."
@@ -870,8 +870,8 @@
      "qty": 1
     }
    ],
-   "record": "After every tablespoon of salt, write what the potato does and where it sits. Draw the glass at the start and at the end.",
-   "context": "In this experiment, you find out what happens to a potato in water as you add salt, one tablespoon at a time.",
+   "record": "After every tablespoon of salt, write what the potato does and where it sits. Take a photo of the glass at the start and at the end, or draw it.",
+   "context": "In this experiment, you find out what happens to a potato in water as you add salt, one tablespoon at a time. Something is denser when it is heavier for its size. You will find out whether salt makes water dense enough to hold the potato up.",
    "setup": [
     {
      "art": "A tall glass with 250 millilitres of tap water and a piece of raw potato resting at the bottom.",
@@ -896,7 +896,7 @@
      "mins": 5,
      "do": "Show your child the glass, the potato and the salt. Ask for a guess and a reason. Write the guess at the top of the table.",
      "say": "We have a potato, a glass of water and some salt. The potato will sink in plain water. What will happen as we add salt? When will it change? Why do you think so?",
-     "kid": "A potato sinks in plain water. What happens when you add salt? Why do you think so?",
+     "kid": "A potato sinks in plain water. Guess what happens when you add salt.",
      "ask": [
       {
        "q": "Why do you think salt might change what the potato does?",
@@ -923,7 +923,7 @@
      "id": "s3",
      "mins": 15,
      "do": "Take the potato out with a spoon. Add one level tablespoon of salt. Stir for about a minute, until the salt disappears. Put the potato back gently. Write what it does. Repeat, adding one tablespoon at a time, up to 5 tablespoons in all or until the potato floats.",
-     "say": "Take the potato out first. Add one level tablespoon of salt, and stir until you can't see it. Put the potato back. Does it sink, hover or float? Then do the same again with one more tablespoon of salt.",
+     "say": "Take the potato out first. Add one level tablespoon of salt, and stir until you can't see it. Put the potato back. Does it sink, float, or hover in the middle of the water? Then do the same again with one more tablespoon of salt.",
      "kid": "Take out the potato. Add one spoon of salt. Stir. Put the potato back. Write what it does. Repeat.",
      "ask": [
       {
@@ -995,7 +995,7 @@
     }
    ],
    "record": "Make a table of the ten things. For each one, write your guess and what happened. Then sort the things into two columns: floats and sinks.",
-   "context": "In this activity, you guess whether ten things float or sink, test them, and look for a pattern. Then you test the pattern.",
+   "context": "In this activity, you guess whether ten things float or sink, test them, and look for a pattern. Then you test the pattern. You will find out whether heavy things always sink.",
    "setup": [
     {
      "art": "Ten kitchen things in a row beside a bowl of water: a steel spoon, wooden spoon, coin, lemon, potato, candle stub, bottle cap, closed bottle and two katoris.",
@@ -1055,7 +1055,7 @@
      "mins": 6,
      "do": "Sort the ten things into two columns: floats and sinks. Ask your child to look for a pattern. Then ask whether the pattern is always true.",
      "say": "Look at the two columns. Is there a pattern? Is it always the heavy things that sink? What about the steel katori, which is heavy but floats?",
-     "kid": "Sort the things into floats and sinks. Is there a pattern? Is it always true?",
+     "kid": "Sort the things into floats and sinks. Look for a pattern.",
      "ask": [
       {
        "q": "Is it true that heavy things sink and light things float?",
@@ -1124,8 +1124,8 @@
      "what": "Make the sugar syrup. Pour the three layers. Look at the tower and explain it. Drop in small things to see which layer they stop in."
     }
    ],
-   "record": "Draw the glass with three layers, and label each layer. Write which liquid is the densest and which is the least dense.",
-   "context": "In this activity, you pour three liquids into a glass. You watch them stay in layers and find out which is densest.",
+   "record": "Write the three liquids in order, from top to bottom. Write which is the densest and which is the least dense. You can also draw the glass.",
+   "context": "In this activity, you pour three liquids into a glass. You watch them stay in layers and find out which is densest. Dense means heavy for its size. You will find out why oil floats on water and syrup sinks below it.",
    "setup": [
     {
      "art": "A spoon of sugar being stirred into warm water in a cup, with a drop of colour added.",
@@ -1146,7 +1146,7 @@
      "mins": 5,
      "do": "Ask your child to guess which liquid will be at the top, which in the middle and which at the bottom. Then stir the sugar into the warm water, until no grains are left. This is the syrup. Add a drop of food colour to it. Let it cool for a few minutes.",
      "say": "We have three liquids: sugar syrup, plain water and cooking oil. Which will end up on the top? Which will end up at the bottom? Why do you think so?",
-     "kid": "Guess the order of the three liquids. Why do you think so? Stir sugar into warm water.",
+     "kid": "Guess the order of the three liquids. Then stir sugar into warm water.",
      "ask": [
       {
        "q": "Why do you think that liquid will be at the bottom?",
@@ -1188,9 +1188,9 @@
     {
      "id": "s5",
      "mins": 7,
-     "do": "Look at the tower from the side. Draw it and label each layer. Then gently stir the top with the spoon, and watch what the oil does. Drop in a few small things from the kitchen one at a time (a peppercorn, a grain of rice, a raisin). Write which layer each one stops in. Ask your child to say what they thought would happen, what they saw, and why they think it happened.",
+     "do": "Look at the tower from the side. Name each layer out loud, or draw and label it. Then gently stir the top with the spoon, and watch what the oil does. Drop in a few small things from the kitchen one at a time (a peppercorn, a grain of rice, a raisin). Write which layer each one stops in. Ask your child to say what they thought would happen, what they saw, and why they think it happened.",
      "say": "Which layer is on top? Which is at the bottom? Why do you think each liquid is where it is? What happens to the oil when we stir it?",
-     "kid": "Look at the three layers. Draw them. Stir the top gently. What does the oil do?",
+     "kid": "Look at the three layers and name them. Stir the top gently. What does the oil do? Drop in small things and see where they stop.",
      "check": {
       "t": "mcq",
       "q": "Oil sits on top of water. What does this show about oil?",
@@ -1248,8 +1248,8 @@
      "what": "Make the hydroscope. Float it in plain water and mark the line. Float it in salty water and mark the line. Compare."
     }
    ],
-   "record": "Write the length of straw above the water in plain water and in salty water. Draw the hydroscope in each glass.",
-   "context": "In this activity, you make a floating tube like the hydroscope that a teacher called Hypatia was asked to build about 1,600 years ago. You use it to compare how dense two liquids are.",
+   "record": "Write the length of straw above the water in plain water and in salty water. Take a photo of the hydroscope in each glass, or draw it.",
+   "context": "In this activity, you make a floating tube like the hydroscope that a teacher called Hypatia was asked to build about 1,600 years ago. You use it to compare how dense two liquids are. A liquid is denser when it is heavier for the same amount. You will find out whether a floating straw can tell plain water from salty water.",
    "setup": [
     {
      "art": "A drinking straw with a ball of modelling clay pressed into one end, sealing it.",
@@ -1372,8 +1372,8 @@
      "what": "Make the diver. Test it in a bowl. Put it in the bottle. Squeeze and watch."
     }
    ],
-   "record": "Draw the bottle with the diver, before and after squeezing. Show the air bubble in each drawing.",
-   "context": "In this project, you make a small diver that sinks when you squeeze a bottle and rises when you let go. You find out how it works.",
+   "record": "Take a photo or draw the bottle with the diver, before and after squeezing. Show the air bubble in each drawing.",
+   "context": "In this project, you make a small diver that sinks when you squeeze a bottle and rises when you let go. You will find out what squeezing does to the air inside the diver.",
    "setup": [
     {
      "art": "A pen cap with a small blob of modelling clay stuck on the outside, floating upright in a bowl of water.",
@@ -1394,7 +1394,7 @@
      "mins": 5,
      "do": "Show your child the bottle, the pen cap and the clay. Ask for a guess and a reason.",
      "say": "We will make a little diver. When we squeeze the bottle, what do you think the diver will do? Why do you think so?",
-     "kid": "You will make a tiny diver in a bottle. What will the diver do when you squeeze the bottle? Why?",
+     "kid": "You will make a tiny diver in a bottle. Guess what the diver will do when you squeeze the bottle.",
      "ask": [
       {
        "q": "Why do you think the diver might sink or rise?",
@@ -1458,9 +1458,9 @@
     {
      "id": "s5",
      "mins": 10,
-     "do": "Draw the bottle with the diver, before and after squeezing. Show the air bubble in each. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.",
+     "do": "Take a photo of the bottle with the diver, before and after squeezing, or draw it. Show the air bubble in each. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Where do you see this idea in submarines and fish?",
-     "kid": "Draw the bottle before and after squeezing. Say what you thought would happen, what you saw, and why you think it happened.",
+     "kid": "Take a photo or draw the bottle before and after squeezing. Say what you thought would happen, what you saw, and why you think it happened.",
      "think": "How is the diver like a submarine, and how is it like a fish?",
      "parent": "A strong answer says that squeezing made the air smaller, so the diver pushed aside less water and became denser overall, so it sank. A submarine changes its density with ballast tanks, and a fish with her swim bladder.",
      "context": "This is the last step of the Bottle Diver. You draw it and explain what you found."
@@ -1498,12 +1498,12 @@
     "A boat with a ridge or a fold across the middle, to keep the sides from folding in.",
     "A boat with rounded sides, like a coracle, that sits low and steady."
    ],
-   "your_turn": "Sketch your design. Build it and test it. Change one thing, such as the height of the sides, and test again. Which design carried the most coins? Why do you think it did?",
-   "context": "This is a design challenge about shape and floating. You build the best foil cargo ship you can.",
+   "your_turn": "Plan your design by sketching it or folding a paper boat. Build it and test it. Change one thing, such as the height of the sides, and test again. Which design carried the most coins? Why do you think it did?",
+   "context": "This is a design challenge about shape and floating. You build the best foil cargo ship you can. You will find out how to fold one sheet of foil so it carries the most coins.",
    "setup": [
     {
      "art": "A child sketching three boat designs on paper: a box, a catamaran with two hulls, and a round coracle.",
-     "caption": "1. Sketch some designs on paper."
+     "caption": "1. Plan some designs. Sketch them or fold paper boats."
     },
     {
      "art": "A foil boat being loaded with coins in a basin of water, with a timer running beside it.",
@@ -1518,9 +1518,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two or three different boat designs.",
-     "say": "You have one sheet of foil. How could you fold it so that the boat carries the most? Draw some ideas first.",
-     "kid": "You have one foil sheet. Draw some boat ideas first.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to plan two or three different boat designs. They can sketch them, or fold a quick paper boat for each idea.",
+     "say": "You have one sheet of foil. How could you fold it so that the boat carries the most? Plan some ideas first.",
+     "kid": "You have one foil sheet. Plan two or three boat ideas. Sketch them or fold paper boats.",
      "ask": [
       {
        "q": "What would make a boat carry more?",

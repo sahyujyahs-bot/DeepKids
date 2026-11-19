@@ -260,7 +260,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 - **s2 (4 min)**  
   *Parent does:* Practise with a few calls before the game. Name squares, and say which squares are next to a square in each direction.  
   *Parent says:* Let's practise. What is the square just east of D5? What is the square just south of C3?  
-  *Child mode:* Name the square east of D5. Name the one south of C3.
+  *Child mode:* Name the squares next to a square.
   - Ask: What is the square just east of D5, and what is the square just north of D5? (good: E5 is east.; D4 is north.; North is up the grid, so the row number gets smaller.)
   - Note: East is to the right, so the letter moves forward by one. North is the top, so the number gets smaller. South is down, so the number gets bigger. From D5, east is E5, north is D4, south is D6 and west is C5.
 - **s3 (12 min)**  
@@ -269,9 +269,9 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   *Child mode:* Call a square. After a hit, say a direction first.
   - Check: You hit a boat at F4. Which square is one square south of F4? → **F5**
 - **s4 (4 min)**  
-  *Parent does:* When a boat is sunk, ask: how did you find the rest of the boat after the first hit?  
+  *Parent does:* When a boat is sunk, talk about how you found it.  
   *Parent says:* How did you find the rest of the boat after the first hit?  
-  *Child mode:* How did you find the rest of the boat after a hit?
+  *Child mode:* Think back to your first hit.
   - Ask: How did you find the rest of the boat after the first hit? (good: I tried the squares next to it.; I searched closer where I had a hit.; I looked along a row and a column.)
   - Note: This is what sea-floor mappers do. When a sounding shows something odd, they sound again closer around that spot. A hit is a sign to look closely.
 - **s5 (3 min)**  
@@ -294,9 +294,9 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   *Child mode:* Pick a map. Say why.
   - Check: You want to know how steep a hill is. Which map is best? → **A contour map**
 - **s3 (3 min)**  
-  *Parent does:* Talk about the game. Was there any job where two maps could both work? Which one would you take?  
+  *Parent does:* Talk about the game afterwards.  
   *Parent says:* Was there a job where two maps could work? How did you choose?  
-  *Child mode:* Could two maps work for one job? How did you choose?
+  *Child mode:* Think of a job where two maps could both work.
   - Note: A good answer says which details each map keeps and which it leaves out. For finding a hospital, a phone app is quicker, but a printed street map works with no battery.
   - Think: What is a map that works for every job? Is there one?
 
@@ -306,7 +306,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 - **predict:** Before you start, guess. Will a map made from 6 holes show every hill in the box? Will a map from all 20 holes show everything? Why do you think so?
 - **fair test:** The same box, the same stick and the same hole positions are used in every round. The landscape is never changed, and the lid stays on until the end. Each round, only the number of holes changes. Every reading is taken the same way: push the stick down until it stops, hold your finger at the lid, pull it out and measure.
 - **safety:** A grown-up makes the holes with the pointed scissors or a sharp pencil. Use only a blunt stick to poke, and keep the point away from faces. Do not push the stick hard: stop when it touches something. Wash hands after using clay. With 2 to 4 children, one grown-up is enough, because only the grown-up uses the scissors.
-- **record:** Draw your three maps in order, next to the real landscape. Write which hills each map showed and which it missed. Colour each square by height.
+- **record:** Put your three coloured maps in order next to the real landscape, or take a photo of each. Write which hills each map showed and which it missed.
 - **results table:** Round | Number of holes used | What my map showed | What I found when the lid came off | What my map missed
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* Away from your child, build a landscape on the floor of the box with clay or crumpled newspaper. Make one big hill 6 centimetres high. Make it wide enough to lie under two or three holes. Make one small hill. Make a narrow ridge, 2 centimetres wide, 4 long and 4 high. Leave some floor flat. Make 20 holes in the lid, 5 across and 4 down, about 5 centimetres apart. Put the lid on.  
@@ -315,9 +315,9 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   - Note: Number the holes on the lid A1 to E4 with the marker. Put the narrow ridge exactly under hole D2. D2 is not one of the first six holes, so round 1 will miss the ridge. Put the lid on and push the stick down D2 and the holes around it. The stick should touch the ridge at D2 and at no other hole. Move the ridge a little until it does. Also leave one small bump between holes. Round 1 uses holes A1, C1, E1, A3, C3 and E3. Measure the inside depth of the box with a ruler, and write it down. It is probably 10 centimetres. If you have older and younger children, an older child can build a second box for the younger one, and they swap boxes.
 - **s2 (4 min)**  
   *Parent does:* Show the closed box. Say that a landscape is hidden inside. Ask for a guess and a reason, and write it down.  
-  *Parent says:* There is a landscape inside this box, with hills and a ridge. You can only poke a stick through holes. Will a map from 6 holes show everything? Will 20 holes? Why do you think so?  
-  *Child mode:* A landscape is hidden in the box. Will 6 holes show it all? Why?
-  - Ask: Why do you think that number of holes will be enough? (good: More holes show more places.; The hills are big, so 6 will find them.; Some small hills might hide.)
+  *Parent says:* There is a landscape inside this box, with hills and a ridge. You can only poke a stick through holes in the lid. Will a map from 6 holes show everything? Will 20 holes? Why do you think so?  
+  *Child mode:* Make a guess before you poke.
+  - Ask: Will 6 holes show everything in the box? Why or why not? (good: More holes show more places.; The hills are big, so 6 will find them.; Some small hills might hide.)
   - Note: Do not correct the guess. Write it down at the top of the table.
 - **s3 (5 min)**  
   *Parent does:* Show how to take a reading. Push the stick down one hole gently until it stops. Stop at the first touch and do not press into the hill. Pinch the stick at the lid with your finger. Pull it out. Measure from the tip to your finger. Write the reading. The height of the land is the depth of the box minus the reading.  
@@ -325,15 +325,15 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   *Child mode:* Push the stick down. Pinch it at the lid. Measure.
   - Check: The box is 10 centimetres deep. The stick goes down 10 centimetres at one hole. What does this tell you about the land under that hole? → **The floor under the hole is flat and low**
 - **s4 (10 min)**  
-  *Parent does:* Round 1. Poke only the six holes A1, C1, E1, A3, C3 and E3. Write each reading and each height on the squared paper. Colour the six squares by height. Use green for 0 to 1 centimetre and yellow for 2 to 3. Use light brown for 4 to 5 and dark brown for 6 or more. Then leave the other squares white and draw your best guess of the land.  
-  *Parent says:* Poke the six holes. Write the height in each square. Colour the six squares. For the white squares, draw what you guess is there.  
-  *Child mode:* Poke six holes. Colour the squares. Guess the rest.
+  *Parent does:* Round 1. Poke only the six holes A1, C1, E1, A3, C3 and E3. Write each reading and each height on the squared paper. Colour the six squares by height. Use green for 0 to 1 centimetre and yellow for 2 to 3. Use light brown for 4 to 5 and dark brown for 6 or more. Leave the other squares white. Tell your grown-up what you think is under them: a hill, a ridge or flat land.  
+  *Parent says:* Poke the six holes. Write the height in each square. Colour the six squares. For the white squares, tell me what you guess is there.  
+  *Child mode:* Poke six holes. Colour the squares.
   - Ask: What do you think is in the white squares? (good: More hills like the ones I found.; Flat floor, because I found none.; I cannot tell without more holes.)
   - Note: With 2 to 4 children, share the jobs: one pokes, one pinches the stick and measures, one writes the reading and colours the square. Swap jobs at every hole, and let each child draw their own map from the same numbers, then compare them. Do not say what is in the box. Round 1 is likely to miss the ridge. Your child may draw smooth hills between the holes. That is interpolation, and it is a good first try.
 - **s5 (10 min)**  
-  *Parent does:* Round 2. Poke the other 14 holes. Write each reading and height. Colour all 20 squares. Redraw the map. Compare it with round 1.  
-  *Parent says:* Now the rest of the holes. Do the new numbers match what you guessed? What changed on your map?  
-  *Child mode:* Poke the other holes. Colour all the squares. Compare.
+  *Parent does:* Round 2. Poke the other 14 holes. Write each reading and height. Colour all 20 squares. Compare it with round 1.  
+  *Parent says:* Now the rest of the holes. Do the new numbers match what you guessed?  
+  *Child mode:* Poke the other holes. Colour all the squares.
   - Ask: What changed between your first map and your second? (good: A new hill showed up.; A guess was wrong.; The big hill was bigger than I thought.)
   - Note: The ridge should now show as one tall square surrounded by low ones. Your child may be surprised. Say nothing about whether the map is complete. The small bump between holes may still hide.
 - **s6 (6 min) · grown-up needed**  
@@ -352,12 +352,12 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 - **predict:** A grown-up hides a coin on a big sheet of paper and tells you only its distance from the towers. Will one distance tell you where the coin is? Will two? Do you need three? Why do you think so?
 - **fair test:** The same coin spot is used for all three steps, so the only thing that changes is how many distances you have. The three towers are never in a straight line. Every circle is drawn with the same care, with the compass point held still on the tower.
 - **safety:** The point of a compass is sharp. A grown-up helps younger children, and the point stays down on the paper. Keep the points of the compass away from faces.
-- **record:** Keep your sheet with the circles. Fill in the table. Draw a coin where you think it is, and mark the real place.
+- **record:** Keep your sheet with the circles. Fill in the table. Mark where you think the coin is, and mark the real place.
 - **results table:** Distances used | How many places the circles meet | Distance between my best guess and the real coin (centimetres)
 - **s1 (5 min)**  
   *Parent does:* Mark three dots on the paper for towers A, B and C. Keep them about 15 centimetres apart (a school compass draws circles up to a radius of about 10 centimetres), and not in a straight line. Write A, B and C by them. Show the compass.  
-  *Parent says:* These three dots are towers. A hidden coin sits somewhere on the paper. A grown-up will tell you only how far the coin is from each tower. Do you think one distance is enough? Two? Why do you think so?  
-  *Child mode:* There are three towers and a hidden coin. Is one distance enough to find the coin? Why?
+  *Parent says:* These three dots are towers. A hidden coin sits somewhere on the paper. A grown-up will tell you only how far the coin is from each tower.  
+  *Child mode:* Make a guess before we start.
   - Ask: How many distances do you think you need to be sure where the coin is? (good: One, because it tells me how far.; Two, one from each side.; Three, to be sure.)
   - Note: Do not correct the guess. Write it at the top of the table. Make sure the three towers are not in a straight line, or the test will not work.
 - **s2 (5 min) · grown-up needed**  
@@ -368,14 +368,14 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   - Check: The grown-up measures the distance from tower A to the coin as 10 centimetres. What does this tell you? → **The coin is somewhere on a circle with a radius of 10 centimetres around A**
 - **s3 (5 min)**  
   *Parent does:* Round 1. Take the first slip. With the compass point on tower A, draw a light circle with that distance as the radius. Mark with a small x a few places on it where the coin could be.  
-  *Parent says:* Put the compass point on tower A. Every place exactly this far from A lies on a circle around A. Draw the circle with the distance from the slip. Where could the coin be?  
-  *Child mode:* Draw a circle around A. The coin is on this circle. Where could it be?
+  *Parent says:* Put the compass point on tower A. Every place exactly this far from A lies on a circle around A. Draw the circle with the distance from the slip.  
+  *Child mode:* Draw a circle around A. The coin is somewhere on it.
   - Ask: Where could the coin be, now that you have drawn the circle? (good: Anywhere on the circle.; I cannot tell which spot.; Not inside the circle or outside it.)
   - Note: Write 'anywhere on the circle' in the table. With 2 to 4 children, give each child a copy of the tower sheet and the same three slips, then compare circles, or share one sheet with one tower and one coloured pencil for each child. The circle is all the places that are that far from A.
 - **s4 (6 min)**  
   *Parent does:* Round 2. Take the second slip. Draw a circle around tower B with that distance. Look at where the two circles cross. How many places are there? Mark them.  
-  *Parent says:* Now draw the circle around tower B. Where do the two circles cross? Could the coin be at either spot?  
-  *Child mode:* Draw a circle around B. Where do the circles cross?
+  *Parent says:* Now draw the circle around tower B. Look at where the two circles cross.  
+  *Child mode:* Draw a circle around B.
   - Ask: In how many places do the two circles cross, and what does that tell you about the coin? (good: Two places.; The coin could be at either one.; I still cannot be sure.)
   - Note: Two circles cross in two places, one on each side of the line joining the towers. Write 2 in the table.
 - **s5 (5 min)**  
@@ -404,8 +404,8 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   - Note: Do not correct the guess. Keep the guess for the end.
 - **s2 (7 min)**  
   *Parent does:* Measure the scale bar on the screen with the ruler. Write its length in centimetres, and the real distance written beside it. Work out how many metres 1 centimetre stands for.  
-  *Parent says:* Measure the scale bar with the ruler. If it is 1.5 centimetres long and says 100 metres, how many metres is 1 centimetre?  
-  *Child mode:* Measure the scale bar. How many metres is 1 centimetre?
+  *Parent says:* Measure the scale bar with the ruler. Read the real distance written beside it.  
+  *Child mode:* Measure the scale bar and read the real distance.
   - Note: Do not zoom the map after this. If the map slips or zooms by accident, measure the bar again. For example, if the bar is 1.5 centimetres for 100 metres, 1 centimetre is about 67 metres. Screens differ, so the answer will be different on your screen.
   - Check: The scale bar on the screen is 2 centimetres long and says 100 metres. How many metres does 1 centimetre stand for? → **50 metres**
 - **s3 (8 min)**  
@@ -439,7 +439,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   *Parent says:* This tray is a town. Each thing is a building. Give each one a name. Which will be the school? Which the shop?  
   *Child mode:* Make a town on a tray. Name the buildings.
 - **s2 (6 min)**  
-  *Parent does:* Draw a grid of 6 columns and 5 rows on squared paper. Write the letters A to F along the top and the numbers 1 to 5 down the side. Draw each building in the right square.  
+  *Parent does:* Draw a grid of 6 columns and 5 rows on squared paper. Write the letters A to F along the top and the numbers 1 to 5 down the side. Draw each building as a small shape, or write its name, in the right square.  
   *Parent says:* Draw the town from above. Put the letters across the top and the numbers down the side. Which square is the school in?  
   *Child mode:* Draw a grid. Put the town on it.
   - Ask: How did you decide which square each thing goes in? (good: I looked at where it is on the tray.; I counted the squares.; I matched the place on the tray to the place on the paper.)
@@ -447,20 +447,20 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 - **s3 (5 min)**  
   *Parent does:* Play a question game. You ask: what is in D3? Then swap: say a thing and ask for its square.  
   *Parent says:* What is in D3? Where is the shop? Give the square.  
-  *Child mode:* Ask what is in a square. Ask where a thing is.
+  *Child mode:* Take turns asking. Answer with a square.
   - Note: With 2 to 4 children, each child draws the same town and the children take turns to ask each other. If you have an atlas, look up your city in the index. It gives a page and a grid reference, for example 14, C5. Turn to the page and find the square.
   - Check: The post office is in square C4. Which way do you read it? → **Find column C, then go down to row 4**
 - **s4 (4 min)**  
   *Parent does:* Move a building in the tabletop town. Ask your child to say which square on the map has changed and what the new reference is.  
   *Parent says:* I moved the shop. Which square is now empty? Which square has the shop in it?  
-  *Child mode:* I moved the shop. Which squares changed?
+  *Child mode:* Find the squares that changed.
   - Think: Why would a city need a grid in its map book?
 ### a2 · Services Walk: who works where in our neighbourhood? (35 min)
 - **safety:** A grown-up comes on the walk. Stay on the footpath and cross the road only at a crossing. With 2 to 4 children, they stay together and walk beside the grown-up.
 - **record:** Your neighbourhood map, with a key, a north arrow and a scale, and a list of who works in each place.
 - **s1 (7 min)**  
   *Parent does:* List eight places that serve your neighbourhood. Think of a post office, a clinic, a school, a bank and a market. Add a bus stop, a police station and a water tank. Next to each, write one person who works there.  
-  *Parent says:* Which places near our home help everyone? Who works in each? What would we do without it?  
+  *Parent says:* Which places near our home help everyone? Who works in each?  
   *Child mode:* List eight places near home. Who works in each?
   - Ask: Which place near your home would you miss the most, and why? (good: The clinic, when someone is ill.; The market, for food.; The bus stop, to go to school.)
   - Note: Examples of people: postman, nurse, teacher, cashier, vegetable seller, bus conductor, constable, water tank operator. Accept any real answer.
@@ -471,17 +471,17 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   - Note: Use the morning Sun for roughly east, or a compass. With several children, one counts steps, one reads the compass and one writes, and they swap on each leg. Ask your child to say 'we are walking north' or 'we are turning east'.
 - **s3 (12 min)**  
   *Parent does:* Draw the map on squared paper. Use symbols for the places, such as a letter or a small shape. Make a key. Draw a north arrow. Choose a scale, such as 1 square for 20 steps, and write it on the map.  
-  *Parent says:* Draw the places where they really are. Make a key. Add the north arrow. Write the scale, like 1 square for 20 steps.  
+  *Parent says:* Draw the places where they really are, or lay small things on the floor and take a photo. Make a key. Add the north arrow. Write the scale, like 1 square for 20 steps.  
   *Child mode:* Draw the map. Add a key, a north arrow and a scale.
   - Note: The step count lets your child place the buildings in proportion. If the counts are not exact, that is fine, but the squares should follow the counts.
 - **s4 (6 min)**  
   *Parent does:* Show your map to someone else in the family. Ask them to add one place you forgot. Compare it with their own map of the same neighbourhood, if they draw one.  
-  *Parent says:* What did they add? How is their map different from yours? Is one of them wrong?  
+  *Parent says:* What did they add? How is their map different from yours?  
   *Child mode:* Compare your map with another. What is different?
   - Check: Two people draw maps of the same street. One shows the shops and the other shows the shaded benches. Is one map wrong? → **No, each map keeps what that person needs**
 ### a3 · Contour Hill: slice a clay hill with water (30 min)
 - **safety:** Pour the water slowly, work on a tray or a tray-sized towel, and wipe up spills at once so nobody slips.
-- **record:** The paper with the rings you traced, labelled with the height of each ring, and a drawing of the steepest and gentlest sides.
+- **record:** The paper with the rings you traced, labelled with the height of each ring, and a sentence saying which side is steepest and which is gentlest.
 - **s1 (7 min)**  
   *Parent does:* Shape a clay hill about 5 centimetres high, with a steep side and a gentle side. Press it firmly onto the floor of the box. Mark lines on the outside of the box at 1, 2, 3 and 4 centimetres above the floor.  
   *Parent says:* Make a hill. One side is steep. One side is gentle. Mark the box at 1, 2, 3 and 4 centimetres.  
@@ -499,7 +499,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   *Child mode:* Trace the rings. Write the heights. Compare the two sides.
   - Check: The rings are packed close together on one side of the hill. What does this tell you? → **The land is steep on that side**
 ### a4 · Two Maps of India: borders and land (20 min)
-- **record:** A list of what each map shows that the other does not, and a sketch of India with the Western Ghats, the Deccan and the rivers marked.
+- **record:** A list of what each map shows that the other does not, and, if you like, a sketch of India with the Western Ghats, the Deccan and the rivers marked. Or point to them on the map and tell your grown-up.
 - **s1 (6 min)**  
   *Parent does:* Find your state on a political map. Write the names of two states that share a border with it. Find your state on the physical map. What colour is it?  
   *Parent says:* Find our state on the political map. Which states touch it? Now find it on the physical map. What colour is it?  
@@ -513,13 +513,13 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   - Note: Most physical maps use green for low land and brown for high land. A key on the map says what each colour means.
 - **s3 (6 min)**  
   *Parent does:* Find the sources and ends of the Kaveri, the Godavari and the Narmada. Which way does each flow? Which rivers flow to the east and which to the west?  
-  *Parent says:* Where do these rivers begin and end? Which way does each one flow? What does that tell you about the slope of the land?  
+  *Parent says:* Where do these rivers begin and end? Which way does each one flow?  
   *Child mode:* Follow three rivers. Which way does each flow?
   - Check: Most of the large rivers of peninsular India, such as the Kaveri and the Godavari, flow east. What does this tell you about the land? → **The land slopes down towards the east**
 ### a5 · Map Mistakes: draw a map with five mistakes (20 min)
 - **record:** Your map with the mistakes circled, and a list of what each mistake would do to a reader.
 - **s1 (10 min)**  
-  *Parent does:* Draw a map of your room. Hide five mistakes in the map. Choose from these. Leave out the key. Leave out the north arrow. Draw the door on the wrong wall. Draw one wall too long. Use one symbol for two things.  
+  *Parent does:* Draw a map of your room (use paper cut-outs for the furniture if you like). Hide five mistakes in the map. Choose from these. Leave out the key. Leave out the north arrow. Draw the door on the wrong wall. Draw one wall too long. Use one symbol for two things.  
   *Parent says:* Draw a map of your room. Hide five mistakes in it, and do not tell me which. I will draw one too.  
   *Child mode:* Draw a map with five hidden mistakes.
   - Note: Draw your own as well, so the child searches for yours. A mistake should be something a reader could notice by checking the map against the room.
@@ -531,8 +531,8 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   - Note: With 2 to 4 children, pass the maps round in a circle. A good map can be checked. Walk the room with the map in your hand.
 - **s3 (4 min)**  
   *Parent does:* Talk about the mistakes. Which would cause the most trouble for a visitor?  
-  *Parent says:* Which mistake would send a visitor the wrong way? Which one only makes the map harder to read?  
-  *Child mode:* Which mistake is the worst for a visitor?
+  *Parent says:* Look at the mistakes you found. Which ones put something in the wrong place? Which ones only make the map harder to read?  
+  *Child mode:* Sort the mistakes: wrong place, or hard to read.
   - Check: Which mistake would send a visitor to the wrong place? → **The door drawn on the wrong wall**
 ### a6 · Our Latitude and Longitude: where on Earth is home? (15 min)
 - **record:** The latitude and longitude of your home, and a sentence comparing it with Delhi.
@@ -548,9 +548,9 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   - Note: One degree of latitude is about 111 kilometres, so for a home in Chennai the difference of about 15.6 degrees is around 1,700 kilometres. For another town, subtract the two latitudes and multiply by 111.
   - Check: Home is at 13 degrees north. Delhi is at 28.6 degrees north. Which is further north? → **Delhi**
 - **s3 (3 min)**  
-  *Parent does:* Talk. Why is a pair of numbers enough to name any place on Earth?  
+  *Parent does:* Talk it over, pointing on the globe or atlas if you have one.  
   *Parent says:* Why does a place on Earth need two numbers? Could one number be enough?  
-  *Child mode:* Why does a place need two numbers?
+  *Child mode:* Point on the globe: is one number enough?
   - Think: What if you only had the latitude? Where could you be?
 
 ## Projects
@@ -558,7 +558,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 - **record:** A five-page atlas, with a scale bar and a north arrow on each page, and a note on what appears and disappears as the scale shrinks.
 - **schedule:** day 1: Page 1: draw your room, with 1 centimetre for 50 centimetres. (15 min); day 2: Page 2: draw the floor of your building, with 1 centimetre for 5 metres. (15 min); day 3: Page 3: walk the street, count steps, and draw it with 1 centimetre for 50 metres. (20 min); day 5: Page 4: trace the neighbourhood from the phone, at about 1 centimetre for 500 metres. (15 min); day 6: Page 5: trace your city, at about 1 centimetre for 5 kilometres. (15 min); day 7: Bind the pages and compare them. (10 min)
 - **s1 (15 min)**  
-  *Parent does:* Page 1. Draw your room from above, using 1 centimetre for 50 centimetres. Measure the walls with a tape or count tiles. Draw the furniture. Draw a scale bar and a north arrow.  
+  *Parent does:* Page 1. Draw your room from above, using 1 centimetre for 50 centimetres (or lay paper cut-outs on the sheet and stick them down). Measure the walls with a tape or count tiles. Draw the furniture. Draw a scale bar and a north arrow.  
   *Parent says:* Page 1 is your room. Each centimetre on the paper stands for 50 centimetres in the room. Draw the walls, the door and the bed.  
   *Child mode:* Page 1: draw your room. 1 centimetre is 50 centimetres.
   - Ask: What do you think will happen to the details when we make each page 10 times smaller? (good: Small things will disappear.; Only big things will stay.; The map will have more area but less detail.)
@@ -586,9 +586,9 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   - Note: Measure the bar with a ruler again after zooming. The scale you write must be the one on the screen, even if it is not exactly 5 kilometres.
   - Check: On which page does a single house take up the most space? → **Page 1**
 - **s6 (10 min)**  
-  *Parent does:* Put the five pages in order and bind them. Compare them. What stays on every page, and what disappears? Write three sentences.  
-  *Parent says:* Look at all five pages. What is on every page? What disappears as the scale shrinks? Why?  
-  *Child mode:* Compare the pages. What disappears? Why?
+  *Parent does:* Put the five pages in order and bind them. Compare them, then say or write three sentences.  
+  *Parent says:* Look at all five pages side by side. Why do things disappear as the scale shrinks?  
+  *Child mode:* Lay the pages side by side and look for what stays.
   - Ask: What is on every page, and what disappears? (good: Big roads stay on every page.; The bed disappears first.; Small things vanish when the scale gets small.)
   - Note: With 2 to 4 children, each child draws their own atlas of their own room and the shared street, or they split the pages and bind one atlas together. A good answer says that as the scale gets smaller, the map covers more ground but has to leave out small things. A mapmaker chooses what to keep for each scale.
 
@@ -627,7 +627,7 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
 - **general:** Use rope for walls, a gap in the rope for the door, and bottle caps for furniture.; Use sandpaper for the carpet and foil for a window.; Put a small knob of clay to mark north.
 - **creative:** Use a raised arrow of string for the north arrow.; Add a trail of dots of glue for the route to the hidden object.; Make a second map of the same room with a different scale.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem. Sit with your eyes closed and feel an object. What do your fingers learn? What can they not learn?  
+  *Parent does:* Read the problem. Sit with your eyes closed and feel an object.  
   *Parent says:* Close your eyes and feel a spoon. What do your fingers learn? What can they not learn?  
   *Child mode:* Close your eyes. Feel a spoon. What can you learn?
   - Ask: What does a map need if you can only feel it? (good: Things you can feel.; Different textures for different things.; A key you can touch.)
@@ -643,9 +643,9 @@ That evening, Anjana hung the knotted rope on its nail. She ran her fingers alon
   - Note: Safety: clear the floor of toys, wires and sharp corners, keep away from stairs and doors to the road, and let the blindfolded person lift the scarf at any time. Only a grown-up or an older friend should walk blindfolded.
   - Check: Why must the walls of a touch map have the same scale? → **So the shape of the room stays right**
 - **s4 (5 min)**  
-  *Parent does:* Talk about what worked. Which textures were easy to tell apart? Which were confusing?  
+  *Parent does:* Talk about what worked and what did not.  
   *Parent says:* What was easy to read by touch? What was confusing? What would you change?  
-  *Child mode:* What was easy to feel? What was confusing?
+  *Child mode:* Pick one thing to change.
   - Note: With 2 to 4 children, make one map each and swap, or build one map together with each child making one wall or one piece of furniture. Take turns to be the blindfolded reader.
   - Think: What do people who cannot see need from a map, and how are they given it?
 

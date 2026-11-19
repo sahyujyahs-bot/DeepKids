@@ -558,7 +558,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a memory game. Each pair is a claim about the sky and the evidence that showed it. When you find a pair, say in your own words why the evidence backs up the claim.",
+   "context": "This is a memory game. Each pair is a claim about the sky and the evidence that showed it. When you find a pair, say in your own words why the evidence backs up the claim. You will see that every claim needs evidence.",
    "setup": [
     {
      "art": "Twenty cards face down in four rows on a mat, with two turned up: a claim card and its proof card.",
@@ -634,7 +634,7 @@
      "parent": "Help with the harder ones. A good reason for the Tycho pair: his readings were so careful that a gap of 8 arcminutes had to be real.",
      "check": {
       "t": "mcq",
-      "q": "Why does a long pendulum change its swing direction over the floor?",
+      "q": "Over hours, a long pendulum's swing seems to turn round on the floor. Why?",
       "options": [
        "The floor is turning under it, because the Earth spins",
        "The pendulum is getting tired",
@@ -666,7 +666,7 @@
    "setup": [
     {
      "art": "A table with a pile of question cards, eight role cards laid out face up, and a child as the judge holding a pebble.",
-     "caption": "1. The judge reads a question. The witnesses take role cards."
+     "caption": "1. The judge reads a question. The astronomers take role cards."
     },
     {
      "art": "A child in a paper hat speaking while others listen, and the judge handing a pebble to the best speaker.",
@@ -787,8 +787,8 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Play the first question cards. The judge hands out points and reads the backs. After the third question, ask the question below.",
-     "say": "Judge, read the question. Astronomers, answer in character. Now judge, whose argument used the best evidence?",
+     "do": "The judge reads a question card aloud. Each astronomer answers as their person would. The judge gives a point, or a pebble, to the best answer and reads the back of the card. Play three questions. Then ask your child the question below.",
+     "say": "Judge, read the question. Astronomers, answer in character. Then judge, pick the answer with the best evidence.",
      "kid": "The judge reads. Answer as your person would. The judge picks the best.",
      "ask": [
       {
@@ -878,7 +878,7 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Show your child the chair, the scarf and the slips. Ask for a guess about the eyes-shut test and the eyes-open test, and a reason. Write the guess.",
+     "do": "Show your child the chair, the scarf and the six slips, three marked TURN and three marked STILL. Ask for a guess about the eyes-shut test and the eyes-open test, and a reason. Write the guess.",
      "say": "You will sit in this chair. With your eyes shut, can you tell if it turns slowly and steadily? With your eyes open, who seems to be turning? Why do you think so?",
      "kid": "With your eyes shut, can you feel a slow turn? With your eyes open, who seems to turn?",
      "ask": [
@@ -898,7 +898,7 @@
      "id": "s2",
      "mins": 6,
      "do": "With the eyes open, turn the chair very slowly. Ask the child to call out the letter on the sheet of paper that is straight ahead as it passes. Then ask: is the room turning, or is the chair? Stop the chair gently.",
-     "say": "I will turn the chair very slowly. Call out the letter on the wall that is straight in front of you. Is the room turning round you, or are you turning round the room?",
+     "say": "I will turn the chair very slowly. Call out the letter on the sheet that is straight in front of you. Is the room turning round you, or are you turning round the room?",
      "kid": "Keep your eyes open. Call out the letter in front of you. Who is turning, you or the room?",
      "adult": true,
      "parent": "The child can tell by looking that the room seems to turn the other way. This is the picture in Aryabhata's boat: when you move, the world seems to move backwards. Keep the turning slow and smooth.",
@@ -907,14 +907,14 @@
     {
      "id": "s3",
      "mins": 14,
-     "do": "Cover the eyes with the scarf. Draw a slip in secret. On a TURN slip, start the chair very gently and build up to one turn in ten seconds. On a STILL slip, touch the chair lightly but do not turn it. After 20 seconds, ask: turning or still? Write down the answer. Do six rounds.",
+     "do": "Cover the eyes with the scarf. Pick a slip in secret. On a TURN slip, start the chair very gently and build up to one turn in ten seconds. On a STILL slip, touch the chair lightly but do not turn it. After 20 seconds, ask: turning or still? Write down the answer. Do six rounds.",
      "say": "Shut your eyes and hum a tune. In a moment I will either turn you slowly or keep you still. After a little while, tell me: turning or still?",
      "kid": "Shut your eyes and hum a tune. After a while, say whether you are turning or still.",
      "adult": true,
      "parent": "Start each TURN round very gently, so that the push is hard to feel, and keep the turn steady. In a STILL round, make the same small touch and noises. If the child is right six times, ask which clue she used, such as a breeze, a creak or a touch. Chance alone gives about three right out of six. Your own results decide what you write. One child with a parent: the parent turns the chair and draws the slips, and the child plays all six rounds. With 2 to 4 children: one is the turner, one is the scorer, and each child in the chair plays four rounds, so the whole group takes about 15 minutes. Add up all the right answers and compare with half of all rounds, which is what guessing gives. Many children score near chance and a few do better, because a gentle start can sometimes be felt. Both results are honest. Write down what you got.",
      "check": {
       "t": "mcq",
-      "q": "Why does the grown-up draw the slips in secret and make a small touch on every round?",
+      "q": "Why does the grown-up pick the slips in secret and make a small touch on every round?",
       "options": [
        "So that the child cannot guess from any clue except the turning itself",
        "To make the game last longer",
@@ -949,8 +949,8 @@
      "id": "s5",
      "mins": 6,
      "do": "Ask your child what they think now, what they saw that shows it, and why. Then ask about the Earth.",
-     "say": "Tell me three things. What do you think now? What did you notice that shows it? And why? The Earth turns steadily once a day. Would you feel it?",
-     "kid": "Say what you think, what you saw and why. Would you feel the Earth turn?",
+     "say": "Tell me three things. What do you think now? What did you notice that shows it? And why? Now think about the Earth. It turns steadily, once a day.",
+     "kid": "Say what you think, what you saw and why. Then think about the Earth.",
      "parent": "This is claim, evidence and reasoning. A good answer: what I think: a slow steady turn is hard or impossible to feel. What I saw: for example, I got three or four of six right, which is about what chance gives, but I felt the sudden stop. If you got five or six right, say which clue you used. Why: our bodies sense changes in movement, and a steady movement has no change to sense. The Earth turns steadily, and never starts or stops, so we feel nothing. With eyes open, the room seemed to turn the other way, as the bank does from a boat. That is why the Sun seems to move across the sky when it is we who are turning.",
      "check": {
       "t": "mcq",
@@ -1076,13 +1076,13 @@
      "what": "Set up the lamp, the chair and the strings. Move the ball around the Earth-centred path and then around the Sun-centred path. Record the shapes and sizes. Compare with what Galileo saw."
     }
    ],
-   "record": "Fill in the table. Draw the ball as you saw it at each stop, with the lit part shaded white.",
+   "record": "Fill in the table. For each stop, write how much of the ball was lit, or draw the ball with the lit part shaded white.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Show your child the lamp, the ball and the strings. Say that the lamp is the Sun and the ball is Venus. Ask for a guess and a reason.",
-     "say": "The lamp is the Sun and the ball is Venus. In one model, Venus stays between us and the Sun. In the other, it goes right round the Sun. Which one can make Venus look full? Why do you think so?",
+     "say": "The lamp is the Sun and the ball is Venus. In one model, the Earth is the centre, and Venus stays between us and the Sun. In the other model, Venus goes right round the Sun. Which one can make Venus look full? Why do you think so?",
      "kid": "The lamp is the Sun. The ball is Venus. Which model can make Venus look full? Why?",
      "ask": [
       {
@@ -1152,7 +1152,7 @@
      "mins": 7,
      "do": "Ask your child what they think now, what they saw that shows it, and why. Then tell the story of Galileo and Venus.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Galileo saw Venus nearly full and small in late 1610, and later as a big thin crescent. Which model fits?",
-     "kid": "Say what you think, what you saw and why. Which model fits what Galileo saw?",
+     "kid": "Say what you think, what you saw and why.",
      "parent": "This is claim, evidence and reasoning. A good answer: what I think: Venus must go round the Sun, and not just stay in front of it. What I saw: in the Earth-centred circle the ball never looked more than a thin crescent. In the Sun-centred circle it looked nearly full, and small, when it was on the far side of the lamp. Why: a ball can look full only if it can go behind the lamp. Be fair to Tycho: his middle model, where the Sun goes round the Earth and Venus goes round the Sun, also fits. So Galileo showed that Ptolemy's Venus was wrong. He did not yet prove that the Earth moves.",
      "check": {
       "t": "mcq",
@@ -1167,7 +1167,7 @@
      }
     }
    ],
-   "context": "In this experiment you use a lamp and a ball to find which models of Venus can show every phase. It repeats Galileo's telescope discovery, which showed that Ptolemy's model of the planets was wrong.",
+   "context": "In this experiment you use a lamp and a ball to find which models of Venus can show every phase. It repeats Galileo's telescope discovery, which showed that the Earth-centred model of Ptolemy, an astronomer of ancient Greece, was wrong. You will find out which model can make Venus look full.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1331,7 +1331,7 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "Rest the quadrant on the edge of a table at the same standing place. Use the same short straw. Take ten more readings. Then swap to the long straw and take ten more.",
+     "do": "Rest the quadrant on the edge of a table at the same standing place. Use the same short straw. Take ten more readings. Then swap to the long straw and take ten more. Later you will compare the spread of each set of ten, which is the biggest reading minus the smallest.",
      "say": "Now rest the quadrant on the table edge. Take ten more readings. Then swap to the long straw and take ten more. Are the numbers closer together?",
      "kid": "Rest the quadrant on a table and take ten readings. Then swap to the long straw and take ten more.",
      "parent": "The table takes away the shaking of the hand, and the long straw makes it easier to aim at a small sticker. Expect the spread to fall, but your own results decide. For the long straw, tape it along the flat edge so that it sticks out past the card, in place of the short one. If the table does not help your readings, write that down as it is. A common cause is a thread that still swings, so pinch it slowly and read it twice.",
@@ -1351,12 +1351,12 @@
      "id": "s5",
      "mins": 10,
      "do": "Work out the spread for each setup. Change each spread into arcminutes by multiplying by 60. Ask your child what they think now, what they saw that shows it, and why. Then ask about Tycho.",
-     "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Tycho's best readings were good to one arcminute. How does that compare with yours?",
+     "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Tycho's best readings were good to one arcminute, which is a sixtieth of a degree. How does that compare with yours?",
      "kid": "Find each spread. Multiply by 60 to get arcminutes. How do your readings compare with Tycho's?",
      "parent": "This is claim, evidence and reasoning. A good answer: what I think: a steadier, longer instrument gives readings that agree more closely. What I saw: the spread went from, for example, 5 degrees in my hands to 2 degrees on the table and 1 degree with the long straw. Why: shaking and hard aiming cause the readings to scatter, and a table and a long sight reduce both. Then Tycho: 1 degree is 60 arcminutes. If your best spread is 1 degree, Tycho's one arcminute was 60 times more precise. This is why he built huge brass instruments, fixed in place, with finely marked scales. And it is why Kepler could trust a gap of 8 arcminutes. With your quadrant, a gap of 8 arcminutes would have been invisible.",
      "check": {
       "t": "mcq",
-      "q": "Your best spread is 1 degree. How many arcminutes is that, and could you have noticed Kepler's gap of 8 arcminutes?",
+      "q": "Your best spread is 1 degree. How many arcminutes is that, and could you have noticed the 8 arcminute gap that Kepler found in Mars's path?",
       "options": [
        "60 arcminutes, and no, the gap is hidden inside the spread",
        "60 arcminutes, and yes, easily",
@@ -1367,7 +1367,7 @@
      }
     }
    ],
-   "context": "In this experiment you build a simple quadrant and measure the same angle many times. It shows what precision means and why Tycho Brahe built giant, steady instruments.",
+   "context": "In this experiment you build a simple quadrant and measure the same angle many times. It shows what precision means, which is how closely repeated readings agree, and why Tycho Brahe built giant, steady instruments.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1500,7 +1500,7 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Look at the shape with the pins 2 centimetres apart. Mark each pin spot with a dot. The pin spots are called foci. Ask which one is the Sun. Then look at how far the Sun is from the middle of the shape.",
+     "do": "Look at the shape with the pins 2 centimetres apart. Mark each pin spot with a dot. The pin spots are called foci. Say that one dot is the Sun. It does not matter which. Then look at how far the Sun is from the middle of the shape.",
      "say": "Mars has a path like the shape with pins 2 centimetres apart. It looks like a circle. But the Sun is at one pin, and the pin is 1 centimetre from the middle. That small gap is what Kepler used. If the path were a circle, where would the Sun sit? How is your shape different?",
      "kid": "Put a dot at each pin. The Sun is at one. How far is it from the middle?",
      "parent": "This shape is close to the real path of Mars, whose Sun is off-centre by about a tenth of the path's radius. A circle with the Sun in the middle would be 1 centimetre wrong. Tycho's readings were good enough to notice that.",
@@ -1517,7 +1517,7 @@
      }
     }
    ],
-   "context": "In this activity you draw a circle and three ellipses using a loop of thread and two pins. It shows what Kepler found, and how close to a circle the planets' paths really are.",
+   "context": "In this activity you draw a circle and three ellipses using a loop of thread and two pins. An ellipse is a stretched circle. It shows what Kepler found, and how close to a circle the planets' paths really are.",
    "setup": [
     {
      "art": "A sheet of paper on a card with two pins and a loop of thread round them and a pencil pulling the thread tight.",
@@ -1590,7 +1590,7 @@
      "id": "s1",
      "mins": 6,
      "do": "Find your city's latitude. Take away this number from 90 to get the tilt. Chennai is about 13 degrees, so the tilt is 77. Kochi is about 10 and Bengaluru about 13. Hyderabad is about 17, Pune about 18 and Mumbai about 19. Kolkata is about 23, Jaipur about 27 and Delhi about 29.",
-     "say": "Every sundial must be tilted for its own city. Look up your latitude. Then take it away from 90. That is the tilt of your dial from flat. Why do you think a different city needs a different tilt?",
+     "say": "Every sundial must be tilted for its own city. Look up your latitude, which is how far north of the equator your city is. Then take it away from 90. That is the tilt of your dial from flat. Why do you think a different city needs a different tilt?",
      "kid": "Find your latitude. Take it away from 90. That is your dial's tilt.",
      "parent": "The tilt makes the dial plate parallel to the Earth's equator. That way, the Sun's shadow turns evenly, 15 degrees every hour, because the Earth turns 15 degrees every hour. At Jaipur, the tilt of the great stone dial is its latitude, about 27 degrees.",
      "context": "This is the first step of the sundial. You find the tilt that your city needs."
@@ -1608,7 +1608,7 @@
      "id": "s3",
      "mins": 7,
      "do": "Push the pencil through the middle dot, straight, so that it sticks out equally on both sides. Prop the card on books and clay so that the card is tilted from flat by your tilt number. Check with the protractor. Turn the dial so that the 12 line points down the slope to the north. The top of the pencil also points north.",
-     "say": "The pencil is the gnomon. The pencil should point at the Pole Star, which is in the north. The card is tilted so that the pencil points up at the angle of your latitude. Check with the protractor.",
+     "say": "The pencil is the gnomon, the part that casts the shadow. It should point at the Pole Star, which is in the north. The card is tilted so that the pencil points up at the angle of your latitude. Check with the protractor.",
      "kid": "Push the stick through the middle. Tilt the card. Point the stick north.",
      "adult": true,
      "parent": "Use a phone compass to find north. In India, magnetic north differs from true north by only a degree or two, which is fine. The pencil must make an angle with the flat ground equal to your latitude. For Chennai, that is 13 degrees. Day 1 stops here. If you have no phone compass, use the north-south line from the challenge Find North and Noon with Just a Stick and the Sun. One child with a parent: the parent holds the compass while the child tilts and checks the angle. For 2 to 4 children: one traces and writes the hours, one tilts the card with the protractor, one points it north, and each child reads the dial at one of the four times.",
@@ -1690,7 +1690,7 @@
      "qty": 1
     },
     {
-     "item": "your own fist, held at arm's length, to measure the sky",
+     "item": "your own hand, held at arm's length, to measure the sky in finger widths (one finger is about 1 degree)",
      "qty": 1
     }
    ],
@@ -1712,14 +1712,14 @@
      "what": "Draw it a third time. Then use the app to speed up time and watch a planet's loop."
     }
    ],
-   "record": "Draw the same patch of sky on three nights, with the planet and the nearest three stars each time. Write the date under each drawing.",
+   "record": "For each of the three nights, write the date and the three finger-width gaps between the planet and its nearest stars. You may also draw the patch or add a photo.",
    "flow": [
     {
      "id": "s1",
      "mins": 10,
-     "do": "Open the sky-map app and set it to tonight. Find a bright planet that is above the horizon in the evening or morning. Go outside and find it. Draw it and the three nearest stars. Measure the gaps between them in fists held at arm's length.",
-     "say": "A planet is a wandering star. Let's find one. In the app, find the brightest planet tonight. Then find it in the real sky. What stars are near it? Draw them.",
-     "kid": "Find a bright planet with the app. Find it in the sky. Draw it with its three nearest stars.",
+     "do": "Open the sky-map app and set it to tonight. Find a bright planet that is above the horizon in the evening or morning. Go outside and find it. Pick the three stars nearest to it. Hold your hand at arm's length. Measure the gap from the planet to each star in finger widths, and write the three numbers. Draw the patch too, or take a photo.",
+     "say": "The Greeks called a planet a wandering star. Let's find one. In the app, find the brightest planet tonight. Then find it in the real sky. Which three stars are nearest to it? How many fingers away is each one?",
+     "kid": "Find a bright planet with the app. Find it in the sky. Measure its gap to three nearby stars in finger widths.",
      "adult": true,
      "parent": "Venus, Jupiter, Saturn and Mars are the planets you can find without a telescope. Which of them is up changes through the year. The app tells you which. Planets shine with a steady light. Stars twinkle. If it is cloudy, try the next night. Check in the app how far the planet is expected to move in a week. If the sky is cloudy for days, or the app shows no bright planet up this week, draw the Moon next to a bright star on three nights instead. The Moon moves a fist or more each night, so the shift is easy to see. Each child draws their own page. One child with a parent: the parent keeps the app open and the child draws. For 2 to 4 children: one finds the planet in the app, one finds it in the sky, one measures gaps, and one draws, and then swap.",
      "context": "This is the first step of Wanderer Watch. You find a planet and draw where it is among the stars."
@@ -1727,9 +1727,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Three days later, at the same time, go out and draw the same patch of sky. Compare it with the first drawing. Has the planet moved against the stars? Which way?",
+     "do": "Three days later, at the same time, go out and find the same planet. Measure its gap to the same three stars. Compare with your first numbers. Has the planet moved against the stars? Which way? The move may be small, about one finger or less.",
      "say": "It is three nights later, at the same time and in the same place. Where is the planet now? Where are the stars? Which have moved, and which have not?",
-     "kid": "Draw the same patch again. Has the planet moved against the stars?",
+     "kid": "Measure the same three gaps again. Has the planet moved against the stars?",
      "parent": "Venus moves about a finger-width or two in three days, and Mars about one. Jupiter and Saturn move much less than one finger-width in a week, so they may look unmoved. Measure the gap between the planet and a nearby star in finger-widths at arm's length each night. If you chose a slow planet and see no change, do not worry. Draw it again after three weeks, or trust the app, which shows the small shift. If you cannot see a shift, look at the three nights together. The stars stay put in the drawing and the planet slides.",
      "check": {
       "t": "mcq",
@@ -1746,7 +1746,7 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "On the seventh night, draw it a third time. Then use the app to speed up time, with the time step set to one day. Watch Mars, Jupiter or Saturn for a year. Look for the backward loop.",
+     "do": "On the seventh night, measure the three gaps a third time. Then use the app to speed up time, with the time step set to one day. Watch Mars, Jupiter or Saturn for a year. Look for the backward loop.",
      "say": "Now the app can show us a whole year in a few seconds. Watch the planet against the stars. Does it ever stop and slide backwards? When?",
      "kid": "Speed up time in the app. Watch the planet. Does it slide backwards?",
      "parent": "In the app, choose a planet that is far from the Sun, such as Mars or Jupiter. Set the time step to one day. When the planet seems to stop, slide back and go forward again, you have seen retrograde motion. Earth overtakes it, as a car overtakes a lorry.",
@@ -1755,7 +1755,7 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Look at your three drawings and the loop in the app. Ask your child what they think now, what they saw that shows it, and why.",
+     "do": "Look at your three sets of numbers and the loop in the app. Ask your child what they think now, what they saw that shows it, and why.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Why did people long ago think the planets were wandering stars?",
      "kid": "Say what you think, what you saw and why. Why were planets called wanderers?",
      "parent": "A good answer: what I think: planets move among the stars, and sometimes loop backwards. What I saw: the planet shifted against the stars over a week, and the app showed a backward loop. Why: the planets go round the Sun at different speeds, and from our own moving Earth they seem to wander and loop.",
@@ -1772,7 +1772,7 @@
      }
     }
    ],
-   "context": "In this activity you draw the same patch of sky over a week, and then use a sky app to watch a planet's loop. It shows why planets were called wanderers.",
+   "context": "In this activity you find a planet among the stars on three nights in one week, and then use a sky app to watch its loop. You will find out why planets were called wanderers.",
    "setup": [
     {
      "art": "A phone showing a sky map with a bright planet highlighted, held by a child on a balcony at dusk.",
@@ -1780,7 +1780,7 @@
     },
     {
      "art": "A notebook page with three small drawings of the same star patch, a planet in a different place in each.",
-     "caption": "2. Draw the same patch on three nights. The planet moves against the stars."
+     "caption": "2. Measure the same gaps on three nights. The planet moves against the stars."
     },
     {
      "art": "A phone screen showing a planet's path as a loop among stars with a date scale.",
@@ -1896,7 +1896,7 @@
    "mins": 50,
    "materials": [
     {
-     "item": "a lazy Susan or a turntable from the kitchen, about 25 to 30 centimetres across, that turns smoothly. No turntable? Use the seat of a swivel chair that a grown-up turns slowly, or try the hand-held version in step 3",
+     "item": "a lazy Susan or a turntable from the kitchen, about 25 to 30 centimetres across, that turns smoothly. No turntable? Use the seat of a swivel chair that a grown-up turns slowly",
      "qty": 1
     },
     {
@@ -1929,7 +1929,7 @@
      "what": "Build the frame on the turntable. Start the pendulum swinging. Turn the turntable slowly by hand through a quarter turn. See which way the pendulum swings."
     }
    ],
-   "record": "Draw the turntable seen from above at four stops of a quarter turn, with the tape line on the turntable and the swing direction of the pendulum.",
+   "record": "Draw the turntable seen from above at four stops of a quarter turn, with the tape line on the turntable and the swing direction of the pendulum. Or take a photo at each stop and write which way the table line and the swing pointed.",
    "flow": [
     {
      "id": "s1",
@@ -1984,9 +1984,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Draw the four stops of a quarter turn from above. At each stop, draw the table line and the swing direction. Ask your child what they think now, what they saw that shows it, and why. Then ask about the Earth.",
+     "do": "Turn the table four quarter turns, one stop at a time. At each stop, ask your child to point along the table line, and then along the swing. Ask your child what they think now, what they saw that shows it, and why. Then ask about the Earth.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why? Now suppose the turntable is the Earth, and the pendulum is Foucault's pendulum in Paris. What would a person standing on the Earth see?",
-     "kid": "Draw the four stops. Say what you think, what you saw and why. What if the table is the Earth?",
+     "kid": "At each stop, point along the table line, then along the swing. Say what you think, what you saw and why.",
      "parent": "This is claim, evidence and reasoning. A good answer: what I think: the pendulum keeps swinging in the same direction while the table turns. What I saw: the table line turned a quarter turn, but the swing stayed along the room line. Why: nothing pushed the swing sideways, so it kept its direction. If the table is the Earth, then to a person standing on it the swing seems to turn slowly in the opposite direction. In 1851, Foucault hung a heavy pendulum in Paris and the swing turned round the floor at about 11 degrees an hour, which showed that the floor was turning under it.",
      "check": {
       "t": "mcq",
@@ -2001,7 +2001,7 @@
      }
     }
    ],
-   "context": "In this project you hang a pendulum from a frame on a turntable and turn the table. It shows the idea of Foucault's pendulum, which proved in 1851 that the Earth spins.",
+   "context": "In this project you hang a pendulum, which is a weight on a thread that swings, from a frame on a turntable and turn the table. It shows the idea of Foucault's pendulum, which proved in 1851 that the Earth spins.",
    "setup": [
     {
      "art": "A turntable with a stack of books on each side and a ruler taped across the top, and a thread with a weight hanging from the middle.",
@@ -2017,7 +2017,7 @@
     },
     {
      "art": "Four drawings of the turntable from above at quarter turns, the table line rotating and the swing arrow staying the same.",
-     "caption": "4. Draw four stops. The table line turns, and the swing does not."
+     "caption": "4. Turn four quarter turns. The table line turns, and the swing does not."
     }
    ]
   }
@@ -2155,7 +2155,7 @@
      "id": "s1",
      "mins": 8,
      "do": "Read the problem and the three models. Read out the evidence list for 1600. Ask which model your child would advise, and why. Write the answer.",
-     "say": "It is 1600. Planets loop, no star seems to shift, and Tycho has careful readings. Which model would you advise the king to use, and why?",
+     "say": "It is 1600, and you are the court astronomer. The king must pick a model. Ptolemy's has the Earth in the centre. Tycho's has the planets going round the Sun, and the Sun going round the Earth. Copernicus's has the Sun in the centre. Here is the evidence. Planets loop, no star seems to shift, and Tycho has careful readings. Which model would you advise the king to use, and why?",
      "kid": "It is 1600. Which model would you choose? Why?",
      "ask": [
       {

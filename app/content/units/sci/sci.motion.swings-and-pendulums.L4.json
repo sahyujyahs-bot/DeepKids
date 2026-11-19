@@ -428,7 +428,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about the energy swap in a swing. Each card shows a moment, and you decide which kind of energy is bigger at that moment.",
+   "context": "This is a card game about the energy swap in a swing. Height energy is the energy something has because it is high up. Movement energy is the energy something has because it is moving. Each card shows a moment, and you decide which kind of energy is bigger at that moment.",
    "setup": [
     {
      "art": "Twenty-four cards in a shuffled pile with two kinds of token in front of each player: Height and Movement.",
@@ -585,7 +585,7 @@
      "mins": 3,
      "do": "Play one practice card together. Use the card about a swing at the very bottom of its path. Show how to turn the tokens over together.",
      "say": "A swing is at the very bottom, moving fastest. Which kind of energy is bigger there? Choose a token and say why.",
-     "kid": "A swing is at the bottom. Which energy is bigger? Pick a token.",
+     "kid": "Pick a token and say why.",
      "check": {
       "t": "mcq",
       "q": "A swing is at the very bottom of its path, moving at its fastest. Which kind of energy is bigger?",
@@ -639,7 +639,7 @@
      "mins": 2,
      "do": "Add up the points. Then choose the card that surprised everyone most, and talk about why.",
      "say": "Which card surprised you most? What did you think before, and what do you think now?",
-     "kid": "Which card surprised you most? Why?",
+     "kid": "Pick the card that surprised you most.",
      "ask": [
       {
        "q": "Which card changed your mind, and why?",
@@ -717,7 +717,7 @@
      "what": "Build the pendulum. Test it with no peg, with a peg 25 centimetres above the bag and with a peg 12 centimetres above the bag. Look for the height the bag reaches each time."
     }
    ],
-   "record": "For each test, write the highest point the bag reached on the far side. Draw the swing and the peg for the last test. Then circle whether the height was the same, higher or lower than the start.",
+   "record": "For each test, write the highest point the bag reached on the far side. Draw the swing and the peg for the last test, or take a photo of it. Then circle whether the height was the same, higher or lower than the start.",
    "flow": [
     {
      "id": "s1",
@@ -733,7 +733,7 @@
      "mins": 4,
      "do": "Ask your child for a guess and a reason for each of the three tests. Write the guesses in the table.",
      "say": "We will let the bag go from the top line three times. First with no peg. Then with a peg that catches the thread halfway. Then with a peg lower down. How high will it rise each time? Why?",
-     "kid": "Guess first. Will the bag rise as high with a peg? Higher? Lower? Why?",
+     "kid": "Make your guess, and say why, before you test.",
      "ask": [
       {
        "q": "What do you think will happen with the peg? Why?",
@@ -770,7 +770,7 @@
      "mins": 5,
      "do": "1. Move the pencil lower, so the part of the thread below it is only 12 centimetres. 2. Let go from the top line, which is 6 centimetres up. 3. Mark where the bag stops. 4. Do it three times.",
      "say": "Test three has the peg much lower. The curve is even tighter. Will the bag still reach the same height?",
-     "kid": "Move the peg lower. Try again. Does the bag still reach the line?",
+     "kid": "Move the peg lower. Let go again and see where the bag stops.",
      "parent": "With 12 centimetres of thread below the peg, the bag swings on a small circle. It should still reach about 5 to 6 centimetres above the line where it rests. If it does not, check that the thread is not slack.",
      "check": {
       "t": "mcq",
@@ -929,7 +929,7 @@
      "mins": 3,
      "do": "Ask your child for a guess and a reason. Write the guess in the table.",
      "say": "We will let go from three heights, 5, 10 and 20 centimetres. If we double the height, how far will the box slide? Why do you think so?",
-     "kid": "Guess. If you let go from twice as high, how far will the box slide?",
+     "kid": "Make your guess, and say why, before you test.",
      "ask": [
       {
        "q": "How far do you think the box will slide if the bag falls from twice as high? Why?",
@@ -957,7 +957,7 @@
      "mins": 6,
      "do": "1. Now let go from 10 centimetres above rest, three times. 2. Then let go from 20 centimetres, three times. 3. Measure each slide and write it in the table. 4. Work out the mean for each height.",
      "say": "Now the same test from 10 centimetres, then from 20. Measure every slide. What do you notice?",
-     "kid": "Test 10 centimetres, then 20. Measure the slides. What changes?",
+     "kid": "Test 10 centimetres, then 20. Measure every slide.",
      "parent": "The slide usually grows about as fast as the height does, so 10 centimetres slides roughly twice as far as 5, though the results are untidy. The example chart is made up: your numbers depend on your floor and your box, so look at the pattern, not the exact numbers. A bumpy floor, a tipping box or a bag that hits off-centre all make the results untidy. That is why we take the mean of three tries.",
      "check": {
       "t": "mcq",
@@ -977,7 +977,7 @@
      "mins": 3,
      "do": "Look at your bar chart. Ask your child to say what they think, what they saw and why.",
      "say": "What did the height change? Tell me what you think, what you saw and why.",
-     "kid": "What did the height change? Say what you think, what you saw and why.",
+     "kid": "Point to the longest and shortest slide. Say what you saw.",
      "ask": [
       {
        "q": "What did you find out?",
@@ -1040,7 +1040,7 @@
    "title": "How Many Swings Should You Time?",
    "mins": 30,
    "days": 1,
-   "context": "In this experiment you time a 25 centimetre pendulum by timing 1 swing, then 10, then 30. You find out which gives the steadiest answer for the time of one swing.",
+   "context": "In this experiment you time a 25 centimetre pendulum by timing 1 swing, then 10, then 30. You find out which gives answers that are closest together for the time of one swing.",
    "question": "If you work out the time of one swing by timing 1 swing, 10 swings or 30 swings, which way gives answers that are closest to each other?",
    "predict": "Before you start, guess. Which way will give the answers that are closest together: timing 1 swing, 10 swings or 30 swings? Why do you think so?",
    "fair_test": "Use the same 25 centimetre pendulum, and pull the bag the same small distance aside every time. Only the number of swings you time changes. Press the stopwatch the same way each time. Do five tries for 1 swing, five for 10 swings and three for 30 swings, because 30 swings takes longer.",
@@ -1107,7 +1107,7 @@
      "mins": 3,
      "do": "Ask for a guess and a reason. Write it down.",
      "say": "We will time 1 swing, then 10, then 30. Which will give answers that are closest together? Why do you think so?",
-     "kid": "Guess. Which count gives the steadiest answer? Why?",
+     "kid": "Make your guess, and say why, before you time anything.",
      "ask": [
       {
        "q": "Which do you think will be steadiest, and why?",
@@ -1164,7 +1164,7 @@
      "mins": 2,
      "do": "Look at the smallest and biggest time of one swing for each count. Ask your child to say what they found.",
      "say": "Which count gave the smallest gap between the smallest and the biggest answer? Tell me what you think, what you saw and why.",
-     "kid": "Which count gave the smallest gap? Say why.",
+     "kid": "Look at the table. Find the count with the smallest gap.",
      "ask": [
       {
        "q": "What did you find out?",
@@ -1262,14 +1262,14 @@
      "what": "Roll the marble from three heights up the side of a bowl, measure how high it climbs on the other side, and notice what it does."
     }
    ],
-   "record": "Draw the bowl and the marble. Write the start height and the stop height for each of your three tries. Write one thing you noticed and one thing you wonder.",
+   "record": "Write the start height and the stop height for each of your three tries. Write one thing you noticed and one thing you wonder.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "1. Place the bowl on a table or the floor. 2. Hold the marble against the inside near the rim. 3. Let go. 4. Watch where it climbs to on the other side.",
      "say": "Hold the marble near the top edge and let it go. Where does it climb to on the other side? Does it reach the rim?",
-     "kid": "Let the marble go from near the rim. Watch how high it climbs.",
+     "kid": "Let the marble go from near the rim. Watch the other side.",
      "ask": [
       {
        "q": "What do you notice about how high the marble climbs?",
@@ -1296,7 +1296,7 @@
      "mins": 2,
      "do": "Ask for a guess about a pendulum, and write it down for later.",
      "say": "A marble in a bowl is a bit like a bag of coins swinging on a thread. Do you think the bag will climb back to where it started? Why?",
-     "kid": "Will a swinging bag climb back to where it started? Why?",
+     "kid": "Make a guess about the swinging bag.",
      "ask": [
       {
        "q": "What is your guess about a swinging bag? Why do you think so?",
@@ -1351,7 +1351,7 @@
      "what": "Hold a thread through a straw, start a small swing and pump it by pulling the thread at the bottom and letting it out at the ends."
     }
    ],
-   "record": "Write how wide the swing was at the start, after five swings alone and after ten pumped swings. Draw the thread, the straw and the bag, and show with an arrow when you pulled and when you let go.",
+   "record": "Write how wide the swing was at the start, after five swings alone and after ten pumped swings. Show your grown-up when you pulled and when you let go, and say why that made the swing grow.",
    "flow": [
     {
      "id": "s1",
@@ -1375,7 +1375,7 @@
      "mins": 6,
      "do": "1. As the bag passes the bottom, pull the thread up through the straw by about 3 centimetres. 2. As the bag reaches the end, let the thread slide down again. 3. Do this for ten swings. 4. Measure how wide the swing is now and write it next to the earlier numbers.",
      "say": "Pull the thread up when the bag is at the bottom. Let it out when the bag is at the ends. Does the swing grow?",
-     "kid": "Pull the thread at the bottom. Let it out at the ends. Does the swing grow?",
+     "kid": "Pull the thread at the bottom. Let it out at the ends.",
      "parent": "This takes practice. If the swing does not grow, pull faster at the bottom and let the thread out more slowly. The thread should not rub hard in the straw. Also try pulling the thread only on every other pass. Even if the swing grows only a little, the bag moves faster when you pull the thread in. This activity is fussy. It may take several tries, and it may not work every time. With 2 to 4 children, take turns pumping while one child measures, and see who makes the swing widest in ten swings. If the swing will not grow, go to a real playground swing and pump it by standing up at the bottom and crouching at the ends. It is the same trick.",
      "check": {
       "t": "mcq",
@@ -1445,7 +1445,7 @@
      "what": "Hang a ruler from a pencil and time 10 swings. Then find a thread length for the coin pendulum that takes the same time."
     }
    ],
-   "record": "Write the time for 10 swings of the ruler. Write the thread length that gave the same time. Draw both pendulums side by side.",
+   "record": "Write the time for 10 swings of the ruler. Write the thread length that gave the same time. Take a photo of both pendulums side by side, or tell your grown-up how they compared.",
    "flow": [
     {
      "id": "s1",
@@ -1547,7 +1547,7 @@
      "what": "Swing the bag through the air and count how many swings it makes. Then swing it through water and count again."
     }
    ],
-   "record": "Write how many swings the bag made in air and in water before the swing was half as wide. Say how many times more swings there were in air. Draw the two paths.",
+   "record": "Write how many swings the bag made in air and in water before the swing was half as wide. Say how many times more swings there were in air. Tell your grown-up how the bag moved in air and how it moved in water.",
    "flow": [
     {
      "id": "s1",
@@ -1563,7 +1563,7 @@
      "mins": 3,
      "do": "Ask for a guess about the water swing. Write it down.",
      "say": "Now we fill the bucket and swing through water. How many swings do you think it will make? Why?",
-     "kid": "Guess how many swings in water. Why?",
+     "kid": "Make your guess, and say why, before you test.",
      "ask": [
       {
        "q": "How many swings do you expect in water? Why?",
@@ -1815,9 +1815,9 @@
     {
      "id": "s3",
      "mins": 12,
-     "do": "Ask your child to explain why the answer works. Draw the pendulum with its peg.",
+     "do": "Ask your child to explain why the answer works. Draw the pendulum with its peg, or take a photo of it.",
      "say": "Half of each swing is on the long side, and half on the short. The short side takes half as long. Why does that give three quarters in all?",
-     "kid": "Why does the short side take half the time? Draw your design.",
+     "kid": "Explain why your answer works. Then draw your design, or show it with the real pendulum.",
      "check": {
       "t": "mcq",
       "q": "A peg is placed so that the short part of the thread is one quarter as long as the whole thread. How long does the swing on the short side take, compared with the swing on the long side?",

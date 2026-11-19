@@ -289,7 +289,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
   *Parent does:* Play the first five cards. After each one, ask for a reason before the next card.  
   *Parent says:* Read the moment. Everyone chooses a token and puts it face down. Now turn it up. What does the brain do with the messages?  
   *Child mode:* Read a moment. Pick a token and put it face down. Turn it up, then check the back of the card.
-  - Ask: Why is the mattress with eyes shut harder than the mattress with eyes open? (good: With eyes open the eyes help the unsure feet.; With eyes shut only the ears are left.; Two helpers are missing, so there is less to go on.)
+  - Ask: Why is it harder to stand on a mattress with your eyes shut than with your eyes open? (good: With eyes open the eyes help the unsure feet.; With eyes shut only the ears are left.; Two helpers are missing, so there is less to go on.)
 - **s3 (6 min)**  
   *Parent does:* Play the next ten cards. Keep a tally of the points. Notice which token is chosen most often.  
   *Parent says:* Keep going. Which helper is fooled most often in these cards? Why do you think that is?  
@@ -312,7 +312,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* Set out the six stations. Fold a blanket three times and flatten it for station 3. One spotter walks beside the player from station to station.  
   *Parent says:* We will visit six stations. At each one, a helper for your balance is taken away. Which station do you think will be hardest? Why?  
-  *Child mode:* Set out six stations. Guess which will be the hardest.
+  *Child mode:* You will visit six stations. At each one, a helper is taken away.
   - Ask: Which station do you think will be hardest, and why? (good: The one with my eyes shut, because I cannot see.; The one on the blanket, because the floor is soft.; The one where I look up, because my head is tipped back.)
   - Note: Write down the guess before starting. Stations 2 and 5 are often hard, and station 4 often feels easier than station 2. Results differ with every child.
 - **s2 (12 min) · grown-up needed**  
@@ -324,7 +324,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
   *Parent does:* Add up the points. Ask which station was hardest, and which helper was taken away there.  
   *Parent says:* Add up your points. Which station had the lowest score? Which helper was missing there? What happened at station 4?  
   *Child mode:* Add your points. Which station was hardest?
-  - Check: At station 4 you stand on one foot with your eyes shut and touch a wall with one finger. Why is this often easier than station 2? → **The fingertip gives the brain a fourth source of information**
+  - Check: You stand on one foot with your eyes shut. Why is it often easier if you also touch a wall with one finger? → **The fingertip gives the brain a fourth source of information**
 
 ## Experiments
 ### e1 · The Balance Team: what happens when a helper is taken away? (35 min)
@@ -332,12 +332,12 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 - **predict:** Before you start, guess. In which of the four tests will you wobble the most, and in which the least? Will losing two helpers at once be twice as bad? Why do you think so?
 - **fair test:** Every try uses the same pose: the same foot on the floor, the other foot lifted a hand's width, and arms folded. The room, the timer and the spotter stay the same. You rest for one minute between tries. You do the four tests in one order first, and in the opposite order second, so tiredness and practice affect every test equally. Only two things change: whether your eyes are open, and whether the floor is bare or soft.
 - **safety:** A grown-up stands right beside your child for every try, ready to catch. Do the test on a carpet or mat, away from stairs, tables and sharp corners. Lay the blanket so that it cannot slide. Stop at once if your child feels dizzy or unwell. A child with an ear infection or a balance problem should only time and watch.
-- **record:** Fill in the table. Take the best of the two tries for each test. Draw four bars, one for each test, and write under each bar which helpers were still working well.
+- **record:** Fill in the table. Take the best of the two tries for each test. Make four rows of coins, one for each test, and write next to each row which helpers were still working well.
 - **results table:** Test (eyes, surface) | Seconds on try 1 | Seconds on try 2 | Best of the two tries | Which helpers were still working well?
 - **s1 (5 min)**  
   *Parent does:* Show your child the four tests. Ask for a guess and a reason for each question. Write the guess at the top of the table.  
   *Parent says:* We will stand on one foot four ways. Eyes open or shut, and bare floor or blanket. Which test will be hardest? Which easiest? Why?  
-  *Child mode:* You will stand on one foot four ways. Which will be hardest? Which easiest? Why?
+  *Child mode:* You will stand on one foot four ways: eyes open or shut, on the bare floor or on a blanket.
   - Ask: Which test do you think will be hardest, and why do you think so? (good: Eyes shut on the blanket, because I lose two helpers.; Eyes shut, because I cannot see where I am.; The blanket, because the floor is soft and wobbly.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write down what your child says about two helpers being lost at once. With two to four children, each child has their own table. While one child stands, a second is the spotter, a third times, and a fourth writes the seconds. Then rotate. Compare every child's bars, since the pattern matters more than the seconds.
 - **s2 (5 min) · grown-up needed**  
@@ -356,13 +356,13 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
   *Child mode:* Do the tests backwards. D, C, B, A. Rest between tries.
   - Note: Watch for the child leaning hard to one side or hopping. Note it in the table. If your child tires or feels dizzy, stop and carry on later.
 - **s5 (5 min)**  
-  *Parent does:* Draw a bar for the best time in each test. Look for the longest and shortest bars. Compare with the guess.  
-  *Parent says:* Look at your bars. Which test gave the longest time? Which the shortest? Was your guess right?  
-  *Child mode:* Draw a bar for each test. Which bar is longest? Which is shortest?
+  *Parent does:* Make a row of coins or buttons for each test, one coin for each second of the best time. Look for the longest and shortest rows. Compare with the guess.  
+  *Parent says:* Look at your rows. Which test gave the longest time? Which the shortest? Was your guess right?  
+  *Child mode:* Make a row of coins for each test, one coin for each second. Which row is longest? Which is shortest?
   - Note: A common pattern is the longest time for eyes open on the floor and the shortest for eyes shut on the blanket. Eyes shut on the floor and eyes open on the blanket often fall between. If your results differ, write them down as they are. A pattern that surprises you is worth explaining.
 - **s6 (4 min)**  
   *Parent does:* Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.  
-  *Parent says:* What do you think was happening? What did you see? Why did eyes shut on the blanket give the shortest time?  
+  *Parent says:* What do you think was happening in your body? What did you see that shows it?  
   *Child mode:* Say what you think happened. Say what you saw. Say why it happened.
   - Check: Why is standing with eyes shut on a soft blanket the hardest? → **Two of the three helpers are weak, so only the ears are left**
 ### e2 · Shake the Head or Shake the Page? (25 min)
@@ -370,12 +370,12 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 - **predict:** Before you start, guess. How many words can you read in 10 seconds when your head shakes, and how many when the page shakes? Which will be harder? Why do you think so?
 - **fair test:** You use lines of print of the same size and length, drawn out of a bowl so that no line is always used for the same test. You shake the head or the page side to side at the same beat, about two shakes every second, by about the same distance. The page is held the same distance from your eyes every time. You read for 10 seconds each time. The only thing that changes is what moves: your head or the page.
 - **safety:** Shake your head in small, quick turns, as if saying no, and not hard. Stop at once if your neck hurts or you feel dizzy. Do not spin or shake anyone's head for them. A child with a neck problem or a balance problem should only hold the page and count.
-- **record:** Write the words read right for each line. Add the two rounds for each test. Draw three bars, one for each test.
+- **record:** Write the words read right for each line. Add the two rounds for each test. Make three rows of coins, one for each test.
 - **results table:** Test | Line used | Words read right in round 1 (out of 8) | Words read right in round 2 (out of 8) | What the print looked like
 - **s1 (4 min)**  
   *Parent does:* Show your child the page and the three tests. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* We will read in three ways. Head still and page still. Head shaking and page still. Head still and page shaking. Which will be hardest? Why?  
-  *Child mode:* You will read three ways. Which will be hardest? Why do you think so?
+  *Child mode:* You will read three ways: head and page still, head shaking, and page shaking.
   - Ask: Why do you think shaking the page might be harder than shaking your head? (good: It is the same movement, so it should be the same.; The page moves faster than my head.; My eyes can keep up with my head but not with the page.)
   - Note: Do not correct the guess. Many children guess that both will be equally hard, and that is a fine guess to test. One child alone works with a parent holding the page. With two to four children, one reads, one shakes the page, one counts the beat and one counts the words right. Then rotate. Each reader does all three tests, so each has their own table.
 - **s2 (4 min) · grown-up needed**  
@@ -394,9 +394,9 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
   *Child mode:* Shake your head to the beat and read. Then keep still while the page shakes.
   - Note: Keep both beats the same. Write what the print looked like each time, such as clear, smeared or jumping. Stop if your child feels dizzy. If both tests are easy, shake faster. If both are impossible, shake more slowly. The head-shake test is easier than it sounds only if the shakes are small and quick. The exact numbers vary a lot, and the page shake is almost always the harder one.
 - **s5 (5 min)**  
-  *Parent does:* Add the two rounds for each test. Draw three bars. Compare the head shake with the page shake. Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.  
+  *Parent does:* Add the two rounds for each test. Make three rows of coins or buttons, one coin for each word read right. Compare the head shake with the page shake. Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.  
   *Parent says:* Which was harder, the head or the page? Both moved the same amount at the same beat. What do you think your eyes were doing differently?  
-  *Child mode:* Add up your words. Which was harder, head or page? Why?
+  *Child mode:* Add up your words. Which row is longer, head shake or page shake?
   - Note: A common result is that a shaking head makes reading only a little harder, and a shaking page makes it much harder. If so, the head-turn reflex is working: the inner ears tell the eyes to move opposite to the head within a hundredth of a second. Following a moving page on purpose is slower. If your results are the same for both, the shakes may have been too gentle. Shake faster and try again.
   - Check: Why can you read while your head shakes, but not when the page shakes at the same beat? → **Your inner ears move your eyes the opposite way almost at once when your head moves**
 ### e3 · Ice in the Palm: does thinking about something else change the ache? (25 min)
@@ -409,7 +409,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 - **s1 (4 min)**  
   *Parent does:* Show your child the ice, the cloth and the scale from 0 to 10. Ask for a guess and a reason, and write them down.  
   *Parent says:* We will hold an ice cube for 20 seconds. Sometimes you will only watch it. Sometimes you will count backwards. Will the ache change? Why?  
-  *Child mode:* You will hold an ice cube for 20 seconds. Will counting change the ache? Why?
+  *Child mode:* You will hold an ice cube twice. Once you only watch. Once you count backwards.
   - Ask: Why do you think counting might change how much the ice aches? (good: My mind is busy, so I notice the ache less.; Nothing will change, because the ice is the same.; Counting would make it worse, because I have to concentrate.)
   - Note: Do not correct the guess. Remind your child that the cube can be dropped at any moment, and that nothing bad will happen if they drop it. With two to four children, each child has their own cubes and their own scale from 0 to 10. One child holds, a second times, and a third is the grown-up's helper. Each child gives the rating quietly or on paper, so others do not hear the number first.
 - **s2 (4 min) · grown-up needed**  
@@ -441,7 +441,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 - **s1 (3 min)**  
   *Parent does:* Show your child the umbrella. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* I will turn this umbrella slowly over your head while you sit still. Will you feel anything? Will you feel the umbrella turning, or yourself turning?  
-  *Child mode:* An umbrella will turn above you. Will you feel anything? Why?
+  *Child mode:* An umbrella will turn slowly above you while you sit still.
   - Ask: Why do you think you might feel something, when you are not moving? (good: My eyes will see the pattern turning.; My brain might think I am the one turning.; I will not feel anything, because I am sitting still.)
   - Note: Do not correct the guess.
 - **s2 (6 min) · grown-up needed**  
@@ -450,9 +450,9 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
   *Child mode:* Hold the chair. Look up at the pattern. Say what you feel.
   - Note: Stay beside the chair. Turn slowly. With two to four children, one sits, one turns, one holds the stopwatch and one writes the scores, and then you rotate. The effect is often weak with a small umbrella, so write the scores honestly. Many children feel that they themselves start to turn, or that the chair tilts, after ten to twenty seconds. Many others feel nothing, and that is a result too. Stop if your child feels sick or dizzy.
 - **s3 (4 min)**  
-  *Parent does:* Swap places. Then ask your child to describe the feeling, and to say which part of the body noticed the turning.  
-  *Parent says:* Now it is my turn. After this, tell me: was it your eyes, your ears or your feet that told you that you were turning?  
-  *Child mode:* Swap. Now you turn the umbrella. Then say what you felt.
+  *Parent does:* Swap places. Then ask your child to describe the feeling in their own words. Then ask the check question.  
+  *Parent says:* Now it is my turn. Afterwards, tell me what you felt when the umbrella turned over you.  
+  *Child mode:* Swap. Now you turn the umbrella over your grown-up. Then say what you felt when it turned over you.
   - Check: Under a turning umbrella, you may feel that you are turning, though you sit still. Which sense is giving the wrong message? → **Your eyes**
 ### a2 · A Fingertip Lighter than a Tomato (20 min)
 - **safety:** A grown-up stands right beside your child for every try, ready to catch. Use a carpet or a mat, away from stairs, tables with sharp corners and glass. Stop at once if your child feels dizzy.
@@ -460,7 +460,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 - **s1 (4 min)**  
   *Parent does:* Weigh the tomato on the scale. Let your child feel how light 100 grams is. Practise touching the scale with one fingertip so that it reads under 100 grams. Ask for a guess and a reason.  
   *Parent says:* This tomato is about 100 grams. Your fingertip will touch the scale more lightly than that. Do you think a touch that light can help you stand? Why?  
-  *Child mode:* A tomato weighs about 100 grams. Touch the scale so lightly that it reads less than 100 grams. Can a touch that light help you stand?
+  *Child mode:* A tomato weighs about 100 grams. Touch the scale very lightly. It must read less than 100 grams.
   - Ask: Do you think a touch lighter than a tomato will help you stand? Why do you think so? (good: No, it is too light to hold me up.; Yes, because my finger can feel the table.; It will help a little, because I will know where I am.)
   - Note: Switch the scale on and wait for zero before each touch. Practise until your child can keep the reading steady under 100 grams. Do not correct the guess. A kitchen scale costs about Rs 300 to 500. Without one, use a wall: a fingertip touch is light enough if a sheet of paper held between the fingertip and the wall can be pulled out easily. With two to four children, one stands, one watches the scale or the paper, one times, and one writes. Then rotate.
 - **s2 (8 min) · grown-up needed**  
@@ -476,7 +476,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 - **s4 (4 min)**  
   *Parent does:* Ask your child what they think happened, what they saw that shows it, and why it happened. Then ask the check question.  
   *Parent says:* Which was steadier, no touch or light touch? Was the hard push much better? What does the light touch do, if it does not hold you up?  
-  *Child mode:* Which was steadiest? Why did a light touch help?
+  *Child mode:* Compare your seconds for no touch, light touch and hard push.
   - Check: A touch of less than 100 grams cannot hold up a child who weighs 25 kilograms. Why does it still help? → **It tells the brain how the body is moving compared with a still object**
 ### a3 · Warm Hand, Whole Hand: is the same water warmer on more skin? (20 min)
 - **safety:** A grown-up mixes the water, away from the child, and tests it with the inside of their wrist or elbow, as for a baby's bath. Do not carry a hot pan or kettle near the children. The water must be pleasantly warm, never hot, and never hotter than 40 degrees Celsius. Replace the water if it gets cool.
@@ -484,7 +484,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* A grown-up mixes the warm water and checks it with the wrist, or with a thermometer. Pour it into the two bowls. Ask for a guess and a reason.  
   *Parent says:* Both bowls have the same warm water. If you dip one finger, and then your whole hand, will the warmth feel the same? Why do you think so?  
-  *Child mode:* The water is the same. Will a finger and a whole hand feel the same? Why?
+  *Child mode:* The water in both bowls is the same warmth. You will dip a finger, then a hand, then both hands.
   - Ask: Why do you think a finger and a whole hand might feel different in the same water? (good: More skin means more of me feels the warmth.; The water is the same, so it will feel the same.; A finger is smaller, so it feels less.)
   - Note: Do not correct the guess. Keep the water the same temperature in both bowls. The effect is usually clear but small, so use the score each time, and if all three scores are the same, write that down as a result. Cold hands from a fan or air-conditioner can spoil it, so sit in a normal room for five minutes first. With two to four children, each gives a score on paper, so nobody hears the others' numbers first.
 - **s2 (8 min) · grown-up needed**  
@@ -527,7 +527,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 - **s1 (4 min)**  
   *Parent does:* Show your child both tumblers and the cloths. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* One cloth will be wet and one dry. Both tumblers hold the same warm water, in front of a fan. Which will cool more? Why do you think so?  
-  *Child mode:* One cloth is wet. One is dry. Which tumbler cools more? Why?
+  *Child mode:* One cloth is wet. One is dry. Both tumblers get the same warm water.
   - Ask: Why do you think the wet cloth might cool the water more, or less? (good: Water drying takes heat away.; The wet cloth covers the steel and keeps the heat in.; A wet cloth is cold, so it cools the water.)
   - Note: Do not correct the guess. A matka, a clay water pot, keeps water cool in the same way.
 - **s2 (8 min) · grown-up needed**  
@@ -538,7 +538,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* Put the tumblers side by side in front of the fan. Start a timer for 15 minutes. While you wait, talk about when you feel cool in a breeze after swimming or sweating.  
   *Parent says:* While we wait, think. When do you feel cold in a breeze? What is on your skin then?  
-  *Child mode:* Put the tumblers in the breeze. Wait 15 minutes. Think about sweat.
+  *Child mode:* Put the tumblers in the breeze. Wait 15 minutes.
   - Note: On a very humid day, such as in Chennai during the monsoon, the difference may be small. A table fan helps a lot. Do not touch the tumblers during the wait. Typical result: the wet cloth cools the water a few degrees more in 15 minutes, but the numbers depend on the weather. In a hot room the water may not cool much at all, so also compare how the two feel. If the fever thermometer shows Lo, write under 32. With two to four children, one measures each tumbler, one writes and one watches the clock. Repeat with the cloths swapped, so the test is fair to both tumblers.
   - Wait: Leave the tumblers in front of the fan for 15 minutes.
 - **s4 (3 min)**  
@@ -574,7 +574,7 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
 ## Projects
 ### p1 · Family Balance Lab: three days, eight people (45 min, 3 days)
 - **safety:** Ask each person if they would like to take part, and never push anyone. Older people, and people who feel unsteady, should do the tests close to a chair or counter they can hold, and should skip any test that feels unsafe. A grown-up stands beside everyone doing a test. Stop if anyone feels dizzy.
-- **record:** A table with a row for each person and four columns for the tests. Then a row for the average of each test, and a bar chart of the four averages.
+- **record:** A table with a row for each person and four columns for the tests. Then a row for the average of each test, and four rows of coins, one for each average.
 - **schedule:** day 1: Test two or three people with the four tests from the Balance Team test. (15 min); day 2: Test two or three more people. Write every result in the table. (15 min); day 3: Add up, find the average for each test, draw a bar chart and discuss what you found. (15 min)
 - **s1 (15 min) · grown-up needed**  
   *Parent does:* Choose eight people who agree to take part, such as family, neighbours and friends. If you cannot find eight, five is enough. Today test two or three of them. Each person does the four tests on one foot, close to a chair or counter. Give one try per test. Time up to 30 seconds. Write the seconds in the table. Change the order of the tests for each person, so that tiredness affects every test equally.  
@@ -588,23 +588,23 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
   *Child mode:* Test more people. Write the seconds. Which test is hardest?
   - Wait: Test two or three more people on day 2.
 - **s3 (15 min)**  
-  *Parent does:* Add the seconds for each test, and divide by the number of people to find the average. Draw four bars. Discuss what you found, and ask the check question.  
-  *Parent says:* Add up each column. Divide by the number of people. Draw a bar for each average. Which is the lowest bar? Is it the test you expected?  
-  *Child mode:* Add each column. Divide by the number of people. Draw the bars.
+  *Parent does:* Add the seconds for each test, and divide by the number of people to find the average. Make four rows of coins or buttons, one coin for each whole second of the average. Discuss what you found, and ask the check question.  
+  *Parent says:* Add up each column. Divide by the number of people. Make a row of coins for each average. Which is the shortest row? Is it the test you expected?  
+  *Child mode:* Add each column. Divide by the number of people. Make a row of coins for each average.
   - Check: Why is an average of eight people more trustworthy than the result of one person? → **One person's result can be a fluke, and an average smooths flukes out**
 
 ## Challenges
 ### c1 · Night Path for Paati: help a grandparent walk safely in the dark (40 min)
 - **problem:** A grandparent feels unsteady in the dark. Their feet tell them less than they used to. They need to walk from the bed to the toilet at night, without waking anyone and without falling. Design a night path with three kinds of help. It should help the eyes see the floor. It should help the feet feel the way. It should also give a fingertip something still to touch.
 - **safety:** This is a model path in a room, tested by a child with a grown-up beside. Keep the floor clear. Use a torch or a plug-in night light, never a candle or a lamp with a flame. Nothing is stuck on a floor where a real grandparent walks until a grown-up has checked that it cannot slip or trip anyone. Walk slowly, with a grown-up's hand ready.
-- **your turn:** Draw your path from the bed to the toilet. Mark where each balance helper is helped. Test it with the lights off and a grown-up beside you, and write what you would change.
+- **your turn:** Build your path from the bed to the toilet. Mark where each balance helper is helped. Test it with the lights off and a grown-up beside you, and write what you would change.
 - **constraints:** It must cost very little and be easy to make at home.; It must have no flame, no loose wires and nothing to trip on.; It must work for someone who does not want to lean on anything.; It must be easy for the grandparent to understand without reading.
 - **general:** A low night light that lights the floor, not the eyes, so the eyes can see where to step.; A firm handrail along the wall at hand height, to touch lightly.; A non-slip mat at the start and end of the path, with edges that are stuck down.
 - **creative:** A strip of rough cloth stuck along the wall at hand height, so a fingertip can follow it like a guide, even in total darkness.; A change in how the floor feels, such as a ridged mat placed one step before each turn, so the feet get a message before the eyes need one.; A walking stick kept by the bed, with a bright tip, for touching the floor lightly as a sensor.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. List the dangers on the path, and which balance helpers are weak in the dark. Ask your child to draw two ideas.  
-  *Parent says:* In the dark, the eyes help little, and tired feet tell less. What can we add so that someone walking has more help? Draw two ideas.  
-  *Child mode:* Think of dangers in a dark passage. Draw two ideas.
+  *Parent does:* Read the problem together. List the dangers on the path, and which balance helpers are weak in the dark. Ask your child to tell you two ideas, or draw them.  
+  *Parent says:* In the dark, the eyes help little, and tired feet tell less. What can we add so that someone walking has more help? Tell me two ideas, or draw them.  
+  *Child mode:* Think of dangers in a dark passage. Tell your grown-up two ideas, or draw them.
   - Ask: Which helper does each of your ideas help: the eyes, the feet, or a light touch? (good: A night light helps the eyes.; A wall strip helps the fingertip.; A ridged mat tells the feet where to turn.)
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* Choose the best idea. Build it from paper, cloth and cardboard on a model path in the room. Use a chair for the bed and a table for the toilet door. Mark where each helper is helped.  
@@ -617,20 +617,20 @@ At the Vaigai, an old man on the steps looked at the stick and then at Paati. "I
   *Child mode:* Lights off. Walk the path with a grown-up. What would you change?
   - Note: Hold your child's hand if they feel unsteady. The aim is to see which helpers the path supports.
 ### c2 · Heat Cloak: hide a warm tumbler from a pit viper (40 min)
-- **problem:** In Be a Pit Viper, a child with eyes shut finds a warm tumbler by the warmth coming off the outside of the tumbler. Make a cover that hides the warm tumbler from a classmate who is playing the pit viper, with their cheek 5 centimetres away. The viper should not be able to find the tumbler better than by luck.
+- **problem:** In Be a Pit Viper, a child with eyes shut finds a warm tumbler by the warmth coming off the outside of the tumbler. Make a cover that hides the warm tumbler from someone who is playing the pit viper, with their cheek 5 centimetres away. The viper should not be able to find the tumbler better than by luck.
 - **safety:** A grown-up fills the tumblers and tests the warm one with the inside of the wrist, as for a baby's bath. The warm water must never be hotter than 40 degrees Celsius. A grown-up cuts the foil and cloth with the scissors. The pit viper never touches the tumblers.
-- **your turn:** Design and make your cloak. Draw it and say which layer does what. Test it in 12 rounds and count the right answers. If the pit viper gets more than 6 of 12, change one thing and test again.
+- **your turn:** Design and make your cloak. Say which layer does what, and take a photo or draw it. Test it in 12 rounds and count the right answers. If the pit viper gets more than 6 of 12, change one thing and test again.
 - **constraints:** The warm tumbler must hold warm water, never hotter than 40 degrees Celsius.; The cover must be made only from kitchen and craft things, and must fit round the tumbler.; The pit viper may not touch the tumbler or the cover, and must keep their eyes shut.; You have 12 rounds, as in Be a Pit Viper, to test your cover.
 - **general:** Wrap the warm tumbler in several layers of cloth, which slows the heat.; Wrap the warm tumbler in newspaper, which is also a poor conductor of heat.; Wrap the two cold tumblers in the same kind of cover, so the viper cannot use the cover as a clue.
 - **creative:** A layer of foil outside a layer of cloth, to bounce heat back inwards and hide it from the viper.; A cover with an air gap, made with a rolled newspaper tube, so the outside stays cool.; A warm tumbler inside a big cold tumbler, with the gap filled by crumpled paper.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem together. Talk about how heat leaves a warm tumbler. Draw two ideas for a cloak.  
-  *Parent says:* A pit viper finds heat. How can we slow heat on its way from the warm water to the outside? Draw two ideas.  
-  *Child mode:* How can you slow heat leaving a warm cup? Draw two ideas.
+  *Parent does:* Read the problem together. Talk about how heat leaves a warm tumbler. Say or draw two ideas for a cloak.  
+  *Parent says:* A pit viper finds heat. How can we slow heat on its way from the warm water to the outside? Tell me two ideas, or draw them.  
+  *Child mode:* How can you slow heat leaving a warm cup? Tell two ideas, or draw them.
   - Ask: Which materials do you think are good at slowing heat? (good: Cloth and wool.; Bubble wrap, because it traps air.; Newspaper, because it is a poor conductor.)
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* Make your cloak. Cover the warm tumbler in it. Cover the two cold tumblers in the same way. Test with 12 rounds of Be a Pit Viper, at 5 centimetres. Count the right answers.  
-  *Parent says:* Make your cloak and cover all three tumblers in the same way. Your classmate plays the pit viper. How many do they get right?  
+  *Parent says:* Make your cloak and cover all three tumblers in the same way. Your grown-up plays the pit viper. How many do they get right?  
   *Child mode:* Make your cloak. Cover all three cups. Test it for 12 rounds.
   - Note: Warm water must not be hotter than 40 degrees. Use scissors only with a grown-up. Check that all three cups look the same. Bubble wrap is optional: a folded towel or extra newspaper works too. With two to four children, split into a cloak team and a pit viper who is a different child, and swap after the test. Use the same shuffling and recording as in Be a Pit Viper.
 - **s3 (12 min) · grown-up needed**  

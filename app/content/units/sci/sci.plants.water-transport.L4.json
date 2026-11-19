@@ -535,7 +535,7 @@
      "mins": 5,
      "do": "Cut out the 24 cards and the 8 tokens. Read the first rule together. Say that the water always goes toward the bigger pull number.",
      "say": "A pull number tells how tightly a place holds its water. A bigger number means a tighter hold. Each card shows two places, A and B, with a pull number. Water goes toward the place with the bigger number. Your job is to say which one, and why.",
-     "kid": "Each card has two places with numbers. Water goes toward the bigger number. Which one?",
+     "kid": "Each card has two places with numbers. Water goes toward the bigger number.",
      "ask": [
       {
        "q": "If A has a pull number of 3 and B has 1, which way does the water go?",
@@ -630,7 +630,7 @@
      "mins": 4,
      "do": "Ask your child to say, in one sentence, when a plant cannot drink from wet soil. Ask which card taught them that.",
      "say": "Tell me in one sentence: when can a plant not drink from soil that is wet?",
-     "kid": "When can a plant not drink from wet soil? Say it in one sentence.",
+     "kid": "Think back to the cards. Then answer in one sentence.",
      "ask": [
       {
        "q": "When can a plant not drink from wet soil?",
@@ -1335,8 +1335,8 @@
      "what": "Count, measure the longest root, and say what the results show."
     }
    ],
-   "record": "Fill in the table at each check. On day 4, draw the four cups side by side and write three sentences: what I think, what I saw, and why.",
-   "context": "In this experiment, you sprout moong seeds in water with four different amounts of salt. You find where the sprouting stops. The result is not known beforehand.",
+   "record": "Fill in the table at each check. On day 4, line up the four cups side by side and take a photo. Write three sentences: what I think, what I saw, and why.",
+   "context": "In this experiment, you sprout moong seeds in water with four different amounts of salt. You will find out how much salt moong seeds can stand before they stop sprouting. The result is not known beforehand.",
    "setup": [
     {
      "art": "Four tumblers in a row labelled A, B, C and D, with a quarter teaspoon, a half teaspoon and a full teaspoon of salt beside B, C and D, and none beside A.",
@@ -1361,7 +1361,7 @@
      "mins": 5,
      "do": "Show your child the four tumblers, the salt and the soaked moong. Say that each cup will get a different water. Ask for a guess and a reason.",
      "say": "We have four cups. Cup A gets plain water. Cup B gets a little salt, cup C gets more, and cup D gets the most. Which cups will grow sprouts? Why do you think so?",
-     "kid": "Four cups, four kinds of water. Which will grow sprouts? Why do you think so?",
+     "kid": "Look at the four cups. Make a guess, and say why.",
      "ask": [
       {
        "q": "Which cup do you think will have the fewest sprouts?",
@@ -1424,9 +1424,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "Put the four katoris side by side in a shady, warm place, out of direct sun. Draw the results table in your notebook. Draw what you think each cup will look like in 3 days.",
-     "say": "Put the cups somewhere shady and warm. Now draw what you think each cup will look like in three days. We will check them tomorrow.",
-     "kid": "Put the cups in a shady spot. Draw what you think you will see in 3 days.",
+     "do": "Put the four katoris side by side in a shady, warm place, out of direct sun. Draw the results table in your notebook. Write your guess for each cup: many sprouts, a few, or none.",
+     "say": "Put the cups somewhere shady and warm. Now guess for each cup: many sprouts, a few, or none. We will check them tomorrow.",
+     "kid": "Put the cups in a shady spot. Tell your guess for each cup.",
      "parent": "Warm and shady is best for moong, for example a kitchen shelf. Do not put the cups in a fridge or in direct sun.",
      "context": "In this step, you leave the seeds to work. You also draw your guess for the end."
     },
@@ -1486,7 +1486,7 @@
     {
      "id": "s7",
      "mins": 8,
-     "do": "Count a third time. Measure the longest root in each cup with a ruler in millimetres. Write the numbers. Look at the roots with a magnifying glass if you have one. Draw what you see.",
+     "do": "Count a third time. Measure the longest root in each cup with a ruler in millimetres. Write the numbers. Look at the roots with a magnifying glass if you have one. Take a photo of the root hairs, or point them out to your grown-up.",
      "say": "Count the sprouts one last time. Then measure the longest root in each cup. Look for the fuzz of root hairs. Write everything in the table.",
      "kid": "Count the sprouts. Measure the longest root. Look for the fuzzy root hairs.",
      "ask": [
@@ -1581,7 +1581,7 @@
      "what": "Measure the next morning and say what the results show."
     }
    ],
-   "record": "Fill in the table at each check. Draw the leaves and the bag at the 3-hour check. Look for drops inside the bag.",
+   "record": "Fill in the table at each check. At the 3-hour check, take a photo of the leaves and the bag, or tell what you see. Look for drops inside the bag.",
    "context": "In this experiment, three sprigs stand in bottles of water. The air around their leaves is different. You find out where the leaves lose the most water.",
    "setup": [
     {
@@ -1607,7 +1607,7 @@
      "mins": 5,
      "do": "Show your child the three bottles and the three sprigs. Explain that one will stand under a fan, one in still air, and one inside a bag. Ask for a guess and a reason.",
      "say": "Three sprigs, three bottles. A is under the fan. B is in still air. C has a bag over the leaves. Which sprig will lose the most water? Why do you think so?",
-     "kid": "Three sprigs. One under a fan, one in still air, one in a bag. Which loses most water?",
+     "kid": "Three sprigs: one under a fan, one in still air, one in a bag. Make your guess.",
      "ask": [
       {
        "q": "Which bottle do you think will lose the most water?",
@@ -1652,7 +1652,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Cut the end of each sprig fresh, under a little water in a bowl. Push one sprig into each bottle neck, so the cut end is in the water and the leaves are outside. Put a bag over the leaves of bottle C and fasten it loosely round the bottle neck with a rubber band.",
-     "say": "Cut each stem under water, so no air gets into the tubes. Put a sprig in each bottle. Now put a bag over the leaves of bottle C. Tie it round the neck. The bag will trap the water vapour that leaves the leaves, so the air inside it will get damp.",
+     "say": "Cut each stem under water, so no air gets into the tubes. Put a sprig in each bottle. Now put a bag over the leaves of bottle C. Tie it round the neck. Water leaves a leaf as vapour, which is water as an invisible gas. The bag will trap the vapour, so the air inside it will get damp.",
      "kid": "Put a sprig in each bottle. Tie a bag over the leaves of bottle C.",
      "adult": true,
      "parent": "A grown-up cuts the stems. Make sure the cut ends stay in the water. A bag closed round the bottle neck keeps the air inside damp. Do not pull the rubber band so tight that the sprig is crushed. If a sprig leans or falls, tape its stem to the bottle neck. Mint and coriander droop fast once cut, so set up quickly.",
@@ -1671,7 +1671,7 @@
      "id": "s5",
      "mins": 5,
      "do": "After 3 hours, look at the bag on bottle C. Are there drops inside? Measure how far the oil has dropped on each bottle with the ruler. Write the numbers.",
-     "say": "It has been three hours. Look inside bag C. What do you see? Then measure how far each oil level has dropped.",
+     "say": "It has been three hours. Look inside bag C. Then measure how far each oil level has dropped.",
      "kid": "Look inside the bag. Measure how far each level has dropped.",
      "ask": [
       {
@@ -1697,8 +1697,8 @@
      "id": "s6",
      "mins": 8,
      "do": "The next morning (or in the evening of the same day), measure the oil level in each bottle again. Fill in the table. Work out how much water each bottle lost. Look at the leaves. Which ones look tired?",
-     "say": "Now it is morning (or evening, if you measured then). Measure again. How many millimetres did each bottle lose? Which bottle lost the most? Which the least?",
-     "kid": "Measure the levels again. Which lost the most? Which lost the least?",
+     "say": "Now it is morning (or evening, if you measured then). Measure again. How many millimetres did each bottle lose?",
+     "kid": "Measure the levels again. Write the numbers in the table.",
      "ask": [
       {
        "q": "In which bottle did the water go down the most?",
@@ -1774,7 +1774,7 @@
     }
    ],
    "record": "A table with three plates: plain, salt and sugar. For each, write the amount of liquid and whether the slices droop.",
-   "context": "In this activity, you see a plant's cells lose water to salt in your own kitchen. This is the same thing that happens to a root in salty soil.",
+   "context": "In this activity, you will find out why cucumber slices go soft under salt. You see a plant's cells lose water to salt in your own kitchen. This is the same thing that happens to a root in salty soil.",
    "setup": [
     {
      "art": "Three plates side by side, each with 8 thin cucumber slices in a ring. Salt on the second plate, sugar on the third, nothing on the first.",
@@ -1839,9 +1839,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "While you wait, draw one cucumber cell. Draw the salt outside it. Draw arrows to show what you think is happening to the water.",
-     "say": "While we wait, draw a model. Draw a cell in a slice. Draw the salt outside it. Which way do you think the water moves? Draw arrows.",
-     "kid": "Draw a cucumber cell. Draw the salt outside. Draw arrows for the water.",
+     "do": "While you wait, act it out. You are the salt, outside the cell. Your child is the water, inside the cell. Ask which way the water will walk.",
+     "say": "While we wait, let us act it out. I am the salt, outside the cell. You are the water, inside the cell. Which way will you walk?",
+     "kid": "Be the water inside a cucumber cell. Walk the way you think the water will go.",
      "parent": "Any drawing with a reason is good. Look for arrows that show water going from the cell to the salt. If your child draws the salt going into the cell, ask what they think the puddle is made of.",
      "context": "In this step, you draw a model of what you cannot see, while you wait."
     },
@@ -1849,7 +1849,7 @@
      "id": "s4",
      "mins": 6,
      "do": "After 20 minutes, tilt each plate over its small cup so the liquid runs out, and spoon up what is left. Measure the liquid in teaspoons, or look at how high it stands in the cup. Hold one slice from each plate by its edge. Does it droop? Write what you find.",
-     "say": "It has been 20 minutes. Tilt each plate. How much liquid is there? Pick up a slice from each plate. Does it stay stiff or bend?",
+     "say": "It has been 20 minutes. Tilt each plate over its cup. Then pick up a slice from each plate by its edge.",
      "kid": "Spoon up the liquid from each plate. Test one slice from each. Does it droop?",
      "ask": [
       {
@@ -1876,7 +1876,7 @@
      "mins": 7,
      "do": "Ask your child to say what happened and why. Then ask what they think would happen to a root in soil full of salt.",
      "say": "Tell me what happened on each plate. Why did the slices go soft? What do you think salty soil would do to a root?",
-     "kid": "Say what happened to the slices. What would salty soil do to a root?",
+     "kid": "Tell what happened to the slices. Then guess about a root in salty soil.",
      "parent": "A good answer: 'The salt pulled the water out of the cucumber. A root in salty soil would lose water to the soil, and the plant would droop.' Only now say the word osmosis.",
      "check": {
       "t": "mcq",
@@ -1930,8 +1930,8 @@
      "what": "Look for the crust the next morning and draw it."
     }
    ],
-   "record": "Draw both strips on day 2. Mark where the water climbed to and where the white crust is.",
-   "context": "In this activity, a paper strip acts like a plant's xylem and the top of the strip acts like a leaf. You see what stays behind when water leaves.",
+   "record": "On day 2, take a photo of both strips, or draw them. Mark where the water climbed to and where the white crust is.",
+   "context": "In this activity, a paper strip acts like a plant's xylem, the tubes that carry water up a plant, and the top of the strip acts like a leaf. You see what stays behind when water leaves.",
    "setup": [
     {
      "art": "Two tall glasses side by side, one with clear salt water and one with plain water, each with a strip taped to a pencil that leans on the rim, the bottom 2 centimetres of the strip in the water and the rest standing up in the air.",
@@ -1952,7 +1952,7 @@
      "mins": 5,
      "do": "Show your child the two glasses and the paper strips. Ask what will happen to the strips, and what will be left behind when the water leaves the top. Ask for a reason.",
      "say": "One glass has salty water. One has plain water. A strip of paper stands in each. The water will climb up the paper. What will be left at the top when the water goes into the air? Why do you think so?",
-     "kid": "One paper strip stands in salt water and one in plain water. What will be left at the top of each strip? Why?",
+     "kid": "Look at the two glasses. Guess what each strip will show at the top.",
      "ask": [
       {
        "q": "What do you think you will find at the top of the salty strip?",
@@ -2021,9 +2021,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "The next morning, look at both strips, close up. Look for a white crust. Look with a magnifying glass if you have one. Draw both strips and mark where the crust is.",
-     "say": "Look at both strips. Is there a white crust? Where is it? Draw both strips. Mark the crust.",
-     "kid": "Look for a white crust on each strip. Draw both strips.",
+     "do": "The next morning, look at both strips, close up. Look for a white crust. Look with a magnifying glass if you have one. Take a photo of both strips, or point to where the crust is.",
+     "say": "Look at both strips. Is there a white crust? Where is it? Take a photo of both strips.",
+     "kid": "Look for a white crust on each strip. Point to it.",
      "ask": [
       {
        "q": "Where is the crust, near the water or near the top?",
@@ -2049,7 +2049,7 @@
      "mins": 5,
      "do": "Ask your child where the water went and where the salt stayed. Then ask what a field or a leaf would look like if salty water were pulled through it for years.",
      "say": "The water left the top of the strip and went into the air. What stayed behind? What would a field look like after many years of salty water?",
-     "kid": "Where did the water go? What stayed behind? What would a field look like?",
+     "kid": "Tell where the water went and what stayed behind.",
      "parent": "A good answer: 'The water went up and out and the salt stayed. In a field it would build up a white crust over many years.'",
      "check": {
       "t": "mcq",
@@ -2098,7 +2098,7 @@
     }
    ],
    "record": "A photo or drawing of the six strips in order, with the name and the length of each.",
-   "context": "In this activity, you turn the pull numbers into lengths of paper. Then you can see how the pull rises from the soil to the sky.",
+   "context": "In this activity, you turn the pull numbers into lengths of paper. A pull number tells how tightly a place holds its water. Then you can see how the pull rises from the soil to the sky.",
    "setup": [
     {
      "art": "A table with the six labels in a row: wet soil, root cell, stem, leaf cell, humid air, dry air, and a pile of paper strips.",
@@ -2241,8 +2241,8 @@
     "Make a few more holes in the cup, so the water leaves quicker, and see if it needs less water.",
     "Collect the draining water in the saucer and let it dry on a plate to see how much salt came out."
    ],
-   "your_turn": "Plan your own rescue. Draw it first. Try it. Change one thing, such as how slowly you pour, and try it with a fresh cup. Which way rescued the most seeds?",
-   "context": "This is a design challenge about salty soil. You use what you know about pull numbers to bring soil back to life.",
+   "your_turn": "Plan your own rescue. Tell it or sketch it first. Try it. Change one thing, such as how slowly you pour, and try it with a fresh cup. Which way rescued the most seeds?",
+   "context": "This is a design challenge about salty soil. You will find out whether plain water can wash the salt out of soil so seeds can grow. You use what you know about pull numbers.",
    "setup": [
     {
      "art": "Two curd cups with holes in the bottom, filled with soil and standing on saucers, one labelled A and one labelled B.",
@@ -2261,9 +2261,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Read the problem together. Look at the rules. Ask your child to sketch two ideas for rescuing cup B. Ask why they think each would work.",
-     "say": "Salty water has soaked both cups. You can rescue one with plain water. How would you do it? Draw two ideas. Say why each might work.",
-     "kid": "Cup B has salty soil, and you have plain water. Draw two ideas to rescue cup B.",
+     "do": "Read the problem together. Look at the rules. Ask your child to tell you two ideas for rescuing cup B, or sketch them. Ask why they think each would work.",
+     "say": "Salty water has soaked both cups. You can rescue one with plain water. How would you do it? Tell me two ideas, or sketch them. Say why each might work.",
+     "kid": "Cup B has salty soil, and you have plain water. Think of two ways to rescue cup B.",
      "ask": [
       {
        "q": "How could plain water help salty soil?",
@@ -2289,7 +2289,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Leave cup A alone. For cup B, pour 200 millilitres of plain water slowly over the soil, in two halves. Let it drain. Then pour another 200 millilitres the same way and let it drain. Then pour the last 200 millilitres. Look at the water in the saucer.",
+     "do": "Leave cup A alone. For cup B, pour 200 millilitres of plain water slowly over the soil. Let it drain. Pour another 200 millilitres the same way and let it drain. Then pour the last 200 millilitres. Look at the water in the saucer.",
      "say": "Cup A stays as it is. Cup B gets three slow pours of plain water, one after another. Let each one drain before the next. What does the water in the saucer look like?",
      "kid": "Cup A stays as it is. Flush cup B with three slow pours of water.",
      "ask": [
@@ -2329,7 +2329,7 @@
      "mins": 8,
      "do": "After 4 days, count the sprouts in each cup. Measure the tallest shoot. Say what rescued the soil, and what you would change next time.",
      "say": "It has been four days. Count the sprouts in each cup. Which cup did better? What would you change next time?",
-     "kid": "Count the sprouts. Which cup did better? What would you change?",
+     "kid": "Count the sprouts in each cup. Measure the tallest shoot.",
      "ask": [
       {
        "q": "Which cup has more sprouts?",

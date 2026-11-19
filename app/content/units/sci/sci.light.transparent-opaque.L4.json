@@ -712,8 +712,8 @@
      "id": "s2",
      "mins": 4,
      "do": "Take the practice card. Read the front out loud. Ask your child to choose a mat and say why. Then read the back. Put the card on its mat. Nobody wins a token.",
-     "say": "Let's practise. Sunlight falls on a clean glass window. Where does most of the light go? Why do you think so?",
-     "kid": "Practice card. Sunlight falls on a clean window. Where does most of the light go?",
+     "say": "Let's practise with one card. Sunlight falls on a clean glass window. Choose a mat, and tell us why.",
+     "kid": "Read the practice card. Choose a mat and say why.",
      "check": {
       "t": "mcq",
       "q": "Sunlight falls on a clean glass window. Where does most of the light go?",
@@ -752,7 +752,7 @@
      "mins": 5,
      "do": "When a TEST IT card comes up, stop and do the test together. Everyone guesses first. Then try it, and choose the mat.",
      "say": "A TEST IT card. Before we try it, everyone say what you think will happen and why. Then we look.",
-     "kid": "A TEST IT card. First guess what will happen. Why? Then try it.",
+     "kid": "Guess first. Then do the test and choose the mat.",
      "ask": [
       {
        "q": "The sugar powder is white, but the lump of candy is clear. What changed?",
@@ -835,7 +835,7 @@
     }
    ],
    "safety": "Keep marbles away from children under five, who may put them in their mouths. Do not eat the oil or honey used in the test, and do not give honey to a child under one year old. Work over a tray, because oil makes floors slippery. Wash the marble and glasses with warm water and washing-up liquid afterwards.",
-   "record": "Fill in the table. Then draw the marble in each of the four glasses, as it looked. Last, write what you think, what you saw, and why.",
+   "record": "Fill in the table. Then line up the four glasses from hardest to easiest to see, and take a photo or tell a grown-up the order. Last, write what you think, what you saw, and why.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: how easy the marble was to see (5 = very easy, 1 = nearly vanished)",
@@ -890,7 +890,7 @@
      "mins": 5,
      "do": "Show your child the marble, the glasses and the three liquids. Ask for a guess about which liquid will hide the marble best, and why. Write the guess at the top of the table.",
      "say": "We have a clear marble and three clear liquids: water, oil and honey. In which one will the marble be hardest to see? Which will be easiest? Why do you think so?",
-     "kid": "A clear marble in three clear liquids. Where is it hardest to see? Why?",
+     "kid": "Guess which liquid will hide the clear marble best.",
      "ask": [
       {
        "q": "Why do you think the marble might be hard to see in one liquid?",
@@ -909,7 +909,7 @@
      "mins": 8,
      "do": "Set the tray on a table in front of a bright window. Stand the printed page upright behind the tray. Fill one glass with water, one with oil and one with honey, each to about the same height. Leave the fourth glass empty. Put a label on each of the four glasses.",
      "say": "Pour the water into the first glass, the oil into the second, and the honey into the third. Leave the fourth empty. That one is the air test. Stand them in a row, in front of the page.",
-     "kid": "Fill three glasses with water, oil and honey. Leave one empty. Put the page behind.",
+     "kid": "Fill three glasses with water, oil and honey. Leave one empty. Stand the page with letters behind them.",
      "parent": "Honey is slow to pour. A grown-up can warm the jar in a bowl of warm water for a few minutes, not hot, if it will not flow. Fill all glasses to the same height, about three quarters full. Do the test near a window, so the light is the same for every glass. One child alone does all four glasses. With two to four children, each child pours and scores one liquid, then everyone looks at every glass and scores alone before comparing. Scores will differ by a point or two, and that is fine.",
      "context": "In this step, you set out the four glasses and the page that you will look through."
     },
@@ -955,9 +955,9 @@
     {
      "id": "s5",
      "mins": 5,
-     "do": "Fill in the table with your scores. Draw the marble in the four glasses. Compare with your guess.",
+     "do": "Fill in the table with your scores. Line the four glasses up, from the one where the marble was hardest to see to the one where it was easiest. Compare with your guess.",
      "say": "Look at your table. In which liquid was the marble hardest to see? In which was it easiest? Was your guess right?",
-     "kid": "Fill in the table. Draw the marble in each glass. Was your guess right?",
+     "kid": "Fill in the table. Line up the glasses, hardest to see first. Was your guess right?",
      "check": {
       "t": "mcq",
       "q": "The marble almost vanished in honey. What does this tell you about how we see the marble in the air?",
@@ -975,7 +975,7 @@
     {
      "id": "s6",
      "mins": 4,
-     "do": "Ask your child to say what they think, what they saw and why. Write it under the drawing.",
+     "do": "Ask your child to say what they think, what they saw and why. Write it under the table.",
      "say": "Tell me three things. What did you think at the start? What did you see? Why do you think it happened?",
      "kid": "Say what you thought, what you saw, and why it happened.",
      "ask": [
@@ -1027,8 +1027,8 @@
     }
    ],
    "safety": "Never look at the Sun through the lenses. Do not use the sunglasses to look at the Sun at all. Hold the lenses by the frame and give borrowed ones back unscratched.",
-   "record": "Fill in the table. Then draw two lenses with their gates, one with upright lines and one with sideways lines, and show a wiggle of light going through the first and being stopped by the second. Last, write what you think, what you saw, and why.",
-   "context": "In this experiment, you look through two polarising lenses at a bright window and turn one of them. You find that two see-through lenses can make darkness, and learn that light has a wiggle direction.",
+   "record": "Fill in the table. Then show two lenses with their gates, one upright and one sideways, using two pencils or your hands. Tell a grown-up how a wiggle of light goes through the first and is stopped by the second. Last, write what you think, what you saw, and why.",
+   "context": "In this experiment, you look through two polarising lenses at a bright window and turn one of them. You find that two see-through lenses can make darkness, and learn that light has a wiggle direction. Each lens works like a gate that lets through only one wiggle direction.",
    "setup": [
     {
      "art": "A child holding a pair of sunglasses up to a laptop screen that is white and bright, then turning the glasses on their side so that the screen goes black.",
@@ -1053,7 +1053,7 @@
      "mins": 5,
      "do": "Show your child the sunglasses and the window. Ask for a guess about what will happen when two lenses are crossed. Write the guess at the top of the table.",
      "say": "We have two sunglass lenses. Each one is see-through. If I hold one in front of the other, and turn one, what will you see? Brighter, darker or the same? Why do you think so?",
-     "kid": "Two see-through lenses. Turn one. Will the window get darker? Why?",
+     "kid": "Guess. Turn one lens. Will the window get darker, brighter or stay the same?",
      "ask": [
       {
        "q": "Why do you think turning a lens might change the brightness?",
@@ -1103,7 +1103,7 @@
      "mins": 10,
      "do": "Hold the two lenses together, one behind the other, in front of the bright window, with their arms pointing the same way. Look through both. Score how bright the window is. Now turn one lens slowly. Stop when it is halfway to a quarter turn, and again at the full quarter turn. Score the brightness each time. Write the scores in the table.",
      "say": "Hold both lenses together, arms the same way. How bright is the window? Now turn one lens a little. Then a quarter turn. What happens to the brightness?",
-     "kid": "Hold both lenses up to the window. Turn one slowly. Watch it go dark.",
+     "kid": "Hold both lenses up to the window. Turn one slowly. Watch the brightness.",
      "ask": [
       {
        "q": "What did the two lenses do together, when one was turned a quarter turn?",
@@ -1152,15 +1152,15 @@
     {
      "id": "s5",
      "mins": 3,
-     "do": "Fill in the table with your scores. Draw the gates. Compare with the guess from the start.",
+     "do": "Fill in the table with your scores. Use two pencils to show the two gates, one upright and one sideways. Show how a wiggle of light gets through the first and is stopped by the second. Compare with the guess from the start.",
      "say": "Look at your table. When was the window brightest? When was it darkest? Was your guess right?",
-     "kid": "Fill in the table. Draw the two gates. Was your guess right?",
+     "kid": "Fill in the table. Show the two gates with two pencils. Was your guess right?",
      "context": "In this step, you record your results and draw the gates."
     },
     {
      "id": "s6",
      "mins": 3,
-     "do": "Ask your child to say what they think, what they saw and why. Write it under the drawing.",
+     "do": "Ask your child to say what they think, what they saw and why. Write it under the table.",
      "say": "Tell me three things. What did you think at the start? What did you see? Why do you think it happened?",
      "kid": "Say what you thought, what you saw, and why it happened.",
      "ask": [
@@ -1220,7 +1220,7 @@
      "what": "Look at the clear candy. Crush it to powder. Compare the lump with the powder. Put a drop of oil on the powder, and explain what you see."
     }
    ],
-   "record": "A drawing of a lump of candy and a heap of powder side by side, with a ray of light zigzagging through each. A sentence on why the powder looks white. A sentence on what the oil did.",
+   "record": "A photo of the lump, the dry powder and the oiled powder side by side. A sentence on why the powder looks white. A sentence on what the oil did.",
    "safety": "Wrap the candy in a cloth or put it in a zip bag before crushing, so no sharp bits fly. Do the crushing on a firm table, with a grown-up nearby, and keep fingers away from the rolling pin. Do not give hard candy to children under five. Do not eat the crushed candy that has had oil on it.",
    "context": "In this activity, you crush clear sugar candy into powder and watch it turn white. Then you add a drop of oil to find out what makes the powder see-through again.",
    "setup": [
@@ -1243,7 +1243,7 @@
      "mins": 5,
      "do": "Hold up a lump of the candy to a window or a torch. Describe it. Ask your child what colour the candy would be if it was ground to powder. Write down the guess and the reason.",
      "say": "Look at this lump of sugar candy. Is it clear or white? Hold it to the light. What do you think will happen if we crush it into powder? Why do you think so?",
-     "kid": "Look at the candy. Is it clear? What will powder look like? Why?",
+     "kid": "Hold the candy up to the light. Guess what colour the powder will be.",
      "ask": [
       {
        "q": "What colour do you think the powder will be? Why do you think so?",
@@ -1262,7 +1262,7 @@
      "mins": 7,
      "do": "Put two lumps of candy in the zip bag, and close it. Lay the bag on a firm table, with a cloth over it. Roll or tap a rolling pin firmly over the bag until the candy is a fine powder. Kalkandu is hard, so this takes a few minutes. The base of a heavy steel tumbler or a pestle also works. Children take turns, with the grown-up holding the bag. Pour a pinch of the powder onto the white plate, and another pinch onto the black plate. Put a whole lump next to each.",
      "say": "Put the candy in the bag. Roll the pin over it until it is powder. Now tip a pinch onto each plate. Which looks clear, and which looks white?",
-     "kid": "Put the candy in a bag. Roll it flat. Tip a pinch onto each plate.",
+     "kid": "Crush the candy in the bag until it is powder. Tip a pinch onto each plate.",
      "adult": true,
      "parent": "A grown-up should help with the rolling pin. Crush until most of the candy is a fine powder. On the black plate, the powder will look strikingly white, while the lump looks clear or yellowish. Hold the plates in sunlight or under a bright light.",
      "check": {
@@ -1283,8 +1283,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Spread a thin, even layer of powder over the printed word on the paper. Can you still read the word? Now put 2 or 3 drops of cooking oil on half of the layer and spread them with the spoon. Watch what happens to the white. Can you read the word under the oiled half and not under the dry half? Shine the torch from the side, and look at both halves. Each child can try a heap of their own on a black plate.",
-     "say": "Put a few drops of oil on the powder. What happens to the white? Is the oiled patch lighter or darker? Which one lets you see the plate?",
-     "kid": "Put a few drops of oil on the powder. What happens to the white?",
+     "say": "Put a few drops of oil on the powder. What happens to the white? Is the oiled patch lighter or darker? Which half lets you see the word?",
+     "kid": "Put oil on half of the powder. Can you read the word under it?",
      "ask": [
       {
        "q": "Why do you think the oil made the white powder look darker?",
@@ -1301,9 +1301,9 @@
     {
      "id": "s4",
      "mins": 3,
-     "do": "Draw the lump and the heap of powder side by side. Draw the light zigzagging in the powder. Write a sentence on why the powder is white, and why oil made it darker.",
-     "say": "Draw the lump and the powder. Show the light zigzagging through the powder. Then write why the powder is white, and why the oil changed it.",
-     "kid": "Draw a lump and a heap. Draw a zigzag of light in the heap.",
+     "do": "Set the lump, the dry powder and the oiled powder side by side. Take a photo of them. Tell a grown-up why the powder is white, and why the oil changed it.",
+     "say": "Look at the lump, the dry powder and the oiled powder together. Tell me why the powder is white, and why the oil changed it.",
+     "kid": "Line up the lump, the dry powder and the oiled powder. Say why they look different.",
      "think": "Snow is made of clear ice crystals, and looks white. When snow melts, it looks clear. Why?",
      "context": "In this step, you draw what you saw and explain it."
     }
@@ -1365,7 +1365,7 @@
      "kid": "One person throws the balls. The others are a mirror, a black cloth, a frosted pane and a window.",
      "ask": [
       {
-       "q": "What do you think will happen to light when it meets each of these?",
+       "q": "Which material will let the most balls through? Which will let none?",
        "good": [
         "The mirror sends it back, and the black cloth soaks it up.",
         "The frosted pane will send it everywhere.",
@@ -1400,7 +1400,7 @@
      "id": "s3",
      "mins": 7,
      "do": "Now a player acts as a dark sunglass lens that passes half the light. This player catches every second ball and lets the others go past. Put two of these lenses in a row (use two players, or one player who stands in two places). Throw 16 balls at the first lens. Count how many get through. Then throw only those balls at the second lens. Count again. Write the numbers. Try three and four lenses in a row.",
-     "say": "Put two sunglass lenses in a row. Sixteen balls hit the first. Every second ball gets through, so eight get past. Now those eight hit the second lens. How many get through? Half of eight is four.",
+     "say": "Put two sunglass lenses in a row. Sixteen balls hit the first. Every second ball gets through. How many get past the first lens? Now those balls hit the second lens. How many get through that one?",
      "kid": "Two lenses in a row. Count how many balls get through both.",
      "ask": [
       {
@@ -1526,7 +1526,7 @@
      "mins": 4,
      "do": "Fill in the table of the three ways. Tick the ones that worked. Write one sentence on how each works.",
      "say": "Which ways worked? For each, tell me what it changes about the light.",
-     "kid": "Which ways found the marble? Why did they work?",
+     "kid": "Tick the ways that found the marble.",
      "ask": [
       {
        "q": "What did each of the three ways change about what the light was doing?",
@@ -1579,9 +1579,9 @@
      "what": "Draw a plan. Stick layers of clear tape onto the plastic to make a picture. Look at it through a polarising lens in front of a white screen. Turn the lens and watch the colours change."
     }
    ],
-   "record": "A drawing of your design, with the number of layers of tape in each part. A note on which number of layers gave which colour. A sentence on what happens when you turn the lens.",
+   "record": "A drawing or photo of your design, with the number of layers of tape in each part. A note on which number of layers gave which colour. A sentence on what happens when you turn the lens.",
    "safety": "A grown-up helps with the scissors. Look at the screen only for short spells, in a dim room, and rest your eyes. Do not stick tape on the screen.",
-   "context": "In this project, you stick layers of clear tape on clear plastic and look at them through a polarising lens. You make colours from clear materials.",
+   "context": "In this project, you stick layers of clear tape on clear plastic and look at them through a polarising lens. You will find out how clear tape can make colours.",
    "setup": [
     {
      "art": "A sheet of clear plastic on a table with strips of clear tape being stuck in overlapping layers to form a simple flower shape.",
@@ -1606,7 +1606,7 @@
      "mins": 5,
      "do": "Show your child the clear plastic and the tape. Ask what colour the tape will make, if anything. Write down the guess and the reason.",
      "say": "We will stick clear tape on clear plastic. It is all see-through. Do you think it will make any colour? Why do you think so?",
-     "kid": "Clear tape on clear plastic. Will it make any colour? Why?",
+     "kid": "Guess. Will clear tape on clear plastic make any colour?",
      "ask": [
       {
        "q": "Why do you think clear things might make colours?",
@@ -1623,9 +1623,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Draw a simple design on paper, such as a flower with five petals and a leaf. Plan how many layers of tape will go in each part. Use one layer for some parts, two for others, three for others and four for the rest. Write the plan on the paper.",
-     "say": "Draw a flower or a pattern. In each part, decide how many layers of tape. One layer here, two layers there, three, four. Write the numbers on your plan.",
-     "kid": "Draw a flower. Plan 1, 2, 3 or 4 layers of tape for each part.",
+     "do": "Make a simple design on paper, such as a flower with five petals and a leaf. Draw it, or cut the shapes from paper. Plan how many layers of tape will go in each part. Use one layer for some parts, two for others, three for others and four for the rest. Write the plan on the paper.",
+     "say": "Make a flower or a pattern. In each part, decide how many layers of tape. One layer here, two layers there, three, four. Write the numbers on your plan.",
+     "kid": "Make a flower, drawn or cut from paper. Plan 1, 2, 3 or 4 layers of tape for each part.",
      "parent": "Different numbers of layers give different colours. Keep each piece of tape lying flat, with no bubbles. Put a small number on each part of your plan so you can match colours to layers later.",
      "context": "In this step, you plan your design and decide on the layers."
     },
@@ -1633,7 +1633,7 @@
      "id": "s3",
      "mins": 15,
      "do": "A grown-up helps to cut strips of tape about 3 centimetres long. Stick the strips onto the plastic, in layers, following your plan. Lay each layer across the one below, not in line with it. Press out the bubbles. Stick the first layer for every part, then the second layers, and so on.",
-     "say": "Stick the first layer of tape for every part. Then the second layer on the parts that need two. Then the third. Press out bubbles. Lay each new strip across the one below. Clear tape is made of stretched plastic. That stretching can twist the wiggle direction of light going through it, and each layer twists it a bit more.",
+     "say": "Stick the first layer of tape for every part. Then the second layer on the parts that need two. Then the third. Press out bubbles. Lay each new strip across the one below.",
      "kid": "Cut strips of tape. Stick them on the plastic in layers. Press out bubbles.",
      "adult": true,
      "parent": "The tape does not need to cover the whole sheet. A flower shape in the middle looks best. Cross each layer over the last at a slant, because colours are stronger when the layers lie in different directions. Plain clear tape gives more colour than matt tape. Ordinary cello tape from a stationery shop works; brown or masking tape does not. Each child can make their own small flower, and several children can share one screen and one lens by taking turns.",
@@ -1656,7 +1656,7 @@
      "mins": 10,
      "do": "Lay the plastic on the white screen in a dim room. Look at it through the polarising lens. Turn the lens slowly all the way round. Note the colours of each part. Match them to the number of layers. Write them on your plan.",
      "say": "Put your picture on the screen. Look at it through the lens. What colours do you see? Turn the lens. Do the colours change? Which number of layers gave which colour?",
-     "kid": "Lay your picture on the screen. Look through the lens. Turn it. What colours?",
+     "kid": "Look through the lens and turn it. Watch the colours.",
      "ask": [
       {
        "q": "Why does turning the lens change the colours?",
@@ -1712,12 +1712,12 @@
     "Mix a little warm water into honey, a spoonful at a time, and see whether the marble reappears.",
     "Test other clear things, such as a clear plastic bead or a piece of clear plastic, in the best syrup."
    ],
-   "your_turn": "Sketch your plan. Make your syrups, and test each one with the marble. Score each out of five. Which liquid hid the marble best? Did a thicker syrup always hide it better? Why do you think so?",
+   "your_turn": "Write down your plan. Make your syrups, and test each one with the marble. Score each out of five. Which liquid hid the marble best? Did a thicker syrup always hide it better? Why do you think so?",
    "context": "This is a design challenge about matching liquids. You try to make a cheap syrup that hides a clear marble as well as honey does.",
    "setup": [
     {
      "art": "A child sketching a plan on paper with four jars labelled thin syrup, thick syrup, honey and oil.",
-     "caption": "1. Sketch your plan and list the liquids to test."
+     "caption": "1. Write your plan and list the liquids to test."
     },
     {
      "art": "A grown-up pouring warm water into a measuring cup of sugar, and a child stirring it with a spoon until clear.",
@@ -1782,7 +1782,7 @@
      "mins": 8,
      "do": "Compare your scores. Rank the liquids from best to worst at hiding the marble. Write down what you found, and what you would try next.",
      "say": "Which liquid hid the marble best? Did the thick syrup match the honey? What would you try next?",
-     "kid": "Which liquid hid the marble best? What would you try next?",
+     "kid": "Rank the liquids from best to worst. Decide what to try next.",
      "ask": [
       {
        "q": "Which liquid hid the marble best, and why do you think so?",

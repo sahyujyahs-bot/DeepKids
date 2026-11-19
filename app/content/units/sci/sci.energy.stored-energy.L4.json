@@ -551,7 +551,7 @@
           "id": "s2",
           "mins": 8,
           "do": "Play the first eight cards. For each, read the front, say the store and the trigger, and then check the back.",
-          "say": "Take a card. Read the front. Which label does it go under? What is the trigger? Then turn it over and check.",
+          "say": "Take a card. Read the front. Which label does it go under? What is the trigger? Then turn it over and check. Score a point for each right answer.",
           "kid": "Take a card. Pick a label. Say the trigger. Turn it over.",
           "ask": [
             {
@@ -776,7 +776,7 @@
         }
       ],
       "safety": "A rubber band can snap, so stand to the side of the band's line and never pull the soap back more than 6 centimetres. Push each pencil with the pointed end deep into the clay and the flat end up, so nobody can fall on a point. Tape the clay lumps to the floor. Keep your face away from the band. A grown-up should be near, because pencils are sharp.",
-      "record": "Write each slide in the table. Circle the middle one of the three for each pull-back. Then draw a bar for each pull-back, using the middle slide.",
+      "record": "Write each slide in the table. Circle the middle one of the three for each pull-back. Then lay a piece of string as long as the middle slide for each pull-back, and put them side by side.",
       "context": "In this experiment, you pull a rubber band back by different amounts and measure how far it pushes a bar of soap. You find out how much more energy a longer pull-back stores.",
       "setup": [
         {
@@ -859,7 +859,7 @@
           "id": "s4",
           "mins": 5,
           "do": "1. Slide the soap back until its front edge is at 4 centimetres on the ruler. 2. Let go. 3. Read where the front edge stops on the tape, and write the number. 4. Do this three times.",
-          "say": "Now pull the soap back to 4 centimetres. That is twice as far as before. Let go, and read where it stops. Do it three times. Is the slide twice as far?",
+          "say": "Now pull the soap back to 4 centimetres. That is twice as far as before. Let go, and read where it stops. Do it three times.",
           "kid": "Now pull the soap back 4 centimetres, twice as far. Let go. Read where it stops. Do it three times.",
           "ask": [
             {
@@ -886,9 +886,9 @@
         {
           "id": "s6",
           "mins": 8,
-          "do": "1. In each row of the table, circle the middle of the three slides. 2. Draw a bar for each pull-back. 3. Divide the 4 centimetre slide by the 2 centimetre slide. 4. Ask your child to say what they thought, what they saw, and why.",
+          "do": "1. In each row of the table, circle the middle of the three slides. 2. Lay a piece of string as long as the middle slide for each pull-back, side by side. 3. Divide the 4 centimetre slide by the 2 centimetre slide. 4. Ask your child to say what they thought, what they saw, and why.",
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? How many times as far did the soap slide when we doubled the pull-back?",
-          "kid": "Draw a bar for each pull-back. Say what you thought, what you saw, and why.",
+          "kid": "Lay a piece of string as long as each slide. Say what you thought, what you saw, and why.",
           "parent": "After your child has said what they saw, you can explain. The soap slides until friction uses up all the energy the band gave it. Friction is the grip between two things that touch. Here it is the grip between the soap and the floor. So the slide shows how much energy the band passed on. Bands differ a lot, so your numbers may be small or large. Twice the pull-back usually gives much more than twice the slide, often 3 to 10 times, but with a very small first slide the ratio is not reliable. If the 2 centimetre slide is under 2 centimetres, compare the 6 centimetre slide with the 4 centimetre slide instead. There are two reasons. The first is that the band pulls back harder the more it is stretched. The second is that the soap pulls the middle of the band into a V shape. Each extra centimetre of pull-back then stretches the band by a little more than the one before. If your numbers differ, say so. Real rubber is not a perfect spring.",
           "think": "Why did a pull-back twice as long make the soap slide more than twice as far?",
           "check": {
@@ -980,7 +980,7 @@
           "mins": 5,
           "do": "Show your child the ball and the dough ball. Ask for a guess and a reason, and write both down.",
           "say": "We will drop this ball from 30, 60 and 90 centimetres. Will it come back up to where we dropped it from? If we drop it from twice as high, will it bounce twice as high? Why do you think so?",
-          "kid": "Drop a ball from 30, 60 and 90 centimetres. Will it bounce back up to the start? Why do you think so?",
+          "kid": "Drop a ball from 30, 60 and 90 centimetres. Think about how high it will bounce.",
           "ask": [
             {
               "q": "When the ball comes back up, will it reach the place it was dropped from? Why?",
@@ -1066,7 +1066,7 @@
           "mins": 3,
           "do": "1. Hold the dough ball with its top at the 90 centimetre flag. 2. Let go. 3. Write how high it bounces.",
           "say": "Now drop the ball of dough from 90. How high does it bounce? What do you think the dough ball is missing?",
-          "kid": "Drop the dough ball from 90. How high does it bounce? What is it missing?",
+          "kid": "Drop the dough ball from 90. Watch what it does.",
           "ask": [
             {
               "q": "What does the dough ball not have that the other ball has?",
@@ -1083,9 +1083,9 @@
         {
           "id": "s7",
           "mins": 5,
-          "do": "1. Circle the middle of the three bounces for each height. 2. Divide each middle bounce by its drop height. 3. Draw a bar for each drop height. 4. Ask your child to say what they thought, what they saw, and why.",
+          "do": "1. Circle the middle of the three bounces for each height. 2. Divide each middle bounce by its drop height. 3. Draw a bar for each drop height, or lay a piece of string as long as each bounce. 4. Ask your child to say what they thought, what they saw, and why.",
           "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? What fraction of the drop height came back each time?",
-          "kid": "Draw a bar for each drop. Say what you thought, what you saw, and why.",
+          "kid": "Show each bounce as a bar. Draw it, or lay a string. Say what you saw.",
           "parent": "After your child has said what they saw, you can explain. The energy of height turns into movement, then into a squash in the ball, then into movement and height again. Each time, a little turns into heat and sound in the ball and the floor. Many balls return about half to two thirds of the height, and the fraction stays about the same at every drop height. Doubling the drop height doubles the energy stored in height, so the bounce also doubles. If your numbers differ, say so.",
           "think": "Why does a ball never bounce back as high as it was dropped from?",
           "check": {
@@ -1171,7 +1171,7 @@
           "mins": 3,
           "do": "Show your child the band and the bottle. Ask for a guess and a reason, and write both down.",
           "say": "We will hang a bottle from a band and add water, 100 millilitres at a time. The band will stretch. Each time we add the same water, will it stretch the same amount again? Or more, or less? Why do you think so?",
-          "kid": "Hang a bottle from a band. Add water 100 millilitres at a time. Will the band stretch the same each time? Why?",
+          "kid": "Hang a bottle from a band. Add water 100 millilitres at a time. Watch the band.",
           "ask": [
             {
               "q": "Will every 100 millilitres stretch the band by the same amount? Why?",
@@ -1228,8 +1228,8 @@
           "id": "s4",
           "mins": 5,
           "do": "1. Draw a graph with water on the bottom and stretch up the side. 2. Mark each pair of numbers and join the dots with a ruler. 3. Ask your child to say what they thought, what they saw, and why.",
-          "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Where would the line be for 200 millilitres more?",
-          "kid": "Draw the graph. Say what you thought, what you saw, and why.",
+          "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Where would the next dot go, for 500 millilitres?",
+          "kid": "Draw the graph, or ask your grown-up to help. Say what you thought, what you saw, and why.",
           "parent": "After your child has said what they saw, you can explain. A straight line means that the stretch grows in step with the weight, so the band pulls back twice as hard when it is stretched twice as far. Now think about storing energy. To stretch the band twice as far, you pull twice as hard at the end. You also pull through twice the distance. Twice as hard, through twice the distance, is 2 times 2, which is 4. That is why twice the pull-back stores about four times the energy.",
           "think": "If twice the weight gives about twice the stretch, how hard must you pull to hold a band stretched twice as far?",
           "check": {
@@ -1304,7 +1304,7 @@
           "mins": 3,
           "do": "Show your child the stool and the ball. Ask for a guess and a reason, and write both down.",
           "say": "We will hold the ball in one place, and drop it onto the stool. Then we take the stool away and drop it from the same place. Will the bounces be the same height? Why do you think so?",
-          "kid": "Drop the ball onto a stool. Take the stool away. Drop the ball from the same spot. Will the bounce be the same? Why?",
+          "kid": "Drop the ball onto a stool. Then take the stool away and drop the ball from the same spot.",
           "ask": [
             {
               "q": "The ball is held in exactly the same place. Will it bounce the same height both times? Why?",
@@ -1387,7 +1387,7 @@
           "what": "Guess. Plug the syringe and push the plunger. Feel the air push back. Let go and watch. Then try the same with water and compare."
         }
       ],
-      "record": "Draw the syringe with the plunger pulled back and then pushed in. Draw arrows for the push of the air.",
+      "record": "Tell your grown-up what the air did when you pushed the plunger in and let go. Or draw the syringe pulled back and pushed in, with arrows for the push of the air.",
       "context": "In this activity, you squash a small amount of air and feel it push back. You find out that air is a store of energy, like a spring.",
       "setup": [
         {
@@ -1437,7 +1437,7 @@
           "mins": 4,
           "do": "1. Try to push the plunger in to 4 millilitres, but no further. 2. Notice how hard you have to push. 3. Let go, and watch.",
           "say": "Try pushing the plunger in a bit further, to 4, but not past it. Is it harder or easier to push the last bit? What does that remind you of?",
-          "kid": "Push to 4. Not further. Is the last bit harder or easier? What does that remind you of?",
+          "kid": "Push to 4. Not further. Feel how hard the last bit is.",
           "ask": [
             {
               "q": "Is the last part of the push harder or easier than the first part? What does that remind you of?",
@@ -1665,8 +1665,8 @@
           "id": "s1",
           "mins": 5,
           "do": "Read the problem together. Ask your child for ideas before trying anything, and write down their guess and reason.",
-          "say": "Can a ball bounce higher than the place it was dropped from? Think about it. What would a ball need to bounce that high? Why do you think so?",
-          "kid": "Can a ball bounce higher than where it was dropped? What would it need? Why do you think so?",
+          "say": "Here is a puzzle. Can a ball bounce higher than the place it was dropped from? What do you think it would need? Why do you think so?",
+          "kid": "Think of ideas. What might help a ball bounce higher than where it was dropped?",
           "ask": [
             {
               "q": "Can a ball bounce higher than where it was dropped from? How?",
@@ -1723,7 +1723,7 @@
           "mins": 3,
           "do": "Ask your child to explain how the small ball could go higher than the place it was dropped from.",
           "say": "Where did the extra energy come from? The small ball went higher than a single ball can. Why do you think the big ball hardly bounced?",
-          "kid": "Where did the small ball's extra energy come from? Why did the big ball hardly bounce?",
+          "kid": "Where did the small ball's extra energy come from?",
           "parent": "After your child has said what they think, you can explain. Both balls started with energy of height. When the big ball hit the floor and began to rise, it hit the small ball, which was still falling. Most of the big ball's energy passed on to the small ball, and the big ball almost stopped. So the small ball got energy from the big ball. No energy was made. It was passed from one ball to the other.",
           "think": "Did the two balls make new energy, or share the energy they had?",
           "context": "This is the last step of Beat the Drop. You explain what you found."

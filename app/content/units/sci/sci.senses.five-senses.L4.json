@@ -695,7 +695,7 @@
      "id": "s1",
      "mins": 4,
      "do": "Cut out the cards and the tokens. Shuffle the cards and put them in a pile. Read the five ideas on the tokens aloud once. No printer? Write the five ideas on paper slips. Read the cards from the screen.",
-     "say": "We have five ideas that explain odd things your senses do. Adapting receptors. Too small a change. The brain guesses. Signals take time. A flexible brain. Each story fits one idea.",
+     "say": "We have five ideas that explain odd things your senses do. Adapting receptors means a sense stops reporting something that stays the same. Too small a change means a tiny difference goes unnoticed. The brain guesses means it fills in what it expects. Signals take time means a message needs a moment to reach the brain. A flexible brain means the brain changes with practice. Each story fits one idea.",
      "kid": "Cut out the cards and tokens. Shuffle the cards. Read the five ideas.",
      "context": "This is the first step of Sense Detectives. You set up the game and meet the five ideas."
     },
@@ -760,7 +760,7 @@
      "mins": 3,
      "do": "Add up the scores. Ask each player which idea they found hardest, and which story surprised them most.",
      "say": "Add up your scores. Which idea was hardest for you to spot? What story could you make up for that idea?",
-     "kid": "Add up your points. Make up your own story for one idea.",
+     "kid": "Add up your points. Say which idea was hardest to spot.",
      "ask": [
       {
        "q": "Can you invent a new story for one of the five ideas?",
@@ -822,8 +822,8 @@
      "what": "Guess. Set up. Do the seeing, hearing and touch rounds. Swap roles and repeat in the opposite order. Find the middle value and write your claim."
     }
    ],
-   "record": "For each cue, write the seven counted catch distances. Cross out the three practice tries. Then find the middle value of the seven. Draw a bar for each cue using its middle value.",
-   "context": "In this experiment, you find out how far a ruler falls before you catch it, when you are told it is falling by sight, by sound and by touch.",
+   "record": "For each cue, write the seven counted catch distances. Cross out the three practice tries. Then find the middle value of the seven. Show each cue's middle value as a bar. Draw the bars, or cut a paper strip of each length and lay them side by side.",
+   "context": "In this experiment, you find out how far a ruler falls before you catch it, when you are told it is falling by sight, by sound and by touch. You will find out which of your senses gets a message to your hand fastest.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: the middle catch distance for each cue",
@@ -875,11 +875,11 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the ruler. Explain the three rounds. Ask for a guess and a reason, and write both at the top of the results table.",
-     "say": "A friend will drop this ruler, and you will catch it. In one round you will watch it, in one you will hear a word, and in one you will feel a tap. Which will let you catch it soonest? Which will be slowest? Why do you think so?",
-     "kid": "A friend drops a ruler. You catch it. You can see, hear or feel the cue. Which is fastest? Why?",
+     "say": "A friend will drop this ruler, and you will catch it. In one round you will watch it, in one you will hear a word, and in one you will feel a tap. Each one is a signal to catch. Which signal will let you catch it soonest? Which will be slowest? Why do you think so?",
+     "kid": "A friend drops a ruler and you catch it. Guess which signal is fastest: seeing, hearing or touch.",
      "ask": [
       {
-       "q": "Why do you think that cue will be the quickest?",
+       "q": "Why do you think that signal will be the quickest?",
        "good": [
         "Seeing is quickest, because the eye is quick.",
         "Touch is quickest, because the tap is on the body.",
@@ -953,7 +953,7 @@
      "mins": 8,
      "do": "For each cue, put the seven numbers in order and pick the middle one. Look at the three middle numbers. Ask your child for their claim, their evidence and their reasoning before you explain anything.",
      "say": "Put the seven numbers for each cue in order, smallest to biggest. The middle one is the one to use. Which cue gave the shortest distance? What is your claim? What is your evidence? Why do you think it happened?",
-     "kid": "Put each set of seven in order. Pick the middle one. Which cue was fastest? Why?",
+     "kid": "Put each set of seven in order. Pick the middle one for each.",
      "ask": [
       {
        "q": "Which cue gave the shortest catch distance, and does it match your guess?",
@@ -964,7 +964,7 @@
        ]
       },
       {
-       "q": "Light travels almost instantly. So where was the time spent?",
+       "q": "Light reaches your eye almost at once. So where was the time spent between seeing the ruler fall and catching it?",
        "good": [
         "In the eye, the nerve and the brain.",
         "In deciding to catch.",
@@ -1038,7 +1038,7 @@
     }
    ],
    "record": "For each set, write the smallest extra water that the lifter always got right. Then work out the extra as a share of the standard, out of 100. Compare the two shares.",
-   "context": "In this experiment, you find the smallest extra weight that you can feel, once for a light bottle and once for a heavy one.",
+   "context": "In this experiment, you find the smallest extra weight that you can feel, once for a light bottle and once for a heavy one. You will find out whether a heavy bottle needs a bigger change than a light one before you notice it.",
    "example_chart": {
     "type": "bar",
     "title": "Made-up example results: the extra water needed to feel a difference",
@@ -1082,7 +1082,7 @@
      "mins": 5,
      "do": "Show your child the bottles and the jug. Say that you will find the smallest extra weight they can feel, for a light bottle and for a heavy one. Write their guess and their reason.",
      "say": "I will put some water in six bottles. We will find how much extra water a bottle needs before you can tell it is heavier. We will do it for a light bottle, and then for a heavy one. Will the heavy one need the same extra, more or less? Why do you think so?",
-     "kid": "How much extra water can you feel? Is it the same for a heavy bottle? Why do you think so?",
+     "kid": "You will hold bottles with your eyes covered and say which one is heavier.",
      "ask": [
       {
        "q": "Do you think a heavy bottle needs more extra water than a light bottle, or less? Why?",
@@ -1100,7 +1100,7 @@
      "id": "s2",
      "mins": 8,
      "do": "Fill the first bottle with 100 millilitres of water. Fill five more with 110, 120, 130, 140 and 160 millilitres. Put a secret letter on each base. Write which letter is which on the helper's paper. Close all the caps tightly.",
-     "say": "Bottle A has 100 millilitres of water. This is the standard. The other five have a little more, from 110 up to 160. Put a secret letter on each base, so the lifter cannot tell. Close the caps tight.",
+     "say": "Bottle A has 100 millilitres of water. This is the standard, the bottle we compare the others with. The other five have a little more, from 110 up to 160. Put a secret letter on each base, so the lifter cannot tell. Close the caps tight.",
      "kid": "Fill bottle A with 100 millilitres. Fill the others a little more. Close the caps tight.",
      "adult": false,
      "parent": "The bottles must look the same and feel the same on the outside. The helper keeps the key and does not tell the lifter. If you have fewer than six bottles, use two or three and add water between rounds with the jug.",
@@ -1209,7 +1209,7 @@
     }
    ],
    "record": "Write how many seconds it took for the first smell to fade. Then write a score from 0 to 5 for the smell at 30 seconds, 1 minute and 3 minutes after the rest. Write the score for the second smell right after the first had faded.",
-   "context": "In this activity, you hold a strong smell near your nose until it fades. Then you time how long your nose takes to wake up, and find out whether a second smell fades too.",
+   "context": "In this activity, you find out why you stop noticing a smell that stays around, like cooking in your kitchen. You hold a strong smell near your nose until it fades. Then you time how long your nose takes to wake up, and find out whether a second smell fades too.",
    "setup": [
     {
      "art": "A child sitting at a table with a steel katori of spices held about ten centimetres below the nose, and a helper with a timer beside her.",
@@ -1234,7 +1234,7 @@
      "mins": 4,
      "do": "Show your child the katori of spices and the orange peel. Ask for a guess and a reason about how long the smell will last. Write the guess down.",
      "say": "I will hold this spice a hand's width from your nose. You will tell me when the smell has almost gone. How long will that take? Will a second smell fade too? Why do you think so?",
-     "kid": "How long until the smell fades? Will a new smell fade too? Why?",
+     "kid": "Guess how long the spice smell will last. Guess if a second smell will fade too.",
      "ask": [
       {
        "q": "Why do you think a smell might fade when it is still there?",
@@ -1252,7 +1252,7 @@
      "id": "s2",
      "mins": 6,
      "do": "Hold the katori about 10 centimetres from your child's nose and start the timer. Your child breathes normally and raises a hand when the smell is almost gone. Write the number of seconds.",
-     "say": "Breathe normally. Tell me what you smell. Raise your hand when it is almost gone. I will watch the clock.",
+     "say": "Breathe normally. Raise your hand when it is almost gone. I will watch the clock.",
      "kid": "Breathe normally. Raise a hand when the smell is almost gone.",
      "parent": "Most people say the smell fades within about 30 seconds to 2 minutes. If nothing fades after 3 minutes, stop and say so. That is a real result. Keep the katori at the same distance, and do not let the nose touch it. If the spice is too faint to start with, crush it more or hold it 5 centimetres away. If the smell does not fade in 3 minutes, try orange peel as the first smell instead. Compare two children's fade times only as a fun fact, because noses and distances differ.",
      "check": {
@@ -1271,7 +1271,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Take the katori away. Your child rests by the open window. After 30 seconds, hold the katori to the nose again and score the smell from 0 to 5. Repeat after 1 minute and after 3 minutes. Write the scores.",
+     "do": "Take the katori away. Your child rests by the open window. After 30 seconds, hold the katori to the nose again and score the smell from 0 (no smell) to 5 (very strong). Repeat after 1 minute and after 3 minutes. Write the scores.",
      "say": "Come to the window and breathe the fresh air. After half a minute I will hold the spice again. Tell me how strong it is, from nothing to very strong.",
      "kid": "Rest at the window. Smell the spice again after a while. Give it a score.",
      "parent": "Typical, not promised: the smell is weak after 30 seconds, stronger after 1 minute and nearly full after 3 minutes. The nose recovers in a few minutes. The numbers may vary, so write what you find.",
@@ -1380,7 +1380,7 @@
      "mins": 4,
      "do": "Show the glove, the screen and the brushes. Explain that you will stroke a hidden hand and a rubber hand. Ask for a guess and a reason.",
      "say": "Your real hand will be behind this screen. You will look at this rubber hand while I stroke both with a brush. What do you think you will feel? Why do you think so?",
-     "kid": "You will look at a rubber hand. A brush strokes it and your real hand. What will you feel?",
+     "kid": "You will look at a rubber hand. A brush strokes it and your hidden hand.",
      "ask": [
       {
        "q": "What do you think will happen to the feeling of the stroke on your hidden hand?",
@@ -1488,7 +1488,7 @@
    "setup": [
     {
      "art": "Two sheets of paper side by side, one with a soft round cloud shape and one with a sharp spiky star, each with no name on it.",
-     "caption": "1. Draw one soft round shape and one sharp spiky shape. Do not name them."
+     "caption": "1. Make one soft round shape and one sharp spiky shape. Do not name them."
     },
     {
      "art": "A child showing both sheets to a grandmother and asking which is bouba and which is kiki.",
@@ -1505,7 +1505,7 @@
      "mins": 3,
      "do": "Tell your child that two made-up words, 'bouba' and 'kiki', are names for two shapes. Ask for a guess and a reason about which word goes with which shape.",
      "say": "These two words are made up. They do not mean anything. Which shape do you think is called 'bouba', the round one or the spiky one? Why do you think so?",
-     "kid": "Two made-up words. Bouba and kiki. Which shape is bouba? Why?",
+     "kid": "Bouba and kiki are made-up words. One names the round shape. One names the spiky shape.",
      "ask": [
       {
        "q": "What makes you pick that word for that shape?",
@@ -1522,9 +1522,9 @@
     {
      "id": "s2",
      "mins": 5,
-     "do": "Draw a soft, round, cloud-like shape on one sheet and a sharp, spiky, star-like shape on the other. Make them about the same size. Do not write any names on them.",
-     "say": "Draw one soft round shape and one sharp spiky shape. Make them about the same size. Do not put names on them.",
-     "kid": "Draw a soft round shape. Draw a spiky shape. Make them the same size.",
+     "do": "Tear a soft, round, cloud-like shape out of one sheet and a sharp, spiky, star-like shape out of the other. Make them about the same size. Do not write any names on them. Drawing them is fine too.",
+     "say": "Tear out one soft round shape and one sharp spiky shape, or draw them. Make them about the same size. Do not put names on them.",
+     "kid": "Tear out a round shape and a spiky shape. Make them the same size.",
      "parent": "Keep the shapes clear and simple. If one is much bigger, people may pick by size.",
      "context": "In this step, you draw the two shapes."
     },
@@ -1635,7 +1635,7 @@
      "mins": 5,
      "do": "Show your child the cardboard strip. Explain that you will mark it so that it shows reaction time in seconds. Ask for a guess about what changes the time.",
      "say": "We will make a ruler that shows your reaction time directly. Then we will test the whole family. Do you think a person is faster in the morning or in the evening? Is a person slower when their mind is busy? Why do you think so?",
-     "kid": "We make a ruler that shows time. Who is fastest? Does time of day matter? Why?",
+     "kid": "We make a ruler that shows time. Then we test everyone at home.",
      "ask": [
       {
        "q": "What do you think might make a person faster or slower?",
@@ -1691,7 +1691,7 @@
     {
      "id": "s5",
      "mins": 18,
-     "do": "On day 3, test everyone while they count backwards from 100 in sevens. Then draw the league table and ask for the claim, evidence and reasoning.",
+     "do": "On day 3, test everyone while they count backwards from 100 in sevens. Then write out the league table and ask for the claim, evidence and reasoning.",
      "say": "Today you must catch the strip while counting backwards from 100 in sevens, out loud. What do you think will happen to your time? Then we will look at all three tests together and see who was fastest, and what changed.",
      "kid": "Count backwards from 100 in sevens. Catch the strip too. Is it harder?",
      "wait": "Do this on day 3.",
@@ -1764,7 +1764,7 @@
     },
     {
      "art": "A paper with a 5 by 5 grid of letters on it, and two numbers beside a letter, showing a row and a column.",
-     "caption": "2. Draw your code on paper before you start. A grid code uses a row number and a column number."
+     "caption": "2. Write your code on paper before you start. A grid code uses a row number and a column number."
     },
     {
      "art": "A timer showing six minutes and the receiver writing letters on a paper.",
@@ -1775,9 +1775,9 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Read the problem together. Look at the constraints. Ask your child to draw two or three different code ideas on paper.",
-     "say": "You have to send a whole message with only taps on a hand. How could you turn letters into taps? Draw some ideas before you try them.",
-     "kid": "Send letters with taps only. Draw two ideas for a code.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to tap out two or three different code ideas on the table and say how each would work.",
+     "say": "You have to send a whole message with only taps on a hand. How could you turn letters into taps? Tap out some ideas on the table before you try them.",
+     "kid": "Send letters with taps only. Tap out two ideas for a code.",
      "ask": [
       {
        "q": "What can a tap change to carry more information?",

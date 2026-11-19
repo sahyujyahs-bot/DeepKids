@@ -685,7 +685,7 @@
           "mins": 2,
           "do": "Sit together and ask the question below. Do not give the answer. Let each person say what they think.",
           "say": "Look back at the cards. Why do lights make things brighter and paints make things darker?",
-          "kid": "Why do lights get brighter when mixed? Why do paints get darker?",
+          "kid": "Look back at the cards and say what you think.",
           "parent": "A good answer sounds like this. Each torch sends new light to the spot, so there is more of it. Each paint or filter takes some light away before it reaches your eye, so there is less of it.",
           "think": "Lights add light to the spot. Paints and filters take light away. Is there a mix that adds and takes away at the same time?",
           "context": "This is the last step of Add or Take Away. You talk about why lights get brighter when they are mixed and paints get darker."
@@ -1344,8 +1344,8 @@
           "qty": 1
         }
       ],
-      "record": "Fill in the table. Draw the wall and the pencil's two shadows with coloured pencils. Write what you thought, what you saw and why you think it happened.",
-      "context": "In this experiment, you shine a red torch and a green torch on a white wall. You find out what colour the two lights make together, and what colour the shadows are.",
+      "record": "Fill in the table. Take a photo of the wall and the pencil's two shadows, or draw them with coloured pencils. Write what you thought, what you saw and why you think it happened.",
+      "context": "In this experiment, you shine a red torch and a green torch on a white wall, with a pencil standing in front of it. You will find out what colour two lights make together, and why the pencil's shadows are coloured.",
       "setup": [
         {
           "art": "A torch with red cellophane held on by a rubber band, and a second torch with green cellophane, side by side on a table.",
@@ -1374,7 +1374,7 @@
           "mins": 5,
           "do": "Show your child the two torches, the cellophane and the white wall. Ask what colour the wall will be where the two lights overlap, and what colour the pencil's shadows will be. Ask for a reason each time. Write the guesses at the top of the table.",
           "say": "We will cover one torch with red cellophane and one with green cellophane. Then we shine both on the wall. What colour will the wall be where the two lights meet? Why do you think so?",
-          "kid": "A red torch and a green torch will both shine on one wall. What colour will the wall be? Why do you think so?",
+          "kid": "Look at the two torches, the cellophane and the white wall. Get ready to make a guess.",
           "ask": [
             {
               "q": "Why do you think the wall will be that colour?",
@@ -1430,7 +1430,7 @@
           "mins": 6,
           "do": "Switch on both torches. Stand them about 40 centimetres apart and about one metre from the wall, so the two patches overlap. Look at the middle. Then look at the pencil's two shadows. Write the colours in the table. Then move one torch back a hand-span at a time, and write how the middle colour changes each time.",
           "say": "Switch on both torches now, side by side, so the patches overlap. What colour is the wall in the middle? How many shadows does the pencil have? What colour is each one?",
-          "kid": "Switch on both torches. Make the patches overlap. What colour is the middle? What colour is each shadow?",
+          "kid": "Switch on both torches. Make the two patches overlap. Look at the middle and at the shadows.",
           "ask": [
             {
               "q": "What do you notice about the shadows?",
@@ -1543,7 +1543,7 @@
           "qty": 1
         }
       ],
-      "record": "Fill in the table. Draw the nine crossing squares and colour each one in with coloured pencils. Write which crossings are darker than the single stripes.",
+      "record": "Fill in the table with the colour of each of the nine crossings. Keep your striped page. Write which crossings are darker than the single stripes.",
       "context": "In this experiment, you draw highlighter stripes across each other on white paper. You find out what colours the crossings make, and whether they are lighter or darker than the stripes.",
       "setup": [
         {
@@ -1569,7 +1569,7 @@
           "mins": 4,
           "do": "Show your child the three highlighters and the paper. Ask what colour yellow over blue will be. Ask what colour pink over yellow will be. Ask whether the crossings will look brighter or darker than the single stripes. Ask for a reason each time. Write the guesses at the top of the table.",
           "say": "We will colour stripes across each other. What colour will yellow over blue be? What about pink over yellow? Will the crossings be brighter or darker? Why do you think so?",
-          "kid": "You will draw highlighter stripes across each other. What colours will the crossings be? Why?",
+          "kid": "Look at the three highlighters. Guess what colour yellow over blue will make. Why?",
           "ask": [
             {
               "q": "Will the crossings look brighter or darker than the single stripes?",
@@ -1604,7 +1604,7 @@
         {
           "id": "s4",
           "mins": 6,
-          "do": "Look at the nine crossing squares in daylight or under a lamp. Colour each square in your table and write whether it is lighter or darker than the two single stripes.",
+          "do": "Look at the nine crossing squares in daylight or under a lamp. Write the colour of each square in your table. Say whether it is lighter or darker than the two single stripes.",
           "say": "Look at each crossing. What colour is it? Is it brighter than the stripes, or darker?",
           "kid": "Look at the nine crossings. What colours do you see? Brighter or darker?",
           "ask": [
@@ -1711,7 +1711,7 @@
           "what": "Draw the flag in the wrong colours. Stare at it. Look at a white wall and see what appears."
         }
       ],
-      "record": "Draw the flag you drew, and next to it draw the flag you saw on the white wall. Colour both. Write how long the ghost flag lasted.",
+      "record": "Write the three colours you saw on the white wall, top to bottom. Write how long the ghost flag lasted. You can also draw it, or take a photo of your flag.",
       "context": "In this activity, you draw a flag in colours that are not the real ones. You stare at it, and then look at a white wall. Your eyes show you the real colours.",
       "setup": [
         {
@@ -1731,8 +1731,8 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Draw a rectangle 12 centimetres wide and 9 centimetres tall. Divide it into three stripes. Colour the top stripe blue-green, the middle stripe black and the bottom stripe pink. Leave a small round spot in the middle uncoloured.",
-          "say": "We will draw India's flag in the wrong colours. Top is blue-green. Middle is black. Bottom is pink. In the middle, leave a little white dot to stare at. What colours do you think you will see on a white wall afterwards?",
+          "do": "Draw a rectangle 12 centimetres wide and 9 centimetres tall. Divide it into three stripes. Colour the top stripe blue-green, the middle stripe black and the bottom stripe pink. (You can stick strips of coloured paper instead.) Leave a small round spot in the middle uncoloured.",
+          "say": "We will draw India's flag in the wrong colours. Top is blue-green. Middle is black. Bottom is pink. In the middle, leave a little white dot to stare at.",
           "kid": "Draw three stripes. Colour the top blue-green. Colour the middle black and the bottom pink. Leave a white dot in the middle.",
           "ask": [
             {
@@ -1779,9 +1779,9 @@
         {
           "id": "s4",
           "mins": 3,
-          "do": "Now draw a large red square on a new page, with a white dot in the middle. Ask your child to guess the colour of the ghost square. Then stare at it for 30 seconds and look at the white wall.",
+          "do": "Now take a large red square: draw one on a new page, or use a red cloth or red card. Put a small white paper dot in the middle. Ask your child to guess the colour of the ghost square. Then stare at it for 30 seconds and look at the white wall.",
           "say": "Let's try one more. Guess first. If you stare at a red square, what colour will the ghost be on the white wall? Then try it.",
-          "kid": "Draw a red square. Guess what colour the ghost will be. Stare at it, then look at the white wall.",
+          "kid": "Guess what colour the ghost will be. Stare at the red square, then look at the white wall.",
           "parent": "Expect a pale blue-green ghost. The ghost of green is pink. The ghost of yellow is blue. These pairs are called complementary colours. The white wall has none of these colours. They are made in the eye.",
           "think": "The ghost of red was blue-green, and the ghost of blue-green was red. What do you notice about the pairs?",
           "context": "In this step, you predict and test the afterimage of a red square."
@@ -1827,7 +1827,7 @@
           "what": "Draw two squares of fine stripes. Walk away until the stripes blend. Look at a newspaper photo up close."
         }
       ],
-      "record": "Fill in a small table: the stripe colours, the number of steps at which they blended, and the colour you saw from far away. Draw the colours of the dots you found in the newspaper photo.",
+      "record": "Fill in a small table: the stripe colours, the number of steps at which they blended, and the colour you saw from far away. Write the colours of the dots you found in the newspaper photo.",
       "context": "In this activity, you draw squares of thin coloured stripes and walk away from them. You find out where the stripes blend into one colour, and then look at the dots in a printed photo.",
       "setup": [
         {
@@ -1847,7 +1847,7 @@
         {
           "id": "s1",
           "mins": 6,
-          "do": "Draw two squares, each 3 centimetres wide and 3 centimetres tall. In the first, draw thin stripes side by side. Go red, green, red, green, with no gaps, until the square is full. In the second, do the same with blue and yellow.",
+          "do": "Draw two squares, each 3 centimetres wide and 3 centimetres tall (or cut them from coloured paper strips). In the first, draw thin stripes side by side. Go red, green, red, green, with no gaps, until the square is full. In the second, do the same with blue and yellow.",
           "say": "Draw two small squares. Fill the first with thin stripes of red and green, side by side. Fill the second with blue and yellow. Use the thin tip of the pen and no gaps.",
           "kid": "Draw two squares. Fill one with thin red and green stripes. Fill the other with thin blue and yellow stripes.",
           "ask": [
@@ -1895,9 +1895,9 @@
         {
           "id": "s4",
           "mins": 4,
-          "do": "Look closely at a colour photo in a newspaper or magazine, with a magnifying glass, or with a phone camera zoomed in. Find the small dots. Draw the colours of the dots you can find.",
-          "say": "Now look at a printed photo, very close. What do you see? Draw the colours of the little dots. How many different colours of dots are there?",
-          "kid": "Look closely at a printed photo. Draw the dots you see.",
+          "do": "Look closely at a colour photo in a newspaper or magazine, with a magnifying glass, or with a phone camera zoomed in. Find the small dots. Name the colours of the dots you can see.",
+          "say": "Now look at a printed photo, very close. What do you see? What colours are the little dots? How many different colours of dots are there?",
+          "kid": "Look closely at a printed photo. Find the little dots and name their colours.",
           "parent": "You should find tiny dots of cyan (blue-green), magenta (pink), yellow and black. Together these make every colour in the picture. Use a colour picture from a newspaper supplement, magazine or flyer, not a black-and-white page. Cheap printing shows the dots best. If you only see a blur, use a stronger magnifier or a bigger zoom.",
           "think": "A printed photo is made of only four colours of ink. Where do all the other colours come from?",
           "context": "In this step, you look at the dots that make up a printed colour photo."
@@ -1969,7 +1969,7 @@
           "mins": 4,
           "do": "Lay the dark things on a table. Point out the navy one and the black one. Ask your child to guess whether it will be easy or hard to tell them apart under each light.",
           "say": "Here are four dark things. Two look almost alike, the navy and the black. In which light will it be easiest to tell them apart? In which will it be hardest? Why do you think so?",
-          "kid": "Here are four dark things. Navy and black look alike. In which light is it hardest to tell them apart? Why?",
+          "kid": "Look at the four dark things. Find the navy one and the black one.",
           "ask": [
             {
               "q": "Which light do you think will make navy and black easiest to tell apart?",
@@ -2025,8 +2025,8 @@
           "id": "s5",
           "mins": 2,
           "do": "Compare the three rows of the table. Ask your child: if you had to choose the colour of a school uniform, in which light would you choose it? Why?",
-          "say": "Look at your table. In which light was it easiest to tell the colours apart? Why do you think a shopkeeper takes the cloth to the door?",
-          "kid": "Look at your table. Which light was best for telling dark colours apart?",
+          "say": "Look at your table. In which light was it easiest to tell dark colours apart? Which light would you use to choose a school uniform?",
+          "kid": "Look at your table. Find the light with the best score.",
           "think": "The cloth was the same in every light. What was different?",
           "context": "In this step, you compare the lights and think about which light is best for choosing a colour."
         }
@@ -2063,7 +2063,7 @@
           "what": "Write a message in red and one in green. Look at them through red and green cellophane. Find out what vanishes."
         }
       ],
-      "record": "Draw the two words. Write what each looked like through the red sheet and through the green sheet.",
+      "record": "Write what each word looked like through the red sheet and through the green sheet.",
       "context": "In this activity, you write one word in red and one in green. You look at them through coloured cellophane and find out why a red word can vanish.",
       "setup": [
         {
@@ -2084,8 +2084,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Write the word RED in red felt pen, in big letters, on the white paper. Write the word GREEN in green felt pen below it. Ask your child to guess what each word will look like through red cellophane.",
-          "say": "Write RED in red, and GREEN in green. Hold the red cellophane over one eye. What do you think each word will look like? Why?",
-          "kid": "Write RED in red. Write GREEN in green. What will they look like through red cellophane? Why?",
+          "say": "Write RED in red, and GREEN in green. Now guess what each word will look like through red cellophane. Why?",
+          "kid": "Write RED in red, in big letters. Write GREEN in green, in big letters.",
           "ask": [
             {
               "q": "What do you think will happen to the red word through red cellophane?",
@@ -2181,7 +2181,7 @@
           "what": "Hang the screen. Put on a short show with a white torch, and then with coloured torches."
         }
       ],
-      "record": "Draw one puppet. Colour its windows. Write what each window looked like in white light, in red light and in green light.",
+      "record": "Write what each window of one puppet looked like in white light, in red light and in green light. A photo of each also works.",
       "context": "In this project, you make card puppets with coloured windows and perform a shadow show. You find out how coloured windows look under white light and coloured light.",
       "setup": [
         {
@@ -2201,9 +2201,9 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Show your child the cardboard, cellophane and torches. Ask what the puppets will look like on the screen. Ask them to draw three puppet shapes on paper with windows marked in colour.",
+          "do": "Show your child the cardboard, cellophane and torches. Ask what the puppets will look like on the screen. Ask them to choose three puppet shapes, such as a bird, a fish or a person. Ask where the windows will go. A quick sketch is fine but not needed.",
           "say": "We will make shadow puppets with coloured windows. What colour will the puppet's body be on the screen? What will the windows look like? Why do you think so?",
-          "kid": "You will make puppets with coloured windows. What will the body look like on the screen? What will the windows look like?",
+          "kid": "Look at the cardboard, cellophane and torches. Choose three puppet shapes and where their windows go.",
           "ask": [
             {
               "q": "What will the puppet's body look like on the screen?",
@@ -2229,7 +2229,7 @@
           "id": "s2",
           "mins": 15,
           "do": "Draw each puppet on the card. A grown-up cuts out the shape and cuts two or three windows in each, about 3 centimetres wide. Stick coloured cellophane over each window with glue or tape. Stick each puppet to a stick.",
-          "say": "Draw a puppet on card. Cut out the shape. Ask a grown-up to cut windows in it. Cover each window with cellophane. Stick the puppet to a stick.",
+          "say": "Draw a puppet on card. Cut out the shape. A grown-up cuts the windows in it. Cover each window with cellophane. Stick the puppet to a stick.",
           "kid": "Draw a puppet on card. A grown-up cuts it out. Cover the windows with cellophane. Add a stick.",
           "parent": "A grown-up should do all the cutting. Keep the windows big, so the colour is bright on the screen. Use one colour per window. Make three puppets, so you have different colour windows to compare.",
           "adult": true,
@@ -2238,7 +2238,7 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "Let the glue dry until tomorrow. Meanwhile, hang the screen between two chairs or on a clothes line. Make the room dim. Try a test: hold a puppet close behind the screen and shine a torch from behind.",
+          "do": "Let the glue dry. (Tape needs no waiting.) Hang the screen between two chairs or on a clothes line. Make the room dim. Try a test: hold a puppet close behind the screen and shine a torch from behind.",
           "say": "While the glue dries, hang the white cloth between two chairs. Switch off the lights. Hold the puppet close to the cloth and shine a torch from behind it. Look from the front.",
           "kid": "Hang the cloth. Hold the puppet close behind it. Shine a torch from behind. Look from the front.",
           "parent": "The puppet must be close to the screen to make a sharp shadow. Hold the torch about a metre behind the puppet. Make the room dim, and shine the torch so that it lights the screen from behind. If the coloured windows look dim, make the room darker and move the torch closer to the puppet.",
@@ -2314,7 +2314,7 @@
         "Fold the cellophane into three layers on one torch to dim it, and mix again.",
         "Set up a little light show with a sequence of looks, and give each look a name, like sunrise, sea and sunset."
       ],
-      "your_turn": "Make your own list of looks. Draw a picture of each and write the recipe. How many different looks did you make? Can you make a colour that is not on anyone else's list?",
+      "your_turn": "Make your own list of looks. Write the recipe for each, and take a photo of each look on the wall if you can. How many different looks did you make? Can you make a colour that is not on anyone else's list?",
       "context": "This is a design challenge about mixing coloured light. You find out how many different colours three torches can make on a wall.",
       "setup": [
         {

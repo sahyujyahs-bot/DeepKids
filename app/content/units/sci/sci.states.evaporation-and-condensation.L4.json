@@ -740,7 +740,7 @@
      "mins": 8,
      "do": "Play the first eight cards. After each card, ask the player to say the dew point and whether the glass is colder or warmer.",
      "say": "Read the card. Find the dew point. Is the glass colder or warmer? Say MIST or NO MIST. Then we check.",
-     "kid": "Read the card. Find the dew point. Is the glass colder or warmer? Say MIST or NO MIST.",
+     "kid": "Read the card. Say MIST or NO MIST.",
      "ask": [
       {
        "q": "How did you decide?",
@@ -805,7 +805,7 @@
    "title": "Drop Race: which liquid leaves first, and which feels coldest?",
    "mins": 45,
    "days": 1,
-   "context": "This is the main investigation of the unit. You smear six liquids onto a steel plate and find the order in which they dry. You also feel how cold two of them make your skin.",
+   "context": "This is the main investigation of the unit. You smear six liquids onto a steel plate and find the order in which they dry. You also feel how cold two of them make your skin. You will find out whether a liquid that dries fast also feels colder.",
    "question": "Water, salt water, sugar syrup, vinegar, coconut oil and hand sanitiser: in what order do they leave the plate? And does the faster one feel colder on your skin?",
    "predict": "Before you start, guess. Which liquid will dry first? Which will be last, or never? Will the fastest one feel colder on your hand? Why do you think so?",
    "fair_test": "Every liquid gets a thin streak of the same size on the same plate, in the same room, at the same time. You use a clean stick for each liquid. Only the liquid changes, so any difference in drying comes from the liquid.",
@@ -849,7 +849,7 @@
      "what": "Guess, smear six streaks on a plate, feel two on your hand, check every two minutes, and write the order."
     }
    ],
-   "record": "Fill in the table, a row for each liquid. Draw the plate at the start and at the end, with the streaks. Then write what you think, what you saw, and why.",
+   "record": "Fill in the table, a row for each liquid. Take a photo of the plate at the start and at the end, or draw it. Then write what you think, what you saw, and why.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -915,7 +915,7 @@
      "mins": 5,
      "do": "Show your child the plate and the six cups. Ask for a guess about the order and a reason. Write the guesses in the table.",
      "say": "Here are six liquids. We will smear a thin streak of each on this plate. Which will dry first? Which will be last? Why do you think so?",
-     "kid": "Here are six liquids. Which will dry first? Which will dry last? Why do you think so?",
+     "kid": "Look at the six liquids. Guess which will dry first and which will dry last.",
      "ask": [
       {
        "q": "Why do you think that one will dry first?",
@@ -932,8 +932,8 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "1. Dip a stick into the water. 2. Wipe the extra water off on the rim of the cup. 3. Smear a thin streak, about a finger long and a finger wide, on the plate. 4. Do the same for each liquid with its own stick, in its own place. 5. A grown-up does the sanitiser. 6. Start the timer after the last streak.",
-     "say": "Wipe the extra off the stick, so the streak is thin. Make every streak the same size. Draw where each liquid is on your paper. Start the timer when the last streak is done.",
+     "do": "1. Dip a stick into the water. 2. Wipe the extra water off on the rim of the cup. 3. Smear a thin streak, about a finger long and a finger wide, on the plate. 4. Do the same for each liquid with its own stick, in its own place. 5. A grown-up smears the sanitiser. 6. Start the timer after the last streak.",
+     "say": "Wipe the extra off the stick, so the streak is thin. Make every streak the same size. Write each liquid's name on your paper, in the same place as its streak. Start the timer when the last streak is done.",
      "kid": "Dip a stick. Wipe off the extra. Smear a thin streak. Do all six. Start the timer.",
      "adult": true,
      "parent": "A thin streak matters. A puddle takes far longer to dry than a thin film. Keep the streaks at least three centimetres apart. Put the plate where it will not be touched, away from a fan or a window draught. With 2 to 4 children: one child smears and one times, or each child smears three liquids on the shared plate and keeps their own results table. Everyone scores the skin test on their own hand. With one child, the parent holds the timer and the sanitiser.",
@@ -954,8 +954,8 @@
      "id": "s3",
      "mins": 8,
      "do": "1. Put a drop of plain water on the back of your hand and spread it to the size of a coin. 2. Wait ten seconds. 3. Score how cold it feels, from 0 to 5. 4. Wipe dry and wait one minute. 5. A grown-up puts a drop of sanitiser on the same place. 6. Score again.",
-     "say": "Put a drop of water on the back of your hand. How cold does it feel, from 0 to 5? Now a grown-up puts a drop of sanitiser on the same place. How cold does that feel? Which left first?",
-     "kid": "Put a drop of water on your hand. Score how cold it feels. Try sanitiser. Score again.",
+     "say": "Put a drop of water on the back of your hand. How cold does it feel, from 0 to 5? Now a grown-up puts a drop of sanitiser on the same place. How cold does that feel? Which felt colder?",
+     "kid": "Put a drop of water on your hand. Score how cold it feels. A grown-up puts sanitiser on the same spot. Score again.",
      "adult": true,
      "parent": "Skip the sanitiser if your child's skin is cut or sore. Expect the sanitiser to dry in a few seconds and feel much colder than the water. Blowing gently across each drop makes the cool feeling stronger.",
      "context": "In this step you feel how cold a drop of water and a drop of sanitiser feel on your skin."
@@ -983,7 +983,7 @@
      "mins": 7,
      "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
+     "kid": "Think about what you saw. Then say why you think it happened.",
      "parent": "These three things are a claim, the evidence for it, and the reasoning. A strong answer: What I think: liquids leave at very different speeds, and the faster one feels colder. What I saw: sanitiser dried first and felt coldest, water took minutes, and oil stayed. Why: the particles of some liquids hold each other loosely so they escape easily, and the escaping particles take heat from the skin. Do not explain it yourself before they have answered.",
      "check": {
       "t": "mcq",
@@ -1005,7 +1005,7 @@
    "title": "Thirsty Things: which kitchen things pull water out of the air?",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment you make a humid box and find out which kitchen things take water from the air without being cold.",
+   "context": "In this experiment you make a humid box and find out which kitchen things take water from the air without being cold. You will find out why salt goes damp in the rainy season.",
    "question": "Salt, sugar, jaggery, rice, baking soda and puffed rice (murmura): which of them pull water vapour out of very humid air?",
    "predict": "Before you start, guess. Which of the six things will get damp in a humid box? Which will stay dry? Why do you think so?",
    "fair_test": "Each thing gets the same amount, in the same kind of saucer, in the same box for the same time. A control saucer of salt stays outside the box in a closed jar. Only the thing changes, so any difference comes from the thing.",
@@ -1058,7 +1058,7 @@
      "what": "Guess, set out six saucers, put them in a steamy box, wait forty minutes and compare."
     }
    ],
-   "record": "Fill in the table. Draw the six saucers at the end. Then write what you think, what you saw, and why.",
+   "record": "Fill in the table. Take a photo of the six saucers at the end, or draw them. Then write what you think, what you saw, and why.",
    "setup": [
     {
      "art": "Six small saucers each with a heap of a different kitchen thing, labelled with paper slips.",
@@ -1083,10 +1083,10 @@
      "mins": 5,
      "do": "Show your child the six things. Ask for a guess about each one, and a reason. Write the guesses.",
      "say": "Here are six things. We will put them in a very damp box. Which will get damp? Which will stay dry? Why do you think so?",
-     "kid": "Six things go into a damp box. Which will get damp? Which will stay dry? Why?",
+     "kid": "Look at the six things. Guess which will get damp.",
      "ask": [
       {
-       "q": "Why do you think salt will get wet, when it is not cold?",
+       "q": "Which things do you think will get damp, and why?",
        "good": [
         "Water in the air sticks to it.",
         "Salt likes water.",
@@ -1150,7 +1150,7 @@
      "mins": 7,
      "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
+     "kid": "Think about what you saw. Then say why you think it happened.",
      "parent": "A strong answer: What I think: some things pull water out of damp air even when they are not cold. What I saw: the salt and jaggery got damp in the box, while the control salt stayed dry. Why: they hold on to water so strongly that water vapour lands on them and stays. Do not explain it yourself before they have answered.",
      "check": {
       "t": "mcq",
@@ -1172,7 +1172,7 @@
    "title": "Lid On or Lid Off: how much water leaves a boiling pan?",
    "mins": 45,
    "days": 1,
-   "context": "In this experiment you boil water in two pans, one with a lid and one without, and measure how much water is left. A grown-up does all the cooking, and you measure.",
+   "context": "In this experiment you boil water in two pans, one with a lid and one without, and measure how much water is left. A grown-up does all the cooking, and you measure. You will find out where the water goes, and what the lid does.",
    "question": "Two pans boil for ten minutes, one with a lid and one without a lid. How much water leaves each one?",
    "predict": "Before you start, guess. Which pan will lose more water? How much more? Will the water in the pan with the lid boil hotter or not? Why do you think so?",
    "fair_test": "Both pans start with the same amount of water at the same warmth. They are heated on the same flame and boil for the same time. Only the lid changes, so any difference comes from the lid.",
@@ -1216,7 +1216,7 @@
      "what": "Guess, measure water into two pans, boil for ten minutes with and without a lid, let them cool, then measure the water left."
     }
    ],
-   "record": "Fill in the table. Draw the underside of the lid after boiling. Then write what you think, what you saw, and why.",
+   "record": "Fill in the table. Take a photo of the underside of the lid after boiling, or draw it. Then write what you think, what you saw, and why.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -1265,7 +1265,7 @@
      "mins": 5,
      "do": "Show your child the two pans, the lid and the jug. Ask for a guess and a reason. Write the guess.",
      "say": "We will boil two pans of water for ten minutes. One has a lid and one does not. Which will lose more water? Why do you think so?",
-     "kid": "Two pans. One has a lid. Which loses more water? Why do you think so?",
+     "kid": "Look at the two pans. Guess which loses more water.",
      "ask": [
       {
        "q": "Where do you think the missing water goes?",
@@ -1315,7 +1315,7 @@
      "mins": 4,
      "do": "1. A grown-up lifts the lid away from your face with oven gloves. 2. Look at the underside of the lid. 3. Look at the sides of the covered pan. 4. Ask your child what the drops are.",
      "say": "Look at the underside of the lid. What do you see? Where did those drops come from? What do you think they were a minute ago?",
-     "kid": "Look under the lid. What do you see? Where did the drops come from?",
+     "kid": "Look under the lid and find the drops.",
      "adult": true,
      "parent": "The drops are condensed water vapour. The vapour hit the cooler lid, turned back into liquid, and ran back into the pan. The open pan has no lid to do this.",
      "context": "In this step you look at the drops under the lid."
@@ -1334,7 +1334,7 @@
      "mins": 5,
      "do": "Ask your child to say or write three things. What I think. What I saw. Why I think it happened.",
      "say": "Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?",
-     "kid": "Say three things: what you think, what you saw, and why you think it happened.",
+     "kid": "Think about what you saw. Then say why you think it happened.",
      "parent": "A strong answer: What I think: a lid keeps almost all the water in the pan. What I saw: the open pan lost about ninety millilitres and the covered pan about ten, and there were drops under the lid. Why: the vapour meets the cooler lid, turns back to liquid and drips back. Do not explain it yourself before they have answered.",
      "check": {
       "t": "mcq",
@@ -1358,7 +1358,7 @@
    "title": "Fridge Fog: watch a cloud fall out of the freezer",
    "mins": 12,
    "days": 1,
-   "context": "This is the first thing to do in the unit. You open the freezer door and watch what pours out, then guess what it is.",
+   "context": "This is the first thing to do in the unit. You open the freezer door and watch what pours out, then guess what it is. You will find out where the water in that fog comes from.",
    "materials": [
     {
      "item": "a fridge with a freezer compartment that has been running for a while",
@@ -1380,7 +1380,7 @@
      "what": "Open the freezer door for twenty seconds, watch the fog, shine a torch across it, breathe into the freezer, then close the door."
     }
    ],
-   "record": "Draw the open freezer and the fog. Show which way the fog moved. Write one sentence saying what you think the fog is.",
+   "record": "Write one sentence saying which way the fog moved and what you think it is. You can draw it too.",
    "setup": [
     {
      "art": "A child standing at an open freezer door in a warm kitchen with a white fog spilling down over the shelf below.",
@@ -1400,8 +1400,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Stand a metre from the fridge. 2. Ask your child to guess what will happen when the freezer door opens. 3. A grown-up opens the door fully and holds it open for twenty seconds.",
-     "say": "I will open the freezer door and hold it for twenty seconds. Watch what comes out. Which way does it move? What do you think it is?",
-     "kid": "A grown-up opens the freezer. Watch for twenty seconds. What comes out? Which way does it go?",
+     "say": "I will open the freezer door and hold it for twenty seconds. Watch what comes out. Which way does it move?",
+     "kid": "A grown-up opens the freezer. Watch the doorway for twenty seconds.",
      "adult": true,
      "ask": [
       {
@@ -1421,7 +1421,7 @@
      "mins": 4,
      "do": "1. Keep the door open. 2. Shine the torch sideways across the doorway. 3. Watch the fog in the beam. 4. Close the door after twenty seconds.",
      "say": "The torch beam shows the fog more clearly. Which way does it flow, up or down? Why do you think so?",
-     "kid": "Shine the torch across the doorway. Which way does the fog go? Up or down?",
+     "kid": "Shine the torch across the doorway and watch the fog.",
      "parent": "The fog flows down and out along the bottom of the doorway, because cold air is heavier than warm air. It is a cloud of tiny drops of water, formed when warm room air met the freezer air and cooled below its dew point.",
      "context": "In this step you shine a torch across the fog to see which way it moves."
     },
@@ -1430,7 +1430,7 @@
      "mins": 4,
      "do": "1. A grown-up opens the door again. 2. Breathe out slowly into the cold space. 3. Watch your breath. 4. Close the door.",
      "say": "Breathe out slowly into the freezer. What do you see? Where do you think the water in your breath came from?",
-     "kid": "Breathe out into the freezer. What do you see? Where did the cloud come from?",
+     "kid": "Breathe out into the freezer and watch your breath.",
      "adult": true,
      "parent": "Your breath carries water vapour from inside you. The cold air cools it below its dew point, and a white cloud of tiny drops appears. It is the same thing that happens on a cold morning when you can see your breath. The breath cloud works even when the fog does not, so the activity never fails. For 2 to 4 children: one child holds the torch and one watches the direction of the fog, then swap and repeat.",
      "check": {
@@ -1454,7 +1454,7 @@
    "title": "Feel the Heat Leave: the back of a fridge and an air conditioner",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you find out where the heat from the inside of a fridge goes, by feeling the warmth around it.",
+   "context": "In this activity you find out where the heat from the inside of a fridge goes, by feeling the warmth around it. You will find out where the heat from the food goes.",
    "materials": [
     {
      "item": "a fridge that has been running for several hours",
@@ -1477,7 +1477,7 @@
      "what": "Feel the air near the inside, the front and the back of a running fridge, and near an outdoor air conditioner."
     }
    ],
-   "record": "Draw the fridge and mark the cool places in blue and the warm places in red. Write one sentence saying where you think the heat from inside goes.",
+   "record": "Write the warmth scores for the front, side and back. Write one sentence saying where you think the heat from inside goes.",
    "setup": [
     {
      "art": "A child holding the back of a hand near the inside shelf of an open fridge and feeling the cold.",
@@ -1497,8 +1497,8 @@
      "id": "s1",
      "mins": 4,
      "do": "1. Ask your child where the heat taken out of the food goes. 2. Let them feel the cold near the inside of the fridge.",
-     "say": "A fridge makes the inside cold. But heat does not just disappear. Where do you think the heat from the food goes? Why do you think so?",
-     "kid": "A fridge makes the inside cold. Where does the heat go? Why do you think so?",
+     "say": "A fridge makes the inside cold. But heat does not just disappear.",
+     "kid": "Feel the cold air near the inside of the fridge.",
      "ask": [
       {
        "q": "Where do you think the heat from inside the fridge goes?",
@@ -1527,7 +1527,7 @@
      "mins": 3,
      "do": "If your home has an air conditioner, a grown-up shows your child the outdoor box. Your child feels the air from it with the back of the hand, from a safe distance.",
      "say": "The air conditioner makes your room cool. Feel the air from the box outside. Is it warm or cool? Where did that heat come from?",
-     "kid": "Feel the air from the box outside. Is it warm or cool? Where did the heat come from?",
+     "kid": "Feel the air from the box outside with the back of your hand.",
      "adult": true,
      "parent": "The outdoor box blows warm air, because it gives out the heat taken from the room, plus the heat of the motor. A fridge works the same way on a smaller scale.",
      "check": {
@@ -1550,7 +1550,7 @@
    "title": "Predict the Sweat: will a glass mist today?",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you use the dew point from a weather app to predict whether a glass of water will mist, and then you test your prediction. People often say a cold glass is sweating when drops form on the outside. The drops are not sweat. They are water from the air.",
+   "context": "In this activity you use the dew point from a weather app to predict whether a glass of water will mist, and then you test your prediction. You will find out whether the weather can tell you which glass will mist. People often say a cold glass is sweating when drops form on the outside. The drops are not sweat. They are water from the air.",
    "materials": [
     {
      "item": "a phone with a weather app that shows the dew point, or the temperature and humidity (for the chart in the Will It Mist? game)",
@@ -1576,7 +1576,7 @@
      "what": "Find today's dew point, predict whether three glasses will mist, test them, and compare."
     }
    ],
-   "record": "Write the air temperature and dew point. Draw a table with three glasses: tap water, fridge water and ice water. Write your prediction, the result, and the glass temperature if you can measure it.",
+   "record": "Write the air temperature and dew point. Make a table with a row for each glass: tap water, fridge water and ice water. Write your prediction, the result, and the glass temperature if you can measure it.",
    "setup": [
     {
      "art": "A phone showing the weather with temperature, humidity and dew point, held next to three steel tumblers.",
@@ -1606,7 +1606,7 @@
      "mins": 5,
      "do": "1. Fill one tumbler with tap water. 2. Fill one with fridge water. 3. Fill one with water and plenty of ice cubes. 4. Ask your child to predict which will mist and which will stay dry, comparing each water's warmth with the dew point.",
      "say": "Tap water is about as warm as the room. Fridge water is much colder. Ice water is colder still. Compare each one with the dew point. Which will mist? Why do you think so?",
-     "kid": "Guess which glasses will mist. Compare each with the dew point. Why?",
+     "kid": "Compare the water in each glass with the dew point. Guess which glasses will mist.",
      "ask": [
       {
        "q": "Which glass do you think will mist, and which will stay dry?",
@@ -1647,7 +1647,7 @@
    "title": "Flat-Bottomed Clouds: how high is the bottom of a cloud?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity you guess how high the flat bottoms of clouds are, using the temperature and the dew point from a weather app.",
+   "context": "In this activity you guess how high the flat bottoms of clouds are, using the temperature and the dew point from a weather app. You will find out how high up the clouds begin.",
    "materials": [
     {
      "item": "a phone with a weather app that shows the temperature and the dew point",
@@ -1666,7 +1666,7 @@
      "what": "On a warm afternoon, find the temperature and dew point, work out the cloud base, and look at the clouds."
     }
    ],
-   "record": "Write the temperature, the dew point and your cloud base height. Draw the sky with the flat-bottomed clouds.",
+   "record": "Write the temperature, the dew point and your cloud base height. Take a photo of the sky with the flat-bottomed clouds, or draw it.",
    "setup": [
     {
      "art": "A child at a window looking at a row of small white clouds with flat dark bottoms at the same height.",
@@ -1682,8 +1682,8 @@
      "id": "s1",
      "mins": 6,
      "do": "1. On a warm afternoon, look at the sky. 2. Look for small clouds with flat dark bottoms. 3. Ask your child why the bottoms might be flat and at the same height.",
-     "say": "Look at the clouds. Their bottoms are flat and all at the same height. Why do you think that is?",
-     "kid": "Look at the clouds. Their bottoms are flat. Why do you think that is?",
+     "say": "Look at the clouds. Their bottoms are flat and all at the same height. Can you point to one?",
+     "kid": "Look at the clouds. Look at the bottoms of them.",
      "ask": [
       {
        "q": "Why do you think the bottoms are flat and at the same height?",
@@ -1709,9 +1709,9 @@
     {
      "id": "s3",
      "mins": 6,
-     "do": "1. Talk about the answer. 2. A 30-floor building is about 100 metres tall. How many of them would you stack to reach the cloud bottom? 3. Explain why the bottoms are flat. 4. Do the sum again early next morning. Compare. Which gives lower cloud bottoms? Why?",
+     "do": "1. Talk about the answer. 2. A 30-floor building is about 100 metres tall. How many of them would you stack to reach the cloud bottom? 3. Ask why the bottoms are flat. 4. Do the sum again early next morning. Compare. Which gives lower cloud bottoms? Why?",
      "say": "A 30-floor building is about 100 metres. How many would you stack to reach the cloud bottoms? Why are the bottoms flat? What happens to rising air as it climbs?",
-     "kid": "How many tall buildings would reach the cloud? Why are the bottoms flat?",
+     "kid": "Work out how many tall buildings would reach the cloud bottoms.",
      "parent": "Warm air rises and cools as it climbs. At the height where it has cooled to its dew point, its vapour condenses into drops, and a cloud begins. Every rising bubble of air cools to its dew point at about the same height, so the bottoms are flat. The early-morning sum is usually smaller because the air is closer to its dew point. For 2 to 4 children: each works out the sum alone and the answers are compared. On cloudy or rainy days the rule does not fit, so use it only on a sunny afternoon with small clouds.",
      "check": {
       "t": "mcq",
@@ -1767,7 +1767,7 @@
      "what": "Measure again, look inside the jar, and say what happened."
     }
    ],
-   "record": "Draw the outlines on day 1, day 4 and day 7 for each tablet. Write the width in millimetres each time. Write what you saw on the inside wall of the jar.",
+   "record": "Write the width of each tablet in millimetres on day 1, day 4 and day 7. Keep the outlines, or take a photo each time. Write what you saw on the inside wall of the jar.",
    "setup": [
     {
      "art": "Two camphor tablets on white paper with a pencil outline drawn around each and a ruler beside them.",
@@ -1819,7 +1819,7 @@
      "wait": "Come back on day 7",
      "do": "1. Measure both tablets again. 2. Look at the inside wall and lid of the jar. 3. Ask your child to say what they think, what they saw, and why.",
      "say": "Measure both tablets again. Look at the inside of the jar. What do you see? What do you think happened to the tablet in the open? Where did it go?",
-     "kid": "Measure both tablets. Look inside the jar. What happened? Where did the camphor go?",
+     "kid": "Measure both tablets. Look at the inside of the jar.",
      "parent": "The open tablet should be clearly smaller, because camphor turns straight into a gas, which spreads through the room. In the jar, the gas cannot get away, so it settles again on the cool glass as tiny white crystals. This is a solid turning to gas and back, with no liquid in between.",
      "check": {
       "t": "mcq",
@@ -1843,7 +1843,7 @@
    "title": "Evaporation Pan: how many millimetres does the Sun take each day?",
    "days": 7,
    "mins": 70,
-   "context": "In this project you measure how much water leaves two jars every day for a week, one in the sun and one in the shade, and draw a line graph.",
+   "context": "In this project you measure how much water leaves two jars every day for a week, one in the sun and one in the shade, and draw a line graph. You will find out whether the Sun takes water away faster, and by how much.",
    "materials": [
     {
      "item": "two identical clear straight-sided jars or cut plastic bottles, about 8 centimetres wide",
@@ -1928,11 +1928,11 @@
      "id": "s1",
      "mins": 20,
      "do": "1. Pour water into each jar until it is 60 millimetres deep. 2. Tie a cloth over the mouth of each jar with a rubber band. 3. Put one jar on a sunny ledge under a roof, so rain cannot fall in. 4. Put the other in a shady room. 5. Ask your child to predict how much each jar will lose.",
-     "say": "We will measure the water in two jars every day for a week. One is in the sun and one in the shade. How many millimetres will each lose in a day? Which will lose more? Why do you think so?",
-     "kid": "Fill two jars to 60 millimetres. Cover each with a cloth. Put one in the sun and one in the shade. Guess how much each will lose.",
+     "say": "We will measure the water in two jars every day for a week. One is in the sun and one in the shade. How many millimetres will each lose in a day?",
+     "kid": "Fill and cover two jars. Put one in the sun and one in the shade. Guess which loses more.",
      "ask": [
       {
-       "q": "Why do you think the sunny jar will lose more water?",
+       "q": "Which jar do you think will lose more water, and why?",
        "good": [
         "The Sun is hot, so the water leaves faster.",
         "Warm water moves faster.",
@@ -1958,7 +1958,7 @@
      "mins": 25,
      "do": "1. On the last day, measure the jars. 2. Work out how many millimetres each lost in the week. 3. Draw a line graph with the days along the bottom and the depth up the side. 4. Draw one line for each jar. 5. Ask your child to say what they think, what they saw, and why.",
      "say": "Draw a line for each jar. Which line falls faster? Which days did the sunny jar lose the most? What was the weather on those days? Why do you think so?",
-     "kid": "Draw a line graph for each jar. Which line falls faster? Why do you think so?",
+     "kid": "Draw a line for each jar on the graph.",
      "parent": "A strong answer: the sunny jar lost more, because warmth and moving air make water leave faster. The days with the biggest losses were the hottest and driest. The line for the shaded jar falls more slowly. A rainy or very humid day will show a small loss for both jars. Weather stations use a wider pan in the same way to measure how much water the sun takes from the land.",
      "check": {
       "t": "mcq",
@@ -2009,7 +2009,7 @@
     "Use a lid and a dry rice layer together, and compare with the lid alone.",
     "Test two designs that differ in only one way, such as with rice and without rice."
    ],
-   "your_turn": "Sketch two or three designs. Build them and test them in the humid box for forty minutes. Which kept the salt loosest? Which left it dampest? Why do you think so? What would you change next time?",
+   "your_turn": "Plan two or three designs, by saying them or sketching them. Build them and test them in the humid box for forty minutes. Which kept the salt loosest? Which left it dampest? Why do you think so? What would you change next time?",
    "setup": [
     {
      "art": "Three small jars on a table: one with a tight lid, one with salt and rice, one covered with foil, beside a plain open saucer of salt.",
@@ -2028,9 +2028,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "1. Read the problem together. 2. Ask your child to sketch two or three designs. 3. Ask for the reason for each design.",
-     "say": "Salt gets damp because it pulls water vapour out of the air. How could you stop the vapour reaching the salt, or take it away before it reaches the salt? Draw some ideas.",
-     "kid": "Salt pulls water from damp air. How can you stop it? Draw two or three ideas.",
+     "do": "1. Read the problem together. 2. Ask your child to say or sketch two or three designs. 3. Ask for the reason for each design.",
+     "say": "Salt gets damp because it pulls water vapour out of the air. How could you stop the vapour reaching the salt, or take it away before it reaches the salt? Tell me some ideas. You can sketch them too.",
+     "kid": "Salt pulls water from damp air. How can you stop it? Think of two or three ways to stop it.",
      "ask": [
       {
        "q": "How would your design keep the salt dry?",
@@ -2067,7 +2067,7 @@
      "mins": 13,
      "do": "1. Open the box. 2. Look at the control. 3. Poke each design's salt with a dry spoon. 4. Write which stayed loose and which clumped. 5. Say why.",
      "say": "Look at the control first. Is it damp? Now each design. Which kept the salt loosest? Which was the worst? Why do you think so?",
-     "kid": "Look at the control. Poke each salt. Which stayed loose? Which clumped? Why?",
+     "kid": "Look at the control first. Poke each salt.",
      "parent": "Expect the control salt to be damp, clumped or even wet. A tight jar lid usually keeps salt dry. A cloth or tissue alone usually does not. A strong answer says that the best designs stopped vapour from reaching the salt or took up the water before the salt did.",
      "check": {
       "t": "mcq",

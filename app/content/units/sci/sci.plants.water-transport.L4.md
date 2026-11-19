@@ -207,7 +207,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 - **s1 (5 min)**  
   *Parent does:* Cut out the 24 cards and the 8 tokens. Read the first rule together. Say that the water always goes toward the bigger pull number.  
   *Parent says:* A pull number tells how tightly a place holds its water. A bigger number means a tighter hold. Each card shows two places, A and B, with a pull number. Water goes toward the place with the bigger number. Your job is to say which one, and why.  
-  *Child mode:* Each card has two places with numbers. Water goes toward the bigger number. Which one?
+  *Child mode:* Each card has two places with numbers. Water goes toward the bigger number.
   - Ask: If A has a pull number of 3 and B has 1, which way does the water go? (good: Toward A.; Toward the bigger number.)
   - Note: Do not explain the cards. Let the game teach. If a child asks why the water goes to the bigger number, say that the bigger number means it is held tighter, and say that the reasons will become clear as you play.
   - Check: Water goes toward the place that has the... → **bigger pull number**
@@ -231,7 +231,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 - **s5 (4 min)**  
   *Parent does:* Ask your child to say, in one sentence, when a plant cannot drink from wet soil. Ask which card taught them that.  
   *Parent says:* Tell me in one sentence: when can a plant not drink from soil that is wet?  
-  *Child mode:* When can a plant not drink from wet soil? Say it in one sentence.
+  *Child mode:* Think back to the cards. Then answer in one sentence.
   - Ask: When can a plant not drink from wet soil? (good: When the soil is salty.; When the soil holds its water tighter than the root.; When the soil has too much fertiliser.)
 
 ## Experiments
@@ -240,13 +240,13 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 - **predict:** Before you start, guess. Which cups will have the most sprouts? Which will have none? Say why you think so, and how you will decide when a seed has sprouted.
 - **fair test:** Every cup gets 10 moong seeds from the same packet, soaked for the same time, on the same kind of paper towel. Every cup gets the same amount of water each day, and sits in the same shady place. Only the salt in the water is different.
 - **safety:** Salt water is safe to touch but it is not for drinking. Do not eat the seeds or sprouts from this test. Wash hands after handling seeds. Keep small seeds away from children under five. Throw away any seed that smells or looks mouldy.
-- **record:** Fill in the table at each check. On day 4, draw the four cups side by side and write three sentences: what I think, what I saw, and why.
+- **record:** Fill in the table at each check. On day 4, line up the four cups side by side and take a photo. Write three sentences: what I think, what I saw, and why.
 - **results table:** Cup | Salt in 200 millilitres of water | Sprouted after 1 day (out of 10) | Sprouted after 2 days | Sprouted after 3 days | Longest root after 3 days (millimetres)
 - **schedule:** day 1: Guess. Make four kinds of salt water. Set up the four cups of seeds. (25 min); day 2: Count the sprouts. Give each cup 2 tablespoons of its own water. (7 min); day 3: Count again. Give each cup 2 tablespoons of its own water. (7 min); day 4: Count, measure the longest root, and say what the results show. (14 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the four tumblers, the salt and the soaked moong. Say that each cup will get a different water. Ask for a guess and a reason.  
   *Parent says:* We have four cups. Cup A gets plain water. Cup B gets a little salt, cup C gets more, and cup D gets the most. Which cups will grow sprouts? Why do you think so?  
-  *Child mode:* Four cups, four kinds of water. Which will grow sprouts? Why do you think so?
+  *Child mode:* Look at the four cups. Make a guess, and say why.
   - Ask: Which cup do you think will have the fewest sprouts? (good: The saltiest one.; D.)
   - Ask: How will we know a seed has sprouted? (good: A small white root pokes out.; The seed splits and a tail comes out.)
   - Note: Who does what: one child does all four cups. With 2 to 4 children, each takes one cup (or two cups if there are two of you), counts and measures it, and then you all put the numbers in one table. Do not correct any guess. Any guess with a reason is a good start. Write the guesses at the top of the page, so you can look back at them on day 4. A seed counts as sprouted when a white root is at least 2 millimetres long.
@@ -263,9 +263,9 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
   - Note: Pick out 40 good-looking seeds first and leave out any that are split or shrivelled. Count them out in tens. The towel should be wet but not floating. If you see water pooling in the katori, tip a little off.
   - Check: What is the ONE thing that is different between the four cups? → **The salt in the water**
 - **s4 (4 min)**  
-  *Parent does:* Put the four katoris side by side in a shady, warm place, out of direct sun. Draw the results table in your notebook. Draw what you think each cup will look like in 3 days.  
-  *Parent says:* Put the cups somewhere shady and warm. Now draw what you think each cup will look like in three days. We will check them tomorrow.  
-  *Child mode:* Put the cups in a shady spot. Draw what you think you will see in 3 days.
+  *Parent does:* Put the four katoris side by side in a shady, warm place, out of direct sun. Draw the results table in your notebook. Write your guess for each cup: many sprouts, a few, or none.  
+  *Parent says:* Put the cups somewhere shady and warm. Now guess for each cup: many sprouts, a few, or none. We will check them tomorrow.  
+  *Child mode:* Put the cups in a shady spot. Tell your guess for each cup.
   - Note: Warm and shady is best for moong, for example a kitchen shelf. Do not put the cups in a fridge or in direct sun.
 - **s5 (7 min)**  
   *Parent does:* Look at each cup. Count the seeds with a white root of at least 2 millimetres. Write the numbers in the table. Pour 2 tablespoons of each cup's own water onto its towel. Cover the cups again.  
@@ -284,7 +284,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
   - Think: Does a salty cup stop the seeds from sprouting, or does it just make them sprout later?
   - Wait: Leave the cups for one more day.
 - **s7 (8 min)**  
-  *Parent does:* Count a third time. Measure the longest root in each cup with a ruler in millimetres. Write the numbers. Look at the roots with a magnifying glass if you have one. Draw what you see.  
+  *Parent does:* Count a third time. Measure the longest root in each cup with a ruler in millimetres. Write the numbers. Look at the roots with a magnifying glass if you have one. Take a photo of the root hairs, or point them out to your grown-up.  
   *Parent says:* Count the sprouts one last time. Then measure the longest root in each cup. Look for the fuzz of root hairs. Write everything in the table.  
   *Child mode:* Count the sprouts. Measure the longest root. Look for the fuzzy root hairs.
   - Ask: What do the roots in the saltier cups look like compared with cup A? (good: Shorter.; Fewer.; Thinner and browner.)
@@ -301,13 +301,13 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 - **predict:** Before you start, guess. Which bottle will lose the most water, and which the least? Say why you think so.
 - **fair test:** Use three identical bottles, three sprigs of the same kind and size, the same amount of water and oil, and the same light. Only the air around the leaves is different: moving under a fan, still, or inside a bag.
 - **safety:** Keep fingers out of the fan and keep the bottles well away from the edge of the table and from plugs and sockets; wipe up any spilt water or oil. A grown-up cuts the stems. Plastic bags are not toys: keep them away from small children's faces. Switch the fan off when you leave the room and at night.
-- **record:** Fill in the table at each check. Draw the leaves and the bag at the 3-hour check. Look for drops inside the bag.
+- **record:** Fill in the table at each check. At the 3-hour check, take a photo of the leaves and the bag, or tell what you see. Look for drops inside the bag.
 - **results table:** Bottle | Air around the leaves | Water level at the start (mm) | Water level after 3 hours (mm) | Water level next morning (or evening) (mm) | Water lost (mm)
 - **schedule:** day 1: Guess. Fill the bottles and add the sprigs. Tie a bag over one sprig. Put the bottles in their places. Check after 3 hours. (30 min); day 2: Measure the next morning and say what the results show. (10 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the three bottles and the three sprigs. Explain that one will stand under a fan, one in still air, and one inside a bag. Ask for a guess and a reason.  
   *Parent says:* Three sprigs, three bottles. A is under the fan. B is in still air. C has a bag over the leaves. Which sprig will lose the most water? Why do you think so?  
-  *Child mode:* Three sprigs. One under a fan, one in still air, one in a bag. Which loses most water?
+  *Child mode:* Three sprigs: one under a fan, one in still air, one in a bag. Make your guess.
   - Ask: Which bottle do you think will lose the most water? (good: The fan one.; A.)
   - Ask: What do you think will happen inside the bag? (good: It will get wet.; Drops will form.; It will get foggy.)
   - Note: Who does what: with 3 children, each looks after one bottle, measures it and reports. With 2, one measures and one writes. With 4, the fourth child sets up an extra bottle with water and oil but no sprig, and checks that its oil level does not move. A child working alone does all three bottles. Do not correct the guess. Write the guesses down. The idea is that moving, dry air pulls water out of leaves faster, but let your child get there by seeing.
@@ -319,7 +319,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
   - Check: Why do we float oil on top of the water? → **So water can only leave through the leaves, not from the surface**
 - **s3 (6 min) · grown-up needed**  
   *Parent does:* Cut the end of each sprig fresh, under a little water in a bowl. Push one sprig into each bottle neck, so the cut end is in the water and the leaves are outside. Put a bag over the leaves of bottle C and fasten it loosely round the bottle neck with a rubber band.  
-  *Parent says:* Cut each stem under water, so no air gets into the tubes. Put a sprig in each bottle. Now put a bag over the leaves of bottle C. Tie it round the neck. The bag will trap the water vapour that leaves the leaves, so the air inside it will get damp.  
+  *Parent says:* Cut each stem under water, so no air gets into the tubes. Put a sprig in each bottle. Now put a bag over the leaves of bottle C. Tie it round the neck. Water leaves a leaf as vapour, which is water as an invisible gas. The bag will trap the vapour, so the air inside it will get damp.  
   *Child mode:* Put a sprig in each bottle. Tie a bag over the leaves of bottle C.
   - Note: A grown-up cuts the stems. Make sure the cut ends stay in the water. A bag closed round the bottle neck keeps the air inside damp. Do not pull the rubber band so tight that the sprig is crushed. If a sprig leans or falls, tape its stem to the bottle neck. Mint and coriander droop fast once cut, so set up quickly.
 - **s4 (4 min)**  
@@ -329,7 +329,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
   - Note: Keep all three in the same light, at the same height. A table fan on low is enough. Keep B and C out of direct sun: a bag in the sun gets hot and wilts the sprig. Hold a thin strip of tissue near B and C: it should hardly move. Leave them for at least 3 hours. Leave the fan on while someone is home and switch it off at bedtime; most of the difference between the bottles builds up in daylight, when the stomata, the tiny holes in the leaves, are open. On a damp, rainy day the differences will be smaller.
 - **s5 (5 min)**  
   *Parent does:* After 3 hours, look at the bag on bottle C. Are there drops inside? Measure how far the oil has dropped on each bottle with the ruler. Write the numbers.  
-  *Parent says:* It has been three hours. Look inside bag C. What do you see? Then measure how far each oil level has dropped.  
+  *Parent says:* It has been three hours. Look inside bag C. Then measure how far each oil level has dropped.  
   *Child mode:* Look inside the bag. Measure how far each level has dropped.
   - Ask: What can you see inside the bag? (good: Tiny drops.; It is misty.)
   - Ask: Where do you think those drops came from? (good: From the leaves.; From the sprig's water.)
@@ -337,8 +337,8 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
   - Wait: Wait 3 hours.
 - **s6 (8 min)**  
   *Parent does:* The next morning (or in the evening of the same day), measure the oil level in each bottle again. Fill in the table. Work out how much water each bottle lost. Look at the leaves. Which ones look tired?  
-  *Parent says:* Now it is morning (or evening, if you measured then). Measure again. How many millimetres did each bottle lose? Which bottle lost the most? Which the least?  
-  *Child mode:* Measure the levels again. Which lost the most? Which lost the least?
+  *Parent says:* Now it is morning (or evening, if you measured then). Measure again. How many millimetres did each bottle lose?  
+  *Child mode:* Measure the levels again. Write the numbers in the table.
   - Ask: In which bottle did the water go down the most? (good: A.; The fan one.)
   - Ask: Did the bagged sprig drink anything? (good: Very little.; Almost nothing.)
   - Note: Usually the fan bottle loses most and the bagged one loses least, but real results can be messy. A sprig that wilts early will drink less. If the results are all small, repeat with more leaves or a bigger sprig. The fan was probably off overnight, so the morning total mostly shows what was lost in the daytime. Leaves that look tired are another sign of water lost.
@@ -368,13 +368,13 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
   - Note: A grown-up does the cutting. Use slices of the same thickness, from the same part of the cucumber.
   - Check: Why do we also keep a plate with nothing on it? → **To see what cucumber does on its own**
 - **s3 (5 min)**  
-  *Parent does:* While you wait, draw one cucumber cell. Draw the salt outside it. Draw arrows to show what you think is happening to the water.  
-  *Parent says:* While we wait, draw a model. Draw a cell in a slice. Draw the salt outside it. Which way do you think the water moves? Draw arrows.  
-  *Child mode:* Draw a cucumber cell. Draw the salt outside. Draw arrows for the water.
+  *Parent does:* While you wait, act it out. You are the salt, outside the cell. Your child is the water, inside the cell. Ask which way the water will walk.  
+  *Parent says:* While we wait, let us act it out. I am the salt, outside the cell. You are the water, inside the cell. Which way will you walk?  
+  *Child mode:* Be the water inside a cucumber cell. Walk the way you think the water will go.
   - Note: Any drawing with a reason is good. Look for arrows that show water going from the cell to the salt. If your child draws the salt going into the cell, ask what they think the puddle is made of.
 - **s4 (6 min)**  
   *Parent does:* After 20 minutes, tilt each plate over its small cup so the liquid runs out, and spoon up what is left. Measure the liquid in teaspoons, or look at how high it stands in the cup. Hold one slice from each plate by its edge. Does it droop? Write what you find.  
-  *Parent says:* It has been 20 minutes. Tilt each plate. How much liquid is there? Pick up a slice from each plate. Does it stay stiff or bend?  
+  *Parent says:* It has been 20 minutes. Tilt each plate over its cup. Then pick up a slice from each plate by its edge.  
   *Child mode:* Spoon up the liquid from each plate. Test one slice from each. Does it droop?
   - Ask: Which plate has the most liquid? (good: The salt one.; The sugar one.)
   - Ask: Which slices droop? (good: The salt ones.; The ones with the most liquid.)
@@ -383,17 +383,17 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 - **s5 (7 min)**  
   *Parent does:* Ask your child to say what happened and why. Then ask what they think would happen to a root in soil full of salt.  
   *Parent says:* Tell me what happened on each plate. Why did the slices go soft? What do you think salty soil would do to a root?  
-  *Child mode:* Say what happened to the slices. What would salty soil do to a root?
+  *Child mode:* Tell what happened to the slices. Then guess about a root in salty soil.
   - Note: A good answer: 'The salt pulled the water out of the cucumber. A root in salty soil would lose water to the soil, and the plant would droop.' Only now say the word osmosis.
   - Check: The salted slices went limp. Where did the water in the puddle come from? → **From inside the cucumber cells**
 ### a2 · Leave the Salt Behind: a paper strip that grows a crust (25 min, 2 days)
 - **safety:** Salt water is not for drinking. Wipe up spills so nobody slips.
-- **record:** Draw both strips on day 2. Mark where the water climbed to and where the white crust is.
+- **record:** On day 2, take a photo of both strips, or draw them. Mark where the water climbed to and where the white crust is.
 - **schedule:** day 1: Set up the two strips. Look after an hour. (20 min); day 2: Look for the crust the next morning and draw it. (5 min)
 - **s1 (5 min)**  
   *Parent does:* Show your child the two glasses and the paper strips. Ask what will happen to the strips, and what will be left behind when the water leaves the top. Ask for a reason.  
   *Parent says:* One glass has salty water. One has plain water. A strip of paper stands in each. The water will climb up the paper. What will be left at the top when the water goes into the air? Why do you think so?  
-  *Child mode:* One paper strip stands in salt water and one in plain water. What will be left at the top of each strip? Why?
+  *Child mode:* Look at the two glasses. Guess what each strip will show at the top.
   - Ask: What do you think you will find at the top of the salty strip? (good: Salt.; A white crust.)
   - Ask: And on the plain strip? (good: Nothing.; Just dry paper.)
   - Note: Who does what: one child does both glasses. With 2 to 4 children, give each child one glass. With four, add a second salt glass. Put one salt glass in a sunny window and the other in the shade, and compare the crusts. Do not correct the guess. Any guess with a reason is good.
@@ -412,9 +412,9 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
   - Note: Both strips will probably wet to about the same height, typically a few centimetres in an hour, higher on cloth than on thick paper. Salt water may climb a little more slowly. The difference shows up as the paper dries.
   - Wait: Wait an hour.
 - **s4 (7 min)**  
-  *Parent does:* The next morning, look at both strips, close up. Look for a white crust. Look with a magnifying glass if you have one. Draw both strips and mark where the crust is.  
-  *Parent says:* Look at both strips. Is there a white crust? Where is it? Draw both strips. Mark the crust.  
-  *Child mode:* Look for a white crust on each strip. Draw both strips.
+  *Parent does:* The next morning, look at both strips, close up. Look for a white crust. Look with a magnifying glass if you have one. Take a photo of both strips, or point to where the crust is.  
+  *Parent says:* Look at both strips. Is there a white crust? Where is it? Take a photo of both strips.  
+  *Child mode:* Look for a white crust on each strip. Point to it.
   - Ask: Where is the crust, near the water or near the top? (good: Near the top.; Where the paper dries.)
   - Ask: What do you think the crust is? (good: Salt.; The salt that was in the water.)
   - Note: The crust forms where the water leaves, near the top of the wet part. If you do not see a crust, leave it another day. It can take a day or two in cool or humid weather, and a fan or a sunny window makes it faster. If your strip is dark cloth, rub it gently: a gritty white edge is salt.
@@ -422,7 +422,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 - **s5 (5 min)**  
   *Parent does:* Ask your child where the water went and where the salt stayed. Then ask what a field or a leaf would look like if salty water were pulled through it for years.  
   *Parent says:* The water left the top of the strip and went into the air. What stayed behind? What would a field look like after many years of salty water?  
-  *Child mode:* Where did the water go? What stayed behind? What would a field look like?
+  *Child mode:* Tell where the water went and what stayed behind.
   - Note: A good answer: 'The water went up and out and the salt stayed. In a field it would build up a white crust over many years.'
   - Check: Water left the top of the strip, but salt stayed. What does this tell us about a leaf that pulls up salty water? → **The salt would be left behind in the leaf or in the soil**
 ### a3 · The String Staircase: draw the slope that pulls water to the sky (30 min)
@@ -465,14 +465,14 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 ### c1 · Rescue the Salty Pot: bring back soil that sea water has spoilt (35 min)
 - **problem:** Two cups of soil have been soaked in salty water. Cup A will be left as it is. In cup B, you must rescue the soil, using up to 600 millilitres of plain water, so that fenugreek (methi) seeds can sprout.
 - **safety:** A grown-up pokes the holes (use a skewer or the point of scissors, pressed into the cup on a board). Salty water is not for drinking. Do not eat the methi sprouts from this test. Wipe up spills.
-- **your turn:** Plan your own rescue. Draw it first. Try it. Change one thing, such as how slowly you pour, and try it with a fresh cup. Which way rescued the most seeds?
+- **your turn:** Plan your own rescue. Tell it or sketch it first. Try it. Change one thing, such as how slowly you pour, and try it with a fresh cup. Which way rescued the most seeds?
 - **constraints:** Both cups start with the same soil and the same amount of salt.; You may not add new soil or take any soil out of cup B.; You may use at most 600 millilitres of plain water to rescue cup B.; Both cups get 8 methi seeds and 2 tablespoons of plain water at sowing.
 - **general:** Pour the plain water slowly through the soil in three lots of 200 millilitres. Pour each lot in two slow halves so the cup does not overflow, and let it drain out through the holes before the next lot. This is called flushing.; Make sure the holes are not blocked, so the salty water can leave the cup.; Wait for the cup to stop dripping, then sow the seeds.
 - **creative:** Pour the water in many small, slow splashes instead of three big ones, so it runs through every part of the soil.; Make a few more holes in the cup, so the water leaves quicker, and see if it needs less water.; Collect the draining water in the saucer and let it dry on a plate to see how much salt came out.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Look at the rules. Ask your child to sketch two ideas for rescuing cup B. Ask why they think each would work.  
-  *Parent says:* Salty water has soaked both cups. You can rescue one with plain water. How would you do it? Draw two ideas. Say why each might work.  
-  *Child mode:* Cup B has salty soil, and you have plain water. Draw two ideas to rescue cup B.
+  *Parent does:* Read the problem together. Look at the rules. Ask your child to tell you two ideas for rescuing cup B, or sketch them. Ask why they think each would work.  
+  *Parent says:* Salty water has soaked both cups. You can rescue one with plain water. How would you do it? Tell me two ideas, or sketch them. Say why each might work.  
+  *Child mode:* Cup B has salty soil, and you have plain water. Think of two ways to rescue cup B.
   - Ask: How could plain water help salty soil? (good: It washes the salt away.; It makes the soil less salty.)
   - Note: Who does what: one child runs both cups. With 2 to 4 children, share cup A and give each child one more spoilt cup to rescue with their own plan and the same amount of plain water, 600 millilitres. Each extra cup needs 150 grams of soil and 50 millilitres of the same salty water, so stir a quarter teaspoon more salt into 50 millilitres more water for each extra cup. Do not correct the ideas. Look for ideas that remove the salt, not ones that just add water.
 - **s2 (8 min) · grown-up needed**  
@@ -481,7 +481,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
   *Child mode:* Put the same soil in each cup. Pour the same salty water on both.
   - Note: A grown-up pokes the holes. Use the same soil and weigh it if you can. Pour salty water evenly over the surface.
 - **s3 (8 min)**  
-  *Parent does:* Leave cup A alone. For cup B, pour 200 millilitres of plain water slowly over the soil, in two halves. Let it drain. Then pour another 200 millilitres the same way and let it drain. Then pour the last 200 millilitres. Look at the water in the saucer.  
+  *Parent does:* Leave cup A alone. For cup B, pour 200 millilitres of plain water slowly over the soil. Let it drain. Pour another 200 millilitres the same way and let it drain. Then pour the last 200 millilitres. Look at the water in the saucer.  
   *Parent says:* Cup A stays as it is. Cup B gets three slow pours of plain water, one after another. Let each one drain before the next. What does the water in the saucer look like?  
   *Child mode:* Cup A stays as it is. Flush cup B with three slow pours of water.
   - Ask: Where do you think the salt is going? (good: Out through the holes with the water.; Into the saucer.)
@@ -495,7 +495,7 @@ On the way to school, Moushumi crossed the creek. The mangroves along its bank s
 - **s5 (8 min)**  
   *Parent does:* After 4 days, count the sprouts in each cup. Measure the tallest shoot. Say what rescued the soil, and what you would change next time.  
   *Parent says:* It has been four days. Count the sprouts in each cup. Which cup did better? What would you change next time?  
-  *Child mode:* Count the sprouts. Which cup did better? What would you change?
+  *Child mode:* Count the sprouts in each cup. Measure the tallest shoot.
   - Ask: Which cup has more sprouts? (good: B.; The flushed one.)
   - Ask: How could you rescue the soil with less water? (good: Pour more slowly.; Make more holes.)
   - Note: Typically B has many more sprouts than A, though a few seeds in A may still sprout, so compare the counts and the shoot heights. If A also does well, the salt may have been too little. Try one full teaspoon next time.

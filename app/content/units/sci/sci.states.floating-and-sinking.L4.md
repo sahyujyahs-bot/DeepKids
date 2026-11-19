@@ -228,12 +228,12 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   - Ask: Which card has surprised you so far, and why? (good: The steel ship floats.; The potato floats in salt water.; Ice floats.)
 - **s4 (3 min)**  
   *Parent does:* Play the last ten cards. When the pile is finished, count each player's points.  
-  *Parent says:* These are the last cards. Think about the density of the thing and the density of what is around it.  
+  *Parent says:* These are the last cards. Is the thing heavier or lighter than the same amount of what is around it?  
   *Child mode:* Play the last cards. Count your points.
 - **s5 (2 min)**  
   *Parent does:* Say who won. Ask your child which card was the hardest to guess, and why.  
   *Parent says:* Who got the most points? Which card was hardest? Why was it hard?  
-  *Child mode:* Who won? Which card was hardest? Why?
+  *Child mode:* Count the points. Tell everyone which card was hardest, and why.
   - Note: A good answer names a card where the liquid changes the result. The potato sinks in plain water but floats in very salty water. A ship sits higher in the sea than in a river. A person floats more easily in the Dead Sea than in a pool.
   - Think: Which card would change if the liquid were different?
 
@@ -243,16 +243,16 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 - **predict:** Before you start, guess. Which boat will carry the most coins? Which will carry the fewest? Why do you think so?
 - **fair test:** Every boat is made from a square of foil of the same size. The basin and the depth of the water are the same for every test. You add coins in the same way each time, gently and one at a time. Only the shape of the boat changes, so any difference comes from the shape. The foil ball is the control. It shows what happens to the same foil with no hollow shape.
 - **safety:** Fold the foil edges over, because cut foil can be sharp. Keep coins and steel nuts away from children under five, who might put them in their mouths. Wipe up spilt water at once so nobody slips.
-- **record:** For each boat, write how many coins it carried before it tipped or water came over the rim. Test each boat twice. Then draw a bar chart with one bar for each boat, using the bigger of the two numbers.
+- **record:** For each boat, write how many coins it carried before it tipped or water came over the rim. Test each boat twice. Then show the results as a bar chart, drawn or made from stacked coins, with one bar for each boat. Use the bigger of the two numbers.
 - **results table:** Boat | Base and sides | Coins carried: try 1 | Coins carried: try 2
 - **s1 (5 min)**  
   *Parent does:* Show your child the foil, the basin and the coins. Say that all three boats are made from the same size of foil. Write down your child's guess and reason.  
   *Parent says:* We will fold three boats from the same size of foil. One is wide and shallow. One is medium. One is narrow and deep. We will also squeeze one square into a ball. Which boat will carry the most coins? Which will carry the fewest? Why do you think so?  
-  *Child mode:* Three boats from the same foil. One is wide. One is medium. One is deep. Which carries the most coins? Why?
+  *Child mode:* Look at the foil, the basin and the coins. Guess which boat will carry the most coins.
   - Ask: Why do you think that boat will carry the most? (good: It has the most room.; It is the biggest.; It will push aside the most water.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write the guesses at the top of the table. One child with a parent: the child folds the boats and adds the coins, and the parent counts aloud and writes. Two to four children: each child folds and tests a different boat, and then they compare results. One child counts, one adds coins and one writes. Make one set of boats for each pair of children, so every boat is tested twice. One adult is enough.
 - **s2 (10 min)**  
-  *Parent does:* Measure and cut four squares of foil, each 15 centimetres by 15 centimetres. Fold the first square up 1 centimetre on every side. Fold the second up 3 centimetres on every side. Fold the third up 5 centimetres on every side. Pinch the corners so the sides stand up. Squeeze the fourth into a ball.  
+  *Parent does:* Measure and cut four squares of foil, each 15 centimetres by 15 centimetres. Fold the first square (boat A) up 1 centimetre on every side. Fold the second (boat B) up 3 centimetres on every side. Fold the third (boat C) up 5 centimetres on every side. Pinch the corners so the sides stand up. Squeeze the fourth into a ball.  
   *Parent says:* Fold each edge up, and press the corners to make the sides stand. The first boat has low sides and a wide base. The second has medium sides. The third has tall sides and a narrow base. The fourth is a ball.  
   *Child mode:* Cut four squares of foil. Fold up the edges of three. Make a ball with the last one.
   - Note: Make the squares exactly the same size. Fold the sharp edges inwards so nobody scratches a finger. Label the boats with small pieces of paper: A for the boat with 1 centimetre sides, B for 3 centimetre sides and C for 5 centimetre sides. Fold the four corners flat against the sides and press them hard, so water cannot leak in through the corner folds.
@@ -260,7 +260,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 - **s3 (5 min)**  
   *Parent does:* Fill the basin with water about 10 centimetres deep. Put the foil ball in the water, and watch what it does. Then float boat A in the middle of the basin.  
   *Parent says:* First, the ball. Put it in gently. What does it do? Now take it out. Float the first boat in the middle of the basin. What is different?  
-  *Child mode:* Put the foil ball in the water. What does it do? Now float boat A. What is different?
+  *Child mode:* Watch what the foil ball does in the water. Then watch what boat A does.
   - Ask: The ball and the boat are the same foil. Why does one sink and the other float? (good: The boat holds air.; The boat pushes aside more water.; The ball is squashed small.)
   - Note: Do not explain yet. Let your child say what they think. The ball should sink straight away. Record 0 coins for the ball.
 - **s4 (20 min)**  
@@ -271,9 +271,9 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   - Note: Coins go in the middle. Stack them in small piles as the boat fills. If the boat tips, note it, and try again. Foil boats are fussy, so the numbers are likely to differ by several coins between tries. That is normal, and it is why you test each boat twice. If you run out of coins before a boat tips or sinks, write 'more than 60' and add heavier items such as two-rupee or five-rupee coins.
   - Check: Boat A carries 24 coins on try 1 and 26 coins on try 2. What does this show? → **The result is steady, so we can trust it**
 - **s5 (5 min)**  
-  *Parent does:* Draw a bar chart with one bar for each boat. Use the bigger of the two numbers. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.  
+  *Parent does:* Make a bar chart with one bar for each boat. Draw it, or stack the coins in one tower for each boat. Use the bigger of the two numbers. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a bar for each boat. Say what you thought would happen, what you saw, and why you think it happened.
+  *Child mode:* Make a bar or a coin tower for each boat. Say what you thought would happen, what you saw, and why you think it happened.
   - Note: A strong answer says that the boat with the most room for air pushed aside the most water. If you work out the volume of each boat, the medium boat should carry the most and the narrow, deep boat the fewest. But a tall boat can tip, and a wide shallow boat can fill over its low rim, so the order in your basin may differ. Write what you actually saw, and give a reason for it. After your child has said what they saw, explain: each cubic centimetre of water pushed aside weighs one gram. The boat can carry cargo until the water it pushes aside weighs as much as the boat and the cargo together.
   - Think: Why did the ball of foil sink but every boat float?
 ### e2 · The Potato and the Salt: when does it float? (30 min)
@@ -281,12 +281,12 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 - **predict:** Before you start, guess. How many tablespoons of salt will it take before the potato floats? Will it ever float? Why do you think so?
 - **fair test:** You use the same piece of potato, the same glass and the same amount of water every time. You add one level tablespoon of salt at a time, and stir until it disappears. Only the amount of salt changes, so any change in the potato comes from the salt. The plain water at the start is the control: it shows what the potato does with no salt.
 - **safety:** Salty water is not for drinking. Wash hands after handling the raw potato. If you try an egg, wipe up any broken egg at once.
-- **record:** After every tablespoon of salt, write what the potato does and where it sits. Draw the glass at the start and at the end.
+- **record:** After every tablespoon of salt, write what the potato does and where it sits. Take a photo of the glass at the start and at the end, or draw it.
 - **results table:** Salt in the glass (level tablespoons) | Does the potato sink, hover or float? | Where is the potato: bottom, middle or top?
 - **s1 (5 min)**  
   *Parent does:* Show your child the glass, the potato and the salt. Ask for a guess and a reason. Write the guess at the top of the table.  
   *Parent says:* We have a potato, a glass of water and some salt. The potato will sink in plain water. What will happen as we add salt? When will it change? Why do you think so?  
-  *Child mode:* A potato sinks in plain water. What happens when you add salt? Why do you think so?
+  *Child mode:* A potato sinks in plain water. Guess what happens when you add salt.
   - Ask: Why do you think salt might change what the potato does? (good: Salt makes the water heavier.; Salt makes the water stronger.; Salt changes the water.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. One child with a parent: the child adds salt and watches, and the parent counts the spoons and writes. Two to four children: give each child a glass and a piece cut from the same potato. One child can test an egg instead of a potato. A raw egg usually floats after about 2 to 3 tablespoons, but yours may differ. Compare how much salt each one needed before it floated.
 - **s2 (5 min)**  
@@ -296,7 +296,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   - Note: The potato should sink to the bottom. Most raw potatoes do. If yours floats in plain water, use a different piece, from the middle of a bigger potato.
 - **s3 (15 min)**  
   *Parent does:* Take the potato out with a spoon. Add one level tablespoon of salt. Stir for about a minute, until the salt disappears. Put the potato back gently. Write what it does. Repeat, adding one tablespoon at a time, up to 5 tablespoons in all or until the potato floats.  
-  *Parent says:* Take the potato out first. Add one level tablespoon of salt, and stir until you can't see it. Put the potato back. Does it sink, hover or float? Then do the same again with one more tablespoon of salt.  
+  *Parent says:* Take the potato out first. Add one level tablespoon of salt, and stir until you can't see it. Put the potato back. Does it sink, float, or hover in the middle of the water? Then do the same again with one more tablespoon of salt.  
   *Child mode:* Take out the potato. Add one spoon of salt. Stir. Put the potato back. Write what it does. Repeat.
   - Ask: What do you notice about the potato as you add more salt? (good: It rises.; It floats higher.; It stays in the middle.)
   - Note: Hovering is when the potato stays in the middle of the glass and neither sinks nor floats. This tells you the salty water is about as dense as the potato. Many potatoes float after about 2 to 4 tablespoons, but yours may differ. A new, watery potato may need more, and an old one less. If the salt is slow to dissolve, use warm tap water (not hot). If salt stays at the bottom after a minute of stirring, the water cannot hold any more. If the potato still sinks at 5 tablespoons, try a thinner slice of potato or a different potato. Salt only changes the water, and some potatoes are denser than any salt water you can make.
@@ -327,7 +327,7 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 - **s3 (6 min)**  
   *Parent does:* Sort the ten things into two columns: floats and sinks. Ask your child to look for a pattern. Then ask whether the pattern is always true.  
   *Parent says:* Look at the two columns. Is there a pattern? Is it always the heavy things that sink? What about the steel katori, which is heavy but floats?  
-  *Child mode:* Sort the things into floats and sinks. Is there a pattern? Is it always true?
+  *Child mode:* Sort the things into floats and sinks. Look for a pattern.
   - Ask: Is it true that heavy things sink and light things float? (good: No. The katori is heavy but floats.; No. The coin is small but sinks.; It depends on the shape and what it is made of.)
   - Note: A good pattern to test is 'heavy things sink'. The katori does not fit it, because it is heavy but floats. A better pattern is: a thing floats if it is lighter than the water it pushes aside.
 - **s4 (4 min)**  
@@ -338,11 +338,11 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   - Think: How would you test the pattern 'wooden things always float'?
 ### a2 · Density Tower: three liquids that will not mix (25 min)
 - **safety:** Use warm tap water, not boiling. An adult should heat the water if it needs heating. Food colour stains clothes. Oil makes the floor slippery, so wipe spills at once. Do not drink the layers, and pour the oil into the dustbin, not the sink.
-- **record:** Draw the glass with three layers, and label each layer. Write which liquid is the densest and which is the least dense.
+- **record:** Write the three liquids in order, from top to bottom. Write which is the densest and which is the least dense. You can also draw the glass.
 - **s1 (5 min)**  
   *Parent does:* Ask your child to guess which liquid will be at the top, which in the middle and which at the bottom. Then stir the sugar into the warm water, until no grains are left. This is the syrup. Add a drop of food colour to it. Let it cool for a few minutes.  
   *Parent says:* We have three liquids: sugar syrup, plain water and cooking oil. Which will end up on the top? Which will end up at the bottom? Why do you think so?  
-  *Child mode:* Guess the order of the three liquids. Why do you think so? Stir sugar into warm water.
+  *Child mode:* Guess the order of the three liquids. Then stir sugar into warm water.
   - Ask: Why do you think that liquid will be at the bottom? (good: It is thickest.; It is the heaviest.; It is the densest.)
   - Note: Do not correct the guess. Make the syrup thick, with as much sugar as will dissolve. One child with a parent: the child pours, and the parent steadies the glass. Two to four children: make one tower for each pair, so every child gets to pour, and compare the towers. If you have only one food colour, use it in the syrup. The clear water layer will then show between the coloured syrup and the oil.
 - **s2 (4 min)**  
@@ -359,15 +359,15 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   *Parent says:* Now pour the oil slowly over the back of the spoon. Then leave the glass still.  
   *Child mode:* Pour oil slowly over the spoon. Leave the glass still.
 - **s5 (7 min)**  
-  *Parent does:* Look at the tower from the side. Draw it and label each layer. Then gently stir the top with the spoon, and watch what the oil does. Drop in a few small things from the kitchen one at a time (a peppercorn, a grain of rice, a raisin). Write which layer each one stops in. Ask your child to say what they thought would happen, what they saw, and why they think it happened.  
+  *Parent does:* Look at the tower from the side. Name each layer out loud, or draw and label it. Then gently stir the top with the spoon, and watch what the oil does. Drop in a few small things from the kitchen one at a time (a peppercorn, a grain of rice, a raisin). Write which layer each one stops in. Ask your child to say what they thought would happen, what they saw, and why they think it happened.  
   *Parent says:* Which layer is on top? Which is at the bottom? Why do you think each liquid is where it is? What happens to the oil when we stir it?  
-  *Child mode:* Look at the three layers. Draw them. Stir the top gently. What does the oil do?
+  *Child mode:* Look at the three layers and name them. Stir the top gently. What does the oil do? Drop in small things and see where they stop.
   - Note: When you stir, the oil breaks into drops and rises back to the top, because it is less dense than the water. The water and the syrup slowly mix. After your child has said what they saw, explain: each liquid floats on the one that is denser than itself. You cannot know beforehand which layer each small thing will stop in. It stops where the liquid below is denser than the thing and the liquid above is less dense. Write down what you see. For the honey question: honey is denser than water, so it would sink down through the oil and the water and settle near the bottom, close to the syrup.
   - Check: Oil sits on top of water. What does this show about oil? → **Oil is less dense than water**
   - Think: What would happen if you poured honey into this glass?
 ### a3 · Make a Hydroscope: a floating density meter (30 min)
 - **safety:** Pins are sharp and a steel nut is a small part: an adult should handle the pins, and keep both away from children under five.
-- **record:** Write the length of straw above the water in plain water and in salty water. Draw the hydroscope in each glass.
+- **record:** Write the length of straw above the water in plain water and in salty water. Take a photo of the hydroscope in each glass, or draw it.
 - **s1 (5 min)**  
   *Parent does:* Press about a centimetre and a half of clay firmly into one end of the straw, so that the end is sealed. Check that no water can get in.  
   *Parent says:* The clay seals one end, and it also makes that end heavy. The heavy end will go down, and the straw will float upright.  
@@ -400,11 +400,11 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
 ## Projects
 ### p1 · Bottle Diver: a diver that sinks when you squeeze (40 min)
 - **safety:** A pen cap is a small part and clay should not be eaten: keep both from children under five. Wipe up spilt water so nobody slips.
-- **record:** Draw the bottle with the diver, before and after squeezing. Show the air bubble in each drawing.
+- **record:** Take a photo or draw the bottle with the diver, before and after squeezing. Show the air bubble in each drawing.
 - **s1 (5 min)**  
   *Parent does:* Show your child the bottle, the pen cap and the clay. Ask for a guess and a reason.  
   *Parent says:* We will make a little diver. When we squeeze the bottle, what do you think the diver will do? Why do you think so?  
-  *Child mode:* You will make a tiny diver in a bottle. What will the diver do when you squeeze the bottle? Why?
+  *Child mode:* You will make a tiny diver in a bottle. Guess what the diver will do when you squeeze the bottle.
   - Ask: Why do you think the diver might sink or rise? (good: The water pushes it.; The air in it gets squashed.; It gets heavier.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. One child with a parent: the child builds the diver, and the parent tops up the bottle. Two to four children: each child makes their own diver and bottle. Then have a race. Whose diver sinks first? Can anyone keep their diver still in the middle of the bottle?
 - **s2 (10 min)**  
@@ -424,23 +424,23 @@ On the second trip, the rice came across, and the line stayed dry the whole way.
   - Note: If the diver does not move, squeeze harder, or take a little clay off. If it sinks and stays down, use a little less clay next time. A bubble of air left at the top of the bottle makes it hard to squeeze the diver down, so top up the bottle to the brim. Some divers do not work at first. Add or remove a tiny bit of clay and try again. To measure how your diver does, count how many seconds it takes to reach the bottom, or try to hold it in the middle of the bottle for ten seconds.
   - Check: When you squeeze the bottle, the diver sinks. Why? → **The air inside it is squashed, so it pushes aside less water**
 - **s5 (10 min)**  
-  *Parent does:* Draw the bottle with the diver, before and after squeezing. Show the air bubble in each. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.  
+  *Parent does:* Take a photo of the bottle with the diver, before and after squeezing, or draw it. Show the air bubble in each. Then ask your child to say what they thought would happen, what they saw, and why they think it happened.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Where do you see this idea in submarines and fish?  
-  *Child mode:* Draw the bottle before and after squeezing. Say what you thought would happen, what you saw, and why you think it happened.
+  *Child mode:* Take a photo or draw the bottle before and after squeezing. Say what you thought would happen, what you saw, and why you think it happened.
   - Note: A strong answer says that squeezing made the air smaller, so the diver pushed aside less water and became denser overall, so it sank. A submarine changes its density with ballast tanks, and a fish with her swim bladder.
   - Think: How is the diver like a submarine, and how is it like a fish?
 
 ## Challenges
 ### c1 · Cargo Ship: carry the most coins with one sheet of foil (40 min)
 - **problem:** You have one sheet of foil, 20 centimetres by 20 centimetres. Fold it into a boat that carries as many coins as possible across a basin of water, and does not sink for one full minute.
-- **your turn:** Sketch your design. Build it and test it. Change one thing, such as the height of the sides, and test again. Which design carried the most coins? Why do you think it did?
+- **your turn:** Plan your design by sketching it or folding a paper boat. Build it and test it. Change one thing, such as the height of the sides, and test again. Which design carried the most coins? Why do you think it did?
 - **constraints:** Use only one square of foil, 20 centimetres by 20 centimetres, with no tape or glue.; The coins must be added one at a time, gently.; The boat must float for one full minute with the load.; Count the coins your boat carries.
 - **general:** A box shape, with straight sides and a flat base, like the medium boat in the Foil Boats test.; A wide boat with sides that are tall enough to keep the water out.; A boat that keeps its coins in the middle, so it does not tip.
 - **creative:** Two narrow hulls side by side, joined by a flat deck, like a catamaran, to keep the boat steady.; A boat with a ridge or a fold across the middle, to keep the sides from folding in.; A boat with rounded sides, like a coracle, that sits low and steady.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch two or three different boat designs.  
-  *Parent says:* You have one sheet of foil. How could you fold it so that the boat carries the most? Draw some ideas first.  
-  *Child mode:* You have one foil sheet. Draw some boat ideas first.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to plan two or three different boat designs. They can sketch them, or fold a quick paper boat for each idea.  
+  *Parent says:* You have one sheet of foil. How could you fold it so that the boat carries the most? Plan some ideas first.  
+  *Child mode:* You have one foil sheet. Plan two or three boat ideas. Sketch them or fold paper boats.
   - Ask: What would make a boat carry more? (good: More room for air.; Higher sides.; A wider base.)
 - **s2 (15 min)**  
   *Parent does:* Build your first design. Float it in the basin. Add coins one at a time, gently. Count them. Keep going until it tips or sinks. Write down the number.  

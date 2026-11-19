@@ -631,8 +631,8 @@
      "id": "s2",
      "mins": 12,
      "do": "Read the front of one card aloud, and nothing else. Everyone says who made the sign and picks a token. Read the back and give points. Play ten cards.",
-     "say": "Read me the sign. I will say who I think made it, and I will pick a link. Then we check the back. There is one point for a sensible guess about who made it, and one point for a link that the back mentions.",
-     "kid": "Read a card. Say who made the sign. Pick a link token. Check the back.",
+     "say": "I will read you a sign. Say who you think made it, and pick a link. Then we check the back. There is one point for a sensible guess about who made it, and one point for a link that the back mentions.",
+     "kid": "Listen to the sign. Say who made it. Pick a link token. Check the back.",
      "ask": [
       {
        "q": "Which clue on the front helped you most?",
@@ -661,7 +661,7 @@
      "mins": 3,
      "do": "Add up the points. Choose the sign that was hardest to read. Talk about who else gains from that sign.",
      "say": "Which sign was hardest to read? Who else gains from it? On a real trail, we look first and touch nothing.",
-     "kid": "Count your points. Which sign was hardest? Who else gains from it?",
+     "kid": "Count your points. Pick the sign that was hardest to read.",
      "parent": "Good answers see a second link. A dropping full of seeds shows food for the animal and travel for the plant.",
      "context": "This is the last step of Sign Detective. You count points and think about the signs."
     }
@@ -724,8 +724,8 @@
     }
    ],
    "safety": "Do the test over a bucket, a sink or a bathroom floor, because it is messy. Wash your hands after touching soil. Do not put soil or leaves near your mouth. Keep the dry leaves away from any flame.",
-   "record": "Write the seconds until the first drop, the millilitres that ran off in each rain, and how muddy the water was. Then draw a bar chart of the runoff in rain 1.",
-   "context": "In this experiment, you pour pretend rain on three small patches of ground and measure what runs off. You find out what leaves and soil do for the rain.",
+   "record": "Write the seconds until the first drop, the millilitres that ran off in each rain, and how muddy the water was. Then draw a bar chart of the runoff in rain 1, or take a photo of the glasses lined up.",
+   "context": "In this experiment, you pour pretend rain on three small patches of ground and measure what runs off. You find out if leaves help the soil hold on when it rains.",
    "setup": [
     {
      "art": "Plate A with a fingertip-thick layer of soil, plate B with the same soil under a loose layer of crushed leaves, and plate C with crushed leaves only.",
@@ -753,8 +753,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Set out three identical plates, a tea strainer, a tumbler of soil and a bowl of crushed dry leaves. Show your child what goes on each plate. Write down their guess and their reason.",
-     "say": "We will pour pretend rain on three plates. Plate A will have only soil. Plate B will have soil with dry leaves on top. Plate C will have dry leaves and no soil. Which plate will send off the most water? Which will send off the muddiest water? Why do you think so?",
-     "kid": "Plate A has soil. Plate B has soil and leaves. Plate C has only leaves. Which sends off the muddiest water? Why do you think so?",
+     "say": "We will pour pretend rain on three plates. Which plate will send off the most water? Which will send off the muddiest water? Why do you think so?",
+     "kid": "Plate A has only soil. Plate B has soil with leaves on top. Plate C has only leaves. Make your guess.",
      "ask": [
       {
        "q": "Why do you think that plate will send off the most water?",
@@ -860,9 +860,9 @@
     {
      "id": "s6",
      "mins": 8,
-     "do": "Draw a bar chart. Put the three plates along the bottom and the runoff in rain 1 up the side. Ask your child to say what they thought, what they saw and why. Then ask what would change if the leaves were taken off plate B.",
+     "do": "Line up the three glasses from rain 1 side by side, like a bar chart. Ask your child to say what they thought, what they saw and why. Then ask what would change if the leaves were taken off plate B.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a bar for each plate. Say what you thought, what you saw, and why.",
+     "kid": "Line up the glasses, with the most runoff first. Say what you thought, what you saw, and why.",
      "think": "Plate C had leaves too. Why didn't leaves alone hold the water?",
      "parent": "A strong answer says that plate B kept more water, or sent out clearer water, than plate A, and that plate C let the water run off. After they have said what they saw, explain: leaves slow the drops and the flow, soak up some water, and protect the soil from the beating of the drops. The soil below soaks up the rest. Each needs the other. In a forest, roots, worms, termites and fungi also open tunnels and bind the soil. If plate B did not do better than plate A, say so. That is also a result.",
      "context": "This is the last step of the Forest Floor Test. You draw the chart and explain what you found."
@@ -914,8 +914,8 @@
     }
    ],
    "safety": "Keep the cups away from the edge of a sill or balcony so that they cannot fall. Mould can grow on damp leaves, so do not sniff the leaves. If your child has asthma or an allergy, an adult should check the cups. Wash your hands after touching soil or leaves.",
-   "record": "Each day, write the length of the pale, dry part of the stick in the table. On day 5, draw a line graph with one line for each cup.",
-   "context": "In this experiment, you cover soil in three different ways and check each day how dry it gets. You find out what a layer of leaves does for the water in soil.",
+   "record": "Each day, write the length of the pale, dry part of the stick in the table. On day 5, draw a line graph with one line for each cup, or read down the table and say which cup dried first.",
+   "context": "In this experiment, you cover soil in three different ways and check each day how dry it gets. You find out if a blanket of leaves keeps soil damp, the way straw does on a farm.",
    "setup": [
     {
      "art": "Three identical cups in a row, each filled with soil to 6 centimetres, labelled A, B and C.",
@@ -940,7 +940,7 @@
      "mins": 5,
      "do": "Show your child the three cups. Say that A will stay bare, B will get a thin cover of leaves and C will get a thick cover. Write down their guess and their reason.",
      "say": "We will keep three cups of damp soil in the sun for five days. One is bare. One has a thin blanket of leaves. One has a thick blanket. Which will dry out first? Which will stay damp longest? Why do you think so?",
-     "kid": "Cup A is bare. Cup B has a few leaves. Cup C has a thick layer of leaves. Which dries out first? Why?",
+     "kid": "Cup A is bare. Cup B has a few leaves. Cup C has a thick layer of leaves. Guess which dries out first.",
      "ask": [
       {
        "q": "Why do you think that cup will dry out first?",
@@ -959,7 +959,7 @@
      "mins": 12,
      "do": "In a bowl, mix all the soil with the 12 tablespoons of water until it is evenly damp, like a wrung-out cloth. Fill each cup with this soil to 6 centimetres. Leave cup A bare. Cover cup B with a layer of crushed leaves about 1 centimetre thick. Cover cup C with a layer about 3 centimetres thick. Put all three side by side in a sunny place. Do the first stick test.",
      "say": "All three cups have the same soil, the same water and the same sun. Only the covering is different. To test how dry the soil is, we push a stick to the bottom, pull it out and measure the pale part.",
-     "kid": "Fill the cups with soil. Add water. Cover B a little and C a lot. Put them in the sun.",
+     "kid": "Mix the soil with water. Fill the cups. Cover B a little and C a lot. Put them in the sun.",
      "parent": "To do a stick test, push a clean stick straight down to the bottom of the cup. Pull it out. Damp soil makes the stick dark and dry soil leaves it pale. Measure the pale part of the stick, from the soil line down to where it turns dark, in centimetres, and write it in the table. On day 1 it should be 0 for all the cups. Use a new stick for every reading, or wipe the stick dry. Push the stick in at a new spot near the edge each day, and lift the leaves aside rather than pulling them off. For a covered cup, measure the pale part from the soil surface under the leaves. Two to four children: each child looks after one cup, or two children share a cup and take turns to push and to measure. Alone, you do all three cups. If it rains a lot or the air is very damp, put the cups where the sun reaches, and out of the rain. If all three cups still stay dark after five days, write that down. It is a result. Carry on for five more days, or move the cups to a warmer, sunnier place, and see which cup begins to pale first. Dry weather gives clearer results than monsoon days.",
      "check": {
       "t": "mcq",
@@ -1007,9 +1007,9 @@
     {
      "id": "s6",
      "mins": 15,
-     "do": "Do the last stick test. Draw a line graph. Put the days along the bottom and the pale length up the side, with one line for each cup. Ask your child to say what they thought, what they saw and why.",
+     "do": "Do the last stick test. Draw a line graph, or read down the table. For a graph, put the days along the bottom and the pale length up the side, with one line for each cup. Ask your child to say what they thought, what they saw and why.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a line for each cup. Say what you thought, what you saw, and why.",
+     "kid": "Draw a line for each cup, or read the table. Say what you thought, what you saw, and why.",
      "think": "If the thick cover kept the soil damp, would a plant grow better under it? How could you test that?",
      "parent": "A strong answer says that the bare cup dried fastest, and that the thicker cover slowed the drying more. After they have said what they saw, explain: sun and wind turn the water in soil into vapour. Leaves shade the soil, keep the wind off and keep it cooler, so less water escapes. This is why farmers use mulch. If the bare cup did not dry fastest, say so, and look for what else was different between the cups.",
      "check": {
@@ -1081,7 +1081,7 @@
     }
    ],
    "safety": "A grown-up stays with you on a balcony or terrace. Never lean over the railing. Do not touch a wasp or bee nest, a spider or any creature you do not know.",
-   "record": "Write a list of at least eight living beings or signs of them. Then draw three arrows between pairs of them and write the link on each arrow.",
+   "record": "Write a list of at least eight living beings or signs of them. Then write three pairs of them and the link for each pair. You may draw an arrow between each pair.",
    "context": "In this activity, you go on a nature trail without leaving your spot. You find living beings and their signs, and work out the links between them.",
    "setup": [
     {
@@ -1111,9 +1111,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Look, listen and smell for ten minutes. Write down at least eight things. Include signs, such as a nibbled leaf, a feather, a web or a snail trail. Draw the one you like best.",
+     "do": "Look, listen and smell for ten minutes. Write down at least eight things. Include signs, such as a nibbled leaf, a feather, a web or a snail trail. Tell your grown-up which one you like best.",
      "say": "What do you see? What do you hear? Is anything moving? Is anything chewed, dropped, built or dug? Write it all down.",
-     "kid": "Look and listen. Write down everything alive, and every sign of life. Draw your favourite.",
+     "kid": "Look and listen. Write down everything alive, and every sign of life. Tell which one you like best.",
      "ask": [
       {
        "q": "Which things on your list are living beings, and which are signs?",
@@ -1130,9 +1130,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Choose three pairs from the list. For each pair, draw an arrow from the one who gives to the one who gains. Then write the link: food, shelter, making new plants, travel, clean-up or changing the place.",
-     "say": "Pick two things from your list. Does one of them need the other? What does she get? Draw an arrow, and name the link.",
-     "kid": "Pick two things. Draw an arrow from the giver to the one who gains. Name the link.",
+     "do": "Choose three pairs from the list. For each pair, say which one gives and which one gains. Then name the link: food, shelter, making new plants, travel, clean-up or changing the place. Write it down, with an arrow if you like.",
+     "say": "Pick two things from your list. Does one of them need the other? What does the other one get? Name the link.",
+     "kid": "Pick two things. Who gives and who gains? Name the link.",
      "check": {
       "t": "mcq",
       "q": "A crow sits on a wire and eats a fruit from a tree. Which link is this?",
@@ -1173,7 +1173,7 @@
     }
    ],
    "safety": "A grown-up comes with you. Do not climb the tree or shake her. Do not touch nests, hives or hairy caterpillars. Stay away from busy roads.",
-   "record": "Make a tally of the kinds of living beings and signs you find in five places: bark, leaves, flowers and fruit, the ground below, and the air around the tree. Then draw the tree with an arrow for each link.",
+   "record": "Make a tally of the kinds of living beings and signs you find in five places: bark, leaves, flowers and fruit, the ground below, and the air around the tree. Then write each visitor and the link, for example: a bee gets nectar from the flowers. You may draw the tree with arrows.",
    "context": "This activity is an extra, for families who have a tree nearby. You spend 25 minutes with one tree and find out how many kinds of lives and links depend on her.",
    "setup": [
     {
@@ -1203,9 +1203,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "Spend three minutes on each of the five boxes: bark, leaves, flowers and fruit, ground, and air. Make a mark or a drawing for every kind you find.",
+     "do": "Spend three minutes on each of the five boxes: bark, leaves, flowers and fruit, ground, and air. Make a tally mark or write a word for every kind you find.",
      "say": "What is on the bark? What is on the leaves? Who visits the flowers or fruit? What lies on the ground? What flies near her?",
-     "kid": "Look at each part of the tree for three minutes. Draw each kind you find in its box.",
+     "kid": "Look at each part of the tree for three minutes. Make a mark in its box for each kind you find.",
      "ask": [
       {
        "q": "Which part of the tree had the most different visitors?",
@@ -1222,9 +1222,9 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw the tree. Add an arrow for each visitor and write the link. Then ask your child what would be lost if the tree were cut.",
-     "say": "Draw an arrow for each visitor, and name the link. If this tree were cut down, who would lose something?",
-     "kid": "Draw the tree. Draw an arrow to each visitor. If the tree were cut down, who would lose something?",
+     "do": "For each visitor you found, ask your child what the visitor gets from the tree, and name the link. Then ask what would be lost if the tree were cut.",
+     "say": "What does each visitor get from the tree? Name the link. If this tree were cut down, who would lose something?",
+     "kid": "Say what each visitor gets from the tree. Then think about what the tree gives that nobody else can.",
      "think": "Does the tree need any of her visitors?",
      "parent": "Good answers name more than one loser: birds that nest, insects that eat the leaves, ants on the bark, the soil that the roots hold. Some visitors give back to the tree, such as the bee who carries pollen and the bird who carries seeds.",
      "context": "This is the last step of One Tree, Many Lives. You draw the web around one tree."
@@ -1259,7 +1259,7 @@
     },
     {
      "art": "A drawing of a neem leaf in a grain tin with an arrow to a small insect and a note saying keeps pests away.",
-     "caption": "3. Draw the rule and the link it shows."
+     "caption": "3. Tell the rule back and say which link it shows."
     }
    ],
    "flow": [
@@ -1294,9 +1294,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "Draw the rule and what it looks after. Ask: does it take only what grows back? Does it keep a link in the web, such as shelter, clean-up or food? Does science tell us why it works?",
+     "do": "Ask your child to tell the rule back in their own words. Then ask: does it take only what grows back? Does it keep a link in the web, such as shelter, clean-up or food? Does science tell us why it works?",
      "say": "Does this rule take only what grows back? Which link does it protect? Is there a reason that science can see?",
-     "kid": "Draw the rule. Does it take only what grows back? Which link does it protect?",
+     "kid": "Tell the rule in your own words. Which link does it protect?",
      "check": {
       "t": "mcq",
       "q": "A family puts dried neem leaves in the grain tin to keep insects out. What is the best way to test whether this works?",
@@ -1485,7 +1485,7 @@
     }
    ],
    "safety": "Do not eat the seeds or the sprouts from this plate, because the soil is not clean. Wash your hands after touching soil. Keep the plate away from the edge of a sill. Methi can upset a child who is allergic to it, so an adult decides if your child should handle it. Wash your hands after the rain test.",
-   "record": "Draw the root mat plate on day 1 and on day 7. For both plates, write the seconds to the first drop, the millilitres that ran off and how muddy the water was.",
+   "record": "Draw or take a photo of the root mat plate on day 1 and on day 7. For both plates, write the seconds to the first drop, the millilitres that ran off and how muddy the water was.",
    "context": "In this project, you grow a thin green mat of methi on a plate of soil for a week. Then you pour the same pretend rain on it as in the Forest Floor Test. You find out if living roots hold soil.",
    "setup": [
     {
@@ -1498,7 +1498,7 @@
     },
     {
      "art": "The root mat plate tilted on books with a glass under the low edge and a strainer pouring rain, next to the bare plate A.",
-     "caption": "3. On day 7, pour the same rain as before and compare with plate A."
+     "caption": "3. On day 7, pour the same rain as before and compare with the bare plate."
     }
    ],
    "flow": [
@@ -1525,9 +1525,9 @@
      "id": "s2",
      "mins": 3,
      "wait": "Come back each day, from day 2 to day 6.",
-     "do": "Sprinkle the same small amount of water on both plates. Look at the sprouts. On one day, measure the tallest one with a ruler. On another day, draw what you see.",
+     "do": "Sprinkle the same small amount of water on both plates. Look at the sprouts. On one day, measure the tallest one with a ruler. On another day, take a photo or tell your grown-up what you see.",
      "say": "What has changed since yesterday? Are the roots visible at the edge of the plate?",
-     "kid": "Sprinkle a little water. Look at the sprouts. Draw or measure them.",
+     "kid": "Sprinkle a little water. Look at the sprouts. Measure one, or tell what you see.",
      "parent": "Water for the last time on day 6, so the soil is damp but not wet on day 7.",
      "context": "These are days 2 to 6 of the Root Mat. You water the plate and watch it grow."
     },
@@ -1625,7 +1625,7 @@
      "mins": 5,
      "do": "Read the problem together. Talk about what makes soil wash away. Ask for two ideas for slowing the rain.",
      "say": "In the Forest Floor Test, leaves helped. What else might slow the rain down on a slope? Think of things from home.",
-     "kid": "Rain washes soil away. How can you slow it down? Think of two ideas.",
+     "kid": "Rain washes soil down a slope. Think of two things from home that could slow it.",
      "ask": [
       {
        "q": "What stops a stream of water from running fast?",

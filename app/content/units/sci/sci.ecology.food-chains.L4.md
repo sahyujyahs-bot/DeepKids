@@ -254,7 +254,7 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Child mode:* Cut out the cards. Shuffle them. A being's level is 1 plus the average level of her food.
   - Note: No printer? Write the 24 cards by hand on slips of paper. You only need 10 to play. With 3 or 4 players, the reader changes after every card.
 - **s2 (8 min)**  
-  *Parent does:* Play the first five cards. After each one, read the back aloud and check the working. Ask the question below after the third card.  
+  *Parent does:* Play the first five cards. After each one, read the back aloud and check the working. When the five are done, ask the question below.  
   *Parent says:* The reader reads the front. Everyone writes a guess. Show your slips. Now the reader turns the card and reads the working.  
   *Child mode:* Read a card. Write a guess. Show it. Check the back.
   - Ask: A level is not always a whole number. Why can a crow be at 2.5? (good: She eats food from two levels.; Half her food is level 1 and half is level 2.)
@@ -264,9 +264,9 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Child mode:* Play on. Take the average level of the foods. Add 1.
   - Check: A heron eats half fish at level 2.5 and half frogs at level 3. Which number is closest to her level? → **3.75**
 - **s4 (5 min)**  
-  *Parent does:* Play the last cards until you have played ten. Add up the points. Then ask the last question.  
+  *Parent does:* Play the last cards until you have played ten. Add up the points. Then ask your child to find the highest and the lowest card.  
   *Parent says:* Add up your points. Who scored the most? Now look at the cards again. Which animal was highest, and which was lowest?  
-  *Child mode:* Add your points. Which card gave the highest level? Which gave the lowest?
+  *Child mode:* Add your points. Then look through the cards for the highest and the lowest level.
   - Note: A tiger eats deer, who eat plants, so she is at 3. Sea animals often have more levels because the chain starts with tiny algae, and many small steps lie between algae and tuna. Do not worry if your child has not guessed this. It is a thing to wonder about.
   - Think: A tiger is only at level 3. Why do you think a hunter on land is often lower than a hunter in the sea?
 
@@ -281,7 +281,7 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
 - **s1 (5 min)**  
   *Parent does:* Show your child a peanut and a tin of water. Say what you will do. Ask for a guess and a reason, and write both down.  
   *Parent says:* We will burn a peanut under 100 millilitres of water. How many degrees will the water warm? Will a foil shield help? Why do you think so?  
-  *Child mode:* We will burn a peanut under a tin of water. How much will the water warm? Will foil help? Why?
+  *Child mode:* Look at the peanut and the tin. Guess how much the water will warm, and whether foil will help.
   - Ask: Why do you think the water will warm by that much? (good: The peanut is hot when it burns.; A flame heats water.; A peanut has a lot of energy inside.)
   - Note: With 2 to 4 children, everyone guesses first. Swap the jobs for each trial: the grown-up lights, one child times, one reads and stirs, one writes. All children work out the averages. Do not correct the guess. A guess with a reason is a good start. Most children guess 1 or 2 degrees, or 50. The real answer is somewhere between.
 - **s2 (8 min) · grown-up needed**  
@@ -313,13 +313,13 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
 - **predict:** Before you start, guess. Which tub will be warmest after a day? Will any tub be warmer than the room? Why do you think so?
 - **fair test:** All three tubs have the same size and the same lid. Tub A holds soaked, living moong. Tub B holds the same amount of moong that has been boiled, so the seeds are dead. Tub C is empty. All three sit side by side in one big cardboard box, wrapped in a towel. We read the same thermometer in each tub at the same times. Tub C shows what the room does to a tub with nothing alive in it. Tub B shows that heat does not come from the moong simply being there.
 - **safety:** A grown-up boils the moong and drains it. Hot water scalds. Do not eat any moong from this test, because it sits warm for a day. Keep the tubs away from toddlers, because moong seeds are small. Wash your hands after touching the seeds.
-- **record:** Write each temperature in the table. Draw a line graph with one line for each tub. Say which tub was warmest, and by how many degrees.
+- **record:** Write each temperature in the table. Draw a line graph with one line for each tub, or just read across the table. Say which tub was warmest, and by how many degrees.
 - **results table:** Time | Room (degrees) | Tub A: living moong (degrees) | Tub B: boiled moong (degrees) | Tub C: empty (degrees)
 - **schedule:** day 1: In the evening, soak the moong in plenty of water and leave it overnight. (10 min); day 2: In the morning, drain the moong, boil half, set up the three boxes, and read the first temperatures. Read again at noon and at evening. (35 min); day 3: Read the temperatures the next morning, about 24 hours after the start. Draw the graph and write what you think. (10 min)
 - **s1 (10 min)**  
   *Parent does:* On day 1, wash the moong. Put it in a bowl with plenty of water. Leave it overnight. Ask your child to guess the result and the reason, and write both down.  
   *Parent says:* We will soak these seeds tonight. Tomorrow we will look for heat. Will living seeds make any heat? Why do you think so?  
-  *Child mode:* Soak the moong in water tonight. Will living seeds make heat? Why do you think so?
+  *Child mode:* Soak the moong in water tonight. Then guess what you will find tomorrow.
   - Ask: Do you think a living seed makes heat? Why? (good: Yes, because all living things make heat.; No, because a seed is asleep.; I am not sure.)
   - Note: A seed is alive and resting. Water wakes it up, and it begins to respire to grow. Test the seeds first. Soak a spoonful in a cup. White tips should show in a day. If not, buy fresh whole moong. With 2 to 4 children, each guesses and draws a graph. They take turns to read the thermometer and write. Do not correct the guess.
   - Wait: Leave the moong in water overnight.
@@ -340,9 +340,9 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Child mode:* Read all four numbers again. Write them down. Close the lids.
   - Note: Keep the box in the coolest, shadiest room, away from the fan and the sun. In hot weather, tub B may warm too, and smell sour, as microbes grow. A rise of 1 or 2 degrees is typical, and it may be zero. A rise is real if the thermometer gave the same number in all three tubs at the start. Moong that is sprouting well will have small white tips by the evening. If A is no warmer than C, add more moong, use a smaller tub, or wrap the box with another towel.
 - **s5 (10 min)**  
-  *Parent does:* On day 3, read all four numbers again. Draw a line graph, one line for each tub. Ask your child to say what they thought, what they saw and why. Then throw the moong away.  
+  *Parent does:* On day 3, read all four numbers again. Draw a line graph with one line for each tub, or just write the numbers in rows. Ask your child to say what they thought, what they saw and why. Then throw the moong away.  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think it happened?  
-  *Child mode:* Draw a line for each tub. Say what you thought, what you saw and why.
+  *Child mode:* Draw a line for each tub, or read the numbers row by row. Say what you thought, what you saw and why.
   - Note: A strong answer says that tub A warmed more than B and C because the living seeds respire. After they have spoken, explain: respiration frees the energy in food, and some of it always turns into heat. Tub B may warm slightly after a day if microbes start to grow on the boiled moong. That is also respiration. If A is no warmer than C, say so. A small tub of seeds may not make enough heat to measure, and a larger heap would. A compost heap shows it clearly.
   - Check: Tub A is 2 degrees warmer than tub C. What does this show? → **Living seeds gave off heat as they respired.**
   - Think: A compost heap can get hot enough to steam. What do you think is happening inside it?
@@ -351,15 +351,15 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
 ### a1 · Pyramid Strips: numbers, weight and energy (25 min)
 - **record:** Glue your pyramids on one sheet. Under each, write one sentence about its shape.
 - **s1 (8 min)**  
-  *Parent does:* Read the numbers for a grass field out loud: 1000 grass plants, 100 grasshoppers, 10 frogs and 1 snake. Cut four paper strips, one for each level. Make each strip 1 centimetre wide for every 100 beings. So the grass strip is 10 centimetres wide and the grasshopper strip is 1 centimetre wide. The frogs and the snake are so thin that you can draw them as lines. Glue the strips one above the other, centred, to make a pyramid.  
-  *Parent says:* These are made-up numbers for a grass field. We will draw how wide each level is. The widest strip is the grass. The snake is just a line.  
+  *Parent does:* Read the numbers for a grass field out loud: 1000 grass plants, 100 grasshoppers, 10 frogs and 1 snake. Cut four paper strips, one for each level. Make each strip 1 centimetre wide for every 100 beings. So the grass strip is 10 centimetres wide and the grasshopper strip is 1 centimetre wide. The frogs and the snake are so thin that you can make them as thin lines. Glue the strips one above the other, centred, to make a pyramid.  
+  *Parent says:* These are made-up numbers for a grass field. We will show how many beings live at each level, using paper strips. The widest strip is the grass. The snake is just a line.  
   *Child mode:* Cut a wide strip for the grass. Make the grasshoppers narrower. Make the frogs and snake thin lines. Glue them in a pyramid.
   - Ask: What shape do you get? (good: A pyramid.; Wide at the bottom and narrow at the top.)
   - Note: With 2 to 4 children, each makes one pyramid, and you glue them on one big sheet. One child checks the widths with the ruler. The made-up numbers keep the sums easy. If cutting a 1 millimetre strip is hard, draw the thin levels with a pen.
 - **s2 (8 min)**  
-  *Parent does:* Now make a pyramid of numbers for a banyan tree. There is 1 tree, 1000 insects who eat her leaves, 20 birds who eat the insects, and 1 hawk. First sketch the shape you expect. Then use the same rule, 1 centimetre for every 100 beings. The tree is a line. The insect strip is 10 centimetres wide. Glue the strips one above the other and look at the shape.  
-  *Parent says:* Now we make a pyramid for a banyan tree. There is one tree, but 1000 insects live on her leaves. First sketch the shape you expect. Then make the strips. What shape do you get?  
-  *Child mode:* Make strips for one banyan tree. One tree is a line. Then 1000 insects, 20 birds and 1 hawk. What shape is it?
+  *Parent does:* Now make a pyramid of numbers for a banyan tree. There is 1 tree, 1000 insects who eat her leaves, 20 birds who eat the insects, and 1 hawk. First say what shape you expect. Then use the same rule, 1 centimetre for every 100 beings. The tree is a line. The insect strip is 10 centimetres wide. Glue the strips one above the other and look at the shape.  
+  *Parent says:* Now we make a pyramid for a banyan tree. There is one tree, but 1000 insects live on her leaves. First say what shape you expect. Then make the strips and look.  
+  *Child mode:* Make strips for one banyan tree. One tree is a line. Then 1000 insects, 20 birds and 1 hawk. Look at the shape you get.
   - Note: The shape is thin, wide, thin, thinner. This is correct. Counting the number of beings makes the tree look unimportant, even though she feeds everyone.
   - Check: The banyan pyramid of numbers is wide in the middle. What does that tell us? → **One big producer can feed very many small animals.**
 - **s3 (9 min)**  
@@ -370,32 +370,32 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   - Note: The weight pyramid is narrow at the very bottom, because the algae are eaten as quickly as they grow. The energy pyramid is wide at the bottom, because the algae make far more food each year than any other level. The numbers are made up to show the pattern.
 ### a2 · Who lives in the dead leaves? A funnel trap for tiny animals (40 min)
 - **safety:** A grown-up cuts the bottle. The bulb gets hot, so keep it 15 centimetres above the soil (10 for an LED) and away from the plastic. Do not touch it. Stay in the room while it is on. Centipedes can bite, so lift nothing with your fingers. Use a spoon or paper strip. Wash your hands after touching soil or compost. Do not touch any animals with your bare hands.
-- **record:** Draw the animals you find, and write how many you counted and what each might eat.
+- **record:** Draw the animals you find, or take a photo of them. Write how many kinds you counted and what each might eat.
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* A grown-up cuts the top third off the bottle. Turn the top upside down and stand it in a jar. Put the net inside. Add the leaf litter. Ask your child to guess what will fall into the jar and why.  
   *Parent says:* We will see who lives in the dead leaves. A lamp will warm the leaves and dry them from the top. What do you think will fall into the jar? Why?  
   *Child mode:* Make a funnel with the bottle top. Put the leaves in. What will fall into the jar? Why?
   - Note: The best litter is damp, brown and crumbly, from under a tree, from a compost pot or from a kitchen compost bin. Fresh potting mix often has almost nothing alive. If your soil is dry, spray a little water on it. With 2 to 4 children, make one funnel each with a different litter, such as under a tree, a compost pot and dry soil. The animals are tiny, so use the magnifying glass.
 - **s2 (5 min)**  
-  *Parent does:* Put the lamp 15 centimetres above the leaves and switch it on. Set a timer for 1 hour. Do not move the funnel. Let your child draw what they think they will see.  
+  *Parent does:* Put the lamp 15 centimetres above the leaves and switch it on. Set a timer for 1 hour. Do not move the funnel.  
   *Parent says:* Turn the lamp on. The animals dislike the dry heat, so they crawl down and fall into the jar. We wait one hour.  
   *Child mode:* Switch the lamp on. Wait 1 hour. Do not touch the funnel.
   - Note: Keep the lamp away from anything that burns. A paper towel under the jar is fine. If you see nothing, wait another hour. A big catch needs 2 hours.
   - Wait: Wait 1 hour.
 - **s3 (15 min)**  
-  *Parent does:* Put a little of what fell into the jar on the white plate. Look with the magnifying glass. Count how many kinds you see. Draw two. Say what each one might be eating.  
-  *Parent says:* Look at the plate. Count the kinds of animals. Draw two of them. What might each one eat?  
-  *Child mode:* Tip the jar on to the plate. Look with the magnifying glass. Count the kinds. Draw two.
+  *Parent does:* Put a little of what fell into the jar on the white plate. Look with the magnifying glass. Count how many kinds you see. Point to two and say what each one might be eating.  
+  *Parent says:* Look at the plate. Count the kinds of animals. Point to two of them. What might each one eat?  
+  *Child mode:* Tip the jar on to the plate. Look with the magnifying glass. Count the kinds. Point to two and say what they might eat.
   - Ask: Which of these animals eats leaves, and which eats other animals? (good: The ones with small mouths eat leaves or fungus.; The fast ones with big jaws eat other animals.)
   - Note: You may find springtails, which are tiny and jump, mites, small pale worms, tiny beetles, centipedes and ants. Many are detritivores. A fast-moving one with big jaws, like a centipede, is probably a hunter. If almost nothing fell, that is a result too. Count each funnel on its own and compare. Try compost or leaf litter from outside.
   - Check: Why do the animals fall down into the jar? → **The lamp dries the top of the leaves, so they move away from the heat and dryness.**
   - Think: Which litter gave the most animals? Why do you think so?
 ### a3 · The Level of My Lunch (20 min)
-- **record:** Draw your lunch with an arrow from each food to the being it came from. Write the level number next to each food.
+- **record:** Write the level number next to each food on your list. Then take a photo of your lunch, or draw it with an arrow from each food to the being it came from.
 - **s1 (7 min)**  
   *Parent does:* Look at a lunch plate, yours or one from a photograph. List each food. For each, write what living being it came from. Rice came from a rice plant. Curd came from a cow. A fish fry came from a fish.  
   *Parent says:* Look at the food on your plate. Write each food on a list. Next to it, write the living being it came from.  
-  *Child mode:* List the foods on your plate. Next to each, write the living being it came from.
+  *Child mode:* Name each food on your plate. Say which living being it came from, and write it on a list.
   - Note: A plain vegetarian plate is fine. Its level will be low, and the method is the point. Use real foods from your own lunch. A thali with rice, sambar, a vegetable, curd and an egg or fish is a good example.
 - **s2 (8 min)**  
   *Parent does:* Write a level for each food. Plants are level 1. A cow eats grass, so she is level 2, and so are milk and curd. A hen eats grain and insects, and she is about 2.25, so an egg is 2.25. A sardine is about 2.5, so a fish fry is 2.5.  
@@ -406,18 +406,18 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
 - **s3 (5 min)**  
   *Parent does:* First guess your own level. Then add the level numbers of all the foods. Divide by the number of foods. This is the average level of your food. Add 1. That is your level for this lunch. Compare it with your family's.  
   *Parent says:* Add up the numbers. Divide by how many foods there are. Add 1. That is your level for this lunch.  
-  *Child mode:* Add the numbers. Divide by how many foods. Add 1. That is your level.
+  *Child mode:* Guess your level first. Then add the numbers, divide by how many foods, and add 1.
   - Note: For a lunch of rice 1, sambar 1, curd 2 and fish fry 2.5, the sum is 6.5. Dividing by 4 gives 1.6, and adding 1 gives 2.6. This treats every food as an equal share. A real plate has more rice than curd, so your true level is a little lower. With 2 to 4 children, each works out one plate and you compare. Most people land between 2 and 3. Scientists estimate that people around the world average about 2.2.
   - Think: If you swapped the fish fry for a vegetable, what would your level be?
 
 ## Projects
 ### p1 · A Day of Food, Traced Back to the Sun (80 min, 3 days)
-- **record:** Write the pie chart numbers and your family's average level. Write one sentence about what surprised you.
+- **record:** Write how many foods are in each pile and your family's average level. Write one sentence about what surprised you.
 - **schedule:** day 1: Write down everything your family eats in one day, from breakfast to dinner. Note the amount in spoons or pieces. (20 min); day 2: Find the being that each food came from. Give each food a level, using the Level Detective cards. Work out your family's average level. (35 min); day 3: Draw the poster: a pie chart of foods by level, and one chain from the Sun to your favourite meal, with a small red arrow of heat leaving each step. (25 min)
 - **s1 (20 min)**  
   *Parent does:* On day 1, list every food your family eats. Write each food and a rough amount, such as 3 spoons or 2 pieces. Add drinks like milk and buttermilk. Ask your child to guess how many foods come from plants.  
   *Parent says:* Today we write down everything we eat. Next to each food, write how much. How many foods will come from plants? Why?  
-  *Child mode:* Write every food we eat today. How many come from plants? Guess.
+  *Child mode:* Write every food we eat today and how much. Then guess how many come from plants.
   - Note: With 2 to 4 children, each notes one meal as it is eaten. Include oil, sugar and salt. Oil comes from seeds, sugar from cane or beet, and salt from the sea or mines, which is neither plant nor animal. Mark it 'not a living being'.
 - **s2 (35 min)**  
   *Parent does:* On day 2, next to each food, write the being it came from. Write its level, using the Level Detective cards. Skip salt. Count how many foods are at level 1, at level 2 and above. Add the levels and divide by the number of foods. Add 1.  
@@ -425,9 +425,9 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Child mode:* Trace each food. Write its level. Count how many foods are at each level.
   - Note: Rice, wheat, dal, vegetables, fruit and oil are level 1. Milk, curd and ghee are level 2. Eggs are 2.25, and so is chicken. Small sea fish are about 2.5. A bigger fish such as a tuna is 4. Salt does not count. A count of foods treats a pinch of ghee like a bowl of rice. For a fairer answer, count each food once for every spoon or piece. Then work out the average again.
 - **s3 (25 min)**  
-  *Parent does:* On day 3, draw a pie chart of the foods by level. Use three colours: level 1, level 2, and above 2. Then draw one chain from the Sun to a favourite meal. Put a small red arrow of heat leaving each step.  
-  *Parent says:* Draw a pie chart of your foods by level. Then draw one chain from the Sun to your favourite meal. At each step, draw a little red arrow for heat leaving.  
-  *Child mode:* Draw a pie chart. Then draw a chain from the Sun to your favourite meal. Add red heat arrows.
+  *Parent does:* On day 3, sort the foods into three piles: level 1, level 2, and above 2. Count each pile. Then show one chain from the Sun to a favourite meal. Draw it with a small red arrow of heat leaving each step, or tell it out loud.  
+  *Parent says:* Sort your foods into piles by level, and count each pile. Then show one chain from the Sun to your favourite meal. Draw it, or tell it out loud. Show heat leaving at each step.  
+  *Child mode:* Sort the foods into piles by level. Count each pile. Then show a chain from the Sun to your favourite meal.
   - Think: What is the level of your whole family's food? What would change it most?
 
 ## Challenges
@@ -443,7 +443,7 @@ And she tied a fresh bag to the stake, to see what the new leaves would bring.
   *Child mode:* We have 12 fields and 80 people. Rice feeds 8 for each field. What mix will work?
   - Ask: Why not grow only rice? (good: Rice alone would not meet the rule for milk, fish or eggs.; People need more than rice.; It would feed 96, but nobody would get milk.)
 - **s2 (17 min)**  
-  *Parent does:* Try three plans. For each, write the number of rice, grass and fish fields. Work out the people-months from rice, fish, grass and straw. Check that the total is at least 80, and at least 8 come from animals.  
+  *Parent does:* Try three plans. For each, write the number of rice, grass and fish fields. Work out the people-months from rice, fish, grass and straw. A people-month is one person fed for one month. Check that the total is at least 80, and at least 8 come from animals.  
   *Parent says:* Try three plans. Add up the people-months. Does each plan feed 80? Do 8 come from milk or fish?  
   *Child mode:* Try three plans. Add up the people-months. Check each rule.
   - Note: The best plans keep 9 or 10 rice fields, with 1 or 2 grass fields and one pond if there are enough fields. The straw makes the cows worth keeping, because they turn something people cannot eat into milk. Help your child with the straw rule, which is the hard part.

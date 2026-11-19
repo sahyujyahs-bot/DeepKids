@@ -248,8 +248,8 @@ The bus stand was built beside the school instead. And every evening I still sit
   - Note: Remind your child of the four fates in one sentence each. Bounce is like a mirror. Soaked up is like black cloth. Scattered is like paper or milk. Passes on is like clean glass. The mats have these written on them.
 - **s2 (4 min)**  
   *Parent does:* Take the practice card. Read the front out loud. Ask your child to choose a mat and say why. Then read the back. Put the card on its mat. Nobody wins a token.  
-  *Parent says:* Let's practise. Sunlight falls on a clean glass window. Where does most of the light go? Why do you think so?  
-  *Child mode:* Practice card. Sunlight falls on a clean window. Where does most of the light go?
+  *Parent says:* Let's practise with one card. Sunlight falls on a clean glass window. Choose a mat, and tell us why.  
+  *Child mode:* Read the practice card. Choose a mat and say why.
   - Check: Sunlight falls on a clean glass window. Where does most of the light go? → **It passes on through the glass**
 - **s3 (10 min)**  
   *Parent does:* Play the main part. Take turns being the reader. Everyone else puts a token on a mat, face down. Turn them over, give reasons, and read the back. Give tokens as the rules say.  
@@ -260,7 +260,7 @@ The bus stand was built beside the school instead. And every evening I still sit
 - **s4 (5 min)**  
   *Parent does:* When a TEST IT card comes up, stop and do the test together. Everyone guesses first. Then try it, and choose the mat.  
   *Parent says:* A TEST IT card. Before we try it, everyone say what you think will happen and why. Then we look.  
-  *Child mode:* A TEST IT card. First guess what will happen. Why? Then try it.
+  *Child mode:* Guess first. Then do the test and choose the mat.
   - Ask: The sugar powder is white, but the lump of candy is clear. What changed? (good: The powder has many surfaces that scatter the light.; Light zigzags through the tiny crystals and comes out in all directions.; Nothing about the sugar changed, only how it is broken up.)
   - Think: On one TEST IT card, a drop of cooking oil made the patch of sugar powder look darker. What did the oil do to the many surfaces of the grains?
 - **s5 (2 min)**  
@@ -275,18 +275,18 @@ The bus stand was built beside the school instead. And every evening I still sit
 - **predict:** Before you start, guess. In which liquid will the marble be hardest to see: water, oil or honey? Which will be easiest? Why do you think so?
 - **fair test:** You use the same marble, the same size of clear drinking glass, the same printed page behind and the same light every time. You look from the same place. Only the liquid changes. You judge each liquid twice, using the same five-point scale, because one look can be a fluke.
 - **safety:** Keep marbles away from children under five, who may put them in their mouths. Do not eat the oil or honey used in the test, and do not give honey to a child under one year old. Work over a tray, because oil makes floors slippery. Wash the marble and glasses with warm water and washing-up liquid afterwards.
-- **record:** Fill in the table. Then draw the marble in each of the four glasses, as it looked. Last, write what you think, what you saw, and why.
+- **record:** Fill in the table. Then line up the four glasses from hardest to easiest to see, and take a photo or tell a grown-up the order. Last, write what you think, what you saw, and why.
 - **results table:** What the marble is in | How easy is it to see? (5 = very easy, 1 = nearly vanished) | Can you still see its edge, or a faint ring? | Can you read the printed letters through it?
 - **s1 (5 min)**  
   *Parent does:* Show your child the marble, the glasses and the three liquids. Ask for a guess about which liquid will hide the marble best, and why. Write the guess at the top of the table.  
   *Parent says:* We have a clear marble and three clear liquids: water, oil and honey. In which one will the marble be hardest to see? Which will be easiest? Why do you think so?  
-  *Child mode:* A clear marble in three clear liquids. Where is it hardest to see? Why?
+  *Child mode:* Guess which liquid will hide the clear marble best.
   - Ask: Why do you think the marble might be hard to see in one liquid? (good: The liquid is thick and covers it.; The liquid is clear too, so they blend together.; The liquid is the same kind of see-through as the marble.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write down both. Many children guess honey because it is thick, and some guess water because it is the clearest.
 - **s2 (8 min)**  
   *Parent does:* Set the tray on a table in front of a bright window. Stand the printed page upright behind the tray. Fill one glass with water, one with oil and one with honey, each to about the same height. Leave the fourth glass empty. Put a label on each of the four glasses.  
   *Parent says:* Pour the water into the first glass, the oil into the second, and the honey into the third. Leave the fourth empty. That one is the air test. Stand them in a row, in front of the page.  
-  *Child mode:* Fill three glasses with water, oil and honey. Leave one empty. Put the page behind.
+  *Child mode:* Fill three glasses with water, oil and honey. Leave one empty. Stand the page with letters behind them.
   - Note: Honey is slow to pour. A grown-up can warm the jar in a bowl of warm water for a few minutes, not hot, if it will not flow. Fill all glasses to the same height, about three quarters full. Do the test near a window, so the light is the same for every glass. One child alone does all four glasses. With two to four children, each child pours and scores one liquid, then everyone looks at every glass and scores alone before comparing. Scores will differ by a point or two, and that is fine.
 - **s3 (8 min)**  
   *Parent does:* Put the marble into the empty glass. Look from the side, at the height of the marble, and score how easy it is to see. Try to read the letters through it. Then lower the marble gently, on a spoon, into the water. Look again, score it, and write down what you see.  
@@ -300,12 +300,12 @@ The bus stand was built beside the school instead. And every evening I still sit
   - Ask: In which liquid was the marble hardest to see? What do you notice about the edge? (good: In honey. I could hardly see the edge.; In honey, there was only a faint ring left.; The honey and the glass seem to bend light the same way.)
   - Note: What to expect: in oil the marble is much fainter than in water. In honey it almost vanishes, leaving a faint ring, and perhaps a few bubbles or scratches that stay visible. Cheap marbles are made of slightly different glass, so the result varies. If the marble does not nearly vanish, look for a plain one with no swirl. Always let the bubbles in the honey rise before you look. This can take a few minutes, so stir gently, not fast. Honey brands differ, and honey that has been thinned with sugar syrup hides the marble less well. Even if the marble only fades a lot, the order of air, water, oil, honey is the result that matters. If it does not fade at all, the marble is probably tinted or not glass, so try another.
 - **s5 (5 min)**  
-  *Parent does:* Fill in the table with your scores. Draw the marble in the four glasses. Compare with your guess.  
+  *Parent does:* Fill in the table with your scores. Line the four glasses up, from the one where the marble was hardest to see to the one where it was easiest. Compare with your guess.  
   *Parent says:* Look at your table. In which liquid was the marble hardest to see? In which was it easiest? Was your guess right?  
-  *Child mode:* Fill in the table. Draw the marble in each glass. Was your guess right?
+  *Child mode:* Fill in the table. Line up the glasses, hardest to see first. Was your guess right?
   - Check: The marble almost vanished in honey. What does this tell you about how we see the marble in the air? → **We see it because light bends and bounces at its edge, where glass meets air**
 - **s6 (4 min)**  
-  *Parent does:* Ask your child to say what they think, what they saw and why. Write it under the drawing.  
+  *Parent does:* Ask your child to say what they think, what they saw and why. Write it under the table.  
   *Parent says:* Tell me three things. What did you think at the start? What did you see? Why do you think it happened?  
   *Child mode:* Say what you thought, what you saw, and why it happened.
   - Ask: What do you think (your claim), what did you see (your evidence), and why did it happen (your reasoning)? (good: The marble is hardest to see in honey. In honey I could hardly see its edge. Honey and glass bend light about the same, so there is no bend to see.; We see clear things by how they bend light at the edge. If nothing bends, we cannot see them.; The marble did not change. Only the liquid around it did.)
@@ -316,12 +316,12 @@ The bus stand was built beside the school instead. And every evening I still sit
 - **predict:** Before you start, guess. If you look through two sunglass lenses at a bright window, and turn one lens a quarter turn, what will you see? Will it get brighter, darker or stay the same? Why do you think so?
 - **fair test:** You use the same bright window, the same two lenses and the same distance each time. Only the angle between the two lenses changes. You look at each angle twice and score the brightness out of five, because one look can be a fluke.
 - **safety:** Never look at the Sun through the lenses. Do not use the sunglasses to look at the Sun at all. Hold the lenses by the frame and give borrowed ones back unscratched.
-- **record:** Fill in the table. Then draw two lenses with their gates, one with upright lines and one with sideways lines, and show a wiggle of light going through the first and being stopped by the second. Last, write what you think, what you saw, and why.
+- **record:** Fill in the table. Then show two lenses with their gates, one upright and one sideways, using two pencils or your hands. Tell a grown-up how a wiggle of light goes through the first and is stopped by the second. Last, write what you think, what you saw, and why.
 - **results table:** How the two lenses are turned | How bright is the window? (5 = bright, 1 = nearly black) | Can you still see through?
 - **s1 (5 min)**  
   *Parent does:* Show your child the sunglasses and the window. Ask for a guess about what will happen when two lenses are crossed. Write the guess at the top of the table.  
   *Parent says:* We have two sunglass lenses. Each one is see-through. If I hold one in front of the other, and turn one, what will you see? Brighter, darker or the same? Why do you think so?  
-  *Child mode:* Two see-through lenses. Turn one. Will the window get darker? Why?
+  *Child mode:* Guess. Turn one lens. Will the window get darker, brighter or stay the same?
   - Ask: Why do you think turning a lens might change the brightness? (good: The lens might only let light through one way.; Turning it changes how much light gets through.; It will not change, because the lens is the same.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (6 min)**  
@@ -334,7 +334,7 @@ The bus stand was built beside the school instead. And every evening I still sit
 - **s3 (10 min)**  
   *Parent does:* Hold the two lenses together, one behind the other, in front of the bright window, with their arms pointing the same way. Look through both. Score how bright the window is. Now turn one lens slowly. Stop when it is halfway to a quarter turn, and again at the full quarter turn. Score the brightness each time. Write the scores in the table.  
   *Parent says:* Hold both lenses together, arms the same way. How bright is the window? Now turn one lens a little. Then a quarter turn. What happens to the brightness?  
-  *Child mode:* Hold both lenses up to the window. Turn one slowly. Watch it go dark.
+  *Child mode:* Hold both lenses up to the window. Turn one slowly. Watch the brightness.
   - Ask: What did the two lenses do together, when one was turned a quarter turn? (good: They made the window nearly black.; The window went dark, even though each lens is see-through.; When they were turned, they blocked the light.)
   - Note: With the lenses lined up, the window looks dim but clear, like looking through very dark sunglasses. At a quarter turn, the window goes very dark, typically almost black, perhaps with a purple or blue tint (cheap or curved lenses leave a little light). Halfway between, it is somewhere in the middle. With one child, hold one lens in each hand. With two to four children, one holds the fixed lens, one turns the other and calls out the angle, and one scores the brightness. Swap roles for each angle so everyone scores. Each child's own scores count. If you turn one lens all the way round, the window goes bright, dark, bright and dark: twice bright and twice dark.
   - Check: Two lenses that are each see-through gave darkness when one was turned a quarter turn. Why? → **The first lens lets through only up-and-down wiggles, and the second lets through only side-to-side wiggles, so nothing is left**
@@ -346,11 +346,11 @@ The bus stand was built beside the school instead. And every evening I still sit
   - Note: Optional. This step needs a third lens, such as the other lens from the second pair. Two pairs of sunglasses give four lenses, so a third is easy to find. Skip this step if you only have two lenses. It works best when the third lens is turned halfway between the two crossed ones. The middle lens lets through only the wiggles that run along its own direction. That direction is slanted compared with both of the other lenses. So the last lens can now pass a part of the light. The light that comes back is dim but clear against the dark, so hold the lenses up to a very bright window and be patient.
   - Think: Adding a third see-through lens made the dark window brighter. What does that say about how the filters work?
 - **s5 (3 min)**  
-  *Parent does:* Fill in the table with your scores. Draw the gates. Compare with the guess from the start.  
+  *Parent does:* Fill in the table with your scores. Use two pencils to show the two gates, one upright and one sideways. Show how a wiggle of light gets through the first and is stopped by the second. Compare with the guess from the start.  
   *Parent says:* Look at your table. When was the window brightest? When was it darkest? Was your guess right?  
-  *Child mode:* Fill in the table. Draw the two gates. Was your guess right?
+  *Child mode:* Fill in the table. Show the two gates with two pencils. Was your guess right?
 - **s6 (3 min)**  
-  *Parent does:* Ask your child to say what they think, what they saw and why. Write it under the drawing.  
+  *Parent does:* Ask your child to say what they think, what they saw and why. Write it under the table.  
   *Parent says:* Tell me three things. What did you think at the start? What did you see? Why do you think it happened?  
   *Child mode:* Say what you thought, what you saw, and why it happened.
   - Ask: What do you think (your claim), what did you see (your evidence), and why did it happen (your reasoning)? (good: Two see-through lenses made darkness when one was turned. Each lens lets through light that wiggles one way, so crossed lenses let nothing through.; The window was dark when the lenses were crossed and dim when they were lined up. Light has a wiggle direction, and a filter works like a gate.; A lens can be see-through for one kind of light and opaque for another.)
@@ -360,29 +360,29 @@ The bus stand was built beside the school instead. And every evening I still sit
 ## Activities
 ### a1 · Clear Candy, White Powder (20 min)
 - **safety:** Wrap the candy in a cloth or put it in a zip bag before crushing, so no sharp bits fly. Do the crushing on a firm table, with a grown-up nearby, and keep fingers away from the rolling pin. Do not give hard candy to children under five. Do not eat the crushed candy that has had oil on it.
-- **record:** A drawing of a lump of candy and a heap of powder side by side, with a ray of light zigzagging through each. A sentence on why the powder looks white. A sentence on what the oil did.
+- **record:** A photo of the lump, the dry powder and the oiled powder side by side. A sentence on why the powder looks white. A sentence on what the oil did.
 - **s1 (5 min)**  
   *Parent does:* Hold up a lump of the candy to a window or a torch. Describe it. Ask your child what colour the candy would be if it was ground to powder. Write down the guess and the reason.  
   *Parent says:* Look at this lump of sugar candy. Is it clear or white? Hold it to the light. What do you think will happen if we crush it into powder? Why do you think so?  
-  *Child mode:* Look at the candy. Is it clear? What will powder look like? Why?
+  *Child mode:* Hold the candy up to the light. Guess what colour the powder will be.
   - Ask: What colour do you think the powder will be? Why do you think so? (good: White, because sugar powder is white.; Clear, because the pieces are clear.; It will be white, because lots of small pieces do something to the light.)
   - Note: Do not correct the guess. Many children say clear, and many say white. Both are good guesses to test.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* Put two lumps of candy in the zip bag, and close it. Lay the bag on a firm table, with a cloth over it. Roll or tap a rolling pin firmly over the bag until the candy is a fine powder. Kalkandu is hard, so this takes a few minutes. The base of a heavy steel tumbler or a pestle also works. Children take turns, with the grown-up holding the bag. Pour a pinch of the powder onto the white plate, and another pinch onto the black plate. Put a whole lump next to each.  
   *Parent says:* Put the candy in the bag. Roll the pin over it until it is powder. Now tip a pinch onto each plate. Which looks clear, and which looks white?  
-  *Child mode:* Put the candy in a bag. Roll it flat. Tip a pinch onto each plate.
+  *Child mode:* Crush the candy in the bag until it is powder. Tip a pinch onto each plate.
   - Note: A grown-up should help with the rolling pin. Crush until most of the candy is a fine powder. On the black plate, the powder will look strikingly white, while the lump looks clear or yellowish. Hold the plates in sunlight or under a bright light.
   - Check: The lump of candy is clear, but the powder is white. What changed? → **Crushing made many tiny surfaces that scatter light in every direction**
 - **s3 (5 min)**  
   *Parent does:* Spread a thin, even layer of powder over the printed word on the paper. Can you still read the word? Now put 2 or 3 drops of cooking oil on half of the layer and spread them with the spoon. Watch what happens to the white. Can you read the word under the oiled half and not under the dry half? Shine the torch from the side, and look at both halves. Each child can try a heap of their own on a black plate.  
-  *Parent says:* Put a few drops of oil on the powder. What happens to the white? Is the oiled patch lighter or darker? Which one lets you see the plate?  
-  *Child mode:* Put a few drops of oil on the powder. What happens to the white?
+  *Parent says:* Put a few drops of oil on the powder. What happens to the white? Is the oiled patch lighter or darker? Which half lets you see the word?  
+  *Child mode:* Put oil on half of the powder. Can you read the word under it?
   - Ask: Why do you think the oil made the white powder look darker? (good: The oil fills the gaps between the grains, so the light bends less and goes through.; The oil makes the sugar more see-through.; The oil does what the honey did to the marble. It bends light almost the same as the sugar does.)
   - Note: The oiled patch looks darker and a bit see-through, because oil bends light by an amount much closer to sugar than air does. If nothing seems to happen, use more oil and spread it until the grains are wet all through, because a single drop only wets a small spot. The change is clear but not complete, because oil and sugar do not match exactly. This is the same idea as the marble in honey in the Vanishing Glass experiment.
 - **s4 (3 min)**  
-  *Parent does:* Draw the lump and the heap of powder side by side. Draw the light zigzagging in the powder. Write a sentence on why the powder is white, and why oil made it darker.  
-  *Parent says:* Draw the lump and the powder. Show the light zigzagging through the powder. Then write why the powder is white, and why the oil changed it.  
-  *Child mode:* Draw a lump and a heap. Draw a zigzag of light in the heap.
+  *Parent does:* Set the lump, the dry powder and the oiled powder side by side. Take a photo of them. Tell a grown-up why the powder is white, and why the oil changed it.  
+  *Parent says:* Look at the lump, the dry powder and the oiled powder together. Tell me why the powder is white, and why the oil changed it.  
+  *Child mode:* Line up the lump, the dry powder and the oiled powder. Say why they look different.
   - Think: Snow is made of clear ice crystals, and looks white. When snow melts, it looks clear. Why?
 ### a2 · Ten Light Balls: act out the four fates (20 min)
 - **safety:** Use soft balls or socks only, and throw gently, below chest height and never at faces. Use a foil card for the mirror, never real glass. Clear the room of things that can break.
@@ -391,7 +391,7 @@ The bus stand was built beside the school instead. And every evening I still sit
   *Parent does:* Choose roles. One person is the Sun and throws ten balls. Others are the materials: a mirror, a black cloth, a frosted pane and a window. Explain what each material does with a ball. Practise once.  
   *Parent says:* I will throw ten balls of light. The mirror throws every ball back. The black cloth catches every ball and keeps it. The frosted pane throws each ball in a random direction. The window lets balls past, but bounces one back.  
   *Child mode:* One person throws the balls. The others are a mirror, a black cloth, a frosted pane and a window.
-  - Ask: What do you think will happen to light when it meets each of these? (good: The mirror sends it back, and the black cloth soaks it up.; The frosted pane will send it everywhere.; The window will let most through.)
+  - Ask: Which material will let the most balls through? Which will let none? (good: The mirror sends it back, and the black cloth soaks it up.; The frosted pane will send it everywhere.; The window will let most through.)
   - Note: Two people are enough: your child throws and you play each material in turn, then swap. With three or four children, one throws, one counts and writes, and the others are the materials. Everyone swaps after each material. The mirror may catch the ball and throw it back at the Sun. The player who is the frosted pane turns round and throws the ball in a random direction.
 - **s2 (8 min)**  
   *Parent does:* Throw ten balls at each material in turn. Count how many bounced back, how many were kept, how many were thrown about in random directions and how many passed through. Write them in the table. For the window, let nine balls past and bounce one back.  
@@ -400,7 +400,7 @@ The bus stand was built beside the school instead. And every evening I still sit
   - Check: For each material, the numbers in the table add up to ten. Why? → **Every ball must go somewhere, so the four shares add up to all ten**
 - **s3 (7 min)**  
   *Parent does:* Now a player acts as a dark sunglass lens that passes half the light. This player catches every second ball and lets the others go past. Put two of these lenses in a row (use two players, or one player who stands in two places). Throw 16 balls at the first lens. Count how many get through. Then throw only those balls at the second lens. Count again. Write the numbers. Try three and four lenses in a row.  
-  *Parent says:* Put two sunglass lenses in a row. Sixteen balls hit the first. Every second ball gets through, so eight get past. Now those eight hit the second lens. How many get through? Half of eight is four.  
+  *Parent says:* Put two sunglass lenses in a row. Sixteen balls hit the first. Every second ball gets through. How many get past the first lens? Now those balls hit the second lens. How many get through that one?  
   *Child mode:* Two lenses in a row. Count how many balls get through both.
   - Ask: Does the second lens take away the same number of balls as the first, or the same share of what reached it? (good: The same share. The first took 8 and the second took only 4.; Each lens lets through half of what comes in.; Each lens takes the same share, not the same number.)
   - Note: The point is that each lens passes the same share, not the same number. 16 balls become 8, then 4, then 2, then 1. If you want a clear window instead, nine tenths is hard to act out with whole balls: 10 becomes 9, then about 8, then about 7. Put a bowl on the far side to collect the balls that get through, so they are easy to count. The pattern is exact only because you follow the rule, so tell your child that this is pretend light.
@@ -429,34 +429,34 @@ The bus stand was built beside the school instead. And every evening I still sit
 - **s4 (4 min)**  
   *Parent does:* Fill in the table of the three ways. Tick the ones that worked. Write one sentence on how each works.  
   *Parent says:* Which ways worked? For each, tell me what it changes about the light.  
-  *Child mode:* Which ways found the marble? Why did they work?
+  *Child mode:* Tick the ways that found the marble.
   - Ask: What did each of the three ways change about what the light was doing? (good: The torch changed the light so the edge caught it.; The stripes showed where the light bent.; The lens showed the direction of the light's wiggle.)
 
 ## Projects
 ### p1 · Tape Stained Glass: colours from clear tape (45 min)
 - **safety:** A grown-up helps with the scissors. Look at the screen only for short spells, in a dim room, and rest your eyes. Do not stick tape on the screen.
-- **record:** A drawing of your design, with the number of layers of tape in each part. A note on which number of layers gave which colour. A sentence on what happens when you turn the lens.
+- **record:** A drawing or photo of your design, with the number of layers of tape in each part. A note on which number of layers gave which colour. A sentence on what happens when you turn the lens.
 - **s1 (5 min)**  
   *Parent does:* Show your child the clear plastic and the tape. Ask what colour the tape will make, if anything. Write down the guess and the reason.  
   *Parent says:* We will stick clear tape on clear plastic. It is all see-through. Do you think it will make any colour? Why do you think so?  
-  *Child mode:* Clear tape on clear plastic. Will it make any colour? Why?
+  *Child mode:* Guess. Will clear tape on clear plastic make any colour?
   - Ask: Why do you think clear things might make colours? (good: They will not, because they are clear.; Maybe the tape bends the light.; Maybe layers make colours, like soap bubbles.)
   - Note: Do not correct the guess. Most people say there will be no colour at all, which is a good prediction to test.
 - **s2 (10 min)**  
-  *Parent does:* Draw a simple design on paper, such as a flower with five petals and a leaf. Plan how many layers of tape will go in each part. Use one layer for some parts, two for others, three for others and four for the rest. Write the plan on the paper.  
-  *Parent says:* Draw a flower or a pattern. In each part, decide how many layers of tape. One layer here, two layers there, three, four. Write the numbers on your plan.  
-  *Child mode:* Draw a flower. Plan 1, 2, 3 or 4 layers of tape for each part.
+  *Parent does:* Make a simple design on paper, such as a flower with five petals and a leaf. Draw it, or cut the shapes from paper. Plan how many layers of tape will go in each part. Use one layer for some parts, two for others, three for others and four for the rest. Write the plan on the paper.  
+  *Parent says:* Make a flower or a pattern. In each part, decide how many layers of tape. One layer here, two layers there, three, four. Write the numbers on your plan.  
+  *Child mode:* Make a flower, drawn or cut from paper. Plan 1, 2, 3 or 4 layers of tape for each part.
   - Note: Different numbers of layers give different colours. Keep each piece of tape lying flat, with no bubbles. Put a small number on each part of your plan so you can match colours to layers later.
 - **s3 (15 min) · grown-up needed**  
   *Parent does:* A grown-up helps to cut strips of tape about 3 centimetres long. Stick the strips onto the plastic, in layers, following your plan. Lay each layer across the one below, not in line with it. Press out the bubbles. Stick the first layer for every part, then the second layers, and so on.  
-  *Parent says:* Stick the first layer of tape for every part. Then the second layer on the parts that need two. Then the third. Press out bubbles. Lay each new strip across the one below. Clear tape is made of stretched plastic. That stretching can twist the wiggle direction of light going through it, and each layer twists it a bit more.  
+  *Parent says:* Stick the first layer of tape for every part. Then the second layer on the parts that need two. Then the third. Press out bubbles. Lay each new strip across the one below.  
   *Child mode:* Cut strips of tape. Stick them on the plastic in layers. Press out bubbles.
   - Note: The tape does not need to cover the whole sheet. A flower shape in the middle looks best. Cross each layer over the last at a slant, because colours are stronger when the layers lie in different directions. Plain clear tape gives more colour than matt tape. Ordinary cello tape from a stationery shop works; brown or masking tape does not. Each child can make their own small flower, and several children can share one screen and one lens by taking turns.
   - Check: Before we look through the polarising lens, the taped picture just looks clear. What will the lens show? → **It will show colours that depend on the number of layers**
 - **s4 (10 min)**  
   *Parent does:* Lay the plastic on the white screen in a dim room. Look at it through the polarising lens. Turn the lens slowly all the way round. Note the colours of each part. Match them to the number of layers. Write them on your plan.  
   *Parent says:* Put your picture on the screen. Look at it through the lens. What colours do you see? Turn the lens. Do the colours change? Which number of layers gave which colour?  
-  *Child mode:* Lay your picture on the screen. Look through the lens. Turn it. What colours?
+  *Child mode:* Look through the lens and turn it. Watch the colours.
   - Ask: Why does turning the lens change the colours? (good: The lens lets through light that wiggles in one direction only, so turning it picks different colours.; The tape turns the wiggle by different amounts for different colours.; Different layers turn the light by different amounts.)
   - Note: If you see no colours, check that the screen is polarising by turning the lens and seeing that the screen goes dark at one angle. Some phone screens do not work for this. Use a laptop or tablet screen if you can. Turn the plastic sheet itself on the screen too, because the colours are strongest when the tape lies at a slant, about halfway between the screen's dark and bright angles. One layer may look only pale grey or cream, and more layers give stronger colours, so if you see nothing, try five or six layers. If the bare plastic sheet itself shows colour, that is stress in the plastic, so compare it with the taped part. Without a polarising lens and screen, you can ask an adult to put the picture in a sunny window and view it through a pair of polarising sunglasses.
   - Think: The tape is clear and shows no colour by itself. Where do the colours come from?
@@ -469,7 +469,7 @@ The bus stand was built beside the school instead. And every evening I still sit
 ### c1 · Vanish the Marble: make a liquid that hides it best (40 min)
 - **problem:** A clear glass marble almost vanishes in honey. Cooking oil hides it a lot, and water hardly at all. How close can you get with a cheap sugar syrup? Can a syrup beat oil, or even match honey?
 - **safety:** A grown-up does all the warming of water, and handles anything hot. Syrup that has just been made can scald, so it must be cool before a child touches it. Keep marbles away from children under five. Do not give honey to a child under one year old.
-- **your turn:** Sketch your plan. Make your syrups, and test each one with the marble. Score each out of five. Which liquid hid the marble best? Did a thicker syrup always hide it better? Why do you think so?
+- **your turn:** Write down your plan. Make your syrups, and test each one with the marble. Score each out of five. Which liquid hid the marble best? Did a thicker syrup always hide it better? Why do you think so?
 - **constraints:** Use only things from the kitchen: water, sugar, cooking oil and honey. No chemicals.; A grown-up does any warming of water. The syrup must be cool before the marble goes in.; Use the same marble and the same jar for every test.; You must judge each liquid by looking from the side and scoring how easy the marble is to see, out of five.
 - **general:** A thin sugar syrup, half a cup of sugar to half a cup of water.; A thick sugar syrup, as much sugar as dissolves in a small cup of warm water, then cooled. A syrup this thick usually bends light a little less than oil and honey do, so expect it to come second or third.; Plain honey, which is the standard to beat. Honey and oil are typically close to each other.
 - **creative:** Make three syrups of different thickness and line them up, from thin to thick, to see the marble fade as the syrup gets thicker.; Mix a little warm water into honey, a spoonful at a time, and see whether the marble reappears.; Test other clear things, such as a clear plastic bead or a piece of clear plastic, in the best syrup.
@@ -491,7 +491,7 @@ The bus stand was built beside the school instead. And every evening I still sit
 - **s4 (8 min)**  
   *Parent does:* Compare your scores. Rank the liquids from best to worst at hiding the marble. Write down what you found, and what you would try next.  
   *Parent says:* Which liquid hid the marble best? Did the thick syrup match the honey? What would you try next?  
-  *Child mode:* Which liquid hid the marble best? What would you try next?
+  *Child mode:* Rank the liquids from best to worst. Decide what to try next.
   - Ask: Which liquid hid the marble best, and why do you think so? (good: Honey, because it bends light about the same as glass.; The thickest syrup, because more sugar makes water bend light more.; The ones that were thicker were better, but there seems to be a limit.)
   - Note: Typically, honey and oil hide the marble best, then the thick syrup, then the thin syrup, then water. The thick syrup will probably not match honey, and that is a real result, not a failure. Thicker is better up to a point, but a syrup cannot bend light more than the sugar allows. If the marble still shows clearly in all of them, the scores will be close, so look at the edge and the print behind it, not only at the marble. If your results differ, ask what could differ about the jars or the light.
   - Think: Why do you think a thick syrup cannot beat honey?

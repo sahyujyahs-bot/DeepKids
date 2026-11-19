@@ -272,7 +272,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **s2 (8 min)**  
   *Parent does:* Play the first eight cards. After each card, ask the player to say the dew point and whether the glass is colder or warmer.  
   *Parent says:* Read the card. Find the dew point. Is the glass colder or warmer? Say MIST or NO MIST. Then we check.  
-  *Child mode:* Read the card. Find the dew point. Is the glass colder or warmer? Say MIST or NO MIST.
+  *Child mode:* Read the card. Say MIST or NO MIST.
   - Ask: How did you decide? (good: I found the dew point and compared it with the glass.; The glass was colder than the dew point.; The glass was warmer, so no mist.)
 - **s3 (6 min)**  
   *Parent does:* Play the next eight cards, with a bonus card after the fourth and eighth cards.  
@@ -292,24 +292,24 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **predict:** Before you start, guess. Which liquid will dry first? Which will be last, or never? Will the fastest one feel colder on your hand? Why do you think so?
 - **fair test:** Every liquid gets a thin streak of the same size on the same plate, in the same room, at the same time. You use a clean stick for each liquid. Only the liquid changes, so any difference in drying comes from the liquid.
 - **safety:** Hand sanitiser catches fire easily. Keep it well away from the stove, candles and diyas, and put it away when you finish. A grown-up pours it and puts it on the plate. Do not use it on cut skin, and keep it away from the eyes. Do not taste any of the liquids. Use a hand sanitiser that is a thin liquid or spray if you can. A thick gel leaves a film and dries slower.
-- **record:** Fill in the table, a row for each liquid. Draw the plate at the start and at the end, with the streaks. Then write what you think, what you saw, and why.
+- **record:** Fill in the table, a row for each liquid. Take a photo of the plate at the start and at the end, or draw it. Then write what you think, what you saw, and why.
 - **results table:** Liquid | My guess for the order (1 is first) | Minutes until it looked dry | What was left behind
 - **s1 (5 min)**  
   *Parent does:* Show your child the plate and the six cups. Ask for a guess about the order and a reason. Write the guesses in the table.  
   *Parent says:* Here are six liquids. We will smear a thin streak of each on this plate. Which will dry first? Which will be last? Why do you think so?  
-  *Child mode:* Here are six liquids. Which will dry first? Which will dry last? Why do you think so?
+  *Child mode:* Look at the six liquids. Guess which will dry first and which will dry last.
   - Ask: Why do you think that one will dry first? (good: It smells strong, so it must be escaping fast.; Water dries because it is thin.; Oil will not dry because it is thick.)
   - Note: Do not correct the guesses. Many children guess that oil dries fastest because it is thin and runny, or that the sugar syrup dries first because sugar dissolves. Write the guesses at the top of the table.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Dip a stick into the water. 2. Wipe the extra water off on the rim of the cup. 3. Smear a thin streak, about a finger long and a finger wide, on the plate. 4. Do the same for each liquid with its own stick, in its own place. 5. A grown-up does the sanitiser. 6. Start the timer after the last streak.  
-  *Parent says:* Wipe the extra off the stick, so the streak is thin. Make every streak the same size. Draw where each liquid is on your paper. Start the timer when the last streak is done.  
+  *Parent does:* 1. Dip a stick into the water. 2. Wipe the extra water off on the rim of the cup. 3. Smear a thin streak, about a finger long and a finger wide, on the plate. 4. Do the same for each liquid with its own stick, in its own place. 5. A grown-up smears the sanitiser. 6. Start the timer after the last streak.  
+  *Parent says:* Wipe the extra off the stick, so the streak is thin. Make every streak the same size. Write each liquid's name on your paper, in the same place as its streak. Start the timer when the last streak is done.  
   *Child mode:* Dip a stick. Wipe off the extra. Smear a thin streak. Do all six. Start the timer.
   - Note: A thin streak matters. A puddle takes far longer to dry than a thin film. Keep the streaks at least three centimetres apart. Put the plate where it will not be touched, away from a fan or a window draught. With 2 to 4 children: one child smears and one times, or each child smears three liquids on the shared plate and keeps their own results table. Everyone scores the skin test on their own hand. With one child, the parent holds the timer and the sanitiser.
   - Check: Why does each liquid get its own clean stick and the same size of streak? → **So only the liquid changes**
 - **s3 (8 min) · grown-up needed**  
   *Parent does:* 1. Put a drop of plain water on the back of your hand and spread it to the size of a coin. 2. Wait ten seconds. 3. Score how cold it feels, from 0 to 5. 4. Wipe dry and wait one minute. 5. A grown-up puts a drop of sanitiser on the same place. 6. Score again.  
-  *Parent says:* Put a drop of water on the back of your hand. How cold does it feel, from 0 to 5? Now a grown-up puts a drop of sanitiser on the same place. How cold does that feel? Which left first?  
-  *Child mode:* Put a drop of water on your hand. Score how cold it feels. Try sanitiser. Score again.
+  *Parent says:* Put a drop of water on the back of your hand. How cold does it feel, from 0 to 5? Now a grown-up puts a drop of sanitiser on the same place. How cold does that feel? Which felt colder?  
+  *Child mode:* Put a drop of water on your hand. Score how cold it feels. A grown-up puts sanitiser on the same spot. Score again.
   - Note: Skip the sanitiser if your child's skin is cut or sore. Expect the sanitiser to dry in a few seconds and feel much colder than the water. Blowing gently across each drop makes the cool feeling stronger.
 - **s4 (12 min)**  
   *Parent does:* 1. Look at the plate every two minutes for twenty minutes. 2. Look from the side, at eye level. 3. Write down the minute when each streak first looks dry, with no shine. 4. If a streak is still shiny at the end, write 'still wet'.  
@@ -324,7 +324,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **s6 (7 min)**  
   *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
+  *Child mode:* Think about what you saw. Then say why you think it happened.
   - Note: These three things are a claim, the evidence for it, and the reasoning. A strong answer: What I think: liquids leave at very different speeds, and the faster one feels colder. What I saw: sanitiser dried first and felt coldest, water took minutes, and oil stayed. Why: the particles of some liquids hold each other loosely so they escape easily, and the escaping particles take heat from the skin. Do not explain it yourself before they have answered.
   - Check: Sanitiser dried in seconds and felt colder than water on the skin. What is the best explanation? → **Its particles escape faster, and the escaping particles carry heat from the skin**
 ### e2 · Thirsty Things: which kitchen things pull water out of the air? (40 min)
@@ -332,13 +332,13 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **predict:** Before you start, guess. Which of the six things will get damp in a humid box? Which will stay dry? Why do you think so?
 - **fair test:** Each thing gets the same amount, in the same kind of saucer, in the same box for the same time. A control saucer of salt stays outside the box in a closed jar. Only the thing changes, so any difference comes from the thing.
 - **safety:** A grown-up pours the hot water and puts the bowl in the box. Steam can scald, so open the lid away from your face. Use water that is very hot, not furiously boiling, if the box is thin plastic. Do not eat the tested things afterwards. Wash your hands afterwards.
-- **record:** Fill in the table. Draw the six saucers at the end. Then write what you think, what you saw, and why.
+- **record:** Fill in the table. Take a photo of the six saucers at the end, or draw them. Then write what you think, what you saw, and why.
 - **results table:** Thing | My guess | What it looked and felt like after the wait | Did it pull water from the air?
 - **s1 (5 min)**  
   *Parent does:* Show your child the six things. Ask for a guess about each one, and a reason. Write the guesses.  
   *Parent says:* Here are six things. We will put them in a very damp box. Which will get damp? Which will stay dry? Why do you think so?  
-  *Child mode:* Six things go into a damp box. Which will get damp? Which will stay dry? Why?
-  - Ask: Why do you think salt will get wet, when it is not cold? (good: Water in the air sticks to it.; Salt likes water.; It will not get wet, because it is not cold.)
+  *Child mode:* Look at the six things. Guess which will get damp.
+  - Ask: Which things do you think will get damp, and why? (good: Water in the air sticks to it.; Salt likes water.; It will not get wet, because it is not cold.)
   - Note: Do not correct the guesses. Many children say that nothing will get wet, because nothing is cold. Write the guesses.
 - **s2 (8 min)**  
   *Parent does:* 1. Put one level teaspoon of each thing in its own saucer. 2. Label each saucer with a paper slip. 3. Put one level teaspoon of salt in a saucer inside the closed jar. 4. If you have a scale, weigh each saucer and write the number.  
@@ -364,7 +364,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **s6 (7 min)**  
   *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
+  *Child mode:* Think about what you saw. Then say why you think it happened.
   - Note: A strong answer: What I think: some things pull water out of damp air even when they are not cold. What I saw: the salt and jaggery got damp in the box, while the control salt stayed dry. Why: they hold on to water so strongly that water vapour lands on them and stays. Do not explain it yourself before they have answered.
   - Check: The salt in the humid box got damp, but the salt in the closed jar stayed dry. What does this show? → **The salt pulled water out of the damp air**
 ### e3 · Lid On or Lid Off: how much water leaves a boiling pan? (45 min)
@@ -372,12 +372,12 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **predict:** Before you start, guess. Which pan will lose more water? How much more? Will the water in the pan with the lid boil hotter or not? Why do you think so?
 - **fair test:** Both pans start with the same amount of water at the same warmth. They are heated on the same flame and boil for the same time. Only the lid changes, so any difference comes from the lid.
 - **safety:** A grown-up does all the cooking. Steam and the lid can burn badly. Tie back long hair and loose dupattas, and keep children at arm's length from the stove. Lift the lid away from your face with oven gloves or tongs. A grown-up pours the water into the jug only once the pan is cool enough to touch with a bare hand, which can take 30 minutes. Then the child reads the level on the jug.
-- **record:** Fill in the table. Draw the underside of the lid after boiling. Then write what you think, what you saw, and why.
+- **record:** Fill in the table. Take a photo of the underside of the lid after boiling, or draw it. Then write what you think, what you saw, and why.
 - **results table:** Pan | Water at the start (millilitres) | Water left after ten minutes of boiling (millilitres) | Water lost (millilitres)
 - **s1 (5 min)**  
   *Parent does:* Show your child the two pans, the lid and the jug. Ask for a guess and a reason. Write the guess.  
   *Parent says:* We will boil two pans of water for ten minutes. One has a lid and one does not. Which will lose more water? Why do you think so?  
-  *Child mode:* Two pans. One has a lid. Which loses more water? Why do you think so?
+  *Child mode:* Look at the two pans. Guess which loses more water.
   - Ask: Where do you think the missing water goes? (good: Into the air as steam.; It disappears.; It sticks to the lid.)
   - Note: Do not correct the guess. Most children say the open pan loses more. Some say the pan with a lid will boil hotter. Write the guess and the reason.
 - **s2 (6 min) · grown-up needed**  
@@ -394,7 +394,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **s4 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up lifts the lid away from your face with oven gloves. 2. Look at the underside of the lid. 3. Look at the sides of the covered pan. 4. Ask your child what the drops are.  
   *Parent says:* Look at the underside of the lid. What do you see? Where did those drops come from? What do you think they were a minute ago?  
-  *Child mode:* Look under the lid. What do you see? Where did the drops come from?
+  *Child mode:* Look under the lid and find the drops.
   - Note: The drops are condensed water vapour. The vapour hit the cooler lid, turned back into liquid, and ran back into the pan. The open pan has no lid to do this.
 - **s5 (13 min)**  
   *Parent does:* 1. Wait 20 to 30 minutes, until a grown-up finds the pans cool enough to touch with a bare hand. 2. A grown-up pours the water from the open pan into the jug. 3. Read the level at eye height and write it. 4. Do the same with the covered pan. 5. Work out how much each lost.  
@@ -404,38 +404,38 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **s6 (5 min)**  
   *Parent does:* Ask your child to say or write three things. What I think. What I saw. Why I think it happened.  
   *Parent says:* Tell me three things. What do you think now? What did you see that shows it? And why do you think it happened?  
-  *Child mode:* Say three things: what you think, what you saw, and why you think it happened.
+  *Child mode:* Think about what you saw. Then say why you think it happened.
   - Note: A strong answer: What I think: a lid keeps almost all the water in the pan. What I saw: the open pan lost about ninety millilitres and the covered pan about ten, and there were drops under the lid. Why: the vapour meets the cooler lid, turns back to liquid and drips back. Do not explain it yourself before they have answered.
   - Check: The covered pan lost far less water than the open pan. What does this show? → **Vapour met the cooler lid, turned back into drops and fell into the pan**
 
 ## Activities
 ### a1 · Fridge Fog: watch a cloud fall out of the freezer (12 min)
 - **safety:** A grown-up opens and holds the freezer door. Keep fingers away from the door edge. Do not put your head inside. Close the door after the activity so the food does not warm up.
-- **record:** Draw the open freezer and the fog. Show which way the fog moved. Write one sentence saying what you think the fog is.
+- **record:** Write one sentence saying which way the fog moved and what you think it is. You can draw it too.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* 1. Stand a metre from the fridge. 2. Ask your child to guess what will happen when the freezer door opens. 3. A grown-up opens the door fully and holds it open for twenty seconds.  
-  *Parent says:* I will open the freezer door and hold it for twenty seconds. Watch what comes out. Which way does it move? What do you think it is?  
-  *Child mode:* A grown-up opens the freezer. Watch for twenty seconds. What comes out? Which way does it go?
+  *Parent says:* I will open the freezer door and hold it for twenty seconds. Watch what comes out. Which way does it move?  
+  *Child mode:* A grown-up opens the freezer. Watch the doorway for twenty seconds.
   - Ask: What do you think the white stuff is? (good: Cold air.; Smoke.; Tiny drops of water.)
   - Note: Do not say what it is. On a humid day, you will see a white fog flow out and fall down towards the floor. On a very dry day, it may be thin or invisible. If you see nothing, try again after a hot bath has run, or on a rainy day.
 - **s2 (4 min)**  
   *Parent does:* 1. Keep the door open. 2. Shine the torch sideways across the doorway. 3. Watch the fog in the beam. 4. Close the door after twenty seconds.  
   *Parent says:* The torch beam shows the fog more clearly. Which way does it flow, up or down? Why do you think so?  
-  *Child mode:* Shine the torch across the doorway. Which way does the fog go? Up or down?
+  *Child mode:* Shine the torch across the doorway and watch the fog.
   - Note: The fog flows down and out along the bottom of the doorway, because cold air is heavier than warm air. It is a cloud of tiny drops of water, formed when warm room air met the freezer air and cooled below its dew point.
 - **s3 (4 min) · grown-up needed**  
   *Parent does:* 1. A grown-up opens the door again. 2. Breathe out slowly into the cold space. 3. Watch your breath. 4. Close the door.  
   *Parent says:* Breathe out slowly into the freezer. What do you see? Where do you think the water in your breath came from?  
-  *Child mode:* Breathe out into the freezer. What do you see? Where did the cloud come from?
+  *Child mode:* Breathe out into the freezer and watch your breath.
   - Note: Your breath carries water vapour from inside you. The cold air cools it below its dew point, and a white cloud of tiny drops appears. It is the same thing that happens on a cold morning when you can see your breath. The breath cloud works even when the fog does not, so the activity never fails. For 2 to 4 children: one child holds the torch and one watches the direction of the fog, then swap and repeat.
   - Check: A white fog pours out of a freezer on a humid day. What is the fog? → **Tiny drops of water that formed when damp warm air met the cold air**
 ### a2 · Feel the Heat Leave: the back of a fridge and an air conditioner (12 min)
 - **safety:** A grown-up checks that the back is safe to reach. Do not pull a heavy fridge away from the wall. Do not touch the coils or any fan. Hold the back of your hand a few centimetres away from the surface, not on it. Do not climb to reach an outdoor air conditioner.
-- **record:** Draw the fridge and mark the cool places in blue and the warm places in red. Write one sentence saying where you think the heat from inside goes.
+- **record:** Write the warmth scores for the front, side and back. Write one sentence saying where you think the heat from inside goes.
 - **s1 (4 min)**  
   *Parent does:* 1. Ask your child where the heat taken out of the food goes. 2. Let them feel the cold near the inside of the fridge.  
-  *Parent says:* A fridge makes the inside cold. But heat does not just disappear. Where do you think the heat from the food goes? Why do you think so?  
-  *Child mode:* A fridge makes the inside cold. Where does the heat go? Why do you think so?
+  *Parent says:* A fridge makes the inside cold. But heat does not just disappear.  
+  *Child mode:* Feel the cold air near the inside of the fridge.
   - Ask: Where do you think the heat from inside the fridge goes? (good: Out of the back.; Into the kitchen.; It disappears.)
   - Note: Do not correct the guess. Many children think the heat just disappears.
 - **s2 (5 min) · grown-up needed**  
@@ -446,11 +446,11 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **s3 (3 min) · grown-up needed**  
   *Parent does:* If your home has an air conditioner, a grown-up shows your child the outdoor box. Your child feels the air from it with the back of the hand, from a safe distance.  
   *Parent says:* The air conditioner makes your room cool. Feel the air from the box outside. Is it warm or cool? Where did that heat come from?  
-  *Child mode:* Feel the air from the box outside. Is it warm or cool? Where did the heat come from?
+  *Child mode:* Feel the air from the box outside with the back of your hand.
   - Note: The outdoor box blows warm air, because it gives out the heat taken from the room, plus the heat of the motor. A fridge works the same way on a smaller scale.
   - Check: Why is the back of a running fridge warm? → **The fridge moves heat from the inside to the back, where it is given out to the room**
 ### a3 · Predict the Sweat: will a glass mist today? (25 min)
-- **record:** Write the air temperature and dew point. Draw a table with three glasses: tap water, fridge water and ice water. Write your prediction, the result, and the glass temperature if you can measure it.
+- **record:** Write the air temperature and dew point. Make a table with a row for each glass: tap water, fridge water and ice water. Write your prediction, the result, and the glass temperature if you can measure it.
 - **s1 (6 min)**  
   *Parent does:* 1. Open the weather app. 2. Find the air temperature and the dew point. If the app shows only humidity, use the dew point chart from the game. 3. Write them both down.  
   *Parent says:* Find the air temperature and the dew point. The dew point is the temperature at which the air is full of water vapour. A glass colder than it gets mist. Write both numbers.  
@@ -459,7 +459,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **s2 (5 min)**  
   *Parent does:* 1. Fill one tumbler with tap water. 2. Fill one with fridge water. 3. Fill one with water and plenty of ice cubes. 4. Ask your child to predict which will mist and which will stay dry, comparing each water's warmth with the dew point.  
   *Parent says:* Tap water is about as warm as the room. Fridge water is much colder. Ice water is colder still. Compare each one with the dew point. Which will mist? Why do you think so?  
-  *Child mode:* Guess which glasses will mist. Compare each with the dew point. Why?
+  *Child mode:* Compare the water in each glass with the dew point. Guess which glasses will mist.
   - Ask: Which glass do you think will mist, and which will stay dry? (good: The ice water will mist.; The tap water will stay dry because it is warmer than the dew point.; The fridge glass will mist if it is colder than the dew point.)
   - Note: Do not correct the guesses. Tap water in summer is usually 25 to 30 degrees, which may be above or below the dew point on a humid day. Fridge water is often about 8 to 10 degrees. Ice water is nearly 0.
 - **s3 (8 min)**  
@@ -470,11 +470,11 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
   - Check: The dew point is 23 degrees. Which glass of water will mist? → **Water at 15 degrees**
 ### a4 · Flat-Bottomed Clouds: how high is the bottom of a cloud? (20 min)
 - **safety:** Never look straight at the Sun. A grown-up stays with the child on a balcony or roof and keeps away from the edge.
-- **record:** Write the temperature, the dew point and your cloud base height. Draw the sky with the flat-bottomed clouds.
+- **record:** Write the temperature, the dew point and your cloud base height. Take a photo of the sky with the flat-bottomed clouds, or draw it.
 - **s1 (6 min)**  
   *Parent does:* 1. On a warm afternoon, look at the sky. 2. Look for small clouds with flat dark bottoms. 3. Ask your child why the bottoms might be flat and at the same height.  
-  *Parent says:* Look at the clouds. Their bottoms are flat and all at the same height. Why do you think that is?  
-  *Child mode:* Look at the clouds. Their bottoms are flat. Why do you think that is?
+  *Parent says:* Look at the clouds. Their bottoms are flat and all at the same height. Can you point to one?  
+  *Child mode:* Look at the clouds. Look at the bottoms of them.
   - Ask: Why do you think the bottoms are flat and at the same height? (good: Something happens at one height.; The air is the same at that height.; I do not know.)
   - Note: Do not correct the guess. If the sky is clear or overcast, skip to the next step, where you work out the height. Flat bottoms are easiest to see on a sunny afternoon with small, separate clouds.
 - **s2 (8 min)**  
@@ -483,14 +483,14 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
   *Child mode:* Take the dew point away from the temperature. Then multiply by 125. That is about the height of the cloud bottoms, in metres.
   - Note: For 32 degrees and a dew point of 22, 32 take away 22 is 10, and 10 times 125 is 1250 metres. This is a rule of thumb for clouds made by warm air rising on a sunny day. It gives an estimate, not an exact height.
 - **s3 (6 min)**  
-  *Parent does:* 1. Talk about the answer. 2. A 30-floor building is about 100 metres tall. How many of them would you stack to reach the cloud bottom? 3. Explain why the bottoms are flat. 4. Do the sum again early next morning. Compare. Which gives lower cloud bottoms? Why?  
+  *Parent does:* 1. Talk about the answer. 2. A 30-floor building is about 100 metres tall. How many of them would you stack to reach the cloud bottom? 3. Ask why the bottoms are flat. 4. Do the sum again early next morning. Compare. Which gives lower cloud bottoms? Why?  
   *Parent says:* A 30-floor building is about 100 metres. How many would you stack to reach the cloud bottoms? Why are the bottoms flat? What happens to rising air as it climbs?  
-  *Child mode:* How many tall buildings would reach the cloud? Why are the bottoms flat?
+  *Child mode:* Work out how many tall buildings would reach the cloud bottoms.
   - Note: Warm air rises and cools as it climbs. At the height where it has cooled to its dew point, its vapour condenses into drops, and a cloud begins. Every rising bubble of air cools to its dew point at about the same height, so the bottoms are flat. The early-morning sum is usually smaller because the air is closer to its dew point. For 2 to 4 children: each works out the sum alone and the answers are compared. On cloudy or rainy days the rule does not fit, so use it only on a sunny afternoon with small clouds.
   - Check: Why do fair-weather clouds have flat bottoms at the same height? → **Rising air has cooled to its dew point at that height, so drops begin to form there**
 ### a5 · The Vanishing Kapoor: a solid that evaporates (25 min, 7 days)
 - **safety:** Camphor is poisonous if swallowed, and it catches fire easily. A grown-up puts the tablets out of reach of little children and keeps them away from flames. Do not sniff the tablets or the open jar closely, and keep them away from anyone with asthma. Do not burn camphor indoors without a grown-up. Wash your hands after touching it. Only a grown-up opens the jar. Keep the saucer away from the pooja diya. Do not use edible camphor for this.
-- **record:** Draw the outlines on day 1, day 4 and day 7 for each tablet. Write the width in millimetres each time. Write what you saw on the inside wall of the jar.
+- **record:** Write the width of each tablet in millimetres on day 1, day 4 and day 7. Keep the outlines, or take a photo each time. Write what you saw on the inside wall of the jar.
 - **schedule:** day 1: Draw the outline of each tablet, smell them, and put one in the open and one in the closed jar. (10 min); day 4: Compare the size of both tablets with the outlines. (5 min); day 7: Measure again, look inside the jar, and say what happened. (10 min)
 - **s1 (10 min) · grown-up needed**  
   *Parent does:* 1. Place each tablet on the paper and draw around it. 2. Measure the width and write it down. 3. Smell both from a distance. 4. Put one tablet on an open saucer on a shelf. 5. Put the other in the jar and close the lid. 6. Ask your child to predict what will happen to each.  
@@ -507,7 +507,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **s3 (10 min)**  
   *Parent does:* 1. Measure both tablets again. 2. Look at the inside wall and lid of the jar. 3. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* Measure both tablets again. Look at the inside of the jar. What do you see? What do you think happened to the tablet in the open? Where did it go?  
-  *Child mode:* Measure both tablets. Look inside the jar. What happened? Where did the camphor go?
+  *Child mode:* Measure both tablets. Look at the inside of the jar.
   - Note: The open tablet should be clearly smaller, because camphor turns straight into a gas, which spreads through the room. In the jar, the gas cannot get away, so it settles again on the cool glass as tiny white crystals. This is a solid turning to gas and back, with no liquid in between.
   - Check: A camphor tablet in the open gets smaller and leaves no puddle. What has happened to the camphor? → **It has turned straight into a gas and spread through the air**
   - Wait: Come back on day 7
@@ -519,9 +519,9 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **schedule:** day 1: Fill both jars to 60 millimetres, cover them, and put one in the sun and one in the shade. (20 min); day 2: Measure the depth in each jar at the same time as day 1, and write the weather. (5 min); day 3: Measure the depth in each jar and write the weather. (5 min); day 4: Measure the depth in each jar and write the weather. (5 min); day 5: Measure the depth in each jar and write the weather. (5 min); day 6: Measure the depth in each jar and write the weather. (5 min); day 7: Measure, then draw the line graph and say what you found. (25 min)
 - **s1 (20 min)**  
   *Parent does:* 1. Pour water into each jar until it is 60 millimetres deep. 2. Tie a cloth over the mouth of each jar with a rubber band. 3. Put one jar on a sunny ledge under a roof, so rain cannot fall in. 4. Put the other in a shady room. 5. Ask your child to predict how much each jar will lose.  
-  *Parent says:* We will measure the water in two jars every day for a week. One is in the sun and one in the shade. How many millimetres will each lose in a day? Which will lose more? Why do you think so?  
-  *Child mode:* Fill two jars to 60 millimetres. Cover each with a cloth. Put one in the sun and one in the shade. Guess how much each will lose.
-  - Ask: Why do you think the sunny jar will lose more water? (good: The Sun is hot, so the water leaves faster.; Warm water moves faster.; There is more wind outside.)
+  *Parent says:* We will measure the water in two jars every day for a week. One is in the sun and one in the shade. How many millimetres will each lose in a day?  
+  *Child mode:* Fill and cover two jars. Put one in the sun and one in the shade. Guess which loses more.
+  - Ask: Which jar do you think will lose more water, and why? (good: The Sun is hot, so the water leaves faster.; Warm water moves faster.; There is more wind outside.)
   - Note: The cloth keeps mosquitoes from laying eggs in standing water, which matters in India. The cloth lets vapour through but slows it, so losses with the cloth are typically about 1 to 4 millimetres a day on a sunny ledge and under 1 to 2 in a shady room. In the monsoon the loss may be under 1 millimetre a day. Use the same cloth for both jars so that it is a fair test. Do not put the jar where rain can fall into it. If the sunny jar falls below 15 millimetres, stop and graph what you have.
 - **s2 (5 min)**  
   *Parent does:* 1. Lift the cloth. 2. Press the ruler gently to the bottom of each jar. 3. Read the depth in millimetres at eye level and write it in the table. 4. Tie the cloth back. 5. Write the weather: sunny, cloudy, windy or rainy.  
@@ -532,7 +532,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **s3 (25 min)**  
   *Parent does:* 1. On the last day, measure the jars. 2. Work out how many millimetres each lost in the week. 3. Draw a line graph with the days along the bottom and the depth up the side. 4. Draw one line for each jar. 5. Ask your child to say what they think, what they saw, and why.  
   *Parent says:* Draw a line for each jar. Which line falls faster? Which days did the sunny jar lose the most? What was the weather on those days? Why do you think so?  
-  *Child mode:* Draw a line graph for each jar. Which line falls faster? Why do you think so?
+  *Child mode:* Draw a line for each jar on the graph.
   - Note: A strong answer: the sunny jar lost more, because warmth and moving air make water leave faster. The days with the biggest losses were the hottest and driest. The line for the shaded jar falls more slowly. A rainy or very humid day will show a small loss for both jars. Weather stations use a wider pan in the same way to measure how much water the sun takes from the land.
   - Check: The line for the sunny jar fell faster than the line for the shaded jar. What does this show? → **Warmth and moving air make water leave faster**
 
@@ -540,14 +540,14 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 ### c1 · Keep the Salt Free-Flowing: design a salt box for the monsoon (55 min)
 - **problem:** Keep one level teaspoon of table salt loose and dry for forty minutes inside a very humid box, using only things from home. Compare your design with a plain open saucer of salt.
 - **safety:** A grown-up pours the hot water and opens the lid away from the face, because steam can scald. Do not taste the salt after the test.
-- **your turn:** Sketch two or three designs. Build them and test them in the humid box for forty minutes. Which kept the salt loosest? Which left it dampest? Why do you think so? What would you change next time?
+- **your turn:** Plan two or three designs, by saying them or sketching them. Build them and test them in the humid box for forty minutes. Which kept the salt loosest? Which left it dampest? Why do you think so? What would you change next time?
 - **constraints:** Use only things from home.; The salt must still be easy to pour at the end.; Use one level teaspoon of salt for each design.; A grown-up pours the hot water into the box.; Every design is tested at the same time in the same box.
 - **general:** Put the salt in a jar with a tight lid, so humid air cannot get at it.; Mix a few dry grains of rice into the salt, so the rice takes up some of the water.; Cover the saucer with foil or cling film and press it tightly round the edge.; Keep the salt in a small closed jar inside a bigger closed jar.
 - **creative:** Put a layer of dry rice at the bottom of a jar and the salt on top, with a cloth between them.; Wrap the salt in tissue paper inside a tight plastic bag, with a silica gel sachet from a shoe box, if you have one.; Use a lid and a dry rice layer together, and compare with the lid alone.; Test two designs that differ in only one way, such as with rice and without rice.
 - **s1 (10 min)**  
-  *Parent does:* 1. Read the problem together. 2. Ask your child to sketch two or three designs. 3. Ask for the reason for each design.  
-  *Parent says:* Salt gets damp because it pulls water vapour out of the air. How could you stop the vapour reaching the salt, or take it away before it reaches the salt? Draw some ideas.  
-  *Child mode:* Salt pulls water from damp air. How can you stop it? Draw two or three ideas.
+  *Parent does:* 1. Read the problem together. 2. Ask your child to say or sketch two or three designs. 3. Ask for the reason for each design.  
+  *Parent says:* Salt gets damp because it pulls water vapour out of the air. How could you stop the vapour reaching the salt, or take it away before it reaches the salt? Tell me some ideas. You can sketch them too.  
+  *Child mode:* Salt pulls water from damp air. How can you stop it? Think of two or three ways to stop it.
   - Ask: How would your design keep the salt dry? (good: A tight lid stops the damp air getting in.; Rice takes up some of the water.; Foil keeps vapour out.)
 - **s2 (12 min)**  
   *Parent does:* 1. Build each design with one level teaspoon of salt. 2. Label each one. 3. Set out the plain open saucer of salt as the control. 4. Write what each design is.  
@@ -562,7 +562,7 @@ Paati laughed until her coffee shook. 'A scientist in the kitchen,' she said.
 - **s4 (13 min)**  
   *Parent does:* 1. Open the box. 2. Look at the control. 3. Poke each design's salt with a dry spoon. 4. Write which stayed loose and which clumped. 5. Say why.  
   *Parent says:* Look at the control first. Is it damp? Now each design. Which kept the salt loosest? Which was the worst? Why do you think so?  
-  *Child mode:* Look at the control. Poke each salt. Which stayed loose? Which clumped? Why?
+  *Child mode:* Look at the control first. Poke each salt.
   - Note: Expect the control salt to be damp, clumped or even wet. A tight jar lid usually keeps salt dry. A cloth or tissue alone usually does not. A strong answer says that the best designs stopped vapour from reaching the salt or took up the water before the salt did.
   - Check: A salt jar with a tight lid stays dry while an open saucer of salt in the same box goes damp. What does this show? → **The lid stopped water vapour reaching the salt**
 

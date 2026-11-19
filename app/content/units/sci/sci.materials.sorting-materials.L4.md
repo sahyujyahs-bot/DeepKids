@@ -247,7 +247,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 - **s2 (5 min)**  
   *Parent does:* Play a practice round. You are the Judge, with a secret cut-off of 10. Ask your child to ask about one card at a time. Show how each answer moves a card to the Yes row or the No row.  
   *Parent says:* I have a secret cut-off. A card with a score at or above it is squishy. Point at a card and ask me if it is squishy. Which card will you ask about first? Why?  
-  *Child mode:* Pick one card. Ask the Judge if it is squishy. Which card first, and why?
+  *Child mode:* Pick one card. Ask the Judge if it is squishy.
   - Ask: Which card would you ask about first, and why? (good: The one in the middle of the ladder.; The one at the middle, because it cuts the ladder in half.; One near the middle, so each answer rules out a lot.)
   - Note: A good first question is a card from the middle of the ladder. Whatever the answer, half of the cards are ruled out. Do not tell your child this. Let them find it, and ask why after the round.
 - **s3 (6 min)**  
@@ -264,7 +264,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 - **s5 (3 min)**  
   *Parent does:* Count the tokens and name the winner. Then ask which cards were never in doubt, and which cards changed groups from round to round.  
   *Parent says:* Count your tokens. Now think. Which cards stayed in the same group in every round? Which cards changed?  
-  *Child mode:* Count your tokens. Which cards always stayed put? Which ones moved?
+  *Child mode:* Count your tokens. Look at which cards moved.
   - Ask: Which cards never changed group, whatever the cut-off? (good: The ones at the very top and the very bottom.; The very squishy and the rock hard ones.; The ones far from the middle.)
 
 ## Experiments
@@ -278,7 +278,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 - **s1 (4 min)**  
   *Parent does:* Line up the ten foods. Ask your child to guess which will be the heaviest in a katori and which the lightest. Ask which will make the tallest heap. Write the guesses and the reasons.  
   *Parent says:* We will measure two things about ten foods. First, how heavy one katori of each is. Second, how tall a heap each makes. Which will be heaviest? Which will make the tallest heap? Why do you think so?  
-  *Child mode:* Guess first. Which food is heaviest in a katori? Which piles tallest? Why?
+  *Child mode:* Guess first. Which food is heaviest in a katori, and which piles tallest?
   - Ask: Why do you think that food will be the heaviest, or make the tallest heap? (good: It is made of big grains.; Flour is light and fluffy.; Salt is a heavy crystal.)
   - Note: Do not correct the guesses. Any guess with a reason is a good start. Write your child's own words.
 - **s2 (8 min)**  
@@ -290,7 +290,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 - **s3 (5 min)**  
   *Parent does:* Write the ten foods in a column, from the lightest to the heaviest. This is your ladder. Draw a line where you think the heavy foods begin. Ask a family member to draw their line on their own copy. Compare the two lines.  
   *Parent says:* Write the foods in order, lightest to heaviest. Draw a line where heavy foods begin. Ask someone else to draw theirs. Are the groups the same?  
-  *Child mode:* Make the ladder. Draw your line. Ask a friend to draw theirs.
+  *Child mode:* Make the ladder. Draw your line. Ask a family member to draw theirs.
   - Ask: Which foods were in the same group whatever line was drawn? (good: The lightest and the heaviest.; The ones at the ends of the ladder.; The ones far from the lines.)
   - Note: People usually agree on the ends of the ladder and disagree in the middle. There is no right line. Do not decide who is right.
 - **s4 (9 min)**  
@@ -300,9 +300,9 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   - Note: Flours make dust, so pour slowly. Smooth, round seeds such as mustard usually make flatter heaps, and flours usually make taller ones, but write down what you get. If a heap slumps, measure the height after it settles. The heap can be 50 millimetres tall, so pouring from 10 centimetres keeps the katori clear of the heap. Tilt the katori slowly so the food falls in a thin stream. One child pours, one reads the ruler at eye level and one writes. Swap for the second pour. If two pours differ by more than 5 millimetres, pour a third time and average the two closest. Typical heaps are roughly 20 to 60 millimetres, but your numbers may differ. In damp or hot weather, salt, sugar and flours soak up water and form lumps. Keep each food in a closed jar until its turn and say in your notes if a food lumps.
   - Check: Why do you pour every food from the same height? → **So that the way you pour does not change the heap**
 - **s5 (9 min)**  
-  *Parent does:* Draw two lines on the paper. Along the bottom, write mass in grams. Up the side, write height in millimetres. For each food, find its mass across and its average height up, and put a dot there. Write the food name by the dot. Then ring any dots that sit close together.  
+  *Parent does:* Draw two lines on the paper. Along the bottom, write mass in grams. Up the side, write height in millimetres. For each food, find its mass across and its average height up, and put a dot there. Write the food name by the dot. Then ring any dots that sit close together. A group of dots close together is a clump.  
   *Parent says:* Draw your map. Mass goes across and height goes up. Put a dot for each food. Which dots sit close together? Draw a ring round each clump.  
-  *Child mode:* Draw the map. One dot for each food. Ring the dots that sit together.
+  *Child mode:* Draw the map, or lay it out on the floor with the katoris. One dot for each food. Ring the clumps.
   - Ask: What do you notice about the dots on your map? (good: Some dots are close together.; A few foods sit alone.; The flours are together.)
   - Note: You may see clumps such as flours together, smooth seeds together and salt and sugar together. You may not. Both are results. Poha or another food may sit far from the others, and that is also a result.
 - **s6 (5 min)**  
@@ -326,7 +326,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 - **s2 (6 min) · grown-up needed**  
   *Parent does:* A grown-up counts out 20 toor dal and 20 chana dal. Put them in two heaps side by side. Ask your child what is different about them. Then mix the two heaps into one on the tray.  
   *Parent says:* Look at the two dals side by side. What is different? What is alike? Now we mix them into one heap.  
-  *Child mode:* Look at both dals. How are they different? Now mix them up.
+  *Child mode:* Look closely at both dals. Then mix them into one heap.
   - Ask: What is different about the two dals? (good: One is a little bigger.; One is a deeper yellow.; They look almost the same.)
   - Note: Chana dal pieces are usually a little larger and a deeper yellow than toor dal, but brands differ. They look much alike, and that is the point. If yours look very different, use two dals that look more alike, such as toor dal and split moong dal with its skin removed. If your child makes no mistakes in either round, that is a real result. Make the task harder. Use 15 seconds instead of 30, or sort from arm's length, or use the more alike pair. Mistakes then appear, because hurry and doubt cause them. One child with a parent: the parent keeps time and counts. Two to four children: each child sorts their own 20 and 20 on a tray, while another child times and a third counts. Rotate the jobs and give each sorter a row in the table. Compare the rows.
 - **s3 (8 min)**  
@@ -357,7 +357,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 - **s1 (4 min)**  
   *Parent does:* Show your child the ten things and the voters. Ask for a guess and a reason. Write the guess at the top of the results table.  
   *Parent says:* We have ten things and five voters. Each voter decides if each thing is soft or hard. Will they all agree? Which things might split the vote? Why do you think so?  
-  *Child mode:* Guess first. Will all the voters agree? Which things might split the vote?
+  *Child mode:* Guess first. Will all the voters agree?
   - Ask: Which thing do you think will split the vote? (good: The eraser.; The candle.; The plastic bottle.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (4 min)**  
@@ -404,7 +404,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   - Note: You will usually see that bottles share one or two numbers, and tiffin boxes and curd cups share another. Numbers 1, 2 and 5 are the commonest in homes. A 7 means other.
   - Check: Two things have the number 5 in the triangle. What can you say about them? → **They are made of the same family of plastic**
 - **a1s3 (7 min)**  
-  *Parent does:* Read what the numbers mean: 1 is PET, often clear drink bottles. 2 is HDPE, often milk cans and shampoo bottles. 5 is polypropylene, often tiffin boxes and curd cups. 7 is other. Also, 3 is PVC, 4 is LDPE like milk pouches and carry bags, and 6 is polystyrene like some cups. Check each row against your list.  
+  *Parent does:* Read what the numbers mean: 1 is PET, often clear drink bottles. 2 is HDPE, often milk cans and shampoo bottles. 5 is polypropylene, often tiffin boxes and curd cups. 3 is PVC, 4 is LDPE like milk pouches and carry bags, and 6 is polystyrene like some cups. 7 is other. Check each row against your list.  
   *Parent says:* The number names the family of plastic. Check your rows. Does each row hold what the number says?  
   *Child mode:* Check your rows against the list. Which row was the biggest?
   - Ask: Why is there a number 7, for other? (good: Some plastics do not fit the first six.; It is for mixtures.; It is a box for everything else.)
@@ -424,9 +424,9 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   - Ask: What rule did you use for the first two groups? (good: Seeds and not seeds.; Powder and not powder.; Hot and not hot.)
   - Note: Any rule is fine, as long as the child can say it. Examples are seeds and powders, strong smell and mild smell, or things that go in the pan first and things that go in last. One child with a parent: the parent is the helper. Two to four children: one sorts, one is the helper who looks for the spice, one counts, and you rotate. Or each child sorts their own spices and then compares the trees.
 - **a2s2 (6 min)**  
-  *Parent does:* Split each of the four groups again to make about eight groups. Some groups may hold only one spice. Draw a tree on the big sheet. Put the two first groups at the top and the eight small groups at the bottom.  
-  *Parent says:* Split the groups again, until you have about eight. Draw a tree. Two groups at the top, eight at the bottom.  
-  *Child mode:* Split again to make eight groups. Draw the tree.
+  *Parent does:* Split each of the four groups again to make about eight groups. Some groups may hold only one spice. Show the levels as a tree on the big sheet: write the group names, or lay the katoris out in rows and take a photo. Put the two first groups at the top and the eight small groups at the bottom.  
+  *Parent says:* Split the groups again, until you have about eight. Show them as a tree. Two groups at the top, eight at the bottom.  
+  *Child mode:* Split again to make eight groups. Show the levels as a tree.
   - Note: Do not worry if the groups are uneven. The tree is a way to show the levels. It is fine if some groups have one spice.
   - Check: A shelf with 2 big groups, each split into 2, and each of those split into 2 has how many small groups? → **8**
 - **a2s3 (9 min)**  
@@ -455,7 +455,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 - **a3s3 (8 min)**  
   *Parent does:* Look at the map. Do the dots spread evenly, or do they gather? Draw a ring round the long band of dots from bottom left to top right. Draw a ring round the dots above the band, and a ring round the dot below the band.  
   *Parent says:* Look at the map. Where do the dots gather? Draw a ring round each clump. Is there a band? What sits above it? What sits below it?  
-  *Child mode:* Ring the clumps. Find the band, the dots above and the dot below.
+  *Child mode:* Ring the clumps. Find the band, the dots above and the dot below. Ring each clump, or point to it and tell your grown-up.
   - Ask: What would you call the stars above the band, and the star below it? (good: Bright cool giants above, and a small hot faint star below.; Giants and a dwarf.; Big stars and a small one.)
   - Note: The long band is called the main sequence, and the Sun sits on it. The bright orange and red stars above the band are giants. The single dot below is a white dwarf, Sirius B. Rigel is really a blue supergiant, but at these rough steps it lands at the top corner of the band.
   - Check: The dots do not fill the map evenly. They form a band, and there are empty areas. What does this show? → **The stars come in families, and not all combinations of colour and brightness exist**
@@ -474,9 +474,9 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
   - Ask: What rule does the shop use to put things together? (good: By what they are, like dals or oils.; By how they are used, like things for cooking.; By brand.)
   - Note: Kirana stores often sort by use, such as things for the morning, things for the kitchen and things for cleaning. They also sort by size and by how often things sell. Ask the shopkeeper why. Mid-morning is usually quiet. Buying one small thing is a kind way to say thanks. Two to four children: each takes a different shelf or cupboard, and then they compare their trees.
 - **a4s2 (8 min)**  
-  *Parent does:* Find a group that has smaller groups inside it, such as dals with toor dal and moong dal inside. Draw a tree of these levels. Pick one item, such as turmeric, and count the groups you check before you find it. Count the levels. Then look for one thing that could go in two places, and say where you would put it.  
+  *Parent does:* Find a group that has smaller groups inside it, such as dals with toor dal and moong dal inside. Show these levels as a tree. Draw the tree, or say the levels out loud to your grown-up. Pick one item, such as turmeric, and count the groups you check before you find it. Count the levels. Then look for one thing that could go in two places, and say where you would put it.  
   *Parent says:* Find a group with smaller groups inside. Draw the tree. How many levels? Find a thing that could go in two places.  
-  *Child mode:* Draw the levels as a tree. Find a thing that fits two groups.
+  *Child mode:* Show the levels as a tree. Find a thing that fits two groups.
   - Note: Good examples are salt, turmeric, tea, jaggery and papad. Ask the shopkeeper why the shop put the thing there.
   - Check: A shop keeps salt with the spices, but another shop keeps it with the staples next to rice. What does this show? → **There are several useful ways to sort the same thing, and the rule is the shop's choice**
 - **a4s3 (7 min)**  
@@ -492,7 +492,7 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 - **p1s1 (7 min)**  
   *Parent does:* Take out your Katori Map. Look at the six new foods. For each one, decide which clump it will join, and mark a cross where you think its dot will be. Write the reason in one short line.  
   *Parent says:* Look at your map and the six new foods. Where will each one land? Mark a cross. Write why.  
-  *Child mode:* Mark a cross for each new food. Write why you put it there.
+  *Child mode:* Mark a cross for each new food.
   - Ask: Why do you think that food will land there? (good: It is a flour, so it should be with the flours.; It looks like the rice.; It is light and flaky, like poha.)
   - Note: Do not correct the predictions. Any prediction with a reason is a good start. A prediction that turns out wrong teaches more than one that turns out right.
 - **p1s2 (18 min)**  
@@ -516,14 +516,14 @@ Outside, the first pots of Pongal were beginning to boil over in the courtyards 
 ### c1 · The Slot Sorter: separate toor dal from chana dal with a gap (40 min)
 - **problem:** You have a mix of 20 toor dal and 20 chana dal. Build a sorter with a slot that lets toor dal fall through into a bowl, while chana dal rolls on past. Make as few mistakes, of both kinds, as you can.
 - **safety:** Dry dal can be a choking risk for children under five. Do not eat the dal in this test. Pick up any dal that rolls onto the floor, so nobody slips. Wash your hands after.
-- **your turn:** Sketch your sorter. Measure the width of five pieces of each dal with a ruler, and choose a first gap. Build it and test it. Count both kinds of mistake. Change the gap, and test again. Which gap gave the fewest mistakes? Why can no gap give none?
+- **your turn:** Measure the width of five pieces of each dal with a ruler, and choose a first gap. Build it and test it. Count both kinds of mistake. Change the gap, and test again. Which gap gave the fewest mistakes? Why can no gap give none?
 - **constraints:** Use only kitchen things and stationery, such as rulers, pencils, books and a tray.; Every test uses all 40 pieces, sent down once.; After every test, count both kinds of mistake: chana dal in the toor bowl, and toor dal that rolled past.; You may change only one thing at a time.
 - **general:** Two rulers lying side by side on a slope, with a narrow gap between them. Small pieces fall into the gap, and big pieces roll on.; A sieve, such as a tea strainer or a colander, whose holes are between the sizes of the two dals.; A tray with holes made by a pencil or a paper punch in a sheet of card.
 - **creative:** A slot that is narrow at the top and wider at the bottom, so that pieces fall through at the place that suits their width.; Two sorters one after the other: the first sorts by size, and then a second person picks by colour.; A slope with a bump or a lip that makes the heavier or rounder pieces bounce further.
 - **c1s1 (8 min)**  
-  *Parent does:* Read the problem together. Ask your child to measure the width of five pieces of each dal and write the numbers. Then ask them to sketch the sorter and choose a first gap.  
-  *Parent says:* You have a mix of two dals. Measure five pieces of each. Which gap will let toor dal through but not chana dal? Draw your sorter.  
-  *Child mode:* Measure five pieces of each dal. Draw a sorter. Choose a gap.
+  *Parent does:* Read the problem together. Ask your child to measure the width of five pieces of each dal and write the numbers. Then ask them to choose a first gap and sketch the sorter, or say how it will work.  
+  *Parent says:* You have a mix of two dals. Measure five pieces of each. Which gap will let toor dal through but not chana dal? Draw your sorter, or tell me how it will work.  
+  *Child mode:* Measure five pieces of each dal. Choose a gap. Sketch the sorter, or explain it out loud.
   - Ask: What gap would you choose, and why? (good: A gap just wider than the biggest toor dal.; A gap between the two sizes.; A gap in the middle of the numbers I measured.)
 - **c1s2 (12 min)**  
   *Parent does:* Build the sorter. Prop one end of the rulers on books, so they slope. Set the gap and put a bowl below it. Send all 40 pieces down once. Count the chana dal in the toor bowl and the toor dal that rolled past.  

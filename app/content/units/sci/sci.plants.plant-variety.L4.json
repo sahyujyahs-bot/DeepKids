@@ -768,11 +768,11 @@
      "id": "s2",
      "mins": 14,
      "do": "Play the game. Each time someone wins a pair, ask them how people use that shield.",
-     "say": "You found neem and the bitter chemical. How do people use the neem's shield?",
+     "say": "Say you found neem and its bitter chemical. How do people use neem's shield?",
      "kid": "Turn over two cards and read them aloud. Are they a plant and that plant's shield?",
      "ask": [
       {
-       "q": "Which shields are chemicals, and which are not?",
+       "q": "What is this plant's shield protecting it from?",
        "good": [
         "Thorns and folding leaves are not chemicals.",
         "Bael uses thorns.",
@@ -1076,7 +1076,7 @@
      "what": "Last count. Draw a line graph. Say what you think now, what you saw and why you think it happened. A grown-up throws the boxes away unopened. If a box has no mould at all by day 7 (cool or dry weather), leave it until day 10 before you stop."
     }
    ],
-   "record": "Each day, write how many of the 16 small squares on each potato have mould. On day 7, draw a line graph with one line for each potato.",
+   "record": "Each day, write how many of the 16 small squares on each potato have mould. On day 7, say which potato grew mould fastest. You can also draw a line graph with one line for each potato.",
    "context": "In this experiment, you test an old kitchen idea: do haldi and cloves keep food from going mouldy? You change only the powder on top, and count mould each day.",
    "setup": [
     {
@@ -1106,10 +1106,10 @@
      "mins": 5,
      "do": "Show your child the four boxes and the three powders. Ask for a guess and a reason. Write the guesses at the top of the table.",
      "say": "We are going to test four potato squares. One gets nothing. One gets rice flour. One gets haldi. One gets clove powder. Which will grow the most mould? Which will grow the least? Why do you think so?",
-     "kid": "Look at the three powders. One square gets no powder. Which square will get the most mould? Which the least? Why?",
+     "kid": "Look at the three powders. One square gets no powder. Pick the square that will grow the most mould. Then pick the one that will grow the least.",
      "ask": [
       {
-       "q": "Why do you think the square you chose will stay clean?",
+       "q": "Why do you think so?",
        "good": [
         "Clove has a strong smell.",
         "Haldi is put on cuts at home.",
@@ -1132,8 +1132,8 @@
      "id": "s3",
      "mins": 6,
      "do": "1. Write A, B, C and D on the boxes. (With 2 to 4 children, one writes the labels, one spreads the powders, one counts and one records. Swap jobs on day 4. For more data, boil a second potato so each pair makes its own set of four.) 2. Put one square in each box. 3. Spread a quarter teaspoon of powder evenly over B, C and D with the back of a clean spoon. A gets nothing. 4. Put one damp tissue piece in each box beside the potato, not touching the powder.",
-     "say": "A gets nothing. That is our control. B gets rice flour. C gets haldi. D gets clove. Why do you think we need the rice flour square?",
-     "kid": "Put one square in each box. Spread rice flour on B, haldi on C and clove on D. A gets nothing.",
+     "say": "A gets nothing. That is our control, the square we compare with. B gets rice flour. C gets haldi. D gets clove.",
+     "kid": "Put one square in each box. Spread rice flour on B, haldi on C and clove on D. A gets nothing. Add a damp tissue piece to each box.",
      "check": {
       "t": "mcq",
       "q": "Why does the Spice Guard test have a square with plain rice flour on top?",
@@ -1166,9 +1166,9 @@
     {
      "id": "s6",
      "mins": 8,
-     "do": "Help your child draw a line graph. The bottom line shows the days, from 2 to 7. The side shows squares with mould, from 0 to 16. Draw one line for each potato, in four colours.",
-     "say": "Each potato gets their own line. Watch the lines. Which line climbs fastest? Which stays flat?",
-     "kid": "Draw a line for each potato. Days go along the bottom. Mould squares go up the side.",
+     "do": "Help your child read the table and find which potato grew mould fastest. If they like, draw a line graph too. The bottom line shows the days, from 2 to 7. The side shows squares with mould, from 0 to 16. Draw one line for each potato.",
+     "say": "Look at the numbers for each potato. Which numbers climb fastest? Which stay low?",
+     "kid": "Point to the potato whose numbers climb fastest. Or draw a line for each potato. Days go along the bottom. Mould squares go up the side.",
      "check": {
       "t": "mcq",
       "q": "Suppose that in Spice Guard the rice flour square grows as much mould as the plain square. What does this show?",
@@ -1275,7 +1275,7 @@
      "what": "Last count and measurement. If cutting A still has no roots on day 14 (cool weather), keep counting to day 21. Draw a bar chart of the longest root on each cutting. Plant the rooted cutting in soil."
     }
    ],
-   "record": "Write the number of roots and the length of the longest root for each cutting on days 4, 7, 10 and 14. On day 14, draw a bar chart of the longest roots.",
+   "record": "Write the number of roots and the length of the longest root for each cutting on days 4, 7, 10 and 14. On day 14, line up paper strips, or draw bars, to show the longest roots.",
    "context": "In this experiment, you find out which part of a stem can grow new roots, by testing three money plant cuttings in water.",
    "setup": [
     {
@@ -1332,9 +1332,9 @@
     {
      "id": "s5",
      "mins": 8,
-     "do": "On day 14, measure each cutting one last time. Help your child draw a bar chart, one bar for each cutting, showing the longest root in millimetres.",
+     "do": "On day 14, measure each cutting one last time. Help your child cut a paper strip as long as the longest root of each cutting. Stick the strips side by side, or draw a bar for each cutting.",
      "say": "Which cutting has the longest roots? Which has none? What does the node do?",
-     "kid": "Measure one last time. Draw a bar for each cutting. Which one grew most?",
+     "kid": "Measure one last time. Cut a paper strip as long as each longest root and line them up. Which one grew most?",
      "check": {
       "t": "mcq",
       "q": "In the Node Test, which money plant cutting is most likely to grow no roots at all?",
@@ -1351,8 +1351,8 @@
      "id": "s6",
      "mins": 3,
      "do": "Plant cutting A in a small pot of soil with a drainage hole. Water until a little comes out underneath.",
-     "say": "You made a new plant from a piece of an old one. Who could you give them to?",
-     "kid": "Plant your rooted cutting in a pot. Water them gently. Give the plant a name.",
+     "say": "You made a new plant from a piece of an old one. Who could you give the new plant to?",
+     "kid": "Plant your rooted cutting in a pot. Water the plant gently. Give the plant a name.",
      "parent": "If the rooted cutting is not ready, leave them in water a few more days until the roots are about 3 cm long."
     }
    ]
@@ -1468,7 +1468,7 @@
      "what": "Tip out the saucers of A and B. Water B and C with 30 ml (2 tablespoons). Water A only if the top of the soil feels dry. Count healthy seedlings, measure the tallest, gently tip out each cup and compare the roots. Draw a bar chart."
     }
    ],
-   "record": "Fill in the table on days 4, 8 and 12. On day 12, draw a bar chart of healthy seedlings in each cup, and draw the roots you saw.",
+   "record": "Fill in the table on days 4, 8 and 12. On day 12, show the healthy seedlings in each cup as rows of coins or a bar chart, and tell or draw what the roots looked like.",
    "context": "In this experiment, you find out whether giving a plant more water is always better, by growing methi in three cups.",
    "setup": [
     {
@@ -1542,9 +1542,9 @@
     {
      "id": "s6",
      "mins": 6,
-     "do": "Help your child draw a bar chart of healthy seedlings on day 12, one bar for each cup. Then ask what they think now, what they saw and why they think it happened.",
+     "do": "Help your child make one row of coins or beans for each cup. Put one coin for each healthy seedling on day 12. Or draw a bar chart. Then ask what they think now, what they saw and why they think it happened.",
      "say": "What do you think now? What did you see? Why do you think it happened?",
-     "kid": "Draw a bar for each cup. Then say what you think, what you saw and why.",
+     "kid": "Make a row of coins for each cup, one coin for each healthy seedling. Then say what you think, what you saw and why.",
      "parent": "A strong answer: drainage matters more than the amount of water. For example (invented numbers, only to show the shape of an answer), cup C might have 3 healthy seedlings and brown roots, while A and B have 9 and 8. Your family's real numbers count. Roots need air as well as water."
     }
    ]
@@ -1750,7 +1750,7 @@
      "what": "Choose an endemic Indian plant. Mark where they grow on a map. Make their passport."
     }
    ],
-   "record": "A plant passport with a drawing, names, home on the map, what makes the plant special, dangers and who protects them.",
+   "record": "A plant passport with a drawing or picture, names, home on the map, what makes the plant special, dangers and who protects them.",
    "context": "In this activity, you make a passport for a plant who grows naturally only in India, or only in India and Sri Lanka.",
    "setup": [
     {
@@ -1779,23 +1779,23 @@
      "id": "s2",
      "mins": 8,
      "do": "Help your child colour the plant's home on the map of India. Mark the state names.",
-     "say": "Where does your plant live? Why might a plant live only on high hills, or only in one hill range? Neelakurinji last bloomed in 2018 and blooms every 12 years. When is the next bloom, and how old will you be then?",
-     "kid": "Colour where your plant lives on the map. Write the state."
+     "say": "Where does your plant live? Why might a plant live only on high hills, or only in one hill range? If you chose neelakurinji: it last bloomed in 2018 and blooms every 12 years. When is the next bloom, and how old will you be then?",
+     "kid": "Colour where your plant lives on the map. You can find the place in an atlas first. Write the state."
     },
     {
      "id": "s3",
      "mins": 15,
      "do": "Your child fills in the passport. Name in English and one Indian language. Scientific name. Home. What makes them special. Dangers they face. Who protects them. Then draw them on the cover.",
      "say": "A passport tells who someone is and where they belong. What does your plant need to stay alive in their home?",
-     "kid": "Fill in your plant's passport. Draw your plant on the cover.",
+     "kid": "Fill in your plant's passport. Put your plant on the cover: draw it, or stick on a picture.",
      "parent": "Scientific names: neelakurinji is Strobilanthes kunthiana, red sanders is Pterocarpus santalinus, the pitcher plant is Nepenthes khasiana, the talipot palm is Corypha umbraculifera."
     },
     {
      "id": "s4",
      "mins": 2,
      "do": "Ask your child what endemic means, using the plant on their passport as the example.",
-     "say": "Your plant is endemic to one place. What does that word mean?",
-     "kid": "Say what endemic means.",
+     "say": "Scientists say your plant is endemic. What do you think that word means?",
+     "kid": "Say what you think endemic means.",
      "check": {
       "t": "mcq",
       "q": "A plant is endemic to Meghalaya. What does that mean?",
@@ -1975,7 +1975,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Choose a sprig with a few leaves. Lay it flat inside folded newspaper, spreading the leaves so they do not overlap. Put several heavy books on top. Trace one fresh leaf on paper and measure its length with a ruler. Leave the sprig for a week in a dry place.",
+     "do": "Choose a sprig with a few leaves. Lay it flat inside folded newspaper, spreading the leaves so they do not overlap. Put several heavy books on top. Measure the length of one fresh leaf with a ruler and write it down. Leave the sprig for a week in a dry place.",
      "say": "Botanists have pressed plants like this for hundreds of years. A pressed sheet can last for more than a century. Why might that be useful?",
      "kid": "Lay your sprig flat in newspaper. Spread the leaves. Put heavy books on top.",
      "context": "This is the first step of Press a Medicine Plant. You make a botanist's sheet.",
@@ -1994,8 +1994,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Ask your child why a botanist writes the date and the place on every pressed plant.",
-     "say": "Why do you think a botanist writes the date and the place on every sheet?",
-     "kid": "Say why the date and the place go on the label.",
+     "say": "Look at the date and the place on your label. A botanist writes them on every sheet.",
+     "kid": "Point to the date and the place on your label.",
      "check": {
       "t": "mcq",
       "q": "Why does a botanist write the date and the place on every pressed plant?",
@@ -2120,7 +2120,7 @@
      "id": "s3",
      "mins": 20,
      "do": "On day 10, plant the rooted mint stems in the pot, about 5 cm deep. Water slowly until a little comes out of the hole. Put the pot where they get morning sun and shade from the harsh afternoon sun. Keep any lemongrass in water until its roots are about 2 cm long, then plant the lemongrass too.",
-     "say": "Now we care for them. Remember the finger test. When do we water?",
+     "say": "Now we care for them. Push a finger 2 cm into the soil. If it is dry, we water. If not, we wait.",
      "kid": "Plant your rooted stems. Water until a little comes out underneath.",
      "adult": true
     },
@@ -2135,9 +2135,9 @@
     {
      "id": "s5",
      "mins": 20,
-     "do": "On day 28, draw a line graph of the tallest shoot on days 14, 21 and 28. Then pick a few leaves together for chutney or tea.",
+     "do": "On day 28, show the tallest shoot on days 14, 21 and 28 as paper strips, or draw a line graph. Then pick a few leaves together for chutney or tea.",
      "say": "You grew this from a market bunch. What did the plant need from you? What did you get from the plant?",
-     "kid": "Draw a line graph. Then pick a few leaves to eat.",
+     "kid": "Line up a paper strip for each week's tallest shoot, or draw a line graph. Then pick a few leaves to eat.",
      "check": {
       "t": "mcq",
       "q": "Why did the mint grow roots when the lower leaves were stripped off and the stems stood in water?",
@@ -2182,7 +2182,7 @@
     "Bury a small unglazed clay pot, like a kulhad, in a big pot of soil and fill it with water. Water seeps slowly through the clay into the soil. Farmers in many dry places have used buried clay pots like this for centuries.",
     "Make a clear plastic bag tent over the plant, held up with sticks, so water that leaves the leaves drips back."
    ],
-   "your_turn": "Draw your design and test it for 3 days before the real trip. Measure how much water it used each day. Was the soil damp but not soaked?",
+   "your_turn": "Draw or describe your design and test it for 3 days before the real trip. Measure how much water it used each day. Was the soil damp but not soaked?",
    "context": "This is a design challenge about caring for plants. You keep a pot plant watered for a week while nobody is home.",
    "setup": [
     {
@@ -2210,9 +2210,9 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child draws two or three ideas, then chooses one to build.",
+     "do": "Your child tells or draws two or three ideas, then chooses one to build.",
      "say": "Which idea gives water slowly? Which is easiest to build?",
-     "kid": "Draw two or three ideas. Choose one to build."
+     "kid": "Think of two or three ideas and say or draw them. Choose one to build."
     },
     {
      "id": "s3",
@@ -2290,7 +2290,7 @@
      "mins": 5,
      "do": "Read the problem together.",
      "say": "If someone drinks kadha and gets better in five days, does that prove the kadha worked? Why not?",
-     "kid": "Read the problem. Does getting better prove the kadha worked?",
+     "kid": "Read the problem. Why might someone get better even without the kadha?",
      "context": "This is the first step of Design a Fair Trial, a thinking challenge about testing a remedy."
     },
     {
@@ -2312,8 +2312,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Ask your child why the control group should get a drink that looks and tastes like kadha.",
-     "say": "Why should the control group get a drink that looks like kadha?",
-     "kid": "Say why the control group gets a drink that looks the same.",
+     "say": "Imagine the control group's drink looks different from kadha. Would people know which group they are in?",
+     "kid": "Would people know which group they are in if the drinks looked different?",
      "check": {
       "t": "mcq",
       "q": "In a fair trial of kadha, why should the control group get a drink that looks and tastes like kadha?",

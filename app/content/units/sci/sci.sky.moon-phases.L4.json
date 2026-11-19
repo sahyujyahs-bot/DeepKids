@@ -697,9 +697,9 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "Play one practice card together. Read the age, draw the shape, write the lit side and the time. Check the back.",
-          "say": "Here is a practice card. The Moon is 7 days old. Draw it. Which side is lit? When does it set? Seven times 50 minutes is about six hours.",
-          "kid": "Read one practice card. Draw the Moon. Which side is lit?",
+          "do": "Play one practice card together. Read the age. Say the shape, the lit side and the time. Check the back.",
+          "say": "Here is a practice card. The Moon is 7 days old. What shape is it: new, thin, half or round? Which side is lit? When does it set? Hint: the Moon sets about 50 minutes later each day.",
+          "kid": "Read one practice card. Say the shape and the lit side.",
           "check": {
             "t": "mcq",
             "q": "A Moon is 7 days old. About when does it set, if the Sun sets at 6 in the evening?",
@@ -717,8 +717,8 @@
           "id": "s3",
           "mins": 9,
           "do": "Take turns to be the reader. Play through the cards, scoring points for the phase, the lit side and the time.",
-          "say": "Show the age. Everyone draws and writes. Then the reader checks the back. Who got the most parts right?",
-          "kid": "Show a card. Draw the Moon. Write the time. Check the back.",
+          "say": "Show the age. Everyone writes the shape, the lit side and the time on a slip. Then the reader checks the back. Who got the most parts right?",
+          "kid": "Show a card. Write your three answers. Check the back.",
           "ask": [
             {
               "q": "Which ages were hardest to guess?",
@@ -735,8 +735,8 @@
           "id": "s4",
           "mins": 3,
           "do": "Count the points and find the winner. Then ask the question below.",
-          "say": "Which was the best age for seeing craters through binoculars? Which was the worst?",
-          "kid": "Count your points. Which age is best for craters?",
+          "say": "Count the points. Who won? Then one more question, about craters.",
+          "kid": "Count your points. Who won?",
           "check": {
             "t": "mcq",
             "q": "Which of these Moons shows the most craters through binoculars?",
@@ -928,7 +928,7 @@
           "id": "s1",
           "mins": 4,
           "do": "Cut out the board and the 24 question cards, and shuffle the cards. Use a coin, button or bottle cap for each rover and a different small object for the Sun marker. Find one dice from a Ludo or snakes-and-ladders set. If you have none, write 1 to 6 on six paper slips and draw one from a cup. Put every rover on the start.",
-          "say": "Your rover has landed at lunar dawn. You have two weeks of sunlight to reach the data site. Each round is one day.",
+          "say": "Your rover has landed at lunar dawn. You have two weeks of sunlight to reach the data site. Each round is one day. If the Sun marker reaches sunset, the night wins.",
           "kid": "Set up the board. Put your rover at the start. Put the Sun marker on step 1.",
           "context": "This is the first step of Race the Lunar Night. You set up the board."
         },
@@ -975,7 +975,7 @@
           "do": "Check who won, or whether the night won. Talk about why a lander is timed to land at dawn.",
           "say": "Did anyone reach the finish? If the night won, what could you change next time? Why did we start at lunar dawn?",
           "parent": "A good answer to the first question: a lander that runs on sunlight needs the whole two weeks of daylight, so it lands just after sunrise. For the last question: at night there is no sunlight to make power, so the lander would need power stored in a battery, or another source of power, to stay awake and keep warm.",
-          "kid": "Who won? Why did we start at lunar dawn?",
+          "kid": "Say who won, and what you would change next time.",
           "check": {
             "t": "mcq",
             "q": "A lander must work in sunlight for as long as possible. When should it land?",
@@ -1054,7 +1054,7 @@
           "what": "A ball of dough with craters and lumps is lit by a torch from three directions. From which direction can you see the most craters and mountains?"
         }
       ],
-      "record": "Fill in the table. Draw the dough Moon three times, once for each light, and shade the shadows you saw.",
+      "record": "Fill in the table. Take a photo of the dough under each light, or draw it once under the light that showed the most craters.",
       "context": "In this experiment, you make a model Moon from dough and light it from three directions. You find out which light shows craters and mountains best.",
       "example_chart": {
         "type": "table",
@@ -1101,8 +1101,8 @@
           "id": "s1",
           "mins": 5,
           "do": "Show your child the dough, the torch and the tools. Ask for a guess and a reason. Write it down.",
-          "say": "We will make a dough Moon and light it from three places. Beside your head is like a full Moon. At the side is like a half Moon. Where will we see the most craters? Why do you think so?",
-          "kid": "Guess first. Where will you see the most craters? Why do you think so?",
+          "say": "We will make a dough Moon and light it from three places. Beside your head is like a full Moon. At the side is like a half Moon. Make a guess, and tell me why.",
+          "kid": "Look at the dough and the torch. Make a guess, then say why.",
           "ask": [
             {
               "q": "Which light do you think will show the most craters?",
@@ -1139,12 +1139,12 @@
         {
           "id": "s3",
           "mins": 7,
-          "do": "1. Sit 50 centimetres from the plate. Use the string to check. 2. Make the room dark: do this at night with curtains closed, since a phone torch looks weak in daylight. 3. Hold the torch beside your head, 50 centimetres from the dough (the string stretched from the dough to the torch), and shine it at the dough. 4. Count the craters and lumps you can see. 5. Ask the helper to count too. 6. Draw what you see.",
-          "say": "Hold the torch beside your head, like the Sun behind us at full Moon. Count the craters and lumps you can see. Is it hard? Draw it.",
-          "kid": "Hold the torch by your head. Count the craters. Draw the dough.",
+          "do": "1. Sit 50 centimetres from the plate. Use the string to check. 2. Make the room dark: do this at night with curtains closed, since a phone torch looks weak in daylight. 3. Hold the torch beside your head, 50 centimetres from the dough (the string stretched from the dough to the torch), and shine it at the dough. 4. Count the craters and lumps you can see. 5. Ask the helper to count too. 6. Write the counts in the table.",
+          "say": "Hold the torch beside your head, like the Sun behind us at full Moon. Count the craters and lumps you can see. Is it easy or hard to see them?",
+          "kid": "Hold the torch by your head. Count the craters and lumps.",
           "ask": [
             {
-              "q": "How many craters and lumps can you see, and what do they look like?",
+              "q": "How many craters and lumps can you see?",
               "good": [
                 "Only a few.",
                 "They look flat.",
@@ -1159,7 +1159,7 @@
           "id": "s4",
           "mins": 8,
           "do": "1. Move the torch to the side of the plate. Keep it 50 centimetres away (use the string). Rest it low on the books, so its light skims across the dough. 2. Keep your seat the same. 3. Count what you see. 4. Ask the helper to count. 5. Measure the shadow of the tallest lump with the ruler.",
-          "say": "Now move the torch to the side, low. This is like the half Moon. Count again. What has changed? Measure the longest shadow.",
+          "say": "Now move the torch to the side, low. This is like the half Moon. Count again. Measure the longest shadow.",
           "kid": "Move the torch to the side. Count again. Measure a shadow.",
           "ask": [
             {
@@ -1251,7 +1251,7 @@
         }
       ],
       "record": "Fill in the table. Draw a line graph with the day on the bottom and the moonrise time up the side. Write the average gap in minutes. Write your day 11 guess and the real time, and the difference in minutes.",
-      "context": "In this experiment, you collect ten days of moonrise times for your city and work out the gap from day to day. You test the rule that the Moon rises about 50 minutes later.",
+      "context": "In this experiment, you collect ten days of moonrise times for your city and work out the gap from day to day. You will find out if the saying that the Moon rises about 50 minutes later each day is true where you live.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results",
@@ -1320,7 +1320,7 @@
           "mins": 4,
           "do": "Show your child the notebook. Ask for a guess and a reason. Write it down.",
           "say": "We will collect ten days of moonrise times for our city. How many minutes later will the Moon rise each day? Will the gap be the same every day? Why do you think so?",
-          "kid": "Guess first. How much later does the Moon rise each day? Why?",
+          "kid": "Make a guess: how many minutes later each day? Then say why.",
           "ask": [
             {
               "q": "Why do you think the Moon rises later each day?",
@@ -1337,7 +1337,7 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "1. Find the date of the last new Moon. 2. Start two days after it. 3. Use a weather app or newspaper to find the moonrise time for your city on ten days in a row. 4. Copy the times into the table on a 24-hour clock. 5. Write the Moon's age beside each day.",
+          "do": "1. Find the date of the last new Moon. 2. Start two days after it. 3. Use a weather app or newspaper to find the moonrise time for your city on ten days in a row. 4. Copy the times into the table on a 24-hour clock. 5. Write the Moon's age beside each day (the number of days since the new Moon).",
           "say": "Find the last new Moon. Start two days after it. Look up the moonrise time for ten days in a row. Copy each into the table. Use a 24-hour clock, so 4 in the afternoon is 16:00.",
           "kid": "Find ten days of moonrise times. Copy them into the table.",
           "adult": true,
@@ -1359,7 +1359,7 @@
           "id": "s3",
           "mins": 8,
           "do": "1. For each day, subtract the time of the day before. 2. Write the gap in minutes. 3. Add up all the gaps and divide by the number of gaps to find the average.",
-          "say": "Subtract each day's time from the next. For example, 10:40 take away 09:46 is 54 minutes. Write the gap. Then find the average.",
+          "say": "Subtract each day's time from the next day's time. For example, 10:40 take away 09:46 is 54 minutes. Write the gap. Then find the average.",
           "kid": "Find the gap between each day and the day before. Find the average.",
           "ask": [
             {
@@ -1390,7 +1390,7 @@
           "mins": 6,
           "do": "Draw a graph on squared paper. Put the days along the bottom and the moonrise times up the side. Mark a dot for each day. Lay a ruler along the dots. Then use your average gap to predict the moonrise on day 11, write it down, and only afterwards look it up. How far off were you?",
           "say": "Draw a dot for each day on the graph. Lay a ruler along the dots. Do they make a straight line? Which way does it slope? Now guess day 11 from your average, before you look it up.",
-          "kid": "Draw a dot for each day. Lay a ruler along them. Is it straight?",
+          "kid": "Mark a dot for each day. Lay a ruler along them. Is it straight?",
           "ask": [
             {
               "q": "What does the slope of the line tell you?",
@@ -1459,7 +1459,7 @@
           "what": "How far away is the Moon, measured in its own width? Can a small bindi on a window glass cover the whole Moon?"
         }
       ],
-      "record": "Fill in the table. Draw the bindi, your eye and the Moon in a line, and label the two distances.",
+      "record": "Fill in the table. Write the bindi's width, your three distances, your average and the Moon's width. Take a photo of your set-up, or draw the bindi, your eye and the Moon in a line.",
       "context": "In this experiment, you find the distance at which a small bindi on a window covers the Moon. You work out how many Moon-widths away the Moon is, and how wide the Moon is.",
       "example_chart": {
         "type": "table",
@@ -1507,7 +1507,7 @@
           "mins": 5,
           "do": "Show your child the bindi and the window. Ask for a guess and a reason. Write it down.",
           "say": "We will stick a bindi on the window. When we stand back, the bindi can cover the whole Moon. How far back must we stand? Why do you think so?",
-          "kid": "Guess first. How far back for the bindi to cover the Moon? Why?",
+          "kid": "Make a guess, then say why.",
           "ask": [
             {
               "q": "Will you stand close to the glass or far from it?",
@@ -1550,7 +1550,7 @@
           "adult": true,
           "ask": [
             {
-              "q": "What did you notice about the distance?",
+              "q": "Was the distance about the same all three times?",
               "good": [
                 "It was bigger than I thought.",
                 "It was about the same each time.",
@@ -1650,8 +1650,8 @@
           "what": "Torch on a Coin: where does the shadow fall?"
         }
       ],
-      "record": "Draw the stack and its shadow three times: torch above, torch halfway up, torch low at the side. Write the shadow length from the ruler each time, and which light showed the shape best.",
-      "context": "This is a quick first activity. You light a stack of coins with a torch from different directions and notice what the shadows do.",
+      "record": "Write the shadow length from the ruler for each light: torch above, halfway up, low at the side. Write which light showed the shape best. Take a photo of each, or draw the stack once.",
+      "context": "This is a quick first activity. You light a stack of coins with a torch from different directions and find out which light shows the shape of a bump best. This is how we see craters on the Moon.",
       "setup": [
         {
           "art": "A coin lying on white paper with a torch directly above it, and almost no shadow.",
@@ -1668,7 +1668,7 @@
           "mins": 9,
           "do": "Stand the stack of coins on the paper. Make the room dim. Hold the torch right above it, then halfway up (about 45 degrees), then low at the side, always about 30 centimetres away. Each time, measure the length of the shadow with the ruler and write it down.",
           "say": "Look at the coins with the torch above. Now halfway. Now low at the side. Measure the shadow each time. What do you notice?",
-          "kid": "Light the coin from above. Then from the side. What changes?",
+          "kid": "Light the coins from above, halfway and low. Watch the shadow.",
           "ask": [
             {
               "q": "What happened to the shadow when the torch moved to the side?",
@@ -1685,9 +1685,9 @@
         {
           "id": "s2",
           "mins": 6,
-          "do": "Ask your child to tell you which light shows the coin's thickness better, and to draw it. Then ask the question below.",
-          "say": "Which light shows that the coin has a thickness? Draw the coin with each light. Here is a puzzle. The Sun's light comes from behind us at full Moon. What might that do to the Moon's craters?",
-          "kid": "Which light shows the coin's thickness? Draw both.",
+          "do": "Ask your child to show you, with the torch, which light shows the coins' thickness best. Then ask the question below.",
+          "say": "Which light shows best that the coins have thickness? Show me with the torch. At full Moon the Sun is behind us. What might that do to the Moon's craters?",
+          "kid": "Show your grown-up which light shows the thickness best.",
           "check": {
             "t": "mcq",
             "q": "Which light makes a bump show up best?",
@@ -1744,7 +1744,7 @@
           "what": "Catch Up: why the Moon's month is longer than one trip round"
         }
       ],
-      "record": "Draw the Sun, the Earth in two places on its path and the Moon. Mark how much further the Moon had to move to be new again.",
+      "record": "Take a photo of your set-up at the start and at the end, or draw the Sun, the Earth in two places and the Moon. Say how much further the Moon had to move to be new again.",
       "context": "In this activity, you model why the Moon takes about 29 and a half days from new Moon to new Moon, but only about 27 days to go once round the Earth.",
       "setup": [
         {
@@ -1766,7 +1766,7 @@
           "mins": 5,
           "do": "1. Put the lamp at one end of the table. 2. Put the paper circle in the middle. 3. Put the orange on the circle, on the side nearest the lamp. 4. Put the small ball between the orange and the lamp. 5. Lay pencil A on the table, pointing from the orange across the small ball towards the lamp. 6. Ask for a guess.",
           "say": "This is a new Moon. The Moon is between the Earth and the Sun. Now the Moon goes once round the Earth. When it has gone all the way round, will it be a new Moon again? Why do you think so?",
-          "kid": "The Moon goes round once. Will it be new again? Why?",
+          "kid": "Guess first. Will it be new again? Then say why.",
           "ask": [
             {
               "q": "When the Moon has gone once round the Earth, will it be exactly in line with the Sun again?",
@@ -1784,8 +1784,8 @@
           "id": "s2",
           "mins": 8,
           "do": "1. Move the orange a short way along its paper circle, about one twelfth of the way round. 2. Lay pencil B beside the orange, parallel to pencil A, so it points the same way as before. 3. Take the small ball once round the orange until it lies along pencil B again. 4. Look at where the lamp is now.",
-          "say": "Move the Earth a little along its path. Lay the second pencil parallel to the first. Take the Moon once round, until it lies along the second pencil. Where is the lamp now? Is the Moon between the Earth and the lamp?",
-          "kid": "Move the Earth along. Take the Moon round once. Is it new?",
+          "say": "Move the Earth a little along its path. Lay the second pencil parallel to the first. Take the Moon once round, until it lies along the second pencil. Where is the lamp now?",
+          "kid": "Move the Earth along. Take the Moon round once.",
           "ask": [
             {
               "q": "Is the Moon between the Earth and the Sun now?",
@@ -1814,8 +1814,8 @@
           "id": "s3",
           "mins": 5,
           "do": "Take the small ball a little further round until it is between the orange and the lamp again. Estimate how much further it had to go, as a fraction of one trip round.",
-          "say": "Now take the Moon a little further, until it is between the Earth and the lamp. This is a new Moon. About how much extra did it need?",
-          "kid": "Move the Moon a bit further. Now it is new. How much extra?",
+          "say": "Now take the Moon a little further, until it is between the Earth and the lamp. This is a new Moon again.",
+          "kid": "Move the Moon a bit further, until it is new.",
           "ask": [
             {
               "q": "How much further than one trip did the Moon need to go?",
@@ -1872,7 +1872,7 @@
           "what": "Tide Detective: do the biggest tides come at new and full Moon?"
         }
       ],
-      "record": "Draw a bar chart of the height of the day's highest tide for 15 days. Colour the bars on new Moon and full Moon days in one colour and the half Moon days in another.",
+      "record": "Draw a bar chart of the height of the day's highest tide for 15 days (or write the heights and phases in a table). Colour the bars on new Moon and full Moon days in one colour and the half Moon days in another.",
       "context": "In this activity, you read a real tide table and a Moon calendar, and look for a pattern between the Moon's phase and the size of the tides.",
       "setup": [
         {
@@ -1889,8 +1889,8 @@
           "id": "s1",
           "mins": 4,
           "do": "Tell your child what a tide table is. Ask for a guess and a reason.",
-          "say": "A tide table lists when the sea is high and low, and how high. When in the month will the tides be biggest? At new Moon, at half Moon or at full Moon? Why do you think so?",
-          "kid": "Guess first. When are the tides biggest? Why?",
+          "say": "A tide table lists when the sea is high and low, and how high. Make a guess: will the tides be biggest at new Moon, half Moon or full Moon? Say why.",
+          "kid": "Guess first, then say why.",
           "ask": [
             {
               "q": "Which Moon do you think gives the biggest tides?",
@@ -1908,7 +1908,7 @@
           "id": "s2",
           "mins": 10,
           "do": "1. Find a tide table for a port. 2. Write the height of the highest tide on each of 15 days in a row. 3. Find the Moon's phase for each day on a calendar. 4. Draw the bar chart.",
-          "say": "Look up the tide table. For each of fifteen days, write down the highest tide, in metres. Then find out the Moon's phase for each day.",
+          "say": "Look up the tide table. For each of fifteen days, write down the highest tide, in metres. Then find out the Moon's phase for each day. Draw a bar for each day: a taller bar for a higher tide.",
           "kid": "Find the tide table. Write the highest tide each day. Add the Moon's phase.",
           "adult": true,
           "parent": "Use a port you can find a table for. Inland families can choose any port. If there is no table to hand, a grown-up can search for the port's name and 'tide table'. The tide range for Indian ports is often 1 to 3 metres, and larger in Gujarat. If you cannot find a table, you can use the made-up practice numbers 1.2, 1.4, 1.7, 2.0, 2.1, 1.9, 1.6, 1.3, 1.2, 1.4, 1.7, 2.0, 2.1, 1.9 and 1.6 metres. Choose a start day about 3 days before a new Moon or full Moon, so that 15 days cover two of them. For 2 to 4 children, each child can take a different port and compare charts. If you use the made-up numbers, treat day 3 as the new Moon and day 10 as the full Moon. They are practice numbers, not real tides. If your port has a small tide range, the pattern still shows but the bars differ less.",
@@ -1960,7 +1960,7 @@
     {
       "id": "p1",
       "title": "The Terminator Log: five evenings of the growing Moon",
-      "problem": "The line between the Moon's lit part and its dark part is where the Sun has only just risen. You will draw the growing Moon on five evenings. You will watch this line move across the Moon and light up one crater after another.",
+      "problem": "The line between the Moon's lit part and its dark part is where the Sun has only just risen. You will look at the growing Moon on five evenings. You will watch this line move across the Moon and light up one crater after another.",
       "mins": 30,
       "days": 5,
       "materials": [
@@ -2009,8 +2009,8 @@
           "what": "Evening 5: draw, then lay out all five and compare."
         }
       ],
-      "record": "Draw the Moon's lit shape on each evening, and mark the line between light and dark. Note any dark patches or craters near the line. At the end, write which craters were on the line on which nights.",
-      "context": "In this project, you draw the growing Moon on five evenings and watch the line between day and night move. You see how the same craters light up in turn.",
+      "record": "Keep a photo or a drawing of the Moon from each evening, and mark the line between light and dark. Note any dark patches or craters near the line. At the end, write which craters were on the line on which nights.",
+      "context": "In this project, you look at the growing Moon on five evenings and watch the line between day and night move. You see how the same craters light up in turn.",
       "setup": [
         {
           "art": "A child on a balcony at dusk, holding binoculars and looking at a thin crescent Moon in the western sky.",
@@ -2018,7 +2018,7 @@
         },
         {
           "art": "Five drawn Moons in a row from a thin crescent to a half Moon, with a dotted line marking the edge of the light on each.",
-          "caption": "2. Draw the lit shape and mark the line between light and dark."
+          "caption": "2. Take a photo or draw the lit shape and mark the line between light and dark."
         }
       ],
       "flow": [
@@ -2044,9 +2044,9 @@
         {
           "id": "s2",
           "mins": 5,
-          "do": "On the second evening, draw the Moon again at the same time. Mark the line between light and dark. Compare it with yesterday.",
-          "say": "Draw the Moon again. Is more of it lit tonight? Where has the line moved?",
-          "kid": "Draw the Moon again. Where has the line moved?",
+          "do": "On the second evening, look at the Moon again at the same time. Take a photo with your phone, or draw it quickly. Compare it with yesterday.",
+          "say": "Look at the Moon again. Is more of it lit tonight? Where has the line moved?",
+          "kid": "Look at the Moon again. Take a photo or draw it.",
           "parent": "The lit part grows each night, and the line moves away from the bright edge. Keep drawings the same size, about 8 centimetres wide.",
           "wait": "Leave it until tomorrow evening",
           "context": "This is evening 2 of the Terminator Log. You draw the Moon again and compare it with yesterday."
@@ -2054,9 +2054,9 @@
         {
           "id": "s3",
           "mins": 10,
-          "do": "On evenings 3 and 4, draw the Moon again. Use binoculars to look along the line between light and dark. Draw any craters you can see and their shadows.",
-          "say": "Look through binoculars along the line. Can you see craters? Which side are the shadows on? Draw them.",
-          "kid": "Look along the line. Draw the craters. Draw the shadows.",
+          "do": "On evenings 3 and 4, draw the Moon again. Use binoculars, or zoom your phone camera, to look along the line between light and dark. Point out any craters you can see and their shadows. Take a photo, or draw one crater.",
+          "say": "Look through binoculars along the line. Can you see craters? Which side are the shadows on? Point to them.",
+          "kid": "Look along the line. Point to the craters and their shadows.",
           "adult": true,
           "ask": [
             {
@@ -2085,9 +2085,9 @@
         {
           "id": "s4",
           "mins": 5,
-          "do": "On evening 5, draw the Moon for the last time. Lay your five drawings side by side. Look at how the line moved, and which craters were on the line each night.",
-          "say": "Lay your drawings in a row. How did the line between light and dark move? Which craters were on the line on which night?",
-          "kid": "Lay out your five drawings. How did the line move?",
+          "do": "On evening 5, draw the Moon for the last time. Lay your five photos or drawings side by side. Look at how the line moved, and which craters were on the line each night.",
+          "say": "Lay your pictures in a row. How did the line between light and dark move? Which craters were on the line on which night?",
+          "kid": "Lay out your five pictures. How did the line move?",
           "ask": [
             {
               "q": "Which night showed the most craters?",
@@ -2115,7 +2115,7 @@
           "id": "s5",
           "mins": 2,
           "do": "Ask your child to say or write three things: what I think, what I saw and why I think it happened.",
-          "say": "Tell me three things. What do you think now? What did you see in your drawings? Why?",
+          "say": "Tell me three things. What do you think now? What did you see in your pictures? Why?",
           "kid": "Say three things: what you think now, what you saw, and why it happened.",
           "parent": "A good answer sounds like this. What I think: the best place to see craters is along the line between light and dark. What I saw: craters on the line had dark shadows, and the line moved across the Moon each night. Why: on the line the Sun is low and the shadows are long.",
           "think": "Where will the line between light and dark be at the full Moon?",
@@ -2153,7 +2153,7 @@
         "Add a heater and a battery so the lander can survive part of the night. Say what you gain and lose.",
         "Plan a second lander for the same mission that lands on the far side. Say how it will talk to the Earth."
       ],
-      "your_turn": "Now plan your own landing. Draw the calendar. Mark landing day, noon and sunset. Draw what the Moon looks like from India on each of the three days. Why did you pick your day?",
+      "your_turn": "Now plan your own landing. Mark landing day, noon and sunset on a calendar page. Say or draw what the Moon looks like from India on each of the three days. Why did you pick your day?",
       "context": "This is a design challenge about timing. You use the Moon's phases to pick the best day to land a lander that runs on sunlight.",
       "setup": [
         {
@@ -2169,9 +2169,9 @@
         {
           "id": "s1",
           "mins": 6,
-          "do": "Read the problem together. Look at the constraints. Ask your child what the Moon looks like from India when it is sunrise, noon and sunset at the centre of the near side.",
+          "do": "Read the problem together. Look at the constraints. Ask your child what the Moon looks like from India at sunrise, noon and sunset at the centre of the near side. Take a guess first.",
           "say": "A lander only works in sunlight. At the centre of the near side, the Sun rises at first quarter. What does the Moon look like from India when it is noon there? And when it is sunset there?",
-          "kid": "A lander needs sunlight. When does the Sun rise at the centre? Guess.",
+          "kid": "A lander needs sunlight. Guess what the Moon looks like at noon and at sunset.",
           "ask": [
             {
               "q": "When will the lander have the most sunlight left?",
@@ -2187,9 +2187,9 @@
         {
           "id": "s2",
           "mins": 10,
-          "do": "1. Draw a calendar for 30 days. 2. Mark the new Moon on the 4th. 3. Mark the first quarter on the 11th, the full Moon on the 18th and the last quarter on the 26th. 4. Draw a small Moon shape beside each.",
-          "say": "Draw the calendar. Mark the new Moon on the 4th. Count seven days to the half Moon, then seven more to the full Moon, and seven more to the next half Moon.",
-          "kid": "Draw the calendar. Mark the four main Moons.",
+          "do": "1. Use a calendar page of 30 days. 2. Mark the new Moon on the 4th. 3. Mark the first quarter on the 11th, the full Moon on the 18th and the last quarter on the 26th. 4. Write beside each one: new, half, full or half.",
+          "say": "Take a calendar page of 30 days. Mark the new Moon on the 4th. Count seven days to the half Moon. Count seven more to the full Moon. Then count a little over seven more to the next half Moon.",
+          "kid": "Mark the four main Moons on the calendar.",
           "parent": "Use days 11, 18 and 26. New Moon on the 4th, first quarter about 7 days later on the 11th, full Moon about 14 days later on the 18th, and last quarter about 22 days after the new Moon, on the 26th. The Moon on the 11th is lit on the right when seen from India.",
           "context": "In this step, you draw the calendar and mark the phases."
         },
@@ -2226,7 +2226,7 @@
           "id": "s4",
           "mins": 9,
           "do": "Show your plan to someone else. Talk about what the Moon looks like on landing day, and what you would change.",
-          "say": "Explain your plan to someone. What does the Moon look like on landing day? What would you change for a pole landing?",
+          "say": "Explain your plan to someone. What does the Moon look like on landing day? What would you change?",
           "parent": "A good answer: near the Moon's poles the Sun stays low in the sky, so some crater rims are lit for most of the year, and a lander there could have sunlight for much longer. The risk is that the long shadows make the ground harder to see.",
           "kid": "Tell someone your plan. What does the Moon look like?",
           "check": {

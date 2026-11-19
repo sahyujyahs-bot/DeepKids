@@ -524,7 +524,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a card game about two kinds of sentences. One kind says what you noticed. The other kind says what you think it means. You sort 24 sentences into the right kind.",
+   "context": "This is a card game about two kinds of sentences. One kind says what you noticed. The other kind says what you think it means. You sort 24 sentences into the right kind. You will find out how often a guess sounds like something you saw.",
    "setup": [
     {
      "art": "Twenty-four sentence cards in a shuffled pile with two kinds of tokens in front of each player, one saying I SAW and one saying I THINK.",
@@ -903,7 +903,7 @@
      "mins": 4,
      "do": "Add up the points. Ask which checks were the best at telling ideas apart. Ask what they had in common.",
      "say": "Let's count. What did the best checks all have in common?",
-     "kid": "Add up your points. What did the best checks have in common?",
+     "kid": "Add up your points. Then look at the best checks together.",
      "context": "In this step, you add up the points and look for the pattern in good checks.",
      "ask": [
       {
@@ -966,7 +966,7 @@
     }
    ],
    "safety": "Use warm tap water, never hot water from a kettle. A grown-up should pour for young children, and handle glass tumblers, since glass can break. Food colour and haldi stain clothes, so work on a tray or a table you can wipe.",
-   "record": "Fill in the results table at 5, 10 and 15 minutes. Write the minute you first saw drops on the cold tumbler. Draw both tumblers at 15 minutes, and colour in the water inside and the drops outside.",
+   "record": "Fill in the results table at 5, 10 and 15 minutes. Write the minute you first saw drops on the cold tumbler. Draw both tumblers at 15 minutes and colour the water and the drops, or take a photo and tell what colour the drops were.",
    "context": "In this experiment, you see drops form on the outside of a cold tumbler and you test two rival ideas about where they come from.",
    "setup": [
     {
@@ -996,7 +996,7 @@
      "mins": 5,
      "do": "Show your child the two tumblers and the ice. Ask what will happen to the outside of the ice-water tumbler. Ask why. Write the guess and the reason at the top of the page.",
      "say": "We will fill this tumbler with ice water. In ten minutes, what do you think the outside will look like? Why do you think so?",
-     "kid": "We will fill a tumbler with ice water. What will the outside look like in ten minutes? Why?",
+     "kid": "Look at the two tumblers and the ice. You will make a guess before we start, and give a reason.",
      "context": "This is the first step of the Weeping Tumbler. You guess before you test.",
      "ask": [
       {
@@ -1015,7 +1015,7 @@
      "mins": 5,
      "do": "Tell your child that people disagree about where the water comes from. Write two ideas. Idea A: the water leaked through the steel. Idea B: the water came from the air. Ask for a third idea. Then ask for an if-then sentence for each idea about the colour of the drops.",
      "say": "Some people say the water leaks through the steel. Some say it comes from the air. Do you have another idea? If we colour the water inside red, what will we see outside if idea A is true? And if idea B is true?",
-     "kid": "There are two ideas about the drops. A: the water leaked through the steel. B: the water came from the air. If the water inside is red, what colour will the drops be for each idea?",
+     "kid": "There are two ideas about the drops. A: the water leaked through the steel. B: the water came from the air. We will colour the water inside red to tell the ideas apart.",
      "context": "In this step, you write the rival ideas and what each one predicts, before any test.",
      "ask": [
       {
@@ -1059,7 +1059,7 @@
     {
      "id": "s4",
      "mins": 12,
-     "do": "At 5, 10 and 15 minutes, look at both tumblers. Write what the outside looks like. Then lift a drop from the cold tumbler on a dry tissue and look at its colour. Draw the cold tumbler at 15 minutes.",
+     "do": "At 5, 10 and 15 minutes, look at both tumblers. Write what the outside looks like. Then lift a drop from the cold tumbler on a dry tissue and look at its colour. At 15 minutes, take a photo of both tumblers.",
      "say": "Look at the cold tumbler. What do you see on the outside? Touch a dry tissue to a drop. What colour is it? Now look at the warm tumbler. What is different?",
      "kid": "Look at both tumblers at 5, 10 and 15 minutes. What colour are the drops?",
      "context": "In this step, you watch for drops and check their colour.",
@@ -1101,7 +1101,7 @@
      "mins": 3,
      "do": "Ask your child to say or write three things: what they think happened (the claim), what they saw that shows it (the evidence), and why it happened that way (the reasoning). Then read the explanation 'Why drops form on the outside of a cold tumbler'.",
      "say": "What do you think happened? What did you see that shows it? Why do you think it happened that way?",
-     "kid": "What did you find? What did you see? Why do you think so?",
+     "kid": "Tell your grown-up what you found, what you saw, and why you think so.",
      "context": "In this step, you say what you found, what you saw and why. Then you read the science.",
      "ask": [
       {
@@ -1173,7 +1173,7 @@
    ],
    "safety": "Ask each person before you measure them. Do not stand on chairs to reach the top of the wall.",
    "record": "Fill in the results table for each person. Draw a number line from minus 10 to plus 10 and put a dot for each person's span minus height.",
-   "context": "In this experiment, you measure the height and arm span of six or more people and look for a pattern. In about 1490, Leonardo da Vinci drew a person whose arm span was equal to their height.",
+   "context": "In this experiment, you measure the height and arm span of six or more people and look for a pattern. In about 1490, Leonardo da Vinci drew a person whose arm span was equal to their height. You will find out whether this is true for you and your family.",
    "setup": [
     {
      "art": "A girl standing barefoot with her back against a wall while a helper holds a flat book on her head and marks the wall with a pencil.",
@@ -1295,7 +1295,7 @@
      "mins": 5,
      "do": "Ask your child to say three things: what they found (the claim), which numbers show it (the evidence), and why they think so (the reason). Then ask what the numbers cannot tell us. Read the explanation 'Looking for a pattern in many cases'.",
      "say": "What can you say about span and height from your numbers? What can you not say?",
-     "kid": "What did you find? What can't you say from only a few people?",
+     "kid": "Tell your grown-up what you found and which numbers show it.",
      "context": "In this step, you write a careful conclusion from your numbers. You also say what you cannot tell.",
      "ask": [
       {
@@ -1356,7 +1356,7 @@
     }
    ],
    "record": "A page with two columns, I saw and I think. Under it, one rival story and one deciding question.",
-   "context": "In this activity, a grown-up sets up a small scene in the kitchen. You sort your sentences about it into what you saw and what you think.",
+   "context": "In this activity, a grown-up sets up a small scene in the kitchen. You sort your sentences about it into what you saw and what you think. You will find out how easily a guess sounds like something we saw.",
    "setup": [
     {
      "art": "A kitchen table with a plate of crumbs, a banana peel, a half-full glass with a wet ring, a chair pulled out and a slipper on its side.",
@@ -1385,7 +1385,7 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Ask your child to write six things they saw and three things they think happened. Draw two columns. Help them move any sentence with 'because' or 'must have' into the I think column.",
+     "do": "Ask your child to write, or say while you write, six things they saw and three things they think happened. Draw two columns. Help them move any sentence with 'because' or 'must have' into the I think column.",
      "say": "Write six things you can see. Then write three things you think happened. A sentence with 'because' or 'must have' goes in the second column.",
      "kid": "Write six things you see. Write three things you think happened.",
      "context": "In this step, you sort what you saw from what you think.",
@@ -1462,8 +1462,8 @@
      "what": "Listen to two sets of taps. Decide if there is a signal. Add noise and try again."
     }
    ],
-   "record": "Draw a line of dots for each set of taps you heard, using short and long gaps. Write 'signal' or 'noise' under each. Write how many of the 12 taps you heard with the fan on low, medium and high.",
-   "context": "In this activity, you listen to taps from another room. You decide which set has a message and how you could be sure.",
+   "record": "Show each set of taps as a line of dots, using short and long gaps. Draw them, or lay out buttons and take a photo. Write 'signal' or 'noise' under each. Write how many of the 12 taps you heard with the fan on low, medium and high.",
+   "context": "In this activity, you listen to taps from another room. You decide which set has a message and how you could be sure. You will find out how to tell a real message from random noise.",
    "setup": [
     {
      "art": "A helper behind a door tapping a steel plate with a spoon while a child listens and draws dots on paper.",
@@ -1520,10 +1520,10 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Switch on a fan or a radio next to the helper. Ask them to tap the steady beat again. Ask your child to listen for it through the noise and draw the dots. Then ask how they could be sure the beat was there.",
+     "do": "Switch on a fan or a radio next to the helper. Ask them to tap the steady beat again. Ask your child to listen for it through the noise and count the taps they hear. Repeat with the fan on low, medium and high. Then ask how they could be sure the beat was there.",
      "parent": "Measure how well your child hears the beat through the noise. Before you start, ask your child to predict whether they will still hear the beat. Switch the fan or radio on low, then medium, then high. Each time, ask your child to count how many of the 12 taps they heard. Write the three counts. The count usually drops as the noise rises, and that drop shows how noise hides a signal. Keep the radio at a sensible volume to protect ears.",
-     "say": "Now there is background noise. Can you still hear the beat? How could you be sure, if you could not see the helper?",
-     "kid": "Now there is noise. Can you still find the beat? How could you be sure?",
+     "say": "Now there is background noise. Count the taps you hear. Can you still hear the beat? How could you be sure, if you could not see the helper?",
+     "kid": "Listen for the steady beat through the noise. Count the taps you hear.",
      "context": "In this step, you add noise and try to find the signal in it. This is what scientists do with weak signals.",
      "ask": [
       {
@@ -1562,7 +1562,7 @@
     }
    ],
    "record": "A page with three columns and the questions sorted into them. Under it, one if-then sentence.",
-   "context": "In this activity, you sort twelve questions by the best way to answer them. Some can be tested, some can be looked up, and some need people to talk.",
+   "context": "In this activity, you sort twelve questions by the best way to answer them. You will find out which questions a test at home can answer. Some can be tested, some can be looked up, and some need people to talk.",
    "setup": [
     {
      "art": "Twelve paper strips with a question on each, lying in a pile beside a sheet of paper with three columns.",
@@ -1610,7 +1610,7 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Ask your child to pick one strip from the first column. Ask them to write two possible answers. Ask them to write an if-then sentence for each answer.",
+     "do": "Ask your child to pick one strip from the first column. Ask them to write, or say while you write, two possible answers. Then ask for an if-then sentence for each answer. An if-then sentence says what you would see if that answer is true.",
      "say": "Choose one question you can test. Write two possible answers. For each answer, write an if-then sentence about what you would see.",
      "kid": "Pick one question. Write two answers. Write an if-then sentence for each.",
      "context": "In this step, you turn one question into two rival ideas with predictions.",
@@ -1625,11 +1625,15 @@
    "days": 1,
    "materials": [
     {
-     "item": "two sheets of plain paper",
-     "qty": 2
+     "item": "a sheet of plain paper",
+     "qty": 1
     },
     {
      "item": "coloured pencils",
+     "qty": 1
+    },
+    {
+     "item": "a handful of rice or lentils",
      "qty": 1
     },
     {
@@ -1641,11 +1645,11 @@
     {
      "day": 1,
      "mins": 12,
-     "what": "Draw what you think is happening. Read the explanation. Draw it again."
+     "what": "Draw what you think is happening. Read the explanation. Build it with rice."
     }
    ],
-   "record": "Two drawings of the cold tumbler, one before and one after reading the explanation, with the differences circled.",
-   "context": "In this activity, you draw a model of what is happening in the air and on the tumbler wall. A model is a drawing that explains what is happening, including the parts you cannot see.",
+   "record": "One drawing of the cold tumbler, with what you added after reading the explanation in a second colour. Take a photo of your rice model.",
+   "context": "In this activity, you make a model of what is happening in the air and on the tumbler wall. A model is a drawing or a build that explains what is happening, including the parts you cannot see. You will find out where the invisible water is.",
    "setup": [
     {
      "art": "A child drawing a cold tumbler with the air around it and arrows showing where she thinks the water comes from.",
@@ -1657,7 +1661,7 @@
     },
     {
      "art": "A second drawing next to the first, with the differences circled in red.",
-     "caption": "3. Draw it again and circle what changed."
+     "caption": "3. Compare your drawing with the rice model. Add what is missing."
     }
    ],
    "flow": [
@@ -1666,20 +1670,20 @@
      "mins": 4,
      "do": "Give your child a sheet of paper. Ask them to draw the cold tumbler, the air around it and the drops. Ask them to draw arrows to show where they think the water comes from. Include the parts you cannot see.",
      "say": "Draw the cold tumbler, the air around it and the drops. Draw arrows to show where the water comes from. Draw the parts we cannot see too.",
-     "kid": "Draw the tumbler, the air and the drops. Draw arrows for the water.",
+     "kid": "Show where you think the water comes from. Add the parts you cannot see.",
      "context": "This is the first step of Draw the Invisible Water. You draw what you think is happening.",
      "parent": "Do not correct the drawing. Any drawing is a good start. Ask about the arrows."
     },
     {
      "id": "s2",
      "mins": 4,
-     "do": "Read the card 'Why drops form on the outside of a cold tumbler' aloud. Then give your child a second sheet to draw it again with new ideas.",
-     "say": "Here is what scientists say. Let's read it. Now draw it again. What would you add or change?",
-     "kid": "Read the card. Draw it again. What do you change?",
+     "do": "Read the card 'Why drops form on the outside of a cold tumbler' aloud. Then show your child how to build it: put the cold tumbler on the table. Each grain of rice is a tiny bit of invisible water. Ask your child to place grains in the air around the tumbler, and then move them to show where the water goes.",
+     "say": "Here is what scientists say. Let's read it. Each grain of rice is a tiny bit of invisible water. Show me where the water is, and where it goes.",
+     "kid": "Read the card. Use the rice to show where the invisible water is.",
      "context": "In this step, you read the explanation and draw a better model.",
      "ask": [
       {
-       "q": "What did you add the second time?",
+       "q": "What does the rice model show that your first drawing did not?",
        "good": [
         "Water vapour in the air.",
         "Arrows from the air to the steel.",
@@ -1702,9 +1706,9 @@
     {
      "id": "s3",
      "mins": 4,
-     "do": "Put the two drawings side by side. Ask your child to circle what is different. Ask which parts they could not see, but they now know are there.",
-     "say": "Put your two drawings side by side. Circle what is different. Which parts can you not see, but you now know are there?",
-     "kid": "Put your two drawings side by side. Circle what changed.",
+     "do": "Put the drawing next to the rice model. Ask your child to point to one part the model shows that the drawing does not. They add it to the drawing, or tell you. Ask which parts they could not see, but they now know are there.",
+     "say": "Put your drawing next to the rice model. Point to one part the drawing does not show. Add it, or tell your grown-up. Which parts can you not see, but you now know are there?",
+     "kid": "Compare your drawing with the rice model. Add what is missing.",
      "context": "In this step, you compare your first and second model.",
      "think": "A model is not a photograph. It shows what we think is going on, including the parts we cannot see. Use your second drawing to predict: would a cold tumbler sweat as much in a dry room? Write your prediction in an if-then sentence, then test it if you can: compare a cold tumbler in the kitchen with one in a room with an air conditioner. Each child can draw their own model, then compare them."
     }
@@ -1733,7 +1737,7 @@
     }
    ],
    "record": "A page with the puzzle, what you saw, two rival ideas with if-then sentences, and one deciding question.",
-   "context": "In this activity, you pick a real puzzle from home and plan how to tell two ideas apart.",
+   "context": "In this activity, you pick a real puzzle from home and plan how to tell two ideas apart. You will find out how to decide which of two ideas is better.",
    "setup": [
     {
      "art": "A child standing in front of a wobbling ceiling fan with a notebook, writing what she sees.",
@@ -1752,7 +1756,7 @@
     {
      "id": "s1",
      "mins": 6,
-     "do": "Walk around your home with your child for two minutes. Ask them to pick something that puzzles them. Ask them to write three observations about it, with no 'because'.",
+     "do": "Walk around your home with your child for two minutes. Ask them to pick something that puzzles them. Ask them to write, or say while you write, three observations about it, with no 'because'.",
      "say": "Let's find something that puzzles you. A fan, a tap, a sound, a smell. Write three things you can see or hear about it. Do not use the word because.",
      "kid": "Find something that puzzles you. Write three things you notice. No 'because'.",
      "context": "This is the first step of Two Ideas for Something at Home. You pick a puzzle and write what you saw.",
@@ -1774,7 +1778,7 @@
      "mins": 8,
      "do": "Ask your child to write two rival ideas for the puzzle. Under each idea, write an if-then sentence about something else they would see.",
      "say": "What is one idea about why it happens? Is there a different idea? If your first idea is true, what else would you see? And if the second is true?",
-     "kid": "Write two ideas. For each, write an if-then sentence.",
+     "kid": "Write two ideas. For each, write: if this idea is true, then I will see this.",
      "context": "In this step, you write two rival ideas and what each one predicts.",
      "ask": [
       {
@@ -1883,7 +1887,7 @@
      "mins": 15,
      "do": "1. Choose a light that comes on by itself, such as a streetlight or a security light. 2. Write two ideas. Idea A: a timer switches it on at the same clock time every day. Idea B: a light sensor switches it on when it gets dark. 3. Write an if-then sentence for each, for a very cloudy evening. 4. Draw the table.",
      "say": "Some lights come on by themselves. Maybe a timer switches them on at the same time every day. Maybe a sensor switches them on when it is dark. What would you see on a dark, cloudy evening for each idea?",
-     "kid": "Choose a light that comes on by itself. Write two ideas: a timer switches it on, or a light sensor does. What would each idea show on a very cloudy evening?",
+     "kid": "Choose a light that comes on by itself. Write two ideas: a timer switches it on, or a light sensor does.",
      "context": "This is day 1 of the Streetlight Detective. You choose the light and plan.",
      "ask": [
       {
@@ -1910,7 +1914,7 @@
     {
      "id": "s2",
      "mins": 25,
-     "do": "Each evening for the next five days, write the date, the sky, the sunset time and the time the light came on. Work out the difference between the sunset time and the time the light came on.",
+     "do": "Each evening for a week, write the date, the sky, the sunset time and the time the light came on. Work out the difference between the sunset time and the time the light came on.",
      "say": "Watch the light from about twenty minutes before sunset. Write what time it comes on. Look at the sky. Was it clear or cloudy?",
      "kid": "Each evening, write the time the light comes on. Is the sky clear or cloudy?",
      "context": "On these five evenings, you write down when the light comes on. This gives you a week of evidence.",
@@ -1922,7 +1926,7 @@
      "mins": 10,
      "do": "On day 7, look at the whole table. Mark the cloudiest evening. Ask which idea fits the evidence. Ask what cannot be said from only one week.",
      "say": "Look at the cloudiest evening. When did the light come on that day? What does that say about the two ideas? What can you not say from one week?",
-     "kid": "Look at your week. Which idea fits? What can't you say?",
+     "kid": "Look at your week. Find the cloudiest evening.",
      "context": "In this step, you decide which idea the evidence supports and what it cannot tell you.",
      "ask": [
       {
@@ -1967,7 +1971,7 @@
    ],
    "safety": "A grown-up opens and closes the fridge door and handles the phone. Keep the door shut for only about 30 seconds so the food stays cool. Take the phone out straight away, because it should not get very cold. Make sure the phone and any wire are not caught in the door seal, and do not use a phone that is plugged in.",
    "your_turn": "Now think of another thing you cannot look at without changing it, such as a closed room, a sleeping baby or a sealed box. Design a test to tell two ideas apart.",
-   "context": "This is a design challenge. You build a test for a puzzle where looking changes the answer.",
+   "context": "This is a design challenge. You build a test for a puzzle where looking changes the answer. You will find out whether the fridge light stays on when the door is shut, without opening the door.",
    "setup": [
     {
      "art": "A child holding a phone next to the open fridge while a grown-up holds the door.",
@@ -1988,7 +1992,7 @@
      "mins": 8,
      "do": "Write the two ideas. Idea A: the light goes off when the door closes. Idea B: the light stays on when the door closes. Ask your child what is hard about checking. Ask for their design.",
      "say": "There are two ideas about the fridge light. It goes off when the door shuts, or it stays on. Why can't we just look? How could we find out without opening the door?",
-     "kid": "Two ideas about the fridge light. Why can't you just look? How could you find out?",
+     "kid": "Two ideas: the light goes off when the door shuts, or it stays on. Think of a way to find out without opening the door.",
      "context": "This is the first step of the Fridge Light challenge. You plan your design.",
      "ask": [
       {

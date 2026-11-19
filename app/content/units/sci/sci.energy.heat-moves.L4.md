@@ -239,7 +239,7 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   *Parent does:* Play the first six cards. After each card, read the back aloud. After card three, ask the question below.  
   *Parent says:* The reader reads the front. Everyone else picks a token. Turn the tokens over together. Now the reader reads the back. Who got a point? Who can say why?  
   *Child mode:* The reader reads a card. Pick a token. Turn it over. Check the back.
-  - Ask: What clue on the card tells you it is conduction? (good: Two things are touching.; The heat goes through a solid.; There is a spoon or a handle.)
+  - Ask: What clue on the card tells you which kind it is? (good: Two things are touching.; The heat goes through a solid.; There is a spoon or a handle.)
   - Note: Look out for clues. Touching and solids mean conduction. Moving liquid or air means convection. Light, glow or an empty gap means radiation.
 - **s3 (7 min)**  
   *Parent does:* Play the next ten cards. After card ten, stop and ask the question below.  
@@ -260,24 +260,24 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 - **predict:** Before you start, guess what each of the four drops will do: hot, warm, room-temperature and ice-cold. Which will move fastest? Why do you think so?
 - **fair test:** Every drop is the same red water and the same amount (one straw-full). Each drop is let go at the same depth, in a glass filled to the same height. The water in the glass is always at room temperature, and it always stands for two minutes first so that it is still. Only the temperature of the drop changes, so any difference comes from the temperature.
 - **safety:** A grown-up pours all the hot water. The hot drop should be about 50 to 60 degrees: too hot to sip, but you can still hold the outside of the katori. Never suck on a straw that has hot water in it. You fill the straw by dipping it in and pressing a finger on the top end, so no sucking is needed. Wipe spills at once, so nobody slips. Food colour and ink stain clothes, so wear an old shirt.
-- **record:** Fill in the table for each drop. Then write three sentences: what you thought would happen (claim), what you saw (evidence), and why you think it happened (reasoning). Draw the glass with an arrow for each drop to show where it went.
+- **record:** Fill in the table for each drop. Then write three sentences: what you thought would happen (claim), what you saw (evidence), and why you think it happened (reasoning). Draw the glass with an arrow for each drop to show where it went, or tell your grown-up where each one went.
 - **results table:** Drop | Its temperature | What it did: rose, sank or stayed | Seconds to reach the top or the bottom
 - **s1 (4 min)**  
   *Parent does:* Show your child the materials. Say that four drops will be let go in one glass. Ask for a guess and a reason for each drop. Write them down.  
   *Parent says:* We will let four drops of red water go in the same glass. One is hot, one is warm, one is room-temperature, and one is ice-cold. What will each drop do? Rise, sink or stay? Why do you think so?  
-  *Child mode:* Four red drops go in one glass. One is hot, one is warm, one is room-temperature and one is ice-cold. What will each one do? Why?
+  *Child mode:* Guess what each drop will do. Why?
   - Ask: Which drop do you think will move fastest? Why? (good: The hottest, because it has the most heat.; The coldest, because it is heavy.; Maybe none will move.)
   - Note: Do not correct the guesses. Write each guess and its reason at the top of the table. Wrong guesses are useful, because they make the result a surprise.
 - **s2 (7 min) · grown-up needed**  
   *Parent does:* A grown-up makes the four katoris. Put 50 millilitres of water and 3 drops of red food colour or ink in each. Make one very hot, one warm like a bath, one room-temperature, and one ice-cold with ice cubes. Take the ice out before you test.  
   *Parent says:* The grown-up makes four katoris of red water. One is hot, like tea you wait to sip. One is warm, like bath water. One is room-temperature. One is cold from the ice. Take the ice cubes out before you use it.  
-  *Child mode:* A grown-up makes four katoris of red water. One is hot, one is warm, one is room-temperature and one is ice-cold.
+  *Child mode:* Put 3 drops of red colour in each katori.
   - Note: Mix half kettle water and half cold tap water for the hot katori. It should be too hot to sip but safe to hold the outside of the katori. If you have a thermometer, about 55 degrees is right, but you do not need one. Use the same number of colour drops in each. If the red is too strong, use 2 drops. Too much colour can make the drop heavier than the water for a different reason. Keep the ice-cold katori in the fridge or with ice cubes for 10 minutes before you use it, and take the ice out just before you test, because floating ice cubes will make swirls. If you have no ice, a katori that has sat in the fridge overnight also works. Do the hot katori last, and keep it covered with a plate or saucer so it does not cool while you wait.
   - Check: Why do all four katoris get the same red colour and the same amount of water? → **So only the temperature is different**
 - **s3 (5 min)**  
   *Parent does:* Fill the glass with room-temperature tap water, to about 8 centimetres deep. Stand it in front of the white paper. Wait two minutes. Watch the water until nothing moves.  
   *Parent says:* Fill the glass with tap water. Wait two minutes. The water is still when you cannot see anything moving. Hold the white paper behind the glass so the red will show up well.  
-  *Child mode:* Fill the glass. Wait two minutes. Wait until the water is still.
+  *Child mode:* Fill the glass and wait until the water is perfectly still.
   - Ask: Why do we wait for the water to be still? (good: So no stirring moves the red drop.; So the only thing moving it is its temperature.)
   - Note: If the glass has been moved, tiny swirls hide the result. Wait until a dust speck or bubble stops moving. Use the same glass and the same depth every time.
 - **s4 (14 min) · grown-up needed**  
@@ -288,9 +288,9 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Note: The hot drop should rise to the top, often in about 2 to 10 seconds, then spread across the surface. The ice-cold drop should sink to the bottom, often in about 3 to 10 seconds. The warm drop is slower. These times are typical, and not a promise: glass size and how gently you let go change them. The room-temperature drop should stay about where it is, or drift down very slowly. If a drop smears everywhere, you pushed it out too fast, so let it run out slowly. Your times will be different, and that is fine. Write down what you really see. If nothing seems to happen, the drop was probably too small or too pale: use 4 drops of colour, or let go closer to the middle, and look from the side against the white paper. With 2 to 4 children, give each child their own glass and their own temperature. Everyone lets go on 'three, two, one', and you watch all the glasses side by side. One child is the timer and one writes the results. With one child and a parent, the parent can be timer and recorder.
   - Check: The hot drop rises in the glass. What does that show about the hot water? → **It is lighter than the cooler water around it**
 - **s5 (5 min)**  
-  *Parent does:* Draw the glass with four arrows to show where each drop went. Then ask your child to say three things: what they thought (claim), what they saw (evidence), and why it happened (reasoning).  
+  *Parent does:* Ask your child to point to where each drop went in the glass. Then ask them to say three things: what they thought (claim), what they saw (evidence), and why it happened (reasoning).  
   *Parent says:* Tell me three things. What did you think would happen? What did you see? Why do you think the hot drop and the cold drop went opposite ways?  
-  *Child mode:* Draw four arrows in the glass. Say what you thought, what you saw, and why.
+  *Child mode:* Point to where each drop went. Say what you thought, what you saw, and why.
   - Note: A strong answer says the hot water was lighter and rose, and the cold water was heavier and sank. After they have said what they saw, you can add: hot water expands, so it is less dense. The cooler water around it is heavier, so it sinks underneath the hot water and pushes it up. Moving water that carries heat is called convection. If your results were different, for example the room-temperature drop sank, say that too. It may be because of the colour. Test again with less colour to check.
   - Think: If the hot drop went up, where did the cooler water come from to take its place?
 ### e2 · Dark, White and Shiny: which wrapping lets the Sun warm a tumbler most? (40 min)
@@ -298,18 +298,18 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 - **predict:** Before you start, guess which tumbler will warm the most and which will warm the least. Put the three in order. Why do you think so?
 - **fair test:** All three tumblers are the same size, hold the same amount of water (about 100 millilitres) at the same starting temperature, and each has a lid made of the same material as its wrapper. They sit side by side in the same sunlight for the same time. A fourth tumbler stays in the shade to show how much the room alone changes the water. Only the wrapping changes.
 - **safety:** Do not look at sunlight reflected off the foil. It can hurt your eyes. Keep the tumblers where they cannot fall or break, and do not leave small children alone on a terrace edge. Paper and glass left in the Sun can feel hot, so touch them first with the back of one finger. Glass thermometers can break: a grown-up holds them.
-- **record:** Fill in the table. Then draw a bar for the rise in each tumbler. Write three sentences: what you thought (claim), what you saw (evidence), and why it happened (reasoning).
+- **record:** Fill in the table. Then show the rise in each tumbler with a stack of coins, or draw a bar. Write three sentences: what you thought (claim), what you saw (evidence), and why it happened (reasoning).
 - **results table:** Tumbler | Start temperature (°C) | Temperature after 10 minutes (°C) | Temperature after 20 minutes (°C) | Rise (°C)
 - **s1 (4 min)**  
   *Parent does:* Show your child the tumblers, the paper and the foil. Ask for a guess and a reason. Write the order they choose.  
   *Parent says:* The Sun will shine on three tumblers. One is wrapped in black, one in white, and one in shiny foil. Which will get warmest? Which will stay coolest? Why do you think so?  
-  *Child mode:* Three tumblers sit in the Sun. One is wrapped in black paper, one in white paper and one in foil. Which will warm the most? Why?
+  *Child mode:* Guess which wrapping will warm the water most. Why?
   - Ask: Which do you think will warm the least, and why? (good: The foil, because it is shiny.; The white one, because it is light.; They will all be the same.)
   - Note: Do not correct the guess. Write the order down. Many children expect the foil to be hottest because it looks bright. Others pick white. The result is not always what they expect.
 - **s2 (8 min)**  
   *Parent does:* Wrap the black paper round the first tumbler and hold it with a rubber band. Wrap the white paper round the second. Wrap the foil round the third, with the shiny side out. Leave the fourth plain. Make a lid for each from the same paper or foil, with a small slit for the thermometer. Fill each tumbler with the same amount of water, about 100 millilitres. Put on the lids.  
-  *Parent says:* Wrap each tumbler all the way round, with the shiny side of the foil facing out. Put the same amount of room-temperature water in each. Put a lid on each, made of the same paper or foil as its wrapper. Now each tumbler is covered all over by one kind of wrapping.  
-  *Child mode:* Wrap three tumblers. Fill them all the same. Put on lids of the same colour.
+  *Parent says:* Wrap three tumblers all the way round, with the shiny side of the foil facing out. Leave the fourth plain. Put the same amount of room-temperature water in each. Put a lid on each, made of the same paper or foil as its wrapper.  
+  *Child mode:* Wrap each tumbler. Pour the same amount of water in each. Put on a lid made of the same wrapping.
   - Note: The Sun is high at midday in India, so it hits the top of a tumbler more than the sides. That is why each lid is the same colour as its wrapper. Fill each tumbler to the same mark with water from the same jug, about 100 millilitres, because a small amount of water warms by a bigger, easier-to-read number of degrees. Wrap two layers of white paper, or the light goes through it. If the foil is crumpled, smooth it out so it stays shiny. With 2 to 4 children, each child wraps and looks after one tumbler. With one child, the child wraps all of them.
   - Check: Why does the fourth tumbler stay in the shade? → **To show how much the room alone changes the water**
 - **s3 (3 min)**  
@@ -326,16 +326,16 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Ask: Can you feel a difference with your hand? (good: The black one feels warmest.; The foil one is cool.)
   - Note: Use a sunny hour, between 11 in the morning and 2 in the afternoon. On a cloudy day, wait for another day. While you wait, you can do the Hands Around a Diya activity or draw the heat's journey. The numbers will be a little uneven, so look at the order more than the exact numbers. On a clear day the black tumbler often rises a few degrees more than the white one, and the foil one often rises least. On a hazy day the gaps can be small, such as 1 or 2 degrees. If the shaded tumbler rises as much as the others, the day was too hot for a clean test: try early morning or another day. If your results do not match this, write down what you saw. A surprise is a result too. With 2 to 4 children, one reads the thermometer, one writes, one watches the clock, and one checks that nothing has been moved or has fallen into shade.
 - **s5 (5 min)**  
-  *Parent does:* Work out the rise for each tumbler by taking away its starting temperature from its last temperature. Draw a bar for each. Then ask your child to say what they thought, what they saw, and why.  
-  *Parent says:* Take away the starting number from the last number. That is the rise. Draw a bar for each tumbler. Which rose most? Tell me what you thought, what you saw, and why you think it happened.  
-  *Child mode:* Work out the rise for each one. Draw the bars. Say why.
+  *Parent does:* Work out the rise for each tumbler by taking away its starting temperature from its last temperature. Show each rise as a stack of coins, one coin for each degree. Then ask your child to say what they thought, what they saw, and why.  
+  *Parent says:* Take away the starting number from the last number. That is the rise. Make a stack of coins for each tumbler, one coin for each degree of rise. Which stack is tallest? Tell me what you thought, what you saw, and why you think it happened.  
+  *Child mode:* Work out the rise for each one. Build the stacks. Say why.
   - Note: A strong answer says that dark, dull paper takes in more of the Sun's radiation and turns it into heat, while white paper and foil send much of it back. After they have said what they saw, explain: the Sun's heat travels as radiation, and what happens next depends on the surface it lands on. If the shaded tumbler warmed too, subtract its rise from the others to see what the Sun added.
   - Think: If the Sun's warmth reached the black paper through empty space and clear air, what did the paper do with it?
 
 ## Activities
 ### a1 · Hands Around a Diya: where do you feel the warmth? (20 min)
 - **safety:** A grown-up lights the flame and stays beside the child all the time. Tie back long hair. No loose dupattas or sleeves. Keep curtains and paper away. Switch off any fan and close any window that makes a draught, so the flame does not lean. A child never reaches closer than 15 centimetres above the flame or closer than 5 centimetres to the side. The plate and the hot oil stay hot for a long time, so nobody touches them. Blow the flame out at the end.
-- **record:** A drawing of the diya with two palms near it, one at the side and one above, and for each one a word: none, a little, or a lot. Write the seconds it took for the side palm to feel warm, with and without the card. Then write which warmth the card blocked.
+- **record:** For the side palm and the palm above, write one word: none, a little, or a lot. Write the seconds it took for the side palm to feel warm, with and without the card. Then write which warmth the card blocked.
 - **s1 (4 min)**  
   *Parent does:* Ask your child to guess where the warmth is strongest: beside the flame, above it, or below it. Ask for a reason. Then ask what they think a card would do.  
   *Parent says:* A diya is a little heater. Where do you think you will feel the most warmth? Beside it, above it, or below it? Why do you think so? And what do you think a card would do?  
@@ -355,14 +355,14 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Note: The side warmth stops at once when the card goes up, and comes back when it goes away. The warmth above is not blocked by a card at the side. Do not explain yet. Let your child say what they think the two kinds of warmth are. Ask a second child, or the grown-up, to hold the card so the first child's hands stay still. Record the seconds in the drawing.
   - Check: The card stopped the warmth at the side straight away. What does this tell you about that warmth? → **It travels in straight lines from the flame, like light**
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to draw the diya and the two palms. Write one word near each: radiation or convection, with an arrow to show where the warmth travels. Ask them to explain.  
-  *Parent says:* Draw the diya and your two palms. Draw an arrow to show how the warmth got to each palm. One kind went in straight lines. The other was carried upwards by hot air. Which was which?  
-  *Child mode:* Draw the flame and both hands. Draw arrows. Which kind of warmth was which?
+  *Parent does:* Ask your child to point to each palm and say which kind of warmth reached it: radiation or convection. Ask them to explain.  
+  *Parent says:* How did the warmth get to your side palm? And to the palm above the flame? One kind went in straight lines. The other was carried upwards by hot air. Which was which?  
+  *Child mode:* Say which kind of warmth reached each palm.
   - Note: Now you can say the words. Warmth in straight lines that a card can block is radiation. Warm air rising and carrying heat is convection. A flame does both at once, and also conducts heat slowly into the plate.
   - Think: Why can you feel strong warmth above the flame, but only gentle warmth beside it?
 ### a2 · Paper Spiral: can rising air turn a snake of paper? (25 min)
 - **safety:** A grown-up lights the flame and holds the spiral. Keep the paper at least 15 centimetres above the flame. Never hold a spiral over a flame and walk away. Keep curtains and other paper away, and tie back long hair. If the paper starts to brown or curl, move it away at once. Blow out the flame at the end. The child uses scissors only with a grown-up beside them.
-- **record:** A drawing of the spiral above the flame, with arrows showing where the air moves. Write how many turns the spiral made in 20 seconds at each height you tried.
+- **record:** Draw the spiral above the flame with arrows for the air, or write one sentence about where the air moves. Write how many turns the spiral made in 20 seconds at each height you tried.
 - **s1 (4 min)**  
   *Parent does:* Ask your child to guess what will happen to the spiral when it hangs above a flame, and why. Write the guess.  
   *Parent says:* We are going to hang a paper spiral above a small flame. There is no wind and nobody will blow it. What do you think will happen? Why do you think so?  
@@ -377,35 +377,35 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   *Parent does:* A grown-up lights the diya, or two or three tea-lights placed close together, on a plate on a table. Tie the thread to a stick. Untwist the thread and let the spiral settle. Hold it on the stick 25 centimetres above the flame, and keep it still. If it does not turn, lower it slowly to 15 centimetres, but no lower. Count how many full turns it makes in 20 seconds.  
   *Parent says:* Hold the spiral on the stick, 25 centimetres above the flame, and keep your hand still. Watch. Does it turn? Which way? Count the turns in 20 seconds.  
   *Child mode:* Hold the spiral above the flame. Keep still. Does it turn? Count the turns.
-  - Ask: What is turning the spiral? Nobody is blowing it. (good: The air above the flame.; Hot air going up.; The warm air pushes on it.)
+  - Ask: Does the spiral turn faster when it is closer to the flame? Why? (good: The air above the flame.; Hot air going up.; The warm air pushes on it.)
   - Ask: Where does new air come from to replace the air that went up? (good: From the sides.; From below, near the plate.; From the cool room.)
   - Note: The spiral turns slowly, because warm air is rising past its slanted coils. It is a slow turn, perhaps a full turn every few seconds, and one tea-light at 25 centimetres may give only a small wobble. That is why two or three tea-lights close together, thin paper and a height of 15 to 20 centimetres work better. Never go nearer than 15 centimetres. A draught from a fan will spoil the result, so switch off any fans and close the window. If it still does not turn, check that the coils hang apart, and say honestly that the warm air was too weak. Try again with more tea-lights. With 2 to 4 children, one holds the stick with a grown-up beside them, one counts turns, one times 20 seconds, and one writes. Everyone makes their own spiral first.
   - Check: What turns the spiral? → **Warm air rising from the flame pushes on its slanted coils**
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to draw the diya and the spiral, with arrows showing where the air goes. Ask where the air comes from at the bottom.  
-  *Parent says:* Draw the flame and the spiral. Draw arrows for the air. The air goes up over the flame. Where does the air come from at the bottom? Draw that too.  
-  *Child mode:* Draw the flame, the spiral and the air. Where does new air come from?
+  *Parent does:* Ask your child to trace with a finger where the air goes around the flame and the spiral. Ask where the air comes from at the bottom.  
+  *Parent says:* Show me with your finger where the air goes. The air goes up over the flame. Where does the air come from at the bottom?  
+  *Child mode:* Trace the air with your finger. Where does new air come from?
   - Note: A good drawing has air rising over the flame and cooler air flowing in from the sides along the table to take its place. That is a convection current.
   - Think: If you put the flame in a tall jar with a lid on, what would happen to the spiral?
 ### a3 · Draw the Heat's Journey: three ways in one kitchen picture (25 min)
 - **safety:** A grown-up pours the hot water, and the child does not carry it. Use water that is hot but not boiling, about 60 degrees. Only the spoon handles are touched, never the water.
-- **record:** A drawing of a pot of dal on a stove, with a ladle in it and a child nearby, and three coloured arrows for conduction, convection and radiation.
+- **record:** A drawing of a pot of dal on a stove, with a ladle in it and a child nearby, and three coloured arrows for conduction, convection and radiation (or a photo of your set-up).
 - **s1 (10 min)**  
   *Parent does:* First a quick test. A grown-up pours hot (not boiling) water into the steel glass. Stand the steel spoon and the wooden spoon in it, leaning on the rim. Ask your child to guess which handle will feel warm first. After 2 minutes, touch both handles with a fingertip and say which is warmer. Then ask your child to draw a stove with a pot of dal on it. Add a steel ladle in the dal. Add a child standing close. Do not add the arrows yet.  
   *Parent says:* Draw a gas stove with a pot of dal on it. Put a steel ladle in the pot. Draw a child standing near, on the right. We will add the heat arrows next.  
-  *Child mode:* Draw a stove, a pot, a ladle and a child. No arrows yet.
+  *Child mode:* Draw a stove, a pot, a ladle and a child, or set them out with real things.
   - Note: The steel handle warms noticeably in a minute or two. The wooden one stays nearly cool. This is a real test of how well each material conducts heat. Write which was warmer, and whether it felt a little warmer or a lot warmer. Do not correct the guess before the test. If both feel the same, the spoons may be too short or the water too cool, so use more hot water. With 2 to 4 children, each child feels one spoon at a time and says what they notice.
 - **s2 (5 min)**  
   *Parent does:* Ask your child to draw a red arrow up the handle of the ladle. Then ask them to draw a blue loop of arrows inside the pot of dal. Ask where the dal at the bottom goes when it is heated.  
   *Parent says:* Draw a red arrow up the ladle handle. Draw a blue loop of arrows inside the dal. Which way does the hot dal go? Where does it go when it reaches the top?  
-  *Child mode:* Draw a red arrow up the ladle. Draw a blue loop in the dal.
+  *Child mode:* Draw a red arrow up the ladle and a blue loop in the dal, or use string.
   - Ask: Which way does the dal at the bottom go when it is hot? Where does it go after that? (good: It goes up in the middle.; It spreads across the top and goes down at the sides.)
   - Note: The red arrow shows heat creeping from part to part along the steel. The blue loop is the dal rising over the flame, sinking at the sides, and coming round again.
 - **s3 (5 min)**  
-  *Parent does:* Ask your child to draw orange wavy lines from the pot and the flame to the child's face. Then label each of the three kinds of arrow with its name.  
-  *Parent says:* Draw wavy orange lines from the flame and the hot pot to the child's face. The child feels warmth on the face, but the air between is not carrying it. Now write the name next to each kind of arrow.  
-  *Child mode:* Draw wavy lines to the face. Label all three kinds of arrows.
-  - Ask: Why are the lines to the face wavy and in every direction? (good: Because radiation goes out in all directions.; It is like light.)
+  *Parent does:* Ask your child to point from the pot and the flame to the child's face and say how the warmth gets there. Then write the three names on small bits of paper and put each by its arrow.  
+  *Parent says:* Point from the flame and the hot pot to the child's face. The child feels warmth on the face, but the air between is not carrying it. How does it get there? Now put a name paper by each kind of arrow.  
+  *Child mode:* Point to how the warmth reaches the face. Put each name by its arrow.
+  - Ask: How does the warmth reach the child's face? (good: Because radiation goes out in all directions.; It is like light.)
   - Note: Radiation goes out from the flame and the hot pot in every direction, and is felt on the skin wherever it lands. The words to label with are conduction, convection and radiation.
 - **s4 (5 min)**  
   *Parent does:* Ask your child to point to one arrow and explain it. Ask what would stop each kind of heat: a lid, a wooden handle, a card between pot and face.  
@@ -414,7 +414,7 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Note: A wooden handle slows conduction. A lid slows convection, because it traps the rising hot steam. A card blocks radiation straight away. Only radiation can work with no air.
   - Think: Which of the three could still work if there were no air at all?
 ### a4 · Act Out the Sea Breeze: land, sea and the Sun (20 min)
-- **record:** A drawing of a beach in the afternoon and at night, with arrows to show which way the wind blows each time.
+- **record:** Tell your grown-up which way the wind blows in the afternoon and at night, or draw a beach with arrows for each time.
 - **s1 (5 min)**  
   *Parent does:* Lay out the blue sheet and the yellow sheet side by side. Choose one person as the Sun. Two people are land air on the yellow sheet. Two people are sea air on the blue sheet. Ask your child to guess which way the wind will blow in the afternoon.  
   *Parent says:* Blue is the sea, and yellow is the land. One of us is the Sun. Two of us are land air, and two are sea air. In the afternoon, the Sun shines on both. Which way will the wind blow, from the sea to the land or from the land to the sea? Why?  
@@ -435,16 +435,16 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Ask: Why did it turn round? (good: Because the land is cooler than the sea at night.; The warm part changed.)
   - Note: The night land breeze is usually gentler than the afternoon sea breeze. Fishing boats leave a beach early in the morning on the land breeze, and come home on the sea breeze.
 - **s4 (3 min)**  
-  *Parent does:* Ask your child to draw the beach at noon and at midnight, with arrows for the wind. Ask what would happen to the sea breeze on a cloudy day, when the Sun is hidden.  
-  *Parent says:* Draw the beach in the afternoon and at night. Use arrows for the wind. Now think about a cloudy day, when the land stays cool. What will the sea breeze do?  
-  *Child mode:* Draw the beach by day and by night. Draw arrows for the wind.
+  *Parent does:* Ask your child to point which way the wind blows in the afternoon and at night. Ask what would happen to the sea breeze on a cloudy day, when the Sun is hidden.  
+  *Parent says:* Point which way the wind blows in the afternoon. Now at night. Now think about a cloudy day, when the land stays cool. What will the sea breeze do?  
+  *Child mode:* Point which way the wind blows by day and by night.
   - Note: On a cloudy day, the land does not warm up as much, so the sea breeze is weak or comes late. That is why a cloudy afternoon on the coast can feel still. To see the real reason, try this on a sunny day: put one katori of dry sand or soil and one katori of water of the same amount on a window ledge in the Sun for 15 minutes. Touch each with the back of a finger. The sand is warmer to touch than the water. This is why the land warms faster than the sea.
   - Think: Which is warmer in the evening, a rock on the beach or a tub of sea water? Why does that matter for the wind?
 
 ## Projects
 ### p1 · Foil Sun Oven: melt a piece of chocolate with sunlight alone (60 min)
 - **safety:** A grown-up cuts the lid. Never look at the Sun, or at sunlight bouncing off the foil. Keep the oven where it cannot fall. The inside can get hot, so use a spoon or tongs to take out the chocolate. Treat the chocolate as a science sample and do not eat it: it has touched foil and paper, and some chocolate has nuts or milk that some children cannot eat. Wipe up melted chocolate at once.
-- **record:** Write the time you put both pieces of chocolate in, and the time each began to soften and to melt. Draw the oven and the path of the sunlight into it.
+- **record:** Write the time you put both pieces of chocolate in, and the time each began to soften and to melt. Draw the oven and the path of the sunlight into it, or tell your grown-up the path.
 - **s1 (5 min)**  
   *Parent does:* Show your child the materials. Ask them to guess if the oven will melt chocolate, and what each part of the oven is for. Write down their ideas.  
   *Parent says:* We are going to make an oven that uses only the Sun. There is no fire and no electricity. Do you think it will melt chocolate? What do you think the foil is for? And the black paper? Why?  
@@ -465,28 +465,28 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
   - Note: On a bright, clear day, between 11 in the morning and 2 in the afternoon, chocolate in the oven often goes soft in about 20 to 30 minutes and melts in about 30 to 60 minutes. Times are typical, not a promise. The piece outside the oven should stay firm much longer, and that difference is your evidence. On a cloudy or hazy day, or in winter, it may not melt at all. If so, try a second day. If it is very hot, put a spoon under the chocolate to protect the paper. Never leave the oven out in the Sun and walk away. If nothing happens, check for gaps in the cling film, crumpled foil, or a flap that is not aimed at the Sun, and turn the oven every 10 minutes. With 2 to 4 children, one watches the clock, one turns the oven, one writes the times, and one looks at the outside chocolate. With one child, the child does all of these.
   - Check: The warm air inside the oven cannot escape because of the cling film. Which way of moving heat does the film stop? → **Convection, because it stops hot air from rising out**
 - **s4 (5 min)**  
-  *Parent does:* Ask your child to draw the oven with the sunlight arrows going in and bouncing. Ask which two ideas from this unit made the oven work. Ask how they could make it hotter.  
-  *Parent says:* Draw your oven and the sunlight. Which two ideas from this unit made the oven work? How could we make it hotter next time?  
-  *Child mode:* Draw the oven and the sunlight. What made it work? How can we make it hotter?
+  *Parent does:* Ask your child to trace with a finger the path of the sunlight going into the oven and bouncing. Ask which two ideas from this unit made the oven work. Ask how they could make it hotter.  
+  *Parent says:* Show me with your finger where the sunlight goes. Which two ideas from this unit made the oven work? How could we make it hotter next time?  
+  *Child mode:* Trace the sunlight with your finger. What made it work? How can we make it hotter?
   - Note: Good answers are that the foil reflects radiation onto a dark surface, and that the cling film traps warm air so convection cannot carry the heat away. To make it hotter, use a bigger reflector, a better seal, or a black pot with a lid.
   - Think: Why do real solar cookers in India often have a black pot and a curved mirror?
 
 ## Challenges
 ### c1 · Cool Roof: keep a shoebox house coolest in the Sun (50 min)
 - **problem:** You have three identical shoebox houses, and half an hour of hot sunlight. Cover the roof of each with something different to keep the inside as cool as possible. Which roof keeps the box coolest, and by how much?
-- **your turn:** Sketch your plan. Build it, and test it in the Sun. Change one thing, such as the air gap above the roof, and test again. Which roof kept the inside coolest? Why do you think it did?
+- **your turn:** Say or sketch your plan. Build it, and test it in the Sun. Change one thing, such as the air gap above the roof, and test again. Which roof kept the inside coolest? Why do you think it did?
 - **constraints:** Each box has the same size roof and walls.; You can only change the covering on the roof.; Each roof covering must be made from things you already have at home.; The boxes must sit side by side in the Sun for the same 30 minutes.; Read the temperature inside each box at the start and at the end.
 - **general:** A white roof, to reflect as much sunlight as possible.; A shiny foil roof with the shiny side out.; A dark roof, as a test to compare with the other two.
 - **creative:** A foil roof held 3 centimetres above the box on little cardboard legs, so air can flow between.; A white roof with a wet cloth on top, to see if water helps too.; A roof with a high gap at the top of the walls, so hot air can escape, like the ventilators in an old courtyard house.
 - **s1 (6 min)**  
-  *Parent does:* Read the problem together. Ask your child to sketch three roof designs, and to guess which one will keep the box coolest.  
-  *Parent says:* You have three shoebox houses and half an hour of hot sunlight. How could you cover the roofs to keep the inside cool? Draw three ideas. Which do you think will work best, and why?  
-  *Child mode:* You have three boxes and three roofs. Draw some ideas. Which box will stay coolest?
+  *Parent does:* Read the problem together. Ask your child to choose three roof designs (tell them, or sketch them), and to guess which one will keep the box coolest.  
+  *Parent says:* You have three shoebox houses and half an hour of hot sunlight. How could you cover the roofs to keep the inside cool? Tell me three ideas. Which do you think will work best, and why?  
+  *Child mode:* Pick three roof coverings. Which box will stay coolest?
   - Ask: What would make a roof stay cooler? (good: Something white.; Something shiny.; A gap for air to move.)
 - **s2 (14 min)**  
-  *Parent does:* Build the three boxes. Cover each roof with a different covering. Cut a small hole in the side of each box to put the thermometer in. Read the starting temperatures and write them down.  
-  *Parent says:* Cover each roof with something different. Make a small hole in the side of each box for the thermometer. Read the starting temperatures. Write them down.  
-  *Child mode:* Cover each roof. Put a thermometer in each box. Write the starting numbers.
+  *Parent does:* Build the three boxes. Cover each roof with something different: black paper, white paper or foil. Cut a small hole in the side of each box to put the thermometer in. Read the starting temperatures and write them down.  
+  *Parent says:* Cover each roof with black paper, white paper or foil, one each. Make a small hole in the side of each box for the thermometer. Read the starting temperatures. Write them down.  
+  *Child mode:* Cover each roof. Put the thermometer in each box in turn. Write the starting numbers.
   - Note: Seal the gaps at the lid with tape so air cannot leak. All three boxes must start at about the same temperature. If they do not, wait a little in the shade.
 - **s3 (22 min)**  
   *Parent does:* Put the three boxes side by side in full Sun for 30 minutes. Read the thermometers after 15 minutes and after 30 minutes. Write the numbers down. Then work out how much each box warmed.  
@@ -509,7 +509,7 @@ That week, Mama took off every sheet of glass. He kept the air conditioner for t
 - **s1 (5 min)**  
   *Parent does:* Read the problem together. Ask your child to guess which jug will be cooler at the top after 10 minutes. Is it the jug with ice on top, or ice at the bottom? Ask why.  
   *Parent says:* You have two jugs of warm water and two bags of ice. Where should the ice go to cool the water fastest, at the top or at the bottom? Why do you think so?  
-  *Child mode:* There are two jugs. One has ice at the top and one has ice at the bottom. Which cools faster? Why?
+  *Child mode:* Guess: which cools faster, ice at the top or ice at the bottom? Why?
   - Ask: What do you think cold water does in a jug? (good: It sinks.; It stays where it is.; It spreads out.)
   - Note: Do not correct the guess. Many children guess that the ice at the bottom will do better because the cold is closer to everything.
 - **s2 (8 min) · grown-up needed**  

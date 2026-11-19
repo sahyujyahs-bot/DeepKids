@@ -240,12 +240,12 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   *Parent does:* Play the first six cards. After each card, read the back aloud. Ask the question below after the third card.  
   *Parent says:* The reader reads the front. Everyone else picks a token. Turn the tokens over together. Now the reader reads the back. Who scored?  
   *Child mode:* The reader reads a card. Pick a token. Turn it over. Check the back.
-  - Ask: Think of the card you just played. Why do you think a net or a cloth could not catch it? (good: It is dissolved.; It is too small.; It is a germ, which is alive.; It floats, so a cloth is not needed.)
+  - Ask: Think of the last card. Why could a net or a cloth catch it, or not? (good: It is dissolved.; It is too small.; It is a germ, which is alive.; It floats, so a cloth is not needed.)
 - **s3 (8 min)**  
   *Parent does:* Play the next twelve cards. Keep score. After the sixth card of this round, ask the question below.  
   *Parent says:* Keep going. Keep your own score. Is there a pattern in what a net can catch, and what it cannot?  
   *Child mode:* Keep playing. Keep your score. Is there a pattern?
-  - Ask: What do the Neither works cards have in common? (good: They are dissolved.; They are too small to see.; Most of them are clear.)
+  - Ask: What do the cards where neither works have in common? (good: They are dissolved.; They are too small to see.; Most of them are clear.)
   - Note: Most Neither works cards are dissolved things, germs, or heat. The cards that a net can catch float, and the cards that need a cloth sink. The main point is that dissolved pollution cannot be seen and cannot be caught.
 - **s4 (3 min)**  
   *Parent does:* Play the last six cards. Add up the scores. Ask your child which kinds of pollution are the hardest to clean, and which kinds are the easiest.  
@@ -260,12 +260,12 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - **predict:** Before you start, guess. In which tumbler will the colour vanish? In which will the smell vanish? Which goes first? Why do you think so?
 - **fair test:** Every tumbler holds the same 200 millilitres of clean water, and every step uses one level teaspoon. Tumbler 0 is the control: no colour and no essence. Each tumbler is looked at in the same light, on the same white paper. In the sniff test, a die picks where the odd cup goes, the child's eyes are shut, and tumblers 2, 3 and 4 are each tried three times, because one try can be a fluke. Rest your nose for a minute between rounds.
 - **safety:** Do not drink or taste anything in the tumblers. Food essence is strong, so keep it away from eyes and from small children. Wash hands afterwards.
-- **record:** Fill in the table. Then draw the five tumblers in a row and colour each one as you saw it. Mark the tumbler where the colour stopped and the tumbler where the smell stopped.
+- **record:** Fill in the table. Then line up the five tumblers. Put a sticky note on the tumbler where the colour stopped and another where the smell stopped. Take a photo.
 - **results table:** Tumbler | How much weaker than tumbler 1 | Can you see colour? (yes or no) | Sniff trial 1 (right or wrong) | Trial 2 | Trial 3
 - **s1 (3 min)**  
   *Parent does:* Show the five numbered tumblers, the colour and the essence. Explain the plan. Write down your child's guess and the reason for it.  
   *Parent says:* We will make coloured, scented water, and then thin it out again and again. In which tumbler will the colour vanish? In which will the smell vanish? Which goes first, and why do you think so?  
-  *Child mode:* We will thin out coloured, scented water again and again. Where will the colour vanish? Where will the smell vanish? Which goes first, and why?
+  *Child mode:* Make a guess. Will your eyes or your nose stop finding it first?
   - Ask: Why do you think the colour, or the smell, will vanish first? (good: Eyes need a strong colour to see it.; Smells travel in the air, so the nose finds them easily.; I do not know, so let us test it.)
   - Note: Do not correct the guess. Wait until your child names a tumbler and gives a reason. Write both at the top of the table.
 - **s2 (6 min)**  
@@ -302,8 +302,8 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Think: Tumbler 3 looks like plain water. Is it plain water?
 - **s7 (2 min)**  
   *Parent does:* Ask where the five drops of colour are now. Then tip the tumblers into the sink and wash up.  
-  *Parent says:* We began with five drops of colour. Where are they now?  
-  *Child mode:* Where are the five drops of colour now?
+  *Parent says:* We began with five drops of colour. Look at tumbler 4. It looks like plain water.  
+  *Child mode:* Think about the five drops we began with.
   - Ask: Where are the five drops of colour now? (good: Spread out through all the tumblers.; Most of them are still in tumbler 1.; They are still somewhere, just too thin to see.)
   - Note: Most of the colour is still in tumbler 1, because each spoonful took only one forty-first of it. The rest is spread out, thinner at each step. Nothing was destroyed. It was only spread out. You can say this after your child has answered.
 ### e2 · The Overnight Collector: can a paper strip find what your eyes cannot? (25 min, 2 days)
@@ -311,7 +311,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - **predict:** Before you start, guess. In which tumbler will the strip show colour in the morning? In which will it show none? Why do you think so?
 - **fair test:** The three tumblers each hold 200 millilitres. The strips are the same paper, the same size, and dip the same 2 centimetres. One tumbler holds plain water, as the control. The tumbler marked 'tint' is the last one in which you could see a faint colour. The tumbler marked 'none' is the first one in which you saw no colour. All three stand in the same place overnight.
 - **safety:** Do not drink the water. Wash hands after handling the coloured strips. Make the tumblers again if you did the Gone from Sight test more than a day ago.
-- **record:** Write what each strip looks like in the morning, and measure how high any colour has climbed. Draw the three strips side by side.
+- **record:** Write what each strip looks like in the morning, and measure how high any colour has climbed. Lay the three strips side by side and take a photo.
 - **results table:** Tumbler | What it held | Colour on the strip? (none, faint or clear) | Height of the colour from the water (cm)
 - **schedule:** day 1: Guess. Make the three tumblers if needed. Hang the strips and leave them overnight in a breezy spot. (15 min); day 2: Take out the strips. Compare them. Measure where any colour has climbed. Say what you found and why. (10 min)
 - **s1 (4 min)**  
@@ -327,7 +327,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Note: The strip must hang free and not touch the glass. If it touches, the water can creep down the glass instead. Make sure all three strips are cut from the same sheet of paper. With 2 to 4 children, each child can cut, tape and hang one strip, and the fourth child can read out the labels. If you have a spare strip, hang it in tumbler 1, the strong mix. That strip is sure to show colour, so you can compare the others with it.
   - Check: Why do all three strips dip the same 2 centimetres? → **So the only difference is the water in the tumbler**
 - **s3 (3 min)**  
-  *Parent does:* Put the three tumblers on a plate in a breezy place, such as by a window or in the breeze of a slow fan. Leave them overnight. Do not move them.  
+  *Parent does:* Put the three tumblers on a plate in a breezy place. A window or a slow fan will do. Leave them overnight. Do not move them.  
   *Parent says:* Put the tumblers somewhere with moving air, by a window or in the breeze of a slow fan. Leave them overnight. We will look in the morning.  
   *Child mode:* Put the tumblers in a breezy spot. Leave them overnight. Do not touch them.
   - Note: Moving air makes the water dry off the strip faster. As water dries off the top of the strip, more climbs up to replace it and brings its colour along. The colour stays when the water leaves. In damp or rainy weather the strip dries off slowly, so put the tumblers right in front of a fan and give them 24 hours instead of overnight. If the strip is dry and the water never climbed up it, check that it dips into the water.
@@ -360,7 +360,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - **s2 (6 min)**  
   *Parent does:* Number the bowls 1 to 6. Pour 300 millilitres of water into each. Add 1 tablespoon of oil to each. Label bowl 6 control. Match the tools to the bowls: 1 spoon, 2 paper towel, 3 cotton wool, 4 hair, 5 dishwash liquid.  
   *Parent says:* Pour water into all six bowls. Add a tablespoon of oil to each. Watch how the oil spreads. Bowl 6 is the control, so we will not touch it.  
-  *Child mode:* Pour water into six bowls. Add a spoon of oil to each. Watch how it spreads. Bowl 6 is the control.
+  *Child mode:* Pour water into six bowls. Add a spoon of oil to each. Bowl 6 is the control.
   - Ask: What does the oil do when it hits the water? (good: It floats.; It spreads out into a round patch.; It does not mix.)
   - Note: Pour the oil slowly onto the middle of the water. Oil floats because it is lighter than water, and it does not mix with water. Over a minute it spreads into a thin round patch.
 - **s3 (10 min)**  
@@ -397,11 +397,11 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 ## Activities
 ### a1 · The Torch Beam Test: can a light show what clear water hides? (15 min)
 - **safety:** Do not shine the torch into anyone's eyes. Do not drink the water.
-- **record:** Write beam, faint beam or no beam for each tumbler. Draw the three tumblers with the light going through them.
+- **record:** Write beam, faint beam or no beam for each tumbler. Then tell a grown-up one kind of dirt a torch can find and one it cannot.
 - **s1 (3 min)**  
   *Parent does:* Show the three tumblers. Tell your child what goes in each. Ask in which tumbler a torch beam will show up. Write down the guess and the reason.  
   *Parent says:* Tumbler A is plain tap water. Tumbler B has salt dissolved in it. Tumbler C has a tiny drop of milk. In which will you see a beam of light? Why do you think so?  
-  *Child mode:* A is plain water. B has salt. C has a drop of milk. Where will you see the beam? Why?
+  *Child mode:* A is plain water. B has salt. C has a drop of milk. Pick one.
   - Ask: Why do you think that tumbler will show the beam? (good: Milk is white and cloudy.; Salt makes the water thick.; Clear water lets light through without showing it.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (4 min)**  
@@ -427,7 +427,7 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - **s1 (4 min)**  
   *Parent does:* Draw a grid of 30 squares on paper. Put one black seed in each square. Say that each square is one tiny plankton. Each seed is a tiny bit of pollution that the plankton took from the water. Ask for a guess.  
   *Parent says:* Here are thirty tiny plankton, and each one carries a very small bit of pollution. A small fish eats five plankton. A big fish eats three small fish. A person eats two big fish. Who will have the most pollution in their body? Why do you think so?  
-  *Child mode:* Each square is a plankton. Each seed is a bit of pollution. Who ends up with the most? Why?
+  *Child mode:* Each square is a plankton. Each seed is a bit of pollution.
   - Ask: Who do you think will have the most pollution in their body? Why? (good: The person, because they eat the most fish.; The big fish.; They will all have the same.)
   - Note: Do not correct the guess. Write it down.
 - **s2 (6 min)**  
@@ -448,13 +448,13 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Note: The plate holds 30 seeds, which is 30 times as many as in one plankton square. In the real world, the pollutant in the water may be too thin to measure, and the fish at the top can still carry thousands of times more. With 2 to 4 children, each takes a role: plankton keeper, small fish, big fish and person. Hand the seeds on in turn. Use black peppercorns or any dry bean, and count into a dish so seeds do not roll away.
 - **s5 (2 min)**  
   *Parent does:* Ask what would change if the fish could pass the pollution out of their bodies. Ask what a person could do to take in less.  
-  *Parent says:* What would change if the fish could get rid of the pollution? Why is it a problem when the pollution is not broken down?  
+  *Parent says:* What would change if the fish could get rid of the pollution? What could a person do to take in less?  
   *Child mode:* What if fish could get rid of the pollution? What changes?
   - Note: Pollution builds up when a body takes it in faster than it can get rid of it. Mercury leaves a body very slowly, so it adds up over a whole life. In this game every seed stays. Real animals do pass out some pollutants, and some pollutants leave the body much faster than others.
   - Think: Which would hold more pollution, a small fish or a big fish? Which would you eat more often?
 ### a3 · Ask About the Pipe: where does our used water go? (20 min, 2 days)
 - **safety:** Never open a manhole or a tank cover. Stay out of any plant room unless the caretaker takes you in. Wash your hands afterwards.
-- **record:** Draw a picture or map of the path, from your kitchen and toilet to where the water ends up. Write one thing you still wonder about.
+- **record:** Keep your drawing of the path, or a photo of it. Write one thing you still wonder about.
 - **schedule:** day 1: Ask the four questions. Walk round the building and look for pipes, covers and signs. (12 min); day 2: Draw the path of the used water from your kitchen and toilet to where it ends. (8 min)
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* Ask a grown-up these four questions. Where does the water from our toilets and kitchens go? Is there a treatment plant, a septic tank or a sewer? Who looks after it? What happens to the cleaned water? Write the answers.  
@@ -463,15 +463,15 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
   - Ask: Where do you think our used water goes? (good: Into the river.; Into the ground.; To a plant that cleans it.)
   - Note: Many large apartment blocks in Indian cities have a small treatment plant, and use the clean water for gardens and flushing. Other homes are linked to a sewer pipe under the road, or to a septic tank. In some places the drain ends in a stormwater drain or a nala. Write the answer you get, even if it is 'I do not know'. If you live in a house in a village or small town, ask a neighbour, the panchayat or ward office, or the mason who built the house. Many homes use a septic tank and a soak pit. With 2 to 4 children, each child asks one of the four questions and writes the answer.
 - **s2 (6 min) · grown-up needed**  
-  *Parent does:* Walk round the building with the grown-up. Look for drain pipes, covers with writing, a small plant room, and signs. Draw what you see. Do not open any cover or tank.  
-  *Parent says:* Walk round the building and look for pipes, covers and signs. Draw what you find. We do not open anything.  
-  *Child mode:* Look for pipes, covers and signs. Draw them. Do not open anything.
+  *Parent does:* Walk round the building with the grown-up. Look for drain pipes, covers with writing, a small plant room, and signs. Name each one you see, and take a photo. Do not open any cover or tank.  
+  *Parent says:* Walk round the building and look for pipes, covers and signs. Name each one you find. We do not open anything.  
+  *Child mode:* Look for pipes, covers and signs. Name them. Do not open anything.
   - Note: A plant room may have a sign such as STP. That stands for sewage treatment plant. You can ask the caretaker to show it from the door. Do not go in unless you are taken in.
   - Check: Why do we not open covers or tanks? → **They may hold harmful gases and germs, and it is not safe to lean over them**
 - **s3 (8 min)**  
   *Parent does:* On day two, draw the path on a sheet of paper. Start at your kitchen tap and your toilet. Follow it with arrows to wherever it ends. Mark the stages where it is cleaned, and the stage where it is not. Write one thing you still wonder about.  
-  *Parent says:* Draw the path of your used water, with arrows. Start at your kitchen and toilet. Where does it end? Is it cleaned on the way? What do you still wonder about?  
-  *Child mode:* Draw the path of your used water. Where does it end? Is it cleaned?
+  *Parent says:* Draw the path of your used water, with arrows, or tell it to a grown-up step by step. Start at your kitchen and toilet. Where does it end? Is it cleaned on the way? What do you still wonder about?  
+  *Child mode:* Draw the path of your used water, or tell it out loud. Where does it end? Is it cleaned?
   - Note: If your building has no treatment, this is a good thing to talk about as a family or as a building. If there is a plant, ask who checks the water that leaves it, and how often.
   - Think: We say used water goes 'away'. When your water leaves the building, where does it really go?
 ### a4 · Our Nearest Water: what is it used for, and what does it carry? (15 min)
@@ -491,14 +491,14 @@ And Paati, who had looked into that well for sixty years and trusted her eyes, n
 - **s3 (4 min)**  
   *Parent does:* Ask your child to write what this water is used for and what it is clean enough for. Ask what it may carry that cannot be seen.  
   *Parent says:* What is this water used for? Is it clean enough for that? What could it carry that we cannot see?  
-  *Child mode:* What is this water used for? Is it clean enough for that?
+  *Child mode:* Tell a grown-up what this water is used for.
   - Note: There is no single right answer. The point is that 'clean' depends on the use. Water that is fine for washing a scooter may not be fine for drinking, and water for drinking after treatment may not be fine for a baby's bath.
   - Think: A river can be fine for irrigating fields and not for drinking. Is it clean, or not clean?
 
 ## Projects
 ### p1 · Clay, Colour and the Bucket: what happens to a festival figure in water? (70 min, 4 days)
 - **safety:** Use only water-based paint that says non-toxic on the label, and a kumkum you know is safe for skin. Wash hands after handling clay and paint. Do not put paint water on plants or down the drain: an adult will decide where it goes. Keep paint away from mouths. Check that nobody is allergic to turmeric or the paint, and wear old clothes, because turmeric stains.
-- **record:** Draw the three figures and the three buckets on day 3 and day 4. Write what happened to each figure, and what colour the water was.
+- **record:** Take a photo of the three figures and the three buckets on day 3 and day 4. Write what happened to each figure, and what colour the water was.
 - **schedule:** day 1: Shape three small figures or diyas from clay. Paint one with turmeric and kumkum paste, and one with poster paint. Leave the third plain. (30 min); day 2: Turn the figures over so that they dry on all sides. Leave them until they are hard and pale, 2 to 3 days, or longer in damp weather. (5 min); day 3: Put each figure in its own bucket of water. Watch and write what happens every ten minutes for half an hour. (25 min); day 4: Look at the buckets. Let the mud settle and look at the water. Decide where each bucket's water should go. (10 min)
 - **s1 (8 min)**  
   *Parent does:* Show the materials. Explain that at some festivals, people dip clay figures in water. Ask what will happen to each figure and to the water. Write down your child's guess and the reason.  

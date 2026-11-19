@@ -528,7 +528,7 @@
     "with a parent",
     "with friends"
    ],
-   "context": "This is a game of chance that builds a shape. You release walkers that wander at random and stick to a seed, and a branching cluster grows on your grid.",
+   "context": "This is a game of chance that builds a shape. You release walkers that wander at random and stick to a seed, and a branching cluster grows on your grid. You will find out why the arms grow long and the hollows stay empty.",
    "setup": [
     {
      "art": "A 7 by 7 grid of squares on paper with the middle square shaded, a bean standing on a square on the top edge and a die beside the sheet.",
@@ -642,8 +642,8 @@
      "id": "s5",
      "mins": 8,
      "do": "Play round 2, and round 3 if there is time (a second sitting is fine). Write the walker counts on the score sheet. Add up the rounds won and name the winner.",
-     "say": "Play another round, or two. Are the clusters exactly the same? Are they the same kind of shape?",
-     "kid": "Play round 2, and round 3 if there is time. Count the walkers. Is each shape the same?",
+     "say": "Play another round, or two. Write the walker counts on the score sheet.",
+     "kid": "Play round 2, and round 3 if there is time. Count the walkers each time.",
      "ask": [
       {
        "q": "Were the three clusters exactly the same?",
@@ -702,7 +702,7 @@
    ],
    "safety": "Sharpen pencils with a grown-up, or use a sharpener with a cover.",
    "record": "Fill in the table. Stick your straight line and your coast in your notebook. Write the roughness number you found. Then write whether your coast behaves like a line, like a page, or in between.",
-   "context": "In this experiment, you draw a straight line and a crinkly coast on squared paper and count the boxes they touch at three box sizes. You use the counts to give your coast a roughness number.",
+   "context": "In this experiment, you draw a straight line and a crinkly coast on squared paper and count the boxes they touch at three box sizes. You use the counts to give your coast a roughness number. You will find out if a crinkly coast behaves like a line, like a filled page, or in between.",
    "setup": [
     {
      "art": "A page of 1 centimetre squares with a straight horizontal line drawn through the middle of a row of squares, from the left edge to the right edge.",
@@ -726,8 +726,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child a squared page. Ask them to guess how the box counts will change, and to give a reason. Write the guess at the top of the table.",
-     "say": "A straight line touches 5 boxes when the boxes are 4 centimetres wide. How many will it touch when the boxes are half as wide? What will a crinkly coast do? Why do you think so?",
-     "kid": "A line touches 5 big boxes. How many small boxes will it touch? What about a crinkly coast?",
+     "say": "A straight line touches 5 boxes when the boxes are 4 centimetres wide. We will make the boxes half as wide, then half again, and count each time.",
+     "kid": "Look at the squared page. Soon the boxes will get smaller. Think about what happens to the count.",
      "ask": [
       {
        "q": "Will the coast's count grow by more than the line's, less, or the same? Why?",
@@ -745,7 +745,7 @@
      "id": "s2",
      "mins": 8,
      "do": "On page 1, draw a straight line through the middle of a row of squares. Make it 20 centimetres long. Do not draw it along a grid line. On page 2, draw a coast from the left edge to the right edge. First draw 4 big bays and points. Then add smaller bays on those. Then add tiny wiggles.",
-     "say": "The straight line goes through the middle of a row, not along a grid line. For the coast, start with big bays. Then put smaller bays inside them. Then even smaller ones. Make it as crinkly as you can.",
+     "say": "The straight line goes through the middle of a row, not along a grid line. For the coast, start with big bays. Then put smaller bays inside them. Then even smaller ones. Make it as crinkly as you can. If drawing a coast is hard, trace a real coast from a map instead.",
      "kid": "Draw a straight line in a row of squares. Draw a crinkly coast on page two. Add bays inside bays.",
      "parent": "A coast with bays inside bays gives a better result than a smooth wobbly line. Keep the coast from crossing itself. Keep the pencil line thin so the shaded boxes are easy to see.",
      "context": "In this step, you draw the straight line and the crinkly coast."
@@ -821,8 +821,8 @@
      "id": "s7",
      "mins": 4,
      "do": "Ask your child to say what they found. Write down what they found, the numbers that show it, and the reason.",
-     "say": "What did you find? What numbers show it? Why do you think the coast grew faster than the line but slower than a filled page?",
-     "kid": "What did you find? Which numbers show it? Why?",
+     "say": "What did you find? What numbers show it?",
+     "kid": "Tell your grown-up what you found. Point to the numbers that show it.",
      "ask": [
       {
        "q": "Why did the coast's count grow faster than the line's, but slower than a page's?",
@@ -890,8 +890,8 @@
     }
    ],
    "safety": "Do not pick leaves or bend the stem. Use only plants you know are safe to touch. Some plants, such as chilli, can sting the eyes, and brinjal stems can have small thorns, so keep hands away from your face and touch gently. Wash hands afterwards. Do not taste any leaf.",
-   "record": "Fill in the table for each stem. Draw the stem seen from above, with the leaves in order and an arrow showing which way they turn.",
-   "context": "In this experiment, you tag the leaves of a real stem, follow a thread round it and work out how far each leaf turns from the last. You compare your result with the fractions that plants often use.",
+   "record": "Fill in the table for each stem. Draw the stem seen from above, with the leaves in order and an arrow showing which way they turn. Or take a photo from above and write the tag numbers beside it.",
+   "context": "In this experiment, you tag the leaves of a real stem, follow a thread round it and work out how far each leaf turns from the last. You compare your result with the fractions that plants often use. You will find out how plants spread their leaves so each one gets light.",
    "setup": [
     {
      "art": "A potted plant with small numbered paper tags on the leaves from 0 at the bottom up to 8 near the top.",
@@ -911,8 +911,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Show your child the plant. Ask for a guess and a reason. Write the guess at the top of the table.",
-     "say": "The leaves climb the stem. Does each leaf turn half a circle from the last, or less? How many leaves will you pass before one sits directly above the first? Why do you think so?",
-     "kid": "Look at the leaves on the stem. How far does each leaf turn? Why do you think so?",
+     "say": "The leaves climb the stem like stairs. Does each leaf sit right above the last, or does it turn round the stem?",
+     "kid": "Look at the leaves going up the stem. Which side of the stem is each one on?",
      "ask": [
       {
        "q": "How far do you think each leaf turns round the stem from the last one?",
@@ -959,7 +959,7 @@
      "id": "s4",
      "mins": 5,
      "do": "Work out t divided by n, the fraction of a turn per leaf. Multiply by 360 to find the angle. Write both in the table. Compare your fraction with 1 over 2, 1 over 3, 2 over 5 and 3 over 8.",
-     "say": "Divide the turns by the leaves. That is how much of a circle each leaf turns. Multiply by 360 for the angle. Is your fraction close to 1 over 2, 1 over 3, 2 over 5 or 3 over 8?",
+     "say": "Divide the turns by the leaves. That is how much of a circle each leaf turns. A full circle is 360 degrees, so multiply by 360 to get the angle. Is your fraction close to 1 over 2, 1 over 3, 2 over 5 or 3 over 8?",
      "kid": "Divide turns by leaves. Multiply by 360 for the angle.",
      "ask": [
       {
@@ -979,7 +979,7 @@
      "mins": 3,
      "do": "Do the same for a second plant or a second stem. Fill in the next row of the table.",
      "say": "Now try a different plant. Is it the same fraction, or a different one?",
-     "kid": "Try a second plant. Is it the same?",
+     "kid": "Tag and measure a second plant the same way.",
      "ask": [
       {
        "q": "Did the second plant have the same fraction as the first?",
@@ -997,8 +997,8 @@
      "id": "s6",
      "mins": 3,
      "do": "Ask your child to say what they found. Write down what they found, the numbers that show it, and the reason.",
-     "say": "What did you find? What numbers show it? Why might a plant turn the leaves by this much and not by half a circle?",
-     "kid": "What did you find? Which numbers show it? Why not half a circle?",
+     "say": "What did you find? What numbers show it?",
+     "kid": "Tell your grown-up what you found. Point to the numbers that show it.",
      "ask": [
       {
        "q": "Why might it help a plant to turn each leaf by about 140 degrees and not by half a circle?",
@@ -1066,7 +1066,7 @@
     }
    ],
    "record": "A table with columns for the round, the number of pieces, the length of each piece and the total length. Add your guess for round 3.",
-   "context": "In this activity, you draw a Koch curve by repeating one rule on a straight line, and you measure how its length grows. You find the pattern in the lengths.",
+   "context": "In this activity, you draw a Koch curve by repeating one rule on a straight line, and you measure how its length grows. You will find out how long a line can get when you keep adding tents.",
    "setup": [
     {
      "art": "A straight line 27 centimetres long on a sheet of paper with dots marking the thirds at 9 and 18 centimetres.",
@@ -1086,8 +1086,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Ask your child to draw a straight line 27 centimetres long, near the middle of the page. Ask them to guess what happens to the length if you replace the middle third with a tent.",
-     "say": "Here is a line 27 centimetres long. We will cut out the middle third and put in a tent. Will the new line be longer, shorter or the same? Why do you think so?",
-     "kid": "Draw a line 27 centimetres long. Will a tent in the middle make it longer or shorter?",
+     "say": "Here is a line 27 centimetres long. We will cut out the middle third and put in a tent. A tent is two sloping sides that meet at a point, like a tent roof.",
+     "kid": "Draw a line 27 centimetres long, near the middle of the page.",
      "ask": [
       {
        "q": "Will the line with a tent be longer, shorter or the same length? Why?",
@@ -1163,9 +1163,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Ask your child to imagine going on for ever. Show them that three Koch curves joined in a triangle make a snowflake. Ask the question below.",
-     "say": "If we kept going for ever, how long would the line be? Could it ever fit on the page? Does it ever stop?",
-     "kid": "Keep going for ever. How long would the line be? Would it fit on the page?",
+     "do": "Ask your child to imagine repeating the rule for ever. Tell them that three Koch curves joined in a triangle make a snowflake. Ask the question below.",
+     "say": "Imagine we kept going for ever and ever. Three of these curves joined in a triangle make a snowflake.",
+     "kid": "Imagine doing this for ever and ever.",
      "ask": [
       {
        "q": "If the rule were repeated for ever, would the line fit on the page, and how long would it be?",
@@ -1217,7 +1217,7 @@
     }
    ],
    "record": "A table with the width of each turn for the coil and for the shell, and the ratio of each turn to the one before.",
-   "context": "In this activity, you measure the turns of a coil and of a shell, and find out which grows by adding the same amount and which by multiplying by the same fraction.",
+   "context": "In this activity, you measure the turns of a coil and of a shell, and find out which grows by adding the same amount and which by multiplying by the same fraction. You will find out why a shell keeps its shape as it grows.",
    "setup": [
     {
      "art": "A coil of rope seen from above with a ruler laid across its middle and the widths of three turns marked by arrows.",
@@ -1237,8 +1237,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the coil and the shell. Ask them to guess whether the gaps will be equal or growing. Write the guess down.",
-     "say": "Look at the coil and the shell. Are the turns the same distance apart all the way out, or do they get further apart? Why do you think so?",
-     "kid": "Look at the coil and the shell. Are the gaps equal, or do they grow?",
+     "say": "Look at the coil and the shell. Follow the turns with a finger, from the middle outwards.",
+     "kid": "Follow the turns with a finger, from the middle outwards. Look at the gaps between them.",
      "ask": [
       {
        "q": "Do you think the gaps in each will be equal or growing? Why?",
@@ -1276,7 +1276,7 @@
      "id": "s3",
      "mins": 7,
      "do": "Measure the width of each whorl of the shell, from the biggest to the smallest. Hold the ruler across the shell at the same place each time. Write the widths in a list. If you have no shell, measure a picture of one.",
-     "say": "Hold the shell with the tip up. Measure the width of each whorl. Start with the biggest. Write them down.",
+     "say": "Hold the shell with the tip up. A whorl is one full turn of the shell. Measure the width of each whorl. Start with the biggest. Write them down.",
      "kid": "Measure the width of each whorl, from the biggest to the smallest.",
      "parent": "A pointed shell may have five or six whorls. Measure at the widest part of each. Hold the ruler at the same angle each time. The small whorls near the tip are hard to measure, so stop when the whorls are too small. If you have no shell, search for a photo of a pointed shell, hold the ruler to the screen and use the pictured widths.",
      "context": "In this step, you measure the width of each whorl of a shell."
@@ -1286,7 +1286,7 @@
      "mins": 5,
      "do": "Subtract each width from the next bigger one. Then divide each width by the next smaller one. Write both answers. Ask which of the two is nearly the same each time.",
      "say": "Take away each width from the next bigger one. Do the answers match? Now divide each width by the next smaller one. Which gives nearly the same answer each time?",
-     "kid": "Take away. Then divide. Which gives the same answer each time?",
+     "kid": "Work out the take-aways. Then work out the divisions.",
      "ask": [
       {
        "q": "Did taking away or dividing give nearly the same answer each time?",
@@ -1315,8 +1315,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Ask your child to explain the difference between the two spirals.",
-     "say": "What is the difference between the way the rope coils and the way the shell coils? Which one keeps the same shape as it grows?",
-     "kid": "How is the shell different from the rope? Which keeps its shape?",
+     "say": "Look at your two lists of numbers. Which list adds the same amount each turn? Which one multiplies by the same number?",
+     "kid": "Tell your grown-up how the shell and the rope are different.",
      "ask": [
       {
        "q": "How does the shell grow differently from the rope coil?",
@@ -1366,7 +1366,7 @@
      "what": "Fold a strip in half 1, 2, 3 and 4 times, open each fold to a right angle, and draw the shapes."
     }
    ],
-   "record": "Draw the shape you get after 1, 2, 3 and 4 folds. Write the number of creases for each.",
+   "record": "Draw the shape you get after 1, 2, 3 and 4 folds, or take a photo of each. Write the number of creases for each.",
    "context": "In this activity, you fold a paper strip in half again and again in the same direction, then open it up and see a curve that gets more complicated with every fold.",
    "setup": [
     {
@@ -1387,8 +1387,8 @@
      "id": "s1",
      "mins": 3,
      "do": "Show the strip. Explain that you will fold it in half, then in half again, and then open it with every fold at a right angle. Ask your child to guess what shape will appear.",
-     "say": "We will fold a strip in half, and in half again, always the same way. Then we will open it with every fold at a right angle. What shape do you think we will get? Why?",
-     "kid": "Fold the strip twice. Open the folds to right angles. What shape will you see?",
+     "say": "We will fold a strip in half, and in half again, always the same way. Then we will open it with every fold at a right angle.",
+     "kid": "Fold the strip in half, then in half again, the same way.",
      "ask": [
       {
        "q": "What shape do you think the folded strip will make?",
@@ -1405,7 +1405,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Take one strip. Fold the right end to the left end, to make a half-length strip. Open it and look at the one crease. Then fold in half again the same way and open it. There are now three creases. Open each crease to a right angle. Lay the strip on paper and trace it.",
+     "do": "Take one strip. Fold the right end to the left end, to make a half-length strip. Open it and look at the one crease. Then fold in half again the same way and open it. There are now three creases. Open each crease to a right angle. Lay the strip on paper and trace it, or just look at it and tell your grown-up what shape it makes.",
      "say": "Fold the right end to the left end. Always the same direction. Fold again. Open it out. Each crease becomes a right angle. Trace the shape.",
      "kid": "Fold the strip in half twice, the same way. Open it. Make each fold a right angle.",
      "parent": "The folds must always go the same way: right end over to the left end. If you flip the strip over between folds, you will get a different shape. Open the creases so the strip makes right angles and stands flat on the page.",
@@ -1425,9 +1425,9 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Take a new strip and fold it in half three times in the same direction. Open it and set the creases to right angles. Trace the shape. Do the same with a fourth strip folded four times. Count the creases each time.",
+     "do": "Take a new strip and fold it in half three times in the same direction. Open it and set the creases to right angles. Trace the shape, or take a photo. Do the same with a fourth strip folded four times. Count the creases each time.",
      "say": "Now fold a new strip three times, and another strip four times. Always fold the same way. Open each one and trace it. Count the creases.",
-     "kid": "Fold three times. Open. Trace. Then fold four times. Open. Trace.",
+     "kid": "Fold three times, open it and look. Then fold four times, open it and look.",
      "parent": "After three folds there are 7 creases, and after four there are 15. After four folds, the shape starts to look like a curly dragon. After five folds the paper is thick and hard to fold, so stop at four. If the creases will not hold, press each one flat with a ruler edge. With 2 to 4 children, each folds and traces their own strip, and then they lay the shapes side by side to compare. One child with a parent can fold one strip each and compare.",
      "context": "In this step, you fold 3 and 4 times and trace each shape."
     },
@@ -1435,8 +1435,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Fill in the number of creases for 1, 2, 3 and 4 folds. Ask your child to find the pattern and to guess the creases after 5 folds.",
-     "say": "The creases are 1, 3, 7 and 15. What do you notice? How many creases after five folds?",
-     "kid": "The creases are 1, 3, 7 and 15. What is the pattern?",
+     "say": "The creases are 1, 3, 7 and 15. What do you notice?",
+     "kid": "Count the creases on each of your strips.",
      "ask": [
       {
        "q": "What is the pattern in the number of creases, and what is next?",
@@ -1465,8 +1465,8 @@
      "id": "s5",
      "mins": 3,
      "do": "Compare the shapes after 3 and 4 folds. Ask your child how the bigger shape contains the smaller shape.",
-     "say": "Look at the shape after four folds. Can you see the shape from three folds inside it? What does that remind you of?",
-     "kid": "Look at the four-fold shape. Can you see the three-fold shape inside?",
+     "say": "Put your three-fold shape on top of your four-fold shape. Look for the small one inside the big one.",
+     "kid": "Put the three-fold shape on top of the four-fold shape.",
      "ask": [
       {
        "q": "Can you find a smaller dragon inside the bigger one?",
@@ -1538,8 +1538,8 @@
      "id": "s1",
      "mins": 4,
      "do": "On the page, mark corner A at the bottom left and corner B at the bottom right. Mark corner C at the top middle. Each corner is about 18 centimetres from the others. Write the letters. Ask your child to guess what the dots will look like after 50 rolls.",
-     "say": "There are three corners, and a die chooses one each time. The rule is to move halfway to the corner the die picks, and put a dot. What will the dots look like after fifty rolls? Why do you think so?",
-     "kid": "Mark three corners. Guess what the dots will look like after 50 rolls.",
+     "say": "There are three corners, and a die chooses one each time. The rule is to move halfway to the corner the die picks, and put a dot.",
+     "kid": "Mark three corners. Write the letters A, B and C beside them.",
      "ask": [
       {
        "q": "What shape do you think the dots will make?",
@@ -1574,8 +1574,8 @@
      "id": "s4",
      "mins": 4,
      "do": "Look at the dots together. Ask where there are gaps, and what shape the gaps make.",
-     "say": "Look at the page. Are there places with no dots? What shape are they? What do you see inside the gaps?",
-     "kid": "Look at the dots. Where are there gaps? What shape are the gaps?",
+     "say": "Look at the page. Are there places with no dots? What shape are they?",
+     "kid": "Point to the empty places between the dots.",
      "ask": [
       {
        "q": "What do you notice about the gaps in the dots?",
@@ -1693,7 +1693,7 @@
      "mins": 20,
      "do": "On day 1, draw a triangle with three sides of 4 centimetres on card and cut it out as a template. Trace it on the coloured paper 27 times. A grown-up cuts them out. Count the pieces.",
      "say": "Make a template triangle with every side 4 centimetres. Trace it on the coloured paper. We need 27 of them. Count as you go.",
-     "kid": "Make a template. Trace 27 triangles. Cut them out.",
+     "kid": "Make a template. Trace 27 triangles. A grown-up cuts them out.",
      "parent": "To draw a triangle with three equal sides, use a set square or a protractor, or measure a 4 centimetre line and use a thread of 4 centimetres to find the third point. Alternate two colours if you like. Stack several sheets so one cut makes several triangles.",
      "context": "This is day 1 of the Sierpinski wall hanging. You cut out the triangles."
     },
@@ -1721,7 +1721,7 @@
      "id": "s3",
      "mins": 20,
      "do": "On day 3, lightly draw a guide triangle with 32 centimetre sides on the backing card. Lay 3 of the groups corner to corner to make a bigger group. Make 3 of these. Lay the 3 big groups corner to corner inside the guide. Check the holes, then glue every group down onto the card, in its place. Count the holes of different sizes.",
-     "say": "Now we put 3 groups together, then 3 of those, on the card. The same rule, bigger each time. How many sizes of hole can you see?",
+     "say": "Now we put 3 groups together, then 3 of those, on the card. The same rule, bigger each time.",
      "kid": "Lay 3 groups together. Make 3 bigger groups. Place them in one big triangle, then glue them down on the card.",
      "ask": [
       {
@@ -1744,6 +1744,7 @@
    "id": "c1",
    "title": "Water for Every Pot: one pipe to sixteen plants",
    "mins": 30,
+   "context": "In this challenge, you plan pipes so water reaches all 16 pots after the same distance. You will find out which pipe plan uses less pipe.",
    "problem": "A terrace has 16 plant pots in a 4 by 4 square, each pot 30 centimetres from its neighbours. A tap sits in the middle of the square. Draw a pipe network on squared paper so that water has to travel the same distance to every pot, using as little pipe as you can.",
    "constraints": [
     "Draw on squared paper, with 1 square standing for 15 centimetres. The pots sit on the grid points, 2 squares apart.",
@@ -1787,8 +1788,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Read the problem together. Mark the 16 pots and the tap on squared paper. Ask your child to sketch a first idea.",
-     "say": "There are sixteen pots, and one tap in the middle. The water should reach every pot after the same distance. How could the pipes go? Draw a first idea.",
-     "kid": "Mark the 16 pots and the tap. Draw a first idea for the pipes.",
+     "say": "There are sixteen pots, and one tap in the middle. The water should reach every pot after the same distance.",
+     "kid": "Mark the 16 pots and the tap. Try a first idea for the pipes: draw it, or lay string on the paper.",
      "ask": [
       {
        "q": "How could the pipes go so that every pot is the same distance from the tap?",

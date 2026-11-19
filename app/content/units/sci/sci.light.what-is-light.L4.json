@@ -766,7 +766,7 @@
      "id": "s1",
      "mins": 3,
      "do": "Cut out the 24 cards and the 7 signs. Lay the signs in a row, longest waves on the left. Shuffle the cards and put them face down.",
-     "say": "These seven signs are the whole light family. The longest waves are on the left. The shortest are on the right. Each card tells about something from daily life.",
+     "say": "These seven signs are the whole light family. A wavelength is the length of one wave. The longest waves are on the left. The shortest are on the right. Each card tells about something from daily life.",
      "kid": "Lay out the seven signs. Put the cards face down in a pile.",
      "context": "This is the first step of Family Line. You set out the signs and the cards.",
      "ask": [
@@ -824,7 +824,7 @@
      "id": "s4",
      "mins": 3,
      "do": "After all cards are placed, count stars. Then look along the Family Line from left to right and read the name on the sign above each pile of cards.",
-     "say": "Look along the line from left to right. What happens to the waves as we go? What happens to the energy of each photon?",
+     "say": "Look along the line from left to right. What happens to the waves as we go? What happens to the energy of each photon? A photon is a tiny packet of light.",
      "kid": "Look along the line. What changes from left to right?",
      "context": "In this step, you count stars and look for a pattern along the line.",
      "check": {
@@ -1058,7 +1058,7 @@
      "mins": 4,
      "do": "Count the stars. Then ask the question about the pattern.",
      "say": "A stall is twice as far from the post. How many times as many lanterns does it need to get the same light? Check with the cards.",
-     "kid": "A stall is twice as far away. How many times as many lanterns does it need?",
+     "kid": "Look back at the cards you played. Do far stalls need more lanterns or fewer?",
      "context": "In this step, you find the rule behind the table.",
      "check": {
       "t": "mcq",
@@ -1129,7 +1129,7 @@
     }
    ],
    "safety": "A grown-up cuts the square hole with scissors. Never shine a torch into anyone's eyes.",
-   "record": "Fill in the table. Then draw the torch, the card with the hole and the paper at 20, 30 and 40 centimetres, with the lit patch drawn on each paper. Write the area under each one.",
+   "record": "Fill in the table. Then take a photo of the lit patch at 20, 30 and 40 centimetres. Write the number of squares under each photo.",
    "context": "In this experiment, you shine a torch through a square hole in a card onto squared paper. You measure how the lit patch grows when the paper moves away, and see what happens to its brightness.",
    "example_chart": {
     "type": "bar",
@@ -1179,7 +1179,7 @@
      "mins": 5,
      "do": "Show your child the torch, the card with the hole and the squared paper. Ask for a guess and a reason. Write the guess at the top of the table.",
      "say": "We will shine a torch through a small square hole in a card. The light makes a square patch on squared paper. If we move the paper twice as far away, how big will the patch be? Will it look brighter or dimmer? Why do you think so?",
-     "kid": "A torch shines through a small square hole. If you move the paper twice as far away, how big will the patch be? Why?",
+     "kid": "Look at the torch, the card with the hole and the squared paper. Guess what will happen to the lit patch when the paper moves away.",
      "ask": [
       {
        "q": "Why do you think the patch will change that way?",
@@ -1198,7 +1198,7 @@
      "mins": 8,
      "do": "A grown-up cuts a 2 centimetre square hole in the middle of the card. Stand the card upright with clay. Place the torch 10 centimetres behind the card, pointing at the hole. Tape squared paper flat to a book.",
      "say": "The hole is 2 centimetres wide and 2 centimetres tall. The torch is 10 centimetres behind it. Only the light that goes through the hole will reach the paper.",
-     "kid": "Cut a 2 centimetre square hole in the card. Stand it up. Put the torch 10 centimetres behind it.",
+     "kid": "Watch the grown-up cut a 2 centimetre square hole in the card. Help stand it up and put the torch 10 centimetres behind it.",
      "adult": true,
      "parent": "Use a ruler to check the 10 centimetres, because the whole test depends on it. A phone torch works best if you tape it flat so that it does not roll. Block any spill of light around the edges of the card with your hand or a book.",
      "check": {
@@ -1248,9 +1248,9 @@
     {
      "id": "s5",
      "mins": 9,
-     "do": "Look at the three patches. Ask how many times bigger the patch at 40 centimetres is than at 20. Ask how much of the torch's light each square gets at 40 centimetres. Draw the results.",
+     "do": "Look at the three patches. Ask how many times bigger the patch at 40 centimetres is than at 20. Ask how much of the torch's light each square gets at 40 centimetres. Write the results next to the table.",
      "say": "The same torch light went through the same hole. At 40 centimetres, it covered four times as many squares. So each square got how much of the light, compared with 20 centimetres?",
-     "kid": "The same light covered more squares. Did each square get more light or less?",
+     "kid": "Look at the three patches. Compare how bright each one looks.",
      "ask": [
       {
        "q": "Is the light on the far paper used up, or just spread out?",
@@ -1329,7 +1329,7 @@
     }
    ],
    "safety": "Never look straight at the Sun. Do the test on a sunny day. An LED lamp gives out too little heat, and a hot bulb is not safe for children to use. Surfaces left in the sun can get hot, so touch them with care. If the sun is very strong, stay in the shade and wear a hat.",
-   "record": "Fill in the table. Then draw a bar chart with one bar for each paper, showing how many minutes the cube lasted. Write which colour melted its cube first and which last.",
+   "record": "Fill in the table. Then make a bar chart, drawn or made of paper strips, with one bar for each paper, showing how many minutes the cube lasted. Write which colour melted its cube first and which last.",
    "context": "In this experiment, you place ice cubes on black, blue, yellow and white paper in the sunshine. You find out which colour makes the ice melt first, and what that shows about what colours do with light.",
    "setup": [
     {
@@ -1355,7 +1355,7 @@
      "mins": 5,
      "do": "Show your child the five papers, the cardboard and the ice. Ask for a guess and a reason about which cube melts first and last. Write it at the top of the table.",
      "say": "We will put ice cubes on black, blue, yellow and white paper in the sunshine. Which one will melt first? Which one will melt last? What about the cube in the shade? Why do you think so?",
-     "kid": "Ice cubes sit on four colours of paper in the sun. Which melts first? Which melts last? Why?",
+     "kid": "Look at the four coloured papers. Guess which ice cube will melt first.",
      "ask": [
       {
        "q": "Why do you think that colour will melt its cube first?",
@@ -1411,9 +1411,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "Compare the times. Draw the bar chart. Ask what the different colours do with the sunlight that falls on them.",
+     "do": "Compare the times. Make a bar chart: draw it, or lay paper strips side by side, one for each paper. Ask what the different colours do with the sunlight that falls on them.",
      "say": "Black melted its ice first. White lasted longest. The same sunlight landed on every paper. So what must the colours have done with it?",
-     "kid": "The same sunlight landed on every paper. What did black do with it? What did white do?",
+     "kid": "Compare the black paper and the white paper. What was different?",
      "ask": [
       {
        "q": "Where did the light that landed on the black paper go?",
@@ -1481,7 +1481,7 @@
     }
    ],
    "safety": "Do not open the remote. Keep batteries away from young children, who must not put them in their mouths. The invisible light from a remote is harmless to your eyes.",
-   "record": "Fill in the table. Then draw the remote, the phone and a wavy line between them, and write what you saw on the screen.",
+   "record": "Fill in the table. Then tell a grown-up what you saw on the screen. Take a photo of the flicker if you can.",
    "context": "In this experiment, you look at a TV remote through a phone camera. You find out whether the remote sends out invisible light, and whether it behaves like the light you can see.",
    "setup": [
     {
@@ -1567,7 +1567,7 @@
      "mins": 3,
      "do": "Compare the results with what you guessed. Ask what the experiment shows about the light we can see.",
      "say": "The remote sends light that we cannot see. It goes through some things, gets blocked by others, and bounces off a mirror. So what does it behave like?",
-     "kid": "The remote sends light you cannot see. Does it act like light you can see?",
+     "kid": "Look at your table. Which things blocked the signal? Which things bounced it?",
      "ask": [
       {
        "q": "What did the camera show that your eyes could not?",
@@ -1731,17 +1731,17 @@
      "what": "Draw the trail from the Sun to an idli, find a second trail, and talk about where the energy goes."
     }
    ],
-   "record": "A drawn chain of boxes with arrows from the Sun to an idli, with a short label in every box, and a second chain of your own choice.",
+   "record": "A row of labelled cards from the Sun to an idli, and a second row of your own choice. Take a photo of both rows.",
    "safety": "Raw rice and dal are for looking only, not for eating, and small children must not put grains in their mouths or noses. If anyone has a food allergy, use pictures instead of the grains.",
    "context": "In this activity, you follow the energy in a plate of idli back to sunlight, step by step. You find that most of the energy in your food was sunlight a short while ago.",
    "setup": [
     {
      "art": "A row of boxes joined by arrows: the Sun, a rice field, a bowl of rice and dal, batter, steaming idlis, a child running.",
-     "caption": "1. Draw the chain of boxes from the Sun to the child."
+     "caption": "1. Lay out cards in a chain from the Sun to the child."
     },
     {
      "art": "A paddy plant with a close-up of a green leaf and arrows labelled sunlight, water and air going in and sugar going out.",
-     "caption": "2. Draw what a leaf does with sunlight."
+     "caption": "2. Say what a leaf does with sunlight."
     },
     {
      "art": "A second chain of boxes drawn by the child, for a banana, a glass of milk or a cotton shirt.",
@@ -1752,9 +1752,9 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "Look at the rice and dal. Ask where each came from. Draw the first four boxes on a sheet of paper: Sun, rice and dal plants, grains, batter. Draw arrows between them.",
+     "do": "Look at the rice and dal. Ask where each came from. Cut a sheet of paper into small cards. Write one word on each card: Sun, rice and dal plants, grains, batter. Lay the cards in a row.",
      "say": "An idli is made of rice and dal. Where did they come from? What did the plants need to grow? Let's start at the idli and go backward until we reach the Sun.",
-     "kid": "Rice and dal came from plants. What did the plants need? Draw the boxes.",
+     "kid": "Rice and dal came from plants. What did the plants need? Put the cards in order.",
      "ask": [
       {
        "q": "What does a rice plant take from the sky to make the grains?",
@@ -1771,9 +1771,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Add the last boxes: idli on the plate, you eating, you running. Ask your child to say what changes into what at each arrow. Write it on the arrow.",
+     "do": "Add the last cards: idli on the plate, you eating, you running. Ask your child to say what changes into what between each two cards.",
      "say": "Go forward now. The Sun's light becomes sugar in the leaf. The sugar becomes the grain. The grain becomes the idli. The idli becomes your energy. What does your energy do?",
-     "kid": "Go forward from the Sun to you. What changes into what on each arrow?",
+     "kid": "Go forward from the Sun to you. What changes into what, from one card to the next?",
      "parent": "On the last arrows, the energy becomes movement and heat in the child's body. A child's body stays warm because food energy keeps turning into heat. Nothing is lost. The energy only changes form.",
      "check": {
       "t": "mcq",
@@ -1792,7 +1792,7 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Ask your child to choose another thing and follow its energy back. A banana, a glass of milk, or a cotton shirt are good choices. Draw the second chain. For milk, include the grass or fodder that the cow eats.",
+     "do": "Ask your child to choose another thing and follow its energy back. A banana, a glass of milk, or a cotton shirt are good choices. Make the second chain with new cards. For milk, include the grass or fodder that the cow eats.",
      "say": "Choose something else. A banana, a glass of milk or a shirt. Where did it come from? What did that need? Keep asking until you reach the Sun.",
      "kid": "Pick another thing. A banana or a glass of milk. Follow it back to the Sun.",
      "parent": "A glass of milk goes back to the cow, then to the grass or fodder she ate, then to sunlight. A cotton shirt goes back to a cotton plant, then to sunlight. Few things around us do not start from the Sun, so it is good to try a hard one. With 2 to 4 children, each draws a different second chain and the group compares them.",
@@ -1853,7 +1853,7 @@
      "what": "Build the comet, hang it in front of a fan, and move it around the fan to see which way the tail points."
     }
    ],
-   "record": "Draw the comet in the middle of a page and the fan at four places around it (in front, to the left, to the right, behind). Draw the tail on the comet each time. Write what you notice about the direction of the tail.",
+   "record": "Draw the comet in the middle of a page and the fan at four places around it (in front, to the left, to the right, behind), with the tail each time. Or take four photos instead. Write what you notice about the direction of the tail.",
    "safety": "Keep fingers, hair and the thread away from the fan blades. Use the lowest speed, keep the guard on, and switch the fan off before you move it.",
    "context": "In this activity, you make a model comet and a model Sun, and test which way a comet's tail points as the comet moves around the Sun.",
    "setup": [
@@ -1915,9 +1915,9 @@
     {
      "id": "s3",
      "mins": 7,
-     "do": "Talk about what the model gets right and wrong. Read the notes together. Draw a real comet with its tail pointing away from the Sun, at two places on its path.",
+     "do": "Talk about what the model gets right and wrong. Then call the fan the Sun and walk the comet round it. At each stop, ask your child to point to where the tail goes.",
      "say": "In space, there is no wind from a fan. The Sun pushes the comet's dust and gas with its light, and with a stream of tiny particles. That push is far gentler than a fan. But the direction is the same.",
-     "kid": "The Sun pushes a comet's tail. Draw a comet in two places, with the tail pointing away from the Sun.",
+     "kid": "The Sun pushes a comet's tail. Walk the comet round the Sun. At each stop, point to the tail.",
      "parent": "The model shows the direction well. It is not exact. Real comet tails are blown mainly by the stream of particles from the Sun, called the solar wind, and by the push of sunlight on dust. The push of light is tiny, but a comet's dust is so light that it adds up.",
      "context": "In this step, you decide what the model gets right and what it gets wrong."
     }
@@ -2072,7 +2072,7 @@
      "what": "Tape the two key-ring torches together and test whether they give twice the light of one."
     }
    ],
-   "record": "A table with the distance of each torch from the paper when the spot vanished, and the number you get when you multiply each distance by itself and divide the bigger answer by the smaller. Draw the set-up and write what the spot looked like when it vanished.",
+   "record": "A table with the distance of each torch from the paper when the spot vanished, and the number you get when you multiply each distance by itself and divide the bigger answer by the smaller. Take a photo of the set-up and write what the spot looked like when it vanished.",
    "context": "In this project, you build a light meter from an oil spot on paper. People used this kind of meter in the 1800s. You use it to find how many times brighter one torch is than another.",
    "setup": [
     {
@@ -2093,8 +2093,8 @@
      "id": "s1",
      "mins": 8,
      "do": "Show your child the two torches. Ask which they think is brighter, and by how many times. Write the guess. Explain that the paper with the oil spot will be the judge.",
-     "say": "Which torch is brighter, the phone torch or the small key-ring torch? How many times brighter? Why do you think so? We will build a meter to find out.",
-     "kid": "Which torch is brighter, the phone or the key-ring torch? How many times brighter? Why?",
+     "say": "We will build a meter to find out which torch is brighter, the phone torch or the small key-ring torch. First, what do you guess? How many times brighter? Why do you think so?",
+     "kid": "Look at the two torches. Which looks brighter to you?",
      "ask": [
       {
        "q": "How could you tell exactly how many times brighter one torch is?",
@@ -2189,7 +2189,7 @@
     "Make a cone of foil round the cube you want to melt, to bounce extra sunlight onto it.",
     "Stand the cube you want to keep inside a plastic cup, inside a bigger cup with a gap of air between, and cover with foil."
    ],
-   "your_turn": "Sketch your two designs. Build them and start the timer together. Which cube melted first and which lasted longest? What worked best, and what would you change? Try again with one change.",
+   "your_turn": "Sketch your two designs, or describe them to a grown-up. Build them and start the timer together. Which cube melted first and which lasted longest? What worked best, and what would you change? Try again with one change.",
    "context": "This is a design challenge about light and heat. You use what you know about reflecting and absorbing light to melt one ice cube and save another.",
    "setup": [
     {
@@ -2211,7 +2211,7 @@
      "mins": 8,
      "do": "Read the problem together. Look at the constraints. Ask your child to sketch two designs, one to melt a cube fast and one to keep a cube from melting. Ask what they know about black, white and shiny things in the sun.",
      "say": "You want one cube to melt fast and one to last. What did black paper do in the Ice Race? What does a shiny sheet of foil do with sunlight? Sketch your ideas first.",
-     "kid": "Make one cube melt fast and one cube last long. Draw your ideas first.",
+     "kid": "Make one cube melt fast and one cube last long. Draw your ideas first, or tell them to a grown-up.",
      "ask": [
       {
        "q": "What would make a cube melt faster?",
@@ -2238,7 +2238,7 @@
      "mins": 12,
      "do": "At 30 minutes, or when the first cube is gone, stop. Compare the two cubes. Write down what worked and what did not. Make one change and try again if there is time.",
      "say": "Which cube melted first? Which lasted longest? Why do you think your design did that? What is one change you would try next?",
-     "kid": "Which cube melted first? Which lasted longest? What would you change?",
+     "kid": "Look at both cubes. Why did your designs work, or not work?",
      "check": {
       "t": "mcq",
       "q": "A shiny foil dome helped to keep a cube from melting in the sun. Why?",
@@ -2306,7 +2306,7 @@
      "mins": 6,
      "do": "Read the problem together. Ask your child to sketch two plans. Ask what happens to light as it travels from the torch to the page.",
      "say": "A small torch 50 centimetres away makes a dim page. Light spreads out as it travels. How could you stop it from spreading so much, or collect more of it? Draw two ideas.",
-     "kid": "A small torch makes a dim page. Draw two ideas to make the page brighter.",
+     "kid": "A small torch makes a dim page. Draw two ideas to make the page brighter, or tell them to a grown-up.",
      "ask": [
       {
        "q": "What happens to the torch's light by the time it reaches the page?",
@@ -2333,7 +2333,7 @@
      "mins": 9,
      "do": "Compare the plans. Talk about why the best one worked. Try to improve it with one more change.",
      "say": "Which plan was best? Where did the extra light on the page come from? What would you change next?",
-     "kid": "Which plan was best? Why? What would you change?",
+     "kid": "Compare your two plans. Find where the extra light on the page came from.",
      "check": {
       "t": "mcq",
       "q": "A white wall behind the torch made the page easier to read. Why?",

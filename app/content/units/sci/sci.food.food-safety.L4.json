@@ -667,8 +667,8 @@
      "id": "s2",
      "mins": 5,
      "context": "In this step you draw the tally table and practise with the first four guests.",
-     "do": "Draw the tally table with a row for each of the four foods. Take the first four guest cards. Make a mark for each food, in the right column of its row.",
-     "say": "Guest 1 ate only fruit chaat, and was ill. So in the fruit chaat row, we make a mark in the column for ate and ill. Guest 1 did not eat any of the other three foods, and was ill. So in each of those three rows, we make a mark in the column for did not eat and ill.",
+     "do": "Draw the tally table with a row for each of the four foods. The columns are: ate and ill, ate and well, did not eat and ill, did not eat and well. Take the first four guest cards. Make a mark for each food, in the right column of its row.",
+     "say": "Guest 1 ate only fruit chaat, and was ill. In the fruit chaat row, mark ate and ill. In each of the other three rows, mark did not eat and ill.",
      "kid": "Draw the table. Do the first four guests. Mark every row for each guest.",
      "check": {
       "t": "mcq",
@@ -871,7 +871,7 @@
      "id": "s2",
      "mins": 8,
      "context": "In this step you play the first ten cards, and learn how to score.",
-     "do": "Play the first ten cards. After each one, the reader reads the back. Talk about the fix.",
+     "do": "Play the first ten cards. After each one, the reader reads the back. Talk about the fix. A right space scores one point, and a good fix scores one point.",
      "say": "The reader reads the front. Choose a space. Give one fix. Then the reader reads the back. Who got it right?",
      "kid": "The reader reads a card. Pick a space. Say a fix.",
      "check": {
@@ -901,7 +901,7 @@
      "mins": 7,
      "context": "In this step you play the other ten cards, and count the points.",
      "do": "Play the other ten cards in the same way. Add up each player's points.",
-     "say": "Now we play the other ten cards. Which kind of hazard is hardest to see? Which one is the easiest to fix?",
+     "say": "Now we play the other ten cards in the same way. Choose a space, give a fix, and then the reader reads the back.",
      "kid": "Play the other ten cards. Add up your points.",
      "check": {
       "t": "mcq",
@@ -934,7 +934,7 @@
    "title": "Yeast in Four Places: how does temperature change how fast microbes grow?",
    "mins": 45,
    "days": 1,
-   "context": "In this experiment, you divide a sugary yeast mixture between four glasses. You put one in a fridge, one on a counter and one in a warm-water bath. The fourth is heated first and then put on the counter. Foam shows how fast the yeast grows.",
+   "context": "You will find out why food goes off faster in a hot kitchen than in a fridge. Yeast is a tiny living microbe that eats sugar and makes foam. In this experiment, you divide a sugary yeast mixture between four glasses. You put one in a fridge, one on a counter and one in a warm-water bath. The fourth is heated first and then put on the counter. Foam shows how fast the yeast grows.",
    "question": "How do cold, room temperature, warmth and heat change how fast yeast grows in sugary water?",
    "predict": "Before you start, guess which glass will have the most foam after two hours, and which will have the least. Why do you think so?",
    "fair_test": "All four glasses are the same kind of glass, and they start with the same mixture and the same amount. They stand on the same kind of surface, and you measure them at the same times. Only the temperature is different, so any difference in foam comes from the temperature.",
@@ -981,7 +981,7 @@
     }
    ],
    "safety": "A grown-up heats the pan for glass D and handles all hot water. Steam can scald, so keep children away from the stove. Never taste the yeast mixture. Do not seal the glasses with a lid, because the gas can build up. Wash your hands afterwards, and a grown-up pours the mixture down the sink.",
-   "record": "Fill in the table every 30 minutes for two hours. At the end, draw the four glasses side by side with their foam, and write what you think, what you saw and why.",
+   "record": "Fill in the table every 30 minutes for two hours. At the end, take a photo of the four glasses side by side, or draw them, and write what you think, what you saw and why.",
    "setup": [
     {
      "art": "A jug with lukewarm water, sugar and yeast being stirred, with foam starting to form.",
@@ -1011,7 +1011,7 @@
      "context": "This is the first step of the Yeast in Four Places test. You guess before you start.",
      "do": "Show your child the four glasses and the places they will go. Say that one glass will be heated first. Ask for a guess and a reason, and write it down.",
      "say": "The same yeast and the same sugar will go into four glasses. One goes in the fridge. One stays on the counter. One goes in a warm-water bath. One is heated first. Which will foam the most? Which the least? Why?",
-     "kid": "Four glasses of yeast go in four places: the fridge, the counter, a warm bath, and one that is heated first. Which will foam the most? Why?",
+     "kid": "Look at the four glasses. Guess which one will foam the most.",
      "ask": [
       {
        "q": "Why do you think that glass will foam the most?",
@@ -1028,9 +1028,9 @@
      "id": "s2",
      "mins": 12,
      "context": "In this step, you make the yeast mixture and fill the four glasses. A grown-up heats the mixture for glass D.",
-     "do": "In the jug, stir 4 level teaspoons of sugar and the whole packet of yeast into 800 millilitres of lukewarm water. Right away, pour 200 millilitres into a small pan, and a grown-up heats it until it steams. Keep it hot for 2 minutes. Pour it into glass D and let it cool for 15 minutes. When D is lukewarm, stir the jug. Pour 200 millilitres into each of A, B and C. Now all four start together.",
+     "do": "Label four glasses A, B, C and D. In the jug, stir 4 level teaspoons of sugar and the whole packet of yeast into 800 millilitres of lukewarm water. Right away, pour 200 millilitres into a small pan, and a grown-up heats it until it steams. Keep it hot for 2 minutes. Pour it into glass D and let it cool for 15 minutes. When D is lukewarm, stir the jug. Pour 200 millilitres into each of A, B and C. Now all four start together.",
      "say": "This mixture is full of yeast. Glasses A, B and C get it just as it is. Glass D is heated until it steams, so we can see what heat does to the yeast. Never taste any of it.",
-     "kid": "Stir sugar and yeast into warm water. Pour 200 millilitres into each glass. A grown-up heats D.",
+     "kid": "Stir the sugar and yeast into warm water. Pour the same amount into each glass. A grown-up heats the mixture for D first.",
      "adult": true,
      "check": {
       "t": "mcq",
@@ -1050,7 +1050,7 @@
      "mins": 8,
      "context": "In this step, you put each glass in its place and mark the starting level.",
      "do": "Put a rubber band around each glass at the top of the liquid. Put A on a shelf in the fridge. Put B on the counter, in the shade. Stand C in a bowl of warm bath water. Put D on the counter next to B, once it is lukewarm. Write down the time.",
-     "say": "Mark the top of the liquid with a rubber band. A goes in the fridge. B goes on the counter. C stands in a bowl of warm bath water. D sits beside B. Write down the time, so we know when to measure.",
+     "say": "The rubber band shows where the liquid starts, so we can measure the new foam above it. Write down the time, so we know when to measure.",
      "kid": "Mark the liquid level on each glass. Put A in the fridge, B on the counter, C in warm water and D beside B.",
      "parent": "Change the water in C's bowl for fresh warm bath water after an hour, since it cools. Check that D is lukewarm before it goes on the counter, so it starts like the others. Write the room temperature if you can. With 2 to 4 children, each child owns one glass: they label it, take it to its place, measure it and write its column. Two children can share a glass. With one child, the grown-up holds the ruler and the child does the writing."
     },
@@ -1091,7 +1091,7 @@
    "title": "Handprints on a Potato: does washing really matter?",
    "mins": 55,
    "days": 7,
-   "context": "In this experiment, you press unwashed, rinsed and soap-washed fingers onto cooked potato slices that are sealed in bags. You see how many microbes grow from each. You never open the bags.",
+   "context": "You will find out whether washing hands with soap really beats a quick rinse. In this experiment, you press unwashed, rinsed and soap-washed fingers onto cooked potato slices that are sealed in bags. You see how many microbes grow from each. You never open the bags.",
    "question": "Do fingers carry fewer microbes after a quick rinse with water, or after washing with soap for 20 seconds?",
    "predict": "Before you start, guess which potato slice will grow the most spots, and which will grow the fewest. Will a quick rinse be enough? Why do you think so?",
    "fair_test": "The slices come from one potato, cooked together and cut with the same clean knife. The same finger is used each time, pressed for the same 5 seconds, after being dirtied in the same way. All the bags sit side by side on one shelf. Only what was done to the finger is different.",
@@ -1155,7 +1155,7 @@
      "what": "Look and count. Compare. Draw the four slices. Say what you think, what you saw and why. A grown-up disposes of the bags."
     }
    ],
-   "record": "Fill in the table. On day 7, draw the four bags side by side and shade the spots and fuzzy patches you can see. Write what you think, what you saw and why.",
+   "record": "Fill in the table. On day 7, take a photo of the four bags side by side, or draw them and shade the spots and fuzzy patches you can see. Write what you think, what you saw and why.",
    "setup": [
     {
      "art": "A whole potato boiling in a pan, with a lid, and a grown-up beside the stove.",
@@ -1185,7 +1185,7 @@
      "context": "This is the first step of the Handprints on a Potato test. You guess before you start.",
      "do": "Explain the four slices. A is not touched. B is touched with a dirty finger. C is touched after a quick rinse with water. D is touched after soap and 20 seconds of washing. Ask for a guess and a reason, and write it down.",
      "say": "We have four potato slices. Slice A is not touched. B gets a dirty finger. C gets a finger rinsed with water. D gets a finger washed with soap. Which slice will grow the most spots of microbes? Which the least? Why?",
-     "kid": "There are four potato slices. One is not touched, one gets a dirty finger, one a rinsed finger and one a soapy finger. Which will grow the most spots? Which the least? Why do you think so?",
+     "kid": "There are four potato slices. One is not touched. One gets a dirty finger. One gets a rinsed finger. One gets a soapy finger. Guess which will grow the most spots of microbes.",
      "ask": [
       {
        "q": "Do you think a quick rinse is as good as soap? Why?",
@@ -1232,7 +1232,7 @@
      "id": "s4",
      "mins": 9,
      "context": "In this step, you look at the sealed bags on days 3, 5 and 7, and count the spots and fuzzy patches.",
-     "do": "Look at each bag without opening it. Count the round spots and the fuzzy patches. Write the numbers in the table. If there are too many to count, write many.",
+     "do": "Look at each bag without opening it. Count the round spots and the fuzzy patches. Write the numbers in the table. If there are too many to count, write many. Look again every two days for a week.",
      "say": "Look through the bag without opening it. Do you see round spots? Do you see fuzzy patches? Count them. Which bag has the most today?",
      "kid": "Look at each bag. Do not open it. Count the spots. Write them down.",
      "wait": "Look at the bags on days 3, 5 and 7.",
@@ -1242,7 +1242,7 @@
      "id": "s5",
      "mins": 16,
      "context": "This is the last step of the Handprints on a Potato test. You compare the four bags and say what you found. A grown-up then disposes of the bags.",
-     "do": "Put the four bags side by side. Compare the spots and patches. Check your guess from step 1. Draw the four slices. Say or write three things: what I think, what I saw, and why. A grown-up puts the closed bags in the outside bin.",
+     "do": "Put the four bags side by side. Compare the spots and patches. Check your guess from step 1. Say or write three things: what I think, what I saw, and why. A grown-up puts the closed bags in the outside bin.",
      "say": "Which slice grew most? Which least? Did soap make a difference? Tell me what you think, what you saw and why.",
      "kid": "Compare the four bags. Say what you think, what you saw, and why.",
      "check": {
@@ -1265,7 +1265,7 @@
    "title": "Salt Pulls Water Out: what a pickle does to a cucumber slice",
    "mins": 40,
    "days": 1,
-   "context": "In this experiment, you sprinkle salt on some cucumber slices, sugar on others, and nothing on the rest. You find out which pulls out the most water. The salt in a pickle pulls water out of a microbe in the same way.",
+   "context": "You will find out why pickles last for months without a fridge. In this experiment, you sprinkle salt on some cucumber slices, sugar on others, and nothing on the rest. You find out which pulls out the most water. The salt in a pickle pulls water out of a microbe in the same way.",
    "question": "Which pulls more water out of a cucumber slice in an hour: a teaspoon of salt, a teaspoon of sugar, or nothing?",
    "predict": "Before you start, guess which plate will have the most liquid after an hour, and which the least. Why do you think so?",
    "fair_test": "All the slices come from one cucumber, cut to the same thickness. Each plate holds four slices in one layer and sits tilted the same way. You use one level teaspoon of salt or sugar. Only what is sprinkled on the slices is different, so any difference comes from that.",
@@ -1310,7 +1310,7 @@
     }
    ],
    "safety": "A grown-up cuts the cucumber with the knife. The cucumber slices are safe to eat afterwards, since they have only had salt or sugar on clean plates, but do not eat slices that have been sitting for more than a few hours.",
-   "record": "Fill in the table at 30 minutes and 60 minutes. Draw one slice from each plate, with the liquid around it. Write what you think, what you saw and why.",
+   "record": "Fill in the table at 30 minutes and 60 minutes. Take a photo of one slice from each plate, or draw it, with the liquid around it. Write what you think, what you saw and why.",
    "setup": [
     {
      "art": "A cucumber being cut into thin even slices of 5 millimetres on a board, with a ruler beside it.",
@@ -1340,7 +1340,7 @@
      "context": "This is the first step of the Salt Pulls Water Out test. You guess before you start.",
      "do": "Show your child the cucumber, the salt and the sugar. Ask for a guess and a reason, and write it down.",
      "say": "We will sprinkle salt on some cucumber slices and sugar on others, and leave some plain. After an hour, which plate will have the most liquid? Why?",
-     "kid": "Cucumber slices get salt, sugar or nothing. Which plate will have the most liquid? Why?",
+     "kid": "Cucumber slices get salt, sugar or nothing. Guess which plate will have the most liquid.",
      "ask": [
       {
        "q": "Why do you think that plate will have the most liquid?",
@@ -1470,12 +1470,12 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the first step of Read the Packet. You make a guess about the ingredients before you read.",
-     "do": "Lay out the five packets. Ask your child to guess what the first ingredient on each one will be. Write down the guesses.",
-     "say": "Before we read the labels, what do you think is the biggest ingredient in each of these? Why?",
-     "kid": "Look at the five packets. Guess the first ingredient on each. Why?",
+     "do": "Lay out the five packets. Ask your child to guess which packet has the most sugar. Write down the guess.",
+     "say": "Look at the five packets. Before we read any label, let us guess.",
+     "kid": "Look at the five packets. Pick the one you think has the most sugar.",
      "ask": [
       {
-       "q": "Which packet do you think has the most sugar, and why?",
+       "q": "Why do you think that packet has the most sugar?",
        "good": [
         "The biscuits, because they are sweet.",
         "The jam, because it tastes very sweet.",
@@ -1490,8 +1490,8 @@
      "mins": 10,
      "context": "In this step, you find six things on each packet, and write them in the table.",
      "do": "On each packet, find six things and write them in the table. First, the first three ingredients. Second, the date, and whether it says best before or use by. Third, the vegetarian or non-vegetarian mark. Fourth, the FSSAI number. Fifth, any allergen line. Sixth, any storage advice. Write none if you cannot find it.",
-     "say": "Look for a green dot or a brown mark in a square. Look for a date. Look for a long number that begins with 1 or 2. Read the first three ingredients. What does the packet say about keeping it?",
-     "kid": "Find the date, the mark and the number. Read the first three ingredients.",
+     "say": "Look for a green dot or a brown mark in a square. Look for a date. Look for a long number that begins with 1 or 2. It is the food licence number. Read the first three ingredients. What does the packet say about keeping it?",
+     "kid": "On each packet, find the date and the green or brown mark. Find the long licence number. Read the first three ingredients.",
      "check": {
       "t": "mcq",
       "q": "A packet lists its ingredients as sugar, wheat flour, oil, salt. What does this order tell you?",
@@ -1519,7 +1519,7 @@
      "id": "s4",
      "mins": 5,
      "context": "This is the last step of Read the Packet. You decide what should go in the fridge, and what the dates really mean.",
-     "do": "Ask the questions below. Choose which of the five packets should go in the fridge after opening, and why.",
+     "do": "Ask your child which of the five packets should go in the fridge after opening, and why. Then ask the question below.",
      "say": "Which of these should we keep in the fridge after opening? Which can sit in a cupboard? What does the date on each packet mean?",
      "kid": "Which packets go in the fridge after opening? Which stay in the cupboard?",
      "check": {
@@ -1541,7 +1541,7 @@
    "title": "Starch Detective: is there flour hiding in this milk?",
    "mins": 25,
    "days": 1,
-   "context": "In this activity, you test three samples with iodine to see which ones hold starch. You use milk that you have mixed yourself, so you know what is in it. Food officers use the same test to look for flour in milk.",
+   "context": "In this activity, you test three samples with iodine to see which ones hold starch. Starch is what flour and potatoes are full of. You use milk that you have mixed yourself, so you know what is in it. Food officers use the same test to look for flour in milk.",
    "materials": [
     {
      "item": "tincture of iodine from a chemist, a small bottle. If you cannot find it, Betadine (povidone-iodine) solution from any medical shop works too: mix one part with four parts of water. It gives a weaker, bluer-black colour.",
@@ -1577,7 +1577,7 @@
     }
    ],
    "safety": "Tincture of iodine is poisonous if swallowed. It stains clothes and skin, and it hurts if it gets in the eyes. It catches fire easily, so keep it away from the stove. Do not use it if anyone taking part is allergic to iodine. A grown-up uses it, puts the drops on, and puts the bottle away. Do not taste any of the samples. Pour the milk and iodine down the sink and wash the saucers with soap. Wear old clothes, because iodine stains. Only the grown-up touches the bottle, and iodine goes only on the saucers, never on skin or on food that will be eaten.",
-   "record": "A table with three rows: milk, milk with flour, and potato. Write the colour of each before and after adding iodine. Draw the three saucers with their colours.",
+   "record": "A table with three rows: milk, milk with flour, and potato. Write the colour of each before and after adding iodine. Take a photo of the three saucers if you like.",
    "setup": [
     {
      "art": "Three saucers labelled A, B and C, with plain milk in A, milk with a pinch of flour in B, and a potato slice in C.",
@@ -1597,9 +1597,9 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the first step of Starch Detective. You guess before you test.",
-     "do": "Show your child the three saucers. Ask for a guess about the colour in each one after iodine is added. Write down the guesses.",
-     "say": "The iodine is brown. We will add two drops to each saucer. Will the colour change? Which saucers will change, and why?",
-     "kid": "Iodine will go on three saucers. Will it change colour? On which saucers? Why?",
+     "do": "Show your child the iodine, the plain milk, the flour and the potato. Ask which of the three samples will change colour when iodine is added. Write down the guesses.",
+     "say": "The iodine is brown. We will add two drops to each saucer. Will the colour change?",
+     "kid": "Iodine will go on plain milk, milk with flour, and a potato slice. Guess which will change colour.",
      "ask": [
       {
        "q": "Which saucer do you think will change colour, and why?",
@@ -1658,7 +1658,7 @@
    "title": "The Fridge Shelf Puzzle: where does each food go?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity, you draw a fridge on paper, cut out food cards, and decide where each food should go. You find the reasons behind the shelves, and what to do in a home with no fridge.",
+   "context": "In this activity, you lay out a fridge on paper, make 12 food cards, and decide where each food should go. You will find out why foods go on different shelves, and how a home with no fridge keeps food safe.",
    "materials": [
     {
      "item": "two sheets of paper, a pencil and scissors",
@@ -1681,11 +1681,11 @@
     }
    ],
    "safety": "Use blunt-ended scissors, and ask a grown-up to cut the card if you need to. If you check a real fridge, ask a grown-up to open it, and wash your hands afterwards.",
-   "record": "A drawing of the fridge with the 12 cards in their places, and a list of the foods that do not need a fridge.",
+   "record": "A photo of the 12 cards laid out in their places, and a list of the foods that do not need a fridge.",
    "setup": [
     {
      "art": "A drawing of a fridge with a freezer on top, three shelves, a vegetable drawer and a door with a shelf.",
-     "caption": "1. Draw a fridge with three shelves, a drawer and a door."
+     "caption": "1. Lay out the fridge places on paper: freezer, shelves, drawer and door."
     },
     {
      "art": "Twelve paper cards, each with a food name and a small drawing: raw fish, cooked dal, cut papaya and others.",
@@ -1701,18 +1701,18 @@
      "id": "s1",
      "mins": 7,
      "context": "This is the first step of the Fridge Shelf Puzzle. You draw the fridge and make the food cards.",
-     "do": "Draw a fridge with a freezer on top, three shelves, a drawer at the bottom and a door. Write one food on each of 12 cards. The 12 foods are: raw fish in a covered box, cooked dal, cut papaya, curd, milk, washed vegetables, a sealed jar of lemon pickle, boiled eggs, leftover rice, idli batter, a sealed jar of jam and cut coconut.",
-     "say": "Here is a fridge, and here are twelve foods. Where would you put each one, and why? Some may not need to go in a fridge at all.",
-     "kid": "Draw a fridge. Make 12 food cards. Guess where each one goes.",
+     "do": "Write seven labels on slips of paper: freezer, top shelf, middle shelf, bottom shelf, drawer, door, and outside the fridge. Lay them out like a fridge, with the freezer on top. Write one food on each of 12 cards. The 12 foods are: raw fish in a covered box, cooked dal, cut papaya, curd, milk, washed vegetables, a sealed jar of lemon pickle, boiled eggs, leftover rice, idli batter, a sealed jar of jam and cut coconut.",
+     "say": "Here are the places in a fridge, and here are twelve foods. Where would you put each one, and why? Some may not need to go in a fridge at all.",
+     "kid": "Lay out the fridge places. Write the 12 food cards. Guess where each food goes.",
      "parent": "No fridge at home? Draw one anyway, and also draw a cool, shaded corner of the kitchen. The puzzle is about reasons, not about the fridge. In a vegetarian home, the raw fish card can be a picture on the card only, or be swapped for raw eggs in a tray. It stands for any raw meat that drips."
     },
     {
      "id": "s2",
      "mins": 8,
      "context": "In this step, you place each food card on the fridge, and say why.",
-     "do": "Place each card on the fridge drawing. Say a reason for each. Put the foods that do not need a fridge to one side.",
+     "do": "Place each card in its place in the fridge. Say a reason for each. Put the foods that do not need a fridge to one side.",
      "say": "Where does the raw fish go? Where do the cooked foods go? Which foods stay out of the fridge, and why?",
-     "kid": "Put each card in the fridge. Say why. Which ones stay out?",
+     "kid": "Put each card where it belongs. Say why. Which ones stay out?",
      "check": {
       "t": "mcq",
       "q": "Raw fish is kept in a covered box on the bottom shelf of the fridge. Why the bottom shelf?",
@@ -1731,8 +1731,8 @@
      "mins": 5,
      "context": "This is the last step of the Fridge Shelf Puzzle. You think about homes without a fridge.",
      "do": "Ask the questions below and listen to each answer.",
-     "say": "Many families do not have a fridge. How could they keep food safe on a hot day? Could they cook only as much as they need? What could they dry, pickle, or boil twice?",
-     "kid": "How can a home without a fridge keep food safe?",
+     "say": "Many families do not have a fridge. Could they cook only as much as they need? What could they dry, pickle, or boil twice?",
+     "kid": "Imagine you have no fridge. Tell your grown-up one thing you could do.",
      "ask": [
       {
        "q": "How can a family with no fridge keep food safe in May?",
@@ -1752,7 +1752,7 @@
    "title": "The Temperature Strip: where does each kitchen thing sit?",
    "mins": 20,
    "days": 1,
-   "context": "In this activity, you draw a long strip like a thermometer and mark the danger zone on it. You place freezer ice cream, a cold fridge, a hot kitchen counter, a cup of tea and boiling water on the strip.",
+   "context": "You will find out which everyday temperatures let bacteria grow fastest. In this activity, you draw a long strip like a thermometer and mark the danger zone on it. You place freezer ice cream, a cold fridge, a hot kitchen counter, a cup of tea and boiling water on the strip.",
    "materials": [
     {
      "item": "two sheets of paper joined by tape to make a long strip, and a ruler",
@@ -1800,7 +1800,7 @@
      "id": "s1",
      "mins": 8,
      "context": "This is the first step of the Temperature Strip. You draw the strip and mark the zones.",
-     "do": "Draw a line 28 centimetres long. Mark it every 2 centimetres, and write the temperatures from minus 20 to 120, going up by 10 each time. Colour the zone below 5 degrees blue, the zone from 5 to 60 red, and the zone above 60 orange. Label the red zone: danger zone.",
+     "do": "Draw a line 28 centimetres long. Mark it every 2 centimetres, and write the temperatures from minus 20 to 120, going up by 10 each time. Colour the zone below 5 degrees blue, the zone from 5 to 60 red, and the zone above 60 orange. Label the red zone: danger zone. Or skip the drawing. Lay a long piece of string on the table and use sticky notes as the marks.",
      "say": "This strip is like a giant thermometer. The blue part is cold. The red part is the danger zone, where bacteria grow fastest. The orange part is hot enough to stop them.",
      "kid": "Draw a long strip. Mark it every 10 degrees. Colour the three zones.",
      "parent": "The danger zone runs from about 5 to 60 degrees Celsius. The strip need not be exact. A careful drawing is enough."
@@ -1829,7 +1829,7 @@
      "id": "s3",
      "mins": 4,
      "context": "This is the last step of the Temperature Strip. You think about how to get food through the danger zone quickly.",
-     "do": "Ask the questions below. Draw an arrow on your strip showing how hot food should cool, and how cold food should warm up.",
+     "do": "Ask your child to run a finger down the strip, from the hot end to the cold end, to show how fast hot food should cool. Then ask the question.",
      "say": "Hot dal has to cool before it goes into the fridge. Does it help to leave it in a deep pot, or to spread it in a shallow dish? Why?",
      "kid": "How can hot food leave the red zone quickly?",
      "think": "How could you tell if a big pot of food is still in the danger zone, without a thermometer?",
@@ -1919,7 +1919,7 @@
      "context": "This is the first step of the Curd Lab. You guess before you start.",
      "do": "Show your child the four cups and what goes in each. Ask for a guess about which cup will set first, which will not set at all, and why. Write down the guesses.",
      "say": "Cup 1 gets no starter. Cup 2 gets a teaspoon of curd. Cup 3 gets a tablespoon. Cup 4 gets a teaspoon, but goes in the fridge. Which will turn to curd first? Which will not? Why?",
-     "kid": "There are four cups of milk. Which will become curd first? Which never will? Why?",
+     "kid": "There are four cups of milk. Guess which will become curd first, and which never will.",
      "ask": [
       {
        "q": "Why do you think a spoon of curd can turn a cup of milk into curd?",
@@ -1976,7 +1976,7 @@
      "id": "s5",
      "mins": 15,
      "context": "This is the last step of the Curd Lab. You compare the four cups after a day, and say what you found.",
-     "do": "Check the cups again. Compare them. Check your guess from step 1. Say or write three things: what I think, what I saw, and why. A grown-up decides if cups 2 and 3 are safe to taste.",
+     "do": "Check the cups again on day 3. Compare them. Check your guess from step 1. Say or write three things: what I think, what I saw, and why. A grown-up decides if cups 2 and 3 are safe to taste.",
      "say": "Which cup set first? Which never set? What did the starter do? Tell me what you think, what you saw and why.",
      "kid": "Look at all four cups. Say what you think, what you saw, and why.",
      "check": {
@@ -2024,12 +2024,12 @@
     "Make a box inside a box inside a box, with air pockets in between.",
     "Pack the ice cubes tightly together, so that there is less surface to melt."
    ],
-   "your_turn": "Sketch your box. Build it and put in three ice cubes. After one hour, pour the water into the measuring cup and write down how much. Change one thing, such as one more layer, and test again. Which box kept the most ice? Why do you think it worked?",
-   "context": "This is a design challenge about keeping things cold. Ice is a stand-in for a cold lunch box, since a lunch box that keeps ice also keeps food cooler.",
+   "your_turn": "Say your plan for your box out loud, or sketch it. Build it and put in three ice cubes. After one hour, pour the water into the measuring cup and write down how much. Change one thing, such as one more layer, and test again. Which box kept the most ice? Why do you think it worked?",
+   "context": "This is a design challenge about keeping things cold. You will find out which wrapping keeps ice from melting best. Ice is a stand-in for a cold lunch box, since a lunch box that keeps ice also keeps food cooler.",
    "setup": [
     {
      "art": "A child sketching three lunch box designs on paper: a box wrapped in newspaper, a foil-lined box and a box inside a box.",
-     "caption": "1. Sketch your designs."
+     "caption": "1. Plan your box designs."
     },
     {
      "art": "Three steel dabbas wrapped in different materials, each holding three ice cubes, on a kitchen counter with a clock.",
@@ -2045,9 +2045,9 @@
      "id": "s1",
      "mins": 10,
      "context": "This is the first step of the Keep the Ice challenge. You plan your design.",
-     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two box designs and to guess which box will have the least meltwater.",
-     "say": "Heat flows from the warm kitchen into the cold ice. How could you slow it down? Sketch two ideas, and guess which one will keep the most ice.",
-     "kid": "Read the problem. Sketch two boxes. Guess which keeps more ice.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to say two ways to wrap a box, and to guess which box will have the least meltwater.",
+     "say": "Heat moves from the warm kitchen into the cold ice, and that melts it. Think of two ways to wrap a box, and guess which one will keep the most ice.",
+     "kid": "Read the problem. Tell your grown-up two ways to wrap a box. Guess which keeps more ice.",
      "ask": [
       {
        "q": "What could slow the heat reaching the ice?",
@@ -2118,7 +2118,7 @@
     "A helper whose only job is to wash hands, check covers and keep a time list."
    ],
    "your_turn": "Write your menu, and next to each food write how it stays safe. Write your rule for the helpers. Swap menus with a friend. Can they find a risk you missed? What would you change?",
-   "context": "This is a design challenge about food safety. You plan a menu using what you know about the danger zone, salt, sugar, drying and clean hands.",
+   "context": "This is a design challenge about food safety. You will plan a menu that stays safe for five hours in the heat. You plan a menu using what you know about the danger zone, salt, sugar, drying and clean hands.",
    "setup": [
     {
      "art": "A school fair stall with a table, a cloth, closed tins of snacks, a cool box and a handwashing bucket with soap.",
@@ -2157,7 +2157,7 @@
      "mins": 15,
      "context": "In this step, you write how each food stays safe, and one rule for the helpers.",
      "do": "For each food, write how it is kept safe: dry, salty, sour, hot or cold. Write one rule for the helpers about hands, covering or temperature. Say what water you will use.",
-     "say": "For each food, how does it stay safe? Is it dry, salty, hot, cold or covered? Then write one rule for your helpers.",
+     "say": "For each food, how does it stay safe? Is it dry, salty, sour, hot or cold? Then write one rule for your helpers.",
      "kid": "Write how each food stays safe. Write one helper rule.",
      "check": {
       "t": "mcq",

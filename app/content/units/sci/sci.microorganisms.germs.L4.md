@@ -324,7 +324,7 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 - **s4 (8 min)**  
   *Parent does:* Play Round 4 and Round 5. Count the ill houses each time. Write down all five counts.  
   *Parent says:* Now people are vaccinated before the illness arrives. First two thirds of the village, then only a third. Which village is safer?  
-  *Child mode:* Deal the slips. Place the vaccine tokens. Play Round 4 and Round 5.
+  *Child mode:* Deal one slip to each house. Put a vaccine token on each VACCINATED slip. Play Round 4 and Round 5.
   - Note: With two thirds vaccinated, the illness usually stays at 1 to 6 houses. With a third, it often reaches 5 to 17. Chance changes the results, so playing each round twice gives a fairer picture. Shuffle and deal the slips again each time. These numbers are typical, not promises, and a clever Germ keeper can choose a worse starting house.
   - Check: In Rounds 4 and 5 nobody could add new tokens. Why was the village with more vaccinated houses safer? → **The illness kept meeting vaccinated houses and had fewer paths to follow**
 - **s5 (3 min)**  
@@ -339,12 +339,12 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 - **predict:** Before you start, guess. Which thing will slow the yeast the most? Which will slow her the least? Why do you think so?
 - **fair test:** Every glass gets the same warm water, the same sugar and the same yeast, stirred for the same time. Only the thing we add changes. One glass gets nothing added, so we can see how much foam is normal. All the glasses stand side by side in the same place, and we measure them at the same moment.
 - **safety:** Use warm water only, never hot, because very hot water can scald. A grown-up crushes the garlic with a knife. Do not taste or drink any glass. Keep the glasses away from babies and pets. Vinegar and garlic can sting the eyes, so do not rub them, and rinse with clean water if a drop splashes in. If anyone at home is allergic to any of these foods, leave that glass out and do not let that person handle it. Wash hands after handling garlic. At the end, pour everything down the sink and wash the glasses with soap.
-- **record:** Fill in the table. Then draw a bar for each glass, as tall as its foam, starting with the Plain glass. If you measured at 10 minutes too, mark that number on each bar with a line.
+- **record:** Fill in the table. Then show each glass as a bar as tall as its foam, starting with the Plain glass: draw it, or cut a paper strip. If you measured at 10 minutes too, mark that number on each bar with a line.
 - **results table:** Glass and what was added | My guess: more foam or less foam than the Plain glass? | Foam height after 20 minutes (millimetres) | What I saw and smelled
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the five glasses, the yeast, the sugar and the four test things. 2. Say that yeast is a tiny living fungus who makes bubbles when she eats sugar. 3. Ask for a guess and a reason. 4. Write the guesses in the table.  
   *Parent says:* Yeast is a tiny living fungus. When she eats sugar, she makes bubbles of gas and a layer of foam. Yeast does not make people ill, so we can use her to stand in for a germ. Salt, vinegar, garlic and turmeric are used in pickles and home remedies, and people say they stop microbes. Which will stop the yeast most? Which will stop her least? Why do you think so?  
-  *Child mode:* Yeast is a tiny living fungus. She eats sugar and makes foam. Which kitchen thing will stop her most? Why?
+  *Child mode:* Guess which kitchen thing will stop the yeast most.
   - Ask: Why do you think that thing will stop the yeast? (good: Salt dries things out, so pickles keep.; Vinegar is sour, and sour things do not spoil easily.; Garlic and turmeric are used as medicine.)
   - Note: Do not correct any guess. A guess with a reason is a good start. Yeast does not make people ill. She is a safe stand-in for a microbe, so the test works like a germ-killer test without any danger. One child with a parent: the child does the pouring, stirring and measuring while the parent crushes the garlic and keeps the clock. Two to four children: each child owns one glass and does its sugar, yeast and test thing, and measures its own foam; the Plain glass is shared and measured by the youngest. Everyone stirs for the same 10 seconds, counted aloud.
 - **s2 (4 min)**  
@@ -358,9 +358,9 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
   *Child mode:* Add sugar and yeast to every glass. Add the test things. Write the start time.
   - Note: A grown-up crushes one garlic clove on the board with the flat of the knife until it is a paste, and puts all of it into the Garlic glass. Wash the spoon between glasses. The Salt glass may not dissolve fully, and that is fine.
 - **s4 (12 min)**  
-  *Parent does:* 1. Look at the glasses every 5 minutes. 2. Draw what you see in each. 3. At 10 minutes, quickly measure the foam in each glass and write it beside the table. 4. Wait until 20 minutes have passed since you stirred.  
-  *Parent says:* Look at the glasses every five minutes. Which glass starts to foam first? Which stays flat? Draw what you see.  
-  *Child mode:* Look at the glasses every five minutes. Draw what you see.
+  *Parent does:* 1. Look at the glasses every 5 minutes. 2. Point to the glass with the most foam and the glass with the least, and say which is which. 3. At 10 minutes, quickly measure the foam in each glass and write it beside the table. 4. Wait until 20 minutes have passed since you stirred.  
+  *Parent says:* Look at the glasses every five minutes. Which glass starts to foam first? Which stays flat?  
+  *Child mode:* Look at the glasses every five minutes. Point to the one with the most foam.
   - Ask: What do you think is making the bubbles and foam? (good: The yeast is making gas.; The yeast is eating the sugar and breathing out bubbles.)
   - Note: Yeast is slow in the first minutes. Bubbles usually start to appear by 5 to 10 minutes in the Plain glass. If nothing at all has happened in the Plain glass after 15 minutes, the water was probably too cold or too hot, or the yeast is old. Start again with fresh yeast and hand-warm water. If the Plain glass has only a thin foam of under 5 millimetres at 20 minutes, give every glass 10 more minutes and measure all of them again, so they stay fair. In hot weather the foam comes faster, so measure a little earlier. In a cold room, stand the glasses together in a tray of hand-warm water. Yeast sachets from different shops behave a little differently, so only compare glasses made with the same sachet.
 - **s5 (4 min)**  
@@ -371,11 +371,11 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 - **s6 (3 min)**  
   *Parent does:* 1. Look at the table together. 2. Ask your child to say what they think, what they saw, and why. 3. Ask the question below.  
   *Parent says:* What do you think happened? What did you see that shows it? Why do you think it happened that way?  
-  *Child mode:* Say what you think, what you saw, and why.
+  *Child mode:* Look at the table. Which glass had the least foam?
   - Ask: What do you think happened, what did you see, and why did it happen? (good: What I think: strong salt and vinegar slow microbes. What I saw: less foam in those glasses. Why: they make it hard for yeast to live.)
   - Check: The Salt glass had much less foam than the Plain glass. What does this show? → **Strong salt slowed or stopped the yeast**
 - **s7 (3 min) · grown-up needed**  
-  *Parent does:* 1. Pour all the glasses down the sink. 2. Wash the glasses and spoons with soap. 3. Wash your hands with soap, because of the garlic. 4. Ask the question below.  
+  *Parent does:* 1. Pour all the glasses down the sink. 2. Wash the glasses and spoons with soap. 3. Wash your hands with soap, because of the garlic. 4. Then ask the questions you just read.  
   *Parent says:* A real germ-killer must hurt the germ and not hurt you. Which of our glasses held back the yeast? Would that thing be safe to put into a body?  
   *Child mode:* Pour the glasses out. Wash everything with soap. Wash your hands.
   - Think: A medicine must hurt the germ and not you. Why can't we drink strong salt water or vinegar to cure an infection?
@@ -384,13 +384,13 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 - **predict:** Before you start, guess. After three days, how many of the 40 germs will be tough ones with the medicine, and how many without? Why do you think so?
 - **fair test:** Both plates start the same, with 38 ordinary germs and 2 tough germs. Both follow the same rules each night. Only one thing is different. Plate A gets the medicine every day, and Plate B never does. When the germs are picked for the crowding step, you pick without looking, so that nothing is chosen on purpose. If you can, play the game twice, because chance changes the numbers a little.
 - **safety:** Keep rice and dal away from babies and small children, who may put grains in their mouth or nose. Do not eat the grains afterwards if they have been handled a lot. Wash your hands when you finish.
-- **record:** Fill in the table. Then draw the two plates at the end of Day 3, with the rice and dal grains drawn in two colours.
+- **record:** Fill in the table. Then leave the grains as they are at the end of Day 3 and take a photo of each plate, or draw the two plates with rice and dal in two colours.
 - **results table:** Day | Plate A (medicine): ordinary germs | Plate A (medicine): tough germs | Plate B (no medicine): ordinary germs | Plate B (no medicine): tough germs
 - **s1 (3 min)**  
   *Parent does:* 1. Show your child the rice, the dal and the two plates. 2. Say that rice grains are ordinary germs and dal grains are tough germs. 3. Ask for a guess and a reason. 4. Write the guesses at the top of the table.  
   *Parent says:* These grains are pretend germs. Rice is the ordinary germ. Dal is a germ who happens to be tough against a medicine. Plate A will get the medicine every day. Plate B will not. After three days, how many tough germs will each plate have? Why do you think so?  
-  *Child mode:* Rice is the ordinary germ. Dal is the tough germ. Guess how many tough germs each plate will have. Why?
-  - Ask: What makes you think the plate with medicine will have more tough germs? (good: The medicine kills the ordinary ones, so only the tough ones are left.; The medicine makes the tough ones stronger.)
+  *Child mode:* Rice is the ordinary germ. Dal is the tough germ. Guess how many tough germs each plate will have.
+  - Ask: Why did you guess those numbers? (good: The medicine kills the ordinary ones, so only the tough ones are left.; The medicine makes the tough ones stronger.)
   - Note: Do not correct any guess. Some children think the medicine makes germs tougher. Write that down and let the game answer it.
 - **s2 (4 min)**  
   *Parent does:* 1. Count 38 rice grains on to Plate A. 2. Add 2 dal grains. 3. Do the same on Plate B. 4. Write the start numbers in the table.  
@@ -415,13 +415,13 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
   - Check: On Plate A, by Day 2 there are almost no rice grains left. Why do the dal grains keep growing in number? → **Each night the surviving tough germs split in two, and the medicine does not remove them**
 - **s6 (4 min)**  
   *Parent does:* 1. Count the grains on both plates. 2. Look at the table together. 3. Ask your child to say what they think, what they saw, and why.  
-  *Parent says:* What do you think happened? What did you see that shows it? Why do you think it happened that way? Which plate holds more tough germs, and which has more room for them?  
-  *Child mode:* Say what you think, what you saw, and why.
+  *Parent says:* What do you think happened? What did you see that shows it? Why do you think it happened that way? Which plate has more tough germs?  
+  *Child mode:* Look at both plates. Which has more dal?
   - Ask: What do you think happened, what did you see, and why did it happen? (good: What I think: the medicine does not make germs tough, it removes the ordinary ones. What I saw: Plate A ended with mostly dal, and Plate B stayed mostly rice. Why: with the ordinary germs gone, the tough ones had all the room and food.)
   - Ask: On Plate B, why did the dal stay so few? (good: The rice used up the food and room, so the dal could not take over.; Every night half of the grains were picked away, rice and dal alike.)
 - **s7 (4 min)**  
   *Parent does:* Read aloud the fact about real bacteria. Then ask the question below.  
-  *Parent says:* Real bacteria work like this. A crowd of billions has a few that are tough before any medicine arrives. In 1952, Esther Lederberg showed this by copying bacteria from one dish to others with a velvet stamp. The medicine does not teach them. It only decides which ones carry on. Why might a doctor avoid giving an antibiotic when it is not needed?  
+  *Parent says:* Real bacteria work like this. A crowd of billions has a few that are tough before any medicine arrives. In 1952, Esther Lederberg showed this by copying bacteria from one dish to others with a velvet stamp. The medicine does not teach them. It only decides which ones carry on.  
   *Child mode:* Real germs work like this. The medicine only chooses which ones carry on.
   - Check: A family takes an antibiotic for a cold, which is caused by a virus. Why is this a bad idea? → **It cannot help the cold, and it gives tough bacteria in the body a chance to take over**
   - Think: In the game, who made the tough germs: the medicine, or chance? Where were the dal grains before the medicine began?
@@ -450,11 +450,11 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
   *Child mode:* Count the piles. Was your guess close?
   - Ask: Which medicines in the box do something about the germ? (good: Perhaps only the antiseptic for the skin.; Few or none. Most medicines at home ease signs.)
 ### a2 · Memory Cards: how a vaccine saves time (25 min)
-- **record:** A table with the four times in seconds: first meeting, second meeting, no vaccine, after a vaccine. Then draw a bar for each time.
+- **record:** A table with the four times in seconds: first meeting, second meeting, no vaccine, after a vaccine. Then put the four times in order, fastest first.
 - **s1 (3 min)**  
   *Parent does:* 1. Explain the game. 2. Ask your child to guess how many times faster the search is after a vaccine. 3. Write the guess.  
   *Parent says:* Your body has defenders that fit one germ each. You are the defenders now. A germ card will arrive, and you must find the matching antibody card. How much faster will you be if a vaccine showed you the germ first? Why do you think so?  
-  *Child mode:* You are the body's defenders. A germ card arrives. Find the matching antibody. Guess how fast.
+  *Child mode:* You are the body's defenders. A germ card arrives. Find the matching antibody. Guess how many times faster you will be after a vaccine.
 - **s2 (7 min)**  
   *Parent does:* 1. Write a different three-letter code on each of 30 cards. Use codes like KRT, PAM or LOB, and no two the same. 2. The helper secretly chooses three codes and writes each on a germ card. 3. Spread the 30 antibody cards face up on the table.  
   *Parent says:* Each antibody card has its own code. Each germ card matches exactly one of them. The helper picks three germs in secret, so you will not know which cards to look for.  
@@ -471,9 +471,9 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
   *Child mode:* A safe picture of Germ 2 is a vaccine. Find the match. Then time Germ 3 and Germ 2.
   - Note: Expect the search for Germ 3 to take as long as for Germ 1, often 15 to 30 seconds. The search for Germ 2 after the vaccine takes a second or two. Your child's times will differ, and that is fine. The real body does not read codes; it keeps special cells that already know the germ, and this game only shows how having them saves time.
 - **s5 (4 min)**  
-  *Parent does:* 1. Draw a bar for each of the four times. 2. Look at the bars together. 3. Ask your child to say what they think, what they saw, and why.  
-  *Parent says:* Which bar is tallest? Which are shortest? What did the vaccine do? What do you think happened? What did you see? Why do you think so?  
-  *Child mode:* Draw four bars. Say what you think, what you saw, and why.
+  *Parent does:* 1. Write the four times in a row, then put them in order, fastest first. 2. Look at the order together. 3. Ask your child to say what they think, what they saw, and why.  
+  *Parent says:* Which time is the longest? Which is the shortest? What did the vaccine do?  
+  *Child mode:* Put the four times in order, fastest first.
   - Ask: How did the safe picture of Germ 2 help your search? (good: It let me find the match before the germ came, so I could look in the memory pile.; It saved time when the real germ arrived.)
   - Ask: In real life, why is it better to learn the match from a vaccine than from the real germ? (good: With the real germ, the person is ill while the body searches.; The vaccine is safe, so the body can learn without getting ill.)
 ### a3 · The Vaccine Card Detective (15 min)
@@ -520,10 +520,10 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
   - Think: ORS does not kill the germ. How does it save a life?
 ### a5 · A Day of Temperatures: what is a fever? (20 min)
 - **safety:** Use a digital thermometer only, never a glass one that can break. Clean the thermometer with soap and water or a cotton ball with a little rubbing alcohol, kept by a grown-up, before and after each use.
-- **record:** A table with three times for each person, and a line drawing of the readings across the day.
+- **record:** A table with three times for each person, and, if you like, a line drawn through each person's three readings (or just say what you noticed).
 - **s1 (5 min) · grown-up needed**  
   *Parent does:* 1. Show your child the thermometer and switch it on. 2. A grown-up cleans the tip. 3. Place the tip in the middle of the armpit and hold the arm down against the body until the beep. 4. Read the number and write it down.  
-  *Parent says:* A body's temperature is about 37 degrees Celsius. Is it exactly 37 all day? Guess. Then we will measure the same two people in the morning, afternoon and evening.  
+  *Parent says:* A body's temperature is about 37 degrees Celsius. We will measure the same two people in the morning, afternoon and evening.  
   *Child mode:* Put the thermometer in the armpit. Wait for the beep. Read the number.
   - Ask: Do you think a well person's temperature stays exactly the same all day? (good: Yes, it is always 37.; No, it changes a little.)
 - **s2 (10 min)**  
@@ -533,9 +533,9 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
   - Note: Most well people read between about 36 and 37.5 degrees under the arm. The numbers are usually lowest in the early morning and highest in the late afternoon or evening. The difference is often half a degree or more. Do not take the temperature right after a hot meal, a bath or running. To see how much the thermometer itself varies, take each person's temperature twice in a row at one time of day, and compare the two readings. They often differ by about 0.1 degrees, which is smaller than the change across the day. In hot weather, rest for five minutes in the shade first. Two to four children: each child is measured and also measures the others, and each has a line in a different colour.
   - Check: A well person reads 36.4 in the morning and 37.0 in the evening. What does this show? → **Normal temperature goes up and down a little during the day**
 - **s3 (5 min)**  
-  *Parent does:* 1. Draw a line through the three readings for each person. 2. Look at the pattern. 3. Talk about the question below.  
-  *Parent says:* Your readings go up and down a little in a day. A fever is a temperature of about 38 degrees or more. Why do you think the brain raises the body's temperature when germs get in?  
-  *Child mode:* Draw a line through the three readings. Does it go up and down?
+  *Parent does:* 1. Write H beside each person's highest reading and L beside the lowest. 2. Look at the pattern. 3. Talk about the question below.  
+  *Parent says:* Your readings go up and down a little in a day. A fever is a temperature of about 38 degrees or more.  
+  *Child mode:* Look at the three readings. Is the number the same each time?
   - Ask: Why might the body raise its temperature when germs get in? (good: It may help the defenders work better.; Some germs grow less well when it is warmer.)
   - Think: Scientists are still studying how much a fever helps. What would you test to find out?
 ### a6 · Ask an Elder: illnesses that went away (25 min)
@@ -565,7 +565,7 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 - **s1 (25 min)**  
   *Parent does:* 1. Divide the sheet into four boxes. 2. Call them: where to go, when to go, vaccines due, and ORS. 3. Write three questions for each box. 4. Choose who to ask: an ASHA worker, an anganwadi worker, a school nurse, a doctor or a pharmacist.  
   *Parent says:* A good sheet answers four questions. Where do we go for help? When must we go straight away? Which vaccines are due? How do we make ORS? What questions will you ask?  
-  *Child mode:* Draw four boxes on a sheet. Write three questions for each box.
+  *Child mode:* Fold a sheet into four boxes. Write three questions for each box.
   - Ask: Why is it a good idea to ask a real health worker and not only to look things up? (good: They know our area and what is available nearby.; They can check that what we wrote is right.)
 - **s2 (20 min) · grown-up needed**  
   *Parent does:* 1. With a grown-up, meet the health worker, nurse or doctor. 2. Ask your questions and write the answers in the boxes. 3. Ask them to read the sheet and correct anything wrong. 4. Put the sheet on the fridge at home.  
@@ -578,14 +578,14 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
 ### c1 · The Vaccine Carrier: keep an ice cube cold for two hours (40 min)
 - **problem:** Many vaccines must be kept cold, between 2 and 8 degrees Celsius, all the way from the factory to the village. Design a box from things at home that keeps one ice cube from melting for two hours in a warm room.
 - **safety:** A grown-up cuts any cardboard or thermocol with a knife or scissors. Ice can hurt bare skin if held for long, so pick it up with a spoon or a cloth. Do not put the boxes in the sun or near the stove.
-- **your turn:** Sketch your design. Build it and test it with an ice cube for two hours. Measure the melted water. Change one thing, such as the thickness of the wrapping, and test again. Which design kept the ice longest, and why?
+- **your turn:** Sketch or describe your design. Build it and test it with an ice cube for two hours. Measure the melted water. Change one thing, such as the thickness of the wrapping, and test again. Which design kept the ice longest, and why?
 - **constraints:** Use only things from home, such as a tiffin box, a thermocol box, newspaper, foil, cloth or a cardboard box.; Use an ice cube of the same size in every box, from the same ice tray.; The ice cube must sit in a small steel katori or a plastic cup so the melted water stays in one place.; Keep the lid closed for the whole two hours, and do not put the box in the sun.
 - **general:** Wrap the box in thick layers of newspaper and cloth, which trap air and slow the heat coming in.; Fill the space around the katori with crumpled newspaper so there is no big air gap.; Use a thermocol box, which is a good insulator and light to carry.
 - **creative:** Put the katori in a small box inside a bigger box, with newspaper between, for two walls of insulation.; Line the inside with foil with the shiny side in, and wrap the outside in a thick towel.; Add a second ice cube beside the first as an ice pack, and measure only the first.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch two or three designs.  
-  *Parent says:* A vaccine can spoil if it gets warm. Health workers carry it in a special cold box. How could you keep one ice cube from melting for two hours? Draw some ideas first.  
-  *Child mode:* Draw two or three ideas for a cold box.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch or describe two or three designs.  
+  *Parent says:* A vaccine can spoil if it gets warm. Health workers carry it in a special cold box. How could you keep one ice cube from melting for two hours? Draw some ideas first, or tell me your plan.  
+  *Child mode:* Draw or tell your plan for a cold box.
   - Ask: What makes ice melt faster? (good: Heat coming in from the warm air.; Heat coming in through the sides of the box.)
 - **s2 (15 min)**  
   *Parent does:* Build each box with the things you chose. Put one ice cube in a katori, put the katori inside the box, and close the lid. Write the start time. Make one box a plain tiffin with no wrapping as the comparison.  
@@ -614,9 +614,9 @@ Muthassi touched her round scar and smiled. "Our whole village was in that pictu
   *Parent says:* A medicine label tells us the name, how much, how often and for how long. A mix-up can be dangerous. Why do you think a chart helps?  
   *Child mode:* A grown-up reads the label with you. Write down the times.
 - **s2 (7 min)**  
-  *Parent does:* Sketch two chart designs on paper.  
-  *Parent says:* Draw two ways to show which medicine goes at which time. How will a person who reads slowly know at a glance?  
-  *Child mode:* Draw two ideas. Use colours and pictures.
+  *Parent does:* Plan two chart designs: lay paper strips out on the table, or sketch them.  
+  *Parent says:* Show two ways to arrange which medicine goes at which time. How will a person who reads slowly know at a glance?  
+  *Child mode:* Plan two ideas. Use colours.
 - **s3 (12 min) · grown-up needed**  
   *Parent does:* Make the best chart on the chart paper. A grown-up checks it against every label. Then ask an elder to read it from one metre away.  
   *Parent says:* Make your chart. Then a grown-up checks it, line by line, with the label. Last, ask an elder to read it from a metre away. What do they find hard?  

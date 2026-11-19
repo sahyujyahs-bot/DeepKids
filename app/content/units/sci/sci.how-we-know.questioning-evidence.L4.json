@@ -628,7 +628,7 @@
      "mins": 4,
      "do": "Read the gola card first, as a practice. Let your child pick a token and give a reason before you turn the card.",
      "say": "On days when more golas are sold, more people get sunburnt. What is really going on? Why do you think so?",
-     "kid": "On days when more golas are sold, more people get sunburnt. What is really going on?",
+     "kid": "Pick a token for what is really going on, and say why.",
      "check": {
       "t": "mcq",
       "q": "On days when more golas are sold on a beach, more people get sunburnt. What is the best explanation?",
@@ -812,7 +812,7 @@
      "mins": 3,
      "do": "Read the toothpaste card as a practice. Ask your child which trick it is and why before you turn the card.",
      "say": "Four people were tested and all four said their teeth felt cleaner. Which trick is it? Why?",
-     "kid": "Four people tried a toothpaste, and all four liked it. Which trick is this?",
+     "kid": "Pick the token that names the trick, and say why.",
      "check": {
       "t": "mcq",
       "q": "An advert says: We tested our paste on 4 people, and all 4 said their teeth felt cleaner. What is the main problem?",
@@ -912,14 +912,14 @@
      "what": "Draw the table, flip 20 sets of 10, count, and compare with the friend's claim that she can make heads come up by wishing."
     }
    ],
-   "record": "Fill in 20 rows, one for each set of 10 flips. Then count how many sets had 7 or more heads, and how many had 3 or fewer. Add up all the heads in the 200 flips. Last, draw a bar chart: one bar for each number of heads, from 0 to 10, showing how many sets had that number.",
+   "record": "Fill in 20 rows, one for each set of 10 flips. Then count how many sets had 7 or more heads, and how many had 3 or fewer. Add up all the heads in the 200 flips. Last, draw a bar chart: one bar for each number of heads, from 0 to 10, showing how many sets had that number. Or stack one coin on each number for every set that had it.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Tell the story of the friend who got 7 heads in 10 flips. Ask for a guess and a reason, and write both at the top of the page.",
      "say": "A friend flipped a coin ten times and got seven heads. She says she wished it. If an ordinary coin is flipped ten times, how often do you think it gives seven or more heads? Why do you think so?",
-     "kid": "A friend got 7 heads in 10 flips. Is that special? What do you guess? Why?",
+     "kid": "A friend got 7 heads in 10 flips and says she wished for it. Guess how often a plain coin does that.",
      "ask": [
       {
        "q": "Why do you think an ordinary coin will, or will not, give 7 heads sometimes?",
@@ -936,9 +936,9 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Help your child draw a table with 20 rows and the four columns. Put the plate on a cloth. Practise two flips from about 20 centimetres above the plate.",
+     "do": "Help your child draw a table with 20 rows and four columns: Set number, Heads out of 10, Longest streak of one side, and 7 or more heads or 3 or fewer. Put the plate on a cloth. Practise two flips from about 20 centimetres above the plate.",
      "say": "We flip the same way every time. Hold the coin about this high above the plate and let it drop. Heads is the side with the picture.",
-     "kid": "Draw the table. Flip from the same height onto the plate. Heads is the picture side.",
+     "kid": "Help draw the table. Then practise flipping from the same height onto the plate. Heads is the picture side.",
      "check": {
       "t": "mcq",
       "q": "Why must every flip be done in the same way, from the same height onto the same plate?",
@@ -965,9 +965,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Count the sets with 7 or more heads. Count the sets with 3 or fewer. Find the longest streak in all 20 sets. Write these three numbers under the table.",
+     "do": "Count the sets with 7 or more heads. Count the sets with 3 or fewer. Find the longest streak of one side in any set. Write these three numbers under the table.",
      "say": "How many sets had seven or more heads? How many had three or fewer? What is the longest streak you found?",
-     "kid": "Count the sets with 7 or more heads. Count the sets with 3 or fewer. Find the longest streak.",
+     "kid": "Count the sets with 7 or more heads. Count the sets with 3 or fewer. Find the longest run of one side.",
      "ask": [
       {
        "q": "Did the coin change in the sets that had many heads? What do you think made those sets happen?",
@@ -1171,9 +1171,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "For each pod, divide the number of seeds by the length to get the seeds for each centimetre. Line up the pods from shortest to longest on the plate with the seed count under each. Look for the pattern and circle any odd pod.",
+     "do": "For each pod, line up the pods from shortest to longest on the plate with the seed count under each. Look for the pattern and circle any odd pod.",
      "say": "Put the pods in a line, from the shortest to the longest. What do you notice about the seeds? Which pod does not fit?",
-     "kid": "Line up the pods. Do longer pods have more seeds? Find an odd pod.",
+     "kid": "Line up the pods from shortest to longest. Put the seed count under each. Point to any pod that does not fit.",
      "ask": [
       {
        "q": "What pattern do you see? Is there any pod that does not fit?",
@@ -1307,7 +1307,7 @@
      "mins": 4,
      "do": "Copy this table for your child. A shop in Chennai. January: 20 cold drinks and 2 fans. March: 90 and 11. May: 200 and 24. July: 150 and 17. October: 60 and 6. December: 15 and 1. Ask what goes together.",
      "say": "This shop sold cold drinks and fans each month. Look at the numbers. What do you notice goes together?",
-     "kid": "A shop sold cold drinks and fans. What goes together in the numbers?",
+     "kid": "A shop sold cold drinks and fans each month. Go down the numbers. What goes up together?",
      "ask": [
       {
        "q": "What goes together in this table?",
@@ -1344,7 +1344,7 @@
      "mins": 5,
      "do": "Copy the second table. A school, by class. Class 1: foot length 17 centimetres, spelling mark 4 out of 10. Class 2: 18.5 and 5. Class 3: 20 and 6. Class 4: 21.5 and 7. Class 5: 23 and 8. Ask for the hidden third thing.",
      "say": "Children with longer feet get better spelling marks. Does a bigger foot help spelling? What is behind both? How could we check?",
-     "kid": "Children with longer feet get better spelling marks. What is behind both? How could you check?",
+     "kid": "Children with longer feet get better spelling marks. Do bigger feet help spelling?",
      "ask": [
       {
        "q": "What is the hidden third thing here, and how could you check it?",
@@ -1543,14 +1543,14 @@
      "what": "Draw a chart that starts at zero, draw a chart that starts at 90, show them, and compare what people say."
     }
    ],
-   "record": "Keep your two charts. Under each one, write the answer each person gave to the question: how much better is Brand Two? The answer is a little, a bit, or much.",
+   "record": "Keep your two charts. Under each one, write the answer each person gave to the question: how much better is Brand Two? The answer is a little, some, or a lot.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Tell your child about two biscuit brands. In a crunch test, Brand One scored 92 out of 100 and Brand Two scored 95. Draw chart A with the side numbers from 0 to 100. Draw one bar for each brand.",
      "say": "Two biscuit brands got crunch scores. Brand One scored ninety-two. Brand Two scored ninety-five. Draw a bar for each, with the side scale starting at zero.",
-     "kid": "Brand One scored 92. Brand Two scored 95. Draw two bars. Start the scale at 0.",
+     "kid": "Brand One scored 92. Brand Two scored 95. Draw two bars, or cut two paper strips. Start the scale at 0.",
      "context": "This is the first step of Same Numbers, Two Charts. You draw the first chart, starting at zero.",
      "parent": "One square on the paper can stand for 5 points. The bars should look almost the same height."
     },
@@ -1574,8 +1574,8 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Show chart A to one person and chart B to another, or to the same person on another day. Cover the numbers. Ask: how much better is Brand Two? A little, a bit, or much? Write each answer.",
-     "say": "Look at this chart of biscuit crunch. How much better is Brand Two than Brand One? A little, a bit, or much?",
+     "do": "Show chart A to one person and chart B to another, or to the same person on another day. Cover the numbers. Ask: how much better is Brand Two? A little, some, or a lot? Write each answer.",
+     "say": "Look at this chart of biscuit crunch. How much better is Brand Two than Brand One? A little, some, or a lot?",
      "kid": "Show each chart to a different person. Ask: how much better is Brand Two?",
      "parent": "Say exactly the same words to both people. Keep the numbers on the side of the chart covered, so they judge only by how tall the bars look.",
      "context": "In this step, you show each chart to a different person and ask the same question."
@@ -1684,7 +1684,7 @@
     {
      "id": "s1",
      "mins": 25,
-     "do": "1. Gently break a hand (a bunch) of 6 bananas into single bananas. Give each a tag, 1 to 6. 2. Make three pairs: 1 and 2, 3 and 4, 5 and 6. 3. For each pair, flip a coin. Heads, the first banana is wrapped. Tails, the second one is. 4. Wrap the stalk end of the chosen bananas in foil. 5. Lay all six on a tray in the same place. 6. Draw the colour scale on the page.",
+     "do": "1. Gently break a hand (a bunch) of 6 bananas into single bananas. Give each a tag, 1 to 6. 2. Make three pairs: 1 and 2, 3 and 4, 5 and 6. 3. For each pair, flip a coin. Heads, the first banana is wrapped. Tails, the second one is. 4. Wrap the stalk end of the chosen bananas in foil. 5. Lay all six on a tray in the same place. 6. Write the colour scale on the page: 1 all green, 2 green with a little yellow, 3 mostly yellow, 4 all yellow, 5 yellow with brown spots.",
      "say": "People say wrapping the stalk makes bananas last longer. We will test it. First, guess. Will the wrapped bananas ripen slower, faster, or the same? Why do you think so?",
      "kid": "Number the bananas. Make three pairs. Flip a coin for each pair. Wrap the chosen ones.",
      "ask": [
@@ -1784,7 +1784,7 @@
      "mins": 6,
      "do": "Read this report aloud: 'Our test proves that okra seeds make pods grow long. Everyone knows seeds make fruit big.' Ask your child what is wrong with it.",
      "say": "Here is a report: 'Our test proves that okra seeds make pods grow long. Everyone knows seeds make fruit big.' What is wrong with it?",
-     "kid": "This report says seeds make pods long. What is wrong with it?",
+     "kid": "Listen to the report. Does it say more than a test can show?",
      "ask": [
       {
        "q": "What is wrong with this report?",

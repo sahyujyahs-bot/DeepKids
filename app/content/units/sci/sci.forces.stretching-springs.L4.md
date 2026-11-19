@@ -272,8 +272,8 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   - Check: A bottle bounces on a band. You pull it down twice as far. What happens to the bounce time? → **It stays the same**
   - Think: A spring bounces at the same beat on the Moon as on Earth. Why does a pendulum not?
 - **s4 (6 min)**  
-  *Parent does:* Play the last 8 cards. For the cards where the load gets heavier or lighter, write how many times the load changed, and the square root of that number, before you pick your token.  
-  *Parent says:* For the cards where the load gets heavier or lighter, work out the square root of the change. Four times the load means twice the time. What does nine times the load mean?  
+  *Parent does:* Play the last 8 cards. For the cards where the load gets heavier or lighter, say how many times the load changed. Then say the square root of that number before you pick your token.  
+  *Parent says:* The square root of a number is the number that, multiplied by itself, gives it. The square root of 4 is 2. So four times the load means twice the time. What does nine times the load mean?  
   *Child mode:* Play the last 8 cards. When the load gets heavier or lighter, find the square root of the change.
   - Check: A load bounces in 2 seconds on a spring. You hang a load 4 times lighter. What is the new bounce time? → **1 second**
 - **s5 (2 min)**  
@@ -293,7 +293,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 - **s1 (4 min)**  
   *Parent does:* Show your child the bands, the bag and the rice. Ask for two guesses and the reasons. Write them at the top of the page. With one child, the parent holds the ruler and the clock while the child pulls and counts. With 2 to 4 children, one rig is enough. One pulls, one holds the ruler, one times and one writes. Swap after each load.  
   *Parent says:* We will bounce a bag of rice on two bands. Will a big bounce take longer than a small bounce? And if the rice is four times heavier, how will the bounce time change? Why do you think so?  
-  *Child mode:* A bag bounces on bands. Does a big bounce take longer? What if the bag is four times heavier? Why?
+  *Child mode:* A bag bounces on bands. Does a big bounce take longer? What if the bag is four times heavier?
   - Ask: You guessed how long a big bounce will take. Why do you think so? (good: A big bounce goes further, so it takes longer.; A big bounce is faster, so it takes the same time.; A bigger pull makes the bag go faster.)
   - Note: Do not correct the guesses. Many children say a big bounce takes longer, and a heavier load takes twice as long or four times as long. Write whatever they say with the reason.
 - **s2 (7 min)**  
@@ -318,8 +318,8 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   - Think: How much longer do you expect 1000 grams to take than 250 grams?
 - **s5 (7 min)**  
   *Parent does:* Find the middle time for each test. Divide each by ten for one bounce. Look at your first guesses. Write three sentences for the size of the bounce, and three for the load: what you think (claim), what you saw (evidence) and why (reasoning).  
-  *Parent says:* What did you think? What did you find? Why did the load change the bounce time, but not the size of the bounce? Write what you think, what you saw and why.  
-  *Child mode:* Find the middle time for each test. Was your guess right? Write what you think, what you saw and why.
+  *Parent says:* What did you think? What did you find? Tell me what you think, what you saw and why.  
+  *Child mode:* Find the middle time for each test. Was your guess right? Tell what you think, what you saw and why.
   - Ask: Why does the size of the bounce not change the time, when the load does? (good: A bigger pull speeds the bag up, so the bounce takes the same time.; A heavier bag is harder to speed up.; The spring and the load set the beat.)
   - Note: Divide the 1000 gram time by the 250 gram time. This is the key number. An answer near 2 matches the square root rule, and an answer of 1.5 to 2.1 is typical for rubber. The size of the bounce should change the time very little. If your results are very different, check that every test used the same pull-down and the same bands.
 ### e2 · The Favourite Beat: which shake builds the biggest bounce? (35 min)
@@ -332,7 +332,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 - **s1 (4 min)**  
   *Parent does:* Show your child the bands and the bag. Say that you will shake the top end of the bands at different speeds. Write the guess and the reason. With one child, the parent is the helper. With 2 to 4 children: one shakes, one reads the ruler, one calls the time or watches the metronome, one writes. Swap after each load.  
   *Parent says:* I will hold the top of the bands and move my hand up and down, a small amount. Which speed will make the bag bounce the most, slow, medium or fast? Why do you think so?  
-  *Child mode:* Move the top of the bands up and down. Which speed makes the bag bounce most? Why?
+  *Child mode:* Move the top of the bands up and down. Which speed makes the bag bounce most?
   - Ask: You guessed which speed will make the biggest bounce. Why do you think so? (good: The fastest hand will make the biggest bounce.; A speed in the middle matches the bag's own beat.; Slow shaking makes the biggest bounce, because the bag can follow.)
   - Note: Do not correct the guess. Many children think the faster the hand, the bigger the bounce. Write down what they say.
 - **s2 (6 min)**  
@@ -365,21 +365,21 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 - **safety:** A grown-up takes the spring out of the pen, because it can spring out and the small parts are easy to lose. Count the pieces back afterwards, and keep them away from small children, who may put them in their mouths. Keep the load low over a cushion, and stop if a band looks thin and pale.
 - **record:** A table with each thing, its relaxed length, its length with the load, its extension and its stiffness. A bar chart of the stiffness of the four things. The extension of the spring and the wide band with 250 grams and with 500 grams.
 - **s1 (5 min)**  
-  *Parent does:* Line up the four things. Ask your child to guess the order, from softest to stiffest, and to say why. Write the guess down. With one child, the parent measures while the child hangs and writes. With 2 to 4 children, each child tests a different thing, then everyone shares the numbers and draws the chart.  
+  *Parent does:* Line up the four things. Ask your child to guess the order, from softest to stiffest, and to say why. Write the guess down. With one child, the parent measures while the child hangs and writes. With 2 to 4 children, each child tests a different thing, then everyone shares the numbers and makes the chart.  
   *Parent says:* Pull each thing gently with your fingers. Which feels softest and which feels stiffest? Put them in order and say why.  
   *Child mode:* Pull each thing gently. Put them in order, softest to stiffest. Why?
   - Ask: How can you tell which thing is stiffest? (good: It is the hardest to stretch.; It needs the biggest pull for the same stretch.; It stretches the least under the same load.)
   - Note: Do not correct the guess. Children often say the biggest thing is the stiffest. Write the guess down.
 - **s2 (10 min) · grown-up needed**  
-  *Parent does:* Measure the relaxed length of the first thing. Hang the 250 gram bag from it and wait for it to stop moving. Measure the new length. Take the relaxed length away from the new length to get the extension. Do this for all four.  
+  *Parent does:* Measure the relaxed length of the first thing. That is its length with nothing hanging on it. Hang the 250 gram bag from it and wait for it to stop moving. Measure the new length. Take the relaxed length away from the new length to get the extension. Do this for all four.  
   *Parent says:* Measure the relaxed length. Hang the bag and wait. Measure again. The extension is the second length minus the first. Do this for each thing.  
   *Child mode:* Measure the length. Hang the bag. Measure again. Take away the first number.
   - Note: The load is the same for every thing, which is what makes this a fair test. Measure each thing from the same two places, for example from the hook to the bottom of the knot. A grown-up should take the spring out of the pen. A pen spring may stretch very little, perhaps 1 or 2 centimetres, so measure it carefully. Hang the load gently. Do not drop it. Wait about 10 seconds, because a band keeps stretching a little. Measure a band or a hair tie as a loop, from end to end, lying relaxed.
   - Check: Why must the load be the same for all four things? → **So that the differences in stretch come from the things, not from the load**
 - **s3 (10 min)**  
-  *Parent does:* Work out each stiffness. Divide 2.5 newtons by the extension in centimetres. Draw a bar chart with four bars. Then hang a second 250 gram packet too (500 grams in all) on the pen spring and on the wide band. Does the stretch double?  
-  *Parent says:* The load is 2.5 newtons. Divide it by the extension in centimetres. A bigger answer means a stiffer thing. Draw a bar for each one.  
-  *Child mode:* Divide 2.5 by each extension. A bigger answer is stiffer. Draw a bar for each.
+  *Parent does:* Work out each stiffness. Divide 2.5 newtons by the extension in centimetres. Make a bar chart with four bars, drawn or built from paper strips. Then hang a second 250 gram packet too (500 grams in all) on the pen spring and on the wide band. Does the stretch double?  
+  *Parent says:* The load is 2.5 newtons. A newton is a unit of pull. Divide 2.5 by the extension in centimetres. A bigger answer means a stiffer thing. Make a bar for each one.  
+  *Child mode:* Divide 2.5 by each extension. A bigger answer is stiffer. Draw a bar for each, or cut paper strips.
   - Note: For example, an extension of 5 centimetres gives 2.5 divided by 5, which is 0.5 newtons for each centimetre. Your numbers will differ with your things. A pen spring is often about 1 to 3 newtons for each centimetre, and a wide band is often about 0.3 to 1. A thin band is usually softer than a wide band of the same length. With 500 grams, a pen spring stretches about twice as far as with 250 grams, because a spring follows the rule that double the pull gives double the stretch. A rubber band may stretch more or less than double, because it is not so regular. Say what you saw, whatever it is.
   - Check: A thing stretches 5 centimetres under a pull of 2.5 newtons. A second thing stretches 1 centimetre under the same pull. Which is stiffer, and how many times as stiff? → **The second, 5 times as stiff**
 - **s4 (3 min)**  
@@ -417,9 +417,9 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 - **safety:** A grown-up bends the clips, or watches closely if an older child does it. The broken ends are sharp and can fly. Hold the clip low, over the tray, and keep your face away. The bend gets warm, so touch it gently. Count the pieces and throw them away safely, out of reach of small children.
 - **record:** A table with the angle of bend, the number of bends before the clip broke, and whether the bend felt warm.
 - **s1 (5 min) · grown-up needed**  
-  *Parent does:* A grown-up bends one clip a little and lets go, and then bends another a lot and lets go. Ask your child what happened in each case. Ask them to guess how many back and forth bends it takes to break a clip. Before the counting starts, gently open each clip out into a straight wire, so that every clip is bent at a fresh spot in the middle. With one child, the parent bends and the child counts. With 2 to 4 children, one counts, one touches the bend, one writes.  
+  *Parent does:* A grown-up bends one clip a little and lets go, and then bends another a lot and lets go. Ask your child what happened in each case. Then open each clip out into a straight wire, so that every clip bends at a fresh spot. Ask your child to guess how many back and forth bends it takes to break a clip. With one child, the parent bends and the child counts. With 2 to 4 children, one counts, one touches the bend, one writes.  
   *Parent says:* The first clip sprang back. The second stayed bent. Now I will bend a clip back and forth. How many bends do you think it will take to break? Why?  
-  *Child mode:* Bend a clip once. It springs back or stays bent. How many bends back and forth will break it?
+  *Child mode:* Watch one clip bend a little and another bend a lot. What is different about them?
   - Ask: You guessed how many bends will break the clip. Why that many? (good: Each bend wears it out a little.; It needs a lot of bends, because a clip is tough.; It will break at the first big bend.)
   - Note: A small bend stays inside the elastic limit and the clip springs back. A big bend goes past the limit and the clip stays bent. Do not correct the guess. Write it down.
 - **s2 (8 min) · grown-up needed**  
@@ -436,7 +436,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   - Think: Why might a smaller bend take more bends to break the clip?
 ### a4 · The Tape Measure Snap: why a thin strip folds suddenly (19 min)
 - **safety:** A grown-up holds the tape measure. The tape edge is sharp and can cut, and it can snap back fast. Keep your fingers away from the tape's edge, keep faces away from above the tape, and never let it spring back. Press the end gently.
-- **record:** A drawing of the tape standing out, the tape kinked, and a note about what flattening the curve did. How far the curved tape, the card strip and the pinched tape stand out before they droop.
+- **record:** A photo or drawing of the tape standing out and the tape kinked, and a note about what flattening the curve did. How far the curved tape, the card strip and the pinched tape stand out before they droop.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* A grown-up stands the tape measure on the table with the case flat. The grown-up pulls 30 centimetres of tape straight up and locks it. With one child, the parent holds and the child presses. With 2 to 4 children, one presses, one watches the middle, one writes.  
   *Parent says:* The tape is sticking out straight. If I press the end gently, what will happen? Will it bend slowly or suddenly?  
@@ -452,7 +452,7 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 - **s3 (9 min) · grown-up needed**  
   *Parent does:* Squeeze the tape flat between your finger and thumb, and press the end again. Compare it with the first time. Now lay the case on the table edge and slowly pull the tape out sideways. Measure how far it stands out before it droops. Do the same with the card strip held at one end, and then pinch the tape flat just outside the case.  
   *Parent says:* Squeeze the tape flat for a moment. Now it is floppy. Why is the curved tape stiff, and the flat tape floppy?  
-  *Child mode:* Squeeze the tape flat. Is it still stiff? Try a flat card strip.
+  *Child mode:* Squeeze the tape flat. Is it still stiff? Then try the flat card strip.
   - Note: The curve makes the tape like a very shallow tube, and a tube resists bending much more than a flat strip of the same material. Engineers use curved and tubular shapes for the same reason, in bicycle frames, bamboo, drinking straws and aeroplane bodies. A curved tape typically stands out about half a metre to over a metre, depending on its width. A flat card strip droops at about 10 to 15 centimetres. A tape pinched flat folds at once. No tape measure? Roll a sheet of paper into a tube and tape it: stood on end, it holds a few books, while the same flat sheet folds at once.
   - Think: Why does a curve make a thin strip stiff?
 ### a5 · The One-Second Bouncer: tune a bag to bounce once each second (25 min)
@@ -464,8 +464,8 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
   *Child mode:* Time ten bounces with 500 g. Find one bounce. More or less than one second?
   - Note: A bounce time under one second with 500 grams is usual. For example, 7.5 seconds for ten bounces is 0.75 seconds for one bounce. The task is to make it exactly one second.
 - **s2 (8 min)**  
-  *Parent does:* Work out the load you need. The bounce time must grow from your time to 1 second. First divide 1 by your time. Then multiply the answer by itself. Last, multiply that by 500 grams. The result is the load to hang. Write it down.  
-  *Parent says:* We need a bigger bounce time, so we need a heavier load. Divide one second by your time. Multiply the answer by itself. That tells you how many times heavier the load must be. Then multiply by 500 grams.  
+  *Parent does:* Work out the load you need. The bounce time must change from your time to 1 second. First divide 1 by your time. Then multiply the answer by itself. Last, multiply that by 500 grams. The result is the load to hang. Write it down.  
+  *Parent says:* If your bounce time is under one second, we need a heavier load. Divide one second by your time. Multiply the answer by itself. That is how many times heavier the load must be. Then multiply by 500 grams.  
   *Child mode:* Divide 1 by your time. Multiply the answer by itself. Then multiply by 500 grams.
   - Note: Bounce time grows with the square root of the load, so the load grows with the square of the time. For example, suppose your bounce time is 0.75 seconds and you want 1 second. 1 divided by 0.75 is 1.33. 1.33 times 1.33 is 1.78. 1.78 times 500 grams is about 890 grams. Use your own numbers. If the answer is over 1000 grams, stop at 1000 grams, add a third band to the chain (that makes it softer and slower), and start again from the first step. If your time with 500 grams is already over one second, you need a lighter load.
   - Check: A load of 500 grams bounces in 0.5 seconds. About what load will bounce in 1 second? → **About 2000 g**
@@ -487,19 +487,19 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 - **record:** A graph of the time for ten wobbles against the mass of the clay, and a table of two mystery lumps with the mass from your wobble scale and the mass from the kitchen scale.
 - **schedule:** day 1: Build the wobble scale. Time ten wobbles with three known lumps. Draw the graph. (25 min); day 2: Find the mass of two mystery lumps from their wobble times. Check each on the kitchen scale. Try the ruler on its side. (25 min)
 - **s1 (5 min)**  
-  *Parent does:* Hold the ruler under a heavy book, with 20 centimetres sticking out over the table edge. Ask your child to guess what happens to the wobble when the clay is heavier, and why. Tape the ruler down over the book as well. Press the clay firmly round the end, with a strip of tape over it. With one child, the parent times and the child flicks and counts. With 2 to 4 children, one flicks, one times, one counts, one writes.  
+  *Parent does:* Put the ruler on the table with a heavy book on it and 20 centimetres sticking out over the edge. Tape it down. Ask your child to guess what happens to the wobble when the clay is heavier, and why. With one child, the parent times and the child flicks and counts. With 2 to 4 children, one flicks, one times, one counts, one writes.  
   *Parent says:* A ruler is a springy stick. Put a lump of clay on its end and flick it. If the lump is heavier, will it wobble faster or slower? Why do you think so?  
   *Child mode:* Stick clay on the ruler's end. Flick it. Will a heavier lump wobble faster or slower?
   - Ask: Why do you think a heavier lump will change the wobble? (good: It is harder to move, so it wobbles slower.; The ruler pulls harder, so it wobbles faster.; A heavier lump pulls the end down more.)
   - Note: Do not correct the guess. Press the book down hard, so that the ruler does not slip. If the ruler wobbles too fast to count with a 20 gram lump, slide more of it off the table, so that 25 centimetres stick out.
 - **s2 (12 min)**  
-  *Parent does:* Stick the 20 gram lump on the end of the ruler. Flick the end down about 1 centimetre and let go. Time ten wobbles. Do it three times and use the middle time. Do the same with 40 grams and 80 grams.  
+  *Parent does:* Press the 20 gram lump firmly round the end of the ruler, with a strip of tape over it. Flick the end down about 1 centimetre and let go. Time ten wobbles. Do it three times and use the middle time. Do the same with 40 grams and 80 grams.  
   *Parent says:* Stick the lump to the end. Flick the end down a little and let go. Count ten wobbles and stop the clock. Do it three times. Then do the same with the 40 gram and 80 gram lumps.  
   *Child mode:* Stick the clay on the end. Flick. Time ten wobbles. Do it three times. Then try heavier clay.
   - Note: With a thin, bendy plastic ruler, ten wobbles typically take about 3 to 8 seconds. The 80 gram time should be about 1.7 to 2 times the 20 gram time, not exactly 2, because the ruler has a little mass of its own. A stiff or thick ruler wobbles faster: if ten wobbles take under 3 seconds, slide more of the ruler out, or time 20 wobbles and halve. If the ruler droops more than about 5 centimetres under the 80 gram lump, slide less out. Use the same flick size each time. If the wobbles die away before ten, count eight and divide.
   - Check: Ten wobbles take 4 seconds with 20 grams. About how long do you expect for 80 grams? → **About 8 seconds**
 - **s3 (8 min)**  
-  *Parent does:* Draw a graph with the mass in grams along the bottom and the time for ten wobbles up the side. Plot the three points. Draw a smooth curve through them, and carry it from 0 to 100 grams.  
+  *Parent does:* Draw a graph with the mass in grams along the bottom and the time for ten wobbles up the side. Plot the three points. Draw a smooth curve through them, and carry it from 0 to 100 grams. If drawing is hard, a grown-up can draw while you read out the numbers.  
   *Parent says:* Plot the three points. Draw a smooth curve through them. It will curve a little, because the time grows with the square root of the mass. This graph is your scale.  
   *Child mode:* Plot three points. Draw a smooth curve through them.
   - Note: The curve should bend over, rising quickly at first and then more slowly. Do not draw a straight line. Do not extend the curve far past 80 grams.
@@ -521,17 +521,17 @@ That night, Saroja pushed Kannan on the unjal and counted slowly. One swing took
 ### c1 · Soft Landing: keep a stack of coins standing (40 min)
 - **problem:** Build a cushion inside a small box, so that a stack of coins standing inside stays standing when the box is dropped from 50 centimetres onto the floor. Find the tallest stack that you can protect.
 - **safety:** Drop the box over a soft mat or folded blanket. Keep your feet out of the way of the box. A grown-up cuts the cardboard if scissors are needed.
-- **your turn:** Draw your design. Build it, and drop it three times. Change one thing and drop it three times again. Which design protects the tallest stack? Why do you think it did?
+- **your turn:** Build your design, and show it with a photo or a drawing. Drop it three times. Change one thing and drop it three times again. Which design protects the tallest stack? Why do you think it did?
 - **constraints:** The box must be a small cardboard box, about the size of a shoebox, and the cushion must fit inside it.; The coins must start in a neat stack on a small piece of card, standing upright, with nothing holding the stack except the cushion.; Drop the box flat from exactly 50 centimetres, measured from the bottom of the box.; Use only things from the house, such as rubber bands, paper cups, sponge, cloth, newspaper, cardboard and tape.; The score is the number of coins in the tallest stack that is still standing after the drop. Try each design three times.
 - **general:** Pack the coins in a nest of crumpled newspaper, so that the paper squashes in the drop.; Put the card with the coin stack on a thick piece of sponge at the bottom of the box.; Fill the box with cloth around the card, so that the stack cannot slide.
 - **creative:** Hang the coin card in the middle of the box on rubber bands from all four sides, so that the stack floats and the bands soak up the jolt.; Stand the card on a tower of paper cups that crush gently in the drop.; Use a long band spring under the card and a sponge on top, to take both the bounce and the squash.
 - **s1 (8 min)**  
-  *Parent does:* Read the problem and the constraints together. Ask your child to sketch two or three different cushions. Ask which design they think will work best, and why.  
-  *Parent says:* We have to keep a stack of coins standing when the box is dropped. What could soak up the jolt? Draw some ideas first.  
-  *Child mode:* Draw two or three cushion ideas. Which will work best? Why?
+  *Parent does:* Read the problem and the constraints together. Ask your child to pick two or three things from the table that could make a cushion, and to say how each might soak up a jolt. Ask which will work best, and why.  
+  *Parent says:* We have to keep a stack of coins standing when the box is dropped. What could soak up the jolt? Pick two or three things from the table and tell me how each might help.  
+  *Child mode:* Pick two or three things that could make a cushion. Which will work best?
   - Ask: What would stop a stack of coins from falling over when the box lands? (good: Something soft that squashes slowly.; Something springy that holds the stack in the middle.; Something that stops the stack sliding sideways.)
 - **s2 (12 min)**  
-  *Parent does:* Build your first cushion. Put a stack of 3 coins on the card. Close the box. Drop it flat from 50 centimetres onto the mat. Open the lid and see whether the stack is standing. Do it three times.  
+  *Parent does:* Build your first cushion. Put a stack of 3 coins on top of the cushion. Close the box. Drop it flat from 50 centimetres onto the mat. Open the lid and see whether the stack is standing. Do it three times.  
   *Parent says:* Build your first design. Start with a stack of three coins. Drop the box from 50 centimetres and check. Do it three times. Write down how many times the stack stayed standing.  
   *Child mode:* Build your cushion. Stack 3 coins. Drop the box. Is the stack standing?
   - Note: Measure the drop height from the bottom of the box. Drop the box flat, without throwing it. If three coins stay standing every time, try five, then seven.

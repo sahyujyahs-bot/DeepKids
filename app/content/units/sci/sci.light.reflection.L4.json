@@ -732,7 +732,7 @@
      "mins": 4,
      "do": "Play two practice cards. Read the front, ask for a sign and a reason, and then read the back.",
      "say": "Let's try two cards together. Read the front. Which sign? Say why you think so. Then we check the back.",
-     "kid": "Practice with two cards. Pick a sign and say why.",
+     "kid": "Read the front of a card. Which sign does it go under?",
      "context": "In this step, you play two practice cards and learn how the stars work.",
      "check": {
       "t": "mcq",
@@ -750,7 +750,7 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Take turns. Each player takes the top card, picks a sign, says why, then reads the back. Give stars as the rules say.",
+     "do": "Take turns. Each player takes the top card, picks a sign, says why, then reads the back. A right sign wins two stars.",
      "say": "Read your card. Pick a sign. Tell us why in one sentence. Then read the back.",
      "kid": "Take turns. Read a card, pick a sign, say why, check the back.",
      "context": "In this step, you play the main part of Image, Blur or Nothing.",
@@ -771,7 +771,7 @@
      "mins": 3,
      "do": "Count the stars. Look at the cards under each sign. Pick one card from the No image pile and ask what would make that surface shinier.",
      "say": "Look at the pile with no image. Pick one card. What could you do to make it show an image?",
-     "kid": "Pick a no-image card. How could you make it shine?",
+     "kid": "Pick one card from the no-image pile.",
      "context": "In this step, you count stars and ask how a dull surface could be made shinier.",
      "check": {
       "t": "mcq",
@@ -790,8 +790,8 @@
      "id": "s5",
      "mins": 2,
      "do": "Talk about which card surprised you most. Make up a new card for the game.",
-     "say": "Which card surprised you? Can you make up a card of your own, with the answer on the back?",
-     "kid": "Which card surprised you most? Make up one new card.",
+     "say": "Which card surprised you? Now make up a card of your own, with the answer on the back.",
+     "kid": "Make up one new card, with the answer on the back.",
      "context": "In this step, you talk over the game and make your own card.",
      "think": "A wet road gives long streaks of light, but a dry road does not. What does water change about the road?"
     }
@@ -905,9 +905,9 @@
     {
      "id": "s1",
      "mins": 4,
-     "do": "Cut out the cards, the key and the stars. Draw the 5 by 5 grid. Read the key together.",
-     "say": "A mirror turns a beam through a right angle. When a beam going right meets a mirror that leans right, it turns upward. Let's check the key.",
-     "kid": "Draw the grid. Read the key for R and L.",
+     "do": "Cut out the cards, the key and the stars. Draw a 5 by 5 grid on a big sheet. Make ten small paper slips, five marked R and five marked L. Read the key together.",
+     "say": "A mirror turns a beam through a right angle. Let's read the key to see which way each kind of mirror turns it.",
+     "kid": "Make the grid and the R and L slips. Read the key for R and L.",
      "context": "This is the first step of Mirror Maze. You draw the grid and learn the key.",
      "ask": [
       {
@@ -924,7 +924,7 @@
     {
      "id": "s2",
      "mins": 4,
-     "do": "Try Maze 1 together. Copy it to the grid, trace the beam and check the back.",
+     "do": "Try Maze 1 together. Put a slip on each square that has a mirror, trace the beam and check the back.",
      "say": "Put your finger where the beam enters. Go straight until you meet a mirror. Which way does the beam turn? Keep going until it leaves the grid.",
      "kid": "Trace the first maze with your finger. Where does the beam leave?",
      "context": "In this step, you trace the first maze together and see how it works.",
@@ -944,8 +944,8 @@
     {
      "id": "s3",
      "mins": 8,
-     "do": "Take turns with the cards. Each player copies the maze, traces the beam, says the exit and the turns, then reads the back.",
-     "say": "Copy the mirrors. Trace the beam. Tell us where it leaves and how many times it turned. Then check the back.",
+     "do": "Take turns with the cards. Each player sets up the maze with slips, traces the beam, says the exit and the turns, then reads the back.",
+     "say": "Place the mirrors. Trace the beam. Tell us where it leaves and how many times it turned. Then check the back.",
      "kid": "Take turns. Trace each maze. Say where the beam leaves.",
      "context": "In this step, you play the main part of Mirror Maze.",
      "parent": "If your child gets lost, trace with a pencil on the grid and mark each turn with a dot. Check the first turn together, then let them carry on.",
@@ -954,8 +954,8 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Make your own maze. Put in six mirrors, choose where the beam enters and work out where it leaves. Swap with someone to check.",
-     "say": "Now you are the puzzle maker. Draw six mirrors, pick where the beam enters, and work out where it leaves. Then give it to someone else.",
+     "do": "Make your own maze. Put six slips on the grid, choose where the beam enters and work out where it leaves. Swap with someone to check.",
+     "say": "Now you are the puzzle maker. Place six mirrors, pick where the beam enters, and work out where it leaves. Then give it to someone else.",
      "kid": "Make your own maze with six mirrors. Swap with someone.",
      "context": "In this step, you make a maze of your own for someone else to solve.",
      "check": {
@@ -1025,7 +1025,7 @@
     }
    ],
    "safety": "Never look straight into the torch or its bright flash in the mirror. Glance for a moment only, from the side. A grown-up tapes the mirror's edges and draws the marks.",
-   "record": "Fill in the table. Then draw the surface in the middle and the five marks around it, and colour the marks that saw a lit spot. Do one drawing for the mirror and one for the white paper.",
+   "record": "Fill in the table. Then, for the mirror and for the white paper, tell your grown-up which marks saw a lit spot. You can also draw the five marks and colour the ones that saw it.",
    "context": "In this experiment, you shine a thin torch beam at six different surfaces. You find out from how many places around each surface you can see the lit spot, and what that shows about smooth and rough surfaces.",
    "example_chart": {
     "type": "bar",
@@ -1088,9 +1088,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Show your child the six surfaces and the torch. Ask which will show a lit spot from the most places and which from the fewest. Ask for reasons. Write the guesses on the table. Roles: with one child, the parent holds the torch and the child looks and writes. With 2 to 4 children, one holds the torch and one writes the table. The others each lie at a different mark. They call out together if they see the spot. Then swap places.",
-     "say": "A thin beam of light will land on each of these. We will look at the spot from five different places. Which surface will let you see it from the most places? Which from the fewest? Why do you think so?",
-     "kid": "A torch beam lands on six surfaces. Which shows the spot from the most places? Why?",
+     "do": "Show your child the six surfaces and the torch. Ask which will show a lit spot from the most places and which from the fewest. Ask for reasons. Write the guesses in the table. Roles: with one child, the parent holds the torch and the child looks and writes. With 2 to 4 children, one holds the torch and one writes the table. The others each lie at a different mark. They call out together if they see the spot. Then swap places.",
+     "say": "A thin beam of light will land on each of these. We will look at the lit spot from five different places. Which surface will show it from the most places? Which from the fewest?",
+     "kid": "Look at the six surfaces. Pick your guess, and tell your grown-up why.",
      "ask": [
       {
        "q": "Why do you think a mirror will be different from paper?",
@@ -1109,7 +1109,7 @@
      "mins": 10,
      "do": "A grown-up draws a dot in the middle of the big sheet, and a straight line through the dot. Use a string 40 centimetres long to draw a half circle round the dot, on one side of the line. With a protractor, measure angles from the left end of the line. Mark the torch spot at 45 degrees. Mark five viewing marks at 15, 75, 105, 135 and 165 degrees. Number them 1 to 5.",
      "say": "The dot in the middle is where each surface will stand. The torch goes at its mark. We will look at the surface from five marks around the half circle.",
-     "kid": "Draw a dot and a half circle. Mark the torch spot and five viewing marks.",
+     "kid": "Your grown-up marks a dot and a half circle. Find the torch mark and the five viewing marks.",
      "adult": true,
      "parent": "Measure the angles from the left end of the straight line through the dot. The torch mark is at 45 degrees. The five viewing marks are at 15, 75, 105, 135 and 165 degrees, so the mirror bounce lands on mark 4. Use a ruler or string to make sure each mark is 40 centimetres from the dot. If you lack a protractor, trace one from a maths box.",
      "check": {
@@ -1130,8 +1130,8 @@
      "id": "s3",
      "mins": 8,
      "do": "Make the room dark. Stand the mirror upright on the dot with clay, facing the viewing marks. Switch on the torch at its mark, aimed at the dot through the card with the hole. Put your chin on the table at mark 1. Look at the mirror. Move to marks 2, 3, 4 and 5 in turn. Write which marks show a lit spot.",
-     "say": "Put your chin on the table. Look at the mirror from mark 1. Can you see the lit spot? Now look from mark 2. Keep going to mark 5. Where does the bright flash appear?",
-     "kid": "Put your chin on the table. Look at the mirror from each mark. Where do you see the spot?",
+     "say": "Put your chin on the table, so your eyes are low. Look at the mirror from mark 1. Can you see the lit spot? Now look from mark 2. Keep going to mark 5.",
+     "kid": "Look at the mirror from mark 1, then 2, 3, 4 and 5. At which marks do you see the lit spot?",
      "adult": true,
      "parent": "Expected: a bright flash of the torch itself at mark 4, and almost nothing at the other marks. The flash can be dazzling, so glance for a moment only. A thin beam makes no visible spot on a clean mirror from any other mark. Then test the smooth foil in the same way. It should act like a weaker mirror. The mirror must stand along the straight line through the dot, with its shiny side facing the viewing marks. If nobody sees the flash, nudge the mirror a little.",
      "context": "In this step, you test the mirror and the smooth foil from five places."
@@ -1161,8 +1161,8 @@
      "id": "s5",
      "mins": 5,
      "do": "Look at your table. Sort the surfaces by how many marks saw a lit spot. Ask your child what the surfaces with the most marks have in common, and what the mirror does differently.",
-     "say": "The mirror showed the spot from one mark. The paper showed it from five. The same torch, the same beam. What is different about the surfaces?",
-     "kid": "Sort the surfaces by how many marks saw the spot. What is different about the mirror?",
+     "say": "Look at your table. The same torch, the same beam. What is different about the mirror and the white paper?",
+     "kid": "Put the surfaces in order, from the most marks to the fewest. What do the top ones have in common?",
      "ask": [
       {
        "q": "Did the white paper bounce the light, or soak it up?",
@@ -1218,7 +1218,7 @@
     }
    ],
    "safety": "Do not light the candle. Use it only as a block of wax. A grown-up supervises the water and the scissors.",
-   "record": "Fill in the table. Then draw the four strips in a row, with a picture of the torch's reflection on each. Write which treatment made the strip shine most.",
+   "record": "Fill in the table. Then line up the four strips from the sharpest reflection to the fuzziest. Take a photo, or tell your grown-up the order. Write which treatment made the strip shine most.",
    "context": "In this experiment, you treat four strips of dull paper in four ways and look at the reflection of a torch in each. You find out what polish, water and tape do to a dull surface.",
    "setup": [
     {
@@ -1243,8 +1243,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the four strips and what will be done to each. Ask which will shine most and which least. Write the guesses and reasons. With 2 to 4 children, each makes and judges their own set of four strips, then you compare scores. With one child, the parent is the second judge.",
-     "say": "Strip A we leave alone. Strip B gets wiped with a wet cloth. Strip C gets rubbed with wax and polished. Strip D gets covered with clear tape. Which will show the best reflection of a torch? Why do you think so?",
-     "kid": "Four strips of dull paper, four treatments. Which will shine best? Why?",
+     "say": "Strip A we leave alone. It is our control, so we can compare the others with it. Strip B gets wiped with a wet cloth. Strip C gets rubbed with wax and polished. Strip D gets covered with clear tape. Which will show the best reflection of a torch? Why do you think so?",
+     "kid": "Pick the strip you think will shine best. Tell your grown-up why.",
      "ask": [
       {
        "q": "Why might wax or tape make paper shine?",
@@ -1292,9 +1292,9 @@
     {
      "id": "s4",
      "mins": 8,
-     "do": "Now raise your head until you are looking down at each strip from about 30 centimetres above it. Look at each one again. Write whether the torch's reflection is sharp, fuzzy or gone. Then explain what the low angle did.",
-     "say": "Now look down at the strips from above. Which strips still show the torch? Which have lost it? What did lowering your head do?",
-     "kid": "Raise your head. Look down at each strip. Which still show the torch?",
+     "do": "Now raise your head until you are looking down at each strip from about 30 centimetres above it. Look at each one again. Write whether the torch's reflection is sharp, fuzzy or gone. Then say how looking from low down was different from looking from above.",
+     "say": "Now look down at the strips from above. Which strips still show the torch? Which have lost it? How is that different from looking from low down?",
+     "kid": "Raise your head. Look down at each strip. Write sharp, fuzzy or gone.",
      "check": {
       "t": "mcq",
       "q": "Strip A showed a faint reflection from a low angle and none from a high angle. What does this suggest?",
@@ -1351,7 +1351,7 @@
     }
    ],
    "safety": "A grown-up cuts the slit and tapes the edges of the mirrors. Never shine a torch into anyone's eyes.",
-   "record": "Fill in the table. Draw the two mirrors and your three beams on the paper, with arrows to show the way in and the way out. Use a different colour for each beam, with its line in and its line out in the same colour.",
+   "record": "Fill in the table. The lines you drew on the paper already show your three beams. Add an arrow on each line to show the way in and the way out. Then tell your grown-up what you found.",
    "context": "In this experiment, you set two mirrors at a right angle and follow a beam through them. You find out why a bicycle reflector sends light straight back to a car's headlight.",
    "setup": [
     {
@@ -1376,8 +1376,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the two mirrors, the slit torch and the reflective strip. Ask where the beam will go after bouncing off both mirrors. Write the guess and reason. Roles: one child holds the torch, one holds the mirrors steady, one marks the dots. With one child, the parent holds the mirrors and the child marks the dots. With 4 children, two pairs can each build a corner and compare.",
-     "say": "Two mirrors make a corner, like the inside of an open book. A thin beam goes into the corner. It bounces off one mirror, and then the other. Which way will it come out? Why do you think so?",
-     "kid": "Two mirrors make a corner. A beam goes in. Which way will it come out? Why?",
+     "say": "Two mirrors make a corner, like the inside of an open book. A thin beam goes into the corner. It bounces off one mirror, and then the other. Which way will it come out?",
+     "kid": "Guess which way the beam will come out of the corner.",
      "ask": [
       {
        "q": "Why do you think the beam will come out that way?",
@@ -1406,7 +1406,7 @@
      "mins": 12,
      "do": "Lay the torch flat on the paper, aimed at the corner at about 20 degrees to the first mirror. Mark two dots on the thin line going in. Mark two dots on the line coming out. Join each pair of dots with a ruler. Use the protractor to measure the angle between the line going in and the line coming out. It should be close to 0 degrees, which means the two lines are parallel. Repeat at about 45 degrees and 70 degrees. Then remove one mirror and try again with one mirror alone.",
      "say": "Lay the torch down. Mark two dots on the beam going in. Mark two dots on the beam coming out. Join each pair with a ruler. Two lines are parallel when they run side by side, like the two rails of a railway track. How do the two lines compare? Are they parallel? Do the same for a different angle.",
-     "kid": "Mark the beam going in. Mark the beam coming out. Join the dots. How do the lines compare?",
+     "kid": "Mark two dots on the beam going in. Mark two on the beam coming out. Join each pair.",
      "parent": "Expected: with two mirrors at a right angle, the line out is parallel to the line in, and goes back the way it came, at all three angles. With one mirror alone, the beam goes off in a different direction every time. Tiny errors are normal. Check that the lines look parallel, not that they match exactly.",
      "check": {
       "t": "mcq",
@@ -1484,7 +1484,7 @@
      "id": "s1",
      "mins": 6,
      "do": "Line up the twelve things on a table near the window. Ask your child to guess for each one whether it will show the window clearly, fuzzily or not at all. Write the guesses in a table. With 2 to 4 children, share the twelve things out. Each child guesses and tests their own. Then check each other's results.",
-     "say": "Look at each thing. If we hold it up to the window, will we see the window in it? Clearly, fuzzily or not at all? Write down your guess for each one.",
+     "say": "Look at each thing. If you hold it up with your back to the window, will you see the window in it? Clearly, fuzzily or not at all? Write down your guess for each one.",
      "kid": "Look at twelve things. Guess which show the window. Write your guesses.",
      "ask": [
       {
@@ -1569,7 +1569,7 @@
      "what": "Stand a red card beside a white one, shine light on the red, and see whether the white picks up a tint."
     }
    ],
-   "record": "Draw the two cards side by side, and colour the white card where it picked up a tint. Write what you saw with red, green and no coloured card.",
+   "record": "Write what you saw with red, green and no coloured card. You can also take a photo, or draw the two cards and colour the white card where it picked up a tint.",
    "context": "In this activity, you stand a bright red card next to a white one, and light the red one. You find out that light bounces off one surface onto another, and carries its colour with it.",
    "setup": [
     {
@@ -1591,7 +1591,7 @@
      "mins": 4,
      "do": "Show your child the red card and the white card. Ask what will happen to the white card if you shine a torch on the red card only. Ask for a reason. Write it down.",
      "say": "We stand a red card next to a white card. We shine the torch only on the red card. Will the white card change? How? Why do you think so?",
-     "kid": "A red card next to a white card. Light only the red one. Will the white card change? Why?",
+     "kid": "Guess if the white card will change when only the red card is lit.",
      "ask": [
       {
        "q": "Why do you think the white card might change colour?",
@@ -1631,16 +1631,16 @@
      "mins": 5,
      "do": "Swap the red for the green card, and shine the torch on the green only. Look at the white card. Then take the coloured card away and shine the torch at the white one alone. Compare.",
      "say": "Now the green card. What colour does the white card take? Now take the green away. What does the white card look like by itself?",
-     "kid": "Swap in the green card. Light it. What colour does the white card take?",
+     "kid": "Swap in the green card. Light only the green one. Look at the white card.",
      "parent": "The white card should pick up a green tint near the fold, and none when the coloured card is removed. This is the same reason a person standing beside a bright red wall looks slightly red.",
      "context": "In this step, you swap the red card for a green one and compare."
     },
     {
      "id": "s4",
      "mins": 3,
-     "do": "Talk about where you see this at home. Sunlight on a green wall can turn a white ceiling slightly green. A yellow wall can make a room glow warm.",
-     "say": "Where might this happen at home? A bright curtain in the sun, a coloured wall, a red cloth near a white sheet. Have you ever seen a white thing look tinted?",
-     "kid": "Where could a bright wall tint a white thing at home?",
+     "do": "Ask your child where they have seen this at home. If they are stuck, say that sunlight on a green wall can turn a white ceiling slightly green.",
+     "say": "Where might this happen at home? Think of a bright curtain in the sun, a coloured wall, or a red cloth near a white sheet.",
+     "kid": "Look around the room. Point to a white thing that has a bright coloured thing next to it.",
      "context": "In this step, you look for where the same thing happens at home."
     }
    ]
@@ -1675,7 +1675,7 @@
      "what": "Aim a torch beam from across the room at the inside of a bowl and at its back, and catch the light on a white card."
     }
    ],
-   "record": "Draw the torch, the katori and the card. Show where the bright spot was smallest. Write what the back of the katori did to the beam.",
+   "record": "Write the distance from the bowl to the card where the spot was smallest. Write what the back of the katori did to the beam. You can also take a photo of the two spots on the card.",
    "safety": "Use a torch only, never sunlight. A curved mirror can focus sunlight into a spot hot enough to burn skin or start a fire, and can harm eyes. Never look into the bright reflection.",
    "context": "In this activity, you aim a torch at the inside and outside of a steel katori and catch the reflected light on a card. You find out how curved mirrors gather and spread light.",
    "setup": [
@@ -1697,8 +1697,8 @@
      "id": "s1",
      "mins": 4,
      "do": "Show your child the katori. Ask what a torch beam will do after bouncing off the inside of the bowl, and off the outside. Ask for guesses and reasons. Write them.",
-     "say": "The inside of the katori curves in. The back curves out. If we shine a torch on each, will the light look different on a card? How? Why do you think so?",
-     "kid": "A torch shines on the inside of a bowl and on its back. Will the light look different? Why?",
+     "say": "The inside of the katori curves in, which is called concave. The back curves out, which is called convex. If we shine a torch on each, will the light look different on a card? How?",
+     "kid": "Guess if the light will look different from the back of the bowl.",
      "ask": [
       {
        "q": "Why do you think the bowl will change the beam?",
@@ -1738,8 +1738,8 @@
      "id": "s3",
      "mins": 9,
      "do": "Turn the katori round, so that its back faces the torch. Catch the light on the card and move the card as before. Compare it with the inside. Then switch on the room light. Look at your face in the inside of a large steel spoon, at arm's length. Look in the back of the spoon too.",
-     "say": "Now the back of the katori. Where does the light go? Is it small and bright, or large and dim? What is different from before?",
-     "kid": "Turn the katori round. Shine the torch on its back. Is the spot big or small?",
+     "say": "Now the back of the katori. Where does the light go? Is it small and bright, or large and dim? What is different from before? Then switch on the room light. Look at your face in the front of a large steel spoon, then in the back. What is different?",
+     "kid": "Turn the katori round. Shine the torch on its back. Is the spot big or small? Then look at your face in the front and back of a large steel spoon.",
      "parent": "The back spreads the beam into a wide, dim patch with no sharp spot. That is why convex mirrors, which curve outward, are used on cars and in shop corners. They show a wide view. This is a good moment to name the two kinds, concave and convex. Expected: the back never makes a small bright spot, only a dim wide patch. In the inside of the spoon, your face is usually upside down. That happens because the curve makes the rays cross over, which turns the picture over. In the back of the spoon, your face is upright and small.",
      "context": "In this step, you compare the back of the katori with the inside."
     }
@@ -1796,12 +1796,12 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Before you go out, ask your child to guess what kinds of things will glow back at a torch. Write the guesses. Check the torch works. With 2 to 4 children, give each their own torch and a job: one spots things, one writes them down, and one steps to the side to look from there. One grown-up can look after up to four children on a quiet path.",
-     "say": "We will walk at dusk with a torch. What kinds of things do you think will glow back at us when we shine the torch on them? Why do you think so?",
-     "kid": "Walk at dusk with a torch. What kinds of things will glow back? Why?",
+     "do": "Before you go out, ask your child to guess what kinds of things will glow back at a torch. Write the guesses. Check the torch works. Never shine it into a driver's eyes. With 2 to 4 children, give each their own torch and a job: one spots things, one writes them down, and one steps to the side to look from there. One grown-up can look after up to four children on a quiet path.",
+     "say": "We will walk at dusk with a torch. What kinds of things do you think will glow back at us when we shine the torch on them?",
+     "kid": "Think of things on the road that might glow back. Tell your grown-up your guess.",
      "ask": [
       {
-       "q": "What do you expect to glow back?",
+       "q": "Which will glow more, a bicycle reflector or a painted wall?",
        "good": [
         "Mirrors.",
         "Bicycle reflectors.",
@@ -1826,8 +1826,8 @@
      "id": "s3",
      "mins": 6,
      "do": "Choose one glowing reflector. Stand in front of it with the torch beside your eye and note the glow. Then step to the side, keep the torch pointing at it, and look from where you stand. Compare the two. Then step back a few paces at a time and count how many paces away you can still see the glow.",
-     "say": "Look at the reflector with the torch beside your eye. Now step to the side but keep the torch pointed at it. Does it glow as brightly from here?",
-     "kid": "Look from beside the torch. Then step to the side. Does the glow stay?",
+     "say": "Look at the reflector with the torch beside your eye. Now step to the side but keep the torch pointed at it. Does it glow as brightly from here? Now step back a few paces at a time. How far can you go and still see the glow?",
+     "kid": "Look from beside the torch. Then step to the side. Then step back, a few paces at a time, and count.",
      "check": {
       "t": "mcq",
       "q": "A bicycle reflector glows brightly when a car's headlight shines on it. Why does the driver see the glow so well?",
@@ -1890,7 +1890,7 @@
      "what": "Fit the wedges, test the periscope, fix any problems and use it to see over a wall."
     }
    ],
-   "record": "Draw a side view of your periscope with the two mirrors, the two windows and a ray of light zigzagging through them. Write what you saw when you looked into it, and which way up the picture was.",
+   "record": "Show the path of the light through your periscope. Draw a side view with the two mirrors, the two windows and a zigzag ray, or trace the path with your finger and tell your grown-up. Write what you saw when you looked into it, and which way up the picture was.",
    "context": "In this project, you build a periscope from a milk carton and two mirrors. You use it to see over a wall or round a corner, and find out why the picture stays upright.",
    "setup": [
     {
@@ -1915,8 +1915,8 @@
      "id": "s1",
      "mins": 5,
      "do": "Show your child the carton and mirrors. Ask what they will see if they look into the lower window while holding the periscope above a wall. Ask if the picture will be the right way up. Write the guesses. With 2 to 4 children, work in pairs. One pair builds the carton and the other makes the wedges. Then join them. With one child, the parent does the cutting and the child folds, tapes and tests.",
-     "say": "A periscope uses two mirrors to look over a wall. What will you see through the lower window? Will the picture be upside down, back to front or the right way up? Why do you think so?",
-     "kid": "A periscope has two mirrors. Will the picture be the right way up? Why?",
+     "say": "A periscope uses two mirrors to look over a wall. What will you see through the lower window? Will the picture be upside down, back to front or the right way up?",
+     "kid": "Think about what you will see in the lower window.",
      "ask": [
       {
        "q": "Why do you think the picture will come out that way?",
@@ -1933,9 +1933,9 @@
     {
      "id": "s2",
      "mins": 15,
-     "do": "A grown-up cuts off the top and bottom of the carton. Cut a window 5 centimetres wide and 4 centimetres tall in the front face, starting 1 centimetre below the top edge. Turn the carton round. Cut a window of the same size in the back face, starting 1 centimetre above the bottom edge. Colour the inside black.",
+     "do": "A grown-up cuts off the top and bottom of the carton. Cut a window 5 centimetres wide and 4 centimetres tall in the front face, starting 1 centimetre below the top edge. Turn the carton round. Cut a window of the same size in the back face, starting 1 centimetre above the bottom edge. Colour the inside black, so light does not bounce around inside.",
      "say": "The two windows must be on opposite faces. One is near the top on the front. One is near the bottom on the back. Make sure they face opposite ways.",
-     "kid": "Cut the ends off. Cut a window at the top front. Cut one at the bottom back.",
+     "kid": "Your grown-up cuts the carton. Check the windows: one at the top front, one at the bottom back.",
      "adult": true,
      "parent": "Check that the carton is clean and dry. The windows must be on opposite faces, one high and one low. Colouring the inside black cuts down stray reflections and makes the picture clearer.",
      "context": "In this step, you prepare the carton and cut the two windows."
@@ -1978,7 +1978,7 @@
      "mins": 15,
      "do": "Hold the periscope up beside a wall, a sofa or a door, with the top window facing the far side. Look into the lower window. Write what you see. Test whether writing, such as a word on a page, looks the right way round. Measure how much higher the top window is than the lower one. Find something that height to see over.",
      "say": "Hold the periscope above the wall with the top window facing the far side. Look in the lower window. What do you see? Is the picture the right way up? Can you read a word held up in front of the top window?",
-     "kid": "Hold the periscope up. Look in the lower window. What do you see? Is it the right way up?",
+     "kid": "Hold the periscope up and look in the lower window. Try reading a word through it.",
      "ask": [
       {
        "q": "Why does the picture come out the right way up?",
@@ -2010,6 +2010,7 @@
    "materials": [
     "at least 3 small flat mirrors (pocket mirrors from a general store, or plastic), with taped edges",
     "thin card, tape and clay",
+    "a piece of string about 2 metres long",
     "a toy to hide",
     "a torch, to check the path of the light"
    ],
@@ -2023,12 +2024,12 @@
     "A long cardboard tube with mirrors at each end.",
     "Use a torch first to find the path from the toy to your eye, then place a mirror at each corner."
    ],
-   "your_turn": "Sketch the path of light from the toy to your eye, with a mirror at each turn. Build it and test it. Which design showed the toy most clearly? How many mirrors did you need, and why?",
-   "context": "This is a design challenge about mirrors that turn the path of light. You use three or more mirrors to see something hidden.",
+   "your_turn": "Lay a string for the path of light from the toy to your eye, with a mirror at each bend. Build it and test it. Which design showed the toy most clearly? How many mirrors did you need, and why?",
+   "context": "This is a design challenge about mirrors that turn the path of light. You use three or more mirrors to see a toy that is hidden from you. You find out how many mirrors it takes.",
    "setup": [
     {
      "art": "A bird's-eye drawing of a room with a sofa, a hidden toy and a zigzag line of light going from the toy via three mirrors to a child's eye.",
-     "caption": "1. Sketch the path from the toy to your eye, with a mirror at every turn."
+     "caption": "1. Lay a string from the toy to your eye. Put a mirror at every bend."
     },
     {
      "art": "Three small mirrors on clay stands placed along a floor at different angles, with a torch beam bouncing from one to the next.",
@@ -2043,9 +2044,9 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Read the problem together. Look at the constraints. Ask your child to sketch the path of the light from the toy to their eye, and mark where each mirror goes. With 2 to 4 children, each sketches a path first and then you pick one to build together. With one child, the parent holds mirrors while the child adjusts.",
-     "say": "The light from the toy must get to your eye. Draw its path as straight lines. Wherever the line turns, there must be a mirror. How many turns do you need?",
-     "kid": "Draw the path from the toy to your eye. A mirror goes at each turn.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to lay a string from the toy to their eye, bent where each mirror goes, with a lump of clay at each bend. With 2 to 4 children, each lays a path first and then you pick one to build together. With one child, the parent holds mirrors while the child adjusts.",
+     "say": "The light from the toy must get to your eye along straight lines. Lay a string for its path. Wherever the string bends, there must be a mirror. How many bends do you need?",
+     "kid": "Lay a string from the toy to your eye. A mirror goes at each bend.",
      "ask": [
       {
        "q": "How do you know where to put each mirror?",
@@ -2070,9 +2071,9 @@
     {
      "id": "s3",
      "mins": 10,
-     "do": "When you can see the toy, count the mirrors you used. Ask how a different layout might need fewer. Draw the final path.",
-     "say": "You can see the toy. How many mirrors did you use? Could you have used fewer? Draw the path the light takes.",
-     "kid": "Count the mirrors you used. Could you use fewer? Draw the path.",
+     "do": "When you can see the toy, count the mirrors you used. Ask how a different layout might need fewer. Ask your child to tell the path the light takes.",
+     "say": "You can see the toy. How many mirrors did you use? Could you have used fewer? Tell me the path the light takes.",
+     "kid": "Count the mirrors you used. Could you use fewer? Say the path from the toy to your eye.",
      "check": {
       "t": "mcq",
       "q": "Your bendy periscope shows the toy. Which statement fits best?",
@@ -2117,12 +2118,12 @@
     "Try a steel tumbler on its side, which curves in only one direction.",
     "Combine a flat mirror and a curved one, to see the door in one and the corner in the other."
    ],
-   "your_turn": "Sketch the room, the chair and the toys. Test each shiny thing and count the toys you can see. Which showed the most? What did you lose with the wider view? How would you improve it?",
+   "your_turn": "Test each shiny thing and count the toys you can see. Line the things up from the most toys to the fewest. Which showed the most? What did you lose with the wider view? How would you improve it?",
    "context": "This is a design challenge about curved mirrors. You find which shiny kitchen thing works best as a wide-view mirror.",
    "setup": [
     {
      "art": "A bird's-eye drawing of a small room with a chair, a door and five small toys placed around the walls and corners.",
-     "caption": "1. Draw the room and place the five toys."
+     "caption": "1. Place the five toys round the room."
     },
     {
      "art": "A child sitting on a chair holding the back of a steel katori in front of their face, looking at several toys in it.",
@@ -2139,7 +2140,7 @@
      "mins": 7,
      "do": "Read the problem together. Place the five toys round the room. Ask your child to guess which shiny thing will show the most toys. Write the guess.",
      "say": "A shopkeeper wants to see the whole shop from one chair. Which of these shiny things do you think will show the most toys? Why?",
-     "kid": "Which shiny thing shows the most toys? Why? Guess first.",
+     "kid": "Look at the shiny things. Guess which one will show the most toys.",
      "ask": [
       {
        "q": "What shape of mirror do you think shows the widest view?",
@@ -2166,7 +2167,7 @@
      "mins": 8,
      "do": "Compare the numbers. Ask why the best one showed more of the room. Ask what you lose with the wide view. Try to improve your design with one change.",
      "say": "Which showed the most? Why does a shape that curves outward show more of the room? What do the toys look like in it?",
-     "kid": "Which showed the most toys? What do the toys look like in it?",
+     "kid": "Put the shiny things in order, from the most toys seen to the fewest. How do the toys look in the best one?",
      "check": {
       "t": "mcq",
       "q": "The back of the katori showed more of the room than a flat plate, but the toys looked smaller. Why?",

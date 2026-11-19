@@ -244,13 +244,13 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   *Child mode:* Cut out the cards. Shuffle them. Get paper and a pencil.
 - **s2 (7 min)**  
   *Parent does:* Play the first seven cards. After the third card, ask which numbers showed what the food was.  
-  *Parent says:* The reader reads the front. Everyone picks A, B or C. Then the reader turns the card over and reads the answer.  
-  *Child mode:* The reader reads a card. Pick A, B or C. Turn the card over.
+  *Parent says:* One person is the reader. The reader reads the numbers on the card and the three choices. Everyone picks A, B or C. Then the reader turns the card over and reads the answer.  
+  *Child mode:* Listen to the reader. Pick A, B or C. Then check the answer on the back.
   - Ask: What on that card told you which food it was? (good: A lot of fat.; Almost no energy.; Very high vitamin C.; Lots of carbohydrate.)
 - **s3 (7 min)**  
   *Parent does:* Play the next seven cards. Keep the score on paper. Do the sum on any card that asks for one.  
   *Parent says:* Remember the three numbers. Protein and carbohydrate each give 4 kilocalories in a gram. Fat gives 9.  
-  *Child mode:* Keep playing. Protein and carbohydrate give 4 kilocalories in a gram. Fat gives 9.
+  *Child mode:* Keep playing. Use the three numbers for the sums.
   - Ask: Why do foods with a lot of fat have so much energy? (good: Fat gives 9 kilocalories in a gram.; Fat holds more than twice the energy of starch.; Fat holds more energy in each gram than starch or protein does.)
   - Check: A food has 20 grams of fat and nothing else in 100 grams. About how much energy does it hold? → **180 kilocalories**
 - **s4 (3 min)**  
@@ -274,7 +274,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 - **s1 (4 min)**  
   *Parent does:* Show your child the groundnut, the cashew and the coconut. Write down their guess about the most and the least heat, and their reason.  
   *Parent says:* We will burn three foods under a tumbler of water. Which will warm the water most? Which will warm it least? Why do you think so?  
-  *Child mode:* We will burn three foods under a tumbler of water. Which gives the most heat? Why do you think so?
+  *Child mode:* Look at the three foods. Tell your grown-up which one you think will warm the water most.
   - Ask: Which food did you guess would give the most heat, and why? (good: It has the most fat.; It burns longest.; It is oily.; It is the biggest.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. One child with a parent: the child weighs, reads and records, and the parent lights and holds. Two to four children: one weighs, one reads the thermometer, one times the burn, and one writes the table. Swap jobs every trial. Each child writes their own guess first.
 - **s2 (6 min)**  
@@ -291,7 +291,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   - Check: Why do we use fresh water from the same bottle, and a cooled tumbler, for every trial? → **So each trial starts at the same temperature**
 - **s4 (6 min) · grown-up needed**  
   *Parent does:* Repeat with a second groundnut. Use fresh water and a cooled tumbler. Write down the temperature before and after.  
-  *Parent says:* Now we do the very same test again with a second groundnut. Will the answer be exactly the same?  
+  *Parent says:* Now we do the very same test again with a second groundnut.  
   *Child mode:* Do the same test again with a new groundnut. Write the numbers.
   - Ask: Are the two groundnut results exactly the same? Why might they differ? (good: They are close but not the same.; The nuts are different sizes.; The flame was different.; Some heat escaped.)
   - Note: The two groundnut trials may differ by a few degrees. That is normal and it is an honest result. It tells you how much to trust the small differences between foods.
@@ -317,7 +317,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 - **s1 (5 min)**  
   *Parent does:* Read the energy for 100 grams from the rice packet. Write it down. Ask your child to guess whether 100 grams of cooked rice will hold more, the same or less energy, and why.  
   *Parent says:* Read the packet. How much energy is in 100 grams of raw rice? After cooking, will 100 grams hold more, the same or less? Why do you think so?  
-  *Child mode:* Read the rice packet. Will cooked rice hold more, the same or less? Why?
+  *Child mode:* Read the rice packet. Then make your guess.
   - Ask: Why did you guess that cooked rice holds more, the same or less energy than raw rice? (good: It stays the same, it is still rice.; It soaks up water so it holds less.; Cooking adds energy.)
   - Note: A typical packet says about 350 kilocalories in 100 grams. Do not correct the guess. Both 'the same' and 'less' are common first guesses. One child with a parent: the child weighs and does the sums, the parent cooks. Two to four children: one weighs, one measures the water, one writes, one does the sums. For a comparison, cook two kinds of rice, such as basmati and parboiled, side by side in two pans.
 - **s2 (8 min)**  
@@ -338,9 +338,9 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   *Child mode:* Weigh the pan with the rice. Take away the weight of the empty pan. How heavy is the rice?
   - Ask: The rice started at 50 grams. Where did the extra weight come from? (good: From the water.; The rice soaked up water.)
 - **s5 (5 min)**  
-  *Parent does:* The energy in the pan is still 175 kilocalories. Divide 175 by the cooked weight, then multiply by 100. That is the energy in 100 grams of cooked rice.  
+  *Parent does:* The energy in the pan has not changed. It is half the packet's number for 100 grams (175 if the packet says 350). Divide it by the cooked weight, then multiply by 100. That is the energy in 100 grams of cooked rice.  
   *Parent says:* Tell me three things. What did you guess before we cooked? What did you find? Why do you think it happened?  
-  *Child mode:* Divide 175 by the cooked weight. Multiply by 100. Say what you found.
+  *Child mode:* Divide the pan's energy by the cooked weight. Multiply by 100. Say what you found.
   - Note: For 150 grams of cooked rice the answer is 175 divided by 150, times 100, which is about 117. A usual result is 110 to 140. After they have said what they found, explain: water adds weight and no energy, so the same energy is spread over a heavier food. This is why 100 grams of cooked rice holds about a third of the energy in 100 grams of raw rice. The cooked weight changes with the rice and how much steam escaped, so your answer will differ. Whatever it is, the pan's energy stayed 175 kilocalories.
   - Think: Why does a label for a ready mix give one column for the food as sold and another for the food as prepared?
 
@@ -350,7 +350,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 - **s1 (5 min)**  
   *Parent does:* Put the four packets in a line. Ask your child to guess which has the most energy in 100 grams, and which has the least, with a reason.  
   *Parent says:* Which of these packets has the most energy in 100 grams? Which has the least? Why do you think so?  
-  *Child mode:* Which packet has the most energy? Which has the least? Why?
+  *Child mode:* Look at the four packets. Point to the one you think has the most energy.
   - Ask: Which packet did you guess has the most energy, and why? (good: It is oily.; It is dry.; It is sweet.; It is crunchy.)
   - Note: Write their guess down. Foods with little water and a lot of fat or sugar are usually at the top. Drinks and curd are usually at the bottom. One child with a parent: the child picks four packets and does all the columns. Two to four children: each child takes one or two packets, then everyone shares the table.
 - **s2 (8 min)**  
@@ -371,7 +371,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 - **s1 (4 min)**  
   *Parent does:* Read the serving weight on the label. Weigh out exactly one serving on a plate. Look at how much it is.  
   *Parent says:* Weigh out one serving, exactly as the label says. Does it look like what you would normally eat?  
-  *Child mode:* Weigh out one serving. Is it more or less than you usually eat?
+  *Child mode:* Weigh out one serving and look at it.
   - Ask: Do you think your usual helping is more or less than one serving? How much more or less? (good: More.; Two or three times more.; About the same.)
   - Note: No scale? The label often says how many biscuits or pieces make a serving, so count them out instead. One child with a parent: the child weighs and compares. Two to four children: each child pours their own usual helping and weighs it, so you can compare helpings. Nobody needs to eat the food afterwards.
 - **s2 (6 min)**  
@@ -385,20 +385,20 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   - Note: A usual finding is that a real helping is two or three times the serving. After they have said why, explain: a small serving makes the numbers on the front look small. Per 100 grams is the fair way to compare, and your own helping is the fair way to know what you eat.
   - Think: Why might a maker choose a small serving size to put on the front of the packet?
 ### a3 · Three Jobs Plate: what job does each food do? (22 min)
-- **record:** Draw a round plate with the foods on it. Colour each food by its main job. Mark the foods that do more than one job.
+- **record:** Write the foods in three lists: energy, building and protection. Star the foods that do more than one job. You can also draw it, or tell it to your grown-up.
 - **s1 (6 min)**  
-  *Parent does:* Draw a plate with each food in a meal your family eats. Write what each food is made of.  
-  *Parent says:* Let us draw a real meal from our kitchen. Draw each food and write its name.  
-  *Child mode:* Draw a plate. Draw each food in your meal. Write the names.
+  *Parent does:* Lay out the foods of a real meal, or write each food from yesterday's meal on its own slip of paper.  
+  *Parent says:* Let us look at a real meal from our kitchen. Put each food in front of you, or write its name on a slip.  
+  *Child mode:* Put each food of your meal on the table. Say its name.
   - Note: One child with a parent: the child draws the meal and the parent adds the foods they forgot, such as oil in the dal. Two to four children: each draws their own meal from yesterday, then compares plates in the last step.
 - **s2 (10 min)**  
-  *Parent does:* Colour each food by the main job you think it does. Red for energy, blue for building, green for protection. Put a star by foods that do more than one job.  
-  *Parent says:* Which job does each food mostly do? Colour it. If a food does a second job, put a star by it.  
-  *Child mode:* Colour each food by its job. Put a star by foods with two jobs.
+  *Parent does:* Make three piles: energy, building and protection. Put each food in the pile of its main job. Put a star on foods that do more than one job.  
+  *Parent says:* Which job does each food mostly do? Put it in that pile. If a food does a second job, put a star on it.  
+  *Child mode:* Sort each food into its job pile. Star the foods with two jobs.
   - Ask: Which foods in the meal did you give a star to? Why? (good: Dal, because it has protein and starch.; Curd or milk, because it does all three.; Groundnut chutney, because it has protein and fat.)
   - Check: Which of these does the most jobs at once? → **A glass of milk**
 - **s3 (6 min)**  
-  *Parent does:* Look at the plate. Which job has the most food? Which job has the least? What would you add to fill the gap?  
+  *Parent does:* Look at the three piles. Which job has the most food? Which job has the least? What would you add to fill the gap?  
   *Parent says:* Which job is missing or small on this plate? What could you add to fix it?  
   *Child mode:* Which job is missing? What could you add?
   - Note: A typical plate has plenty of energy foods and a little of the others. Good additions are a cut fruit, a leafy vegetable or curd. After they have shared, explain: the body can burn protein and fat too, so the jobs are what a food usually does and not all it can do.
@@ -407,7 +407,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
 ## Projects
 ### p1 · Date and Groundnut Balls: write your own food label (40 min)
 - **safety:** A grown-up works the mixer-grinder and unplugs it before opening the jar, because the blades are sharp. If anyone at the table has a nut or sesame allergy, do not make this recipe as written. Use roasted chana instead of groundnuts, leave out the sesame, and weigh again. Wash hands first, and wash the plate and the mixer well afterwards.
-- **record:** Write the weights, the energy in each ingredient, the total energy, the weight of the mixture, and the energy in 100 grams and in one ball. Then draw a label for your own balls.
+- **record:** Write the weights, the energy in each ingredient, the total energy, the weight of the mixture, and the energy in 100 grams and in one ball. Then write a label for your own balls, as a table.
 - **s1 (6 min)**  
   *Parent does:* Weigh each ingredient and write its weight. Read the energy for 100 grams from each packet and write it down.  
   *Parent says:* Weigh each ingredient. Then read the energy for 100 grams from its packet.  
@@ -424,9 +424,9 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   *Child mode:* Roll ten balls of the same size. Weigh them together.
   - Note: In damp weather the mixture is sticky, so wet your hands with a little water. In hot, dry weather it may crumble, so add a few more dates. One child with a parent: the child rolls while the parent grinds. Two to four children: split the mixture and each rolls their own balls. They can also each make a different recipe with a different amount of dates, then compare labels.
 - **s4 (12 min)**  
-  *Parent does:* Work out the energy in each ingredient, the total, the energy in 100 grams and the energy in one ball. Draw a label with a table.  
+  *Parent does:* Work out the energy in each ingredient, the total, the energy in 100 grams and the energy in one ball. Write a label for the balls as a table.  
   *Parent says:* For each ingredient, divide its weight by 100 and multiply by its energy per 100 grams. That gives its energy. Then add the three together.  
-  *Child mode:* Work out the energy of each food. Add them up. Draw a label.
+  *Child mode:* Work out the energy of each food. Add them up. Write the label.
   - Note: For example, dates hold 280 kilocalories in 100 grams, so 100 grams of dates give 280. Groundnuts hold 580 in 100 grams, so 60 grams give 348. Sesame holds 570 in 100 grams, so 10 grams give 57. The total is 685 kilocalories. Spread over 170 grams, that is about 400 in every 100 grams. Shared between 10 balls, it is about 68 in each ball. Their numbers will differ with their packets.
   - Check: A mixture of 170 grams holds 680 kilocalories in total. How much energy is in 100 grams? → **400 kilocalories**
 - **s5 (4 min)**  
@@ -458,7 +458,7 @@ That evening on the veranda, Ammamma drank her tea slowly, with two biscuits and
   *Child mode:* Pick your foods. Weigh each. Add the energy and the weight.
   - Check: Your pack weighs 580 grams but holds only 1,500 kilocalories. What should you do? → **Swap a watery food for a dry one with more energy in each gram**
 - **s4 (8 min)**  
-  *Parent does:* Check that the pack has an energy food, a body-building food and a protective food. Check that nothing will spoil in 8 hours. Add a choice with no nuts.  
+  *Parent does:* Check that the pack has an energy food, a body-building food and a protective food. Check that nothing will spoil in 8 hours. Add one choice for a hiker who cannot eat nuts.  
   *Parent says:* Check the three jobs. Is there an energy food, a building food and a protective food? Will everything keep for 8 hours?  
   *Child mode:* Check the three jobs. Will everything keep for 8 hours?
 - **s5 (6 min)**  

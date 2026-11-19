@@ -661,7 +661,7 @@
      "mins": 6,
      "do": "Play the next eight cards. Swap the reader's job after every card. Keep a tally of points on paper.",
      "say": "Keep going. Remember what microbes need: food, water and the right warmth. Too cold slows them. Too hot kills them.",
-     "kid": "Play on. Remember food, water and warmth. Too cold slows them. Too hot kills them.",
+     "kid": "Play the next eight cards. Take turns being the reader.",
      "ask": [
       {
        "q": "What did the cards where the microbes stopped have in common?",
@@ -687,7 +687,7 @@
      "mins": 2,
      "do": "Say who won. Ask your child which card surprised them most, and why.",
      "say": "Who got the most points? Which card surprised you most? Why did it surprise you?",
-     "kid": "Who won? Which card surprised you most? Why?",
+     "kid": "Tell your grown-up which card surprised you most, and why.",
      "think": "Pick one card. What would you change on it to get a different verdict?",
      "context": "This is the last step of Kitchen Verdict. You look back at the game."
     }
@@ -752,7 +752,7 @@
     }
    ],
    "safety": "Use warm water, never hot, because hot water kills yeast and can scald. A grown-up checks the water first. Do not drink anything in the bottles. Keep the balloon away from the mouth, and do not blow into it. Wash hands after handling the yeast water. Keep burst balloon pieces away from children under five, because they can choke on them.",
-   "record": "Write the balloon size, in centimetres around the widest part, at 10, 20, 30 and 40 minutes. Then draw a line graph with one line for each bottle. There are no right sizes. Whatever you measure is your result.",
+   "record": "Write the balloon size, in centimetres around the widest part, at 10, 20, 30 and 40 minutes. Then draw a line graph with one line for each bottle, or list the numbers side by side. There are no right sizes. Whatever you measure is your result.",
    "context": "In this experiment, you find out what yeast need to make gas. You change one thing at a time, and catch the gas in a balloon.",
    "setup": [
     {
@@ -782,7 +782,7 @@
      "mins": 5,
      "do": "Show your child the four bottles on the tray, labelled A, B, C and D. Read out what goes in each bottle. Write down their guess and their reason.",
      "say": "We will test four bottles. Bottle A gets yeast, sugar and warm water. Bottle B gets yeast and warm water, but no sugar. Bottle C gets yeast and sugar, but stays in the fridge. Bottle D gets sugar and warm water, but no yeast. Which balloon will fill the most? Which will stay flat? Why do you think so?",
-     "kid": "There are four bottles. A has everything. B has no sugar. C goes in the fridge. D has no yeast. Which balloon fills the most? Why do you think so?",
+     "kid": "Look at the four bottles. A has everything. B has no sugar. C goes in the fridge. D has no yeast. Which balloon will fill the most?",
      "ask": [
       {
        "q": "Why do you think that bottle will fill the most?",
@@ -800,7 +800,7 @@
      "id": "s2",
      "mins": 5,
      "do": "Pour 200 millilitres of warm water into bottles A, B and D. Pour 200 millilitres of cold water into bottle C. Add two level teaspoons of sugar to A, C and D. Stir each until the sugar disappears.",
-     "say": "Pour the warm water into bottles A, B and D, and the cold water into bottle C. Put two teaspoons of sugar into bottles A, C and D. Bottle B gets no sugar, because it is the bottle without sugar. Stir until the sugar has dissolved.",
+     "say": "Pour the warm water into bottles A, B and D, and the cold water into bottle C. Put two teaspoons of sugar into bottles A, C and D. Bottle B gets no sugar. Stir until the sugar has dissolved.",
      "kid": "Pour 200 millilitres of warm water into A, B and D. Pour cold water into C. Add two teaspoons of sugar to A, C and D. Stir.",
      "parent": "Warm means about 40 degrees. You can hold a finger in it for 10 seconds. If it is too hot to hold, let it cool first. Hot water kills the yeast. Roles: with one child, you pour and your child stirs and labels. With 2 to 4 children, each child owns one bottle (A, B, C or D), adds its ingredients and measures its balloon; a grown-up checks the water.",
      "check": {
@@ -858,9 +858,9 @@
     {
      "id": "s5",
      "mins": 10,
-     "do": "Draw a line graph with minutes along the bottom and balloon size up the side. Draw one line for each bottle. Then ask your child to say what they thought, what they saw and why. Pour the liquid down the sink and wash the bottles.",
+     "do": "Draw a line graph with minutes along the bottom and balloon size up the side. Draw one line for each bottle. If drawing is hard, list the numbers side by side instead. Then ask your child to say what they thought, what they saw and why. Pour the liquid down the sink and wash the bottles.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened?",
-     "kid": "Draw a line for each bottle. Say what you thought, what you saw, and why.",
+     "kid": "Draw a line for each bottle, or list the numbers. Then say what you thought, what you saw, and why.",
      "think": "A baker wakes dry yeast with warm water and a little sugar. Why does that help?",
      "parent": "A strong answer says that bottle A grew most because the yeast had sugar and warmth, and that D made no gas because it had no yeast. After they have said what they saw, explain: yeast eat sugar and make carbon dioxide gas. Cold slows them down. If B or C also swelled a little, say so. That is also a result.",
      "context": "This is the last step of the Yeast Balloon test. You draw the graph and explain what you found."
@@ -956,7 +956,7 @@
      "mins": 5,
      "do": "Show your child the four cups and say what goes in each. Write down their guess and their reason.",
      "say": "We have four cups of milk. A, B and C each get a spoon of starter curd. D gets none. A goes in a warm place, B and D go on the counter, and C goes in the fridge. Which will set first? Which will not set at all? Why do you think so?",
-     "kid": "Four cups of milk. A, B and C get starter curd. D does not. A is warm. B and D are on the counter. C is in the fridge. Which sets first? Why?",
+     "kid": "Look at the four cups. Only D has no starter curd. Which cup do you think will set first?",
      "ask": [
       {
        "q": "Why do you think cup D will stay milk?",
@@ -976,7 +976,7 @@
      "adult": true,
      "do": "A grown-up boils the milk, then lets it cool until a clean finger can stay in it for 10 seconds. Pour 150 millilitres into each of four cups. Label them A, B, C and D. Add one teaspoon of starter to A, B and C. Use a clean spoon each time. Stir gently. Do not add starter to D.",
      "say": "The milk must be boiled first, then cooled to finger-warm. If it is too hot, it will kill the bacteria in the starter. Pour the same amount into each cup. Add a spoon of starter to A, B and C, and stir gently.",
-     "kid": "Ask a grown-up to boil the milk. Let it cool to finger-warm. Fill four cups. Add starter to A, B and C. Not D.",
+     "kid": "Ask a grown-up to boil the milk. Let it cool to finger-warm. Fill four cups. Add starter to A, B and C, but not to D.",
      "parent": "Too hot is worse than too cool. If the milk burns your finger, wait. Use a clean spoon for each cup so you do not carry starter into D.",
      "check": {
       "t": "mcq",
@@ -1044,7 +1044,7 @@
      "mins": 8,
      "do": "Ask your child to say what they thought, what they saw and why. Then sort the cups from the firmest to the runniest, and write which thing mattered more, the starter or the warmth.",
      "say": "Tell me three things. What did you think would happen? What did you see? Why do you think it happened? Which mattered more, the starter or the warmth?",
-     "kid": "Say what you thought, what you saw, and why. Which mattered more, the starter or the warmth?",
+     "kid": "Line up the cups from firmest to runniest. Say what you thought, what you saw, and why. Which mattered more, the starter or the warmth?",
      "think": "How could you make curd in a very cold winter kitchen?",
      "parent": "A strong answer says that the starter was needed, because D did not set. Warmth made it faster, because A and B set before C. After they have said what they saw, explain: the bacteria in the starter eat milk sugar and make lactic acid. The acid makes the milk protein join into a net. Cold slows the bacteria down.",
      "context": "This is the last step of the Curd Test. You explain what you found."
@@ -1097,8 +1097,8 @@
      "what": "Measure the rise. Smell, listen and look. Draw the batter. Say why it changed."
     }
    ],
-   "record": "Write the height of the batter at the start and in the morning. Draw the inside of the jar, with bubbles.",
-   "context": "In this activity, you watch a jar of batter overnight. You measure how far it rises, and look, smell and listen for signs of microbes at work.",
+   "record": "Write the height of the batter at the start and in the morning. Take a photo of the jar, with the bubbles, or write what you saw, smelled and heard.",
+   "context": "In this activity, you watch a jar of batter overnight. You measure how far it rises, and look, smell and listen for signs of microbes at work. You will find out if tiny living things are working in the batter while you sleep.",
    "setup": [
     {
      "art": "A tall clear jar half filled with smooth batter, with a rubber band marking the level and a ruler beside it.",
@@ -1119,7 +1119,7 @@
      "mins": 8,
      "do": "Pour the batter into the jar until it is one third full. Slip a rubber band around the jar at the top of the batter. Measure the height with a ruler. Write the number down. Cover the jar loosely with a plate. If you have a second jar, fill it the same way and put it in the fridge. Ask your child for a guess and a reason.",
      "say": "We will leave the batter overnight. How high do you think it will be in the morning? Why do you think so?",
-     "kid": "Pour batter into the jar. Mark the top with a rubber band. Measure it. How high will it be tomorrow? Why?",
+     "kid": "Pour batter into the jar. Mark the top with a rubber band. Measure it. Guess how high it will be tomorrow.",
      "ask": [
       {
        "q": "Why do you think the batter will rise?",
@@ -1136,9 +1136,9 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "The next morning, look at the jar. Measure how high the batter is now. Write down the number. Look at the bubbles. Smell the top. Hold your ear close, and listen. Draw the inside of the jar, with the bubbles. If you have the fridge jar, measure it too and compare.",
+     "do": "The next morning, look at the jar. Measure how high the batter is now. Write down the number. Look at the bubbles. Smell the top. Hold your ear close, and listen. Take a photo of the jar, with the bubbles. If you have the fridge jar, measure it too and compare.",
      "say": "What do you see? What do you smell? What do you hear? How high did it rise? Why do you think it rose?",
-     "kid": "Measure the batter. Look at the bubbles. Smell it. Listen. Draw what you see.",
+     "kid": "Measure the batter. Look at the bubbles. Smell it. Listen. Take a photo, or tell your grown-up what you see.",
      "ask": [
       {
        "q": "What do the bubbles tell you?",
@@ -1253,9 +1253,9 @@
     {
      "id": "s4",
      "mins": 6,
-     "do": "Draw a rough outline of India. Mark where each food comes from, and draw a tiny picture of it. Look for foods from three different parts of India.",
+     "do": "Find India on a printed map, or on a phone. Put a dot where each food comes from, and write its name beside the dot. Look for foods from three different parts of India.",
      "say": "Where in India is each food from? Are they all from the same region? Why might different places make different foods?",
-     "kid": "Draw India. Mark where each food comes from. Draw a tiny picture of it.",
+     "kid": "Find India on the map. Put a dot where each food comes from. Say its name.",
      "think": "Why do you think different places in India have different fermented foods?",
      "parent": "People use what grows near them: rice and dal in the south, gram flour in Gujarat, black carrots in Punjab and soybeans in the north-east. Look at the card on fermented foods across India for ideas.",
      "context": "This is the last step of Ask the Elders. You place the foods on a map."
@@ -1308,9 +1308,9 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "Walk through the kitchen with your child. First, ask your child to guess how many of the foods you will see were made with microbes. Then find at least eight foods that you think were made with microbes. Write down the names.",
+     "do": "Walk through the kitchen with your child. First, ask your child to guess how many foods in the kitchen were made with microbes. Then find at least eight foods that you think were made with microbes. Write down the names.",
      "say": "Let's look for foods that microbes helped to make. Curd and bread are easy. What else can you find?",
-     "kid": "Look around the kitchen. Find foods you think microbes helped make. Write them down.",
+     "kid": "Guess how many foods in the kitchen were made with microbes. Then look around, find them, and write them down.",
      "parent": "Easy finds: curd, buttermilk, bread, idli or dosa batter, cheese, soy sauce, and some pickles, which are fermented in salt. Tricky ones: oil-and-spice pickles are only preserved, and some cheap vinegar and soy sauce are made with chemicals, so the label decides. Ketchup is not fermented, but its vinegar is made by microbes. Papad is not fermented. Foods that are not made with microbes: rice, plain milk, paneer, dal, fresh vegetables, sugar. With 2 to 4 children, each takes a shelf and then they compare. A grown-up opens the fridge and handles glass jars and knives.",
      "context": "This is the first step of Kitchen Safari. You search the kitchen."
     },
@@ -1324,7 +1324,7 @@
       "t": "mcq",
       "q": "Which of these is not made by microbes?",
       "options": [
-       "Paneer, made by adding lemon juice or vinegar to hot milk",
+       "Paneer, made with lemon juice and hot milk",
        "Curd",
        "Bread"
       ],
@@ -1336,7 +1336,7 @@
     {
      "id": "s3",
      "mins": 5,
-     "do": "Draw two columns on a sheet. Write Made with microbes on one side and Not made with microbes on the other. Sort your foods. Count each column and compare with your first guess. Talk about the ones you are not sure about.",
+     "do": "Fold a sheet in half. Write Made with microbes on one half and Not made with microbes on the other. Sort your foods onto the two halves. Count each column and compare with your first guess. Talk about the ones you are not sure about.",
      "say": "Which column does each food go in? Which ones are you not sure about? How could you find out?",
      "kid": "Sort your foods into two columns. Which ones are you not sure about?",
      "think": "How could you find out whether a food was made with microbes?",
@@ -1398,7 +1398,7 @@
      "what": "Check the batter. Steam the idlis with a grown-up. Taste them, and compare with idli you have eaten before."
     }
    ],
-   "record": "Write the height of the batter before and after the night, how it smelled, and how your idlis turned out. Draw an idli cut in half.",
+   "record": "Write the height of the batter before and after the night, how it smelled, and how your idlis turned out. Write how many big holes you counted in half an idli.",
    "context": "In this project, you make idli yourself, from soaked rice and dal. You watch microbes make the batter rise, and then you steam and taste the result.",
    "setup": [
     {
@@ -1423,7 +1423,7 @@
      "id": "s1",
      "mins": 10,
      "do": "Wash one cup of rice and the dal separately, until the water runs almost clear. Soak the rice in one bowl, and the dal with the fenugreek seeds in a different bowl. Cover both with water. Leave them for 4 to 5 hours.",
-     "say": "Rice and dal soak separately. Soaking softens them so they grind smoothly. It also wakes up the microbes that live on the grains. Which microbe do you think will do the work?",
+     "say": "Rice and dal soak separately. Soaking softens them so they grind smoothly. It also wakes up the microbes that live on the grains.",
      "kid": "Wash the rice and the dal. Soak them in two bowls. Wait 4 to 5 hours.",
      "ask": [
       {
@@ -1500,9 +1500,9 @@
     {
      "id": "s6",
      "mins": 12,
-     "do": "Cut an idli in half. Look at the holes inside. Draw what you see. Taste it with a chutney or sambar. Say what you think made the holes.",
+     "do": "Cut an idli in half. Look at the holes inside. Count the big holes you can see in one half. Taste it with a chutney or sambar. Say what you think made the holes.",
      "say": "Look at the holes inside the idli. What made them? Where did the gas go? How is it different from an idli you have had before?",
-     "kid": "Cut an idli in half. Draw the holes. Taste it. What made the holes?",
+     "kid": "Cut an idli in half. Count the big holes. Taste it. What made the holes?",
      "think": "How would you change the recipe to make the idlis softer?",
      "parent": "The holes were made by gas bubbles that the microbes made. The sticky dal held them in place, and the steam set them. If your idlis are flat, the batter may have been too cold or too thin. Try again with the Winter Batter ideas.",
      "context": "This is the last step of Make Idli. You cut an idli open, look inside and taste it."
@@ -1582,16 +1582,16 @@
      "mins": 15,
      "do": "Fill three identical bottles with the same warm water. Leave one bare. Wrap one in a towel. Wrap one in a towel and put it in a box. Leave them for 3 hours. Then feel each one, or measure it with a thermometer.",
      "say": "We are testing three ways to keep something warm. Which will stay warm the longest? Why do you think so?",
-     "kid": "Fill three bottles with warm water. Wrap them in different ways. Check them in 3 hours.",
+     "kid": "Fill three bottles with the same warm water. Leave one bare. Wrap one in a towel. Put one in a towel and a box. Check them in 3 hours.",
      "parent": "The warm water should feel comfortable on your wrist, not hot. The bottle wrapped in a towel inside the box will usually stay warmest, because wrapping slows the escape of heat.",
      "context": "In this step, you test three ways of keeping a bottle of water warm."
     },
     {
      "id": "s3",
      "mins": 10,
-     "do": "Pick your best way. Draw your design, and say why you chose it. Add one idea of your own.",
+     "do": "Pick your best way. Draw your design, or tell your grown-up how you will build it. Say why you chose it. Add one idea of your own.",
      "say": "Which way kept the water warmest? How could you make it even better? What is your own idea?",
-     "kid": "Choose the best way. Draw it. Add your own idea.",
+     "kid": "Choose the best way. Draw it or explain it out loud. Add your own idea.",
      "context": "In this step, you pick your best design and add your own idea."
     },
     {

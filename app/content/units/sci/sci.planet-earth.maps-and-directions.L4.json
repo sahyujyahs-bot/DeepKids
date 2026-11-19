@@ -642,7 +642,7 @@
      "mins": 4,
      "do": "Practise with a few calls before the game. Name squares, and say which squares are next to a square in each direction.",
      "say": "Let's practise. What is the square just east of D5? What is the square just south of C3?",
-     "kid": "Name the square east of D5. Name the one south of C3.",
+     "kid": "Name the squares next to a square.",
      "ask": [
       {
        "q": "What is the square just east of D5, and what is the square just north of D5?",
@@ -677,9 +677,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "When a boat is sunk, ask: how did you find the rest of the boat after the first hit?",
+     "do": "When a boat is sunk, talk about how you found it.",
      "say": "How did you find the rest of the boat after the first hit?",
-     "kid": "How did you find the rest of the boat after a hit?",
+     "kid": "Think back to your first hit.",
      "ask": [
       {
        "q": "How did you find the rest of the boat after the first hit?",
@@ -869,9 +869,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk about the game. Was there any job where two maps could both work? Which one would you take?",
+     "do": "Talk about the game afterwards.",
      "say": "Was there a job where two maps could work? How did you choose?",
-     "kid": "Could two maps work for one job? How did you choose?",
+     "kid": "Think of a job where two maps could both work.",
      "parent": "A good answer says which details each map keeps and which it leaves out. For finding a hospital, a phone app is quicker, but a printed street map works with no battery.",
      "think": "What is a map that works for every job? Is there one?"
     }
@@ -942,7 +942,7 @@
      "what": "A grown-up builds the hidden hills. Poke 6 holes, draw a map, poke the other holes, redraw the map, add 4 more holes, and then lift the lid and compare."
     }
    ],
-   "record": "Draw your three maps in order, next to the real landscape. Write which hills each map showed and which it missed. Colour each square by height.",
+   "record": "Put your three coloured maps in order next to the real landscape, or take a photo of each. Write which hills each map showed and which it missed.",
    "flow": [
     {
      "id": "s1",
@@ -958,11 +958,11 @@
      "id": "s2",
      "mins": 4,
      "do": "Show the closed box. Say that a landscape is hidden inside. Ask for a guess and a reason, and write it down.",
-     "say": "There is a landscape inside this box, with hills and a ridge. You can only poke a stick through holes. Will a map from 6 holes show everything? Will 20 holes? Why do you think so?",
-     "kid": "A landscape is hidden in the box. Will 6 holes show it all? Why?",
+     "say": "There is a landscape inside this box, with hills and a ridge. You can only poke a stick through holes in the lid. Will a map from 6 holes show everything? Will 20 holes? Why do you think so?",
+     "kid": "Make a guess before you poke.",
      "ask": [
       {
-       "q": "Why do you think that number of holes will be enough?",
+       "q": "Will 6 holes show everything in the box? Why or why not?",
        "good": [
         "More holes show more places.",
         "The hills are big, so 6 will find them.",
@@ -995,9 +995,9 @@
     {
      "id": "s4",
      "mins": 10,
-     "do": "Round 1. Poke only the six holes A1, C1, E1, A3, C3 and E3. Write each reading and each height on the squared paper. Colour the six squares by height. Use green for 0 to 1 centimetre and yellow for 2 to 3. Use light brown for 4 to 5 and dark brown for 6 or more. Then leave the other squares white and draw your best guess of the land.",
-     "say": "Poke the six holes. Write the height in each square. Colour the six squares. For the white squares, draw what you guess is there.",
-     "kid": "Poke six holes. Colour the squares. Guess the rest.",
+     "do": "Round 1. Poke only the six holes A1, C1, E1, A3, C3 and E3. Write each reading and each height on the squared paper. Colour the six squares by height. Use green for 0 to 1 centimetre and yellow for 2 to 3. Use light brown for 4 to 5 and dark brown for 6 or more. Leave the other squares white. Tell your grown-up what you think is under them: a hill, a ridge or flat land.",
+     "say": "Poke the six holes. Write the height in each square. Colour the six squares. For the white squares, tell me what you guess is there.",
+     "kid": "Poke six holes. Colour the squares.",
      "ask": [
       {
        "q": "What do you think is in the white squares?",
@@ -1013,9 +1013,9 @@
     {
      "id": "s5",
      "mins": 10,
-     "do": "Round 2. Poke the other 14 holes. Write each reading and height. Colour all 20 squares. Redraw the map. Compare it with round 1.",
-     "say": "Now the rest of the holes. Do the new numbers match what you guessed? What changed on your map?",
-     "kid": "Poke the other holes. Colour all the squares. Compare.",
+     "do": "Round 2. Poke the other 14 holes. Write each reading and height. Colour all 20 squares. Compare it with round 1.",
+     "say": "Now the rest of the holes. Do the new numbers match what you guessed?",
+     "kid": "Poke the other holes. Colour all the squares.",
      "ask": [
       {
        "q": "What changed between your first map and your second?",
@@ -1155,14 +1155,14 @@
      "what": "Mark three towers. A grown-up hides a coin and measures. The child draws circles with one, two and then three distances, and finds the coin."
     }
    ],
-   "record": "Keep your sheet with the circles. Fill in the table. Draw a coin where you think it is, and mark the real place.",
+   "record": "Keep your sheet with the circles. Fill in the table. Mark where you think the coin is, and mark the real place.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Mark three dots on the paper for towers A, B and C. Keep them about 15 centimetres apart (a school compass draws circles up to a radius of about 10 centimetres), and not in a straight line. Write A, B and C by them. Show the compass.",
-     "say": "These three dots are towers. A hidden coin sits somewhere on the paper. A grown-up will tell you only how far the coin is from each tower. Do you think one distance is enough? Two? Why do you think so?",
-     "kid": "There are three towers and a hidden coin. Is one distance enough to find the coin? Why?",
+     "say": "These three dots are towers. A hidden coin sits somewhere on the paper. A grown-up will tell you only how far the coin is from each tower.",
+     "kid": "Make a guess before we start.",
      "ask": [
       {
        "q": "How many distances do you think you need to be sure where the coin is?",
@@ -1201,8 +1201,8 @@
      "id": "s3",
      "mins": 5,
      "do": "Round 1. Take the first slip. With the compass point on tower A, draw a light circle with that distance as the radius. Mark with a small x a few places on it where the coin could be.",
-     "say": "Put the compass point on tower A. Every place exactly this far from A lies on a circle around A. Draw the circle with the distance from the slip. Where could the coin be?",
-     "kid": "Draw a circle around A. The coin is on this circle. Where could it be?",
+     "say": "Put the compass point on tower A. Every place exactly this far from A lies on a circle around A. Draw the circle with the distance from the slip.",
+     "kid": "Draw a circle around A. The coin is somewhere on it.",
      "ask": [
       {
        "q": "Where could the coin be, now that you have drawn the circle?",
@@ -1219,8 +1219,8 @@
      "id": "s4",
      "mins": 6,
      "do": "Round 2. Take the second slip. Draw a circle around tower B with that distance. Look at where the two circles cross. How many places are there? Mark them.",
-     "say": "Now draw the circle around tower B. Where do the two circles cross? Could the coin be at either spot?",
-     "kid": "Draw a circle around B. Where do the circles cross?",
+     "say": "Now draw the circle around tower B. Look at where the two circles cross.",
+     "kid": "Draw a circle around B.",
      "ask": [
       {
        "q": "In how many places do the two circles cross, and what does that tell you about the coin?",
@@ -1386,8 +1386,8 @@
      "id": "s2",
      "mins": 7,
      "do": "Measure the scale bar on the screen with the ruler. Write its length in centimetres, and the real distance written beside it. Work out how many metres 1 centimetre stands for.",
-     "say": "Measure the scale bar with the ruler. If it is 1.5 centimetres long and says 100 metres, how many metres is 1 centimetre?",
-     "kid": "Measure the scale bar. How many metres is 1 centimetre?",
+     "say": "Measure the scale bar with the ruler. Read the real distance written beside it.",
+     "kid": "Measure the scale bar and read the real distance.",
      "parent": "Do not zoom the map after this. If the map slips or zooms by accident, measure the bar again. For example, if the bar is 1.5 centimetres for 100 metres, 1 centimetre is about 67 metres. Screens differ, so the answer will be different on your screen.",
      "check": {
       "t": "mcq",
@@ -1550,7 +1550,7 @@
     {
      "id": "s2",
      "mins": 6,
-     "do": "Draw a grid of 6 columns and 5 rows on squared paper. Write the letters A to F along the top and the numbers 1 to 5 down the side. Draw each building in the right square.",
+     "do": "Draw a grid of 6 columns and 5 rows on squared paper. Write the letters A to F along the top and the numbers 1 to 5 down the side. Draw each building as a small shape, or write its name, in the right square.",
      "say": "Draw the town from above. Put the letters across the top and the numbers down the side. Which square is the school in?",
      "kid": "Draw a grid. Put the town on it.",
      "ask": [
@@ -1570,7 +1570,7 @@
      "mins": 5,
      "do": "Play a question game. You ask: what is in D3? Then swap: say a thing and ask for its square.",
      "say": "What is in D3? Where is the shop? Give the square.",
-     "kid": "Ask what is in a square. Ask where a thing is.",
+     "kid": "Take turns asking. Answer with a square.",
      "parent": "With 2 to 4 children, each child draws the same town and the children take turns to ask each other. If you have an atlas, look up your city in the index. It gives a page and a grid reference, for example 14, C5. Turn to the page and find the square.",
      "check": {
       "t": "mcq",
@@ -1589,7 +1589,7 @@
      "mins": 4,
      "do": "Move a building in the tabletop town. Ask your child to say which square on the map has changed and what the new reference is.",
      "say": "I moved the shop. Which square is now empty? Which square has the shop in it?",
-     "kid": "I moved the shop. Which squares changed?",
+     "kid": "Find the squares that changed.",
      "think": "Why would a city need a grid in its map book?"
     }
    ],
@@ -1646,7 +1646,7 @@
      "id": "s1",
      "mins": 7,
      "do": "List eight places that serve your neighbourhood. Think of a post office, a clinic, a school, a bank and a market. Add a bus stop, a police station and a water tank. Next to each, write one person who works there.",
-     "say": "Which places near our home help everyone? Who works in each? What would we do without it?",
+     "say": "Which places near our home help everyone? Who works in each?",
      "kid": "List eight places near home. Who works in each?",
      "ask": [
       {
@@ -1674,7 +1674,7 @@
      "id": "s3",
      "mins": 12,
      "do": "Draw the map on squared paper. Use symbols for the places, such as a letter or a small shape. Make a key. Draw a north arrow. Choose a scale, such as 1 square for 20 steps, and write it on the map.",
-     "say": "Draw the places where they really are. Make a key. Add the north arrow. Write the scale, like 1 square for 20 steps.",
+     "say": "Draw the places where they really are, or lay small things on the floor and take a photo. Make a key. Add the north arrow. Write the scale, like 1 square for 20 steps.",
      "kid": "Draw the map. Add a key, a north arrow and a scale.",
      "parent": "The step count lets your child place the buildings in proportion. If the counts are not exact, that is fine, but the squares should follow the counts."
     },
@@ -1682,7 +1682,7 @@
      "id": "s4",
      "mins": 6,
      "do": "Show your map to someone else in the family. Ask them to add one place you forgot. Compare it with their own map of the same neighbourhood, if they draw one.",
-     "say": "What did they add? How is their map different from yours? Is one of them wrong?",
+     "say": "What did they add? How is their map different from yours?",
      "kid": "Compare your map with another. What is different?",
      "check": {
       "t": "mcq",
@@ -1698,7 +1698,7 @@
      "context": "In this step you compare your map with another person's map of the same neighbourhood."
     }
    ],
-   "context": "In this activity you list the places that serve your neighbourhood, walk to a few of them, and draw a map with symbols, a key, a north arrow and a scale.",
+   "context": "In this activity you list the places that serve your neighbourhood, walk to a few of them, and draw a map with symbols, a key, a north arrow and a scale. You will find out why two people can draw the same street differently.",
    "setup": [
     {
      "art": "A child and a grown-up on a footpath, the child counting steps on her fingers and pointing down the street, a post office with a red letterbox in the background.",
@@ -1749,7 +1749,7 @@
      "what": "Build a clay hill, add water in 1 centimetre steps, and trace the water's edge on the lid each time."
     }
    ],
-   "record": "The paper with the rings you traced, labelled with the height of each ring, and a drawing of the steepest and gentlest sides.",
+   "record": "The paper with the rings you traced, labelled with the height of each ring, and a sentence saying which side is steepest and which is gentlest.",
    "flow": [
     {
      "id": "s1",
@@ -1840,7 +1840,7 @@
      "what": "Compare a political map and a physical map of India, and find where the land is high and which way the rivers flow."
     }
    ],
-   "record": "A list of what each map shows that the other does not, and a sketch of India with the Western Ghats, the Deccan and the rivers marked.",
+   "record": "A list of what each map shows that the other does not, and, if you like, a sketch of India with the Western Ghats, the Deccan and the rivers marked. Or point to them on the map and tell your grown-up.",
    "flow": [
     {
      "id": "s1",
@@ -1873,7 +1873,7 @@
      "id": "s3",
      "mins": 6,
      "do": "Find the sources and ends of the Kaveri, the Godavari and the Narmada. Which way does each flow? Which rivers flow to the east and which to the west?",
-     "say": "Where do these rivers begin and end? Which way does each one flow? What does that tell you about the slope of the land?",
+     "say": "Where do these rivers begin and end? Which way does each one flow?",
      "kid": "Follow three rivers. Which way does each flow?",
      "check": {
       "t": "mcq",
@@ -1936,7 +1936,7 @@
     {
      "id": "s1",
      "mins": 10,
-     "do": "Draw a map of your room. Hide five mistakes in the map. Choose from these. Leave out the key. Leave out the north arrow. Draw the door on the wrong wall. Draw one wall too long. Use one symbol for two things.",
+     "do": "Draw a map of your room (use paper cut-outs for the furniture if you like). Hide five mistakes in the map. Choose from these. Leave out the key. Leave out the north arrow. Draw the door on the wrong wall. Draw one wall too long. Use one symbol for two things.",
      "say": "Draw a map of your room. Hide five mistakes in it, and do not tell me which. I will draw one too.",
      "kid": "Draw a map with five hidden mistakes.",
      "parent": "Draw your own as well, so the child searches for yours. A mistake should be something a reader could notice by checking the map against the room.",
@@ -1964,8 +1964,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Talk about the mistakes. Which would cause the most trouble for a visitor?",
-     "say": "Which mistake would send a visitor the wrong way? Which one only makes the map harder to read?",
-     "kid": "Which mistake is the worst for a visitor?",
+     "say": "Look at the mistakes you found. Which ones put something in the wrong place? Which ones only make the map harder to read?",
+     "kid": "Sort the mistakes: wrong place, or hard to read.",
      "check": {
       "t": "mcq",
       "q": "Which mistake would send a visitor to the wrong place?",
@@ -2056,9 +2056,9 @@
     {
      "id": "s3",
      "mins": 3,
-     "do": "Talk. Why is a pair of numbers enough to name any place on Earth?",
+     "do": "Talk it over, pointing on the globe or atlas if you have one.",
      "say": "Why does a place on Earth need two numbers? Could one number be enough?",
-     "kid": "Why does a place need two numbers?",
+     "kid": "Point on the globe: is one number enough?",
      "think": "What if you only had the latitude? Where could you be?"
     }
    ],
@@ -2148,7 +2148,7 @@
     {
      "id": "s1",
      "mins": 15,
-     "do": "Page 1. Draw your room from above, using 1 centimetre for 50 centimetres. Measure the walls with a tape or count tiles. Draw the furniture. Draw a scale bar and a north arrow.",
+     "do": "Page 1. Draw your room from above, using 1 centimetre for 50 centimetres (or lay paper cut-outs on the sheet and stick them down). Measure the walls with a tape or count tiles. Draw the furniture. Draw a scale bar and a north arrow.",
      "say": "Page 1 is your room. Each centimetre on the paper stands for 50 centimetres in the room. Draw the walls, the door and the bed.",
      "kid": "Page 1: draw your room. 1 centimetre is 50 centimetres.",
      "ask": [
@@ -2213,9 +2213,9 @@
     {
      "id": "s6",
      "mins": 10,
-     "do": "Put the five pages in order and bind them. Compare them. What stays on every page, and what disappears? Write three sentences.",
-     "say": "Look at all five pages. What is on every page? What disappears as the scale shrinks? Why?",
-     "kid": "Compare the pages. What disappears? Why?",
+     "do": "Put the five pages in order and bind them. Compare them, then say or write three sentences.",
+     "say": "Look at all five pages side by side. Why do things disappear as the scale shrinks?",
+     "kid": "Lay the pages side by side and look for what stays.",
      "ask": [
       {
        "q": "What is on every page, and what disappears?",
@@ -2334,7 +2334,7 @@
      "think": "What is the hardest part of giving directions to a stranger?"
     }
    ],
-   "context": "This is a wayfinding challenge. You write directions that use only compass directions, steps and landmarks, and test them on another person.",
+   "context": "This is a wayfinding challenge. You write directions that use only compass directions, steps and landmarks, and test them on another person. You will find out why \"left\" and \"right\" can send a visitor the wrong way.",
    "setup": [
     {
      "art": "A map of a neighbourhood with a gate marked and a shop marked, and a dotted line of the route with north arrows and numbers.",
@@ -2386,7 +2386,7 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem. Sit with your eyes closed and feel an object. What do your fingers learn? What can they not learn?",
+     "do": "Read the problem. Sit with your eyes closed and feel an object.",
      "say": "Close your eyes and feel a spoon. What do your fingers learn? What can they not learn?",
      "kid": "Close your eyes. Feel a spoon. What can you learn?",
      "ask": [
@@ -2433,9 +2433,9 @@
     {
      "id": "s4",
      "mins": 5,
-     "do": "Talk about what worked. Which textures were easy to tell apart? Which were confusing?",
+     "do": "Talk about what worked and what did not.",
      "say": "What was easy to read by touch? What was confusing? What would you change?",
-     "kid": "What was easy to feel? What was confusing?",
+     "kid": "Pick one thing to change.",
      "think": "What do people who cannot see need from a map, and how are they given it?",
      "parent": "With 2 to 4 children, make one map each and swap, or build one map together with each child making one wall or one piece of furniture. Take turns to be the blindfolded reader."
     }

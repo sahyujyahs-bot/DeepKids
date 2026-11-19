@@ -756,7 +756,7 @@
      "kid": "The reader reads. Pick a token. Turn it over. Check the back.",
      "ask": [
       {
-       "q": "Which cards so far were about slower or faster, and what rule decided them?",
+       "q": "Which card so far was about speed? What decided the answer?",
        "good": [
         "Higher orbits are slower.",
         "More weight means less speed from the same push.",
@@ -982,17 +982,17 @@
      "what": "Set up the ramp. Roll the marble from three heights, three times each. Measure the landing marks. Race two marbles off the edge and listen. Think about what speed a marble would need to miss a round floor."
     }
    ],
-   "record": "Fill in the table. Then draw three bars, one for each start height, as long as its middle landing distance. Write one sentence under the bars that says what the pattern is.",
+   "record": "Fill in the table. Then lay out three paper strips, one for each start height, as long as its middle landing distance. Write one sentence that says what the pattern is.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Show your child the marble, the ramp and the newspaper on the floor. Ask for a guess and a reason. Write down the guess.",
      "say": "A marble will roll off the edge of the table. Does a faster marble land farther away? Does it take longer to fall? Why do you think so?",
-     "kid": "A marble rolls off a table. If it is faster, where does it land? Why?",
+     "kid": "Guess where the faster marble will land.",
      "ask": [
       {
-       "q": "Why do you think the faster marble will land there?",
+       "q": "Why do you think so?",
        "good": [
         "It has more speed, so it flies farther.",
         "It stays in the air longer.",
@@ -1026,7 +1026,7 @@
     {
      "id": "s3",
      "mins": 15,
-     "do": "Dip the marble in the water and shake it once. Let it go from the 5 centimetre mark. Look for the wet spot nearest to the table. Mark it with a pencil dot. Measure from the zero line. Do it three times, then at 10 and at 15 centimetres.",
+     "do": "Dip the marble in the water, so it leaves a wet spot where it lands, and shake it once. Let it go from the 5 centimetre mark. Look for the wet spot nearest to the table. Mark it with a pencil dot. Measure from the zero line. Do it three times, then at 10 and at 15 centimetres.",
      "say": "Let the marble go. Do not push it. Watch where it first touches the paper. Mark the first wet spot only. It may bounce on after that.",
      "kid": "Wet the marble. Let it go. Mark the first spot. Measure from zero.",
      "adult": true,
@@ -1036,9 +1036,9 @@
     {
      "id": "s4",
      "mins": 7,
-     "do": "Find the middle number for each height. Draw the three bars. Look at how the distance grew when the start height grew. Then run the two-marble race. Put two marbles side by side at the table edge. A partner flicks one off sideways, hard, while you let the other just slide off at the same moment. Listen for one click or two. Do it five times.",
+     "do": "Find the middle number for each height. Cut a paper strip as long as each middle landing distance and lay the strips side by side. Look at how the distance grew when the start height grew. Then run the two-marble race, to see which marble lands first. Put two marbles side by side at the table edge. A partner flicks one off sideways, hard, while you let the other just slide off at the same moment. Listen for one click or two. Do it five times.",
      "say": "Look at our numbers. Which start height gave the farthest landing? Did the landing double when the height doubled?",
-     "kid": "Which height landed farthest? Draw a bar for each one.",
+     "kid": "Cut a strip for each height. Lay them side by side.",
      "parent": "The distance grows with the speed, but not in step with the height. Doubling the height does not double the distance. The marble's speed does not grow as fast as the height does. So the marble from 10 centimetres is faster than the one from 5, but not twice as fast. Do not explain this yet. Just notice what your numbers do. In the race, most clean tries sound like one click, because both marbles fall the same height in the same time. Two clicks usually mean one marble was let go late, so repeat and count only the clean tries.",
      "check": {
       "t": "mcq",
@@ -1175,10 +1175,10 @@
      "mins": 5,
      "do": "Show your child the balloon, the straw and the paper clips. Say that the clips stand for the weight of a rocket's payload. Ask for a guess and a reason.",
      "say": "This balloon will be a rocket. Clips are the weight it must carry. How far will it fly with none? With 10? With 20? Why do you think so?",
-     "kid": "A balloon rocket carries clips. How far will it fly with more clips? Why?",
+     "kid": "Guess how far the rocket will fly with more clips.",
      "ask": [
       {
-       "q": "Why do you think more weight will change how far it flies?",
+       "q": "Why do you think so?",
        "good": [
         "A heavier rocket is harder to push.",
         "The same air push has to move more.",
@@ -1234,7 +1234,7 @@
      "mins": 4,
      "do": "Find the average of the two tries for each load. Draw the line graph. Look at how the distance changes with each extra clip.",
      "say": "Look at our numbers. What happened to the distance when we added clips? Did every 10 clips take away the same amount?",
-     "kid": "Draw a graph of distance against clips. What do you see?",
+     "kid": "Draw a graph of distance against clips, or tell your grown-up what you see.",
      "parent": "The distance falls as clips are added. It may fall faster at first or in a steady way. Your own numbers decide. A rocket with no load would go farthest."
     },
     {
@@ -1353,17 +1353,17 @@
      "what": "Look through each lens alone. Mount both on a stick. Slide them until the faraway wall is sharp. Measure the gap and count how many times bigger the wall looks."
     }
    ],
-   "record": "Fill in the table. Draw the wall as it looks through the telescope and as it looks to your bare eye. Write the gap at which the picture was sharpest, the focal length of each lens, and whether your brick count was close to the front focal length divided by the eyepiece focal length.",
+   "record": "Fill in the table. Draw the wall as it looks through the telescope and to your bare eye, or tell your grown-up how the two differ. Write the gap at which the picture was sharpest, the focal length of each lens, and whether your brick count was close to the front focal length divided by the eyepiece focal length.",
    "flow": [
     {
      "id": "s1",
      "mins": 5,
      "do": "Show your child the two lenses. Ask for a guess and a reason. Write the guess.",
      "say": "These two lenses will make a telescope. Will a faraway wall look bigger or smaller? The right way up, or upside down? Why do you think so?",
-     "kid": "Two lenses make a telescope. What will a faraway wall look like? Why?",
+     "kid": "Guess how a faraway wall will look through two lenses.",
      "ask": [
       {
-       "q": "Why do you think the picture will look that way?",
+       "q": "Why do you think so?",
        "good": [
         "A telescope makes things bigger.",
         "It might flip the picture.",
@@ -1377,7 +1377,7 @@
     {
      "id": "s2",
      "mins": 9,
-     "do": "Look at the faraway wall through each lens alone. Hold the weak lens at arm's length. Hold the strong magnifier close to your eye. Write what each one does. Then find each lens's focal length. Face a far window or a faraway building, never the Sun. Hold the lens up with a sheet of paper behind it. Slide the paper until a small, sharp, upside-down picture appears. Measure from lens to paper.",
+     "do": "Look at the faraway wall through each lens alone. Hold the weak lens at arm's length. Hold the strong magnifier close to your eye. Write what each one does. Then find each lens's focal length, the distance from the lens to its sharp picture. Face a far window or a faraway building, never the Sun. Hold the lens up with a sheet of paper behind it. Slide the paper until a small, sharp, upside-down picture appears. Measure from lens to paper.",
      "say": "Hold the weak lens far from your eye. What do you see? Now look through the strong magnifier. Which one makes the wall look bigger?",
      "kid": "Look through each lens alone. What does each one do?",
      "parent": "The weak lens held at arm's length usually gives a blurry or upside-down picture. The strong magnifier close to the eye gives a very blurry wall, because it is made for near things. Neither is a telescope alone. The window picture gives the focal length: expect about 40 to 50 centimetres for the glasses lens and about 3 to 5 centimetres for a pocket magnifier. Do not hold the paper in sunlight from the window.",
@@ -1548,7 +1548,7 @@
      "id": "s3",
      "mins": 9,
      "do": "Draw two more circles. One has a radius of 26.6 centimetres, for the GPS navigation satellites. One has a radius of 42.2 centimetres, for geostationary satellites. Write the lap times beside the circles: 90 minutes, 12 hours and 24 hours.",
-     "say": "Now two much bigger circles. The GPS navigation satellites go round every 12 hours. The geostationary ones go round every 24 hours. Which satellites take longer to go round?",
+     "say": "Now two much bigger circles. The space station goes round in 90 minutes. The GPS navigation satellites take 12 hours. The geostationary ones take 24 hours. Which take longest?",
      "kid": "Draw two big circles, 26.6 and 42.2 centimetres. Write the lap times.",
      "parent": "Each radius is the Earth's radius plus the height of the orbit: 6,371 plus 20,200 kilometres, and 6,371 plus 35,786 kilometres. The bigger the circle, the longer the lap.",
      "context": "In this step you add the higher orbits and their lap times."
@@ -1628,10 +1628,10 @@
      "mins": 5,
      "do": "Show your child the cups and the string. Ask for a guess. Will the whisper travel along the string? What if the string is slack? Write the guesses down.",
      "say": "We will make a telephone from two cups. Will a whisper go along the string? What if the string is slack? Why do you think so?",
-     "kid": "Two cups and a string make a phone. Will a whisper travel? Why?",
+     "kid": "Guess if a whisper will travel along the string.",
      "ask": [
       {
-       "q": "Why do you think the string might carry the sound?",
+       "q": "Why do you think so?",
        "good": [
         "The string shakes and passes the shaking on.",
         "The sound goes along the string.",
@@ -1738,7 +1738,7 @@
      "what": "Set up two bowls facing each other. Whisper into one and listen at the other. Move your ear to find the best spot, and see what that says about a radio dish."
     }
    ],
-   "record": "Draw the two bowls facing each other. Mark with a cross the spot where the whisper was loudest. Write how many of the 5 numbers were heard right at the middle, at the side and with no bowl.",
+   "record": "Draw the two bowls facing each other, or tell your grown-up about them. Mark with a cross, or say, where the whisper was loudest. Write how many of the 5 numbers were heard right at the middle, at the side and with no bowl.",
    "flow": [
     {
      "id": "s1",
@@ -1864,8 +1864,8 @@
      "id": "s3",
      "mins": 7,
      "do": "Lay the strips side by side with their left ends together. Compare them. Then count how many 4 millimetre Apollo strips would fit along the Mangalyaan strip. Ask why Chandrayaan-3 took ten times as long as Apollo 11, though the Moon is the same distance away.",
-     "say": "Both flew to the same Moon. Why did one journey take 4 days and the other 40? Think about the rocket and the burns.",
-     "kid": "Why did the same Moon trip take 4 days and 40 days?",
+     "say": "Both flew to the same Moon. Why did one journey take 4 days and the other 40? What do you think?",
+     "kid": "Line up the strips. How many Apollo strips fit along the Mangalyaan strip?",
      "parent": "About 75 Apollo trips would fit in one Mangalyaan trip (the real trip took about 300 days). Apollo used the huge Saturn V rocket, which threw the spacecraft straight to the Moon. Chandrayaan-3 used a much smaller rocket, and used many small burns of its own engine to climb in steps. The first is fast but needs a giant rocket. The second is slow but cheaper. Mangalyaan was longer because Mars is far away and the planets had to be in the right places.",
      "check": {
       "t": "mcq",
@@ -1939,17 +1939,17 @@
      "what": "Roll three paper rockets. Give one no fins, one fins, and one fins with a clay nose. Launch each three times. Measure and compare."
     }
    ],
-   "record": "Draw the three rockets. Under each one, write how far it flew on each try and whether it flew nose first or tumbled.",
+   "record": "Make a table with a row for each rocket. Write how far it flew on each try and whether it flew nose first or tumbled.",
    "flow": [
     {
      "id": "s1",
      "mins": 4,
      "do": "Show your child the paper, the straw and the clay. Say that you will make three rockets, one plain, one with fins and one with fins and a heavy nose. Ask for a guess and a reason.",
      "say": "We will make three paper rockets. One has no fins. One has three fins. One has fins and a clay nose. Which will fly straightest and farthest? Why do you think so?",
-     "kid": "Three rockets: plain, with fins, and with fins and a heavy nose. Which flies best? Why?",
+     "kid": "Guess which of the three rockets will fly best.",
      "ask": [
       {
-       "q": "Why do you think that one will fly the best?",
+       "q": "Why do you think that rocket will fly best?",
        "good": [
         "Fins keep it pointing the right way.",
         "A heavy nose pulls it forward.",
@@ -2073,7 +2073,7 @@
     "Hang the coin box inside by rubber bands, so it floats like a seat in a car.",
     "Combine a small parachute with crushable legs."
    ],
-   "your_turn": "Sketch your lander. Build it and drop it from one metre. Change one thing, such as the legs or the cushion, and drop it again. Drop each design three times and count how many drops kept the coins in a stack. Which design did best? Why do you think it worked?",
+   "your_turn": "Plan your lander, with a sketch or the parts laid out. Build it and drop it from one metre. Change one thing, such as the legs or the cushion, and drop it again. Drop each design three times and count how many drops kept the coins in a stack. Which design did best? Why do you think it worked?",
    "context": "This is a design challenge about landing gently. You build a lander that stops slowly, as India's Vikram did on the Moon.",
    "setup": [
     {
@@ -2093,9 +2093,9 @@
     {
      "id": "s1",
      "mins": 8,
-     "do": "Read the problem and the rules together. Ask your child to sketch two or three different lander designs. Ask which part of their lander takes the first hit.",
-     "say": "Your lander must keep five coins safe from a one metre drop. How could you make it stop slowly instead of suddenly? Draw some ideas first.",
-     "kid": "Keep five coins safe from a drop. Draw some ideas first.",
+     "do": "Read the problem and the rules together. Ask your child to plan two or three different lander designs, by drawing them or laying out the parts. Ask which part of their lander takes the first hit.",
+     "say": "Your lander must keep five coins safe from a one metre drop. Show me two or three ideas first. Draw them, or lay out the parts.",
+     "kid": "Plan two or three landers. Draw them or lay out the parts.",
      "ask": [
       {
        "q": "What would make a lander stop more gently?",
@@ -2197,7 +2197,7 @@
     {
      "id": "s2",
      "mins": 12,
-     "do": "Draw the table with five rows and five columns. Score each place from 0 to 3 on each need. Add up the scores and find the winner.",
+     "do": "Make a table with five rows and five columns. Score each place from 0 to 3 on each need. Add up the scores and find the winner.",
      "say": "Give each place a score from 0 to 3 for each need. A high score is good. Add them up. Which place wins?",
      "kid": "Give each place a score. Add them up.",
      "parent": "With 2 to 4 children, each argues for a different place first, then you score together. With one child, ask them to argue for two different places. There is no single right answer. Hanle usually scores highest for the sky and lowest for access. A city rooftop scores highest for access and lowest for the sky. Let your child argue for the scores. They should say why."

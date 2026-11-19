@@ -660,9 +660,9 @@
      "id": "s1",
      "mins": 4,
      "context": "This is the first step of Pond Council. You set up the pond, the bowls and the year track.",
-     "do": "Draw the pond board. Put 16 fish tokens in the pond. Give each player a bowl. Put the year marker on Year 1.",
+     "do": "Use a plate as the pond. Put 16 fish tokens (beans) in the pond. Give each player a bowl. Put the year marker on Year 1. If 3 or fewer fish are left, the pond is lost.",
      "say": "This pond has 16 fish. We are three villagers, and we all live from this pond. Fish have young every year. Let's find out how many we can catch.",
-     "kid": "Draw a pond. Put 16 beans in it. Each player gets a bowl.",
+     "kid": "Use a plate as the pond. Put 16 beans in it. Each player gets a bowl.",
      "parent": "Three players works best. With two, one player plays two villagers. Keep the weather cards aside for now. Dried beans can choke a child under five, so keep them away from little ones. With four villagers, use the same 16 fish. It gets tighter, which is part of the lesson. With one child and a parent, the parent plays one villager and the child plays two."
     },
     {
@@ -684,7 +684,7 @@
      ],
      "check": {
       "t": "mcq",
-      "q": "After the catch, 10 fish are left in a pond. For every 2 fish, 1 new fish is born. How many fish are in the pond after breeding?",
+      "q": "In another pond, 10 fish are left after the catch. For every 2 fish, 1 new fish is born. How many fish are in the pond after breeding?",
       "options": [
        "10 fish",
        "15 fish",
@@ -858,7 +858,7 @@
      "context": "This is the first step of Seed Keepers. You draw the farm sheets and choose your first crops.",
      "do": "Each family draws a farm sheet. Lay out the five variety cards. Each family writes a variety in each of five boxes, and one in the seed jar. Do it in secret.",
      "say": "You are a farm family. Choose what to grow in each of your five fields. You can grow one kind or many. Pick one kind to keep in your seed jar.",
-     "kid": "Draw five boxes and a jar. Write a rice in each. Keep it secret.",
+     "kid": "Make five boxes and a jar on paper. Write a rice in each. Keep it secret.",
      "parent": "Do not explain the blight yet. Let the children choose without knowing what is coming. You need no special items: use scrap paper for the sheets and cut paper for the cards. Two to four players. Alone, play two families."
     },
     {
@@ -1019,7 +1019,7 @@
      "context": "This is the first step of the Beans in the Jar test. You guess before you start.",
      "do": "Show your child the jar of beans. Do not say how many there are. Ask for a guess, and a reason for it. Write the guess at the top of the table.",
      "say": "This jar has beans in it, and I know how many. You do not. How many do you think there are? How did you decide?",
-     "kid": "Look at the jar. Guess how many beans. Why do you think so?",
+     "kid": "Look at the jar. Guess how many beans are in it.",
      "ask": [
       {
        "q": "How did you decide on your number?",
@@ -1037,7 +1037,7 @@
      "mins": 5,
      "context": "In this step, you take the first scoop and mark every bean in it.",
      "do": "Scoop one spoonful of beans onto the plate. Count the beans in the scoop. Write the number as M. Put a dot on each bean with the marker.",
-     "say": "We take a scoop of beans and count them. Then we put a dot on each one. This is the number we marked.",
+     "say": "We take a scoop of beans and count them. Then we put a dot on each one. We call this number M, the number we marked.",
      "kid": "Scoop some beans. Count them. This is M. Put a dot on each bean.",
      "parent": "Test your spoon first by scooping from the jar and counting: it should hold about 30 to 45 chickpeas. If it holds fewer than 20 the dots are too few and the estimates swing wildly. If it holds more than 60, use a smaller spoon. M can be any number, as long as you count it exactly."
     },
@@ -1193,7 +1193,7 @@
      "what": "Measure the 3 tallest sprouts in each cup. Draw one sprout from each. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table. On day 6, draw one sprout from each cup, side by side, and colour the roots and leaves as they look.",
+   "record": "Fill in the table. On day 6, take a photo of the four cups side by side, or draw one sprout from each cup and colour the roots and leaves as they look.",
    "setup": [
     {
      "art": "Four cups in a row labelled A, B, C and D, each with a folded paper towel and ten green moong seeds on top.",
@@ -1221,9 +1221,9 @@
      "id": "s1",
      "mins": 5,
      "context": "This is the first step of the Second Life of Water test. You guess before you start.",
-     "do": "Show your child the four liquids. Say what is in each one. Ask which cup will grow the tallest sprouts, and why. Write the guess down.",
+     "do": "Tell your child about the four kinds of water you will use. Say what is in each one. Ask which cup will grow the tallest sprouts, and why. Write the guess down.",
      "say": "These are four kinds of water. One is clean tap water. One is the water we rinsed rice in. One has a little washing-up liquid. One has a little salt. Which will grow the best moong? Why?",
-     "kid": "Four kinds of water. Which grows moong best? Which grows worst? Why?",
+     "kid": "Think about the four kinds of water. Which will grow moong best, and which worst?",
      "ask": [
       {
        "q": "Why do you think that water will be the best?",
@@ -1279,7 +1279,7 @@
      "id": "s5",
      "mins": 11,
      "context": "This is the last step of the Second Life of Water test. You measure the sprouts, compare the cups and say what you found.",
-     "do": "On day 6, measure the 3 tallest sprouts in each cup from the seed to the tip. Write them in the table. Draw one sprout from each cup. Say what you think, what you saw and why.",
+     "do": "On day 6, measure the 3 tallest sprouts in each cup from the seed to the tip. Write them in the table. Take a photo of each cup, or draw one sprout from each. Say what you think, what you saw and why.",
      "say": "Measure the three tallest in each cup. Which cup did best? Which did worst? Was your guess right? Tell me what you think, what you saw and why.",
      "kid": "Measure the three tallest sprouts in each cup. Say what you think, what you saw, and why.",
      "check": {
@@ -1352,7 +1352,7 @@
     }
    ],
    "safety": "A grown-up cuts the bottles with scissors or a knife. Rub the cut edge with a spoon handle so it is not sharp. Do the experiment on a tray or in a sink, as it will drip. Wash your hands after touching the soil.",
-   "record": "Fill in the table. Draw the four funnels in a row with a line showing the height of the material, and draw blue arrows to show how much water came out of each.",
+   "record": "Fill in the table. Take a photo of the four glasses in a row, or line them up and write the amount of water under each one.",
    "setup": [
     {
      "art": "A grown-up cutting a plastic bottle in half, with the top half turned upside down to make a funnel.",
@@ -1382,7 +1382,7 @@
      "context": "This is the first step of the Rain Pit Model. You guess before you build the funnels.",
      "do": "Show your child the four materials. Ask them to put the four in order, from the fastest to let water through to the slowest. Write the order down, and the reason for it.",
      "say": "Here are stones, sand, loose soil and pressed-down soil. We will pour the same water on each. Which lets water through the fastest? Which the slowest? Why?",
-     "kid": "Stones, sand, soil, pressed soil. Which lets water through fastest? Why?",
+     "kid": "Put the four in order, from fastest to slowest.",
      "ask": [
       {
        "q": "Why do you think that one will be the fastest?",
@@ -1543,8 +1543,8 @@
      "mins": 10,
      "context": "In this step, you fill in the then-and-now table, with your own answers beside the elder's.",
      "do": "Fill in the left column with the elder's answers. Fill in the right column with what you see today. Look at the rows where the two columns differ most.",
-     "say": "Let's put what we heard on the left and what we see now on the right. Where is the biggest difference? Which row surprises you?",
-     "kid": "Fill in your table. Elder on the left. Today on the right. Where is the biggest difference?",
+     "say": "Let's put what we heard on the left and what we see now on the right.",
+     "kid": "Fill in your table. Elder on the left. Today on the right.",
      "ask": [
       {
        "q": "Which row shows the biggest change?",
@@ -1622,7 +1622,7 @@
      "what": "Build the tub, fill it with water, pump out one well and watch the other. Pour in rain and watch it refill."
     }
    ],
-   "record": "A drawing of the tub from the side at the start, after pumping and after rain. Mark the water level on each. Write the heights in centimetres.",
+   "record": "The heights of the water in centimetres at the start, after pumping and after rain. You can also draw the tub from the side at each stage and mark the water level.",
    "setup": [
     {
      "art": "A clear tub filled with sand, with two holes dug against the front wall, one at each end.",
@@ -1647,8 +1647,8 @@
      "mins": 6,
      "context": "This is the first step of Borewell in a Tub. You build the tub and guess what will happen before you pump.",
      "do": "Fill the clear tub with about 6 centimetres of damp sand. Stand a card tube in each end against the front wall, and pack damp sand around and between them. The tubes are the two wells. (Plain holes in sand tend to collapse, so the tubes keep the wells open.) Ask your child to guess what will happen to the water in one well when you empty the other.",
-     "say": "The sand is the ground. Each hole is a well. If we take water out of the left well, what will happen to the right well? Why do you think so?",
-     "kid": "Fill the tub with sand. Stand two tubes by the wall. These are the wells. Guess what will happen.",
+     "say": "The sand is the ground. Each tube is a well. If we take water out of the left well, what will happen to the right well? Why do you think so?",
+     "kid": "Fill the tub with sand. Stand two tubes by the wall. These are the wells.",
      "ask": [
       {
        "q": "If we pump water from one well, will the other well change? Why?",
@@ -1665,8 +1665,8 @@
      "id": "s2",
      "mins": 5,
      "context": "In this step, you fill the ground with water, up to a level you can mark.",
-     "do": "Pour water slowly onto the sand until the water in both holes is 3 centimetres above the bottom. Draw a line on the outside wall of the tub at the level of the water. Write the height of each hole.",
-     "say": "We are adding rain to the ground, until the water table is 3 centimetres high. Mark it. This is our starting point.",
+     "do": "Pour water slowly onto the sand until the water in both tubes is 3 centimetres above the bottom. Draw a line on the outside wall of the tub at the level of the water. Write the height of each hole.",
+     "say": "We are adding rain to the ground, until the water under it is 3 centimetres high. This water level is called the water table. Mark it. This is our starting point.",
      "kid": "Pour water slowly. Stop when both holes show 3 centimetres of water. Mark the line.",
      "parent": "If the sand sucks up all the water, keep pouring slowly. It can take a cupful. Stop when you can see water standing in both holes."
     },
@@ -1703,9 +1703,9 @@
      "id": "s5",
      "mins": 2,
      "context": "This is the last step of Borewell in a Tub. You draw the three stages and think about where the water table goes.",
-     "do": "Draw the tub from the side three times: at the start, after pumping, and after the rain. Mark the water level in each drawing. Ask the question below.",
+     "do": "Look at the heights you wrote. Tell your grown-up how the water changed: at the start, after pumping, and after the rain. You can draw the tub from the side to show it. Ask the question below.",
      "say": "What happens to a city that pumps water fast and lets only a little rain soak in? What could it do?",
-     "kid": "Draw the tub three times. Start, pumping, rain. Mark the water.",
+     "kid": "Tell how the water changed: start, pumping, rain. Or draw it.",
      "think": "Near the sea, what do you think might creep into the ground if the fresh water falls too low?"
     }
    ]
@@ -1786,7 +1786,7 @@
      "mins": 5,
      "context": "In this step, you spread the seeds out to dry. Dry seeds keep much longer than damp ones.",
      "do": "Spread the seeds in a single layer on paper. Put them in the shade, where air can reach them, and not in direct sun. Stir them once a day for 3 days.",
-     "say": "Seeds that stay damp go mouldy. They need to dry, in the shade, for a few days. Why do you think we keep them out of strong sun?",
+     "say": "Seeds that stay damp go mouldy. They need to dry, in the shade, for a few days.",
      "kid": "Spread the seeds on paper. Put them in the shade. Stir them each day.",
      "wait": "Leave the seeds to dry for 3 days. In damp monsoon weather you should dry them indoors near a fan and give them 5 to 7 days. Put a spoon of dry rice in the tin to soak up moisture.",
      "ask": [
@@ -1908,7 +1908,7 @@
      "context": "This is the last step of Fingerprints and Stripes. You connect the fingerprints to counting tigers.",
      "do": "Ask the questions below. If you have a tiger photo, compare the stripes on two photos.",
      "say": "Scientists put cameras in a forest. Each photo shows a tiger's stripes. How can they tell how many different tigers there are, without ever touching one?",
-     "kid": "How can stripes show how many tigers live in a forest?",
+     "kid": "Think about the cameras in the forest. If you have a tiger photo, look at the stripes.",
      "ask": [
       {
        "q": "How can photos show how many different tigers there are?",
@@ -1981,9 +1981,9 @@
      "id": "s1",
      "mins": 15,
      "context": "This is the first step of Flower Watch. You choose a plant, make a guess and do your first count.",
-     "do": "Choose one flowering plant. Ask your child to guess who will visit, and when. Sit a step back. Watch for 10 minutes, and make a tally mark for each visit.",
-     "say": "We will watch one plant. Who do you think will visit it? When will she get most visitors, morning, midday or evening? Why?",
-     "kid": "Pick a flower. Guess who comes and when. Watch for 10 minutes.",
+     "do": "Choose one flowering plant. Ask your child to guess who will visit, and when. Sit a step back. In the morning, watch for 10 minutes, and make a tally mark for each visit.",
+     "say": "We will watch one plant. Who do you think will visit it? When will it get most visitors: morning, midday or evening? Why?",
+     "kid": "Pick a flower. Watch it for 10 minutes. Make a mark for each visitor.",
      "ask": [
       {
        "q": "When do you think the plant will have the most visitors, and why?",
@@ -2094,7 +2094,7 @@
      "what": "Count the sprouted seeds. Work out the percentage for each. Draw a bar chart. Say what you think, what you saw and why."
     }
    ],
-   "record": "A table with a row for each seed and a column for each day you counted. At the end, work out the percentage of seeds that sprouted: sprouted seeds, divided by 10, times 100. Draw a bar chart.",
+   "record": "A table with a row for each seed and a column for each day you counted. At the end, work out the percentage of seeds that sprouted: sprouted seeds, divided by 10, times 100. Draw a bar chart, or line up the sprouted seeds in rows.",
    "setup": [
     {
      "art": "Six plates each with a folded damp paper towel, and ten seeds of a different kind on each, with labels.",
@@ -2120,7 +2120,7 @@
      "context": "This is the first step of the Kitchen Seed Bank. You guess which seeds are alive before you test them.",
      "do": "Lay out the six kinds of seeds. Ask your child to guess how many of 10 will sprout from each kind, and why. Write the guesses in a table.",
      "say": "Here are six kinds of seeds from our kitchen. Some are alive, and some are not. How many of ten do you think will sprout from each? Why?",
-     "kid": "Look at the six seeds. Guess how many of ten will sprout. Why?",
+     "kid": "Look at the six seeds. Guess how many of ten will sprout from each.",
      "ask": [
       {
        "q": "Which seeds do you think will not sprout, and why?",
@@ -2167,9 +2167,9 @@
      "id": "s4",
      "mins": 20,
      "context": "This is the last step of the Kitchen Seed Bank. You work out the percentage for each kind and say what you found.",
-     "do": "On day 8, count the sprouted seeds in each plate. For each, divide the number by 10 and multiply by 100 to get the percentage. Draw a bar chart. Say what you think, what you saw and why.",
-     "say": "For each plate, how many of ten sprouted? Work out the percentage. Which seeds are alive? Which are not? Why do you think so?",
-     "kid": "Count the sprouts. Work out the percentage. Draw a bar chart.",
+     "do": "On day 8, count the sprouted seeds in each plate. For each, divide the number by 10 and multiply by 100 to get the percentage. Draw a bar chart, or line up the sprouted seeds from each plate in rows to compare. Say what you think, what you saw and why.",
+     "say": "For each plate, how many of ten sprouted? Work out the percentage. Which seeds are alive? Which are not?",
+     "kid": "Count the sprouts. Work out the percentage. Show it as a bar chart or rows of seeds.",
      "ask": [
       {
        "q": "Why did some seeds not sprout?",
@@ -2215,7 +2215,7 @@
     "A second pit for any overflow, joined to the first by a channel in the soil."
    ],
    "safety": "A grown-up cuts the bottle and the cardboard. Rub the cut edges with a spoon handle so they are not sharp. Do the pouring over a tray or a sink.",
-   "your_turn": "Sketch your design. Build it and pour on 500 millilitres of rain. Measure the water that ran away. Change one thing, such as the gutter or the slope, and test again. Which design sent the most water to the pit? Why do you think so?",
+   "your_turn": "Plan your design by sketching it or telling your grown-up. Build it and pour on 500 millilitres of rain. Measure the water that ran away. Change one thing, such as the gutter or the slope, and test again. Which design sent the most water to the pit? Why do you think so?",
    "context": "This is a design challenge about rainwater harvesting. You build a model house and try to send its rain into the ground.",
    "setup": [
     {
@@ -2236,9 +2236,9 @@
      "id": "s1",
      "mins": 10,
      "context": "This is the first step of the Rain Home challenge. You read the problem and plan two designs.",
-     "do": "Read the problem together. Look at the constraints. Ask your child to sketch two designs, and to guess how much water each will send to the pit.",
-     "say": "Your house has a roof, a gutter and a pit. Rain must go from the roof to the pit with as little as possible running away. Sketch two ideas.",
-     "kid": "Read the problem. Sketch two designs. Guess how much water reaches the pit.",
+     "do": "Read the problem together. Look at the constraints. Ask your child to plan two designs, by sketching or telling you. Ask them to guess how much water each will send to the pit.",
+     "say": "Your house has a roof, a gutter and a pit. Rain must go from the roof to the pit with as little as possible running away. Think of two ideas.",
+     "kid": "Read the problem. Plan two designs. Guess how much water reaches the pit.",
      "ask": [
       {
        "q": "What could make the rain run past the pit?",
@@ -2265,7 +2265,7 @@
      "mins": 10,
      "context": "This is the last step of the Rain Home challenge. You change one thing, test again and think about real homes.",
      "do": "Change one thing in your design. Pour 500 millilitres again. Measure again. Compare the two numbers. Ask the question below.",
-     "say": "What did you change? Did more water reach the pit? In a real city, what would stop rain from reaching the ground?",
+     "say": "What did you change? Did more water reach the pit?",
      "kid": "Change one thing. Test again. Which design was better?",
      "check": {
       "t": "mcq",
@@ -2357,7 +2357,7 @@
      "context": "This is the last step of the Fishing Rule challenge. You change the rule and think about who might break it.",
      "do": "Change one thing in your rule. Play again, or work it out on paper. Then ask the question below.",
      "say": "What if one villager breaks the rule in Year 5? How would the village find out? What should happen to them?",
-     "kid": "Change your rule. Try again. What if someone cheats?",
+     "kid": "Change your rule. Try again.",
      "check": {
       "t": "mcq",
       "q": "Nobody checks whether the rule is followed, and one villager breaks it. Why does this matter for the whole village?",

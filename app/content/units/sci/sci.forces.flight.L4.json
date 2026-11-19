@@ -646,7 +646,7 @@
         {
           "id": "s2",
           "mins": 6,
-          "do": "Play the first eight cards. After each card, read the back aloud. After card four, ask the question below.",
+          "do": "Play the first eight cards. After each card, read the back aloud. A right answer scores one point. After card four, ask the question below.",
           "say": "The reader reads the front. Choose a token and turn it over together. Then the reader reads the back. Who can say why?",
           "kid": "Read a card. Pick a token. Turn it over. Check the back.",
           "ask": [
@@ -706,7 +706,7 @@
         "with a parent",
         "with friends"
       ],
-      "context": "This is an acting game like Simon Says. The leader gives flying commands, and the other players move their bodies like a plane.",
+      "context": "This is an acting game like Simon Says. The leader gives flying commands, and the other players move their bodies like a plane. Pitch is the nose going up or down. Roll is the wings tipping to one side. Yaw is the nose turning left or right.",
       "setup": [
         {
           "art": "A child standing with arms out like wings in the middle of a clear room, with a parent holding a card.",
@@ -814,7 +814,7 @@
           "id": "s2",
           "mins": 5,
           "do": "Read the first six cards, in order. Read the front, let your child act, then read the back and ask the question below.",
-          "say": "Pilot says, nose up! Now tell me. What is the elevator doing on a real plane?",
+          "say": "Pilot says, nose up! Move like a plane. Now I will read what a real plane does.",
           "kid": "Do each move. Then listen to what the real plane does.",
           "ask": [
             {
@@ -897,8 +897,8 @@
         }
       ],
       "safety": "A grown-up holds each parachute at the 2 metre mark and does all the dropping from a steady floor. Nobody climbs on a chair. Coins are small parts: keep them away from children under five.",
-      "record": "Write the three fall times for each parachute. Add the three times and divide by 3 to get the average. Then draw a bar chart with one bar for each parachute, using the averages.",
-      "context": "In this experiment, you make parachutes of two sizes, drop them with different loads, and time how long each takes to fall about 2 metres.",
+      "record": "Write the three fall times for each parachute. Add the three times and divide by 3 to get the average. Then make a bar chart with one bar for each parachute, using the averages. Draw the bars, or cut a paper strip as long as each average.",
+      "context": "In this experiment, you make parachutes of two sizes, drop them with different loads, and time how long each takes to fall about 2 metres. You will find out what really slows a falling parachute.",
       "setup": [
         {
           "art": "Two squares of polythene on a table, a small one 20 centimetres wide and a big one 40 centimetres wide, with a ruler beside them.",
@@ -923,10 +923,10 @@
           "mins": 4,
           "do": "Show your child the polythene, the strings and the coins. Ask for a guess and a reason. Write the guesses at the top of the table.",
           "say": "We will make parachutes. Which do you think will land first, a small one or a big one? And will 4 coins fall 4 times as fast as 1 coin? Why do you think so?",
-          "kid": "We make parachutes. Which lands first, a small or a big one? Why?",
+          "kid": "Look at the polythene, the strings and the coins. Tell your grown-up your guess.",
           "ask": [
             {
-              "q": "Why do you think the big parachute will fall more slowly?",
+              "q": "Which parachute do you think will land first, and why?",
               "good": [
                 "It catches more air.",
                 "It has more drag.",
@@ -940,9 +940,9 @@
         {
           "id": "s2",
           "mins": 8,
-          "do": "Cut a 20 centimetre square and a 40 centimetre square from the polythene. Tape a 30 centimetre string to each corner. Tape the loose ends of the four strings to one coin, so that all four strings are the same length.",
-          "say": "Cut the squares with a ruler. Tape one string to each corner. Gather the four loose ends and tape them to a coin.",
-          "kid": "Cut two squares. Tape a string to each corner. Tape the strings to a coin.",
+          "do": "Build four parachutes. A is a 20 centimetre square with one coin. B is a 40 centimetre square with one coin. C is a 40 centimetre square with four coins. D is a 40 centimetre sheet scrunched into a ball, taped round one coin. Tape a 30 centimetre string to each corner of A, B and C. Tape the four loose ends to the coins.",
+          "say": "Cut the squares with a ruler. Tape one string to each corner. Gather the four loose ends and tape them to the coins.",
+          "kid": "Build A, B, C and D. Tape a string to each corner of the squares.",
           "parent": "Make the squares exact, and keep the strings even, or the canopy will lean. Make a third parachute with a big square and 4 coins taped together. Label the three parachutes A (small, 1 coin), B (big, 1 coin) and C (big, 4 coins). For D, scrunch a big sheet into a tight ball and tape it round 1 coin. With 2 to 4 children, each child makes one of A, B, C and D, so all four are built at once. The same child then does the timing for it, and the grown-up does all the dropping.",
           "check": {
             "t": "mcq",
@@ -1009,9 +1009,9 @@
         {
           "id": "s5",
           "mins": 5,
-          "do": "Work out each average. Draw a bar chart with a bar for each of A, B, C and D. Compare C with A.",
-          "say": "Add the three times for each one, and divide by 3. Draw a bar for each parachute. Now look at C and A. What do you notice?",
-          "kid": "Find each average. Draw a bar for each one. Compare C and A.",
+          "do": "Work out each average. Make a bar chart with a bar for each of A, B, C and D. Draw it, or cut a paper strip as long as each average. Compare C with A.",
+          "say": "Add the three times for each one, and divide by 3. Make a bar for each parachute. Now look at C and A. What do you notice?",
+          "kid": "Find each average. Make a bar for each one. Compare C and A.",
           "ask": [
             {
               "q": "Does the parachute with 4 coins fall 4 times as fast as the one with 1 coin?",
@@ -1074,8 +1074,8 @@
         }
       ],
       "safety": "Throw only when nobody is in front of you, and never at a face. Keep the pointed nose away from eyes.",
-      "record": "For each plane, write what the nose does, where it lands, and whether it turns. Draw the path of each plane from above, with the start line and the landing spot.",
-      "context": "In this experiment, you fold a paper plane, bend the back edges of its wings in different ways, and watch how each bend changes the flight.",
+      "record": "For each plane, write what the nose does, where it lands, and whether it turns. Measure how far each plane landed to the left or right of the straight line, in shoe-lengths. Then tell your grown-up which bend did what.",
+      "context": "In this experiment, you fold a paper plane, bend the back edges of its wings in different ways, and watch how each bend changes the flight. You will find out how to steer a plane.",
       "setup": [
         {
           "art": "An A4 sheet folded in half lengthways and opened, then the top corners folded in to the centre line.",
@@ -1100,10 +1100,10 @@
           "mins": 4,
           "do": "Show your child the paper and the ruler. Ask for a guess and a reason for each bend. Write the guesses on the results table.",
           "say": "We will fold a paper plane and bend the back of its wings. What will happen if both are bent up? And if one is up and one is down? Why do you think so?",
-          "kid": "We bend the back of the wings. What will the plane do? Why?",
+          "kid": "Look at the back edge of a wing. We will bend it up or down.",
           "ask": [
             {
-              "q": "Why do you think a bend at the back of a wing changes the flight?",
+              "q": "What do you think each bend will do to the plane, and why?",
               "good": [
                 "It changes how the air pushes on the wing.",
                 "It pushes the air up or down.",
@@ -1251,7 +1251,7 @@
           "mins": 5,
           "do": "Tape a coin to the bottom edge of the card so it hangs steady. Tape the thread to the top of the card. Tape the other end of the thread to a shelf, 50 centimetres in front of the fan. Lay the ruler on the floor under the card, with zero under the thread.",
           "say": "The card hangs by a thread in front of the fan. The ruler on the floor will show how far the wind blows it. Which way of holding the card do you think the wind will push hardest? Why?",
-          "kid": "Hang the card. Lay a ruler under it. Guess which way gets pushed most.",
+          "kid": "Hang the card. Lay a ruler under it.",
           "ask": [
             {
               "q": "Which way of holding the card do you think the wind will push hardest, and why?",
@@ -1301,8 +1301,8 @@
           "id": "s3",
           "mins": 5,
           "do": "Ask your child what they noticed. Compare the four readings. Ask where else they have felt the same difference.",
-          "say": "Which way got the most push? Which got the least? Where have you felt this before, when you ran or rode a cycle?",
-          "kid": "Which way got the most push? Which got the least?",
+          "say": "Where have you felt this push before, when you ran or rode a cycle?",
+          "kid": "Think of a time the wind pushed you hard.",
           "think": "Why does an open umbrella pull so hard in the wind?",
           "context": "This is the last step of The Card in the Fan. You think about what you found."
         }
@@ -1339,8 +1339,8 @@
         }
       ],
       "safety": "Keep pepper away from eyes and noses, and skip it if anyone is allergic to pepper or turmeric. Wipe up spilled water at once so nobody slips.",
-      "record": "Draw the pepper on the water behind the round spoon and behind the flat ruler. Say which one left the bigger whirls, and for how long they kept turning.",
-      "context": "In this activity, you pull two shapes through water covered with pepper, to see the wake that each one leaves behind.",
+      "record": "Take a photo of the pepper behind the round spoon and behind the flat ruler, or draw it. Say which one left the bigger whirls, and count the seconds they kept turning.",
+      "context": "In this activity, you pull two shapes through water covered with pepper, to see the wake, the swirling water that each one leaves behind. You will find out which shape leaves the bigger swirl.",
       "setup": [
         {
           "art": "A tray of still water with a thin layer of black pepper floating on top.",
@@ -1361,7 +1361,7 @@
           "mins": 5,
           "do": "Fill the tray with 2 centimetres of water. Wait until the water is still. Sprinkle a very thin layer of pepper over it. Ask your child to guess which shape will leave the bigger swirl behind it.",
           "say": "We will pull two shapes through the water. One is round and one is a thin edge. Which do you think will leave the bigger whirl behind it? Why?",
-          "kid": "There is pepper on still water. Which shape will leave the bigger swirl? Why?",
+          "kid": "Look at the pepper on the still water.",
           "ask": [
             {
               "q": "Which shape do you think leaves the bigger whirls, and why?",
@@ -1444,7 +1444,7 @@
         }
       ],
       "safety": "A grown-up lights the incense and keeps it away from paper and cloth. If anyone has asthma, an allergy to smoke or breathing trouble, skip this activity and use Whirls Behind a Spoon instead. Keep the activity short, with under ten minutes of smoke. When you finish, the grown-up puts the stick out in a bowl of water and opens a window.",
-      "record": "Draw the smoke line before the swish, and the whirls after it. Write how long the whirls kept turning.",
+      "record": "Tell your grown-up what the smoke looked like before the swish and after it, or draw it. Write how long the whirls kept turning.",
       "context": "In this activity, you swish a card through a thin line of smoke and watch the air keep moving after the card has stopped.",
       "setup": [
         {
@@ -1466,7 +1466,7 @@
           "mins": 4,
           "do": "A grown-up lights the incense stick and puts it in the holder. Close the windows and turn off the fans. Wait until the smoke rises in a thin, straight ribbon. Ask your child what the card will do to the smoke.",
           "say": "The smoke is rising in a thin line. If I swish this card past it, what do you think the smoke will do? Why do you think so?",
-          "kid": "The smoke rises in a thin line. What will the card do to it?",
+          "kid": "Watch the smoke rise in a thin line.",
           "adult": true,
           "ask": [
             {
@@ -1567,8 +1567,8 @@
         }
       ],
       "safety": "A grown-up makes the holes by pushing a sharp pencil point through the card, on a pad of old newspaper, never over a hand.",
-      "record": "Draw the shape and the two lines. Mark where they cross. Write whether the shape balanced on a pencil tip at that spot.",
-      "context": "In this activity, you find the balance point of a lopsided card and of a bird or plane cut-out, and test that point.",
+      "record": "Keep the card with its two lines. Mark where they cross. Write whether the shape balanced on a pencil tip at that spot.",
+      "context": "In this activity, you find the balance point, the spot where a shape stays level on one fingertip, of a lopsided card and of a bird or plane cut-out, and test that point.",
       "setup": [
         {
           "art": "A lopsided card shape hanging from a pin, with a thread and a nut hanging from the same pin down in front of the card.",
@@ -1589,7 +1589,7 @@
           "mins": 5,
           "do": "Cut a lopsided shape from the card. A grown-up makes three small holes near the edge. Ask your child to guess where the shape will balance.",
           "say": "Here is a lopsided shape. If I put one finger under it, where do you think it will balance? Why?",
-          "kid": "Here is a lopsided shape. Where will it balance? Why?",
+          "kid": "Look at the lopsided shape. Point to where you think it will balance.",
           "adult": true,
           "ask": [
             {
@@ -1670,8 +1670,8 @@
           "what": "Throw a shuttlecock feathers-first and watch it turn. Try it with a paper-strip shuttlecock."
         }
       ],
-      "record": "Draw the path of a shuttlecock thrown feathers-first. Mark the point where it turns round.",
-      "context": "In this activity, you throw a shuttlecock backwards and watch it turn itself round in the air.",
+      "record": "Tally how many of your six tosses turned cork-first. Tell your grown-up where in the air the shuttlecock turned round.",
+      "context": "In this activity, you throw a shuttlecock backwards and watch it turn itself round in the air. You will find out why a shuttlecock always flies with the cork in front.",
       "setup": [
         {
           "art": "A child tossing a shuttlecock gently with its feathers pointing forward.",
@@ -1692,7 +1692,7 @@
           "mins": 4,
           "do": "Hold the shuttlecock by the cork. Ask your child to guess what will happen if you toss it into the air with the feathers pointing forward.",
           "say": "I will toss the shuttlecock with the feathers pointing forward. What do you think it will do? Why?",
-          "kid": "I toss it feathers-first. What will it do? Why?",
+          "kid": "Look at the shuttlecock. The rounded end is the cork. The feathers spread out at the other end.",
           "ask": [
             {
               "q": "What do you think a shuttlecock will do when it is thrown feathers-first, and why?",
@@ -1799,7 +1799,7 @@
           "mins": 4,
           "do": "Stand the book upright in front of the fan, about 30 centimetres away. A grown-up turns on the fan, low. Ask your child to guess what the ribbon will do right behind the book.",
           "say": "The book stands in the wind. What will the ribbon do if I hold it right behind the book? What if I move it further back? Why?",
-          "kid": "A book stands in the wind. What will the ribbon do behind it? Why?",
+          "kid": "Look at the book standing in front of the fan.",
           "adult": true,
           "ask": [
             {
@@ -1879,7 +1879,7 @@
         }
       ],
       "safety": "Never look at the Sun, with or without binoculars. Stay behind the railing on a balcony or terrace, with a grown-up present. Do not touch or feed wild birds, and wash your hands afterwards.",
-      "record": "A tally of birds that flew in a line, birds that spread their tails, and birds that tilted their wings to turn. Add a drawing of one bird turning.",
+      "record": "A tally of birds that flew in a line, birds that spread their tails, and birds that tilted their wings to turn. Say how one bird turned, or draw her.",
       "context": "In this activity, you watch real birds near your home, and see how they use their tails and wings to steer and how they fly in lines.",
       "setup": [
         {
@@ -1917,9 +1917,9 @@
         {
           "id": "s2",
           "mins": 15,
-          "do": "Watch for 15 minutes. Make a tally mark for each bird in a line. Make one for each spread tail, and one for each wing tilt. Draw one bird turning.",
+          "do": "Watch for 15 minutes. Make a tally mark for each bird in a line. Make one for each spread tail, and one for each wing tilt. Watch one bird turn, and see what her wings and tail do.",
           "say": "Make a mark each time you see one of the three. Watch a bird landing. What does her tail do? What do her wings do?",
-          "kid": "Make a mark for each thing you see. Draw one bird turning.",
+          "kid": "Make a mark for each thing you see. Tell your grown-up how one bird turns.",
           "ask": [
             {
               "q": "What does a bird do with her tail and wings when she lands?",
@@ -1993,7 +1993,7 @@
         }
       ],
       "safety": "Use scissors carefully. Do not throw the glider near anyone's face. Stand all other children behind the thrower.",
-      "record": "Draw the glider with its two hoops. Write how far it flew with the small hoop in front. Write what happened when you changed one thing.",
+      "record": "Take a photo of your glider, or draw it with its two hoops. Write how far it flew with the small hoop in front. Write what happened when you changed one thing.",
       "context": "In this project, you make a glider from a straw and two paper rings, which looks nothing like a plane but still flies.",
       "setup": [
         {
@@ -2019,7 +2019,7 @@
           "mins": 4,
           "do": "Show your child the straw and the paper strips. Ask them to guess if a straw with two paper rings can fly, and why.",
           "say": "This is a glider with no wings. It is a straw with two paper rings. Do you think it will fly? Why?",
-          "kid": "This is a straw with two rings. Will it fly? Why?",
+          "kid": "Look at the straw and the two paper rings.",
           "ask": [
             {
               "q": "Do you think a glider with no wings will fly, and why?",
@@ -2075,7 +2075,7 @@
         {
           "id": "s4",
           "mins": 10,
-          "do": "Change one thing at a time and throw again. Turn the glider round so the big ring is in front. Tilt the small ring a little to one side. Then make the small ring smaller. Write what each change does.",
+          "do": "Change one thing at a time and throw again. Turn the glider round so the big ring is in front. Tilt the small ring a little to one side. Then make the small ring smaller. Put the glider back the way it was after each test. Write what each change does.",
           "say": "Change just one thing. First put the big ring in front. Then tilt the small ring a little. What does each change do?",
           "kid": "Change one thing. Throw it again. What changes?",
           "ask": [
@@ -2104,7 +2104,7 @@
           "mins": 4,
           "do": "Ask your child to say what they saw and why. Ask which ring does the job of the tail.",
           "say": "Why does it fly with the small ring in front? Which ring works like a tail?",
-          "kid": "Why does it fly with the small ring in front?",
+          "kid": "Say why it flies. Point to the ring that works like a tail.",
           "think": "Why is the big ring at the back like the feathers of a shuttlecock?",
           "context": "This is the last step of the Straw Hoop Glider. You explain what you saw."
         }
@@ -2147,7 +2147,7 @@
         }
       ],
       "safety": "A grown-up pushes the pin and helps with the stapler, and puts the pin and staples away after, because both are sharp and small. Keep fingers away from the fan grill.",
-      "record": "A table with the fan setting (low, medium, high) and the number of turns in 30 seconds. Draw a bar chart of the three results.",
+      "record": "A table with the fan setting (low, medium, high) and the number of turns in 30 seconds. Draw a bar chart of the three results, or lay paper strips side by side, one centimetre for each turn.",
       "context": "In this project, you build a spinning cup wind meter like the one on a weather station, and use it to measure the wind of a fan.",
       "setup": [
         {
@@ -2169,7 +2169,7 @@
           "mins": 5,
           "do": "Show your child a cup and the straws. Ask for a guess about which way the cups will spin, and why.",
           "say": "We will make a wind meter, with four cups. Each cup has an open side and a rounded back. Which do you think the wind pushes harder? Why?",
-          "kid": "A cup has an open side and a rounded back. Which gets pushed more?",
+          "kid": "Look at the cup. It has an open side and a rounded back.",
           "ask": [
             {
               "q": "Which part of the cup will the wind push harder, and why?",
@@ -2227,9 +2227,9 @@
         {
           "id": "s4",
           "mins": 5,
-          "do": "Draw a bar chart of the three results. Ask your child what the chart shows, and how a weather station might use a meter like this.",
+          "do": "Draw a bar chart of the three results. Or cut paper strips, one centimetre for each turn, and lay them side by side. Ask your child what the chart shows, and how a weather station might use a meter like this.",
           "say": "What does the chart show? How could a weather station use a spinning wind meter?",
-          "kid": "What does your chart show? How could a weather station use a meter like this?",
+          "kid": "Look at your three results. Which fan speed turned the cups most?",
           "think": "How could you turn the number of turns into a wind speed in kilometres an hour?",
           "context": "This is the last step of the Cup Wind Meter. You show your results."
         }
@@ -2265,7 +2265,7 @@
         "A canopy in the shape of a bowl, with more strings so that the edge stays wide open.",
         "Two canopies, one above the other, joined by the same strings."
       ],
-      "your_turn": "Draw your design. Build it and time three drops. Change one thing, such as the size of the canopy or the length of the strings, and time it again. Which design fell most slowly? Why do you think it did?",
+      "your_turn": "Draw your design, or tell your grown-up how it is made. Build it and time three drops. Change one thing, such as the size of the canopy or the length of the strings, and time it again. Which design fell most slowly? Why do you think it did?",
       "context": "This is a design challenge about drag and falling. You build the slowest parachute you can.",
       "setup": [
         {
@@ -2285,9 +2285,9 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "Read the problem aloud. Ask your child to sketch two or three designs and say which they expect to be slowest.",
-          "say": "We want the slowest fall. Which design will do best? What makes a parachute slow?",
-          "kid": "Sketch some designs. Which will fall most slowly?",
+          "do": "Read the problem aloud. Ask your child to plan two or three designs. They can sketch them or tell you. Ask which they expect to be slowest.",
+          "say": "We want the slowest fall. Which design do you think will do best?",
+          "kid": "Think of two or three designs. You can sketch them or just tell your grown-up.",
           "ask": [
             {
               "q": "What makes a parachute fall slowly?",
@@ -2303,7 +2303,7 @@
         {
           "id": "s2",
           "mins": 15,
-          "do": "Build your best design and test it. Time three drops from the 2 metre mark. Write each time and work out the average.",
+          "do": "Build your best design and test it. Tape a mark 2 metres up a wall. Time three drops from the mark. Write each time and work out the average.",
           "say": "Build your best design. Time it three times, and find the average.",
           "kid": "Build your parachute. Time it three times.",
           "parent": "If the canopy folds up and falls fast, it did not open. Try longer strings or a stiffer rim.",
@@ -2348,7 +2348,7 @@
         "A paper tail fin made of a folded strip at the back.",
         "Moving a paper clip to one wing tip to make the plane lean."
       ],
-      "your_turn": "Sketch your plane and say where you will put the bends and clips. Fly it at the first target five times. Then change it to reach the second target. What did you change, and why did that steer the plane?",
+      "your_turn": "Say where you will put the bends and clips, or sketch your plane. Fly it at the first target five times. Then change it to reach the second target. What did you change, and why did that steer the plane?",
       "context": "This is a design challenge about stability and steering. You tune a paper plane to hit two targets.",
       "setup": [
         {
@@ -2370,7 +2370,7 @@
           "mins": 5,
           "do": "Read the problem aloud. Ask your child to say what they will change to make a plane fly straight, and what they will change to make it turn left.",
           "say": "What will you change to make it fly straight? What will you change to make it curve left? Why?",
-          "kid": "What makes a plane fly straight? What makes it turn left?",
+          "kid": "Think about what you can bend or clip on the plane.",
           "ask": [
             {
               "q": "What would you change to turn a plane left?",
@@ -2386,7 +2386,7 @@
         {
           "id": "s2",
           "mins": 12,
-          "do": "Fold your plane. Tune it with bends and clips until it lands on the near mat. Fly it five times and count the hits.",
+          "do": "Fold your plane any way you like. Tune it with bends and clips until it lands on the near mat. Fly it five times and count the hits.",
           "say": "Fold your plane. Tune it with bends and clips. Fly it five times at the near mat. Count the hits.",
           "kid": "Tune your plane. Fly it five times at the near mat.",
           "parent": "If the plane dives, move a clip back. If it climbs and stalls, bend the back edges down a little. If it drifts, check the wings are equal.",

@@ -252,20 +252,20 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
   *Parent says:* Each card tells us the Moon's age. We guess its shape, its lit side and when it sets or rises. First, what time does the Sun set today?  
   *Child mode:* Cut out the cards. Shuffle them. Find today's sunset time.
 - **s2 (5 min)**  
-  *Parent does:* Play one practice card together. Read the age, draw the shape, write the lit side and the time. Check the back.  
-  *Parent says:* Here is a practice card. The Moon is 7 days old. Draw it. Which side is lit? When does it set? Seven times 50 minutes is about six hours.  
-  *Child mode:* Read one practice card. Draw the Moon. Which side is lit?
+  *Parent does:* Play one practice card together. Read the age. Say the shape, the lit side and the time. Check the back.  
+  *Parent says:* Here is a practice card. The Moon is 7 days old. What shape is it: new, thin, half or round? Which side is lit? When does it set? Hint: the Moon sets about 50 minutes later each day.  
+  *Child mode:* Read one practice card. Say the shape and the lit side.
   - Check: A Moon is 7 days old. About when does it set, if the Sun sets at 6 in the evening? → **About midnight**
 - **s3 (9 min)**  
   *Parent does:* Take turns to be the reader. Play through the cards, scoring points for the phase, the lit side and the time.  
-  *Parent says:* Show the age. Everyone draws and writes. Then the reader checks the back. Who got the most parts right?  
-  *Child mode:* Show a card. Draw the Moon. Write the time. Check the back.
+  *Parent says:* Show the age. Everyone writes the shape, the lit side and the time on a slip. Then the reader checks the back. Who got the most parts right?  
+  *Child mode:* Show a card. Write your three answers. Check the back.
   - Ask: Which ages were hardest to guess? (good: The ones near the full Moon.; The thin crescents.)
   - Note: The time rule is a guide. A time within an hour is a good answer. If the answers feel off by up to an hour, that is normal. Listen for children linking the lit side to the Sun's position.
 - **s4 (3 min)**  
   *Parent does:* Count the points and find the winner. Then ask the question below.  
-  *Parent says:* Which was the best age for seeing craters through binoculars? Which was the worst?  
-  *Child mode:* Count your points. Which age is best for craters?
+  *Parent says:* Count the points. Who won? Then one more question, about craters.  
+  *Child mode:* Count your points. Who won?
   - Check: Which of these Moons shows the most craters through binoculars? → **A 7-day-old half Moon**
   - Think: Which age would you choose to photograph the Moon's craters, and at what time of the evening?
 ### g2 · Race the Lunar Night: reach the finish before sunset (20 min)
@@ -275,7 +275,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 - **Printable tokens: 4 paper rovers and 1 Sun marker to cut out:** Rover 1; Rover 2; Rover 3; Rover 4; Sun marker
 - **s1 (4 min)**  
   *Parent does:* Cut out the board and the 24 question cards, and shuffle the cards. Use a coin, button or bottle cap for each rover and a different small object for the Sun marker. Find one dice from a Ludo or snakes-and-ladders set. If you have none, write 1 to 6 on six paper slips and draw one from a cup. Put every rover on the start.  
-  *Parent says:* Your rover has landed at lunar dawn. You have two weeks of sunlight to reach the data site. Each round is one day.  
+  *Parent says:* Your rover has landed at lunar dawn. You have two weeks of sunlight to reach the data site. Each round is one day. If the Sun marker reaches sunset, the night wins.  
   *Child mode:* Set up the board. Put your rover at the start. Put the Sun marker on step 1.
 - **s2 (3 min)**  
   *Parent does:* Play one practice turn. Roll the dice, move and answer a practice question.  
@@ -291,7 +291,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 - **s4 (3 min)**  
   *Parent does:* Check who won, or whether the night won. Talk about why a lander is timed to land at dawn.  
   *Parent says:* Did anyone reach the finish? If the night won, what could you change next time? Why did we start at lunar dawn?  
-  *Child mode:* Who won? Why did we start at lunar dawn?
+  *Child mode:* Say who won, and what you would change next time.
   - Note: A good answer to the first question: a lander that runs on sunlight needs the whole two weeks of daylight, so it lands just after sunrise. For the last question: at night there is no sunlight to make power, so the lander would need power stored in a battery, or another source of power, to stay awake and keep warm.
   - Check: A lander must work in sunlight for as long as possible. When should it land? → **Just after lunar sunrise**
   - Think: Why does a lander that runs on sunlight go to sleep at night, and what would it need to stay awake?
@@ -302,12 +302,12 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 - **predict:** Before you start, guess. Will you see the most craters when the torch is behind your head, at the side, or behind the dough? Why do you think so?
 - **fair test:** Use the same dough Moon, the same torch, the same distance from the dough and the same seat every time. Make the room equally dark each time. Only the direction of the light changes, so any difference in what you see comes from the light. Count twice: you count once and a helper counts once, because one count can be a fluke. Who does what: with one child and a parent, the child counts and draws while the parent holds the torch. With two to four children, one holds the torch, one writes in the table, and the others each count alone and write their number before they compare. Swap jobs for each light.
 - **safety:** Use an LED torch, which stays cool, and not a bare bulb. Atta dough contains wheat, so if anyone at home has a wheat allergy or gluten problem, use clay or play dough instead and keep it away from their hands and mouth. Do not eat the dough. Keep the marble away from little brothers and sisters. Wash your hands afterwards. Do not shine the torch into anyone's eyes.
-- **record:** Fill in the table. Draw the dough Moon three times, once for each light, and shade the shadows you saw.
+- **record:** Fill in the table. Take a photo of the dough under each light, or draw it once under the light that showed the most craters.
 - **results table:** Where the torch was | Craters and lumps I counted (out of 9) | Craters and lumps my helper counted | How long the shadows looked
 - **s1 (5 min)**  
   *Parent does:* Show your child the dough, the torch and the tools. Ask for a guess and a reason. Write it down.  
-  *Parent says:* We will make a dough Moon and light it from three places. Beside your head is like a full Moon. At the side is like a half Moon. Where will we see the most craters? Why do you think so?  
-  *Child mode:* Guess first. Where will you see the most craters? Why do you think so?
+  *Parent says:* We will make a dough Moon and light it from three places. Beside your head is like a full Moon. At the side is like a half Moon. Make a guess, and tell me why.  
+  *Child mode:* Look at the dough and the torch. Make a guess, then say why.
   - Ask: Which light do you think will show the most craters? (good: Beside my head, because it lights the whole thing.; At the side, because of shadows.; I don't know.)
   - Note: Do not correct the guess. Most children guess the torch beside the head, because it is the brightest. Write the guess at the top of the table.
 - **s2 (8 min)**  
@@ -317,14 +317,14 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
   - Note: Deep craters with sharp rims show up best. A shallow dent will not make a clear shadow. If the dough is sticky, dust it with a little flour. Keep the plate in the same place for all three tests.
   - Check: Why do we make craters of different sizes, and some deep? → **So there are different things to count and the shadows are clear**
 - **s3 (7 min)**  
-  *Parent does:* 1. Sit 50 centimetres from the plate. Use the string to check. 2. Make the room dark: do this at night with curtains closed, since a phone torch looks weak in daylight. 3. Hold the torch beside your head, 50 centimetres from the dough (the string stretched from the dough to the torch), and shine it at the dough. 4. Count the craters and lumps you can see. 5. Ask the helper to count too. 6. Draw what you see.  
-  *Parent says:* Hold the torch beside your head, like the Sun behind us at full Moon. Count the craters and lumps you can see. Is it hard? Draw it.  
-  *Child mode:* Hold the torch by your head. Count the craters. Draw the dough.
-  - Ask: How many craters and lumps can you see, and what do they look like? (good: Only a few.; They look flat.; I can see circles but no shadows.)
+  *Parent does:* 1. Sit 50 centimetres from the plate. Use the string to check. 2. Make the room dark: do this at night with curtains closed, since a phone torch looks weak in daylight. 3. Hold the torch beside your head, 50 centimetres from the dough (the string stretched from the dough to the torch), and shine it at the dough. 4. Count the craters and lumps you can see. 5. Ask the helper to count too. 6. Write the counts in the table.  
+  *Parent says:* Hold the torch beside your head, like the Sun behind us at full Moon. Count the craters and lumps you can see. Is it easy or hard to see them?  
+  *Child mode:* Hold the torch by your head. Count the craters and lumps.
+  - Ask: How many craters and lumps can you see? (good: Only a few.; They look flat.; I can see circles but no shadows.)
   - Note: With the torch beside the head, the shadows fall behind the craters, where you cannot see them. You may count only 3 or 4 of the 9 things. The dough will look bright, flat and pale. That is the full Moon view. Write the numbers exactly as you counted them. The exact counts differ with your dough and torch. Do not worry if the torch beside the head shows 4 or 5, as long as it shows clearly fewer than the torch at the side does in the next step. If it does not, press the craters deeper, make the room darker, or move the torch further round to the side in the next step.
 - **s4 (8 min)**  
   *Parent does:* 1. Move the torch to the side of the plate. Keep it 50 centimetres away (use the string). Rest it low on the books, so its light skims across the dough. 2. Keep your seat the same. 3. Count what you see. 4. Ask the helper to count. 5. Measure the shadow of the tallest lump with the ruler.  
-  *Parent says:* Now move the torch to the side, low. This is like the half Moon. Count again. What has changed? Measure the longest shadow.  
+  *Parent says:* Now move the torch to the side, low. This is like the half Moon. Count again. Measure the longest shadow.  
   *Child mode:* Move the torch to the side. Count again. Measure a shadow.
   - Ask: What changed when the light came from the side? (good: I can see more craters.; The craters have dark shadows.; The lumps have long shadows.)
   - Note: You should count most or all of the 9 things, with dark crescent shadows inside the craters and long shadows beside the lumps. If you do not, press the craters deeper and try again. Keep the torch low and at the dough's height. A shadow of a few centimetres is normal.
@@ -350,18 +350,18 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 - **s1 (4 min)**  
   *Parent does:* Show your child the notebook. Ask for a guess and a reason. Write it down.  
   *Parent says:* We will collect ten days of moonrise times for our city. How many minutes later will the Moon rise each day? Will the gap be the same every day? Why do you think so?  
-  *Child mode:* Guess first. How much later does the Moon rise each day? Why?
+  *Child mode:* Make a guess: how many minutes later each day? Then say why.
   - Ask: Why do you think the Moon rises later each day? (good: It is moving round the Earth.; It is slower than the Sun.; I don't know.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Many children guess 24 hours or one hour. Write the guess down.
 - **s2 (8 min) · grown-up needed**  
-  *Parent does:* 1. Find the date of the last new Moon. 2. Start two days after it. 3. Use a weather app or newspaper to find the moonrise time for your city on ten days in a row. 4. Copy the times into the table on a 24-hour clock. 5. Write the Moon's age beside each day.  
+  *Parent does:* 1. Find the date of the last new Moon. 2. Start two days after it. 3. Use a weather app or newspaper to find the moonrise time for your city on ten days in a row. 4. Copy the times into the table on a 24-hour clock. 5. Write the Moon's age beside each day (the number of days since the new Moon).  
   *Parent says:* Find the last new Moon. Start two days after it. Look up the moonrise time for ten days in a row. Copy each into the table. Use a 24-hour clock, so 4 in the afternoon is 16:00.  
   *Child mode:* Find ten days of moonrise times. Copy them into the table.
   - Note: Weather apps and sites such as the time and date website list moonrise by city. A panchang or wall calendar may give moonrise as chandrodaya. If you cannot find ten days, use as many as you can, at least six. Starting two days after a new Moon means the moonrise times run from morning to evening without jumping past midnight. For one child, the parent finds the table and the child copies it. For two to four children, each child can look up a different city (for example Delhi, Mumbai, Chennai and your own), then compare the average gaps at the end. No special materials are needed. If you can, step outside on one of the days at the moonrise time and see the Moon yourself.
   - Check: Why do we start two days after a new Moon? → **So the times keep going up without jumping across midnight**
 - **s3 (8 min)**  
   *Parent does:* 1. For each day, subtract the time of the day before. 2. Write the gap in minutes. 3. Add up all the gaps and divide by the number of gaps to find the average.  
-  *Parent says:* Subtract each day's time from the next. For example, 10:40 take away 09:46 is 54 minutes. Write the gap. Then find the average.  
+  *Parent says:* Subtract each day's time from the next day's time. For example, 10:40 take away 09:46 is 54 minutes. Write the gap. Then find the average.  
   *Child mode:* Find the gap between each day and the day before. Find the average.
   - Ask: Is the gap the same every day? (good: No, it changes a bit.; It is around 50 minutes.; It is sometimes more and sometimes less.)
   - Note: Expect an average near 50 minutes, but single gaps may be anywhere from about 30 to about 70 minutes, depending on your city and the time of year. Do not worry if your gaps are not all the same. That is a real result. For subtracting times: 10:40 less 09:46 is 54 minutes.
@@ -369,7 +369,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 - **s4 (6 min)**  
   *Parent does:* Draw a graph on squared paper. Put the days along the bottom and the moonrise times up the side. Mark a dot for each day. Lay a ruler along the dots. Then use your average gap to predict the moonrise on day 11, write it down, and only afterwards look it up. How far off were you?  
   *Parent says:* Draw a dot for each day on the graph. Lay a ruler along the dots. Do they make a straight line? Which way does it slope? Now guess day 11 from your average, before you look it up.  
-  *Child mode:* Draw a dot for each day. Lay a ruler along them. Is it straight?
+  *Child mode:* Mark a dot for each day. Lay a ruler along them. Is it straight?
   - Ask: What does the slope of the line tell you? (good: The Moon rises later each day.; The gap is about the same every day.)
   - Note: The dots should rise roughly in a straight line sloping upwards. Some dots may sit a little above or below the line. That is normal.
 - **s5 (4 min)**  
@@ -383,12 +383,12 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 - **predict:** Before you start, guess. How far from your eye must a small bindi be to cover the Moon exactly? Will it be a few centimetres, or a few metres? How many times its own width? Why do you think so?
 - **fair test:** Use the same bindi, the same window and the same Moon each time. Close the same eye and look from the same height. Measure the distance three times and use the average, because one measurement can be a fluke. Only your position changes, so any difference comes from where you stood. With several children, each child lines up the bindi on their own and measures. If everyone gets a ratio close to 110, your result is more trustworthy.
 - **safety:** Use this only for the Moon. Never try it on the Sun, and never look at the Sun. Stand safely at the window, away from a balcony edge. A grown-up should help near high windows.
-- **record:** Fill in the table. Draw the bindi, your eye and the Moon in a line, and label the two distances.
+- **record:** Fill in the table. Write the bindi's width, your three distances, your average and the Moon's width. Take a photo of your set-up, or draw the bindi, your eye and the Moon in a line.
 - **results table:** Try | Width of the bindi (mm) | Distance from bindi to my eye (mm) | Distance divided by width
 - **s1 (5 min)**  
   *Parent does:* Show your child the bindi and the window. Ask for a guess and a reason. Write it down.  
   *Parent says:* We will stick a bindi on the window. When we stand back, the bindi can cover the whole Moon. How far back must we stand? Why do you think so?  
-  *Child mode:* Guess first. How far back for the bindi to cover the Moon? Why?
+  *Child mode:* Make a guess, then say why.
   - Ask: Will you stand close to the glass or far from it? (good: Quite far.; Close, because the Moon is small.; I don't know.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Pick a night when the Moon is easy to see. Use a night between about 9 and 17 days after new Moon, when the whole round Moon is lit, so the bindi can cover all of it. On a half Moon, cover the straight edge, which is as long as the Moon is wide. A thin crescent does not work, because you cannot see its full width. The Moon should be at least a little way above the horizon so the window glass does not tilt the view.
 - **s2 (5 min)**  
@@ -401,7 +401,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
   *Parent does:* 1. Close one eye. 2. Stand back and move your head until the bindi exactly covers the Moon. 3. Hold still. 4. Ask your helper to hold a string from the bindi to your open eye. 5. Measure the string in millimetres. 6. Do it three times.  
   *Parent says:* Close one eye. Move back and forth until the bindi exactly hides the Moon. Hold still. Your helper measures from the bindi to your eye. Do it three times.  
   *Child mode:* Close one eye. Move until the bindi hides the Moon. Measure.
-  - Ask: What did you notice about the distance? (good: It was bigger than I thought.; It was about the same each time.; The Moon is very far away.)
+  - Ask: Was the distance about the same all three times? (good: It was bigger than I thought.; It was about the same each time.; The Moon is very far away.)
   - Note: Use only one eye, or your two eyes will see the bindi in two places. Your three measurements may differ by a few centimetres. That is normal. For a 7 millimetre bindi, expect about 75 to 85 centimetres (typical, not exact). If the Moon moves out from behind the bindi, line it up and measure again. If the window does not face the Moon, use an open balcony and let the helper hold the clear polythene with the bindi on it at the same height as your eye. If clouds hide the Moon or you cannot find it, try another night.
   - Check: Why do we close one eye? → **Two eyes see the bindi in two places**
 - **s4 (8 min)**  
@@ -421,40 +421,40 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 ## Activities
 ### a1 · Torch on a Coin: where does the shadow fall? (15 min)
 - **safety:** Use an LED torch. Do not shine it into anyone's eyes. Keep the coins away from little ones.
-- **record:** Draw the stack and its shadow three times: torch above, torch halfway up, torch low at the side. Write the shadow length from the ruler each time, and which light showed the shape best.
+- **record:** Write the shadow length from the ruler for each light: torch above, halfway up, low at the side. Write which light showed the shape best. Take a photo of each, or draw the stack once.
 - **s1 (9 min)**  
   *Parent does:* Stand the stack of coins on the paper. Make the room dim. Hold the torch right above it, then halfway up (about 45 degrees), then low at the side, always about 30 centimetres away. Each time, measure the length of the shadow with the ruler and write it down.  
   *Parent says:* Look at the coins with the torch above. Now halfway. Now low at the side. Measure the shadow each time. What do you notice?  
-  *Child mode:* Light the coin from above. Then from the side. What changes?
+  *Child mode:* Light the coins from above, halfway and low. Watch the shadow.
   - Ask: What happened to the shadow when the torch moved to the side? (good: It got long.; It stretched out.; I could see the shape of the coin.)
   - Note: From straight above, the shadow is a thin ring or nothing. From the side, it stretches. Expect about 0 centimetres from above, and a few centimetres from the side. Do not explain yet. Ask what your child notices and wonders. For 2 to 4 children, one holds the torch, one measures and one records, then swap.
 - **s2 (6 min)**  
-  *Parent does:* Ask your child to tell you which light shows the coin's thickness better, and to draw it. Then ask the question below.  
-  *Parent says:* Which light shows that the coin has a thickness? Draw the coin with each light. Here is a puzzle. The Sun's light comes from behind us at full Moon. What might that do to the Moon's craters?  
-  *Child mode:* Which light shows the coin's thickness? Draw both.
+  *Parent does:* Ask your child to show you, with the torch, which light shows the coins' thickness best. Then ask the question below.  
+  *Parent says:* Which light shows best that the coins have thickness? Show me with the torch. At full Moon the Sun is behind us. What might that do to the Moon's craters?  
+  *Child mode:* Show your grown-up which light shows the thickness best.
   - Check: Which light makes a bump show up best? → **Light from the side, at a low angle**
   - Think: If a mountain makes a long shadow when the Sun is low, what will its shadow be like at midday?
 ### a2 · Catch Up: why the Moon's month is longer than one trip round (20 min)
 - **problem:** The Moon goes once round the Earth in about 27 days. But it takes about 29 and a half days to go from one new Moon to the next. Why are there two extra days? You will find out with a lamp, an orange and a lime.
 - **safety:** Use a torch or an LED lamp, which stays cool. Do not touch a hot bulb.
-- **record:** Draw the Sun, the Earth in two places on its path and the Moon. Mark how much further the Moon had to move to be new again.
+- **record:** Take a photo of your set-up at the start and at the end, or draw the Sun, the Earth in two places and the Moon. Say how much further the Moon had to move to be new again.
 - **s1 (5 min)**  
   *Parent does:* 1. Put the lamp at one end of the table. 2. Put the paper circle in the middle. 3. Put the orange on the circle, on the side nearest the lamp. 4. Put the small ball between the orange and the lamp. 5. Lay pencil A on the table, pointing from the orange across the small ball towards the lamp. 6. Ask for a guess.  
   *Parent says:* This is a new Moon. The Moon is between the Earth and the Sun. Now the Moon goes once round the Earth. When it has gone all the way round, will it be a new Moon again? Why do you think so?  
-  *Child mode:* The Moon goes round once. Will it be new again? Why?
+  *Child mode:* Guess first. Will it be new again? Then say why.
   - Ask: When the Moon has gone once round the Earth, will it be exactly in line with the Sun again? (good: Yes, it has gone all the way round.; No, the Earth has moved on.; I don't know.)
   - Note: Do not correct the guess. Most children say yes. The point of the activity is that the Earth moves along its own path while the Moon goes round. For 2 to 4 children, one moves the Earth, one moves the Moon, one holds the pencils and one records. With one child, the parent can hold the lamp. The model is small, so it is the idea that matters, not the exact angles.
 - **s2 (8 min)**  
   *Parent does:* 1. Move the orange a short way along its paper circle, about one twelfth of the way round. 2. Lay pencil B beside the orange, parallel to pencil A, so it points the same way as before. 3. Take the small ball once round the orange until it lies along pencil B again. 4. Look at where the lamp is now.  
-  *Parent says:* Move the Earth a little along its path. Lay the second pencil parallel to the first. Take the Moon once round, until it lies along the second pencil. Where is the lamp now? Is the Moon between the Earth and the lamp?  
-  *Child mode:* Move the Earth along. Take the Moon round once. Is it new?
+  *Parent says:* Move the Earth a little along its path. Lay the second pencil parallel to the first. Take the Moon once round, until it lies along the second pencil. Where is the lamp now?  
+  *Child mode:* Move the Earth along. Take the Moon round once.
   - Ask: Is the Moon between the Earth and the Sun now? (good: No.; Not yet.; It has to go a little further.)
   - Note: After one trip round, the Moon points the same way as before, as if towards the same far-off star. But the Earth has moved, so the lamp is in a different direction. The Moon has not quite reached the line between the Earth and the lamp. On the real Moon, covering that last bit takes about two more days. One twelfth of the way round is how far the Earth moves in about a month.
   - Check: Why is the Moon not new yet after one trip round? → **The Earth has moved, so the Sun is in a new direction**
 - **s3 (5 min)**  
   *Parent does:* Take the small ball a little further round until it is between the orange and the lamp again. Estimate how much further it had to go, as a fraction of one trip round.  
-  *Parent says:* Now take the Moon a little further, until it is between the Earth and the lamp. This is a new Moon. About how much extra did it need?  
-  *Child mode:* Move the Moon a bit further. Now it is new. How much extra?
+  *Parent says:* Now take the Moon a little further, until it is between the Earth and the lamp. This is a new Moon again.  
+  *Child mode:* Move the Moon a bit further, until it is new.
   - Ask: How much further than one trip did the Moon need to go? (good: A little bit.; About a twelfth of a circle.; Two days' worth.)
   - Note: The extra is about one twelfth of a trip, which at 27 days a trip is about two days. So the time from new Moon to new Moon is about 27 plus 2, which is about 29 and a half days.
 - **s4 (2 min)**  
@@ -465,16 +465,16 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
   - Think: If the Earth went round the Sun more slowly, would the month be longer or shorter?
 ### a3 · Tide Detective: do the biggest tides come at new and full Moon? (30 min)
 - **safety:** A grown-up should help with the phone or computer.
-- **record:** Draw a bar chart of the height of the day's highest tide for 15 days. Colour the bars on new Moon and full Moon days in one colour and the half Moon days in another.
+- **record:** Draw a bar chart of the height of the day's highest tide for 15 days (or write the heights and phases in a table). Colour the bars on new Moon and full Moon days in one colour and the half Moon days in another.
 - **s1 (4 min)**  
   *Parent does:* Tell your child what a tide table is. Ask for a guess and a reason.  
-  *Parent says:* A tide table lists when the sea is high and low, and how high. When in the month will the tides be biggest? At new Moon, at half Moon or at full Moon? Why do you think so?  
-  *Child mode:* Guess first. When are the tides biggest? Why?
+  *Parent says:* A tide table lists when the sea is high and low, and how high. Make a guess: will the tides be biggest at new Moon, half Moon or full Moon? Say why.  
+  *Child mode:* Guess first, then say why.
   - Ask: Which Moon do you think gives the biggest tides? (good: The full Moon.; The new Moon.; The half Moon.)
   - Note: Do not correct the guess. Many children say only the full Moon.
 - **s2 (10 min) · grown-up needed**  
   *Parent does:* 1. Find a tide table for a port. 2. Write the height of the highest tide on each of 15 days in a row. 3. Find the Moon's phase for each day on a calendar. 4. Draw the bar chart.  
-  *Parent says:* Look up the tide table. For each of fifteen days, write down the highest tide, in metres. Then find out the Moon's phase for each day.  
+  *Parent says:* Look up the tide table. For each of fifteen days, write down the highest tide, in metres. Then find out the Moon's phase for each day. Draw a bar for each day: a taller bar for a higher tide.  
   *Child mode:* Find the tide table. Write the highest tide each day. Add the Moon's phase.
   - Note: Use a port you can find a table for. Inland families can choose any port. If there is no table to hand, a grown-up can search for the port's name and 'tide table'. The tide range for Indian ports is often 1 to 3 metres, and larger in Gujarat. If you cannot find a table, you can use the made-up practice numbers 1.2, 1.4, 1.7, 2.0, 2.1, 1.9, 1.6, 1.3, 1.2, 1.4, 1.7, 2.0, 2.1, 1.9 and 1.6 metres. Choose a start day about 3 days before a new Moon or full Moon, so that 15 days cover two of them. For 2 to 4 children, each child can take a different port and compare charts. If you use the made-up numbers, treat day 3 as the new Moon and day 10 as the full Moon. They are practice numbers, not real tides. If your port has a small tide range, the pattern still shows but the bars differ less.
 - **s3 (10 min)**  
@@ -493,9 +493,9 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 
 ## Projects
 ### p1 · The Terminator Log: five evenings of the growing Moon (30 min, 5 days)
-- **problem:** The line between the Moon's lit part and its dark part is where the Sun has only just risen. You will draw the growing Moon on five evenings. You will watch this line move across the Moon and light up one crater after another.
+- **problem:** The line between the Moon's lit part and its dark part is where the Sun has only just risen. You will look at the growing Moon on five evenings. You will watch this line move across the Moon and light up one crater after another.
 - **safety:** Use binoculars only after the Sun has set well below the horizon. Never point binoculars at the Sun, not even at sunset. A grown-up should come with you to a roof or a balcony, and stay away from the edge.
-- **record:** Draw the Moon's lit shape on each evening, and mark the line between light and dark. Note any dark patches or craters near the line. At the end, write which craters were on the line on which nights.
+- **record:** Keep a photo or a drawing of the Moon from each evening, and mark the line between light and dark. Note any dark patches or craters near the line. At the end, write which craters were on the line on which nights.
 - **schedule:** day 1: Evening 1: draw the thin crescent and mark the line between light and dark. (8 min); day 2: Evening 2: draw the Moon and compare. (5 min); day 3: Evening 3: look along the line between light and dark with binoculars. (5 min); day 4: Evening 4: draw craters and their shadows. (5 min); day 5: Evening 5: draw, then lay out all five and compare. (7 min)
 - **s1 (8 min) · grown-up needed**  
   *Parent does:* On the first evening, about three days after a new Moon, look for the thin crescent in the west soon after sunset. Draw its shape. Mark the line between light and dark. Write the date and the time.  
@@ -504,29 +504,29 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
   - Ask: Where is the line between light and dark on the Moon? (good: On the inner curve.; It's the curved line away from the Sun.)
   - Note: Choose a time 30 to 45 minutes after sunset, and use that same time each evening. Use the naked eye first, then binoculars. If you see a dark oval patch near the edge, that is one of the Moon's dark plains. Do not worry about names. If the western sky is blocked by buildings, begin on evening 2 or 3 instead, when the Moon is higher. Without binoculars you can still see the line and the dark plains, but not craters, so draw the line and the plains. If cloud hides the Moon one night, it does not matter. Use any 5 clear evenings in the first 10 days after new Moon, and write the Moon's age beside each drawing. You can also look at NASA's Moon pictures for the date you missed. In the monsoon, you may need to wait for the next month.
 - **s2 (5 min)**  
-  *Parent does:* On the second evening, draw the Moon again at the same time. Mark the line between light and dark. Compare it with yesterday.  
-  *Parent says:* Draw the Moon again. Is more of it lit tonight? Where has the line moved?  
-  *Child mode:* Draw the Moon again. Where has the line moved?
+  *Parent does:* On the second evening, look at the Moon again at the same time. Take a photo with your phone, or draw it quickly. Compare it with yesterday.  
+  *Parent says:* Look at the Moon again. Is more of it lit tonight? Where has the line moved?  
+  *Child mode:* Look at the Moon again. Take a photo or draw it.
   - Note: The lit part grows each night, and the line moves away from the bright edge. Keep drawings the same size, about 8 centimetres wide.
   - Wait: Leave it until tomorrow evening
 - **s3 (10 min) · grown-up needed**  
-  *Parent does:* On evenings 3 and 4, draw the Moon again. Use binoculars to look along the line between light and dark. Draw any craters you can see and their shadows.  
-  *Parent says:* Look through binoculars along the line. Can you see craters? Which side are the shadows on? Draw them.  
-  *Child mode:* Look along the line. Draw the craters. Draw the shadows.
+  *Parent does:* On evenings 3 and 4, draw the Moon again. Use binoculars, or zoom your phone camera, to look along the line between light and dark. Point out any craters you can see and their shadows. Take a photo, or draw one crater.  
+  *Parent says:* Look through binoculars along the line. Can you see craters? Which side are the shadows on? Point to them.  
+  *Child mode:* Look along the line. Point to the craters and their shadows.
   - Ask: Which side of a crater is the shadow on? (good: The side away from the Sun.; The side nearer the dark.)
   - Note: Brace your elbows on the railing, and hold the binoculars steady. Craters along the line have dark crescent shadows. Beyond the line, you may see tiny bright dots, which are mountain tops catching sunlight before the valleys. With 2 to 4 children, give each child a notebook and pass the binoculars every minute or so.
   - Check: A crater's shadow lies on the side away from the Sun. Where would the Sun be if the shadow points to the left? → **On the right**
   - Wait: Leave it for two evenings, and look once each evening
 - **s4 (5 min)**  
-  *Parent does:* On evening 5, draw the Moon for the last time. Lay your five drawings side by side. Look at how the line moved, and which craters were on the line each night.  
-  *Parent says:* Lay your drawings in a row. How did the line between light and dark move? Which craters were on the line on which night?  
-  *Child mode:* Lay out your five drawings. How did the line move?
+  *Parent does:* On evening 5, draw the Moon for the last time. Lay your five photos or drawings side by side. Look at how the line moved, and which craters were on the line each night.  
+  *Parent says:* Lay your pictures in a row. How did the line between light and dark move? Which craters were on the line on which night?  
+  *Child mode:* Lay out your five pictures. How did the line move?
   - Ask: Which night showed the most craters? (good: The nights when the line crossed the middle of the Moon.; Tonight, at the half Moon.)
   - Note: The line moves across the Moon over the days, lighting up new land at the sunrise edge. Each night different craters sit on the line. The half Moon night usually shows the most craters because the line runs through the middle of the face.
   - Check: Why does a crater look best when it is on the line between light and dark? → **The Sun is low there, so its shadows are long**
 - **s5 (2 min)**  
   *Parent does:* Ask your child to say or write three things: what I think, what I saw and why I think it happened.  
-  *Parent says:* Tell me three things. What do you think now? What did you see in your drawings? Why?  
+  *Parent says:* Tell me three things. What do you think now? What did you see in your pictures? Why?  
   *Child mode:* Say three things: what you think now, what you saw, and why it happened.
   - Note: A good answer sounds like this. What I think: the best place to see craters is along the line between light and dark. What I saw: craters on the line had dark shadows, and the line moved across the Moon each night. Why: on the line the Sun is low and the shadows are long.
   - Think: Where will the line between light and dark be at the full Moon?
@@ -534,19 +534,19 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
 ## Challenges
 ### c1 · Land at Lunar Dawn: pick the best day for a landing (35 min)
 - **problem:** A small lander uses only sunlight and works for about 14 days. Pick the best day to land it at the centre of the Moon's near side, in a month when the new Moon is on the 4th. Say when its sunrise, noon and sunset will be, and what the Moon will look like from India on each of those days.
-- **your turn:** Now plan your own landing. Draw the calendar. Mark landing day, noon and sunset. Draw what the Moon looks like from India on each of the three days. Why did you pick your day?
+- **your turn:** Now plan your own landing. Mark landing day, noon and sunset on a calendar page. Say or draw what the Moon looks like from India on each of the three days. Why did you pick your day?
 - **constraints:** Use only the Moon calendar. The new Moon is on the 4th, and the month has 30 days.; The Sun rises at the centre of the near side at the first quarter, shines overhead at the full Moon, and sets at the last quarter.; The lander needs about one day after sunrise to warm up.; It must finish its work before the Sun sets.
 - **general:** Count 7 days from the new Moon for the first quarter, 14 or 15 days for the full Moon and 22 days for the last quarter.; Pick the day just after sunrise, so the lander has the whole day to work.; Draw a small calendar with the phases and mark the three days.
 - **creative:** Choose a site near the Moon's pole, where the Sun stays low and some crater rims are lit for most of the year. Say what the advantages and risks are.; Add a heater and a battery so the lander can survive part of the night. Say what you gain and lose.; Plan a second lander for the same mission that lands on the far side. Say how it will talk to the Earth.
 - **s1 (6 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child what the Moon looks like from India when it is sunrise, noon and sunset at the centre of the near side.  
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child what the Moon looks like from India at sunrise, noon and sunset at the centre of the near side. Take a guess first.  
   *Parent says:* A lander only works in sunlight. At the centre of the near side, the Sun rises at first quarter. What does the Moon look like from India when it is noon there? And when it is sunset there?  
-  *Child mode:* A lander needs sunlight. When does the Sun rise at the centre? Guess.
+  *Child mode:* A lander needs sunlight. Guess what the Moon looks like at noon and at sunset.
   - Ask: When will the lander have the most sunlight left? (good: Just after sunrise.; At the first quarter.; Early in the Moon's day.)
 - **s2 (10 min)**  
-  *Parent does:* 1. Draw a calendar for 30 days. 2. Mark the new Moon on the 4th. 3. Mark the first quarter on the 11th, the full Moon on the 18th and the last quarter on the 26th. 4. Draw a small Moon shape beside each.  
-  *Parent says:* Draw the calendar. Mark the new Moon on the 4th. Count seven days to the half Moon, then seven more to the full Moon, and seven more to the next half Moon.  
-  *Child mode:* Draw the calendar. Mark the four main Moons.
+  *Parent does:* 1. Use a calendar page of 30 days. 2. Mark the new Moon on the 4th. 3. Mark the first quarter on the 11th, the full Moon on the 18th and the last quarter on the 26th. 4. Write beside each one: new, half, full or half.  
+  *Parent says:* Take a calendar page of 30 days. Mark the new Moon on the 4th. Count seven days to the half Moon. Count seven more to the full Moon. Then count a little over seven more to the next half Moon.  
+  *Child mode:* Mark the four main Moons on the calendar.
   - Note: Use days 11, 18 and 26. New Moon on the 4th, first quarter about 7 days later on the 11th, full Moon about 14 days later on the 18th, and last quarter about 22 days after the new Moon, on the 26th. The Moon on the 11th is lit on the right when seen from India.
 - **s3 (10 min)**  
   *Parent does:* 1. Choose a landing day. 2. Mark sunrise, noon and sunset for the lander on the calendar. 3. Count how many days of sunlight are left from the landing day. 4. Write why you chose it.  
@@ -557,7 +557,7 @@ At the science fair, Abirami's poster had a full Moon on one side, bright and fl
   - Check: Why is landing at the full Moon a poor choice for a lander at the centre of the near side? → **The Sun is already overhead, and it will set in about a week**
 - **s4 (9 min)**  
   *Parent does:* Show your plan to someone else. Talk about what the Moon looks like on landing day, and what you would change.  
-  *Parent says:* Explain your plan to someone. What does the Moon look like on landing day? What would you change for a pole landing?  
+  *Parent says:* Explain your plan to someone. What does the Moon look like on landing day? What would you change?  
   *Child mode:* Tell someone your plan. What does the Moon look like?
   - Note: A good answer: near the Moon's poles the Sun stays low in the sky, so some crater rims are lit for most of the year, and a lander there could have sunlight for much longer. The risk is that the long shadows make the ground harder to see.
   - Check: A lander lands near the line between light and dark on a growing half Moon. Where is the Sun in the lander's sky? → **It has just risen and is low in the sky**

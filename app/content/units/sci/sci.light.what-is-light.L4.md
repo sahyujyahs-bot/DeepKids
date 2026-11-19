@@ -272,7 +272,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 - **Printable tokens: Paper stars, buttons or coins to count points (48 are enough):** Cut out 48 small paper stars, or use buttons or coins
 - **s1 (3 min)**  
   *Parent does:* Cut out the 24 cards and the 7 signs. Lay the signs in a row, longest waves on the left. Shuffle the cards and put them face down.  
-  *Parent says:* These seven signs are the whole light family. The longest waves are on the left. The shortest are on the right. Each card tells about something from daily life.  
+  *Parent says:* These seven signs are the whole light family. A wavelength is the length of one wave. The longest waves are on the left. The shortest are on the right. Each card tells about something from daily life.  
   *Child mode:* Lay out the seven signs. Put the cards face down in a pile.
   - Ask: Which sign do you think has the waves that carry the most energy? (good: Gamma rays.; The one on the right.; The shortest ones.)
   - Note: Do not correct the guess. The longer the wave, the less energy each photon carries. Gamma rays at the right end carry the most.
@@ -289,7 +289,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
   - Note: Good reasons are about what the thing does. Messages, warmth, sight and doctor's tools sit in different places. Credit a good reason even when the sign is wrong.
 - **s4 (3 min)**  
   *Parent does:* After all cards are placed, count stars. Then look along the Family Line from left to right and read the name on the sign above each pile of cards.  
-  *Parent says:* Look along the line from left to right. What happens to the waves as we go? What happens to the energy of each photon?  
+  *Parent says:* Look along the line from left to right. What happens to the waves as we go? What happens to the energy of each photon? A photon is a tiny packet of light.  
   *Child mode:* Look along the line. What changes from left to right?
   - Check: Which waves in the family carry the most energy in each photon? → **The shortest waves, gamma rays**
 - **s5 (2 min)**  
@@ -322,7 +322,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 - **s4 (4 min)**  
   *Parent does:* Count the stars. Then ask the question about the pattern.  
   *Parent says:* A stall is twice as far from the post. How many times as many lanterns does it need to get the same light? Check with the cards.  
-  *Child mode:* A stall is twice as far away. How many times as many lanterns does it need?
+  *Child mode:* Look back at the cards you played. Do far stalls need more lanterns or fewer?
   - Check: A stall moves from 2 steps to 4 steps from the post. About how many times as many lanterns does it need for the same light? → **4 times as many**
 - **s5 (2 min)**  
   *Parent does:* Talk about how people solve this in real life. Lighthouses, torches and car headlights gather light into a beam.  
@@ -336,18 +336,18 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 - **predict:** Before you start, guess. If you move the paper twice as far from the torch, how many times bigger will the lit patch be? Will it look brighter, dimmer or the same? Why do you think so?
 - **fair test:** The torch, the card with the square hole and the dark room stay the same every time. The torch stays 10 centimetres behind the card. Only the distance from the torch to the paper changes: 20, 30 and 40 centimetres. Measure every distance from the bulb itself (on a phone, the small lamp next to the camera), not from the end of the torch. Do each distance twice, because one try can be a fluke.
 - **safety:** A grown-up cuts the square hole with scissors. Never shine a torch into anyone's eyes.
-- **record:** Fill in the table. Then draw the torch, the card with the hole and the paper at 20, 30 and 40 centimetres, with the lit patch drawn on each paper. Write the area under each one.
+- **record:** Fill in the table. Then take a photo of the lit patch at 20, 30 and 40 centimetres. Write the number of squares under each photo.
 - **results table:** Distance from torch to paper (cm) | Width of the lit patch (squares) | Height of the lit patch (squares) | Area: squares lit | How many times bigger than the patch at 20 cm (divide the area by the area at 20 cm) | How bright the patch looked: brightest, dimmer or dimmest
 - **s1 (5 min)**  
   *Parent does:* Show your child the torch, the card with the hole and the squared paper. Ask for a guess and a reason. Write the guess at the top of the table.  
   *Parent says:* We will shine a torch through a small square hole in a card. The light makes a square patch on squared paper. If we move the paper twice as far away, how big will the patch be? Will it look brighter or dimmer? Why do you think so?  
-  *Child mode:* A torch shines through a small square hole. If you move the paper twice as far away, how big will the patch be? Why?
+  *Child mode:* Look at the torch, the card with the hole and the squared paper. Guess what will happen to the lit patch when the paper moves away.
   - Ask: Why do you think the patch will change that way? (good: The light spreads out more.; It will be twice as big because the distance is twice as big.; The light gets weaker when it goes further.)
   - Note: Do not correct the guess. Many children guess twice as big, because the distance is twice as big. That is a very good guess to test.
 - **s2 (8 min) · grown-up needed**  
   *Parent does:* A grown-up cuts a 2 centimetre square hole in the middle of the card. Stand the card upright with clay. Place the torch 10 centimetres behind the card, pointing at the hole. Tape squared paper flat to a book.  
   *Parent says:* The hole is 2 centimetres wide and 2 centimetres tall. The torch is 10 centimetres behind it. Only the light that goes through the hole will reach the paper.  
-  *Child mode:* Cut a 2 centimetre square hole in the card. Stand it up. Put the torch 10 centimetres behind it.
+  *Child mode:* Watch the grown-up cut a 2 centimetre square hole in the card. Help stand it up and put the torch 10 centimetres behind it.
   - Note: Use a ruler to check the 10 centimetres, because the whole test depends on it. A phone torch works best if you tape it flat so that it does not roll. Block any spill of light around the edges of the card with your hand or a book.
   - Check: Why must the torch stay exactly 10 centimetres behind the card every time? → **So that only the distance to the paper changes**
 - **s3 (8 min)**  
@@ -362,9 +362,9 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
   - Note: Expected: about 6 by 6 squares at 30 centimetres, which is 36, and about 8 by 8 squares at 40 centimetres, which is 64. Real counts are often a bit bigger because of the blur. If your numbers are different, write them down as they are. The patch at 40 centimetres should look dimmer than the one at 20. If the patch is much bigger or oddly shaped, the usual reasons are a room that is not dark enough, a torch that is not exactly 10 centimetres behind the card, or a torch with a lens. Fix that and repeat. Judging brightness by eye is rough, so ask a second person to say which patch looks dimmer without knowing the distances. With 2 to 4 children: one holds the paper steady, one keeps the torch still, one counts squares and one writes, and they swap for each distance. One child alone: tape the paper to a book propped on a stack and tape the torch down, so both stay still.
   - Check: The patch at 20 centimetres covers about 16 squares. The paper moves to 40 centimetres, twice as far. About how many squares are lit? → **About 64 squares, four times as many**
 - **s5 (9 min)**  
-  *Parent does:* Look at the three patches. Ask how many times bigger the patch at 40 centimetres is than at 20. Ask how much of the torch's light each square gets at 40 centimetres. Draw the results.  
+  *Parent does:* Look at the three patches. Ask how many times bigger the patch at 40 centimetres is than at 20. Ask how much of the torch's light each square gets at 40 centimetres. Write the results next to the table.  
   *Parent says:* The same torch light went through the same hole. At 40 centimetres, it covered four times as many squares. So each square got how much of the light, compared with 20 centimetres?  
-  *Child mode:* The same light covered more squares. Did each square get more light or less?
+  *Child mode:* Look at the three patches. Compare how bright each one looks.
   - Ask: Is the light on the far paper used up, or just spread out? (good: It is spread out over more squares.; The same light is shared by more squares.; Each square gets a quarter as much.)
   - Ask: At what distance would the patch be nine times bigger than it was at 20 centimetres? (good: At three times the distance.; At 60 centimetres from the torch.; Three times three is nine.)
   - Note: The key idea is that the amount of light going through the hole did not change. It was spread over four times the area, so each square got one quarter as much. This is why a far lamp looks dim even though it has not changed.
@@ -374,12 +374,12 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 - **predict:** Before you start, guess. Which ice cube will melt first and which last? Will the cube in the shade melt at all? Why do you think so?
 - **fair test:** All the cubes come from the same ice tray, so they are the same size. All the papers are the same size, and all sit side by side on one piece of thick cardboard in the same sunshine. Only the colour of the paper changes. Paper is thin, so the surface under it, such as a hot steel tray or a white wall, could change the result. The thick cardboard under the papers stops that. A fifth cube sits on white paper in the shade as the control, so you know how fast ice melts without any sunshine.
 - **safety:** Never look straight at the Sun. Do the test on a sunny day. An LED lamp gives out too little heat, and a hot bulb is not safe for children to use. Surfaces left in the sun can get hot, so touch them with care. If the sun is very strong, stay in the shade and wear a hat.
-- **record:** Fill in the table. Then draw a bar chart with one bar for each paper, showing how many minutes the cube lasted. Write which colour melted its cube first and which last.
+- **record:** Fill in the table. Then make a bar chart, drawn or made of paper strips, with one bar for each paper, showing how many minutes the cube lasted. Write which colour melted its cube first and which last.
 - **results table:** Paper under the ice cube | In the sun or in the shade | Size of the cube after 5 minutes: whole, big, half, small or gone | Size after 10 minutes | Size after 15 minutes | Minutes until the cube was gone
 - **s1 (5 min)**  
   *Parent does:* Show your child the five papers, the cardboard and the ice. Ask for a guess and a reason about which cube melts first and last. Write it at the top of the table.  
   *Parent says:* We will put ice cubes on black, blue, yellow and white paper in the sunshine. Which one will melt first? Which one will melt last? What about the cube in the shade? Why do you think so?  
-  *Child mode:* Ice cubes sit on four colours of paper in the sun. Which melts first? Which melts last? Why?
+  *Child mode:* Look at the four coloured papers. Guess which ice cube will melt first.
   - Ask: Why do you think that colour will melt its cube first? (good: Black gets hotter in the sun.; Dark colours soak up more sun.; Light colours bounce the sun away.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. The cube in the shade is the control. It shows how fast ice melts with no sunshine at all.
 - **s2 (5 min)**  
@@ -399,9 +399,9 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
   - Note: Expected: the cube on black melts first, the cubes on dark blue and yellow come in between, and white lasts longest. The shaded cube melts slowest of all. Typical times in strong Indian sun are about 10 to 25 minutes, and the gap between black and white is often only a few minutes, so look closely. Your times will differ. If all the cubes melt at nearly the same time, the sun was weak or the cubes were not alike. Try again on a sunnier day with fresh cubes. Melted water can make the paper soggy. That is fine, but keep each cube in the middle of its paper.
   - Check: Why do we keep a cube on white paper in the shade? → **To see how fast ice melts without any sunshine**
 - **s5 (4 min)**  
-  *Parent does:* Compare the times. Draw the bar chart. Ask what the different colours do with the sunlight that falls on them.  
+  *Parent does:* Compare the times. Make a bar chart: draw it, or lay paper strips side by side, one for each paper. Ask what the different colours do with the sunlight that falls on them.  
   *Parent says:* Black melted its ice first. White lasted longest. The same sunlight landed on every paper. So what must the colours have done with it?  
-  *Child mode:* The same sunlight landed on every paper. What did black do with it? What did white do?
+  *Child mode:* Compare the black paper and the white paper. What was different?
   - Ask: Where did the light that landed on the black paper go? (good: It was soaked up.; It turned into heat.; The paper took in the light and got warm.)
   - Note: The paper that absorbs more light turns more of it to heat, and the heat melts the ice. The white paper reflects much of the light, so less becomes heat. Energy is not lost. It changes from light to heat.
   - Check: The ice melted fastest on black paper. What does this tell you about black paper and sunlight? → **It takes in more of the light and turns it into heat**
@@ -410,7 +410,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 - **predict:** Before you start, guess. When you look at the remote through a phone camera, will you see anything? Will the signal go through a piece of paper? Will it bounce off a mirror? Why do you think so?
 - **fair test:** Use the same remote, the same button and the same distance from the camera, 20 centimetres, every time. Keep the room dim so any flicker is easy to see. Only the thing you put in the way changes. A test with nothing in the way is the control.
 - **safety:** Do not open the remote. Keep batteries away from young children, who must not put them in their mouths. The invisible light from a remote is harmless to your eyes.
-- **record:** Fill in the table. Then draw the remote, the phone and a wavy line between them, and write what you saw on the screen.
+- **record:** Fill in the table. Then tell a grown-up what you saw on the screen. Take a photo of the flicker if you can.
 - **results table:** What was in the way | Did the flicker show on the phone screen: yes, faint or no? | Mirror and wall test only: did the TV obey the remote: yes or no?
 - **s1 (4 min)**  
   *Parent does:* Show your child the remote, the phone and the mirror. Ask for guesses and reasons about what the camera will show. Write them in the table notes.  
@@ -437,7 +437,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 - **s5 (3 min)**  
   *Parent does:* Compare the results with what you guessed. Ask what the experiment shows about the light we can see.  
   *Parent says:* The remote sends light that we cannot see. It goes through some things, gets blocked by others, and bounces off a mirror. So what does it behave like?  
-  *Child mode:* The remote sends light you cannot see. Does it act like light you can see?
+  *Child mode:* Look at your table. Which things blocked the signal? Which things bounced it?
   - Ask: What did the camera show that your eyes could not? (good: A flicker from the remote.; Invisible light.; That there is light beyond what we can see.)
   - Note: This is the same lesson as Herschel's thermometer, which warmed up in 1800 in a place that looked dark. There is light that our eyes do not catch, and other instruments can show it.
   - Check: The remote's signal bounced off a mirror and was blocked by a steel plate. What does this suggest about it? → **It behaves like light, though we cannot see it**
@@ -469,21 +469,21 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
   *Child mode:* Sort your jobs into groups. How many groups do you need?
 ### a2 · From the Sun to an Idli: follow the energy (25 min)
 - **safety:** Raw rice and dal are for looking only, not for eating, and small children must not put grains in their mouths or noses. If anyone has a food allergy, use pictures instead of the grains.
-- **record:** A drawn chain of boxes with arrows from the Sun to an idli, with a short label in every box, and a second chain of your own choice.
+- **record:** A row of labelled cards from the Sun to an idli, and a second row of your own choice. Take a photo of both rows.
 - **s1 (7 min)**  
-  *Parent does:* Look at the rice and dal. Ask where each came from. Draw the first four boxes on a sheet of paper: Sun, rice and dal plants, grains, batter. Draw arrows between them.  
+  *Parent does:* Look at the rice and dal. Ask where each came from. Cut a sheet of paper into small cards. Write one word on each card: Sun, rice and dal plants, grains, batter. Lay the cards in a row.  
   *Parent says:* An idli is made of rice and dal. Where did they come from? What did the plants need to grow? Let's start at the idli and go backward until we reach the Sun.  
-  *Child mode:* Rice and dal came from plants. What did the plants need? Draw the boxes.
+  *Child mode:* Rice and dal came from plants. What did the plants need? Put the cards in order.
   - Ask: What does a rice plant take from the sky to make the grains? (good: Sunlight.; Air.; Sunlight and a gas from the air.)
   - Note: A leaf uses sunlight to join water and carbon dioxide from the air into sugar. This is photosynthesis. The sugar is the plant's stored energy. The sugar ends up in the grain.
 - **s2 (8 min)**  
-  *Parent does:* Add the last boxes: idli on the plate, you eating, you running. Ask your child to say what changes into what at each arrow. Write it on the arrow.  
+  *Parent does:* Add the last cards: idli on the plate, you eating, you running. Ask your child to say what changes into what between each two cards.  
   *Parent says:* Go forward now. The Sun's light becomes sugar in the leaf. The sugar becomes the grain. The grain becomes the idli. The idli becomes your energy. What does your energy do?  
-  *Child mode:* Go forward from the Sun to you. What changes into what on each arrow?
+  *Child mode:* Go forward from the Sun to you. What changes into what, from one card to the next?
   - Note: On the last arrows, the energy becomes movement and heat in the child's body. A child's body stays warm because food energy keeps turning into heat. Nothing is lost. The energy only changes form.
   - Check: Which is the best way to say where the energy in an idli came from? → **From sunlight that the rice and dal plants stored**
 - **s3 (7 min)**  
-  *Parent does:* Ask your child to choose another thing and follow its energy back. A banana, a glass of milk, or a cotton shirt are good choices. Draw the second chain. For milk, include the grass or fodder that the cow eats.  
+  *Parent does:* Ask your child to choose another thing and follow its energy back. A banana, a glass of milk, or a cotton shirt are good choices. Make the second chain with new cards. For milk, include the grass or fodder that the cow eats.  
   *Parent says:* Choose something else. A banana, a glass of milk or a shirt. Where did it come from? What did that need? Keep asking until you reach the Sun.  
   *Child mode:* Pick another thing. A banana or a glass of milk. Follow it back to the Sun.
   - Note: A glass of milk goes back to the cow, then to the grass or fodder she ate, then to sunlight. A cotton shirt goes back to a cotton plant, then to sunlight. Few things around us do not start from the Sun, so it is good to try a hard one. With 2 to 4 children, each draws a different second chain and the group compares them.
@@ -495,7 +495,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
   - Note: Good answers can include the heat inside the Earth and the energy of atoms in a nuclear power station. Almost everything else leads back to the Sun, including coal, oil, wind, rain and food.
 ### a3 · Comet Tail Model: a tail that always points away (20 min)
 - **safety:** Keep fingers, hair and the thread away from the fan blades. Use the lowest speed, keep the guard on, and switch the fan off before you move it.
-- **record:** Draw the comet in the middle of a page and the fan at four places around it (in front, to the left, to the right, behind). Draw the tail on the comet each time. Write what you notice about the direction of the tail.
+- **record:** Draw the comet in the middle of a page and the fan at four places around it (in front, to the left, to the right, behind), with the tail each time. Or take four photos instead. Write what you notice about the direction of the tail.
 - **s1 (5 min)**  
   *Parent does:* Roll the clay ball. Press a long wisp of cotton wool onto one side of it. Tie the thread round the clay and tie the other end to a pencil. Ask your child to guess which way the tail will point when the fan is switched on.  
   *Parent says:* A comet is a ball of ice and dust. Near the Sun it grows a tail. The fan will be our Sun. When the fan blows on the comet, which way do you think the tail will point? Why?  
@@ -509,9 +509,9 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
   - Note: The tail streams away from the fan from every side. When you walk the comet toward the fan, the tail trails behind it. When you walk it away, the tail goes in front. A real comet's tail goes in front in the same way when the comet is leaving the Sun. Keep the comet steady so that it does not touch the guard. Switch the fan off before you adjust anything. Use the lowest speed. If the tail hangs limp, use a thinner wisp or a smaller clay ball, or move the comet a little closer to the fan, without touching the guard. With 2 to 4 children: one holds the comet, one moves the fan, one draws and one writes. Swap after each side.
   - Check: As the model comet goes round the fan, which way does its tail point? → **Away from the fan, wherever the comet is**
 - **s3 (7 min)**  
-  *Parent does:* Talk about what the model gets right and wrong. Read the notes together. Draw a real comet with its tail pointing away from the Sun, at two places on its path.  
+  *Parent does:* Talk about what the model gets right and wrong. Then call the fan the Sun and walk the comet round it. At each stop, ask your child to point to where the tail goes.  
   *Parent says:* In space, there is no wind from a fan. The Sun pushes the comet's dust and gas with its light, and with a stream of tiny particles. That push is far gentler than a fan. But the direction is the same.  
-  *Child mode:* The Sun pushes a comet's tail. Draw a comet in two places, with the tail pointing away from the Sun.
+  *Child mode:* The Sun pushes a comet's tail. Walk the comet round the Sun. At each stop, point to the tail.
   - Note: The model shows the direction well. It is not exact. Real comet tails are blown mainly by the stream of particles from the Sun, called the solar wind, and by the push of sunlight on dust. The push of light is tiny, but a comet's dust is so light that it adds up.
 ### a4 · Feel the Invisible Warmth: infrared from a warm tumbler (20 min)
 - **safety:** A grown-up fills the tumblers. The water must be warm, not hot. Never use boiling or kettle water. Test it with the back of your hand: you must be able to hold your hand against the tumbler for 5 seconds.
@@ -536,12 +536,12 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 ## Projects
 ### p1 · The Grease-Spot Light Meter: which torch is brighter, and by how much? (70 min, 2 days)
 - **safety:** Never shine a torch into anyone's eyes. Keep the cooking oil away from the torches and wipe your hands afterwards. Do not open the key-ring torches: their small button batteries are dangerous if swallowed, so keep them from little children. If anyone has a nut allergy, use coconut or sunflower oil, not groundnut oil.
-- **record:** A table with the distance of each torch from the paper when the spot vanished, and the number you get when you multiply each distance by itself and divide the bigger answer by the smaller. Draw the set-up and write what the spot looked like when it vanished.
+- **record:** A table with the distance of each torch from the paper when the spot vanished, and the number you get when you multiply each distance by itself and divide the bigger answer by the smaller. Take a photo of the set-up and write what the spot looked like when it vanished.
 - **schedule:** day 1: Make the oil spot paper. Compare the phone torch with one key-ring torch and work out how many times brighter the phone torch is. (45 min); day 2: Tape the two key-ring torches together and test whether they give twice the light of one. (25 min)
 - **s1 (8 min)**  
   *Parent does:* Show your child the two torches. Ask which they think is brighter, and by how many times. Write the guess. Explain that the paper with the oil spot will be the judge.  
-  *Parent says:* Which torch is brighter, the phone torch or the small key-ring torch? How many times brighter? Why do you think so? We will build a meter to find out.  
-  *Child mode:* Which torch is brighter, the phone or the key-ring torch? How many times brighter? Why?
+  *Parent says:* We will build a meter to find out which torch is brighter, the phone torch or the small key-ring torch. First, what do you guess? How many times brighter? Why do you think so?  
+  *Child mode:* Look at the two torches. Which looks brighter to you?
   - Ask: How could you tell exactly how many times brighter one torch is? (good: Count how far away I need to put each torch to make them match.; Compare the patches they make on a wall.; I do not know.)
   - Note: Do not correct the guess. Children often guess that the phone torch is about twice as bright, and are surprised by the answer. A strong phone torch is often many times brighter than a key-ring torch.
 - **s2 (12 min) · grown-up needed**  
@@ -570,14 +570,14 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 ### c1 · Ice Challenge: melt one cube first, and keep another one longest (35 min)
 - **problem:** You have two ice cubes of the same size and 30 minutes of sunshine. Using only things from the kitchen, make one cube melt as fast as you can, and keep the other cube from melting for as long as you can.
 - **safety:** Never look straight at the Sun. Shiny foil can throw a bright reflection into eyes, so keep it low and point it away from people. Fold the foil edges over, because cut foil can be sharp.
-- **your turn:** Sketch your two designs. Build them and start the timer together. Which cube melted first and which lasted longest? What worked best, and what would you change? Try again with one change.
+- **your turn:** Sketch your two designs, or describe them to a grown-up. Build them and start the timer together. Which cube melted first and which lasted longest? What worked best, and what would you change? Try again with one change.
 - **constraints:** The two cubes must start the same size and sit in the same sunshine.; You may use paper, cloth, foil, cups, jars, plates and cardboard. You may not use any heater, stove or hot water.; You may not touch the cubes after you start the timer.; Stop at 30 minutes, or when the first cube is gone.
 - **general:** Put one cube on black paper, and the other on white paper, in the sun.; Cover the cube you want to keep with a foil dome that has no gap, with the shiny side out.; Put the cube you want to melt first in a clear jar on black paper, so that heat stays in.
 - **creative:** Make a small tent of foil over the cube you want to keep, and put white paper under it, so that very little light is absorbed.; Make a cone of foil round the cube you want to melt, to bounce extra sunlight onto it.; Stand the cube you want to keep inside a plastic cup, inside a bigger cup with a gap of air between, and cover with foil.
 - **s1 (8 min)**  
   *Parent does:* Read the problem together. Look at the constraints. Ask your child to sketch two designs, one to melt a cube fast and one to keep a cube from melting. Ask what they know about black, white and shiny things in the sun.  
   *Parent says:* You want one cube to melt fast and one to last. What did black paper do in the Ice Race? What does a shiny sheet of foil do with sunlight? Sketch your ideas first.  
-  *Child mode:* Make one cube melt fast and one cube last long. Draw your ideas first.
+  *Child mode:* Make one cube melt fast and one cube last long. Draw your ideas first, or tell them to a grown-up.
   - Ask: What would make a cube melt faster? (good: A black surface.; Keeping the heat in with a jar.; Bouncing more sunlight onto it.)
 - **s2 (15 min)**  
   *Parent does:* Build the two designs. Take the ice cubes out of the freezer only when you are ready. Put both set-ups in the same sunshine and start the timer. Look every 5 minutes.  
@@ -587,7 +587,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 - **s3 (12 min)**  
   *Parent does:* At 30 minutes, or when the first cube is gone, stop. Compare the two cubes. Write down what worked and what did not. Make one change and try again if there is time.  
   *Parent says:* Which cube melted first? Which lasted longest? Why do you think your design did that? What is one change you would try next?  
-  *Child mode:* Which cube melted first? Which lasted longest? What would you change?
+  *Child mode:* Look at both cubes. Why did your designs work, or not work?
   - Check: A shiny foil dome helped to keep a cube from melting in the sun. Why? → **It reflected most of the sunlight, so little was turned into heat**
 ### c2 · Power Cut Reading: light a page with one small torch (30 min)
 - **problem:** There is a power cut. You have one small torch, one page of a book, and a room with white walls. The torch must stay at least 50 centimetres from the page. Place the torch, and anything else you can find, so that the page is as bright as possible.
@@ -599,7 +599,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 - **s1 (6 min)**  
   *Parent does:* Read the problem together. Ask your child to sketch two plans. Ask what happens to light as it travels from the torch to the page.  
   *Parent says:* A small torch 50 centimetres away makes a dim page. Light spreads out as it travels. How could you stop it from spreading so much, or collect more of it? Draw two ideas.  
-  *Child mode:* A small torch makes a dim page. Draw two ideas to make the page brighter.
+  *Child mode:* A small torch makes a dim page. Draw two ideas to make the page brighter, or tell them to a grown-up.
   - Ask: What happens to the torch's light by the time it reaches the page? (good: It has spread out.; It is much thinner.; Most of it missed the page.)
 - **s2 (15 min)**  
   *Parent does:* Build the first plan and test it. Read the same line of small print. Rate it from 1 to 5 for how easy it is to read. Then build the second plan and rate it.  
@@ -609,7 +609,7 @@ Mr Herschel wrote up what he had found, and it was printed for other scientists 
 - **s3 (9 min)**  
   *Parent does:* Compare the plans. Talk about why the best one worked. Try to improve it with one more change.  
   *Parent says:* Which plan was best? Where did the extra light on the page come from? What would you change next?  
-  *Child mode:* Which plan was best? Why? What would you change?
+  *Child mode:* Compare your two plans. Find where the extra light on the page came from.
   - Check: A white wall behind the torch made the page easier to read. Why? → **The wall bounced light that would otherwise have been lost onto the page**
 
 ## Worksheets

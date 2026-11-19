@@ -742,7 +742,7 @@
           "id": "s4",
           "mins": 4,
           "do": "Play the last eight cards. Add up the points on the score sheet.",
-          "say": "These are the last eight cards. Which mat have we used the least? Why do you think so?",
+          "say": "These are the last eight cards. Same as before: put the card on a mat, say why, then check.",
           "kid": "Play the last eight cards. Count your points.",
           "context": "In this step you play the last eight cards and add up the points.",
           "parent": "Count the cards on each mat. BOTH usually has the fewest. That is because very few things dissolve well in both water and oil. Soap and hand sanitiser are the special ones."
@@ -846,7 +846,7 @@
           "what": "Guess, set up six jars, stir, wait, look and write what you see."
         }
       ],
-      "record": "Fill in the table, a row for each colour. Draw the six jars at the end with their colours. Then write what you think, what you saw, and why.",
+      "record": "Fill in the table, a row for each colour. Take a photo of the six jars at the end, or draw them. Then write what you think, what you saw, and why.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results",
@@ -897,10 +897,10 @@
           "mins": 5,
           "do": "Show your child the powders, the water and the oil. Ask for a guess and a reason for each colour. Write the guesses.",
           "say": "Here are three colours and two liquids. Where will each colour go, into the water or into the oil? Why do you think so?",
-          "kid": "There are three colours and two liquids. Where will each colour go? Why do you think so?",
+          "kid": "Make a guess for each colour: water or oil?",
           "ask": [
             {
-              "q": "Why do you think turmeric will go into the oil?",
+              "q": "Where do you think the turmeric will go, and why?",
               "good": [
                 "Turmeric stains my plate and water does not wash it.",
                 "Oil is yellow like turmeric.",
@@ -1043,7 +1043,7 @@
           "what": "Chill one bottle and warm one, put a balloon on each, wait, then measure the balloons."
         }
       ],
-      "record": "Fill in the table. Draw the two bottles with their balloons. Then write what you think, what you saw, and why.",
+      "record": "Fill in the table. Take a photo of the two bottles with their balloons, or draw them. Then write what you think, what you saw, and why.",
       "example_chart": {
         "type": "table",
         "title": "Made-up example results (your numbers will differ)",
@@ -1138,7 +1138,7 @@
           "id": "s4",
           "mins": 5,
           "do": "1. Wrap the string around the widest part of each balloon. 2. Hold the string flat along the ruler. 3. Write each length in the table. 4. Look at the drink in each bottle.",
-          "say": "Wrap the string around the middle of the balloon. Mark where it meets. Lay it along the ruler. Which balloon is bigger? What does the drink in each bottle look like now?",
+          "say": "Wrap the string around the middle of the balloon. Pinch where it meets. Lay it along the ruler. Which balloon is bigger? What does the drink in each bottle look like now?",
           "kid": "Wrap the string round each balloon. Measure it on the ruler. Write the numbers.",
           "parent": "Expect the warm bottle's balloon to be clearly bigger, and the drink inside to look flatter. The cold bottle's balloon is smaller, and the drink still has bubbles. Your numbers will be different from the example, and a balloon can be small or large depending on how stretchy it is, so compare the two balloons only with each other. If the two balloons are the same size, swirl the warm bottle ten more times and measure again. If both are tiny, the soda was flat before you began, so try a fresh bottle.",
           "context": "In this step you measure the balloons and look at each drink."
@@ -1219,7 +1219,7 @@
           "what": "Fill two bags with sweet milk, pack one in ice and one in ice with salt, shake for ten minutes, then compare."
         }
       ],
-      "record": "Fill in the table. Draw what the milk looks like in each bag. Then write what you think, what you saw, and why.",
+      "record": "Fill in the table. Tell your grown-up what the milk looks like in each bag, or draw it. Then write what you think, what you saw, and why.",
       "setup": [
         {
           "art": "A cup of milk and sugar being stirred, then poured half into each of two small zip bags and sealed.",
@@ -1335,7 +1335,7 @@
       "title": "Fizz Watch: where does the fizz come from?",
       "mins": 15,
       "days": 1,
-      "context": "This is the first thing to do in the unit. You watch a cold soda being poured and look for where the bubbles begin.",
+      "context": "This is the first thing to do in the unit. You watch a cold soda being poured and look for where the bubbles begin. You will find out where the gas was hiding before the bottle was opened.",
       "materials": [
         {
           "item": "one chilled bottle of soda water or a fizzy drink",
@@ -1361,7 +1361,7 @@
           "what": "Pour the soda, watch where the bubbles start, drop in raisins, and stir one glass to see how quickly it goes flat."
         }
       ],
-      "record": "Draw the glass with the bubbles. Mark where the bubbles begin. Write one sentence saying where you think the gas was before you opened the bottle.",
+      "record": "Draw the glass with the bubbles and mark where they begin, or point and tell your grown-up. Write one sentence saying where you think the gas was before you opened the bottle.",
       "setup": [
         {
           "art": "A child slowly pouring cold soda down the side of a clear glass, with bubbles forming along the glass wall.",
@@ -1381,8 +1381,8 @@
           "id": "s1",
           "mins": 4,
           "do": "1. Pour the cold soda slowly into one glass. 2. Look closely for the first minute. 3. Ask your child where the bubbles begin and where they go.",
-          "say": "Pour it slowly and watch. Where do the bubbles begin? Where do they go? Before we opened the bottle, was there any gas in it? Why do you think so?",
-          "kid": "Pour the soda slowly. Watch the bubbles. Where do they start? Where do they go?",
+          "say": "Pour it slowly and watch. Where do the bubbles begin? Where do they go?",
+          "kid": "Pour the soda slowly and find the spot where the bubbles start.",
           "ask": [
             {
               "q": "Where do you think the gas was before the bottle was opened?",
@@ -1400,8 +1400,8 @@
           "id": "s2",
           "mins": 6,
           "do": "1. Drop six raisins into the glass. 2. Watch for five minutes. 3. Count how many times one chosen raisin reaches the top in the first two minutes. Write the number.",
-          "say": "Watch the raisins. What do they do? Why do you think they move?",
-          "kid": "Drop in six raisins. Watch for five minutes. What do they do?",
+          "say": "Watch the raisins. What do they do? Why do you think they move? Pick one raisin and count how many times it reaches the top.",
+          "kid": "Drop in six raisins. Pick one and count how many times it reaches the top.",
           "parent": "The raisins sink at first. Bubbles collect on their wrinkled skins, and the raisins rise to the top. At the top the bubbles pop, and the raisins sink again. They keep dancing, a few trips a minute at first, then slower as the soda goes flat. If nothing happens, use a fresh, very fizzy soda that was cold and unopened, as flat soda will not work; thin-skinned dry raisins work best.",
           "context": "In this step you drop raisins in the soda and watch the bubbles lift them."
         },
@@ -1432,7 +1432,7 @@
       "title": "Look, Torch and Wait: three kinds of mixtures",
       "mins": 30,
       "days": 1,
-      "context": "In this activity you test four glasses with three tests. You look, you shine a torch, and you wait. Then you sort them into solution, suspension and colloid.",
+      "context": "In this activity you test four glasses with three tests. You look, you shine a torch, and you wait. Then you sort them into solution, suspension and colloid. You will find out why salt water is clear but milk is not.",
       "materials": [
         {
           "item": "four clear glasses",
@@ -1530,10 +1530,10 @@
           "mins": 4,
           "do": "Teach the three words: solution, suspension and colloid. Ask your child to sort the glasses into the three kinds using the look, torch and wait tests.",
           "say": "A solution is clear and never settles. A suspension is cloudy and settles. A colloid is cloudy and never settles, and a torch shows the beam. Which glass is which?",
-          "kid": "Sort the glasses. Clear and never settles: solution. Cloudy and settles: suspension. Cloudy and never settles: colloid.",
+          "kid": "Sort the four glasses into solution, suspension and colloid.",
           "check": {
             "t": "mcq",
-            "q": "A glass is cloudy, a torch beam shows inside it, and nothing settles after an hour. What kind of mixture is it?",
+            "q": "A glass is cloudy, a torch beam shows inside it, and nothing settles after twenty minutes. What kind of mixture is it?",
             "options": [
               "A colloid",
               "A solution",
@@ -1552,7 +1552,7 @@
       "title": "Thread on Ice: can salt make ice grab a thread?",
       "mins": 12,
       "days": 1,
-      "context": "In this activity you lay a thread on an ice cube, add a pinch of salt and try to lift the ice by the thread.",
+      "context": "In this activity you lay a thread on an ice cube, add a pinch of salt and try to lift the ice by the thread. You will find out how salt can make ice hold on to a thread.",
       "materials": [
         {
           "item": "a clear glass of very cold water, with a few ice cubes, from the fridge",
@@ -1578,7 +1578,7 @@
           "what": "Float an ice cube, lay a thread on it, add salt, wait one minute and try to lift the cube."
         }
       ],
-      "record": "Draw the glass, the ice cube and the thread. Write how long you waited and what happened when you lifted the thread.",
+      "record": "Write how long you waited and what happened when you lifted the thread. Draw the glass, the ice cube and the thread, or take a photo.",
       "setup": [
         {
           "art": "A clear glass of cold water with a large ice cube floating, and a cotton thread laid across the top of the cube.",
@@ -1599,7 +1599,7 @@
           "mins": 3,
           "do": "1. Put two ice cubes in a glass of cold water so they float. 2. Lay a thread across the top of each cube. 3. Ask your child whether the thread will lift the ice when you pull it.",
           "say": "If you pull this thread up, will the ice come with it? Now, what if we sprinkle salt on it first? Why do you think so?",
-          "kid": "Lay the thread on the ice. Will it lift the ice? What if we add salt?",
+          "kid": "Lay a thread across each ice cube. Will the ice lift? Guess.",
           "parent": "Do not say what will happen. Most children think the thread will not lift the ice. Try a gentle lift first to show that the thread slides off.",
           "context": "This is the first step of the Thread on Ice activity. You guess before you try."
         },
@@ -1617,7 +1617,7 @@
           "mins": 3,
           "do": "Ask your child to explain what they saw. Then give the explanation.",
           "say": "What did the thread do this time? What do you think the salt did? Where did the cold come from?",
-          "kid": "What did the salt do? Why did the ice stick to the thread?",
+          "kid": "Look at the ice and the thread. Tell your grown-up what you think the salt did.",
           "parent": "A strong answer goes like this. The salt dissolves in the thin film of water on the ice, and that makes a little ice melt. Melting takes heat, so the water around the thread becomes colder than zero degrees. That small amount of salty water gets mixed with the water from the melting ice, so the salt spreads thinner. The very cold ice nearby then freezes that water again. As it freezes, it traps the thread inside the ice.",
           "check": {
             "t": "mcq",
@@ -1670,7 +1670,7 @@
       "setup": [
         {
           "art": "A grown-up holding a small piece of green chilli beside a glass of water and a bowl of curd, and a child holding a score sheet.",
-          "caption": "1. Draw the order from the paper slips. The grown-up eats the first small piece of chilli. Score the heat."
+          "caption": "1. Pick the order from the paper slips. The grown-up eats the first small piece of chilli. Score the heat."
         },
         {
           "art": "The same grown-up sipping water, and the child writing a score.",
@@ -1685,7 +1685,7 @@
         {
           "id": "s1",
           "mins": 5,
-          "do": "1. Set out the chilli, water and curd. 2. Explain the 0 to 5 score: 0 is no heat and 5 is very hot. 3. Ask your child to guess what will soothe the chilli best and why. 4. Write NOTHING, WATER and CURD on three slips of paper. Fold the slips and draw them one by one to set the order.",
+          "do": "1. Set out the chilli, water and curd. 2. Explain the 0 to 5 score: 0 is no heat and 5 is very hot. 3. Ask your child to guess what will soothe the chilli best and why. 4. Write NOTHING, WATER and CURD on three slips of paper. Fold the slips and pick them one by one to set the order.",
           "say": "A grown-up will eat a small piece of chilli. Then we try water and curd, one at a time. Which do you think will soothe it better? Why do you think so?",
           "kid": "A grown-up eats a little chilli. Which soothes it better, water or curd? Why?",
           "adult": true,
@@ -1740,7 +1740,7 @@
       "title": "TDS Detective: how much is dissolved in your water?",
       "mins": 20,
       "days": 1,
-      "context": "In this activity you use a TDS meter, like the one in many water purifiers, to find out how much is dissolved in different waters. If you do not have a meter, a neighbour, a relative or a water purifier shop may let you borrow theirs.",
+      "context": "In this activity you use a TDS meter, like the one in many water purifiers, to find out how much is dissolved in different waters. You will find out which water has the most dissolved in it. If you do not have a meter, a neighbour, a relative or a water purifier shop may let you borrow theirs.",
       "materials": [
         {
           "item": "a TDS meter (a small hand-held one, Rs 150 to 400 online or at an aquarium shop; many homes with a water purifier have one, or a neighbour may lend it). No meter: use the evaporation test in step 2",
@@ -1767,7 +1767,7 @@
           "what": "Measure five glasses of water with a TDS meter and compare the readings."
         }
       ],
-      "record": "Write the five readings in a table. Draw a bar for each water and mark which has the most dissolved.",
+      "record": "Write the five readings in a table. Draw a bar for each water, or line up spoons or coins as bars, and mark which has the most dissolved.",
       "setup": [
         {
           "art": "A small hand-held TDS meter with its metal probe dipping into a clear glass of tap water, the screen showing a number.",
@@ -1812,7 +1812,7 @@
           "mins": 5,
           "do": "Ask your child to compare the readings. Ask why the sugar water and the salt water gave such different readings.",
           "say": "Look at the numbers. Which glass is highest? Which is lowest? Sugar and salt both dissolved. Why did they read so differently?",
-          "kid": "Compare the numbers. Why did sugar read so low and salt so high?",
+          "kid": "Put the glasses in a line from the lowest number to the highest.",
           "check": {
             "t": "mcq",
             "q": "Sugar dissolved fully in the water, yet the TDS meter barely changed. What is the best explanation?",
@@ -1835,7 +1835,7 @@
       "title": "Kitchen Dyes: which colours stay in cloth?",
       "days": 2,
       "mins": 70,
-      "context": "In this project you make dyes from kitchen things, dye white cloth, and wash it the next day to see which colours stay.",
+      "context": "In this project you make dyes from kitchen things, dye white cloth, and wash it the next day to see which colours stay. You will find out which kitchen colours the cloth holds on to and which wash away.",
       "materials": [
         {
           "item": "four squares of white cotton cloth, 15 centimetres by 15 centimetres, cut from an old white handkerchief or sheet",
@@ -1908,7 +1908,7 @@
           "mins": 5,
           "do": "Show your child the four materials and the white cloth. Ask which dye they think will stay in the cloth best and which will wash out first.",
           "say": "We will make four dyes. Then we will wash the cloth. Which dye do you think will stay the longest? Which will wash out first? Why do you think so?",
-          "kid": "There are four dyes. Which will stay in the cloth after washing? Which will wash out? Why?",
+          "kid": "Guess which dye will stay and which will wash out.",
           "ask": [
             {
               "q": "Why do you think that colour will stay best?",
@@ -1926,8 +1926,8 @@
           "id": "s2",
           "mins": 20,
           "do": "1. A grown-up puts each material in its own pan with two cups of water. 2. Bring each to a gentle simmer for ten minutes. 3. Strain the dye into a cup or a bowl. 4. Let it cool until comfortable to touch.",
-          "say": "A grown-up will simmer each material in water for ten minutes. The hot water pulls the colour out of the material. Which colours dissolved into the water?",
-          "kid": "A grown-up simmers each material in water. The colour dissolves into the water. Let it cool.",
+          "say": "A grown-up will simmer each material in water for ten minutes. The hot water pulls the colour out of the material. The colour dissolves into the water.",
+          "kid": "A grown-up simmers each material in water. Watch the water change colour. Let it cool.",
           "adult": true,
           "parent": "Hot water dissolves colour faster, just as it dissolves sugar faster. Strain out the skins, tea leaves and beetroot, so you are left with coloured water. Label the four bowls. Old pans may stay stained. With 2 to 4 children, each child takes one dye and its cloth. One child alone can do two dyes (onion and turmeric) on day 1 if time is short. Keep children away from the stove.",
           "context": "In this step a grown-up makes four dyes by simmering kitchen things in water."
@@ -1946,7 +1946,7 @@
           "mins": 10,
           "wait": "Leave to dry overnight",
           "do": "1. Next day, cut each dry cloth in half. 2. Keep one half dry. 3. Wash the other half in warm soapy water, rubbing it 20 times. 4. Rinse and hang to dry.",
-          "say": "Cut each cloth in half. Keep one half as it is. Wash the other half with soap and rub it twenty times. Which colours stay? Which fade?",
+          "say": "Cut each cloth in half. Keep one half as it is. Wash the other half with soap and rub it twenty times.",
           "kid": "Cut each cloth in half. Wash one half. Rub it twenty times. Rinse and dry it.",
           "adult": true,
           "parent": "Washing is a fair test only if every cloth is rubbed the same number of times and rinsed the same way. Dry the washed halves quickly in a breeze or under a fan.",
@@ -2010,7 +2010,7 @@
         "Put a damp cloth over a bowl and tip the rava and salt on it with water. The salt water drips through and the rava stays on the cloth.",
         "Test your salt pile by dropping a little of it into clean water. It should dissolve and leave no bits. Do not taste it."
       ],
-      "your_turn": "Draw your plan as a chain of steps. Write the reason for each step. Try it, then write down which pile was hardest to get clean and why. Could you change the order of the steps? What would go wrong?",
+      "your_turn": "Show your plan as a chain of steps: draw it, or lay out cards or objects in order. Write the reason for each step. Try it, then write down which pile was hardest to get clean and why. Could you change the order of the steps? What would go wrong?",
       "setup": [
         {
           "art": "A steel bowl holding a mix of rice, rava, white salt and steel paper clips.",

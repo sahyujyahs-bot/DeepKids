@@ -643,7 +643,7 @@
      "mins": 3,
      "context": "This is the first step of Wake or Wait. You set up the mats, the seeds and the cards.",
      "do": "1. Give each player a mat and six seeds. 2. Shuffle the cards and put them face down. 3. Choose the first reader.",
-     "say": "In this game you are seeds in a field. Each round shows a sign about the weather. You choose how many seeds to wake. A good rain makes them grow. A bad spell loses them.",
+     "say": "In this game you grow seeds in a field. Each round shows a sign about the weather. You choose how many seeds to wake. A good rain makes them grow. A bad spell loses them.",
      "kid": "Put six seeds on your mat. The cards are the weather. You choose when to wake.",
      "parent": "Seeds are small, so keep them away from toddlers and out of mouths. No printer? Write each card on a small slip of paper. With one child and a parent, both play and take turns as reader. Playing alone, turn the card so only the sign shows, write your choice, then turn it over."
     },
@@ -653,7 +653,7 @@
      "context": "In this step you play one practice round to learn how the game works.",
      "do": "Play one practice round. The reader turns over a card and reads only the sign. Each player picks a number of seeds, then the reader reads the back.",
      "say": "The sign is only a clue. It may be a good clue or a trick. How many seeds will you wake? Why that many?",
-     "kid": "Read the sign. Wake 0, 1, 2 or 3 seeds. Say why.",
+     "kid": "Read the sign. Wake 0, 1, 2 or 3 seeds.",
      "ask": [
       {
        "q": "Why would you wake only some of your seeds, not all of them at once?",
@@ -699,8 +699,8 @@
      "mins": 4,
      "context": "In this step you talk about what the game showed.",
      "do": "Look at who scored the most. Ask the questions below. Then ask what a plant might gain if only some of their seeds wake each year.",
-     "say": "Who won? Did the player who woke the most seeds win? What did the winner do differently?",
-     "kid": "Who won? Did the winner wake the most seeds? Talk about what they did.",
+     "say": "Who won? Did the player who woke the most seeds win?",
+     "kid": "Who won? Did the winner wake the most seeds?",
      "ask": [
       {
        "q": "What did the winner do that the others did not?",
@@ -810,7 +810,7 @@
      "context": "In this step you practise one pair before the game starts.",
      "do": "Do one practice pair. Pick the tamarind seed and the matching key together. Read both cards aloud.",
      "say": "The tamarind seed has a coat so hard that water hardly gets in. What key would help the seed? Why?",
-     "kid": "Find the tamarind seed card. Which key helps the seed? Say why.",
+     "kid": "Find the tamarind seed card and the key card that matches it.",
      "ask": [
       {
        "q": "Why would a rough rub help a tamarind seed?",
@@ -1535,7 +1535,7 @@
    "title": "The Waking Curve: do all the seeds in a packet wake together?",
    "mins": 47,
    "days": 5,
-   "context": "This is the waking curve test. You put 30 moong seeds on a wet cloth and count how many have a root every 12 hours. Then you draw how the count grows.",
+   "context": "This is the waking curve test. You put 30 moong seeds on a wet cloth and count how many have a root every 12 hours. You will find out whether all the seeds wake at the same time, and how far apart the first and last are. Then you draw how the count grows.",
    "question": "Do 30 seeds on one wet cloth all wake at the same time? If not, how far apart are the first and the last?",
    "predict": "Before you start, guess two things. How many hours will the first seed take to show a root? Will all 30 wake in the same hour, or one by one? Say why you think so.",
    "fair_test": "Plate A gets seeds from one packet. Plate B gets seeds from an older packet, or from the same packet if you have only one. Both plates get the same kind of moong, the same number of seeds, the same kind of cloth, the same water and the same warm place. So only the age of the seeds is different, or nothing is different if you have just one packet. You count at the same hours every time. A seed counts only when you can see a white root.",
@@ -1663,7 +1663,7 @@
      "context": "This is the first step of the waking curve test. You guess before you start.",
      "do": "Show your child the seeds, the plates and the cloths. Ask for both guesses and the reasons. Write the guesses at the top of the table.",
      "say": "We will count when thirty moong seeds wake up. How long will the first one take? Will all thirty wake at the same time? Why do you think so?",
-     "kid": "Thirty seeds lie on one wet cloth. Will they all wake together? Why do you think so?",
+     "kid": "Thirty seeds will lie on one wet cloth. Make your guess before we start.",
      "ask": [
       {
        "q": "Why do you think they will wake together, or one by one?",
@@ -1720,7 +1720,7 @@
      "mins": 6,
      "context": "In this step you make the last two counts, at 72 hours and 96 hours.",
      "do": "Count both plates at 72 hours and at 96 hours. Write the numbers. Note how many seeds still have no root.",
-     "say": "Some seeds are still asleep. Are they dead? How could you find out?",
+     "say": "Some seeds still have no root. Count how many.",
      "kid": "Count at 72 hours and 96 hours. How many have no root?",
      "ask": [
       {
@@ -1845,7 +1845,7 @@
      "what": "Count the shoots up, 7 days after sowing. Tip out the tumblers and look at the seeds. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table at each count. Draw the tumbler that held the deepest mustard seeds, and show what you found when you dug them up. Draw a bar chart of the shoots up on the last count.",
+   "record": "Fill in the table at each count. Take a photo of what you found when you dug up the deepest mustard seeds, or tell your grown-up what you saw. Draw a bar chart of the shoots up on the last count.",
    "setup": [
     {
      "art": "Six tumblers in a row, labelled Mustard 1, Mustard 3, Mustard 6, Chana 1, Chana 3 and Chana 6, with chana soaking in a bowl beside them.",
@@ -1956,7 +1956,7 @@
      "id": "s4",
      "mins": 4,
      "context": "In this step you count the first shoots, 3 days after sowing.",
-     "do": "Look at each tumbler. Count the green shoots that have come up through the soil. Write the numbers in the table.",
+     "do": "After 3 days, look at each tumbler. Count the green shoots that have come up through the soil. Write the numbers in the table.",
      "say": "Which tumblers have shoots? Which have none? Does this match your guess?",
      "kid": "Count the green shoots in each tumbler. Write them down.",
      "parent": "Mustard from 1 centimetre is usually up by now. Chana is slower. If nothing is up, that is normal for chana, so keep waiting.",
@@ -1966,7 +1966,7 @@
      "id": "s5",
      "mins": 3,
      "context": "In this step you count the shoots again, 5 days after sowing.",
-     "do": "Count the green shoots again in every tumbler. Write the numbers in the table. Water a little if the soil is dry.",
+     "do": "After 5 days, count the green shoots again in every tumbler. Write the numbers in the table. Water a little if the soil is dry.",
      "say": "Have any shoots come up from the deep tumblers? Which?",
      "kid": "Count the shoots again. Add a little water if the soil is dry.",
      "wait": "Count 5 days after sowing"
@@ -1975,8 +1975,8 @@
      "id": "s6",
      "mins": 10,
      "context": "In this step you count the shoots for the last time and dig up the seeds that did not reach the top.",
-     "do": "1. Count the shoots for the last time. 2. Tip each tumbler out slowly onto newspaper. 3. Find the seeds that did not reach the top. 4. Look at each one. Is there a root? Is there a shoot? 5. Draw the longest pale shoot you find.",
-     "say": "Look at the seeds that never reached the top. Did they grow at all? What do you see?",
+     "do": "1. After 7 days, count the shoots for the last time. 2. Tip each tumbler out slowly onto newspaper. 3. Find the seeds that did not reach the top. 4. Look at each one. Is there a root? Is there a shoot? 5. Measure the longest pale shoot you find with the ruler.",
+     "say": "Look at the seeds that never reached the top. Did they grow at all?",
      "kid": "Tip out the tumblers. Look at the seeds that did not reach the top.",
      "ask": [
       {
@@ -2065,7 +2065,7 @@
      "what": "Look at the moved cup. Say what you think, what you saw and why."
     }
    ],
-   "record": "Fill in the table on days 3, 5 and 6. Draw one dark shoot and one window shoot side by side. Write the colour of each. On day 6, draw the moved cup.",
+   "record": "Fill in the table on days 3, 5 and 6. Take a photo of one dark shoot and one window shoot side by side. Write the colour of each. On day 6, take a photo of the moved cup, or draw it.",
    "setup": [
     {
      "art": "Two clear cups lined with kitchen tissue, each with five soaked moong seeds pressed between the tissue and the glass, and a little water at the bottom.",
@@ -2110,7 +2110,7 @@
      "context": "This is the first step of the pale search test. You guess before you start.",
      "do": "Show your child the cups, the seeds and the dark box. Ask for a guess and a reason. Write it in the table.",
      "say": "We will grow moong in two places. One cup stays in the dark. One sits by a window. After five days, which will be taller? What colour will each be? Why do you think so?",
-     "kid": "One cup stays in the dark and one sits by the window. Which shoots will grow taller? Why do you think so?",
+     "kid": "One cup stays in the dark and one sits by the window. Guess which shoots will grow taller.",
      "ask": [
       {
        "q": "Why do you think the dark seedlings will be shorter, or taller?",
@@ -2147,7 +2147,7 @@
      "id": "s3",
      "mins": 6,
      "context": "In this step you take a quick look and measure the shoots on day 3.",
-     "do": "1. Check both cups after two days. 2. Add water to keep 1 centimetre at the bottom. 3. Open the dark box for less than one minute, in a dim room. 4. Measure the shortest and tallest shoot in each cup. 5. Close the box.",
+     "do": "1. On day 3, check both cups. 2. Add water to keep 1 centimetre at the bottom. 3. Open the dark box for less than one minute, in a dim room. 4. Measure the shortest and tallest shoot in each cup. 5. Close the box.",
      "say": "Quickly now. Look in the dim room and close the lid again. What colour are the dark shoots?",
      "kid": "Take a quick look at both cups. Measure the shortest and tallest shoots. Close the box.",
      "parent": "A short look in dim light does no harm. A long look in bright light starts the greening, which is not what we want to test.",
@@ -2157,9 +2157,9 @@
      "id": "s4",
      "mins": 8,
      "context": "In this step you measure on day 5, compare the two kinds of shoot and move the dark cup to the window.",
-     "do": "1. On day 5, measure the shortest and tallest shoot in both cups. 2. Write the colour of each. 3. Pull out one dark shoot and one window shoot. 4. Lay them side by side on paper and draw them. 5. Move the dark cup to the window.",
-     "say": "Which shoots are taller? Which are paler? Which stand up straight? Draw them side by side.",
-     "kid": "Measure both cups. Pull out one shoot from each. Draw them side by side.",
+     "do": "1. On day 5, measure the shortest and tallest shoot in both cups. 2. Write the colour of each. 3. Pull out one dark shoot and one window shoot. 4. Lay them side by side on paper and compare them. 5. Move the dark cup to the window.",
+     "say": "Which shoots are taller? Which are paler? Which stand up straight?",
+     "kid": "Measure both cups. Pull out one shoot from each. Lay them side by side.",
      "ask": [
       {
        "q": "What differences can you find between the dark shoots and the window shoots?",
@@ -2189,7 +2189,7 @@
      "id": "s5",
      "mins": 5,
      "context": "In this step you see what one day of light does to the pale shoots.",
-     "do": "On day 6, look at the cup you moved. Look at the colour of the tips and the leaves. Compare with the window cup. Draw the moved cup.",
+     "do": "On day 6, look at the cup you moved. Look at the colour of the tips and the leaves. Compare with the window cup. Take a photo of the moved cup, or draw it.",
      "say": "The dark cup has had one day in the light. What has changed? Look at the tips and the leaves.",
      "kid": "Look at the cup you moved. What changed after one day in the light?",
      "parent": "The tips usually show a tinge of green within a day, and the folded leaves begin to open. The long stems stay long. If you see no change, give it one more day. The answer is that a seedling has light sensors. These are tiny proteins that change when light hits them. When they catch light, they tell the seedling to stop stretching, open the leaves and start making chlorophyll.",
@@ -2212,7 +2212,7 @@
    "title": "The Locked Seed: what does a tamarind seed need before water can get in?",
    "mins": 35,
    "days": 3,
-   "context": "This is a hard coat test. You soak tamarind seeds with a hard coat, and you thin the coat of half of them first. Then you find out which ones drink.",
+   "context": "This is a hard coat test. You soak tamarind seeds with a hard coat, and you thin the coat of half of them first. You will find out if a hard coat keeps water out, and if a rub lets it in.",
    "question": "Does a tamarind seed with a hard coat swell in water? Does thinning the coat make a difference?",
    "predict": "Before you start, guess. After two days in water, which seeds will be bigger, the untouched ones or the rubbed ones? Why do you think so?",
    "fair_test": "Both groups have 6 tamarind seeds from the same pulp, the same cup of water and the same warm place. The only difference is whether the coat has been rubbed. We press the seeds in both groups the same way, and weigh them if we have a scale.",
@@ -2265,7 +2265,7 @@
      "what": "Weigh both groups. Say what you think, what you saw and why."
     }
    ],
-   "record": "Write the weights in the table at the start, after 24 hours and after 48 hours. Draw one seed from each group. Write whether each feels hard or soft.",
+   "record": "Write the weights in the table at the start, after 24 hours and after 48 hours. Take a photo of one seed from each group, or draw them. Write whether each feels hard or soft.",
    "setup": [
     {
      "art": "Twelve tamarind seeds on a plate, six marked with a dot on the bottom of the bowl and six waiting to be rubbed.",
@@ -2367,7 +2367,7 @@
      "id": "s4",
      "mins": 5,
      "context": "In this step you weigh the groups again after one day and press the seeds.",
-     "do": "After 24 hours, take the seeds out and dab them dry. Weigh each group. Press each seed with a fingernail and give each seed a score. Put the seeds back in fresh water.",
+     "do": "After 24 hours, take the seeds out and dab them dry. Weigh each group. Press each seed with a fingernail and give each seed a score: 1 for hard, 2 for a little soft, 3 for soft. Put the seeds back in fresh water.",
      "say": "Weigh each group again. Press the seeds from each bowl. Which are softer? Which group is heavier?",
      "kid": "Weigh each group. Press the seeds. Which feel softer?",
      "wait": "Weigh after 24 hours"
@@ -2401,7 +2401,7 @@
    "title": "Iodine on a Seed: where is the food kept?",
    "mins": 37,
    "days": 7,
-   "context": "In this activity, an adult helps you use iodine to find the starch in a seed. You find out which part of a chana holds the food, and what happens to the food when a seed sprouts.",
+   "context": "In this activity, an adult helps you use iodine to find the starch in a seed. Starch is the food a seed stores, and iodine turns blue-black when it touches starch. You find out which part of a chana holds the food, and what happens to the food when a seed sprouts.",
    "materials": [
     {
      "item": "12 chana (kala chana or kabuli chana)",
@@ -2452,7 +2452,7 @@
      "what": "Test the potato, the cucumber and both groups of chana with iodine. Say what you think, what you saw and why."
     }
    ],
-   "record": "Draw a chana opened in half and colour it as the iodine showed. Draw the soaked half and the sprouted half side by side. Write which part turned darkest. Score the darkness of the big halves and of the baby plant from 0 (no change) to 5 (blue-black), for the soaked chana and the sprout.",
+   "record": "Take a photo of the soaked chana and the sprouted chana with iodine on them, or draw them side by side and colour in what turned dark. Write which part turned darkest. Score the darkness of the big halves and of the baby plant from 0 (no change) to 5 (blue-black), for the soaked chana and the sprout.",
    "setup": [
     {
      "art": "A white plate with a slice of potato and a slice of cucumber, each with one drop of brown iodine solution, and the potato turning blue-black.",
@@ -2512,7 +2512,7 @@
      "adult": true,
      "do": "1. In a small cup, mix a few drops of iodine in water until it is the colour of weak tea. 2. A grown-up cuts a slice of potato and a slice of cucumber. 3. Dab a little iodine on each slice with a cotton bud. 4. Watch the colours.",
      "say": "Potato is full of starch. Cucumber has hardly any. Watch the colours. This is our starch detector.",
-     "kid": "A grown-up mixes the iodine. Dab it on potato and cucumber. Which turns dark?",
+     "kid": "A grown-up mixes the iodine. You dab it on the potato and the cucumber.",
      "parent": "Use a little iodine, so the colour is like weak tea. Too much makes everything brown and hides the change. Povidone iodine such as Betadine is brown and gives a weaker blue-black than tincture of iodine. If the potato does not turn dark, add a few more drops. If it still does not, the iodine is too old.",
      "check": {
       "t": "mcq",
@@ -2533,7 +2533,7 @@
      "adult": true,
      "do": "1. A grown-up splits one soaked chana in half with a thumbnail or a knife. 2. Dab iodine on the cut face. 3. Look at the big halves and at the small baby plant. 4. Do the same with a sprouted chana. 5. Score the darkness of each part from 0 to 5. 6. Compare the scores.",
      "say": "Look at the soaked chana first. Which part turned darkest? Then look at the sprout. Is it the same, lighter or darker?",
-     "kid": "Dab iodine on a split chana. Look at the big halves and the baby plant. Compare the sprout.",
+     "kid": "Dab iodine on a split chana. Compare it with a split sprout.",
      "ask": [
       {
        "q": "What do you notice about the baby plant and the big halves?",
@@ -2607,7 +2607,7 @@
      "context": "This is the first step of Packet Detective. You read three made-up labels and guess which packet is best.",
      "do": "Read the three labels aloud. Packet A: 90 percent germination, packed ten months ago, Rs 40 for 100 seeds. Packet B: 70 percent, packed two months ago, Rs 30 for 100 seeds. Packet C: loose seeds in a bag, no label. Ask which packet your child would buy and why.",
      "say": "Three packets of moong seed. Packet A says ninety percent sprouted, packed ten months ago, and costs forty rupees for a hundred seeds. Packet B says seventy percent, packed two months ago, and costs thirty rupees. Packet C has no label. Which would you buy? Why?",
-     "kid": "Packet A: 90 percent sprout, packed 10 months ago. Packet B: 70 percent, packed 2 months ago. Packet C has no label. Which would you buy?",
+     "kid": "Packet A: 90 percent sprout, packed 10 months ago. Packet B: 70 percent, packed 2 months ago. Packet C has no label.",
      "ask": [
       {
        "q": "Which packet would you buy, and why?",
@@ -2740,7 +2740,7 @@
      "context": "This is the first step of Seeds That Cannot Wait. You guess what drying does to each seed.",
      "do": "Show your child the fresh jackfruit seeds and the dry chana. Ask what will happen to each when left on a plate for a week.",
      "say": "Jackfruit seeds are wet inside, and chana is dry. We will leave some of each on a plate for a week. What will happen to the jackfruit seeds? Will they still sprout?",
-     "kid": "A jackfruit seed is wet inside. Chana is dry. What happens if you dry them? Why?",
+     "kid": "A jackfruit seed is wet inside. Chana is dry. We will leave some of each on a plate for a week.",
      "ask": [
       {
        "q": "What do you think drying will do to a jackfruit seed?",
@@ -3014,7 +3014,7 @@
     "four containers to test, such as an open bowl, a jar with a lid, a plastic bag, a katori covered with cloth",
     "a kitchen scale that weighs in grams (optional, see the shopping list)"
    ],
-   "context": "This is a design challenge about keeping seeds dry. Seed banks keep seeds dry because water makes seeds age faster. You design the best container for a damp kitchen.",
+   "context": "This is a design challenge about keeping seeds dry. Seed banks keep seeds dry because water makes seeds age faster. You will find out which container design keeps damp air out best.",
    "general": [
     "A jar with a tight lid, the way many families store dal and seeds.",
     "A clean steel dabba with a rubber seal.",
@@ -3025,7 +3025,7 @@
     "A jar with a lid, wrapped in a plastic bag and tied, with a dry rice packet inside.",
     "A pot of dry ash or clay under the seeds, as some farmers use, to soak up moisture."
    ],
-   "your_turn": "Now invent your own container. Draw it, build it and test it in the damp box. Which container kept the salt packet driest? Why do you think it did?",
+   "your_turn": "Now invent your own container. Build it and test it in the damp box. Which container kept the salt packet driest? Why do you think it did?",
    "setup": [
     {
      "art": "Four containers on a table: an open bowl, a jar with a lid, a bag tied with a rubber band, and a katori covered with cloth, each with chana and a small salt packet.",
@@ -3045,9 +3045,9 @@
      "id": "s1",
      "mins": 8,
      "context": "This is the first step of the Dry Vault challenge. You plan before you build.",
-     "do": "Read the problem together. Look at the usual designs and the creative ones. Ask your child to sketch two or three containers of their own.",
-     "say": "A damp kitchen is hard on seeds. Water makes them age fast. How could you keep chana dry? Draw some ideas first.",
-     "kid": "Draw two or three ways to keep chana dry. Think about air and water.",
+     "do": "Read the problem together. Look at the usual designs and the creative ones. Ask your child to plan two or three containers of their own, by drawing them or by telling you.",
+     "say": "A damp kitchen is hard on seeds. Water makes them age fast. How could you keep chana dry? Tell me some ideas first.",
+     "kid": "Draw or tell two or three ways to keep chana dry. Think about air and water.",
      "ask": [
       {
        "q": "Why might a sealed jar keep the chana dry?",
@@ -3123,7 +3123,7 @@
     "Three layers, each a different thickness, to catch different amounts of rain.",
     "A paper tissue folded like a funnel in the sand, to guide a big flow of water down to the seed."
    ],
-   "your_turn": "Now invent your own layers. Draw your design, build it and test it with a small shower and then a big rain. Does your seed stay dry in the small shower? Does the seed get wet in the big rain? Why do you think so?",
+   "your_turn": "Now invent your own layers. Build your design and test it with a small shower and then a big rain. Does your seed stay dry in the small shower? Does the seed get wet in the big rain? Why do you think so?",
    "setup": [
     {
      "art": "A clear cup with a dry moong seed on a tissue at the bottom and a 6 centimetre layer of dry sand on top.",
@@ -3143,9 +3143,9 @@
      "id": "s1",
      "mins": 8,
      "context": "This is the first step of the Rain Door challenge. You plan before you build.",
-     "do": "Read the problem together. Look at the usual designs and the creative ones. Ask your child to sketch two or three designs, each with a different depth of sand.",
-     "say": "Rain in the desert is not always big. A seed deep in the sand stays asleep through a small shower. How can your sand do the same? Draw some ideas first.",
-     "kid": "Draw two or three ways to build the sand layers. Think about depth.",
+     "do": "Read the problem together. Look at the usual designs and the creative ones. Ask your child to plan two or three designs with different depths of sand. They can draw them or tell you.",
+     "say": "Rain in the desert is not always big. A seed deep in the sand stays asleep through a small shower. How can your sand do the same? Tell me some ideas first.",
+     "kid": "Draw or tell two or three ways to build the sand layers. Think about depth.",
      "ask": [
       {
        "q": "Why might a deeper layer of sand keep the seed dry?",

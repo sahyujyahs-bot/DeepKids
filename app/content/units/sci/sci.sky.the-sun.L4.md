@@ -254,8 +254,8 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
   - Note: No printer? Copy each card on to a small slip of paper, with the clue on one side and the answer on the other. This takes about 15 minutes and children can share the copying.
 - **s2 (4 min)**  
   *Parent does:* Play a practice card together. Read the first clue and choose a layer. Then check the back.  
-  *Parent says:* Here is a practice clue. It says the layer is where the Sun's energy is made. Which layer is that?  
-  *Child mode:* Read a practice clue. Pick a layer. Check the back.
+  *Parent says:* Here is a practice clue. It says: this layer is where the Sun's energy is made.  
+  *Child mode:* Place the practice clue by the layer you think it is. Then check the back.
   - Check: Where is the Sun's energy made? → **In the core**
 - **s3 (9 min)**  
   *Parent does:* Take turns to read a clue, place it by a layer and say why. Check the back each time and score points.  
@@ -265,8 +265,8 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
   - Note: Listen for reasons that use the words hot, thick, boiling, magnetic or thin. The photosphere and the corona have the most clues, so expect many discussions about those two.
 - **s4 (4 min)**  
   *Parent does:* Count the points and find the winner. Then ask the question below.  
-  *Parent says:* Look at the stack. Which layer has the most clue cards? Why do you think that is?  
-  *Child mode:* Count points. Look at the stack. Which layer has the most clues?
+  *Parent says:* Count the points. Then look at the Sun we built. We can only see into it as far as one layer.  
+  *Child mode:* Count the points. Look at the layers you built.
   - Note: A good answer: it is only the place where we stop seeing in. Light from deeper gas cannot get out, so we see no further. The gas does not stop there. Thin gas goes on above it as the chromosphere and the corona.
   - Check: Why can we see into the Sun only as far as the photosphere? → **Light from deeper layers cannot escape the thick gas**
   - Think: The photosphere is called the Sun's surface. Is it a real edge, or only the place where we stop being able to see in? Why?
@@ -283,8 +283,8 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
   - Note: No printer? Copy each event on to a small slip of paper with the answer on the back, and use 5 coins, bindis or paper scraps as shields. Children can share the copying.
 - **s2 (3 min)**  
   *Parent does:* Play one practice card. The reader reads the first card and the team gives an answer. Check the back together.  
-  *Parent says:* Here is a practice event. A flare has flashed. When does its light reach the Earth? Talk together.  
-  *Child mode:* Read a practice card. Talk as a team. Check the back.
+  *Parent says:* Here is a practice event. A flare has flashed on the Sun. Talk together about it.  
+  *Child mode:* Talk as a team about the practice card. Then check the back.
   - Check: A flare flashes on the Sun. How long does its light take to reach the Earth? → **About 8 minutes**
 - **s3 (10 min)**  
   *Parent does:* Play the cards one at a time. After each card, add or take away a shield.  
@@ -294,8 +294,8 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
   - Note: Let the team argue before they answer. The back of the card shows the reason, so read that out each time. If the children get stuck, give a small hint, not the answer.
 - **s4 (4 min)**  
   *Parent does:* Count the shields. Decide if the team won. Talk about the hardest card.  
-  *Parent says:* Count the shields on the Earth. Did we win? Then think about the cards on the flare and the cloud. Which one arrives first, and why?  
-  *Child mode:* Count your shields. Did the team win? Which arrives first, a flare's light or a storm cloud? Why?
+  *Parent says:* Count the shields on the Earth. Did we win? Then look at the cards about a flare and a cloud.  
+  *Child mode:* Count your shields. Did the team win?
   - Note: Good answers: sunspot groups, flares and eruptions. Big sunspot groups can make big flares. Flares and eruptions send light and clouds towards the Earth. Some children will also say the solar wind. All of these are signs that a storm may be coming.
   - Check: Why do storm clouds from the Sun take longer to arrive than a flare's light? → **The cloud is made of material that travels slower than light**
   - Think: What would a space-weather forecaster want to watch on the Sun every day? Think of the cards you just played.
@@ -306,12 +306,12 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 - **predict:** Before you start, guess. If you add a little milk to a jar of water, how deep can a black patch on a card go before you lose sight of it? What happens as you add more milk? Why do you think so?
 - **fair test:** Use the same jar, the same amount of water, the same card and the same light every time. Stir the same way each time. Only the amount of milk changes, so any change in how deep you can see comes from the milk. Do each depth reading twice, because one look can be a fluke.
 - **safety:** Milk is food. If anyone handling the jar has a milk allergy, do not use milk; use the cornflour and water mix from the materials list instead. The cloudy water in the jar is not for drinking, so tip it away and wash the jar afterwards. Keep a phone or any electric thing away from the jar, and use a small torch, not a phone. Wipe any spills straight away so nobody slips.
-- **record:** Fill in the table. Draw the jar twice: once with clear water and once with a lot of milk. Show where the black patch faded from sight.
+- **record:** Fill in the table. Show the jar twice, once with clear water and once with a lot of milk, and where the black patch faded from sight. Draw it, or take two photos.
 - **results table:** Milk added in total (teaspoons) | Deepest I can still see the black patch (cm) | What the glow looks like
 - **s1 (5 min)**  
   *Parent does:* Show your child the jar, the water, the card and the milk. Ask for a guess and a reason. Write the guess down.  
   *Parent says:* We will make a cloud in a jar. The black patch on this card is easy to see in clear water. If I add a little milk, how deep can you see it? Why do you think so?  
-  *Child mode:* Guess first. How deep can you see the black patch in milky water? Why?
+  *Child mode:* Make a guess and say why you think so.
   - Ask: What do you think the milk will do to the black patch? (good: It will hide it.; It will make it harder to see when it is deep.; It will make the water thick.)
   - Note: Do not correct the guess. Any guess with a reason is a good start. Write it at the top of the table.
 - **s2 (6 min)**  
@@ -345,12 +345,12 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 - **predict:** Before you start, guess. Will the water stay still until it boils, or will it move? If it moves, where will it rise, and where will it sink? Why do you think so?
 - **fair test:** Use the same pan, the same water and the same flame for the whole test. Time three different specks, because one speck can be a fluke. Only the speck changes, so any difference comes from where it is in the pan.
 - **safety:** A grown-up runs the stove and does not move the pan while it is hot. Keep a low flame. Keep your child back by an arm's length and never let anyone lean over the pan. Turn the pan handle inwards. Tie back long hair and do not touch the pan or the steam. Switch off the heat when you finish and leave the pan to cool before you move it.
-- **record:** Fill in the table. Draw the pan from above, with arrows showing which way the specks went. Mark where they rose and where they sank.
+- **record:** Fill in the table. Show where the specks rose and where they sank. Draw the pan from above with arrows, or point and tell your grown-up.
 - **results table:** Speck | Where it rose and where it sank | Seconds for one loop
 - **s1 (4 min)**  
   *Parent does:* Show your child the pan, the water and the pepper. Ask for a guess and a reason. Write it down.  
   *Parent says:* We will warm this water slowly and sprinkle pepper on it. Will the water stay still, or will it move before it boils? If it moves, where? Why do you think so?  
-  *Child mode:* Guess first. Will the water move? Where? Why do you think so?
+  *Child mode:* Make a guess and say why you think so.
   - Ask: Where in the pan do you think the water will move first? (good: Where the flame is.; At the bottom.; In the middle, because it is hottest.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (6 min) · grown-up needed**  
@@ -383,18 +383,18 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 - **predict:** Before you start, guess. Will a white torch, a candle and a red torch all show the same rainbow? If not, how will they be different? Why do you think so?
 - **fair test:** Use the same CD, the same slit and the same distance for every light. Only the light changes, so any difference in the colours comes from the light itself. Look at each light three times, because the colours can be hard to catch on the first try.
 - **safety:** A grown-up lights and puts out the candle and stays close. Keep the candle on a steel plate away from curtains and hair. Never point the CD, the torch or anything that reflects light at the Sun, and never look at the Sun. Use the torch, the candle and a lamp only. Do not shine the torch into anyone's eyes, do not touch a lit bulb, and do not break a CFL bulb. CD edges can be sharp, so a grown-up should handle the edge.
-- **record:** Fill in the table. Draw the colour band for each light, in order, with the colours you saw.
+- **record:** Fill in the table. Show the colour band for each light, in order. Draw it, or tell your grown-up the colours you saw.
 - **results table:** Light I looked at | Colours I saw, in order | Is the band unbroken or in pieces?
 - **s1 (4 min)**  
   *Parent does:* Show your child the CD, the torch, the candle and the red cellophane. Ask for a guess and a reason. Write it down.  
   *Parent says:* We will use a CD to split light into colours. We will look at a white torch, a candle and a red torch. Will they make the same rainbow? Why do you think so?  
-  *Child mode:* Guess first. Will the three lights make the same rainbow? Why?
+  *Child mode:* Make a guess and say why you think so.
   - Ask: What do you think a red torch will show? (good: Only red.; Red and other colours.; The same as the white torch.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (6 min)**  
   *Parent does:* 1. Tape two black cards to a torch. 2. Leave a thin gap between them, about as thin as a coin's edge. 3. Make the room dark. 4. Switch on the torch. 5. Stand 2 metres away.  
-  *Parent says:* Tape two black cards over the torch, nearly touching. Leave a very thin gap between them. This makes a thin line of light, like a slit.  
-  *Child mode:* Tape two cards over the torch. Leave a thin gap. Switch it on in the dark.
+  *Parent says:* We need a very thin line of light. A line like that is called a slit.  
+  *Child mode:* Switch the torch on in the dark. Look at the thin line of light.
   - Note: The slit must be thin, about 1 millimetre. If the line is too wide, the colours smear and you will see only a smudge. Practise holding the torch steady, or rest it on a book. Hold the CD close to your eye and look at the reflection of the slit in it. Turn the CD round in your hand, like a plate, until the colours stretch sideways from the line.
   - Check: Why do we use a thin slit of light? → **So the colours separate cleanly**
 - **s3 (8 min)**  
@@ -421,23 +421,23 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 ## Activities
 ### a1 · The Sun in Pictures: what do you notice? (8 min)
 - **safety:** Look at pictures of the Sun only on a screen or in a book. Never look at the real Sun.
-- **record:** Draw the Sun as you saw it in the picture. Write three things you notice, and one question.
+- **record:** Tell or write three things you notice in the picture, and one question. You can draw the Sun too, if you like.
 - **s1 (4 min)**  
   *Parent does:* Open a recent picture of the Sun taken by a spacecraft. A grown-up can search for the Solar Dynamics Observatory pictures. Look together for one minute without talking.  
   *Parent says:* Look at the Sun. Take a whole minute. What do you notice? What do you wonder?  
-  *Child mode:* Look at the picture of the Sun. What do you notice? What do you wonder?
+  *Child mode:* Look closely at the picture of the Sun for one whole minute.
   - Ask: Is there a sharp edge to the Sun? Is there anything beyond the edge? (good: Yes, there is a round edge.; In some pictures I can see a glow beyond it.; I see dark spots.)
   - Note: Pictures from space are safe to look at. If the internet is not working, use a book with a picture of the Sun. Different pictures show different layers, so the Sun may look orange, yellow or blue-white. Do not explain yet. Write down what your child notices and wonders. With 2 to 4 children, each draws their own picture first, then compare what each noticed.
 - **s2 (4 min)**  
-  *Parent does:* Ask your child to draw the Sun and note three things. Then ask the question below.  
-  *Parent says:* Draw what you saw. Write three things you noticed. Here is a puzzle. If we flew to the Sun, where would we put our feet?  
-  *Child mode:* Draw the Sun. Write three things you noticed. Where would you land?
+  *Parent does:* Ask your child to point to three things in the picture and say what each one is. Then ask the question below.  
+  *Parent says:* Point to three things you noticed and tell me what they are. Here is a puzzle. If we flew to the Sun, where would we put our feet?  
+  *Child mode:* Point to three things you noticed. Tell your grown-up what each one is.
   - Check: If a spacecraft tried to land on the Sun, what would it find? → **Gas, hotter and thicker the deeper it went**
   - Think: The picture shows a sharp edge. If there is no ground, what can that edge be? You will find out in the Glowing Fog experiment.
 ### a2 · Spin the Orange: how a spot proves the Sun turns (25 min)
 - **problem:** A sunspot vanishes at the edge of the Sun. Has it died, or gone round the back? In this activity the orange is the Sun. The stickers are sunspots. Turn the orange once in 27 seconds. One second stands for one day. See how long a spot is hidden, and when it comes back.
 - **safety:** A grown-up pushes the pencil or skewer through the orange. Prefer a pencil; if you use a skewer, push its sharp end into a lump of clay so nobody is poked. Do not look at the real Sun. Use a lamp or room light.
-- **record:** Draw the orange at three positions: spot at the edge coming in, spot in the middle, spot at the edge going out. Write how many seconds the spot was hidden.
+- **record:** Show the orange at three positions: spot at the edge coming in, spot in the middle, spot at the edge going out. Take three photos, or draw them. Write how many seconds the spot was hidden.
 - **s1 (5 min)**  
   *Parent does:* Stick one sticker on the middle of the orange, one near the top and one near the bottom. These are the spots. Ask your child to guess how the spots will move when the orange turns.  
   *Parent says:* The orange is our Sun and the stickers are sunspots. When I turn it slowly, what will the middle spot do? What about the spot near the top? Why do you think so?  
@@ -469,11 +469,11 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 ### a3 · A Stream Past a Stone: how a wind flows round the Earth (20 min)
 - **problem:** The Sun's wind blows past the Earth all the time. Most of it flows round the Earth. In this activity the water is the wind. The steel katori is the Earth. You pour water down a tilted tray. You see how a stream flows round something in its way. This is only a rough model. In space, the Earth's invisible magnetic field bends the wind. That field is much wider than the planet.
 - **safety:** Do this at a sink, on a floor that can get wet, or on a balcony. Wipe up spills straight away so nobody slips. Turmeric stains clothes, so wear old ones; pepper can make you sneeze.
-- **record:** Draw the tray from above, with the katori and arrows showing how the water flowed round it. Mark where the water was calm behind the katori.
+- **record:** Show how the water flowed round the katori, and where it was calm behind it. Draw the tray from above with arrows, or point and tell your grown-up.
 - **s1 (4 min)**  
   *Parent does:* Show your child the tray, the katori and the jug. Ask for a guess and a reason.  
   *Parent says:* The katori is the Earth, and the water is the wind from the Sun. When I pour water from the top, what will it do when it meets the katori? Why do you think so?  
-  *Child mode:* Guess first. What will the water do when it reaches the katori? Why?
+  *Child mode:* Make a guess and say why you think so.
   - Ask: What do you think will happen behind the katori? (good: It will be dry.; The water will curl round and meet.; There will be a quiet patch.)
   - Note: Do not correct the guess. Any guess with a reason is a good start.
 - **s2 (10 min)**  
@@ -494,28 +494,28 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 ## Projects
 ### p1 · The Sunspot Diary: how long does the Sun take to turn? (40 min, 5 days)
 - **safety:** Look at pictures of the Sun only on a screen. Never look at the real Sun.
-- **record:** Draw a spot on each sheet and measure its position from the line through the middle. Write the distance it moved each day. Then work out when it will reach the edge.
+- **record:** Mark a dot for the spot on each sheet and measure its position from the line through the middle. Write the distance it moved each day. Then work out when it will reach the edge.
 - **schedule:** day 1: Find a picture with a spot. Copy it on to circle 1 and measure. (10 min); day 2: Copy the spot on to circle 2. (5 min); day 3: Copy the spot on to circle 3. (5 min); day 4: Copy the spot on to circle 4. (5 min); day 5: Copy the spot on to circle 5. Make the table. Predict when the spot will reach the edge. (15 min)
 - **s1 (10 min) · grown-up needed**  
-  *Parent does:* On day 1, find a recent picture of the Sun with at least one dark spot. Copy the Sun's circle and the spot on to your paper circle. Measure how far the spot is from the line through the middle. Write the date.  
-  *Parent says:* We will follow a spot for five days. Find a picture with a clear spot, near the middle or at one side. Copy it on to your circle and measure from the middle line. Write the number.  
-  *Child mode:* Find a picture with a spot. Copy it on to your circle. Measure its place.
+  *Parent does:* On day 1, find a recent picture of the Sun with at least one dark spot. Mark a dot on your paper circle in the same place as the spot. Measure how far the dot is from the line through the middle. Write the date.  
+  *Parent says:* We will follow a spot for five days. Find a picture with a clear spot, near the middle or at one side. Mark a dot for it on your circle and measure from the middle line. Write the number.  
+  *Child mode:* Find a picture with a spot. Mark it with a dot on your circle. Measure its place.
   - Ask: Which way do you think the spot will move in the next few days? (good: Towards one edge.; Towards the west edge.; I think it will go across.)
   - Note: Choose the Solar Dynamics Observatory pictures from the NASA website, and pick the one in white light or orange, where spots show clearly. If there are no spots on the Sun today, use the practice numbers in the project instead: -4.0, -3.2, -2.2, -1.2 and 0.0 centimetres on days 1 to 5. These are made-up practice numbers. Choose the same kind of picture every day, and the same time of day if you can. To measure, zoom the picture until the Sun is about 10 cm wide on the screen, so the ruler on the screen matches your paper circle; if it will not zoom, mark how far the spot is from the middle as a fraction of the Sun's radius and use the same fraction on your circle.
 - **s2 (5 min)**  
-  *Parent does:* On day 2, find the new picture. Copy the spot on to a new circle. Measure its place and write the date.  
-  *Parent says:* Day 2. Has the spot moved? Which way? Copy it on to a new circle, measure, and write the number.  
-  *Child mode:* Find today's picture. Copy the spot. Measure its place.
+  *Parent does:* On day 2, find the new picture. Mark the spot with a dot on a new circle. Measure its place and write the date.  
+  *Parent says:* Day 2. Has the spot moved? Which way? Mark it with a dot on a new circle, measure, and write the number.  
+  *Child mode:* Find today's picture. Mark the spot with a dot. Measure its place.
   - Note: Make sure it is the same spot. Spots keep their shape for several days, so you can match them by size and by the spots round them.
   - Wait: Leave it until tomorrow
 - **s3 (5 min)**  
-  *Parent does:* On days 3 and 4, do the same. Copy the spot and measure its place on a new circle each day.  
+  *Parent does:* On days 3 and 4, do the same. Mark the spot with a dot and measure its place on a new circle each day.  
   *Parent says:* Days 3 and 4. Keep following your spot. Measure each day. Is it moving the same distance each day?  
-  *Child mode:* Copy the spot. Measure its place. Do the same tomorrow.
+  *Child mode:* Mark the spot with a dot. Measure its place. Do the same tomorrow.
   - Ask: Is the spot moving the same distance every day? (good: More or less.; It moves a bit less near the edge.)
   - Wait: Leave it for two days, and look once each day
 - **s4 (10 min)**  
-  *Parent does:* On day 5, copy the spot for the last time. Make a table of the five places. Find how far the spot moved each day by subtracting each day's place from the next day's. Find the average. Use it to say when the spot will reach the edge.  
+  *Parent does:* On day 5, mark the spot with a dot for the last time. Make a table of the five places. Find how far the spot moved each day by subtracting each day's place from the next day's. Find the average. Use it to say when the spot will reach the edge.  
   *Parent says:* Day 5. Let's make a table. How far did the spot move each day? Subtract each day's number from the next day's to find out. Then work out how many more days to the edge.  
   *Child mode:* Make a table of the five places. Find how far it moved each day.
   - Ask: About how far did the spot move each day when it was near the middle? (good: About 1 centimetre.; A little over 1 centimetre.)
@@ -532,14 +532,14 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
 ## Challenges
 ### c1 · The Sun-Facing Stand: find the tilt for solar panels in your city (40 min)
 - **problem:** A solar panel makes the most electricity when it faces the Sun straight on. Build a card stand that faces the Sun at noon, find its tilt with a protractor, and decide what fixed tilt would be best for your city over the whole year.
-- **your turn:** Now design your own stand. Draw it, build it and test it at noon. What tilt did you find? Is it closer to your city's latitude, or higher, or lower? Why might it change in other months?
+- **your turn:** Now design your own stand. Draw it or tell your grown-up your plan, then build it and test it at noon. What tilt did you find? Is it closer to your city's latitude, or higher, or lower? Why might it change in other months?
 - **constraints:** Use only things from home: card, a pencil, clay, a book and a protractor.; Never look at the Sun. Use the shadow of the pencil to aim.; Test between 11 in the morning and 1 in the afternoon, in direct sun.; Write down the tilt you find and the date.; On a balcony or terrace, keep an adult with you and stay away from the edge. If you use a skewer, push its sharp end into the clay.
 - **general:** Stick the pencil upright in the middle of the card with clay. Tilt the card until the pencil's shadow shrinks to a dot at its base. Then the card faces the Sun straight on.; Rest the card on a book. Measure the angle between the card and the flat floor with a protractor.; Choose a fixed tilt equal to your city's latitude. Latitude is how far the city is from the equator, measured in degrees.
 - **creative:** Make a stand with a hinge, so that you can change the tilt for the winter, summer and rainy seasons.; Make a stand with two pencils, so you can see the Sun's east-west direction as well as its height.; Ask a neighbour with solar panels how their panels are tilted and compare with your answer.
 - **s1 (6 min)**  
-  *Parent does:* Read the problem together. Look at the constraints. Ask your child to draw how they think the card will sit at noon in your city.  
-  *Parent says:* A solar panel works best when it faces the Sun straight on. At noon, will the card lie flat, lean a little, or stand nearly upright? Draw what you think.  
-  *Child mode:* A panel works best facing the Sun. Will the card lie flat or lean? Draw it.
+  *Parent does:* Read the problem together. Look at the constraints. Ask your child to show, by holding the card, how they think it will sit at noon in your city.  
+  *Parent says:* A solar panel works best when it faces the Sun straight on. At noon, will the card lie flat, lean a little, or stand nearly upright? Hold the card the way you think it will sit.  
+  *Child mode:* A panel works best facing the Sun. Hold the card the way you think it will sit at noon.
   - Ask: In what month and in what city is the card most likely to lie nearly flat? (good: Near the equator in summer.; Where the Sun is overhead.; In the middle of the day in summer.)
 - **s2 (15 min) · grown-up needed**  
   *Parent does:* 1. Push the pencil into a lump of clay in the middle of the card, so it stands upright. 2. Take the card out in the sun. 3. Tilt the card slowly until the pencil's shadow becomes a tiny dot at its base. 4. Rest the card on the book and keep it still.  
@@ -548,15 +548,15 @@ That night, when the mist came up again, Ilakkiya kept the orange on her windows
   - Note: The shadow dot is the whole trick. Do not look at the Sun. If the card moves, redo it. In November in South India the Sun is fairly low at noon, so the card leans well over, around 25 to 35 degrees. In June it would lean much less. If the sky is cloudy or hazy, wait for a clear day, because a faint shadow is hard to judge. With 2 to 4 children, one tilts the card, one watches the shadow, one steadies the book and one writes the angle.
   - Check: When the pencil's shadow is a dot, what does that tell you? → **The pencil points straight at the Sun**
 - **s3 (10 min)**  
-  *Parent does:* 1. Hold the protractor against the side of the card and the floor. 2. Read the angle between them. 3. Write it down with the date and time. 4. Look up your city's latitude with a grown-up.  
+  *Parent does:* 1. Hold the protractor against the side of the card and the floor. 2. Read the angle between them. 3. Write it down with the date and time. 4. With a grown-up, look up your city's latitude. Latitude tells how far north of the equator your city is.  
   *Parent says:* Now measure the tilt with the protractor. Write down the angle, the date and the time. What is your city's latitude?  
   *Child mode:* Measure the tilt. Write the angle, the date and the time.
   - Ask: Is your tilt bigger or smaller than your city's latitude? (good: Bigger, because it is November.; A bit bigger.; About the same.)
   - Note: Latitudes are about 10 degrees for Kochi and Madurai, 13 for Chennai, 17 for Hyderabad and 28 for Delhi. Late in the year the Sun is low in the south, so the tilt is larger than the latitude. In midsummer it would be smaller. A fixed panel is usually set to about the city's latitude, facing south, as a compromise for the whole year. To read the angle, rest the card's lower edge on the floor and its upper edge on the book, put the flat edge of the protractor on the floor against the card's lower edge, and read where the card crosses the scale.
 - **s4 (9 min)**  
-  *Parent does:* Talk about what you found and what you would change.  
+  *Parent does:* Listen to your child's answers. Then ask the question below.  
   *Parent says:* What tilt did you find? Would it be the same in June? What would you set for a panel that stays fixed all year?  
-  *Child mode:* What tilt did you find? Would it be the same in June?
+  *Child mode:* Tell your grown-up what you found and what you would change.
   - Check: A panel is fixed in one place all year. Which tilt is a good compromise? → **About the same as the city's latitude, facing south**
 
 ## Worksheets

@@ -259,9 +259,9 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 - **Printable cards: 24 two-sided cards: a sound on the front, and about how many decibels and how long it is safe on the back:** Leaves rustling gently (back: About 20 decibels. Very faint, close to the quietest sound a young person can hear. Safe all day.); A wall clock ticking in a quiet room (back: About 30 decibels. Safe all day.); A whisper (back: About 30 decibels. Safe all day.); A quiet bedroom at night (back: About 35 decibels. Safe all day.); A refrigerator humming (back: About 40 decibels. Safe all day.); A mosquito buzzing near your ear (back: About 40 decibels. Safe all day, though it is annoying.); Birds singing in a garden (back: About 45 decibels. Safe all day.); People talking quietly (back: About 50 decibels. Safe all day.); A tap running into a steel bucket (back: About 55 decibels. Safe all day.); A normal conversation (back: About 60 decibels. That is 1,000 times the energy of a whisper. Safe all day.); A classroom full of chatting children (back: About 65 decibels. Safe all day, but tiring for the teacher.); A car passing 10 metres away (back: About 70 decibels. Safe all day, but it masks speech.); A vacuum cleaner running in the room (back: About 75 decibels. Safe for many hours.); A busy city street (back: About 80 decibels. Safe for many hours, but it is wise to take quiet breaks.); A mixer-grinder running (back: About 85 decibels. The safe time is about 8 hours. Louder than this and the safe time shrinks.); A hair dryer on full (back: About 90 decibels. The safe time is about 2 and a half hours.); A motorbike passing close by (back: About 95 decibels. The safe time is about 45 minutes.); A roaring crowd in a cricket stadium (back: About 100 decibels. The safe time is about 15 minutes.); Headphones turned up full (back: About 105 decibels. The safe time is about 5 minutes. Turn them down.); A loudspeaker at a wedding, standing near it (back: About 110 decibels. The safe time is about 1 and a half minutes.); Thunder very close overhead (back: About 115 decibels. A short peal, but loud enough to hurt.); An ambulance siren close by (back: About 120 decibels. Harm in seconds. Move away.); A jet plane taking off nearby (back: About 130 decibels. Can hurt at once.); A firecracker going off close by (back: About 140 decibels. Can hurt at once and cause lasting damage.)
 - **Printable board: A ladder with 6 bands to draw on a big sheet of paper:** 20 to 39 decibels: very quiet; 40 to 59 decibels: quiet to normal talk; 60 to 79 decibels: loud, but safe for hours; 80 to 99 decibels: harmful after minutes or hours; 100 to 119 decibels: harmful in minutes or seconds; 120 decibels and up: can hurt at once
 - **s1 (4 min)**  
-  *Parent does:* Cut out the 24 cards and shuffle them. Draw the ladder with six bands on a big sheet of paper, with the quietest band at the bottom. Put the ladder in the middle of the table. Write the six bands on the ladder. They are 20 to 39, 40 to 59, 60 to 79, 80 to 99, 100 to 119 and 120 up.  
+  *Parent does:* Cut out the 24 cards and shuffle them. Make the ladder on a big sheet of paper, with six bands and the quietest band at the bottom. Put the ladder in the middle of the table. Write the six bands on the ladder. They are 20 to 39, 40 to 59, 60 to 79, 80 to 99, 100 to 119 and 120 up.  
   *Parent says:* Each card has a sound on the front. On the back is how loud it is. We will guess how loud each sound is. Then we place it on a ladder, from quiet at the bottom to loud at the top.  
-  *Child mode:* Cut out the cards. Shuffle them. Draw the ladder with six bands.
+  *Child mode:* Help cut out the cards and shuffle them.
   - Note: With 2 to 4 players, everyone guesses at once and keeps their own score. Take turns to read the cards. Playing alone works too.
 - **s2 (4 min)**  
   *Parent does:* Take the whisper, the normal conversation and the firecracker cards. Place them on the ladder. Then ask the question below.  
@@ -281,8 +281,8 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   - Note: Sounds below about 80 decibels are safe all day. At 85 decibels and above, the safe time starts to shrink.
 - **s5 (2 min)**  
   *Parent does:* Take the cards of 85 decibels and above. Put them in order of the safe time on the back, from longest to shortest. Ask the question below, and let your child work it out before you say the answer.  
-  *Parent says:* At 85 decibels the safe time is 8 hours. Each 3 decibels louder halves it. So how long is it safe at 100 decibels?  
-  *Child mode:* Each 3 decibels louder halves the safe time. How long is it safe at 100 decibels?
+  *Parent says:* At 85 decibels the safe time is 8 hours. Each 3 decibels louder halves it. Now let us work out 100 decibels.  
+  *Child mode:* Count up from 85 to 100 in steps of 3. Halve the time at each step.
   - Check: The safe time at 85 decibels is 8 hours, and every 3 decibels more halves it. About how long is it safe at 100 decibels? → **About 15 minutes**
 
 ## Experiments
@@ -294,9 +294,9 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 - **record:** Fill in the table for the three rounds. Then finish this sentence: 'With one ear covered, my pointing went ...'
 - **results table:** Round | My guess: how many exactly right out of 16? | Exactly right | One place off | More than one place off | Exactly right plus one place off
 - **s1 (5 min)**  
-  *Parent does:* Show your child the chair, the katori and the eight places. Ask for a guess and a reason. Write the guess in the table.  
+  *Parent does:* Show your child the chair, the katori and the eight paper slips. Ask for a guess and a reason. Write the guess in the table.  
   *Parent says:* I will click a spoon on a katori around you, and you will point to it with your eyes shut. First with two ears, then with one ear covered. How many out of 16 will you get exactly right each time? Why do you think so?  
-  *Child mode:* You will shut your eyes and point to each click. Guess how many you will get right. Why?
+  *Child mode:* You will shut your eyes and point to each click. Guess how many you will get right.
   - Ask: Why do you think covering one ear will change your pointing? (good: One ear hears less, so I cannot tell where it is.; The sound will seem to come from the open side.; Two ears work like two eyes, so one makes it harder.)
   - Note: Do not correct the guess. Write it down, with the reason. Children often guess they will get most right with two ears, and some think one ear will not matter. Roles: one child listens, one clicks and one writes the scores. With 2 to 4 children, take turns as listener, with 8 clicks per round for each. Each listener keeps their own table and the same covered ear.
 - **s2 (8 min) · grown-up needed**  
@@ -336,7 +336,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 - **s1 (5 min)**  
   *Parent does:* Show your child the corridor, the tap and the list of digits. Ask for a guess and a reason. Write the guess in the table.  
   *Parent says:* I will whisper numbers to you from different distances. First in a quiet room. Then with a tap running gently. Then with it running hard. How far will my whisper reach each time? Why do you think so?  
-  *Child mode:* Guess how far a whisper will reach in quiet, and in noise. Why?
+  *Child mode:* Guess how far a whisper will reach in quiet, and in noise.
   - Ask: Why do you think the noise will change how far the whisper reaches? (good: The noise is louder than the whisper, so it covers it.; I will have to listen harder.; The whisper will still arrive, but I won't be able to hear it.)
   - Note: Do not correct the guess. A whisper is about 30 decibels. In a quiet room it often reaches 4 or 5 metres. Write the guess in metres. Roles: one child listens, one whispers and one records. Keep the same listener for all the tests so they are fair. With 2 to 4 children, swap listeners on another day, or repeat only the quiet round.
 - **s2 (5 min)**  
@@ -376,7 +376,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 - **s1 (5 min)**  
   *Parent does:* Show your child the fan and the app. Ask for a guess and a reason. Write the guess in the table for each distance.  
   *Parent says:* We will measure the sound of the fan at four distances. If it reads 60 decibels at 1 metre, what will it read at 2 metres? At 4 metres? Why do you think so?  
-  *Child mode:* Guess how loud the fan is when you double the distance. Why?
+  *Child mode:* Guess how loud the fan is when you double the distance.
   - Ask: Why do you think the sound will get quieter in that way? (good: It gets half as loud each time.; It drops by the same amount each time.; It spreads out as it goes.)
   - Note: Do not correct the guess. Many children guess halving, so 30 decibels at 2 metres. Write each guess in the table. Roles: one child holds the phone, one reads the number and one writes. With one child, the parent writes. If no app is available, borrow a phone.
 - **s2 (7 min) · grown-up needed**  
@@ -423,7 +423,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   - Note: Steady humming sounds, such as a fridge or a fan, are usually harder to place than short sounds, such as a clink. Sounds behind and above are also harder.
   - Check: Which kind of sound is usually hardest to find the place of with your eyes shut? → **A steady hum, such as a fridge**
 - **s4 (2 min)**  
-  *Parent does:* Look at the map together. Count how many sounds were at your sides, and how many were in front of you or behind you. Ask the question below, and let your child answer before you say anything.  
+  *Parent does:* Look at the map together. Count how many sounds were at your sides, and how many were in front of you or behind you. Then ask which sounds were easiest to point to, and let your child answer before you say anything.  
   *Parent says:* Look at the map. Which sounds were at your sides? Which were in front or behind? Which were easier to point to?  
   *Child mode:* Count the sounds at your sides. Count the sounds in front and behind. Which were easier?
   - Note: Most children find sounds at the sides easiest. A sound at your side reaches one ear first and a little louder. A sound in front or behind reaches both ears together and equally loudly. So there is little difference for the brain to use. You will test this in the Sound Clock experiment.
@@ -434,20 +434,20 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 - **record:** The strip with six marked pitches and the curled snail. Write under it: 'High pitches peak near the ... end. Low pitches peak near the ... end.'
 - **s1 (7 min)**  
   *Parent does:* Draw a strip 35 centimetres long. Make one end 1 centimetre wide and the other end 5 centimetres wide. Join the sides with straight lines. Cut it out.  
-  *Parent says:* The cochlea is a coiled tube about 3.5 centimetres long. Our model is 10 times as long, so 35 centimetres. The strip stands for the basilar membrane. It is narrow at one end and about five times wider at the other.  
-  *Child mode:* Draw a strip 35 centimetres long. Make one end 1 centimetre wide and the other end 5 centimetres wide.
+  *Parent says:* The cochlea is a coiled tube about 3.5 centimetres long. Our model is 10 times as long, so 35 centimetres. The strip stands for the basilar membrane, a thin stretchy sheet inside the cochlea that shakes when sound arrives. It is narrow at one end and about five times wider at the other.  
+  *Child mode:* Cut a long strip. Make one end thin and the other end wide.
   - Note: Use the ruler to mark both ends and join them with straight lines. The narrow end is where the sound enters the cochlea. The wide end is deep inside. Real cochleas are tiny, so our model is ten times bigger than life in length. With 2 to 4 children, each makes a strip. Share one ruler and one pair of scissors.
   - Check: The cochlea is about 35 millimetres long when unrolled. Our model is 10 times as long. How long is our model? → **350 millimetres, which is 35 centimetres**
 - **s2 (8 min)**  
   *Parent does:* Mark the strip with a ruler from the narrow end. At 0 centimetres write 20,000 hertz. At 7 write 8,000. At 14 write 3,000. At 21 write 1,000. At 28 write 300. At 35 write 20.  
-  *Parent says:* Each mark shows where a sound of that pitch makes the wave peak. The narrow end is for the highest sounds. The wide end is for the lowest. A police whistle is about 3,000 hertz, so it peaks at 14 centimetres.  
+  *Parent says:* Hertz counts how many times a sound shakes each second. More shakes means a higher pitch. Each mark shows where a sound of that pitch makes the wave peak. The narrow end is for the highest sounds. The wide end is for the lowest. A police whistle is about 3,000 hertz, so it peaks at 14 centimetres.  
   *Child mode:* Mark the pitches along the strip. High at the narrow end. Low at the wide end.
   - Note: These marks are rounded from measurements of the human cochlea. A bat's squeak at 50,000 hertz is off the narrow end, so humans do not hear it. A deep drum at 100 hertz is near the wide end. Colour the high end red and the low end blue.
   - Check: Where on the strip would a very high whistle make the wave peak? → **Near the narrow end**
 - **s3 (5 min)**  
-  *Parent does:* Draw a wave on the strip that peaks at the 14 centimetre mark. Draw a second wave in another colour that peaks at the 28 centimetre mark. Label each with a sound it could be. Then guess where 5,000 hertz would go, and mark it with a dot.  
-  *Parent says:* A police whistle makes a wave that peaks at 14 centimetres. Draw it on the strip. A low voice at about 300 hertz peaks at 28 centimetres. Draw that too, in another colour.  
-  *Child mode:* Draw a wave that peaks at 14 centimetres. Draw another that peaks at 28.
+  *Parent does:* Put a coloured dot on the 14 centimetre mark, where a high wave peaks. Put a dot of another colour on the 28 centimetre mark, where a low wave peaks. Label each with a sound it could be. Then guess where 5,000 hertz would go, and mark it with a third dot.  
+  *Parent says:* A police whistle makes a wave that peaks at 14 centimetres. Mark it with a dot. A low voice at about 300 hertz peaks at 28 centimetres. Mark that with a dot of another colour.  
+  *Child mode:* Mark where the whistle peaks. Then mark where the low voice peaks.
   - Note: A real wave starts at the narrow end, grows bigger as it travels, then rises to a peak and dies away very fast just past the peak. The hair cells at the peak are the ones that signal strongly. Draw the wave as a bump that grows and then drops. The 5,000 hertz dot belongs at about 10 centimetres, between the 8,000 and 3,000 marks. Check your guess against it.
 - **s4 (5 min)**  
   *Parent does:* Curl the strip into a snail, with the narrow end on the outside. Tape it so it stays curled. Count the turns. Real cochleas have about two and a half turns.  
@@ -456,11 +456,11 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   - Note: The paper snail will not curl perfectly. It does not need to. The point is to see how a 3.5 centimetre tube can fit into a space the size of a pea. The coil shape does not change how the wave travels.
 ### a3 · Feel the Music: a balloon and a drum beat (12 min)
 - **safety:** Keep the music at the loudness of a normal conversation. Do not press the balloon hard against a speaker cone, because it can burst. If anyone is allergic to latex, use a paper cup or a plastic tub with cling film stretched over the top instead. Pick up burst balloon pieces at once, and keep them away from small children. An adult blows up the balloons for children under 8.
-- **record:** Draw the balloon and write down which sounds you could feel the most: a low drum, a high whistle, or your own humming. Give each sound a score from 0 (nothing) to 5 (buzzes strongly).
+- **record:** Write down which sounds you could feel the most: a low drum, a high whistle, or your own humming. Give each sound a score from 0 (nothing) to 5 (buzzes strongly).
 - **s1 (3 min)**  
   *Parent does:* Show your child the balloon and the speaker. Ask them to guess whether they can feel sound with their hands, and which sounds they will feel the most.  
   *Parent says:* Sound is a wave in the air. If a wave is strong enough, we can feel it with our skin. Do you think we can feel sound with our hands? Which sounds, low drums or high whistles? Why do you think so?  
-  *Child mode:* Can you feel music with your hands? Which sounds? Why do you think so?
+  *Child mode:* Can you feel music with your hands?
   - Ask: Which sounds do you think you will feel the most, and why? (good: Low drum sounds, because they shake more.; Loud ones, because they push the air hard.; High whistles, because they are sharp.)
   - Note: Do not correct the guess. Write it down. With 2 to 4 children, each holds a balloon and scores the sounds. Then compare scores.
 - **s2 (5 min)**  
@@ -481,7 +481,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 - **s1 (3 min)**  
   *Parent does:* Show your child how to stand on one leg, with the other foot lifted and the arms free, next to the wall. Ask them to guess which will be longer, eyes open or eyes shut, and why.  
   *Parent says:* We will time how long you can stand on one leg. First with your eyes open, then with your eyes shut. Which do you think will be longer? Why do you think so?  
-  *Child mode:* Stand on one leg. Eyes open or eyes shut? Which lasts longer? Why?
+  *Child mode:* Stand on one leg. Will it last longer with eyes open or eyes shut?
   - Ask: Why do you think shutting your eyes will change how long you can stand? (good: Because I can't see where I'm leaning.; Because my eyes help me balance.; It won't change, because balance is in the legs.)
   - Note: Do not correct the guess. Write it down. Roles: one stands, one times and one writes. Swap after each child has had their turns.
 - **s2 (5 min)**  
@@ -496,7 +496,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   - Note: Typically the time drops a lot, often to 5 to 15 seconds. Some children manage more. With the eyes shut, the brain has lost one of its three sources of balance information. The inner ear and the feet are still working. Standing on a soft mat makes it harder, because the feet feel less.
   - Check: Shutting your eyes made standing on one leg harder. What is the best explanation? → **The eyes are one of the three things that tell the brain about balance**
 ### a5 · A Few Signs: a first lesson in Indian Sign Language (20 min)
-- **record:** A list of the signs you learned, with a drawing or a note of how each one looks, and one thing you noticed about talking without sound.
+- **record:** A list of the signs you learned, with a note or a photo of how each one looks, and one thing you noticed about talking without sound.
 - **s1 (5 min)**  
   *Parent does:* Ask your child to tell you what they ate for breakfast, with no sound at all, for one minute. They can use their hands, face and body. Then swap.  
   *Parent says:* For one minute, tell me what you had for breakfast, with no sound at all. You can use your hands, your face and your body. I will guess.  
@@ -524,7 +524,7 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
 - **s1 (5 min)**  
   *Parent does:* Show your child the paper, the phone and the corridor. Ask which size of trumpet mouth will let them hear furthest, and why.  
   *Parent says:* Long ago, before hearing aids, people used ear trumpets to hear better. Today we make three. The mouth of a trumpet is its wide, open end. One trumpet has a small mouth, one a medium mouth and one a big mouth. Which do you think will help most? Why do you think so?  
-  *Child mode:* We make three ear trumpets. Which size of mouth helps you hear furthest? Why?
+  *Child mode:* We make three ear trumpets. Which size of mouth helps you hear furthest?
   - Ask: Why do you think that size will help the most? (good: The bigger mouth catches more sound.; A small mouth sends the sound straight in.; They will all be the same.)
   - Note: Do not correct the guess. Write it down. The ear flap on the side of the head is itself a small natural ear trumpet. Roles: one listens, one walks with the phone and one measures and writes. With 2 to 4 children, keep one listener for the whole test, or each child makes a trumpet and tests alone.
 - **s2 (8 min) · grown-up needed**  
@@ -545,22 +545,22 @@ That night, at home, Anjana taught her little brother Kiran the game. He sat wit
   - Note: Typically the distance drops, perhaps to less than with no trumpet. The wide mouth collects sound only from the direction it faces. This is why the ear flap faces forward and why many animals can turn their ears.
   - Wait: Do this on day 2.
 - **s5 (7 min)**  
-  *Parent does:* Draw a bar chart with the trumpets along the bottom: none, small, medium, large, large pointed away. Draw a bar for each distance. Ask your child to say which was best and why.  
-  *Parent says:* Draw a bar for each distance. Which trumpet was best? Which was worst? Why do you think the wide mouth helped?  
-  *Child mode:* Draw a bar for each trumpet. Which is tallest? Why?
+  *Parent does:* Draw a bar chart with the trumpets along the bottom: none, small, medium, large, large pointed away. Draw a bar for each distance. If your child would rather not draw, write the five distances in order, longest first. Ask your child to say which was best and why.  
+  *Parent says:* Look at the distances. Which trumpet was best? Which was worst? Why do you think the wide mouth helped?  
+  *Child mode:* Show each trumpet's distance, as a bar or in a list. Which is longest?
   - Check: A wider ear trumpet lets you hear a quiet sound from further away. What does the wide mouth do? → **It collects more of the sound and sends it into the ear**
 
 ## Challenges
 ### c1 · A Doorbell Without Sound: tell someone who cannot hear that a visitor has come (35 min)
 - **problem:** A visitor is at the front door. Someone in the kitchen cannot hear a bell. Design a signal that tells them a visitor is at the door, using light, movement or touch, with no sound.
-- **your turn:** Sketch two ideas. Pick the one you think is best. Build it, and test it with a helper in another room. Did they notice it? How fast? What would make it better?
+- **your turn:** Say or sketch two ideas. Pick the one you think is best. Build it, and test it with a helper in another room. Did they notice it? How fast? What would make it better?
 - **constraints:** The signal must work with no sound at all.; It must be noticed by a person in another room, at least 5 metres away, who is busy and not looking at the door.; Use only things you already have at home, such as a torch, string, a flag, a phone and cloth.; A helper wearing earmuffs tests it. The helper is not allowed to peek at the door.
 - **general:** A light that flashes on and off in the kitchen when someone presses a switch at the door.; A string tied from the door handle to a cloth flag that waves in the kitchen when the door is knocked.
 - **creative:** A phone on a table that vibrates when called, with a ring of cups to make the vibration more visible. Test whether the helper notices the movement.; Three light signals, each made with a different colour of cloth, that mean different visitors, such as family, a friend or a delivery.
 - **s1 (5 min)**  
-  *Parent does:* Read the problem together. Ask your child to think about how a Deaf person might notice a visitor. Ask for two sketches.  
-  *Parent says:* Some people cannot hear a doorbell. How could they find out that a visitor has come, with no sound at all? Think of light, movement or touch. Sketch two ideas.  
-  *Child mode:* How could someone who cannot hear know a visitor came? Sketch two ideas.
+  *Parent does:* Read the problem together. Ask your child to think about how a Deaf person might notice a visitor. Ask for two ideas, said out loud or sketched.  
+  *Parent says:* Some people cannot hear a doorbell. How could they find out that a visitor has come, with no sound at all? Think of light, movement or touch. Tell me two ideas, or sketch them.  
+  *Child mode:* Think of light, movement or touch. Say two ideas, or sketch them.
   - Ask: What sort of signal would be easiest to notice if you were busy cooking? (good: A flashing light, because it catches the corner of my eye.; A waving flag, because it moves.; A vibration on the table, because I can feel it.)
   - Note: Many Deaf families already use flashing lights, vibrating pagers or phone alerts. Ask your child to think before they build. Do not use sound in the final signal.
 - **s2 (15 min)**  

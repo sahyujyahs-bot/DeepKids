@@ -834,8 +834,8 @@
           "what": "Guess first. Fill the bottles and measure the air columns. Tap the bottles and put them in order from the lowest note to the highest. Blow across them and put them in order again. Compare the two orders, and write your claim."
         }
       ],
-      "record": "Fill in the table. For each way of making the sound, write the place of each bottle from lowest note to highest. Draw a line to join the water amounts to the places, once for tapping and once for blowing.",
-      "context": "In this experiment, you tap and then blow across five bottles with different amounts of water, and find out whether the order of the notes stays the same.",
+      "record": "Fill in the table. For each way of making the sound, write the place of each bottle from lowest note to highest. Join the water amounts to the places with a line, once for tapping and once for blowing. Or tell your grown-up what you see.",
+      "context": "In this experiment, you tap and then blow across five bottles with different amounts of water, and find out whether the order of the notes stays the same. You will find out which bottle gives the highest note each way, and why.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example results: the place of each bottle from lowest note (1) to highest (5) when blown",
@@ -898,7 +898,7 @@
           "mins": 5,
           "do": "Show your child the bottles and the spoon. Explain that you will tap them and then blow across them. Ask for a guess and a reason, and write both down.",
           "say": "We have five bottles with different amounts of water. First we tap them, then we blow across them. Will the order of the notes be the same both times? Which bottle will be highest when tapped, and which when blown? Why do you think so?",
-          "kid": "We will tap the bottles, then blow across them. Will the order of the notes be the same? Why do you think so?",
+          "kid": "Look at the five bottles. We will tap them, and then blow across them.",
           "ask": [
             {
               "q": "Why do you think the order will be the same, or different?",
@@ -924,7 +924,7 @@
         {
           "id": "s3",
           "mins": 8,
-          "do": "Tap each bottle halfway up with the wooden spoon, once, gently. The helper keeps their eyes shut. Play two bottles one after the other and ask which is higher. Repeat each pair three times. Then give each bottle its place.",
+          "do": "Tap each bottle halfway up with the wooden spoon, once, gently. The helper keeps their eyes shut. Play two bottles one after the other and ask which is higher. Repeat each pair three times. Then line the five bottles up from the lowest note to the highest.",
           "say": "Close your eyes. I will tap two bottles. Which note is higher, the first or the second? We will do this for every pair of neighbours, three times each. Then we can put the five in order.",
           "kid": "Tap two bottles. Which is higher? Do every pair. Then put all five in order.",
           "parent": "Expected: the empty bottle gives the highest tapped note, and the fullest gives the lowest. If your bottles are plastic, the difference is hard to hear, so use glass. Steps of 50 millilitres are easy to hear on glass, but if two neighbours sound alike, compare the empty bottle and the fullest one first. Real tapped notes are short and dull, so listen closely and let the helper hear each pair more than once. Write the places from 1 (lowest) to 5 (highest).",
@@ -954,7 +954,7 @@
           "id": "s5",
           "mins": 8,
           "do": "Compare the two orders. Ask your child for their claim, evidence and reasoning before you explain anything.",
-          "say": "Look at the two orders. What do you notice? What is your claim? What is your evidence? Why do you think the orders are different? What is shaking when you tap, and what is shaking when you blow?",
+          "say": "Look at the two orders. Are they the same or different? How do you know? What is shaking when you tap, and what is shaking when you blow?",
           "kid": "Compare the two orders. What do you notice? What is shaking each time?",
           "ask": [
             {
@@ -1052,7 +1052,7 @@
         }
       ],
       "record": "Fill in the table with a score from 0 (silent) to 5 (loud squeak) for each try. Then add the three scores for each condition and rank the conditions.",
-      "context": "In this experiment, you find out which finger condition makes a squeak on glass, and which makes none.",
+      "context": "In this experiment, you find out which finger condition makes a squeak on glass, and which makes none. You will find out what makes a finger squeak, and what stops it.",
       "example_chart": {
         "type": "bar",
         "title": "Made-up example results: total squeak score for each finger condition (out of 15)",
@@ -1111,7 +1111,7 @@
           "mins": 4,
           "do": "Show your child the glass and the five finger conditions: dry, damp, very wet, soapy and oily. Ask for a guess and a reason, and write both down.",
           "say": "We will drag a finger across clean glass five ways: dry, damp, very wet, soapy and oily. Which will squeak loudest? Which will not squeak at all? Why do you think so?",
-          "kid": "We will try five kinds of finger on glass: dry, damp, very wet, soapy and oily. Which squeaks loudest? Which is silent? Why?",
+          "kid": "Look at the glass. We will try five kinds of finger on it: dry, damp, very wet, soapy and oily.",
           "ask": [
             {
               "q": "Why do you think that finger will squeak the most?",
@@ -1167,8 +1167,8 @@
           "id": "s5",
           "mins": 3,
           "do": "Compare the totals. Ask your child for their claim, evidence and reasoning before you explain anything.",
-          "say": "Which finger squeaked most? Which did not squeak? What is your claim? What is your evidence? Why do you think the damp finger is different from the dry one and the very wet one?",
-          "kid": "Which finger squeaked most? Which was silent? Why do you think so?",
+          "say": "Look at the totals. Which finger squeaked most? Which was silent? Was your guess right?",
+          "kid": "Look at your totals. Was your guess right?",
           "ask": [
             {
               "q": "Why does a damp finger squeak, but a dry or a very wet finger does not?",
@@ -1238,7 +1238,7 @@
         }
       ],
       "record": "A table with four columns and at least twelve sounds sorted into them. A note on the sound that was hardest to place.",
-      "context": "In this activity, you hunt for sounds around your home and sort them by how they are started: a solid shaking, air shaking in a space, a sudden pop or a rub.",
+      "context": "In this activity, you hunt for sounds around your home and sort them by how they are started: a solid shaking, air shaking in a space, a sudden pop or a rub. You will find out which way starts the most sounds in your home.",
       "setup": [
         {
           "art": "A child with a notebook and a pencil walking through a kitchen, tapping a steel tumbler and listening.",
@@ -1258,7 +1258,7 @@
           "id": "s1",
           "mins": 4,
           "do": "Show your child the four columns. Say that sounds start in four ways. Ask which column they think will hold the most sounds in the house, and why.",
-          "say": "We will hunt for sounds and sort them into four columns: shake, blow, pop and rub. Which column do you think will have the most sounds in our home? Why do you think so?",
+          "say": "We will hunt for sounds and sort them into four columns. Shake means a solid thing shakes. Blow means air shakes in a space. Pop means one sudden push of air. Rub means two surfaces stick and slip. Which column do you think will have the most sounds in our home? Why do you think so?",
           "kid": "Hunt for sounds. Sort them into four columns. Which will have the most? Why?",
           "ask": [
             {
@@ -1277,7 +1277,7 @@
           "id": "s2",
           "mins": 10,
           "do": "Walk round the house. Make each of these sounds, and write each one in a column. Tap a tumbler. Blow across the bottle. Clap. Open the door slowly. Squeak a damp finger on the glass.",
-          "say": "Make each sound and listen. Tap the tumbler. Blow across the bottle. Clap your hands. Open the door slowly. Squeak a damp finger on the glass. Which column does each one go in?",
+          "say": "Listen closely to each sound. Which column does it go in: shake, blow, pop or rub?",
           "kid": "Tap the tumbler. Blow across the bottle. Clap. Open the door. Squeak the glass.",
           "parent": "The squeaky glass needs a damp finger on clean glass. If it will not squeak, count the door or a rubbed balloon instead. Expected: tumbler in shake, bottle in blow, clap in pop, door and glass in rub. Let your child decide first. If they put the clap in shake, ask where the shaking is.",
           "check": {
@@ -1296,7 +1296,7 @@
         {
           "id": "s3",
           "mins": 7,
-          "do": "Find at least seven more sounds and write them in the columns. Think of the fridge, the fan, the pressure cooker, the mixie, a bird at the window and your own voice.",
+          "do": "Find at least seven more sounds and write them in the columns.",
           "say": "Find seven more sounds in the house or outside the window. Think of the fridge, the fan, the cooker, the mixie and a bird. Write each in a column. If you are not sure, write it between two columns.",
           "kid": "Find seven more sounds. Put each in a column. Write between two columns if unsure.",
           "parent": "Some sounds fit two columns. A pressure cooker whistle, a mixie and a bird's call each use more than one way. That is fine. Ask the child where the shaking is.",
@@ -1306,7 +1306,7 @@
           "id": "s4",
           "mins": 4,
           "do": "Ask your child to choose the sound that was hardest to place, and to explain why. Ask them for their claim, evidence and reasoning.",
-          "say": "Which sound was the hardest to place? Why? What is your claim about how it starts? What did you notice? Why do you think so?",
+          "say": "Which sound was the hardest to place? Why? How do you think it starts? What did you hear that tells you?",
           "kid": "Which sound was hard to place? Why? What do you think starts it?",
           "ask": [
             {
@@ -1354,7 +1354,7 @@
         }
       ],
       "record": "A table with two rows, spoken and whispered, and the number of vowels the listener got right out of ten in each row. Note the number you would expect from guessing alone.",
-      "context": "In this activity, you find out whether a listener can tell the vowels 'ee', 'aa' and 'oo' apart when they are whispered, with no buzz from the throat.",
+      "context": "In this activity, you find out whether a listener can tell the vowels 'ee', 'aa' and 'oo' apart when they are whispered, with no buzz from the throat. You will find out where the vowel sounds really come from.",
       "setup": [
         {
           "art": "A child with two fingers on her throat, saying 'aaa' out loud and then whispering 'aaa', with a small buzz drawn in the first case only.",
@@ -1374,7 +1374,7 @@
           "id": "s1",
           "mins": 5,
           "do": "Ask your child to put two fingers on their throat and say 'aaa' out loud, then whisper 'aaa'. Ask what they feel. Then ask them to guess whether a listener can tell whispered vowels apart, and why.",
-          "say": "Put two fingers on your throat. Say 'aaa' out loud. Now whisper 'aaa'. What do you feel? In the test, a listener will try to tell 'ee', 'aa' and 'oo' in a whisper. Can they? Why do you think so?",
+          "say": "Put two fingers on your throat. Say 'aaa' out loud. Now whisper 'aaa'. What do you feel? In the test, a listener will try to tell 'ee', 'aa' and 'oo' in a whisper.",
           "kid": "Touch your throat. Say 'aaa', then whisper it. What do you feel?",
           "ask": [
             {
@@ -1442,8 +1442,8 @@
           "id": "s5",
           "mins": 4,
           "do": "Count the right answers for each row. Ask your child for their claim, evidence and reasoning. Then ask them to try pinching their nose and saying 'mama'.",
-          "say": "Count the right answers for spoken and whispered. What is your claim about where vowels come from? What is your evidence? Why do you think so? Now pinch your nose and say 'mama'. What changes?",
-          "kid": "Count the right answers. Where do vowels come from? Pinch your nose and say 'mama'.",
+          "say": "Count the right answers for spoken and whispered. What do you notice? Now pinch your nose and say 'mama'. What changes?",
+          "kid": "Count the right answers. Pinch your nose and say 'mama'.",
           "ask": [
             {
               "q": "If a whisper has no buzz, where do the vowels come from?",
@@ -1496,7 +1496,7 @@
         }
       ],
       "record": "Write which vessel boomed at which kind of note (low, middle or high). Write the depth of each vessel in centimetres. Write whether the bathroom boomed at any note.",
-      "context": "In this activity, you hum slowly from low to high near the mouth of a pot and find the one note where the pot seems to answer. You then try different vessels and a bathroom.",
+      "context": "In this activity, you hum slowly from low to high near the mouth of a pot and find the one note where the pot seems to answer. You then try different vessels and a bathroom. You will find out which space answers at the lowest note.",
       "setup": [
         {
           "art": "A child holding a large steel pot in front of her mouth and humming, with faint sound lines rising from the pot at one note.",
@@ -1516,7 +1516,7 @@
           "id": "s1",
           "mins": 3,
           "do": "Show your child the big pot and the small vessel. Ask which will boom at a lower note when a person hums near it, and why.",
-          "say": "We will hum near the mouth of a pot, slowly from low to high. At one note the pot will answer back. Which will answer at a lower note, the big pot or the small tumbler? Why do you think so?",
+          "say": "We will hum near the mouth of a pot, slowly from low to high. At one note the pot will answer back. Which will answer at a lower note, the big pot or the small tumbler?",
           "kid": "Hum near a pot. Find the note where it booms. Which booms at a lower note, the big pot or the small tumbler?",
           "ask": [
             {
@@ -1563,9 +1563,9 @@
         {
           "id": "s4",
           "mins": 5,
-          "do": "Ask your child for their claim, evidence and reasoning. Then ask where else they have heard a space answer back, such as a stairwell, a temple hall or a well.",
-          "say": "What is your claim about which space answers at the lowest note? What did you notice? Why do you think so? Where else have you heard a place answer back when you sing or shout?",
-          "kid": "Which space gave the lowest note? Why? Where else have you heard this?",
+          "do": "Ask which space answered at the lowest note and how they know. Then ask where else they have heard a space answer back, such as a stairwell, a temple hall or a well.",
+          "say": "Which space answered at the lowest note? What did you notice? Where else have you heard a place answer back when you sing or shout?",
+          "kid": "Which space gave the lowest note? Where else have you heard a place answer back?",
           "ask": [
             {
               "q": "Why does singing in a bathroom sound better than singing in a field?",
@@ -1628,7 +1628,7 @@
         }
       ],
       "record": "A table with five bottles, the note names, the amount of water in each and the air column length. A note on whether equal steps in notes need equal steps in water.",
-      "context": "In this project, you tune five bottles to a scale by changing the water in each, and then play a tune on them by blowing across the tops.",
+      "context": "In this project, you tune five bottles to a scale by changing the water in each, and then play a tune on them by blowing across the tops. You will make a real instrument and find out how the amount of water changes the note.",
       "setup": [
         {
           "art": "Five bottles in a row with different amounts of water, labelled Sa, Re, Ga, Pa and Dha.",
@@ -1648,7 +1648,7 @@
           "id": "s1",
           "mins": 5,
           "do": "Show your child the bottles and the harmonium or keyboard. Ask for a guess and a reason about which bottle will need the most water for Sa and which for Dha.",
-          "say": "We will tune five bottles to Sa, Re, Ga, Pa and Dha, by changing the water. Which note needs the most water, Sa or Dha? Why do you think so?",
+          "say": "We will tune five bottles to five notes of the scale: Sa, Re, Ga, Pa and Dha. We do it by changing the water. Which note needs the most water, Sa or Dha?",
           "kid": "Tune five bottles to a scale with water. Which needs most water, Sa or Dha?",
           "ask": [
             {
@@ -1666,7 +1666,7 @@
         {
           "id": "s2",
           "mins": 25,
-          "do": "First blow across the empty bottle and find its note on the harmonium or keyboard. Call that note Sa. Now play Re, Ga, Pa and Dha above it. For each next bottle, start with the first-guess amount in the parent note and blow across it. If the note is too low, add water. If it is too high, pour a little out. Match it, and label the bottle. Each bottle needs more water than the one before.",
+          "do": "First blow across the empty bottle and find its note on the harmonium or keyboard. Call that note Sa. Now play Re, Ga, Pa and Dha above it. For each next bottle, pour in a little water and blow across it. If the note is too low, add water. If it is too high, pour a little out. Match it, and label the bottle. Each bottle needs more water than the one before.",
           "say": "Blow across the empty bottle. Play that note on the harmonium. We will call it Sa. Now fill the next bottle a little and blow across it. Is it lower or higher than Sa? Add water to go higher, or pour some out to go lower. Match it, and label it. Then do Re, Ga, Pa and Dha.",
           "kid": "Play a note. Blow across a bottle. Add water to go higher. Pour out to go lower.",
           "adult": false,
@@ -1698,7 +1698,7 @@
           "id": "s4",
           "mins": 15,
           "do": "Choose a short tune made of those five notes. Practise it, and then play it for the family. Write down the water amounts and the air column lengths in your table. Notice if equal steps in notes needed equal steps in water.",
-          "say": "Choose a tune that uses only these five notes. Practise it a few times, and then play it for the family. Afterwards, look at your table. Did each step up the scale need the same extra water?",
+          "say": "Choose a tune that uses only these five notes. Practise it a few times, and then play it for the family. Afterwards, look at your table.",
           "kid": "Pick a tune. Practise it. Play it for your family. Look at your water amounts.",
           "wait": "Do this on day 2.",
           "ask": [
@@ -1749,8 +1749,8 @@
         "Use a funnel of paper at the end to make the note louder, and tune it by pushing the paper in.",
         "Fill part of the tube with water to shorten the air column, using a tube that is closed at the bottom."
       ],
-      "your_turn": "Sketch your design on paper. Build it and test it. Change one thing, such as the position of a hole, and test again. Which design gave the three clearest notes? Why do you think it worked?",
-      "context": "This is a design challenge about air columns. You change the length of the air inside a tube to change the note.",
+      "your_turn": "Plan your design by sketching it or telling a grown-up. Build it and test it. Change one thing, such as the position of a hole, and test again. Which design gave the three clearest notes? Why do you think it worked?",
+      "context": "This is a design challenge about air columns. You change the length of the air inside a tube to change the note. You will find out how to get three different notes from one tube.",
       "setup": [
         {
           "art": "A child with a cardboard tube held to her lips, blowing across the open end, with sound lines rising.",
@@ -1769,9 +1769,9 @@
         {
           "id": "s1",
           "mins": 8,
-          "do": "Read the problem together. Look at the constraints. Ask your child to sketch two or three ways to change the air column in the tube.",
-          "say": "You have one tube, and you must get three notes out of it. What changes the note of an air column? Draw some ideas for how you could make the air column longer or shorter.",
-          "kid": "Get three notes from one tube. Draw two ideas for changing the air column.",
+          "do": "Read the problem together. Look at the constraints. Ask your child to tell you, or sketch, two or three ways to change the air column in the tube.",
+          "say": "You have one tube, and you must get three notes out of it. Tell me some ideas for changing the air inside it. You can draw them if you like.",
+          "kid": "Get three notes from one tube. Tell your grown-up two ideas for changing the air column. You can draw them too.",
           "ask": [
             {
               "q": "What changes the note of a tube?",
@@ -1807,7 +1807,7 @@
         {
           "id": "s3",
           "mins": 12,
-          "do": "Build your first design. Test whether it gives three clearly different notes. Ask a listener with their eyes closed to tell the notes apart. Write down what works.",
+          "do": "Build your first design, for example side holes covered with tape that you uncover one at a time. Test whether it gives three clearly different notes. Ask a listener with their eyes closed to tell the notes apart. Write down what works.",
           "say": "Build your first design. Play your three notes. Ask a listener with their eyes closed whether they can tell them apart. Write down what worked and what did not.",
           "kid": "Build your design. Play three notes. Can a listener tell them apart?",
           "parent": "A grown-up cuts any holes with scissors, with the child watching from a distance, and keeps all the pieces. With 2 to 4 children, each child designs and tests their own tube, then the group votes which tube gave the clearest notes. Mark the hole positions with a pencil first. Tell the child that holes nearer the far end change the note less than holes near the blowing end. The first try rarely works, and that is fine.",
@@ -1835,7 +1835,7 @@
           "id": "s5",
           "mins": 4,
           "do": "Ask your child to explain which design worked best, and how it uses the length of the air column.",
-          "say": "Which design gave the three clearest notes? How did you change the air column? How is a bansuri like your tube?",
+          "say": "Which design gave the three clearest notes? How did you change the air column?",
           "kid": "Which design was best? How did you change the air?",
           "ask": [
             {
