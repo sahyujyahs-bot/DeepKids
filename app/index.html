@@ -14723,7 +14723,7 @@ function fxSetup(u, x, small) {
 // every step of an activity shows that activity's pictures, so the child sees what to do while doing it
 const fxHasPics = (u, x) => (x.setup || []).some((st, i) => st.scene || u.img?.[`setup.${x.id}.${i}`]);
 const fxHow = (u, o) => {
-  if (o?.show?.length)
+  if (Array.isArray(o?.show) && o.show.length)
     return fxSetup(u, { setup: o.show, title: "", id: "show" }, true).replace(
       "<b>How the  works:</b>",
       "<b>What happens:</b>",
@@ -14861,7 +14861,7 @@ function fxFlowCards(u, kind, x) {
     C.push({
       key: "pieces." + x.id,
       kind,
-      html: `<div class="fxtxt"><span class="fxeb">🃏 The game pieces</span><p class="fxsm">Print them, or play straight from the screen. Tap a card to pick it.</p>${x.printables.map((p) => `<h3>${esc(p.title)}</h3><div class="fxpieces ${p.kind.replace(/\W/g, "")}">${p.items.map((it, j) => fxPiece(it, j, p.kind)).join("")}</div>${p.items.some((it) => it.b) ? `<p class="fxhint">Tap a card to turn it over.</p>` : ""}`).join("")}<h3>How to play</h3><ol>${x.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol><button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the pieces</button></div>`,
+      html: `<div class="fxtxt"><span class="fxeb">🃏 The game pieces</span><p class="fxsm">Print them, or play straight from the screen. Tap a card to pick it.</p>${x.printables.map((p) => `<h3>${esc(p.title)}</h3><div class="fxpieces ${p.kind.replace(/\W/g, "")}">${p.items.map((it, j) => fxPiece(it, j, p.kind)).join("")}</div>${p.items.some((it) => it.b) ? `<p class="fxhint">Tap a card to turn it over.</p>` : ""}`).join("")}${x.rules?.length ? `<h3>How to play</h3><ol>${x.rules.map((r) => `<li>${esc(r)}</li>`).join("")}</ol>` : ""}<button class="fxb" data-fx="print" data-id="${x.id}">🖨️ Print the pieces</button></div>`,
     });
   x.flow.forEach((s, i) => {
     const st = own && x.setup[i],
