@@ -164,13 +164,13 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 
 ## Games
 ### g1 · Grow, Go or Protect? A card sorting game (15 min)
-- **rules:** Draw the four sheets and lay them on the floor. Mix the cards and stack them face down. Each player starts a tally on paper.; Take turns. Turn over the top card and read the food aloud. Say which sheet it goes on, and why.; Another player reads the back aloud. If you were right, put the card on that sheet and add a tick to your tally. If the back names two jobs, either sheet counts.; If you were wrong, put the card on the sheet the back names. You get no tick.; When the pile is empty, the player with most ticks wins. Playing alone? Count your ticks out of 20, and try to beat your score next time.; Last, count the cards on each sheet. Is the Treat sheet the smallest?
+- **rules:** Label four sheets of paper and lay them on the floor. Mix the cards and stack them face down. Each player starts a tally on paper.; Take turns. Turn over the top card and read the food aloud. Say which sheet it goes on, and why.; Another player reads the back aloud. If you were right, put the card on that sheet and add a tick to your tally. If the back names two jobs, either sheet counts.; If you were wrong, put the card on the sheet the back names. You get no tick.; When the pile is empty, the player with most ticks wins. Playing alone? Count your ticks out of 20, and try to beat your score next time.; Last, count the cards on each sheet. Is the Treat sheet the smallest?
 - **Printable cards: 20 food cards to cut out:** Dal (back: Grow. Dal is rich in protein, which builds muscle and skin.); Milk (back: Grow, and energy too. Milk also has calcium for bones.); Curd (back: Grow. Curd is milk thickened by helpful bacteria.); Egg (back: Grow. An egg is full of protein.); Fish (back: Grow. Fish is full of protein.); Paneer (back: Grow. Paneer is the protein and fat of milk, pressed together.); Groundnuts (back: Grow, and lots of energy from their oil.); Rice (back: Go. Rice is mostly starch, which becomes sugar for energy.); Ragi mudde (back: Go. Ragi is mostly starch. It also has lots of calcium.); Chapati (back: Go. Wheat flour is mostly starch.); Idli (back: Go. Idli is made from rice and urad dal, so it gives some grow food too.); Potato (back: Go. A potato is a store of starch.); Spinach or keerai (back: Protect. Green leaves give iron and folate, which your blood needs.) [picture]; Carrot (back: Protect. Carrots help your body make vitamin A, for your eyes.); Guava (back: Protect. Guava has lots of vitamin C.) [picture]; Amla (back: Protect. Amla has lots of vitamin C.) [picture]; Tomato (back: Protect. Tomatoes give vitamins and water.); Banana (back: Protect, and energy too. Bananas have sugar and minerals.) [picture]; Jalebi (back: Treat. Jalebi is fried and soaked in sugar syrup.); Packet of chips (back: Treat. Chips are fried, with lots of salt and oil.)
-- **Printable board: Four sheets to draw on paper:** A red sheet with a big G: 'Grow: builds and mends me'; A yellow sheet with a big 'Go': 'Go: gives me energy'; A green sheet with a big P: 'Protect: keeps me well'; A small pink sheet with a star: 'Treat: now and then'
+- **Printable board: Four sheets of paper to label:** A red sheet with a big G: 'Grow: builds and mends me'; A yellow sheet with a big 'Go': 'Go: gives me energy'; A green sheet with a big P: 'Protect: keeps me well'; A small pink sheet with a star: 'Treat: now and then'
 - **s1 (3 min)**  
-  *Parent does:* 1. Cut out the 20 cards. 2. Draw the four sheets. 3. Mix the cards and stack them face down.  
+  *Parent does:* 1. Cut out the 20 cards. 2. Write Grow, Go, Protect and Treat on four sheets of paper. 3. Mix the cards and stack them face down.  
   *Parent says:* Every food has a main job. Grow foods build you. Go foods give energy. Protect foods keep you well. Treats are for now and then.  
-  *Child mode:* Grow builds you. Go gives energy. Protect keeps you well.
+  *Child mode:* Learn the four sheets: Grow, Go, Protect and Treat.
 - **s2 (10 min)**  
   *Parent does:* Take turns to turn a card, say which sheet it goes on and why, and put it there. Another player reads the back aloud.  
   *Parent says:* Where does this one go? Why do you think so? Let's read the back.  
@@ -179,16 +179,16 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
   - Check: Which sheet does rice go on? → **Go**
 - **s3 (2 min)**  
   *Parent does:* Count the cards on each sheet. Then look at the cards on the Grow, Go and Protect sheets, and find the ones whose back names two jobs.  
-  *Parent says:* Which cards said two jobs on the back? Why do you think some foods do two jobs?  
-  *Child mode:* Which foods do two jobs?
+  *Parent says:* Some backs named two jobs. Can you find them? Why might a food do two jobs?  
+  *Child mode:* Look at the backs. Find the cards with two jobs.
   - Ask: Which foods do two jobs? (good: Milk.; Groundnuts.; Banana.)
 ### g2 · Fill the Thali: a collecting card game (15 min)
-- **rules:** Each player draws a thali with a Grow bowl, a Go bowl, a Protect bowl and a Treat star. Mix the cards. Give each player 3 cards to hold, with the food names facing you. Put the rest face down in a pile.; On your turn, pick up the top card of the pile. You now hold 4 cards. Then do one of two things: lay one card on your thali, or put one card face up on a new discard pile. You end your turn holding 3 cards.; Before you lay a card on your thali, say its job. Another player reads the back. If you were right, put the card in the matching bowl, if that bowl is empty. If you were wrong, the card goes on the discard pile.; Each bowl holds one card. A Treat goes only on the Treat star, and only one. When you lay a Treat, take another turn straight away. If you already have a Treat on your star, any other Treat goes on the discard pile.; If the pile runs out, shuffle the discard pile and turn it face down as the new pile.; The first player with a Grow, a Go and a Protect food on their thali says 'Full thali!' and wins. The Treat is a bonus, not needed to win.
+- **rules:** Each player takes a sheet of paper and writes four places on it: a Grow bowl, a Go bowl, a Protect bowl and a Treat star. Mix the cards. Give each player 3 cards to hold, with the food names facing you. Put the rest face down in a pile.; On your turn, pick up the top card of the pile. You now hold 4 cards. Then do one of two things: lay one card on your thali, or put one card face up on a new discard pile. You end your turn holding 3 cards.; Before you lay a card on your thali, say its job. Another player reads the back. If you were right, put the card in the matching bowl, if that bowl is empty. If you were wrong, the card goes on the discard pile.; Each bowl holds one card. A Treat goes only on the Treat star, and only one. When you lay a Treat, take another turn straight away. If you already have a Treat on your star, any other Treat goes on the discard pile.; If the pile runs out, shuffle the discard pile and turn it face down as the new pile.; The first player with a Grow, a Go and a Protect food on their thali says 'Full thali!' and wins. The Treat is a bonus, not needed to win.
 - **Printable cards: 24 thali cards to cut out:** Sambar (back: Grow); Rajma (back: Grow); Chana sundal (back: Grow); Moong dal (back: Grow); Boiled egg (back: Grow); Fish fry (back: Grow); Curd rice (back: Go); Dosa (back: Go); Thepla (back: Go); Puttu (back: Go); Jowar roti (back: Go); Sweet potato (back: Go); Beans thoran (back: Protect); Palak (back: Protect); Papaya (back: Protect) [picture]; Cucumber (back: Protect); Bhindi (back: Protect) [picture]; Orange (back: Protect); Payasam (back: Treat); Gulab jamun (back: Treat); Rasgulla (back: Treat); Murukku (back: Treat); Fizzy drink (back: Treat); Samosa (back: Treat)
-- **Printable board: A thali to draw for each player: four spots:** A Grow bowl on a round thali: one card goes here; A Go bowl on the same thali: one card goes here; A Protect bowl on the same thali: one card goes here; A small star-shaped Treat spot at the edge of the thali: one Treat card goes here
+- **Printable board: A thali for each player: four spots:** A Grow bowl on a round thali: one card goes here; A Go bowl on the same thali: one card goes here; A Protect bowl on the same thali: one card goes here; A small star-shaped Treat spot at the edge of the thali: one Treat card goes here
 - **s1 (2 min)**  
-  *Parent does:* 1. Give each player 3 cards and a drawn thali. 2. Explain that a full thali needs one food for each job, and that the star spot is for one Treat.  
-  *Parent says:* A full thali has a grow food, a go food and a protect food. You may have one treat, but no more.  
+  *Parent does:* 1. Give each player 3 cards and a labelled thali sheet. 2. Explain that a full thali needs one food for each job, and that the star spot is for one Treat.  
+  *Parent says:* A full thali has a grow food, a go food for energy, and a protect food. You may have one treat, but no more.  
   *Child mode:* Fill your thali: one Grow, one Go, one Protect.
 - **s2 (11 min)**  
   *Parent does:* Play in turns. Before a player lays a card, ask them to say its job. Another player then reads the back.  
@@ -198,7 +198,7 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 - **s3 (2 min)**  
   *Parent does:* Look at the winning thali together. Ask which food does which job, and why a full thali needs all three.  
   *Parent says:* Look at the winning thali. Which food is the grow food, which is the go food, and which is the protect food? Why does a full thali need one of each?  
-  *Child mode:* Look at the winning thali. Which food is grow, which is go, and which is protect? Why do we need all three?
+  *Child mode:* Point to each food in the winning thali and say its job.
   - Note: Each food in the winning thali does a different job. The grow food builds and mends the body, the go food gives energy, and the protect food helps the body stay well. A good answer says that a meal with only one kind leaves out the other two jobs.
 
 ## Experiments
@@ -207,18 +207,18 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 - **predict:** Look at the three bowls. Which ones do you think will go runny in ten minutes? Why do you think so?
 - **fair test:** The two paste bowls get the same amount of paste from the same pot, the same amount of water or spit, the same number of stirs, and the same waiting time. Only one thing changes between them: water or spit. The curd bowl is a different food, so it is not a fair comparison with the paste. It shows whether spit thins everything or only starch.
 - **safety:** A grown-up cooks the paste on the stove and lets it cool fully before the child touches it. Throw the paste and curd away at the end and wash the bowls with soap. Do not eat them.
-- **record:** Draw the three bowls. Draw the paste in each one as thick or runny after ten minutes. Write the drip count under each bowl.
+- **record:** Fill in the results table. Write the drip count for each bowl, and whether it is thick or runny after ten minutes. Take a photo of the three bowls, or draw them.
 - **results table:** Bowl | My guess: runny or thick? | Spoon drip count at the start | Spoon drip count after 10 minutes | Runny or thick?
 - **s1 (6 min) · grown-up needed**  
   *Parent does:* 1. Stir 1 level tablespoon of rice flour into half a small cup of cold water. 2. Heat it on low, stirring, until it turns thick and see-through at the edges. 3. Pour it into a bowl and let it cool fully.  
-  *Parent says:* I am cooking rice flour in water. Watch it go thick. Rice flour is full of starch. Hot water makes starch swell and turn thick.  
+  *Parent says:* I am cooking rice flour in water. Watch it go thick. Rice flour is full of starch, the food that rice stores inside. Hot water makes starch swell and turn thick.  
   *Child mode:* A grown-up cooks the flour in water. Watch it turn thick.
   - Note: Aim for paste like thick custard: it should fall slowly off a spoon. If it is too stiff to pour, stir in a spoon of water. Cornflour or ragi flour work too. Best of all, cook it 20 minutes before you start, so it is cool. Or stand the bowl in a plate of cold water. Hot paste would stop the test working, and could burn.
 - **s2 (4 min)**  
   *Parent does:* 1. Put 2 tablespoons of paste into bowl 1 and 2 tablespoons into bowl 2. 2. Put 2 tablespoons of curd into bowl 3. 3. Ask for a guess and a reason.  
-  *Parent says:* Bowl 1 gets water. Bowl 2 gets your spit. Bowl 3 is curd, and gets your spit too. Which ones will go runny? Why do you think so?  
-  *Child mode:* Bowl 1 gets water. Bowl 2 and bowl 3 get spit. Which will go runny? Why?
-  - Ask: Why do you think so? (good: Water makes things thin, so bowl 1.; Spit is wet, so maybe bowl 2 and 3.; Nothing will change. Spit is just water.)
+  *Parent says:* Bowl 1 gets water. Bowl 2 gets your spit. Bowl 3 is curd, and gets your spit too. Which ones will go runny?  
+  *Child mode:* Bowl 1 gets water. Bowls 2 and 3 get spit. Guess which ones will go runny.
+  - Ask: Why do you think those bowls will go runny? (good: Water makes things thin, so bowl 1.; Spit is wet, so maybe bowl 2 and 3.; Nothing will change. Spit is just water.)
   - Note: Write each guess in the table. Many children guess the water bowl will go runniest. That is a good guess, because water does thin things a little.
 - **s3 (4 min)**  
   *Parent does:* 1. Before adding anything, lift a spoonful from each bowl and count how long until it drips off. 2. Write the drip counts down.  
@@ -237,24 +237,24 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
   - Note: Starchy foods include rice, ragi, wheat, jowar, bajra, potato, sweet potato, tapioca, idli, dosa, poha and bread.
 - **s6 (4 min)**  
   *Parent does:* 1. Stir each bowl twice. 2. Do the spoon drip count again for each bowl. 3. Tip each bowl gently and watch how the paste moves.  
-  *Parent says:* Let's count again. Which bowl has changed? What do you see?  
-  *Child mode:* Count again for each bowl. Which one changed?
+  *Parent says:* Let's count again, the same way as before.  
+  *Child mode:* Count again for each bowl. Tip each bowl and watch the paste move.
   - Ask: What happened to each bowl? (good: The spit paste went runny.; The water paste stayed thick.; The curd stayed thick even with spit.)
   - Note: The paste with spit is usually much thinner after 10 minutes, and runs across the bowl when tipped. The water paste stays almost the same. The curd stays thick, because curd is thick from milk protein, not starch. If the spit bowl has hardly changed, wait 10 more minutes and count again. People's spit works at different speeds.
 - **s7 (2 min)**  
   *Parent does:* Ask your child what they think spit does, and what they saw that tells them so. Then tell them about amylase. Throw the paste and curd away and wash the bowls.  
   *Parent says:* What do you think spit does? What did you see that tells you? Spit has a helper called amylase. It cuts starch into sugar.  
-  *Child mode:* What did spit do? Spit cuts starch into sugar. That gives you energy.
+  *Child mode:* Tell your grown-up what you saw. Then listen to why it happened.
   - Note: A strong answer has a claim, evidence and a reason. For example: 'Spit changes starch. The spit paste dripped off in 1 count, but the water paste took 7. The curd did not change, so spit works on starch.'
   - Check: Which bowl went runny? → **Rice paste with spit**
 
 ## Activities
 ### a1 · Grow, Go or Protect? Sort your lunch (15 min)
-- **record:** Draw the three sheets with the foods you put on each.
+- **record:** Take a photo of your three sheets with the foods on them, or write the foods in three lists: G, E and P.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the three marked sheets. 2. Say what each job means, with one example.  
   *Parent says:* Grow foods build your muscles, skin and blood, like dal. Energy foods give you the energy to move, like rice. Protect foods help you stay well, like carrots.  
-  *Child mode:* Grow foods build you. Energy foods give you energy to move. Protect foods keep you well.
+  *Child mode:* Learn the three sheets: G is grow, E is energy, P is protect.
 - **s2 (8 min)**  
   *Parent does:* Your child picks up each food, says its name, and puts it on a sheet. Ask why for each one.  
   *Parent says:* Where does this one go? Why do you think so?  
@@ -264,15 +264,15 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 - **s3 (4 min)**  
   *Parent does:* Ask if any food could go on two sheets. Put it between them.  
   *Parent says:* Can any food do two jobs? Milk helps you grow, and gives energy too. Can you find another one?  
-  *Child mode:* Can a food do two jobs? Put it between two sheets.
+  *Child mode:* Find a food that does two jobs. Put it between two sheets.
   - Ask: Which food could go on two sheets? (good: Milk, grow and energy.; Dal, grow and energy.; Banana, energy and protect.)
   - Note: This is the most important step. Most foods are a mix, and the three sheets are a helpful sort, not exact boxes.
 ### a2 · Make Poha: one breakfast, three jobs (25 min)
-- **record:** Draw your plate of poha. Colour each part red for grow, yellow for energy or green for protect.
+- **record:** Tell your grown-up one food on your plate for each job. Or take a photo of your plate, or draw it and colour each part red for grow, yellow for energy or green for protect.
 - **s1 (5 min)**  
   *Parent does:* 1. Your child puts the poha in a sieve and rinses it under the tap for about 10 seconds. 2. Leave it to soften for 5 minutes.  
-  *Parent says:* Feel the dry poha. Now rinse it. What happens to the flakes?  
-  *Child mode:* Feel the dry poha. Rinse it. What happens?
+  *Parent says:* Feel the dry poha first. Then rinse it under the tap. What do you notice?  
+  *Child mode:* Rinse the poha. Feel how the flakes change.
   - Note: Rinse only briefly. Soaking too long makes poha mushy.
 - **s2 (12 min) · grown-up needed**  
   *Parent does:* 1. A grown-up heats the oil and adds mustard seeds, curry leaves and peanuts. 2. Add the onion, then the peas and turmeric. 3. Add the poha and salt and stir for 2 minutes.  
@@ -287,44 +287,44 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 - **s4 (5 min)**  
   *Parent does:* Eat together. Ask your child to find one food for each job on the plate.  
   *Parent says:* Find an energy food on your plate. Now a grow food. Now a protect food.  
-  *Child mode:* Find an energy food. A grow food. A protect food.
+  *Child mode:* Point to one food for each job.
   - Ask: What job does each food on your plate do? (good: Poha is energy, because it is rice.; Peanuts help me grow.; Peas, lemon and coriander protect me.)
 ### a3 · How Many Spoons? Nimbu pani made two ways (15 min)
-- **record:** Draw the two tumblers with the spoons of sugar beside each one.
+- **record:** Write how many spoons of sugar were in A and in B, and which tumbler you liked more. Or take a photo of the two tumblers and the sugar heap.
 - **s1 (5 min)**  
-  *Parent does:* 1. Squeeze half a lemon into each tumbler and add a pinch of salt. 2. Your child adds 1 level spoon of sugar to tumbler A and 4 to tumbler B. 3. Stir both until the sugar disappears.  
+  *Parent does:* 1. Call the tumblers A and B. Squeeze half a lemon into each and add a pinch of salt. 2. Your child adds 1 level spoon of sugar to tumbler A and 4 to tumbler B. 3. Stir both until the sugar disappears.  
   *Parent says:* Tumbler A gets one spoon of sugar. Tumbler B gets four. Count them in with me.  
-  *Child mode:* One spoon in A. Four spoons in B. Stir!
+  *Child mode:* Add the sugar. Stir until it is gone.
 - **s2 (4 min)**  
   *Parent does:* Your child takes one small sip from each tumbler and says which they like more.  
   *Parent says:* Take one small sip of each. Which tastes nicer to you? Can you still taste the lemon in B?  
-  *Child mode:* Sip A. Sip B. Which do you like? Why?
+  *Child mode:* Sip each one. Notice how sweet each one tastes.
   - Note: Many children like B at first. That is fine, and honest. Ask if A is still nice. Share the drinks with the family rather than one child drinking all of B.
 - **s3 (6 min)**  
   *Parent does:* 1. Make a heap of 5 level teaspoons of sugar on the white plate. 2. Tell your child this is about how much sugar is in one glass of many sweet fizzy drinks.  
   *Parent says:* This heap is five spoons of sugar. Many sweet fizzy drinks have this much in one glass. That is more than your sweet tumbler B.  
-  *Child mode:* Five spoons of sugar! That is in one glass of fizzy drink.
-  - Ask: Why do you think a fizzy drink is a treat, not an everyday drink? (good: It has lots of sugar.; The sugar is bad for my teeth.; It fills me up but does not help me grow.)
+  *Child mode:* Look at the heap. Think of drinking all of it in one glass.
+  - Ask: Why is a fizzy drink a treat, not an everyday drink? (good: It has lots of sugar.; The sugar is bad for my teeth.; It fills me up but does not help me grow.)
   - Note: A level teaspoon of sugar is about 4 grams. Many sweet fizzy drinks have about 10 grams of sugar in every 100 ml, so a 200 ml glass has about 20 grams. Pour the sugar back in the jar after.
 
 ## Projects
 ### p1 · My Week of Plates: colour the three jobs (35 min, 7 days)
-- **record:** Seven coloured plates, and a count of each colour at the end.
-- **schedule:** day 1: Draw today's plate and colour each food by its job. (5 min); day 2: Draw and colour today's plate. (4 min); day 3: Draw and colour today's plate. (4 min); day 4: Draw and colour today's plate. (4 min); day 5: Draw and colour today's plate. (4 min); day 6: Draw and colour today's plate. (4 min); day 7: Draw the last plate. Count the red, yellow, green and pink foods for the whole week. (10 min)
+- **record:** Seven days of foods with coloured dots, and a count of each colour at the end.
+- **schedule:** day 1: Record today's plate and mark each food by its job. (5 min); day 2: Record and mark today's plate. (4 min); day 3: Record and mark today's plate. (4 min); day 4: Record and mark today's plate. (4 min); day 5: Record and mark today's plate. (4 min); day 6: Record and mark today's plate. (4 min); day 7: Record the last plate. Count the red, yellow, green and pink dots for the whole week. (10 min)
 - **s1 (5 min)**  
-  *Parent does:* After lunch or dinner, your child draws what was on their plate and colours each food.  
-  *Parent says:* Draw what you ate today. Colour grow foods red, go foods yellow, protect foods green, and treats pink.  
-  *Child mode:* Draw your plate. Red is grow. Yellow is go. Green is protect. Pink is a treat.
+  *Parent does:* After lunch or dinner, your child writes down each food that was on their plate and puts a coloured dot by it. They can also draw the plate and colour each food.  
+  *Parent says:* What was on your plate today? Write each food. Put a red dot by grow foods, yellow by go foods, green by protect foods, and pink by treats.  
+  *Child mode:* List what you ate. Put a dot by each food. Red is grow, yellow is go, green is protect and pink is a treat.
   - Note: Draw the same meal each day, lunch or dinner, so the days are fair to compare. A mixed dish like sambar can get two colours.
 - **s2 (4 min)**  
-  *Parent does:* Each day, your child draws and colours one plate.  
-  *Parent says:* Time to draw today's plate. Which colour is there most?  
-  *Child mode:* Draw today's plate. Which colour is there most?
-  - Wait: Draw a plate every day for 7 days.
+  *Parent does:* Each day, your child writes down the foods on their plate and adds the coloured dots.  
+  *Parent says:* Time to write down today's plate and add the dots. Which colour is there most?  
+  *Child mode:* Write today's foods. Add a dot to each.
+  - Wait: Record a plate every day for 7 days.
 - **s3 (10 min)**  
-  *Parent does:* 1. Lay out all seven plates. 2. Count the red, yellow, green and pink foods. 3. Ask what your child notices.  
+  *Parent does:* 1. Lay out all seven days. 2. Count the red, yellow, green and pink dots. 3. Ask what your child notices.  
   *Parent says:* Let's count each colour. Which colour came most? Which came least? Was there a day with no green?  
-  *Child mode:* Count each colour. Which came most? Which came least?
+  *Child mode:* Count the dots of each colour.
   - Ask: What would you add to make your plates more even? (good: More green, like fruit or greens.; A grow food on the day with no dal.)
   - Note: Most Indian meals have plenty of yellow, because rice, chapati, ragi and millets are the base. That is normal. Look for days with no red or no green, and talk about one easy change.
   - Wait: Come back on day 7.
@@ -332,7 +332,7 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
 ## Challenges
 ### c1 · A Festival Plate with a Treat (20 min)
 - **problem:** Plan a plate for a festival your family keeps, like Pongal, Onam, Eid, Christmas, Bihu or Diwali. It must have one sweet treat, and a grow, a go and a protect food.
-- **your turn:** Now plan your own festival plate. Draw it, and label each food grow, go, protect or treat. Show it to the cook in your family.
+- **your turn:** Now plan your own festival plate. Draw it and label each food grow, go, protect or treat, or write the dishes as a list. Show it to the cook in your family.
 - **constraints:** Use dishes your family really makes for that festival.; Only one treat on the plate, in a small amount.; It must have a grow, a go and a protect food.
 - **general:** Pongal: ven pongal of rice and moong dal for go and grow, a vegetable kootu for protect, and a little sakkarai pongal as the treat.; Eid: rice, a meat or chana curry, a salad of cucumber and onion, and a small bowl of sheer khurma as the treat.; Bihu: rice, fish or dal, a green leafy vegetable, and a few pithas as the treat.
 - **creative:** Make the treat with fruit: banana in the payasam, or a chopped mango next to a small ladoo.; Serve the treat at the end, in a small cup, so the plate fills up with the other foods first.; Share one big sweet between two people.
@@ -342,13 +342,13 @@ That evening, Lakshmi lay on the cool floor and thought. Ammamma's payasam had l
   *Child mode:* Pick a festival. What does your family cook?
   - Note: Ask a grandparent or aunt if you can. They often know the dishes best.
 - **s2 (10 min)**  
-  *Parent does:* Your child draws the plate with one treat and a food for each job, and labels them.  
-  *Parent says:* Draw your plate. Is there a grow, a go and a protect food? Where is the treat?  
-  *Child mode:* Draw your plate. Find grow, go and protect. Add one treat.
+  *Parent does:* Your child plans the plate with one treat and a food for each job. They can draw it and label each food, or write the dishes as a list with a job beside each.  
+  *Parent says:* Plan your plate. Is there a grow, a go and a protect food? Where is the treat?  
+  *Child mode:* Choose one food for each job. Add one treat. Draw it or write it.
 - **s3 (5 min)**  
   *Parent does:* Look at the plate together. Ask why the treat is there, and why only one.  
   *Parent says:* Why is it good to have a treat at a festival? Why only one?  
-  *Child mode:* Why have a treat at a festival? Why only one?
+  *Child mode:* Look at the treat on your plate. Say why it is there.
   - Ask: Why only one treat? (good: So there is room for the other foods.; Too much sugar hurts my teeth.; A treat is special because it is not every day.)
 
 ## Worksheets

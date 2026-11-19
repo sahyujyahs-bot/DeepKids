@@ -237,8 +237,8 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 - **predict:** We will mix the two dry powders in four bowls. One stays dry. One gets oil. One gets water. One gets salty water, as salty as the sea. Which bowls do you think will fizz? Why do you think so?
 - **fair test:** Every bowl gets the same powders: half a spoon of baking soda and half a spoon of citric acid. Every liquid is 2 spoons. A spoon always means a teaspoon here. The only thing we change is what we add. We watch each bowl for the same time, one minute, so no bowl gets longer to fizz.
 - **safety:** Citric acid stings if it gets in the eyes or a cut. Keep hands away from eyes, and if any powder gets in, rinse with plenty of water. Don't eat the powders by the spoonful.
-- **record:** Fill in the results table for all four bowls. Draw each bowl: draw bubbles where you saw them. Then draw the oil bowl again after you added water.
-- **results table:** Bowl | What we added | My guess: fizz or no fizz? | What happened | My drawing
+- **record:** Fill in the results table for all four bowls. Take a photo of each bowl, or draw the bubbles you saw. Then do the same for the oil bowl after you added water.
+- **results table:** Bowl | What we added | My guess: fizz or no fizz? | What happened | My photo or drawing
 - **s1 (3 min)**  
   *Parent does:* 1. Dry the four katoris well. 2. Label them dry, oil, water and sea water. 3. Stir 1 level spoon of salt into half a tumbler of water.  
   *Parent says:* We need sea water, but we live far from the beach. So let's make some. The sea is salty, about this salty.  
@@ -247,13 +247,13 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 - **s2 (3 min)**  
   *Parent does:* 1. Your child puts half a spoon of baking soda and half a spoon of citric acid in each katori. 2. Wipe the spoon dry each time. 3. Stir each heap dry. 4. Look and listen.  
   *Parent says:* These two powders are now touching each other. Look closely. Put your ear near the bowl. Is anything happening?  
-  *Child mode:* Put half a spoon of each powder in every bowl. Stir them dry. Look closely. Listen. Is anything happening?
+  *Child mode:* Put half a spoon of each powder in every bowl. Stir them dry. Look closely and listen.
   - Ask: What do you notice? What do you wonder? (good: Nothing is happening.; The two powders look different. One has bigger crystals.; Why don't they do anything?)
   - Note: Nothing happens to the dry mix. This is the point of the test, so let your child notice it.
 - **s3 (3 min)**  
   *Parent does:* Ask for a guess and a reason for each bowl. Write the guesses in the table. Don't say what will happen.  
   *Parent says:* Now one bowl stays dry. One gets oil, one gets water and one gets sea water. Which ones do you think will fizz? Why do you think so?  
-  *Child mode:* One bowl stays dry. The others get oil, water or sea water. Which will fizz? Say why. Write your guesses.
+  *Child mode:* One bowl stays dry. The others get oil, water or sea water. Guess which bowls will fizz. Write your guesses in the table.
   - Ask: Why do you think that one will fizz? (good: Water makes things change.; Oil is thick, so it will fizz more.; Salt might stop the fizz.)
   - Note: Many children guess that oil will fizz, or that salt will stop the fizz. Any guess with a reason is a good guess.
 - **s4 (5 min)**  
@@ -268,8 +268,8 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
   - Note: Water is heavier than oil, so the drops sink to the powder. Bubbles then rise up through the oil. On the dry bowl, the fizz happens only where the drop lands.
 - **s6 (3 min)**  
   *Parent does:* 1. Ask for the claim: what does your child now think? 2. Ask for the evidence: what did they see? 3. Ask for the reason: why? 4. Pour everything down the sink and rinse the bowls.  
-  *Parent says:* Tell me what you think now. What did you see in each bowl? Why did only some of them fizz?  
-  *Child mode:* Say what you think now. Say what you saw in each bowl. Say why only some fizzed.
+  *Parent says:* What did you see in each bowl? What do you think now?  
+  *Child mode:* Tell your grown-up what you saw in each bowl.
   - Ask: Why did the powder in the oil fizz only when water reached it? (good: The powders need water to change.; The powder was ready all along. It only needed water.; Oil doesn't mix the powders, but water does.)
   - Note: A strong answer says the powders changed only when water reached them. Now read the card on why the powders fizzed only in water. It explains that water dissolves the powders, so their tiny pieces can meet and react.
   - Check: In the oil bowl, the powder did not fizz until water reached it. What does this show? → **The powders change only when water lets them meet**
@@ -277,13 +277,13 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 - **question:** Life began in the sea. Can moong seeds, from a plant that lives on land, sprout in water as salty as the sea?
 - **predict:** We will soak moong in plain water, in a little salty water, and in water as salty as the sea. In which cups do you think the moong will sprout? Why do you think so?
 - **fair test:** Each cup gets 10 whole moong, the same amount of water and the same place in the room. The only thing we change is how much salt is in the water. We count every seed, because one seed alone could sprout or fail just by chance.
-- **record:** Fill in the table on day 2 and day 3. Draw one seed from each cup on day 3.
+- **record:** Fill in the table on day 2 and day 3. On day 3, take a photo of one seed from each cup, or draw one.
 - **results table:** Cup | Water | My guess | Sprouted on day 2 | Sprouted on day 3
 - **schedule:** day 1: Make three waters: plain, a little salty, and sea-salty. Put 10 moong in each cup. Cover the cups. (8 min); day 2: Count the moong that have a white root tip in each cup. (6 min); day 3: Count again. Compare the three cups and talk about what you found. (6 min)
 - **s1 (8 min)**  
   *Parent does:* 1. Label three cups: plain, a little, sea. 2. Stir 1 level spoon of salt into half a tumbler of water. This is sea-salty water. 3. Pour 4 spoons of sea-salty water into the sea cup. 4. In a spare cup, mix 1 spoon of sea-salty water with 9 spoons of plain water. Pour 4 spoons of this into the cup labelled a little. 5. Pour 4 spoons of plain water into the plain cup. 6. Put 10 moong in each of the three labelled cups and cover them.  
   *Parent says:* All life began in salty sea water, long ago. Moong plants live on land. Can their seeds sprout in sea water? What do you think? Why?  
-  *Child mode:* Label three cups: plain, a little, sea. Put sea-salty water in the sea cup. Put weak salty water in the cup labelled a little. Put plain water in the plain cup. Put 10 moong in each cup. Cover them. Which will sprout? Say why.
+  *Child mode:* Label three cups: plain, a little, sea. Put sea-salty water in the sea cup. Put weak salty water in the cup labelled a little. Put plain water in the plain cup. Put 10 moong in each cup. Cover them. Then guess which cups will sprout.
   - Note: Use fresh moong, because very old seeds may not sprout even in plain water. The weak salty water is about one tenth as salty as the sea. The seeds should sit in the water, not deep under it, so they get air too. Add a spoon of the same water if a cup dries out. Keep the cups on a warm shelf: in a cold room, sprouting is slow in every cup, so wait one more day before you count.
   - Wait: Leave the cups for one day
 - **s2 (6 min)**  
@@ -295,14 +295,14 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 - **s3 (6 min)**  
   *Parent does:* 1. Count again. 2. Compare the three cups. 3. Ask for the claim, the evidence and the reason.  
   *Parent says:* Which cup has the most sprouts? Which has the fewest? Life began in the sea, so why don't moong sprout well in sea water?  
-  *Child mode:* Count the sprouts again. Which cup has the most? Which has the fewest? Why do you think so?
+  *Child mode:* Count the sprouts again. Which cup has the most? Which has the fewest?
   - Ask: Why don't moong seeds sprout well in sea water? (good: Too much salt stops them.; Moong plants live on land, so they need fresh water.; Their family left the sea long ago.)
   - Note: Moong and their plant family have lived on land for hundreds of millions of years, with rain and river water. Over that long time, land plants changed, and most of them now need fresh water. Some plants still grow in salty water, such as the mangroves at Pichavaram in Tamil Nadu, Bhitarkanika in Odisha and the Sundarbans in West Bengal.
   - Check: Most moong sprouted in plain water, and few sprouted in sea-salty water. What does this show? → **Moong, a land plant, needs fresh water to sprout**
 
 ## Activities
 ### a1 · The Year of Life: the whole story on one calendar (15 min)
-- **record:** Keep the calendar with the 12 events on it. Colour the months that had only tiny cells in one colour.
+- **record:** Keep the calendar with the 12 events on it. Colour the months that had only tiny cells in one colour, or mark them with pebbles.
 - **s1 (3 min)**  
   *Parent does:* 1. Lay out the 12 months. 2. Explain the game. 3. Ask for a guess.  
   *Parent says:* Let's pretend the whole story of the Earth is one year. The Earth forms on the first of January. Right now is midnight on the thirty-first of December. In which month do you think the first living beings came? Why?  
@@ -316,33 +316,33 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 - **s3 (5 min)**  
   *Parent does:* 1. Colour the months from April to October in one colour. These months had only tiny cells. 2. Count them together. 3. Ask what your child notices.  
   *Parent says:* Let's colour every month that had only tiny cells, too small to see. How many months is that? What do you notice about December?  
-  *Child mode:* Colour April to October. Count the months. Then look at December. What do you notice?
+  *Child mode:* Colour April to October, or put a pebble on each of those months. Count the months. Then look at December.
   - Ask: What do you notice about the calendar now? (good: Most of the year is only tiny cells.; Everything big comes in November and December.; Humans come right at the very end.)
   - Note: From the end of March to the middle of November is more than 7 months of tiny cells. Some many-celled seaweeds lived before November too, but almost all life was tiny cells.
   - Check: On the Year of Life calendar, what lived on Earth from April to October? → **Almost only tiny cells, too small to see**
 ### a2 · How Small Was the First Life? A hair and a dot (10 min)
-- **record:** Draw the hair very big across your page. Draw a row of tiny circles across its width, as many as you can fit.
+- **record:** Take a photo of your row of 50 seeds, or draw the hair very big with a row of tiny circles across it.
 - **s1 (4 min)**  
   *Parent does:* 1. Lay the hair on the white paper. 2. Make the smallest dot you can beside it. 3. Look at both, with a magnifying glass if you have one.  
   *Parent says:* This hair is very thin. Can you see how wide it is? Now make the smallest dot you can. Which is thinner?  
   *Child mode:* Put the hair on white paper. Make a tiny dot beside it. Which is thinner, the hair or the dot?
 - **s2 (6 min)**  
-  *Parent does:* 1. Tell your child how small the first cells were. 2. Your child draws the hair very big, with tiny circles across it.  
+  *Parent does:* 1. Tell your child how small the first cells were. 2. Your child counts out 50 mustard seeds and lines them up side by side. Say that the whole row stands for the width of one hair, and each seed stands for one cell.  
   *Parent says:* The first living beings were tiny cells. Tiny cells today are so small that about 50 of them, side by side, would just stretch across this one hair. How could anyone find something so small, from so long ago?  
-  *Child mode:* About 50 tiny cells fit across one hair. Draw the hair very big. Draw tiny cells across it.
+  *Child mode:* Count out 50 seeds. Line them up side by side. The row is the width of one hair. Each seed is one cell.
   - Note: Scientists find the first life in two ways: stromatolites, the layered rocks that mats of cells built, and tiny fossil cells seen with powerful microscopes.
   - Check: How big were the first living beings? → **Far too small to see, about 50 across one hair**
 ### a3 · Sea Cousins at the Fish Market (if your family buys fish or seafood) (15 min)
-- **record:** Draw two sea animals. Write how many legs the crab has and where the eyes are. Write how many different kinds you saw.
+- **record:** Take a photo of two sea animals, or draw them. Write how many legs the crab has and where the eyes are. Write how many different kinds you saw.
 - **s1 (7 min)**  
   *Parent does:* 1. Walk along the stalls, or lay out the seafood on a plate. 2. Count how many different kinds of animals you see.  
   *Parent says:* All of these animals came from the sea. Let's count how many different kinds there are.  
   *Child mode:* Look at all the sea animals. Count how many kinds you can see.
   - Note: Families who don't eat fish can do this with pictures in a book, or skip it. Ask before touching anything at a stall.
 - **s2 (8 min)**  
-  *Parent does:* 1. Pick a crab or a prawn, and one other animal. 2. Count the crab's legs and find the eyes of both. 3. Your child draws them.  
+  *Parent does:* 1. Pick a crab, and one other animal such as a prawn or a fish. 2. Count the crab's legs and find the eyes of both. 3. Your child points to the eyes and tells you what they look like.  
   *Parent says:* Count this crab's legs. Can you find the eyes? Now look at the other animal. The first sea animals with shells, eyes and legs lived about 540 million years ago. Crabs and prawns still have shells, eyes and legs today.  
-  *Child mode:* Count the crab's legs. Find the eyes of both animals. Draw them.
+  *Child mode:* Count the crab's legs. Find the eyes of both animals. Point to them and tell your grown-up what they look like.
   - Note: A crab has 8 legs for walking and 2 claws. Crabs and prawns are arthropods, animals with jointed legs and a hard outer shell. Trilobites were arthropods too. They lived in the sea for about 270 million years and then died out.
 
 ## Projects
@@ -374,7 +374,7 @@ Arun picked up the packet of fruit salt and held it tight in both hands. "I'll k
 - **s1 (4 min)**  
   *Parent does:* 1. Read the problem together. 2. Ask why the powders fizzed so fast in the dry mix test. 3. Ask for ideas before showing any.  
   *Parent says:* In the dry mix test, the powders fizzed the moment water reached them. How could we slow the water down, so the packet waits before it fizzes?  
-  *Child mode:* The powders fizz when water reaches them. How can you slow the water down? Think of ideas.
+  *Child mode:* Think of ways to slow the water down.
 - **s2 (6 min)**  
   *Parent does:* Your child makes a first packet from their own idea.  
   *Parent says:* Make your first packet. What do you think will happen when it goes in the water?  

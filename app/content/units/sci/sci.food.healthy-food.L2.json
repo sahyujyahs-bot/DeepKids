@@ -243,7 +243,7 @@
    "title": "Grow, Go or Protect? A card sorting game",
    "mins": 15,
    "players": "1 to 4 players and a grown-up",
-   "context": "This is a sorting game about the jobs food does. Each card names a food. Players put it on the Grow, Go or Protect sheet, or on Treat.",
+   "context": "You sort 20 food cards by the job each food does best: Grow, Go (energy) or Protect. Foods that are treats go on a Treat sheet. You will find out which foods do more than one job.",
    "printables": [
     {
      "kind": "cards",
@@ -349,7 +349,7 @@
     },
     {
      "kind": "board",
-     "title": "Four sheets to draw on paper",
+     "title": "Four sheets of paper to label",
      "items": [
       "A red sheet with a big G: 'Grow: builds and mends me'",
       "A yellow sheet with a big 'Go': 'Go: gives me energy'",
@@ -359,7 +359,7 @@
     }
    ],
    "rules": [
-    "Draw the four sheets and lay them on the floor. Mix the cards and stack them face down. Each player starts a tally on paper.",
+    "Label four sheets of paper and lay them on the floor. Mix the cards and stack them face down. Each player starts a tally on paper.",
     "Take turns. Turn over the top card and read the food aloud. Say which sheet it goes on, and why.",
     "Another player reads the back aloud. If you were right, put the card on that sheet and add a tick to your tally. If the back names two jobs, either sheet counts.",
     "If you were wrong, put the card on the sheet the back names. You get no tick.",
@@ -380,9 +380,9 @@
     {
      "id": "s1",
      "mins": 3,
-     "do": "1. Cut out the 20 cards. 2. Draw the four sheets. 3. Mix the cards and stack them face down.",
+     "do": "1. Cut out the 20 cards. 2. Write Grow, Go, Protect and Treat on four sheets of paper. 3. Mix the cards and stack them face down.",
      "say": "Every food has a main job. Grow foods build you. Go foods give energy. Protect foods keep you well. Treats are for now and then.",
-     "kid": "Grow builds you. Go gives energy. Protect keeps you well."
+     "kid": "Learn the four sheets: Grow, Go, Protect and Treat."
     },
     {
      "id": "s2",
@@ -407,8 +407,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Count the cards on each sheet. Then look at the cards on the Grow, Go and Protect sheets, and find the ones whose back names two jobs.",
-     "say": "Which cards said two jobs on the back? Why do you think some foods do two jobs?",
-     "kid": "Which foods do two jobs?",
+     "say": "Some backs named two jobs. Can you find them? Why might a food do two jobs?",
+     "kid": "Look at the backs. Find the cards with two jobs.",
      "ask": [
       {
        "q": "Which foods do two jobs?",
@@ -427,7 +427,7 @@
    "title": "Fill the Thali: a collecting card game",
    "mins": 15,
    "players": "2 to 4 players",
-   "context": "In this game each player tries to fill a thali with one Grow, one Go and one Protect food. A Treat has a small place of its own: you may keep only one.",
+   "context": "In this game you collect cards to fill a thali, a plate of food, with one Grow, one Go (energy) and one Protect food. You may keep one Treat as well. You will practise telling which job each food does.",
    "printables": [
     {
      "kind": "cards",
@@ -541,7 +541,7 @@
     },
     {
      "kind": "board",
-     "title": "A thali to draw for each player: four spots",
+     "title": "A thali for each player: four spots",
      "items": [
       "A Grow bowl on a round thali: one card goes here",
       "A Go bowl on the same thali: one card goes here",
@@ -551,7 +551,7 @@
     }
    ],
    "rules": [
-    "Each player draws a thali with a Grow bowl, a Go bowl, a Protect bowl and a Treat star. Mix the cards. Give each player 3 cards to hold, with the food names facing you. Put the rest face down in a pile.",
+    "Each player takes a sheet of paper and writes four places on it: a Grow bowl, a Go bowl, a Protect bowl and a Treat star. Mix the cards. Give each player 3 cards to hold, with the food names facing you. Put the rest face down in a pile.",
     "On your turn, pick up the top card of the pile. You now hold 4 cards. Then do one of two things: lay one card on your thali, or put one card face up on a new discard pile. You end your turn holding 3 cards.",
     "Before you lay a card on your thali, say its job. Another player reads the back. If you were right, put the card in the matching bowl, if that bowl is empty. If you were wrong, the card goes on the discard pile.",
     "Each bowl holds one card. A Treat goes only on the Treat star, and only one. When you lay a Treat, take another turn straight away. If you already have a Treat on your star, any other Treat goes on the discard pile.",
@@ -561,7 +561,7 @@
    "setup": [
     {
      "art": "A drawn thali with three bowls marked Grow, Go and Protect and a small star marked Treat, with cards in two bowls.",
-     "caption": "1. Draw your thali. Take 3 cards."
+     "caption": "1. Label your thali sheet. Take 3 cards."
     },
     {
      "art": "A child laying a 'Papaya' card in the Protect bowl of a paper thali, smiling.",
@@ -572,8 +572,8 @@
     {
      "id": "s1",
      "mins": 2,
-     "do": "1. Give each player 3 cards and a drawn thali. 2. Explain that a full thali needs one food for each job, and that the star spot is for one Treat.",
-     "say": "A full thali has a grow food, a go food and a protect food. You may have one treat, but no more.",
+     "do": "1. Give each player 3 cards and a labelled thali sheet. 2. Explain that a full thali needs one food for each job, and that the star spot is for one Treat.",
+     "say": "A full thali has a grow food, a go food for energy, and a protect food. You may have one treat, but no more.",
      "kid": "Fill your thali: one Grow, one Go, one Protect."
     },
     {
@@ -599,7 +599,7 @@
      "mins": 2,
      "do": "Look at the winning thali together. Ask which food does which job, and why a full thali needs all three.",
      "say": "Look at the winning thali. Which food is the grow food, which is the go food, and which is the protect food? Why does a full thali need one of each?",
-     "kid": "Look at the winning thali. Which food is grow, which is go, and which is protect? Why do we need all three?",
+     "kid": "Point to each food in the winning thali and say its job.",
      "parent": "Each food in the winning thali does a different job. The grow food builds and mends the body, the go food gives energy, and the protect food helps the body stay well. A good answer says that a meal with only one kind leaves out the other two jobs."
     }
    ]
@@ -611,7 +611,7 @@
    "title": "The Spit Test: what does saliva do to thick rice paste?",
    "mins": 34,
    "days": 1,
-   "context": "In this experiment you stir a little of your own spit into thick rice-flour paste. You stir water into another bowl of the same paste. You also stir spit into curd. Then you wait ten minutes and see which ones go runny.",
+   "context": "In this experiment you stir a little of your own spit into thick rice-flour paste. You stir water into another bowl of the same paste. You also stir spit into curd. Then you wait ten minutes and see which ones go runny. You will find out what spit does to starch, the food that rice and other grains store inside.",
    "question": "We stir water into one bowl of thick rice paste, spit into a second bowl, and spit into a bowl of curd. Which ones will go runny?",
    "predict": "Look at the three bowls. Which ones do you think will go runny in ten minutes? Why do you think so?",
    "fair_test": "The two paste bowls get the same amount of paste from the same pot, the same amount of water or spit, the same number of stirs, and the same waiting time. Only one thing changes between them: water or spit. The curd bowl is a different food, so it is not a fair comparison with the paste. It shows whether spit thins everything or only starch.",
@@ -664,7 +664,7 @@
      "what": "Cook and cool the paste, set up three bowls, wait ten minutes, then do the spoon drip test."
     }
    ],
-   "record": "Draw the three bowls. Draw the paste in each one as thick or runny after ten minutes. Write the drip count under each bowl.",
+   "record": "Fill in the results table. Write the drip count for each bowl, and whether it is thick or runny after ten minutes. Take a photo of the three bowls, or draw them.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -723,7 +723,7 @@
      "mins": 6,
      "adult": true,
      "do": "1. Stir 1 level tablespoon of rice flour into half a small cup of cold water. 2. Heat it on low, stirring, until it turns thick and see-through at the edges. 3. Pour it into a bowl and let it cool fully.",
-     "say": "I am cooking rice flour in water. Watch it go thick. Rice flour is full of starch. Hot water makes starch swell and turn thick.",
+     "say": "I am cooking rice flour in water. Watch it go thick. Rice flour is full of starch, the food that rice stores inside. Hot water makes starch swell and turn thick.",
      "kid": "A grown-up cooks the flour in water. Watch it turn thick.",
      "parent": "Aim for paste like thick custard: it should fall slowly off a spoon. If it is too stiff to pour, stir in a spoon of water. Cornflour or ragi flour work too. Best of all, cook it 20 minutes before you start, so it is cool. Or stand the bowl in a plate of cold water. Hot paste would stop the test working, and could burn."
     },
@@ -731,11 +731,11 @@
      "id": "s2",
      "mins": 4,
      "do": "1. Put 2 tablespoons of paste into bowl 1 and 2 tablespoons into bowl 2. 2. Put 2 tablespoons of curd into bowl 3. 3. Ask for a guess and a reason.",
-     "say": "Bowl 1 gets water. Bowl 2 gets your spit. Bowl 3 is curd, and gets your spit too. Which ones will go runny? Why do you think so?",
-     "kid": "Bowl 1 gets water. Bowl 2 and bowl 3 get spit. Which will go runny? Why?",
+     "say": "Bowl 1 gets water. Bowl 2 gets your spit. Bowl 3 is curd, and gets your spit too. Which ones will go runny?",
+     "kid": "Bowl 1 gets water. Bowls 2 and 3 get spit. Guess which ones will go runny.",
      "ask": [
       {
-       "q": "Why do you think so?",
+       "q": "Why do you think those bowls will go runny?",
        "good": [
         "Water makes things thin, so bowl 1.",
         "Spit is wet, so maybe bowl 2 and 3.",
@@ -773,8 +773,8 @@
      "id": "s6",
      "mins": 4,
      "do": "1. Stir each bowl twice. 2. Do the spoon drip count again for each bowl. 3. Tip each bowl gently and watch how the paste moves.",
-     "say": "Let's count again. Which bowl has changed? What do you see?",
-     "kid": "Count again for each bowl. Which one changed?",
+     "say": "Let's count again, the same way as before.",
+     "kid": "Count again for each bowl. Tip each bowl and watch the paste move.",
      "ask": [
       {
        "q": "What happened to each bowl?",
@@ -792,7 +792,7 @@
      "mins": 2,
      "do": "Ask your child what they think spit does, and what they saw that tells them so. Then tell them about amylase. Throw the paste and curd away and wash the bowls.",
      "say": "What do you think spit does? What did you see that tells you? Spit has a helper called amylase. It cuts starch into sugar.",
-     "kid": "What did spit do? Spit cuts starch into sugar. That gives you energy.",
+     "kid": "Tell your grown-up what you saw. Then listen to why it happened.",
      "check": {
       "t": "mcq",
       "q": "Which bowl went runny?",
@@ -815,7 +815,7 @@
    "title": "Grow, Go or Protect? Sort your lunch",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you look at your own lunch, or the food in your kitchen. You sort each food by its main job: grow, go (energy) or protect.",
+   "context": "In this activity you look at your own lunch, or the food in your kitchen. You sort each food by its main job: grow, go (energy) or protect. You will find out if your lunch has a food for every job.",
    "materials": [
     {
      "item": "your lunch on a plate, or 9 foods from the kitchen, for example rice, chapati, dal, curd, an egg or paneer, a carrot, a tomato, a banana and some greens",
@@ -833,7 +833,7 @@
      "what": "Sort nine foods onto the three sheets, then look for foods that do more than one job."
     }
    ],
-   "record": "Draw the three sheets with the foods you put on each.",
+   "record": "Take a photo of your three sheets with the foods on them, or write the foods in three lists: G, E and P.",
    "setup": [
     {
      "art": "Three sheets of paper on a kitchen floor marked with a red G, a yellow E and a green P.",
@@ -850,7 +850,7 @@
      "mins": 3,
      "do": "1. Lay out the three marked sheets. 2. Say what each job means, with one example.",
      "say": "Grow foods build your muscles, skin and blood, like dal. Energy foods give you the energy to move, like rice. Protect foods help you stay well, like carrots.",
-     "kid": "Grow foods build you. Energy foods give you energy to move. Protect foods keep you well."
+     "kid": "Learn the three sheets: G is grow, E is energy, P is protect."
     },
     {
      "id": "s2",
@@ -876,7 +876,7 @@
      "mins": 4,
      "do": "Ask if any food could go on two sheets. Put it between them.",
      "say": "Can any food do two jobs? Milk helps you grow, and gives energy too. Can you find another one?",
-     "kid": "Can a food do two jobs? Put it between two sheets.",
+     "kid": "Find a food that does two jobs. Put it between two sheets.",
      "ask": [
       {
        "q": "Which food could go on two sheets?",
@@ -896,7 +896,7 @@
    "title": "Make Poha: one breakfast, three jobs",
    "mins": 25,
    "days": 1,
-   "context": "In this activity you help make poha, a breakfast of flattened rice cooked with peanuts, peas, onion and lemon. It is eaten across Maharashtra and Madhya Pradesh, and many other places. You find the food for each job in one plate.",
+   "context": "In this activity you help make poha, a breakfast of flattened rice cooked with peanuts, peas, onion and lemon. It is eaten across Maharashtra and Madhya Pradesh, and many other places. You will find out which food on your plate does which job.",
    "materials": [
     {
      "item": "thick poha (flattened rice)",
@@ -930,7 +930,7 @@
      "what": "Rinse the poha, cook it with a grown-up, then find the three jobs on the plate."
     }
    ],
-   "record": "Draw your plate of poha. Colour each part red for grow, yellow for energy or green for protect.",
+   "record": "Tell your grown-up one food on your plate for each job. Or take a photo of your plate, or draw it and colour each part red for grow, yellow for energy or green for protect.",
    "setup": [
     {
      "art": "A child rinsing flat white poha in a steel sieve under a tap, the flakes going soft.",
@@ -946,8 +946,8 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Your child puts the poha in a sieve and rinses it under the tap for about 10 seconds. 2. Leave it to soften for 5 minutes.",
-     "say": "Feel the dry poha. Now rinse it. What happens to the flakes?",
-     "kid": "Feel the dry poha. Rinse it. What happens?",
+     "say": "Feel the dry poha first. Then rinse it under the tap. What do you notice?",
+     "kid": "Rinse the poha. Feel how the flakes change.",
      "parent": "Rinse only briefly. Soaking too long makes poha mushy."
     },
     {
@@ -972,7 +972,7 @@
      "mins": 5,
      "do": "Eat together. Ask your child to find one food for each job on the plate.",
      "say": "Find an energy food on your plate. Now a grow food. Now a protect food.",
-     "kid": "Find an energy food. A grow food. A protect food.",
+     "kid": "Point to one food for each job.",
      "ask": [
       {
        "q": "What job does each food on your plate do?",
@@ -991,7 +991,7 @@
    "title": "How Many Spoons? Nimbu pani made two ways",
    "mins": 15,
    "days": 1,
-   "context": "In this activity you make two tumblers of nimbu pani, lemon water. One has 1 spoon of sugar. One has 4 spoons. You taste both, and then see how much sugar a sweet drink from a shop can hold.",
+   "context": "In this activity you make two tumblers of nimbu pani, lemon water. One has 1 spoon of sugar. One has 4 spoons. You taste both, and then see how much sugar a glass of fizzy drink from a shop can hold. You will find out why a sweet drink is a treat.",
    "materials": [
     {
      "item": "2 steel tumblers of water, each about 200 ml",
@@ -1021,7 +1021,7 @@
      "what": "Make two tumblers of nimbu pani, taste them, and make a heap of sugar to show a sweet drink."
     }
    ],
-   "record": "Draw the two tumblers with the spoons of sugar beside each one.",
+   "record": "Write how many spoons of sugar were in A and in B, and which tumbler you liked more. Or take a photo of the two tumblers and the sugar heap.",
    "setup": [
     {
      "art": "Two steel tumblers of water with half a lemon squeezed into each, one with 1 spoon of sugar beside it and one with 4.",
@@ -1036,16 +1036,16 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "1. Squeeze half a lemon into each tumbler and add a pinch of salt. 2. Your child adds 1 level spoon of sugar to tumbler A and 4 to tumbler B. 3. Stir both until the sugar disappears.",
+     "do": "1. Call the tumblers A and B. Squeeze half a lemon into each and add a pinch of salt. 2. Your child adds 1 level spoon of sugar to tumbler A and 4 to tumbler B. 3. Stir both until the sugar disappears.",
      "say": "Tumbler A gets one spoon of sugar. Tumbler B gets four. Count them in with me.",
-     "kid": "One spoon in A. Four spoons in B. Stir!"
+     "kid": "Add the sugar. Stir until it is gone."
     },
     {
      "id": "s2",
      "mins": 4,
      "do": "Your child takes one small sip from each tumbler and says which they like more.",
      "say": "Take one small sip of each. Which tastes nicer to you? Can you still taste the lemon in B?",
-     "kid": "Sip A. Sip B. Which do you like? Why?",
+     "kid": "Sip each one. Notice how sweet each one tastes.",
      "parent": "Many children like B at first. That is fine, and honest. Ask if A is still nice. Share the drinks with the family rather than one child drinking all of B."
     },
     {
@@ -1053,10 +1053,10 @@
      "mins": 6,
      "do": "1. Make a heap of 5 level teaspoons of sugar on the white plate. 2. Tell your child this is about how much sugar is in one glass of many sweet fizzy drinks.",
      "say": "This heap is five spoons of sugar. Many sweet fizzy drinks have this much in one glass. That is more than your sweet tumbler B.",
-     "kid": "Five spoons of sugar! That is in one glass of fizzy drink.",
+     "kid": "Look at the heap. Think of drinking all of it in one glass.",
      "ask": [
       {
-       "q": "Why do you think a fizzy drink is a treat, not an everyday drink?",
+       "q": "Why is a fizzy drink a treat, not an everyday drink?",
        "good": [
         "It has lots of sugar.",
         "The sugar is bad for my teeth.",
@@ -1075,7 +1075,7 @@
    "title": "My Week of Plates: colour the three jobs",
    "mins": 35,
    "days": 7,
-   "context": "In this project you draw your lunch or dinner every day for a week. You colour each food red for grow, yellow for go, green for protect or pink for a treat. At the end you count the colours.",
+   "context": "In this project you record your lunch or dinner every day for a week. You mark each food with a dot: red for grow, yellow for go, green for protect or pink for a treat. At the end you count the dots. You will find out which job your meals do most, and which job they miss.",
    "materials": [
     {
      "item": "7 sheets of paper, or one notebook page for each day",
@@ -1090,44 +1090,44 @@
     {
      "day": 1,
      "mins": 5,
-     "what": "Draw today's plate and colour each food by its job."
+     "what": "Record today's plate and mark each food by its job."
     },
     {
      "day": 2,
      "mins": 4,
-     "what": "Draw and colour today's plate."
+     "what": "Record and mark today's plate."
     },
     {
      "day": 3,
      "mins": 4,
-     "what": "Draw and colour today's plate."
+     "what": "Record and mark today's plate."
     },
     {
      "day": 4,
      "mins": 4,
-     "what": "Draw and colour today's plate."
+     "what": "Record and mark today's plate."
     },
     {
      "day": 5,
      "mins": 4,
-     "what": "Draw and colour today's plate."
+     "what": "Record and mark today's plate."
     },
     {
      "day": 6,
      "mins": 4,
-     "what": "Draw and colour today's plate."
+     "what": "Record and mark today's plate."
     },
     {
      "day": 7,
      "mins": 10,
-     "what": "Draw the last plate. Count the red, yellow, green and pink foods for the whole week."
+     "what": "Record the last plate. Count the red, yellow, green and pink dots for the whole week."
     }
    ],
-   "record": "Seven coloured plates, and a count of each colour at the end.",
+   "record": "Seven days of foods with coloured dots, and a count of each colour at the end.",
    "setup": [
     {
      "art": "A notebook page with a round plate drawn on it, holding rice coloured yellow, dal coloured red and beans coloured green.",
-     "caption": "1. Draw your plate. Colour each food by its job."
+     "caption": "1. List your foods. Put a coloured dot by each."
     },
     {
      "art": "Seven small drawn plates in a row with a tally of red, yellow, green and pink marks underneath.",
@@ -1138,26 +1138,26 @@
     {
      "id": "s1",
      "mins": 5,
-     "do": "After lunch or dinner, your child draws what was on their plate and colours each food.",
-     "say": "Draw what you ate today. Colour grow foods red, go foods yellow, protect foods green, and treats pink.",
-     "kid": "Draw your plate. Red is grow. Yellow is go. Green is protect. Pink is a treat.",
+     "do": "After lunch or dinner, your child writes down each food that was on their plate and puts a coloured dot by it. They can also draw the plate and colour each food.",
+     "say": "What was on your plate today? Write each food. Put a red dot by grow foods, yellow by go foods, green by protect foods, and pink by treats.",
+     "kid": "List what you ate. Put a dot by each food. Red is grow, yellow is go, green is protect and pink is a treat.",
      "parent": "Draw the same meal each day, lunch or dinner, so the days are fair to compare. A mixed dish like sambar can get two colours."
     },
     {
      "id": "s2",
      "mins": 4,
-     "wait": "Draw a plate every day for 7 days.",
-     "do": "Each day, your child draws and colours one plate.",
-     "say": "Time to draw today's plate. Which colour is there most?",
-     "kid": "Draw today's plate. Which colour is there most?"
+     "wait": "Record a plate every day for 7 days.",
+     "do": "Each day, your child writes down the foods on their plate and adds the coloured dots.",
+     "say": "Time to write down today's plate and add the dots. Which colour is there most?",
+     "kid": "Write today's foods. Add a dot to each."
     },
     {
      "id": "s3",
      "mins": 10,
      "wait": "Come back on day 7.",
-     "do": "1. Lay out all seven plates. 2. Count the red, yellow, green and pink foods. 3. Ask what your child notices.",
+     "do": "1. Lay out all seven days. 2. Count the red, yellow, green and pink dots. 3. Ask what your child notices.",
      "say": "Let's count each colour. Which colour came most? Which came least? Was there a day with no green?",
-     "kid": "Count each colour. Which came most? Which came least?",
+     "kid": "Count the dots of each colour.",
      "ask": [
       {
        "q": "What would you add to make your plates more even?",
@@ -1198,7 +1198,7 @@
     "Serve the treat at the end, in a small cup, so the plate fills up with the other foods first.",
     "Share one big sweet between two people."
    ],
-   "your_turn": "Now plan your own festival plate. Draw it, and label each food grow, go, protect or treat. Show it to the cook in your family.",
+   "your_turn": "Now plan your own festival plate. Draw it and label each food grow, go, protect or treat, or write the dishes as a list. Show it to the cook in your family.",
    "setup": [
     {
      "art": "A child drawing a banana leaf on paper with rice, a vegetable, dal and one small sweet at the edge.",
@@ -1221,16 +1221,16 @@
     {
      "id": "s2",
      "mins": 10,
-     "do": "Your child draws the plate with one treat and a food for each job, and labels them.",
-     "say": "Draw your plate. Is there a grow, a go and a protect food? Where is the treat?",
-     "kid": "Draw your plate. Find grow, go and protect. Add one treat."
+     "do": "Your child plans the plate with one treat and a food for each job. They can draw it and label each food, or write the dishes as a list with a job beside each.",
+     "say": "Plan your plate. Is there a grow, a go and a protect food? Where is the treat?",
+     "kid": "Choose one food for each job. Add one treat. Draw it or write it."
     },
     {
      "id": "s3",
      "mins": 5,
      "do": "Look at the plate together. Ask why the treat is there, and why only one.",
      "say": "Why is it good to have a treat at a festival? Why only one?",
-     "kid": "Why have a treat at a festival? Why only one?",
+     "kid": "Look at the treat on your plate. Say why it is there.",
      "ask": [
       {
        "q": "Why only one treat?",

@@ -837,7 +837,7 @@
    "record": "Your room slips on the floor, with a coin on each room that had sunlight in the morning and a button on each room that had sunlight in the afternoon. Take a photo.",
    "setup": [
     {
-     "art": "A simple child's map of a flat with boxes for rooms: kitchen, bedroom, hall, balcony.",
+     "art": "A boy sits on the floor writing on a paper slip while his father watches, with four slips laid in a row beside him.",
      "caption": "1. Write a paper slip for each room."
     },
     {
@@ -845,7 +845,7 @@
      "caption": "2. Walk round. Where is sunlight coming in?"
     },
     {
-     "art": "The same map with yellow suns by the balcony and bedroom, and orange suns by the kitchen.",
+     "art": "A girl kneels on a sunny floor placing a blue button on a paper slip, with coins and buttons on the room slips in a row.",
      "caption": "3. Put a coin on the sunny rooms in the morning and a button in the afternoon."
     }
    ],
