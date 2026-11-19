@@ -162,12 +162,12 @@ At night the lights went out for a while, as they sometimes did in the rain. The
 - **s1 (2 min)**  
   *Parent does:* 1. Lay the five sense cards on the floor, a big step apart. 2. Read each card to your child.  
   *Parent says:* These cards are your five senses. Which part of your body goes with each card?  
-  *Child mode:* Look at the five cards. Which part of your body goes with each?
+  *Child mode:* Look at the five cards. Touch the body part that goes with each one.
 - **s2 (8 min)**  
   *Parent does:* 1. Mix the thing cards. 2. Read one at a time. 3. Your child hops onto a sense card. 4. Read the back.  
-  *Parent says:* A temple bell. Which sense tells you about a bell? Hop onto it!  
-  *Child mode:* Listen to the card. Hop onto the sense that tells you.
-  - Ask: A mango! Which senses can tell you about a mango? (good: Eyes see it is yellow.; Nose smells it.; Tongue tastes it is sweet.; Skin feels it is smooth.; Ears hear the slurp!)
+  *Parent says:* I will read a card, such as a temple bell. Which sense tells you about it? Hop onto it!  
+  *Child mode:* Listen to the card. Hop onto the sense card that tells you about it.
+  - Ask: Which senses can tell you about a mango? (good: Eyes see it is yellow.; Nose smells it.; Tongue tastes it is sweet.; Skin feels it is smooth.; Ears hear the slurp!)
   - Note: Many things use more than one sense. Praise any sense that really works, and ask 'Any more?'
 - **s3 (2 min)**  
   *Parent does:* Ask the check question. Then let your child be the caller for one round, and you hop.  
@@ -184,14 +184,14 @@ At night the lights went out for a while, as they sometimes did in the rain. The
   *Child mode:* Close your eyes. Only your ears can help you now.
 - **s2 (9 min)**  
   *Parent does:* 1. Make the sound on one card. 2. Ask what it was. 3. Read the back. 4. Tick the score sheet. 5. After six sounds, shuffle the cards and swap jobs.  
-  *Parent says:* What was that sound? What do you think made it? Why do you think so?  
-  *Child mode:* Listen. What made that sound? Say why you think so.
+  *Parent says:* What was that sound? What do you think made it?  
+  *Child mode:* Keep your eyes shut. Listen, and guess what made the sound.
   - Ask: How did you know what made the sound? (good: It sounded splashy, like water.; It was a crunch, like biting an apple.)
   - Note: Ask for the reason, not only the guess. 'It was splashy' is the start of good listening.
 - **s3 (2 min)**  
   *Parent does:* Talk about which sounds were easy and which were hard.  
   *Parent says:* Which sound was hardest to guess? Would it be easier with your eyes open?  
-  *Child mode:* Which sound was hard? Would your eyes help?
+  *Child mode:* Think of the hardest sound. Would your eyes have helped?
   - Check: The listener's eyes were shut. Which sense organ found the sounds? → **The ears**
 
 ## Experiments
@@ -200,7 +200,7 @@ At night the lights went out for a while, as they sometimes did in the rain. The
 - **predict:** Guess first. Standing far away, will you see the orange? Hear it? Smell it? Taste it? Feel it? How many steps will you take before you smell it? Why do you think so?
 - **fair test:** Every round starts at the same line, with the same small steps and three sniffs at each step. The fan is off and the windows are shut, so moving air does not help one round more than another. In one round the plate is empty. That shows whether you really smell something, or are only guessing.
 - **safety:** The child walks with their eyes shut, so clear toys and wires off the floor first. A grown-up walks right beside them.
-- **record:** Draw the five sense organs in a row. Under each, draw a tick if it worked from the start line, and a cross if it needed touching. Write how many steps you took before you smelled the orange, and how many the grown-up took. A grown-up helps with the writing.
+- **record:** Write the five senses in a list: eyes, ears, nose, tongue, skin. Next to each, write a tick if it worked from the start line, and a cross if it needed touching. Write how many steps you took before you smelled the orange, and how many the grown-up took. A grown-up helps with the writing.
 - **results table:** Round | What was on the plate | Steps before I smelled something
 - **s1 (2 min)**  
   *Parent does:* 1. Switch off the fan and shut the windows. 2. Put a whole orange on a steel plate on a low table. 3. Mark a start line six small child steps from the table. 4. Clear the floor between the line and the table.  
@@ -209,12 +209,12 @@ At night the lights went out for a while, as they sometimes did in the rain. The
   - Note: Keep the second plate empty and out of sight in the kitchen. Do not peel the orange yet. Your hands must not smell of orange for the empty round.
 - **s2 (2 min)**  
   *Parent does:* Ask your child to guess for each sense, from the start line. Write their guesses down.  
-  *Parent says:* From this line, which of your senses can tell you about the orange? Can you see it? Hear it? Smell it? Taste it? Feel it? Why do you think so?  
-  *Child mode:* Guess. From here, can you see the orange? Hear it? Smell it? Taste it? Feel it? Why?
+  *Parent says:* From this line, which of your senses can tell you about the orange? Can you see it? Hear it? Smell it? Taste it? Feel it?  
+  *Child mode:* Guess which senses can tell you about the orange from here. Say yes or no for each sense.
   - Ask: Why do you think so? (good: I can see it, because it is in front of me.; I can't taste it, because it is not in my mouth.; Maybe I can smell it, because smells come out of the kitchen.)
   - Note: Any guess is fine. Do not say what will happen.
 - **s3 (2 min)**  
-  *Parent does:* 1. Your child looks at the orange from the line. 2. Tap the plate twice with a steel spoon. 3. Ask about each sense. 4. Tick or cross each one.  
+  *Parent does:* 1. Your child looks at the orange from the line. 2. Tap the plate twice with a steel spoon. 3. Ask about each sense. 4. Write a tick or a cross for each one.  
   *Parent says:* Can you see the orange from here? Now listen. Did you hear the plate? Can you smell the orange? Can you taste it, or feel it?  
   *Child mode:* Look at the orange. Listen to the spoon on the plate. Can you smell the orange, taste it, or feel it?
   - Ask: Which senses worked from the line? (good: My eyes saw it.; My ears heard the spoon on the plate.; I can't smell it yet.)
@@ -224,17 +224,17 @@ At night the lights went out for a while, as they sometimes did in the rain. The
   *Parent says:* Close your eyes. There may be something on the plate, or there may be nothing. Take one small step, and sniff three times. Raise your hand only if you really smell something.  
   *Child mode:* Close your eyes. Take one small step. Sniff three times. Raise your hand only if you smell something.
   - Ask: Did you smell anything? (good: No, nothing.; Maybe a tiny bit of the kitchen.)
-  - Note: This is the empty round. Walk right beside your child. If they raise a hand, say 'Tell me what you smell', but do not say the plate is empty until the end.
+  - Note: This is the empty round. It shows whether your child really smells something, or is only guessing. Walk right beside your child. If they raise a hand, say 'Tell me what you smell', but do not say the plate is empty until the end.
 - **s5 (3 min) · grown-up needed**  
   *Parent does:* 1. Your child sits on the start line and covers their eyes. 2. In the kitchen, with the door shut, peel the orange by hand. Squeeze a piece of peel over the plate. 3. Wash your hands with soap. 4. Put the plate with the fruit and peel on the table. 5. Your child stands, and does the smell steps again. Count the steps.  
-  *Parent says:* Close your eyes again. Do the same as before: take one small step and sniff three times. Raise your hand when you smell something. What do you smell?  
-  *Child mode:* Close your eyes. Take one small step. Sniff three times. Raise your hand when you smell something.
+  *Parent says:* Close your eyes again. Do the same as before: take one small step and sniff three times. Raise your hand when you smell something.  
+  *Child mode:* Do the smell steps again. Hand up when you smell something.
   - Ask: What do you smell? How many steps did you take? (good: Orange!; I smelled it after three steps.; I smelled it straight away, from the line.)
   - Note: Squeezing the peel sprays tiny drops of oil, so the smell gets strong. Many children smell it a few steps from the plate. If your child smells nothing until the plate, squeeze the peel again or move the start line two steps closer, and repeat. If they smell it from the line, that is a real result too. Write the number of steps.
 - **s6 (5 min)**  
   *Parent does:* 1. Swap jobs. Your child holds the plate with the peeled orange. 2. You stand on the start line with your eyes shut. Take small steps, with three sniffs at each step. 3. Your child counts your steps.  
-  *Parent says:* Now it is my turn. Count my steps. Who smelled the orange from further away, you or me?  
-  *Child mode:* Count the grown-up's steps. Who smelled the orange from further away?
+  *Parent says:* Now it is my turn. Please count my steps out loud.  
+  *Child mode:* Count the grown-up's steps out loud.
   - Ask: Did the grown-up smell the orange at the same place as you? (good: No, the grown-up smelled it sooner.; Yes, we stopped at the same place.)
   - Note: The room already smells of orange after the last round, so you may smell it from the line. That is a real result. Different noses smell at different distances, and that is fine.
 - **s7 (2 min)**  
@@ -244,29 +244,29 @@ At night the lights went out for a while, as they sometimes did in the rain. The
   - Ask: What did your skin and tongue tell you? (good: The peel is bumpy and a bit oily.; It tastes sweet and a bit sour.; I could only taste it when it was in my mouth.)
 - **s8 (1 min)**  
   *Parent does:* Ask your child what they found, what they saw, and why. Then ask the check question.  
-  *Parent says:* Which senses told you about the orange from far away? Which needed touching? The orange never moved. So how did the smell get to your nose?  
-  *Child mode:* Which senses worked from far away? Which needed touching? How did the smell reach you?
-  - Ask: How did the smell get to your nose? (good: Bits of the orange came through the air.; The smell floated to me.)
+  *Parent says:* Look at your ticks and crosses. Which senses told you about the orange from far away, and which needed touching?  
+  *Child mode:* Look at your ticks and crosses. Tell what you found.
+  - Ask: Which senses worked from far away? Which needed touching? (good: Seeing and hearing worked from far away. Smelling worked once I was close enough.; Tasting and touching needed the orange to touch me.)
   - Check: With your eyes shut, you smelled the orange before you reached the plate. Why? → **Tiny bits from the orange peel floated through the air into my nose**
   - Think: When you smell an orange, is a little bit of the orange inside your nose?
 
 ## Activities
 ### a1 · The Senses Tray: which body part told you? (10 min)
-- **record:** Draw one thing from the tray, and draw the body part that told you about it next to it.
+- **record:** Pick one thing from the tray. Tell a grown-up what you found out about it and which body part told you. The grown-up writes it down.
 - **s1 (6 min)**  
   *Parent does:* 1. Hand your child one thing at a time. 2. Let them explore it however they like. 3. Ask what they found out, and which body part told them.  
-  *Parent says:* Here is a tumbler and a spoon. Find out about them. What did you find? Which part of you told you that?  
-  *Child mode:* Find out about each thing. Which part of you told you?
-  - Ask: What did you find out about the curry leaf? (good: It smells strong when I crush it. My nose told me.; It is green. My eyes told me.; It is smooth. My fingers told me.)
+  *Parent says:* Here is the first thing. Look at it, touch it, smell it, listen to it. Find out all you can.  
+  *Child mode:* Find out about each thing, any way you like.
+  - Ask: What did you find out about the curry leaf, and which body part told you? (good: It smells strong when I crush it. My nose told me.; It is green. My eyes told me.; It is smooth. My fingers told me.)
   - Note: Let your child choose how to explore. Some will bang the tumbler, some will sniff it. Afterwards, name the sense they used.
 - **s2 (4 min)**  
   *Parent does:* Play 'Touch your…': call out a sense, and your child touches its sense organ.  
   *Parent says:* Touch the part that sees. The part that hears. The part that smells. The part that tastes. Now the part that feels a touch.  
-  *Child mode:* Touch the part that sees. Now the part that hears. Now the part that smells. Now the part that tastes. Now the part that feels a touch.
+  *Child mode:* Listen to your grown-up. Touch the part of your body that does each job.
   - Note: For touch, many children point to their hands. Tell them that the skin all over the body feels touch, even the skin on their back and feet.
   - Check: Which sense organ told you that the jaggery is sweet? → **The tongue**
 ### a2 · Lights Out: which senses still work in the dark? (10 min)
-- **record:** Draw a dark room. Inside it, draw the senses that still worked in the dark.
+- **record:** Make two lists: the senses that still worked in the dark, and the sense that did not. A grown-up helps with the writing.
 - **s1 (2 min) · grown-up needed**  
   *Parent does:* 1. Sit with your child on the floor or a bed. 2. Close the curtains and switch off the lights.  
   *Parent says:* Let's sit together in the dark. I am right here. What can you see now?  
@@ -274,98 +274,98 @@ At night the lights went out for a while, as they sometimes did in the rain. The
 - **s2 (5 min) · grown-up needed**  
   *Parent does:* 1. Tap the tumbler. 2. Hold the lemon near your child's nose. 3. Put your hand gently on their arm. 4. Ask about each sense.  
   *Parent says:* Can you hear the tumbler? Can you smell the lemon? Can you feel my hand on your arm? Which senses still work in the dark?  
-  *Child mode:* Listen. Smell. Feel. Which senses still work in the dark?
+  *Child mode:* Listen to the tumbler. Smell the lemon. Feel your grown-up's hand.
   - Ask: Which sense stopped in the dark? (good: Seeing. I can't see anything.; My eyes don't work in the dark.)
 - **s3 (3 min)**  
   *Parent does:* Switch on the torch. Ask why seeing came back.  
-  *Parent says:* Now the torch is on. You can see again. Your eyes did not change. What changed?  
-  *Child mode:* The torch is on. You can see again. What changed?
+  *Parent says:* Now the torch is on. You can see again. Your eyes did not change.  
+  *Child mode:* Look around the room now.
   - Ask: Why can you see now? (good: Because there is light.; Eyes need light to see.)
   - Note: Your eyes are not switched off in the dark. They need light coming from things to see them. With no light, there is nothing for them to catch.
   - Check: In the dark, which sense stops working? → **Seeing**
 ### a3 · Touch Words: rough, smooth, soft, hard, warm, cold (12 min)
-- **record:** Draw two groups: things that felt rough and things that felt smooth.
+- **record:** Write two lists: things that felt rough and things that felt smooth. Or take a photo of the two groups.
 - **s1 (7 min)**  
-  *Parent does:* 1. Cover your child's eyes. 2. Put one thing in their hands at a time. 3. Ask for a touch word: rough, smooth, soft, hard, warm or cold.  
+  *Parent does:* 1. Cover your child's eyes. 2. Put one thing in their hands at a time, with the tumbler of lukewarm water among them. 3. Ask for a touch word: rough, smooth, soft, hard, warm or cold.  
   *Parent says:* Feel this. What does your skin tell you? Is it rough or smooth? Soft or hard? Warm or cold?  
-  *Child mode:* Feel it. Is it rough or smooth? Soft or hard? Warm or cold?
+  *Child mode:* Feel it with your hands. Find a word for it.
   - Ask: What does the steel spoon feel like? (good: Smooth and hard.; Cold.)
   - Note: Steel often feels colder than cloth, though both are in the same room. Steel takes warmth from your hand faster, so your skin feels cold. You can say this if your child notices.
 - **s2 (5 min)**  
   *Parent does:* 1. Uncover the eyes. 2. Sort the things into a rough group and a smooth group, then a soft group and a hard group.  
   *Parent says:* Let's sort them. Put everything that felt rough here, and everything smooth there. Now try soft and hard.  
-  *Child mode:* Sort the things. Put the rough ones here and the smooth ones there. Now sort them into soft and hard.
+  *Child mode:* Sort the things into two groups. Then sort them again, into soft and hard.
   - Check: Which one feels soft? → **A cotton ball**
 ### a4 · Shaker Pairs: match them with your ears (12 min)
 - **safety:** Close the boxes tightly, with tape if needed, so nothing spills or goes into little mouths.
-- **record:** Draw the three pairs you found, and what was inside each.
+- **record:** Leave the three pairs side by side. Tell a grown-up what was inside each pair, or take a photo.
 - **s1 (3 min)**  
   *Parent does:* 1. Out of sight, fill two boxes with rice, two with salt and two with a few rajma. 2. Close them tightly. 3. Mix them up on the floor.  
   *Parent says:* These boxes all look the same. But inside, they come in pairs: two boxes hold the same thing. Can your ears find the pairs?  
   *Child mode:* The boxes look the same. Shake them. Can your ears find the pairs?
 - **s2 (6 min)**  
   *Parent does:* Your child shakes the boxes and puts them in pairs.  
-  *Parent says:* Shake this one. Now that one. Do they sound the same? What do you think is inside? Why?  
-  *Child mode:* Shake two boxes. Do they sound the same? What is inside?
+  *Parent says:* Shake this one. Now shake that one. Do they sound the same? Put the ones that sound the same side by side.  
+  *Child mode:* Shake the boxes. Put the ones that sound the same in pairs.
   - Ask: What do you think is in this one? Why? (good: Big things, because it goes clonk clonk.; Tiny things, because it sounds like sand.)
   - Note: Rice and salt can sound alike. If your child mixes them up, that is part of the game. Open the boxes to check.
 - **s3 (3 min)**  
   *Parent does:* Open the boxes and check.  
   *Parent says:* Let's open them. Did your ears get it right?  
-  *Child mode:* Open the boxes. Were your ears right?
+  *Child mode:* Open each pair and look inside.
   - Check: Your eyes could not see inside the boxes. How did you find the pairs? → **My ears heard the sounds**
 
 ## Projects
 ### p1 · My Five Senses Book: one sense each day (25 min, 5 days)
-- **record:** The finished book, with one drawing for each sense.
-- **schedule:** day 1: Make the book. Draw something you saw today on the 'Eyes' page. (5 min); day 2: Draw something you heard on the 'Ears' page. (5 min); day 3: Draw something you smelled on the 'Nose' page. (5 min); day 4: Draw something you tasted on the 'Tongue' page. (5 min); day 5: Draw something you touched on the 'Skin' page. Show the whole book to someone and tell them about each page. (5 min)
+- **record:** The finished book, with one thing on each sense page: a drawing, a word or something stuck on.
+- **schedule:** day 1: Make the book. Draw something you saw today on the 'Eyes' page, or tell a grown-up and they write it. (5 min); day 2: Write a word for a sound you heard on the 'Ears' page, such as 'tring' or 'splash'. (5 min); day 3: Stick a dry curry leaf, flower petal or orange peel on the 'Nose' page, and write its name. (5 min); day 4: Write the food you tasted today on the 'Tongue' page, and a word for its taste. (5 min); day 5: Stick a scrap of cloth or paper on the 'Skin' page, and write a touch word. Show the whole book to someone and tell them about each page. (5 min)
 - **s1 (5 min)**  
   *Parent does:* 1. Fold and tie the book. 2. Write 'My Senses' on the cover. 3. Write one sense at the top of each page: Eyes, Ears, Nose, Tongue, Skin. Your child writes what they can, and you write the rest.  
-  *Parent says:* Each day this week, you will notice one thing with one sense, and draw it. Today is the eyes day. What did you see today that you liked?  
-  *Child mode:* Make your book. Today, draw something you saw.
+  *Parent says:* Each day this week, you will notice one thing with one sense, and put it in the book. Today is the eyes day. What did you see today that you liked?  
+  *Child mode:* Make your book. Today, draw something you saw, or tell your grown-up.
 - **s2 (5 min)**  
-  *Parent does:* Each day, help your child choose one thing for that day's sense and draw it.  
+  *Parent does:* Each day, help your child choose one thing for that day's sense and add it to the page. On the ears day, they write a word for a sound.  
   *Parent says:* Today is the ears day. What did you hear today? Was it loud or soft? Where did it come from?  
-  *Child mode:* Today, draw something you heard. Was it loud or soft?
+  *Child mode:* Write a word for a sound you heard. Was it loud or soft?
   - Wait: Do the next page tomorrow, and one more page each day after that.
 - **s3 (5 min)**  
-  *Parent does:* On the nose day, ask where the smell came from.  
+  *Parent does:* On the nose day, ask where the smell came from. Help your child stick a dry smelly thing on the page and write its name.  
   *Parent says:* What did you smell today? Were you near it, or far away when you smelled it?  
-  *Child mode:* Draw something you smelled. Were you near or far?
+  *Child mode:* Stick something that smells on the page. Were you near or far when you smelled it?
 - **s4 (5 min)**  
-  *Parent does:* On the tongue day, ask about tastes.  
-  *Parent says:* Was the taste sweet, sour, salty or bitter? Draw it.  
-  *Child mode:* Draw something you tasted. Say a word for the taste.
+  *Parent does:* On the tongue day, ask about tastes. Help your child write the food and a word for its taste.  
+  *Parent says:* What did you taste today? Was it sweet, sour, salty or bitter?  
+  *Child mode:* Write the food you tasted, and a word for its taste.
 - **s5 (5 min)**  
-  *Parent does:* On the last day, your child draws something they touched on the Skin page. Then they show the whole book to someone at home and tell them about each page.  
+  *Parent does:* On the last day, your child sticks something they touched on the Skin page and writes a touch word. Then they show the whole book to someone at home and tell them about each page.  
   *Parent says:* What did you touch today? Was it rough, smooth, soft or hard? Now show your book to someone at home. Which page do you like best?  
-  *Child mode:* Draw something you touched. Then show your book to someone and tell them about each page.
-  - Check: Which page of your book could have a drawing of jasmine flowers? → **The nose page**
+  *Child mode:* Stick something you touched on the page, and write a touch word. Then show your book to someone and tell them about each page.
+  - Check: Which page of your book could have jasmine flowers on it? → **The nose page**
 
 ## Challenges
 ### c1 · A Doorbell for a Neighbour Who Cannot Hear (20 min)
 - **problem:** A neighbour of yours cannot hear any sounds. When someone rings her doorbell, she does not know. How could you let her know someone is at the door, using her eyes, her nose or her skin?
-- **your turn:** Draw your own doorbell for your neighbour. Then try it out at home: one person is the neighbour, and one person comes to the door.
+- **your turn:** Make your own doorbell for your neighbour, or draw a plan for it. Then try it out at home: one person is the neighbour, and one person comes to the door.
 - **constraints:** It must work without her hearing anything.; Use things from home.; A child must be able to use it, or set it going.; Keep string off the floor where people walk, so nobody trips.
 - **general:** Many homes with someone who cannot hear have a doorbell that flashes a light.; Some people wear a band on the wrist that shakes when the bell rings.; Someone can tap her gently on the shoulder.
 - **creative:** She holds one end of a long string. Someone at the door tugs the other end, and she feels it in her hand.; Flash a torch on the wall where she sits.; Wave a bright cloth through the doorway.
 - **s1 (3 min)**  
   *Parent does:* Read the problem to your child.  
-  *Parent says:* A neighbour cannot hear. When her doorbell rings, she does not know someone is there. Which other senses could tell her?  
-  *Child mode:* A neighbour cannot hear the bell. Which other sense could tell her?
-  - Ask: Which senses could help? (good: Her eyes, if a light flashes.; Her skin, if something touches her.; Her nose? That would be hard!)
+  *Parent says:* A neighbour cannot hear. When her doorbell rings, she does not know someone is there.  
+  *Child mode:* Think about your neighbour. She cannot hear the bell.
+  - Ask: Which of her other senses could tell her someone is at the door? (good: Her eyes, if a light flashes.; Her skin, if something touches her.; Her nose? That would be hard!)
 - **s2 (8 min)**  
-  *Parent does:* Your child draws one or two ideas. Talk about each one.  
-  *Parent says:* Draw your idea. Which sense does it use? How would she know it is the door, and not something else?  
-  *Child mode:* Draw your doorbell. Which sense does it use?
+  *Parent does:* Your child builds one or two ideas from the string, ribbon or torch, or draws a plan for them. Talk about each one.  
+  *Parent says:* Show me your idea. Which sense does it use? How would she know it is the door, and not something else?  
+  *Child mode:* Build your doorbell, or draw a plan for it.
 - **s3 (7 min)**  
   *Parent does:* Try the best idea at home. One person plays the neighbour, sitting with their ears covered.  
   *Parent says:* Let's test it. You come to the door and use your doorbell. I'll be the neighbour, with my hands over my ears.  
   *Child mode:* Test it. Did the neighbour know someone was at the door?
 - **s4 (2 min)**  
   *Parent does:* Ask the check question.  
-  *Parent says:* Did it work? What would you change?  
-  *Child mode:* Did it work? What would you change?
+  *Parent says:* Did the neighbour know it was the door? What would you change?  
+  *Child mode:* Think of one way to make your doorbell better.
   - Check: Which sense does a doorbell that flashes a light use? → **Seeing**
 
 ## Worksheets

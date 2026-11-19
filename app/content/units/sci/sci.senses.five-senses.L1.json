@@ -223,7 +223,7 @@
    "title": "Hop to the Sense: which body part tells you?",
    "mins": 12,
    "players": "1 or more players and one caller.",
-   "context": "This is a moving game. Five big sense cards lie on the floor. The caller reads a thing card, and you hop onto the sense that would tell you about that thing.",
+   "context": "You will find out that most things reach you through more than one sense. Five big sense cards lie on the floor. The caller reads a thing card, and you hop onto the sense that would tell you about that thing.",
    "printables": [
     {
      "kind": "cards",
@@ -344,17 +344,17 @@
      "mins": 2,
      "do": "1. Lay the five sense cards on the floor, a big step apart. 2. Read each card to your child.",
      "say": "These cards are your five senses. Which part of your body goes with each card?",
-     "kid": "Look at the five cards. Which part of your body goes with each?"
+     "kid": "Look at the five cards. Touch the body part that goes with each one."
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "1. Mix the thing cards. 2. Read one at a time. 3. Your child hops onto a sense card. 4. Read the back.",
-     "say": "A temple bell. Which sense tells you about a bell? Hop onto it!",
-     "kid": "Listen to the card. Hop onto the sense that tells you.",
+     "say": "I will read a card, such as a temple bell. Which sense tells you about it? Hop onto it!",
+     "kid": "Listen to the card. Hop onto the sense card that tells you about it.",
      "ask": [
       {
-       "q": "A mango! Which senses can tell you about a mango?",
+       "q": "Which senses can tell you about a mango?",
        "good": [
         "Eyes see it is yellow.",
         "Nose smells it.",
@@ -391,7 +391,7 @@
    "title": "Guess the Home Sound: ears only",
    "mins": 12,
    "players": "2 or more players. One makes the sounds, the others listen.",
-   "context": "This is a listening game. The listener closes their eyes. The sound maker makes a sound from a card, and the listener guesses what made it, using only their ears.",
+   "context": "You will find out how much your ears can tell you when your eyes cannot help. The listener closes their eyes. The sound maker makes a sound from a card, and the listener guesses what made it, using only their ears.",
    "printables": [
     {
      "kind": "cards",
@@ -490,8 +490,8 @@
      "id": "s2",
      "mins": 9,
      "do": "1. Make the sound on one card. 2. Ask what it was. 3. Read the back. 4. Tick the score sheet. 5. After six sounds, shuffle the cards and swap jobs.",
-     "say": "What was that sound? What do you think made it? Why do you think so?",
-     "kid": "Listen. What made that sound? Say why you think so.",
+     "say": "What was that sound? What do you think made it?",
+     "kid": "Keep your eyes shut. Listen, and guess what made the sound.",
      "ask": [
       {
        "q": "How did you know what made the sound?",
@@ -508,7 +508,7 @@
      "mins": 2,
      "do": "Talk about which sounds were easy and which were hard.",
      "say": "Which sound was hardest to guess? Would it be easier with your eyes open?",
-     "kid": "Which sound was hard? Would your eyes help?",
+     "kid": "Think of the hardest sound. Would your eyes have helped?",
      "check": {
       "t": "mcq",
       "q": "The listener's eyes were shut. Which sense organ found the sounds?",
@@ -530,7 +530,7 @@
    "title": "Smell Steps: how close must you come to smell an orange?",
    "mins": 20,
    "days": 1,
-   "context": "In this experiment you stand a few steps away from a plate, with your eyes shut. You take one small step at a time, and raise your hand when you smell something. Then you find which of your senses work from far away, and which need touching.",
+   "context": "You will find out how close you must come to smell an orange, and which senses can tell you about it from far away. You stand a few steps from a plate with your eyes shut. You take one small step at a time, and raise your hand when you smell something.",
    "question": "From across the room, which senses can tell you about an orange? How close must you come to smell the orange?",
    "predict": "Guess first. Standing far away, will you see the orange? Hear it? Smell it? Taste it? Feel it? How many steps will you take before you smell it? Why do you think so?",
    "fair_test": "Every round starts at the same line, with the same small steps and three sniffs at each step. The fan is off and the windows are shut, so moving air does not help one round more than another. In one round the plate is empty. That shows whether you really smell something, or are only guessing.",
@@ -573,7 +573,7 @@
      "what": "Guess first. Look and listen from the start line. Take the smell steps with an empty plate, then with a peeled orange. Swap, so the grown-up takes the steps too. Then touch and taste the orange."
     }
    ],
-   "record": "Draw the five sense organs in a row. Under each, draw a tick if it worked from the start line, and a cross if it needed touching. Write how many steps you took before you smelled the orange, and how many the grown-up took. A grown-up helps with the writing.",
+   "record": "Write the five senses in a list: eyes, ears, nose, tongue, skin. Next to each, write a tick if it worked from the start line, and a cross if it needed touching. Write how many steps you took before you smelled the orange, and how many the grown-up took. A grown-up helps with the writing.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results",
@@ -627,8 +627,8 @@
      "id": "s2",
      "mins": 2,
      "do": "Ask your child to guess for each sense, from the start line. Write their guesses down.",
-     "say": "From this line, which of your senses can tell you about the orange? Can you see it? Hear it? Smell it? Taste it? Feel it? Why do you think so?",
-     "kid": "Guess. From here, can you see the orange? Hear it? Smell it? Taste it? Feel it? Why?",
+     "say": "From this line, which of your senses can tell you about the orange? Can you see it? Hear it? Smell it? Taste it? Feel it?",
+     "kid": "Guess which senses can tell you about the orange from here. Say yes or no for each sense.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -644,7 +644,7 @@
     {
      "id": "s3",
      "mins": 2,
-     "do": "1. Your child looks at the orange from the line. 2. Tap the plate twice with a steel spoon. 3. Ask about each sense. 4. Tick or cross each one.",
+     "do": "1. Your child looks at the orange from the line. 2. Tap the plate twice with a steel spoon. 3. Ask about each sense. 4. Write a tick or a cross for each one.",
      "say": "Can you see the orange from here? Now listen. Did you hear the plate? Can you smell the orange? Can you taste it, or feel it?",
      "kid": "Look at the orange. Listen to the spoon on the plate. Can you smell the orange, taste it, or feel it?",
      "ask": [
@@ -675,14 +675,14 @@
        ]
       }
      ],
-     "parent": "This is the empty round. Walk right beside your child. If they raise a hand, say 'Tell me what you smell', but do not say the plate is empty until the end."
+     "parent": "This is the empty round. It shows whether your child really smells something, or is only guessing. Walk right beside your child. If they raise a hand, say 'Tell me what you smell', but do not say the plate is empty until the end."
     },
     {
      "id": "s5",
      "mins": 3,
      "do": "1. Your child sits on the start line and covers their eyes. 2. In the kitchen, with the door shut, peel the orange by hand. Squeeze a piece of peel over the plate. 3. Wash your hands with soap. 4. Put the plate with the fruit and peel on the table. 5. Your child stands, and does the smell steps again. Count the steps.",
-     "say": "Close your eyes again. Do the same as before: take one small step and sniff three times. Raise your hand when you smell something. What do you smell?",
-     "kid": "Close your eyes. Take one small step. Sniff three times. Raise your hand when you smell something.",
+     "say": "Close your eyes again. Do the same as before: take one small step and sniff three times. Raise your hand when you smell something.",
+     "kid": "Do the smell steps again. Hand up when you smell something.",
      "adult": true,
      "ask": [
       {
@@ -700,8 +700,8 @@
      "id": "s6",
      "mins": 5,
      "do": "1. Swap jobs. Your child holds the plate with the peeled orange. 2. You stand on the start line with your eyes shut. Take small steps, with three sniffs at each step. 3. Your child counts your steps.",
-     "say": "Now it is my turn. Count my steps. Who smelled the orange from further away, you or me?",
-     "kid": "Count the grown-up's steps. Who smelled the orange from further away?",
+     "say": "Now it is my turn. Please count my steps out loud.",
+     "kid": "Count the grown-up's steps out loud.",
      "ask": [
       {
        "q": "Did the grown-up smell the orange at the same place as you?",
@@ -734,14 +734,14 @@
      "id": "s8",
      "mins": 1,
      "do": "Ask your child what they found, what they saw, and why. Then ask the check question.",
-     "say": "Which senses told you about the orange from far away? Which needed touching? The orange never moved. So how did the smell get to your nose?",
-     "kid": "Which senses worked from far away? Which needed touching? How did the smell reach you?",
+     "say": "Look at your ticks and crosses. Which senses told you about the orange from far away, and which needed touching?",
+     "kid": "Look at your ticks and crosses. Tell what you found.",
      "ask": [
       {
-       "q": "How did the smell get to your nose?",
+       "q": "Which senses worked from far away? Which needed touching?",
        "good": [
-        "Bits of the orange came through the air.",
-        "The smell floated to me."
+        "Seeing and hearing worked from far away. Smelling worked once I was close enough.",
+        "Tasting and touching needed the orange to touch me."
        ]
       }
      ],
@@ -801,7 +801,7 @@
      "what": "Explore the tray. Say which body part told you about each thing. Touch each sense organ."
     }
    ],
-   "record": "Draw one thing from the tray, and draw the body part that told you about it next to it.",
+   "record": "Pick one thing from the tray. Tell a grown-up what you found out about it and which body part told you. The grown-up writes it down.",
    "setup": [
     {
      "art": "A steel tray holding a steel tumbler with a spoon, curry leaves, a piece of jaggery, a cotton ball and a bright picture book.",
@@ -817,11 +817,11 @@
      "id": "s1",
      "mins": 6,
      "do": "1. Hand your child one thing at a time. 2. Let them explore it however they like. 3. Ask what they found out, and which body part told them.",
-     "say": "Here is a tumbler and a spoon. Find out about them. What did you find? Which part of you told you that?",
-     "kid": "Find out about each thing. Which part of you told you?",
+     "say": "Here is the first thing. Look at it, touch it, smell it, listen to it. Find out all you can.",
+     "kid": "Find out about each thing, any way you like.",
      "ask": [
       {
-       "q": "What did you find out about the curry leaf?",
+       "q": "What did you find out about the curry leaf, and which body part told you?",
        "good": [
         "It smells strong when I crush it. My nose told me.",
         "It is green. My eyes told me.",
@@ -836,7 +836,7 @@
      "mins": 4,
      "do": "Play 'Touch your…': call out a sense, and your child touches its sense organ.",
      "say": "Touch the part that sees. The part that hears. The part that smells. The part that tastes. Now the part that feels a touch.",
-     "kid": "Touch the part that sees. Now the part that hears. Now the part that smells. Now the part that tastes. Now the part that feels a touch.",
+     "kid": "Listen to your grown-up. Touch the part of your body that does each job.",
      "check": {
       "t": "mcq",
       "q": "Which sense organ told you that the jaggery is sweet?",
@@ -883,7 +883,7 @@
      "what": "Sit in the dark. Test each sense. Switch on the torch and talk about what changed."
     }
    ],
-   "record": "Draw a dark room. Inside it, draw the senses that still worked in the dark.",
+   "record": "Make two lists: the senses that still worked in the dark, and the sense that did not. A grown-up helps with the writing.",
    "setup": [
     {
      "art": "A woman and a girl sitting on a mattress in a dim room in the evening, the woman holding a torch that is switched off.",
@@ -908,7 +908,7 @@
      "mins": 5,
      "do": "1. Tap the tumbler. 2. Hold the lemon near your child's nose. 3. Put your hand gently on their arm. 4. Ask about each sense.",
      "say": "Can you hear the tumbler? Can you smell the lemon? Can you feel my hand on your arm? Which senses still work in the dark?",
-     "kid": "Listen. Smell. Feel. Which senses still work in the dark?",
+     "kid": "Listen to the tumbler. Smell the lemon. Feel your grown-up's hand.",
      "adult": true,
      "ask": [
       {
@@ -924,8 +924,8 @@
      "id": "s3",
      "mins": 3,
      "do": "Switch on the torch. Ask why seeing came back.",
-     "say": "Now the torch is on. You can see again. Your eyes did not change. What changed?",
-     "kid": "The torch is on. You can see again. What changed?",
+     "say": "Now the torch is on. You can see again. Your eyes did not change.",
+     "kid": "Look around the room now.",
      "ask": [
       {
        "q": "Why can you see now?",
@@ -955,7 +955,7 @@
    "title": "Touch Words: rough, smooth, soft, hard, warm, cold",
    "mins": 12,
    "days": 1,
-   "context": "In this activity you feel things from around the home and sort them by what your skin tells you.",
+   "context": "You will find the words that say how things feel. You feel things from around the home with your eyes covered, and sort them by what your skin tells you.",
    "materials": [
     {
      "item": "6 to 8 home things, such as a steel spoon, a towel, a comb, a coconut scrubber or a rough brush, a cotton ball, a stone or a tile, a banana",
@@ -970,7 +970,7 @@
      "qty": 1
     },
     {
-     "item": "paper and crayons",
+     "item": "paper and a pencil",
      "qty": 1
     }
    ],
@@ -981,7 +981,7 @@
      "what": "Feel each thing with eyes covered. Say a touch word. Sort the things into groups."
     }
    ],
-   "record": "Draw two groups: things that felt rough and things that felt smooth.",
+   "record": "Write two lists: things that felt rough and things that felt smooth. Or take a photo of the two groups.",
    "setup": [
     {
      "art": "A row of home things on a mat: a steel spoon, a folded towel, a comb, a coconut scrubber, a cotton ball and a banana.",
@@ -996,9 +996,9 @@
     {
      "id": "s1",
      "mins": 7,
-     "do": "1. Cover your child's eyes. 2. Put one thing in their hands at a time. 3. Ask for a touch word: rough, smooth, soft, hard, warm or cold.",
+     "do": "1. Cover your child's eyes. 2. Put one thing in their hands at a time, with the tumbler of lukewarm water among them. 3. Ask for a touch word: rough, smooth, soft, hard, warm or cold.",
      "say": "Feel this. What does your skin tell you? Is it rough or smooth? Soft or hard? Warm or cold?",
-     "kid": "Feel it. Is it rough or smooth? Soft or hard? Warm or cold?",
+     "kid": "Feel it with your hands. Find a word for it.",
      "ask": [
       {
        "q": "What does the steel spoon feel like?",
@@ -1015,7 +1015,7 @@
      "mins": 5,
      "do": "1. Uncover the eyes. 2. Sort the things into a rough group and a smooth group, then a soft group and a hard group.",
      "say": "Let's sort them. Put everything that felt rough here, and everything smooth there. Now try soft and hard.",
-     "kid": "Sort the things. Put the rough ones here and the smooth ones there. Now sort them into soft and hard.",
+     "kid": "Sort the things into two groups. Then sort them again, into soft and hard.",
      "check": {
       "t": "mcq",
       "q": "Which one feels soft?",
@@ -1035,7 +1035,7 @@
    "title": "Shaker Pairs: match them with your ears",
    "mins": 12,
    "days": 1,
-   "context": "In this activity a grown-up fills closed boxes with different things, two of each. You shake them and find the pairs, using only your ears.",
+   "context": "You will find out how much sound alone can tell you about what is hidden. A grown-up fills closed boxes with different things, two of each. You shake them and find the pairs, using only your ears.",
    "materials": [
     {
      "item": "6 small closed boxes or bottles that look the same, such as empty medicine bottles, small dabbas or paper cups taped shut",
@@ -1053,7 +1053,7 @@
      "what": "A grown-up fills the boxes. Shake them and find the three pairs. Then open them to check."
     }
    ],
-   "record": "Draw the three pairs you found, and what was inside each.",
+   "record": "Leave the three pairs side by side. Tell a grown-up what was inside each pair, or take a photo.",
    "setup": [
     {
      "art": "A woman filling six small identical bottles: two with rice, two with salt, two with a few rajma beans.",
@@ -1076,8 +1076,8 @@
      "id": "s2",
      "mins": 6,
      "do": "Your child shakes the boxes and puts them in pairs.",
-     "say": "Shake this one. Now that one. Do they sound the same? What do you think is inside? Why?",
-     "kid": "Shake two boxes. Do they sound the same? What is inside?",
+     "say": "Shake this one. Now shake that one. Do they sound the same? Put the ones that sound the same side by side.",
+     "kid": "Shake the boxes. Put the ones that sound the same in pairs.",
      "ask": [
       {
        "q": "What do you think is in this one? Why?",
@@ -1094,7 +1094,7 @@
      "mins": 3,
      "do": "Open the boxes and check.",
      "say": "Let's open them. Did your ears get it right?",
-     "kid": "Open the boxes. Were your ears right?",
+     "kid": "Open each pair and look inside.",
      "check": {
       "t": "mcq",
       "q": "Your eyes could not see inside the boxes. How did you find the pairs?",
@@ -1117,45 +1117,49 @@
    "title": "My Five Senses Book: one sense each day",
    "mins": 25,
    "days": 5,
-   "context": "In this project you make a small book with five pages, one for each sense. Each day, you find one thing that you sensed and draw it.",
+   "context": "You will notice how much your senses tell you in one ordinary week. You make a small book with five pages, one for each sense. Each day, you put one thing you sensed on that sense's page.",
    "materials": [
     {
      "item": "3 sheets of paper, folded in half and stapled or tied with thread to make a small book",
      "qty": 3
     },
     {
-     "item": "crayons or colour pencils",
+     "item": "a pencil or crayons",
      "qty": 1
+    },
+    {
+    "item": "glue or tape, to stick things in",
+    "qty": 1
     }
    ],
    "schedule": [
     {
      "day": 1,
      "mins": 5,
-     "what": "Make the book. Draw something you saw today on the 'Eyes' page."
+     "what": "Make the book. Draw something you saw today on the 'Eyes' page, or tell a grown-up and they write it."
     },
     {
      "day": 2,
      "mins": 5,
-     "what": "Draw something you heard on the 'Ears' page."
+     "what": "Write a word for a sound you heard on the 'Ears' page, such as 'tring' or 'splash'."
     },
     {
      "day": 3,
      "mins": 5,
-     "what": "Draw something you smelled on the 'Nose' page."
+     "what": "Stick a dry curry leaf, flower petal or orange peel on the 'Nose' page, and write its name."
     },
     {
      "day": 4,
      "mins": 5,
-     "what": "Draw something you tasted on the 'Tongue' page."
+     "what": "Write the food you tasted today on the 'Tongue' page, and a word for its taste."
     },
     {
      "day": 5,
      "mins": 5,
-     "what": "Draw something you touched on the 'Skin' page. Show the whole book to someone and tell them about each page."
+     "what": "Stick a scrap of cloth or paper on the 'Skin' page, and write a touch word. Show the whole book to someone and tell them about each page."
     }
    ],
-   "record": "The finished book, with one drawing for each sense.",
+   "record": "The finished book, with one thing on each sense page: a drawing, a word or something stuck on.",
    "setup": [
     {
      "art": "Three sheets of paper folded and tied with a thread into a little book, with 'My Senses' on the cover.",
@@ -1163,7 +1167,7 @@
     },
     {
      "art": "An open little book showing a drawing of a temple bell on the 'Ears' page.",
-     "caption": "2. Each day, draw one thing for one sense."
+     "caption": "2. Each day, put one thing for one sense on its page."
     }
    ],
    "flow": [
@@ -1171,40 +1175,40 @@
      "id": "s1",
      "mins": 5,
      "do": "1. Fold and tie the book. 2. Write 'My Senses' on the cover. 3. Write one sense at the top of each page: Eyes, Ears, Nose, Tongue, Skin. Your child writes what they can, and you write the rest.",
-     "say": "Each day this week, you will notice one thing with one sense, and draw it. Today is the eyes day. What did you see today that you liked?",
-     "kid": "Make your book. Today, draw something you saw."
+     "say": "Each day this week, you will notice one thing with one sense, and put it in the book. Today is the eyes day. What did you see today that you liked?",
+     "kid": "Make your book. Today, draw something you saw, or tell your grown-up."
     },
     {
      "id": "s2",
      "mins": 5,
-     "do": "Each day, help your child choose one thing for that day's sense and draw it.",
+     "do": "Each day, help your child choose one thing for that day's sense and add it to the page. On the ears day, they write a word for a sound.",
      "say": "Today is the ears day. What did you hear today? Was it loud or soft? Where did it come from?",
-     "kid": "Today, draw something you heard. Was it loud or soft?",
+     "kid": "Write a word for a sound you heard. Was it loud or soft?",
      "wait": "Do the next page tomorrow, and one more page each day after that."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "On the nose day, ask where the smell came from.",
+     "do": "On the nose day, ask where the smell came from. Help your child stick a dry smelly thing on the page and write its name.",
      "say": "What did you smell today? Were you near it, or far away when you smelled it?",
-     "kid": "Draw something you smelled. Were you near or far?"
+     "kid": "Stick something that smells on the page. Were you near or far when you smelled it?"
     },
     {
      "id": "s4",
      "mins": 5,
-     "do": "On the tongue day, ask about tastes.",
-     "say": "Was the taste sweet, sour, salty or bitter? Draw it.",
-     "kid": "Draw something you tasted. Say a word for the taste."
+     "do": "On the tongue day, ask about tastes. Help your child write the food and a word for its taste.",
+     "say": "What did you taste today? Was it sweet, sour, salty or bitter?",
+     "kid": "Write the food you tasted, and a word for its taste."
     },
     {
      "id": "s5",
      "mins": 5,
-     "do": "On the last day, your child draws something they touched on the Skin page. Then they show the whole book to someone at home and tell them about each page.",
+     "do": "On the last day, your child sticks something they touched on the Skin page and writes a touch word. Then they show the whole book to someone at home and tell them about each page.",
      "say": "What did you touch today? Was it rough, smooth, soft or hard? Now show your book to someone at home. Which page do you like best?",
-     "kid": "Draw something you touched. Then show your book to someone and tell them about each page.",
+     "kid": "Stick something you touched on the page, and write a touch word. Then show your book to someone and tell them about each page.",
      "check": {
       "t": "mcq",
-      "q": "Which page of your book could have a drawing of jasmine flowers?",
+      "q": "Which page of your book could have jasmine flowers on it?",
       "options": [
        "The nose page",
        "The ears page",
@@ -1222,7 +1226,7 @@
    "id": "c1",
    "title": "A Doorbell for a Neighbour Who Cannot Hear",
    "mins": 20,
-   "context": "This is a design challenge. A neighbour cannot hear the doorbell. You design a way for her to know someone is at the door, using a different sense.",
+   "context": "You will find out how another sense can do the job of hearing. A neighbour cannot hear the doorbell. You design a way for her to know someone is at the door.",
    "problem": "A neighbour of yours cannot hear any sounds. When someone rings her doorbell, she does not know. How could you let her know someone is at the door, using her eyes, her nose or her skin?",
    "constraints": [
     "It must work without her hearing anything.",
@@ -1245,7 +1249,7 @@
     "Flash a torch on the wall where she sits.",
     "Wave a bright cloth through the doorway."
    ],
-   "your_turn": "Draw your own doorbell for your neighbour. Then try it out at home: one person is the neighbour, and one person comes to the door.",
+   "your_turn": "Make your own doorbell for your neighbour, or draw a plan for it. Then try it out at home: one person is the neighbour, and one person comes to the door.",
    "setup": [
     {
      "art": "An older woman reading in a chair while, far away, a hand presses a doorbell by the front door.",
@@ -1261,11 +1265,11 @@
      "id": "s1",
      "mins": 3,
      "do": "Read the problem to your child.",
-     "say": "A neighbour cannot hear. When her doorbell rings, she does not know someone is there. Which other senses could tell her?",
-     "kid": "A neighbour cannot hear the bell. Which other sense could tell her?",
+     "say": "A neighbour cannot hear. When her doorbell rings, she does not know someone is there.",
+     "kid": "Think about your neighbour. She cannot hear the bell.",
      "ask": [
       {
-       "q": "Which senses could help?",
+       "q": "Which of her other senses could tell her someone is at the door?",
        "good": [
         "Her eyes, if a light flashes.",
         "Her skin, if something touches her.",
@@ -1277,9 +1281,9 @@
     {
      "id": "s2",
      "mins": 8,
-     "do": "Your child draws one or two ideas. Talk about each one.",
-     "say": "Draw your idea. Which sense does it use? How would she know it is the door, and not something else?",
-     "kid": "Draw your doorbell. Which sense does it use?"
+     "do": "Your child builds one or two ideas from the string, ribbon or torch, or draws a plan for them. Talk about each one.",
+     "say": "Show me your idea. Which sense does it use? How would she know it is the door, and not something else?",
+     "kid": "Build your doorbell, or draw a plan for it."
     },
     {
      "id": "s3",
@@ -1292,8 +1296,8 @@
      "id": "s4",
      "mins": 2,
      "do": "Ask the check question.",
-     "say": "Did it work? What would you change?",
-     "kid": "Did it work? What would you change?",
+     "say": "Did the neighbour know it was the door? What would you change?",
+     "kid": "Think of one way to make your doorbell better.",
      "check": {
       "t": "mcq",
       "q": "Which sense does a doorbell that flashes a light use?",

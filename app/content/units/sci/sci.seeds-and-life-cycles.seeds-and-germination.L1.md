@@ -144,17 +144,17 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
 - **s1 (4 min)**  
   *Parent does:* 1. Cut out the 16 cards. 2. Colour the borders: brown for seeds, green for plants. 3. Mix the cards and lay them face down.  
   *Parent says:* Each brown card is a seed. Each green card is a plant. Can you match each seed to the plant that grows from that seed?  
-  *Child mode:* Brown cards are seeds. Green cards are plants. Find the pairs.
+  *Child mode:* Look at the cards. Which ones are seeds? Which ones are plants?
 - **s2 (8 min)**  
   *Parent does:* Take turns. Each player turns one brown and one green card. Read both out loud.  
-  *Parent says:* What did you turn over? Does this seed grow into this plant? Why do you think so?  
-  *Child mode:* Turn one brown card and one green card. Do they go together?
+  *Parent says:* What did you turn over? Does this seed grow into this plant? How do you know?  
+  *Child mode:* Turn one brown card and one green card. Say both names out loud.
   - Ask: Can a mango stone grow into a coconut palm? (good: No. A mango seed grows into a mango tree.; Every seed grows into the same kind of plant as the plant that made the seed.)
   - Note: Let the child say why before you check. If they are unsure, ask what fruit the seed came from.
 - **s3 (3 min)**  
   *Parent does:* Lay out all the pairs. Count each player's pairs. Look at the banyan pair.  
   *Parent says:* Look at the banyan seed and the banyan tree. Which seed is smallest? Which plant is biggest?  
-  *Child mode:* Look at the tiny banyan seed. Look at the huge banyan tree. Are they a pair?
+  *Child mode:* Find the banyan seed and the banyan tree. Put them side by side.
   - Note: The banyan pair is the surprise. Banyan seeds are tiny, about a millimetre across.
   - Check: A banyan seed is tiny. What does a banyan seed grow into? → **A huge tree**
 ### g2 · Root Down, Shoot Up: a moving game (10 min)
@@ -162,17 +162,17 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
 - **Printable cards: 10 call cards for the caller:** Dry seed (back: Curl up small and keep still. A dry seed waits.); Water! (back: Puff out your cheeks and stretch a little. The seed soaks up water and swells.); Root! (back: Push one foot down and out. The root comes out first and grows down.); Root drinks (back: Make a slurping sound. The root drinks water from the soil.); Root holds on (back: Press both feet hard into the floor. The root holds the plant in place.); Shoot! (back: Bend your back and push up slowly, head down, like a bent finger. The shoot comes up curled.); Into the light (back: Straighten up and lift your head. The shoot reaches the light.); Seed leaves (back: Open both hands wide above your head. The seed leaves open.); No water (back: Droop down slowly. A young plant with no water wilts.); Rain (back: Stand up tall again. A drink helps the young plant stand up.)
 - **s1 (2 min)**  
   *Parent does:* Clear a space on the floor. Put the cards in order, with the Dry seed card on top.  
-  *Parent says:* You are a seed. Curl up small. I will read a card, and you move.  
-  *Child mode:* Curl up small. You are a dry seed.
+  *Parent says:* We will play a game about how a seed sprouts. I will read a card, and you move.  
+  *Child mode:* Curl up small, like a dry seed.
 - **s2 (6 min)**  
   *Parent does:* Read the cards one at a time. Do the moves together the first time.  
-  *Parent says:* Root! Which way does the root grow? Show me with your feet.  
+  *Parent says:* Which way does a root grow? Show me with your feet.  
   *Child mode:* Listen to the card. Move like that part of the plant.
   - Note: If the child shoots up before the root, say 'Root first!' and let them try again.
 - **s3 (2 min)**  
   *Parent does:* Say 'Freeze!' Ask each player what their body is doing, and which part of the plant does that.  
-  *Parent says:* Freeze! What is your body doing? Which part of the plant does that? What is that part doing for the plant?  
-  *Child mode:* Freeze! What is your body doing? Which part of the plant does that?
+  *Parent says:* Freeze! What is your body doing? Which part of the plant does that?  
+  *Child mode:* Stay frozen. Tell your grown-up which part of the plant you are.
   - Check: What does the root do for a young plant? → **Drinks water and holds on**
 
 ## Experiments
@@ -180,9 +180,9 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
 - **question:** After we plant a seed, what happens under the soil before anything shows on top?
 - **predict:** Guess first. Under the soil, what will the seed grow first: a root, a leaf, or nothing yet? Why do you think so?
 - **fair test:** All five seeds come from one packet, are soaked together, and are planted in the same soil at the same depth. The only difference is how many days each seed has had in the soil.
-- **record:** Each day, draw the seed you dug up, as big as your hand. On day 5, put the drawings in a row.
-- **results table:** Seed | Day we looked | What we saw | My drawing
-- **schedule:** day 0: In the evening, soak 6 chana seeds in a bowl of water. (2 min); day 1: Plant 5 seeds, each next to a numbered stick. Guess what will happen. (10 min); day 2: Dig up seed 1. Look, draw, and put the seed back. (4 min); day 3: Dig up seed 2. Look, draw, and put the seed back. (4 min); day 4: Dig up seed 3. Look, draw, and put the seed back. (4 min); day 5: Dig up seed 4. Look at seed 5 from the top. Put all your drawings in a row. (5 min); day 6: Look for seed 5's shoot coming up. If the shoot is not up, look again each day. (4 min)
+- **record:** On days 2 and 4, draw the seed you dug up, as big as your hand, or take a photo. On day 3, say what you see and your grown-up writes it in the table. On day 5, put your records in a row.
+- **results table:** Seed | Day we looked | What we saw | My drawing or photo
+- **schedule:** day 0: In the evening, soak 6 chana seeds in a bowl of water. (2 min); day 1: Plant 5 seeds, each next to a numbered stick. Guess what will happen. (10 min); day 2: Dig up seed 1. Look, draw or take a photo, and put the seed back. (4 min); day 3: Dig up seed 2. Look, say what you see, and put the seed back. (4 min); day 4: Dig up seed 3. Look, draw or take a photo, and put the seed back. (4 min); day 5: Dig up seed 4. Look at seed 5 from the top. Put all your records in a row. (5 min); day 6: Look for seed 5's shoot coming up. If the shoot is not up, look again each day. (4 min)
 - **s1 (2 min)**  
   *Parent does:* In the evening, put 6 whole chana seeds in a bowl. Cover them with water.  
   *Parent says:* We are going to plant chana seeds tomorrow. Tonight they soak in water. Feel how hard they are now.  
@@ -191,52 +191,52 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
   - Wait: Plant the seeds tomorrow morning.
 - **s2 (8 min)**  
   *Parent does:* 1. Fill the box with soil, 3 fingers deep. 2. Push 5 sticks into the soil, in a row, a hand apart. 3. Next to each stick, push one seed down one finger-joint deep. 4. Cover with soil. 5. Sprinkle water until the soil is damp. 6. Put the box by a bright window, out of hot afternoon sun.  
-  *Parent says:* Feel the chana now. What has changed since last night? Now let's plant each seed next to a stick.  
-  *Child mode:* Feel the chana. Are they hard or soft? Plant one seed next to each stick.
+  *Parent says:* Feel the chana now. Then we plant each seed next to a stick.  
+  *Child mode:* Feel the soaked chana. Then plant one seed next to each stick.
   - Ask: What changed after the night in water? (good: They got bigger.; They are soft now.; They drank the water.)
   - Note: The sticks tell you where each seed is, so you can dig up the right one. Keep the spare seed in the bowl to compare.
 - **s3 (4 min)**  
   *Parent does:* Ask your child to guess, and to say why. Write the guess down.  
-  *Parent says:* Tomorrow we dig up seed 1. What will the seed have done under the soil? A root, a leaf, or nothing yet? Why do you think so?  
-  *Child mode:* Guess. Under the soil, what will the seed grow first? Why?
+  *Parent says:* Tomorrow we dig up seed 1. What will the seed have done under the soil?  
+  *Child mode:* Guess: a root, a leaf, or nothing yet?
   - Ask: Why do you think so? (good: Nothing, because the soil is dark.; A leaf, because plants have leaves.; A root, because roots go in the soil.)
   - Note: Any guess is fine. Many children guess that a leaf comes first, or that nothing happens in the dark. Don't tell them what will happen.
   - Wait: Come back tomorrow, on day 2.
 - **s4 (4 min)**  
-  *Parent does:* 1. Next to stick 1, lift the soil gently with a spoon. 2. Lay seed 1 on the damp cloth. 3. Look closely and draw. 4. Put the seed back in the hole, cover the seed with soil and water a little.  
-  *Parent says:* Let's dig up seed 1 very gently. What do you see? Is anything coming out?  
-  *Child mode:* Dig up seed 1 gently. Look closely. What is coming out?
+  *Parent does:* 1. Next to stick 1, lift the soil gently with a spoon. 2. Lay seed 1 on the damp cloth. 3. Look closely. Draw it or take a photo. 4. Put the seed back in the hole, cover the seed with soil and water a little.  
+  *Parent says:* Let's dig up seed 1 very gently. Hold the seed by the sides.  
+  *Child mode:* Look closely at the seed. Is anything coming out?
   - Ask: What does seed 1 look like? (good: Fat and soft.; The skin is cracking.; A tiny white tip is coming out.)
   - Note: Handle the seed by the sides, not the white tip. Put the seed back quickly, root down. Most replanted seeds keep growing.
   - Wait: Come back tomorrow, on day 3.
 - **s5 (4 min)**  
-  *Parent does:* On day 3, dig up seed 2 the same way. Draw seed 2 and put the drawing next to the drawing of seed 1.  
-  *Parent says:* Here is seed 2. Which way is the white part growing? Up or down?  
-  *Child mode:* Dig up seed 2. Which way is the white part going?
+  *Parent does:* On day 3, dig up seed 2 the same way. Lay seed 2 on the cloth. Write what your child says in the results table.  
+  *Parent says:* Here is seed 2. Look at it next to your record of seed 1.  
+  *Child mode:* Find the white part. Which way does it point?
   - Ask: What is the white part? (good: The root.; The root, going down.)
   - Note: On day 3 the root is usually as long as a fingernail. In a cold room the root may be a day slower.
   - Wait: Come back tomorrow, on day 4.
 - **s7 (4 min)**  
-  *Parent does:* On day 4, dig up seed 3 the same way. Draw the seed and put the drawing in the row.  
+  *Parent does:* On day 4, dig up seed 3 the same way. Draw the seed or take a photo, and add it to the row.  
   *Parent says:* Here is seed 3. Is the root longer than yesterday? Is anything new coming out?  
-  *Child mode:* Dig up seed 3. Is the root longer? Is anything new coming out?
+  *Child mode:* Dig up seed 3. Look for what is new.
   - Note: On day 4 the root is usually long, with little side roots, and a curled shoot may be starting. Everything may be a day slower in a cold room.
   - Wait: Come back tomorrow, on day 5.
 - **s8 (5 min)**  
-  *Parent does:* 1. On day 5, dig up seed 4. 2. Look at the top of the soil by stick 5. 3. Put all four drawings in a row, from seed 1 to seed 4.  
-  *Parent says:* Look at the top of the soil by stick 5. Nothing may show yet. But was seed 5 doing nothing? Look at your drawings. What did you find out?  
-  *Child mode:* Look at all your drawings. What came out first? What came next?
+  *Parent does:* 1. On day 5, dig up seed 4. 2. Look at the top of the soil by stick 5. 3. Put your records of seeds 1 to 4 in a row, from seed 1 to seed 4.  
+  *Parent says:* Look at the top of the soil by stick 5. Nothing may show yet. Now look at your records, from seed 1 to seed 4.  
+  *Child mode:* Look at your records in order. Point to the part that came out first.
   - Ask: What came out first, the root or the shoot? (good: The root came first.; The root, then the shoot.)
   - Ask: Above the soil, what could we see? (good: Nothing, or only a tiny bump.; Nothing, but underneath there was a long root.)
-  - Note: Ask your child what they found out (the root comes first), how they know (the four drawings) and why it is so (the root needs to drink and hold on). Chana can need 6 to 10 days to show above the soil, so if seed 5 is not up, wait a few more days.
+  - Note: Ask your child what they found out (the root comes first), how they know (the records in a row) and why it is so (the root needs to drink and hold on). Chana can need 6 to 10 days to show above the soil, so if seed 5 is not up, wait a few more days.
   - Check: Under the soil, what did the chana seed grow first? → **A white root**
   - Wait: Come back on day 6.
 - **s9 (4 min)**  
   *Parent does:* On day 6, look at the top of the soil by stick 5 for a green shoot. If the shoot is not up yet, look again each day. Ask your child to say what they found out.  
-  *Parent says:* Look at seed 5. Is a green shoot up yet? For days nothing showed on top, but was the seed doing nothing? What did you find out?  
-  *Child mode:* Look at seed 5. Was the seed busy before we saw anything? Say what you found.
+  *Parent says:* Look at seed 5. Is a green shoot up yet? For days nothing showed on top.  
+  *Child mode:* Think back to seeds 1 to 4. Was seed 5 busy under the soil before we saw anything?
   - Ask: What did you find out? (good: The root comes first, under the soil.; The seed was growing before we could see anything.; First the root goes down, then the shoot comes up.)
-  - Note: Ask your child what they found out (the root comes first), how they know (the four drawings) and why it is so (the root needs to drink and hold on). Chana can take 6 to 10 days to show above the soil, so wait a few days if seed 5 is not up.
+  - Note: Ask your child what they found out (the root comes first), how they know (the records in a row) and why it is so (the root needs to drink and hold on). Chana can take 6 to 10 days to show above the soil, so wait a few days if seed 5 is not up.
 ### e2 · Big Seed, Small Seed: who sprouts first? (20 min, 3 days)
 - **question:** Does a big seed sprout faster than a small seed?
 - **predict:** Guess first. Which seed will show a root first: the big rajma, the middle moong, or the tiny rai? Why do you think so?
@@ -246,52 +246,52 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
 - **schedule:** day 0: In the evening, soak each kind of seed in a separate bowl. (3 min); day 1: Lay the seeds on wet tissue in three rows. Guess which will show a root first. (8 min); day 2: Look at each row. Count the seeds with a root. Wet the tissue. (4 min); day 3: Look again. Which row showed roots first? In all three rows, did the root come out of the seed first? (5 min)
 - **s1 (3 min)**  
   *Parent does:* In the evening, put 6 rajma, 6 moong and 6 rai in three small bowls. Cover each with water.  
-  *Parent says:* Look at the three kinds of seed. Which is the biggest? Which is the smallest?  
-  *Child mode:* Look at the three seeds. Which is biggest? Which is smallest?
+  *Parent says:* Here are three kinds of seed: rajma, moong and rai. Which is the biggest? Which is the smallest?  
+  *Child mode:* Point to the biggest seed. Point to the smallest seed.
   - Note: Do not eat these seeds raw: raw rajma is poisonous. Small seeds must stay out of mouths and noses, so keep the plate away from small children. Soaked rai goes slimy. That is normal.
   - Wait: Lay the seeds on wet tissue tomorrow morning.
 - **s2 (8 min)**  
   *Parent does:* 1. Wet the tissue on the plate. 2. Pour each bowl through a tea strainer to drain the seeds. 3. Lay the seeds in three rows, one row for each kind. 4. Ask your child to guess which kind will show a root first, and to say why.  
-  *Parent says:* Which seed will show a root first? Why do you think so?  
-  *Child mode:* Put the seeds in three rows. Which will show a root first? Why?
+  *Parent says:* Which kind of seed will show a root first?  
+  *Child mode:* Lay the seeds in three rows, one row for each kind.
   - Ask: Why do you think so? (good: The rajma, because rajma are biggest and strongest.; The rai, because they are small and quick.)
   - Note: Many children guess the big rajma, because big seems strong. Don't say what will happen. Keep the tissue wet, with no puddle.
   - Wait: Come back tomorrow.
 - **s3 (4 min)**  
   *Parent does:* Look at each row. Count the seeds with a white root. Sprinkle water on the tissue.  
-  *Parent says:* Count the seeds with a root in each row. Which row has the most?  
-  *Child mode:* Count the seeds with a white root in each row.
+  *Parent says:* Look for white tails coming out of the seeds. Which row has the most?  
+  *Child mode:* Count the seeds with a white root in each row. Say the numbers out loud.
   - Note: Moong and rai usually show roots first, often within a day. Rajma are usually a day or two slower. If rajma win in your home, that is a real result too.
   - Wait: Come back tomorrow.
 - **s4 (5 min)**  
   *Parent does:* Look again. Talk about which kind of seed showed a root first, and what came out first on every seed.  
-  *Parent says:* Which kind of seed showed a root first? Did the big seed sprout faster? And on every seed, what came out first?  
-  *Child mode:* Which kind of seed showed a root first? On every seed, what came out first?
+  *Parent says:* Look at all three rows again. Which kind of seed showed a root first?  
+  *Child mode:* On every kind of seed, point to what came out first.
   - Ask: Did the biggest seed sprout first? (good: No, the small ones were faster.; No, the rajma was slow.)
   - Note: A big seed takes longer to soak up enough water, which is probably part of why rajma are slower. The kind of seed matters too.
 
 ## Activities
 ### a1 · The Seed Feely Bag (10 min)
-- **record:** Draw the seed that was hardest to guess.
+- **record:** Tell your grown-up which seed was hardest to guess and why. Or draw that seed.
 - **s1 (3 min)**  
   *Parent does:* Put two of each seed on the plate. Let your child look at and touch each one.  
-  *Parent says:* These are all seeds. Each one has a tiny baby plant inside. Feel each kind. Which is smooth? Which is wrinkly?  
-  *Child mode:* These are all seeds. Touch each one. Which is smooth? Which is wrinkly?
+  *Parent says:* These are all seeds. Each one has a tiny baby plant inside. Look at each kind and feel it.  
+  *Child mode:* Which seed is smooth? Which is wrinkly? Which is the biggest?
   - Note: Chana is wrinkly, rajma is smooth and shiny, groundnut has a thin papery skin, moong is small and smooth.
 - **s2 (5 min)**  
   *Parent does:* Put one of each seed in the bag. Your child reaches in, picks one, feels the seed and guesses, then pulls the seed out to check.  
-  *Parent says:* Pick one seed. Don't look. Is the seed big or small, smooth or wrinkly? Which kind of seed are you holding?  
-  *Child mode:* Feel one seed without looking. Guess which kind of seed. Then look.
+  *Parent says:* Pick one seed. Don't look. Is it big or small, smooth or wrinkly?  
+  *Child mode:* Guess which kind of seed it is. Then pull it out to check.
   - Ask: How did you know? (good: Wrinkly, so chana.; Big and smooth, so rajma.)
   - Note: Small seeds can choke a young child. Stay beside your child, and keep the seeds out of mouths and noses.
 - **s3 (2 min)**  
   *Parent does:* Ask your child what would grow if each seed were planted.  
   *Parent says:* All of these are seeds. What would happen if we planted each one?  
-  *Child mode:* What would grow from each seed?
+  *Child mode:* Pick a seed from the plate. Tell your grown-up what would grow from it.
   - Ask: What would grow from the groundnut? (good: A groundnut plant.; A new groundnut plant, the same kind as the plant the seed came from.)
   - Note: Raw groundnuts sprout. Roasted ones do not, because heat kills the baby plant inside.
 ### a2 · Line Up the Seeds: smallest to biggest (10 min)
-- **record:** Draw your line of seeds on the paper strip, smallest at one end.
+- **record:** Take a photo of your line, or leave the seeds on the strip. Tell your grown-up which seed is smallest and which is biggest.
 - **s1 (5 min)**  
   *Parent does:* Mix the seeds on the floor. Your child lines them up on the strip, smallest to biggest.  
   *Parent says:* Can you put these seeds in a line, from the smallest to the biggest?  
@@ -300,10 +300,10 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
 - **s2 (5 min)**  
   *Parent does:* Talk about the plant each seed grows into.  
   *Parent says:* A mango stone grows into a big tree. A rajma grows into a small plant. A banyan seed is even smaller than rai, and a banyan grows into a huge tree. Does a bigger seed always make a bigger plant?  
-  *Child mode:* Does a big seed always grow a big plant? What about the tiny banyan seed?
+  *Child mode:* Think about the banyan seed. It is smaller than your smallest seed.
   - Ask: Does a big seed always make a big plant? (good: No. The banyan seed is tiny and the tree is huge.; No. It depends on the kind of seed.)
 ### a3 · What's in the Pumpkin? Save seeds to plant (10 min)
-- **record:** Draw one seed and the fruit the seed came from.
+- **record:** Tell your grown-up which fruit the seeds came from and what will grow from them. Or draw one seed and its fruit.
 - **s1 (4 min) · grown-up needed**  
   *Parent does:* When you cook a pumpkin or cut a melon, scoop the seeds into a sieve. Your child washes off the stringy bits under the tap.  
   *Parent says:* Look how many seeds were inside one pumpkin. Each seed holds a tiny baby pumpkin plant.  
@@ -316,65 +316,65 @@ On the ninth day, a new red leaf unrolled at the top. Varun ran to tell Paati. '
   - Ask: What will grow from a pumpkin seed? (good: A pumpkin plant.; A new pumpkin plant.)
 - **s3 (3 min)**  
   *Parent does:* Spread the seeds on newspaper to dry for two days. Keep some for the project 'Plant a Seed from Your Plate'.  
-  *Parent says:* We'll dry these and plant some. Which plant will come up?  
+  *Parent says:* We will dry these for two days. Then we will plant some.  
   *Child mode:* Spread the seeds out to dry. Soon we will plant them.
   - Note: Fresh seeds can also be planted straight away. Seeds from a store-bought pumpkin or melon usually sprout well.
 
 ## Projects
 ### p1 · Plant a Seed from Your Plate (30 min, 14 days)
-- **record:** Draw your cup on day 1, day 6 and day 14.
-- **schedule:** day 1: Fill the cup with soil. Plant 4 seeds, one finger-joint deep. Water. Give each plant a name. (8 min); day 3: Touch the soil. If dry, sprinkle water. Look for any change. (3 min); day 6: Look for curled shoots coming up. Draw the cup. (5 min); day 9: Look at the seed leaves. Is there a tiny new leaf in the middle yet? Is the new leaf the same shape as the seed leaves? (4 min); day 14: Draw your plants. Compare the seed leaves with the newer leaves. Tell someone at home the story of your seed, from plate to plant. (10 min)
+- **record:** On day 1, day 6 and day 14, take a photo of your cup, or draw it.
+- **schedule:** day 1: Fill the cup with soil. Plant 4 seeds, one finger-joint deep. Water. Give each plant a name. (8 min); day 3: Touch the soil. If dry, sprinkle water. Look for any change. (3 min); day 6: Look for curled shoots coming up. Take a photo of the cup, or draw it. (5 min); day 9: Look at the seed leaves. Is there a tiny new leaf in the middle yet? Is the new leaf the same shape as the seed leaves? (4 min); day 14: Look at your plants. Compare the seed leaves with the newer leaves. Tell someone at home the story of your seed, from plate to plant. (10 min)
 - **s1 (8 min)**  
   *Parent does:* 1. Fill the cup with soil. 2. Push 4 seeds in, one finger-joint deep, flat side down. 3. Cover and sprinkle water until the soil is damp. 4. Put the cup on a saucer by a bright window.  
-  *Parent says:* These seeds came from our pumpkin. Let's plant them. What do you think will grow? What name shall we give each plant?  
+  *Parent says:* These seeds came from a fruit we ate. Let's plant them. What do you think will grow?  
   *Child mode:* Push 4 seeds into the soil. Cover them. Sprinkle water. Give each plant a name.
   - Note: Poke holes in the bottom of the cup so extra water drains out. Soggy soil makes seeds rot.
 - **s2 (3 min)**  
   *Parent does:* Every two or three days, touch the soil. If the top feels dry, sprinkle 3 spoons of water.  
   *Parent says:* Touch the soil. Is the soil dry or damp? Does your seed need a drink?  
-  *Child mode:* Touch the soil. If the soil is dry, give some water. If the soil is damp, do not water.
+  *Child mode:* If the soil is dry, give it some water. If it is damp, wait.
   - Wait: Check every two or three days.
 - **s3 (5 min)**  
-  *Parent does:* Look for curled shoots coming up. Draw the cup.  
+  *Parent does:* Look for curled shoots coming up. Take a photo of the cup, or draw it.  
   *Parent says:* Look! What is coming up? Why do you think the shoot is curled over?  
-  *Child mode:* Look for a curled shoot. Draw what you see.
+  *Child mode:* Find a curled shoot and point to it.
   - Note: The shoot is curled like a bent finger, so the soil does not scrape the soft tip. Pumpkin and melon seeds usually come up in 4 to 8 days in warm weather. Tomato seeds can take up to 2 weeks. In a cold room, they take longer.
   - Wait: Come back on day 9.
 - **s4 (4 min)**  
   *Parent does:* Look at the seed leaves. Then look in the middle for a tiny new leaf. The new leaf may not have come yet.  
   *Parent says:* Look at the first two leaves, the seed leaves. Is there a tiny new leaf in the middle yet? If there is, is the new leaf the same shape as the seed leaves?  
-  *Child mode:* Look at the first two leaves. Draw one.
+  *Child mode:* Look at the first two leaves. Count them. Are they round or pointy?
   - Note: Pumpkin seed leaves are smooth and round. The true leaves come a little later and are big, rough and wavy at the edges. If you cannot see one yet, look again on day 14.
   - Wait: Come back on day 14.
 - **s5 (10 min)**  
-  *Parent does:* Your child draws the plants and compares the seed leaves with the newer leaves. Then your child tells someone at home the story, from plate to plant.  
+  *Parent does:* Your child compares the seed leaves with the newer leaves. Then your child tells someone at home the story, from plate to plant.  
   *Parent says:* Tell your story. Where did the seed come from? What came out first? What happened next? Are the newer leaves the same shape as the seed leaves?  
-  *Child mode:* Tell someone at home the story of your seed. Where did the seed come from? What grew first?
+  *Child mode:* Tell someone at home the story of your seed.
   - Ask: What kind of plant grew from the pumpkin seed? (good: A pumpkin plant.; The same kind as the plant the seed came from.)
   - Note: If you have a balcony or a big pot, move one plant to a bigger pot. Pumpkin plants climb and spread, and need space.
 
 ## Challenges
 ### c1 · Water While We Sleep (20 min)
 - **problem:** Your family is going away for three days. You want your moong seeds to keep sprouting. Make something that keeps the tissue wet, with nobody pouring water.
-- **your turn:** Now invent your own way. Draw it, make it, and test it for three days. Did the tissue stay wet? Did the seeds sprout?
+- **your turn:** Now invent your own way. Make it, and test it for three days. Sketch it first if you like. Did the tissue stay wet? Did the seeds sprout?
 - **constraints:** Use only things from home.; Nobody adds water for three days.; The seeds must not sit under water.
 - **general:** Stand a cotton strip in a tumbler of water and lay the other end under the tissue. The cloth draws water up.; Put the seeds on wet tissue in a box with a loosely closed lid, so the water does not dry away.
 - **creative:** Put a wet sponge under the tissue, like a water tank.; Cut a plastic bottle in half. Turn the top half upside down into the bottom half, with a cloth strip going down into the water.; Cover the plate loosely with a clear plastic bag. The water that dries off the tissue collects on the bag and drips back.
 - **s1 (4 min)**  
   *Parent does:* Show a dry tissue and a wet tissue. Leave a wet tissue on a plate and come back in the evening.  
-  *Parent says:* If nobody waters the seeds, what happens to the tissue? How could we keep the tissue wet without pouring water?  
-  *Child mode:* What happens to wet tissue if nobody waters it? How could we keep it wet?
+  *Parent says:* Here is a wet tissue and a dry one. If nobody waters the seeds, what happens to the tissue?  
+  *Child mode:* Think of a way to keep the tissue wet without pouring water.
   - Note: On a warm day, a thin wet tissue can dry in a few hours. For step 2, soak a handful of moong the evening before.
 - **s2 (10 min)**  
   *Parent does:* Your child picks an idea, or invents one, and builds it with your help, using the moong soaked the night before.  
-  *Parent says:* Which idea will you try? Why do you think it will keep the tissue wet?  
-  *Child mode:* Pick an idea. Build it. Say why you think it will work.
+  *Parent says:* Which idea will you try?  
+  *Child mode:* Pick an idea and build it.
   - Ask: Why will your idea work? (good: The cloth drinks the water and takes it to the tissue.; The lid stops the water drying away.)
   - Note: A grown-up cuts any plastic bottle. Do not eat these sprouts. They are for looking.
 - **s3 (6 min)**  
   *Parent does:* Check once a day for three days. Do not add water. Look at the seeds and touch the tissue.  
-  *Parent says:* Is the tissue still damp? Are the seeds sprouting? What came out of them first?  
-  *Child mode:* Touch the tissue. Is the tissue wet? Look at the seeds. What came out first?
+  *Parent says:* Is the tissue still damp? Are the seeds sprouting?  
+  *Child mode:* Touch the tissue and look at the seeds. What came out first?
   - Check: A cotton strip stands in water and touches the tissue. What does the strip do? → **Carries water up to the tissue**
   - Wait: Check every day for three days.
 

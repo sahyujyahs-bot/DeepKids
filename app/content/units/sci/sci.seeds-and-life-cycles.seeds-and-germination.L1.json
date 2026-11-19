@@ -201,7 +201,7 @@
    "title": "Whose Seed? A memory game",
    "mins": 15,
    "players": "2 to 4 players. Anyone who cannot read yet asks another player to read the card.",
-   "context": "This is a memory game. Half the cards are seeds and half are the plants they grow into. Players match each seed to the plant that grows from the seed.",
+   "context": "This is a memory game. Half the cards are seeds and half are the plants they grow into. You will find out which tiny seed grows into the biggest plant.",
    "printables": [
     {
      "kind": "cards",
@@ -304,14 +304,14 @@
      "mins": 4,
      "do": "1. Cut out the 16 cards. 2. Colour the borders: brown for seeds, green for plants. 3. Mix the cards and lay them face down.",
      "say": "Each brown card is a seed. Each green card is a plant. Can you match each seed to the plant that grows from that seed?",
-     "kid": "Brown cards are seeds. Green cards are plants. Find the pairs."
+     "kid": "Look at the cards. Which ones are seeds? Which ones are plants?"
     },
     {
      "id": "s2",
      "mins": 8,
      "do": "Take turns. Each player turns one brown and one green card. Read both out loud.",
-     "say": "What did you turn over? Does this seed grow into this plant? Why do you think so?",
-     "kid": "Turn one brown card and one green card. Do they go together?",
+     "say": "What did you turn over? Does this seed grow into this plant? How do you know?",
+     "kid": "Turn one brown card and one green card. Say both names out loud.",
      "ask": [
       {
        "q": "Can a mango stone grow into a coconut palm?",
@@ -328,7 +328,7 @@
      "mins": 3,
      "do": "Lay out all the pairs. Count each player's pairs. Look at the banyan pair.",
      "say": "Look at the banyan seed and the banyan tree. Which seed is smallest? Which plant is biggest?",
-     "kid": "Look at the tiny banyan seed. Look at the huge banyan tree. Are they a pair?",
+     "kid": "Find the banyan seed and the banyan tree. Put them side by side.",
      "check": {
       "t": "mcq",
       "q": "A banyan seed is tiny. What does a banyan seed grow into?",
@@ -349,7 +349,7 @@
    "title": "Root Down, Shoot Up: a moving game",
    "mins": 10,
    "players": "1 or more players and a caller",
-   "context": "This is a moving game about how a seed sprouts. The caller reads a card, and the players move the way that part of the plant grows.",
+   "context": "This is a moving game about how a seed sprouts. The caller reads a card, and the players move the way that part of the plant grows. You will find out what each part of a sprouting seed does.",
    "printables": [
     {
      "kind": "cards",
@@ -420,14 +420,14 @@
      "id": "s1",
      "mins": 2,
      "do": "Clear a space on the floor. Put the cards in order, with the Dry seed card on top.",
-     "say": "You are a seed. Curl up small. I will read a card, and you move.",
-     "kid": "Curl up small. You are a dry seed."
+     "say": "We will play a game about how a seed sprouts. I will read a card, and you move.",
+     "kid": "Curl up small, like a dry seed."
     },
     {
      "id": "s2",
      "mins": 6,
      "do": "Read the cards one at a time. Do the moves together the first time.",
-     "say": "Root! Which way does the root grow? Show me with your feet.",
+     "say": "Which way does a root grow? Show me with your feet.",
      "kid": "Listen to the card. Move like that part of the plant.",
      "parent": "If the child shoots up before the root, say 'Root first!' and let them try again."
     },
@@ -435,8 +435,8 @@
      "id": "s3",
      "mins": 2,
      "do": "Say 'Freeze!' Ask each player what their body is doing, and which part of the plant does that.",
-     "say": "Freeze! What is your body doing? Which part of the plant does that? What is that part doing for the plant?",
-     "kid": "Freeze! What is your body doing? Which part of the plant does that?",
+     "say": "Freeze! What is your body doing? Which part of the plant does that?",
+     "kid": "Stay frozen. Tell your grown-up which part of the plant you are.",
      "check": {
       "t": "mcq",
       "q": "What does the root do for a young plant?",
@@ -466,7 +466,7 @@
     "Seed",
     "Day we looked",
     "What we saw",
-    "My drawing"
+    "My drawing or photo"
    ],
    "materials": [
     {
@@ -508,22 +508,22 @@
     {
      "day": 2,
      "mins": 4,
-     "what": "Dig up seed 1. Look, draw, and put the seed back."
+     "what": "Dig up seed 1. Look, draw or take a photo, and put the seed back."
     },
     {
      "day": 3,
      "mins": 4,
-     "what": "Dig up seed 2. Look, draw, and put the seed back."
+     "what": "Dig up seed 2. Look, say what you see, and put the seed back."
     },
     {
      "day": 4,
      "mins": 4,
-     "what": "Dig up seed 3. Look, draw, and put the seed back."
+     "what": "Dig up seed 3. Look, draw or take a photo, and put the seed back."
     },
     {
      "day": 5,
      "mins": 5,
-     "what": "Dig up seed 4. Look at seed 5 from the top. Put all your drawings in a row."
+     "what": "Dig up seed 4. Look at seed 5 from the top. Put all your records in a row."
     },
     {
      "day": 6,
@@ -531,7 +531,7 @@
      "what": "Look for seed 5's shoot coming up. If the shoot is not up, look again each day."
     }
    ],
-   "record": "Each day, draw the seed you dug up, as big as your hand. On day 5, put the drawings in a row.",
+   "record": "On days 2 and 4, draw the seed you dug up, as big as your hand, or take a photo. On day 3, say what you see and your grown-up writes it in the table. On day 5, put your records in a row.",
    "example_chart": {
     "type": "table",
     "title": "Made-up example results. Your seeds may be a day faster or slower.",
@@ -579,7 +579,7 @@
     },
     {
      "art": "Four drawings in a row on a table: a fat seed, a seed with a short root, a seed with a long root, and a seed with a long root and a curled shoot.",
-     "caption": "3. Draw each seed. Put the drawings in a row."
+     "caption": "3. Record each seed. Put the records in a row."
     }
    ],
    "flow": [
@@ -596,8 +596,8 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Fill the box with soil, 3 fingers deep. 2. Push 5 sticks into the soil, in a row, a hand apart. 3. Next to each stick, push one seed down one finger-joint deep. 4. Cover with soil. 5. Sprinkle water until the soil is damp. 6. Put the box by a bright window, out of hot afternoon sun.",
-     "say": "Feel the chana now. What has changed since last night? Now let's plant each seed next to a stick.",
-     "kid": "Feel the chana. Are they hard or soft? Plant one seed next to each stick.",
+     "say": "Feel the chana now. Then we plant each seed next to a stick.",
+     "kid": "Feel the soaked chana. Then plant one seed next to each stick.",
      "ask": [
       {
        "q": "What changed after the night in water?",
@@ -614,8 +614,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Ask your child to guess, and to say why. Write the guess down.",
-     "say": "Tomorrow we dig up seed 1. What will the seed have done under the soil? A root, a leaf, or nothing yet? Why do you think so?",
-     "kid": "Guess. Under the soil, what will the seed grow first? Why?",
+     "say": "Tomorrow we dig up seed 1. What will the seed have done under the soil?",
+     "kid": "Guess: a root, a leaf, or nothing yet?",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -632,9 +632,9 @@
     {
      "id": "s4",
      "mins": 4,
-     "do": "1. Next to stick 1, lift the soil gently with a spoon. 2. Lay seed 1 on the damp cloth. 3. Look closely and draw. 4. Put the seed back in the hole, cover the seed with soil and water a little.",
-     "say": "Let's dig up seed 1 very gently. What do you see? Is anything coming out?",
-     "kid": "Dig up seed 1 gently. Look closely. What is coming out?",
+     "do": "1. Next to stick 1, lift the soil gently with a spoon. 2. Lay seed 1 on the damp cloth. 3. Look closely. Draw it or take a photo. 4. Put the seed back in the hole, cover the seed with soil and water a little.",
+     "say": "Let's dig up seed 1 very gently. Hold the seed by the sides.",
+     "kid": "Look closely at the seed. Is anything coming out?",
      "ask": [
       {
        "q": "What does seed 1 look like?",
@@ -651,9 +651,9 @@
     {
      "id": "s5",
      "mins": 4,
-     "do": "On day 3, dig up seed 2 the same way. Draw seed 2 and put the drawing next to the drawing of seed 1.",
-     "say": "Here is seed 2. Which way is the white part growing? Up or down?",
-     "kid": "Dig up seed 2. Which way is the white part going?",
+     "do": "On day 3, dig up seed 2 the same way. Lay seed 2 on the cloth. Write what your child says in the results table.",
+     "say": "Here is seed 2. Look at it next to your record of seed 1.",
+     "kid": "Find the white part. Which way does it point?",
      "ask": [
       {
        "q": "What is the white part?",
@@ -669,18 +669,18 @@
     {
      "id": "s7",
      "mins": 4,
-     "do": "On day 4, dig up seed 3 the same way. Draw the seed and put the drawing in the row.",
+     "do": "On day 4, dig up seed 3 the same way. Draw the seed or take a photo, and add it to the row.",
      "say": "Here is seed 3. Is the root longer than yesterday? Is anything new coming out?",
-     "kid": "Dig up seed 3. Is the root longer? Is anything new coming out?",
+     "kid": "Dig up seed 3. Look for what is new.",
      "parent": "On day 4 the root is usually long, with little side roots, and a curled shoot may be starting. Everything may be a day slower in a cold room.",
      "wait": "Come back tomorrow, on day 5."
     },
     {
      "id": "s8",
      "mins": 5,
-     "do": "1. On day 5, dig up seed 4. 2. Look at the top of the soil by stick 5. 3. Put all four drawings in a row, from seed 1 to seed 4.",
-     "say": "Look at the top of the soil by stick 5. Nothing may show yet. But was seed 5 doing nothing? Look at your drawings. What did you find out?",
-     "kid": "Look at all your drawings. What came out first? What came next?",
+     "do": "1. On day 5, dig up seed 4. 2. Look at the top of the soil by stick 5. 3. Put your records of seeds 1 to 4 in a row, from seed 1 to seed 4.",
+     "say": "Look at the top of the soil by stick 5. Nothing may show yet. Now look at your records, from seed 1 to seed 4.",
+     "kid": "Look at your records in order. Point to the part that came out first.",
      "ask": [
       {
        "q": "What came out first, the root or the shoot?",
@@ -708,15 +708,15 @@
       "a": 1,
       "why": "A seed grows a root first. The root grows down, drinks water and holds on. The shoot comes later."
      },
-     "parent": "Ask your child what they found out (the root comes first), how they know (the four drawings) and why it is so (the root needs to drink and hold on). Chana can need 6 to 10 days to show above the soil, so if seed 5 is not up, wait a few more days.",
+     "parent": "Ask your child what they found out (the root comes first), how they know (the records in a row) and why it is so (the root needs to drink and hold on). Chana can need 6 to 10 days to show above the soil, so if seed 5 is not up, wait a few more days.",
      "wait": "Come back on day 6."
     },
     {
      "id": "s9",
      "mins": 4,
      "do": "On day 6, look at the top of the soil by stick 5 for a green shoot. If the shoot is not up yet, look again each day. Ask your child to say what they found out.",
-     "say": "Look at seed 5. Is a green shoot up yet? For days nothing showed on top, but was the seed doing nothing? What did you find out?",
-     "kid": "Look at seed 5. Was the seed busy before we saw anything? Say what you found.",
+     "say": "Look at seed 5. Is a green shoot up yet? For days nothing showed on top.",
+     "kid": "Think back to seeds 1 to 4. Was seed 5 busy under the soil before we saw anything?",
      "ask": [
       {
        "q": "What did you find out?",
@@ -727,7 +727,7 @@
        ]
       }
      ],
-     "parent": "Ask your child what they found out (the root comes first), how they know (the four drawings) and why it is so (the root needs to drink and hold on). Chana can take 6 to 10 days to show above the soil, so wait a few days if seed 5 is not up."
+     "parent": "Ask your child what they found out (the root comes first), how they know (the records in a row) and why it is so (the root needs to drink and hold on). Chana can take 6 to 10 days to show above the soil, so wait a few days if seed 5 is not up."
     }
    ]
   },
@@ -736,7 +736,7 @@
    "title": "Big Seed, Small Seed: who sprouts first?",
    "mins": 20,
    "days": 3,
-   "context": "In this experiment you put rajma, moong and rai seeds on wet tissue, side by side. You watch to find out which kind shows a root first.",
+   "context": "In this experiment you put rajma, moong and rai seeds on wet tissue, side by side. You find out whether the big seed sprouts faster than the small ones.",
    "question": "Does a big seed sprout faster than a small seed?",
    "predict": "Guess first. Which seed will show a root first: the big rajma, the middle moong, or the tiny rai? Why do you think so?",
    "fair_test": "All three kinds soak for the same time, sit on the same wet tissue on one plate, and get the same water in the same place. Only the kind of seed is different.",
@@ -805,8 +805,8 @@
      "id": "s1",
      "mins": 3,
      "do": "In the evening, put 6 rajma, 6 moong and 6 rai in three small bowls. Cover each with water.",
-     "say": "Look at the three kinds of seed. Which is the biggest? Which is the smallest?",
-     "kid": "Look at the three seeds. Which is biggest? Which is smallest?",
+     "say": "Here are three kinds of seed: rajma, moong and rai. Which is the biggest? Which is the smallest?",
+     "kid": "Point to the biggest seed. Point to the smallest seed.",
      "wait": "Lay the seeds on wet tissue tomorrow morning.",
      "parent": "Do not eat these seeds raw: raw rajma is poisonous. Small seeds must stay out of mouths and noses, so keep the plate away from small children. Soaked rai goes slimy. That is normal."
     },
@@ -814,8 +814,8 @@
      "id": "s2",
      "mins": 8,
      "do": "1. Wet the tissue on the plate. 2. Pour each bowl through a tea strainer to drain the seeds. 3. Lay the seeds in three rows, one row for each kind. 4. Ask your child to guess which kind will show a root first, and to say why.",
-     "say": "Which seed will show a root first? Why do you think so?",
-     "kid": "Put the seeds in three rows. Which will show a root first? Why?",
+     "say": "Which kind of seed will show a root first?",
+     "kid": "Lay the seeds in three rows, one row for each kind.",
      "ask": [
       {
        "q": "Why do you think so?",
@@ -832,8 +832,8 @@
      "id": "s3",
      "mins": 4,
      "do": "Look at each row. Count the seeds with a white root. Sprinkle water on the tissue.",
-     "say": "Count the seeds with a root in each row. Which row has the most?",
-     "kid": "Count the seeds with a white root in each row.",
+     "say": "Look for white tails coming out of the seeds. Which row has the most?",
+     "kid": "Count the seeds with a white root in each row. Say the numbers out loud.",
      "parent": "Moong and rai usually show roots first, often within a day. Rajma are usually a day or two slower. If rajma win in your home, that is a real result too.",
      "wait": "Come back tomorrow."
     },
@@ -841,8 +841,8 @@
      "id": "s4",
      "mins": 5,
      "do": "Look again. Talk about which kind of seed showed a root first, and what came out first on every seed.",
-     "say": "Which kind of seed showed a root first? Did the big seed sprout faster? And on every seed, what came out first?",
-     "kid": "Which kind of seed showed a root first? On every seed, what came out first?",
+     "say": "Look at all three rows again. Which kind of seed showed a root first?",
+     "kid": "On every kind of seed, point to what came out first.",
      "ask": [
       {
        "q": "Did the biggest seed sprout first?",
@@ -863,7 +863,7 @@
    "title": "The Seed Feely Bag",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you put kitchen seeds in a cloth bag. You feel one seed at a time without looking, and guess which kind of seed you are holding.",
+   "context": "In this activity you put kitchen seeds in a cloth bag. You feel one seed at a time without looking, and guess which kind of seed you are holding. You will find out how much your fingers can tell you about a seed.",
    "materials": [
     {
      "item": "a cloth bag, a clean sock or a pillow cover",
@@ -885,7 +885,7 @@
      "what": "Feel the seeds without looking. Guess each one."
     }
    ],
-   "record": "Draw the seed that was hardest to guess.",
+   "record": "Tell your grown-up which seed was hardest to guess and why. Or draw that seed.",
    "setup": [
     {
      "art": "A steel plate with rajma, chana, groundnuts, moong and a tamarind seed, and a cloth bag next to the plate.",
@@ -901,16 +901,16 @@
      "id": "s1",
      "mins": 3,
      "do": "Put two of each seed on the plate. Let your child look at and touch each one.",
-     "say": "These are all seeds. Each one has a tiny baby plant inside. Feel each kind. Which is smooth? Which is wrinkly?",
-     "kid": "These are all seeds. Touch each one. Which is smooth? Which is wrinkly?",
+     "say": "These are all seeds. Each one has a tiny baby plant inside. Look at each kind and feel it.",
+     "kid": "Which seed is smooth? Which is wrinkly? Which is the biggest?",
      "parent": "Chana is wrinkly, rajma is smooth and shiny, groundnut has a thin papery skin, moong is small and smooth."
     },
     {
      "id": "s2",
      "mins": 5,
      "do": "Put one of each seed in the bag. Your child reaches in, picks one, feels the seed and guesses, then pulls the seed out to check.",
-     "say": "Pick one seed. Don't look. Is the seed big or small, smooth or wrinkly? Which kind of seed are you holding?",
-     "kid": "Feel one seed without looking. Guess which kind of seed. Then look.",
+     "say": "Pick one seed. Don't look. Is it big or small, smooth or wrinkly?",
+     "kid": "Guess which kind of seed it is. Then pull it out to check.",
      "ask": [
       {
        "q": "How did you know?",
@@ -927,7 +927,7 @@
      "mins": 2,
      "do": "Ask your child what would grow if each seed were planted.",
      "say": "All of these are seeds. What would happen if we planted each one?",
-     "kid": "What would grow from each seed?",
+     "kid": "Pick a seed from the plate. Tell your grown-up what would grow from it.",
      "ask": [
       {
        "q": "What would grow from the groundnut?",
@@ -946,14 +946,14 @@
    "title": "Line Up the Seeds: smallest to biggest",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you put seeds in a line from the smallest to the biggest. Then you talk about which plant each one grows into.",
+   "context": "In this activity you put seeds in a line from the smallest to the biggest. Then you talk about which plant each one grows into. You will find out if a bigger seed always grows into a bigger plant.",
    "materials": [
     {
      "item": "a few of each seed: rai, moong, chana, rajma, groundnut, and a mango stone or a tamarind seed if you have one",
      "qty": "a few of each"
     },
     {
-     "item": "a strip of paper and a crayon",
+     "item": "a strip of paper to lay the seeds on",
      "qty": 1
     }
    ],
@@ -964,7 +964,7 @@
      "what": "Line up the seeds by size. Talk about the plants they grow into."
     }
    ],
-   "record": "Draw your line of seeds on the paper strip, smallest at one end.",
+   "record": "Take a photo of your line, or leave the seeds on the strip. Tell your grown-up which seed is smallest and which is biggest.",
    "setup": [
     {
      "art": "A paper strip on the floor with seeds in a line: tiny rai, moong, chana, rajma, a groundnut and a big mango stone.",
@@ -989,7 +989,7 @@
      "mins": 5,
      "do": "Talk about the plant each seed grows into.",
      "say": "A mango stone grows into a big tree. A rajma grows into a small plant. A banyan seed is even smaller than rai, and a banyan grows into a huge tree. Does a bigger seed always make a bigger plant?",
-     "kid": "Does a big seed always grow a big plant? What about the tiny banyan seed?",
+     "kid": "Think about the banyan seed. It is smaller than your smallest seed.",
      "ask": [
       {
        "q": "Does a big seed always make a big plant?",
@@ -1007,7 +1007,7 @@
    "title": "What's in the Pumpkin? Save seeds to plant",
    "mins": 10,
    "days": 1,
-   "context": "In this activity you take the seeds out of a pumpkin, a melon or a watermelon from the kitchen. You wash and count some, and keep the best ones to plant.",
+   "context": "In this activity you take the seeds out of a pumpkin, a melon or a watermelon from the kitchen. You wash and count some, and keep the best ones to plant. You will find out how many seeds hide inside one fruit.",
    "materials": [
     {
      "item": "the seeds scooped out of a pumpkin, an ash gourd, a muskmelon or a watermelon, on cooking day",
@@ -1029,7 +1029,7 @@
      "what": "Wash the seeds. Count ten. Spread them to dry for two days."
     }
    ],
-   "record": "Draw one seed and the fruit the seed came from.",
+   "record": "Tell your grown-up which fruit the seeds came from and what will grow from them. Or draw one seed and its fruit.",
    "setup": [
     {
      "art": "A cut pumpkin with seeds being scooped into a steel sieve.",
@@ -1070,7 +1070,7 @@
      "id": "s3",
      "mins": 3,
      "do": "Spread the seeds on newspaper to dry for two days. Keep some for the project 'Plant a Seed from Your Plate'.",
-     "say": "We'll dry these and plant some. Which plant will come up?",
+     "say": "We will dry these for two days. Then we will plant some.",
      "kid": "Spread the seeds out to dry. Soon we will plant them.",
      "parent": "Fresh seeds can also be planted straight away. Seeds from a store-bought pumpkin or melon usually sprout well."
     }
@@ -1116,7 +1116,7 @@
     {
      "day": 6,
      "mins": 5,
-     "what": "Look for curled shoots coming up. Draw the cup."
+     "what": "Look for curled shoots coming up. Take a photo of the cup, or draw it."
     },
     {
      "day": 9,
@@ -1126,10 +1126,10 @@
     {
      "day": 14,
      "mins": 10,
-     "what": "Draw your plants. Compare the seed leaves with the newer leaves. Tell someone at home the story of your seed, from plate to plant."
+     "what": "Look at your plants. Compare the seed leaves with the newer leaves. Tell someone at home the story of your seed, from plate to plant."
     }
    ],
-   "record": "Draw your cup on day 1, day 6 and day 14.",
+   "record": "On day 1, day 6 and day 14, take a photo of your cup, or draw it.",
    "setup": [
     {
      "art": "A child pushing pale pumpkin seeds into a paper cup of soil on a saucer.",
@@ -1145,7 +1145,7 @@
      "id": "s1",
      "mins": 8,
      "do": "1. Fill the cup with soil. 2. Push 4 seeds in, one finger-joint deep, flat side down. 3. Cover and sprinkle water until the soil is damp. 4. Put the cup on a saucer by a bright window.",
-     "say": "These seeds came from our pumpkin. Let's plant them. What do you think will grow? What name shall we give each plant?",
+     "say": "These seeds came from a fruit we ate. Let's plant them. What do you think will grow?",
      "kid": "Push 4 seeds into the soil. Cover them. Sprinkle water. Give each plant a name.",
      "parent": "Poke holes in the bottom of the cup so extra water drains out. Soggy soil makes seeds rot."
     },
@@ -1154,15 +1154,15 @@
      "mins": 3,
      "do": "Every two or three days, touch the soil. If the top feels dry, sprinkle 3 spoons of water.",
      "say": "Touch the soil. Is the soil dry or damp? Does your seed need a drink?",
-     "kid": "Touch the soil. If the soil is dry, give some water. If the soil is damp, do not water.",
+     "kid": "If the soil is dry, give it some water. If it is damp, wait.",
      "wait": "Check every two or three days."
     },
     {
      "id": "s3",
      "mins": 5,
-     "do": "Look for curled shoots coming up. Draw the cup.",
+     "do": "Look for curled shoots coming up. Take a photo of the cup, or draw it.",
      "say": "Look! What is coming up? Why do you think the shoot is curled over?",
-     "kid": "Look for a curled shoot. Draw what you see.",
+     "kid": "Find a curled shoot and point to it.",
      "parent": "The shoot is curled like a bent finger, so the soil does not scrape the soft tip. Pumpkin and melon seeds usually come up in 4 to 8 days in warm weather. Tomato seeds can take up to 2 weeks. In a cold room, they take longer.",
      "wait": "Come back on day 9."
     },
@@ -1171,16 +1171,16 @@
      "mins": 4,
      "do": "Look at the seed leaves. Then look in the middle for a tiny new leaf. The new leaf may not have come yet.",
      "say": "Look at the first two leaves, the seed leaves. Is there a tiny new leaf in the middle yet? If there is, is the new leaf the same shape as the seed leaves?",
-     "kid": "Look at the first two leaves. Draw one.",
+     "kid": "Look at the first two leaves. Count them. Are they round or pointy?",
      "parent": "Pumpkin seed leaves are smooth and round. The true leaves come a little later and are big, rough and wavy at the edges. If you cannot see one yet, look again on day 14.",
      "wait": "Come back on day 14."
     },
     {
      "id": "s5",
      "mins": 10,
-     "do": "Your child draws the plants and compares the seed leaves with the newer leaves. Then your child tells someone at home the story, from plate to plant.",
+     "do": "Your child compares the seed leaves with the newer leaves. Then your child tells someone at home the story, from plate to plant.",
      "say": "Tell your story. Where did the seed come from? What came out first? What happened next? Are the newer leaves the same shape as the seed leaves?",
-     "kid": "Tell someone at home the story of your seed. Where did the seed come from? What grew first?",
+     "kid": "Tell someone at home the story of your seed.",
      "ask": [
       {
        "q": "What kind of plant grew from the pumpkin seed?",
@@ -1223,7 +1223,7 @@
     "Cut a plastic bottle in half. Turn the top half upside down into the bottom half, with a cloth strip going down into the water.",
     "Cover the plate loosely with a clear plastic bag. The water that dries off the tissue collects on the bag and drips back."
    ],
-   "your_turn": "Now invent your own way. Draw it, make it, and test it for three days. Did the tissue stay wet? Did the seeds sprout?",
+   "your_turn": "Now invent your own way. Make it, and test it for three days. Sketch it first if you like. Did the tissue stay wet? Did the seeds sprout?",
    "setup": [
     {
      "art": "A steel tumbler of water with a strip of cotton cloth hanging over the rim and lying under a wet tissue with moong seeds on a plate.",
@@ -1239,16 +1239,16 @@
      "id": "s1",
      "mins": 4,
      "do": "Show a dry tissue and a wet tissue. Leave a wet tissue on a plate and come back in the evening.",
-     "say": "If nobody waters the seeds, what happens to the tissue? How could we keep the tissue wet without pouring water?",
-     "kid": "What happens to wet tissue if nobody waters it? How could we keep it wet?",
+     "say": "Here is a wet tissue and a dry one. If nobody waters the seeds, what happens to the tissue?",
+     "kid": "Think of a way to keep the tissue wet without pouring water.",
      "parent": "On a warm day, a thin wet tissue can dry in a few hours. For step 2, soak a handful of moong the evening before."
     },
     {
      "id": "s2",
      "mins": 10,
      "do": "Your child picks an idea, or invents one, and builds it with your help, using the moong soaked the night before.",
-     "say": "Which idea will you try? Why do you think it will keep the tissue wet?",
-     "kid": "Pick an idea. Build it. Say why you think it will work.",
+     "say": "Which idea will you try?",
+     "kid": "Pick an idea and build it.",
      "ask": [
       {
        "q": "Why will your idea work?",
@@ -1264,8 +1264,8 @@
      "id": "s3",
      "mins": 6,
      "do": "Check once a day for three days. Do not add water. Look at the seeds and touch the tissue.",
-     "say": "Is the tissue still damp? Are the seeds sprouting? What came out of them first?",
-     "kid": "Touch the tissue. Is the tissue wet? Look at the seeds. What came out first?",
+     "say": "Is the tissue still damp? Are the seeds sprouting?",
+     "kid": "Touch the tissue and look at the seeds. What came out first?",
      "check": {
       "t": "mcq",
       "q": "A cotton strip stands in water and touches the tissue. What does the strip do?",
